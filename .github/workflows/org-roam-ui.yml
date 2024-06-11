@@ -3,6 +3,12 @@ on:
   push:
     branches:
       - main
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
 jobs:
   main:
     runs-on: ubuntu-latest
@@ -11,3 +17,5 @@ jobs:
         uses: ikoamu/org-roam-ui-hosting@main
         with:
           org-roam-db-filename: org-roam.db
+          site-title: Elite Dangerous Lore Explorer
+          deploy-to-pages: true
