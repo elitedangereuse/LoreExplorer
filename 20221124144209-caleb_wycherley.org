@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       106b62b9-4ed8-4f7c-8c5c-12debf994d4f
+:ROAM_ALIASES: Witch Salvation Rédemption
+:END:
+#+title: Caleb Wycherley
+Sub-contractor and vice-president of research at [[id:e68a5318-bd72-4c92-9f70-dcdbd59505d1][Azimuth Biochemicals]]
+[[id:38143d4a-d8a5-4978-a62c-8b64a0c75969][Proteus Wave]]
+
+The Witch is one of two known aliases used by Caleb Wycherley, the
+other being Salvation. He was originally the vice-president of
+research at [[id:e68a5318-bd72-4c92-9f70-dcdbd59505d1][Azimuth Biochemicals]], and a sub-contractor for the
+[[id:39a31dd8-3750-4507-90b7-b649d0eeecef][INRA]][1]. He has been mentioned in logs recovered from the [[id:4668be49-dfb5-4946-ac42-e74530553fd9][Project
+Seraph]] sites [[id:586aa56a-86e4-49f1-a2f7-b49367083b1e][Oaken Point]] and [[id:117f59dd-4f18-47a4-88a1-ac5b3088b78a][Fort Asch]], the logs from the recently
+discovered INRA base '[[id:aba99a43-f484-41a8-b249-8443f2da119d][Iraxon Lane]]', (which details how the nickname
+originated), and the wreckage of the [[id:a6b33331-c1bb-44cf-9717-f72eb0f63c99][Aegis]] [[id:751c84bc-ea85-495d-923c-7776da57803a][megaship]] [[id:4d4f19a9-5100-4307-ac1b-f40ae90e806c][Alexandria]].
+
+#+begin_quote
+Earlier today I secured a regular supply of [[id:ef2cdcaf-36f7-4759-860c-4e489f48226c][progenitor cells]]. My
+recent brush with death served as a reminder of my own mortality, and
+there is far too much work to do in a typical human lifespan. The
+operation to fully restore my sight was a success, but has left my eye
+completely white.
+#+end_quote
+[[id:aba99a43-f484-41a8-b249-8443f2da119d][Iraxon Lane (Azimuth Contract 4/5)]]
+
+[[id:7d4ef5dd-7919-435c-96e7-412e1c89bb0a][Very Old Person]]

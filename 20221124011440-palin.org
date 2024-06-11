@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       8f63442a-1f38-457d-857a-38297d732a90
+:END:
+#+title: Professor Ishmael Palin
+* Job
+  [[id:952ef45f-df68-4524-bbd7-5f5a427494ef][Engineer]]
+  [[id:26d5e48a-8815-4147-b021-d5fb0ff314f2][Ship]]
+* Location
+Abel Laboratory | [[id:d4b595af-536d-4575-af11-f07f3ac3ff40][Arque]]
+* How to discover
+From [[id:d18667b7-1da8-48ca-bb84-e280ebf77a35][Marco Qwent]] (grade 3-4).
+* Meeting requirements
+Attain a maximum distance from your career start location of at least
+5,000 light years.
+* Unlock requirements
+Provide 25 units of [[id:cfd325a2-3d9b-435f-8ff7-e8010053af50][Sensor Fragments]].
+* Reputation gain
+Craft modules for a major increase.
+Sell exploration data to Abel Laboratory.

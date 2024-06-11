@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       55088d83-4221-44fa-a9d5-6ebb0866c722
+:END:
+#+title: HIP 22460
+
+[[id:38143d4a-d8a5-4978-a62c-8b64a0c75969][Proteus Wave]]
+[[id:41bd6e9c-ec5f-4037-a929-5aa113f93a03][Salvation]]
+[[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]]
+[[id:9a246121-0c2e-4f21-9877-ee333d6b0d6c][Second Thargoid War]]

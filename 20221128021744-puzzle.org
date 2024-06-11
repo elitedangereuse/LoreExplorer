@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d4041b1f-0788-4db1-b21d-4a58e5d96965
+:END:
+#+title: Puzzle
+
+[[id:d81dd848-0189-46bd-b5e3-c6dd5cc75fa7][Letter offsets]]
+[[id:c105ad4c-c57e-4157-b453-0a2ad6ec005d][NATO phonetic alphabet characters]]
+[[id:a1a41fed-00ef-4e58-a285-b5b2d566c67b][Nonogram]]
+[[id:0c5bb2ac-44ba-41f6-a687-d69559c93d84][Atbash cipher]]
+[[id:5fa54455-fdfa-4742-9b41-71a17ee97150][Vigenere]]
+[[id:a01a4bd5-8e45-431e-9766-6ac6f67f74bd][Braille text]]

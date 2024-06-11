@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       51b52a91-d8d7-4df9-a03e-43803749da06
+:END:
+#+title: Marsha Hicks
+[[id:952ef45f-df68-4524-bbd7-5f5a427494ef][Engineer]]
+[[id:26d5e48a-8815-4147-b021-d5fb0ff314f2][Ship]]
+
+* Location
+The Watchtower | [[id:92869a29-f1f2-4437-8d8d-b8c8bfa4212d][Tir]]
+* How to discover
+From [[id:bcdb8e96-5958-4167-b0ec-67b7daa1086e][The Dweller]] (grade 3-4).
+* Meeting requirements
+Gain [[id:97011475-07b1-4e6e-9787-6492f9f952c9][Exploration Rank]] Surveyor or higher.
+* Unlock requirements
+Mine 10 units of [[id:89bb247d-d459-4ebf-a000-698cd1d9c5fe][Osmium]].
+* Reputation gain
+Craft modules for a major increase.

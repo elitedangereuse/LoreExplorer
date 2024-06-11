@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       d17a9775-b9b5-4d26-b69f-16ced04f52a9
+:ROAM_ALIASES: "Unknown Artefacts"
+:END:
+#+title: Thargoid Sensors
+[[https://elitedangereuse.fr/tuto-les-thargoides-dessinent-votre-vaisseau-avec-du-morse/][[TUTO] Comment déchiffrer les messages délivrés par les capteurs thargoides]]
+
+After september the 3rd all the UA starts scanning ships closer than 1000m.
+It is also reported that they are pointing at [[id:70fa34ea-bc98-40ff-97f0-e4f4538387a6][Merope]].
+https://canonn.science/lore/
+
+* Locations
+  - [[id:64dc2ba5-e6a1-4770-ac40-b188d597233c][HIP 17403 A4A]]
+  - [[id:18afa825-885f-4b4e-a0f6-3922fe53540a][Federal Navy convoy]]

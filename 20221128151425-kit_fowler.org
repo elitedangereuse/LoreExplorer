@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       d8266505-5aa0-40a3-aa84-4b6519a16b24
+:END:
+#+title: Kit Fowler
+[[id:952ef45f-df68-4524-bbd7-5f5a427494ef][Engineer]]
+[[id:9f741206-a12d-48ea-af5a-55dd92f0d667][OnFoot]]
+
+* Location
+The Last Call | [[id:9c8a11b6-db1b-4e65-8ee2-21f6483da85a][Capoya]]
+* How to discover
+From [[id:3bb893ed-19f4-4cf2-90ce-a5f0deea8220][Domino Green]]
+* Unlock requirements
+Sell 10 [[id:d22c7b5b-2965-452f-9b1c-77de0b601cf8][Opinion Polls]] to bartenders.
+* Referral requirements
+Provide 5 units of [[id:55669e4c-6120-4f4a-93a1-ddcc366333c5][Surveillance equipment]].

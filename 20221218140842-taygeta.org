@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       6c416340-6932-47f7-98e1-1ccee8cf7e6e
+:END:
+#+title: Taygeta
+
+- Economy:Extraction / Agriculture
+- Government:Cooperative
+- Allegiance:Independent
+- Population:1.21 million
+- Controlling faction:The Hive
+- Traffic:60+ commanders
+- Security level:Low
+- State:Normal
+- Star type:Class B star Scoopable
+- Permit required:No
+- Distance:321.76 Ly from HR 913
+- Powerplay:
+- Headquarters:
+  - PREDATOR
+  - The Hive
+  - The Nebula Roses
+- Info updated:18 Dec 2022, 9:29am
+- Factions updated:18 Dec 2022, 9:29am
+
+- [[id:dff4ba07-01f5-4705-944b-d0689d276612][Rayhan al-Biruni Vista]]
+- [[id:e11c8e77-af4d-4802-9910-b03181da546d][Titan's Daughter]]

@@ -1,0 +1,95 @@
+:PROPERTIES:
+:ID:       85f1b96f-7e6c-4350-9f42-fe1b9453de1a
+:END:
+#+title: Project Dynasty
+
+Project Dynasty was a secret exploration initiative conceived by [[id:8a1ae8ba-e27a-4141-a43a-67bef02cb235][The
+Club]] in 3270. In response to the likelihood of a [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] civil war
+spilling into human space, The Club sought potential safe havens where
+humanity could flee in order to escape the conflict and
+survive. Project Dynasty was intended to identify [[id:7fec1142-ab20-47e1-b746-36edee889cc3][Earth-like]] worlds
+beyond human space and mark them with [[id:1fd01d13-7a2c-402e-bb92-1b4edadd78c2][beacons]] for later reference. The
+project focused on searching three galactic regions: the
+[[id:a2c87748-2b25-494e-85a9-18f9d9bff3a3][Scutum-Sagittarii Conflux]], [[id:a503a67b-8110-4ce5-be60-40f5f0762726][Hawking's Gap]], and the [[id:34f7ac72-4ef4-494f-9982-87fbeadd8086][Formidine Rift]].[1]
+
+1: [[https://elite-dangerous.fandom.com/wiki/Elite_Dangerous:_Premonition][Elite Dangerous: Premonition]]
+
+** Canonn Science
+   - [[https://canonn.science/codex/formidine-rift-alpha-site/][Formidine Rift Alpha Site]]
+   - [[https://canonn.science/codex/conflux-alpha-site/][Conflux Alpha Site]]
+   - [[https://canonn.science/codex/hawkins-gap-alpha-site/][Hawkins Gap Alpha Site]]
+
+* The Expeditions
+In 3270, Frame Shift Drive-technology did not yet exist and Hyperspace
+travel took hours, and Auto Field-Maintenance Units were expensive
+experimental devices. Consequently, little exploration had been
+attempted outside The Bubble and the Conflux, Hawkin's Gap, and the
+Formidine Rift were entirely uncharted; the journey to the Formidine
+Rift alone would take a full six months, not including the return
+trip.[1]
+
+Zurara Megaship
+
+The Club funded the construction of The Zurara, a state-of-the-art
+Megaship designed specifically for long-term exploration and equipped
+with the latest AFMUs, and also prepared a number of Anacondas. Their
+mission was to locate viable Earth-like worlds in their target areas,
+and mark them with beacons to serve as waypoints when the Thargoids
+invaded The Bubble and humanity needed a safe haven. To ensure
+absolute secrecy for as long as possible, the Project Dynasty
+expeditions were never intended to return after they had completed
+their objectives. In the case of The Zurara, it was sabotaged and
+stranded in the Formidine Rift with no power by sleeper agents who had
+been conditioned to sacrifice themselves. The project's other ships
+presumably met similar fates.[1]
+
+
+1: [[https://elite-dangerous.fandom.com/wiki/Project_Dynasty][Project Dynasty]]
+
+* The Formidine Rift Mystery
+
+Project Dynasty was at the core of what became known as the Formidine
+Rift Mystery. The Formidine Rift is a part of space around 10,000
+light-years away from the Core Systems located in the Upper 2 quadrant
+of the Milky Way Galaxy. It was thought that the mystery might lead to
+the planet of Raxxla. The end result is located somewhere in the
+Rift. It has been in game since version 1.0.
+
+The story behind the Formidine Rift mystery was written by [[id:091e2146-510f-4405-96c6-af6b76328eae][Drew Wagar]]
+in his book called Elite: Reclamation, which is one of several books
+in his series on Elite. Wagar confirmed there's something there to be
+found in-game.[2]
+
+John Harper, author of And Here The Wheel, wrote in a Kickstarter
+comment:
+
+"You don't know what I've seen. I've sailed beyond the Formidine Rift,
+seen the fleets of Octagonal ships blocking out the stars. I've stood
+on lost worlds, sterilised clean by the Thargoids and erased from
+humanity's maps. I've seen the graves from the Thargoid wars,
+countless headstones stretching beyond the curvature of the horizon,
+little spots of reflected light dottering the abandoned continent ..."
+
+Commanders have been searching the Rift for years without much success
+up until the end of 2016 (3302 in-game date). Then finally, some
+navigation beacons were discovered in sectors located in that area of
+space. Those beacons had encoded location coordinates which were
+quickly revealed to the public.[3]
+
+No one knows for sure what actually happened in the Rift. Commanders
+have been able to find a unique settlement down on one of the planets
+in the Formidine Rift region, while another has been found in Conflux.
+
+* [[id:d4041b1f-0788-4db1-b21d-4a58e5d96965][Encrypted beacons]]
+
+[[id:1fd01d13-7a2c-402e-bb92-1b4edadd78c2][Unregistered beacons]] near the heart nebula and soul nebula.
+
+Key used:
+- EXODUSABCFGHIJKLMNPQRTVWYZ
+- ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+| System              | Message                                                                                                                                                                               | Translation                                                                                         | Rally point | Time repeats               | Notes                                                                        | Links |
+| EAFOTS LZ-H B10-0 D | dyjepqyuwludcqckj xueokjdjpqyp6unl003 nehhylkcjqd1 sknicdcjuncsq ueskqpczbx100 ikdupqejdxy                                                                                            | dynasty expedition beacon dnstys6erp003 rallypoint d1 formidine rift eafotsizhb100 mode standby     | D1          | 15 minutes after each hour | Translated system name and system beacon was found in do not match. (i vs l) |       |
+| EAFOTS EU-R C4-1    | DYJEPQYUWLUDCQCKJ XUEOKJDJPQYP6UNL003 NEHHYLKCJQO2 SKNICDCJUNCSQ UESKQPURNO41 IKDUPQEJDXY                                                                                             | dynasty expedition beacon dnstys6erp003 rallypoint c2 formidine rift eafotseurc41 mode standby      | C2          | On the hour, every hour    |                                                                              |       |
+| EAFOTS GL-Y E2      | DYJEPQYUWLUDCQCKJ XUEOKJDJPQYP6UNL003 NEHHYLKCJQ6 SKNICDCJUNCSQ UESKQPAHYU2 IKDUPQEJDXY                                                                                               | dynasty expedition beacon dnstys6erp003 rallypoint 6  formidine rift eafotsglye2  mode standby      | 6           | 45 minutes after each hour |                                                                              |       |
+| EAFOTS RA-G B11-0 3 | DYJEPQYUWLUDCQCKJ XUEOKJDJPQYP6UNL003 NEHHYLKCJQ3 SKNICDCJUNCSQ UESKQPNEAX 110IKDUPQEJ DXYDYJEPQYU WLUDCQCKJXU EOKJDJPQYP6 UNL003NEHHY LKCJQ3SKNIC DCJUNCSQUE SKQPNEAX110I KDUPQEJDXY | DYNASTY EXPEDITION BEACON DNSTYS6ERP003 RALLYPOINT 3 FORMIDINE RIFT EAFOTS RA G B 11 0 MODE STANDBY |             | On the hour, every hour    |                                                                              |       |

@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       46f37359-c143-448a-b02d-7468ac7d685d
+:END:
+#+title: HIP 12099
+[[id:f2fac611-d042-4abf-80f9-e5e0b5c9f4b8][Research Base]]
+[[id:0be96028-d995-4b52-8bb0-34f21e080bce][John Jameson]]
+[[id:9ee9c706-4692-4578-8eaf-46ac00bea5aa][Crash Site]]

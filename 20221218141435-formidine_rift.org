@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       34f7ac72-4ef4-494f-9982-87fbeadd8086
+:END:
+#+title: Formidine Rift
+
+[[id:a9167258-9575-4334-9ec2-4bb2d7fa948b][Eafots EU-R c4-1 A]]
+
+The Formidine Rift is galactic region #31 in the Milky Way. It is
+bordered by Errant Marches, Elysian Shore, and Kepler's Crest. By the
+early 34th century, the Formidine Rift had gained a reputation as an
+[[id:3b903a70-280c-4b0c-8240-e97c4c970d92][anomalous]] area where [[id:26d5e48a-8815-4147-b021-d5fb0ff314f2][ships]] often disappeared, due in part to its
+extremely low stellar density which made it difficult to traverse.[1]
+It was eventually discovered that the region contained a [[id:d7fb2458-5173-44f2-b04d-ac08e4a56178][derelict]]
+[[id:751c84bc-ea85-495d-923c-7776da57803a][Megaship]] named [[id:9d439a32-70fd-4f92-b431-f2b782f0f3cb][The Zurara]], which was one of four [[id:6ad7e1e4-4fb0-4cbf-b9a1-771afa67ed0b][secret]] [[id:11106111-4fa9-4c2d-9232-b0cf1e098d85][expeditions]]
+launched in 3270 by [[id:85f1b96f-7e6c-4350-9f42-fe1b9453de1a][Project Dynasty]]. The Zurara had been tasked with
+charting Earth-like worlds for future colonisation, but the crew was
+massacred by brainwashed [[id:a15aa661-11d7-41a3-b13d-c52f3dc24484][sleeper agents]] to ensure that the vessel
+would never return after it completed its task.
+
+1: [[https://community.elitedangerous.com/galnet/uid/57fe5cfc9657ba67413e605c][GalNet: Freelance Report: The Cassiopeia Expedition]]
+
+* Points of Interest
+  | system            | Civilization/Allegiance | Notes                                              |
+  |-------------------+-------------------------+----------------------------------------------------|
+  | Syreadiae JX-F c0 | None                    | Location of The Zurara, a Project Dynasty Megaship |
+   	 	

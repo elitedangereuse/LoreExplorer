@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       39a31dd8-3750-4507-90b7-b649d0eeecef
+:ROAM_ALIASES: "Intergalactic Naval Reserve Arm"
+:END:
+#+title: INRA
+- [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]]
+- [[id:32267587-a5db-456f-8a09-439ed0309638][Weapons]]
+- [[id:c6674165-eb13-47d3-ad54-796aab951892][First Thargoid War]]
+- [[id:f2fac611-d042-4abf-80f9-e5e0b5c9f4b8][Research Base]]
+- [[id:e68a5318-bd72-4c92-9f70-dcdbd59505d1][Azimuth Biochemicals]]
+- [[id:41bd6e9c-ec5f-4037-a929-5aa113f93a03][Salvation]]
+* Identified Personnel
+- [[id:0f1c5734-77f3-44c1-b4ce-f4ea694ad7cc][Bexley Prince]] - Chief Researcher at [[id:83b4df31-f73c-4f2f-8386-1c022b4362ce][Hollis Gateway]]
+- [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Caleb Wycherley]] - Sub-contractor and vice-president of research at [[id:e68a5318-bd72-4c92-9f70-dcdbd59505d1][Azimuth Biochemicals]]
+- [[id:bd6f25c5-c793-4f49-890b-0d0406019bf7][Trystan Law]] - INRA Corporate Liaison
+- [[id:3a8a0d82-7ab3-4c00-a8a4-f65c380d03f9][Jarah Cook]] - Original Site Manager at [[id:1a535540-491e-474a-acf8-c8ca1a81cfa5][Mayes Chemical Plant]] (reassigned)
+- [[id:166b8afc-8bee-4e9c-8b4c-784d410a786e][Elgii Sung]] - Replacement Site Manager at [[id:1a535540-491e-474a-acf8-c8ca1a81cfa5][Mayes Chemical Plant]]
+- [[id:fa04bdc7-94fb-442e-ba31-b7afb1b46a0f][Kiona Li]] - Senior Medical Officer at [[id:9bf3bf04-3f84-4959-afb4-a3a692cd597b][Velasquez Medical Research Center]]
+- [[id:d15bc771-25ff-4d76-a48b-d0044ad94e25][Effie Ratling]] - [[id:952ef45f-df68-4524-bbd7-5f5a427494ef][Engineer]] at [[id:5caecb15-c8eb-4f3e-8856-db3dd116c017][Almeida Landing]]
+- [[id:ff6c20db-2077-427a-9457-72cb71f7e4f9][Amaro Hem]] - INRA Programme Coordinator
+- Unnamed Junior Researcher at [[id:83b4df31-f73c-4f2f-8386-1c022b4362ce][Hollis Gateway]] and [[id:2099fbd4-e3c0-4c81-9caf-24c319b3ac0a][Stuart Retreat]]

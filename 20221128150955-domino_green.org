@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       3bb893ed-19f4-4cf2-90ce-a5f0deea8220
+:END:
+#+title: Domino Green
+[[id:952ef45f-df68-4524-bbd7-5f5a427494ef][Engineer]]
+[[id:9f741206-a12d-48ea-af5a-55dd92f0d667][OnFoot]]
+
+* Location
+The Jackrabbit | [[id:672a83c7-a32c-4219-b925-87564d6389fa][Orishis]]
+* How to discover
+Common knowledge.
+* Unlock requirements
+Travel at least 100 light years in shuttles.
+* Referral requirements
+Provide 5 doses of [[id:cef52cae-208a-4802-8e0f-49d9706df19a][Push]].

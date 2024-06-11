@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       02322be1-fc02-4d8b-acf6-9a9681e3fb15
+:END:
+#+title: Zachary Hudson
+* Job
+  [[id:bb90a162-e588-4467-bc4b-d8a33ecef686][President of the Federation]]
+* Ship
+  [[id:85fdc9c8-500b-4e91-bc8b-70bcb3c05b0f][Starship One]]

@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       14203bd7-c4c0-4c60-a2e6-ef115a646465
+:END:
+#+title: Decoded Emission Data
+[[id:4c2adf46-faa2-4d45-ad1c-5badcb54905b][Component]]

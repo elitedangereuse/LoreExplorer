@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       d81dd848-0189-46bd-b5e3-c6dd5cc75fa7
+:END:
+#+title: Letter offsets
+
+
+9 14 18 1 are the letter offsets for [[id:39a31dd8-3750-4507-90b7-b649d0eeecef][INRA]]
+
+RAXXLA: 18 1 24 24 12 1

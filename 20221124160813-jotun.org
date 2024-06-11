@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       addd8c74-2425-4d26-a1d5-9cb11ce6b0ba
+:END:
+#+title: Jotun
+Faction: [[id:0ebec0eb-5f68-47f5-9a0e-dd1b47f140f7][Dukes of Jotun]]
+Benefits: Access to Rare Good (Juton Mookah)
+Note: Blanquichu has a HAZ RES where you can boost your influence.
+
+* Info
+  Ce système désolé ne possède qu'un seul monde hospitalier, même si
+  les ressources en minerais de ses astéroïdes suscitent bien des
+  convoitises. Fafner est une planète glacée, dont le sol possède une
+  intéressante particularité : tant que sa température ne dépasse pas
+  les 2°C, il demeure vierge de presque tout agent pathogène
+  susceptible de nuire aux plants de céréales. Toutefois, la
+  croissance de la végétation indigène est très lente. Le « mookah »
+  fait la renommée de la planète. Ce petit quadrupède à la douce
+  fourrure multicolore est plus adapté aux riches demeures qu'aux
+  cuisines des restaurants. Car, si sa viande est amère, il se révèle
+  un adorable petit compagnon. Un mookah requiert toutfois beaucoup
+  d'attention. Négligé, il a en effet une fâcheuse tendance à se
+  laisser mourir. Sa fourrure prenant alors une couleur
+  brunâtre. L'animal est surtout exporté dans l'Empire, où il est
+  particulièrement apprécié. Sa valeur est telle que l'on affect
+  généralement un esclave à son bien-être durant le
+  transport. Autorisation délivrée par la faction Dukes of Jotun.

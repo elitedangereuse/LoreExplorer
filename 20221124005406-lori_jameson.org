@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       1950129f-ad8e-453a-94ac-8bb0813e2e28
+:END:
+#+title: Lori Jameson
+* Family
+  [[id:cc697ecd-bd30-4319-b7f0-5e659a6e5b44][Jameson]]
+* Job
+- [[id:952ef45f-df68-4524-bbd7-5f5a427494ef][Engineer]]
+- [[id:26d5e48a-8815-4147-b021-d5fb0ff314f2][Ship]]
+* Location
+Jameson Base | [[id:c6b67ab9-66c5-4636-a978-2ca3a9ab012c][Shinrarta Dezhra]] [[[id:55d5b2cc-aa04-47b1-b144-ffa4e8f43b5d][permit]] required]
+* How to discover
+From [[id:d18667b7-1da8-48ca-bb84-e280ebf77a35][Marco Qwent]] (grade 3-4).
+* Meeting requirements
+Gain [[id:4e05812c-0aba-4886-9f9f-969fbfb4446f][Combat Rank]] Dangerous or higher.
+* Unlock requirements
+Provide 25 units of [[id:f7f2b210-492a-441d-95ab-d5af4ea71edc][Kongga Ale]].
+* Reputation gain
+Craft modules for a major increase.
+Sell exploration data to Jameson Base.

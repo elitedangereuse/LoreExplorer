@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       7e99a467-6e3d-418e-8b10-72cf3660efa6
+:END:
+#+title: Pleiades Nebula
+
+The Pleiades Nebula, also known as the Pleiades, the [[id:17e4242d-642b-4471-9b69-6baade74634f][Seven Sisters]],
+and [[id:885289cf-6625-4e2c-9190-759164d4ac76][Messier 45]], is an open star cluster located in the constellation
+of [[id:9ece039a-e3bf-46a7-a238-5be25031cd50][Taurus]]. It is 384 light-years from Sol.[1] Around the Pleiades star
+cluster is a [[id:ecb50b95-7dbc-49d8-a11a-7c72c126e999][reflection nebula]]. It is caused by dust reflecting the
+[[id:7d1420db-c76c-43aa-8182-fa9f61726585][blue light]] of the hot, young stars.[2] The nine brightest stars of the
+Pleiades are named after the [[id:17e4242d-642b-4471-9b69-6baade74634f][Seven Sisters]] of [[id:6d41fe41-7975-4de3-b77c-29899aa1add0][Greek]] mythology and
+their parents: [[id:a3fdf16a-4128-4735-b5bd-5eb6182b5774][Alcyone]], [[id:db135581-804e-4f1e-9fce-ec2fe722e2c7][Atlas]], [[id:84d00e54-f000-43e0-baab-fd5226552f59][Celaeno]], [[id:9cdea6e2-2abe-43ef-b874-44c09310f310][Electra]], [[id:0ee60994-364c-41b9-98ca-993d041cea72][Maia]], [[id:70fa34ea-bc98-40ff-97f0-e4f4538387a6][Merope]],
+[[id:51916839-dfae-46ab-874f-46ded08bc880][Pleione]], [[id:ca0b12a6-8109-4f70-b9c1-b1053a1344bd][Sterope]] ([[id:ca0b12a6-8109-4f70-b9c1-b1053a1344bd][Asterope]]), [[id:6c416340-6932-47f7-98e1-1ccee8cf7e6e][Taygeta]].

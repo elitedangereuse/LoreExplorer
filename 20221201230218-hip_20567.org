@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       d3e45aa3-a5f0-4c91-8a5d-d890062ac887
+:END:
+#+title: HIP 20567
+

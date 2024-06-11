@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       cfd325a2-3d9b-435f-8ff7-e8010053af50
+:END:
+#+title: Sensor Fragments
+[[id:4c2adf46-faa2-4d45-ad1c-5badcb54905b][Component]]
+Can be obtained by destroying [[id:d17a9775-b9b5-4d26-b69f-16ced04f52a9][Thargoid Sensors]].
+

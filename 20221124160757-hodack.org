@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       72ccd36e-5d65-43e9-873b-80558735d911
+:END:
+#+title: Hodack
+
+Faction: [[id:9a5a3c38-777b-4b46-9013-a1e876268475][Hodack Prison Colony]]
+Benefits: none known

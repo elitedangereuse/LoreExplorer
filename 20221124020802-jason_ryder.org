@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       abad5f3f-677b-40cc-9038-12eb558ec4cc
+:END:
+#+title: Jason Ryder
+Commander of the Ophidian class trade ship [[id:4aeadba4-4911-4595-b261-bf2a8287bee9][Avalonia]]. Killed during the
+destruction of his ship by a pirate. Had a secret life as an [[id:088cf15e-3c00-4522-8c15-aa4c8b30ea8c][Elite]]
+combateer.
+
+A former friend and business partner of [[id:6c17b5fb-2960-4a32-a775-478055f593cb][Rafe Zetter]]
+
+- [[id:7ec2457b-3e53-4928-a17f-e885b681b267][The Dark Wheel]]
+* Family
+  [[id:24e2cdd2-f3f3-45fa-9140-99711e77fd17][Ryder]]

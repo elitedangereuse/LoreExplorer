@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       40542b10-7154-42fc-a1c8-320c5ac73275
+:END:
+#+title: Jude Navarro
+[[id:952ef45f-df68-4524-bbd7-5f5a427494ef][Engineer]]
+[[id:9f741206-a12d-48ea-af5a-55dd92f0d667][OnFoot]]
+
+* Location
+Marshall's Drift | [[id:e276c373-f561-42b9-8bdb-bf34d7a1a7e1][Aurai]]
+* How to discover
+Common knowledge.
+* Unlock requirements
+Complete 10 Restore or Reactivation missions.
+* Referral requirements
+Provide 5 units of [[id:ec8eace0-21f5-47d7-8a8c-664c86cec659][Genetic Repair Meds]].

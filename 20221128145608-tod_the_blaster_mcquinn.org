@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       610da0b4-4f53-45b6-80a7-704ef14cf16f
+:END:
+#+title: Tod "The Blaster" McQuinn
+[[id:952ef45f-df68-4524-bbd7-5f5a427494ef][Engineer]]
+[[id:26d5e48a-8815-4147-b021-d5fb0ff314f2][Ship]]
+
+* Location
+Trophy Camp | [[id:904e09fa-f2a2-4420-a80c-695eebebb61e][Wolf 397]]
+* How to discover
+Common knowledge.
+* Meeting requirements
+Earn more than 15 [[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]].
+* Unlock requirements
+Provide 100,000 credits worth of bounty vouchers.
+* Reputation gain
+Craft modules for a major increase.
+Hand in Alliance bounty vouchers to Trophy Camp.

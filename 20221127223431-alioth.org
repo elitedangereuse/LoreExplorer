@@ -1,0 +1,152 @@
+:PROPERTIES:
+:ID:       5c4e0227-24c0-4696-b2e1-5ba9fe0308f5
+:ROAM_ALIASES: "Epsilon Ursae Majoris"
+:END:
+#+title: Alioth
+
+* Description
+Alioth, also known as Epsilon Ursae Majoris, is the capital system of
+[[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]]. It is located in the Core Systems within the Inner Orion
+Spur. Access to Alioth is restricted, and the [[id:55d5b2cc-aa04-47b1-b144-ffa4e8f43b5d][permit]] can only be
+obtained by becoming Allied with the [[id:d17b2062-68b1-43ea-8852-ab04b591c6ba][Alioth Independents]] minor faction
+in any system where it has a presence.
+
+* 0113 [[https://eddb.io/attraction/72912][Alliance Assembly]]                                :beacon:EliteHistory:
+The Alliance Assembly is the central body for the Alliance as a
+whole. While parallels can be drawn with the European Union in the
+21st century, the Assembly lacks the law making powers of the EU. In
+main it functions as a means for establishing common policies and
+treaties rather than laws. / It also acts as an arbitration body
+between member states and depending on Assembly votes can enforce
+sanctions or corrective measures. However the politics of the member
+states often makes this a tricky process.
+
+* 0114 [[https://eddb.io/attraction/72913][Alliance Defence Force]]                           :beacon:EliteHistory:
+Barring the small Alliance Defence Force for defending key components
+of the Alliance bureaucracy there is no central Alliance Navy to
+compare with the other major powers. Instead a headquarters
+organisation exists staffed by the Council of Admirals and their
+support staff. / The Alliance Defence Force is essentially a small
+rapid deployment force made up of ships from the member navies, and is
+maintained under the command of the Council of Admirals to respond to
+any crisis - humanitarian and military. / In an emergency additional
+forces would be provided by member navies if the Council of Admirals
+makes an emergency appeal to the Assembly.
+
+* 0115 [[https://eddb.io/attraction/72914][Alioth History]]                                   :beacon:EliteHistory:
+After the war between Achenar and the Federation concluded in 2380,
+the Federation looked to find new resources elsewhere. In 2398, the
+first of a new wave of colonial missions was sent to the outermost
+sectors in the opposite direction to the Empire and Lave. / Alioth was
+colonised in 2452. Survey data and reports had already indicated the
+rich resources of the system before settlement, but the resources
+proved richer than expected. / The first colonial settlement in the
+system was known as 'Fruitcake', the name given owing to the loamy
+consistency of the planetary surface and its propensity for small
+mineral deposits.
+
+* 0116 [[https://eddb.io/attraction/72915][Alliance Council Members]]                         :beacon:EliteHistory:
+Each Alliance Member State has a number of Council Members within the
+Alliance Assembly, based on the size of their respective
+populations. Some only have one. The Prime Minister is elected by the
+Members, and it is his or her job to corral them into some sort of
+consensus; generally a slow process. There is much less tradition than
+in the other powers, and processes within the Alliance Assembly are
+still subject to change - generally when arguments break out, as they
+frequently do. In practice the Alliance is largely run by Civil
+Servants - salaried officials that look after day to day running of
+the Alliance, generally not getting involved in the political
+struggles. / The Alliance Defence Force is run by the six member
+Council of Admirals, independently from the Council of Members, but
+reporting to it after the event, to facilitate rapid
+decision-making. Each of the Admirals is from a key contributing Navy.
+
+* 0117 [[https://eddb.io/attraction/72916][Everichon Hijack]]                                 :beacon:EliteHistory:
+In 2559, the tourist liner Everichon, full of Imperial nobles, was
+hijacked by a [[id:a593cd5c-015e-4639-8501-181a6c9d47c6][Caker]] group who planned to crash it into one of the gas
+giants. The attempt was thwarted by Imperial commandoes. The holo-vid
+broadcast and subsequent fictional dramatisation 'Rebel Madness', went
+some way to diverting popular opinion from the insurrection.
+
+* 0118 [[https://eddb.io/attraction/72917][Tom Quaterson Death]]                              :beacon:EliteHistory:
+Having smuggled weapons into the system, the tension between the
+Cakers and the authorities was always going to spill over
+eventually. In 2617, the death of [[id:63533857-27f5-474b-9885-ade924f8877a][Tom Quaterson]], a munitions worker
+who had been convicted of selling food coupons to the poor, was the
+spark that lit the flame of revolt. Workers on the gas platforms
+seized control of the facilities and planetside, the general populace
+stormed the Governor's residence. / [[id:3f4b114b-adf2-4150-8408-d86406848f0d][Quentin Deviseses]] wasn't just a
+revolutionary. He had a long term strategy for the system and as soon
+as the planet was secure, used every means he could to get the word
+out that Alioth would become a free trade port. / The resource
+implication of Alioth's independence was too much for either the
+Empire or the Federation to take.
+
+* 0119 [[https://eddb.io/attraction/72918][Caker Coup]]                                       :beacon:EliteHistory:
+In 2853, the science research outpost of [[id:fdf67e2f-4b6c-40ff-b1f8-9ccc8638b82f][Nesbitt Landing]] was
+founded. Initially this was to be a joint venture between the [[id:2891de55-e2d4-429c-b761-095a74482a02][Empire]]
+and [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][Federation]], but when a detailed study into the genetic problems on
+[[id:47df3d18-6cdd-443d-baae-0e3af142a089][New California]] linked the issue with the terraforming of the planet in
+2612, the Imperials withdrew from the project. / The matter remained a
+local issue until, in 2854, responding to pressure from [[id:bed8c27f-3cbe-49ad-b86f-7d87eacf804a][Achenar]],
+Imperial soldiers instigated martial law and attempted to impose a
+genetic correction programme on the planet. This was precented by a
+[[id:0ce3c70c-e3ae-4a4b-8291-2db41b5058ac][coup]] against the military garrison by a new Caker sect. Within days,
+the planet had been secured and an appreal was sent to the Federation
+for assistance. / A fierce battle ensued; Imperial forces from the
+orbital refineries began a planetary bombardment, but the arrival of a
+Federal fleet escalated the conflict. Eventually, the Imperial ships
+pulled back and [[id:6b6da1a6-087f-48c2-99b6-055141a3b6a1][Admiral Kracer]] landed with his marines to cheering
+crowds in the capital. Kracer retired three years later, settling in
+New California and later became the colony leader.
+
+* 0120 [[https://eddb.io/attraction/72919][Riley Dain Murder]]                                :beacon:EliteHistory:
+In 3184, the election of Federation President [[id:691ec616-5efd-4f3c-bb2a-11db8b3901f9][Loric Trander]] saw a
+renewal of hostilities over Alioth. This time, conflict was instigated
+by corporate rivalry in the system's vast gas mining sector. After the
+discovery of a murdered official named [[id:fa8094c2-7d96-448e-b4e2-a675e0214ef1][Riley Dain]] who was
+investigating the abuse of permitted quotas, the situation quickly
+escalated. Trander authorised a force off privateers. In response
+[[id:8dc482e7-e978-4e6e-8a63-600e61cd715f][Hesketh Duval]] sent in the [[id:c7f194da-b6b0-4ba2-9d18-951da3a8bf7b][Imperial XV fleet]]. / The conflict avoided
+the settlement of New California, owing to the previous treaty, but
+the settlers there found themselves all but cut off until a further
+ceasefire was established in 3198. Neither side achieved anything but
+line the pockets of the industries who fuelled and powered their
+fleets. It also served to stir further resentment amongst the
+settlers. At this time, the [[id:a593cd5c-015e-4639-8501-181a6c9d47c6][Caker]] insurrection became more organised
+and received substantial financial support from unknown sources.
+
+* 0121 [[https://eddb.io/attraction/72920][Mic Turner History]]                               :beacon:EliteHistory:
+Born in 3205, [[id:c46f5348-be85-4d06-bf04-12a9b812d0ad][Mic Turner]] grew up in [[id:cc0edb9e-01ea-4de0-85c3-74bb5b5196df][Jones Colony]] in the [[id:bb5887ea-0ed7-4410-9a7e-814107ea29eb][Essafa]]
+system. After graduating with honours from the civilian Pilots school,
+he moved to [[id:47df3d18-6cdd-443d-baae-0e3af142a089][New California]] in [[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]], just before the rebellion
+started. / In 3228, when the Federal corporations supplying New
+California attempted to raise their prices again, the citizens
+revolted, taking over the ships berthed in the space station and
+riding out to the gas mining station to assault the corporate
+workers. Federal and Imperial forces arrived within days, but fighters
+from Alioth and several neighbouring independent systems joined forces
+to repel them. / Turner's [[id:6a2dc1b0-f13c-4595-b844-8f79d5253a61][pilot]] skills saw him amongst the first to
+fly out to the orbital platforms and he won a great deal of respect
+from his peers for his efforts. It was here he met [[id:932c4921-da8d-4652-ab70-a19bdd49a8a3][Meredith Argent]], a
+scientist who led one of the Caker cells on the gas platforms and was
+direct descendant of [[id:c921a096-a8b0-4ebd-acce-c69bbd5ae4e8][Walter Argent]], a wealthy industrial from [[id:37a0d8e6-0c42-4e05-8d92-a4b75b89308b][Ayethi]]
+in the the 27th century. Argent and Turner were to become partners for
+life.
+
+* 0135 [[https://eddb.io/attraction/72934][Battlegroup's Disappearance]]                      :beacon:EliteHistory:
+In 2924, a further conflict started up in the Alioth system, initiated
+by a squabble over its hydrocarbon resources. [[id:a4742b9a-2519-400a-9e11-50710be11771][The Durn and Resner
+Corporation]] applied for [[id:2891de55-e2d4-429c-b761-095a74482a02][Imperial]] assistance to enforce its claim over
+a large swathe of the system's mining rights. A small force of
+Imperial cruisers and their support ships arrived in the system and
+rapidly deployed to enforce these claims. They vastly outnumbered the
+mustered Federal units, and forced them out of the entire system
+within a year. But then, without warning in 2925, the Imperial battle
+group disappeared. Federal vessels returned and [[id:32d2f6e7-6a55-41ca-aa2c-8c3396eb0509][Hassoni-Kruger]]
+appropriated the system's mining rights. Within months all assets of
+the Durn and Resner Corporation were seized by the Emperor. The reason
+for these strange events has never been discovered. Federal
+intelligence sources were later to accuse the [[id:bce02e51-c68c-4594-86fe-88dda4915a74][Duvals]] of instigating a
+[[id:4d2ace21-1658-4733-a922-e2fa97dfd3cd][cloning programme]] to breed specialised infantry units.
+

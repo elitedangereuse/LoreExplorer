@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       9cdea6e2-2abe-43ef-b874-44c09310f310
+:END:
+#+title: Electra
+* Objects
+  - [[id:4df4a36a-20bf-43ca-9bf1-2324f832ab81][Listening Post]]
+* Signals
+  - [[id:7778d101-a0ed-4943-b9a7-b93aded323d9][Pleiades Sector PD-S B4-0]]
+  - [[id:5e598b3d-0b04-44c5-85d1-896d911c45a9][Pleiades Sector KC-V C2-4]]
+    Signal Range 36-37 LY
+
+- Economy:Industrial
+- Government:Cooperative
+- Allegiance:Independent
+- Population:1.20 million
+
+- Controlling faction:The Hive
+- Traffic:30+ commanders
+- Security level:Low
+- State:Normal
+- Star type:Class B star Scoopable
+- Permit required:No
+- Distance:
+- Powerplay:
+
+- Info updated:18 Dec 2022, 6:11am
+- Factions updated:18 Dec 2022, 6:11am
+
+[[id:880ea22b-bcd2-4c13-a55c-9dcf33f1375a][Cavalieri]]

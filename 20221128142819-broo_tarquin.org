@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       f7a5d9f8-1d86-4230-ab52-397226590b19
+:END:
+#+title: Broo Tarquin
+[[id:952ef45f-df68-4524-bbd7-5f5a427494ef][Engineer]]
+[[id:26d5e48a-8815-4147-b021-d5fb0ff314f2][Ship]]
+
+* Location
+Broo's Legacy | [[id:773cc22e-e884-4ee2-82d4-54d531fc8f23][Muang]]
+
+* How to discover
+From [[id:c7c72092-6fb9-4c3e-865b-d16661a11cdb][Hera Tani]] (grade 3-4).
+* Meeting requirements
+Gain [[id:4e05812c-0aba-4886-9f9f-969fbfb4446f][Combat Rank]] Competent or higher.
+* Unlock requirements
+Provide 50 units of Fujin Tea.
+* Reputation gain
+Craft modules for a major increase.
+Hand in bounty vouchers to Broo's Legacy.

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       51916839-dfae-46ab-874f-46ded08bc880
+:END:
+#+title: Pleione
+- Economy:Extraction / Agriculture
+- Government:Patronage
+- Allegiance:Independent
+- Population:29,459
+- Controlling faction:Anti Xeno Initiative
+- Traffic:25+ commanders
+- Security level:Low
+- State:Normal
+- Star type:Class B star Scoopable
+- Permit required:No
+- Distance:295.00 Ly from HR 913
+- Powerplay:
+- Headquarters:Stargazer Pioneer Corps
+- Info updated:18 Dec 2022, 6:12am
+- Factions updated:18 Dec 2022, 6:12am
+
+[[id:1fc2d714-88be-4142-96aa-e93fce6e9528][Stargazer]]

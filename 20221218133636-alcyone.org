@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       a3fdf16a-4128-4735-b5bd-5eb6182b5774
+:ROAM_ALIASES: "25 Eta Tauri"
+:END:
+#+title: Alcyone
+
+25 Eta Tauri.
+
+- Economy:
+- Government:
+- Allegiance:Independent
+- Population:0
+
+- Controlling faction:
+- Traffic:0-5 commanders
+- Security level:Anarchy
+- State:Normal
+- Star type:Class B star [Scoopable]
+- Permit required:No
+- Distance:
+- Powerplay:
+
+- Info updated:17 Dec 2022, 9:08am

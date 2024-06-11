@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       d4b595af-536d-4575-af11-f07f3ac3ff40
+:END:
+#+title: Arque
+
+
+Economy:Extraction / Agriculture
+Government:Cooperative
+Allegiance:Alliance
+Population:111,849
+
+Controlling faction:Alliance Rapid-reaction Corps
+Traffic:945+ commanders
+Security level:Low
+State:Normal
+Star type:Class G star Scoopable
+Permit required:No
+Distance:
+Powerplay:Exploited by Edmund Mahon
+Controlling system:Leesti
+
+Info updated:18 Dec 2022, 12:49pm
+Factions updated:18 Dec 2022, 12:49pm

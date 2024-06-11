@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       d6a6dbed-c45d-4c9f-b41a-799e69dd1bbe
+:END:
+#+title: Terra Mater
+Faction: [[id:c7bbf7f5-12ec-4dc0-929f-066b3a79c47b][Brotherhood of Terra Mater]]
+Benefits: Gives you access to the rare good ([[id:0393ff97-fe8a-4767-ba66-be982e88c216][Terra Mater Blood Bores]]).
+Mission in [[id:b3da0f0d-5c36-4fa0-8678-8c5ded220d61][Hecate]] to finish the permit.

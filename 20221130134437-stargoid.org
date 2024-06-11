@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4e6e17cb-3578-4347-a83f-2df27c50ff14
+:END:
+#+title: Stargoid
+[[id:f62776a6-64be-4794-b138-109ce4687622][Taranis]]
+[[id:7bc1ba2d-0f82-4cb9-beea-c2f89903c0da][Hadad]]
+[[id:7e7c9b41-bff1-4f84-ac00-d91366c1bdb5][Thor]]
+[[id:fbe81b20-15a4-466e-85a6-50816c6e2a99][Cocijo]]
+[[id:69d0a8a8-2436-4f34-a2e8-5ea99d79fc94][Leigong]]
+[[id:ac2fe364-22a0-4637-9962-c18310b283f9][Indra]]
+[[id:188b9546-77ea-4288-80cd-e2c8cbf8b152][Oya]]

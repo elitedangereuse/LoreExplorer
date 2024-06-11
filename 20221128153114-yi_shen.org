@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       64af95e7-00c7-41ee-8205-100c0a7e0467
+:END:
+#+title: Yi Shen
+[[id:952ef45f-df68-4524-bbd7-5f5a427494ef][Engineer]]
+[[id:9f741206-a12d-48ea-af5a-55dd92f0d667][OnFoot]]
+
+* Location
+Eidolon Hold | [[id:b23439a3-9762-48d5-b510-107fe548110f][Einheriar]]
+* How to discover
+From [[id:e80652fd-7aa0-4b18-90ac-aebb3d1c2259][Baltanos]], [[id:44343fed-44fd-43ef-979a-27929ac198b9][Eleanor Bresa]] and [[id:e543dd6e-96f5-4d65-a45f-32a5586ad511][Rosa Dayette]]
+* Unlock requirements
+Complete referral tasks for Baltanos, Eleanor Bresa and Rosa Dayette.
+* Referral requirements

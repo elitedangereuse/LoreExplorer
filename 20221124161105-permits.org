@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       55d5b2cc-aa04-47b1-b144-ffa4e8f43b5d
+:END:
+#+title: Permits
+- [[https://confluence.fuelrats.com/display/public/FRKB/Permit-systems][Fuel Rats permits list]]
+- [[https://forums.frontier.co.uk/threads/updated-permit-list.122593/][Frontier forum permits list]]
+
+* Career [[id:21a2607d-50f3-4fc0-ab07-502dc847c168][Rank]] Permits
+- [[id:c6b67ab9-66c5-4636-a978-2ca3a9ab012c][Shinrarta Dezhra]] : done
+- [[id:4f15243b-1b75-47be-8504-e79947d89fd6][CD-43 11917]] 
+* Faction [[id:88ce09ab-8d64-40bd-a1d8-2d18da381f7c][Reputation]] Permits
+- [[id:3418cf80-0ced-491f-a1f6-c31a08c0a80b][Crom]]
+- [[id:72ccd36e-5d65-43e9-873b-80558735d911][Hodack]]
+- [[id:c904fbfa-0462-46ca-ba62-47c827a7331f][Isinor]]
+- [[id:addd8c74-2425-4d26-a1d5-9cb11ce6b0ba][Jotun]]
+- [[id:0bd08f19-0e96-4cdf-9819-8237f11bbb5d][Luyten 347-14]]
+- [[id:a5427e6e-e2f5-4c09-b595-97bbc14894ee][Mbooni]]
+- [[id:f99cc815-f736-48e1-863d-7e50b14b7273][Nastrond]]
+- [[id:3ea0a57b-8e74-4642-bb38-5152ddba646d][Peregrina]]
+- [[id:05001997-689c-4688-94cd-f1184176e74b][Pi Mensae]]
+- [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]]
+- [[id:d6a6dbed-c45d-4c9f-b41a-799e69dd1bbe][Terra Mater]]
+- [[id:35ef7825-95ca-418d-9cc2-9e7934b351c9][Tiliala]]
+- [[id:806633ff-ba33-44a0-af5e-63b52e3efaff][Van Maanen's Star]]
+

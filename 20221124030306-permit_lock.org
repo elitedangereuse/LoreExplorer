@@ -1,0 +1,215 @@
+:PROPERTIES:
+:ID:       b2b2d9ee-9c33-4a0b-b3ce-82cfa362577e
+:END:
+#+title: Permit Locked
+- [[https://confluence.fuelrats.com/display/public/FRKB/Permit-systems][Fuel Rats permits list]]
+- [[https://forums.frontier.co.uk/threads/updated-permit-list.122593/][Frontier forum permits list]]
+- [[https://forums.frontier.co.uk/threads/permit-locks-and-how-to-get-them.604384/][Permit Locks and how to get them (Frontier Forum updated thread)]]
+- [[https://elite-dangerous.fandom.com/wiki/Permits/Uninhabited][Permits/Uninhabited]]
+- [[https://elite-dangerous.fandom.com/wiki/Permits][Permits]]
+
+* [[id:55d5b2cc-aa04-47b1-b144-ffa4e8f43b5d][Permits]]
+** Career [[id:21a2607d-50f3-4fc0-ab07-502dc847c168][Rank]] Permits
+ - [[id:c6b67ab9-66c5-4636-a978-2ca3a9ab012c][Shinrarta Dezhra]]   [DONE]
+ - [[id:4f15243b-1b75-47be-8504-e79947d89fd6][CD-43 11917]]        [    ]
+** Faction [[id:88ce09ab-8d64-40bd-a1d8-2d18da381f7c][Reputation]] Permits
+ - [[id:3418cf80-0ced-491f-a1f6-c31a08c0a80b][Crom]]               [DONE]
+ - [[id:72ccd36e-5d65-43e9-873b-80558735d911][Hodack]]             [DONE]
+   - https://inara.cz/elite/station/45934/ Hopkins Installation
+ - [[id:c904fbfa-0462-46ca-ba62-47c827a7331f][Isinor]]             [DONE]
+   - https://inara.cz/elite/minorfaction-assets/221/?setlanguage=1 check Universal Cartographics
+ - [[id:addd8c74-2425-4d26-a1d5-9cb11ce6b0ba][Jotun]]              [DONE]
+ - [[id:0bd08f19-0e96-4cdf-9819-8237f11bbb5d][Luyten 347-14]]      [    ]
+ - [[id:a5427e6e-e2f5-4c09-b595-97bbc14894ee][Mbooni]]             [DONE]
+ - [[id:f99cc815-f736-48e1-863d-7e50b14b7273][Nastrond]]           [DONE]
+ - [[id:3ea0a57b-8e74-4642-bb38-5152ddba646d][Peregrina]]          [    ]
+ - [[id:05001997-689c-4688-94cd-f1184176e74b][Pi Mensae]]          [DONE] ([[https://inara.cz/elite/station/267537/][Zewail's Inheritance in Ngugira]])
+ - [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]]             [DONE]
+ - [[id:d6a6dbed-c45d-4c9f-b41a-799e69dd1bbe][Terra Mater]]        [DONE]
+ - [[id:35ef7825-95ca-418d-9cc2-9e7934b351c9][Tiliala]]            [    ]
+ - [[id:806633ff-ba33-44a0-af5e-63b52e3efaff][Van Maanen's Star]]  [DONE]
+ - [[id:843517ac-e27b-46a3-84ff-700f94a0ba67][LTT 198]]            [    ]
+** Federation system permits
+ - SOL [DONE]
+Rank: Petty Officer
+Benefits: Location of Engineer Colonel Bris Dekker. Hand-crafted system, some good trade route destinations. 20% discount on the Eagle at Daedalus station. Two "palm tree" stations, (M.Gorbachev and Galileo).
+
+ - BETA HYDRI
+Rank: Chief Petty Officer
+Benefits: Edmondson High Station has 10% discount on eagle. Black Mausoleum beautiful palm tree station is also present.
+
+ - VEGA
+Rank: Chief Petty Officer
+Benefits: Access to rare good (Slimeweed). Fort Dixon also reportedly has a palm tree station.
+
+ - PLX 695
+Rank: Warrant Officer
+
+ - ROSS 128
+Rank: Ensign
+
+ - EXBEUR
+Rank: Lieutenant
+
+ - HORS
+Rank: Post Commander
+
+ - 4 SEXTANTIS
+Rank: n/a
+Note: As per FDEV support on (referenced on page 57, thanks CMDR
+LeinhartKUF!), this system is deliberately unattainable. It is
+possible to see the permit, but ranking up to allied with the 4
+Sextantis faction that gives it makes the permit mission
+disappear. Again this is not a bug, but FDEV's way of locking this
+system for a future content release.
+
+ - CD-44 1695
+Rank: n/a
+
+ - LFT 509
+Rank: n/a
+
+ - MINGFU
+Rank: n/a
+
+ - HIP 54530 [DONE]
+Faction: Jupiter Division
+Benefits: none known
+
+Note: Overall benefits of ranking up with Federation includes access
+to the Federal drop ship, Federal Gunship, Federal Assault Ship and
+the Federal Corvette.
+
+** Empire system permits [DONE]
+ - ACHENAR    [DONE]
+Rank: Squire
+Benefits: Location of Engineer Tiana Fortune.
+
+ - SUMMERLAND [DONE]
+Rank: Lord
+
+ - FACECE     [DONE]
+Rank: Earl
+
+Note: No special benefits known so far for above Empire systems, but
+community goals have been known to occur in permit-locked
+systems. Benefits of ranking up with Empire includes access to the
+Clipper, the Cutter, the Imperial Eagle and the Courier.
+** Alliance System Permits [DONE]
+ - ALIOTH [DONE]
+Faction: Alioth Independents
+Benefits: Irkutsk station - ship discounts - Orca costs 38m (20%
+discount), Asp costs 5.3m (20% discount). Home of the Engineer Bill
+Turner.
+
+** Independent System Permits
+** Uninhabited
+- [[id:55088d83-4221-44fa-a9d5-6ebb0866c722][HIP 22460]] (Scan Beacon in Synuefe GB-O c9-8)  [DONE]
+* Locked systems
+** Planetary/Moons
+- [[id:78464c79-8231-4dd3-9413-b53f902a560a][Lave 2]]
+- [[id:03ab879c-040d-4d3c-961d-c5d256e6b270][Diso 5 C]]
+- [[id:f1f170ce-ee66-4fa2-92ab-5a07f0fd93c5][Triton]]
+- [[id:05327959-8b2a-4b6a-951d-9b10dfe9ddfc][Luna (Earth's Moon)]]
+** Uninhabited
+  - [[id:0949776d-7611-4736-8520-ab8919804e2b][Alpha Hydri]]
+  - [[id:f2d135ff-4663-4a0f-b546-5b5a52f611de][Bellica]]
+  - [[id:420aa3ba-95b1-4953-9f59-3e5ed630d0ee][Dryio Flyuae IC-B c1-377]]
+  - [[id:0248cd9f-f21f-45df-8ede-0a751659af71][HIP 10332]]
+  - [[id:ab0bac2a-a7bc-4aad-9582-fde681a2ab3b][HIP 104941]]
+  - [[id:df2c64db-558d-4510-a576-9174f3eb7e55][HIP 22182]]
+  - [[id:f3546609-82e9-4787-99fc-3046be66f273][HIP 39425]]
+  - [[id:f1b66d64-5693-4874-809e-f110a2ac4b13][HIP 51073]]
+  - [[id:64e3ad83-30b5-41fc-bde5-8eb63c38ab83][HIP 87621]]
+  - [[id:8482a81b-bc45-4f54-9d89-fbc761892bca][HR 4413]]
+  - [[id:a976ec6d-e83a-46c9-8e9d-e762230509fc][LHS 2894]]
+  - [[id:18f96d03-5d51-4701-87d4-fa2915d0b2c9][LHS 2921]]
+  - [[id:9d76d041-64c5-4edb-9fe4-5f91ad70fbcf][LHS 3091]]
+  - [[id:8cb34246-bcaf-4669-8964-d43f54401c38][Plaa Ain HA-Z d46]]
+  - [[id:2993de41-e459-49b9-a62c-c22f9ddf8d9b][Polaris]]
+  - [[id:76663291-c0ec-4dbd-8255-97cf1334b1f9][Ross 354]]
+  - [[id:f83f3cfc-8367-405b-b2fb-6b6b5571899c][Scheau Bli NB-O d6-1409]]
+  - [[id:5ee8ebfe-79fe-413b-96fc-45636d3823ba][Wolf 262]]
+
+** Uninhabited (and presumably not earn-able at present):
+
+Bellica
+Polaris
+Witch's Reach
+Note: "valuable salvage convoys"... also see the below thread for more information:
+https://forums.frontier.co.uk/showthread.php?t=137754
+Wolf 262
+Kamba (NEW CHANGE!! Now Accessible!)
+Mbooni (Used to be duplicated Kamba system, now renamed, requires Kamba permit, kudos to ironshirt on page 53 for the find)
+Alpha Hydri
+HIP 10332
+HIP 104941
+HIP 22182
+HIP 22460 (Credit to CMDR Joe Giha for finding this)
+HIP 23874 (Credit to CMDRneutronium! pg 67)
+HIP 39425
+HIP 87621
+HIP 51073
+Ross 354
+HR 4413
+LHS 2894
+LHS 2921
+LHS 3091
+HD 33766
+Wolf 262 (credit to this wiki: http://elite-dangerous.wikia.com/wiki/Permits/Uninhabited ...)
+
+** Oddities
+
+51 ARIETIS - No permit required, but system description says one is required.
+
+DRYIO FLYUAE IC-B C1-377 - Requires a "security permit" (credit to CMDR MRMAURICE on page 68 for first reporting this here)
+Scheau Bli NB-O d6-1409 - Also requires a "security permit" (credit to EXE Sasser on page 74 for this excellent find!)
+
+HIP 87621 - Requires permit to HIP 48762, which is not earnable as far
+as anyone knows. (credit to spybuster for finding this). Note,
+however, that HIP 48762 is not permit locked.
+
+* Tips on getting allied quickly with an Independent Permit faction
+** Exploration
+5-7 million credits dumped at a station OWNED by a permit granting
+faction gets you to allied quickly. So take that trip to Sag A*, come
+back, hit up a few hundred neutron stars, and get allied. While the
+exploration takes forever, getting allied will go by quickly once you
+get back. Just be sure to re-outfit your ship with better shields,
+armor and thrusters and chaff to withstand the odd NPC interdiction.
+** Trade
+Trade is also an excellent way to get to allied status while making
+some decent money. Here are some trade routes that will help you get
+allied.
+
+tiliala
+mazahun, arnold dock, buy imperial slaves,
+bedaho, peters terminal,buy nothing for trip back.
+
+van maanens star
+wolf 562, hopkins port, buy performance enhancers,
+tau ceti, graham terminal, buy palladium for trip back.
+
+crom
+cpd-28 332, hopkins station, buy progenitor cells,
+69 g. carinae, lounge port, buy mineral oil for trip back.
+
+ltt 198
+gliese 868, maclean terminal, buy palladium,
+kigandan, vinogradov port, buy mineral extractors for trip back.
+
+nastrond
+jadlillke, markham orbital, buy consumer technology,
+wonorne nu, nowak hub, buy mineral oil for trip back.
+
+isinor
+hip 65636, cavalieri enterprise, buy palladium,
+anotchadiae, malerba orbital, buy clothing for trip back.
+
+** Bounty Hunting
+You can also bounty hunt your way to allied status for the following
+factions, at the following locations.
+
+Dukes of Jotun - Blanquichu
+
+PI MENSAE Brotherhood - Haz Res at Walgan 4

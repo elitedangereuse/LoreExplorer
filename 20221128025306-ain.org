@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       d114c07a-da76-4bcd-a3c5-152e2a08e528
+:END:
+#+title: Ain
+[[id:1fd01d13-7a2c-402e-bb92-1b4edadd78c2][Unregistered Comms Beacons]]
+* Message
+https://www.youtube.com/watch?v=6Z9dwcjDp4w
+
+: SECURE  9 14 18 1 
+: 
+: ALNATH DELIVERY RECEIVED 12 TRIANGULI A 1
+: SECURE
+
+* Links
+  [[id:2f5ce846-c16b-428d-b3cb-b5e31d298f48][Alnath]]
+  [[id:15da35fa-17e8-4b9c-ade9-3127fffbab88][12 Trianguli A 1]]
+  [[id:39a31dd8-3750-4507-90b7-b649d0eeecef][INRA]] (9 14 18 1)
+* [[id:d4041b1f-0788-4db1-b21d-4a58e5d96965][Puzzle]]
+  [[id:d81dd848-0189-46bd-b5e3-c6dd5cc75fa7][Letter offsets]]
+  [[id:c105ad4c-c57e-4157-b453-0a2ad6ec005d][NATO phonetic alphabet characters]]

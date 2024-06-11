@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       3e446f3a-5bdf-4162-bd51-9fd5013cb331
+:END:
+#+title: Didi Vatermann
+[[id:952ef45f-df68-4524-bbd7-5f5a427494ef][Engineer]]
+[[id:26d5e48a-8815-4147-b021-d5fb0ff314f2][Ship]]
+
+* Location
+Vatermann LLC | [[id:e7c94b38-cdfb-48da-a1c4-cdad10c3371a][Leesti]]
+
+* How to discover
+From [[id:db7447d8-84fb-42e6-a431-0397512e8f0c][Selene Jean]] (grade 3-4).
+* Meeting requirements
+Gain [[id:859ac5c6-183d-4bba-83c9-0a5529e7c464][Trade Rank]] Merchant or higher.
+* Unlock requirements
+Provide 50 units of Lavian Brandy.
+* Reputation gain
+Craft modules for a major increase.
+Sell commodities to Vatermann LLC.

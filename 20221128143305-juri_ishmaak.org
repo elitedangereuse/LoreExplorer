@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       d4d3395f-e02f-4d84-95e1-6c3367c1c957
+:END:
+#+title: Juri Ishmaak
+[[id:952ef45f-df68-4524-bbd7-5f5a427494ef][Engineer]]
+[[id:26d5e48a-8815-4147-b021-d5fb0ff314f2][Ship]]
+
+* Location
+Pater's Memorial | [[id:31bfe4e0-1652-4327-a197-ff71c71cc6c3][Giryak]]
+* How to discover
+From [[id:d512672e-8849-46f9-b39d-a53f0c5765bf][Felicity Farseer]] (grade 3-4).
+* Meeting requirements
+Earn more than 50 [[id:bbbc7bc6-79d7-46b7-925e-c1f882c8f25a][Combat Bonds]].
+* Unlock requirements
+Provide 100,000 or 1,000,000 credits worth of combat bonds (the amount
+needed depends on the currently unknown conditions).
+* Reputation gain
+Craft modules for a major increase.
+Hand in bounty vouchers or combat bonds to Pater's Memorial.

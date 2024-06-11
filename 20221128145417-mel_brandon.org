@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       2fce62b3-399d-4ef7-b93b-00a0de6cc4be
+:END:
+#+title: Mel Brandon
+[[id:952ef45f-df68-4524-bbd7-5f5a427494ef][Engineer]]
+[[id:26d5e48a-8815-4147-b021-d5fb0ff314f2][Ship]]
+
+* Location
+The Brig | [[id:d3daf803-d239-4314-81cd-22cbb7db8424][Luchtaine]]
+* How to discover
+From [[id:887ca01b-ea5d-4fcd-a45d-de1ca598f1cd][Elvira Martuuk]] (grade 3-4).
+* Meeting requirements
+Gain invitation from [[id:6b6559fd-c7fa-44c9-b540-b94ddcadbd50][Colonia Council]].
+* Unlock requirements
+Provide 100,000 credits worth of bounty vouchers.
+* Reputation gain
+Craft modules for a major increase.

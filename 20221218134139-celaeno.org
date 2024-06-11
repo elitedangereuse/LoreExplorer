@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       84d00e54-f000-43e0-baab-fd5226552f59
+:END:
+#+title: Celaeno
+
+- Economy:Industrial
+- Government:Cooperative
+- Allegiance:Independent
+- Population:1.20 million
+
+- Controlling faction:Operation Ida
+- Traffic:80+ commanders
+- Security level:Low
+- State:Normal
+- Star type:Class B star Scoopable
+- Permit required:No
+- Distance:
+- Powerplay:
+- Headquarters:Tuskegee-Zulu Guardians
+- Info updated:18 Dec 2022, 11:10am
+- Factions updated:18 Dec 2022, 11:10am
+
+[[id:3b7fe78a-88b1-421f-b452-019efb075bc4][Artemis Lodge]]

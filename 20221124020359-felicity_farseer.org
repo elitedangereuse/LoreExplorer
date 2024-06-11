@@ -1,0 +1,34 @@
+:PROPERTIES:
+:ID:       d512672e-8849-46f9-b39d-a53f0c5765bf
+:END:
+#+title: Felicity Farseer
+Needs [[id:da2f167d-0157-4deb-afb2-98bf6518cf01][Meta-Alloys]]
+
+She knows about [[id:7ec2457b-3e53-4928-a17f-e885b681b267][The Dark Wheel]].
+
+From the Knowledge Base:
+: Oh, they're out there alright. I've never met them, but _I know they're out there_.
+: Think about how well known the stories are. Now think about
+: how easy it would be for some two-bit band of hucksters to pass
+: themselves off as the Dark Wheel and start trading on their
+: reputation. Doesn't happen, does it? Not for long, anyway. Whenever
+: someone tries to usurp the Dark Wheel name, sooner or later they get
+: quietly shut down. And that's how I know.
+: 
+: — Felicity Farseer
+
+* Job
+  [[id:952ef45f-df68-4524-bbd7-5f5a427494ef][Engineer]]
+  [[id:26d5e48a-8815-4147-b021-d5fb0ff314f2][Ship]]
+
+* Location
+Farseer Inc | [[id:4af71116-980a-4119-b93e-a0b368cf9550][Deciat]]
+* How to discover
+Public data sources.
+* Meeting requirements
+Gain [[id:97011475-07b1-4e6e-9787-6492f9f952c9][Exploration Rank]] Scout or higher.
+* Unlock requirements
+Provide 1 unit of [[id:da2f167d-0157-4deb-afb2-98bf6518cf01][Meta-Alloys]].
+* Reputation gain
+Craft modules for a major increase.
+Sell exploration data at Farseer Inc.

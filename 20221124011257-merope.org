@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       70fa34ea-bc98-40ff-97f0-e4f4538387a6
+:END:
+#+title: Merope
+Reference body: [[id:8c469ca9-3f5e-4728-a488-1039623174fb][Merope 5C]]
+
+- Economy:Industrial / Extraction
+- Government:Cooperative
+- Allegiance:Independent
+- Population:861,901
+
+- Controlling faction:The Hive
+- Traffic:75+ commanders
+- Security level:Medium
+- State:Normal
+- Star type:Class B star Scoopable
+- Permit required:No
+- Distance:
+- Powerplay:
+- Info updated:18 Dec 2022, 9:00am
+- Factions updated:18 Dec 2022, 9:00am
+
+- [[id:d726aed6-57eb-4444-8937-49ad5f85b68a][Alcazar's Hope]]
+- [[id:0891686a-a591-46e5-b93d-60506975ff49][Omega Prospect]]
+- [[id:efbe5279-a647-4f97-9119-b334b90e0d95][Reed's Rest]]

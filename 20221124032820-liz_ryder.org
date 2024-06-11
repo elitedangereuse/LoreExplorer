@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       cb71ba02-e47b-4feb-a421-b1f2ecdce6f3
+:END:
+#+title: Liz Ryder
+Connected to [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]]
+
+Works for [[id:e68a5318-bd72-4c92-9f70-dcdbd59505d1][Azimuth Biotech]] on [[id:6023377d-7271-49d1-80ec-ffab82dc8c29][AX weapons]]
+
+* Family
+  [[id:24e2cdd2-f3f3-45fa-9140-99711e77fd17][Ryder]]
+* Job
+  [[id:952ef45f-df68-4524-bbd7-5f5a427494ef][Engineer]]
+* Location
+Demolition Unlimited | [[id:0dbd55a5-68d9-45c4-9a80-b2e41f79554c][Eurybia]]
+* How to discover
+Public sources.
+* Meeting requirements
+Gain Cordial or Friendly status with [[id:bfb6fa92-52a2-4955-a1d7-4f11307f77fc][Eurybia Blue Mafia]].
+* Unlock requirements
+Provide 200 units of [[id:2b461b7b-10e3-49fd-ba61-bce15a046809][Landmines]].
+* Reputation gain
+Craft modules for a major increase.
+Sell commodities to Demolition Unlimited.

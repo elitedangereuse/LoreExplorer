@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       e0a6f2e0-36a9-4c35-b837-4ac3c6fc67a9
+:END:
+#+title: Independent
+[[file:~/raxxla/recherche/art/independent.png]]
+#+begin_quote
+The independent systems still constitute the bulk of the human
+inhabited systems. They bring a rich tapestry of cultures and beliefs
+to the dark of space. From these worlds individuals and governments
+seek new opportunities deep in unexplored space.
+
+/Elite: Dangerous Handbook[1]/
+#+end_quote
+Independent is a term for individuals, organisations, corporations,
+minor factions, governments, and star systems that have no allegiance
+to any of the three superpowers: the Alliance, the Empire, and the
+Federation.[1]
+
+¹: https://hosting.zaonce.net/elite/website/assets/ELITE-DANGEROUS-GAME-MANUAL.pdf
+

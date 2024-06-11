@@ -1,0 +1,33 @@
+:PROPERTIES:
+:ID:       0ee60994-364c-41b9-98ca-993d041cea72
+:END:
+#+title: Maia
+[[id:8e4c3a73-4f53-40ca-a19e-ec1f55aa77b3][Black hole]]
+
+- Economy:Industrial / Extraction
+- Government:Cooperative
+- Allegiance:Independent
+- Population:139,152
+
+- Controlling faction:Operation Ida
+- Traffic:105+ commanders
+- Security level:Medium
+- State:Normal
+- Star type:Class B star Scoopable
+- Permit required:No
+- Distance:296.24 Ly from HR 913
+- Powerplay:
+- Headquarters:
+  - BLOOD SQUADRON
+  - GLAX
+
+- Info updated:18 Dec 2022, 12:31pm
+- Factions updated:18 Dec 2022, 12:31pm
+
+* [[id:c297636c-f22b-4b34-b48b-013d376cae96][Settlements]]
+  - [[id:b4d90e11-7f9a-42f4-a995-4ca941d38851][Darnielle's Progress]]
+  - [[id:af205c6d-cb6f-4d7b-bcdd-42dc2999c376][Maia Point]]
+  - [[id:e6bd9230-feb2-4529-9607-073cac41d6da][Palin Research Centre]]
+* [[id:83cc5ab9-e42c-4049-b6ed-081927b0b286][Starports]]
+  - [[id:91d67012-ad47-4b75-aac1-dba7c70e671c][Moni's Hub]]
+  - [[id:4223b99a-7e0c-44fa-b7e9-afeca7e0c031][Obsidian Orbital]]

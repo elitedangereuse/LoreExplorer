@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       21a2607d-50f3-4fc0-ab07-502dc847c168
+:END:
+#+title: Rank
+[[id:4e05812c-0aba-4886-9f9f-969fbfb4446f][Combat Rank]]
+[[id:97011475-07b1-4e6e-9787-6492f9f952c9][Exploration Rank]]
+[[id:859ac5c6-183d-4bba-83c9-0a5529e7c464][Trade Rank]]

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       db7447d8-84fb-42e6-a431-0397512e8f0c
+:END:
+#+title: Selene Jean
+[[id:952ef45f-df68-4524-bbd7-5f5a427494ef][Engineer]]
+[[id:26d5e48a-8815-4147-b021-d5fb0ff314f2][Ship]]
+
+* Location
+Prospector's Rest | [[id:d4f2b36b-70c4-4943-b901-496229734121][Kuk]]
+* How to discover
+From [[id:610da0b4-4f53-45b6-80a7-704ef14cf16f][Tod "The Blaster" McQuinn]] (grade 3-4).
+* Meeting requirements
+Mine at least 500 tons of ore.
+* Unlock requirements
+Provide 10 units of [[id:b52781d6-2d16-46d9-a9cf-ff5fbc02c583][Painite]].
+* Reputation gain
+Craft modules for a major increase.
+Sell commodities and exploration data to Prospector's Rest.

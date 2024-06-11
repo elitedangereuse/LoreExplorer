@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       6e06fac6-744b-4753-bf3b-273ffb665cd2
+:END:
+#+title: Digital Designs
+[[id:4c2adf46-faa2-4d45-ad1c-5badcb54905b][Component]]

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       f7104f52-6cb4-4cc1-aeeb-52c139b58925
+:ROAM_REFS: https://canonn.science/codex/stack/
+:END:
+#+title: Stack
+[[id:39a31dd8-3750-4507-90b7-b649d0eeecef][INRA]] [[id:f2fac611-d042-4abf-80f9-e5e0b5c9f4b8][Research Base]]
+
+Stack is an [[id:a2db0282-aff7-4235-adf9-0aa79b018623][Abandoned]] [[id:c297636c-f22b-4b34-b48b-013d376cae96][Settlement]] on [[id:46f37359-c143-448a-b02d-7468ac7d685d][HIP 12099]] 1 a at -72.6561, -67.3629.
+
+The location of this facility was given by an Unregistered Comms
+Beacon in [[id:e91a5ba1-4334-4672-ab8a-f55377d9f739][HIP 8887]]. The comms beacon transmits a message in phonetic
+alphabet.

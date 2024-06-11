@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       ca0b12a6-8109-4f70-b9c1-b1053a1344bd
+:ROAM_ALIASES: Sterope
+:END:
+#+title: Asterope
+Named after Sterope. See also [[id:68cdeb4e-24b7-4ecd-8e3e-0bb5377b780d][Sterope II]]
+
+Economy:Military
+Government:Patronage
+Allegiance:Independent
+Population:1.20 million
+
+Controlling faction:Anti Xeno Initiative
+Traffic:170+ commanders
+Security level:Low
+State:Normal
+Star type:Class B star Scoopable
+Permit required:No
+Distance:285.35 Ly from HR 913
+Powerplay:
+Headquarters:XENO INITIATIVE
+
+Info updated:18 Dec 2022, 9:41am
+Factions updated:18 Dec 2022, 9:41am
+
+[[id:65d92e4f-26f9-4127-8c1f-8f267891a9f7][Copernicus Observatory]]

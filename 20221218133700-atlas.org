@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       db135581-804e-4f1e-9fce-ec2fe722e2c7
+:END:
+#+title: Atlas
+
+- Economy:Refinery
+- Government:Cooperative
+- Allegiance:Independent
+- Population:1.20 million
+
+- Controlling faction:Operation Ida [Player]
+- Traffic:0-5 commanders
+- Security level:Medium
+- State:Normal
+- Star type:Class B star [Scoopable]
+- Permit required:No
+- Distance:
+- Powerplay:
+- Info updated:17 Dec 2022, 8:51pm
+- Factions updated:17 Dec 2022, 8:51pm
+
+[[id:99d3985c-1336-48c7-b874-04028696611a][Cyllene Orbital]]

@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       df2c64db-558d-4510-a576-9174f3eb7e55
+:END:
+#+title: HIP 22182
+

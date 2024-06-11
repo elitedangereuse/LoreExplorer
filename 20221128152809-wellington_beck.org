@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       6fd6bff4-12f0-4ac0-b33c-eaa977fb4ac9
+:END:
+#+title: Wellington Beck
+[[id:952ef45f-df68-4524-bbd7-5f5a427494ef][Engineer]]
+[[id:9f741206-a12d-48ea-af5a-55dd92f0d667][OnFoot]]
+
+* Location
+Beck Facility | [[id:050e229d-5605-4d9f-a66b-5288e43a405b][Jolapa]]
+* How to discover
+From [[id:50eb38fe-3254-47c5-abe2-a2e1c80c7105][Hero Ferrari]]
+* Unlock requirements
+Sell a total of 25 [[id:96d94e73-e5e9-45ee-8fb8-b5b3abe60ade][Multimedia Entertainment]], [[id:f9d4992b-124b-4d93-a0b5-206f37da5e4e][Classic Entertainment]] and [[id:16b7a902-3d8c-4485-ac80-330d957785eb][Cat media]] to bartenders.
+* Referral requirements
+Provide 5 units of [[id:3e8e843b-e1b2-4af9-8093-66f20a70ca28][Insight Entertainment suites]].

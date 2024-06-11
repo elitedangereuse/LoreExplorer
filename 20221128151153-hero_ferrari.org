@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       50eb38fe-3254-47c5-abe2-a2e1c80c7105
+:END:
+#+title: Hero Ferrari
+[[id:952ef45f-df68-4524-bbd7-5f5a427494ef][Engineer]]
+[[id:9f741206-a12d-48ea-af5a-55dd92f0d667][OnFoot]]
+
+* Location
+Nevermore Terrace | [[id:3e0f2d75-e43d-48f5-bc74-70068bfd9a95][Siris]]
+* How to discover
+Common knowledge.
+* Unlock requirements
+Complete 10 [[id:8bf332ce-bf5c-408e-a657-1641542e25ac][Surface Conflict Zones]].
+* Referral requirements
+Provide 15 [[id:6f565654-981c-436d-9c28-0d202bf9e335][Settlement Defence Plans]].

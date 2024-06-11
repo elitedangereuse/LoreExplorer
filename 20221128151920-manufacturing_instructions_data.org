@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       96b9711c-d642-408a-916c-a762617c1f88
+:END:
+#+title: Manufacturing Instructions Data
+[[id:4c2adf46-faa2-4d45-ad1c-5badcb54905b][Component]]

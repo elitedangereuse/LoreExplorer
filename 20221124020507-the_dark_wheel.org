@@ -1,0 +1,73 @@
+:PROPERTIES:
+:ID:       7ec2457b-3e53-4928-a17f-e885b681b267
+:ROAM_ALIASES: TDW
+:END:
+#+title: The Dark Wheel
+- [[id:c6b67ab9-66c5-4636-a978-2ca3a9ab012c][Shinrarta Dezhra]]
+- [[id:a2bd8247-2daf-4bd9-b6da-667ff707b0a2][Raxxla]]
+
+* People
+  - [[id:abad5f3f-677b-40cc-9038-12eb558ec4cc][Jason Ryder]]
+  - [[id:6c17b5fb-2960-4a32-a775-478055f593cb][Rafe Zetter]]
+  - [[id:f6a32396-4ff7-4288-b561-c64870cc5f66][Alex Ryder]]
+  - [[id:d512672e-8849-46f9-b39d-a53f0c5765bf][Felicity Farseer]]
+* Citations
+** From the Knowledge Base:
+   Oh, they're out there alright. I've never met them, but _I know they're out there_.
+   Think about how well known the stories are. Now think about
+   how easy it would be for some two-bit band of hucksters to pass
+   themselves off as the Dark Wheel and start trading on their
+   reputation. Doesn't happen, does it? Not for long, anyway. Whenever
+   someone tries to usurp the Dark Wheel name, sooner or later they get
+   quietly shut down. And that's how I know.
+
+   — [[id:d512672e-8849-46f9-b39d-a53f0c5765bf][Felicity Farseer]]
+
+The Dark Wheel is the name given to a legendary group of adventurers,
+explorers, investigators and treasure-hunters, the existence of which
+is so lacking in corroborative evidence that it is generally
+considered a myth. The group is often mentioned in connection with the
+equally unsubstantiated '[[id:a2bd8247-2daf-4bd9-b6da-667ff707b0a2][Raxxla]]'.
+
+Those who believe in the existence of the Dark Wheel consider it to be
+a continuous and clandestine organisation, operating since the very
+earliest days of interstellar travel. According to the lore, only a
+handful of the bravest and most competent pilots of each generation
+are honoured with an invitation to join the group. It is futile to
+attempt to contact the Dark Wheel on one's own initiative, however -
+it is always they who initiate contact, initially in disguise,
+revealing their true identity only once a suitable [[id:c951fc2c-63cb-4884-81d6-b38c62afada6][test]] of courage and
+[[id:02a9c750-ffc3-4368-a7f2-92a925b715e9][skill]] has been discreetly administered, and passed.
+
+Opposing theories assert that new members are selected on the basis of
+lineage, with existing members covertly training their children and
+revealing the fact of their membership only when the child is
+ready. Conversely, some members are believed to go to great lengths to
+prevent their children from ever becoming involved, since the group's
+[[id:6ad7e1e4-4fb0-4cbf-b9a1-771afa67ed0b][secrets]] are dangerous.
+
+According to self-professed Dark Wheel expert [[id:26fd3b75-9402-4192-ad70-3889de39c7c8][Lyta Crane]], a conspiracy
+theorist and 'people's journalist' who has painstakingly assembled an
+archive of relevant data, the original group was based in a [[id:428a6236-9808-4fbe-a738-5a62d24f89ad][disused
+starport]] orbiting the [[id:4c5f7870-8dfd-463f-aadf-aa43ddeaeaa8][eighth]] [[id:e998c95c-a76f-4312-a8c2-3a8706232ae9][moon]] of an unnamed [[id:c06b99eb-1957-4432-ac68-8477488428a1][gas giant]]. The station
+was [[id:149464fc-2fa5-4413-acb4-f44cb585f171][toroid]], hence 'wheel', and operated with a minimal power output so
+as to avoid detection, hence 'dark'.
+
+Crane believes that this starport is still in use, and is the only
+means whereby the genuine Dark Wheel can verify its identity; new
+inductees can examine the records and artefacts preserved there, and
+thus satisfy themselves that the group has indeed been operating for
+centuries. No such starport has ever been found, however, and rival
+experts have accused Crane of forging her evidence in order to
+maintain the revenue from her billions of followers.
+
+Over the years, many people have claimed to be members of the Dark
+Wheel, to have identified some or all of the group's members, or to
+have discovered the group's location, but the contradictory nature of
+these claims suggests that most of them, if not all, are untrue.
+
+In 3300, a group identifying itself as the Dark Wheel emerged in the
+Shinrarta Dezhra system, which is not accessible to pilots of lower
+than [[id:088cf15e-3c00-4522-8c15-aa4c8b30ea8c][Elite rank]]. It is not apparent if the group is a legitimate
+descendant of the original Dark Wheel, a reconstruction, or merely an
+opportunistic imitator.

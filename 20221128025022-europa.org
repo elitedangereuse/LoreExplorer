@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       264d441f-6818-431c-8867-5b03720df131
+:END:
+#+title: Europa
+[[id:1fd01d13-7a2c-402e-bb92-1b4edadd78c2][Unregistered Comms Beacons]]
+
+* Message
+https://www.youtube.com/watch?v=EP3jqH2AONw
+The output of the unregistered comms. beacon around Europa. The transcript of this is:
+: 12 9 19 20 5 14 12 15 3 1 20 9 15 14 5 18 1 22 1 20 5 20 9 13 5 10
+: 12 9 19 20 5 14 12 15 3 1 20 9 15 14 12 1 22 5 20 9 13 5 30 
+: 
+: 3 12 21 5 4 C
+
+This can be translated to something readable easily:
+: LISTEN LOCATION ERAVATE TIME 10
+: LISTEN LOCATION LAVE TIME 30
+: CLUE 4 C
+* Links
+[[id:ff595332-6a13-4f69-ae2f-cc0a0df8e741][Lave]]
+[[id:758e843d-ea7e-48f2-b480-d62faa129900][Eravate]]
+
+* [[id:d4041b1f-0788-4db1-b21d-4a58e5d96965][Puzzle]]
+  [[id:d81dd848-0189-46bd-b5e3-c6dd5cc75fa7][Letter offsets]]
+  [[id:c105ad4c-c57e-4157-b453-0a2ad6ec005d][NATO phonetic alphabet characters]]

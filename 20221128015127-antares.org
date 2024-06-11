@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       f6b3276c-304e-40ab-8dba-6ecfca7d6c5d
+:END:
+#+title: Antares
+a technologically revolutionary passenger liner
+designed and built by [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][the Sirius Corporation]].

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       ff1f91b2-2084-4a2a-9060-f5a4aa0fe5bb
+:END:
+#+title: Chloe Sedesi
+[[id:952ef45f-df68-4524-bbd7-5f5a427494ef][Engineer]]
+
+
+* Location
+Cinder Dock | [[id:9eb04a19-52b5-4650-8d44-a5497225789e][Shenve]]
+
+* How to discover
+From [[id:d18667b7-1da8-48ca-bb84-e280ebf77a35][Marco Qwent]] (grade 3-4).
+* Meeting requirements
+Attain a maximum distance from your career start location of at least
+5,000 light years.
+* Unlock requirements
+Provide 25 units of Sensor Fragments.
+* Reputation gain
+Craft modules for a major increase.
+Sell exploration data to Cinder Dock.

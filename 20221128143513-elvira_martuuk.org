@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       887ca01b-ea5d-4fcd-a45d-de1ca598f1cd
+:END:
+#+title: Elvira Martuuk
+[[id:952ef45f-df68-4524-bbd7-5f5a427494ef][Engineer]]
+[[id:26d5e48a-8815-4147-b021-d5fb0ff314f2][Ship]]
+
+* Location
+Long Sight Base | [[id:27afafa1-f476-4854-b1f8-fe0e14933646][Khun]]
+Distance
+* How to discover
+Public knowledge.
+* Meeting requirements
+Attain a maximum distance from your career start location of at least 300 light years.
+* Unlock requirements
+Provide 3 units of [[id:2fd998e2-63d3-4a86-8087-d713f905d8eb][Soontill Relics]].
+* Reputation gain
+Craft modules for a major increase.
+Sell exploration data at Long Sight Base.

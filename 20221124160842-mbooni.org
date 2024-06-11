@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       a5427e6e-e2f5-4c09-b595-97bbc14894ee
+:END:
+#+title: Mbooni
+[[id:0af45b7c-9ef0-4ab6-903c-358dca8880f3][Kamba]]
+
+Mbooni (Used to be duplicated [[id:0af45b7c-9ef0-4ab6-903c-358dca8880f3][Kamba]] system, now renamed,
+requires Kamba permit)¹.
+
+¹: https://forums.frontier.co.uk/threads/updated-permit-list.122593/
+
+Technology broker at the [[id:c297636c-f22b-4b34-b48b-013d376cae96][Settlement]] [[id:6083ca63-f129-4999-b775-d25a7d29c36a][Prospect's Deep]] to buy [[id:fea0026e-dea5-4206-9995-28a44ca9a29b][Modified Shard Cannon]] one by one.

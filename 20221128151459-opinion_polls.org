@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       d22c7b5b-2965-452f-9b1c-77de0b601cf8
+:END:
+#+title: Opinion Polls
+[[id:4c2adf46-faa2-4d45-ad1c-5badcb54905b][Component]]

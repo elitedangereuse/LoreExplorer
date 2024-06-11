@@ -1,0 +1,257 @@
+:PROPERTIES:
+:ID:       09343513-2893-458e-a689-5865fdc32e0a
+:END:
+#+title: Thargoids
+* Objects
+  - [[id:d17a9775-b9b5-4d26-b69f-16ced04f52a9][Thargoid Sensors]]
+  - [[id:479ad5ac-c6b9-4358-870e-12058bd925cb][Thargoid Probes]]
+  - [[id:e2c8ef5e-90a4-4dcc-974f-3af59cc68797][Thargoid Links]]
+  - [[id:3c8fad3d-2685-4d41-b17f-947c36926c5d][Thargons]]
+  - [[id:0d00ae42-8994-4b9b-a0dd-65c7b13dbd0d][Thargoid Scouts]]
+  - [[id:d9e97ba9-f907-4520-9f9f-daec8c269557][Thargoid Interceptors]]
+  - [[id:6666e632-1845-4761-aaff-304b72c85b86][Thargoid Hunters]]
+  - [[id:5a7bd9d0-f70a-4af4-bd81-8d52784c62a6][Thargoid Pod]]
+  - [[id:6c63a7d7-35df-4438-ae12-b0f9a87eb774][Thargoid Scavengers]]
+  - [[id:2f251dee-63c1-4551-b437-2df1483e8078][Thargoid Maelstrom]]
+* Scans
+  - [[id:4a2a29f4-8edd-4cf2-b347-a023dac7ab26][octal]] easter egg: Hull Stress Factor Incertain
+* Locations
+  - [[id:70fa34ea-bc98-40ff-97f0-e4f4538387a6][Merope]]
+  - [[id:0ee60994-364c-41b9-98ca-993d041cea72][Maia]]
+  - [[id:846bfbc7-75e7-4d8d-8716-7fe0346026f4][Delphi]]
+  - [[id:7579d21e-8753-410c-a462-b07045ad00f6][Ammonia Worlds]]
+  - [[id:ef6b2aca-b7ca-4607-aa14-c91e1085c795][Nebulae]]
+* People
+  - [[id:0be96028-d995-4b52-8bb0-34f21e080bce][John Jameson]]
+  - [[id:8f63442a-1f38-457d-857a-38297d732a90][Ishmael Palin]]
+  - [[id:9a8a2b74-f7e3-4d1b-abfd-82b91b1d6481][The Order Of The Far God]]
+* Enemies
+  - [[id:f57cff55-3348-45ea-b76f-d0eaa3c68165][Guardians]]
+  - [[id:4dfd1a40-8f9b-4f66-9c90-971e253a3fe1][Humans]]
+* Knowledge Base
+** The Thargoids
+*** Human-Thargoid Contact
+The Thargoids are a nonhuman race with a history of hostility towards
+humanity.
+
+The [[id:05d491aa-9716-4e70-9335-d338f55d3819][first recorded encounter]] with a Thargoid ship took place in 2849,
+although earlier undocumented encounters are believed to have taken
+place. In the years that followed, contact with lone Thargoid vessels
+was intermittently reported.
+
+Humanity clashed with the Thargoids in the 32nd century, but details
+of the conflict remained scarce for many years, and it proved
+difficult to differentiate authentic accounts of Thargoid encounters
+from the sensationalist media stories of the time.
+
+The discovery of abandoned Intergalactic Naval Reserve Arm bases in
+3303 did much to dispel the fog, however. The INRA, a joint
+Federal-Imperial intiative established in 3193, was responsible for
+researching the Thargoids and developing technologies to counter their
+aggression, but the organisation's lack of accountability meant that
+the details of its research did not come to light until years after is
+dissolution.
+
+Almost all of the reliable data concerning the Thargoids have been
+sourced from INRA facilities. This data, originally deemed highly
+confidential, was declassified in 3304 following a resolution from the
+Federal Government and an Imperial decree. Some controversy over the
+backing and funding of the INRA remains, however.
+
+*** Society
+The INRA discovered that Thargoid society is organised into hives,
+with most Thargoids falling into three categories - queens, princesses
+and drones. Queens function as reproducers, while drones serve to
+maintain a favourable environment for the rest of the hive. Thargoid
+hives can be vast, although it may be that some of the larger observed
+groups are in fact multiple, overlapping hives. Ultimately, little is
+known for sure.
+
+The average Thargoid queen is at least as intelligent as a huma being,
+while the typical drone possesses a more rudimentary level of
+intelligence. Existing evidence suggests that queens have extremely
+long lifespans, living for hundreds or even thousands of years. The
+variable size fo queens' neurocraniums suggests this might be an
+indicator of age.
+
+Little is known about the precise nature of Thargoid reproduction, but
+it is likely that queens can reproduce both seually (with other
+queens) and asexually. It is thought that the latter method produces
+drones, while the former produces a new queen. Analysis of Thargoid
+specimens led some INRA researchers to believe that a new queen, or
+'princess', becomes a full queen only once it has produced drones of
+its own. Significantly, queens are believed to be single sex.
+
+The Thargoids' ability to reproduce asexually means that their
+populations can expand incredibly quickly, but it is thought that they
+deliberately restrict the size of the populace so as not to deplete
+all available resources. There is evidence to suggest that this is
+sometimes achieved by culling older drones.
+
+INRA testing indicated that queens perceive drones as entirely
+expendable, presumably due to the ease with which they can be
+replaced. Indeed, a Thargoid queen appears to give no more thought to
+the loss of a drone than a human would an eyelash.
+
+*** Communication
+The belief that Thargoids were capable of some form of extra-sensory
+communication was often cited in the early years of human-Thargoid
+interaction, but prior to the discovery of INRA records it was not
+fully understood.
+
+Professor Uri Anslow of the INRA theorised that a Thargoid queen can
+communicate with the drones in its hive via a spread-spectrum
+electronic signal, and can use this signal to control the drones, and
+even to share their sensory input. Studies of battlefield footage
+certainly suggest some kind of near-instantaneous communication among
+Thargoids, and the presence of low-level radio noise in areas occupied
+by Thargoids indicates that they do indeed communicate via short-range
+electronic signals. Professor Anslow went on to claim that a queen
+could effectively see and hear through its drones, but her
+contemporaries were sceptical, dismissing the assertion as
+baseless. Professor Ishmael Palin, one of the galaxy's foremost
+experts on the Thargoids, has even gone so far as to denounce Anslow
+as a 'glory hound'.
+
+Thargoids have been known to make staccato clicking noises with their
+mouthparts when in the presence of humans, punctuated with occasional
+hisses and buzzes. They have also been observed directing such noises
+at one another, albiet much less frequently. Professor Alba Tesreau, a
+founding member of the joint-superpower initiative Aegis and a
+specialist in interspecies communication, has studied INRA audio logs
+and suggested that the sounds probably represent some kind of
+language, due to the reptition of certain sound combinations.
+
+It is unclear why the Thargoids would sometimes choose to communicate
+with each other vocally, given their capactiy for extrasensory
+communication. Professor Anslow suggested that the sounds could be
+designed to intimidate enemies or opponents, noting that Thargoids
+often produced them prior to combat.
+
+Thargoid ships have been observed emitting a complex array of sounds,
+and in some cases subtly changing colour. The exact meaning of these
+behaviours has not been determined, but they appear to correspond to
+different emotional states. What is not know is if these sounds are
+produced by teh pilots and amplified by the ship, or emitted by the
+ship itself. If the sounds originate with the pilot, it would suggest
+some kind of physiological connection between the pilot and
+vessel. Given the sophistication of Thargoid bio-engineering, however,
+it is possible that the sounds come from the ship itself, and that
+Thargoid ships are able to feel and communicate to a limited degree.
+
+The hulls of Thargoid ships are typically emblazoned with one of
+several symbols, the meaning of which is unknown. Some have theorised
+that they could denote membership of a particular familial group, or
+possibly be an indicator of rank.
+
+*** Physiology
+Human understanding of Thargoid physiology is far from complete, but
+recovered INRA data has offered some insights into their nature.
+
+INRA records describe the average Thargoid as physically larger than a
+human being, and generally insectoid in appearance. Thargoid biology
+is carbon-based, using an RNA-like encoding for biological
+information, but Thargoid chemistry is based on ammonia rather thatn
+water. Consequently, while Thargoids can comfortably tolerate
+environments as cold as minus 80 degrees Celcius, they cannot
+withstand environments warmer than 45 degrees Celcius for long.
+
+According to notes compiled by Doctor Peregrine Henig, an INRA
+researcher, Thargoids can survive for a signfiicant time in the vacuum
+of space without apparent discomfort, and can tolerate radiation and
+extreme cold for far longer than a human.
+
+*** Vulnerabilities
+In 3151, the INRA developed a biological weapon known as they mycoid
+virus for use against the Thargoids. The virus was the result of an
+accidental discovery made by an INRA researcher, who noted that a
+particular strain of fungus was found to thrive on the hulls of
+Thargoid vessels, and appeared to be digesting the material of which
+the ship was made.
+
+The INRA refined the fungal strain and began experimenting on living
+Thargoids and their spacecraft. The mycoid proved to have delterious
+effects on both, leading to the swift elimination of the Thargoids
+active in human-occupied space at the time.
+
+It is widely assumed that since the last human-Thargoid conflict, the
+Thargoids have developed an immunity to the mycoid virus.
+
+*** Starships
+In terms of structure and function, Thargoid vessels are radically
+different from anything produced by humanity, and are able to navigate
+hyperspace in ways that are not fully understood. They are also at
+least partly organic, meaning that they can self-repair - or heal -
+over time.
+
+Ship function in general, and this restorative ability in particular,
+have been shown to be dependent upon the so-called Thargoid heart - a
+biomechanical organ found in varying quantities in different Thargoid
+ships. These hearts often survive the destruction of the ship,
+enabling them to be salvaged, although they can also be targed and
+damaged with appropriate weaponry. They are highly corrosive, however,
+and require special containers for safe transport.
+
+Thargoid vessels that have sustained combat damage exhibit scar-like
+patterns. Given that Thargoid technology is sophisticated enough for
+such damage to be repaired, it follows that the Thargoids might
+deliberately choose to preserve these scars.
+
+INRA logs document an encounter with a Thargoid mothership many times
+larger than other Thargoid craft, against which the mycoid virus was
+successfully deployed, although no such vessels have been reported in
+recent times.
+
+*** Structures
+Dozens of planets in human-occupied space are peppered with Thargoid
+barnacles - biological resource extractors that convert minerals into
+meta-alloyws, a key component in the creation of Thargoid vehicles and
+technology. Theories that these barnacles have been genetically
+engineered by the Thargoids have yet to be verified.
+
+Larger structures, referred to as Thargoid surface sites, have also
+been discovered. These sites typically consist of a spiral-shaped
+structure nesting within a shallow crater, beneath which lies a series
+of tunnels. At the heart of this sub-surface network is a device that,
+once activated, emits a holographic star map. The sites are patrolled
+by semi-sentient biomechanical entities called scavengers.
+
+*** War with the Guardians
+Archaeological records have revealed that the extinct nonhuman
+civilization known as the Guardians experienced conflict with the
+Thargoids several million years ago.
+
+Logs recovered from Guardian sites indicate that the Thargoids were
+the aggressor in this conflict. Having seeded Guardian space with
+biomechanical constructs used for resource extraction long before the
+emergence of the Guardians' civlisation, the Thargoids apparently
+believed they were entitled to uncontested dominion of the
+territory. The Guardians attempted to communicate with the Thargoids
+and reach a compromise, but without success.
+
+Over the course of the conflict, the Guardians developed new
+technologies to give them an advantage against the Thargoids. These
+technologies were apparently successful, forcing Thargoids to abandon
+their offensive.
+
+*** Agenda
+Thargoids do not attack indiscrimately, and their choise of targets
+shows them to be highly intelligent. They have conducted targeted
+strikes on Aegis facilities and attacked pilots carrying Thargoid
+items in their cargo holds, indicating that they know they are being
+studied and want to halt the process. But despite their evident
+intelligence, they appear to be completely uninterested in meaningful
+communication.
+
+The engineer Ram Tah, who has extensively researched the Guardians and
+their war with the Thargoids, holds the view that Thargoid aggression
+is a product of territorialism. They seed an area with barnacles, thus
+laying claim to it, and return - sometimes many centuries later - to
+harvest the extracted resources. Any lifeform advanced enough to
+compete with them for the territory is treated as an enemy and
+summarily attacked.
+
+Professor Palin concurs with this view, adding that the Thargoids are
+apparently so determined to eliminate any threats to their long-term
+survival, they will not tolerate any advanced species in close
+proximity.

@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       2654d0ce-3f15-49ce-bfc7-3bbd07ba944d
+:END:
+#+title: Signals
+

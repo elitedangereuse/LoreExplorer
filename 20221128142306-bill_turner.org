@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       f3426d7a-dfd4-4e6c-8f29-f53c7e31d071
+:END:
+#+title: Bill Turner
+[[id:952ef45f-df68-4524-bbd7-5f5a427494ef][Engineer]]
+[[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]]
+[[id:26d5e48a-8815-4147-b021-d5fb0ff314f2][Ship]]
+[[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][The Alliance]]
+
+* Location
+Turner Metallics Inc | [[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]] [[[id:55d5b2cc-aa04-47b1-b144-ffa4e8f43b5d][Permits]] required]
+
+* How to discover
+From [[id:db7447d8-84fb-42e6-a431-0397512e8f0c][Selene Jean]] (grade 3-4).
+* Meeting requirements
+Gain Friendly status with Alliance. You will also need Allied status
+with Alioth Independents to get a permit to access the Alioth
+starsystem.
+* Unlock requirements
+Provide 50 units of Bromellite.
+* Reputation gain
+Craft modules for a major increase.
+Sell commodities to Turner Metallics Inc.
+* Claims
+Bill Turner claims to be the son of [[id:c46f5348-be85-4d06-bf04-12a9b812d0ad][Mic Turner]]

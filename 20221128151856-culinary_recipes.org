@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       528fdf07-ef32-4a7e-9bec-beae1cc93cf9
+:END:
+#+title: Culinary Recipes
+[[id:4c2adf46-faa2-4d45-ad1c-5badcb54905b][Component]]

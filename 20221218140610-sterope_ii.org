@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       68cdeb4e-24b7-4ecd-8e3e-0bb5377b780d
+:END:
+#+title: Sterope II
+
+Economy:Government
+Allegiance:Independent
+Population:0
+Controlling faction:
+Traffic:0-5 commanders
+Security level:Anarchy
+State:Normal

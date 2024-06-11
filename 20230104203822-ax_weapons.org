@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       6023377d-7271-49d1-80ec-ffab82dc8c29
+:END:
+#+title: AX weapons
+[[id:32267587-a5db-456f-8a09-439ed0309638][Weapons]] designed with the intent to be efficient against [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] [[id:26d5e48a-8815-4147-b021-d5fb0ff314f2][ships]]

@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       0be96028-d995-4b52-8bb0-34f21e080bce
+:END:
+#+title: John Jameson
+* Family
+  - [[id:cc697ecd-bd30-4319-b7f0-5e659a6e5b44][Jameson]]
+  - [[id:1950129f-ad8e-453a-94ac-8bb0813e2e28][Lori Jameson]]
+  - [[id:315a2182-7266-45f9-ac87-5f0f42c5cf12][Riri McAllister]]
+* Job
+  - [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]]
+  - [[id:39a31dd8-3750-4507-90b7-b649d0eeecef][INRA]]
+  - [[id:e97884f4-b295-4bc7-9cc5-f79c1d2a6fbd][Mission]]
+  - [[id:c6674165-eb13-47d3-ad54-796aab951892][First Thargoid War]]
+* Ship
+  - [[id:83299a14-b6b0-4670-ba39-2914e05ed2f5][Cobra Mk III]] at [[id:9ee9c706-4692-4578-8eaf-46ac00bea5aa][Crash Site]]
+* Locations
+  - [[id:ff595332-6a13-4f69-ae2f-cc0a0df8e741][Lave]]

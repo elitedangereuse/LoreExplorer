@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       a6e1d487-9b38-4ad8-8e7e-601a513d747b
+:END:
+#+title: Lei Cheung
+[[id:952ef45f-df68-4524-bbd7-5f5a427494ef][Engineer]]
+[[id:26d5e48a-8815-4147-b021-d5fb0ff314f2][Ship]]
+
+* Location
+Trader's Rest | [[id:594f8824-f69f-4dc5-806f-ff217e07704c][Laksak]]
+* How to discover
+From [[id:bcdb8e96-5958-4167-b0ec-67b7daa1086e][The Dweller]] (grade 3-4).
+* Meeting requirements
+You have traded in over 50 markets.
+* Unlock requirements
+Provide 200 units of [[id:5f6084d4-822d-4a6e-8127-230eb07163e2][Gold]].
+* Reputation gain
+Craft modules for a major increase.
+Sell commodities to Trader's Rest.

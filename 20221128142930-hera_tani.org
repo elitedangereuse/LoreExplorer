@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       c7c72092-6fb9-4c3e-865b-d16661a11cdb
+:END:
+#+title: Hera Tani
+[[id:952ef45f-df68-4524-bbd7-5f5a427494ef][Engineer]]
+
+* Location
+The Jet's Hole | [[id:39a3befe-923d-4b8c-9604-c8e0fd360384][Kuwemaki]]
+* How to discover
+From [[id:cb71ba02-e47b-4feb-a421-b1f2ecdce6f3][Liz Ryder]] (grade 3-4).
+* Meeting requirements
+Gain rank Outsider or higher with [[id:2891de55-e2d4-429c-b761-095a74482a02][the Empire]].
+* Unlock requirements
+Provide 50 units of [[id:fad057f3-a5e3-4dad-a5ab-f2b471a14862][Kamitra Cigars]].
+* Reputation gain
+Craft modules for a major increase.
+Sell commodities to The Jet's Hole.

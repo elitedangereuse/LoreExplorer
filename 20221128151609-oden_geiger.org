@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       76f5f08d-b2c1-4121-8c0d-9b94831e01b2
+:END:
+#+title: Oden Geiger
+[[id:952ef45f-df68-4524-bbd7-5f5a427494ef][Engineer]]
+[[id:9f741206-a12d-48ea-af5a-55dd92f0d667][OnFoot]]
+
+* Location
+Ankh's Promise | [[id:47e413c6-79b3-4565-ae86-f2b7358864e2][Candiaei]]
+* How to discover
+From [[id:5bc38801-eeb2-4c7a-9568-f41dcdf556c6][Terra Velasquez]]
+* Unlock requirements
+Sell a total of 20 [[id:70557ed0-463a-4cb3-99a8-379ab456e61a][Biological sample]], [[id:c70a9fea-50a3-4492-9dcd-65dc1bbdf71f][Employee genetic data]] and
+[[id:3153eb5b-894a-41df-ba7a-eec002923dd1][Genetic research]] to bartenders.
+* Referral requirements
+
