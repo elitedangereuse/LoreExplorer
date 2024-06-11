@@ -1,6 +1,6 @@
 # Elite Dangerous Lore Explorer
 
-This is the Elite Dangerous Lore Explorer.
+Discover the [Elite Dangerous Lore Explorer](https://elitedangereuse.github.io/LoreExplorer/) now!
 
 This uses the Zettelkasten method and org-roam to create a new approach to the official Elite Dangerous lore.
 
