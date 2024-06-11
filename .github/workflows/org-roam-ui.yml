@@ -16,6 +16,7 @@ jobs:
       - name: Generate org-roam-ui page
         uses: ikoamu/org-roam-ui-hosting@main
         with:
-          org-roam-db-filename: org-roam.db
+          org-roam-directory: src
+          org-roam-db-filename: db/org-roam.db
           site-title: Elite Dangerous Lore Explorer
           deploy-to-pages: true
