@@ -2,9 +2,7 @@
 :ID:       e543dd6e-96f5-4d65-a45f-32a5586ad511
 :END:
 #+title: Rosa Dayette
-[[id:952ef45f-df68-4524-bbd7-5f5a427494ef][Engineer]]
-[[id:9f741206-a12d-48ea-af5a-55dd92f0d667][OnFoot]]
-
+#+filetags: :OnFoot:engineer:
 * Location
 Rosa's Shop | [[id:23c19e19-16f1-4584-a547-47a013a65360][Kojeara]]
 * How to discover

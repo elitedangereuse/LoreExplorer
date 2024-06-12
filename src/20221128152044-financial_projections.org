@@ -2,4 +2,5 @@
 :ID:       a175c517-8d98-40c1-8366-8cb4dff454e3
 :END:
 #+title: Financial Projections
-[[id:4c2adf46-faa2-4d45-ad1c-5badcb54905b][Component]]
+#+filetags: :Component:
+

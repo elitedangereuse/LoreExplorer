@@ -2,9 +2,7 @@
 :ID:       3bb893ed-19f4-4cf2-90ce-a5f0deea8220
 :END:
 #+title: Domino Green
-[[id:952ef45f-df68-4524-bbd7-5f5a427494ef][Engineer]]
-[[id:9f741206-a12d-48ea-af5a-55dd92f0d667][OnFoot]]
-
+#+filetags: :OnFoot:engineer:
 * Location
 The Jackrabbit | [[id:672a83c7-a32c-4219-b925-87564d6389fa][Orishis]]
 * How to discover

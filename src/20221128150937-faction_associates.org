@@ -2,4 +2,5 @@
 :ID:       abcab4c6-49d0-4bcc-9d94-fea5316fe5a8
 :END:
 #+title: Faction Associates
-[[id:4c2adf46-faa2-4d45-ad1c-5badcb54905b][Component]]
+#+filetags: :Component:
+

@@ -2,5 +2,6 @@
 :ID:       ef2cdcaf-36f7-4759-860c-4e489f48226c
 :END:
 #+title: Progenitor Cells
-[[id:71969c3b-5583-4fe4-8e13-b4fafa32cbff][Commodity]]
+#+filetags: :Commodity:
+
 [[id:50e5a3c1-a834-4b39-8471-f3fcd22ad82c][illegal drugs]]

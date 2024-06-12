@@ -2,6 +2,7 @@
 :ID:       d512672e-8849-46f9-b39d-a53f0c5765bf
 :END:
 #+title: Felicity Farseer
+#+filetags: :engineer:
 Needs [[id:da2f167d-0157-4deb-afb2-98bf6518cf01][Meta-Alloys]]
 
 She knows about [[id:7ec2457b-3e53-4928-a17f-e885b681b267][The Dark Wheel]].
@@ -16,10 +17,6 @@ From the Knowledge Base:
 : quietly shut down. And that's how I know.
 : 
 : — Felicity Farseer
-
-* Job
-  [[id:952ef45f-df68-4524-bbd7-5f5a427494ef][Engineer]]
-  [[id:26d5e48a-8815-4147-b021-d5fb0ff314f2][Ship]]
 
 * Location
 Farseer Inc | [[id:4af71116-980a-4119-b93e-a0b368cf9550][Deciat]]

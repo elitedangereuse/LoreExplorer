@@ -2,6 +2,7 @@
 :ID:       d56d0a6d-142a-4110-9c9a-235df02a99e0
 :END:
 #+title: The Federation
+#+filetags: :Codex:
 
 ** The Federation
 *** Introduction

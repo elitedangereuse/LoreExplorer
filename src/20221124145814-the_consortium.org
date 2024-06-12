@@ -2,6 +2,7 @@
 :ID:       d5026aa6-6751-497d-880e-517baa2578e6
 :END:
 #+title: The Consortium
+#+filetags: :Codex:
 
 * Faction
 [[id:b6cc5a1a-935d-4119-9989-1e916a3e7339][NGC 6188 Sector LC-V c2-28]] (4402.19 ly from Sol)

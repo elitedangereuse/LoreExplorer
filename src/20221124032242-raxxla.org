@@ -2,6 +2,7 @@
 :ID:       a2bd8247-2daf-4bd9-b6da-667ff707b0a2
 :END:
 #+title: Raxxla
+#+filetags: :Codex:
 #+CAPTION: Codex logo for Raxxla
 #+NAME:   fig:Raxxla_400.png
 [[file:img/Raxxla_400.png]]

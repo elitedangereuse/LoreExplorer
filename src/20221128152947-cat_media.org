@@ -2,4 +2,4 @@
 :ID:       16b7a902-3d8c-4485-ac80-330d957785eb
 :END:
 #+title: Cat Media
-[[id:4c2adf46-faa2-4d45-ad1c-5badcb54905b][Component]]
+#+filetags: :component:

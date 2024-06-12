@@ -2,9 +2,7 @@
 :ID:       44343fed-44fd-43ef-979a-27929ac198b9
 :END:
 #+title: Eleanor Bresa
-[[id:952ef45f-df68-4524-bbd7-5f5a427494ef][Engineer]]
-[[id:9f741206-a12d-48ea-af5a-55dd92f0d667][OnFoot]]
-
+#+filetags: :OnFoot:engineer:
 * Location
 Bresa Modifications | [[id:5dcec758-a77d-478d-9849-1793a47d2a5b][Desy]]
 * How to discover

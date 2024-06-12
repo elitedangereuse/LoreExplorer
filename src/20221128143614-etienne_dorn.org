@@ -2,9 +2,7 @@
 :ID:       4f85bf60-23ac-4a5d-89ac-f6689fb8fef8
 :END:
 #+title: Etienne Dorn
-[[id:952ef45f-df68-4524-bbd7-5f5a427494ef][Engineer]]
-[[id:26d5e48a-8815-4147-b021-d5fb0ff314f2][Ship]]
-
+#+filetags: :engineer:
 * Location
 Kraken's Retreat | [[id:77b9b85d-7a55-4b71-9376-341ce0c141c5][Los]]
 * How to discover

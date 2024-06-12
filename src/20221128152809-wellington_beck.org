@@ -2,9 +2,7 @@
 :ID:       6fd6bff4-12f0-4ac0-b33c-eaa977fb4ac9
 :END:
 #+title: Wellington Beck
-[[id:952ef45f-df68-4524-bbd7-5f5a427494ef][Engineer]]
-[[id:9f741206-a12d-48ea-af5a-55dd92f0d667][OnFoot]]
-
+#+filetags: :OnFoot:engineer:
 * Location
 Beck Facility | [[id:050e229d-5605-4d9f-a66b-5288e43a405b][Jolapa]]
 * How to discover

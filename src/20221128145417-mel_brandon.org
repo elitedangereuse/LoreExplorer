@@ -2,9 +2,7 @@
 :ID:       2fce62b3-399d-4ef7-b93b-00a0de6cc4be
 :END:
 #+title: Mel Brandon
-[[id:952ef45f-df68-4524-bbd7-5f5a427494ef][Engineer]]
-[[id:26d5e48a-8815-4147-b021-d5fb0ff314f2][Ship]]
-
+#+filetags: :engineer:
 * Location
 The Brig | [[id:d3daf803-d239-4314-81cd-22cbb7db8424][Luchtaine]]
 * How to discover

@@ -2,9 +2,7 @@
 :ID:       bcdb8e96-5958-4167-b0ec-67b7daa1086e
 :END:
 #+title: The Dweller
-[[id:952ef45f-df68-4524-bbd7-5f5a427494ef][Engineer]]
-[[id:26d5e48a-8815-4147-b021-d5fb0ff314f2][Ship]]
-
+#+filetags: :engineer:
 * Location
 Black Hide | [[id:b541e647-476a-4362-a2d0-78debafb0759][Wyrd]]
 * How to discover

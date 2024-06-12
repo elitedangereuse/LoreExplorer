@@ -2,9 +2,7 @@
 :ID:       76f5f08d-b2c1-4121-8c0d-9b94831e01b2
 :END:
 #+title: Oden Geiger
-[[id:952ef45f-df68-4524-bbd7-5f5a427494ef][Engineer]]
-[[id:9f741206-a12d-48ea-af5a-55dd92f0d667][OnFoot]]
-
+#+filetags: :OnFoot:engineer:
 * Location
 Ankh's Promise | [[id:47e413c6-79b3-4565-ae86-f2b7358864e2][Candiaei]]
 * How to discover

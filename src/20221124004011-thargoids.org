@@ -2,6 +2,7 @@
 :ID:       09343513-2893-458e-a689-5865fdc32e0a
 :END:
 #+title: Thargoids
+#+filetags: :Codex:
 * Objects
   - [[id:d17a9775-b9b5-4d26-b69f-16ced04f52a9][Thargoid Sensors]]
   - [[id:479ad5ac-c6b9-4358-870e-12058bd925cb][Thargoid Probes]]

@@ -2,4 +2,5 @@
 :ID:       4aeadba4-4911-4595-b261-bf2a8287bee9
 :END:
 #+title: Avalonia
-[[id:26d5e48a-8815-4147-b021-d5fb0ff314f2][Ship]]
+#+filetags: :ship:
+The Avalonia is a ship.

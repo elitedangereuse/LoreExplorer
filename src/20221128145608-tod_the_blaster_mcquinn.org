@@ -2,9 +2,7 @@
 :ID:       610da0b4-4f53-45b6-80a7-704ef14cf16f
 :END:
 #+title: Tod "The Blaster" McQuinn
-[[id:952ef45f-df68-4524-bbd7-5f5a427494ef][Engineer]]
-[[id:26d5e48a-8815-4147-b021-d5fb0ff314f2][Ship]]
-
+#+filetags: :engineer:
 * Location
 Trophy Camp | [[id:904e09fa-f2a2-4420-a80c-695eebebb61e][Wolf 397]]
 * How to discover

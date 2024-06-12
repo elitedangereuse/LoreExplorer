@@ -3,9 +3,7 @@
 :ROAM_ALIASES: TDW
 :END:
 #+title: The Dark Wheel
-- [[id:c6b67ab9-66c5-4636-a978-2ca3a9ab012c][Shinrarta Dezhra]]
-- [[id:a2bd8247-2daf-4bd9-b6da-667ff707b0a2][Raxxla]]
-
+#+filetags: :Codex:
 * People
   - [[id:abad5f3f-677b-40cc-9038-12eb558ec4cc][Jason Ryder]]
   - [[id:6c17b5fb-2960-4a32-a775-478055f593cb][Rafe Zetter]]
@@ -13,6 +11,7 @@
   - [[id:d512672e-8849-46f9-b39d-a53f0c5765bf][Felicity Farseer]]
 * Citations
 ** From the Knowledge Base:
+#+begin_quote
    Oh, they're out there alright. I've never met them, but _I know they're out there_.
    Think about how well known the stories are. Now think about
    how easy it would be for some two-bit band of hucksters to pass
@@ -20,8 +19,8 @@
    reputation. Doesn't happen, does it? Not for long, anyway. Whenever
    someone tries to usurp the Dark Wheel name, sooner or later they get
    quietly shut down. And that's how I know.
-
    — [[id:d512672e-8849-46f9-b39d-a53f0c5765bf][Felicity Farseer]]
+#+end_quote
 
 The Dark Wheel is the name given to a legendary group of adventurers,
 explorers, investigators and treasure-hunters, the existence of which
@@ -67,7 +66,7 @@ have discovered the group's location, but the contradictory nature of
 these claims suggests that most of them, if not all, are untrue.
 
 In 3300, a group identifying itself as the Dark Wheel emerged in the
-Shinrarta Dezhra system, which is not accessible to pilots of lower
+[[id:c6b67ab9-66c5-4636-a978-2ca3a9ab012c][Shinrarta Dezhra]] system, which is not accessible to pilots of lower
 than [[id:088cf15e-3c00-4522-8c15-aa4c8b30ea8c][Elite rank]]. It is not apparent if the group is a legitimate
 descendant of the original Dark Wheel, a reconstruction, or merely an
 opportunistic imitator.

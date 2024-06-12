@@ -3,6 +3,7 @@
 :ROAM_ALIASES: "Epsilon Ursae Majoris"
 :END:
 #+title: Alioth
+#+filetags: :System:
 
 * Description
 Alioth, also known as Epsilon Ursae Majoris, is the capital system of

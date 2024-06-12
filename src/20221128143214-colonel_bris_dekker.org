@@ -2,9 +2,7 @@
 :ID:       daaa35d6-9517-459d-9fdd-9c1b941b8a5e
 :END:
 #+title: Colonel Bris Dekker
-[[id:952ef45f-df68-4524-bbd7-5f5a427494ef][Engineer]]
-[[id:26d5e48a-8815-4147-b021-d5fb0ff314f2][Ship]]
-
+#+filetags: :engineer:
 * Location
 Dekker's Yard | [[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]] [[[id:55d5b2cc-aa04-47b1-b144-ffa4e8f43b5d][permit]] required]
 

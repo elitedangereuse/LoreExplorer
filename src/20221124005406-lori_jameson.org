@@ -2,11 +2,9 @@
 :ID:       1950129f-ad8e-453a-94ac-8bb0813e2e28
 :END:
 #+title: Lori Jameson
+#+filetags: :engineer:
 * Family
   [[id:cc697ecd-bd30-4319-b7f0-5e659a6e5b44][Jameson]]
-* Job
-- [[id:952ef45f-df68-4524-bbd7-5f5a427494ef][Engineer]]
-- [[id:26d5e48a-8815-4147-b021-d5fb0ff314f2][Ship]]
 * Location
 Jameson Base | [[id:c6b67ab9-66c5-4636-a978-2ca3a9ab012c][Shinrarta Dezhra]] [[[id:55d5b2cc-aa04-47b1-b144-ffa4e8f43b5d][permit]] required]
 * How to discover

@@ -2,9 +2,7 @@
 :ID:       7af58443-6856-4aa9-89ff-89c94bd63aa7
 :END:
 #+title: Petra Olmanova
-[[id:952ef45f-df68-4524-bbd7-5f5a427494ef][Engineer]]
-[[id:26d5e48a-8815-4147-b021-d5fb0ff314f2][Ship]]
-
+#+filetags: :engineer:
 * Location
 Sanctuary | [[id:636ce00b-56be-47f0-a440-a14f87b72b7c][Asura]]
 [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]]

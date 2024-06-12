@@ -2,4 +2,5 @@
 :ID:       5ede3de1-fdb7-4890-807c-9bc288f4db92
 :END:
 #+title: Smear Campaign Plans
-[[id:4c2adf46-faa2-4d45-ad1c-5badcb54905b][Component]]
+#+filetags: :Component:
+

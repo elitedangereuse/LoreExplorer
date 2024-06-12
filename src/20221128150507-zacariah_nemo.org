@@ -2,9 +2,7 @@
 :ID:       baab0645-10f6-4242-998a-b3c899f459a2
 :END:
 #+title: Zacariah Nemo
-[[id:952ef45f-df68-4524-bbd7-5f5a427494ef][Engineer]]
-[[id:26d5e48a-8815-4147-b021-d5fb0ff314f2][Ship]]
-
+#+filetags: :engineer:
 Works for [[id:e68a5318-bd72-4c92-9f70-dcdbd59505d1][Azimuth Biotech]] on [[id:6023377d-7271-49d1-80ec-ffab82dc8c29][AX weapons]]
 
 * Location

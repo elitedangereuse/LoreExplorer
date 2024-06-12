@@ -2,9 +2,7 @@
 :ID:       e80652fd-7aa0-4b18-90ac-aebb3d1c2259
 :END:
 #+title: Baltanos
-[[id:952ef45f-df68-4524-bbd7-5f5a427494ef][Engineer]]
-[[id:9f741206-a12d-48ea-af5a-55dd92f0d667][OnFoot]]
-
+#+filetags: :OnFoot:engineer:
 * Location
 The Divine Apparatus | [[id:6c3e4aeb-cc9c-4ff8-b54e-ca76d852ff69][Deriso]]
 * How to discover

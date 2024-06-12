@@ -2,9 +2,7 @@
 :ID:       595f8c92-4e03-4272-a68d-e3c1f475a4bc
 :END:
 #+title: Tiana Fortune
-[[id:952ef45f-df68-4524-bbd7-5f5a427494ef][Engineer]]
-[[id:26d5e48a-8815-4147-b021-d5fb0ff314f2][Ship]]
-
+#+filetags: :engineer:
 * Location
 Fortune's Loss | [[id:bed8c27f-3cbe-49ad-b86f-7d87eacf804a][Achenar]] [[[id:55d5b2cc-aa04-47b1-b144-ffa4e8f43b5d][permit]] required]
 * How to discover

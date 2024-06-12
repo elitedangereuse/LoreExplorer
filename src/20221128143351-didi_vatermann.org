@@ -2,8 +2,7 @@
 :ID:       3e446f3a-5bdf-4162-bd51-9fd5013cb331
 :END:
 #+title: Didi Vatermann
-[[id:952ef45f-df68-4524-bbd7-5f5a427494ef][Engineer]]
-[[id:26d5e48a-8815-4147-b021-d5fb0ff314f2][Ship]]
+#+filetags: :engineer:
 
 * Location
 Vatermann LLC | [[id:e7c94b38-cdfb-48da-a1c4-cdad10c3371a][Leesti]]

@@ -2,4 +2,5 @@
 :ID:       70557ed0-463a-4cb3-99a8-379ab456e61a
 :END:
 #+title: Biological Sample
-[[id:4c2adf46-faa2-4d45-ad1c-5badcb54905b][Component]]
+#+filetags: :Component:
+

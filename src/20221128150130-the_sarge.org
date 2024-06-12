@@ -2,8 +2,7 @@
 :ID:       987c6f4c-d050-4220-bc70-ccc894fff3b2
 :END:
 #+title: The Sarge
-[[id:952ef45f-df68-4524-bbd7-5f5a427494ef][Engineer]]
-[[id:26d5e48a-8815-4147-b021-d5fb0ff314f2][Ship]]
+#+filetags: :engineer:
 
 * Location
 The Beach | [[id:defa824f-5321-427d-9a8c-48519f68d2be][Beta-3 Tucani]]

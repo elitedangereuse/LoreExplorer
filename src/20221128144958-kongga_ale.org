@@ -2,4 +2,5 @@
 :ID:       f7f2b210-492a-441d-95ab-d5af4ea71edc
 :END:
 #+title: Kongga Ale
-[[id:71969c3b-5583-4fe4-8e13-b4fafa32cbff][Commodity]]
+#+filetags: :Commodity:
+

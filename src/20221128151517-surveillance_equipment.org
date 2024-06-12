@@ -2,4 +2,5 @@
 :ID:       55669e4c-6120-4f4a-93a1-ddcc366333c5
 :END:
 #+title: Surveillance equipment
-[[id:4c2adf46-faa2-4d45-ad1c-5badcb54905b][Component]]
+#+filetags: :Component:
+

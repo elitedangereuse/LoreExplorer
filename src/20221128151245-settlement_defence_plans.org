@@ -2,4 +2,5 @@
 :ID:       6f565654-981c-436d-9c28-0d202bf9e335
 :END:
 #+title: Settlement Defence Plans
-[[id:4c2adf46-faa2-4d45-ad1c-5badcb54905b][Component]]
+#+filetags: :Component:
+

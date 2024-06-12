@@ -2,9 +2,7 @@
 :ID:       db7447d8-84fb-42e6-a431-0397512e8f0c
 :END:
 #+title: Selene Jean
-[[id:952ef45f-df68-4524-bbd7-5f5a427494ef][Engineer]]
-[[id:26d5e48a-8815-4147-b021-d5fb0ff314f2][Ship]]
-
+#+filetags: :engineer:
 * Location
 Prospector's Rest | [[id:d4f2b36b-70c4-4943-b901-496229734121][Kuk]]
 * How to discover

@@ -2,4 +2,5 @@
 :ID:       9f143fc7-55a8-4a91-89b3-d19362fd9309
 :END:
 #+title: Xihe Companions
-[[id:71969c3b-5583-4fe4-8e13-b4fafa32cbff][Commodity]]
+#+filetags: :Commodity:
+

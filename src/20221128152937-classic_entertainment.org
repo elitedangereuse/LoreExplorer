@@ -2,4 +2,4 @@
 :ID:       f9d4992b-124b-4d93-a0b5-206f37da5e4e
 :END:
 #+title: Classic Entertainment
-[[id:4c2adf46-faa2-4d45-ad1c-5badcb54905b][Component]]
+#+filetags: :component:
