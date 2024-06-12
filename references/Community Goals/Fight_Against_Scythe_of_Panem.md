@@ -1,0 +1,60 @@
+## Fight Against Scythe of Panem
+
+Location
+
+Quator Station \| Quator
+
+Objective
+
+Hand in Combat Bonds after fighting for Bruthanvan Co. in Conflict Zones​
+
+\
+Progress
+
+Tier 6/8
+
+Contributors
+
+3,304
+
+Contributions
+
+4,294,967,295
+
+End
+
+28 Oct 2019, 3:59pm
+
+\
+Status
+
+Finished
+
+An extremist group from the Kappa Fornacis system is responsible for the
+contaminated fertiliser that has caused widespread crop failures.​\
+\
+Gino Borstein made this statement on behalf of the tri-superpower
+taskforce investigating the blight\'s origin:​\
+\
+\"Our investigation has confirmed that an activist group known as Scythe
+of Panem managed to infiltrate Rockforth Corporation manufacturing
+plants in the Riedquat system. Members of the group contaminated the EX7
+fertiliser with a synthetic agent designed to putrefy plant matter.\"\
+\
+Recent efforts by the galactic community have almost eradicated the EX7
+fertiliser. But Borstein warned that the activists have turned hostile
+upon discovery.​\
+\
+\"The group\'s manifesto discusses revenge for the Federation\'s 3301
+campaign to wipe out the recreational drug known as Onion Head. This
+involved an orbital bombardment of Onion Head crops on Panem using
+biocides with a similar genomic structure to the blight. It\'s likely
+that the activists used these biocides as the foundation of their
+synthetic agent. Shortly after we located Scythe of Panem cells in the
+Quator system, their more militant members responded with unprovoked
+violence. Local citizens are now at risk of being caught in the
+crossfire.\"\
+\
+An effort to neutralise the activists is being led by the Bruthanvan Co
+faction, which has requested tactical support from the galactic
+community.​

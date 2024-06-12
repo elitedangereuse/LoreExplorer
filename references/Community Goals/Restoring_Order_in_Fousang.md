@@ -1,0 +1,55 @@
+## Restoring Order in Fousang
+
+Location
+
+Akers Orbital \| Fousang
+
+Objective
+
+Hand in Bounty Vouchers at Akers Orbital in the Fousang system
+
+\
+Progress
+
+Tier 8/8
+
+Contributors
+
+9,428
+
+Contributions
+
+4,294,967,295
+
+End
+
+04 Jul 2018, 2:09am
+
+\
+Status
+
+Finished
+
+Security forces in the Fousang system are reporting that criminal
+organisations in the area are excuting more frequent and audacious raids
+on civilian traffic.\
+\
+Wing Commander Horatio Montange of Fousang security had this to say:\
+\
+\"Our resources are stretched with the Thargoid threat, and a certain
+criminal element has taken advantage, increasing their presence in the
+system and attacking trade convoys. While our forces are continuing to
+maintain order, the need to defend the system from external threats has
+had an impact on our overall effectiveness. With the help of Blue
+Creative Company we hope to curb this sudden increase in crime, and
+continue to concentrate our resources on combating the alien
+insurrection.\"\
+\
+To counter this threat, the Blue Creative Company has placed a kill
+order on all ships on its wanted list, and has promised to reward pilots
+who deliver bounty vouchers to Akers Orbital.\
+\
+\
+The campaign begins on the 28th of June 3304 and will run for one week.
+If the final target is met earlier than planned, the campaign will end
+immediately.

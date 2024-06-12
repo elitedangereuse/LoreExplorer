@@ -1,0 +1,64 @@
+## The Hallowed Chapter of LHS 2094\'s Apple-Bobbing Blowout
+
+Location
+
+Patterson Vision \| LHS 2094
+
+Objective
+
+Deliver Fruit and Vegetables, Clothing, and Beer to Patterson Vision in
+the LHS 2094 system.
+
+\
+Progress
+
+Tier 4/8
+
+Contributors
+
+5,890
+
+Contributions
+
+7,926,000
+
+End
+
+02 Nov 2017, 3:00pm
+
+\
+Status
+
+Finished
+
+While Halloween is widely thought to have its roots in harvest festivals
+from Earth\'s ancient past, in the modern era it is largely seen as an
+opportunity to unwind and share a drink with friends.\
+\
+This year, the galaxy\'s biggest Halloween party is taking place in the
+LHS 2094 system under the auspices of the Hallowed Chapter of LHS 2094.
+A range of traditional activities has been planned, including a game
+known as apple bobbing, although purists have been quick to point out
+that, \"suspending oneself upside down in a vat of Leestian Evil Juice
+is most definitely not apple bobbing\".\
+\
+To ensure the event is a success, the Hallowed Chapter of LHS 2094 has
+placed an open order for a range of commodities, and has promised to
+reward pilots who deliver these goods to Patterson Vision in the LHS
+2094 system.\
+\
+A spokesperson for the Hallowed Chapter of LHS 2094 elaborated on the
+nature of the event:\
+\
+\"There\'s a risk the festivities could be overshadowed by this whole
+Thargoid thing, but just because there are hostile aliens in Maia
+doesn\'t mean we can\'t have fun. I mean, the Thargoids are all the way
+out there...and the party is happening right here!\"\
+\
+The campaign begins on the 26th of October 3303 and will run for one
+week. If the final target is met earlier than planned, the campaign will
+end immediately.\
+\
+To be eligible for rewards you must sign up as an active participant
+before delivering Fruit and Vegetables, Clothing, and Beer to Patterson
+Vision in the LHS 2094 system.

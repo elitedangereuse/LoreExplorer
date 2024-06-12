@@ -1,0 +1,66 @@
+## Strengthening the Colonia Community
+
+Location
+
+Jaques Station \| Colonia
+
+Objective
+
+Deliver Mined Palladium to Jaques Station
+
+\
+Progress
+
+Tier 5/8
+
+Contributors
+
+755
+
+Contributions
+
+0
+
+End
+
+03 Nov 2016, 6:30pm
+
+\
+Status
+
+Finished
+
+The Colonia Council, the governing body of the Colonia system, has
+launched a campaign to expand infrastructure and manufacturing
+facilities in the region. The initiative is intended to support future
+colonisation of the Colonia Nebula, and address the needs of the growing
+Colonia community.\
+\
+In a statement, a spokesperson for the Council elaborated on the nature
+of the campaign:\
+\
+"Colonia is expanding rapidly, and with an official colonisation
+initiative due to start soon, we need to make sure we can meet our
+citizens\' needs."\
+\
+"The colony has received a lot of support from the galactic community,
+but if it\'s going to become a fully fledged society, we need proper
+infrastructure."\
+\
+In support of this initiative, the Colonia Council has placed an open
+order for mined Palladium, and has promised to reward pilots who deliver
+the required material to Jaques Station in the Colonia system.\
+\
+The campaign begins on the 20th of October 3302 and will run for two
+weeks. If final targets are met earlier than planned, the campaign will
+end immediately.\
+\
+Global progress: 178,006 tonnes collected\
+\
+Current Participation Rewards:\
+Top 10 CMDRs: 11,628,000 CR\
+Top 10%: 9,302,400 CR\
+Top 25%: 6,976,800 CR\
+Top 50%: 4,651,200 CR\
+Top 75%: 2,325,600 CR\
+Top 99%: 500,000 CR

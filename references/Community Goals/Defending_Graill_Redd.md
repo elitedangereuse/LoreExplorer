@@ -1,0 +1,45 @@
+## Defending Graill Redd
+
+Location
+
+1.  G. Ballard Gateway \| Graill Redd
+
+Objective
+
+\
+Progress
+
+Tier 0/8
+
+Contributors
+
+0
+
+Contributions
+
+0
+
+End
+
+30 Jun 2016, 10:38pm
+
+\
+Status
+
+Finished
+
+30 JUN 3302\
+Authorities in the Graill Redd system have reported a sharp increase in
+the number of criminals operating in the area. Apparently, organisations
+in neighbouring systems -- the Citizen Party of G146-60 and the Workers
+Party of G 176-29 -- are attempting to cultivate discord in the system
+in order to pave the way for the introduction of communism.\
+\
+To counter this threat, the Graill Redd Liberals have placed a kill
+order on all wanted ships operating in the Graill Redd system, and have
+promised to reward pilots who deliver bounty vouchers to J. G. Ballard
+Gateway.\
+\
+The campaign begins on the 30th of June 3302 and will run for one week.
+If the final target is met earlier than planned, the campaign will end
+immediately.
