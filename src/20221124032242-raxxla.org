@@ -4,7 +4,7 @@
 #+title: Raxxla
 #+CAPTION: Codex logo for Raxxla
 #+NAME:   fig:Raxxla_400.png
-[[file:~/raxxla/recherche/art/Raxxla_400.png]]
+[[file:img/Raxxla_400.png]]
 
 * Codex entry
 “To the jewel that burns on the brow of the mother of galaxies! To the
