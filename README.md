@@ -2,7 +2,7 @@
 
 Discover the [Elite Dangerous Lore Explorer](https://elitedangereuse.github.io/LoreExplorer/) now!
 
-This uses the Zettelkasten method and org-roam to create a new approach to the official Elite Dangerous lore.
+This uses the [Zettelkasten method](https://www.orgroam.com/manual.html#A-Brief-Introduction-to-the-Zettelkasten-Method) and org-roam to create a new approach to the official Elite Dangerous lore.
 
 ## Org-roam
 
