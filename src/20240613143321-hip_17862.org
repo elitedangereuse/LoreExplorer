@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       841c0a2b-91d0-436a-822b-ed7ce5edd65e
+:END:
+#+title: HIP 17862
+

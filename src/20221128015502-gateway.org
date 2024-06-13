@@ -2,7 +2,7 @@
 :ID:       e179ecca-9ab3-4184-b05e-107b2e6932c2
 :END:
 #+title: Gateway
-* 0124 [[https://eddb.io/attraction/72923][Gateway History]]                                  :beacon:EliteHistory:
+* 0124 Gateway History                                  :beacon:EliteHistory:
 Gateway was originally known as [[id:db4ef902-ee84-4f55-87df-868696045693][Oltiqu]], but renamed when the [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][Alliance]]
 was founded in 3230. The system had originally been under [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][Federation]]
 jurisdiction after being colonised in 2473 to be used as a [[id:073807b3-2430-4b9a-b61b-3655594fda55][military]]

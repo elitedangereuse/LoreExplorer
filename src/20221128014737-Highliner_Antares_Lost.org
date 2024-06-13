@@ -1,11 +1,13 @@
 :PROPERTIES:
 :ID:       925073d8-b2b1-4e21-9c3f-e48a37edcf71
 :END:
-#+title: Luyten 205-128
-* 0123 [[https://eddb.io/attraction/72922][Highliner Antares Lost]]                           :beacon:EliteHistory:
+#+title: Highliner Antares Lost
+* 0123 Highliner Antares Lost
+[[id:925073d8-b2b1-4e21-9c3f-e48a37edcf71][Luyten 205-128]]
+
 In 3251 the [[id:f6b3276c-304e-40ab-8dba-6ecfca7d6c5d][Antares]], a technologically revolutionary passenger liner
 designed and built by the [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]], disappeared during its
 first hyperspace jump. In 3301 [[id:f0655b3a-aca9-488f-bdb3-c481a42db384][Li Yong-Rui]], CEO of Sirius
 Corporation's governmental division, launched a search for the
-ship. Sirius Corporation confirmed discovery of the ship's remains
+ship. Sirius Corporation confirmed discovery of the [[id:26d5e48a-8815-4147-b021-d5fb0ff314f2][ship]]'s remains
 in 3302.

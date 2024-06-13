@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       34bddae0-0d06-4648-ad0b-cf7143f239ee
+:END:
+#+title: HIP 110028
+

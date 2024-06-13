@@ -3,7 +3,7 @@
 :END:
 #+title: Mic Turner
 #+filetags: :beacon:
-* 0121 [[https://eddb.io/attraction/72920][Mic Turner History]]                               :beacon:EliteHistory:
+* 0121 Mic Turner History                               :beacon:EliteHistory:
 Born in 3205, [[id:c46f5348-be85-4d06-bf04-12a9b812d0ad][Mic Turner]] grew up in [[id:cc0edb9e-01ea-4de0-85c3-74bb5b5196df][Jones Colony]] in the [[id:bb5887ea-0ed7-4410-9a7e-814107ea29eb][Essafa]]
 system. After graduating with honours from the civilian Pilots school,
 he moved to [[id:47df3d18-6cdd-443d-baae-0e3af142a089][New California]] in [[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]], just before the rebellion

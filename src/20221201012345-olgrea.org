@@ -2,7 +2,7 @@
 :ID:       f527d32f-003e-4cc0-bf63-2f22aecd0d4d
 :END:
 #+title: Olgrea
-* 0127 [[https://eddb.io/attraction/72926][Olgrea History]]
+* 0127 Olgrea History
 [[id:c46f5348-be85-4d06-bf04-12a9b812d0ad][Mic Turner]], the Intergalactic Explorer, ship designer and founder of
 [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]], led the [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][Federation]] expeditionary team that brought
 colonists to Olgrea in 3224.
