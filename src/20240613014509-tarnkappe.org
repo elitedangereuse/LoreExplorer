@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       670873b1-3ea0-4bc4-a432-db5e1c8f9878
+:END:
+#+title: Tarnkappe
+#+filetags: :System:Permit:
+[[file:img/permit.png]]

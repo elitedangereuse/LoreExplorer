@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       d043309d-9012-4871-96ae-dc95005a7cb1
+:END:
+#+title: Red Rectangle
+
+#+filetags: :System:Permit:
+[[file:img/permit.png]]

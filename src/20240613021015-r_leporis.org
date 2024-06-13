@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       d3d151a6-de7c-43f5-874a-4c69eadc4c66
+:END:
+#+title: R Leporis
+
+#+filetags: :System:Permit:
+[[file:img/permit.png]]

@@ -2,4 +2,6 @@
 :ID:       0949776d-7611-4736-8520-ab8919804e2b
 :END:
 #+title: Alpha Hydri
+#+filetags: :Permit:System:Locked:
+[[file:img/permit.png]]
 

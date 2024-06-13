@@ -1,0 +1,83 @@
+:PROPERTIES:
+:ID:       cd9fd555-5047-47ea-a7ae-a4d2ef84d72c
+:END:
+#+title: Col 97 Sector
+#+filetags: :Permit:Region:
+[[file:img/permit.png]]
+
+Col 97 Sector AA-Y c1-0
+Col 97 Sector AL-X d1-1
+Col 97 Sector AL-X d1-3
+Col 97 Sector AL-X d1-8
+Col 97 Sector AN-I b10-0
+Col 97 Sector AS-T a33-0
+Col 97 Sector BC-L c8-3
+Col 97 Sector BH-R b19-0
+Col 97 Sector CI-G b12-0
+Col 97 Sector CQ-U b4-0
+Col 97 Sector DQ-U b4-0
+Col 97 Sector DX-Q b6-0
+Col 97 Sector EC-T c4-1
+Col 97 Sector EN-Q b19-0
+Col 97 Sector EQ-U b4-0
+Col 97 Sector FM-U c3-0
+Col 97 Sector FO-F a41-0
+Col 97 Sector FT-G b11-0
+Col 97 Sector FT-N b8-0
+Col 97 Sector GI-P b20-0
+Col 97 Sector GK-B b15-0
+Col 97 Sector GM-V d2-2
+Col 97 Sector GS-C a29-0
+Col 97 Sector GW-C b13-0
+Col 97 Sector HM-V d2-4
+Col 97 Sector HY-F b12-0
+Col 97 Sector HY-H c10-1
+Col 97 Sector IX-R a34-0
+Col 97 Sector JM-U b3-0
+Col 97 Sector JR-J b10-0
+Col 97 Sector JT-N b8-0
+Col 97 Sector KT-H c10-0
+Col 97 Sector KZ-E b12-0
+Col 97 Sector LP-C b14-0
+Col 97 Sector MJ-N b8-0
+Col 97 Sector MZ-L b9-0
+Col 97 Sector NF-D b13-0
+Col 97 Sector NF-K b10-0
+Col 97 Sector NI-T d3-11
+Col 97 Sector NZ-L b9-0
+Col 97 Sector OJ-N b8-0
+Col 97 Sector OK-C b14-0
+Col 97 Sector OL-I b11-0
+Col 97 Sector OL-S b18-0
+Col 97 Sector OU-M a37-0
+Col 97 Sector OV-A b15-0
+Col 97 Sector OX-T c3-2
+Col 97 Sector OZ-Y a30-0
+Col 97 Sector PJ-P c6-1
+Col 97 Sector PL-R b19-0
+Col 97 Sector QA-C b14-0
+Col 97 Sector QF-K b10-0
+Col 97 Sector QG-S b18-0
+Col 97 Sector QL-I b11-0
+Col 97 Sector QS-S c4-1
+Col 97 Sector SB-Z b15-0
+Col 97 Sector SI-L a24-0
+Col 97 Sector SQ-A b15-0
+Col 97 Sector SZ-U b17-0
+Col 97 Sector TV-L b8-0
+Col 97 Sector TY-Q c5-2
+Col 97 Sector UC-F b13-0
+Col 97 Sector UP-M a37-0
+Col 97 Sector VG-J a39-0
+Col 97 Sector VJ-X a31-0
+Col 97 Sector VP-V a32-0
+Col 97 Sector VR-Z b14-0
+Col 97 Sector WG-I b11-0
+Col 97 Sector WH-P b20-0
+Col 97 Sector WQ-J b10-0
+Col 97 Sector XC-X b16-0
+Col 97 Sector XE-P c6-3
+Col 97 Sector XQ-L c8-2
+Col 97 Sector YA-T b18-0
+Col 97 Sector ZU-U b4-0
+Col 97 Sector ZW-P b7-0

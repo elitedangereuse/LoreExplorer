@@ -2,14 +2,14 @@
 :ID:       7af58443-6856-4aa9-89ff-89c94bd63aa7
 :END:
 #+title: Petra Olmanova
-#+filetags: :engineer:
+#+filetags: :Combat:Rank:engineer:
 * Location
 Sanctuary | [[id:636ce00b-56be-47f0-a440-a14f87b72b7c][Asura]]
 [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]]
 * How to discover
 From [[id:610da0b4-4f53-45b6-80a7-704ef14cf16f][Tod "The Blaster" McQuinn]] (grade 3-4).
 * Meeting requirements
-Gain [[id:4e05812c-0aba-4886-9f9f-969fbfb4446f][Combat Rank]] Expert or higher.
+Gain Combat Rank Expert or higher.
 * Unlock requirements
 Provide 200 units of [[id:ef2cdcaf-36f7-4759-860c-4e489f48226c][Progenitor Cells]].
 * Reputation gain

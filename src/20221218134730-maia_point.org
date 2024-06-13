@@ -2,5 +2,5 @@
 :ID:       af205c6d-cb6f-4d7b-bcdd-42dc2999c376
 :END:
 #+title: Maia Point
+#+filetags: :Settlement:
 
-[[id:c297636c-f22b-4b34-b48b-013d376cae96][Settlement]]

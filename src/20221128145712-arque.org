@@ -2,6 +2,7 @@
 :ID:       d4b595af-536d-4575-af11-f07f3ac3ff40
 :END:
 #+title: Arque
+#+filetags: :System:
 
 
 Economy:Extraction / Agriculture

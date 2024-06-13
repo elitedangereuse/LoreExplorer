@@ -2,6 +2,8 @@
 :ID:       f99cc815-f736-48e1-863d-7e50b14b7273
 :END:
 #+title: Nastrond
+#+filetags: :Reputation:System:Permit:
+[[file:img/permit.png]]
 
 Faction: [[id:1ce977b4-5b59-49c7-927f-43af174f1dfe][Defence Party of Nastrond]]
 Benefits: none known

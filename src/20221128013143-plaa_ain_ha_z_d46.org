@@ -2,3 +2,5 @@
 :ID:       8cb34246-bcaf-4669-8964-d43f54401c38
 :END:
 #+title: Plaa Ain HA-Z d46
+#+filetags: :Permit:System:Locked:
+[[file:img/permit.png]]

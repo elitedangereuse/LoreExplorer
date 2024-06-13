@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       29b5bb44-c0cd-4f69-88af-a75407b6f40b
+:END:
+#+title: HIP 48762
+#+filetags: :System:
+

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       ae972c2e-6b57-45c2-95bb-988a9e00ec0b
+:END:
+#+title: Scheau Bli NB-O D6-1409
+#+filetags: :System:Permit:Security:Locked:
+[[file:img/permit.png]]
+
+Requires a "security permit"

@@ -4,7 +4,7 @@
 #+title: The Sirius Corporation
 [[id:3e91a7d8-2f6a-4065-b134-0e9760d34d92][Corporations]]
 * Business
-  Specializes in the developmentof and production of fusion reactors.
+  Specializes in the development of and production of fusion reactors.
 * Products
   - [[id:34acf2f1-676d-4e52-86f4-80dc606e435c][Power Generators]]
   - [[id:e676d795-4fcb-463b-9cff-8fb9dc7fbce8][Hydrogen Fuel]]

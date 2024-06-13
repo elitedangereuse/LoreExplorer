@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       78a804a1-2eae-4304-9cb7-0adf5a2fea5a
+:END:
+#+title: Hyponia AA-A g2
+
+#+filetags: :System:Permit:
+[[file:img/permit.png]]

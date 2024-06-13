@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       e145cddc-eaf4-489d-8f5b-bb98449ffd26
+:END:
+#+title: Matet
+#+filetags: :System:Permit:
+[[file:img/permit.png]]

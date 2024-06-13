@@ -3,7 +3,8 @@
 :ROAM_ALIASES: "Epsilon Ursae Majoris"
 :END:
 #+title: Alioth
-#+filetags: :System:
+#+filetags: :beacon:Reputation:Alliance:Permit:System:
+[[file:img/permit.png]]
 
 * Description
 Alioth, also known as Epsilon Ursae Majoris, is the capital system of
@@ -11,6 +12,10 @@ Alioth, also known as Epsilon Ursae Majoris, is the capital system of
 Spur. Access to Alioth is restricted, and the [[id:55d5b2cc-aa04-47b1-b144-ffa4e8f43b5d][permit]] can only be
 obtained by becoming Allied with the [[id:d17b2062-68b1-43ea-8852-ab04b591c6ba][Alioth Independents]] minor faction
 in any system where it has a presence.
+
+** Benefits
+*** Irkutsk station
+20% discount on ships
 
 * 0113 [[https://eddb.io/attraction/72912][Alliance Assembly]]                                :beacon:EliteHistory:
 The Alliance Assembly is the central body for the Alliance as a

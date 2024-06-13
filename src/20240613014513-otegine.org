@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       1079ac33-c041-4b61-a4f1-06eb2cf793ff
+:END:
+#+title: Otegine
+
+#+filetags: :System:Permit:
+[[file:img/permit.png]]

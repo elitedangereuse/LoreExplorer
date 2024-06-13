@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       87d98176-81c2-4dcb-8c8e-0a865d698d6f
+:END:
+#+title: Dryio Flyuae IC-B C1-377
+#+filetags: :Locked:Security:Permit:System:
+[[file:img/permit.png]]
+
+Requires a "security permit"
+
+

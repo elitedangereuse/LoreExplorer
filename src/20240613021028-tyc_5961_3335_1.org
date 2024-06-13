@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       04331ffd-5fc0-4703-ac64-76ccfd158a41
+:END:
+#+title: TYC 5961-3335-1
+
+#+filetags: :System:Permit:
+[[file:img/permit.png]]

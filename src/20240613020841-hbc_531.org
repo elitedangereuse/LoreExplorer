@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       8880ab8e-41ff-4fa7-8316-4219fcbb44ec
+:END:
+#+title: HBC 531
+
+#+filetags: :System:Permit:
+[[file:img/permit.png]]

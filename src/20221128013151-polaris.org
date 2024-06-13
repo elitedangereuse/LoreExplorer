@@ -2,4 +2,6 @@
 :ID:       2993de41-e459-49b9-a62c-c22f9ddf8d9b
 :END:
 #+title: Polaris
+#+filetags: :Permit:System:Locked:
+[[file:img/permit.png]]
 

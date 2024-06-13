@@ -2,7 +2,8 @@
 :ID:       83b4df31-f73c-4f2f-8386-1c022b4362ce
 :END:
 #+title: Hollis Gateway
+#+filetags: :Settlement:
 [[id:f2fac611-d042-4abf-80f9-e5e0b5c9f4b8][Research Base]]
 [[id:1d19366f-c168-47f8-9d46-c358b7fa8f8c][Hermitage 4A]]
 [[id:0f1c5734-77f3-44c1-b4ce-f4ea694ad7cc][Bexley Prince]]
-[[id:c297636c-f22b-4b34-b48b-013d376cae96][Settlement]]
+

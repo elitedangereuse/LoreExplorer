@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       f8206341-9656-42ba-ad26-a42c7e6e219c
+:END:
+#+title: Lia Fail
+
+#+filetags: :System:Permit:
+[[file:img/permit.png]]

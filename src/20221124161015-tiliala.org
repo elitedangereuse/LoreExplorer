@@ -2,6 +2,8 @@
 :ID:       35ef7825-95ca-418d-9cc2-9e7934b351c9
 :END:
 #+title: Tiliala
+#+filetags: :Reputation:System:Permit:
+[[file:img/permit.png]]
 
 Faction: [[id:3e16964a-3950-4648-87ce-46e9b6aff7a5][Conservatives of Tiliala]]
 Benefits: none known

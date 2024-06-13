@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       c41a9df1-385c-4bf1-87e5-a73ff585f0ed
+:END:
+#+title: HIP 23874
+#+filetags: :Locked:System:Permit:
+[[file:img/permit.png]]
+

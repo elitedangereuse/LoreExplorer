@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       2b0d47ca-6ec1-42fd-b405-a58f94921d86
+:END:
+#+title: WASP-64
+
+#+filetags: :System:Permit:
+[[file:img/permit.png]]

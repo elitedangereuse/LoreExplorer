@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       842f3fae-e167-4fb6-b0b5-4a1ed5dd8469
+:END:
+#+title: Azoth
+
+#+filetags: :System:Permit:
+[[file:img/permit.png]]

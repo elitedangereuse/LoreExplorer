@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       4038be27-348d-4792-9d26-40a94b1b8b68
+:END:
+#+title: Regor Sector FS-S b4-8
+#+filetags: :Permit:System:
+[[file:img/permit.png]]
+

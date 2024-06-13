@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       d7fab9bb-976b-4012-a181-af389e9a2396
+:END:
+#+title: Ross 128
+
+#+filetags: :System:Permit:
+[[file:img/permit.png]]

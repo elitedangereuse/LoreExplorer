@@ -3,8 +3,9 @@
 :ROAM_REFS: https://canonn.science/codex/carmichael-point/
 :END:
 #+title: Carmichael Point
+#+filetags: :Abandoned:Settlement:
 [[id:39a31dd8-3750-4507-90b7-b649d0eeecef][INRA]] [[id:f2fac611-d042-4abf-80f9-e5e0b5c9f4b8][Research Base]]
-Carmichael Point is an [[id:a2db0282-aff7-4235-adf9-0aa79b018623][Abandoned]] [[id:c297636c-f22b-4b34-b48b-013d376cae96][Settlement]] on [[id:8a943d55-9718-41d2-993f-0a27958c34cd][HIP 16824]] A 2 f at 73.8762, 61.8761.
+Carmichael Point is an Abandoned Settlement on [[id:8a943d55-9718-41d2-993f-0a27958c34cd][HIP 16824]] A 2 f at 73.8762, 61.8761.
 
 The location of this facility was given by an Unregistered Comms
 Beacon at [[id:bb75c7f8-328e-4b3c-b6a4-16da9c75dfc0][HR 1188 A 2]]. The comms beacon transmits a message in

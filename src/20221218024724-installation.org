@@ -1,6 +1,0 @@
-:PROPERTIES:
-:ID:       2e6601b2-93e0-4748-8182-938fbb3454ad
-:END:
-#+title: Installation
-
-[[id:c297636c-f22b-4b34-b48b-013d376cae96][Settlement]]

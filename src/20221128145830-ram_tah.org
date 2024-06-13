@@ -2,13 +2,13 @@
 :ID:       4551539e-a6b2-4c45-8923-40fb603202b7
 :END:
 #+title: Ram Tah
-#+filetags: :engineer:
+#+filetags: :Exploration:Rank:engineer:
 * Location
 Phoenix Base | [[id:9c59e7e7-1737-43a9-ac67-e818f6d1677d][Meene]]
 * How to discover
 From [[id:a6e1d487-9b38-4ad8-8e7e-601a513d747b][Lei Cheung]] (grade 3-4).
 * Meeting requirements
-Gain [[id:97011475-07b1-4e6e-9787-6492f9f952c9][Exploration Rank]] Surveyor or higher.
+Gain Exploration Rank Surveyor or higher.
 * Unlock requirements
 Provide 50 units of [[id:71135817-e5a8-4344-9b9a-e59f204502eb][Classified Scan Databanks]].
 * Reputation gain

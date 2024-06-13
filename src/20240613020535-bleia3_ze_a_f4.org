@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       a09945a2-d251-4563-8255-19628867d10e
+:END:
+#+title: Bleia3 ZE-A f4
+
+#+filetags: :System:Permit:
+[[file:img/permit.png]]

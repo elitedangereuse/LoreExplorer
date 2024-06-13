@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       3e0d1586-3bff-4cf3-91d0-8401983d0921
+:END:
+#+title: WASP-49
+
+#+filetags: :System:Permit:
+[[file:img/permit.png]]

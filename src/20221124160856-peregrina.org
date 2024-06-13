@@ -2,6 +2,8 @@
 :ID:       3ea0a57b-8e74-4642-bb38-5152ddba646d
 :END:
 #+title: Peregrina
+#+filetags: :Reputation:System:Permit:
+[[file:img/permit.png]]
 
 Faction: [[id:9ccfedce-d7c6-4212-9b5d-e6f750579c8f][Peregrina Aristocrats]]
 Benefits: none known

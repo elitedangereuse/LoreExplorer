@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       686a1ef0-80ad-48c0-b2b5-f2da43b333f1
+:END:
+#+title: Phekda
+#+filetags: :System:Permit:
+[[file:img/permit.png]]

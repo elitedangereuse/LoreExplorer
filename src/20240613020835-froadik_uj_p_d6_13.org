@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       6cde796f-abb5-45a6-8649-9868a4b90dcc
+:END:
+#+title: Froadik UJ-P d6-13
+
+#+filetags: :System:Permit:
+[[file:img/permit.png]]

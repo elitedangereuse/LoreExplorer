@@ -2,6 +2,7 @@
 :ID:       e91a5ba1-4334-4672-ab8a-f55377d9f739
 :END:
 #+title: HIP 8887
+#+filetags: :System:
 [[id:1fd01d13-7a2c-402e-bb92-1b4edadd78c2][Unregistered Comms Beacons]]
 
 * Message

@@ -2,5 +2,6 @@
 :ID:       c6b67ab9-66c5-4636-a978-2ca3a9ab012c
 :END:
 #+title: Shinrarta Dezhra
-- [[id:b2b2d9ee-9c33-4a0b-b3ce-82cfa362577e][Permit Lock]]
+#+filetags: :Rank:System:Permit:
+[[file:img/permit.png]]
 - [[id:088cf15e-3c00-4522-8c15-aa4c8b30ea8c][Elite Rank]]

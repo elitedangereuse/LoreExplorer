@@ -2,6 +2,6 @@
 :ID:       5caecb15-c8eb-4f3e-8856-db3dd116c017
 :END:
 #+title: Almeida Landing
-[[id:a2db0282-aff7-4235-adf9-0aa79b018623][Abandoned]] [[id:c297636c-f22b-4b34-b48b-013d376cae96][Settlement]]
+#+filetags: :Settlement:Abandoned:
 [[id:39a31dd8-3750-4507-90b7-b649d0eeecef][INRA]]
 Links to [[id:9ffffc4a-224c-42cb-b853-fd08d5c67e1b][Carmichael Point]]

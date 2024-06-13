@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       3530c9f3-03f0-4d41-9c8d-76da53374bcd
+:END:
+#+title: EM* LkHA 56
+
+#+filetags: :System:Permit:
+[[file:img/permit.png]]

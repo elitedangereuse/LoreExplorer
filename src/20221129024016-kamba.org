@@ -2,4 +2,6 @@
 :ID:       0af45b7c-9ef0-4ab6-903c-358dca8880f3
 :END:
 #+title: Kamba
+#+filetags: :Permit:System:
+[[file:img/permit.png]]
 

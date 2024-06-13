@@ -3,4 +3,3 @@
 :END:
 #+title: Decoded Emission Data
 #+filetags: :Component:
-

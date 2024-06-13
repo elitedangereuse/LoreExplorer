@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ID:       8a7fd9d2-45bc-420b-a160-6365ae80ec93
+:END:
+#+title: HR Region
+#+filetags: :Region:Permit:
+[[file:img/permit.png]]
+
+HR 1462
+HR 1595
+HR 1600
+HR 1761
+HR 1781
+HR 1833
+HR 1847
+HR 1860
+HR 1871
+HR 1883
+HR 1913
+HR 1920
+HR 2030
+HR 2057
+HR 2109
+HR 2222
+HR 2292
+HR 2317
+HR 2370
+HR 2409
+HR 2656
+HR 2932
+HR 4413

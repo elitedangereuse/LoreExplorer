@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       39487080-204a-4080-be3f-e8a83bd0fb89
+:END:
+#+title: Tyet
+
+#+filetags: :System:Permit:
+[[file:img/permit.png]]

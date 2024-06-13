@@ -2,6 +2,7 @@
 :ID:       b4d90e11-7f9a-42f4-a995-4ca941d38851
 :END:
 #+title: Darnielle's Progress
+#+filetags: :Settlement:
 Planetary Outpost
 Provide [[id:da2f167d-0157-4deb-afb2-98bf6518cf01][Meta-Alloys]] (rare good 2 max)
-[[id:c297636c-f22b-4b34-b48b-013d376cae96][Settlement]]
+

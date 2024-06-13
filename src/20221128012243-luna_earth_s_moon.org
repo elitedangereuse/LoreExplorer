@@ -2,4 +2,6 @@
 :ID:       05327959-8b2a-4b6a-951d-9b10dfe9ddfc
 :END:
 #+title: Luna (Earth's Moon)
+#+filetags: :Permit:Locked:
+[[file:img/permit.png]]
 

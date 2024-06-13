@@ -2,4 +2,17 @@
 :ID:       6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a
 :END:
 #+title: Sol
+#+filetags: :Federation:Rank:System:Permit:
+[[file:img/permit.png]]
 
+Rank: Petty Officer
+
+* Benefits
+
+Location of Engineer [[id:daaa35d6-9517-459d-9fdd-9c1b941b8a5e][Colonel Bris Dekker]].
+
+Hand-crafted system, some good trade route destinations.
+
+20% discount on the Eagle at Daedalus station.
+
+Two "palm tree" stations, (M.Gorbachev and Galileo).

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       2b45941c-711b-4b24-b53d-0ba2af8af3bd
+:END:
+#+title: Sharur
+#+filetags: :System:Permit:
+[[file:img/permit.png]]

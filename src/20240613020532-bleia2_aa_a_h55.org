@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       371deed6-11f0-43b0-b3d2-e6e62e5b8c93
+:END:
+#+title: Bleia2 AA-A h55
+
+#+filetags: :System:Permit:
+[[file:img/permit.png]]

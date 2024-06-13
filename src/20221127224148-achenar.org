@@ -2,6 +2,8 @@
 :ID:       bed8c27f-3cbe-49ad-b86f-7d87eacf804a
 :END:
 #+title: Achenar
+#+filetags: :Empire:Permit:Rank:System:
+[[file:img/permit.png]]
 [[id:2891de55-e2d4-429c-b761-095a74482a02][The Empire]]
 
 * 0128 [[https://eddb.io/attraction/72927][Origins of the Empire]]

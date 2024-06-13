@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       d36afc94-345d-4abe-b098-5628cee86dcf
+:END:
+#+title: Sidgoir AA-A e3
+
+#+filetags: :System:Permit:
+[[file:img/permit.png]]

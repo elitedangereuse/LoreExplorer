@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       e10f7c24-fdd6-4062-be9c-68268072a3e3
+:END:
+#+title: Bleia4 AA-A h35
+
+#+filetags: :System:Permit:
+[[file:img/permit.png]]

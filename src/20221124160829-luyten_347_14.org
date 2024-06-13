@@ -2,6 +2,8 @@
 :ID:       0bd08f19-0e96-4cdf-9819-8237f11bbb5d
 :END:
 #+title: Luyten 347-14
+#+filetags: :Reputation:System:Permit:
+[[file:img/permit.png]]
 
 Faction: [[id:6fc15a54-63de-454a-b162-8cb6b12c63c3][Luyten 347-14 Prison Colony]]
 Benefits: none known

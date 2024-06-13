@@ -2,6 +2,7 @@
 :ID:       70fa34ea-bc98-40ff-97f0-e4f4538387a6
 :END:
 #+title: Merope
+#+filetags: :System:
 Reference body: [[id:8c469ca9-3f5e-4728-a488-1039623174fb][Merope 5C]]
 
 - Economy:Industrial / Extraction

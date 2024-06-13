@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       f080c909-b25f-45b9-ac0a-bcf89608ebc2
+:END:
+#+title: Dryman WE-M b9-6
+
+#+filetags: :System:Permit:
+[[file:img/permit.png]]

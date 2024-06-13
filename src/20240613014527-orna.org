@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       7d85f714-9307-46c7-898e-b991ab51c9ba
+:END:
+#+title: Orna
+
+#+filetags: :System:Permit:
+[[file:img/permit.png]]

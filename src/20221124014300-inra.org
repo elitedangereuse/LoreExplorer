@@ -16,6 +16,6 @@
 - [[id:3a8a0d82-7ab3-4c00-a8a4-f65c380d03f9][Jarah Cook]] - Original Site Manager at [[id:1a535540-491e-474a-acf8-c8ca1a81cfa5][Mayes Chemical Plant]] (reassigned)
 - [[id:166b8afc-8bee-4e9c-8b4c-784d410a786e][Elgii Sung]] - Replacement Site Manager at [[id:1a535540-491e-474a-acf8-c8ca1a81cfa5][Mayes Chemical Plant]]
 - [[id:fa04bdc7-94fb-442e-ba31-b7afb1b46a0f][Kiona Li]] - Senior Medical Officer at [[id:9bf3bf04-3f84-4959-afb4-a3a692cd597b][Velasquez Medical Research Center]]
-- [[id:d15bc771-25ff-4d76-a48b-d0044ad94e25][Effie Ratling]] - [[id:952ef45f-df68-4524-bbd7-5f5a427494ef][Engineer]] at [[id:5caecb15-c8eb-4f3e-8856-db3dd116c017][Almeida Landing]]
+- [[id:d15bc771-25ff-4d76-a48b-d0044ad94e25][Effie Ratling]] - Engineer at [[id:5caecb15-c8eb-4f3e-8856-db3dd116c017][Almeida Landing]]
 - [[id:ff6c20db-2077-427a-9457-72cb71f7e4f9][Amaro Hem]] - INRA Programme Coordinator
 - Unnamed Junior Researcher at [[id:83b4df31-f73c-4f2f-8386-1c022b4362ce][Hollis Gateway]] and [[id:2099fbd4-e3c0-4c81-9caf-24c319b3ac0a][Stuart Retreat]]

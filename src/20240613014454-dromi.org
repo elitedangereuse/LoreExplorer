@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       87c450f1-1a7a-408e-b9e6-db42697053fe
+:END:
+#+title: Dromi
+
+#+filetags: :System:Permit:
+[[file:img/permit.png]]

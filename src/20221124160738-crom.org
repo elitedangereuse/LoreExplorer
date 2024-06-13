@@ -2,6 +2,8 @@
 :ID:       3418cf80-0ced-491f-a1f6-c31a08c0a80b
 :END:
 #+title: Crom
+#+filetags: :Reputation:System:Permit:
+[[file:img/permit.png]]
 Permit holder is Crom Silver Boys
 
 Faction: [[id:21c5d979-1df3-4392-b144-89d7fc6e7ec8][Crom Silver Boys]]

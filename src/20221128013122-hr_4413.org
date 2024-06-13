@@ -2,4 +2,6 @@
 :ID:       8482a81b-bc45-4f54-9d89-fbc761892bca
 :END:
 #+title: HR 4413
+#+filetags: :Permit:System:Locked:
+[[file:img/permit.png]]
 

@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       f6b945b6-1541-4754-a217-00c7d782f9ee
+:END:
+#+title: NSV 3128
+
+#+filetags: :System:Permit:
+[[file:img/permit.png]]

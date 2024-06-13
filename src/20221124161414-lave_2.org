@@ -2,6 +2,8 @@
 :ID:       78464c79-8231-4dd3-9413-b53f902a560a
 :END:
 #+title: Lave 2
+#+filetags: :Permit:Locked:
+[[file:img/permit.png]]
 Elite: Lave Revolution
 Planet in the [[id:ff595332-6a13-4f69-ae2f-cc0a0df8e741][Lave]] system
 [[id:1fd01d13-7a2c-402e-bb92-1b4edadd78c2][Unregistered Comms Beacon]]

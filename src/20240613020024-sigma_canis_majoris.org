@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       4c0321d0-3025-4eb0-880d-8b1750ee9485
+:END:
+#+title: Sigma Canis Majoris
+
+#+filetags: :System:Permit:
+[[file:img/permit.png]]

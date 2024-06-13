@@ -2,4 +2,5 @@
 :ID:       47df3d18-6cdd-443d-baae-0e3af142a089
 :END:
 #+title: New California
+#+filetags: :Settlement:
 

@@ -2,6 +2,7 @@
 :ID:       0ee60994-364c-41b9-98ca-993d041cea72
 :END:
 #+title: Maia
+#+filetags: :System:
 [[id:8e4c3a73-4f53-40ca-a19e-ec1f55aa77b3][Black hole]]
 
 - Economy:Industrial / Extraction
@@ -24,7 +25,7 @@
 - Info updated:18 Dec 2022, 12:31pm
 - Factions updated:18 Dec 2022, 12:31pm
 
-* [[id:c297636c-f22b-4b34-b48b-013d376cae96][Settlements]]
+* Settlements
   - [[id:b4d90e11-7f9a-42f4-a995-4ca941d38851][Darnielle's Progress]]
   - [[id:af205c6d-cb6f-4d7b-bcdd-42dc2999c376][Maia Point]]
   - [[id:e6bd9230-feb2-4529-9607-073cac41d6da][Palin Research Centre]]

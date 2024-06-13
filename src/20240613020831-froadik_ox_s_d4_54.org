@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       7f4a8747-4fc9-487c-80e9-61257eeb6b5b
+:END:
+#+title: Froadik OX-S d4-54
+
+#+filetags: :System:Permit:
+[[file:img/permit.png]]

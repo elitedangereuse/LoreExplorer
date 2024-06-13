@@ -2,4 +2,6 @@
 :ID:       f1b66d64-5693-4874-809e-f110a2ac4b13
 :END:
 #+title: HIP 51073
+#+filetags: :Permit:System:Locked:
+[[file:img/permit.png]]
 

@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       175434c4-4a17-4ad1-8a95-f4bb8c54214a
+:END:
+#+title: Bleia5 AV-Y e551
+
+#+filetags: :System:Permit:
+[[file:img/permit.png]]

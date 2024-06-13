@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       3e46c5ac-cd4e-478f-90a8-1f52516cc7c4
+:END:
+#+title: 6 Lambda Leporis
+
+#+filetags: :System:Permit:
+[[file:img/permit.png]]

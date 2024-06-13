@@ -2,4 +2,3 @@
 :ID:       a2db0282-aff7-4235-adf9-0aa79b018623
 :END:
 #+title: Abandoned
-

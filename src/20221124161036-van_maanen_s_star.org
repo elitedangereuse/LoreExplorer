@@ -1,7 +1,9 @@
 :PROPERTIES:
 :ID:       806633ff-ba33-44a0-af5e-63b52e3efaff
 :END:
-#+title: Van Maanen's Star
+#+title: van Maanen's Star
+#+filetags: :Reputation:System:Permit:
+[[file:img/permit.png]]
 
 Faction: [[id:b6c2e639-b66e-4821-ad33-5bd7ceb328fd][Sublime Order of Van Maanen's Star]]
 Benefits: none known

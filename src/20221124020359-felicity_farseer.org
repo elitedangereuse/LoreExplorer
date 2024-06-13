@@ -2,7 +2,7 @@
 :ID:       d512672e-8849-46f9-b39d-a53f0c5765bf
 :END:
 #+title: Felicity Farseer
-#+filetags: :engineer:
+#+filetags: :Exploration:Rank:engineer:
 Needs [[id:da2f167d-0157-4deb-afb2-98bf6518cf01][Meta-Alloys]]
 
 She knows about [[id:7ec2457b-3e53-4928-a17f-e885b681b267][The Dark Wheel]].
@@ -23,7 +23,7 @@ Farseer Inc | [[id:4af71116-980a-4119-b93e-a0b368cf9550][Deciat]]
 * How to discover
 Public data sources.
 * Meeting requirements
-Gain [[id:97011475-07b1-4e6e-9787-6492f9f952c9][Exploration Rank]] Scout or higher.
+Gain Exploration Rank Scout or higher.
 * Unlock requirements
 Provide 1 unit of [[id:da2f167d-0157-4deb-afb2-98bf6518cf01][Meta-Alloys]].
 * Reputation gain

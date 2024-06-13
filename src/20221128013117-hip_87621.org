@@ -2,4 +2,10 @@
 :ID:       64e3ad83-30b5-41fc-bde5-8eb63c38ab83
 :END:
 #+title: HIP 87621
+#+filetags: :Permit:System:Locked:
+[[file:img/permit.png]]
 
+Requires permit to [[id:29b5bb44-c0cd-4f69-88af-a75407b6f40b][HIP 48762]], which is not earnable as far
+as anyone knows.
+
+HIP 48762 is not permit locked.

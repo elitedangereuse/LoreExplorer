@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       487aae37-2291-4fc2-b295-cf4a465be802
+:END:
+#+title: Wolfsegen
+
+#+filetags: :System:Permit:
+[[file:img/permit.png]]

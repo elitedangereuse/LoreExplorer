@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       0eaeefdd-67f5-4997-9748-084c4c0ac68c
+:END:
+#+title: Bleia1 DL-Y f26
+
+#+filetags: :System:Permit:
+[[file:img/permit.png]]

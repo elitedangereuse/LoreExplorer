@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       9b53b8bd-0cc0-4d95-a7ea-0c7cd51c074c
+:END:
+#+title: Bleia5 AA-A h6
+
+#+filetags: :System:Permit:
+[[file:img/permit.png]]

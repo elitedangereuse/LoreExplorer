@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       a5a6b7c0-2002-43ae-b89f-4a6424a2c484
+:END:
+#+title: Bovomit WY-R d4-16
+
+#+filetags: :System:Permit:
+[[file:img/permit.png]]

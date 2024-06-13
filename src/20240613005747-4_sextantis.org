@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       7402292c-3306-47d7-880a-06304f229379
+:END:
+#+title: 4 Sextantis
+#+filetags: :Rank:Federation:Permit:System:
+[[file:img/permit.png]]
+
+Rank: n/a
+
+Note: As per FDEV support on (referenced on [[https://forums.frontier.co.uk/threads/updated-permit-list.122593/][page 57]], thanks CMDR
+LeinhartKUF!), this system is deliberately unattainable. It is
+possible to see the permit, but ranking up to allied with the 4
+Sextantis faction that gives it makes the permit mission
+disappear. Again this is not a bug, but FDEV's way of locking this
+system for a future content release.
