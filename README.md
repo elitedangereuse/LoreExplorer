@@ -16,7 +16,7 @@ Org-roam allows for effortless non-hierarchical note-taking: with Org-roam, note
 
 Org-roam leverages the mature ecosystem around Org-mode. For example, it has first-class support for [org-ref](https://github.com/jkitchin/org-ref) for citation management, and is able to piggyback off Org’s excellent LaTeX and source-block evaluation capabilities. 
 
-## Editors: Emacs, VSCode, IDEA, ...
+## Editors: Emacs, VSCode, IDEA, Notepad...
 
 Thankfully Emacs is not the only tool available to write Org-roam files.
 
@@ -24,6 +24,13 @@ Here are a list of resources to find the right tool for you to participate:
   * Emacs: [Org-roam](https://www.orgroam.com/)
   * VSCode: [VS Code Org Mode](https://vscode-org-mode.github.io/vscode-org-mode/)
   * JetBrains IDEA: [Org4Idea](https://plugins.jetbrains.com/plugin/7095-org4idea) plugin
+
+In the end if you just want to edit files with Notepad it's fine as
+everything is plain text.
+
+The above tools are convenient to quickly create links between nodes
+but if you just want to edit one node then any simple text editor will
+do.
 
 ## Participation
 
