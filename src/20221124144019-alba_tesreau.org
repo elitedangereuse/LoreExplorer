@@ -2,4 +2,5 @@
 :ID:       c2623368-19b0-4995-9e35-b8f54f741a53
 :END:
 #+title: Alba Tesreau
+#+filetags: :Individual:
 [[id:aba99a43-f484-41a8-b249-8443f2da119d][Iraxon Lane]]

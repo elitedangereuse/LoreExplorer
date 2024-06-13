@@ -2,5 +2,6 @@
 :ID:       75daea85-5e9f-4f6f-a102-1a5edea0283c
 :END:
 #+title: Denton Patreus
+#+filetags: :Individual:
 
 Admiral of [[id:2891de55-e2d4-429c-b761-095a74482a02][The Empire]]

@@ -2,4 +2,5 @@
 :ID:       da80c263-3c2d-43dd-ab3f-1fbf40490f74
 :END:
 #+title: Edmund Mahon
+#+filetags: :Individual:
 

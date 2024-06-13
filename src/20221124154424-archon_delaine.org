@@ -2,4 +2,5 @@
 :ID:       7aae0550-b8ba-42cf-b52b-e7040461c96f
 :END:
 #+title: Archon Delaine
+#+filetags: :Individual:
 

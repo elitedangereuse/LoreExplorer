@@ -2,4 +2,5 @@
 :ID:       b402bbe3-5119-4d94-87ee-0ba279658383
 :END:
 #+title: Aisling Duval
+#+filetags: :Individual:
 [[id:2891de55-e2d4-429c-b761-095a74482a02][The Empire]]
