@@ -2,6 +2,7 @@
 :ID:       fa8094c2-7d96-448e-b4e2-a675e0214ef1
 :END:
 #+title: Riley Dain
+#+filetags: :Individual:
 [[id:a8068e9d-6706-47da-a19c-2ac943ea8811][Assassination]]
 
 [[id:691ec616-5efd-4f3c-bb2a-11db8b3901f9][Loric Trander]]

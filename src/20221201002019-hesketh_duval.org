@@ -2,4 +2,5 @@
 :ID:       8dc482e7-e978-4e6e-8a63-600e61cd715f
 :END:
 #+title: Hesketh Duval
+#+filetags: :Individual:
 

@@ -3,9 +3,23 @@
 :END:
 #+title: Tom Quaterson Death
 #+filetags: :beacon:
-* 0118  Tom Quaterson Death
-[[id:39e72fd5-ea91-4537-b091-554b678e69a0][Alioth]]
+* 0118 Tom Quaterson Death
+[[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]]
 
-Having smuggled weapons into the system, the tension between the Cakers and the authorities was always going to spill over eventually. In 2617, the death of Tom Quaterson, a munitions worker who had been convicted of selling food coupons to the poor, was the spark that lit the flame of revolt. Workers on the gas platforms seized control of the facilities and planetside, the general populace stormed the Governor's residence. / Quentin Deviseses wasn't just a revolutionary. He had a long term strategy for the system and as soon as the planet was secure, used every means he could to get the word out that Alioth would become a free trade port. / The resource implication of Alioth's independence was too much for either the Empire or the Federation to take.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+Having smuggled weapons into the system, the tension between the
+[[id:a593cd5c-015e-4639-8501-181a6c9d47c6][Cakers]] and the authorities was always going to spill over
+eventually. In 2617, the death of [[id:63533857-27f5-474b-9885-ade924f8877a][Tom Quaterson]], a munitions worker
+who had been convicted of selling food coupons to the poor, was the
+spark that lit the flame of revolt. Workers on the gas platforms
+seized control of the facilities and planetside, the general populace
+stormed the Governor's residence.
+
+[[id:3f4b114b-adf2-4150-8408-d86406848f0d][Quentin Deviseses]] wasn't just a revolutionary. He had a long term
+strategy for the system and as soon as the planet was secure, used
+every means he could to get the word out that Alioth would become a
+free trade port.
+
+The resource implication of Alioth's independence was too much for
+either the Empire or the Federation to take.
 
 [[file:img/beacons/0118.png]]

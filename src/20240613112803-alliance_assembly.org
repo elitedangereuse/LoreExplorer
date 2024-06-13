@@ -3,7 +3,7 @@
 :END:
 #+title: Alliance Assembly
 #+filetags: :beacon:
-* 0113  Alliance Assembly
+* 0113 Alliance Assembly
 [[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]]
 
 The Alliance Assembly is the central body for the Alliance as a

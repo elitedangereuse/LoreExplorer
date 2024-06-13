@@ -3,9 +3,24 @@
 :END:
 #+title: Riley Dain Murder
 #+filetags: :beacon:
-* 0120  Riley Dain Murder
-[[id:39e72fd5-ea91-4537-b091-554b678e69a0][Alioth]]
+* 0120 Riley Dain Murder
+[[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]]
 
-In 3184, the election of Federation President Loric Trander saw a renewal of hostilities over Alioth. This time, conflict was instigated by corporate rivalry in the system's vast gas mining sector. After the discovery of a murdered official named Riley Dain who was investigating the abuse of permitted quotas, the situation quickly escalated. Trander authorised a force off privateers. In response Hesketh Duval sent in the Imperial XV fleet. / The conflict avoided the settlement of New California, owing to the previous treaty, but the settlers there found themselves all but cut off until a further ceasefire was established in 3198. Neither side achieved anything but line the pockets of the industries who fuelled and powered their fleets. It also served to stir further resentment amongst the settlers. At this time, the Caker insurrection became more organised and received substantial financial support from unknown sources.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+In 3184, the election of Federation President [[id:691ec616-5efd-4f3c-bb2a-11db8b3901f9][Loric Trander]] saw a
+renewal of hostilities over Alioth. This time, conflict was instigated
+by corporate rivalry in the system's vast gas mining sector. After the
+discovery of a murdered official named [[id:fa8094c2-7d96-448e-b4e2-a675e0214ef1][Riley Dain]] who was
+investigating the abuse of permitted quotas, the situation quickly
+escalated. Trander authorised a force off privateers. In response
+[[id:8dc482e7-e978-4e6e-8a63-600e61cd715f][Hesketh Duval]] sent in the [[id:c7f194da-b6b0-4ba2-9d18-951da3a8bf7b][Imperial XV fleet]].
+
+The conflict avoided the settlement of New California, owing to the
+previous treaty, but the settlers there found themselves all but cut
+off until a further ceasefire was established in 3198. Neither side
+achieved anything but line the pockets of the industries who fuelled
+and powered their fleets. It also served to stir further resentment
+amongst the settlers. At this time, the [[id:a593cd5c-015e-4639-8501-181a6c9d47c6][Caker]] insurrection became more
+organised and received substantial financial support from unknown
+sources.
 
 [[file:img/beacons/0120.png]]

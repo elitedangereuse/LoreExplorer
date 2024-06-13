@@ -2,5 +2,6 @@
 :ID:       932c4921-da8d-4652-ab70-a19bdd49a8a3
 :END:
 #+title: Meredith Argent
+#+filetags: :Individual:
 
 Direct descendant of [[id:c921a096-a8b0-4ebd-acce-c69bbd5ae4e8][Walter Argent]]

@@ -3,9 +3,27 @@
 :END:
 #+title: Caker Coup
 #+filetags: :beacon:
-* 0119  Caker Coup
-[[id:39e72fd5-ea91-4537-b091-554b678e69a0][Alioth]]  
+* 0119 Caker Coup
+[[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]]  
 
-In 2853, the science research outpost of Nesbitt Landing was founded. Initially this was to be a joint venture between the Empire and Federation, but when a detailed study into the genetic problems on New California linked the issue with the terraforming of the planet in 2612, the Imperials withdrew from the project. / The matter remained a local issue until, in 2854, responding to pressure from Achenar, Imperial soldiers instigated martial law and attempted to impose a genetic correction programme on the planet. This was precented by a coup against the military garrison by a new Caker sect. Within days, the planet had been secured and an appreal was sent to the Federation for assistance. / A fierce battle ensued; Imperial forces from the orbital refineries began a planetary bombardment, but the arrival of a Federal fleet escalated the conflict. Eventually, the Imperial ships pulled back and Admiral Kracer landed with his marines to cheering crowds in the capital. Kracer retired three years later, settling in New California and later became the colony leader.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+In 2853, the science research outpost of [[id:fdf67e2f-4b6c-40ff-b1f8-9ccc8638b82f][Nesbitt Landing]] was
+founded. Initially this was to be a joint venture between the [[id:2891de55-e2d4-429c-b761-095a74482a02][Empire]]
+and [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][Federation]], but when a detailed study into the genetic problems on
+[[id:47df3d18-6cdd-443d-baae-0e3af142a089][New California]] linked the issue with the terraforming of the planet in
+2612, the Imperials withdrew from the project.
+
+The matter remained a local issue until, in 2854, responding to
+pressure from [[id:bed8c27f-3cbe-49ad-b86f-7d87eacf804a][Achenar]], Imperial soldiers instigated martial law and
+attempted to impose a genetic correction programme on the planet. This
+was precented by a [[id:0ce3c70c-e3ae-4a4b-8291-2db41b5058ac][coup]] against the military garrison by a new [[id:a593cd5c-015e-4639-8501-181a6c9d47c6][Caker]]
+sect. Within days, the planet had been secured and an appreal was sent
+to the Federation for assistance.
+
+A fierce battle ensued; Imperial forces from the orbital refineries
+began a planetary bombardment, but the arrival of a Federal fleet
+escalated the conflict. Eventually, the Imperial ships pulled back and
+[[id:6b6da1a6-087f-48c2-99b6-055141a3b6a1][Admiral Kracer]] landed with his marines to cheering crowds in the
+capital. Kracer retired three years later, settling in New California
+and later became the colony leader.
 
 [[file:img/beacons/0119B.png]]

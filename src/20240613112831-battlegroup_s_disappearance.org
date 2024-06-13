@@ -3,9 +3,22 @@
 :END:
 #+title: Battlegroup's Disappearance
 #+filetags: :beacon:
-* 0135  Battlegroup's Disappearance
-[[id:39e72fd5-ea91-4537-b091-554b678e69a0][Alioth]]
+* 0135 Battlegroup's Disappearance
+[[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]]
 
-In 2924, a further conflict started up in the Alioth system, initiated by a squabble over its hydrocarbon resources. The Durn and Resnar Corporation applied for Imperial assistance to enforce its claim over a large swathe of the system's mining rights. A small force of Imperial cruisers and their support ships arrived in the system and rapidly deployed to enforce these claims. They vastly outnumbered the mustered Federal units, and forced them out of the entire system within a year. But then, withouth warning in 2925, the Imperial battle group disappeared. Federal vessels returned and Hassoni-Kruger appropriated the system's mining rights. Within month all assets of the Durn and Resner Corporation were seized by the Emperor. The reson for the strange events has never been discovered. Federal intelligence sources were later to accuse the Duvals of instigating a cloning programme to breed specialised infantry units.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+In 2924, a further conflict started up in the Alioth system, initiated
+by a squabble over its hydrocarbon resources. [[id:a4742b9a-2519-400a-9e11-50710be11771][The Durn and Resner
+Corporation]] applied for [[id:2891de55-e2d4-429c-b761-095a74482a02][Imperial]] assistance to enforce its claim over
+a large swathe of the system's mining rights. A small force of
+Imperial cruisers and their support ships arrived in the system and
+rapidly deployed to enforce these claims. They vastly outnumbered the
+mustered Federal units, and forced them out of the entire system
+within a year. But then, withouth warning in 2925, the Imperial battle
+group disappeared. Federal vessels returned and [[id:32d2f6e7-6a55-41ca-aa2c-8c3396eb0509][Hassoni-Kruger]]
+appropriated the system's mining rights. Within month all assets of
+the Durn and Resner Corporation were seized by the Emperor. The reson
+for the strange events has never been discovered. Federal intelligence
+sources were later to accuse the [[id:bce02e51-c68c-4594-86fe-88dda4915a74][Duvals]] of instigating a [[id:4d2ace21-1658-4733-a922-e2fa97dfd3cd][cloning
+programme]] to breed specialised infantry units.
 
 [[file:img/beacons/0135.png]]
