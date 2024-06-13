@@ -1,12 +1,12 @@
 :PROPERTIES:
 :ID:       5968904b-053b-49df-8a26-ea42bc206e67
 :END:
-#+title: Church of kum-Byar
+#+title: Church of Kum-Byar
 #+filetags: :beacon:
-* 0163 Church of kum-Byar
+* 0163 Church of Kum-Byar
 [[id:6935cefb-7739-4ac2-91a0-de4a984feae1][Arexack]]
 
-The Church of Kum-Byar is a zealot faith in the Arexack system. A
+The Church of [[id:d4d70ceb-ba90-4c61-8bc1-3228411a3760][Kum-Byar]] is a zealot faith in the Arexack system. A
 civil war between two sects of the church raged for more than one
 hundred years before an uneasy truce was called in 2361. The religious
 values of the church are austerity and the removal of all body hair.
