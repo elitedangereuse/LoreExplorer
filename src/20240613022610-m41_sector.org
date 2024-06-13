@@ -5,17 +5,17 @@
 #+filetags: :Permit:Region:
 [[file:img/permit.png]]
 
-M41 Sector DB-O b22-0
-M41 Sector DD-G c12-7
-M41 Sector EB-O d6-1
-M41 Sector FM-U d3-11
-M41 Sector MV-P b8-0
-M41 Sector OT-Z b29-0
-M41 Sector PZ-O d6-17
-M41 Sector QF-M c8-1
-M41 Sector QI-W b4-0
-M41 Sector QO-X c2-0
-M41 Sector UL-G b13-0
-M41 Sector XJ-Z d5
-M41 Sector XO-P c6-1
-M41 Sector ZT-S b19-0
+- M41 Sector DB-O b22-0
+- M41 Sector DD-G c12-7
+- M41 Sector EB-O d6-1
+- M41 Sector FM-U d3-11
+- M41 Sector MV-P b8-0
+- M41 Sector OT-Z b29-0
+- M41 Sector PZ-O d6-17
+- M41 Sector QF-M c8-1
+- M41 Sector QI-W b4-0
+- M41 Sector QO-X c2-0
+- M41 Sector UL-G b13-0
+- M41 Sector XJ-Z d5
+- M41 Sector XO-P c6-1
+- M41 Sector ZT-S b19-0
