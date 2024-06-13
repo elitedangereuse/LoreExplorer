@@ -2,12 +2,21 @@
 :ID:       48bbb683-32e9-40c0-a2f6-26da016886de
 :END:
 #+title: Terraforming
-#+filetags: :beacon:
-*    0145  Terraforming
-[[id:51a92498-ef1b-4fc3-9ad7-9e49fb947353][Cemiess]]
+#+filetags: :Empire:beacon:
+* 0145 Terraforming
+[[id:360ae21e-63f2-43ba-a2fd-a47e5e49951e][Cemiess]]
 
-The Emperor's passion for the arts and very high standards of living saw a rapid population increase in Imperial systems. Massive migration from independent, Galcop and Federation worlds saw an accompanying increase in prosperity.
+The Emperor's passion for the arts and very high standards of living
+saw a rapid population increase in Imperial systems. Massive migration
+from independent, [[id:c71d963e-1933-4701-bb5a-d2a4332125c5][Galcop]] and Federation worlds saw an accompanying
+increase in prosperity.
 
-To deal with the rapid rise in population across many worlds, the Empire began terraforming of Cemiess 2 in 3080. This put paid to Federal ambitions in the system. A colonial charter had been established since 3055, but lack of funds had prevented any expansion. The act of approving the Imperial settlement proved to be the last of Gaylen Trasken Duval who dies shortly afterwards, he was 109 years of age.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |   |   |                                                                                                                                                                                                                                                                                                                                                
+To deal with the rapid rise in population across many worlds, the
+Empire began terraforming of Cemiess 2 in 3080. This put paid to
+Federal ambitions in the system. A colonial charter had been
+established since 3055, but lack of funds had prevented any
+expansion. The act of approving the Imperial settlement proved to be
+the last of [[id:3b5b7101-a735-4d40-a48e-215cdcf06a27][Gaylen Trasken Duval]] who dies shortly afterwards, he was
+109 years of age.
 
 [[file:img/beacons/0145.png]]

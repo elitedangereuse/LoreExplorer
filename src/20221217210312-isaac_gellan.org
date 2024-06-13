@@ -2,4 +2,5 @@
 :ID:       77091a28-dc28-405d-bb97-c32a1aecdd33
 :END:
 #+title: Isaac Gellan
+#+filetags: :Individual:
 Federation President

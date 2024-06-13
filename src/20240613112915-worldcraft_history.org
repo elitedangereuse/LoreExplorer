@@ -3,9 +3,26 @@
 :END:
 #+title: WorldCraft History
 #+filetags: :beacon:
-*     0210  WorldCraft History
+* 0210 WorldCraft History
 [[id:a17c479c-5ee8-42c1-8fee-22cbf1407db9][Epsilon Eridani]]
 
-Previously known as the Cisco Corporation, WorldCraft is based in the Epsilon Eridani system and has been the Federation's favourite tourist resort for more then three hundred years. / For centuries Woldcraft (then Cisco) was a major tourist corporation, running tourist resorts throughout human space. It was a big customer of Free World Ventures 'Worldcraft' atmospheric processing units as it began to create whole tourist resort planets in the early part of the 33rd century. To exclude its competitors from this market, it bought FMV in a hostile takeover in 3260 via a leveraged buyout - doubling the size of the corporation in one step, and renamed the whole corporation to 'WorldCraft' (with a capital 'C' in the middle) based on this operation, as at that point Cisco was associated with a broad range of holidays, including the seedier end of the market - something that had prevented Cisco from sucessfully entering the Imperial market. The 'WorldCraft' brand was highly respected, including in Imperial space, and the change was made in the hope of being more acceptable to the Empire.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |   |   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |   |   |   |   |   |   |   |   |   |   |   |   
+Previously known as the [[id:f16a32d5-814d-4446-935d-32c4edfc4c42][Cisco Corporation]], [[id:ebaea4eb-8ba1-4f48-ada6-ca694704143b][WorldCraft]] is based in the
+Epsilon Eridani system and has been the [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][Federation]]'s favourite tourist
+resort for more then three hundred years.
+
+For centuries Woldcraft (then Cisco) was a major tourist corporation,
+running tourist resorts throughout human space. It was a big customer
+of [[id:e8554355-4cee-41f8-9edf-c8c4bbbaf25a][Free World Ventures]] 'Worldcraft' atmospheric processing units as it
+began to create whole tourist resort planets in the early part of the
+33rd century. To exclude its competitors from this market, it bought
+FMV in a hostile takeover in 3260 via a leveraged buyout - doubling
+the size of the corporation in one step, and renamed the whole
+corporation to 'WorldCraft' (with a capital 'C' in the middle) based
+on this operation, as at that point Cisco was associated with a broad
+range of holidays, including the seedier end of the market - something
+that had prevented Cisco from sucessfully entering the Imperial
+market. The 'WorldCraft' brand was highly respected, including in
+Imperial space, and the change was made in the hope of being more
+acceptable to the [[id:8ec888bf-bc94-41a6-a316-c0b3af0c778f][Empire]].
 
 [[file:img/beacons/0210B.png]]

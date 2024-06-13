@@ -3,13 +3,23 @@
 :END:
 #+title: Civil War
 #+filetags: :beacon:
-*    0153  Civil War
+* 0153 Civil War
 [[id:35ef7825-95ca-418d-9cc2-9e7934b351c9][Tiliala]]
 
-In 3251, civil war broke out in Tiliala. The Dictator and leader of the Valhallan Democratic Peace Party, Augustus Checkin, under threat from the Valhallan Liberation Front. 'Friends' of the ruling party put out a contract on the leader of the Valhallan Liberation Army (the armed wing of the VLF), Dentara Rast.
+In 3251, civil war broke out in Tiliala. The Dictator and leader of
+the [[id:20e3598d-8ae1-4a9a-a393-c97f0771796b][Valhallan Democratic Peace Party]], [[id:20664a03-893b-40d4-b9a6-790503708121][Augustus Checkin]], under threat
+from the [[id:afe3edc3-ba12-465e-b39b-eef37d37a5a3][Valhallan Liberation Front]]. 'Friends' of the ruling party put
+out a contract on the leader of the [[id:09c3bc7b-96af-42e7-9a8e-385209fd1638][Valhallan Liberation Army]] (the
+armed wing of the VLF), [[id:79832d10-b5db-4944-a808-e5b2f11c2cb7][Dentara Rast]].
 
-Over the next few months, the conflict gradually petered out, moving towards a diplomatic solution until other members of the VLA were assassinated. In response, Dentara Rast took to the holo-vid channels and swore revenge.
+Over the next few months, the conflict gradually petered out, moving
+towards a diplomatic solution until other members of the VLA were
+assassinated. In response, Dentara Rast took to the holo-vid channels
+and swore revenge.
 
-The chance discovery of Tantalum (a rare and valuable metal) on the planet drew Imperial interest to the situation. A covert force of Imperial ships were detected by local police, who appealed for Federal assistance and a battlegroup was despatched.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |   |   |                                                                                                                                                                                                                                                                                                                                                
+The chance discovery of [[id:d10c0435-4bc8-42ac-bea6-228d2f02604c][Tantalum]] (a rare and valuable metal) on the
+planet drew Imperial interest to the situation. A covert force of
+Imperial ships were detected by local police, who appealed for Federal
+assistance and a battlegroup was despatched.
 
 [[file:img/beacons/0153.png]]

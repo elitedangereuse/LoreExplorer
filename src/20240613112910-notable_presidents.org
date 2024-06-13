@@ -3,9 +3,26 @@
 :END:
 #+title: Notable Presidents
 #+filetags: :beacon:
-*     0201  Notable Presidents
+* 0201 Notable Presidents
 [[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]]
 
-The complete list of Presidents is too numerous to mention here, so only those who made a name for themselves in intergalactic affairs are listed. / Sadig Kessler (Federal President in 2599 - 2607) / Isaac Gellan (Federal President in 2862 - 2866 (disgraced - lost VoNC)) / Olaf Smith (Federal President in 2866 - 2874) / Jeremy Tann (Federal President in 2874 - 2882) / Verity Campbell (Federal President in 2956 - 2960 (lost VoNC)) / Ulrich Vale (Federal President in 2968 - 2976) / Grant Keller (Federal President in 2976 - 2984) / Tyrell Biggs (Federal President in 3008 - 3016) / Loric Trander (Federal President in 3184 - 3192) / Eugene Cooper (Federal President in 3260 - 3264 (unpopular - lost VoNC)) / Antonia Madison (Federal President in 3264 - 3272) / Jasmina Halsey (Federal President in 3300 - 3301 (disappeared)) / Zachary Hudson ((Federal President in 3301 - present)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |   |   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |   |   |   |   |   |   |   |   |   |   |   |   
+The complete list of Presidents is too numerous to mention here, so
+only those who made a name for themselves in intergalactic affairs are
+listed.
 
+- [[id:56dc8d1a-47ea-401e-b11f-72d229e2514d][Sadig Kessler]] (Federal President in 2599 - 2607)
+- [[id:77091a28-dc28-405d-bb97-c32a1aecdd33][Isaac Gellan]] (Federal President in 2862 - 2866 (disgraced - lost VoNC))
+- [[id:8cd6d869-45c4-448f-b6ec-11814b056178][Olaf Smith]] (Federal President in 2866 - 2874)
+- [[id:510632ce-ce95-4274-92c3-d8982b5f37f2][Jeremy Tann]] (Federal President in 2874 - 2882)
+- [[id:07e921f5-4493-4496-8c4c-3b4a7d89d723][Verity Campbell]] (Federal President in 2956 - 2960 (lost VoNC))
+- [[id:7faad509-6164-4f25-b6e7-c020d02fbe2d][Ulrich Vale]] (Federal President in 2968 - 2976)
+- [[id:dd3d131b-d60c-41fe-94c8-b850622bb22a][Grant Keller]] (Federal President in 2976 - 2984)
+- [[id:51cb3ba1-6a48-478b-a5db-f002c889c477][Tyrell Biggs]] (Federal President in 3008 - 3016)
+- [[id:691ec616-5efd-4f3c-bb2a-11db8b3901f9][Loric Trander]] (Federal President in 3184 - 3192)
+- [[id:44bc0f00-a801-44ee-b2ea-97d6cc8fdffc][Eugene Cooper]] (Federal President in 3260 - 3264 (unpopular - lost VoNC))
+- [[id:e70b7d46-d965-4fb7-859b-e67cacd230e5][Antonia Madison]] (Federal President in 3264 - 3272)
+- [[id:a9ccf59f-436e-44df-b041-5020285925f8][Jasmina Halsey]] (Federal President in 3300 - 3301 (disappeared))
+- [[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][Zachary Hudson]] (Federal President in 3301 - present)
+
+[[file:img/beacons/0201.png]]
 [[file:img/beacons/0201B.png]]

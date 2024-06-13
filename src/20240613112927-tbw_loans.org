@@ -3,9 +3,27 @@
 :END:
 #+title: TBW Loans
 #+filetags: :beacon:
-*     0230  TBW Loans
+* 0230  TBW Loans
 [[id:929ff6f9-0c6c-4a07-ad87-0fb67def4f0e][Andceeth]]
 
-In 3300, TBW Investments provides loans and saving oppurtunities for individuals and businesses. It specialises in clients that prefer their assets to remain 'off the grid'. The rates of return are good and the vaults remain secure. They also specialise in the storage of high value items, in private, individual strongboxes, stored in deep underground vaults. Many suspect much of these contents are illegal, ans simply 'cooling off' - though of course the bank would strongly contest that. / TBW also trade in precious stones, both on behalf of clients, and running private markets around human space, but particularly withtin the Federation. They are well known as the best gemstone traders in human space. / TBW maintain their own security fleet. These are mostly fast, and well-equipped, using Fer de Lance craft mostly as comfortable executive transports, carrying small cargoes very securely with perhaps one or two clients only.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |   |   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |   |   |   |   |   |   |   |   |   |   |   |   
+In 3300, [[id:e23bc9b2-02ae-4efe-af70-378973602cdf][TBW Investments]] provides loans and saving oppurtunities for
+individuals and businesses. It specialises in clients that prefer
+their assets to remain 'off the grid'. The rates of return are good
+and the vaults remain secure. They also specialise in the storage of
+high value items, in private, individual strongboxes, stored in deep
+underground vaults. Many suspect much of these contents are illegal,
+ans simply 'cooling off' - though of course the bank would strongly
+contest that.
 
+TBW also trade in precious stones, both on behalf of clients, and
+running private markets around human space, but particularly withtin
+the Federation. They are well known as the best gemstone traders in
+human space.
+
+TBW maintain their own security fleet. These are mostly fast, and
+well-equipped, using Fer de Lance craft mostly as comfortable
+executive transports, carrying small cargoes very securely with
+perhaps one or two clients only.
+
+[[file:img/beacons/0230.png]]
 [[file:img/beacons/0230B.png]]

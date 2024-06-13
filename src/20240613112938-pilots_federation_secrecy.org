@@ -3,9 +3,27 @@
 :END:
 #+title: Pilots Federation Secrecy
 #+filetags: :beacon:
-*     0247  Pilots Federation Secrecy
+* 0247  Pilots Federation Secrecy
 [[id:c6b67ab9-66c5-4636-a978-2ca3a9ab012c][Shinrarta Dezhra]]
 
-The Pilots Federation in many ways is a secretive organisation. This in part reinforces its status of neutrality. It exists to support pilots, not nationalities or political factions. Over the years this has led to its acceptance (albeit grudging in some cases) in practically all human domain. / Despite its ubiquitous presence it has very little direct dealings with the public. Even member pilots tend to interact via the networked rankings and bounties system. The prime exception to this is registration. A pilot has to register in person for their PF license. Registration is performent at offices throughout human habitted space. / The PF represents the nearest thing to law in uncontrolled and ungoverned space. Their existence provides a safely net for human expansion in space beyond the major factions. / The Elite Federation of Pilots (EFP) continues as a select and extremely secretive group within the larger organisation.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |   |   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |   |   |   |   |   |   |   |   |   |   |   |   
+[[id:131aabdf-0ed8-4ce2-beec-94c77a8c41d2][The Pilots Federation]] in many ways is a secretive organisation. This
+in part reinforces its status of neutrality. It exists to support
+pilots, not nationalities or political factions. Over the years this
+has led to its acceptance (albeit grudging in some cases) in
+practically all human domain.
+
+Despite its ubiquitous presence it has very little direct dealings
+with the public. Even member pilots tend to interact via the networked
+rankings and bounties system. The prime exception to this is
+registration. A pilot has to register in person for their PF
+license. Registration is performent at offices throughout human
+habitted space.
+
+The PF represents the nearest thing to law in uncontrolled and
+ungoverned space. Their existence provides a safely net for human
+expansion in space beyond the major factions.
+
+[[id:29d1e8f4-004d-4d0f-b838-265c302d8187][The Elite Federation of Pilots]] (EFP) continues as a select and
+extremely secretive group within the larger organisation.
 
 [[file:img/beacons/0247B.png]]

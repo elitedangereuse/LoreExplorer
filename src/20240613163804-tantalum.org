@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       d10c0435-4bc8-42ac-bea6-228d2f02604c
+:END:
+#+title: Tantalum
+#+filetags: :Commodity:
+
+Produced by: Refinery
+Consumed by: High Tech and Industrial
+
+Tantalum, Ta, atomic number 73. Melting point 3290K. Used to make
+capacitors and high melting point alloys in reactors, and by the
+military for specialist alloys used in weapons for armour penetration.

@@ -2,4 +2,5 @@
 :ID:       73c1ecaa-9daa-48e9-8228-12157896fb29
 :END:
 #+title: 241 G. Aquarii
+#+filetags: :System:
 

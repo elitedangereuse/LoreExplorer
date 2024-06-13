@@ -3,9 +3,25 @@
 :END:
 #+title: FIA Responsibilities
 #+filetags: :beacon:
-*     0232  FIA Responsibilities
+* 0232 FIA Responsibilities
 [[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]]
 
-The Federal Intelligence Agency is a secretive organisation that looks after Federal interests outside the Federation. It runs both espionage and counter-espionage operations, and provides covert support for Federal diplomats abroad, providing intelligence relating to foreign operations in addition to protection. It has also been pro-active on many occassions. It has been implicated in destabilising foreign governments, and helping those wíth which the Federal Government is sympathetic or when their causes are aligned. Its operations have gone as far as providing arms and training directly to rebels, assassinations, rigged elections, all done in a clandestine and deniable way. / The FIA also follows up on major interstellar crimes within the Federation, where the crome crosses outside Federal space. It is a secretive organisation (paralleling the Imperial IISS) specialising in corruption and high level crime, and is considered not very accountable.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |   |   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |   |   |   |   |   |   |   |   |   |   |   |   
+[[id:d75a6c3f-5c3a-418b-b639-5e14b487f568][The Federal Intelligence Agency]] is a secretive organisation that looks
+after Federal interests outside the Federation. It runs both espionage
+and counter-espionage operations, and provides covert support for
+Federal diplomats abroad, providing intelligence relating to foreign
+operations in addition to protection. It has also been pro-active on
+many occassions. It has been implicated in destabilising foreign
+governments, and helping those wíth which the Federal Government is
+sympathetic or when their causes are aligned. Its operations have gone
+as far as providing arms and training directly to rebels,
+assassinations, rigged elections, all done in a clandestine and
+deniable way.
+
+The FIA also follows up on major interstellar crimes within the
+Federation, where the crome crosses outside Federal space. It is a
+secretive organisation (paralleling the Imperial [[id:01980efc-1b06-4f55-bf18-fa6c7e56f1eb][IISS]]) specialising in
+corruption and high level crime, and is considered not very
+accountable.
 
 [[file:img/beacons/0232B.png]]

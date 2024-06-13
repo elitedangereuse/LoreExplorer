@@ -3,9 +3,27 @@
 :END:
 #+title: Pilots Federation's Near Monopoly
 #+filetags: :beacon:
-*     0249  Pilots Federation's Near Monopoly
+* 0249 Pilots Federation's Near Monopoly
 [[id:c6b67ab9-66c5-4636-a978-2ca3a9ab012c][Shinrarta Dezhra]]
 
-Historically the Pilots Federation has been a trusted soure of information for pilots. As humanity expanded into space that need for informatiuon continued to grow. / Before 3100 they provided data for many ship and station manufacturers. After 3100 in an understated, but effective campaign of acqusitions and mergers they came the dominant provider of this data as well as the hardware and software solutions serving that data. / From star chart data, ship data and bounty management systems the Pilots Federation expanded their data sources to include markets, newsfeeds and communication systems. / In 3300 the Pilots Federation's GalNet system has a near monopoly on all shipboard and station embedded systems. The systems are fitted as standard on nearly all independent ships and even some militaries. It's a testament to the trusted nature of the PF that his monopoly has occured with the little resistance bar some back room negotiations.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |   |   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |   |   |   |   |   |   |   |   |   |   |   |   
+Historically the [[id:131aabdf-0ed8-4ce2-beec-94c77a8c41d2][Pilots Federation]] has been a trusted soure of
+information for pilots. As humanity expanded into space that need for
+informatiuon continued to grow.
+
+Before 3100 they provided data for many ship and station
+manufacturers. After 3100 in an understated, but effective campaign of
+acqusitions and mergers they came the dominant provider of this data
+as well as the hardware and software solutions serving that data.
+
+From star chart data, ship data and bounty management systems the
+Pilots Federation expanded their data sources to include markets,
+newsfeeds and communication systems.
+
+In 3300 the Pilots Federation's [[id:69222c4d-be04-4ece-aed7-3b7e5404820b][GalNet]] system has a near monopoly on
+all shipboard and station embedded systems. The systems are fitted as
+standard on nearly all independent ships and even some
+militaries. It's a testament to the trusted nature of the PF that his
+monopoly has occured with the little resistance bar some back room
+negotiations.
 
 [[file:img/beacons/0249B.png]]

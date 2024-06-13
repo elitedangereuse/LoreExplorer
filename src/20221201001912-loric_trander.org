@@ -2,4 +2,5 @@
 :ID:       691ec616-5efd-4f3c-bb2a-11db8b3901f9
 :END:
 #+title: Loric Trander
+#+filetags: :Individual:
 [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][Federation]] president elected in 3184

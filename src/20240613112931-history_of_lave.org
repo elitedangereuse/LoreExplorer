@@ -1,11 +1,24 @@
 :PROPERTIES:
 :ID:       a7182f72-26f2-4418-aff5-cd5edb77f290
+:ROAM_ALIASES: L-453
 :END:
 #+title: History of Lave
 #+filetags: :beacon:
-*     0236  History of Lave
+* 0236 History of Lave
 [[id:a7182f72-26f2-4418-aff5-cd5edb77f290][Lave]]
 
-One of the oldest colonies of the sector, Colonial Deep Space Cruisers Herschel and Oberon reached the system then designated L-453 in 2412. Lave has been a Dictatorship from before the fall of the Galactic Cooperative. In 3174, Dr. Hans Walden came to power. / Walden established an authoritarian Dictatorship. The previous economic hardship brought about by the fall of the Galactic Cooperative were still remembered. Under Walden there was stability, just not prosperity. / Walden's rule was very long, and rumoured to involve genetic manipulation as he greatly extended his own life, with his eventual death at the hands of an assassin triggering a revolution.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |   |   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |   |   |   |   |   |   |   |   |   |   |   |   
+One of the oldest colonies of the sector, Colonial Deep Space Cruisers
+Herschel and Oberon reached the system then designated L-453
+in 2412. Lave has been a Dictatorship from before the fall of the
+Galactic Cooperative. In 3174, Dr. [[id:0b41fd3c-7d4e-4f61-b375-c96b99990d01][Hans Walden]] came to power.
+
+Walden established an authoritarian Dictatorship. The previous
+economic hardship brought about by the fall of the Galactic
+Cooperative were still remembered. Under Walden there was stability,
+just not prosperity.
+
+Walden's rule was very long, and rumoured to involve genetic
+manipulation as he greatly extended his own life, with his eventual
+death at the hands of an [[id:a8068e9d-6706-47da-a19c-2ac943ea8811][assassin]] triggering a revolution.
 
 [[file:img/beacons/0236.png]]

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       131aabdf-0ed8-4ce2-beec-94c77a8c41d2
+:ROAM_ALIASES: PF
 :END:
 #+title: The Pilots' Federation
 #+filetags: :Codex:

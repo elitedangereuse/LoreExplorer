@@ -2,10 +2,22 @@
 :ID:       0fe8f744-0ec9-454f-af13-3ee6b747334d
 :END:
 #+title: Halsey Shares Her Vision
-#+filetags: :beacon:
-*     0679  Halsey Shares Her Vision
+#+filetags: :Guardians:beacon:
+* 0679 Halsey Shares Her Vision
 [[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]]
 
-On September 20th 3302 former Federal president Jasmina Halsey broke her silence to share news of “a compelling vision” with the galactic community. / In a public address at the Gotham Park in the Alioth system, Halsey described the nature of her vision: / “I saw a place of extraordinary beauty. A paradise. It was truly wonderful.” / “This was no dream - it was a glimpse of something very real.” / “We must find this place. It could be our future.”                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |   |   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   
+On September 20th 3302 former Federal president [[id:a9ccf59f-436e-44df-b041-5020285925f8][Jasmina Halsey]] broke
+her silence to share news of “a compelling vision” with the galactic
+community.
+
+In a public address at the [[id:eb4cac5c-522b-4ed3-b778-e34c95d9abc0][Gotham Park]] in the [[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]] system, Halsey
+described the nature of her vision:
+
+“I saw a place of extraordinary beauty. A paradise. It was truly
+wonderful.”
+
+“This was no dream - it was a glimpse of something very real.”
+
+“We must find this place. It could be our future.”
 
 [[file:img/beacons/0679.png]]

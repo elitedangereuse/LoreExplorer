@@ -3,9 +3,28 @@
 :END:
 #+title: The Devil's Dancefloor
 #+filetags: :beacon:
-*     0711  The Devil's Dancefloor
+* 0711 The Devil's Dancefloor
 [[id:51ee0837-cac7-466c-a019-4743b891c1c8][Eeshorks BA-A G2179]]
 
-The system was first discovered during a joint expedition by three well known scientists in the field of gravitational physics: Grace Gutierrez, Rondall Hudon, and Lennox McFadden, back in July of 3303. / EESHORKS BA-A G2179 has researchers buzzing now that its discoverers have gone public with details of the system. It contains a black hole and four neutron stars, and is considered extra special by researchers studying gravitational waves as four of the five bodies that make up the system are organised into two sets of binaries orbiting each other very closely. They orbit so closely that the AB pair orbit each other in approximately two hours (The Swing Couple), and the CD pair in five hours (The Waltz Couple), with both pairs orbiting each other in an area less than 250Ls across. / The A star of the system is a black hole measuring 10.6 solar masses. Bodies B, C and D are each microsecond pulsars with spins aligned by orbits so tight a ship may find itself in the ejecta cones of both pulsars at the same time! The fifth and last body of the system is another neutron star at a range of 342,000Ls which the members of the discovering expedition refer to as "The Wallflower".                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |   |   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   
+The system was first discovered during a joint expedition by three
+well known scientists in the field of gravitational physics: [[id:9f04a47e-a40a-4fd0-9ef0-eba5cd3d26d9][Grace
+Gutierrez]], [[id:b6c2e4ae-5294-4cd3-bcce-1d7ad2ddb164][Rondall Hudon]], and [[id:1b7c6edb-caad-4a87-9c19-024250b895f7][Lennox McFadden]], back in July of 3303.
+
+EESHORKS BA-A G2179 has researchers buzzing now that its discoverers
+have gone public with details of the system. It contains a black hole
+and four neutron stars, and is considered extra special by researchers
+studying gravitational waves as four of the five bodies that make up
+the system are organised into two sets of binaries orbiting each other
+very closely. They orbit so closely that the AB pair orbit each other
+in approximately two hours ([[id:e75a40cf-201c-4ae8-8e01-ad788787dc05][The Swing Couple]]), and the CD pair in five
+hours ([[id:a215a950-c0b5-4b24-858d-5df41b14971e][The Waltz Couple]]), with both pairs orbiting each other in an
+area less than 250Ls across.
+
+The A star of the system is a black hole measuring 10.6 solar
+masses. Bodies B, C and D are each microsecond [[id:b9728bff-08a9-48e8-bb6d-0362c76dc3d3][pulsars]] with spins
+aligned by orbits so tight a ship may find itself in the ejecta cones
+of both pulsars at the same time! The fifth and last body of the
+system is another neutron star at a range of 342,000Ls which the
+members of the discovering expedition refer to as "[[id:1445a785-ff06-4ab6-b828-eb9dc8c7d312][The Wallflower]]".
 
 [[file:img/beacons/0711B.png]]
