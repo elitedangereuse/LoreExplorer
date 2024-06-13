@@ -4,7 +4,7 @@
 #+title: Marco Qwent
 #+filetags: :engineer:
 * Location
-Qwent Research Base | [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] [[[id:55d5b2cc-aa04-47b1-b144-ffa4e8f43b5d][permit]] required]
+Qwent Research Base | [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] [permit required]
 * How to discover
 From [[id:887ca01b-ea5d-4fcd-a45d-de1ca598f1cd][Elvira Martuuk]] (grade 3-4).
 * Meeting requirements

@@ -4,7 +4,7 @@
 #+title: Colonel Bris Dekker
 #+filetags: :engineer:
 * Location
-Dekker's Yard | [[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]] [[[id:55d5b2cc-aa04-47b1-b144-ffa4e8f43b5d][permit]] required]
+Dekker's Yard | [[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]] [permit required]
 
 * How to discover
 From [[id:d4d3395f-e02f-4d84-95e1-6c3367c1c957][Juri Ishmaak]] (grade 3-4).
