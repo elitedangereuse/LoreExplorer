@@ -2,7 +2,7 @@
 :ID:       ff1f91b2-2084-4a2a-9060-f5a4aa0fe5bb
 :END:
 #+title: Chloe Sedesi
-#+filetags: :engineer:
+#+filetags: :Individual:engineer:
 * Location
 Cinder Dock | [[id:9eb04a19-52b5-4650-8d44-a5497225789e][Shenve]]
 

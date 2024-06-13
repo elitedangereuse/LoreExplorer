@@ -2,7 +2,7 @@
 :ID:       1699b419-aeb2-427d-9f79-200e1e714e7f
 :END:
 #+title: Yarden Bond
-#+filetags: :OnFoot:engineer:
+#+filetags: :Individual:OnFoot:engineer:
 * Location
 Salamander Bank | [[id:70a71465-ce83-4043-a13b-d0a725bfd500][Bayan]]
 * How to discover

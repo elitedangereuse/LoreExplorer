@@ -2,7 +2,7 @@
 :ID:       cb71ba02-e47b-4feb-a421-b1f2ecdce6f3
 :END:
 #+title: Liz Ryder
-#+filetags: :engineer:
+#+filetags: :Individual:engineer:
 Connected to [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]]
 
 Works for [[id:e68a5318-bd72-4c92-9f70-dcdbd59505d1][Azimuth Biotech]] on [[id:6023377d-7271-49d1-80ec-ffab82dc8c29][AX weapons]]

@@ -2,7 +2,7 @@
 :ID:       f3426d7a-dfd4-4e6c-8f29-f53c7e31d071
 :END:
 #+title: Bill Turner
-#+filetags: :Permit:engineer:
+#+filetags: :Individual:Permit:engineer:
 [[file:img/permit.png]]
 [[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]]
 [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][The Alliance]]

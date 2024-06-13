@@ -2,7 +2,7 @@
 :ID:       887ca01b-ea5d-4fcd-a45d-de1ca598f1cd
 :END:
 #+title: Elvira Martuuk
-#+filetags: :engineer:
+#+filetags: :Individual:engineer:
 * Location
 Long Sight Base | [[id:27afafa1-f476-4854-b1f8-fe0e14933646][Khun]]
 Distance

@@ -2,7 +2,7 @@
 :ID:       64af95e7-00c7-41ee-8205-100c0a7e0467
 :END:
 #+title: Yi Shen
-#+filetags: :OnFoot:engineer:
+#+filetags: :Individual:OnFoot:engineer:
 * Location
 Eidolon Hold | [[id:b23439a3-9762-48d5-b510-107fe548110f][Einheriar]]
 * How to discover

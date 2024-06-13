@@ -2,7 +2,7 @@
 :ID:       d4d3395f-e02f-4d84-95e1-6c3367c1c957
 :END:
 #+title: Juri Ishmaak
-#+filetags: :engineer:
+#+filetags: :Individual:engineer:
 
 * Location
 Pater's Memorial | [[id:31bfe4e0-1652-4327-a197-ff71c71cc6c3][Giryak]]

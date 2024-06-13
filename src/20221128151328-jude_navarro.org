@@ -2,7 +2,7 @@
 :ID:       40542b10-7154-42fc-a1c8-320c5ac73275
 :END:
 #+title: Jude Navarro
-#+filetags: :OnFoot:engineer:
+#+filetags: :Individual:OnFoot:engineer:
 * Location
 Marshall's Drift | [[id:e276c373-f561-42b9-8bdb-bf34d7a1a7e1][Aurai]]
 * How to discover

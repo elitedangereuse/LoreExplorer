@@ -2,7 +2,7 @@
 :ID:       5bc38801-eeb2-4c7a-9568-f41dcdf556c6
 :END:
 #+title: Terra Velasquez
-#+filetags: :OnFoot:engineer:
+#+filetags: :Individual:OnFoot:engineer:
 Is there a link with [[id:9bf3bf04-3f84-4959-afb4-a3a692cd597b][Velasquez Medical Research Center]] ?
 * Location
 Rascal's Choice | [[id:1a60d7cf-53b3-4079-b505-563d22152c62][Shou Xing]]

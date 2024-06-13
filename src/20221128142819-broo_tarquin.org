@@ -2,7 +2,7 @@
 :ID:       f7a5d9f8-1d86-4230-ab52-397226590b19
 :END:
 #+title: Broo Tarquin
-#+filetags: :Rank:engineer:
+#+filetags: :Individual:Rank:engineer:
 * Location
 Broo's Legacy | [[id:773cc22e-e884-4ee2-82d4-54d531fc8f23][Muang]]
 

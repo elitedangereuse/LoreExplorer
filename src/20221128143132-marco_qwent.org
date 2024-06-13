@@ -2,7 +2,7 @@
 :ID:       d18667b7-1da8-48ca-bb84-e280ebf77a35
 :END:
 #+title: Marco Qwent
-#+filetags: :engineer:
+#+filetags: :Individual:engineer:
 * Location
 Qwent Research Base | [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] [permit required]
 * How to discover

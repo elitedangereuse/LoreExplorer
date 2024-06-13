@@ -2,7 +2,7 @@
 :ID:       132a80d4-8dcb-46d5-bb30-7621c30f9d5c
 :END:
 #+title: Uma Laszlo
-#+filetags: :OnFoot:engineer:
+#+filetags: :Individual:OnFoot:engineer:
 * Location
 Laszlo's Resolve | [[id:460f961d-69ae-4beb-bf70-acfd14d212e9][Xuane]]
 * How to discover

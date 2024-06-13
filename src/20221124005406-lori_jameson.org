@@ -2,7 +2,7 @@
 :ID:       1950129f-ad8e-453a-94ac-8bb0813e2e28
 :END:
 #+title: Lori Jameson
-#+filetags: :Combat:Rank:engineer:
+#+filetags: :Individual:Combat:Rank:engineer:
 * Family
   [[id:cc697ecd-bd30-4319-b7f0-5e659a6e5b44][Jameson]]
 * Location

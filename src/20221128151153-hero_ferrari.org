@@ -2,7 +2,7 @@
 :ID:       50eb38fe-3254-47c5-abe2-a2e1c80c7105
 :END:
 #+title: Hero Ferrari
-#+filetags: :OnFoot:engineer:
+#+filetags: :Individual:OnFoot:engineer:
 * Location
 Nevermore Terrace | [[id:3e0f2d75-e43d-48f5-bc74-70068bfd9a95][Siris]]
 * How to discover

@@ -2,7 +2,7 @@
 :ID:       7af58443-6856-4aa9-89ff-89c94bd63aa7
 :END:
 #+title: Petra Olmanova
-#+filetags: :Combat:Rank:engineer:
+#+filetags: :Individual:Combat:Rank:engineer:
 * Location
 Sanctuary | [[id:636ce00b-56be-47f0-a440-a14f87b72b7c][Asura]]
 [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]]

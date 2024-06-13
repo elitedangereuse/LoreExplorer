@@ -2,7 +2,7 @@
 :ID:       d512672e-8849-46f9-b39d-a53f0c5765bf
 :END:
 #+title: Felicity Farseer
-#+filetags: :Exploration:Rank:engineer:
+#+filetags: :Individual:Exploration:Rank:engineer:
 Needs [[id:da2f167d-0157-4deb-afb2-98bf6518cf01][Meta-Alloys]]
 
 She knows about [[id:7ec2457b-3e53-4928-a17f-e885b681b267][The Dark Wheel]].
