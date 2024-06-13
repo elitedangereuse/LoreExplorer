@@ -3,9 +3,22 @@
 :END:
 #+title: What is Interpol
 #+filetags: :beacon:
-*     0235  What is Interpol?
+* 0235 What is Interpol?
 [[id:d4f2b36b-70c4-4943-b901-496229734121][Kuk]]  
 
-Interpol provides multi-jurisdictional investigation. particularly across Alliance worlds, but also when an investigation strays beyond. In addition it provides support assets for individual Alliance forces when heavy backup is required. / Internal affairs investigations for Alliance organisations are also conducted by Interpol and upon request for member systems too. / Numerically, Interpol is smaller than most systems police forces, but is well trained, well equipped and well respected, Interpol also acts as a direct intervention force on behalf of the Assembly. / It is named after a long defunct organisation dating back more than a millennium from Earth.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |   |   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |   |   |   |   |   |   |   |   |   |   |   |   
+[[id:68be64ca-8477-4be5-b2c6-2d4ca90a1ade][Interpol]] provides multi-jurisdictional investigation. particularly
+across Alliance worlds, but also when an investigation strays
+beyond. In addition it provides support assets for individual Alliance
+forces when heavy backup is required.
+
+Internal affairs investigations for [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][Alliance]] organisations are also
+conducted by Interpol and upon request for member systems too.
+
+Numerically, Interpol is smaller than most systems police forces, but
+is well trained, well equipped and well respected, Interpol also acts
+as a direct intervention force on behalf of the Assembly.
+
+It is named after a long defunct organisation dating back more than a
+millennium from Earth.
 
 [[file:img/beacons/0235.png]]

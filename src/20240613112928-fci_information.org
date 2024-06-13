@@ -3,9 +3,27 @@
 :END:
 #+title: FCI Information
 #+filetags: :beacon:
-*     0231  FCI Information
+* 0231 FCI Information
 [[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]]  
 
-The Federal Criminal Investigations agency is the Federation's primary domestic security and law enforcement agency. They are numerically inferior to the state police but are better trained and equipped, and cross internal State boundaries. / They are primarily an investigative unit, although they do maintain significant enforcement units. The provide specialist operational support and police backup (like SWAT teams and undercover units) as well as more traditional support for state police forces. / There is a traditional rivalry between the FCI and the State police, but that doesn't prevent them working effectively together. / Its history goes back over a millennium, evolving out of the various security bureaus on Earth. Some rituals still remain, for example the ceremonies when its members are promoted retain an ancient, martial feel, relating to the FBI and FSB - organisations dating to a pre-Federation era - though in fact they don't really relate to them.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |   |   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |   |   |   |   |   |   |   |   |   |   |   |   
+The [[id:d36a4255-5e6b-4322-b40d-6b09529160fa][Federal Criminal Investigations]] agency is the Federation's primary
+domestic security and law enforcement agency. They are numerically
+inferior to the state police but are better trained and equipped, and
+cross internal State boundaries.
 
+They are primarily an investigative unit, although they do maintain
+significant enforcement units. The provide specialist operational
+support and police backup (like SWAT teams and undercover units) as
+well as more traditional support for state police forces.
+
+There is a traditional rivalry between the FCI and the State police,
+but that doesn't prevent them working effectively together.
+
+Its history goes back over a millennium, evolving out of the various
+security bureaus on Earth. Some rituals still remain, for example the
+ceremonies when its members are promoted retain an ancient, martial
+feel, relating to the FBI and FSB - organisations dating to a
+pre-Federation era - though in fact they don't really relate to them.
+
+[[file:img/beacons/0231.png]]
 [[file:img/beacons/0231B.png]]

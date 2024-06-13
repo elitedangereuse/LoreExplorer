@@ -3,9 +3,31 @@
 :END:
 #+title: Ecological Loss
 #+filetags: :beacon:
-*     0169  Ecological Loss
+* 0169 Ecological Loss
 [[id:da11b7b5-2c5a-4f17-9cd4-ce28a2f34dbd][Tau Ceti]]  
 
-The issue of what to do about alien life became a queston of real significance the day humans first set foot on Tau Ceti 3. The early colony found itself battling to survive and adapt in a challending environment. The priority of preserving the indigneuous life was secondary to preserving the lives of the colonists themselves, and indigenous life was suffering due to being out-competed by imported but feral Earth life forms (bot intentionally (pets, crops) and accidentally (disease etc.) imported). This hardy 'survival' attitude did not abate as things grew easier and the colonist, led by John Taylor, saw the environment as something to master. When automated agricultural systems came online, hunting, which had been a necessity, became a trade. Taylor was elected civilian administrator in 2161 and immediately pushed for the colony to become fully independent from Earth. In repsonse and at the behest of the mission's corporate backers, Earth sent a delegation to Tau Ceti 3 to scrutinise its practices. What they found was widespread active destruction of the planet's native ecosystem. The Authority for Ecological Control issued guideleines for habitat conservation and recommended a second mission be sent in twelve months to judge if any improvements had been made. When this arrived in 2163 and found the situation had grown worse, trade sanctions were recommended and imposed. This further strengthened the hand of Taylor who in 2165 proposed a referendum on independence, which was narrowly defeated in the colonial forum.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |   |   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |   |   |   |   |   |   
+The issue of what to do about alien life became a queston of real
+significance the day humans first set foot on Tau Ceti 3. The early
+colony found itself battling to survive and adapt in a challending
+environment. The priority of preserving the indigneuous life was
+secondary to preserving the lives of the colonists themselves, and
+indigenous life was suffering due to being out-competed by imported
+but feral Earth life forms (bot intentionally (pets, crops) and
+accidentally (disease etc.) imported). This hardy 'survival' attitude
+did not abate as things grew easier and the colonist, led by [[id:a4ba2bf5-102c-4593-b99c-a35616993d58][John
+Taylor]], saw the environment as something to master. When automated
+agricultural systems came online, hunting, which had been a necessity,
+became a trade. Taylor was elected civilian administrator in 2161 and
+immediately pushed for the colony to become fully independent from
+Earth. In repsonse and at the behest of the mission's corporate
+backers, Earth sent a delegation to Tau Ceti 3 to scrutinise its
+practices. What they found was widespread active destruction of the
+planet's native ecosystem. The Authority for Ecological Control issued
+guideleines for habitat conservation and recommended a second mission
+be sent in twelve months to judge if any improvements had been
+made. When this arrived in 2163 and found the situation had grown
+worse, trade sanctions were recommended and imposed. This further
+strengthened the hand of Taylor who in 2165 proposed a referendum on
+independence, which was narrowly defeated in the colonial forum.
 
 [[file:img/beacons/0169B.png]]

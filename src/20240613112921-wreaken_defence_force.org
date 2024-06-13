@@ -1,11 +1,24 @@
 :PROPERTIES:
 :ID:       acc63f52-1101-4a91-8a47-9f52c9f74540
+:ROAM_ALIASES: WCM
 :END:
 #+title: Wreaken Defence Force
 #+filetags: :beacon:
-*     0219  Wreaken Defence Force
-| [[id:bb8ac014-a3ac-4564-9c3a-7aaff6536d59][Zearla   
+* 0219 Wreaken Defence Force
+[[id:bb8ac014-a3ac-4564-9c3a-7aaff6536d59][Zearla]]
 
-WCM is a major customer of Sirius Mining, making exclusive use of their equipment, under a long term mutually beneficial deal. / Wreaken operate their own fleet of Federal Cutters and smaller ships to provide protection to their many installations, but in extreme cases can call for backup from the Sirius Navy under its commercial relationship - so it is not unheard of for a Sirius battlefleet to back up a Wreaken defence force. Wreaken pays for this service, but it has decided die to the distributed nature of their installations, it is not cost effective to operate its own cruisers. / Many of the ores WCM mines are refined on site, so sale of refined alloys is a big part of their business.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |   |   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |   |   |   |   |   |   |   |   |   |   |   |   
+WCM is a major customer of [[id:82acae23-bcb1-4f26-bcd4-322220d707f9][Sirius Mining]], making exclusive use of
+their equipment, under a long term mutually beneficial deal.
+
+Wreaken operate their own fleet of Federal Cutters and smaller ships
+to provide protection to their many installations, but in extreme
+cases can call for backup from the [[id:3dd2f3c7-3ddf-4900-aa28-580344edd509][Sirius Navy]] under its commercial
+relationship - so it is not unheard of for a Sirius battlefleet to
+back up a Wreaken defence force. Wreaken pays for this service, but it
+has decided die to the distributed nature of their installations, it
+is not cost effective to operate its own cruisers.
+
+Many of the ores WCM mines are refined on site, so sale of refined
+alloys is a big part of their business.
 
 [[file:img/beacons/0219.png]]

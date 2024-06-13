@@ -3,9 +3,29 @@
 :END:
 #+title: Faulcon Delacy's Beginnings
 #+filetags: :beacon:
-*     0223  Faulcon Delacy's Beginnings
+* 0223 Faulcon Delacy's Beginnings
 [[id:0da8edee-c8ff-4aed-9ff9-ce8ae998bef3][Reorte]]  
 
-One of the most famous names in the history of interstellar exploration. The corporation began life as a much smaller organisation. Faulcon Manspace, a military supply organisation based on Reorte. They first rose to prominencse when they developed a new fighter craft they christined the Viper. / In this new era of the emerging interstellar privateer, Faulcon Manspace devoted its production to Vipers, but worked on a number of other designs too. / Faulcon Manspace merged with deLacy ShipWorks in 3034, one of the many shipyards building Faulcon ships under license. / One of the first new products from the merged company was the troubled Cobra MkII. This was an upgraded version of the now very dated Cobra MkI, but was not especially successful and was soon withdrawn. / Despite this, the new company grew into a corporate behemoth, and went from strength to strength, launching the Cobra MkIII to great acclaim in 3100.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |   |   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |   |   |   |   |   |   |   |   |   |   |   |   
+One of the most famous names in the history of interstellar
+exploration. The corporation began life as a much smaller
+organisation. Faulcon Manspace, a military supply organisation based
+on Reorte. They first rose to prominencse when they developed a new
+fighter craft they christined the Viper.
 
+In this new era of the emerging interstellar privateer, Faulcon
+Manspace devoted its production to Vipers, but worked on a number of
+other designs too.
+
+[[id:6da1c424-2b8f-4612-9c68-415c9ce6aed7][Faulcon Manspace]] merged with [[id:2d15cbf6-9087-4a09-8e24-a31b6b404ad8][deLacy ShipWorks]] in 3034, one of the many
+shipyards building Faulcon ships under license.
+
+One of the first new products from the merged company was the troubled
+Cobra MkII. This was an upgraded version of the now very dated Cobra
+MkI, but was not especially successful and was soon withdrawn.
+
+Despite this, the new company grew into a corporate behemoth, and went
+from strength to strength, launching the Cobra MkIII to great acclaim
+in 3100.
+
+[[file:img/beacons/0223.png]]
 [[file:img/beacons/0223B.png]]

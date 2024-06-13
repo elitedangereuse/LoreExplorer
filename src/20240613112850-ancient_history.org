@@ -3,13 +3,26 @@
 :END:
 #+title: Ancient History
 #+filetags: :beacon:
-*     0165  Ancient History
+* 0165 Ancient History
 [[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]]  
 
-Mankind's first ventures into space were tentative and gradual. The early part of the 21st century saw the first manned spaceflights beyond the moon, but it took major population and economic problems to stimulate enough commercial commeitment to start settlements beyond Earth.
+Mankind's first ventures into space were tentative and gradual. The
+early part of the 21st century saw the first manned spaceflights
+beyond the moon, but it took major population and economic problems to
+stimulate enough commercial commeitment to start settlements beyond
+Earth.
 
-The Third World War saw this exploration expenditure dragged back again and it wasn't until the very end of the 21st century that colonies on Mars and the Moon became truly permanent and viable.
+The Third World War saw this exploration expenditure dragged back
+again and it wasn't until the very end of the 21st century that
+colonies on Mars and the Moon became truly permanent and viable.
 
-After the war, the dominant power was the United States of the Americas, and as the remaining other countries joined it over the next few decades, it was renamed the Federation of the United States and later "The Federation" as the implied reference to one of the pre-war powers was a block to the remaining countries joining it. It had a constitution and laws derived from the earlier powers, but much simplified.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |   |   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |   |   |   |   |   |   
+After the war, the dominant power was the United States of the
+Americas, and as the remaining other countries joined it over the next
+few decades, it was renamed the Federation of the United States and
+later "[[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][The Federation]]" as the implied reference to one of the pre-war
+powers was a block to the remaining countries joining it. It had a
+constitution and laws derived from the earlier powers, but much
+simplified.
 
+[[file:img/beacons/0165.png]]
 [[file:img/beacons/0165B.png]]

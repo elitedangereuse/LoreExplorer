@@ -3,9 +3,26 @@
 :END:
 #+title: Logistical Nightmare
 #+filetags: :beacon:
-*     0177  Logistical Nightmare
+* 0177 Logistical Nightmare
 [[id:0db1f0b9-a70d-4384-96a5-c1587a8270b1][Beta Hydri]]  
 
-In the fall of 2323, the fleet journeyed from its staging area at Beta Hydri towards the Achenar system over a period of several weeks. The systems between Achenar and Beta Hydri were largely unexplored at the time, with only a few embryonic colonies at the beginning of the journey incapable of supplying the Federal fleet other than by scooping fuel. This caused Admiral Morgan considerable logistical difficulties and forced him to move only as fast as the slowest ship, with many turning back. / The fleet eventually arrived in the Achenaar system at the start of 2324. Morgan had anticipated resistance and judging his supplies of fuel, he elected to confront the enemy on one decisive battle on the edge of the system. He didn't have a great deal of choice. Smuggled intelligence allow the defending forces to anticipate the arrival position and the defenders were expecting a fight. What they hadn't predicted was their enemy to use their pack hunting formation against them.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |   |   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |   |   |   |   |   |   
+In the fall of 2323, the fleet journeyed from its staging area at Beta
+Hydri towards the Achenar system over a period of several weeks. The
+systems between Achenar and Beta Hydri were largely unexplored at the
+time, with only a few embryonic colonies at the beginning of the
+journey incapable of supplying the Federal fleet other than by
+scooping fuel. This caused [[id:5caaba91-48cf-45ce-93ef-0248f7e08e70][Admiral Morgan]] considerable logistical
+difficulties and forced him to move only as fast as the slowest ship,
+with many turning back.
 
+The fleet eventually arrived in the [[id:bed8c27f-3cbe-49ad-b86f-7d87eacf804a][Achenar]] system at the start
+of 2324. Morgan had anticipated resistance and judging his supplies of
+fuel, he elected to confront the enemy on one decisive battle on the
+edge of the system. He didn't have a great deal of choice. Smuggled
+intelligence allow the defending forces to anticipate the arrival
+position and the defenders were expecting a fight. What they hadn't
+predicted was their enemy to use their pack hunting formation against
+them.
+
+[[file:img/beacons/0177.png]]
 [[file:img/beacons/0177B.png]]

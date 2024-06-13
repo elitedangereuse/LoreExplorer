@@ -2,4 +2,5 @@
 :ID:       c921a096-a8b0-4ebd-acce-c69bbd5ae4e8
 :END:
 #+title: Walter Argent
+#+filetags: :Individual:
 

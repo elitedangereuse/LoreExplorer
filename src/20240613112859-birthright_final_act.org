@@ -3,9 +3,25 @@
 :END:
 #+title: Birthright Final Act
 #+filetags: :beacon:
-*     0183  Birthright Final Act
-| [[id:f0fea079-ca2f-420e-8dce-e69ca46ae126][Anlave   
+* 0183 Birthright Final Act
+[[id:f0fea079-ca2f-420e-8dce-e69ca46ae126][Anlave]]
 
-The commercial race in starship innovation together with increased funding from the Birthright Wars allowed the Federation to renew and centralise its military power. In the past, mobilising a fleet had required mustering resources from each member system, but generous corporate charters authorised different corporations to build an maintain centralised fleets. The first of this was commissioned and trained at Anlave in 2702, providing a much needed new purpose for the ruined agricultural system. These could be deployed much more efficiently against the Federation's enemies. / Anlave was the site for the final act in the Birthright Wars. Exiled descendants of displaced original colonists, invaded the system in 2708, and bombarded the Naval Academy at Anderton, obliterating it. A battlefleet of privateers descended on the system, but were beaten back by a spirited and shrewd tactician; Admiral Ghenkis B'nami. It was believed at the time that Imperial finance had sponsored the coup, but no link was ever proven, and this is now seen as scaremongering.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |   |   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |   |   |   |   |   |   
+The commercial race in starship innovation together with increased
+funding from the [[id:fcf3d94e-5acb-473a-a89a-fed30e6e9d05][Birthright Wars]] allowed the [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][Federation]] to renew and
+centralise its military power. In the past, mobilising a fleet had
+required mustering resources from each member system, but generous
+corporate charters authorised different corporations to build an
+maintain centralised fleets. The first of this was commissioned and
+trained at Anlave in 2702, providing a much needed new purpose for the
+ruined agricultural system. These could be deployed much more
+efficiently against the Federation's enemies.
+
+Anlave was the site for the final act in the Birthright Wars. Exiled
+descendants of displaced original colonists, invaded the system in
+2708, and bombarded the Naval Academy at [[id:57143d9c-965c-4fb0-bd42-2b45e4589ae8][Anderton]], obliterating it. A
+battlefleet of privateers descended on the system, but were beaten
+back by a spirited and shrewd tactician; Admiral [[id:dd72cef0-b1f5-4d3e-ba1a-6df0f944138d][Ghenkis B'nami]]. It
+was believed at the time that Imperial finance had sponsored the coup,
+but no link was ever proven, and this is now seen as scaremongering.
 
 [[file:img/beacons/0183B.png]]
