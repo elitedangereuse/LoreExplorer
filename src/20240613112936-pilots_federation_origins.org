@@ -3,9 +3,35 @@
 :END:
 #+title: Pilots Federation Origins
 #+filetags: :beacon:
-*     0244  Pilots Federation Origins
+* 0244 Pilots Federation Origins
 [[id:c6b67ab9-66c5-4636-a978-2ca3a9ab012c][Shinrarta Dezhra]]
 
-The Pilots Federation has existed for a very long time. It was founded in 2805 during the great surge of private ownership of small starships enabled by the hugely competitive modular ship designs made available during the previous decades. / It was founded as much as a way of agreeing prices for ship parts en masse (where member benefit from group discounts), but soon becane much more, providing a system where trusted pilots could share route information and protect each other from a new scourge - also enabled ny the proliferation of small starships - of interstellar piracy. Over the years an unofficial tally of pirate kills amongst some members began as 'bragging rights' but soon members started showing their kills on their online IDs, and before long those without such a rating were referred to as 'Harmless' - and by implication not so desirable to provide cover on a route known for pirate attacks. / Gradually, the Pilots Federation grew to encompass a great many pilot-owners and their ships. It also provided an element of respectability as the itinerant nature of their lifestyles had started to bring suspicion amongst planet-siders - where the lack of accountability of space farers brought about by their ability to simply move on to a different system before the law caught up with them gave them a bit of a reputation as cowboys or as thieves in certain places. The Pilots Federation would not tolerate dishonourable behaviour among its members, and so such members would wear the PF's logo with pride - earning them a little respect in their dealings, and an antidote to the cowboy image.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |   |   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |   |   |   |   |   |   |   |   |   |   |   |   
+[[id:131aabdf-0ed8-4ce2-beec-94c77a8c41d2][The Pilots Federation]] has existed for a very long time. It was founded
+in 2805 during the great surge of private ownership of small starships
+enabled by the hugely competitive modular ship designs made available
+during the previous decades.
+
+It was founded as much as a way of agreeing prices for ship parts en
+masse (where member benefit from group discounts), but soon becane
+much more, providing a system where trusted pilots could share route
+information and protect each other from a new scourge - also enabled
+ny the proliferation of small starships - of interstellar piracy. Over
+the years an unofficial tally of pirate kills amongst some members
+began as 'bragging rights' but soon members started showing their
+kills on their online IDs, and before long those without such a rating
+were referred to as 'Harmless' - and by implication not so desirable
+to provide cover on a route known for pirate attacks.
+
+Gradually, the Pilots Federation grew to encompass a great many
+pilot-owners and their ships. It also provided an element of
+respectability as the itinerant nature of their lifestyles had started
+to bring suspicion amongst planet-siders - where the lack of
+accountability of space farers brought about by their ability to
+simply move on to a different system before the law caught up with
+them gave them a bit of a reputation as cowboys or as thieves in
+certain places. The Pilots Federation would not tolerate dishonourable
+behaviour among its members, and so such members would wear the PF's
+logo with pride - earning them a little respect in their dealings, and
+an antidote to the cowboy image.
 
 [[file:img/beacons/0244B.png]]

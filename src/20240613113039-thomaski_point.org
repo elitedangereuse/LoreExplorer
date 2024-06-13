@@ -3,7 +3,7 @@
 :END:
 #+title: Thomaski Point
 #+filetags: :beacon:
-*     0708  Thomaski Point
+* 0708 Thomaski Point
 [[id:b641744b-4037-4e0d-b0d7-c470991111e7][Slaiyooe OX-L d7-0]]
 
 CMDR Thomaski was a rare kind of man. Thoughtful, kind, empathetic and
@@ -21,7 +21,7 @@ family and wingmates for years to come, and we hope that upon finding
 this beacon you will be inspired to achieve your goals and reach for
 the stars, just like CMDR Thomaski would have wanted.
 
-o7, Commander. We'll see you in the black.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |   |   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   
-[[
-file:img/beacons/0708.png]]
+o7, Commander. We'll see you in the black.
+
+[[file:img/beacons/0708.png]]
 [[file:img/beacons/0708B.png]]

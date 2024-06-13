@@ -2,4 +2,5 @@
 :ID:       d8e3667c-3ba1-43aa-bc90-dac719c6d5e7
 :END:
 #+title: Zemina Torval
+#+filetags: :Individual:
 
