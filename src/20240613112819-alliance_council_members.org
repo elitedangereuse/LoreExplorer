@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       90a69fb4-2557-4c80-80b4-acfb3543fb10
+:END:
+#+title: Alliance Council Members
+#+filetags: :beacon:
+* 0116 Alliance Council Members
+[[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]]
+
+Each Alliance Member State has a number of Council Members within the
+Alliance Assembly, based on the size of their respective
+populations. Some only have one. The Prime Minister is elected by the
+Members, and it is his or her job to corral them into some sort of
+consensus; generally a slow process. There is much less tradition than
+in the other powers, and processes within the Alliance Assembly are
+still subject to change - generally when arguments break out, as they
+frequently do. In practice the Alliance is largely run by Civil
+Servants - salaried officials that look after day to day running of
+the Alliance, generally not getting involved in the political
+struggles.
+
+The Alliance Defence Force is run by the six member Council of
+Admirals, independently from the Council of Members, but reporting to
+it after the event, to facilitate rapid decision-making. Each of the
+Admirals is from a key contributing Navy.
+
+[[file:img/beacons/116.png]]
+[[file:img/beacons/116B.png]]

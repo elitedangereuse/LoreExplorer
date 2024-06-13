@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       17d9294e-7759-4cf4-9a67-5f12b5704f51
+:END:
+#+title: Alliance Defence Force
+#+filetags: :beacon:
+* 0114 Alliance Defence Force
+[[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]]
+
+Barring the small Alliance Defence Force for defending key components
+of the Alliance bureaucracy there is no central Alliance Navy to
+compare with the other major powers. Instead a headquarters
+organisation exists staffed by the Council of Admirals and their
+support staff.
+
+The Alliance Defence Force is essentially a small rapid deployment
+force made up of ships from the member navies, and is maintained under
+the command of the Council of Admirals to respond to any crisis -
+humanitarian and military.
+
+In an emergency additional forces would be provided by member navies
+if the Council of Admirals makes an emergency appeal to the Assembly.
+
+[[file:img/beacons/0114.png]]

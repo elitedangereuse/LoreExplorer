@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       39e72fd5-ea91-4537-b091-554b678e69a0
+:END:
+#+title: Alioth History
+#+filetags: :beacon:
+* 0115 Alioth History
+[[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]]
+
+After the war between Achenar and the Federation concluded in 2380,
+the Federation looked to find new resources elsewhere. In 2398, the
+first of a new wave of colonial missions was sent to the outermost
+sectors in the opposite direction to the Empire and Lave.
+
+Alioth was colonised in 2452. Survey data and reports had already
+indicated the rich resources of the system before settlement, but the
+resources proved richer than expected.
+
+The first colonial settlement in the system was known as 'Fruitcake',
+the name given owing to the loamy consistency of the planetary surface
+and its propensity for small mineral deposits.
+
+[[file:img/beacons/0115.png]]
