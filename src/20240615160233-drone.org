@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       dd5c81e6-b181-445f-a15d-45fe9a788561
+:END:
+#+title: drone
+

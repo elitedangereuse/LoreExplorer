@@ -25,6 +25,7 @@
 * People
   - [[id:0be96028-d995-4b52-8bb0-34f21e080bce][John Jameson]]
   - [[id:8f63442a-1f38-457d-857a-38297d732a90][Ishmael Palin]]
+  - [[id:0e8f9924-e230-4390-aa79-5dba76c6e6d2][Uri Anslow]]
   - [[id:9a8a2b74-f7e3-4d1b-abfd-82b91b1d6481][The Order Of The Far God]]
 * Enemies
   - [[id:f57cff55-3348-45ea-b76f-d0eaa3c68165][Guardians]]
@@ -60,9 +61,9 @@ Federal Government and an Imperial decree. Some controversy over the
 backing and funding of the INRA remains, however.
 
 *** Society
-The INRA discovered that Thargoid society is organised into hives,
-with most Thargoids falling into three categories - queens, princesses
-and drones. Queens function as reproducers, while drones serve to
+The INRA discovered that Thargoid society is organised into [[id:cf8efef4-6db7-4780-9b79-6321b738adfc][hives]],
+with most Thargoids falling into three categories - [[id:f9130ae0-4c2b-41d4-8e7f-7256049dba64][queens]], [[id:c169f30d-eb80-4018-9bfe-d21c3db10ef9][princesses]]
+and [[id:dd5c81e6-b181-445f-a15d-45fe9a788561][drones]]. Queens function as reproducers, while drones serve to
 maintain a favourable environment for the rest of the hive. Thargoid
 hives can be vast, although it may be that some of the larger observed
 groups are in fact multiple, overlapping hives. Ultimately, little is
@@ -100,7 +101,7 @@ communication was often cited in the early years of human-Thargoid
 interaction, but prior to the discovery of INRA records it was not
 fully understood.
 
-Professor Uri Anslow of the INRA theorised that a Thargoid queen can
+Professor [[id:0e8f9924-e230-4390-aa79-5dba76c6e6d2][Uri Anslow]] of the INRA theorised that a Thargoid queen can
 communicate with the drones in its hive via a spread-spectrum
 electronic signal, and can use this signal to control the drones, and
 even to share their sensory input. Studies of battlefield footage
@@ -166,7 +167,7 @@ extreme cold for far longer than a human.
 In 3151, the INRA developed a biological weapon known as they mycoid
 virus for use against the Thargoids. The virus was the result of an
 accidental discovery made by an INRA researcher, who noted that a
-particular strain of fungus was found to thrive on the hulls of
+particular strain of [[id:e475cce2-7c0d-4a32-a76b-2ad5a9731d5e][fungus]] was found to thrive on the hulls of
 Thargoid vessels, and appeared to be digesting the material of which
 the ship was made.
 
