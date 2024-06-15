@@ -2,5 +2,6 @@
 :ID:       166b8afc-8bee-4e9c-8b4c-784d410a786e
 :END:
 #+title: Elgii Sung
+#+filetags: :Individual:
 Replacement Site Manager at [[id:1a535540-491e-474a-acf8-c8ca1a81cfa5][Mayes Chemical Plant]]
 
