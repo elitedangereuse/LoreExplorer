@@ -1,0 +1,53 @@
+* Galactic News: Weekly Health Report
+
+/18 May 3303/
+
+This report presents the latest data on health issues among the galaxy’s minor factions. 
+
+Here are the latest factions to experience famine: 
+
+HIP 105577 Boys 
+
+Ololos Drug Empire 
+
+United Hatmehit Revolutionary Party 
+
+Hatmehit Purple Crew 
+
+Mooramoora Union Party 
+
+Quambo Free 
+
+Waime Worker's Party 
+
+Traditional Auste Dominion 
+
+HIP 116298 Jet Cartel 
+
+Values Party of HIP 42408 
+
+When a faction is affected by famine the standard of living in the system it controls temporarily decreases. Combat activity has no effect on influence while a famine is active. Completing food-trade missions can bring a famine to an end. 
+
+Here are the latest factions to experience an outbreak: 
+
+HIP 105577 One 
+
+Eravate Network 
+
+Kvenland Services 
+
+Left Party of HIP 43845 
+
+HIP 19773 Shared 
+
+Modgud Commodities 
+
+Independents of Jura Lungs 
+
+Aymifa Resistance 
+
+Traditional Siluruba Autocracy 
+
+Co-operative of Yiman 
+
+When a faction is affected by an outbreak the standard of living in the system it controls temporarily decreases. Combat activity has no effect on influence while an outbreak is active. Completing medicine-supply missions can bring an outbreak to an end.

@@ -1,0 +1,53 @@
+* Galactic News: Weekly Health Report
+
+/28 Dec 3302/
+
+This report presents the latest data on health issues among the galaxy's minor factions. 
+
+Here are the latest factions to experience famine: 
+
+Zeessze Clan 
+
+HIP 8593 Empire League 
+
+Junga Interstellar 
+
+HIP 73428 Exchange 
+
+Kvenland Services 
+
+Chicoana Silver Travel Corp. 
+
+LHS 1387 Jet Mob 
+
+Khakum Prison Colony 
+
+Parhul Silver Electronics Hldgs 
+
+Crowfor Liberty Party 
+
+When a faction is affected by famine the standard of living in the system it controls temporarily decreases. Combat activity has no effect on influence while a famine is active. Completing food-trade missions can bring a famine to an end. 
+
+Here are the latest factions to experience an outbreak: 
+
+Left Party of HIP 43845 
+
+HIP 105577 One 
+
+HIP 22145 Gold Mafia 
+
+Zeessze Clan 
+
+Siluruba Purple Transport Ltd 
+
+HIP 19773 Shared 
+
+Ololos Drug Empire 
+
+Purungurawn Purple Society 
+
+Traditional Auste Dominion 
+
+HIP 14759 Guardians of Tradition 
+
+When a faction is affected by an outbreak the standard of living in the system it controls temporarily decreases. Combat activity has no effect on influence while an outbreak is active. Completing medicine-supply missions can bring an outbreak to an end.

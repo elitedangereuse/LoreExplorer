@@ -1,0 +1,53 @@
+* Galactic News: Weekly Health Report
+
+/11 May 3303/
+
+This report presents the latest data on health issues among the galaxy’s minor factions. 
+
+Here are the latest factions to experience famine: 
+
+Kvenland Services 
+
+AG+21 1754 Citizen Party 
+
+Jamatia Central Corp. 
+
+Traditional Siluruba Autocracy 
+
+Marquis du HIP 110867 
+
+HIP 9610 Jet Legal Systems 
+
+Waime Worker's Party 
+
+HIP 115314 aristocrats 
+
+Nun Purple Mafia 
+
+Jet Fortune Exchange 
+
+When a faction is affected by famine the standard of living in the system it controls temporarily decreases. Combat activity has no effect on influence while a famine is active. Completing food-trade missions can bring a famine to an end. 
+
+Here are the latest factions to experience an outbreak: 
+
+Left Party of HIP 43845 
+
+Zeessze Clan 
+
+Eravate Network 
+
+Liberty Party of Zeessze 
+
+HIP 105577 Boys 
+
+HIP 19773 Shared 
+
+V886 Centauri Corporation 
+
+HIP 14759 Guardians of Tradition 
+
+Chet Crimson Society 
+
+Co-operative of Yiman 
+
+When a faction is affected by an outbreak the standard of living in the system it controls temporarily decreases. Combat activity has no effect on influence while an outbreak is active. Completing medicine-supply missions can bring an outbreak to an end.

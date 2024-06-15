@@ -1,0 +1,53 @@
+* Galactic News: Weekly Health Report
+
+/24 Aug 3303/
+
+This report presents the latest data on health issues among the galaxy’s minor factions. 
+
+Here are the latest factions to experience famine: 
+
+HIP 105577 One 
+
+HIP 5712 State Corp. 
+
+Kvenland Services 
+
+HIP 19773 Shared 
+
+Ololos Drug Empire 
+
+HIP 15545 Public Network 
+
+39 Tauri Cartel 
+
+HIP 116298 Jet Cartel 
+
+New CD-61 6801 Flag 
+
+Zhou Wang Blue Partnership 
+
+When a faction is affected by famine the standard of living in the system it controls temporarily decreases. Combat activity has no effect on influence while a famine is active. Completing food-trade missions can bring a famine to an end. 
+
+Here are the latest factions to experience an outbreak: 
+
+Kvenland Services 
+
+HIP 10570 Constitution Party 
+
+HIP 19773 Shared 
+
+Hatmehit Purple Crew 
+
+Aymifa Resistance 
+
+HIP 111486 First 
+
+Aonghus Co 
+
+Dulos Defence Party 
+
+Delta Phoenicis Limited 
+
+Chukchair Prison Colony 
+
+When a faction is affected by an outbreak the standard of living in the system it controls temporarily decreases. Combat activity has no effect on influence while an outbreak is active. Completing medicine-supply missions can bring an outbreak to an end.

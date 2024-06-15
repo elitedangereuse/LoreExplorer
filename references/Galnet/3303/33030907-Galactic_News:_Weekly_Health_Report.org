@@ -1,0 +1,53 @@
+* Galactic News: Weekly Health Report
+
+/07 Sep 3303/
+
+This report presents the latest data on health issues among the galaxy’s minor factions. 
+
+Here are the latest factions to experience famine: 
+
+HIP 5712 State Corp. 
+
+Siluruba Purple Transport Ltd 
+
+Liaedin Mafia 
+
+HIP 32350 Industries 
+
+Bureau of HIP 1914 Focus 
+
+HIP 15545 Public Network 
+
+HIP 116298 Jet Cartel 
+
+Zhu Veddi State Limited 
+
+Parhul Silver Electronics Hldgs 
+
+Zhou Wang Blue Partnership 
+
+When a faction is affected by famine the standard of living in the system it controls temporarily decreases. Combat activity has no effect on influence while a famine is active. Completing food-trade missions can bring a famine to an end. 
+
+Here are the latest factions to experience an outbreak: 
+
+Order of Ethgreze 
+
+Liberty Party of Zeessze 
+
+Kvenland Services 
+
+HIP 19773 Shared 
+
+Machatkwa Inc 
+
+Co-operative of HIP 49102 
+
+Green Party of Dulos 
+
+Delta Phoenicis Limited 
+
+People's Islastyara Revolutionary Party 
+
+Epsilon Phoenicis Forum 
+
+When a faction is affected by an outbreak the standard of living in the system it controls temporarily decreases. Combat activity has no effect on influence while an outbreak is active. Completing medicine-supply missions can bring an outbreak to an end.

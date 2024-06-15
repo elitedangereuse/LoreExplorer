@@ -1,0 +1,53 @@
+* Galactic News: Weekly Health Report
+
+/08 Feb 3303/
+
+This report presents the latest data on health issues among the galaxy's minor factions. 
+
+Here are the latest factions to experience famine: 
+
+Siluruba Purple Transport Ltd 
+
+HIP 22145 Gold Mafia 
+
+Kvenland Services 
+
+FK5 2550 PLC 
+
+HR 3954 Crew 
+
+Hajon Industries 
+
+HIP 9610 Jet Legal Systems 
+
+HIP 96289 Blue Major Inc 
+
+Kawal United Commodities 
+
+Sokat Values Party 
+
+When a faction is affected by famine the standard of living in the system it controls temporarily decreases. Combat activity has no effect on influence while a famine is active. Completing food-trade missions can bring a famine to an end. 
+
+Here are the latest factions to experience an outbreak: 
+
+Avan Labour Union 
+
+Kvenland Services 
+
+Order of Ethgreze 
+
+Aymifa Resistance 
+
+Green Party of Dulos 
+
+Traditional Siluruba Autocracy 
+
+Camorra of Waime 
+
+HIP 105639 Party 
+
+HIP 111486 First 
+
+Co-operative of HIP 49102 
+
+When a faction is affected by an outbreak the standard of living in the system it controls temporarily decreases. Combat activity has no effect on influence while an outbreak is active. Completing medicine-supply missions can bring an outbreak to an end.

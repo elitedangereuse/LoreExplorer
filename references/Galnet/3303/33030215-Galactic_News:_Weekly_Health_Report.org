@@ -1,0 +1,53 @@
+* Galactic News: Weekly Health Report
+
+/15 Feb 3303/
+
+This report presents the latest data on health issues among the galaxy's minor factions. 
+
+Here are the latest factions to experience famine: 
+
+Avan Labour Union 
+
+Green Party of HIP 103138 
+
+Kvenland Services 
+
+Bubii Rats 
+
+LTT 377 Purple General Corp. 
+
+FK5 2550 PLC 
+
+Hajon Industries 
+
+HIP 96289 Blue Major Inc 
+
+Sokat Values Party 
+
+Parhul Silver Electronics Hldgs 
+
+When a faction is affected by famine the standard of living in the system it controls temporarily decreases. Combat activity has no effect on influence while a famine is active. Completing food-trade missions can bring a famine to an end. 
+
+Here are the latest factions to experience an outbreak: 
+
+Avan Labour Union 
+
+Eravate Network 
+
+Eravate Life Services 
+
+Labour of Ethgreze 
+
+Order of Ethgreze 
+
+Eranin Peoples Party 
+
+Bodb Den Advanced Network 
+
+LHS 1387 Jet Mob 
+
+Hajon Industries 
+
+Camorra of Waime 
+
+When a faction is affected by an outbreak the standard of living in the system it controls temporarily decreases. Combat activity has no effect on influence while an outbreak is active. Completing medicine-supply missions can bring an outbreak to an end.

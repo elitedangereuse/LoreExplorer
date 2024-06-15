@@ -1,0 +1,53 @@
+* Galactic News: Weekly Health Report
+
+/01 Mar 3303/
+
+This report presents the latest data on health issues among the galaxy's minor factions. 
+
+Here are the latest factions to experience famine: 
+
+Avan Labour Union 
+
+Green Party of HIP 103138 
+
+HIP 105577 One 
+
+Kvenland Services 
+
+Bubii Rats 
+
+Leaders of BD-08 2963 
+
+Cuicatec Gold Power Co 
+
+HIP 105639 Party 
+
+Sokat Values Party 
+
+Parhul Silver Electronics Hldgs 
+
+When a faction is affected by famine the standard of living in the system it controls temporarily decreases. Combat activity has no effect on influence while a famine is active. Completing food-trade missions can bring a famine to an end. 
+
+Here are the latest factions to experience an outbreak: 
+
+Kvenland Services 
+
+Sokat Values Party 
+
+Labour of Nahuatl 
+
+Dilga Purple Mob 
+
+Suteruku Gold Clan 
+
+Party of Argen 
+
+Social Gabiko Liberals 
+
+Progressive Party of Djabe 
+
+HIP 28987 Empire Pact 
+
+Law Party of HIP 27371 
+
+When a faction is affected by an outbreak the standard of living in the system it controls temporarily decreases. Combat activity has no effect on influence while an outbreak is active. Completing medicine-supply missions can bring an outbreak to an end.

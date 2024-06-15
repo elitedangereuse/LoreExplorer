@@ -1,0 +1,53 @@
+* Galactic News: Weekly Expansion Report
+
+/06 Aug 3302/
+
+This report presents the latest data on expansion and withdrawal among the galaxy's minor factions. 
+
+Here are the latest factions to have expanded into new systems: 
+
+HIP 29596 Law Party 
+
+Istanu PLC 
+
+HIP 26990 Crimson Dynamic Corp 
+
+Wadjedet Guardians of Tradition 
+
+Iah Commodities 
+
+Yawa Blue Pirates 
+
+The Black Fleet 
+
+Alliance of LTT 5419 
+
+People's Cromovii Alliance 
+
+Kokoimudji Crimson Travel Ind 
+
+Expansions occur when a minor faction reaches a sufficient level of influence and there is a populated system within striking distance. Expansion is costly, so when a faction expands, the wealth and development level of the system it controls are temporarily reduced. 
+
+Here are the latest factions in withdrawal: 
+
+23 Arietis Gold Transport Ind 
+
+Koenpeiadal Energy Exchange 
+
+LTT 1678 Electronics Organisation 
+
+Chuang Kong Jet General and Co 
+
+Kormt Gold Federal Corporation	 
+
+Marowalan Progressive Party 
+
+Movement for Un No Myoin Free 
+
+Tsohock Legal Interstellar 
+
+Candecama Silver Bridge Org 
+
+Segou Mafia 
+
+Factions are considered to be in withdrawal if their level of influence within a system drops below a certain level. If the faction's influence remains low for a total of five days, the faction must leave the system entirely. If the faction manages to increase its level of influence, it remains in the system.

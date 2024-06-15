@@ -1,0 +1,53 @@
+* Galactic News: Weekly Expansion Report
+
+/23 Jul 3303/
+
+This report presents the latest data on expansion and withdrawal among the galaxy's minor factions. 
+
+Here are the latest factions to have expanded into new systems: 
+
+Ambivas Power Partners 
+
+G 99-49 Life Industry 
+
+Durius Dominion 
+
+Alliance of Yemakinni 
+
+Workers of Ahaykenkan Confederacy 
+
+Mentesuri Network 
+
+Coalition of Reieni 
+
+Khruvani Universal Organisation 
+
+Kwatyriel and Co 
+
+Aguane Shared 
+
+Expansions occur when a minor faction reaches a sufficient level of influence and there is a populated system within striking distance. Expansion is costly, so when a faction expands, the wealth and development level of the system it controls are temporarily reduced. 
+
+Here are the latest factions in withdrawal: 
+
+Order of Ethgreze 
+
+Firdaus Transport Company 
+
+Tau-2 Gruis A United Systems 
+
+Coalition of Djagana 
+
+Kotigen Natural Organisation 
+
+LTT 537 Future 
+
+Independents of HIP 22006 
+
+HIP 20916 Left Party 
+
+Lumbla Universal PLC 
+
+HIP 47058 Central Corp. 
+
+Factions are considered to be in withdrawal if their level of influence within a system drops below a certain level. If the faction's influence remains low for a total of five days, the faction must leave the system entirely. If the faction manages to increase its level of influence, it remains in the system.

@@ -1,0 +1,53 @@
+* Galactic News: Weekly Expansion Report
+
+/08 Apr 3303/
+
+This report presents the latest data on expansion and withdrawal among the galaxy's minor factions. 
+
+Here are the latest factions to have expanded into new systems: 
+
+Parhul Silver Electronics Hldgs  
+
+Allied Kui Xenab Regulatory State  
+
+Betel Free 
+
+League of Ross 1015  
+
+Defence Force of LHS 1122  
+
+Gliese 9106 Partners 
+
+Zhu Vedani Blue Transport Dev  
+
+New Rutujil People's Party  
+
+Haeduwong Systems  
+
+NLTT 8084 Natural Services 
+
+Expansions occur when a minor faction reaches a sufficient level of influence and there is a populated system within striking distance. Expansion is costly, so when a faction expands, the wealth and development level of the system it controls are temporarily reduced. 
+
+Here are the latest factions in withdrawal: 
+
+Eranin Peoples Party 
+
+Zugen Incorporated 
+
+Bodb Dearg Order  
+
+Confederation of Dahan  
+
+Peng Dung Jet Creative Network  
+
+Cegreeth Citizens' Forum  
+
+Bureau of Tetrian Liberty Party 
+
+Jaques  
+
+Eta Horologii Gold Vision PLC  
+
+HIP 117865 Empire Pact 
+
+Factions are considered to be in withdrawal if their level of influence within a system drops below a certain level. If the faction's influence remains low for a total of five days, the faction must leave the system entirely. If the faction manages to increase its level of influence, it remains in the system.
