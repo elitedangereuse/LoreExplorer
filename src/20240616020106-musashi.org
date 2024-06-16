@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       2730e920-30ee-435e-943b-d4124f257751
+:END:
+#+title: Musashi
+#+filetags: :ship:
+
+Megaship commanded by the Admiral [[id:7bca1ccd-649e-438a-ae56-fb8ca34e6440][Aden Tanner]]

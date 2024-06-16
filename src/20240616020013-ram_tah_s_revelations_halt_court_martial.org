@@ -1,0 +1,42 @@
+:PROPERTIES:
+:ID:       fb2899a0-eab0-4135-bc68-bceafac0763b
+:END:
+#+title: Ram Tah’s Revelations Halt Court Martial
+#+filetags: :galnet:
+
+* Ram Tah’s Revelations Halt Court Martial
+
+/05 Jan 3308/
+
+The military trial of Admiral [[id:7bca1ccd-649e-438a-ae56-fb8ca34e6440][Aden Tanner]] has been suspended following
+evidence provided by [[id:4551539e-a6b2-4c45-8923-40fb603202b7][Ram Tah]] as a witness for the defence.
+
+The [[id:3d268496-1d95-49bc-aca6-49d16a4337c8][Federal Navy]] tribunal was called to consider multiple charges –
+including mutiny – held against Tanner, the chief military liaison to
+Aegis. While commanding the [[id:2730e920-30ee-435e-943b-d4124f257751][Musashi]] megaship, he attempted to gain
+access to [[id:bcbf3f57-4e93-44a9-b569-833af0c51f2d][Hind Mine]] station and locate evidence regarding [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]’s
+anti-xeno [[id:6023377d-7271-49d1-80ec-ffab82dc8c29][superweapon]].
+
+Admiral Tanner’s defence attorney opened a live link with [[id:1129599f-efa9-4186-969e-eb09ae9d3c2d][Phoenix Base]]
+to allow Ram Tah to provide the following testimony:
+
+“We have analysed the classified experimental equipment that was
+recently delivered to enable Salvation’s superweapons. These
+components are near-identical to devices found at the [[id:bf8d2b98-a079-4384-a8a5-43ffdc926b7c][Proteus]] research
+facility on [[id:a94f42ec-d0a2-441b-884d-5d86b949cbb9][Trapezium Sector YU-X c1-2]]. In 3113, an [[id:e68a5318-bd72-4c92-9f70-dcdbd59505d1][Azimuth
+Biochemicals]] science team conducted weapons testing using [[id:f57cff55-3348-45ea-b76f-d0eaa3c68165][Guardian]]
+artefacts from this site, accidentally triggering a radiation surge
+which resulted in their deaths.”
+
+“My hypothesis is that Salvation has constructed large-scale versions
+of the Proteus design. These generate a powerful electromagnetic pulse
+at frequencies which disrupt the Thargoids’ bio-mechanical
+technology.”
+
+“It’s highly probable that this is based on an existing Guardian
+weapon discovered by the Proteus. This would explain why its presence
+within a system attracts Thargoid vessels.”
+
+The Federal Navy Criminal Court announced that Admiral Tanner’s court
+martial has been temporarily suspended while the new evidence is
+reviewed.
