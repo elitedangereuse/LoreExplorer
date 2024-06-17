@@ -2,7 +2,7 @@
 
 ## English
 
-[v2.40](https://hosting.zaonce.net/elite/website/assets/English-PlayersGuide-Latest.pdf)
+[2.40](https://hosting.zaonce.net/elite/website/assets/English-PlayersGuide-Latest.pdf)
 [2.00](https://hosting.zaonce.net/elite/website/assets/English-PlayersGuide_v2.00-Horizons.pdf)
 [1.05](https://hosting.zaonce.net/elite/website/assets/ELITE-DANGEROUS-GAME-MANUAL.pdf)
 [1.03](https://hosting.zaonce.net/elite/website/assets/ELITE-DANGEROUS-MANUAL.pdf)

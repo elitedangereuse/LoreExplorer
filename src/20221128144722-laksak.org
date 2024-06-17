@@ -1,5 +1,6 @@
-:PROPERTIES:
+*:PROPERTIES:
 :ID:       594f8824-f69f-4dc5-806f-ff217e07704c
 :END:
 #+title: Laksak
+#+filetags: :System:
 

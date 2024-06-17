@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       17d9294e-7759-4cf4-9a67-5f12b5704f51
+:ROAM_ALIASES: ADF
 :END:
 #+title: Alliance Defence Force
 #+filetags: :beacon:
