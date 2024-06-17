@@ -2,9 +2,10 @@
 :ID:       e483f87f-540e-4f2b-8211-a8d46f2b41e3
 :ROAM_ALIASES: "Brookes Memorial Series - Beacon 5/5"
 :END:
-#+title: Tourist Beacon 0749
-* SURROUNDED BY WONDER
-Tourist Spot 0749
+#+title: Surrounded By Wonder
+#+filetags: :tourist:beacon:
+* 0749 Surrounded By Wonder
+
 Brookes Memorial Series - Beacon 5/5
 "Where Michael rests now is a matter of rumour.
 
@@ -20,3 +21,5 @@ If anybody knows the way to Raxxla, [[id:e9a37bf8-a24d-4fb9-9dc2-77a87576aad7][M
 And fast by, hanging in a [[id:27964f14-3085-4c0b-b763-76c17350c55b][golden chain]],
 This [[id:dc011cdb-9d33-40ff-b1b4-428606d63f0c][pendent]] world, in [[id:d8eaae10-864d-4e6d-888b-4bacca5e3828][bigness]] as a [[id:91031d1d-989a-4367-a33a-7e915ed55bda][star]]
 Of smallest [[id:690aa306-3779-472b-a20c-0cf77fa79297][magnitude]], close by the [[id:e998c95c-a76f-4312-a8c2-3a8706232ae9][moon]].
+
+[[file:img/brookes.png]]

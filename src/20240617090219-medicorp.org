@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       bdc3ce37-5181-4793-9bb4-da5cd3563894
+:END:
+#+title: MediCorp
+#+filetags: :Faction:
+
+Player faction
+
+[[file:/img/factions/medicorp.png]]

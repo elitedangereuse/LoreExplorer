@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       82004cc8-48f5-4990-916d-43d91b757921
+:END:
+#+title: Kalak
+#+filetags: :System:
+
+Home of [[id:bdc3ce37-5181-4793-9bb4-da5cd3563894][MediCorp]]
