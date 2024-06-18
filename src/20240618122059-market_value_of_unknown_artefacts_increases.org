@@ -2,7 +2,7 @@
 :ID:       f8dd3e32-6a97-414f-972c-c67c3a80a7db
 :END:
 #+title: Market Value of Unknown Artefacts Increases
-#+filetags: :galnet:
+#+filetags: :3301:galnet:
 
 * Market Value of Unknown Artefacts Increases
 

@@ -2,7 +2,7 @@
 :ID:       c40fd613-e1f6-4fd7-ac9b-cccc42837656
 :END:
 #+title: Pirates Prospering in Tanmark
-#+filetags: :galnet:
+#+filetags: :3301:galnet:
 
 * Pirates Prospering in Tanmark
 

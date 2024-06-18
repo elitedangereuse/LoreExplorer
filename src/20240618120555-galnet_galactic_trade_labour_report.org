@@ -2,7 +2,7 @@
 :ID:       8f019226-aea0-4f2b-9963-2587f165d54f
 :END:
 #+title: GalNet Galactic Trade-Labour Report
-#+filetags: :galnet:
+#+filetags: :3301:galnet:
 
 * GalNet Galactic Trade-Labour Report
 

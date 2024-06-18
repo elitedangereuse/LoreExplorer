@@ -2,7 +2,7 @@
 :ID:       6978e326-fd5b-4f5f-9ab5-47aff991d186
 :END:
 #+title: Sirius Exploration Survey Completes
-#+filetags: :galnet:
+#+filetags: :3301:galnet:
 
 * Sirius Exploration Survey Completes
 

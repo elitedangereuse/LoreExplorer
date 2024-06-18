@@ -2,7 +2,7 @@
 :ID:       7e7dc392-7dab-4371-a235-eff5dd5cc77b
 :END:
 #+title: The St. Valentine's Day Regatta
-#+filetags: :galnet:
+#+filetags: :3301:galnet:
 
 * The St. Valentine's Day Regatta
 

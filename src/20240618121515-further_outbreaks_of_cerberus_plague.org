@@ -2,7 +2,7 @@
 :ID:       f32b641c-ec90-49a2-9f0c-9509bded6237
 :END:
 #+title: Further Outbreaks of Cerberus Plague
-#+filetags: :galnet:
+#+filetags: :3301:galnet:
 
 * Further Outbreaks of Cerberus Plague
 

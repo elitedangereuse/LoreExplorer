@@ -2,7 +2,7 @@
 :ID:       d5e7fbad-c061-4074-988b-25cc8745c5d4
 :END:
 #+title: Technical Trouble in 49 Arietis
-#+filetags: :galnet:
+#+filetags: :3301:galnet:
 
 * Technical Trouble in 49 Arietis
 

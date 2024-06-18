@@ -2,7 +2,7 @@
 :ID:       2e2aa34d-3ce2-4809-87d4-688157040d20
 :END:
 #+title: Technical Issues in 64 Arietis
-#+filetags: :galnet:
+#+filetags: :3301:galnet:
 
 * Technical Issues in 64 Arietis
 

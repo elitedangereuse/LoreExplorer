@@ -2,7 +2,7 @@
 :ID:       97b3ff13-135e-4ff1-9468-91f9a6acc681
 :END:
 #+title: Increased Security on Capitol
-#+filetags: :galnet:
+#+filetags: :3301:galnet:
 
 * Increased Security on Capitol
 

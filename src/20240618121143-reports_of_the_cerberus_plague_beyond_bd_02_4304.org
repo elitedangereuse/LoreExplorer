@@ -2,7 +2,7 @@
 :ID:       033b4451-6933-477b-9145-2829c5a52590
 :END:
 #+title: Reports of the Cerberus Plague beyond BD-02 4304
-#+filetags: :galnet:
+#+filetags: :3301:galnet:
 
 * Reports of the Cerberus Plague beyond BD-02 4304
 

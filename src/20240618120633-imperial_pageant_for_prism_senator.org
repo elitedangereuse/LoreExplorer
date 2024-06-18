@@ -2,7 +2,7 @@
 :ID:       fafc37aa-e11e-451b-9144-b7bd4e62f55b
 :END:
 #+title: Imperial Pageant for Prism Senator
-#+filetags: :galnet:
+#+filetags: :3301:galnet:
 
 * Imperial Pageant for Prism Senator
 

@@ -2,7 +2,7 @@
 :ID:       807f551f-6ec9-4c95-8a9d-13fda295d385
 :END:
 #+title: Open Osmium Contract in Abres
-#+filetags: :galnet:
+#+filetags: :3301:galnet:
 
 * Open Osmium Contract in Abres
 

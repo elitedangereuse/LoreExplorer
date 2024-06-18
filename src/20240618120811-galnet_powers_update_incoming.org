@@ -2,7 +2,7 @@
 :ID:       259da90d-593f-4229-8093-f43b0c0d197d
 :END:
 #+title: GalNet Powers Update Incoming
-#+filetags: :galnet:
+#+filetags: :3301:galnet:
 
 * GalNet Powers Update Incoming
 

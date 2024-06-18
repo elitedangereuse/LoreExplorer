@@ -2,7 +2,7 @@
 :ID:       0f891b0d-4a8f-4aaf-a0e7-8ae9e31019c0
 :END:
 #+title: Pirates Targeting Medical Supply Ships
-#+filetags: :galnet:
+#+filetags: :3301:galnet:
 
 * Pirates Targeting Medical Supply Ships
 

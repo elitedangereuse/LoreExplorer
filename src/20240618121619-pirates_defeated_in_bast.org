@@ -2,7 +2,7 @@
 :ID:       1d6272de-613d-4072-a1b5-1bcda40928ef
 :END:
 #+title: Pirates Defeated in Bast
-#+filetags: :galnet:
+#+filetags: :3301:galnet:
 
 * Pirates Defeated in Bast
 

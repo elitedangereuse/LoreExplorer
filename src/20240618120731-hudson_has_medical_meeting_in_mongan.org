@@ -2,7 +2,7 @@
 :ID:       39f3cf8a-662e-445e-b5ab-01b3fa23b13b
 :END:
 #+title: Hudson has Medical Meeting in Mongan
-#+filetags: :galnet:
+#+filetags: :3301:galnet:
 
 * Hudson has Medical Meeting in Mongan
 

@@ -2,7 +2,7 @@
 :ID:       3d7adc92-f1b6-411a-830d-518ff8353e5c
 :END:
 #+title: NVIDIA GeForce GTX Titan Black Prototypes Revealed
-#+filetags: :galnet:
+#+filetags: :3301:galnet:
 
 * NVIDIA GeForce GTX Titan Black Prototypes Revealed
 

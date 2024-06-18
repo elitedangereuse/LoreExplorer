@@ -2,7 +2,7 @@
 :ID:       c087647b-8183-4082-ade2-598a76a5f221
 :END:
 #+title: Lambda Andromedae: Bringing Data Home
-#+filetags: :galnet:
+#+filetags: :3301:galnet:
 
 * Lambda Andromedae: Bringing Data Home
 

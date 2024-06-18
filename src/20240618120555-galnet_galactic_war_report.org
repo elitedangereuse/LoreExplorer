@@ -2,7 +2,7 @@
 :ID:       70a9c35e-9957-4617-9a83-9e792ea1d8fd
 :END:
 #+title: GalNet Galactic War Report
-#+filetags: :galnet:
+#+filetags: :3301:galnet:
 
 * GalNet Galactic War Report
 

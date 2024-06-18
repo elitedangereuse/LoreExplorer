@@ -2,7 +2,7 @@
 :ID:       9273c5e4-71dc-476b-a30b-59be2ef1dc40
 :END:
 #+title: Another Jeffress Treasure Hunt
-#+filetags: :galnet:
+#+filetags: :3301:galnet:
 
 * Another Jeffress Treasure Hunt
 

@@ -2,7 +2,7 @@
 :ID:       b6b427cb-f4d2-4c53-88ad-f65034075434
 :END:
 #+title: Blaine Address State of the Emperor
-#+filetags: :galnet:
+#+filetags: :3301:galnet:
 
 * Blaine Address State of the Emperor
 

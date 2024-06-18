@@ -2,7 +2,7 @@
 :ID:       09484ae5-6c99-4a7d-a0db-3d7c4a994f96
 :END:
 #+title: Travel Advisory for NGC 6124
-#+filetags: :galnet:
+#+filetags: :3301:galnet:
 
 * Travel Advisory for NGC 6124
 

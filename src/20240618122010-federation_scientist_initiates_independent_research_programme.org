@@ -2,7 +2,7 @@
 :ID:       2f923d49-26dd-4d48-9a08-28366a02c8fa
 :END:
 #+title: Federation Scientist Initiates Independent Research Programme
-#+filetags: :galnet:
+#+filetags: :3301:galnet:
 
 * Federation Scientist Initiates Independent Research Programme
 
