@@ -12,7 +12,7 @@ Chancellor Anders Blaine Issues Statement
  
 In the early hours of this morning, agents of the Imperial Guard and IISS arrested several members of Chancellor Anders Blaine's staff. He later released a statement: 
 
-"It deeply pains me that members of my staff have brought such shame to my name and office. I regret to admit that Princess Aisling Duval's accusations are true, and that members of my staff have been instrumental, albeit without my knowledge, in conducting a campaign of slander against the Princess. 
+"It deeply pains me that members of my staff have brought such shame to my name and office. I regret to admit that Princess [[id:b402bbe3-5119-4d94-87ee-0ba279658383][Aisling Duval]]'s accusations are true, and that members of my staff have been instrumental, albeit without my knowledge, in conducting a campaign of slander against the Princess. 
 
 "I take full responsibility for the actions of those in my employ, and offer my full and unconditional apologies to Princess Aisling." 
 

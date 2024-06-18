@@ -14,7 +14,7 @@ Rare commodities required by the Empire in the Baal system.
 
 The state funeral of Prince Harold Duval has begun on Capitol. An official week of mourning has been declared throughout the Empire. 
 
-Emperor Arissa Lavigny-Duval opened the ceremony, delivering a eulogy for her half-brother. Princess Aisling Duval, Harold’s daughter, was also in attendance but was too emotional to address the huge crowds. 
+Emperor Arissa Lavigny-Duval opened the ceremony, delivering a eulogy for her half-brother. Princess [[id:b402bbe3-5119-4d94-87ee-0ba279658383][Aisling Duval]], Harold’s daughter, was also in attendance but was too emotional to address the huge crowds. 
 
 Messages of condolence from across the galaxy were on holographic display, including from Alliance Prime Minister [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74][Edmund Mahon]] and Federal President Zachary Hudson. Even Hadrian Duval, the exiled leader of Nova Imperium, paid respects to his late uncle. 
 
