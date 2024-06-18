@@ -21,3 +21,27 @@ Gabriel Vox, chairman of the GalNet Board of Review, has released a statement in
 "Please be assured that we will redouble our efforts to ensure the facts represented in 'A Week in Powerplay' are reliable." 
 
 Commander Corrigendum
+:PROPERTIES:
+:ID:       9b943441-3c80-4479-836a-b3c0fac9c28e
+:END:
+#+title: A Week in Powerplay: Corrections
+#+filetags: :galnet:
+
+* A Week in Powerplay: Corrections
+
+/14 Dec 3301/
+
+Gabriel Vox, chairman of the GalNet Board of Review, has released a statement in response to criticism of errors in recent GalNet publications: 
+
+"The GalNet periodical 'A Week in Powerplay' summarises weekly changes in political dynamics, economics and various other situations in thousands of systems throughout inhabited space. With this task comes a high probability of clerical error. It is my dubious honour to correct some of these errors at this time." 
+
+"The summary of 22nd–28th October 3301 incorrectly stated that the Alliance forged no new trade agreements, when in fact an agreement with Kpaniya was finalized." 
+
+"The summary of 3rd–9th December 3301 failed to mention the trade agreement between the Alliance and 37 Librae." 
+
+"Princess [[id:b402bbe3-5119-4d94-87ee-0ba279658383][Aisling Duval]] has erroneously been referred to as a 'senator' in several publications." 
+
+"Please be assured that we will redouble our efforts to ensure the facts represented in 'A Week in Powerplay' are reliable." 
+
+Commander Corrigendum
+
