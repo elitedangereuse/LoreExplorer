@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       d3e7d222-46c8-4319-b2a9-f12ead7b2a32
+:END:
+#+title: The Judgement of Admiral Tanner
+#+filetags: :galnet:
+
+* The Judgement of Admiral Tanner
+
+/16 Sep 3308/
+
+A special tribunal of the Federal Navy Criminal Court has deliberated the case of former admiral Aden Tanner and made a final decision. 
+
+The following press release was released to all Federal newsfeeds: 
+
+“This tribunal has scrutinised the latest evidence supplied by the Federal Attorney’s Office. We find that the analysis of Salvation’s superweapons does indeed substantiate Mr Tanner’s allegation that they were designed to provoke a hostile response from the Thargoids. Azimuth Biotech has been unable to verify that its claimed ‘anti-xeno detection network’ exists, explaining that most of Salvation’s advanced designs were not widely shared within the corporation.” 
+
+“Nevertheless, regardless of motive or moral justification, Mr Tanner directly disobeyed orders when the Musashi staged an assault on Hind Mine in the T Tauri system. It is therefore our judgement that the court martial verdict on the 12th of January stands. The request for a retrial has been denied. Having been convicted of mutiny and unlawful military action, he remains dishonourably discharged and has been stripped of his rank and honours.” 
+
+“We do acknowledge the ethical argument that the Proteus Wave would not have been constructed, and many lives may have been saved, if the Musashi had gained access to Hind Mine starport. In light of this context to the case, Mr Tanner’s sentence has been commuted to time served, and he is free to leave Federal custody. However, he is permanently barred from entering civil or military service.”

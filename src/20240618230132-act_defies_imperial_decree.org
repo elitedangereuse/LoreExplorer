@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       dddeb160-820b-45ff-88f4-667417da2179
+:END:
+#+title: ACT Defies Imperial Decree
+#+filetags: :galnet:
+
+* ACT Defies Imperial Decree
+
+/01 Feb 3308/
+
+The Affiliated Counter-Terrorism unit is actively investigating Imperial Intelligence, despite the Senate ordering it to cease operations. 
+
+Inspector Mara Klatt, one of ACT’s co-leaders, told the media: 
+
+“We are convinced that elements within Imperial Intelligence provided support to the NMLA. Our view is that a modified version of the Omega Grid software was supplied to the terrorists, allowing them to build their own dark-comms network. Thanks to Captain Saskia Landau’s inside knowledge, we are learning how to detect a unique identifier associated with the network employed by the NMLA.” 
+
+“Our actions may have political repercussions, but this taskforce is dedicated to finding and destroying the NMLA. We must follow the trail wherever it leads.” 
+
+Civil and military leaders in the Empire have reacted with outrage, including Senator Zemina Torval: 
+
+“Are we expected to risk our citizens’ lives by letting our security services be compromised? How might the Alliance or Federation respond if we attempted to hack into Interpol or the FIA?” 
+
+However, a plea for cooperation was made by Princess Aisling Duval: 
+
+“If nefarious groups within our Empire have helped the NMLA, we must uncover the truth. I firmly believe that the Emperor herself remains in danger, and ACT might help us to learn her fate.”
