@@ -3,3 +3,4 @@
 :END:
 #+title: Pulsar
 
+[[id:cfdeda2f-8828-4acb-8cd1-9e9a63f3f6b2][Pulsing]]

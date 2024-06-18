@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       b8479ab3-514a-4907-975e-da666ea6d7ef
+:END:
+#+title: fugitive
+

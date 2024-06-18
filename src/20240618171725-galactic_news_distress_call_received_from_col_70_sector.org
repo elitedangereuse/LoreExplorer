@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       a0a569bd-1e8b-482a-b083-0377fb7a6400
+:END:
+#+title: Galactic News: Distress Call Received from Col 70 Sector
+#+filetags: :galnet:
+
+* Galactic News: Distress Call Received from Col 70 Sector
+
+/20 Mar 3303/
+
+Recent reports indicate that a [[id:f73ecba3-223e-494a-ad0e-0dac71699bf1][garbled]] [[id:384ade5a-7cbb-4f1a-85b6-aa38423886e7][distress call]] from somewhere in
+the [[id:c8fe6fa0-8b82-4887-be3e-13422ca888a6][Col 70 sector]] has been received. The news has been met with
+surprise from some quarters, given that [[id:b2b2d9ee-9c33-4a0b-b3ce-82cfa362577e][permit]] restrictions have made
+the sector relatively inaccessible.
+
+"We're not sure what to make of it," said [[id:1b48c230-52ef-4df7-a046-6659edf6338a][Perry Hussein]], a member of
+the [[id:fb4d1189-972d-4599-a797-16392852f627][Federal intelligence community]], "but it was definitely a distress
+call and the ship that sent it appears to have been [[id:c65c6053-6022-44e2-a1c7-ada136ecad65][destroyed]]. The
+telemetry indicates it was an older vessel, perhaps [[id:83299a14-b6b0-4670-ba39-2914e05ed2f5][Cobra]] class."
