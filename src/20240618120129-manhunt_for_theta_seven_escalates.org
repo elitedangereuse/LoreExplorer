@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       a8487a1a-c3d8-4388-8698-0e8ab7be8f49
+:END:
+#+title: Manhunt for Theta Seven Escalates
+#+filetags: :galnet:
+
+* Manhunt for Theta Seven Escalates
+
+/12 Nov 3307/
+
+*Pilots’ Federation ALERT* 
+
+The Affiliated Counter-Terrorism unit has acquired an encrypted message that may reveal Theta Seven’s location. 
+
+ACT successfully captured most of the bomb-making engineers known as Theta Group, and has now prioritised hunting down the NMLA’s de facto leader. 
+
+This latest breakthrough was explained by Captain Milo Castile: 
+
+“Theta Group managed to delete most of their data prior to capture, but we retrieved a short message that they received on the 31st of July. At this point most of Theta Group were being harboured by Neo-Marlinist sympathisers within the Marlinist Colonies, but Theta Seven and his closest aides had fled to an unknown destination.” 
+
+“Unfortunately the message has been encrypted using a pre-arranged cipher key, without which its contents are unreadable. It is unclear why this wasn’t transmitted via the NMLA’s dark-comms network, which remains undetectable despite our best efforts.” 
+
+“As it’s possible that this was sent by Theta Seven, we welcome any assistance from the galactic community in decoding it. This ruthless terrorist must be tracked down before he can take more innocent lives.” 
+
+ACT has requested that all newsfeeds publish the encrypted message, which is as follows: 
+
+61-76-126-67-99-74-71-113-81-41-96-103-51-117-55-103-91-69-104-117-84-114-141-134-90-108-90-79-115-95-102-102-98-76-91-57-83-104-92-99-96-78-79-83-132-115-80-106-91-150-114-105-148-144-93-163-83-138-123-94-108-115-81-128-147-162-131-140-150-129-29-98-99-59-74-125-55-123-107-112-98-108-82-91-124-71-75-111-109-95-129-89-155-135-98-131-149-97-151-105-152-152-144-128-155-64-81-123-89-90-87-96-59-116-127-52-94-103-51-89-51-47-98-88-61-112-112-111-129-147-124-153-134-109-87-114-121-80-90-113-111-153-131-84-104-131-84-151-113-129-130-117-105-123-73-99-126-106-118-144-97-83-123-104-75-78-90-49 
+
+There is a substantial reward on offer for the first person to submit a correctly deciphered version of this message to ACT.
