@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       b0053052-ea42-439a-b57d-97e6bc19e2eb
+:END:
+#+title: Investors Take Control of Lakon Spaceways
+(fset 'galnet\ import
+   (kmacro-lambda-form [?\C-m ?\C-f ?\C-f ?\C-@ ?\C-e ?\C-\[ ?w ?\C-c ?r ?f ?\C-y ?\C-m ?\C-\[ ?x ?\C-\[ ?p ?\C-m ?\C-\[ ?p ?\C-m ?\C-\[ ?\[ ?8 ?^ ?\C-x ?o ?\C-x ?h ?\C-\[ ?w ?\C-x ?o ?\C-y ?\C-a ?\C-i ?\C-\[ ?\[ ?8 ?^ ?\C-m ?\C-c ?\C-c ?\C-x ?k ?\C-m ?\C-x ?k ?\C-m ?\C-n] 0 "%d"))
+
+* Investors Take Control of Lakon Spaceways
+
+/22 Dec 3306/
+
+A coalition of Lakon Spaceways shareholders has voted to replace several members of the company’s board of directors with new management. 
+
+At an emergency general meeting, investors put forward a resolution to remove selected directors, in accordance with Lakon’s articles of association. The majority vote was in favour of this resolution. 
+
+New appointees to the board have already stated that the rejected bid by Federal shipbuilder Core Dynamics will be reappraised. Jupiter Rochester, the corporation’s CEO, has welcomed the opportunity for fresh discussions. 
+
+Chairperson Naomi Landseer, who is one of the directors being replaced, told Vox Galactica: 
+
+“It’s no coincidence that the board members being voted out are the same ones who were against Core Dynamics owning the company. I am convinced that Rochester’s people are bribing or threatening our shareholders to make sure this hostile takeover goes through.” 
+
+Lakon Spaceways is currently offering a 30% discount on sales of Asp Scouts, Diamondback Scouts, Keelbacks, Type-7 Transporters and Type-10 Defenders. 
+
+Core Dynamics has applied a 30% markdown to sales of the Eagle MkII and the Vulture, with a 20% discount for Federal Assault Ships, Federal Dropships and Federal Gunships.
