@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       5ad5800a-739d-43ad-82f2-f993b0d330ec
+:ROAM_REFS: https://cms.zaonce.net/en-GB/jsonapi/node/galnet_article/bee897ed-6dd2-4b6d-83e9-241b880971cc?resourceVersion=id%3A4918
 :END:
 #+title: Halsey Suggests Motivation for Assassination Attempt
 #+filetags: :galnet:

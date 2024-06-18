@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       423b96e9-ca36-4159-a8ce-61cd90495178
+:ROAM_REFS: https://cms.zaonce.net/en-GB/jsonapi/node/galnet_article/ca132384-2aef-42e6-bcb6-e9fd1068ab7e?resourceVersion=id%3A4916
 :END:
 #+title: Request for Pilots to Trace Distress Call
 #+filetags: :galnet:

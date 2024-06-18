@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       73831d6c-2999-4d55-b478-78d174292ca7
+:ROAM_REFS: https://cms.zaonce.net/en-GB/jsonapi/node/galnet_article/4297c660-5724-498d-a797-47c3355ad657?resourceVersion=id%3A4875
 :END:
 #+title: Core Dynamics Purchases Lakon Spaceways
 #+filetags: :galnet:

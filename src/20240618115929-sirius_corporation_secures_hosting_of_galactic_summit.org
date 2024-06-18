@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       581ec895-71da-43a9-8c02-055a79c3a2d6
+:ROAM_REFS: https://cms.zaonce.net/en-GB/jsonapi/node/galnet_article/7a001894-ba75-4d92-a175-b853eb6867b8?resourceVersion=id%3A4915
 :END:
 #+title: Sirius Corporation Secures Hosting of Galactic Summit
 #+filetags: :galnet:

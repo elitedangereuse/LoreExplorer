@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       04b562d2-8200-43c5-8572-251166732984
+:ROAM_REFS: https://cms.zaonce.net/en-GB/jsonapi/node/galnet_article/ab068a9b-48f8-470f-8376-74fd9070bec2?resourceVersion=id%3A4888
 :END:
 #+title: Date Set for Trial of Fleet Admiral Vincent
 #+filetags: :galnet:

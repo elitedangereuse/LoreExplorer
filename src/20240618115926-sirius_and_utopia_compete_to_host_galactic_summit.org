@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       d1937a17-4c88-4cdc-af1e-a3e120848630
+:ROAM_REFS: https://cms.zaonce.net/en-GB/jsonapi/node/galnet_article/2c3a8085-82e8-4d9a-a96c-ce4bbd39a866?resourceVersion=id%3A4906
 :END:
 #+title: Sirius and Utopia Compete to Host Galactic Summit
 #+filetags: :galnet:

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       1963311e-8310-4299-a5c5-fa63e0c88b79
+:ROAM_REFS: https://cms.zaonce.net/en-GB/jsonapi/node/galnet_article/afe4c2de-fe62-46e4-914d-6dad4e24cd5d?resourceVersion=id%3A4905
 :END:
 #+title: Marlinist Colonies Receive Emergency Food Supplies
 #+filetags: :galnet:

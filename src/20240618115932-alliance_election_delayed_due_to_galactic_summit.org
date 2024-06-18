@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       423b3b7a-43ba-4f24-af4c-60e88ee9f2bd
+:ROAM_REFS: https://cms.zaonce.net/en-GB/jsonapi/node/galnet_article/22d296c8-d5be-4205-82ee-0ce1907f849b?resourceVersion=id%3A4919
 :END:
 #+title: Alliance Election Delayed due to Galactic Summit
 #+filetags: :galnet:

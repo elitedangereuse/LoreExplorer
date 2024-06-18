@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       5990d010-b104-4ded-8f63-be1bf7c6352d
+:ROAM_REFS: https://cms.zaonce.net/en-GB/jsonapi/node/galnet_article/0a2534ba-1f96-44da-b972-8963b4540cfb?resourceVersion=id%3A4925
 :END:
 #+title: Warning of Ship Abductions by Fleet Carriers
 #+filetags: :galnet:

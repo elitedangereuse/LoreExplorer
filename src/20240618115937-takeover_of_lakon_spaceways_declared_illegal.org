@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       39eddecf-2860-436c-8008-a0584d348402
+:ROAM_REFS: https://cms.zaonce.net/en-GB/jsonapi/node/galnet_article/dd6d73ec-2e08-4613-a132-34e429ed0498?resourceVersion=id%3A4930
 :END:
 #+title: Takeover of Lakon Spaceways Declared Illegal
 #+filetags: :galnet:

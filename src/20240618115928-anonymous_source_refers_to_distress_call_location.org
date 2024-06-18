@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       064fb2c7-164e-4d52-8146-e09eed1012f6
+:ROAM_REFS: https://cms.zaonce.net/en-GB/jsonapi/node/galnet_article/053cf878-5139-4aec-a1eb-6ac71f7cad3c?resourceVersion=id%3A4917
 :END:
 #+title: Anonymous Source Refers to Distress Call Location
 #+filetags: :galnet:

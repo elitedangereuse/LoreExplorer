@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       9de954d5-94b1-4d2b-b28f-89a4ac8e31e5
+:ROAM_REFS: https://cms.zaonce.net/en-GB/jsonapi/node/galnet_article/c4e444c0-4336-4828-b806-60d548a3b4f1?resourceVersion=id%3A4892
 :END:
 #+title: New Marlinist Systems Request Emergency Food Supplies
 #+filetags: :galnet:

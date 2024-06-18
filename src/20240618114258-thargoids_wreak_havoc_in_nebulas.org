@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       be1de7fc-61d0-4943-b37a-8807e033a4b4
+:ROAM_REFS: https://cms.zaonce.net/en-GB/jsonapi/node/galnet_article/90f7be59-33cd-49b3-a999-1a5b731f5794?resourceVersion=id%3A4878
 :END:
 #+title: Thargoids Wreak Havoc in Nebulas
 #+filetags: :galnet:
