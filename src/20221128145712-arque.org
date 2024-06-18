@@ -17,7 +17,7 @@ State:Normal
 Star type:Class G star Scoopable
 Permit required:No
 Distance:
-Powerplay:Exploited by Edmund Mahon
+Powerplay:Exploited by [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74][Edmund Mahon]]
 Controlling system:Leesti
 
 Info updated:18 Dec 2022, 12:49pm
