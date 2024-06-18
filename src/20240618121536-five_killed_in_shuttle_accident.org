@@ -12,7 +12,7 @@ Five Killed in Shuttle Accident
  
 A  Sirius Corporation shuttle was destroyed this morning when its docking computer failed on approach to Patterson Enterprise in the Sirius system. While such failures aren’t unheard of, they are rare, especially among smaller craft. 
 
-Elaine Boyd from the Federal Times asked a Sirius Corporation representative how the company was able to determine the cause of the accident so quickly. She was told: 
+[[id:c04cc538-f85c-4409-9751-9df8b3e56422][Elaine Boyd]] from the Federal Times asked a Sirius Corporation representative how the company was able to determine the cause of the accident so quickly. She was told: 
 
 “The telemetry from the shuttle provided clear evidence of a stall in the computer’s operation as the vessel approached the docking port. The boost protocol should have been disabled but was instead activated, causing the shuttle to crash into the station.” 
 
