@@ -8,10 +8,10 @@
 
 /23 Apr 3302/
 
-Imperial investigator Cornelius Gendymion has released a statement to the Prism Herald addressing accusations that Imperial agents were responsible for the destruction of Starship One. 
+Imperial investigator [[id:c9e0148d-8849-41ef-abfa-b7844bbe2403][Cornelius Gendymion]] has released a statement to the [[id:607af005-f90a-490c-bca3-72feb2497365][Prism Herald]] addressing accusations that Imperial agents were responsible for the destruction of Starship One. 
 
-"It seems Federal Times reporter Elaine Boyd's investigations are being ignored by her countrymen. You may recall that she highlighted the suspicious deaths of key individuals involved in both the Antares and Starship One investigations before her alleged suicide. Her data detailed an off-the-books investigation into the Antares by Vice-President Nigel Smeaton, and also alleged that he was murdered." 
+"It seems Federal Times reporter [[id:c04cc538-f85c-4409-9751-9df8b3e56422][Elaine Boyd]]'s investigations are being ignored by her countrymen. You may recall that she highlighted the suspicious deaths of key individuals involved in both the Antares and Starship One investigations before her alleged [[id:6b803756-caf9-47f7-b316-31023c2f1ef6][suicide]]. Her data detailed an off-the-books investigation into the Antares by Vice-President [[id:4bbbdc51-22ca-4f2c-b775-0e4d3b86bb4a][Nigel Smeaton]], and also alleged that he was murdered." 
 
-"Congressman George Fallside's apparent foreknowledge of Smeaton's death was waved away, but I suspect Jacob Harris might have better luck finding Starship One's saboteurs if he searched within the Federation – perhaps starting with folks who have ties to Core Dynamics." 
+"Congressman [[id:a52957f3-c3b8-4821-80b9-81db21637b70][George Fallside]]'s apparent foreknowledge of Smeaton's death was waved away, but I suspect [[id:84361db2-f12f-4133-9e88-25afaef8a066][Jacob Harris]] might have better luck finding Starship One's saboteurs if he searched within the Federation – perhaps starting with folks who have ties to [[id:4a28463f-cbed-493b-9466-70cbc6e19662][Core Dynamics]]." 
 
-Commander Corrigendum | Loren's Legion
+Commander Corrigendum | [[id:29fe7e20-3e8d-4285-aab4-52ce5ed11366][Loren's Legion]]
