@@ -12,7 +12,7 @@ Editorial pieces published by newsfeeds across the core systems illustrate a ran
 
 Eye on Achenar: “There is no doubt that the real threat to our Empire will arise once the Thargoids are gone. That’s when Federal aggression will undoubtedly resume, fuelled by centuries of envy at our glorious splendour.” 
 
-Citizens' Chronicle: “Some may have mocked Princess Aisling Duval for describing Salvation as ‘a master of self-promotion and public manipulation’. But her political instincts are astute, and we believe she is right to warn us against this dangerous man.” 
+Citizens' Chronicle: “Some may have mocked Princess [[id:b402bbe3-5119-4d94-87ee-0ba279658383][Aisling Duval]] for describing Salvation as ‘a master of self-promotion and public manipulation’. But her political instincts are astute, and we believe she is right to warn us against this dangerous man.” 
 
 Sol Today: “We can all see what will happen as soon as the Thargoids have been dealt with. The Imperials will declare war against our democracy, seeking to enforce their totalitarian regime upon freedom-loving Federal citizens.” 
 

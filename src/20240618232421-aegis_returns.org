@@ -16,7 +16,7 @@ Professor Alba Tesreau will serve as the head of the revived organisation. She p
 
 “Aegis remains humanity’s best hope of ending this calamitous war with the Thargoids. Its priority is to better understand the alien species through scientific research, and to utilise those findings to improve our defensive and weapon capabilities.” 
 
-“Each superpower has appointed an individual to oversee its contributions: Deputy Prime Minister Angela Corcoran for the Alliance, Princess Aisling Duval for the Empire, and Congressman Tom Gillespie for the Federation. We have also invited many independent specialists to partner with Aegis, including Professor Ishmael Palin, Ram Tah and a previous key member of Aegis, Aden Tanner.” 
+“Each superpower has appointed an individual to oversee its contributions: Deputy Prime Minister Angela Corcoran for the Alliance, Princess [[id:b402bbe3-5119-4d94-87ee-0ba279658383][Aisling Duval]] for the Empire, and Congressman Tom Gillespie for the Federation. We have also invited many independent specialists to partner with Aegis, including Professor Ishmael Palin, Ram Tah and a previous key member of Aegis, Aden Tanner.” 
 
 “Criticism from the Baumann Report has been taken on board. Our new organisational structure follows the streamlined approach used by the Affiliated Counter-Terrorism Unit to great success. To improve coordination, a limited application of Omega Grid networking will facilitate rapid and secure communications between key members.” 
 
