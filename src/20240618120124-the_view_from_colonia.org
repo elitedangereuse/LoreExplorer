@@ -14,10 +14,10 @@ Vox Galactica’s culture correspondent Lishan Abara looks at the Colonia region
 
 “Over the last five years, courageous explorers have struck out to inhabit several dozen local systems. This, in turn, invited a steady stream of colonists seeking a fresh start. Nearly 13 million souls now count this remote area as their home.” 
 
-“This is a place beyond the influence of the superpowers and mega-corporations, and most residents prefer it that way. The Colonia Council works hard to maintain order, helping local organisations function along cooperative lines. There have been a handful of regional conflicts, but generally you’re less likely to witness trouble out here.” 
+“This is a place beyond the influence of the superpowers and mega-corporations, and most residents prefer it that way. The [[id:6b6559fd-c7fa-44c9-b540-b94ddcadbd50][Colonia Council]] works hard to maintain order, helping local organisations function along cooperative lines. There have been a handful of regional conflicts, but generally you’re less likely to witness trouble out here.” 
 
 “Having become self-sufficient early on, Colonia’s healthy economy encourages both traders and tourists to make the long journey. The scientific community maintains a notable presence, a notable example is the Holloway Bioscience Institute, which studies the many vacuum-dwelling life forms found in the Colonia Nebula.” 
 
-“Independent and faction-aligned pilots are catered to, with shipyards and even a fleet carrier construction dock found in the area. Local engineers such as Baltanos, Eleanor Bresa, Rosa Dayette and Yi Shen also offer suit and personal equipment modifications to those who make a living working on low-atmosphere worlds.” 
+“Independent and faction-aligned pilots are catered to, with shipyards and even a fleet carrier construction dock found in the area. Local engineers such as [[id:e80652fd-7aa0-4b18-90ac-aebb3d1c2259][Baltanos]], [[id:44343fed-44fd-43ef-979a-27929ac198b9][Eleanor Bresa]], [[id:e543dd6e-96f5-4d65-a45f-32a5586ad511][Rosa Dayette]] and [[id:64af95e7-00c7-41ee-8205-100c0a7e0467][Yi Shen]] also offer suit and personal equipment modifications to those who make a living working on low-atmosphere worlds.” 
 
 “With the Colonia Bridge project well underway, it will soon be easier than ever to cross the interstellar gulf and reach this distant haven. Businesses, settlers and visitors alike may find themselves increasingly drawn to the Colonia experience.”
