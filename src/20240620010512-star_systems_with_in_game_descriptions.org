@@ -1,0 +1,72 @@
+:PROPERTIES:
+:ID:       b31d82d6-1252-434b-9e79-c72231ba3a0b
+:END:
+#+title: Star systems with in-game descriptions
+
+ - [[id:7a442368-d9e1-420b-a2c4-a8900a94227d][39 Tauri]]
+ - [[id:bed8c27f-3cbe-49ad-b86f-7d87eacf804a][Achenar]]
+ - [[id:77a7a843-4242-4da8-a764-c1525e6ceefe][Ackwada]]
+ - [[id:eb11ab9d-aab7-4d9b-aeaf-a228ef33d4da][Alcor]]
+ - [[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]]
+ - Alpha Centauri
+ - Arcturus
+ - Arque
+ - Asellus Primus
+ - Beagle Point
+ - Bedaho
+ - Beta Hydri
+ - Canopus
+ - CD-43 11917
+ - Cemiess
+ - Cubeo
+ - Delta Pavonis
+ - Diso
+ - Dromi
+ - Durius
+ - Eotienses
+ - Epsilon Indi
+ - Eranin
+ - Eta Cassiopeiae
+ - Euryale
+ - Eurybia
+ - Exphiay
+ - Facece
+ - HIP 54530
+ - Hodack
+ - Hors
+ - Jackson's Lighthouse
+ - [[id:addd8c74-2425-4d26-a1d5-9cb11ce6b0ba][Jotun]]
+ - Kamadhenu
+ - Kappa Fornacis
+ - Lave
+ - Leesti
+ - LP 98-132
+ - LTT 198
+ - Lugh
+ - Maia
+ - Merope
+ - Mikunn
+ - Orerve
+ - Orrere
+ - Peregrina
+ - Phekda
+ - Pi Mensae
+ - PLX 695
+ - Pollux
+ - Prism
+ - Quator
+ - Quince
+ - Reorte
+ - Riedquat
+ - Ross 128
+ - Shinrarta Dezhra
+ - Sirius
+ - Sol
+ - Summerland
+ - Synteini
+ - Tau Ceti
+ - Uszaa
+ - Van Maanen's Star
+ - Vega
+ - Zaonce
+

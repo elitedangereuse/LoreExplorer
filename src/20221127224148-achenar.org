@@ -4,3 +4,12 @@
 #+title: Achenar
 #+filetags: :Permit:Rank:System:
 [[file:img/permit.png]]
+
+#+begin_quote
+The Achenar system is notable as the home of the Empire, one of the
+galaxy's three superpowers. Capitol, a satellite of the sixth body in
+the system, is the primary residence of the emperor, and the seat of
+Imperial power. The system is characterised by widespread opulence and
+ostentation. The permit for this system can be obtained from the
+Imperial military.
+#+end_quote
