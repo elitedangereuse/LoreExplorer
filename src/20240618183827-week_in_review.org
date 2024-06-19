@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       6f4dc53c-1157-4419-b109-944f2b49435d
 :END:
-#+title: Week in Review
+#+title: Week in Review 05 Aug 3304
 #+filetags: :3304:galnet:
 
 * Week in Review

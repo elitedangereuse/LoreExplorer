@@ -2,4 +2,5 @@
 :ID:       8e40b676-782d-4395-a409-beec9df1a338
 :END:
 #+title: Richard Morgan
+#+filetags: :Individual:
 Admiral

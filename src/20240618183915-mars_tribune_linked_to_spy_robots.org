@@ -8,14 +8,14 @@
 
 /20 Oct 3304/
 
-The Federal Security Service has targeted The Mars Tribune as part of its investigation into robots carrying concealed surveillance programs. 
+The [[id:0ba9accc-93ad-45a0-a771-e26daa59e58f][Federal Security Service]] has targeted The Mars Tribune as part of its investigation into robots carrying concealed surveillance programs. 
 
-Lieutenant Inspector Ramesh Thorne made this statement: 
+Lieutenant Inspector [[id:67e55dd5-7840-4133-9111-566a0008b121][Ramesh Thorne]] made this statement: 
 
-“The personal robots of former congressman Morgan Unwin and actor Tomas Turai were found to contain surveillance programs. In recent weeks, both were the subject of incriminating articles published exclusively in The Mars Tribune.” 
+“The personal robots of former congressman [[id:44f9cf85-8fb2-4e37-9b8a-8834faf80728][Morgan Unwin]] and actor [[id:f3e29df5-154d-4f05-b659-36fa2da9be01][Tomas Turai]] were found to contain surveillance programs. In recent weeks, both were the subject of incriminating articles published exclusively in [[id:a5b054ac-dff0-434b-ade6-09d5f81228a1][The Mars Tribune]].” 
 
-“Public-relations guru Anya Blackriver, also the owner of a ‘spy’ robot, was recently exposed by the Tribune for concealing various scandals on behalf of her celebrity clients. In fact, all the owners of affected robots live in the Sol system, which is the focus of the Tribune’s journalism.” 
+“Public-relations guru [[id:464bcd90-c51a-4650-b5bb-83011a9dc5de][Anya Blackriver]], also the owner of a ‘[[id:de12e7c6-dc67-403d-bdd5-aadb52313312][spy]]’ [[id:0c43c44c-33fe-4b99-a5e0-2f2be9dc67b0][robot]], was recently exposed by the Tribune for concealing various scandals on behalf of her celebrity clients. In fact, all the owners of affected robots live in the [[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]] system, which is the focus of the Tribune’s journalism.” 
 
 “We are therefore interviewing Tribune staff to establish if they used these robots to gather private data in order to obtain material for exclusive stories.” 
 
-Legal representatives of the Cordova Group, the conglomerate that owns The Mars Tribune, have challenged the FSS for making ‘libellous and baseless accusations’.
+Legal representatives of the [[id:ba42b0e5-1d3f-4541-874f-f324124c0980][Cordova Group]], the conglomerate that owns The Mars Tribune, have challenged the FSS for making ‘libellous and baseless accusations’.

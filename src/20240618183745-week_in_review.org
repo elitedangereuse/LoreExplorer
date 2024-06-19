@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       a3563c4f-05f4-40e7-92d7-8796d9ea8bbe
 :END:
-#+title: Week in Review
+#+title: Week in Review 27 May 3304
 #+filetags: :3304:galnet:
 
 * Week in Review

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       bed55ce6-85ca-46a9-9cc2-389ed3394d10
 :END:
-#+title: Week in Review
+#+title: Week in Review 20 Oct 3304
 #+filetags: :3304:galnet:
 
 * Week in Review
