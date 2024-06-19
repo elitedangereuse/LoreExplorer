@@ -2,7 +2,7 @@
 :ID:       de9e3532-54ea-4c42-a9b7-68a3229c3662
 :END:
 #+title: Socho Operation Complete
-#+filetags: :galnet:
+#+filetags: :3304:galnet:
 
 * Socho Operation Complete
 

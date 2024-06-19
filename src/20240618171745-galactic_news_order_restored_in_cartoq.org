@@ -2,7 +2,7 @@
 :ID:       2b5d25da-c7e3-4495-88fd-9dc8614b57d7
 :END:
 #+title: Galactic News: Order Restored in Cartoq
-#+filetags: :galnet:
+#+filetags: :3303:galnet:
 
 * Galactic News: Order Restored in Cartoq
 

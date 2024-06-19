@@ -2,7 +2,7 @@
 :ID:       f0b0e72a-cd53-4645-a77e-55442fee4bf1
 :END:
 #+title: Thargoid Surveillance in the Pleiades
-#+filetags: :galnet:
+#+filetags: :3304:galnet:
 
 * Thargoid Surveillance in the Pleiades
 

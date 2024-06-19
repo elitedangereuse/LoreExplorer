@@ -2,7 +2,7 @@
 :ID:       ce4e3e98-84ab-4918-8092-6f9a99673e96
 :END:
 #+title: Galactic News: Thargoids Continuing to Adapt
-#+filetags: :galnet:
+#+filetags: :3303:galnet:
 
 * Galactic News: Thargoids Continuing to Adapt
 

@@ -2,7 +2,7 @@
 :ID:       bc167441-f383-4ba7-baa1-914956199c14
 :END:
 #+title: Ships Destroyed by the League of Reparation
-#+filetags: :galnet:
+#+filetags: :3304:galnet:
 
 * Ships Destroyed by the League of Reparation
 

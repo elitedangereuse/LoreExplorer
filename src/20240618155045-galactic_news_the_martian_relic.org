@@ -2,7 +2,7 @@
 :ID:       3f7cd855-5e19-4cd4-9e0c-16e1f9f73c2e
 :END:
 #+title: Galactic News: The Martian Relic
-#+filetags: :galnet:
+#+filetags: :3302:galnet:
 
 * Galactic News: The Martian Relic
 

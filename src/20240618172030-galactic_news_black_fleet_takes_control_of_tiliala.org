@@ -2,7 +2,7 @@
 :ID:       3aad5efd-73ee-47e5-980c-d411ac64dcc7
 :END:
 #+title: Galactic News: Black Fleet Takes Control of Tiliala
-#+filetags: :galnet:
+#+filetags: :3303:galnet:
 
 * Galactic News: Black Fleet Takes Control of Tiliala
 

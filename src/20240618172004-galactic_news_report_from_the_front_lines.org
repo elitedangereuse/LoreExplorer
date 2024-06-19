@@ -2,7 +2,7 @@
 :ID:       a9f8a859-f818-4a0d-b1fb-c2268422d0c4
 :END:
 #+title: Galactic News: Report from the Front Lines
-#+filetags: :galnet:
+#+filetags: :3303:galnet:
 
 * Galactic News: Report from the Front Lines
 

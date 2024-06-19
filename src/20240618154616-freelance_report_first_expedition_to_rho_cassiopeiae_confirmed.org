@@ -2,7 +2,7 @@
 :ID:       922f934a-3074-4bd2-b791-485a6f2e4c82
 :END:
 #+title: Freelance Report: First Expedition to Rho Cassiopeiae Confirmed
-#+filetags: :galnet:
+#+filetags: :3302:galnet:
 
 * Freelance Report: First Expedition to Rho Cassiopeiae Confirmed
 

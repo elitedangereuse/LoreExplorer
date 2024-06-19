@@ -2,7 +2,7 @@
 :ID:       fc4a2e23-78d8-49b9-a740-c65bdb1d64fd
 :END:
 #+title: Galactic News: Federal Campaign Resumes
-#+filetags: :galnet:
+#+filetags: :3302:galnet:
 
 * Galactic News: Federal Campaign Resumes
 

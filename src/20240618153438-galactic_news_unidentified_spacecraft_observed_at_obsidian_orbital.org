@@ -2,7 +2,7 @@
 :ID:       275bd9fd-dd78-404c-9ad6-d3812bfb7795
 :END:
 #+title: Galactic News: Unidentified Spacecraft Observed at Obsidian Orbital
-#+filetags: :galnet:
+#+filetags: :3302:galnet:
 
 * Galactic News: Unidentified Spacecraft Observed at Obsidian Orbital
 

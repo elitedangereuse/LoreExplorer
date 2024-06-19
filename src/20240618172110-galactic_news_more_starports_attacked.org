@@ -2,7 +2,7 @@
 :ID:       79cb439e-cac0-4045-b251-8f805f246b40
 :END:
 #+title: Galactic News: More Starports Attacked
-#+filetags: :galnet:
+#+filetags: :3303:galnet:
 
 * Galactic News: More Starports Attacked
 

@@ -2,7 +2,7 @@
 :ID:       321edc0d-a216-454d-a103-61b7f43d36b3
 :END:
 #+title: Galactic News: Sirius Corporation Enters Merope
-#+filetags: :galnet:
+#+filetags: :3303:galnet:
 
 * Galactic News: Sirius Corporation Enters Merope
 

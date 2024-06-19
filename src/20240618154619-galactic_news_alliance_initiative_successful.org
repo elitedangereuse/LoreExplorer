@@ -2,7 +2,7 @@
 :ID:       d905ae5c-ad06-4bf9-be8d-6176261eb25c
 :END:
 #+title: Galactic News: Alliance Initiative Successful
-#+filetags: :galnet:
+#+filetags: :3302:galnet:
 
 * Galactic News: Alliance Initiative Successful
 

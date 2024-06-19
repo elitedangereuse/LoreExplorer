@@ -2,7 +2,7 @@
 :ID:       7204eded-5bcd-44ea-bee0-b7ca53b31757
 :END:
 #+title: Community Goal: Improving Mining Facilities at Kooi Gateway
-#+filetags: :galnet:
+#+filetags: :3302:galnet:
 
 * Community Goal: Improving Mining Facilities at Kooi Gateway
 

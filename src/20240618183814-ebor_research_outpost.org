@@ -2,7 +2,7 @@
 :ID:       1adad2b4-cfb3-423e-83f6-148ad448493f
 :END:
 #+title: Ebor Research Outpost
-#+filetags: :galnet:
+#+filetags: :3304:galnet:
 
 * Ebor Research Outpost
 

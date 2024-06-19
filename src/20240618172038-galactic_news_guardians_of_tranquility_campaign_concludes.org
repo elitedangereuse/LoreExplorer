@@ -2,7 +2,7 @@
 :ID:       3aadc75a-bbdc-4e6d-a987-e9530337cae4
 :END:
 #+title: Galactic News: Guardians of Tranquility Campaign Concludes
-#+filetags: :galnet:
+#+filetags: :3303:galnet:
 
 * Galactic News: Guardians of Tranquility Campaign Concludes
 

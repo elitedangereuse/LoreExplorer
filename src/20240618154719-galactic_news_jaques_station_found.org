@@ -2,7 +2,7 @@
 :ID:       5b172c76-ae01-4131-b029-6ba8456d8051
 :END:
 #+title: Galactic News: Jaques Station Found!
-#+filetags: :galnet:
+#+filetags: :3302:galnet:
 
 * Galactic News: Jaques Station Found!
 

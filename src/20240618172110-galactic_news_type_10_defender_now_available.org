@@ -2,7 +2,7 @@
 :ID:       32a74a25-2d3f-4054-bb8d-01f2aa12af26
 :END:
 #+title: Galactic News: Type-10 Defender Now Available
-#+filetags: :galnet:
+#+filetags: :3303:galnet:
 
 * Galactic News: Type-10 Defender Now Available
 

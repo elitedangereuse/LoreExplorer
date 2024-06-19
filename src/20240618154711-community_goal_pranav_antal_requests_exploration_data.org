@@ -2,7 +2,7 @@
 :ID:       157bbe1a-3a76-4360-8eb3-425dbf7fdb63
 :END:
 #+title: Community Goal: Pranav Antal Requests Exploration Data
-#+filetags: :galnet:
+#+filetags: :3302:galnet:
 
 * Community Goal: Pranav Antal Requests Exploration Data
 

@@ -2,7 +2,7 @@
 :ID:       7aa60b34-67af-459c-a3e9-6977ed4f1b69
 :END:
 #+title: Galactic News: Lakon Announces New Ship
-#+filetags: :galnet:
+#+filetags: :3303:galnet:
 
 * Galactic News: Lakon Announces New Ship
 

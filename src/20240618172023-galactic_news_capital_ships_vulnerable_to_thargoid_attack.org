@@ -2,7 +2,7 @@
 :ID:       3b635597-b928-44ab-90e8-d04143003711
 :END:
 #+title: Galactic News: Capital Ships Vulnerable to Thargoid Attack
-#+filetags: :galnet:
+#+filetags: :3303:galnet:
 
 * Galactic News: Capital Ships Vulnerable to Thargoid Attack
 

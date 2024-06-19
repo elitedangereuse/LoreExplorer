@@ -2,7 +2,7 @@
 :ID:       e27b4451-6d70-44cb-904c-9402ecb5ef82
 :END:
 #+title: Community Goal: Pleiades Research Outpost
-#+filetags: :galnet:
+#+filetags: :3303:galnet:
 
 * Community Goal: Pleiades Research Outpost
 

@@ -2,7 +2,7 @@
 :ID:       5f94c7ec-8315-4d4d-b27c-be87bef1fa47
 :END:
 #+title: Simbad Regime Campaign Concludes
-#+filetags: :galnet:
+#+filetags: :3304:galnet:
 
 * Simbad Regime Campaign Concludes
 

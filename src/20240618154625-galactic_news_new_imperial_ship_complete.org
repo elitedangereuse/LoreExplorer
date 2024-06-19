@@ -2,7 +2,7 @@
 :ID:       130ab442-0fff-432f-8236-25a0daaea8b4
 :END:
 #+title: Galactic News: New Imperial Ship Complete
-#+filetags: :galnet:
+#+filetags: :3302:galnet:
 
 * Galactic News: New Imperial Ship Complete
 

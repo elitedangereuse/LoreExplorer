@@ -2,7 +2,7 @@
 :ID:       fe42c674-fb11-4691-b53c-6fee37a2c4ac
 :END:
 #+title: Galactic News: Imperial Appeal Concludes
-#+filetags: :galnet:
+#+filetags: :3303:galnet:
 
 * Galactic News: Imperial Appeal Concludes
 

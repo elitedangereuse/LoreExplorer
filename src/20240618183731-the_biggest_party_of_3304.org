@@ -2,7 +2,7 @@
 :ID:       a5091f10-ad60-48b3-afef-ac31faba3e65
 :END:
 #+title: The Biggest Party of 3304
-#+filetags: :galnet:
+#+filetags: :3304:galnet:
 
 * The Biggest Party of 3304
 

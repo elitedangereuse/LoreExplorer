@@ -2,7 +2,7 @@
 :ID:       add1af80-c8d1-4843-9a5e-259d206658e0
 :END:
 #+title: The XG Project
-#+filetags: :galnet:
+#+filetags: :3304:galnet:
 
 * The XG Project
 

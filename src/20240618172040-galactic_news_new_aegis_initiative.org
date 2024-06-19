@@ -2,7 +2,7 @@
 :ID:       c3b27b3b-3921-413e-b398-6aa679045e2e
 :END:
 #+title: Galactic News: New Aegis Initiative
-#+filetags: :galnet:
+#+filetags: :3303:galnet:
 
 * Galactic News: New Aegis Initiative
 

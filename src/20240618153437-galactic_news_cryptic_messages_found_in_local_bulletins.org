@@ -2,7 +2,7 @@
 :ID:       7d57a253-dcbe-4ca9-a48d-e39d53871ebf
 :END:
 #+title: Galactic News: Cryptic Messages Found in Local Bulletins
-#+filetags: :galnet:
+#+filetags: :3302:galnet:
 
 * Galactic News: Cryptic Messages Found in Local Bulletins
 

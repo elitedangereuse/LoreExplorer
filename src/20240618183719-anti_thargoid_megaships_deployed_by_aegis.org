@@ -2,7 +2,7 @@
 :ID:       e5e589e8-9eb4-4576-8a62-c827db1b5c89
 :END:
 #+title: Anti-Thargoid Megaships Deployed by Aegis
-#+filetags: :galnet:
+#+filetags: :3304:galnet:
 
 * Anti-Thargoid Megaships Deployed by Aegis
 

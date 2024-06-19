@@ -2,7 +2,7 @@
 :ID:       2c506558-fecd-44e5-ad37-4c9b8896a138
 :END:
 #+title: Galactic News: California Campaign Concludes
-#+filetags: :galnet:
+#+filetags: :3303:galnet:
 
 * Galactic News: California Campaign Concludes
 

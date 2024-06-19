@@ -2,7 +2,7 @@
 :ID:       bdc54ff4-b5dd-49c0-a29c-16a628d5c0a2
 :END:
 #+title: Search for Lottery Winner
-#+filetags: :galnet:
+#+filetags: :3304:galnet:
 
 * Search for Lottery Winner
 

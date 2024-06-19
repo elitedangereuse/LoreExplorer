@@ -2,7 +2,7 @@
 :ID:       2d59acd8-64c0-4f73-a276-e6bee1e4227f
 :END:
 #+title: Services Suspended at Gabriel Enterprise
-#+filetags: :galnet:
+#+filetags: :3302:galnet:
 
 * Services Suspended at Gabriel Enterprise
 

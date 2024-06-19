@@ -2,7 +2,7 @@
 :ID:       0c6b29ed-fc5b-4b5e-a8f1-acaf92cd3de5
 :END:
 #+title: Galactic News: Jaques Speaks
-#+filetags: :galnet:
+#+filetags: :3302:galnet:
 
 * Galactic News: Jaques Speaks
 

@@ -2,7 +2,7 @@
 :ID:       129a9b00-13bc-48e0-bff9-0b911bf6f4ce
 :END:
 #+title: Galactic News: New Farragut Battle Cruiser Complete
-#+filetags: :galnet:
+#+filetags: :3302:galnet:
 
 * Galactic News: New Farragut Battle Cruiser Complete
 

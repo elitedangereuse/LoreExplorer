@@ -2,7 +2,7 @@
 :ID:       8abd9879-97c7-4516-b58a-cc6b933376d1
 :END:
 #+title: Galactic News: Thargoid Structures Discovered
-#+filetags: :galnet:
+#+filetags: :3303:galnet:
 
 * Galactic News: Thargoid Structures Discovered
 

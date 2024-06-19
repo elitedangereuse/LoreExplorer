@@ -2,7 +2,7 @@
 :ID:       f3b27e0a-77e1-4afa-b6ff-319566bc987a
 :END:
 #+title: Galactic News: Pleiades Rescue Operation Concludes
-#+filetags: :galnet:
+#+filetags: :3303:galnet:
 
 * Galactic News: Pleiades Rescue Operation Concludes
 

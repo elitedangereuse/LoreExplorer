@@ -2,7 +2,7 @@
 :ID:       ddba44cc-3c53-4243-89fd-900d2e1b383d
 :END:
 #+title: Galactic News: Engineers Reduce Requirements
-#+filetags: :galnet:
+#+filetags: :3302:galnet:
 
 * Galactic News: Engineers Reduce Requirements
 

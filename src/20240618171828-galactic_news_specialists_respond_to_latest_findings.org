@@ -2,7 +2,7 @@
 :ID:       3e9a206f-b6d5-4ea9-b25e-1bffdb54d9e6
 :END:
 #+title: Galactic News: Specialists Respond to Latest Findings
-#+filetags: :galnet:
+#+filetags: :3303:galnet:
 
 * Galactic News: Specialists Respond to Latest Findings
 

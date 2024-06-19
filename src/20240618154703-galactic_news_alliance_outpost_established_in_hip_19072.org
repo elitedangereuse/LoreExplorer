@@ -2,7 +2,7 @@
 :ID:       e3d83746-c7e8-4656-a569-59afff837ee2
 :END:
 #+title: Galactic News: Alliance Outpost Established in HIP 19072
-#+filetags: :galnet:
+#+filetags: :3302:galnet:
 
 * Galactic News: Alliance Outpost Established in HIP 19072
 

@@ -2,7 +2,7 @@
 :ID:       5d6357c1-6d68-4467-8590-1b591294d8a9
 :END:
 #+title: Galactic News: The Thargoids have Returned
-#+filetags: :galnet:
+#+filetags: :3303:galnet:
 
 * Galactic News: The Thargoids have Returned
 

@@ -2,7 +2,7 @@
 :ID:       0c819854-8ac9-41f4-8b2b-aba0136fe1d9
 :END:
 #+title: The Bulwark Project
-#+filetags: :galnet:
+#+filetags: :3304:galnet:
 
 * The Bulwark Project
 

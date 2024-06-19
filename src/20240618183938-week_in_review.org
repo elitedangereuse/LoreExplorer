@@ -2,7 +2,7 @@
 :ID:       66c58dbf-d579-4bbb-9ad1-091191ab7545
 :END:
 #+title: Week in Review
-#+filetags: :galnet:
+#+filetags: :3304:galnet:
 
 * Week in Review
 

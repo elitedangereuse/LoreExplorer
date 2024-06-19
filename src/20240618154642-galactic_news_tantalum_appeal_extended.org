@@ -2,7 +2,7 @@
 :ID:       aedc27a3-f302-48c5-8537-2697988294b1
 :END:
 #+title: Galactic News: Tantalum Appeal Extended
-#+filetags: :galnet:
+#+filetags: :3302:galnet:
 
 * Galactic News: Tantalum Appeal Extended
 

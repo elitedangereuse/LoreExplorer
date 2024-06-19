@@ -2,7 +2,7 @@
 :ID:       eba57217-d63e-4c4c-81dd-3291eff3137f
 :END:
 #+title: Privateers Alliance Campaign
-#+filetags: :galnet:
+#+filetags: :3304:galnet:
 
 * Privateers Alliance Campaign
 

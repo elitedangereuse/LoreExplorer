@@ -2,7 +2,7 @@
 :ID:       1cb0de56-01e1-4a4a-8784-9d442b31c3be
 :END:
 #+title: Galactic News: NULL Campaign Concludes
-#+filetags: :galnet:
+#+filetags: :3303:galnet:
 
 * Galactic News: NULL Campaign Concludes
 

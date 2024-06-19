@@ -2,7 +2,7 @@
 :ID:       db6def56-fcf2-4b7d-9247-872a439c3c8d
 :END:
 #+title: Alliance Initiative
-#+filetags: :galnet:
+#+filetags: :3304:galnet:
 
 * Alliance Initiative
 

@@ -2,7 +2,7 @@
 :ID:       8f7bd33e-5c32-42fc-b26b-cd81e2051fef
 :END:
 #+title: Galactic News: Empire Expands into the Pleiades
-#+filetags: :galnet:
+#+filetags: :3303:galnet:
 
 * Galactic News: Empire Expands into the Pleiades
 

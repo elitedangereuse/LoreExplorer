@@ -2,7 +2,7 @@
 :ID:       8e0cbba2-fb13-4032-9875-bcc1d8ddd22c
 :END:
 #+title: Aegis Installation Campaign
-#+filetags: :galnet:
+#+filetags: :3304:galnet:
 
 * Aegis Installation Campaign
 

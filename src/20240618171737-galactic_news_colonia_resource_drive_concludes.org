@@ -2,7 +2,7 @@
 :ID:       4fd204b0-caa6-4825-9005-ac7095928315
 :END:
 #+title: Galactic News: Colonia Resource Drive Concludes
-#+filetags: :galnet:
+#+filetags: :3303:galnet:
 
 * Galactic News: Colonia Resource Drive Concludes
 

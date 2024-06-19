@@ -2,7 +2,7 @@
 :ID:       528073e8-e067-4940-9316-741dfb01d655
 :END:
 #+title: Thargoid-Sensor Disruption Neutralised
-#+filetags: :galnet:
+#+filetags: :3304:galnet:
 
 * Thargoid-Sensor Disruption Neutralised
 

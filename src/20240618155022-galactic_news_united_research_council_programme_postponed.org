@@ -2,7 +2,7 @@
 :ID:       1defdf6b-41fc-4c0e-990e-b83657df00c3
 :END:
 #+title: Galactic News: United Research Council Programme Postponed
-#+filetags: :galnet:
+#+filetags: :3302:galnet:
 
 * Galactic News: United Research Council Programme Postponed
 

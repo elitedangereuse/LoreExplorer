@@ -2,7 +2,7 @@
 :ID:       c0a612e1-beb0-4702-8d46-0f2b4f94563b
 :END:
 #+title: Aegis Reduces Tech-Broker Requirements
-#+filetags: :galnet:
+#+filetags: :3304:galnet:
 
 * Aegis Reduces Tech-Broker Requirements
 

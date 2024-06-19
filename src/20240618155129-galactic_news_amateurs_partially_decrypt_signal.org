@@ -2,7 +2,7 @@
 :ID:       0a70d34f-dfdd-4c35-8f35-11f4e09541aa
 :END:
 #+title: Galactic News: Amateurs Partially Decrypt Signal
-#+filetags: :galnet:
+#+filetags: :3302:galnet:
 
 * Galactic News: Amateurs Partially Decrypt Signal
 

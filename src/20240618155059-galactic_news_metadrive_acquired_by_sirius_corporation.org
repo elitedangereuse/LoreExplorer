@@ -2,7 +2,7 @@
 :ID:       608f252b-c6ec-4cbb-bac8-79aa0cd2fc02
 :END:
 #+title: Galactic News: MetaDrive Acquired by Sirius Corporation
-#+filetags: :galnet:
+#+filetags: :3302:galnet:
 
 * Galactic News: MetaDrive Acquired by Sirius Corporation
 

@@ -2,7 +2,7 @@
 :ID:       093d9227-f4bf-4a4b-a97b-258e23d14a50
 :END:
 #+title: Galactic News: Further Migration to Colonia
-#+filetags: :galnet:
+#+filetags: :3303:galnet:
 
 * Galactic News: Further Migration to Colonia
 

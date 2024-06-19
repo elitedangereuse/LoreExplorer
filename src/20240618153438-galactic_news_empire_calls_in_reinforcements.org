@@ -2,7 +2,7 @@
 :ID:       8d3eaccb-4e27-4da0-a306-5977b3fc6023
 :END:
 #+title: Galactic News: Empire Calls in Reinforcements
-#+filetags: :galnet:
+#+filetags: :3302:galnet:
 
 * Galactic News: Empire Calls in Reinforcements
 

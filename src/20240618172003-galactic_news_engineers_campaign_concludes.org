@@ -2,7 +2,7 @@
 :ID:       d2580487-e42b-4fe9-8a9e-0befbb6e53ca
 :END:
 #+title: Galactic News: Engineers’ Campaign Concludes
-#+filetags: :galnet:
+#+filetags: :3303:galnet:
 
 * Galactic News: Engineers’ Campaign Concludes
 

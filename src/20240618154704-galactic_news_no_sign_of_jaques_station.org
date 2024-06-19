@@ -2,7 +2,7 @@
 :ID:       ccf31bbe-3070-4ab2-83ef-ba1ae548dc84
 :END:
 #+title: Galactic News: No Sign of Jaques Station
-#+filetags: :galnet:
+#+filetags: :3302:galnet:
 
 * Galactic News: No Sign of Jaques Station
 

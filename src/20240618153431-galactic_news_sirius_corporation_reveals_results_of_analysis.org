@@ -2,7 +2,7 @@
 :ID:       bc027bb7-031b-4cb5-8729-319e175c6fa7
 :END:
 #+title: Galactic News: Sirius Corporation Reveals Results of Analysis
-#+filetags: :galnet:
+#+filetags: :3302:galnet:
 
 * Galactic News: Sirius Corporation Reveals Results of Analysis
 

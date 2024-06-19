@@ -2,7 +2,7 @@
 :ID:       a5424d9d-fa37-4213-ba95-be8c616b9c64
 :END:
 #+title: Assembly to Vote on Proposed Changes
-#+filetags: :galnet:
+#+filetags: :3304:galnet:
 
 * Assembly to Vote on Proposed Changes
 

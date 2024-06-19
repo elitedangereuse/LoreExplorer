@@ -2,7 +2,7 @@
 :ID:       4c6f9dca-f596-4b29-8b1b-4d2a69cc2fc1
 :END:
 #+title: New Mining Tools Released
-#+filetags: :galnet:
+#+filetags: :3304:galnet:
 
 * New Mining Tools Released
 

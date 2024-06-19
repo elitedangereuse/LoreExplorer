@@ -2,7 +2,7 @@
 :ID:       a21e7f52-087c-4163-9fa6-4c55adad61b0
 :END:
 #+title: Galactic News: Exploration Data Appeals Conclude
-#+filetags: :galnet:
+#+filetags: :3302:galnet:
 
 * Galactic News: Exploration Data Appeals Conclude
 

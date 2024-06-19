@@ -2,7 +2,7 @@
 :ID:       fb6686f6-41ce-45f5-9689-c6d03c3886eb
 :END:
 #+title: Powerplay: Incoming Update
-#+filetags: :galnet:
+#+filetags: :3302:galnet:
 
 * Powerplay: Incoming Update
 

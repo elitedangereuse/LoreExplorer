@@ -2,7 +2,7 @@
 :ID:       5b7976b9-9591-4e4b-9bb9-ebe13d6c376f
 :END:
 #+title: Galactic News: Fourth Aegis Campaign Concludes
-#+filetags: :galnet:
+#+filetags: :3303:galnet:
 
 * Galactic News: Fourth Aegis Campaign Concludes
 

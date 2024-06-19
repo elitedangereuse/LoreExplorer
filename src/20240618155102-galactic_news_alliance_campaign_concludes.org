@@ -2,7 +2,7 @@
 :ID:       09a1a018-28a8-4d9d-8a3a-7011efc3a1f7
 :END:
 #+title: Galactic News: Alliance Campaign Concludes
-#+filetags: :galnet:
+#+filetags: :3302:galnet:
 
 * Galactic News: Alliance Campaign Concludes
 

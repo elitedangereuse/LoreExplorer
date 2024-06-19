@@ -2,7 +2,7 @@
 :ID:       3e0e12b9-6222-4757-a08b-e2618c85643f
 :END:
 #+title: Freelance Report: CIMA Prepares for Final Sprint
-#+filetags: :galnet:
+#+filetags: :3302:galnet:
 
 * Freelance Report: CIMA Prepares for Final Sprint
 

@@ -2,7 +2,7 @@
 :ID:       bdfe68bf-4114-4a8b-a514-9f9d609164f7
 :END:
 #+title: Galactic News: Bluford Orbital Nears Completion
-#+filetags: :galnet:
+#+filetags: :3302:galnet:
 
 * Galactic News: Bluford Orbital Nears Completion
 

@@ -2,7 +2,7 @@
 :ID:       b2f7f57f-e0fb-4e3d-9632-35fee4695d74
 :END:
 #+title: Galactic News: Federal Blockade Ends
-#+filetags: :galnet:
+#+filetags: :3303:galnet:
 
 * Galactic News: Federal Blockade Ends
 

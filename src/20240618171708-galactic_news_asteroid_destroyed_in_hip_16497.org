@@ -2,7 +2,7 @@
 :ID:       120143aa-0e41-4786-8232-0d210f770854
 :END:
 #+title: Galactic News: Asteroid Destroyed in HIP 16497
-#+filetags: :galnet:
+#+filetags: :3303:galnet:
 
 * Galactic News: Asteroid Destroyed in HIP 16497
 

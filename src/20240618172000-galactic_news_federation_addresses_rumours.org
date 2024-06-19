@@ -2,7 +2,7 @@
 :ID:       d5382b1e-4bd9-4730-bcaf-8fcd3c80b546
 :END:
 #+title: Galactic News: Federation Addresses Rumours
-#+filetags: :galnet:
+#+filetags: :3303:galnet:
 
 * Galactic News: Federation Addresses Rumours
 

@@ -2,7 +2,7 @@
 :ID:       2a9c4950-4999-4dcd-8957-354c9fe043bb
 :END:
 #+title: Galactic News: Galactic Leaders Address Thargoid Discovery
-#+filetags: :galnet:
+#+filetags: :3303:galnet:
 
 * Galactic News: Galactic Leaders Address Thargoid Discovery
 

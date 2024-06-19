@@ -2,7 +2,7 @@
 :ID:       3be1043a-73e9-447d-ac10-1501447d6ddc
 :END:
 #+title: Galactic News: Ram Tah Discovers New Sites
-#+filetags: :galnet:
+#+filetags: :3303:galnet:
 
 * Galactic News: Ram Tah Discovers New Sites
 

@@ -2,7 +2,7 @@
 :ID:       b170af9b-c5c9-4ce5-a48c-39f9e1b0e455
 :END:
 #+title: New Appointment to Council of Admirals
-#+filetags: :galnet:
+#+filetags: :3304:galnet:
 
 * New Appointment to Council of Admirals
 

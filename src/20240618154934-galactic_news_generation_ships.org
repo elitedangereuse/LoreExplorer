@@ -2,7 +2,7 @@
 :ID:       ce0a88dc-8f0f-4924-ab4b-49b1cc1b7104
 :END:
 #+title: Galactic News: Generation Ships
-#+filetags: :galnet:
+#+filetags: :3302:galnet:
 
 * Galactic News: Generation Ships
 

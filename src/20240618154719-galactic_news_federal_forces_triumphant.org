@@ -2,7 +2,7 @@
 :ID:       ea580a7c-6fb5-48bd-80e8-15606e56cf1b
 :END:
 #+title: Galactic News: Federal Forces Triumphant
-#+filetags: :galnet:
+#+filetags: :3302:galnet:
 
 * Galactic News: Federal Forces Triumphant
 

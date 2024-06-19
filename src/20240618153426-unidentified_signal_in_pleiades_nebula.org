@@ -2,7 +2,7 @@
 :ID:       b94381b5-33b6-4d27-a09d-6defc56b659d
 :END:
 #+title: Unidentified Signal in Pleiades Nebula
-#+filetags: :galnet:
+#+filetags: :3302:galnet:
 
 * Unidentified Signal in Pleiades Nebula
 

@@ -2,7 +2,7 @@
 :ID:       1bee9474-11a1-466d-88c8-5a843f432692
 :END:
 #+title: Galactic News: Third Aegis Campaign Concludes
-#+filetags: :galnet:
+#+filetags: :3303:galnet:
 
 * Galactic News: Third Aegis Campaign Concludes
 

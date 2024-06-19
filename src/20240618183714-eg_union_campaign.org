@@ -2,7 +2,7 @@
 :ID:       80a7327f-321d-42d8-aaf1-cf1a59ab2b44
 :END:
 #+title: EG Union Campaign
-#+filetags: :galnet:
+#+filetags: :3304:galnet:
 
 * EG Union Campaign
 

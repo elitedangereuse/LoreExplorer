@@ -2,7 +2,7 @@
 :ID:       3e894a19-bbb8-44c7-ba73-28ad67418ab0
 :END:
 #+title: Galactic News: Wilkes Orbital Appeal Comes to an End
-#+filetags: :galnet:
+#+filetags: :3302:galnet:
 
 * Galactic News: Wilkes Orbital Appeal Comes to an End
 

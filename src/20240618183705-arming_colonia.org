@@ -2,7 +2,7 @@
 :ID:       d87baa67-32be-47ad-808b-53bbf6e1e786
 :END:
 #+title: Arming Colonia
-#+filetags: :galnet:
+#+filetags: :3304:galnet:
 
 * Arming Colonia
 

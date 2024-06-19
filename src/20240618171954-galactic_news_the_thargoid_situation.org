@@ -2,7 +2,7 @@
 :ID:       363af5cb-45e3-41cd-a533-569788c737ee
 :END:
 #+title: Galactic News: The Thargoid Situation
-#+filetags: :galnet:
+#+filetags: :3303:galnet:
 
 * Galactic News: The Thargoid Situation
 

@@ -2,7 +2,7 @@
 :ID:       64a1ecf0-cc17-499c-b86b-49d8f46cfc05
 :END:
 #+title: Thargoids Repelled from Core Systems
-#+filetags: :galnet:
+#+filetags: :3304:galnet:
 
 * Thargoids Repelled from Core Systems
 

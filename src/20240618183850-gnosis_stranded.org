@@ -2,7 +2,7 @@
 :ID:       acca0b9c-8c18-4277-9990-2a695bc7ad30
 :END:
 #+title: Gnosis Stranded
-#+filetags: :galnet:
+#+filetags: :3304:galnet:
 
 * Gnosis Stranded
 

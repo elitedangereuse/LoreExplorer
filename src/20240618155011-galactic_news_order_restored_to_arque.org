@@ -2,7 +2,7 @@
 :ID:       f748f539-314b-4586-9c7f-1c96aa68077a
 :END:
 #+title: Galactic News: Order Restored to Arque
-#+filetags: :galnet:
+#+filetags: :3302:galnet:
 
 * Galactic News: Order Restored to Arque
 

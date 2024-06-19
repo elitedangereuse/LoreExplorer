@@ -2,7 +2,7 @@
 :ID:       a636682f-afe1-4ccd-8d67-71ae21d83eb4
 :END:
 #+title: Galactic News: Generation Ship Found
-#+filetags: :galnet:
+#+filetags: :3303:galnet:
 
 * Galactic News: Generation Ship Found
 

@@ -2,7 +2,7 @@
 :ID:       21e459ef-5555-42b8-afbd-4332da7fdd34
 :END:
 #+title: Galactic News: Palin Announces Development
-#+filetags: :galnet:
+#+filetags: :3302:galnet:
 
 * Galactic News: Palin Announces Development
 

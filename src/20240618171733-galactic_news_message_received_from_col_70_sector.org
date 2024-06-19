@@ -2,7 +2,7 @@
 :ID:       8083919f-a490-424e-8a6b-b43aac5ae574
 :END:
 #+title: Galactic News: Message Received from Col 70 Sector
-#+filetags: :galnet:
+#+filetags: :3303:galnet:
 
 * Galactic News: Message Received from Col 70 Sector
 

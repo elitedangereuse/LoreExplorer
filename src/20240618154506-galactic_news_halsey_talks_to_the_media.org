@@ -2,7 +2,7 @@
 :ID:       1dac56c9-e33d-4da6-9c71-eba6b2185cd0
 :END:
 #+title: Galactic News: Halsey Talks to the Media
-#+filetags: :galnet:
+#+filetags: :3302:galnet:
 
 * Galactic News: Halsey Talks to the Media
 

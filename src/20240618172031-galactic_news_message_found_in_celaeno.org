@@ -2,7 +2,7 @@
 :ID:       7395df09-bb64-4c7e-91ae-baee3220098c
 :END:
 #+title: Galactic News: Message Found in Celaeno
-#+filetags: :galnet:
+#+filetags: :3303:galnet:
 
 * Galactic News: Message Found in Celaeno
 

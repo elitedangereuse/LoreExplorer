@@ -2,7 +2,7 @@
 :ID:       6fc9fea4-f802-4d97-937d-f880c5d1c556
 :END:
 #+title: Simbad Regime Campaign
-#+filetags: :galnet:
+#+filetags: :3304:galnet:
 
 * Simbad Regime Campaign
 

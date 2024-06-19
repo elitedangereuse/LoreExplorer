@@ -2,7 +2,7 @@
 :ID:       c6ca2b93-8870-4c5c-a850-b7f4cfa03f32
 :END:
 #+title: Colonia Project Requests Microresources
-#+filetags: :galnet:
+#+filetags: :3304:galnet:
 
 * Colonia Project Requests Microresources
 

@@ -2,7 +2,7 @@
 :ID:       372c8bae-e64c-472a-a7e1-118babc2735a
 :END:
 #+title: Galactic News: LFT 133 Campaign Concludes
-#+filetags: :galnet:
+#+filetags: :3302:galnet:
 
 * Galactic News: LFT 133 Campaign Concludes
 

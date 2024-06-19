@@ -2,7 +2,7 @@
 :ID:       fa94ae8d-ef21-4308-8106-949bc93abf2b
 :END:
 #+title: Galactic News: Thargoids Adapting Rapidly
-#+filetags: :galnet:
+#+filetags: :3303:galnet:
 
 * Galactic News: Thargoids Adapting Rapidly
 

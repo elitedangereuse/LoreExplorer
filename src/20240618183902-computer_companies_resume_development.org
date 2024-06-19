@@ -2,7 +2,7 @@
 :ID:       d172c7c8-57b4-4a4e-ad16-1d225df20f47
 :END:
 #+title: Computer Companies Resume Development
-#+filetags: :galnet:
+#+filetags: :3304:galnet:
 
 * Computer Companies Resume Development
 

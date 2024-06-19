@@ -2,7 +2,7 @@
 :ID:       28a40bfe-927b-40ca-b805-ba0a2169ed7e
 :END:
 #+title: Galactic News: Starports Attacked by Thargoids
-#+filetags: :galnet:
+#+filetags: :3303:galnet:
 
 * Galactic News: Starports Attacked by Thargoids
 

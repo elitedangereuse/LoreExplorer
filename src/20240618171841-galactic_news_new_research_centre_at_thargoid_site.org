@@ -2,7 +2,7 @@
 :ID:       277588cd-d5c8-4b76-a355-4d0e969422f4
 :END:
 #+title: Galactic News: New Research Centre at Thargoid Site
-#+filetags: :galnet:
+#+filetags: :3303:galnet:
 
 * Galactic News: New Research Centre at Thargoid Site
 

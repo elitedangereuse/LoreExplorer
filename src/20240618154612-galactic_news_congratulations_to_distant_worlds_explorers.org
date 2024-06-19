@@ -2,7 +2,7 @@
 :ID:       a1251b48-0328-450a-b491-949b1aaee9f4
 :END:
 #+title: Galactic News: Congratulations to Distant Worlds Explorers
-#+filetags: :galnet:
+#+filetags: :3302:galnet:
 
 * Galactic News: Congratulations to Distant Worlds Explorers
 

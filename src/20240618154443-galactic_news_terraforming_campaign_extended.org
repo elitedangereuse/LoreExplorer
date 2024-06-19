@@ -2,7 +2,7 @@
 :ID:       54d7f093-40d9-413f-b5cd-47bbf66bee6f
 :END:
 #+title: Galactic News: Terraforming Campaign Extended
-#+filetags: :galnet:
+#+filetags: :3302:galnet:
 
 * Galactic News: Terraforming Campaign Extended
 

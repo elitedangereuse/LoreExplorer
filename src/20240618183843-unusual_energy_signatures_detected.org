@@ -2,7 +2,7 @@
 :ID:       721b9165-6b6b-4351-a48f-e8706149e47e
 :END:
 #+title: Unusual Energy Signatures Detected
-#+filetags: :galnet:
+#+filetags: :3304:galnet:
 
 * Unusual Energy Signatures Detected
 

@@ -2,7 +2,7 @@
 :ID:       1a382fc0-68f6-40ca-aa8b-9c5ec0255a6b
 :END:
 #+title: Galactic News: Order Restored in Colonia
-#+filetags: :galnet:
+#+filetags: :3303:galnet:
 
 * Galactic News: Order Restored in Colonia
 

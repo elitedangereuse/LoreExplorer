@@ -2,7 +2,7 @@
 :ID:       e5ca5e85-c219-4044-a785-d66e4232ca83
 :END:
 #+title: Galactic News: Appeal for Osmium Successful
-#+filetags: :galnet:
+#+filetags: :3302:galnet:
 
 * Galactic News: Appeal for Osmium Successful
 

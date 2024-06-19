@@ -2,7 +2,7 @@
 :ID:       2d667322-d671-426a-91ec-fad240edd4d9
 :END:
 #+title: Galactic News: Alectrona Imperial Society Operation Succeeds
-#+filetags: :galnet:
+#+filetags: :3303:galnet:
 
 * Galactic News: Alectrona Imperial Society Operation Succeeds
 

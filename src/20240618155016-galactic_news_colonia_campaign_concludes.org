@@ -2,7 +2,7 @@
 :ID:       defba4a5-66a2-416f-993c-04339fa8d1c1
 :END:
 #+title: Galactic News: Colonia Campaign Concludes
-#+filetags: :galnet:
+#+filetags: :3302:galnet:
 
 * Galactic News: Colonia Campaign Concludes
 

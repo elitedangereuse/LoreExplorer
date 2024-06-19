@@ -2,7 +2,7 @@
 :ID:       67b275e8-983e-4973-a75c-5ffb62fd5485
 :END:
 #+title: Galactic News: Location of Colonia Outposts Announced
-#+filetags: :galnet:
+#+filetags: :3302:galnet:
 
 * Galactic News: Location of Colonia Outposts Announced
 

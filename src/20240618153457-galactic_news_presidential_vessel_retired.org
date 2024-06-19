@@ -2,7 +2,7 @@
 :ID:       3e461c14-9fef-45db-b951-a49dba417d7a
 :END:
 #+title: Galactic News: Presidential Vessel Retired
-#+filetags: :galnet:
+#+filetags: :3302:galnet:
 
 * Galactic News: Presidential Vessel Retired
 

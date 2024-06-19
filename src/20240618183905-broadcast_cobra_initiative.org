@@ -2,7 +2,7 @@
 :ID:       cafa44e3-9e34-4ef4-866d-49e5a7a0bc11
 :END:
 #+title: Broadcast Cobra Initiative
-#+filetags: :galnet:
+#+filetags: :3304:galnet:
 
 * Broadcast Cobra Initiative
 

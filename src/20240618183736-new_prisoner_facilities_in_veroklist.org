@@ -2,7 +2,7 @@
 :ID:       cec7f687-0bf0-41f1-8b98-00079be3ea9d
 :END:
 #+title: New Prisoner Facilities in Veroklist
-#+filetags: :galnet:
+#+filetags: :3304:galnet:
 
 * New Prisoner Facilities in Veroklist
 

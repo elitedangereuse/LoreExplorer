@@ -2,7 +2,7 @@
 :ID:       cad77c6e-7871-4312-a305-de7cbe6cb656
 :END:
 #+title: Galactic News: Jaques Station on the Mend
-#+filetags: :galnet:
+#+filetags: :3302:galnet:
 
 * Galactic News: Jaques Station on the Mend
 

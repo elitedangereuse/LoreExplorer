@@ -2,7 +2,7 @@
 :ID:       6c8925a0-2006-49e3-92b5-8cfc1aa6ec3e
 :END:
 #+title: Alliance Initiative
-#+filetags: :galnet:
+#+filetags: :3304:galnet:
 
 * Alliance Initiative
 

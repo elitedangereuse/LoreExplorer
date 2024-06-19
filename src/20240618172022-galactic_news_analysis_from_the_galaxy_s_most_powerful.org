@@ -2,7 +2,7 @@
 :ID:       ac5e46cc-6689-46f5-bd8d-7d96928f3775
 :END:
 #+title: Galactic News: Analysis from the Galaxy’s Most Powerful
-#+filetags: :galnet:
+#+filetags: :3303:galnet:
 
 * Galactic News: Analysis from the Galaxy’s Most Powerful
 

@@ -2,7 +2,7 @@
 :ID:       e64f4d2e-a217-473d-913b-97cb1cf059cf
 :END:
 #+title: Galactic News: Sirius Corporation Campaign Ends
-#+filetags: :galnet:
+#+filetags: :3303:galnet:
 
 * Galactic News: Sirius Corporation Campaign Ends
 

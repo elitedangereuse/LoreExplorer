@@ -2,7 +2,7 @@
 :ID:       4cb31420-cb19-48f6-b876-3e933992ed36
 :END:
 #+title: Galactic News: Alliance Defends Research Initiative
-#+filetags: :galnet:
+#+filetags: :3303:galnet:
 
 * Galactic News: Alliance Defends Research Initiative
 
