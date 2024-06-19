@@ -1,14 +1,14 @@
 :PROPERTIES:
 :ID:       3600ef6b-e1e7-4451-a9c4-462c9ce0530c
 :END:
-#+title: Freelance Report: Dr Arcanonn Responds to Plea for Meta-Alloys
+#+title: Freelance Report: [[id:941ab45b-f406-4b3a-a99b-557941634355][Dr Arcanonn]] Responds to Plea for Meta-Alloys
 #+filetags: :3302:galnet:
 
-* Freelance Report: Dr Arcanonn Responds to Plea for Meta-Alloys
+* Freelance Report: [[id:941ab45b-f406-4b3a-a99b-557941634355][Dr Arcanonn]] Responds to Plea for Meta-Alloys
 
 /25 Feb 3302/
 
-Responding to the suggestion that more meta-alloys be shipped to stations experiencing technical issues, Dr Arcanonn of the Canonn Interstellar Research Group has issued a statement: 
+Responding to the suggestion that more meta-alloys be shipped to stations experiencing technical issues, [[id:941ab45b-f406-4b3a-a99b-557941634355][Dr Arcanonn]] of the Canonn Interstellar Research Group has issued a statement: 
 
 "Many teams from the Canonn Interstellar Research Group have already started collecting meta-alloys. Some have been doing so for many days. But one thing bothers me. The community painstakingly collected and shipped thousands of tonnes of meta-alloys to Obsidian Orbital for Professor Palin. Where did they go? Surely the engineering teams at Obsidian Orbital didn't use them all up?" 
 
