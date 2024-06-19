@@ -16,6 +16,6 @@ Meanwhile, analytical reports released by Aegis have confirmed a pattern to the 
 
 Authorities in Colonia have decided to step up security by building a new security installation in the region. The Arek Crimson Vision Corporation has launched a parallel campaign to boost Colonia’s military strength by providing the region with weapons. Both initiatives are a direct response to ongoing Thargoid hostility. 
 
-Finally, Admiral Denton Patreus has announced that the joint Federal-Imperial operation in the Pleiades Sector OI-T c3-7 and Arietis Sector XE-Z b4 systems has succeeded in achieving its objectives. Scores of independent pilots supported the campaign by eliminating Thargoids, and by recovering black boxes and personal effects from Thargoid attack sites. 
+Finally, Admiral [[id:75daea85-5e9f-4f6f-a102-1a5edea0283c][Denton Patreus]] has announced that the joint Federal-Imperial operation in the Pleiades Sector OI-T c3-7 and Arietis Sector XE-Z b4 systems has succeeded in achieving its objectives. Scores of independent pilots supported the campaign by eliminating Thargoids, and by recovering black boxes and personal effects from Thargoid attack sites. 
 
 And those are the main stories this week.

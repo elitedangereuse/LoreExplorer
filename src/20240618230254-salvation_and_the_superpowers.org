@@ -14,7 +14,7 @@ Vox Galactica published a report from political correspondent Conrad Sterling:
 
 “Salvation has always been a contentious figure, and the logs found in the DG Canum Venaticorum system have polarised public opinion further. Some are enraged that Salvation may have history with INRA or be responsible for the loss of the Alexandria. Others believe Aegis’s claims to be false, a desperate attempt to save themselves. But how have the superpowers reacted?” 
 
-“The Empire is taking a pragmatic view, with Senator Denton Patreus focusing on the strategic objective of defeating the Thargoids. As he bluntly told the Senate: ‘Nothing in the Imperial armoury comes close to matching the anti-xeno superweapon’s devastating capabilities.’” 
+“The Empire is taking a pragmatic view, with Senator [[id:75daea85-5e9f-4f6f-a102-1a5edea0283c][Denton Patreus]] focusing on the strategic objective of defeating the Thargoids. As he bluntly told the Senate: ‘Nothing in the Imperial armoury comes close to matching the anti-xeno superweapon’s devastating capabilities.’” 
 
 “In the Federation, Fleet Admiral Tayo Maikori has revived his investigation into Salvation and is hoping to authenticate the INRA logs. But other Federal leaders have adopted a ‘wait and see’ approach, refusing to be drawn on the controversy.” 
 

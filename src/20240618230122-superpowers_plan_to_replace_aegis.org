@@ -12,7 +12,7 @@ The Alliance, Empire and Federation have accepted the Baumann Report’s recomme
 
 The independent inquiry’s findings on the organisation’s failings will result in Aegis being immediately shut down. However, Chief Administrator Carter Armstrong has cautioned that “full demobilisation of staff, ships and resources might take several months”. 
 
-Senator Denton Patreus has successfully obtained senatorial approval for an increased military budget, to allow the Imperial Navy to directly take on the role played by Aegis. 
+Senator [[id:75daea85-5e9f-4f6f-a102-1a5edea0283c][Denton Patreus]] has successfully obtained senatorial approval for an increased military budget, to allow the Imperial Navy to directly take on the role played by Aegis. 
 
 Fleet Admiral Tayo Maikori likewise confirmed that the Federal Congress has ordered the creation of a new naval strike force. On his own authority he has also commissioned an investigation into Salvation, following Ram Tah’s testimony regarding the nature of the anti-xeno superweapon. 
 
