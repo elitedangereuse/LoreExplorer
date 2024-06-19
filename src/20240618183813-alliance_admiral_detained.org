@@ -20,7 +20,7 @@ The arrest has created diplomatic ripples, with Federal and Imperial ambassadors
 
 “For agents of the Federal Intelligence Agency and Imperial Internal Security Service to abduct an Alliance admiral is an egregious transgression. They will not get away with this.” 
 
-The Council of Admirals has called for an independent inquiry to verify the accusations levied at Admiral Varma. Prime Minister Edmund Mahon made a public statement: 
+The Council of Admirals has called for an independent inquiry to verify the accusations levied at Admiral Varma. Prime Minister [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74][Edmund Mahon]] made a public statement: 
 
 “This has come as a great shock, but the body of evidence against Admiral Varma is considerable. I am confident that the trial will be fair, and that our own representative within the tri-superpower taskforce will ensure that justice is done.” 
 
