@@ -1,6 +1,5 @@
 :PROPERTIES:
 :ID:       2891de55-e2d4-429c-b761-095a74482a02
-:ROAM_ALIASES: Empire
 :END:
 #+title: The Empire
 #+filetags: :Codex:
