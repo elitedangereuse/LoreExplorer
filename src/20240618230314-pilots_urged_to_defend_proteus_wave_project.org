@@ -12,7 +12,7 @@
 
 As the Thargoid presence increases in the HIP 22460 system, Azimuth Biotech and the superpowers call for reinforcements. 
 
-An urgent bulletin was transmitted from Commodore Morag Halloran aboard the Bright Sentinel: 
+An urgent bulletin was transmitted from Commodore [[id:bcaa9222-b056-41cf-9361-68dd8d3424fb][Morag Halloran]] aboard the Bright Sentinel: 
 
 “A series of actions by ‘Operation Wych Hunt’ saboteurs have resulted in delays to Azimuth Biotech’s supply infrastructure. As a result of these traitorous acts, we have been forced to amend the construction timetable for the Proteus Wave.” 
 
