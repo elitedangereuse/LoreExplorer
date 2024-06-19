@@ -12,7 +12,7 @@ The Starship Enterprises faction has issued a public request for mined resources
 
 SE Mining, a subdivision of Starship Enterprises, requires materials to construct a specialised installation in the LP 339-7 system. The proposed starport will serve as a departmental headquarters while also providing services to travellers in the region. 
 
-Dr Lewis Chapman, CEO of Starship Enterprises, announced: 
+Dr [[id:246ac86d-4a96-4fdc-907d-d8a84b142e70][Lewis Chapman]], CEO of [[id:d20f91af-3196-4258-ad57-64c7c61e5ed9][Starship Enterprises]], announced: 
 
 “There has long been a rift between our system’s prosperous inner worlds and the less wealthy outer gas giants. SE Mining will bridge this divide with a new asteroid base among the rings of the fourth planet, which will generate trade to benefit the entire system.” 
 
