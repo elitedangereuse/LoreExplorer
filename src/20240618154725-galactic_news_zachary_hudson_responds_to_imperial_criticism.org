@@ -1,16 +1,16 @@
 :PROPERTIES:
 :ID:       f31e584f-4e58-4b18-bbc0-756618b843e5
 :END:
-#+title: Galactic News: Zachary Hudson Responds to Imperial Criticism
+#+title: Galactic News: [[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][Zachary Hudson]] Responds to Imperial Criticism
 #+filetags: :3302:galnet:
 
-* Galactic News: Zachary Hudson Responds to Imperial Criticism
+* Galactic News: [[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][Zachary Hudson]] Responds to Imperial Criticism
 
 /02 Jul 3302/
 
 Yesterday, the Empire joined the debate over the Federation's decision to deploy Farragut Battle Cruisers in the Merope system. In a statement, Senator Zemina Torval asserted that the use of Federal warships represented an attempt to claim possession of the non-human structures, commonly known as barnacles, found in Merope. 
 
-Responding to this criticism, Federal President Zachary Hudson has released a statement to the media: 
+Responding to this criticism, Federal President [[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][Zachary Hudson]] has released a statement to the media: 
 
 "Our motives are entirely altruistic. The Federal presence in the Pleiades is motivated solely by a desire to protect the non-human structures located there." 
 

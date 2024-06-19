@@ -12,7 +12,7 @@
 
 Data deliveries are required by competing initiatives to increase or decrease civilian surveillance in the Federation.  
 
-President Zachary Hudson has asked the public to contribute to making the Proactive Detection Bureau more effective: 
+President [[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][Zachary Hudson]] has asked the public to contribute to making the Proactive Detection Bureau more effective: 
 
 “The PDB requires access to lesser-known comms channels where terrorists and criminals lurk. Supplying it with data from multiple sources will allow us to root out more potential threats.” 
 
