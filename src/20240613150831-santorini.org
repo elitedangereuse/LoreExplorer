@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       9492a08d-0edc-46db-969f-dc8670665346
 :END:
-#+title: Santorini
+#+title: Raul Santorini
 #+filetags: :Individual:
-
+Governor of [[id:da11b7b5-2c5a-4f17-9cd4-ce28a2f34dbd][Tau-Ceti]]
+Was [[id:a8068e9d-6706-47da-a19c-2ac943ea8811][assassinated]]

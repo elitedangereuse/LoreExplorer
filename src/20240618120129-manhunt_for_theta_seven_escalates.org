@@ -1,10 +1,10 @@
 :PROPERTIES:
 :ID:       a8487a1a-c3d8-4388-8698-0e8ab7be8f49
 :END:
-#+title: Manhunt for Theta Seven Escalates
+#+title: Manhunt for [[id:7878ad2d-4118-4028-bfff-90a3976313bd][Theta Seven]] Escalates
 #+filetags: :galnet:
 
-* Manhunt for Theta Seven Escalates
+* Manhunt for [[id:7878ad2d-4118-4028-bfff-90a3976313bd][Theta Seven]] Escalates
 
 /12 Nov 3307/
 
@@ -16,7 +16,7 @@ ACT successfully captured most of the bomb-making engineers known as Theta Group
 
 This latest breakthrough was explained by Captain Milo Castile: 
 
-“Theta Group managed to delete most of their data prior to capture, but we retrieved a short message that they received on the 31st of July. At this point most of Theta Group were being harboured by Neo-Marlinist sympathisers within the Marlinist Colonies, but Theta Seven and his closest aides had fled to an unknown destination.” 
+“Theta Group managed to delete most of their data prior to capture, but we retrieved a short message that they received on the 31st of July. At this point most of Theta Group were being harboured by Neo-Marlinist sympathisers within the Marlinist Colonies, but [[id:7878ad2d-4118-4028-bfff-90a3976313bd][Theta Seven]] and his closest aides had fled to an unknown destination.” 
 
 “Unfortunately the message has been encrypted using a pre-arranged cipher key, without which its contents are unreadable. It is unclear why this wasn’t transmitted via the NMLA’s dark-comms network, which remains undetectable despite our best efforts.” 
 
