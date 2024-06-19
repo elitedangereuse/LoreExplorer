@@ -1,10 +1,10 @@
 :PROPERTIES:
 :ID:       fc645f68-9fdc-4f89-a084-aaa9e4ac6a01
 :END:
-#+title: Zemina Torval Returns to the Senate
+#+title: [[id:d8e3667c-3ba1-43aa-bc90-dac719c6d5e7][Zemina Torval]] Returns to the Senate
 #+filetags: :galnet:
 
-* Zemina Torval Returns to the Senate
+* [[id:d8e3667c-3ba1-43aa-bc90-dac719c6d5e7][Zemina Torval]] Returns to the Senate
 
 /11 Jan 3310/
 
@@ -12,7 +12,7 @@ The Imperial Senate has formally welcomed back Senator Zemina Torval, following 
 
 Torval’s reappearance put an end to rumours that she was suffering from ill health. Her youngest daughter, Senator Petra Torval, had been standing in for her mother by representing the Imperial populace of the Synteini system. 
 
-Addressing the Senate, Zemina Torval said: 
+Addressing the Senate, [[id:d8e3667c-3ba1-43aa-bc90-dac719c6d5e7][Zemina Torval]] said: 
 
 “I am grateful to this august body, and to Her Majesty the Emperor, for permitting me a short respite from my duties. I have used this time to fully discharge my corporate responsibilities. As is common knowledge, ownership of Torval Mining Ltd has been transferred to my eldest daughter Constantia. She will ensure that Imperial industries continue to be supplied with vital mineral resources.” 
 
@@ -20,6 +20,6 @@ Addressing the Senate, Zemina Torval said:
 
 Cassia Carvalho, political correspondent for The Imperial Herald, observed: 
 
-“At 132 years old, Zemina Torval is one of the oldest serving members of the Senate. During her decades of service she has made many enemies, all of whom must have been deeply irritated to see her return, looking and sounding as formidable as ever.” 
+“At 132 years old, [[id:d8e3667c-3ba1-43aa-bc90-dac719c6d5e7][Zemina Torval]] is one of the oldest serving members of the Senate. During her decades of service she has made many enemies, all of whom must have been deeply irritated to see her return, looking and sounding as formidable as ever.” 
 
 “The reason she avoided retirement could be that Chancellor [[id:e9679720-e0c1-449e-86a6-a5b3de3613f5][Anders Blaine]] is considering taking that route for himself. Due to her seniority, Torval has temporarily deputised as chancellor on more than one occasion. If Blaine stands down and the most powerful position in the Senate becomes vacant, that would certainly justify Torval’s decision to focus exclusively on her political career.”

@@ -10,7 +10,7 @@
 
 Over the past week, there has been considerable debate over the presence of Federal battle cruisers in the Merope system. The ships have taken up position near the non-human structures commonly known as barnacles, prompting censure from various sections of the galactic community. 
 
-A recent statement from Admiral Maxton Price of the Federal Navy argued that the Federal presence in Merope was "entirely legitimate". In response, Imperial Senator Zemina Torval has released a statement condemning what she says is an attempt to lay claim to the barnacles and, by extension, the meta-alloys. 
+A recent statement from Admiral Maxton Price of the Federal Navy argued that the Federal presence in Merope was "entirely legitimate". In response, Imperial Senator [[id:d8e3667c-3ba1-43aa-bc90-dac719c6d5e7][Zemina Torval]] has released a statement condemning what she says is an attempt to lay claim to the barnacles and, by extension, the meta-alloys. 
 
 "Meta-alloys are the only material capable of countering the disruptive effects of the Unknown Artefacts, and are therefore of singular value." 
 

@@ -16,6 +16,6 @@ Political journalist Cassia Carvalho reviewed the situation for The Imperial Her
 
 “Now, for the first time, Hadrian openly approves of the Emperor’s decisions. As he told Paresa News Network: ‘Walking away from the Alliance and Federation is the right path for the Empire to take. The Imperial Navy deserves to be our priority, to reinforce our strength and better defend us against our enemies.’” 
 
-“Senator Zemina Torval dismissed this as a ‘hypocritical volte-face’, but in truth, Hadrian has always championed isolationism and traditional Imperial values. He seems as surprised as anyone to find that Emperor Arissa now shares some of his political ideologies. Ironically, it is now Princess [[id:b402bbe3-5119-4d94-87ee-0ba279658383][Aisling Duval]] who has emerged as the voice of rebellion against Imperial policy.” 
+“Senator [[id:d8e3667c-3ba1-43aa-bc90-dac719c6d5e7][Zemina Torval]] dismissed this as a ‘hypocritical volte-face’, but in truth, Hadrian has always championed isolationism and traditional Imperial values. He seems as surprised as anyone to find that Emperor Arissa now shares some of his political ideologies. Ironically, it is now Princess [[id:b402bbe3-5119-4d94-87ee-0ba279658383][Aisling Duval]] who has emerged as the voice of rebellion against Imperial policy.” 
 
 “Others in the Senate have suggested that Hadrian Duval might serve the Empire in a more official capacity, or be bestowed a title and accepted into the nobility. The Emperor may find that the young man who was once her greatest threat could be transformed into a loyal ally.”

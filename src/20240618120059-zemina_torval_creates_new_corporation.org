@@ -1,10 +1,10 @@
 :PROPERTIES:
 :ID:       e977fd3d-e610-49da-b02a-8afca3daed1d
 :END:
-#+title: Zemina Torval Creates New Corporation
+#+title: [[id:d8e3667c-3ba1-43aa-bc90-dac719c6d5e7][Zemina Torval]] Creates New Corporation
 #+filetags: :galnet:
 
-* Zemina Torval Creates New Corporation
+* [[id:d8e3667c-3ba1-43aa-bc90-dac719c6d5e7][Zemina Torval]] Creates New Corporation
 
 /10 Aug 3307/
 
@@ -18,6 +18,6 @@ Senator Torval confirmed her plans in a statement to The Imperial Herald:
 
 Marlon Royce, business analyst for Vox Galactica, reported: 
 
-“The persistent rumours of a rift between Zemina Torval and her cousin, CEO Gabriella Mastopolos, may now be validated. Insiders report that after decades of working behind the scenes, Torval wishes to provide a more tangible legacy for her own children. Already she has set her sights on a permit-controlled system as the headquarters for this new company.” 
+“The persistent rumours of a rift between [[id:d8e3667c-3ba1-43aa-bc90-dac719c6d5e7][Zemina Torval]] and her cousin, CEO Gabriella Mastopolos, may now be validated. Insiders report that after decades of working behind the scenes, Torval wishes to provide a more tangible legacy for her own children. Already she has set her sights on a permit-controlled system as the headquarters for this new company.” 
 
-As well as being renowned for her private wealth and corporate enterprises, Zemina Torval has been a prominent member of the Imperial Senate for decades. She has occasionally deputised as chancellor, and is known to be an outspoken champion of the Empire’s traditions.
+As well as being renowned for her private wealth and corporate enterprises, [[id:d8e3667c-3ba1-43aa-bc90-dac719c6d5e7][Zemina Torval]] has been a prominent member of the Imperial Senate for decades. She has occasionally deputised as chancellor, and is known to be an outspoken champion of the Empire’s traditions.
