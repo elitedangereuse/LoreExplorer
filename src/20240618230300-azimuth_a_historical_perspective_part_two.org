@@ -24,7 +24,7 @@ A successful initiative in May 3307 resulted in enormous quantities of Guardian 
 
 An independent board of inquiry was established to investigate the loss of the Alexandria. So thorough was this investigation that most of Aegis’s activities were suspended, and many leading figures forced to resign. Public confidence in the agency was low, with a general sense that it was no longer fit for purpose. 
 
-In November 3307, Aegis was brought further into disrepute when its chief military liaison went rogue. Admiral Aden Tanner led an unauthorised assault against Hind Mine in the T Tauri system, the headquarters of Salvation’s corporate ally Taurus Mining Ventures. Tanner was convinced that Salvation’s activities deliberately provoked the Thargoids and that the starport contained evidence of this. His actions would result in failure and court martial, accelerating Aegis’s fall from grace.  
+In November 3307, Aegis was brought further into disrepute when its chief military liaison went rogue. Admiral [[id:7bca1ccd-649e-438a-ae56-fb8ca34e6440][Aden Tanner]] led an unauthorised assault against Hind Mine in the T Tauri system, the headquarters of Salvation’s corporate ally Taurus Mining Ventures. Tanner was convinced that Salvation’s activities deliberately provoked the Thargoids and that the starport contained evidence of this. His actions would result in failure and court martial, accelerating Aegis’s fall from grace.  
 
 The Baumann Report, which published the inquiry’s findings in January 3308, exposed endemic weaknesses including negligence, poor management, and the treatment of pilots as disposable mercenaries. The casualties resulting from the Alexandria disaster and the Hind Mine attack were the final nails in the agency’s coffin.  
 
