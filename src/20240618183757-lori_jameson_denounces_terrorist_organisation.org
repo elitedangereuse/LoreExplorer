@@ -1,14 +1,14 @@
 :PROPERTIES:
 :ID:       9a0d54de-e664-495f-9f16-eb510ed2d405
 :END:
-#+title: Lori Jameson Denounces Terrorist Organisation
+#+title: [[id:1950129f-ad8e-453a-94ac-8bb0813e2e28][Lori Jameson]] Denounces Terrorist Organisation
 #+filetags: :3304:galnet:
 
-* Lori Jameson Denounces Terrorist Organisation
+* [[id:1950129f-ad8e-453a-94ac-8bb0813e2e28][Lori Jameson]] Denounces Terrorist Organisation
 
 /16 Jun 3304/
 
-The engineer Lori Jameson has made a public statement regarding the League of Reparation. The terrorist group claims to be seeking justice for the betrayal of her ancestor, the legendary pilot Commander John Jameson. 
+The engineer [[id:1950129f-ad8e-453a-94ac-8bb0813e2e28][Lori Jameson]] has made a public statement regarding the League of Reparation. The terrorist group claims to be seeking justice for the betrayal of her ancestor, the legendary pilot Commander John Jameson. 
 
 Her message was recorded at Jameson Memorial and broadcast by several media networks: 
 
@@ -20,4 +20,4 @@ Her message was recorded at Jameson Memorial and broadcast by several media netw
 
 Senior Agent Tanya Ramirez, a member of the tri-power taskforce dedicated to stopping the League, added: 
 
-“I can confirm that Lori Jameson is cooperating with our investigation. We are completely satisfied that she, her family and her associates are entirely unconnected to the League of Reparation. We hope that her message convinces Nexus to see sense and stop this pointless violence.”
+“I can confirm that [[id:1950129f-ad8e-453a-94ac-8bb0813e2e28][Lori Jameson]] is cooperating with our investigation. We are completely satisfied that she, her family and her associates are entirely unconnected to the League of Reparation. We hope that her message convinces Nexus to see sense and stop this pointless violence.”
