@@ -12,7 +12,7 @@ Sirius Atmospherics has delivered an update on its experiments to terraform ammo
 
 The subsidiary of Sirius Corporation is working closely with the Alliance to exploit the nebula’s resources and pursue scientific investigation, including terraforming terrestrial planets with ammonia-based atmospheres. 
 
-Project director Dr Maximilian North gave this progress report: 
+Project director Dr [[id:eb0165b3-7d95-4887-ad0c-3db012756434][Maximilian North]] gave this progress report: 
 
 “Preliminary efforts at ecosphere conversion have delivered promising results, but our new techniques are not as effective as the simulations based on exploration data suggested. We are still a long way from fully transforming these worlds into habitable environments.” 
 
