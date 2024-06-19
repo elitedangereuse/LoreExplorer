@@ -8,7 +8,7 @@
 
 /23 Feb 3309/
 
-An overview of recent developments regarding the Thargoid conflict, as reported by Jade Sanderlyn on the Vox Galactica newsfeed.  
+An overview of recent developments regarding the Thargoid conflict, as reported by [[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]] on the Vox Galactica newsfeed.  
 
 “Over the last month, Thargoid fleets have continued expanding outwards from the eight Maelstroms. The front lines of the war are relentlessly encroaching deeper into the core systems, leaving desolation and death in their wake.” 
 
@@ -20,4 +20,4 @@ An overview of recent developments regarding the Thargoid conflict, as reported 
 
 “Of course, the biggest news is the resurrection of Aegis. Key figures in the Alliance, Empire and Federation managed to re-establish the anti-xeno agency that was once abandoned in favour of Salvation. Already there are promises of technological breakthroughs, including the ability for ships to better withstand the caustic hell inside the Maelstroms.” 
 
-“As our best and brightest work together in earnest, time will tell if they can prevent this war from overwhelming us all. This is Jade Sanderlyn for Vox Galactica. Stay safe out there.”
+“As our best and brightest work together in earnest, time will tell if they can prevent this war from overwhelming us all. This is [[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]] for Vox Galactica. Stay safe out there.”

@@ -8,7 +8,7 @@
 
 /20 Jan 3309/
 
-Vox Galactica reporter Jade Sanderlyn has published a summary of the current situation in the conflict against the Thargoids. 
+Vox Galactica reporter [[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]] has published a summary of the current situation in the conflict against the Thargoids. 
 
 “Many of us who witnessed those terrifying events in HIP 22460 felt that it was both an ending and a beginning – that history had turned a page. Five months later, the Second Thargoid War has escalated to a point which may yet close the book altogether.” 
 
@@ -20,4 +20,4 @@ Vox Galactica reporter Jade Sanderlyn has published a summary of the current sit
 
 “But there is hope. A small but steady flow of unclassified relics, those strange artefacts recovered from Thargoid surface sites after the Proteus Wave fired, have made their way to Professor Ishmael Palin and Ram Tah. A leading theory is that they share esoteric properties with several of the Thargoids’ recent technological advances, and may hold the key to developing countermeasures. Many other scientists are focusing on xenological research, striving to locate a weakness or develop an advantage.” 
 
-“Until such a breakthrough occurs, we are reliant upon our spacefaring warriors to contain the most destructive adversary the human race has ever faced. This is Jade Sanderlyn for Vox Galactica. Stay safe out there.”
+“Until such a breakthrough occurs, we are reliant upon our spacefaring warriors to contain the most destructive adversary the human race has ever faced. This is [[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]] for Vox Galactica. Stay safe out there.”

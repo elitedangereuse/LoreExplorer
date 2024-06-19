@@ -10,7 +10,7 @@
 
 Vox Galactica has published an on-site account from the HIP 22460 system, where a coalition fleet is engaged in combat with the Thargoids. 
 
-“This is Jade Sanderlyn reporting for Vox Galactica. I’ve been in HIP 22460 over the past two weeks, and during this time the system has been transformed into a ferocious battleground.” 
+“This is [[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]] reporting for Vox Galactica. I’ve been in HIP 22460 over the past two weeks, and during this time the system has been transformed into a ferocious battleground.” 
 
 “Naval and independent craft are fighting side by side against the biomechanical nightmares that are Thargoid vessels. Many brave pilots have lost their lives to the aliens’ firepower, several of whom I spoke to only hours before. The official casualty numbers are climbing rapidly. But so far the coalition is holding the line.” 
 
@@ -22,4 +22,4 @@ Vox Galactica has published an on-site account from the HIP 22460 system, where 
 
 “Could HIP 22460 really be the final battle of the Second Thargoid War? Many combat pilots here are convinced that Salvation can achieve this, and are willing to die for his cause. Right now, we can only wait and hope that their continued sacrifices are worthwhile.” 
 
-“This is Jade Sanderlyn for Vox Galactica. Stay safe out there.”
+“This is [[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]] for Vox Galactica. Stay safe out there.”

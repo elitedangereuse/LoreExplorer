@@ -8,7 +8,7 @@
 
 /30 Oct 3309/
 
-Vox Galactica’s Jade Sanderlyn discusses the successful recovery of people from the Titans and developments at the new Thargoid spire sites. 
+Vox Galactica’s [[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]] discusses the successful recovery of people from the Titans and developments at the new Thargoid spire sites. 
 
 “When Aegis announced its plans to free abductees from the Thargoid motherships, I wasn’t the only one expecting the worst outcome. Turning a core mining missile into a way to extract life-support capsules from the Titans sounded extremely risky. And even if it worked, what state would these poor people be in after such a horrific experience?” 
 
@@ -20,4 +20,4 @@ Vox Galactica’s Jade Sanderlyn discusses the successful recovery of people fro
 
 “Elsewhere, resistance to the aliens remains as dedicated as ever. At the time of writing, no new invasions have been reported, and the Thargoids occupy only a third of the territory previously conquered by their fleets. Scores of once-inhabited systems still need to be liberated, but the mood among anti-xeno forces is that the tide has turned in humanity’s favour.” 
 
-“This is Jade Sanderlyn reporting for Vox Galactica. Stay safe out there.”
+“This is [[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]] reporting for Vox Galactica. Stay safe out there.”

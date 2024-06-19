@@ -8,7 +8,7 @@
 
 /28 Jul 3309/
 
-Vox Galactica journalist Jade Sanderlyn reports on the latest news emerging from the front lines of the conflict. 
+Vox Galactica journalist [[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]] reports on the latest news emerging from the front lines of the conflict. 
 
 “Events in the war continue to move quickly, sometimes outpacing the ‘speed of news’. In my last update, I mentioned that the Thargoids had occupied over a thousand systems. But by the time that was published, the number had reduced considerably. According to my sources, anti-xeno squadrons and independent pilots are reclaiming systems at a higher rate than Thargoids can conquer them.” 
 
@@ -20,4 +20,4 @@ Vox Galactica journalist Jade Sanderlyn reports on the latest news emerging from
 
 “Otherwise, the most significant news this month was Azimuth Biotech’s corporate convention and the launch of its AX module redesign. Aegis clearly has the lead in both public sentiment and government support at this time, but it seems like Azimuth has no intention of ceasing its contributions to the war effort anytime soon.” 
 
-“This is Jade Sanderlyn for Vox Galactica. Stay safe out there.”
+“This is [[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]] for Vox Galactica. Stay safe out there.”

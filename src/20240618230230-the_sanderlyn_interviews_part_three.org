@@ -8,11 +8,11 @@
 
 /01 May 3308/
 
-The journalist Jade Sanderlyn of Vox Galactica was recently invited to conduct rare public interviews with admirals of the three superpowers.  
+The journalist [[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]] of Vox Galactica was recently invited to conduct rare public interviews with admirals of the three superpowers.  
 
 This excerpt is from a conversation with Admiral Rachel Ziegler of the Alliance. 
 
-Jade Sanderlyn: This is Jade Sanderlyn reporting for Vox Galactica. I am here with Admiral Rachel Ziegler of the Alliance. I’m pleased to have this opportunity to speak with you, Admiral. 
+Jade Sanderlyn: This is [[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]] reporting for Vox Galactica. I am here with Admiral Rachel Ziegler of the Alliance. I’m pleased to have this opportunity to speak with you, Admiral. 
 
  Rachel Ziegler: You’re welcome. 
 

@@ -8,7 +8,7 @@
 
 /29 Aug 3309/
 
-Vox Galactica’s Jade Sanderlyn reviews developments in the ongoing war against the Thargoids. 
+Vox Galactica’s [[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]] reviews developments in the ongoing war against the Thargoids. 
 
 “There have been some impressive territorial gains against the Thargoids in recent weeks. The number of systems controlled by the Titans’ invasion fleets has tumbled, allowing many millions of people to return to their homes. This is largely thanks to coordinated action by independent pilots and anti-xeno squadrons.”  
 
@@ -22,4 +22,4 @@ Vox Galactica’s Jade Sanderlyn reviews developments in the ongoing war against
 
 “Several pilots told me that this is still normal Thargoid behaviour near some of our populated nebula colonies. But xeno-peace activists feel that this discovery presents an opportunity. The Holloway Bioscience Institute is already planning an independent research expedition to the area. We’ll be watching what happens there very closely.” 
 
-“This is Jade Sanderlyn for Vox Galactica. Now more than ever, stay safe out there.”
+“This is [[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]] for Vox Galactica. Now more than ever, stay safe out there.”

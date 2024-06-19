@@ -8,7 +8,7 @@
 
 /22 Jul 3308/
 
-Vox Galactica reporter Jade Sanderlyn has broadcast an update on the conflict taking place in the HIP 22460 system. 
+Vox Galactica reporter [[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]] has broadcast an update on the conflict taking place in the HIP 22460 system. 
 
 “The fierce fighting in HIP 22460 has intensified over the past week. Swarms of Thargoid vessels can be encountered throughout the system, cutting down any ill-prepared ships within range. The combined human forces are battling furiously to diminish the alien fleet.” 
 
@@ -18,4 +18,4 @@ Vox Galactica reporter Jade Sanderlyn has broadcast an update on the conflict ta
 
 “Meanwhile, the hellish situation in HIP 22460 rages on. I’ve reported from several battlefields, but this one is something of an endurance test. Every day I watch squadrons deploy to a conflict, and every day watch them return with fewer vessels. All I can do is hope that this carnage will eventually lead to something worthwhile.” 
 
-“This is Jade Sanderlyn for Vox Galactica. Stay safe out there.”
+“This is [[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]] for Vox Galactica. Stay safe out there.”

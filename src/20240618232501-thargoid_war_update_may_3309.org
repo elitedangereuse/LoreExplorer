@@ -8,7 +8,7 @@
 
 /29 May 3309/
 
-Vox Galactica’s Jade Sanderlyn reports on the discovery of the Titans, and new Thargoid craft both in space and on occupied worlds. 
+Vox Galactica’s [[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]] reports on the discovery of the Titans, and new Thargoid craft both in space and on occupied worlds. 
 
 “The true scale of the challenge facing humanity became evident this month, when we finally learned what was within the Maelstroms. It has long been theorised that the Thargoids have ‘motherships’ of some kind. But few were prepared for the shocking reality of the Titans, squatting at the centre of the corrosive clouds like bloated spiders in their webs. I can’t be the only one whose guts knotted with fear when I first saw those floating monstrosities.” 
 
@@ -18,4 +18,4 @@ Vox Galactica’s Jade Sanderlyn reports on the discovery of the Titans, and new
 
 “On a positive note, Aegis’s forthcoming pulse wave xeno scanner should prove instrumental in gathering data about the Titans. A well-received public address by Professor [[id:c2623368-19b0-4995-9e35-b8f54f741a53][Alba Tesreau]] cemented the significance of Aegis in the war, despite Azimuth Biotech’s CEO Torben Rademaker somewhat predictably criticising it as ‘self-congratulatory hot air’.” 
 
-“With such technological breakthroughs and fierce resistance on the front line, there’s a long way to go before the Thargoids can lay claim to the core systems. This is Jade Sanderlyn for Vox Galactica. Stay safe out there.”
+“With such technological breakthroughs and fierce resistance on the front line, there’s a long way to go before the Thargoids can lay claim to the core systems. This is [[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]] for Vox Galactica. Stay safe out there.”
