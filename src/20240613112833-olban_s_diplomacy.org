@@ -2,7 +2,7 @@
 :ID:       d9567bf0-8d6e-4d58-8faa-a871479375e1
 :END:
 #+title: Olban's Diplomacy
-#+filetags: :Empire:beacon:
+#+filetags: :beacon:
 * 0139 Olban's Diplomacy
 [[id:dfbc8f06-6724-4a34-a908-f90a2fe3ba43][Zeaex]]
 

@@ -2,7 +2,7 @@
 :ID:       91701138-db49-4cc4-b3bc-25ed4d56a8e8
 :END:
 #+title: Chancellor Blaine
-#+filetags: :Empire:beacon:
+#+filetags: :beacon:
 * 0155 Chancellor Blaine
 [[id:73e31493-0c88-4fd7-9f49-9f3f1c92db41][Facece]]
 

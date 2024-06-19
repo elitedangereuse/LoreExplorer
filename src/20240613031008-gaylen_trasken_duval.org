@@ -2,5 +2,5 @@
 :ID:       3b5b7101-a735-4d40-a48e-215cdcf06a27
 :END:
 #+title: Gaylen Trasken Duval
-#+filetags: :Empire:Individual:
+#+filetags: :Individual:
 

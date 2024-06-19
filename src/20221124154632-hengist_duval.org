@@ -2,5 +2,5 @@
 :ID:       3cb0755e-4deb-442b-898b-3f0c6651636e
 :END:
 #+title: Hengist Duval
-#+filetags: :Empire:Individual:
+#+filetags: :Individual:
 [[id:2891de55-e2d4-429c-b761-095a74482a02][The Empire]]

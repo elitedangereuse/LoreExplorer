@@ -2,7 +2,7 @@
 :ID:       eee5d5fd-3f91-4f47-8460-06978bad0207
 :END:
 #+title: Faveol Hostilities
-#+filetags: :Empire:beacon:
+#+filetags: :beacon:
 * 0147 Faveol Hostilities
 [[id:867ef9a7-e1b0-4b85-b0b4-3036c0cb8e48][Liaedin]]
 

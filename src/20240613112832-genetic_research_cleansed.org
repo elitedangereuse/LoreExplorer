@@ -2,7 +2,7 @@
 :ID:       eb0dbf88-2227-4743-aa4c-25cdfefcafa0
 :END:
 #+title: Genetic Research Cleansed
-#+filetags: :Empire:beacon:
+#+filetags: :beacon:
 * 0136 Genetic Research Cleansed
 [[id:156a9f70-7bbc-4477-8604-ecce1eb30106][Fawaol]]
 

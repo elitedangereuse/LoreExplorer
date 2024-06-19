@@ -2,7 +2,7 @@
 :ID:       fdacef86-d1ad-42a6-bd64-10cbf6336e70
 :END:
 #+title: Atticus Ascension
-#+filetags: :Empire:beacon:
+#+filetags: :beacon:
 * 0146 Atticus Ascension
 [[id:a85c2248-39b0-4961-92ec-b21ee5ee7e36][Exioce]]
 

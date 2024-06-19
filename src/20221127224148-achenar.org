@@ -2,21 +2,5 @@
 :ID:       bed8c27f-3cbe-49ad-b86f-7d87eacf804a
 :END:
 #+title: Achenar
-#+filetags: :Empire:Permit:Rank:System:
+#+filetags: :Permit:Rank:System:
 [[file:img/permit.png]]
-[[id:2891de55-e2d4-429c-b761-095a74482a02][The Empire]]
-
-* 0128 Origins of the Empire
-The origins of the [[id:2891de55-e2d4-429c-b761-095a74482a02][Empire]] date back to the colonisation of the Achenar
-system in the middle of the 23rd century. [[id:7be9a849-7a8d-40f9-837d-b1ab30538bb0][Marlin Duval]] was a wealthy
-woman from [[id:5b0f485f-4793-468d-a1a1-483606f44e0e][Earth]], who, disenchanted with their administration and
-authorities, set off with her own colonising fleet to [[id:6348d885-bf86-44b6-a189-3d849e34eb40][Achenar 6d]]
-because it was so far from Earth. Her leadership ended abruptly when
-her brother [[id:a8a8c926-5bfc-4411-928b-7f88d2209e41][Henson]] oversaw a flying 'accident' in which she
-perished. The democratic government changed abruptly to one of strict
-Imperial rule and from then on the family assumed leadership. [[id:872d74c9-9cce-49ad-8f91-be76bbd3e2cb][Female]]
-children in the family were prevented with [[id:45285b61-0955-4b0e-86d1-dcce9b03b6d3][genetic techniques]], such
-was the hatred of Marlin Duval's principles and vision of a world in
-peace. This restriction was gradually phased out over the years, but
-the succession of [[id:1aad604c-fb0f-484b-b3dc-a63fe14597b5][Emperors]] has remained along the male line until
-recently.

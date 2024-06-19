@@ -3,10 +3,7 @@
 :END:
 #+title: The Empire
 #+filetags: :Codex:
-* People
-  - [[id:34f3cfdd-0536-40a9-8732-13bf3a5e4a70][Arissa Lavigny-Duval]]
-  - [[id:3cb0755e-4deb-442b-898b-3f0c6651636e][Hengist Duval]]
-  - [[id:b402bbe3-5119-4d94-87ee-0ba279658383][Aisling Duval]]
+
 * Knowledge Base
 ** The Empire
 *** Introduction
