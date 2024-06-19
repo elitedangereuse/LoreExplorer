@@ -14,7 +14,7 @@ Political journalist Conrad Sterling reviewed the latest developments for Vox Ga
 
 “We now know the truth: Azimuth not only survived, but was responsible for many controversial activities. It contributed to the mycoid virus’s development, coordinated with Black Flight and oversaw Project Seraph. Now, this notorious organisation enjoys the trust of all three superpowers to eliminate the Thargoid threat.” 
 
-“Vocal members of the Assembly, Congress and Senate have called for everyone at Azimuth Biotech – formerly Taurus Mining Ventures – to be arrested as criminals. Professor Alba Tesreau has demanded justice for the crew of the Alexandria, which was sabotaged by Azimuth to obtain its cargo of Guardian artefacts.” 
+“Vocal members of the Assembly, Congress and Senate have called for everyone at Azimuth Biotech – formerly Taurus Mining Ventures – to be arrested as criminals. Professor [[id:c2623368-19b0-4995-9e35-b8f54f741a53][Alba Tesreau]] has demanded justice for the crew of the Alexandria, which was sabotaged by Azimuth to obtain its cargo of Guardian artefacts.” 
 
 “But Allied, Federal and Imperial leaders have all deferred to their militaries to determine a course of action until the current war’s end. Their perspective can be summed up by Admiral Maxton Price’s comment: ‘Without Salvation’s superweapon, we will be locked in conflict with the Thargoids forever.’” 
 

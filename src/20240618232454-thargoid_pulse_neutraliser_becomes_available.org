@@ -14,7 +14,7 @@ Aegis’s new module will allow ships to penetrate the energy wave protecting th
 
 Deliveries of cobalt, ion distributors and power converters were made to Clement Orbital in the YZ Ceti system. These allowed Aegis to build a manufacturing and distribution centre for Thargoid pulse neutralisers, which can now be purchased from technology brokers on rescue megaships. 
 
-Professor Alba Tesreau released a statement regarding Aegis’s next steps: 
+Professor [[id:c2623368-19b0-4995-9e35-b8f54f741a53][Alba Tesreau]] released a statement regarding Aegis’s next steps: 
 
 “Combined with our caustic sink launcher, the Thargoid pulse neutraliser will enable explorers to travel through the Maelstroms’ corrosive clouds and into their cores. A small number of Aegis researchers will be among the first wave of pioneers. Their mission is to identify the source of these mysterious objects and gather data about its nature.” 
 
