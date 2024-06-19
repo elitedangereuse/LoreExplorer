@@ -14,7 +14,7 @@ Cassia Carvalho, political journalist for The Imperial Herald, reported from the
 
 “The arrival of the Thargoid Maelstroms has triggered protests on many Allied, Federal and independent worlds. The Empire is rarely troubled by such disruption, so the spontaneous march by tens of thousands of citizens through Capitol’s streets caught the media and security services by surprise.” 
 
-“Chancellor Anders Blaine addressed the crowd, his image projected above us all. He spoke of the Imperial Navy’s swift response to the Thargoid threat, making assurances that our systems were protected and we were all safe.” 
+“Chancellor [[id:e9679720-e0c1-449e-86a6-a5b3de3613f5][Anders Blaine]] addressed the crowd, his image projected above us all. He spoke of the Imperial Navy’s swift response to the Thargoid threat, making assurances that our systems were protected and we were all safe.” 
 
 “But this wasn’t enough to quell the increasingly strident demands that more should be done. I saw anger, frustration and fear etched into those shouting faces. The newsfeed images of burning and broken starports, of Thargoid vessels laying waste to ordinary people’s homes, were all too clear in everyone’s minds.” 
 

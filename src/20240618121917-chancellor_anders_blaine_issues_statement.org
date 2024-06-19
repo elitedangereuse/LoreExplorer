@@ -1,14 +1,14 @@
 :PROPERTIES:
 :ID:       974a52ea-9f53-4e81-9b37-33910466db74
 :END:
-#+title: Chancellor Anders Blaine Issues Statement
+#+title: Chancellor [[id:e9679720-e0c1-449e-86a6-a5b3de3613f5][Anders Blaine]] Issues Statement
 #+filetags: :3301:galnet:
 
-* Chancellor Anders Blaine Issues Statement
+* Chancellor [[id:e9679720-e0c1-449e-86a6-a5b3de3613f5][Anders Blaine]] Issues Statement
 
 /04 Oct 3301/
 
-Chancellor Anders Blaine Issues Statement 
+Chancellor [[id:e9679720-e0c1-449e-86a6-a5b3de3613f5][Anders Blaine]] Issues Statement 
  
 In the early hours of this morning, agents of the Imperial Guard and IISS arrested several members of Chancellor Anders Blaine's staff. He later released a statement: 
 

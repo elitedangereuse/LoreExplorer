@@ -12,7 +12,7 @@ Alliance, Empire and Federation leaders have held their first ever face-to-face 
 
 Political correspondent Conrad Sterling published this report for Vox Galactica: 
 
-“The Galactic Summit has already made history by bringing together many political figureheads within one conference chamber. Optimistic opening statements from Chancellor Anders Blaine and Prime Minister [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74][Edmund Mahon]] gained applause. President Zachary Hudson was more curt, reminding everyone that billions of people would be affected by their efforts.” 
+“The Galactic Summit has already made history by bringing together many political figureheads within one conference chamber. Optimistic opening statements from Chancellor [[id:e9679720-e0c1-449e-86a6-a5b3de3613f5][Anders Blaine]] and Prime Minister [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74][Edmund Mahon]] gained applause. President Zachary Hudson was more curt, reminding everyone that billions of people would be affected by their efforts.” 
 
 “Agendas and debate topics for the next three weeks were formalised. Much of the work will be done behind the scenes by ambassadorial staff, making big decisions in small rooms.” 
 
