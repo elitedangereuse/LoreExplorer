@@ -18,6 +18,6 @@ The information was obtained after ACT successfully penetrated the NMLA’s dark
 
 “Marlinism was also exploited as a political lever. The hope was that, compared to this democratic ideology, citizens would view a senator-led Empire as a moderate compromise once the Imperial Family was gone. While this led to the establishment of the Marlinist Colonies, the Lords’ later attempts to influence those systems via puppet politicians did not succeed.” 
 
-“Following the assassinations of Prince Harold and other Duvals, the Lords abducted Emperor Arissa Lavigny-Duval in January 3307. She was kidnapped en route to a secure location, with Senator Nerva falsifying confirmation of her safe arrival. This allowed the Lords to engineer communications with the Senate via a virtual doppelganger, which were accepted as genuine since they were verified by Imperial Intelligence agents.” 
+“Following the assassinations of Prince Harold and other Duvals, the Lords abducted Emperor [[id:34f3cfdd-0536-40a9-8732-13bf3a5e4a70][Arissa Lavigny-Duval]] in January 3307. She was kidnapped en route to a secure location, with Senator Nerva falsifying confirmation of her safe arrival. This allowed the Lords to engineer communications with the Senate via a virtual doppelganger, which were accepted as genuine since they were verified by Imperial Intelligence agents.” 
 
 ACT is working closely with Imperial security agencies to identify all those who collaborated with the Lords of Restoration.
