@@ -1,10 +1,10 @@
 :PROPERTIES:
 :ID:       e5e7edf3-96e0-4cb3-8a01-485a7338a68e
 :END:
-#+title: Archon Delaine Starport Campaign Concludes
+#+title: [[id:7aae0550-b8ba-42cf-b52b-e7040461c96f][Archon Delaine]] Starport Campaign Concludes
 #+filetags: :galnet:
 
-* Archon Delaine Starport Campaign Concludes
+* [[id:7aae0550-b8ba-42cf-b52b-e7040461c96f][Archon Delaine]] Starport Campaign Concludes
 
 /22 Apr 3307/
 
@@ -28,7 +28,7 @@ HIP 62154, in the Coalsack Nebula
 
 Eol Prou PC-K c9-91, in the Colonia region 
 
-A statement from Archon Delaine was published by The Pegasi Sentinel: 
+A statement from [[id:7aae0550-b8ba-42cf-b52b-e7040461c96f][Archon Delaine]] was published by The Pegasi Sentinel: 
 
 “I am pleased to see that our trade routes can now extend into fresh territories. My people will be very grateful, I’m sure.” 
 

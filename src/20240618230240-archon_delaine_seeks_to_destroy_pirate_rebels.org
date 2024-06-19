@@ -1,10 +1,10 @@
 :PROPERTIES:
 :ID:       717ad70d-77c9-4f90-8f32-5c95cb82f36a
 :END:
-#+title: Archon Delaine Seeks to Destroy Pirate Rebels
+#+title: [[id:7aae0550-b8ba-42cf-b52b-e7040461c96f][Archon Delaine]] Seeks to Destroy Pirate Rebels
 #+filetags: :galnet:
 
-* Archon Delaine Seeks to Destroy Pirate Rebels
+* [[id:7aae0550-b8ba-42cf-b52b-e7040461c96f][Archon Delaine]] Seeks to Destroy Pirate Rebels
 
 /19 May 3308/
 
@@ -16,7 +16,7 @@ A recent coup attempt led by Arch-Corsair Vidar Trask, formerly one of the senio
 
 The rebels’ vessels have concentrated in HIP 10792. Trask is commanding a coalition of loyalists, independent pirate gangs and as-yet unidentified mercenaries, collectively calling themselves the Trask Death Corsairs. 
 
-Despite suffering from some visible wounds as a result of the assassination attempt, Archon Delaine broadcast this message: 
+Despite suffering from some visible wounds as a result of the assassination attempt, [[id:7aae0550-b8ba-42cf-b52b-e7040461c96f][Archon Delaine]] broadcast this message: 
 
 “Trask has betrayed all of us, and for that I want him crushed! I will pay well to wipe out every single traitor who fights in his name.” 
 

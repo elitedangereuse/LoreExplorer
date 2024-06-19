@@ -1,14 +1,14 @@
 :PROPERTIES:
 :ID:       6dd7f0c4-8a92-45ac-a861-76fbe77c3986
 :END:
-#+title: Archon Delaine Gatecrashes the Galactic Summit
+#+title: [[id:7aae0550-b8ba-42cf-b52b-e7040461c96f][Archon Delaine]] Gatecrashes the Galactic Summit
 #+filetags: :galnet:
 
-* Archon Delaine Gatecrashes the Galactic Summit
+* [[id:7aae0550-b8ba-42cf-b52b-e7040461c96f][Archon Delaine]] Gatecrashes the Galactic Summit
 
 /04 Mar 3307/
 
-Pirate warlord Archon Delaine has unexpectedly appeared at the diplomatic conference and demanded to participate as a political delegate. 
+Pirate warlord [[id:7aae0550-b8ba-42cf-b52b-e7040461c96f][Archon Delaine]] has unexpectedly appeared at the diplomatic conference and demanded to participate as a political delegate. 
 
 Delaine is the leader of the Kumo Crew, a notorious crime syndicate that controls dozens of systems. Their arrival at Patterson Enterprise station initially caused many delegations’ security teams to begin evacuations. 
 
