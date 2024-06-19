@@ -10,7 +10,7 @@
 
 There has been a range of reactions to the discovery of new Guardian sites, and to Ram Tah’s development of Guardian-inspired technologies. 
 
-Federal President [[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][Zachary Hudson]] said: “The Federation congratulates Ram Tah on his success. Anything that helps us defend our citizens from Thargoid aggression is welcome.” 
+Federal President [[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][Zachary Hudson]] said: “The Federation congratulates [[id:4551539e-a6b2-4c45-8923-40fb603202b7][Ram Tah]] on his success. Anything that helps us defend our citizens from Thargoid aggression is welcome.” 
 
 Imperial Admiral Denton Patreus echoed this sentiment: “I am pleased to hear that new, more powerful armaments are being produced. These will provide a tactical advantage in our conflict with the Thargoids.” 
 
@@ -20,4 +20,4 @@ Alliance Prime Minister [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74][Edmund Mahon]
 
 Meanwhile, Simguru [[id:05ab22a7-9952-49a3-bdc0-45094cdaff6a][Pranav Antal]] of Utopia looked to the future: “There is enormous potential for humanity to benefit from the technology of our galactic predecessors, and we look forward to sharing whatever prosperity these new discoveries may bring.” 
 
-Finally, Professor Alba Tesreau, head of research at Aegis, commented: “I have already contacted Ram Tah with the hope that Aegis can study his new data. Understanding more about the Guardians may enhance our knowledge of the Thargoids, and perhaps help us to comprehend their motives.”
+Finally, Professor Alba Tesreau, head of research at Aegis, commented: “I have already contacted [[id:4551539e-a6b2-4c45-8923-40fb603202b7][Ram Tah]] with the hope that Aegis can study his new data. Understanding more about the Guardians may enhance our knowledge of the Thargoids, and perhaps help us to comprehend their motives.”
