@@ -2,4 +2,3 @@
 :ID:       c4f47591-9c52-441f-8853-536f577de922
 :END:
 #+title: Hadrian Augustus Duval
-[[id:2891de55-e2d4-429c-b761-095a74482a02][The Empire]]
