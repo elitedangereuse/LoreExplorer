@@ -2,14 +2,14 @@
 :ID:       d7edfb4b-0556-4fdf-b211-8120bae94f8b
 :ROAM_REFS: https://cms.zaonce.net/en-GB/jsonapi/node/galnet_article/462c9910-9d2c-4d09-9953-06a2932468a2?resourceVersion=id%3A4914
 :END:
-#+title: Jasmina Halsey Provides Testimony about Starship One
+#+title: [[id:a9ccf59f-436e-44df-b041-5020285925f8][Jasmina Halsey]] Provides Testimony about Starship One
 #+filetags: :galnet:
 
-* Jasmina Halsey Provides Testimony about Starship One
+* [[id:a9ccf59f-436e-44df-b041-5020285925f8][Jasmina Halsey]] Provides Testimony about Starship One
 
 /27 Jan 3307/
 
-Former President Jasmina Halsey has taken the witness stand during the trial of Fleet Admiral Lucas Vincent at the Federal High Court. 
+Former President [[id:a9ccf59f-436e-44df-b041-5020285925f8][Jasmina Halsey]] has taken the witness stand during the trial of Fleet Admiral Lucas Vincent at the Federal High Court. 
 
 Crime correspondent Ethan Takahashi reported the details for The Federal Times: 
 

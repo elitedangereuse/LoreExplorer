@@ -2,14 +2,14 @@
 :ID:       2ac0a830-a8ad-4f77-9dd2-cd833f94e1f6
 :ROAM_REFS: https://cms.zaonce.net/en-GB/jsonapi/node/galnet_article/5b92df1d-ad29-44c1-96f1-839eaee7b203?resourceVersion=id%3A4903
 :END:
-#+title: Jasmina Halsey Returns to the Federation
+#+title: [[id:a9ccf59f-436e-44df-b041-5020285925f8][Jasmina Halsey]] Returns to the Federation
 #+filetags: :galnet:
 
-* Jasmina Halsey Returns to the Federation
+* [[id:a9ccf59f-436e-44df-b041-5020285925f8][Jasmina Halsey]] Returns to the Federation
 
 /20 Jan 3307/
 
-Former President Jasmina Halsey has arrived on Mars to stand as a witness in the upcoming trial of Fleet Admiral Lucas Vincent. 
+Former President [[id:a9ccf59f-436e-44df-b041-5020285925f8][Jasmina Halsey]] has arrived on Mars to stand as a witness in the upcoming trial of Fleet Admiral Lucas Vincent. 
 
 Halsey was subpoenaed by the Federal High Court to testify before the jury. Although this was not legally enforceable, since she now lives beyond the Federation’s jurisdiction, she has acceded to the court’s request. 
 
