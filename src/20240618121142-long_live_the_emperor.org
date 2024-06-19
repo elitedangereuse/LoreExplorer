@@ -10,9 +10,9 @@
 
 Long Live the Emperor!  
  
-Senator Anders Blaine, Chancellor to Emperor Hengist Duval made a surprise statement on the steps of the Imperial Palace today. With obvious joy on his face he declared that the Emperor has awoken from his coma. 
+Senator Anders Blaine, Chancellor to Emperor [[id:3cb0755e-4deb-442b-898b-3f0c6651636e][Hengist Duval]] made a surprise statement on the steps of the Imperial Palace today. With obvious joy on his face he declared that the Emperor has awoken from his coma. 
 
-“It is with great pleasure I can announce that Emperor Hengist Duval awoke from his coma in the early hours of this morning. His physicians have completed extensive medical tests and declared him well on the way to becoming fit and healthy. They have advised a few days of rest and monitoring before he resumes his state functions. 
+“It is with great pleasure I can announce that Emperor [[id:3cb0755e-4deb-442b-898b-3f0c6651636e][Hengist Duval]] awoke from his coma in the early hours of this morning. His physicians have completed extensive medical tests and declared him well on the way to becoming fit and healthy. They have advised a few days of rest and monitoring before he resumes his state functions. 
 
 As can be expected from our Emperor, he has expressed his intention to lead the senate in a few days time.” 
 
