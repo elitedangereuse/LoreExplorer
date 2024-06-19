@@ -18,7 +18,7 @@ Professor Alba Tesreau made a public statement:
 
 Further details were provided by Ivano Colombera, the Empire’s scientific liaison to Aegis: 
 
-“The Thargoid pulse neutraliser expands upon the shutdown field neutraliser originally designed by Elvira Martuuk in 3303. Using upgraded components, Aegis technicians have amplified its effectiveness when triggered at the correct time.” 
+“The Thargoid pulse neutraliser expands upon the shutdown field neutraliser originally designed by [[id:887ca01b-ea5d-4fcd-a45d-de1ca598f1cd][Elvira Martuuk]] in 3303. Using upgraded components, Aegis technicians have amplified its effectiveness when triggered at the correct time.” 
 
 “Our primary objective was breaking through the electromagnetic pulse generated within a Maelstrom cloud when human ships are approximately 50 kilometres from its centre. Data provided by intrepid pilots who survived this experience has enabled us to calibrate a shield to its specific waveform, which should allow a ship to withstand its impact.” 
 
