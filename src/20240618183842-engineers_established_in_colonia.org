@@ -8,12 +8,12 @@
 
 /29 Aug 3304/
 
-The Colonia Council has announced that four engineers have established bases in the Colonia region, to provide services to independent pilots. 
+[[id:451a73de-67a0-43ff-bc84-7fea762d4de9][The Colonia Council]] has announced that four engineers have established bases in the Colonia region, to provide services to independent pilots. 
 
 Councillor Giselle Kingspear gave a statement to the media: 
 
 “The Council believes it has a duty to support those who contribute so much to the region’s stability. That’s why we have consulted with engineers in the core systems to identify individuals who could offer similar services here in Colonia. Consequently, we now have four engineers at planetary bases in the region.” 
 
-“Mel Brandon is based in Luchtaine, and specialises in laser-based armaments, shields, engines and frame shift drives. [[id:4f85bf60-23ac-4a5d-89ac-f6689fb8fef8][Etienne Dorn]] in the Los system, once lead engineer for Kraken Shield Specialists, is an expert on sensors, scanners and high-energy weaponry, among other things. Petra Olmanova is in the Asura system, and works with ship armour, countermeasures and explosive weapons, and Marsha Hicks, in the Tir system, offers upgrades in ballistic weaponry, fuel scoops, refineries and limpets.” 
+“[[id:2fce62b3-399d-4ef7-b93b-00a0de6cc4be][Mel Brandon]] is based in Luchtaine, and specialises in laser-based armaments, shields, engines and frame shift drives. [[id:4f85bf60-23ac-4a5d-89ac-f6689fb8fef8][Etienne Dorn]] in the Los system, once lead engineer for [[id:96fa3f93-81a0-4670-bd95-6804144e5b10][Kraken Shield Specialists]], is an expert on sensors, scanners and high-energy weaponry, among other things. Petra Olmanova is in the Asura system, and works with ship armour, countermeasures and explosive weapons, and Marsha Hicks, in the Tir system, offers upgrades in ballistic weaponry, fuel scoops, refineries and limpets.” 
 
 “These engineers represent an important stage in Colonia’s continued growth. The Council hopes that pilots operating in the region will find them beneficial.”
