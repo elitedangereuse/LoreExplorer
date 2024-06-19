@@ -1,10 +1,10 @@
 :PROPERTIES:
 :ID:       fce5344c-ed5e-4add-91ae-7502922255c4
 :END:
-#+title: Galactic News: Terrorist Salomé Killed
+#+title: Galactic News: Terrorist [[id:2f09bc24-0885-4d00-9d1f-506b32464dbe][Salomé]] Killed
 #+filetags: :3303:galnet:
 
-* Galactic News: Terrorist Salomé Killed
+* Galactic News: Terrorist [[id:2f09bc24-0885-4d00-9d1f-506b32464dbe][Salomé]] Killed
 
 /04 May 3303/
 
@@ -16,7 +16,7 @@ Surveillance reports indicate that Salomé’s co-conspirators – [[id:4ab3e632
 
 Moments after Salomé’s destruction was confirmed, a transmission was detected in the [[id:a4b56f51-d230-4f11-abdb-7e5ddf907b49][Teorge]] system, leading to the discovery of a series of logs. The logs, which apparently date from 3275, contain nebulous assertions regarding a scheme from an unidentified super organisation to manipulate the Empire, Federation and Alliance. 
 
-A number of factions tried to defend Salomé and her allies as they travelled from 46 Eridani to the core systems. Imperial intelligence is reportedly trying to identify the factions that supported the conspirators, but anecdotal reports indicate that many have already fallen into disarray in the wake of Salomé’s death. 
+A number of factions tried to defend [[id:2f09bc24-0885-4d00-9d1f-506b32464dbe][Salomé]] and her allies as they travelled from 46 Eridani to the core systems. Imperial intelligence is reportedly trying to identify the factions that supported the conspirators, but anecdotal reports indicate that many have already fallen into disarray in the wake of Salomé’s death. 
 
 “She was a force of evil who attempted to sow the seeds of conflict among those who strive for peace,” said Princess [[id:b402bbe3-5119-4d94-87ee-0ba279658383][Aisling Duval]]. “Her warmongering is at an end, and the galaxy is now a safer place. It’s just a shame that so many innocent lives were lost before she was brought down.” 
 

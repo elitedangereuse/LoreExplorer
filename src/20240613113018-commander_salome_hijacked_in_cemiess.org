@@ -1,9 +1,9 @@
 :PROPERTIES:
 :ID:       51a92498-ef1b-4fc3-9ad7-9e49fb947353
 :END:
-#+title: Commander Salomé Hijacked In Cemiess
+#+title: Commander [[id:2f09bc24-0885-4d00-9d1f-506b32464dbe][Salomé]] Hijacked In Cemiess
 #+filetags: :beacon:
-* 0683 Commander Salomé Hijacked In Cemiess
+* 0683 Commander [[id:2f09bc24-0885-4d00-9d1f-506b32464dbe][Salomé]] Hijacked In Cemiess
 [[id:360ae21e-63f2-43ba-a2fd-a47e5e49951e][Cemiess]]  
 
 On August 23rd 3302 articles published by the Imperial Citizen may
@@ -12,7 +12,7 @@ weekend. Commander Nodus Curious of the [[id:11216b9a-43a6-4242-9355-1c6227e48db
 reported a transmission from Commander [[id:2f09bc24-0885-4d00-9d1f-506b32464dbe][Salomé]] of the [[id:7b48eea2-ee5f-47f9-9e14-8f5e827766b4][Children of Raxxla]],
 indicating that her ship had been attacked by unknown forces.
 
-The Imperial Citizen had suggested that Commander Salomé is in fact
+The Imperial Citizen had suggested that Commander [[id:2f09bc24-0885-4d00-9d1f-506b32464dbe][Salomé]] is in fact
 Senator Kahina Tijani Loren of the Prism system. The publication also
 implied that she had engineered the events that led to her family's
 death in order to position herself as heiress of the Loren family

@@ -12,11 +12,11 @@ Three of the five individuals responsible for the recent theft of meta-alloys fr
 
 Loren was sentenced to life imprisonment last year for the attempted murder of Admiral Denton Patreus, but when her convoy was destroyed en route to Koontz Asylum it was assumed she had been killed. 
 
-Responding to the news, Imperial authorities promptly placed a galaxy-wide bounty on Salomé to the tune of 500,000 credits. 
+Responding to the news, Imperial authorities promptly placed a galaxy-wide bounty on [[id:2f09bc24-0885-4d00-9d1f-506b32464dbe][Salomé]] to the tune of 500,000 credits. 
 
 Meanwhile, Princess [[id:b402bbe3-5119-4d94-87ee-0ba279658383][Aisling Duval]] released a brief statement: 
 
-"Commander Salomé is a disgraced senator and a convicted murderer. She incites violence wherever she goes, and in the interest of public safety she must be stopped. I urge all those loyal to the Empire to deliver justice to this criminal." 
+"Commander [[id:2f09bc24-0885-4d00-9d1f-506b32464dbe][Salomé]] is a disgraced senator and a convicted murderer. She incites violence wherever she goes, and in the interest of public safety she must be stopped. I urge all those loyal to the Empire to deliver justice to this criminal." 
 
 Salomé's accomplices have been identified as former MetaDrive employee [[id:4ab3e632-de21-44bc-a834-83b808a737ec][Raan Corsen]] – previously believed deceased – and former Junior Alliance operative Tsu Annabelle Singh. The Empire has placed sizeable bounties on both individuals. 
 
