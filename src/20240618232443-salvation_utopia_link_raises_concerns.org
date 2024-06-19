@@ -12,7 +12,7 @@ Similarities between the Nemesis Failsafe and Utopia’s Sim-Archive have led to
 
 Independent journalist Flint ‘Firemaker’ Lafosse reported on Seo Jin-ae’s recent discoveries: 
 
-“We all knew that Salvation had a messiah complex, so it’s no surprise that he planned to keep his colossal ego alive after his ancient body died. We also know that Pranav Antal has been digitising his followers’ brains for years.” 
+“We all knew that Salvation had a messiah complex, so it’s no surprise that he planned to keep his colossal ego alive after his ancient body died. We also know that [[id:05ab22a7-9952-49a3-bdc0-45094cdaff6a][Pranav Antal]] has been digitising his followers’ brains for years.” 
 
 “My question is: did Salvation modify Antal’s system for his own private use, rather than reverse-engineer Guardian technology? Or maybe Azimuth and Utopia were secretly working together all this time, and the Sim-Archive has always been Guardian-based? It would explain how Utopia is able to maintain funding for its little tech-bohemian commune.” 
 
@@ -22,4 +22,4 @@ This theory was critiqued by The Federal Times’s technology correspondent Harl
 
 Dr Maximo Fonseca, the Alliance’s scientific liaison to Aegis, gave a statement to the media: 
 
-“Since successful applications in this field are so rare, we cannot ignore the potential relation between the Nemesis Failsafe designs and the Sim-Archive. I have made contact with Simguru Pranav Antal and explained the situation. He kindly invited me and my staff to visit Utopia and discuss the matter. Our findings will determine whether a formal investigation into Salvation’s current status is warranted.”
+“Since successful applications in this field are so rare, we cannot ignore the potential relation between the Nemesis Failsafe designs and the Sim-Archive. I have made contact with Simguru [[id:05ab22a7-9952-49a3-bdc0-45094cdaff6a][Pranav Antal]] and explained the situation. He kindly invited me and my staff to visit Utopia and discuss the matter. Our findings will determine whether a formal investigation into Salvation’s current status is warranted.”
