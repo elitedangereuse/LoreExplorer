@@ -8,16 +8,32 @@
 
 /22 Nov 3307/
 
-An expert larcenist known as the Winking Cat has triggered widespread alarm with a spree of high-profile thefts. 
+An expert larcenist known as the [[id:b9519a7c-f00b-4a57-9bcf-964258bdd2d8][Winking Cat]] has triggered widespread
+alarm with a spree of high-profile [[id:f15a269f-7b00-45dd-a4e5-632d0a37ad95][thefts]].
 
-Vox Galactica published this feature by crime correspondent Mira Bukowski : 
+[[id:4ab0f53c-0b85-43a3-83ca-b9e88c0db30e][Vox Galactica]] published this feature by crime correspondent [[id:39c4c90a-eb6a-4306-b1a4-b95ff114a428][Mira
+Bukowski]] :
 
-“Last month, the galaxy’s most infamous thief reappeared in the headlines after a long absence. It appears the Winking Cat is making up for lost time by stealing multiple items in quick succession.” 
+“Last month, the galaxy’s most infamous thief reappeared in the
+headlines after a long absence. It appears the Winking Cat is making
+up for lost time by stealing multiple items in quick succession.”
 
-“One notable target was a portrait of Emperor Olban Hensard Duval, the tenth ruler of the Empire. Painted in 2989, it was notable for being seven metres high - as was the graphic of a smirking feline face engraved on the wall where it once hung.” 
+“One notable target was a portrait of Emperor [[id:164e5782-9d44-45d3-9bc7-f769de096303][Olban Hensard Duval]], the
+tenth ruler of the Empire. Painted in 2989, it was notable for being
+seven metres high - as was the graphic of a smirking [[id:0f96c6fb-16c4-4d2f-b9be-58c19db68490][feline]] face
+engraved on the wall where it once hung.”
 
-“Another disappearance, albeit of a less artistic nature, was the only working prototype of Achilles Corporation’s XS1001 security robot. This was being guarded by several XS801 models which, according to insiders, were found lying on their sides and emitting an unusual ‘purring’ sound.” 
+“Another disappearance, albeit of a less artistic nature, was the only
+working prototype of [[id:04ba4637-336a-46c7-bab0-3ac12f16b2f9][Achilles Corporation]]’s [[id:12501602-38ed-4364-9282-81f4959ce0c3][XS1001]] security
+robot. This was being guarded by several [[id:b56468c2-ce7d-4372-8336-66ebb0540cf2][XS801]] models which, according
+to insiders, were found lying on their sides and emitting an unusual
+‘purring’ sound.”
 
-“There are reports of several other rare or precious artefacts disappearing from secure locations. In all cases, there are no clues as to how security systems were circumvented.” 
+“There are reports of several other rare or precious artefacts
+disappearing from secure locations. In all cases, there are no clues
+as to how security systems were circumvented.”
 
-“The Wallglass Investigations Agency has theorised that the Winking Cat may not be an individual after all, but a group of criminal specialists working together. They also suspect that these latest thefts may be intended for some larger purpose.”
+“The [[id:b40c2b11-1199-4276-8f40-30cfcef498fa][Wallglass Investigations Agency]] has theorised that the Winking
+Cat may not be an individual after all, but a group of criminal
+specialists working together. They also suspect that these latest
+thefts may be intended for some larger purpose.”
