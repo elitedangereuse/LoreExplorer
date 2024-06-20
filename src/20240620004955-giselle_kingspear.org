@@ -2,4 +2,5 @@
 :ID:       3049d522-ce3e-4bfa-8f52-366b06d50f71
 :END:
 #+title: Giselle Kingspear
+#+filetags: :Individual:
 Councillor [[id:6b6559fd-c7fa-44c9-b540-b94ddcadbd50][Colonia Council]]
