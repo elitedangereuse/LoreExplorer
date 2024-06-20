@@ -9,7 +9,7 @@
   https://www.youtube.com/watch?v=pc-coOaj84M
 
 This is the output of the Eravate unregistered comms beacon. The transcript (in JSON format) is:
-#+BEGIN_SRC json
+#+begin_src json
 { "x" : [[0], [6], [1,1,1], [1,1], [1,1,1,1],
          [1,1,1], [1,1], [1,1,1,1], [6], [1],
          [1,1,1], [1,1,1,1,1], [0], [1,1,1], [5],
@@ -26,7 +26,7 @@ This is the output of the Eravate unregistered comms beacon. The transcript (in 
          [0], [1], [3], [1,1,1], [1,1,1],
          [1,1,1], [3], [1], [0]] 
 }
-#+END_SRC
+#+end_src
 
 * [[id:d4041b1f-0788-4db1-b21d-4a58e5d96965][Puzzle]]
   [[id:a1a41fed-00ef-4e58-a285-b5b2d566c67b][Nonogram]]

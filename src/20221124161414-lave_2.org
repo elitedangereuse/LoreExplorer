@@ -12,7 +12,7 @@ Planet in the [[id:ff595332-6a13-4f69-ae2f-cc0a0df8e741][Lave]] system
   at 10 past the hour.
   https://www.youtube.com/watch?v=PR4MwoqbKP4
   
-#+BEGIN_SRC json
+#+begin_src json
 { "y" : [[0],
          [6],
          [1,1,1,5,5,5,5,5],
@@ -36,7 +36,7 @@ Planet in the [[id:ff595332-6a13-4f69-ae2f-cc0a0df8e741][Lave]] system
          [1],
          [1,1,1,1,1,1,1,1,1]]
 }
-#+END_SRC
+#+end_src
 
 * [[id:d4041b1f-0788-4db1-b21d-4a58e5d96965][Puzzle]]
   [[id:a1a41fed-00ef-4e58-a285-b5b2d566c67b][Nonogram]]
