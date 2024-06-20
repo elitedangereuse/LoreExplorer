@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       2de7ac5c-9ae0-4ebf-af7d-6505f05d2fd1
+:END:
+#+title: Alpha Centauri
+#+filetags: :System:
+
+#+begin_quote
+[[id:ba86a2db-c17e-4856-9882-036f95a773c2][Eden]] was the first planet on which liquid water was detected by
+spectroscopic methods in 2038, and so it was a major driving force for
+the exploration of space. However, Eden turned out to be extremely
+inhospitable with the added danger of hard radiation from
+Proxima. There is now a small research station on Eden, but little
+else in the rest of the system. Star was once known as Rigel
+Kentaurus.
+
+Late in 3301 a rag-tag collection of Independent Commanders selflessly
+came to the aid of Hutton Mug Co. to help kick-start the creation of
+the [[id:56b510cd-e1c0-4183-845f-397475330ab2][Hutton Mug]]; the rare item that can only be found at Hutton Orbital
+in the Alpha Centauri system. Over 2.4 million tonnes of scrap were
+delivered by the Truckers, all the while evading and eventually
+confronting the many concerted attacks by pirates and other
+Ne'er-do-wells who blockaded the platform, determined to block the Mug
+Companies[sic] efforts. In the aftermath of the famed Mug Run many
+intrepid commanders decided to formalise their association to the
+Co-Operative, vowing to protect the hallowed route and, perhaps one
+day, find a cure for [[id:46bf843d-4f3a-43c9-99a4-75999d94f368][MODS]].
+#+end_quote
+
+[[file:img/systems/alpha centauri.png]]

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       aa33caca-c071-4708-bb06-98fa8557e01d
+:END:
+#+title: Meliae
+#+filetags: :System:
+
+#+begin_quote
+The home of the [[id:63666c55-4fc8-44be-a47b-07365f7e058b][New Pilots Initiative]].
+The New Pilots Initiative is a training cooperative
+offering a support infrastructure to newly
+qualified pilots. It seeks to encourage these pilots
+to develop towards their chosen career, wether
+that be combat, exploration, mining or trade.
+#+end_quote
+
+[[file:img/systems/meliae.png]]

@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       74133f32-c175-450f-bd54-8ecbc8041696
+:END:
+#+title: Arcturus
+#+filetags: :System:
+
+#+begin_quote
+Early life had just started to emerge on Discovery when the human
+settlers arrived in 2304. This has now been replaced by an [[id:7fec1142-ab20-47e1-b746-36edee889cc3][Earth-like]]
+ecosystem, adapted to live under the red light. Locals are generally
+confident their star will remain a red giant forever.
+
+The [[id:7b522fdc-1a41-4e6e-a153-5917cf1fab1c][501st Joint Arcturus Wing]] is a faction that wants to bring peace
+to the Arcturus system and neighbouring systems. The 501st believe
+that you should never attack the innocent, and frown down on pirates
+and terrorists. They also believe that the only way to truly bring
+peace is to enlighten the people. The people of the 501st have a
+certain loyalty to their leaders, five dictators. Only one being
+known, the rest hiding in the shadows. The only one known to the
+public is [[id:0b19d539-a8c5-4800-aa08-c032948b659e][Victor Lexx Crowe]]. Oddly, though it is a dictatorship the
+people of the 501st have many freedoms. The only notable thing they
+outlawed being [[id:11c82a20-33a7-444f-977c-0ea2f666c25b][slavery]].
+#+end_quote
+
+[[file:img/systems/arcturus.png]]

@@ -13,3 +13,5 @@ Imperial power. The system is characterised by widespread opulence and
 ostentation. The permit for this system can be obtained from the
 Imperial military.
 #+end_quote
+
+[[file:img/systems/achenar.png]]

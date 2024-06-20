@@ -5,13 +5,11 @@
 
  - [[id:7a442368-d9e1-420b-a2c4-a8900a94227d][39 Tauri]]
  - [[id:bed8c27f-3cbe-49ad-b86f-7d87eacf804a][Achenar]]
- - [[id:77a7a843-4242-4da8-a764-c1525e6ceefe][Ackwada]]
- - [[id:eb11ab9d-aab7-4d9b-aeaf-a228ef33d4da][Alcor]]
  - [[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]]
- - Alpha Centauri
- - Arcturus
- - Arque
- - Asellus Primus
+ - [[id:2de7ac5c-9ae0-4ebf-af7d-6505f05d2fd1][Alpha Centauri]]
+ - [[id:74133f32-c175-450f-bd54-8ecbc8041696][Arcturus]]
+ - [[id:d4b595af-536d-4575-af11-f07f3ac3ff40][Arque]]
+ - [[id:b21e7cf9-145c-4546-8305-8dc866024f3c][Asellus Primus]]
  - Beagle Point
  - Bedaho
  - Beta Hydri
@@ -44,6 +42,7 @@
  - LTT 198
  - Lugh
  - Maia
+ - [[id:aa33caca-c071-4708-bb06-98fa8557e01d][Meliae]]
  - Merope
  - Mikunn
  - Orerve

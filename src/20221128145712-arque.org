@@ -4,21 +4,14 @@
 #+title: Arque
 #+filetags: :System:
 
+#+begin_quote
+A growing colony that formally joined the [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][Alliance]] in 3278. Many of
+the local corporations are now subsidiaries of [[id:36b937d8-9325-4e59-99ad-95297ac99bd2][Wreaken Construction and Mining]].
 
-Economy:Extraction / Agriculture
-Government:Cooperative
-Allegiance:Alliance
-Population:111,849
+The [[id:6be57ee8-1d53-4dfb-b349-6dcdca41462f][Wings of the Void]] were originally a group established to unify
+pilots within populated space. Now, in addition to that, the Wings aim
+to help new pilots learn about the workings of the galaxy, and try to
+maintain peace and contentment wherever they hold power.
+#+end_quote
 
-Controlling faction:Alliance Rapid-reaction Corps
-Traffic:945+ commanders
-Security level:Low
-State:Normal
-Star type:Class G star Scoopable
-Permit required:No
-Distance:
-Powerplay:Exploited by [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74][Edmund Mahon]]
-Controlling system:Leesti
-
-Info updated:18 Dec 2022, 12:49pm
-Factions updated:18 Dec 2022, 12:49pm
+[[file:img/systems/arque.png]]
