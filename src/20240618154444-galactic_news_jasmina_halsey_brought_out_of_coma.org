@@ -1,7 +1,9 @@
 :PROPERTIES:
 :ID:       43bda207-caa8-4485-82a1-5a03639f3a31
 :END:
-#+title: Galactic News: [[id:a9ccf59f-436e-44df-b041-5020285925f8][Jasmina Halsey]] Brought Out of Coma
+#nyes
+
++title: Galactic News: Jasmina Halsey Brought Out of Coma
 #+filetags: :3302:galnet:
 
 * Galactic News: [[id:a9ccf59f-436e-44df-b041-5020285925f8][Jasmina Halsey]] Brought Out of Coma

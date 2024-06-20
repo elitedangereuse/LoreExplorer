@@ -2,7 +2,7 @@
 :ID:       2ac0a830-a8ad-4f77-9dd2-cd833f94e1f6
 :ROAM_REFS: https://cms.zaonce.net/en-GB/jsonapi/node/galnet_article/5b92df1d-ad29-44c1-96f1-839eaee7b203?resourceVersion=id%3A4903
 :END:
-#+title: [[id:a9ccf59f-436e-44df-b041-5020285925f8][Jasmina Halsey]] Returns to the Federation
+#+title: Jasmina Halsey Returns to the Federation
 #+filetags: :galnet:
 
 * [[id:a9ccf59f-436e-44df-b041-5020285925f8][Jasmina Halsey]] Returns to the Federation
