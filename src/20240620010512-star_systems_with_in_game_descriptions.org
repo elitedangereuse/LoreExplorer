@@ -10,22 +10,22 @@
  - [[id:74133f32-c175-450f-bd54-8ecbc8041696][Arcturus]]
  - [[id:d4b595af-536d-4575-af11-f07f3ac3ff40][Arque]]
  - [[id:b21e7cf9-145c-4546-8305-8dc866024f3c][Asellus Primus]]
- - Beagle Point
- - Bedaho
- - Beta Hydri
- - Canopus
- - CD-43 11917
- - Cemiess
- - Cubeo
- - Delta Pavonis
- - Diso
- - Dromi
- - Durius
- - Eotienses
- - Epsilon Indi
- - Eranin
- - Eta Cassiopeiae
- - Euryale
+ - [[id:80ea667a-62b4-4082-bed0-ce253d76869b][Beagle Point]]
+ - [[id:4ee2a5f7-7b84-4261-aeb9-ebcddc41ad7c][Bedaho]]
+ - [[id:0db1f0b9-a70d-4384-96a5-c1587a8270b1][Beta Hydri]]
+ - [[id:35900507-bc1d-4030-a8ee-39b439bba2ed][Canopus]]
+ - [[id:4f15243b-1b75-47be-8504-e79947d89fd6][CD-43 11917]]
+ - [[id:360ae21e-63f2-43ba-a2fd-a47e5e49951e][Cemiess]]
+ - [[id:1cfcec06-5ac3-40b6-b08a-13086eb88466][Cubeo]]
+ - [[id:595aa273-d1b3-44fd-9f16-ddc7291b4bee][Delta Pavonis]]
+ - [[id:4aedfccd-a366-4b25-a5e2-538bb29a35cb][Diso]]
+ - [[id:87c450f1-1a7a-408e-b9e6-db42697053fe][Dromi]]
+ - [[id:c0ca77c2-1994-4f1c-9f14-b839171da15a][Durius]]
+ - [[id:9fa174ce-7273-40ba-a0e6-1225bcda40b6][Eotienses]]
+ - [[id:d40886f3-bc59-4f0d-8926-b125ee01c9bb][Epsilon Indi]]
+ - [[id:f38c2905-34c5-45c1-a2f5-2ec352b6630f][Eranin]]
+ - [[id:ed325fe8-22a1-4d07-9af9-5a9f8f056377][Eta Cassiopeiae]]
+ - [[id:6cf2c98a-fa94-4982-a055-6bb2a507921c][Euryale]]
  - Eurybia
  - Exphiay
  - Facece

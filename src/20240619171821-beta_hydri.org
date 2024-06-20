@@ -1,6 +1,0 @@
-:PROPERTIES:
-:ID:       0474bf24-f3de-48be-a01d-1543dd8b6b41
-:END:
-#+title: Beta Hydri
-#+filetags: :System:
-
