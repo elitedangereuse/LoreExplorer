@@ -8,14 +8,28 @@
 
 /28 Sep 3304/
 
-The personal administration robot of business magnate Lloyd Hardacre, which recently revealed evidence of his criminal activity, has been found to contain a concealed surveillance program. 
+The personal administration [[id:0c43c44c-33fe-4b99-a5e0-2f2be9dc67b0][robot]] of business magnate [[id:618fc109-cba3-4782-b24d-e4440f5894d4][Lloyd Hardacre]],
+which recently revealed evidence of his [[id:e39f9508-584c-4318-8854-10f3a301b4e8][criminal]] activity, has been
+found to contain a concealed surveillance program.
 
-Lieutenant Inspector Ramesh Thorne of the Federal Security Service made a statement to the media: 
+Lieutenant Inspector [[id:67e55dd5-7840-4133-9111-566a0008b121][Ramesh Thorne]] of the [[id:0ba9accc-93ad-45a0-a771-e26daa59e58f][Federal Security Service]]
+made a statement to the media:
 
-“FSS technicians discovered a highly sophisticated surveillance program within the robot’s coreware that was covertly copying certain types of data – namely anything illegal. A minor malfunction caused the robot to incorporate the data into a company presentation.” 
+“FSS technicians discovered a highly sophisticated surveillance
+program within the robot’s coreware that was covertly copying certain
+types of data – namely anything illegal. A minor malfunction caused
+the robot to incorporate the data into a company presentation.”
 
-“Our working theory is that Mr Hardacre was the target of an undercover spy operation, but not one coordinated by any legal authority. Clearly, someone harboured suspicions about Hardacre and was looking for proof. We are conducting interviews with his business associates and competitors.” 
+“Our working theory is that Mr Hardacre was the target of an
+[[id:862a7049-e43e-419d-8e8b-dc72ac790f7e][undercover]] [[id:de12e7c6-dc67-403d-bdd5-aadb52313312][spy]] operation, but not one coordinated by any legal
+authority. Clearly, someone harboured suspicions about Hardacre and
+was looking for proof. We are conducting interviews with his business
+associates and competitors.”
 
 When asked about the robot, Lieutenant Inspector Thorne added: 
 
-“The robot is manufactured by the Achilles Corporation, and is a relatively primitive machine, designed to coordinate information and perform administrative tasks. Such robots are incapable of independent behaviour, so this one must have been subjected to comprehensive reprogramming.”
+“The robot is manufactured by the [[id:04ba4637-336a-46c7-bab0-3ac12f16b2f9][Achilles Corporation]], and is a
+relatively primitive machine, designed to coordinate information and
+perform administrative tasks. Such robots are incapable of independent
+behaviour, so this one must have been subjected to comprehensive
+reprogramming.”

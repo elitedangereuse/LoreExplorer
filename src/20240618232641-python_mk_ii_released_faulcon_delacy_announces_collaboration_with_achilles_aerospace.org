@@ -14,7 +14,7 @@ Faulcon DeLacy, the widely respected manufacturer behind this new ship, released
 
 “The original Python is an incredibly versatile ship, serving countless pilots in countless roles around the universe. For the Mk II, we wanted to create something more specialised and focused, and so we are coming to market with a ship that truly excels in battle conditions...  but that’s not all.” 
 
-“Thanks to a fruitful collaboration with our friends at Achilles Aerospace, the Python Mk II has been designed from the ground up to better handle their new Frame Shift Drive.” 
+“Thanks to a fruitful collaboration with our friends at [[id:5a4ea429-1e5d-48fe-ae0a-711002056e1a][Achilles Aerospace]], the Python Mk II has been designed from the ground up to better handle their new Frame Shift Drive.” 
 
 “It has improved heat management, better handling, reduced fuel consumption, and even better acceleration and deceleration capacity.” 
 

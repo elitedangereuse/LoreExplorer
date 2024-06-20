@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       0b7fcbab-6e37-401a-8d52-4d2dee8e5c1e
+:END:
+#+title: PA912
+Administration [[id:0c43c44c-33fe-4b99-a5e0-2f2be9dc67b0][Robot]]
