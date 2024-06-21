@@ -3,9 +3,27 @@
 :END:
 #+title: Relocation
 #+filetags: :beacon:
-*     0178  Relocation
+* 0178 Relocation
 [[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]]
 
-The Achenar crisis had far reaching consequences for the Federal Council. Earth's leadership had been unquestioned, but the mother planet was already undergoing a difficult period with the climate and radiatio problems on Earth not improving, and yet Mars appearing ever more verdant and a more confortable place to live, there was a general exodus of the rich and influential. The prospect of war with Achenar required a strong hand. In time, the Federal Congress moved from Washington on Earth, to Olympus Village on Mars, and this helped ease friction with other Federation members - as there was a consultation period where other systems were considered. / Nevertheless, the next sixty years saw several fledgling colonies opt out of their colonial charter obligations once they arrived on their chosen world and accept the rulership of the Duvals. The Emperor played the politics skillfully. The massive natural resources being offered and exported from Achenar countered the benefits of then superior Federal technology, whilst the Duval emphasis on subjugating Alien ecology to the needs of the colonies, made them a popular benefactor for struggling settlements.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |   |   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |   |   |   |   |   |   
+The [[id:bed8c27f-3cbe-49ad-b86f-7d87eacf804a][Achenar]] crisis had far reaching consequences for the [[id:f87b6e4e-09d8-4bea-a4cf-e1a44c468297][Federal
+Council]]. [[id:5b0f485f-4793-468d-a1a1-483606f44e0e][Earth]]'s leadership had been unquestioned, but the mother
+planet was already undergoing a difficult period with the climate and
+[[id:d9bd4ed4-2be0-4b30-a32d-83f85c925daa][radiation]] problems on Earth not improving, and yet [[id:8a55a32e-316d-469b-a19f-bdc7c4d4b018][Mars]] appearing ever
+more verdant and a more confortable place to live, there was a general
+exodus of the rich and influential. The prospect of [[id:1f37cad9-f017-4253-ae21-915fee1285a2][war]] with Achenar
+required a strong hand. In time, the Federal Congress moved from
+Washington on Earth, to [[id:bb96c46f-09d5-4e50-ac48-026557d18621][Olympus Village]] on Mars, and this helped ease
+friction with other [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][Federation]] members - as there was a consultation
+period where other systems were considered.
+
+Nevertheless, the next sixty years saw several fledgling colonies opt
+out of their colonial charter obligations once they arrived on their
+chosen world and accept the rulership of the [[id:bce02e51-c68c-4594-86fe-88dda4915a74][Duvals]]. The Emperor
+played the politics skillfully. The massive natural resources being
+offered and exported from Achenar countered the benefits of then
+superior Federal technology, whilst the Duval emphasis on subjugating
+[[id:860ffa72-12a1-44d6-bca5-d7c2cdc29a44][Alien]] ecology to the needs of the colonies, made them a popular
+benefactor for struggling settlements.
 
 [[file:img/beacons/0178B.png]]
