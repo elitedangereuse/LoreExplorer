@@ -18,8 +18,8 @@ Vox Galactica published a fragmented message transmitted by the engineer Chloe S
 
 “…emergency SOS from the Shenve system. The Thargoids… full-scale invasion. They’ve hit us hard. The… evacuated my team and abandoned Cinder Dock. We’re trying to get clear from… swarms of them, in every direction we turn. If anyone’s receiving this, we’re…” 
 
-Captain Warren Lamar, head of security for the Alliance Expeditionary Pact, made this statement: 
+Captain Warren Lamar, head of security for [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] Expeditionary Pact, made this statement: 
 
 “In recent years we’ve fought off several Thargoid strikes, but the sheer scale of these attacks is unprecedented. The Golden Stag megaship in Onoros has been destroyed, with most of our forces scattered. I’ve urgently requested reinforcements from the Alliance, but we are desperate for immediate support.” 
 
-The Witch Head Enclave was established in 3305 following the discovery of barnacle sites, which were commercially exploited by the Alliance as sources of meta-alloys. Dr Maximo Fonseca and other leading xenologists believe that securing barnacle-rich systems is part of the Thargoids’ expansion strategy.
+The Witch Head Enclave was established in 3305 following the discovery of barnacle sites, which were commercially exploited by [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] as sources of meta-alloys. Dr Maximo Fonseca and other leading xenologists believe that securing barnacle-rich systems is part of the Thargoids’ expansion strategy.

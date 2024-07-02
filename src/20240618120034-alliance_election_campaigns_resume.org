@@ -8,9 +8,9 @@
 
 /10 May 3307/
 
-The election of the Alliance prime minister will take place on the 27th of May, having been postponed due to the Galactic Summit. 
+The election of [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] prime minister will take place on the 27th of May, having been postponed due to the Galactic Summit. 
 
-Vanya Driscoll, political correspondent for The Alliance Tribune, reported: 
+Vanya Driscoll, political correspondent for [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][The Alliance]] Tribune, reported: 
 
 “Prime Minister [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74][Edmund Mahon]]’s decision to postpone the election for three months caused enormous disruption and mass protests. This may have mortally wounded his campaign to be re-elected as head of government for a second six-year term.” 
 
@@ -18,4 +18,4 @@ Vanya Driscoll, political correspondent for The Alliance Tribune, reported:
 
 “Although there are several candidates, Mahon’s only serious challenger is Councillor Nakato Kaine. She has been a vocal critic of his expansionist policies, and gained much public support for her focus on boosting trade between Alliance systems.” 
 
-“Electoral votes will be cast by members of the Alliance Assembly, whose decisions reflect popular opinion in their constituencies. No previous prime minister has served more than a single term, so it remains to be seen whether Mahon will defy precedent or Kaine will follow the pattern of history.”
+“Electoral votes will be cast by members of [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] Assembly, whose decisions reflect popular opinion in their constituencies. No previous prime minister has served more than a single term, so it remains to be seen whether Mahon will defy precedent or Kaine will follow the pattern of history.”

@@ -14,8 +14,8 @@ The Alliance Tribune’s political correspondent Vanya Driscoll reported:
 
 “When Sirius Corporation megaships arrived in four Allied systems, it’s fair to assume they anticipated a degree of public resistance. But being directly attacked by the Reorte Mining Coalition clearly wasn’t part of their risk assessment.” 
 
-“Li Yong-Rui has urgently sought assurances from the Alliance that such conflicts will not happen again. The megacorp’s CEO claimed that he has a duty to protect his employees from aggression by their own clients.” 
+“Li Yong-Rui has urgently sought assurances from [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] that such conflicts will not happen again. The megacorp’s CEO claimed that he has a duty to protect his employees from aggression by their own clients.” 
 
-“In response, Prime Minister [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74][Edmund Mahon]] personally guaranteed that this unfortunate incident was a one-off, stressing that Sirius personnel have been welcomed in the Alioth, Arimpox and Di Jian systems. He added that the Alliance Defence Force is working closely with Admiral Nikolas Glass, the Sirius Navy’s representative.” 
+“In response, Prime Minister [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74][Edmund Mahon]] personally guaranteed that this unfortunate incident was a one-off, stressing that Sirius personnel have been welcomed in the Alioth, Arimpox and Di Jian systems. He added that [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] Defence Force is working closely with Admiral Nikolas Glass, the Sirius Navy’s representative.” 
 
 “But others in the Assembly are now openly questioning the wisdom of the strategic defence pact. Although Councillor Nakato Kaine’s opposition to Mahon is often viewed as predictable, more members now agree with her that many Allied factions will reject the assertion that Sirius Corporation is an ally to be trusted.”

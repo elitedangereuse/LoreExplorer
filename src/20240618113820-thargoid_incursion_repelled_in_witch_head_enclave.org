@@ -14,7 +14,7 @@ Thargoid forces defeated in an Alliance-controlled system within the Witch Head 
 
 The galactic community has responded to a call for aid from the Witch Head Enclave and successfully resisted an attack by the Thargoids. The majority of the alien vessels were destroyed, forcing the remainder to retreat. 
 
-Captain Warren Lamar, head of security for the Alliance Expeditionary Pact, announced: 
+Captain Warren Lamar, head of security for [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] Expeditionary Pact, announced: 
 
 “Everyone in Onoros and our neighbouring systems owes an enormous debt to the courageous pilots who met the Thargoids in battle. The whole of the Witch Head Enclave is breathing a sigh of relief that this resurgence was prevented from spreading any farther.” 
 
