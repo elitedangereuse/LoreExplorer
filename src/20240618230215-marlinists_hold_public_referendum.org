@@ -16,7 +16,7 @@ The Marlin Standard ran an editorial summarising the situation:
 
 “Should the Marlinist Colonies remain an isolated republican society, or should we move beneath the Empire’s protective wing? It’s a question that most of us never expected to be asked.” 
 
-“Many expressed fierce anger that Emperor Arissa has dared to ask for our allegiance. In her desperation to hunt down the NMLA she persecuted all believers in Marlinism, arresting thousands and displacing millions of her own citizens. Can we now trust her to welcome us back?” 
+“Many expressed fierce anger that Emperor Arissa has dared to ask for our allegiance. In her desperation to hunt down the [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] she persecuted all believers in Marlinism, arresting thousands and displacing millions of her own citizens. Can we now trust her to welcome us back?” 
 
 “Others are concerned that the Marlinist Colonies remain vulnerable, claiming that becoming a satellite nation of the Empire would provide military defences as well as economic boosts. And for those still holding on to their past lives, the attraction of reconnecting with friends and family in the Empire is strong.” 
 

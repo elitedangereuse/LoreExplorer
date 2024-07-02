@@ -8,7 +8,7 @@
 
 /17 Sep 3306/
 
-Imperial news sources have confirmed that Prince Harold Duval was assassinated by NMLA terrorists while travelling incognito to the Cemiess system. 
+Imperial news sources have confirmed that Prince Harold Duval was assassinated by [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] terrorists while travelling incognito to the Cemiess system. 
 
 Emperor [[id:34f3cfdd-0536-40a9-8732-13bf3a5e4a70][Arissa Lavigny-Duval]] broadcast this address: 
 
@@ -18,6 +18,6 @@ Princess [[id:b402bbe3-5119-4d94-87ee-0ba279658383][Aisling Duval]], Harold’s 
 
 “It’s a huge loss to us all that… I’m sorry… I can’t believe this has happened. He can’t be gone! I used to have some sympathy for the Marlinists, but now they… they took him from us. They took my daddy.” 
 
-The NMLA also attacked starports in the Cemiess, Gabjaujis, LHS 4031 and Rabh systems.  
+The [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] also attacked starports in the Cemiess, Gabjaujis, LHS 4031 and Rabh systems.  
 
 The Empire is now on heightened alert, and the Senate has approved new counter-terrorism initiatives proposed by Senator Denton Patreus.

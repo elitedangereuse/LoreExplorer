@@ -12,7 +12,7 @@
 
 The Empire has broadcast this message across its emergency channels: 
 
-“There have been multiple explosions within Mackenzie Relay station, in Princess [[id:b402bbe3-5119-4d94-87ee-0ba279658383][Aisling Duval]]’s home system of Cemiess. NMLA terrorists have claimed responsibility.”  
+“There have been multiple explosions within Mackenzie Relay station, in Princess [[id:b402bbe3-5119-4d94-87ee-0ba279658383][Aisling Duval]]’s home system of Cemiess. [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] terrorists have claimed responsibility.”  
 
 “In coordinated attacks they have also struck at Tsiolkovsky Terminal in the Gabjaujis system, Garrido Market in the LHS 4031 system, and Muller Terminal in the Rabh system.” 
 

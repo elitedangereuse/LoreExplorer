@@ -1,14 +1,14 @@
 :PROPERTIES:
 :ID:       b11e7140-fe4f-435c-a987-bfdb4bd4da3e
 :END:
-#+title: Imperial Intelligence Denies NMLA Connection
+#+title: Imperial Intelligence Denies [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] Connection
 #+filetags: :galnet:
 
-* Imperial Intelligence Denies NMLA Connection
+* Imperial Intelligence Denies [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] Connection
 
 /07 Jan 3308/
 
-Senators have refuted ACT’s claim that the NMLA made use of official but highly secret Imperial communications devices. 
+Senators have refuted ACT’s claim that the [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] made use of official but highly secret Imperial communications devices. 
 
 Captain Saskia Landau maintains that the terrorist group’s dark-comms network was very similar to the Omega Grid, an undetectable messaging system used exclusively by Imperial Intelligence. 
 

@@ -8,7 +8,7 @@
 
 /03 May 3307/
 
-The isolationist group faces attack by both Federal and Imperial factions, after accusations that Imperator Hadrian Duval is the NMLA mastermind. 
+The isolationist group faces attack by both Federal and Imperial factions, after accusations that Imperator Hadrian Duval is the [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] mastermind. 
 
 The League of Mandu arrived in the Paresa system last week and quickly established a foothold. Admiral Natalia Lee, commanding the Harmony’s Shield megaship, announced: 
 
@@ -16,11 +16,11 @@ The League of Mandu arrived in the Paresa system last week and quickly establish
 
 Magister Julius Halstrom of the Peraesii Empire Consulate declared: 
 
-“In the name of the Emperor, we stand ready to purge the NMLA from the Paresa system – and the Federation too, unless they withdraw.” 
+“In the name of the Emperor, we stand ready to purge the [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] from the Paresa system – and the Federation too, unless they withdraw.” 
 
 Hadrian Duval has broadcast a message via Paresa News Network: 
 
-“The NMLA faked my identity when dealing with the Neo-Marlinist Order of Mudhrid, knowing the superpowers would do their work for them by killing another Duval. Nova Imperium will defend itself if necessary, but we are not responsible for any terrorist attacks.” 
+“The [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] faked my identity when dealing with the Neo-Marlinist Order of Mudhrid, knowing the superpowers would do their work for them by killing another Duval. Nova Imperium will defend itself if necessary, but we are not responsible for any terrorist attacks.” 
 
 ACT is still attempting to corroborate evidence provided by the Landgrave of Mudhrid. Praetor Leo Magnus, Nova Imperium’s security chief, is reportedly aiding their enquiries. 
 

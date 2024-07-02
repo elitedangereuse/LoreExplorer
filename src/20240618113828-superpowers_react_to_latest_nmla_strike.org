@@ -1,20 +1,20 @@
 :PROPERTIES:
 :ID:       f1ab7f43-3ff6-4527-b171-c2e9f9925e1d
 :END:
-#+title: Superpowers React to Latest NMLA Strike
+#+title: Superpowers React to Latest [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] Strike
 #+filetags: :galnet:
 
-* Superpowers React to Latest NMLA Strike
+* Superpowers React to Latest [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] Strike
 
 /20 Nov 3306/
 
 Relations between the Empire and the Federation have deteriorated following a terror attack by Neo-Marlinists against a Federal starport. 
 
-Kepler Orbital in the Atropos system was bombed by the NMLA to eliminate several of its captured members, before they could reveal anything under interrogation by the Federal Security Service. 
+Kepler Orbital in the Atropos system was bombed by the [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] to eliminate several of its captured members, before they could reveal anything under interrogation by the Federal Security Service. 
 
 Imperial Ambassador Imogen Luciana made this statement: 
 
-“The NMLA was obviously able to make use of its bomb-making factories within the LTT 1935 system. If the Federation had not resisted our investigation, we would have shut these down and prevented the attack.” 
+“The [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] was obviously able to make use of its bomb-making factories within the LTT 1935 system. If the Federation had not resisted our investigation, we would have shut these down and prevented the attack.” 
 
 “Our warning about the extremist threat went unheeded, and the Federation is now paying the price. We once again insist that all Marlinists are repatriated to the Empire.” 
 
