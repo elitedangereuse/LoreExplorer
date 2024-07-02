@@ -16,6 +16,6 @@ Freelance reporter Casey Kilpatrick provided a report for Vox Galactica:
 
 “After a coalition of supporters helped them to bypass Orion University’s override codes, the Scriveners Clan has finally resumed their nomadic lifestyle. To its credit, the university has finally taken stock of public opinion and agreed not to pursue its ownership claims over the ancient dredger.” 
 
-“Many in the scientific community have pointed out that the contents of the Knowledge Core, around which the Scriveners’ entire culture is based, will now remain a mystery. There are rumours that this tribe of academic researchers have acquired data about the Guardians during their decades of wandering, which was perhaps the real prize sought by Orion University.” 
+“Many in the scientific community have pointed out that the contents of the Knowledge Core, around which the Scriveners’ entire culture is based, will now remain a mystery. There are rumours that this tribe of academic researchers have acquired data about [[id:f57cff55-3348-45ea-b76f-d0eaa3c68165][the Guardians]] during their decades of wandering, which was perhaps the real prize sought by Orion University.” 
 
 “Concerns have also been raised about the Scriveners’ chances of survival if they encounter hostile forces. Had the Scientia Aeterna megaship been allowed to accompany the dredger, it could have offered protection or at least called for assistance. Now that the Scriveners Clan have resumed a solitary existence, their fate is once again entirely in their hands.”
