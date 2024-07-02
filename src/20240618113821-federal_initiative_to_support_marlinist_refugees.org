@@ -10,7 +10,7 @@
 
 *Pilots Federation ALERT* 
 
-An aid charity is requesting deliveries of vital supplies to help Marlinist refugees that fled from the Empire to the Federation. 
+An aid charity is requesting deliveries of vital supplies to help Marlinist refugees that fled from [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] to the Federation. 
 
 Safeguard Interstellar, a humanitarian aid organisation, has announced a campaign to help refugees requesting political asylum in the Federation. 
 
@@ -18,7 +18,7 @@ Several Imperial factions sympathetic to Marlinism were placed under martial law
 
 Noel Beaumont, the CEO of Safeguard Interstellar, made this statement: 
 
-“These ex-citizens of the Empire have suffered at the hands of their own government, and now seek freedom from persecution. Shelter, food and other necessities must be provided to satisfy their basic human rights.” 
+“These ex-citizens of [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] have suffered at the hands of their own government, and now seek freedom from persecution. Shelter, food and other necessities must be provided to satisfy their basic human rights.” 
 
 “We urgently require shipments of basic medicines, clothing, food cartridges, fruit and vegetables, and evacuation shelters to Fox Enterprise in the LFT 625 system. From there, they will be distributed to the Marlinists. The more supplies we receive, the more systems can offer sanctuary without strain on their infrastructure.”  
 

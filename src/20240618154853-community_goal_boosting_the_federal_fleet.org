@@ -8,7 +8,7 @@
 
 /04 Aug 3302/
 
-As the antagonism between the Federation and the Empire continues to simmer, the Federation has announced plans to expand its Navy with three new Farragut-class Battlecruisers. The development follows a recent initiative to add three new capital ships to the Imperial fleet. 
+As the antagonism between the Federation and [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] continues to simmer, the Federation has announced plans to expand its Navy with three new Farragut-class Battlecruisers. The development follows a recent initiative to add three new capital ships to the Imperial fleet. 
 
 In a statement, Federal President [[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][Zachary Hudson]] spoke candidly about the motivation behind the campaign. 
 

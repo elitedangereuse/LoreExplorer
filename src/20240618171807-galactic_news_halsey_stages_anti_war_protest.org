@@ -8,7 +8,7 @@
 
 /21 May 3303/
 
-Former Federal president [[id:a9ccf59f-436e-44df-b041-5020285925f8][Jasmina Halsey]] held a public demonstration in the Alioth system yesterday in protest of the ongoing conflict between the Empire and the Federation. 
+Former Federal president [[id:a9ccf59f-436e-44df-b041-5020285925f8][Jasmina Halsey]] held a public demonstration in the Alioth system yesterday in protest of the ongoing conflict between [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] and the Federation. 
 
 More than 30,000 people attended the event, which lasted for several hours and occupied one of the main public plazas in Nerah City on Argent’s Claim. 
 
@@ -20,4 +20,4 @@ In an address to the crowd, Halsey said:
 
 “I speak now directly to President [[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][Zachary Hudson]] and Emperor Arissa Lavigny-Duval: It is not too late for you to listen to reason.” 
 
-Neither the Empire nor the Federation elected to respond to Halsey’s statement.
+Neither [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] nor the Federation elected to respond to Halsey’s statement.

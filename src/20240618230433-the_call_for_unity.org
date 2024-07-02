@@ -12,7 +12,7 @@ Newsfeeds across the core systems have reflected the increasing public demand fo
 
 Federal Free Press: “Removing the Far God cult from Federal space was a way of distracting the people from President Hudson’s failures. The real threat remains the Thargoids themselves, and there is little chance of withstanding them without Allied and Imperial aid.” 
 
-Citizens' Chronicle: “With the greatest respect to Her Majesty, the Empire cannot pretend that it played no part in the disaster at HIP 22460. Surely we are strong enough to shoulder some of the burden in defeating this common enemy?” 
+Citizens' Chronicle: “With the greatest respect to Her Majesty, [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] cannot pretend that it played no part in the disaster at HIP 22460. Surely we are strong enough to shoulder some of the burden in defeating this common enemy?” 
 
 Old Worlds Gazette: “After the Aegis symposium, Deputy Prime Minister Angela Corcoran supported reinstating the tri-superpower agency, claiming: ‘The scale of the conflict deserves a stronger response than our pact with Sirius Corporation can provide.’” 
 
