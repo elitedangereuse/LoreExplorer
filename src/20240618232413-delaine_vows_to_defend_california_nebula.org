@@ -10,9 +10,9 @@
 
 *Pilots’ Federation ALERT* 
 
-The Kumo Crew syndicate has rallied in the California Nebula to repel the region’s Thargoid invasion forces. 
+The Kumo Crew syndicate has rallied in the California Nebula to repel the region’s [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] invasion forces. 
 
-In recent weeks Thargoid fleets swarmed through several local systems. The Kumo Council, the enclave’s authority for the notorious organisation, rapidly called in reinforcements in three systems it governs. Local security forces are now organising counter-attacks against Thargoid vessels. 
+In recent weeks [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] fleets swarmed through several local systems. The Kumo Council, the enclave’s authority for the notorious organisation, rapidly called in reinforcements in three systems it governs. Local security forces are now organising counter-attacks against Thargoid vessels. 
 
 Archon Delaine, warlord of the Kumo Crew, announced: 
 
@@ -20,6 +20,6 @@ Archon Delaine, warlord of the Kumo Crew, announced:
 
 The Pegasi Sentinel newsfeed published a request for populations not to impede Kumo Crew activity, suggesting that fleet mobilisation is ‘a temporary measure to provide a coordinated resistance against the Thargoids’. It is thought Kumo Crew’s megaship, the Mictlan, is preparing to deploy in support of these efforts. 
 
-This message was rejected by Turner Research Group, which controls several of the invaded systems. The scientific organisation was established by [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] in 3302 to study the barnacles discovered in the region. Harrison Gladstone, the group’s spokesperson, declared: “Delaine is obviously using the Thargoid attacks as a pretence for a power grab. There is no chance that these pirates will defend our systems out of the goodness of their blackened hearts. We’ll know what Delaine’s real plan is soon enough.” 
+This message was rejected by Turner Research Group, which controls several of the invaded systems. The scientific organisation was established by [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] in 3302 to study the barnacles discovered in the region. Harrison Gladstone, the group’s spokesperson, declared: “Delaine is obviously using the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] attacks as a pretence for a power grab. There is no chance that these pirates will defend our systems out of the goodness of their blackened hearts. We’ll know what Delaine’s real plan is soon enough.” 
 
-The California Nebula has witnessed several Thargoid attacks, most recently last October, but this is the first marked increase in hostilities following the arrival of the Maelstroms.
+The California Nebula has witnessed several [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] attacks, most recently last October, but this is the first marked increase in hostilities following the arrival of the Maelstroms.

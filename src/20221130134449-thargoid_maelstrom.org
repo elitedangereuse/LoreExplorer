@@ -1,9 +1,9 @@
 :PROPERTIES:
 :ID:       2f251dee-63c1-4551-b437-2df1483e8078
 :END:
-#+title: Thargoid Maelstrom
+#+title: [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Maelstrom
 
-Appeared during the [[id:9a246121-0c2e-4f21-9877-ee333d6b0d6c][Second Thargoid War]] in [[id:6094d5a7-82fd-4b8b-bec5-c8024b955658][the Bubble]]
+Appeared during the [[id:9a246121-0c2e-4f21-9877-ee333d6b0d6c][Second [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] War]] in [[id:6094d5a7-82fd-4b8b-bec5-c8024b955658][the Bubble]]
 - [[id:4b81a635-2d54-430b-a0e5-7100a81f6c53][Hyades Sector FB-N B7-6]]
 
 Located near [[id:7579d21e-8753-410c-a462-b07045ad00f6][Ammonia Worlds]]

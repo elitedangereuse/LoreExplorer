@@ -1,25 +1,25 @@
 :PROPERTIES:
 :ID:       c4ea8ef3-0aac-4774-ac95-6c499c4e4eee
 :END:
-#+title: Coalsack Nebula Reports Thargoid Activity
+#+title: Coalsack Nebula Reports [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Activity
 #+filetags: :galnet:
 
-* Coalsack Nebula Reports Thargoid Activity
+* Coalsack Nebula Reports [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Activity
 
 /15 Nov 3308/
 
-The human colonists in the Coalsack Nebula has raised the alarm after Thargoid forces appeared several systems. 
+The human colonists in the Coalsack Nebula has raised the alarm after [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] forces appeared several systems. 
 
-Following recent attacks on systems and vessels in the California Nebula, it appears that the Thargoids have again sought to occupy systems where barnacle fields are present on planet surfaces. 
+Following recent attacks on systems and vessels in the California Nebula, it appears that the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] have again sought to occupy systems where barnacle fields are present on planet surfaces. 
 
 Councillor Lewis Laychurch, representing [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] Expeditionary Pact in HIP 62154, provided the following to the Alliance Tribune: 
 
-“Our security craft regularly patrol between the populated systems in this region. We had the first reports of nonhuman signals this morning. Obviously we’ve seen Thargoid activity in the Coalsack Nebula several times before, but this time was different. It’s not an attack as much as a presence.” 
+“Our security craft regularly patrol between the populated systems in this region. We had the first reports of nonhuman signals this morning. Obviously we’ve seen [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] activity in the Coalsack Nebula several times before, but this time was different. It’s not an attack as much as a presence.” 
 
-“We witnessed a huge upsurge in these signals in multiple systems. Over a couple of hours, it felt like Thargoid activity was visible on scanners wherever our ships looked. It’s exclusively in areas with barnacle sites, too.” 
+“We witnessed a huge upsurge in these signals in multiple systems. Over a couple of hours, it felt like [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] activity was visible on scanners wherever our ships looked. It’s exclusively in areas with barnacle sites, too.” 
 
-Now, there’s no secret that the Thargoids aren’t happy with our interest in the meta-alloys those sites produce. But this time they’re not attacking ports, or either the Spirit of Nysa or Song of Mecchi megaships. It’s like they’re waiting for something.” 
+Now, there’s no secret that the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] aren’t happy with our interest in the meta-alloys those sites produce. But this time they’re not attacking ports, or either the Spirit of Nysa or Song of Mecchi megaships. It’s like they’re waiting for something.” 
 
-The described behaviour matches similar Thargoid incursions into other populated systems in recent weeks. Researchers in the nebula have withdrawn from ongoing field studies of barnacle sites, citing safety concerns. 
+The described behaviour matches similar [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] incursions into other populated systems in recent weeks. Researchers in the nebula have withdrawn from ongoing field studies of barnacle sites, citing safety concerns. 
 
 In other news, Azimuth Biotech has announced that the Glorious Prospect will distribute the Mbooni permit from the LHS 1163 system, instead of the T-Tauri system as planned. Federal authorities offered protection to the megaship to reduce the travel time between the two locations, granting combat pilots swift access to the anti-xeno weaponry offered at Prospect’s Deep.

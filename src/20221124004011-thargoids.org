@@ -33,50 +33,50 @@
 * Knowledge Base
 ** The Thargoids
 *** Human-Thargoid Contact
-The Thargoids are a nonhuman race with a history of hostility towards
+The [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] are a nonhuman race with a history of hostility towards
 humanity.
 
-The [[id:05d491aa-9716-4e70-9335-d338f55d3819][first recorded encounter]] with a Thargoid ship took place in 2849,
+The [[id:05d491aa-9716-4e70-9335-d338f55d3819][first recorded encounter]] with a [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] ship took place in 2849,
 although earlier undocumented encounters are believed to have taken
-place. In the years that followed, contact with lone Thargoid vessels
+place. In the years that followed, contact with lone [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] vessels
 was intermittently reported.
 
-Humanity clashed with the Thargoids in the 32nd century, but details
+Humanity clashed with the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] in the 32nd century, but details
 of the conflict remained scarce for many years, and it proved
-difficult to differentiate authentic accounts of Thargoid encounters
+difficult to differentiate authentic accounts of [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] encounters
 from the sensationalist media stories of the time.
 
 The discovery of abandoned Intergalactic Naval Reserve Arm bases in
 3303 did much to dispel the fog, however. The INRA, a joint
 Federal-Imperial intiative established in 3193, was responsible for
-researching the Thargoids and developing technologies to counter their
+researching the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] and developing technologies to counter their
 aggression, but the organisation's lack of accountability meant that
 the details of its research did not come to light until years after is
 dissolution.
 
-Almost all of the reliable data concerning the Thargoids have been
+Almost all of the reliable data concerning the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] have been
 sourced from INRA facilities. This data, originally deemed highly
 confidential, was declassified in 3304 following a resolution from the
 Federal Government and an Imperial decree. Some controversy over the
 backing and funding of the INRA remains, however.
 
 *** Society
-The INRA discovered that Thargoid society is organised into [[id:cf8efef4-6db7-4780-9b79-6321b738adfc][hives]],
-with most Thargoids falling into three categories - [[id:f9130ae0-4c2b-41d4-8e7f-7256049dba64][queens]], [[id:c169f30d-eb80-4018-9bfe-d21c3db10ef9][princesses]]
+The INRA discovered that [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] society is organised into [[id:cf8efef4-6db7-4780-9b79-6321b738adfc][hives]],
+with most [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] falling into three categories - [[id:f9130ae0-4c2b-41d4-8e7f-7256049dba64][queens]], [[id:c169f30d-eb80-4018-9bfe-d21c3db10ef9][princesses]]
 and [[id:dd5c81e6-b181-445f-a15d-45fe9a788561][drones]]. Queens function as reproducers, while drones serve to
 maintain a favourable environment for the rest of the hive. Thargoid
 hives can be vast, although it may be that some of the larger observed
 groups are in fact multiple, overlapping hives. Ultimately, little is
 known for sure.
 
-The average Thargoid queen is at least as intelligent as a huma being,
+The average [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] queen is at least as intelligent as a huma being,
 while the typical drone possesses a more rudimentary level of
 intelligence. Existing evidence suggests that queens have extremely
 long lifespans, living for hundreds or even thousands of years. The
 variable size fo queens' neurocraniums suggests this might be an
 indicator of age.
 
-Little is known about the precise nature of Thargoid reproduction, but
+Little is known about the precise nature of [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] reproduction, but
 it is likely that queens can reproduce both seually (with other
 queens) and asexually. It is thought that the latter method produces
 drones, while the former produces a new queen. Analysis of Thargoid
@@ -92,22 +92,22 @@ sometimes achieved by culling older drones.
 
 INRA testing indicated that queens perceive drones as entirely
 expendable, presumably due to the ease with which they can be
-replaced. Indeed, a Thargoid queen appears to give no more thought to
+replaced. Indeed, a [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] queen appears to give no more thought to
 the loss of a drone than a human would an eyelash.
 
 *** Communication
-The belief that Thargoids were capable of some form of extra-sensory
+The belief that [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] were capable of some form of extra-sensory
 communication was often cited in the early years of human-Thargoid
 interaction, but prior to the discovery of INRA records it was not
 fully understood.
 
-Professor [[id:0e8f9924-e230-4390-aa79-5dba76c6e6d2][Uri Anslow]] of the INRA theorised that a Thargoid queen can
+Professor [[id:0e8f9924-e230-4390-aa79-5dba76c6e6d2][Uri Anslow]] of the INRA theorised that a [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] queen can
 communicate with the drones in its hive via a spread-spectrum
 electronic signal, and can use this signal to control the drones, and
 even to share their sensory input. Studies of battlefield footage
 certainly suggest some kind of near-instantaneous communication among
 Thargoids, and the presence of low-level radio noise in areas occupied
-by Thargoids indicates that they do indeed communicate via short-range
+by [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] indicates that they do indeed communicate via short-range
 electronic signals. Professor Anslow went on to claim that a queen
 could effectively see and hear through its drones, but her
 contemporaries were sceptical, dismissing the assertion as
@@ -124,7 +124,7 @@ specialist in interspecies communication, has studied INRA audio logs
 and suggested that the sounds probably represent some kind of
 language, due to the reptition of certain sound combinations.
 
-It is unclear why the Thargoids would sometimes choose to communicate
+It is unclear why the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] would sometimes choose to communicate
 with each other vocally, given their capactiy for extrasensory
 communication. Professor Anslow suggested that the sounds could be
 designed to intimidate enemies or opponents, noting that Thargoids
@@ -137,29 +137,29 @@ different emotional states. What is not know is if these sounds are
 produced by teh pilots and amplified by the ship, or emitted by the
 ship itself. If the sounds originate with the pilot, it would suggest
 some kind of physiological connection between the pilot and
-vessel. Given the sophistication of Thargoid bio-engineering, however,
+vessel. Given the sophistication of [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] bio-engineering, however,
 it is possible that the sounds come from the ship itself, and that
 Thargoid ships are able to feel and communicate to a limited degree.
 
-The hulls of Thargoid ships are typically emblazoned with one of
+The hulls of [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] ships are typically emblazoned with one of
 several symbols, the meaning of which is unknown. Some have theorised
 that they could denote membership of a particular familial group, or
 possibly be an indicator of rank.
 
 *** Physiology
-Human understanding of Thargoid physiology is far from complete, but
+Human understanding of [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] physiology is far from complete, but
 recovered INRA data has offered some insights into their nature.
 
-INRA records describe the average Thargoid as physically larger than a
-human being, and generally insectoid in appearance. Thargoid biology
+INRA records describe the average [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] as physically larger than a
+human being, and generally insectoid in appearance. [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] biology
 is carbon-based, using an RNA-like encoding for biological
-information, but Thargoid chemistry is based on ammonia rather thatn
-water. Consequently, while Thargoids can comfortably tolerate
+information, but [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] chemistry is based on ammonia rather thatn
+water. Consequently, while [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] can comfortably tolerate
 environments as cold as minus 80 degrees Celcius, they cannot
 withstand environments warmer than 45 degrees Celcius for long.
 
 According to notes compiled by Doctor Peregrine Henig, an INRA
-researcher, Thargoids can survive for a signfiicant time in the vacuum
+researcher, [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] can survive for a signfiicant time in the vacuum
 of space without apparent discomfort, and can tolerate radiation and
 extreme cold for far longer than a human.
 
@@ -180,14 +180,14 @@ It is widely assumed that since the last human-Thargoid conflict, the
 Thargoids have developed an immunity to the mycoid virus.
 
 *** Starships
-In terms of structure and function, Thargoid vessels are radically
+In terms of structure and function, [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] vessels are radically
 different from anything produced by humanity, and are able to navigate
 hyperspace in ways that are not fully understood. They are also at
 least partly organic, meaning that they can self-repair - or heal -
 over time.
 
 Ship function in general, and this restorative ability in particular,
-have been shown to be dependent upon the so-called Thargoid heart - a
+have been shown to be dependent upon the so-called [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] heart - a
 biomechanical organ found in varying quantities in different Thargoid
 ships. These hearts often survive the destruction of the ship,
 enabling them to be salvaged, although they can also be targed and
@@ -195,23 +195,23 @@ damaged with appropriate weaponry. They are highly corrosive, however,
 and require special containers for safe transport.
 
 Thargoid vessels that have sustained combat damage exhibit scar-like
-patterns. Given that Thargoid technology is sophisticated enough for
-such damage to be repaired, it follows that the Thargoids might
+patterns. Given that [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] technology is sophisticated enough for
+such damage to be repaired, it follows that the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] might
 deliberately choose to preserve these scars.
 
-INRA logs document an encounter with a Thargoid mothership many times
-larger than other Thargoid craft, against which the mycoid virus was
+INRA logs document an encounter with a [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] mothership many times
+larger than other [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] craft, against which the mycoid virus was
 successfully deployed, although no such vessels have been reported in
 recent times.
 
 *** Structures
 Dozens of planets in human-occupied space are peppered with Thargoid
 barnacles - biological resource extractors that convert minerals into
-meta-alloyws, a key component in the creation of Thargoid vehicles and
+meta-alloyws, a key component in the creation of [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] vehicles and
 technology. Theories that these barnacles have been genetically
-engineered by the Thargoids have yet to be verified.
+engineered by the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] have yet to be verified.
 
-Larger structures, referred to as Thargoid surface sites, have also
+Larger structures, referred to as [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] surface sites, have also
 been discovered. These sites typically consist of a spiral-shaped
 structure nesting within a shallow crater, beneath which lies a series
 of tunnels. At the heart of this sub-surface network is a device that,
@@ -223,17 +223,17 @@ Archaeological records have revealed that the extinct nonhuman
 civilization known as [[id:f57cff55-3348-45ea-b76f-d0eaa3c68165][the Guardians]] experienced conflict with the
 Thargoids several million years ago.
 
-Logs recovered from Guardian sites indicate that the Thargoids were
+Logs recovered from Guardian sites indicate that the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] were
 the aggressor in this conflict. Having seeded Guardian space with
 biomechanical constructs used for resource extraction long before the
-emergence of the Guardians' civlisation, the Thargoids apparently
+emergence of the Guardians' civlisation, the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] apparently
 believed they were entitled to uncontested dominion of the
 territory. [[id:f57cff55-3348-45ea-b76f-d0eaa3c68165][The Guardians]] attempted to communicate with the Thargoids
 and reach a compromise, but without success.
 
 Over the course of the conflict, [[id:f57cff55-3348-45ea-b76f-d0eaa3c68165][the Guardians]] developed new
 technologies to give them an advantage against the Thargoids. These
-technologies were apparently successful, forcing Thargoids to abandon
+technologies were apparently successful, forcing [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] to abandon
 their offensive.
 
 *** Agenda
@@ -246,14 +246,14 @@ intelligence, they appear to be completely uninterested in meaningful
 communication.
 
 The engineer Ram Tah, who has extensively researched [[id:f57cff55-3348-45ea-b76f-d0eaa3c68165][the Guardians]] and
-their war with the Thargoids, holds the view that Thargoid aggression
+their war with the Thargoids, holds the view that [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] aggression
 is a product of territorialism. They seed an area with barnacles, thus
 laying claim to it, and return - sometimes many centuries later - to
 harvest the extracted resources. Any lifeform advanced enough to
 compete with them for the territory is treated as an enemy and
 summarily attacked.
 
-Professor Palin concurs with this view, adding that the Thargoids are
+Professor Palin concurs with this view, adding that the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] are
 apparently so determined to eliminate any threats to their long-term
 survival, they will not tolerate any advanced species in close
 proximity.

@@ -14,10 +14,10 @@ Salvation requires vital materials to deploy anti-xeno superweapons in the Delph
 
 A message was transmitted from the Musashi megaship by its new commanding officer, Commodore Morag Halloran: 
 
-“The Thargoids have invaded three key systems, as Salvation anticipated. Preparations have been made to halt their advance, but there is an urgent requirement to collect classified experimental equipment from the Heart of Taurus in the Qarato system.” 
+“The [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] have invaded three key systems, as Salvation anticipated. Preparations have been made to halt their advance, but there is an urgent requirement to collect classified experimental equipment from the Heart of Taurus in the Qarato system.” 
 
 “Pilots must then deliver these shipments to three other megaships: the Musashi in the Delphi system, the Bright Sentinel in the Maia system, and the Glorious Prospect in the Merope system.” 
 
-“It is crucial that all deliveries are made by early on Tuesday the 14th of December. Without these components, Salvation’s superweapons will not be able to affect enough Thargoid vessels to turn the tide.” 
+“It is crucial that all deliveries are made by early on Tuesday the 14th of December. Without these components, Salvation’s superweapons will not be able to affect enough [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] vessels to turn the tide.” 
 
 Commodore Halloran was formerly a member of [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] Defence Force, and was in charge of protecting the first expedition to the Coalsack Nebula in 3306. She is one of hundreds of naval officers and crew from all three superpowers who have resigned their commissions to offer their services to Salvation, believing that only he can defeat the Thargoids.

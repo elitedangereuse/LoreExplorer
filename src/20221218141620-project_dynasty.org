@@ -65,8 +65,8 @@ comment:
 
 "You don't know what I've seen. I've sailed beyond the Formidine Rift,
 seen the fleets of Octagonal ships blocking out the stars. I've stood
-on lost worlds, sterilised clean by the Thargoids and erased from
-humanity's maps. I've seen the graves from the Thargoid wars,
+on lost worlds, sterilised clean by the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] and erased from
+humanity's maps. I've seen the graves from the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] wars,
 countless headstones stretching beyond the curvature of the horizon,
 little spots of reflected light dottering the abandoned continent ..."
 

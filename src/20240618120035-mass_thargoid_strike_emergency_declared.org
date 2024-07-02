@@ -1,10 +1,10 @@
 :PROPERTIES:
 :ID:       8931d0dd-f510-4a13-935a-cae6c3ff7ad5
 :END:
-#+title: Mass Thargoid Strike – Emergency Declared
+#+title: Mass [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Strike – Emergency Declared
 #+filetags: :galnet:
 
-* Mass Thargoid Strike – Emergency Declared
+* Mass [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Strike – Emergency Declared
 
 /13 May 3307/
 
@@ -12,7 +12,7 @@
 
 Thargoid forces have invaded the Delphi system and several systems in the California, Coalsack and Pleiades Nebulas. 
 
-Huge numbers of Thargoid scouts and interceptors have appeared within multiple systems. Aegis has mobilised available defences, but also requested assistance from anti-xeno squadrons and independent pilots in combating the Thargoids. 
+Huge numbers of [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] scouts and interceptors have appeared within multiple systems. Aegis has mobilised available defences, but also requested assistance from anti-xeno squadrons and independent pilots in combating the Thargoids. 
 
 Shipments of Guardian artefacts were recently delivered to the Delphi system as part of an Aegis research programme. Professor [[id:c2623368-19b0-4995-9e35-b8f54f741a53][Alba Tesreau]] has speculated that the Thargoids’ well-documented aversion to Guardian technology may be the reason why Delphi was targeted. 
 

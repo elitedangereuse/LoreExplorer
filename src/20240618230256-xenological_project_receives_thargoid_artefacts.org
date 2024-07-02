@@ -1,10 +1,10 @@
 :PROPERTIES:
 :ID:       14354377-ec3f-4c5b-8402-f9b82ef86335
 :END:
-#+title: Xenological Project Receives Thargoid Artefacts
+#+title: Xenological Project Receives [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Artefacts
 #+filetags: :galnet:
 
-* Xenological Project Receives Thargoid Artefacts
+* Xenological Project Receives [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Artefacts
 
 /16 Jun 3308/
 
@@ -14,7 +14,7 @@ A range of alien objects have been delivered to the Arque system for Professor I
 
 The conclusion of the project was announced by Professor Palin: 
 
-“I am highly impressed with the number of Thargoid probes, resin and sensors that were delivered to Abel Laboratory. Collecting and transporting these items can be a hazardous task, so I deeply appreciate the effort made by pilots to obtain them.” 
+“I am highly impressed with the number of [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] probes, resin and sensors that were delivered to Abel Laboratory. Collecting and transporting these items can be a hazardous task, so I deeply appreciate the effort made by pilots to obtain them.” 
 
 “It is becoming increasingly urgent to improve our understanding of the Thargoids’ biomechanical technology. There is no sign that hostilities are about to end, so the need to produce defences has become paramount. Only through ensuring our research focuses on up-to-date samples can we be sure that we are working as efficiently as possible.” 
 

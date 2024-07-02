@@ -1,20 +1,20 @@
 :PROPERTIES:
 :ID:       b15299ba-e01f-4da5-acb6-89fb1b740ed8
 :END:
-#+title: Thargoid War Update: November 3309
+#+title: [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] War Update: November 3309
 #+filetags: :galnet:
 
-* Thargoid War Update: November 3309
+* [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] War Update: November 3309
 
 /28 Nov 3309/
 
-Renowned war correspondent [[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]] provides her regular summary of the latest news regarding the Thargoid conflict. 
+Renowned war correspondent [[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]] provides her regular summary of the latest news regarding the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] conflict. 
 
-“It is now a whole year since the Thargoid Titans arrived and unleashed their fleets upon us. It’s pleasing to report that humanity’s resistance remains strong. New invasions are rare, and Thargoid vessels are being driven out of occupied systems. Nobody is under any illusions that this war might end soon, and it remains to be seen how the Thargoids adapt to the current situation. But among independent pilots and anti-xeno squadrons, morale is high – as it absolutely deserves to be.” 
+“It is now a whole year since the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Titans arrived and unleashed their fleets upon us. It’s pleasing to report that humanity’s resistance remains strong. New invasions are rare, and Thargoid vessels are being driven out of occupied systems. Nobody is under any illusions that this war might end soon, and it remains to be seen how the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] adapt to the current situation. But among independent pilots and anti-xeno squadrons, morale is high – as it absolutely deserves to be.” 
 
-“The Thargoid spire sites have also brought cause for cautious optimism. Having received huge volumes of samples for testing, Ishmael Palin proved that spire compounds and Titan hull fragments share genetic commonalities. Whatever these eerie alien growths are, evidence is growing that their industrial processes are related to the Thargoid motherships in some way.” 
+“The [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] spire sites have also brought cause for cautious optimism. Having received huge volumes of samples for testing, Ishmael Palin proved that spire compounds and Titan hull fragments share genetic commonalities. Whatever these eerie alien growths are, evidence is growing that their industrial processes are related to the Thargoid motherships in some way.” 
 
-“Professor Palin has now concocted a biological impurity, which should disrupt the spires’ biochemistry when inserted into their processing chain. Many pilots are signing up to undertake missions to deliver this contaminant, despite the inevitability that some volunteers will not return. It’s too soon to determine whether or not this will impact the Thargoid war machine, but hopes are high.” 
+“Professor Palin has now concocted a biological impurity, which should disrupt the spires’ biochemistry when inserted into their processing chain. Many pilots are signing up to undertake missions to deliver this contaminant, despite the inevitability that some volunteers will not return. It’s too soon to determine whether or not this will impact the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] war machine, but hopes are high.” 
 
 “Meanwhile, the many thousands of people rescued from captivity within the Titans remain in strict quarantine. Debate continues over how quickly they should be returned to society, but so far nobody seems to be taking any chances.” 
 

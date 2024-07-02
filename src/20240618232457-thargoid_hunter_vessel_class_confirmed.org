@@ -1,27 +1,27 @@
 :PROPERTIES:
 :ID:       237b4da2-3b25-4130-bd37-813db65413d4
 :END:
-#+title: Thargoid ‘Hunter’ Vessel Class Confirmed
+#+title: [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] ‘Hunter’ Vessel Class Confirmed
 #+filetags: :galnet:
 
-* Thargoid ‘Hunter’ Vessel Class Confirmed
+* [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] ‘Hunter’ Vessel Class Confirmed
 
 /18 May 3309/
 
 *Pilots’ Federation ALERT* 
 
-A new type of Thargoid vessel, first encountered within the Maelstroms, is interdicting ships in Thargoid controlled systems. 
+A new type of [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] vessel, first encountered within the Maelstroms, is interdicting ships in Thargoid controlled systems. 
 
-Aegis highlighted the threat as part of its research into the Thargoid capital ships. Commodore Emil Varga, the Allied military liaison, gave this statement: 
+Aegis highlighted the threat as part of its research into the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] capital ships. Commodore Emil Varga, the Allied military liaison, gave this statement: 
 
-“The first explorers to breach the Maelstroms’ inner regions encountered a previously unseen Thargoid vessel, larger than a scout but smaller than an interceptor. These medium-sized craft have been categorised as hunters, with this specific class designated the ‘Glaive’ due to its blade-like protrusions.” 
+“The first explorers to breach the Maelstroms’ inner regions encountered a previously unseen [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] vessel, larger than a scout but smaller than an interceptor. These medium-sized craft have been categorised as hunters, with this specific class designated the ‘Glaive’ due to its blade-like protrusions.” 
 
-“The Glaives operated close to the motherships, so it was initially believed they acted as sentries. But in recent days they have appeared within systems under Thargoid control. Pilots lucky enough to survive these encounters report being forced out of supercruise by Glaives and aggressively attacked.” 
+“The Glaives operated close to the motherships, so it was initially believed they acted as sentries. But in recent days they have appeared within systems under [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] control. Pilots lucky enough to survive these encounters report being forced out of supercruise by Glaives and aggressively attacked.” 
 
-“Personally, I believe that our newfound ability to penetrate the Maelstroms caught the Thargoids by surprise. In response, they have redeployed the mothership’s defenders to a more offensive role. Such rapid tactical adaptation is not typical of this species, which is a good indicator that we have them worried.” 
+“Personally, I believe that our newfound ability to penetrate the Maelstroms caught the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] by surprise. In response, they have redeployed the mothership’s defenders to a more offensive role. Such rapid tactical adaptation is not typical of this species, which is a good indicator that we have them worried.” 
 
 Aden Tanner provided more details following a research mission: 
 
-“The Glaive is extremely aggressive and attacks any human ship within range. Its high-intensity energy weapons take the form of lightning bolts, similar to a Thargoid interceptor, but this vessel is faster and more manoeuvrable.” 
+“The Glaive is extremely aggressive and attacks any human ship within range. Its high-intensity energy weapons take the form of lightning bolts, similar to a [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] interceptor, but this vessel is faster and more manoeuvrable.” 
 
 “Anti-xeno pilots should be advised that Glaives are also capable of disabling Guardian-based weaponry. This only became apparent when encountering them outside of the Maelstrom systems, where the Thargoids’ anti-Guardian field is permanently present.”

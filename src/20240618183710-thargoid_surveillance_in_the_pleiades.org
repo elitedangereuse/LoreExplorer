@@ -1,18 +1,18 @@
 :PROPERTIES:
 :ID:       f0b0e72a-cd53-4645-a77e-55442fee4bf1
 :END:
-#+title: Thargoid Surveillance in the Pleiades
+#+title: [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Surveillance in the Pleiades
 #+filetags: :3304:galnet:
 
-* Thargoid Surveillance in the Pleiades
+* [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Surveillance in the Pleiades
 
 /10 Mar 3304/
 
-Aegis has launched an operation to monitor Thargoid activity in the Pleiades Nebula. 
+Aegis has launched an operation to monitor [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] activity in the Pleiades Nebula. 
 
 Admiral Aden Tanner, chief military liaison at Aegis, made this statement: 
 
-“Our new Eagle Eye initiative will closely monitor systems where Thargoid surface sites are known to exist.” 
+“Our new Eagle Eye initiative will closely monitor systems where [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] surface sites are known to exist.” 
 
 “We have established orbital surveillance installations at six locations in the Pleiades, which will measure energy-level fluctuations and track ship movements. Each installation is attended by a comms beacon that will collect the data before transmitting it to us for analysis.” 
 

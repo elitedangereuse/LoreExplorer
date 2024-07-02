@@ -1,10 +1,10 @@
 :PROPERTIES:
 :ID:       b13730e9-e7b7-4385-9e91-ee64f855769c
 :END:
-#+title: Thargoids Wreak Havoc in Core Systems
+#+title: [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] Wreak Havoc in Core Systems
 #+filetags: :galnet:
 
-* Thargoids Wreak Havoc in Core Systems
+* [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] Wreak Havoc in Core Systems
 
 /18 Apr 3305/
 
@@ -16,7 +16,7 @@ As authorities in the affected systems continue to appeal for aid,
 Admiral [[id:7bca1ccd-649e-438a-ae56-fb8ca34e6440][Aden Tanner]], [[id:a6b33331-c1bb-44cf-9717-f72eb0f63c99][Aegis]]’s chief military liaison, has offered the
 following assessment:
 
-“What’s surprising is that the Thargoids aren’t targeting our most
+“What’s surprising is that the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] aren’t targeting our most
 important social or military centres, such as the superpowers’ home
 systems. There’s no doubt that they’re trying to weaken us, but
 evidently they’re guided by different principles than those that

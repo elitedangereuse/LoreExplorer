@@ -1,23 +1,23 @@
 :PROPERTIES:
 :ID:       45f941a5-7338-456a-b6d8-9664e22ea1f6
 :END:
-#+title: Thargoids Repulsed from Three Systems
+#+title: [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] Repulsed from Three Systems
 #+filetags: :galnet:
 
-* Thargoids Repulsed from Three Systems
+* [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] Repulsed from Three Systems
 
 /14 Dec 3307/
 
 *Pilots’ Federation ALERT* 
 
-Salvation’s anti-xeno superweapons have cleared most Thargoid vessels from the Delphi, Maia and Merope systems. 
+Salvation’s anti-xeno superweapons have cleared most [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] vessels from the Delphi, Maia and Merope systems. 
 
-Pilots were asked to transport classified experimental equipment from the Heart of Taurus in the Qarato system to three other megaships owned by Taurus Mining Ventures. These components were used to prepare the large-scale weapons developed by Salvation to affect Thargoid technology. 
+Pilots were asked to transport classified experimental equipment from the Heart of Taurus in the Qarato system to three other megaships owned by Taurus Mining Ventures. These components were used to prepare the large-scale weapons developed by Salvation to affect [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] technology. 
 
 Vox Galactica published an intercepted message from Commodore Morag Halloran, commanding officer of the Musashi, to the Bright Sentinel and Glorious Prospect megaships: 
 
 “This is Halloran. Operation Tri-hammer has concluded with a code white-three-alpha. Estimated target destruction in Delphi is at 27%, with full dispersal of 98% of remaining hostiles. Scans underway for non-combatant disruption or casualties. Maia and Merope data to be submitted immediately to central analytics.”  
 
-Independent observers have reported that the majority of all Thargoid ships in the three systems have abruptly departed, with some wreckages found on planetary surfaces. This closely matches the event in the Cornsar system in September, when the anti-xeno superweapon was first deployed. 
+Independent observers have reported that the majority of all [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] ships in the three systems have abruptly departed, with some wreckages found on planetary surfaces. This closely matches the event in the Cornsar system in September, when the anti-xeno superweapon was first deployed. 
 
 Pilots are requested to help with repair and rescue efforts for starports damaged by the Thargoids: Donar’s Oak and The Oracle in the Delphi system, Obsidian Orbital in the Maia system, and Reed’s Rest in the Merope system.

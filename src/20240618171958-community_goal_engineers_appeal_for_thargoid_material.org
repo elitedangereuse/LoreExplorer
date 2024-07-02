@@ -1,18 +1,18 @@
 :PROPERTIES:
 :ID:       115d262c-5893-4b59-b955-f6b0a955df15
 :END:
-#+title: Community Goal: Engineers Appeal for Thargoid Material
+#+title: Community Goal: Engineers Appeal for [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Material
 #+filetags: :3303:galnet:
 
-* Community Goal: Engineers Appeal for Thargoid Material
+* Community Goal: Engineers Appeal for [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Material
 
 /22 Sep 3303/
 
-Following news that the Thargoids have attacked a Federal convoy in the Pleiades Sector IR-W d1-55 system, Aegis has recruited two of the galaxy’s foremost independent engineers to immediately begin developing new defensive and offensive technologies. 
+Following news that the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] have attacked a Federal convoy in the Pleiades Sector IR-W d1-55 system, Aegis has recruited two of the galaxy’s foremost independent engineers to immediately begin developing new defensive and offensive technologies. 
 
 One of these engineers is Liz Ryder, a specialist in explosive weaponry, who spoke to The Federal Times about her involvement: 
 
-“It’s not about penetrating the Thargoids’ shields – we’ve been blowing each other up for centuries so we’ve gotten pretty good at dealing punishment – it’s about creating weapons that are specifically calibrated to damage Thargoid hardware.” 
+“It’s not about penetrating the Thargoids’ shields – we’ve been blowing each other up for centuries so we’ve gotten pretty good at dealing punishment – it’s about creating weapons that are specifically calibrated to damage [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] hardware.” 
 
 Ryder was asked if she thought it was too late to avert all-out conflict with the Thargoids: 
 
@@ -20,8 +20,8 @@ Ryder was asked if she thought it was too late to avert all-out conflict with th
 
 Professor Ishmael Palin, a leading authority on xenobiology, has also been recruited to the programme. He said: 
 
-“My first task will be developing a scanner that can provide us with meaningful data on the Thargoids’ ships. Of course, to properly calibrate these new technologies we will need large quantities of Thargoid material.” 
+“My first task will be developing a scanner that can provide us with meaningful data on the Thargoids’ ships. Of course, to properly calibrate these new technologies we will need large quantities of [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] material.” 
 
-Aegis has placed an open order for a range of Thargoid materials for use in the programme. Aegis Core has pledged to reward pilots who deliver unknown technology samples, unknown biological matter, ancient relics and explosives to Awyra Flirble in the Eurybia system for Liz Ryder. Aegis Research has promised to reimburse Commanders who deliver unknown technology samples, unknown resin, computer components and resonating separators to Obsidian Orbital in the Maia system for Ishmael Palin. 
+Aegis has placed an open order for a range of [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] materials for use in the programme. Aegis Core has pledged to reward pilots who deliver unknown technology samples, unknown biological matter, ancient relics and explosives to Awyra Flirble in the Eurybia system for Liz Ryder. Aegis Research has promised to reimburse Commanders who deliver unknown technology samples, unknown resin, computer components and resonating separators to Obsidian Orbital in the Maia system for Ishmael Palin. 
 
 The campaign begins on the 21st of September and will run for one week. If the final target is met earlier than planned, the campaign will end immediately.

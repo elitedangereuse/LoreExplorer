@@ -1,10 +1,10 @@
 :PROPERTIES:
 :ID:       04308e0c-ff65-4756-bf2a-d579389163d5
 :END:
-#+title: Thargoids Return to Witch Head Nebula
+#+title: [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] Return to Witch Head Nebula
 #+filetags: :galnet:
 
-* Thargoids Return to Witch Head Nebula
+* [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] Return to Witch Head Nebula
 
 /15 Oct 3306/
 
@@ -12,14 +12,14 @@
 
 Thargoid vessels detected in Alliance-controlled systems within the Witch Head Nebula. 
 
-The Thargoids have reappeared in the Witch Head Nebula, and are swarming in large numbers through the Onoros, Lembass, Haki, Wellington and Shenve systems. 
+The [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] have reappeared in the Witch Head Nebula, and are swarming in large numbers through the Onoros, Lembass, Haki, Wellington and Shenve systems. 
 
 Sixteen systems within the nebula were colonised last year to form the Witch Head Enclave, after a successful initiative to locate fresh barnacle sites. This initially triggered a hostile reaction from the Thargoids, but their presence was relatively low until now. 
 
 Captain Warren Lamar, head of security for [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] Expeditionary Pact, put out an urgent call for assistance: 
 
-“If this Thargoid assault is not repelled, it may spread into a full-scale invasion throughout the Witch Head Enclave. Neither Aegis nor [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] Defence Force are able to deploy in time, so we ask all independent combat pilots and anti-xeno squadrons to come to our defence.” 
+“If this [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] assault is not repelled, it may spread into a full-scale invasion throughout the Witch Head Enclave. Neither Aegis nor [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] Defence Force are able to deploy in time, so we ask all independent combat pilots and anti-xeno squadrons to come to our defence.” 
 
-The Alliance Expeditionary Pact has confirmed that it will offer generous rewards to all Commanders who assist with destroying Thargoid vessels. 
+The Alliance Expeditionary Pact has confirmed that it will offer generous rewards to all Commanders who assist with destroying [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] vessels. 
 
 In related news, the technology broker at Bray Landing in the Yuanjia system will support pilots by reducing resource requirements to access Guardian weapons and modules.

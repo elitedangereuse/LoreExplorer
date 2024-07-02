@@ -1,10 +1,10 @@
 :PROPERTIES:
 :ID:       ce4e3e98-84ab-4918-8092-6f9a99673e96
 :END:
-#+title: Galactic News: Thargoids Continuing to Adapt
+#+title: Galactic News: [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] Continuing to Adapt
 #+filetags: :3303:galnet:
 
-* Galactic News: Thargoids Continuing to Adapt
+* Galactic News: [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] Continuing to Adapt
 
 /13 Oct 3303/
 
@@ -12,6 +12,6 @@ Fresh reports from the Pleiades have yielded further insights into the Thargoids
 
 An Aegis spokesperson summarised the latest intelligence: 
 
-“Our initial encounters with the Thargoids indicated a certain lack of strategic awareness on their part, but they have clearly been watching, and learning. The latest reports indicate that they’re already operating more tactically, suggesting that their earlier lack of insight was due to unfamiliarity with our ships and weapons.” 
+“Our initial encounters with the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] indicated a certain lack of strategic awareness on their part, but they have clearly been watching, and learning. The latest reports indicate that they’re already operating more tactically, suggesting that their earlier lack of insight was due to unfamiliarity with our ships and weapons.” 
 
 “As noted before, we are clearly dealing with a highly responsive enemy, and we underestimate them at our peril.”

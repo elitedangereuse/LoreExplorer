@@ -16,9 +16,9 @@ Admiral Nikolas Glass, the Sirius Navy representative on the Council of Admirals
 
 “Now that the legalities have been addressed, a demonstration of the defence pact’s potential is long overdue. I am very pleased to announce that a new anti-xeno taskforce is being assembled under the name Operation Tyndareus, in honour of the megaship lost in HIP 22460.” 
 
-“A tactical combination of ADF ships and Sirius Corporation’s resources will deliver a devastating counterstrike at the next opportunity. This will demonstrate that our unified forces can repel Thargoid attackers and defend Allied space.” 
+“A tactical combination of ADF ships and Sirius Corporation’s resources will deliver a devastating counterstrike at the next opportunity. This will demonstrate that our unified forces can repel [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] attackers and defend Allied space.” 
 
-Shortly before this announcement, an editorial in the Old Worlds Gazette remarked: “So far, Sirius has not fired a single shot in this war. Do they plan to save us by offering the Thargoids special discounts?” Other critics agreed that the defence pact looked increasingly like an administrative exercise rather than a military strategy. 
+Shortly before this announcement, an editorial in the Old Worlds Gazette remarked: “So far, Sirius has not fired a single shot in this war. Do they plan to save us by offering the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] special discounts?” Other critics agreed that the defence pact looked increasingly like an administrative exercise rather than a military strategy. 
 
 Councillor Hildegard Dressler, who represents the Leesti system, told [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][The Alliance]] Tribune:  
 

@@ -10,15 +10,15 @@
 
 A look at the rivalry between Aegis and Salvation during the escalating war against the Thargoids. 
 
-Salvation’s success in purging the Thargoid presence from the Cornsar system had many repercussions, not least from the aliens themselves. Several inhabited nebulas were suddenly overrun with Thargoid vessels, leading some to believe they were reacting aggressively to the Guardian-based nature of the anti-xeno superweapon. 
+Salvation’s success in purging the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] presence from the Cornsar system had many repercussions, not least from the aliens themselves. Several inhabited nebulas were suddenly overrun with Thargoid vessels, leading some to believe they were reacting aggressively to the Guardian-based nature of the anti-xeno superweapon. 
 
-Aegis’s hands were tied by the ongoing public inquiry, but its chief military liaison Admiral [[id:7bca1ccd-649e-438a-ae56-fb8ca34e6440][Aden Tanner]] was convinced that the superweapon was designed to attract Thargoids as well as repel them. Claiming that evidence for this could be found at Hind Mine in the T Tauri system, he commanded the megaship Musashi to launch an assault. 
+Aegis’s hands were tied by the ongoing public inquiry, but its chief military liaison Admiral [[id:7bca1ccd-649e-438a-ae56-fb8ca34e6440][Aden Tanner]] was convinced that the superweapon was designed to attract [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] as well as repel them. Claiming that evidence for this could be found at Hind Mine in the T Tauri system, he commanded the megaship Musashi to launch an assault. 
 
 This was a battle that Taurus Mining Ventures won with much support from independent pilots, showing how much faith was now placed in Salvation. Tanner was court martialled and the captured Musashi became the flagship of Salvation’s growing forces. Commodore Morag Halloran, formerly of [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] Defence Force, took command and became his military coordinator. 
 
 By December 3307, the Alliance, Empire and Federation had officially acknowledged that Salvation possessed the technology required to defeat the Thargoids. This assumption was then put to the test when the Delphi, Maia and Merope systems suffered simultaneous full-scale invasions. 
 
-Once again the Thargoids were routed following the detonation of three newly constructed superweapons, repeating Salvation’s success at Cornsar. His triumphant proclamations now verged on the messianic “I urge the peoples of the galaxy to unite behind my crusade. Aegis is finished. I am the only remaining defence for humanity. I am Salvation.” 
+Once again the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] were routed following the detonation of three newly constructed superweapons, repeating Salvation’s success at Cornsar. His triumphant proclamations now verged on the messianic “I urge the peoples of the galaxy to unite behind my crusade. Aegis is finished. I am the only remaining defence for humanity. I am Salvation.” 
 
 By this point, public opinion toward Salvation was generally positive. Volunteers flocked to Taurus Mining Ventures to offer support, with naval crews from the superpowers defecting to take part in battling the Thargoids. Secondment to Salvation’s forces soon became officially authorised, showing an increasing acceptance of the anonymous scientist’s methods and results. 
 
@@ -28,6 +28,6 @@ But this justification of Tanner’s concerns was not enough to prevent the inev
 
 A more surprising event that month was the discovery of debris from the missing megaship Alexandria, scattered across the planetary rings of Wregoe TC-X b29-0 AB 2 A. Captain Morales’s report revealed that the ship had emerged from hyperspace off course due to sabotage, before being raided by a quasi-military force which hijacked its cargo of Guardian artefacts. The surviving crew’s attempt to restart the damaged hyperdrive was the cause of the Alexandria’s destruction. 
 
-Morales also mentioned that the raiders were obeying orders from someone named ‘the Witch’. This detail was seized upon by Aegis’s remaining leaders, who matched it to abandoned research facilities found in August 3307 within the HIP 22460 and HIP 26176 systems. These were the sites of the mysterious Project Seraph, an attempt to install human pilots into a captured Thargoid scout. Both the Witch and Azimuth were referenced in its surviving logs. 
+Morales also mentioned that the raiders were obeying orders from someone named ‘the Witch’. This detail was seized upon by Aegis’s remaining leaders, who matched it to abandoned research facilities found in August 3307 within the HIP 22460 and HIP 26176 systems. These were the sites of the mysterious Project Seraph, an attempt to install human pilots into a captured [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] scout. Both the Witch and Azimuth were referenced in its surviving logs. 
 
 Aegis’s warning was clear Azimuth Biochemicals, which was supposedly liquidated two centuries ago, had survived to the present day.

@@ -2,19 +2,19 @@
 :ID:       be1de7fc-61d0-4943-b37a-8807e033a4b4
 :ROAM_REFS: https://cms.zaonce.net/en-GB/jsonapi/node/galnet_article/90f7be59-33cd-49b3-a999-1a5b731f5794?resourceVersion=id%3A4878
 :END:
-#+title: Thargoids Wreak Havoc in Nebulas
+#+title: [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] Wreak Havoc in Nebulas
 #+filetags: :galnet:
 
-* Thargoids Wreak Havoc in Nebulas
+* [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] Wreak Havoc in Nebulas
 
 /07 Jan 3307/
 
-Starports in the Coalsack and Witch Head Nebulas have been damaged during full-scale Thargoid incursions. 
+Starports in the Coalsack and Witch Head Nebulas have been damaged during full-scale [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] incursions. 
 
-An appeal by Aegis for anti-xeno support led to a concerted response from the galactic community. However, the Thargoid forces proved to be overwhelming and have attacked systems within the nebulas, with the loss of thousands of lives.  
+An appeal by Aegis for anti-xeno support led to a concerted response from the galactic community. However, the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] forces proved to be overwhelming and have attacked systems within the nebulas, with the loss of thousands of lives.  
 
 Admiral Aden Tanner, chief military liaison of Aegis, broadcast this message: 
 
 “Despite the heroic efforts of many pilots, the alien ships have resisted being driven from the Witch Head Nebula.” 
 
-“Aegis’s military capability and manpower are both severely limited as a result of curtailed funding from [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] and the Federation. We have no choice but to rely on independent pilots and anti-xeno squadrons as the first line of defence against the Thargoid threat.”
+“Aegis’s military capability and manpower are both severely limited as a result of curtailed funding from [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] and the Federation. We have no choice but to rely on independent pilots and anti-xeno squadrons as the first line of defence against the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] threat.”

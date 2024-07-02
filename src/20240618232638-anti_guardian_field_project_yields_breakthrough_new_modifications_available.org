@@ -12,7 +12,7 @@
 
 The engineer [[id:4551539e-a6b2-4c45-8923-40fb603202b7][Ram Tah]] has discovered a method of immunising existing Guardian modules against the effects of anti-Guardian fields. 
 
-Earlier this year, [[id:4551539e-a6b2-4c45-8923-40fb603202b7][Ram Tah]] discovered that certain Guardian relics revealed and activated nanite clusters when exposed to specific electromagnetic frequencies. These nanites proved disruptive to Thargoid technology on a molecular level and, importantly, were entirely unaffected by anti-Guardian fields unlike other Guardian technology. 
+Earlier this year, [[id:4551539e-a6b2-4c45-8923-40fb603202b7][Ram Tah]] discovered that certain Guardian relics revealed and activated nanite clusters when exposed to specific electromagnetic frequencies. These nanites proved disruptive to [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] technology on a molecular level and, importantly, were entirely unaffected by anti-Guardian fields unlike other Guardian technology. 
 
 In an urgent press conference, Aegis leadership announced a breakthrough in researching that latter quality. 
 
@@ -20,6 +20,6 @@ The following statement was given by Professor Alba Tesreau:
 
 “Our knowledge of the Thargoids’ ancient adversary, the Guardians, is still so very limited, and yet Guardian technology has once again paved a way forward for humanity.” 
 
-“We urge pilots to use the modifications we are producing to utilise any powerful Guardian modules in their possession. Use them to push back against the Thargoid threat. Use them to win this war.” 
+“We urge pilots to use the modifications we are producing to utilise any powerful Guardian modules in their possession. Use them to push back against the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] threat. Use them to win this war.” 
 
 Aegis went on to announce that the modifications can now be made at Ram Tah’s workshop in the Meene system.

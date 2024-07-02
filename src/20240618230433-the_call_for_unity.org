@@ -10,16 +10,16 @@
 
 Newsfeeds across the core systems have reflected the increasing public demand for full-scale military cooperation against the Thargoids. 
 
-Federal Free Press: “Removing the Far God cult from Federal space was a way of distracting the people from President Hudson’s failures. The real threat remains the Thargoids themselves, and there is little chance of withstanding them without Allied and Imperial aid.” 
+Federal Free Press: “Removing the Far God cult from Federal space was a way of distracting the people from President Hudson’s failures. The real threat remains the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] themselves, and there is little chance of withstanding them without Allied and Imperial aid.” 
 
 Citizens' Chronicle: “With the greatest respect to Her Majesty, [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] cannot pretend that it played no part in the disaster at HIP 22460. Surely we are strong enough to shoulder some of the burden in defeating this common enemy?” 
 
 Old Worlds Gazette: “After the Aegis symposium, Deputy Prime Minister Angela Corcoran supported reinstating the tri-superpower agency, claiming: ‘The scale of the conflict deserves a stronger response than our pact with Sirius Corporation can provide.’” 
 
-The Marlin Standard: “The proximity of the Thargoids to our democratic republic has always been a major concern. Parliament has agreed that any collaborative anti-xeno initiative would be of great interest.” 
+The Marlin Standard: “The proximity of the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] to our democratic republic has always been a major concern. Parliament has agreed that any collaborative anti-xeno initiative would be of great interest.” 
 
 Sol Today: “We all know that you can’t trust the Imps or the Alliars. But at least they’re not vicious genocidal monstrosities. And as General Falkenrath famously said: ‘The enemy of my enemy is my disposable infantry.’” 
 
 The Sovereign: “The xeno-peace movement, as espoused by our very own Heimar Borichev, is laudable. But many independent systems are demanding a less diplomatic strategy.” 
 
-Vox Galactica: “The demands for a solution to the Thargoids are becoming more strident. According to unofficial reports, some low-level civil and military leaders have begun talking across the political divides, despite the lack of direction from their superiors. There is clearly a growing appetite for solidarity, whether through Aegis or some other means.”
+Vox Galactica: “The demands for a solution to the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] are becoming more strident. According to unofficial reports, some low-level civil and military leaders have begun talking across the political divides, despite the lack of direction from their superiors. There is clearly a growing appetite for solidarity, whether through Aegis or some other means.”

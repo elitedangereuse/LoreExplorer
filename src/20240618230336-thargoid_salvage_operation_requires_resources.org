@@ -1,10 +1,10 @@
 :PROPERTIES:
 :ID:       76eb648e-a431-4092-a5e7-7bd3418f31f2
 :END:
-#+title: Thargoid Salvage Operation Requires Resources
+#+title: [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Salvage Operation Requires Resources
 #+filetags: :galnet:
 
-* Thargoid Salvage Operation Requires Resources
+* [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Salvage Operation Requires Resources
 
 /28 Jul 3308/
 
@@ -14,7 +14,7 @@ Azimuth Biotech has called for commodities to be delivered to the Glorious Prosp
 
 Director Torben Rademaker, head of strategic operations, outlined the new initiative: 
 
-“Once the Proteus Wave has eliminated the Thargoids, the second phase of our corporate strategy will commence. As per our agreement with the Alliance, Empire and Federation, Azimuth Biotech is licensed to collect limited quantities of any remaining non-human material in the HIP 22460 system. The powerless Thargoid vessels will be taken to specialised laboratories for examination, and the subsequent results shared with the superpowers’ military intelligence divisions.” 
+“Once the Proteus Wave has eliminated the Thargoids, the second phase of our corporate strategy will commence. As per our agreement with the Alliance, Empire and Federation, Azimuth Biotech is licensed to collect limited quantities of any remaining non-human material in the HIP 22460 system. The powerless [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] vessels will be taken to specialised laboratories for examination, and the subsequent results shared with the superpowers’ military intelligence divisions.” 
 
 “Unfortunately, Azimuth has experienced significant losses in several systems, as a result of actions taken by ‘Operation Wych Hunt’ saboteurs. This has prevented us from setting up research labs and analytical equipment, delaying our xeno-retrieval programme considerably.” 
 

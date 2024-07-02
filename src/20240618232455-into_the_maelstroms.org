@@ -8,9 +8,9 @@
 
 /10 May 3309/
 
-Aegis has confirmed that the first ships equipped with Thargoid pulse neutralisers have entered the inner regions of the Maelstroms. 
+Aegis has confirmed that the first ships equipped with [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] pulse neutralisers have entered the inner regions of the Maelstroms. 
 
-The new module provides a temporary shield against the electromagnetic pulse that is generated when ships reach a certain point within the Maelstroms. Until now, this has prevented all attempts to identify what Thargoid constructs may exist within the caustic clouds. 
+The new module provides a temporary shield against the electromagnetic pulse that is generated when ships reach a certain point within the Maelstroms. Until now, this has prevented all attempts to identify what [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] constructs may exist within the caustic clouds. 
 
 Rear Admiral Daniel Parry, the Federal Navy’s liaison to Aegis, reported: 
 
@@ -20,6 +20,6 @@ Rear Admiral Daniel Parry, the Federal Navy’s liaison to Aegis, reported:
 
 A secondary statement was provided by Commodore Emil Varga, the Alliance’s military liaison: 
 
-“If the preliminary data obtained by independent pilots is accurate, one common factor is that they encountered a significant Thargoid presence. Aegis warns all pilots that they enter the Maelstroms at their own risk, and should prepare for combat situations.” 
+“If the preliminary data obtained by independent pilots is accurate, one common factor is that they encountered a significant [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] presence. Aegis warns all pilots that they enter the Maelstroms at their own risk, and should prepare for combat situations.” 
 
 “All of the eight systems containing Maelstroms are still affected by the same anti-Guardian field that was first witnessed in HIP 22460. Therefore, weapons based on Guardian technology will not function and should be replaced with other anti-xeno armaments.”

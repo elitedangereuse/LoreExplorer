@@ -1,10 +1,10 @@
 :PROPERTIES:
 :ID:       37ff50c0-b40a-41b3-8a13-99191100fb6a
 :END:
-#+title: Operation Tyndareus Reacts to Thargoid Fleet
+#+title: Operation Tyndareus Reacts to [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Fleet
 #+filetags: :galnet:
 
-* Operation Tyndareus Reacts to Thargoid Fleet
+* Operation Tyndareus Reacts to [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Fleet
 
 /06 Oct 3308/
 
@@ -16,8 +16,8 @@ An anti-xeno taskforce, titled Operation Tyndareus, was recently prepared by [[i
 
 Admiral Nikolas Glass, the Sirius Navy representative on the Council of Admirals, announced: 
 
-“The Thargoids have encroached upon Allied territory, providing an opportunity for Operation Tyndareus to put this newly legislated partnership to the test. The megaships provided by Sirius Corp are on combat readiness for just such an event, and Kumiho Sky has jumped directly to the Andecavi system to act as a mobile base of operations. The ADF will spearhead our counter-attack against the alien forces.” 
+“The [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] have encroached upon Allied territory, providing an opportunity for Operation Tyndareus to put this newly legislated partnership to the test. The megaships provided by Sirius Corp are on combat readiness for just such an event, and Kumiho Sky has jumped directly to the Andecavi system to act as a mobile base of operations. The ADF will spearhead our counter-attack against the alien forces.” 
 
-“These are still early days for our unified anti-xeno efforts, so we are requesting additional support from independent pilots. Sirius Corporation will award its pre-engineered heatsink module to those who destroy adequate numbers of Thargoid vessels.” 
+“These are still early days for our unified anti-xeno efforts, so we are requesting additional support from independent pilots. Sirius Corporation will award its pre-engineered heatsink module to those who destroy adequate numbers of [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] vessels.” 
 
-The Andecavi system reported the presence of Thargoids over the past forty-eight hours.  However, as with recent incursions into other populated systems, no starports have yet been attacked. Sirius Corporation will reimburse Thargoid combat bonds delivered to the Kumiho Sky over the next seven days.
+The Andecavi system reported the presence of [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] over the past forty-eight hours.  However, as with recent incursions into other populated systems, no starports have yet been attacked. Sirius Corporation will reimburse [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] combat bonds delivered to the Kumiho Sky over the next seven days.

@@ -10,7 +10,7 @@
 
 *Pilots’ Federation ALERT* 
 
-A version of the FSS scanning software used to track the Thargoid anomalies has been made available to the Pilots’ Federation. 
+A version of the FSS scanning software used to track the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] anomalies has been made available to the Pilots’ Federation. 
 
 Commanders should experience reduced interference when using the full spectrum system (FSS) scanner to focus on the anomalies. The team leading the development of the software, however, warned that the resultant clarity has done little to ease the concerns of Professor Palin, [[id:4551539e-a6b2-4c45-8923-40fb603202b7][Ram Tah]] and other leading scientists. 
 

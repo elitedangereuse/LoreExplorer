@@ -1,21 +1,21 @@
 :PROPERTIES:
 :ID:       7908589e-e53c-450d-a63d-f0a8e541be38
 :END:
-#+title: Thargoid War Update: March 3309
+#+title: [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] War Update: March 3309
 #+filetags: :galnet:
 
-* Thargoid War Update: March 3309
+* [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] War Update: March 3309
 
 /29 Mar 3309/
 
 Vox Galactica correspondent [[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]] reports on the latest developments regarding the war against the Thargoids. 
 
-“In the broad sense, there have been few significant changes in Thargoid tactics. The eight Maelstroms continue to send waves of Thargoid vessels deeper into the core systems. Anti-xeno forces are certainly winning victories, and in some cases retaking previously occupied systems. But we are still losing more than we save.” 
+“In the broad sense, there have been few significant changes in [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] tactics. The eight Maelstroms continue to send waves of Thargoid vessels deeper into the core systems. Anti-xeno forces are certainly winning victories, and in some cases retaking previously occupied systems. But we are still losing more than we save.” 
 
 “Despite being reformed only recently, Aegis has hit the ground running. Its caustic sink launcher is now available following a successful trial by Aden Tanner. This ingenious device increases the amount of time that a ship can spend inside a Maelstrom before being impaired by corrosive damage.” 
 
 “The repulsing energy wave at the clouds’ centres, however, remains impenetrable. I understand that Aegis has prioritised gathering data about this defence mechanism, and research is underway into possible countermeasures. Until more can be learned about the true nature of the Maelstroms, the chances of destroying them are virtually zero.” 
 
-“The Alliance, Empire and Federation are all working to reinforce their military strength. But the front line of this war is primarily being waged by independent pilots and squadrons. Heroic individuals such as Commander Oghmios-TTT, Commander Night Furry and Commander FrankXJR have achieved fame for their phenomenal success at destroying Thargoid vessels.” 
+“The Alliance, Empire and Federation are all working to reinforce their military strength. But the front line of this war is primarily being waged by independent pilots and squadrons. Heroic individuals such as Commander Oghmios-TTT, Commander Night Furry and Commander FrankXJR have achieved fame for their phenomenal success at destroying [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] vessels.” 
 
 “Such small rays of hope in the darkness remain few and far between. Many battles are being won, but the creeping fear of inevitable defeat weighs heavily on all our souls. This is [[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]] for Vox Galactica. Stay safe out there.”

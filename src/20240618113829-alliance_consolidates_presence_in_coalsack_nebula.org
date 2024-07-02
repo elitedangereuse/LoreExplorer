@@ -24,6 +24,6 @@ Bering Port in the Coalsack Sector KN-S B4-9 system.
 
 The starports will serve as launchpads for further exploration of the region. Several corporations are working in partnership with [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] to locate commercial and scientific sites of interest. 
 
-One of the new research stations, Betancourt Base, has requested deliveries of Thargoid commodities. Chief xenobiologist Dr Rodion Stathos outlined the offer: 
+One of the new research stations, Betancourt Base, has requested deliveries of [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] commodities. Chief xenobiologist Dr Rodion Stathos outlined the offer: 
 
-“The Thargoids have been in the Coalsack Nebula for at least two hundred years, giving us an opportunity to increase our understanding of this alien species. Thanks to funding provided by pharmaceutical and bioengineering companies, we can offer generous rewards for shipments of Thargoid biological matter and other artefacts.”
+“The [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] have been in the Coalsack Nebula for at least two hundred years, giving us an opportunity to increase our understanding of this alien species. Thanks to funding provided by pharmaceutical and bioengineering companies, we can offer generous rewards for shipments of [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] biological matter and other artefacts.”

@@ -12,7 +12,7 @@ The Alliance Assembly has approved a formal evaluation of its strategic defence 
 
 The vote to launch an independent inquiry was led by Councillor Nakato Kaine, who summarised: 
 
-“This partnership has been in effect for nearly two years. What tangible military support have we seen? Sirius Corporation has done little to protect Allied populations from attack or abduction. The capital ships promised to [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] Defence Force remain on the drawing board. The Sirius Navy isn’t even engaging the Thargoid fleets on the front line of this war. How much longer must we endure Li Yong-Rui’s empty promises?” 
+“This partnership has been in effect for nearly two years. What tangible military support have we seen? Sirius Corporation has done little to protect Allied populations from attack or abduction. The capital ships promised to [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] Defence Force remain on the drawing board. The Sirius Navy isn’t even engaging the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] fleets on the front line of this war. How much longer must we endure Li Yong-Rui’s empty promises?” 
 
 Admiral Nikolas Glass, the megacorp’s representative on the Council of Admirals, disputed these claims: 
 
@@ -20,6 +20,6 @@ Admiral Nikolas Glass, the megacorp’s representative on the Council of Admiral
 
 An editorial piece in the Old Worlds Gazette speculated: 
 
-“The strategic defence pact has led to some successes, such as the Operation Tyndareus taskforce that repulsed a Thargoid incursion in Allied territory. But that was over a year ago, and the vision of a Sirius-backed Alliance Navy to rival [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] or Federation has not materialised.” 
+“The strategic defence pact has led to some successes, such as the Operation Tyndareus taskforce that repulsed a [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] incursion in Allied territory. But that was over a year ago, and the vision of a Sirius-backed Alliance Navy to rival [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] or Federation has not materialised.” 
 
 “As displeasure grows in the Assembly, the option to renegotiate the pact has been raised alongside Councillor Kaine’s proposal to terminate it entirely. Prime Minister Mahon faces political pressure to abandon his commitment to Sirius Corporation, especially now that a reformed Aegis is leading anti-xeno technology development.”

@@ -1,16 +1,16 @@
 :PROPERTIES:
 :ID:       accb5dd5-514c-40b3-8c1b-c49b5e30e880
 :END:
-#+title: Thargoids Devastate Witch Head Enclave
+#+title: [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] Devastate Witch Head Enclave
 #+filetags: :galnet:
 
-* Thargoids Devastate Witch Head Enclave
+* [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] Devastate Witch Head Enclave
 
 /16 Feb 3309/
 
 *Pilots’ Federation ALERT* 
 
-Populated systems in the Witch Head Nebula have been overrun by Thargoid fleets, resulting in widespread chaos. 
+Populated systems in the Witch Head Nebula have been overrun by [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] fleets, resulting in widespread chaos. 
 
 Thargoid vessels have directly targeted starports and planetary bases, leaving tens of thousands of casualties. With the nebula located hundreds of light years from the core systems, rescue services are struggling to aid the fleeing survivors. 
 
@@ -20,6 +20,6 @@ Vox Galactica published a fragmented message transmitted by the engineer Chloe S
 
 Captain Warren Lamar, head of security for [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] Expeditionary Pact, made this statement: 
 
-“In recent years we’ve fought off several Thargoid strikes, but the sheer scale of these attacks is unprecedented. The Golden Stag megaship in Onoros has been destroyed, with most of our forces scattered. I’ve urgently requested reinforcements from the Alliance, but we are desperate for immediate support.” 
+“In recent years we’ve fought off several [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] strikes, but the sheer scale of these attacks is unprecedented. The Golden Stag megaship in Onoros has been destroyed, with most of our forces scattered. I’ve urgently requested reinforcements from the Alliance, but we are desperate for immediate support.” 
 
 The Witch Head Enclave was established in 3305 following the discovery of barnacle sites, which were commercially exploited by [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] as sources of meta-alloys. Dr Maximo Fonseca and other leading xenologists believe that securing barnacle-rich systems is part of the Thargoids’ expansion strategy.

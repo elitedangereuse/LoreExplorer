@@ -1,23 +1,23 @@
 :PROPERTIES:
 :ID:       7ad46d5b-5682-4f4b-a84e-32824abb6076
 :END:
-#+title: Aegis Prioritises Research into Thargoid Spire Sites
+#+title: Aegis Prioritises Research into [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Spire Sites
 #+filetags: :galnet:
 
-* Aegis Prioritises Research into Thargoid Spire Sites
+* Aegis Prioritises Research into [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Spire Sites
 
 /31 Oct 3309/
 
-The rapid evolution of Thargoid barnacle matrix sites into colossal spires has sparked intense scientific scrutiny and concern as to their purpose. 
+The rapid evolution of [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] barnacle matrix sites into colossal spires has sparked intense scientific scrutiny and concern as to their purpose. 
 
 Dr Maximo Fonseca, the Allied scientific liaison to Aegis, discussed recent developments in an article for The Empirical: 
 
-“There’s no doubt that these twisting, biomechanical towers are important to the Thargoids. Each site is defended by highly aggressive drones, including a new type designated the ‘Banshee’. Larger Thargoid vessels also routinely come and go, in a manner similar to ships docking with an outpost.” 
+“There’s no doubt that these twisting, biomechanical towers are important to the Thargoids. Each site is defended by highly aggressive drones, including a new type designated the ‘Banshee’. Larger [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] vessels also routinely come and go, in a manner similar to ships docking with an outpost.” 
 
-“Some believe that each site is an alien city – a xenopolis, if you will – and that this marks the start of a colonisation programme. But I believe the Thargoids remain on a war footing. Either way, we are bringing together our finest xenologists to decipher their function as rapidly as possible.” 
+“Some believe that each site is an alien city – a xenopolis, if you will – and that this marks the start of a colonisation programme. But I believe the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] remain on a war footing. Either way, we are bringing together our finest xenologists to decipher their function as rapidly as possible.” 
 
 One of these scientists is Professor Ishmael Palin, who is recognised as a leading authority on the Thargoids. In a brief interview for Vox Galactica, he said: 
 
-“The construction of permanent surface structures confirms that the Thargoids have long-term plans. I’ve studied scans that indicate organic and mechanical processes taking place within each spire. My guess is they’re industrial in nature, the equivalent of our extraction factories. It’s possible they are producing or refining vast quantities of mineral substances to supply the Thargoid war machine.” 
+“The construction of permanent surface structures confirms that the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] have long-term plans. I’ve studied scans that indicate organic and mechanical processes taking place within each spire. My guess is they’re industrial in nature, the equivalent of our extraction factories. It’s possible they are producing or refining vast quantities of mineral substances to supply the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] war machine.” 
 
-“Many pilots have already seen fit to provide me with compounds extracted from Thargoid spire sites, which has given my research an initial boost. Further samples can be delivered to Abel Laboratory or the bartender at Baird Gateway in the Arque system.”
+“Many pilots have already seen fit to provide me with compounds extracted from [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] spire sites, which has given my research an initial boost. Further samples can be delivered to Abel Laboratory or the bartender at Baird Gateway in the Arque system.”

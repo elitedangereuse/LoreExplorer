@@ -1,14 +1,14 @@
 :PROPERTIES:
 :ID:       1c60808f-c43f-4b90-af74-6c4d2dab9065
 :END:
-#+title: Thargoid War Bulletin: Titan Destroyed
+#+title: [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] War Bulletin: Titan Destroyed
 #+filetags: :galnet:
 
-* Thargoid War Bulletin: Titan Destroyed
+* [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] War Bulletin: Titan Destroyed
 
 /04 Mar 3310/
 
-Titan Taranis, one of the eight Thargoid motherships, is presumed destroyed after a concerted attack using Guardian nanite torpedoes. 
+Titan Taranis, one of the eight [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] motherships, is presumed destroyed after a concerted attack using Guardian nanite torpedoes. 
 
 The journalist [[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]] published a bulletin via Vox Galactica: 
 
@@ -16,4 +16,4 @@ The journalist [[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]] publi
 
 “What were believed to be Taranis’s death throes were closely observed. A massive release of energy repulsed all ships, followed by further explosions. At present the Titan’s status cannot be verified, due to an intensely corrosive gas cloud that prevents ships from approaching. Aegis is confident, however, that the detonations were fatal.” 
 
-“It’s too early to analyse what this means for the ongoing Thargoid war. But this looks like a significant victory, proving that these giants can be toppled after all. As attacks continue against the seven remaining Titans, we will follow these developments closely.”
+“It’s too early to analyse what this means for the ongoing [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] war. But this looks like a significant victory, proving that these giants can be toppled after all. As attacks continue against the seven remaining Titans, we will follow these developments closely.”

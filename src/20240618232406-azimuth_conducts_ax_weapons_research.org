@@ -8,7 +8,7 @@
 
 /03 Jan 3309/
 
-The corporation Azimuth Biotech has outlined its plans to support the war effort against the Thargoids by improving ship anti-xeno firepower. 
+The corporation Azimuth Biotech has outlined its plans to support the war effort against the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] by improving ship anti-xeno firepower. 
 
 CEO Torben Rademaker was interviewed on The Tau Ceti Journal’s official ICE-cast, where he explained: 
 
@@ -20,7 +20,7 @@ One of the ICE-cast’s interactive audience questions asked why Azimuth was not
 
 “Under my guidance, the corporation has moved away from Salvation’s esoteric field of research and adopted a more conventional direction. It seems clear to me that the superweapon project led by my predecessor was, ultimately, a failure.” 
 
-Rademaker also answered an accusation that Azimuth was responsible for the loss of life in HIP 22460, and that he should face trial for ‘causing the Thargoid Maelstroms’: 
+Rademaker also answered an accusation that Azimuth was responsible for the loss of life in HIP 22460, and that he should face trial for ‘causing the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Maelstroms’: 
 
 “Sadly, I often come across such simplistic blame-seeking from those with limited comprehension of the issue. The plain fact is that nobody could have predicted the Thargoids’ excessive reaction to our activities in HIP 22460. The Proteus Wave was deemed an acceptable means of ending the war, approved by individuals with far more military experience than Salvation could claim.” 
 

@@ -14,7 +14,7 @@ A courier carrying a message from Aegis scientist Dr Mia Valencourt managed to e
 
 “This is an urgent call for assistance. Regional security forces have been overrun, and this vicious gang – they call themselves the Socho Gold Raiders – they’re in charge now. They’ve shut everything down. Apparently they’re convinced we’re building some kind of super-weapon, so that’s probably what brought them here.” 
 
-“They were so clever. We picked up what looked like a Thargoid signal and the security forces went charging in. Everyone was terrified that the Thargoids had come to Socho. But it wasn’t the Thargoids – it was a trap. The Raiders were waiting, and they cut those ships to pieces.” 
+“They were so clever. We picked up what looked like a [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] signal and the security forces went charging in. Everyone was terrified that the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] had come to Socho. But it wasn’t the Thargoids – it was a trap. The Raiders were waiting, and they cut those ships to pieces.” 
 
 “Please, if anyone’s listening, this is an emergency. It’s absolute chaos here. Please help!” 
 
@@ -22,4 +22,4 @@ Professor Alba Tesreau, Aegis’s chief scientific advisor, made an emotional pl
 
 “It is inconceivable that elements of our own society would behave this way when there’s so much at stake. There is vital research taking place at Aegis Core. If it’s lost, these criminals will have placed all of us at risk!” 
 
-“I implore the galactic community to help free Socho from these unthinking vandals. Aegis is defending humanity against the Thargoid threat. We need your help to survive, so that we in turn can protect you and your families.”
+“I implore the galactic community to help free Socho from these unthinking vandals. Aegis is defending humanity against the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] threat. We need your help to survive, so that we in turn can protect you and your families.”

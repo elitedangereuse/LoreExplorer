@@ -16,6 +16,6 @@ She delivered the public address following a recent tour of a Gutamaya shipyard:
 
 “The Senate has worked tirelessly to generate funding and opportunities for this renewed focus. New ships and crews have replaced recent losses, making our naval fleets more powerful than ever. And many loyal corporations have replaced inferior imports from foreign worlds with the high-quality workmanship of Imperial artisans.” 
 
-“Alongside increased military and commercial might, the Imperial Science Academy leads the way on xenological research to uncover the secrets of our Thargoid foe. We have seen the disastrous nature of Proteus Wave technology, but using alternative methods to develop our own anti-xeno options remains a priority.” 
+“Alongside increased military and commercial might, the Imperial Science Academy leads the way on xenological research to uncover the secrets of our [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] foe. We have seen the disastrous nature of Proteus Wave technology, but using alternative methods to develop our own anti-xeno options remains a priority.” 
 
 “Imperial systems are better protected against our enemies than they have been in a generation. Never has the future looked so assured. Our glorious history, stretching over a thousand years, teaches us a truth that we must now relearn: [[id:77cf2f14-105e-4041-af04-1213f3e7383c][The Empire]] stands stronger alone.”

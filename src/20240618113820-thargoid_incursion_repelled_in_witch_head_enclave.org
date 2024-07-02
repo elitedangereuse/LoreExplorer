@@ -1,10 +1,10 @@
 :PROPERTIES:
 :ID:       35131488-b534-4ac6-a94a-bc84e78884f4
 :END:
-#+title: Thargoid Incursion Repelled in Witch Head Enclave
+#+title: [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Incursion Repelled in Witch Head Enclave
 #+filetags: :galnet:
 
-* Thargoid Incursion Repelled in Witch Head Enclave
+* [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Incursion Repelled in Witch Head Enclave
 
 /21 Oct 3306/
 
@@ -16,7 +16,7 @@ The galactic community has responded to a call for aid from the Witch Head Encla
 
 Captain Warren Lamar, head of security for [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] Expeditionary Pact, announced: 
 
-“Everyone in Onoros and our neighbouring systems owes an enormous debt to the courageous pilots who met the Thargoids in battle. The whole of the Witch Head Enclave is breathing a sigh of relief that this resurgence was prevented from spreading any farther.” 
+“Everyone in Onoros and our neighbouring systems owes an enormous debt to the courageous pilots who met the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] in battle. The whole of the Witch Head Enclave is breathing a sigh of relief that this resurgence was prevented from spreading any farther.” 
 
 The Alliance Expeditionary Pact offered financial rewards for those who took part in the system’s defence, and these payments can now be obtained at the Golden Stag. 
 

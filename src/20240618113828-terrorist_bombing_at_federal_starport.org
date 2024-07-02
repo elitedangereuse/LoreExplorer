@@ -12,7 +12,7 @@
 
 Multiple explosions have struck Kepler Orbital in the Atropos system, causing huge damage and loss of life. 
 
-Witnesses have observed signs of corrosion damage to the starport. This is characteristic of an explosive designed by the engineer [[id:cb71ba02-e47b-4feb-a421-b1f2ecdce6f3][Liz Ryder]] that deploys Thargoid caustic enzymes, and which was used in the bombings of Imperial starports in September. 
+Witnesses have observed signs of corrosion damage to the starport. This is characteristic of an explosive designed by the engineer [[id:cb71ba02-e47b-4feb-a421-b1f2ecdce6f3][Liz Ryder]] that deploys [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] caustic enzymes, and which was used in the bombings of Imperial starports in September. 
 
 The [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] has claimed responsibility for the attack. Its propaganda channels praised “the nine martyrs”, a reference to the terrorist suspects recently arrested by the Federal Security Service. There were also warnings of “further reprisals if [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] impedes our cause”. 
 

@@ -1,10 +1,10 @@
 :PROPERTIES:
 :ID:       8f4405fa-6a3d-4382-ae4a-1ce6151dd45e
 :END:
-#+title: Thargoids Targeting Aegis Laboratories
+#+title: [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] Targeting Aegis Laboratories
 #+filetags: :3304:galnet:
 
-* Thargoids Targeting Aegis Laboratories
+* [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] Targeting Aegis Laboratories
 
 /25 Feb 3304/
 
@@ -12,7 +12,7 @@ Analytical reports released by Aegis have confirmed a pattern to the Thargoids�
 
 Admiral Aden Tanner, Aegis’s chief military liaison, made this statement: 
 
-“We have identified that the Thargoids are specifically targeting starports where Aegis laboratories are established. These include Titan's Daughter in the Taygeta system, Liman Legacy in HIP 16753 and the Oracle in the Pleiades Sector IR-W D1-55.”  
+“We have identified that the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] are specifically targeting starports where Aegis laboratories are established. These include Titan's Daughter in the Taygeta system, Liman Legacy in HIP 16753 and the Oracle in the Pleiades Sector IR-W D1-55.”  
 
 “In conjunction with local security services and system authorities, we are increasing defensive measures at all starports where Aegis has a presence.” 
 

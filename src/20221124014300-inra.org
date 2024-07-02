@@ -5,7 +5,7 @@
 #+title: INRA
 - [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]]
 - [[id:32267587-a5db-456f-8a09-439ed0309638][Weapons]]
-- [[id:c6674165-eb13-47d3-ad54-796aab951892][First Thargoid War]]
+- [[id:c6674165-eb13-47d3-ad54-796aab951892][First [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] War]]
 - [[id:f2fac611-d042-4abf-80f9-e5e0b5c9f4b8][Research Base]]
 - [[id:e68a5318-bd72-4c92-9f70-dcdbd59505d1][Azimuth Biochemicals]]
 - [[id:41bd6e9c-ec5f-4037-a929-5aa113f93a03][Salvation]]

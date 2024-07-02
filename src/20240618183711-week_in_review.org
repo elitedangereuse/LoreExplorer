@@ -12,9 +12,9 @@ Here are this week’s major stories.
 
 Several new Guardian sites have been discovered, resulting in a wealth of fresh information about the Guardians’ long-lost civilisation. Some of this information has already been put to practical use by the engineer Ram Tah, who has produced blueprints for new weaponry and power-plant systems based on Guardian designs. 
 
-Several galactic figureheads reacted to the news. Federal President [[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][Zachary Hudson]] said: “Anything that helps us defend our citizens from Thargoid aggression is welcome”, while Imperial Admiral [[id:75daea85-5e9f-4f6f-a102-1a5edea0283c][Denton Patreus]] expressed hope that the new armaments would “provide a tactical advantage in our conflict with the Thargoids”. 
+Several galactic figureheads reacted to the news. Federal President [[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][Zachary Hudson]] said: “Anything that helps us defend our citizens from [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] aggression is welcome”, while Imperial Admiral [[id:75daea85-5e9f-4f6f-a102-1a5edea0283c][Denton Patreus]] expressed hope that the new armaments would “provide a tactical advantage in our conflict with the Thargoids”. 
 
-Meanwhile, Aegis has launched an operation to monitor Thargoid activity in the Pleiades Nebula. The tri-superpower initiative has established orbital surveillance installations at six locations in the Pleiades as part of the Eagle Eye initiative. The installations will monitor systems where Thargoid surface sites are known to exist. 
+Meanwhile, Aegis has launched an operation to monitor [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] activity in the Pleiades Nebula. The tri-superpower initiative has established orbital surveillance installations at six locations in the Pleiades as part of the Eagle Eye initiative. The installations will monitor systems where Thargoid surface sites are known to exist. 
 
 Finally, the Coalition of Othime has announced plans to develop refinery facilities in its home system through the construction of a new asteroid base. The organisation hopes that the new base will allow it to compete with other refineries in the region. 
 

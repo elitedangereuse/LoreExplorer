@@ -1,10 +1,10 @@
 :PROPERTIES:
 :ID:       3180c69e-5482-4831-bc5e-47a7a97bd71e
 :END:
-#+title: Thargoid Cultists Prepare for Religious Voyages
+#+title: [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Cultists Prepare for Religious Voyages
 #+filetags: :galnet:
 
-* Thargoid Cultists Prepare for Religious Voyages
+* [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Cultists Prepare for Religious Voyages
 
 /06 Aug 3307/
 
@@ -20,4 +20,4 @@ Two other megaships have been outfitted for long-range journeys. The Perdition a
 
 Dr Alfred Ulyanov, a leading exotheologian and expert on the religion, commented: 
 
-“This fringe creed, which has survived endless abuse and attacks, has now reached a surprising level of organisation. Most of us associate the Thargoids with death and destruction, making it all the more remarkable that these people see only divinity.”
+“This fringe creed, which has survived endless abuse and attacks, has now reached a surprising level of organisation. Most of us associate the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] with death and destruction, making it all the more remarkable that these people see only divinity.”

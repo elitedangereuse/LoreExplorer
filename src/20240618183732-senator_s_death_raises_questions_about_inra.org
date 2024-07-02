@@ -12,7 +12,7 @@ The murder of Imperial Senator Nestor Cartesius has led to widespread public spe
 
 Dr Oskar Kincaid, an Alliance historian, examined the backdrop to the case: 
 
-“The INRA has always been viewed with suspicion. Contemporaneous records suggest that it was involved in biochemical warfare against the Thargoids during their original incursion in the 3100s. There were even rumours of experimentation on live Thargoid subjects, but at the time many saw this as the only way to halt a superior hostile force.” 
+“The INRA has always been viewed with suspicion. Contemporaneous records suggest that it was involved in biochemical warfare against the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] during their original incursion in the 3100s. There were even rumours of experimentation on live [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] subjects, but at the time many saw this as the only way to halt a superior hostile force.” 
 
 “Why this shadowy operation from one and a half centuries ago should now result in an Imperial senator’s death is a matter of conjecture. But there are many documented cases of retroactive retribution, where one family – or its followers – seeks atonement from another. History’s course is often diverted by the flow of bloodlines.” 
 

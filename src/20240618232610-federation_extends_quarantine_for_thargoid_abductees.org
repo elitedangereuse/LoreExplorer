@@ -1,14 +1,14 @@
 :PROPERTIES:
 :ID:       85124c09-17dc-4328-963d-0886a6d01f78
 :END:
-#+title: Federation Extends Quarantine for Thargoid Abductees
+#+title: Federation Extends Quarantine for [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Abductees
 #+filetags: :galnet:
 
-* Federation Extends Quarantine for Thargoid Abductees
+* Federation Extends Quarantine for [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Abductees
 
 /28 Dec 3309/
 
-Federal citizens who were captured by Thargoids then rescued from the Titans will not yet be permitted to leave secure medical facilities. 
+Federal citizens who were captured by [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] then rescued from the Titans will not yet be permitted to leave secure medical facilities. 
 
 The decision comes after [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] ended quarantine restrictions for returnees from their systems, with newly rescued civilians expected to spend no more than a week in observation. Prime Minister [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74][Edmund Mahon]] has called on other governments to do the same. 
 

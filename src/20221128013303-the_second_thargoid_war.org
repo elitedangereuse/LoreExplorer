@@ -1,8 +1,8 @@
 :PROPERTIES:
 :ID:       9a246121-0c2e-4f21-9877-ee333d6b0d6c
 :END:
-#+title: Second Thargoid War
+#+title: Second [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] War
 [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]]
 
 - [[https://docs.google.com/spreadsheets/d/1jDaP5SV1jicuv2zPo-l7HCCz0L-BuOrPXT6bfcBQi_I/edit#gid=0][2nd Thargoid-Human war [AXI priority list]​]]
-- [[https://antixenoinitiative.com/watch][Anti-Xeno Initiative - Thargoid Watch]]
+- [[https://antixenoinitiative.com/watch][Anti-Xeno Initiative - [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Watch]]

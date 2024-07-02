@@ -8,18 +8,18 @@
 
 /24 Apr 3309/
 
-Prototypes have been created of a new module designed to counteract the massive energy surge encountered by ships within Thargoid Maelstroms. 
+Prototypes have been created of a new module designed to counteract the massive energy surge encountered by ships within [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Maelstroms. 
 
 Professor [[id:c2623368-19b0-4995-9e35-b8f54f741a53][Alba Tesreau]] made a public statement: 
 
 “Intense research into the Maelstroms by Allied, Federal and Imperial specialists has yielded practical results. We have designed a device to briefly insulate a ship against the overpowering effects of a Maelstrom’s energy wave. Typically, the wave physically repels all human ships and disrupts onboard electrical systems.” 
 
-“Combined with our caustic sink launcher, the Thargoid pulse neutraliser will enable access to the innermost regions of the alien clouds. My hope is that this breakthrough will reveal knowledge about the Thargoid invasion fleets that we desperately need.” 
+“Combined with our caustic sink launcher, the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] pulse neutraliser will enable access to the innermost regions of the alien clouds. My hope is that this breakthrough will reveal knowledge about the Thargoid invasion fleets that we desperately need.” 
 
 Further details were provided by Ivano Colombera, the Empire’s scientific liaison to Aegis: 
 
-“The Thargoid pulse neutraliser expands upon the shutdown field neutraliser originally designed by [[id:887ca01b-ea5d-4fcd-a45d-de1ca598f1cd][Elvira Martuuk]] in 3303. Using upgraded components, Aegis technicians have amplified its effectiveness when triggered at the correct time.” 
+“The [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] pulse neutraliser expands upon the shutdown field neutraliser originally designed by [[id:887ca01b-ea5d-4fcd-a45d-de1ca598f1cd][Elvira Martuuk]] in 3303. Using upgraded components, Aegis technicians have amplified its effectiveness when triggered at the correct time.” 
 
 “Our primary objective was breaking through the electromagnetic pulse generated within a Maelstrom cloud when human ships are approximately 50 kilometres from its centre. Data provided by intrepid pilots who survived this experience has enabled us to calibrate a shield to its specific waveform, which should allow a ship to withstand its impact.” 
 
-Aegis has confirmed that initial test flights for the Thargoid pulse neutraliser will be unmanned. Prototypes have been fitted to specially constructed probes that will be remotely launched into a Maelstrom, while technicians monitor the real-time telemetry.
+Aegis has confirmed that initial test flights for the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] pulse neutraliser will be unmanned. Prototypes have been fitted to specially constructed probes that will be remotely launched into a Maelstrom, while technicians monitor the real-time telemetry.
