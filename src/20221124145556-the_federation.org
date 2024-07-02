@@ -14,7 +14,7 @@ Saw the heavens fill with commerce, argosies of magic sails,
 Pilots of the purple twilight dropping down with costly bales...
 
 Till the war-drum throbbed no longer, and the battle-flags were furled
-In Parliament of man, the Federation of the world."
+In Parliament of man, [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] of the world."
 
 /Alfred, Lord Tennyson, Locksley Hall (1835)/
 #+end_quote
@@ -46,7 +46,7 @@ society have no safeguards, and no way out. For them, life on the
 graffiti-stained streets is inescapable, and the gulf between their
 lives and those of the super-rich could not be more insurmountable.
 
-At its best, the Federation embodies the values of its founding
+At its best, [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] embodies the values of its founding
 nations - democracy, industry and liberty - but Federal society can
 also be competitive and unforgiving. Corporations wield too much
 power, politicians are often corrupt, and a sink-or-swim ethos
@@ -105,7 +105,7 @@ the will of rapacious corporations.
 
 *** Society
 **** A federated democracy.
-The Federation's legislative body is made up of congressmen, elected to represent their system or state. Apart from the oldest core systems such as Sol, which encompass multiple states, each star system within the Federation is considered a single state.
+The Federation's legislative body is made up of congressmen, elected to represent their system or state. Apart from the oldest core systems such as Sol, which encompass multiple states, each star system within [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] is considered a single state.
 
 New colonies do not qualify for full Federation membership until and unless they fulfill the development objectives set down for them. With self-reliance comes representation. 
 
@@ -117,7 +117,7 @@ The executive branch is headed by an elected President with a fixed eight-year t
 The soverign rights of all individuals are enshrined in the Constitution, which is a modified and streamlined version of the US Constitution, originally codified in the 18th Century. The right to liberty underscores the absolute ban on slavery within the Federation, and is a point of contention with the Empire.
 
 **** Corporate interests dominate.
-Although the Federation is loudly and proudly democratic, corporations still exercise tremendous influence over the democratic process, shaping citizen's choises through celebrity endorsement, lobbying and occasionally outright corruption.
+Although [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] is loudly and proudly democratic, corporations still exercise tremendous influence over the democratic process, shaping citizen's choises through celebrity endorsement, lobbying and occasionally outright corruption.
 
 The government is notoriously reluctant to curb corporate activity; the typical question in Congress is not whether a given policy will favour corporate interests, but which ones it will favour. Competition between corporations for Congress support can lead to a deadlock in the government
 
@@ -134,7 +134,7 @@ The Navy benefited from massive investement following the forced sell-off of col
 Governor [[id:9492a08d-0edc-46db-969f-dc8670665346][Raul Santorini]] championed heavy cuts to the Navy budget in 3022, which were not reversed until President Varian Scott came to power in 3144. Scott talked up the Thargoid threat, again increasing funding to the Navy and removing the requirement for military actions to be approved by Congressional vote.
 
 **** Land forces.
-In addition to the rank and file, the Federation still enjoys the loyal service of special military divisions such as the Gurkha Regiment, who have served since the days of Earth. Keeping up long-standing traditions such as this is an important link to the past for Federal citizens.
+In addition to the rank and file, [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] still enjoys the loyal service of special military divisions such as the Gurkha Regiment, who have served since the days of Earth. Keeping up long-standing traditions such as this is an important link to the past for Federal citizens.
 
 *** Culture and Values
 **** If you want to eat, you have to work.
@@ -166,7 +166,7 @@ they would be to a family or clan group, and it is common for
 successive generations of a given family to serve the same corporation
 
 **** Harvest the limitless riches of space, but respect nonhuman life.
-The Federation and [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] have hugely differing views on the primacy of humanity in the cosmos. While the Federation insists that its colonies treat indigenous nonhuman life with care, the Empire typically takes a more human-centric approach. This attitude has allowed the Empire to poach several developing Federation colonies who felt themselves hamstrung by ecological regulations.
+The Federation and [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] have hugely differing views on the primacy of humanity in the cosmos. While [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] insists that its colonies treat indigenous nonhuman life with care, the Empire typically takes a more human-centric approach. This attitude has allowed the Empire to poach several developing Federation colonies who felt themselves hamstrung by ecological regulations.
 
 **** Wealth is freedom.
 Federal citizens actively embrace corporate culture, expressing their identity through brand choices and media consumption.
@@ -174,15 +174,15 @@ Federal citizens actively embrace corporate culture, expressing their identity t
 ***Diplomatic
 
 **** The Empire.
-In 2292, a group fo colonists established a settlement on Achenar 6d, chose for its remoteness. The original intent was merely to live free from interference, but autocrat Hensen Duval rapidly took control of the colony and had himself proclaimed Emperor. The Federation attempted military reprisals, partly due to the nascent Empire's insistence on independence, but faced a harder fight than they had expected and were held at bay. Over the next fifty years, [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] expanded to many other worlds.
+In 2292, a group fo colonists established a settlement on Achenar 6d, chose for its remoteness. The original intent was merely to live free from interference, but autocrat Hensen Duval rapidly took control of the colony and had himself proclaimed Emperor. [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][The Federation]] attempted military reprisals, partly due to the nascent Empire's insistence on independence, but faced a harder fight than they had expected and were held at bay. Over the next fifty years, [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] expanded to many other worlds.
 
 The Federation's relationship with [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] is one of entrenched mistrust stemming from irreconcilable ideological differences, mollified somewhat by the corporations, which have a presence in both territories and thus act as a stabilising influence. Outright hostilities between the powers, when they occur, are usually conducted through proxy forces.
 
 **** The Alliance.
 In 3228, the Federally aligned corporations supplying the Alioth system attempted to raise their prices, leading to a citizen rebellion. Several independent systems assisted the rebels.
 
-Neither galactic superpower was able to suppress the revolt; [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] was too far away to intervene effectively, whereas the Federation was hampered by unexpected public sympathy for the rebels.
+Neither galactic superpower was able to suppress the revolt; [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] was too far away to intervene effectively, whereas [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] was hampered by unexpected public sympathy for the rebels.
 
-The Alliance of Independent Systems, founded on Alioth in 3230, drew in new members for the next 20 years; some were already independent, while others defected from the Federation or Empire.
+The Alliance of Independent Systems, founded on Alioth in 3230, drew in new members for the next 20 years; some were already independent, while others defected from [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] or Empire.
 
-In order to keep more worlds from defecting, the Federation was forced to reform the process whereby colonies could achieve full Federal membership. So far, it has only managed to slow the loss of worlds to [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] and has yet to tempt any back.
+In order to keep more worlds from defecting, [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] was forced to reform the process whereby colonies could achieve full Federal membership. So far, it has only managed to slow the loss of worlds to [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] and has yet to tempt any back.

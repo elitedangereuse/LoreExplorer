@@ -18,6 +18,6 @@ The Federal Times has reported on President Zachary Hudson’s actions:
 
 The Empire’s response mirrored its counterpart, as observed by The Imperial Herald: 
 
-“As well as the construction of new capital ships, Senator [[id:75daea85-5e9f-4f6f-a102-1a5edea0283c][Denton Patreus]] has also ordered the withdrawal of funding for Aegis. The Senate’s consensus is that since Thargoid activity has reduced, the focus should now be on the Federation as well as the internal threat of the NMLA.” 
+“As well as the construction of new capital ships, Senator [[id:75daea85-5e9f-4f6f-a102-1a5edea0283c][Denton Patreus]] has also ordered the withdrawal of funding for Aegis. The Senate’s consensus is that since Thargoid activity has reduced, the focus should now be on [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] as well as the internal threat of the NMLA.” 
 
 “Cooperation between the superpowers is rapidly coming to an end, leading to a state of interstellar brinkmanship. There is a real possibility that the Neo-Marlinists’ demand for revolutionary change may have broader repercussions than they intended.”

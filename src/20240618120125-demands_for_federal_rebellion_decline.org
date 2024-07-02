@@ -8,7 +8,7 @@
 
 /03 Nov 3307/
 
-Many factions have seceded from the Federation in recent months, but recent polls suggest the likelihood of further withdrawals is waning. 
+Many factions have seceded from [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] in recent months, but recent polls suggest the likelihood of further withdrawals is waning. 
 
 The Federal Times published an update on the situation by political correspondent Sofia Trevino: 
 
@@ -18,6 +18,6 @@ The Federal Times published an update on the situation by political corresponden
 
 “President Hudson’s efforts against the breakaway factions were hailed by his supporters and decried by his opponents. But the Federal Diplomatic Corps remain displeased that Hudson suffered no repercussions for violating diplomatic immunity when attempting to capture Yuri Grom.” 
 
-“Shadow President Winters continues to call for the PDB to be shut down to prevent the Federation from becoming an authoritarian police state. But many accuse her rhetoric on civil liberties to have triggered the secessions in the first place.” 
+“Shadow President Winters continues to call for the PDB to be shut down to prevent [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] from becoming an authoritarian police state. But many accuse her rhetoric on civil liberties to have triggered the secessions in the first place.” 
 
 “Meanwhile, many Federal factions are carefully observing those who did become independent. Their future success or failure may well determine whether or not this rebellion continues.”

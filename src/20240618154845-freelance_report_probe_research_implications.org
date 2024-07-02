@@ -14,6 +14,6 @@ Today, Captain Alexis Corvus of Task Force Athena briefed the Imperial Senate on
 
 "The offensive potential of these Probes mustn't be underestimated. A single fighter with a discovery scanner and a probe in its cargo hold could potentially disable dozens of spacecraft. A customized torpedo designed to similarly trigger its payload could be even more disruptive, allowing a hostile fleet to prey on the disabled vessels." 
 
-"The zeal with which the Federation has been collecting resources like these probes leads me to believe they have already considered these use cases. Moreover, the stationing of no fewer than five Farragut-class Battlecruisers in Merope suggests this matter is of grave importance to them. If we mean to maintain the status quo, we must act prudently." 
+"The zeal with which [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] has been collecting resources like these probes leads me to believe they have already considered these use cases. Moreover, the stationing of no fewer than five Farragut-class Battlecruisers in Merope suggests this matter is of grave importance to them. If we mean to maintain the status quo, we must act prudently." 
 
 Commander Corrigendum

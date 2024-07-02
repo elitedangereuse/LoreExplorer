@@ -94,7 +94,7 @@ traces of the mudlarks, partly in fear of Federal reprisal, and partly
 to ensure that his development plans would not be hindered by ecological
 constraints.
 
-**** The Federation attempted to reclaim Achenar.
+**** [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][The Federation]] attempted to reclaim Achenar.
 When the Federal government heard rumours that Duval's colony had
 recklessly caused the destruction of a sentient indigenous species, they
 decided on military intervention.
@@ -109,7 +109,7 @@ years, but these were unable to prevent Duval from expanding the Empire
 to many other worlds.
 
 **** The age of expansion.
-After hostilities with the Federation ceased, [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] entered a
+After hostilities with [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] ceased, [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] entered a
 century of growth, annexing many new systems and persuading others to
 join. It spent the following two centuries consolidating its new
 territory, appointing colonial administrators from among the noble
@@ -169,7 +169,7 @@ consequence.
 *** Military
 **** The Imperial Navy.
 Maintaining a modernized navy has always been a top priority for the
-Empire. The ever-present threat posed by the Federation has driven
+Empire. The ever-present threat posed by [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] has driven
 previous Emperors to empty the coffers again and again, for fear of
 being outstripped in the arms race. More recently, funding has come from
 wealthy individual Senators, many of whom are all-too eager to gain
@@ -258,7 +258,7 @@ outside of wartime is illegal without the blessing of a Senator.
 
 *** Diplomatic Relations
 **** The Federation.
-Resentement of the Federation runs deep in the Empire. The superpower is
+Resentement of [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] runs deep in the Empire. The superpower is
 remembered as an opporessive, interfering force that hypocritcally
 avoids inflicting the slightest harm on nonhuman life, but thinks
 nothing of forcibly imposing its values on its fellow humans, and

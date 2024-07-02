@@ -16,8 +16,8 @@ Yuri Grom: “I trust Salvation as little as I trust the Federation. What guaran
 
 Senator Zemina Torval: “Azimuth Biotech has emerged as a strategically significant corporation. I’ve advised the Imperial Senate to establish long-term commercial links that are mutually beneficial.” 
 
-Hadrian Augustus Duval: “The Thargoids are a genuine threat. Yet I hope that our military collaboration with [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] and the Federation is a temporary measure only. [[id:77cf2f14-105e-4041-af04-1213f3e7383c][The Empire]] must develop the strength to stand alone.” 
+Hadrian Augustus Duval: “The Thargoids are a genuine threat. Yet I hope that our military collaboration with [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] and [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] is a temporary measure only. [[id:77cf2f14-105e-4041-af04-1213f3e7383c][The Empire]] must develop the strength to stand alone.” 
 
 First Minister Octavia Volkov: “Thargoid attack is an ever-present danger for the Marlinist Colonies. We are observing events closely. Personally I do not view Azimuth as a trustworthy ally.” 
 
-Ambassador Jasmina Halsey: “I’m pleased to see the Federation working closely with the Alliance, but disappointed that it is limited to anti-xeno matters. Whatever happens in HIP 22460, we should grasp this opportunity to increase diplomatic as well as military cooperation.”
+Ambassador Jasmina Halsey: “I’m pleased to see [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] working closely with the Alliance, but disappointed that it is limited to anti-xeno matters. Whatever happens in HIP 22460, we should grasp this opportunity to increase diplomatic as well as military cooperation.”
