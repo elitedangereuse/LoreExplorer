@@ -4,5 +4,5 @@
 :END:
 #+title: Anti-Xeno Initiative
 #+filetags: :Thargoid:
-Player faction and community helping players to get better at fighting [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]]
+Player faction and community helping players to get better at fighting Thargoids
 

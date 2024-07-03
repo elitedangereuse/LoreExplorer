@@ -28,7 +28,7 @@
   - [[id:0e8f9924-e230-4390-aa79-5dba76c6e6d2][Uri Anslow]]
   - [[id:9a8a2b74-f7e3-4d1b-abfd-82b91b1d6481][The Order Of The Far God]]
 * Enemies
-  - [[id:f57cff55-3348-45ea-b76f-d0eaa3c68165][Guardians]]
+  - Guardians
   - [[id:4dfd1a40-8f9b-4f66-9c90-971e253a3fe1][Humans]]
 * Knowledge Base
 ** The Thargoids

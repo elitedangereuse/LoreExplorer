@@ -14,9 +14,9 @@ Delphi, originally designated [[id:846bfbc7-75e7-4d8d-8716-7fe0346026f4][Pleiade
 December 11, 3304, is an [[id:e0a6f2e0-36a9-4c35-b837-4ac3c6fc67a9][independent]] system near the [[id:7e99a467-6e3d-418e-8b10-72cf3660efa6][Pleiades Nebula]]
 in the Inner Orion Spur. It was once the primary base of operations
 for the Aegis Research division of [[id:a6b33331-c1bb-44cf-9717-f72eb0f63c99][Aegis]], a multinational initiative
-founded in 3303 by scientists from the [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][Federation]], Empire, and
+founded in 3303 by scientists from the Federation, Empire, and
 Alliance to study and develop countermeasures against the
-[[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]]. Aegis Research's headquarters was the [[id:83cc5ab9-e42c-4049-b6ed-081927b0b286][starport]] Donar's Oak.
+Thargoids. Aegis Research's headquarters was the [[id:83cc5ab9-e42c-4049-b6ed-081927b0b286][starport]] Donar's Oak.
 
 Since the onset of the [[id:9a246121-0c2e-4f21-9877-ee333d6b0d6c][Second Thargoid War]], Delphi has been a hotbed
 of Thargoid activity; the wreckage of various [[id:594f1645-06bb-4327-b737-cb0e87cc6c73][Bulk Cruiser Megaships]]
@@ -27,7 +27,7 @@ against external military incursions.
 
 On May 24, 3307, it was reported that The Oracle, one of several
 starports recently attacked by the Thargoids over the collection of
-[[id:f57cff55-3348-45ea-b76f-d0eaa3c68165][Guardian]] artefacts that had been amassed aboard the [[id:4d4f19a9-5100-4307-ac1b-f40ae90e806c][Alexandria]], had at
+Guardian artefacts that had been amassed aboard the [[id:4d4f19a9-5100-4307-ac1b-f40ae90e806c][Alexandria]], had at
 one point lost its alignment thrusters and nearly plummeted to the
 surface of Delpi 5 a, which would have killed the thousands of people
 aboard. A similar problem was also experienced at other damaged

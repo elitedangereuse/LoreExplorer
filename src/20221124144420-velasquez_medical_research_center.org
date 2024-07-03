@@ -10,7 +10,7 @@ LP 389-95 7
 
 The location of this facility was given in the logs found at [[id:9da44cc8-2978-4b10-ad1d-4a1a16025e0c][Hogan Depot]].¹
 [[id:39a31dd8-3750-4507-90b7-b649d0eeecef][INRA]]
-[[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]]
+Thargoids
 [[id:0ffe3814-d246-41f3-8f82-4bb9ca062dea][Project Mycoid]]
 The [[id:9d2a350d-0846-46a6-8e11-e428f1a11b36][vaccine]] for the mycoid agent was developed here.
 

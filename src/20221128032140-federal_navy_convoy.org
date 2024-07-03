@@ -3,4 +3,4 @@
 :END:
 #+title: Federal Navy convoy
 #+filetags: :Federation:
-[[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][The Federation]]
+The Federation

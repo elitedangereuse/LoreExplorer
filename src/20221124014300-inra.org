@@ -4,7 +4,7 @@
 :END:
 #+title: INRA
 #+filetags: :Thargoid:
-- [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]]
+- Thargoids
 - [[id:32267587-a5db-456f-8a09-439ed0309638][Weapons]]
 - [[id:c6674165-eb13-47d3-ad54-796aab951892][First Thargoid War]]
 - [[id:f2fac611-d042-4abf-80f9-e5e0b5c9f4b8][Research Base]]

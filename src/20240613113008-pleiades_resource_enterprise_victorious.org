@@ -16,7 +16,7 @@ statement:
 "The Ant Hill Mob believes our expansion into Maia was orchestrated by
 Federal officials, but I think they're just looking for a way of
 explaining their defeat. In war, it's the stronger side that
-wins. Simple as that. We may be aligned with the [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][Federation]], but we
+wins. Simple as that. We may be aligned with the Federation, but we
 were acting on our own behalf."
 
 [[file:img/beacons/0671.png]]

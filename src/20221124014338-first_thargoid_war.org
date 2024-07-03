@@ -3,7 +3,7 @@
 :END:
 #+title: First Thargoid War
 #+filetags: :Thargoid:
-[[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]]
+Thargoids
 
 [[id:0ffe3814-d246-41f3-8f82-4bb9ca062dea][Project Mycoid]]
 [[id:39a31dd8-3750-4507-90b7-b649d0eeecef][INRA]]
