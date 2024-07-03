@@ -2,12 +2,12 @@
 :ID:       75d80d23-d9c1-4a3a-81b7-2ddb22539fa1
 :END:
 #+title: Patreus Rails Against London Treaty
-#+filetags: :Empire:beacon:
+#+filetags: :3278:3303:Empire:beacon:
 * 0673 Patreus Rails Against London Treaty
 [[id:bed8c27f-3cbe-49ad-b86f-7d87eacf804a][Achenar]]  
 
 On October 21st 3303 Admiral [[id:f4ab6958-497d-430c-b322-bc5c67aa7707][Denton Patreus]] spoke in strident tones
-about the London Treaty. The treaty, established in 3278, imposes
+about the [[id:28dc6fa3-20a3-49ab-a362-7e02fe73ee61][London Treaty]]. The treaty, established in 3278, imposes
 limits on capital-ship construction in order to prevent possible arms
 races.
 

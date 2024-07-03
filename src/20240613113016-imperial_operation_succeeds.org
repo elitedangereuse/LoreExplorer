@@ -2,13 +2,13 @@
 :ID:       435481ae-5f4e-4ae0-9fba-4df770c4ffc5
 :END:
 #+title: Imperial Operation Succeeds
-#+filetags: :Empire:beacon:
+#+filetags: :3302:Empire:beacon:
 * 0680 Imperial Operation Succeeds
 [[id:b134728d-ea83-43c0-af4d-c212b8a0dd91][Mu Koji]]
 
-On September 15th 3302 the Xuangu Crimson Major Network announced that
+On September 15th 3302 the [[id:3d6e93a3-bb3e-42f5-a548-1d09948e874b][Xuangu Crimson Major Network]] announced that
 the imperial Operation to recover valuable intelligence from Federal
-convoys in the Mu Koji system was a success.
+[[id:9b863f3c-6531-4936-9146-f40e79dd60e7][convoys]] in the Mu Koji system was a success.
 
 But although the Empire achieved its primary goal, victory came at a
 cost. Independent correspondents, reporting from Mu Koji, confirmed

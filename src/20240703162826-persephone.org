@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       ffe1b4a6-2351-4c17-a8e1-a82da862ab90
+:ROAM_REFS: https://inara.cz/elite/station/4055/
+:END:
+#+title: Persephone
+#+filetags: :Station:
+Station in the [[id:55628bb2-5f97-4086-b281-170acff0bf9b][Avalon]] system.

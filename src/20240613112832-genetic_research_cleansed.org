@@ -2,12 +2,12 @@
 :ID:       eb0dbf88-2227-4743-aa4c-25cdfefcafa0
 :END:
 #+title: Genetic Research Cleansed
-#+filetags: :beacon:
+#+filetags: :2934:beacon:
 * 0136 Genetic Research Cleansed
 [[id:156a9f70-7bbc-4477-8604-ecce1eb30106][Fawaol]]
 
 In 2934, acting on the information of concerned locals, Imperial
-forces arrived in the Fawaol system to wipe out the experimental
-genetic research facilities of the [[id:3c4b0332-6e32-48bc-a6dc-8f83d94ae4f3][Darious Foundation]].
+forces arrived in the Fawaol system to wipe out the [[id:9a00a53a-0947-44b8-9db4-433d33f08278][experimental]]
+[[id:3153eb5b-894a-41df-ba7a-eec002923dd1][genetic research]] facilities of the [[id:3c4b0332-6e32-48bc-a6dc-8f83d94ae4f3][Darious Foundation]].
 
 [[file:img/beacons/0136.png]]

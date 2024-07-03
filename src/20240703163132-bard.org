@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       b15dad66-edf2-4c19-b7bf-987470cf62c5
+:END:
+#+title: Bard
+#+filetags: :System:
+

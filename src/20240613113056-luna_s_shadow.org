@@ -2,14 +2,14 @@
 :ID:       d6e4bebf-17bb-4d0e-bfd7-9a989b678341
 :END:
 #+title: Luna's Shadow
-#+filetags: :beacon:
-*    ER12.  Luna's Shadow
+#+filetags: :3305:beacon:
+* ER12. Luna's Shadow
 [[id:8bafd5bc-a8ae-4d53-893a-687a46e7706e][Smootoae QY-S d3-202]]   
 
-This beacon marks the 11th waypoint of the Distant Worlds II
+This beacon marks the 11th waypoint of the [[id:f176c68d-cc7a-4db2-8305-81f6771c7e9f][Distant Worlds II]]
 expedition, a five-month journey to the far outer rim conducted
 in 3305. Situated on the galactic prime meridian, this system is
 notable for containing a water world orbited by a satellite similar in
-size and appearance to Earth's Moon.
+size and appearance to Earth's [[id:05327959-8b2a-4b6a-951d-9b10dfe9ddfc][Moon]].
 
 [[file:img/beacons/ER12.png]]

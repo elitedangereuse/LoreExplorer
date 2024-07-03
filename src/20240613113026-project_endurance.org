@@ -2,13 +2,13 @@
 :ID:       23b9788d-af98-4152-8eb2-e55b639e429b
 :END:
 #+title: Project Endurance
-#+filetags: :beacon:
-* 0692  Project Endurance
+#+filetags: :3301:beacon:
+* 0692 Project Endurance
 [[id:292ba81d-9b8a-4146-bb41-59930893d01a][Dijkstra]]
 
-On the 10th of February 3301, two Faulcon DeLacy Cobras launched from
-Allen Platform in the Dijkstra system. Piloted by Commander Dr. Simms
-and Commander Sid Solo, the ships were fitted for an endurance attempt
+On the 10th of February 3301, two [[id:273d7834-fe3f-4b12-b045-d5d8a62e719a][Faulcon DeLacy]] Cobras launched from
+[[id:fe8bbff6-ca4c-49dd-b7c7-1983a1486d46][Allen Platform]] in the [[id:292ba81d-9b8a-4146-bb41-59930893d01a][Dijkstra]] system. Piloted by Commander [[id:f0436a56-c566-4c9d-8b29-0792d5094d57][Dr. Simms]]
+and Commander [[id:3712a15c-31b7-46fb-875d-73fdab2bd456][Sid Solo]], the ships were fitted for an [[id:fce15896-d8e0-4db1-9639-b2aa596a7e58][endurance]] attempt
 unlike any other.
 
 [[file:img/beacons/0692.png]]

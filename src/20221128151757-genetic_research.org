@@ -4,3 +4,4 @@
 #+title: Genetic Research
 #+filetags: :Component:
 
+[[id:112b5795-655f-4cc1-9995-b7aa39cb27c4][Research]]

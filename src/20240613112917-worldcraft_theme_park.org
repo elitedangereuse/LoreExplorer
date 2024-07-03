@@ -2,10 +2,25 @@
 :ID:       bc224d86-f50a-4250-b8b6-1185f20d887d
 :END:
 #+title: WorldCraft Theme Park
-#+filetags: :beacon:
-*     0213  WorldCraft Theme Park
+#+filetags: :1960:beacon:
+* 0213 WorldCraft Theme Park
 [[id:a17c479c-5ee8-42c1-8fee-22cbf1407db9][Epsilon Eridani]]
 
-Most come here for the WorldCraft Theme Park which was set up with no expense spared and costs s small fotrune to visit. It is well worth it though, because you can live in a world of almost any fantasy you wish (something that has given it a reputation for seediness). If you want a break from the lushness outside, you can elect to stay for a day at the Ancient London Earth World of 1960 (where every effort has been made to make it as authentic as possible, it even has the stench of pollution). / Every fantasy theme has its own complex which is self contained, with actors to help tourists play a part in adventures and feel that it is real. / There are more wholesome themes on offer too. The War Veterans Trust maintains offices at Oliverport and runs the famous Museum of Armour and Ballistics on New California.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |   |   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |   |   |   |   |   |   |   |   |   |   |   |   
+Most come here for the [[id:bc224d86-f50a-4250-b8b6-1185f20d887d][WorldCraft Theme Park]] which was set up with no
+expense spared and costs s small fotrune to visit. It is well worth it
+though, because you can live in a world of almost any fantasy you wish
+(something that has given it a reputation for seediness). If you want
+a break from the lushness outside, you can elect to stay for a day at
+the [[id:5916109c-9823-4b81-87d7-2a36dc4175f5][Ancient London Earth World]] of 1960 (where every effort has been
+made to make it as authentic as possible, it even has the stench of
+pollution).
+
+Every fantasy theme has its own complex which is self contained, with
+actors to help tourists play a part in adventures and feel that it is
+real.
+
+There are more wholesome themes on offer too. The [[id:56f7dbf9-8960-4b12-b66e-ec45b6a79f99][War Veterans Trust]]
+maintains offices at Oliverport and runs the famous [[id:4d244265-1d5d-4e53-a9a2-2b52dcb815a9][Museum of Armour
+and Ballistics]] on [[id:47df3d18-6cdd-443d-baae-0e3af142a089][New California]].
 
 [[file:img/beacons/0213.png]]

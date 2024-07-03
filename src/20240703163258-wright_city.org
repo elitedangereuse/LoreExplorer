@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       a443f49b-b347-4aec-8e3d-96932a23046d
+:ROAM_REFS: https://inara.cz/elite/station/9190/
+:END:
+#+title: Wright City
+#+filetags: :Station:
+
+Station in the [[id:b555bc13-0686-4eb7-b73f-a1116908fad9][Elli]] system

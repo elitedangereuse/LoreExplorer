@@ -3,7 +3,7 @@
 :END:
 #+title: Wreaken Corporation History
 #+filetags: :Federation:beacon:
-*     0217  Wreaken Corporation History
+* 0217 Wreaken Corporation History
 [[id:bb8ac014-a3ac-4564-9c3a-7aaff6536d59][Zearla]]
 
 Employing over a quarter of a million full time staff and owning sole

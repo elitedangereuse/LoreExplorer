@@ -312,7 +312,7 @@
 - Col 70 Sector FX-Q c19-2
 - Col 70 Sector FX-R b21-0
 - Col 70 Sector FY-N c21-1
-- Col 70 Sector FY-N c21-3
+- [[id:4dec0267-05fb-4de3-a8de-8811709984c6][Col 70 Sector FY-N c21-3]] # Thargoid Probe zero point
 - Col 70 Sector FZ-M b37-0
 - Col 70 Sector GB-L c9-6
 - Col 70 Sector GB-M b37-0

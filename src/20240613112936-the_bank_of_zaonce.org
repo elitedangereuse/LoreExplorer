@@ -2,7 +2,7 @@
 :ID:       66127aeb-8fbf-4c1c-b0a7-5f4c7425a5db
 :END:
 #+title: The Bank of Zaonce
-#+filetags: :beacon:
+#+filetags: :2718:2693:2682:beacon:
 * 0243 The Bank of Zaonce
 [[id:66127aeb-8fbf-4c1c-b0a7-5f4c7425a5db][Zaonce]]  
 
@@ -14,10 +14,10 @@ a reputation as a level headed and reliable financial
 establishment. Derrey's daughter [[id:a4917d52-3e9f-4c58-b89a-30dba1252ec5][Emily]] brokered a loan on an
 undiclosed but sizeable sum of credits to an up and coming spacecraft
 manufacturer named [[id:6da1c424-2b8f-4612-9c68-415c9ce6aed7][Faulcon Manspace]] in exchange for stock options. Six
-years later, when the Viper was unveiled, profit rolled in and the
+years later, when the [[id:369150fa-848e-401e-9ce6-373f1453e405][Viper]] was unveiled, profit rolled in and the
 stock options for Faulcon Manspace suddenly became vastly profitable
 to her family. Buoyed by this financial victory, Derrey took over
-several other banking concers on the world until his corporation was
+several other banking concerns on the world until his corporation was
 the sole financial establishment on the planet, although operating
 under different brands. They adopted the name Bank of Zoance in 2718.
 

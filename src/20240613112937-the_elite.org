@@ -2,21 +2,21 @@
 :ID:       3370d8ad-972f-466c-ad02-8a9c141ba656
 :END:
 #+title: The Elite
-#+filetags: :beacon:
+#+filetags: :3100:beacon:
 * 0245 The Elite
 [[id:c6b67ab9-66c5-4636-a978-2ca3a9ab012c][Shinrarta Dezhra]]  
 
-In 3100 the Pilots Federation began issuing modified version of its
+In 3100 the [[id:131aabdf-0ed8-4ce2-beec-94c77a8c41d2][Pilots Federation]] began issuing modified version of its
 'wings' badge that included the pilot's rating written across it in
 capitals, and made official the names of these ratings, starting with
-'Harmless, then 'Mostly Harmless', all the way to 'Elite'. The most
+'Harmless, then '[[id:e6ade6a5-63ae-416a-94fd-bb2eb7e30be6][Mostly Harmless]]', all the way to '[[id:088cf15e-3c00-4522-8c15-aa4c8b30ea8c][Elite]]'. The most
 coveted was the 'Elite' badge, and the first of these was awarded to
-Commander Peter Jameson, who wore it on the rear of his Cobra MkIII
+Commander [[id:af79e12c-6bc7-42ef-ade4-688b6454308a][Peter Jameson]], who wore it on the rear of his [[id:2588102a-6025-451e-bd68-22906a8a09e0][Cobra MkIII]]
 for the rest of his life.
 
 Before long this small and highly respected group of pilots with these
 coveted badges became known as 'The Elite'. They received all sorts of
-offers - both commercial and personal - (including offer of
+[[id:9375c51e-37bf-4349-9613-8395e566819e][offers]] - both commercial and personal - (including offer of
 marriage!). The commercial side became valuable - whether it was
 transporting royalty or taking unknown items 'no questions asked'. The
 group was considered utterly trustworty, with the confidentiality

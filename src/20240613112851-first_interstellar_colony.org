@@ -2,7 +2,7 @@
 :ID:       6a65a710-1048-436d-9ced-bd452203e945
 :END:
 #+title: First Interstellar Colony
-#+filetags: :beacon:
+#+filetags: :2159:beacon:
 * 0167  First Interstellar Colony
 [[id:da11b7b5-2c5a-4f17-9cd4-ce28a2f34dbd][Tau Ceti]]  
 

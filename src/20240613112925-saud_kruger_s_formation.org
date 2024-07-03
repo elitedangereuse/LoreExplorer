@@ -2,10 +2,24 @@
 :ID:       8a3dcfef-b18a-4c45-aec5-498221f72376
 :END:
 #+title: Saud Kruger's Formation
-#+filetags: :beacon:
-*     0226  Saud Kruger's Formation
+#+filetags: :3270:beacon:
+* 0226 Saud Kruger's Formation
 [[id:4ee2a5f7-7b84-4261-aeb9-ebcddc41ad7c][Bedaho]]
 
-The Saud Kruger Corporation is relatively new on the corporate stage, but built on much earlier foundations. It was a small, specialist yacht manufacturer that had been very successful as a family business in a small niche. Stanislav Kruger took over the family firm from this father in 3270. / A luxury ship manufacturer, and interstellar tourism business, the Asrogator Corporation prided itself on delivering the most stylish of holiday experiences. It claims the legedary explorer Augustus Brenquith as its long dead patron and bought up all image rughts to the man's legacy several hundred years ago. / The Corporation was based in Bedaho, but maintains office facilities in 80% of all colonised systems and through its contractual support programm, helps local tourist attractions develop their portfolio for the discerning interstellar explorer.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |   |   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |   |   |   |   |   |   |   |   |   |   |   |   
+The [[id:49b21fdc-6a96-42b3-a496-123e8106f102][Saud Kruger]] Corporation is relatively new on the corporate stage,
+but built on much earlier foundations. It was a small, specialist
+yacht manufacturer that had been very successful as a family business
+in a small niche. [[id:39e42b99-ece9-4a2f-a859-858f2887e5f4][Stanislav Kruger]] took over the family firm from this
+father in 3270.
+
+A luxury ship manufacturer, and interstellar tourism business, the
+[[id:1b328227-3a16-47d3-af61-df3592c4ddf5][Astrogator Corporation]] prided itself on delivering the most stylish of
+holiday experiences. It claims the legendary explorer [[id:4cf8f542-dfcf-4d54-88ea-2f136e760a4a][Augustus Brenquith]] as its long dead patron and bought up all image rights to
+the man's legacy several hundred years ago.
+
+The Corporation was based in Bedaho, but maintains office facilities
+in 80% of all colonised systems and through its contractual support
+program, helps local tourist attractions develop their portfolio for
+the discerning interstellar explorer.
 
 [[file:img/beacons/0226B.png]]

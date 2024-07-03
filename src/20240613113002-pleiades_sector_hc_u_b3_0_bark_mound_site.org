@@ -3,7 +3,7 @@
 :END:
 #+title: Pleiades Sector HC-U b3-0 Bark Mound Site
 #+filetags: :beacon:
-*     0664  Pleiades Sector HC-U b3-0 Bark Mound Site
+* 0664 Pleiades Sector HC-U b3-0 Bark Mound Site
 [[id:dd471f6e-654f-4ea6-9c09-7e1b3458b51b][Pleiades Sector HC-U b3-0]]
 
 The life cycle for [[id:48386d21-4f62-4b4e-abdf-007e019d3531][Bark Mounds]] has yet to be fully witnessed. As such,

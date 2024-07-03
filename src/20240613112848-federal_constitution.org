@@ -6,14 +6,14 @@
 * 0162 Federal Constitution
 [[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]]  
 
-Federal law is based on an agreed Constitution. People have rights and
+Federal law is based on an agreed [[id:94090e41-40b4-4e40-9cb8-34c2fb2cce8f][Constitution]]. People have rights and
 freedoms, enshrined by this agreement. A great many things are
-illegal, like slavery, cloning and certain narcotics. Local 'State'
+illegal, like [[id:11c82a20-33a7-444f-977c-0ea2f666c25b][slavery]], [[id:4d2ace21-1658-4733-a922-e2fa97dfd3cd][cloning]] and certain [[id:50e5a3c1-a834-4b39-8471-f3fcd22ad82c][narcotics]]. Local 'State'
 law prohibits other trafficking to a greater or lesser degree. Things
-like ship-based weapons, personal weapons, other milder drugs and
+like ship-based weapons, personal [[id:32267587-a5db-456f-8a09-439ed0309638][weapons]], other milder drugs and
 alcohol are banned in some systems.
 
-Federal law is controlled by the Mars goevernment, and the sheer size
+Federal law is controlled by the [[id:8a55a32e-316d-469b-a19f-bdc7c4d4b018][Mars]] goevernment, and the sheer size
 of the Federation makes it very hard for a System to have any
 influence on changing it.
 

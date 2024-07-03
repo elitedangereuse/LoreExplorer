@@ -2,6 +2,6 @@
 :ID:       131aabdf-0ed8-4ce2-beec-94c77a8c41d2
 :ROAM_ALIASES: PF
 :END:
-#+title: The Pilots' Federation
+#+title: Pilots' Federation
 #+filetags: :Codex:
 Delivers the [[id:b2b2d9ee-9c33-4a0b-b3ce-82cfa362577e][Permit]] for the [[id:c6b67ab9-66c5-4636-a978-2ca3a9ab012c][Shinrarta Dezhra]] system.

@@ -2,15 +2,15 @@
 :ID:       e1e35dd3-12ac-41d0-9c4e-582f1f694c2e
 :END:
 #+title: Faulcon Delacy's Beginnings
-#+filetags: :beacon:
+#+filetags: :3034:3100:beacon:
 * 0223 Faulcon Delacy's Beginnings
 [[id:0da8edee-c8ff-4aed-9ff9-ce8ae998bef3][Reorte]]  
 
 One of the most famous names in the history of interstellar
 exploration. The corporation began life as a much smaller
-organisation. Faulcon Manspace, a military supply organisation based
-on Reorte. They first rose to prominencse when they developed a new
-fighter craft they christined the Viper.
+organisation. [[id:6da1c424-2b8f-4612-9c68-415c9ce6aed7][Faulcon Manspace]], a military supply organisation based
+on [[id:5292d8c1-fa6e-4352-a03f-ef984f706203][Reorte]]. They first rose to prominencse when they developed a new
+fighter craft they christined the [[id:369150fa-848e-401e-9ce6-373f1453e405][Viper]].
 
 In this new era of the emerging interstellar privateer, Faulcon
 Manspace devoted its production to Vipers, but worked on a number of
@@ -20,11 +20,11 @@ other designs too.
 shipyards building Faulcon ships under license.
 
 One of the first new products from the merged company was the troubled
-Cobra MkII. This was an upgraded version of the now very dated Cobra
-MkI, but was not especially successful and was soon withdrawn.
+[[id:01919e58-48f2-411c-b504-6b0c5af7e679][Cobra MkII]]. This was an upgraded version of the now very dated [[id:88e6f76e-58eb-4f88-b301-e94e237b18a6][Cobra MkI]],
+but was not especially successful and was soon withdrawn.
 
 Despite this, the new company grew into a corporate behemoth, and went
-from strength to strength, launching the Cobra MkIII to great acclaim
+from strength to strength, launching the [[id:2588102a-6025-451e-bd68-22906a8a09e0][Cobra MkIII]] to great acclaim
 in 3100.
 
 [[file:img/beacons/0223.png]]

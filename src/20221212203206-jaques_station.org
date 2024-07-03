@@ -2,4 +2,5 @@
 :ID:       935880a2-d4fb-4d27-ad48-0f95112ee0fe
 :END:
 #+title: Jaques Station
+#+filetags: :Station:
 [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]]

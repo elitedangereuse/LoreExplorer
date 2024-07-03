@@ -2,12 +2,12 @@
 :ID:       afb840a6-4c78-400c-972f-20ba83d61ecb
 :END:
 #+title: Kahina Loren Stripped of her Rank
-#+filetags: :beacon:
-* 0674  Kahina Loren Stripped of her Rank
+#+filetags: :3302:3301:beacon:
+* 0674 Kahina Loren Stripped of her Rank
 [[id:8da12af2-6006-4e7e-a45e-7bf8b2c299c8][Prism]]   
 
 On October 14th 3302 [[id:2f09bc24-0885-4d00-9d1f-506b32464dbe][Kahina Tijani Loren]] was stripped of the rank of
-senator for delegating her responsibilities in respect of the Prism
+senator for delegating her responsibilities in respect of the [[id:8da12af2-6006-4e7e-a45e-7bf8b2c299c8][Prism]]
 system to Ambassador [[id:47e03b47-2225-41ca-b331-af350e58572c][Cuthrick Delaney]] in 3301.
 
 An aide for Admiral [[id:f4ab6958-497d-430c-b322-bc5c67aa7707][Denton Patreus]] said: "Loren gave up her senatorial

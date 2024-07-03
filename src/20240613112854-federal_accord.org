@@ -2,10 +2,26 @@
 :ID:       5bd5ffaf-9210-4ee4-a1ef-46228d431c11
 :END:
 #+title: Federal Accord
-#+filetags: :beacon:
-*     0174  Federal Accord
+#+filetags: :2242:Federation:2240:beacon:
+* 0174 Federal Accord
 [[id:da11b7b5-2c5a-4f17-9cd4-ce28a2f34dbd][Tau Ceti]]
 
-In early 2240, hours before the Earth fleet arrived in Tau Ceti, the main settlement changed its name to Taylor Colony and voted for independence from Earth. Without the starships to give battle, the colonists targeted the Earth fleet dropships as they attempted to land. Neither side could could an advantage and so diplomacy resumed. With some bitterness on both sides, a negotiated settlement was reached and in 2242, the Federal Accord was announced. This was effectively an extension of the consitution of the Federation, which briefly changed its name to the "Federation of Star Systems" - but this did not stick, and the term "Federation" returned. / The Federal Accord granted independent rights and membership to each system that signed it, provided they met certain development goals. Initially each of the signatories (including Earth) did not meet the goals, as the core principle of the agreement made at Tau Ceti was to eliminate the political games that had been played in the previous century.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |   |   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |   |   |   |   |   |   
+In early 2240, hours before the [[id:5b0f485f-4793-468d-a1a1-483606f44e0e][Earth]] fleet arrived in Tau Ceti, the
+main settlement changed its name to [[id:ee59bbe7-79e2-49ae-a2bc-c25554526ea3][Taylor Colony]] and voted for
+[[id:ff0ce877-d755-40d6-b92e-618c54344b29][independence]] from Earth. Without the starships to give battle, the
+colonists targeted the Earth fleet dropships as they attempted to
+land. Neither side could could an advantage and so diplomacy
+resumed. With some bitterness on both sides, a negotiated settlement
+was reached and in 2242, the Federal Accord was announced. This was
+effectively an extension of the consitution of the Federation, which
+briefly changed its name to the "Federation of Star Systems" - but
+this did not stick, and the term "Federation" returned.
+
+The Federal Accord granted independent rights and membership to each
+system that signed it, provided they met certain development
+goals. Initially each of the signatories (including Earth) did not
+meet the goals, as the core principle of the agreement made at Tau
+Ceti was to eliminate the political games that had been played in the
+previous century.
 
 [[file:img/beacons/0174B.png]]
