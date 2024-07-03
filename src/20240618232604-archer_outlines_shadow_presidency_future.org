@@ -2,7 +2,7 @@
 :ID:       e47eb408-3101-4d9c-8c84-c2a12b31f31b
 :END:
 #+title: Archer Outlines Shadow Presidency Future
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Archer Outlines Shadow Presidency Future
 
@@ -20,7 +20,7 @@ On Archer’s electoral policies:
 
 On his relationship with outgoing President Zachary Hudson: 
 
-“It’s been an honour to support President Hudson, from whom I have learned a great deal about the political arena. Both of us are genuine patriots with similar viewpoints. I know he will continue to serve [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] in his own way.” 
+“It’s been an honour to support President Hudson, from whom I have learned a great deal about the political arena. Both of us are genuine patriots with similar viewpoints. I know he will continue to serve the Federation in his own way.” 
 
 On his future political career: 
 

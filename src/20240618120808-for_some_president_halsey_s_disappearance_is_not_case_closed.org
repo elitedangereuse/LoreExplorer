@@ -2,7 +2,7 @@
 :ID:       1335e63d-2edc-4583-b617-aa8faf9eaecb
 :END:
 #+title: For Some, President Halsey's Disappearance Is Not "Case Closed"
-#+filetags: :3301:galnet:
+#+filetags: :Federation:3301:galnet:
 
 * For Some, President Halsey's Disappearance Is Not "Case Closed"
 
@@ -10,9 +10,9 @@
 
 For Some, President Halsey's Disappearance Is Not "Case Closed" 
  
-While [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] considers President Halsey’s disappearance an open and shut case, some groups still doubt the official story. The Knights of the Black, whose members have sworn to defend all human systems against alien aggression, is one such group. 
+While the Federation considers President Halsey’s disappearance an open and shut case, some groups still doubt the official story. The Knights of the Black, whose members have sworn to defend all human systems against alien aggression, is one such group. 
 
-According to the group’s founder, “We aren’t entirely convinced Halsey’s disappearance is the work of an alien species, but we also aren’t convinced that it was an accident. Remember that [[id:b9fe58a3-dfb7-480c-afd6-92c3be841be7][Felicia Winters]] insisted, even from the beginning, that Starship One was lost due to mechanical failure. [[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][Zachary Hudson]] seemed awfully convinced of sabotage until he became the President. To me, it seems [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] is covering up something.” 
+According to the group’s founder, “We aren’t entirely convinced Halsey’s disappearance is the work of an alien species, but we also aren’t convinced that it was an accident. Remember that [[id:b9fe58a3-dfb7-480c-afd6-92c3be841be7][Felicia Winters]] insisted, even from the beginning, that Starship One was lost due to mechanical failure. [[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][Zachary Hudson]] seemed awfully convinced of sabotage until he became the President. To me, it seems the Federation is covering up something.” 
 
 He went on to say, “Such a well-orchestrated strike against any of Humanity’s leaders would be a clear sign of an alien threat, which we take very seriously.” 
 

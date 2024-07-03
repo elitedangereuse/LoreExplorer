@@ -2,13 +2,13 @@
 :ID:       e4d6e38c-26ec-45b7-a4bb-4d864f84e1bf
 :END:
 #+title: Federal State of Emergency: Winters Declared Acting President
-#+filetags: :3301:galnet:
+#+filetags: :Federation:3301:galnet:
 
 * Federal State of Emergency: Winters Declared Acting President
 
 /26 May 3301/
 
-At 15:00 hours universal galactic time on 26th May 3301, Secretary of State [[id:b9fe58a3-dfb7-480c-afd6-92c3be841be7][Felicia Winters]] assumed the role of Acting President of [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] in the wake of the disappearance of Spaceflight One. 
+At 15:00 hours universal galactic time on 26th May 3301, Secretary of State [[id:b9fe58a3-dfb7-480c-afd6-92c3be841be7][Felicia Winters]] assumed the role of Acting President of the Federation in the wake of the disappearance of Spaceflight One. 
 
 Speaking in an emergency broadcast to the nation, Acting President Winters had this to say: 
 
@@ -20,4 +20,4 @@ Speaking in an emergency broadcast to the nation, Acting President Winters had t
 
 “Squadrons have been scrambled in an attempt to find President Halsey and Vice President Naylor, and I have faith that the Navy will do everything they can to bring them home.”  
 
-“That said, in order to maintain a clear chain of command during this time of crisis, I will be assuming the role of Acting President of [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] effective immediately. I hope I have your support, and I hope it will only have to be a temporary measure.”
+“That said, in order to maintain a clear chain of command during this time of crisis, I will be assuming the role of Acting President of the Federation effective immediately. I hope I have your support, and I hope it will only have to be a temporary measure.”

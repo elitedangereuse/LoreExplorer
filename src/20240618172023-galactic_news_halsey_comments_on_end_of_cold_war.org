@@ -2,7 +2,7 @@
 :ID:       410ec7e0-8ceb-4545-b91d-0bd1d1670b7a
 :END:
 #+title: Galactic News: Halsey Comments on End of Cold War
-#+filetags: :Empire:3303:galnet:
+#+filetags: :Federation:Empire:3303:galnet:
 
 * Galactic News: Halsey Comments on End of Cold War
 
@@ -12,6 +12,6 @@ With the news that the Empire has withdrawn its fleets from the Pleiades Nebula,
 
 Addressing a large crowd in Nerah City on Argent’s Claim, Halsey said: 
 
-“Like many of you, I rejoiced when I heard [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] had recalled its ships. But my jubilation was undercut by the knowledge that our protests and entreaties had failed to move a single Federal or Imperial vessel. Were it not for the emergence of a greater potential threat, the Empire and Federation might still be installed in the Pleiades, squabbling over barnacles. And while the impact of the conflict could have been far greater, it was still far from a bloodless war.” 
+“Like many of you, I rejoiced when I heard the Federation had recalled its ships. But my jubilation was undercut by the knowledge that our protests and entreaties had failed to move a single Federal or Imperial vessel. Were it not for the emergence of a greater potential threat, the Empire and Federation might still be installed in the Pleiades, squabbling over barnacles. And while the impact of the conflict could have been far greater, it was still far from a bloodless war.” 
 
-“I would like to believe that [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] and Empire have learned from this experience, but I suspect they have not. But I promise you that I will continue to help those affected by such conflicts, for as long as I am able.”
+“I would like to believe that the Federation and Empire have learned from this experience, but I suspect they have not. But I promise you that I will continue to help those affected by such conflicts, for as long as I am able.”

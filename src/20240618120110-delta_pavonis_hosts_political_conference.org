@@ -2,13 +2,13 @@
 :ID:       71f3f3e9-b763-40d5-b6ab-eb70193223b8
 :END:
 #+title: Delta Pavonis Hosts Political Conference
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Delta Pavonis Hosts Political Conference
 
 /17 Sep 3307/
 
-Delegations from [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] and the dictator [[id:b4892958-b513-46dc-b74e-26887b53f678][Yuri Grom]] are meeting to determine the Delta Pavonis system’s future. 
+Delegations from the Federation and the dictator [[id:b4892958-b513-46dc-b74e-26887b53f678][Yuri Grom]] are meeting to determine the Delta Pavonis system’s future. 
 
 Both are on a diplomatic mission to convince its controlling faction to either swear allegiance to [[id:b4892958-b513-46dc-b74e-26887b53f678][Yuri Grom]] or become a Federal member state. Delta Pavonis was one of the original signatories of the Federal Accord in 2242, but has recently been governed by an independent autocracy. 
 
@@ -20,4 +20,4 @@ Grand Duke Simion Petrescu, ruler of the Autocracy of Delta Pavonis, told attend
 
 “The conference will take place in Kessler City on Reagan’s Legacy, where our distinguished guests will enjoy our famous hospitality. I look forward to learning more about their respective proposals.” 
 
-This is the first time that [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] has diplomatically engaged with Yuri Grom. Political observers noted that this tactful approach may be due to several Federal factions recently declaring independence.
+This is the first time that the Federation has diplomatically engaged with Yuri Grom. Political observers noted that this tactful approach may be due to several Federal factions recently declaring independence.

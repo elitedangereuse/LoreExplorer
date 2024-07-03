@@ -2,13 +2,13 @@
 :ID:       e7789253-a7f3-4c79-ac1c-f0dff76cc549
 :END:
 #+title: Federal Election: The Imperial Perspective
-#+filetags: :Empire:galnet:
+#+filetags: :Federation:Empire:galnet:
 
 * Federal Election: The Imperial Perspective
 
 /12 Oct 3309/
 
-As [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] readies itself for a new president, the Empire is preparing for potential changes to its relationship with its historical rival. 
+As the Federation readies itself for a new president, the Empire is preparing for potential changes to its relationship with its historical rival. 
 
 Last year Emperor [[id:34f3cfdd-0536-40a9-8732-13bf3a5e4a70][Arissa Lavigny-Duval]] severed all official collaboration with the other superpowers, except for limited contributions to Aegis. But this does not mean the Empire is ignoring the potential impact of either Jerome Archer or [[id:b9fe58a3-dfb7-480c-afd6-92c3be841be7][Felicia Winters]] becoming the next Federal president. 
 

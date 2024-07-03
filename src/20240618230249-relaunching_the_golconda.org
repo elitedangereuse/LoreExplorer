@@ -2,7 +2,7 @@
 :ID:       872bcc3e-f4e5-4bd3-aaa1-caa831791a0b
 :END:
 #+title: Relaunching the Golconda
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Relaunching the Golconda
 
@@ -22,4 +22,4 @@ Upaniklis Vision Incorporated has agreed to organise the initiative. Pilots are 
 
 Local security forces warned that pirates may attempt to hijack incoming shipments or take control of the Golconda itself. As a defensive measure, Upaniklis Vision Incorporated has offered bounties on all wanted ships in the system. 
 
-According to the Federal Diplomatic Corp, these events do not violate the legislation that protects isolated societies from cultural contamination. It added: “Partnership status with [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] has been extended to the Golconda and continues to apply to Forester’s Choice outpost.”
+According to the Federal Diplomatic Corp, these events do not violate the legislation that protects isolated societies from cultural contamination. It added: “Partnership status with the Federation has been extended to the Golconda and continues to apply to Forester’s Choice outpost.”

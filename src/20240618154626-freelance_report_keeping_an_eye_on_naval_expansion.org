@@ -2,7 +2,7 @@
 :ID:       29a37c40-cdc6-41ec-ac97-baade1caeec8
 :END:
 #+title: Freelance Report: Keeping an Eye on Naval Expansion
-#+filetags: :Empire:3302:galnet:
+#+filetags: :Federation:Empire:3302:galnet:
 
 * Freelance Report: Keeping an Eye on Naval Expansion
 
@@ -10,7 +10,7 @@
 
 On the popular independent talk show 'Affairs of State', political commentator Walter Astoria defended the recent construction of a new Alliance outpost while expressing concern about Federal and Imperial naval expansion. 
 
-"Who cares if the new Alliance outpost is a listening post? [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][The Federation]] and Empire are building capital ships, and they feel threatened by an outpost? Give me a break!" 
+"Who cares if the new Alliance outpost is a listening post? The Federation and Empire are building capital ships, and they feel threatened by an outpost? Give me a break!" 
 
 "Federal shipyards have been running at maximum capacity since President Hudson's inauguration. Since then, the Federation's only noteworthy naval action was in Kausalya against Emperor's Dawn." 
 

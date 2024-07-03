@@ -3,13 +3,13 @@
 :ROAM_REFS: https://cms.zaonce.net/en-GB/jsonapi/node/galnet_article/4c5c715e-1097-4d52-85fc-c1fa0b595ca6?resourceVersion=id%3A4733
 :END:
 #+title: Marlinist Refugee Crisis Grows Critical
-#+filetags: :Empire:galnet:
+#+filetags: :Federation:Empire:galnet:
 
 * Marlinist Refugee Crisis Grows Critical
 
 /08 Dec 3306/
 
-Hundreds of thousands of political refugees who fled from the Empire to [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] have brought both superpowers to the brink of conflict. 
+Hundreds of thousands of political refugees who fled from the Empire to the Federation have brought both superpowers to the brink of conflict. 
 
 The Marlinists, who believe in restructuring the Empire into a republic, escaped crackdowns in several Imperial systems during a hunt for Neo-Marlinist terrorists. 
 

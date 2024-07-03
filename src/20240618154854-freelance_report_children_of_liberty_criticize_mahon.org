@@ -2,13 +2,13 @@
 :ID:       aa6f6309-dc7c-40be-9c64-bd24de1a7d23
 :END:
 #+title: Freelance Report: Children of Liberty Criticize Mahon
-#+filetags: :3302:galnet:
+#+filetags: :Federation:3302:galnet:
 
 * Freelance Report: Children of Liberty Criticize Mahon
 
 /04 Aug 3302/
 
-The organization known as the Children of Liberty has issued a statement criticizing Alliance Prime Minister [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74][Edmund Mahon]] for his recent remarks concerning the supposed failings of [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] and Empire. 
+The organization known as the Children of Liberty has issued a statement criticizing Alliance Prime Minister [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74][Edmund Mahon]] for his recent remarks concerning the supposed failings of the Federation and Empire. 
 
 "Prime Minister Mahon has denounced the 'pettiness and greed' of his political rivals, but he tolerates those same sins among many of the Alliance's own member systems. He wishes to create 'a truly unified society', yet he tolerates ideologies within the Alliance's own borders that are irreconcilably opposed to one another! According to a study published in 3301, over 213 million Alliance citizens live under the rule of explicitly authoritarian governments. How can a galactic power that purports to value harmony and self-determination allow a member system to oppress its own citizens?" 
 

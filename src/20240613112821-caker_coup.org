@@ -2,7 +2,7 @@
 :ID:       34d2c5b2-b583-436b-b166-a073ade0c274
 :END:
 #+title: Caker Coup
-#+filetags: :beacon:
+#+filetags: :Federation:beacon:
 * 0119 Caker Coup
 [[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]]  
 
@@ -17,7 +17,7 @@ pressure from [[id:bed8c27f-3cbe-49ad-b86f-7d87eacf804a][Achenar]], Imperial sol
 attempted to impose a genetic correction programme on the planet. This
 was precented by a [[id:0ce3c70c-e3ae-4a4b-8291-2db41b5058ac][coup]] against the military garrison by a new [[id:a593cd5c-015e-4639-8501-181a6c9d47c6][Caker]]
 sect. Within days, the planet had been secured and an appreal was sent
-to [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] for assistance.
+to the Federation for assistance.
 
 A fierce battle ensued; Imperial forces from the orbital refineries
 began a planetary bombardment, but the arrival of a Federal fleet

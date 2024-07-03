@@ -2,7 +2,7 @@
 :ID:       bd3aa0ad-36f5-4b88-a142-fb58aa0dd1c6
 :END:
 #+title: Federal Congress Calls Emergency Session
-#+filetags: :3301:galnet:
+#+filetags: :Federation:3301:galnet:
 
 * Federal Congress Calls Emergency Session
 
@@ -14,4 +14,4 @@ Lugh is home to 15.3 billion residents, who are supported almost entirely by the
 
 In her address to Congress, President Halsey had this to say on the situation: 
 
-“Systems choosing to hold fair and democratic elections to determine whether they wish to remain within the Federal fold is one thing, but a group of religious fanatics petitioning a foreign power to help overthrow a democratically elected Federal government is another matter entirely. [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][The Federation]] will not allow theocrats, terrorists or any other fringe organisation to usurp the right and proper rules that govern our society. If the Crimson State Group continues to go down this road then [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] will respond with whatever force deemed necessary.”
+“Systems choosing to hold fair and democratic elections to determine whether they wish to remain within the Federal fold is one thing, but a group of religious fanatics petitioning a foreign power to help overthrow a democratically elected Federal government is another matter entirely. The Federation will not allow theocrats, terrorists or any other fringe organisation to usurp the right and proper rules that govern our society. If the Crimson State Group continues to go down this road then the Federation will respond with whatever force deemed necessary.”

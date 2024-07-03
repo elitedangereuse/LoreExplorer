@@ -2,13 +2,13 @@
 :ID:       5416bb6b-0527-4712-91cf-6a3d3dcef3f7
 :END:
 #+title: Four Federal Systems Declare Independence
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Four Federal Systems Declare Independence
 
 /29 Jun 3307/
 
-The Azaladshu Free faction, which controls four systems, has seceded from [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] in protest against civilian surveillance. 
+The Azaladshu Free faction, which controls four systems, has seceded from the Federation in protest against civilian surveillance. 
 
 The unexpected declaration followed the election of new leadership for Azaladshu Free, which currently controls the Azaladshu, LFT 824, LHS 277 and LTT 3919 systems.  
 

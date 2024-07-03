@@ -2,10 +2,26 @@
 :ID:       1ed6c6af-182b-4037-b31e-d6f9d76d2427
 :END:
 #+title: Congressional Streamlining
-#+filetags: :beacon:
-*     0180  Congressional Streamlining
+#+filetags: :Federation:beacon:
+* 0180 Congressional Streamlining
 [[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]]
 
-Federal colonies continued to mature into Congressional members and became accepted as Federal States throughout the next two centuries. However, the ratification of each colonial charter and approval of membership made the governing body of [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] more and more unwieldy. This meant getting decisions made became more and more of a laborious and time consuming process, increasingly relying on Presidential Influence. Eventually in 2594, Congress passend an Act reducing the total number of congressmen dramatically at the subsequent election round, amid much controversy. / In parallel, the President's fixed four year term was extended to a single eight year term, with a Vote of Confidence by the people after four years. This was to adress the problem that increasingly the Presidents were serving two consecutive terms (their limit - a historical limit dating back to pre Federation days), and few credible candidates would stand against them in what increasingly were referred to as the 'mid-term' election.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |   |   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |   |   |   |   |   |   
+Federal colonies continued to mature into Congressional members and
+became accepted as Federal States throughout the next two
+centuries. However, the ratification of each colonial charter and
+approval of membership made the governing body of the Federation more
+and more unwieldy. This meant getting decisions made became more and
+more of a laborious and time consuming process, increasingly relying
+on Presidential Influence. Eventually in 2594, Congress passend an Act
+reducing the total number of congressmen dramatically at the
+subsequent election round, amid much controversy.
+
+In parallel, the President's fixed four year term was extended to a
+single eight year term, with a Vote of Confidence by the people after
+four years. This was to adress the problem that increasingly the
+Presidents were serving two consecutive terms (their limit - a
+historical limit dating back to pre Federation days), and few credible
+candidates would stand against them in what increasingly were referred
+to as the 'mid-term' election.
 
 [[file:img/beacons/0180B.png]]

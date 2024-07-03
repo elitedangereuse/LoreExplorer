@@ -2,7 +2,7 @@
 :ID:       e917311b-f3c8-4e9d-9eb0-ff0727ba38e2
 :END:
 #+title: Repel Pirates and Provide Aid to De Caminha Station
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Repel Pirates and Provide Aid to De Caminha Station
 
@@ -14,11 +14,11 @@ Reports are coming in that the strained De Caminha station has been the target o
 
 Jerome Archer has announced a growing state of concern among parts of Federation space, stating that the war has spread supplies and support too thin amongst their territories. 
 
-Archer currently remains the Vice President of [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] until President-elect [[id:b9fe58a3-dfb7-480c-afd6-92c3be841be7][Felicia Winters]] returns from supporting her home planet of Rhea 3, which is still recovering from a series of devastating earthquakes. 
+Archer currently remains the Vice President of the Federation until President-elect [[id:b9fe58a3-dfb7-480c-afd6-92c3be841be7][Felicia Winters]] returns from supporting her home planet of Rhea 3, which is still recovering from a series of devastating earthquakes. 
 
 At an emergency conference, Jerome Archer stated the following: 
 
-“The good work that [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] is doing in the fight against the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] is noble, and valuable, but it takes its toll. Our president, Zachary Hudson, has done an excellent job maintaining the Federation in spite of this, but we can only do so much.” 
+“The good work that the Federation is doing in the fight against the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] is noble, and valuable, but it takes its toll. Our president, Zachary Hudson, has done an excellent job maintaining the Federation in spite of this, but we can only do so much.” 
 
 “It pains me to see De Caminha be the target of attacks by criminals looking to take advantage of the Federation’s continued efforts to end the war as quickly as possible, so I am calling on pilots across the galaxy for aid.” 
 

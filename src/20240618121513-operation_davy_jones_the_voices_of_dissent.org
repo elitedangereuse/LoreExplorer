@@ -2,7 +2,7 @@
 :ID:       ce59aee1-46f9-40bb-80a4-520261ec4122
 :END:
 #+title: Operation Davy Jones - The Voices of Dissent
-#+filetags: :3301:galnet:
+#+filetags: :Federation:3301:galnet:
 
 * Operation Davy Jones - The Voices of Dissent
 
@@ -16,7 +16,7 @@ The efforts of the Imperial forces engaged in “Operation Davy Jones” have co
 
 While the operation is being carried out by combined Imperial forces of varying allegiance, the core of the fleet is provided by Arissa Lavigny-Duval. As such, concerns about turmoil in the princess’ territory have lead some to question the decision to commit large forces to an offensive against the Kumo Crew. More recently, outrage has been sparked by the attempts, initiated by supporters of [[id:b402bbe3-5119-4d94-87ee-0ba279658383][Aisling Duval]], to solicit the help of Federal Commanders in “Operation Davy Jones”. 
 
-When asked for comment, Commander Great Gig of Lavigny Legion’s Velite Squadron had this to say: "When news travelled that Imperial Commanders were contacting [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] for cooperation and help, I was saddened. Aren't we the mighty Empire of Achenar? Doesn't our history oppose their political and institutional corruption, their mind control through relentless propaganda and consumerism?" 
+When asked for comment, Commander Great Gig of Lavigny Legion’s Velite Squadron had this to say: "When news travelled that Imperial Commanders were contacting the Federation for cooperation and help, I was saddened. Aren't we the mighty Empire of Achenar? Doesn't our history oppose their political and institutional corruption, their mind control through relentless propaganda and consumerism?" 
 
 For the past month, the eyes of the galaxy have been on the Pegasi Sector and “Operation Davy Jones”. Whether the Imperial forces manage to maintain their resolve in the face of stalwart defence and dissent at home remains to be seen. 
 

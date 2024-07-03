@@ -2,7 +2,7 @@
 :ID:       47ff9395-0625-477f-a172-6f34311aec9e
 :END:
 #+title: Community Goal: Alectrona Imperial Society Issues Appeal
-#+filetags: :3303:galnet:
+#+filetags: :Federation:3303:galnet:
 
 * Community Goal: Alectrona Imperial Society Issues Appeal
 
@@ -12,6 +12,6 @@ The Empire has announced plans to construct an outpost in the Andhrimi system, a
 
 The Alectrona Imperial Society has been authorised to coordinate the campaign, and has promised to reward pilots who deliver building fabricators, energy grid assemblies and lithium to Yurchikhin Station in the Andhrimi system. 
 
-After learning of the Empire's plans to gain a foothold in the Andhrimi system, [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] intends to undermine the operation by targeting Alectrona Imperial Society ships. 
+After learning of the Empire's plans to gain a foothold in the Andhrimi system, the Federation intends to undermine the operation by targeting Alectrona Imperial Society ships. 
 
 The rival campaigns begin on the 16th of March 3303 and will run for one week. If either organisation achieves its aims earlier than planned, the operations will end immediately.

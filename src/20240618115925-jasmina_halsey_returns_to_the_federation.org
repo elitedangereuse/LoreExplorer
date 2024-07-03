@@ -3,7 +3,7 @@
 :ROAM_REFS: https://cms.zaonce.net/en-GB/jsonapi/node/galnet_article/5b92df1d-ad29-44c1-96f1-839eaee7b203?resourceVersion=id%3A4903
 :END:
 #+title: Jasmina Halsey Returns to the Federation
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * [[id:a9ccf59f-436e-44df-b041-5020285925f8][Jasmina Halsey]] Returns to the Federation
 
@@ -17,6 +17,6 @@ Jasmina Halsey served as Federal president prior to the destruction of Starship 
 
 After greeting a large crowd of supporters at Olympus Village Spaceport, Halsey gave a statement to The Federal Times: 
 
-“This is a bittersweet moment for me. Coming back to [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] feels like revisiting a past life. But perhaps we can finally lay some ghosts to rest.” 
+“This is a bittersweet moment for me. Coming back to the Federation feels like revisiting a past life. But perhaps we can finally lay some ghosts to rest.” 
 
 She was welcomed in person by Shadow President Felicia Winters, who was secretary of state in Halsey’s administration. However, President [[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][Zachary Hudson]] has made no comment regarding his predecessor’s return or the forthcoming trial of Fleet Admiral Vincent.

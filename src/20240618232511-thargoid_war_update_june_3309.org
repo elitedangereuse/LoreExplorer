@@ -2,7 +2,7 @@
 :ID:       29d473d9-964f-4134-b94f-7471a258a9f0
 :END:
 #+title: [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] War Update: June 3309
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] War Update: June 3309
 
@@ -16,7 +16,7 @@ The latest report on the ongoing struggle against the [[id:09343513-2893-458e-a6
 
 “Unsurprisingly, Azimuth Biotech also declared its interest in the Titans. This led to the corporation competing indirectly with Aegis to collect tissue samples directly from the hull of the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] motherships. Although there was significantly greater support for the tri-superpower agency - no doubt an encouraging sign for Aegis’s Professor Tesreau - Azimuth’s results suggest that some retain faith in Salvation’s legacy.” 
 
-“On the subject of faith, another media talking point was the recent mysterious disappearance of the Dedicant. This Order of the Far God megaship, impounded for months by the FIA, was scheduled to deport tens of thousands of imprisoned adherents from [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] to the Alliance. But with only a few thousand on board, the ship made a sudden hyperspace jump out of Popontia. Theories abound as to its fate, ranging from a simple engine malfunction to the Far God rescuing its loyal worshippers. Even in wartime, it seems everyone loves a mystery.” 
+“On the subject of faith, another media talking point was the recent mysterious disappearance of the Dedicant. This Order of the Far God megaship, impounded for months by the FIA, was scheduled to deport tens of thousands of imprisoned adherents from the Federation to the Alliance. But with only a few thousand on board, the ship made a sudden hyperspace jump out of Popontia. Theories abound as to its fate, ranging from a simple engine malfunction to the Far God rescuing its loyal worshippers. Even in wartime, it seems everyone loves a mystery.” 
 
 “On the front lines, of course, there is no time for such distractions. [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Glaives hunt down human ships. Revenants seek to eliminate human trespassers on conquered worlds. Titans launch wave after wave of Thargoid vessels further into the core systems. Here, the focus remains locked onto the deadliest adversary we have ever faced. But the resistance is holding fast, and some traction is being made by anti-xeno forces. Systems are being recovered from alien control. There is hope that the tide is slowly turning.” 
 

@@ -2,12 +2,12 @@
 :ID:       b5741af4-f768-436d-9f33-91458e31ecd6
 :END:
 #+title: Birthright Final Act
-#+filetags: :beacon:
+#+filetags: :Federation:beacon:
 * 0183 Birthright Final Act
 [[id:f0fea079-ca2f-420e-8dce-e69ca46ae126][Anlave]]
 
 The commercial race in starship innovation together with increased
-funding from the [[id:fcf3d94e-5acb-473a-a89a-fed30e6e9d05][Birthright Wars]] allowed the [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][Federation]] to renew and
+funding from the [[id:fcf3d94e-5acb-473a-a89a-fed30e6e9d05][Birthright Wars]] allowed the Federation to renew and
 centralise its military power. In the past, mobilising a fleet had
 required mustering resources from each member system, but generous
 corporate charters authorised different corporations to build an

@@ -2,13 +2,13 @@
 :ID:       0e55c622-ae9f-4c1b-ac53-dea16159477a
 :END:
 #+title: Galactic News: Superpower Campaigns Conclude
-#+filetags: :3303:galnet:
+#+filetags: :Federation:3303:galnet:
 
 * Galactic News: Superpower Campaigns Conclude
 
 /02 Jun 3303/
 
-The Empire and [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] have released statements announcing the successful conclusion of their respective campaigns. Both superpowers received huge quantities of construction material over the past week, allowing them to start work on new outposts in the Pleiades region. 
+The Empire and the Federation have released statements announcing the successful conclusion of their respective campaigns. Both superpowers received huge quantities of construction material over the past week, allowing them to start work on new outposts in the Pleiades region. 
 
 The Merope Expeditionary Fleet and the Pleiades Resource Enterprise have extended their gratitude to those who supported their campaigns. 
 

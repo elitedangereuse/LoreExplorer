@@ -2,7 +2,7 @@
 :ID:       20b2ab93-f61b-46be-acb6-8b1e2509c059
 :END:
 #+title: Banki and BD+03 2338 - Over by Breakfast!
-#+filetags: :3301:galnet:
+#+filetags: :Federation:3301:galnet:
 
 * Banki and BD+03 2338 - Over by Breakfast!
 
@@ -10,7 +10,7 @@
 
 In a speech delivered from Navy Headquarters, Admiral Vincent has expressed his pleasure over the progress being made by Federal Forces engaged in the reclamation of Banki and BD+03 2338. 
 
-“The ongoing conflicts in Banki and BD+03 2338 were not started by us. They started at the beginning of the year when lawless thugs took it upon themselves to invade their smaller, peaceful neighbours. Despite any distractions President Halsey might be facing in her failure to find a replacement for our late Vice President Smeaton, [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] will not stand idly by while foreign powers invade federal territory under the guise of locally formed separatist movements.” 
+“The ongoing conflicts in Banki and BD+03 2338 were not started by us. They started at the beginning of the year when lawless thugs took it upon themselves to invade their smaller, peaceful neighbours. Despite any distractions President Halsey might be facing in her failure to find a replacement for our late Vice President Smeaton, the Federation will not stand idly by while foreign powers invade federal territory under the guise of locally formed separatist movements.” 
 
 The Admiral went on to say: 
 

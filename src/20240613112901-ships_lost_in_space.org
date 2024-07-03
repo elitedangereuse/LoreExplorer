@@ -2,7 +2,7 @@
 :ID:       f6907e0e-5e6b-4b9d-b28c-11c233ba8aac
 :END:
 #+title: Ships Lost in Space
-#+filetags: :beacon:
+#+filetags: :Federation:beacon:
 * 0187 Ships Lost in Space
 [[id:113500ff-cc01-4fe3-a0f4-87d92e2c2d31][Zelada]]
 
@@ -10,7 +10,7 @@ In 2867, disappearances of several traders near Zelada prompted a
 [[id:3d268496-1d95-49bc-aca6-49d16a4337c8][Federal Navy]] response under the new President [[id:8cd6d869-45c4-448f-b6ec-11814b056178][Olaf Smith]]. The task
 force soon found itself with more to do when further ships disappeared
 in Ququve and Aymiay in the same year, totalling thirteen ships in
-three months. In response, [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] bolstered forces on Laedla
+three months. In response, the Federation bolstered forces on Laedla
 rapidly and militarised the system as a base in response to this alien
 threat.
 

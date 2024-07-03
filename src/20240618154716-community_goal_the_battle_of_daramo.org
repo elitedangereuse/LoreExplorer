@@ -2,7 +2,7 @@
 :ID:       752d7f77-88af-4146-a34a-4dd4f104330c
 :END:
 #+title: Community Goal: The Battle of Daramo
-#+filetags: :3302:galnet:
+#+filetags: :Federation:3302:galnet:
 
 * Community Goal: The Battle of Daramo
 
@@ -16,6 +16,6 @@ The Federation is evidently not about to capitulate. In a statement, Admiral Yor
 
 The Empire, predictably, has responded in kind. Captain Danvers of the Imperial Navy said: 
 
-"In the interest of the wellbeing of the citizens of Daramo, it is imperative that Imperial law be instated as soon as possible. If [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] is allowed to retain control of the system, the people of Daramo will be sure to suffer." 
+"In the interest of the wellbeing of the citizens of Daramo, it is imperative that Imperial law be instated as soon as possible. If the Federation is allowed to retain control of the system, the people of Daramo will be sure to suffer." 
 
 The Independents of Daramo have stepped in to coordinate operations on behalf of the Federation, while the Vaka Citizens of Tradition have been authorised to oversee the Imperial campaign. Both factions have set out week-long operations to take control of the system, which will begin on the 23rd of June 3302.

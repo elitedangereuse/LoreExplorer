@@ -2,7 +2,7 @@
 :ID:       50c6d5d4-d2c1-4f9b-a9b4-fb01b6608f93
 :END:
 #+title: Galactic News: Federal-Imperial Conflict in Merope
-#+filetags: :Empire:3303:galnet:
+#+filetags: :Federation:Empire:3303:galnet:
 
 * Galactic News: Federal-Imperial Conflict in Merope
 
@@ -16,4 +16,4 @@ Security forces in Merope have confirmed that the fighting is localised at prese
 
 Freelance journalist Katherine Ryder commented on the development: 
 
-“As long as the fighting remains contained, there’s no cause for alarm. There’s a world of difference between inter-faction skirmishes and all-out war between the galaxy’s two largest superpowers. Full-scale conflict between the Empire and [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] might never happen.”
+“As long as the fighting remains contained, there’s no cause for alarm. There’s a world of difference between inter-faction skirmishes and all-out war between the galaxy’s two largest superpowers. Full-scale conflict between the Empire and the Federation might never happen.”

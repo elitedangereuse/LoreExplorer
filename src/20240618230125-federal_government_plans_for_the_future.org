@@ -2,13 +2,13 @@
 :ID:       074a8795-3fb0-42b6-92b4-529c281c34b7
 :END:
 #+title: Federal Government Plans for the Future
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Federal Government Plans for the Future
 
 /21 Jan 3308/
 
-President [[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][Zachary Hudson]] has delivered a speech to Congress on maintaining security for [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] in the coming years. 
+President [[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][Zachary Hudson]] has delivered a speech to Congress on maintaining security for the Federation in the coming years. 
 
 Excerpts from his address include the following: 
 
@@ -16,8 +16,8 @@ Excerpts from his address include the following:
 
 “3308 is already bringing many challenges. The war against the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] could escalate at any time, and we face the challenge of replacing Aegis with our own anti-xeno taskforce. We are also deeply concerned about increased infighting within [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] and Empire, which could easily spill over into our territory.” 
 
-“My administration is holding high-level discussions about how best to keep [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] strong and secure. We will soon make some brave proposals to continue meeting our people’s constitutional right to safety.” 
+“My administration is holding high-level discussions about how best to keep the Federation strong and secure. We will soon make some brave proposals to continue meeting our people’s constitutional right to safety.” 
 
 Shadow President [[id:b9fe58a3-dfb7-480c-afd6-92c3be841be7][Felicia Winters]] delivered this rebuttal: 
 
-“President Hudson fails to mention his disastrous attempt to capture Yuri Grom, his former fleet admiral’s criminal conviction for destroying Starship One, or that his surveillance laws forced several systems to declare independence. I would argue that under his leadership, [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] has never been weaker or less secure.”
+“President Hudson fails to mention his disastrous attempt to capture Yuri Grom, his former fleet admiral’s criminal conviction for destroying Starship One, or that his surveillance laws forced several systems to declare independence. I would argue that under his leadership, the Federation has never been weaker or less secure.”

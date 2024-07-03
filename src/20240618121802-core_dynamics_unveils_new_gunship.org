@@ -2,7 +2,7 @@
 :ID:       8890b351-bba2-4646-b253-cfe5196c6a76
 :END:
 #+title: Core Dynamics Unveils New Gunship
-#+filetags: :3301:galnet:
+#+filetags: :Federation:3301:galnet:
 
 * Core Dynamics Unveils New Gunship
 
@@ -10,7 +10,7 @@
 
 Core Dynamics Unveils New Gunship 
  
-Core Dynamics has a long-running association with the Federation, having produced everything from the humble Eagle to the mighty Farragut Battle Cruiser for the Federal Navy. Their latest offering, the Federal Gunship, is a sturdy combat vessel designed to provide [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] with a superior fighter escort. 
+Core Dynamics has a long-running association with the Federation, having produced everything from the humble Eagle to the mighty Farragut Battle Cruiser for the Federal Navy. Their latest offering, the Federal Gunship, is a sturdy combat vessel designed to provide the Federation with a superior fighter escort. 
 
 The natural comparison point for the new Gunship is the Federal Dropship, which offers a similar balance of features, but with a total of seven external hardpoints – two small, four medium and one large – and advanced armour and shields, the Gunship boasts a stronger combat profile than the Dropship, as well as offering better internal hardpoint quality. 
 

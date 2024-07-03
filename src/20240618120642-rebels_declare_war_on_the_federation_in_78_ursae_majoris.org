@@ -1,10 +1,10 @@
 :PROPERTIES:
 :ID:       57f0a6bf-72ae-475d-aacb-bb2597b36fd2
 :END:
-#+title: Rebels Declare War on [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] in 78 Ursae Majoris
-#+filetags: :3301:galnet:
+#+title: Rebels Declare War on the Federation in 78 Ursae Majoris
+#+filetags: :Federation:3301:galnet:
 
-* Rebels Declare War on [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] in 78 Ursae Majoris
+* Rebels Declare War on the Federation in 78 Ursae Majoris
 
 /17 Mar 3301/
 

@@ -2,7 +2,7 @@
 :ID:       c4f7411a-51eb-4e42-8873-530b373fd009
 :END:
 #+title: Naylor Pledges Support of Halsey
-#+filetags: :3301:galnet:
+#+filetags: :Federation:3301:galnet:
 
 * Naylor Pledges Support of Halsey
 
@@ -14,4 +14,4 @@ After Shadow President Hudson’s scathing attack on President Halsey earlier th
 
 “Loss of life is always regrettable, as is the loss of any member states from our great galactic Federation. However, none of that justifies the vitriol displayed by Shadow President Hudson earlier today.” 
 
-“We all know Hudson is desperate to get into office, but in [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] it is the people who choose their leader, and they didn’t choose him. They chose [[id:a9ccf59f-436e-44df-b041-5020285925f8][Jasmina Halsey]] to serve as President, and until the people say otherwise, it is President Halsey I follow.”
+“We all know Hudson is desperate to get into office, but in the Federation it is the people who choose their leader, and they didn’t choose him. They chose [[id:a9ccf59f-436e-44df-b041-5020285925f8][Jasmina Halsey]] to serve as President, and until the people say otherwise, it is President Halsey I follow.”

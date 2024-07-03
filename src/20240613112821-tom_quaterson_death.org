@@ -2,7 +2,7 @@
 :ID:       28423749-8206-4c31-b7e0-bc346698915e
 :END:
 #+title: Tom Quaterson Death
-#+filetags: :Empire:beacon:
+#+filetags: :Federation:Empire:beacon:
 * 0118 Tom Quaterson Death
 [[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]]
 
@@ -20,6 +20,6 @@ every means he could to get the word out that Alioth would become a
 free trade port.
 
 The resource implication of Alioth's independence was too much for
-either the Empire or [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] to take.
+either the Empire or the Federation to take.
 
 [[file:img/beacons/0118.png]]

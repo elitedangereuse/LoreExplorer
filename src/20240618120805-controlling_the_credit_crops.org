@@ -2,7 +2,7 @@
 :ID:       e57fb4eb-bbd3-405c-849f-c489ef4c1cf3
 :END:
 #+title: Controlling the Credit Crops
-#+filetags: :3301:galnet:
+#+filetags: :Federation:3301:galnet:
 
 * Controlling the Credit Crops
 
@@ -10,7 +10,7 @@
 
 Controlling the Credit Crops  
  
-A little over six months ago, the newly discovered naturally occurring plant known as Onionhead was made illegal throughout all of Federal space. Not long after, in an attempt to stop the spread of Onionhead, [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] launched a violent campaign against the innocent farmers of Kappa Fornacis, led by the vocal Georgio Algeria. Federal marines invaded the farmers’ fields, and Federal battle cruisers rained fire from the skies. 
+A little over six months ago, the newly discovered naturally occurring plant known as Onionhead was made illegal throughout all of Federal space. Not long after, in an attempt to stop the spread of Onionhead, the Federation launched a violent campaign against the innocent farmers of Kappa Fornacis, led by the vocal Georgio Algeria. Federal marines invaded the farmers’ fields, and Federal battle cruisers rained fire from the skies. 
 
 The now wealthy farmers managed to create a new strain of Onionhead, and so the spread started, working alone and with others, including the East India Company – an Imperial trade organisation in which Senator [[id:d8e3667c-3ba1-43aa-bc90-dac719c6d5e7][Zemina Torval]] is a major shareholder. 
 

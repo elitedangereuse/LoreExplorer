@@ -2,7 +2,7 @@
 :ID:       d2b7dca0-8996-4a40-9c32-0bf35641b178
 :END:
 #+title: Hadrian Duval Allegations Declared ‘Inconclusive’
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Hadrian Duval Allegations Declared ‘Inconclusive’
 
@@ -16,7 +16,7 @@ Inspector Mara Klatt, one of ACT’s joint leaders, delivered this report:
 
 Hadrian Duval made an announcement via the Paresa News Network: 
 
-“There can no longer be any doubt that the [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] planted a false trail in order to incriminate us. They aim to slay every Duval and demolish Imperial traditions, a goal that [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] is clearly happy to support.” 
+“There can no longer be any doubt that the [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] planted a false trail in order to incriminate us. They aim to slay every Duval and demolish Imperial traditions, a goal that the Federation is clearly happy to support.” 
 
 “Lady Astrid and I are deeply grateful to the Nova Navy, and all the other pilots who helped to defend our honour.” 
 

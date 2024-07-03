@@ -2,13 +2,13 @@
 :ID:       b2f7f57f-e0fb-4e3d-9632-35fee4695d74
 :END:
 #+title: Galactic News: Federal Blockade Ends
-#+filetags: :3303:galnet:
+#+filetags: :Federation:3303:galnet:
 
 * Galactic News: Federal Blockade Ends
 
 /09 Sep 3303/
 
-In October last year, [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] was criticised for positioning a Farragut-class Battlecruiser above Maia A 3 a, not far from the personal research base of Professor Ishmael Palin. 
+In October last year, the Federation was criticised for positioning a Farragut-class Battlecruiser above Maia A 3 a, not far from the personal research base of Professor Ishmael Palin. 
 
 The deployment, which came only days after Professor Palin announced a breakthrough in his research into meta-alloys, was widely interpreted as an attempt to restrict Palin’s movement and curtail his research. 
 
@@ -18,8 +18,8 @@ Rici Stewart, writing for The Imperial Herald, offering the following evaluation
 
 “The Federation knows that blockading Professor Palin was – at best – unethical, so I’m not surprised they chose not to comment on their withdrawal. They just slipped away in the night.” 
 
-“As with their efforts to control meta-alloys, the Federation’s attempts to restrict access to Palin’s base were far from successful. I guess [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] has realised it can’t control the galaxy. If you ask me, this is another sign that the Federal-Imperial cold war could be coming to an end.” 
+“As with their efforts to control meta-alloys, the Federation’s attempts to restrict access to Palin’s base were far from successful. I guess the Federation has realised it can’t control the galaxy. If you ask me, this is another sign that the Federal-Imperial cold war could be coming to an end.” 
 
 Naturally, Professor Palin was pleased with the development: 
 
-“We may never know exactly why [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] blockaded Maia A 3 a. Frankly, the galaxy’s superpowers have always been rather incomprehensible to me. All I can say is: I’m glad they’re gone.”
+“We may never know exactly why the Federation blockaded Maia A 3 a. Frankly, the galaxy’s superpowers have always been rather incomprehensible to me. All I can say is: I’m glad they’re gone.”

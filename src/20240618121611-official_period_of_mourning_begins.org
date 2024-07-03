@@ -2,7 +2,7 @@
 :ID:       053c7d4b-75b5-437b-93f9-2a6006b9c3b0
 :END:
 #+title: Official Period of Mourning Begins
-#+filetags: :3301:galnet:
+#+filetags: :Federation:3301:galnet:
 
 * Official Period of Mourning Begins
 
@@ -18,4 +18,4 @@ The Chancellor refused to answer questions from the assembled reporters concerni
 
 Following tradition, the Chancellor and invited dignitaries wore the black sash of mourning. These will be worn throughout the mourning period and then burned during the internment ceremony. 
 
-The Hall of Martyrs was constructed over 600 years ago following the victory against [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] in the first conflict between the two superpowers. It is open to the public only during the mourning period of those who are to be entombed there. The vast and exquisitely crafted hall beneath the Imperial Palace contains 16,032 obsidian pillars, and only the most honoured members of Imperial society are laid to rest there.
+The Hall of Martyrs was constructed over 600 years ago following the victory against the Federation in the first conflict between the two superpowers. It is open to the public only during the mourning period of those who are to be entombed there. The vast and exquisitely crafted hall beneath the Imperial Palace contains 16,032 obsidian pillars, and only the most honoured members of Imperial society are laid to rest there.

@@ -2,7 +2,7 @@
 :ID:       df529cf0-6f16-4f39-8ba6-f137804f09cb
 :END:
 #+title: Community Goal: Trouble in Maia
-#+filetags: :3302:galnet:
+#+filetags: :Federation:3302:galnet:
 
 * Community Goal: Trouble in Maia
 
@@ -10,7 +10,7 @@
 
 Earlier this month, the Pleiades Resource Enterprise entered Maia and rapidly started cementing its presence in the system. In response, the Ant Hill Mob – Maia's current controlling faction – has launched an offensive against Pleiades Resource Enterprise. 
 
-With [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] having recently stationed a Farragut-class Battlecruiser at Maia A 3 a, there is speculation that the appearance of Pleiades Resource Enterprise represents an effort to bring Maia under Federal control. 
+With the Federation having recently stationed a Farragut-class Battlecruiser at Maia A 3 a, there is speculation that the appearance of Pleiades Resource Enterprise represents an effort to bring Maia under Federal control. 
 
 A spokesperson for the Ant Hill Mob gave a brief statement: 
 

@@ -2,7 +2,7 @@
 :ID:       07314150-a62b-4f29-8a0d-8755427d6af5
 :END:
 #+title: Galactic News: Voices of Dissent
-#+filetags: :Empire:3303:galnet:
+#+filetags: :Federation:Empire:3303:galnet:
 
 * Galactic News: Voices of Dissent
 
@@ -14,4 +14,4 @@ While the impact of the conflict has been relatively modest, many thousands of g
 
 Daxton Sung of the Imperial Herald said: 
 
-“Can [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] be trusted? That’s the question the Empire is asking. Assuming both sides agree to withdraw, the Empire is worried that the Federation will renege on the deal. But such heel-dragging is to be expected. The fact is that there’s a real desire, on both sides of the fence, to end this ridiculous conflict.”
+“Can the Federation be trusted? That’s the question the Empire is asking. Assuming both sides agree to withdraw, the Empire is worried that the Federation will renege on the deal. But such heel-dragging is to be expected. The fact is that there’s a real desire, on both sides of the fence, to end this ridiculous conflict.”

@@ -2,7 +2,7 @@
 :ID:       ab5c21fe-e6cb-4327-bb5e-230e4d69c923
 :END:
 #+title: Yong-Rui: ‘History Will Judge Sirius’
-#+filetags: :Empire:galnet:
+#+filetags: :Federation:Empire:galnet:
 
 * Yong-Rui: ‘History Will Judge Sirius’
 
@@ -14,7 +14,7 @@ Li Yong-Rui’s comments were made during an in-depth interview with [[id:1d726a
 
 “The best way to predict the future is to study the past. This is as true of interstellar organisations as it is of individuals – our former actions indicate the probability of behaviour. So I invite you to study the role that Sirius Corporation has previously played on the political stage.” 
 
-“Ever since the Battle of Achenar and the widespread conflicts of the 2300s, our neutrality has allowed us to mediate between the Empire and [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] on many occasions. More recently, we defused inter-power tensions by establishing the Marlinist Colonies, which provided permanent homes for millions of refugees.” 
+“Ever since the Battle of Achenar and the widespread conflicts of the 2300s, our neutrality has allowed us to mediate between the Empire and the Federation on many occasions. More recently, we defused inter-power tensions by establishing the Marlinist Colonies, which provided permanent homes for millions of refugees.” 
 
 “It should also not be overlooked that the Galactic Summit was hosted in the Sirius system, where we encouraged humanity’s leaders to peacefully debate their differences. Furthermore, our development of the frame shift drive has revolutionised exploration and allowed many independent societies to flourish.” 
 

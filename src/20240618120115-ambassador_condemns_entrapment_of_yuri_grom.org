@@ -2,7 +2,7 @@
 :ID:       100b9ae1-d1fa-43c2-87b7-d4550ce68d00
 :END:
 #+title: Ambassador Condemns Entrapment of Yuri Grom
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Ambassador Condemns Entrapment of Yuri Grom
 
@@ -20,4 +20,4 @@ Ambassador Delphine Dumont told The Federal Times:
 
 This is the first time that the Federal Diplomatic Corps has distanced itself from the actions of a sitting president. Political observers believe that this is to maintain its reputation for integrity, especially in dealings with [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] and Empire. 
 
-Public reaction in [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] has been varied, with President [[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][Zachary Hudson]] being praised and criticised in equal measure. Insiders within his administration suggest that he is under enormous pressure to regain popularity, following the recent rebellion of several Federal systems.
+Public reaction in the Federation has been varied, with President [[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][Zachary Hudson]] being praised and criticised in equal measure. Insiders within his administration suggest that he is under enormous pressure to regain popularity, following the recent rebellion of several Federal systems.

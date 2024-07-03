@@ -2,7 +2,7 @@
 :ID:       b3f85d27-78e5-4330-b4c1-d4b3fd0c95d2
 :END:
 #+title: Galactic News: Edmund Mahon Condemns Imperial-Federal Sabre Rattling
-#+filetags: :Empire:3302:galnet:
+#+filetags: :Federation:Empire:3302:galnet:
 
 * Galactic News: [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74][Edmund Mahon]] Condemns Imperial-Federal Sabre Rattling
 
@@ -14,8 +14,8 @@ The pertinent part of his address is reprinted below:
 
 "Our history contains no shortage of bloodshed. Territory, resources – we have gone to war over these things far too often." 
 
-"We have expanded into the cosmos, made a home among the stars, created a civilisation spanning thousands of light years. Have we left our pettiness and greed behind, or have we brought them with us? I believe we are capable of working together to create a truly unified society. But the Empire and [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] do not appear to share this view." 
+"We have expanded into the cosmos, made a home among the stars, created a civilisation spanning thousands of light years. Have we left our pettiness and greed behind, or have we brought them with us? I believe we are capable of working together to create a truly unified society. But the Empire and the Federation do not appear to share this view." 
 
-"I implore my friends in the Empire and [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] to look beyond their immediate concerns and consider the ramifications of their actions. The organic structures may well be the product of a non-human civilisation. They, and the meta-alloys, should be afforded our protection." 
+"I implore my friends in the Empire and the Federation to look beyond their immediate concerns and consider the ramifications of their actions. The organic structures may well be the product of a non-human civilisation. They, and the meta-alloys, should be afforded our protection." 
 
 "We could be on the brink of a new era of discovery. This is no time for military posturing."

@@ -2,7 +2,7 @@
 :ID:       f326b5d2-4a93-4eb6-b5ac-7ecf218bdc27
 :END:
 #+title: Capital Ship Construction Initiatives Conclude
-#+filetags: :Empire:galnet:
+#+filetags: :Federation:Empire:galnet:
 
 * Capital Ship Construction Initiatives Conclude
 
@@ -10,7 +10,7 @@
 
 *Pilots Federation ALERT* 
 
-Parallel campaigns in the Empire and [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] to provide commodities for building new capital ships have ended. 
+Parallel campaigns in the Empire and the Federation to provide commodities for building new capital ships have ended. 
 
 The Federal Navy’s construction programme was boosted by deliveries of building fabricators, microbial furnaces and energy grid assemblies. Contributing pilots can now collect their rewards at Schweickart City in the Parutis system. 
 

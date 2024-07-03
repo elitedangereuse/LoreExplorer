@@ -2,7 +2,7 @@
 :ID:       1c763334-1c89-4f24-a2fa-5609eb2bd752
 :END:
 #+title: Victory Against Federation for Independent Factions
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Victory Against Federation for Independent Factions
 
@@ -10,7 +10,7 @@
 
 *Pilots Federation ALERT* 
 
-New Kuwembaa Labour has successfully seceded from [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] and inspired other systems to declare independence. 
+New Kuwembaa Labour has successfully seceded from the Federation and inspired other systems to declare independence. 
 
 The conflict in the Kuwembaa system ended with Federal loyalists Li Chotep for Equality being defeated. As a result, all systems controlled by New Kuwembaa Labour will remain independent. 
 
@@ -18,7 +18,7 @@ This has inspired Selkana Labour, United HIP 108095 Values Party and Mutumu Futu
 
 The victory was announced by Governor Sonal Mishra, the leader of New Kuwembaa Labour: 
 
-“We owe a huge debt to all pilots who helped us secure our freedom. It is regrettable that we were forced to secede, but this should be a warning to President Hudson that he is taking [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] down a dangerous path.” 
+“We owe a huge debt to all pilots who helped us secure our freedom. It is regrettable that we were forced to secede, but this should be a warning to President Hudson that he is taking the Federation down a dangerous path.” 
 
 The rebelling systems have now shut down links with the Proactive Detection Bureau, which monitors all private and public communications. More Federal factions are now debating secession as the only way to guarantee their citizens’ privacy rights. 
 

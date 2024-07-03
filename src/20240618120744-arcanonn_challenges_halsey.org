@@ -2,7 +2,7 @@
 :ID:       57220151-eb89-4ccb-9b25-e4fe6b263f6f
 :END:
 #+title: Arcanonn Challenges Halsey
-#+filetags: :3301:galnet:
+#+filetags: :Federation:3301:galnet:
 
 * Arcanonn Challenges Halsey
 
@@ -16,4 +16,4 @@ The mysterious object continues to defy all attempts at analysis and, in a contr
 
 He is quoted as saying, "On behalf of all humanity, my team and I demand answers. The potential repercussions of the Artefact’s existence are staggering. We still know very little but it is clear that the technology involved is very different to our own.” 
 
-Commander Arcanonn concludes his appeal: “The potential for scientific advancements are huge but so are the dangers. [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][The Federation]] has to come forward and tell us what they know of this object and its origins. The time for secrecy is over."
+Commander Arcanonn concludes his appeal: “The potential for scientific advancements are huge but so are the dangers. The Federation has to come forward and tell us what they know of this object and its origins. The time for secrecy is over."

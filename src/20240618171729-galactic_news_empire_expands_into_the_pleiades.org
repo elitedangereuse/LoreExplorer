@@ -2,7 +2,7 @@
 :ID:       8f7bd33e-5c32-42fc-b26b-cd81e2051fef
 :END:
 #+title: Galactic News: Empire Expands into the Pleiades
-#+filetags: :Empire:3303:galnet:
+#+filetags: :Federation:Empire:3303:galnet:
 
 * Galactic News: Empire Expands into the Pleiades
 
@@ -12,7 +12,7 @@ Recent reports indicate that the Empire has expanded into the Pleiades star clus
 
 Katherine Ryder, a freelance journalist and seasoned war correspondent, commented on the development: 
 
-"Things might have been quiet recently, but that doesn't mean the situation with the Empire and [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] has improved. This is a cold war, after all." 
+"Things might have been quiet recently, but that doesn't mean the situation with the Empire and the Federation has improved. This is a cold war, after all." 
 
 "Regardless of claims to the contrary, this conflict is about one thing: meta-alloys. Both sides want Maia and Merope because of the barnacles they contain, and both sides will keep pushing into those systems." 
 

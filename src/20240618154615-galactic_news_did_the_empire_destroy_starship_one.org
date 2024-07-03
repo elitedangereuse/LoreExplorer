@@ -2,13 +2,13 @@
 :ID:       49593d82-08be-4f96-bb0c-8e9d4bdbfa88
 :END:
 #+title: Galactic News: Did the Empire Destroy Starship One?
-#+filetags: :Empire:3302:galnet:
+#+filetags: :Federation:Empire:3302:galnet:
 
 * Galactic News: Did the Empire Destroy Starship One?
 
 /15 Apr 3302/
 
-Tensions between [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] and the Empire look likely to increase following an announcement from Federal politician Jacob Harris. In a statement released to The Federal Times, Harris claimed that the destruction of Starship One was not the result of mechanical failure, as was widely reported, but was in fact the result of deliberate sabotage by Imperial agents. 
+Tensions between the Federation and the Empire look likely to increase following an announcement from Federal politician Jacob Harris. In a statement released to The Federal Times, Harris claimed that the destruction of Starship One was not the result of mechanical failure, as was widely reported, but was in fact the result of deliberate sabotage by Imperial agents. 
 
 "I cannot identify my sources for fear of compromising their safety," said Harris, "but I can assure you that their information is correct. Starship One was destroyed by the Empire in an attempt to destabilise the Federal power base. It was made to look like an accident – the official Federal investigation even concluded it was an accident – but it most certainly was not." 
 

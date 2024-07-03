@@ -2,7 +2,7 @@
 :ID:       8a783df2-ee3e-413c-8f0a-9a3c2e72177c
 :END:
 #+title: The Scars of War in Banki
-#+filetags: :3301:galnet:
+#+filetags: :Federation:3301:galnet:
 
 * The Scars of War in Banki
 
@@ -10,9 +10,9 @@
 
 The Federation may have won the war in the Banki system, but survivors on both sides are still in a struggle for survival. 
 
-After a long and bitter conflict, [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] was able to clutch a victory (as well as a base) after offering greater incentives for Commanders willing to fight on their side. This strategy drew in throngs of Commanders from throughout the galaxy, tilting the scales decisively in favour of the Federal Navy. 
+After a long and bitter conflict, the Federation was able to clutch a victory (as well as a base) after offering greater incentives for Commanders willing to fight on their side. This strategy drew in throngs of Commanders from throughout the galaxy, tilting the scales decisively in favour of the Federal Navy. 
 
-At the end, the situation grew very grim for the Banki Gold Gang. Hundreds were killed, thousands were wounded, and medical supplies stretched perilously thin. Despite winning the war, [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] now has to deal with a destitute populace, an outbreak and the threat of famine on the horizon.  
+At the end, the situation grew very grim for the Banki Gold Gang. Hundreds were killed, thousands were wounded, and medical supplies stretched perilously thin. Despite winning the war, the Federation now has to deal with a destitute populace, an outbreak and the threat of famine on the horizon.  
 
 The CEO of the Gold Advanced Partners and current governor of Banki, Christopher Kailson, has put out this passionate plea for help:  
 

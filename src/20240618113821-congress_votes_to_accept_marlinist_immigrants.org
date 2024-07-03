@@ -2,7 +2,7 @@
 :ID:       93c6075a-b68c-4aef-8770-496d5062dab6
 :END:
 #+title: Congress Votes to Accept Marlinist Immigrants
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Congress Votes to Accept Marlinist Immigrants
 
@@ -18,6 +18,6 @@ Shadow President Winters told the media:
 
 “Charities such as Safeguard Interstellar are already doing excellent work, but now we can officially offer safe haven and temporary citizenship to all Marlinists.” 
 
- “These innocent people only seek what we in [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] take for granted – democracy, fairness and political representation. Their values are closer to ours than the Empire’s, and we have an obligation to protect them.” 
+ “These innocent people only seek what we in the Federation take for granted – democracy, fairness and political representation. Their values are closer to ours than the Empire’s, and we have an obligation to protect them.” 
 
 Several newsfeeds, including The Federal Times and Sol Today, commented that President Hudson’s authority has been undermined by his refusal to comment on the charges against Fleet Admiral Vincent. The accompanying rumours of corruption and conspiracy have had a demoralising effect on his supporters, and increased the Liberal Party’s popularity.

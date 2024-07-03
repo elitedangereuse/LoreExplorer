@@ -2,7 +2,7 @@
 :ID:       20a7000f-7afa-403a-b83c-945c92f70815
 :END:
 #+title: Galactic News: Federal Campaign Comes to an End
-#+filetags: :3302:galnet:
+#+filetags: :Federation:3302:galnet:
 
 * Galactic News: Federal Campaign Comes to an End
 
@@ -10,7 +10,7 @@
 
 A spokesperson for the Future of Segovan has announced that the Federation's appeal for construction materials has come to an end. Thousands of tonnes of material were delivered to Obsidian Orbital this week, which will be used to construct a new outpost on HIP 17225 A 1. In a brief statement, the spokesperson thanked those who had contributed to the initiative: 
 
-"The Federal pilots who supported this campaign have performed a great service. The new outpost will provide [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] with a valuable trade and resource-processing hub. You have made the Federation proud." 
+"The Federal pilots who supported this campaign have performed a great service. The new outpost will provide the Federation with a valuable trade and resource-processing hub. You have made the Federation proud." 
 
 The campaign attracted no small measure of controversy, however, with the Federation's opponents claiming that it represented a further attempt to control access to the non-human structures known as barnacles, a number of which are located on HIP 17225 A 1. One Imperial pilot, speaking on condition of anonymity, made the following statement to the Imperial Herald: 
 

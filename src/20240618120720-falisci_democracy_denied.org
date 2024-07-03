@@ -2,7 +2,7 @@
 :ID:       b09a7deb-b634-4a54-91de-cdc1862cbabd
 :END:
 #+title: Falisci: Democracy Denied
-#+filetags: :3301:galnet:
+#+filetags: :Federation:3301:galnet:
 
 * Falisci: Democracy Denied
 
@@ -12,6 +12,6 @@ In recent weeks the tiny system of Falisci has become a hotbed of activity.
 
 First came the war against the Falisci Purple Gang, which saw Senator Patreus and the Citizens of Tradition dominate the region with their superior firepower and overwhelming numbers. By the end of the week long struggle, the Falisci Purple Gang’s leadership was in chains, and its members sold off to work as Imperial Slaves. 
 
-Then the Social Falisci Party, backed by a coalition of Federal squadrons, began attempting to exert their influence over the system. Imperial pilots fought back until it became clear that [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] had grown tired of its futile attempts to overthrow the rightful rulers of the region. 
+Then the Social Falisci Party, backed by a coalition of Federal squadrons, began attempting to exert their influence over the system. Imperial pilots fought back until it became clear that the Federation had grown tired of its futile attempts to overthrow the rightful rulers of the region. 
 
 The region may be devastated and its people may be in chains, but the Emperor’s peace has finally come to Falisci.

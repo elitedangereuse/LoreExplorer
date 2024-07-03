@@ -2,7 +2,7 @@
 :ID:       f1375dbf-4604-44e7-b064-6d0b989b459a
 :END:
 #+title: Wallglass Links Rackham to ‘Calico Zack’
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Wallglass Links Rackham to ‘Calico Zack’
 
@@ -18,7 +18,7 @@ The newsfeed featured a detailed exposé by financial journalist Bryanna Blanco:
 
 “While Defries seems to have disappeared around 3292 with his evidence withheld, conversations from that period were traced to the Wishbone Point facility. Wallglass, in conjunction with volunteer pilots, tracked down and decrypted the damning logs.” 
 
-“This vindicates my many years investigating Rackham’s criminal activities and corruption. More importantly, we have proved that [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] is at risk of electing a pirate lord as its president.” 
+“This vindicates my many years investigating Rackham’s criminal activities and corruption. More importantly, we have proved that the Federation is at risk of electing a pirate lord as its president.” 
 
 Vox Galactica reporter Patricia Chen covered the story: 
 

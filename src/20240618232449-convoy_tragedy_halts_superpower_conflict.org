@@ -2,7 +2,7 @@
 :ID:       17f6980b-2c85-4409-bfde-be80ad9994cd
 :END:
 #+title: Convoy Tragedy Halts Superpower Conflict
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Convoy Tragedy Halts Superpower Conflict
 
@@ -10,7 +10,7 @@
 
 *Pilots’ Federation ALERT* 
 
-The Empire and [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] have resolved the conflict in Pichch after the accidental loss of anti-xeno supply ships. 
+The Empire and the Federation have resolved the conflict in Pichch after the accidental loss of anti-xeno supply ships. 
 
 Freelance correspondent Karleen Troy reported on events for Vox Galactica: 
 

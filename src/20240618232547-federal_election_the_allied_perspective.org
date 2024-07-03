@@ -2,7 +2,7 @@
 :ID:       9db748c4-74c4-4b76-a461-2f2bae09addc
 :END:
 #+title: Federal Election: The Allied Perspective
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Federal Election: The Allied Perspective
 
@@ -16,7 +16,7 @@ Prime Minister [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74][Edmund Mahon]] deliver
 
 Councillor Nakato Kaine gave a more direct statement to the press: 
 
-“I cannot ignore how [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] has become more authoritarian under Zachary Hudson’s Republican government. It has also coped poorly with internal pressures: the Starship One conspiracy, Jupiter Division’s attempted coup, the secession crisis triggered by the Proactive Detection Bureau’s operation… the list goes on. And yet, Federal democracy is now empowering every individual to elect their leaders. That, at least, is something we in [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] should admire and consider adopting.” 
+“I cannot ignore how the Federation has become more authoritarian under Zachary Hudson’s Republican government. It has also coped poorly with internal pressures: the Starship One conspiracy, Jupiter Division’s attempted coup, the secession crisis triggered by the Proactive Detection Bureau’s operation… the list goes on. And yet, Federal democracy is now empowering every individual to elect their leaders. That, at least, is something we in [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] should admire and consider adopting.” 
 
 Vanya Driscoll, political correspondent for [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][The Alliance]] Tribune, reported: 
 

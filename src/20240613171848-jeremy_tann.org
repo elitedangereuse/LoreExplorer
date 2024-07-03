@@ -2,5 +2,5 @@
 :ID:       510632ce-ce95-4274-92c3-d8982b5f37f2
 :END:
 #+title: Jeremy Tann
-#+filetags: :Individual:
+#+filetags: :Federation:Individual:
 President of [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][The Federation]]

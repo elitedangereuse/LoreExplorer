@@ -2,7 +2,7 @@
 :ID:       8decef3c-7f9c-4c5b-a0a3-a467aeece20d
 :END:
 #+title: Federal System Resists Imperial Takeover
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Federal System Resists Imperial Takeover
 
@@ -20,4 +20,4 @@ Colonel Ernest Harris of the LTT 1935 Confederacy stated:
 
 There was also a message from Captain Axel Cyprian of the L.Y.S Corp: 
 
-“This is a serious setback in our war against the [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] terrorists, who [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] seem eager to protect. Nevertheless, for all those courageous pilots who flew on our behalf, we can offer generous payments from Strength of Purpose.”
+“This is a serious setback in our war against the [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] terrorists, who the Federation seem eager to protect. Nevertheless, for all those courageous pilots who flew on our behalf, we can offer generous payments from Strength of Purpose.”

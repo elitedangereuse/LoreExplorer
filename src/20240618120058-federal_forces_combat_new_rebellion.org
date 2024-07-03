@@ -2,7 +2,7 @@
 :ID:       908f860d-944f-4053-ac78-a83f28155225
 :END:
 #+title: Federal Forces Combat New Rebellion
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Federal Forces Combat New Rebellion
 
@@ -10,13 +10,13 @@
 
 *Pilots Federation ALERT* 
 
-In the Kuwembaa system, [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] is fighting to prevent further factions from declaring independence. 
+In the Kuwembaa system, the Federation is fighting to prevent further factions from declaring independence. 
 
-New Kuwembaa Labour has broken ties with [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] in protest against the government’s civil surveillance programme. 
+New Kuwembaa Labour has broken ties with the Federation in protest against the government’s civil surveillance programme. 
 
 Li Chotep for Equality, a local Federal faction, has been tasked to degrade the rebelling faction’s military strength. President [[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][Zachary Hudson]] made a brief public announcement: 
 
-“I call upon all Federal auxiliaries to aid in this conflict. The reputation of [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] cannot be so easily tarnished by such criminal action.” 
+“I call upon all Federal auxiliaries to aid in this conflict. The reputation of the Federation cannot be so easily tarnished by such criminal action.” 
 
 Governor Sonal Mishra, the leader of New Kuwembaa Labour, also requested assistance: 
 

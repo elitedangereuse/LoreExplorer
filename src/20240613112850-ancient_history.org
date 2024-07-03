@@ -2,7 +2,7 @@
 :ID:       e76dadf3-6527-4067-ac08-f75441af892e
 :END:
 #+title: Ancient History
-#+filetags: :beacon:
+#+filetags: :Federation:beacon:
 * 0165 Ancient History
 [[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]]  
 
@@ -18,7 +18,7 @@ colonies on Mars and the Moon became truly permanent and viable.
 
 After the war, the dominant power was the United States of the
 Americas, and as the remaining other countries joined it over the next
-few decades, it was renamed [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] of the United States and
+few decades, it was renamed the Federation of the United States and
 later "[[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][The Federation]]" as the implied reference to one of the pre-war
 powers was a block to the remaining countries joining it. It had a
 constitution and laws derived from the earlier powers, but much

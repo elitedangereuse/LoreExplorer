@@ -2,7 +2,7 @@
 :ID:       ba066b05-b413-4255-b2d0-d5e101864b0c
 :END:
 #+title: Hudson Attempts to Remove Presidential Limit
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Hudson Attempts to Remove Presidential Limit
 
@@ -16,7 +16,7 @@ Secretary of State Lana Berkovich delivered the proposal to Congress:
 
 “We live in extraordinary times, and all signs point to further challenges in the coming years. Our people deserve a steady hand at the helm rather than being forced to change political course, especially with the tempestuous developments found within our neighbouring superpowers.” 
 
-“It is therefore in the public interest that we temporarily suspend the arbitrary eight-year limitation, to allow President Hudson to continue steering [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] through the coming storms.” 
+“It is therefore in the public interest that we temporarily suspend the arbitrary eight-year limitation, to allow President Hudson to continue steering the Federation through the coming storms.” 
 
 Shadow President [[id:b9fe58a3-dfb7-480c-afd6-92c3be841be7][Felicia Winters]] condemned the proposal: 
 

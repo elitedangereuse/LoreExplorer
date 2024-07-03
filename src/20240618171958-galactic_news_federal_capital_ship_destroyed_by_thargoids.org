@@ -2,15 +2,15 @@
 :ID:       6d22ab1a-4990-443a-993c-e455a80619ee
 :END:
 #+title: Galactic News: Federal Capital Ship Destroyed by Thargoids
-#+filetags: :3303:galnet:
+#+filetags: :Federation:3303:galnet:
 
 * Galactic News: Federal Capital Ship Destroyed by Thargoids
 
 /16 Sep 3303/
 
-Over the past few months, several reports have surfaced of Federal convoys coming under fire in the Maia system. While circumstantial evidence strongly suggested [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] involvement, [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] declined to comment, saying only that the matter was “under investigation”. 
+Over the past few months, several reports have surfaced of Federal convoys coming under fire in the Maia system. While circumstantial evidence strongly suggested [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] involvement, the Federation declined to comment, saying only that the matter was “under investigation”. 
 
-But fresh reports indicate that another attack, resulting in the loss of a Farragut-class Battlecruiser and a number of other vessels, has recently taken place. In a galaxy-wide announcement, [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] confirmed that the attack was perpetrated by [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Interceptor-class vessels, as corroborated by those who survived the assault. 
+But fresh reports indicate that another attack, resulting in the loss of a Farragut-class Battlecruiser and a number of other vessels, has recently taken place. In a galaxy-wide announcement, the Federation confirmed that the attack was perpetrated by [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Interceptor-class vessels, as corroborated by those who survived the assault. 
 
 Chief of Federal Security Admiral [[id:7bca1ccd-649e-438a-ae56-fb8ca34e6440][Aden Tanner]] issued the following statement: 
 

@@ -3,7 +3,7 @@
 :ROAM_REFS: https://cms.zaonce.net/en-GB/jsonapi/node/galnet_article/49ffee89-da31-445e-a322-39f2acd6405b?resourceVersion=id%3A4932
 :END:
 #+title: Conflict Between Federal Forces and Jupiter Division
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Conflict Between Federal Forces and Jupiter Division
 
@@ -21,7 +21,7 @@ The self-appointed Supreme Executive Rochester declared:
 
 Director Theodore Sullivan of the Silver Legal Group announced: 
 
-“We will not tolerate these criminals illegally controlling this system. Once victory is won, [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] will be able to bring Rochester to justice.” 
+“We will not tolerate these criminals illegally controlling this system. Once victory is won, the Federation will be able to bring Rochester to justice.” 
 
 Jupiter Division has offered generous rewards to any pilots willing to help secure its presence in the HIP 54530 system. The Silver Legal Group has asked Federal auxiliaries to support its efforts to degrade Jupiter Division’s military force. 
 

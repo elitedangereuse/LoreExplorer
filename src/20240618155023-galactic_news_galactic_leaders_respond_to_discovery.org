@@ -2,7 +2,7 @@
 :ID:       82185a59-dbb6-4b1a-a5a2-8d5f09eb021e
 :END:
 #+title: Galactic News: Galactic Leaders Respond to Discovery
-#+filetags: :Empire:3302:galnet:
+#+filetags: :Federation:Empire:3302:galnet:
 
 * Galactic News: Galactic Leaders Respond to Discovery
 
@@ -16,7 +16,7 @@ Speaking from the Imperial Palace on Capitol, Emperor [[id:34f3cfdd-0536-40a9-87
 
 Meanwhile, Federal President [[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][Zachary Hudson]] released a statement from his office at the White House on Mars: 
 
-"Like many of you, I have watched this story unfold with mounting astonishment. I want to assure all Federal citizens – and, indeed, all members of the galactic community – that [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] is ready for whatever lies ahead." 
+"Like many of you, I have watched this story unfold with mounting astonishment. I want to assure all Federal citizens – and, indeed, all members of the galactic community – that the Federation is ready for whatever lies ahead." 
 
 Alliance Prime Minister [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74][Edmund Mahon]] struck a more measured tone in his statement: 
 

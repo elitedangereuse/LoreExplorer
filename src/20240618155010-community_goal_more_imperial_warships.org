@@ -2,7 +2,7 @@
 :ID:       1bf59259-e0ab-4993-a428-1b49e4f011af
 :END:
 #+title: Community Goal: More Imperial Warships
-#+filetags: :Empire:3302:galnet:
+#+filetags: :Federation:Empire:3302:galnet:
 
 * Community Goal: More Imperial Warships
 
@@ -12,9 +12,9 @@ The latest development in the ongoing Federal-Imperial conflict takes the form o
 
 In a candid statement, Admiral Patreus said: 
 
-"We cannot stand idly by while [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] attempts to establish a monopoly over the meta-alloys. And if the Empire does not oppose the Federation, who will?" 
+"We cannot stand idly by while the Federation attempts to establish a monopoly over the meta-alloys. And if the Empire does not oppose the Federation, who will?" 
 
-"So as long as [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] continues to expand its navy, we will continue to match it, ship for ship." 
+"So as long as the Federation continues to expand its navy, we will continue to match it, ship for ship." 
 
 The Empire has placed an open order for supplies and has authorised the Morai Nobles to reward pilots who deliver autofabricators, tantalum and superconductors to van de Hulst Vision in the Morai system. 
 

@@ -2,7 +2,7 @@
 :ID:       c6931310-2aa7-47ef-9216-3fe3a456aca8
 :END:
 #+title: Emperor Arissa Lavigny-Duval Expresses Gratitude
-#+filetags: :3301:galnet:
+#+filetags: :Federation:3301:galnet:
 
 * Emperor [[id:34f3cfdd-0536-40a9-8732-13bf3a5e4a70][Arissa Lavigny-Duval]] Expresses Gratitude
 
@@ -10,6 +10,6 @@
 
 Last week, Emperor [[id:34f3cfdd-0536-40a9-8732-13bf3a5e4a70][Arissa Lavigny-Duval]] invited galactic citizens to deliver gifts in honour of her forthcoming coronation. The response was enthusiastic, resulting in hundreds of pilots flocking to the Achenar system to deliver slaves to Dawes Hub. In a statement, the Emperor expressed her gratitude to those who responded to the request: 
 
-"I am delighted with the reaction to my appeal. The fact that pilots affiliated with [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] and Alliance responded to my request fills me with hope for a future of peaceful exchange and cooperation." 
+"I am delighted with the reaction to my appeal. The fact that pilots affiliated with the Federation and Alliance responded to my request fills me with hope for a future of peaceful exchange and cooperation." 
 
 Pilots who took part in the event were offered discounts on Imperial ships, as well as being granted access to vessels that would ordinarily require a rank in the Imperial Navy.

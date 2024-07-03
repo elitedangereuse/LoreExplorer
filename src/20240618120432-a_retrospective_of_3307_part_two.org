@@ -2,7 +2,7 @@
 :ID:       9864ab6c-404a-4cf0-9a76-d80378ee89a1
 :END:
 #+title: A Retrospective of 3307 (Part Two)
-#+filetags: :Empire:galnet:
+#+filetags: :Federation:Empire:galnet:
 
 * A Retrospective of 3307 (Part Two)
 
@@ -10,7 +10,7 @@
 
 Continuing a series of articles by historian [[id:e13ec234-b603-4a29-870d-2b87410195ea][Sima Kalhana]] that look at the most newsworthy events during the past year. 
 
-“April 3307 saw the creation of the Federation’s Proactive Detection Bureau in reaction to the Nine Martyrs bombings. This organisation monitored all public and private communications for evidence of terrorists, to prevent similar attacks in future. But its highly controversial nature would soon present [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] with new challenges.” 
+“April 3307 saw the creation of the Federation’s Proactive Detection Bureau in reaction to the Nine Martyrs bombings. This organisation monitored all public and private communications for evidence of terrorists, to prevent similar attacks in future. But its highly controversial nature would soon present the Federation with new challenges.” 
 
 “ACT’s investigation led them to the Neo-Marlinist Order of Mudhrid, which had helped deliver the caustic enzyme bombs to their nine targets. The faction’s defeat was an early victory against the NMLA, but much of the organisation remained a mystery.” 
 

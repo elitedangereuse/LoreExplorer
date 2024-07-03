@@ -2,7 +2,7 @@
 :ID:       324e2421-f3e5-4053-a9ec-158fc70245d3
 :END:
 #+title: Defence and Delivery Requests for the Sirius System
-#+filetags: :Empire:galnet:
+#+filetags: :Federation:Empire:galnet:
 
 * Defence and Delivery Requests for the Sirius System
 
@@ -16,7 +16,7 @@ The diplomatic conference is now entering its second week, with superpower and i
 
 Sirius Corporation’s CEO [[id:f0655b3a-aca9-488f-bdb3-c481a42db384][Li Yong-Rui]] announced: 
 
-“Our thanks to [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] for organising additional security against unexpected numbers of vessels this past week. Anarchic extremists, political enemies and opportunistic criminals all attempted to disrupt the conference to no avail. Pilots who helped maintain the peace can collect their rewards at the Spirit of Laelaps.” 
+“Our thanks to the Federation for organising additional security against unexpected numbers of vessels this past week. Anarchic extremists, political enemies and opportunistic criminals all attempted to disrupt the conference to no avail. Pilots who helped maintain the peace can collect their rewards at the Spirit of Laelaps.” 
 
 “For the coming week, we are working with the Empire to maintain the security operation by offering bounties on all wanted ships. The Empire will also pay generously for extra supplies of animal meat, coffee, fish, fruit and vegetables, and wine that are delivered to the Spirit of Laelaps.” 
 

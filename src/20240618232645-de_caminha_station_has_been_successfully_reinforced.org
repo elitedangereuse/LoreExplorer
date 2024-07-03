@@ -2,7 +2,7 @@
 :ID:       0dc91992-a186-4e1b-9562-7f61b60b6e9c
 :END:
 #+title: De Caminha Station Has Been Successfully Reinforced
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * De Caminha Station Has Been Successfully Reinforced
 
@@ -20,4 +20,4 @@ Jerome Archer offered his thanks in an announcement this morning:
 
 “Or is she a president who puts her ideals before the lives of her people?” 
 
-“I once again urge congress to reconsider allowing [[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][Zachary Hudson]] another term as President of [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] in light of Winters’ ongoing, conspicuous, absence.”
+“I once again urge congress to reconsider allowing [[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][Zachary Hudson]] another term as President of the Federation in light of Winters’ ongoing, conspicuous, absence.”

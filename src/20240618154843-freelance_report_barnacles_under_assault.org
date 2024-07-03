@@ -2,7 +2,7 @@
 :ID:       2373bca4-7241-4de4-a701-a23f91bdbd81
 :END:
 #+title: Freelance Report: Barnacles under Assault
-#+filetags: :3302:galnet:
+#+filetags: :Federation:3302:galnet:
 
 * Freelance Report: Barnacles under Assault
 
@@ -10,7 +10,7 @@
 
 The recent meta-alloy rush has left many of the barnacles in the Pleiades Nebula barren. 
 
-As many scramble to meet the high demand for the material, it seems [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] lacks the resources to provide adequate defence. 
+As many scramble to meet the high demand for the material, it seems the Federation lacks the resources to provide adequate defence. 
 
 Federal vessels have reportedly transported huge quantities of meta-alloys from the Merope system, suggesting that it may be partly responsible for the drought. 
 

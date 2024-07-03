@@ -2,7 +2,7 @@
 :ID:       363af5cb-45e3-41cd-a533-569788c737ee
 :END:
 #+title: Galactic News: The [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Situation
-#+filetags: :3303:galnet:
+#+filetags: :Federation:3303:galnet:
 
 * Galactic News: The [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Situation
 
@@ -10,7 +10,7 @@
 
 Although the first hints of the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] presence began with the discovery of Unknown Artefacts in 3301, the current chapter in the Thargoid story started last year with the discovery of alien shipwrecks in the Pleiades Nebula. A few months later, in January 3303, the first interdiction from a Thargoid ship was reported. 
 
-In May, accounts surfaced of attacks in the Maia system against Federal vessels. Eyewitnesses claimed to have seen [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] ships at the sites, but [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] refused to comment on the possibility of Thargoid involvement. 
+In May, accounts surfaced of attacks in the Maia system against Federal vessels. Eyewitnesses claimed to have seen [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] ships at the sites, but the Federation refused to comment on the possibility of Thargoid involvement. 
 
 A key discovery was made a few weeks later, when massive [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] structures were found in a number of systems. Several of these structures were discovered to contain functional Thargoid technology. 
 

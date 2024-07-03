@@ -2,7 +2,7 @@
 :ID:       0d05fb04-f655-4c70-9693-b3b9b47fd25d
 :END:
 #+title: Federal Citizens Approve Government Scrutiny
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Federal Citizens Approve Government Scrutiny
 
@@ -20,4 +20,4 @@ Shadow President Winters’s efforts to distribute methods of blocking the PDB r
 
 Rhiannon Grady, director of the civil rights organisation Advocacy, told the media: 
 
-“Since the vast majority of citizens will never receive a visit from the FIA for their activities, the public has no sense of what they have lost. But history teaches us how hard it is to regain freedoms once you’ve given them away. [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][The Federation]] has taken a large step toward becoming an interstellar police state with little regard for the individual.”
+“Since the vast majority of citizens will never receive a visit from the FIA for their activities, the public has no sense of what they have lost. But history teaches us how hard it is to regain freedoms once you’ve given them away. The Federation has taken a large step toward becoming an interstellar police state with little regard for the individual.”

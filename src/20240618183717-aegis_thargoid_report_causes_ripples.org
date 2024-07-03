@@ -2,7 +2,7 @@
 :ID:       755cee50-d9bb-48cd-8000-cc23be27e899
 :END:
 #+title: Aegis [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Report Causes Ripples
-#+filetags: :3304:galnet:
+#+filetags: :Federation:3304:galnet:
 
 * Aegis [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Report Causes Ripples
 
@@ -12,7 +12,7 @@ A recent report from Aegis, outlining the Thargoids’ history and their interac
 
 A brief statement was released by Federal President Zachary Hudson:  
 
-“It is now clear that there is no reasoning with this alien menace. [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][The Federation]] remains dedicated to wiping out any threat to our citizens.” 
+“It is now clear that there is no reasoning with this alien menace. The Federation remains dedicated to wiping out any threat to our citizens.” 
 
 Imperial Admiral [[id:75daea85-5e9f-4f6f-a102-1a5edea0283c][Denton Patreus]] adopted a similar viewpoint:  
 

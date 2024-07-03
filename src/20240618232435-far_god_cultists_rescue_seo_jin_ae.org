@@ -2,7 +2,7 @@
 :ID:       72411755-74fd-46c7-8f4c-9c81e364930b
 :END:
 #+title: Far God Cultists Rescue Seo Jin-ae
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Far God Cultists Rescue Seo Jin-ae
 
@@ -20,4 +20,4 @@ Professor [[id:c2623368-19b0-4995-9e35-b8f54f741a53][Alba Tesreau]] gave a state
 
 “I am very grateful to the First Apostle for her help. The Testament’s timely intervention routed several unidentified hostile ships that were hunting Seo Jin-ae. Once she has completed a medical assessment, we hope to learn more about her recent findings.” 
 
-Congressman Tom Gillespie has instructed Aegis not to make formal contact with Far God cultists, whose faith is outlawed in [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] as well as the Empire. A week’s clemency has been issued in recognition of Seo’s safe return, but the Testament’s presence deep in Federal territory is likely to irritate President Hudson.
+Congressman Tom Gillespie has instructed Aegis not to make formal contact with Far God cultists, whose faith is outlawed in the Federation as well as the Empire. A week’s clemency has been issued in recognition of Seo’s safe return, but the Testament’s presence deep in Federal territory is likely to irritate President Hudson.

@@ -2,7 +2,7 @@
 :ID:       54717576-241e-4d4e-9359-2420ffba77cb
 :END:
 #+title: Galactic News: Halsey Stages Anti-War Protest
-#+filetags: :Empire:3303:galnet:
+#+filetags: :Federation:Empire:3303:galnet:
 
 * Galactic News: Halsey Stages Anti-War Protest
 
@@ -16,8 +16,8 @@ A number of high-profile speakers and activists addressed the crowd, although Al
 
 In an address to the crowd, Halsey said: 
 
-“As a 20th Century historian once wrote, ‘The underlying reason for war is always economic.’ This conflict has nothing to do with freedom or liberation – it is about resources. And I believe enough people have died to line the pockets of already wealthy individuals in [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] and the Empire.” 
+“As a 20th Century historian once wrote, ‘The underlying reason for war is always economic.’ This conflict has nothing to do with freedom or liberation – it is about resources. And I believe enough people have died to line the pockets of already wealthy individuals in the Federation and the Empire.” 
 
 “I speak now directly to President [[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][Zachary Hudson]] and Emperor Arissa Lavigny-Duval: It is not too late for you to listen to reason.” 
 
-Neither the Empire nor [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] elected to respond to Halsey’s statement.
+Neither the Empire nor the Federation elected to respond to Halsey’s statement.

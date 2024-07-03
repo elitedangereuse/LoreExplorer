@@ -2,7 +2,7 @@
 :ID:       2260bfcc-8bb4-437f-9e1d-f46167e84577
 :END:
 #+title: Pegasi Intervention Sparks Debate at Home
-#+filetags: :Empire:3301:galnet:
+#+filetags: :Federation:Empire:3301:galnet:
 
 * Pegasi Intervention Sparks Debate at Home
 
@@ -16,7 +16,7 @@ Discussion of the the highly publicised plight of Imperial citizens living in vo
 
 Speaking anonymously one commander said: "I don't understand why the Legion is wasting time with a foreign backwater like the Pegasi Sector. I'd never even heard of it before. We've got our own problems with corrupt Dictatorships and greedy Corporations right here at home. We need to clean up the Empire before we try cleaning up the whole Galaxy!". 
 
-Anger erupted when it was revealed that diplomatic overtures had been made towards [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] in regards to confronting the Kumo Crew. 
+Anger erupted when it was revealed that diplomatic overtures had been made towards the Federation in regards to confronting the Kumo Crew. 
 
 It was later made clear that Lavigny's Legion itself took no part in any talks with envoys of Shadow President [[id:b9fe58a3-dfb7-480c-afd6-92c3be841be7][Felicia Winters]] or President Zachary Hudson. A diplomat for [[id:b402bbe3-5119-4d94-87ee-0ba279658383][Aisling Duval]]'s Aisling's Angels confirmed their own attendance at talks. 
 

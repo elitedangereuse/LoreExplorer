@@ -2,7 +2,7 @@
 :ID:       9d259702-63f5-4290-80aa-f46e3235de9b
 :END:
 #+title: A Retrospective of 3308 (Part Three)
-#+filetags: :Empire:galnet:
+#+filetags: :Federation:Empire:galnet:
 
 * A Retrospective of 3308 (Part Three)
 
@@ -16,7 +16,7 @@ The concluding article in a series by historian Sima Kalhana, providing an overv
 
 “Professor [[id:c2623368-19b0-4995-9e35-b8f54f741a53][Alba Tesreau]] continued to call for Aegis to be reinstated, and held a symposium in October to outline her plans. This was gatecrashed by a woman named Seo Jin-ae, formerly Subject D-2 in Azimuth’s notorious Project Seraph experiments. Her neural link to a [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] vessel provided a degree of insight into the aliens’ behaviour. With Tesreau’s help, she later claimed the rogue signal sources were of Thargoid origin, summoned in response to events in HIP 22460.” 
 
-“The Far God cult was overjoyed by the Thargoids’ recent victory, but its radical True Chapters sect was accused of sharing classified media from HIP 22460 which included the ‘Thargoid roar’. [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][The Federation]] outlawed the religion, forcing the True Chapters megaships to flee.” 
+“The Far God cult was overjoyed by the Thargoids’ recent victory, but its radical True Chapters sect was accused of sharing classified media from HIP 22460 which included the ‘Thargoid roar’. The Federation outlawed the religion, forcing the True Chapters megaships to flee.” 
 
 “By November, it was confirmed that all eight rogue signal sources were approaching the core systems. Congressman Dalton Chase arranged for the xeno-peace movement to outfit the Kingfisher megaship, which was sent to meet and communicate with one of the so-called ‘stargoids’. It was swiftly destroyed, establishing a grim prelude for the bloodshed to follow.” 
 

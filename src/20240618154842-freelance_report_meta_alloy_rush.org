@@ -2,13 +2,13 @@
 :ID:       a7fe6cd5-6202-4b89-8d5b-6fc5ae0089c4
 :END:
 #+title: Freelance Report: Meta-Alloy Rush
-#+filetags: :Empire:3302:galnet:
+#+filetags: :Federation:Empire:3302:galnet:
 
 * Freelance Report: Meta-Alloy Rush
 
 /18 Jul 3302/
 
-As [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] and Empire attempt to lay claim to the organic structures known as barnacles, the demand for meta-alloys has skyrocketed. Many starports have begun placing orders for the material as a hedge against potential malfunctions. 
+As the Federation and Empire attempt to lay claim to the organic structures known as barnacles, the demand for meta-alloys has skyrocketed. Many starports have begun placing orders for the material as a hedge against potential malfunctions. 
 
 Vernon Trask, lead engineer at Bauschinger City, said: "Some stations have been defunct for nearly a year because of those corrosive Artefacts. We can't afford to be out of commission that long." 
 

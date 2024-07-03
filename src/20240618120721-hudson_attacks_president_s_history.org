@@ -2,7 +2,7 @@
 :ID:       01f0c2cf-a31b-4f40-9d59-1b71f5e2a5c3
 :END:
 #+title: Hudson Attacks President’s History
-#+filetags: :3301:galnet:
+#+filetags: :Federation:3301:galnet:
 
 * Hudson Attacks President’s History
 
@@ -12,6 +12,6 @@ Shadow President Hudson held a press conference on Mars earlier today to address
 
 “President Halsey has proven time and time again that she is completely unfit for office. She complains about our youth wasting away in legally sanctioned virtual realities, and then off the back of shaky intelligence reports, orders the death of thousands of innocent Federal civilians trying to escape a nightmarish reality of her own making.” 
 
-“We need a commander-in-chief who understands the galaxy we live in. A leader who can make [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] the shining beacon it was always destined to be. A president we can trust to do the right thing.” 
+“We need a commander-in-chief who understands the galaxy we live in. A leader who can make the Federation the shining beacon it was always destined to be. A president we can trust to do the right thing.” 
 
 “So to answer the question you’ve all been asking. Yes. I will be seeking support from Congress to remove President Halsey from power. How many more disasters can she be allowed to lead us through? As far I’m concerned, her removal can’t come fast enough.”

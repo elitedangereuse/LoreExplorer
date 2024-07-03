@@ -2,13 +2,13 @@
 :ID:       c1b7d52b-189e-441b-86da-82e05527a7fe
 :END:
 #+title: Corporatists Stalled by Jupiter Division’s Defeat
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Corporatists Stalled by Jupiter Division’s Defeat
 
 /21 Jun 3307/
 
-The fall of Jupiter Division has undermined the popular movement calling for [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] to be governed by corporations. 
+The fall of Jupiter Division has undermined the popular movement calling for the Federation to be governed by corporations. 
 
 Conrad Sterling, political journalist for Vox Galactica, reported on developments: 
 

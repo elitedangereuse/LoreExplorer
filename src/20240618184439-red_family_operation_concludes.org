@@ -2,7 +2,7 @@
 :ID:       7c3b8d89-efd5-4b4e-8e03-a6dc50bb9305
 :END:
 #+title: Red Family Operation Concludes
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Red Family Operation Concludes
 
@@ -14,7 +14,7 @@ As observed by Ethan Takahashi, crime correspondent for The Federal Times:
 
 “In terms of effective action, this has to be considered a great victory for the FIA. A series of coordinated strikes against the Red Family delivered a mortal blow, and the cartel’s super-addictive narcotic was destroyed before it could be mass-produced.” 
 
-“While kingpin Oberon Church remains at liberty, it is unlikely that he could ever rebuild his empire. Still, losing one of the most wanted criminals in [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] must be frustrating for the agency.” 
+“While kingpin Oberon Church remains at liberty, it is unlikely that he could ever rebuild his empire. Still, losing one of the most wanted criminals in the Federation must be frustrating for the agency.” 
 
 Internal investigations continue regarding Jan Sandoval’s death in custody. No conclusive evidence has been uncovered, but many believe that Sandoval could not be reached without the assistance of FIA personnel. 
 

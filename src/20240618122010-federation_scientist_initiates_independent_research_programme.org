@@ -2,13 +2,13 @@
 :ID:       2f923d49-26dd-4d48-9a08-28366a02c8fa
 :END:
 #+title: Federation Scientist Initiates Independent Research Programme
-#+filetags: :3301:galnet:
+#+filetags: :Federation:3301:galnet:
 
 * Federation Scientist Initiates Independent Research Programme
 
 /26 Oct 3301/
 
-Ishmael Palin, [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] scientist tasked with studying the anomalous extraterrestrial objects discovered earlier this year, has announced his decision to resume his research. This development follows the termination of an earlier, Federation-backed research programme led by Professor Palin. 
+Ishmael Palin, the Federation scientist tasked with studying the anomalous extraterrestrial objects discovered earlier this year, has announced his decision to resume his research. This development follows the termination of an earlier, Federation-backed research programme led by Professor Palin. 
 
 The decision to restart the programme constitutes a defiant move on the part of Professor Palin, who declined to make a public statement at the time of the original project's cancellation. The new research effort will be based at Christian Dock in the Nganji System, close to the region of space where the objects were discovered. 
 

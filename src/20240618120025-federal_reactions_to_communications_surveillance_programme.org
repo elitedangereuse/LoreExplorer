@@ -2,13 +2,13 @@
 :ID:       253eb159-8980-44d3-b8fb-5385960faf95
 :END:
 #+title: Federal Reactions to Communications Surveillance Programme
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Federal Reactions to Communications Surveillance Programme
 
 /13 Apr 3307/
 
-There have been mixed responses to the Proactive Detection Bureau, which monitors private communications in [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] for terrorist activity. 
+There have been mixed responses to the Proactive Detection Bureau, which monitors private communications in the Federation for terrorist activity. 
 
 Mainstream newsfeeds reported on the situation: 
 

@@ -2,7 +2,7 @@
 :ID:       2562c426-7127-470e-b7a1-47d65d1ff926
 :END:
 #+title: Pleiades Resource Enterprise Victorious
-#+filetags: :beacon:
+#+filetags: :Federation:beacon:
 * 0671 Pleiades Resource Enterprise Victorious
 [[id:af205c6d-cb6f-4d7b-bcdd-42dc2999c376][Maia]]  
 

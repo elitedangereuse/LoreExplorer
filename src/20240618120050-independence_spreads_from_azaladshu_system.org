@@ -2,7 +2,7 @@
 :ID:       e9f7f287-0841-4ab8-97c1-450965836718
 :END:
 #+title: Independence Spreads from Azaladshu System
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Independence Spreads from Azaladshu System
 
@@ -22,6 +22,6 @@ The situation has caused turmoil in Congress, with President [[id:02322be1-fc02-
 
 Shadow President [[id:b9fe58a3-dfb7-480c-afd6-92c3be841be7][Felicia Winters]] responded to accusations that she orchestrated the seceding factions: 
 
-“I support their rejection of our harsh surveillance laws, but not their methods of protest. I have no wish to see [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] lose member systems for any reason.” 
+“I support their rejection of our harsh surveillance laws, but not their methods of protest. I have no wish to see the Federation lose member systems for any reason.” 
 
 Pilots who supported the Azaladshu Free faction can collect their rewards at Eratosthenes Ring station.

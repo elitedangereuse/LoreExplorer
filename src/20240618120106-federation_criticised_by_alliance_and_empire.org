@@ -2,7 +2,7 @@
 :ID:       82c28610-7bfd-42e1-badc-69b5bc5311db
 :END:
 #+title: Federation Criticised by Alliance and Empire
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Federation Criticised by Alliance and Empire
 
@@ -22,4 +22,4 @@ Senator Denton Patreus’s comments were featured by Eye on Achenar:
 
 Federal newsfeed Sol Today published a response by Vice President Jerome Archer: 
 
-“Both [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] and Empire have chosen a reactionary approach to terrorism, whereas [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] has made great strides in intelligence-gathering and preventative action. I’m confident that the Proactive Detection Bureau will come to be accepted as one of the galaxy’s greatest innovations.”
+“Both [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] and Empire have chosen a reactionary approach to terrorism, whereas the Federation has made great strides in intelligence-gathering and preventative action. I’m confident that the Proactive Detection Bureau will come to be accepted as one of the galaxy’s greatest innovations.”

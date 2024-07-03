@@ -2,7 +2,7 @@
 :ID:       17c451fa-f955-4ecb-868d-62f014618237
 :END:
 #+title: Neo-Marlinists Seek Sanctuary at Marlinist Colonies
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Neo-Marlinists Seek Sanctuary at Marlinist Colonies
 
@@ -14,7 +14,7 @@ The faction was recently defeated by Imperial forces in the Mudhrid system, afte
 
 Landgrave Delacroix and his loyalists fled aboard the Steel Majesty megaship to the Hyades Sector RO-P b6-2 system, which is controlled by the Marlinism Reformation Party. Minister Aaron Whyte, its elected leader, announced: 
 
-“Not every individual within the Neo-Marlinist Order of Mudhrid is an [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] activist. We have the right to offer asylum to protect innocents from persecution, just as [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] protected us when we were refugees.” 
+“Not every individual within the Neo-Marlinist Order of Mudhrid is an [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] activist. We have the right to offer asylum to protect innocents from persecution, just as the Federation protected us when we were refugees.” 
 
 The Empire has officially demanded that the Neo-Marlinists be apprehended, with Senator Patreus claiming “The Landgrave of Mudhrid is a traitor and a war criminal.” 
 

@@ -2,13 +2,13 @@
 :ID:       e90d7888-bd4a-4efa-8a3a-5777821c0e2e
 :END:
 #+title: When Worlds Collide
-#+filetags: :3301:galnet:
+#+filetags: :Federation:3301:galnet:
 
 * When Worlds Collide
 
 /10 Apr 3301/
 
-Reports are coming in from all over [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] of a resurgence in nightclubs catering to under-40s. Analysts are at a loss to explain why so many Federal youths have suddenly decided to abandon their artificial realities in favour of physical content, but the numbers don't lie. 
+Reports are coming in from all over the Federation of a resurgence in nightclubs catering to under-40s. Analysts are at a loss to explain why so many Federal youths have suddenly decided to abandon their artificial realities in favour of physical content, but the numbers don't lie. 
 
 Over 30% of under-40s who responded to a recent GalNet poll said that they'd visited a physical nightclub in the last month, compared to just 12% during the same period last year. 
 

@@ -2,7 +2,7 @@
 :ID:       5d6357c1-6d68-4467-8590-1b591294d8a9
 :END:
 #+title: Galactic News: The [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] have Returned
-#+filetags: :3303:galnet:
+#+filetags: :Federation:3303:galnet:
 
 * Galactic News: The [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] have Returned
 
@@ -20,6 +20,6 @@ In its story, The Federal Times also posited that the barnacles may be of [[id:0
 
 Meanwhile, the public mood was best summarised by Kelvin Masters, a freelance journalist, who contributed the following to the Rewired news feed: 
 
-“Look at the history books. Every time we’ve met the Thargoids, there’s bloodshed. We need to prepare for the worst. I mean, they’ve already attacked human ships! What kind of contingencies do the superpowers have in place? And what do we know about the Thargoids’ capabilities? What kind of weapons do they have? What kind of defences? And why did [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] take Palin’s data? Were they trying to keep it quiet? These questions need to be answered!” 
+“Look at the history books. Every time we’ve met the Thargoids, there’s bloodshed. We need to prepare for the worst. I mean, they’ve already attacked human ships! What kind of contingencies do the superpowers have in place? And what do we know about the Thargoids’ capabilities? What kind of weapons do they have? What kind of defences? And why did the Federation take Palin’s data? Were they trying to keep it quiet? These questions need to be answered!” 
 
 The leaders of the galaxy’s three superpowers are expected to make statements shortly.

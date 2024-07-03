@@ -2,4 +2,5 @@
 :ID:       3d268496-1d95-49bc-aca6-49d16a4337c8
 :END:
 #+title: Federal Navy
+#+filetags: :Federation:
 [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][The Federation]]
