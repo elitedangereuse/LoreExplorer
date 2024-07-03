@@ -2,20 +2,39 @@
 :ID:       0f9fcb7e-ccf8-4a17-ba21-d95c0b5e0ace
 :END:
 #+title: Mystery in Upaniklis
-#+filetags: :galnet:
+#+filetags: :Federation:3305:3308:galnet:
 
 * Mystery in Upaniklis
 
 /20 May 3308/
 
-A dredger clan is continuing to examine the abandoned generation ship Golconda in the Upaniklis system. 
+A [[id:eb7f4d60-9116-4d68-a0c2-13ac1e74d72e][dredger clan]] is continuing to examine the [[id:a2db0282-aff7-4235-adf9-0aa79b018623][abandoned]] [[id:951f3d20-c3aa-41cc-ba58-cc7d3a5a1d07][generation ship]]
+[[id:fce1d147-f900-41ec-a92c-3ce3d1cae641][Golconda]] in the [[id:361a46f2-79c4-40bf-9781-4066763914f3][Upaniklis]] system.
 
-The Golconda was placed in orbit around Upaniklis B 3 in 3305 when its inhabitants migrated to the nearby outpost Forester’s Choice. Over the past week there have been reports of smaller craft travelling between the Artificers Clan dredger and the Golconda, but the nomadic tribe has not responded to attempts to communicate. 
+The Golconda was placed in orbit around [[id:240cb7c7-e94f-46b8-bbda-021a0d0ea538][Upaniklis B 3]] in 3305 when its
+inhabitants migrated to the nearby outpost [[id:76792c5b-c253-4b13-bb89-c29a266f2d39][Forester’s Choice]]. Over the
+past week there have been reports of smaller craft travelling between
+the [[id:c790ca5d-65c5-4e8e-a278-7fbd11a5f092][Artificers Clan]] dredger and the Golconda, but the nomadic tribe
+has not responded to attempts to communicate.
 
-Commander Javi Alvarado, a regular visitor to the system, submitted his observations to Vox Galactica: 
+Commander [[id:f5a998c2-26d4-4318-8f34-d85846b71d92][Javi Alvarado]], a regular visitor to the system, submitted
+his observations to [[id:4ab0f53c-0b85-43a3-83ca-b9e88c0db30e][Vox Galactica]]:
 
-“I was convinced that these scavengers were breaking down the Golconda into scrap to feed to their dredger. Or maybe taking over the whole ship to use as a new home. But I haven’t seen any signs of structural damage yet, and it doesn’t look like the Artificers have accessed its habitation areas either. So what are they up to?” 
+“I was convinced that these scavengers were breaking down the Golconda
+into scrap to feed to their dredger. Or maybe taking over the whole
+ship to use as a new home. But I haven’t seen any signs of structural
+damage yet, and it doesn’t look like the Artificers have accessed its
+habitation areas either. So what are they up to?”
 
-“Things are a little weird in Forester’s Choice right now. It doesn’t seem anywhere near as busy, and many concourse vendors have closed down. There’s almost a kind of religious hush. For centuries their entire existence relied upon the Golconda, and its presence nearby was reassuring. I think seeing outsiders interfere with it has affected them deeply.” 
+“Things are a little weird in Forester’s Choice right now. It doesn’t
+seem anywhere near as busy, and many concourse vendors have closed
+down. There’s almost a kind of religious hush. For centuries their
+entire existence relied upon the Golconda, and its presence nearby was
+reassuring. I think seeing outsiders interfere with it has affected
+them deeply.”
 
-The Federal Diplomatic Corp published an official reminder that Forester’s Choice has partner status with the Federation, adding: “As a micro-society that evolved in isolation, the Golcondan people are legally protected against cultural contamination. We will continue to monitor the Artificer Clan’s activity in the Upaniklis system.”
+The [[id:46ff5046-45e9-402d-93a3-96f9c1e508a3][Federal Diplomatic Corp]] published an official reminder that
+Forester’s Choice has partner status with the Federation, adding: “As
+a micro-society that evolved in isolation, the Golcondan people are
+legally protected against cultural contamination. We will continue to
+monitor the Artificer Clan’s activity in the Upaniklis system.”
