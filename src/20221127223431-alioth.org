@@ -8,7 +8,7 @@
 
 #+begin_quote
 The Alioth system is notable as the home of the
-[[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][Alliance]], one of the galaxy's three superpowers.
+Alliance, one of the galaxy's three superpowers.
 The system was the focus of conflict between the
 [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][Federation]] and the Empire in the 3200s due to
 its tremendous mineral wealth, but the expulsion
@@ -22,7 +22,7 @@ be obtained from the Alioth Independents.
 
 * Description
 Alioth, also known as Epsilon Ursae Majoris, is the capital system of
-[[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]]. It is located in the Core Systems within the Inner Orion
+the Alliance. It is located in the Core Systems within the Inner Orion
 Spur. Access to Alioth is restricted, and the permit can only be
 obtained by becoming Allied with the [[id:d17b2062-68b1-43ea-8852-ab04b591c6ba][Alioth Independents]] minor faction
 in any system where it has a presence.

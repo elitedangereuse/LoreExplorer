@@ -5,7 +5,7 @@
 #+filetags: :Alliance:Individual:Permit:engineer:
 [[file:img/permit.png]]
 [[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]]
-[[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][The Alliance]]
+The Alliance
 
 * Location
 Turner Metallics Inc | [[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]] [Permit required]
