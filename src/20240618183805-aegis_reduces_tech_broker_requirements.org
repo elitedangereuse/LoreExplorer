@@ -2,7 +2,7 @@
 :ID:       c0a612e1-beb0-4702-8d46-0f2b4f94563b
 :END:
 #+title: Aegis Reduces Tech-Broker Requirements
-#+filetags: :3304:galnet:
+#+filetags: :Thargoid:3304:galnet:
 
 * Aegis Reduces Tech-Broker Requirements
 
@@ -12,7 +12,7 @@ Aegis has announced that it will allow technology brokers to reduce their requir
 
 Henrik de Lacerda, a senior engineer at Aegis Research, clarified this development: 
 
-“Aegis is aware that the galactic community has worked incredibly hard to oppose the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] in the core systems. To show our appreciation, we are making it easier for independent pilots to obtain advanced weaponry and hardware.” 
+“Aegis is aware that the galactic community has worked incredibly hard to oppose the Thargoids in the core systems. To show our appreciation, we are making it easier for independent pilots to obtain advanced weaponry and hardware.” 
 
 “We have contacted all registered technology brokers and supplied them with additional funding, resources and manufacturing equipment. As a result, they now need fewer commodities and materials from those purchasing their designs.” 
 

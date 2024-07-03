@@ -1,16 +1,16 @@
 :PROPERTIES:
 :ID:       17d20b92-6d78-42d0-a240-8889754a7adc
 :END:
-#+title: [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] Repulsed by Operation Tyndareus
-#+filetags: :Alliance:galnet:
+#+title: Thargoids Repulsed by Operation Tyndareus
+#+filetags: :Thargoid:Alliance:galnet:
 
-* [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] Repulsed by Operation Tyndareus
+* Thargoids Repulsed by Operation Tyndareus
 
 /13 Oct 3308/
 
 *Pilots’ Federation ALERT* 
 
-Allied forces have successfully defended the Andecavi system from [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] vessels. 
+Allied forces have successfully defended the Andecavi system from Thargoid vessels. 
 
 The defence operation was centred around the megaship Kumiho Sky, which hosted the Alliance and Sirius Corporation’s joint anti-xeno taskforce. A declaration of victory was made by Admiral Nikolas Glass: 
 
@@ -20,6 +20,6 @@ The defence operation was centred around the megaship Kumiho Sky, which hosted t
 
 Prime Minister [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74][Edmund Mahon]] expressed gratitude to all those who took part, remarking that the long delays in making the strategic defence pact a reality “have finally proved to be worthwhile”. 
 
-In response, Councillor Nakato Kaine highlighted reports from witnesses that many [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] vessels withdrew into hyperspace before human forces overwhelmed them. She added:  
+In response, Councillor Nakato Kaine highlighted reports from witnesses that many Thargoid vessels withdrew into hyperspace before human forces overwhelmed them. She added:  
 
-“Would the result in Andecavi have been any different without Sirius Corporation’s involvement? We have seen the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] retreat while several conflicts were still evenly matched, just as in several other systems recently. Did this military pact deliver anything that the ADF could not have achieved alone?”
+“Would the result in Andecavi have been any different without Sirius Corporation’s involvement? We have seen the Thargoids retreat while several conflicts were still evenly matched, just as in several other systems recently. Did this military pact deliver anything that the ADF could not have achieved alone?”

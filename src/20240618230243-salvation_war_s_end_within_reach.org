@@ -2,7 +2,7 @@
 :ID:       caf102e9-fab2-49cb-b294-180eec9e55d1
 :END:
 #+title: Salvation: ‘War’s End Within Reach’
-#+filetags: :galnet:
+#+filetags: :Thargoid:galnet:
 
 * Salvation: ‘War’s End Within Reach’
 
@@ -14,7 +14,7 @@ The message was broadcast across all public channels:
 
 “This is Salvation. The deployment of my anti-xeno superweapons in the Didio, Novas and Sosong systems was highly effective, just as I anticipated. Billions of lives were undoubtedly saved as a result.” 
 
-“Due to support from the Alliance, Empire and Federation, we have made a major breakthrough in utilising Guardian-based technology. Construction of the next generation of superweapons has already begun. These will allow us to deliver a truly overwhelming strike against the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] species.” 
+“Due to support from the Alliance, Empire and Federation, we have made a major breakthrough in utilising Guardian-based technology. Construction of the next generation of superweapons has already begun. These will allow us to deliver a truly overwhelming strike against the Thargoid species.” 
 
 “The end of the war is finally within reach. Those who hold faith in my work will be vindicated, and humanity can at last close the chapter on this existential threat.” 
 

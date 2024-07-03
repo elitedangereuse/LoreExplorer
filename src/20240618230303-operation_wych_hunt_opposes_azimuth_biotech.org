@@ -2,7 +2,7 @@
 :ID:       1b1f5f50-e035-471a-a932-d27b81e54584
 :END:
 #+title: ‘Operation Wych Hunt’ Opposes Azimuth Biotech
-#+filetags: :galnet:
+#+filetags: :Thargoid:galnet:
 
 * ‘Operation Wych Hunt’ Opposes Azimuth Biotech
 
@@ -12,10 +12,10 @@
 
 A coalition of independent Commanders has been formed to destabilise Salvation’s anti-xeno organisation. 
 
-The Alliance, Empire and Federation are providing military backing to Azimuth Biotech – formerly Taurus Mining Ventures – to end the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] threat. Many members of the Pilots’ Federation have also declared their support, but some have organised a resistance movement. 
+The Alliance, Empire and Federation are providing military backing to Azimuth Biotech – formerly Taurus Mining Ventures – to end the Thargoid threat. Many members of the Pilots’ Federation have also declared their support, but some have organised a resistance movement. 
 
 To undermine Azimuth Biotech’s presence in several systems, a series of civil actions and combat strikes are being coordinated under the banner ‘Operation Wych Hunt’. This refers to evidence that suggests Salvation’s real name is Dr Caleb Wycherley, also referred to as ‘the Witch’ in several sources. 
 
-The Commanders are directly protesting against Salvation, claiming he is responsible for numerous illegal activities that resulted in multiple deaths. These include developing the mycoid bioweapon for INRA, Project Seraph’s inhumane experiments to create human interfaces to [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] ships, and the destruction of the Alexandria with the loss of 4,000 crewmembers. As summarised in their mission statement: ‘We do not support a mass murderer. Salvation, we can save ourselves.’ 
+The Commanders are directly protesting against Salvation, claiming he is responsible for numerous illegal activities that resulted in multiple deaths. These include developing the mycoid bioweapon for INRA, Project Seraph’s inhumane experiments to create human interfaces to Thargoid ships, and the destruction of the Alexandria with the loss of 4,000 crewmembers. As summarised in their mission statement: ‘We do not support a mass murderer. Salvation, we can save ourselves.’ 
 
 Professor Alba Tesreau, former head of research at Aegis, spoke publicly in support of the operation: “The superpowers have been seduced by the promises of a remorseless criminal. But as these courageous pilots prove, not everyone believes that the end justifies the means.”

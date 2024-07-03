@@ -2,7 +2,7 @@
 :ID:       dcd7115d-8e0a-4265-83c5-e461c063dc09
 :END:
 #+title: Sol Celebrations End as Election Begins
-#+filetags: :galnet:
+#+filetags: :Thargoid:galnet:
 
 * Sol Celebrations End as Election Begins
 
@@ -22,8 +22,8 @@ Shadow President Felicia Winters, leader of the Liberal Party, is the rival cand
 
 Sofia Trevino, political correspondent for The Federal Times, commented: 
 
-“Following months of delay, logistical issues caused by the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] war, plus the drama surrounding Zachary Rackham, voting is finally underway. Analysts believe this could be one of the closest-run elections in the Federation’s history, reflecting the polarisation that has taken place in recent years.”  
+“Following months of delay, logistical issues caused by the Thargoid war, plus the drama surrounding Zachary Rackham, voting is finally underway. Analysts believe this could be one of the closest-run elections in the Federation’s history, reflecting the polarisation that has taken place in recent years.”  
 
-“Support for the Republican Party has been bolstered by its increasingly successful handling of the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] menace during the past six months. But Archer’s flagship creation, the Proactive Detection Bureau, remains highly divisive – something the Liberal Party has found success in using to frame its opponent as increasingly authoritarian. How these primary points will ultimately impact the outcome of the vote remains to be seen.” 
+“Support for the Republican Party has been bolstered by its increasingly successful handling of the Thargoid menace during the past six months. But Archer’s flagship creation, the Proactive Detection Bureau, remains highly divisive – something the Liberal Party has found success in using to frame its opponent as increasingly authoritarian. How these primary points will ultimately impact the outcome of the vote remains to be seen.” 
 
 The new president will be announced on Monday 16th October. President Hudson will remain in office as caretaker president until the official inauguration of the election winner, expected to take place in the new year.

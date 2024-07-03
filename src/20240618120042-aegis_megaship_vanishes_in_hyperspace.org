@@ -2,7 +2,7 @@
 :ID:       c9a3ea4c-e15d-4de5-9fa2-f94c369a43ee
 :END:
 #+title: Aegis Megaship Vanishes in Hyperspace
-#+filetags: :galnet:
+#+filetags: :Thargoid:galnet:
 
 * Aegis Megaship Vanishes in Hyperspace
 
@@ -10,7 +10,7 @@
 
 The Alexandria has failed to arrive in the HIP 30944 system as scheduled, and may have been hyperdicted by the Thargoids. 
 
-The Aegis-owned megaship triggered an attack by [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] vessels when it travelled from the Delphi system to HIP 16538 on the 20th of May. Aegis believes this was caused by the large quantity of Guardian artefacts in its cargo holds. 
+The Aegis-owned megaship triggered an attack by Thargoid vessels when it travelled from the Delphi system to HIP 16538 on the 20th of May. Aegis believes this was caused by the large quantity of Guardian artefacts in its cargo holds. 
 
 To reduce the risk of further casualties, the Alexandria plotted a route to a low-population prison colony in the HIP 30944 system. All independent ships were undocked before it made the hyperspace jump on the 3rd of June. 
 
@@ -18,6 +18,6 @@ However, the megaship never reached its arrival point and all communication with
 
 Admiral Aden Tanner, chief military liaison with Aegis, informed the media: 
 
-“We regret to announce a complete loss of contact with the Alexandria. Although there is no evidence of damage or destruction, its disappearance while travelling through hyperspace raises the possibility that it was intercepted en route by [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] forces.” 
+“We regret to announce a complete loss of contact with the Alexandria. Although there is no evidence of damage or destruction, its disappearance while travelling through hyperspace raises the possibility that it was intercepted en route by Thargoid forces.” 
 
 “Captain Jacob Morales and over four thousand crewmembers will be listed as missing presumed dead. In addition to this great tragedy, Aegis’s research programme into Guardian technology has been severely impacted by the loss of many precious artefacts.”

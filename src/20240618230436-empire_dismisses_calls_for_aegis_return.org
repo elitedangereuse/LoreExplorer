@@ -2,7 +2,7 @@
 :ID:       1a85874b-5dc6-492e-872d-25675afe6080
 :END:
 #+title: Empire Dismisses Calls for Aegis Return
-#+filetags: :Empire:galnet:
+#+filetags: :Thargoid:Empire:galnet:
 
 * Empire Dismisses Calls for Aegis Return
 
@@ -12,15 +12,15 @@ The Imperial Senate has debated contributing to anti-xeno activities such as Aeg
 
 Senator Caspian Leopold initiated the discussions among his colleagues, stating: 
 
-“One would never criticise Her Majesty’s priority to defend the Empire above all else. Nevertheless, we face an adversary that how shown no sign of understanding humanity’s many political, social or cultural distinctions. To them there is no Empire. Our citizens are simply more humans for the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] to destroy.” 
+“One would never criticise Her Majesty’s priority to defend the Empire above all else. Nevertheless, we face an adversary that how shown no sign of understanding humanity’s many political, social or cultural distinctions. To them there is no Empire. Our citizens are simply more humans for the Thargoids to destroy.” 
 
-“If we were to share our research and resources with a reformed Aegis, might we not end the Second [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] War sooner?” 
+“If we were to share our research and resources with a reformed Aegis, might we not end the Second Thargoid War sooner?” 
 
 Imperial Admiral of the Fleet, Denton Patreus, responded: 
 
 “Let me be clear: Aegis has been consigned to history. Likewise, the idea of unifying all three superpower fleets is a completely impractical fantasy. We can best serve the Empire by reinforcing the Imperial Navy and other military forces serving the Emperor.” 
 
-“I assure you, senators, that we are closely monitoring [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] activity and the threat is currently contained. The anomalous signals moving towards the core systems are being tracked. But should any xeno force encroach upon Imperial territory, we are more than ready.” 
+“I assure you, senators, that we are closely monitoring Thargoid activity and the threat is currently contained. The anomalous signals moving towards the core systems are being tracked. But should any xeno force encroach upon Imperial territory, we are more than ready.” 
 
 The issue was laid to rest Chancellor Anders Blaine: 
 

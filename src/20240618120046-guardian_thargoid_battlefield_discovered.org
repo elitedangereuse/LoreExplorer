@@ -2,7 +2,7 @@
 :ID:       c9c61b2e-1cea-4c33-ba80-c4cbb2fa048f
 :END:
 #+title: Guardian-Thargoid Battlefield Discovered
-#+filetags: :galnet:
+#+filetags: :Thargoid:galnet:
 
 * Guardian-Thargoid Battlefield Discovered
 
@@ -16,7 +16,7 @@ The discovery was made by pilots who tracked down a series of signal beacons, fo
 
 The Anaconda, named Proteus, was one of the megaship’s secondary vessels and had been outfitted for long-range exploration. It was used by an Azimuth Biochemicals science team to flee the Hesperus after the megaship was overtaken by saboteurs from rival company Pharmasapien. 
 
-Upon landing, the Proteus was converted into a research facility to study the ancient structures and wreckage on the moon. The proximity of both Guardian and [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] technology suggests this was the site of a battle fought by the two civilisations over a million years ago, although in 3113 neither species had yet been identified. 
+Upon landing, the Proteus was converted into a research facility to study the ancient structures and wreckage on the moon. The proximity of both Guardian and Thargoid technology suggests this was the site of a battle fought by the two civilisations over a million years ago, although in 3113 neither species had yet been identified. 
 
 Professor [[id:c2623368-19b0-4995-9e35-b8f54f741a53][Alba Tesreau]] of Aegis Research gave this statement: 
 

@@ -3,7 +3,7 @@
 :ROAM_REFS: https://news.galnet.fr/a-retrospective-of-3308-part-one/
 :END:
 #+title: A Retrospective of 3308 (Part One)
-#+filetags: :Alliance:galnet:3308:
+#+filetags: :Thargoid:Alliance:galnet:3308:
 
 In the first of a three-part series of articles, the historian [[id:e13ec234-b603-4a29-870d-2b87410195ea][Sima Kalhana]] reviews the key events of the past year.
 
@@ -21,4 +21,4 @@ There was also drama within the Federation, as President [[id:02322be1-fc02-4d8b
 
 March saw the completion of the Colonia Bridge, after several multi-stage initiatives. Starports and stationary megaships now formed a permanent travel corridor from the core systems to the distant Colonia region.
 
-The [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] emerged again in April with the invasion of the Didio, Novas and Sosong systems. This brought an opportunity for the superpowers to work together with Salvation. Interviews with [[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]] provided insights into each superpower’s approach. Within mere months, their reliance on Salvation would lead to an event that altered tje course of history.
+The Thargoids emerged again in April with the invasion of the Didio, Novas and Sosong systems. This brought an opportunity for the superpowers to work together with Salvation. Interviews with [[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]] provided insights into each superpower’s approach. Within mere months, their reliance on Salvation would lead to an event that altered tje course of history.

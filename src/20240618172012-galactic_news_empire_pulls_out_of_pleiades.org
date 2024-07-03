@@ -2,7 +2,7 @@
 :ID:       82705831-e068-4f4f-b2a5-ff424442c1be
 :END:
 #+title: Galactic News: Empire Pulls Out of Pleiades
-#+filetags: :Federation:Empire:3303:galnet:
+#+filetags: :Thargoid:Federation:Empire:3303:galnet:
 
 * Galactic News: Empire Pulls Out of Pleiades
 
@@ -18,6 +18,6 @@ As the conflict wore on, public opinion was perhaps best expressed by The Imperi
 
 “Neither the Empire nor the Federation has demonstrated it can prevent the other from extracting meta-alloys, which is supposedly what this conflict is all about. Frankly, the situation is farcical.” 
 
-The catalyst for the Federal withdrawal appears to have been the rising [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] threat, coupled with creation of the tri-superpower organisation Aegis. 
+The catalyst for the Federal withdrawal appears to have been the rising Thargoid threat, coupled with creation of the tri-superpower organisation Aegis. 
 
 Neither the Empire nor the Federation has commented on the withdrawal of its fleets.

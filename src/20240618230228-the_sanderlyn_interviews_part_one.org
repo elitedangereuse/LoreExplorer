@@ -2,7 +2,7 @@
 :ID:       55406891-463a-40ce-abb5-9cd18e0ff2e3
 :END:
 #+title: The Sanderlyn Interviews (Part One)
-#+filetags: :galnet:
+#+filetags: :Thargoid:galnet:
 
 * The Sanderlyn Interviews (Part One)
 
@@ -38,7 +38,7 @@ HPA: If the Emperor had objections, her navy would not be in Novas.
 
 JS: What are your objectives in the system? 
 
-HPA: Well, in case it has gone unnoticed, there is a major [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] invasion occurring here. It is our duty to protect civilian populations and prevent the loss of strategic assets. 
+HPA: Well, in case it has gone unnoticed, there is a major Thargoid invasion occurring here. It is our duty to protect civilian populations and prevent the loss of strategic assets. 
 
 JS: I’m pleased that you mentioned civilian lives first. Does Salvation share this approach? 
 
@@ -46,7 +46,7 @@ HPA: Almost certainly. Why else would he invest so much effort into his marvello
 
 JS: Some have claimed that Salvation prioritises victory over safety. 
 
-HPA: Jade, dear: they are the same thing. The cost of war is human lives, and the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] extract a heavy toll. Every invaded system. Every burning starport. Every ambushed convoy. Every ship lost to hyperspace. We have repeatedly driven the Thargoids back from our space, but the wretched things keep returning. That cost grows each day. Salvation’s superweapon has proven effective at wiping Thargoids from entire systems at a stroke. If Salvation calls that victory while you and I call it saving lives, then I’m comfortable with the difference in perspective. 
+HPA: Jade, dear: they are the same thing. The cost of war is human lives, and the Thargoids extract a heavy toll. Every invaded system. Every burning starport. Every ambushed convoy. Every ship lost to hyperspace. We have repeatedly driven the Thargoids back from our space, but the wretched things keep returning. That cost grows each day. Salvation’s superweapon has proven effective at wiping Thargoids from entire systems at a stroke. If Salvation calls that victory while you and I call it saving lives, then I’m comfortable with the difference in perspective. 
 
 JS: Thank you for elaborating. Let’s take a break. We’ll be back after these messages. 
 

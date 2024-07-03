@@ -2,7 +2,7 @@
 :ID:       72d18c75-5768-4309-916f-32f7383cec5d
 :END:
 #+title: The Fall of Nova Imperium
-#+filetags: :Empire:galnet:
+#+filetags: :Thargoid:Empire:galnet:
 
 * The Fall of Nova Imperium
 
@@ -16,6 +16,6 @@ Political journalist Cassia Carvalho reported:
 
 “It seems that Emperor [[id:34f3cfdd-0536-40a9-8732-13bf3a5e4a70][Arissa Lavigny-Duval]] – while being accused of weakness – has simply been playing for time, allowing Senator Patreus to position his agents for a simultaneous strike. With this show of strength, the Emperor has done much to silence her detractors.” 
 
-“Despite reactions of horror from some newsfeeds, Alliance and Federal leaders have made no official comment, perhaps relieved that inter-superpower cooperation against the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] will continue.” 
+“Despite reactions of horror from some newsfeeds, Alliance and Federal leaders have made no official comment, perhaps relieved that inter-superpower cooperation against the Thargoids will continue.” 
 
 “Nova Imperium remains in control of the Paresa system, but with the organisation’s power base destroyed, it no longer poses a threat to the Imperial throne.”

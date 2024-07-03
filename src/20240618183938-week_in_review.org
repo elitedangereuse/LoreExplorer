@@ -2,7 +2,7 @@
 :ID:       66c58dbf-d579-4bbb-9ad1-091191ab7545
 :END:
 #+title: Week in Review 01 Dec 3304
-#+filetags: :3304:galnet:
+#+filetags: :Thargoid:3304:galnet:
 
 * Week in Review
 
@@ -12,7 +12,7 @@ Here are this week’s major stories.
 
 Exothelogian Dr Alfred Ulyanov has commented on the abandoned Far God outposts recently discovered in the Etain system. In a statement, Dr Ulyanov said that information recovered from the sites would be invaluable to the book he is writing with Gethin Okonkwo about the Far God religion. 
 
-Aegis has announced a breakthrough that has effectively neutralised the disruptive effects of [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Sensors on starports. New procedures in the application of meta-alloys mean that extremely small quantities are now sufficient to shield systems from disruption, resulting in a cure for what was once called ‘the technological plague’. 
+Aegis has announced a breakthrough that has effectively neutralised the disruptive effects of Thargoid Sensors on starports. New procedures in the application of meta-alloys mean that extremely small quantities are now sufficient to shield systems from disruption, resulting in a cure for what was once called ‘the technological plague’. 
 
 Meanwhile, several Imperial senators have spoken in support of isolationist group Nova Imperium. Senator Pal Vespasian said that Imperator Mordanticus would be invited to address the Senate and detail his policies, and gave his backing to Nova Imperium’s proposal to install a new Emperor. 
 

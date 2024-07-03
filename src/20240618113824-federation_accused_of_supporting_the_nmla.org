@@ -2,7 +2,7 @@
 :ID:       b67d2fe7-e663-4183-991e-553b41b8b66e
 :END:
 #+title: Federation Accused of Supporting the NMLA
-#+filetags: :Empire:galnet:
+#+filetags: :Thargoid:Empire:galnet:
 
 * Federation Accused of Supporting the NMLA
 
@@ -12,7 +12,7 @@ The Empire has revealed new evidence that suggests the [[id:dbfbb5eb-82a2-43c8-a
 
 A report from the Imperial Internal Security Service stated: 
 
-“With information provided by the engineer Liz Ryder, we located an abandoned workshop where explosives had been constructed using her blueprints. Traces were found of [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] caustic enzymes, matching the payloads delivered during the starport bombings.” 
+“With information provided by the engineer Liz Ryder, we located an abandoned workshop where explosives had been constructed using her blueprints. Traces were found of Thargoid caustic enzymes, matching the payloads delivered during the starport bombings.” 
 
 “Micro-signage on cargo containers identified bulk deliveries of equipment from a Federal system in neutral space, where we believe the [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] has a second bomb-making facility. IISS agents are currently investigating to confirm these findings.” 
 

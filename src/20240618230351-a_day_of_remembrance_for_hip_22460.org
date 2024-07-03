@@ -2,7 +2,7 @@
 :ID:       0aab37c4-1ced-4689-b2f2-2e764b31641f
 :END:
 #+title: A Day of Remembrance for HIP 22460
-#+filetags: :Federation:galnet:
+#+filetags: :Thargoid:Federation:galnet:
 
 * A Day of Remembrance for HIP 22460
 
@@ -14,7 +14,7 @@ In a public address, the president formally acknowledged the recent tragedy:
 
 “The Battle of HIP 22460 is a dark day in our interstellar nation’s history. The crews of the FNS Bombardier, FNS Fortitude and FNS Varian Scott gave their lives with dignity and honour, as did many other courageous individuals. They will never be forgotten for as long as the Federation endures.” 
 
-“We recognise this massacre of defenceless crew for what it was: the latest example of unrelenting hostility by our [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] enemy. Another event which leads me to believe no peace can be brokered with that species. I promise, under no uncertain terms, that the loss of over fifty thousand naval personnel will be avenged.” 
+“We recognise this massacre of defenceless crew for what it was: the latest example of unrelenting hostility by our Thargoid enemy. Another event which leads me to believe no peace can be brokered with that species. I promise, under no uncertain terms, that the loss of over fifty thousand naval personnel will be avenged.” 
 
 Shadow President [[id:b9fe58a3-dfb7-480c-afd6-92c3be841be7][Felicia Winters]] provided a statement to The Federal Times: 
 

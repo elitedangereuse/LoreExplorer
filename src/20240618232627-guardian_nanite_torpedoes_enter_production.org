@@ -2,7 +2,7 @@
 :ID:       2189b4d0-7970-491f-87be-a45a1e54825b
 :END:
 #+title: Guardian Nanite Torpedoes Enter Production
-#+filetags: :galnet:
+#+filetags: :Thargoid:galnet:
 
 * Guardian Nanite Torpedoes Enter Production
 
@@ -10,16 +10,16 @@
 
 *Pilots’ Federation ALERT* 
 
-Deliveries are urgently needed to begin manufacturing a new weapon capable of causing severe damage to [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Titans. 
+Deliveries are urgently needed to begin manufacturing a new weapon capable of causing severe damage to Thargoid Titans. 
 
 Professor Ishmael Palin has been leading on the project, using theories developed by Ram Tah. Aegis released an official statement on all newsfeeds: 
 
-“We can now reveal the results of Ram Tah’s experiments into Guardian relics. These ancient objects were crystalline supercomputers that relayed data across the Guardians’ information networks. His theory was that their transformation into Unclassified relics at [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] surface sites was caused by an inbuilt defence mechanism, which could perhaps be weaponised.” 
+“We can now reveal the results of Ram Tah’s experiments into Guardian relics. These ancient objects were crystalline supercomputers that relayed data across the Guardians’ information networks. His theory was that their transformation into Unclassified relics at Thargoid surface sites was caused by an inbuilt defence mechanism, which could perhaps be weaponised.” 
 
-“Ram Tah discovered that exposure to certain electromagnetic frequencies caused Guardian relics to open and activate clusters of microscopic nanites. These react aggressively against [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] biotechnology by disrupting it on the molecular level. Most significantly, tests proved that these nanites are unaffected by the anti-Guardian field generated within Maelstroms.” 
+“Ram Tah discovered that exposure to certain electromagnetic frequencies caused Guardian relics to open and activate clusters of microscopic nanites. These react aggressively against Thargoid biotechnology by disrupting it on the molecular level. Most significantly, tests proved that these nanites are unaffected by the anti-Guardian field generated within Maelstroms.” 
 
-“Professor Palin, aided by Aegis technicians, has used Guardian-hybrid engineering to construct a ‘soft’ warhead that delivers a nanite payload. The torpedo is armoured using organic compounds from [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] spire sites, to prevent anti-Guardian fields affecting it in flight. Our strategists believe that these weapons could affect a Titan’s heat regulation systems, causing internal damage and eventually even total destruction.” 
+“Professor Palin, aided by Aegis technicians, has used Guardian-hybrid engineering to construct a ‘soft’ warhead that delivers a nanite payload. The torpedo is armoured using organic compounds from Thargoid spire sites, to prevent anti-Guardian fields affecting it in flight. Our strategists believe that these weapons could affect a Titan’s heat regulation systems, causing internal damage and eventually even total destruction.” 
 
-“Mass production of the Guardian nanite torpedo and its launcher module has begun. But further supplies are needed to construct enough for simultaneous attacks against all eight [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] motherships.” 
+“Mass production of the Guardian nanite torpedo and its launcher module has begun. But further supplies are needed to construct enough for simultaneous attacks against all eight Thargoid motherships.” 
 
 Aegis has asked for shipments of neofabric insulation, ion distributors and energy grid assemblies  to be delivered to Clement Orbital in the YZ Ceti system. The initiative is being managed by YZ Ceti Blue Galactic and Co, which aims to protect deliveries by redeeming bounty vouchers on all wanted ships.

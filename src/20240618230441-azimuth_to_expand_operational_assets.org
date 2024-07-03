@@ -2,7 +2,7 @@
 :ID:       487e7404-44cb-41b1-95d7-dd51d6bc1c5e
 :END:
 #+title: Azimuth to Expand Operational Assets
-#+filetags: :galnet:
+#+filetags: :Thargoid:galnet:
 
 * Azimuth to Expand Operational Assets
 
@@ -14,7 +14,7 @@ The controversial weapons developer has seen a recent downturn in fortunes, due 
 
 Azimuth Biotech CEO Torben Rademaker announced the initiative: 
 
-“After a period of reflection, it is time for Azimuth to once again step forward and assume a position of support for the brave pilots engaging [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] forces wherever they are encountered. To do this, we shall establish a new megaship equipped to operation in Thargoid-tainted systems. The tragic loss of the Bright Sentinel and Heart of Taurus in HIP 22460 must not hinder our ambition any further.” 
+“After a period of reflection, it is time for Azimuth to once again step forward and assume a position of support for the brave pilots engaging Thargoid forces wherever they are encountered. To do this, we shall establish a new megaship equipped to operation in Thargoid-tainted systems. The tragic loss of the Bright Sentinel and Heart of Taurus in HIP 22460 must not hinder our ambition any further.” 
 
 “We also intend to operate several surface outposts to aid our research projects. We aim to contribute to humanity’s military options once again, being careful not to repeat the mistakes of our former figurehead.” 
 

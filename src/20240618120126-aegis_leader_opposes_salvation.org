@@ -2,7 +2,7 @@
 :ID:       d37a8c24-303a-4595-b71d-d26d5ebc9b4c
 :END:
 #+title: Aegis Leader Opposes Salvation
-#+filetags: :galnet:
+#+filetags: :Thargoid:galnet:
 
 * Aegis Leader Opposes Salvation
 
@@ -10,7 +10,7 @@
 
 Admiral [[id:7bca1ccd-649e-438a-ae56-fb8ca34e6440][Aden Tanner]] has called for Aegis to reject the public inquiry’s shutdown and take direct action against Salvation. 
 
-The Musashi, an Aegis Defense megaship under his command, has entered the T Tauri system to challenge Taurus Mining Ventures. The corporation has performed activities on Salvation’s behalf, including preparation for the anti-xeno weapon used to eliminate all [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] from the Cornsar system. 
+The Musashi, an Aegis Defense megaship under his command, has entered the T Tauri system to challenge Taurus Mining Ventures. The corporation has performed activities on Salvation’s behalf, including preparation for the anti-xeno weapon used to eliminate all Thargoids from the Cornsar system. 
 
 Admiral Tanner transmitted this message to media outlets: 
 

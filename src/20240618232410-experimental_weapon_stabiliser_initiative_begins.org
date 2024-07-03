@@ -2,7 +2,7 @@
 :ID:       1fd28e26-c373-4a03-857f-d0dc0931b09a
 :END:
 #+title: Experimental Weapon Stabiliser Initiative Begins
-#+filetags: :galnet:
+#+filetags: :Thargoid:galnet:
 
 * Experimental Weapon Stabiliser Initiative Begins
 
@@ -24,4 +24,4 @@ The opportunity to increase hardpoint capacity for anti-xeno combat ships has be
 
 A spokesperson for Operation Wych Hunt, an independent community established to oppose Azimuth Biotech, offered this statement: 
 
-"The proposed modules will benefit humanity in the fight against the ongoing [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] threat and we support anybody who takes advantage of them. But this does not absolve Azimuth Biotech of the terrible acts that they committed under the leadership of Caleb Wycherley. The company still must be held accountable for the many atrocities it has committed, including the inhumane experiments of Project Seraph and the vile murder of thousands onboard the Alexandria."
+"The proposed modules will benefit humanity in the fight against the ongoing Thargoid threat and we support anybody who takes advantage of them. But this does not absolve Azimuth Biotech of the terrible acts that they committed under the leadership of Caleb Wycherley. The company still must be held accountable for the many atrocities it has committed, including the inhumane experiments of Project Seraph and the vile murder of thousands onboard the Alexandria."

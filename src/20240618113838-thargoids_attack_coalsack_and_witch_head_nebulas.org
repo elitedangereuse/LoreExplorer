@@ -2,23 +2,23 @@
 :ID:       351a9697-0812-42ba-bf4f-8eb1a1fbf938
 :ROAM_REFS: https://cms.zaonce.net/en-GB/jsonapi/node/galnet_article/5c37b210-72ff-4837-914c-3b62026bfd52?resourceVersion=id%3A4872
 :END:
-#+title: [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] Attack Coalsack and Witch Head Nebulas
-#+filetags: :Alliance:galnet:
+#+title: Thargoids Attack Coalsack and Witch Head Nebulas
+#+filetags: :Thargoid:Alliance:galnet:
 
-* [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] Attack Coalsack and Witch Head Nebulas
+* Thargoids Attack Coalsack and Witch Head Nebulas
 
 /31 Dec 3306/
 
 *Pilots Federation ALERT* 
 
-Large numbers of [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] vessels are swarming through multiple inhabited systems, leading to urgent calls for assistance. 
+Large numbers of Thargoid vessels are swarming through multiple inhabited systems, leading to urgent calls for assistance. 
 
-In what appears to be a coordinated strike, [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] scouts and interceptors have appeared throughout the Coalsack and Witch Head Nebulas. Local security ships have engaged them in combat, but report being overwhelmed. 
+In what appears to be a coordinated strike, Thargoid scouts and interceptors have appeared throughout the Coalsack and Witch Head Nebulas. Local security ships have engaged them in combat, but report being overwhelmed. 
 
 The Alliance has a considerable presence in these regions, with four starports recently constructed in the Coalsack Nebula. But the Alliance Defence Force has not been able to mobilise in time to prevent some systems from becoming infested with Thargoids. 
 
 Admiral Aden Tanner, chief military liaison for Aegis, made this announcement: 
 
-“This is a resurgence of [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] activity on a scale that we have not witnessed for a long time. Unfortunately, drastic reductions in funding and resources mean that Aegis is unable to provide adequate defensive measures.” 
+“This is a resurgence of Thargoid activity on a scale that we have not witnessed for a long time. Unfortunately, drastic reductions in funding and resources mean that Aegis is unable to provide adequate defensive measures.” 
 
-“We urgently request support from independent pilots and anti-xeno squadrons. It is critical that we prevent the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] from dominating these nebulas and wiping out many thousands of people.”
+“We urgently request support from independent pilots and anti-xeno squadrons. It is critical that we prevent the Thargoids from dominating these nebulas and wiping out many thousands of people.”

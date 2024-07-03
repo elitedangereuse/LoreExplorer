@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       0d00ae42-8994-4b9b-a0dd-65c7b13dbd0d
 :END:
-#+title: [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Scouts
+#+title: Thargoid Scouts
+#+filetags: :Thargoid:
 Octogons: [[id:4c5f7870-8dfd-463f-aadf-aa43ddeaeaa8][eight]] sides

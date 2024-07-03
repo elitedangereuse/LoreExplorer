@@ -2,7 +2,7 @@
 :ID:       91b0a948-6930-416b-98e0-ebc4e751dae8
 :END:
 #+title: Medicines Delivered for Starport Bombing Survivors
-#+filetags: :galnet:
+#+filetags: :Thargoid:galnet:
 
 * Medicines Delivered for Starport Bombing Survivors
 
@@ -12,7 +12,7 @@
 
 Safeguard Interstellar has successfully received medical supplies for civilians wounded during the [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] terrorist attack. 
 
-The bombing of nine starports across the Alliance, Empire and Federation left huge numbers of people injured, some with caustic burns due to [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] enzymes deployed by the explosives. 
+The bombing of nine starports across the Alliance, Empire and Federation left huge numbers of people injured, some with caustic burns due to Thargoid enzymes deployed by the explosives. 
 
 Noel Beaumont, the aid organisation’s CEO, announced: 
 

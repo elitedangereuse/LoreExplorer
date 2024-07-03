@@ -2,7 +2,7 @@
 :ID:       f87fc526-4e0d-4019-aa88-15d40da45ac9
 :END:
 #+title: Baumann Report: ‘Dismantle Aegis’
-#+filetags: :galnet:
+#+filetags: :Thargoid:galnet:
 
 * Baumann Report: ‘Dismantle Aegis’
 
@@ -14,7 +14,7 @@ Dr Paul Baumann, who chaired the board of inquiry, summarised the detailed repor
 
 “Aegis was established on solid foundations in 3303 with strong leadership. Over the years, poor mid-level management and general negligence reduced its effectiveness. A silo mentality developed, with each department focusing on itself rather than strategic goals.” 
 
-“Reduced funding undoubtedly contributed to low morale among staff and a lack of any further breakthroughs in AX technology. But a reliance on independent pilots to combat the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] became normalised, with some staff considering them ‘disposable mercenaries’.” 
+“Reduced funding undoubtedly contributed to low morale among staff and a lack of any further breakthroughs in AX technology. But a reliance on independent pilots to combat the Thargoids became normalised, with some staff considering them ‘disposable mercenaries’.” 
 
 “More specifically, the loss of the megaship Alexandria and the illegal attack against Hind Mine are both catastrophes that could have been anticipated and prevented. This board cannot in all conscience recommend any scenario that might enable further loss of life in Aegis’s name.” 
 

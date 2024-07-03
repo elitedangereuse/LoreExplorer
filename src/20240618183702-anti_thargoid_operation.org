@@ -2,7 +2,7 @@
 :ID:       1e6eda75-4850-48a8-8b16-9e2f0a1d3523
 :END:
 #+title: Anti-Thargoid Operation
-#+filetags: :3304:galnet:
+#+filetags: :Thargoid:3304:galnet:
 
 * Anti-Thargoid Operation
 
@@ -10,9 +10,9 @@
 
 Following the success of last month’s Federal-Imperial operation in the HIP 17692 system, the two superpowers have once again joined forces to combat the Thargoids. 
 
-This time, the operation will focus on the Pleiades Sector OI-T c3-7 and Arietis Sector XE-Z b4 systems, where large concentrations of [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] ships have been reported. 
+This time, the operation will focus on the Pleiades Sector OI-T c3-7 and Arietis Sector XE-Z b4 systems, where large concentrations of Thargoid ships have been reported. 
 
-The purpose of the two-pronged operation is to reduce the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] presence in Pleiades Sector OI-T c3-7, and to recover black boxes and personal effects from Thargoid attack sites in Arietis Sector XE-Z b4. The former initiative is being overseen by the Merope Expeditionary Fleet, while the latter is being coordinated by the Pleiades Resource Enterprise. Pilots who support these operations will be eligible for substantial rewards. 
+The purpose of the two-pronged operation is to reduce the Thargoid presence in Pleiades Sector OI-T c3-7, and to recover black boxes and personal effects from Thargoid attack sites in Arietis Sector XE-Z b4. The former initiative is being overseen by the Merope Expeditionary Fleet, while the latter is being coordinated by the Pleiades Resource Enterprise. Pilots who support these operations will be eligible for substantial rewards. 
 
 Admiral [[id:75daea85-5e9f-4f6f-a102-1a5edea0283c][Denton Patreus]] launched the campaign with the following statement: 
 

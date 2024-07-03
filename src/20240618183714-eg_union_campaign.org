@@ -2,7 +2,7 @@
 :ID:       80a7327f-321d-42d8-aaf1-cf1a59ab2b44
 :END:
 #+title: EG Union Campaign
-#+filetags: :3304:galnet:
+#+filetags: :Thargoid:3304:galnet:
 
 * EG Union Campaign
 
@@ -14,7 +14,7 @@ The EG Union, acting on behalf of Yuri Grom, has placed an open order for variou
 
 The spokesperson elaborated on the nature of the campaign: 
 
-“Recent events have demonstrated that humanity is not prepared for a possible [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] invasion. Building a shipyard for Farragut-class ships is the first step in establishing a defensive perimeter.” 
+“Recent events have demonstrated that humanity is not prepared for a possible Thargoid invasion. Building a shipyard for Farragut-class ships is the first step in establishing a defensive perimeter.” 
 
 “It is essential that traders do not encounter any difficulty when delivering materials, which is why the EG Pilots – Yuri Grom's elite task force – have been asked to eliminate any agitators. We are also asking independent combat pilots to help us neutralise any threats.” 
 

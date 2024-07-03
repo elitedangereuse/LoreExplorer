@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       5a7bd9d0-f70a-4af4-bd81-8d52784c62a6
 :END:
-#+title: [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Pod
+#+title: Thargoid Pod
+#+filetags: :Thargoid:
 * Locations
   [[id:846bfbc7-75e7-4d8d-8716-7fe0346026f4][Delphi]]

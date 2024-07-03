@@ -2,7 +2,7 @@
 :ID:       3d612921-919d-49af-ae60-c4b8d93a9ac8
 :END:
 #+title: Pilots’ Federation Establishes Regulated Zone
-#+filetags: :galnet:
+#+filetags: :Thargoid:galnet:
 
 * Pilots’ Federation Establishes Regulated Zone
 
@@ -16,4 +16,4 @@ In a statement, spokesperson Gabriel Sanchos gave the following details:
 
 “The intention is to offer pilots an opportunity to complete contract assignments without exposing them to opportunistic criminals. Access to the district will depend on the possession of a permit granted to new Commanders alongside their Pilots’ Federation license. This permit will be revoked once a certain level of experience has been acquired.” 
 
-Representatives of the Alliance, Empire and Federation each confirmed their approval. Their statements underscored the positive contributions made by licensed Commanders with regards to the galactic economy, exploration initiatives and the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] threat.
+Representatives of the Alliance, Empire and Federation each confirmed their approval. Their statements underscored the positive contributions made by licensed Commanders with regards to the galactic economy, exploration initiatives and the Thargoid threat.

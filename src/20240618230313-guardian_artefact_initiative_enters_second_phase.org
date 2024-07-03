@@ -2,7 +2,7 @@
 :ID:       20fcf1f0-9b7f-4cb1-805a-54a730c9a8a9
 :END:
 #+title: Guardian Artefact Initiative Enters Second Phase
-#+filetags: :galnet:
+#+filetags: :Thargoid:galnet:
 
 * Guardian Artefact Initiative Enters Second Phase
 
@@ -18,6 +18,6 @@ Military coordinator Commodore [[id:bcaa9222-b056-41cf-9361-68dd8d3424fb][Morag 
 
 “The Proteus Wave, currently being constructed aboard the megaship, requires increasing quantities of Guardian-based technology. Azimuth Biotech has confirmed the artefact acquisition initiative will continue for a second week and would like more pilots to take part.” 
 
-“Passage through the HIP 22460 system has become hazardous, with [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] vessels present in large numbers. The Allied, Federal and Imperial taskforces are striving to protect traders, as are independent AX fighters and squadrons. However, as the concentration of artefacts increases, it’s expected that the Thargoid presence will intensify. Pilots should remain on high alert while in the system.” 
+“Passage through the HIP 22460 system has become hazardous, with Thargoid vessels present in large numbers. The Allied, Federal and Imperial taskforces are striving to protect traders, as are independent AX fighters and squadrons. However, as the concentration of artefacts increases, it’s expected that the Thargoid presence will intensify. Pilots should remain on high alert while in the system.” 
 
 Guardian caskets, orbs, relics, tablets, totems and urns can all be delivered to the Bright Sentinel megaship, which remains in stationary orbit above HIP 22460 10b.

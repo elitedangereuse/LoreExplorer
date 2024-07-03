@@ -2,7 +2,7 @@
 :ID:       833832b9-60b8-4cd1-9044-48d3a32c91f1
 :END:
 #+title: Alliance and Federation React to Nova Imperium
-#+filetags: :Alliance:Federation:Empire:3304:galnet:
+#+filetags: :Thargoid:Alliance:Federation:Empire:3304:galnet:
 
 * Alliance and Federation React to Nova Imperium
 
@@ -16,6 +16,6 @@ Prime Minister [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74][Edmund Mahon]] told th
 
 In Congress, President [[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][Zachary Hudson]] said: 
 
-“If Nova Imperium comes to power and the Empire ceases contributions to Aegis, our combined defences against the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] threat will be jeopardised. In such a case, the Federation would be forced to intervene in order to safeguard humanity’s future.” 
+“If Nova Imperium comes to power and the Empire ceases contributions to Aegis, our combined defences against the Thargoid threat will be jeopardised. In such a case, the Federation would be forced to intervene in order to safeguard humanity’s future.” 
 
 Independent sources have confirmed that Federal Navy resupplies have increased in frequency. Fleet manoeuvres have also taken place in regions bordering Imperial territory.

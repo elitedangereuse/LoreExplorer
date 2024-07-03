@@ -2,13 +2,13 @@
 :ID:       0dba7984-9b73-4326-b74a-52b97fd274ea
 :END:
 #+title: Chase Admits Kingfisher Mission ‘A Mistake’
-#+filetags: :galnet:
+#+filetags: :Thargoid:galnet:
 
 * Chase Admits Kingfisher Mission ‘A Mistake’
 
 /06 Dec 3308/
 
-Congressman Dalton Chase has made a public statement regretting his involvement with the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Advocacy Project. 
+Congressman Dalton Chase has made a public statement regretting his involvement with the Thargoid Advocacy Project. 
 
 Chase became a member of Congress after an electoral campaign focusing on inter-species diplomatic relations. He was a key organiser and fundraiser for the Kingfisher megaship, which attempted to open communications with the Taranis entity but was subsequently destroyed with no survivors. 
 
@@ -20,6 +20,6 @@ In a press statement delivered from Olympus Village on Mars, Congressman Chase a
 
 Secretary of State Lana Berkovich has petitioned Congress to launch an investigation into Chase’s involvement with the xeno-peace movement. She described his role in the loss of over 3,000 lives as “beyond reckless”. 
 
-Although the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Advocacy Project has faltered following the Kingfisher incident, some of its core members were recently involved in organising anti-authoritarian rallies. According to former spokesperson Timothy Culver:  
+Although the Thargoid Advocacy Project has faltered following the Kingfisher incident, some of its core members were recently involved in organising anti-authoritarian rallies. According to former spokesperson Timothy Culver:  
 
-“The superpowers’ involvement in the massacre at HIP 22460, when they supported Salvation’s attempted xenocide, makes them responsible for the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] launching this counterstrike. We need to bring our leaders to account.”
+“The superpowers’ involvement in the massacre at HIP 22460, when they supported Salvation’s attempted xenocide, makes them responsible for the Thargoids launching this counterstrike. We need to bring our leaders to account.”

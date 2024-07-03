@@ -2,13 +2,13 @@
 :ID:       d2580487-e42b-4fe9-8a9e-0befbb6e53ca
 :END:
 #+title: Galactic News: Engineers’ Campaign Concludes
-#+filetags: :3303:galnet:
+#+filetags: :Thargoid:3303:galnet:
 
 * Galactic News: Engineers’ Campaign Concludes
 
 /29 Sep 3303/
 
-A spokesperson for Aegis has announced that its appeal for Thargoid-related materials has reached a successful conclusion. Huge quantities of material were delivered to Awyra Flirble and Obsidian Orbital over the past week, following an enthusiastic response from the galactic community. They will now be delivered to the engineers [[id:cb71ba02-e47b-4feb-a421-b1f2ecdce6f3][Liz Ryder]] and Ishmael Palin so they can start work on new technologies to address the mounting [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] threat. 
+A spokesperson for Aegis has announced that its appeal for Thargoid-related materials has reached a successful conclusion. Huge quantities of material were delivered to Awyra Flirble and Obsidian Orbital over the past week, following an enthusiastic response from the galactic community. They will now be delivered to the engineers [[id:cb71ba02-e47b-4feb-a421-b1f2ecdce6f3][Liz Ryder]] and Ishmael Palin so they can start work on new technologies to address the mounting Thargoid threat. 
 
 As the campaign drew to a close, the spokesperson issued a brief statement: 
 

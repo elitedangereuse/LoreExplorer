@@ -2,17 +2,17 @@
 :ID:       1058bc8d-37b9-41ea-9800-988c9e7de7ea
 :END:
 #+title: Galactic News: Galactic Authorities Call for Calm
-#+filetags: :Federation:Empire:3303:galnet:
+#+filetags: :Thargoid:Federation:Empire:3303:galnet:
 
 * Galactic News: Galactic Authorities Call for Calm
 
 /18 Nov 3303/
 
-As reports continue to pour in of [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] attacks, the galaxy’s leaders have issued statements urging the public to remain calm. 
+As reports continue to pour in of Thargoid attacks, the galaxy’s leaders have issued statements urging the public to remain calm. 
 
 In a missive released to a number of news feeds, Emperor [[id:34f3cfdd-0536-40a9-8732-13bf3a5e4a70][Arissa Lavigny-Duval]] said: 
 
-“It is true that the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] represent a pertinent threat, but it is important that we understand the scale of this threat. At present, they are active only in the Pleiades Nebula, and there is no reason to believe they will spread beyond this area. Indeed, it is entirely possible that they lack the numbers to do so.” 
+“It is true that the Thargoids represent a pertinent threat, but it is important that we understand the scale of this threat. At present, they are active only in the Pleiades Nebula, and there is no reason to believe they will spread beyond this area. Indeed, it is entirely possible that they lack the numbers to do so.” 
 
 Federation President [[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][Zachary Hudson]] adopted a similar stance, while making an allusion to Federal-Imperial solidarity: 
 

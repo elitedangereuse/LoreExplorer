@@ -2,7 +2,7 @@
 :ID:       a014efbe-3673-4f67-a715-12dcbdff4ff0
 :END:
 #+title: Palin Institute Campaign
-#+filetags: :3304:galnet:
+#+filetags: :Thargoid:3304:galnet:
 
 * Palin Institute Campaign
 
@@ -12,8 +12,8 @@ The Palin Institute has announced an accelerated programme of study to analyse a
 
 Professor Cora Shaw, director of the Palin Institute, released the following statement:  
 
-“In recent months, the Institute has performed countless studies on alien technology and physiology, and our stock of xenobiological samples is severely depleted. For this robust new study, we require a large amount of [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] material to support a wide range of experiments.” 
+“In recent months, the Institute has performed countless studies on alien technology and physiology, and our stock of xenobiological samples is severely depleted. For this robust new study, we require a large amount of Thargoid material to support a wide range of experiments.” 
 
-The Ryder Revolutionary Party, which is supporting the campaign, has placed an open order for various [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] materials and promised to reward pilots who deliver these goods to Obsidian Orbital in the Maia system. The organisation has also placed a kill order on all ships on its wanted list, to ensure that those delivering materials to Ryder Revolutionary Party can do so safely. 
+The Ryder Revolutionary Party, which is supporting the campaign, has placed an open order for various Thargoid materials and promised to reward pilots who deliver these goods to Obsidian Orbital in the Maia system. The organisation has also placed a kill order on all ships on its wanted list, to ensure that those delivering materials to Ryder Revolutionary Party can do so safely. 
 
 The campaign begins on the 18th of October 3304 and will run for one week. If the final target is met earlier than planned, the campaign will end immediately.

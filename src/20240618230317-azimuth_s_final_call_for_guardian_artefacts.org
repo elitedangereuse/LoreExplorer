@@ -2,7 +2,7 @@
 :ID:       227b4d2a-3c4d-4598-a2da-cdbc89489660
 :END:
 #+title: Azimuth’s Final Call for Guardian Artefacts
-#+filetags: :galnet:
+#+filetags: :Thargoid:galnet:
 
 * Azimuth’s Final Call for Guardian Artefacts
 
@@ -18,6 +18,6 @@ Commodore [[id:bcaa9222-b056-41cf-9361-68dd8d3424fb][Morag Halloran]] outlined t
 
 “However, Salvation has requested that further shipments of artefacts are sourced from Guardian sites. There can be no shortfall of these vital components, and the superweapon will make use of every one we can provide.” 
 
-“We have projected a substantial increase in the number of [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] vessels within HIP 22460, as they react to the increased concentration of technology created by their ancient enemies. AX fighters and squadrons are asked to continue engaging the enemy’s forces to provide safe passage for incoming transports.” 
+“We have projected a substantial increase in the number of Thargoid vessels within HIP 22460, as they react to the increased concentration of technology created by their ancient enemies. AX fighters and squadrons are asked to continue engaging the enemy’s forces to provide safe passage for incoming transports.” 
 
 Pilots who previously contributed to this initiative can collect rewards from the Bright Sentinel megaship in HIP 22460, which is continuing to accept new shipments of Guardian artefacts.

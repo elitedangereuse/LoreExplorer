@@ -2,7 +2,7 @@
 :ID:       9bf3bf04-3f84-4959-afb4-a3a692cd597b
 :END:
 #+title: Velasquez Medical Research Center
-#+filetags: :Abandoned:
+#+filetags: :Thargoid:Abandoned:
 
 [[id:9380aac5-cd43-49e3-b4aa-843b48061cbd][LP 389-95]]
 LP 389-95 7

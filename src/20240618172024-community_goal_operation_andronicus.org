@@ -2,17 +2,17 @@
 :ID:       cef58d92-b5f4-4aae-8518-a1aa78047c54
 :END:
 #+title: Community Goal: Operation Andronicus
-#+filetags: :3303:galnet:
+#+filetags: :Thargoid:3303:galnet:
 
 * Community Goal: Operation Andronicus
 
 /03 Nov 3303/
 
-With [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] attacks becoming a regular occurrence in the Pleiades Nebula, Aegis has leveraged its considerable reserves to fund a military operation in the Pleiades Sector IR-W d1-55. The initiative, dubbed ‘Operation Andronicus’, has been expressly conceived to counter Thargoid aggression in the region. 
+With Thargoid attacks becoming a regular occurrence in the Pleiades Nebula, Aegis has leveraged its considerable reserves to fund a military operation in the Pleiades Sector IR-W d1-55. The initiative, dubbed ‘Operation Andronicus’, has been expressly conceived to counter Thargoid aggression in the region. 
 
 Admiral Aden Tanner, Aegis’s chief military liaison, elaborated on the nature of the initiative: 
 
-“Personal-scale craft are particularly effective against [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] vessels, not least because of the comparative vulnerability of capital-class ships. I therefore believe the most effective way to address the Thargoid threat – in the short term at least – is a militia of seasoned combat pilots. Aegis has agreed to finance this initiative, which will aim to deliver a strategic blow to the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] in the Pleiades Sector IR-W d1-55.” 
+“Personal-scale craft are particularly effective against Thargoid vessels, not least because of the comparative vulnerability of capital-class ships. I therefore believe the most effective way to address the Thargoid threat – in the short term at least – is a militia of seasoned combat pilots. Aegis has agreed to finance this initiative, which will aim to deliver a strategic blow to the Thargoids in the Pleiades Sector IR-W d1-55.” 
 
 Aegis Research has confirmed that it will reward pilots who hand in Pilots Federation Combat Bonds at The Oracle in the Pleiades Sector IR-W d1-55. 
 

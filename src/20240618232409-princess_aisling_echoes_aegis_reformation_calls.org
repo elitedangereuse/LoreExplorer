@@ -2,7 +2,7 @@
 :ID:       78189315-2f82-4b6d-98c6-673f440e7821
 :END:
 #+title: Princess Aisling Echoes Aegis Reformation Calls
-#+filetags: :Alliance:Empire:galnet:
+#+filetags: :Thargoid:Alliance:Empire:galnet:
 
 * Princess Aisling Echoes Aegis Reformation Calls
 
@@ -12,7 +12,7 @@ Princess [[id:b402bbe3-5119-4d94-87ee-0ba279658383][Aisling Duval]] has publicly
 
 Her message was shared on all Imperial newsfeeds: 
 
-“The Empire’s capability to defend itself is not in question. But neither is there any doubt that we are facing a protracted war. The ferocity and scale of the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] onslaught on human space is unprecedented. Of course the Empire will survive, as it has for over a millennium… but at what cost? How many systems must fall? How many citizens will grieve for lost loved ones?” 
+“The Empire’s capability to defend itself is not in question. But neither is there any doubt that we are facing a protracted war. The ferocity and scale of the Thargoid onslaught on human space is unprecedented. Of course the Empire will survive, as it has for over a millennium… but at what cost? How many systems must fall? How many citizens will grieve for lost loved ones?” 
 
 “Emperor Arissa, I implore you: work with the Alliance and Federation to reform Aegis. Our combined resources are needed to develop new technologies to overcome the alien armadas. Corporate interests must not dictate this path. Let Imperial ingenuity and courage light the way to victory over a common enemy.” 
 

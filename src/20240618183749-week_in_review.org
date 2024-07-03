@@ -2,7 +2,7 @@
 :ID:       bdf399ab-65db-47b0-8b3b-e88747edc4c0
 :END:
 #+title: Week in Review 03 Jun 3304
-#+filetags: :3304:galnet:
+#+filetags: :Thargoid:3304:galnet:
 
 * Week in Review
 
@@ -12,7 +12,7 @@ Here are this week’s major stories.
 
 The Socho system, headquarters of Aegis Core, has been overtaken by the Socho Gold Raiders, a criminal faction. The system is now in a state of anarchy. Aegis personnel, including Dr Mia Valencourt and Professor Alba Tesreau, have appealed to the galactic community to help free Socho from the criminals. 
 
-In related news, Aegis has announced that its Eagle Eye initiative has helped to repel [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] forces from systems in the Pleiades Nebula. Admiral Aden Tanner, Aegis’s chief military liaison, said that Thargoid incursions in the Lwalama and Lalande 4141 systems had been resisted due to the early warnings provided by Eagle Eye. 
+In related news, Aegis has announced that its Eagle Eye initiative has helped to repel Thargoid forces from systems in the Pleiades Nebula. Admiral Aden Tanner, Aegis’s chief military liaison, said that Thargoid incursions in the Lwalama and Lalande 4141 systems had been resisted due to the early warnings provided by Eagle Eye. 
 
 The Pilots Federation has reported that five independent ships have been attacked by terrorist organisation the League of Reparation, with the loss of all crewmembers. But the taskforce investigating the League made a breakthrough when it discovered that League agents receive their orders from a source codenamed ‘Nexus’. 
 

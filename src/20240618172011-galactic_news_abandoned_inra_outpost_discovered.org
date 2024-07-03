@@ -2,7 +2,7 @@
 :ID:       0f563339-de46-48e5-851b-ff52ad39a6e0
 :END:
 #+title: Galactic News: Abandoned INRA Outpost Discovered
-#+filetags: :3303:galnet:
+#+filetags: :Thargoid:3303:galnet:
 
 * Galactic News: Abandoned INRA Outpost Discovered
 
@@ -12,6 +12,6 @@ A number of media feeds in the core systems have reported the discovery of an ab
 
 The reports, together with images captured by independent pilots, indicate that the outpost was controlled by the Intergalactic Naval Reserve Arm (INRA), a joint Federal-Imperial initiative established in the 3100s. 
 
-Very little is known about the INRA, but reports from the time assert that it was established to address [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] incursions into human space, and that it developed a chemical weapon designed to target Thargoid technology. 
+Very little is known about the INRA, but reports from the time assert that it was established to address Thargoid incursions into human space, and that it developed a chemical weapon designed to target Thargoid technology. 
 
 Reports that the site contains logs describing INRA research are currently being corroborated.

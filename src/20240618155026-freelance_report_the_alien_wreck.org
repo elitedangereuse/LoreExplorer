@@ -2,13 +2,13 @@
 :ID:       c25a228c-cd9f-4946-b59c-90a7b6479ba1
 :END:
 #+title: Freelance Report: The Alien Wreck
-#+filetags: :Federation:Empire:3302:galnet:
+#+filetags: :Thargoid:Federation:Empire:3302:galnet:
 
 * Freelance Report: The Alien Wreck
 
 /08 Sep 3302/
 
-As independent pilots flock to the mysterious wreckage in the Pleiades, many have been speculating on the meaning of the discovery. Some believe the wreck is of [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] origin, but that rumour has little evidence to support it. 
+As independent pilots flock to the mysterious wreckage in the Pleiades, many have been speculating on the meaning of the discovery. Some believe the wreck is of Thargoid origin, but that rumour has little evidence to support it. 
 
 One pilot who visited the site shared his opinion: 
 

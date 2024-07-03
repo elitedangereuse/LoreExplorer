@@ -2,7 +2,7 @@
 :ID:       61b77cec-ef07-44f1-834a-df342dad639e
 :END:
 #+title: Week in Review 19 Aug 3304
-#+filetags: :3304:galnet:
+#+filetags: :Thargoid:3304:galnet:
 
 * Week in Review
 
@@ -12,7 +12,7 @@ Here are this week’s major stories.
 
 Campaigner Jarl Toredo has disclosed that he and Princess [[id:b402bbe3-5119-4d94-87ee-0ba279658383][Aisling Duval]] have been conducting a secret romantic relationship, despite her betrothal to Federal Ambassador Jordan Rochester. Toredo claims that the princess accepted Rochester’s proposal only as a means to advance her political plans. Princess Duval has refuted Toredo’s statement. 
 
-Dr Alfred Ulyanov, a leading exotheologian and an authority on the Far God cult, has been apprehended as a suspected [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] sympathiser. The Federal Intelligence Agency said that Dr Ulyanov’s involvement with the Far God cult made him a valid person of interest. 
+Dr Alfred Ulyanov, a leading exotheologian and an authority on the Far God cult, has been apprehended as a suspected Thargoid sympathiser. The Federal Intelligence Agency said that Dr Ulyanov’s involvement with the Far God cult made him a valid person of interest. 
 
 Meanwhile, The Federal Times has highlighted two new personal computer designs currently in development – the Torc from Supratech, and the Duradrive from Herculean Machines. Both companies plan to reveal prototypes of their designs at a technology expo in October. 
 

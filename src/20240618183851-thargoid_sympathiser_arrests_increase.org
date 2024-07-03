@@ -2,13 +2,13 @@
 :ID:       f28c5386-cde6-42fe-9f07-7dd70b38c9f9
 :END:
 #+title: Thargoid-Sympathiser Arrests Increase
-#+filetags: :3304:galnet:
+#+filetags: :Thargoid:3304:galnet:
 
 * Thargoid-Sympathiser Arrests Increase
 
 /08 Sep 3304/
 
-The Federal Intelligence Agency has increased arrests of potential [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] sympathisers, as it continues to investigate the Far God cult.  
+The Federal Intelligence Agency has increased arrests of potential Thargoid sympathisers, as it continues to investigate the Far God cult.  
 
 Independent reporter Gethin Okonkwo, who first raised awareness of doomsayer cults in the core systems, has been reported missing and is assumed to have been arrested. Many others who were researching the Far God sect remain in custody, including leading exotheologian Dr Alfred Ulyanov. 
 
@@ -18,4 +18,4 @@ Independent observers have confirmed that the FIA has discovered further empty F
 
 Senior Agent Micah Whitefield gave a brief statement: 
 
-“We will leave no stone unturned in our mission to identify [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] influences. The disappearance of Far God chapters is clearly a coordinated operation of either human or alien design. We warn anyone who may be harbouring cult members that they are impeding a Federal investigation, and will face criminal charges.”
+“We will leave no stone unturned in our mission to identify Thargoid influences. The disappearance of Far God chapters is clearly a coordinated operation of either human or alien design. We warn anyone who may be harbouring cult members that they are impeding a Federal investigation, and will face criminal charges.”

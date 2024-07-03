@@ -2,7 +2,7 @@
 :ID:       43e6cc58-0cf2-4d69-9dd2-c743482a51ff
 :END:
 #+title: Sap Core Legion Commodity Drive
-#+filetags: :galnet:
+#+filetags: :Thargoid:galnet:
 
 * Sap Core Legion Commodity Drive
 
@@ -14,7 +14,7 @@ Heike has some significance in the field of medicine – a species of tea plant 
 
 Professor Macklin Fox, speaking on behalf of Sap Core Legion, said: 
 
-"Sap Core Legion wishes to build this facility in response to a number of recent outbreaks and epidemics. When one also considers the current [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] conflict, we feel humanity would benefit from additional off-world medical resources.” 
+"Sap Core Legion wishes to build this facility in response to a number of recent outbreaks and epidemics. When one also considers the current Thargoid conflict, we feel humanity would benefit from additional off-world medical resources.” 
 
 Independent pilots have been invited to deliver advanced medicines, thallium and medical diagnostic equipment to Braun Enterprise in the Heike system. 
 

@@ -2,7 +2,7 @@
 :ID:       d1b2cad4-1bcf-499a-b135-e31756517d16
 :END:
 #+title: Superpowers Make Progress at the Galactic Summit
-#+filetags: :galnet:
+#+filetags: :Thargoid:galnet:
 
 * Superpowers Make Progress at the Galactic Summit
 
@@ -16,6 +16,6 @@ Vox Galactica featured this report from political correspondent Conrad Sterling:
 
 “The most significant of these treaties is the Cornelius-Lasky Convention, named after its two leading proponents. This requires the Alliance, Empire and Federation to share information on any large-scale threats to civilian populations, including environmental, medical and xenological crises.” 
 
-“There has been slow progress on other topics, such as military limitation and border control. Many independent ambassadors are demanding to prioritise debates on the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] issue, and especially the defensive role played by Aegis.” 
+“There has been slow progress on other topics, such as military limitation and border control. Many independent ambassadors are demanding to prioritise debates on the Thargoid issue, and especially the defensive role played by Aegis.” 
 
 “Outside the chamber, First Minister Fairfax invited Princess Duval to a small ceremony to honour her late father. Fairfax formally apologised for Prince Harold’s death and condemned the terrorists responsible. [[id:b402bbe3-5119-4d94-87ee-0ba279658383][Aisling Duval]] gracefully accepted this, but time will tell if it was an empty gesture or the first step toward Imperial-Marlinist rapprochement.”

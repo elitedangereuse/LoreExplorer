@@ -2,7 +2,7 @@
 :ID:       2852223d-0661-4ad3-9ffb-37e8f73084c0
 :END:
 #+title: Azimuth Divides Media Opinion
-#+filetags: :Alliance:galnet:
+#+filetags: :Thargoid:Alliance:galnet:
 
 * Azimuth Divides Media Opinion
 
@@ -10,11 +10,11 @@
 
 Editorial pieces published by newsfeeds across the core systems illustrate a range of viewpoints on current events in HIP 22460. 
 
-Eye on Achenar: “There is no doubt that the real threat to our Empire will arise once the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] are gone. That’s when Federal aggression will undoubtedly resume, fuelled by centuries of envy at our glorious splendour.” 
+Eye on Achenar: “There is no doubt that the real threat to our Empire will arise once the Thargoids are gone. That’s when Federal aggression will undoubtedly resume, fuelled by centuries of envy at our glorious splendour.” 
 
 Citizens' Chronicle: “Some may have mocked Princess [[id:b402bbe3-5119-4d94-87ee-0ba279658383][Aisling Duval]] for describing Salvation as ‘a master of self-promotion and public manipulation’. But her political instincts are astute, and we believe she is right to warn us against this dangerous man.” 
 
-Sol Today: “We can all see what will happen as soon as the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] have been dealt with. The Imperials will declare war against our democracy, seeking to enforce their totalitarian regime upon freedom-loving Federal citizens.” 
+Sol Today: “We can all see what will happen as soon as the Thargoids have been dealt with. The Imperials will declare war against our democracy, seeking to enforce their totalitarian regime upon freedom-loving Federal citizens.” 
 
 Federal Free Press: “The government’s focus on Salvation means that vital domestic issues are being ignored. Our economy is still geared toward military spending rather than helping those families and communites who rely on state support.” 
 

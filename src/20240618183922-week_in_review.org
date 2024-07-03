@@ -2,7 +2,7 @@
 :ID:       5405fbdb-de71-4054-aeb9-e55df95f839b
 :END:
 #+title: Week in Review 03 Nov 3304
-#+filetags: :Empire:3304:galnet:
+#+filetags: :Thargoid:Empire:3304:galnet:
 
 * Week in Review
 
@@ -12,7 +12,7 @@ Here are this week’s major stories.
 
 The investigation into the death of Alliance presidential candidate Fazia Silva has concluded with no convictions. Alliance Interpol confirmed that Silva’s death was a homicide, but said that all avenues of investigation had been exhausted. Tashmira Silva has now assumed control of her late sister’s corporate empire. 
 
-A radical group called Nova Imperium is gaining influence throughout the Empire. The organisation claims that to survive the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] conflict, the Empire must sever contact with all other systems and concentrate on protecting itself. Many traditionalist citizens, unhappy with recent cross-superpower cooperation, have embraced the group’s rhetoric. 
+A radical group called Nova Imperium is gaining influence throughout the Empire. The organisation claims that to survive the Thargoid conflict, the Empire must sever contact with all other systems and concentrate on protecting itself. Many traditionalist citizens, unhappy with recent cross-superpower cooperation, have embraced the group’s rhetoric. 
 
 Meanwhile, the engineer [[id:4551539e-a6b2-4c45-8923-40fb603202b7][Ram Tah]] has rejected an offer from the Sirius Corporation to support the manufacture of Guardian-human technology. In a statement, Ram Tah said the technologies were too important to become corporate products, and reaffirmed that using tech brokers to distribute the designs allowed them to be widely available. 
 

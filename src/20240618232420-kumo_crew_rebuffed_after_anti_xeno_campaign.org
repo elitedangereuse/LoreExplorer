@@ -2,7 +2,7 @@
 :ID:       9892e93e-e724-4063-a8f0-c21d22d6435c
 :END:
 #+title: Kumo Crew Rebuffed after Anti-Xeno Campaign
-#+filetags: :Alliance:galnet:
+#+filetags: :Thargoid:Alliance:galnet:
 
 * Kumo Crew Rebuffed after Anti-Xeno Campaign
 
@@ -10,13 +10,13 @@
 
 *Pilots’ Federation ALERT* 
 
-A successful initiative to hold the California Nebula against [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] invasion has succeeded, for now at least. 
+A successful initiative to hold the California Nebula against Thargoid invasion has succeeded, for now at least. 
 
-Systems recently invaded by [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] fleets were protected by a militia organised by the Kumo Council, the criminal syndicate’s ruling authority in the enclave. But an attempt to assume control of the region’s ports has been surprisingly repelled by opponents of Delaine. 
+Systems recently invaded by Thargoid fleets were protected by a militia organised by the Kumo Council, the criminal syndicate’s ruling authority in the enclave. But an attempt to assume control of the region’s ports has been surprisingly repelled by opponents of Delaine. 
 
 The Pegasi Sentinel reported on the situation: 
 
-“There can be no doubt that [[id:7aae0550-b8ba-42cf-b52b-e7040461c96f][Archon Delaine]] takes the security of the California Nebula seriously. Many lives were saved thanks to his decisive actions. A Kumo Crew anti-xeno militia is already being considered for future [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] attacks.” 
+“There can be no doubt that [[id:7aae0550-b8ba-42cf-b52b-e7040461c96f][Archon Delaine]] takes the security of the California Nebula seriously. Many lives were saved thanks to his decisive actions. A Kumo Crew anti-xeno militia is already being considered for future Thargoid attacks.” 
 
 “Local residents remain wary of Delaine’s reputation, however. Security forces deployed to local ports have been driven out, with communities apparently unconvinced by claims of ‘emergency security measures’. Turner Research Group has re-established control in locations the Kumo Council had attempted to seize.” 
 
@@ -24,4 +24,4 @@ A related article was also published by The Alliance Tribune:
 
 “The Assembly received an urgent request for support from the Turner Research Group. They claim that the Kumo Crew’s campaign was an excuse to encroach upon the Alliance’s operations in the California Nebula. Councillors have raised a motion to begin a formal inquiry into the situation.” 
 
-The Mictlan megaship, currently in California Sector HR-W d1-28, is reimbursing [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] combat bonds for all pilots who contributed to the initiatives.
+The Mictlan megaship, currently in California Sector HR-W d1-28, is reimbursing Thargoid combat bonds for all pilots who contributed to the initiatives.

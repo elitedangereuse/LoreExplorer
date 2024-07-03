@@ -2,7 +2,7 @@
 :ID:       fe460b2d-6d09-4264-9a1d-1f926c0e3ffb
 :END:
 #+title: New Phase for Alliance-Sirius Partnership
-#+filetags: :Alliance:galnet:
+#+filetags: :Thargoid:Alliance:galnet:
 
 * New Phase for Alliance-Sirius Partnership
 
@@ -14,7 +14,7 @@ Political journalist Vanya Driscoll reported on the development for The Alliance
 
 “Sirius Corporation has been a key partner in the Alliance’s expansion programme. Most notably, its subsidiary Sirius Atmospherics helped establish colonies in the Coalsack Nebula to support meta-alloy harvesting.” 
 
-“But according to insiders, the suspension of Aegis and the increasing [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] presence has raised fears that Alliance systems may be vulnerable to xeno invasion. This has led to Prime Minister [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74][Edmund Mahon]] suggesting a strategic defence contract with the megacorp.” 
+“But according to insiders, the suspension of Aegis and the increasing Thargoid presence has raised fears that Alliance systems may be vulnerable to xeno invasion. This has led to Prime Minister [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74][Edmund Mahon]] suggesting a strategic defence contract with the megacorp.” 
 
 “In response, CEO [[id:f0655b3a-aca9-488f-bdb3-c481a42db384][Li Yong-Rui]] himself has travelled to the Alioth system. It’s understood that high-level discussions are taking place on ways in which the company might augment the Alliance Defence Force’s capabilities.” 
 

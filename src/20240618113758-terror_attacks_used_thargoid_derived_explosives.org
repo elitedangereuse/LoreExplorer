@@ -2,7 +2,7 @@
 :ID:       983f0684-7cfb-4df3-8641-afc9abf41be0
 :END:
 #+title: Terror Attacks Used Thargoid-Derived Explosives
-#+filetags: :galnet:
+#+filetags: :Thargoid:galnet:
 
 * Terror Attacks Used Thargoid-Derived Explosives
 
@@ -10,11 +10,11 @@
 
 The Imperial Internal Security Service has transmitted another urgent bulletin regarding terrorist attacks on starports in the Empire. 
 
-“There have been indications that the four starports came under attack by Thargoids. We can confirm that this is not the case, and there is no evidence of [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] vessels in the vicinity.” 
+“There have been indications that the four starports came under attack by Thargoids. We can confirm that this is not the case, and there is no evidence of Thargoid vessels in the vicinity.” 
 
-“Observers reported that some of the damage inflicted on the stations’ infrastructure closely resembled the effect of [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] weaponry. This was registered by internal sensor systems, resulting in automatic emergency broadcasts designed to summon aid during a Thargoid incursion.” 
+“Observers reported that some of the damage inflicted on the stations’ infrastructure closely resembled the effect of Thargoid weaponry. This was registered by internal sensor systems, resulting in automatic emergency broadcasts designed to summon aid during a Thargoid incursion.” 
 
-“Preliminary investigations suggest the use of customised explosive devices that incorporated elements of [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] technology. This suggests that the perpetrators have access to unusually sophisticated resources as well as xenological materials.” 
+“Preliminary investigations suggest the use of customised explosive devices that incorporated elements of Thargoid technology. This suggests that the perpetrators have access to unusually sophisticated resources as well as xenological materials.” 
 
 “As yet there is no reason to doubt that the Neo-Marlinist Liberation Army (NMLA) is responsible for these attacks. We have received reports of jubilant scenes from some Imperial fringe systems, in territories where Marlinism remains popular.” 
 

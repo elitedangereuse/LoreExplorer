@@ -2,7 +2,7 @@
 :ID:       42476dd0-a466-4215-b85b-dbd4083ae77b
 :END:
 #+title: Princess Aisling ‘Understood Risk of Speaking Out’
-#+filetags: :Alliance:Empire:galnet:
+#+filetags: :Thargoid:Alliance:Empire:galnet:
 
 * Princess Aisling ‘Understood Risk of Speaking Out’
 
@@ -16,7 +16,7 @@ She discussed her new role during an interview with The Imperial Herald:
 
 “I’ve been liaising with Professor Alba Tesreau, as well as Dr Fonseca, Vice Admiral Anderson and the rest of my team. Our challenge is to make the most of the Imperial resources allocated to Aegis.” 
 
-“It’s true that I was critical of Aegis’s effectiveness in the past, but I’ve always believed that cooperation with other superpowers can bring mutual benefits. The mass slaughter inflicted by the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] eclipses the NMLA’s atrocities – a challenge we faced together. We must trust each other now as we did then.” 
+“It’s true that I was critical of Aegis’s effectiveness in the past, but I’ve always believed that cooperation with other superpowers can bring mutual benefits. The mass slaughter inflicted by the Thargoids eclipses the NMLA’s atrocities – a challenge we faced together. We must trust each other now as we did then.” 
 
 The newsfeed also featured a response from Hadrian Augustus Duval: 
 
@@ -24,4 +24,4 @@ The newsfeed also featured a response from Hadrian Augustus Duval:
 
 Royal correspondent Gudrun Vestergaard observed: 
 
-“This is a calculated move by Emperor Arissa Lavigny-Duval. If Aegis fails, her isolationist policy will be vindicated. If Aegis succeeds, she can claim credit for permitting this exception. The risk is whether the public would credit an Aegis-assisted victory over the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] to the Princess. Such an outcome would increase Aisling’s popularity and political capital to a level Arissa is unlikely to tolerate for long.”
+“This is a calculated move by Emperor Arissa Lavigny-Duval. If Aegis fails, her isolationist policy will be vindicated. If Aegis succeeds, she can claim credit for permitting this exception. The risk is whether the public would credit an Aegis-assisted victory over the Thargoids to the Princess. Such an outcome would increase Aisling’s popularity and political capital to a level Arissa is unlikely to tolerate for long.”

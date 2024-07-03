@@ -2,7 +2,7 @@
 :ID:       867fcdb7-c170-40dc-9e89-99f8437bc71a
 :END:
 #+title: Pulse Wave Xeno Scanner Now Available
-#+filetags: :galnet:
+#+filetags: :Thargoid:galnet:
 
 * Pulse Wave Xeno Scanner Now Available
 
@@ -16,10 +16,10 @@ Deliveries of ceramic composites, polymers, gallium and indium were immediately 
 
 Professor Alba Tesreau, head of Aegis, released a statement: 
 
-“The [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Titans represent not only the greatest threat to humanity, but also the greatest scientific opportunity in a generation. Learning more about these enormous constructs could be crucial to our understanding of the Thargoid species, which I still believe is the only path to ending the war.” 
+“The Thargoid Titans represent not only the greatest threat to humanity, but also the greatest scientific opportunity in a generation. Learning more about these enormous constructs could be crucial to our understanding of the Thargoid species, which I still believe is the only path to ending the war.” 
 
 “A coalition of Allied, Federal and Imperial technicians worked around the clock to modify Professor Palin’s xeno scanner using pulse wave technology. Thanks to the dedication of independent pilots in providing resources, the new module has been made available in excellent time.” 
 
-“Aegis has a keen interest in all information that can be gleaned about the Titans. I sincerely hope that the data we acquire will add to our scant knowledge about the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] and lead to further discoveries.” 
+“Aegis has a keen interest in all information that can be gleaned about the Titans. I sincerely hope that the data we acquire will add to our scant knowledge about the Thargoids and lead to further discoveries.” 
 
 Rewards are now available at Muller Terminal in the Rabh system for all those who transported supplies for this project.

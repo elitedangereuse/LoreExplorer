@@ -2,6 +2,7 @@
 :ID:       865093c7-c399-460e-9dda-fb298f3f5d7f
 :END:
 #+title: Omphalos Rift
+#+filetags: :Thargoid:
 * Omphalos of [[id:846bfbc7-75e7-4d8d-8716-7fe0346026f4][Delphi]]
 [[https://en.wikipedia.org/wiki/Omphalos_of_Delphi][Omphalos of Delphi [wikipedia]​]]
 
@@ -23,5 +24,5 @@
   [[id:34f7ac72-4ef4-494f-9982-87fbeadd8086][Formidine Rift]]
 
 * Hypothesis
-  Could be [[id:df71ddf4-a45f-4785-b42a-bcd5a396e8ac][Ammonia]] based world for [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] to retreat after the
+  Could be [[id:df71ddf4-a45f-4785-b42a-bcd5a396e8ac][Ammonia]] based world for Thargoids to retreat after the
   first war? The same way humans did for [[id:85f1b96f-7e6c-4350-9f42-fe1b9453de1a][Project Dynasty]]?

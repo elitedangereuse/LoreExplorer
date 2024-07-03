@@ -2,7 +2,7 @@
 :ID:       46c9c676-2020-4a48-8a85-cc5af502ad4d
 :END:
 #+title: Materials Required for Xeno-Peace Convoy
-#+filetags: :galnet:
+#+filetags: :Thargoid:galnet:
 
 * Materials Required for Xeno-Peace Convoy
 
@@ -12,12 +12,12 @@
 
 Federal Governor Dalton Chase requests deliveries to the Andavandul system to establish a xeno-peace envoy vessel. 
 
-The initiative spearheaded by Chase, a member of the Liberal Party who is currently campaigning for a congressional seat, intends to provide a megaship for use in [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Advocacy Project operations. He announced: 
+The initiative spearheaded by Chase, a member of the Liberal Party who is currently campaigning for a congressional seat, intends to provide a megaship for use in Thargoid Advocacy Project operations. He announced: 
 
-“The Federation’s leaders are sworn to protect its people, yet our aggressive interactions with the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] have placed entire systems in great danger. Order of the Far God cultists shouldn’t be the image we conjure when suggesting non-military options. It’s time to prove that we possess the capacity for peaceful relations with other species.”	 
+“The Federation’s leaders are sworn to protect its people, yet our aggressive interactions with the Thargoids have placed entire systems in great danger. Order of the Far God cultists shouldn’t be the image we conjure when suggesting non-military options. It’s time to prove that we possess the capacity for peaceful relations with other species.”	 
 
-“The convoy established on behalf of the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Advocacy Project is a non-partisan diplomatic mission representing humanity’s call for a ceasefire. Its purpose is to find ways to communicate with the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] and make peaceful overtures. Imagine it: diplomatic channels between different races. Peace in our time! Lend us your support to lay this foundation for a more harmonious future.” 
+“The convoy established on behalf of the Thargoid Advocacy Project is a non-partisan diplomatic mission representing humanity’s call for a ceasefire. Its purpose is to find ways to communicate with the Thargoids and make peaceful overtures. Imagine it: diplomatic channels between different races. Peace in our time! Lend us your support to lay this foundation for a more harmonious future.” 
 
-Other notable figures in the xeno-peace movement have endorsed Governor Chase’s congressional campaign. Leading ICE-caster Joy Senne has referred to him as ‘our ambassador of hope’. Heimar Borichev revealed that Chase intends to lobby Shadow President Winters to incorporate [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] diplomacy into Liberal Party policies. 
+Other notable figures in the xeno-peace movement have endorsed Governor Chase’s congressional campaign. Leading ICE-caster Joy Senne has referred to him as ‘our ambassador of hope’. Heimar Borichev revealed that Chase intends to lobby Shadow President Winters to incorporate Thargoid diplomacy into Liberal Party policies. 
 
 Deutsche Elite Piloten Interstellar has agreed to host the pro-peace megaship initiative, and will organise payment for shipments of computer components, semiconductors and titanium to Blenkinsop Hub in the Andavandul system. To protect deliveries, Deutsche Elite Piloten Interstellar will also reimburse combat vouchers for all wanted ships.

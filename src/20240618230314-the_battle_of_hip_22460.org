@@ -2,7 +2,7 @@
 :ID:       c527895e-7c83-4a95-b810-f1c688a02a0b
 :END:
 #+title: The Battle of HIP 22460
-#+filetags: :galnet:
+#+filetags: :Thargoid:galnet:
 
 * The Battle of HIP 22460
 
@@ -12,7 +12,7 @@ Vox Galactica has published an on-site account from the HIP 22460 system, where 
 
 “This is [[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]] reporting for Vox Galactica. I’ve been in HIP 22460 over the past two weeks, and during this time the system has been transformed into a ferocious battleground.” 
 
-“Naval and independent craft are fighting side by side against the biomechanical nightmares that are [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] vessels. Many brave pilots have lost their lives to the aliens’ firepower, several of whom I spoke to only hours before. The official casualty numbers are climbing rapidly. But so far the coalition is holding the line.” 
+“Naval and independent craft are fighting side by side against the biomechanical nightmares that are Thargoid vessels. Many brave pilots have lost their lives to the aliens’ firepower, several of whom I spoke to only hours before. The official casualty numbers are climbing rapidly. But so far the coalition is holding the line.” 
 
 “The Bright Sentinel is at the eye of the storm, aboard which high concentrations of Guardian devices are being prepared for integration with the Proteus Wave device on HIP 22460 10b. We know little about this superweapon’s properties, considering its origins stem from the technology of a long-extinct civilisation. Perhaps only Salvation can claim such an understanding. But he is certainly not willing to share his unique knowledge, since it has placed all three superpowers at his beck and call.” 
 
@@ -20,6 +20,6 @@ Vox Galactica has published an on-site account from the HIP 22460 system, where 
 
 “This mirrors the results of a recent study by Orion University into public sentiment towards Salvation’s grand plan. The campaign in HIP 22460 enjoys general social network support from users fatigued by this years-long war, particularly following Salvation’s claims of complete victory. Others remain sceptical of Salvation, citing concerns over the Proteus Wave’s future as well as historical crimes committed by Azimuth personnel. A small demographic, recently given a voice by popular ICE creator Joy Senne, has suggested that Salvation’s influence has actively prevented efforts to communicate with the Thargoids, dashing hopes of a diplomatic solution to the conflict.” 
 
-“Could HIP 22460 really be the final battle of the Second [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] War? Many combat pilots here are convinced that Salvation can achieve this, and are willing to die for his cause. Right now, we can only wait and hope that their continued sacrifices are worthwhile.” 
+“Could HIP 22460 really be the final battle of the Second Thargoid War? Many combat pilots here are convinced that Salvation can achieve this, and are willing to die for his cause. Right now, we can only wait and hope that their continued sacrifices are worthwhile.” 
 
 “This is [[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]] for Vox Galactica. Stay safe out there.”

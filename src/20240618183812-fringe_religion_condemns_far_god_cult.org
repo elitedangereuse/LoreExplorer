@@ -2,7 +2,7 @@
 :ID:       df2e71b3-3676-48cd-b8c1-45b1b8287e84
 :END:
 #+title: Fringe Religion Condemns Far God Cult
-#+filetags: :3304:galnet:
+#+filetags: :Thargoid:3304:galnet:
 
 * Fringe Religion Condemns Far God Cult
 
@@ -12,7 +12,7 @@ The Church of Eternal Void has denounced the so-called Far God cult, which worsh
 
 A spokesperson identified as Cardinal Hieronymous made this statement: 
 
-“As disciples of the Guardians, we hereby declare war on those who have sold their souls to the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] demons. We vow to expunge their poisonous creed and purge them from the galaxy.” 
+“As disciples of the Guardians, we hereby declare war on those who have sold their souls to the Thargoid demons. We vow to expunge their poisonous creed and purge them from the galaxy.” 
 
 Since this statement was made, the Church has seen a dramatic upswing in support from local communities. Juanita Bishop, who has been campaigning against the Far God sect, commented: 
 
@@ -22,6 +22,6 @@ Security forces in many systems have issued reminders that the Far God sect is l
 
 Dr Alfred Ulyanov, a leading exotheologian, discussed the situation on the Rewired news feed: 
 
-“A number of doomsayer cults have emerged recently, including Homo Terminus, Nova Imperium and the Order of Extinction. But of all those I’ve studied, the Church of Eternal Void differs in one key respect – it offers hope. They claim that veneration of [[id:f57cff55-3348-45ea-b76f-d0eaa3c68165][the Guardians]] will prevent [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Armageddon, which is probably why they’re the most popular, being based on a classic binary theology of good versus evil.” 
+“A number of doomsayer cults have emerged recently, including Homo Terminus, Nova Imperium and the Order of Extinction. But of all those I’ve studied, the Church of Eternal Void differs in one key respect – it offers hope. They claim that veneration of [[id:f57cff55-3348-45ea-b76f-d0eaa3c68165][the Guardians]] will prevent Thargoid Armageddon, which is probably why they’re the most popular, being based on a classic binary theology of good versus evil.” 
 
-“It’s apparent that the Church is taking advantage of animosity towards the Far God sect to promote itself. The idea of [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] spies in human form, although baseless, has caused much anxiety. By declaring the Cult a holy adversary, the Church validates its own existence.”
+“It’s apparent that the Church is taking advantage of animosity towards the Far God sect to promote itself. The idea of Thargoid spies in human form, although baseless, has caused much anxiety. By declaring the Cult a holy adversary, the Church validates its own existence.”

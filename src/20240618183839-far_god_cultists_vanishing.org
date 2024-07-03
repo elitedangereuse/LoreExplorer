@@ -2,7 +2,7 @@
 :ID:       8e3c8886-f539-440d-912c-e86d9477d1dd
 :END:
 #+title: Far God Cultists Vanishing
-#+filetags: :3304:galnet:
+#+filetags: :Thargoid:3304:galnet:
 
 * Far God Cultists Vanishing
 
@@ -22,4 +22,4 @@ Dr Jameelah Griffin of the Galactic Interfaith Commune commented:
 
 Anti-cult campaigner Juanita Bishop also made a statement: 
 
-“It’s obvious to me that these spies are returning to their [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] masters, to inform them of what they’ve learned. Arresting them isn’t enough – we need a more permanent solution for these traitors.”
+“It’s obvious to me that these spies are returning to their Thargoid masters, to inform them of what they’ve learned. Arresting them isn’t enough – we need a more permanent solution for these traitors.”

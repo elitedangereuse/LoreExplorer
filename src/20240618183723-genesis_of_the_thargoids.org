@@ -2,7 +2,7 @@
 :ID:       72f368d2-deb2-4205-b941-b9ceb061e6dd
 :END:
 #+title: Genesis of the Thargoids?
-#+filetags: :3304:galnet:
+#+filetags: :Thargoid:3304:galnet:
 
 * Genesis of the Thargoids?
 
@@ -12,12 +12,12 @@ Professor Cora Shaw, director of the Palin Institute, has published a paper spec
 
 Extracts from her paper are reprinted below: 
 
-“Considering the Thargoids’ impact on our civilisation, it is disturbing that we still know so little about them. Information from Guardian sites has shed some light on the Thargoids’ ancient history, but it’s clear they were an established spacefaring species long before they encountered the Guardians. So where did the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] come from?” 
+“Considering the Thargoids’ impact on our civilisation, it is disturbing that we still know so little about them. Information from Guardian sites has shed some light on the Thargoids’ ancient history, but it’s clear they were an established spacefaring species long before they encountered the Guardians. So where did the Thargoids come from?” 
 
-“We know that the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] are insectoid in nature with an affinity for ammonia-based worlds. This suggests they may have evolved in a harsh, low-temperature environment, which might explain their overdeveloped survival instincts and aggressive nature. But we also know the Thargoids are experts in bioengineering, so they may have augmented their own biology to a point where natural evolutionary processes are meaningless.” 
+“We know that the Thargoids are insectoid in nature with an affinity for ammonia-based worlds. This suggests they may have evolved in a harsh, low-temperature environment, which might explain their overdeveloped survival instincts and aggressive nature. But we also know the Thargoids are experts in bioengineering, so they may have augmented their own biology to a point where natural evolutionary processes are meaningless.” 
 
-“Since much of the Milky Way remains uncharted, the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] homeworld might be just beyond known space or on the other side of the galaxy – if it exists at all. It’s possible they are now a nomadic species, existing entirely in space, or within fabricated hives of some kind. It may even be that they have journeyed across millions of light years, from Andromeda or beyond, like a swarm of locusts seeking fresh crops to consume.” 
+“Since much of the Milky Way remains uncharted, the Thargoid homeworld might be just beyond known space or on the other side of the galaxy – if it exists at all. It’s possible they are now a nomadic species, existing entirely in space, or within fabricated hives of some kind. It may even be that they have journeyed across millions of light years, from Andromeda or beyond, like a swarm of locusts seeking fresh crops to consume.” 
 
 “Other theories are more esoteric but worthy of exploration. We know that their vessels are capable of hovering in hyperspace, suggesting that witch-space is comfortable for them. Could living beings actually originate from hyperspace?” 
 
-“Alternatively, they may be using hyperspace as a conduit from a dimensional plane entirely separate from real space. The [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] may not just be extragalactic in origin, but extra-universal.”
+“Alternatively, they may be using hyperspace as a conduit from a dimensional plane entirely separate from real space. The Thargoids may not just be extragalactic in origin, but extra-universal.”

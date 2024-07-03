@@ -2,7 +2,7 @@
 :ID:       ef91040a-28f7-4004-b792-f5e5b3297351
 :END:
 #+title: Admiral Tanner Withdraws from Federal Navy
-#+filetags: :Federation:galnet:
+#+filetags: :Thargoid:Federation:galnet:
 
 * Admiral Tanner Withdraws from Federal Navy
 
@@ -16,8 +16,8 @@ Admiral Tanner released a personal statement, which was published by The Federal
 
 “I must begin by expressing my gratitude to President Hudson, and thank all those who supported my actions in the T Tauri system. History has proven that Salvation was willing to sacrifice millions of lives in his personal vendetta against the Thargoids, and we are suffering the after-effects of that obsession today.” 
 
-“The Federal Navy was once my home, but my disillusionment has grown over recent years. Politics and commercial influences hold this great institution back from safeguarding the Federation to its fullest capability. Now that the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] threat has reached such a colossal degree, I find such restrictions frustrating to a point that I would likely be a nuisance to my fellow admirals. I have too much respect for every person serving the navy to offer anything less than my best – that best is now prohibited by bureaucracy. Therefore I am stepping down for the benefit of all.” 
+“The Federal Navy was once my home, but my disillusionment has grown over recent years. Politics and commercial influences hold this great institution back from safeguarding the Federation to its fullest capability. Now that the Thargoid threat has reached such a colossal degree, I find such restrictions frustrating to a point that I would likely be a nuisance to my fellow admirals. I have too much respect for every person serving the navy to offer anything less than my best – that best is now prohibited by bureaucracy. Therefore I am stepping down for the benefit of all.” 
 
 “As per the presidential pardon’s terms, I will continue developing anti-xeno strategies as an independent military specialist. I will liaise directly with Fleet Admiral Tayo Maikori to contribute to the navy’s war efforts, while also collaborating with other organisations down the line. I remain dedicated to saving lives and bringing this war to an end as soon as possible.” 
 
-“To any [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] who may be listening: you haven’t seen the last of me yet.”
+“To any Thargoids who may be listening: you haven’t seen the last of me yet.”

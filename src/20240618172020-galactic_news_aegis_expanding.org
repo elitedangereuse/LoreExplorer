@@ -2,7 +2,7 @@
 :ID:       8e544935-e7e2-40db-8b04-4ddac203a164
 :END:
 #+title: Galactic News: Aegis Expanding
-#+filetags: :Empire:3303:galnet:
+#+filetags: :Thargoid:Empire:3303:galnet:
 
 * Galactic News: Aegis Expanding
 
@@ -14,4 +14,4 @@ The reports indicate that Aegis intends to establish more than twenty orbital ou
 
 Admiral Aden Tanner, Aegis’s chief military liaison, commented briefly on the news: 
 
-“In my view it is imperative that Aegis has a consolidated presence in the Pleiades, close to the centre of [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] activity. Fortunately our backers in the Alliance, Empire and Federation agree with me.”
+“In my view it is imperative that Aegis has a consolidated presence in the Pleiades, close to the centre of Thargoid activity. Fortunately our backers in the Alliance, Empire and Federation agree with me.”

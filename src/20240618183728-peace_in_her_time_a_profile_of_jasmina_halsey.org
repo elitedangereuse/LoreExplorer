@@ -2,7 +2,7 @@
 :ID:       8d733f9c-d700-441a-a1a6-279851291178
 :END:
 #+title: Peace in Her Time: A Profile of Jasmina Halsey
-#+filetags: :Alliance:Federation:3304:galnet:
+#+filetags: :Thargoid:Alliance:Federation:3304:galnet:
 
 * Peace in Her Time: A Profile of Jasmina Halsey
 
@@ -16,6 +16,6 @@ Key extracts from the article are reprinted below:
 
 “But it was Starship One’s destruction that transformed Halsey – something that she herself could not possibly have planned. Her subsequent ‘visions’ made her politically toxic, at least as far as the Federation was concerned, allowing her to simply walk away from presidential life. In that escape pod, she escaped from more than an exploding ship – she escaped her previous self.” 
 
-“Critics argue that Halsey’s extraordinary claims of encountering super-intelligent beings and seeing paradise are meaningless without evidence. And yet, in a cosmos containing [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] and Guardians, can they be easily dismissed? Or are her outlandish claims designed to cultivate a following among the disenfranchised and make her into a messianic figure?” 
+“Critics argue that Halsey’s extraordinary claims of encountering super-intelligent beings and seeing paradise are meaningless without evidence. And yet, in a cosmos containing Thargoids and Guardians, can they be easily dismissed? Or are her outlandish claims designed to cultivate a following among the disenfranchised and make her into a messianic figure?” 
 
 “If Halsey is walking a deliberate path, it remains an unstable one. Many in the Alliance have questioned why their leader is taking advice from a former psychiatric patient, let alone an ex-Federal President. Whether she is a visionary, a lunatic or a brilliant political manipulator remains to be seen.”

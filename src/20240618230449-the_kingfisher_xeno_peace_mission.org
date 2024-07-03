@@ -2,7 +2,7 @@
 :ID:       68cd5a3b-624e-4566-ae8c-f92bffcd2861
 :END:
 #+title: The Kingfisher Xeno-Peace Mission
-#+filetags: :galnet:
+#+filetags: :Thargoid:galnet:
 
 * The Kingfisher Xeno-Peace Mission
 
@@ -12,7 +12,7 @@
 
 The Kingfisher megaship has requested supplies for its planned journey to greet the first rogue signal source. 
 
-Shipments of basic medicines, fruit and vegetables are required for the Kingfisher’s crew, who will be joined by over 3,000 supporters of the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Advocacy Project. Semiconductors and Muon Imagers have also been requested to establish the mission’s communications arrays, which are being designed to initiate contact with the Thargoids. 
+Shipments of basic medicines, fruit and vegetables are required for the Kingfisher’s crew, who will be joined by over 3,000 supporters of the Thargoid Advocacy Project. Semiconductors and Muon Imagers have also been requested to establish the mission’s communications arrays, which are being designed to initiate contact with the Thargoids. 
 
 Congressman Dalton Chase gave a press statement regarding the initiative: 
 

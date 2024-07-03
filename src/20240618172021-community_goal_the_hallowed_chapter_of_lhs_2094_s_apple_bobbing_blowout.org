@@ -2,7 +2,7 @@
 :ID:       4503c8c9-c2cc-4d11-bb6c-ca71a2e953ff
 :END:
 #+title: Community Goal: The Hallowed Chapter of LHS 2094's Apple-Bobbing Blowout
-#+filetags: :3303:galnet:
+#+filetags: :Thargoid:3303:galnet:
 
 * Community Goal: The Hallowed Chapter of LHS 2094's Apple-Bobbing Blowout
 
@@ -16,6 +16,6 @@ To ensure the event is a success, the Hallowed Chapter of LHS 2094 has placed an
 
 A spokesperson for the Hallowed Chapter of LHS 2094 elaborated on the nature of the event: 
 
-"There's a risk the festivities could be overshadowed by this whole [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] thing, but just because there are hostile aliens in Maia doesn't mean we can't have fun. I mean, the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] are all the way out there...and the party is happening right here!" 
+"There's a risk the festivities could be overshadowed by this whole Thargoid thing, but just because there are hostile aliens in Maia doesn't mean we can't have fun. I mean, the Thargoids are all the way out there...and the party is happening right here!" 
 
 The campaign begins on the 26th of October 3303 and will run for one week. If the final target is met earlier than planned, the campaign will end immediately.

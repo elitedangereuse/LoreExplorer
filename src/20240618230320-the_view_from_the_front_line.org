@@ -2,7 +2,7 @@
 :ID:       50bff4ab-7fc8-488e-aad4-8c52e24d37b6
 :END:
 #+title: The View from the Front Line
-#+filetags: :Alliance:galnet:
+#+filetags: :Thargoid:Alliance:galnet:
 
 * The View from the Front Line
 
@@ -10,9 +10,9 @@
 
 Vox Galactica reporter [[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]] has broadcast an update on the conflict taking place in the HIP 22460 system. 
 
-“The fierce fighting in HIP 22460 has intensified over the past week. Swarms of [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] vessels can be encountered throughout the system, cutting down any ill-prepared ships within range. The combined human forces are battling furiously to diminish the alien fleet.” 
+“The fierce fighting in HIP 22460 has intensified over the past week. Swarms of Thargoid vessels can be encountered throughout the system, cutting down any ill-prepared ships within range. The combined human forces are battling furiously to diminish the alien fleet.” 
 
-“A total of seven capital ships, all armed with experimental weaponry, are now providing support for AX squadrons. I’ve been mesmerised by the intense volleys of energy beams that flash from these gigantic craft, seeking out the dark-hulled [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] as they swoop and spin with an eerie grace. Distance offers these sights a strange beauty, a distraction from the ugly fact that many lives are lost with each skirmish.” 
+“A total of seven capital ships, all armed with experimental weaponry, are now providing support for AX squadrons. I’ve been mesmerised by the intense volleys of energy beams that flash from these gigantic craft, seeking out the dark-hulled Thargoids as they swoop and spin with an eerie grace. Distance offers these sights a strange beauty, a distraction from the ugly fact that many lives are lost with each skirmish.” 
 
 “It appears the Alliance’s military pact with Sirius Corporation is starting to gain traction. The megaship El Centinela Cadejo recently arrived in Pleiades Sector CW-U B3-2 from Arimpox, providing logistical support for the Alliance Defence Force in HIP 22460. My military contacts inform me that Azimuth Biotech had sought to restrict Sirius Corporation vessels from participating in the Proteus Wave campaign, perhaps fearful of corporate espionage. [[id:f0655b3a-aca9-488f-bdb3-c481a42db384][Li Yong-Rui]] would approve of the rather deliberate choice to move El Centinela Cadejo to the same system as Azimuth’s Musashi and Glorious Prospect megaships.” 
 

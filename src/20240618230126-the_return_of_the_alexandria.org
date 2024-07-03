@@ -2,7 +2,7 @@
 :ID:       6bb28f75-e92b-4542-94af-6e7a2924b08c
 :END:
 #+title: The Return of the Alexandria
-#+filetags: :galnet:
+#+filetags: :Thargoid:galnet:
 
 * The Return of the Alexandria
 
@@ -14,7 +14,7 @@ The Aegis megaship Alexandria, which vanished in hyperspace seven months ago, ha
 
 A select group of independent pilots located the Alexandria following a search instigated by Professor Alba Tesreau, former head of research at Aegis. She was forced to resign as a result of the Baumann Report, which was instigated by the controversial loss of this megaship. 
 
-In June 3307, the Alexandria was pursued by [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] vessels due to a considerable number of Guardian artefacts held on board. It initiated a hyperspace jump to the HIP 30944 system to offload its cargo but never arrived. The megaship was assumed to have been hyperdicted by the Thargoids, resulting in the death of all four thousand crewmembers. 
+In June 3307, the Alexandria was pursued by Thargoid vessels due to a considerable number of Guardian artefacts held on board. It initiated a hyperspace jump to the HIP 30944 system to offload its cargo but never arrived. The megaship was assumed to have been hyperdicted by the Thargoids, resulting in the death of all four thousand crewmembers. 
 
 According to on-site witnesses, the remains of the Alexandria are currently scattered across the planetary rings of Wregoe TC-X b29-0 AB 2 A. Ships are investigating the debris, but so far have not reported finding any survivors or Guardian relics. 
 

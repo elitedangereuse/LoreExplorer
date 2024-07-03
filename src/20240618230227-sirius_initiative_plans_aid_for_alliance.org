@@ -2,7 +2,7 @@
 :ID:       82a42d21-f0b0-4a1d-b008-a4a63ed103dd
 :END:
 #+title: Sirius Initiative Plans Aid for Alliance
-#+filetags: :Alliance:Empire:galnet:
+#+filetags: :Thargoid:Alliance:Empire:galnet:
 
 * Sirius Initiative Plans Aid for Alliance
 
@@ -10,9 +10,9 @@
 
 *Pilots’ Federation ALERT* 
 
-Sirius Corporation has organised humanitarian support for the Didio system, which is under attack by [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] vessels. 
+Sirius Corporation has organised humanitarian support for the Didio system, which is under attack by Thargoid vessels. 
 
-The Alliance Defence Fleet is currently combating the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] threat in Didio, under the command of Admiral Rachel Ziegler.  
+The Alliance Defence Fleet is currently combating the Thargoid threat in Didio, under the command of Admiral Rachel Ziegler.  
 
 Admiral Nikolas Glass, who acts as a liaison between the megacorp and the Alliance Defence Force, provided details of the campaign: 
 
@@ -22,4 +22,4 @@ Admiral Nikolas Glass, who acts as a liaison between the megacorp and the Allian
 
 Sirius Corporation has been criticised for not providing similar support to the Novas and Sosong systems, which have also been invaded. A spokesperson for the megacorp stated that the strategic defence pact’s trial applies exclusively to the Alliance. Any similar relationship with the Empire and Federation would require separate negotiations, though the spokesperson stressed that [[id:f0655b3a-aca9-488f-bdb3-c481a42db384][Li Yong-Rui]] has no interest in such talks at this time. 
 
-A joint operation between the superpowers is currently underway in Didio, Novas and Sosong to counter recent [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] invasions. This is to buy time for Salvation’s anti-xeno superweapons to be constructed.
+A joint operation between the superpowers is currently underway in Didio, Novas and Sosong to counter recent Thargoid invasions. This is to buy time for Salvation’s anti-xeno superweapons to be constructed.

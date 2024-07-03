@@ -2,7 +2,7 @@
 :ID:       0e4b537d-a69b-4950-8c08-e3bc2051373e
 :END:
 #+title: Support for Aisling Duval
-#+filetags: :Alliance:3304:galnet:
+#+filetags: :Thargoid:Alliance:3304:galnet:
 
 * Support for Aisling Duval
 
@@ -16,7 +16,7 @@ One of the most prominent figures to express solidarity is Imperial Senator Pal 
 
 Meanwhile, Commodore Riri McAllister of the Alliance Defence Force said: 
 
-“I can certainly refute Princess Duval’s suggestion that the other powers have not made equal contributions to Aegis. She makes a good point, however, with regard to military strategy. Greater transparency around Aegis’s long-term plans would lead to a more coordinated effort in resisting [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] forces.” 
+“I can certainly refute Princess Duval’s suggestion that the other powers have not made equal contributions to Aegis. She makes a good point, however, with regard to military strategy. Greater transparency around Aegis’s long-term plans would lead to a more coordinated effort in resisting Thargoid forces.” 
 
 Jast Fernández, chief editor of an independent media outlet, focused on how the public might be starting to view the princess differently: 
 

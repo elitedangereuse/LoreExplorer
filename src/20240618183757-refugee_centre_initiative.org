@@ -2,7 +2,7 @@
 :ID:       556fe6df-6297-4662-8079-6d4e0996c32b
 :END:
 #+title: Refugee Centre Initiative
-#+filetags: :3304:galnet:
+#+filetags: :Thargoid:3304:galnet:
 
 * Refugee Centre Initiative
 
@@ -12,7 +12,7 @@ Due to heightened military action in the core systems, Senator Caspian Leopold h
 
 A spokesperson for Senator Leopold gave the following statement to the media: 
 
-“An escalation in hostilities from both [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] and human parties has left a lot of innocent civilians without food or shelter. Senator Leopold has heard their cries for help, and is building a sanctuary where the safety of refugees can be guaranteed.” 
+“An escalation in hostilities from both Thargoid and human parties has left a lot of innocent civilians without food or shelter. Senator Leopold has heard their cries for help, and is building a sanctuary where the safety of refugees can be guaranteed.” 
 
 The Nifelhel Corp., which is overseeing the initiative, has placed an open order for Cobalt, Semiconductors and Synthetic Fabrics, promising to reward pilots who deliver these commodities to Biruni Port in the Niflhel system. The organisation has also placed a kill order on all ships on its wanted list, to ensure those contributing commodities to the initiative can do so safely. 
 

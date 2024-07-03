@@ -1,7 +1,8 @@
 :PROPERTIES:
 :ID:       d9e97ba9-f907-4520-9f9f-daec8c269557
 :END:
-#+title: [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Interceptors
+#+title: Thargoid Interceptors
+#+filetags: :Thargoid:
 - [[id:3f34286d-e5fa-434f-968e-5c5134769ab4][Cyclop]]
 - [[id:af0eca12-6668-468d-bdb8-0fe384a44c88][Basilisk]]
 - [[id:e3094293-c38b-44e3-8c6f-2d6b375e58c9][Medusa]]

@@ -2,7 +2,7 @@
 :ID:       d72f51e6-9052-444b-befd-71110364aa54
 :END:
 #+title: ximilian North gave this progress report: 
-#+filetags: :Alliance:galnet:
+#+filetags: :Thargoid:Alliance:galnet:
 
 * Coalsack Nebula Terraforming Project Stalls
 
@@ -18,6 +18,6 @@ Project director Dr [[id:eb0165b3-7d95-4887-ad0c-3db012756434][Maximilian North]
 
 Independent journalist Flint ‘Firemaker’ Lafosse commented on this via the Rewired network: 
 
-“Does anyone really believe Sirius is there for the terraforming? Of course they can’t magically turn ammonia hellholes into paradise planets overnight! I know a cover story when I smell one. I wouldn’t be surprised if they’re deliberately trying to provoke the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] for some reason, maybe to capture some specimens. Where there’s xenos, there’s credits.” 
+“Does anyone really believe Sirius is there for the terraforming? Of course they can’t magically turn ammonia hellholes into paradise planets overnight! I know a cover story when I smell one. I wouldn’t be surprised if they’re deliberately trying to provoke the Thargoids for some reason, maybe to capture some specimens. Where there’s xenos, there’s credits.” 
 
 The Alliance has corroborated Dr North’s report, but also confirmed an increase in Sirius Corporation personnel and equipment arriving in the Coalsack Nebula.

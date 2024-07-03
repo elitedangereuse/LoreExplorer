@@ -2,7 +2,7 @@
 :ID:       ac291238-591a-4b6e-8af9-756265043c2a
 :END:
 #+title: Winters Outlines Her Future Presidency
-#+filetags: :Federation:Empire:galnet:
+#+filetags: :Thargoid:Federation:Empire:galnet:
 
 * Winters Outlines Her Future Presidency
 
@@ -16,15 +16,15 @@ On defeating Vice President Jerome Archer:
 
 On the priorities for her forthcoming administration: 
 
-“Our government will expand investment in the Federation’s soft infrastructure, pulling the economy’s focus away from military projects and corporate profits. Many systems are in dire need of improved healthcare, housing and work opportunities. Billions of people need temporary financial support as refugees from the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] invasion. We are not the Empire – we serve our people rather than rule over them.” 
+“Our government will expand investment in the Federation’s soft infrastructure, pulling the economy’s focus away from military projects and corporate profits. Many systems are in dire need of improved healthcare, housing and work opportunities. Billions of people need temporary financial support as refugees from the Thargoid invasion. We are not the Empire – we serve our people rather than rule over them.” 
 
 On the Proactive Detection Bureau: 
 
 “My very first task in office will be to dismantle this monstrosity, ending the surveillance of private communications. The Federal Intelligence Agency is perfectly capable of protecting our people without violating their personal freedoms.” 
 
-On the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] war: 
+On the Thargoid war: 
 
-“I can assure everyone that while I lack the enthusiasm for war that my predecessor demonstrated, my administration takes office with the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] invasion as a top priority. Aegis has led the way in developing new anti-xeno technologies, and Federal support for the agency will continue.” 
+“I can assure everyone that while I lack the enthusiasm for war that my predecessor demonstrated, my administration takes office with the Thargoid invasion as a top priority. Aegis has led the way in developing new anti-xeno technologies, and Federal support for the agency will continue.” 
 
 Many Federal newsfeeds congratulated [[id:b9fe58a3-dfb7-480c-afd6-92c3be841be7][Felicia Winters]] on her success in the election, but an editorial in Sol Today said: 
 

@@ -2,7 +2,7 @@
 :ID:       d9ae7b5f-cabb-4f18-b531-e1fc8d380f88
 :END:
 #+title: The Guardians: The Galaxy Reacts
-#+filetags: :3304:galnet:
+#+filetags: :Thargoid:3304:galnet:
 
 * The Guardians: The Galaxy Reacts
 
@@ -10,7 +10,7 @@
 
 There has been a range of reactions to the discovery of new Guardian sites, and to Ram Tah’s development of Guardian-inspired technologies. 
 
-Federal President [[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][Zachary Hudson]] said: “The Federation congratulates [[id:4551539e-a6b2-4c45-8923-40fb603202b7][Ram Tah]] on his success. Anything that helps us defend our citizens from [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] aggression is welcome.” 
+Federal President [[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][Zachary Hudson]] said: “The Federation congratulates [[id:4551539e-a6b2-4c45-8923-40fb603202b7][Ram Tah]] on his success. Anything that helps us defend our citizens from Thargoid aggression is welcome.” 
 
 Imperial Admiral [[id:75daea85-5e9f-4f6f-a102-1a5edea0283c][Denton Patreus]] echoed this sentiment: “I am pleased to hear that new, more powerful armaments are being produced. These will provide a tactical advantage in our conflict with the Thargoids.” 
 

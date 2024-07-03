@@ -2,13 +2,13 @@
 :ID:       de9e3532-54ea-4c42-a9b7-68a3229c3662
 :END:
 #+title: Socho Operation Complete
-#+filetags: :3304:galnet:
+#+filetags: :Thargoid:3304:galnet:
 
 * Socho Operation Complete
 
 /23 Mar 3304/
 
-The operation to clear Socho of [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] has reached a successful conclusion. Scores of pilots supported the campaign by eliminating [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] vessels in the system, and by delivering alien material to Dantec Enterprise. 
+The operation to clear Socho of Thargoids has reached a successful conclusion. Scores of pilots supported the campaign by eliminating Thargoid vessels in the system, and by delivering alien material to Dantec Enterprise. 
 
 A spokesperson for Aegis Core, which oversaw the initiative, made the following statement: 
 

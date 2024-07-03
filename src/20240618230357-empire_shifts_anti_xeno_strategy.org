@@ -2,7 +2,7 @@
 :ID:       d42376e8-4b33-4bfa-9bf8-3e02943370e9
 :END:
 #+title: Empire Shifts Anti-Xeno Strategy
-#+filetags: :Alliance:Empire:galnet:
+#+filetags: :Thargoid:Alliance:Empire:galnet:
 
 * Empire Shifts Anti-Xeno Strategy
 
@@ -12,10 +12,10 @@ Emperor [[id:34f3cfdd-0536-40a9-8732-13bf3a5e4a70][Arissa Lavigny-Duval]] has ma
 
 In an address before the Senate, which was broadcast on all Imperial networks, she stated: 
 
-“Our endeavour in the HIP 22460 system was a noble one, born from our duty to defend Imperial citizens against the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] threat. We honour the crews of the INV Audacious Dream, INV Illustrious Fortune and INV Paramount, as well as other auxiliaries and volunteers who fought against overwhelming odds. Their names will be remembered.” 
+“Our endeavour in the HIP 22460 system was a noble one, born from our duty to defend Imperial citizens against the Thargoid threat. We honour the crews of the INV Audacious Dream, INV Illustrious Fortune and INV Paramount, as well as other auxiliaries and volunteers who fought against overwhelming odds. Their names will be remembered.” 
 
 “The disastrous outcome from the so-called coalition provides direction for our future. It is clear to me that the Empire must learn to trust its own military strength once again. Joint operations with the Alliance and Federation, and our reliance upon Salvation’s superweapon, were strategic errors that we cannot afford to repeat.” 
 
-“Henceforth, all inter-superpower projects will cease. I have commanded the Imperial Navy to focus exclusively on protecting the Empire’s borders against our enemies, regardless of their origin. Resources and finances allocated to external suppliers will be redirected internally, to corporations of Imperial origin. Our scientists and manufacturers will provide the means to shield our territory against [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] invasion.” 
+“Henceforth, all inter-superpower projects will cease. I have commanded the Imperial Navy to focus exclusively on protecting the Empire’s borders against our enemies, regardless of their origin. Resources and finances allocated to external suppliers will be redirected internally, to corporations of Imperial origin. Our scientists and manufacturers will provide the means to shield our territory against Thargoid invasion.” 
 
 “To the people of the Empire: be assured that your safety is my highest priority. As your Emperor, I vow that we will endure as the strongest civilisation in history.”

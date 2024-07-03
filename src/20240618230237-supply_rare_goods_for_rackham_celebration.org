@@ -2,7 +2,7 @@
 :ID:       fb77b70a-c748-44ce-ab4b-5fec2d47f9d3
 :END:
 #+title: Supply Rare Goods for Rackham Celebration
-#+filetags: :galnet:
+#+filetags: :Thargoid:galnet:
 
 * Supply Rare Goods for Rackham Celebration
 
@@ -18,7 +18,7 @@ At a press conference on the planet Homeland, Mr Rackham announced:
 
 “I’ve also arranged for pilots to receive temporary permits to the Beta Hydri system, which will last until the 2nd of June. Anything to make life easier for my trader friends!” 
 
-Mr Rackham faced criticism for hosting a celebration at a time when so many have died in recent [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] attacks. In response, he claimed he had “a duty to boost public morale by filling the news with happier stories”. 
+Mr Rackham faced criticism for hosting a celebration at a time when so many have died in recent Thargoid attacks. In response, he claimed he had “a duty to boost public morale by filling the news with happier stories”. 
 
 Financial reporter Bryanna Blanco commented in The Federal Times: 
 

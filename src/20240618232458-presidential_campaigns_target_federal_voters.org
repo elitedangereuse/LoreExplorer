@@ -2,7 +2,7 @@
 :ID:       8f641031-86f4-449e-89b2-51b2d0db537e
 :END:
 #+title: Presidential Campaigns Target Federal Voters
-#+filetags: :Federation:galnet:
+#+filetags: :Thargoid:Federation:galnet:
 
 * Presidential Campaigns Target Federal Voters
 
@@ -16,10 +16,10 @@ Political correspondent Sofia Trevino covered the race for The Federal Times:
 
 “The Republican Party has pinned its hopes on current Vice President Jerome Archer, who hopes to reassure Hudson loyalists with his similar leadership style and focus on interstellar security. Shadow President Felicia Winters, head of the Liberal Party, is promising a more humanitarian approach to government policy. And the wild card is independent candidate Zachary Rackham, whose wealth and notoriety afford him a fighting chance against the political heavyweights.” 
 
-“Congress has confirmed that, with many government procedures impacted by the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] war, election day has been delayed until later in the year. President Hudson is expected to remain in office for the interim period before the victor's official inauguration.” 
+“Congress has confirmed that, with many government procedures impacted by the Thargoid war, election day has been delayed until later in the year. President Hudson is expected to remain in office for the interim period before the victor's official inauguration.” 
 
 Vox Galactica reporter Patricia Chen analysed the media coverage: 
 
 “Typically, Federal newsfeeds focus more on character than policies. The Federal Free Press obtained in-depth interviews with Winters and Isolde Rochester, while Sol Today published souvenir editions celebrating Hudson’s presidency as a ‘golden age’. On the fringes are those such as ICE-caster Sura Oyekan, who promotes voting for Rackham as a way to revolutionise society.” 
 
-“What is not typical is that this election is being held during wartime. The ongoing [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] conflict has cast a shadow over voters’ optimism for the future. Some are even wondering if this might be the last president they ever elect, should the alien invasion of the core systems prove unstoppable.”
+“What is not typical is that this election is being held during wartime. The ongoing Thargoid conflict has cast a shadow over voters’ optimism for the future. Some are even wondering if this might be the last president they ever elect, should the alien invasion of the core systems prove unstoppable.”

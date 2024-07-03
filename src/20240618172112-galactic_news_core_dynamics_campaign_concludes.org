@@ -2,13 +2,13 @@
 :ID:       f50a7307-cffe-4883-a959-1ce91520d9ff
 :END:
 #+title: Galactic News: Core Dynamics Campaign Concludes
-#+filetags: :3303:galnet:
+#+filetags: :Thargoid:3303:galnet:
 
 * Galactic News: Core Dynamics Campaign Concludes
 
 /29 Dec 3303/
 
-Core Dynamics has announced that its construction initiative has received the wholehearted support of the galactic community. Hundreds of pilots contributed to the campaign by delivering construction materials to Klimuk Ring, and by eliminating agitators in the Guaras system. The materials will be used to support a new wave of manufacture to replace ships lost in [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] attacks. 
+Core Dynamics has announced that its construction initiative has received the wholehearted support of the galactic community. Hundreds of pilots contributed to the campaign by delivering construction materials to Klimuk Ring, and by eliminating agitators in the Guaras system. The materials will be used to support a new wave of manufacture to replace ships lost in Thargoid attacks. 
 
 A spokesperson for Core Dynamics released the following statement: 
 

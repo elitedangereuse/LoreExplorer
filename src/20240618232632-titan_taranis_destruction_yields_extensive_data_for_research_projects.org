@@ -2,7 +2,7 @@
 :ID:       05da80ab-6012-41aa-add4-5846ae8a938b
 :END:
 #+title: Titan Taranis destruction yields extensive data for research projects
-#+filetags: :galnet:
+#+filetags: :Thargoid:galnet:
 
 * Titan Taranis destruction yields extensive data for research projects
 
@@ -12,7 +12,7 @@ The recent destruction of Titan Taranis has yielded a significant amount of data
 
 Science correspondent Leon Banerjee summarised for Vox Galactica: 
 
-“Research on Titans has been ongoing since their first appearance, and understanding how they function has been considered crucial to humanity’s survival in the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] war.” 
+“Research on Titans has been ongoing since their first appearance, and understanding how they function has been considered crucial to humanity’s survival in the Thargoid war.” 
 
 “I have spent time with everyone from the smallest private research bodies to the largest corporations in the past few years, and the common anxiety amongst the scientific community is still how little we truly understand about the Titans.” 
 

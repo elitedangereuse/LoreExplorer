@@ -2,7 +2,7 @@
 :ID:       bc78f770-2bfc-4631-9d8a-21e61037925e
 :END:
 #+title: Salvation’s Allies Triumph in T Tauri System
-#+filetags: :galnet:
+#+filetags: :Thargoid:galnet:
 
 * Salvation’s Allies Triumph in T Tauri System
 
@@ -16,7 +16,7 @@ The conflict was initiated by Admiral Aden Tanner, chief military liaison with A
 
 Patience Middleton, a spokesperson for Taurus Mining Ventures, made this announcement: 
 
-“This was an illegal and unnecessary conflict, brought about by Admiral Tanner’s misguided obsession. We will continue working with Salvation to eliminate the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] threat.” 
+“This was an illegal and unnecessary conflict, brought about by Admiral Tanner’s misguided obsession. We will continue working with Salvation to eliminate the Thargoid threat.” 
 
 “Our defence was only possible thanks to our courageous supporters, for whom rewards are available at Hind Mine. We will also honour agreements that the Aegis Defense force made with independent pilots, who can collect their promised payments from the Musashi.” 
 

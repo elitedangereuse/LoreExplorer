@@ -2,7 +2,7 @@
 :ID:       eb07eefa-7817-4afc-9f62-d6393b06d039
 :END:
 #+title: Aegis Renegades Face Criminal Charges
-#+filetags: :galnet:
+#+filetags: :Thargoid:galnet:
 
 * Aegis Renegades Face Criminal Charges
 
@@ -20,4 +20,4 @@ Dr Paul Baumann, chair of the independent board of inquiry into Aegis, commented
 
 “Recent events in the T Tauri system clearly fall within the scope of our investigation. For Aegis’s chief military liaison to launch an unauthorised attack, at the cost of many lives, will weigh heavily against the organisation.” 
 
-Admiral Tanner claims that the anti-xeno superweapon deployed by Salvation in the Cornsar system has triggered an increase in [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] attacks. Although there is no direct evidence of this, the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] have performed coordinated strikes against several systems in the weeks since that event.
+Admiral Tanner claims that the anti-xeno superweapon deployed by Salvation in the Cornsar system has triggered an increase in Thargoid attacks. Although there is no direct evidence of this, the Thargoids have performed coordinated strikes against several systems in the weeks since that event.

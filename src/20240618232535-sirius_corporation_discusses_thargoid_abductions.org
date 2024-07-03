@@ -1,10 +1,10 @@
 :PROPERTIES:
 :ID:       afccf16d-3880-428d-b267-f338d471f0a2
 :END:
-#+title: Sirius Corporation Discusses [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Abductions
-#+filetags: :galnet:
+#+title: Sirius Corporation Discusses Thargoid Abductions
+#+filetags: :Thargoid:galnet:
 
-* Sirius Corporation Discusses [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Abductions
+* Sirius Corporation Discusses Thargoid Abductions
 
 /11 Sep 3309/
 
@@ -12,12 +12,12 @@ Sirius Corporation has revealed a long-running project to rescue people who were
 
 CEO [[id:f0655b3a-aca9-488f-bdb3-c481a42db384][Li Yong-Rui]] made this statement during a press conference: 
 
-“Shortly after the early reports of [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Interceptors collecting inhabited escape pods were received, Sirius has explored several possible countermeasures. Various remote recovery methods had been designed, although only a few prototypes were ever constructed.” 
+“Shortly after the early reports of Thargoid Interceptors collecting inhabited escape pods were received, Sirius has explored several possible countermeasures. Various remote recovery methods had been designed, although only a few prototypes were ever constructed.” 
 
-“Now that the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] are conducting widespread, systematic abductions of living humans, we believe that this research may prove crucial to saving millions of lives. Sirius Corporation is willing to bypass the commercial potential of our work and share it directly with Aegis. I have personally requested a meeting with Professor Tesreau to provide details and discuss options.” 
+“Now that the Thargoids are conducting widespread, systematic abductions of living humans, we believe that this research may prove crucial to saving millions of lives. Sirius Corporation is willing to bypass the commercial potential of our work and share it directly with Aegis. I have personally requested a meeting with Professor Tesreau to provide details and discuss options.” 
 
 Deputy Prime Minister Angela Corcoran, who oversees the Alliance’s contributions to Aegis, was invited to comment by the Old Worlds Gazette: 
 
 “The Assembly has no knowledge of this project, since it falls outside of our strategic defence pact with Sirius Corporation. My concern is whether this comes with an expectation of a reciprocal data exchange. Li Yong-Rui’s offer sounds like an altruistic gesture, but sometimes the true price of information is unclear. I intend to discuss this with the other Aegis coordinators before any decisions are made.” 
 
-Aegis is currently gathering resources for an upgraded pulse wave xeno scanner, which can locate human captives held on [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Titans. There has been speculation that Sirius Corporation’s research may prove useful to the anticipated next step: rescuing those abductees from their confinement.
+Aegis is currently gathering resources for an upgraded pulse wave xeno scanner, which can locate human captives held on Thargoid Titans. There has been speculation that Sirius Corporation’s research may prove useful to the anticipated next step: rescuing those abductees from their confinement.

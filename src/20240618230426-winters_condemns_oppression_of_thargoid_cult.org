@@ -1,10 +1,10 @@
 :PROPERTIES:
 :ID:       c2bc7c09-4866-4d97-8826-d6d674a92e89
 :END:
-#+title: Winters Condemns Oppression of [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Cult
-#+filetags: :galnet:
+#+title: Winters Condemns Oppression of Thargoid Cult
+#+filetags: :Thargoid:galnet:
 
-* Winters Condemns Oppression of [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Cult
+* Winters Condemns Oppression of Thargoid Cult
 
 /10 Oct 3308/
 
@@ -12,7 +12,7 @@ The Popontia conflict and the mass arrest of Far God cultists have received civi
 
 Shadow President [[id:b9fe58a3-dfb7-480c-afd6-92c3be841be7][Felicia Winters]] delivered a statement to The Federal Times: 
 
-“It is logical that any organisation supporting the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] should come under scrutiny. But this does not justify the harsh and oppressive treatment of our own citizens for their religious beliefs. The Federal Accord safeguards their right to worship, as long as no laws are transgressed.” 
+“It is logical that any organisation supporting the Thargoids should come under scrutiny. But this does not justify the harsh and oppressive treatment of our own citizens for their religious beliefs. The Federal Accord safeguards their right to worship, as long as no laws are transgressed.” 
 
 “The Federal Navy Intelligence Office has accused the cult of disseminating classified material and damaging anti-xeno operations. I demand that their evidence be shared with the High Court, so that a legal ruling can be made.” 
 

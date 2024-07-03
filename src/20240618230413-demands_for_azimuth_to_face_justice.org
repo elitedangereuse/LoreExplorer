@@ -2,7 +2,7 @@
 :ID:       ed2758b3-297a-46f8-bd59-1f771c525410
 :END:
 #+title: Demands for Azimuth to Face Justice
-#+filetags: :galnet:
+#+filetags: :Thargoid:galnet:
 
 * Demands for Azimuth to Face Justice
 
@@ -18,6 +18,6 @@ Other citizens’ groups have made similar claims, with some calling for the sup
 
 Torben Rademaker, acting CEO of Azimuth Biotech, gave this statement in response: 
 
-“Media outlets and uninformed laymen often refer to the ‘failure’ of the Proteus Wave. The truth is that it worked precisely as intended, by shutting down all [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] vessels in HIP 22460. Unfortunately, Dr Wycherley did not anticipate that the aliens had developed a technology to recalibrate his superweapon to affect human ships.” 
+“Media outlets and uninformed laymen often refer to the ‘failure’ of the Proteus Wave. The truth is that it worked precisely as intended, by shutting down all Thargoid vessels in HIP 22460. Unfortunately, Dr Wycherley did not anticipate that the aliens had developed a technology to recalibrate his superweapon to affect human ships.” 
 
 “I must make this clear: one man’s regrettable miscalculation does not reflect on Azimuth Biotech as a whole. Our organisation has pioneered xenological research for decades, and we have many dedicated experts in different fields. We must accept that weapons development comes with risks. But there is no such thing as failure in scientific endeavour.”

@@ -2,13 +2,13 @@
 :ID:       b722f2d6-7f87-4b6f-a287-b7a96f1f8c03
 :END:
 #+title: Aegis Investigates Missing Populations
-#+filetags: :galnet:
+#+filetags: :Thargoid:galnet:
 
 * Aegis Investigates Missing Populations
 
 /10 Aug 3309/
 
-An analysis of survivors from recent [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] conflicts and invasions has raised the possibility of human abductions on a colossal scale. 
+An analysis of survivors from recent Thargoid conflicts and invasions has raised the possibility of human abductions on a colossal scale. 
 
 Professor Alba Tesreau, head of Aegis, delivered a personal statement to the media: 
 
@@ -22,6 +22,6 @@ Professor Alba Tesreau, head of Aegis, delivered a personal statement to the med
 
 Field correspondent Ernesto Rios published his observations via Vox Galactica: 
 
-“It’s a well-documented fact that [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] vessels occasionally take onboard occupied escape pods. But Aegis now believes that the aliens are no longer just attacking humanity – they are attempting to capture us alive en masse.” 
+“It’s a well-documented fact that Thargoid vessels occasionally take onboard occupied escape pods. But Aegis now believes that the aliens are no longer just attacking humanity – they are attempting to capture us alive en masse.” 
 
 “What are we to them? Prisoners of war? Food for their young? Fuel for their biomechanical technology? Or is this just misinterpreted data and battlefield rumours? In my career I have heard many of these, and in this instance I’m praying that is the case.”

@@ -1,20 +1,20 @@
 :PROPERTIES:
 :ID:       8ab1c470-bf69-48d5-b9c9-f175331df806
 :END:
-#+title: [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Strike Follows Salvation’s Prediction
-#+filetags: :galnet:
+#+title: Thargoid Strike Follows Salvation’s Prediction
+#+filetags: :Thargoid:galnet:
 
-* [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Strike Follows Salvation’s Prediction
+* Thargoid Strike Follows Salvation’s Prediction
 
 /16 Sep 3307/
 
 *Pilots Federation ALERT* 
 
-The Cornsar system has been attacked by [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] forces, causing severe damage to two starports. 
+The Cornsar system has been attacked by Thargoid forces, causing severe damage to two starports. 
 
-Direct assaults against Chadwick Port and Ito Market stations have resulted in over ten thousand casualties. Local reports state that [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] vessels have also appeared elsewhere throughout the system, placing millions more lives at risk. 
+Direct assaults against Chadwick Port and Ito Market stations have resulted in over ten thousand casualties. Local reports state that Thargoid vessels have also appeared elsewhere throughout the system, placing millions more lives at risk. 
 
-The anonymous figure known as Salvation recently warned that Cornsar was in imminent danger of being invaded, having been alerted by his new xeno-detection network. Aegis could not verify Salvation’s claim and saw no evidence of any [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] presence. 
+The anonymous figure known as Salvation recently warned that Cornsar was in imminent danger of being invaded, having been alerted by his new xeno-detection network. Aegis could not verify Salvation’s claim and saw no evidence of any Thargoid presence. 
 
 The system’s ruler, Marshal Noah Sharrow of the Allied Cornsar Constitution Party, transmitted this message: 
 
@@ -22,6 +22,6 @@ The system’s ruler, Marshal Noah Sharrow of the Allied Cornsar Constitution Pa
 
 Aegis has released a brief statement: 
 
-“We can confirm there is a [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] presence in the Cornsar system. Unfortunately most of our operations and personnel remain suspended due to the public inquiry, so we cannot contribute to any anti-xeno efforts.” 
+“We can confirm there is a Thargoid presence in the Cornsar system. Unfortunately most of our operations and personnel remain suspended due to the public inquiry, so we cannot contribute to any anti-xeno efforts.” 
 
 There has been no further communication from Salvation, despite his accurate prediction of the attack.

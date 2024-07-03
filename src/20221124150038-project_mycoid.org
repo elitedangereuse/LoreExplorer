@@ -2,7 +2,8 @@
 :ID:       0ffe3814-d246-41f3-8f82-4bb9ca062dea
 :END:
 #+title: Project Mycoid
-[[id:c6674165-eb13-47d3-ad54-796aab951892][First [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] War]]
+#+filetags: :Thargoid:
+[[id:c6674165-eb13-47d3-ad54-796aab951892][First Thargoid War]]
 [[id:dd5abb31-73fb-4390-82ad-33030cb49d38][Virus]]
 [[id:32267587-a5db-456f-8a09-439ed0309638][Weapons]]
 

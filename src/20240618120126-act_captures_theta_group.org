@@ -2,7 +2,7 @@
 :ID:       28394b64-1715-49b3-afad-0c737413d448
 :END:
 #+title: ACT Captures Theta Group
-#+filetags: :galnet:
+#+filetags: :Thargoid:galnet:
 
 * ACT Captures Theta Group
 
@@ -14,7 +14,7 @@ Theta Group is directly responsible for 17 starport bombings conducted by the [[
 
 Senior Agent Tanya Ramirez, one of the Affiliated Counter-Terrorism unit’s co-leaders, told the media: 
 
-“We have finally tracked down the NMLA’s bomb-making engineers, and a joint task force made the arrest with minimal casualties. Large quantities of [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] corrosives and explosive components were also seized.” 
+“We have finally tracked down the NMLA’s bomb-making engineers, and a joint task force made the arrest with minimal casualties. Large quantities of Thargoid corrosives and explosive components were also seized.” 
 
 “This achievement was only possible due to intercepting Theta Group’s communications with Neo-Marlinist sympathisers. We are unsure why the NMLA’s dark-comms network was not used in that instance.” 
 

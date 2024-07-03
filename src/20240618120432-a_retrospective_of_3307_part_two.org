@@ -2,7 +2,7 @@
 :ID:       9864ab6c-404a-4cf0-9a76-d80378ee89a1
 :END:
 #+title: A Retrospective of 3307 (Part Two)
-#+filetags: :Federation:Empire:galnet:
+#+filetags: :Thargoid:Federation:Empire:galnet:
 
 * A Retrospective of 3307 (Part Two)
 
@@ -14,11 +14,11 @@ Continuing a series of articles by historian [[id:e13ec234-b603-4a29-870d-2b8741
 
 “ACT’s investigation led them to the Neo-Marlinist Order of Mudhrid, which had helped deliver the caustic enzyme bombs to their nine targets. The faction’s defeat was an early victory against the NMLA, but much of the organisation remained a mystery.” 
 
-“When the ‘ghost ship’ Adamastor began receiving an encoded signal, this began an entire saga of mysteries. Its long-lost sister ship, the Hesperus, was soon located by pilots who had been recruited by an anonymous figure named Salvation. His interest in Azimuth Biochemicals, the 200 year old corporation that owned both vessels, would bring a strange twist to the ongoing [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] conflict.” 
+“When the ‘ghost ship’ Adamastor began receiving an encoded signal, this began an entire saga of mysteries. Its long-lost sister ship, the Hesperus, was soon located by pilots who had been recruited by an anonymous figure named Salvation. His interest in Azimuth Biochemicals, the 200 year old corporation that owned both vessels, would bring a strange twist to the ongoing Thargoid conflict.” 
 
 “In May, Hadrian Duval was targeted by Federal forces after accusations that he was the mastermind behind the NMLA. The spectre of Empire-Federation war rose once again as Nova Imperium successfully defended itself, but ACT concluded that evidence had been falsified to implicate Hadrian and his new wife Lady Astrid.” 
 
-“Aegis came under intense scrutiny when the megaship Alexandria, laden with newly collected Guardian artefacts, began attracting [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] in every system it jumped to. The Alexandria later vanished completely in hyperspace, and to this day remains missing presumed destroyed.” 
+“Aegis came under intense scrutiny when the megaship Alexandria, laden with newly collected Guardian artefacts, began attracting Thargoids in every system it jumped to. The Alexandria later vanished completely in hyperspace, and to this day remains missing presumed destroyed.” 
 
 “The Alliance election finally took place at the end of May, having been delayed by three months due to the Galactic Summit. Councillor Nakato Kaine fought a spirited campaign, but [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74][Edmund Mahon]] was re-elected to serve a second term as prime minister.” 
 

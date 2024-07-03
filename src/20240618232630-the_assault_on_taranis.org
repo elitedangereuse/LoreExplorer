@@ -2,7 +2,7 @@
 :ID:       0806fa37-0b49-4aa4-ac17-63bd358a1699
 :END:
 #+title: The Assault on Taranis
-#+filetags: :galnet:
+#+filetags: :Thargoid:galnet:
 
 * The Assault on Taranis
 
@@ -12,7 +12,7 @@ Titan Taranis is under siege, taking major damage, and close to presenting a maj
 
 A recent surge of financial support has allowed Aegis to remove the material requirements for the following key modules: 
 
-- The [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Pulse Neutraliser – the key to punching through the maelstrom’s defensive field and reach the centre.  
+- The Thargoid Pulse Neutraliser – the key to punching through the maelstrom’s defensive field and reach the centre.  
 
 - The Caustic Sink Launcher – a valuable tool to protect ships from the aggressive caustic fog permeating the cloud around the Titan. 
 

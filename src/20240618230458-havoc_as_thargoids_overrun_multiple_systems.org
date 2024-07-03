@@ -1,27 +1,27 @@
 :PROPERTIES:
 :ID:       8cbcc116-515e-4bd1-949e-eef27e29dc44
 :END:
-#+title: Havoc as [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] Overrun Multiple Systems
-#+filetags: :galnet:
+#+title: Havoc as Thargoids Overrun Multiple Systems
+#+filetags: :Thargoid:galnet:
 
-* Havoc as [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] Overrun Multiple Systems
+* Havoc as Thargoids Overrun Multiple Systems
 
 /30 Nov 3308/
 
 *Pilots’ Federation ALERT* 
 
-Nine systems have called for help against massive [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] attacks intent on wiping out civilian populations. 
+Nine systems have called for help against massive Thargoid attacks intent on wiping out civilian populations. 
 
 Ernesto Rios, field correspondent for Vox Galactica, reported: 
 
-“The arrival of what military scientists have labelled the ‘Taranis Maelstrom’ has brought terror and carnage to millions. As soon as the rogue signal source arrived, local inhabited systems became flooded with enormous numbers of [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] vessels. Six populated systems close to Hyades Sector FB-N b7-6 were rapidly overwhelmed, while another nine systems in the region are currently facing full-scale invasions.” 
+“The arrival of what military scientists have labelled the ‘Taranis Maelstrom’ has brought terror and carnage to millions. As soon as the rogue signal source arrived, local inhabited systems became flooded with enormous numbers of Thargoid vessels. Six populated systems close to Hyades Sector FB-N b7-6 were rapidly overwhelmed, while another nine systems in the region are currently facing full-scale invasions.” 
 
 “I’ve travelled between several of these systems, and seen for myself the horrific loss of life. Starports are ablaze and covered with corrosive enzymes. Planetary infrastructure is crumbling under the Thargoids’ tremendous firepower. Passing ships are being wrenched out of hyperspace. These attacks seem more merciless than ever before, as if the aliens are determined to eliminate every human population structure they detect.” 
 
 “Rescue megaships have been established at a safe distance from the invasion’s current front line, facilitating mass evacuation of civilians. These vessels will also stock anti-xeno weaponry for independent pilots seeking to assist the defence efforts or protect themselves while transporting refugees.” 
 
-“Both President Hudson and Prime Minister Mahon have declared a major emergency, ordering Federal and Allied capital ships to engage the Thargoids. Senator Patreus has dispatched an Imperial Navy force to the Modigi system to defend its territory from [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] attack.” 
+“Both President Hudson and Prime Minister Mahon have declared a major emergency, ordering Federal and Allied capital ships to engage the Thargoids. Senator Patreus has dispatched an Imperial Navy force to the Modigi system to defend its territory from Thargoid attack.” 
 
-“The Taranis Maelstrom itself is the target of intense study, although patrolling [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] in the Hyades Sector FB-N b7-6 system make scientific analysis hazardous. Professor Palin and [[id:4551539e-a6b2-4c45-8923-40fb603202b7][Ram Tah]] have both warned that this enormous entity appears to have a protective ‘cloud’ of unknown composition, which is proving dangerous to ships that approach it.” 
+“The Taranis Maelstrom itself is the target of intense study, although patrolling Thargoids in the Hyades Sector FB-N b7-6 system make scientific analysis hazardous. Professor Palin and [[id:4551539e-a6b2-4c45-8923-40fb603202b7][Ram Tah]] have both warned that this enormous entity appears to have a protective ‘cloud’ of unknown composition, which is proving dangerous to ships that approach it.” 
 
 “With the other seven rogue signal sources racing toward the core systems, militaries and security forces are preparing for the worst. Will the other seven rogue signal sources bring similar terror? And is humanity capable of withstanding an onslaught of this magnitude?”

@@ -2,7 +2,7 @@
 :ID:       ce5f0da1-cc04-477c-9d97-638c95a421a2
 :END:
 #+title: Federation Refuses Entry to ‘Plague Ship’
-#+filetags: :galnet:
+#+filetags: :Thargoid:galnet:
 
 * Federation Refuses Entry to ‘Plague Ship’
 
@@ -10,14 +10,14 @@
 
 The Alexandria megaship has been warned that it faces destruction if it attempts to travel to any Federal system. 
 
-The Aegis-owned vessel triggered a full-scale [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] incursion when it arrived in the HIP 16538 system. This seemed to be a reaction to the huge quantities of Guardian artefacts currently stored within its cargo holds.  
+The Aegis-owned vessel triggered a full-scale Thargoid incursion when it arrived in the HIP 16538 system. This seemed to be a reaction to the huge quantities of Guardian artefacts currently stored within its cargo holds.  
 
 Captain Jacob Morales, the Alexandria’s commander, broadcast this message: 
 
-“The Federal Navy has instructed us not to resume our scheduled journey to Sol or enter any system within the Federation. They’re treating us like a plague ship! I understand their concern that more [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] will follow us, but we have several thousand crewmembers who need to reach safe harbour.” 
+“The Federal Navy has instructed us not to resume our scheduled journey to Sol or enter any system within the Federation. They’re treating us like a plague ship! I understand their concern that more Thargoids will follow us, but we have several thousand crewmembers who need to reach safe harbour.” 
 
 A strategy was outlined by Admiral Aden Tanner, chief military liaison for Aegis: 
 
-“We are attempting to clear the HIP 16538 system of [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] vessels, greatly aided by independent pilots and anti-xeno squadrons. The megaship will then jump to a system with a minimal population, where we will offload its cargo.” 
+“We are attempting to clear the HIP 16538 system of Thargoid vessels, greatly aided by independent pilots and anti-xeno squadrons. The megaship will then jump to a system with a minimal population, where we will offload its cargo.” 
 
 Aegis has reiterated that the option to jettison the Alexandria’s cargo is a last resort, since the Guardian artefacts are vital to its research programme and cost billions of credits to acquire.

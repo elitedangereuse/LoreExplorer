@@ -2,7 +2,7 @@
 :ID:       77cf2f14-105e-4041-af04-1213f3e7383c
 :END:
 #+title: The Empire
-#+filetags: :Alliance:Federation:Empire:KnowledgeBase:Codex:
+#+filetags: :Thargoid:Alliance:Federation:Empire:KnowledgeBase:Codex:
 
 ** The Empire
 *** Introduction
@@ -268,7 +268,7 @@ dearly.
 While open hostility has frequently been the case in the past, the
 current situation is one of grudging coexistence beneath which mistrust
 simmers. Despite this antipathy, the Empire cooperated with the
-Federation in a series of joint initatives against the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] in the
+Federation in a series of joint initatives against the Thargoids in the
 early 3300s.
 
 **** The Alliance.

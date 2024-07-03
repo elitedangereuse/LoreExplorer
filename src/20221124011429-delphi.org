@@ -3,7 +3,7 @@
 :ROAM_ALIASES: "Pleiades Sector IR-W d1-55"
 :END:
 #+title: Delphi
-#+filetags: :Alliance:Federation:System:
+#+filetags: :Thargoid:Alliance:Federation:System:
 * People
   [[id:8f63442a-1f38-457d-857a-38297d732a90][Palin]]
 * Raxxla
@@ -18,15 +18,15 @@ founded in 3303 by scientists from the [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0
 [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][Alliance]] to study and develop countermeasures against the
 [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]]. Aegis Research's headquarters was the [[id:83cc5ab9-e42c-4049-b6ed-081927b0b286][starport]] Donar's Oak.
 
-Since the onset of the [[id:9a246121-0c2e-4f21-9877-ee333d6b0d6c][Second [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] War]], Delphi has been a hotbed
-of [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] activity; the wreckage of various [[id:594f1645-06bb-4327-b737-cb0e87cc6c73][Bulk Cruiser Megaships]]
+Since the onset of the [[id:9a246121-0c2e-4f21-9877-ee333d6b0d6c][Second Thargoid War]], Delphi has been a hotbed
+of Thargoid activity; the wreckage of various [[id:594f1645-06bb-4327-b737-cb0e87cc6c73][Bulk Cruiser Megaships]]
 lies strewn across the system, and The Oracle notably suffered an
 attack on December 14, 3303. The Sentinel, a Military [[id:2e6601b2-93e0-4748-8182-938fbb3454ad][Installation]],
 was completed on June 28, 3304 to help Delphi better defend itself
 against external military incursions.
 
 On May 24, 3307, it was reported that The Oracle, one of several
-starports recently attacked by the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] over the collection of
+starports recently attacked by the Thargoids over the collection of
 [[id:f57cff55-3348-45ea-b76f-d0eaa3c68165][Guardian]] artefacts that had been amassed aboard the [[id:4d4f19a9-5100-4307-ac1b-f40ae90e806c][Alexandria]], had at
 one point lost its alignment thrusters and nearly plummeted to the
 surface of Delpi 5 a, which would have killed the thousands of people
@@ -34,6 +34,6 @@ aboard. A similar problem was also experienced at other damaged
 starports. Fortunately, station engineers resolved the cascading
 systems failure that had endangered The Oracle, and all of the
 affected starports were restored to stable orbits. Fearing this could
-be a new [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] tactic, station staff across the galaxy rushed to
+be a new Thargoid tactic, station staff across the galaxy rushed to
 address the design vulnerability before it could be exploited
 again.[1]

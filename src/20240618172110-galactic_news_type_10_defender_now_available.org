@@ -2,7 +2,7 @@
 :ID:       32a74a25-2d3f-4054-bb8d-01f2aa12af26
 :END:
 #+title: Galactic News: Type-10 Defender Now Available
-#+filetags: :3303:galnet:
+#+filetags: :Thargoid:3303:galnet:
 
 * Galactic News: Type-10 Defender Now Available
 
@@ -12,4 +12,4 @@ Lakon Spaceways has announced that its new ship, the Type-10 Defender, is now av
 
 The vessel boasts greater speed, acceleration and manoeuvrability than the Type-9 Heavy on which it is based, and also offers a more focused hardpoint loadout. 
 
-The Type-10 has been developed primarily in response to the recent [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] attacks in the Pleiades, and Lakon has said it envisages the ship “being particularly effective in combat situations”.
+The Type-10 has been developed primarily in response to the recent Thargoid attacks in the Pleiades, and Lakon has said it envisages the ship “being particularly effective in combat situations”.

@@ -2,7 +2,7 @@
 :ID:       1be79d1f-8e40-48e3-9b18-61587d154672
 :END:
 #+title: Target the Titans – Guardian Nanite Torpedoes Released
-#+filetags: :galnet:
+#+filetags: :Thargoid:galnet:
 
 * Target the Titans – Guardian Nanite Torpedoes Released
 
@@ -10,7 +10,7 @@
 
 *Pilots’ Federation ALERT* 
 
-Aegis is preparing concerted attacks against [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Titans using the new weapons now available at rescue megaships. 
+Aegis is preparing concerted attacks against Thargoid Titans using the new weapons now available at rescue megaships. 
 
 A successful delivery campaign brought in enough supplies of neofabric insulation, ion distributors and energy grid assemblies to mass-produce the Guardian nanite torpedoes. YZ Ceti Blue Galactic and Co, acting on Aegis’s behalf, is distributing rewards and reimbursing bounty vouchers from Clement Orbital in the YZ Ceti system. 
 
@@ -18,7 +18,7 @@ A press conference was held by Aegis leadership, including a statement from Prof
 
 “The Guardian nanite torpedo is our most important invention yet. Once again, we are utilising the advanced sciences of the Thargoids’ ancient adversary. And once again, we are relying on pilots’ skill and determination to face the Titans at close quarters.” 
 
-“I am painfully aware that many abducted people are still in captivity aboard the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] motherships. Scan results suggest that the majority have now been rescued, but those remaining may not survive these attacks. We are forced to accept that their sacrifice will result in fewer deaths than if the Titans are allowed to remain operational.” 
+“I am painfully aware that many abducted people are still in captivity aboard the Thargoid motherships. Scan results suggest that the majority have now been rescued, but those remaining may not survive these attacks. We are forced to accept that their sacrifice will result in fewer deaths than if the Titans are allowed to remain operational.” 
 
 Anti-xeno strategist [[id:7bca1ccd-649e-438a-ae56-fb8ca34e6440][Aden Tanner]] discussed Aegis’s tactical approach: 
 

@@ -2,7 +2,7 @@
 :ID:       1e6db3ee-d2c7-4d1f-a059-46d6915aff2a
 :END:
 #+title: Galactic News: Aliens Walk among Us!
-#+filetags: :3303:galnet:
+#+filetags: :Thargoid:3303:galnet:
 
 * Galactic News: Aliens Walk among Us!
 
@@ -15,8 +15,8 @@ form, he has made some rather implausible claims.
 On his programme 'Behind the Curtain', Bentonio said:
 
 "I am in contact with an individual who has irrefutable proof that
-these ships are [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] vessels. And what's more, I have been
-reliably informed that the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] have been exerting direct
+these ships are Thargoid vessels. And what's more, I have been
+reliably informed that the Thargoids have been exerting direct
 influence over human society. Everything that is happening is
 unfolding according to their plan. Soon, it will be too late!"
 

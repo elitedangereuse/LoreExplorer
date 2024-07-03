@@ -2,13 +2,13 @@
 :ID:       fd3044fe-5b69-4ba4-b716-625c8afb2add
 :END:
 #+title: Defending the Sim-Archive
-#+filetags: :3304:galnet:
+#+filetags: :Thargoid:3304:galnet:
 
 * Defending the Sim-Archive
 
 /04 May 3304/
 
-The Utopia commune has launched a project to build a military installation in its home system to defend the Sim-Archive from potential [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] attack. 
+The Utopia commune has launched a project to build a military installation in its home system to defend the Sim-Archive from potential Thargoid attack. 
 
 Dr Leigh Constantinides, a spokesperson for Utopia, made this announcement: 
 

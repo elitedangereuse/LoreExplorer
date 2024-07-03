@@ -2,7 +2,7 @@
 :ID:       b04c39a0-775e-4eb4-9218-78e0c124fe93
 :END:
 #+title: Federation Pledges Resources to Aegis
-#+filetags: :Alliance:Federation:galnet:
+#+filetags: :Thargoid:Alliance:Federation:galnet:
 
 * Federation Pledges Resources to Aegis
 
@@ -14,7 +14,7 @@ Congress held an emergency debate after the Alliance and Empire agreed to suppor
 
 President Hudson delivered a short address to mark the occasion: 
 
-“The intensified [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] attacks against the core systems demand a proportionate response. We recognise that Salvation was directly responsible for many of the tragic events that Aegis was blamed for. The Federation has an opportunity to correct that misjudgement and do our part to defeat a common adversary.” 
+“The intensified Thargoid attacks against the core systems demand a proportionate response. We recognise that Salvation was directly responsible for many of the tragic events that Aegis was blamed for. The Federation has an opportunity to correct that misjudgement and do our part to defeat a common adversary.” 
 
 Congressman Tom Gillespie has volunteered to coordinate the Federation’s involvement with any unified anti-xeno activities. Professor Shamus Madigan of Olympus Village University will continue to lead on xenological research. The Federal Navy has assigned Rear Admiral Daniel Parry to act as its military liaison, a reduced version of the role formerly occupied by Admiral Aden Tanner. 
 

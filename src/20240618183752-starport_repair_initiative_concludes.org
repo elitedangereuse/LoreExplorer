@@ -2,7 +2,7 @@
 :ID:       4d04590e-d5e3-4a75-b42a-e1ab31855b85
 :END:
 #+title: Starport Repair Initiative Concludes
-#+filetags: :3304:galnet:
+#+filetags: :Thargoid:3304:galnet:
 
 * Starport Repair Initiative Concludes
 
@@ -12,6 +12,6 @@ The campaign by Aegis Core to fund the refurbishment of starports in the core sy
 
 Carter Armstrong, chief administrator for the project, announced his thanks: 
 
-“The galactic community has really pulled through for us. These materials will be put to good use in repairing the damage caused by [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] attacks. We’ll soon have these starports restored and offering the high-quality services you’d expect.” 
+“The galactic community has really pulled through for us. These materials will be put to good use in repairing the damage caused by Thargoid attacks. We’ll soon have these starports restored and offering the high-quality services you’d expect.” 
 
 Pilots who made deliveries for this initiative can now collect their rewards from Dantec Enterprise in the Socho system.

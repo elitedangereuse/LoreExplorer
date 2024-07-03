@@ -2,7 +2,7 @@
 :ID:       1a62c166-65d5-47bc-bfe5-c12e846246fb
 :END:
 #+title: Week in Review 24 Mar 3304
-#+filetags: :3304:galnet:
+#+filetags: :Thargoid:3304:galnet:
 
 * Week in Review
 
@@ -10,11 +10,11 @@
 
 Here are this week’s major stories. 
 
-Aegis has published a report containing significant insights into the Thargoids. The information was provided by the engineer Ram Tah, compiled from recently decrypted logs at Guardian sites. The report indicates that [[id:f57cff55-3348-45ea-b76f-d0eaa3c68165][the Guardians]] and the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] were once at war, due to the Thargoids’ belief that they had a pre-existing claim to the regions of space occupied by the Guardians. Professor Alba Tesreau, head of research at Aegis, said: “It is clear that our current situation echoes that of the Guardians. Our space, like theirs, was seeded with barnacles thousands of years ago, and now the Thargoids have arrived to reap the biomechanical harvest.” 
+Aegis has published a report containing significant insights into the Thargoids. The information was provided by the engineer Ram Tah, compiled from recently decrypted logs at Guardian sites. The report indicates that [[id:f57cff55-3348-45ea-b76f-d0eaa3c68165][the Guardians]] and the Thargoids were once at war, due to the Thargoids’ belief that they had a pre-existing claim to the regions of space occupied by the Guardians. Professor Alba Tesreau, head of research at Aegis, said: “It is clear that our current situation echoes that of the Guardians. Our space, like theirs, was seeded with barnacles thousands of years ago, and now the Thargoids have arrived to reap the biomechanical harvest.” 
 
-The Aegis report has elicited a wide range of responses. Federal President [[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][Zachary Hudson]] said, “It is now clear that there is no reasoning with this alien menace”, while Imperial Admiral [[id:75daea85-5e9f-4f6f-a102-1a5edea0283c][Denton Patreus]] commented, “This new information makes it clear that the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] will reject any diplomatic overtures. We must redouble our efforts to defend ourselves from their antagonism.” 
+The Aegis report has elicited a wide range of responses. Federal President [[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][Zachary Hudson]] said, “It is now clear that there is no reasoning with this alien menace”, while Imperial Admiral [[id:75daea85-5e9f-4f6f-a102-1a5edea0283c][Denton Patreus]] commented, “This new information makes it clear that the Thargoids will reject any diplomatic overtures. We must redouble our efforts to defend ourselves from their antagonism.” 
 
-Meanwhile, the operation to clear Socho of [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] has reached a successful conclusion. Scores of pilots supported the campaign by eliminating [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] vessels in the system, and by delivering alien material to Dantec Enterprise. A spokesperson for Aegis Core, which oversaw the initiative, thanked those who participated. 
+Meanwhile, the operation to clear Socho of Thargoids has reached a successful conclusion. Scores of pilots supported the campaign by eliminating Thargoid vessels in the system, and by delivering alien material to Dantec Enterprise. A spokesperson for Aegis Core, which oversaw the initiative, thanked those who participated. 
 
 In other news, [[id:b4892958-b513-46dc-b74e-26887b53f678][Yuri Grom]] has announced an initiative to create a new shipyard in the CPC 20 6743 system. The shipyard will produce capital ships with which to defend human space from both human and alien threats. 
 

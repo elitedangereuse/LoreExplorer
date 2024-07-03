@@ -2,7 +2,7 @@
 :ID:       5e9a4e6a-0673-4b0a-9472-cb282751e553
 :END:
 #+title: Far God Cult Attacked
-#+filetags: :3304:galnet:
+#+filetags: :Thargoid:3304:galnet:
 
 * Far God Cult Attacked
 
@@ -16,7 +16,7 @@ The Far God cultists have offered no resistance to the aggression, and have even
 
 Cardinal Hieronymous, representing the Church of Eternal Void, addressed a large crowd: 
 
-“Our loyal followers are performing the Guardians’ righteous work! Those who serve the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] demons are demons themselves, and we must cast them out with fire and fury.” 
+“Our loyal followers are performing the Guardians’ righteous work! Those who serve the Thargoid demons are demons themselves, and we must cast them out with fire and fury.” 
 
 A vocal campaigner against the Far God sect, Juanita Bishop, told the media: 
 

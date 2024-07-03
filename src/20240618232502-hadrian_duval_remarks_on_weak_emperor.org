@@ -2,7 +2,7 @@
 :ID:       041e4059-4600-41c3-8d7d-f8edfaff6286
 :END:
 #+title: Hadrian Duval Remarks on ‘Weak Emperor’
-#+filetags: :Alliance:Empire:galnet:
+#+filetags: :Thargoid:Alliance:Empire:galnet:
 
 * Hadrian Duval Remarks on ‘Weak Emperor’
 
@@ -12,7 +12,7 @@ An interview with Hadrian Augustus Duval has caused ripples in Imperial society 
 
 Speaking to Paresa News Network, the former Nova Imperium leader discussed the Empire’s commitment to Aegis: 
 
-“I have always known that the Empire is stronger alone, especially when protecting our people from the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] hordes. Supposedly, Emperor Arissa felt the same – until a visit from Princess Aisling turned her head. Suddenly her principles were cast aside, and our valuable resources pledged to more foreign military projects.” 
+“I have always known that the Empire is stronger alone, especially when protecting our people from the Thargoid hordes. Supposedly, Emperor Arissa felt the same – until a visit from Princess Aisling turned her head. Suddenly her principles were cast aside, and our valuable resources pledged to more foreign military projects.” 
 
 “I can only wonder when the Emperor became so easily swayed. Was it during her year in captivity? Did all that time in suspended animation drain her resolve? We cannot afford to allow the Empire to be governed by someone with a weak spirit. Our citizens deserve a strong, determined ruler.” 
 
@@ -20,4 +20,4 @@ Gudrun Vestergaard, royal correspondent for The Imperial Herald, commented:
 
 “The anticipated friction between the Duval cousins has now become a reality. Hadrian clearly took great offence at how swiftly Aisling engineered an exception to the Empire’s isolationist policies. But openly denigrating Her Majesty is a dangerous game, especially from the young revolutionary who once attempted to usurp her throne.” 
 
-“Meanwhile, Princess Aisling has thrown herself into the role of overseeing the Imperial contribution to Aegis. Court insiders claim that she spends much of her time with military experts, absorbing information about the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] conflict. Regularly communications with her opposite numbers in the Alliance and Federation have become part of the daily routine. Some still see this as a high-profile PR exercise on her part, but others wonder if Aisling might become the wartime leader the Empire needs. Skeptics who believe she lacks the strategic talents necessary to succeed may yet find themselves surprised by her apparent enthusiasm for Aegis’s work.”
+“Meanwhile, Princess Aisling has thrown herself into the role of overseeing the Imperial contribution to Aegis. Court insiders claim that she spends much of her time with military experts, absorbing information about the Thargoid conflict. Regularly communications with her opposite numbers in the Alliance and Federation have become part of the daily routine. Some still see this as a high-profile PR exercise on her part, but others wonder if Aisling might become the wartime leader the Empire needs. Skeptics who believe she lacks the strategic talents necessary to succeed may yet find themselves surprised by her apparent enthusiasm for Aegis’s work.”

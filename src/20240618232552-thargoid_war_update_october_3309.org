@@ -1,23 +1,23 @@
 :PROPERTIES:
 :ID:       386d225d-44b7-4b71-bb5d-469ee9faca4c
 :END:
-#+title: [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] War Update: October 3309
-#+filetags: :galnet:
+#+title: Thargoid War Update: October 3309
+#+filetags: :Thargoid:galnet:
 
-* [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] War Update: October 3309
+* Thargoid War Update: October 3309
 
 /30 Oct 3309/
 
-Vox Galactica’s [[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]] discusses the successful recovery of people from the Titans and developments at the new [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] spire sites. 
+Vox Galactica’s [[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]] discusses the successful recovery of people from the Titans and developments at the new Thargoid spire sites. 
 
-“When Aegis announced its plans to free abductees from the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] motherships, I wasn’t the only one expecting the worst outcome. Turning a core mining missile into a way to extract life-support capsules from the Titans sounded extremely risky. And even if it worked, what state would these poor people be in after such a horrific experience?” 
+“When Aegis announced its plans to free abductees from the Thargoid motherships, I wasn’t the only one expecting the worst outcome. Turning a core mining missile into a way to extract life-support capsules from the Titans sounded extremely risky. And even if it worked, what state would these poor people be in after such a horrific experience?” 
 
 “Much to my relief, the scheme is working. Many thousands have now been brought back to civilisation, and seem to have suffered few ill-effects. Wisely, all are being kept under strict quarantine while a battery of medical tests are run on them. But I understand that, in most cases, abductees are permitted to communicate with their friends and families - most of whom never expected to hear from them again.” 
 
-“Another surprise, albeit much less welcome, were the rapid changes observed at the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] barnacle matrix sites. Intense geological activity had been registered beneath the surface, but the alien growths resisted detailed analysis. Their transformation into colossal towers several kilometres high has startled the scientific community.” 
+“Another surprise, albeit much less welcome, were the rapid changes observed at the Thargoid barnacle matrix sites. Intense geological activity had been registered beneath the surface, but the alien growths resisted detailed analysis. Their transformation into colossal towers several kilometres high has startled the scientific community.” 
 
-“Xenologists tell me that the emergence of these [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] spire sites, as they’re now classified, suggest that the aliens are putting long-term plans into place. Their actual purpose is unclear, but few believe that the outcome will be beneficial for humanity.” 
+“Xenologists tell me that the emergence of these Thargoid spire sites, as they’re now classified, suggest that the aliens are putting long-term plans into place. Their actual purpose is unclear, but few believe that the outcome will be beneficial for humanity.” 
 
-“Elsewhere, resistance to the aliens remains as dedicated as ever. At the time of writing, no new invasions have been reported, and the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] occupy only a third of the territory previously conquered by their fleets. Scores of once-inhabited systems still need to be liberated, but the mood among anti-xeno forces is that the tide has turned in humanity’s favour.” 
+“Elsewhere, resistance to the aliens remains as dedicated as ever. At the time of writing, no new invasions have been reported, and the Thargoids occupy only a third of the territory previously conquered by their fleets. Scores of once-inhabited systems still need to be liberated, but the mood among anti-xeno forces is that the tide has turned in humanity’s favour.” 
 
 “This is [[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]] reporting for Vox Galactica. Stay safe out there.”

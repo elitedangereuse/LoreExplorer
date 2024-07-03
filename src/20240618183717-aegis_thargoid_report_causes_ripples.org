@@ -1,10 +1,10 @@
 :PROPERTIES:
 :ID:       755cee50-d9bb-48cd-8000-cc23be27e899
 :END:
-#+title: Aegis [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Report Causes Ripples
-#+filetags: :Federation:3304:galnet:
+#+title: Aegis Thargoid Report Causes Ripples
+#+filetags: :Thargoid:Federation:3304:galnet:
 
-* Aegis [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Report Causes Ripples
+* Aegis Thargoid Report Causes Ripples
 
 /25 Mar 3304/
 
@@ -16,7 +16,7 @@ A brief statement was released by Federal President Zachary Hudson:
 
 Imperial Admiral [[id:75daea85-5e9f-4f6f-a102-1a5edea0283c][Denton Patreus]] adopted a similar viewpoint:  
 
-“This new information makes it clear that the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] will reject any diplomatic overtures. We must redouble our efforts to defend ourselves from their antagonism.” 
+“This new information makes it clear that the Thargoids will reject any diplomatic overtures. We must redouble our efforts to defend ourselves from their antagonism.” 
 
 Meanwhile, Professor Palin observed:  
 

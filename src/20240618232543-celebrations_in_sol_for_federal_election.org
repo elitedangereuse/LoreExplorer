@@ -2,7 +2,7 @@
 :ID:       db9fbe51-81e7-44a1-8249-569867ba4229
 :END:
 #+title: Celebrations in Sol for Federal Election
-#+filetags: :galnet:
+#+filetags: :Thargoid:galnet:
 
 * Celebrations in Sol for Federal Election
 
@@ -22,6 +22,6 @@ President Hudson announced the events across all Federal news channels, where he
 
 Vox Galactica’s political journalist Conrad Sterling observed: 
 
-“This is clearly a high-profile attempt to boost public morale, one that allows President Hudson to leave office on a positive note. Political critics are viewing it as a way to distract the citizens from the prolonged [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] war, the recent Rackham scandal, and various other challenges besetting the Federation. But the eagerness of most citizens to embrace the sentiment proves one fact remains true: everyone loves a party.” 
+“This is clearly a high-profile attempt to boost public morale, one that allows President Hudson to leave office on a positive note. Political critics are viewing it as a way to distract the citizens from the prolonged Thargoid war, the recent Rackham scandal, and various other challenges besetting the Federation. But the eagerness of most citizens to embrace the sentiment proves one fact remains true: everyone loves a party.” 
 
 Voting will open next Thursday for Federal citizens to choose either Vice President Jerome Archer or Shadow President [[id:b9fe58a3-dfb7-480c-afd6-92c3be841be7][Felicia Winters]] as their next president. The election winner will be announced at the start of the following week.

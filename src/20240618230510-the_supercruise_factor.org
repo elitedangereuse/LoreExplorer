@@ -2,7 +2,7 @@
 :ID:       f247720d-334d-4e24-a0ec-eaeff27c233c
 :END:
 #+title: The Supercruise Factor
-#+filetags: :galnet:
+#+filetags: :Thargoid:galnet:
 
 * The Supercruise Factor
 
@@ -14,8 +14,8 @@ The Thargoids’ ability to force craft to drop out of hyperspace is well docume
 
 Colonel Bris Dekker, an engineer who specialises in frame shift drive technology, submitted his analysis to The Federal Times: 
 
-“Being intercepted by the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] mid-way through an interstellar journey is certainly a disturbing experience, but not necessarily a fatal one. Many ships have survived such encounters, unless they happen to be carrying Guardian or [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] artefacts. By contrast, these more recent incidents are uniformly acts of aggression, with ships being wrenched out of supercruise and immediately fired upon.” 
+“Being intercepted by the Thargoids mid-way through an interstellar journey is certainly a disturbing experience, but not necessarily a fatal one. Many ships have survived such encounters, unless they happen to be carrying Guardian or Thargoid artefacts. By contrast, these more recent incidents are uniformly acts of aggression, with ships being wrenched out of supercruise and immediately fired upon.” 
 
-“We don’t know precisely how the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] achieve this, though some theories are gathering support. But the intention is clear: to make the hunting of humans vessels easier. Anti-xeno pilots should note that they can no longer escape the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] blasting though their shields by simply entering supercruise.” 
+“We don’t know precisely how the Thargoids achieve this, though some theories are gathering support. But the intention is clear: to make the hunting of humans vessels easier. Anti-xeno pilots should note that they can no longer escape the Thargoid blasting though their shields by simply entering supercruise.” 
 
-“Possibly, this is more of a shift in tactics than a new technological development. All reported interdictions have taken place in recently invaded systems close to the Maelstroms, rather than in the aliens’ more well-known haunts. Whatever the reason, the invading [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] force has adapted to more efficiently catch its prey.”
+“Possibly, this is more of a shift in tactics than a new technological development. All reported interdictions have taken place in recently invaded systems close to the Maelstroms, rather than in the aliens’ more well-known haunts. Whatever the reason, the invading Thargoid force has adapted to more efficiently catch its prey.”

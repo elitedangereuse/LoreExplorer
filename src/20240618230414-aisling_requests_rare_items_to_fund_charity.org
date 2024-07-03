@@ -2,7 +2,7 @@
 :ID:       fe6ba5c4-a905-4a54-b1db-7ee4becfd4a4
 :END:
 #+title: Aisling Requests Rare Items to Fund Charity
-#+filetags: :Empire:galnet:
+#+filetags: :Thargoid:Empire:galnet:
 
 * Aisling Requests Rare Items to Fund Charity
 
@@ -10,7 +10,7 @@
 
 *Pilots’ Federation ALERT* 
 
-A fundraiser hosted by Princess Aisling aims to finance a support network for Imperial citizens affected by [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] aggression. 
+A fundraiser hosted by Princess Aisling aims to finance a support network for Imperial citizens affected by Thargoid aggression. 
 
 The Citizens’ Relief Trust has been established in the Cemiess system, prompted by the loss of thousands of military personnel during the Battle of HIP 22460. She announced: 
 

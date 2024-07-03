@@ -2,7 +2,7 @@
 :ID:       0cfba5c9-e208-44d5-aeff-e9c670650674
 :END:
 #+title: Aegis Receives Titan Materials for Xeno-Research
-#+filetags: :galnet:
+#+filetags: :Thargoid:galnet:
 
 * Aegis Receives Titan Materials for Xeno-Research
 
@@ -10,9 +10,9 @@
 
 *Pilots’ Federation ALERT* 
 
-Aegis and Azimuth Biotech have concluded rival campaigns to deliver tissue samples harvested from the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Titans. 
+Aegis and Azimuth Biotech have concluded rival campaigns to deliver tissue samples harvested from the Thargoid Titans. 
 
-Titan tissue samples were obtained from the surfaces of the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] capital ships using research limpets and brought back to human space by daring pilots.  
+Titan tissue samples were obtained from the surfaces of the Thargoid capital ships using research limpets and brought back to human space by daring pilots.  
 
 Dr Maximo Fonseca, the Allied scientific liaison to Aegis, delivered a congratulatory message: 
 

@@ -2,7 +2,7 @@
 :ID:       9270c962-48bf-465a-8c8d-2f5fc317e81f
 :END:
 #+title: Leaked Report Exposes Aegis Failures
-#+filetags: :galnet:
+#+filetags: :Thargoid:galnet:
 
 * Leaked Report Exposes Aegis Failures
 
@@ -16,7 +16,7 @@ Vox Galactica journalist Alexei Keel reported on its contents:
 
 “The leaked files outline a pattern of poor internal organisation and negligence. One claim is that Aegis accepted its heavy reliance on independent pilots entering combat situations against the Thargoids.”  
 
-“A lack of technological breakthroughs since the first generation of AX weaponry is also criticised. Professor Tesreau, who has since resigned, is singled out for prioritising communication with the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] rather than developing quickly deployed defences.” 
+“A lack of technological breakthroughs since the first generation of AX weaponry is also criticised. Professor Tesreau, who has since resigned, is singled out for prioritising communication with the Thargoids rather than developing quickly deployed defences.” 
 
 “Interview transcripts show that some Aegis personnel consider the inquiry itself to be part of a larger agenda. A recurring claim is that the superpowers directly contributed to Aegis’s inefficiency by reducing funding, and are now scapegoating Aegis management for a lack of progress.” 
 

@@ -2,7 +2,7 @@
 :ID:       5773692f-932c-4f3c-a91b-99f12eba695a
 :END:
 #+title: The Coming of Taranis
-#+filetags: :galnet:
+#+filetags: :Thargoid:galnet:
 
 * The Coming of Taranis
 
@@ -10,7 +10,7 @@
 
 As the rogue signal sources draw closer to human-occupied space, work is underway to initiate peaceful inter-species negotiations. 
 
-Dr Elias Pope  is a graduate of Orion University with degrees in interstellar relations, political science and xenology. He has recently joined the Kingfisher megaship’s crew to oversee the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Advocacy Project’s diplomatic mission. In an interview with Vox Galactica, Dr Pope explained his role: 
+Dr Elias Pope  is a graduate of Orion University with degrees in interstellar relations, political science and xenology. He has recently joined the Kingfisher megaship’s crew to oversee the Thargoid Advocacy Project’s diplomatic mission. In an interview with Vox Galactica, Dr Pope explained his role: 
 
 “Like most of the Kingfisher’s crew, I volunteered to take part in this operation. It feels like my whole professional life has been leading to this opportunity. Many of the fine people here feel the same way I do. If there’s even a chance that we might begin properly talking to the Thargoids, well… it’ll be historic.” 
 

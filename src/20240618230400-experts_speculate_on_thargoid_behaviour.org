@@ -1,10 +1,10 @@
 :PROPERTIES:
 :ID:       9ad99238-e845-489d-bde9-24814263c940
 :END:
-#+title: Experts Speculate on [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Behaviour
-#+filetags: :galnet:
+#+title: Experts Speculate on Thargoid Behaviour
+#+filetags: :Thargoid:galnet:
 
-* Experts Speculate on [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Behaviour
+* Experts Speculate on Thargoid Behaviour
 
 /05 Sep 3308/
 
@@ -12,7 +12,7 @@ The Thargoids’ resistance to the Proteus Wave in HIP 22460 has prompted discus
 
 Professor Shamus Madigan of Olympus Village University published a paper in the scientific journal The Empirical, which included this extract: 
 
-“The [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] newly observed defence against a man-made superweapon, and their subsequent aggression, suggests a direct response to our tactics. Not only have they upgraded their technology, but also their behaviour has altered. Humanity is now a problem that must be dealt with.” 
+“The Thargoids newly observed defence against a man-made superweapon, and their subsequent aggression, suggests a direct response to our tactics. Not only have they upgraded their technology, but also their behaviour has altered. Humanity is now a problem that must be dealt with.” 
 
 The Imperial Science Academy’s director of xenological studies, Ivano Colombera, responded to a press query with: 
 
@@ -20,4 +20,4 @@ The Imperial Science Academy’s director of xenological studies, Ivano Colomber
 
 Dr Jeong-Hui Shin, a senior member of the Holloway Bioscience Institute, outlined her viewpoint via the Rewired network: 
 
-“We should not assume that the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] have consciously adapted to us, or even register us as an intelligent life-form. We may be no more than parasites to them. Perhaps their vessels are responding like biomechanical ‘antibodies’, automatically fighting against a particularly virulent strain of human infection in HIP 22460.”
+“We should not assume that the Thargoids have consciously adapted to us, or even register us as an intelligent life-form. We may be no more than parasites to them. Perhaps their vessels are responding like biomechanical ‘antibodies’, automatically fighting against a particularly virulent strain of human infection in HIP 22460.”

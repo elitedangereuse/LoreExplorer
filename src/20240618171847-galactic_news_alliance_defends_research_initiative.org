@@ -2,13 +2,13 @@
 :ID:       4cb31420-cb19-48f6-b876-3e933992ed36
 :END:
 #+title: Galactic News: Alliance Defends Research Initiative
-#+filetags: :Alliance:3303:galnet:
+#+filetags: :Thargoid:Alliance:3303:galnet:
 
 * Galactic News: Alliance Defends Research Initiative
 
 /16 Aug 3303/
 
-The Alliance has been criticised for its recent appeal for [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] data, which began only days after a joint-superpower initiative was established to study the Thargoids. 
+The Alliance has been criticised for its recent appeal for Thargoid data, which began only days after a joint-superpower initiative was established to study the Thargoids. 
 
 A number of independent factions, including the Federal Republican Command, have censured the Alliance for its apparently contradictory stance. 
 

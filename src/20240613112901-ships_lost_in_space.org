@@ -2,7 +2,7 @@
 :ID:       f6907e0e-5e6b-4b9d-b28c-11c233ba8aac
 :END:
 #+title: Ships Lost in Space
-#+filetags: :Federation:beacon:
+#+filetags: :Thargoid:Federation:beacon:
 * 0187 Ships Lost in Space
 [[id:113500ff-cc01-4fe3-a0f4-87d92e2c2d31][Zelada]]
 
@@ -15,7 +15,7 @@ rapidly and militarised the system as a base in response to this alien
 threat.
 
 It has never been determined that these disappearances could be
-attributed to the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] and little documentation has emerged about
+attributed to the Thargoids and little documentation has emerged about
 the Federal battlegroup's activities in this sector in this
 period. Nevertheless, Smith made much of his show of strength 'driving
 away the alien threat' and was popular as a result, further enhancing

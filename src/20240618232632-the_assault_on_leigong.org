@@ -2,7 +2,7 @@
 :ID:       1eae3b61-70d9-4252-b11d-f8af0183b161
 :END:
 #+title: The Assault on Leigong
-#+filetags: :galnet:
+#+filetags: :Thargoid:galnet:
 
 * The Assault on Leigong
 
@@ -14,7 +14,7 @@ Titan Leigong is under siege. This is an urgent call to all independent pilots t
 
 The key modules for the assault continue to be readily available at all Rescue Megaships: 
 
-• [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Pulse Neutraliser – To break through the maelstrom defence wave. 
+• Thargoid Pulse Neutraliser – To break through the maelstrom defence wave. 
 
 • Caustic Sink Launchers – To protect your ship from caustic effects of the maelstrom. 
 

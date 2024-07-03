@@ -2,7 +2,7 @@
 :ID:       5dc6cd36-a494-49b4-8f30-cfe024402dcc
 :END:
 #+title: Alliance and Sirius Agree Defence Pact
-#+filetags: :Alliance:galnet:
+#+filetags: :Thargoid:Alliance:galnet:
 
 * Alliance and Sirius Agree Defence Pact
 
@@ -14,7 +14,7 @@ The Alliance Assembly and the Council of Admirals held a rare joint vote on the 
 
 Prime Minister [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74][Edmund Mahon]] told The Alliance Tribune: 
 
-“The danger posed by the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] is increasing once more, perhaps accelerated by the loss of Aegis and a lack of any binding treaty between the superpowers. It is vital that we make a proactive decision to maintain security for Alliance systems.” 
+“The danger posed by the Thargoids is increasing once more, perhaps accelerated by the loss of Aegis and a lack of any binding treaty between the superpowers. It is vital that we make a proactive decision to maintain security for Alliance systems.” 
 
 “Sirius Corporation will work closely with the Alliance Defence Force to reinforce our member vessels, focusing exclusively on anti-xeno operations. In return, new commercial agreements will provide the company with increased access to certain financial endeavours.” 
 

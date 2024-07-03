@@ -2,7 +2,7 @@
 :ID:       fb2899a0-eab0-4135-bc68-bceafac0763b
 :END:
 #+title: Ram Tah’s Revelations Halt Court Martial
-#+filetags: :galnet:
+#+filetags: :Thargoid:galnet:
 
 * Ram Tah’s Revelations Halt Court Martial
 
@@ -35,7 +35,7 @@ technology.”
 
 “It’s highly probable that this is based on an existing Guardian
 weapon discovered by the Proteus. This would explain why its presence
-within a system attracts [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] vessels.”
+within a system attracts Thargoid vessels.”
 
 The Federal Navy Criminal Court announced that Admiral Tanner’s court
 martial has been temporarily suspended while the new evidence is

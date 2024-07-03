@@ -2,7 +2,7 @@
 :ID:       41157bcf-6ea1-41e9-9520-df1e1c542062
 :END:
 #+title: The Assault on Oya
-#+filetags: :galnet:
+#+filetags: :Thargoid:galnet:
 
 * The Assault on Oya
 
@@ -14,7 +14,7 @@ Titan Oya is under siege. This is an urgent call to all independent pilots to ai
 
 The key modules for the assault continue to be readily available at all Rescue Megaships: 
 
-• [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Pulse Neutraliser – To break through the maelstrom defence wave. 
+• Thargoid Pulse Neutraliser – To break through the maelstrom defence wave. 
 
 • Caustic Sink Launchers – To protect your ship from caustic effects of the maelstrom. 
 

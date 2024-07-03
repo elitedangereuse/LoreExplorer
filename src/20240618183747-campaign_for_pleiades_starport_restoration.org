@@ -2,17 +2,17 @@
 :ID:       73e04464-f4a6-4458-a955-c5dacadb1ba8
 :END:
 #+title: Campaign for Pleiades Starport Restoration
-#+filetags: :3304:galnet:
+#+filetags: :Thargoid:3304:galnet:
 
 * Campaign for Pleiades Starport Restoration
 
 /01 Jun 3304/
 
-A fund has been set up by the Aegis Research to repair starports in the Pleiades Nebula that have been damaged during the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] conflict. 
+A fund has been set up by the Aegis Research to repair starports in the Pleiades Nebula that have been damaged during the Thargoid conflict. 
 
 Senior engineer Lilith Galloway made this announcement: 
 
-“We’ve had the worst of it here. The [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] have given us a bloody nose on several occasions. But we are strong, we will heal, and you can help.” 
+“We’ve had the worst of it here. The Thargoids have given us a bloody nose on several occasions. But we are strong, we will heal, and you can help.” 
 
 “We’re asking for pilots to deliver as much as they can fit in their holds. We’re going to rebuild our starports better than ever. Let’s get the Pleiades fighting fit once more.” 
 

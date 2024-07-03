@@ -2,7 +2,7 @@
 :ID:       a7e62a12-6e07-4085-b579-904e8bed929f
 :END:
 #+title: Witch Head Planetary Ports Established
-#+filetags: :galnet:
+#+filetags: :Thargoid:galnet:
 
 * Witch Head Planetary Ports Established
 
@@ -30,7 +30,7 @@ Bray Landing and Ratchet Hub respectively.”
 
 “With these new resources available ahead of schedule, we hope to
 accelerate the ongoing efforts to repair the starports damaged during
-recent [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] assaults. [[id:392c2c3c-89fa-49bd-880f-adfa219b484d][Ezra Point]] is the first to declare itself
+recent Thargoid assaults. [[id:392c2c3c-89fa-49bd-880f-adfa219b484d][Ezra Point]] is the first to declare itself
 fully functional, with all standard services back online.”
 
 Further installations have been planned over the coming weeks, as

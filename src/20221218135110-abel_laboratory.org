@@ -2,6 +2,7 @@
 :ID:       d2995be0-905d-4a79-9032-05104c456dc5
 :END:
 #+title: Abel Laboratory
+#+filetags: :Thargoid:
 [[id:d4b595af-536d-4575-af11-f07f3ac3ff40][Arque]]
 [[id:8f63442a-1f38-457d-857a-38297d732a90][Professor Ishmael Palin]] [[id:43c9c067-4718-4d81-99eb-d73467c36937][Minor Faction]]
 

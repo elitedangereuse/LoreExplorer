@@ -2,7 +2,7 @@
 :ID:       ef411281-0d57-4ef9-a778-eba28737cbaf
 :END:
 #+title: Mystery of Missing Crew Sparks Rumours
-#+filetags: :galnet:
+#+filetags: :Thargoid:galnet:
 
 * Mystery of Missing Crew Sparks Rumours
 
@@ -14,6 +14,6 @@ Independent reporter Flint ‘Firemaker’ Lafosse discussed the mystery on the 
 
 “The scientists say this might be an anomaly that only affects organic tissue. But that doesn’t explain the discovery of Consuela Knight’s half-eaten meal, does it?”  
 
-“Others think it could be a new [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] weapon that disintegrates humans while leaving ships intact. Or maybe the cultists were right, and the Far God has started snacking on individuals before it arrives to eat the whole universe.” 
+“Others think it could be a new Thargoid weapon that disintegrates humans while leaving ships intact. Or maybe the cultists were right, and the Far God has started snacking on individuals before it arrives to eat the whole universe.” 
 
 “For all we know, this has been happening to ships for years. Maybe it usually gets hushed up, which is harder to do when a big-name celebrity vanishes. Which of us might be next? Think about that next time you jump into hyperspace…”

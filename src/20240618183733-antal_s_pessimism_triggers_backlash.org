@@ -2,7 +2,7 @@
 :ID:       a0a49ab3-2d9f-47c7-8b3c-b89d6a644b88
 :END:
 #+title: Antal’s Pessimism Triggers Backlash
-#+filetags: :3304:galnet:
+#+filetags: :Thargoid:3304:galnet:
 
 * Antal’s Pessimism Triggers Backlash
 
@@ -12,11 +12,11 @@ Many key figures have contested Pranav Antal’s suggestion that humanity could 
 
 Federal Shadow President [[id:b9fe58a3-dfb7-480c-afd6-92c3be841be7][Felicia Winters]] commented: 
 
-“It’s surprising to hear such a dystopian prediction from the leader of Utopia! I know Antal’s heart is in the right place when he talks about preparing for the far future, but our focus should be on the present. The [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] threat has prompted an unprecedented level of inter-power cooperation, and this positive approach is what we must concentrate on.” 
+“It’s surprising to hear such a dystopian prediction from the leader of Utopia! I know Antal’s heart is in the right place when he talks about preparing for the far future, but our focus should be on the present. The Thargoid threat has prompted an unprecedented level of inter-power cooperation, and this positive approach is what we must concentrate on.” 
 
 Admiral [[id:7bca1ccd-649e-438a-ae56-fb8ca34e6440][Aden Tanner]] made a statement on behalf of Aegis: 
 
-“Let me make this clear: our enemy may be powerful, but they are far from achieving victory. With our AX weaponry and new megaships, Aegis is leading an effective resistance against [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] forces.” 
+“Let me make this clear: our enemy may be powerful, but they are far from achieving victory. With our AX weaponry and new megaships, Aegis is leading an effective resistance against Thargoid forces.” 
 
 Further refutation came from Li Yong-Rui, CEO of the Sirius Corporation: 
 

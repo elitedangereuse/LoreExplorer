@@ -2,7 +2,7 @@
 :ID:       23579302-527d-48c8-a6cb-1da3e1984b09
 :END:
 #+title: Week in Review 20 May 3304
-#+filetags: :Alliance:3304:galnet:
+#+filetags: :Thargoid:Alliance:3304:galnet:
 
 * Week in Review
 
@@ -12,7 +12,7 @@ Here are this week’s major stories.
 
 A member of the Council of Admirals, which commands the Alliance Defence Force, has been murdered. The League of Reparation has claimed responsibility. It has been confirmed that an ancestor of the victim, Fleet Admiral Buchanan, was a senior commander in the INRA. It has also been suggested that the League’s assassins are being aided by sympathetic individuals in positions of influence. 
 
-Meanwhile, an increasing number of religious movements in the core systems are proclaiming that humanity is on the verge of destruction. The return of the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] has led to the emergence of dozens of radical groups, and although their nature varies, the message is the same: the apocalypse is coming. Authorities have responded by restating that the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] threat is being controlled. 
+Meanwhile, an increasing number of religious movements in the core systems are proclaiming that humanity is on the verge of destruction. The return of the Thargoids has led to the emergence of dozens of radical groups, and although their nature varies, the message is the same: the apocalypse is coming. Authorities have responded by restating that the Thargoid threat is being controlled. 
 
 Scientists in Colonia are investigating the region’s potential to support larger populations in the future. Professor Alexei de la Vega, who is leading the research, published this statement: “Over the past few years the region’s population has expanded ferociously, so it has become a priority to investigate how Colonia might support even greater numbers, and what kind of infrastructure would be required. This research requires a range of specialised materials, for which we’re prepared to pay handsomely.” 
 

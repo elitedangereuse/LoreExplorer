@@ -2,7 +2,7 @@
 :ID:       df1dfe79-edee-4c78-bd62-d1049a69de41
 :END:
 #+title: Azimuth Announces Experimental Weapons Stabiliser
-#+filetags: :Federation:galnet:
+#+filetags: :Thargoid:Federation:galnet:
 
 * Azimuth Announces Experimental Weapons Stabiliser
 
@@ -14,7 +14,7 @@ The event showcased a range of military products to entice governments, corporat
 
 CEO Torben Rademaker delivered a presentation on the expo’s main stage: 
 
-“Azimuth’s experimental weapons stabiliser is designed to redistribute the physical stresses that experimental modules place upon a ship’s structural integrity. Its unique technology will allow ships to utilise AX weapons above the current limit of four, expanding a pilots’ options when engaging [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] vessels.” 
+“Azimuth’s experimental weapons stabiliser is designed to redistribute the physical stresses that experimental modules place upon a ship’s structural integrity. Its unique technology will allow ships to utilise AX weapons above the current limit of four, expanding a pilots’ options when engaging Thargoid vessels.” 
 
 “The medium variant of our stabiliser allows one additional experimental weapon to be installed, while the large variant can facilitate two additional experimental weapons. Both stabilisers support the enhanced AX missile racks and multi-cannons that recently became available.” 
 

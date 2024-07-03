@@ -1,10 +1,10 @@
 :PROPERTIES:
 :ID:       d6234afa-1fda-4cbb-b50f-36832b400346
 :END:
-#+title: Ground Troops Encounter [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Drones
-#+filetags: :galnet:
+#+title: Ground Troops Encounter Thargoid Drones
+#+filetags: :Thargoid:galnet:
 
-* Ground Troops Encounter [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Drones
+* Ground Troops Encounter Thargoid Drones
 
 /12 May 3309/
 
@@ -12,14 +12,14 @@ Reports from planetary settlements within Thargoid-occupied systems have describ
 
 Field correspondent Ernesto Rios summarised this development for Vox Galactica: 
 
-“Scores of populated systems in the vicinity of the Maelstroms have been invaded by [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] fleets, causing horrific casualties and mass evacuations. But military personnel still risk their lives exploring settlements within those systems, to search for survivors or scavenge remaining materials.” 
+“Scores of populated systems in the vicinity of the Maelstroms have been invaded by Thargoid fleets, causing horrific casualties and mass evacuations. But military personnel still risk their lives exploring settlements within those systems, to search for survivors or scavenge remaining materials.” 
 
-“These troops have come under attack by ‘airborne vehicles of [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] design’, according to one account. Their relatively small size suggests they are the equivalent of combat drones. ‘I’ve seen them patrol the abandoned settlements as if on guard duty,’ said one eyewitness, ‘and become extremely hostile when they detect any living humans.’” 
+“These troops have come under attack by ‘airborne vehicles of Thargoid design’, according to one account. Their relatively small size suggests they are the equivalent of combat drones. ‘I’ve seen them patrol the abandoned settlements as if on guard duty,’ said one eyewitness, ‘and become extremely hostile when they detect any living humans.’” 
 
-“It seems that the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] now view these planets as their territory, and us as the intruders. Could they be planning to colonise all worlds in the core systems?” 
+“It seems that the Thargoids now view these planets as their territory, and us as the intruders. Could they be planning to colonise all worlds in the core systems?” 
 
 Following a tactical briefing with senior Aegis staff, Rear Admiral Daniel Parry provided an update to the press: 
 
-“We have obtained several reports from both enlisted and unauthorised ground teams. Available data indicates that the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] drones are capable of launching volleys of air-to-surface projectiles. I have read harrowing descriptions of entire squads being wiped out by missile bombardments from these craft.” 
+“We have obtained several reports from both enlisted and unauthorised ground teams. Available data indicates that the Thargoid drones are capable of launching volleys of air-to-surface projectiles. I have read harrowing descriptions of entire squads being wiped out by missile bombardments from these craft.” 
 
 “This potentially adds a new dimension to the war, by introducing active threats on planetary surfaces. Marine units are being prepared to investigate further. However, independent armed forces operating behind enemy lines can play a vital role by destroying as many drones as possible.”

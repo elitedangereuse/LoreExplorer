@@ -1,20 +1,20 @@
 :PROPERTIES:
 :ID:       e2a66f82-61ef-45b2-9830-d6d2f9f99117
 :END:
-#+title: Starports Recover from [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Strikes
-#+filetags: :3304:galnet:
+#+title: Starports Recover from Thargoid Strikes
+#+filetags: :Thargoid:3304:galnet:
 
-* Starports Recover from [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Strikes
+* Starports Recover from Thargoid Strikes
 
 /22 Jun 3304/
 
-Three starports attacked and damaged by [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] forces have now been restored to full functionality. 
+Three starports attacked and damaged by Thargoid forces have now been restored to full functionality. 
 
 Carter Armstrong, chief administrator with Aegis Core, told the press: 
 
 “When we requested help to repair Thargoid-hit starports, we hoped the galactic community would be generous, but they exceeded our expectations. A colossal influx of materials has enabled us to repair two stations in the core systems in record time.” 
 
-“I’m pleased to announce that Armstrong Enterprise in the Bhal system and Beaufoy Vision in the Nauni system are now open for business. Keeping these starports operable allows us to honour those who lost their lives in the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] attacks. Enormous thanks to everyone who participated.” 
+“I’m pleased to announce that Armstrong Enterprise in the Bhal system and Beaufoy Vision in the Nauni system are now open for business. Keeping these starports operable allows us to honour those who lost their lives in the Thargoid attacks. Enormous thanks to everyone who participated.” 
 
 Senior Engineer Lilith Galloway of Aegis Research, who coordinated a parallel project, released a similar statement: 
 

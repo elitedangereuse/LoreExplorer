@@ -2,7 +2,7 @@
 :ID:       f7b988d4-b2fd-4f8e-89d2-f993319148ee
 :END:
 #+title: Making the Case for Aegis
-#+filetags: :galnet:
+#+filetags: :Thargoid:galnet:
 
 * Making the Case for Aegis
 
@@ -18,6 +18,6 @@ Detailed plans to reform the organisation were presented by other former members
 
 The hosts were also asked about the xeno-peace movement and the popular audio package released last week by ICE-caster Joy Senne. Professor Tesreau stated: 
 
-“Neither I nor any former Aegis staff are involved with the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Advocacy Project or any similar groups. But I have always believed that researching methods of inter-species communication should be a priority.” 
+“Neither I nor any former Aegis staff are involved with the Thargoid Advocacy Project or any similar groups. But I have always believed that researching methods of inter-species communication should be a priority.” 
 
 A combination of politicians, scientists, naval officers and journalists were present on the first day of the event. The most high-profile guests included Allied Deputy Prime Minister Angela Corcoran, Federal Ambassador [[id:a9ccf59f-436e-44df-b041-5020285925f8][Jasmina Halsey]] and Shadow Vice President Isolde Rochester. There were no representatives from the Empire, but a delegation from the Marlinist Colonies observed proceedings.

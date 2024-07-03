@@ -2,7 +2,8 @@
 :ID:       d17a9775-b9b5-4d26-b69f-16ced04f52a9
 :ROAM_ALIASES: "Unknown Artefacts"
 :END:
-#+title: [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Sensors
+#+title: Thargoid Sensors
+#+filetags: :Thargoid:
 [[https://elitedangereuse.fr/tuto-les-thargoides-dessinent-votre-vaisseau-avec-du-morse/][[TUTO] Comment déchiffrer les messages délivrés par les capteurs thargoides]]
 
 After september the 3rd all the UA starts scanning ships closer than 1000m.

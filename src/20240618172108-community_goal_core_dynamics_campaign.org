@@ -2,17 +2,17 @@
 :ID:       bebaab49-bc33-4c34-89ab-fff3fc3d015e
 :END:
 #+title: Community Goal: Core Dynamics Campaign
-#+filetags: :3303:galnet:
+#+filetags: :Thargoid:3303:galnet:
 
 * Community Goal: Core Dynamics Campaign
 
 /22 Dec 3303/
 
-Core Dynamics, one of the galaxy's largest starship manufacturers, has announced a new construction initiative in response to the rise in [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] attacks. 
+Core Dynamics, one of the galaxy's largest starship manufacturers, has announced a new construction initiative in response to the rise in Thargoid attacks. 
 
 A spokesperson for Core Dynamics released the following statement: 
 
-"The number of ships lost to [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] attacks is increasing rapidly, leaving us with no option but to accelerate our production schedule. But we cannot do this without the support of the galactic community." 
+"The number of ships lost to Thargoid attacks is increasing rapidly, leaving us with no option but to accelerate our production schedule. But we cannot do this without the support of the galactic community." 
 
 Guaras Blue Creative Partners have agreed to oversee the initiative, asking pilots to deliver titanium, power converters and superconductors to Klimuk Ring in the Guaras system. When the campaign officially ends on the 28th of December 3303, a discount of up to 20 per cent will be applied to the Federal Dropship, Federal Gunship and Federal Assault Ship for one week. Additionally, the rank requirements for those ships will be temporarily lifted. 
 

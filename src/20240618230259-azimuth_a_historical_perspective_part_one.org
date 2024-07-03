@@ -2,7 +2,7 @@
 :ID:       5b32a4e6-76f9-4532-af43-0f02357567a6
 :END:
 #+title: Azimuth: A Historical Perspective (Part One)
-#+filetags: :Alliance:galnet:
+#+filetags: :Thargoid:Alliance:galnet:
 
 * Azimuth: A Historical Perspective (Part One)
 
@@ -16,13 +16,13 @@ Investigations revealed that it had been owned by a little-known and long-defunc
 
 Back in 3111, these geologists had encountered something terrifying and completely unknown: the first recorded instance of contact with the Thargoids. According to team leader Professor Carver, whose final log was discovered on HIP 69200 1 B, a recovered alien artefact caused equipment malfunctions and delusions among the crew. The damaged Adamastor was abandoned, to finally return home on autopilot two centuries later. 
 
-Further exploration of the Coalsack Nebula uncovered nothing more, but did lead to the detection of new barnacle sites. The Alliance wasted no time in harvesting these for meta alloys, followed by a Sirius Corporation project to terraform ammonia worlds. A resurgence of attacks from [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] vessels followed, suggesting that the alien species was as territorial as ever. 
+Further exploration of the Coalsack Nebula uncovered nothing more, but did lead to the detection of new barnacle sites. The Alliance wasted no time in harvesting these for meta alloys, followed by a Sirius Corporation project to terraform ammonia worlds. A resurgence of attacks from Thargoid vessels followed, suggesting that the alien species was as territorial as ever. 
 
 In April 3307, the Adamastor began receiving a long-range encrypted signal. A decryption key for this was provided by an anonymous source who identified himself only as ‘Salvation’. Tracking the signal led to the wreck of the Hesperus, the Adamastor’s sister ship. This had disappeared in 3113 and was now drifting in the Perseus Dark Region KC-V c2-2 system. 
 
 The distress call had been triggered by a dredger occupied by the nomadic Scriveners Clan, who had salvaged the Hesperus’s data drives. Messages leaked from the dredger revealed how the Hesperus had been taken over by sleeper agents from Pharmasapien, the corporate rivals of Azimuth Biochemicals. This resulted in the deaths of all except a scientific team, who had escaped aboard a secondary craft. 
 
-Two months later, the enigmatic Salvation asked pilots to track down the Hesperus’s signal beacons to find those missing Azimuth crew members. The secondary craft, named Proteus, was subsequently discovered on a moon in the Trapezium Sector YU-X c1-2 system. Its crew had transformed it into a research facility, to study relics from a nearby ancient battleground between the Guardian and [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] races. 
+Two months later, the enigmatic Salvation asked pilots to track down the Hesperus’s signal beacons to find those missing Azimuth crew members. The secondary craft, named Proteus, was subsequently discovered on a moon in the Trapezium Sector YU-X c1-2 system. Its crew had transformed it into a research facility, to study relics from a nearby ancient battleground between the Guardian and Thargoid races. 
 
 The security officer’s log told of Azimuth’s real purpose: locate non-human technology and weaponise it for the military market. The scientists had conducted dangerous experiments on Guardian crystals, accidentally triggering a radiation surge which wiped them all out. 
 

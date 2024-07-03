@@ -2,7 +2,7 @@
 :ID:       8bc2f31b-6224-4117-a95d-7e58bb82ffac
 :END:
 #+title: Galactic News: Further INRA Bases Discovered
-#+filetags: :3303:galnet:
+#+filetags: :Thargoid:3303:galnet:
 
 * Galactic News: Further INRA Bases Discovered
 
@@ -10,13 +10,13 @@
 
 Further abandoned Intergalactic Naval Reserve Arm outposts have been discovered in systems throughout the core. 
 
-Records from the sites have shed additional light on the INRA’s activities, and indicate that the mycoid fungus, which was instrumental in countering the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] incursions of the 3100s, was an unplanned by-product of the organisation’s research. 
+Records from the sites have shed additional light on the INRA’s activities, and indicate that the mycoid fungus, which was instrumental in countering the Thargoid incursions of the 3100s, was an unplanned by-product of the organisation’s research. 
 
-The records also indicate that the INRA tested the mycoid on living [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] specimens – a revelation that has already prompted censure from ethical groups. 
+The records also indicate that the INRA tested the mycoid on living Thargoid specimens – a revelation that has already prompted censure from ethical groups. 
 
 The following text is taken directly from one of the INRA logs: 
 
-“I know there are some who will condemn me for my part in this project. Let them. I harbour no remorse. The [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] understand only one thing: destruction. They will not stop until every last one of us has been reduced to dust. We have created a weapon that can prevent such a catastrophe. We have a moral obligation to use it.” 
+“I know there are some who will condemn me for my part in this project. Let them. I harbour no remorse. The Thargoids understand only one thing: destruction. They will not stop until every last one of us has been reduced to dust. We have created a weapon that can prevent such a catastrophe. We have a moral obligation to use it.” 
 
 Others employed by the organisation, including the researcher whose work led to the development of the mycoid, took a different view: 
 

@@ -1,10 +1,10 @@
 :PROPERTIES:
 :ID:       c1563b0b-a0c6-402c-8500-8006a046cbcd
 :END:
-#+title: Galactic News: [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] Sighted?
-#+filetags: :3303:galnet:
+#+title: Galactic News: Thargoids Sighted?
+#+filetags: :Thargoid:3303:galnet:
 
-* Galactic News: [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] Sighted?
+* Galactic News: Thargoids Sighted?
 
 /06 Jan 3303/
 
@@ -16,6 +16,6 @@ As the Commander's ship was plucked from hyperspace, all their systems were comp
 
 Commentators reviewing the pilot's recording of the event have noted strong similarities between the mysterious craft and the shipwrecks found in the Pleiades Sector AB-W B2-4 and the HIP 17862 system. 
 
-Is the ship a [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] vessel? This is the question many are asking. 
+Is the ship a Thargoid vessel? This is the question many are asking. 
 
 We will continue to bring you up-to-the-minute updates on this story.

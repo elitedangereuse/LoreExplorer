@@ -2,13 +2,13 @@
 :ID:       19e2d5d0-a02a-4539-8009-afec73b7f0c0
 :END:
 #+title: Galactic News: Authorities Urge Public Not to Panic
-#+filetags: :3303:galnet:
+#+filetags: :Thargoid:3303:galnet:
 
 * Galactic News: Authorities Urge Public Not to Panic
 
 /21 Dec 3303/
 
-Following the devastating news that the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] have attacked three starports in the Pleiades, authorities in the Taygeta system, home to one of the affected stations, have released the following statement: 
+Following the devastating news that the Thargoids have attacked three starports in the Pleiades, authorities in the Taygeta system, home to one of the affected stations, have released the following statement: 
 
 “Our priorities remain getting civilians to safety and securing the commodities we need to stabilise the starport. Independent pilots are encouraged to deliver foods, water, basic medicines and natural fabrics to Titan’s Daughter and other affected stations.” 
 

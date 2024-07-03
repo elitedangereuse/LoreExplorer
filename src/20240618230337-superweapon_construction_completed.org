@@ -2,7 +2,7 @@
 :ID:       d4131c20-de1a-4e94-a7c5-8f67d3092364
 :END:
 #+title: Superweapon Construction Completed
-#+filetags: :galnet:
+#+filetags: :Thargoid:galnet:
 
 * Superweapon Construction Completed
 
@@ -14,8 +14,8 @@ Work on the Proteus Wave in the HIP 22460 system has concluded, according to an 
 
 “This is Salvation. The core mechanism of the Proteus Wave is now fully assembled. Under my guidance, specialists are performing checks at the selected site on HIP 22460 10 b. Additional power capacitors are also being installed to improve energy transfer management.” 
 
-“Over the next few days, the Proteus Wave will be calibrated within one of the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] structures, the unique properties of which will greatly amplify the weapon’s signal. This breakthrough was only made possible due to decades of xenological research conducted by Azimuth, alongside pioneering theories on cross-species interfaces.” 
+“Over the next few days, the Proteus Wave will be calibrated within one of the Thargoid structures, the unique properties of which will greatly amplify the weapon’s signal. This breakthrough was only made possible due to decades of xenological research conducted by Azimuth, alongside pioneering theories on cross-species interfaces.” 
 
-“Commodore Halloran reports that even greater numbers of [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] vessels have arrived within the Proteus Wave’s effective range. But it is now absolutely critical that they are prevented from approaching the planet. At all costs, the superweapon must be protected until it is ready for activation.” 
+“Commodore Halloran reports that even greater numbers of Thargoid vessels have arrived within the Proteus Wave’s effective range. But it is now absolutely critical that they are prevented from approaching the planet. At all costs, the superweapon must be protected until it is ready for activation.” 
 
-The Allied, Federal and Imperial anti-xeno taskforces continue to engage [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] forces within the HIP 22460 system. Volunteers are still urgently needed to support their capital ships and take part in defending the Proteus Wave project. The Musashi, an Azimuth megaship in the nearby Pleiades Sector CW-U B3-2 system, will redeem all Thargoid combat bonds.
+The Allied, Federal and Imperial anti-xeno taskforces continue to engage Thargoid forces within the HIP 22460 system. Volunteers are still urgently needed to support their capital ships and take part in defending the Proteus Wave project. The Musashi, an Azimuth megaship in the nearby Pleiades Sector CW-U B3-2 system, will redeem all Thargoid combat bonds.

@@ -2,7 +2,7 @@
 :ID:       90cb3ecd-97cf-4cc1-8e00-837951d08d73
 :END:
 #+title: Militaries on Alert as Taranis Approaches
-#+filetags: :galnet:
+#+filetags: :Thargoid:galnet:
 
 * Militaries on Alert as Taranis Approaches
 
@@ -20,6 +20,6 @@ Admiral Maxton Price of the Federal Navy commented:
 
 The Alliance Defence Force issued a similar announcement from Admiral Rachel Ziegler: 
 
-“The Thargoids’ overall strategy remains unknown, as does the true nature of these rogue signal sources. But there is certainly no reason to place ourselves in their path intentionally. It’s possible that, as with HIP 22460, the Hyades Sector FB-N b7-6 system could become a no-go zone occupied by an overwhelming number of [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] vessels.” 
+“The Thargoids’ overall strategy remains unknown, as does the true nature of these rogue signal sources. But there is certainly no reason to place ourselves in their path intentionally. It’s possible that, as with HIP 22460, the Hyades Sector FB-N b7-6 system could become a no-go zone occupied by an overwhelming number of Thargoid vessels.” 
 
 Despite making no official statement, it is believed that the Imperial Navy is likewise holding back from deploying a military fleet to the Taranis anomaly. Independent analysts have suggested that the destruction of the Kingfisher megaship in Hyades Sector YO-Q b5-1 has contributed to the superpowers’ caution, with capital ship losses in HIP 22460 also fresh in the memory.

@@ -2,7 +2,7 @@
 :ID:       c3b27b3b-3921-413e-b398-6aa679045e2e
 :END:
 #+title: Galactic News: New Aegis Initiative
-#+filetags: :3303:galnet:
+#+filetags: :Thargoid:3303:galnet:
 
 * Galactic News: New Aegis Initiative
 
@@ -14,7 +14,7 @@ Professor Alba Tesreau, Aegis’s chief scientific advisor, gave the following s
 
 “We must do everything we can to further our understanding of the Thargoids. That’s why these new research centres are so important. Everything we can learn about the Thargoids’ history, biology and psychology is of potential value.” 
 
-“If we could understand the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] – really understand them – perhaps we could broker some kind of truce. I, for one, have not given up on the idea of peace.” 
+“If we could understand the Thargoids – really understand them – perhaps we could broker some kind of truce. I, for one, have not given up on the idea of peace.” 
 
 “Over the past few months, we have conducted a massive recruitment drive to secure some of the galaxy’s best and brightest minds. Now it’s time to find out what those minds can accomplish.” 
 

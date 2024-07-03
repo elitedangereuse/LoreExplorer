@@ -1,14 +1,14 @@
 :PROPERTIES:
 :ID:       a646fa22-4a96-4435-9c60-f1132a344e4c
 :END:
-#+title: Galactic News: [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Threat Continues to Escalate
-#+filetags: :3303:galnet:
+#+title: Galactic News: Thargoid Threat Continues to Escalate
+#+filetags: :Thargoid:3303:galnet:
 
-* Galactic News: [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Threat Continues to Escalate
+* Galactic News: Thargoid Threat Continues to Escalate
 
 /07 Oct 3303/
 
-Numerous sources have reported that [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] activity has escalated dramatically in recent days, with attacks from Thargoid Interceptor-class ships becoming increasingly common in the Pleiades Nebula. Reports confirm that Imperial, Federal and civilian ships have all been targeted. Images captured by survivors of these attacks show Thargoid ships scanning wreckage and gathering debris, including occupied escape pods. 
+Numerous sources have reported that Thargoid activity has escalated dramatically in recent days, with attacks from Thargoid Interceptor-class ships becoming increasingly common in the Pleiades Nebula. Reports confirm that Imperial, Federal and civilian ships have all been targeted. Images captured by survivors of these attacks show Thargoid ships scanning wreckage and gathering debris, including occupied escape pods. 
 
 As Aegis continues to analyse the results of these encounters, the organisation’s military liaison, Aden Tanner, released the following statement: 
 

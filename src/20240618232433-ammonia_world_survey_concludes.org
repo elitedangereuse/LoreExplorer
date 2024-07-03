@@ -2,7 +2,7 @@
 :ID:       07000dba-2e45-4643-ac5e-cc44fb3fe954
 :END:
 #+title: Ammonia World Survey Concludes
-#+filetags: :galnet:
+#+filetags: :Thargoid:galnet:
 
 * Ammonia World Survey Concludes
 
@@ -22,6 +22,6 @@ The exploration initiative was praised by Congressman Tom Gillespie, who oversee
 
 Vice Admiral Skylar Anderson, the Imperial military liaison to Aegis, added: 
 
-“This information is of considerable strategic value. Each system containing an ammonia world will be monitored using concealed sensor buoys. This will alert Aegis to the presence of [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] vessels or Maelstrom manifestations. Advance warnings will provide increased time to evacuate systems or mount pre-emptive strikes.” 
+“This information is of considerable strategic value. Each system containing an ammonia world will be monitored using concealed sensor buoys. This will alert Aegis to the presence of Thargoid vessels or Maelstrom manifestations. Advance warnings will provide increased time to evacuate systems or mount pre-emptive strikes.” 
 
 Pilots can receive payment for their exploration data at Angus Manwaring starport in the Eta Cassiopeiae system.  The promised x3 multiplier on exploration data profits for the next two weeks has also commenced, with Universal Cartographics providing this through its starport contacts.

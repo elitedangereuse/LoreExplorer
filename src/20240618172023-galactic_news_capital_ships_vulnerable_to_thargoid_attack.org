@@ -1,15 +1,15 @@
 :PROPERTIES:
 :ID:       3b635597-b928-44ab-90e8-d04143003711
 :END:
-#+title: Galactic News: Capital Ships Vulnerable to [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Attack
-#+filetags: :3303:galnet:
+#+title: Galactic News: Capital Ships Vulnerable to Thargoid Attack
+#+filetags: :Thargoid:3303:galnet:
 
-* Galactic News: Capital Ships Vulnerable to [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Attack
+* Galactic News: Capital Ships Vulnerable to Thargoid Attack
 
 /28 Oct 3303/
 
 Admiral Aden Tanner, Aegis’s chief military liaison, has addressed reports of capital ships being destroyed by the Thargoids. 
 
-“Although the shutdown field neutraliser developed by Aegis is capable of protecting small ships, we have encountered difficulties adapting the technology to larger spacecraft. Furthermore, the fact that [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] tend to target larger vessels with multiple shutdown beams simultaneously makes the task of protecting them more difficult.” 
+“Although the shutdown field neutraliser developed by Aegis is capable of protecting small ships, we have encountered difficulties adapting the technology to larger spacecraft. Furthermore, the fact that Thargoids tend to target larger vessels with multiple shutdown beams simultaneously makes the task of protecting them more difficult.” 
 
-“The fact that capital-class ships are more vulnerable to [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] attack means they are an ineffective way of protecting outposts, planets and shipping lanes. Consequently, for the present, the deployment of capital ships is not considered an effective defence strategy.”
+“The fact that capital-class ships are more vulnerable to Thargoid attack means they are an ineffective way of protecting outposts, planets and shipping lanes. Consequently, for the present, the deployment of capital ships is not considered an effective defence strategy.”

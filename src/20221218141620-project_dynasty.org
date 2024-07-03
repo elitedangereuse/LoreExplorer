@@ -2,9 +2,10 @@
 :ID:       85f1b96f-7e6c-4350-9f42-fe1b9453de1a
 :END:
 #+title: Project Dynasty
+#+filetags: :Thargoid:
 
 Project Dynasty was a secret exploration initiative conceived by [[id:8a1ae8ba-e27a-4141-a43a-67bef02cb235][The
-Club]] in 3270. In response to the likelihood of a [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] civil war
+Club]] in 3270. In response to the likelihood of a Thargoid civil war
 spilling into human space, The Club sought potential safe havens where
 humanity could flee in order to escape the conflict and
 survive. Project Dynasty was intended to identify [[id:7fec1142-ab20-47e1-b746-36edee889cc3][Earth-like]] worlds
@@ -65,8 +66,8 @@ comment:
 
 "You don't know what I've seen. I've sailed beyond the Formidine Rift,
 seen the fleets of Octagonal ships blocking out the stars. I've stood
-on lost worlds, sterilised clean by the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] and erased from
-humanity's maps. I've seen the graves from the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] wars,
+on lost worlds, sterilised clean by the Thargoids and erased from
+humanity's maps. I've seen the graves from the Thargoid wars,
 countless headstones stretching beyond the curvature of the horizon,
 little spots of reflected light dottering the abandoned continent ..."
 

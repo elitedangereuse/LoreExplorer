@@ -2,7 +2,7 @@
 :ID:       42a46e92-d72f-4566-b823-96c626738360
 :END:
 #+title: Winters Announces Election Manifesto
-#+filetags: :galnet:
+#+filetags: :Thargoid:galnet:
 
 * Winters Announces Election Manifesto
 
@@ -16,7 +16,7 @@ Shadow President [[id:b9fe58a3-dfb7-480c-afd6-92c3be841be7][Felicia Winters]] su
 
 “As your democratically elected president, I will take great pleasure in dismantling the Proactive Detection Bureau on day one. The mass-monitoring of private communications is a violation of civil rights that must end immediately.” 
 
-“For those concerned about security, especially the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] threat, I assure you that there will be no reduction in military spending. In fact, our aim is to extend naval and humanitarian assistance to independent systems near our borders that face Thargoid aggression. By supporting systems around Federal space, we will establish a robust front line to repel Thargoid forces.” 
+“For those concerned about security, especially the Thargoid threat, I assure you that there will be no reduction in military spending. In fact, our aim is to extend naval and humanitarian assistance to independent systems near our borders that face Thargoid aggression. By supporting systems around Federal space, we will establish a robust front line to repel Thargoid forces.” 
 
 The Federal Free Press praised the manifesto, remarking that it “displayed the balance of strength and compassion that has long been lacking from our leadership”. However, an editorial in Sol Today claimed: “Winters’s grip on political reality has been weakened by years of ineffectual hand-wringing.” 
 

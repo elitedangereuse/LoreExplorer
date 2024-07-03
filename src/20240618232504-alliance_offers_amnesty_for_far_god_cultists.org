@@ -2,7 +2,7 @@
 :ID:       41e0349c-d169-4cc2-a479-2128aac04117
 :END:
 #+title: Alliance Offers Amnesty for Far God Cultists
-#+filetags: :Alliance:Federation:galnet:
+#+filetags: :Thargoid:Alliance:Federation:galnet:
 
 * Alliance Offers Amnesty for Far God Cultists
 
@@ -10,7 +10,7 @@
 
 The Alliance Assembly has submitted an appeal for clemency to Federal Congress for followers of the Order of the Far God. 
 
-The Thargoid-worshipping faith was outlawed by the Federation in October 3308, after a failed initiative in the Popontia system to outfit a megaship named the Dedicant. Every member of the ‘True Chapters’ sect on board was arrested and stripped of citizenship, with FIA agents rounding up known collaborators in subsequent days. This was in accordance with the Federal constitution which forbids supporting enemies of the state, which the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] are legally classified as. 
+The Thargoid-worshipping faith was outlawed by the Federation in October 3308, after a failed initiative in the Popontia system to outfit a megaship named the Dedicant. Every member of the ‘True Chapters’ sect on board was arrested and stripped of citizenship, with FIA agents rounding up known collaborators in subsequent days. This was in accordance with the Federal constitution which forbids supporting enemies of the state, which the Thargoids are legally classified as. 
 
 As part of the request, Prime Minister [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74][Edmund Mahon]] stated: 
 
@@ -22,4 +22,4 @@ As part of the request, Prime Minister [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74
 
 Political journalist Vanya Driscoll reported for The Alliance Tribune: 
 
-“In the midst of the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] war, some will view this offer as bordering on traitorous. But Mahon is grasping a high-profile opportunity to distinguish the libertarian Alliance from an increasingly authoritarian Federation. If this gesture helps convince independent systems to seek Allied membership, the political gain could far outweigh the potential risk.”
+“In the midst of the Thargoid war, some will view this offer as bordering on traitorous. But Mahon is grasping a high-profile opportunity to distinguish the libertarian Alliance from an increasingly authoritarian Federation. If this gesture helps convince independent systems to seek Allied membership, the political gain could far outweigh the potential risk.”

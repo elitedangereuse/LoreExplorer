@@ -2,7 +2,7 @@
 :ID:       616de251-266c-47d4-bc2c-4617f3f952a5
 :END:
 #+title: Aegis Probed by Board of Inquiry
-#+filetags: :galnet:
+#+filetags: :Thargoid:galnet:
 
 * Aegis Probed by Board of Inquiry
 
@@ -16,7 +16,7 @@ Dr Paul Baumann, chair of the independent board of inquiry, outlined its scope:
 
 “One specific area of attention is the lost megaship Alexandria. We are performing a thorough analysis, including background checks on its crew. Hyperspace physicists are theorising probable causes for its failure to arrive at HIP 30944.” 
 
-“We will be raising issues of culpability, specifically whether the concentration of Guardian artefacts aboard the Alexandria directly led to systems coming under [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] attack. Other incidents will be reviewed to identify possible grounds for negligence.” 
+“We will be raising issues of culpability, specifically whether the concentration of Guardian artefacts aboard the Alexandria directly led to systems coming under Thargoid attack. Other incidents will be reviewed to identify possible grounds for negligence.” 
 
 Many prominent figures within Aegis have resigned including Professor Alba Tesreau, Director Yazhu Xing and Dr Mia Valencourt. All active projects have been suspended, with routine activities continuing under independent observation. 
 

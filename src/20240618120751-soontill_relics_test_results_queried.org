@@ -2,7 +2,7 @@
 :ID:       62f7ff04-980d-4b1b-bdc8-039a7bdb77f1
 :END:
 #+title: Soontill Relics Test Results Queried
-#+filetags: :3301:galnet:
+#+filetags: :Thargoid:3301:galnet:
 
 * Soontill Relics Test Results Queried
 
@@ -12,7 +12,7 @@ As further alien artefacts claiming to be from Soontill are being sold on the op
 
 “We were looking for key markers,” explains Chief Xeno-Chemist Lyran Betar.  “Elemental make up, crystalline structure, anything that indicates it could have originated from human hand.” 
 
-And the results? Inconclusive. The research team’s results clearly state that no known human technology could have created the relics, yet they do not quite align with known [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] materials. Whatever they are, they are indeed very old, with isotopic dating indicating that they could well be tens of thousands of years old. 
+And the results? Inconclusive. The research team’s results clearly state that no known human technology could have created the relics, yet they do not quite align with known Thargoid materials. Whatever they are, they are indeed very old, with isotopic dating indicating that they could well be tens of thousands of years old. 
 
 Jean Molyneaux, a historian from France, Earth, suggests we look back at our own past to determine the home of these relics.  “Imagine an alien travelling back two thousand years into mankind’s past.  The varied culture, arts and building materials of the Aztecs, Greeks, the Shang dynasty, what have you, the alien could think they were all different species, if that was his way of thinking…” 
 

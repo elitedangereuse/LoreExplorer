@@ -2,7 +2,7 @@
 :ID:       d91aedee-d6b9-4a36-a9bc-149fa9e8d601
 :END:
 #+title: Azimuth Condemns ‘Alien-Loving’ Resistance
-#+filetags: :galnet:
+#+filetags: :Thargoid:galnet:
 
 * Azimuth Condemns ‘Alien-Loving’ Resistance
 
@@ -12,7 +12,7 @@ As its anti-xeno initiative in HIP 22460 continues, Azimuth Biotech has been del
 
 Director Torben Rademaker, head of strategic operations, made a public broadcast from the corporation’s headquarters at Hind Mine starport: 
 
-“Azimuth Biotech is dedicated to the vision of Salvation, whose expertise will soon quash the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] blight once and for all. The Alliance, Empire and Federation have put aside their differences to turn this ambition into a reality. But a fractious minority are determined to prevent this, giving the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] a window of opportunity to avoid their fate.” 
+“Azimuth Biotech is dedicated to the vision of Salvation, whose expertise will soon quash the Thargoid blight once and for all. The Alliance, Empire and Federation have put aside their differences to turn this ambition into a reality. But a fractious minority are determined to prevent this, giving the Thargoids a window of opportunity to avoid their fate.” 
 
 “Almost immediately after our corporate rebrand from Taurus Mining Ventures, Azimuth came under attack. A rabble of buccaneers and political agitators forcibly expelled our assets from the Merope and Qarato systems. Only by extreme and costly means were we able to retain Hind Mine, as the mob rampaged through the once-peaceful T Tauri system.” 
 

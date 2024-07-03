@@ -2,7 +2,7 @@
 :ID:       77ce0e2a-668a-44a4-8cde-b2b8b6de3efd
 :END:
 #+title: Alliance Urges Restraint Between Superpowers
-#+filetags: :Alliance:Federation:Empire:galnet:
+#+filetags: :Thargoid:Alliance:Federation:Empire:galnet:
 
 * Alliance Urges Restraint Between Superpowers
 
@@ -18,6 +18,6 @@ Political journalist Conrad Sterling summarised the latest developments for Vox 
 
 In the Alliance Assembly, Councillor Nakato Kaine highlighted the potential repercussions: 
 
-“Military distractions between the Empire and Federation would place more responsibility on the Alliance for protecting independent systems from [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] invasion. As well as a potentially horrific loss of life, that would be a significant drain on already stretched resources. The hawks in each administration should be directing their aggressive tendencies toward the Thargoids, not each other.”  
+“Military distractions between the Empire and Federation would place more responsibility on the Alliance for protecting independent systems from Thargoid invasion. As well as a potentially horrific loss of life, that would be a significant drain on already stretched resources. The hawks in each administration should be directing their aggressive tendencies toward the Thargoids, not each other.”  
 
 In response, Prime Minister Mahon agreed to send envoys from the Alliance Office of Diplomatic Relations to both the Empire and the Federation. Dozens of independent systems have supported the Alliance’s formal request to ‘lower the temperature’ and find a peaceful solution.

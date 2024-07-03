@@ -2,4 +2,5 @@
 :ID:       6023377d-7271-49d1-80ec-ffab82dc8c29
 :END:
 #+title: AX weapons
-[[id:32267587-a5db-456f-8a09-439ed0309638][Weapons]] designed with the intent to be efficient against [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] ships
+#+filetags: :Thargoid:
+[[id:32267587-a5db-456f-8a09-439ed0309638][Weapons]] designed with the intent to be efficient against Thargoids ships

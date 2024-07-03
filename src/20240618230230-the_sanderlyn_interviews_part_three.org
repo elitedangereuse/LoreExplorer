@@ -2,7 +2,7 @@
 :ID:       74e5b54a-4f32-4af3-9f23-7463aa5590c1
 :END:
 #+title: The Sanderlyn Interviews (Part Three)
-#+filetags: :Alliance:galnet:
+#+filetags: :Thargoid:Alliance:galnet:
 
 * The Sanderlyn Interviews (Part Three)
 
@@ -16,9 +16,9 @@ Jade Sanderlyn: This is [[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderly
 
  Rachel Ziegler: You’re welcome. 
 
-JS: We’re on board the Salote Charm, which is currently stationed in the Didio system. Two days ago, a large [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] force arrived here and began attacking human ships and ports. There are reports that Salvation has asked your fleet, and those of the other superpowers, to hold the Thargoid force at bay until the anti-xeno superweapon… 
+JS: We’re on board the Salote Charm, which is currently stationed in the Didio system. Two days ago, a large Thargoid force arrived here and began attacking human ships and ports. There are reports that Salvation has asked your fleet, and those of the other superpowers, to hold the Thargoid force at bay until the anti-xeno superweapon… 
 
-RZ: Let me clarify your question before you finish it. My priority is the safety of the billions who call Didio home. We are not here to keep the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] forces occupied. We are here to defeat them. 
+RZ: Let me clarify your question before you finish it. My priority is the safety of the billions who call Didio home. We are not here to keep the Thargoid forces occupied. We are here to defeat them. 
 
 JS: Understood, Admiral. Salvation has asked for time to prepare his superweapon, though? 
 
@@ -26,7 +26,7 @@ RZ: Yes, he has. But the Alliance does not operate with the assumption that Salv
 
 JS: Do you support Salvation’s methods? Critics have suggested he endangers lives by using a powerful weapon that has not been independently assessed by experts. 
 
-RZ: Whether I support or do not support Salvation is immaterial. The fact is that, on two previous occasions, the superweapon has eliminated [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] fleets from entire systems. Rejecting such a powerful device would be unwise. Still, I think the question of risk is wholly appropriate. Military and political figures alike must not become complacent or over-reliant on Salvation’s technology. Particularly when we know so little about it. 
+RZ: Whether I support or do not support Salvation is immaterial. The fact is that, on two previous occasions, the superweapon has eliminated Thargoid fleets from entire systems. Rejecting such a powerful device would be unwise. Still, I think the question of risk is wholly appropriate. Military and political figures alike must not become complacent or over-reliant on Salvation’s technology. Particularly when we know so little about it. 
 
 JS: Is that ambiguity a concern for the Alliance? 
 

@@ -2,7 +2,7 @@
 :ID:       d598b13e-1b99-47b3-a1d5-8e91674e5861
 :END:
 #+title: Azimuth Resurgent
-#+filetags: :galnet:
+#+filetags: :Thargoid:galnet:
 
 * Azimuth Resurgent
 
@@ -18,6 +18,6 @@ The revelation came via a public statement across all media channels:
 
 “Since then, my team has led multiple projects to develop necessary advancements for the inevitable war. Our work with INRA on the mycoid virus was one early success. More recently, locating the Proteus in Trapezium Sector YU-X c1-2 provided us with a key breakthrough in weaponising Guardian technology.” 
 
-“My anti-xeno superweapon has already saved billions of lives. Azimuth Biotech is currently developing the next generation of this weapon, with which I intend to permanently cripple the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] war machine.” 
+“My anti-xeno superweapon has already saved billions of lives. Azimuth Biotech is currently developing the next generation of this weapon, with which I intend to permanently cripple the Thargoid war machine.” 
 
 “Caleb Wycherley is no more, but his accomplishments laid the foundations for the man I have become. A man whose life goal has always been to save humanity from extinction.”

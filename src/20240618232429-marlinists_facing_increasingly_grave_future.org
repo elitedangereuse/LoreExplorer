@@ -2,13 +2,13 @@
 :ID:       d0813fb8-f842-4842-a540-6be5a9fc2abe
 :END:
 #+title: Marlinists Facing ‘Increasingly Grave’ Future
-#+filetags: :galnet:
+#+filetags: :Thargoid:galnet:
 
 * Marlinists Facing ‘Increasingly Grave’ Future
 
 /06 Mar 3309/
 
-The Marlinist Colonies are struggling to survive the harsh realities of independence while preparing for the impact of the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] war. 
+The Marlinist Colonies are struggling to survive the harsh realities of independence while preparing for the impact of the Thargoid war. 
 
 An editorial in The Marlin Standard summarised their situation: 
 
@@ -16,10 +16,10 @@ An editorial in The Marlin Standard summarised their situation:
 
 In the Empire, the prevalent viewpoint is that the Marlinists are suffering the consequences of their own actions. As Senator Arturo Durant remarked: “They voted to reject the Emperor’s offer to become an Imperial protectorate, so now they must pay the price.” 
 
-Compounding this is the increasing danger posed by the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] as their fleets penetrate deeper into the core systems. The Citizens’ Chronicle newsfeed has published concerned messages from some Imperial citizens for their Marlinist cousins. One viral commenter proclaimed: “The colonists aren’t enemies! They were once our loved ones, our friends and family, driven away for their political beliefs. How can we turn our backs on them?” 
+Compounding this is the increasing danger posed by the Thargoids as their fleets penetrate deeper into the core systems. The Citizens’ Chronicle newsfeed has published concerned messages from some Imperial citizens for their Marlinist cousins. One viral commenter proclaimed: “The colonists aren’t enemies! They were once our loved ones, our friends and family, driven away for their political beliefs. How can we turn our backs on them?” 
 
 The Marlinist Parliament has signalled a willingness to contribute to Aegis, but its priority is to establish control over its chartered systems. First Minister Octavia Volkov has admitted: “Without a dedicated military to achieve this, our future prospects look increasingly grave.” 
 
 The Marlinists’ situation is mirrored elsewhere, as noted by war reporter Ernesto Rios for Vox Galactica: 
 
-“Vulnerability to [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] attack is a universal concern among independent systems. Many non-superpower factions are banding together in small clusters to cooperate on anti-xeno operations and share resources. A spirit of camaraderie has arisen in the face of annihilation. But will that be enough against the overwhelming might of the Thargoids?”
+“Vulnerability to Thargoid attack is a universal concern among independent systems. Many non-superpower factions are banding together in small clusters to cooperate on anti-xeno operations and share resources. A spirit of camaraderie has arisen in the face of annihilation. But will that be enough against the overwhelming might of the Thargoids?”

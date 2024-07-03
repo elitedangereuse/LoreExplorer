@@ -2,7 +2,7 @@
 :ID:       a112a1e7-9a96-4c19-a384-9932b96c8a82
 :END:
 #+title: Mysterious Phenomenon Triggers Violent Attacks
-#+filetags: :galnet:
+#+filetags: :Thargoid:galnet:
 
 * Mysterious Phenomenon Triggers Violent Attacks
 
@@ -22,4 +22,4 @@ A popular news program, 'Frameshift Live', was broadcasting from Garrett Orbital
 
 The San Tu State Network megaship Khonsu Gleam, present in Shamash on unrelated business, has been asked to host defensive efforts since the system lacks a starport. Captain Ulrich Maurer  has agreed to remain and support Shamash Future, by organising countermeasures against the Grey Swan fleet. 
 
-Speculation have been raised that the ‘anomalous multi-frequency signal’ might be a new [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] weapon, or a test of experimental mind-affecting technology. However, no alien or unauthorised vessels have been detected in the system, and the signal’s origin remains unconfirmed.
+Speculation have been raised that the ‘anomalous multi-frequency signal’ might be a new Thargoid weapon, or a test of experimental mind-affecting technology. However, no alien or unauthorised vessels have been detected in the system, and the signal’s origin remains unconfirmed.

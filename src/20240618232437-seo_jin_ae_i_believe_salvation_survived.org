@@ -2,7 +2,7 @@
 :ID:       fa6132e8-b7e7-4c55-8245-4b7fc02d1fb6
 :END:
 #+title: Seo Jin-ae: ‘I Believe Salvation Survived’
-#+filetags: :galnet:
+#+filetags: :Thargoid:galnet:
 
 * Seo Jin-ae: ‘I Believe Salvation Survived’
 
@@ -10,7 +10,7 @@
 
 Aegis has published a personal statement from Seo Jin-ae, who claims to have evidence that Salvation planned to escape death in the HIP 22460 system. 
 
-“First of all, yes, Caleb Wycherley died when the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] attacked the Bright Sentinel in HIP 22460. But, I believe, only physically. He was developing technology to automatically relocate his mind, an emergency protocol he named the Nemesis Failsafe.” 
+“First of all, yes, Caleb Wycherley died when the Thargoids attacked the Bright Sentinel in HIP 22460. But, I believe, only physically. He was developing technology to automatically relocate his mind, an emergency protocol he named the Nemesis Failsafe.” 
 
 “I know how implausible that sounds, but the files I recovered from an Azimuth Biotech archive prove his intentions. For several years, Salvation ran a private project to reverse-engineer a Guardian artefact which could store consciousness. The design showed neural interactions as digital impulses, and made reference to exactly retaining his identity and memories.” 
 

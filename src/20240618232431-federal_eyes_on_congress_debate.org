@@ -2,7 +2,7 @@
 :ID:       fd52404b-66f8-4ad7-bbe8-2c7ea16c01d2
 :END:
 #+title: Federal Eyes on Congress Debate
-#+filetags: :Federation:galnet:
+#+filetags: :Thargoid:Federation:galnet:
 
 * Federal Eyes on Congress Debate
 
@@ -12,7 +12,7 @@ Preliminary motions on the forthcoming Hudson Contravention vote have begun in F
 
 The proposal, named after President Zachary Hudson’s call to suspend the 77th amendment to the Federal Accord, is a point of significant contention. If approved, Hudson would be eligible to run for another term in this year’s presidential elections, breaking with centuries of constitutional law.  
 
-Supporters of the proposal, led by Hudson’s cabinet, point to the ongoing conflict with the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] as a primary reason to vote in favour. With the significant escalation in [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] aggression and the loss of hundreds of systems, it has been argued that a change of leadership could weaken the Federation’s ability to defend itself. 
+Supporters of the proposal, led by Hudson’s cabinet, point to the ongoing conflict with the Thargoids as a primary reason to vote in favour. With the significant escalation in Thargoid aggression and the loss of hundreds of systems, it has been argued that a change of leadership could weaken the Federation’s ability to defend itself. 
 
 Opponents have called the move a ‘dictatorial’ tactic which uses the fear of alien attack to influence public opinion. Felicia Winters, the Liberal candidate and current shadow president, recently discussed this further during an interview with the Federal Free Press: 
 

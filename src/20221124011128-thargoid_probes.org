@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       479ad5ac-c6b9-4358-870e-12058bd925cb
 :END:
-#+title: [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Probes
+#+title: Thargoid Probes
+#+filetags: :Thargoid:
 

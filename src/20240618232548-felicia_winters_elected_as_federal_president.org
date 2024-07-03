@@ -3,7 +3,7 @@
 :END:
 #
 +title: Felicia Winters Elected as Federal President
-#+filetags: :Federation:galnet:
+#+filetags: :Thargoid:Federation:galnet:
 
 * [[id:b9fe58a3-dfb7-480c-afd6-92c3be841be7][Felicia Winters]] Elected as Federal President
 
@@ -25,4 +25,4 @@ Vice President Jerome Archer formally conceded the election during a session of 
 
 Former presidents [[id:e70b7d46-d965-4fb7-859b-e67cacd230e5][Antonia Madison]] and [[id:a9ccf59f-436e-44df-b041-5020285925f8][Jasmina Halsey]] – whom Winters temporarily replaced after the Starship One disaster – offered their congratulations. Prime Minister [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74][Edmund Mahon]] of the Alliance, First Minister Octavia Volkov of the Marlinist Colonies, and CEO [[id:f0655b3a-aca9-488f-bdb3-c481a42db384][Li Yong-Rui]] of Sirius Corporation sent similar messages to the Winters campaign. 
 
-No formal acknowledgement was received from the Empire. However, Princess [[id:b402bbe3-5119-4d94-87ee-0ba279658383][Aisling Duval]] joined Professor [[id:c2623368-19b0-4995-9e35-b8f54f741a53][Alba Tesreau]] and other members of Aegis leadership to state: “We trust that President Winters will remain committed to our unified approach, ensuring the development of technology needed to secure victory in the ongoing [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] war.”
+No formal acknowledgement was received from the Empire. However, Princess [[id:b402bbe3-5119-4d94-87ee-0ba279658383][Aisling Duval]] joined Professor [[id:c2623368-19b0-4995-9e35-b8f54f741a53][Alba Tesreau]] and other members of Aegis leadership to state: “We trust that President Winters will remain committed to our unified approach, ensuring the development of technology needed to secure victory in the ongoing Thargoid war.”

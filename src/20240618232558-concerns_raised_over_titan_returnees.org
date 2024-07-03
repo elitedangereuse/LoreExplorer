@@ -2,13 +2,13 @@
 :ID:       84780bbd-9ce9-4b59-b7b9-986ccc21826a
 :END:
 #+title: Concerns Raised over Titan Returnees
-#+filetags: :galnet:
+#+filetags: :Thargoid:galnet:
 
 * Concerns Raised over Titan Returnees
 
 /14 Nov 3309/
 
-People who were recovered from the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] have been flagged as potential biohazards by an Imperial medical institute. 
+People who were recovered from the Thargoids have been flagged as potential biohazards by an Imperial medical institute. 
 
 Dr Zoe Terentia , chief researcher at Kamadhenu Medipure , published her findings in the Citizens Chronicle. 
 
@@ -18,7 +18,7 @@ Dr Zoe Terentia , chief researcher at Kamadhenu Medipure , published her finding
 
 Director Ivano Colombera of the Imperial Science Academy, who acts as the Empire’s scientific liaison to Aegis, opposed this assessment: 
 
-“The life support systems in [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] bio-storage capsules were intrusive, and in some cases left residual scarring. We would expect human physiology to react negatively to such an invasive artificial environment, and these natural immunological responses hardly qualify as ‘mutations’. So we should not consider this a cause for alarm. Nevertheless, I agree that all returnees must stay quarantined until all necessary scientific observations are complete.” 
+“The life support systems in Thargoid bio-storage capsules were intrusive, and in some cases left residual scarring. We would expect human physiology to react negatively to such an invasive artificial environment, and these natural immunological responses hardly qualify as ‘mutations’. So we should not consider this a cause for alarm. Nevertheless, I agree that all returnees must stay quarantined until all necessary scientific observations are complete.” 
 
 The Imperial Herald featured related comments from Senator Caspian Leopold, another member of the delegation to Aegis: 
 

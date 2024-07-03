@@ -2,7 +2,7 @@
 :ID:       965028b5-8dce-4fa9-a9b7-517d24942432
 :END:
 #+title: Vista Genomics Boosts Biodata Payouts
-#+filetags: :galnet:
+#+filetags: :Thargoid:galnet:
 
 * Vista Genomics Boosts Biodata Payouts
 
@@ -14,7 +14,7 @@ The exobiology company Vista Genomics has increased payments for genetic data co
 
 Dr Klaus-Peter Sonnek , one of the corporation’s research directors, outlined the changes in a press release: 
 
-“Public and corporate interest in xenology-related fields remains high, but recent [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] aggression has increased the risk in collecting of such data. Vista Genomics is well-placed to incentivise the continued collection of samples. Therefore, we can officially confirm that substantially improved financial rewards will be offered for all genetic data submitted via our outlets.” 
+“Public and corporate interest in xenology-related fields remains high, but recent Thargoid aggression has increased the risk in collecting of such data. Vista Genomics is well-placed to incentivise the continued collection of samples. Therefore, we can officially confirm that substantially improved financial rewards will be offered for all genetic data submitted via our outlets.” 
 
 “We are also aware of many civil and military projects focusing on the Thargoids, a species that makes extensive use of biomechanical technology. There is enormous value in gathering as much exobiology data as possible to provide comparative baselines for anti-xeno research efforts.” 
 

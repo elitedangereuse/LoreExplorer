@@ -2,7 +2,7 @@
 :ID:       c3d1e2f4-57fa-4f45-9355-48d6cd937b0c
 :END:
 #+title: A Retrospective of 3307 (Part One)
-#+filetags: :Alliance:galnet:
+#+filetags: :Thargoid:Alliance:galnet:
 
 * A Retrospective of 3307 (Part One)
 
@@ -13,7 +13,7 @@ The noted historian [[id:e13ec234-b603-4a29-870d-2b87410195ea][Sima Kalhana]] ta
 “The start of 3307 was a time of crisis. The rise of the [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][Neo-Marlinist
 Liberation Army]] (NMLA), the [[id:46536da8-abd4-461f-9bf9-b749d4fc25e1][Marlinist]] refugee crisis and increased
 Empire-Federation tensions had brought a full-scale superpower war
-closer, with renewed attacks from the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] increasing the
+closer, with renewed attacks from the Thargoids increasing the
 pressure.”
 
 “All of this led to [[id:05ab22a7-9952-49a3-bdc0-45094cdaff6a][Pranav Antal]]’s proposal of a diplomatic conference for all three superpower governments to work through their problems – the very first [[id:c19cec97-cb93-4049-be5d-1abcaa6023a5][Galactic Summit]]. Within weeks, [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]] was selected as the neutral host for the conference. [[id:f0655b3a-aca9-488f-bdb3-c481a42db384][Li Yong-Rui]] scored another triumph by establishing the Marlinist Colonies for millions of political refugees who had fled from the Empire.” 
@@ -24,7 +24,7 @@ pressure.”
 
 “Key players on the political stage finally gathered when the Galactic Summit began in late February. The Sirius system hosted leaders from the Alliance, Empire, Federation and independent systems. Even pirate warlord [[id:7aae0550-b8ba-42cf-b52b-e7040461c96f][Archon Delaine]] gatecrashed the event, causing controversy with his ‘crown of bones’ speech.” 
 
-“It seemed for a while that the bickering between so many strong personalities might trigger a war rather than avert one. But gradually there was progress, with the possibility of a treaty to increase unity against the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] threat. But before reaching this conclusion, the Galactic Summit was derailed by a threat from another source.” 
+“It seemed for a while that the bickering between so many strong personalities might trigger a war rather than avert one. But gradually there was progress, with the possibility of a treaty to increase unity against the Thargoid threat. But before reaching this conclusion, the Galactic Summit was derailed by a threat from another source.” 
 
 “Nine Martyrs – as named by the [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] leader [[id:7878ad2d-4118-4028-bfff-90a3976313bd][Theta Seven]] – was the largest terrorist attack in history. Hundreds of thousands were killed by starport bombings in nine systems, including the superpower capitals of Alioth, Achenar and Sol. This horrific tragedy ended the conference abruptly, but did give rise to some inter-power cooperation.” 
 

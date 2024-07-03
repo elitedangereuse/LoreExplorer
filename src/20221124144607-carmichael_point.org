@@ -3,7 +3,7 @@
 :ROAM_REFS: https://canonn.science/codex/carmichael-point/
 :END:
 #+title: Carmichael Point
-#+filetags: :Abandoned:Settlement:
+#+filetags: :Thargoid:Abandoned:Settlement:
 [[id:39a31dd8-3750-4507-90b7-b649d0eeecef][INRA]] [[id:f2fac611-d042-4abf-80f9-e5e0b5c9f4b8][Research Base]]
 Carmichael Point is an Abandoned Settlement on [[id:8a943d55-9718-41d2-993f-0a27958c34cd][HIP 16824]] A 2 f at 73.8762, 61.8761.
 
@@ -11,5 +11,5 @@ The location of this facility was given by an Unregistered Comms
 Beacon at [[id:bb75c7f8-328e-4b3c-b6a4-16da9c75dfc0][HR 1188 A 2]]. The comms beacon transmits a message in
 phonetic alphabet on the hour.
 
-The facility has served as a [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] bait.
+The facility has served as a Thargoid bait.
 The facility was lost

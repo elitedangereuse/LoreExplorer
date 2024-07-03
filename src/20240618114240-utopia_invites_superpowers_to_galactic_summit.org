@@ -3,7 +3,7 @@
 :ROAM_REFS: https://cms.zaonce.net/en-GB/jsonapi/node/galnet_article/0a3a6236-35b3-409c-a23f-c372f55adb6a?resourceVersion=id%3A4873
 :END:
 #+title: Utopia Invites Superpowers to Galactic Summit
-#+filetags: :Alliance:Empire:galnet:
+#+filetags: :Thargoid:Alliance:Empire:galnet:
 
 * Utopia Invites Superpowers to Galactic Summit
 
@@ -11,7 +11,7 @@
 
 Simguru Pranav Antal, leader of the Utopia commune, has proposed hosting a diplomatic conference for the governments of all three superpowers. 
 
-The intention is to provide a neutral location to discuss key issues such as the renewed [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] attacks, the Marlinist refugee crisis, and hostilities between the Empire and the Federation. 
+The intention is to provide a neutral location to discuss key issues such as the renewed Thargoid attacks, the Marlinist refugee crisis, and hostilities between the Empire and the Federation. 
 
 Details have been sent to the Alliance Assembly, Federal Congress and Imperial Senate. [[id:05ab22a7-9952-49a3-bdc0-45094cdaff6a][Pranav Antal]] has also broadcast his invitation across all media channels: 
 

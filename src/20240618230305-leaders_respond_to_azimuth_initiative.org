@@ -2,7 +2,7 @@
 :ID:       5254d257-2ffa-4437-b3d4-4490a6395ec4
 :END:
 #+title: Leaders Respond to Azimuth Initiative
-#+filetags: :Alliance:Empire:galnet:
+#+filetags: :Thargoid:Alliance:Empire:galnet:
 
 * Leaders Respond to Azimuth Initiative
 
@@ -10,7 +10,7 @@
 
 The anti-xeno operation in HIP 22460 involving Azimuth Biotech and the superpowers has drawn comments from prominent political figures. 
 
-Emperor Arissa Lavigny-Duval: “I agree with Senator Patreus that supporting Azimuth’s proposal remains our most practical course of action. However, alternative options for tackling the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] threat are required.” 
+Emperor Arissa Lavigny-Duval: “I agree with Senator Patreus that supporting Azimuth’s proposal remains our most practical course of action. However, alternative options for tackling the Thargoid threat are required.” 
 
 Princess Aisling Duval: “Salvation is clearly a master of self-promotion and public manipulation. I only hope that the Empire does not regret associating with this distasteful individual.” 
 
