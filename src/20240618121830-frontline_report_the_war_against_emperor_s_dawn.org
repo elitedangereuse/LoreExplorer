@@ -2,7 +2,7 @@
 :ID:       b6eda958-0c27-458a-942b-cd1482849f79
 :END:
 #+title: Frontline Report: The War against Emperor’s Dawn
-#+filetags: :3301:galnet:
+#+filetags: :Empire:3301:galnet:
 
 * Frontline Report: The War against Emperor’s Dawn
 
@@ -12,9 +12,9 @@ Frontline Report: The War against Emperor’s Dawn
  
 Four days ago, Imperial senator [[id:75daea85-5e9f-4f6f-a102-1a5edea0283c][Denton Patreus]] launched a military campaign against Emperor’s Dawn, the organisation responsible for the murder of Emperor Hengist Duval. Since then, there has been intense conflict in the Dakshmandi and Maausk systems, where two Emperor’s Dawn bases are located, with scores of Imperial Navy vessels and Emperor’s Dawn ships exchanging fire. 
 
-Journalist Katherine Ryder, who has reported from war zones across the galaxy in a career spanning more than twenty years, recently met with one of the Imperial generals leading the campaign. In a report for the Imperial Herald, she described the unfolding conflict between [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] and Emperor’s Dawn: 
+Journalist Katherine Ryder, who has reported from war zones across the galaxy in a career spanning more than twenty years, recently met with one of the Imperial generals leading the campaign. In a report for the Imperial Herald, she described the unfolding conflict between the Empire and Emperor’s Dawn: 
 
-“Against the crisp darkness of space drifts a Majestic-Class Interdictor, its elegant lines belying the deadly power of its artillery. A few hours ago, the ship was deep within the Dakshmandi system, overseeing the deployment of Imperial squadrons tasked with rooting out and destroying Emperor’s Dawn vessels. For the people of the Dakshmandi and Maausk systems, the arrival of the Imperial fleets has proved divisive: some see [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] as a saviour, while others fear that the conflict it has incited will do only harm.” 
+“Against the crisp darkness of space drifts a Majestic-Class Interdictor, its elegant lines belying the deadly power of its artillery. A few hours ago, the ship was deep within the Dakshmandi system, overseeing the deployment of Imperial squadrons tasked with rooting out and destroying Emperor’s Dawn vessels. For the people of the Dakshmandi and Maausk systems, the arrival of the Imperial fleets has proved divisive: some see the Empire as a saviour, while others fear that the conflict it has incited will do only harm.” 
 
 “On the bridge of this stately vessel I meet General Anthony Corvus, the military veteran who recently voiced scepticism about Denton Patreus’s campaign. He describes the insurgents as disciplined and methodical, capable of delivering systematic, targeted strikes. With what sounds almost like admiration, he refers to their steely resolve, telling me that no matter how many Emperor’s Dawn ships his pilots destroy, the rebels’ morale never appears to waver. He also mentions the many hundreds of independent pilots who have boosted the insurrectionists’ numbers. Evidently, he says, the Empire’s enemies see this conflict as an opportunity to deal a blow to the superpower.” 
 

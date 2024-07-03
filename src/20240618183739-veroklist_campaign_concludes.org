@@ -2,7 +2,7 @@
 :ID:       214f1474-378f-47e9-99b0-3be16f65960a
 :END:
 #+title: Veroklist Campaign Concludes
-#+filetags: :3304:galnet:
+#+filetags: :Empire:3304:galnet:
 
 * Veroklist Campaign Concludes
 
@@ -12,6 +12,6 @@ A spokesperson for the Moritasgus Imperial Corporation has announced that its ap
 
 Moritasgus Imperial Corporation spokesperson Superintendent Arnold Cochran released the following statement: 
 
-“We are pleased that the faith shown in us by [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] has been rewarded. The expansion of facilities means we can now safely contain some of the worst criminals in the Empire.” 
+“We are pleased that the faith shown in us by the Empire has been rewarded. The expansion of facilities means we can now safely contain some of the worst criminals in the Empire.” 
 
 Pilots who contributed to the initiative can now collect their rewards from Vaucouleurs Vision in the Veroklist system.

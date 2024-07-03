@@ -2,7 +2,7 @@
 :ID:       71d220c3-d71e-42ae-b027-89fac895ff01
 :END:
 #+title: Duelling Narratives in Cayutorme Conflict
-#+filetags: :3301:galnet:
+#+filetags: :Empire:3301:galnet:
 
 * Duelling Narratives in Cayutorme Conflict
 
@@ -12,6 +12,6 @@ The deadline for the inspection and disbandment of the mercenary Cayutorme Syndi
 
 The Imperial war chest has been opened for any independent pilots who want to help the Imperial cause. Admiral Lucius Lavigny, the Emperor's second cousin, stated: 
 
-"We know that Commanders pledged to [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] will fight to maintain law and order, and we urge other Commanders to do the same. If these miscreants are permitted to continue with their activities, more systems will suffer." 
+"We know that Commanders pledged to the Empire will fight to maintain law and order, and we urge other Commanders to do the same. If these miscreants are permitted to continue with their activities, more systems will suffer." 
 
 Commander Quade and Commander Corrigendum

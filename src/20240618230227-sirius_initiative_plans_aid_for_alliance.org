@@ -2,7 +2,7 @@
 :ID:       82a42d21-f0b0-4a1d-b008-a4a63ed103dd
 :END:
 #+title: Sirius Initiative Plans Aid for Alliance
-#+filetags: :galnet:
+#+filetags: :Empire:galnet:
 
 * Sirius Initiative Plans Aid for Alliance
 
@@ -20,6 +20,6 @@ Admiral Nikolas Glass, who acts as a liaison between the megacorp and [[id:1d726
 
 “Large quantities of basic medicines, evacuation shelters and food cartridges are urgently required. These can be delivered to the megaship Chariot of Rhea in the Leesti system, from where they will be delivered to Didio in military convoys.” 
 
-Sirius Corporation has been criticised for not providing similar support to the Novas and Sosong systems, which have also been invaded. A spokesperson for the megacorp stated that the strategic defence pact’s trial applies exclusively to the Alliance. Any similar relationship with [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] and Federation would require separate negotiations, though the spokesperson stressed that [[id:f0655b3a-aca9-488f-bdb3-c481a42db384][Li Yong-Rui]] has no interest in such talks at this time. 
+Sirius Corporation has been criticised for not providing similar support to the Novas and Sosong systems, which have also been invaded. A spokesperson for the megacorp stated that the strategic defence pact’s trial applies exclusively to the Alliance. Any similar relationship with the Empire and Federation would require separate negotiations, though the spokesperson stressed that [[id:f0655b3a-aca9-488f-bdb3-c481a42db384][Li Yong-Rui]] has no interest in such talks at this time. 
 
 A joint operation between the superpowers is currently underway in Didio, Novas and Sosong to counter recent [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] invasions. This is to buy time for Salvation’s anti-xeno superweapons to be constructed.

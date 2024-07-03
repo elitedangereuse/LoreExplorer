@@ -2,7 +2,7 @@
 :ID:       28a40bfe-927b-40ca-b805-ba0a2169ed7e
 :END:
 #+title: Galactic News: Starports Attacked by Thargoids
-#+filetags: :3303:galnet:
+#+filetags: :Empire:3303:galnet:
 
 * Galactic News: Starports Attacked by Thargoids
 
@@ -18,4 +18,4 @@ Authorities in the affected systems have responded with appeals for food, water,
 
 Responding to the development, Emperor [[id:34f3cfdd-0536-40a9-8732-13bf3a5e4a70][Arissa Lavigny-Duval]] said: 
 
-“Our thoughts are with those affected by these attacks. While I have every confidence that system authorities will be able to address the situation, [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] is ready to help if necessary.”
+“Our thoughts are with those affected by these attacks. While I have every confidence that system authorities will be able to address the situation, the Empire is ready to help if necessary.”

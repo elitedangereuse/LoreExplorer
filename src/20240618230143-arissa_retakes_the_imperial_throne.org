@@ -2,7 +2,7 @@
 :ID:       fa63aaa8-0ef3-4624-90c2-4ac529787497
 :END:
 #+title: Arissa Retakes the Imperial Throne
-#+filetags: :galnet:
+#+filetags: :Empire:galnet:
 
 * Arissa Retakes the Imperial Throne
 
@@ -12,7 +12,7 @@ Emperor [[id:34f3cfdd-0536-40a9-8732-13bf3a5e4a70][Arissa Lavigny-Duval]] has at
 
 Her proclamation from Trasken Square, standing before millions of Capitol’s citizens and flanked by legions of Imperial Guard, was broadcast across all channels: 
 
-“To those who protected [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] during my enforced absence, I offer my deepest gratitude. My trusted chancellor, senators and security agencies are to be commended.” 
+“To those who protected the Empire during my enforced absence, I offer my deepest gratitude. My trusted chancellor, senators and security agencies are to be commended.” 
 
 “To those who dared to attack Imperial citizens, who dared to impersonate me and mislead my people…who took the lives of my family. Know this: there will be no place to hide from my wrath.” 
 

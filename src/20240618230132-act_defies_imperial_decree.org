@@ -2,7 +2,7 @@
 :ID:       dddeb160-820b-45ff-88f4-667417da2179
 :END:
 #+title: ACT Defies Imperial Decree
-#+filetags: :galnet:
+#+filetags: :Empire:galnet:
 
 * ACT Defies Imperial Decree
 
@@ -16,7 +16,7 @@ Inspector Mara Klatt, one of ACT’s co-leaders, told the media:
 
 “Our actions may have political repercussions, but this taskforce is dedicated to finding and destroying the NMLA. We must follow the trail wherever it leads.” 
 
-Civil and military leaders in [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] have reacted with outrage, including Senator Zemina Torval: 
+Civil and military leaders in the Empire have reacted with outrage, including Senator Zemina Torval: 
 
 “Are we expected to risk our citizens’ lives by letting our security services be compromised? How might [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] or Federation respond if we attempted to hack into Interpol or the FIA?” 
 

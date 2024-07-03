@@ -2,7 +2,7 @@
 :ID:       8849f71e-d4d3-4fa9-9592-3a18d1908c49
 :END:
 #+title: The Rise of Nova Imperium
-#+filetags: :3304:galnet:
+#+filetags: :Empire:3304:galnet:
 
 * The Rise of Nova Imperium
 
@@ -12,7 +12,7 @@ A radical group called Nova Imperium is gaining influence throughout the Empire.
 
 Imperial Herald journalist Cassia Carvalho highlighted the situation: 
 
-“Nova Imperium claims that to survive the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] conflict, [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] must sever contact with all other systems and concentrate on protecting itself. In recent months, the organisation has become a genuine political force.” 
+“Nova Imperium claims that to survive the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] conflict, the Empire must sever contact with all other systems and concentrate on protecting itself. In recent months, the organisation has become a genuine political force.” 
 
 “The group’s leader is known only as the Imperator. Dressed in an Imperial Navy uniform, he is a charismatic presence who speaks of ‘a return to the honour of the old days’ and ‘the glory of Achenar’.” 
 

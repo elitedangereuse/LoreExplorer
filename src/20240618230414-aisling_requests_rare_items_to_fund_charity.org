@@ -2,7 +2,7 @@
 :ID:       fe6ba5c4-a905-4a54-b1db-7ee4becfd4a4
 :END:
 #+title: Aisling Requests Rare Items to Fund Charity
-#+filetags: :galnet:
+#+filetags: :Empire:galnet:
 
 * Aisling Requests Rare Items to Fund Charity
 
@@ -14,7 +14,7 @@ A fundraiser hosted by Princess Aisling aims to finance a support network for Im
 
 The Citizens’ Relief Trust has been established in the Cemiess system, prompted by the loss of thousands of military personnel during the Battle of HIP 22460. She announced: 
 
-“While [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] is focused on increasing its military strength, we must not forget the human cost of ongoing conflict with the Thargoids. Those who died in battle will be honoured by assisting the families and dependants left to mourn them. The Citizens’ Relief Trust plans to establish support centres to ensure their financial and emotional needs are met.” 
+“While the Empire is focused on increasing its military strength, we must not forget the human cost of ongoing conflict with the Thargoids. Those who died in battle will be honoured by assisting the families and dependants left to mourn them. The Citizens’ Relief Trust plans to establish support centres to ensure their financial and emotional needs are met.” 
 
 “To raise funding, I have requested deliveries of Eshu Umbrellas, Xihe Biomorphic Companions and Chateau De Aegaeon. These luxury commodities will be auctioned or sold at a special gala I plan to host for Imperial nobility, with all proceeds used to establish this network. Wine and fish is also requested to serve to our distinguished guests.”  
 

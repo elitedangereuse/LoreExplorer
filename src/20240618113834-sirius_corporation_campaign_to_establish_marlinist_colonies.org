@@ -3,7 +3,7 @@
 :ROAM_REFS: https://cms.zaonce.net/en-GB/jsonapi/node/galnet_article/d5785c1d-48cb-4ec0-8753-5a4bfa5fe712?resourceVersion=id%3A4775
 :END:
 #+title: Sirius Corporation Campaign to Establish Marlinist Colonies
-#+filetags: :galnet:
+#+filetags: :Empire:galnet:
 
 * Sirius Corporation Campaign to Establish Marlinist Colonies
 
@@ -11,7 +11,7 @@
 
 *Pilots Federation ALERT* 
 
-Commodities are requested to create new settlements for Marlinist refugees who fled from [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] to the Federation. 
+Commodities are requested to create new settlements for Marlinist refugees who fled from the Empire to the Federation. 
 
 Sirius Corporation has offered to resolve the current standoff between superpowers by establishing colonies where the refugees can live independently. 
 

@@ -2,13 +2,13 @@
 :ID:       50c6d5d4-d2c1-4f9b-a9b4-fb01b6608f93
 :END:
 #+title: Galactic News: Federal-Imperial Conflict in Merope
-#+filetags: :3303:galnet:
+#+filetags: :Empire:3303:galnet:
 
 * Galactic News: Federal-Imperial Conflict in Merope
 
 /29 Apr 3303/
 
-Authorities in the Merope system have reported conflict between the Pleiades Resource Enterprise, a Federal organisation, and the Merope Expeditionary Fleet, an Imperial organisation. The clash represents the latest development in the ongoing proxy war between [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] and the Federation. 
+Authorities in the Merope system have reported conflict between the Pleiades Resource Enterprise, a Federal organisation, and the Merope Expeditionary Fleet, an Imperial organisation. The clash represents the latest development in the ongoing proxy war between the Empire and the Federation. 
 
 Significantly, the two factions were until recently embroiled in conflict in the Maia system. It is understood the Pleiades Resource Enterprise withdrew from the conflict specifically so it could engage Merope Expeditionary Fleet forces in Merope. This has led to speculation that the Pleiades Resource Enterprise was ordered to enter Merope and by the Federation. 
 
@@ -16,4 +16,4 @@ Security forces in Merope have confirmed that the fighting is localised at prese
 
 Freelance journalist Katherine Ryder commented on the development: 
 
-“As long as the fighting remains contained, there’s no cause for alarm. There’s a world of difference between inter-faction skirmishes and all-out war between the galaxy’s two largest superpowers. Full-scale conflict between [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] and [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] might never happen.”
+“As long as the fighting remains contained, there’s no cause for alarm. There’s a world of difference between inter-faction skirmishes and all-out war between the galaxy’s two largest superpowers. Full-scale conflict between the Empire and [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] might never happen.”

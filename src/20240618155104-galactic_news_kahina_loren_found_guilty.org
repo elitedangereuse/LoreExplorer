@@ -2,7 +2,7 @@
 :ID:       e277b229-6374-44cb-8166-9f24223501fe
 :END:
 #+title: Galactic News: Kahina Loren Found Guilty
-#+filetags: :3302:galnet:
+#+filetags: :Empire:3302:galnet:
 
 * Galactic News: Kahina Loren Found Guilty
 
@@ -18,7 +18,7 @@ A leaked recording from the press room showed Loren talking with two unidentifie
 
 "Patreus's head on a platter," responded Loren. 
 
-Having already been stripped of the title of 'senator', Loren's status as a Lady of [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] was similarly revoked. She was taken to a secure holding facility after the verdict was announced. 
+Having already been stripped of the title of 'senator', Loren's status as a Lady of the Empire was similarly revoked. She was taken to a secure holding facility after the verdict was announced. 
 
 Princess [[id:b402bbe3-5119-4d94-87ee-0ba279658383][Aisling Duval]] spoke to The Imperial Citizen about the trial: 
 

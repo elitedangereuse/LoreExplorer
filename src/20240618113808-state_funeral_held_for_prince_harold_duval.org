@@ -2,7 +2,7 @@
 :ID:       f3c6d3a4-b62c-4863-bf58-426a14483843
 :END:
 #+title: State Funeral Held for Prince Harold Duval
-#+filetags: :galnet:
+#+filetags: :Empire:galnet:
 
 * State Funeral Held for Prince Harold Duval
 
@@ -10,7 +10,7 @@
 
 *Pilots Federation ALERT: For the attention of all Commanders* 
 
-Rare commodities required by [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] in the Baal system. 
+Rare commodities required by the Empire in the Baal system. 
 
 The state funeral of Prince Harold Duval has begun on Capitol. An official week of mourning has been declared throughout the Empire. 
 

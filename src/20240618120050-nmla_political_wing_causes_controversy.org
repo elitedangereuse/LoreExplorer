@@ -2,7 +2,7 @@
 :ID:       ef8f25ec-4652-47f2-9dd3-f127de9ceea9
 :END:
 #+title: [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] Political Wing Causes Controversy
-#+filetags: :galnet:
+#+filetags: :Empire:galnet:
 
 * [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] Political Wing Causes Controversy
 
@@ -18,7 +18,7 @@ Reactions were covered by several newsfeeds:
 
 The Imperial Herald: “Senator Scordato’s proposal to open diplomatic relations with the Marlinist Colonies is already contentious. But could the Emperor ever accept dialogue with the extremists who tried to murder the Imperial Family?” 
 
-The Federal Times: “The idea of negotiating with terrorists is as abhorrent to [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] as to the Federation. And yet, the opportunity to prevent another ‘Nine Martyrs’ cannot be ignored.” 
+The Federal Times: “The idea of negotiating with terrorists is as abhorrent to the Empire as to the Federation. And yet, the opportunity to prevent another ‘Nine Martyrs’ cannot be ignored.” 
 
 The Alliance Tribune: “In the absence of any breakthroughs from ACT, perhaps peaceful discussion is how we defuse the terrorist threat... even if that was the NMLA’s endgame all along.” 
 

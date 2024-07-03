@@ -2,7 +2,7 @@
 :ID:       d7d361ca-024a-415f-9185-4464463f92cf
 :END:
 #+title: Aisling Duval Announces Marriage to Federal Ambassador
-#+filetags: :3304:galnet:
+#+filetags: :Empire:3304:galnet:
 
 * Aisling Duval Announces Marriage to Federal Ambassador
 
@@ -19,7 +19,7 @@ wife.”
 
 “I’m aware that some will see this as unorthodox, even controversial,
 but love knows no borders. It’s our wish that our marriage will build
-lasting bridges between [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] and the Federation.”
+lasting bridges between the Empire and the Federation.”
 
 A statement from Ambassador Rochester appeared in a special edition of
 The Federal Times:

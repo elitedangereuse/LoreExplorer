@@ -2,7 +2,7 @@
 :ID:       82991c31-7cfd-4466-b614-74c5093b7879
 :END:
 #+title: Galactic News: Imperial Initiative Comes to an End
-#+filetags: :3302:galnet:
+#+filetags: :Empire:3302:galnet:
 
 * Galactic News: Imperial Initiative Comes to an End
 
@@ -14,7 +14,7 @@ As the campaign concluded, Admiral Patreus issued a statement:
 
 "Once again, the galaxy's Imperial pilots have shown themselves to be industrious and resourceful.  
 
-It is individuals like you who make [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] what it is." 
+It is individuals like you who make the Empire what it is." 
 
 "Construction of the new ships will begin at once." 
 

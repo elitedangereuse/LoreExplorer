@@ -2,7 +2,7 @@
 :ID:       fda0ba1f-a95e-4e37-91de-56fbd6c24904
 :END:
 #+title: Empire and Federation Clash Over Marlinists
-#+filetags: :galnet:
+#+filetags: :Empire:galnet:
 
 * Empire and Federation Clash Over Marlinists
 
@@ -18,6 +18,6 @@ Imperial Ambassador Imogen Luciana stated:
 
 A response was given by Federal Ambassador Jordan Rochester: 
 
-“As always, [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] promises one thing and does another. This is not an altruistic effort to spare us from terrorists – it is a totalitarian purge of believers in democracy.” 
+“As always, the Empire promises one thing and does another. This is not an altruistic effort to spare us from terrorists – it is a totalitarian purge of believers in democracy.” 
 
 There are reports that both superpowers have suspended many official channels of communication. Political commentators have observed that the Federation’s actions could be construed as the mass kidnapping of Imperial citizens, which would be an act of war.

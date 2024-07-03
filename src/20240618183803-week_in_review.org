@@ -2,7 +2,7 @@
 :ID:       54c39ddd-f01d-4ae5-a558-98a35d013b00
 :END:
 #+title: Week in Review 24 Jun 3304
-#+filetags: :3304:galnet:
+#+filetags: :Empire:3304:galnet:
 
 * Week in Review
 
@@ -14,7 +14,7 @@ Aegis has confirmed that the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid
 
 In related news, Aegis has confirmed that three starports attacked and damaged by [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] forces have now been restored to full functionality, following supportive efforts from the galactic community. The pertinent starports are Armstrong Enterprise in the Bhal system, Beaufoy Vision in the Nauni system and Reed's Rest in the Merope system. 
 
-In other news, Princess [[id:b402bbe3-5119-4d94-87ee-0ba279658383][Aisling Duval]] has announced that she is to wed Federal Ambassador Jordan Rochester. Both Princess Duval and Mr Rochester expressed hope that their marriage would strengthen ties between [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] and the Federation. There has been no official comment from the Imperial Palace or the White House on the engagement. 
+In other news, Princess [[id:b402bbe3-5119-4d94-87ee-0ba279658383][Aisling Duval]] has announced that she is to wed Federal Ambassador Jordan Rochester. Both Princess Duval and Mr Rochester expressed hope that their marriage would strengthen ties between the Empire and the Federation. There has been no official comment from the Imperial Palace or the White House on the engagement. 
 
 A homicide attempt by terrorist organisation the League of Reparation has been foiled, and the would-be killers taken into custody. Kay Kilbride of Alliance Interpol confirmed that the captives had been transported to a secure facility for interrogation, with a view to establishing the identity of Nexus – the League’s apparent coordinator. 
 

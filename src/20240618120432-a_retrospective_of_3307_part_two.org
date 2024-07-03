@@ -2,7 +2,7 @@
 :ID:       9864ab6c-404a-4cf0-9a76-d80378ee89a1
 :END:
 #+title: A Retrospective of 3307 (Part Two)
-#+filetags: :galnet:
+#+filetags: :Empire:galnet:
 
 * A Retrospective of 3307 (Part Two)
 
@@ -22,7 +22,7 @@ Continuing a series of articles by historian [[id:e13ec234-b603-4a29-870d-2b8741
 
 “The Alliance election finally took place at the end of May, having been delayed by three months due to the Galactic Summit. Councillor Nakato Kaine fought a spirited campaign, but [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74][Edmund Mahon]] was re-elected to serve a second term as prime minister.” 
 
-“Supporters of Neo-Marlinism gained a voice in June, when Minister Aaron Whyte offered a peace deal with [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] to prevent further terrorism. The idea of a political wing of the [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] gained support from those fearing further bombings, but opened major rifts within the Marlinist Colonies.” 
+“Supporters of Neo-Marlinism gained a voice in June, when Minister Aaron Whyte offered a peace deal with the Empire to prevent further terrorism. The idea of a political wing of the [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] gained support from those fearing further bombings, but opened major rifts within the Marlinist Colonies.” 
 
 “Salvation once again contacted pilots to track down survivors from the Hesperus. This led to the discovery of an ancient Guardian-Thargoid battleground, where Azimuth scientists had built a research base around their vessel Proteus. All were killed by unusual experiments into weaponising Guardian crystals.” 
 

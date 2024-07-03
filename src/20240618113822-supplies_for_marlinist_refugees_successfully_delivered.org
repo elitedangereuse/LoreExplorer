@@ -2,13 +2,13 @@
 :ID:       3beda20c-3df9-4e67-928a-5e07ca4bfea7
 :END:
 #+title: Supplies for Marlinist Refugees Successfully Delivered
-#+filetags: :galnet:
+#+filetags: :Empire:galnet:
 
 * Supplies for Marlinist Refugees Successfully Delivered
 
 /29 Oct 3306/
 
-A Federal charity initiative to deliver vital supplies for Marlinist refugees from [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] has concluded. 
+A Federal charity initiative to deliver vital supplies for Marlinist refugees from the Empire has concluded. 
 
 Safeguard Interstellar, a humanitarian aid organisation, received an impressive response to its request to provide basic necessities to Marlinist immigrants claiming asylum in the Federation. 
 

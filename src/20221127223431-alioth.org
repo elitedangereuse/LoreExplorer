@@ -3,14 +3,14 @@
 :ROAM_ALIASES: "Epsilon Ursae Majoris"
 :END:
 #+title: Alioth
-#+filetags: :beacon:Reputation:Alliance:Permit:System:
+#+filetags: :Empire:beacon:Reputation:Alliance:Permit:System:
 [[file:img/permit.png]]
 
 #+begin_quote
 The Alioth system is notable as the home of the
 [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][Alliance]], one of the galaxy's three superpowers.
 The system was the focus of conflict between the
-[[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][Federation]] and the [[id:77cf2f14-105e-4041-af04-1213f3e7383c][Empire]] in the 3200s due to
+[[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][Federation]] and the Empire in the 3200s due to
 its tremendous mineral wealth, but the expulsion
 of Federal and Imperial forces by Alioth's
 indigenous population led to the creation of the

@@ -2,13 +2,13 @@
 :ID:       64c2a4a5-712d-4ed6-97e8-0dcdcb8de2e3
 :END:
 #+title: Paresa Conflict Risks War Between Superpowers
-#+filetags: :galnet:
+#+filetags: :Empire:galnet:
 
 * Paresa Conflict Risks War Between Superpowers
 
 /11 May 3307/
 
-There are widespread fears that current hostilities in the Paresa system may force [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] and Federation to declare full-scale war. 
+There are widespread fears that current hostilities in the Paresa system may force the Empire and Federation to declare full-scale war. 
 
 The situation has been covered by mainstream media. 
 
@@ -20,4 +20,4 @@ Eye on Achenar: “An attack against a Duval is an attack against us all, even i
 
 Sol Today: “Hundreds of thousands dead, half a million wounded… our people deserve retribution. But as usual, all the Imposers care about is pandering to their monarchy.” 
 
-Paresa News Network: “The death toll is soaring as full-blown battles rage through our system. Paresans are terrified at facing conquest by the Federation. Can we rely on [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] to save us?”
+Paresa News Network: “The death toll is soaring as full-blown battles rage through our system. Paresans are terrified at facing conquest by the Federation. Can we rely on the Empire to save us?”

@@ -2,7 +2,7 @@
 :ID:       4820d346-a3ac-4129-8ecb-e1845b42c319
 :END:
 #+title: Mahon Rebukes Imperial Isolationism
-#+filetags: :galnet:
+#+filetags: :Empire:galnet:
 
 * Mahon Rebukes Imperial Isolationism
 
@@ -18,4 +18,4 @@ At a meeting of [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] Assemb
 
 “The Sirius Treaty, which I proposed at the Galactic Summit in 3307, would have established anti-xeno operations as a cross-superpower priority. I can only imagine how much better prepared we would now be to combat the Thargoids. But there is still scope for governments and organisations to work more closely, as exemplified by our strategic defence pact with Sirius Corporation.” 
 
-The Alliance, Federation and Marlinist Colonies have reported that [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] is methodically closing down all collaborative projects. However, official diplomatic representation in non-Imperial territories has been maintained.
+The Alliance, Federation and Marlinist Colonies have reported that the Empire is methodically closing down all collaborative projects. However, official diplomatic representation in non-Imperial territories has been maintained.

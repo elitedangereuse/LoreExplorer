@@ -2,7 +2,7 @@
 :ID:       9f0904cb-36a7-4867-b147-22fed0491515
 :END:
 #+title: Freelance Report: The Demands of Supply
-#+filetags: :3302:galnet:
+#+filetags: :Empire:3302:galnet:
 
 * Freelance Report: The Demands of Supply
 
@@ -16,6 +16,6 @@ Commentators are divided on what impact, if any, this information will have on t
 
 The publication of the criteria is believed to have followed a private conference between [[id:941ab45b-f406-4b3a-a99b-557941634355][Dr Arcanonn]] and Professor Cora Shaw, director of the Palin Institute. Dr Arcanonn commented: 
 
-"We must not let the drums of war drown out the fact that the stated positions of [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] and [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] are, upon review, far from irreconcilable." 
+"We must not let the drums of war drown out the fact that the stated positions of [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] and the Empire are, upon review, far from irreconcilable." 
 
 Commander Nicholas Powell

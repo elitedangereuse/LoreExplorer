@@ -2,7 +2,7 @@
 :ID:       e0d12250-cbab-4a27-a443-76c2e531f1d7
 :END:
 #+title: Arissa Lavigny-Duval Crowned Emperor
-#+filetags: :3301:galnet:
+#+filetags: :Empire:3301:galnet:
 
 * [[id:34f3cfdd-0536-40a9-8732-13bf3a5e4a70][Arissa Lavigny-Duval]] Crowned Emperor
 
@@ -20,6 +20,6 @@ At the conclusion of the ceremony, Emperor [[id:34f3cfdd-0536-40a9-8732-13bf3a5e
 
 "This is a day I cannot compare to any other. The trust my fellow senators have shown in me makes me all the more determined to overcome the challenges we will surely face in the coming weeks and months. For too long we have suffered from uncertainty in the wake of the Emperor's death.  
 
-"I had the great fortune to talk with the late Emperor in his final days, and to learn how he planned to strengthen [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] in these times of change. In the coming weeks, I will announce the formation of my government and my plans to tackle the threats facing the Empire. 
+"I had the great fortune to talk with the late Emperor in his final days, and to learn how he planned to strengthen the Empire in these times of change. In the coming weeks, I will announce the formation of my government and my plans to tackle the threats facing the Empire. 
 
-"But for now I will enjoy this moment and express my gratitude to [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] and everyone, from slave to senator, for this opportunity to serve."
+"But for now I will enjoy this moment and express my gratitude to the Empire and everyone, from slave to senator, for this opportunity to serve."

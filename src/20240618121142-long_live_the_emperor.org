@@ -2,7 +2,7 @@
 :ID:       0b69f8cc-74cc-48d5-b0f5-79325dbc87ea
 :END:
 #+title: Long Live the Emperor!
-#+filetags: :3301:galnet:
+#+filetags: :Empire:3301:galnet:
 
 * Long Live the Emperor!
 
@@ -16,7 +16,7 @@ Senator Anders Blaine, Chancellor to Emperor [[id:3cb0755e-4deb-442b-898b-3f0c66
 
 As can be expected from our Emperor, he has expressed his intention to lead the senate in a few days time.” 
 
-The welcome news of the Emperor’s recovery has rapidly spread throughout [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] and inspired impromptu celebrations in every level of Imperial society . 
+The welcome news of the Emperor’s recovery has rapidly spread throughout the Empire and inspired impromptu celebrations in every level of Imperial society . 
 
 Amidst the well wishes a small number of the more cynical pundits have muttered that they will believe the good news when they see the Emperor in person. Most commentators though are simply overjoyed to hear of the Emperor’s return and hope that this will herald a new and more united future for the Empire. 
 

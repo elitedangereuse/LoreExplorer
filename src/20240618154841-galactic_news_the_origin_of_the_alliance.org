@@ -2,7 +2,7 @@
 :ID:       32671964-b513-4b29-844f-ba37c97b0591
 :END:
 #+title: Galactic News: The Origin of the Alliance
-#+filetags: :3302:galnet:
+#+filetags: :Empire:3302:galnet:
 
 * Galactic News: The Origin of the Alliance
 
@@ -14,7 +14,7 @@ In a return to our popular series on significant episodes from human history, no
 
 "Alioth, [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] powerbase, was once a highly contested system. In the decades that followed its colonisation, it was the site of almost constant conflict between [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] and the Empire. Naturally this made life difficult for the system's inhabitants, whose lives were impacted by generation after generation of war." 
 
-"The turning point came in 3228, when the Federal corporations supplying one of Alioth's main population centres attempted to raise prices. This triggered a revolt. Federal and Imperial forces were despatched to quell the uprising, but the resistance, bolstered by fighters from neighbouring independent systems, successfully repelled them. Ultimately [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] chose to withdraw from the system, reluctant to commit to a potentially protracted campaign far from its centre of power. When [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] realised how unpopular the war had become among Federal citizens, it followed suit." 
+"The turning point came in 3228, when the Federal corporations supplying one of Alioth's main population centres attempted to raise prices. This triggered a revolt. Federal and Imperial forces were despatched to quell the uprising, but the resistance, bolstered by fighters from neighbouring independent systems, successfully repelled them. Ultimately the Empire chose to withdraw from the system, reluctant to commit to a potentially protracted campaign far from its centre of power. When [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] realised how unpopular the war had become among Federal citizens, it followed suit." 
 
 "In the wake of the conflict, the idea of an independent socio-political body rapidly gained popularity among the people of Alioth, and in 3230 [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] of Independent Systems was established. Its founding principles were simple: to protect and support those who wanted to remain independent of [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] and the Empire, and to empower its member systems while simultaneously preserving their independence. Over the next two decades, more than twenty systems joined the Alliance." 
 
@@ -22,6 +22,6 @@ In a return to our popular series on significant episodes from human history, no
 
 "The Council of Admirals is a six-person body comprising the leaders of the six largest military forces in the Alliance. In addition to selecting the prime minister, the Council also commands [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] Defence Force, a vast flotilla of ships contributed by each of the Alliance's member systems. The Council of Admirals is free to deploy the Defence Force without the approval of the Assembly, making it extremely powerful." 
 
-"There can be no argument that [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] lacks the power-projection abilities of [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] and the Federation. But it is more than capable of competing with them in economic and political terms, and of defending its member systems when necessary." 
+"There can be no argument that [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] lacks the power-projection abilities of the Empire and the Federation. But it is more than capable of competing with them in economic and political terms, and of defending its member systems when necessary." 
 
 "What the future holds remains to be seen, but under the strong leadership of Prime Minister Edmund Mahon, it seems likely [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] will only continue to grow."

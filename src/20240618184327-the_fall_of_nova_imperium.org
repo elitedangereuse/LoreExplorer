@@ -2,13 +2,13 @@
 :ID:       72d18c75-5768-4309-916f-32f7383cec5d
 :END:
 #+title: The Fall of Nova Imperium
-#+filetags: :galnet:
+#+filetags: :Empire:galnet:
 
 * The Fall of Nova Imperium
 
 /26 Jan 3305/
 
-Security forces across [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] have carried out a coordinated purge of the isolationist group Nova Imperium. 
+Security forces across the Empire have carried out a coordinated purge of the isolationist group Nova Imperium. 
 
 Political journalist Cassia Carvalho reported: 
 

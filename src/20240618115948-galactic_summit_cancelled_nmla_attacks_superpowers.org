@@ -2,7 +2,7 @@
 :ID:       b0215832-e24b-42a3-b2dd-cb6eb29c16c3
 :END:
 #+title: Galactic Summit Cancelled – [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] Attacks Superpowers
-#+filetags: :galnet:
+#+filetags: :Empire:galnet:
 
 * Galactic Summit Cancelled – [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] Attacks Superpowers
 
@@ -12,7 +12,7 @@ The conference in the Sirius system has ended prematurely after terrorist bombin
 
 Sirius Corporation confirmed that the cancellation was due to fears that Patterson Enterprise station may be the next target. All scheduled business, including finalising the Sirius Treaty, has been halted. The delegations are returning to their home systems under high security.  
 
-Temporary permits for the Sirius system will remain in place for one week. Pilots who contributed to the security and trade initiatives held in partnership with [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] can collect their rewards at the Spirit of Laelaps. Core Dynamics, Gutamaya and Lakon Spaceways will continue to offer a 10% discount on all their ships for one more week. 
+Temporary permits for the Sirius system will remain in place for one week. Pilots who contributed to the security and trade initiatives held in partnership with the Empire can collect their rewards at the Spirit of Laelaps. Core Dynamics, Gutamaya and Lakon Spaceways will continue to offer a 10% discount on all their ships for one more week. 
 
 The Neo-Marlinist Liberation Army has claimed responsibility for the simultaneous attacks in nine systems, including superpower capitals Achenar, Alioth and Sol.  
 

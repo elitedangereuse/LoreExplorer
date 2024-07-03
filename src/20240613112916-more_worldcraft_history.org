@@ -2,7 +2,7 @@
 :ID:       0b648690-afa0-47cb-8744-26379ee6e873
 :END:
 #+title: More WorldCraft History
-#+filetags: :beacon:
+#+filetags: :Empire:beacon:
 * 0212 More WorldCraft History
 [[id:a17c479c-5ee8-42c1-8fee-22cbf1407db9][Epsilon Eridani]]
 
@@ -11,7 +11,7 @@ has always been very acquisitive, but has also been known to asset
 strip those businesses it takes over, often letting them fail without
 honouring customer contracts.
 
-The corporation does not operate in [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] at all, as much of its
+The corporation does not operate in the Empire at all, as much of its
 business is seen as being unsavoury by Imperial patricians - both some
 of its 'holidy products' and also business practices.
 

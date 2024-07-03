@@ -2,7 +2,7 @@
 :ID:       24a8f986-0ca0-46f0-8360-021d965b6025
 :END:
 #+title: Prism Senator Missing
-#+filetags: :3301:galnet:
+#+filetags: :Empire:3301:galnet:
 
 * Prism Senator Missing
 
@@ -18,7 +18,7 @@ The interior of the suite was found to be pristine, with no evidence of habitati
 
 Ambassador Cuthrick Delaney made a brief statement to the press. “Senator Kahina has previously empowered me to represent the Prism system on her behalf. I will do my best to discharge that duty according to her instructions. Senator Kahina is a very private individual, and has not sought my, or any other, counsel in the last month. We do not know where she has gone. Naturally we are concerned about her safety and would urge anyone who knows of her whereabouts to contact the authorities immediately. Her disappearance is very disturbing indeed.” 
 
-Reaction across [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] was muted, but many have speculated that something underhand has happened to the visiting Senator.  
+Reaction across the Empire was muted, but many have speculated that something underhand has happened to the visiting Senator.  
 
 “Doesn’t matter what Delaney says,” said a commentator from the Imperial Citizen. “Prism belongs to Patreus now, Kahina’s just abandoned it and all the citizens she professed to care about. She’s a coward and an irrelevance.” 
 

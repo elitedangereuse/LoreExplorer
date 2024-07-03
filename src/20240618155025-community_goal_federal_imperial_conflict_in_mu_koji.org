@@ -2,13 +2,13 @@
 :ID:       015e92e7-58dd-41ce-b57a-e395b608ad76
 :END:
 #+title: Community Goal: Federal-Imperial Conflict in Mu Koji
-#+filetags: :3302:galnet:
+#+filetags: :Empire:3302:galnet:
 
 * Community Goal: Federal-Imperial Conflict in Mu Koji
 
 /08 Sep 3302/
 
-Security operatives in Mu Koji have reported that [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] and Federation have launched rival military operations in the system. 
+Security operatives in Mu Koji have reported that the Empire and Federation have launched rival military operations in the system. 
 
 Both superpowers have fleets stationed in Mu Koji, and both have launched attacks against these convoys with the aim of securing valuable enemy intelligence.  
 

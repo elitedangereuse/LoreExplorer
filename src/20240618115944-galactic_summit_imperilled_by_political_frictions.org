@@ -2,7 +2,7 @@
 :ID:       2508d8c6-0a83-4eee-8b69-31018d18d2ff
 :END:
 #+title: Galactic Summit Imperilled by Political Frictions
-#+filetags: :galnet:
+#+filetags: :Empire:galnet:
 
 * Galactic Summit Imperilled by Political Frictions
 
@@ -12,7 +12,7 @@ Delegates at the diplomatic conference have clashed over long-standing political
 
 Journalists at Patterson Enterprise in the Sirius system reported their observations via mainstream newsfeeds. 
 
-The Imperial Herald: “Minister Whyte’s claim that [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] had fomented terrorism by repressing Marlinism was somewhat predictable. But nobody expected Princess Duval’s icy retort, which caused shocked gasps across the chamber.” 
+The Imperial Herald: “Minister Whyte’s claim that the Empire had fomented terrorism by repressing Marlinism was somewhat predictable. But nobody expected Princess Duval’s icy retort, which caused shocked gasps across the chamber.” 
 
 Sol Today: “President Hudson easily dealt with Patreus’s whine about the Federation’s so-called ‘war-mongering’, putting the bombastic Imp in his place.” 
 

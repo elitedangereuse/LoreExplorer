@@ -2,7 +2,7 @@
 :ID:       168347a7-5c84-4181-a7ef-1b84d404ca25
 :END:
 #+title: Federation Attacks Nova Imperium
-#+filetags: :galnet:
+#+filetags: :Empire:galnet:
 
 * Federation Attacks Nova Imperium
 
@@ -20,7 +20,7 @@ Admiral Natalia Lee, commanding the Harmony’s Shield megaship, declared:
 
 Hadrian Duval made an announcement from Dyson City, the home station of Nova Imperium: 
 
-“This invasion of Imperial space is based on false information. [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][The Federation]] does not have the right to act as our judge, jury and executioner. I call upon [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] to come to our defence, as stipulated in the Treaty of Paresa.” 
+“This invasion of Imperial space is based on false information. [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][The Federation]] does not have the right to act as our judge, jury and executioner. I call upon the Empire to come to our defence, as stipulated in the Treaty of Paresa.” 
 
 Nova Imperium is an isolationist group that believes in retaining Imperial traditions and severing all ties with other superpowers. Hadrian Duval is the illegitimate grandson of Emperor Hengist, whose heritage was officially acknowledged last November. 
 

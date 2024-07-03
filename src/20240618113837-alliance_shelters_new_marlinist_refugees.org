@@ -3,13 +3,13 @@
 :ROAM_REFS: https://cms.zaonce.net/en-GB/jsonapi/node/galnet_article/14db52cd-c366-4d1c-b086-8456f9e41628?resourceVersion=id%3A4869
 :END:
 #+title: Alliance Shelters New Marlinist Refugees
-#+filetags: :galnet:
+#+filetags: :Empire:galnet:
 
 * Alliance Shelters New Marlinist Refugees
 
 /24 Dec 3306/
 
-Tens of thousands of Marlinist refugees have claimed sanctuary in Alliance space, after emigrating from [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] to avoid political persecution. 
+Tens of thousands of Marlinist refugees have claimed sanctuary in Alliance space, after emigrating from the Empire to avoid political persecution. 
 
 In recent weeks, there has been a steady stream of ex-Imperial citizens arriving at Alliance systems, mostly travelling aboard small private vessels or in the holds of cargo ships.  
 

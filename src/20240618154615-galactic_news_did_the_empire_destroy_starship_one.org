@@ -1,20 +1,20 @@
 :PROPERTIES:
 :ID:       49593d82-08be-4f96-bb0c-8e9d4bdbfa88
 :END:
-#+title: Galactic News: Did [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] Destroy Starship One?
-#+filetags: :3302:galnet:
+#+title: Galactic News: Did the Empire Destroy Starship One?
+#+filetags: :Empire:3302:galnet:
 
-* Galactic News: Did [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] Destroy Starship One?
+* Galactic News: Did the Empire Destroy Starship One?
 
 /15 Apr 3302/
 
-Tensions between [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] and [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] look likely to increase following an announcement from Federal politician Jacob Harris. In a statement released to The Federal Times, Harris claimed that the destruction of Starship One was not the result of mechanical failure, as was widely reported, but was in fact the result of deliberate sabotage by Imperial agents. 
+Tensions between [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] and the Empire look likely to increase following an announcement from Federal politician Jacob Harris. In a statement released to The Federal Times, Harris claimed that the destruction of Starship One was not the result of mechanical failure, as was widely reported, but was in fact the result of deliberate sabotage by Imperial agents. 
 
-"I cannot identify my sources for fear of compromising their safety," said Harris, "but I can assure you that their information is correct. Starship One was destroyed by [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] in an attempt to destabilise the Federal power base. It was made to look like an accident – the official Federal investigation even concluded it was an accident – but it most certainly was not." 
+"I cannot identify my sources for fear of compromising their safety," said Harris, "but I can assure you that their information is correct. Starship One was destroyed by the Empire in an attempt to destabilise the Federal power base. It was made to look like an accident – the official Federal investigation even concluded it was an accident – but it most certainly was not." 
 
 Imperial officials were quick to condemn Harris's claims, citing both his lack of evidence and his reluctance to reveal his sources. Among those voicing scepticism was Senator Zemina Torval. 
 
-"This is nothing more than uncorroborated gossip," said the senator, "and it is highly irresponsible of Jacob Harris to disseminate such rumours. [[id:77cf2f14-105e-4041-af04-1213f3e7383c][The Empire]] would never perpetrate such an act, and given Harris's well-known predilection for scaremongering, I think only a fool would believe him." 
+"This is nothing more than uncorroborated gossip," said the senator, "and it is highly irresponsible of Jacob Harris to disseminate such rumours. The Empire would never perpetrate such an act, and given Harris's well-known predilection for scaremongering, I think only a fool would believe him." 
 
 The Federation appeared less eager to dismiss Harris's claims, although a statement from Shadow President [[id:b9fe58a3-dfb7-480c-afd6-92c3be841be7][Felicia Winters]] indicated that she was not necessarily ready to accept the story, either. 
 

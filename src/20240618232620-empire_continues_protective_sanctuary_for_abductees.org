@@ -2,7 +2,7 @@
 :ID:       092e545c-710a-4bcc-8cd7-ca22c1ec4083
 :END:
 #+title: Empire Continues ‘Protective Sanctuary’ for Abductees
-#+filetags: :galnet:
+#+filetags: :Empire:galnet:
 
 * Empire Continues ‘Protective Sanctuary’ for Abductees
 
@@ -12,7 +12,7 @@ Emperor [[id:34f3cfdd-0536-40a9-8732-13bf3a5e4a70][Arissa Lavigny-Duval]] has de
 
 An official pronouncement on behalf of the Emperor was distributed by the Imperial Palace: 
 
-“Every subject of [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] who was abducted by the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] is receiving the highest possible quality of treatment and support. The Emperor has ordered that they will be given exemplary medical and psychological care, for as long as they remain in medical isolation.” 
+“Every subject of the Empire who was abducted by the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] is receiving the highest possible quality of treatment and support. The Emperor has ordered that they will be given exemplary medical and psychological care, for as long as they remain in medical isolation.” 
 
 “As is always the case, the security of our society is paramount. Protective sanctuary is being provided for tens of thousands of individuals, in order that billions are spared the prospect – however unlikely – of an alien influence taking root within the Empire. That is the honourable path, and the Emperor is confident her people will understand the wisdom of this decision.” 
 

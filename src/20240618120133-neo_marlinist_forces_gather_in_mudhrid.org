@@ -2,7 +2,7 @@
 :ID:       48d635d5-3b9a-4af2-b7fe-9643459a0ac2
 :END:
 #+title: Neo-Marlinist Forces Gather in Mudhrid
-#+filetags: :galnet:
+#+filetags: :Empire:galnet:
 
 * Neo-Marlinist Forces Gather in Mudhrid
 
@@ -20,4 +20,4 @@ Senior Agent Tanya Ramirez gave a statement on behalf of ACT:
 
 A spokesperson for the Epsilon Fornacis Empire Group, which controls the Mudhrid system, claimed: 
 
-“The hostages should be considered lost as casualties of war. We are prepared to perform our duty for [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] once again by destroying the Neo-Marlinist threat.”
+“The hostages should be considered lost as casualties of war. We are prepared to perform our duty for the Empire once again by destroying the Neo-Marlinist threat.”

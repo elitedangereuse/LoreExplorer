@@ -2,7 +2,7 @@
 :ID:       74ecc49d-6b44-48aa-abf0-02fa7ec86de0
 :END:
 #+title: Marlinist Refugees Migrate from Alliance
-#+filetags: :galnet:
+#+filetags: :Empire:galnet:
 
 * Marlinist Refugees Migrate from Alliance
 
@@ -20,4 +20,4 @@ The decision was welcomed by First Minister Octavia Volkov:
 
 “Thanks to the Alliance’s generosity, any Marlinists currently within their territory can now take advantage of free transportation to a colony system of their choice. There we will provide state support and work opportunities, to help them establish new permanent homes.” 
 
-“More than a million people who fled [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] are still unaccounted for, having dispersed throughout the core systems. I call for them to contact us via the consulate, and join our growing republican society.”
+“More than a million people who fled the Empire are still unaccounted for, having dispersed throughout the core systems. I call for them to contact us via the consulate, and join our growing republican society.”

@@ -2,7 +2,7 @@
 :ID:       68570770-ed76-48c3-9422-6a171a4d3c45
 :END:
 #+title: Freelance Report: Irresponsible Independents Ransack Ruins
-#+filetags: :3302:galnet:
+#+filetags: :Empire:3302:galnet:
 
 * Freelance Report: Irresponsible Independents Ransack Ruins
 
@@ -16,6 +16,6 @@ Jeremy Grant, an archaeologist who has been working at the site for several days
 
 "It's not safe out here. The ruins have been significantly damaged by SRV racing. Priceless artefacts have been shattered and weapons fire has scarred several obelisks, destroying markings." 
 
-"Independent pilots have made a lot of noise about [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] and Federation cordoning off major research sites, but if this is an indication of how independents treat sites of value, perhaps the superpowers are doing the right thing." 
+"Independent pilots have made a lot of noise about the Empire and Federation cordoning off major research sites, but if this is an indication of how independents treat sites of value, perhaps the superpowers are doing the right thing." 
 
 Commander Corrigendum

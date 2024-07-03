@@ -2,7 +2,7 @@
 :ID:       9e766eaa-a15b-4bd5-aa29-e3c14b997e22
 :END:
 #+title: Galactic News: Former Slaves Receive Aid
-#+filetags: :3302:galnet:
+#+filetags: :Empire:3302:galnet:
 
 * Galactic News: Former Slaves Receive Aid
 
@@ -12,4 +12,4 @@ The Paladin Consortium has announced that its recent appeal for water purifiers 
 
 Following the success of the initiative, authorities in the LFT 37 system released a statement to the media: 
 
-"We are immensely grateful to all those who contributed to this campaign. The former slaves at Onnes Gateway will now be able to enjoy a basic standard of living while they wait for [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] to formally terminate their indenture contracts. Our thanks also go to the Paladin Consortium, which spearheaded this operation."
+"We are immensely grateful to all those who contributed to this campaign. The former slaves at Onnes Gateway will now be able to enjoy a basic standard of living while they wait for the Empire to formally terminate their indenture contracts. Our thanks also go to the Paladin Consortium, which spearheaded this operation."

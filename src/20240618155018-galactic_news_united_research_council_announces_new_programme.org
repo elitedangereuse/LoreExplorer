@@ -2,7 +2,7 @@
 :ID:       e6b64d7a-b46e-41c3-978c-7309dd02df17
 :END:
 #+title: Galactic News: United Research Council Announces New Programme
-#+filetags: :3302:galnet:
+#+filetags: :Empire:3302:galnet:
 
 * Galactic News: United Research Council Announces New Programme
 
@@ -12,7 +12,7 @@ The United Research Council, one of the galaxy's largest independent scientific 
 
 The programme, which is expected to last approximately six weeks, will initially encompass all systems within a 30 light-year radius of the Coritab, Darian, Freng and Lunduwalaya systems. Other systems may be added to the list as the programme progresses. 
 
-The Alliance, [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] and [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] have all agreed to grant the Council exclusive access to these systems for the duration of its research programme. Civilian and military traffic will be free to traverse the region, but pilots pledged to one of the galaxy's major powers will be unable to lay claim to these systems while the project is active. 
+The Alliance, the Empire and [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] have all agreed to grant the Council exclusive access to these systems for the duration of its research programme. Civilian and military traffic will be free to traverse the region, but pilots pledged to one of the galaxy's major powers will be unable to lay claim to these systems while the project is active. 
 
 Professor Ray Miller, director of the organisation, elaborated on the nature of the exercise:  
 

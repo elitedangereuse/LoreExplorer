@@ -2,7 +2,7 @@
 :ID:       c4cd95fa-1de1-4d61-a370-f56fc4e92ca5
 :END:
 #+title: More Emperor's Dawn Bases Found
-#+filetags: :3301:galnet:
+#+filetags: :Empire:3301:galnet:
 
 * More Emperor's Dawn Bases Found
 
@@ -14,4 +14,4 @@ Some commentators have expressed surprise at the Empire's decision to release th
 
 "Surprise is not a significant factor at this stage of the campaign. Let the insurgents prepare for our arrival. They cannot hope to withstand the full might of the Empire. We will crush them." 
 
-Having already eradicated an Emperor's Dawn cell in Maausk, it is assumed that [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] will soon launch military campaigns against the remaining insurgent bases.
+Having already eradicated an Emperor's Dawn cell in Maausk, it is assumed that the Empire will soon launch military campaigns against the remaining insurgent bases.

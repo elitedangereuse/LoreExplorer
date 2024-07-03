@@ -2,7 +2,7 @@
 :ID:       a5724e5b-f954-4c9f-b34e-6b64d281aea4
 :END:
 #+title: Militaries Prepare for Further [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Strikes
-#+filetags: :galnet:
+#+filetags: :Empire:galnet:
 
 * Militaries Prepare for Further [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Strikes
 
@@ -16,7 +16,7 @@ Ernesto Rios, field correspondent for Vox Galactica, summarised the situation:
 
 “The Federal Navy quickly responded by deploying Farragut-class battle cruisers. President [[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][Zachary Hudson]] proclaimed that these successfully drove out the invaders, but many observers suspect that the Thargoids’ withdrawal when the fighting remained fierce was intentional.” 
 
-“In the Empire, Senator [[id:75daea85-5e9f-4f6f-a102-1a5edea0283c][Denton Patreus]] considered these events ‘an indication that the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] are probing humanity’s defensive capabilities’. But details of the Imperial Navy’s anti-xeno strategy remained confidential, a sign of [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] shift away from military coordination with other superpowers.” 
+“In the Empire, Senator [[id:75daea85-5e9f-4f6f-a102-1a5edea0283c][Denton Patreus]] considered these events ‘an indication that the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] are probing humanity’s defensive capabilities’. But details of the Imperial Navy’s anti-xeno strategy remained confidential, a sign of the Empire shift away from military coordination with other superpowers.” 
 
 “The Alliance has claimed to be in a position of readiness. Admiral Nikolas Glass reported: ‘Operation Tyndareus, backed by Sirius Corporation, is now active. [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][The Alliance]] Defence Force is ready to deploy anti-xeno taskforces, should the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] dare to launch an assault within Allied space.’ Meanwhile, critics of the strategic defence pact have observed that only two megaships currently possess AX weaponry, casting doubt over the ADF’s effectiveness.” 
 

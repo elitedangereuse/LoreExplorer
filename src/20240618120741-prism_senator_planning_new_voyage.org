@@ -2,7 +2,7 @@
 :ID:       582d9e6b-bda6-483c-a791-5e7a47a4e874
 :END:
 #+title: Prism Senator Planning New Voyage?
-#+filetags: :3301:galnet:
+#+filetags: :Empire:3301:galnet:
 
 * Prism Senator Planning New Voyage?
 
@@ -12,6 +12,6 @@ Leaked images from the Avalon shipyards appear to indicate that Senator Kahina T
 
 Security at the Avalon shipyards, which are owned and managed by Persephone station, is extremely tight. The images themselves are grainy and ill-defined, but seem to show that the drives, shields and possibly the frame-shift drive components have been significantly upgraded. 
 
-Sources within [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] note that Senator Loren has been seen at several significant social events within Imperial space recently. Despite this, she has refrained from speaking to any member of the press since returning from Sol.  
+Sources within the Empire note that Senator Loren has been seen at several significant social events within Imperial space recently. Despite this, she has refrained from speaking to any member of the press since returning from Sol.  
 
 Speculation is rife as to her involvement with the ongoing struggle for power within the Senate. Loren has yet to declare her support for any of the leading contenders, a fact which some political pundits believe is a strong indication that she may be considering her own play for power.

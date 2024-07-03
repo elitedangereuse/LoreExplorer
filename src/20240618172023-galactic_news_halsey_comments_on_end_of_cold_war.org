@@ -2,16 +2,16 @@
 :ID:       410ec7e0-8ceb-4545-b91d-0bd1d1670b7a
 :END:
 #+title: Galactic News: Halsey Comments on End of Cold War
-#+filetags: :3303:galnet:
+#+filetags: :Empire:3303:galnet:
 
 * Galactic News: Halsey Comments on End of Cold War
 
 /28 Oct 3303/
 
-With the news that [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] has withdrawn its fleets from the Pleiades Nebula, apparently signalling the end of the Federal-Imperial cold war, former Federal president [[id:a9ccf59f-436e-44df-b041-5020285925f8][Jasmina Halsey]] has commented on the cessation of hostilities. 
+With the news that the Empire has withdrawn its fleets from the Pleiades Nebula, apparently signalling the end of the Federal-Imperial cold war, former Federal president [[id:a9ccf59f-436e-44df-b041-5020285925f8][Jasmina Halsey]] has commented on the cessation of hostilities. 
 
 Addressing a large crowd in Nerah City on Argent’s Claim, Halsey said: 
 
-“Like many of you, I rejoiced when I heard [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] had recalled its ships. But my jubilation was undercut by the knowledge that our protests and entreaties had failed to move a single Federal or Imperial vessel. Were it not for the emergence of a greater potential threat, [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] and Federation might still be installed in the Pleiades, squabbling over barnacles. And while the impact of the conflict could have been far greater, it was still far from a bloodless war.” 
+“Like many of you, I rejoiced when I heard [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] had recalled its ships. But my jubilation was undercut by the knowledge that our protests and entreaties had failed to move a single Federal or Imperial vessel. Were it not for the emergence of a greater potential threat, the Empire and Federation might still be installed in the Pleiades, squabbling over barnacles. And while the impact of the conflict could have been far greater, it was still far from a bloodless war.” 
 
 “I would like to believe that [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] and Empire have learned from this experience, but I suspect they have not. But I promise you that I will continue to help those affected by such conflicts, for as long as I am able.”

@@ -2,7 +2,7 @@
 :ID:       a1b23c8f-089d-406b-a686-77599eedb5e7
 :END:
 #+title: Galactic News: Felicia Winters Opposes Federal-Imperial Conflict
-#+filetags: :3302:galnet:
+#+filetags: :Empire:3302:galnet:
 
 * Galactic News: [[id:b9fe58a3-dfb7-480c-afd6-92c3be841be7][Felicia Winters]] Opposes Federal-Imperial Conflict
 
@@ -14,6 +14,6 @@ While careful not to criticise Federal President Zachary Hudson, Winters made he
 
 "I may disagree with [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74][Edmund Mahon]] on a number of issues, but I share his views on the current political climate." 
 
-"Both [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] and [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] have access to tremendous military power, and a war between our two societies could have a disastrous impact on the galaxy. We must turn away from acrimony, and move towards mutual understanding and cooperation. It is not too late to change course." 
+"Both [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] and the Empire have access to tremendous military power, and a war between our two societies could have a disastrous impact on the galaxy. We must turn away from acrimony, and move towards mutual understanding and cooperation. It is not too late to change course." 
 
 Winters's words were warmly received by the assembled crowds.

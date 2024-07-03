@@ -2,7 +2,7 @@
 :ID:       ea3e7df3-eb95-49ba-9545-a44aa0507600
 :END:
 #+title: Community Goal: Searching for Barnacles
-#+filetags: :3302:galnet:
+#+filetags: :Empire:3302:galnet:
 
 * Community Goal: Searching for Barnacles
 
@@ -10,7 +10,7 @@
 
 Since the non-human structures known as barnacles were first discovered, they have prompted fierce debate, attracted intense scrutiny and even triggered the despatch of a Federal Fleet to the Merope system. 
 
-As the only known source of meta-alloys, the barnacles are of considerable value. It is therefore unsurprising that [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] has issued an appeal for exploration data in the hope of finding more. A spokesperson for Bava Blue Travel Systems, which is coordinating the campaign, made the following statement: 
+As the only known source of meta-alloys, the barnacles are of considerable value. It is therefore unsurprising that the Empire has issued an appeal for exploration data in the hope of finding more. A spokesperson for Bava Blue Travel Systems, which is coordinating the campaign, made the following statement: 
 
 "The barnacles are of central importance, and it is vital that we determine whether or not there are any more out there. We are therefore launching an appeal for exploration data, to begin at once, as part of a search for further barnacles." 
 

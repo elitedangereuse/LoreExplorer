@@ -2,7 +2,7 @@
 :ID:       55458d28-d34f-4c42-8c48-2dcebc51c5e0
 :END:
 #+title: Azimuth’s Plan Elicits Further Reactions
-#+filetags: :galnet:
+#+filetags: :Empire:galnet:
 
 * Azimuth’s Plan Elicits Further Reactions
 
@@ -16,7 +16,7 @@ Yuri Grom: “I trust Salvation as little as I trust the Federation. What guaran
 
 Senator Zemina Torval: “Azimuth Biotech has emerged as a strategically significant corporation. I’ve advised the Imperial Senate to establish long-term commercial links that are mutually beneficial.” 
 
-Hadrian Augustus Duval: “The [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] are a genuine threat. Yet I hope that our military collaboration with [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] and [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] is a temporary measure only. [[id:77cf2f14-105e-4041-af04-1213f3e7383c][The Empire]] must develop the strength to stand alone.” 
+Hadrian Augustus Duval: “The [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] are a genuine threat. Yet I hope that our military collaboration with [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] and [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] is a temporary measure only. The Empire must develop the strength to stand alone.” 
 
 First Minister Octavia Volkov: “Thargoid attack is an ever-present danger for the Marlinist Colonies. We are observing events closely. Personally I do not view Azimuth as a trustworthy ally.” 
 

@@ -2,16 +2,16 @@
 :ID:       bfd48ec0-751d-41a2-8c8b-097dcb9ad05a
 :END:
 #+title: Community Goal: Superpower Expansion
-#+filetags: :3303:galnet:
+#+filetags: :Empire:3303:galnet:
 
 * Community Goal: Superpower Expansion
 
 /21 Apr 3303/
 
-For several months, the Maia system has been a focal point in the ongoing hostility between [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] and the Federation. 
+For several months, the Maia system has been a focal point in the ongoing hostility between the Empire and the Federation. 
 
-Now, [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] and [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] have announced plans to expand their presence in Maia by constructing new outposts. But with a shortage of reliable supply lines into the system, the superpowers are relying on the galactic community for help in compiling the necessary materials. Both are keenly aware that the finite nature of resources and support means only one will be able to proceed with its plans. 
+Now, the Empire and [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] have announced plans to expand their presence in Maia by constructing new outposts. But with a shortage of reliable supply lines into the system, the superpowers are relying on the galactic community for help in compiling the necessary materials. Both are keenly aware that the finite nature of resources and support means only one will be able to proceed with its plans. 
 
-Both [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] and [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] have promised to reward pilots who contribute construction materials to their respective campaigns. The Federal campaign is being coordinated by the Pleiades Resource Enterprise, while the Merope Expeditionary Fleet has been authorised to oversee the Imperial initiative. 
+Both the Empire and [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] have promised to reward pilots who contribute construction materials to their respective campaigns. The Federal campaign is being coordinated by the Pleiades Resource Enterprise, while the Merope Expeditionary Fleet has been authorised to oversee the Imperial initiative. 
 
 The rival campaigns begin on the 20th of April 3303 and will run for one week. If either faction achieves its aims earlier than planned, the campaign will end immediately.

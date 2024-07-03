@@ -2,7 +2,7 @@
 :ID:       5b5e3c5b-37fe-47c5-b7ed-0e4619c840bd
 :END:
 #+title: Community Goal: Expanding the Imperial Fleet
-#+filetags: :3302:galnet:
+#+filetags: :Empire:3302:galnet:
 
 * Community Goal: Expanding the Imperial Fleet
 
@@ -14,6 +14,6 @@ Lieutenant Severin, who is overseeing the ship's construction, issued a statemen
 
 "I know there are some who would question the need for this vessel. To those individuals, I say this: just how safe do you feel? We live in an age in which even Emperors can be murdered. An age in which our enemies' faces are not known to us, and betrayal and deceit are encountered at every turn. The need for a strong, battle-ready navy has never been greater." 
 
-"In order to complete production as swiftly as possible, we have placed an open order for supplies, and have authorised the Mundjiga Patrons of Law to reward pilots who deliver materials to our base of operations at Sagan Port. I implore all those who are loyal to [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] to support this operation." 
+"In order to complete production as swiftly as possible, we have placed an open order for supplies, and have authorised the Mundjiga Patrons of Law to reward pilots who deliver materials to our base of operations at Sagan Port. I implore all those who are loyal to the Empire to support this operation." 
 
 The campaign begins on the 21st of April 3302 and will run for one week. If the final target is met earlier than planned, the campaign will end immediately.

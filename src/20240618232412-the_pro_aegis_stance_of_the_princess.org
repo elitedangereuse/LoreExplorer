@@ -2,13 +2,13 @@
 :ID:       c001cc1a-af39-4233-8280-d6601a8e403e
 :END:
 #+title: The Pro-Aegis Stance of the Princess
-#+filetags: :galnet:
+#+filetags: :Empire:galnet:
 
 * The Pro-Aegis Stance of the Princess
 
 /23 Jan 3309/
 
-Princess Aisling Duval’s call for [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] to commit to a resumed Aegis project, alongside [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] and Federation, has received a harsh response. 
+Princess Aisling Duval’s call for the Empire to commit to a resumed Aegis project, alongside [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] and Federation, has received a harsh response. 
 
 Admiral [[id:75daea85-5e9f-4f6f-a102-1a5edea0283c][Denton Patreus]] was approached for comment by the Eye on Achenar newsfeed: 
 

@@ -2,7 +2,7 @@
 :ID:       f3d5cda1-6931-4463-91e5-8a1195becf85
 :END:
 #+title: Corporate Battle Erupts in Tavgi System
-#+filetags: :galnet:
+#+filetags: :Empire:galnet:
 
 * Corporate Battle Erupts in Tavgi System
 
@@ -24,6 +24,6 @@ A response was issued by Senator Zemina Torval:
 
 To support their combat operations, Tavgi Blue Life Inc and Torval Mining Ltd have called upon Federal and Imperial naval auxiliaries to report to Gordon Enterprise and the Orchestral Falcon respectively.  
 
-The conflict has heightened political tensions between [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] and the Federation. With the majority of superpower naval forces deployed to the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] front line, system authority vessels around Tavgi have been placed on alert.  
+The conflict has heightened political tensions between the Empire and the Federation. With the majority of superpower naval forces deployed to the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] front line, system authority vessels around Tavgi have been placed on alert.  
 
 President [[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][Zachary Hudson]] was quick to comment that “my administration upholds the right for our factions to seek justice”. Senator [[id:75daea85-5e9f-4f6f-a102-1a5edea0283c][Denton Patreus]] stated: “The Empire stands ready to shield its citizens, businesses and territories from attacks by foreign powers, xeno or otherwise.”

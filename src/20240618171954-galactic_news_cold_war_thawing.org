@@ -2,19 +2,19 @@
 :ID:       dcb4e40e-b438-439c-950b-e2fac38cd776
 :END:
 #+title: Galactic News: Cold War Thawing?
-#+filetags: :3303:galnet:
+#+filetags: :Empire:3303:galnet:
 
 * Galactic News: Cold War Thawing?
 
 /02 Sep 3303/
 
-Following news that scientists from the Alliance, Empire and Federation have united to form a new research initiative, speculation is mounting that the cold war between [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] and [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] could be nearing an end. 
+Following news that scientists from the Alliance, Empire and Federation have united to form a new research initiative, speculation is mounting that the cold war between the Empire and [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] could be nearing an end. 
 
 As the conflict enters its second year, a number of commentators have expressed hope that peace might be in sight. The Imperial Herald’s political correspondent, Daxton Sung, offered the following analysis: 
 
 “It’s inevitable that the formation of Aegis would lead to assumptions that the cold war is ending, but unfortunately there’s little evidence to that effect. These are the galaxy’s largest superpowers we’re talking about. The fact that there’s accord among certain sectors doesn’t mean there’s harmony at every level.” 
 
-“But what does either side have to gain from maintaining its position? Neither [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] nor [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] has demonstrated it can prevent the other from extracting meta-alloys, which is supposedly what this conflict is all about. The only person to have been significantly affected by all this is poor old Professor Palin, who’s still languishing behind a Federal blockade.” 
+“But what does either side have to gain from maintaining its position? Neither the Empire nor [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] has demonstrated it can prevent the other from extracting meta-alloys, which is supposedly what this conflict is all about. The only person to have been significantly affected by all this is poor old Professor Palin, who’s still languishing behind a Federal blockade.” 
 
 “Frankly, the situation is farcical. I suspect both [[id:34f3cfdd-0536-40a9-8732-13bf3a5e4a70][Arissa Lavigny-Duval]] and [[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][Zachary Hudson]] know they’re better off calling time on the whole thing, but neither side wants to be seen as ceding to the other. It’s about pride, essentially. Shouldn’t our leaders be above such things?” 
 

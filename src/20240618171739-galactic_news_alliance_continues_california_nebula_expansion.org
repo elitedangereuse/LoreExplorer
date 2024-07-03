@@ -2,7 +2,7 @@
 :ID:       96a7e47c-5858-46f6-bbfd-6fc5bbbe61ce
 :END:
 #+title: Galactic News: Alliance Continues California Nebula Expansion
-#+filetags: :3303:galnet:
+#+filetags: :Empire:3303:galnet:
 
 * Galactic News: Alliance Continues California Nebula Expansion
 
@@ -16,4 +16,4 @@ Now, fresh reports indicate that [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the 
 
 Kelvin Masters, a freelance journalist who regularly contributes to the Rewired news feed, commented on the development: 
 
-“Of course [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] wants the barnacles! They’d never admit it, of course. But that’s not the point. The point is what are [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] and Federation going to do about it. At the moment they’re preoccupied with Maia and Merope, but sooner or later they’re going to turn their attention to the California Nebula. And when that happens, the situation is going to escalate, I guarantee it.”
+“Of course [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] wants the barnacles! They’d never admit it, of course. But that’s not the point. The point is what are the Empire and Federation going to do about it. At the moment they’re preoccupied with Maia and Merope, but sooner or later they’re going to turn their attention to the California Nebula. And when that happens, the situation is going to escalate, I guarantee it.”

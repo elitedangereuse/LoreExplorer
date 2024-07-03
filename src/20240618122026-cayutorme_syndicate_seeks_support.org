@@ -2,7 +2,7 @@
 :ID:       2b55e435-7d82-4b4f-b240-6fcc4e4b9466
 :END:
 #+title: Cayutorme Syndicate Seeks Support
-#+filetags: :3301:galnet:
+#+filetags: :Empire:3301:galnet:
 
 * Cayutorme Syndicate Seeks Support
 
@@ -12,6 +12,6 @@ Imperial investigators have confirmed ties between Archon Delaine's Kumo Crew an
 
 The leader of the Cayutorme Syndicate, Kyle Kurowski, is now trying to encourage mercenaries to join his already-imposing armada: 
 
-"It is no great surprise that [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] would attempt to strong-arm an independent system within its territory. Our navy is capable of handling an Imperial task force, but we nevertheless would like to increase our numbers. Any independent pilots willing to help us repel the impending invasion will be compensated richly, and granted access to high-class outfitting." 
+"It is no great surprise that the Empire would attempt to strong-arm an independent system within its territory. Our navy is capable of handling an Imperial task force, but we nevertheless would like to increase our numbers. Any independent pilots willing to help us repel the impending invasion will be compensated richly, and granted access to high-class outfitting." 
 
 Commander Corrigendum

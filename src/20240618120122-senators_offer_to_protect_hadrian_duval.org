@@ -2,7 +2,7 @@
 :ID:       55889aad-2fc4-4a4e-8dd7-9a8130e9c1e4
 :END:
 #+title: Senators Offer to Protect Hadrian Duval
-#+filetags: :galnet:
+#+filetags: :Empire:galnet:
 
 * Senators Offer to Protect Hadrian Duval
 
@@ -14,7 +14,7 @@ An official pronouncement was made by Senator Caspian Leopold:
 
 “A majority of us believe that preserving the Duval bloodline is paramount for the future of the Empire. Hadrian Duval is not officially a member of the Imperial Family but he is the grandson of Emperor Hengist, meaning his as-yet unborn child is also of royal lineage.” 
 
-“The [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] has already murdered many Duvals, including Prince Harold. Indeed, Hadrian himself barely survived an assassination attempt last year. It’s clear that [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] can provide greater security than he currently has, and it is our duty to do so.” 
+“The [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] has already murdered many Duvals, including Prince Harold. Indeed, Hadrian himself barely survived an assassination attempt last year. It’s clear that the Empire can provide greater security than he currently has, and it is our duty to do so.” 
 
 “Therefore, we propose making both Hadrian and Lady Astrid wards of the Senate. They will be placed under the highest level of protection, at least until this grave threat has abated.” 
 

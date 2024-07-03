@@ -2,7 +2,7 @@
 :ID:       eab280a2-db5e-41e1-99e9-896b6ace6a44
 :END:
 #+title: Galactic News: Joint Superpower Initiative Announced
-#+filetags: :3303:galnet:
+#+filetags: :Empire:3303:galnet:
 
 * Galactic News: Joint Superpower Initiative Announced
 
@@ -18,6 +18,6 @@ Professor Tesreau said:
 
 “While I applaud recent efforts to learn more about the Thargoids, we can achieve far more by working together. It is imperative that we coordinate our efforts, and share our knowledge and expertise. That is what Aegis has been created to achieve.” 
 
-“Naturally, the cold war between [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] and [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] has complicated efforts to make this initiative a reality. Fortunately, while there may be antagonism between our governments, there is a strong desire for collaboration and cooperation within the scientific community.” 
+“Naturally, the cold war between [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] and the Empire has complicated efforts to make this initiative a reality. Fortunately, while there may be antagonism between our governments, there is a strong desire for collaboration and cooperation within the scientific community.” 
 
 Having received substantial funding from all three superpowers, Aegis will soon establish its first research outpost in the Pleiades Nebula.

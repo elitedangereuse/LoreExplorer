@@ -2,7 +2,7 @@
 :ID:       2630bd47-163c-469a-893a-770c1d0f0492
 :END:
 #+title: Nova Imperium Unveils Figurehead
-#+filetags: :3304:galnet:
+#+filetags: :Empire:3304:galnet:
 
 * Nova Imperium Unveils Figurehead
 
@@ -18,4 +18,4 @@ The group’s leader, Imperator Mordanticus, broadcast this message:
 
 The Imperial Herald’s political journalist Cassia Carvalho observed: 
 
-“This announcement has shaken [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] to its very foundations. Having Hadrian as a figurehead has rallied those hardliners more comfortable with the idea of a male Emperor. With a single stroke, Nova Imperium has gained considerable credibility and massively increased its support.”
+“This announcement has shaken the Empire to its very foundations. Having Hadrian as a figurehead has rallied those hardliners more comfortable with the idea of a male Emperor. With a single stroke, Nova Imperium has gained considerable credibility and massively increased its support.”

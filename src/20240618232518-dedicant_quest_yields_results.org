@@ -2,7 +2,7 @@
 :ID:       dc8107f7-31fb-4697-bf66-c05e19f9dc0d
 :END:
 #+title: Dedicant Quest Yields Results
-#+filetags: :galnet:
+#+filetags: :Empire:galnet:
 
 * Dedicant Quest Yields Results
 
@@ -40,6 +40,6 @@ Vice Admiral Amir Rafiq of the Imperial Navy provided an update:
 
 Executive Agent Jalen Locke of the Federal Intelligence Agency told the media: 
 
-“We appreciate the assistance from [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]]  , and from all the independent pilots who helped find this distress call. It has confirmed our theory that the prisoners managed to regain control of their former vessel, using various modifications made to its internal systems.” 
+“We appreciate the assistance from the Empire  , and from all the independent pilots who helped find this distress call. It has confirmed our theory that the prisoners managed to regain control of their former vessel, using various modifications made to its internal systems.” 
 
 “FIA security teams are standing by to launch a rescue mission as and when the Dedicant’s location is pinpointed. They will retake the megaship by force if necessary and detain   all Far God cultists onboard.”

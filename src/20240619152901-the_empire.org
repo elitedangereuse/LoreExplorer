@@ -2,7 +2,7 @@
 :ID:       77cf2f14-105e-4041-af04-1213f3e7383c
 :END:
 #+title: The Empire
-#+filetags: :KnowledgeBase:Codex:
+#+filetags: :Empire:KnowledgeBase:Codex:
 
 ** The Empire
 *** Introduction
@@ -41,21 +41,21 @@
 
 The Empire, while younger than the Federation, is the easily the equal
 of its historic rival in terms of scale and resources. The key social
-distinction between the two powers is that slavery in [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] is
+distinction between the two powers is that slavery in the Empire is
 legal -- a fact that has remained a source of controversy since its
-inception, both within [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] and without. Some observers have
+inception, both within the Empire and without. Some observers have
 pointed out, however, that conditions for those at the lowest levels of
 Federal society are worse than those experienced by Imperial slaves.
 
-The popular image of [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] is one of opulence, but while pomp and
+The popular image of the Empire is one of opulence, but while pomp and
 pageantry may be the norm in the core Imperial systems, elsewhere in
 Imperial space one can find myriad examples of deprivations and squalor.
-Indeed, [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] encompasses many striking contrasts: sophisticated
+Indeed, the Empire encompasses many striking contrasts: sophisticated
 technology exists alongside and ancient Roman system of government, and
 the affluence of the core worlds depends on often unregulated slave
 labour in the wretched outer colonies.
 
-Ruthless industrial efficiency and low taxation has made [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] rich
+Ruthless industrial efficiency and low taxation has made the Empire rich
 and mighty. The hierarchy of Imperial society is rigid, but a Citizen
 can always rise through the ranks if he or she becomes wealthy enough
 and makes the right connections. Even a slave could, in theory, become a
@@ -109,7 +109,7 @@ years, but these were unable to prevent Duval from expanding the Empire
 to many other worlds.
 
 **** The age of expansion.
-After hostilities with [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] ceased, [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] entered a
+After hostilities with [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] ceased, the Empire entered a
 century of growth, annexing many new systems and persuading others to
 join. It spent the following two centuries consolidating its new
 territory, appointing colonial administrators from among the noble
@@ -204,7 +204,7 @@ The belief in the sanctity of the human body originates with the first
 Emperor, Henson Duval. While he did not claim to be literally descended
 from the Gods in the manner of Roman Emperors of old, he declared that
 his won image was the paradigm to which others ought to aspire.
-Households across [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] were required to display a statue or bust
+Households across the Empire were required to display a statue or bust
 of the Emperor in a place of honour.
 
 Imperial Citizens are therefore expected to shun habits that corrupt or
@@ -253,7 +253,7 @@ or herself into slavery.
 
 Slaves may also be taken prisoner following a conflict, abducted from
 their home, or even captured in a hijacking. While trading slaves is
-lawful everywhere in [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] except on Emerald, taking new slaves
+lawful everywhere in the Empire except on Emerald, taking new slaves
 outside of wartime is illegal without the blessing of a Senator.
 
 *** Diplomatic Relations
@@ -262,19 +262,19 @@ Resentement of [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] runs 
 remembered as an opporessive, interfering force that hypocritcally
 avoids inflicting the slightest harm on nonhuman life, but thinks
 nothing of forcibly imposing its values on its fellow humans, and
-lacking the freedoms and social customs that [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] values so
+lacking the freedoms and social customs that the Empire values so
 dearly.
 
 While open hostility has frequently been the case in the past, the
 current situation is one of grudging coexistence beneath which mistrust
-simmers. Despite this antipathy, [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] cooperated with the
+simmers. Despite this antipathy, the Empire cooperated with the
 Federation in a series of joint initatives against the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] in the
 early 3300s.
 
 **** The Alliance.
 When [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] was founded in 3230 following a bitter conflict with
 the Empire and the Federation, multiple systems defected to it from both
-superpowers. To the surprise of many, [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] took very little
+superpowers. To the surprise of many, the Empire took very little
 further retributive action, partly because of the ill health of the
 Emperor of the time, and partly due to a belief that the defecting
 systems would return to their 'natural home' sooner or later.
@@ -292,6 +292,6 @@ The Imperial Senate is no longer as overshadowed by the Emperor as it
 once was, and has gained sufficient strength to act as a counterbalance
 to the Emperor's poltical will. The individual character of the Emperor
 still determines the Empire's overall direction, however, and the
-suggestion that [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] should evolve out of its old ways has proven
+suggestion that the Empire should evolve out of its old ways has proven
 deeply divisive.
 

@@ -2,7 +2,7 @@
 :ID:       fa05a7b5-7d21-489c-af82-329b300bb0ba
 :END:
 #+title: Aisling Duval Condemns Autonomy Group
-#+filetags: :galnet:
+#+filetags: :Empire:galnet:
 
 * [[id:b402bbe3-5119-4d94-87ee-0ba279658383][Aisling Duval]] Condemns Autonomy Group
 
@@ -16,6 +16,6 @@ Princess Aisling Duval, the charity’s patron, told the media:
 
 “Unchain has run similar operations to give illegal slaves their freedom, but licensed Imperial slaves require more care. The manumission process must be managed legally by a registered organisation, and each individual’s wellbeing ensured. You cannot simply set huge numbers of people loose as if they were zoo animals being released into the wild.” 
 
-“My dream is that one day [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] will abolish the indentured servitude system, and that every form of slavery will end. But until then, all emancipation efforts must operate within the law.” 
+“My dream is that one day the Empire will abolish the indentured servitude system, and that every form of slavery will end. But until then, all emancipation efforts must operate within the law.” 
 
 The situation in Port Isabelle remains tense, with thousands of emancipated individuals still clustered around makeshift shelters and occupied public buildings, begging for food and credits.

@@ -2,7 +2,7 @@
 :ID:       ac291238-591a-4b6e-8af9-756265043c2a
 :END:
 #+title: Winters Outlines Her Future Presidency
-#+filetags: :galnet:
+#+filetags: :Empire:galnet:
 
 * Winters Outlines Her Future Presidency
 
@@ -16,7 +16,7 @@ On defeating Vice President Jerome Archer:
 
 On the priorities for her forthcoming administration: 
 
-“Our government will expand investment in the Federation’s soft infrastructure, pulling the economy’s focus away from military projects and corporate profits. Many systems are in dire need of improved healthcare, housing and work opportunities. Billions of people need temporary financial support as refugees from the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] invasion. We are not [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] – we serve our people rather than rule over them.” 
+“Our government will expand investment in the Federation’s soft infrastructure, pulling the economy’s focus away from military projects and corporate profits. Many systems are in dire need of improved healthcare, housing and work opportunities. Billions of people need temporary financial support as refugees from the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] invasion. We are not the Empire – we serve our people rather than rule over them.” 
 
 On the Proactive Detection Bureau: 
 

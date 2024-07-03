@@ -2,7 +2,7 @@
 :ID:       76b00c04-0253-40b1-8884-9215c561c66d
 :END:
 #+title: Freelance Report: Game of Shadows
-#+filetags: :3302:galnet:
+#+filetags: :Empire:3302:galnet:
 
 * Freelance Report: Game of Shadows
 
@@ -14,6 +14,6 @@ The transmission asserts a connection between Core Dynamics, the destruction of 
 
 The message concluded: "Many of those who have tried to connect these seemingly disparate events have been silenced, along with their sources. That is why I have chosen to remain anonymous. So far, only pawns have been revealed in this shadowy game. We must discover the king." 
 
-Neither [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] nor [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] has chosen to comment on the transmission. 
+Neither [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] nor the Empire has chosen to comment on the transmission. 
 
 Commander Corrigendum

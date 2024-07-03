@@ -2,7 +2,7 @@
 :ID:       733ceac3-ddc4-4415-a1f0-3e7b62557a8c
 :END:
 #+title: Galaxy Reacts to Federal-Imperial Betrothal
-#+filetags: :3304:galnet:
+#+filetags: :Empire:3304:galnet:
 
 * Galaxy Reacts to Federal-Imperial Betrothal
 
@@ -14,7 +14,7 @@ A congratulatory message was sent from the Imperial Palace, but there has been n
 
 Senator [[id:d8e3667c-3ba1-43aa-bc90-dac719c6d5e7][Zemina Torval]] offered a more definite statement of disapproval: 
 
-“This is an attention-seeking move from the princess, and a dangerous one. It is beyond her remit to impact Imperial policy in this manner. Allowing her to harbour romantic fantasies is one thing, but [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] cannot countenance such a reckless political manoeuvre.” 
+“This is an attention-seeking move from the princess, and a dangerous one. It is beyond her remit to impact Imperial policy in this manner. Allowing her to harbour romantic fantasies is one thing, but the Empire cannot countenance such a reckless political manoeuvre.” 
 
 Senator Caspian Leopold, who until recently was rumoured to be courting Aisling Duval, was more supportive: 
 
@@ -22,7 +22,7 @@ Senator Caspian Leopold, who until recently was rumoured to be courting Aisling 
 
 There was no response from President Zachary Hudson, suggesting that the engagement was as unexpected to [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] as to the Empire. But a statement was made by Congressman Isolde Rochester, the mother of Jordan Rochester: 
 
-“I support my son’s relationship with Her Imperial Highness, and I consider this a positive step for all parties. The potential benefits of stronger ties between [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] and [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] are incalculable, particularly in the areas of trade and defence. Many of us in Congress hope that this happy event spearheads a new era of cooperation.” 
+“I support my son’s relationship with Her Imperial Highness, and I consider this a positive step for all parties. The potential benefits of stronger ties between the Empire and [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] are incalculable, particularly in the areas of trade and defence. Many of us in Congress hope that this happy event spearheads a new era of cooperation.” 
 
 Reactions from independent systems have ranged from joy to outrage. The only official response from [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] came from a spokesperson for the office of Prime Minister Edmund Mahon, who said: 
 

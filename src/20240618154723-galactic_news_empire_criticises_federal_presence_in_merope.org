@@ -2,7 +2,7 @@
 :ID:       359e94c1-589f-4d65-92e2-4e4d7ca0aba8
 :END:
 #+title: Galactic News: Empire Criticises Federal Presence in Merope
-#+filetags: :3302:galnet:
+#+filetags: :Empire:3302:galnet:
 
 * Galactic News: Empire Criticises Federal Presence in Merope
 
@@ -16,4 +16,4 @@ A recent statement from Admiral Maxton Price of the Federal Navy argued that the
 
 "There is no doubt in my mind that the Federation's decision to deploy warships in Merope represents an attempt to claim possession of the barnacles and the meta-alloys they produce. This is unacceptable." 
 
-Senator Torval refused to be drawn on what action, if any, [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] would take in response to the Federal blockade. But given the recent conflict between [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] and the Empire in the Daramo system, it seems likely that this development heralds further erosion of the Empire-Federation relationship.
+Senator Torval refused to be drawn on what action, if any, the Empire would take in response to the Federal blockade. But given the recent conflict between [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][the Federation]] and the Empire in the Daramo system, it seems likely that this development heralds further erosion of the Empire-Federation relationship.

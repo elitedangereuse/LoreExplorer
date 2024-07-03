@@ -2,7 +2,7 @@
 :ID:       9d259702-63f5-4290-80aa-f46e3235de9b
 :END:
 #+title: A Retrospective of 3308 (Part Three)
-#+filetags: :galnet:
+#+filetags: :Empire:galnet:
 
 * A Retrospective of 3308 (Part Three)
 
@@ -10,7 +10,7 @@
 
 The concluding article in a series by historian Sima Kalhana, providing an overview of last year’s key events. 
 
-“The aftermath of the Battle of HIP 22460 was an unsettling time. With Salvation dead, Azimuth Biotech fell under new management and struggled to maintain prominence. [[id:77cf2f14-105e-4041-af04-1213f3e7383c][The Empire]] withdrew from further collaborations with the other superpowers. And despite widespread fears of [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] reprisals, a xeno-peace movement sought diplomacy with the aliens to prevent further conflict.” 
+“The aftermath of the Battle of HIP 22460 was an unsettling time. With Salvation dead, Azimuth Biotech fell under new management and struggled to maintain prominence. The Empire withdrew from further collaborations with the other superpowers. And despite widespread fears of [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] reprisals, a xeno-peace movement sought diplomacy with the aliens to prevent further conflict.” 
 
 “September brought further mysteries with sightings of eight swirling anomalies in deep space, detectable by ship scanners within a certain range. Initially assumed to be stellar phenomena, these rogue signal sources were later discovered to be travelling faster than light.” 
 

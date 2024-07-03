@@ -2,7 +2,7 @@
 :ID:       06e3a49a-dbd9-4860-b4a2-874f246ca7d1
 :END:
 #+title: Senator Arissa Lavigny-Duval Calls Impromptu Press Conference
-#+filetags: :3301:galnet:
+#+filetags: :Empire:3301:galnet:
 
 * Senator [[id:34f3cfdd-0536-40a9-8732-13bf3a5e4a70][Arissa Lavigny-Duval]] Calls Impromptu Press Conference
 
@@ -12,7 +12,7 @@ Senator [[id:34f3cfdd-0536-40a9-8732-13bf3a5e4a70][Arissa Lavigny-Duval]] Calls 
  
 After the day’s Senate deliberations finished, Senator [[id:34f3cfdd-0536-40a9-8732-13bf3a5e4a70][Arissa Lavigny-Duval]] stopped to answer questions from the assembled reporters. When asked what she considered the most important issue facing the Empire, she replied: 
 
-“Most of all [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] needs stability and continuity. I was privileged to spend some time with Emperor [[id:3cb0755e-4deb-442b-898b-3f0c6651636e][Hengist Duval]] after he recovered from his coma. He shared with me a vision in which the Empire continues to build on its strengths of justice and tradition. 
+“Most of all the Empire needs stability and continuity. I was privileged to spend some time with Emperor [[id:3cb0755e-4deb-442b-898b-3f0c6651636e][Hengist Duval]] after he recovered from his coma. He shared with me a vision in which the Empire continues to build on its strengths of justice and tradition. 
 
 “It saddens me greatly that anyone, especially someone considering themselves an imperial citizen, could bring an end to such a great man. I consider it my duty to make sure that his vision becomes a reality.” 
 

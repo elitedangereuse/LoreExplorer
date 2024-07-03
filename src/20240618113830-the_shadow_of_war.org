@@ -2,19 +2,19 @@
 :ID:       376539cc-70a2-41f0-987b-32f6d22c685d
 :END:
 #+title: The Shadow of War
-#+filetags: :galnet:
+#+filetags: :Empire:galnet:
 
 * The Shadow of War
 
 /27 Nov 3306/
 
-NMLA terrorist attacks and the Marlinist refugee crisis have driven an increase in military spending from both [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] and the Federation. 
+NMLA terrorist attacks and the Marlinist refugee crisis have driven an increase in military spending from both the Empire and the Federation. 
 
 The Federal Times has reported on President Zachary Hudson’s actions: 
 
 “Building on the public outcry following the Neo-Marlinist bombing of a Federal starport, President Hudson has positioned himself once again as the Federation’s strongman. This is clearly a calculated effort to regain political power after negative associations from the Starship One trial.” 
 
-“Shadow President Felicia Winters’s acceptance of Marlinist refugees has lost popularity, now that terrorists concealed among them have murdered thousands. However, cooler heads in Congress agree that provoking [[id:77cf2f14-105e-4041-af04-1213f3e7383c][the Empire]] could lead to a far greater death toll.” 
+“Shadow President Felicia Winters’s acceptance of Marlinist refugees has lost popularity, now that terrorists concealed among them have murdered thousands. However, cooler heads in Congress agree that provoking the Empire could lead to a far greater death toll.” 
 
 The Empire’s response mirrored its counterpart, as observed by The Imperial Herald: 
 
