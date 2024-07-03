@@ -2,7 +2,7 @@
 :ID:       1017055e-4620-4701-890b-3dbd4e5b3f6e
 :END:
 #+title: Thargoid Revelations
-#+filetags: :Thargoid:3304:galnet:
+#+filetags: :Guardian:Thargoid:3304:galnet:
 
 * Thargoid Revelations
 
@@ -14,7 +14,7 @@ Key extracts from the report are reprinted below:
 
 “The codices indicate that the Thargoids may be an older race than the Guardians, and that the two species share a history of conflict. This hostility was a product of the Thargoids’ belief that they had a pre-existing claim to the regions of space occupied by the Guardians.” 
 
-“The [[id:f57cff55-3348-45ea-b76f-d0eaa3c68165][Guardians]] attempted to communicate with the Thargoids, but these efforts ended in failure. They determined that the Thargoids’ survival instincts were so strong that they could not tolerate any potential threat, including the proximity of another space-faring civilisation.” 
+“The Guardians attempted to communicate with the Thargoids, but these efforts ended in failure. They determined that the Thargoids’ survival instincts were so strong that they could not tolerate any potential threat, including the proximity of another space-faring civilisation.” 
 
 “It is now clear that the Guardians’ defensive drones and advanced weaponry were developed principally to protect their worlds from the Thargoids. Although details are scant, it seems these war machines eventually succeeded in repelling the Thargoids.” 
 

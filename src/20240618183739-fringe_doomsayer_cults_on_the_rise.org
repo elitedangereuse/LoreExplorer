@@ -2,7 +2,7 @@
 :ID:       cd87c56a-0b9c-40bf-b958-e208e4a2bf15
 :END:
 #+title: Fringe Doomsayer Cults on the Rise
-#+filetags: :Thargoid:3304:galnet:
+#+filetags: :Guardian:Thargoid:3304:galnet:
 
 * Fringe Doomsayer Cults on the Rise
 
@@ -14,7 +14,7 @@ Awareness of the issue has been raised by independent reporter Gethin Okonkwo, w
 
 “The return of the Thargoids has led to the emergence of dozens of radical groups. Although their nature varies, the message is the same: the apocalypse is coming.” 
 
-“Some of these groups are distinctly religious in flavour. The Church of the Eternal Void, for example, preaches that the war for human souls is almost lost. Their view of the Thargoids as ‘demons from a hellish universe’ and [[id:f57cff55-3348-45ea-b76f-d0eaa3c68165][the Guardians]] as ‘beings of light who have decreed us unworthy of salvation’ runs along classic theological lines.” 
+“Some of these groups are distinctly religious in flavour. The Church of the Eternal Void, for example, preaches that the war for human souls is almost lost. Their view of the Thargoids as ‘demons from a hellish universe’ and the Guardians as ‘beings of light who have decreed us unworthy of salvation’ runs along classic theological lines.” 
 
 “Others, such as Generation Omega, stoically accept that our time is almost over. They state that ‘superior spacefaring lifeforms will naturally destroy inferior ones, just as our own cultures have overrun each other since prehistory’. Generation Omega plans to build mass euthanasia centres for planetary populations, declaring that the human era deserves to end in a dignified manner.” 
 

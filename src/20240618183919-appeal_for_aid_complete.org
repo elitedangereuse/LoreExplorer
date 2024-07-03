@@ -2,13 +2,13 @@
 :ID:       1b8cf02b-7b92-4c1d-ac63-f28b0448f854
 :END:
 #+title: Appeal for Aid Complete
-#+filetags: :3304:galnet:
+#+filetags: :Guardian:3304:galnet:
 
 * Appeal for Aid Complete
 
 /01 Nov 3304/
 
-Senator Caspian Leopold has announced that his appeal for aid, in association with the Niflhel [[id:f57cff55-3348-45ea-b76f-d0eaa3c68165][Guardians]] Of Tradition, has been enthusiastically received by the galactic community. Hundreds of pilots supported the initiative by delivering commodities to Biruni Port, and by protecting traders in the Niflhel system. 
+Senator [[id:1d3d8a69-609b-4e83-b1a1-a46cb23ba195][Caspian Leopold]] has announced that his appeal for aid, in association with the [[id:2ad15cb1-9249-4380-9d86-ae5134de7faa][Niflhel]] Guardians Of Tradition, has been enthusiastically received by the galactic community. Hundreds of pilots supported the initiative by delivering commodities to Biruni Port, and by protecting traders in the Niflhel system. 
 
 A spokesperson for Senator Leopold made the following statement: 
 

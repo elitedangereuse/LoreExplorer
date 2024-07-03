@@ -2,7 +2,7 @@
 :ID:       500014e8-7059-4107-bd40-841219c7f7fd
 :END:
 #+title: Independent Pilots Respond to Thargoid Revelations
-#+filetags: :Thargoid:3304:galnet:
+#+filetags: :Guardian:Thargoid:3304:galnet:
 
 * Independent Pilots Respond to Thargoid Revelations
 
@@ -10,7 +10,7 @@
 
 Following the recent Aegis report detailing the Thargoids’ history, many members of the Pilots Federation have made public statements. 
 
-“Everything is different now,” said one Commander. “It was disturbing enough when the Thargoids returned. To find out they’ve been around for millions of years, and that even [[id:f57cff55-3348-45ea-b76f-d0eaa3c68165][the Guardians]] had trouble stopping them… It’s like being told that the ancient gods, the vengeful ones who smite from above, were real all along.” 
+“Everything is different now,” said one Commander. “It was disturbing enough when the Thargoids returned. To find out they’ve been around for millions of years, and that even the Guardians had trouble stopping them… It’s like being told that the ancient gods, the vengeful ones who smite from above, were real all along.” 
 
 Other pilots had more practical concerns about the impact on the galactic community: 
 
@@ -22,4 +22,4 @@ There were also emotional comments from those who value space exploration:
 
 However, one seasoned Commander struck a belligerent tone: 
 
-“All the Aegis report tells us is that these alien scumbags can be beaten. [[id:f57cff55-3348-45ea-b76f-d0eaa3c68165][The Guardians]] did it once – now it’s our turn. I’ve fought the Thargoids in the Pleiades and I know they’re not invincible. With Aegis’s new weapons and now their megaships, we can make those insects wish they’d stayed in their hives.”
+“All the Aegis report tells us is that these alien scumbags can be beaten. The Guardians did it once – now it’s our turn. I’ve fought the Thargoids in the Pleiades and I know they’re not invincible. With Aegis’s new weapons and now their megaships, we can make those insects wish they’d stayed in their hives.”

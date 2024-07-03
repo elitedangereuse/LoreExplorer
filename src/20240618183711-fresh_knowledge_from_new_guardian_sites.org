@@ -2,7 +2,7 @@
 :ID:       c1f0630f-4754-42aa-9664-255cac9be7e9
 :END:
 #+title: Fresh Knowledge From New Guardian Sites
-#+filetags: :3304:galnet:
+#+filetags: :Guardian:3304:galnet:
 
 * Fresh Knowledge From New Guardian Sites
 
@@ -16,4 +16,4 @@ Further details were outlined in his latest announcement:
 
 Pilots can obtain Ram Tah’s decryption algorithm from any station in the Meene system other than Felice Dock. The artefacts alluded to by [[id:4551539e-a6b2-4c45-8923-40fb603202b7][Ram Tah]] can be found at Guardian sites. Commanders are warned to be on alert, as the sites may be defended by Guardian drones. 
 
-Ram Tah also stated: “I will be more than pleased to reimburse any pilot who successfully returns to the Meene system with a complete series of Guardian logs. There is so much more for us to discover about [[id:f57cff55-3348-45ea-b76f-d0eaa3c68165][the Guardians]] and their history, and this could be a significant turning point in our understanding.”
+Ram Tah also stated: “I will be more than pleased to reimburse any pilot who successfully returns to the Meene system with a complete series of Guardian logs. There is so much more for us to discover about the Guardians and their history, and this could be a significant turning point in our understanding.”

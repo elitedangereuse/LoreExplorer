@@ -2,7 +2,7 @@
 :ID:       09343513-2893-458e-a689-5865fdc32e0a
 :END:
 #+title: Thargoids
-#+filetags: :Thargoid:Codex:
+#+filetags: :Guardian:Thargoid:Codex:
 * Objects
   - [[id:d17a9775-b9b5-4d26-b69f-16ced04f52a9][Thargoid Sensors]]
   - [[id:479ad5ac-c6b9-4358-870e-12058bd925cb][Thargoid Probes]]
@@ -220,7 +220,7 @@ by semi-sentient biomechanical entities called scavengers.
 
 *** War with the Guardians
 Archaeological records have revealed that the extinct nonhuman
-civilization known as [[id:f57cff55-3348-45ea-b76f-d0eaa3c68165][the Guardians]] experienced conflict with the
+civilization known as the Guardians experienced conflict with the
 Thargoids several million years ago.
 
 Logs recovered from Guardian sites indicate that the Thargoids were
@@ -228,10 +228,10 @@ the aggressor in this conflict. Having seeded Guardian space with
 biomechanical constructs used for resource extraction long before the
 emergence of the Guardians' civlisation, the Thargoids apparently
 believed they were entitled to uncontested dominion of the
-territory. [[id:f57cff55-3348-45ea-b76f-d0eaa3c68165][The Guardians]] attempted to communicate with the Thargoids
+territory. The Guardians attempted to communicate with the Thargoids
 and reach a compromise, but without success.
 
-Over the course of the conflict, [[id:f57cff55-3348-45ea-b76f-d0eaa3c68165][the Guardians]] developed new
+Over the course of the conflict, the Guardians developed new
 technologies to give them an advantage against the Thargoids. These
 technologies were apparently successful, forcing Thargoids to abandon
 their offensive.
@@ -245,7 +245,7 @@ studied and want to halt the process. But despite their evident
 intelligence, they appear to be completely uninterested in meaningful
 communication.
 
-The engineer Ram Tah, who has extensively researched [[id:f57cff55-3348-45ea-b76f-d0eaa3c68165][the Guardians]] and
+The engineer Ram Tah, who has extensively researched the Guardians and
 their war with the Thargoids, holds the view that Thargoid aggression
 is a product of territorialism. They seed an area with barnacles, thus
 laying claim to it, and return - sometimes many centuries later - to

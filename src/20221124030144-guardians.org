@@ -2,7 +2,7 @@
 :ID:       f57cff55-3348-45ea-b76f-d0eaa3c68165
 :END:
 #+title: Guardians
-#+filetags: :Codex:
+#+filetags: :Guardian:Codex:
 
 [[id:7a9c0dd7-907e-4130-95de-51f0e7d8329e][Guardian Structures]]
 [[id:800d1802-bb46-4f17-a686-bfffce6a549f][Guardian Ruins]]
