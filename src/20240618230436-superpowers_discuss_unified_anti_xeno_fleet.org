@@ -2,7 +2,7 @@
 :ID:       39a9ca76-6d26-4c84-bbdc-d0c716b75fd5
 :END:
 #+title: Superpowers Discuss Unified Anti-Xeno Fleet
-#+filetags: :galnet:
+#+filetags: :Alliance:galnet:
 
 * Superpowers Discuss Unified Anti-Xeno Fleet
 
@@ -14,7 +14,7 @@ Political journalist Conrad Sterling provided this report for Vox Galactica:
 
 “The public demand to address the evolving [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] threat has led to key military personnel suggesting that the Allied, Federal and Imperial naval fleets could work in concert for the duration of the war. This once-inconceivable notion seems more plausible following the coalition in HIP 22460, despite the regrettable outcome of that operation.” 
 
-“Sources have confirmed that Admiral Rachel Ziegler sought to contact Admiral Maxton Price directly, to discuss ways in which [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] Defence Force and Federal Navy might collaborate. Others have openly supported the idea of ‘a glorious grand armada to wipe out the alien hordes,’ as Vice Admiral Juno Rochester phrased it.” 
+“Sources have confirmed that Admiral Rachel Ziegler sought to contact Admiral Maxton Price directly, to discuss ways in which the Alliance Defence Force and Federal Navy might collaborate. Others have openly supported the idea of ‘a glorious grand armada to wipe out the alien hordes,’ as Vice Admiral Juno Rochester phrased it.” 
 
 “However, there has been little in the way of political enthusiasm, with neither the Assembly nor Congress willing to debate the topic. Many leaders had their fingers burnt by aiding Salvation, which could dissuade them from extending the hand of comradeship once again.” 
 

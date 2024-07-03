@@ -2,7 +2,7 @@
 :ID:       6f4dc53c-1157-4419-b109-944f2b49435d
 :END:
 #+title: Week in Review 05 Aug 3304
-#+filetags: :3304:galnet:
+#+filetags: :Alliance:3304:galnet:
 
 * Week in Review
 
@@ -12,7 +12,7 @@ Here are this week’s major stories.
 
 An attempt to assassinate Princess [[id:b402bbe3-5119-4d94-87ee-0ba279658383][Aisling Duval]] has been prevented by the Imperial Internal Security Service. The attempt occurred in the Zhao system during a fundraising event. The IISS is analysing the explosives used in the attempt to determine their origin. 
 
-Meanwhile, former rear admiral Riri McAllister has been shot. She is currently undergoing medical treatment. The incident took place at [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] Chamber of Justice on Turner’s World in the Alioth system. McAllister was on trial for organising acts of terrorism as Nexus, founder of the League of Reparation.  
+Meanwhile, former rear admiral Riri McAllister has been shot. She is currently undergoing medical treatment. The incident took place at the Alliance Chamber of Justice on Turner’s World in the Alioth system. McAllister was on trial for organising acts of terrorism as Nexus, founder of the League of Reparation.  
 
 The Federal Intelligence Agency has launched an investigation into the Far God cult. Several members of the sect have been arrested. An FIA agent said that the purpose of the investigation was to confirm that the sect was not in contact with [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] forces, or being influenced by them. 
 
@@ -20,6 +20,6 @@ In other news, Aranbarahun Purple Creative, an independent organisation based in
 
 Celebrated author Olav Redcourt has cancelled the promotional tour for his latest novel. In a statement, the author said he was abandoning the historical-romance genre in favour of a new science-fiction saga. The author’s agent responded by underscoring that science-fiction is a niche genre with a tiny audience. 
 
-Finally, [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] has announced that its appeal for mined resources has reached a successful conclusion, having received an overwhelming response from the galactic community. Huge quantities of raw material were delivered to California Gateway over the past week, which will be used to construct an Ocellus starport in the MEL 22 Sector GM-V C2-8 system. 
+Finally, the Alliance has announced that its appeal for mined resources has reached a successful conclusion, having received an overwhelming response from the galactic community. Huge quantities of raw material were delivered to California Gateway over the past week, which will be used to construct an Ocellus starport in the MEL 22 Sector GM-V C2-8 system. 
 
 And those are the main stories this week.

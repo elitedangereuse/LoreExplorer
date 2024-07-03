@@ -3,7 +3,7 @@
 :ROAM_ALIASES: "Epsilon Ursae Majoris"
 :END:
 #+title: Alioth
-#+filetags: :Federation:Empire:beacon:Reputation:Alliance:Permit:System:
+#+filetags: :Alliance:Federation:Empire:beacon:Reputation:Permit:System:
 [[file:img/permit.png]]
 
 #+begin_quote

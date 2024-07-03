@@ -2,7 +2,7 @@
 :ID:       a7599231-eb21-4f11-a870-62c933ffa3de
 :END:
 #+title: Tritium Mining Campaign Boosts Alliance Expansion
-#+filetags: :galnet:
+#+filetags: :Alliance:galnet:
 
 * Tritium Mining Campaign Boosts Alliance Expansion
 
@@ -22,6 +22,6 @@ Sharru Sector FW-W c1-19
 
 Prime Minister Mahon, who was recently re-elected by the Assembly, told the media: 
 
-“The economy of [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] will benefit greatly from investment in expansion. These new stations will provide more opportunities for individuals and corporations alike.” 
+“The economy of the Alliance will benefit greatly from investment in expansion. These new stations will provide more opportunities for individuals and corporations alike.” 
 
 Pilots who mined and delivered tritium can now collect their rewards from Dublin Citadel in the Gateway system.

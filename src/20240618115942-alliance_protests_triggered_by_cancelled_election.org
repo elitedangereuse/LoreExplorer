@@ -2,7 +2,7 @@
 :ID:       d8790a82-48ce-49ef-856b-90e08f93ed7f
 :END:
 #+title: Alliance Protests Triggered by Cancelled Election
-#+filetags: :galnet:
+#+filetags: :Alliance:galnet:
 
 * Alliance Protests Triggered by Cancelled Election
 
@@ -18,6 +18,6 @@ Mahon has referred to the unrest as being caused by a “vocal minority of agita
 
 Councillor Nakato Kaine, Mahon’s main rival, has given the protests her full support. She has become a figurehead for public dissent, with some political pundits suggesting that she might have won the election had it been held this week. 
 
-Speaking to [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][The Alliance]] Tribune, Councillor Kaine said: 
+Speaking to The Alliance Tribune, Councillor Kaine said: 
 
 “This is the latest in a string of short-sighted decisions, and it’s clear that the people no longer trust their prime minister. For this reason, despite believing the Galactic Summit to be a waste of time, I will be attending the conference to ensure that Mahon’s agenda does not dominate proceedings.”

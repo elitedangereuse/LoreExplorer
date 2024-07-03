@@ -2,7 +2,7 @@
 :ID:       8d733f9c-d700-441a-a1a6-279851291178
 :END:
 #+title: Peace in Her Time: A Profile of Jasmina Halsey
-#+filetags: :Federation:3304:galnet:
+#+filetags: :Alliance:Federation:3304:galnet:
 
 * Peace in Her Time: A Profile of Jasmina Halsey
 
@@ -18,4 +18,4 @@ Key extracts from the article are reprinted below:
 
 “Critics argue that Halsey’s extraordinary claims of encountering super-intelligent beings and seeing paradise are meaningless without evidence. And yet, in a cosmos containing [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] and Guardians, can they be easily dismissed? Or are her outlandish claims designed to cultivate a following among the disenfranchised and make her into a messianic figure?” 
 
-“If Halsey is walking a deliberate path, it remains an unstable one. Many in [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] have questioned why their leader is taking advice from a former psychiatric patient, let alone an ex-Federal President. Whether she is a visionary, a lunatic or a brilliant political manipulator remains to be seen.”
+“If Halsey is walking a deliberate path, it remains an unstable one. Many in the Alliance have questioned why their leader is taking advice from a former psychiatric patient, let alone an ex-Federal President. Whether she is a visionary, a lunatic or a brilliant political manipulator remains to be seen.”

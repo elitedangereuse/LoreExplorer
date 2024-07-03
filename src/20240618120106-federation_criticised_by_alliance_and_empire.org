@@ -2,7 +2,7 @@
 :ID:       82c28610-7bfd-42e1-badc-69b5bc5311db
 :END:
 #+title: Federation Criticised by Alliance and Empire
-#+filetags: :Federation:galnet:
+#+filetags: :Alliance:Federation:galnet:
 
 * Federation Criticised by Alliance and Empire
 
@@ -12,7 +12,7 @@ Alliance and Imperial leaders have responded to the recent wave of Federal syste
 
 Eight factions have now severed ties with the Federation, in response to government surveillance of all private and public communications. 
 
-In an interview with [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][The Alliance]] Tribune, Deputy Prime Minister Angela Corcoran remarked: 
+In an interview with The Alliance Tribune, Deputy Prime Minister Angela Corcoran remarked: 
 
 “The Proactive Detection Bureau’s intrusive nature has caused millions of people to rightfully demand self-rule. President Hudson should be fearful that history might view him as the Federation’s first dictator.” 
 
@@ -22,4 +22,4 @@ Senator Denton Patreus’s comments were featured by Eye on Achenar:
 
 Federal newsfeed Sol Today published a response by Vice President Jerome Archer: 
 
-“Both [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] and Empire have chosen a reactionary approach to terrorism, whereas the Federation has made great strides in intelligence-gathering and preventative action. I’m confident that the Proactive Detection Bureau will come to be accepted as one of the galaxy’s greatest innovations.”
+“Both the Alliance and Empire have chosen a reactionary approach to terrorism, whereas the Federation has made great strides in intelligence-gathering and preventative action. I’m confident that the Proactive Detection Bureau will come to be accepted as one of the galaxy’s greatest innovations.”

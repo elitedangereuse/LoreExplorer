@@ -2,7 +2,7 @@
 :ID:       89029524-f9ce-4e0f-b4e0-cb8519bacb16
 :END:
 #+title: Innitu's Assassination
-#+filetags: :beacon:
+#+filetags: :Alliance:beacon:
 * 0152 Innitu's Assassination
 [[id:0db1f0b9-a70d-4384-96a5-c1587a8270b1][Beta Hydri]]
 

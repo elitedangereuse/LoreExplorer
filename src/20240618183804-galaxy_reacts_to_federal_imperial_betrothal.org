@@ -2,7 +2,7 @@
 :ID:       733ceac3-ddc4-4415-a1f0-3e7b62557a8c
 :END:
 #+title: Galaxy Reacts to Federal-Imperial Betrothal
-#+filetags: :Federation:Empire:3304:galnet:
+#+filetags: :Alliance:Federation:Empire:3304:galnet:
 
 * Galaxy Reacts to Federal-Imperial Betrothal
 
@@ -24,6 +24,6 @@ There was no response from President Zachary Hudson, suggesting that the engagem
 
 “I support my son’s relationship with Her Imperial Highness, and I consider this a positive step for all parties. The potential benefits of stronger ties between the Empire and the Federation are incalculable, particularly in the areas of trade and defence. Many of us in Congress hope that this happy event spearheads a new era of cooperation.” 
 
-Reactions from independent systems have ranged from joy to outrage. The only official response from [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] came from a spokesperson for the office of Prime Minister Edmund Mahon, who said: 
+Reactions from independent systems have ranged from joy to outrage. The only official response from the Alliance came from a spokesperson for the office of Prime Minister Edmund Mahon, who said: 
 
 “The Alliance offers cordial congratulations to the couple, although it remains to be seen if their intentions become a reality.”

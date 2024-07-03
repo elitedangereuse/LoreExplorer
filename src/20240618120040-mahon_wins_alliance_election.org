@@ -2,7 +2,7 @@
 :ID:       fa67971c-fab0-4043-89e8-68e5d48aa32c
 :END:
 #+title: Mahon Wins Alliance Election
-#+filetags: :galnet:
+#+filetags: :Alliance:galnet:
 
 * Mahon Wins Alliance Election
 
@@ -16,6 +16,6 @@ Prime Minister Mahon gave a victory speech to the public:
 
 “It is my great honour to continue serving the diverse peoples of the Alliance. We will hold fast to our principles of democracy, prosperity and mutual defence, no matter what the galaxy throws at us.” 
 
-Vanya Driscoll, political correspondent for [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][The Alliance]] Tribune, observed: 
+Vanya Driscoll, political correspondent for The Alliance Tribune, observed: 
 
-“With the core systems affected by political unrest, terrorist threats and economic turmoil, it is no surprise that the Assembly voted for stability. Mahon is a known quantity, and [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] has become reliant on his calm, measured leadership.”
+“With the core systems affected by political unrest, terrorist threats and economic turmoil, it is no surprise that the Assembly voted for stability. Mahon is a known quantity, and the Alliance has become reliant on his calm, measured leadership.”

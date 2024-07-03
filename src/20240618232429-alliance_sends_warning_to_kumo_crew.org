@@ -2,7 +2,7 @@
 :ID:       e715a60e-9190-4627-beea-681b78c76624
 :END:
 #+title: Alliance Sends Warning to Kumo Crew
-#+filetags: :galnet:
+#+filetags: :Alliance:galnet:
 
 * Alliance Sends Warning to Kumo Crew
 
@@ -22,4 +22,4 @@ Prime Minister [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74][Edmund Mahon]] deliver
 
 “The Kumo Council’s opportunistic attempt to profit from the horrors of a [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] invasion is a truly despicable act. But it has not gone unnoticed that they have suffered setbacks in Haithis, Kolabinates and Saontiana since this misguided effort to disrupt Allied operations. I am grateful to the communities within the California Nebula, and to those independents who aided them, for resisting these criminals.” 
 
-“My message to [[id:7aae0550-b8ba-42cf-b52b-e7040461c96f][Archon Delaine]] is this: [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][The Alliance]] is watching you.”
+“My message to [[id:7aae0550-b8ba-42cf-b52b-e7040461c96f][Archon Delaine]] is this: The Alliance is watching you.”

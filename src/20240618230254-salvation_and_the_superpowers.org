@@ -2,7 +2,7 @@
 :ID:       507695d8-6d46-4d55-9ae6-c05f98219662
 :END:
 #+title: Salvation and the Superpowers
-#+filetags: :galnet:
+#+filetags: :Alliance:galnet:
 
 * Salvation and the Superpowers
 
@@ -18,4 +18,4 @@ Vox Galactica published a report from political correspondent Conrad Sterling:
 
 “In the Federation, Fleet Admiral Tayo Maikori has revived his investigation into Salvation and is hoping to authenticate the INRA logs. But other Federal leaders have adopted a ‘wait and see’ approach, refusing to be drawn on the controversy.” 
 
-“A broader range of reactions can be heard from the Alliance, albeit with little change in policy. Admiral Rachel Ziegler acknowledged that the accusations must be taken seriously, but added: ‘With the Sirius Corporation defence pact still under debate, and [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] lacking a proper naval force, we must continue to utilise all military options available to us.’”
+“A broader range of reactions can be heard from the Alliance, albeit with little change in policy. Admiral Rachel Ziegler acknowledged that the accusations must be taken seriously, but added: ‘With the Sirius Corporation defence pact still under debate, and the Alliance lacking a proper naval force, we must continue to utilise all military options available to us.’”

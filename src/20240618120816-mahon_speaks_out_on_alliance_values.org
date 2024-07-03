@@ -2,7 +2,7 @@
 :ID:       99e77f7d-b8ae-4215-85cf-95261602749c
 :END:
 #+title: Mahon speaks out on Alliance Values
-#+filetags: :Federation:Empire:3301:galnet:
+#+filetags: :Alliance:Federation:Empire:3301:galnet:
 
 * Mahon speaks out on Alliance Values
 
@@ -14,8 +14,8 @@ Prime Minister Mahon gave a speech today to the assembled graduates of the estee
 
 “The Alliance of Independent Systems is built upon a single defining principle and that is one of freedom. The freedoms we enjoy range from our personal freedoms as inscribed in the Bill of Human Rights to the freedom of societies and even planets within the Alliance. 
 
-“But we should not accept this grace blindly or assume that its existence continues by mere chance. The birth of [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] came from removing the burden of the Federation and the Empire who for centuries fought each other for our resources and we were caught helpless in the middle. 
+“But we should not accept this grace blindly or assume that its existence continues by mere chance. The birth of the Alliance came from removing the burden of the Federation and the Empire who for centuries fought each other for our resources and we were caught helpless in the middle. 
 
 “Both of those organisations proudly describe their origins as being freedom from the tyranny of others. And yet now they are the tyranny and it is our duty to oppose them, while also ensuring that we don’t become them.” 
 
-The speech then turned to the minutiae of the Alliance’s democratic process. But pundits were quick to comment that this was a bold statement from the Prime Minister and that perhaps the recent successes in the Old Worlds region show a more robust future for [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] in galactic politics.
+The speech then turned to the minutiae of the Alliance’s democratic process. But pundits were quick to comment that this was a bold statement from the Prime Minister and that perhaps the recent successes in the Old Worlds region show a more robust future for the Alliance in galactic politics.

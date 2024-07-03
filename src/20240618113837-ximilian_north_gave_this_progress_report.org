@@ -2,7 +2,7 @@
 :ID:       d72f51e6-9052-444b-befd-71110364aa54
 :END:
 #+title: ximilian North gave this progress report: 
-#+filetags: :galnet:
+#+filetags: :Alliance:galnet:
 
 * Coalsack Nebula Terraforming Project Stalls
 
@@ -10,7 +10,7 @@
 
 Sirius Atmospherics has delivered an update on its experiments to terraform ammonia worlds in the Coalsack Nebula. 
 
-The subsidiary of Sirius Corporation is working closely with [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] to exploit the nebula’s resources and pursue scientific investigation, including terraforming terrestrial planets with ammonia-based atmospheres. 
+The subsidiary of Sirius Corporation is working closely with the Alliance to exploit the nebula’s resources and pursue scientific investigation, including terraforming terrestrial planets with ammonia-based atmospheres. 
 
 Project director Dr [[id:eb0165b3-7d95-4887-ad0c-3db012756434][Maximilian North]] gave this progress report: 
 

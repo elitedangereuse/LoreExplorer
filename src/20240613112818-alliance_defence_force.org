@@ -3,12 +3,12 @@
 :ROAM_ALIASES: ADF
 :END:
 #+title: Alliance Defence Force
-#+filetags: :beacon:
+#+filetags: :Alliance:beacon:
 * 0114 Alliance Defence Force
 [[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]]
 
 Barring the small Alliance Defence Force for defending key components
-of [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] bureaucracy there is no central Alliance Navy to
+of the Alliance bureaucracy there is no central Alliance Navy to
 compare with the other major powers. Instead a headquarters
 organisation exists staffed by the Council of Admirals and their
 support staff.

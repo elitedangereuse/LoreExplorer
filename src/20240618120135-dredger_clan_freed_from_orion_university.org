@@ -2,7 +2,7 @@
 :ID:       adfdadb8-8f78-43ef-8a0d-900a8bdf1741
 :END:
 #+title: Dredger Clan Freed from Orion University
-#+filetags: :galnet:
+#+filetags: :Alliance:galnet:
 
 * Dredger Clan Freed from Orion University
 
@@ -12,7 +12,7 @@
 
 The Scriveners Clan dredger has been fully repaired, following twin initiatives in the HIP 43670 system. 
 
-A campaign by supporters of the Scriveners Clan delivered emergency power cells, power converters and power transfer buses to [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] of HIP 42371 at Oramus Terminal. A spokesperson for the group announced: 
+A campaign by supporters of the Scriveners Clan delivered emergency power cells, power converters and power transfer buses to the Alliance of HIP 42371 at Oramus Terminal. A spokesperson for the group announced: 
 
 “As a result of our efforts, the dredger has received sufficient supplies to effect repairs. Most importantly, the new power systems mean it will shortly be able to bypass Orion University’s override codes and be free to travel the galaxy once more.” 
 

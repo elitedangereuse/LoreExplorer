@@ -2,7 +2,7 @@
 :ID:       a5424d9d-fa37-4213-ba95-be8c616b9c64
 :END:
 #+title: Assembly to Vote on Proposed Changes
-#+filetags: :3304:galnet:
+#+filetags: :Alliance:3304:galnet:
 
 * Assembly to Vote on Proposed Changes
 
@@ -16,7 +16,7 @@ Prime Minister [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74][Edmund Mahon]] told th
 
 “After much discussion, the Assembly has agreed to vote on President Kincaid’s proposals in mid-October, at the same time as the presidential election. We will announce any amendments to the constitution shortly afterwards.” 
 
-Milo Vesper, editor of [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][The Alliance]] Tribune, discussed this development: 
+Milo Vesper, editor of The Alliance Tribune, discussed this development: 
 
 “President Kincaid’s proposals are seen by some as a long-overdue restructure of the political system. Compared to the current bureaucratic procedure, having a single person make all executive decisions has an obvious appeal. But some in the Assembly are concerned that such changes could imbue the president with emperor-like levels of authority.” 
 

@@ -2,7 +2,7 @@
 :ID:       90a69fb4-2557-4c80-80b4-acfb3543fb10
 :END:
 #+title: Alliance Council Members
-#+filetags: :beacon:
+#+filetags: :Alliance:beacon:
 * 0116 Alliance Council Members
 [[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]]
 
@@ -11,9 +11,9 @@ Alliance Assembly, based on the size of their respective
 populations. Some only have one. The Prime Minister is elected by the
 Members, and it is his or her job to corral them into some sort of
 consensus; generally a slow process. There is much less tradition than
-in the other powers, and processes within [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] Assembly are
+in the other powers, and processes within the Alliance Assembly are
 still subject to change - generally when arguments break out, as they
-frequently do. In practice [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] is largely run by Civil
+frequently do. In practice the Alliance is largely run by Civil
 Servants - salaried officials that look after day to day running of
 the Alliance, generally not getting involved in the political
 struggles.

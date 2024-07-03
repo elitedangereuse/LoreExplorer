@@ -2,7 +2,7 @@
 :ID:       7aa60b34-67af-459c-a3e9-6977ed4f1b69
 :END:
 #+title: Galactic News: Lakon Announces New Ship
-#+filetags: :3303:galnet:
+#+filetags: :Alliance:3303:galnet:
 
 * Galactic News: Lakon Announces New Ship
 
@@ -14,6 +14,6 @@ Lakon issued the following statement:
 
 “The Type-10 boasts greater speed, acceleration and manoeuvrability than the Type-9, and also offers a more focused hardpoint loadout. We envisage it being particularly effective in combat situations.” 
 
-The development is significant in that it represents the first overtly military response from [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] to the rising [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] threat. 
+The development is significant in that it represents the first overtly military response from the Alliance to the rising [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] threat. 
 
 Lakon has committed to an aggressive production schedule that should see the Type-10 reaching retailers next week.

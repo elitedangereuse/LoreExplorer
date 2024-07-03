@@ -2,7 +2,7 @@
 :ID:       d1545e97-076b-4d7d-897c-0fc57741cd69
 :END:
 #+title: Jasmina Halsey Becomes Federal Ambassador
-#+filetags: :Federation:Empire:galnet:
+#+filetags: :Alliance:Federation:Empire:galnet:
 
 * [[id:a9ccf59f-436e-44df-b041-5020285925f8][Jasmina Halsey]] Becomes Federal Ambassador
 
@@ -16,7 +16,7 @@ At a press conference, Ambassador Halsey said:
 
 “Being at the conference reminded me that the political arena is where I belong. My new responsibilities allow me to continue serving the Federation while making use of my experience within the Alliance, and hopefully build stronger bridges between the two.” 
 
-Elijah Beck, head of [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] Office of Diplomatic Relations, sent this message: 
+Elijah Beck, head of the Alliance Office of Diplomatic Relations, sent this message: 
 
 “Jasmina’s level-headed advice has calmed many tense political situations. This is the ideal role for a diplomat of her calibre, and I look forward to working with her again.” 
 

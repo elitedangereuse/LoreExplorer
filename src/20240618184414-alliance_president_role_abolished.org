@@ -2,7 +2,7 @@
 :ID:       7272efb4-beca-4611-a9fa-925069395e60
 :END:
 #+title: Alliance President Role Abolished
-#+filetags: :galnet:
+#+filetags: :Alliance:galnet:
 
 * Alliance President Role Abolished
 
@@ -12,9 +12,9 @@ The Alliance Assembly has permanently dissolved the role of President of the All
 
 Summarising the vote, Prime Minister [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74][Edmund Mahon]] said: 
 
-“Recent events have made it clear that the presidential position is open to misuse, which places the integrity of [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] at risk. Following a thorough debate on the matter, this Assembly has voted – by an overwhelming majority – to remove the role from our constitution.” 
+“Recent events have made it clear that the presidential position is open to misuse, which places the integrity of the Alliance at risk. Following a thorough debate on the matter, this Assembly has voted – by an overwhelming majority – to remove the role from our constitution.” 
 
-“The defunct Office of [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] President will now be restructured. Many emissaries will be retained to serve as the non-political ambassadors they were intended to be. Councillor Elijah Beck has volunteered to resign in order to oversee the new department.” 
+“The defunct Office of the Alliance President will now be restructured. Many emissaries will be retained to serve as the non-political ambassadors they were intended to be. Councillor Elijah Beck has volunteered to resign in order to oversee the new department.” 
 
 “We hope that this unfortunate chapter of Alliance history has now been brought to an end.” 
 

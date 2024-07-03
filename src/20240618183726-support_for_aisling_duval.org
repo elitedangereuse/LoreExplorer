@@ -2,7 +2,7 @@
 :ID:       0e4b537d-a69b-4950-8c08-e3bc2051373e
 :END:
 #+title: Support for Aisling Duval
-#+filetags: :3304:galnet:
+#+filetags: :Alliance:3304:galnet:
 
 * Support for Aisling Duval
 
@@ -14,7 +14,7 @@ One of the most prominent figures to express solidarity is Imperial Senator Pal 
 
 “One cannot accuse Aegis of being completely ineffective, but perhaps Her Highness has correctly gauged the mood of the people. A handful of minor victories is simply not enough to allay widespread fear of conquest. There can be no half measures in this situation – if we do not defeat the Thargoids, our civilisation could fall.” 
 
-Meanwhile, Commodore Riri McAllister of [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] Defence Force said: 
+Meanwhile, Commodore Riri McAllister of the Alliance Defence Force said: 
 
 “I can certainly refute Princess Duval’s suggestion that the other powers have not made equal contributions to Aegis. She makes a good point, however, with regard to military strategy. Greater transparency around Aegis’s long-term plans would lead to a more coordinated effort in resisting [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] forces.” 
 

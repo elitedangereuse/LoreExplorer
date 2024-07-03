@@ -2,10 +2,10 @@
 :ID:       d4b595af-536d-4575-af11-f07f3ac3ff40
 :END:
 #+title: Arque
-#+filetags: :System:
+#+filetags: :Alliance:System:
 
 #+begin_quote
-A growing colony that formally joined the [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][Alliance]] in 3278. Many of
+A growing colony that formally joined the Alliance in 3278. Many of
 the local corporations are now subsidiaries of [[id:36b937d8-9325-4e59-99ad-95297ac99bd2][Wreaken Construction and Mining]].
 
 The [[id:6be57ee8-1d53-4dfb-b349-6dcdca41462f][Wings of the Void]] were originally a group established to unify

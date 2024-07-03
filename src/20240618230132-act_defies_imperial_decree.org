@@ -2,7 +2,7 @@
 :ID:       dddeb160-820b-45ff-88f4-667417da2179
 :END:
 #+title: ACT Defies Imperial Decree
-#+filetags: :Empire:galnet:
+#+filetags: :Alliance:Empire:galnet:
 
 * ACT Defies Imperial Decree
 
@@ -18,7 +18,7 @@ Inspector Mara Klatt, one of ACT’s co-leaders, told the media:
 
 Civil and military leaders in the Empire have reacted with outrage, including Senator Zemina Torval: 
 
-“Are we expected to risk our citizens’ lives by letting our security services be compromised? How might [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] or Federation respond if we attempted to hack into Interpol or the FIA?” 
+“Are we expected to risk our citizens’ lives by letting our security services be compromised? How might the Alliance or Federation respond if we attempted to hack into Interpol or the FIA?” 
 
 However, a plea for cooperation was made by Princess Aisling Duval: 
 

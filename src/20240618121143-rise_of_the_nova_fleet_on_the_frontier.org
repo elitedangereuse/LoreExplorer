@@ -2,7 +2,7 @@
 :ID:       b983e6e7-9d9e-4767-9581-2243e2daa809
 :END:
 #+title: Rise of the Nova Fleet on the Frontier
-#+filetags: :3301:galnet:
+#+filetags: :Alliance:3301:galnet:
 
 * Rise of the Nova Fleet on the Frontier
 
@@ -20,6 +20,6 @@ Up until now the Nova Fleet constituted a loosely bound alliance of like-minded 
 
 A spokesperson for the Nova Fleet talked to us about their objectives: 
 
-"The Nova Fleet will bring prosperity and security to the frontier of the human civilization. We will avoid political entanglements with the superpowers and their lackeys. The truth of our intentions can be seen from the pilots who once served Federation, Empire and even [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] who’ve joined us! We should not be underestimated. We will bring security to the frontier, even if that means to fight against the Empire, the Feds or bloody aliens!" 
+"The Nova Fleet will bring prosperity and security to the frontier of the human civilization. We will avoid political entanglements with the superpowers and their lackeys. The truth of our intentions can be seen from the pilots who once served Federation, Empire and even the Alliance who’ve joined us! We should not be underestimated. We will bring security to the frontier, even if that means to fight against the Empire, the Feds or bloody aliens!" 
 
 Their influence and fame seems to spread fast, and with over 100 ships, their number of associates grows even faster.

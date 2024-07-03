@@ -2,17 +2,17 @@
 :ID:       ba2ce1df-7773-465f-bde3-b262761507ab
 :END:
 #+title: Kincaid Raises Concerns after Nova Imperium
-#+filetags: :Empire:galnet:
+#+filetags: :Alliance:Empire:galnet:
 
 * Kincaid Raises Concerns after Nova Imperium
 
 /07 Feb 3305/
 
-President Gibson Kincaid has sought to illustrate potential threats to the Alliance, highlighting isolationist group Nova Imperium as an example. Speaking to [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] Tribune, President Kincaid said: 
+President Gibson Kincaid has sought to illustrate potential threats to the Alliance, highlighting isolationist group Nova Imperium as an example. Speaking to the Alliance Tribune, President Kincaid said: 
 
 “The rise of such radical beliefs demonstrates how quickly the other superpowers might turn against us. Had the recent military conflict ended differently, the Empire would have callously abandoned humanity's united struggle against the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] threat.” 
 
-“All other leaders are looking elsewhere, pretending Nova Imperium never happened. But I have the courage to give a voice to our people’s fears. [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][The Alliance]] must prepare to stand alone against any aggressor, whether human or alien!” 
+“All other leaders are looking elsewhere, pretending Nova Imperium never happened. But I have the courage to give a voice to our people’s fears. The Alliance must prepare to stand alone against any aggressor, whether human or alien!” 
 
 Prime Minister [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74][Edmund Mahon]] later released a brief response: 
 

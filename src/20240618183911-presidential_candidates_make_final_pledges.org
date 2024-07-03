@@ -2,13 +2,13 @@
 :ID:       6fcb8486-fd51-4b30-983a-3b513692ebc7
 :END:
 #+title: Presidential Candidates Make Final Pledges
-#+filetags: :3304:galnet:
+#+filetags: :Alliance:3304:galnet:
 
 * Presidential Candidates Make Final Pledges
 
 /13 Oct 3304/
 
-The two remaining candidates in [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] presidential race have returned to the Alioth system to make their final campaign vows. 
+The two remaining candidates in the Alliance presidential race have returned to the Alioth system to make their final campaign vows. 
 
 In the parliamentary chamber of the Assembly, Elijah Beck addressed his fellow council members: 
 

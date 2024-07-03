@@ -2,7 +2,7 @@
 :ID:       77cf2f14-105e-4041-af04-1213f3e7383c
 :END:
 #+title: The Empire
-#+filetags: :Federation:Empire:KnowledgeBase:Codex:
+#+filetags: :Alliance:Federation:Empire:KnowledgeBase:Codex:
 
 ** The Empire
 *** Introduction
@@ -272,7 +272,7 @@ Federation in a series of joint initatives against the [[id:09343513-2893-458e-a
 early 3300s.
 
 **** The Alliance.
-When [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] was founded in 3230 following a bitter conflict with
+When the Alliance was founded in 3230 following a bitter conflict with
 the Empire and the Federation, multiple systems defected to it from both
 superpowers. To the surprise of many, the Empire took very little
 further retributive action, partly because of the ill health of the

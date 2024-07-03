@@ -2,7 +2,7 @@
 :ID:       c3cb33c3-bd3d-4160-a164-b7bcb5743a1f
 :END:
 #+title: Rival Initiatives to Decide Reorte’s Future
-#+filetags: :galnet:
+#+filetags: :Alliance:galnet:
 
 * Rival Initiatives to Decide Reorte’s Future
 
@@ -12,7 +12,7 @@
 
 Deliveries to the Reorte Mining Coalition or the Reorte Pro-Alliance League will help determine the system’s status. 
 
-The system’s controlling faction wishes to declare independence, in protest against Sirius Corporation’s proposed anti-xeno defence pact with [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] Defence Force.  
+The system’s controlling faction wishes to declare independence, in protest against Sirius Corporation’s proposed anti-xeno defence pact with the Alliance Defence Force.  
 
 The Reorte Mining Coalition’s CEO Fergus Cassidy announced: 
 
@@ -22,7 +22,7 @@ It is expected that if Reorte Mining Coalition is successful, all systems curren
 
 Another faction in the system, the Reorte Pro-Alliance League, broadcast a statement in opposition by chief administrator Louisa Leblanc: 
 
-“Severing Reorte’s links with [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] over some misguided idealism would be hasty and short-sighted, given the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] threat this pact is intended to prepare for. We believe that increasing supplies of advanced medicines, skimmer components and building fabricators will reassure the public of the benefits of membership.” 
+“Severing Reorte’s links with the Alliance over some misguided idealism would be hasty and short-sighted, given the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] threat this pact is intended to prepare for. We believe that increasing supplies of advanced medicines, skimmer components and building fabricators will reassure the public of the benefits of membership.” 
 
 “The Alioth Independents faction has kindly provided a megaship, the Trobairitz, where pilots can deliver these commodities.” 
 

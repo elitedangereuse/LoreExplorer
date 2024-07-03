@@ -2,15 +2,15 @@
 :ID:       833832b9-60b8-4cd1-9044-48d3a32c91f1
 :END:
 #+title: Alliance and Federation React to Nova Imperium
-#+filetags: :Federation:Empire:3304:galnet:
+#+filetags: :Alliance:Federation:Empire:3304:galnet:
 
 * Alliance and Federation React to Nova Imperium
 
 /29 Dec 3304/
 
-The leaders of [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] and the Federation have commented on the rise of the isolationist group Nova Imperium. 
+The leaders of the Alliance and the Federation have commented on the rise of the isolationist group Nova Imperium. 
 
-Prime Minister [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74][Edmund Mahon]] told [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] Assembly: 
+Prime Minister [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74][Edmund Mahon]] told the Alliance Assembly: 
 
 “The civil unrest in the Empire is an internal matter, but it would be a major concern if it resulted in a policy change regarding inter-superpower cooperation. We are therefore watching the situation closely.” 
 

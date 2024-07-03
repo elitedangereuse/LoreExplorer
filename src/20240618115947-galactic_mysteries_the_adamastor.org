@@ -2,7 +2,7 @@
 :ID:       72ac97c2-a40f-4550-965c-0fe47bf3186a
 :END:
 #+title: Galactic Mysteries: The Adamastor
-#+filetags: :galnet:
+#+filetags: :Alliance:galnet:
 
 * Galactic Mysteries: The Adamastor
 
@@ -12,7 +12,7 @@ Erik Gunnarson and Francesca Wolfe, two detectives from the Wallglass Investigat
 
 Gunnarson: “When Wolfe and I started this project, we knew this case would come first. We’re both protégés of Benjamin Chester, creator of the Wallglass Archive. He retired years ago, but that old spark kicked in when a ‘ghost ship’ turned up on his doorstep!” 
 
-“The Adamastor is a 200 year old derelict that drifted into the Chukchan system on autopilot. It’s still there, with [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] Salvage Guild poking through its guts. Chester investigated its owners, a super-secretive company called Azimuth Biochemicals. We don’t know what they were searching for, but what they found was possibly the first recorded [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] encounter.” 
+“The Adamastor is a 200 year old derelict that drifted into the Chukchan system on autopilot. It’s still there, with the Alliance Salvage Guild poking through its guts. Chester investigated its owners, a super-secretive company called Azimuth Biochemicals. We don’t know what they were searching for, but what they found was possibly the first recorded [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] encounter.” 
 
 “I’ve since tracked down evidence that the Adamastor had a sister ship – the Hesperus – which in 3113 was sent to… somewhere! Neither ship returned, but we only know what happened on the Adamastor mission. Of course, Wolfe had to go see that with her own eyes.” 
 

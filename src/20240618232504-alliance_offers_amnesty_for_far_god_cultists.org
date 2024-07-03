@@ -2,7 +2,7 @@
 :ID:       41e0349c-d169-4cc2-a479-2128aac04117
 :END:
 #+title: Alliance Offers Amnesty for Far God Cultists
-#+filetags: :Federation:galnet:
+#+filetags: :Alliance:Federation:galnet:
 
 * Alliance Offers Amnesty for Far God Cultists
 
@@ -20,6 +20,6 @@ As part of the request, Prime Minister [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74
 
 “As a security measure, adherents of the True Chapters and other Far God sects would be routinely checked for evidence of illegal activity. But they would otherwise be free to settle on Allied worlds and establish new communities.”  
 
-Political journalist Vanya Driscoll reported for [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][The Alliance]] Tribune: 
+Political journalist Vanya Driscoll reported for The Alliance Tribune: 
 
 “In the midst of the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] war, some will view this offer as bordering on traitorous. But Mahon is grasping a high-profile opportunity to distinguish the libertarian Alliance from an increasingly authoritarian Federation. If this gesture helps convince independent systems to seek Allied membership, the political gain could far outweigh the potential risk.”

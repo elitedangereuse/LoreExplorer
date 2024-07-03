@@ -3,7 +3,7 @@
 :ROAM_ALIASES: "Pleiades Sector IR-W d1-55"
 :END:
 #+title: Delphi
-#+filetags: :Federation:System:
+#+filetags: :Alliance:Federation:System:
 * People
   [[id:8f63442a-1f38-457d-857a-38297d732a90][Palin]]
 * Raxxla

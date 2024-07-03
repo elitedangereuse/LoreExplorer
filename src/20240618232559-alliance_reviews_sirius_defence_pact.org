@@ -2,7 +2,7 @@
 :ID:       ade55372-750f-4e32-8f9c-1db08c8c7e49
 :END:
 #+title: Alliance Reviews Sirius Defence Pact
-#+filetags: :Empire:galnet:
+#+filetags: :Alliance:Empire:galnet:
 
 * Alliance Reviews Sirius Defence Pact
 
@@ -12,7 +12,7 @@ The Alliance Assembly has approved a formal evaluation of its strategic defence 
 
 The vote to launch an independent inquiry was led by Councillor Nakato Kaine, who summarised: 
 
-“This partnership has been in effect for nearly two years. What tangible military support have we seen? Sirius Corporation has done little to protect Allied populations from attack or abduction. The capital ships promised to [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] Defence Force remain on the drawing board. The Sirius Navy isn’t even engaging the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] fleets on the front line of this war. How much longer must we endure Li Yong-Rui’s empty promises?” 
+“This partnership has been in effect for nearly two years. What tangible military support have we seen? Sirius Corporation has done little to protect Allied populations from attack or abduction. The capital ships promised to the Alliance Defence Force remain on the drawing board. The Sirius Navy isn’t even engaging the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] fleets on the front line of this war. How much longer must we endure Li Yong-Rui’s empty promises?” 
 
 Admiral Nikolas Glass, the megacorp’s representative on the Council of Admirals, disputed these claims: 
 

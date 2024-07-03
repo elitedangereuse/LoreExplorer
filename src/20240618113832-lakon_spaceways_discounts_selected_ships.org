@@ -3,7 +3,7 @@
 :ROAM_REFS: https://cms.zaonce.net/en-GB/jsonapi/node/galnet_article/934e6ff5-97a0-4087-94bd-69ea81e07bcc?resourceVersion=id%3A4734
 :END:
 #+title: Lakon Spaceways Discounts Selected Ships
-#+filetags: :galnet:
+#+filetags: :Alliance:galnet:
 
 * Lakon Spaceways Discounts Selected Ships
 
@@ -31,4 +31,4 @@ Some industry analysts believe this is an attempt to increase short-term payouts
 
 These issues were addressed by Naomi Landseer, chairperson of Lakon’s board of directors: 
 
-“It is true that profit margins are not as impressive as in previous years, but we can assure all stakeholders and customers that Lakon Spaceways remains financially secure. We project an upswing in military contracts during this turbulent time, and our achievements on behalf of [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] position us as one of the galaxy’s premiere shipbuilders.”
+“It is true that profit margins are not as impressive as in previous years, but we can assure all stakeholders and customers that Lakon Spaceways remains financially secure. We project an upswing in military contracts during this turbulent time, and our achievements on behalf of the Alliance position us as one of the galaxy’s premiere shipbuilders.”

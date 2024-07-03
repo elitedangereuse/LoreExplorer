@@ -2,7 +2,7 @@
 :ID:       ae4f8ae6-125c-4644-81ac-17dc3a2bea52
 :END:
 #+title: ‘Thargoid Roar’ Leaked to Public
-#+filetags: :Federation:galnet:
+#+filetags: :Alliance:Federation:galnet:
 
 * ‘Thargoid Roar’ Leaked to Public
 
@@ -18,6 +18,6 @@ These files include audio recordings of a broadcast of unknown origin that occur
 
 Several interpretations of this unearthly sound have been offered. Professor Shamus Madigan believed it to be “residual electromagnetic radiation from the Thargoids’ energy pulse on HIP 22460 10b”. Dr Jeong-Hui Shin theorised that it was “a burst of frenzied communication to – or from – some distant location”. Meanwhile, the First Apostle of the True Chapters claimed: “The voice of the Far God calls to the faithful. The manifestation has begun.” 
 
-Coupled with the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] expansion from HIP 22460 and their recent invasion of three inhabited systems, this new revelation has fuelled public anxiety over the Thargoid threat. Members of [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] Assembly, Federal Congress and Imperial Senate have reassured their citizens that there is no need for panic. It is believed that several intelligence agencies have opened investigations into the source of the leak, the content of which is believed to have been classified by military departments. 
+Coupled with the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] expansion from HIP 22460 and their recent invasion of three inhabited systems, this new revelation has fuelled public anxiety over the Thargoid threat. Members of the Alliance Assembly, Federal Congress and Imperial Senate have reassured their citizens that there is no need for panic. It is believed that several intelligence agencies have opened investigations into the source of the leak, the content of which is believed to have been classified by military departments. 
 
 Anti-Thargoid operations are continuing in the 42 n Persei, Chun Pindit and Tekkeitjal systems. The Federation has submitted several Farragut-class battle cruisers to help repel [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] forces. Local factions organising the defensive efforts have called for independent pilots to join the fight.

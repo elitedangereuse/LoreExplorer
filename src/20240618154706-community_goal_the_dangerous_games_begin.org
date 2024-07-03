@@ -2,7 +2,7 @@
 :ID:       8b1b6774-272c-46cd-9bdc-c9a4b9ac5bc7
 :END:
 #+title: Community Goal: The Dangerous Games Begin
-#+filetags: :3302:galnet:
+#+filetags: :Alliance:3302:galnet:
 
 * Community Goal: The Dangerous Games Begin
 
@@ -16,7 +16,7 @@ With a paradigm shift looming, the largest of the galaxy's factions have taken t
 
 Trinity Avon, a reporter for The Sovereign, elaborated on the nature of the event: 
 
-"There are five factions competing in the Dangerous Games: [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] Elite Diplomatic Corps, the Border Coalition, GalCop, the Interstellar Communist Union and the Social Eleu Progressive Party. Between June and July 3302, these groups will participate in a series of community campaigns, giving the galaxy's independent pilots a chance to support their chosen faction." 
+"There are five factions competing in the Dangerous Games: the Alliance Elite Diplomatic Corps, the Border Coalition, GalCop, the Interstellar Communist Union and the Social Eleu Progressive Party. Between June and July 3302, these groups will participate in a series of community campaigns, giving the galaxy's independent pilots a chance to support their chosen faction." 
 
 But these will not be the only factions taking part. With the start of the event still some weeks away, a number of smaller factions have begun competing for their chance to participate in the Dangerous Games. In the coming weeks, these factions will attempt to rally Commanders to their respective causes through a series of community-oriented events. Whichever faction successfully dominates its rivals in these 'Wildcard' events will enter the Dangerous Games, competing for the right to join the ranks of the galaxy's most powerful. 
 

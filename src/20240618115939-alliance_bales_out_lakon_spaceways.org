@@ -2,7 +2,7 @@
 :ID:       3e61c364-81e5-4d52-bcc3-6f132581b57f
 :END:
 #+title: Alliance Bales Out Lakon Spaceways
-#+filetags: :galnet:
+#+filetags: :Alliance:galnet:
 
 * Alliance Bales Out Lakon Spaceways
 
@@ -10,7 +10,7 @@
 
 The Alliance Assembly has approved purchasing a majority sharehold in Lakon Spaceways, gaining partial ownership of the shipbuilding company. 
 
-An acquisition attempt by Federal corporation Core Dynamics was recently revoked due to illegal practices by its former CEO Jupiter Rochester. [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][The Alliance]] has now rescued Lakon from possible insolvency, using government funding to buy shares and increase investment. 
+An acquisition attempt by Federal corporation Core Dynamics was recently revoked due to illegal practices by its former CEO Jupiter Rochester. The Alliance has now rescued Lakon from possible insolvency, using government funding to buy shares and increase investment. 
 
 Naomi Landseer, the reinstated chairperson of Lakon’s board of directors, announced: 
 

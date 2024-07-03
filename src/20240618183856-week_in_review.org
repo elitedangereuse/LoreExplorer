@@ -2,7 +2,7 @@
 :ID:       e57c24bd-aca3-4d18-8b7e-a155e81c546a
 :END:
 #+title: Week in Review 15 Sep 3304
-#+filetags: :3304:galnet:
+#+filetags: :Alliance:3304:galnet:
 
 * Week in Review
 
@@ -12,7 +12,7 @@ Here are this week’s major stories.
 
 An anonymous source has revealed that Maddox Hurd, owner of technology company Herculean Machines, was previously investigated by the Federal Security Service. The source disclosed that Hurd accepted financial contributions from individuals connected to criminal networks when establishing his company. In the wake of the news, a number of Herculean Machines’ corporate investors have withdrawn their support. 
 
-The candidates in [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] presidential election have been announced: Fazia Silva, a successful entrepreneur from the Vamm system, and Elijah Beck, an experienced politician from Leesti. It is understood that all three candidates – Kincaid, Silva and Beck – are roughly equal in terms of popular support. 
+The candidates in the Alliance presidential election have been announced: Fazia Silva, a successful entrepreneur from the Vamm system, and Elijah Beck, an experienced politician from Leesti. It is understood that all three candidates – Kincaid, Silva and Beck – are roughly equal in terms of popular support. 
 
 Meanwhile, Juanita Bishop has called on Federal Congress to make [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] worship a capital crime, and for all members of the Far God cult to be executed. Some Federal congressmen have aligned with Mrs Bishop, eager to be seen as ‘tough on Thargoids’, but others have criticised her for her inhumane rhetoric. 
 

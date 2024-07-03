@@ -2,7 +2,7 @@
 :ID:       d40af2d9-66be-4c79-9483-a389ee25a70b
 :END:
 #+title: Subject D-2 Rejects Azimuth
-#+filetags: :galnet:
+#+filetags: :Alliance:galnet:
 
 * Subject D-2 Rejects Azimuth
 
@@ -20,4 +20,4 @@ Azimuth Biotech CEO Torben Rademaker expressed disappointment at the response, a
 
 In related news, several newsfeeds have reported an initial bump in public support for the reinstatement of Aegis. Following her attendance at the symposium, Deputy Prime Minister Angela Corcoran told the Old Worlds Gazette:  
 
-“Operation Tyndareus has been initiated, with forces engaged in protecting the Andecavi system. Yet [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] should not rely exclusively on Sirius Corporation for anti-xeno defence. I believe that the return of Aegis is an option deserving serious consideration.”
+“Operation Tyndareus has been initiated, with forces engaged in protecting the Andecavi system. Yet the Alliance should not rely exclusively on Sirius Corporation for anti-xeno defence. I believe that the return of Aegis is an option deserving serious consideration.”

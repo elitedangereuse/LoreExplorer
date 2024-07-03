@@ -2,7 +2,7 @@
 :ID:       6d7af210-b94d-4324-bce2-7b842a1ba74d
 :END:
 #+title: Argent's Departure
-#+filetags: :Federation:beacon:
+#+filetags: :Alliance:Federation:beacon:
 * 0182 Argent's Departure
 [[id:37a0d8e6-0c42-4e05-8d92-a4b75b89308b][Ayethi]]  
 

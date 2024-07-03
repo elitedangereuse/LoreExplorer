@@ -2,7 +2,7 @@
 :ID:       f09d09ca-5bcc-4521-89e2-ef8b9b65d3bb
 :END:
 #+title: The Greatest Gig in the Galaxy
-#+filetags: :galnet:
+#+filetags: :Alliance:galnet:
 
 * The Greatest Gig in the Galaxy
 
@@ -10,7 +10,7 @@
 
 The Alliance Festival of Culture enters its third week with a massive music festival in the Phekda system drawing thousands of attendees. Organisers are calling the event ‘the greatest gig in the galaxy’. 
 
-Corinne Macintyre, cultural correspondent for [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][The Alliance]] Tribune, reported: 
+Corinne Macintyre, cultural correspondent for The Alliance Tribune, reported: 
 
 “The programme is certainly diverse, encompassing everything from megastars like Spectacular Nemesis and Jade Graceland to up-and-comers such as The Lasting Hold.”  
 

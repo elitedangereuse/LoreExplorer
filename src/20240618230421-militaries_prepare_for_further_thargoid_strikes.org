@@ -2,7 +2,7 @@
 :ID:       a5724e5b-f954-4c9f-b34e-6b64d281aea4
 :END:
 #+title: Militaries Prepare for Further [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Strikes
-#+filetags: :Empire:galnet:
+#+filetags: :Alliance:Empire:galnet:
 
 * Militaries Prepare for Further [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Strikes
 
@@ -18,7 +18,7 @@ Ernesto Rios, field correspondent for Vox Galactica, summarised the situation:
 
 “In the Empire, Senator [[id:75daea85-5e9f-4f6f-a102-1a5edea0283c][Denton Patreus]] considered these events ‘an indication that the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] are probing humanity’s defensive capabilities’. But details of the Imperial Navy’s anti-xeno strategy remained confidential, a sign of the Empire shift away from military coordination with other superpowers.” 
 
-“The Alliance has claimed to be in a position of readiness. Admiral Nikolas Glass reported: ‘Operation Tyndareus, backed by Sirius Corporation, is now active. [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][The Alliance]] Defence Force is ready to deploy anti-xeno taskforces, should the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] dare to launch an assault within Allied space.’ Meanwhile, critics of the strategic defence pact have observed that only two megaships currently possess AX weaponry, casting doubt over the ADF’s effectiveness.” 
+“The Alliance has claimed to be in a position of readiness. Admiral Nikolas Glass reported: ‘Operation Tyndareus, backed by Sirius Corporation, is now active. The Alliance Defence Force is ready to deploy anti-xeno taskforces, should the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] dare to launch an assault within Allied space.’ Meanwhile, critics of the strategic defence pact have observed that only two megaships currently possess AX weaponry, casting doubt over the ADF’s effectiveness.” 
 
 “Elsewhere, many independent systems are doing whatever they can to bolster their local security forces. Too many worlds are acutely aware that should [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] fleets darken their skies, they would be forced to rely on mercenaries and independent pilots for protection.” 
 

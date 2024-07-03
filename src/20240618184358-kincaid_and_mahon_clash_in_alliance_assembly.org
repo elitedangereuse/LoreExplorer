@@ -2,7 +2,7 @@
 :ID:       f507997b-2228-4655-90ef-c3a8a1c5b586
 :END:
 #+title: Kincaid and Mahon Clash in Alliance Assembly
-#+filetags: :galnet:
+#+filetags: :Alliance:galnet:
 
 * Kincaid and Mahon Clash in Alliance Assembly
 
@@ -10,7 +10,7 @@
 
 Prime Minister [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74][Edmund Mahon]] has once again clashed with President Gibson Kincaid, following the latter’s attempt to take control of government policy during an Assembly session.  
 
-Political journalist Vanya Driscoll reported for [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][The Alliance]] Tribune: 
+Political journalist Vanya Driscoll reported for The Alliance Tribune: 
 
 “There were dramatic scenes in the Assembly as President Kincaid sought to steer debates on military strategy, making several demands for increased funding towards new fleets.” 
 

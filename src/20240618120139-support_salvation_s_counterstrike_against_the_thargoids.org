@@ -2,7 +2,7 @@
 :ID:       58e03b8f-8e17-42a6-b5ba-4426cd51cfc4
 :END:
 #+title: Support Salvation’s Counterstrike Against the Thargoids
-#+filetags: :galnet:
+#+filetags: :Alliance:galnet:
 
 * Support Salvation’s Counterstrike Against the Thargoids
 
@@ -20,4 +20,4 @@ A message was transmitted from the Musashi megaship by its new commanding office
 
 “It is crucial that all deliveries are made by early on Tuesday the 14th of December. Without these components, Salvation’s superweapons will not be able to affect enough [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] vessels to turn the tide.” 
 
-Commodore Halloran was formerly a member of [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] Defence Force, and was in charge of protecting the first expedition to the Coalsack Nebula in 3306. She is one of hundreds of naval officers and crew from all three superpowers who have resigned their commissions to offer their services to Salvation, believing that only he can defeat the Thargoids.
+Commodore Halloran was formerly a member of the Alliance Defence Force, and was in charge of protecting the first expedition to the Coalsack Nebula in 3306. She is one of hundreds of naval officers and crew from all three superpowers who have resigned their commissions to offer their services to Salvation, believing that only he can defeat the Thargoids.

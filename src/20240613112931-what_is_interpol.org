@@ -2,7 +2,7 @@
 :ID:       0dbfcc84-b49b-4ae4-a055-4b1254173515
 :END:
 #+title: What is Interpol
-#+filetags: :beacon:
+#+filetags: :Alliance:beacon:
 * 0235 What is Interpol?
 [[id:d4f2b36b-70c4-4943-b901-496229734121][Kuk]]  
 
@@ -11,7 +11,7 @@ across Alliance worlds, but also when an investigation strays
 beyond. In addition it provides support assets for individual Alliance
 forces when heavy backup is required.
 
-Internal affairs investigations for [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][Alliance]] organisations are also
+Internal affairs investigations for Alliance organisations are also
 conducted by Interpol and upon request for member systems too.
 
 Numerically, Interpol is smaller than most systems police forces, but

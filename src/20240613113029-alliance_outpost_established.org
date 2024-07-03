@@ -2,7 +2,7 @@
 :ID:       f5090e02-1a45-4b83-97b9-9a6b3cddde50
 :END:
 #+title: Alliance Outpost Established
-#+filetags: :beacon:
+#+filetags: :Alliance:beacon:
 * 0695 Alliance Outpost Established
 [[id:7cb40dd8-9f5b-4b57-829d-91d53c96091f][HIP 19072]]
 
@@ -15,7 +15,7 @@ scientific research, the station will bolster the Alliance‘s
 reconnaissance and intelligence-gathering capabilities in a
 strategically valuable region of space."
 
-An [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][Alliance]] spokesman confirmed that the new outpost would offer
+An Alliance spokesman confirmed that the new outpost would offer
 reload, repair and refuel services to pilots operating in the HIP
 19072 system.
 

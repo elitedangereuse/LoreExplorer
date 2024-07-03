@@ -2,7 +2,7 @@
 :ID:       9892e93e-e724-4063-a8f0-c21d22d6435c
 :END:
 #+title: Kumo Crew Rebuffed after Anti-Xeno Campaign
-#+filetags: :galnet:
+#+filetags: :Alliance:galnet:
 
 * Kumo Crew Rebuffed after Anti-Xeno Campaign
 
@@ -20,7 +20,7 @@ The Pegasi Sentinel reported on the situation:
 
 “Local residents remain wary of Delaine’s reputation, however. Security forces deployed to local ports have been driven out, with communities apparently unconvinced by claims of ‘emergency security measures’. Turner Research Group has re-established control in locations the Kumo Council had attempted to seize.” 
 
-A related article was also published by [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][The Alliance]] Tribune: 
+A related article was also published by The Alliance Tribune: 
 
 “The Assembly received an urgent request for support from the Turner Research Group. They claim that the Kumo Crew’s campaign was an excuse to encroach upon the Alliance’s operations in the California Nebula. Councillors have raised a motion to begin a formal inquiry into the situation.” 
 

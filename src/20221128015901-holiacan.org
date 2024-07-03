@@ -2,9 +2,9 @@
 :ID:       c6f2df05-7f29-4557-bcf1-a71e342fd306
 :END:
 #+title: Holiacan
-#+filetags: :Federation:
+#+filetags: :Alliance:Federation:
 * 0125 Holiacan History                                 :beacon:EliteHistory:
-Relatively late to joining the original [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][Alliance]] group in 3244,
+Relatively late to joining the original Alliance group in 3244,
 Holiacan was not contested by Federation forces as the systems assets
 were relatively small. The bloodless revolution is a complete contrast
 to its partner and robotic manufacturing rival [[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]], whose [[id:469157dc-db54-4770-937b-1fb3ded39ff7][industry]]

@@ -2,15 +2,15 @@
 :ID:       944acfe8-0232-4eff-bdce-6b5d42314fc7
 :END:
 #+title: Candidates for Alliance Presidency Announced
-#+filetags: :3304:galnet:
+#+filetags: :Alliance:3304:galnet:
 
 * Candidates for Alliance Presidency Announced
 
 /14 Sep 3304/
 
-The candidates in [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] presidential election have been announced. 
+The candidates in the Alliance presidential election have been announced. 
 
-Political journalist Vanya Driscoll shared the news in [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][The Alliance]] Tribune: 
+Political journalist Vanya Driscoll shared the news in The Alliance Tribune: 
 
 “The candidates running against President Gibson Kincaid, who is seeking a second term, have now launched their campaigns.” 
 

@@ -2,15 +2,15 @@
 :ID:       b057f234-ffae-4560-8177-f58515cfbf1a
 :END:
 #+title: Fiction Fans Gather for Literary Event
-#+filetags: :galnet:
+#+filetags: :Alliance:galnet:
 
 * Fiction Fans Gather for Literary Event
 
 /16 Aug 3305/
 
-A celebration of literature at H.G. Wells Terminal in the Olgrea system is the focus of the fourth week of [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] Festival of Culture. 
+A celebration of literature at H.G. Wells Terminal in the Olgrea system is the focus of the fourth week of the Alliance Festival of Culture. 
 
-Leyton Farris reported on the event for [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][The Alliance]] Tribune: 
+Leyton Farris reported on the event for The Alliance Tribune: 
 
 “Devotees of both modern and classic fiction have gathered to celebrate a shared love of literature and meet their favourite authors. The event is also an opportunity for writers to promote their work and attract new readers.” 
 

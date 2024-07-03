@@ -2,17 +2,17 @@
 :ID:       dd8b7c5f-3e5a-4e35-a64a-6b37c345f22f
 :END:
 #+title: The Winking Cat’s Return
-#+filetags: :galnet:
+#+filetags: :Alliance:galnet:
 
 * The Winking Cat’s Return
 
 /31 Aug 3305/
 
-The notorious art thief known as the Winking Cat has resurfaced in the Alioth system during [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] Festival of Culture. 
+The notorious art thief known as the Winking Cat has resurfaced in the Alioth system during the Alliance Festival of Culture. 
 
 For the festival’s sixth week, Garden City Gallery on Turner’s World hosts an exhibition of the visual arts. Advanced security measures have been employed to prevent a repetition of the high-profile incident that occurred in June 3304, where the unique work ‘Youscape’ was stolen from a gallery vault. 
 
-Local correspondent Daron Warmack reported for [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][The Alliance]] Tribune: 
+Local correspondent Daron Warmack reported for The Alliance Tribune: 
 
 “When gallery staff noticed a painting hanging in a previously empty room, they were shocked to recognise it as ‘Penance Street’, the long-lost masterpiece of famous artist Megan Madigan.” 
 

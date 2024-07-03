@@ -2,7 +2,7 @@
 :ID:       96c2df46-5624-4166-84fd-776a7fff1421
 :END:
 #+title: The Silent Aftermath
-#+filetags: :galnet:
+#+filetags: :Alliance:galnet:
 
 * The Silent Aftermath
 
@@ -12,7 +12,7 @@ The [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] victory in the HIP 224
 
 Ernesto Rios, field correspondent for Vox Galactica, published a report summarising the latest developments: 
 
-“Two days have passed since the massacre in HIP 22460, which left many thousands dead. There have been no updates from [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] Defence Force or the Federal or Imperial navies. All press outlets have banned their journalists from entering the system, due to the extreme risk of [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] attack. We still lack specifics as to why the Proteus Wave failed. As the echoes of these horrific events fade, the authorities’ silence is deafening.” 
+“Two days have passed since the massacre in HIP 22460, which left many thousands dead. There have been no updates from the Alliance Defence Force or the Federal or Imperial navies. All press outlets have banned their journalists from entering the system, due to the extreme risk of [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] attack. We still lack specifics as to why the Proteus Wave failed. As the echoes of these horrific events fade, the authorities’ silence is deafening.” 
 
 “Azimuth Biotech’s surviving megaships, the Glorious Prospect and the Musashi, remain in the nearby Pleiades Sector CW-U B3-2 system alongside Sirius Corporation’s vessel El Centinela Cadejo. These are accepting a steady trickle of survivors from HIP 22460, whose escape pods or ships survived long enough to regain power before the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] onslaught reached them. Medical personnel have refused press access to medical bays, preventing interviews with eye-witnesses.” 
 

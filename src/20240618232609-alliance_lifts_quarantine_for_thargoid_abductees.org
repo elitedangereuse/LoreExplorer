@@ -2,7 +2,7 @@
 :ID:       1871b0d0-4fb2-41b5-9d5e-3c457c8727a4
 :END:
 #+title: Alliance Lifts Quarantine for [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Abductees
-#+filetags: :Empire:galnet:
+#+filetags: :Alliance:Empire:galnet:
 
 * Alliance Lifts Quarantine for [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Abductees
 
@@ -18,8 +18,8 @@ Prime Minister Edmund Mahon’s official declaration was published by all newsfe
 
 Some medical institutes such as Kamadhenu Medipure and Vandermeer Corporation opposed the Alliance’s decision, claiming that Imperial and Federal returnees should never be allowed back into the general population.   Azimuth Biotech also repeated its offer to perform “cutting-edge xenological detection procedures on every human extracted from a [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] bio-storage capsule.” 
 
-The political dimension was analysed by Vanya Driscoll for [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][The Alliance]] Tribune: 
+The political dimension was analysed by Vanya Driscoll for The Alliance Tribune: 
 
 “Prime Minister Mahon knows that this will be a popular decision, after many public figures called the extended quarantine ‘inhumane’ and ‘barbaric’. Plus, with his rival Councillor Kaine currently questioning the wisdom of the Mahon-endorsed strategic defence pact with Sirius, the timing of this benevolent act could not be better.” 
 
-“On the wider political stage, asking the other superpowers to follow suit frames [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] as a more humanitarian society than its counterparts. This may be a rare occasion when the Empire and Federation are looking to us for moral guidance… or at least, waiting to see if sending home thousands of [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] abductees is a mistake.”
+“On the wider political stage, asking the other superpowers to follow suit frames the Alliance as a more humanitarian society than its counterparts. This may be a rare occasion when the Empire and Federation are looking to us for moral guidance… or at least, waiting to see if sending home thousands of [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] abductees is a mistake.”

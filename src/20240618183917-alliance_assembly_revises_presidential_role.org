@@ -2,7 +2,7 @@
 :ID:       0a9df431-b7fe-4f1b-aeb9-66bbbc426ff3
 :END:
 #+title: Alliance Assembly Revises Presidential Role
-#+filetags: :3304:galnet:
+#+filetags: :Alliance:3304:galnet:
 
 * Alliance Assembly Revises Presidential Role
 
@@ -14,10 +14,10 @@ Prime Minister [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74][Edmund Mahon]] announc
 
 “The Assembly has voted that President Kincaid’s proposed changes to the constitution will not be adopted, and no executive powers will be granted.” 
 
-“There was broad agreement, however, that the role should be updated, which has resulted in the creation of a new non-political department: the Office of [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] President.” 
+“There was broad agreement, however, that the role should be updated, which has resulted in the creation of a new non-political department: the Office of the Alliance President.” 
 
 “The president will now oversee a team of ambassadorial emissaries who will focus on diplomatic functions. This will free up council members, allowing them to govern more effectively. The presidential term has also been extended to three years.” 
 
 President Kincaid told the media: 
 
-“I regret that the Assembly cannot see how [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] would be strengthened by an empowered president, but I must respect their decision, and promise to put my new team of emissaries to good use.”
+“I regret that the Assembly cannot see how the Alliance would be strengthened by an empowered president, but I must respect their decision, and promise to put my new team of emissaries to good use.”

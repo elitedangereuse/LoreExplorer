@@ -2,13 +2,13 @@
 :ID:       09a1a018-28a8-4d9d-8a3a-7011efc3a1f7
 :END:
 #+title: Galactic News: Alliance Campaign Concludes
-#+filetags: :3302:galnet:
+#+filetags: :Alliance:3302:galnet:
 
 * Galactic News: Alliance Campaign Concludes
 
 /27 Oct 3302/
 
-A spokesperson for the 160 SOAR has announced that [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] appeal for construction materials has reached a successful conclusion. 
+A spokesperson for the 160 SOAR has announced that the Alliance appeal for construction materials has reached a successful conclusion. 
 
 Hundreds of pilots contributed to the campaign, resulting in a massive influx of deliveries to Tshang City, the organisation's base of operations. The materials will be used to construct an outpost on California Sector BA-A E6 4. 
 

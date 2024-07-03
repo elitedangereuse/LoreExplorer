@@ -2,15 +2,15 @@
 :ID:       74ecc49d-6b44-48aa-abf0-02fa7ec86de0
 :END:
 #+title: Marlinist Refugees Migrate from Alliance
-#+filetags: :Empire:galnet:
+#+filetags: :Alliance:Empire:galnet:
 
 * Marlinist Refugees Migrate from Alliance
 
 /27 Apr 3308/
 
-Over two million ex-Imperial citizens who sought sanctuary with [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] are now being repatriated to the Marlinist Colonies. 
+Over two million ex-Imperial citizens who sought sanctuary with the Alliance are now being repatriated to the Marlinist Colonies. 
 
-Ambassador Elijah Beck, head of [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] Office of Diplomatic Relations, announced: 
+Ambassador Elijah Beck, head of the Alliance Office of Diplomatic Relations, announced: 
 
 “Political refugees from Imperial systems have been arriving since late 3306, following the Empire’s crackdown on Marlinism. At the time they had no legal status or resources, and relied entirely upon the charity of local factions for their survival.” 
 

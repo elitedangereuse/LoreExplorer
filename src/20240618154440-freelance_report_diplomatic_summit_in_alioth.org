@@ -2,13 +2,13 @@
 :ID:       54d045e9-b36c-4302-93e3-8c8781488f3f
 :END:
 #+title: Freelance Report: Diplomatic Summit in Alioth
-#+filetags: :3302:galnet:
+#+filetags: :Alliance:3302:galnet:
 
 * Freelance Report: Diplomatic Summit in Alioth
 
 /22 Mar 3302/
 
-A summit for [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] of Independent Systems was held at Irkutsk Station this week, attended by ambassadors and diplomatic envoys from an array of political backgrounds. Eleven fleets, from both Alliance and Independent governments, were represented. 
+A summit for the Alliance of Independent Systems was held at Irkutsk Station this week, attended by ambassadors and diplomatic envoys from an array of political backgrounds. Eleven fleets, from both Alliance and Independent governments, were represented. 
 
 The main topic under discussion was establishing a framework for a quick-response force to protect parties from the growing threat of Imperial and Federal expansion. Other Topics included factional sovereignty, self governance, the benefits of free trade, and the role of communication in maintaining civility across diverse cultures. 
 

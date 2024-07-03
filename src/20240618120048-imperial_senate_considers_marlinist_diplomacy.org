@@ -2,7 +2,7 @@
 :ID:       4fc64b9b-92cc-4b83-81ee-abd8a230cfe5
 :END:
 #+title: Imperial Senate Considers Marlinist Diplomacy
-#+filetags: :Federation:Empire:galnet:
+#+filetags: :Alliance:Federation:Empire:galnet:
 
 * Imperial Senate Considers Marlinist Diplomacy
 
@@ -18,6 +18,6 @@ Returning from a fact-finding mission to the colonies, Senator Scordato told the
 
 Although some senators agreed, others such as [[id:75daea85-5e9f-4f6f-a102-1a5edea0283c][Denton Patreus]] stressed that “As a matter of honour and principle, the Empire does not negotiate with terrorists.” 
 
-Several newsfeeds observed that both [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] and the Federation are looking into opening formal diplomatic channels with the Marlinist Colonies. Similar debates have occurred in the Assembly and Congress regarding the acceptance of an [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] political wing. 
+Several newsfeeds observed that both the Alliance and the Federation are looking into opening formal diplomatic channels with the Marlinist Colonies. Similar debates have occurred in the Assembly and Congress regarding the acceptance of an [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] political wing. 
 
 First Minister Jenna Fairfax has repeated calls for the Marlinism Reformation Party to cease representing the Neo-Marlinist fringe. However, she also announced plans for a Marlinist equivalent to the Imperial Diplomatic Corps that would undertake ambassadorial duties.

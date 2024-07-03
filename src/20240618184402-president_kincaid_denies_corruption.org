@@ -2,7 +2,7 @@
 :ID:       89ad8dea-170f-48b8-96a3-da2e9cd719ff
 :END:
 #+title: President Kincaid Denies Corruption
-#+filetags: :galnet:
+#+filetags: :Alliance:galnet:
 
 * President Kincaid Denies Corruption
 
@@ -10,7 +10,7 @@
 
 President Gibson Kincaid has refuted allegations of illegal campaign funding and is refusing to cooperate with the official inquiry. 
 
-He gave this statement to [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][The Alliance]] Tribune: 
+He gave this statement to The Alliance Tribune: 
 
 “The claims are nothing more than an attempt to besmirch my reputation. Councillor Elijah Beck has fabricated this wild mudlark chase as revenge for his loss to me in the presidential vote last year.” 
 

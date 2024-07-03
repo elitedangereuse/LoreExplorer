@@ -2,7 +2,7 @@
 :ID:       74e5b54a-4f32-4af3-9f23-7463aa5590c1
 :END:
 #+title: The Sanderlyn Interviews (Part Three)
-#+filetags: :galnet:
+#+filetags: :Alliance:galnet:
 
 * The Sanderlyn Interviews (Part Three)
 
@@ -22,7 +22,7 @@ RZ: Let me clarify your question before you finish it. My priority is the safety
 
 JS: Understood, Admiral. Salvation has asked for time to prepare his superweapon, though? 
 
-RZ: Yes, he has. But [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] does not operate with the assumption that Salvation will deliver on his promise. 
+RZ: Yes, he has. But the Alliance does not operate with the assumption that Salvation will deliver on his promise. 
 
 JS: Do you support Salvation’s methods? Critics have suggested he endangers lives by using a powerful weapon that has not been independently assessed by experts. 
 

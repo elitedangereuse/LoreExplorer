@@ -2,7 +2,7 @@
 :ID:       94e4e4f9-676f-463f-a8c5-20963176a0dd
 :END:
 #+title: Week in Review 22 Sep 3304
-#+filetags: :3304:galnet:
+#+filetags: :Alliance:3304:galnet:
 
 * Week in Review
 
@@ -10,7 +10,7 @@
 
 Here are this week’s major stories. 
 
-Political journalist Vanya Driscoll has published an analysis of [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] presidential candidates. She has observed that while Elijah Beck seems content with the status quo, Fazia Silva has promised to boost the economy, and current president Gibson Kincaid has proposed that the role should include executive powers. 
+Political journalist Vanya Driscoll has published an analysis of the Alliance presidential candidates. She has observed that while Elijah Beck seems content with the status quo, Fazia Silva has promised to boost the economy, and current president Gibson Kincaid has proposed that the role should include executive powers. 
 
 In other news, business magnate Lloyd Hardacre has been arrested for corporate fraud after his personal administrative robot revealed incriminating evidence. The incident took place during the annual general meeting of Copernicus Shipping Ltd, a firm founded by Mr Hardacre. Lieutenant Inspector Ramesh Thorne of the Federal Security Service is investigating. 
 

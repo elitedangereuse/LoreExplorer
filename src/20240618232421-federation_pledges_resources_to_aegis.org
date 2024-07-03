@@ -2,7 +2,7 @@
 :ID:       b04c39a0-775e-4eb4-9218-78e0c124fe93
 :END:
 #+title: Federation Pledges Resources to Aegis
-#+filetags: :Federation:galnet:
+#+filetags: :Alliance:Federation:galnet:
 
 * Federation Pledges Resources to Aegis
 
@@ -10,7 +10,7 @@
 
 President [[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][Zachary Hudson]] and Shadow President [[id:b9fe58a3-dfb7-480c-afd6-92c3be841be7][Felicia Winters]] have united behind Federal backing for the reformation of Aegis. 
 
-Congress held an emergency debate after [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] and Empire agreed to support an official tri-superpower initiative against the Thargoids. A majority of votes from Republican, Liberal and independent representatives approved the provision of ships, personnel and materials from the Federation. 
+Congress held an emergency debate after the Alliance and Empire agreed to support an official tri-superpower initiative against the Thargoids. A majority of votes from Republican, Liberal and independent representatives approved the provision of ships, personnel and materials from the Federation. 
 
 President Hudson delivered a short address to mark the occasion: 
 

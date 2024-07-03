@@ -2,11 +2,11 @@
 :ID:       48ac5ad9-dd0e-4d43-a109-f4cf6d3efdea
 :END:
 #+title: Alliance Assembly
-#+filetags: :beacon:
+#+filetags: :Alliance:beacon:
 * 0113 Alliance Assembly
 [[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]]
 
-The Alliance Assembly is the central body for [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] as a
+The Alliance Assembly is the central body for the Alliance as a
 whole. While parallels can be drawn with the European Union in the
 21st century, the Assembly lacks the law making powers of the EU. In
 main it functions as a means for establishing common policies and

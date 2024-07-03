@@ -2,7 +2,7 @@
 :ID:       c8dfcb16-99b1-45ae-9dfe-05ee5b641d10
 :END:
 #+title: Community Goal: The Rise to Power Begins
-#+filetags: :3302:galnet:
+#+filetags: :Alliance:3302:galnet:
 
 * Community Goal: The Rise to Power Begins
 
@@ -14,7 +14,7 @@ Three events have taken place so far, with pilots from across the galaxy fightin
 
 Trinity Avon, a reporter for The Sovereign, explained how the Rise to Power will work: 
 
-"There are six factions taking part: the EG Pilots, [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] Elite Diplomatic Corps, the Border Coalition, GalCop, the Interstellar Communist Union and the Social Eleu Progressive Party. Over the next three weeks, there will be a series of campaigns in which each faction will try to rally as much support as possible. The faction that dominates its rivals will join the ranks of the galaxy's most powerful." 
+"There are six factions taking part: the EG Pilots, the Alliance Elite Diplomatic Corps, the Border Coalition, GalCop, the Interstellar Communist Union and the Social Eleu Progressive Party. Over the next three weeks, there will be a series of campaigns in which each faction will try to rally as much support as possible. The faction that dominates its rivals will join the ranks of the galaxy's most powerful." 
 
 The first Rise to Power event requires pilots to gather Gilya signature weapons for their chosen faction and deliver them to Gohar Station in the Jaradharre system. The faction that accumulates the most Gilya signature weapons will be declared the winner of the first heat. 
 

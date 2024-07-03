@@ -2,7 +2,7 @@
 :ID:       4aca18a6-90d1-4405-9de6-93f69f1c313a
 :END:
 #+title: Galactic Mysteries: The NMLA
-#+filetags: :Empire:galnet:
+#+filetags: :Alliance:Empire:galnet:
 
 * Galactic Mysteries: The NMLA
 
@@ -16,7 +16,7 @@ Gunnarson: “We don’t usually get involved with political cases, but it’s h
 
 “What nobody knows is how the [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] went from minor troublemakers to interstellar terrorists. The starport bombings last September came from nowhere, and their assassins have killed many Imperial bigwigs including Prince Harold Duval.” 
 
-“Smart money was on them being funded by Empire’s enemies, but now the [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] treat [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] and Federation as equal targets. Hitting all three superpower capitals was a hugely symbolic gesture, and should have been impossible. How did they bypass security and plant explosives without detection? Who the hell are these people?” 
+“Smart money was on them being funded by Empire’s enemies, but now the [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] treat the Alliance and Federation as equal targets. Hitting all three superpower capitals was a hugely symbolic gesture, and should have been impossible. How did they bypass security and plant explosives without detection? Who the hell are these people?” 
 
 “Even Wallglass doesn’t have a clue. But we won’t stop searching.” 
 

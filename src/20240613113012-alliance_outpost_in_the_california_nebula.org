@@ -2,11 +2,11 @@
 :ID:       f5d6d74f-58ad-4e47-ab66-7343c2495bad
 :END:
 #+title: Alliance Outpost in the California Nebula
-#+filetags: :beacon:
+#+filetags: :Alliance:beacon:
 * 0675 Alliance Outpost in the California Nebula
 [[id:f99d8454-00d7-49b6-9255-63801f7ff7e8][California Sector BA-A e6]]
 
-On October 13th 3302 the [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][Alliance]] announced plans to construct a new
+On October 13th 3302 the Alliance announced plans to construct a new
 outpost on California Sector BA-A E6 4.
 
 According to an Alliance spokesperson, the station will serve as "a

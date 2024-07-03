@@ -2,15 +2,15 @@
 :ID:       c283e0d2-b707-4069-9f21-094d967f5e03
 :END:
 #+title: Alliance-Sirius Pact Prepares New Taskforce
-#+filetags: :galnet:
+#+filetags: :Alliance:galnet:
 
 * Alliance-Sirius Pact Prepares New Taskforce
 
 /23 Sep 3308/
 
-The anti-xeno strategic defence pact between [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] and Sirius Corporation has been fully ratified as a legally binding treaty. 
+The anti-xeno strategic defence pact between the Alliance and Sirius Corporation has been fully ratified as a legally binding treaty. 
 
-The Assembly voted to approve the agreement at the end of June, following months of debate. The decision was influenced by the outcome of two competing initiatives to procure resource packages for [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] Defence Force (ADF). 
+The Assembly voted to approve the agreement at the end of June, following months of debate. The decision was influenced by the outcome of two competing initiatives to procure resource packages for the Alliance Defence Force (ADF). 
 
 Admiral Nikolas Glass, the Sirius Navy representative on the Council of Admirals, delivered this statement: 
 
@@ -20,6 +20,6 @@ Admiral Nikolas Glass, the Sirius Navy representative on the Council of Admirals
 
 Shortly before this announcement, an editorial in the Old Worlds Gazette remarked: “So far, Sirius has not fired a single shot in this war. Do they plan to save us by offering the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] special discounts?” Other critics agreed that the defence pact looked increasingly like an administrative exercise rather than a military strategy. 
 
-Councillor Hildegard Dressler, who represents the Leesti system, told [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][The Alliance]] Tribune:  
+Councillor Hildegard Dressler, who represents the Leesti system, told The Alliance Tribune:  
 
 “I know that the prime minister shares the public’s frustration with the slow process of bureaucratic approval. He has called upon Sirius Corporation to fast-track its plans urgently, and Operation Tyndareus will be the result.”

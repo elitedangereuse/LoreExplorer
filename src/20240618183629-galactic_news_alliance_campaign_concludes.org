@@ -2,7 +2,7 @@
 :ID:       e7eb9085-2ba8-474f-ae75-ffe78ddce159
 :END:
 #+title: Galactic News: Alliance Campaign Concludes
-#+filetags: :3304:galnet:
+#+filetags: :Alliance:3304:galnet:
 
 * Galactic News: Alliance Campaign Concludes
 
@@ -12,7 +12,7 @@ The Alliance has announced that its operation to reclaim the supply lines connec
 
 The campaign received the support of hundreds of independent pilots, who eliminated the pirates targeting the supply lines and recovered escape pods from ships destroyed by the agitators. Those rescued from the shipwrecks are now recovering at Darwin Research Facility. 
 
-As the campaign drew to a close, [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] released a statement: 
+As the campaign drew to a close, the Alliance released a statement: 
 
 “We are immeasurably grateful to those who participated in this operation – you have saved our allies from a terrible fate.” 
 

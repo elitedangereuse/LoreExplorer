@@ -2,7 +2,7 @@
 :ID:       654e7236-e9df-465a-bc59-08290ccd8f88
 :END:
 #+title: [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] War Update: December 3309
-#+filetags: :galnet:
+#+filetags: :Alliance:galnet:
 
 * [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] War Update: December 3309
 
@@ -20,6 +20,6 @@ As the year draws to a close, [[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sa
 
 “Perhaps the most incredible victory is the liberation of hundreds of thousands of abducted people from captivity within the Titans. All were kept in strict quarantine since their return, undergoing tests to ensure that they were not somehow influenced by the Thargoids.” 
 
-“Now, however, [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] has decided to allow its citizens to return home. Other governments are more cautious, but this has not stopped returnees from receiving gifts, calls and visits from their friends and families. There has been a concerted effort to alleviate their horrific ordeal and reconnect with them as much as possible.” 
+“Now, however, the Alliance has decided to allow its citizens to return home. Other governments are more cautious, but this has not stopped returnees from receiving gifts, calls and visits from their friends and families. There has been a concerted effort to alleviate their horrific ordeal and reconnect with them as much as possible.” 
 
 “And so, as 3310 dawns, there is real hope that this most terrible period of history may have some end in sight. This is [[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]] reporting for Vox Galactica. Stay safe out there.”

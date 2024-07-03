@@ -2,7 +2,7 @@
 :ID:       e85450a9-e532-4edc-b42b-26fc27bd37af
 :END:
 #+title: The Emperor’s Ire
-#+filetags: :Federation:galnet:
+#+filetags: :Alliance:Federation:galnet:
 
 * The Emperor’s Ire
 
@@ -12,7 +12,7 @@ Emperor [[id:34f3cfdd-0536-40a9-8732-13bf3a5e4a70][Arissa Lavigny-Duval]] has re
 
 During a public address at the opening of a naval research and development complex on Achenar, the Emperor stated: 
 
-“For the avoidance of doubt, my decree to halt interaction with [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] and the Federation remains in effect. Whatever advancements in weaponry or defence are made at these impressive facilities, they will be used exclusively by the Imperial Navy to protect Imperial citizens.” 
+“For the avoidance of doubt, my decree to halt interaction with the Alliance and the Federation remains in effect. Whatever advancements in weaponry or defence are made at these impressive facilities, they will be used exclusively by the Imperial Navy to protect Imperial citizens.” 
 
 “Aegis’s status as an independent agency makes it a legal exception under the Cornelius-Lasky Convention. Only a small fraction of the Empire’s military expenditure is being devoted to Aegis’s anti-xeno forces.” 
 

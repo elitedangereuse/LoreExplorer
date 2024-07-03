@@ -2,7 +2,7 @@
 :ID:       5b32a4e6-76f9-4532-af43-0f02357567a6
 :END:
 #+title: Azimuth: A Historical Perspective (Part One)
-#+filetags: :galnet:
+#+filetags: :Alliance:galnet:
 
 * Azimuth: A Historical Perspective (Part One)
 
@@ -16,7 +16,7 @@ Investigations revealed that it had been owned by a little-known and long-defunc
 
 Back in 3111, these geologists had encountered something terrifying and completely unknown: the first recorded instance of contact with the Thargoids. According to team leader Professor Carver, whose final log was discovered on HIP 69200 1 B, a recovered alien artefact caused equipment malfunctions and delusions among the crew. The damaged Adamastor was abandoned, to finally return home on autopilot two centuries later. 
 
-Further exploration of the Coalsack Nebula uncovered nothing more, but did lead to the detection of new barnacle sites. [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][The Alliance]] wasted no time in harvesting these for meta alloys, followed by a Sirius Corporation project to terraform ammonia worlds. A resurgence of attacks from [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] vessels followed, suggesting that the alien species was as territorial as ever. 
+Further exploration of the Coalsack Nebula uncovered nothing more, but did lead to the detection of new barnacle sites. The Alliance wasted no time in harvesting these for meta alloys, followed by a Sirius Corporation project to terraform ammonia worlds. A resurgence of attacks from [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] vessels followed, suggesting that the alien species was as territorial as ever. 
 
 In April 3307, the Adamastor began receiving a long-range encrypted signal. A decryption key for this was provided by an anonymous source who identified himself only as ‘Salvation’. Tracking the signal led to the wreck of the Hesperus, the Adamastor’s sister ship. This had disappeared in 3113 and was now drifting in the Perseus Dark Region KC-V c2-2 system. 
 

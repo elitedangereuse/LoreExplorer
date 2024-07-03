@@ -2,7 +2,7 @@
 :ID:       3815cb2d-2e8b-4eb4-af43-68be037c2526
 :END:
 #+title: Coalsack Nebula Campaign Completes Initial Stages
-#+filetags: :galnet:
+#+filetags: :Alliance:galnet:
 
 * Coalsack Nebula Campaign Completes Initial Stages
 
@@ -32,7 +32,7 @@ Bering Port Starport in the CoalSack Sector KN-S B4-9 system.
 
 Additional services: Interstellar factor, improved outfitting options, manufactured material trader. 
 
-Commodore [[id:bcaa9222-b056-41cf-9361-68dd8d3424fb][Morag Halloran]] of [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] Defence Force delivered an update on the security procedures: 
+Commodore [[id:bcaa9222-b056-41cf-9361-68dd8d3424fb][Morag Halloran]] of the Alliance Defence Force delivered an update on the security procedures: 
 
 “Our efforts to clear the systems of [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] vessels were hugely boosted by independent pilots. Their skills have enabled our transports to travel to the nebula in relative safety.” 
 

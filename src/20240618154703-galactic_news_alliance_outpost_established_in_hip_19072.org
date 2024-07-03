@@ -2,13 +2,13 @@
 :ID:       e3d83746-c7e8-4656-a569-59afff837ee2
 :END:
 #+title: Galactic News: Alliance Outpost Established in HIP 19072
-#+filetags: :3302:galnet:
+#+filetags: :Alliance:3302:galnet:
 
 * Galactic News: Alliance Outpost Established in HIP 19072
 
 /26 May 3302/
 
-Last month, [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] launched an initiative to establish a new outpost on the fringes of inhabited space. The campaign received the support of hundreds of Alliance-aligned pilots who, along with other members of the galactic community, delivered essential materials and components to the Alliance base at Noti Dock. 
+Last month, the Alliance launched an initiative to establish a new outpost on the fringes of inhabited space. The campaign received the support of hundreds of Alliance-aligned pilots who, along with other members of the galactic community, delivered essential materials and components to the Alliance base at Noti Dock. 
 
 Now, Alliance Prime Minister [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74][Edmund Mahon]] has announced that the new outpost is complete. In a statement, Mahon said: 
 

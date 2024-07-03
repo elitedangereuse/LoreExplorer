@@ -2,7 +2,7 @@
 :ID:       dbc207d2-329a-4d8d-bd41-7997128ac3c1
 :END:
 #+title: Electoral Reform Proposed for the Alliance
-#+filetags: :galnet:
+#+filetags: :Alliance:galnet:
 
 * Electoral Reform Proposed for the Alliance
 
@@ -12,11 +12,11 @@ Councillor Nakato Kaine has suggested that the Alliance’s current electoral sy
 
 The proposal follows a recent election where Prime Minister [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74][Edmund Mahon]] was reinstated for a second six-year term. 
 
-Addressing [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] Assembly, Councillor Kaine said: 
+Addressing the Alliance Assembly, Councillor Kaine said: 
 
-“Only allowing council members to choose the prime minister is a flawed system, vulnerable to corruption and outside influence. The people of [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] should have a direct mandate to determine their leader by casting individual votes.” 
+“Only allowing council members to choose the prime minister is a flawed system, vulnerable to corruption and outside influence. The people of the Alliance should have a direct mandate to determine their leader by casting individual votes.” 
 
-Political journalist Vanya Driscoll reported for [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][The Alliance]] Tribune: 
+Political journalist Vanya Driscoll reported for The Alliance Tribune: 
 
 “Although Kaine stopped short of claiming that Mahon’s victory was achieved fraudulently, the Assembly took a dim view of this attempt at electoral overhaul. Some council members accused her of failing to accept that her policies received considerably less support than those of her rival.” 
 

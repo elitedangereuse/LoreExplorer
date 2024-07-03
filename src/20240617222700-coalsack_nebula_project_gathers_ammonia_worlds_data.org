@@ -3,7 +3,7 @@
 :ROAM_REFS: https://cms.zaonce.net/en-GB/jsonapi/node/galnet_article/897832dc-7323-41a9-9001-3bfd1d3a45fd?resourceVersion=id%3A4774
 :END:
 #+title: Coalsack Nebula Project Gathers Ammonia Worlds Data
-#+filetags: :Federation:galnet:
+#+filetags: :Alliance:Federation:galnet:
 
 * Coalsack Nebula Project Gathers Ammonia Worlds Data
 
@@ -15,7 +15,7 @@ Explorers have catalogued many ammonia worlds for a [[id:c85d1251-b6f2-460f-9a24
 Atmospherics]] terraforming project in the [[id:88b18bc5-5e3a-4165-bd1f-9d352b70ade6][Coalsack Nebula]].
 
 The subsidiary of [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]] is one of several companies that
-are working in partnership with the [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][Alliance]] to commercially exploit
+are working in partnership with the Alliance to commercially exploit
 the region.
 
 Project director [[id:eb0165b3-7d95-4887-ad0c-3db012756434][Dr Maximilian North]] announced the successful

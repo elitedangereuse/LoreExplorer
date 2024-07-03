@@ -2,7 +2,7 @@
 :ID:       aa249afb-fafd-472b-a377-c64c924dea9e
 :END:
 #+title: Alliance President Proposes Changes
-#+filetags: :3304:galnet:
+#+filetags: :Alliance:3304:galnet:
 
 * Alliance President Proposes Changes
 
@@ -10,13 +10,13 @@
 
 Alliance President Gibson Kincaid has confirmed he will campaign for re-election in October. 
 
-Addressing the media, President Kincaid also said he wanted to make significant changes to [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] constitution: 
+Addressing the media, President Kincaid also said he wanted to make significant changes to the Alliance constitution: 
 
 “The role of Alliance president is largely ceremonial. I believe that should change. I have been lobbying to invest the position with executive powers, over and above the prime minister and the Assembly. By streamlining our bureaucracy, we can make decisions as efficiently as the other superpowers.” 
 
 “I also believe that each presidential incumbent should remain in office for six years, instead of a maximum of two one-year terms. That will allow time to renegotiate diplomatic relationships and correct past mistakes.” 
 
-Gibson Kincaid was the governor of the Zaonce system before assuming the presidency in 3303. He has repeatedly claimed that [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] is failing to fulfil its true potential. 
+Gibson Kincaid was the governor of the Zaonce system before assuming the presidency in 3303. He has repeatedly claimed that the Alliance is failing to fulfil its true potential. 
 
 Prime Minister [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74][Edmund Mahon]] responded: 
 

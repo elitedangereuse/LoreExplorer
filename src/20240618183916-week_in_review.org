@@ -2,7 +2,7 @@
 :ID:       bed55ce6-85ca-46a9-9cc2-389ed3394d10
 :END:
 #+title: Week in Review 20 Oct 3304
-#+filetags: :3304:galnet:
+#+filetags: :Alliance:3304:galnet:
 
 * Week in Review
 
@@ -10,7 +10,7 @@
 
 Here are this week’s major stories. 
 
-Gibson Kincaid has been announced as the winner of [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] presidential election, and will continue serving as president of the Alliance. Kincaid obtained a small majority of the public vote, defeating Councillor Elijah Beck. Prime Minister [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74][Edmund Mahon]] said the Alliance Assembly was still debating Kincaid’s proposal to imbue the presidential role with executive powers. 
+Gibson Kincaid has been announced as the winner of the Alliance presidential election, and will continue serving as president of the Alliance. Kincaid obtained a small majority of the public vote, defeating Councillor Elijah Beck. Prime Minister [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74][Edmund Mahon]] said the Alliance Assembly was still debating Kincaid’s proposal to imbue the presidential role with executive powers. 
 
 An attempt by armed intruders to access Phoenix Base in the Meene system, home of the engineer Ram Tah, has been foiled. [[id:4551539e-a6b2-4c45-8923-40fb603202b7][Ram Tah]] said he believed the thwarted raid was an attempt to steal research data or samples of Guardian technology. 
 

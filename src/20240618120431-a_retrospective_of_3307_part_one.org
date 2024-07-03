@@ -2,7 +2,7 @@
 :ID:       c3d1e2f4-57fa-4f45-9355-48d6cd937b0c
 :END:
 #+title: A Retrospective of 3307 (Part One)
-#+filetags: :galnet:
+#+filetags: :Alliance:galnet:
 
 * A Retrospective of 3307 (Part One)
 
@@ -20,7 +20,7 @@ pressure.”
 
 “In February came the trial of Fleet Admiral Vincent, accused of arranging Starship One’s destruction back in 3301. His paymaster was revealed as Core Dynamics CEO Jupiter Rochester, who wanted to replace Federal democracy with direct corporate rule.” 
 
-“His breakaway faction Jupiter Division was defeated in battle and Rochester himself jailed for life. This also led to Core Dynamics’s acquisition of Lakon Spaceways being cancelled, leaving [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] to purchase a majority sharehold in the company.” 
+“His breakaway faction Jupiter Division was defeated in battle and Rochester himself jailed for life. This also led to Core Dynamics’s acquisition of Lakon Spaceways being cancelled, leaving the Alliance to purchase a majority sharehold in the company.” 
 
 “Key players on the political stage finally gathered when the Galactic Summit began in late February. The Sirius system hosted leaders from the Alliance, Empire, Federation and independent systems. Even pirate warlord [[id:7aae0550-b8ba-42cf-b52b-e7040461c96f][Archon Delaine]] gatecrashed the event, causing controversy with his ‘crown of bones’ speech.” 
 

@@ -2,7 +2,7 @@
 :ID:       dc8a7c09-975f-4e60-b620-b0773e4c3869
 :END:
 #+title: Week in Review 24 Nov 3304
-#+filetags: :3304:galnet:
+#+filetags: :Alliance:3304:galnet:
 
 * Week in Review
 
@@ -10,7 +10,7 @@
 
 Here are this week’s major stories. 
 
-Admiral Frederick Yamamoto has been announced as the sixth member of [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] Council of Admirals. The position had been vacant for months after the previous appointment, Riri McAllister, was discovered to be the coordinator of terrorist group the League of Reparation. The decision has ruffled some feathers, not least because Admiral Yamamoto is a close personal friend of President Gibson Kincaid. 
+Admiral Frederick Yamamoto has been announced as the sixth member of the Alliance Council of Admirals. The position had been vacant for months after the previous appointment, Riri McAllister, was discovered to be the coordinator of terrorist group the League of Reparation. The decision has ruffled some feathers, not least because Admiral Yamamoto is a close personal friend of President Gibson Kincaid. 
 
 The Mars Tribune has been closed and its owner arrested in the wake of the spy robot scandal. The announcement was made by Detective Captain Ramesh Thorne, who was recently reinstated to, and promoted by, the Federal Security Service. Thorne assured the public that the surveillance program installed in some Achilles Corporation PA912 robots had been removed. 
 

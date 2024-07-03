@@ -2,7 +2,7 @@
 :ID:       c4ea8ef3-0aac-4774-ac95-6c499c4e4eee
 :END:
 #+title: Coalsack Nebula Reports [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Activity
-#+filetags: :galnet:
+#+filetags: :Alliance:galnet:
 
 * Coalsack Nebula Reports [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] Activity
 
@@ -12,7 +12,7 @@ The human colonists in the Coalsack Nebula has raised the alarm after [[id:09343
 
 Following recent attacks on systems and vessels in the California Nebula, it appears that the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]] have again sought to occupy systems where barnacle fields are present on planet surfaces. 
 
-Councillor Lewis Laychurch, representing [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] Expeditionary Pact in HIP 62154, provided the following to the Alliance Tribune: 
+Councillor Lewis Laychurch, representing the Alliance Expeditionary Pact in HIP 62154, provided the following to the Alliance Tribune: 
 
 “Our security craft regularly patrol between the populated systems in this region. We had the first reports of nonhuman signals this morning. Obviously we’ve seen [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] activity in the Coalsack Nebula several times before, but this time was different. It’s not an attack as much as a presence.” 
 

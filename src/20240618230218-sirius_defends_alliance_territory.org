@@ -2,7 +2,7 @@
 :ID:       d3abe9da-888d-471c-8b40-e6d2a587cb9a
 :END:
 #+title: Sirius Defends Alliance Territory
-#+filetags: :galnet:
+#+filetags: :Alliance:galnet:
 
 * Sirius Defends Alliance Territory
 
@@ -12,9 +12,9 @@
 
 Sirius Corporation megaships will soon arrive in the Coalsack and Witch Head Nebulas to provide anti-xeno support. 
 
-The three vessels are intended as a demonstration of Sirius Corporation’s military capabilities, prior to the strategic defence pact being ratified by [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] Assembly. 
+The three vessels are intended as a demonstration of Sirius Corporation’s military capabilities, prior to the strategic defence pact being ratified by the Alliance Assembly. 
 
-A public statement was provided by Admiral Nikolas Glass, the Sirius Navy representative on [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] Council of Admirals: 
+A public statement was provided by Admiral Nikolas Glass, the Sirius Navy representative on the Alliance Council of Admirals: 
 
 “The Coalsack Nebula and Witch Head Nebula regions are where Alliance interests are most at risk from [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] attack. From tomorrow, our megaships will serve as bases from which anti-xeno operations can be conducted.” 
 

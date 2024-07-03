@@ -2,7 +2,7 @@
 :ID:       826b0a7d-2776-49a9-93e2-425b70f2571f
 :END:
 #+title: ximilian North announced the successful completion of the initiative: 
-#+filetags: :galnet:
+#+filetags: :Alliance:galnet:
 
 * Coalsack Nebula Project Gathers Ammonia Worlds Data
 
@@ -12,7 +12,7 @@
 
 Explorers have catalogued many ammonia worlds for a Sirius Atmospherics terraforming project in the Coalsack Nebula. 
 
-The subsidiary of Sirius Corporation is one of several companies that are working in partnership with [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] to commercially exploit the region.  
+The subsidiary of Sirius Corporation is one of several companies that are working in partnership with the Alliance to commercially exploit the region.  
 
 Project director Dr [[id:eb0165b3-7d95-4887-ad0c-3db012756434][Maximilian North]] announced the successful completion of the initiative: 
 
@@ -20,6 +20,6 @@ Project director Dr [[id:eb0165b3-7d95-4887-ad0c-3db012756434][Maximilian North]
 
 Sirius Atmospherics has confirmed that payouts for all contributing pilots are now available at Betancourt Base in the Musca Dark Region PJ-P b6-1 system. 
 
-As the expansion into the Coalsack Nebula progresses, Commodore [[id:bcaa9222-b056-41cf-9361-68dd8d3424fb][Morag Halloran]] of [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][the Alliance]] Defence Force commented on the possibility of further attacks from the Thargoids: 
+As the expansion into the Coalsack Nebula progresses, Commodore [[id:bcaa9222-b056-41cf-9361-68dd8d3424fb][Morag Halloran]] of the Alliance Defence Force commented on the possibility of further attacks from the Thargoids: 
 
 “Anti-xeno security is not as stringent as we had planned, due to the low availability of ADF vessels and Aegis being impacted by Federal and Imperial defunding. It may be necessary to call upon the galactic community again, should we encounter further interference from the Thargoids.”

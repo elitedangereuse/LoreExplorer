@@ -3,7 +3,7 @@
 :ROAM_REFS: https://cms.zaonce.net/en-GB/jsonapi/node/galnet_article/23e60481-4219-4e09-ba10-40c69f101f17?resourceVersion=id%3A4894
 :END:
 #+title: Uncertainty Hits Takeover of Lakon Spaceways
-#+filetags: :galnet:
+#+filetags: :Alliance:galnet:
 
 * Uncertainty Hits Takeover of Lakon Spaceways
 
@@ -11,7 +11,7 @@
 
 The purchase of shipbuilding company Lakon Spaceways by Core Dynamics is in doubt after allegations of illegal business practices. 
 
-Irfan Karim reported on the recent developments for [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][The Alliance]] Tribune: 
+Irfan Karim reported on the recent developments for The Alliance Tribune: 
 
 “The Independent Commission for Market Equality has confirmed that several Lakon shareholders sold their stock to shell companies, which were covertly established by departments within Core Dynamics. Furthermore, two serious accusations of blackmail have been referred to Alliance Interpol.” 
 
