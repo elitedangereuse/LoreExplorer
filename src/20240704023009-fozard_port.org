@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       01afd0e9-6618-4c17-b425-4e228f418159
+:ROAM_REFS: https://inara.cz/elite/station/22090/
+:END:
+#+title: Fozard Port
+#+filetags: :Station:
+
+Station in the [[id:361a46f2-79c4-40bf-9781-4066763914f3][Upaniklis]] system

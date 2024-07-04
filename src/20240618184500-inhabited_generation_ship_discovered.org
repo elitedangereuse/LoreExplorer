@@ -2,26 +2,50 @@
 :ID:       fbbf6682-ddc0-47de-aeff-1933d6c3f7c7
 :END:
 #+title: Inhabited Generation Ship Discovered
-#+filetags: :galnet:
+#+filetags: :3305:galnet:
 
 * Inhabited Generation Ship Discovered
 
 /08 Nov 3305/
 
-A generation ship with a living population has been discovered in the Upaniklis system. 
+A [[id:951f3d20-c3aa-41cc-ba58-cc7d3a5a1d07][generation ship]] with a living population has been discovered in the
+[[id:361a46f2-79c4-40bf-9781-4066763914f3][Upaniklis]] system.
 
-The ship’s distress signal was initially picked up by a listening post. Investigating pilots were surprised to find that the ancient vessel - identified as the Golconda - had drifted into the uninhabited region around Upaniklis B. 
+The ship’s distress signal was initially picked up by a [[id:4df4a36a-20bf-43ca-9bf1-2324f832ab81][listening
+post]]. Investigating pilots were surprised to find that the ancient
+vessel - identified as the [[id:fce1d147-f900-41ec-a92c-3ce3d1cae641][Golconda]] - had drifted into the uninhabited
+region around [[id:240cb7c7-e94f-46b8-bbda-021a0d0ea538][Upaniklis B]].
 
-Generation ships are huge, self-sufficient craft from the pre-hyperdrive era, designed to deliver their original crews’ descendants to uninhabited systems. Launched in the 22nd century, the Golconda has survived for more than a millennium as the home of a self-reliant society. 
+[[id:951f3d20-c3aa-41cc-ba58-cc7d3a5a1d07][Generation ships]] are huge, self-sufficient craft from the
+pre-hyperdrive era, designed to deliver their original crews’
+descendants to uninhabited systems. Launched in the 22nd century, the
+Golconda has survived for more than a millennium as the home of a
+self-reliant society.
 
-But it is believed the vessel’s outdated facilities are struggling to meet the needs of its crew. The inhabitants have reported a lack of maintenance materials and medical supplies, the latter made more pertinent by a virus sweeping through the ship. 
+But it is believed the vessel’s outdated facilities are struggling to
+meet the needs of its crew. The inhabitants have reported a lack of
+maintenance materials and medical supplies, the latter made more
+pertinent by a [[id:dd5abb31-73fb-4390-82ad-33030cb49d38][virus]] sweeping through the ship.
 
-Itsuko Harada of Upaniklis Vision Incorporated gave the following statement: 
+[[id:868d286f-de8c-40f7-9743-bbadc4d38423][Itsuko Harada]] of [[id:f3e9c36a-0e5d-493b-8fff-b86cdb2a3dcb][Upaniklis Vision Incorporated]] gave the following
+statement:
 
-“These visitors have crossed incredible distances, entirely disconnected from the rest of humanity until now. Sheer desperation has forced these proud people to call for help – a disease referred to as ‘the wasting kiss’ is running rampant, and in a closed environment its effects may prove catastrophic.” 
+“These visitors have crossed incredible distances, entirely
+disconnected from the rest of humanity until now. Sheer desperation
+has forced these proud people to call for help – a disease referred to
+as ‘[[id:62c30f25-2c97-444a-8572-7169cfbf1ab5][the wasting kiss]]’ is running rampant, and in a closed environment
+its effects may prove catastrophic.”
 
-“Understandably, the Golconda’s people are reluctant to leave their home or interact with the rest of the galaxy, at least at present. They have gratefully accepted our offer of medical supplies and other materials, however.” 
+“Understandably, the Golconda’s people are reluctant to leave their
+home or interact with the rest of the galaxy, at least at
+present. They have gratefully accepted our offer of medical supplies
+and other materials, however.”
 
-Traders are asked to deliver basic medicines, advanced medicines, aluminium, ceramic composites and semiconductors to Fozard Port in the Upaniklis system. Upaniklis Vision Incorporated is also offering bounty vouchers on wanted ships to deter pirate activity in the area. 
+Traders are asked to deliver basic medicines, advanced medicines,
+aluminium, ceramic composites and semiconductors to [[id:01afd0e9-6618-4c17-b425-4e228f418159][Fozard Port]] in the
+[[id:361a46f2-79c4-40bf-9781-4066763914f3][Upaniklis]] system. Upaniklis Vision Incorporated is also offering
+bounty vouchers on wanted ships to deter [[id:6c5d5774-5308-4b6f-a575-5ce96cf440db][pirate]] activity in the area.
 
-The initiative is scheduled to run from the 8th to the 14th of November 3305. If the final targets are met earlier than planned, the campaign will end immediately.
+The initiative is scheduled to run from the 8th to the 14th of
+November 3305. If the final targets are met earlier than planned, the
+campaign will end immediately.

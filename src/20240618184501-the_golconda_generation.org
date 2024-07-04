@@ -2,22 +2,42 @@
 :ID:       f37d778b-0c16-4514-a77f-2e34f5c79d32
 :END:
 #+title: The Golconda Generation
-#+filetags: :galnet:
+#+filetags: :3305:galnet:
 
 * The Golconda Generation
 
 /11 Nov 3305/
 
-The culture of the generation ship Golconda has been examined by Professor Elizabeth Perez, head of anthropology at Orion Independent University. 
+The culture of the [[id:951f3d20-c3aa-41cc-ba58-cc7d3a5a1d07][generation ship]] [[id:fce1d147-f900-41ec-a92c-3ce3d1cae641][Golconda]] has been examined by
+Professor [[id:b08555d1-8420-4d9c-bbce-2574b209f833][Elizabeth Perez]], head of anthropology at [[id:0fded921-0769-48d9-94fd-dc508fd271fc][Orion Independent University]].
 
-“Little is known about the Golconda’s origins. There are no intact records of its launch, and the lack of archived blueprints suggests a privately funded colonisation attempt. But there’s no doubt this microcosm of 22nd Century society will have diverged over the past thousand years.” 
+“Little is known about the Golconda’s origins. There are no intact
+records of its launch, and the lack of archived blueprints suggests a
+privately funded [[id:d1f19609-fdb7-4991-bcb2-e93435f013d0][colonisation]] attempt. But there’s no doubt this
+microcosm of 22nd Century society will have diverged over the past
+thousand years.”
 
-“The inhabitants’ language is entirely comprehensible, however, and their social structure is recognisable. Rigid security measures are in evidence, as one would expect from an isolationist culture.” 
+“The inhabitants’ language is entirely comprehensible, however, and
+their social structure is recognisable. Rigid security measures are in
+evidence, as one would expect from an isolationist culture.”
 
-“We also know there is a custodian tasked with ensuring the community’s wellbeing, and a chaplain who provides spiritual guidance. All signs point to contentment with – maybe even an addiction to – their spacefaring existence.” 
+“We also know there is a custodian tasked with ensuring the
+community’s wellbeing, and a chaplain who provides spiritual
+guidance. All signs point to contentment with – maybe even an
+addiction to – their spacefaring existence.”
 
-While audio messages recorded by the Golconda crew are available to the galactic community, only a select handful of individuals representing Upaniklis Vision Incorporated have been permitted to dock with the Golconda. Professor Perez travelled to Upaniklis to speak with them as part of her study. 
+While audio messages recorded by the Golconda crew are available to
+the galactic community, only a select handful of individuals
+representing [[id:f3e9c36a-0e5d-493b-8fff-b86cdb2a3dcb][Upaniklis Vision Incorporated]] have been permitted to dock
+with the Golconda. Professor Perez travelled to [[id:361a46f2-79c4-40bf-9781-4066763914f3][Upaniklis]] to speak
+with them as part of her study.
 
-“Interviews with those who delivered supplies were fascinating. As one pilot put it: ‘The loading procedures were done at top speed, hardly any comms chatter at all. Nobody on the Golconda entered the cargo bays before we left. I got the impression they were scared stiff of us.’” 
+“Interviews with those who delivered supplies were fascinating. As one
+pilot put it: ‘The loading procedures were done at top speed, hardly
+any comms chatter at all. Nobody on the Golconda entered the cargo
+bays before we left. I got the impression they were scared stiff of
+us.’”
 
-“History shows that isolated cultures can be irrevocably damaged by contact with outsiders. We must ensure that efforts to support the Golconda community do not destroy this unique bubble-colony.”
+“History shows that isolated cultures can be irrevocably damaged by
+contact with outsiders. We must ensure that efforts to support the
+Golconda community do not destroy this unique bubble-colony.”

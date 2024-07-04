@@ -3,6 +3,3 @@
 :ROAM_REFS: https://community.elitedangerous.com/en/galnet/uid/57f76fc89657ba7153edfc13
 :END:
 #+title: Listening Post
-
-Could be related to the [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][The Sirius Corporation]].
-Ref: [[https://community.elitedangerous.com/en/galnet/uid/57f76fc89657ba7153edfc13][Galactic News: Exploration or Surveillance?]]
