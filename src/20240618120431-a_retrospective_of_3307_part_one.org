@@ -2,13 +2,14 @@
 :ID:       c3d1e2f4-57fa-4f45-9355-48d6cd937b0c
 :END:
 #+title: A Retrospective of 3307 (Part One)
-#+filetags: :Thargoid:Alliance:galnet:
+#+filetags: :Death:Thargoid:Empire:Alliance:Federation:3307:3301:galnet:
 
 * A Retrospective of 3307 (Part One)
 
 /28 Dec 3307/
 
-The noted historian [[id:e13ec234-b603-4a29-870d-2b87410195ea][Sima Kalhana]] takes a look back at the turbulent events of the last year in a four-part series of articles. 
+The noted historian [[id:e13ec234-b603-4a29-870d-2b87410195ea][Sima Kalhana]] takes a look back at the turbulent
+events of the last year in a four-part series of articles.
 
 “The start of 3307 was a time of crisis. The rise of the [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][Neo-Marlinist
 Liberation Army]] (NMLA), the [[id:46536da8-abd4-461f-9bf9-b749d4fc25e1][Marlinist]] refugee crisis and increased
@@ -16,16 +17,44 @@ Empire-Federation tensions had brought a full-scale superpower war
 closer, with renewed attacks from the Thargoids increasing the
 pressure.”
 
-“All of this led to [[id:05ab22a7-9952-49a3-bdc0-45094cdaff6a][Pranav Antal]]’s proposal of a diplomatic conference for all three superpower governments to work through their problems – the very first [[id:c19cec97-cb93-4049-be5d-1abcaa6023a5][Galactic Summit]]. Within weeks, [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]] was selected as the neutral host for the conference. [[id:f0655b3a-aca9-488f-bdb3-c481a42db384][Li Yong-Rui]] scored another triumph by establishing the Marlinist Colonies for millions of political refugees who had fled from the Empire.” 
+“All of this led to [[id:05ab22a7-9952-49a3-bdc0-45094cdaff6a][Pranav Antal]]’s proposal of a diplomatic conference
+for all three superpower governments to work through their problems –
+the very first [[id:c19cec97-cb93-4049-be5d-1abcaa6023a5][Galactic Summit]]. Within weeks, [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]] was
+selected as the neutral host for the conference. [[id:f0655b3a-aca9-488f-bdb3-c481a42db384][Li Yong-Rui]] scored
+another triumph by establishing the Marlinist Colonies for millions of
+political refugees who had fled from the Empire.”
 
-“In February came the trial of Fleet Admiral Vincent, accused of arranging Starship One’s destruction back in 3301. His paymaster was revealed as Core Dynamics CEO Jupiter Rochester, who wanted to replace Federal democracy with direct corporate rule.” 
+“In February came the trial of Fleet [[id:478137a2-59fc-4055-ba37-021ef7035652][Admiral Vincent]], accused of
+arranging [[id:85fdc9c8-500b-4e91-bc8b-70bcb3c05b0f][Starship One]]’s destruction back in 3301. His paymaster was
+revealed as [[id:4a28463f-cbed-493b-9466-70cbc6e19662][Core Dynamics]] CEO [[id:c33064d1-c2a0-4ac3-89fe-57eedb7ef9c8][Jupiter Rochester]], who wanted to replace
+Federal democracy with direct corporate rule.”
 
-“His breakaway faction Jupiter Division was defeated in battle and Rochester himself jailed for life. This also led to Core Dynamics’s acquisition of Lakon Spaceways being cancelled, leaving the Alliance to purchase a majority sharehold in the company.” 
+“His breakaway faction [[id:a35c5eb2-0697-4ef3-9a11-950791952e2d][Jupiter Division]] was defeated in battle and
+Rochester himself [[id:e8035fca-336e-4175-a00d-b5d61dfa1196][jailed]] for life. This also led to Core Dynamics’s
+acquisition of [[id:906c77b7-7fe4-48c1-ace5-1265023c2ebf][Lakon Spaceways]] being cancelled, leaving the Alliance
+to purchase a majority sharehold in the company.”
 
-“Key players on the political stage finally gathered when the Galactic Summit began in late February. The Sirius system hosted leaders from the Alliance, Empire, Federation and independent systems. Even pirate warlord [[id:7aae0550-b8ba-42cf-b52b-e7040461c96f][Archon Delaine]] gatecrashed the event, causing controversy with his ‘crown of bones’ speech.” 
+“Key players on the political stage finally gathered when the [[id:c19cec97-cb93-4049-be5d-1abcaa6023a5][Galactic
+Summit]] began in late February. The [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] system hosted leaders from
+the Alliance, Empire, Federation and independent systems. Even [[id:6c5d5774-5308-4b6f-a575-5ce96cf440db][pirate]]
+warlord [[id:7aae0550-b8ba-42cf-b52b-e7040461c96f][Archon Delaine]] gatecrashed the event, causing controversy with
+his ‘[[id:197d32f8-18b2-4a91-a1c4-a42fedb54f2a][crown of bones]]’ speech.”
 
-“It seemed for a while that the bickering between so many strong personalities might trigger a war rather than avert one. But gradually there was progress, with the possibility of a treaty to increase unity against the Thargoid threat. But before reaching this conclusion, the Galactic Summit was derailed by a threat from another source.” 
+“It seemed for a while that the bickering between so many strong
+personalities might trigger a war rather than avert one. But gradually
+there was progress, with the possibility of a treaty to increase unity
+against the Thargoid threat. But before reaching this conclusion, the
+Galactic Summit was derailed by a threat from another source.”
 
-“Nine Martyrs – as named by the [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] leader [[id:7878ad2d-4118-4028-bfff-90a3976313bd][Theta Seven]] – was the largest terrorist attack in history. Hundreds of thousands were killed by starport bombings in nine systems, including the superpower capitals of Alioth, Achenar and Sol. This horrific tragedy ended the conference abruptly, but did give rise to some inter-power cooperation.” 
+“[[id:0713b7e5-a805-4b4d-91c0-104735484fbc][Nine Martyrs]] – as named by the [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] leader [[id:7878ad2d-4118-4028-bfff-90a3976313bd][Theta Seven]] – was the
+largest terrorist [[id:04673d31-5035-4581-b189-60da2755007c][attack]] in history. Hundreds of thousands were killed
+by starport bombings in nine systems, including the superpower
+capitals of [[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]], [[id:bed8c27f-3cbe-49ad-b86f-7d87eacf804a][Achenar]] and [[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]]. This horrific tragedy ended the
+conference abruptly, but did give rise to some inter-power
+cooperation.”
 
-“A new agreement signed at the Galactic Summit allowed the Affiliated Counter-Terrorism unit (ACT) to be formed rapidly. Drawing on the superpowers’ security services and other organisations, its sole purpose was to hunt down and eliminate the NMLA, a task that would dominate the headlines for the rest of the year.”
+“A new agreement signed at the Galactic Summit allowed the Affiliated
+Counter-Terrorism unit ([[id:a152bfb8-4b9a-4b61-a292-824ecbd263e1][ACT]]) to be formed rapidly. Drawing on the
+superpowers’ security services and other organisations, its sole
+purpose was to hunt down and eliminate the NMLA, a task that would
+dominate the headlines for the rest of the year.”
