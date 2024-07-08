@@ -16,7 +16,7 @@ There is no official terminology for the signals but they are referred to by man
 
 The first anomaly was discovered beyond the permit-locked Col 70 sector, with additional signals now observed. Multiple calculations have verified that the objects are moving, supposedly at faster-than-light speeds. Various estimates as to their trajectory have been made, but the great distances involved defy accurate measurement. 
 
-The appearance of the anomalies so soon after the Battle of HIP 22460 has led many to assume that they are somehow related to the Thargoids. These fears have been exacerbated by the claims of the Far God cult that this is a sign of their deity’s imminent arrival, but early analysis has yielded no evidence that the anomaly is Thargoid in origin. 
+The appearance of the anomalies so soon after the Battle of HIP 22460 has led many to assume that they are somehow related to the Thargoids. These fears have been exacerbated by the claims of the [[id:04ae001b-eb07-4812-a42e-4bb72825609b][Far God]] cult that this is a sign of their deity’s imminent arrival, but early analysis has yielded no evidence that the anomaly is Thargoid in origin. 
 
 The engineer [[id:d8266505-5aa0-40a3-aa84-4b6519a16b24][Kit Fowler]] collated several ideas during his End Times broadcast: 
 

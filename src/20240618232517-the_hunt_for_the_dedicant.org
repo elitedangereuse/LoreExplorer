@@ -16,9 +16,9 @@ Vice Admiral Amir Rafiq, a spokesperson for the Imperial Navy, broadcast an anno
 
 “An Imperial scout ship travelling through LP 714-58 has intercepted several fragmentary signals. Their identifying markers confirmed that they originated from the Dedicant. We believe there has been an encryption error in the system’s communication beacons, which prevented the distress call from being rerouted to its intended destination in the Federation.” 
 
-“Officially, the Imperial Navy no longer performs joint operations with our Federal counterparts. Nor do we involve ourselves in the activities of the illegal Far God cult. Nevertheless, we are sharing this information as a humanitarian gesture. Our hope is that this may aid a rescue mission for those trapped aboard the lost megaship.”  
+“Officially, the Imperial Navy no longer performs joint operations with our Federal counterparts. Nor do we involve ourselves in the activities of the illegal [[id:04ae001b-eb07-4812-a42e-4bb72825609b][Far God]] cult. Nevertheless, we are sharing this information as a humanitarian gesture. Our hope is that this may aid a rescue mission for those trapped aboard the lost megaship.”  
 
-The Dedicant made an unscheduled hyperspace jump from the Popontia system on the 15th of June, while imprisoned members of the Order of the Far God were being transferred onboard to be relocated in the Alliance. 
+The Dedicant made an unscheduled hyperspace jump from the Popontia system on the 15th of June, while imprisoned members of the Order of the [[id:04ae001b-eb07-4812-a42e-4bb72825609b][Far God]] were being transferred onboard to be relocated in the Alliance. 
 
 Executive Agent Jalen Locke of the Federal Intelligence Agency released a statement: 
 

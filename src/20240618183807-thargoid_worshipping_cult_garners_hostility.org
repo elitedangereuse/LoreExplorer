@@ -10,7 +10,7 @@
 
 Public reaction to a fringe religion that worships the Thargoids is one of mistrust and hostility, according to security reports. 
 
-The nameless cult believes in the coming of the so-called Far God and the subsequent extinction of all humanity bar themselves. Their hive-chapels, inspired by Thargoid design, have sprung up on several independent worlds and in a few Federation and Alliance systems. 
+The nameless cult believes in the coming of the so-called [[id:04ae001b-eb07-4812-a42e-4bb72825609b][Far God]] and the subsequent extinction of all humanity bar themselves. Their hive-chapels, inspired by Thargoid design, have sprung up on several independent worlds and in a few Federation and Alliance systems. 
 
 Security forces in these locations have made numerous arrests for misdemeanours directed at the sect. These include graffiti, property damage, verbal abuse and physical assault. There are no recorded cases of worshippers retaliating, defending themselves or seeking assistance. 
 
@@ -20,4 +20,4 @@ Juanita Bishop, who runs a vocal citizen-protection campaign, claims she is warn
 
 Many authorities have responded along the same lines as Councillor Quinn Damico of the Aranbarahun system: 
 
-“I would like to assure citizens that the Far God worshippers, while strange, are essentially harmless. Furthermore, criminal acts against them, including incitement to violence, may result in prosecution. The right to freedom of religion is protected by law in all systems where the sect has a presence.”
+“I would like to assure citizens that the [[id:04ae001b-eb07-4812-a42e-4bb72825609b][Far God]] worshippers, while strange, are essentially harmless. Furthermore, criminal acts against them, including incitement to violence, may result in prosecution. The right to freedom of religion is protected by law in all systems where the sect has a presence.”
