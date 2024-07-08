@@ -8,11 +8,11 @@
 
 /03 Jan 3309/
 
-The corporation Azimuth Biotech has outlined its plans to support the war effort against the Thargoids by improving ship anti-xeno firepower. 
+The corporation [[id:e68a5318-bd72-4c92-9f70-dcdbd59505d1][Azimuth Biotech]] has outlined its plans to support the war effort against the Thargoids by improving ship anti-xeno firepower. 
 
 CEO Torben Rademaker was interviewed on The Tau Ceti Journal’s official ICE-cast, where he explained: 
 
-“As you may recall, one of the many reasons Aegis became redundant was its poor record in improving AX armaments past the initial rush of designs. Azimuth Biotech has established a research and development division specifically designed to correct their failings at a steady, sustainable pace.” 
+“As you may recall, one of the many reasons Aegis became redundant was its poor record in improving AX armaments past the initial rush of designs. [[id:e68a5318-bd72-4c92-9f70-dcdbd59505d1][Azimuth Biotech]] has established a research and development division specifically designed to correct their failings at a steady, sustainable pace.” 
 
 “One of the inherent limitations with Aegis’s designs is the maximum number of AX weapons that a ship can be outfitted with. The enhanced versions based on Ryder and Nemo’s designs share this limitation. We seek to increase the upper limit of AX weapons a ship can utilise, and our research teams are already reporting promising results.” 
 

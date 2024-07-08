@@ -20,6 +20,6 @@ Federal Free Press: “The government’s focus on [[id:106b62b9-4ed8-4f7c-8c5c-
 
 Old Worlds Gazette: “Cooperating with Sirius Corporation to harvest meta-alloys in the Coalsack Nebula was the primary cause of increased hostility from the Thargoids. Is the Alliance responsible for providing the conditions that allowed [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]] to obtain such power?” 
 
-The Tau Ceti Journal: “Senior figures in the business sector are concerned that Azimuth Biotech, despite some recent market uncertainty, has the potential to become the most influential corporation with all three superpowers. Its success in the HIP 22460 system could reshape the financial markets considerably.” 
+The Tau Ceti Journal: “Senior figures in the business sector are concerned that [[id:e68a5318-bd72-4c92-9f70-dcdbd59505d1][Azimuth Biotech]], despite some recent market uncertainty, has the potential to become the most influential corporation with all three superpowers. Its success in the HIP 22460 system could reshape the financial markets considerably.” 
 
 The Empirical: “Ram Tah has published theoretical papers on the Guardian technology derived from the Proteus experiments. However, he admits that full comprehension of the superweapon’s construction requires scientific data held exclusively by [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]].”

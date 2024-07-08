@@ -4,7 +4,7 @@
 #+title: ‘Operation Wych Hunt’ Opposes Azimuth Biotech
 #+filetags: :Thargoid:galnet:
 
-* ‘Operation Wych Hunt’ Opposes Azimuth Biotech
+* ‘Operation Wych Hunt’ Opposes [[id:e68a5318-bd72-4c92-9f70-dcdbd59505d1][Azimuth Biotech]]
 
 /30 Jun 3308/
 
@@ -12,9 +12,9 @@
 
 A coalition of independent Commanders has been formed to destabilise [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]’s anti-xeno organisation. 
 
-The Alliance, Empire and Federation are providing military backing to Azimuth Biotech – formerly Taurus Mining Ventures – to end the Thargoid threat. Many members of the Pilots’ Federation have also declared their support, but some have organised a resistance movement. 
+The Alliance, Empire and Federation are providing military backing to [[id:e68a5318-bd72-4c92-9f70-dcdbd59505d1][Azimuth Biotech]] – formerly Taurus Mining Ventures – to end the Thargoid threat. Many members of the Pilots’ Federation have also declared their support, but some have organised a resistance movement. 
 
-To undermine Azimuth Biotech’s presence in several systems, a series of civil actions and combat strikes are being coordinated under the banner ‘Operation Wych Hunt’. This refers to evidence that suggests [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]’s real name is Dr Caleb Wycherley, also referred to as ‘the Witch’ in several sources. 
+To undermine [[id:e68a5318-bd72-4c92-9f70-dcdbd59505d1][Azimuth Biotech]]’s presence in several systems, a series of civil actions and combat strikes are being coordinated under the banner ‘Operation Wych Hunt’. This refers to evidence that suggests [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]’s real name is Dr Caleb Wycherley, also referred to as ‘the Witch’ in several sources. 
 
 The Commanders are directly protesting against [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]], claiming he is responsible for numerous illegal activities that resulted in multiple deaths. These include developing the [[id:0ffe3814-d246-41f3-8f82-4bb9ca062dea][mycoid]] bioweapon for INRA, Project Seraph’s inhumane experiments to create human interfaces to Thargoid ships, and the destruction of the Alexandria with the loss of 4,000 crewmembers. As summarised in their mission statement: ‘We do not support a mass murderer. Salvation, we can save ourselves.’ 
 

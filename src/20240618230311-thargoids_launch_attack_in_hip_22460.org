@@ -12,7 +12,7 @@
 
 The HIP 22460 system has been invaded by large numbers of Thargoid vessels, with several multi-craft conflicts already reported. 
 
-An alert was broadcast by Commodore Morag Halloran, military coordinator for Azimuth Biotech: 
+An alert was broadcast by Commodore Morag Halloran, military coordinator for [[id:e68a5318-bd72-4c92-9f70-dcdbd59505d1][Azimuth Biotech]]: 
 
 “As [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]] predicted, the Thargoids have detected the large-scale concentration of Guardian artefacts aboard the Bright Sentinel. Thargoid interceptors and scouts are now swarming throughout HIP 22460.” 
 
