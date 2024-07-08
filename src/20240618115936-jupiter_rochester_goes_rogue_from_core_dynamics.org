@@ -2,7 +2,7 @@
 :ID:       3fff4e52-a910-4d23-b688-410f4108194d
 :ROAM_REFS: https://cms.zaonce.net/en-GB/jsonapi/node/galnet_article/6647b38b-800f-43db-81fb-507c5f91de77?resourceVersion=id%3A4927
 :END:
-#+title: [[id:c33064d1-c2a0-4ac3-89fe-57eedb7ef9c8][Jupiter Rochester]] Goes Rogue from Core Dynamics
+#+title: Jupiter Rochester Goes Rogue from Core Dynamics
 #+filetags: :galnet:
 
 * [[id:c33064d1-c2a0-4ac3-89fe-57eedb7ef9c8][Jupiter Rochester]] Goes Rogue from Core Dynamics
