@@ -2,7 +2,7 @@
 :ID:       e26683e6-6b19-4671-8676-f333bd5e8ff7
 :ROAM_ALIASES: "Calico Zack"
 :END:
-#+title: [[id:e26683e6-6b19-4671-8676-f333bd5e8ff7][Zachary Rackham]]
+#+title: Zachary Rackham
 #+filetags: :Individual:
 
 Billionaire also known as 'Calico Zack'
