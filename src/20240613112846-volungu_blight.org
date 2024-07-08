@@ -2,13 +2,13 @@
 :ID:       b64b1732-c527-4d47-86a4-e8cded3d494c
 :END:
 #+title: Volungu Blight
-#+filetags: :beacon:
-* 0158 Volungu Blight
+#+filetags: :3301:beacon:
+* 0158 Volungu [[id:1cffca4e-480b-46bf-b6c5-0af48c7292d3][Blight]]
 [[id:d31d3dd1-f63a-4ff2-9fa5-5031c4b7bf6c][Furbaide]]
 
 Reports began in February 3301 that despite the valiant efforts of
 medical staff in [[id:867ef9a7-e1b0-4b85-b0b4-3036c0cb8e48][Liaedin]], [[id:c7e9e317-97fb-453b-bd7a-a52a61b5cafa][LHS 3505]] and [[id:d31d3dd1-f63a-4ff2-9fa5-5031c4b7bf6c][Furbaide]] the illness known as
-the Volungu Blight was spreading unchecked. Hundreds died in just 24
+the Volungu [[id:1cffca4e-480b-46bf-b6c5-0af48c7292d3][Blight]] was spreading unchecked. Hundreds died in just 24
 hours from the disease. A rapid-response medical team was sent to
 Effinger Port in the Furbaide system in an attempt to contain the
 spread.
