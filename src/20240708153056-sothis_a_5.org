@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       4bced525-9b3f-4894-a1ad-546a9ef89b63
+:END:
+#+title: Sothis A 5
+#+filetags: :Planet:
+
+Planet with thermal vents capable of converting gold to [[id:488137ee-6e22-47f6-93b1-05f2a26e2780][Sothis Crystalline Gold]]
