@@ -2,20 +2,30 @@
 :ID:       ae391c29-02ea-43ae-9a49-d9afad37f69f
 :END:
 #+title: Mars Tribune Closes
-#+filetags: :3304:galnet:
+#+filetags: :Federation:3304:galnet:
 
 * Mars Tribune Closes
 
 /22 Nov 3304/
 
-The Mars Tribune has been closed and its owner arrested in the wake of the spy robot scandal. 
+[[id:a5b054ac-dff0-434b-ade6-09d5f81228a1][The Mars Tribune]] has been closed and its owner arrested in the wake of
+the [[id:de12e7c6-dc67-403d-bdd5-aadb52313312][spy]] [[id:0c43c44c-33fe-4b99-a5e0-2f2be9dc67b0][robot]] scandal.
 
-The announcement was made by Detective Captain Ramesh Thorne, who was recently reinstated to, and promoted by, the Federal Security Service: 
+The announcement was made by Detective Captain [[id:67e55dd5-7840-4133-9111-566a0008b121][Ramesh Thorne]], who was
+recently reinstated to, and promoted by, the Federal Security Service:
 
-“Kingsley Cordova, editor Lana Sigrid and other employees of The Mars Tribune have been arrested for blackmail and corruption. The newsfeed has been permanently dissolved, and the Cordova Group conglomerate subjected to a government audit.” 
+“[[id:74cae77e-fab1-4a22-9c31-daaa15d8fd0e][Kingsley Cordova]], editor [[id:6d78c541-458f-413f-83fd-e86ab6415c8e][Lana Sigrid]] and other employees of The Mars
+Tribune have been arrested for [[id:f1778ba6-dab1-442b-88ff-1dfe06ee2616][blackmail]] and corruption. The newsfeed
+has been permanently dissolved, and the [[id:ba42b0e5-1d3f-4541-874f-f324124c0980][Cordova Group]] conglomerate
+subjected to a government audit.”
 
-“I would like to thank the anonymous whistle-blower who exposed Cordova’s scheme. She has now removed the surveillance program from all Achilles Corporation PA912 robots in exchange for immunity from prosecution.” 
+“I would like to thank the anonymous [[id:e72cde19-08be-465d-a02f-b69134025a61][whistle-blower]] who exposed
+Cordova’s scheme. She has now removed the surveillance program from
+all [[id:04ba4637-336a-46c7-bab0-3ac12f16b2f9][Achilles Corporation]] [[id:0b7fcbab-6e37-401a-8d52-4d2dee8e5c1e][PA912]] robots in exchange for immunity from
+prosecution.”
 
-Chief Editor Lena Ravenhill wrote in The Federal Times: 
+Chief Editor [[id:186bc9ae-20b5-4403-83f9-a19bd76f7c59][Lena Ravenhill]] wrote in [[id:be5df73c-519d-45ed-a541-9b70bc8ae97c][The Federal Times]]: 
 
-“The Mars Tribune abandoned its professional ethics in its hunt for salacious headlines, thereby undermining the role of honest journalism in our society. We are relieved to see justice done.”
+“The Mars Tribune abandoned its professional ethics in its hunt for
+salacious headlines, thereby undermining the role of honest journalism
+in our society. We are relieved to see justice done.”
