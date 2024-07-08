@@ -12,7 +12,7 @@ Aegis has announced that its Eagle Eye initiative is proving to be a great succe
 
 The Eagle Eye orbital surveillance installations were established earlier this year to monitor transmissions from known Thargoid surface sites. This data is then made available to independent pilots.  
 
-In an interview with The Federal Times, Admiral [[id:7bca1ccd-649e-438a-ae56-fb8ca34e6440][Aden Tanner]] remarked: 
+In an interview with [[id:be5df73c-519d-45ed-a541-9b70bc8ae97c][The Federal Times]], Admiral [[id:7bca1ccd-649e-438a-ae56-fb8ca34e6440][Aden Tanner]] remarked: 
 
 “I have no doubt that without this surveillance data, more starports in the Pleiades would have been attacked and damaged. Only last week, Thargoid incursions in the Lwalama and Lalande 4141 systems were vigorously resisted thanks to the early warnings provided by Eagle Eye.” 
 

@@ -1,14 +1,14 @@
 :PROPERTIES:
 :ID:       cac3520e-f8bf-4cc8-806d-a062c58f30d8
 :END:
-#+title: Herculean Machines Initiative Concludes
+#+title: [[id:46e9f326-2119-4d5b-a625-a32820a44642][Herculean Machines]] Initiative Concludes
 #+filetags: :galnet:
 
-* Herculean Machines Initiative Concludes
+* [[id:46e9f326-2119-4d5b-a625-a32820a44642][Herculean Machines]] Initiative Concludes
 
 /03 Jan 3305/
 
-An initiative run by Herculean Machines, manufacturer of Duradrive personal computers, has now concluded. 
+An initiative run by [[id:46e9f326-2119-4d5b-a625-a32820a44642][Herculean Machines]], manufacturer of Duradrive personal computers, has now concluded. 
 
 Multiple shipments of consumer technology, hardware diagnostic sensors and computer components were delivered to the Blatrimpe system, which will be used to fulfil a large order from the Federal Navy. 
 

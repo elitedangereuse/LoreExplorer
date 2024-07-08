@@ -8,7 +8,7 @@
 
 /03 Nov 3304/
 
-The Federal Security Service has abruptly terminated its investigation of The Mars Tribune regarding personal administration robots fitted with hidden surveillance programs. 
+The [[id:0ba9accc-93ad-45a0-a771-e26daa59e58f][Federal Security Service]] has abruptly terminated its investigation of The Mars Tribune regarding personal administration robots fitted with hidden surveillance programs. 
 
 Although interviews with Tribune employees were underway, it has been alleged that a senior figure in the FSS ordered the task force to focus elsewhere. 
 
@@ -16,6 +16,6 @@ The Tribune’s owner, billionaire [[id:74cae77e-fab1-4a22-9c31-daaa15d8fd0e][Ki
 
 “I’m pleased that our innocence has been accepted, and I’m confident that the guilty parties will soon be found.” 
 
-An opinion piece in The Federal Times from chief editor Lena Ravenhill took an alternative view, however: 
+An opinion piece in [[id:be5df73c-519d-45ed-a541-9b70bc8ae97c][The Federal Times]] from chief editor Lena Ravenhill took an alternative view, however: 
 
 “Last week, Cordova suggested the spy robots could share the many secrets they’ve gathered, and suddenly the FSS is ordered to leave The Mars Tribune alone. Does anyone really think this is coincidence? How many powerful people are frightened of what Cordova might reveal about them?”

@@ -20,6 +20,6 @@ The isolationist group Nova Imperium has started mustering its forces in the Par
 
 An open order for military supplies has been placed on behalf of the Federal Navy by the League of Zearla. A parallel operation is being run by Imperial faction the Sirsir Co. Both initiatives begin on the 3rd of January 3305 and will run for one week. 
 
-Finally, an initiative run by Herculean Machines, manufacturer of Duradrive personal computers, has concluded. Multiple shipments of consumer technology, hardware diagnostic sensors and computer components were delivered to the Blatrimpe system, which will be used to fulfil a large order from the Federal Navy. 
+Finally, an initiative run by [[id:46e9f326-2119-4d5b-a625-a32820a44642][Herculean Machines]], manufacturer of Duradrive personal computers, has concluded. Multiple shipments of consumer technology, hardware diagnostic sensors and computer components were delivered to the Blatrimpe system, which will be used to fulfil a large order from the Federal Navy. 
 
 And those are the main stories this week.

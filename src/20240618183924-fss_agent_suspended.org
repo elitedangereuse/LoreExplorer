@@ -8,7 +8,7 @@
 
 /08 Nov 3304/
 
-Lieutenant Inspector Ramesh Thorne, who has been leading an investigation into The Mars Tribune, has been suspended from the Federal Security Service. 
+Lieutenant Inspector Ramesh Thorne, who has been leading an investigation into The Mars Tribune, has been suspended from the [[id:0ba9accc-93ad-45a0-a771-e26daa59e58f][Federal Security Service]]. 
 
 A spokesperson for the FSS released the following statement: 
 
@@ -18,6 +18,6 @@ The announcement came less than an hour after Thorne made the following public a
 
 “We have evidence that the admin robots fitted with surveillance programs are connected to exclusive stories obtained by The Mars Tribune. Since my superiors are unwilling to pursue this, I am appealing to anyone with relevant information to come forward. I can guarantee them immunity from prosecution.” 
 
-Many media including Lena Ravenhill, chief editor of The Federal Times, reacted with outrage to the news: 
+Many media including Lena Ravenhill, chief editor of [[id:be5df73c-519d-45ed-a541-9b70bc8ae97c][The Federal Times]], reacted with outrage to the news: 
 
 “It’s clear that someone in the FSS is feeling threatened, and that The Mars Tribune has used spy robots to feed the scandals it thrives on. We are highlighting Ramesh Thorne’s appeal, as are many other newsfeeds taking a stand against corrupt journalism.”

@@ -1,23 +1,35 @@
 :PROPERTIES:
 :ID:       c4c2d390-8669-462b-afa1-7d7d2fe65bcf
 :END:
-#+title: Investors Abandon Herculean Machines
-#+filetags: :3304:galnet:
+#+title: Investors Abandon [[id:46e9f326-2119-4d5b-a625-a32820a44642][Herculean Machines]]
+#+filetags: :Federation:3304:galnet:
 
-* Investors Abandon Herculean Machines
+* Investors Abandon [[id:46e9f326-2119-4d5b-a625-a32820a44642][Herculean Machines]]
 
 /14 Sep 3304/
 
-An anonymous source has revealed that Maddox Hurd, owner of technology company Herculean Machines, was previously investigated by the Federal Security Service. 
+An anonymous source has revealed that [[id:93fd6de1-43a9-40e8-819f-43d9bcd3a709][Maddox Hurd]], owner of technology
+company [[id:46e9f326-2119-4d5b-a625-a32820a44642][Herculean Machines]], was previously investigated by the [[id:0ba9accc-93ad-45a0-a771-e26daa59e58f][Federal
+Security Service]].
 
-The source shared recently declassified FSS records on the Rewired news channel, and stated: 
+The source shared recently declassified FSS records on the [[id:d06803e0-267c-4ffc-88f2-967058fce82e][Rewired]]
+news channel, and stated:
 
-“When establishing Herculean five years ago, Maddox Hurd accepted financial contributions from individuals connected to organised-crime networks, such as the Red Family. While Hurd did not technically break the law, the FSS has kept a close eye on him ever since.” 
+“When establishing Herculean five years ago, [[id:93fd6de1-43a9-40e8-819f-43d9bcd3a709][Maddox Hurd]] accepted
+financial contributions from individuals connected to organised-[[id:d686af2f-d947-4f3b-ba19-d57c93d29d99][crime]]
+networks, such as the [[id:792ffce8-85dc-4147-8ea3-8e5feb26ba94][Red Family]]. While Hurd did not technically break
+the law, the FSS has kept a close eye on him ever since.”
 
-In the wake of this news, a number of Herculean Machines’ corporate investors withdrew their support. Maddox Hurd told the media: 
+In the wake of this news, a number of [[id:46e9f326-2119-4d5b-a625-a32820a44642][Herculean Machines]]’ corporate
+investors withdrew their support. [[id:93fd6de1-43a9-40e8-819f-43d9bcd3a709][Maddox Hurd]] told the media:
 
-“This is a smear campaign, and those underhanded snakes at Supratech are behind it!” 
+“This is a smear campaign, and those underhanded snakes at [[id:3e9f43fb-038f-46a6-be53-3c9af1bad474][Supratech]] are behind it!” 
 
-Scorpio DeVorrow, CEO of rival company Supratech, declined to comment, but Harlow Nassry, technology journalist at The Federal Times, observed: 
+[[id:b62c9e2e-8079-44bc-a30d-d192076162e6][Scorpio DeVorrow]], CEO of rival company [[id:3e9f43fb-038f-46a6-be53-3c9af1bad474][Supratech]], declined to comment,
+but [[id:81ba02cb-f405-4079-9207-63afc71263df][Harlow Nassry]], technology journalist at [[id:be5df73c-519d-45ed-a541-9b70bc8ae97c][The Federal Times]],
+observed:
 
-“With Herculean Machines losing investment and Supratech’s facility destroyed, both companies are in a compromised position. Unless they can drum up additional support, neither will be able to unveil their new designs at the Rackham Ultratech Expo in October.”
+“With [[id:46e9f326-2119-4d5b-a625-a32820a44642][Herculean Machines]] losing investment and [[id:3e9f43fb-038f-46a6-be53-3c9af1bad474][Supratech]]’s facility
+destroyed, both companies are in a compromised position. Unless they
+can drum up additional support, neither will be able to unveil their
+new designs at the [[id:9d064da0-7be3-4c7b-99ad-0edd1585d4ca][Rackham Ultratech Expo]] in October.”
