@@ -2,22 +2,39 @@
 :ID:       d8059255-65df-4176-bdc6-915fd79abb8c
 :END:
 #+title: Federal Research Programme Terminated
-#+filetags: :3301:galnet:
+#+filetags: :Federation:3301:galnet:
 
 * Federal Research Programme Terminated
 
 /20 Sep 3301/
 
-Federal Research Programme Terminated 
+Federal [[id:112b5795-655f-4cc1-9995-b7aa39cb27c4][Research]] Programme Terminated 
  
-Reports have begun circulating that the Federal research programme established last week to study the so-called ‘anomalous extraterrestrial objects’ (or AEOs) has been terminated. This news comes only a week after the inauguration of the project. 
+Reports have begun circulating that the Federal research programme
+established last week to study the so-called ‘[[id:3b903a70-280c-4b0c-8240-e97c4c970d92][anomalous]]
+[[id:193cf057-7f74-4842-b9a8-af825a04e7e6][extraterrestrial]] objects’ (or AEOs) has been terminated. This news
+comes only a week after the inauguration of the project.
 
-According to a source at Fort Harrison, where the programme was based, study of the objects was brought to an abrupt halt by the station governor, Aoishe Quaid. Apparently, Quaid ordered the head of the project, Professor Ishmael Palin, to immediately cease his research. The reason for Quaid’s decision is not known, although it is not believed to have been informed by concerns over public safety. 
+According to a source at [[id:cf35447b-c4b9-4450-83ad-830b1af13cfa][Fort Harrison]], where the programme was based,
+study of the objects was brought to an abrupt halt by the station
+governor, [[id:d61b7c78-a45a-48cd-bcab-4a0d30b83661][Aoishe Quaid]]. Apparently, Quaid ordered the head of the
+project, Professor [[id:8f63442a-1f38-457d-857a-38297d732a90][Ishmael Palin]], to immediately cease his
+research. The reason for Quaid’s decision is not known, although it is
+not believed to have been informed by concerns over public [[id:33a46531-2d6b-460d-8b56-b5c81acd8c42][safety]].
 
-A second source from Fort Harrison, who asked not to be named, had the following to say: 
+A second source from Fort Harrison, who asked not to be named, had the
+following to say:
 
-“Frankly, I don’t think it was Quaid’s decision at all – I think she was pressured into shutting the programme down. She was enthusiastic about the project and had a lot of respect for Professor Palin, so this change of direction just doesn’t make sense. The question is, who forced her to cancel the research, and why?” 
+“Frankly, I don’t think it was Quaid’s decision at all – I think she
+was pressured into shutting the programme down. She was enthusiastic
+about the project and had a lot of respect for Professor Palin, so
+this change of direction just doesn’t make sense. The question is, who
+forced her to [[id:d6b96fb1-c922-4d7c-b249-26fa1c650f23][cancel]] the research, and why?”
 
-The objects under study were described as quasi-organic in nature and capable of broadcasting location data across vast distances. Their discovery was widely considered the scientific find of the decade, and the cancellation of the project will no doubt provoke a strong response from the scientific community. 
+The objects under study were described as [[id:f73e6c5a-b8aa-409c-9ee9-e81039144897][quasi-organic]] in nature and
+capable of [[id:9e7b9200-31ec-4163-b258-f4fa04346d42][broadcasting]] location data across vast distances. Their
+discovery was widely considered the scientific find of the decade, and
+the cancellation of the project will no doubt provoke a strong
+response from the scientific community.
 
 Professor Palin declined to comment on the Governor Quaid’s decision.

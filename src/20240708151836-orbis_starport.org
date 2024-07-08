@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       d5cc8c3e-9887-4c30-9a1d-08008ab36675
+:END:
+#+title: Orbis Starport
+#+filetags: :Station:
+
+Type of starport.
+
+[[file:img/stations/orbis.png]]
