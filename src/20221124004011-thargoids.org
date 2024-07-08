@@ -26,7 +26,7 @@
   - [[id:0be96028-d995-4b52-8bb0-34f21e080bce][John Jameson]]
   - [[id:8f63442a-1f38-457d-857a-38297d732a90][Ishmael Palin]]
   - [[id:0e8f9924-e230-4390-aa79-5dba76c6e6d2][Uri Anslow]]
-  - [[id:9a8a2b74-f7e3-4d1b-abfd-82b91b1d6481][The Order Of The [[id:04ae001b-eb07-4812-a42e-4bb72825609b][Far God]]]]
+  - The Order Of The [[id:04ae001b-eb07-4812-a42e-4bb72825609b][Far God]]
 * Enemies
   - Guardians
   - [[id:4dfd1a40-8f9b-4f66-9c90-971e253a3fe1][Humans]]

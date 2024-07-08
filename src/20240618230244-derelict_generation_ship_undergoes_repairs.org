@@ -15,7 +15,7 @@ into a fully operational modern vessel.
 provided a statement to [[id:4ab0f53c-0b85-43a3-83ca-b9e88c0db30e][Vox Galactica]]:
 
 “When the [[id:eb7f4d60-9116-4d68-a0c2-13ac1e74d72e][dredger clan]] first arrived in the [[id:361a46f2-79c4-40bf-9781-4066763914f3][Upaniklis]] system, we
-feared they had come to salvage the Golconda. Instead, to our
+feared they had come to salvage the [[id:fce1d147-f900-41ec-a92c-3ce3d1cae641][Golconda]]. Instead, to our
 surprise, they’ve initiated engineering work on it: reinforcing the
 ship’s structural integrity, repairing damaged components, and
 installing modern engines and navigational systems. Yet the decks
@@ -25,7 +25,7 @@ where our community previously lived remains untouched.”
 of us. But today we received a message expressing a strange,
 child-like excitement at finding what they called a ‘dead-hulk’, and
 their determination to ‘revive’ it for us. With their incredible
-skills, it’s possible that the Golconda could become spaceworthy again
+skills, it’s possible that the [[id:fce1d147-f900-41ec-a92c-3ce3d1cae641][Golconda]] could become spaceworthy again
 within weeks.”
 
 “This has prompted a huge debate among my people. Should we return to
@@ -34,5 +34,5 @@ this outpost. Others believe we should resume journeying between the
 stars, as our ancestors did for centuries.”
 
 “Many are looking to me for leadership, and I must admit to finding
-such a decision hard. I thought the Golconda was our history, but
+such a decision hard. I thought the [[id:fce1d147-f900-41ec-a92c-3ce3d1cae641][Golconda]] was our history, but
 perhaps it still holds our future.”

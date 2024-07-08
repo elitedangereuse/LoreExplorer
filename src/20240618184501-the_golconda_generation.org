@@ -1,17 +1,17 @@
 :PROPERTIES:
 :ID:       f37d778b-0c16-4514-a77f-2e34f5c79d32
 :END:
-#+title: The Golconda Generation
+#+title: The [[id:fce1d147-f900-41ec-a92c-3ce3d1cae641][Golconda]] Generation
 #+filetags: :3305:galnet:
 
-* The Golconda Generation
+* The [[id:fce1d147-f900-41ec-a92c-3ce3d1cae641][Golconda]] Generation
 
 /11 Nov 3305/
 
 The culture of the [[id:951f3d20-c3aa-41cc-ba58-cc7d3a5a1d07][generation ship]] [[id:fce1d147-f900-41ec-a92c-3ce3d1cae641][Golconda]] has been examined by
 Professor [[id:b08555d1-8420-4d9c-bbce-2574b209f833][Elizabeth Perez]], head of anthropology at [[id:0fded921-0769-48d9-94fd-dc508fd271fc][Orion Independent University]].
 
-“Little is known about the Golconda’s origins. There are no intact
+“Little is known about the [[id:fce1d147-f900-41ec-a92c-3ce3d1cae641][Golconda]]’s origins. There are no intact
 records of its launch, and the lack of archived blueprints suggests a
 privately funded [[id:d1f19609-fdb7-4991-bcb2-e93435f013d0][colonisation]] attempt. But there’s no doubt this
 microcosm of 22nd Century society will have diverged over the past
@@ -26,15 +26,15 @@ community’s wellbeing, and a chaplain who provides spiritual
 guidance. All signs point to contentment with – maybe even an
 addiction to – their spacefaring existence.”
 
-While audio messages recorded by the Golconda crew are available to
+While audio messages recorded by the [[id:fce1d147-f900-41ec-a92c-3ce3d1cae641][Golconda]] crew are available to
 the galactic community, only a select handful of individuals
 representing [[id:f3e9c36a-0e5d-493b-8fff-b86cdb2a3dcb][Upaniklis Vision Incorporated]] have been permitted to dock
-with the Golconda. Professor Perez travelled to [[id:361a46f2-79c4-40bf-9781-4066763914f3][Upaniklis]] to speak
+with the [[id:fce1d147-f900-41ec-a92c-3ce3d1cae641][Golconda]]. Professor Perez travelled to [[id:361a46f2-79c4-40bf-9781-4066763914f3][Upaniklis]] to speak
 with them as part of her study.
 
 “Interviews with those who delivered supplies were fascinating. As one
 pilot put it: ‘The loading procedures were done at top speed, hardly
-any comms chatter at all. Nobody on the Golconda entered the cargo
+any comms chatter at all. Nobody on the [[id:fce1d147-f900-41ec-a92c-3ce3d1cae641][Golconda]] entered the cargo
 bays before we left. I got the impression they were scared stiff of
 us.’”
 
