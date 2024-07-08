@@ -2,7 +2,7 @@
 :ID:       a5b52a42-c7db-4ed5-8fb4-737bf495b74f
 :END:
 #+title: Community Goal: Federation Appeals for Exploration Data
-#+filetags: :3302:galnet:
+#+filetags: :CommunityGoal:3302:galnet:
 
 * Community Goal: Federation Appeals for Exploration Data
 

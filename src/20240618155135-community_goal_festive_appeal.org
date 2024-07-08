@@ -2,7 +2,7 @@
 :ID:       bc7be49c-7508-4444-b870-9be9dfb94e10
 :END:
 #+title: Community Goal: Festive Appeal
-#+filetags: :3302:galnet:
+#+filetags: :CommunityGoal:3302:galnet:
 
 * Community Goal: Festive Appeal
 

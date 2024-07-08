@@ -2,7 +2,7 @@
 :ID:       385f0f57-c589-4e9d-961f-e0a95ea5ad76
 :END:
 #+title: Community Goal: Putting LP 339-7 on the Map
-#+filetags: :3302:galnet:
+#+filetags: :CommunityGoal:3302:galnet:
 
 * Community Goal: Putting LP 339-7 on the Map
 

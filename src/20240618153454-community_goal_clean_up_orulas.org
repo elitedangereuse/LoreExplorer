@@ -2,7 +2,7 @@
 :ID:       b29a9b3f-2ff7-4c9b-86a3-f32a130f1284
 :END:
 #+title: Community Goal: Clean up Orulas
-#+filetags: :3302:galnet:
+#+filetags: :CommunityGoal:3302:galnet:
 
 * Community Goal: Clean up Orulas
 

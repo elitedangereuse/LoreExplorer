@@ -2,7 +2,7 @@
 :ID:       8266288d-e83c-4b72-bc35-b697e414e8c2
 :END:
 #+title: Community Goal: The Colonia Expansion
-#+filetags: :3302:galnet:
+#+filetags: :CommunityGoal:3302:galnet:
 
 * Community Goal: The Colonia Expansion
 

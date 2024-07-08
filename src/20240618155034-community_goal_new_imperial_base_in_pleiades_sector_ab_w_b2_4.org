@@ -2,7 +2,7 @@
 :ID:       9e8de8c5-c2ee-4f34-a1f5-83db43690b0f
 :END:
 #+title: Community Goal: New Imperial Base in Pleiades Sector Ab-W B2-4
-#+filetags: :3302:galnet:
+#+filetags: :CommunityGoal:3302:galnet:
 
 * Community Goal: New Imperial Base in Pleiades Sector Ab-W B2-4
 

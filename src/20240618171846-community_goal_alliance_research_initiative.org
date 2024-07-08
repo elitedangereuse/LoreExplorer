@@ -2,7 +2,7 @@
 :ID:       e86e1d04-e4c6-4e05-a67f-9371b2807039
 :END:
 #+title: Community Goal: Alliance Research Initiative
-#+filetags: :Thargoid:Alliance:3303:galnet:
+#+filetags: :CommunityGoal:Thargoid:Alliance:3303:galnet:
 
 * Community Goal: Alliance Research Initiative
 

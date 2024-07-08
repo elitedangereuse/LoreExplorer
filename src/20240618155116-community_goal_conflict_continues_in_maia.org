@@ -2,7 +2,7 @@
 :ID:       5ef13a2d-e8e0-4c6d-8217-34a63f4692ec
 :END:
 #+title: Community Goal: Conflict Continues in Maia
-#+filetags: :3302:galnet:
+#+filetags: :CommunityGoal:3302:galnet:
 
 * Community Goal: Conflict Continues in Maia
 

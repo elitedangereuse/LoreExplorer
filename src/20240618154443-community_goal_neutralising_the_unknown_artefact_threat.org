@@ -2,7 +2,7 @@
 :ID:       065fe413-ff37-4aad-8fb9-ab98b49119d4
 :END:
 #+title: Community Goal: Neutralising the Unknown Artefact Threat
-#+filetags: :3302:galnet:
+#+filetags: :CommunityGoal:3302:galnet:
 
 * Community Goal: Neutralising the Unknown Artefact Threat
 

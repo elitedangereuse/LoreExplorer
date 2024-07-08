@@ -2,7 +2,7 @@
 :ID:       2edc9733-2eb0-4a58-896a-b26c89f2e508
 :END:
 #+title: Community Goal: Ishmael Palin Launches Appeal
-#+filetags: :3302:galnet:
+#+filetags: :CommunityGoal:3302:galnet:
 
 * Community Goal: [[id:8f63442a-1f38-457d-857a-38297d732a90][Ishmael Palin]] Launches Appeal
 

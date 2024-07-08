@@ -2,7 +2,7 @@
 :ID:       1bf59259-e0ab-4993-a428-1b49e4f011af
 :END:
 #+title: Community Goal: More Imperial Warships
-#+filetags: :Federation:Empire:3302:galnet:
+#+filetags: :CommunityGoal:Federation:Empire:3302:galnet:
 
 * Community Goal: More Imperial Warships
 

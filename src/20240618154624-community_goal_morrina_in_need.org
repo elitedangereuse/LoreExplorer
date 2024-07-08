@@ -2,7 +2,7 @@
 :ID:       eebaa25c-a633-4ef3-b7f1-234aaa1bc558
 :END:
 #+title: Community Goal: Morrina in Need
-#+filetags: :3302:galnet:
+#+filetags: :CommunityGoal:3302:galnet:
 
 * Community Goal: Morrina in Need
 

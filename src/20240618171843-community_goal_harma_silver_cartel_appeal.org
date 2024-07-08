@@ -2,7 +2,7 @@
 :ID:       f287fd88-db96-4fa0-9b74-3c97d7b7b31a
 :END:
 #+title: Community Goal: Harma Silver Cartel Appeal
-#+filetags: :3303:galnet:
+#+filetags: :CommunityGoal:3303:galnet:
 
 * Community Goal: Harma Silver Cartel Appeal
 

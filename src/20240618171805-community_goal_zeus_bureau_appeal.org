@@ -2,7 +2,7 @@
 :ID:       77fe4f9f-a892-4430-9812-7948fe992072
 :END:
 #+title: Community Goal: Zeus Bureau Appeal
-#+filetags: :3303:galnet:
+#+filetags: :CommunityGoal:3303:galnet:
 
 * Community Goal: Zeus Bureau Appeal
 

@@ -2,7 +2,7 @@
 :ID:       922e9bb7-48e4-411c-b8de-de25ac922279
 :END:
 #+title: Community Goal: The Colonia Initiative
-#+filetags: :Federation:Empire:3302:galnet:
+#+filetags: :CommunityGoal:Federation:Empire:3302:galnet:
 
 * Community Goal: The Colonia Initiative
 

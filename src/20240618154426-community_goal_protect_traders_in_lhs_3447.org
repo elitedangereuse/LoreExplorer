@@ -2,7 +2,7 @@
 :ID:       6ab15124-1cd7-42de-8389-32e6e8c6f54b
 :END:
 #+title: Community Goal: Protect Traders in LHS 3447
-#+filetags: :3302:galnet:
+#+filetags: :CommunityGoal:3302:galnet:
 
 * Community Goal: Protect Traders in LHS 3447
 

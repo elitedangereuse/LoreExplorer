@@ -2,7 +2,7 @@
 :ID:       c68b05db-67db-4874-b886-002ba09972a5
 :END:
 #+title: Community Goal: The Walter Waldo Appeal
-#+filetags: :3302:galnet:
+#+filetags: :CommunityGoal:3302:galnet:
 
 * Community Goal: The Walter Waldo Appeal
 

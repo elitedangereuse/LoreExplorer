@@ -2,7 +2,7 @@
 :ID:       172a5999-eda0-4ebc-9aac-806baf6f3de3
 :END:
 #+title: Community Goal: Aid for D'Arrest Station
-#+filetags: :3302:galnet:
+#+filetags: :CommunityGoal:3302:galnet:
 
 * Community Goal: Aid for D'Arrest Station
 

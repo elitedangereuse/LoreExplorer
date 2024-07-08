@@ -2,7 +2,7 @@
 :ID:       9b160c96-7261-4b12-b180-593a9bac912c
 :END:
 #+title: Community Goal: Upgrading Greeboski's Outpost
-#+filetags: :3302:galnet:
+#+filetags: :CommunityGoal:3302:galnet:
 
 * Community Goal: Upgrading Greeboski's Outpost
 

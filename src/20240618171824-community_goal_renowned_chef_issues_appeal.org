@@ -2,7 +2,7 @@
 :ID:       7ceb2a50-2f6e-4bed-8d00-5ec9bfb7fdda
 :END:
 #+title: Community Goal: Renowned Chef Issues Appeal
-#+filetags: :3303:galnet:
+#+filetags: :CommunityGoal:3303:galnet:
 
 * Community Goal: Renowned Chef Issues Appeal
 

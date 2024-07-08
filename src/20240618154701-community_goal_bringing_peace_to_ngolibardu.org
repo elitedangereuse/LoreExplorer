@@ -2,7 +2,7 @@
 :ID:       db1be8f0-67b9-4607-8ac6-57df91b6a1ad
 :END:
 #+title: Community Goal: Bringing Peace to Ngolibardu
-#+filetags: :3302:galnet:
+#+filetags: :CommunityGoal:3302:galnet:
 
 * Community Goal: Bringing Peace to Ngolibardu
 

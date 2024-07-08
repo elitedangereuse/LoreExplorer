@@ -2,7 +2,7 @@
 :ID:       40f45e40-ccba-411d-b686-9875816a9285
 :END:
 #+title: Community Goal: NULL Campaign Begins
-#+filetags: :3303:galnet:
+#+filetags: :CommunityGoal:3303:galnet:
 
 * Community Goal: NULL Campaign Begins
 

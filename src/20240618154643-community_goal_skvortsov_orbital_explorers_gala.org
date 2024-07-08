@@ -2,7 +2,7 @@
 :ID:       2561c526-01bd-49fe-ae3a-e8202eb8d825
 :END:
 #+title: Community Goal: Skvortsov Orbital Explorers' Gala
-#+filetags: :3302:galnet:
+#+filetags: :CommunityGoal:3302:galnet:
 
 * Community Goal: Skvortsov Orbital Explorers' Gala
 

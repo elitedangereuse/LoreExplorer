@@ -2,7 +2,7 @@
 :ID:       e7ee64e3-c881-4400-87f4-cc8c48263b99
 :END:
 #+title: Community Goal: Conspiracy Theorist Appeals for Cartographic Data
-#+filetags: :3302:galnet:
+#+filetags: :CommunityGoal:3302:galnet:
 
 * Community Goal: Conspiracy Theorist Appeals for Cartographic Data
 

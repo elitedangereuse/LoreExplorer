@@ -2,7 +2,7 @@
 :ID:       4a5dfbb1-4801-4def-aff8-3803e4655ff0
 :END:
 #+title: Community Goal: People's Tutumu Confederacy Appeal
-#+filetags: :3302:galnet:
+#+filetags: :CommunityGoal:3302:galnet:
 
 * Community Goal: People's Tutumu Confederacy Appeal
 

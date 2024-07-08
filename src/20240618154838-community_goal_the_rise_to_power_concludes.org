@@ -2,7 +2,7 @@
 :ID:       02cee327-9747-4713-acdf-a51efab7e748
 :END:
 #+title: Community Goal: The Rise to Power Concludes
-#+filetags: :3302:galnet:
+#+filetags: :CommunityGoal:3302:galnet:
 
 * Community Goal: The Rise to Power Concludes
 

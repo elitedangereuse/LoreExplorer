@@ -2,7 +2,7 @@
 :ID:       ea1269d5-0bec-42fa-b16a-6e1ef7d61c2c
 :END:
 #+title: Community Goal: Strengthening the Colonia Community
-#+filetags: :3302:galnet:
+#+filetags: :CommunityGoal:3302:galnet:
 
 * Community Goal: Strengthening the Colonia Community
 

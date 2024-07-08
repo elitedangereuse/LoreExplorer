@@ -2,7 +2,7 @@
 :ID:       e7ae050c-0888-4e49-8ccd-c8943225e7c7
 :END:
 #+title: Community Goal: Restoring Order in Lidpar
-#+filetags: :3303:galnet:
+#+filetags: :CommunityGoal:3303:galnet:
 
 * Community Goal: Restoring Order in Lidpar
 

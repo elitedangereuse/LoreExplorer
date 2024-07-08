@@ -2,7 +2,7 @@
 :ID:       ed42a5b0-efd4-4e13-b7f5-4d31ebf12fc9
 :END:
 #+title: Community Goal: Battle Royale
-#+filetags: :3302:galnet:
+#+filetags: :CommunityGoal:3302:galnet:
 
 * Community Goal: Battle Royale
 

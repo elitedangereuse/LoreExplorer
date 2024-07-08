@@ -2,7 +2,7 @@
 :ID:       b42d0940-7a86-4604-8eb2-86ef36c23f9b
 :END:
 #+title: Community Goal: A Safe Haven
-#+filetags: :3303:galnet:
+#+filetags: :CommunityGoal:3303:galnet:
 
 * Community Goal: A Safe Haven
 

@@ -2,7 +2,7 @@
 :ID:       feb0cfd6-fda3-48a9-a777-0c4ae1e55c1f
 :END:
 #+title: Community Goal: Restoring Order in Slink's Eye
-#+filetags: :3302:galnet:
+#+filetags: :CommunityGoal:3302:galnet:
 
 * Community Goal: Restoring Order in Slink's Eye
 

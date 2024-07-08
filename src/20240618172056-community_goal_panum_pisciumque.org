@@ -2,7 +2,7 @@
 :ID:       c666afab-be26-4f6c-b52a-009eca4a9990
 :END:
 #+title: Community Goal: Panum Pisciumque
-#+filetags: :3303:galnet:
+#+filetags: :CommunityGoal:3303:galnet:
 
 * Community Goal: Panum Pisciumque
 

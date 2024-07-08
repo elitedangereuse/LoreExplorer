@@ -2,7 +2,7 @@
 :ID:       12cdba4d-f75a-41a6-af53-fd00092da676
 :END:
 #+title: Community Goal: The Rahu Operation
-#+filetags: :3303:galnet:
+#+filetags: :CommunityGoal:3303:galnet:
 
 * Community Goal: The Rahu Operation
 

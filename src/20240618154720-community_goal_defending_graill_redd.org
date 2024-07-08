@@ -2,7 +2,7 @@
 :ID:       d1e30509-c73c-4c60-aaa2-99905bd2a931
 :END:
 #+title: Community Goal: Defending Graill Redd
-#+filetags: :3302:galnet:
+#+filetags: :CommunityGoal:3302:galnet:
 
 * Community Goal: Defending Graill Redd
 

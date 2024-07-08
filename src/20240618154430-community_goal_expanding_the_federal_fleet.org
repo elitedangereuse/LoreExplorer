@@ -2,7 +2,7 @@
 :ID:       6f614552-deeb-423a-bdee-dc1d0dc80967
 :END:
 #+title: Community Goal: Expanding the Federal Fleet
-#+filetags: :Federation:3302:galnet:
+#+filetags: :CommunityGoal:Federation:3302:galnet:
 
 * Community Goal: Expanding the Federal Fleet
 

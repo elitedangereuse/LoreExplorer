@@ -2,7 +2,7 @@
 :ID:       a0859087-958c-4c46-9f8b-f0f8583637db
 :END:
 #+title: Community Goal: Lave Radio Appeals for Blood Crystals
-#+filetags: :3302:galnet:
+#+filetags: :CommunityGoal:3302:galnet:
 
 * Community Goal: Lave Radio Appeals for Blood Crystals
 

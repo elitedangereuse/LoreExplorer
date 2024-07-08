@@ -2,7 +2,7 @@
 :ID:       920faa92-d539-4898-b4de-96ca4bd3915e
 :END:
 #+title: Community Goal: The Battle for Ho Hsi
-#+filetags: :3303:galnet:
+#+filetags: :CommunityGoal:3303:galnet:
 
 * Community Goal: The Battle for Ho Hsi
 

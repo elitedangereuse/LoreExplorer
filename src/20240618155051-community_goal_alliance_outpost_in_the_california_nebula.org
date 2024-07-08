@@ -2,7 +2,7 @@
 :ID:       5424b64f-11bb-4d8c-86de-8d1f60132540
 :END:
 #+title: Community Goal: Alliance Outpost in the California Nebula
-#+filetags: :Alliance:3302:galnet:
+#+filetags: :CommunityGoal:Alliance:3302:galnet:
 
 * Community Goal: Alliance Outpost in the California Nebula
 

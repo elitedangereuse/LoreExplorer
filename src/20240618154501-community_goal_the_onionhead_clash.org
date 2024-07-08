@@ -2,7 +2,7 @@
 :ID:       02e0ef86-2d40-4fe4-8d02-860c5e84f6da
 :END:
 #+title: Community Goal: The Onionhead Clash
-#+filetags: :3302:galnet:
+#+filetags: :CommunityGoal:3302:galnet:
 
 * Community Goal: The Onionhead Clash
 

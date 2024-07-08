@@ -2,7 +2,7 @@
 :ID:       083bb688-0173-49d2-ba1e-c35c6bc1590b
 :END:
 #+title: Community Goal: Halsey to Build Refugee Centre
-#+filetags: :3303:galnet:
+#+filetags: :CommunityGoal:3303:galnet:
 
 * Community Goal: Halsey to Build Refugee Centre
 

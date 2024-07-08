@@ -2,7 +2,7 @@
 :ID:       7eb30501-2c0b-4ee1-9472-9f3c5c0be05a
 :END:
 #+title: Community Goal: Valentine's Day Appeal
-#+filetags: :3303:galnet:
+#+filetags: :CommunityGoal:3303:galnet:
 
 * Community Goal: Valentine's Day Appeal
 

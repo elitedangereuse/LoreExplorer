@@ -2,7 +2,7 @@
 :ID:       387dacd1-1370-41de-a12a-61c9050b5405
 :END:
 #+title: Community Goal: LFT 133 in Need
-#+filetags: :3302:galnet:
+#+filetags: :CommunityGoal:3302:galnet:
 
 * Community Goal: LFT 133 in Need
 

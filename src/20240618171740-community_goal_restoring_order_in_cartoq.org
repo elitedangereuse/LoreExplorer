@@ -2,7 +2,7 @@
 :ID:       55defc7c-ecec-4896-8044-2d2d026926da
 :END:
 #+title: Community Goal: Restoring Order in Cartoq
-#+filetags: :3303:galnet:
+#+filetags: :CommunityGoal:3303:galnet:
 
 * Community Goal: Restoring Order in Cartoq
 

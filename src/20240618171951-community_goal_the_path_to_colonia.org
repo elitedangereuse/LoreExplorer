@@ -2,7 +2,7 @@
 :ID:       d14e0967-e590-4fc2-baf7-1ad85ab1a881
 :END:
 #+title: Community Goal: The Path to Colonia
-#+filetags: :3303:galnet:
+#+filetags: :CommunityGoal:3303:galnet:
 
 * Community Goal: The Path to Colonia
 

@@ -2,7 +2,7 @@
 :ID:       f367e784-4743-42db-88cb-f0071621974d
 :END:
 #+title: Community Goal: New Federal Outpost
-#+filetags: :Federation:3302:galnet:
+#+filetags: :CommunityGoal:Federation:3302:galnet:
 
 * Community Goal: New Federal Outpost
 

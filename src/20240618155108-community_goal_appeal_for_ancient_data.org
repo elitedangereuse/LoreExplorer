@@ -2,7 +2,7 @@
 :ID:       c430dbbe-447c-4fd1-b48a-52c4c50423cb
 :END:
 #+title: Community Goal: Appeal for Ancient Data
-#+filetags: :3302:galnet:
+#+filetags: :CommunityGoal:3302:galnet:
 
 * Community Goal: Appeal for Ancient Data
 

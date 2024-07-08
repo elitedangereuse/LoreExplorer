@@ -2,7 +2,7 @@
 :ID:       79848717-2d31-4fbb-bdc9-d529ce056d48
 :END:
 #+title: Community Goal:  Setting up the Candy Shop
-#+filetags: :3303:galnet:
+#+filetags: :CommunityGoal:3303:galnet:
 
 * Community Goal:  Setting up the Candy Shop
 

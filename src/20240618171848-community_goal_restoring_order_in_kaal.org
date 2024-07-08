@@ -2,7 +2,7 @@
 :ID:       995336e6-fed2-4719-a975-045e0e53d86c
 :END:
 #+title: Community Goal: Restoring Order in Kaal
-#+filetags: :3303:galnet:
+#+filetags: :CommunityGoal:3303:galnet:
 
 * Community Goal: Restoring Order in Kaal
 

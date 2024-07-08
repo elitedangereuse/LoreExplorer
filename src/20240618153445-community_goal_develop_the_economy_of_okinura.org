@@ -2,7 +2,7 @@
 :ID:       abfebdbe-16d5-4169-8ba1-fe492a8d9e14
 :END:
 #+title: Community Goal: Develop the Economy of Okinura
-#+filetags: :3302:galnet:
+#+filetags: :CommunityGoal:3302:galnet:
 
 * Community Goal: Develop the Economy of Okinura
 

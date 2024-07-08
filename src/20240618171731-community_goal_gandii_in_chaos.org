@@ -2,7 +2,7 @@
 :ID:       298e0ea8-666b-417f-a0b5-230355a8de31
 :END:
 #+title: Community Goal: Gandii in Chaos
-#+filetags: :3303:galnet:
+#+filetags: :CommunityGoal:3303:galnet:
 
 * Community Goal: Gandii in Chaos
 

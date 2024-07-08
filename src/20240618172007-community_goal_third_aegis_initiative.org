@@ -2,7 +2,7 @@
 :ID:       35e63faa-7d78-46a1-a2c9-cb12e0ed6135
 :END:
 #+title: Community Goal: Third Aegis Initiative
-#+filetags: :Thargoid:3303:galnet:
+#+filetags: :CommunityGoal:Thargoid:3303:galnet:
 
 * Community Goal: Third Aegis Initiative
 

@@ -2,7 +2,7 @@
 :ID:       41f3a2a6-59bf-4503-81f2-ad64e59b0699
 :END:
 #+title: Community Goal: Repair Jaques Station
-#+filetags: :3302:galnet:
+#+filetags: :CommunityGoal:3302:galnet:
 
 * Community Goal: Repair Jaques Station
 

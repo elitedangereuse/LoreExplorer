@@ -2,7 +2,7 @@
 :ID:       3ddcd292-3eac-44b1-9533-0c408be6716f
 :END:
 #+title: Community Goal: Manufacturer Appeals for Osmium
-#+filetags: :3302:galnet:
+#+filetags: :CommunityGoal:3302:galnet:
 
 * Community Goal: Manufacturer Appeals for Osmium
 

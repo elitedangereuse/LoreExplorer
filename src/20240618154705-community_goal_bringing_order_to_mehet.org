@@ -2,7 +2,7 @@
 :ID:       debeb5eb-e839-42b3-bc21-51686a3bb28a
 :END:
 #+title: Community Goal: Bringing Order to Mehet
-#+filetags: :3302:galnet:
+#+filetags: :CommunityGoal:3302:galnet:
 
 * Community Goal: Bringing Order to Mehet
 

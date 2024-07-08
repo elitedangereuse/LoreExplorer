@@ -2,7 +2,7 @@
 :ID:       fa381025-a71f-41ec-a273-74e0d181657e
 :END:
 #+title: Community Goal: 80 DD-D 774-CE-2 Appeals for Exploration Data
-#+filetags: :3302:galnet:
+#+filetags: :CommunityGoal:3302:galnet:
 
 * Community Goal: 80 DD-D 774-CE-2 Appeals for Exploration Data
 
