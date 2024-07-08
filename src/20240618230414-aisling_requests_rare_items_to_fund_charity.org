@@ -12,7 +12,7 @@
 
 A fundraiser hosted by Princess Aisling aims to finance a support network for Imperial citizens affected by Thargoid aggression. 
 
-The Citizens’ Relief Trust has been established in the Cemiess system, prompted by the loss of thousands of military personnel during the Battle of HIP 22460. She announced: 
+The Citizens’ Relief Trust has been established in the [[id:360ae21e-63f2-43ba-a2fd-a47e5e49951e][Cemiess]] system, prompted by the loss of thousands of military personnel during the Battle of HIP 22460. She announced: 
 
 “While the Empire is focused on increasing its military strength, we must not forget the human cost of ongoing conflict with the Thargoids. Those who died in battle will be honoured by assisting the families and dependants left to mourn them. The Citizens’ Relief Trust plans to establish support centres to ensure their financial and emotional needs are met.” 
 
@@ -20,4 +20,4 @@ The Citizens’ Relief Trust has been established in the Cemiess system, prompte
 
 “Although we cannot help those bereaved families who live beyond the Empire’s borders, I hope that the Citizens’ Relief Trust inspires the creation of similar charities elsewhere.” 
 
-Pilots are asked to make their deliveries to Mackenzie Relay starport in the Cemiess system, with planned rewards including luxury vessel paint jobs. At special request from Princess Aisling, Lavigny’s Legion has been tasked with accepting shipments and protecting those who are transporting these valuable cargos. Combat bonds will be reimbursed for all wanted ships that are destroyed in the system.
+Pilots are asked to make their deliveries to Mackenzie Relay starport in the [[id:360ae21e-63f2-43ba-a2fd-a47e5e49951e][Cemiess]] system, with planned rewards including luxury vessel paint jobs. At special request from Princess Aisling, Lavigny’s Legion has been tasked with accepting shipments and protecting those who are transporting these valuable cargos. Combat bonds will be reimbursed for all wanted ships that are destroyed in the system.
