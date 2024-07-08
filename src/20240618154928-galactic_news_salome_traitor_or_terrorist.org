@@ -10,7 +10,7 @@
 
 The Imperial Citizen has published a scathing two-part editorial on an individual by the name of Commander Salomé, alleging that she is in fact Lady Kahina Tijani Loren, the missing Imperial senator. 
 
-"We note with dismay that a certain Commander [[id:2f09bc24-0885-4d00-9d1f-506b32464dbe][Salomé]] has resurfaced once again. Many will be unaware of her activities, obscured as they are by her carefully cultivated innocence and charm, so it falls to the Imperial Citizen to reveal the sordid truth. She is Lady Kahina Tijani Loren, the disgraced senator." 
+"We note with dismay that a certain Commander [[id:2f09bc24-0885-4d00-9d1f-506b32464dbe][Salomé]] has resurfaced once again. Many will be unaware of her activities, obscured as they are by her carefully cultivated innocence and charm, so it falls to the Imperial Citizen to reveal the sordid [[id:7401153d-d710-4385-8cac-aad74d40d853][truth]]. She is Lady Kahina Tijani Loren, the disgraced senator." 
 
 "Although [[id:2f09bc24-0885-4d00-9d1f-506b32464dbe][Salomé]] enjoyed the comforts and privileges afforded to most high-born Imperial children, her parents had little use for a third daughter and shipped her off to boarding school at the first opportunity. This served only to foster Salomé's sense of rebelliousness and her disdain for her family." 
 
@@ -18,4 +18,4 @@ The Imperial Citizen has published a scathing two-part editorial on an individua
 
 "Salomé hated her father, but despite her antipathy, she was clearly influenced by him. After all, this was the man who expelled colonists from the Chione moon in 3297 by bombing it – an act condemned as a war crime by the Federation." 
 
-"Loren's family was murdered in 3300 by a group of freedom fighters known as Reclamists, but she was somehow spirited safely away. She claims to have been kidnapped, abused and held to ransom, only to overcome her enemies and return the Prism system to Imperial control after a battle with the Federation. The truth is that she did nothing of the sort."
+"Loren's family was murdered in 3300 by a group of freedom fighters known as Reclamists, but she was somehow spirited safely away. She claims to have been kidnapped, abused and held to ransom, only to overcome her enemies and return the Prism system to Imperial control after a battle with the Federation. The [[id:7401153d-d710-4385-8cac-aad74d40d853][truth]] is that she did nothing of the sort."

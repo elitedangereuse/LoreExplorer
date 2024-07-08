@@ -12,7 +12,7 @@ News feeds throughout the galaxy have received a mysterious message from an as-y
 
 The message, which is reprinted in full below, appears to contain an oblique reference to a particular location, but the nature of the communiqué makes it hard to determine exactly what it refers to. 
 
-"We've found something. Something incredible. Something the whole galaxy will want to see. [[id:7401153d-d710-4385-8cac-aad74d40d853][The truth]]." 
+"We've found something. Something incredible. Something the whole galaxy will want to see. [[id:7401153d-d710-4385-8cac-aad74d40d853][The [[id:7401153d-d710-4385-8cac-aad74d40d853][truth]]]]." 
 
 "We could show it to you, but that wouldn't be much fun. So instead we're going to play a little [[id:34beeb4b-d68a-4b7e-b004-c43e2ee38f79][game]]." 
 
