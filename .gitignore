@@ -73,3 +73,13 @@ __pycache__/
 # Visual Studio Code #
 #####################
 .vscode/
+
+# Emacs backup files
+*~
+
+# Emacs auto-save files
+\#*\#
+
+# Emacs temporary files
+.#*
+
