@@ -8,7 +8,7 @@
 
 /28 Aug 3309/
 
-Presidential candidate Zachary Rackham has denied allegations that he was a notorious pirate lord prior to becoming an entrepreneur. 
+Presidential candidate [[id:e26683e6-6b19-4671-8676-f333bd5e8ff7][Zachary Rackham]] has denied allegations that he was a notorious pirate lord prior to becoming an entrepreneur. 
 
 Financial journalist Bryanna Blanco has long maintained that the business magnate gained his initial fortune by means of piracy. She recently announced that she was renewing efforts to prove his criminality, thereby invalidating him from holding the presidency under Federal electoral laws. 
 
@@ -22,4 +22,4 @@ In response, [[id:be5df73c-519d-45ed-a541-9b70bc8ae97c][The Federal Times]] publ
 
 “Rackham does have one genuine talent: covering his tracks. With all his money and resources, he’s erased all evidence of his past. I’ve interviewed plenty of victims and witnesses, but most of my discoveries won’t stand up in court against his powerful legal team.” 
 
-“So, with special funding provided by my editor, I’ve turned to the professionals. The Wallglass Investigations Agency has been hired to prove that Rackham operated as a pirate lord. If they can’t find irrefutable proof, nobody can. And if I’m proved wrong, then Calico Zack can take his shot at stealing the entire Federation.”
+“So, with special funding provided by my editor, I’ve turned to the professionals. The Wallglass Investigations Agency has been hired to prove that Rackham operated as a pirate lord. If they can’t find irrefutable proof, nobody can. And if I’m proved wrong, then [[id:e26683e6-6b19-4671-8676-f333bd5e8ff7][Calico Zack]] can take his shot at stealing the entire Federation.”

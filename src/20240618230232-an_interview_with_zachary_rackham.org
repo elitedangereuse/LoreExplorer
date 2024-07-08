@@ -1,20 +1,20 @@
 :PROPERTIES:
 :ID:       3bb3e024-e316-462d-ae10-d2c0004f056b
 :END:
-#+title: An Interview with Zachary Rackham
+#+title: An Interview with [[id:e26683e6-6b19-4671-8676-f333bd5e8ff7][Zachary Rackham]]
 #+filetags: :galnet:
 
-* An Interview with Zachary Rackham
+* An Interview with [[id:e26683e6-6b19-4671-8676-f333bd5e8ff7][Zachary Rackham]]
 
 /04 May 3308/
 
-Sol Today hosted an interview with the multi-billionaire Zachary Rackham, who is rumoured to be moving into politics. 
+Sol Today hosted an interview with the multi-billionaire [[id:e26683e6-6b19-4671-8676-f333bd5e8ff7][Zachary Rackham]], who is rumoured to be moving into politics. 
 
 From his villa at Lake Rackham, overlooking Homeland’s famous Singing Geysers, the entrepreneur spoke at length on various topics. 
 
 On the rise of his business empire: 
 
-“The hard-working folk at Rackham Capital Investments have done me proud in recent years. We’re currently holding financial talks to acquire a major starport company, so watch this space!” 
+“The hard-working folk at [[id:83c8d091-0fde-4836-b6bc-668b9a221207][Rackham Capital Investments]] have done me proud in recent years. We’re currently holding financial talks to acquire a major starport company, so watch this space!” 
 
 On his role with the Beta Hydri Corporation: 
 
