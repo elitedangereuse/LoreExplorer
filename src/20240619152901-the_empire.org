@@ -188,7 +188,7 @@ dedicated to exploring the fringes of known space.
 Genetic engineering is not officially tolerated in the Empire, but it
 does sometimes take place. One notable example is the Emperor's Own, a
 group of genetically engineered super soldiers deployed during the shock
-invasion of Mansfield Colony in the Laedla system in 2959. They proved
+invasion of Mansfield Colony in the [[id:735abc3e-2370-4fd4-a38c-3796f0dfd536][Laedla]] system in 2959. They proved
 brutally efficient, overrunning the Federal defences in a mere two hours
 and inflicting a rare defeat upon a Federal Gurkha regiment.
 
