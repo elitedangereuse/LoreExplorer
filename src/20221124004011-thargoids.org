@@ -164,7 +164,7 @@ of space without apparent discomfort, and can tolerate radiation and
 extreme cold for far longer than a human.
 
 *** Vulnerabilities
-In 3151, the INRA developed a biological weapon known as they mycoid
+In 3151, the INRA developed a biological weapon known as they [[id:0ffe3814-d246-41f3-8f82-4bb9ca062dea][mycoid]]
 virus for use against the Thargoids. The virus was the result of an
 accidental discovery made by an INRA researcher, who noted that a
 particular strain of [[id:e475cce2-7c0d-4a32-a76b-2ad5a9731d5e][fungus]] was found to thrive on the hulls of
@@ -172,12 +172,12 @@ Thargoid vessels, and appeared to be digesting the material of which
 the ship was made.
 
 The INRA refined the fungal strain and began experimenting on living
-Thargoids and their spacecraft. The mycoid proved to have delterious
+Thargoids and their spacecraft. The [[id:0ffe3814-d246-41f3-8f82-4bb9ca062dea][mycoid]] proved to have delterious
 effects on both, leading to the swift elimination of the Thargoids
 active in human-occupied space at the time.
 
 It is widely assumed that since the last human-Thargoid conflict, the
-Thargoids have developed an immunity to the mycoid virus.
+Thargoids have developed an immunity to the [[id:0ffe3814-d246-41f3-8f82-4bb9ca062dea][mycoid]] virus.
 
 *** Starships
 In terms of structure and function, Thargoid vessels are radically
@@ -200,7 +200,7 @@ such damage to be repaired, it follows that the Thargoids might
 deliberately choose to preserve these scars.
 
 INRA logs document an encounter with a Thargoid mothership many times
-larger than other Thargoid craft, against which the mycoid virus was
+larger than other Thargoid craft, against which the [[id:0ffe3814-d246-41f3-8f82-4bb9ca062dea][mycoid]] virus was
 successfully deployed, although no such vessels have been reported in
 recent times.
 
