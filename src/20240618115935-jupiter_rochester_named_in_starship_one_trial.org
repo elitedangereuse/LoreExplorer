@@ -2,18 +2,18 @@
 :ID:       1987b6b0-43ae-420c-9a22-722eec6fb94f
 :ROAM_REFS: https://cms.zaonce.net/en-GB/jsonapi/node/galnet_article/3a5b5115-2d46-4b07-8d20-ac53435e9a74?resourceVersion=id%3A4923
 :END:
-#+title: Jupiter Rochester Named in Starship One Trial
+#+title: [[id:c33064d1-c2a0-4ac3-89fe-57eedb7ef9c8][Jupiter Rochester]] Named in Starship One Trial
 #+filetags: :galnet:
 
-* Jupiter Rochester Named in Starship One Trial
+* [[id:c33064d1-c2a0-4ac3-89fe-57eedb7ef9c8][Jupiter Rochester]] Named in Starship One Trial
 
 /05 Feb 3307/
 
-Core Dynamics CEO Jupiter Rochester has been accused of collaborating with Fleet Admiral Vincent to orchestrate Starship One’s destruction in 3301. 
+Core Dynamics CEO [[id:c33064d1-c2a0-4ac3-89fe-57eedb7ef9c8][Jupiter Rochester]] has been accused of collaborating with Fleet Admiral Vincent to orchestrate Starship One’s destruction in 3301. 
 
 As reported by Ethan Takahashi for The Federal Times: 
 
-“Financial data was presented to the court showing that Vincent, along with others in government and the Federal Navy, received colossal payments via shell companies created by Jupiter Rochester’s loyalists.” 
+“Financial data was presented to the court showing that Vincent, along with others in government and the Federal Navy, received colossal payments via shell companies created by [[id:c33064d1-c2a0-4ac3-89fe-57eedb7ef9c8][Jupiter Rochester]]’s loyalists.” 
 
 “The prosecution claimed that Rochester and Vincent were reacting to then-President Jasmina Halsey’s intention to scale back military spending, which would impact Core Dynamics’s profits. They arranged to assassinate her and lay groundwork for [[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][Zachary Hudson]] to be voted into power, knowing that his policies would result in further naval contracts.” 
 

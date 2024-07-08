@@ -2,16 +2,16 @@
 :ID:       3fff4e52-a910-4d23-b688-410f4108194d
 :ROAM_REFS: https://cms.zaonce.net/en-GB/jsonapi/node/galnet_article/6647b38b-800f-43db-81fb-507c5f91de77?resourceVersion=id%3A4927
 :END:
-#+title: Jupiter Rochester Goes Rogue from Core Dynamics
+#+title: [[id:c33064d1-c2a0-4ac3-89fe-57eedb7ef9c8][Jupiter Rochester]] Goes Rogue from Core Dynamics
 #+filetags: :galnet:
 
-* Jupiter Rochester Goes Rogue from Core Dynamics
+* [[id:c33064d1-c2a0-4ac3-89fe-57eedb7ef9c8][Jupiter Rochester]] Goes Rogue from Core Dynamics
 
 /09 Feb 3307/
 
 Several departments loyal to the Core Dynamics CEO have seceded to form an independent corporate republic called Jupiter Division. 
 
-During the recent trial of Fleet Admiral Vincent, Jupiter Rochester was named as the paymaster behind the sabotage of Starship One. This hastened long-term plans to abscond from Core Dynamics along with many ships and personnel.  
+During the recent trial of Fleet Admiral Vincent, [[id:c33064d1-c2a0-4ac3-89fe-57eedb7ef9c8][Jupiter Rochester]] was named as the paymaster behind the sabotage of Starship One. This hastened long-term plans to abscond from Core Dynamics along with many ships and personnel.  
 
 In the permit-locked HIP 54530 system, the HIP 54530 Gold Universal Group has been renamed as Jupiter Division. It is assumed to have long been infiltrated by Rochester’s loyalists. 
 

@@ -21,4 +21,4 @@ In the Federation, the newsfeed Sol Today ran an editorial piece on the situatio
 
 “Acquiring Lakon is another bold triumph for manufacturing colossus Core Dynamics. It’s a shame that it’s being undermined by the petty bureaucrats of the Alliance, who should be gratefully grasping this financial lifeline.” 
 
-“It’s also laughable that CEO Jupiter Rochester, one of our titans of industry, is being stabbed in the back by old-fashioned colleagues who are clearly jealous of his success. Perhaps his ‘Jupiter Division’ has finally outgrown the corporation and deserves to forge its own path.”
+“It’s also laughable that CEO [[id:c33064d1-c2a0-4ac3-89fe-57eedb7ef9c8][Jupiter Rochester]], one of our titans of industry, is being stabbed in the back by old-fashioned colleagues who are clearly jealous of his success. Perhaps his ‘Jupiter Division’ has finally outgrown the corporation and deserves to forge its own path.”
