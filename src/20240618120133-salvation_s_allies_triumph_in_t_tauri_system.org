@@ -1,10 +1,10 @@
 :PROPERTIES:
 :ID:       bc78f770-2bfc-4631-9d8a-21e61037925e
 :END:
-#+title: Salvation’s Allies Triumph in T Tauri System
+#+title: [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]’s Allies Triumph in T Tauri System
 #+filetags: :Thargoid:galnet:
 
-* Salvation’s Allies Triumph in T Tauri System
+* [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]’s Allies Triumph in T Tauri System
 
 /18 Nov 3307/
 
@@ -12,11 +12,11 @@
 
 Taurus Mining Ventures has defeated a rogue Aegis Defense force and gained control of the megaship Musashi. 
 
-The conflict was initiated by Admiral Aden Tanner, chief military liaison with Aegis. He was attempting to gain access to Hind Mine asteroid base, in search of evidence that Salvation’s anti-xeno weapon was deliberately designed to provoke the Thargoids. 
+The conflict was initiated by Admiral Aden Tanner, chief military liaison with Aegis. He was attempting to gain access to Hind Mine asteroid base, in search of evidence that [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]’s anti-xeno weapon was deliberately designed to provoke the Thargoids. 
 
 Patience Middleton, a spokesperson for Taurus Mining Ventures, made this announcement: 
 
-“This was an illegal and unnecessary conflict, brought about by Admiral Tanner’s misguided obsession. We will continue working with Salvation to eliminate the Thargoid threat.” 
+“This was an illegal and unnecessary conflict, brought about by Admiral Tanner’s misguided obsession. We will continue working with [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]] to eliminate the Thargoid threat.” 
 
 “Our defence was only possible thanks to our courageous supporters, for whom rewards are available at Hind Mine. We will also honour agreements that the Aegis Defense force made with independent pilots, who can collect their promised payments from the Musashi.” 
 

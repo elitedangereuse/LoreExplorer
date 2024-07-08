@@ -18,6 +18,6 @@ The Alliance Assembly and the Council of Admirals have been engaged in emergency
 
 Across the core systems, public fears of a mass Thargoid invasion are running high. Planetary security forces are on alert, with every spacegoing military preparing for the possibility of fighting Thargoid vessels. Many public figures have expressed their concerns, including Aegis’s former head of research Professor Alba Tesreau: 
 
-“I am utterly horrified by events in HIP 22460. Many of us feared that Azimuth’s experiments would lead to catastrophe, but the widespread loss of life is still a sickening shock. Salvation critically underestimated the Thargoids’ ability to adapt, a failure rooted in his perception of them as purely reactive creatures.” 
+“I am utterly horrified by events in HIP 22460. Many of us feared that Azimuth’s experiments would lead to catastrophe, but the widespread loss of life is still a sickening shock. [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]] critically underestimated the Thargoids’ ability to adapt, a failure rooted in his perception of them as purely reactive creatures.” 
 
 “This tragedy is worsened by the fractured responses of the superpowers, which are reluctant to continue sharing information with external organisations. Without a dedicated research effort, we cannot analyse the Thargoid technology used in HIP 22460 or formulate a suitable defence.”

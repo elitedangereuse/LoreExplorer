@@ -8,7 +8,7 @@
 
 /25 Aug 3308/
 
-It has been confirmed that Salvation, figurehead of Azimuth Biotech and creator of the Proteus Wave, was killed on board the Bright Sentinel. 
+It has been confirmed that [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]], figurehead of Azimuth Biotech and creator of the Proteus Wave, was killed on board the Bright Sentinel. 
 
 A segment of a transmission by an independent rescue team within HIP 22460 was shared with Vox Galactica by an anonymous source. The team was reporting back to the Musashi megaship, which has now returned to the T Tauri system. 
 
@@ -18,6 +18,6 @@ A segment of a transmission by an independent rescue team within HIP 22460 was s
 
 “He was still in his command chair, surrounded by shattered fragments of cybernetic implants, his portable medical sensors dormant. Despite his shredded and broken body, his eyes were frozen open. I reached out to close them, but a Thargoid interceptor suddenly warped in and we had to race back to our ship.” 
 
-“I’m uploading all our data now, but I’m sorry to report that our primary target was not recoverable. Salvation is dead.” 
+“I’m uploading all our data now, but I’m sorry to report that our primary target was not recoverable. [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]] is dead.” 
 
 Azimuth Biotech has confirmed that it employed freelance specialists to locate any surviving personnel from the Proteus Wave project, and that their findings were believed to be accurate. No further statement has yet been made.

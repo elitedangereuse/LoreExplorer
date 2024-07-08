@@ -18,6 +18,6 @@ An overview of recent developments regarding the Thargoid conflict, as reported 
 
 “Despite these grim developments, practical support arrived in the form of Azimuth Biotech’s experimental weapons stabilisers and Professor Palin’s improved xeno scanner. Both were welcomed by independent pilots, increasing their chances of triumphing over the powerful Thargoid vessels.” 
 
-“Of course, the biggest news is the resurrection of Aegis. Key figures in the Alliance, Empire and Federation managed to re-establish the anti-xeno agency that was once abandoned in favour of Salvation. Already there are promises of technological breakthroughs, including the ability for ships to better withstand the caustic hell inside the Maelstroms.” 
+“Of course, the biggest news is the resurrection of Aegis. Key figures in the Alliance, Empire and Federation managed to re-establish the anti-xeno agency that was once abandoned in favour of [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]. Already there are promises of technological breakthroughs, including the ability for ships to better withstand the caustic hell inside the Maelstroms.” 
 
 “As our best and brightest work together in earnest, time will tell if they can prevent this war from overwhelming us all. This is [[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]] for Vox Galactica. Stay safe out there.”

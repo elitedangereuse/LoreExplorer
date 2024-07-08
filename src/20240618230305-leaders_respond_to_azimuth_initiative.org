@@ -18,10 +18,10 @@ Prime Minister Edmund Mahon: “Our military presence in HIP 22460, coupled with
 
 Councillor Nakato Kaine: “Two ruthless corporations with disreputable histories, and the Alliance is now collaborating with both. This a deeply regrettable chapter in our history.” 
 
-President Zachary Hudson: “I have every confidence in the Federal Navy to protect Salvation while the Proteus Wave is prepared. This is a long-overdue reprisal against an intractable and relentless enemy.” 
+President Zachary Hudson: “I have every confidence in the Federal Navy to protect [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]] while the Proteus Wave is prepared. This is a long-overdue reprisal against an intractable and relentless enemy.” 
 
 Shadow President Felicia Winters: “Azimuth’s superweapon is effective, I’ll admit. But I’m unhappy with relying on this clandestine organisation, rather than an accountable anti-xeno agency.” 
 
 CEO Li Yong-Rui: “Sirius Corporation is observing activities in HIP 22460 with great interest. I am keen to explore cooperation with Azimuth Biotech on developing new products using Proteus Wave technology.” 
 
-Simguru Pranav Antal: “The advanced electromagnetic sciences developed by the Guardians over a million years ago remain poorly understood, even to Utopia’s keenest minds. The safety and effectiveness of Salvation’s device cannot be guaranteed.”
+Simguru Pranav Antal: “The advanced electromagnetic sciences developed by the Guardians over a million years ago remain poorly understood, even to Utopia’s keenest minds. The safety and effectiveness of [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]’s device cannot be guaranteed.”

@@ -24,11 +24,11 @@ JS: I take it, then, that you consider yourself a utilitarian?
 
 MP: In military matters, what other philosophy is there? A sleek ship will turn heads and attract investors, but when something dangerous enters your space, most soldiers would choose a powerful response over a pretty one. 
 
-JS: Which brings us to the current conflict in this system. The Federal fleet has been asked to contain the Thargoid threat while Salvation prepares his anti-xeno superweapon. 
+JS: Which brings us to the current conflict in this system. The Federal fleet has been asked to contain the Thargoid threat while [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]] prepares his anti-xeno superweapon. 
 
 MP: And I have no doubt that we will succeed. Federal military power is as strong as it’s ever been. Funding provided by the Hudson administration over the past seven years has allowed us to expand and modernise our fleet. It’s a pleasant time to be an admiral. 
 
-JS: I presume that you are in favour of Salvation’s work. 
+JS: I presume that you are in favour of [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]’s work. 
 
 MP: Wholeheartedly. His results speak volumes to a man like me. The anti-xeno superweapon has incredible range, a devastating impact on Thargoid craft, and is harmless to our own ships. What’s not to like?  
 
@@ -38,7 +38,7 @@ MP: Let me ask you a question, Miss Sanderlyn. Do you think this hypothetical he
 
 JS: No, but surely the lack of transparency… 
 
-MP: No, it does not. I’ve seen what the Thargoids are capable of. It’s impressive, it’s scary and it results in considerable loss of life if not dealt with quickly. Salvation has proven he can achieve significant victories for an entire system. Timid hand-wringing over the future is fine with me, once we’ve secured a future in which to do so. 
+MP: No, it does not. I’ve seen what the Thargoids are capable of. It’s impressive, it’s scary and it results in considerable loss of life if not dealt with quickly. [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]] has proven he can achieve significant victories for an entire system. Timid hand-wringing over the future is fine with me, once we’ve secured a future in which to do so. 
 
 JS: Let’s take a break for a word from our sponsors. We’ll be right back. 
 

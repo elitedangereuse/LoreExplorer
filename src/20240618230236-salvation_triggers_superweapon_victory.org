@@ -1,16 +1,16 @@
 :PROPERTIES:
 :ID:       24e9be92-c389-4564-bf11-1251f0264cfa
 :END:
-#+title: Salvation Triggers Superweapon Victory
+#+title: [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]] Triggers Superweapon Victory
 #+filetags: :Thargoid:galnet:
 
-* Salvation Triggers Superweapon Victory
+* [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]] Triggers Superweapon Victory
 
 /12 May 3308/
 
 *Pilots’ Federation ALERT* 
 
-The invading Thargoid forces in the Didio, Novas and Sosong systems have been completely repelled by Salvation. 
+The invading Thargoid forces in the Didio, Novas and Sosong systems have been completely repelled by [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]. 
 
 Vox Galactica journalist [[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]] published this account: 
 
@@ -18,6 +18,6 @@ Vox Galactica journalist [[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderl
 
 “It seems that the Thargoids have no defence against the Guardian-derived superweapon, which generates an electromagnetic pulse to disrupt their biomechanical technology.” 
 
-“Allied, Federal and Imperial taskforces have been keeping the Thargoids at bay for the last two weeks. Admirals Ziegler, Price and Atherton sent messages of congratulation to Salvation, who seems set to receive additional resources to improve superweapon production. For better or worse, it appears Salvation now plays a crucial role in humanity’s war against the Thargoids.” 
+“Allied, Federal and Imperial taskforces have been keeping the Thargoids at bay for the last two weeks. Admirals Ziegler, Price and Atherton sent messages of congratulation to [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]], who seems set to receive additional resources to improve superweapon production. For better or worse, it appears Salvation now plays a crucial role in humanity’s war against the Thargoids.” 
 
 The superpowers also offered rewards to independent pilots for contributing to the systems’ defences. Commanders can redeem Thargoid combat bonds at Plymouth Howl in the Ch'anjie system, Nusslein-Volhard Settlement in the Zlota system, and Sturckow Orbital in the Lesheima system.

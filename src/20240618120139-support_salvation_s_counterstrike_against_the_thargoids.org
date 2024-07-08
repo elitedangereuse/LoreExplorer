@@ -1,10 +1,10 @@
 :PROPERTIES:
 :ID:       58e03b8f-8e17-42a6-b5ba-4426cd51cfc4
 :END:
-#+title: Support Salvation’s Counterstrike Against the Thargoids
+#+title: Support [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]’s Counterstrike Against the Thargoids
 #+filetags: :Thargoid:Alliance:galnet:
 
-* Support Salvation’s Counterstrike Against the Thargoids
+* Support [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]’s Counterstrike Against the Thargoids
 
 /09 Dec 3307/
 
@@ -14,10 +14,10 @@ Salvation requires vital materials to deploy anti-xeno superweapons in the Delph
 
 A message was transmitted from the Musashi megaship by its new commanding officer, Commodore Morag Halloran: 
 
-“The Thargoids have invaded three key systems, as Salvation anticipated. Preparations have been made to halt their advance, but there is an urgent requirement to collect classified experimental equipment from the Heart of Taurus in the Qarato system.” 
+“The Thargoids have invaded three key systems, as [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]] anticipated. Preparations have been made to halt their advance, but there is an urgent requirement to collect classified experimental equipment from the Heart of Taurus in the Qarato system.” 
 
 “Pilots must then deliver these shipments to three other megaships: the Musashi in the Delphi system, the Bright Sentinel in the Maia system, and the Glorious Prospect in the Merope system.” 
 
-“It is crucial that all deliveries are made by early on Tuesday the 14th of December. Without these components, Salvation’s superweapons will not be able to affect enough Thargoid vessels to turn the tide.” 
+“It is crucial that all deliveries are made by early on Tuesday the 14th of December. Without these components, [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]’s superweapons will not be able to affect enough Thargoid vessels to turn the tide.” 
 
-Commodore Halloran was formerly a member of the Alliance Defence Force, and was in charge of protecting the first expedition to the Coalsack Nebula in 3306. She is one of hundreds of naval officers and crew from all three superpowers who have resigned their commissions to offer their services to Salvation, believing that only he can defeat the Thargoids.
+Commodore Halloran was formerly a member of the Alliance Defence Force, and was in charge of protecting the first expedition to the Coalsack Nebula in 3306. She is one of hundreds of naval officers and crew from all three superpowers who have resigned their commissions to offer their services to [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]], believing that only he can defeat the Thargoids.

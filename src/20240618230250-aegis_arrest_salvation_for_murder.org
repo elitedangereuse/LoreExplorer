@@ -1,23 +1,23 @@
 :PROPERTIES:
 :ID:       e0a9ecb1-3a9c-4d4d-a93d-f7e0a57601c7
 :END:
-#+title: Aegis: ‘Arrest Salvation for Murder’
+#+title: Aegis: ‘Arrest [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]] for Murder’
 #+filetags: :Thargoid:galnet:
 
-* Aegis: ‘Arrest Salvation for Murder’
+* Aegis: ‘Arrest [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]] for Murder’
 
 /03 Jun 3308/
 
-Claims that Salvation was once a senior member of Azimuth Biochemicals who worked for INRA have led to a public outcry. 
+Claims that [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]] was once a senior member of Azimuth Biochemicals who worked for INRA have led to a public outcry. 
 
 Political journalist Conrad Sterling reported on these developments for Vox Galactica: 
 
-“Information recently uncovered in the DG Canum Venaticorum system has been presented by Professor Alba Tesreau. It suggests that Salvation’s real name is Dr Caleb Wycherley, former vice-president of research at Azimuth Biochemicals. According to Wycherley’s personal logs, his team contributed to the development of the controversial [[id:0ffe3814-d246-41f3-8f82-4bb9ca062dea][mycoid]] bioweapon deployed by INRA during the First Thargoid War.” 
+“Information recently uncovered in the DG Canum Venaticorum system has been presented by Professor Alba Tesreau. It suggests that [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]’s real name is Dr Caleb Wycherley, former vice-president of research at Azimuth Biochemicals. According to Wycherley’s personal logs, his team contributed to the development of the controversial [[id:0ffe3814-d246-41f3-8f82-4bb9ca062dea][mycoid]] bioweapon deployed by INRA during the First Thargoid War.” 
 
 “Wycherley’s logs also provide evidence that he gained the nickname of ‘The Witch’. This figure has been implicated in the murderous attack on the Alexandria megaship in June 3307 and in Project Seraph recordings found in the HIP 26176 and HIP 22460 systems.” 
 
-“Former Aegis leadership has demanded that Salvation be arrested and questioned over his involvement in these events, and that superpower fleet support for Salvation’s work be suspended until such questions have been answered.”  
+“Former Aegis leadership has demanded that [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]] be arrested and questioned over his involvement in these events, and that superpower fleet support for Salvation’s work be suspended until such questions have been answered.”  
 
-Supporters of Salvation have dismissed the latest logs as fake, pointing out that Dr Wycherley would now be over 200 years old and that the mention of ‘salvation’ is coincidental. But outrage remains high over the unethical activities of both Azimuth and INRA, and Salvation’s growing influence over anti-Thargoid operations has been cast in a new light. 
+Supporters of [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]] have dismissed the latest logs as fake, pointing out that Dr Wycherley would now be over 200 years old and that the mention of ‘salvation’ is coincidental. But outrage remains high over the unethical activities of both Azimuth and INRA, and Salvation’s growing influence over anti-Thargoid operations has been cast in a new light. 
 
-“The Alliance, Empire and Federation have all responded with noncommittal statements that the accusation will be investigated,” said Sterling. “However, since Salvation’s unique superweapons now form the cornerstone of their anti-xeno strategy, his arrest would be a major political and military inconvenience.”
+“The Alliance, Empire and Federation have all responded with noncommittal statements that the accusation will be investigated,” said Sterling. “However, since [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]’s unique superweapons now form the cornerstone of their anti-xeno strategy, his arrest would be a major political and military inconvenience.”

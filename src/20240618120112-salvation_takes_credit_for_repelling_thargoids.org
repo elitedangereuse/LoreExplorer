@@ -1,20 +1,20 @@
 :PROPERTIES:
 :ID:       0e32192e-0f35-4f6a-bfc6-2c547e8f5238
 :END:
-#+title: Salvation Takes Credit for Repelling Thargoids
+#+title: [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]] Takes Credit for Repelling Thargoids
 #+filetags: :Thargoid:galnet:
 
-* Salvation Takes Credit for Repelling Thargoids
+* [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]] Takes Credit for Repelling Thargoids
 
 /22 Sep 3307/
 
-The anonymous ‘man of science’ Salvation has claimed responsibility for the Thargoids’ unexplained departure from the Cornsar system. 
+The anonymous ‘man of science’ [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]] has claimed responsibility for the Thargoids’ unexplained departure from the Cornsar system. 
 
 Salvation had predicted their attack, but his claim was discounted by Aegis and other authorities. After a few days the Thargoid vessels fled abruptly, leaving behind wreckages across the system. 
 
 The following message was transmitted on public channels: 
 
-“This is Salvation. The Thargoid invasion of Cornsar has now been repulsed, thanks to prototype anti-xeno weaponry that I have been developing for some time. I have achieved what Aegis could not – an effective deterrent against the alien threat.” 
+“This is [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]. The Thargoid invasion of Cornsar has now been repulsed, thanks to prototype anti-xeno weaponry that I have been developing for some time. I have achieved what Aegis could not – an effective deterrent against the alien threat.” 
 
 “Refinement of this weapon is at a critical stage, so I cannot reveal any details. I only regret that my warning was not heeded in time to save everyone on the two starports.” 
 

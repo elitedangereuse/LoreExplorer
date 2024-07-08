@@ -1,16 +1,16 @@
 :PROPERTIES:
 :ID:       03e5bf6d-5d55-4afc-a7e8-7cc10c5cbccf
 :END:
-#+title: The Salvation Stratagem
+#+title: The [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]] Stratagem
 #+filetags: :Thargoid:galnet:
 
-* The Salvation Stratagem
+* The [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]] Stratagem
 
 /07 Jul 3308/
 
 As the superpowers establish their fleets in the HIP 22460 system, Azimuth Biotech prepares to deliver a decisive blow against the Thargoids. 
 
-A segment from Salvation’s briefing to the anti-xeno taskforce admirals was shared by Azimuth: 
+A segment from [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]’s briefing to the anti-xeno taskforce admirals was shared by Azimuth: 
 
 “The Proteus Wave relies on power sources and components of Guardian origin, which will inevitably draw the Thargoids to HIP 22460. As we know, their hostile reaction to stockpiles of Guardian artefacts is instinctive. They have no defence against the weaponry of their ancient enemies, other than to launch pre-emptive strikes to prevent it being deployed.”  
 

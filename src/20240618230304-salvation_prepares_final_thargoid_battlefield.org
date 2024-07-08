@@ -1,10 +1,10 @@
 :PROPERTIES:
 :ID:       81304c67-5e94-4de0-96fe-3a8a1251b797
 :END:
-#+title: Salvation Prepares ‘Final Thargoid Battlefield’
+#+title: [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]] Prepares ‘Final Thargoid Battlefield’
 #+filetags: :Thargoid:galnet:
 
-* Salvation Prepares ‘Final Thargoid Battlefield’
+* [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]] Prepares ‘Final Thargoid Battlefield’
 
 /30 Jun 3308/
 
@@ -14,7 +14,7 @@ The HIP 22460 system will be the stage for a decisive strike against the Thargoi
 
 The following message was broadcast across all public channels: 
 
-“This is Salvation. Construction of the Proteus Wave has officially commenced. This version of my anti-xeno superweapon has been designed to bring absolute victory against our adversaries.” 
+“This is [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]. Construction of the Proteus Wave has officially commenced. This version of my anti-xeno superweapon has been designed to bring absolute victory against our adversaries.” 
 
 “HIP 22460 will serve as the final battlefield in the Thargoid war. As with previous superweapons, we anticipate that the Guardian-based technology incorporated within the Proteus Wave will once again attract the Thargoids. However, this time it will eradicate the alien threat not just from the system, but from the entire galaxy.” 
 
