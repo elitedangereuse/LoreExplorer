@@ -8,7 +8,7 @@
 
 /24 Feb 3302/
 
-It has been over a month since personnel at Obsidian Orbital reported that meta-alloys had been used to alleviate the starport's ongoing technical issues. Since then, there has been widespread speculation that the meta-alloys might hold the key to eradicating the technological plague that has blighted so many starports in recent months. But the only attempt to verify the theory was brought to an abrupt end with the mysterious disappearance of Professor Ishmael Palin, who had been researching the meta-alloys. 
+It has been over a month since personnel at Obsidian Orbital reported that meta-alloys had been used to alleviate the starport's ongoing technical issues. Since then, there has been widespread speculation that the meta-alloys might hold the key to eradicating the technological plague that has blighted so many starports in recent months. But the only attempt to verify the theory was brought to an abrupt end with the mysterious disappearance of Professor [[id:8f63442a-1f38-457d-857a-38297d732a90][Ishmael Palin]], who had been researching the meta-alloys. 
 
 A member of the technical team at Irens Dock in the Manite system, one of the latest starports to experience technical issues, commented on the situation: 
 

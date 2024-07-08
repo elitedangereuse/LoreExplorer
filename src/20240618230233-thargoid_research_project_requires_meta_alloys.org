@@ -12,7 +12,7 @@
 
 Commanders have been asked to collect meta-alloys from Thargoid barnacles as part of a wider xenological study. 
 
-The research project is being orchestrated by Professor Ishmael Palin, one of the most prominent experts in Thargoid technology: 
+The research project is being orchestrated by Professor [[id:8f63442a-1f38-457d-857a-38297d732a90][Ishmael Palin]], one of the most prominent experts in Thargoid technology: 
 
 “With escalating Thargoid activity in the core systems, it is increasingly important that we learn as much as possible about this species. Only through scientific study can we better comprehend their biomechanical nature and, where possible, enhance our defences against it.” 
 

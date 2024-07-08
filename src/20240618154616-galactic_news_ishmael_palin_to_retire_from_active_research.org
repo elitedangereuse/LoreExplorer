@@ -1,14 +1,14 @@
 :PROPERTIES:
 :ID:       4b232cc3-9917-4608-a277-bbf6844584d9
 :END:
-#+title: Galactic News: Ishmael Palin to Retire from Active Research
+#+title: Galactic News: [[id:8f63442a-1f38-457d-857a-38297d732a90][Ishmael Palin]] to Retire from Active Research
 #+filetags: :3302:galnet:
 
-* Galactic News: Ishmael Palin to Retire from Active Research
+* Galactic News: [[id:8f63442a-1f38-457d-857a-38297d732a90][Ishmael Palin]] to Retire from Active Research
 
 /15 Apr 3302/
 
-Professor Ishmael Palin has announced his intention to retire from the research institute he founded last year. In a statement, the professor explained the reasoning behind the decision: 
+Professor [[id:8f63442a-1f38-457d-857a-38297d732a90][Ishmael Palin]] has announced his intention to retire from the research institute he founded last year. In a statement, the professor explained the reasoning behind the decision: 
 
 "It has been a tremendous pleasure to be part of the discourse surrounding the Unknown Artefacts, and to share ideas and opinions with so many passionate individuals. But there are dark forces at work in the galactic community – forces that exist in opposition to the ideals I hold most dear – and I lack the strength to continue fighting them." 
 

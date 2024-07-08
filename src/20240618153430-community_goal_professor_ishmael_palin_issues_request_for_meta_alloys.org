@@ -1,10 +1,10 @@
 :PROPERTIES:
 :ID:       b2128354-dd92-4363-a58a-b97924bdcd3a
 :END:
-#+title: Community Goal: Professor Ishmael Palin Issues Request for Meta-Alloys
+#+title: Community Goal: Professor [[id:8f63442a-1f38-457d-857a-38297d732a90][Ishmael Palin]] Issues Request for Meta-Alloys
 #+filetags: :3302:galnet:
 
-* Community Goal: Professor Ishmael Palin Issues Request for Meta-Alloys
+* Community Goal: Professor [[id:8f63442a-1f38-457d-857a-38297d732a90][Ishmael Palin]] Issues Request for Meta-Alloys
 
 /21 Jan 3302/
 
@@ -12,7 +12,7 @@ A remarkable discovery was made last week when non-human structures were found o
 
 The discovery was followed swiftly by news that technical personnel at Obsidian Orbital – one of the starports affected by the mysterious malfunctions sweeping the galaxy – had apparently used meta-alloys to return the starport to some kind of normality. Naturally, this prompted speculation that the meta-alloys might hold the key to eradicating the technological plague that has blighted so many starports in recent months. 
 
-Professor Ishmael Palin, the former Federal scientist conducting research into the unknown artefacts, is evidently thinking along the same lines: 
+Professor [[id:8f63442a-1f38-457d-857a-38297d732a90][Ishmael Palin]], the former Federal scientist conducting research into the unknown artefacts, is evidently thinking along the same lines: 
 
 "The report from Obsidian Orbital is indeed encouraging, but there is still a great deal we do not know, including the cause of the malfunctions, or if the meta-alloys are indeed capable of countering them. That is why I am appealing to the galactic community to deliver as many meta-alloys as possible to my new research base at Obsidian Orbital. Only by amassing a substantial research sample can we know for sure whether or not the meta-alloys can be used to target this mysterious technological malady." 
 

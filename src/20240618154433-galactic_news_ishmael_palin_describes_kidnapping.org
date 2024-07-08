@@ -1,14 +1,14 @@
 :PROPERTIES:
 :ID:       284287ef-2796-4158-8dfb-043ed4c6b5ff
 :END:
-#+title: Galactic News: Ishmael Palin Describes Kidnapping
+#+title: Galactic News: [[id:8f63442a-1f38-457d-857a-38297d732a90][Ishmael Palin]] Describes Kidnapping
 #+filetags: :3302:galnet:
 
-* Galactic News: Ishmael Palin Describes Kidnapping
+* Galactic News: [[id:8f63442a-1f38-457d-857a-38297d732a90][Ishmael Palin]] Describes Kidnapping
 
 /14 Mar 3302/
 
-It has now been over a week since Professor Ishmael Palin and his research team were rescued from a criminal syndicate known as the Blue Hand Gang. Since then, there has been considerable speculation about who might be responsible for the abduction. Although the Blue Hand Gang has been known to trade in human cargo, to date it has not been connected to any kidnapping operations. It is therefore assumed that the gang merely purchased Professor Palin and his colleagues from those responsible for the abduction. 
+It has now been over a week since Professor [[id:8f63442a-1f38-457d-857a-38297d732a90][Ishmael Palin]] and his research team were rescued from a criminal syndicate known as the Blue Hand Gang. Since then, there has been considerable speculation about who might be responsible for the abduction. Although the Blue Hand Gang has been known to trade in human cargo, to date it has not been connected to any kidnapping operations. It is therefore assumed that the gang merely purchased Professor Palin and his colleagues from those responsible for the abduction. 
 
 With Professor Palin now having made a full recovery, he released a statement concerning the nature of his ordeal: 
 
