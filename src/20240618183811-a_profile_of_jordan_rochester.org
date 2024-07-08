@@ -16,7 +16,7 @@ Responding to public interest in Princess Aisling Duval’s fiancé, Federal Amb
 
 “The family matriarch is Isolde Rochester. She is a member of Congress, an influential figure in the Liberal Party and a staunch supporter of Shadow President Felicia Winters. Isolde raised five children, including Jordan, and it was her accomplishments that inspired her son to enter politics.” 
 
-“Jordan’s siblings chose different paths. The eldest, [[id:c33064d1-c2a0-4ac3-89fe-57eedb7ef9c8][Jupiter Rochester]], is an executive with Core Dynamics, with a personal fortune in the billions. Fifteen years ago he had his own celebrity marriage, to actor Tomas Turai. They now have two teenage children, daughter Kali and son Kalen.” 
+“Jordan’s siblings chose different paths. The eldest, [[id:c33064d1-c2a0-4ac3-89fe-57eedb7ef9c8][Jupiter Rochester]], is an executive with Core Dynamics, with a personal fortune in the billions. Fifteen years ago he had his own celebrity marriage, to actor [[id:f3e29df5-154d-4f05-b659-36fa2da9be01][Tomas Turai]]. They now have two teenage children, daughter Kali and son Kalen.” 
 
 “Jordan’s sisters, Juno and Jocasta, have impressive Navy careers, holding the ranks of Vice Admiral and Post Captain respectively. Only Jordan’s younger brother, Jonah, has no title. He is believed to be the black sheep of the family.” 
 
