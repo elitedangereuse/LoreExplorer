@@ -7,38 +7,23 @@
 
 Message encoded in [[id:4a2a29f4-8edd-4cf2-b347-a023dac7ab26][octal]] when targeting a Thargoid ship.
 
-25 different combinations
-#+begin_src
-  040 165 156
-  040 165 166
-  143 145 162
-  143 146 102
-  143 146 162
-  146 141 143
-  148 141 143
-  150 165 154
-  150 165 164
-  150 166 164
-  154 040 163
-  154 050 163
-  156 000 000
-  156 200 000
-  160 165 154
-  163 163 040
-  164 040 163
-  164 141 151
-  164 141 161
-  164 151 141
-  164 157 162
-  164 162 145
-  164 167 162
-  158 000 000
-  164 162 146
-#+end_src
-
 [[file:/img/thargoids/signature/ED-Thargoid-Message-1.jpg]]
 [[file:/img/thargoids/signature/ED-Thargoid-Message-2.jpg]]
 [[file:/img/thargoids/signature/ED-Thargoid-Message-3.jpg]]
+
+hull stress factor uncertain
+#+begin_src
+  150 165 154 hul
+  154 040 163 l s
+  164 162 145 tre
+  163 163 040 ss 
+  146 141 143 fac
+  164 157 162 tor
+  040 165 156  un
+  143 145 162 cer
+  164 141 151 tai
+  156         n  
+#+end_src
 
 #+begin_quote
 THARGOID INVASION SHIPS 
