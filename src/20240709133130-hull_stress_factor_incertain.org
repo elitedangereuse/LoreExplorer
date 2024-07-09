@@ -1,0 +1,86 @@
+:PROPERTIES:
+:ID:       605198fa-bbbc-4277-8c83-e2369d727a68
+:ROAM_REFS: https://archive.org/stream/Elite_1985_Firebird_Software/Elite_1985_Firebird_Software_djvu.txt
+:END:
+#+title: Hull Stress Factor Incertain
+#+filetags: :EasterEgg:
+
+Message encoded in [[id:4a2a29f4-8edd-4cf2-b347-a023dac7ab26][octal]] when targeting a Thargoid ship.
+
+25 different combinations
+#+begin_src
+  040 165 156
+  040 165 166
+  143 145 162
+  143 146 102
+  143 146 162
+  146 141 143
+  148 141 143
+  150 165 154
+  150 165 164
+  150 166 164
+  154 040 163
+  154 050 163
+  156 000 000
+  156 200 000
+  160 165 154
+  163 163 040
+  164 040 163
+  164 141 151
+  164 141 161
+  164 151 141
+  164 157 162
+  164 162 145
+  164 167 162
+  158 000 000
+  164 162 146
+#+end_src
+
+[[file:/img/thargoids/signature/ED-Thargoid-Message-1.jpg]]
+[[file:/img/thargoids/signature/ED-Thargoid-Message-2.jpg]]
+[[file:/img/thargoids/signature/ED-Thargoid-Message-3.jpg]]
+
+#+begin_quote
+THARGOID INVASION SHIPS 
+
+Though most of the Thargoid Space Fleet is currently engaged by the 
+Galactic Navy in Intergalactic Space, a few of the smaller battle shipsmake 
+occasional sorties into Human Space. These ships are extremely fast for 
+their size and invariably have ECM Systems (this was originally a 
+Thargoid invention to counter Navy missiles, subsequently copied by the 
+Navy from captured Thargoid ships). 
+
+Additionally, most Thargoid battle ships carry a few small remote- 
+controlled ships, each equipped with a single pulse laser. It is rumoured 
+that the Galactic Navy are designing their own remote-controlled fighter, 
+and will pay well for Thargoid ones to study. 
+
+DIMENSIONS 
+180/40/180 ft 
+
+ARMAMENTS 
+Widely varying. 
+Mountings available for 
+most systems 
+
+MAXIMUM VELOCITY 
+0.20 LM 
+
+INSERVICE DATE 
+Uncertain 
+
+MANOEUVRABILITY 
+CF6 
+
+CREW NUMBER 
+150 
+
+DRIVE MOTORS 
+Thargoid invention 
+
+HULL STRESS FACTOR 
+Uncertain 
+
+HYPERSPACE CAPABILITY 
+Yes 
+#+end_quote

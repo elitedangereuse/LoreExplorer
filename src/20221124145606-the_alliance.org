@@ -2,5 +2,232 @@
 :ID:       1d726aa0-3e07-43b4-9b72-074046d25c3c
 :END:
 #+title: The Alliance
-#+filetags: :Alliance:Codex:
+#+filetags: :KnowledgeBase:Alliance:Codex:
+
+* The Alliance
+** Introduction
+
+#+begin_quote
+
+  "Rise, like lions after slumber
+  In unvanquishable number!
+  Shake your chains to earth, like dew
+  Which in sleep had fallen on you:
+  Ye are many -- they are few!"
+
+  --- Percy Bysshe Shelley, The Mask of Anachy (1819)
+#+end_quote
+
+#+begin_quote
+
+  "I've read yoru speech a dozen times, Mic. We can't use it."
+  "Sure, we could sound off about self-rule and freedom from tyranny and
+  the dignity of the working-man-slash woman, and the young hotheads
+  would lap it up like they always do. I'm not saying we don't need that
+  stuff. But we mustn't forget it's just marketing. A shiny wrapper.
+  It's not enough."
+  "If we're going to make the Alliance of Independent Systems happen, we
+  need more than tub-thumping speeches from a war hero. WE need to show
+  out people that the damn thing can work. I want spending plans,
+  divident forecasts, surveryor's reports. I want data so dry you don't
+  need to believe in it."
+  "The people are tired and heartsick. They've been sold dreams too many
+  times by both sides, so let's not try to sell them any more. It's time
+  to wake up."
+
+  --- Private comminique from Meredith Argent to Mic Turner, founders of
+  the Alliance
+#+end_quote
+
+The Alliance is the youngest of the galaxy's three superpowers, and is
+perhaps best understood in terms of what it chooses not to be. It
+rejects both the xtreme capitalism of the Federation and the rigid
+hierarchy of the Empire, choosing instead a third way of voluntary
+association for mutual benefit.
+
+The desire for freedom from interference, both from external threats and
+internal bureaucracy, was the key motivation behind the Alliance's
+founding, and is enshrined in its articles of association. The
+governments of the member systems are given as much autonomy to create
+their own laws and administer their own affairs as possible.
+
+The right to political self-determination and cultural self-expression
+are essential to the Alliance, but it remains to be seen whether the
+ultimate result will be stable harmony or a cacophony of dissenting
+voices. Every Alliance member knows that alliances have been made
+before, many times over, only to collapse.
+
+** History
+*** Alioth was colonised.
+The crucible in which the Alliance was forged was Alioth, a system so
+rich in gas and mineral resources that early surveyors considered it as
+a stellar El Dorado. When the Federation established its colony on
+Alioth 5b in 2452, they gave the planet the less grandiose name of
+Fruitcake, as mineral deposits lay in the loamy soil as abundantly as
+raisins in cake. Later commentators would reflect, bitterly, that the
+world was well named because 'everyone wanted a piece'.
+
+*** A conflict over mining rights drew in the superpowers.
+Altioth's prosperity soon attracted corporations eager to support the
+developing system in exchange for a share of the profits. A dispute over
+rights quickly escalated into an armed conflict, prompting the Empire to
+dispatch a military force, estensibly for the colonists protection. The
+Federation also sent ships, but theirs were a response to the
+corporations' plea for aid.
+
+Unable to directly engage the Federal ships without sparking a war, the
+Empire covertly encouraged the Alioth colonists to renounce the
+Federation and accept Imperial protection, thus freeing the Empire to
+engage with the occupying Federal forces in sympthy with 'the will of
+the people'. This marked the first of many incidents in which the people
+of Alioth were used to advance the agenda of another power.
+
+*** Federation-sponsored insurrection.
+In 2530, the Federation set out to undermine Imperial control of Alioth
+by exploiting local resentment of the governor. They covertly supported
+acts of protest and petty vandalism, then, when the inevitable Imperial
+crackdown followed, stoked the fires of social unrest. A terrorist
+movement called the Cakers emerged, and the atrocities escalated.
+
+The years that followed saw a protracted and degrading series of proxy
+wars and cynical propaganda campaigns as the Federal, Imperial and
+corporate powers all contended for Alioth. The system made an abortive
+attempt to establish its independence in 2617, resulting a short-lived
+cooperation between the Empire and the Federation, neither of which were
+willing to allow this.
+
+*** The revolution.
+In the early fourth millennium, both the Federation and the Empire had a
+presence in the Alioth system. Fruitcake, now known as Gordonworld, was
+a Federal protectorate, while the Empire had earlier conducted
+terraforming experiments on the world of New California, and also held
+gas mining platforms in the system.
+
+The Federal corporations supplying New California had raised the prices
+of their goods several times in the previous years, and when they
+imposed yet another price hike, the planet's inhabitants revolted. In
+the insurrection that followed, rebels commandeered any available ships
+and headed out to the gas mining platforms, where they attacked the
+outposts' corporate employees.
+
+Alarmed, the Empire and Federation despatched ships to put down the
+rebellion, but were beaten back by a hastily assembled force made up of
+fighters from Alioth and -- crucially -- volunteers from nearby
+independent systems. Neither the Empire nor the Federation were able to
+gain a foothold, and eventually both forces had to withdraw. The Empire
+faced too many logistical problems fighting so far from home, while the
+Federation's efforts were undermined by public sympathy for the rebels.
+
+*** An Alliance was brokered.
+The victory in Alioth had proven that independent systems, working
+together, could hold their own against the superpowers. It fell to pilot
+Mic Turner and scientist Meredith Argent to ride the wave of public
+spirit and propose a permanent alliance, under whose aegis independent
+systems could enjoy freedom from Imperial and Federal interference.
+
+The Alliance was founded in 3230, and in the next two decades it
+expanded its membership to more than twenty systems, some defecting from
+the Federation and the Empire, others pledging as independents.
+
+** Society
+*** Many worlds, few rules, no overlords.
+The Alliance's articles of membership are designed to unite the member
+systems with strong, straightforward bonds that allow as much
+self-determination as possible. Membership guarantees mutual prosperity
+through guaranteed free trade, and security through the Alliance Defence
+Force, while leaving much of the business of government to the
+individual members.
+
+The Alliance Assembly acts as a central arbitration committee, helping
+to settle disputes between member systems. It also oversees formal
+arrangements between members, such as treaties, research goals and
+mutually agreed policies.
+
+As no one system can be allowed to carry more weight than another, the
+Assembly frequently finds itself bogged down in endless back-and-forth
+negotiations. Getting them to agree on anything is a task often compared
+to herding ling langs, notoriously ill-tempered carnivores from the
+Achenar system.
+
+A body of civil servants, who remain uninvolved in politics, handle most
+of the day-to-day administrative work that enables the Alliance to
+function.
+
+*** Conditional autonomy for member systems.
+Alliance members are required to subscribe to and uphold a code of human
+rights, and to have a democratically elected government. Citizens of any
+member state have a right of freedom of movement and residence within
+any other member state. Furthermore, all member systems are obliged to
+give immediate military assistance to any fellow member when necessary.
+
+** Military
+*** The Alliance Defence Force.
+While each Alliance member system maintains its own navy, all members
+are required to commit ships and crew to the Alliance Defence Force.
+This rapid-response group usually remains within Alliance space, and its
+tasks vary from providing a beleaguered system with military assistant
+to evacuating settlements hit by natural disaster.
+
+A six-member Council of Admirals oversees the Alliance Defence Force. It
+is accountable to the Assembly, but does not require its approval before
+taking action. This freedom of decision making prevents urgent military
+action being delayed by tedious debate.
+
+** Culture and Values
+*** Cooperation, mutual aid, tolerance, and respect.
+The values that bind the Alliance systems also hold true on an
+interpersonal level. Just as the different worlds of the Alliance
+formally recognise one another's legitimacy and value, individuals are
+generally reluctant to show prejudice against others, and will band
+together to help those in genuine need.
+
+*** Diversity is strength.
+Members of the Alliance are not obligated to conform to what they
+consider the corporate saturation of Federal culture or the
+status-obsessed posturing of the Imperials. Individual systems are
+encouraged to preserve and celebrate their own cultural identities. This
+approach results in a rich variety of artistic, literary and dramatic
+output.
+
+*** Free to speak, free to protest.
+One curious cultural constant across the Alliance's member systems is
+the way the citizens indulge their freedom to complain. They can
+criticise their governments without fear of repression, and they
+frequently do so. Previous experience of exploitation has left many
+citizens cynical, but possessed of a certain mordant humour and a
+willingness to take life as it comes.
+
+** Diplomatic Relations
+*** The Federation.
+Alliance attitudes to the Federation vary sharply depending on whether
+one is asking about the Federation's government or its citizenry. The
+government is seen as a hidebound relic, unable to arrest its slow
+decline into decadence, but the general populace are much more
+compassionately viewed. An Alliance citizen, proud of his or her own
+emancipation, is likely to have a rather condescending view of a Federal
+citizen -- they are characterised as ignorant dupes, kept satiated by
+mass-market entertainment and branded consumer goods. This is not seen
+as their fault, however. On the contrary, it is widely held that the
+Federation and the corporate barons deliberately keep the people in this
+servile state.
+
+The Alliance is more interested in enticing Federal systems to join its
+union -- thereby winning the moral war -- than in exacting vengeance for
+the wrongs of the past. There has been too much violence already.
+
+*** The Empire.
+To the Alliance, the Empire is anathema. With its monolithic culture,
+veneration of opulence, disdain for human rights and tolerance of
+slavery, it could not be further from the Alliance's values of mutual
+respect and freedom from exploitation. Yet, for all this, many Alliance
+members would rather deal with the Empire than the Federation. The
+common belief is that the Federation will always pretend to be something
+it is not. At least with the Empire, you know what you are dealing with.
+
+Most Alliance citizens view the emergence of a progressive movement
+within the Empire with cynicism. Everyone knows that the Empire is
+incapable of changing its ways -- the whole Imperial social model is an
+imitation of the past. But some in the Alliance nevertheless welcome the
+ascension of the first female Emperor. The edifice may not be about to
+crumble, but such a profound change cannot be ignored.
 

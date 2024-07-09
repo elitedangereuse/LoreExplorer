@@ -2,10 +2,10 @@
 :ID:       d56d0a6d-142a-4110-9c9a-235df02a99e0
 :END:
 #+title: The Federation
-#+filetags: :Thargoid:Alliance:Federation:Empire:Codex:
+#+filetags: :KnowledgeBase:Thargoid:Alliance:Federation:Empire:Codex:
 
-** The Federation
-*** Introduction
+* The Federation
+** Introduction
 #+begin_quote
 "For I dipped into the future, far as human eye could see, 
 Saw the Vision of the world, and all the wonder that would be.
@@ -52,15 +52,15 @@ also be competitive and unforgiving. Corporations wield too much
 power, politicians are often corrupt, and a sink-or-swim ethos
 prevails.
 
-*** History
-**** The nations of Earth united in the aftermath of war.
+** History
+*** The nations of Earth united in the aftermath of war.
 After the devastation of World War III, the United States of the
 Americas rose to become the planet's dominant nation. Over the years
 it gradually brought the other nations of the world under its
 aegis. Called at first 'The Federation of the USA', the expanding
 democracy was soon given the less exclusive title of The Federation.
 
-**** Humanity reached for the stars.
+*** Humanity reached for the stars.
 When faster-than-light travel became a reality in the 22nd century,
 several terreestrial corporations competed fiercely to establish the
 first human colony in a new star system. Tau Ceti was the first system
@@ -68,7 +68,7 @@ to be colonized, followed by Delta Pavonis, Beta Hydri, and Altair. In
 their wake there followed a wild scramble of pionnering expeditions
 and colonial ventures.
 
-**** The first colony rebelled.
+*** The first colony rebelled.
 The year 2161 saw a dispute between the colony of Tau Ceti 3 and the
 Federation authority, centered on the colonists' repeated refusal to
 limit the damage they were inflicting on the alien ecosystem. Earth
@@ -80,7 +80,7 @@ resulted, granding the system rights and represenation along with
 concomitant duties. The Federation, born on Earth, was now an
 association of star systems.
 
-**** The Birthright Wars gave corporations preferential treatment.
+*** The Birthright Wars gave corporations preferential treatment.
 Starting in 2621, a group of corporations subjected the Federal
 government to over a century of unrelenting pressure. They demanded
 the right to buy up under-exploited colonial land from its hereditary
@@ -103,8 +103,8 @@ The Federations' detractors often point to this dark episode as
 indicative of its true nature: a mere administrative puppet bent to
 the will of rapacious corporations.
 
-*** Society
-**** A federated democracy.
+** Society
+*** A federated democracy.
 The Federation's legislative body is made up of congressmen, elected to represent their system or state. Apart from the oldest core systems such as Sol, which encompass multiple states, each star system within the Federation is considered a single state.
 
 New colonies do not qualify for full Federation membership until and unless they fulfill the development objectives set down for them. With self-reliance comes representation. 
@@ -113,16 +113,16 @@ The Federal Government has its seat on Mars, which was terraformed in 2286. Cong
 
 The executive branch is headed by an elected President with a fixed eight-year term.
 
-**** Constitutional rights obtain.
+*** Constitutional rights obtain.
 The soverign rights of all individuals are enshrined in the Constitution, which is a modified and streamlined version of the US Constitution, originally codified in the 18th Century. The right to liberty underscores the absolute ban on slavery within the Federation, and is a point of contention with the Empire.
 
-**** Corporate interests dominate.
+*** Corporate interests dominate.
 Although the Federation is loudly and proudly democratic, corporations still exercise tremendous influence over the democratic process, shaping citizen's choises through celebrity endorsement, lobbying and occasionally outright corruption.
 
 The government is notoriously reluctant to curb corporate activity; the typical question in Congress is not whether a given policy will favour corporate interests, but which ones it will favour. Competition between corporations for Congress support can lead to a deadlock in the government
 
-*** Military
-**** The Federal Navy.
+** Military
+*** The Federal Navy.
 The Federation has maintained a battle fleet since the days of the first Federal colony, which was established in the Tau Ceti system. Its official mandate is to protect shipping and defend the borders of Federal space, but it has also frequently been deployed against the Federation's own rebellious citizens.
 
 At first the Federation's member systems were required to contribute the required ships, making the mustering process a cumbersome one. But following the Birthright Wars, corporations were chartered to produce centralised fleets, which made for a far more efficient system.
@@ -133,11 +133,11 @@ The Navy benefited from massive investement following the forced sell-off of col
 
 Governor [[id:9492a08d-0edc-46db-969f-dc8670665346][Raul Santorini]] championed heavy cuts to the Navy budget in 3022, which were not reversed until President Varian Scott came to power in 3144. Scott talked up the Thargoid threat, again increasing funding to the Navy and removing the requirement for military actions to be approved by Congressional vote.
 
-**** Land forces.
+*** Land forces.
 In addition to the rank and file, the Federation still enjoys the loyal service of special military divisions such as the Gurkha Regiment, who have served since the days of Earth. Keeping up long-standing traditions such as this is an important link to the past for Federal citizens.
 
-*** Culture and Values
-**** If you want to eat, you have to work.
+** Culture and Values
+*** If you want to eat, you have to work.
 The Federation has no room for freeloaders. It has nurtured the core
 'frontier values' of self-reliance and entrepreneurship since its
 inception, and respects the self-made citizen.
@@ -155,7 +155,7 @@ flexibility, since no two worlds were the same, some colonies were
 tempted away to the Empire by the promise of being recognised as
 soverign without having to jump through arbitrary hoops.
 
-**** Corporations took humanity into space.
+*** Corporations took humanity into space.
 The Federation has never forgotten the role played by private
 enterprise in the initial migration from Earth. Corporations enjoy
 substantial freedom and influence under the Federation, so much so
@@ -165,20 +165,20 @@ Federal citizens can be as passionately loyal to their corporations as
 they would be to a family or clan group, and it is common for
 successive generations of a given family to serve the same corporation
 
-**** Harvest the limitless riches of space, but respect nonhuman life.
+*** Harvest the limitless riches of space, but respect nonhuman life.
 The Federation and the Empire have hugely differing views on the primacy of humanity in the cosmos. While the Federation insists that its colonies treat indigenous nonhuman life with care, the Empire typically takes a more human-centric approach. This attitude has allowed the Empire to poach several developing Federation colonies who felt themselves hamstrung by ecological regulations.
 
-**** Wealth is freedom.
+*** Wealth is freedom.
 Federal citizens actively embrace corporate culture, expressing their identity through brand choices and media consumption.
 
 ***Diplomatic
 
-**** The Empire.
+*** The Empire.
 In 2292, a group fo colonists established a settlement on Achenar 6d, chose for its remoteness. The original intent was merely to live free from interference, but autocrat Hensen Duval rapidly took control of the colony and had himself proclaimed Emperor. The Federation attempted military reprisals, partly due to the nascent Empire's insistence on independence, but faced a harder fight than they had expected and were held at bay. Over the next fifty years, the Empire expanded to many other worlds.
 
 The Federation's relationship with the Empire is one of entrenched mistrust stemming from irreconcilable ideological differences, mollified somewhat by the corporations, which have a presence in both territories and thus act as a stabilising influence. Outright hostilities between the powers, when they occur, are usually conducted through proxy forces.
 
-**** The Alliance.
+*** The Alliance.
 In 3228, the Federally aligned corporations supplying the Alioth system attempted to raise their prices, leading to a citizen rebellion. Several independent systems assisted the rebels.
 
 Neither galactic superpower was able to suppress the revolt; the Empire was too far away to intervene effectively, whereas the Federation was hampered by unexpected public sympathy for the rebels.

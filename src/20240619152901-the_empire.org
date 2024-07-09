@@ -4,8 +4,8 @@
 #+title: The Empire
 #+filetags: :Thargoid:Alliance:Federation:Empire:KnowledgeBase:Codex:
 
-** The Empire
-*** Introduction
+* The Empire
+** Introduction
 
 #+begin_quote
 
@@ -61,15 +61,15 @@ can always rise through the ranks if he or she becomes wealthy enough
 and makes the right connections. Even a slave could, in theory, become a
 Senator.
 
-*** History
-**** The Achenar colony was founded.
+** History
+*** The Achenar colony was founded.
 In the mid 23rd Century, wealthy entrepreneur Marlin Duval was so
 frustrated with the Federal government that she founded an independent
 colony of her own in the Achenar system, chosen for its remoteness. When
 Marlin was killed shortly afterwards in a flyer accident, her brother
 Henson Duval took over as ruler.
 
-**** Henson Duval the Emperor.
+*** Henson Duval the Emperor.
 Duval immediately abolished the fledgling democracy that Marlin had set
 up, and in its place he established a system modelled on ancient Rome.
 He was now Emperor and his closest allies were his Senators. Any
@@ -78,7 +78,7 @@ with Duval's vision, such were his wealth and power. It was also widely
 believed that Marlin Duval, like Remus in ancient Rome, had been killed
 by her own brother. Nobody dared to speak out.
 
-**** The mudlark extinction.
+*** The mudlark extinction.
 The colonists were aware that the planet they had settled, Achenar 6d,
 had indigenous life, but at first it wasn't appreciated that this
 included a sentient species, nicknamed the 'mudlarks' after they were
@@ -94,7 +94,7 @@ traces of the mudlarks, partly in fear of Federal reprisal, and partly
 to ensure that his development plans would not be hindered by ecological
 constraints.
 
-**** The Federation attempted to reclaim Achenar.
+*** The Federation attempted to reclaim Achenar.
 When the Federal government heard rumours that Duval's colony had
 recklessly caused the destruction of a sentient indigenous species, they
 decided on military intervention.
@@ -108,15 +108,15 @@ system. Skirmishes with Imperial ships continued for the next fifty
 years, but these were unable to prevent Duval from expanding the Empire
 to many other worlds.
 
-**** The age of expansion.
+*** The age of expansion.
 After hostilities with the Federation ceased, the Empire entered a
 century of growth, annexing many new systems and persuading others to
 join. It spent the following two centuries consolidating its new
 territory, appointing colonial administrators from among the noble
 houses of Achenar.
 
-*** Society
-**** An ancient Roman model.
+** Society
+*** An ancient Roman model.
 The Empire works on a 'cliens' system. Society is divided into tiers:
 Emperor, Senators, Patrons, Cliens and then Citizens, with slaves below
 these.
@@ -154,20 +154,20 @@ Patrons are free to withdraw their patronage from their chosen Senator,
 placing the onus on the Senator to represent them satisfactorily or face
 a loss of voting power.
 
-**** Rigid strafitication.
+*** Rigid strafitication.
 The division between social classes formal, unambiguous and strict, but
 there is a clear path to advancement. A person can pay a fee and
 petition for admittance to the rank above. In this way, slaves can
 become Citizens, too.
 
-**** The law is not the same for all.
+*** The law is not the same for all.
 Senators have a responsibility to enforce the law, and they must obey
 the Emperor's decree, but are otherwise above the law. A senator can
 even carry out executions personally with little, if any, fear of
 consequence.
 
-*** Military
-**** The Imperial Navy.
+** Military
+*** The Imperial Navy.
 Maintaining a modernized navy has always been a top priority for the
 Empire. The ever-present threat posed by the Federation has driven
 previous Emperors to empty the coffers again and again, for fear of
@@ -184,7 +184,7 @@ home to the training centres.
 As well as the battle fleets, the Imperial Navy maintains a subdivision
 dedicated to exploring the fringes of known space.
 
-**** The Emperor's Own.
+*** The Emperor's Own.
 Genetic engineering is not officially tolerated in the Empire, but it
 does sometimes take place. One notable example is the Emperor's Own, a
 group of genetically engineered super soldiers deployed during the shock
@@ -192,8 +192,8 @@ invasion of Mansfield Colony in the [[id:735abc3e-2370-4fd4-a38c-3796f0dfd536][L
 brutally efficient, overrunning the Federal defences in a mere two hours
 and inflicting a rare defeat upon a Federal Gurkha regiment.
 
-*** Culture and Values
-**** The human body represents perfection.
+** Culture and Values
+*** The human body represents perfection.
 This belief, once held with near-religious intensity, still forms the
 bedrock of the Empire's culture and morals. Genetic modification is
 frowned upon, but a degree of 'genetic correction' is known to take
@@ -216,7 +216,7 @@ condition and adorning it with jewels and expensive cloths is not
 vanity, but duty, and owning well-treated slaves is also considered a
 sign of good character.
 
-**** The Emperor's word is supreme.
+*** The Emperor's word is supreme.
 The Emperor's successor is decided by the Senate, although the Duval
 dynasty has such a strong powerbase that the Imperial throne has only
 ever been occupied by members of that bloodline.
@@ -227,14 +227,14 @@ to hold the throne. Marlin Duval is sometimes described as the Empire's
 first female ruler, but this is incorrect -- the colony she founded was
 a democracy.
 
-**** Honour is everything.
+*** Honour is everything.
 The value placed on honour is a constant throughout all tiers of
 Imperial society. Honour can be lost through various means, including
 leaving debts unpaid, failing to respect a superior or provide for a
 dependent, breaking a solemn vow, conducting combat with cowardly
 weapons such as nerve gas, and defiling one's own body.
 
-**** Slavery is acceptable, but slaves must be well
+*** Slavery is acceptable, but slaves must be well
 treated.
 In the Empire, it is not uncommon for the poor and disenfranchised to
 sign up for a period of military service in exchange for a small sum of
@@ -256,8 +256,8 @@ their home, or even captured in a hijacking. While trading slaves is
 lawful everywhere in the Empire except on Emerald, taking new slaves
 outside of wartime is illegal without the blessing of a Senator.
 
-*** Diplomatic Relations
-**** The Federation.
+** Diplomatic Relations
+*** The Federation.
 Resentement of the Federation runs deep in the Empire. The superpower is
 remembered as an opporessive, interfering force that hypocritcally
 avoids inflicting the slightest harm on nonhuman life, but thinks
@@ -271,7 +271,7 @@ simmers. Despite this antipathy, the Empire cooperated with the
 Federation in a series of joint initatives against the Thargoids in the
 early 3300s.
 
-**** The Alliance.
+*** The Alliance.
 When the Alliance was founded in 3230 following a bitter conflict with
 the Empire and the Federation, multiple systems defected to it from both
 superpowers. To the surprise of many, the Empire took very little
@@ -282,7 +282,7 @@ systems would return to their 'natural home' sooner or later.
 The Empire's current attitude is one of studied contempt. To recognise
 it as a threat would be too much like showing respect.
 
-**** Internal politics.
+*** Internal politics.
 Unsurprisingly for a society so concerned with rank and influence, the
 Empire contains a multitude of feuding power blocs. In particular, there
 is a good deal of bad blood between the various noble houses, whose
