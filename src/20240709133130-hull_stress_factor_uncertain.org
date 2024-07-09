@@ -2,7 +2,7 @@
 :ID:       605198fa-bbbc-4277-8c83-e2369d727a68
 :ROAM_REFS: https://archive.org/stream/Elite_1985_Firebird_Software/Elite_1985_Firebird_Software_djvu.txt
 :END:
-#+title: Hull Stress Factor Incertain
+#+title: Hull Stress Factor Uncertain
 #+filetags: :EasterEgg:
 
 Message encoded in [[id:4a2a29f4-8edd-4cf2-b347-a023dac7ab26][octal]] when targeting a Thargoid ship.
