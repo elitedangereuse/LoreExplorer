@@ -1,0 +1,70 @@
+:PROPERTIES:
+:ID:       85d9e888-3f5b-40ed-b8af-2eb87e42b0d0
+:END:
+#+title: Aegis
+#+filetags: :Guardian:3305:3303:KnowledgeBase:Codex:
+
+* Aegis
+A scientific-military organisation founded in 3303, Aegis was
+established in a collaboration between the Alliance, Empire and
+Federation to coordinate research into the Thargoids and develop
+technologies with which to counter their aggression. Headquartered in
+the Sol and Delphi systems, it is overseen by an executive board, with
+scientific and military branches led by Professor [[id:c2623368-19b0-4995-9e35-b8f54f741a53][Alba Tesreau]] and
+former Federal admiral [[id:7bca1ccd-649e-438a-ae56-fb8ca34e6440][Aden Tanner]], respectively. Although the
+organisation was initially focused on research, its remit has since been
+widened to encompass defence.
+
+With access to a vast pool of resources, Aegis is constantly growing. In
+addition to a fleet encompassing dozens of megaships, the organisation
+also operates a large number of laboratories and orbital outposts.
+
+Aegis has collaborated with external parties on a number of occasions,
+including the engineers [[id:cb71ba02-e47b-4feb-a421-b1f2ecdce6f3][Liz Ryder]], [[id:8f63442a-1f38-457d-857a-38297d732a90][Ishmael Palin]] and [[id:4551539e-a6b2-4c45-8923-40fb603202b7][Ram Tah]]. With Ryder
+and Palin, Aegis developed a suite of weapons specifically calibrated to
+damage Thargoid vessels, denoting its first foray into the area of
+defence. It worked with ship manufacturer [[id:a35836b6-243b-45eb-9d79-faae08802d0c][Faulcon deLacy]] to produce an
+anti-Thargoid version of the [[id:9060c4b1-7b47-4b16-8ac4-0e70a8132ea4][Taipan]] fighter, and then partnered with Ram
+Tah in an effort to gain further insights into Thargoid behaviour.
+
+Towards the end of 3303 Aegis expanded its research division,
+establishing 25 laboratories at starports throughout human-occupied
+space. Research efforts focused on the Thargoids' transmission and
+storage of information, and the categorisation of geographical data --
+work that would pave the way for later discoveries about Thargoid
+territorialism. But no sooner had work begun then the laboratories came
+under attack from Thargoid ships.
+
+While the attacks were initially thought to be random, it was later
+determined that they represented a deliberate attempt to prevent Aegis
+from analysing Thargoid materials. An unprecedented development, the
+attacks shed new light on the Thargoids' agenda and capacity for
+strategic reasoning.
+
+In 3304, Aegis was forced to relocate its administrative headquarters
+from the Socho system to Sol when a criminal organisation, the Socho
+Gold Raiders, engineered a hostile takeover of the system. The attack
+illustrated the need for greater protection from human threats; Federal
+President Zachary Hudson, in a moment of characteristic frankness,
+equated aggression against Aegis with treason against humanity, saying
+"The weakening of our defences cannot be tolerated."
+
+Following the attack, Aegis established [[id:646f54ce-5f75-49a2-b3d2-2fb12e9580c7][The Sentinel]], a military
+installation, in the [[id:7e99a467-6e3d-418e-8b10-72cf3660efa6][Pleiades Nebula]]. While Aegis officials insisted
+that The Sentinel would allow the organisation to "continue our fight
+against the Thargoids unhindered by external forces", critics opined
+that the organisation's growing military focus was cause for concern. In
+3305, the organisation entered into a partnership with Ram Tah to
+manufacture [[id:f57cff55-3348-45ea-b76f-d0eaa3c68165][Guardian]]-inspired technology, including Ram Tah's XG
+fighters.
+
+Despite its apolitical stance, Aegis has come under scrutiny from
+certain sectors of the galactic community, who insist it cannot be
+trusted. Criticism has focused on the parallels between Aegis and the
+Intergalactic Naval Reserve Arm ([[id:39a31dd8-3750-4507-90b7-b649d0eeecef][INRA]]) -- a defunct Federal-Imperial
+initiative established in 3125 during the first human-Thargoid conflict
+-- with detractors insisting that Aegis is guilty of the same unethical
+and unregulated activity conducted by the INRA. But while Aegis shares
+the same purpose as its forebear, there is scant evidence of
+unscrupulous conduct.
+

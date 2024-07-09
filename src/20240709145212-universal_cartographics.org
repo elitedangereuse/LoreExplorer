@@ -1,0 +1,57 @@
+:PROPERTIES:
+:ID:       2fb00d7f-7234-45fa-8e3c-af685aa8f0d8
+:END:
+#+title: Universal Cartographics
+#+filetags: :Corporation:
+
+* Universal Cartographics
+
+#+begin_quote
+
+  "Because it's there."
+
+  --- Source
+#+end_quote
+
+Before the frame shift drive was developed, the exploration of space
+lacked a single coordinating agency. Governments and corporations had
+in-house exploration programmes, but these were driven by the desire for
+fresh, exploitable territory rather than any humanitarian motive. It was
+not unknown for these programmes to enlist the help of freelance
+explorers, but as a class these were seen as erratic and unreliable.
+
+The reputation of the freelance explorer was not helped by a rash of
+bogus-data scandals, in which a pilot would present -- and be paid for
+-- impressive scan data from hitherto unexplored systems that was later
+discovered to be counterfeit. The remoteness of the systems meant that
+the deception was not discovered until much later.
+
+Much like the sea captains of old Earth, whose rutters were full of
+closely guarded secrets, the owners of authentic navigation data were
+reluctant to share it. Theft of such data was a particularly prevalent
+concern in the late 2900s, when mistrust between the Empire and the
+Federation was at its most intense. Officials on both sides would
+occassionally propose a shared databank as a means of bridging the
+divide, but mutual suspicion killed the idea before it could be
+implemented.
+
+The creation of the frame shift drive greatly increased the jump
+capability of even small ships, empowering individuals to become bona
+fide space explorers without the need for corporate or governmental
+sponsorship. The stage was set for a corporation to manage, coordinate
+and distribute the incoming flood of navigation data. Universal
+Cartographics filled that niche, arising from the merger of Unified
+Infotech and Devaine-Bright Interstellar.
+
+Cynthia Sideris, former head of Unified Infotech, chose the name
+Universal Cartographics to reflect the company's policy of making its
+data accessible to anyone who was willing to pay for it. Sophisticated
+security protocols, developed at Unified Infotech, ensured that all data
+sold to Universal Cartographics was sourced through legitimate scanning.
+
+The combination of reliability and accessibility made Universal
+Cartographics an instant success. The company's ethos, which prized
+discovery for its own sake and championed the advancement of human
+knowledge, resonated with many independent explorers, and continues to
+do so to this day.
+

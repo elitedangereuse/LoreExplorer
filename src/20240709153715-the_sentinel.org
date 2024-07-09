@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       646f54ce-5f75-49a2-b3d2-2fb12e9580c7
+:END:
+#+title: The Sentinel
+#+filetags: :Settlement:
+
+Military installation of [[id:85d9e888-3f5b-40ed-b8af-2eb87e42b0d0][Aegis]]

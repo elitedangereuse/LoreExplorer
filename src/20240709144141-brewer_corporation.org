@@ -1,0 +1,63 @@
+:PROPERTIES:
+:ID:       d9459015-dae3-4233-9eb7-a2fb11344097
+:END:
+#+title: Brewer Corporation
+#+filetags: :Corporation:
+
+* Brewer Corporation
+
+#+begin_quote
+
+  "Starports safer than the surface."
+
+  --- Source
+#+end_quote
+
+Best known for the iconic Coriolis, the Brewer Corporation has been
+synonymous with starports since 2752.
+
+The first Coriolis, designed by Timothy Brewer to elevate the standard
+of offworld living, took nearly four years and one billion credits to
+complete. Though crude and angular to look at, it was relatively simple
+to assemble in space, with heavy components that could be manufactured
+locally from low-grade materials. It boasted several innovative
+features: a self-regulating biome, living facilities comparable to those
+of planetside outposts, first-rate medical services and an innovative
+cylindrical docking system. By 3200 Brewer was the galaxy's primary
+starport manufacturer.
+
+After decades of rigorous testing, Brewer debuted its second design, the
+Orbis. Envisaged as an advanced, lightweight counterpart to the
+Coriolis, the Orbis's construction was less dependent on local metallic
+resources. The design retained the docking cylinder while featuring
+additional 'full gravity' areas.
+
+While the Orbis proved popular in wealthier systems, questions were
+raised over the starport's price. Brewer was unmoved, however, asserting
+that the company's high safety standards and extensive testing process
+made their starports well worth the cost. This did not stop several
+competitors emerging in the wake of the Orbis's release, claiming they
+could build Brewer-quality stations at a fraction of the cost.
+
+The Merritt Group was one such challenger, an industry newcomer with a
+background in planetary infrastructure. Launching the Nostrum, an
+industrial station sold as a low-cost alternative to the Orbis,
+president Caleb Ferrin bragged about the starport's technical
+specifications, claiming it would eliminate the need for
+exorbitantly-priced installations.
+
+Ferrin's assertions were definitively answered in 3255, when a
+catastrophic structural failure in the main ring of a Nostrum starport
+in the Tau Ceti system killed over 100,000 people. Investigating the
+tragedy, industry officials attributed the incidents to "a lack of
+adequate safety planning" and repeated failures to correct a fatigue
+fracture.
+
+Following a very public enquiry in which huge amounts of footage of the
+disaster was made available to the public, outrage over Merritt's
+negligence bolstered Brewer's reputation. Brewer called the incident a
+"tragic loss of life that could have been avoided with a better regard
+for safety". The Merritt Group closed its starport division in 3257,
+leaving Brewer as the sole name in large orbital infrastructure. Its
+prowess has not since been challenged.
+
