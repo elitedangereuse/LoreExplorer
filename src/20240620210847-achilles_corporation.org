@@ -2,4 +2,42 @@
 :ID:       04ba4637-336a-46c7-bab0-3ac12f16b2f9
 :END:
 #+title: Achilles Corporation
+#+filetags: :Corporation:
 
+* The Achilles Corporation
+
+#+begin_quote
+
+  "Optimise, iterate, refine."
+
+  --- Source
+#+end_quote
+
+Achilles is the market leader in computer technology, and is
+particularly noted for developing the reliable, efficient navigation
+computers used by most starships. The fear of a hyperspace misjump
+following a computer malfunction -- a nighmare scenario that Achilles
+capitalised on in its advertising -- helped to cultivate strong brand
+loyalty in the company's early days.
+
+Achilles is also a pioneer in the field of robotics, meaning it has long
+been hampered by the interstellar ban on the development of self-aware
+artificial intelligence. In the late 3200s, rumours surfaced that the
+corporation was attempting to circumvent these restrictions by placing
+organically grown brains in robotic bodies. No evidence of any such
+activity has come to light, and Achilles board members have not deigned
+to dignify the rumours with a response.
+
+There has also been speculation that the company's leaders are
+extensively cybernetically enhanced, given their history of
+uncompromising takeovers and corporate machinations. Even their open
+business operations are characterised by ruthless efficiency, while
+their private dealings are rumoured to involve everything from the
+blackmail of rival executives to assassination. Achilles' official line
+is that these rumours are 'sheer fantasy' and a 'predictable, envious
+response to success.'
+
+Nonetheless, the rumours persist, and Achilles' reputation is now so
+daunting that smaller corporations will roll over at the first sign of a
+takeover bid rather than attempt to negotiate for better terms. Nobody
+wants to become the subject of a career-ending rumour.

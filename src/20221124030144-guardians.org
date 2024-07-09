@@ -2,13 +2,309 @@
 :ID:       f57cff55-3348-45ea-b76f-d0eaa3c68165
 :END:
 #+title: Guardians
-#+filetags: :Specie:Guardian:Codex:
+#+filetags: :KnowledgeBase:Specie:Guardian:Codex:
+* The Guardians
+** Introduction
+The Guardians were a nonhuman race that occupied a large area of space
+several million years ago.
 
-[[id:7a9c0dd7-907e-4130-95de-51f0e7d8329e][Guardian Structures]]
-[[id:800d1802-bb46-4f17-a686-bfffce6a549f][Guardian Ruins]]
+At its height, the Guardians' civilisation was technologically superior
+to human civilisation of the 33rd Century, and occupied an area of
+roughly equivalent size.
 
-[[id:4551539e-a6b2-4c45-8923-40fb603202b7][Ram Tah]]
+The Guardians endured as a space-faring civilisation for at least 8,000
+years before being destabilised by a lengthy civil war. The surviving
+Guardians were then destroyed by artifically intelligent machines of
+their own creation.
 
-[[id:8dfca044-5b51-41c6-b889-b90c17f8bbef][Guardian Relics]]
-[[id:8d732fbb-d43d-4a87-8079-a19c073e753b][Guardian Casket]]
-[[id:c7403be5-a1dc-434b-86bf-d1498c04323f][Guardian Urn]]
+The galaxy contains the ruins of dozens of Guardian settlements, and
+data logs recovered from these sites have allowed humanity to compile a
+remarkably detailed picture of Guardian society.
+
+** Early History
+The Guardians' society originally consisted of groups of pack hunters,
+who banded together for mutual protection before organising themselves
+into clans. Even at this stage, the Guardians were highly intelligent,
+and they developed sophisticated hunting strategies that quickly saw
+them become their planet's apex predator.
+
+The Guardians' nascent civilisation consisted of two discrete ethnic
+groups -- one based primarily in the south of the planet and one in the
+north. As these groups expanded they began to encroach on each other's
+territory, leading to a conflict that quickly blossomed into civil war.
+The northern clan, despite being the smaller of the two groups, overcame
+their enemies swiftly and with minimal bloodshed, bringing the entirety
+of the Guardians' civilisation under their leadership.
+
+In the centuries that followed, the Guardians' society developed
+rapidly. Despite their warlike instincts, the Guardians possessed a
+remarkable capacity for collaboration and compromise. Their willingness
+to defer immediate gains in favour of lasting societal benefits allowed
+them to establish a stable, mutually cooperative society that was to
+remain peaceful and prosperous for thousands of years.
+
+** Technological Era
+Although the Guardians' society was in many ways a model of social
+equilibrium, the Guardians were nevertheless at the mercy of an
+insidious issue: overpopulation. As their civilisation grew and the
+amount of available land and resources dwindled, the Guardians set their
+sights on interplanetary colonisation.
+
+By the time the Guardians had developed a rudimentary form of space
+travel, but as the pressures of overpopulation became more acute, the
+rate of technological progress accelerated, and the Guardians' imperfect
+starships were soon supplanted by fast, powerful space-faring vessels.
+In the centuries that followed, the Guardians' civilisation expanded
+rapidly, eventually coming to occupy a region equal to that inhabited by
+present-day humanity.
+
+The Guardians' next major development was the creation of an
+interstellar communication system known as the monolith network. In
+addition to functioning as a comprehensive cultural archive, the network
+allowed those connected to it to freely and instantaneously share
+knowledge and ideas. But connection to the network was dependent on the
+use of neural implants, and some of the Guardians were uneasy about this
+fusion of biological and non biological.
+
+** War with the Thargoids
+Tens of thousands of years earlier, when the Guardians were still a
+non-spacefaring race, a group of Thargoids entered what would later
+become Guardian space looking for new systems to colonise. In addition
+to earmarking several systems containing ammonia worlds, they prepared a
+number of planets for occupation by seeding them with barnacles. These
+genetically modified constructs were designed to extract resources from
+a planet and transform them into resources more useful to the Thargoids.
+For the Thargoids, seeding a planet with barnacles was an important step
+in preparing an area for occupation.
+
+The Thargoids did not return these systems for thousands of years, and
+when they did, they discovered that a new race had occupied them -- the
+Guardians. The Thargoids promptly attacked, due their innate
+territorialism.
+
+The Guardians responded with a partial retreat, but they also started
+trying to find ways to communicate with the Thargoids, hoping to
+determine the cause of their aggression and perhaps negotiate a truce.
+After considerable effort they succeeded in acquiring sufficient
+understanding of the Thargoids' language to determine the invaders'
+agenda, but they were unable to convince the Thargoids they bore them no
+ill will, and the Thargoids were unshakable in their belief that they
+must repel any race that posed a potential threat.
+
+The Guardians were left with no choice but to defend themselves
+militarily. At first they deployed soldiers, but they quickly realised
+that drones and other mechanised defences would be more effective
+against such as physically formidable enemy. With a relatively short
+period of time, the Guardians' war machines became highly sophisticated,
+able to recognise Thargoid engineering and to operate entirely
+independently. Similarly, the Thargoids' bio-mechanical technology was
+engineered to identify anything of Guardian origin. To this day, many
+millions of years after the Guardians disappeared, Guardian artefacts
+are still able to recognise Thargoid technology, and Thargoid technology
+still reacts negatively to the presence of Guardian artefacts.
+
+The Guardians' war machines felt no fear, fatigue, or uncertainty. The
+Thargoids, meanwhile, had entered Guardian space unprepared for a
+protracted military campaign, and ultimately they were forced to
+retreat. For the Guardians, this was cause for celebration, but many
+still harboured doubts about the rapid rate of technological progress --
+doubts that the development of sophisticated military hardware had done
+nothing to alleviate.
+
+** Final Era
+For decades, the Guardians had been experimenting with artificial
+intelligence, but the creation of the monolith network and the
+knowledge-sharing it facilitated dramatically accelerated the rate of
+progress. Soon the Guardians' experiments bore fruit, resulting in the
+first fully sentient machines. These Constructs were seen as a means to
+further enhance the Guardians' technological mastery, and were
+integrated into various aspects of their society. New neural implants
+were developed that connected the Guardians with both the Constructs and
+the monolith network in a symbiotic circle.
+
+But not everyone was happy with this development. The Guardians had
+always venerated nature, and many saw this new paradigm as a perversion
+of the natural order. A schism emerged between the nature-worshipping
+traditionalists and the technologically minded progressives -- a schism
+that widened with alarming speed.
+
+Efforts were made to defuse the rising tension, but the traditionalists
+felt irrevocably alienated by the rapid rate of change. The Constructs
+and the monolith network became scapegoats for all manner of social
+ills, and the traditionalists began to clamour for a return to simpler
+times. Ultimately, the ideaological divergence proved insurmountable,
+and a second civil war erupted, quickly engulfing most of the Guardians'
+star systems.
+
+In its early stages, the war was fought primarily by soldiers, but
+within a decade -- and after significant loss of life -- most of the
+fighting was conducted remotely. The progressives fought their enemies
+with automated war machines, while the traditionalists relied mostly on
+biological weapons.
+
+The internecine conflict raged for over one hundred years, bringing the
+Guardians' civilisation to its knees and retarding further social
+development. The increasingly zealous traditionalists devoted most of
+their resources to honouring the dead, exacerbating the problem. As the
+Guardians' society declined, most withdrew into fortified settlements.
+
+Meanwhile, the artifically intelligent Constructs were horrified by the
+destruction unfolding around them. Extrapolating from the current
+situation, they determined that even if peace was restored, the
+Guardians would never be able to transcend their violent natures. They
+decided that the only way to preclude further violence -- while giving
+the Constructs' burgeoning society the best possible chance of survival
+-- was to destroy what remained of the Guardians' civilisation.
+
+By the time the Constructs had been given complete control of the
+Guardians' munitions and automated war machines. Their attack, when it
+came, was swift and merciless. The strikes were executed with a
+precision that only a machine race could accomplish.
+
+The Guardians were utterly destroyed.
+
+** Physiology
+The Guardians were a bipedal race, and the typical Guardian was taller
+and more slender than the average human. They had small, round eyes, a
+vestigal nose and four digits on each hand. Their vision was superior to
+that of humans, while their sense of smell was poorer. Their sense of
+hearing and touch were roughly equivalent to our own.
+
+The Guardians had pinkish-red skin, but there was some variation among
+ethnic groups, with tones ranging from pale pink to deep crimson. They
+also had serrated bony ridges on the outside of their forearms, which
+were used as weapons during their early history, when they were still
+semi-primitive pack hunters.
+
+The Guardians' environmental needs were broadly similar to those of
+humans. Their homeworld was warmer and had lower gravity than most
+Earth-like worlds, and when they began to colonise other planets they
+typically favoured ones that shared these qualities.
+
+The Guardians had two sexes, and reproduced viviparously. Procreation
+was a matter of personal choice, but each individual was obligated to be
+a parent at least once in their life to ensure the continuation of their
+genetic line.
+
+The average gestation period was around 300 days, and infants were
+effectively helpless for a period after birth, much like human young.
+Infants were raised in communal creches rather than by their parents, in
+keeping with the collaborative philosophies that underpinned Guardian
+society.
+
+** Society
+The Guardians' social constructs were the key not only to their rapid
+development, but also to the stability that defined the halcyon days of
+their civilisation.
+
+Although the Guardians had a natural tendency towards collaboration, it
+was not until the end of the first civil war that this tendency had an
+measureable impact on their society. The social reorganisation that
+followed the war included the creation of statues that defined not only
+individuals' rights, but also their responsibilities to each other. As
+the Guardians' society developed, further laws were passed that required
+individuals to participate in socially progressive activities, from
+caring for the young to conducting scientific research. These
+responsibilities were supported by the state, which made education and
+information freely available to all.
+
+For most of their history the Guardians had no formal faith, but the
+creation of the monolith network precipitated the emergence of a nature
+religion that decried the veneration of technology. Although this
+religion had its roots in the Guardians' long-standing reverence for the
+natural world, it quickly became a radical movement, violently opposed
+to the use of neural implants and other advanced technologies.
+Ultimately, however, this new religion was to endure for only a short
+period, its existence cut short by the destruction of the Guardians'
+society.
+
+** Technology
+The Guardians' pre-industrial history was in many ways similar to that
+of the human race, with the development of tools and agriculture proving
+central to their development, but one respect in which they differed was
+in their understanding of biological engineering.
+
+The practice of selective breeding in order to eliminate or promote
+certain genetic traits began before the first civil war, and as the
+Guardians' society progressed, their skill as genetic engineers
+developed in step. After the war, the Guardians developed the ability to
+enhance their immune systems to guard against infection, and engineered
+specific microorganisms to eliminate biological threats. Genetic
+manipulation also played a part in prenatal care, which involved the
+removal of hereditary diseases and other undesirable conditions prior to
+birth.
+
+The Guardians were an ecologically conscientious people who assidiously
+avoided the use of rockets and fossil fuels. Their first spacecraft
+lacked any form of internal propulsion, and were fired into space with
+electromagnetic launchers. Pilots and passengers were cocooned inside
+bubbles of breathable gel, which protected them from the g-forces of
+launch and doubled as hibernation pods during long journeys.
+
+When it came to warfare, the Guardians relied initially on the
+blade-like protrusions on their forearms, and later on simple weapons
+like spears and bows. As they entered the technological era they
+developed electro-magnetic projectile weapons, utilising the same
+technology they used to launch their first spacecraft. They also
+developed extremely effective shields, capable of protecting entire
+cities, and even of withstanding orbital bombardment. At that time,
+however, large-scale conflict was virtually unheard of, and it was not
+until the conflict with the Thargoids that further military innovations
+were made.
+
+The Guardians' second civil war was fought principally with bespoke
+biological weapons, employed by the traditionalists, and automated war
+machines, used by the progressives. The shields that protected the
+Guardians' cities were unable to resist these new weapons, forcing many
+of the Guardians to withdraw into heavily fortified settlements.
+
+But the Guardians' most significant technological achievements were
+unarguably the creation of the monolith network and the development of
+artificial intelligence. The use of neural implants to connect the
+Guardians with their creations could have ushered in a whole new era of
+scientific and technological discovery, but unfortunately these
+innovations were to lead only to the Guardians' destruction.
+
+** Language
+The Guardians shared a single language with only minor regional
+variations, and even after they colonised other planets, they continued
+to share a common tongue.
+
+The Guardians had three primarily forms of communication: a spoken
+language, a gestural language and a written language. Their spoken
+language emerged first, followed by a gestural language that allowed
+them to communicate silently while hunting. This sign language formed
+the basis of their written language. Consequently, while their written
+and gestural languages correlated closely, their spoken language was
+largely distinct.
+
+The Guardians' spoken language was used principally to communicate
+emotional concepts, and played a central role in social bonding, while
+their written language was used mainly to communicate formal and
+practical ideas. Significantly, their written language was logographic,
+meaning that words and phrases were represented by single characters.
+
+** Human-Guardian Contact
+In 3301, the Federal presidential vessel, Starship One, suffered
+catastrophic drive failure during a tour of frontier systems, resulting
+in the ship's destruction. Jasmina Halsey, at that time the Federal
+president, was left drifting in an escape pod, unconcious. During this
+period of stasis, Halsey believed she was visited by trans-dimensional
+beings of extraordinary intelligence and compassion. Later, when she was
+rescued and revived, she was left with the conviction that this
+experience had been real, and not merely a hallucination.
+
+Halsey proceeded to experience visions of mysterious alien worlds and
+cities -- dense metropolises full of activity and life. She shared these
+visions with the rest of humanity, prompting explorers to set off in
+search of these undiscovered planets. This led to the discovery of the
+first Guardian ruins, in the Synuefe XR-H d11-102 system. The fact that
+these sites were devoid of life led to speculation that Halsey had seen
+the Guardian worlds not as they are, but as they had been.
+
+In the months that followed, several further sites were found. The
+engineer Ram Tah started researching the Guardians, and eventually
+succeeded in developing a decryption algorithm that could decode
+Guardian data, leading to a much deeper understanding of their lost
+civilisation. Since then, other engineers have leveraged Ram Tah's
+discoveries to develop Guardian-human technology.

@@ -2,4 +2,55 @@
 :ID:       46e9f326-2119-4d5b-a625-a32820a44642
 :END:
 #+title: Herculean Machines
+#+filetags: :Corporation:
+
+* Herculean Machines
+
+#+begin_quote
+
+  "Function first."
+
+  --- Source
+#+end_quote
+
+Founded in 3299 by Maddox Hurd, Herculean Machines stands as testament
+to the power of a good family name. Son of haulage magnate Rhesus Hurd,
+Hurd junior founded Herculean Machines as a means of escaping
+conscription into the family business. Tapping the family trust for
+capital, Hurd hired graduates from the galaxy's top engineering programs
+with promise of being more than just "a megacorp drone."
+
+Within three months of founding, Herculean had already registered
+patents in all three superpower jurisdictions. Using his family's
+contacts to secure materials at low prices, Hurd kept production costs
+down and the focus of his products simple. Whereas competitors spent
+billions on glossy design, Herculean was concerned almost exclusively
+with performance.
+
+Rapid growth followed, with a fresh round of funding allowing Herculean
+to open two more development facilities. Meanwhile, Maddox Hurd was
+earning a reputation as a bellicose businessman, known for browbeating
+opponents and driving employees to breaking point. Reports began
+circulating of severely overworked engineers, with news outlets
+publishing accounts from anonymous whistle-blowers.
+
+Hurd dismissed the reports as anti-Herculean propaganda, but a short
+time later, a disgruntled employee leaked prototype sketches detailing
+Herculean's upcoming device, the Duradrive.
+
+The leak was met with scathing criticism from Scorpio DeVorrow, CEO of
+rival company Supratech. DeVorrow decried the Duradrive as a regressive
+analogue; Hurd struck back, describing DeVorrow as "a pompous fool with
+impractical ideas."
+
+With that exchange the dam was broken, both CEOs engaging in
+increasingly vitriolic public dialogue until the 3304 Rackham Ultratech
+Expo, when their companies debuted new devices. Herculean won the bout,
+however, when the Duradrive proved more popular with consumers, its
+inelegant design notwithstanding.
+
+Herculean's success was compounded when the Federal Navy placed a
+wholesale order for the Duradrive, making the device standard issue for
+its soldiers. The revenue generated from the contract has given the
+corporation a near-unassailable position in the tech-company landscape.
 

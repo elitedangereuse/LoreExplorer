@@ -2,7 +2,7 @@
 :ID:       0fe8f744-0ec9-454f-af13-3ee6b747334d
 :END:
 #+title: Halsey Shares Her Vision
-#+filetags: :Guardians:beacon:
+#+filetags: :Guardian:beacon:
 * 0679 Halsey Shares Her Vision
 [[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]]
 

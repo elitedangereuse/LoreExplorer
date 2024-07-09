@@ -2,11 +2,12 @@
 :ID:       d5026aa6-6751-497d-880e-517baa2578e6
 :END:
 #+title: The Consortium
-#+filetags: :Codex:
+#+filetags: :KnowledgeBase:3120:Codex:
 
 * Faction
 [[id:b6cc5a1a-935d-4119-9989-1e916a3e7339][NGC 6188 Sector LC-V c2-28]] (4402.19 ly from Sol)
 [[id:d561cb4a-e5b9-4b91-8c6c-3bd52bac3de5][Morgan's Rock]]
+
 * The Consortium
 The Consortium is a powerful [[id:3fdaedf3-fedf-47a2-9ee7-e93fcdf08402][crime syndicate]] specialising in
 [[id:f1778ba6-dab1-442b-88ff-1dfe06ee2616][blackmail]], [[id:f15a269f-7b00-45dd-a4e5-632d0a37ad95][theft]], and the production and trafficing of [[id:50e5a3c1-a834-4b39-8471-f3fcd22ad82c][illegal
@@ -16,7 +17,7 @@ made it extremely successful.
 
 The Consortium started life as an unruly band of brigands and thieves,
 no different from thousands of other criminal confederacies. But its
-course changed when an ambitious young rogue named Catelyn Voss took
+course changed when an ambitious young rogue named [[id:32dd8281-61d5-418c-aa27-c533207d38d5][Catelyn Voss]] took
 control of the group, sometime in the 3120s, and started aggressively
 expanding its operations.
 

@@ -3366,18 +3366,15 @@ or be engulfed by political and corporate forces.
 
 #+begin_quote
 
-  #+begin_quote
+  "Oh, they're out there alright. I've never met them, but I know
+  they're out there. Think about how well known the stories are. Now
+  think about how easy it would be for some two-bit band of hucksters
+  to pass themselves off as the Dark Wheel and start trading on their
+  reputation. Doesn't happen, does it? Not for long, anyway. Whenever
+  someone tries to usurp the Dark Wheel name, sooner or later they get
+  quietly shut down. And that's how I know."
 
-    "Oh, they're out there alright. I've never met them, but I know
-    they're out there. Think about how well known the stories are. Now
-    think about how easy it would be for some two-bit band of hucksters
-    to pass themselves off as the Dark Wheel and start trading on their
-    reputation. Doesn't happen, does it? Not for long, anyway. Whenever
-    someone tries to usurp the Dark Wheel name, sooner or later they get
-    quietly shut down. And that's how I know."
-
-    --- Felicity Farseer, explorer
-  #+end_quote
+  --- Felicity Farseer, explorer
 #+end_quote
 
 The Dark Wheel is the name given to a legendary group of adventurers,

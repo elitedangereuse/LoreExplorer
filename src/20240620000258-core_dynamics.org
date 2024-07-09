@@ -2,4 +2,32 @@
 :ID:       4a28463f-cbed-493b-9466-70cbc6e19662
 :END:
 #+title: Core Dynamics
+#+filetags: :Corporation:
+
+* Core Dynamics
+
+#+begin_quote
+
+  "Unmatched interstellar supremacy."
+
+  --- Source
+#+end_quote
+
+Core Dynamics is a giant conglomerate, best known as the galaxy's
+premier manufacturers of weapon and surveillance systems and starships,
+with a particular focus on combat vessels. Its product line ranges from
+the diminutive Eagle to the gargantuan Farragut-class Battlecruiser, and
+also includes the most popular skimmer in the galaxy, the S-4 Sentry.
+
+The company is known for its occasional discount events, offering
+reduced-cost ships either in celebration of a new design, or as
+incentives for participation in a community endeavour.
+
+Core Dynamics has a longstanding supply agreement with the Federation,
+and is responsible for the Federal Assault Ship, Corvette, Dropship and
+Gunship. As part of this relationship, the company benefits from
+privileged access to Federal black-box data reserves, which it uses in
+its research-and-development branch. In the ongoing quest for more
+robust and effective ship designs, there is no substitute for data
+gleaned from genuine combat encounters.
 

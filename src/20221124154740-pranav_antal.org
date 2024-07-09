@@ -2,5 +2,71 @@
 :ID:       05ab22a7-9952-49a3-bdc0-45094cdaff6a
 :END:
 #+title: Pranav Antal
-#+filetags: :Individual:
+#+filetags: :KnowledgeBase:Codex:Individual:
 Leader of the [[id:ff7259da-5b38-486b-8a3b-61ba9adca854][Utopia movement]]
+
+* Pranav Antal
+
+#+begin_quote
+
+  "If my ancestors could see me today, would they approve of what I've
+  done? I doubt it. Enlightenment is supposed to be hard work. In theory
+  it's accessible to anyone, but in practice only those who devote years
+  of their life to meditation can hope to accomplish anything. To do
+  what we have done -- to democratise the spirit through technology --
+  would look to my forebears like unforgivable laziness."
+
+  "But all things must happen in their appointed time. We now stand on
+  the verge of overcoming the great obstacle of human progress there has
+  ever been -- all forms of conflict result from this detachment. But
+  our technology allows us to truly see the world through others' eyes.
+  We can finally achieve what the mystics and sages have spent centuries
+  striving for, and break down the fortress of the individual ego."
+
+  --- Pranav Antal
+#+end_quote
+
+Pranav Antal is the leader of the Utopia movement, within which he is
+referred to by the honorific 'Simguru'. Utopia is a visionary project
+with a goal to advance humanity scientifically, morally and spiritually
+via the application of technology, with a particular focus on
+simulations or 'sims'- the digitised thoughts, emotions and perceptions
+of another.
+
+Pranav inherited leadership of Utopia from his father, Rishi Antal.
+Rishi was the founder of Utopia and designer of the Sim-Archive, a
+facility that allows the living to experience the digitised memories of
+the deceased. Although at present it is only possibly to experience
+these memories passively, Pranav has mentioned the possibility of
+incorporating them into a simulated version of the individual or
+'data-ghost' that could then be interacted with, thereby allowing
+individuals to endure beyond death.
+
+In his youth, Pranav was expected to undertake a range of physical
+chores despite the technological and material wealth available to his
+family, and has often spoken of digging vegetables out of the ground and
+rebuilding collapsed cultivation tunnels after a storm. At the time he
+begrudged these tasks, but having since accessed his deceased father's
+memories, he now appreciates that the work gave him an understanding of
+how the disadvantaged experience life, as well as reminding him that
+humanity is depenent upon the material world, and must not hold it in
+contempt.
+
+Pranav is generally considered more commercially minded than his ascetic
+father, prompting his critics to condemn him as a plutocrat with only a
+superficial interest in Utopia's ideals. His supporters, by contrast,
+paint him as combining the wisdom of his father with a shrewd commercial
+nous. Regardless, both sides agree that Utopia has undergone significant
+change under Pranav's leadership.
+
+Pranav's prevalent concern, apart from continuing to expand Utopia, is
+the Acheron Interface. His claim is that this project will allow users
+to translate their conciousness directly into data, thereby surpassing
+the limitations of the physical self. Some commentators have expressed
+wariness, claiming the project steers unacceptably close to the
+development of artificial intelligence, which is prohibited throughout
+the galaxy. But Pranav's standpoint is that a system that translates
+intelligence into a new form, like the Acheron Interface, is not
+artificial intelligence, since the human being remains at the core of
+the process.
+

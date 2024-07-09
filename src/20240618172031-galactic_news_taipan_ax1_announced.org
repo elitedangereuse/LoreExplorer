@@ -2,13 +2,13 @@
 :ID:       76ac1bd5-b064-4b19-b670-d30e4da79584
 :END:
 #+title: Galactic News: Taipan AX1 Announced
-#+filetags: :Thargoid:3303:galnet:
+#+filetags: :3303:Thargoid:galnet:
 
 * Galactic News: Taipan AX1 Announced
 
 /11 Nov 3303/
 
-A spokesperson for Faulcon DeLacy has announced that the manufacturer has teamed up with Aegis to produce a new version of its popular fighter, the Taipan. The spokesperson confirmed that the development was a direct response to the rising Thargoid threat. 
+A spokesperson for [[id:273d7834-fe3f-4b12-b045-d5d8a62e719a][Faulcon DeLacy]] has announced that the manufacturer has teamed up with Aegis to produce a new version of its popular fighter, the [[id:9060c4b1-7b47-4b16-8ac4-0e70a8132ea4][Taipan]]. The spokesperson confirmed that the development was a direct response to the rising Thargoid threat. 
 
 Barr Winters, a Faulcon DeLacy engineer who worked on the new Taipan, elaborated on the ship’s specifications: 
 

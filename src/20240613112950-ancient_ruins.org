@@ -2,7 +2,7 @@
 :ID:       ee5ce79a-39d7-404a-a5a9-2f4e1549197f
 :END:
 #+title: Ancient Ruins
-#+filetags: :Guardians:beacon:
+#+filetags: :Guardian:beacon:
 * 0635 Ancient Ruins
 [[id:bfba5e37-ad9f-4fbb-a19c-5156313c79a4][Synuefe XR-H d11-102]]
 

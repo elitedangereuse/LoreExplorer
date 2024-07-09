@@ -5,7 +5,7 @@
 #+title: Hull Stress Factor Uncertain
 #+filetags: :EasterEgg:
 
-Message encoded in [[id:4a2a29f4-8edd-4cf2-b347-a023dac7ab26][octal]] when targeting a Thargoid ship.
+Message encoded in ASCII in [[id:4a2a29f4-8edd-4cf2-b347-a023dac7ab26][octal]] when targeting a Thargoid ship.
 
 [[file:/img/thargoids/signature/ED-Thargoid-Message-1.jpg]]
 [[file:/img/thargoids/signature/ED-Thargoid-Message-2.jpg]]
@@ -22,7 +22,7 @@ hull stress factor uncertain
   040 165 156  un
   143 145 162 cer
   164 141 151 tai
-  156         n  
+  156 000 000 n  
 #+end_src
 
 #+begin_quote

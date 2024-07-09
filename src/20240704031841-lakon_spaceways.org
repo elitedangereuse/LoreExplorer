@@ -2,4 +2,35 @@
 :ID:       906c77b7-7fe4-48c1-ace5-1265023c2ebf
 :END:
 #+title: Lakon Spaceways
+#+filetags: :Corporation:
+
+* Lakon Spaceways
+
+#+begin_quote
+
+  "Hard-working ships for hard-working people."
+
+  --- Source
+#+end_quote
+
+Lakon Spaceways is a starship manufacturer specialising in sturdy
+vessels for cargo haulage and deep-space exploration. They have a longer
+pedigree than most other ship manufacturers, their first dedicated
+transport vessel having been built on Earth in the 26th Century.
+
+The company's early models were characterised by the fact that they
+could be easily repaired away from port -- a quality that has been
+retained to this day, despite the prevalence of affordable repair
+services.
+
+In 3303, Lakon entered into partnership with the Alliance to produce a
+range of military ships in response to the emerging Thargoid threat. As
+of 3304, this partnership has produced the Type-10 Defender, the
+Alliance Chieftain, the Alliance Crusader and the Alliance Challenger.
+
+Lakon vessels tend to garner both praise and derision for their
+unpretentious, functional design, which is informed more by practical
+concerns than aesthetic considerations. Those who champion the chunky
+look of Lakon craft typically say that they prefer their ships to look
+like ships, not abstract sculptures.
 

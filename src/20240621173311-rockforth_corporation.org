@@ -2,4 +2,39 @@
 :ID:       a7056ff8-e67d-4ca9-baf1-7e5df3efa677
 :END:
 #+title: Rockforth Corporation
+#+filetags: :Corporation:
+
+* The Rockforth Corporation
+
+#+begin_quote
+
+  "Living Naturally."
+
+  --- Source
+#+end_quote
+
+The Rockforth Corporation was founded in 2673 by the Rockforth Family on
+Thompson's World, an unusually beautiful planet similar in almost all
+respects to Earth. Thompson's World began as a Federal colony, but by
+2748 Rockforth controlled so much of the planet that it was able to
+claim outright ownership and secede from the Federation.
+
+In its early years, the Rockforth Corporation earned significant revenue
+from tourism and 'genuine ground-grown food', the former facilitated by
+the rise of affordable interstellar travel. Today, it is a powerful
+interstellar corporation specialising in agriculture and tourism, with
+hundreds of corporate farms throughout Federal space. It also has a
+reputation for being acquisitive, having bought many of its client
+companies, beginning with a friendly takeover of the law firm Smith and
+Smith, now known as Rockforth Law. In 2730, Rockforth Law established
+the Rockforth Legal Academy on Thompson's World, now considered one of
+the best places in the galaxy to study Federal law.
+
+Rockforth has always been eager to work with governing powers, both
+Federal and independent, and has occasionally loaned out its private
+fleet to help repel external threats. The company has even sponsored
+election campaigns, including that of the infamously corrupt Federal
+President Isaac Gellan in 2862. Rather than being tarnished by its
+association with Gellan, however, the company's reputation was enhanced,
+since it was Rockforth itself that exposed the president's corruption.
 

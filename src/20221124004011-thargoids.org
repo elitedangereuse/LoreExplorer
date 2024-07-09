@@ -228,29 +228,3 @@ proximity.
 
 
 
-
-* Objects
-  - [[id:d17a9775-b9b5-4d26-b69f-16ced04f52a9][Thargoid Sensors]]
-  - [[id:479ad5ac-c6b9-4358-870e-12058bd925cb][Thargoid Probes]]
-  - [[id:e2c8ef5e-90a4-4dcc-974f-3af59cc68797][Thargoid Links]]
-  - [[id:3c8fad3d-2685-4d41-b17f-947c36926c5d][Thargons]]
-  - [[id:0d00ae42-8994-4b9b-a0dd-65c7b13dbd0d][Thargoid Scouts]]
-  - [[id:d9e97ba9-f907-4520-9f9f-daec8c269557][Thargoid Interceptors]]
-  - [[id:6666e632-1845-4761-aaff-304b72c85b86][Thargoid Hunters]]
-  - [[id:5a7bd9d0-f70a-4af4-bd81-8d52784c62a6][Thargoid Pod]]
-  - [[id:6c63a7d7-35df-4438-ae12-b0f9a87eb774][Thargoid Scavengers]]
-  - [[id:2f251dee-63c1-4551-b437-2df1483e8078][Thargoid Maelstrom]]
-* Locations
-  - [[id:70fa34ea-bc98-40ff-97f0-e4f4538387a6][Merope]]
-  - [[id:0ee60994-364c-41b9-98ca-993d041cea72][Maia]]
-  - [[id:846bfbc7-75e7-4d8d-8716-7fe0346026f4][Delphi]]
-  - [[id:7579d21e-8753-410c-a462-b07045ad00f6][Ammonia Worlds]]
-  - [[id:ef6b2aca-b7ca-4607-aa14-c91e1085c795][Nebulae]]
-* People
-  - [[id:0be96028-d995-4b52-8bb0-34f21e080bce][John Jameson]]
-  - [[id:8f63442a-1f38-457d-857a-38297d732a90][Ishmael Palin]]
-  - [[id:0e8f9924-e230-4390-aa79-5dba76c6e6d2][Uri Anslow]]
-  - The Order Of The [[id:04ae001b-eb07-4812-a42e-4bb72825609b][Far God]]
-* Enemies
-  - Guardians
-  - [[id:4dfd1a40-8f9b-4f66-9c90-971e253a3fe1][Humans]]

@@ -2,5 +2,118 @@
 :ID:       3e91a7d8-2f6a-4065-b134-0e9760d34d92
 :END:
 #+title: Corporations
-#+filetags: :Codex:
+#+filetags: :KnowledgeBase:Codex:
 
+* Corporations
+** Introduction
+
+#+begin_quote
+
+  "The grandest society of merchants in the Universe."
+
+  --- self-applied description of the East India Company, 1600-1708
+#+end_quote
+
+During the centuries in which humanity was confined to a single planet,
+corporations were naturally limited in size and influence, life fish in
+a bowl. While access to a finite quantity of natural resources, and a
+relatively small arena in which to compete, corporations could not
+achieve their full theoretical potential.
+
+But with the advent of interstellar travel, the fishbowl became an
+ocean. Corporations could access and exploit entire planets for their
+mineral resources, and an expading population, eagerly colonising system
+after system, meant a growing customer base.
+
+To the governments of the time, the potential for corporate growth was
+both thrilling and terrifying; commercial prosperity meant increased tax
+revenue and higher employment figures, but also raised the worrying
+prospect of security fleets that could rival the official militaries. It
+seemed inevitable that the largest corporations would, in time, become
+the equivalent of nation-states in their own right. With the old
+restrictions gone, there was simply nothing to stop them.
+
+Today this vision has been partly fulfilled, with several corporations
+owning entire systems. For many corporate employees, the age-old
+distinction between a home and a workplace has vanished. Workers on
+corporate-owned ships, refineries and outposts can expect to spend their
+entire lives in the embrace of the company.
+
+Despite their immense wealth and power, the corporations have thus far
+been content to operate within -- and remain subject to -- the
+jurisdictions of the Alliance, Empire and Federation, rather than mount
+a serious challenge to any of them. Commentators point to two reasons
+for this. Firstly, corporations thrive by excelling in their chosen
+fields, and assuming the onerous responsibilities of a government would
+be a wasteful distraction from the corporate mission. Secondly, given
+that the corporations already hold much of the real power (especially in
+the Federation), there is nothing to be gained by abolishing the
+convenient veneer of the state. Better to operate below the surface,
+make a show of compliance, and trust in the power of money to smooth the
+way forward.
+
+** [[id:04ba4637-336a-46c7-bab0-3ac12f16b2f9][The Achilles Corporation]]
+** [[id:e9439fe0-8637-4330-b5fd-b4f1643cf472][Bank of Zaonce]]
+** [[id:d9459015-dae3-4233-9eb7-a2fb11344097][Brewer Corporation]]
+** [[id:87b860c8-570a-4c72-9524-93ba61af84a3][Caine-Massey]]
+** [[id:4a28463f-cbed-493b-9466-70cbc6e19662][Core Dynamics]]
+** [[id:273d7834-fe3f-4b12-b045-d5d8a62e719a][Faulcon DeLacy]]
+
+#+begin_quote
+
+  "Bridging the stars for half a millennium."
+
+  --- Source
+#+end_quote
+
+Faulcon Manspace, originally a small military supply company,
+experienced an overnight reversal of fortune when it released the Viper
+fighter, which proved popular with governments and private citizens
+alike. Indeed, demand was so high that Faulcon Manspace had to farm out
+Viper production to other companies under licence.
+
+With wealth came innovation and a range of new designs. Like the Viper,
+these new ships were named after dangerous snakes: the Cobra marked the
+company's entry into the trader market, while the lightweight, versatile
+Sidewinder was designed principally as a reconnaissance craft.
+
+As the company's wealth grew, it began to absorb many of the companies
+to which it had previously granted manufacturing contracts. In almost
+all cases, the target companies' close working relationship with Faulcon
+Manspace made such acquisitions frictionless and mutually beneficial. In
+2982, the corporation merged with one of the largest such manufacturers,
+deLacy ShipWorks, becoming Faulcon deLacy.
+
+The company pioneered the now-standard modular system of ship design
+that allows pilots to swap out components with ease. Significantly, the
+company made the schematics for the modular system freely available to
+its manufacturing rivals, broadening the choice of compatible modules
+available to pilots and thus making the Faulcon deLacy marques more
+popular.
+
+Without this philosophy of component compatibility, spacecraft
+maintenance might have become a nightmarish scenario in which being
+unable to get the proper parts could leave a broken-down ship stranded
+in drydock for weeks, or worse subject to bodged repair attempts.
+
+Today, Faulcon deLacy stands out as one of the most enduring, widespread
+and consistently admired corporations in colonised space. Public regard
+for the company is so high that the Alliance. Empire and Federation have
+all made attempts to secure exclusivity to Faulcon deLacy starships.
+Thus far, their efforts have been unsuccessful.
+
+** [[id:aa5d0177-2807-4e3d-b0d0-1a40b3203598][Gutamaya]]
+** [[id:46e9f326-2119-4d5b-a625-a32820a44642][Herculean Machines]]
+** [[id:f0af7a1a-9bd0-4974-92d7-1d12e5d0a0b5][Kinematic Armaments]]
+** [[id:906c77b7-7fe4-48c1-ace5-1265023c2ebf][Lakon Spaceways]]
+** [[id:37323003-012a-4beb-97ac-2291dfa7b811][Manticore]]
+** [[id:4dfc1d85-8d12-4503-a4ed-84da898a03ba][Mastopolos Mining]]
+** [[id:8af6e642-0638-4822-9903-bb688e9fa641][Remlok]]
+** [[id:a7056ff8-e67d-4ca9-baf1-7e5df3efa677][The Rockforth Corporation]]
+** [[id:49b21fdc-6a96-42b3-a496-123e8106f102][Saud Kruger]]
+** [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][The Sirius Corporation]]
+** [[id:3e9f43fb-038f-46a6-be53-3c9af1bad474][Supratech]]
+** [[id:3c9b3ac6-2b3c-406f-b0de-dc02f3a1e9c1][Takada]]
+** [[id:2fb00d7f-7234-45fa-8e3c-af685aa8f0d8][Universal Cartographics]]
+** [[id:ebaea4eb-8ba1-4f48-ada6-ca694704143b][WorldCraft]]
+** [[id:4889d46d-ac30-4695-9f3d-f4cb6f925c4a][Wreaken]]

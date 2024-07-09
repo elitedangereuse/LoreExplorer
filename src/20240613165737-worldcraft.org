@@ -2,4 +2,40 @@
 :ID:       ebaea4eb-8ba1-4f48-ada6-ca694704143b
 :END:
 #+title: WorldCraft
+#+filetags: :Corporation:
+
+* WorldCraft
+
+#+begin_quote
+
+  "Optimising Recreation."
+
+  --- Source
+#+end_quote
+
+Based in the Epsilon Eridani system, WorldCraft has been the
+Federation's favourite tourism company for more than 300 years.
+
+The company began life as the Cisco Corporation, with tourist resorts
+throughout human-occupied space. In the early part of the 33rd century
+it dramatically increased the scope of its operation and began
+terraforming planets to create dedicated resort worlds -- an operation
+facilitated through the use of Free World Ventures' 'Worldcraft'
+atmospheric-processing units. Eager to exclude competitors from the
+market, Cisco bought Free World Ventures in 3260 via leveraged buyout,
+doubling the size of the corporation overnight.
+
+At the time, Cisco was associated with the seedier end of the holiday
+market, which had prevented the company from successfully entering
+Imperial space. Capitalising on the acquisition of Free World Ventures
+and the respect afforded to the 'Worldcraft' brand, the company shrewdly
+rebranded itself WorldCraft -- with a capital 'C' -- in the hope of
+establishing a presence in Imperial space.
+
+WorldCraft offers experiences ranging from excursions into unspoilt
+natural environments, where families can admire dazzling views from the
+safety of a rented luxury vessel, to painstakingly detailed
+reconstructions of periods of Earth history, such as the Victorian
+London theme park and the Swords-n-Swiggin' mediaeval re-enactment
+experience.
 

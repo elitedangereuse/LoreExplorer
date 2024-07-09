@@ -2,8 +2,79 @@
 :ID:       02322be1-fc02-4d8b-acf6-9a9681e3fb15
 :END:
 #+title: Zachary Hudson
-#+filetags: :Individual:
+#+filetags: :KnowledgeBase:Codex:Individual:
 * Job
   [[id:bb90a162-e588-4467-bc4b-d8a33ecef686][President of the Federation]]
 * Ship
   [[id:85fdc9c8-500b-4e91-bc8b-70bcb3c05b0f][Starship One]]
+
+* Zachary Hudson
+
+#+begin_quote
+
+  "The truth is that you cannot escape adversity. You have to stand up
+  and face it. That's how you get stronger. That's how you learn. Maybe
+  you miss a meal or two. Maybe your kids have dirty faces and shabby
+  clothes. If that's what it takes to get you out looking for work, then
+  so be it. I'm not going to insult you by pitying you, because I know
+  you can do better. And you know it, too."
+
+  "I'm not a monster, despite what the Liberals think. I believe in
+  government aid. But I believe it should be reserved for times of
+  genuine crisis, and being poor is not a crisis!"
+
+  "People can do remarkable things when they're properly motivated, and
+  that motivation is something no amount of government money can
+  provide. Without it, we'd still be on Earth, jostling for whatever
+  scraps of living space the state gave us."
+
+  "I have a framed quotation on my wall. It's something my father used
+  to say to me. When I got older, I found out it was by a man called
+  Nieremberg who lived a couple of thousand years ago. It says, 'Certain
+  divine rays break out of the soul in adversity, like sparks from the
+  afflicted flint.' Now you just think about that. Take all the time you
+  need."
+
+  --- Zachary Hudson, Federal Times interview, 3293
+#+end_quote
+
+Zachary Hudson is the President of the Federation, having won a vote of
+no confidence against the previous incumbent, Jasmina Halsey, in
+June 3301. Politically, Hudson is a Republican and a 'hawk', unafraid to
+explore military solutions to problems.
+
+Hudson's parents were itinerant traders who made their home on their
+hauling vessel. From a young age, Hudson was burdened with
+responsibility. He would often be left in harge of his five younger
+siblings while his parents were off plying their trade, and has spoken
+on the long hours he would spend watching the cargo "with nothing but a
+rifle for company" in case raiders tried to steal it.
+
+The young Hudson greatly admired the military, and when he was old
+enough to be trading himself he made a point of offering pilots a
+discount on food and beer. Given the standard of food-cartridge rations
+in most barracks, and the low pay soldiers received, this effort was
+welcomed.
+
+When times were especially hard and there was no money to invest in
+stock, the Hudson family would land on Earth-like planets and hunt for
+game, which they would dress and sell themselves. Hudson has emphasised
+that this was perfectly legal -- no matter how hungry they were, they
+never resorted to poaching. The president remains a keen hunter, and
+enjoys taking diplomatic guests on hunting trips, cooking them dinner
+himself. Hudson reportedly takes particular pride in his steaks.
+
+Hudson's entrance into politics was marked by a growing sense that the
+Federal government and its heavy taxes were making it harder for traders
+to earn a living, while rewarding those who did not want to work. When
+bureaucratic red tape prevented the family from docking for twenty-four
+hours, resulting in the loss of an entire cargo of perishable goods,
+Hudson decided to do something about it.
+
+Hudson has never served in the military, but he is generally regarded as
+'one of us' by the Federation naval command. His old friend, Lucas
+Vincent, is now Admiral of the Fleet, and the two enjoyed a close
+professional relationship. Hudson has given the military considerable
+support, investing in improved training facilities, cutting taxes for
+shipyards and cultivating public respect for the armed forces.
+

@@ -2,4 +2,52 @@
 :ID:       3e9f43fb-038f-46a6-be53-3c9af1bad474
 :END:
 #+title: Supratech
+#+filetags: :Corporation:
+
+* Supratech
+
+#+begin_quote
+
+  "Innovation in everything."
+
+  --- Source
+#+end_quote
+
+Despite its comparative youth, Supratech is one of the galaxy's
+preeminent technology companies, its rapid ascent having earned it both
+the admiration and envy of its competitors. Much of this success has
+been attributed to CEO Scorpio DeVorrow, who spent the company's first
+year poaching engineers from competitors, pouring billions into
+development and plastering advertisements across independent space.
+
+Upon release of the Revo---a sleek wearable computing
+device---Supratech's sales saw a significant spike, cementing it as a
+serious contender on the tech scene. The company soon faced challenges,
+however, including stiff competition from rival company Herculean
+Machines and the loss of its main manufacturing facility.
+
+Although DeVorrow insisted the facility's destruction would not
+compromise production, dozens of prototypes of the company's next
+product were lost. This device, the Torc, was envisaged by DeVorrow as
+the product that would launch Supratech into the ranks of the truly
+elite corporations.
+
+Ultimately production targets were met, but the Torc debuted to lukewarm
+reviews at the 3304 Rackham Ultratech Expo. While sympathetic to the
+events surrounding the Torc's release, critics cited technical errors
+exacerbated by 'rushed development' as the reason for the device's
+subpar performance.
+
+The Torc's mediocre sales pushed Supratech into the red, as industry
+analysts started forecasting bankruptcy. Critics cited the corporation's
+fall from grace as a cautionary tale against the hubris of 'next big
+thing' tech, while fans of the brand held their breath as they waited
+for DeVorrow's next move.
+
+Relief came in 3305, when billionaire Lexi October injected enough
+capital to revive the ailing company. Famous for reversing the fate of
+failing start-ups, October had already rescued several corporations that
+had gone on to enjoy significant success. Her interest in Supratech
+heartened fellow investors, allowing the corporation not only to remain
+in business, but to diversify into other areas of tech.
 

@@ -3,7 +3,7 @@
 :END:
 #+title: Sirius Corporation
 #+filetags: :Corporation:
-[[id:3e91a7d8-2f6a-4065-b134-0e9760d34d92][Corporations]]
+
 * Business
   Specializes in the development of and production of fusion reactors.
 * Products
@@ -11,3 +11,71 @@
   - [[id:e676d795-4fcb-463b-9cff-8fb9dc7fbce8][Hydrogen Fuel]]
   - [[id:f9515545-c736-42cc-88ec-f3f269afd1b8][Hyperdrive]]
   - [[id:46a9c980-af48-4e43-a820-9971d7c76c34][Frame Shift Drive]]
+
+* The Sirius Corporation
+
+#+begin_quote
+
+  "Powering the Galaxy."
+
+  --- Source
+#+end_quote
+
+Of all the mega-corporations to dominate civilised space, none compare
+to the wealth and influence of the Sirius Corporation.
+
+The rise of the Sirius Corporation began in 2339, when the organisation
+launched a corporate colonisation mission -- the first of its kind -- to
+the Sirius system. From there, the corporation went on to become the
+lead supplier of fuel and technologies to both the Empire and the
+Federation, catapulting it to powerhouse status. The corporation's
+promise not to favour either side in the event of conflict helped to
+cement its position.
+
+As the corporation grew, fuel supply and drive manufacture remained its
+core business, although judicious expansion into other markets supported
+its expansion.
+
+But the corporation's ascendance has not been without complication. In
+3251 it introduced a technologically revolutionary passenger liner
+called the Antares, which it hoped would usher in a new age in
+interplanetary travel. Unfortunately, however, the ship disappeared
+during its maiden voyage. It was speculated that a failure in the ship's
+internal containment systems had destroyed the vessel, but it was not
+until 3302 that wreckage from the ship was recovered and this hypothesis
+proved correct.
+
+The 'Antares Incident' cast a long shadow, stalling the Sirius
+Corporation's plans to develop further superfast liners. But 3278 saw a
+reversal of fortune with the introduction of a new, faster drive system.
+The success of this new system more than made up for the losses that
+followed the Antares Incident, propelling the organisation to new
+heights.
+
+Today, the corporation has multiple divisions, many of them giant
+conglomerates themselves, but its primary focus remains the manufacture
+of fusion reactors, hyperdrives and hyperdrive fuels. This division
+still operates under the banner of the Sirius Corporation, although
+technically it is conducted by Sirius Hyperdrives, with the parent
+corporation acting as a holding company.
+
+The company's mining, industrial and power divisions are probably its
+largest. Sirius Mining works closely with Sirius Industrial to produce
+specialist equipment for both planetary and asteroid mining, in addition
+to industrial smelters and refineries, atmospheric-processing units and
+waste-processing reactors. Sirius Power produces generators ranging from
+10-kilowatt devices to 100-gigawatt plants for industrial facilities and
+atmospheric processors.
+
+The Sirius Corporation maintains a large private fleet with which to
+defend its interests. The majority of its ships are supplied by
+Gutamaya, although a proportion are manufactured under licence in
+Sirius's own shipyards.
+
+The corporation controls dozens of star systems, and has even created a
+governmental subdivision, Sirius Gov, dedicated to managing these
+systems. Indeed, it has been observed that the people of these systems
+enjoy better quality of life and greater personal security -- courtesy
+of Sirius's private fleet -- than many independent systems.
+
+    

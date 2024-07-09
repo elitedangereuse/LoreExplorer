@@ -2,5 +2,58 @@
 :ID:       c2623368-19b0-4995-9e35-b8f54f741a53
 :END:
 #+title: Alba Tesreau
-#+filetags: :Individual:
-[[id:aba99a43-f484-41a8-b249-8443f2da119d][Iraxon Lane]]
+#+filetags: :Empire:KnowledgeBase:Individual:
+* Alba Tesreau
+
+#+begin_quote
+
+  "I may not be religious, but I still have faith. Not the kind my
+  parents have. In fact, I don't think their desperate devotion can even
+  be called faith. The point of faith is that it's tested, and if you
+  insist that your beliefs are above criticism or analysis, like the
+  star-cults do, you're refusing to allow your faith to be tested at
+  all."
+
+  "What do I have faith in? The fundamental sanity of the universe, I
+  suppose. I don't believe in absolute evil, only in the iniquity that
+  emerges when understanding fails. I believe intelligent life will
+  naturally tend towards cooperation rather than conflict, not because
+  there's a higher power guiding our decisions, but because that's
+  simply the most logical course. And yes, our recent experiences with
+  the Thargoids have tested that faith. Harshly."
+
+  --- Alba Tesreau
+#+end_quote
+
+Professor Alba Tesreau is an Imperial scientist, an affiliate of the
+Achenar Research Council and a founding member of the joint-superpower
+initiative Aegis, which was established in August 3303 to investigate
+the Thargoid menace. She currently serves as Aegis's head of research.
+
+Tesreau's biological parents were members of the Bes-Meratu cult, an
+isolationist group secreted within a sealed compound, that believed
+itself to have been chosen for salvation by nonhuman beings. The cult's
+charismatic leader, Anton Hotep, claimed humanity had been under the
+protection of these beings for millennia, that he was their cosmic
+messiah, and those only the believers would be saved from the coming
+apocalypse. In support of these claims he produced 'alien artefacts',
+allegedly sourced from archaeological digs, that other cult members were
+never permitted to examine closely.
+
+Alba was marked as a troublemaker from an early age due to her heretical
+belief in rationality and the scientific method. She was formally
+banished from Bes-Meratu after she sabotaged the air-purifying system,
+forcing the compound to call for help from outsiders and thus
+humiliating Hotep.
+
+After her story became public knowledge, she was adopted into the
+household of Senator Olivier Tesreau of Achenar and awarded a
+scholarship to study at Grand Imperial alongside the children of the
+nobility. She wrote her Masters thesis on the potential uses of
+mathematics as a lingua franca between human beings and intelligent
+nonhumans.
+
+She is passionately interested in nonhuman intelligence and meaningful
+discourse between species. Despite the counterfeit 'alien contact' myths
+of her early life, or perhaps because of them, she is determined to do
+whatever she can to act as a bridge between human and nonhuman cultures.

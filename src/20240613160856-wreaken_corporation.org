@@ -2,4 +2,44 @@
 :ID:       4889d46d-ac30-4695-9f3d-f4cb6f925c4a
 :END:
 #+title: Wreaken Corporation
+#+filetags: :Corporation:
+
+* Wreaken
+
+#+begin_quote
+
+  "An industry built to last."
+
+  --- Source
+#+end_quote
+
+Wreaken Construction and Mining is one of the oldest interstellar
+corporations. It was founded over a thousand years ago, but still bears
+the name of its founder, Tobias Wreaken, who was a coal miner on Earth
+in the days prior to full automation. Raised on stories of horrific
+mining disasters, Wreaken ran his extraction business with safety and
+prudence as top priorities. The corporate motto at the time ran: 'Losses
+can be recouped and equipment can be repaired. Lives are irreplaceable.'
+
+Generations later, this attitude of diligence over profiteering still
+ran strong in the company. It made Wreaken a compelling choice when
+corporations were looking to exploit the new opportunities presented by
+early deep-space exploration. Extracting resources from asteroids,
+airless moons and hazardous planets was an even more dangerous prospect
+than coal mining, and Wreaken's expertise did much to calm corporate
+nerves. Consequently, the company had a presence on almost all the early
+Federally chartered colony missions.
+
+Today, Wreaken specialises in the extraction of tantalum, a vital
+component in frame shift drives. The company is firmly established in
+Alliance, Federation and independent territories, while its direct rival
+Mastopolos Mining dominates in Imperial space. Tensions between the two
+corporations have been high since Wreaken accused Mastopolos of covertly
+seeding key planets with tiny, promising tantalum deposits, in the
+expectation that Wreaken's thoroughgoing approach would prompt a full
+survey, thus tying up valuable resources. Mastopolos has not offered an
+official response to the assertions, though at a formal dinner in 3303
+Elena Mastopolos made a pointed reference to the etymological link
+between tantalus and 'tantalise', adding that it was not illegal to
+leave gifts on a neighbour's doorstep.
 

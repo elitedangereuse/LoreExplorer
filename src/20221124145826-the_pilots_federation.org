@@ -3,5 +3,51 @@
 :ROAM_ALIASES: PF
 :END:
 #+title: Pilots' Federation
-#+filetags: :Codex:
+#+filetags: :KnowledgeBase:Codex:
 Delivers the [[id:b2b2d9ee-9c33-4a0b-b3ce-82cfa362577e][Permit]] for the [[id:c6b67ab9-66c5-4636-a978-2ca3a9ab012c][Shinrarta Dezhra]] system.
+
+* The Pilots' Federation
+The Pilots' Federation is an independent organisation that monitors and
+represents independent pilots. Established in 2805 following a surge in
+private-starship ownership, it was created principally to allow pilots
+to share reliable trade-route information, and to provide them with a
+degree of mutual protection against the rising scourge of interstellar
+piracy. At the time, independent pilots were generally mistrusted, due
+largely to the itinerant nature of their profession. The organisation's
+strict code of conduct put an end to this, and over time a galaxy-wide
+respect for its members emerged.
+
+As piracy became more prevalent, the Pilots' Federation started issuing
+bounties on known pirate vessels -- an initiative endorsed by the
+law-enforcement agencies of the time, which were struggling with a
+dramatic increase in criminal activity. Shortly thereafter, the Pilots'
+Federation introduced an official ranking system to reflect the number
+of combat victories achieved by each of its members. Pilots who
+accumulated the largest number of kills were awarded the title of Elite
+-- a citation that became highly coveted among independent pilots. Over
+time the organisation's ranking system has expanded to cover multiple
+professions, becoming the universal litmus for determining pilot skill.
+
+Given the Pilots' Federation's origins as an aggregator of navigational
+data, it stands to reason that it would become a significant presence in
+the field of information technology. As the organisation grew, it began
+developing hardware and software designed to provide pilots with
+up-to-date bouty, market, and starship data. Today, Pilots' Federation
+systems are fitted as standard on virtually all independent starships,
+representing the organisation's main source of income.
+
+The Pilots' Federation occupies a unique position. Independent and
+avowedly apolitical, it has over the centuries acquired a reputation for
+ethical conduct and robust self-regulation. The ultimate expression of
+the respect and autonomy afforded the organisation in the fact that its
+members are commonly referred to as 'Commander', an honorific title
+recognised by all major governments.
+
+The Pilots' Federation is based in the Shinrarta Dezhra system, which
+can be accessed only by invitation. Receiving an invitation is typically
+dependent on achieving the rank of Elite -- a stipulation that has
+contributed to perceptions of the organisation as secretive. Despite
+this secrecy, the organisation's influence is undeniable, its members
+have made significant contributions to interstellar exploration, the
+galactic economy and the Thargoid resistance effort.
+

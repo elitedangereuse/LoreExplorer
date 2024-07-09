@@ -2,4 +2,43 @@
 :ID:       4dfc1d85-8d12-4503-a4ed-84da898a03ba
 :END:
 #+title: Mastopolos Mining
-[[id:ef9a5433-c2f0-4b2e-8223-dcc9fc30db87][Mastopolos Family]]
+#+filetags: :Empire:Corporation:
+
+* Mastopolos Mining
+
+#+begin_quote
+
+  "Three hundreds years of reliability."
+
+  --- Source
+#+end_quote
+
+In 2951, an Imperial Senator named Giya Mastopolos helped an Imperial
+group wrest control of a key set of mining rights from a Federally
+backed partnership. Mastopolos later took direct control of the mining
+operations, and under his and his daughter Niya's guidance, the company
+rapidly expanded. The [[id:ef9a5433-c2f0-4b2e-8223-dcc9fc30db87][Mastopolos family]] was already held in great esteem
+for its patronage of the arts and loyalty to the Empire, and many
+Imperials were more than happy to do business with them. Accordingly, it
+was within the Empire that Mastopolos gained the most ground, though the
+company also established operations in several independent systems.
+
+Much like the Empire itself, Mastopolos has been under the control of a
+single dynasty for centuries. Rather than adopt conventional marketing
+strategy, it has opted to focus its corporate spotlight on the
+individuals in charge, thus capitalising on the Imperial cultural regard
+for people of taste and status. The Mastopolos family are trained from
+birth to play the part of charismatic aristocrats to the full, acting as
+ambassadors not only for the company but for the Empire. In particular,
+they seek to demonstrate the viability and humanity of the Imperial way
+of life as a direct ideological challenge to the Federation.
+
+The company's current head, Gabriella Mastopolos, has gone out of her
+way to ensure that any slaves working for the company are exceptionally
+well treated. She also earned plaudits for a prisoner-reform programme
+that offered Imperial prisoners at Jennings Hollow the chance to become
+corporate slaves, and to earn a generous performance-related bonus. But
+despite the popularity of this gambit, Federal and Alliance citizens
+were quick to point out that a slave is still a slave, regardless of the
+generosity of the owner.
+

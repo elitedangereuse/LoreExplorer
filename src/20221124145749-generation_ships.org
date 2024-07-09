@@ -2,4 +2,54 @@
 :ID:       951f3d20-c3aa-41cc-ba58-cc7d3a5a1d07
 :END:
 #+title: Generation Ships
-#+filetags: :Codex:ship:
+#+filetags: :KnowledgeBase:Codex:ship:
+
+* Generation Ships
+Before the development of faster-than-light travel, colonising distant
+star systems was a profoundly difficult proposition. For the people of
+the 21st Century, the answer was the generation ship. These vast
+interstellar arks, equipped with everything needed to sustain human
+life, were crewed by multiple successive generations -- pioneers who
+were born, lived and died aboard a starship.
+
+The first generation ship was launched in 2097, and in the centuries
+that followed, many more set off into the vastness of space. Most of
+these ambitious expeditions were funded by large corporations, and then
+penalties for interfering with them were severe, given the enormous cost
+of mobilising them.
+
+In total, thousands of generation ships were launched in the early years
+of interstellar colonisation. Unfortunately, many of the corporations
+that funded these colonisation initiatives have since been dissolved,
+and their records lost or destroyed, making it hard to determine the
+vessels' number or exact locations. The majority arrived at their
+destination without incident; in an ironic twist, later developments in
+hyperdrive technology meant that a generation ship's destination was
+sometimes colonised prior to its arrival.
+
+A small number of previously unknown generation ships are being
+discovered each year, although in all but one case the ship's crew met
+with an unfortunante fate. Logs recovered from these vessels detailed
+the loss of all hands, with causes ranging from mechanical failure,
+accidents, and outbreaks of disease to internecine conflict among the
+crew, often drawn out over a long period of time. Each of these
+incidents left the ship drifting through space, far beyond its intended
+destinations.
+
+The first exception was the Golconda, discovered in the Upaniklis system
+with a functional colony on board, giving hope that not all generation
+ships still in transit will be lost causes.
+
+The discovery of these 'lost' vessels gave rise to the creation, in
+3305, of the Generation Ship Commission, a Federal body dedicated to the
+recognition of generation ship colonists and, if needed, their
+reintegration to modern society. Its mission was eloquently summarised
+by its director, Cosima Fairfax, at the time of its foundation:
+
+"The generation ship colonists were launched into a mysterious future. A
+future they could not predict, and for which they were inadequately
+prepared. Modern generations may not know of their ancestral ties these
+people who sacrificed so much, and so we must remind them. Other souls
+surely drift through the void still, and it is our duty to bring them
+home."
+
