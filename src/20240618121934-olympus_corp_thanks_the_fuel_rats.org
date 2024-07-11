@@ -8,10 +8,22 @@
 
 /09 Oct 3301/
 
-Commander F-Zlim was on the home stretch of a six-month galactic tour when a CO2 leak knocked him out. When he woke to the blare of alarms, his ship, the 'Korblah', was out of fuel. Using long-range comms, F-Zlim notified fellow Commanders at the exploration arm of the Olympus Corp. that he had exactly two minutes and 48 seconds of air remaining. Using the last of the ship's backup battery, he transmitted his final location via the captain's log module, and then he called the Fuel Rats. 
+Commander [[id:a3e776db-e627-4712-85e2-12667901f336][F-Zlim]] was on the home stretch of a six-month galactic tour
+when a CO2 leak knocked him out. When he woke to the blare of alarms,
+his ship, the '[[id:0332501d-5b43-4396-b11e-41cda8906b9c][Korblah]]', was out of fuel. Using long-range comms,
+F-Zlim notified fellow Commanders at the exploration arm of the
+[[id:4d701921-5368-403e-a759-a50bb2e1180a][Olympus Corp]]. that he had exactly two minutes and 48 seconds of air
+remaining. Using the last of the ship's backup battery, he transmitted
+his final location via the captain's log module, and then he called
+the [[id:de6c1eee-a957-4d48-a840-f3fe15b5801b][Fuel Rats]].
 
-"I had 50 seconds of oxygen left when the first refuel drone arrived," said Commander F-Zlim. "It was the most exhilarating and frightening experience in the six months of my journey. The Fuel Rats saved me and I am eternally grateful." 
+"I had 50 seconds of oxygen left when the first refuel drone arrived,"
+said Commander F-Zlim. "It was the most exhilarating and frightening
+experience in the six months of my journey. The [[id:de6c1eee-a957-4d48-a840-f3fe15b5801b][Fuel Rats]] saved me and
+I am eternally grateful."
 
-In recognition of for their valiant service, the Olympus Corporation has chosen to award the first-ever Korblah Medal to Commanders Orphius and Lokda Babybel of the Fuel Rats. 
+In recognition of for their valiant service, the Olympus Corporation
+has chosen to award the first-ever Korblah Medal to Commanders [[id:2fc485fa-5002-46ce-a7df-c07608976f6e][Orphius]]
+and [[id:c48ed3fe-4a54-465b-9df5-f041fbbc9ccd][Lokda Babybel]] of the [[id:de6c1eee-a957-4d48-a840-f3fe15b5801b][Fuel Rats]].
 
-Commander Soundwave
+Commander [[id:89908c3a-1dc9-4945-a377-8f6ac5ae60ef][Soundwave]]

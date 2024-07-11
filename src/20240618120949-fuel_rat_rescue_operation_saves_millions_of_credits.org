@@ -10,10 +10,20 @@
 
 Fuel Rat Rescue Operation Saves Millions of Credits 
  
-"I was on my way back from deep space last week when I made a horrible mistake,” stated Commander Fionn Mac Cumhaill. “Running low on fuel, I found a nearby Red Dwarf and expected to fill my tanks but when I exited Frameshift I found myself staring down a T-Tauri with nothing but fumes in my tank. I’d failed to reset my target. That’s when I called the Fuel Rats." 
+"I was on my way back from deep space last week when I made a horrible
+mistake,” stated Commander [[id:02f9033c-977f-4f5a-8bdd-ab1eada448fb][Fionn Mac Cumhaill]]. “Running low on fuel, I
+found a nearby Red Dwarf and expected to fill my tanks but when I
+exited Frameshift I found myself staring down a T-Tauri with nothing
+but fumes in my tank. I’d failed to reset my target. That’s when I
+called the [[id:de6c1eee-a957-4d48-a840-f3fe15b5801b][Fuel Rats]]."
 
-Commanders Beornfrið, Kerenn and Anuranium responded, locating the drifting Asp Explorer in the PRAEA EUQ SY-S B3-3 system just as its oxygen level dropped to 41 seconds of sustainable life support. 
+Commanders [[id:28a1bc30-e22d-463c-bf3a-a96790afe0b3][Beornfrið]], [[id:48e5a219-0ea1-4b04-afe8-bbb829e9cbb2][Kerenn]] and [[id:8c6e19e1-9523-4321-a333-41cacd7a47ee][Anuranium]] responded, locating the
+drifting [[id:3d31c3df-d02f-409a-a8b7-4faf403fa68c][Asp Explorer]] in the [[id:5f6c684b-b764-4163-97f3-dd18d0c0b4ee][PRAEA EUQ SY-S B3-3]] system just as its
+oxygen level dropped to 41 seconds of sustainable life support.
 
-"They saved my Asp and 12 million credits of exploration data" said Mac Cumhaill. "I owe them my Pilots Federation promotion to 'Pioneer'." 
+"They saved my Asp and 12 million credits of exploration data" said
+Mac Cumhaill. "I owe them my Pilots Federation promotion to
+'Pioneer'."
 
-The Fuel Rat’s dispatch service is in operation around the clock. When you’re out of fuel don’t hesitate. Make the call.
+The Fuel Rat’s dispatch service is in operation around the clock. When
+you’re out of fuel don’t hesitate. Make the call.

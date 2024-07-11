@@ -29,8 +29,8 @@ Naturally, moving a starport such a considerable distance requires a
 significant amount of fuel, which is why Jaques has turned to
 celebrated search-and-rescue organisation the [[id:de6c1eee-a957-4d48-a840-f3fe15b5801b][Fuel Rats]] for help. The
 Fuel Rats, in turn, have issued an appeal to their many members and
-supporters to contribute fuel to Jaques's operation. The Fuel Rats
-Mischief, which is coordinating the operation, has promised to
+supporters to contribute fuel to Jaques's operation. The [[id:78dc1804-9537-4e52-bba1-ca98efd86229][Fuel Rats
+Mischief]], which is coordinating the operation, has promised to
 generously reward those who support the operation.
 
 The campaign begins on the 5th of May 3302 and will run for one

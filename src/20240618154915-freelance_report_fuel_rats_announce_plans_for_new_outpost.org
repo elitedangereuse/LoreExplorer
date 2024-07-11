@@ -8,12 +8,23 @@
 
 /05 Aug 3302/
 
-Earlier today, the Fuel Rats Mischief announced plans for an extraction outpost near Jaques Station. 
+Earlier today, the [[id:78dc1804-9537-4e52-bba1-ca98efd86229][Fuel Rats Mischief]] announced plans for an
+extraction outpost near [[id:935880a2-d4fb-4d27-ad48-0f95112ee0fe][Jaques Station]].
 
-"We've been considering such a base for quite a while now. Originally the idea was to set up near Sagittarius A* since it's one of the regions most visited by explorers. The biggest challenge was always supplying the station with commodities like food and spare parts. Being near Jaques Station will solve this problem since it's equipped with a habitation ring, and because it's a destination for a steady stream of supply ships." 
+"We've been considering such a base for quite a while now. Originally
+the idea was to set up near [[id:84d9b01d-a9d6-47d9-b9f9-f6154233e585][Sagittarius A*]] since it's one of the
+regions most visited by explorers. The biggest challenge was always
+supplying the station with commodities like food and spare
+parts. Being near Jaques Station will solve this problem since it's
+equipped with a habitation ring, and because it's a destination for a
+steady stream of supply ships."
 
-Asked if the fact that Jaques Station is already serving as a base would render such an operation pointless, the Fuel Rats spokesperson answered: 
+Asked if the fact that Jaques Station is already serving as a base
+would render such an operation pointless, the [[id:de6c1eee-a957-4d48-a840-f3fe15b5801b][Fuel Rats]] spokesperson
+answered:
 
-"We fully expect Jaques to continue his journey at some point, and since his station simply can't produce enough fuel to make that possible, sooner or later an outpost will be necessary." 
+"We fully expect Jaques to continue his journey at some point, and
+since his station simply can't produce enough fuel to make that
+possible, sooner or later an outpost will be necessary."
 
-Commander Rebecca Hail
+Commander [[id:21a438c6-7eff-4dd1-8f8a-12294f71cb40][Rebecca Hail]]
