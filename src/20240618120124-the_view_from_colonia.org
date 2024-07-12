@@ -8,16 +8,42 @@
 
 /29 Oct 3307/
 
-Vox Galactica’s culture correspondent Lishan Abara looks at the Colonia region, the largest enclave of humanity outside the core systems: 
+[[id:4ab0f53c-0b85-43a3-83ca-b9e88c0db30e][Vox Galactica]]’s culture correspondent [[id:27c93dec-0e9a-4f67-8a8b-c8ac0b1b2852][Lishan Abara]] looks at the
+[[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] region, the largest enclave of humanity outside the core
+systems:
 
-“Colonia. A place that few ever see, which exists following a computer malfunction. The famed Jaques Station suffered a mis-jump on its scheduled journey to Beagle Point, relocating some 22,000 light years from Sol. The subsequent rescue effort led to the establishment of the first permanent base in what is now considered a new frontier for humanity.” 
+“Colonia. A place that few ever see, which exists following a computer
+malfunction. The famed [[id:935880a2-d4fb-4d27-ad48-0f95112ee0fe][Jaques Station]] suffered a mis-jump on its
+scheduled journey to [[id:80ea667a-62b4-4082-bed0-ce253d76869b][Beagle Point]], relocating some 22,000 light years
+from [[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]]. The subsequent rescue effort led to the establishment of the
+first permanent base in what is now considered a new frontier for
+[[id:4dfd1a40-8f9b-4f66-9c90-971e253a3fe1][humanity]].”
 
-“Over the last five years, courageous explorers have struck out to inhabit several dozen local systems. This, in turn, invited a steady stream of colonists seeking a fresh start. Nearly 13 million souls now count this remote area as their home.” 
+“Over the last five years, courageous explorers have struck out to
+inhabit several dozen local systems. This, in turn, invited a steady
+stream of colonists seeking a fresh start. Nearly 13 million souls now
+count this remote area as their home.”
 
-“This is a place beyond the influence of the superpowers and mega-corporations, and most residents prefer it that way. The [[id:6b6559fd-c7fa-44c9-b540-b94ddcadbd50][Colonia Council]] works hard to maintain order, helping local organisations function along cooperative lines. There have been a handful of regional conflicts, but generally you’re less likely to witness trouble out here.” 
+“This is a place beyond the influence of the superpowers and
+mega-corporations, and most residents prefer it that way. The [[id:6b6559fd-c7fa-44c9-b540-b94ddcadbd50][Colonia
+Council]] works hard to maintain order, helping local organisations
+function along cooperative lines. There have been a handful of
+regional conflicts, but generally you’re less likely to witness
+trouble out here.”
 
-“Having become self-sufficient early on, Colonia’s healthy economy encourages both traders and tourists to make the long journey. The scientific community maintains a notable presence, a notable example is the Holloway Bioscience Institute, which studies the many vacuum-dwelling life forms found in the Colonia Nebula.” 
+“Having become self-sufficient early on, Colonia’s healthy economy
+encourages both traders and tourists to make the long journey. The
+scientific community maintains a notable presence, a notable example
+is the [[id:3d9b071c-c232-431f-8f63-5c3a594b9909][Holloway Bioscience Institute]], which studies the many
+vacuum-dwelling life forms found in the [[id:1d45a325-abf9-44b6-90d9-d91beebbdec1][Colonia Nebula]].”
 
-“Independent and faction-aligned pilots are catered to, with shipyards and even a fleet carrier construction dock found in the area. Local engineers such as [[id:e80652fd-7aa0-4b18-90ac-aebb3d1c2259][Baltanos]], [[id:44343fed-44fd-43ef-979a-27929ac198b9][Eleanor Bresa]], [[id:e543dd6e-96f5-4d65-a45f-32a5586ad511][Rosa Dayette]] and [[id:64af95e7-00c7-41ee-8205-100c0a7e0467][Yi Shen]] also offer suit and personal equipment modifications to those who make a living working on low-atmosphere worlds.” 
+“Independent and faction-aligned pilots are catered to, with [[id:35c576c0-0613-4e59-8291-96cbf61cc3ac][shipyards]]
+and even a [[id:28dcc8eb-311b-416d-af66-5b9922625d6d][fleet carrier]] construction dock found in the area. Local
+engineers such as [[id:e80652fd-7aa0-4b18-90ac-aebb3d1c2259][Baltanos]], [[id:44343fed-44fd-43ef-979a-27929ac198b9][Eleanor Bresa]], [[id:e543dd6e-96f5-4d65-a45f-32a5586ad511][Rosa Dayette]] and [[id:64af95e7-00c7-41ee-8205-100c0a7e0467][Yi Shen]]
+also offer suit and personal equipment modifications to those who make
+a living working on low-atmosphere worlds.”
 
-“With the Colonia Bridge project well underway, it will soon be easier than ever to cross the interstellar gulf and reach this distant haven. Businesses, settlers and visitors alike may find themselves increasingly drawn to the Colonia experience.”
+“With the [[id:97a8c7e5-9399-4ebe-9457-8029ce809303][Colonia Bridge]] project well underway, it will soon be easier
+than ever to cross the interstellar gulf and reach this distant
+haven. Businesses, settlers and visitors alike may find themselves
+increasingly drawn to the Colonia experience.”

@@ -2,7 +2,7 @@
 :ID:       cbd9ce09-7ac0-42e8-ae12-93710a8d7aa2
 :END:
 #+title: Long-Lost Research Facility Discovered
-#+filetags: :galnet:
+#+filetags: :3255:Settlement:Abandoned:galnet:
 
 * Long-Lost Research Facility Discovered
 
@@ -10,16 +10,29 @@
 
 *Pilots Federation ALERT* 
 
-A distress call has led independent pilots to locate an abandoned settlement in the Snake Sector GW-W c1-1 system. 
+A [[id:384ade5a-7cbb-4f1a-85b6-aa38423886e7][distress call]] has led independent pilots to locate an abandoned
+settlement in the [[id:18745d14-8eec-4b80-9db7-61579ec9b7c6][Snake Sector GW-W c1-1]] system.
 
-The SOS was initially detected by one of the megaships that form the Colonia Bridge, inspiring many ships to search nearby systems. The source was eventually identified as Holloway Bioscience Research Facility 15 on the moon Snake Sector GW-W c1-1 AB 5 b. 
+The SOS was initially detected by one of the [[id:33517223-1f8d-4588-be65-6c10edc9118f][megaships]] that form the
+[[id:97a8c7e5-9399-4ebe-9457-8029ce809303][Colonia Bridge]], inspiring many ships to search nearby systems. The
+source was eventually identified as [[id:e26a3d05-c6e7-4a75-9c27-969e7a12ca9e][Holloway Bioscience Research
+Facility 15]] on the moon [[id:2a5694de-38f2-4e4b-bc1d-8c41665f56a6][Snake Sector GW-W c1-1 AB 5 b]].
 
-Pilots unearthed a series of mission logs recorded in the year 3255 by a freelance military unit named Excalibur Troop. As yet, the contents of these logs have not been made available to newsfeeds. 
+Pilots unearthed a series of mission logs recorded in the year 3255 by
+a freelance military unit named [[id:e3f79fcf-101e-4401-afd0-4ee65103992b][Excalibur Troop]]. As yet, the contents
+of these logs have not been made available to newsfeeds.
 
-Aanya Gupta, CEO of the Holloway Bioscience Institute, gave a statement to the press: 
+[[id:e2aa0fa0-b034-4cd4-a3fd-4cbb7a2ce273][Aanya Gupta]], CEO of the [[id:3d9b071c-c232-431f-8f63-5c3a594b9909][Holloway Bioscience Institute]], gave a statement to the press: 
 
-“Research Facility 15 was one of the first wave of planetary survey laboratories established by our founder, the esteemed scientist Lord Roland Holloway. Our records of these settlements are patchy, so we are grateful that this has been located.” 
+“Research Facility 15 was one of the first wave of planetary survey
+laboratories established by our founder, the esteemed scientist Lord
+[[id:64d7b889-1bdf-4169-8228-9cd594088000][Roland Holloway]]. Our records of these settlements are patchy, so we
+are grateful that this has been located.”
 
-“Unfortunately, we can find no data regarding Excalibur Troop or the circumstances under which they were contracted. Our investigative teams are on-site to gather further information.” 
+“Unfortunately, we can find no data regarding Excalibur Troop or the
+circumstances under which they were contracted. Our investigative
+teams are on-site to gather further information.”
 
-The Holloway Bioscience Institute refused to comment on rumours that a previously unidentified life form had been encountered by the research facility’s original crew.
+The [[id:3d9b071c-c232-431f-8f63-5c3a594b9909][Holloway Bioscience Institute]] refused to comment on rumours that a
+previously [[id:ac0a4a8f-51ee-4be6-90cf-d61127453832][unidentified]] [[id:01ddb7a3-3a00-4fa6-b3b0-7dcdf01be1b2][life form]] had been encountered by the research
+facility’s original crew.

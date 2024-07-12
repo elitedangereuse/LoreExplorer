@@ -2,24 +2,45 @@
 :ID:       6510b1cf-c9bd-4f01-92a1-a6eadb992304
 :END:
 #+title: Azimuth Plans Corporate Convention
-#+filetags: :Thargoid:galnet:
+#+filetags: :3309:Thargoid:galnet:
 
 * Azimuth Plans Corporate Convention
 
 /10 Jul 3309/
 
-Azimuth Biotech has announced an invitation-only event for prospective business partners and military liaisons. 
+[[id:e68a5318-bd72-4c92-9f70-dcdbd59505d1][Azimuth Biotech]] has announced an invitation-only event for prospective business partners and military liaisons. 
 
-CEO Torben Rademaker provided a statement to the media: 
+CEO [[id:78d58f4a-e080-4548-a2f0-9506b7b73674][Torben Rademaker]] provided a statement to the media: 
 
-“New opportunities have emerged for Azimuth to resume the lead in anti-xeno operations. With Thargoid fleets rampaging through the core systems, and Aegis’s questionable policy of providing utility modules over increased firepower, humanity’s defence once again falls to us. But our organisation will no longer work in solitude.” 
+“New opportunities have emerged for Azimuth to resume the lead in
+anti-xeno operations. With Thargoid fleets rampaging through the core
+systems, and Aegis’s questionable policy of providing utility modules
+over increased firepower, humanity’s defence once again falls to
+us. But our organisation will no longer work in solitude.”
 
-“I have extended the hand of partnership to selected financiers, military figures, research groups and manufacturing companies. They are invited to convene and discuss methods of helping us to resist the evil of the Thargoids.” 
+“I have extended the hand of partnership to selected financiers,
+military figures, research groups and manufacturing companies. They
+are invited to convene and discuss methods of helping us to resist the
+evil of the Thargoids.”
 
-Business analyst Marlon Royce published this report via Vox Galactica: 
+Business analyst [[id:d4e49144-20cb-468e-b3ce-f594c2b5bf13][Marlon Royce]] published this report via [[id:4ab0f53c-0b85-43a3-83ca-b9e88c0db30e][Vox Galactica]]: 
 
-“Ostensibly, this appears to be a public relations exercise for [[id:e68a5318-bd72-4c92-9f70-dcdbd59505d1][Azimuth Biotech]]. However, the company’s relative lack of support from independent pilots in a recent Thargoid tissue sample initiative has accelerated the company’s search for allies. Rumours among the tech community hint that the convention precedes the announcement of a weapon schematic redesign to whet the appetite of investors.” 
+“Ostensibly, this appears to be a public relations exercise for
+[[id:e68a5318-bd72-4c92-9f70-dcdbd59505d1][Azimuth Biotech]]. However, the company’s relative lack of support from
+independent pilots in a recent Thargoid tissue sample initiative has
+accelerated the company’s search for allies. Rumours among the tech
+community hint that the convention precedes the announcement of a
+weapon schematic redesign to whet the appetite of investors.”
 
-“Azimuth is using private couriers to transport guests to and from the convention, entirely at its own expense. This generous professional courtesy also guarantees anonymity for attendees, making it difficult to determine who is on Rademaker’s guest list. Given nerves over Operation Wych Hunt disruption, this seems a wise choice.” 
+“Azimuth is using private couriers to transport guests to and from the
+convention, entirely at its own expense. This generous professional
+courtesy also guarantees anonymity for attendees, making it difficult
+to determine who is on Rademaker’s guest list. Given nerves over
+Operation Wych Hunt disruption, this seems a wise choice.”
 
-“We do know that [[id:46e9f326-2119-4d5b-a625-a32820a44642][Herculean Machines]] and Space Lanes Cargo are sending representatives. Aanya Gupta, CEO of Holloway Bioscience Institute, also agreed to meet with the rival xeno-researcher. But the rest are avoiding being publicly associated with [[id:e68a5318-bd72-4c92-9f70-dcdbd59505d1][Azimuth Biotech]], which faced enormous criticism for its role in the Battle of HIP 22460 and the Thargoids’ subsequent retaliation.”
+“We do know that [[id:46e9f326-2119-4d5b-a625-a32820a44642][Herculean Machines]] and [[id:dc43c6e8-41ca-4962-ac24-6a0adfbe3518][Space Lanes Cargo]] are sending
+representatives. [[id:e2aa0fa0-b034-4cd4-a3fd-4cbb7a2ce273][Aanya Gupta]], CEO of [[id:3d9b071c-c232-431f-8f63-5c3a594b9909][Holloway Bioscience Institute]],
+also agreed to meet with the rival [[id:4e827915-3759-4040-97d0-346eac70fb5e][xeno-researcher]]. But the rest are
+avoiding being publicly associated with [[id:e68a5318-bd72-4c92-9f70-dcdbd59505d1][Azimuth Biotech]], which faced
+enormous criticism for its role in the Battle of [[id:55088d83-4221-44fa-a9d5-6ebb0866c722][HIP 22460]] and the
+Thargoids’ subsequent retaliation.”

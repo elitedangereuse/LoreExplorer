@@ -2,7 +2,7 @@
 :ID:       2780bc96-8e3e-4633-a504-b38804fc19fe
 :END:
 #+title: Ancient Alien Battleground Discovered
-#+filetags: :Thargoid:galnet:
+#+filetags: :3307:Guardian:3309:Thargoid:galnet:
 
 * Ancient Alien Battleground Discovered
 
@@ -10,16 +10,41 @@
 
 *Pilots’ Federation ALERT* 
 
-Wreckage from a past conflict between the Guardian and Thargoid races has been found in the Wregoe BU-Y b2-0 system. 
+[[id:94be63aa-90f6-44d5-a2ba-aaa464456861][Wreckage]] from a past conflict between the Guardian and Thargoid races
+has been found in the [[id:800924c4-1b40-46e2-a929-3da627d6caef][Wregoe BU-Y b2-0]] system.
 
-The crashed remains of Thargoid vessels, alongside structures of Guardian origin, are located on Wregoe BU-Y b2-0 1 c. Conflict between the two species occurred millions of years ago, but physical evidence of this is extremely rare. The only comparable site, in the Trapezium Sector YU-X c1-2 system, was initially found two centuries ago by the [[id:e68a5318-bd72-4c92-9f70-dcdbd59505d1][Azimuth Biochemicals]] ship Proteus and rediscovered in 3307. 
+The [[id:8ef4a591-2482-4824-9d67-b0a5126ff066][crashed]] remains of Thargoid vessels, alongside structures of
+Guardian origin, are located on [[id:0b904675-a3c9-4aa7-ad4f-5d1886a6e792][Wregoe BU-Y b2-0 1 c]]. Conflict between
+the two species occurred millions of years ago, but physical evidence
+of this is extremely rare. The only comparable site, in the [[id:a94f42ec-d0a2-441b-884d-5d86b949cbb9][Trapezium
+Sector YU-X c1-2]] system, was initially found two centuries ago by the
+[[id:e68a5318-bd72-4c92-9f70-dcdbd59505d1][Azimuth Biochemicals]] ship [[id:bf8d2b98-a079-4384-a8a5-43ffdc926b7c][Proteus]] and rediscovered in 3307.
 
-Wregoe BU-Y b2-0 was one of several systems under investigation following a report by Commander Renia Rakowski, who encountered a Thargoid interceptor in nearby Wregoe GA-X B3-0. 
+Wregoe BU-Y b2-0 was one of several systems under investigation
+following a report by Commander [[id:46f6ef7a-45dc-47ac-959f-f5643c3ed57e][Renia Rakowski]], who encountered a
+[[id:d9e97ba9-f907-4520-9f9f-daec8c269557][Thargoid interceptor]] in nearby [[id:7bbbeb4b-d026-4f16-9137-282a42b993d0][Wregoe GA-X B3-0]].
 
-The Holloway Bioscience Institute has sent teams into the area to explore the possibility of xenoarchaeological research. Dr Jeong-Hui Shin gave a statement to The Sovereign newsfeed: 
+The [[id:3d9b071c-c232-431f-8f63-5c3a594b9909][Holloway Bioscience Institute]] has sent teams into the area to
+explore the possibility of [[id:4e827915-3759-4040-97d0-346eac70fb5e][xenoarchaeological research]]. Dr [[id:9dfc056b-14da-469e-ac5f-80519edcaf58][Jeong-Hui
+Shin]] gave a statement to [[id:82f6fe30-acb7-4e40-a7d5-3f1338d4f520][The Sovereign]] newsfeed:
 
-“It is fascinating that none of the Thargoid vessels operating in this region are immediately aggressive. One of our theories is that they are still following million-year-old orders to attack the Guardians. Therefore, from their perspective, humans are an unknown species and not identified as an enemy. Alternatively, they may be pursuing non-combat functions such as meta-alloy harvesting, as with the Thargoids that can still be found in some nebulas.” 
+“It is fascinating that none of the Thargoid vessels operating in this
+region are immediately aggressive. One of our theories is that they
+are still following million-year-old orders to attack the
+Guardians. Therefore, from their perspective, humans are an unknown
+species and not identified as an enemy. Alternatively, they may be
+pursuing non-combat functions such as meta-alloy harvesting, as with
+the Thargoids that can still be found in some nebulas.”
 
-Prominent xeno-peace advocates including Timothy Culver, Bernadette Wells and Dev Venkatesh  have called for further study of the area. They claim that this is “an opportunity for non-hostile interactions with the Thargoids,” who may have developed “an autonomous subculture that is more amenable to coexistence with humanity, providing certain boundaries are respected.” 
+Prominent xeno-peace advocates including Timothy Culver, Bernadette
+Wells and Dev Venkatesh have called for further study of the
+area. They claim that this is “an opportunity for non-hostile
+interactions with the Thargoids,” who may have developed “an
+autonomous subculture that is more amenable to coexistence with
+humanity, providing certain boundaries are respected.”
 
-Other pro-peace groups have demanded that naval forces should not be sent into the region, as the Thargoids may view this as a provocation. At present, Aegis is focused entirely on gathering information and is not aware of any anti-xeno deployments against Wregoe BU-Y b2-0.
+Other pro-peace groups have demanded that naval forces should not be
+sent into the region, as the Thargoids may view this as a
+provocation. At present, Aegis is focused entirely on gathering
+information and is not aware of any anti-xeno deployments against
+Wregoe BU-Y b2-0.

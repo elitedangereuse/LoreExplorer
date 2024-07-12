@@ -2,18 +2,18 @@
 :ID:       03e53a88-3dbf-47b4-95d1-5157f006ccf9
 :END:
 #+title: Xeno-Research Campaign Ends
-#+filetags: :galnet:
+#+filetags: :3305:galnet:
 
 * Xeno-Research Campaign Ends
 
 /14 Feb 3305/
 
-A campaign from the Holloway Bioscience Institute to build a xenological research centre has concluded successfully.  
+A campaign from the [[id:3d9b071c-c232-431f-8f63-5c3a594b9909][Holloway Bioscience Institute]] to build a [[id:4e827915-3759-4040-97d0-346eac70fb5e][xenological research]] centre has concluded successfully.  
 
-Chief researcher Dr Roy Casimir told the media: 
+Chief researcher Dr [[id:d5ca99a6-ded7-43fb-bc1e-83a622b49c50][Roy Casimir]] told the media: 
 
-“Thanks to Nahuaru Crimson Bridge Int we now have sufficient materials to build a planetary outpost where our scientists can study lifeforms identified by the galactic community.” 
+“Thanks to [[id:f38f6f14-2b32-4ace-b352-41a5bac00d32][Nahuaru Crimson Bridge Int]] we now have sufficient materials to build a planetary outpost where our scientists can study [[id:01ddb7a3-3a00-4fa6-b3b0-7dcdf01be1b2][lifeforms]] identified by the galactic community.” 
 
 “We are also grateful for the exploration data provided by many pilots, which will help us create a new research catalogue.” 
 
-Pilots who took part in the campaign can now collect their rewards from Williams Vision in the Nahuaru system.
+Pilots who took part in the campaign can now collect their rewards from [[id:e7277813-d4d3-496c-8fe5-e5f540ff5ef3][Williams Vision]] in the [[id:3efd571e-0167-4167-bf6c-67b4650259ce][Nahuaru]] system.

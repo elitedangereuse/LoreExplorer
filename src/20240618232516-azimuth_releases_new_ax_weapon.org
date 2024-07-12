@@ -2,7 +2,7 @@
 :ID:       1c265073-533d-4098-9e46-650da98288b0
 :END:
 #+title: Azimuth Releases New AX Weapon
-#+filetags: :Thargoid:galnet:
+#+filetags: :3309:Thargoid:galnet:
 
 * Azimuth Releases New AX Weapon
 
@@ -10,16 +10,38 @@
 
 *Pilots’ Federation ALERT* 
 
-Rare goods delivered to Xi Wangda helped ensure that [[id:e68a5318-bd72-4c92-9f70-dcdbd59505d1][Azimuth Biotech]]’s arms convention was a success. 
+Rare goods delivered to [[id:2855114b-1ec3-49e6-b6d1-c4db36f5fced][Xi Wangda]] helped ensure that [[id:e68a5318-bd72-4c92-9f70-dcdbd59505d1][Azimuth Biotech]]’s arms convention was a success. 
 
-CEO Torben Rademaker confirmed the initiative’s completion: 
+CEO [[id:78d58f4a-e080-4548-a2f0-9506b7b73674][Torben Rademaker]] confirmed the initiative’s completion: 
 
-“From today, the Overcharged Gimballed AX Multi-Cannon with Auto Loader is available at all rescue megaships, as well as [[id:e68a5318-bd72-4c92-9f70-dcdbd59505d1][Azimuth Biotech]]’s core markets.  I am confident that this will prove useful those brave pilots who enter combat with Thargoid ships. Once again, my company has proved that its ingenuity and experience in developing anti-xeno weaponry cannot be surpassed.” 
+“From today, the Overcharged Gimballed [[id:6023377d-7271-49d1-80ec-ffab82dc8c29][AX Multi-Cannon]] with Auto
+Loader is available at all [[id:05d244ee-abea-4dab-a6fe-e565f3f91534][rescue megaships]], as well as [[id:e68a5318-bd72-4c92-9f70-dcdbd59505d1][Azimuth
+Biotech]]’s core markets. I am confident that this will prove useful
+those brave pilots who enter combat with Thargoid ships. Once again,
+my company has proved that its ingenuity and experience in developing
+anti-xeno weaponry cannot be surpassed.”
 
-“I would like to offer my heartfelt thanks to all of the corporate, financial and military representatives who attended the convention. Many fascinating proposals were discussed, most of which must remain commercially confidential for now. Suffice to say, the future for [[id:e68a5318-bd72-4c92-9f70-dcdbd59505d1][Azimuth Biotech]] and our partners looks bright.” 
+“I would like to offer my heartfelt thanks to all of the corporate,
+financial and military representatives who attended the
+convention. Many fascinating proposals were discussed, most of which
+must remain commercially confidential for now. Suffice to say, the
+future for [[id:e68a5318-bd72-4c92-9f70-dcdbd59505d1][Azimuth Biotech]] and our partners looks bright.”
 
-“Finally, the event was helped enormously by the supplies of Albino Quechua Mammoth Meat, Gilya Signature Weapons and Harma Silver Sea Rum, as well as those who eliminated criminal elements in the Xi Wangda system. I have authorised reimbursement for delivered goods from Musashi and bounty vouchers from Cartier City.” 
+“Finally, the event was helped enormously by the supplies of [[id:88121611-4521-4e11-a4ad-bff243268e7f][Albino
+Quechua Mammoth Meat]], [[id:ca9c023b-f855-44e3-904b-83a5feab6c67][Gilya Signature Weapons]] and [[id:601af329-a452-4318-bab8-6658d8d6311b][Harma Silver Sea
+Rum]], as well as those who eliminated criminal elements in the Xi
+Wangda system. I have authorised reimbursement for delivered goods
+from [[id:2730e920-30ee-435e-943b-d4124f257751][Musashi]] and [[id:5402969f-345d-420c-9025-3a0a89929d11][bounty vouchers]] from [[id:74d9dcc9-ef43-4e8c-9ff7-f9b8dd01f583][Cartier City]].”
 
-Newsfeeds, business analysts and ICE channels have discussed the clandestine nature of [[id:e68a5318-bd72-4c92-9f70-dcdbd59505d1][Azimuth Biotech]]’s convention. Some wondered if the corporation would be able to function without external financing. Others suggested that cooperation with mainstream companies may rehabilitate Azimuth in the eyes of the superpowers. 
+Newsfeeds, business analysts and ICE channels have discussed the
+clandestine nature of [[id:e68a5318-bd72-4c92-9f70-dcdbd59505d1][Azimuth Biotech]]’s convention. Some wondered if
+the corporation would be able to function without external
+financing. Others suggested that cooperation with mainstream companies
+may rehabilitate Azimuth in the eyes of the superpowers.
 
-The attendance of senior staff from the Holloway Bioscience Institute has also raised eyebrows within the scientific community. An editorial in The Empirical remarked: “Holloway’s expertise in studying vacuum-dwelling life forms is almost unparalleled. If Azimuth were to forge closer ties with the institute, the resulting xenological research capabilities might even surpass those of Aegis.”
+The attendance of senior staff from the [[id:3d9b071c-c232-431f-8f63-5c3a594b9909][Holloway Bioscience Institute]]
+has also raised eyebrows within the scientific community. An editorial
+in [[id:95fb84c2-7c7d-4b92-a279-fd256528b263][The Empirical]] remarked: “Holloway’s expertise in studying
+vacuum-dwelling life forms is almost unparalleled. If Azimuth were to
+forge closer ties with the institute, the resulting xenological
+research capabilities might even surpass those of Aegis.”

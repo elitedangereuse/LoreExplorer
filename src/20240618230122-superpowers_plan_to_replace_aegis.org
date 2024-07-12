@@ -2,20 +2,37 @@
 :ID:       cda382bb-500b-4ae1-8210-cc68aa5e49ad
 :END:
 #+title: Superpowers Plan to Replace Aegis
-#+filetags: :Thargoid:Alliance:galnet:
+#+filetags: :Thargoid:3304:Federation:Empire:3308:Alliance:galnet:
 
 * Superpowers Plan to Replace Aegis
 
 /18 Jan 3308/
 
-The Alliance, Empire and Federation have accepted the Baumann Report’s recommendation to permanently shut down Aegis. 
+The Alliance, Empire and Federation have accepted the [[id:f87fc526-4e0d-4019-aa88-15d40da45ac9][Baumann Report]]’s
+recommendation to permanently shut down [[id:85d9e888-3f5b-40ed-b8af-2eb87e42b0d0][Aegis]].
 
-The independent inquiry’s findings on the organisation’s failings will result in Aegis being immediately shut down. However, Chief Administrator Carter Armstrong has cautioned that “full demobilisation of staff, ships and resources might take several months”. 
+The independent inquiry’s findings on the organisation’s failings will
+result in Aegis being immediately shut down. However, Chief
+Administrator [[id:fa943255-7f7c-4ac5-b8ac-86c78b156512][Carter Armstrong]] has cautioned that “full demobilisation
+of staff, ships and resources might take several months”.
 
-Senator [[id:75daea85-5e9f-4f6f-a102-1a5edea0283c][Denton Patreus]] has successfully obtained senatorial approval for an increased military budget, to allow the Imperial Navy to directly take on the role played by Aegis. 
+Senator [[id:75daea85-5e9f-4f6f-a102-1a5edea0283c][Denton Patreus]] has successfully obtained senatorial approval
+for an increased military budget, to allow the [[id:e9becd28-9644-42aa-afc8-7bba3ce10076][Imperial Navy]] to
+directly take on the role played by Aegis.
 
-Fleet Admiral Tayo Maikori likewise confirmed that the Federal Congress has ordered the creation of a new naval strike force. On his own authority he has also commissioned an investigation into [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]], following Ram Tah’s testimony regarding the nature of the anti-xeno superweapon. 
+Fleet Admiral [[id:b185e009-c014-443d-b73b-63b625ebfec6][Tayo Maikori]] likewise confirmed that the [[id:614fd344-ec09-483c-a28e-0289590946c4][Federal
+Congress]] has ordered the creation of a new naval strike force. On his
+own authority he has also commissioned an investigation into
+[[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]], following [[id:4551539e-a6b2-4c45-8923-40fb603202b7][Ram Tah]]’s testimony regarding the nature of the
+[[id:56ad8af3-baa1-4d0a-acd8-750400d280f4][anti-xeno]] [[id:6023377d-7271-49d1-80ec-ffab82dc8c29][superweapon]].
 
-Admiral Nikolas Glass, who was recently appointed to the Council of Admirals, stated that the Alliance Defence Force and Sirius Navy will work in conjunction to fulfil Aegis’s purpose. 
+Admiral [[id:2e8a3cd7-5f4e-47dc-ba7f-eb732bf8c7fa][Nikolas Glass]], who was recently appointed to the [[id:b0b347ac-10b8-4190-8787-1557f7d4a6da][Council of
+Admirals]], stated that the [[id:17d9294e-7759-4cf4-9a67-5f12b5704f51][Alliance Defence Force]] and [[id:3dd2f3c7-3ddf-4900-aa28-580344edd509][Sirius Navy]] will
+work in conjunction to fulfil Aegis’s purpose.
 
-Xenological research laboratories set up by Professor [[id:c2623368-19b0-4995-9e35-b8f54f741a53][Alba Tesreau]] will now transfer their work to specialist departments in the Holloway Bioscience Institute, Imperial Science Academy and Olympus Village University. In 3304 the Thargoids made targeted strikes against Aegis’s labs, but all three institutions have made assurances that the new locations will have the highest security.
+[[id:4e827915-3759-4040-97d0-346eac70fb5e][Xenological research]] laboratories set up by Professor [[id:c2623368-19b0-4995-9e35-b8f54f741a53][Alba Tesreau]]
+will now transfer their work to specialist departments in the [[id:3d9b071c-c232-431f-8f63-5c3a594b9909][Holloway
+Bioscience Institute]], [[id:1719bc8f-26fd-43f4-958d-fbbf98ef8648][Imperial Science Academy]] and [[id:f0ff8ab8-beec-480c-9b04-41279c11a1ee][Olympus Village
+University]]. In 3304 the Thargoids made targeted strikes against
+Aegis’s labs, but all three institutions have made assurances that the
+new locations will have the highest security.

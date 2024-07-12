@@ -2,22 +2,39 @@
 :ID:       9ad99238-e845-489d-bde9-24814263c940
 :END:
 #+title: Experts Speculate on Thargoid Behaviour
-#+filetags: :Thargoid:galnet:
+#+filetags: :Guardian:Thargoid:galnet:
 
 * Experts Speculate on Thargoid Behaviour
 
 /05 Sep 3308/
 
-The Thargoids’ resistance to the Proteus Wave in HIP 22460 has prompted discussion among academics in the field of xenology. 
+The Thargoids’ resistance to the [[id:38143d4a-d8a5-4978-a62c-8b64a0c75969][Proteus Wave]] in [[id:55088d83-4221-44fa-a9d5-6ebb0866c722][HIP 22460]] has
+prompted discussion among academics in the field of [[id:4e827915-3759-4040-97d0-346eac70fb5e][xenology]].
 
-Professor Shamus Madigan of Olympus Village University published a paper in the scientific journal The Empirical, which included this extract: 
+Professor [[id:3af8bb5f-63d0-4a98-b172-dcbcb70b5a4f][Shamus Madigan]] of [[id:f0ff8ab8-beec-480c-9b04-41279c11a1ee][Olympus Village University]] published a
+paper in the scientific journal [[id:95fb84c2-7c7d-4b92-a279-fd256528b263][The Empirical]], which included this
+extract:
 
-“The Thargoids newly observed defence against a man-made superweapon, and their subsequent aggression, suggests a direct response to our tactics. Not only have they upgraded their technology, but also their behaviour has altered. Humanity is now a problem that must be dealt with.” 
+“The Thargoids newly observed defence against a man-made [[id:6023377d-7271-49d1-80ec-ffab82dc8c29][superweapon]],
+and their subsequent aggression, suggests a direct response to our
+tactics. Not only have they upgraded their technology, but also their
+behaviour has altered. [[id:4dfd1a40-8f9b-4f66-9c90-971e253a3fe1][Humanity]] is now a problem that must be dealt
+with.”
 
-The Imperial Science Academy’s director of xenological studies, Ivano Colombera, responded to a press query with: 
+The [[id:1719bc8f-26fd-43f4-958d-fbbf98ef8648][Imperial Science Academy]]’s director of [[id:4e827915-3759-4040-97d0-346eac70fb5e][xenological studies]], [[id:878b6075-e168-4d0a-bb0f-9e6103c7f033][Ivano
+Colombera]], responded to a press query with:
 
-“My hypothesis is that the Thargoids’ ability to disrupt Guardian technology was first conceived millions of years ago during the Guardian/Thargoid conflict, and only now have they sought to redeploy it against our hybrid modules. Nevertheless, my division has been ordered to focus on developing practical countermeasures.” 
+“My hypothesis is that the Thargoids’ ability to disrupt Guardian
+technology was first conceived millions of years ago during the
+Guardian/Thargoid conflict, and only now have they sought to redeploy
+it against our hybrid modules. Nevertheless, my division has been
+ordered to focus on developing practical countermeasures.”
 
-Dr Jeong-Hui Shin, a senior member of the Holloway Bioscience Institute, outlined her viewpoint via the [[id:d06803e0-267c-4ffc-88f2-967058fce82e][Rewired]] network: 
+Dr [[id:9dfc056b-14da-469e-ac5f-80519edcaf58][Jeong-Hui Shin]], a senior member of the [[id:3d9b071c-c232-431f-8f63-5c3a594b9909][Holloway Bioscience
+Institute]], outlined her viewpoint via the [[id:d06803e0-267c-4ffc-88f2-967058fce82e][Rewired]] network:
 
-“We should not assume that the Thargoids have consciously adapted to us, or even register us as an intelligent life-form. We may be no more than parasites to them. Perhaps their vessels are responding like biomechanical ‘antibodies’, automatically fighting against a particularly virulent strain of human infection in HIP 22460.”
+“We should not assume that the Thargoids have consciously adapted to
+us, or even register us as an intelligent [[id:01ddb7a3-3a00-4fa6-b3b0-7dcdf01be1b2][life-form]]. We may be no more
+than parasites to them. Perhaps their vessels are responding like
+biomechanical ‘antibodies’, automatically fighting against a
+particularly virulent strain of [[id:4dfd1a40-8f9b-4f66-9c90-971e253a3fe1][human]] infection in [[id:55088d83-4221-44fa-a9d5-6ebb0866c722][HIP 22460]].”

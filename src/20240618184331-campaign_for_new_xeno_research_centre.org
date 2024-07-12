@@ -2,18 +2,28 @@
 :ID:       682b5b7a-e1fe-4b6f-b45f-ea1e3e91bb22
 :END:
 #+title: Campaign for New Xeno-Research Centre
-#+filetags: :galnet:
+#+filetags: :3305:galnet:
 
 * Campaign for New Xeno-Research Centre
 
 /07 Feb 3305/
 
-Dr Roy Casimir of the Holloway Bioscience Institute has announced plans to construct a research centre focusing on new life forms discovered by the galactic community: 
+Dr [[id:d5ca99a6-ded7-43fb-bc1e-83a622b49c50][Roy Casimir]] of the [[id:3d9b071c-c232-431f-8f63-5c3a594b9909][Holloway Bioscience Institute]] has announced
+plans to construct a research centre focusing on new life forms
+discovered by the galactic community:
 
-“The development of the Codex has led to a number of xenological discoveries. Our aim is to construct a dedicated scientific facility to analyse these incredible lifeforms.” 
+“The development of the [[id:1f629124-e470-420f-ae19-d55c66bb97c5][Codex]] has led to a number of [[id:4e827915-3759-4040-97d0-346eac70fb5e][xenological]]
+discoveries. Our aim is to construct a dedicated scientific facility
+to analyse these incredible [[id:01ddb7a3-3a00-4fa6-b3b0-7dcdf01be1b2][lifeforms]].”
 
-“We therefore request quantities of Cobalt, Indium and Tantalum to be delivered to Williams Vision in the Nahuaru system.” 
+“We therefore request quantities of [[id:3de49bff-8041-45b0-a713-d3646334efd9][Cobalt]], [[id:9fbdd62c-a62a-45d1-9ee5-9ab7980a4fd6][Indium]] and [[id:d10c0435-4bc8-42ac-bea6-228d2f02604c][Tantalum]] to be
+delivered to [[id:e7277813-d4d3-496c-8fe5-e5f540ff5ef3][Williams Vision]] in the [[id:3efd571e-0167-4167-bf6c-67b4650259ce][Nahuaru]] system.”
 
-“In addition, we ask pilots to provide us with exploration data, which will form the core of our xenological research catalogue. Nahuaru Crimson Bridge Int has agreed to fund the initiative and reimburse contributing pilots.” 
+“In addition, we ask pilots to provide us with exploration data, which
+will form the core of our xenological research catalogue. [[id:f38f6f14-2b32-4ace-b352-41a5bac00d32][Nahuaru
+Crimson Bridge Int]] has agreed to fund the initiative and reimburse
+contributing pilots.”
 
-The initiative begins on the 7th of February 3305 and will run for one week. If the final target is met earlier than planned, the campaign will end immediately.
+The initiative begins on the 7th of February 3305 and will run for one
+week. If the final target is met earlier than planned, the campaign
+will end immediately.
