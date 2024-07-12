@@ -3,7 +3,7 @@
 :END:
 #+title: First Interstellar Colony
 #+filetags: :2159:beacon:
-* 0167  First Interstellar Colony
+* 0167 First Interstellar Colony
 [[id:da11b7b5-2c5a-4f17-9cd4-ce28a2f34dbd][Tau Ceti]]  
 
 Tau Ceti was the first colony established outside of Sol. Tau Ceti 3

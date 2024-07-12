@@ -18,6 +18,6 @@ Admiral Tanner released a personal statement, which was published by [[id:be5df7
 
 “The Federal Navy was once my home, but my disillusionment has grown over recent years. Politics and commercial influences hold this great institution back from safeguarding the Federation to its fullest capability. Now that the Thargoid threat has reached such a colossal degree, I find such restrictions frustrating to a point that I would likely be a nuisance to my fellow admirals. I have too much respect for every person serving the navy to offer anything less than my best – that best is now prohibited by bureaucracy. Therefore I am stepping down for the benefit of all.” 
 
-“As per the presidential pardon’s terms, I will continue developing anti-xeno strategies as an independent military specialist. I will liaise directly with Fleet Admiral Tayo Maikori to contribute to the navy’s war efforts, while also collaborating with other organisations down the line. I remain dedicated to saving lives and bringing this war to an end as soon as possible.” 
+“As per the presidential pardon’s terms, I will continue developing anti-xeno strategies as an independent military specialist. I will liaise directly with Fleet Admiral [[id:b185e009-c014-443d-b73b-63b625ebfec6][Tayo Maikori]] to contribute to the navy’s war efforts, while also collaborating with other organisations down the line. I remain dedicated to saving lives and bringing this war to an end as soon as possible.” 
 
 “To any Thargoids who may be listening: you haven’t seen the last of me yet.”
