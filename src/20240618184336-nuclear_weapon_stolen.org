@@ -10,9 +10,9 @@
 
 The Federal Intelligence Agency has discovered that a nuclear weapon has been taken from an unregistered outpost. 
 
-Senior Agent Rochelle Karim made the following statement: 
+Senior Agent [[id:1900b0bf-bf32-4102-8cba-e9f2143ebedc][Rochelle Karim]] made the following statement: 
 
-“Further examination of the outpost discovered last week confirms that it was home to unlicensed nuclear research. Personnel at the site were constructing a portable fusion warhead codenamed the Lucifer Device.” 
+“Further examination of the outpost discovered last week confirms that it was home to unlicensed nuclear research. Personnel at the site were constructing a portable fusion warhead codenamed the [[id:070dd4b2-b839-41a8-8f99-e8f0b1e7db9f][Lucifer Device]].” 
 
 “One operational prototype was produced, but we have failed to locate it. Our assumption is that whoever invaded the base now possesses a movable bomb with a 300 megaton yield – enough to destroy an entire city.” 
 

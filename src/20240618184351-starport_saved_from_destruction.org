@@ -14,8 +14,8 @@ Crime correspondent for the Federal Times, Ethan Takahashi, delivered this speci
 
 “Terror struck the starport when cult leader Barnabas Cole announced the final ceremony to summon their deity, Tothos, by sacrificing millions of people.” 
 
-“As Cole prepared to activate the Lucifer Device he was shot dead by one of his followers, who subsequently revealed herself as Senior Agent Rochelle Karim. Other Federal Intelligence Agency operatives moved to arrest Cole’s acolytes and secure the control deck.” 
+“As Cole prepared to activate the [[id:070dd4b2-b839-41a8-8f99-e8f0b1e7db9f][Lucifer Device]] he was shot dead by one of his followers, who subsequently revealed herself as Senior Agent [[id:1900b0bf-bf32-4102-8cba-e9f2143ebedc][Rochelle Karim]]. Other Federal Intelligence Agency operatives moved to arrest Cole’s acolytes and secure the control deck.” 
 
 “We’ve since learned that Karim’s unit was posing as Tothos worshippers eager to join the cult. They had staged the death of a team member to receive access to the starport.” 
 
-“The Lucifer Device has now been disarmed and secured, while station services are returning to normal.”
+“The [[id:070dd4b2-b839-41a8-8f99-e8f0b1e7db9f][Lucifer Device]] has now been disarmed and secured, while station services are returning to normal.”
