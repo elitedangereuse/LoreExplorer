@@ -2,7 +2,7 @@
 :ID:       b4e9b3ff-260c-4e50-8ccf-f1a3a77f1c5e
 :END:
 #+title: A Gift From a Thief
-#+filetags: :galnet:
+#+filetags: :3307:galnet:
 
 * A Gift From a Thief
 
@@ -10,11 +10,17 @@
 
 *Pilots’ Federation ALERT* 
 
-Detective Erik Gunnarson has claimed that the Winking Cat thief has something planned for the weeks ahead. 
+Detective [[id:0367ce6a-a18b-4bca-a6d1-da93c2dd200f][Erik Gunnarson]] has claimed that the [[id:b9519a7c-f00b-4a57-9bcf-964258bdd2d8][Winking Cat]] thief has something planned for the weeks ahead. 
 
-“After our investigation into the Jokers’ Deck gambling circle, Wolfe and I were hired to track down their stolen ceremonial playing card. The good news is that we now have the card in our possession. We can hardly claim credit, however: it was posted to us by the one who stole it!” 
+“After our investigation into the [[id:d6578a29-4aa4-47d9-b3b2-22d0bc6c2234][Jokers’ Deck]] gambling circle, [[id:43e76135-cf13-47bf-9a0c-4d46dbdfa19a][Wolfe]]
+and I were hired to track down their stolen ceremonial playing
+card. The good news is that we now have the card in our possession. We
+can hardly claim credit, however: it was posted to us by the one who
+stole it!”
 
-“The ancient joker card arrived via a courier service, with no data as to its point of origin. But the playing card now has text stamped on the back, which I’m convinced is intended to be a public message.” 
+“The ancient joker card arrived via a courier service, with no data as
+to its point of origin. But the playing card now has text stamped on
+the back, which I’m convinced is intended to be a public message.”
 
 “It simply reads ‘The hunt is on!’ and is followed by two sets of numbers:  
 
@@ -24,6 +30,14 @@ Detective Erik Gunnarson has claimed that the Winking Cat thief has something pl
 
 At the bottom is a drawing of – you guessed it – a smirking, winking cat’s face.” 
 
-“It’s speculation, of course, but some of these numbers must be dates. Perhaps this ‘hunt’ is scheduled to happen over the next three weeks. Are we being invited to hunt the Winking Cat, or will something else be the prize?” 
+“It’s speculation, of course, but some of these numbers must be
+dates. Perhaps this ‘hunt’ is scheduled to happen over the next three
+weeks. Are we being invited to hunt the Winking Cat, or will something
+else be the prize?”
 
-“The feline thief has been busy of late, purloining everything from prized artwork to prototype robots. Entertainment mogul Oscar Goldsun recently reported that his private collection of rarities had been hit, and there are rumours that WorldCraft corporation’s vaults were somehow broken into. How that crime spree connects to this message is a mystery that we’ve yet to crack.”
+“The feline thief has been busy of late, purloining everything from
+prized artwork to prototype robots. Entertainment mogul [[id:f2a60298-3dc0-4eea-83e4-daa44b54da4a][Oscar Goldsun]]
+recently reported that his private collection of rarities had been
+hit, and there are rumours that [[id:ebaea4eb-8ba1-4f48-ada6-ca694704143b][WorldCraft]] corporation’s vaults were
+somehow broken into. How that crime spree connects to this message is
+a mystery that we’ve yet to crack.”

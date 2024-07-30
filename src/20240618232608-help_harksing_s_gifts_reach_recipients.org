@@ -2,7 +2,7 @@
 :ID:       e2894580-e4cb-42b2-892c-7bedc2800ad7
 :END:
 #+title: Help Harksing’s Gifts Reach Recipients
-#+filetags: :galnet:
+#+filetags: :3309:galnet:
 
 * Help Harksing’s Gifts Reach Recipients
 
@@ -10,15 +10,15 @@
 
 *Pilots’ Federation ALERT* 
 
-The eccentric inventor Harald Harksing has been causing quite a stir on Angel Station in the Calhuacan system. 
+The eccentric inventor [[id:8547c636-8cd5-485c-8437-92d043a554d1][Harald Harksing]] has been causing quite a stir on [[id:7d939e18-719b-4622-83c0-a2c39b889c15][Angel Station]] in the [[id:7f393b8c-72c7-4836-8554-136b8b0ae6a1][Calhuacan]] system. 
 
 Recent reports suggest that the independent entrepreneur is experiencing problems with a corrupted database. This has prevented him from shipping his latest batch of inventions to their intended destinations. The commotion caused by his efforts to resolve the issue has brought both amusement and exasperation to the starport’s inhabitants. 
 
-Lishan Abara, culture correspondent for Vox Galactica, published a profile piece on Harksing: 
+Lishan Abara, culture correspondent for [[id:4ab0f53c-0b85-43a3-83ca-b9e88c0db30e][Vox Galactica]], published a profile piece on Harksing: 
 
 “Little of Harald Harksing’s background has ever been confirmed. What is well known – indeed, highly publicised – is his annual sending of unusual gifts to individuals referenced in GalNet news articles. These mostly comprise of unique toys, gadgets or games that Harksing has designed and built himself, sometimes tailor-made for the recipient.” 
 
-“Those who receive Harksing’s inventions typically find them charming. The gourmet Giles Cappelleo, for example, was delighted by a chin-mounted palate-cleansing robot. Ambassador Delphine Dumont of the Federal Diplomatic Corps blushed when asked about the ‘Furry Yuri’ teddy bear that arrived at her office. And Archduke Otto Lombardo-Duval admitted that all twelve of his grandchildren adored a card game based on Imperial bloodlines called ‘Filial Pursuit’.” 
+“Those who receive Harksing’s inventions typically find them charming. The gourmet [[id:0911e6e4-7b9d-4bd4-b64c-cc3486a3955b][Giles Cappelleo]], for example, was delighted by a chin-mounted palate-cleansing robot. Ambassador Delphine Dumont of the Federal Diplomatic Corps blushed when asked about the ‘Furry Yuri’ teddy bear that arrived at her office. And Archduke Otto Lombardo-Duval admitted that all twelve of his grandchildren adored a card game based on Imperial bloodlines called ‘Filial Pursuit’.” 
 
 “Harksing himself is always overjoyed at such positive responses. He often claims to be a huge fan of each person, describing them as ‘glorious’ or ‘kings in their field’. Such boyish enthusiasm, coupled with the odd nature of his creations, has made him a local celebrity in a short time.” 
 
