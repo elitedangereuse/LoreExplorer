@@ -16,6 +16,6 @@ The Artificers Clan is a nomadic community living aboard a Dredger-class bulk cr
 
 The dredger’s arrival was initially reported by independent pilots. Commander Javi Alvarado  gave a statement to Vox Galactica: 
 
-“I regularly make trade runs to Forester’s Choice. I’ve made a few friends there, but the [[id:fce1d147-f900-41ec-a92c-3ce3d1cae641][Golconda]]ns are still very cautious with outsiders. This rush to bulk-buy their Apa Vietii for Rackham’s party has caught them by surprise!” 
+“I regularly make trade runs to Forester’s Choice. I’ve made a few friends there, but the [[id:fce1d147-f900-41ec-a92c-3ce3d1cae641][Golconda]]ns are still very cautious with outsiders. This rush to bulk-buy their [[id:b27fcb6d-4c69-4cff-9acc-10c618a11a77][Apa Vietii]] for Rackham’s party has caught them by surprise!” 
 
 “Anyway, when the Artificers first appeared, the [[id:fce1d147-f900-41ec-a92c-3ce3d1cae641][Golconda]]ns asked me to find out what they wanted. I flew out to the dredger, but most of my hails got no reply. Only once did I get a burst of some rapid, densely verbose language. From what I could make out, they seem to be interested in the Golconda itself, but they didn’t explain further.”
