@@ -14,5 +14,6 @@
   - [[id:c6674165-eb13-47d3-ad54-796aab951892][First Thargoid War]]
 * Ship
   - [[id:83299a14-b6b0-4670-ba39-2914e05ed2f5][Cobra Mk III]] at [[id:9ee9c706-4692-4578-8eaf-46ac00bea5aa][Crash Site]]
+    [[file:img/ships/jameson.jpg]]
 * Locations
   - [[id:ff595332-6a13-4f69-ae2f-cc0a0df8e741][Lave]]
