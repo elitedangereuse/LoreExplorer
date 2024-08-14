@@ -3,22 +3,55 @@
 :ROAM_REFS: https://news.galnet.fr/a-retrospective-of-3308-part-one/
 :END:
 #+title: A Retrospective of 3308 (Part One)
-#+filetags: :Thargoid:Alliance:galnet:3308:
+#+filetags: :Thargoid:3309:Federation:Empire:Alliance:galnet:3308:
 
-In the first of a three-part series of articles, the historian [[id:e13ec234-b603-4a29-870d-2b87410195ea][Sima Kalhana]] reviews the key events of the past year.
+In the first of a three-part series of articles, the historian [[id:e13ec234-b603-4a29-870d-2b87410195ea][Sima
+Kalhana]] reviews the key events of the past year.
 
-“3308 began with the announcement that the Alliance and Sirius Corporation had agreed an anti-xeno strategic defence pact. This controversial decision would face many challenges before it was ratified, including armed rebellion in the Reorte system.
+“3308 began with the announcement that the Alliance and [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius
+Corporation]] had agreed an anti-xeno strategic defence pact. This
+controversial decision would face many challenges before it was
+ratified, including armed rebellion in the [[id:5292d8c1-fa6e-4352-a03f-ef984f706203][Reorte]] system.
 
-One of the pact’s driving forces was the loss of Aegis, disbanded following the publication of the Baumann Report. Even the rediscovery of the lost megaship Alexandria could not prevent Aegis’s shutdown, despite evidence that it had been raided by agents with ties of Azimuth Bioschemicals.
+One of the pact’s driving forces was the loss of Aegis, disbanded
+following the publication of the [[id:f87fc526-4e0d-4019-aa88-15d40da45ac9][Baumann Report]]. Even the rediscovery
+of the lost megaship [[id:4d4f19a9-5100-4307-ac1b-f40ae90e806c][Alexandria]] could not prevent [[id:85d9e888-3f5b-40ed-b8af-2eb87e42b0d0][Aegis]]’s shutdown,
+despite evidence that it had been raided by agents with ties of
+[[id:e68a5318-bd72-4c92-9f70-dcdbd59505d1][Azimuth Biochemicals]].
 
-The superpowers began establishing their own anti-xeno taskforces and research projects. But their focus was on the mysterious scientist named [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]], who was developing a superweapon that promised great victories against the Thargoids.
+The superpowers began establishing their own anti-xeno taskforces and
+research projects. But their focus was on the mysterious scientist
+named [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]], who was developing a [[id:6023377d-7271-49d1-80ec-ffab82dc8c29][superweapon]] that promised great
+victories against the Thargoids.
 
-In February, the atrocities of the Neo-Marlinist Liberation Army (NMLA) were finally halted. A cabal of Imperial senators named the Lords of Restoration were exposed as its masterminds, planning to oust the Duval and grant exclusive power to the Senate.
+In February, the atrocities of the [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][Neo-Marlinist Liberation Army]]
+(NMLA) were finally halted. A cabal of Imperial senators named the
+[[id:ffa239ce-f149-4c43-9455-26a4fa753e1c][Lords of Restoration]] were exposed as its masterminds, planning to oust
+the [[id:bce02e51-c68c-4594-86fe-88dda4915a74][Duval]] and grant exclusive power to the [[id:b1182341-2de3-4e2c-8056-2bcea537233a][Senate]].
 
-This came with the shock discovery that Emperor Arissa Lavingy-Duval had been abducted by the Lords of Restoration over a year ago, replaced by a virtual doppelganger communicating via Imperial Intelligence channels. The private military firm Darkwater Inc, which had trained the terrorists, was wiped out in the Battle of Summerland. This victory was notable for ending the [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] threat and returning Arissa to the throne.
+This came with the shock discovery that Emperor [[id:34f3cfdd-0536-40a9-8732-13bf3a5e4a70][Arissa Lavigny-Duval]]
+had been [[id:c6cec7ba-fab9-4a53-ae69-9e1b6f2d9937][abducted]] by the Lords of Restoration over a year ago,
+replaced by a virtual [[id:7a5deea9-1363-4fe7-8be9-b60f9943f302][doppelganger]] communicating via [[id:45d78e5d-27b7-48cb-97b2-012934be3180][Imperial
+Intelligence]] channels. The private military firm [[id:57907627-04a8-4987-96c2-535c101e958b][Darkwater Inc]], which
+had trained the terrorists, was wiped out in the [[id:1c3c89a5-8dc4-4b46-9266-78a85d66a1a6][Battle of
+Summerland]]. This victory was notable for ending the [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] threat and
+returning Arissa to the throne.
 
-There was also drama within the Federation, as President [[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][Zachary Hudson]] proposed to remove the fixed term limit for presidents. This would allow him to stand for re-election in 3309. The Hudson Contravention brought public unrest, which only calmed when the congress decided to postpone their vote. It remains an outstanding issue, even as a presidential election year approaches.
+There was also drama within the Federation, as President [[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][Zachary
+Hudson]] proposed to remove the fixed term limit for presidents. This
+would allow him to stand for re-election in 3309. The [[id:989656c7-b16b-47f8-b114-bde1bac26f13][Hudson
+Contravention]] brought public unrest, which only calmed when the
+congress decided to postpone their vote. It remains an outstanding
+issue, even as a presidential election year approaches.
 
-March saw the completion of the Colonia Bridge, after several multi-stage initiatives. Starports and stationary megaships now formed a permanent travel corridor from the core systems to the distant Colonia region.
+March saw the completion of the [[id:97a8c7e5-9399-4ebe-9457-8029ce809303][Colonia Bridge]], after several
+multi-stage initiatives. Starports and stationary megaships now formed
+a permanent travel corridor from the core systems to the distant
+[[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] region.
 
-The Thargoids emerged again in April with the invasion of the Didio, Novas and Sosong systems. This brought an opportunity for the superpowers to work together with [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]. Interviews with [[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]] provided insights into each superpower’s approach. Within mere months, their reliance on Salvation would lead to an event that altered tje course of history.
+The Thargoids emerged again in April with the invasion of the [[id:d508fb0f-0214-4133-829f-edb61e2681d0][Didio]],
+[[id:b38c4ed0-3aaa-4a86-8acd-a241164d680f][Novas]] and [[id:2a81ce70-848a-46eb-aa0b-b5626e78e8aa][Sosong]] systems. This brought an opportunity for the
+superpowers to work together with [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]. Interviews with [[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade
+Sanderlyn]] provided insights into each superpower’s approach. Within
+mere months, their reliance on Salvation would lead to an event that
+altered the course of history.
