@@ -12,7 +12,7 @@ Here are this week’s major stories.
 
 The three candidates for the Alliance presidency have spent much of the past week delivering their campaign messages. While incumbent president Gibson Kincaid has demanded radical change to the constitution, rival candidates Fazia Silva and Elijah Beck have adopted more conservative stances, focusing on economic growth and civil liberty respectively. The new president of the Alliance will be announced in October. 
 
-The Federal Intelligence Agency has terminated its investigation into the [[id:04ae001b-eb07-4812-a42e-4bb72825609b][Far God]] cult. In a statement, the FIA confirmed that information provided by undercover reporter Gethin Okonkwo had cleared the sect of any suspicion. All worshippers who were detained have now been released. 
+The Federal Intelligence Agency has terminated its investigation into the [[id:04ae001b-eb07-4812-a42e-4bb72825609b][Far God]] cult. In a statement, the FIA confirmed that information provided by undercover reporter [[id:b9531f53-8bad-4eda-a0aa-46c72bb6ec9a][Gethin Okonkwo]] had cleared the sect of any suspicion. All worshippers who were detained have now been released. 
 
 In other news, rival companies [[id:46e9f326-2119-4d5b-a625-a32820a44642][Herculean Machines]] and [[id:3e9f43fb-038f-46a6-be53-3c9af1bad474][Supratech]] have resumed development of their new personal computers, following successful requests for public support. Both companies have now returned their attention to the [[id:9d064da0-7be3-4c7b-99ad-0edd1585d4ca][Rackham Ultratech Expo]], where they will unveil prototypes of their new designs. It is suspected that the amount of commodities each company received might be the deciding factor in their commercial success. 
 
