@@ -1,5 +1,12 @@
 :PROPERTIES:
 :ID:       de6c1eee-a957-4d48-a840-f3fe15b5801b
+:ROAM_REFS: https://fuelrats.com/
 :END:
 #+title: Fuel Rats
 
+#+begin_quote
+We Have Fuel. You Don't.
+Any Questions?
+#+end_quote
+
+[[file:img/factions/fuelrats.png]]
