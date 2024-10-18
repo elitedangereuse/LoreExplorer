@@ -14,7 +14,7 @@ Vox Galactica journalist Allan Mantle published an on-the-scene report:
 
 “The shouting caught everyone in the conference hall by surprise, interrupting a discussion about the recently leaked ‘Thargoid roar’ heard at HIP 22460. We all watched in amazement as a small figure in dishevelled clothing slipped past security and fought her way onto the stage, disarming several guards who sought to intervene. Many ran, fearing an attack, but Professor [[id:c2623368-19b0-4995-9e35-b8f54f741a53][Alba Tesreau]] stood her ground.” 
 
-“The bedraggled woman yelled hoarsely that her name was Seo Jin-ae, adding ‘You know me!’ to Tesreau herself. When the intruder yanked up her sleeve as if to show something, I deployed my drone cameras which clearly captured the symbols ‘D-2’ ink-branded onto her forearm.” 
+“The bedraggled woman yelled hoarsely that her name was [[id:6bcd90ab-54f2-4d9a-9eeb-92815cc7766e][Seo Jin-ae]], adding ‘You know me!’ to Tesreau herself. When the intruder yanked up her sleeve as if to show something, I deployed my drone cameras which clearly captured the symbols ‘D-2’ ink-branded onto her forearm.” 
 
 “She then grabbed Professor Tesreau and said ‘I don’t know where else to go. I know…’ She gestured at the screens, where audio analysis of the HIP 22460 Thargoid sound was displayed. ‘I think I know what that means. It’s too late to stop what’s coming.’” 
 
