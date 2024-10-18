@@ -2,21 +2,46 @@
 :ID:       3f01fba3-9130-428e-9883-e35175ee1656
 :END:
 #+title: Jerome Archer and Nakato Kaine Increase Supporters
-#+filetags: :galnet:
+#+filetags: :3307:3310:Federation:Alliance:galnet:
 * Jerome Archer and Nakato Kaine Increase Supporters
 
 /29 Aug 3310/
 
-Civil, commercial and political groups within the Alliance and Federation are pledging loyalty to two increasingly high-profile individuals. 
+Civil, commercial and political groups within the Alliance and
+Federation are pledging loyalty to two increasingly high-profile
+individuals.
 
-Sofia Trevino published a summary for The Federal Times: 
+[[id:e660f840-caed-45ef-985e-f75170cf9ca8][Sofia Trevino]] published a summary for [[id:be5df73c-519d-45ed-a541-9b70bc8ae97c][The Federal Times]]: 
 
-“President Zachary Hudson has long been the figurehead for a wide range of Federal communities and corporations. But as he prepares to depart the White House, many of these are transferring their allegiance to the new head of the Republican Party, Vice President Jerome Archer.” 
+“President [[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][Zachary Hudson]] has long been the figurehead for a wide
+range of Federal communities and corporations. But as he prepares to
+depart the White House, many of these are transferring their
+allegiance to the new head of the [[id:5f587ce0-8fb6-4535-aadf-e2f11154e6f6][Republican Party]], Vice President
+[[id:7bdfd887-d1db-46bc-98c4-2fb39bfcc914][Jerome Archer]].”
 
-“When Felicia Winters becomes president, Archer will take on the role of shadow president and lead the Republican opposition to the governing Liberal Party. He will effectively inherit Hudson’s political power base, which spreads across the Federation and through many independent systems. Many millions of people, including members of the Pilots’ Federation, will perform tasks and exploit local resources in order to expand Archer’s influence.” 
+“When [[id:b9fe58a3-dfb7-480c-afd6-92c3be841be7][Felicia Winters]] becomes president, [[id:7bdfd887-d1db-46bc-98c4-2fb39bfcc914][Archer]] will take on the role
+of [[id:98a18cdb-c516-4c5c-8bd6-c8c4c707e991][shadow president]] and lead the Republican opposition to the
+governing [[id:4cfca8e0-b6a6-4e86-b777-4754f914fa3e][Liberal Party]]. He will effectively inherit [[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][Hudson]]’s
+political power base, which spreads across the Federation and through
+many independent systems. Many millions of people, including members
+of the [[id:131aabdf-0ed8-4ce2-beec-94c77a8c41d2][Pilots’ Federation]], will perform tasks and exploit local
+resources in order to expand [[id:7bdfd887-d1db-46bc-98c4-2fb39bfcc914][Archer]]’s influence.”
 
-In the Alliance, a similar situation is now being recognised, as discussed by Vanya Driscoll of The Alliance Tribune: 
+In the Alliance, a similar situation is now being recognised, as
+discussed by [[id:b26ee6ca-29a4-4dca-b69f-b4957b1ae650][Vanya Driscoll]] of [[id:ad2baca1-f970-4308-8b07-78cd4a5a8fd0][The Alliance Tribune]]:
 
-“Councillor Nakato Kaine is the representative for the Tionisla system and has been a vocal presence in the Assembly for several years. She ran against Prime Minister Edmund Mahon in the 3307 elections, gaining many followers despite being ultimately unsuccessful. Kaine has also directly opposed many of Mahon’s policies, particularly the strategic defence pact with Sirius Corporation, on the grounds that the Alliance’s founding principles should not bend to megacorporate influence.” 
+“Councillor [[id:0d664f07-640e-4397-be23-6b52d2c2d4d6][Nakato Kaine]] is the representative for the [[id:0b991a8e-234a-4888-8c0a-b3c64498f217][Tionisla]] system
+and has been a vocal presence in the [[id:48ac5ad9-dd0e-4d43-a109-f4cf6d3efdea][Assembly]] for several years. She
+ran against Prime Minister [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74][Edmund Mahon]] in the 3307 elections, gaining
+many followers despite being ultimately unsuccessful. [[id:0d664f07-640e-4397-be23-6b52d2c2d4d6][Kaine]] has also
+directly opposed many of [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74][Mahon]]’s policies, particularly the strategic
+defence pact with [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]], on the grounds that the
+Alliance’s founding principles should not bend to megacorporate
+influence.”
 
-“This has led Kaine to become a rallying point for those who wish to see Allied systems governed more like the Old Worlds. She is a proponent of electoral reform that would allow the public to directly choose their leaders, rather than the Assembly voting on their behalf. Many local businesses, organisations and political bodies have been attracted by Kaine’s ambitions to transform the Alliance.”
+“This has led [[id:0d664f07-640e-4397-be23-6b52d2c2d4d6][Kaine]] to become a rallying point for those who wish to
+see Allied systems governed more like the [[id:aeb65196-44a0-477f-a564-b5019348eb01][Old Worlds]]. She is a
+proponent of electoral reform that would allow the public to directly
+choose their leaders, rather than the [[id:48ac5ad9-dd0e-4d43-a109-f4cf6d3efdea][Assembly]] voting on their
+behalf. Many local businesses, organisations and political bodies have
+been attracted by [[id:0d664f07-640e-4397-be23-6b52d2c2d4d6][Kaine]]’s ambitions to transform the Alliance.”
