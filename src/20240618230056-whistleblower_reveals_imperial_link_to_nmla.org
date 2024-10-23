@@ -2,20 +2,36 @@
 :ID:       e72cde19-08be-465d-a02f-b69134025a61
 :END:
 #+title: Whistleblower Reveals Imperial Link to NMLA
-#+filetags: :galnet:
+#+filetags: :Empire:3308:galnet:
 
 * Whistleblower Reveals Imperial Link to NMLA
 
 /04 Jan 3308/
 
-A potential connection between the NMLA’s dark-comms network and Imperial Intelligence has been made public by one of ACT’s co-leaders. 
+A potential connection between the [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]]’s [[id:b58b26bb-8465-42a9-896c-4c0e97d20444][dark-comms]] network and
+[[id:45d78e5d-27b7-48cb-97b2-012934be3180][Imperial Intelligence]] has been made public by one of [[id:a152bfb8-4b9a-4b61-a292-824ecbd263e1][ACT]]’s co-leaders.
 
-Captain Saskia Landau sent a personal statement to all major media outlets: 
+Captain [[id:ccaf380d-14e8-4a1a-9458-8c3bad87b25c][Saskia Landau]] sent a personal statement to all major media outlets: 
 
-“The majority of my career has been with the Imperial Internal Security Service, but I was seconded for a year to a classified project run by Imperial Intelligence. To coordinate their operations, they use a sophisticated communications system known as the Omega Grid. This is designed to avoid detection or interception by enemies of the Empire.” 
+“The majority of my career has been with the [[id:01980efc-1b06-4f55-bf18-fa6c7e56f1eb][Imperial Internal
+Security Service]], but I was seconded for a year to a classified
+project run by [[id:45d78e5d-27b7-48cb-97b2-012934be3180][Imperial Intelligence]]. To coordinate their operations,
+they use a sophisticated communications system known as the [[id:22dfd239-84ed-4b35-aa95-bc955ca95e8b][Omega
+Grid]]. This is designed to avoid detection or interception by enemies
+of the Empire.”
 
-“I have reviewed ACT’s research into the NMLA’s dark-comms network and can verify its similarity to Omega Grid technology. Since this is exclusively under Imperial Intelligence’s control, it suggests that an individual or group within the organisation was making it available to the NMLA.” 
+“I have reviewed [[id:a152bfb8-4b9a-4b61-a292-824ecbd263e1][ACT]]’s research into the [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]]’s [[id:b58b26bb-8465-42a9-896c-4c0e97d20444][dark-comms]] network and
+can verify its similarity to [[id:22dfd239-84ed-4b35-aa95-bc955ca95e8b][Omega Grid]] technology. Since this is
+exclusively under [[id:45d78e5d-27b7-48cb-97b2-012934be3180][Imperial Intelligence]]’s control, it suggests that an
+individual or group within the organisation was making it available to
+the [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]].”
 
-“I’m aware that revealing this information publicly may end my career or even endanger my life. Nevertheless, I have shared my findings with ACT’s leadership, and call upon the Imperial Senate to open an independent investigation into this evidence.” 
+“I’m aware that revealing this information publicly may end my career
+or even endanger my life. Nevertheless, I have shared my findings with
+[[id:a152bfb8-4b9a-4b61-a292-824ecbd263e1][ACT]]’s leadership, and call upon the [[id:6b539fa1-7ebe-44d3-874b-41a3bd400af9][Imperial Senate]] to open an
+independent investigation into this evidence.”
 
-As yet there has been no response from Imperial Intelligence or the Senate. However, several agents of the IISS have anonymously spoken to reporters from The Imperial Herald, verifying that the Omega Grid system does exist and has been in use for many years.
+As yet there has been no response from [[id:45d78e5d-27b7-48cb-97b2-012934be3180][Imperial Intelligence]] or the
+[[id:6b539fa1-7ebe-44d3-874b-41a3bd400af9][Senate]]. However, several agents of the [[id:01980efc-1b06-4f55-bf18-fa6c7e56f1eb][IISS]] have anonymously spoken to
+reporters from The [[id:626a18d7-ad16-4093-b9be-d9dc1940594b][Imperial Herald]], verifying that the [[id:22dfd239-84ed-4b35-aa95-bc955ca95e8b][Omega Grid]]
+system does exist and has been in use for many years.
