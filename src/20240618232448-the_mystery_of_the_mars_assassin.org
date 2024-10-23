@@ -16,7 +16,7 @@ Executive Agent Viola Trask of the Federal Intelligence Agency gave a statement 
 
 “Despite early indications, there is no evidence that Rayne was hired by Torval Mining Ltd to eliminate Mr Fleischer. The mission was arranged anonymously via an unregistered comms network that we are unable to access. The Imperial-issue weapon and security equipment that he used were provided to him specifically for this task. This seems to be a deliberate choice to foster the impression that the assassination was ordered by elements within the Empire.” 
 
-“It has not gone unnoticed that the evidence implicating an Imperial Intelligence agent was ‘too good to be true’. I’d like to stress that the FIA was fully aware of this possibility. It is unfortunate that Caine-Massey executives deployed their security forces in Tavgi before our investigation was complete.” 
+“It has not gone unnoticed that the evidence implicating an [[id:45d78e5d-27b7-48cb-97b2-012934be3180][Imperial Intelligence]] agent was ‘too good to be true’. I’d like to stress that the FIA was fully aware of this possibility. It is unfortunate that Caine-Massey executives deployed their security forces in Tavgi before our investigation was complete.” 
 
 Congress has accepted the report and stated that no further action will be taken. It is expected that once the FIA’s questioning is complete, Rayne will face a life sentence in a maximum-security prison. 
 

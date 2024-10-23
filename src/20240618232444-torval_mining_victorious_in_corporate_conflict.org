@@ -18,7 +18,7 @@ Senator Zemina Torval, whose family owns the company, declared:
 
 “Loyal defenders of the Empire have helped to bring hostilities to an end and can now collect their rewards from the Orchestral Falcon. This accusation from Caine-Massey is baseless – I am not in the habit of assassinating my business rivals. Our security teams have detained the interloper from Federal space who was using false ID as an Imperial mining prospector, and handed him over to the authorities.” 
 
-Shortly after, a statement was released by Colonel Saskia Landau, the head of Imperial Intelligence: 
+Shortly after, a statement was released by Colonel [[id:ccaf380d-14e8-4a1a-9458-8c3bad87b25c][Saskia Landau]], the head of [[id:45d78e5d-27b7-48cb-97b2-012934be3180][Imperial Intelligence]]: 
 
 “My colleague Captain Titus Torval brought this issue to my attention, once he was implicated in the matter. The man who allegedly shot Mr Fleischer has been transferred to our secure facilities for questioning. We anticipate that his true identity and motivations will soon be revealed.” 
 

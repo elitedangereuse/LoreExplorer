@@ -20,6 +20,6 @@ Constantia Torval, the corporation’s recently appointed CEO, gave a statement:
 
 The campaign’s background was discussed by Gwendolyn Nash, Empire correspondent for Vox Galactica: 
 
-“Senator [[id:d8e3667c-3ba1-43aa-bc90-dac719c6d5e7][Zemina Torval]] handing Torval Mining Ltd to her oldest daughter is the latest of several curious developments in recent years. She established the company by branching out from Mastopolos Mining, severing connections with more distant family members. She also transferred many investments to her other daughter Petra Torval, who is also a senator, and grandson Titus Torval, an Imperial Intelligence captain.” 
+“Senator [[id:d8e3667c-3ba1-43aa-bc90-dac719c6d5e7][Zemina Torval]] handing Torval Mining Ltd to her oldest daughter is the latest of several curious developments in recent years. She established the company by branching out from Mastopolos Mining, severing connections with more distant family members. She also transferred many investments to her other daughter Petra Torval, who is also a senator, and grandson Titus Torval, an [[id:45d78e5d-27b7-48cb-97b2-012934be3180][Imperial Intelligence]] captain.” 
 
 “Coupled with the fact that she has missed several Senate meetings recently, speculation is rife that the 132-year-old has entered the twilight of her corporate and political careers. But as even her sternest opponents would attest, it is never wise to underestimate Zemina Torval’s willpower.”

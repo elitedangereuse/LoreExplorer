@@ -2,7 +2,7 @@
 :ID:       12e2e2eb-4a46-4341-917f-408e80aafe52
 :END:
 #+title: Help Needed to Crack the NMLA’s Network
-#+filetags: :galnet:
+#+filetags: :3308:galnet:
 
 * Help Needed to Crack the NMLA’s Network
 
@@ -10,17 +10,29 @@
 
 *Pilots’ Federation ALERT* 
 
-The Affiliated Counter-Terrorism unit has launched an effort to locate and decipher the NMLA’s dark-comms network. 
+The [[id:a152bfb8-4b9a-4b61-a292-824ecbd263e1][Affiliated Counter-Terrorism]] unit has launched an effort to locate and decipher the [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]]’s dark-comms network. 
 
-The request was sent by Captain Saskia Landau, one of ACT’s co-leaders: 
+The request was sent by Captain [[id:ccaf380d-14e8-4a1a-9458-8c3bad87b25c][Saskia Landau]], one of [[id:a152bfb8-4b9a-4b61-a292-824ecbd263e1][ACT]]’s co-leaders: 
 
-“ACT is working to gain access to the Omega Grid version that was provided to the [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] by its mysterious benefactors. Most of our agents seconded from the IISS have been recalled, and some Senate leaders are blocking our progress. Therefore, we urgently need support from independent pilots, which will contribute to our wider efforts to decrypt the network.” 
+“ACT is working to gain access to the [[id:22dfd239-84ed-4b35-aa95-bc955ca95e8b][Omega Grid]] version that was
+provided to the [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] by its mysterious benefactors. Most of our agents
+seconded from the [[id:01980efc-1b06-4f55-bf18-fa6c7e56f1eb][IISS]] have been recalled, and some Senate leaders are
+blocking our progress. Therefore, we urgently need support from
+independent pilots, which will contribute to our wider efforts to
+[[id:bd7c7589-f079-4c17-86b2-654ffa6bfdc7][decrypt]] the network.”
 
-“To begin with, we have triangulated the possible location of an Omega Grid beacon somewhere within the HIP 290 system. If it can be found, this will validate our strategy and quickly lead to further discoveries.” 
+“To begin with, we have [[id:7ffb8a67-4713-4e05-9767-44f21c869bb1][triangulated]] the possible location of an [[id:22dfd239-84ed-4b35-aa95-bc955ca95e8b][Omega
+Grid]] [[id:c124b3bf-0b44-489b-8933-860b15b7d49e][beacon]] somewhere within the [[id:87be8693-00c6-477d-89cc-1ce84e1454e6][HIP 290]] system. If it can be found,
+this will validate our strategy and quickly lead to further
+discoveries.”
 
-“Messages relayed across this network are likely to be encrypted. Our analysts have put together a partial cipher key from other data. Any files recovered from the beacon may help with deducing the rest of the cipher.” 
+“Messages relayed across this network are likely to be [[id:e3a0c0aa-8459-4bb2-9135-7f97d5236df1][encrypted]]. Our
+analysts have put together a partial [[id:95406fa4-5ce6-4dc7-b8e6-a2e08c8ea171][cipher]] key from other data. Any
+files recovered from the beacon may help with deducing the rest of the
+cipher.”
 
-“If the beacon in the HIP 290 system is found, any pilot who scans it can expect further instruction on subsequent days.” 
+“If the beacon in the [[id:87be8693-00c6-477d-89cc-1ce84e1454e6][HIP 290]] system is found, any pilot who scans it
+can expect further instruction on subsequent days.”
 
 The partial cipher key is as follows: 
 

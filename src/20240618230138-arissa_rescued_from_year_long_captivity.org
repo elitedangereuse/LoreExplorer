@@ -18,6 +18,6 @@ The Imperial Herald published a special report on recent events:
 
 “Chancellor Blaine immediately ordered the Imperial Guard into battle against Darkwater soldiers. A ship fleeing from the Summerland system was intercepted, aboard which was a cryogenic pod containing the Emperor herself. She was swiftly returned to Capitol, and is currently under the care of the Imperial Palace medical team.” 
 
-“The IISS has launched a security operation based on ACT’s information. This reveals that groups within the Senate, Darkwater and Imperial Intelligence formed a long-running conspiracy to fund and empower the NMLA. Senators Alberto Gereon, Karl Nerva, Ursula Torquatus and several others have been placed under arrest.”  
+“The IISS has launched a security operation based on ACT’s information. This reveals that groups within the Senate, Darkwater and [[id:45d78e5d-27b7-48cb-97b2-012934be3180][Imperial Intelligence]] formed a long-running conspiracy to fund and empower the NMLA. Senators Alberto Gereon, Karl Nerva, Ursula Torquatus and several others have been placed under arrest.”  
 
 “ACT has stated that it will provide additional information soon.”

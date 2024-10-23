@@ -2,4 +2,4 @@
 :ID:       22dfd239-84ed-4b35-aa95-bc955ca95e8b
 :END:
 #+title: Omega Grid
-A communications system used by secret services
+An undetectable messaging system used exclusively by [[id:45d78e5d-27b7-48cb-97b2-012934be3180][Imperial Intelligence]]
