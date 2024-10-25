@@ -3,4 +3,5 @@
 :END:
 #+title: Vanya Driscoll
 #+filetags: :Alliance:Individual:
-Works at [[id:ad2baca1-f970-4308-8b07-78cd4a5a8fd0][The Alliance Tribune]]
+- Journalist
+- Works at [[id:ad2baca1-f970-4308-8b07-78cd4a5a8fd0][The Alliance Tribune]]

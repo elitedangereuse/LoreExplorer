@@ -2,8 +2,8 @@
 :ID:       e9439fe0-8637-4330-b5fd-b4f1643cf472
 :END:
 #+title: Bank of Zaonce
-#+filetags: :Corporation:
-* Bank of Zaonce
+#+filetags: :3305:KnowledgeBase:2682:Corporation:
+* [[id:e9439fe0-8637-4330-b5fd-b4f1643cf472][Bank of Zaonce]]
 
 #+begin_quote
 
@@ -12,9 +12,9 @@
   --- Source
 #+end_quote
 
-Established by the Sevitz family in 2682, the Bank of Zaonce is
+Established by the [[id:de8fd685-e467-4d7e-9b6e-4ee7b1545d97][Sevitz family]] in 2682, the [[id:e9439fe0-8637-4330-b5fd-b4f1643cf472][Bank of Zaonce]] is
 currently the largest commercial bank in human space. Headquartered on
-Industry in the Zaonce system, the bank provides key financial services
+[[id:0c7fbdc4-43b4-41b2-aed0-55a104b08e4f][Industry]] in the [[id:4c65480c-a87b-421b-a91a-f1f1f8ecb737][Zaonce]] system, the bank provides key financial services
 from individual accounts to vast corporate and government budgets.
 
 Though generally perceived as fair, the bank's market dominance makes it
@@ -23,9 +23,9 @@ transparency and the long-standing policy of neutrality on its clients.
 Bank representatives assert the organization is entirely ethical, but
 critics cite instances of dubious conduct as evidence to the contrary.
 Many governments or corporate regimes over the centuries that were later
-deemed corrupt or malign have been revealed as Bank of Zaonce members.
+deemed corrupt or malign have been revealed as [[id:e9439fe0-8637-4330-b5fd-b4f1643cf472][Bank of Zaonce]] members.
 
-In May 2905, bank vice president Silas Hall was implicated in a fraud
+In May 2905, bank vice president [[id:6b0afa69-5df6-4d2a-a5e2-d243bcafc41f][Silas Hall]] was implicated in a fraud
 ring that siphoned 115 billion credits from the inhabitants of the
 Tionisla system over a two-year period. Once the scandal became public
 knowlege, industry regulators called for Hall's arrest and a thorough
@@ -33,7 +33,7 @@ investigation of bank operations.
 
 The investigation commenced in June 2905, but despite a thorough
 examination of transaction histories, there was no trace of Sila Hall as
-a Bank of Zaonce employee. When regulators searched for information on
+a [[id:e9439fe0-8637-4330-b5fd-b4f1643cf472][Bank of Zaonce]] employee. When regulators searched for information on
 the man himself or any family, it seemed Hall's entire existence -- from
 birth certificate to biometric records -- was fictitious.
 
@@ -49,7 +49,7 @@ troublesome employees disappear. Supporters claimed the Hall incident
 was a failed smear campaign against the bank.
 
 In the centuries since, the bank has rarely made the news. When it
-does-such as during the 3305 Kincaid scandal in which funds were routed
+does-such as during the 3305 [[id:192e2b92-509c-4185-b0d5-f4bb058d57e1][Kincaid]] scandal in which funds were routed
 by a bank director to a shadow election campaign-swift action ensures
 minimal threat to the bank and its clients.
 

@@ -2,20 +2,32 @@
 :ID:       84f0c7d0-5f48-4d85-940a-d5f2244191f6
 :END:
 #+title: Admiral Yamamoto Arrested for Murder
-#+filetags: :Alliance:galnet:
+#+filetags: :3305:Alliance:galnet:
 
 * Admiral Yamamoto Arrested for Murder
 
 /01 Jun 3305/
 
-Admiral Frederick Yamamoto, head of the Alliance fleet in Zaonce, has been charged with the assassination of former presidential candidate Fazia Silva. 
+Admiral [[id:090377a7-402e-4f38-8bad-b9b56230a846][Frederick Yamamoto]], head of the Alliance fleet in [[id:4c65480c-a87b-421b-a91a-f1f1f8ecb737][Zaonce]], has
+been charged with the [[id:a8068e9d-6706-47da-a19c-2ac943ea8811][assassination]] of former presidential candidate
+[[id:e46779af-a26e-45fb-a784-21e970eeaae1][Fazia Silva]].
 
-The shocking statement was delivered by Tashmira Silva, who became CEO of Silva Holdings Inc after her sister’s death: 
+The shocking statement was delivered by [[id:e9a91ed4-acc1-4e93-9dee-b0aa03fd2ce9][Tashmira Silva]], who became CEO
+of [[id:7863fb8b-665f-4a7d-ac70-582203695efd][Silva Holdings Inc]] after her [[id:e46779af-a26e-45fb-a784-21e970eeaae1][sister]]’s death:
 
-“When the inquiry into Fazia’s murder closed, I hired the Wallglass Investigations Agency at great expense to uncover the [[id:7401153d-d710-4385-8cac-aad74d40d853][truth]]. They identified that a professional assassin with a background in the Alliance Defence Force was responsible.” 
+“When the inquiry into [[id:e46779af-a26e-45fb-a784-21e970eeaae1][Fazia]]’s murder closed, I hired the [[id:b40c2b11-1199-4276-8f40-30cfcef498fa][Wallglass
+Investigations Agency]] at great expense to uncover the [[id:7401153d-d710-4385-8cac-aad74d40d853][truth]]. They
+identified that a professional [[id:a8068e9d-6706-47da-a19c-2ac943ea8811][assassin]] with a background in the
+[[id:17d9294e-7759-4cf4-9a67-5f12b5704f51][Alliance Defence Force]] was responsible.”
 
-“Unravelling a complex trail of financial evidence and encrypted communications led directly to Admiral Yamamoto. He personally arranged to have Fazia killed during the presidential election campaign, presumably to remove her political threat to his friend Gibson Kincaid.” 
+“Unravelling a complex trail of financial evidence and [[id:e3a0c0aa-8459-4bb2-9135-7f97d5236df1][encrypted]]
+communications led directly to [[id:090377a7-402e-4f38-8bad-b9b56230a846][Admiral Yamamoto]]. He personally
+arranged to have [[id:e46779af-a26e-45fb-a784-21e970eeaae1][Fazia]] killed during the presidential election
+campaign, presumably to remove her political threat to his friend
+[[id:8520e75f-0479-42c5-9083-f9abfbad721e][Gibson Kincaid]].”
 
-Alliance Interpol recently verified the Wallglass report and has now detained Yamamoto pending trial. The Zaonce fleet has been placed under the joint command of the Council of Admirals. 
+[[id:415ecd29-3cf3-4f3c-ab29-a7debb4b56de][Alliance Interpol]] recently verified the [[id:b40c2b11-1199-4276-8f40-30cfcef498fa][Wallglass]] report and has now
+detained [[id:090377a7-402e-4f38-8bad-b9b56230a846][Yamamoto]] pending trial. The [[id:4c65480c-a87b-421b-a91a-f1f1f8ecb737][Zaonce]] fleet has been placed
+under the joint command of the [[id:b0b347ac-10b8-4190-8787-1557f7d4a6da][Council of Admirals]].
 
-There has been no comment from President Kincaid.
+There has been no comment from [[id:8520e75f-0479-42c5-9083-f9abfbad721e][President Kincaid]].

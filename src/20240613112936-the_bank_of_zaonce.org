@@ -3,7 +3,7 @@
 :END:
 #+title: The Bank of Zaonce
 #+filetags: :Federation:2718:2693:2682:beacon:
-* 0243 The Bank of Zaonce
+* 0243 The [[id:e9439fe0-8637-4330-b5fd-b4f1643cf472][Bank of Zaonce]]
 [[id:66127aeb-8fbf-4c1c-b0a7-5f4c7425a5db][Zaonce]]  
 
 Early in Zaonce's colonial history, in 2682, a former Federation
