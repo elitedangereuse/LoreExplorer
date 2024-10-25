@@ -2,7 +2,7 @@
 :ID:       45f941a5-7338-456a-b6d8-9664e22ea1f6
 :END:
 #+title: Thargoids Repulsed from Three Systems
-#+filetags: :Federation:Thargoid:galnet:
+#+filetags: :3307:Federation:Thargoid:galnet:
 
 * Thargoids Repulsed from Three Systems
 

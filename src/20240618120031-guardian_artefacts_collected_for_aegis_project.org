@@ -2,7 +2,7 @@
 :ID:       03119c55-9389-495a-acdf-617683382254
 :END:
 #+title: Guardian Artefacts Collected for Aegis Project
-#+filetags: :Federation:Thargoid:galnet:
+#+filetags: :3307:Federation:Thargoid:galnet:
 
 * Guardian Artefacts Collected for Aegis Project
 

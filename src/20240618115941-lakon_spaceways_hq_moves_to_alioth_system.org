@@ -2,7 +2,7 @@
 :ID:       7f62f7c8-85d0-4707-88d2-092e67fce597
 :END:
 #+title: Lakon Spaceways HQ Moves to Alioth System
-#+filetags: :Federation:Alliance:galnet:
+#+filetags: :3307:Federation:Alliance:galnet:
 
 * Lakon Spaceways HQ Moves to Alioth System
 

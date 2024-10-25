@@ -2,7 +2,7 @@
 :ID:       5c7e1893-497f-4dc6-b04a-a72da052a7aa
 :END:
 #+title: 5-70
-#+filetags: :galnet:
+#+filetags: :3307:galnet:
 
 * 5-70
 

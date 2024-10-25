@@ -2,7 +2,7 @@
 :ID:       4884d58c-79b4-4d67-9429-ec3ab7368f2b
 :END:
 #+title: Jupiter Rochester Sentenced to Life Imprisonment
-#+filetags: :Federation:3307:Death:galnet:
+#+filetags: :3307:Federation:Death:galnet:
 
 * [[id:c33064d1-c2a0-4ac3-89fe-57eedb7ef9c8][Jupiter Rochester]] Sentenced to Life Imprisonment
 

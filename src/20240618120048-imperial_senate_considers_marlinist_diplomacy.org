@@ -2,7 +2,7 @@
 :ID:       4fc64b9b-92cc-4b83-81ee-abd8a230cfe5
 :END:
 #+title: Imperial Senate Considers Marlinist Diplomacy
-#+filetags: :Empire:Federation:Alliance:galnet:
+#+filetags: :3307:Empire:Federation:Alliance:galnet:
 
 * Imperial Senate Considers Marlinist Diplomacy
 

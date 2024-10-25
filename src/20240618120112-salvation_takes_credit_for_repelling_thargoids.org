@@ -2,7 +2,7 @@
 :ID:       0e32192e-0f35-4f6a-bfc6-2c547e8f5238
 :END:
 #+title: Salvation Takes Credit for Repelling Thargoids
-#+filetags: :Thargoid:galnet:
+#+filetags: :3307:Thargoid:galnet:
 
 * [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]] Takes Credit for Repelling Thargoids
 

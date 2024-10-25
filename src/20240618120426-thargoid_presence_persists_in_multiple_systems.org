@@ -2,7 +2,7 @@
 :ID:       c78204ef-159c-412b-ab1c-efef75b1815b
 :END:
 #+title: Thargoid Presence Persists in Multiple Systems
-#+filetags: :Federation:Thargoid:galnet:
+#+filetags: :3307:Federation:Thargoid:galnet:
 
 * Thargoid Presence Persists in Multiple Systems
 

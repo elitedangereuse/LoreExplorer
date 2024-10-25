@@ -2,7 +2,7 @@
 :ID:       dc67fc6e-67ad-4236-aa87-7b5621521227
 :END:
 #+title: Initiative to Outfit Far God Megaships
-#+filetags: :Federation:Thargoid:galnet:
+#+filetags: :3307:Federation:Thargoid:galnet:
 
 * Initiative to Outfit [[id:04ae001b-eb07-4812-a42e-4bb72825609b][Far God]] Megaships
 

@@ -2,7 +2,7 @@
 :ID:       b4243a23-01e1-4ca1-9598-3fc4f4838785
 :END:
 #+title: LTT 198 Hosts Competing Mining Campaigns
-#+filetags: :Federation:galnet:
+#+filetags: :3307:Federation:galnet:
 
 * LTT 198 Hosts Competing Mining Campaigns
 

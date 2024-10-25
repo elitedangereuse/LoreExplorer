@@ -2,7 +2,7 @@
 :ID:       b4e9b3ff-260c-4e50-8ccf-f1a3a77f1c5e
 :END:
 #+title: A Gift From a Thief
-#+filetags: :Federation:3307:galnet:
+#+filetags: :3307:Federation:galnet:
 
 * A Gift From a Thief
 

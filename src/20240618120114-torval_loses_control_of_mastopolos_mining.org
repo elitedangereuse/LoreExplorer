@@ -2,7 +2,7 @@
 :ID:       76b6c540-4c85-4b7f-987c-663960163fd8
 :END:
 #+title: Torval Loses Control of Mastopolos Mining
-#+filetags: :Empire:galnet:
+#+filetags: :3307:Empire:galnet:
 
 * Torval Loses Control of Mastopolos Mining
 

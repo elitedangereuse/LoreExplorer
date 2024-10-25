@@ -2,7 +2,7 @@
 :ID:       908f860d-944f-4053-ac78-a83f28155225
 :END:
 #+title: Federal Forces Combat New Rebellion
-#+filetags: :Federation:galnet:
+#+filetags: :3307:Federation:galnet:
 
 * Federal Forces Combat New Rebellion
 

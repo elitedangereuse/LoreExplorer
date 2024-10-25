@@ -2,7 +2,7 @@
 :ID:       a88fcaa0-b5c3-4bd9-883c-d45fca3b2457
 :END:
 #+title: Galactic Mysteries: The Hesperus
-#+filetags: :galnet:
+#+filetags: :3307:galnet:
 
 * Galactic Mysteries: The Hesperus
 

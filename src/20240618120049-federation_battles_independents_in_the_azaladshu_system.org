@@ -2,7 +2,7 @@
 :ID:       f86d0ab6-c75f-4f14-bedd-d72eae71060c
 :END:
 #+title: Federation Battles Independents in the Azaladshu System
-#+filetags: :Federation:galnet:
+#+filetags: :3307:Federation:galnet:
 
 * Federation Battles Independents in the Azaladshu System
 

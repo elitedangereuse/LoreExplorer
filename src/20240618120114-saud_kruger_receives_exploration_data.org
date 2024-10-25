@@ -2,7 +2,7 @@
 :ID:       942d1e97-6e2a-45fd-b8d6-a7747b96cb21
 :END:
 #+title: Saud Kruger Receives Exploration Data
-#+filetags: :Federation:galnet:
+#+filetags: :3307:Federation:galnet:
 
 * Saud Kruger Receives Exploration Data
 

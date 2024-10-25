@@ -2,7 +2,7 @@
 :ID:       ca94454e-0299-42a8-a097-f328736d8999
 :END:
 #+title: Colonia Bridge Project Extended to 3308
-#+filetags: :Federation:galnet:
+#+filetags: :3307:Federation:galnet:
 
 * Colonia Bridge Project Extended to 3308
 

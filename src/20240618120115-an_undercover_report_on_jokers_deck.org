@@ -2,7 +2,7 @@
 :ID:       b7a41212-dbd6-42b2-ba45-f6668fa69c80
 :END:
 #+title: An Undercover Report on Jokers’ Deck
-#+filetags: :Alliance:galnet:
+#+filetags: :3307:Alliance:galnet:
 
 * An Undercover Report on Jokers’ Deck
 

@@ -2,7 +2,7 @@
 :ID:       72ac97c2-a40f-4550-965c-0fe47bf3186a
 :END:
 #+title: Galactic Mysteries: The Adamastor
-#+filetags: :Alliance:Thargoid:galnet:
+#+filetags: :3307:Alliance:Thargoid:galnet:
 
 * Galactic Mysteries: The Adamastor
 

@@ -2,7 +2,7 @@
 :ID:       f48eca43-2877-4b48-8030-e888e46eeee5
 :END:
 #+title: Marlinist Civil War Declared
-#+filetags: :Federation:Empire:Alliance:galnet:
+#+filetags: :3307:Federation:Empire:Alliance:galnet:
 
 * Marlinist Civil War Declared
 

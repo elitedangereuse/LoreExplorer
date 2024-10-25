@@ -2,7 +2,7 @@
 :ID:       37c8d358-e656-456d-8094-2c740fc7ce35
 :END:
 #+title: Far God Megaship Initiative Concludes
-#+filetags: :Federation:Thargoid:galnet:
+#+filetags: :3307:Federation:Thargoid:galnet:
 
 * [[id:04ae001b-eb07-4812-a42e-4bb72825609b][Far God]] Megaship Initiative Concludes
 

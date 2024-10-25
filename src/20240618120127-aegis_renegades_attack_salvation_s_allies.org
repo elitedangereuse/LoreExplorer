@@ -2,7 +2,7 @@
 :ID:       c977cafc-3a0e-45d9-8727-be3fb58c5297
 :END:
 #+title: Aegis Renegades Attack Salvation’s Allies
-#+filetags: :Federation:Thargoid:galnet:
+#+filetags: :3307:Federation:Thargoid:galnet:
 
 * Aegis Renegades Attack [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]’s Allies
 

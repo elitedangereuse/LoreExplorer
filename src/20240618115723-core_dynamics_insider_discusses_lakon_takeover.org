@@ -3,7 +3,7 @@
 :ROAM_REFS: https://cms.zaonce.net/en-GB/jsonapi/node/galnet_article/ec8b71a6-b1dc-44fe-b76a-b64adba05ff3?resourceVersion=id%3A4890
 :END:
 #+title: Core Dynamics Insider Discusses Lakon Takeover
-#+filetags: :Federation:galnet:
+#+filetags: :3307:Federation:galnet:
 
 * Core Dynamics Insider Discusses Lakon Takeover
 

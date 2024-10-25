@@ -2,7 +2,7 @@
 :ID:       9270c962-48bf-465a-8c8d-2f5fc317e81f
 :END:
 #+title: Leaked Report Exposes Aegis Failures
-#+filetags: :Thargoid:galnet:
+#+filetags: :3307:Thargoid:galnet:
 
 * Leaked Report Exposes Aegis Failures
 

@@ -2,7 +2,7 @@
 :ID:       8d3026c5-0b3d-4721-a066-c80752f071a1
 :END:
 #+title: Thargoids Vanish from Cornsar System
-#+filetags: :Federation:Thargoid:galnet:
+#+filetags: :3307:Federation:Thargoid:galnet:
 
 * Thargoids Vanish from Cornsar System
 

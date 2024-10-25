@@ -3,7 +3,7 @@
 :ROAM_REFS: https://community.elitedangerous.com/galnet/13-DEC-3307
 :END:
 #+title: The Death of Theta Seven
-#+filetags: :Thargoid:galnet:
+#+filetags: :3307:Thargoid:galnet:
 * The Death of Theta Seven
 
 /13 Dec 3307/

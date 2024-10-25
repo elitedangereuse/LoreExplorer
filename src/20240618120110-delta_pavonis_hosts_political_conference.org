@@ -2,7 +2,7 @@
 :ID:       71f3f3e9-b763-40d5-b6ab-eb70193223b8
 :END:
 #+title: Delta Pavonis Hosts Political Conference
-#+filetags: :Federation:galnet:
+#+filetags: :3307:Federation:galnet:
 
 * Delta Pavonis Hosts Political Conference
 

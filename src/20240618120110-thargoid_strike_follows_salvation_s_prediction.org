@@ -2,7 +2,7 @@
 :ID:       8ab1c470-bf69-48d5-b9c9-f175331df806
 :END:
 #+title: Thargoid Strike Follows Salvation’s Prediction
-#+filetags: :Federation:Thargoid:galnet:
+#+filetags: :3307:Federation:Thargoid:galnet:
 
 * Thargoid Strike Follows [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]’s Prediction
 

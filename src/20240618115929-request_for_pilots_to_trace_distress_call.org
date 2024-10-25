@@ -3,7 +3,7 @@
 :ROAM_REFS: https://cms.zaonce.net/en-GB/jsonapi/node/galnet_article/ca132384-2aef-42e6-bcb6-e9fd1068ab7e?resourceVersion=id%3A4916
 :END:
 #+title: Request for Pilots to Trace Distress Call
-#+filetags: :Federation:galnet:
+#+filetags: :3307:Federation:galnet:
 
 * Request for Pilots to Trace Distress Call
 

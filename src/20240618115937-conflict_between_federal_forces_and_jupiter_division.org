@@ -3,7 +3,7 @@
 :ROAM_REFS: https://cms.zaonce.net/en-GB/jsonapi/node/galnet_article/49ffee89-da31-445e-a322-39f2acd6405b?resourceVersion=id%3A4932
 :END:
 #+title: Conflict Between Federal Forces and Jupiter Division
-#+filetags: :Federation:galnet:
+#+filetags: :3307:Federation:galnet:
 
 * Conflict Between Federal Forces and Jupiter Division
 

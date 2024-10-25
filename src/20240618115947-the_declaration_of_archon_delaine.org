@@ -2,7 +2,7 @@
 :ID:       f094a2c1-39c2-4970-a2c2-c88184014c63
 :END:
 #+title: The Declaration of Archon Delaine
-#+filetags: :Empire:Federation:galnet:
+#+filetags: :3307:Empire:Federation:galnet:
 
 * The Declaration of Archon Delaine
 

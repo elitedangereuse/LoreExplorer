@@ -2,7 +2,7 @@
 :ID:       ce5f0da1-cc04-477c-9d97-638c95a421a2
 :END:
 #+title: Federation Refuses Entry to ‘Plague Ship’
-#+filetags: :Federation:Thargoid:galnet:
+#+filetags: :3307:Federation:Thargoid:galnet:
 
 * Federation Refuses Entry to ‘Plague Ship’
 

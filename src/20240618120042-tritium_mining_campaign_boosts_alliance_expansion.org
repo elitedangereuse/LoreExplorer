@@ -2,7 +2,7 @@
 :ID:       a7599231-eb21-4f11-a870-62c933ffa3de
 :END:
 #+title: Tritium Mining Campaign Boosts Alliance Expansion
-#+filetags: :Federation:Alliance:galnet:
+#+filetags: :3307:Federation:Alliance:galnet:
 
 * Tritium Mining Campaign Boosts Alliance Expansion
 

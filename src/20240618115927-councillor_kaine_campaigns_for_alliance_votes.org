@@ -3,7 +3,7 @@
 :ROAM_REFS: https://cms.zaonce.net/en-GB/jsonapi/node/galnet_article/03b8b3f0-505f-4ba6-a71c-8adb96fb7762?resourceVersion=id%3A4909
 :END:
 #+title: Councillor Kaine Campaigns for Alliance Votes
-#+filetags: :Federation:Empire:Alliance:Thargoid:galnet:
+#+filetags: :3307:Federation:Empire:Alliance:Thargoid:galnet:
 
 * Councillor Kaine Campaigns for Alliance Votes
 

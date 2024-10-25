@@ -3,7 +3,7 @@
 :ROAM_REFS: https://cms.zaonce.net/en-GB/jsonapi/node/galnet_article/23e60481-4219-4e09-ba10-40c69f101f17?resourceVersion=id%3A4894
 :END:
 #+title: Uncertainty Hits Takeover of Lakon Spaceways
-#+filetags: :Federation:Alliance:galnet:
+#+filetags: :3307:Federation:Alliance:galnet:
 
 * Uncertainty Hits Takeover of Lakon Spaceways
 

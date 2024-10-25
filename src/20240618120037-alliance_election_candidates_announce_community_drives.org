@@ -2,7 +2,7 @@
 :ID:       60eefb61-bf4d-475d-bf66-81a6fb6d7f4b
 :END:
 #+title: Alliance Election Candidates Announce Community Drives
-#+filetags: :Federation:Alliance:galnet:
+#+filetags: :3307:Federation:Alliance:galnet:
 
 * Alliance Election Candidates Announce Community Drives
 

@@ -2,7 +2,7 @@
 :ID:       59f08bf6-d556-4ca2-a6e5-defb34e073ed
 :END:
 #+title: Theta Seven Traced to Panjabell System
-#+filetags: :Federation:galnet:
+#+filetags: :3307:Federation:galnet:
 
 * [[id:7878ad2d-4118-4028-bfff-90a3976313bd][Theta Seven]] Traced to Panjabell System
 

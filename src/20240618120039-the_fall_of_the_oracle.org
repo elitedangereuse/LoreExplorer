@@ -2,7 +2,7 @@
 :ID:       3030c13a-94e8-4844-bc4c-9f96b2c1b680
 :END:
 #+title: The Fall of The Oracle
-#+filetags: :Thargoid:galnet:
+#+filetags: :3307:Thargoid:galnet:
 
 * The Fall of The Oracle
 

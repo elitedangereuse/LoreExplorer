@@ -2,7 +2,7 @@
 :ID:       fe9e43cb-5f73-4c43-8be3-21981fd7e694
 :END:
 #+title: Standoff for ACT and Theta Seven
-#+filetags: :Thargoid:galnet:
+#+filetags: :3307:Thargoid:galnet:
 
 * Standoff for ACT and Theta Seven
 

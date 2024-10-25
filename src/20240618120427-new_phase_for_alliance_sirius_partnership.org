@@ -2,7 +2,7 @@
 :ID:       fe460b2d-6d09-4264-9a1d-1f926c0e3ffb
 :END:
 #+title: New Phase for Alliance-Sirius Partnership
-#+filetags: :Alliance:Thargoid:galnet:
+#+filetags: :3307:Alliance:Thargoid:galnet:
 
 * New Phase for Alliance-Sirius Partnership
 

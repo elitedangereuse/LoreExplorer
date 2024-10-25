@@ -3,7 +3,7 @@
 :ROAM_REFS: https://cms.zaonce.net/en-GB/jsonapi/node/galnet_article/5c13a0e2-4121-4bf9-89fc-53c19239c48e?resourceVersion=id%3A4933
 :END:
 #+title: Empire and Marlinists Prepare for Galactic Summit
-#+filetags: :Empire:galnet:
+#+filetags: :3307:Empire:galnet:
 
 * Empire and Marlinists Prepare for Galactic Summit
 

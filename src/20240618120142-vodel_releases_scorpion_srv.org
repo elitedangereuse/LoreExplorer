@@ -2,7 +2,7 @@
 :ID:       ea647b14-f52f-4eec-b08d-7fa365cf28b2
 :END:
 #+title: Vodel Releases Scorpion SRV
-#+filetags: :galnet:
+#+filetags: :3307:galnet:
 
 * Vodel Releases Scorpion SRV
 

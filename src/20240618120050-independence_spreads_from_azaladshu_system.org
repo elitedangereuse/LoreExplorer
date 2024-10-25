@@ -2,7 +2,7 @@
 :ID:       e9f7f287-0841-4ab8-97c1-450965836718
 :END:
 #+title: Independence Spreads from Azaladshu System
-#+filetags: :Federation:galnet:
+#+filetags: :3307:Federation:galnet:
 
 * Independence Spreads from Azaladshu System
 

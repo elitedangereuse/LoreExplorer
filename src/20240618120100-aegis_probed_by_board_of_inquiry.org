@@ -2,7 +2,7 @@
 :ID:       616de251-266c-47d4-bc2c-4617f3f952a5
 :END:
 #+title: Aegis Probed by Board of Inquiry
-#+filetags: :Thargoid:galnet:
+#+filetags: :3307:Thargoid:galnet:
 
 * Aegis Probed by Board of Inquiry
 

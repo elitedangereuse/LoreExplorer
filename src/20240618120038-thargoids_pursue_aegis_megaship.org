@@ -2,7 +2,7 @@
 :ID:       ea5fb51c-cf53-4d8f-8dd0-f260116130e0
 :END:
 #+title: Thargoids Pursue Aegis Megaship
-#+filetags: :Federation:Thargoid:galnet:
+#+filetags: :3307:Federation:Thargoid:galnet:
 
 * Thargoids Pursue Aegis Megaship
 

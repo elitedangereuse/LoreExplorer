@@ -2,7 +2,7 @@
 :ID:       1c763334-1c89-4f24-a2fa-5609eb2bd752
 :END:
 #+title: Victory Against Federation for Independent Factions
-#+filetags: :Federation:galnet:
+#+filetags: :3307:Federation:galnet:
 
 * Victory Against Federation for Independent Factions
 

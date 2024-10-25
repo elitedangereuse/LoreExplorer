@@ -3,7 +3,7 @@
 :ROAM_REFS: https://cms.zaonce.net/en-GB/jsonapi/node/galnet_article/45327fdd-503d-4701-802f-9e29dbd96fa2?resourceVersion=id%3A4891
 :END:
 #+title: Xenological Samples Delivered to Colonia
-#+filetags: :Federation:galnet:
+#+filetags: :3307:Federation:galnet:
 
 * Xenological Samples Delivered to Colonia
 

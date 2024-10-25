@@ -2,7 +2,7 @@
 :ID:       483a765c-0bac-461b-9daf-f871a2c7811c
 :END:
 #+title: Aegis Megaship Prepares to Escape Thargoids
-#+filetags: :Federation:Thargoid:galnet:
+#+filetags: :3307:Federation:Thargoid:galnet:
 
 * Aegis Megaship Prepares to Escape Thargoids
 

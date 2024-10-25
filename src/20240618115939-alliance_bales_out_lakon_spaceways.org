@@ -2,7 +2,7 @@
 :ID:       3e61c364-81e5-4d52-bcc3-6f132581b57f
 :END:
 #+title: Alliance Bales Out Lakon Spaceways
-#+filetags: :Federation:Alliance:galnet:
+#+filetags: :3307:Federation:Alliance:galnet:
 
 * Alliance Bales Out Lakon Spaceways
 
