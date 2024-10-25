@@ -2,7 +2,7 @@
 :ID:       c49d806f-cbe4-4c3d-984d-769fb1ad7406
 :END:
 #+title: Crackdown in Cemiess
-#+filetags: :Empire:3301:galnet:
+#+filetags: :3300:Empire:3301:galnet:
 
 * Crackdown in [[id:360ae21e-63f2-43ba-a2fd-a47e5e49951e][Cemiess]]
 

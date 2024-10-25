@@ -2,7 +2,7 @@
 :ID:       e633761d-4604-456d-ae36-4c414ebbecfc
 :END:
 #+title: Galactic News: Salomé - Traitor or Terrorist?
-#+filetags: :Empire:Federation:3302:galnet:
+#+filetags: :3300:Empire:Federation:3302:galnet:
 
 * Galactic News: [[id:2f09bc24-0885-4d00-9d1f-506b32464dbe][Salomé]] - Traitor or Terrorist?
 

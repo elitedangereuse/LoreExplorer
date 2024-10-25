@@ -2,7 +2,7 @@
 :ID:       2fa346fc-c310-4eda-87f8-84027c188fbe
 :END:
 #+title: The Story of Onionhead
-#+filetags: :3307:Federation:galnet:
+#+filetags: :3300:3307:Federation:galnet:
 
 * The Story of Onionhead
 

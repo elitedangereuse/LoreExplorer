@@ -2,7 +2,7 @@
 :ID:       365ddfa9-d038-4d68-b9db-f6b8c81a9303
 :END:
 #+title: Early Hyperspace
-#+filetags: :beacon:
+#+filetags: :3300:beacon:
 * 0166 Early Hyperspace
 [[id:da11b7b5-2c5a-4f17-9cd4-ce28a2f34dbd][Tau Ceti]]
 

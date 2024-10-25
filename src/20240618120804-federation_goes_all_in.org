@@ -2,7 +2,7 @@
 :ID:       ea1e73c6-2f5f-4272-a66c-ae2452025b72
 :END:
 #+title: Federation Goes All In
-#+filetags: :Federation:Alliance:3301:galnet:
+#+filetags: :3300:Federation:Alliance:3301:galnet:
 
 * Federation Goes All In
 

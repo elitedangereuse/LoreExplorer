@@ -2,7 +2,7 @@
 :ID:       952f4250-13d8-4d9b-94e3-993b7b486fda
 :END:
 #+title: Non-Human Relic
-#+filetags: :beacon:
+#+filetags: :3300:beacon:
 * 0175 Non-Human Relic
 [[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]]
 

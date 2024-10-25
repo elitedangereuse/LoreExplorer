@@ -2,7 +2,7 @@
 :ID:       a9ccf59f-436e-44df-b041-5020285925f8
 :END:
 #+title: Jasmina Halsey
-#+filetags: :Empire:Federation:Alliance:KnowledgeBase:Codex:Individual:
+#+filetags: :3300:Empire:Federation:Alliance:KnowledgeBase:Codex:Individual:
 
 Halsey was elected [[id:bb90a162-e588-4467-bc4b-d8a33ecef686][President of the Federation]] in 3300 and served
 until June 2, 3301, when she lost a vote of no-confidence that was

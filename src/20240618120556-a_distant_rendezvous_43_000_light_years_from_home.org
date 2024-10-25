@@ -2,7 +2,7 @@
 :ID:       ce9f6855-12ee-413a-a664-0fde3b53071f
 :END:
 #+title: A Distant Rendezvous – 43,000 Light Years from Home
-#+filetags: :3301:galnet:
+#+filetags: :3300:3301:galnet:
 
 * A Distant Rendezvous – 43,000 Light Years from Home
 

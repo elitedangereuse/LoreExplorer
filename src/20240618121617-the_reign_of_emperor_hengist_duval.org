@@ -2,7 +2,7 @@
 :ID:       d577bc0f-4fa1-4761-be27-7803508c1ffe
 :END:
 #+title: The Reign of Emperor Hengist Duval
-#+filetags: :Empire:Federation:3301:galnet:
+#+filetags: :3300:Empire:Federation:3301:galnet:
 
 * The Reign of Emperor Hengist Duval
 
