@@ -2,7 +2,7 @@
 :ID:       2667f521-1e56-4f23-a60c-bf4eb80e5230
 :END:
 #+title: Remembering the Antares Incident
-#+filetags: :Federation:3301:galnet:
+#+filetags: :3301:Federation:galnet:
 
 * Remembering the Antares Incident
 

@@ -2,7 +2,7 @@
 :ID:       46fca4a0-c7e1-4617-9dc9-66ebcca9b805
 :END:
 #+title: Public Polled on President
-#+filetags: :Federation:3301:galnet:
+#+filetags: :3301:Federation:galnet:
 
 * Public Polled on President
 

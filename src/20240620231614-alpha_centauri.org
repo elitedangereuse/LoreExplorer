@@ -2,7 +2,7 @@
 :ID:       2de7ac5c-9ae0-4ebf-af7d-6505f05d2fd1
 :END:
 #+title: Alpha Centauri
-#+filetags: :System:
+#+filetags: :3301:System:
 
 #+begin_quote
 [[id:ba86a2db-c17e-4856-9882-036f95a773c2][Eden]] was the first planet on which liquid water was detected by

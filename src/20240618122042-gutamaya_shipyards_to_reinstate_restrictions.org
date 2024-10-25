@@ -2,7 +2,7 @@
 :ID:       e77efe59-fc89-4d83-9b75-e32aff106368
 :END:
 #+title: Gutamaya Shipyards to Reinstate Restrictions
-#+filetags: :Empire:3301:galnet:
+#+filetags: :3301:Empire:galnet:
 
 * Gutamaya Shipyards to Reinstate Restrictions
 

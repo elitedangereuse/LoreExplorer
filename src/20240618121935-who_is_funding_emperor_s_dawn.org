@@ -2,7 +2,7 @@
 :ID:       a9fdf693-5f55-4069-b49d-b1ec64f139be
 :END:
 #+title: Who is Funding Emperor's Dawn?
-#+filetags: :Empire:3301:galnet:
+#+filetags: :3301:Empire:galnet:
 
 * Who is Funding Emperor's Dawn?
 

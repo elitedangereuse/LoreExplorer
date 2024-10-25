@@ -2,7 +2,7 @@
 :ID:       011592cb-e691-408e-abe0-90a8810276d8
 :END:
 #+title: Five Killed in Shuttle Accident
-#+filetags: :Federation:3301:galnet:
+#+filetags: :3301:Federation:galnet:
 
 * Five Killed in Shuttle Accident
 

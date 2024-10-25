@@ -2,7 +2,7 @@
 :ID:       4256db84-316e-4133-ab60-cf0dd20ad072
 :END:
 #+title: Operation Tomahawk Aims to Rid Lave of CODE Threat
-#+filetags: :Alliance:3301:galnet:
+#+filetags: :3301:Alliance:galnet:
 
 * Operation Tomahawk Aims to Rid Lave of CODE Threat
 

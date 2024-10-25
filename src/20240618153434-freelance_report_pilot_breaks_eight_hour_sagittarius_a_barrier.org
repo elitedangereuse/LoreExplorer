@@ -2,7 +2,7 @@
 :ID:       b3a4f4f4-eba3-441b-81d8-84f851570476
 :END:
 #+title: Freelance Report: Pilot Breaks Eight-Hour Sagittarius A* Barrier
-#+filetags: :3302:galnet:
+#+filetags: :3301:3302:galnet:
 
 * Freelance Report: Pilot Breaks Eight-Hour Sagittarius A* Barrier
 

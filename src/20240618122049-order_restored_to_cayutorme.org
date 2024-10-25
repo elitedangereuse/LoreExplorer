@@ -2,7 +2,7 @@
 :ID:       94cb2bed-0a38-417b-9222-4986e05ad7fb
 :END:
 #+title: Order Restored to Cayutorme
-#+filetags: :Empire:Federation:3301:galnet:
+#+filetags: :3301:Empire:Federation:galnet:
 
 * Order Restored to [[id:3ae0f41b-9beb-419b-a804-68a000d9666b][Cayutorme]]
 

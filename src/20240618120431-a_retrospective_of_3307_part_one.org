@@ -2,7 +2,7 @@
 :ID:       c3d1e2f4-57fa-4f45-9355-48d6cd937b0c
 :END:
 #+title: A Retrospective of 3307 (Part One)
-#+filetags: :3307:Federation:Empire:Alliance:Thargoid:Death:3301:galnet:
+#+filetags: :3301:3307:Federation:Empire:Alliance:Thargoid:Death:galnet:
 
 * A Retrospective of 3307 (Part One)
 

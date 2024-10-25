@@ -2,7 +2,7 @@
 :ID:       dd7b9511-7323-4b6c-b0a4-790ea8f911dd
 :END:
 #+title: Pirates Continue to Target Refugees
-#+filetags: :Empire:3301:galnet:
+#+filetags: :3301:Empire:galnet:
 
 * Pirates Continue to Target Refugees
 

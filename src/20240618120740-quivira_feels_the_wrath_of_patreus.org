@@ -2,7 +2,7 @@
 :ID:       5f678790-30c2-4e61-9b0d-36d41d983199
 :END:
 #+title: Quivira Feels the Wrath of Patreus
-#+filetags: :Empire:3301:galnet:
+#+filetags: :3301:Empire:galnet:
 
 * Quivira Feels the Wrath of Patreus
 

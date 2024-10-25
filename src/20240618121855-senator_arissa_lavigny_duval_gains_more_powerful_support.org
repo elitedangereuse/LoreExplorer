@@ -2,7 +2,7 @@
 :ID:       a1440905-adcd-48a9-bd31-fec6acad5f89
 :END:
 #+title: Senator Arissa Lavigny-Duval Gains More Powerful Support
-#+filetags: :Empire:3301:galnet:
+#+filetags: :3301:Empire:galnet:
 
 * Senator [[id:34f3cfdd-0536-40a9-8732-13bf3a5e4a70][Arissa Lavigny-Duval]] Gains More Powerful Support
 

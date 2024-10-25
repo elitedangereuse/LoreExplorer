@@ -2,7 +2,7 @@
 :ID:       71d220c3-d71e-42ae-b027-89fac895ff01
 :END:
 #+title: Duelling Narratives in Cayutorme Conflict
-#+filetags: :Empire:3301:galnet:
+#+filetags: :3301:Empire:galnet:
 
 * Duelling Narratives in [[id:3ae0f41b-9beb-419b-a804-68a000d9666b][Cayutorme]] Conflict
 

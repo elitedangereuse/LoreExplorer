@@ -2,7 +2,7 @@
 :ID:       94b069a4-f0c5-4e3b-bcce-04ebdfd1f503
 :END:
 #+title: Emperor's Grace Reaffirms Loyalty to Patreus
-#+filetags: :Empire:3301:galnet:
+#+filetags: :3301:Empire:galnet:
 
 * Emperor's Grace Reaffirms Loyalty to Patreus
 

@@ -2,7 +2,7 @@
 :ID:       f087e35e-69f3-4ebe-ac0d-5a32db282bc1
 :END:
 #+title: A Question of Security
-#+filetags: :Empire:3301:galnet:
+#+filetags: :3301:Empire:galnet:
 
 * A Question of Security
 

@@ -2,7 +2,7 @@
 :ID:       6b8b590c-960c-43a5-8c89-2675354f66a8
 :END:
 #+title: Vice President’s Investigation Data Found
-#+filetags: :Federation:3301:galnet:
+#+filetags: :3301:Federation:galnet:
 
 * Vice President’s Investigation Data Found
 

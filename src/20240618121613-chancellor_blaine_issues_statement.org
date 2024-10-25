@@ -2,7 +2,7 @@
 :ID:       8431d985-701f-4ca1-a7ab-cae25b17069e
 :END:
 #+title: Chancellor Blaine Issues Statement
-#+filetags: :Empire:galnet:
+#+filetags: :3301:Empire:galnet:
 
 * Chancellor Blaine Issues Statement
 

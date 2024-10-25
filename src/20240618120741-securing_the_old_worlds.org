@@ -2,7 +2,7 @@
 :ID:       2277d600-a60b-4078-bd1b-fd0005ab2b85
 :END:
 #+title: Securing the Old Worlds
-#+filetags: :Federation:3301:galnet:
+#+filetags: :3301:Federation:galnet:
 
 * Securing the Old Worlds
 

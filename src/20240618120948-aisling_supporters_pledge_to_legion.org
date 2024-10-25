@@ -2,7 +2,7 @@
 :ID:       8314bf68-0d4e-4aa8-b31c-c1b4a7ef5313
 :END:
 #+title: Aisling Supporters Pledge to Legion
-#+filetags: :Empire:3301:galnet:
+#+filetags: :3301:Empire:galnet:
 
 * Aisling Supporters Pledge to Legion
 

@@ -2,7 +2,7 @@
 :ID:       9727c0f1-d575-4841-9bb7-b1df79ab3171
 :END:
 #+title: Imperial Veteran Sceptical about Patreus’s Campaign
-#+filetags: :Empire:3301:galnet:
+#+filetags: :3301:Empire:galnet:
 
 * Imperial Veteran Sceptical about Patreus’s Campaign
 

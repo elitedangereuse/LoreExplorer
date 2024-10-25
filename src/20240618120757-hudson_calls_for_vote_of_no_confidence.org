@@ -2,7 +2,7 @@
 :ID:       ce547b9a-7711-4af4-be9a-5e1eed670668
 :END:
 #+title: Hudson Calls for Vote of No Confidence
-#+filetags: :Empire:Federation:3301:galnet:
+#+filetags: :3301:Empire:Federation:galnet:
 
 * Hudson Calls for Vote of No Confidence
 

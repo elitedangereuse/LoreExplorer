@@ -2,7 +2,7 @@
 :ID:       504e6a54-5f34-47b0-8e87-8196100f8fcb
 :END:
 #+title: Emperor’s Killer Not Working Alone?
-#+filetags: :Empire:3301:galnet:
+#+filetags: :3301:Empire:galnet:
 
 * Emperor’s Killer Not Working Alone?
 

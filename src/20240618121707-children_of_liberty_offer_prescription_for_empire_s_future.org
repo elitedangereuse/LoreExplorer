@@ -2,7 +2,7 @@
 :ID:       6cbecc24-a05f-4cb5-9bd2-7108ba839af9
 :END:
 #+title: Children of Liberty Offer Prescription for Empire's Future
-#+filetags: :Empire:3301:galnet:
+#+filetags: :3301:Empire:galnet:
 
 * Children of Liberty Offer Prescription for Empire's Future
 

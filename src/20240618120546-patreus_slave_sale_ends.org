@@ -2,7 +2,7 @@
 :ID:       0390a8ac-a786-42f6-9e20-200a859b80a9
 :END:
 #+title: Patreus Slave Sale Ends
-#+filetags: :Empire:3301:galnet:
+#+filetags: :3301:Empire:galnet:
 
 * Patreus Slave Sale Ends
 

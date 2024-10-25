@@ -2,7 +2,7 @@
 :ID:       0dbd70f3-26a5-4e12-adad-571fe5dae58d
 :END:
 #+title: Where's Walden Now?
-#+filetags: :Empire:3301:galnet:
+#+filetags: :3301:Empire:galnet:
 
 * Where's Walden Now?
 

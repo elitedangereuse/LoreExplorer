@@ -2,7 +2,7 @@
 :ID:       dd593d44-450d-4629-8281-40eab62b5ce5
 :END:
 #+title: Federal Times Reporter Named as Murder Suspect
-#+filetags: :Federation:3301:galnet:
+#+filetags: :3301:Federation:galnet:
 
 * Federal Times Reporter Named as Murder Suspect
 

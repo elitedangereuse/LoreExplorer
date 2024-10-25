@@ -2,7 +2,7 @@
 :ID:       d6195f87-dd3b-4914-8939-21cd2f8de0c7
 :END:
 #+title: Federal Times Reporter Lends Weight to 'Master Chef' Story
-#+filetags: :Federation:3301:galnet:
+#+filetags: :3301:Federation:galnet:
 
 * Federal Times Reporter Lends Weight to 'Master Chef' Story
 

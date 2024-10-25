@@ -2,7 +2,7 @@
 :ID:       e5d3ca5e-6b64-48f5-8481-bdff4409db95
 :END:
 #+title: Kumo Operation to Hit Aisling Duval
-#+filetags: :Empire:3301:galnet:
+#+filetags: :3301:Empire:galnet:
 
 * Kumo Operation to Hit Aisling Duval
 

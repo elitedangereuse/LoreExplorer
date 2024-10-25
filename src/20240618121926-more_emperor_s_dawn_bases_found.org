@@ -2,7 +2,7 @@
 :ID:       c4cd95fa-1de1-4d61-a370-f56fc4e92ca5
 :END:
 #+title: More Emperor's Dawn Bases Found
-#+filetags: :Empire:3301:galnet:
+#+filetags: :3301:Empire:galnet:
 
 * More Emperor's Dawn Bases Found
 

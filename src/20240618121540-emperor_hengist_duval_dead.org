@@ -2,7 +2,7 @@
 :ID:       b1133c17-841f-4038-8f36-5171aad1df47
 :END:
 #+title: Emperor Hengist Duval Dead
-#+filetags: :Empire:3301:galnet:
+#+filetags: :3301:Empire:galnet:
 
 * Emperor [[id:3cb0755e-4deb-442b-898b-3f0c6651636e][Hengist Duval]] Dead
 

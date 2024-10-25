@@ -2,7 +2,7 @@
 :ID:       3b52d076-f392-4f7e-a56d-136be64c79ee
 :END:
 #+title: Galactic News: Kahina Loren Stripped of her Rank
-#+filetags: :Empire:3302:galnet:
+#+filetags: :3301:Empire:3302:galnet:
 
 * Galactic News: Kahina Loren Stripped of her Rank
 

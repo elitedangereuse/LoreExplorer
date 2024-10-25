@@ -2,7 +2,7 @@
 :ID:       bd57c9d2-15c5-49c9-a148-b0e62c763e92
 :END:
 #+title: Federal Search Efforts Continue
-#+filetags: :Federation:3301:galnet:
+#+filetags: :3301:Federation:galnet:
 
 * Federal Search Efforts Continue
 

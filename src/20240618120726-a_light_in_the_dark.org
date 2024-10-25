@@ -2,7 +2,7 @@
 :ID:       6663503f-5b71-46ee-a53c-eafe59ddb490
 :END:
 #+title: A Light in the Dark
-#+filetags: :Empire:3301:galnet:
+#+filetags: :3301:Empire:galnet:
 
 * A Light in the Dark
 

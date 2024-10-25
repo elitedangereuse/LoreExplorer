@@ -2,7 +2,7 @@
 :ID:       50f40ec2-169d-4b5b-8305-4a0c701b7c5b
 :END:
 #+title: Galactic News: Kahina Loren Implicated in Patreus Assassination Attempt
-#+filetags: :Empire:3302:galnet:
+#+filetags: :3301:Empire:3302:galnet:
 
 * Galactic News: Kahina Loren Implicated in Patreus Assassination Attempt
 

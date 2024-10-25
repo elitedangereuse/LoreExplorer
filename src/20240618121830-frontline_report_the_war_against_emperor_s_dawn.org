@@ -2,7 +2,7 @@
 :ID:       b6eda958-0c27-458a-942b-cd1482849f79
 :END:
 #+title: Frontline Report: The War against Emperor’s Dawn
-#+filetags: :Empire:3301:galnet:
+#+filetags: :3301:Empire:galnet:
 
 * Frontline Report: The War against Emperor’s Dawn
 

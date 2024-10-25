@@ -2,7 +2,7 @@
 :ID:       bce13333-b050-487f-9ed0-a1e1b4db10e1
 :END:
 #+title: Democracy Threatened in Old Worlds
-#+filetags: :Federation:Alliance:3301:galnet:
+#+filetags: :3301:Federation:Alliance:galnet:
 
 * Democracy Threatened in Old Worlds
 

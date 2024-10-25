@@ -2,7 +2,7 @@
 :ID:       7e222105-99f8-462f-be69-ab8b7d89a173
 :END:
 #+title: President Orders Attack on Nijotec
-#+filetags: :Federation:3301:galnet:
+#+filetags: :3301:Federation:galnet:
 
 * President Orders Attack on Nijotec
 

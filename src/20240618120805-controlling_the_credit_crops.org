@@ -2,7 +2,7 @@
 :ID:       e57fb4eb-bbd3-405c-849f-c489ef4c1cf3
 :END:
 #+title: Controlling the Credit Crops
-#+filetags: :Empire:Federation:3301:galnet:
+#+filetags: :3301:Empire:Federation:galnet:
 
 * Controlling the Credit Crops
 

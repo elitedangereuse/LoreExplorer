@@ -2,7 +2,7 @@
 :ID:       cc85b15b-4eba-48dc-a50d-289daa575229
 :END:
 #+title: Federal and Imperial Diplomats Discuss the Pegasi Sector
-#+filetags: :Empire:Federation:3301:galnet:
+#+filetags: :3301:Empire:Federation:galnet:
 
 * Federal and Imperial Diplomats Discuss the Pegasi Sector
 

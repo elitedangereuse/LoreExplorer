@@ -2,7 +2,7 @@
 :ID:       f547d5c6-63cc-438d-8867-84b8da94c4fd
 :END:
 #+title: The Lugh Report
-#+filetags: :Federation:3301:galnet:
+#+filetags: :3301:Federation:galnet:
 
 * The Lugh Report
 

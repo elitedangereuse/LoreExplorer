@@ -2,7 +2,7 @@
 :ID:       01f0c2cf-a31b-4f40-9d59-1b71f5e2a5c3
 :END:
 #+title: Hudson Attacks President’s History
-#+filetags: :Federation:3301:galnet:
+#+filetags: :3301:Federation:galnet:
 
 * Hudson Attacks President’s History
 

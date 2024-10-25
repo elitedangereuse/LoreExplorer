@@ -2,7 +2,7 @@
 :ID:       cbc3fe97-a104-4a9d-afee-d70b7a365f8d
 :END:
 #+title: Winters Willingly Agrees to Vote
-#+filetags: :Federation:3301:galnet:
+#+filetags: :3301:Federation:galnet:
 
 * Winters Willingly Agrees to Vote
 

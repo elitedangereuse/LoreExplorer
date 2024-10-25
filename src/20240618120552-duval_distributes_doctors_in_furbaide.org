@@ -2,7 +2,7 @@
 :ID:       068d291d-de03-4ba6-92aa-1781aee2edcb
 :END:
 #+title: Duval Distributes Doctors in Furbaide
-#+filetags: :Empire:3301:galnet:
+#+filetags: :3301:Empire:galnet:
 
 * Duval Distributes Doctors in Furbaide
 

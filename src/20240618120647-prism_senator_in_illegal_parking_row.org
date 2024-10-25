@@ -2,7 +2,7 @@
 :ID:       0afe1d2a-4922-40cf-938b-0cbe8f281fe2
 :END:
 #+title: Prism Senator in Illegal Parking Row
-#+filetags: :Empire:3301:galnet:
+#+filetags: :3301:Empire:galnet:
 
 * Prism Senator in Illegal Parking Row
 

@@ -2,7 +2,7 @@
 :ID:       22c11ee8-1d79-473b-98a6-94ed8a7cc8c2
 :END:
 #+title: The Savage Side of Imperial Slavery
-#+filetags: :Empire:3301:galnet:
+#+filetags: :3301:Empire:galnet:
 
 * The Savage Side of Imperial Slavery
 

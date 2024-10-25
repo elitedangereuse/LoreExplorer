@@ -2,7 +2,7 @@
 :ID:       bce4ce69-6d68-4959-b84a-614ed995fe71
 :END:
 #+title: Federal Vigilantes Defy All Galactic Powers
-#+filetags: :Federation:3301:galnet:
+#+filetags: :3301:Federation:galnet:
 
 * Federal Vigilantes Defy All Galactic Powers
 

@@ -2,7 +2,7 @@
 :ID:       8e59bdaf-f347-462a-b48e-988f1e663d44
 :END:
 #+title: Quivirans Defy Doom
-#+filetags: :Federation:3301:galnet:
+#+filetags: :3301:Federation:galnet:
 
 * Quivirans Defy Doom
 

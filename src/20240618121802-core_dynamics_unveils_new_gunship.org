@@ -2,7 +2,7 @@
 :ID:       8890b351-bba2-4646-b253-cfe5196c6a76
 :END:
 #+title: Core Dynamics Unveils New Gunship
-#+filetags: :Federation:3301:galnet:
+#+filetags: :3301:Federation:galnet:
 
 * Core Dynamics Unveils New Gunship
 

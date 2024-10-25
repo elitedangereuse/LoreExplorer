@@ -2,7 +2,7 @@
 :ID:       f52ec5da-7a90-4fcb-b2de-e8358c59edb9
 :END:
 #+title: President Halsey Addresses Accusations
-#+filetags: :Federation:3301:galnet:
+#+filetags: :3301:Federation:galnet:
 
 * President Halsey Addresses Accusations
 

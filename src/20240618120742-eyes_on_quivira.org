@@ -2,7 +2,7 @@
 :ID:       b02ad867-4b0b-4c9b-a42b-a29f328101c8
 :END:
 #+title: Eyes on Quivira
-#+filetags: :Empire:Federation:3301:galnet:
+#+filetags: :3301:Empire:Federation:galnet:
 
 * Eyes on Quivira
 

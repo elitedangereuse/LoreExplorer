@@ -2,7 +2,7 @@
 :ID:       2b5caeb7-a4d6-4702-a631-e9c1e4e849bb
 :END:
 #+title: Grand Sale of Slaves in Carns
-#+filetags: :Empire:3301:galnet:
+#+filetags: :3301:Empire:galnet:
 
 * Grand Sale of Slaves in Carns
 

@@ -2,7 +2,7 @@
 :ID:       ce11947d-03e0-4bd7-8bca-5e5ac917e9a5
 :END:
 #+title: Imperial Slave Regulations Proposed
-#+filetags: :Empire:3301:galnet:
+#+filetags: :3301:Empire:galnet:
 
 * Imperial Slave Regulations Proposed
 

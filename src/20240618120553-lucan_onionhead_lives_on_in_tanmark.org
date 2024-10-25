@@ -2,7 +2,7 @@
 :ID:       440397ec-8775-4d5e-8136-9371fb5e87eb
 :END:
 #+title: Lucan Onionhead Lives On in Tanmark
-#+filetags: :Federation:3301:galnet:
+#+filetags: :3301:Federation:galnet:
 
 * Lucan Onionhead Lives On in Tanmark
 

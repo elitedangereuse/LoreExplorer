@@ -2,7 +2,7 @@
 :ID:       97e2193e-b2e0-40b7-b80f-ac59af67c842
 :END:
 #+title: Emperor’s Grace Indicted in Attack on Emperor
-#+filetags: :Empire:3301:galnet:
+#+filetags: :3301:Empire:galnet:
 
 * Emperor’s Grace Indicted in Attack on Emperor
 

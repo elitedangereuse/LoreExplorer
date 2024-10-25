@@ -2,7 +2,7 @@
 :ID:       974a52ea-9f53-4e81-9b37-33910466db74
 :END:
 #+title: Chancellor Anders Blaine Issues Statement
-#+filetags: :Empire:3301:galnet:
+#+filetags: :3301:Empire:galnet:
 
 * Chancellor [[id:e9679720-e0c1-449e-86a6-a5b3de3613f5][Anders Blaine]] Issues Statement
 

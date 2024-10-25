@@ -2,7 +2,7 @@
 :ID:       5f61d12b-34c5-4e61-8b76-475d4e1a7e05
 :END:
 #+title: Imperial Citizenry Pays Tribute to Late Emperor
-#+filetags: :Empire:3301:galnet:
+#+filetags: :3301:Empire:galnet:
 
 * Imperial Citizenry Pays Tribute to Late Emperor
 

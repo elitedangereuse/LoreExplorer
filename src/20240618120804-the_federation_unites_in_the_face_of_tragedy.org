@@ -2,7 +2,7 @@
 :ID:       a70d8dac-ade3-4843-84a1-608e4d248f4e
 :END:
 #+title: The Federation Unites in the Face of Tragedy
-#+filetags: :Federation:3301:galnet:
+#+filetags: :3301:Federation:galnet:
 
 * The Federation Unites in the Face of Tragedy
 

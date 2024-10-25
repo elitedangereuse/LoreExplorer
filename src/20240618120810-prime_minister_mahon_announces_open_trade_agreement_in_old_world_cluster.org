@@ -2,7 +2,7 @@
 :ID:       7b0250d3-6345-4706-b116-cec129fdd222
 :END:
 #+title: Prime Minister Mahon Announces Open Trade Agreement in Old World Cluster
-#+filetags: :Alliance:3301:galnet:
+#+filetags: :3301:Alliance:galnet:
 
 * Prime Minister Mahon Announces Open Trade Agreement in Old World Cluster
 

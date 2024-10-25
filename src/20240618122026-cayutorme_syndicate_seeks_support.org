@@ -2,7 +2,7 @@
 :ID:       2b55e435-7d82-4b4f-b240-6fcc4e4b9466
 :END:
 #+title: Cayutorme Syndicate Seeks Support
-#+filetags: :Empire:3301:galnet:
+#+filetags: :3301:Empire:galnet:
 
 * [[id:3ae0f41b-9beb-419b-a804-68a000d9666b][Cayutorme]] Syndicate Seeks Support
 

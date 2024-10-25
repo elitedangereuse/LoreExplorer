@@ -2,7 +2,7 @@
 :ID:       26a31cd4-2cba-4a49-a5b8-4172d7d6f96d
 :END:
 #+title: Shades of the Antares Incident
-#+filetags: :Federation:3301:galnet:
+#+filetags: :3301:Federation:galnet:
 
 * Shades of the Antares Incident
 

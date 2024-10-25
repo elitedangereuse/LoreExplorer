@@ -2,7 +2,7 @@
 :ID:       582d9e6b-bda6-483c-a791-5e7a47a4e874
 :END:
 #+title: Prism Senator Planning New Voyage?
-#+filetags: :Empire:3301:galnet:
+#+filetags: :3301:Empire:galnet:
 
 * Prism Senator Planning New Voyage?
 

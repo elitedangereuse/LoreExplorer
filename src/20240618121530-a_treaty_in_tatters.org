@@ -2,7 +2,7 @@
 :ID:       c907114b-c370-46e1-8c34-42b9ae51c86d
 :END:
 #+title: A Treaty in Tatters
-#+filetags: :Empire:3301:galnet:
+#+filetags: :3301:Empire:galnet:
 
 * A Treaty in Tatters
 

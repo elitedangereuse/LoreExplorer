@@ -2,7 +2,7 @@
 :ID:       60c7fa02-1c48-4c59-9859-7aed43b1bae2
 :END:
 #+title: Elegance in Simplicity
-#+filetags: :Empire:3301:galnet:
+#+filetags: :3301:Empire:galnet:
 
 * Elegance in Simplicity
 

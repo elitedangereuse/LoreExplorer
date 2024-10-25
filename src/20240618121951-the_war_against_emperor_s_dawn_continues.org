@@ -2,7 +2,7 @@
 :ID:       2a30e02b-f664-40ea-a203-4af9b0d2eb21
 :END:
 #+title: The War against Emperor's Dawn Continues
-#+filetags: :Empire:3301:galnet:
+#+filetags: :3301:Empire:galnet:
 
 * The War against Emperor's Dawn Continues
 

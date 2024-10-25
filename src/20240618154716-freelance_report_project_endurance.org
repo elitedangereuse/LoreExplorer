@@ -2,7 +2,7 @@
 :ID:       e0804fff-2cbc-413d-b658-157adf6c651a
 :END:
 #+title: Freelance Report: Project Endurance
-#+filetags: :3302:galnet:
+#+filetags: :3301:3302:galnet:
 
 * Freelance Report: Project Endurance
 

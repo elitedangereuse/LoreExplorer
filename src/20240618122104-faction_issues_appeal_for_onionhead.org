@@ -2,7 +2,7 @@
 :ID:       1018df14-9c51-4fbc-8ce0-4492b5942f3e
 :END:
 #+title: Faction Issues Appeal for Onionhead
-#+filetags: :Federation:Empire:3301:galnet:
+#+filetags: :3301:Federation:Empire:galnet:
 
 * Faction Issues Appeal for Onionhead
 

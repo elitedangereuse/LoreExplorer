@@ -2,7 +2,7 @@
 :ID:       69ce0cfc-7940-4e60-836e-b214254b7dcb
 :END:
 #+title: Freeholm Victory
-#+filetags: :beacon:
+#+filetags: :3301:beacon:
 * 0507 Freeholm Victory
 [[id:3b7fe78a-88b1-421f-b452-019efb075bc4][Artemis]]
 

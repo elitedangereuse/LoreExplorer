@@ -2,7 +2,7 @@
 :ID:       454e8f51-71d3-46a9-ab3b-52b47f4b72b2
 :END:
 #+title: Pegasi Pirate War
-#+filetags: :Empire:3301:galnet:
+#+filetags: :3301:Empire:galnet:
 
 * Pegasi Pirate War
 

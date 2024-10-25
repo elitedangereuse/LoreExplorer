@@ -2,7 +2,7 @@
 :ID:       0da8edee-c8ff-4aed-9ff9-ce8ae998bef3
 :END:
 #+title: Reorte Reclaimed
-#+filetags: :Alliance:beacon:
+#+filetags: :3301:Alliance:beacon:
 * 0122 Reorte Reclaimed
 [[id:0da8edee-c8ff-4aed-9ff9-ce8ae998bef3][Reorte]]
 

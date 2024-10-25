@@ -2,7 +2,7 @@
 :ID:       a7f839bf-5f7b-45ae-963d-7a40b3a7690f
 :END:
 #+title: The Truth about Emperor’s Dawn
-#+filetags: :Empire:3301:galnet:
+#+filetags: :3301:Empire:galnet:
 
 * The Truth about Emperor’s Dawn
 

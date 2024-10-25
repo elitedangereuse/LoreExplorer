@@ -2,7 +2,7 @@
 :ID:       488137ee-6e22-47f6-93b1-05f2a26e2780
 :END:
 #+title: Sothis Crystalline Gold
-#+filetags: :Commodity:3301:galnet:
+#+filetags: :3301:Commodity:galnet:
 
 * Sothis Crystalline Gold
 

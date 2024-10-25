@@ -2,7 +2,7 @@
 :ID:       1389857c-3747-4cdd-ad3e-99b162df9308
 :END:
 #+title: Cerberus Plague
-#+filetags: :beacon:
+#+filetags: :3301:beacon:
 * 0198 Cerberus Plague
 [[id:994a3f4f-a3dd-4cc2-9730-fdd2799aff55][BD-02 4304]]
 

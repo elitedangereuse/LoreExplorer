@@ -2,7 +2,7 @@
 :ID:       87efdc57-f019-4eec-b206-b3e1a52b076b
 :END:
 #+title: Exphiay Entertains Shadow President
-#+filetags: :Federation:3301:galnet:
+#+filetags: :3301:Federation:galnet:
 
 * Exphiay Entertains Shadow President
 

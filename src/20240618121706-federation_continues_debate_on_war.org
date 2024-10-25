@@ -2,7 +2,7 @@
 :ID:       fc5e3f56-d68d-4804-a4a5-259547074d41
 :END:
 #+title: Federation Continues Debate on War
-#+filetags: :Federation:Empire:3301:galnet:
+#+filetags: :3301:Federation:Empire:galnet:
 
 * Federation Continues Debate on War
 

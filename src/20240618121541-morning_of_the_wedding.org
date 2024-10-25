@@ -2,7 +2,7 @@
 :ID:       a5c013ef-9359-420b-9ced-d9b9578dd261
 :END:
 #+title: Morning of the Wedding
-#+filetags: :Empire:Alliance:3301:galnet:
+#+filetags: :3301:Empire:Alliance:galnet:
 
 * Morning of the Wedding
 

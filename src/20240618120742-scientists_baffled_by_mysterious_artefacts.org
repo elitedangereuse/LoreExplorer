@@ -2,7 +2,7 @@
 :ID:       79c31712-a6b4-40bd-9f71-7e9b6acfe601
 :END:
 #+title: Scientists Baffled by Mysterious Artefacts
-#+filetags: :Federation:3301:galnet:
+#+filetags: :3301:Federation:galnet:
 
 * Scientists Baffled by Mysterious Artefacts
 

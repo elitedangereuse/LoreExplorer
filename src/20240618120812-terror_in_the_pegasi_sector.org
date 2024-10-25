@@ -2,7 +2,7 @@
 :ID:       dfa934ab-1f45-4759-a16d-5bb17553dfa5
 :END:
 #+title: Terror in the Pegasi Sector
-#+filetags: :Federation:3301:galnet:
+#+filetags: :3301:Federation:galnet:
 
 * Terror in the Pegasi Sector
 

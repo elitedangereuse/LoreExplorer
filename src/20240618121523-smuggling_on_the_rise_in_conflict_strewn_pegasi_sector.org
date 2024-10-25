@@ -2,7 +2,7 @@
 :ID:       639ccb9a-378d-428d-89cb-04f73a561e01
 :END:
 #+title: Smuggling on the Rise in Conflict-Strewn Pegasi Sector
-#+filetags: :Empire:3301:galnet:
+#+filetags: :3301:Empire:galnet:
 
 * Smuggling on the Rise in Conflict-Strewn Pegasi Sector
 

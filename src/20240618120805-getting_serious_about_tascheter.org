@@ -2,7 +2,7 @@
 :ID:       d7f199a8-b8d4-446f-b7be-eddb078e0988
 :END:
 #+title: Getting Serious About Tascheter
-#+filetags: :Federation:3301:galnet:
+#+filetags: :3301:Federation:galnet:
 
 * Getting Serious About Tascheter
 

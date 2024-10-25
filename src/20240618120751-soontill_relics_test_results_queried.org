@@ -2,7 +2,7 @@
 :ID:       62f7ff04-980d-4b1b-bdc8-039a7bdb77f1
 :END:
 #+title: Soontill Relics Test Results Queried
-#+filetags: :Thargoid:3301:galnet:
+#+filetags: :3301:Thargoid:galnet:
 
 * Soontill Relics Test Results Queried
 

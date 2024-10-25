@@ -2,7 +2,7 @@
 :ID:       b78aecca-eecf-4236-beef-115d310e80cd
 :END:
 #+title: President Orders Strike on Federal Refugees
-#+filetags: :Federation:3301:galnet:
+#+filetags: :3301:Federation:galnet:
 
 * President Orders Strike on Federal Refugees
 

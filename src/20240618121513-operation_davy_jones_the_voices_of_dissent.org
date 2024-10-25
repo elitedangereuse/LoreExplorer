@@ -2,7 +2,7 @@
 :ID:       ce59aee1-46f9-40bb-80a4-520261ec4122
 :END:
 #+title: Operation Davy Jones - The Voices of Dissent
-#+filetags: :Empire:Federation:3301:galnet:
+#+filetags: :3301:Empire:Federation:galnet:
 
 * Operation Davy Jones - The Voices of Dissent
 

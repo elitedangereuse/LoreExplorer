@@ -2,7 +2,7 @@
 :ID:       d8e0a341-ccc8-4fd0-a79b-d900e83e14e7
 :END:
 #+title: Tour of Frontier Systems Set to Begin Shortly
-#+filetags: :Federation:3301:galnet:
+#+filetags: :3301:Federation:galnet:
 
 * Tour of Frontier Systems Set to Begin Shortly
 

@@ -2,7 +2,7 @@
 :ID:       b5a06690-064e-48c9-9ffc-6265d2105a2f
 :END:
 #+title: Emergency Session of Congress
-#+filetags: :Empire:3301:galnet:
+#+filetags: :3301:Empire:galnet:
 
 * Emergency Session of Congress
 

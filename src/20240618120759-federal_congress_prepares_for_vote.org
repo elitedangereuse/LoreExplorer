@@ -2,7 +2,7 @@
 :ID:       c623c3fb-92e9-4eab-b6ed-4989fc66f2c4
 :END:
 #+title: Federal Congress Prepares for Vote
-#+filetags: :Federation:Alliance:3301:galnet:
+#+filetags: :3301:Federation:Alliance:galnet:
 
 * Federal Congress Prepares for Vote
 

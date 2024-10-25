@@ -2,7 +2,7 @@
 :ID:       d7608595-8db7-4f01-aaa6-e81007c2e614
 :END:
 #+title: Alliance Shines Light on Prism Senator
-#+filetags: :Empire:Federation:Alliance:3301:galnet:
+#+filetags: :3301:Empire:Federation:Alliance:galnet:
 
 * Alliance Shines Light on Prism Senator
 

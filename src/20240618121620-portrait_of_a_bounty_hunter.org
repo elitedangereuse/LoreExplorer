@@ -2,7 +2,7 @@
 :ID:       64ed2fd6-fb61-46fb-8278-877249425fb5
 :END:
 #+title: Portrait of a Bounty Hunter
-#+filetags: :Federation:3301:galnet:
+#+filetags: :3301:Federation:galnet:
 
 * Portrait of a Bounty Hunter
 

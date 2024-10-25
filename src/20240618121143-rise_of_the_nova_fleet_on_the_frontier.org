@@ -2,7 +2,7 @@
 :ID:       b983e6e7-9d9e-4767-9581-2243e2daa809
 :END:
 #+title: Rise of the Nova Fleet on the Frontier
-#+filetags: :Empire:Federation:Alliance:3301:galnet:
+#+filetags: :3301:Empire:Federation:Alliance:galnet:
 
 * Rise of the Nova Fleet on the Frontier
 

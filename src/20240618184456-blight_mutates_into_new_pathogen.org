@@ -2,7 +2,7 @@
 :ID:       9d2cb26a-1cbd-4c02-a37c-b850b4976900
 :END:
 #+title: Blight Mutates into New Pathogen
-#+filetags: :galnet:
+#+filetags: :3301:galnet:
 
 * [[id:1cffca4e-480b-46bf-b6c5-0af48c7292d3][Blight]] Mutates into New Pathogen
 

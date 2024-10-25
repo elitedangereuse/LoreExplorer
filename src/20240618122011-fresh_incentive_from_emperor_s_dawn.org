@@ -2,7 +2,7 @@
 :ID:       57c34f8d-7763-4572-b963-b853f2273285
 :END:
 #+title: Fresh Incentive from Emperor's Dawn
-#+filetags: :Empire:3301:galnet:
+#+filetags: :3301:Empire:galnet:
 
 * Fresh Incentive from Emperor's Dawn
 

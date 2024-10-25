@@ -3,7 +3,7 @@
 :ROAM_REFS: https://cms.zaonce.net/en-GB/jsonapi/node/galnet_article/3a5b5115-2d46-4b07-8d20-ac53435e9a74?resourceVersion=id%3A4923
 :END:
 #+title: Jupiter Rochester Named in Starship One Trial
-#+filetags: :3307:Federation:galnet:
+#+filetags: :3301:3307:Federation:galnet:
 
 * [[id:c33064d1-c2a0-4ac3-89fe-57eedb7ef9c8][Jupiter Rochester]] Named in Starship One Trial
 

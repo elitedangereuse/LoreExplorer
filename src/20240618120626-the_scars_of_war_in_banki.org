@@ -2,7 +2,7 @@
 :ID:       8a783df2-ee3e-413c-8f0a-9a3c2e72177c
 :END:
 #+title: The Scars of War in Banki
-#+filetags: :Federation:3301:galnet:
+#+filetags: :3301:Federation:galnet:
 
 * The Scars of War in Banki
 

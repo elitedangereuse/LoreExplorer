@@ -2,7 +2,7 @@
 :ID:       057f774d-78e0-4724-9a95-e4927c79ff54
 :END:
 #+title: Chancellor Blaine Opens Senate Debate
-#+filetags: :Empire:3301:galnet:
+#+filetags: :3301:Empire:galnet:
 
 * Chancellor Blaine Opens Senate Debate
 

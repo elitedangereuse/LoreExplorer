@@ -2,7 +2,7 @@
 :ID:       0b121dd8-4675-437f-b98b-10fb66c2b229
 :END:
 #+title: Securing the Borders in the Ceti Sector
-#+filetags: :Federation:3301:galnet:
+#+filetags: :3301:Federation:galnet:
 
 * Securing the Borders in the Ceti Sector
 

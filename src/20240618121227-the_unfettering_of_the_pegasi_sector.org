@@ -2,7 +2,7 @@
 :ID:       9283ddf3-f7d7-4675-949c-9c79daf557b2
 :END:
 #+title: The Unfettering of the Pegasi Sector
-#+filetags: :Empire:3301:galnet:
+#+filetags: :3301:Empire:galnet:
 
 * The Unfettering of the Pegasi Sector
 

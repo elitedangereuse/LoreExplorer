@@ -2,7 +2,7 @@
 :ID:       7bf9e852-fd85-40c4-92ce-fc692044cd09
 :END:
 #+title: Galnet Health Report Sparks Action from Angeli Imperial
-#+filetags: :Empire:3301:galnet:
+#+filetags: :3301:Empire:galnet:
 
 * Galnet Health Report Sparks Action from Angeli Imperial
 

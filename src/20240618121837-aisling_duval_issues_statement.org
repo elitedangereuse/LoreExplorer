@@ -2,7 +2,7 @@
 :ID:       c9c13052-1694-4374-8ce3-6656a4f438de
 :END:
 #+title: Aisling Duval Issues Statement
-#+filetags: :Empire:3301:galnet:
+#+filetags: :3301:Empire:galnet:
 
 * [[id:b402bbe3-5119-4d94-87ee-0ba279658383][Aisling Duval]] Issues Statement
 

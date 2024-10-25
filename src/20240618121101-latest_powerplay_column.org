@@ -2,7 +2,7 @@
 :ID:       1651c12d-062c-4dc5-8db5-e18fc42b95b1
 :END:
 #+title: Latest Powerplay Column
-#+filetags: :Empire:Federation:3301:galnet:
+#+filetags: :3301:Empire:Federation:galnet:
 
 * Latest Powerplay Column
 

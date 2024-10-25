@@ -2,7 +2,7 @@
 :ID:       67d591c2-75f1-4faa-a9f8-b2813fa1d81d
 :END:
 #+title: Cold Ice, Warm Trail
-#+filetags: :Empire:3301:galnet:
+#+filetags: :3301:Empire:galnet:
 
 * Cold Ice, Warm Trail
 

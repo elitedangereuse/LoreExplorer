@@ -2,7 +2,7 @@
 :ID:       95edde76-d3ff-4c63-a5fb-152eadce5b1b
 :END:
 #+title: /08 Feb 3301/
-#+filetags: :galnet:
+#+filetags: :3301:galnet:
 
 * Underground Racers Spotted In and Around Sol
 

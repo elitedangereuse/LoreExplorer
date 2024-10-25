@@ -2,7 +2,7 @@
 :ID:       06e3a49a-dbd9-4860-b4a2-874f246ca7d1
 :END:
 #+title: Senator Arissa Lavigny-Duval Calls Impromptu Press Conference
-#+filetags: :Empire:3301:galnet:
+#+filetags: :3301:Empire:galnet:
 
 * Senator [[id:34f3cfdd-0536-40a9-8732-13bf3a5e4a70][Arissa Lavigny-Duval]] Calls Impromptu Press Conference
 

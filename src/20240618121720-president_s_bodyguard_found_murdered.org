@@ -2,7 +2,7 @@
 :ID:       11316806-858c-435c-9b62-f5c005415d29
 :END:
 #+title: President’s Bodyguard Found Murdered
-#+filetags: :Federation:3301:galnet:
+#+filetags: :3301:Federation:galnet:
 
 * President’s Bodyguard Found Murdered
 

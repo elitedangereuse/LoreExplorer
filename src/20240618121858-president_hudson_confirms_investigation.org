@@ -2,7 +2,7 @@
 :ID:       c338563d-afee-4f60-af03-99eedca7754d
 :END:
 #+title: President Hudson Confirms Investigation
-#+filetags: :Federation:3301:galnet:
+#+filetags: :3301:Federation:galnet:
 
 * President Hudson Confirms Investigation
 

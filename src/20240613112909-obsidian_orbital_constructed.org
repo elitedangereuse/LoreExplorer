@@ -2,7 +2,7 @@
 :ID:       2ac67d25-58ef-49da-824a-49537d7ce96a
 :END:
 #+title: Obsidian Orbital Constructed
-#+filetags: :beacon:
+#+filetags: :3301:beacon:
 * 0200 Obsidian Orbital Constructed
 [[id:af205c6d-cb6f-4d7b-bcdd-42dc2999c376][Maia]]
 

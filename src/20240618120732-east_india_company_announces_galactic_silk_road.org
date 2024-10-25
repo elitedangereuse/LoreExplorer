@@ -2,7 +2,7 @@
 :ID:       758683e3-6006-49aa-aa53-e4d1d7505ad9
 :END:
 #+title: East India Company Announces Galactic Silk Road
-#+filetags: :Federation:3301:galnet:
+#+filetags: :3301:Federation:galnet:
 
 * East India Company Announces Galactic Silk Road
 

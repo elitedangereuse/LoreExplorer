@@ -2,7 +2,7 @@
 :ID:       ebc04652-6bbe-4435-8d60-7c49c2c2f895
 :END:
 #+title: The War for Lugh: The Turning Point
-#+filetags: :Federation:3301:galnet:
+#+filetags: :3301:Federation:galnet:
 
 * The War for Lugh: The Turning Point
 

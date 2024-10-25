@@ -2,7 +2,7 @@
 :ID:       cfe48e99-6d40-4603-9efc-05da03d82c07
 :END:
 #+title: Federation Triumphs over Emperor's Dawn
-#+filetags: :Federation:3301:galnet:
+#+filetags: :3301:Federation:galnet:
 
 * Federation Triumphs over Emperor's Dawn
 

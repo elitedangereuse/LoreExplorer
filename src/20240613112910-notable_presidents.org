@@ -2,7 +2,7 @@
 :ID:       0d545a1a-0573-4683-9480-48b4ac3cced1
 :END:
 #+title: Notable Presidents
-#+filetags: :3300:Federation:beacon:
+#+filetags: :3301:3300:Federation:beacon:
 * 0201 Notable Presidents
 [[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]]
 

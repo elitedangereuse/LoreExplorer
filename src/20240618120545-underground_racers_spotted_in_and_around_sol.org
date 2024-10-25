@@ -2,7 +2,7 @@
 :ID:       f6a39ddb-7228-41f0-8022-d084292e6269
 :END:
 #+title: Underground Racers Spotted In and Around Sol
-#+filetags: :Federation:3301:galnet:
+#+filetags: :3301:Federation:galnet:
 
 * Underground Racers Spotted In and Around Sol
 

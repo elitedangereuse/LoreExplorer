@@ -2,7 +2,7 @@
 :ID:       62abd104-ce6a-42b1-94cc-cb2381b05fbc
 :END:
 #+title: Patreus Calls on Blaine to Release Emperor’s Medical Records
-#+filetags: :Empire:3301:galnet:
+#+filetags: :3301:Empire:galnet:
 
 * Patreus Calls on Blaine to Release Emperor’s Medical Records
 

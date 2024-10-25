@@ -2,7 +2,7 @@
 :ID:       f5d6a8de-f00f-46fd-beab-e978a3667407
 :END:
 #+title: Technical Issues in Warkushanui Intensify
-#+filetags: :Federation:3301:galnet:
+#+filetags: :3301:Federation:galnet:
 
 * Technical Issues in Warkushanui Intensify
 

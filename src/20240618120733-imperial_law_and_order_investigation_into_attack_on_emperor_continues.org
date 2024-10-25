@@ -2,7 +2,7 @@
 :ID:       2df73059-4c25-46e4-a523-f11a8d74d81c
 :END:
 #+title: Imperial Law and Order: Investigation into Attack on Emperor Continues
-#+filetags: :Empire:3301:galnet:
+#+filetags: :3301:Empire:galnet:
 
 * Imperial Law and Order: Investigation into Attack on Emperor Continues
 

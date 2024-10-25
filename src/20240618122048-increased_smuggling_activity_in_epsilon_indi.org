@@ -2,7 +2,7 @@
 :ID:       a8047873-161f-4d0c-87df-352ce7ba32a3
 :END:
 #+title: Increased Smuggling Activity in Epsilon Indi
-#+filetags: :Federation:3301:galnet:
+#+filetags: :3301:Federation:galnet:
 
 * Increased Smuggling Activity in Epsilon Indi
 

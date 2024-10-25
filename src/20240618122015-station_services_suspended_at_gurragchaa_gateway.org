@@ -2,7 +2,7 @@
 :ID:       f4d350ae-27db-4810-960e-3bd932034a33
 :END:
 #+title: Station Services Suspended at Gurragchaa Gateway
-#+filetags: :Federation:3301:galnet:
+#+filetags: :3301:Federation:galnet:
 
 * Station Services Suspended at Gurragchaa Gateway
 

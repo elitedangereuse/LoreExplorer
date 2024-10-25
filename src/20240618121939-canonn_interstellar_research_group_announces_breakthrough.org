@@ -2,7 +2,7 @@
 :ID:       94ea006b-e827-472b-be21-fed8ff51a572
 :END:
 #+title: Canonn Interstellar Research Group Announces Breakthrough
-#+filetags: :Thargoid:3301:galnet:
+#+filetags: :3301:Thargoid:galnet:
 
 * Canonn Interstellar Research Group Announces Breakthrough
 

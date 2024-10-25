@@ -2,7 +2,7 @@
 :ID:       ec20acac-51b8-4fbf-ae0e-f6e01cc092e2
 :END:
 #+title: Local Faction Helps Ready Munshin
-#+filetags: :Empire:3301:galnet:
+#+filetags: :3301:Empire:galnet:
 
 * Local Faction Helps Ready Munshin
 

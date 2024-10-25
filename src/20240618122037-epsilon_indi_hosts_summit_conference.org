@@ -2,7 +2,7 @@
 :ID:       8362fafa-278a-46fd-9812-1e6d1767d492
 :END:
 #+title: Epsilon Indi Hosts Summit Conference
-#+filetags: :Federation:Empire:Alliance:3301:galnet:
+#+filetags: :3301:Federation:Empire:Alliance:galnet:
 
 * Epsilon Indi Hosts Summit Conference
 

@@ -2,7 +2,7 @@
 :ID:       57f0a6bf-72ae-475d-aacb-bb2597b36fd2
 :END:
 #+title: Rebels Declare War on the Federation in 78 Ursae Majoris
-#+filetags: :Federation:3301:galnet:
+#+filetags: :3301:Federation:galnet:
 
 * Rebels Declare War on the Federation in 78 Ursae Majoris
 

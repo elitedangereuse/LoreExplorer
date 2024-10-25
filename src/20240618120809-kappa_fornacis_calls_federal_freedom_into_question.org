@@ -2,7 +2,7 @@
 :ID:       2f14f66d-2c1a-4840-8fb0-7fa1364e911f
 :END:
 #+title: Kappa Fornacis Calls Federal Freedom Into Question
-#+filetags: :Federation:Empire:3301:galnet:
+#+filetags: :3301:Federation:Empire:galnet:
 
 * Kappa Fornacis Calls Federal Freedom Into Question
 

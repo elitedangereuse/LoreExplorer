@@ -2,7 +2,7 @@
 :ID:       ac96ac9f-15d3-4ac5-81a4-5a680c91f76d
 :END:
 #+title: Claims of Federal Involvement
-#+filetags: :Empire:Federation:3301:galnet:
+#+filetags: :3301:Empire:Federation:galnet:
 
 * Claims of Federal Involvement
 

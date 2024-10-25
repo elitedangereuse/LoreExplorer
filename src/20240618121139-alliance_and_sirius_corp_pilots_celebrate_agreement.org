@@ -2,7 +2,7 @@
 :ID:       15c539d0-206c-4b7d-94da-b213a1da0ac5
 :END:
 #+title: Alliance and Sirius Corp Pilots Celebrate Agreement
-#+filetags: :Alliance:3301:galnet:
+#+filetags: :3301:Alliance:galnet:
 
 * Alliance and Sirius Corp Pilots Celebrate Agreement
 

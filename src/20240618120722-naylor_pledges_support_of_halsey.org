@@ -2,7 +2,7 @@
 :ID:       c4f7411a-51eb-4e42-8873-530b373fd009
 :END:
 #+title: Naylor Pledges Support of Halsey
-#+filetags: :Federation:3301:galnet:
+#+filetags: :3301:Federation:galnet:
 
 * Naylor Pledges Support of Halsey
 

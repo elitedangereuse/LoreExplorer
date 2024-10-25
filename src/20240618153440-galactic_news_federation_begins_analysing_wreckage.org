@@ -2,7 +2,7 @@
 :ID:       354eb40e-c4c8-4852-b8e8-d3b7d932c357
 :END:
 #+title: Galactic News: Federation Begins Analysing Wreckage
-#+filetags: :Federation:3302:galnet:
+#+filetags: :3301:Federation:3302:galnet:
 
 * Galactic News: Federation Begins Analysing Wreckage
 

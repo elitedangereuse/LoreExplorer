@@ -2,7 +2,7 @@
 :ID:       743ccfdf-ac28-4297-b985-6bc653597a88
 :END:
 #+title: Prism Senator Returns to Empire
-#+filetags: :Empire:Federation:3301:galnet:
+#+filetags: :3301:Empire:Federation:galnet:
 
 * Prism Senator Returns to Empire
 
