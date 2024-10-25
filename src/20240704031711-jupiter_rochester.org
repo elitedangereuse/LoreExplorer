@@ -2,8 +2,9 @@
 :ID:       c33064d1-c2a0-4ac3-89fe-57eedb7ef9c8
 :END:
 #+title: Jupiter Rochester
-#+filetags: :Individual:
+#+filetags: :Federation:Individual:
 
 CEO of [[id:4a28463f-cbed-493b-9466-70cbc6e19662][Core Dynamics]]
 
 Husband of [[id:f3e29df5-154d-4f05-b659-36fa2da9be01][Tomas Turai]]
+Father of [[id:8d2d5396-49bf-45f7-8142-d4aa7975e381][Kali Rochester]]

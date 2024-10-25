@@ -2,17 +2,17 @@
 :ID:       21509516-e203-45e5-bff3-265b15aa30f0
 :END:
 #+title: Rochester Family Attacked
-#+filetags: :Federation:Empire:3304:galnet:
+#+filetags: :Empire:Federation:3304:galnet:
 
-* Rochester Family Attacked
+* [[id:3b0c33aa-114d-4dcc-9e04-b5a233157fa1][Rochester Family]] Attacked
 
 /27 Jul 3304/
 
-Members of the Rochester family have come under personal and political attack following the engagement of Federal Ambassador Jordan Rochester to Princess Aisling Duval. 
+Members of the [[id:3b0c33aa-114d-4dcc-9e04-b5a233157fa1][Rochester family]] have come under personal and political attack following the engagement of Federal Ambassador [[id:81c5c161-1553-44f0-b5fb-c4a58f1f71d7][Jordan Rochester]] to Princess [[id:b402bbe3-5119-4d94-87ee-0ba279658383][Aisling Duval]]. 
 
 Several media outlets shared news of an incident involving Jordan Rochester’s teenage niece: 
 
-“A physical assault against Kali Rochester was reported on campus at Olympus Village University yesterday. Students surrounded Ms Rochester and accosted her while chanting anti-Imperial slogans. The assault was repelled by her private security detail.” 
+“A physical assault against [[id:8d2d5396-49bf-45f7-8142-d4aa7975e381][Kali Rochester]] was reported on campus at Olympus Village University yesterday. Students surrounded Ms Rochester and accosted her while chanting anti-Imperial slogans. The assault was repelled by her private security detail.” 
 
 Meanwhile, Kali’s father [[id:c33064d1-c2a0-4ac3-89fe-57eedb7ef9c8][Jupiter Rochester]] was featured in a financial report from [[id:be5df73c-519d-45ed-a541-9b70bc8ae97c][The Federal Times]]: 
 

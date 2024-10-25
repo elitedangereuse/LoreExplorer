@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       c85eebaa-df77-4a04-9a59-3fc005d95bb2
+:END:
+#+title: Biggs Colony
+#+filetags: :Settlement:
+
+Settlement in the [[id:144149ef-21cd-4e52-afea-dcf379d12d18][Altair]] system

@@ -8,18 +8,44 @@
 
 /07 Jul 3304/
 
-Responding to public interest in Princess Aisling Duval’s fiancé, Federal Ambassador Jordan Rochester, political journalist Cassia Carvalho has compiled a profile for The Imperial Herald: 
+Responding to public interest in Princess [[id:b402bbe3-5119-4d94-87ee-0ba279658383][Aisling Duval]]’s fiancé,
+Federal Ambassador [[id:81c5c161-1553-44f0-b5fb-c4a58f1f71d7][Jordan Rochester]], political journalist [[id:745efc38-c548-40c0-81d2-82973c604d37][Cassia
+Carvalho]] has compiled a profile for [[id:626a18d7-ad16-4093-b9be-d9dc1940594b][The Imperial Herald]]:
 
-“Jordan Rochester is now a household name throughout the Empire, though few were aware of him prior to his engagement to Princess Duval. But in the Federation, the Rochesters have been associated with success for over two hundred years.” 
+“[[id:81c5c161-1553-44f0-b5fb-c4a58f1f71d7][Jordan Rochester]] is now a household name throughout the Empire,
+though few were aware of him prior to his engagement to [[id:b402bbe3-5119-4d94-87ee-0ba279658383][Princess
+Duval]]. But in the Federation, the [[id:3b0c33aa-114d-4dcc-9e04-b5a233157fa1][Rochesters]] have been associated with
+success for over two hundred years.”
 
-“The Rochester name can be traced back to self-made tycoon Apollo Rochester, who was the biggest landowner on Biggs Colony in the Altair system. Each generation since has strived for fame and wealth, and the expression ‘as rich as a Rochester’ has become common parlance.” 
+“The Rochester name can be traced back to self-made tycoon [[id:dbde7c3d-771a-4162-965e-bc339bf4348b][Apollo
+Rochester]], who was the biggest landowner on [[id:c85eebaa-df77-4a04-9a59-3fc005d95bb2][Biggs Colony]] in the [[id:144149ef-21cd-4e52-afea-dcf379d12d18][Altair]]
+system. Each generation since has strived for fame and [[id:f45a004a-7a8e-4596-8515-cc3fa4b2845c][wealth]], and the
+expression ‘as rich as a Rochester’ has become common parlance.”
 
-“The family matriarch is Isolde Rochester. She is a member of Congress, an influential figure in the Liberal Party and a staunch supporter of Shadow President Felicia Winters. Isolde raised five children, including Jordan, and it was her accomplishments that inspired her son to enter politics.” 
+“The family matriarch is [[id:cdb2224f-eb0b-45d0-b37f-9daccae07c32][Isolde Rochester]]. She is a member of
+[[id:614fd344-ec09-483c-a28e-0289590946c4][Congress]], an influential figure in the [[id:4cfca8e0-b6a6-4e86-b777-4754f914fa3e][Liberal Party]] and a staunch
+supporter of [[id:98a18cdb-c516-4c5c-8bd6-c8c4c707e991][Shadow President]] [[id:b9fe58a3-dfb7-480c-afd6-92c3be841be7][Felicia Winters]]. [[id:cdb2224f-eb0b-45d0-b37f-9daccae07c32][Isolde]] raised five
+children, including [[id:81c5c161-1553-44f0-b5fb-c4a58f1f71d7][Jordan]], and it was her accomplishments that
+inspired her son to enter politics.”
 
-“Jordan’s siblings chose different paths. The eldest, [[id:c33064d1-c2a0-4ac3-89fe-57eedb7ef9c8][Jupiter Rochester]], is an executive with Core Dynamics, with a personal fortune in the billions. Fifteen years ago he had his own celebrity marriage, to actor [[id:f3e29df5-154d-4f05-b659-36fa2da9be01][Tomas Turai]]. They now have two teenage children, daughter Kali and son Kalen.” 
+“Jordan’s siblings chose different paths. The eldest, [[id:c33064d1-c2a0-4ac3-89fe-57eedb7ef9c8][Jupiter
+Rochester]], is an executive with [[id:4a28463f-cbed-493b-9466-70cbc6e19662][Core Dynamics]], with a personal fortune
+in the billions. Fifteen years ago he had his own celebrity marriage,
+to actor [[id:f3e29df5-154d-4f05-b659-36fa2da9be01][Tomas Turai]]. They now have two teenage children, daughter
+[[id:8d2d5396-49bf-45f7-8142-d4aa7975e381][Kali]] and son [[id:71fb46e1-ad53-47d6-b3a9-32d67e657605][Kalen]].”
 
-“Jordan’s sisters, Juno and Jocasta, have impressive Navy careers, holding the ranks of Vice Admiral and Post Captain respectively. Only Jordan’s younger brother, Jonah, has no title. He is believed to be the black sheep of the family.” 
+“Jordan’s sisters, [[id:dcd15dc0-47b2-4d66-9232-f23e9cb3881b][Juno]] and [[id:b5d8f8e7-c265-4c37-bdb9-43d6ba78ce7f][Jocasta]], have impressive [[id:3d268496-1d95-49bc-aca6-49d16a4337c8][Navy]] careers,
+holding the ranks of Vice Admiral and Post Captain respectively. Only
+Jordan’s younger brother, [[id:57c0f043-0ce4-4e03-bf0f-7c751704aa6e][Jonah]], has no title. He is believed to be
+the black sheep of the family.”
 
-“Despite being just 34, Jordan has already made his mark. He has overseen several high-level negotiations on behalf of the Federal Diplomatic Corps and is now a trusted envoy, noted for his charm and tact.” 
+“Despite being just 34, Jordan has already made his mark. He has
+overseen several high-level negotiations on behalf of the [[id:46ff5046-45e9-402d-93a3-96f9c1e508a3][Federal
+Diplomatic Corps]] and is now a trusted envoy, noted for his charm and
+tact.”
 
-“His future will be interesting, to say the least. How will he balance being both a Federal statesman and an Imperial consort? And what are the wider ramifications of the Rochester dynasty aligning with the House of Duval? Even more so than his predecessors, Jordan Rochester has already ensured that history will remember his family’s name.”
+“His future will be interesting, to say the least. How will he balance
+being both a Federal statesman and an Imperial consort? And what are
+the wider ramifications of the [[id:3b0c33aa-114d-4dcc-9e04-b5a233157fa1][Rochester]] dynasty aligning with the
+House of [[id:bce02e51-c68c-4594-86fe-88dda4915a74][Duval]]? Even more so than his predecessors, [[id:81c5c161-1553-44f0-b5fb-c4a58f1f71d7][Jordan Rochester]]
+has already ensured that history will remember his family’s name.”

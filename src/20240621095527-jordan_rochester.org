@@ -4,4 +4,10 @@
 #+title: Jordan Rochester
 #+filetags: :Federation:Individual:
 
-A Federal Ambassador in a relationship with [[id:b402bbe3-5119-4d94-87ee-0ba279658383][Aisling Duval]]
+Born in 3270 (was 34 in 3304).
+
+A Federal Ambassador in a relationship with [[id:b402bbe3-5119-4d94-87ee-0ba279658383][Aisling Duval]].
+
+- Father of [[id:8d2d5396-49bf-45f7-8142-d4aa7975e381][Kali Rochester]] and [[id:71fb46e1-ad53-47d6-b3a9-32d67e657605][Kalen Rochester]]
+- Husband of [[id:f3e29df5-154d-4f05-b659-36fa2da9be01][Tomas Turai]]
+- Fiancé of [[id:b402bbe3-5119-4d94-87ee-0ba279658383][Aisling Duval]]
