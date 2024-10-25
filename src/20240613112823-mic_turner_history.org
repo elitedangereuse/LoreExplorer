@@ -2,8 +2,8 @@
 :ID:       b3b11d83-3aa9-4234-ae37-269160bf4603
 :END:
 #+title: Mic Turner History
-#+filetags: :beacon:
-* 0121 Mic Turner History
+#+filetags: :Federation:beacon:
+* 0121 [[id:c46f5348-be85-4d06-bf04-12a9b812d0ad][Mic Turner]] History                               :beacon:EliteHistory:
 [[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]]
 
 Born in 3205, [[id:c46f5348-be85-4d06-bf04-12a9b812d0ad][Mic Turner]] grew up in [[id:cc0edb9e-01ea-4de0-85c3-74bb5b5196df][Jones Colony]] in the [[id:bb5887ea-0ed7-4410-9a7e-814107ea29eb][Essafa]]
@@ -25,4 +25,5 @@ led one of the Caker cells on the gas platforms and was direct
 descendant of [[id:c921a096-a8b0-4ebd-acce-c69bbd5ae4e8][Walter Argent]], a wealthy industrial from [[id:37a0d8e6-0c42-4e05-8d92-a4b75b89308b][Ayethi]] in the
 the 27th century. Argent and Turner were to become partners for life.
 
+[[file:img/beacons/0121.png]]
 [[file:img/beacons/0121B.png]]

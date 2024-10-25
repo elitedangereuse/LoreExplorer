@@ -2,23 +2,4 @@
 :ID:       c46f5348-be85-4d06-bf04-12a9b812d0ad
 :END:
 #+title: Mic Turner
-#+filetags: :beacon:
-* 0121 Mic Turner History                               :beacon:EliteHistory:
-Born in 3205, [[id:c46f5348-be85-4d06-bf04-12a9b812d0ad][Mic Turner]] grew up in [[id:cc0edb9e-01ea-4de0-85c3-74bb5b5196df][Jones Colony]] in the [[id:bb5887ea-0ed7-4410-9a7e-814107ea29eb][Essafa]]
-system. After graduating with honours from the civilian Pilots school,
-he moved to [[id:47df3d18-6cdd-443d-baae-0e3af142a089][New California]] in [[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]], just before the rebellion
-started.
-
-In 3228, when the Federal corporations supplying New California
-attempted to raise their prices again, the citizens revolted, taking
-over the ships berthed in the space station and riding out to the gas
-mining station to assault the corporate workers. Federal and Imperial
-forces arrived within days, but fighters from Alioth and several
-neighbouring independent systems joined forces to repel them.
-
-Turner's [[id:6a2dc1b0-f13c-4595-b844-8f79d5253a61][pilot]] skills saw him amongst the first to fly out to the
-orbital platforms and he won a great deal of respect from his peers
-for his efforts. It was here he met [[id:932c4921-da8d-4652-ab70-a19bdd49a8a3][Meredith Argent]], a scientist who
-led one of the Caker cells on the gas platforms and was direct
-descendant of [[id:c921a096-a8b0-4ebd-acce-c69bbd5ae4e8][Walter Argent]], a wealthy industrial from [[id:37a0d8e6-0c42-4e05-8d92-a4b75b89308b][Ayethi]] in the
-the 27th century. Argent and Turner were to become partners for life.
+#+filetags: :Individual:
