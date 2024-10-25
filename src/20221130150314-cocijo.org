@@ -2,4 +2,6 @@
 :ID:       fbe81b20-15a4-466e-85a6-50816c6e2a99
 :END:
 #+title: Cocijo
+#+filetags: :Thargoid:
 
+Thargoid [[id:ba5ecc8d-cf87-4cf8-9d33-beb5d214e323][Titan]]
