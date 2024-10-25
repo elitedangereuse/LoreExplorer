@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       e8be8dbc-4e91-4ed8-a52c-b60dac65db14
+:END:
+#+title: Derrey Family
+
+- [[id:9a2d42df-cc68-47fa-bdf0-5a71d3801d12][Herschel Derrey]]
+- [[id:a4917d52-3e9f-4c58-b89a-30dba1252ec5][Emily Derrey]]
+
