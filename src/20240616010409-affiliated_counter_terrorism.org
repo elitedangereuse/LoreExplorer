@@ -3,4 +3,6 @@
 :ROAM_ALIASES: ACT
 :END:
 #+title: Affiliated Counter-Terrorism
+#+filetags: :3308:
 
+Disbanded in March 3308
