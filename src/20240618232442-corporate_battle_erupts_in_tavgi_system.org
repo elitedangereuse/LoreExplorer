@@ -2,7 +2,7 @@
 :ID:       f3d5cda1-6931-4463-91e5-8a1195becf85
 :END:
 #+title: Corporate Battle Erupts in Tavgi System
-#+filetags: :Thargoid:Empire:galnet:
+#+filetags: :Empire:Thargoid:galnet:
 
 * Corporate Battle Erupts in Tavgi System
 

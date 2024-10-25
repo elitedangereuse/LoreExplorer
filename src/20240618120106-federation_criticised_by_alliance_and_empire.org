@@ -2,7 +2,7 @@
 :ID:       82c28610-7bfd-42e1-badc-69b5bc5311db
 :END:
 #+title: Federation Criticised by Alliance and Empire
-#+filetags: :Alliance:Federation:galnet:
+#+filetags: :Empire:Alliance:Federation:galnet:
 
 * Federation Criticised by Alliance and Empire
 

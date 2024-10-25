@@ -2,7 +2,7 @@
 :ID:       609eb862-1783-4981-852e-954e94cb3e09
 :END:
 #+title: The Sirius Corporation – The First of the Mega-corporations
-#+filetags: :Federation:Empire:3301:galnet:
+#+filetags: :Empire:Federation:3301:galnet:
 
 * The Sirius Corporation – The First of the Mega-corporations
 

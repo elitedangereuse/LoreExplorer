@@ -2,7 +2,7 @@
 :ID:       28423749-8206-4c31-b7e0-bc346698915e
 :END:
 #+title: Tom Quaterson Death
-#+filetags: :Federation:Empire:beacon:
+#+filetags: :Empire:Federation:beacon:
 * 0118 Tom Quaterson Death
 [[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]]
 

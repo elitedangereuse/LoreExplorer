@@ -2,7 +2,7 @@
 :ID:       007266ac-ec5a-4646-82ad-455cdfdbff58
 :END:
 #+title: Week in Review 29 Dec 3304
-#+filetags: :Alliance:Federation:Empire:3304:galnet:
+#+filetags: :Empire:Alliance:Federation:3304:galnet:
 
 * Week in Review
 

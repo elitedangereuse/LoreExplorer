@@ -2,7 +2,7 @@
 :ID:       8ce15aa4-79fc-42d8-83f1-a2f8c09dc56c
 :END:
 #+title: Community Goal: Total Eclipse
-#+filetags: :Thargoid:CommunityGoal:3303:galnet:
+#+filetags: :Empire:Thargoid:CommunityGoal:3303:galnet:
 
 * Community Goal: Total Eclipse
 

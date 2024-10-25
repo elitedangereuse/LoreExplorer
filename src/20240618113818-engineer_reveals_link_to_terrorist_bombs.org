@@ -2,7 +2,7 @@
 :ID:       5f81eedc-0c71-46bd-9daf-deb8f842ee70
 :END:
 #+title: Engineer Reveals Link to Terrorist Bombs
-#+filetags: :Thargoid:Empire:galnet:
+#+filetags: :Empire:Thargoid:galnet:
 
 * Engineer Reveals Link to Terrorist Bombs
 

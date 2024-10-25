@@ -2,7 +2,7 @@
 :ID:       736e4922-f687-4c57-9f8a-0eb5891e7be9
 :END:
 #+title: Federal Military Expansion
-#+filetags: :Federation:beacon:
+#+filetags: :Empire:Federation:beacon:
 * 0688 Federal Military Expansion
 [[id:acffcea9-44ae-4689-8bc9-74f65c75e0ae][HIP 17225]]
 

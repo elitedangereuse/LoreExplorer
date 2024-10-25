@@ -2,7 +2,7 @@
 :ID:       451b9ff6-9e5b-41ec-a63b-a94ea38ff7fd
 :END:
 #+title: Arissa Addresses the Empire
-#+filetags: :galnet:
+#+filetags: :Empire:galnet:
 
 * Arissa Addresses the Empire
 

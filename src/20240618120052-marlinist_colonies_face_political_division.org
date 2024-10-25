@@ -2,7 +2,7 @@
 :ID:       86ca3023-329f-4416-871d-4724a3f74ce8
 :END:
 #+title: Marlinist Colonies Face Political Division
-#+filetags: :galnet:
+#+filetags: :Empire:galnet:
 
 * Marlinist Colonies Face Political Division
 

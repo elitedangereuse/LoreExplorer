@@ -2,7 +2,7 @@
 :ID:       376539cc-70a2-41f0-987b-32f6d22c685d
 :END:
 #+title: The Shadow of War
-#+filetags: :Thargoid:Federation:Empire:galnet:
+#+filetags: :Empire:Thargoid:Federation:galnet:
 
 * The Shadow of War
 

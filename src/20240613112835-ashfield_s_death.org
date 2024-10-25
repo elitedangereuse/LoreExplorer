@@ -2,7 +2,7 @@
 :ID:       7de703bf-d115-450b-92ad-25a5377a765a
 :END:
 #+title: Ashfield's Death
-#+filetags: :Federation:beacon:
+#+filetags: :Empire:Federation:beacon:
 * 0142 Ashfield's Death
 [[id:dfbc8f06-6724-4a34-a908-f90a2fe3ba43][Zeaex]]
 

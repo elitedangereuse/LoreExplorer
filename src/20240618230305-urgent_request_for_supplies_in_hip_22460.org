@@ -2,7 +2,7 @@
 :ID:       5accf1f2-5a6b-4fcd-93b5-bc28ae0d8c8c
 :END:
 #+title: Urgent Request for Supplies in HIP 22460
-#+filetags: :Alliance:Thargoid:galnet:
+#+filetags: :Empire:Alliance:Thargoid:galnet:
 
 * Urgent Request for Supplies in HIP 22460
 

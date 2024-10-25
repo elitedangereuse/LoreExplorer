@@ -2,7 +2,7 @@
 :ID:       fda0ba1f-a95e-4e37-91de-56fbd6c24904
 :END:
 #+title: Empire and Federation Clash Over Marlinists
-#+filetags: :Federation:Empire:galnet:
+#+filetags: :Empire:Federation:galnet:
 
 * Empire and Federation Clash Over Marlinists
 

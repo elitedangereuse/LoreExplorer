@@ -2,7 +2,7 @@
 :ID:       94e127d1-87b3-43cb-8091-e45fa7f478ca
 :END:
 #+title: Seo Jin-ae: ‘The Thargoids Know We’re Coming’
-#+filetags: :Thargoid:galnet:
+#+filetags: :Empire:Thargoid:galnet:
 
 * [[id:6bcd90ab-54f2-4d9a-9eeb-92815cc7766e][Seo Jin-ae]]: ‘The Thargoids Know We’re Coming’
 

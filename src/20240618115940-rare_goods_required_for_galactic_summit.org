@@ -2,7 +2,7 @@
 :ID:       14ad3f69-536f-47fb-9d82-79098dd75ed4
 :END:
 #+title: Rare Goods Required for Galactic Summit
-#+filetags: :Alliance:galnet:
+#+filetags: :Empire:Alliance:galnet:
 
 * Rare Goods Required for Galactic Summit
 

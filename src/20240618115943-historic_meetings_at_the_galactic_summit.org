@@ -2,7 +2,7 @@
 :ID:       701b502a-139f-4171-a0e8-d058216c06e4
 :END:
 #+title: Historic Meetings at the Galactic Summit
-#+filetags: :Alliance:galnet:
+#+filetags: :Empire:Alliance:galnet:
 
 * Historic Meetings at the Galactic Summit
 

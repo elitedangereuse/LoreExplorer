@@ -2,7 +2,7 @@
 :ID:       278f7e36-3469-4062-8450-1185ea308e6f
 :END:
 #+title: Superpower Systems Overrun by Thargoids
-#+filetags: :Alliance:Thargoid:galnet:
+#+filetags: :Empire:Alliance:Thargoid:galnet:
 
 * Superpower Systems Overrun by Thargoids
 

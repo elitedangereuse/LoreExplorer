@@ -2,7 +2,7 @@
 :ID:       bed8c27f-3cbe-49ad-b86f-7d87eacf804a
 :END:
 #+title: Achenar
-#+filetags: :Permit:Rank:System:
+#+filetags: :Empire:Permit:Rank:System:
 [[file:img/permit.png]]
 
 #+begin_quote

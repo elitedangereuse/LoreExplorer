@@ -2,7 +2,7 @@
 :ID:       e85450a9-e532-4edc-b42b-26fc27bd37af
 :END:
 #+title: The Emperor’s Ire
-#+filetags: :Alliance:Federation:galnet:
+#+filetags: :Empire:Alliance:Federation:galnet:
 
 * The Emperor’s Ire
 

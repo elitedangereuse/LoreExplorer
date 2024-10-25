@@ -2,7 +2,7 @@
 :ID:       0de6dc14-2da4-4838-a5f9-2a1212cd835c
 :END:
 #+title: Theta Seven’s Identity Discovered
-#+filetags: :galnet:
+#+filetags: :Empire:galnet:
 
 * Theta Seven’s Identity Discovered
 

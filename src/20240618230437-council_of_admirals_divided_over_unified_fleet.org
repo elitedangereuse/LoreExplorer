@@ -2,7 +2,7 @@
 :ID:       e409066b-c3b4-49f3-aeb9-2debbe7c8e84
 :END:
 #+title: Council of Admirals Divided Over Unified Fleet
-#+filetags: :Alliance:Thargoid:Empire:galnet:
+#+filetags: :Empire:Alliance:Thargoid:galnet:
 
 * Council of Admirals Divided Over Unified Fleet
 

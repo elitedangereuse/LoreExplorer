@@ -2,7 +2,7 @@
 :ID:       7152afe8-bacd-4aec-a876-bc4fb57a5627
 :END:
 #+title: Week in Review 13 May 3304
-#+filetags: :Thargoid:3304:galnet:
+#+filetags: :Empire:Thargoid:3304:galnet:
 
 * Week in Review
 

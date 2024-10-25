@@ -2,7 +2,7 @@
 :ID:       f72c8ee2-a1e1-4dd5-a284-1b7cc71bfe58
 :END:
 #+title: Galactic News: Federation Takes Pleiades Sector IH-V C2-16
-#+filetags: :Federation:3302:galnet:
+#+filetags: :Empire:Federation:3302:galnet:
 
 * Galactic News: Federation Takes Pleiades Sector IH-V C2-16
 

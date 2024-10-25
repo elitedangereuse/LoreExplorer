@@ -2,7 +2,7 @@
 :ID:       aae70cda-c437-4ffa-ac0a-39703b6aa15a
 :END:
 #+title: Sirius Corporation
-#+filetags: :Corporation:
+#+filetags: :Empire:Corporation:
 
 * Business
   Specializes in the development of and production of fusion reactors.

@@ -2,7 +2,7 @@
 :ID:       8ec888bf-bc94-41a6-a316-c0b3af0c778f
 :END:
 #+title: The Empire's Loss
-#+filetags: :beacon:
+#+filetags: :Empire:beacon:
 * 0137  The Empire's Loss
 [[id:ac80dfeb-9389-4baa-b508-1ae2e4afdd0f][Zeessze]]
 

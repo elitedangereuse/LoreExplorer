@@ -2,7 +2,7 @@
 :ID:       dddeb160-820b-45ff-88f4-667417da2179
 :END:
 #+title: ACT Defies Imperial Decree
-#+filetags: :Alliance:Empire:galnet:
+#+filetags: :Empire:Alliance:galnet:
 
 * ACT Defies Imperial Decree
 

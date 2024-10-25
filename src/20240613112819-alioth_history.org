@@ -2,7 +2,7 @@
 :ID:       39e72fd5-ea91-4537-b091-554b678e69a0
 :END:
 #+title: Alioth History
-#+filetags: :Federation:Empire:beacon:
+#+filetags: :Empire:Federation:beacon:
 * 0115 Alioth History
 [[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]]
 

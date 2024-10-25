@@ -2,7 +2,7 @@
 :ID:       43d9f4d8-59b8-4a30-8511-fabbbb16fed9
 :END:
 #+title: Marlinist Faction Blockaded by Empire
-#+filetags: :galnet:
+#+filetags: :Empire:galnet:
 
 * Marlinist Faction Blockaded by Empire
 

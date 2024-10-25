@@ -2,7 +2,7 @@
 :ID:       9f0904cb-36a7-4867-b147-22fed0491515
 :END:
 #+title: Freelance Report: The Demands of Supply
-#+filetags: :Federation:Empire:3302:galnet:
+#+filetags: :Empire:Federation:3302:galnet:
 
 * Freelance Report: The Demands of Supply
 

@@ -2,7 +2,7 @@
 :ID:       e7789253-a7f3-4c79-ac1c-f0dff76cc549
 :END:
 #+title: Federal Election: The Imperial Perspective
-#+filetags: :Thargoid:Federation:Empire:galnet:
+#+filetags: :Empire:Thargoid:Federation:galnet:
 
 * Federal Election: The Imperial Perspective
 

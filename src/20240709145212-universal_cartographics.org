@@ -2,7 +2,7 @@
 :ID:       2fb00d7f-7234-45fa-8e3c-af685aa8f0d8
 :END:
 #+title: Universal Cartographics
-#+filetags: :Corporation:
+#+filetags: :Empire:Corporation:
 
 * Universal Cartographics
 

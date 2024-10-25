@@ -2,7 +2,7 @@
 :ID:       c3cf6539-6e60-4e46-aa02-caadd85c26f1
 :END:
 #+title: Galactic News: Services Suspended at Thoreau Orbital
-#+filetags: :3302:galnet:
+#+filetags: :Empire:3302:galnet:
 
 * Galactic News: Services Suspended at Thoreau Orbital
 

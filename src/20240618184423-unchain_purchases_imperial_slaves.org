@@ -2,7 +2,7 @@
 :ID:       45022517-2c99-4b62-84c4-6d58ff6e289c
 :END:
 #+title: Unchain Purchases Imperial Slaves
-#+filetags: :galnet:
+#+filetags: :Empire:galnet:
 
 * Unchain Purchases Imperial Slaves
 

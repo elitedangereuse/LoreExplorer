@@ -2,7 +2,7 @@
 :ID:       c7c72092-6fb9-4c3e-865b-d16661a11cdb
 :END:
 #+title: Hera Tani
-#+filetags: :Individual:Rank:engineer:
+#+filetags: :Empire:Individual:Rank:engineer:
 * Location
 The Jet's Hole | [[id:39a3befe-923d-4b8c-9604-c8e0fd360384][Kuwemaki]]
 * How to discover

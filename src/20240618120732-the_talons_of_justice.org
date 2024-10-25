@@ -2,7 +2,7 @@
 :ID:       dd732ad6-cf06-47b1-a09f-55d6746f9dc4
 :END:
 #+title: The Talons of Justice
-#+filetags: :3301:galnet:
+#+filetags: :Empire:3301:galnet:
 
 * The Talons of Justice
 

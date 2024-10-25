@@ -2,7 +2,7 @@
 :ID:       8e544935-e7e2-40db-8b04-4ddac203a164
 :END:
 #+title: Galactic News: Aegis Expanding
-#+filetags: :Alliance:Thargoid:Empire:3303:galnet:
+#+filetags: :Empire:Alliance:Thargoid:3303:galnet:
 
 * Galactic News: Aegis Expanding
 

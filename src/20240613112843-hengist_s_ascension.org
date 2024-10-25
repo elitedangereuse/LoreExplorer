@@ -2,7 +2,7 @@
 :ID:       dde10882-a50e-4148-b748-04ee80e74a9e
 :END:
 #+title: Hengist's Ascension
-#+filetags: :beacon:
+#+filetags: :Empire:beacon:
 * 0151 Hengist's Ascension
 [[id:bed8c27f-3cbe-49ad-b86f-7d87eacf804a][Achenar]]
 

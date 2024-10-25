@@ -2,7 +2,7 @@
 :ID:       42476dd0-a466-4215-b85b-dbd4083ae77b
 :END:
 #+title: Princess Aisling ‘Understood Risk of Speaking Out’
-#+filetags: :Alliance:Thargoid:Empire:galnet:
+#+filetags: :Empire:Alliance:Thargoid:galnet:
 
 * Princess Aisling ‘Understood Risk of Speaking Out’
 

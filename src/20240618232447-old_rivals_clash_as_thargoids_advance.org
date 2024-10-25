@@ -2,7 +2,7 @@
 :ID:       27245bf0-84f7-4a19-9c2b-39f7062914ca
 :END:
 #+title: Old Rivals Clash as Thargoids Advance
-#+filetags: :Thargoid:Empire:galnet:
+#+filetags: :Empire:Thargoid:galnet:
 
 * Old Rivals Clash as Thargoids Advance
 

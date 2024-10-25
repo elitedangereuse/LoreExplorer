@@ -2,7 +2,7 @@
 :ID:       b62347bf-3053-4a6a-877d-5da7bcdc8210
 :END:
 #+title: Superpowers Compete over Golconda’s Future
-#+filetags: :Federation:Empire:galnet:
+#+filetags: :Empire:Federation:galnet:
 
 * Superpowers Compete over [[id:fce1d147-f900-41ec-a92c-3ce3d1cae641][Golconda]]’s Future
 

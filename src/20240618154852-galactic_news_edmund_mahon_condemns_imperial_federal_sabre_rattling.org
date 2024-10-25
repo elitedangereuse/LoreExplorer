@@ -2,7 +2,7 @@
 :ID:       b3f85d27-78e5-4330-b4c1-d4b3fd0c95d2
 :END:
 #+title: Galactic News: Edmund Mahon Condemns Imperial-Federal Sabre Rattling
-#+filetags: :Alliance:Federation:Empire:3302:galnet:
+#+filetags: :Empire:Alliance:Federation:3302:galnet:
 
 * Galactic News: [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74][Edmund Mahon]] Condemns Imperial-Federal Sabre Rattling
 

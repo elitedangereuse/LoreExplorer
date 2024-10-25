@@ -2,7 +2,7 @@
 :ID:       4b2d3b00-4402-42d6-ae05-f688113a047e
 :END:
 #+title: Duvals Rally Around Imperial Mother
-#+filetags: :galnet:
+#+filetags: :Empire:galnet:
 
 * Duvals Rally Around Imperial Mother
 

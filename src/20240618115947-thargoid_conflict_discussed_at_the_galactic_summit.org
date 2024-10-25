@@ -2,7 +2,7 @@
 :ID:       47510e16-666c-46d5-a6b8-c00f7e85d5e6
 :END:
 #+title: Thargoid Conflict Discussed at the Galactic Summit
-#+filetags: :Alliance:Thargoid:Empire:galnet:
+#+filetags: :Empire:Alliance:Thargoid:galnet:
 
 * Thargoid Conflict Discussed at the Galactic Summit
 

@@ -2,7 +2,7 @@
 :ID:       bb272690-5014-486d-baa1-a87e351221f3
 :END:
 #+title: Anti-Federation Terrorists Linked to Artefact Research
-#+filetags: :Alliance:Federation:3301:galnet:
+#+filetags: :Empire:Alliance:Federation:3301:galnet:
 
 * Anti-Federation Terrorists Linked to Artefact Research
 

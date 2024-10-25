@@ -2,7 +2,7 @@
 :ID:       8decef3c-7f9c-4c5b-a0a3-a467aeece20d
 :END:
 #+title: Federal System Resists Imperial Takeover
-#+filetags: :Federation:galnet:
+#+filetags: :Empire:Federation:galnet:
 
 * Federal System Resists Imperial Takeover
 

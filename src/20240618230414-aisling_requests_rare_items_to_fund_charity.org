@@ -2,7 +2,7 @@
 :ID:       fe6ba5c4-a905-4a54-b1db-7ee4becfd4a4
 :END:
 #+title: Aisling Requests Rare Items to Fund Charity
-#+filetags: :Thargoid:Empire:galnet:
+#+filetags: :Empire:Thargoid:galnet:
 
 * Aisling Requests Rare Items to Fund Charity
 

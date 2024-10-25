@@ -2,7 +2,7 @@
 :ID:       61bf165f-5cc7-438c-aaec-70a8e75baed6
 :END:
 #+title: Imperial Internal Security Service Duties
-#+filetags: :beacon:
+#+filetags: :Empire:beacon:
 * 0233 Imperial Internal Security Service Duties
 [[id:33f1322e-3ff8-4b62-8b13-17f62dcf377f][Vequess]]
 

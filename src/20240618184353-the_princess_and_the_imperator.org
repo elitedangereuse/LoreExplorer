@@ -2,7 +2,7 @@
 :ID:       026f5bed-9a7a-4d92-94de-82b405ce7dd8
 :END:
 #+title: The Princess and the Imperator
-#+filetags: :galnet:
+#+filetags: :Empire:galnet:
 
 * The Princess and the Imperator
 

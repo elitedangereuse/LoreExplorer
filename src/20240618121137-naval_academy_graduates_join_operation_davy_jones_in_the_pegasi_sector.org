@@ -2,7 +2,7 @@
 :ID:       8114ff87-e11c-4470-acaf-3d371b2e74d2
 :END:
 #+title: Naval Academy Graduates join "Operation Davy Jones" in the Pegasi Sector
-#+filetags: :3301:galnet:
+#+filetags: :Empire:3301:galnet:
 
 * Naval Academy Graduates join "Operation Davy Jones" in the Pegasi Sector
 

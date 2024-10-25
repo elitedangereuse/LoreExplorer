@@ -2,7 +2,7 @@
 :ID:       ca48152f-c37b-4eb1-b732-b1beb1058ebd
 :END:
 #+title: Final Maelstroms Advance Thargoid Occupation
-#+filetags: :Alliance:Thargoid:galnet:
+#+filetags: :Empire:Alliance:Thargoid:galnet:
 
 * Final Maelstroms Advance Thargoid Occupation
 

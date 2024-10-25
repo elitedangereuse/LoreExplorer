@@ -2,7 +2,7 @@
 :ID:       8f2ee111-e44b-4d01-9988-4c4310fcfe57
 :END:
 #+title: Community Goal: Halsey Requests Relief
-#+filetags: :CommunityGoal:Empire:3303:galnet:
+#+filetags: :Empire:CommunityGoal:3303:galnet:
 
 * Community Goal: Halsey Requests Relief
 

@@ -2,7 +2,7 @@
 :ID:       72d18c75-5768-4309-916f-32f7383cec5d
 :END:
 #+title: The Fall of Nova Imperium
-#+filetags: :Alliance:Thargoid:Empire:galnet:
+#+filetags: :Empire:Alliance:Thargoid:galnet:
 
 * The Fall of Nova Imperium
 

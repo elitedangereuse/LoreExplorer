@@ -2,7 +2,7 @@
 :ID:       f326b5d2-4a93-4eb6-b5ac-7ecf218bdc27
 :END:
 #+title: Capital Ship Construction Initiatives Conclude
-#+filetags: :Federation:Empire:galnet:
+#+filetags: :Empire:Federation:galnet:
 
 * Capital Ship Construction Initiatives Conclude
 

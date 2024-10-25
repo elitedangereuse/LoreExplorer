@@ -2,7 +2,7 @@
 :ID:       ff25ede9-d296-49c5-9cc0-d7bd3c5a5717
 :END:
 #+title: Emperor Celebrates Imperial Strength
-#+filetags: :Thargoid:Empire:galnet:
+#+filetags: :Empire:Thargoid:galnet:
 
 * Emperor Celebrates Imperial Strength
 

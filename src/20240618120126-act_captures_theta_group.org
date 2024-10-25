@@ -2,7 +2,7 @@
 :ID:       28394b64-1715-49b3-afad-0c737413d448
 :END:
 #+title: ACT Captures Theta Group
-#+filetags: :Thargoid:galnet:
+#+filetags: :Empire:Thargoid:galnet:
 
 * ACT Captures Theta Group
 

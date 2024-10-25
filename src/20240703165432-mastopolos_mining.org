@@ -2,7 +2,7 @@
 :ID:       4dfc1d85-8d12-4503-a4ed-84da898a03ba
 :END:
 #+title: Mastopolos Mining
-#+filetags: :Alliance:Empire:Corporation:
+#+filetags: :Empire:Alliance:Corporation:
 
 * Mastopolos Mining
 

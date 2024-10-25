@@ -2,7 +2,7 @@
 :ID:       5b9fbf17-62a2-4469-8927-02e5f004ff8b
 :END:
 #+title: Senators Support Nova Imperium
-#+filetags: :Thargoid:3304:galnet:
+#+filetags: :Empire:Thargoid:3304:galnet:
 
 * Senators Support Nova Imperium
 

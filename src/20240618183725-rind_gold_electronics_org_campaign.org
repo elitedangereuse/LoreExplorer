@@ -2,7 +2,7 @@
 :ID:       0f607e04-b867-4eb8-b474-8eda2ff3bf90
 :END:
 #+title: Rind Gold Electronics Org Campaign
-#+filetags: :3304:galnet:
+#+filetags: :Empire:3304:galnet:
 
 * Rind Gold Electronics Org Campaign
 

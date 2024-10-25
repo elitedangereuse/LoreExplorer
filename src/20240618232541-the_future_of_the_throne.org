@@ -2,7 +2,7 @@
 :ID:       d9bb68cb-3dcb-41a7-bc7b-4f148fa2a2c4
 :END:
 #+title: The Future of the Throne
-#+filetags: :galnet:
+#+filetags: :Empire:galnet:
 
 * The Future of the Throne
 

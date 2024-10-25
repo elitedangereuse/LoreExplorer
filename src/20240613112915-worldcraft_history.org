@@ -2,7 +2,7 @@
 :ID:       1a7a4e0c-463e-49f5-a68e-bfdc18311bc2
 :END:
 #+title: WorldCraft History
-#+filetags: :Federation:beacon:
+#+filetags: :Empire:Federation:beacon:
 * 0210 WorldCraft History
 [[id:a17c479c-5ee8-42c1-8fee-22cbf1407db9][Epsilon Eridani]]
 

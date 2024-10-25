@@ -2,7 +2,7 @@
 :ID:       dc8a7c09-975f-4e60-b620-b0773e4c3869
 :END:
 #+title: Week in Review 24 Nov 3304
-#+filetags: :Alliance:3304:galnet:
+#+filetags: :Empire:Alliance:3304:galnet:
 
 * Week in Review
 

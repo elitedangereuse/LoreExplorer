@@ -2,7 +2,7 @@
 :ID:       40cb55df-ddb4-4fe8-a244-1e8099617374
 :END:
 #+title: Thargoid Warpath May Threaten Marlinists
-#+filetags: :Thargoid:galnet:
+#+filetags: :Empire:Thargoid:galnet:
 
 * Thargoid Warpath May Threaten Marlinists
 

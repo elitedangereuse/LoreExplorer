@@ -2,7 +2,7 @@
 :ID:       3e9fa837-773b-4430-82c9-3f58d26b941e
 :END:
 #+title: Freelance Report: Strategic Resource Denial
-#+filetags: :Federation:Empire:3302:galnet:
+#+filetags: :Empire:Federation:3302:galnet:
 
 * Freelance Report: Strategic Resource Denial
 

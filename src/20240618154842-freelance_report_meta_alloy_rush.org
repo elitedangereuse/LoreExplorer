@@ -2,7 +2,7 @@
 :ID:       a7fe6cd5-6202-4b89-8d5b-6fc5ae0089c4
 :END:
 #+title: Freelance Report: Meta-Alloy Rush
-#+filetags: :Federation:Empire:3302:galnet:
+#+filetags: :Empire:Federation:3302:galnet:
 
 * Freelance Report: Meta-Alloy Rush
 

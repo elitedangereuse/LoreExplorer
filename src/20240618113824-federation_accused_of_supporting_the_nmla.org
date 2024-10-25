@@ -2,7 +2,7 @@
 :ID:       b67d2fe7-e663-4183-991e-553b41b8b66e
 :END:
 #+title: Federation Accused of Supporting the NMLA
-#+filetags: :Thargoid:Empire:galnet:
+#+filetags: :Empire:Thargoid:galnet:
 
 * Federation Accused of Supporting the NMLA
 

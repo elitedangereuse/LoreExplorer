@@ -2,7 +2,7 @@
 :ID:       c4f821b6-d782-4e7f-8a5c-032ec9aef251
 :END:
 #+title: Blood on the Senate Floor
-#+filetags: :galnet:
+#+filetags: :Empire:galnet:
 
 * Blood on the Senate Floor
 

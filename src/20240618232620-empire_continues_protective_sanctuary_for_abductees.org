@@ -2,7 +2,7 @@
 :ID:       092e545c-710a-4bcc-8cd7-ca22c1ec4083
 :END:
 #+title: Empire Continues ‘Protective Sanctuary’ for Abductees
-#+filetags: :Alliance:Thargoid:Empire:galnet:
+#+filetags: :Empire:Alliance:Thargoid:galnet:
 
 * Empire Continues ‘Protective Sanctuary’ for Abductees
 

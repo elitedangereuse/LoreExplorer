@@ -3,7 +3,7 @@
 :ROAM_ALIASES: "Kahina Tijani Loren"
 :END:
 #+title: Salomé
-#+filetags: :Individual:
+#+filetags: :Empire:Individual:
 Thief of [[id:da2f167d-0157-4deb-afb2-98bf6518cf01][Meta-Alloys]]
 Kahina Tijani Loren aka CMDR [[id:2f09bc24-0885-4d00-9d1f-506b32464dbe][Salomé]] is a member of The Empire
 

@@ -2,7 +2,7 @@
 :ID:       d816e722-837d-4145-a549-e179d0de4564
 :END:
 #+title: An Heir for Hadrian Duval
-#+filetags: :galnet:
+#+filetags: :Empire:galnet:
 
 * An Heir for Hadrian Duval
 

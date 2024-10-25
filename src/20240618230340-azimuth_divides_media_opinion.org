@@ -2,7 +2,7 @@
 :ID:       2852223d-0661-4ad3-9ffb-37e8f73084c0
 :END:
 #+title: Azimuth Divides Media Opinion
-#+filetags: :Alliance:Thargoid:galnet:
+#+filetags: :Empire:Alliance:Thargoid:galnet:
 
 * Azimuth Divides Media Opinion
 

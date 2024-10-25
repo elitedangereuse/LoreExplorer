@@ -3,7 +3,7 @@
 :ROAM_REFS: https://cms.zaonce.net/en-GB/jsonapi/node/galnet_article/66a91533-db37-4e8c-a1a3-c6cc43429802?resourceVersion=id%3A4850
 :END:
 #+title: Commodities Delivered to Build Marlinist Colonies
-#+filetags: :Federation:Empire:galnet:
+#+filetags: :Empire:Federation:galnet:
 
 * Commodities Delivered to Build Marlinist Colonies
 

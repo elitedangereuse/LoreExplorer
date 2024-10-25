@@ -2,7 +2,7 @@
 :ID:       1dd28c93-e7a2-4e39-828b-75f904f4a614
 :END:
 #+title: Superpowers Respond to ‘Nine Martyrs’ Attack
-#+filetags: :Alliance:galnet:
+#+filetags: :Empire:Alliance:galnet:
 
 * Superpowers Respond to ‘Nine Martyrs’ Attack
 

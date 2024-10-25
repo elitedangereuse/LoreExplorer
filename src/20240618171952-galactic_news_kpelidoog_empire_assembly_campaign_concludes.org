@@ -2,7 +2,7 @@
 :ID:       25d6dc23-993f-4d15-af50-a4f0542b21be
 :END:
 #+title: Galactic News: Kpelidoog Empire Assembly Campaign Concludes
-#+filetags: :3303:galnet:
+#+filetags: :Empire:3303:galnet:
 
 * Galactic News: Kpelidoog Empire Assembly Campaign Concludes
 

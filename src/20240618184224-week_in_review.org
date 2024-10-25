@@ -2,7 +2,7 @@
 :ID:       50eb67a3-af09-4f15-8ee8-f2a02bd2dcc6
 :END:
 #+title: Week in Review 12 Jan 3305
-#+filetags: :galnet:
+#+filetags: :Empire:galnet:
 
 * Week in Review
 

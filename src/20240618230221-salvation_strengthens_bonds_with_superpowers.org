@@ -2,7 +2,7 @@
 :ID:       fb2a44cb-8933-40f9-8be9-588c9237302c
 :END:
 #+title: Salvation Strengthens Bonds with Superpowers
-#+filetags: :Alliance:Thargoid:galnet:
+#+filetags: :Empire:Alliance:Thargoid:galnet:
 
 * [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]] Strengthens Bonds with Superpowers
 

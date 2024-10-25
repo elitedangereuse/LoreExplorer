@@ -2,7 +2,7 @@
 :ID:       f831dd13-cfe0-40e3-9c96-83b0b76add4f
 :END:
 #+title: Aegis Demands Reinstatement
-#+filetags: :Alliance:Thargoid:galnet:
+#+filetags: :Empire:Alliance:Thargoid:galnet:
 
 * Aegis Demands Reinstatement
 

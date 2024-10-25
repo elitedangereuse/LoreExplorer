@@ -2,7 +2,7 @@
 :ID:       76eb648e-a431-4092-a5e7-7bd3418f31f2
 :END:
 #+title: Thargoid Salvage Operation Requires Resources
-#+filetags: :Alliance:Thargoid:galnet:
+#+filetags: :Empire:Alliance:Thargoid:galnet:
 
 * Thargoid Salvage Operation Requires Resources
 

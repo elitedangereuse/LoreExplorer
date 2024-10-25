@@ -2,7 +2,7 @@
 :ID:       ab5c21fe-e6cb-4327-bb5e-230e4d69c923
 :END:
 #+title: Yong-Rui: ‘History Will Judge Sirius’
-#+filetags: :Alliance:Federation:Empire:galnet:
+#+filetags: :Empire:Alliance:Federation:galnet:
 
 * Yong-Rui: ‘History Will Judge Sirius’
 

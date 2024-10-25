@@ -2,7 +2,7 @@
 :ID:       eb308f5a-167e-41bc-8438-3fec3fed1a08
 :END:
 #+title: The Voice of the Empire
-#+filetags: :Thargoid:Empire:galnet:
+#+filetags: :Empire:Thargoid:galnet:
 
 * The Voice of the Empire
 

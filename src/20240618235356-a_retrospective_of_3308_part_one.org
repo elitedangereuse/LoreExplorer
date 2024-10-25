@@ -3,7 +3,7 @@
 :ROAM_REFS: https://news.galnet.fr/a-retrospective-of-3308-part-one/
 :END:
 #+title: A Retrospective of 3308 (Part One)
-#+filetags: :Alliance:Thargoid:3309:Federation:Empire:galnet:3308:
+#+filetags: :Empire:Alliance:Thargoid:3309:Federation:galnet:3308:
 
 In the first of a three-part series of articles, the historian [[id:e13ec234-b603-4a29-870d-2b87410195ea][Sima
 Kalhana]] reviews the key events of the past year.

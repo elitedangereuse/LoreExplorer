@@ -2,7 +2,7 @@
 :ID:       ddb042a9-abaa-49cb-a470-7d443f98cf2a
 :END:
 #+title: Death of a Duval
-#+filetags: :galnet:
+#+filetags: :Empire:galnet:
 
 * Death of a Duval
 

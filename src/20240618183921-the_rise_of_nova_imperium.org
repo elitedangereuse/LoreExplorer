@@ -2,7 +2,7 @@
 :ID:       8849f71e-d4d3-4fa9-9592-3a18d1908c49
 :END:
 #+title: The Rise of Nova Imperium
-#+filetags: :Thargoid:Empire:3304:galnet:
+#+filetags: :Empire:Thargoid:3304:galnet:
 
 * The Rise of Nova Imperium
 

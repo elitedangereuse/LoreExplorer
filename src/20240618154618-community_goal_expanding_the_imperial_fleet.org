@@ -2,7 +2,7 @@
 :ID:       5b5e3c5b-37fe-47c5-b7ed-0e4619c840bd
 :END:
 #+title: Community Goal: Expanding the Imperial Fleet
-#+filetags: :CommunityGoal:Empire:3302:galnet:
+#+filetags: :Empire:CommunityGoal:3302:galnet:
 
 * Community Goal: Expanding the Imperial Fleet
 

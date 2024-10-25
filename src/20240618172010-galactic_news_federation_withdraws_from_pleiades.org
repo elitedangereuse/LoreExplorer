@@ -2,7 +2,7 @@
 :ID:       10668fdd-5eb6-4af1-978b-988dfdf2eb21
 :END:
 #+title: Galactic News: Federation Withdraws from Pleiades
-#+filetags: :Thargoid:Federation:Empire:3303:galnet:
+#+filetags: :Empire:Thargoid:Federation:3303:galnet:
 
 * Galactic News: Federation Withdraws from Pleiades
 

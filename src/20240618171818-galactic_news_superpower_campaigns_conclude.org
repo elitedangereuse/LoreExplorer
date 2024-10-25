@@ -2,7 +2,7 @@
 :ID:       0e55c622-ae9f-4c1b-ac53-dea16159477a
 :END:
 #+title: Galactic News: Superpower Campaigns Conclude
-#+filetags: :Federation:3303:galnet:
+#+filetags: :Empire:Federation:3303:galnet:
 
 * Galactic News: Superpower Campaigns Conclude
 

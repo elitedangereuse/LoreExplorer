@@ -2,7 +2,7 @@
 :ID:       a7aec80f-1751-4bb4-a9f6-6fca026f650f
 :END:
 #+title: Crime Wave Raises Security Concerns
-#+filetags: :galnet:
+#+filetags: :Empire:galnet:
 
 * Crime Wave Raises Security Concerns
 

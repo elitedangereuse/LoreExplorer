@@ -2,7 +2,7 @@
 :ID:       8f22be67-e066-4f74-b8ea-bfbeb4c6f8e2
 :END:
 #+title: Community Goal: The Fight for Pleiades Sector IH-V C2-16
-#+filetags: :CommunityGoal:Federation:3302:galnet:
+#+filetags: :Empire:CommunityGoal:Federation:3302:galnet:
 
 * Community Goal: The Fight for Pleiades Sector IH-V C2-16
 

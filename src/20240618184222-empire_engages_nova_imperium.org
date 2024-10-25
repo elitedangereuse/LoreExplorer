@@ -2,7 +2,7 @@
 :ID:       ef7243fe-4f7f-4900-abc2-3bb8c4d75b16
 :END:
 #+title: Empire Engages Nova Imperium
-#+filetags: :galnet:
+#+filetags: :Empire:galnet:
 
 * Empire Engages Nova Imperium
 

@@ -2,7 +2,7 @@
 :ID:       c40c696e-bd5a-4c64-9409-ccbd2abd27c3
 :END:
 #+title: Federal and Imperial Forces Engage in Battle
-#+filetags: :galnet:
+#+filetags: :Empire:galnet:
 
 * Federal and Imperial Forces Engage in Battle
 

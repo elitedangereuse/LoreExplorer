@@ -2,7 +2,7 @@
 :ID:       04102ddf-5575-4ade-85b6-7cbaafb403a1
 :END:
 #+title: Orden de Comandantes Imperiales Capture Kamocan for Princess
-#+filetags: :3301:galnet:
+#+filetags: :Empire:3301:galnet:
 
 * Orden de Comandantes Imperiales Capture Kamocan for Princess
 

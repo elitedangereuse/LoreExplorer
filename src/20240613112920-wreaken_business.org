@@ -2,7 +2,7 @@
 :ID:       af13388b-215b-4110-b75f-bb5e0be4c807
 :END:
 #+title: Wreaken Business
-#+filetags: :Alliance:Empire:beacon:
+#+filetags: :Empire:Alliance:beacon:
 * 0218  Wreaken Business
 [[id:bb8ac014-a3ac-4564-9c3a-7aaff6536d59][Zearla]]
 

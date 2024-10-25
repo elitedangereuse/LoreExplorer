@@ -2,7 +2,7 @@
 :ID:       83d3e671-b8f1-4839-8a3e-88efac9f795c
 :END:
 #+title: Empire and Federation Increase Capital Ship Production
-#+filetags: :Federation:galnet:
+#+filetags: :Empire:Federation:galnet:
 
 * Empire and Federation Increase Capital Ship Production
 

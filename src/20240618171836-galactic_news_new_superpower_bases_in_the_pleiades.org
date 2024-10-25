@@ -2,7 +2,7 @@
 :ID:       bda9191c-3f86-4476-bfc2-129aa2940675
 :END:
 #+title: Galactic News: New Superpower Bases in the Pleiades
-#+filetags: :Federation:Empire:3303:galnet:
+#+filetags: :Empire:Federation:3303:galnet:
 
 * Galactic News: New Superpower Bases in the Pleiades
 

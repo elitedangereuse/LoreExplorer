@@ -2,4 +2,5 @@
 :ID:       a4742b9a-2519-400a-9e11-50710be11771
 :END:
 #+title: The Durn and Resner Corporation
+#+filetags: :Empire:
 The Empire

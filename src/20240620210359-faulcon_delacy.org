@@ -2,7 +2,7 @@
 :ID:       273d7834-fe3f-4b12-b045-d5d8a62e719a
 :END:
 #+title: Faulcon DeLacy
-#+filetags: :Alliance:Corporation:
+#+filetags: :Empire:Alliance:Corporation:
 
 * Faulcon DeLacy
 

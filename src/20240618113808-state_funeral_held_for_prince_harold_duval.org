@@ -2,7 +2,7 @@
 :ID:       f3c6d3a4-b62c-4863-bf58-426a14483843
 :END:
 #+title: State Funeral Held for Prince Harold Duval
-#+filetags: :Alliance:Empire:galnet:
+#+filetags: :Empire:Alliance:galnet:
 
 * State Funeral Held for Prince Harold Duval
 

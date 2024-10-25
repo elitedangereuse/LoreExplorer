@@ -2,7 +2,7 @@
 :ID:       fed0655d-b1b6-4136-adf7-9e688793af93
 :END:
 #+title: Governor Santorini's Assassination
-#+filetags: :Federation:Empire:beacon:
+#+filetags: :Empire:Federation:beacon:
 * 0148 Governor Santorini's Assassination
 [[id:da11b7b5-2c5a-4f17-9cd4-ce28a2f34dbd][Tau Ceti]]  
 

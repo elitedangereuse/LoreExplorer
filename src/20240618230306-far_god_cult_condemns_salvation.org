@@ -2,7 +2,7 @@
 :ID:       3dd85392-8fd3-4839-bc79-5a805dea86c2
 :END:
 #+title: Far God Cult Condemns Salvation
-#+filetags: :Thargoid:galnet:
+#+filetags: :Empire:Thargoid:galnet:
 
 * [[id:04ae001b-eb07-4812-a42e-4bb72825609b][Far God]] Cult Condemns Salvation
 

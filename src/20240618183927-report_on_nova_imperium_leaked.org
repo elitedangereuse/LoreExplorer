@@ -2,7 +2,7 @@
 :ID:       93158d6f-7ea1-4532-afc3-489aca8757cf
 :END:
 #+title: Report on Nova Imperium Leaked
-#+filetags: :Thargoid:3304:galnet:
+#+filetags: :Empire:Thargoid:3304:galnet:
 
 * Report on Nova Imperium Leaked
 

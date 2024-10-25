@@ -2,7 +2,7 @@
 :ID:       29a37c40-cdc6-41ec-ac97-baade1caeec8
 :END:
 #+title: Freelance Report: Keeping an Eye on Naval Expansion
-#+filetags: :Alliance:Federation:Empire:3302:galnet:
+#+filetags: :Empire:Alliance:Federation:3302:galnet:
 
 * Freelance Report: Keeping an Eye on Naval Expansion
 

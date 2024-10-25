@@ -2,7 +2,7 @@
 :ID:       d341e135-84c0-4511-9987-a0912c6da435
 :END:
 #+title: NMLA Megaship Becomes Marlinist Flagship
-#+filetags: :galnet:
+#+filetags: :Empire:galnet:
 
 * NMLA Megaship Becomes Marlinist Flagship
 

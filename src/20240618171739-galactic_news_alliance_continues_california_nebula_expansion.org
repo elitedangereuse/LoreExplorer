@@ -2,7 +2,7 @@
 :ID:       96a7e47c-5858-46f6-bbfd-6fc5bbbe61ce
 :END:
 #+title: Galactic News: Alliance Continues California Nebula Expansion
-#+filetags: :Alliance:Empire:3303:galnet:
+#+filetags: :Empire:Alliance:3303:galnet:
 
 * Galactic News: Alliance Continues California Nebula Expansion
 

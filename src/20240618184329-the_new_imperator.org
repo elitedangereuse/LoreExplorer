@@ -2,7 +2,7 @@
 :ID:       08d8f525-ea01-44fc-a7c7-f5bacd8dad5d
 :END:
 #+title: The New Imperator
-#+filetags: :galnet:
+#+filetags: :Empire:galnet:
 
 * The New Imperator
 

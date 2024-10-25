@@ -2,7 +2,7 @@
 :ID:       ec5357bf-8520-495a-b00b-fdb103588937
 :END:
 #+title: Community Goal: The Battle for Neits
-#+filetags: :CommunityGoal:Federation:Empire:3302:galnet:
+#+filetags: :Empire:CommunityGoal:Federation:3302:galnet:
 
 * Community Goal: The Battle for Neits
 

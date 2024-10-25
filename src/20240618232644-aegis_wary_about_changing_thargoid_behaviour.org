@@ -2,7 +2,7 @@
 :ID:       93116f37-e98e-4267-af21-d5bdecd5d009
 :END:
 #+title: Aegis Wary About Changing Thargoid Behaviour
-#+filetags: :Thargoid:galnet:
+#+filetags: :Empire:Thargoid:galnet:
 
 * Aegis Wary About Changing Thargoid Behaviour
 

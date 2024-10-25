@@ -2,7 +2,7 @@
 :ID:       983f0684-7cfb-4df3-8641-afc9abf41be0
 :END:
 #+title: Terror Attacks Used Thargoid-Derived Explosives
-#+filetags: :Thargoid:galnet:
+#+filetags: :Empire:Thargoid:galnet:
 
 * Terror Attacks Used Thargoid-Derived Explosives
 

@@ -2,7 +2,7 @@
 :ID:       34d2c5b2-b583-436b-b166-a073ade0c274
 :END:
 #+title: Caker Coup
-#+filetags: :Federation:beacon:
+#+filetags: :Empire:Federation:beacon:
 * 0119 Caker Coup
 [[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]]  
 

@@ -3,6 +3,7 @@
 :ROAM_ALIASES: NMLA
 :END:
 #+title: Neo-Marlinist Liberation Army
+#+filetags: :Empire:
 The Empire
 
 - [[id:ea411bad-7416-4602-a77e-89d869727d0b][The Dyson City Bombing]]

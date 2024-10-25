@@ -2,7 +2,7 @@
 :ID:       5836e183-9798-48f9-ba8b-f6995540aa24
 :END:
 #+title: Galactic News: A Bright Future for D'Arrest Station
-#+filetags: :3302:galnet:
+#+filetags: :Empire:3302:galnet:
 
 * Galactic News: A Bright Future for D'Arrest Station
 

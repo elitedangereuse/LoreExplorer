@@ -2,7 +2,7 @@
 :ID:       54717576-241e-4d4e-9359-2420ffba77cb
 :END:
 #+title: Galactic News: Halsey Stages Anti-War Protest
-#+filetags: :Alliance:Federation:Empire:3303:galnet:
+#+filetags: :Empire:Alliance:Federation:3303:galnet:
 
 * Galactic News: Halsey Stages Anti-War Protest
 

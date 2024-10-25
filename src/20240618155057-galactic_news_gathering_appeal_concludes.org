@@ -2,7 +2,7 @@
 :ID:       e1306bf1-c09c-403e-83cd-af4c356a033d
 :END:
 #+title: Galactic News: Gathering Appeal Concludes
-#+filetags: :3302:galnet:
+#+filetags: :Empire:3302:galnet:
 
 * Galactic News: Gathering Appeal Concludes
 

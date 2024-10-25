@@ -2,7 +2,7 @@
 :ID:       b4892958-b513-46dc-b74e-26887b53f678
 :END:
 #+title: Yuri Grom
-#+filetags: :Alliance:KnowledgeBase:Codex:Individual:
+#+filetags: :Empire:Alliance:KnowledgeBase:Codex:Individual:
 
 * Yuri Grom
 

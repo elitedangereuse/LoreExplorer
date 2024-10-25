@@ -2,7 +2,7 @@
 :ID:       100b9ae1-d1fa-43c2-87b7-d4550ce68d00
 :END:
 #+title: Ambassador Condemns Entrapment of Yuri Grom
-#+filetags: :Alliance:Federation:galnet:
+#+filetags: :Empire:Alliance:Federation:galnet:
 
 * Ambassador Condemns Entrapment of Yuri Grom
 

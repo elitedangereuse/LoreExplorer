@@ -2,7 +2,7 @@
 :ID:       d1b2cad4-1bcf-499a-b135-e31756517d16
 :END:
 #+title: Superpowers Make Progress at the Galactic Summit
-#+filetags: :Alliance:Thargoid:galnet:
+#+filetags: :Empire:Alliance:Thargoid:galnet:
 
 * Superpowers Make Progress at the Galactic Summit
 

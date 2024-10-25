@@ -2,7 +2,7 @@
 :ID:       8fb51d00-c0ed-42b6-86d1-c37d7fecc961
 :END:
 #+title: Thargoids Defend Meta-Alloy Sources
-#+filetags: :Alliance:Thargoid:galnet:
+#+filetags: :Empire:Alliance:Thargoid:galnet:
 
 * Thargoids Defend Meta-Alloy Sources
 

@@ -2,7 +2,7 @@
 :ID:       b402bbe3-5119-4d94-87ee-0ba279658383
 :END:
 #+title: Aisling Duval
-#+filetags: :KnowledgeBase:Individual:
+#+filetags: :Empire:KnowledgeBase:Individual:
 * Aisling Duval
 
 #+begin_quote
