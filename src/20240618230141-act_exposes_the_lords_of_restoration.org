@@ -10,7 +10,7 @@
 
 The Affiliated Counter-Terrorism unit has unveiled a secret cabal of Imperial senators who masterminded the NMLA’s terrorist activity. 
 
-The information was obtained after ACT successfully penetrated the NMLA’s dark-comms network. Captain [[id:ccaf380d-14e8-4a1a-9458-8c3bad87b25c][Saskia Landau]] provided this summary to the media: 
+The information was obtained after ACT successfully penetrated the NMLA’s [[id:b58b26bb-8465-42a9-896c-4c0e97d20444][dark-comms]] network. Captain [[id:ccaf380d-14e8-4a1a-9458-8c3bad87b25c][Saskia Landau]] provided this summary to the media: 
 
 “Senators Gereon, Jourdain, Nerva, Scordato and Torquatus were at the heart of a powerful conspiracy to permanently remove the position of Emperor. They called themselves the Lords of Restoration, based on their aim to restore executive power to the Senate.” 
 

@@ -20,4 +20,4 @@ Captain Niamh Seutonia, one of ACT’s joint leaders, told the media:
 
 Inspector Mara Klatt also provided a brief progress report: 
 
-“Our working theory is that the [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] employs an undetectable interstellar communications system to coordinate its attacks. A similar dark-comms network was used by the League of Reparation before we decrypted it, but this version is evidently more sophisticated. We are liaising with local security services to gather evidence.”
+“Our working theory is that the [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] employs an undetectable interstellar communications system to coordinate its attacks. A similar [[id:b58b26bb-8465-42a9-896c-4c0e97d20444][dark-comms]] network was used by the League of Reparation before we decrypted it, but this version is evidently more sophisticated. We are liaising with local security services to gather evidence.”

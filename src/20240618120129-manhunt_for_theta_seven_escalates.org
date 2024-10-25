@@ -18,7 +18,7 @@ This latest breakthrough was explained by Captain Milo Castile:
 
 “Theta Group managed to delete most of their data prior to capture, but we retrieved a short message that they received on the 31st of July. At this point most of Theta Group were being harboured by Neo-Marlinist sympathisers within the Marlinist Colonies, but [[id:7878ad2d-4118-4028-bfff-90a3976313bd][Theta Seven]] and his closest aides had fled to an unknown destination.” 
 
-“Unfortunately the message has been encrypted using a pre-arranged cipher key, without which its contents are unreadable. It is unclear why this wasn’t transmitted via the NMLA’s dark-comms network, which remains undetectable despite our best efforts.” 
+“Unfortunately the message has been encrypted using a pre-arranged cipher key, without which its contents are unreadable. It is unclear why this wasn’t transmitted via the NMLA’s [[id:b58b26bb-8465-42a9-896c-4c0e97d20444][dark-comms]] network, which remains undetectable despite our best efforts.” 
 
 “As it’s possible that this was sent by Theta Seven, we welcome any assistance from the galactic community in decoding it. This ruthless terrorist must be tracked down before he can take more innocent lives.” 
 

@@ -12,7 +12,7 @@ The Affiliated Counter-Terrorism unit is actively investigating [[id:45d78e5d-27
 
 Inspector Mara Klatt, one of ACT’s co-leaders, told the media: 
 
-“We are convinced that elements within [[id:45d78e5d-27b7-48cb-97b2-012934be3180][Imperial Intelligence]] provided support to the NMLA. Our view is that a modified version of the [[id:22dfd239-84ed-4b35-aa95-bc955ca95e8b][Omega Grid]] software was supplied to the terrorists, allowing them to build their own dark-comms network. Thanks to Captain [[id:ccaf380d-14e8-4a1a-9458-8c3bad87b25c][Saskia Landau]]’s inside knowledge, we are learning how to detect a unique identifier associated with the network employed by the NMLA.” 
+“We are convinced that elements within [[id:45d78e5d-27b7-48cb-97b2-012934be3180][Imperial Intelligence]] provided support to the NMLA. Our view is that a modified version of the [[id:22dfd239-84ed-4b35-aa95-bc955ca95e8b][Omega Grid]] software was supplied to the terrorists, allowing them to build their own [[id:b58b26bb-8465-42a9-896c-4c0e97d20444][dark-comms]] network. Thanks to Captain [[id:ccaf380d-14e8-4a1a-9458-8c3bad87b25c][Saskia Landau]]’s inside knowledge, we are learning how to detect a unique identifier associated with the network employed by the NMLA.” 
 
 “Our actions may have political repercussions, but this taskforce is dedicated to finding and destroying the NMLA. We must follow the trail wherever it leads.” 
 

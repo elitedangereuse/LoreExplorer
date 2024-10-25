@@ -10,7 +10,7 @@
 
 There are claims that the Imperial Senate is preventing efforts to examine a potential link between the Empire’s security services and the NMLA. 
 
-Captain [[id:ccaf380d-14e8-4a1a-9458-8c3bad87b25c][Saskia Landau]] has publicly stated that the terrorists’ dark-comms network is closely related to the [[id:22dfd239-84ed-4b35-aa95-bc955ca95e8b][Omega Grid]] system used exclusively by [[id:45d78e5d-27b7-48cb-97b2-012934be3180][Imperial Intelligence]]. She expanded on her theory in a statement to Vox Galactica: 
+Captain [[id:ccaf380d-14e8-4a1a-9458-8c3bad87b25c][Saskia Landau]] has publicly stated that the terrorists’ [[id:b58b26bb-8465-42a9-896c-4c0e97d20444][dark-comms]] network is closely related to the [[id:22dfd239-84ed-4b35-aa95-bc955ca95e8b][Omega Grid]] system used exclusively by [[id:45d78e5d-27b7-48cb-97b2-012934be3180][Imperial Intelligence]]. She expanded on her theory in a statement to Vox Galactica: 
 
 “Based on evidence and interrogation transcripts obtained by ACT, I believe that rogue elements within [[id:45d78e5d-27b7-48cb-97b2-012934be3180][Imperial Intelligence]] were training and providing equipment to the NMLA. This would help explain the level of sophistication they achieved in coordinating their starport attacks and communicating without detection.” 
 
