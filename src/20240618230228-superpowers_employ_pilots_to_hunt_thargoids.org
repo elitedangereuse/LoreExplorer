@@ -2,7 +2,7 @@
 :ID:       61e2bfd9-dd7f-4a58-970b-65a77ad2bc15
 :END:
 #+title: Superpowers Employ Pilots to Hunt Thargoids
-#+filetags: :Thargoid:Alliance:galnet:
+#+filetags: :Alliance:Thargoid:galnet:
 
 * Superpowers Employ Pilots to Hunt Thargoids
 

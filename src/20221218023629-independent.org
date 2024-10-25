@@ -2,6 +2,7 @@
 :ID:       e0a6f2e0-36a9-4c35-b837-4ac3c6fc67a9
 :END:
 #+title: Independent
+#+filetags: :Alliance:
 [[file:img/independent.png]]
 #+begin_quote
 The independent systems still constitute the bulk of the human

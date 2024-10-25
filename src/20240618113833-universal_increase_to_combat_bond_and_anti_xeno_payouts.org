@@ -3,7 +3,7 @@
 :ROAM_REFS: https://cms.zaonce.net/en-GB/jsonapi/node/galnet_article/943ac1f0-2771-4ba2-9a15-a43557c6421d?resourceVersion=id%3A4732
 :END:
 #+title: Universal Increase to Combat Bond and Anti-Xeno Payouts
-#+filetags: :Thargoid:Empire:galnet:
+#+filetags: :Alliance:Thargoid:Empire:galnet:
 
 * Universal Increase to Combat Bond and Anti-Xeno Payouts
 

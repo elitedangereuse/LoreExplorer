@@ -2,7 +2,7 @@
 :ID:       ca4042c0-1f6b-413a-b09b-6d40dc69ad54
 :END:
 #+title: Indaol History
-#+filetags: :beacon:
+#+filetags: :Alliance:beacon:
 * 0126  Indaol History
 [[id:ca4042c0-1f6b-413a-b09b-6d40dc69ad54][Indaol]]
 

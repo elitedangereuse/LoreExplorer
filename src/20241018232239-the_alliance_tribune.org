@@ -2,4 +2,5 @@
 :ID:       ad2baca1-f970-4308-8b07-78cd4a5a8fd0
 :END:
 #+title: The Alliance Tribune
+#+filetags: :Alliance:
 A journal

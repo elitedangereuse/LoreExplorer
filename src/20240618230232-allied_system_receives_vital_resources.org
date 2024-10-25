@@ -2,7 +2,7 @@
 :ID:       a952eaac-f082-4d51-80b8-dcdea1a8ca95
 :END:
 #+title: Allied System Receives Vital Resources
-#+filetags: :Thargoid:galnet:
+#+filetags: :Alliance:Thargoid:galnet:
 
 * Allied System Receives Vital Resources
 

@@ -2,7 +2,7 @@
 :ID:       074a8795-3fb0-42b6-92b4-529c281c34b7
 :END:
 #+title: Federal Government Plans for the Future
-#+filetags: :Thargoid:Alliance:Federation:galnet:
+#+filetags: :Alliance:Thargoid:Federation:galnet:
 
 * Federal Government Plans for the Future
 

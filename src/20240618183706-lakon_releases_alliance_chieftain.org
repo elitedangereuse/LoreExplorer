@@ -2,7 +2,7 @@
 :ID:       f86232a4-57e6-4c63-8234-939c6293ee17
 :END:
 #+title: Lakon Releases Alliance Chieftain
-#+filetags: :Thargoid:Alliance:3304:galnet:
+#+filetags: :Alliance:Thargoid:3304:galnet:
 
 * Lakon Releases Alliance Chieftain
 

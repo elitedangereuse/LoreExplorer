@@ -2,6 +2,6 @@
 :ID:       9d17bf0f-6ce5-46b2-b9e6-2cab238fcce7
 :END:
 #+title: Kay Kilbride
-#+filetags: :Individual:
+#+filetags: :Alliance:Individual:
 
 Chief Inspector of [[id:415ecd29-3cf3-4f3c-ab29-a7debb4b56de][Alliance Interpol]]

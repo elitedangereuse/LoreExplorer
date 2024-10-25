@@ -2,7 +2,7 @@
 :ID:       6d2c0bf8-939c-4cda-96a7-f2676f20fa73
 :END:
 #+title: Reorte Resists Sirius Corporation
-#+filetags: :Thargoid:galnet:
+#+filetags: :Alliance:Thargoid:galnet:
 
 * Reorte Resists Sirius Corporation
 

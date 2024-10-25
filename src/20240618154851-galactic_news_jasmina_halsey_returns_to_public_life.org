@@ -2,7 +2,7 @@
 :ID:       72c9dfb5-b550-445a-b771-eda5a903fb30
 :END:
 #+title: Galactic News: Jasmina Halsey Returns to Public Life
-#+filetags: :3302:galnet:
+#+filetags: :Alliance:3302:galnet:
 
 * Galactic News: [[id:a9ccf59f-436e-44df-b041-5020285925f8][Jasmina Halsey]] Returns to Public Life
 

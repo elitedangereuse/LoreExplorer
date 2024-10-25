@@ -2,7 +2,7 @@
 :ID:       edcee85e-14be-4f00-9829-53e6ef388a3b
 :END:
 #+title: Sirius CEO Faces Assembly Inquiry
-#+filetags: :Thargoid:Alliance:galnet:
+#+filetags: :Alliance:Thargoid:galnet:
 
 * Sirius CEO Faces Assembly Inquiry
 

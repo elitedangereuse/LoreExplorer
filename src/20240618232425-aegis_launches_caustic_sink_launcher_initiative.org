@@ -2,7 +2,7 @@
 :ID:       fa631d2a-48f5-432f-a0d4-4d04fb4da8b7
 :END:
 #+title: Aegis Launches Caustic Sink Launcher Initiative
-#+filetags: :Thargoid:galnet:
+#+filetags: :Alliance:Thargoid:galnet:
 
 * Aegis Launches Caustic Sink Launcher Initiative
 

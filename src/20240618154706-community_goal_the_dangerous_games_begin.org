@@ -2,7 +2,7 @@
 :ID:       8b1b6774-272c-46cd-9bdc-c9a4b9ac5bc7
 :END:
 #+title: Community Goal: The Dangerous Games Begin
-#+filetags: :CommunityGoal:Alliance:3302:galnet:
+#+filetags: :Alliance:CommunityGoal:3302:galnet:
 
 * Community Goal: The Dangerous Games Begin
 

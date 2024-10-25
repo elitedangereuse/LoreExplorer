@@ -2,7 +2,7 @@
 :ID:       04308e0c-ff65-4756-bf2a-d579389163d5
 :END:
 #+title: Thargoids Return to Witch Head Nebula
-#+filetags: :Thargoid:Alliance:galnet:
+#+filetags: :Alliance:Thargoid:galnet:
 
 * Thargoids Return to Witch Head Nebula
 

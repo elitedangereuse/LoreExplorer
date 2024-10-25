@@ -2,7 +2,7 @@
 :ID:       833832b9-60b8-4cd1-9044-48d3a32c91f1
 :END:
 #+title: Alliance and Federation React to Nova Imperium
-#+filetags: :Thargoid:Alliance:Federation:Empire:3304:galnet:
+#+filetags: :Alliance:Thargoid:Federation:Empire:3304:galnet:
 
 * Alliance and Federation React to Nova Imperium
 

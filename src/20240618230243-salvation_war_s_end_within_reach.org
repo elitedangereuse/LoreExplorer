@@ -2,7 +2,7 @@
 :ID:       caf102e9-fab2-49cb-b294-180eec9e55d1
 :END:
 #+title: Salvation: ‘War’s End Within Reach’
-#+filetags: :Thargoid:galnet:
+#+filetags: :Alliance:Thargoid:galnet:
 
 * [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]: ‘War’s End Within Reach’
 

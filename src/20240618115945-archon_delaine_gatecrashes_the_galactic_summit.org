@@ -2,7 +2,7 @@
 :ID:       6dd7f0c4-8a92-45ac-a861-76fbe77c3986
 :END:
 #+title: Archon Delaine Gatecrashes the Galactic Summit
-#+filetags: :Thargoid:galnet:
+#+filetags: :Alliance:Thargoid:galnet:
 
 * [[id:7aae0550-b8ba-42cf-b52b-e7040461c96f][Archon Delaine]] Gatecrashes the Galactic Summit
 

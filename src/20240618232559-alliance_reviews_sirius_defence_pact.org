@@ -2,7 +2,7 @@
 :ID:       ade55372-750f-4e32-8f9c-1db08c8c7e49
 :END:
 #+title: Alliance Reviews Sirius Defence Pact
-#+filetags: :Thargoid:Alliance:Empire:galnet:
+#+filetags: :Alliance:Thargoid:Empire:galnet:
 
 * Alliance Reviews Sirius Defence Pact
 

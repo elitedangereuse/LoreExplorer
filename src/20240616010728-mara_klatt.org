@@ -2,4 +2,5 @@
 :ID:       2569323a-d569-4399-8cda-ae371000dc8b
 :END:
 #+title: Mara Klatt
+#+filetags: :Alliance:
 Inspector of [[id:415ecd29-3cf3-4f3c-ab29-a7debb4b56de][Alliance Interpol]]

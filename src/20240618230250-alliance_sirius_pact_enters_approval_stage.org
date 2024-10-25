@@ -2,7 +2,7 @@
 :ID:       05707d56-717f-4ec5-9667-a74a94e50f66
 :END:
 #+title: Alliance-Sirius Pact Enters Approval Stage
-#+filetags: :Thargoid:Alliance:Empire:galnet:
+#+filetags: :Alliance:Thargoid:Empire:galnet:
 
 * Alliance-Sirius Pact Enters Approval Stage
 

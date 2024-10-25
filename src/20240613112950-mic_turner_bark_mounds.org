@@ -2,7 +2,7 @@
 :ID:       cc7dfbf8-0f56-4987-90b5-81702849792c
 :END:
 #+title: Mic Turner Bark Mounds
-#+filetags: :beacon:
+#+filetags: :Alliance:beacon:
 * 0636  Mic Turner Bark Mounds
 [[id:d4edf856-0f0e-4942-959b-311d310cbc82][California Sector BA-A E6]]
 

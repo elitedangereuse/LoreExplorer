@@ -2,7 +2,7 @@
 :ID:       5e77c167-61c9-4500-9f9c-68dd0196e3a7
 :END:
 #+title: Lakon Releases Alliance Crusader
-#+filetags: :Thargoid:Alliance:3304:galnet:
+#+filetags: :Alliance:Thargoid:3304:galnet:
 
 * Lakon Releases Alliance Crusader
 

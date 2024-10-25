@@ -2,7 +2,7 @@
 :ID:       e0a9ecb1-3a9c-4d4d-a93d-f7e0a57601c7
 :END:
 #+title: Aegis: ‘Arrest Salvation for Murder’
-#+filetags: :Thargoid:galnet:
+#+filetags: :Alliance:Thargoid:galnet:
 
 * Aegis: ‘Arrest [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]] for Murder’
 

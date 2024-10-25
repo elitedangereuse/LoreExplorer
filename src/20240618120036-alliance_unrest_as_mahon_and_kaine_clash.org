@@ -2,7 +2,7 @@
 :ID:       5c80e28f-aa93-45cf-8074-aca8714aff95
 :END:
 #+title: Alliance Unrest as Mahon and Kaine Clash
-#+filetags: :Thargoid:Alliance:galnet:
+#+filetags: :Alliance:Thargoid:galnet:
 
 * Alliance Unrest as Mahon and Kaine Clash
 

@@ -2,7 +2,7 @@
 :ID:       fce5344c-ed5e-4add-91ae-7502922255c4
 :END:
 #+title: Galactic News: Terrorist Salomé Killed
-#+filetags: :3303:galnet:
+#+filetags: :Alliance:3303:galnet:
 
 * Galactic News: Terrorist [[id:2f09bc24-0885-4d00-9d1f-506b32464dbe][Salomé]] Killed
 

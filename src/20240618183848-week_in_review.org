@@ -2,7 +2,7 @@
 :ID:       220d5044-ad7e-4826-b36d-595e1874c2e0
 :END:
 #+title: Week in Review 02 Sep 3304
-#+filetags: :Thargoid:3304:galnet:
+#+filetags: :Alliance:Thargoid:3304:galnet:
 
 * Week in Review
 

@@ -3,7 +3,7 @@
 :ROAM_REFS: https://cms.zaonce.net/en-GB/jsonapi/node/galnet_article/462c9910-9d2c-4d09-9953-06a2932468a2?resourceVersion=id%3A4914
 :END:
 #+title: Jasmina Halsey Provides Testimony about Starship One
-#+filetags: :galnet:
+#+filetags: :Alliance:galnet:
 
 * [[id:a9ccf59f-436e-44df-b041-5020285925f8][Jasmina Halsey]] Provides Testimony about Starship One
 

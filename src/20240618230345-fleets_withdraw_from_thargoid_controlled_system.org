@@ -2,7 +2,7 @@
 :ID:       cb7d32e4-2d6f-4fc2-8c10-cc51f3786d42
 :END:
 #+title: Fleets Withdraw from Thargoid-Controlled System
-#+filetags: :Thargoid:galnet:
+#+filetags: :Alliance:Thargoid:galnet:
 
 * Fleets Withdraw from Thargoid-Controlled System
 

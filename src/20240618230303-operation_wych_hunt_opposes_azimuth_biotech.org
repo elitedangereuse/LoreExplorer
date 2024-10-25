@@ -2,7 +2,7 @@
 :ID:       1b1f5f50-e035-471a-a932-d27b81e54584
 :END:
 #+title: ‘Operation Wych Hunt’ Opposes Azimuth Biotech
-#+filetags: :Thargoid:galnet:
+#+filetags: :Alliance:Thargoid:galnet:
 
 * ‘Operation Wych Hunt’ Opposes [[id:e68a5318-bd72-4c92-9f70-dcdbd59505d1][Azimuth Biotech]]
 

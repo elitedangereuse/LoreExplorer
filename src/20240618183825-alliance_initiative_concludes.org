@@ -2,7 +2,7 @@
 :ID:       85fe563f-31ad-47be-a390-6eec741ee80b
 :END:
 #+title: Alliance Initiative Concludes
-#+filetags: :3304:galnet:
+#+filetags: :Alliance:3304:galnet:
 
 * Alliance Initiative Concludes
 

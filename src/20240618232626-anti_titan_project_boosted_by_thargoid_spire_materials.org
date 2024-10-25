@@ -2,7 +2,7 @@
 :ID:       e522031e-856d-4563-9eb4-9b7367b65a0d
 :END:
 #+title: Anti-Titan Project Boosted by Thargoid Spire Materials
-#+filetags: :Thargoid:galnet:
+#+filetags: :Alliance:Thargoid:galnet:
 
 * Anti-Titan Project Boosted by Thargoid Spire Materials
 

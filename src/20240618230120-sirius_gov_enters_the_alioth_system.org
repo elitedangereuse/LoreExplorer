@@ -2,7 +2,7 @@
 :ID:       64a75849-a979-4d77-ab3a-467970cc2b82
 :END:
 #+title: Sirius Gov Enters the Alioth System
-#+filetags: :Thargoid:galnet:
+#+filetags: :Alliance:Thargoid:galnet:
 
 * Sirius Gov Enters the Alioth System
 

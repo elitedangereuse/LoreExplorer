@@ -2,7 +2,7 @@
 :ID:       78189315-2f82-4b6d-98c6-673f440e7821
 :END:
 #+title: Princess Aisling Echoes Aegis Reformation Calls
-#+filetags: :Thargoid:Alliance:Empire:galnet:
+#+filetags: :Alliance:Thargoid:Empire:galnet:
 
 * Princess Aisling Echoes Aegis Reformation Calls
 

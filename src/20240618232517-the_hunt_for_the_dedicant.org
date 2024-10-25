@@ -2,7 +2,7 @@
 :ID:       36b68fdc-5792-4265-a65a-19fd87a4aa3f
 :END:
 #+title: The Hunt for the Dedicant
-#+filetags: :galnet:
+#+filetags: :Alliance:galnet:
 
 * The Hunt for the Dedicant
 

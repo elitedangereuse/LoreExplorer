@@ -3,7 +3,7 @@
 :ROAM_REFS: https://cms.zaonce.net/en-GB/jsonapi/node/galnet_article/e9a7fd6a-aecf-46e7-8e60-3f1d8f80bd59?resourceVersion=id%3A4882
 :END:
 #+title: Aegis Supports Galactic Summit
-#+filetags: :Thargoid:galnet:
+#+filetags: :Alliance:Thargoid:galnet:
 
 * Aegis Supports Galactic Summit
 

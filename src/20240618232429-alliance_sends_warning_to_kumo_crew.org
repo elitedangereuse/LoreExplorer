@@ -2,7 +2,7 @@
 :ID:       e715a60e-9190-4627-beea-681b78c76624
 :END:
 #+title: Alliance Sends Warning to Kumo Crew
-#+filetags: :Thargoid:Alliance:galnet:
+#+filetags: :Alliance:Thargoid:galnet:
 
 * Alliance Sends Warning to Kumo Crew
 

@@ -2,7 +2,7 @@
 :ID:       ba9928bb-5b60-46be-86a3-4f223f227865
 :END:
 #+title: Alliance Consolidates Presence in Coalsack Nebula
-#+filetags: :Thargoid:Alliance:galnet:
+#+filetags: :Alliance:Thargoid:galnet:
 
 * Alliance Consolidates Presence in Coalsack Nebula
 

@@ -2,7 +2,7 @@
 :ID:       61ab7a07-4385-4bd9-9050-5ecb76d36a2d
 :END:
 #+title: Distant Thargoid Encounter Raises Questions
-#+filetags: :Thargoid:galnet:
+#+filetags: :Alliance:Thargoid:galnet:
 
 * Distant Thargoid Encounter Raises Questions
 

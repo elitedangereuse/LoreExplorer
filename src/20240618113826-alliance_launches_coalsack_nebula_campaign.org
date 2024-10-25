@@ -2,7 +2,7 @@
 :ID:       72d04cbb-ba57-4148-b8de-b8911667bb6f
 :END:
 #+title: Alliance Launches Coalsack Nebula Campaign
-#+filetags: :Thargoid:Alliance:galnet:
+#+filetags: :Alliance:Thargoid:galnet:
 
 * Alliance Launches Coalsack Nebula Campaign
 

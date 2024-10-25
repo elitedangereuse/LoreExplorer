@@ -2,7 +2,7 @@
 :ID:       9724a888-2e4d-47ca-8d96-2b692a406889
 :END:
 #+title: Trial Period Agreed for Alliance-Sirius Pact
-#+filetags: :Thargoid:Alliance:galnet:
+#+filetags: :Alliance:Thargoid:galnet:
 
 * Trial Period Agreed for Alliance-Sirius Pact
 

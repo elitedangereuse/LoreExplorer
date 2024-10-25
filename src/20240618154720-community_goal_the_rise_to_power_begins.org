@@ -2,7 +2,7 @@
 :ID:       c8dfcb16-99b1-45ae-9dfe-05ee5b641d10
 :END:
 #+title: Community Goal: The Rise to Power Begins
-#+filetags: :CommunityGoal:Alliance:3302:galnet:
+#+filetags: :Alliance:CommunityGoal:3302:galnet:
 
 * Community Goal: The Rise to Power Begins
 

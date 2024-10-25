@@ -2,7 +2,7 @@
 :ID:       41e0349c-d169-4cc2-a479-2128aac04117
 :END:
 #+title: Alliance Offers Amnesty for Far God Cultists
-#+filetags: :Thargoid:Alliance:Federation:galnet:
+#+filetags: :Alliance:Thargoid:Federation:galnet:
 
 * Alliance Offers Amnesty for [[id:04ae001b-eb07-4812-a42e-4bb72825609b][Far God]] Cultists
 

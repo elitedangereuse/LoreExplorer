@@ -2,7 +2,7 @@
 :ID:       f1907a63-b1fb-4fc7-ba9b-1b051ebfd31f
 :END:
 #+title: Community Goal: Alliance Appeals for Help
-#+filetags: :CommunityGoal:3303:galnet:
+#+filetags: :Alliance:CommunityGoal:3303:galnet:
 
 * Community Goal: Alliance Appeals for Help
 

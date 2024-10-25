@@ -2,7 +2,7 @@
 :ID:       115319b8-cbcd-4b5f-a8d7-67f059e74a6a
 :END:
 #+title: Rare Goods Received for Political Delegates
-#+filetags: :galnet:
+#+filetags: :Alliance:galnet:
 
 * Rare Goods Received for Political Delegates
 

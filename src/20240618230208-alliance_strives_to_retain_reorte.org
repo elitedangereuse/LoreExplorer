@@ -2,7 +2,7 @@
 :ID:       dce0f90c-7859-4975-b1be-f966c852c91b
 :END:
 #+title: Alliance Strives to Retain Reorte
-#+filetags: :Thargoid:Alliance:galnet:
+#+filetags: :Alliance:Thargoid:galnet:
 
 * Alliance Strives to Retain Reorte
 

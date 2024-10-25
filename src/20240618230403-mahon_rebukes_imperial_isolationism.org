@@ -2,7 +2,7 @@
 :ID:       4820d346-a3ac-4129-8ecb-e1845b42c319
 :END:
 #+title: Mahon Rebukes Imperial Isolationism
-#+filetags: :Thargoid:Alliance:Empire:galnet:
+#+filetags: :Alliance:Thargoid:Empire:galnet:
 
 * Mahon Rebukes Imperial Isolationism
 

@@ -2,7 +2,7 @@
 :ID:       50bff4ab-7fc8-488e-aad4-8c52e24d37b6
 :END:
 #+title: The View from the Front Line
-#+filetags: :Thargoid:Alliance:galnet:
+#+filetags: :Alliance:Thargoid:galnet:
 
 * The View from the Front Line
 

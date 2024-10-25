@@ -3,4 +3,5 @@
 :ROAM_ALIASES: AEDC
 :END:
 #+title: Alliance Elite Diplomatic Corps
+#+filetags: :Alliance:
 

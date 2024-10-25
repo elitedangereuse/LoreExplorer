@@ -2,7 +2,7 @@
 :ID:       2508d8c6-0a83-4eee-8b69-31018d18d2ff
 :END:
 #+title: Galactic Summit Imperilled by Political Frictions
-#+filetags: :Thargoid:Alliance:Empire:galnet:
+#+filetags: :Alliance:Thargoid:Empire:galnet:
 
 * Galactic Summit Imperilled by Political Frictions
 

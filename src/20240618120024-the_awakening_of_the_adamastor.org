@@ -2,7 +2,7 @@
 :ID:       96f3f4ff-02fd-4f4c-9a3f-9de70113d206
 :END:
 #+title: The Awakening of the Adamastor
-#+filetags: :Thargoid:galnet:
+#+filetags: :Alliance:Thargoid:galnet:
 
 * The Awakening of the Adamastor
 

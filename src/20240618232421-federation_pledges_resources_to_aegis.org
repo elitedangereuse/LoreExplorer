@@ -2,7 +2,7 @@
 :ID:       b04c39a0-775e-4eb4-9218-78e0c124fe93
 :END:
 #+title: Federation Pledges Resources to Aegis
-#+filetags: :Thargoid:Alliance:Federation:galnet:
+#+filetags: :Alliance:Thargoid:Federation:galnet:
 
 * Federation Pledges Resources to Aegis
 

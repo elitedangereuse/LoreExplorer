@@ -2,7 +2,7 @@
 :ID:       d40af2d9-66be-4c79-9483-a389ee25a70b
 :END:
 #+title: Subject D-2 Rejects Azimuth
-#+filetags: :Thargoid:Alliance:galnet:
+#+filetags: :Alliance:Thargoid:galnet:
 
 * Subject D-2 Rejects Azimuth
 

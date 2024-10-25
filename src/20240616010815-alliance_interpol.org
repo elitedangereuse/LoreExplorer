@@ -2,4 +2,5 @@
 :ID:       415ecd29-3cf3-4f3c-ab29-a7debb4b56de
 :END:
 #+title: Alliance Interpol
+#+filetags: :Alliance:
 

@@ -2,7 +2,7 @@
 :ID:       447cbeac-7711-4912-8bd3-77a8edfeef33
 :END:
 #+title: Thargoid Invasion of Nebula Systems Intensifies
-#+filetags: :Thargoid:galnet:
+#+filetags: :Alliance:Thargoid:galnet:
 
 * Thargoid Invasion of Nebula Systems Intensifies
 

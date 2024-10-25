@@ -2,7 +2,7 @@
 :ID:       35131488-b534-4ac6-a94a-bc84e78884f4
 :END:
 #+title: Thargoid Incursion Repelled in Witch Head Enclave
-#+filetags: :Thargoid:Alliance:galnet:
+#+filetags: :Alliance:Thargoid:galnet:
 
 * Thargoid Incursion Repelled in Witch Head Enclave
 

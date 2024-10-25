@@ -3,7 +3,7 @@
 :ROAM_REFS: https://cms.zaonce.net/en-GB/jsonapi/node/galnet_article/bb133a10-302d-44f0-bcee-982bfb17e436?resourceVersion=id%3A4895
 :END:
 #+title: Galactic Summit Proposal from Sirius Corporation
-#+filetags: :galnet:
+#+filetags: :Alliance:galnet:
 
 * Galactic Summit Proposal from Sirius Corporation
 

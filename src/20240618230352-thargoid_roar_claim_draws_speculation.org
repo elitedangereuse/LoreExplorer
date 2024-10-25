@@ -2,7 +2,7 @@
 :ID:       1e1e9381-45dd-49ab-8080-61a6f0d2f86d
 :END:
 #+title: ‘Thargoid Roar’ Claim Draws Speculation
-#+filetags: :Thargoid:Alliance:galnet:
+#+filetags: :Alliance:Thargoid:galnet:
 
 * ‘Thargoid Roar’ Claim Draws Speculation
 

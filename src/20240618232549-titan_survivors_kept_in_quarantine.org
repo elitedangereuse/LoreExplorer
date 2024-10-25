@@ -2,7 +2,7 @@
 :ID:       0a73bf30-1b87-40a4-b3b3-7a8a755924a1
 :END:
 #+title: Titan Survivors Kept in Quarantine
-#+filetags: :Thargoid:galnet:
+#+filetags: :Alliance:Thargoid:galnet:
 
 * Titan Survivors Kept in Quarantine
 

@@ -2,7 +2,7 @@
 :ID:       4f1ee6fe-38ff-48e2-8cb3-513deb3d44a4
 :END:
 #+title: ‘Ghost Ship’ Leads Alliance to New Resources
-#+filetags: :Thargoid:galnet:
+#+filetags: :Alliance:Thargoid:galnet:
 
 * ‘Ghost Ship’ Leads Alliance to New Resources
 

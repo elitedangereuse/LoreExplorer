@@ -2,7 +2,7 @@
 :ID:       74e5b54a-4f32-4af3-9f23-7463aa5590c1
 :END:
 #+title: The Sanderlyn Interviews (Part Three)
-#+filetags: :Thargoid:Alliance:galnet:
+#+filetags: :Alliance:Thargoid:galnet:
 
 * The Sanderlyn Interviews (Part Three)
 

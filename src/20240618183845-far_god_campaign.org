@@ -2,7 +2,7 @@
 :ID:       538c575e-6c38-4234-9a88-141817135561
 :END:
 #+title: Far God Campaign
-#+filetags: :Thargoid:3304:galnet:
+#+filetags: :Alliance:Thargoid:3304:galnet:
 
 * [[id:04ae001b-eb07-4812-a42e-4bb72825609b][Far God]] Campaign
 

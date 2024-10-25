@@ -2,7 +2,7 @@
 :ID:       77ce0e2a-668a-44a4-8cde-b2b8b6de3efd
 :END:
 #+title: Alliance Urges Restraint Between Superpowers
-#+filetags: :Thargoid:Alliance:Federation:Empire:galnet:
+#+filetags: :Alliance:Thargoid:Federation:Empire:galnet:
 
 * Alliance Urges Restraint Between Superpowers
 

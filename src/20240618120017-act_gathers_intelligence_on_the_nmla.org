@@ -2,7 +2,7 @@
 :ID:       aeb723f9-181a-47f5-ad7e-5784deacdc9b
 :END:
 #+title: ACT Gathers Intelligence on the NMLA
-#+filetags: :galnet:
+#+filetags: :Alliance:galnet:
 
 * ACT Gathers Intelligence on the NMLA
 

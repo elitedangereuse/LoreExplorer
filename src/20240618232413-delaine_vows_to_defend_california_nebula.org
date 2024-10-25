@@ -2,7 +2,7 @@
 :ID:       813aedf5-5fb1-4551-843c-b7954f724086
 :END:
 #+title: Delaine Vows to Defend California Nebula
-#+filetags: :Thargoid:Alliance:galnet:
+#+filetags: :Alliance:Thargoid:galnet:
 
 * Delaine Vows to Defend California Nebula
 

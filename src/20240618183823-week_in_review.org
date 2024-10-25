@@ -2,7 +2,7 @@
 :ID:       1c859763-899c-490c-afaf-ee7db07e91ea
 :END:
 #+title: Week in Review 29 Jul 3304
-#+filetags: :Thargoid:Alliance:3304:galnet:
+#+filetags: :Alliance:Thargoid:3304:galnet:
 
 * Week in Review
 

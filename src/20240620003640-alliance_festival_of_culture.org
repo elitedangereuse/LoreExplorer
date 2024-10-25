@@ -2,4 +2,5 @@
 :ID:       b7d159ab-0ea2-454e-a22f-476c1e10ed5e
 :END:
 #+title: Alliance Festival of Culture
+#+filetags: :Alliance:
 

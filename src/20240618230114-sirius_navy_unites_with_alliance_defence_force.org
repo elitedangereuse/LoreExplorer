@@ -2,7 +2,7 @@
 :ID:       883afb04-d6f6-4e79-bac1-c3fa92a721d7
 :END:
 #+title: Sirius Navy Unites with Alliance Defence Force
-#+filetags: :Thargoid:Alliance:galnet:
+#+filetags: :Alliance:Thargoid:galnet:
 
 * Sirius Navy Unites with Alliance Defence Force
 

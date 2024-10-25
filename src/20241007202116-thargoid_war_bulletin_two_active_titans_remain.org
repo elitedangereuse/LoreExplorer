@@ -2,7 +2,7 @@
 :ID:       b40159cd-aee0-4fc0-adcc-427b2f92e007
 :END:
 #+title: Thargoid War Bulletin: Two Active Titans Remain
-#+filetags: :Thargoid:galnet:
+#+filetags: :Alliance:Thargoid:galnet:
 * Thargoid War Bulletin: Two Active Titans Remain
 
 /20 Aug 3310/

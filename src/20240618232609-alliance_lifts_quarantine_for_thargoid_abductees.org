@@ -2,7 +2,7 @@
 :ID:       1871b0d0-4fb2-41b5-9d5e-3c457c8727a4
 :END:
 #+title: Alliance Lifts Quarantine for Thargoid Abductees
-#+filetags: :Thargoid:Alliance:Empire:galnet:
+#+filetags: :Alliance:Thargoid:Empire:galnet:
 
 * Alliance Lifts Quarantine for Thargoid Abductees
 

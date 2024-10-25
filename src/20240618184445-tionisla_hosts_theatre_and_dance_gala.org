@@ -2,7 +2,7 @@
 :ID:       ac420eee-3265-4f71-9e46-ca176babc65f
 :END:
 #+title: Tionisla Hosts Theatre and Dance Gala
-#+filetags: :galnet:
+#+filetags: :Alliance:galnet:
 
 * Tionisla Hosts Theatre and Dance Gala
 

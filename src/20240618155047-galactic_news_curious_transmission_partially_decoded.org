@@ -2,7 +2,7 @@
 :ID:       ed8765e3-2136-4e09-b491-f5737028a768
 :END:
 #+title: Galactic News: Curious Transmission Partially Decoded
-#+filetags: :3302:galnet:
+#+filetags: :Alliance:3302:galnet:
 
 * Galactic News: Curious Transmission Partially Decoded
 

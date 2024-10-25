@@ -2,7 +2,7 @@
 :ID:       51096461-8a88-4803-b88f-ea7c30c893ec
 :END:
 #+title: Community Goal: Alliance to Establish New Outpost
-#+filetags: :CommunityGoal:Alliance:3302:galnet:
+#+filetags: :Alliance:CommunityGoal:3302:galnet:
 
 * Community Goal: Alliance to Establish New Outpost
 

@@ -2,7 +2,7 @@
 :ID:       ae4f8ae6-125c-4644-81ac-17dc3a2bea52
 :END:
 #+title: ‘Thargoid Roar’ Leaked to Public
-#+filetags: :Thargoid:Alliance:Federation:galnet:
+#+filetags: :Alliance:Thargoid:Federation:galnet:
 
 * ‘Thargoid Roar’ Leaked to Public
 

@@ -2,7 +2,7 @@
 :ID:       c4ea8ef3-0aac-4774-ac95-6c499c4e4eee
 :END:
 #+title: Coalsack Nebula Reports Thargoid Activity
-#+filetags: :Thargoid:Alliance:galnet:
+#+filetags: :Alliance:Thargoid:galnet:
 
 * Coalsack Nebula Reports Thargoid Activity
 

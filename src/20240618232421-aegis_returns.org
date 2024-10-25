@@ -2,7 +2,7 @@
 :ID:       16908aed-0e1b-46da-8676-7537184a6285
 :END:
 #+title: Aegis Returns
-#+filetags: :Thargoid:galnet:
+#+filetags: :Alliance:Thargoid:galnet:
 
 * Aegis Returns
 

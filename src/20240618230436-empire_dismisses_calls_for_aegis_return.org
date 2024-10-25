@@ -2,7 +2,7 @@
 :ID:       1a85874b-5dc6-492e-872d-25675afe6080
 :END:
 #+title: Empire Dismisses Calls for Aegis Return
-#+filetags: :Thargoid:Empire:galnet:
+#+filetags: :Alliance:Thargoid:Empire:galnet:
 
 * Empire Dismisses Calls for Aegis Return
 

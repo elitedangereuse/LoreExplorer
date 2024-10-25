@@ -2,7 +2,7 @@
 :ID:       ac691ccd-9266-410b-b50f-9cee62d4f7d9
 :END:
 #+title: A New Chapter for Azimuth
-#+filetags: :Thargoid:galnet:
+#+filetags: :Alliance:Thargoid:galnet:
 
 * A New Chapter for Azimuth
 

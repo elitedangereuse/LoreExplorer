@@ -2,7 +2,7 @@
 :ID:       8dcee52a-b15d-40c9-8e61-8b775d465276
 :END:
 #+title: Tesreau Announces Bid to Reform Aegis
-#+filetags: :Thargoid:Empire:galnet:
+#+filetags: :Alliance:Thargoid:Empire:galnet:
 
 * Tesreau Announces Bid to Reform Aegis
 

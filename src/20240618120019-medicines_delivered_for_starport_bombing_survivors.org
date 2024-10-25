@@ -2,7 +2,7 @@
 :ID:       91b0a948-6930-416b-98e0-ebc4e751dae8
 :END:
 #+title: Medicines Delivered for Starport Bombing Survivors
-#+filetags: :Thargoid:galnet:
+#+filetags: :Alliance:Thargoid:galnet:
 
 * Medicines Delivered for Starport Bombing Survivors
 

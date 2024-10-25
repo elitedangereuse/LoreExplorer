@@ -2,7 +2,7 @@
 :ID:       9db748c4-74c4-4b76-a461-2f2bae09addc
 :END:
 #+title: Federal Election: The Allied Perspective
-#+filetags: :Thargoid:Alliance:Federation:galnet:
+#+filetags: :Alliance:Thargoid:Federation:galnet:
 
 * Federal Election: The Allied Perspective
 

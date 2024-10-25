@@ -2,7 +2,7 @@
 :ID:       fad698df-5d12-4c41-8113-536945fbba80
 :END:
 #+title: Alliance-Sirius Military Pact to be Decided
-#+filetags: :Thargoid:Alliance:galnet:
+#+filetags: :Alliance:Thargoid:galnet:
 
 * Alliance-Sirius Military Pact to be Decided
 

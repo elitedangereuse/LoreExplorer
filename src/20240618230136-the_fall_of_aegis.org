@@ -2,7 +2,7 @@
 :ID:       34da5278-4e23-4f91-818b-d5282e0a5494
 :END:
 #+title: The Fall of Aegis
-#+filetags: :Thargoid:galnet:
+#+filetags: :Alliance:Thargoid:galnet:
 
 * The Fall of Aegis
 

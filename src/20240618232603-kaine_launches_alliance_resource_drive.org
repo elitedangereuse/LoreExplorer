@@ -2,7 +2,7 @@
 :ID:       bf5a5d2e-fbe0-4e24-a60f-a331528107af
 :END:
 #+title: Kaine Launches Alliance Resource Drive
-#+filetags: :Thargoid:Alliance:galnet:
+#+filetags: :Alliance:Thargoid:galnet:
 
 * Kaine Launches Alliance Resource Drive
 
