@@ -2,7 +2,7 @@
 :ID:       f6fe63ae-0c05-46ec-94cb-5b4d894a51eb
 :END:
 #+title: Community Goal: The Colonia Exodus
-#+filetags: :CommunityGoal:Thargoid:3303:galnet:
+#+filetags: :Thargoid:CommunityGoal:3303:galnet:
 
 * Community Goal: The Colonia Exodus
 

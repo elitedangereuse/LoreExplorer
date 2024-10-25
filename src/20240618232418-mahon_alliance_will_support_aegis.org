@@ -2,7 +2,7 @@
 :ID:       d1441733-b860-4439-89d0-28f998f95ca6
 :END:
 #+title: Mahon: ‘Alliance Will Support Aegis’
-#+filetags: :Empire:galnet:
+#+filetags: :Thargoid:Empire:galnet:
 
 * Mahon: ‘Alliance Will Support Aegis’
 

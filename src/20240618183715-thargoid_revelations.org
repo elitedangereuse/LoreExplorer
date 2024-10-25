@@ -2,7 +2,7 @@
 :ID:       1017055e-4620-4701-890b-3dbd4e5b3f6e
 :END:
 #+title: Thargoid Revelations
-#+filetags: :Guardian:Thargoid:3304:galnet:
+#+filetags: :Thargoid:Guardian:3304:galnet:
 
 * Thargoid Revelations
 

@@ -2,7 +2,7 @@
 :ID:       1c265073-533d-4098-9e46-650da98288b0
 :END:
 #+title: Azimuth Releases New AX Weapon
-#+filetags: :3309:Thargoid:galnet:
+#+filetags: :Thargoid:3309:galnet:
 
 * Azimuth Releases New AX Weapon
 
@@ -33,7 +33,7 @@ Rum]], as well as those who eliminated criminal elements in the Xi
 Wangda system. I have authorised reimbursement for delivered goods
 from [[id:2730e920-30ee-435e-943b-d4124f257751][Musashi]] and [[id:5402969f-345d-420c-9025-3a0a89929d11][bounty vouchers]] from [[id:74d9dcc9-ef43-4e8c-9ff7-f9b8dd01f583][Cartier City]].”
 
-Newsfeeds, business analysts and ICE channels have discussed the
+Newsfeeds, business analysts and [[id:a12cdcbc-fa10-474e-8654-d3d7da17a307][ICE]] channels have discussed the
 clandestine nature of [[id:e68a5318-bd72-4c92-9f70-dcdbd59505d1][Azimuth Biotech]]’s convention. Some wondered if
 the corporation would be able to function without external
 financing. Others suggested that cooperation with mainstream companies

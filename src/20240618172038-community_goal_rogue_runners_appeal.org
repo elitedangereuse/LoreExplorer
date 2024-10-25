@@ -2,7 +2,7 @@
 :ID:       3fb046ba-6612-432a-90e2-983f69d7368e
 :END:
 #+title: Community Goal: Rogue Runners Appeal
-#+filetags: :CommunityGoal:Thargoid:3303:galnet:
+#+filetags: :Thargoid:CommunityGoal:3303:galnet:
 
 * Community Goal: Rogue Runners Appeal
 

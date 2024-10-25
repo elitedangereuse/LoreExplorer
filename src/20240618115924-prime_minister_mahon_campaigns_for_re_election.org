@@ -3,7 +3,7 @@
 :ROAM_REFS: https://cms.zaonce.net/en-GB/jsonapi/node/galnet_article/4fb515ea-2547-4183-aa5d-7d9d9d0baa0b?resourceVersion=id%3A4898
 :END:
 #+title: Prime Minister Mahon Campaigns for Re-Election
-#+filetags: :Alliance:Empire:galnet:
+#+filetags: :Thargoid:Alliance:Empire:galnet:
 
 * Prime Minister Mahon Campaigns for Re-Election
 

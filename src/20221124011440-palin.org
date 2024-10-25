@@ -2,7 +2,7 @@
 :ID:       8f63442a-1f38-457d-857a-38297d732a90
 :END:
 #+title: Professor Ishmael Palin
-#+filetags: :Codex:KnowledgeBase:Individual:engineer:
+#+filetags: :Thargoid:Codex:KnowledgeBase:Individual:engineer:
 * Location
 Abel Laboratory | [[id:d4b595af-536d-4575-af11-f07f3ac3ff40][Arque]]
 * How to discover

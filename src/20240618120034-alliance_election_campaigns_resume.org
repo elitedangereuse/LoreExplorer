@@ -2,7 +2,7 @@
 :ID:       68a6709c-58c3-4cb4-8927-f6255ece03cf
 :END:
 #+title: Alliance Election Campaigns Resume
-#+filetags: :Alliance:galnet:
+#+filetags: :Thargoid:Alliance:galnet:
 
 * Alliance Election Campaigns Resume
 

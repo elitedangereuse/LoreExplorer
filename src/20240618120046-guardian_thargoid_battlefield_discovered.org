@@ -2,7 +2,7 @@
 :ID:       c9c61b2e-1cea-4c33-ba80-c4cbb2fa048f
 :END:
 #+title: Guardian-Thargoid Battlefield Discovered
-#+filetags: :Guardian:Thargoid:galnet:
+#+filetags: :Thargoid:Guardian:galnet:
 
 * Guardian-Thargoid Battlefield Discovered
 

@@ -2,7 +2,7 @@
 :ID:       09343513-2893-458e-a689-5865fdc32e0a
 :END:
 #+title: Thargoids
-#+filetags: :Specie:Guardian:Thargoid:Codex:
+#+filetags: :Thargoid:Specie:Guardian:Codex:
 * The Thargoids
 ** Human-Thargoid Contact
 The Thargoids are a nonhuman race with a history of hostility towards

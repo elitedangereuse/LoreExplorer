@@ -2,7 +2,7 @@
 :ID:       125dd4a0-5eb6-40eb-a805-8460637c87d2
 :END:
 #+title: Week in Review 15 Apr 3304
-#+filetags: :3304:galnet:
+#+filetags: :Thargoid:3304:galnet:
 
 * Week in Review
 

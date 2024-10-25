@@ -2,7 +2,7 @@
 :ID:       bebaab49-bc33-4c34-89ab-fff3fc3d015e
 :END:
 #+title: Community Goal: Core Dynamics Campaign
-#+filetags: :CommunityGoal:Thargoid:3303:galnet:
+#+filetags: :Thargoid:CommunityGoal:3303:galnet:
 
 * Community Goal: Core Dynamics Campaign
 

@@ -2,7 +2,7 @@
 :ID:       5254d257-2ffa-4437-b3d4-4490a6395ec4
 :END:
 #+title: Leaders Respond to Azimuth Initiative
-#+filetags: :Guardian:Thargoid:Alliance:Empire:galnet:
+#+filetags: :Thargoid:Guardian:Alliance:Empire:galnet:
 
 * Leaders Respond to Azimuth Initiative
 

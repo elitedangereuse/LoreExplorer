@@ -2,7 +2,7 @@
 :ID:       a9c33123-8a5a-413f-9ba3-bc03269cbfe9
 :END:
 #+title: Eliminate Threat of Grey Swan Fleet
-#+filetags: :galnet:
+#+filetags: :Thargoid:galnet:
 
 * Eliminate Threat of Grey Swan Fleet
 

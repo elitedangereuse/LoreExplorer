@@ -2,7 +2,7 @@
 :ID:       b7dc9c64-7133-4859-a561-9255ed8a122d
 :END:
 #+title: Salvation: Friend or Foe?
-#+filetags: :galnet:
+#+filetags: :Thargoid:galnet:
 
 * [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]: Friend or Foe?
 

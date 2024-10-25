@@ -2,7 +2,7 @@
 :ID:       b66bf04b-b13f-4f3f-b7f0-089d76d165ca
 :END:
 #+title: Week in Review 22 Dec 3304
-#+filetags: :3304:galnet:
+#+filetags: :Thargoid:3304:galnet:
 
 * Week in Review
 

@@ -10,7 +10,7 @@
 
 Studying the Thargoid Titans has become a priority for [[id:e68a5318-bd72-4c92-9f70-dcdbd59505d1][Azimuth Biotech]], which is keen to learn more about the alien motherships. 
 
-Director Xavier Rousseau , head of the corporation’s bioscience division, was interviewed by the tech industry ICE channel On/Off Switch: 
+Director [[id:383fb579-1a11-4c58-9cde-0696d90cf7c9][Xavier Rousseau]], head of the corporation’s bioscience division, was interviewed by the tech industry [[id:a12cdcbc-fa10-474e-8654-d3d7da17a307][ICE]] channel [[id:941b558b-d84c-4b47-8efd-32a7b2232989][On/Off Switch]]: 
 
 “The Thargoid Titans present us with a range of exciting unknowns. What technologies were involved in their construction? We do not know. What exactly is a Titan’s hull comprised of? We cannot tell. How do the glowing openings on its superstructure work? We are not certain. Do they perform the same function as our docking bays? We can only speculate.” 
 

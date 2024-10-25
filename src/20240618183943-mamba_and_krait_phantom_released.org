@@ -2,7 +2,7 @@
 :ID:       41bd41b9-bedf-4caf-b4c7-948f16694c4c
 :END:
 #+title: Mamba and Krait Phantom Released
-#+filetags: :3304:galnet:
+#+filetags: :Thargoid:3304:galnet:
 
 * Mamba and Krait Phantom Released
 

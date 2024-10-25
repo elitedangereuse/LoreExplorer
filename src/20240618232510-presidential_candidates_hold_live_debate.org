@@ -12,7 +12,7 @@ Vice President Jerome Archer, Shadow President Felicia Winters, and entrepreneur
 
 The Republican, Liberal and independent candidates came together for an event that was broadcast across all Federal media networks. The event provided a platform to outline each candidate’s manifestos for voters, and engage in discourse on key issues. 
 
-The debate began smoothly, but did not continue in that vein as the three strong personalities clashed just a few questions in. Shortly after the broadcast, ICE channels began circulating a particularly popular segment in response to a question about Federal policy on public safety:  
+The debate began smoothly, but did not continue in that vein as the three strong personalities clashed just a few questions in. Shortly after the broadcast, [[id:a12cdcbc-fa10-474e-8654-d3d7da17a307][ICE]] channels began circulating a particularly popular segment in response to a question about Federal policy on public safety:  
 
 Archer: “Vigilance will be our watchword, and I aim to continue President Hudson’s excellent record on security.” 
 
@@ -30,6 +30,6 @@ Rackham: “Listen, hear me out. What our people need – what they deserve – 
 
 Winters: “And after the economy collapses, how will you achieve that? By selling off the treasure you stole during your pirate days?” 
 
-Rackham: “Now that’s cold even for you, Ms Winters! Firing off ICE rumours is not a good look on an elected official.” 
+Rackham: “Now that’s cold even for you, Ms Winters! Firing off [[id:a12cdcbc-fa10-474e-8654-d3d7da17a307][ICE]] rumours is not a good look on an elected official.” 
 
 Despite impressive viewing figures, many political commentators considered it to be ‘unnecessarily personal’ and ‘portraying the Federation in a poor light’. A second debate is being scheduled, which promises to address these criticisms through close moderation.

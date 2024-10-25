@@ -2,7 +2,7 @@
 :ID:       5e7a2367-0e67-42c0-ba94-8ea0bf0e07e6
 :END:
 #+title: Subject D-2 Departs on Lone Mission
-#+filetags: :galnet:
+#+filetags: :Thargoid:galnet:
 
 * Subject D-2 Departs on Lone Mission
 

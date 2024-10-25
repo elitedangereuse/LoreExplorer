@@ -2,7 +2,7 @@
 :ID:       461194a1-7483-453a-8c88-3df47025a0b3
 :END:
 #+title: Thargoid War Update: August 3309
-#+filetags: :Guardian:3309:Thargoid:galnet:
+#+filetags: :Thargoid:Guardian:3309:galnet:
 
 * Thargoid War Update: August 3309
 

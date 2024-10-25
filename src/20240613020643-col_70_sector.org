@@ -2,7 +2,7 @@
 :ID:       c8fe6fa0-8b82-4887-be3e-13422ca888a6
 :END:
 #+title: Col 70 Sector
-#+filetags: :Permit:Region:
+#+filetags: :Thargoid:Permit:Region:
 [[file:img/permit.png]]
 
 - Col 70 Sector AA-D b17-0

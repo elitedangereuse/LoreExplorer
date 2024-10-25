@@ -2,7 +2,7 @@
 :ID:       205c4cb1-8e46-4eb6-9c38-60f205e50286
 :END:
 #+title: Human Presence Causes Thargoid Withdrawal
-#+filetags: :Guardian:3309:Thargoid:galnet:
+#+filetags: :Thargoid:Guardian:3309:galnet:
 
 * Human Presence Causes Thargoid Withdrawal
 
