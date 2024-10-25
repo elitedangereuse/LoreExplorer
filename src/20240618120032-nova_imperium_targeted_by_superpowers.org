@@ -2,7 +2,7 @@
 :ID:       00a5a9c5-4c22-46ea-bc07-cc52dbbbbffb
 :END:
 #+title: Nova Imperium Targeted by Superpowers
-#+filetags: :Federation:Empire:galnet:
+#+filetags: :Empire:Federation:galnet:
 
 * Nova Imperium Targeted by Superpowers
 

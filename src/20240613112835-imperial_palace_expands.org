@@ -2,7 +2,7 @@
 :ID:       21e9fdb2-be6d-41a6-b3b9-a65c93fd1623
 :END:
 #+title: Imperial Palace Expands
-#+filetags: :beacon:
+#+filetags: :Empire:beacon:
 * 0144 Imperial Palace Expands
 [[id:bed8c27f-3cbe-49ad-b86f-7d87eacf804a][Achenar]]
 

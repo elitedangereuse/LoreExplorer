@@ -2,7 +2,7 @@
 :ID:       ba8b153c-a2e3-4c45-93e1-081e15db06bf
 :END:
 #+title: Eurybia Blue Mafia Resists Imperial Forces
-#+filetags: :Federation:Empire:galnet:
+#+filetags: :Empire:Federation:galnet:
 
 * Eurybia Blue Mafia Resists Imperial Forces
 

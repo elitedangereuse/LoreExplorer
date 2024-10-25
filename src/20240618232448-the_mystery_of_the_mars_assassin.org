@@ -2,7 +2,7 @@
 :ID:       f3f1e530-0e35-4b90-a1e1-d6477be58b50
 :END:
 #+title: The Mystery of the Mars Assassin
-#+filetags: :Federation:Empire:galnet:
+#+filetags: :Empire:Federation:galnet:
 
 * The Mystery of the Mars Assassin
 

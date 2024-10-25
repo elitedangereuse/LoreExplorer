@@ -2,7 +2,7 @@
 :ID:       d8c5c349-966d-4e47-aa2c-c2008445955e
 :END:
 #+title: Saud Kruger Luxury
-#+filetags: :beacon:
+#+filetags: :Empire:beacon:
 * 0228 Saud Kruger Luxury
 [[id:4ee2a5f7-7b84-4261-aeb9-ebcddc41ad7c][Bedaho]]
 

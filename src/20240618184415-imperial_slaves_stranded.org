@@ -2,7 +2,7 @@
 :ID:       f80fcebb-df97-4a15-8f52-f39804564ffa
 :END:
 #+title: Imperial Slaves Stranded
-#+filetags: :galnet:
+#+filetags: :Empire:galnet:
 
 * Imperial Slaves Stranded
 

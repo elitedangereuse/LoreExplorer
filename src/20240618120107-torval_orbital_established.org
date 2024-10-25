@@ -2,7 +2,7 @@
 :ID:       35e7224e-6216-4cbd-9f51-26c984d216b1
 :END:
 #+title: Torval Orbital Established
-#+filetags: :Federation:galnet:
+#+filetags: :Empire:Federation:galnet:
 
 * Torval Orbital Established
 

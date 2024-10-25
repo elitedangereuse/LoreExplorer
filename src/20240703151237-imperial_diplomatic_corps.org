@@ -3,4 +3,5 @@
 :ROAM_ALIASES: IDC
 :END:
 #+title: Imperial Diplomatic Corps
+#+filetags: :Empire:
 

@@ -2,7 +2,7 @@
 :ID:       ae7fdc3d-ddb6-4a1b-8b28-3b3897508fd9
 :END:
 #+title: A Majestic Development
-#+filetags: :Federation:3302:beacon:
+#+filetags: :Empire:Federation:3302:beacon:
 * 0689 A Majestic Development
 [[id:29b87d21-95e3-41c2-b43c-e5777025efa9][Carthage]]   
 

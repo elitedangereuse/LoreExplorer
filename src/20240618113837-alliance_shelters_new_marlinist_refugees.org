@@ -3,7 +3,7 @@
 :ROAM_REFS: https://cms.zaonce.net/en-GB/jsonapi/node/galnet_article/14db52cd-c366-4d1c-b086-8456f9e41628?resourceVersion=id%3A4869
 :END:
 #+title: Alliance Shelters New Marlinist Refugees
-#+filetags: :Federation:Empire:Alliance:galnet:
+#+filetags: :Empire:Federation:Alliance:galnet:
 
 * Alliance Shelters New Marlinist Refugees
 

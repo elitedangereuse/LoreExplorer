@@ -2,7 +2,7 @@
 :ID:       5f04a689-b2c9-470a-8777-6d4cbddff8e5
 :END:
 #+title: Contact Lost after Proteus Wave Fired
-#+filetags: :Federation:Alliance:Thargoid:galnet:
+#+filetags: :Empire:Federation:Alliance:Thargoid:galnet:
 
 * Contact Lost after Proteus Wave Fired
 

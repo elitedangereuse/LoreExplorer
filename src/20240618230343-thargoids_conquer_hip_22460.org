@@ -2,7 +2,7 @@
 :ID:       0983a819-f4ab-4ab5-a37f-52a1c9a738da
 :END:
 #+title: Thargoids Conquer HIP 22460
-#+filetags: :Federation:Alliance:Thargoid:galnet:
+#+filetags: :Empire:Federation:Alliance:Thargoid:galnet:
 
 * Thargoids Conquer HIP 22460
 

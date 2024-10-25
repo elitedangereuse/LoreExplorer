@@ -2,7 +2,7 @@
 :ID:       df529cf0-6f16-4f39-8ba6-f137804f09cb
 :END:
 #+title: Community Goal: Trouble in Maia
-#+filetags: :Federation:CommunityGoal:3302:galnet:
+#+filetags: :Empire:Federation:CommunityGoal:3302:galnet:
 
 * Community Goal: Trouble in Maia
 

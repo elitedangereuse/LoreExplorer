@@ -2,7 +2,7 @@
 :ID:       9ad99238-e845-489d-bde9-24814263c940
 :END:
 #+title: Experts Speculate on Thargoid Behaviour
-#+filetags: :Thargoid:Guardian:galnet:
+#+filetags: :Empire:Thargoid:Guardian:galnet:
 
 * Experts Speculate on Thargoid Behaviour
 

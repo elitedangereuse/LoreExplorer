@@ -2,7 +2,7 @@
 :ID:       09c6f234-8dfb-4d17-b048-66a3600b1ef5
 :END:
 #+title: Pilots Form Vanguard Against Thargoid Attacks
-#+filetags: :Federation:Empire:Alliance:Thargoid:galnet:
+#+filetags: :Empire:Federation:Alliance:Thargoid:galnet:
 
 * Pilots Form Vanguard Against Thargoid Attacks
 

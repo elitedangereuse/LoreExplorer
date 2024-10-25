@@ -2,7 +2,7 @@
 :ID:       0585ac87-dc5a-4c6e-8130-2e3e83de8bf4
 :END:
 #+title: Alliance and Marlinists Address Refugee Crisis
-#+filetags: :Federation:Empire:Alliance:galnet:
+#+filetags: :Empire:Federation:Alliance:galnet:
 
 * Alliance and Marlinists Address Refugee Crisis
 

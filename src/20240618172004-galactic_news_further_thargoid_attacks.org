@@ -2,7 +2,7 @@
 :ID:       68fa0c88-e052-4219-9140-a032e2eb6b32
 :END:
 #+title: Galactic News: Further Thargoid Attacks
-#+filetags: :Thargoid:3303:galnet:
+#+filetags: :Empire:Thargoid:3303:galnet:
 
 * Galactic News: Further Thargoid Attacks
 

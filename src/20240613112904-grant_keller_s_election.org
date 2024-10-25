@@ -2,7 +2,7 @@
 :ID:       564fe34a-be7a-4831-a030-a44770166070
 :END:
 #+title: Grant Keller's Election
-#+filetags: :Federation:beacon:
+#+filetags: :Empire:Federation:beacon:
 * 0192 Grant Keller's Election
 [[id:77a7a843-4242-4da8-a764-c1525e6ceefe][Ackwada]]
 

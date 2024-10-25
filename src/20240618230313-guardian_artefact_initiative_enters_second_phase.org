@@ -2,7 +2,7 @@
 :ID:       20fcf1f0-9b7f-4cb1-805a-54a730c9a8a9
 :END:
 #+title: Guardian Artefact Initiative Enters Second Phase
-#+filetags: :Federation:Thargoid:galnet:
+#+filetags: :Empire:Federation:Thargoid:galnet:
 
 * Guardian Artefact Initiative Enters Second Phase
 

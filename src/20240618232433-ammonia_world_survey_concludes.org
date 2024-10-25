@@ -2,7 +2,7 @@
 :ID:       07000dba-2e45-4643-ac5e-cc44fb3fe954
 :END:
 #+title: Ammonia World Survey Concludes
-#+filetags: :Federation:Thargoid:galnet:
+#+filetags: :Empire:Federation:Thargoid:galnet:
 
 * Ammonia World Survey Concludes
 

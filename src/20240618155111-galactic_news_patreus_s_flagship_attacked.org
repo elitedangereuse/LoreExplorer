@@ -2,7 +2,7 @@
 :ID:       84e5e0e2-b09e-4bf8-bc4c-000db7780891
 :END:
 #+title: Galactic News: Patreus's Flagship Attacked
-#+filetags: :3302:galnet:
+#+filetags: :Empire:3302:galnet:
 
 * Galactic News: Patreus's Flagship Attacked
 

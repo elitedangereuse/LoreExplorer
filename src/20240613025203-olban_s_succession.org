@@ -2,7 +2,7 @@
 :ID:       b0bd9f26-cc04-4fb6-8ac7-3a3e3b740903
 :END:
 #+title: Olban's Succession
-#+filetags: :beacon:
+#+filetags: :Empire:beacon:
 [[id:867ef9a7-e1b0-4b85-b0b4-3036c0cb8e48][Liaedin]]
 
 * 0138 Olban's Succession

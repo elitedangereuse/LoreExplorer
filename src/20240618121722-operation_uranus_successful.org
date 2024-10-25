@@ -2,7 +2,7 @@
 :ID:       07e520fe-fd66-45a4-861a-94a91b3d7c09
 :END:
 #+title: 'Operation Uranus’ Successful
-#+filetags: :3301:galnet:
+#+filetags: :Empire:3301:galnet:
 
 * 'Operation Uranus’ Successful
 

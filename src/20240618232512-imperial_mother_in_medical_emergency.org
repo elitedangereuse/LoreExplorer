@@ -2,7 +2,7 @@
 :ID:       1bc626a4-5382-421d-9c18-8d73a7764dac
 :END:
 #+title: Imperial Mother in Medical Emergency
-#+filetags: :galnet:
+#+filetags: :Empire:galnet:
 
 * Imperial Mother in Medical Emergency
 

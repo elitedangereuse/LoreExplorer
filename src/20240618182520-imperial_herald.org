@@ -2,4 +2,5 @@
 :ID:       626a18d7-ad16-4093-b9be-d9dc1940594b
 :END:
 #+title: Imperial Herald
+#+filetags: :Empire:
 newsfeed

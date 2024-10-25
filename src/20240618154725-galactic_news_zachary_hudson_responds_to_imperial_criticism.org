@@ -2,7 +2,7 @@
 :ID:       f31e584f-4e58-4b18-bbc0-756618b843e5
 :END:
 #+title: Galactic News: Zachary Hudson Responds to Imperial Criticism
-#+filetags: :Federation:Empire:3302:galnet:
+#+filetags: :Empire:Federation:3302:galnet:
 
 * Galactic News: [[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][Zachary Hudson]] Responds to Imperial Criticism
 

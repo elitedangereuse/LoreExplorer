@@ -2,6 +2,6 @@
 :ID:       2a22eaa3-2e5b-4fce-bc9b-3afc5888753e
 :END:
 #+title: Seven Veils
-#+filetags: :ship:
+#+filetags: :Empire:ship:
 
 Imperial Clipper of [[id:2f09bc24-0885-4d00-9d1f-506b32464dbe][Salomé]]

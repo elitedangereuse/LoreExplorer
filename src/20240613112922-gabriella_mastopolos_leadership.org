@@ -2,7 +2,7 @@
 :ID:       db43b001-582e-4d59-b941-a8128ef77c24
 :END:
 #+title: Gabriella Mastopolos' Leadership
-#+filetags: :beacon:
+#+filetags: :Empire:beacon:
 * 0221 Gabriella Mastopolos' Leadership
 [[id:7d12ffc5-6340-4b45-8c32-d63af1e5cbf1][Enayex]]
 

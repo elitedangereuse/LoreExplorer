@@ -3,4 +3,5 @@
 :ROAM_ALIASES: "Double I, Double S" IISS
 :END:
 #+title: Imperial Internal Security Service
+#+filetags: :Empire:
 

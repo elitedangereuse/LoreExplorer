@@ -2,7 +2,7 @@
 :ID:       e964a0ac-a328-49f9-aeb4-48dc15db9103
 :END:
 #+title: Hender's Ascension
-#+filetags: :beacon:
+#+filetags: :Empire:beacon:
 * 0150 Hender's Ascension
 [[id:1062402b-b982-499d-85ce-fbaa7570939f][Facece]]  
 

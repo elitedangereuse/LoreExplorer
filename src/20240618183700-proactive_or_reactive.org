@@ -2,7 +2,7 @@
 :ID:       91e717d8-2535-48bd-8d38-d88986da18bb
 :END:
 #+title: Proactive or Reactive?
-#+filetags: :Thargoid:3304:galnet:
+#+filetags: :Empire:Thargoid:3304:galnet:
 
 * Proactive or Reactive?
 

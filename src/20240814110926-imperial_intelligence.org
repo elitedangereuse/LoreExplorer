@@ -2,4 +2,5 @@
 :ID:       45d78e5d-27b7-48cb-97b2-012934be3180
 :END:
 #+title: Imperial Intelligence
+#+filetags: :Empire:
 

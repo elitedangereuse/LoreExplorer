@@ -2,7 +2,7 @@
 :ID:       88e6eed0-e919-425d-91ae-75cb8a521656
 :END:
 #+title: Boosting the Federal Fleet
-#+filetags: :Federation:beacon:
+#+filetags: :Empire:Federation:beacon:
 * 0687 Boosting the Federal Fleet
 [[id:c981c9b3-05d4-421f-a167-3215666eadcf][Gooheimar]]
 

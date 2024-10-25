@@ -2,7 +2,7 @@
 :ID:       64d0f11f-e95b-4246-b6a9-6ddce1aeaa93
 :END:
 #+title: The Call for Unity
-#+filetags: :Federation:Empire:Thargoid:galnet:
+#+filetags: :Empire:Federation:Thargoid:galnet:
 
 * The Call for Unity
 

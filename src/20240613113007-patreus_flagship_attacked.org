@@ -2,7 +2,7 @@
 :ID:       91c56ca5-effc-452a-bb62-98d7dd8c33c3
 :END:
 #+title: Patreus' Flagship Attacked
-#+filetags: :beacon:
+#+filetags: :Empire:beacon:
 * 0670 Patreus' Flagship Attacked
 [[id:9fa174ce-7273-40ba-a0e6-1225bcda40b6][Eotienses]]
 

@@ -2,7 +2,7 @@
 :ID:       182c5724-2926-400e-9b49-5e7d8839e627
 :END:
 #+title: Aliens Kidnapped the President
-#+filetags: :Federation:3301:galnet:
+#+filetags: :Empire:Federation:3301:galnet:
 
 * Aliens Kidnapped the President
 

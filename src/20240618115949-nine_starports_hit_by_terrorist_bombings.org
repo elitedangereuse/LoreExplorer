@@ -2,7 +2,7 @@
 :ID:       eb7296e1-399a-44fc-9403-b91d37f7a726
 :END:
 #+title: Nine Starports Hit by Terrorist Bombings
-#+filetags: :Federation:Empire:Alliance:Thargoid:galnet:
+#+filetags: :Empire:Federation:Alliance:Thargoid:galnet:
 
 * Nine Starports Hit by Terrorist Bombings
 

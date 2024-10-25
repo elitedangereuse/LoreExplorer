@@ -2,7 +2,7 @@
 :ID:       97637634-adef-4735-a51b-ac1abc776842
 :END:
 #+title: Emperor Approves Aisling’s Plan for Aegis
-#+filetags: :Federation:Alliance:galnet:
+#+filetags: :Empire:Federation:Alliance:galnet:
 
 * Emperor Approves Aisling’s Plan for Aegis
 

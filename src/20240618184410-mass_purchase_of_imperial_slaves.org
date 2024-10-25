@@ -2,7 +2,7 @@
 :ID:       aab15f10-107c-4492-9f5c-9a8f0bd04d2e
 :END:
 #+title: Mass Purchase of Imperial Slaves
-#+filetags: :galnet:
+#+filetags: :Empire:galnet:
 
 * Mass Purchase of Imperial Slaves
 

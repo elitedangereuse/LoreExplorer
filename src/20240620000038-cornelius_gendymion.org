@@ -2,5 +2,5 @@
 :ID:       c9e0148d-8849-41ef-abfa-b7844bbe2403
 :END:
 #+title: Cornelius Gendymion
-#+filetags: :Individual:
+#+filetags: :Empire:Individual:
 Imperial investigator

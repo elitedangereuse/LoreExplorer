@@ -2,7 +2,7 @@
 :ID:       51a92498-ef1b-4fc3-9ad7-9e49fb947353
 :END:
 #+title: Commander Salomé Hijacked In Cemiess
-#+filetags: :beacon:
+#+filetags: :Empire:beacon:
 * 0683 Commander Salomé Hijacked In [[id:360ae21e-63f2-43ba-a2fd-a47e5e49951e][Cemiess]]
 [[id:360ae21e-63f2-43ba-a2fd-a47e5e49951e][Cemiess]]  
 

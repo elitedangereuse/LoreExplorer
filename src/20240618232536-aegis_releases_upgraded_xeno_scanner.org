@@ -2,7 +2,7 @@
 :ID:       0938a4b9-6928-4d25-8cbe-fa0aa9015fa4
 :END:
 #+title: Aegis Releases Upgraded Xeno Scanner
-#+filetags: :Federation:Thargoid:galnet:
+#+filetags: :Empire:Federation:Thargoid:galnet:
 
 * Aegis Releases Upgraded Xeno Scanner
 

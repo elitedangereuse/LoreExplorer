@@ -2,7 +2,7 @@
 :ID:       7120edbd-5c85-4eec-a076-22c81b5a160e
 :END:
 #+title: Mining Campaign in LHS 3872 Concludes
-#+filetags: :Federation:Empire:galnet:
+#+filetags: :Empire:Federation:galnet:
 
 * Mining Campaign in LHS 3872 Concludes
 

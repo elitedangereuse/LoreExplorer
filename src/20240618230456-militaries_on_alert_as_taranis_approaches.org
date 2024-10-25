@@ -2,7 +2,7 @@
 :ID:       90cb3ecd-97cf-4cc1-8e00-837951d08d73
 :END:
 #+title: Militaries on Alert as Taranis Approaches
-#+filetags: :Federation:Alliance:Thargoid:galnet:
+#+filetags: :Empire:Federation:Alliance:Thargoid:galnet:
 
 * Militaries on Alert as Taranis Approaches
 

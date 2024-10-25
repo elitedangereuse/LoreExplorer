@@ -2,7 +2,7 @@
 :ID:       c138dce1-9e6a-4828-8066-e88f5f9a37b2
 :END:
 #+title: Galactic News: Federal Campaign Derailed Again
-#+filetags: :Federation:3302:galnet:
+#+filetags: :Empire:Federation:3302:galnet:
 
 * Galactic News: Federal Campaign Derailed Again
 

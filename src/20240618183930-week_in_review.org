@@ -2,7 +2,7 @@
 :ID:       195a5a32-863a-4750-bab8-0e8d1f9afb82
 :END:
 #+title: Week in Review 17 Nov 3304
-#+filetags: :3304:galnet:
+#+filetags: :Empire:3304:galnet:
 
 * Week in Review
 

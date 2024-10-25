@@ -2,7 +2,7 @@
 :ID:       053c7d4b-75b5-437b-93f9-2a6006b9c3b0
 :END:
 #+title: Official Period of Mourning Begins
-#+filetags: :Federation:3301:galnet:
+#+filetags: :Empire:Federation:3301:galnet:
 
 * Official Period of Mourning Begins
 

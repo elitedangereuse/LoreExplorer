@@ -2,7 +2,7 @@
 :ID:       145e5214-fd7c-4d89-bf50-0e640bc50dee
 :END:
 #+title: Deliveries Requested to Commemorate Duval Family
-#+filetags: :Federation:Empire:galnet:
+#+filetags: :Empire:Federation:galnet:
 
 * Deliveries Requested to Commemorate Duval Family
 

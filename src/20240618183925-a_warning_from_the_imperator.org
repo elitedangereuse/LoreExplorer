@@ -2,7 +2,7 @@
 :ID:       c6e70c80-8782-4cbb-a5f3-b54ca2c1a148
 :END:
 #+title: A Warning from the Imperator
-#+filetags: :Federation:Empire:Thargoid:3304:galnet:
+#+filetags: :Empire:Federation:Thargoid:3304:galnet:
 
 * A Warning from the Imperator
 

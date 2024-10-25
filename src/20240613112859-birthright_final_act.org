@@ -2,7 +2,7 @@
 :ID:       b5741af4-f768-436d-9f33-91458e31ecd6
 :END:
 #+title: Birthright Final Act
-#+filetags: :Federation:beacon:
+#+filetags: :Empire:Federation:beacon:
 * 0183 Birthright Final Act
 [[id:f0fea079-ca2f-420e-8dce-e69ca46ae126][Anlave]]
 

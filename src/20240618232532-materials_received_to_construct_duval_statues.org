@@ -2,7 +2,7 @@
 :ID:       2beb8d2e-e623-48ce-b7c6-f1fa2e91f925
 :END:
 #+title: Materials Received to Construct Duval Statues
-#+filetags: :Federation:Empire:galnet:
+#+filetags: :Empire:Federation:galnet:
 
 * Materials Received to Construct Duval Statues
 

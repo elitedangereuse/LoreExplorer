@@ -2,7 +2,7 @@
 :ID:       c222c491-f901-4083-925d-b16c46d60f7f
 :END:
 #+title: Torval Mining Victorious in Corporate Conflict
-#+filetags: :Federation:Empire:galnet:
+#+filetags: :Empire:Federation:galnet:
 
 * Torval Mining Victorious in Corporate Conflict
 

@@ -2,7 +2,7 @@
 :ID:       f4ab6958-497d-430c-b322-bc5c67aa7707
 :END:
 #+title: Denton Patreus Receives Promotion
-#+filetags: :beacon:
+#+filetags: :Empire:beacon:
 * 0699 [[id:75daea85-5e9f-4f6f-a102-1a5edea0283c][Denton Patreus]] Receives Promotion
 [[id:bed8c27f-3cbe-49ad-b86f-7d87eacf804a][Achenar]]
 

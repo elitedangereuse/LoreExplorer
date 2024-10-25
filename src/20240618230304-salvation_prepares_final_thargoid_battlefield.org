@@ -2,7 +2,7 @@
 :ID:       81304c67-5e94-4de0-96fe-3a8a1251b797
 :END:
 #+title: Salvation Prepares ‘Final Thargoid Battlefield’
-#+filetags: :Federation:Alliance:Thargoid:galnet:
+#+filetags: :Empire:Federation:Alliance:Thargoid:galnet:
 
 * [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]] Prepares ‘Final Thargoid Battlefield’
 

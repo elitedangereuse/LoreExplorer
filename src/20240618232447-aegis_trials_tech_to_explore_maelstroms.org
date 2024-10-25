@@ -2,7 +2,7 @@
 :ID:       663ee70e-071c-435a-8dec-bbdf1cdc48bc
 :END:
 #+title: Aegis Trials Tech to Explore Maelstroms
-#+filetags: :Federation:Empire:Thargoid:galnet:
+#+filetags: :Empire:Federation:Thargoid:galnet:
 
 * Aegis Trials Tech to Explore Maelstroms
 

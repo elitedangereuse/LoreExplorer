@@ -2,7 +2,7 @@
 :ID:       bce97625-331d-4c57-a68b-f9f0b1289356
 :END:
 #+title: Talk Show Murder Broadcast
-#+filetags: :galnet:
+#+filetags: :Empire:galnet:
 
 * Talk Show Murder Broadcast
 

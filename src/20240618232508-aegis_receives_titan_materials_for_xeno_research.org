@@ -2,7 +2,7 @@
 :ID:       0cfba5c9-e208-44d5-aeff-e9c670650674
 :END:
 #+title: Aegis Receives Titan Materials for Xeno-Research
-#+filetags: :Federation:Thargoid:galnet:
+#+filetags: :Empire:Federation:Thargoid:galnet:
 
 * Aegis Receives Titan Materials for Xeno-Research
 

@@ -2,7 +2,7 @@
 :ID:       8716203e-452f-4de0-a20c-c350e00522b3
 :END:
 #+title: Pirate POWs Pack Prisons
-#+filetags: :Federation:Empire:3301:galnet:
+#+filetags: :Empire:Federation:3301:galnet:
 
 * Pirate POWs Pack Prisons
 

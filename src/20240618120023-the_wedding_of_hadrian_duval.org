@@ -2,7 +2,7 @@
 :ID:       cd96c850-e9ab-4fe9-b62f-c4c902e8c0c4
 :END:
 #+title: The Wedding of Hadrian Duval
-#+filetags: :galnet:
+#+filetags: :Empire:galnet:
 
 * The Wedding of Hadrian Duval
 

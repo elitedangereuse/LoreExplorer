@@ -2,7 +2,7 @@
 :ID:       701ec125-dd79-4808-85c6-bba4798187d9
 :END:
 #+title: Into the Maelstroms
-#+filetags: :Federation:Alliance:Thargoid:galnet:
+#+filetags: :Empire:Federation:Alliance:Thargoid:galnet:
 
 * Into the Maelstroms
 

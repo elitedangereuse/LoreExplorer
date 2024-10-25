@@ -2,7 +2,7 @@
 :ID:       a1fece6e-301f-4b3c-b4ba-626cc1c50f97
 :END:
 #+title: Bounty Voucher Boost to Increase Local Security
-#+filetags: :Federation:Alliance:galnet:
+#+filetags: :Empire:Federation:Alliance:galnet:
 
 * Bounty Voucher Boost to Increase Local Security
 

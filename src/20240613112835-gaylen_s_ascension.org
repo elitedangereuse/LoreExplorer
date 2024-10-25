@@ -2,7 +2,7 @@
 :ID:       9ef5896c-fe0c-4014-adb8-a40d96652edd
 :END:
 #+title: Gaylen's Ascension
-#+filetags: :Federation:beacon:
+#+filetags: :Empire:Federation:beacon:
 * 0143 Gaylen's Ascension
 [[id:61687e51-580b-43d7-993e-0dd100f82804][Quince]]
 

@@ -2,7 +2,7 @@
 :ID:       3f48a46a-b011-4da9-918d-926aa8c9a2e2
 :END:
 #+title: The Eve of the Wedding
-#+filetags: :Federation:Empire:3301:galnet:
+#+filetags: :Empire:Federation:3301:galnet:
 
 * The Eve of the Wedding
 

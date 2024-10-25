@@ -2,7 +2,7 @@
 :ID:       f010bba2-4e83-4d9c-b830-3a504aee1eb7
 :END:
 #+title: Galactic News: Federal Campaign Concludes
-#+filetags: :Federation:3302:galnet:
+#+filetags: :Empire:Federation:3302:galnet:
 
 * Galactic News: Federal Campaign Concludes
 

@@ -3,7 +3,7 @@
 :ROAM_REFS: https://cms.zaonce.net/en-GB/jsonapi/node/galnet_article/1a00470c-19dc-40f9-8e48-67b34479e609?resourceVersion=id%3A4922
 :END:
 #+title: Engineer’s Enhanced Missile Rack Initiative
-#+filetags: :Federation:Empire:galnet:
+#+filetags: :Empire:Federation:galnet:
 
 * Engineer’s Enhanced Missile Rack Initiative
 

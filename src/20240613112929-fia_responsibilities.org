@@ -2,7 +2,7 @@
 :ID:       2e1dab14-23fd-4012-8366-f25374f2c3f9
 :END:
 #+title: FIA Responsibilities
-#+filetags: :Federation:beacon:
+#+filetags: :Empire:Federation:beacon:
 * 0232 FIA Responsibilities
 [[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]]
 

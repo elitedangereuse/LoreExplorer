@@ -2,7 +2,7 @@
 :ID:       184d38d4-a254-4393-a525-751114fb4aca
 :END:
 #+title: Galactic News: Imperial Appeal Comes to an End
-#+filetags: :Federation:Empire:3302:galnet:
+#+filetags: :Empire:Federation:3302:galnet:
 
 * Galactic News: Imperial Appeal Comes to an End
 

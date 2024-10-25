@@ -2,7 +2,7 @@
 :ID:       c6100f5c-82b2-4e3f-94f8-7ffcf850b46b
 :END:
 #+title: Federal Initiative to Support Marlinist Refugees
-#+filetags: :Federation:Empire:galnet:
+#+filetags: :Empire:Federation:galnet:
 
 * Federal Initiative to Support Marlinist Refugees
 

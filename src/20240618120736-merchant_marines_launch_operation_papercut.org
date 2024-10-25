@@ -2,7 +2,7 @@
 :ID:       e1a12f9a-488f-4f96-ae43-054b0d18fb57
 :END:
 #+title: Merchant Marines Launch Operation Papercut
-#+filetags: :Federation:3301:galnet:
+#+filetags: :Empire:Federation:3301:galnet:
 
 * Merchant Marines Launch Operation Papercut
 

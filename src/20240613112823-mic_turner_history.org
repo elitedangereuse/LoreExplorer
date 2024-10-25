@@ -2,7 +2,7 @@
 :ID:       b3b11d83-3aa9-4234-ae37-269160bf4603
 :END:
 #+title: Mic Turner History
-#+filetags: :Federation:beacon:
+#+filetags: :Empire:Federation:beacon:
 * 0121 [[id:c46f5348-be85-4d06-bf04-12a9b812d0ad][Mic Turner]] History                               :beacon:EliteHistory:
 [[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]]
 

@@ -2,7 +2,7 @@
 :ID:       1e6eda75-4850-48a8-8b16-9e2f0a1d3523
 :END:
 #+title: Anti-Thargoid Operation
-#+filetags: :Federation:Thargoid:3304:galnet:
+#+filetags: :Empire:Federation:Thargoid:3304:galnet:
 
 * Anti-Thargoid Operation
 

@@ -2,7 +2,7 @@
 :ID:       730a15a7-d06a-465a-a34a-08558f852729
 :END:
 #+title: Prism Senator Continues to Woo Federation Residents
-#+filetags: :Federation:3301:galnet:
+#+filetags: :Empire:Federation:3301:galnet:
 
 * Prism Senator Continues to Woo Federation Residents
 

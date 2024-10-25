@@ -2,4 +2,5 @@
 :ID:       1719bc8f-26fd-43f4-958d-fbbf98ef8648
 :END:
 #+title: Imperial Science Academy
+#+filetags: :Empire:
 

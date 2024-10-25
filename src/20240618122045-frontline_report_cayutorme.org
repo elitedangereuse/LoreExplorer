@@ -2,7 +2,7 @@
 :ID:       5716061f-bdf1-4181-88ef-12bda5364835
 :END:
 #+title: Frontline Report: Cayutorme
-#+filetags: :3301:galnet:
+#+filetags: :Empire:3301:galnet:
 
 * Frontline Report: [[id:3ae0f41b-9beb-419b-a804-68a000d9666b][Cayutorme]]
 

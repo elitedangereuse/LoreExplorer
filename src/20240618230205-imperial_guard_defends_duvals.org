@@ -2,7 +2,7 @@
 :ID:       3d76fdcc-b6ff-4c89-b2e6-23a5b1e63884
 :END:
 #+title: Imperial Guard Defends Duvals
-#+filetags: :galnet:
+#+filetags: :Empire:galnet:
 
 * Imperial Guard Defends Duvals
 

@@ -2,7 +2,7 @@
 :ID:       beeec4bb-6b6c-4e76-a238-11cada2cb716
 :END:
 #+title: Galactic News: Latest Imperial Campaign Concludes
-#+filetags: :3302:galnet:
+#+filetags: :Empire:3302:galnet:
 
 * Galactic News: Latest Imperial Campaign Concludes
 

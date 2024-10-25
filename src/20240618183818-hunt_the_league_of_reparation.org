@@ -2,7 +2,7 @@
 :ID:       c11c1434-1733-4d19-8efa-3cf2428b244b
 :END:
 #+title: Hunt the League of Reparation
-#+filetags: :Federation:3304:galnet:
+#+filetags: :Empire:Federation:3304:galnet:
 
 * Hunt the League of Reparation
 

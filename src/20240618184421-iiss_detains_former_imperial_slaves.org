@@ -2,7 +2,7 @@
 :ID:       eb46c038-5588-4635-95cb-6d7d6a8b58ab
 :END:
 #+title: IISS Detains Former Imperial Slaves
-#+filetags: :galnet:
+#+filetags: :Empire:galnet:
 
 * IISS Detains Former Imperial Slaves
 

@@ -2,7 +2,7 @@
 :ID:       45ebf48b-9f09-45e8-a145-b07b93a2c6bf
 :END:
 #+title: Galactic News: Prisoner Convoy Destroyed
-#+filetags: :3302:galnet:
+#+filetags: :Empire:3302:galnet:
 
 * Galactic News: Prisoner Convoy Destroyed
 

@@ -3,7 +3,7 @@
 :ROAM_REFS: https://cms.zaonce.net/en-GB/jsonapi/node/galnet_article/cecc3266-2549-4fac-a0cf-a4df346bc916?resourceVersion=id%3A4852
 :END:
 #+title: Engineers Boost Ship Module Upgrading
-#+filetags: :Federation:Alliance:galnet:
+#+filetags: :Empire:Federation:Alliance:galnet:
 
 * Engineers Boost Ship Module Upgrading
 

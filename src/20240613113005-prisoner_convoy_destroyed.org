@@ -2,7 +2,7 @@
 :ID:       1aa0996d-7196-46ed-a310-06dc561f825a
 :END:
 #+title: Prisoner Convoy Destroyed
-#+filetags: :beacon:
+#+filetags: :Empire:beacon:
 * 0667 Prisoner Convoy Destroyed
 [[id:a1924eb2-1f4d-4a20-9249-3891bd420b7a][Daibo]]
 

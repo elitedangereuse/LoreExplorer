@@ -2,7 +2,7 @@
 :ID:       c22106b3-c830-4727-8656-6c68183c0bac
 :END:
 #+title: Battle of Chione
-#+filetags: :Federation:beacon:
+#+filetags: :Empire:Federation:beacon:
 * 0503 Battle of Chione
 [[id:8da12af2-6006-4e7e-a45e-7bf8b2c299c8][Prism]]
 

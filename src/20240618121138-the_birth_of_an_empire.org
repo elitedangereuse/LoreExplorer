@@ -2,7 +2,7 @@
 :ID:       085cb3c5-903d-4541-ac53-96be9ed3aa3f
 :END:
 #+title: The Birth of an Empire
-#+filetags: :Federation:Empire:3301:galnet:
+#+filetags: :Empire:Federation:3301:galnet:
 
 * The Birth of an Empire
 

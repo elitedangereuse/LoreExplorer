@@ -2,4 +2,5 @@
 :ID:       e9becd28-9644-42aa-afc8-7bba3ce10076
 :END:
 #+title: Imperial Navy
+#+filetags: :Empire:
 

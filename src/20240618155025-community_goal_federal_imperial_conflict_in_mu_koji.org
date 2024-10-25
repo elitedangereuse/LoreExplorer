@@ -2,7 +2,7 @@
 :ID:       015e92e7-58dd-41ce-b57a-e395b608ad76
 :END:
 #+title: Community Goal: Federal-Imperial Conflict in Mu Koji
-#+filetags: :Federation:Empire:CommunityGoal:3302:galnet:
+#+filetags: :Empire:Federation:CommunityGoal:3302:galnet:
 
 * Community Goal: Federal-Imperial Conflict in Mu Koji
 

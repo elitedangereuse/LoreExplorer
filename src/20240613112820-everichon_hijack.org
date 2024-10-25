@@ -2,7 +2,7 @@
 :ID:       4e12fecd-d2a6-4e33-a6ce-0a5c48c3a8c8
 :END:
 #+title: Everichon Hijack
-#+filetags: :beacon:
+#+filetags: :Empire:beacon:
 * 0117 Everichon Hijack
 [[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]]  
 

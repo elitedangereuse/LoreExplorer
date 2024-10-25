@@ -2,7 +2,7 @@
 :ID:       39a9ca76-6d26-4c84-bbdc-d0c716b75fd5
 :END:
 #+title: Superpowers Discuss Unified Anti-Xeno Fleet
-#+filetags: :Federation:Empire:Alliance:Thargoid:galnet:
+#+filetags: :Empire:Federation:Alliance:Thargoid:galnet:
 
 * Superpowers Discuss Unified Anti-Xeno Fleet
 

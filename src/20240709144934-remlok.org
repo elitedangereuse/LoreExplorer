@@ -2,7 +2,7 @@
 :ID:       8af6e642-0638-4822-9903-bb688e9fa641
 :END:
 #+title: Remlok
-#+filetags: :Corporation:
+#+filetags: :Empire:Corporation:
 * Remlok
 
 #+begin_quote

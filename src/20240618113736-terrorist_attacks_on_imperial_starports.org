@@ -2,7 +2,7 @@
 :ID:       1bebaec2-46ab-460f-bbfd-d995cefd7989
 :END:
 #+title: Terrorist Attacks on Imperial Starports
-#+filetags: :Federation:Empire:galnet:
+#+filetags: :Empire:Federation:galnet:
 
 * Terrorist Attacks on Imperial Starports
 

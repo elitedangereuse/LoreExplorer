@@ -2,7 +2,7 @@
 :ID:       8bc2f31b-6224-4117-a95d-7e58bb82ffac
 :END:
 #+title: Galactic News: Further INRA Bases Discovered
-#+filetags: :Thargoid:3303:galnet:
+#+filetags: :Empire:Thargoid:3303:galnet:
 
 * Galactic News: Further INRA Bases Discovered
 

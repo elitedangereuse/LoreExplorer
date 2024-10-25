@@ -2,7 +2,7 @@
 :ID:       55779fe3-1592-4ac2-a8c3-e65bf8ced40c
 :END:
 #+title: Battle of Summerland Ends NMLA Threat
-#+filetags: :Federation:Empire:galnet:
+#+filetags: :Empire:Federation:galnet:
 
 * Battle of Summerland Ends NMLA Threat
 

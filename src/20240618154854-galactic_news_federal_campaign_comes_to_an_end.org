@@ -2,7 +2,7 @@
 :ID:       20a7000f-7afa-403a-b83c-945c92f70815
 :END:
 #+title: Galactic News: Federal Campaign Comes to an End
-#+filetags: :Federation:3302:galnet:
+#+filetags: :Empire:Federation:3302:galnet:
 
 * Galactic News: Federal Campaign Comes to an End
 

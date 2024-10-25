@@ -2,7 +2,7 @@
 :ID:       7d202423-18ae-4836-9ca2-c6daaae626d3
 :END:
 #+title: Noticias de la comunidad: Nuevos avistamientos de la Diamondback
-#+filetags: :3302:galnet:
+#+filetags: :Empire:3302:galnet:
 
 * Noticias de la comunidad: Nuevos avistamientos de la Diamondback
 

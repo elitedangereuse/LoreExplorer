@@ -2,7 +2,7 @@
 :ID:       0f563339-de46-48e5-851b-ff52ad39a6e0
 :END:
 #+title: Galactic News: Abandoned INRA Outpost Discovered
-#+filetags: :Federation:Thargoid:3303:galnet:
+#+filetags: :Empire:Federation:Thargoid:3303:galnet:
 
 * Galactic News: Abandoned INRA Outpost Discovered
 

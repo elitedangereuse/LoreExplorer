@@ -2,7 +2,7 @@
 :ID:       e3c99999-32a7-414c-bd7c-7925da7b9399
 :END:
 #+title: War with the Federation
-#+filetags: :Federation:beacon:
+#+filetags: :Empire:Federation:beacon:
 * 0129  War with the Federation
 [[id:bed8c27f-3cbe-49ad-b86f-7d87eacf804a][Achenar]]
 

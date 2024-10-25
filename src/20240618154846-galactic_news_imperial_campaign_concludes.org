@@ -2,7 +2,7 @@
 :ID:       8ff1dd53-4251-495c-abf9-8cd58904e079
 :END:
 #+title: Galactic News: Imperial Campaign Concludes
-#+filetags: :3302:galnet:
+#+filetags: :Empire:3302:galnet:
 
 * Galactic News: Imperial Campaign Concludes
 

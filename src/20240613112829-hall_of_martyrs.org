@@ -2,7 +2,7 @@
 :ID:       363e99b9-ddd0-40bb-8cd2-11d8414ada86
 :END:
 #+title: Hall of Martyrs
-#+filetags: :beacon:
+#+filetags: :Empire:beacon:
 * 0131  Hall of Martyrs
 [[id:bed8c27f-3cbe-49ad-b86f-7d87eacf804a][Achenar]]
 

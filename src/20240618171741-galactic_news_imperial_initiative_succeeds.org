@@ -2,7 +2,7 @@
 :ID:       9d969da1-8f68-47a9-8f65-1a63b631f9fd
 :END:
 #+title: Galactic News: Imperial Initiative Succeeds
-#+filetags: :3303:galnet:
+#+filetags: :Empire:3303:galnet:
 
 * Galactic News: Imperial Initiative Succeeds
 

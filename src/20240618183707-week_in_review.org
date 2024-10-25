@@ -2,7 +2,7 @@
 :ID:       8e162ccf-57bc-474b-9325-a1413c0460b8
 :END:
 #+title: Week in Review 04 Mar 3304
-#+filetags: :Federation:Thargoid:3304:galnet:
+#+filetags: :Empire:Federation:Thargoid:3304:galnet:
 
 * Week in Review
 

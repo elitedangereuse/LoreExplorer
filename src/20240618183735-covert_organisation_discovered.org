@@ -2,7 +2,7 @@
 :ID:       55b4dcab-7f54-44b0-ac62-6e0a71aec1dc
 :END:
 #+title: Covert Organisation Discovered
-#+filetags: :Federation:Empire:Alliance:3304:galnet:
+#+filetags: :Empire:Federation:Alliance:3304:galnet:
 
 * Covert Organisation Discovered
 

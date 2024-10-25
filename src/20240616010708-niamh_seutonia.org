@@ -2,4 +2,5 @@
 :ID:       cdaa5220-8f79-47dc-b160-a5d3d1ca30a0
 :END:
 #+title: Niamh Seutonia
+#+filetags: :Empire:
 Captain of the [[id:01980efc-1b06-4f55-bf18-fa6c7e56f1eb][Imperial Internal Security Service]]

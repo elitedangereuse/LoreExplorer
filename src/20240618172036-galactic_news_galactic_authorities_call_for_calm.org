@@ -2,7 +2,7 @@
 :ID:       1058bc8d-37b9-41ea-9800-988c9e7de7ea
 :END:
 #+title: Galactic News: Galactic Authorities Call for Calm
-#+filetags: :Federation:Empire:Thargoid:3303:galnet:
+#+filetags: :Empire:Federation:Thargoid:3303:galnet:
 
 * Galactic News: Galactic Authorities Call for Calm
 

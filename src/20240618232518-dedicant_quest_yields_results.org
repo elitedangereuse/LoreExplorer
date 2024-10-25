@@ -2,7 +2,7 @@
 :ID:       dc8107f7-31fb-4697-bf66-c05e19f9dc0d
 :END:
 #+title: Dedicant Quest Yields Results
-#+filetags: :Federation:Empire:galnet:
+#+filetags: :Empire:Federation:galnet:
 
 * Dedicant Quest Yields Results
 

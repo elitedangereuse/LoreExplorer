@@ -2,7 +2,7 @@
 :ID:       b85b8cbb-6382-47d5-8da1-fb3bfe130bf9
 :END:
 #+title: Hudson Praises Merchant Marines
-#+filetags: :Federation:Empire:3301:galnet:
+#+filetags: :Empire:Federation:3301:galnet:
 
 * Hudson Praises Merchant Marines
 

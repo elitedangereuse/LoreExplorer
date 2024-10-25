@@ -2,7 +2,7 @@
 :ID:       867fcdb7-c170-40dc-9e89-99f8437bc71a
 :END:
 #+title: Pulse Wave Xeno Scanner Now Available
-#+filetags: :Federation:Thargoid:galnet:
+#+filetags: :Empire:Federation:Thargoid:galnet:
 
 * Pulse Wave Xeno Scanner Now Available
 

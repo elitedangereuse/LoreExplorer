@@ -2,7 +2,7 @@
 :ID:       730a90bd-a34b-4382-988c-f4946538af2b
 :END:
 #+title: Galactic News: Acrimony on Achenar
-#+filetags: :3302:galnet:
+#+filetags: :Empire:3302:galnet:
 
 * Galactic News: Acrimony on Achenar
 

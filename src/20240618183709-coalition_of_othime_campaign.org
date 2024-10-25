@@ -2,7 +2,7 @@
 :ID:       dabb6d7d-efc6-47e9-95bc-8fa084574faa
 :END:
 #+title: Coalition of Othime Campaign
-#+filetags: :3304:galnet:
+#+filetags: :Empire:3304:galnet:
 
 * Coalition of Othime Campaign
 

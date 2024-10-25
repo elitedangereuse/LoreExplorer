@@ -2,7 +2,7 @@
 :ID:       b09a7deb-b634-4a54-91de-cdc1862cbabd
 :END:
 #+title: Falisci: Democracy Denied
-#+filetags: :Federation:3301:galnet:
+#+filetags: :Empire:Federation:3301:galnet:
 
 * Falisci: Democracy Denied
 

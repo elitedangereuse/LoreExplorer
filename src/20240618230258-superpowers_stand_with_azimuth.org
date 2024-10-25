@@ -2,7 +2,7 @@
 :ID:       b30decb0-cd0c-44d2-8a8d-defc2cdb71fb
 :END:
 #+title: Superpowers Stand with Azimuth
-#+filetags: :Federation:Empire:Alliance:Thargoid:galnet:
+#+filetags: :Empire:Federation:Alliance:Thargoid:galnet:
 
 * Superpowers Stand with Azimuth
 

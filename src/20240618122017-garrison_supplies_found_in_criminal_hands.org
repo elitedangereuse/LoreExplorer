@@ -2,7 +2,7 @@
 :ID:       3d06d547-fc81-4cb3-a11e-b8c1b9351578
 :END:
 #+title: Garrison Supplies Found in Criminal Hands
-#+filetags: :3301:galnet:
+#+filetags: :Empire:3301:galnet:
 
 * Garrison Supplies Found in Criminal Hands
 

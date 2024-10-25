@@ -2,7 +2,7 @@
 :ID:       07314150-a62b-4f29-8a0d-8755427d6af5
 :END:
 #+title: Galactic News: Voices of Dissent
-#+filetags: :Federation:Empire:3303:galnet:
+#+filetags: :Empire:Federation:3303:galnet:
 
 * Galactic News: Voices of Dissent
 

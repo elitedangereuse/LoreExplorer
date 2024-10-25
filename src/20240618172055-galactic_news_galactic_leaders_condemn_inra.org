@@ -2,7 +2,7 @@
 :ID:       5b096b10-01e7-47ca-88af-cf0efc8a1adb
 :END:
 #+title: Galactic News: Galactic Leaders Condemn INRA
-#+filetags: :Alliance:Thargoid:3303:galnet:
+#+filetags: :Empire:Alliance:Thargoid:3303:galnet:
 
 * Galactic News: Galactic Leaders Condemn INRA
 

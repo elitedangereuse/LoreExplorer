@@ -2,7 +2,7 @@
 :ID:       0b9293dc-6600-43bc-9569-458ec1ef8890
 :END:
 #+title: Galactic News: Mysterious Wreckage Discovered
-#+filetags: :3302:galnet:
+#+filetags: :Empire:3302:galnet:
 
 * Galactic News: Mysterious Wreckage Discovered
 

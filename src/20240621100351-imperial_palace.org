@@ -2,4 +2,5 @@
 :ID:       7210d36a-25f5-4c8e-8cf2-069de549d438
 :END:
 #+title: Imperial Palace
+#+filetags: :Empire:
 

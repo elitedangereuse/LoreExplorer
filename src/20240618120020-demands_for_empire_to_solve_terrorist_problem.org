@@ -2,7 +2,7 @@
 :ID:       7fa1ecf7-f5cb-443a-8e01-49b889ce7201
 :END:
 #+title: Demands for Empire to Solve Terrorist Problem
-#+filetags: :Federation:Empire:Alliance:galnet:
+#+filetags: :Empire:Federation:Alliance:galnet:
 
 * Demands for Empire to Solve Terrorist Problem
 

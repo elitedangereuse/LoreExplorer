@@ -2,7 +2,7 @@
 :ID:       82185a59-dbb6-4b1a-a5a2-8d5f09eb021e
 :END:
 #+title: Galactic News: Galactic Leaders Respond to Discovery
-#+filetags: :Federation:Empire:Alliance:3302:galnet:
+#+filetags: :Empire:Federation:Alliance:3302:galnet:
 
 * Galactic News: Galactic Leaders Respond to Discovery
 

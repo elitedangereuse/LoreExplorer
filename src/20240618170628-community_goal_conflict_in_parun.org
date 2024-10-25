@@ -2,7 +2,7 @@
 :ID:       30161227-9327-44f5-a446-a085c34baa32
 :END:
 #+title: Community Goal: Conflict in Parun
-#+filetags: :Federation:Empire:CommunityGoal:3303:galnet:
+#+filetags: :Empire:Federation:CommunityGoal:3303:galnet:
 
 * Community Goal: Conflict in Parun
 

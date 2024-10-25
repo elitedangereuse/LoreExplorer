@@ -2,7 +2,7 @@
 :ID:       ef9a5433-c2f0-4b2e-8223-dcc9fc30db87
 :END:
 #+title: Mastopolos Family
-#+filetags: :Federation:Alliance:beacon:
+#+filetags: :Empire:Federation:Alliance:beacon:
 * 0220 Mastopolos Family
 [[id:7d12ffc5-6340-4b45-8c32-d63af1e5cbf1][Enayex]]
 

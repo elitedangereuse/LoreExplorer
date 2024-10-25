@@ -2,7 +2,7 @@
 :ID:       4a893e6b-189e-4af7-80d0-0c6b12e0ff84
 :END:
 #+title: Military Strike Against Marlinist Faction
-#+filetags: :Federation:Empire:galnet:
+#+filetags: :Empire:Federation:galnet:
 
 * Military Strike Against Marlinist Faction
 

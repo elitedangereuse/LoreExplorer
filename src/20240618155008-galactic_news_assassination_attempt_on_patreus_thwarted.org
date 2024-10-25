@@ -2,7 +2,7 @@
 :ID:       fb534469-0f2b-4cd0-949c-0ffb177fd1db
 :END:
 #+title: Galactic News: Assassination Attempt on Patreus Thwarted
-#+filetags: :3302:galnet:
+#+filetags: :Empire:3302:galnet:
 
 * Galactic News: Assassination Attempt on Patreus Thwarted
 

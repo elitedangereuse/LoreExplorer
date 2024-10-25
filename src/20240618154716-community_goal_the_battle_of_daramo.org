@@ -2,7 +2,7 @@
 :ID:       752d7f77-88af-4146-a34a-4dd4f104330c
 :END:
 #+title: Community Goal: The Battle of Daramo
-#+filetags: :Federation:Empire:CommunityGoal:3302:galnet:
+#+filetags: :Empire:Federation:CommunityGoal:3302:galnet:
 
 * Community Goal: The Battle of Daramo
 

@@ -2,7 +2,7 @@
 :ID:       40acf0fa-0854-4c8b-94dd-171745dcf712
 :END:
 #+title: Galactic News: Imperial Ships to Enter Merope
-#+filetags: :Federation:Empire:3302:galnet:
+#+filetags: :Empire:Federation:3302:galnet:
 
 * Galactic News: Imperial Ships to Enter Merope
 

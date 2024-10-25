@@ -2,7 +2,7 @@
 :ID:       55033ccd-f846-40cd-91ab-edb63b0a2584
 :END:
 #+title: Galactic News: Imperial Operation Succeeds
-#+filetags: :Federation:Empire:3302:galnet:
+#+filetags: :Empire:Federation:3302:galnet:
 
 * Galactic News: Imperial Operation Succeeds
 

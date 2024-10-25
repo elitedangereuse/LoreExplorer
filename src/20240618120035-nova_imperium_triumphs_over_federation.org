@@ -2,7 +2,7 @@
 :ID:       e72fe43c-649b-402d-a9af-76b8d3eea761
 :END:
 #+title: Nova Imperium Triumphs Over Federation
-#+filetags: :Federation:Empire:galnet:
+#+filetags: :Empire:Federation:galnet:
 
 * Nova Imperium Triumphs Over Federation
 

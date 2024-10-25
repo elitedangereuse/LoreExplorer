@@ -2,7 +2,7 @@
 :ID:       4cf84552-2532-44a2-b518-3e76f214b4a7
 :END:
 #+title: Galactic News: Imperial Inquisition's Campaign Successful
-#+filetags: :3302:galnet:
+#+filetags: :Empire:3302:galnet:
 
 * Galactic News: Imperial Inquisition's Campaign Successful
 

@@ -2,7 +2,7 @@
 :ID:       441318ca-e73d-4de6-b4f0-c1779762517c
 :END:
 #+title: New Combat Fighter from Gutamaya Shipyards
-#+filetags: :3301:galnet:
+#+filetags: :Empire:3301:galnet:
 
 * New Combat Fighter from Gutamaya Shipyards
 

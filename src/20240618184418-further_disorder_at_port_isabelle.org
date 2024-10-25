@@ -2,7 +2,7 @@
 :ID:       0dbbdda8-401e-42cb-a382-5810151b0748
 :END:
 #+title: Further Disorder at Port Isabelle
-#+filetags: :galnet:
+#+filetags: :Empire:galnet:
 
 * Further Disorder at Port Isabelle
 

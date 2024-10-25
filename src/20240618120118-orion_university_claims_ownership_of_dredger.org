@@ -2,7 +2,7 @@
 :ID:       c0c7aa2b-5066-434f-a977-bb71c5706796
 :END:
 #+title: Orion University Claims Ownership of Dredger
-#+filetags: :galnet:
+#+filetags: :Empire:galnet:
 
 * Orion University Claims Ownership of Dredger
 

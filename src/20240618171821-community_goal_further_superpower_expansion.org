@@ -2,7 +2,7 @@
 :ID:       4337ce11-0a99-4f1e-87b3-b66ccf4de517
 :END:
 #+title: Community Goal: Further Superpower Expansion
-#+filetags: :Federation:Empire:CommunityGoal:3303:galnet:
+#+filetags: :Empire:Federation:CommunityGoal:3303:galnet:
 
 * Community Goal: Further Superpower Expansion
 

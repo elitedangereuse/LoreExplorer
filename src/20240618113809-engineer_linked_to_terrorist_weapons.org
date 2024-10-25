@@ -2,7 +2,7 @@
 :ID:       4367ec86-9913-4577-b5e6-b085ada5e543
 :END:
 #+title: Engineer Linked to Terrorist Weapons
-#+filetags: :Federation:Empire:galnet:
+#+filetags: :Empire:Federation:galnet:
 
 * Engineer Linked to Terrorist Weapons
 

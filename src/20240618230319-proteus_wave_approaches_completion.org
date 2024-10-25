@@ -2,7 +2,7 @@
 :ID:       60bfac81-dac7-4555-b0b0-d79b7c1286fb
 :END:
 #+title: Proteus Wave Approaches Completion
-#+filetags: :Federation:Thargoid:galnet:
+#+filetags: :Empire:Federation:Thargoid:galnet:
 
 * Proteus Wave Approaches Completion
 

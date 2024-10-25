@@ -2,7 +2,7 @@
 :ID:       2973f542-ccf6-42a9-b360-7bacccc219aa
 :END:
 #+title: Salvation Recruits Naval Crews
-#+filetags: :Federation:Alliance:Thargoid:galnet:
+#+filetags: :Empire:Federation:Alliance:Thargoid:galnet:
 
 * [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]] Recruits Naval Crews
 

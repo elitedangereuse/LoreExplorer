@@ -2,7 +2,7 @@
 :ID:       486ac4eb-006b-4edf-83f9-815c6050fdbc
 :END:
 #+title: Riri McAllister Shot
-#+filetags: :Alliance:3304:galnet:
+#+filetags: :Empire:Alliance:3304:galnet:
 
 * Riri McAllister Shot
 

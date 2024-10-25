@@ -2,7 +2,7 @@
 :ID:       c1ab5ce9-e628-45d4-941f-d8e7ef474a81
 :END:
 #+title: Wrekcht's Raid
-#+filetags: :Federation:beacon:
+#+filetags: :Empire:Federation:beacon:
 * 0134  Wrekcht's Raid
 [[id:929ff6f9-0c6c-4a07-ad87-0fb67def4f0e][Andceeth]]
 

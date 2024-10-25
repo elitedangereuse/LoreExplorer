@@ -2,7 +2,7 @@
 :ID:       cda382bb-500b-4ae1-8210-cc68aa5e49ad
 :END:
 #+title: Superpowers Plan to Replace Aegis
-#+filetags: :Federation:Empire:Alliance:Thargoid:3304:3308:galnet:
+#+filetags: :Empire:Federation:Alliance:Thargoid:3304:3308:galnet:
 
 * Superpowers Plan to Replace Aegis
 

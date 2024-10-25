@@ -2,7 +2,7 @@
 :ID:       a8e517fa-f6cf-46f3-bc45-82284f84420b
 :END:
 #+title: Imperial Slave Association Audited
-#+filetags: :3301:galnet:
+#+filetags: :Empire:3301:galnet:
 
 * Imperial Slave Association Audited
 

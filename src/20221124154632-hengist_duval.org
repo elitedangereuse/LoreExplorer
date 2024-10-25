@@ -2,7 +2,7 @@
 :ID:       3cb0755e-4deb-442b-898b-3f0c6651636e
 :END:
 #+title: Hengist Duval
-#+filetags: :Federation:Empire:KnowledgeBase:Codex:Individual:
+#+filetags: :Empire:Federation:KnowledgeBase:Codex:Individual:
 
 * Hengist Duval
 Hengist Duval (3164-3301) was the 15th ruler of the Empire. He was

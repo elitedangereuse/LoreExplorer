@@ -3,7 +3,7 @@
 :ROAM_REFS: https://cms.zaonce.net/en-GB/jsonapi/node/galnet_article/0a2534ba-1f96-44da-b972-8963b4540cfb?resourceVersion=id%3A4925
 :END:
 #+title: Warning of Ship Abductions by Fleet Carriers
-#+filetags: :Federation:Alliance:galnet:
+#+filetags: :Empire:Federation:Alliance:galnet:
 
 * Warning of Ship Abductions by Fleet Carriers
 

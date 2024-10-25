@@ -2,7 +2,7 @@
 :ID:       9940d250-b480-45a0-a5d4-63905e5e82c2
 :END:
 #+title: Data Required for Marlinist Election
-#+filetags: :Federation:Empire:Alliance:galnet:
+#+filetags: :Empire:Federation:Alliance:galnet:
 
 * Data Required for Marlinist Election
 
