@@ -3,7 +3,7 @@
 :ROAM_REFS: https://cms.zaonce.net/en-GB/jsonapi/node/galnet_article/8d1c5d50-d867-4157-9a32-b661a98ae289?resourceVersion=id%3A4843
 :END:
 #+title: Core Dynamics Funds Takeover with Ship Discounts
-#+filetags: :Alliance:galnet:
+#+filetags: :Federation:Alliance:galnet:
 
 * Core Dynamics Funds Takeover with Ship Discounts
 

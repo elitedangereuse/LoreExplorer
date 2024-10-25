@@ -2,7 +2,7 @@
 :ID:       c165e88b-f466-4257-bbd1-a21a6a586074
 :END:
 #+title: Reorte System Remains Allied
-#+filetags: :Alliance:Thargoid:galnet:
+#+filetags: :Federation:Alliance:Thargoid:galnet:
 
 * Reorte System Remains Allied
 

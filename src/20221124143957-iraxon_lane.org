@@ -2,7 +2,7 @@
 :ID:       aba99a43-f484-41a8-b249-8443f2da119d
 :END:
 #+title: Iraxon Lane
-#+filetags: :Thargoid:
+#+filetags: :Federation:Thargoid:
 [[id:f2fac611-d042-4abf-80f9-e5e0b5c9f4b8][Research Base]]
 
 #+begin_quote

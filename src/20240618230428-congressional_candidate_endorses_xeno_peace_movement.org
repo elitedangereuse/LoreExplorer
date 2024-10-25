@@ -2,7 +2,7 @@
 :ID:       2dde3a6b-b10a-4f92-b690-228a669d24fd
 :END:
 #+title: Congressional Candidate Endorses Xeno-Peace Movement
-#+filetags: :Thargoid:galnet:
+#+filetags: :Federation:Thargoid:galnet:
 
 * Congressional Candidate Endorses Xeno-Peace Movement
 

@@ -2,7 +2,7 @@
 :ID:       4889d46d-ac30-4695-9f3d-f4cb6f925c4a
 :END:
 #+title: Wreaken Corporation
-#+filetags: :Alliance:Corporation:
+#+filetags: :Federation:Alliance:Corporation:
 
 * Wreaken
 

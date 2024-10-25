@@ -2,7 +2,7 @@
 :ID:       9515bba7-44fa-4a68-86f9-817bc33c7883
 :END:
 #+title: Thargoid Surveillance Continues
-#+filetags: :Thargoid:3304:galnet:
+#+filetags: :Federation:Thargoid:3304:galnet:
 
 * Thargoid Surveillance Continues
 

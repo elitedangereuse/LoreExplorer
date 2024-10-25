@@ -2,7 +2,7 @@
 :ID:       9f8ab85c-ec86-4d02-91b7-94201b3d3e86
 :END:
 #+title: Community Goal: Campaign to Construct New Starport in LHS 3447
-#+filetags: :CommunityGoal:3302:galnet:
+#+filetags: :Federation:CommunityGoal:3302:galnet:
 
 * Community Goal: Campaign to Construct New Starport in LHS 3447
 

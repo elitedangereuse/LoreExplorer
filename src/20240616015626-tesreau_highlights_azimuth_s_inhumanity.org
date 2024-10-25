@@ -2,7 +2,7 @@
 :ID:       0f6f5397-5986-418a-b2e3-7df6f325211e
 :END:
 #+title: Tesreau Highlights Azimuth’s ‘Inhumanity’
-#+filetags: :Empire:Alliance:Thargoid:galnet:
+#+filetags: :Federation:Empire:Alliance:Thargoid:galnet:
 
 * Tesreau Highlights Azimuth’s ‘Inhumanity’
 

@@ -2,7 +2,7 @@
 :ID:       6dad938c-1dae-4acb-83d2-1c498cd5dda2
 :END:
 #+title: Colonia Bridge Gains Further Resources
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Colonia Bridge Gains Further Resources
 

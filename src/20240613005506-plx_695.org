@@ -2,7 +2,7 @@
 :ID:       e59ea750-8437-4b1a-86b6-29e29fa8a42a
 :END:
 #+title: PLX 695
-#+filetags: :System:Permit:Federation:Rank:
+#+filetags: :Federation:System:Permit:Rank:
 [[file:img/permit.png]]
 
 Rank: Warrant Officer

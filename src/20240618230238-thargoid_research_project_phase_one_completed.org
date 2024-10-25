@@ -2,7 +2,7 @@
 :ID:       6d8c30c9-9a5f-42e0-b794-3e6623d0e382
 :END:
 #+title: Thargoid Research Project Phase One Completed
-#+filetags: :Empire:Alliance:Thargoid:galnet:
+#+filetags: :Federation:Empire:Alliance:Thargoid:galnet:
 
 * Thargoid Research Project Phase One Completed
 

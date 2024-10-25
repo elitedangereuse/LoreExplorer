@@ -2,7 +2,7 @@
 :ID:       2163a6b0-51ca-43ec-98a8-bf842991eff0
 :END:
 #+title: Final Week for Colonia Bridge Project
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Final Week for Colonia Bridge Project
 

@@ -2,7 +2,7 @@
 :ID:       c4ed244b-b608-434c-9ea4-fd56a58ee159
 :END:
 #+title: Kumo Crew Crushes Rebellion
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Kumo Crew Crushes Rebellion
 

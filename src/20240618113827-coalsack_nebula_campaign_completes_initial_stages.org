@@ -2,7 +2,7 @@
 :ID:       3815cb2d-2e8b-4eb4-af43-68be037c2526
 :END:
 #+title: Coalsack Nebula Campaign Completes Initial Stages
-#+filetags: :Alliance:Thargoid:galnet:
+#+filetags: :Federation:Alliance:Thargoid:galnet:
 
 * Coalsack Nebula Campaign Completes Initial Stages
 

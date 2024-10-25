@@ -2,7 +2,7 @@
 :ID:       f0b5c220-d295-4d3e-aa48-af660980db08
 :END:
 #+title: Maelstrom Protection Technology Undergoes Testing
-#+filetags: :Thargoid:galnet:
+#+filetags: :Federation:Thargoid:galnet:
 
 * Maelstrom Protection Technology Undergoes Testing
 

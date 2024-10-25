@@ -2,7 +2,7 @@
 :ID:       26148b25-73e8-4812-9e11-8a3c0ab41908
 :END:
 #+title: Pilots Federation's Secrecy
-#+filetags: :beacon:
+#+filetags: :Federation:beacon:
 * 0251 Pilots Federation's Secrecy
 [[id:c6b67ab9-66c5-4636-a978-2ca3a9ab012c][Shinrarta Dezhra]]
 

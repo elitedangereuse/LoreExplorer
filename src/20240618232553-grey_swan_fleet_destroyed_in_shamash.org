@@ -2,7 +2,7 @@
 :ID:       47b460f8-d9ae-4358-a45f-98afac056cc2
 :END:
 #+title: Grey Swan Fleet Destroyed in Shamash
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Grey Swan Fleet Destroyed in Shamash
 

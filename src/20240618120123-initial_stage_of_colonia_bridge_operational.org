@@ -2,7 +2,7 @@
 :ID:       ccc1adbe-2d05-4ccf-8d63-cf7c8bb45d41
 :END:
 #+title: Initial Stage of Colonia Bridge Operational
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Initial Stage of Colonia Bridge Operational
 

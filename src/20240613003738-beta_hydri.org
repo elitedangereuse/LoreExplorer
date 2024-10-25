@@ -2,7 +2,7 @@
 :ID:       0db1f0b9-a70d-4384-96a5-c1587a8270b1
 :END:
 #+title: Beta Hydri
-#+filetags: :Permit:Rank:Federation:System:
+#+filetags: :Federation:Permit:Rank:System:
 [[file:img/permit.png]]
 
 Rank: Chief Petty Officer

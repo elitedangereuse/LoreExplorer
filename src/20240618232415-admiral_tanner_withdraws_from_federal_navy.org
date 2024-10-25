@@ -2,7 +2,7 @@
 :ID:       ef91040a-28f7-4004-b792-f5e5b3297351
 :END:
 #+title: Admiral Tanner Withdraws from Federal Navy
-#+filetags: :Thargoid:Federation:galnet:
+#+filetags: :Federation:Thargoid:galnet:
 
 * Admiral Tanner Withdraws from Federal Navy
 

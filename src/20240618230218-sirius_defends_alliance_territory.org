@@ -2,7 +2,7 @@
 :ID:       d3abe9da-888d-471c-8b40-e6d2a587cb9a
 :END:
 #+title: Sirius Defends Alliance Territory
-#+filetags: :Alliance:Thargoid:galnet:
+#+filetags: :Federation:Alliance:Thargoid:galnet:
 
 * Sirius Defends Alliance Territory
 

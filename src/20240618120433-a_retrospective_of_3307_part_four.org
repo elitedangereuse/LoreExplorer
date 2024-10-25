@@ -2,7 +2,7 @@
 :ID:       9fed7692-2783-48ea-8c5f-9a27f2d4b18a
 :END:
 #+title: A Retrospective of 3307 (Part Four)
-#+filetags: :Empire:Thargoid:galnet:
+#+filetags: :Federation:Empire:Thargoid:galnet:
 
 * A Retrospective of 3307 (Part Four)
 

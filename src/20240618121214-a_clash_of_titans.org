@@ -2,7 +2,7 @@
 :ID:       567a7a44-7da3-4671-9f87-380af18bdfdf
 :END:
 #+title: A Clash of Titans
-#+filetags: :Empire:Federation:3301:galnet:
+#+filetags: :Federation:Empire:3301:galnet:
 
 * A Clash of Titans
 

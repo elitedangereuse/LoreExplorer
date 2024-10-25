@@ -2,7 +2,7 @@
 :ID:       b225d08b-60a3-4625-b67b-a04717d28d25
 :END:
 #+title: The Liberation of HIP 17692
-#+filetags: :Empire:Thargoid:3304:galnet:
+#+filetags: :Federation:Empire:Thargoid:3304:galnet:
 
 * The Liberation of HIP 17692
 

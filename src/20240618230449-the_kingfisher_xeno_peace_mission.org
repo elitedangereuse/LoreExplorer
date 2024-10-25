@@ -2,7 +2,7 @@
 :ID:       68cd5a3b-624e-4566-ae8c-f92bffcd2861
 :END:
 #+title: The Kingfisher Xeno-Peace Mission
-#+filetags: :Thargoid:galnet:
+#+filetags: :Federation:Thargoid:galnet:
 
 * The Kingfisher Xeno-Peace Mission
 

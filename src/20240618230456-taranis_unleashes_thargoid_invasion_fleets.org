@@ -2,7 +2,7 @@
 :ID:       00e74832-8b0f-43d1-b755-0b54716378cd
 :END:
 #+title: Taranis Unleashes Thargoid Invasion Fleets
-#+filetags: :Alliance:Thargoid:galnet:
+#+filetags: :Federation:Alliance:Thargoid:galnet:
 
 * Taranis Unleashes Thargoid Invasion Fleets
 

@@ -2,7 +2,7 @@
 :ID:       b2f9d3ac-f74c-42c7-829c-28dd8b8e2bb2
 :END:
 #+title: Aisling Criticises Imperial Policy
-#+filetags: :Empire:Alliance:galnet:
+#+filetags: :Federation:Empire:Alliance:galnet:
 
 * Aisling Criticises Imperial Policy
 

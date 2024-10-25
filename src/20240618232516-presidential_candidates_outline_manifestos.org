@@ -2,7 +2,7 @@
 :ID:       3c521af2-fc54-4b5b-a4cd-d3e65922d36d
 :END:
 #+title: Presidential Candidates Outline Manifestos
-#+filetags: :Thargoid:Federation:galnet:
+#+filetags: :Federation:Thargoid:galnet:
 
 * Presidential Candidates Outline Manifestos
 

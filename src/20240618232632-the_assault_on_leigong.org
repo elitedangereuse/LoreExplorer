@@ -2,7 +2,7 @@
 :ID:       1eae3b61-70d9-4252-b11d-f8af0183b161
 :END:
 #+title: The Assault on Leigong
-#+filetags: :Thargoid:galnet:
+#+filetags: :Federation:Thargoid:galnet:
 
 * The Assault on Leigong
 

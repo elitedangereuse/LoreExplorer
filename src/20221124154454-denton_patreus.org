@@ -2,7 +2,7 @@
 :ID:       75daea85-5e9f-4f6f-a102-1a5edea0283c
 :END:
 #+title: Denton Patreus
-#+filetags: :Empire:Alliance:Codex:KnowledgeBase:Individual:
+#+filetags: :Federation:Empire:Alliance:Codex:KnowledgeBase:Individual:
 
 * Denton Patreus
 

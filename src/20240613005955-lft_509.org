@@ -2,7 +2,7 @@
 :ID:       7713183f-9efe-48e7-8c2d-f5000ed82101
 :END:
 #+title: LFT 509
-#+filetags: :Rank:Federation:Permit:System:
+#+filetags: :Federation:Rank:Permit:System:
 [[file:img/permit.png]]
 
 Rank: n/a

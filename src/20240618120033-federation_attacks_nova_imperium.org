@@ -2,7 +2,7 @@
 :ID:       168347a7-5c84-4181-a7ef-1b84d404ca25
 :END:
 #+title: Federation Attacks Nova Imperium
-#+filetags: :Empire:Federation:galnet:
+#+filetags: :Federation:Empire:galnet:
 
 * Federation Attacks Nova Imperium
 

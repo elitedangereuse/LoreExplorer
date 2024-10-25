@@ -2,7 +2,7 @@
 :ID:       b19889bd-9355-45db-9dd5-28250dcf2d89
 :END:
 #+title: Deep Space ‘Anomalies’ Generate Discussion
-#+filetags: :Thargoid:galnet:
+#+filetags: :Federation:Thargoid:galnet:
 
 * Deep Space ‘Anomalies’ Generate Discussion
 

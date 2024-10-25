@@ -2,7 +2,7 @@
 :ID:       a1714dad-a82d-4381-9d33-6a0402456e56
 :END:
 #+title: The Assault on Hadad
-#+filetags: :Thargoid:galnet:
+#+filetags: :Federation:Thargoid:galnet:
 
 * The Assault on Hadad
 

@@ -2,7 +2,7 @@
 :ID:       3370d8ad-972f-466c-ad02-8a9c141ba656
 :END:
 #+title: The Elite
-#+filetags: :3100:beacon:
+#+filetags: :Federation:3100:beacon:
 * 0245 The Elite
 [[id:c6b67ab9-66c5-4636-a978-2ca3a9ab012c][Shinrarta Dezhra]]  
 

@@ -2,7 +2,7 @@
 :ID:       f2073346-7947-49de-9834-590324ffba84
 :END:
 #+title: Hors
-#+filetags: :Rank:Federation:Permit:System:
+#+filetags: :Federation:Rank:Permit:System:
 [[file:img/permit.png]]
 
 Rank: Post Commander

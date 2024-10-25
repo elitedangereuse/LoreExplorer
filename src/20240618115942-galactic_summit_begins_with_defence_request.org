@@ -2,7 +2,7 @@
 :ID:       84b08fd5-a53b-4144-bf69-580ed401a4a6
 :END:
 #+title: Galactic Summit Begins with Defence Request
-#+filetags: :Empire:galnet:
+#+filetags: :Federation:Empire:galnet:
 
 * Galactic Summit Begins with Defence Request
 

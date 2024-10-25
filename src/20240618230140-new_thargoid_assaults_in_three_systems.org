@@ -2,7 +2,7 @@
 :ID:       148e19e6-1cbe-4868-9f46-d21da7ca85ad
 :END:
 #+title: New Thargoid Assaults in Three Systems
-#+filetags: :Thargoid:galnet:
+#+filetags: :Federation:Thargoid:galnet:
 
 * New Thargoid Assaults in Three Systems
 

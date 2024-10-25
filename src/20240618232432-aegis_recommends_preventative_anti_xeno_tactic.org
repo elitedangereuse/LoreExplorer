@@ -2,7 +2,7 @@
 :ID:       30d6ffe6-da5b-4960-892d-e2d0130ac1a4
 :END:
 #+title: Aegis Recommends Preventative Anti-Xeno Tactic
-#+filetags: :Thargoid:galnet:
+#+filetags: :Federation:Thargoid:galnet:
 
 * Aegis Recommends Preventative Anti-Xeno Tactic
 

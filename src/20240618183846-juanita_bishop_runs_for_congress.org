@@ -2,7 +2,7 @@
 :ID:       e14a9792-603f-46a4-b8c2-18f50cfa4969
 :END:
 #+title: Juanita Bishop runs for Congress
-#+filetags: :Thargoid:3304:galnet:
+#+filetags: :Federation:Thargoid:3304:galnet:
 
 * Juanita Bishop runs for Congress
 

@@ -2,7 +2,7 @@
 :ID:       633d4f11-d4c3-4410-809e-8b1296431926
 :END:
 #+title: Federal and Imperial Campaigns End
-#+filetags: :Empire:Federation:galnet:
+#+filetags: :Federation:Empire:galnet:
 
 * Federal and Imperial Campaigns End
 

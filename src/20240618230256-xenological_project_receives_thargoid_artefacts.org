@@ -2,7 +2,7 @@
 :ID:       14354377-ec3f-4c5b-8402-f9b82ef86335
 :END:
 #+title: Xenological Project Receives Thargoid Artefacts
-#+filetags: :Thargoid:galnet:
+#+filetags: :Federation:Thargoid:galnet:
 
 * Xenological Project Receives Thargoid Artefacts
 

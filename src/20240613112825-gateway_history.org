@@ -2,7 +2,7 @@
 :ID:       d4502696-2432-4f84-abb1-f3d124249805
 :END:
 #+title: Gateway History
-#+filetags: :Alliance:Federation:beacon:
+#+filetags: :Federation:Alliance:beacon:
 * 0124 Gateway History
 [[id:d4502696-2432-4f84-abb1-f3d124249805][Gateway]]
 

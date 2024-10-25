@@ -2,7 +2,7 @@
 :ID:       22f41823-1643-440d-a959-a7c279ec199b
 :END:
 #+title: Starport Bombing Casualties Include Federal Vice President
-#+filetags: :Empire:galnet:
+#+filetags: :Federation:Empire:galnet:
 
 * Starport Bombing Casualties Include Federal Vice President
 

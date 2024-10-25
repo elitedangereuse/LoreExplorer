@@ -3,7 +3,7 @@
 :ROAM_REFS: https://cms.zaonce.net/en-GB/jsonapi/node/galnet_article/5c37b210-72ff-4837-914c-3b62026bfd52?resourceVersion=id%3A4872
 :END:
 #+title: Thargoids Attack Coalsack and Witch Head Nebulas
-#+filetags: :Alliance:Thargoid:galnet:
+#+filetags: :Federation:Alliance:Thargoid:galnet:
 
 * Thargoids Attack Coalsack and Witch Head Nebulas
 

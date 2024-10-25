@@ -3,7 +3,7 @@
 :ROAM_REFS: https://cms.zaonce.net/en-GB/jsonapi/node/galnet_article/c4e444c0-4336-4828-b806-60d548a3b4f1?resourceVersion=id%3A4892
 :END:
 #+title: New Marlinist Systems Request Emergency Food Supplies
-#+filetags: :Empire:galnet:
+#+filetags: :Federation:Empire:galnet:
 
 * New Marlinist Systems Request Emergency Food Supplies
 

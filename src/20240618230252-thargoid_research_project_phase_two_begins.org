@@ -2,7 +2,7 @@
 :ID:       eb7eb8a6-01d2-4918-b542-eb9e092f1003
 :END:
 #+title: Thargoid Research Project Phase Two Begins
-#+filetags: :Thargoid:galnet:
+#+filetags: :Federation:Thargoid:galnet:
 
 * Thargoid Research Project Phase Two Begins
 

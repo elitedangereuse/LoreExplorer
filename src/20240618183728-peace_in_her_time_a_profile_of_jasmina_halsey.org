@@ -2,7 +2,7 @@
 :ID:       8d733f9c-d700-441a-a1a6-279851291178
 :END:
 #+title: Peace in Her Time: A Profile of Jasmina Halsey
-#+filetags: :Alliance:Thargoid:Federation:3304:galnet:
+#+filetags: :Federation:Alliance:Thargoid:3304:galnet:
 
 * Peace in Her Time: A Profile of Jasmina Halsey
 

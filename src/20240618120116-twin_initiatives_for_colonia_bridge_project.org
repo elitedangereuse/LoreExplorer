@@ -2,7 +2,7 @@
 :ID:       1e216de2-51f5-4f31-95cd-b37cb320ddc8
 :END:
 #+title: Twin Initiatives for Colonia Bridge Project
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Twin Initiatives for Colonia Bridge Project
 

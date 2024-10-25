@@ -2,7 +2,7 @@
 :ID:       a0a7a543-ca5a-44dc-b8f3-d4c1e8ddf53e
 :END:
 #+title: Thargoid Pulse Neutraliser Becomes Available
-#+filetags: :Thargoid:galnet:
+#+filetags: :Federation:Thargoid:galnet:
 
 * Thargoid Pulse Neutraliser Becomes Available
 

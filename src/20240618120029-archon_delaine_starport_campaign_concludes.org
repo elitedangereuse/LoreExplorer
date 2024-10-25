@@ -2,7 +2,7 @@
 :ID:       e5e7edf3-96e0-4cb3-8a01-485a7338a68e
 :END:
 #+title: Archon Delaine Starport Campaign Concludes
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * [[id:7aae0550-b8ba-42cf-b52b-e7040461c96f][Archon Delaine]] Starport Campaign Concludes
 

@@ -2,7 +2,7 @@
 :ID:       298959d9-cb19-468d-a513-c281f0860cec
 :END:
 #+title: New Discovery Links Azimuth to INRA
-#+filetags: :Empire:Thargoid:galnet:
+#+filetags: :Federation:Empire:Thargoid:galnet:
 
 * New Discovery Links Azimuth to INRA
 

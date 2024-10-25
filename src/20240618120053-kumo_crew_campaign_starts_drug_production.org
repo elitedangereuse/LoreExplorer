@@ -2,7 +2,7 @@
 :ID:       f7b1af1c-2284-4427-a3e9-ad4ba6192fc3
 :END:
 #+title: Kumo Crew Campaign Starts Drug Production
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Kumo Crew Campaign Starts Drug Production
 

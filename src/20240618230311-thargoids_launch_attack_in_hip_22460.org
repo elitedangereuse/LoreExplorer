@@ -2,7 +2,7 @@
 :ID:       a687e3e4-ce47-48d8-a0e7-53ea1029d306
 :END:
 #+title: Thargoids Launch Attack in HIP 22460
-#+filetags: :Alliance:Thargoid:galnet:
+#+filetags: :Federation:Alliance:Thargoid:galnet:
 
 * Thargoids Launch Attack in HIP 22460
 

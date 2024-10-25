@@ -2,7 +2,7 @@
 :ID:       dec73b65-266e-4e71-9e4a-dc12ec5a2469
 :END:
 #+title: FCI Information
-#+filetags: :beacon:
+#+filetags: :Federation:beacon:
 * 0231 FCI Information
 [[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]]  
 

@@ -2,7 +2,7 @@
 :ID:       72c06226-e47c-4a41-8e21-93993a5f477e
 :END:
 #+title: Torval Mining Challenges Caine-Massey
-#+filetags: :Empire:galnet:
+#+filetags: :Federation:Empire:galnet:
 
 * Torval Mining Challenges Caine-Massey
 

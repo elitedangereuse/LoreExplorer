@@ -3,7 +3,7 @@
 :ROAM_REFS: https://cms.zaonce.net/en-GB/jsonapi/node/galnet_article/2af69456-e011-4df1-828b-77364b915f52?resourceVersion=id%3A4920
 :END:
 #+title: Core Dynamics Implicated in Starship One Sabotage
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Core Dynamics Implicated in Starship One Sabotage
 

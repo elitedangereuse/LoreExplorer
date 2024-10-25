@@ -2,7 +2,7 @@
 :ID:       66127aeb-8fbf-4c1c-b0a7-5f4c7425a5db
 :END:
 #+title: The Bank of Zaonce
-#+filetags: :2718:2693:2682:beacon:
+#+filetags: :Federation:2718:2693:2682:beacon:
 * 0243 The Bank of Zaonce
 [[id:66127aeb-8fbf-4c1c-b0a7-5f4c7425a5db][Zaonce]]  
 

@@ -2,7 +2,7 @@
 :ID:       10579bc3-d536-46ff-b72e-f709ff481d59
 :END:
 #+title: Federal Initiative Concludes
-#+filetags: :3304:galnet:
+#+filetags: :Federation:3304:galnet:
 
 * Federal Initiative Concludes
 

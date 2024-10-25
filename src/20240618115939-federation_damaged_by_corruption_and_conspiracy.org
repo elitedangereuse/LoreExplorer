@@ -2,7 +2,7 @@
 :ID:       b248d13c-d179-41f6-bdf8-059633f13979
 :END:
 #+title: Federation Damaged by Corruption and Conspiracy
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Federation Damaged by Corruption and Conspiracy
 

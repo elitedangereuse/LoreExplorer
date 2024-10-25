@@ -2,7 +2,7 @@
 :ID:       3beda20c-3df9-4e67-928a-5e07ca4bfea7
 :END:
 #+title: Supplies for Marlinist Refugees Successfully Delivered
-#+filetags: :Empire:galnet:
+#+filetags: :Federation:Empire:galnet:
 
 * Supplies for Marlinist Refugees Successfully Delivered
 

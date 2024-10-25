@@ -2,7 +2,7 @@
 :ID:       42a46e92-d72f-4566-b823-96c626738360
 :END:
 #+title: Winters Announces Election Manifesto
-#+filetags: :Thargoid:galnet:
+#+filetags: :Federation:Thargoid:galnet:
 
 * Winters Announces Election Manifesto
 

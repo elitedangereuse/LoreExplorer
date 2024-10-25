@@ -2,7 +2,7 @@
 :ID:       907242c4-3539-42a4-8654-37af4aae0da3
 :END:
 #+title: The Time for Aegis?
-#+filetags: :Empire:Alliance:Thargoid:galnet:
+#+filetags: :Federation:Empire:Alliance:Thargoid:galnet:
 
 * The Time for Aegis?
 

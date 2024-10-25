@@ -2,7 +2,7 @@
 :ID:       be239027-0eca-4bae-9a63-a94fa0cb18b6
 :END:
 #+title: Dentara Rast's Assassination
-#+filetags: :Empire:Federation:beacon:
+#+filetags: :Federation:Empire:beacon:
 * 0154 Dentara Rast's Assassination
 [[id:35ef7825-95ca-418d-9cc2-9e7934b351c9][Tiliala]]
 

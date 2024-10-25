@@ -3,7 +3,7 @@
 :ROAM_REFS: https://cms.zaonce.net/en-GB/jsonapi/node/galnet_article/934e6ff5-97a0-4087-94bd-69ea81e07bcc?resourceVersion=id%3A4734
 :END:
 #+title: Lakon Spaceways Discounts Selected Ships
-#+filetags: :Alliance:galnet:
+#+filetags: :Federation:Alliance:galnet:
 
 * Lakon Spaceways Discounts Selected Ships
 

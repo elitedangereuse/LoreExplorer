@@ -2,7 +2,7 @@
 :ID:       8fa044d7-e1f7-4a93-8f70-a9aff23c41c3
 :END:
 #+title: Victory for Federal Forces Against Jupiter Division
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Victory for Federal Forces Against Jupiter Division
 

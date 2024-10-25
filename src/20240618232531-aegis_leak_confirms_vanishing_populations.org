@@ -2,7 +2,7 @@
 :ID:       fcfb0e7b-658c-45ff-81e9-852720687059
 :END:
 #+title: Aegis Leak Confirms Vanishing Populations
-#+filetags: :Thargoid:galnet:
+#+filetags: :Federation:Thargoid:galnet:
 
 * Aegis Leak Confirms Vanishing Populations
 

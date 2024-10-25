@@ -2,7 +2,7 @@
 :ID:       9a81ddad-4e95-48a5-a254-06695a006da7
 :END:
 #+title: Community Goal: Boosting the Federal Fleet
-#+filetags: :Empire:Alliance:CommunityGoal:Federation:3302:galnet:
+#+filetags: :Federation:Empire:Alliance:CommunityGoal:3302:galnet:
 
 * Community Goal: Boosting the Federal Fleet
 

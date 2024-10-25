@@ -2,7 +2,7 @@
 :ID:       7f3533a9-ff80-4f30-af29-1b0cf658e2ee
 :END:
 #+title: Onionhead Banned
-#+filetags: :beacon:
+#+filetags: :Federation:beacon:
 * 0197 Onionhead Banned
 [[id:b634e896-9d3d-4f44-9783-cfb8fd6d0c56][Kappa Fornacis]]
 

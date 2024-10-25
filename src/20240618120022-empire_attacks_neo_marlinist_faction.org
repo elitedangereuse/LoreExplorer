@@ -2,7 +2,7 @@
 :ID:       68872300-11ef-440f-8fef-7eb2875726f9
 :END:
 #+title: Empire Attacks Neo-Marlinist Faction
-#+filetags: :Empire:galnet:
+#+filetags: :Federation:Empire:galnet:
 
 * Empire Attacks Neo-Marlinist Faction
 

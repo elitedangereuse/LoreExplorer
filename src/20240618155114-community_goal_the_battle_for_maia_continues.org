@@ -2,7 +2,7 @@
 :ID:       28d2a783-90d1-4033-a07a-54d77d547c5c
 :END:
 #+title: Community Goal: The Battle for Maia Continues
-#+filetags: :CommunityGoal:3302:galnet:
+#+filetags: :Federation:CommunityGoal:3302:galnet:
 
 * Community Goal: The Battle for Maia Continues
 

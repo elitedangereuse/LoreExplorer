@@ -2,7 +2,7 @@
 :ID:       f9a4d453-0f75-4dc4-ba99-a8451f706760
 :END:
 #+title: Supply Mined Materials to Azimuth Biotech
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Supply Mined Materials to [[id:e68a5318-bd72-4c92-9f70-dcdbd59505d1][Azimuth Biotech]]
 

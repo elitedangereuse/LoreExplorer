@@ -2,7 +2,7 @@
 :ID:       fc401bb3-8ea5-45e6-9f4c-78dff6a8085b
 :END:
 #+title: The Fate of the Dedicant
-#+filetags: :Thargoid:galnet:
+#+filetags: :Federation:Thargoid:galnet:
 
 * The Fate of the Dedicant
 

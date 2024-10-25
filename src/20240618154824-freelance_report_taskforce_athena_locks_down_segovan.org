@@ -2,7 +2,7 @@
 :ID:       b92c8f5b-d6e0-4c21-9d80-de8566ea48a8
 :END:
 #+title: Freelance Report: Taskforce Athena Locks Down Segovan
-#+filetags: :Empire:Federation:3302:galnet:
+#+filetags: :Federation:Empire:3302:galnet:
 
 * Freelance Report: Taskforce Athena Locks Down Segovan
 

@@ -2,7 +2,7 @@
 :ID:       6d22ab1a-4990-443a-993c-e455a80619ee
 :END:
 #+title: Galactic News: Federal Capital Ship Destroyed by Thargoids
-#+filetags: :Thargoid:Federation:3303:galnet:
+#+filetags: :Federation:Thargoid:3303:galnet:
 
 * Galactic News: Federal Capital Ship Destroyed by Thargoids
 

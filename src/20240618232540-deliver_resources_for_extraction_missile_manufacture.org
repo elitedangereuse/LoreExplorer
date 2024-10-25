@@ -2,7 +2,7 @@
 :ID:       bfe48a1a-e2b9-4f56-ad7b-9b94faed973a
 :END:
 #+title: Deliver Resources for Extraction Missile Manufacture
-#+filetags: :Empire:Thargoid:galnet:
+#+filetags: :Federation:Empire:Thargoid:galnet:
 
 * Deliver Resources for Extraction Missile Manufacture
 

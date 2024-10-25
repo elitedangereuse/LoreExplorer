@@ -2,7 +2,7 @@
 :ID:       51824ec3-fd06-49ed-838a-fd2c78665111
 :END:
 #+title: Bluford Orbital Completed
-#+filetags: :beacon:
+#+filetags: :Federation:beacon:
 * 0697 Bluford Orbital Completed
 [[id:951f5c68-2395-4eb9-af43-b26172d0fe64][LHS 3447]]
 

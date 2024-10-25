@@ -2,7 +2,7 @@
 :ID:       cb56ce56-d10b-4d8b-929d-2bdd8023e566
 :END:
 #+title: GalNet: Unauthorised Messages
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * GalNet: Unauthorised Messages
 

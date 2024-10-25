@@ -2,7 +2,7 @@
 :ID:       835e1aff-7445-4b0e-bd85-45a0e64553ff
 :END:
 #+title: Caine-Massey Wins Mining Contract
-#+filetags: :Empire:Federation:galnet:
+#+filetags: :Federation:Empire:galnet:
 
 * Caine-Massey Wins Mining Contract
 

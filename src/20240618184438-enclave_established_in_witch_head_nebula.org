@@ -2,7 +2,7 @@
 :ID:       81f4276f-c50a-4091-a46d-2834d22f7b0b
 :END:
 #+title: Enclave Established in Witch Head Nebula
-#+filetags: :Empire:Alliance:Thargoid:galnet:
+#+filetags: :Federation:Empire:Alliance:Thargoid:galnet:
 
 * Enclave Established in Witch Head Nebula
 

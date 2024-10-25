@@ -2,7 +2,7 @@
 :ID:       bc1d8b83-09a1-4518-bf00-36b7d607a977
 :END:
 #+title: Thargoid Fleet Invades Shinrarta Dezhra
-#+filetags: :Thargoid:galnet:
+#+filetags: :Federation:Thargoid:galnet:
 * Thargoid Fleet Invades Shinrarta Dezhra
 
 /19 Sep 3310/

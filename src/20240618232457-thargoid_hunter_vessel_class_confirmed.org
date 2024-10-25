@@ -2,7 +2,7 @@
 :ID:       237b4da2-3b25-4130-bd37-813db65413d4
 :END:
 #+title: Thargoid ‘Hunter’ Vessel Class Confirmed
-#+filetags: :Thargoid:galnet:
+#+filetags: :Federation:Thargoid:galnet:
 
 * Thargoid ‘Hunter’ Vessel Class Confirmed
 

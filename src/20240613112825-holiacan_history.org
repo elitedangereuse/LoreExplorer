@@ -2,7 +2,7 @@
 :ID:       2a7e2315-87e3-4a3c-bd43-f8158fb95b69
 :END:
 #+title: Holiacan History
-#+filetags: :Alliance:beacon:
+#+filetags: :Federation:Alliance:beacon:
 * 0125  Holiacan History
 [[id:2a7e2315-87e3-4a3c-bd43-f8158fb95b69][Holiacan]]  
 

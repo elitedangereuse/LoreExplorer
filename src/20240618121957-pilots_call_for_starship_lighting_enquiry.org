@@ -2,7 +2,7 @@
 :ID:       e3d6d788-cca3-4366-8443-fba473daca2f
 :END:
 #+title: Pilots Call for Starship Lighting Enquiry
-#+filetags: :Alliance:3301:galnet:
+#+filetags: :Federation:Alliance:3301:galnet:
 
 * Pilots Call for Starship Lighting Enquiry
 

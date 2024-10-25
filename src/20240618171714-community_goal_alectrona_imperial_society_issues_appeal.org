@@ -2,7 +2,7 @@
 :ID:       47ff9395-0625-477f-a172-6f34311aec9e
 :END:
 #+title: Community Goal: Alectrona Imperial Society Issues Appeal
-#+filetags: :Empire:CommunityGoal:Federation:3303:galnet:
+#+filetags: :Federation:Empire:CommunityGoal:3303:galnet:
 
 * Community Goal: Alectrona Imperial Society Issues Appeal
 

@@ -2,7 +2,7 @@
 :ID:       c6f2df05-7f29-4557-bcf1-a71e342fd306
 :END:
 #+title: Holiacan
-#+filetags: :Alliance:Federation:
+#+filetags: :Federation:Alliance:
 * 0125 Holiacan History                                 :beacon:EliteHistory:
 Relatively late to joining the original Alliance group in 3244,
 Holiacan was not contested by Federation forces as the systems assets

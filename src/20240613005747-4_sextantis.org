@@ -2,7 +2,7 @@
 :ID:       7402292c-3306-47d7-880a-06304f229379
 :END:
 #+title: 4 Sextantis
-#+filetags: :Rank:Federation:Permit:System:
+#+filetags: :Federation:Rank:Permit:System:
 [[file:img/permit.png]]
 
 Rank: n/a

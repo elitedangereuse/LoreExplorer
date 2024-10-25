@@ -2,7 +2,7 @@
 :ID:       41157bcf-6ea1-41e9-9520-df1e1c542062
 :END:
 #+title: The Assault on Oya
-#+filetags: :Thargoid:galnet:
+#+filetags: :Federation:Thargoid:galnet:
 
 * The Assault on Oya
 

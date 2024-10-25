@@ -2,7 +2,7 @@
 :ID:       f75f0301-ea85-4b52-9311-50a9d7ca7771
 :END:
 #+title: Pilots Urged to Defend Proteus Wave Project
-#+filetags: :Thargoid:galnet:
+#+filetags: :Federation:Thargoid:galnet:
 
 * Pilots Urged to Defend Proteus Wave Project
 

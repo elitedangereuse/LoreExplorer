@@ -2,7 +2,7 @@
 :ID:       c23ed259-cea7-4b70-9662-f88ac2cf54dc
 :END:
 #+title: Palin Makes Thargoid Spire Breakthrough
-#+filetags: :Alliance:Thargoid:galnet:
+#+filetags: :Federation:Alliance:Thargoid:galnet:
 
 * Palin Makes Thargoid Spire Breakthrough
 

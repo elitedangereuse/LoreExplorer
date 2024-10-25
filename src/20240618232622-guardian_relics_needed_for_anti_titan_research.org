@@ -2,7 +2,7 @@
 :ID:       15fb4bde-5738-4a35-8219-8d85e60b5470
 :END:
 #+title: Guardian Relics Needed for Anti-Titan Research
-#+filetags: :Thargoid:galnet:
+#+filetags: :Federation:Thargoid:galnet:
 
 * Guardian Relics Needed for Anti-Titan Research
 

@@ -2,7 +2,7 @@
 :ID:       d1545e97-076b-4d7d-897c-0fc57741cd69
 :END:
 #+title: Jasmina Halsey Becomes Federal Ambassador
-#+filetags: :Empire:Alliance:Federation:galnet:
+#+filetags: :Federation:Empire:Alliance:galnet:
 
 * [[id:a9ccf59f-436e-44df-b041-5020285925f8][Jasmina Halsey]] Becomes Federal Ambassador
 

@@ -2,7 +2,7 @@
 :ID:       3e6bc55f-d8a2-4e10-9b9b-3df8f55acca7
 :END:
 #+title: Materials Needed for Titan Research Project
-#+filetags: :Thargoid:galnet:
+#+filetags: :Federation:Thargoid:galnet:
 
 * Materials Needed for Titan Research Project
 

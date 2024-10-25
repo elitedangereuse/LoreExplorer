@@ -3,7 +3,7 @@
 :ROAM_REFS: https://cms.zaonce.net/en-GB/jsonapi/node/galnet_article/0a3a6236-35b3-409c-a23f-c372f55adb6a?resourceVersion=id%3A4873
 :END:
 #+title: Utopia Invites Superpowers to Galactic Summit
-#+filetags: :Empire:Alliance:Thargoid:galnet:
+#+filetags: :Federation:Empire:Alliance:Thargoid:galnet:
 
 * Utopia Invites Superpowers to Galactic Summit
 

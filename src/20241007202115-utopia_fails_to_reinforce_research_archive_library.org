@@ -2,7 +2,7 @@
 :ID:       e33c914d-7595-4c34-87b8-26ed55409171
 :END:
 #+title: Utopia Fails to Reinforce Research Archive Library
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 * Utopia Fails to Reinforce Research Archive Library
 
 /15 Aug 3310/

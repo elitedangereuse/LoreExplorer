@@ -2,7 +2,7 @@
 :ID:       52166ddb-b0af-49de-a57d-2e7459f9bd6c
 :END:
 #+title: Galactic News: Economic Turmoil Ahead?
-#+filetags: :Empire:Federation:3302:galnet:
+#+filetags: :Federation:Empire:3302:galnet:
 
 * Galactic News: Economic Turmoil Ahead?
 

@@ -2,7 +2,7 @@
 :ID:       bce1eb2b-c866-4bc4-814b-0046f6903c88
 :END:
 #+title: Empire Declares Reprisals Against Darkwater
-#+filetags: :Empire:galnet:
+#+filetags: :Federation:Empire:galnet:
 
 * Empire Declares Reprisals Against Darkwater
 

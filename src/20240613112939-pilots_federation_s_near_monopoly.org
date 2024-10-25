@@ -2,7 +2,7 @@
 :ID:       16edd4c0-b312-4a10-8f1b-3c50be01ab3a
 :END:
 #+title: Pilots Federation's Near Monopoly
-#+filetags: :beacon:
+#+filetags: :Federation:beacon:
 * 0249 Pilots Federation's Near Monopoly
 [[id:c6b67ab9-66c5-4636-a978-2ca3a9ab012c][Shinrarta Dezhra]]
 

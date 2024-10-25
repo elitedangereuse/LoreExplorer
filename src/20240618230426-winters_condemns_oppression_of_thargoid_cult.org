@@ -2,7 +2,7 @@
 :ID:       c2bc7c09-4866-4d97-8826-d6d674a92e89
 :END:
 #+title: Winters Condemns Oppression of Thargoid Cult
-#+filetags: :Thargoid:galnet:
+#+filetags: :Federation:Thargoid:galnet:
 
 * Winters Condemns Oppression of Thargoid Cult
 

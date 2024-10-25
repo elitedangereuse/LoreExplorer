@@ -2,7 +2,7 @@
 :ID:       5bd5ffaf-9210-4ee4-a1ef-46228d431c11
 :END:
 #+title: Federal Accord
-#+filetags: :2242:Federation:2240:beacon:
+#+filetags: :Federation:2242:2240:beacon:
 * 0174 Federal Accord
 [[id:da11b7b5-2c5a-4f17-9cd4-ce28a2f34dbd][Tau Ceti]]
 

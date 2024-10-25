@@ -3,7 +3,7 @@
 :END:
 #
 +title: Felicia Winters Elected as Federal President
-#+filetags: :Empire:Alliance:Thargoid:Federation:galnet:
+#+filetags: :Federation:Empire:Alliance:Thargoid:galnet:
 
 * [[id:b9fe58a3-dfb7-480c-afd6-92c3be841be7][Felicia Winters]] Elected as Federal President
 

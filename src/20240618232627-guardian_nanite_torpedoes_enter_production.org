@@ -2,7 +2,7 @@
 :ID:       2189b4d0-7970-491f-87be-a45a1e54825b
 :END:
 #+title: Guardian Nanite Torpedoes Enter Production
-#+filetags: :Thargoid:galnet:
+#+filetags: :Federation:Thargoid:galnet:
 
 * Guardian Nanite Torpedoes Enter Production
 

@@ -2,7 +2,7 @@
 :ID:       c7815680-4f1d-4927-9409-6c657d3fba69
 :END:
 #+title: GalNet: Apology for Unauthorised Broadcasts
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * GalNet: Apology for Unauthorised Broadcasts
 

@@ -2,7 +2,7 @@
 :ID:       329b006a-4462-49ba-9b85-af1028db0438
 :END:
 #+title: Resources Boost for Torval Mining Ltd
-#+filetags: :Empire:galnet:
+#+filetags: :Federation:Empire:galnet:
 
 * Resources Boost for Torval Mining Ltd
 

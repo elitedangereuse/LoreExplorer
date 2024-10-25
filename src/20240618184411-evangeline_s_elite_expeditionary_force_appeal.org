@@ -2,7 +2,7 @@
 :ID:       e5b8ca84-390c-43dd-a72c-9f82f4370c90
 :END:
 #+title: Evangeline’s Elite Expeditionary Force Appeal
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Evangeline’s Elite Expeditionary Force Appeal
 

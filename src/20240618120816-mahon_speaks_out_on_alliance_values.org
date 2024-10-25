@@ -2,7 +2,7 @@
 :ID:       99e77f7d-b8ae-4215-85cf-95261602749c
 :END:
 #+title: Mahon speaks out on Alliance Values
-#+filetags: :Empire:Alliance:Federation:3301:galnet:
+#+filetags: :Federation:Empire:Alliance:3301:galnet:
 
 * Mahon speaks out on Alliance Values
 

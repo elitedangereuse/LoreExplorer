@@ -2,7 +2,7 @@
 :ID:       fba12e00-f15b-4c59-b7e6-451dead6c54b
 :END:
 #+title: Delivery Campaign Helps Fund Imperial Charity
-#+filetags: :Thargoid:galnet:
+#+filetags: :Federation:Thargoid:galnet:
 
 * Delivery Campaign Helps Fund Imperial Charity
 

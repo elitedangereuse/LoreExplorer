@@ -2,7 +2,7 @@
 :ID:       636a95ec-85c1-43e7-9a65-dc29f1e0f45b
 :END:
 #+title: Terrorist Attack at Hadrian Duval’s HQ
-#+filetags: :Empire:galnet:
+#+filetags: :Federation:Empire:galnet:
 
 * Terrorist Attack at Hadrian Duval’s HQ
 

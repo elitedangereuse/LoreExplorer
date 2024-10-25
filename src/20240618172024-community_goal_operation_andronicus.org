@@ -2,7 +2,7 @@
 :ID:       cef58d92-b5f4-4aae-8518-a1aa78047c54
 :END:
 #+title: Community Goal: Operation Andronicus
-#+filetags: :Thargoid:CommunityGoal:3303:galnet:
+#+filetags: :Federation:Thargoid:CommunityGoal:3303:galnet:
 
 * Community Goal: Operation Andronicus
 

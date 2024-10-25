@@ -2,7 +2,7 @@
 :ID:       6badd233-f887-4408-8b84-0c914a035742
 :END:
 #+title: The Long Trip Home
-#+filetags: :Empire:Alliance:3301:galnet:
+#+filetags: :Federation:Empire:Alliance:3301:galnet:
 
 * The Long Trip Home
 

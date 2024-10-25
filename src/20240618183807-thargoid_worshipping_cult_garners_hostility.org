@@ -2,7 +2,7 @@
 :ID:       81c1383d-bae3-4e21-b465-929c44bc7fba
 :END:
 #+title: Thargoid-Worshipping Cult Garners Hostility
-#+filetags: :Alliance:Thargoid:3304:galnet:
+#+filetags: :Federation:Alliance:Thargoid:3304:galnet:
 
 * Thargoid-Worshipping Cult Garners Hostility
 

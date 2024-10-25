@@ -2,7 +2,7 @@
 :ID:       0b07ac5b-b0ea-4591-b528-772e8e684186
 :END:
 #+title: The Assault on Raijin
-#+filetags: :Thargoid:3310:galnet:
+#+filetags: :Federation:Thargoid:3310:galnet:
 * The Assault on Raijin
 
 /18 Oct 3310/

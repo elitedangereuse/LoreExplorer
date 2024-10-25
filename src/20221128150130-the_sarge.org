@@ -2,7 +2,7 @@
 :ID:       987c6f4c-d050-4220-bc70-ccc894fff3b2
 :END:
 #+title: The Sarge
-#+filetags: :Individual:Federation:Rank:engineer:
+#+filetags: :Federation:Individual:Rank:engineer:
 
 * Location
 The Beach | [[id:defa824f-5321-427d-9a8c-48519f68d2be][Beta-3 Tucani]]

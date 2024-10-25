@@ -2,7 +2,7 @@
 :ID:       5339ace6-60ea-4cd9-915c-d75216e03b25
 :END:
 #+title: Federation Takes Pleiades Sector IH-V C2-16
-#+filetags: :Empire:Federation:beacon:
+#+filetags: :Federation:Empire:beacon:
 * 0685 Federation Takes Pleiades Sector IH-V C2-16
 [[id:5339ace6-60ea-4cd9-915c-d75216e03b25][Pleiades Sector IH-V C2-16]]
 

@@ -2,7 +2,7 @@
 :ID:       8b67a0cb-7119-4484-be83-d83ed3ad6fb6
 :END:
 #+title: Enhanced Missile Rack Initiative Concludes
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Enhanced Missile Rack Initiative Concludes
 

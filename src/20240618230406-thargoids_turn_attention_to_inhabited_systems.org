@@ -2,7 +2,7 @@
 :ID:       9d2bccb7-572f-4b90-8961-771704fe7231
 :END:
 #+title: Thargoids Turn Attention to Inhabited Systems
-#+filetags: :Thargoid:galnet:
+#+filetags: :Federation:Thargoid:galnet:
 
 * Thargoids Turn Attention to Inhabited Systems
 

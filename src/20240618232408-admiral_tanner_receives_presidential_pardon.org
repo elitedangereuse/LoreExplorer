@@ -2,7 +2,7 @@
 :ID:       21fc2551-1f83-4b2d-a41f-a5d87a0fd459
 :END:
 #+title: Admiral Tanner Receives Presidential Pardon
-#+filetags: :Thargoid:galnet:
+#+filetags: :Federation:Thargoid:galnet:
 
 * Admiral Tanner Receives Presidential Pardon
 

@@ -3,7 +3,7 @@
 :ROAM_REFS: https://cms.zaonce.net/en-GB/jsonapi/node/galnet_article/e2b1210f-8021-4438-a1c0-a1514baacd00?resourceVersion=id%3A4874
 :END:
 #+title: Countdown to Alliance Election Begins
-#+filetags: :Alliance:Thargoid:galnet:
+#+filetags: :Federation:Alliance:Thargoid:galnet:
 
 * Countdown to Alliance Election Begins
 

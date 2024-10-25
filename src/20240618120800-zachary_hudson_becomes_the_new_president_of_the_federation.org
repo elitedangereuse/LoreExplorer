@@ -2,7 +2,7 @@
 :ID:       bb0dfdc8-8bf2-4d5e-b1a1-b359eee4b994
 :END:
 #+title: Zachary Hudson Becomes the New President of the Federation
-#+filetags: :3301:galnet:
+#+filetags: :Federation:3301:galnet:
 
 * [[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][Zachary Hudson]] Becomes the New President of the Federation
 

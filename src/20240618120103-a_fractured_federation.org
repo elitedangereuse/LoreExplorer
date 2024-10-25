@@ -2,7 +2,7 @@
 :ID:       26e32191-60a8-43fb-b213-018525e2408d
 :END:
 #+title: A Fractured Federation
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * A Fractured Federation
 

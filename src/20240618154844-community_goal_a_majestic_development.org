@@ -2,7 +2,7 @@
 :ID:       fc091f95-d2e3-4670-855e-70bfe78c557f
 :END:
 #+title: Community Goal: A Majestic Development
-#+filetags: :Empire:CommunityGoal:3302:galnet:
+#+filetags: :Federation:Empire:CommunityGoal:3302:galnet:
 
 * Community Goal: A Majestic Development
 

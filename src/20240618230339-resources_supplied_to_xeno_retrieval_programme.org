@@ -2,7 +2,7 @@
 :ID:       b04804e4-d6d3-4bb8-88e1-526000bab096
 :END:
 #+title: Resources Supplied to Xeno-Retrieval Programme
-#+filetags: :Thargoid:galnet:
+#+filetags: :Federation:Thargoid:galnet:
 
 * Resources Supplied to Xeno-Retrieval Programme
 

@@ -2,7 +2,7 @@
 :ID:       0bf21fc0-81c3-40cf-b5c4-3670baba8052
 :END:
 #+title: Thargoid Scythes Undertake ‘Human Harvest’
-#+filetags: :Empire:Thargoid:galnet:
+#+filetags: :Federation:Empire:Thargoid:galnet:
 
 * Thargoid Scythes Undertake ‘Human Harvest’
 

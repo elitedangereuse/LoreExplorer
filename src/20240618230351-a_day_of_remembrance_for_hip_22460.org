@@ -2,7 +2,7 @@
 :ID:       0aab37c4-1ced-4689-b2f2-2e764b31641f
 :END:
 #+title: A Day of Remembrance for HIP 22460
-#+filetags: :Thargoid:Federation:galnet:
+#+filetags: :Federation:Thargoid:galnet:
 
 * A Day of Remembrance for HIP 22460
 

@@ -2,7 +2,7 @@
 :ID:       54c39ddd-f01d-4ae5-a558-98a35d013b00
 :END:
 #+title: Week in Review 24 Jun 3304
-#+filetags: :Empire:Alliance:Thargoid:3304:galnet:
+#+filetags: :Federation:Empire:Alliance:Thargoid:3304:galnet:
 
 * Week in Review
 

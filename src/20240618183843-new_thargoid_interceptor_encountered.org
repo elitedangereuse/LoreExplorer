@@ -2,7 +2,7 @@
 :ID:       4610deb4-3944-4fb2-a771-bdbfa1bdc46c
 :END:
 #+title: New Thargoid Interceptor Encountered
-#+filetags: :Thargoid:3304:galnet:
+#+filetags: :Federation:Thargoid:3304:galnet:
 
 * New Thargoid Interceptor Encountered
 

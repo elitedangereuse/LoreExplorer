@@ -2,7 +2,7 @@
 :ID:       5bc90fbd-7d23-4103-b909-63a0915dd642
 :END:
 #+title: Bishop’s Congressional Bid Collapses
-#+filetags: :Thargoid:3304:galnet:
+#+filetags: :Federation:Thargoid:3304:galnet:
 
 * Bishop’s Congressional Bid Collapses
 

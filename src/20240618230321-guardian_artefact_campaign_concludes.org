@@ -2,7 +2,7 @@
 :ID:       970c6ab6-6847-456d-bc90-91b316d1b050
 :END:
 #+title: Guardian Artefact Campaign Concludes
-#+filetags: :Thargoid:galnet:
+#+filetags: :Federation:Thargoid:galnet:
 
 * Guardian Artefact Campaign Concludes
 

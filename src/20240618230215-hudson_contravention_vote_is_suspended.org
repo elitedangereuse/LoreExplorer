@@ -2,7 +2,7 @@
 :ID:       a90787cb-f551-48ec-8de3-c817ffd8faa6
 :END:
 #+title: Hudson Contravention Vote is Suspended
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Hudson Contravention Vote is Suspended
 

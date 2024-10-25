@@ -2,7 +2,7 @@
 :ID:       87ca6aae-b80d-411d-9efd-ee738a591702
 :END:
 #+title: The Science of a Safer Society
-#+filetags: :Empire:Federation:3301:galnet:
+#+filetags: :Federation:Empire:3301:galnet:
 
 * The Science of a Safer Society
 

@@ -3,7 +3,7 @@
 :ROAM_ALIASES: EFP
 :END:
 #+title: The Elite Federation of Pilots
-#+filetags: :beacon:
+#+filetags: :Federation:beacon:
 * 0246 The Elite Federation of Pilots
 [[id:c6b67ab9-66c5-4636-a978-2ca3a9ab012c][Shinrarta Dezhra]]
 

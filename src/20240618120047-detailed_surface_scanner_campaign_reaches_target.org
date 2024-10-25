@@ -2,7 +2,7 @@
 :ID:       370bd09d-4b7a-44ad-9ef5-d4feb8b37196
 :END:
 #+title: Detailed Surface Scanner Campaign Reaches Target
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Detailed Surface Scanner Campaign Reaches Target
 

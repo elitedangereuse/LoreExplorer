@@ -2,7 +2,7 @@
 :ID:       1c265073-533d-4098-9e46-650da98288b0
 :END:
 #+title: Azimuth Releases New AX Weapon
-#+filetags: :Thargoid:3309:galnet:
+#+filetags: :Federation:Thargoid:3309:galnet:
 
 * Azimuth Releases New AX Weapon
 

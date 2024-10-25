@@ -2,7 +2,7 @@
 :ID:       410ec7e0-8ceb-4545-b91d-0bd1d1670b7a
 :END:
 #+title: Galactic News: Halsey Comments on End of Cold War
-#+filetags: :Empire:Federation:3303:galnet:
+#+filetags: :Federation:Empire:3303:galnet:
 
 * Galactic News: Halsey Comments on End of Cold War
 

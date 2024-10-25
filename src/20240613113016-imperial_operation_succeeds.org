@@ -2,7 +2,7 @@
 :ID:       435481ae-5f4e-4ae0-9fba-4df770c4ffc5
 :END:
 #+title: Imperial Operation Succeeds
-#+filetags: :Empire:3302:beacon:
+#+filetags: :Federation:Empire:3302:beacon:
 * 0680 Imperial Operation Succeeds
 [[id:b134728d-ea83-43c0-af4d-c212b8a0dd91][Mu Koji]]
 

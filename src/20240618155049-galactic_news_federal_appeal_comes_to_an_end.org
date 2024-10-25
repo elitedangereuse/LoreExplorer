@@ -2,7 +2,7 @@
 :ID:       ee81402a-d02c-4d61-9f7a-e1393763d511
 :END:
 #+title: Galactic News: Federal Appeal Comes to an End
-#+filetags: :3302:galnet:
+#+filetags: :Federation:3302:galnet:
 
 * Galactic News: Federal Appeal Comes to an End
 

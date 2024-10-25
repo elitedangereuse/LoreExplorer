@@ -2,7 +2,7 @@
 :ID:       ed5bfbec-1983-4ad6-8be7-1147bb8c7862
 :END:
 #+title: Thargoid War Update: February 3309
-#+filetags: :Empire:Alliance:Thargoid:galnet:
+#+filetags: :Federation:Empire:Alliance:Thargoid:galnet:
 
 * Thargoid War Update: February 3309
 

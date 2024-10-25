@@ -2,7 +2,7 @@
 :ID:       f6907e0e-5e6b-4b9d-b28c-11c233ba8aac
 :END:
 #+title: Ships Lost in Space
-#+filetags: :Thargoid:Federation:beacon:
+#+filetags: :Federation:Thargoid:beacon:
 * 0187 Ships Lost in Space
 [[id:113500ff-cc01-4fe3-a0f4-87d92e2c2d31][Zelada]]
 

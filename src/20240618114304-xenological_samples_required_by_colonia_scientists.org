@@ -3,7 +3,7 @@
 :ROAM_REFS: https://cms.zaonce.net/en-GB/jsonapi/node/galnet_article/da747bdc-42e9-4d14-be66-e72712e6ee96?resourceVersion=id%3A4879
 :END:
 #+title: Xenological Samples Required by Colonia Scientists
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Xenological Samples Required by Colonia Scientists
 

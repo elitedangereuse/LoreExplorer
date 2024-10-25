@@ -2,7 +2,7 @@
 :ID:       8fa1990f-fc61-47ef-bcea-e4a0ae147162
 :END:
 #+title: Federal Congress Grants Emergency Surveillance Powers
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Federal Congress Grants Emergency Surveillance Powers
 

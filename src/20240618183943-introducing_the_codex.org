@@ -2,7 +2,7 @@
 :ID:       226c14a8-b2dd-456d-a343-c8edf0cf3d5d
 :END:
 #+title: Introducing the Codex
-#+filetags: :3304:galnet:
+#+filetags: :Federation:3304:galnet:
 
 * Introducing the Codex
 

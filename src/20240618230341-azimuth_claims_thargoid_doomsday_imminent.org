@@ -2,7 +2,7 @@
 :ID:       7c1e1b7e-858b-4f59-a801-c4f9316c7623
 :END:
 #+title: Azimuth Claims ‘Thargoid Doomsday’ Imminent
-#+filetags: :Empire:Alliance:Thargoid:galnet:
+#+filetags: :Federation:Empire:Alliance:Thargoid:galnet:
 
 * Azimuth Claims ‘Thargoid Doomsday’ Imminent
 

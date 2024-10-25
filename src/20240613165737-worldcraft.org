@@ -2,7 +2,7 @@
 :ID:       ebaea4eb-8ba1-4f48-ada6-ca694704143b
 :END:
 #+title: WorldCraft
-#+filetags: :Corporation:
+#+filetags: :Federation:Corporation:
 
 * WorldCraft
 

@@ -2,7 +2,7 @@
 :ID:       a7e62a12-6e07-4085-b579-904e8bed929f
 :END:
 #+title: Witch Head Planetary Ports Established
-#+filetags: :Empire:Alliance:Thargoid:galnet:
+#+filetags: :Federation:Empire:Alliance:Thargoid:galnet:
 
 * Witch Head Planetary Ports Established
 

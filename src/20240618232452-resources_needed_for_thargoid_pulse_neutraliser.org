@@ -2,7 +2,7 @@
 :ID:       bc2da3f8-1ef0-4655-bdd5-67c3fb3150fa
 :END:
 #+title: Resources Needed for Thargoid Pulse Neutraliser
-#+filetags: :Thargoid:galnet:
+#+filetags: :Federation:Thargoid:galnet:
 
 * Resources Needed for Thargoid Pulse Neutraliser
 

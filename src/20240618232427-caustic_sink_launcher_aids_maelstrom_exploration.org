@@ -2,7 +2,7 @@
 :ID:       5e9766aa-6940-4056-a3ba-a128742b2db1
 :END:
 #+title: Caustic Sink Launcher Aids Maelstrom Exploration
-#+filetags: :Thargoid:galnet:
+#+filetags: :Federation:Thargoid:galnet:
 
 * Caustic Sink Launcher Aids Maelstrom Exploration
 

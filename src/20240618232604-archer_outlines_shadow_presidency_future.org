@@ -2,7 +2,7 @@
 :ID:       e47eb408-3101-4d9c-8c84-c2a12b31f31b
 :END:
 #+title: Archer Outlines Shadow Presidency Future
-#+filetags: :Thargoid:Federation:galnet:
+#+filetags: :Federation:Thargoid:galnet:
 
 * Archer Outlines Shadow Presidency Future
 

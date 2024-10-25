@@ -2,7 +2,7 @@
 :ID:       e3dd85c2-5249-42c9-86c1-31069194f93d
 :END:
 #+title: New Onionhead Variant Reaches the Market
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * New Onionhead Variant Reaches the Market
 

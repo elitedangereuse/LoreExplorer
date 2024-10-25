@@ -2,7 +2,7 @@
 :ID:       8931d0dd-f510-4a13-935a-cae6c3ff7ad5
 :END:
 #+title: Mass Thargoid Strike – Emergency Declared
-#+filetags: :Thargoid:galnet:
+#+filetags: :Federation:Thargoid:galnet:
 
 * Mass Thargoid Strike – Emergency Declared
 

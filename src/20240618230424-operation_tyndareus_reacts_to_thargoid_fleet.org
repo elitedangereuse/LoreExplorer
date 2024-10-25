@@ -2,7 +2,7 @@
 :ID:       37ff50c0-b40a-41b3-8a13-99191100fb6a
 :END:
 #+title: Operation Tyndareus Reacts to Thargoid Fleet
-#+filetags: :Alliance:Thargoid:galnet:
+#+filetags: :Federation:Alliance:Thargoid:galnet:
 
 * Operation Tyndareus Reacts to Thargoid Fleet
 

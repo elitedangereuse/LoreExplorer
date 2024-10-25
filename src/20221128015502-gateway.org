@@ -2,7 +2,7 @@
 :ID:       e179ecca-9ab3-4184-b05e-107b2e6932c2
 :END:
 #+title: Gateway
-#+filetags: :Alliance:Federation:
+#+filetags: :Federation:Alliance:
 * 0124 Gateway History                                  :beacon:EliteHistory:
 Gateway was originally known as [[id:db4ef902-ee84-4f55-87df-868696045693][Oltiqu]], but renamed when the Alliance
 was founded in 3230. The system had originally been under Federation

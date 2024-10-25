@@ -2,7 +2,7 @@
 :ID:       241b8fe3-898d-4d2b-bd1b-a27a17ca0b65
 :END:
 #+title: O'Brien's War
-#+filetags: :Empire:Federation:beacon:
+#+filetags: :Federation:Empire:beacon:
 * 0195 O'Brien's War
 [[id:51a92498-ef1b-4fc3-9ad7-9e49fb947353][Cemiess]]
 

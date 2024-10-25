@@ -2,7 +2,7 @@
 :ID:       db4aeb81-9466-4777-8c66-4cdffb3e991f
 :END:
 #+title: ‘Imperial Assassin’ Stokes Superpower Tensions
-#+filetags: :Empire:galnet:
+#+filetags: :Federation:Empire:galnet:
 
 * ‘Imperial Assassin’ Stokes Superpower Tensions
 

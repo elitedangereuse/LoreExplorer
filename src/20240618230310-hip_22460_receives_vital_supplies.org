@@ -2,7 +2,7 @@
 :ID:       07bcab99-d822-4adc-a524-d861e076d8ab
 :END:
 #+title: HIP 22460 Receives Vital Supplies
-#+filetags: :Alliance:galnet:
+#+filetags: :Federation:Alliance:galnet:
 
 * HIP 22460 Receives Vital Supplies
 

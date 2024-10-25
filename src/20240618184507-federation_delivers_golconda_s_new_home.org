@@ -2,7 +2,7 @@
 :ID:       d7cf7759-a06e-49e9-b2ad-45cd8f5c3440
 :END:
 #+title: Federation Delivers Golconda’s New Home
-#+filetags: :Empire:galnet:
+#+filetags: :Federation:Empire:galnet:
 
 * Federation Delivers [[id:fce1d147-f900-41ec-a92c-3ce3d1cae641][Golconda]]’s New Home
 

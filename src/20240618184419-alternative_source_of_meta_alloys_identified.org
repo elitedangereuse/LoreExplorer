@@ -2,7 +2,7 @@
 :ID:       f3ea54b0-7e7c-4c02-bed7-f959ac3dbdda
 :END:
 #+title: Alternative Source of Meta-Alloys Identified
-#+filetags: :Empire:Alliance:galnet:
+#+filetags: :Federation:Empire:Alliance:galnet:
 
 * Alternative Source of Meta-Alloys Identified
 

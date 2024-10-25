@@ -2,7 +2,7 @@
 :ID:       49593d82-08be-4f96-bb0c-8e9d4bdbfa88
 :END:
 #+title: Galactic News: Did the Empire Destroy Starship One?
-#+filetags: :Empire:Federation:3302:galnet:
+#+filetags: :Federation:Empire:3302:galnet:
 
 * Galactic News: Did the Empire Destroy Starship One?
 

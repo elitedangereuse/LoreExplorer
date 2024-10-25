@@ -2,7 +2,7 @@
 :ID:       6183ccae-9705-49f9-88ff-afe97f55f45a
 :END:
 #+title: Marlinist Colonies Receive Starport Resources
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Marlinist Colonies Receive Starport Resources
 

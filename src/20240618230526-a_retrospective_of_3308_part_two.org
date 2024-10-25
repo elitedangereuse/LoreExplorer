@@ -2,7 +2,7 @@
 :ID:       6f3cfb40-876f-4689-a4ae-e7950df70a4b
 :END:
 #+title: A Retrospective of 3308 (Part Two)
-#+filetags: :Empire:Alliance:Thargoid:galnet:
+#+filetags: :Federation:Empire:Alliance:Thargoid:galnet:
 
 * A Retrospective of 3308 (Part Two)
 

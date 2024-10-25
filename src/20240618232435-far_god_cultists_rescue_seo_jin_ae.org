@@ -2,7 +2,7 @@
 :ID:       72411755-74fd-46c7-8f4c-9c81e364930b
 :END:
 #+title: Far God Cultists Rescue Seo Jin-ae
-#+filetags: :Empire:Federation:galnet:
+#+filetags: :Federation:Empire:galnet:
 
 * [[id:04ae001b-eb07-4812-a42e-4bb72825609b][Far God]] Cultists Rescue [[id:6bcd90ab-54f2-4d9a-9eeb-92815cc7766e][Seo Jin-ae]]
 

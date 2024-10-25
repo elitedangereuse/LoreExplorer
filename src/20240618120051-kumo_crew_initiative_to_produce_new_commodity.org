@@ -2,7 +2,7 @@
 :ID:       b1c7e7e7-0597-49c7-a5c2-ea684f1f530f
 :END:
 #+title: Kumo Crew Initiative to Produce New Commodity
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Kumo Crew Initiative to Produce New Commodity
 

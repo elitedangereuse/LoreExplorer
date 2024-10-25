@@ -2,7 +2,7 @@
 :ID:       7a64eba5-fa74-45a9-9f53-726b95a6b8d9
 :END:
 #+title: ximilian North, Sirius Atmospherics’s project director, outlined the requirements: 
-#+filetags: :Alliance:galnet:
+#+filetags: :Federation:Alliance:galnet:
 
 * Explorers Needed for Coalsack Nebula Project
 

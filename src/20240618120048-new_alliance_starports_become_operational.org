@@ -2,7 +2,7 @@
 :ID:       82d4839c-033f-4840-9e95-230549612b7d
 :END:
 #+title: New Alliance Starports Become Operational
-#+filetags: :Alliance:galnet:
+#+filetags: :Federation:Alliance:galnet:
 
 * New Alliance Starports Become Operational
 

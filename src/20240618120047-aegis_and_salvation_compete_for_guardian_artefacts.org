@@ -2,7 +2,7 @@
 :ID:       c2cfcd08-544b-4975-b1d3-80ecd1a2c420
 :END:
 #+title: Aegis and ‘Salvation’ Compete for Guardian Artefacts
-#+filetags: :Empire:Alliance:Thargoid:Guardian:galnet:
+#+filetags: :Federation:Empire:Alliance:Thargoid:Guardian:galnet:
 
 * Aegis and ‘Salvation’ Compete for Guardian Artefacts
 

@@ -2,7 +2,7 @@
 :ID:       fd52601e-e5c2-4d10-b024-c335b6d398fd
 :END:
 #+title: Deliver Rarities for Azimuth Event
-#+filetags: :Alliance:Thargoid:galnet:
+#+filetags: :Federation:Alliance:Thargoid:galnet:
 
 * Deliver Rarities for Azimuth Event
 

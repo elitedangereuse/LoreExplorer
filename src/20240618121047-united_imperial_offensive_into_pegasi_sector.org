@@ -2,7 +2,7 @@
 :ID:       3032cd08-6c38-479f-b012-d73bb5f5c43d
 :END:
 #+title: United Imperial Offensive into Pegasi Sector
-#+filetags: :3301:galnet:
+#+filetags: :Federation:3301:galnet:
 
 * United Imperial Offensive into Pegasi Sector
 

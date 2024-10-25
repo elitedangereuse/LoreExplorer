@@ -2,7 +2,7 @@
 :ID:       dbc207d2-329a-4d8d-bd41-7997128ac3c1
 :END:
 #+title: Electoral Reform Proposed for the Alliance
-#+filetags: :Alliance:galnet:
+#+filetags: :Federation:Alliance:galnet:
 
 * Electoral Reform Proposed for the Alliance
 

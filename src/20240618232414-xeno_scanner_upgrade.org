@@ -2,7 +2,7 @@
 :ID:       d19dc4f1-5943-41e8-a92f-486c15af4e02
 :END:
 #+title: Xeno Scanner Upgrade
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Xeno Scanner Upgrade
 

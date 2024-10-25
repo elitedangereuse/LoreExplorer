@@ -2,7 +2,7 @@
 :ID:       7391f3b6-8546-4942-9d34-eed18418da82
 :END:
 #+title: Upgraded Xeno Scanner Requires Resources
-#+filetags: :Alliance:Thargoid:galnet:
+#+filetags: :Federation:Alliance:Thargoid:galnet:
 
 * Upgraded Xeno Scanner Requires Resources
 

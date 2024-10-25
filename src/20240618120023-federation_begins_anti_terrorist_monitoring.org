@@ -2,7 +2,7 @@
 :ID:       48770fb0-fd85-4e7f-a225-1e4334477a48
 :END:
 #+title: Federation Begins Anti-Terrorist Monitoring
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Federation Begins Anti-Terrorist Monitoring
 

@@ -2,7 +2,7 @@
 :ID:       8edb93c3-c356-470c-93ee-565da76482f8
 :END:
 #+title: Superpowers Respond to New Onionhead
-#+filetags: :Empire:Alliance:galnet:
+#+filetags: :Federation:Empire:Alliance:galnet:
 
 * Superpowers Respond to New Onionhead
 

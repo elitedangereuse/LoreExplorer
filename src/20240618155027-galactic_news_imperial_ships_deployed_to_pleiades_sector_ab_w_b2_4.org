@@ -2,7 +2,7 @@
 :ID:       83fe2ea8-cf35-4a13-8aba-5240ec5512e3
 :END:
 #+title: Galactic News: Imperial Ships Deployed to Pleiades Sector AB-W B2-4
-#+filetags: :Empire:Federation:3302:galnet:
+#+filetags: :Federation:Empire:3302:galnet:
 
 * Galactic News: Imperial Ships Deployed to Pleiades Sector AB-W B2-4
 

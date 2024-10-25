@@ -2,7 +2,7 @@
 :ID:       4d2db759-847b-4992-a924-3436a7ccb675
 :END:
 #+title: Galactic News: Federal Outpost Campaign Concludes
-#+filetags: :Thargoid:3303:galnet:
+#+filetags: :Federation:Thargoid:3303:galnet:
 
 * Galactic News: Federal Outpost Campaign Concludes
 

@@ -2,7 +2,7 @@
 :ID:       5fb6d7e8-17ec-4207-b0d6-55a7f7c5f134
 :END:
 #+title: Rebellion Spreads Through the Federation
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Rebellion Spreads Through the Federation
 

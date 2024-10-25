@@ -2,7 +2,7 @@
 :ID:       4a2cbfd8-9835-46cb-b4b2-3dc6717bd531
 :END:
 #+title: Federal President Hudson Looks to the Future
-#+filetags: :Empire:Federation:3301:galnet:
+#+filetags: :Federation:Empire:3301:galnet:
 
 * Federal President Hudson Looks to the Future
 

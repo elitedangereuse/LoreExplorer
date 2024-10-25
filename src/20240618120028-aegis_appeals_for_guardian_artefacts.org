@@ -2,7 +2,7 @@
 :ID:       67165b19-c0cf-425b-8bcb-370c9940c413
 :END:
 #+title: Aegis Appeals For Guardian Artefacts
-#+filetags: :Thargoid:Guardian:galnet:
+#+filetags: :Federation:Thargoid:Guardian:galnet:
 
 * Aegis Appeals For Guardian Artefacts
 

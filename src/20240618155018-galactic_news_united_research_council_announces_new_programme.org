@@ -2,7 +2,7 @@
 :ID:       e6b64d7a-b46e-41c3-978c-7309dd02df17
 :END:
 #+title: Galactic News: United Research Council Announces New Programme
-#+filetags: :Empire:Alliance:Federation:3302:galnet:
+#+filetags: :Federation:Empire:Alliance:3302:galnet:
 
 * Galactic News: United Research Council Announces New Programme
 

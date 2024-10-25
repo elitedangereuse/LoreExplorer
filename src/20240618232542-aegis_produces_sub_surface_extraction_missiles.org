@@ -2,7 +2,7 @@
 :ID:       4e35fa06-5c1b-4f5e-b247-116a344eb2b4
 :END:
 #+title: Aegis Produces Sub-Surface Extraction Missiles
-#+filetags: :Thargoid:galnet:
+#+filetags: :Federation:Thargoid:galnet:
 
 * Aegis Produces Sub-Surface Extraction Missiles
 

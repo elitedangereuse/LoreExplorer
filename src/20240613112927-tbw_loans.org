@@ -2,7 +2,7 @@
 :ID:       59b8ac63-9c15-4f7a-b24b-9f03cb5e0fa4
 :END:
 #+title: TBW Loans
-#+filetags: :beacon:
+#+filetags: :Federation:beacon:
 * 0230  TBW Loans
 [[id:929ff6f9-0c6c-4a07-ad87-0fb67def4f0e][Andceeth]]
 

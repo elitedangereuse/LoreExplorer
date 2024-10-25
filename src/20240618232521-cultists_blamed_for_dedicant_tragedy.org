@@ -2,7 +2,7 @@
 :ID:       3f59712c-edeb-426e-8bf2-119d6ab1e1ae
 :END:
 #+title: Cultists Blamed for Dedicant Tragedy
-#+filetags: :Alliance:Thargoid:Federation:galnet:
+#+filetags: :Federation:Alliance:Thargoid:galnet:
 
 * Cultists Blamed for Dedicant Tragedy
 

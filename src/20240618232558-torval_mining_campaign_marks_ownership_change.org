@@ -2,7 +2,7 @@
 :ID:       8eb3ee40-6218-4269-9fa6-dd152ce326f6
 :END:
 #+title: Torval Mining Campaign Marks Ownership Change
-#+filetags: :Empire:galnet:
+#+filetags: :Federation:Empire:galnet:
 
 * Torval Mining Campaign Marks Ownership Change
 

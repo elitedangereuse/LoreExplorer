@@ -2,7 +2,7 @@
 :ID:       32671964-b513-4b29-844f-ba37c97b0591
 :END:
 #+title: Galactic News: The Origin of the Alliance
-#+filetags: :Empire:Alliance:Federation:3302:galnet:
+#+filetags: :Federation:Empire:Alliance:3302:galnet:
 
 * Galactic News: The Origin of the Alliance
 

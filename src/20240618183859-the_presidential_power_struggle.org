@@ -2,7 +2,7 @@
 :ID:       b49ec7ff-26da-45e6-8b63-a6784f1beec8
 :END:
 #+title: The Presidential Power Struggle
-#+filetags: :Empire:Alliance:3304:galnet:
+#+filetags: :Federation:Empire:Alliance:3304:galnet:
 
 * The Presidential Power Struggle
 

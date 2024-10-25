@@ -2,7 +2,7 @@
 :ID:       17f6980b-2c85-4409-bfde-be80ad9994cd
 :END:
 #+title: Convoy Tragedy Halts Superpower Conflict
-#+filetags: :Empire:Thargoid:Federation:galnet:
+#+filetags: :Federation:Empire:Thargoid:galnet:
 
 * Convoy Tragedy Halts Superpower Conflict
 

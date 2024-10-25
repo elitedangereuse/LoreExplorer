@@ -2,7 +2,7 @@
 :ID:       a69e2180-0971-43a2-a8d0-5cbd9424f041
 :END:
 #+title: Community Goal: Aid for the Mu Koji Refugees
-#+filetags: :Empire:CommunityGoal:3302:galnet:
+#+filetags: :Federation:Empire:CommunityGoal:3302:galnet:
 
 * Community Goal: Aid for the Mu Koji Refugees
 

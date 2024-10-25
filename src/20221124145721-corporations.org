@@ -2,7 +2,7 @@
 :ID:       3e91a7d8-2f6a-4065-b134-0e9760d34d92
 :END:
 #+title: Corporations
-#+filetags: :Empire:Alliance:KnowledgeBase:Codex:
+#+filetags: :Federation:Empire:Alliance:KnowledgeBase:Codex:
 
 * Corporations
 ** Introduction

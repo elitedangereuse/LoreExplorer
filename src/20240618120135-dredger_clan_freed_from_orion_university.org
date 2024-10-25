@@ -2,7 +2,7 @@
 :ID:       adfdadb8-8f78-43ef-8a0d-900a8bdf1741
 :END:
 #+title: Dredger Clan Freed from Orion University
-#+filetags: :Alliance:galnet:
+#+filetags: :Federation:Alliance:galnet:
 
 * Dredger Clan Freed from Orion University
 

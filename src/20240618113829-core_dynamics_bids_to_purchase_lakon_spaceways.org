@@ -2,7 +2,7 @@
 :ID:       a6dfd201-9000-47ab-83b4-ba6440ed7fd7
 :END:
 #+title: Core Dynamics Bids to Purchase Lakon Spaceways
-#+filetags: :Alliance:galnet:
+#+filetags: :Federation:Alliance:galnet:
 
 * Core Dynamics Bids to Purchase Lakon Spaceways
 

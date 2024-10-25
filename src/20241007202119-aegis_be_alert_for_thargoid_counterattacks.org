@@ -2,7 +2,7 @@
 :ID:       3cc3f4f4-a784-4876-ad1a-1c023007fb18
 :END:
 #+title: Aegis: “Be Alert for Thargoid Counterattacks”
-#+filetags: :Thargoid:galnet:
+#+filetags: :Federation:Thargoid:galnet:
 * Aegis: “Be Alert for Thargoid Counterattacks”
 
 /10 Sep 3310/

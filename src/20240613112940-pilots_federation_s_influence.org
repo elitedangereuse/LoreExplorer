@@ -2,7 +2,7 @@
 :ID:       3d4ba025-85b3-47a0-9e3b-3f1cd56ff2e2
 :END:
 #+title: Pilots Federation's Influence
-#+filetags: :beacon:
+#+filetags: :Federation:beacon:
 * 0250 Pilots Federation's Influence
 [[id:c6b67ab9-66c5-4636-a978-2ca3a9ab012c][Shinrarta Dezhra]]
 

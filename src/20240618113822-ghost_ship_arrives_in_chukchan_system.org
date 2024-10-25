@@ -2,7 +2,7 @@
 :ID:       7497e422-c726-412c-9788-aafd6c844f58
 :END:
 #+title: ‘Ghost Ship’ Arrives in Chukchan System
-#+filetags: :Alliance:galnet:
+#+filetags: :Federation:Alliance:galnet:
 
 * ‘Ghost Ship’ Arrives in Chukchan System
 

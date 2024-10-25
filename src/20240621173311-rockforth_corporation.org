@@ -2,7 +2,7 @@
 :ID:       a7056ff8-e67d-4ca9-baf1-7e5df3efa677
 :END:
 #+title: Rockforth Corporation
-#+filetags: :Corporation:
+#+filetags: :Federation:Corporation:
 
 * The Rockforth Corporation
 

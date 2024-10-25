@@ -2,4 +2,5 @@
 :ID:       bb90a162-e588-4467-bc4b-d8a33ecef686
 :END:
 #+title: President of the Federation
+#+filetags: :Federation:
 

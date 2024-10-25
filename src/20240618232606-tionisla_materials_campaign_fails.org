@@ -2,7 +2,7 @@
 :ID:       5ed08e69-8942-4e8b-9335-5efe584d4183
 :END:
 #+title: Tionisla Materials Campaign Fails
-#+filetags: :Alliance:galnet:
+#+filetags: :Federation:Alliance:galnet:
 
 * Tionisla Materials Campaign Fails
 

@@ -2,7 +2,7 @@
 :ID:       8ac78499-242c-4129-ab72-e485741a46e2
 :END:
 #+title: Riley Dain Murder
-#+filetags: :beacon:
+#+filetags: :Federation:beacon:
 * 0120 Riley Dain Murder
 [[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]]
 

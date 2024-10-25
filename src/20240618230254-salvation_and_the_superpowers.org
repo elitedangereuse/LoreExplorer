@@ -2,7 +2,7 @@
 :ID:       507695d8-6d46-4d55-9ae6-c05f98219662
 :END:
 #+title: Salvation and the Superpowers
-#+filetags: :Empire:Alliance:Thargoid:galnet:
+#+filetags: :Federation:Empire:Alliance:Thargoid:galnet:
 
 * [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]] and the Superpowers
 

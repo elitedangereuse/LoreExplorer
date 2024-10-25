@@ -2,7 +2,7 @@
 :ID:       e1b0c446-0ced-475c-9031-a57e5e3c414f
 :END:
 #+title: HIP 54530
-#+filetags: :Rank:Federation:Permit:System:
+#+filetags: :Federation:Rank:Permit:System:
 [[file:img/permit.png]]
 
 Faction: [[id:a35c5eb2-0697-4ef3-9a11-950791952e2d][Jupiter Division]]

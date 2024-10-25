@@ -2,7 +2,7 @@
 :ID:       ab49b738-5628-4c90-a0e7-0fa53e932e2f
 :END:
 #+title: Yorkville Patriots
-#+filetags: :Empire:Federation:beacon:
+#+filetags: :Federation:Empire:beacon:
 * 0141 Yorkville Patriots
 [[id:7075359f-79ca-4a24-88da-64f22e6b024a][Ackwada]]
 

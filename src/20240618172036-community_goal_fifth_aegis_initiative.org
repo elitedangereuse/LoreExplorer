@@ -2,7 +2,7 @@
 :ID:       c241260b-a5cf-4693-8f74-414434cf5217
 :END:
 #+title: Community Goal: Fifth Aegis Initiative
-#+filetags: :Thargoid:CommunityGoal:3303:galnet:
+#+filetags: :Federation:Thargoid:CommunityGoal:3303:galnet:
 
 * Community Goal: Fifth Aegis Initiative
 

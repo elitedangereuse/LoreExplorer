@@ -2,7 +2,7 @@
 :ID:       b6a022b2-7737-4142-a902-e883fd7c0d6b
 :END:
 #+title: Kokoller Mining Initiative Concludes
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Kokoller Mining Initiative Concludes
 

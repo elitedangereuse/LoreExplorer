@@ -2,7 +2,7 @@
 :ID:       00a91b61-2f53-430d-8419-4877485815cb
 :END:
 #+title: Guardian Artefacts Needed to Power Superweapon
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Guardian Artefacts Needed to Power Superweapon
 

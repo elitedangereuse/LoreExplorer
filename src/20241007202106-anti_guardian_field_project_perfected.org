@@ -2,7 +2,7 @@
 :ID:       b58a25cb-c821-475b-9ae3-e93c1583e36e
 :END:
 #+title: Anti-Guardian field project perfected
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 * Anti-Guardian field project perfected
 
 /06 Jul 3310/

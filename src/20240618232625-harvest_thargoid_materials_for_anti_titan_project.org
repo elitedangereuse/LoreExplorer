@@ -2,7 +2,7 @@
 :ID:       1575f5e0-13c5-4db2-b5d8-441b4d73a997
 :END:
 #+title: Harvest Thargoid Materials for Anti-Titan Project
-#+filetags: :Thargoid:galnet:
+#+filetags: :Federation:Thargoid:galnet:
 
 * Harvest Thargoid Materials for Anti-Titan Project
 

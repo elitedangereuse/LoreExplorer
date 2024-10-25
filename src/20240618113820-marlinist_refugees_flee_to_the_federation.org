@@ -2,7 +2,7 @@
 :ID:       202828a4-1ad3-4620-9dcc-392f3d8ceeda
 :END:
 #+title: Marlinist Refugees Flee to the Federation
-#+filetags: :Empire:Alliance:Federation:galnet:
+#+filetags: :Federation:Empire:Alliance:galnet:
 
 * Marlinist Refugees Flee to the Federation
 

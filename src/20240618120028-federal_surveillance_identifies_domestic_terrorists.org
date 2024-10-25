@@ -2,7 +2,7 @@
 :ID:       492e038a-a32b-4fa0-afeb-7fc259d7f52a
 :END:
 #+title: Federal Surveillance Identifies Domestic Terrorists
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Federal Surveillance Identifies Domestic Terrorists
 

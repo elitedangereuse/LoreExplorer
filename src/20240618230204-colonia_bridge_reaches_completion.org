@@ -2,7 +2,7 @@
 :ID:       d27c616d-04c9-4444-81cb-eb5803903f19
 :END:
 #+title: Colonia Bridge Reaches Completion
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Colonia Bridge Reaches Completion
 

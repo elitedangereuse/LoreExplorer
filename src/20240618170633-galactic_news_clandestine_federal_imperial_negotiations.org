@@ -2,7 +2,7 @@
 :ID:       4d58cb71-952c-4607-8187-ff917ec0b435
 :END:
 #+title: Galactic News: Clandestine Federal-Imperial Negotiations?
-#+filetags: :Empire:Federation:3303:galnet:
+#+filetags: :Federation:Empire:3303:galnet:
 
 * Galactic News: Clandestine Federal-Imperial Negotiations?
 

@@ -2,7 +2,7 @@
 :ID:       e98f7a0a-a1ce-4145-b31d-db258ed2f0f7
 :END:
 #+title: Commodity Prices Affected by Market Volatility
-#+filetags: :Empire:galnet:
+#+filetags: :Federation:Empire:galnet:
 
 * Commodity Prices Affected by Market Volatility
 

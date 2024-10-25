@@ -2,7 +2,7 @@
 :ID:       63d98784-8327-442d-8245-f360c3994e31
 :END:
 #+title: Rescue Megaships Scheduled to Redeploy
-#+filetags: :Thargoid:galnet:
+#+filetags: :Federation:Thargoid:galnet:
 
 * Rescue Megaships Scheduled to Redeploy
 

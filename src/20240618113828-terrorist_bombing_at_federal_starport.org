@@ -2,7 +2,7 @@
 :ID:       06cecb07-f723-4d5b-80f3-5d36b2c0fc94
 :END:
 #+title: Terrorist Bombing at Federal Starport
-#+filetags: :Thargoid:Federation:galnet:
+#+filetags: :Federation:Thargoid:galnet:
 
 * Terrorist Bombing at Federal Starport
 

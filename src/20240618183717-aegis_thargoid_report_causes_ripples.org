@@ -2,7 +2,7 @@
 :ID:       755cee50-d9bb-48cd-8000-cc23be27e899
 :END:
 #+title: Aegis Thargoid Report Causes Ripples
-#+filetags: :Thargoid:Guardian:Federation:3304:galnet:
+#+filetags: :Federation:Thargoid:Guardian:3304:galnet:
 
 * Aegis Thargoid Report Causes Ripples
 

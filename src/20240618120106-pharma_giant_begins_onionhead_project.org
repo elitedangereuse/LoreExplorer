@@ -2,7 +2,7 @@
 :ID:       dae65bcd-6355-41f3-aeb8-f38fbe7ce619
 :END:
 #+title: Pharma Giant Begins Onionhead Project
-#+filetags: :Alliance:galnet:
+#+filetags: :Federation:Alliance:galnet:
 
 * Pharma Giant Begins Onionhead Project
 

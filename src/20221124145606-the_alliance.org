@@ -2,7 +2,7 @@
 :ID:       1d726aa0-3e07-43b4-9b72-074046d25c3c
 :END:
 #+title: The Alliance
-#+filetags: :Empire:Alliance:KnowledgeBase:Codex:
+#+filetags: :Federation:Empire:Alliance:KnowledgeBase:Codex:
 
 * The Alliance
 ** Introduction

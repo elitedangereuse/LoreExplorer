@@ -2,7 +2,7 @@
 :ID:       9ed6ee3a-2b27-45b7-ab29-808483c214f8
 :END:
 #+title: Megaship Materials Boost Alliance Defence Force
-#+filetags: :Alliance:Thargoid:galnet:
+#+filetags: :Federation:Alliance:Thargoid:galnet:
 
 * Megaship Materials Boost Alliance Defence Force
 

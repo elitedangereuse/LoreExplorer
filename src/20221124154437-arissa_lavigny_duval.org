@@ -2,7 +2,7 @@
 :ID:       34f3cfdd-0536-40a9-8732-13bf3a5e4a70
 :END:
 #+title: Arissa Lavigny-Duval
-#+filetags: :Empire:KnowledgeBase:Codex:Individual:
+#+filetags: :Federation:Empire:KnowledgeBase:Codex:Individual:
 
 * Arissa Lavigny-Duval
 

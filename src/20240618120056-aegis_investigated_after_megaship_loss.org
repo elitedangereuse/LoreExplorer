@@ -2,7 +2,7 @@
 :ID:       d72ad1de-9320-4a09-982f-8d296e3dce3d
 :END:
 #+title: Aegis Investigated After Megaship Loss
-#+filetags: :Empire:Alliance:Thargoid:galnet:
+#+filetags: :Federation:Empire:Alliance:Thargoid:galnet:
 
 * Aegis Investigated After Megaship Loss
 

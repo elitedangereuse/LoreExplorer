@@ -2,7 +2,7 @@
 :ID:       85fe7743-2f67-4197-bcd5-f54adab57bf3
 :END:
 #+title: Hudson Initiative Increases Federal Surveillance
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Hudson Initiative Increases Federal Surveillance
 

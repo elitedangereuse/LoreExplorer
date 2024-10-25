@@ -2,7 +2,7 @@
 :ID:       648f7992-cdbb-4051-a416-d89e06deeb6c
 :END:
 #+title: Titan Oya deploys a surprise fleet of Orthrus vessels
-#+filetags: :Thargoid:galnet:
+#+filetags: :Federation:Thargoid:galnet:
 
 * Titan Oya deploys a surprise fleet of Orthrus vessels
 

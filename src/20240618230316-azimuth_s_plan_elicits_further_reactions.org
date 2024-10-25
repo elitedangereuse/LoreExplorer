@@ -2,7 +2,7 @@
 :ID:       55458d28-d34f-4c42-8c48-2dcebc51c5e0
 :END:
 #+title: Azimuth’s Plan Elicits Further Reactions
-#+filetags: :Empire:Alliance:Thargoid:Federation:galnet:
+#+filetags: :Federation:Empire:Alliance:Thargoid:galnet:
 
 * Azimuth’s Plan Elicits Further Reactions
 

@@ -2,7 +2,7 @@
 :ID:       202d7c12-99b7-4c89-9148-5320f721ffa5
 :END:
 #+title: Mining Campaign Success for Zemina Torval
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Mining Campaign Success for Zemina Torval
 

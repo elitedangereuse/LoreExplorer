@@ -2,7 +2,7 @@
 :ID:       21509516-e203-45e5-bff3-265b15aa30f0
 :END:
 #+title: Rochester Family Attacked
-#+filetags: :Empire:Federation:3304:galnet:
+#+filetags: :Federation:Empire:3304:galnet:
 
 * Rochester Family Attacked
 

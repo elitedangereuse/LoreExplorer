@@ -2,7 +2,7 @@
 :ID:       fb77b70a-c748-44ce-ab4b-5fec2d47f9d3
 :END:
 #+title: Supply Rare Goods for Rackham Celebration
-#+filetags: :Thargoid:galnet:
+#+filetags: :Federation:Thargoid:galnet:
 
 * Supply Rare Goods for Rackham Celebration
 

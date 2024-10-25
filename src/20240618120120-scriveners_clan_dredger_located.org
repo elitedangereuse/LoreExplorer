@@ -2,7 +2,7 @@
 :ID:       f2a7f99f-13a5-40c9-b9c5-959754bf4a0d
 :END:
 #+title: Scriveners Clan Dredger Located
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Scriveners Clan Dredger Located
 

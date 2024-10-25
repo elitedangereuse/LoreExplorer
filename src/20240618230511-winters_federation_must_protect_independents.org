@@ -2,7 +2,7 @@
 :ID:       42cce986-d3ac-45b1-843a-6b7f8d66e85a
 :END:
 #+title: Winters: ‘Federation Must Protect Independents’
-#+filetags: :Empire:Thargoid:Federation:galnet:
+#+filetags: :Federation:Empire:Thargoid:galnet:
 
 * Winters: ‘Federation Must Protect Independents’
 

@@ -2,7 +2,7 @@
 :ID:       85d9e888-3f5b-40ed-b8af-2eb87e42b0d0
 :END:
 #+title: Aegis
-#+filetags: :Empire:Alliance:Thargoid:Guardian:3305:3303:KnowledgeBase:Codex:
+#+filetags: :Federation:Empire:Alliance:Thargoid:Guardian:3305:3303:KnowledgeBase:Codex:
 
 * Aegis
 A scientific-military organisation founded in 3303, Aegis was

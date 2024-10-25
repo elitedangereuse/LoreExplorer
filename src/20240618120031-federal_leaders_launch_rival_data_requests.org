@@ -2,7 +2,7 @@
 :ID:       aa6ce5c6-d47e-48ff-bbe9-13ad1888e058
 :END:
 #+title: Federal Leaders Launch Rival Data Requests
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Federal Leaders Launch Rival Data Requests
 

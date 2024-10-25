@@ -2,7 +2,7 @@
 :ID:       227b4d2a-3c4d-4598-a2da-cdbc89489660
 :END:
 #+title: Azimuth’s Final Call for Guardian Artefacts
-#+filetags: :Thargoid:galnet:
+#+filetags: :Federation:Thargoid:galnet:
 
 * Azimuth’s Final Call for Guardian Artefacts
 

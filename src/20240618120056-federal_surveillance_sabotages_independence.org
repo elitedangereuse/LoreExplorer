@@ -2,7 +2,7 @@
 :ID:       4262a1ce-e419-4d4d-a1b7-52c99b445c98
 :END:
 #+title: Federal Surveillance Sabotages Independence
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Federal Surveillance Sabotages Independence
 

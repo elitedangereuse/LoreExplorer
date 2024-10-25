@@ -2,7 +2,7 @@
 :ID:       d11f8a7a-81ee-4912-8e74-e5e1794d43b4
 :END:
 #+title: Militant Group Responsible for Blight
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Militant Group Responsible for [[id:1cffca4e-480b-46bf-b6c5-0af48c7292d3][Blight]]
 

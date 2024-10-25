@@ -2,7 +2,7 @@
 :ID:       38becbbc-c637-4190-ae6d-7e7047b4e650
 :END:
 #+title: Activists Blame Leaders for Thargoid War
-#+filetags: :Empire:Alliance:Thargoid:galnet:
+#+filetags: :Federation:Empire:Alliance:Thargoid:galnet:
 
 * Activists Blame Leaders for Thargoid War
 

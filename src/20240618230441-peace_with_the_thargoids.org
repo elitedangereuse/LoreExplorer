@@ -2,7 +2,7 @@
 :ID:       0dd1e676-ed3b-4973-aeed-1a953e171da7
 :END:
 #+title: Peace with the Thargoids?
-#+filetags: :Thargoid:galnet:
+#+filetags: :Federation:Thargoid:galnet:
 
 * Peace with the Thargoids?
 

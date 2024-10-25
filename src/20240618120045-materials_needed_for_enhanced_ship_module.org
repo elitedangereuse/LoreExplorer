@@ -2,7 +2,7 @@
 :ID:       177f9d22-e7f8-4933-bd2b-1901d7e2d536
 :END:
 #+title: Materials Needed for Enhanced Ship Module
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Materials Needed for Enhanced Ship Module
 

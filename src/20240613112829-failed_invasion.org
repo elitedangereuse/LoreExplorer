@@ -2,7 +2,7 @@
 :ID:       e02242af-7fdb-4237-9ef2-2ecfd58205f5
 :END:
 #+title: Failed Invasion
-#+filetags: :beacon:
+#+filetags: :Federation:beacon:
 * 0130  Failed Invasion
 [[id:bed8c27f-3cbe-49ad-b86f-7d87eacf804a][Achenar]]
 

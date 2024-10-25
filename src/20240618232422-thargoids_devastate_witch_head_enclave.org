@@ -2,7 +2,7 @@
 :ID:       accb5dd5-514c-40b3-8c1b-c49b5e30e880
 :END:
 #+title: Thargoids Devastate Witch Head Enclave
-#+filetags: :Alliance:Thargoid:galnet:
+#+filetags: :Federation:Alliance:Thargoid:galnet:
 
 * Thargoids Devastate Witch Head Enclave
 

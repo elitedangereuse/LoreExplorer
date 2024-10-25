@@ -2,7 +2,7 @@
 :ID:       7eea1d9e-bfb1-4ad8-a69f-10dc424479c0
 :END:
 #+title: Rackham Refutes Rumours
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Rackham Refutes Rumours
 

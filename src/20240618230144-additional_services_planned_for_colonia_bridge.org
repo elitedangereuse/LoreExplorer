@@ -2,7 +2,7 @@
 :ID:       0d0c6d33-5ce9-4787-90bc-0538c7388da7
 :END:
 #+title: Additional Services Planned for Colonia Bridge
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Additional Services Planned for Colonia Bridge
 

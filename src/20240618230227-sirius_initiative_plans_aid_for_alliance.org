@@ -2,7 +2,7 @@
 :ID:       82a42d21-f0b0-4a1d-b008-a4a63ed103dd
 :END:
 #+title: Sirius Initiative Plans Aid for Alliance
-#+filetags: :Empire:Alliance:Thargoid:galnet:
+#+filetags: :Federation:Empire:Alliance:Thargoid:galnet:
 
 * Sirius Initiative Plans Aid for Alliance
 

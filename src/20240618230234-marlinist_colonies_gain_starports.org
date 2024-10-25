@@ -2,7 +2,7 @@
 :ID:       714190e3-03a3-4546-ae79-66e507ae6873
 :END:
 #+title: Marlinist Colonies Gain Starports
-#+filetags: :Empire:Alliance:galnet:
+#+filetags: :Federation:Empire:Alliance:galnet:
 
 * Marlinist Colonies Gain Starports
 

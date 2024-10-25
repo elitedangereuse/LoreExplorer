@@ -2,7 +2,7 @@
 :ID:       46c77c56-d7cd-4759-b8c5-1260859522b6
 :END:
 #+title: Galactic News: Order Restored to Mehet
-#+filetags: :3302:galnet:
+#+filetags: :Federation:3302:galnet:
 
 * Galactic News: Order Restored to Mehet
 

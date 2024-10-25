@@ -2,7 +2,7 @@
 :ID:       85e66e1c-960f-4443-aeec-2d91801c6973
 :END:
 #+title: Thargoid Motherships Discovered Within Maelstroms
-#+filetags: :Thargoid:galnet:
+#+filetags: :Federation:Thargoid:galnet:
 
 * Thargoid Motherships Discovered Within Maelstroms
 

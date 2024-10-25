@@ -2,7 +2,7 @@
 :ID:       bc78f770-2bfc-4631-9d8a-21e61037925e
 :END:
 #+title: Salvation’s Allies Triumph in T Tauri System
-#+filetags: :Thargoid:galnet:
+#+filetags: :Federation:Thargoid:galnet:
 
 * [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]’s Allies Triumph in T Tauri System
 

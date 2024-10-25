@@ -2,7 +2,7 @@
 :ID:       74e1c6b5-5644-49a6-83b2-4c55a9a36fa5
 :END:
 #+title: Political Turmoil for President Hudson
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Political Turmoil for President Hudson
 

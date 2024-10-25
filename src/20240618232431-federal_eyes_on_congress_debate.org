@@ -2,7 +2,7 @@
 :ID:       fd52404b-66f8-4ad7-bbe8-2c7ea16c01d2
 :END:
 #+title: Federal Eyes on Congress Debate
-#+filetags: :Thargoid:Federation:galnet:
+#+filetags: :Federation:Thargoid:galnet:
 
 * Federal Eyes on Congress Debate
 

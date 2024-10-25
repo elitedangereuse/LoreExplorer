@@ -2,7 +2,7 @@
 :ID:       f389ec2b-5912-4ae3-ab89-ebb3cbb97dc3
 :END:
 #+title: Aegis and Azimuth Compete for Titan Samples
-#+filetags: :Thargoid:galnet:
+#+filetags: :Federation:Thargoid:galnet:
 
 * Aegis and Azimuth Compete for Titan Samples
 

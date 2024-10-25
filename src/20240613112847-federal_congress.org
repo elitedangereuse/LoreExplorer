@@ -2,7 +2,7 @@
 :ID:       614fd344-ec09-483c-a28e-0289590946c4
 :END:
 #+title: Federal Congress
-#+filetags: :beacon:
+#+filetags: :Federation:beacon:
 * 0161 Federal Congress
 [[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]]
 

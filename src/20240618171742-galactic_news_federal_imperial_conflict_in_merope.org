@@ -2,7 +2,7 @@
 :ID:       50c6d5d4-d2c1-4f9b-a9b4-fb01b6608f93
 :END:
 #+title: Galactic News: Federal-Imperial Conflict in Merope
-#+filetags: :Empire:Federation:3303:galnet:
+#+filetags: :Federation:Empire:3303:galnet:
 
 * Galactic News: Federal-Imperial Conflict in Merope
 

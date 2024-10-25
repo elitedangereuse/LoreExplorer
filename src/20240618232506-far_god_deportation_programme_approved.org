@@ -2,7 +2,7 @@
 :ID:       2cedd6d6-1a2d-4cbd-930c-7020da6aeaad
 :END:
 #+title: Far God Deportation Programme Approved
-#+filetags: :Alliance:Thargoid:Federation:galnet:
+#+filetags: :Federation:Alliance:Thargoid:galnet:
 
 * [[id:04ae001b-eb07-4812-a42e-4bb72825609b][Far God]] Deportation Programme Approved
 

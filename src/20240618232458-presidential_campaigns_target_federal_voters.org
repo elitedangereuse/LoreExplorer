@@ -2,7 +2,7 @@
 :ID:       8f641031-86f4-449e-89b2-51b2d0db537e
 :END:
 #+title: Presidential Campaigns Target Federal Voters
-#+filetags: :Thargoid:Federation:galnet:
+#+filetags: :Federation:Thargoid:galnet:
 
 * Presidential Campaigns Target Federal Voters
 

@@ -3,7 +3,7 @@
 :ROAM_REFS: https://cms.zaonce.net/en-GB/jsonapi/node/galnet_article/d5785c1d-48cb-4ec0-8753-5a4bfa5fe712?resourceVersion=id%3A4775
 :END:
 #+title: Sirius Corporation Campaign to Establish Marlinist Colonies
-#+filetags: :Empire:galnet:
+#+filetags: :Federation:Empire:galnet:
 
 * Sirius Corporation Campaign to Establish Marlinist Colonies
 

@@ -2,7 +2,7 @@
 :ID:       aa5d0177-2807-4e3d-b0d0-1a40b3203598
 :END:
 #+title: Gutamaya
-#+filetags: :Empire:Corporation:
+#+filetags: :Federation:Empire:Corporation:
 
 * Gutamaya
 

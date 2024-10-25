@@ -2,7 +2,7 @@
 :ID:       0abcb5a3-c667-4698-8c64-2cfaf08f8c7d
 :END:
 #+title: Further Surveillance Robots Discovered
-#+filetags: :3304:galnet:
+#+filetags: :Federation:3304:galnet:
 
 * Further Surveillance Robots Discovered
 

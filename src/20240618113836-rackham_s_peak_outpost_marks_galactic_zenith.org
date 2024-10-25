@@ -3,7 +3,7 @@
 :ROAM_REFS: https://cms.zaonce.net/en-GB/jsonapi/node/galnet_article/430bb29e-e004-413d-b24f-6ce73165ffc1?resourceVersion=id%3A4851
 :END:
 #+title: Rackham’s Peak Outpost Marks Galactic Zenith
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Rackham’s Peak Outpost Marks Galactic Zenith
 

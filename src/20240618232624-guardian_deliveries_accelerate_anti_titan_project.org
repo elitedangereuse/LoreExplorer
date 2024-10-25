@@ -2,7 +2,7 @@
 :ID:       5ceb654b-6e8c-42cc-bc9e-350ee9a08ba4
 :END:
 #+title: Guardian Deliveries Accelerate Anti-Titan Project
-#+filetags: :Thargoid:galnet:
+#+filetags: :Federation:Thargoid:galnet:
 
 * Guardian Deliveries Accelerate Anti-Titan Project
 

@@ -2,7 +2,7 @@
 :ID:       05ae313a-79a3-4554-b002-1200c4b58ec6
 :END:
 #+title: Terrorists Identified Among Marlinist Refugees
-#+filetags: :Empire:Federation:galnet:
+#+filetags: :Federation:Empire:galnet:
 
 * Terrorists Identified Among Marlinist Refugees
 

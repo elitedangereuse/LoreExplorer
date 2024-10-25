@@ -2,7 +2,7 @@
 :ID:       8baf0cf5-0500-47c4-a196-7a8c4612c9d0
 :END:
 #+title: Medical Supplies Needed for Starport Bombing Survivors
-#+filetags: :Empire:Alliance:galnet:
+#+filetags: :Federation:Empire:Alliance:galnet:
 
 * Medical Supplies Needed for Starport Bombing Survivors
 

@@ -2,7 +2,7 @@
 :ID:       df1dfe79-edee-4c78-bd62-d1049a69de41
 :END:
 #+title: Azimuth Announces Experimental Weapons Stabiliser
-#+filetags: :Thargoid:Federation:galnet:
+#+filetags: :Federation:Thargoid:galnet:
 
 * Azimuth Announces Experimental Weapons Stabiliser
 

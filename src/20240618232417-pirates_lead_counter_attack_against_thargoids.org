@@ -2,7 +2,7 @@
 :ID:       96ba97a4-2199-434b-a0a9-0a126d7f0888
 :END:
 #+title: Pirates Lead Counter-Attack Against Thargoids
-#+filetags: :Alliance:Thargoid:galnet:
+#+filetags: :Federation:Alliance:Thargoid:galnet:
 
 * Pirates Lead Counter-Attack Against Thargoids
 

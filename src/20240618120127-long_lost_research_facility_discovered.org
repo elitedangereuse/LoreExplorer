@@ -2,7 +2,7 @@
 :ID:       cbd9ce09-7ac0-42e8-ae12-93710a8d7aa2
 :END:
 #+title: Long-Lost Research Facility Discovered
-#+filetags: :3255:Settlement:Abandoned:galnet:
+#+filetags: :Federation:3255:Settlement:Abandoned:galnet:
 
 * Long-Lost Research Facility Discovered
 

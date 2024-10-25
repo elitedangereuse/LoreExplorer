@@ -2,7 +2,7 @@
 :ID:       361006ae-8d8a-4da5-8e0e-137ecaf9176b
 :END:
 #+title: Freelance Report: The August Exodus
-#+filetags: :Empire:Federation:3302:galnet:
+#+filetags: :Federation:Empire:3302:galnet:
 
 * Freelance Report: The August Exodus
 

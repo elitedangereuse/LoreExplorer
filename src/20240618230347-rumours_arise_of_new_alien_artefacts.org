@@ -2,7 +2,7 @@
 :ID:       42b0583d-a1fc-4800-85e5-a3f09c870839
 :END:
 #+title: Rumours Arise of New Alien Artefacts
-#+filetags: :Thargoid:galnet:
+#+filetags: :Federation:Thargoid:galnet:
 
 * Rumours Arise of New Alien Artefacts
 

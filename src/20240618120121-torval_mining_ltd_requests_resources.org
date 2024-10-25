@@ -2,7 +2,7 @@
 :ID:       3ecf2366-cec7-4d4e-9662-bde1bb649d70
 :END:
 #+title: Torval Mining Ltd Requests Resources
-#+filetags: :Empire:galnet:
+#+filetags: :Federation:Empire:galnet:
 
 * Torval Mining Ltd Requests Resources
 

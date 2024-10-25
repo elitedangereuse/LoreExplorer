@@ -2,7 +2,7 @@
 :ID:       cf95418c-523d-4ff5-80af-f0b8b115dab9
 :END:
 #+title: Tritium Mining Marks Alliance Election Day
-#+filetags: :Alliance:galnet:
+#+filetags: :Federation:Alliance:galnet:
 
 * Tritium Mining Marks Alliance Election Day
 

@@ -2,7 +2,7 @@
 :ID:       4afbc977-8ef8-4041-addf-27b2d3872223
 :END:
 #+title: Olgrea History
-#+filetags: :Alliance:Federation:beacon:
+#+filetags: :Federation:Alliance:beacon:
 * 0127  Olgrea History
 [[id:4afbc977-8ef8-4041-addf-27b2d3872223][Olgrea]]
 
