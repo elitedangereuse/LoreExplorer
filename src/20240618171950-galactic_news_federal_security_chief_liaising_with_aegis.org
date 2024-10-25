@@ -2,7 +2,7 @@
 :ID:       517787e0-1747-46ed-b9b5-98da1c5cb8dd
 :END:
 #+title: Galactic News: Federal Security Chief Liaising with Aegis
-#+filetags: :Federation:Empire:3303:galnet:
+#+filetags: :Thargoid:Federation:Empire:3303:galnet:
 
 * Galactic News: Federal Security Chief Liaising with Aegis
 

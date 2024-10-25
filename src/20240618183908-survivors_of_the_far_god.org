@@ -2,7 +2,7 @@
 :ID:       132ff3d4-be4a-4383-be64-ffa67ceecacd
 :END:
 #+title: Survivors of the Far God
-#+filetags: :3304:galnet:
+#+filetags: :Thargoid:3304:galnet:
 
 * Survivors of the [[id:04ae001b-eb07-4812-a42e-4bb72825609b][Far God]]
 

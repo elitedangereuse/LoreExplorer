@@ -2,7 +2,7 @@
 :ID:       03cf48a1-f5c7-4472-820a-4f1d90530c00
 :END:
 #+title: A New Home for Professor Palin
-#+filetags: :galnet:
+#+filetags: :Thargoid:galnet:
 
 * A New Home for Professor Palin
 

@@ -2,7 +2,7 @@
 :ID:       69f3c9a6-702a-4595-b136-59aa9ea97f1f
 :END:
 #+title: 'Significant Medical Emergency’ Strikes Seo Jin-ae
-#+filetags: :3310:galnet:
+#+filetags: :Thargoid:3310:galnet:
 * 'Significant Medical Emergency’ Strikes [[id:6bcd90ab-54f2-4d9a-9eeb-92815cc7766e][Seo Jin-ae]]
 
 /18 Oct 3310/
@@ -28,7 +28,7 @@ claims myself, rather than let speculation and falsehoods grow about
 [[id:6bcd90ab-54f2-4d9a-9eeb-92815cc7766e][Seo]]’s condition.”
 
 “Approximately sixteen hours ago, Seo experienced a generalized
-[[id:8d9f2e07-6bf4-42c6-af82-d998781b0b19][tonic-clonic]] [[id:aed92336-77df-433d-9c6d-3721cfa224d5][seizure]]. The convulsions stopped within a few minutes,
+[[id:8d9f2e07-6bf4-42c6-af82-d998781b0b19][tonic-clonic]] [[id:758c0315-3359-45b0-8880-550f4bea806a][seizure]]. The convulsions stopped within a few minutes,
 but she is yet to wake. [[id:85d9e888-3f5b-40ed-b8af-2eb87e42b0d0][Aegis]] medical experts are providing the best
 possible care as they determine the cause of this episode.”
 

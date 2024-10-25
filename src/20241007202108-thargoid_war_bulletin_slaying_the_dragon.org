@@ -2,7 +2,7 @@
 :ID:       17c62352-733d-4b1f-a29f-3fe2c055afc3
 :END:
 #+title: Thargoid War Bulletin: Slaying the Dragon
-#+filetags: :galnet:
+#+filetags: :Thargoid:galnet:
 * Thargoid War Bulletin: Slaying the Dragon
 
 /10 Jul 3310/

@@ -2,7 +2,7 @@
 :ID:       76ac1bd5-b064-4b19-b670-d30e4da79584
 :END:
 #+title: Galactic News: Taipan AX1 Announced
-#+filetags: :3303:Thargoid:galnet:
+#+filetags: :Thargoid:3303:galnet:
 
 * Galactic News: Taipan AX1 Announced
 

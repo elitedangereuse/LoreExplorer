@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       941b558b-d84c-4b47-8efd-32a7b2232989
+:END:
+#+title: On/Off Switch
+Tech industry [[id:a12cdcbc-fa10-474e-8654-d3d7da17a307][ICE]] channel.

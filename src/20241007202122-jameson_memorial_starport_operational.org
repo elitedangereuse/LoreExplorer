@@ -2,7 +2,7 @@
 :ID:       dba995f2-26cc-449f-9a76-11614b92cb11
 :END:
 #+title: Jameson Memorial Starport Operational
-#+filetags: :galnet:
+#+filetags: :Thargoid:galnet:
 * Jameson Memorial Starport Operational
 
 /02 Oct 3310/

@@ -2,6 +2,7 @@
 :ID:       878b6075-e168-4d0a-bb0f-9e6103c7f033
 :END:
 #+title: Ivano Colombera
-#+filetags: :Individual:
+#+filetags: :Empire:Individual:
 
 Director of [[id:4e827915-3759-4040-97d0-346eac70fb5e][Xenological Studies]]
+Imperial research lead for the [[id:85d9e888-3f5b-40ed-b8af-2eb87e42b0d0][Aegis]] project

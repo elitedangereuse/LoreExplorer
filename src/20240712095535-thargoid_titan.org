@@ -2,4 +2,5 @@
 :ID:       386ba1dd-2720-4a25-9b97-b5a9993c9c90
 :END:
 #+title: Thargoid Titan
+#+filetags: :Thargoid:
 

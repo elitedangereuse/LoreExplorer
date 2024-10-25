@@ -2,7 +2,7 @@
 :ID:       ed13bc78-f309-4c90-a1ab-47cddd726160
 :END:
 #+title: The Assault on Indra
-#+filetags: :galnet:
+#+filetags: :Thargoid:galnet:
 * The Assault on Indra
 
 /05 Jul 3310/

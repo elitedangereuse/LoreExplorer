@@ -2,7 +2,7 @@
 :ID:       95db1b62-fa47-4eae-8a78-ffbb47f9ba3e
 :END:
 #+title: The Assault on Thor
-#+filetags: :galnet:
+#+filetags: :Thargoid:galnet:
 * The Assault on Thor
 
 /16 Aug 3310/

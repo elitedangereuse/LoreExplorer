@@ -2,7 +2,7 @@
 :ID:       c0c01fc4-1480-4994-8abb-bf784521ef02
 :END:
 #+title: Aegis Announces Engineering Supply Commitment
-#+filetags: :galnet:
+#+filetags: :Thargoid:galnet:
 * Aegis Announces Engineering Supply Commitment
 
 /06 Aug 3310/

@@ -2,7 +2,7 @@
 :ID:       1c0f7a2b-7739-4d29-ad88-c65dec0b107e
 :END:
 #+title: Call to Ban Far God Book
-#+filetags: :3304:galnet:
+#+filetags: :Thargoid:3304:galnet:
 
 * Call to Ban [[id:04ae001b-eb07-4812-a42e-4bb72825609b][Far God]] Book
 

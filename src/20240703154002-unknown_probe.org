@@ -2,4 +2,5 @@
 :ID:       446a1bfd-b449-48b4-9e14-e4cb1fcef664
 :END:
 #+title: Unknown Probe
+#+filetags: :Thargoid:
 [[id:479ad5ac-c6b9-4358-870e-12058bd925cb][Thargoid Probes]]

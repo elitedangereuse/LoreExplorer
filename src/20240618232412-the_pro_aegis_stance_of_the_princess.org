@@ -2,7 +2,7 @@
 :ID:       c001cc1a-af39-4233-8280-d6601a8e403e
 :END:
 #+title: The Pro-Aegis Stance of the Princess
-#+filetags: :Alliance:Empire:galnet:
+#+filetags: :Thargoid:Alliance:Empire:galnet:
 
 * The Pro-Aegis Stance of the Princess
 

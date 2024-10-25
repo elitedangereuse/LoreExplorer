@@ -2,6 +2,6 @@
 :ID:       a8f0ef7f-00c6-478d-afeb-dbb1b52633a4
 :END:
 #+title: Joreb Innitu
-#+filetags: :Individual:
+#+filetags: :Thargoid:Individual:
 Dr Joreb Innitu
 He wrote the publication "The Thargoids: Truth and Fiction"

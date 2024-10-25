@@ -3,6 +3,6 @@
 :ROAM_ALIASES: "Seo Jin-ae"
 :END:
 #+title: Subject D-2
-#+filetags: :Individual:Thargoid:
+#+filetags: :Thargoid:Individual:
 
 Also known as Seo Jin-ae.

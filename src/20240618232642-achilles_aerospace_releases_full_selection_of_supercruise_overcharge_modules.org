@@ -2,7 +2,7 @@
 :ID:       76c88936-1e75-4d0a-82b2-d5ad13b947d1
 :END:
 #+title: Achilles Aerospace releases full selection of Supercruise Overcharge modules
-#+filetags: :galnet:
+#+filetags: :Thargoid:galnet:
 
 * Achilles Aerospace releases full selection of Supercruise Overcharge modules
 

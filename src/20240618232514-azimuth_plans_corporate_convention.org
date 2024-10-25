@@ -2,7 +2,7 @@
 :ID:       6510b1cf-c9bd-4f01-92a1-a6eadb992304
 :END:
 #+title: Azimuth Plans Corporate Convention
-#+filetags: :3309:Thargoid:galnet:
+#+filetags: :Thargoid:3309:galnet:
 
 * Azimuth Plans Corporate Convention
 

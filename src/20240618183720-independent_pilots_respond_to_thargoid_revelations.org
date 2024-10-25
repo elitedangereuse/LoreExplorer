@@ -2,7 +2,7 @@
 :ID:       500014e8-7059-4107-bd40-841219c7f7fd
 :END:
 #+title: Independent Pilots Respond to Thargoid Revelations
-#+filetags: :Guardian:Thargoid:3304:galnet:
+#+filetags: :Thargoid:Guardian:3304:galnet:
 
 * Independent Pilots Respond to Thargoid Revelations
 

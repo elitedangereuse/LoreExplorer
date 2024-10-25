@@ -2,7 +2,7 @@
 :ID:       57e07d1d-3968-4b14-9df4-a1af95d627d7
 :END:
 #+title: Aegis confirm change in Thargoid Strategy
-#+filetags: :galnet:
+#+filetags: :Thargoid:galnet:
 * Aegis confirm change in Thargoid Strategy
 
 /04 Jul 3310/
