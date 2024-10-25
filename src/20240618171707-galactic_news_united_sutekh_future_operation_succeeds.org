@@ -2,7 +2,7 @@
 :ID:       b89f8dae-a864-4691-90e5-a5bfff5009ad
 :END:
 #+title: Galactic News: United Sutekh Future Operation Succeeds
-#+filetags: :3303:galnet:
+#+filetags: :Federation:3303:galnet:
 
 * Galactic News: United Sutekh Future Operation Succeeds
 

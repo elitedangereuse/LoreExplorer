@@ -2,7 +2,7 @@
 :ID:       1b60b82d-f351-4a18-87d8-f10d22153efa
 :END:
 #+title: Thargoid Abductees Reconnect with Society
-#+filetags: :Alliance:Thargoid:galnet:
+#+filetags: :Federation:Alliance:Thargoid:galnet:
 
 * Thargoid Abductees Reconnect with Society
 

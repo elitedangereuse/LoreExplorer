@@ -2,7 +2,7 @@
 :ID:       9396ccc2-5d22-4bb8-9007-c899429f4170
 :END:
 #+title: Galactic News: Halsey Shares Her Vision
-#+filetags: :3302:galnet:
+#+filetags: :Federation:3302:galnet:
 
 * Galactic News: Halsey Shares Her Vision
 

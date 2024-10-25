@@ -2,7 +2,7 @@
 :ID:       f546fb78-3d16-4c39-9982-89441760f131
 :END:
 #+title: Galactic News: Jasmina Halsey Not yet at Full Health
-#+filetags: :3302:galnet:
+#+filetags: :Federation:3302:galnet:
 
 * Galactic News: [[id:a9ccf59f-436e-44df-b041-5020285925f8][Jasmina Halsey]] Not yet at Full Health
 

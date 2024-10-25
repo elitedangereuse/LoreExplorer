@@ -2,7 +2,7 @@
 :ID:       54d045e9-b36c-4302-93e3-8c8781488f3f
 :END:
 #+title: Freelance Report: Diplomatic Summit in Alioth
-#+filetags: :Alliance:3302:galnet:
+#+filetags: :Federation:Alliance:3302:galnet:
 
 * Freelance Report: Diplomatic Summit in Alioth
 

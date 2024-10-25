@@ -2,7 +2,7 @@
 :ID:       4cd354e7-43a4-4cd0-bf15-ec500220627c
 :END:
 #+title: Blight Traced to Synthetic Contaminant
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * [[id:1cffca4e-480b-46bf-b6c5-0af48c7292d3][Blight]] Traced to Synthetic Contaminant
 

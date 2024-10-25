@@ -2,7 +2,7 @@
 :ID:       062e2d01-d033-4890-a8f9-192f93d96fea
 :END:
 #+title: Far God Cult under Investigation
-#+filetags: :Thargoid:3304:galnet:
+#+filetags: :Federation:Thargoid:3304:galnet:
 
 * [[id:04ae001b-eb07-4812-a42e-4bb72825609b][Far God]] Cult under Investigation
 

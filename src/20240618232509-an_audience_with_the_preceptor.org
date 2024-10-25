@@ -2,7 +2,7 @@
 :ID:       2a1a67b2-2d30-4034-9c1d-92b8d5f33e37
 :END:
 #+title: An Audience with the Preceptor
-#+filetags: :Alliance:Thargoid:galnet:
+#+filetags: :Federation:Alliance:Thargoid:galnet:
 
 * An Audience with the Preceptor
 

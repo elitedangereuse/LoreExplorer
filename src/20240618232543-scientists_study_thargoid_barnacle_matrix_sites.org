@@ -2,7 +2,7 @@
 :ID:       6d708b11-0a73-42e1-b233-5b3fd5e013d1
 :END:
 #+title: Scientists Study Thargoid Barnacle Matrix Sites
-#+filetags: :Thargoid:galnet:
+#+filetags: :Federation:Thargoid:galnet:
 
 * Scientists Study Thargoid Barnacle Matrix Sites
 

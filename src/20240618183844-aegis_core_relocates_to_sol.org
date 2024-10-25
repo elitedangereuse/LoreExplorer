@@ -2,7 +2,7 @@
 :ID:       070542e2-ed2f-4d85-887f-f47dc6f71301
 :END:
 #+title: Aegis Core Relocates to Sol
-#+filetags: :Thargoid:3304:galnet:
+#+filetags: :Federation:Thargoid:3304:galnet:
 
 * Aegis Core Relocates to Sol
 

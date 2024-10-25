@@ -2,6 +2,6 @@
 :ID:       2d151711-b41e-452d-88fc-9ec34e317af9
 :END:
 #+title: Bryanna Blanco
-#+filetags: :Individual:
+#+filetags: :Federation:Individual:
 
 Financial journalist at [[id:be5df73c-519d-45ed-a541-9b70bc8ae97c][The Federal Times]]

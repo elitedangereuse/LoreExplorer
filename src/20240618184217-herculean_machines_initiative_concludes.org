@@ -2,7 +2,7 @@
 :ID:       cac3520e-f8bf-4cc8-806d-a062c58f30d8
 :END:
 #+title: Herculean Machines Initiative Concludes
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * [[id:46e9f326-2119-4d5b-a625-a32820a44642][Herculean Machines]] Initiative Concludes
 

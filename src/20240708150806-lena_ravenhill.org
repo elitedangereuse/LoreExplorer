@@ -2,6 +2,6 @@
 :ID:       186bc9ae-20b5-4403-83f9-a19bd76f7c59
 :END:
 #+title: Lena Ravenhill
-#+filetags: :Individual:
+#+filetags: :Federation:Individual:
 
 Chief editor at [[id:be5df73c-519d-45ed-a541-9b70bc8ae97c][The Federal Times]]

@@ -2,7 +2,7 @@
 :ID:       50e0bcfc-0178-45b2-8dc6-7111b26ecbae
 :END:
 #+title: Galactic News: Starship One Destruction Linked to Mechanical Failure
-#+filetags: :3302:galnet:
+#+filetags: :Federation:3302:galnet:
 
 * Galactic News: Starship One Destruction Linked to Mechanical Failure
 

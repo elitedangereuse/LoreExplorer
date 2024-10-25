@@ -2,7 +2,7 @@
 :ID:       bdea7a22-3fa2-42b1-b5b9-3396caaf5a73
 :END:
 #+title: Aegis Confirm Reports of Thargoid Spire Reactivation
-#+filetags: :Thargoid:galnet:
+#+filetags: :Federation:Thargoid:galnet:
 * Aegis Confirm Reports of Thargoid Spire Reactivation
 
 /01 Aug 3310/

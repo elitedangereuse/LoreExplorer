@@ -2,7 +2,7 @@
 :ID:       167f8a49-f673-4e61-b7c0-0c42f393ee23
 :END:
 #+title: Xeno-Peace Supporters Killed by Thargoids
-#+filetags: :Thargoid:galnet:
+#+filetags: :Federation:Thargoid:galnet:
 
 * Xeno-Peace Supporters Killed by Thargoids
 

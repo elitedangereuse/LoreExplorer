@@ -2,7 +2,7 @@
 :ID:       54665a8e-9e01-43cb-94a7-dc7e95e20fac
 :END:
 #+title: Galactic News: Halsey's Campaign Concludes
-#+filetags: :3303:galnet:
+#+filetags: :Federation:3303:galnet:
 
 * Galactic News: Halsey's Campaign Concludes
 

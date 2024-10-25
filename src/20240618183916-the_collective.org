@@ -2,7 +2,7 @@
 :ID:       afd8d8c0-19e2-4b8e-9803-6532ec3cab46
 :END:
 #+title: The Collective
-#+filetags: :3304:galnet:
+#+filetags: :Federation:3304:galnet:
 
 * The Collective
 

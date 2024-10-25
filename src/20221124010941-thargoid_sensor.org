@@ -3,7 +3,7 @@
 :ROAM_ALIASES: "Unknown Artefacts"
 :END:
 #+title: Thargoid Sensors
-#+filetags: :Thargoid:
+#+filetags: :Federation:Thargoid:
 [[https://elitedangereuse.fr/tuto-les-thargoides-dessinent-votre-vaisseau-avec-du-morse/][[TUTO] Comment déchiffrer les messages délivrés par les capteurs thargoides]]
 
 After september the 3rd all the UA starts scanning ships closer than 1000m.

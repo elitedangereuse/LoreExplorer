@@ -2,7 +2,7 @@
 :ID:       75d80d23-d9c1-4a3a-81b7-2ddb22539fa1
 :END:
 #+title: Patreus Rails Against London Treaty
-#+filetags: :Empire:3278:3303:beacon:
+#+filetags: :Federation:Empire:3278:3303:beacon:
 * 0673 Patreus Rails Against London Treaty
 [[id:bed8c27f-3cbe-49ad-b86f-7d87eacf804a][Achenar]]  
 

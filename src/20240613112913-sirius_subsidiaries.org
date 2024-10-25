@@ -2,7 +2,7 @@
 :ID:       c1b228e7-30f2-4b43-800f-387108776633
 :END:
 #+title: Sirius Subsidiaries
-#+filetags: :beacon:
+#+filetags: :Federation:beacon:
 * 0206  Sirius Subsidiaries
 [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]]
 

@@ -2,7 +2,7 @@
 :ID:       0ae3000d-2832-42da-a375-f0e9bad83fe4
 :END:
 #+title: Ulyanov Arrested
-#+filetags: :Thargoid:3304:galnet:
+#+filetags: :Federation:Thargoid:3304:galnet:
 
 * Ulyanov Arrested
 

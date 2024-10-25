@@ -2,7 +2,7 @@
 :ID:       d6d441e1-2c33-4d0b-bf46-dfa63dc561d1
 :END:
 #+title: Gellan Scandal
-#+filetags: :beacon:
+#+filetags: :Federation:beacon:
 * 0186 Gellan Scandal
 [[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]]
 

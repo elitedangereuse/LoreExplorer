@@ -2,7 +2,7 @@
 :ID:       2cd62374-da5c-4898-8ad3-c971e63b1d3c
 :END:
 #+title: Robot Exposes Corporate Fraud
-#+filetags: :3304:galnet:
+#+filetags: :Federation:3304:galnet:
 
 * Robot Exposes Corporate Fraud
 

@@ -2,7 +2,7 @@
 :ID:       2880ae34-aeb4-4340-9d79-f30a9b847e51
 :END:
 #+title: Mysteries of the Far God
-#+filetags: :3304:galnet:
+#+filetags: :Federation:3304:galnet:
 
 * Mysteries of the [[id:04ae001b-eb07-4812-a42e-4bb72825609b][Far God]]
 

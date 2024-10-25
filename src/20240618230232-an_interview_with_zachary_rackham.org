@@ -2,7 +2,7 @@
 :ID:       3bb3e024-e316-462d-ae10-d2c0004f056b
 :END:
 #+title: An Interview with Zachary Rackham
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * An Interview with [[id:e26683e6-6b19-4671-8676-f333bd5e8ff7][Zachary Rackham]]
 

@@ -3,7 +3,7 @@
 :ROAM_REFS: https://cms.zaonce.net/en-GB/jsonapi/node/galnet_article/a8a3650c-60ea-4089-91f1-24d5821f1907?resourceVersion=id%3A4871
 :END:
 #+title: Lakon Spaceways Faces Financial Collapse
-#+filetags: :Alliance:galnet:
+#+filetags: :Federation:Alliance:galnet:
 
 * Lakon Spaceways Faces Financial Collapse
 

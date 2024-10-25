@@ -2,7 +2,7 @@
 :ID:       89a7dc4f-e5bd-4620-b6a7-126d6f051fb5
 :END:
 #+title: Herculean Machines Initiative
-#+filetags: :3304:galnet:
+#+filetags: :Federation:3304:galnet:
 
 * [[id:46e9f326-2119-4d5b-a625-a32820a44642][Herculean Machines]] Initiative
 

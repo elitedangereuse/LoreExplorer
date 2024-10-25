@@ -2,7 +2,7 @@
 :ID:       5a46af72-87ac-4c96-bd83-90201029600f
 :END:
 #+title: Thargoids Raid Nebula Colony
-#+filetags: :Alliance:Thargoid:galnet:
+#+filetags: :Federation:Alliance:Thargoid:galnet:
 
 * Thargoids Raid Nebula Colony
 

@@ -2,7 +2,7 @@
 :ID:       9d7cedcf-1873-49bb-bf8a-abe0c34a8f3c
 :END:
 #+title: Community Goal: Competing Appeals for Exploration Data
-#+filetags: :CommunityGoal:3302:galnet:
+#+filetags: :Federation:CommunityGoal:3302:galnet:
 
 * Community Goal: Competing Appeals for Exploration Data
 

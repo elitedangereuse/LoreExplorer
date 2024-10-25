@@ -2,4 +2,5 @@
 :ID:       fa5ec483-e38a-4608-b202-c1d00d68cfef
 :END:
 #+title: Federal Grand Lottery
+#+filetags: :Federation:
 

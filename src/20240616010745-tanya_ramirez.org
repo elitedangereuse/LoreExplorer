@@ -2,4 +2,5 @@
 :ID:       fb74a286-1688-41e8-9bec-9ef14adaaf1f
 :END:
 #+title: Tanya Ramirez
+#+filetags: :Federation:
 Senior Agent of the [[id:d75a6c3f-5c3a-418b-b639-5e14b487f568][Federal Intelligence Agency]]

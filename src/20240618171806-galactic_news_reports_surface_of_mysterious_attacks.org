@@ -2,7 +2,7 @@
 :ID:       dac28808-7ac7-420c-8307-ac30e036de45
 :END:
 #+title: Galactic News: Reports Surface of Mysterious Attacks
-#+filetags: :3303:galnet:
+#+filetags: :Federation:3303:galnet:
 
 * Galactic News: Reports Surface of Mysterious Attacks
 

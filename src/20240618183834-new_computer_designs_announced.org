@@ -2,7 +2,7 @@
 :ID:       0657e0c8-8de0-4fd5-85b3-580395c9745a
 :END:
 #+title: New Computer Designs Announced
-#+filetags: :3304:galnet:
+#+filetags: :Federation:3304:galnet:
 
 * New Computer Designs Announced
 

@@ -2,7 +2,7 @@
 :ID:       da37fb86-312f-4659-b2f2-85e1f220626c
 :END:
 #+title: Nuclear Weapon Stolen
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Nuclear Weapon Stolen
 

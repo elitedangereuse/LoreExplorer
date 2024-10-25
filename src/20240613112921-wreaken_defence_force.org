@@ -3,7 +3,7 @@
 :ROAM_ALIASES: WCM
 :END:
 #+title: Wreaken Defence Force
-#+filetags: :beacon:
+#+filetags: :Federation:beacon:
 * 0219 Wreaken Defence Force
 [[id:bb8ac014-a3ac-4564-9c3a-7aaff6536d59][Zearla]]
 

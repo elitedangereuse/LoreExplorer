@@ -2,7 +2,7 @@
 :ID:       b7843242-b338-47f3-8c69-e8b276008599
 :END:
 #+title: Week in Review 22 Apr 3304
-#+filetags: :Empire:3304:galnet:
+#+filetags: :Federation:Empire:3304:galnet:
 
 * Week in Review
 

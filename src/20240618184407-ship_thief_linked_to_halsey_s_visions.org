@@ -2,7 +2,7 @@
 :ID:       31ef3cd6-ccab-4292-a1e0-fc4aadd8e164
 :END:
 #+title: Ship Thief Linked to Halsey’s Visions
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Ship Thief Linked to Halsey’s Visions
 

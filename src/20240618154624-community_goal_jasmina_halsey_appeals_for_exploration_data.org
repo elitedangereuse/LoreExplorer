@@ -2,7 +2,7 @@
 :ID:       75369df7-b14f-4e03-82a2-6057da52b3c3
 :END:
 #+title: Community Goal: Jasmina Halsey Appeals for Exploration Data
-#+filetags: :CommunityGoal:3302:galnet:
+#+filetags: :Federation:CommunityGoal:3302:galnet:
 
 * Community Goal: [[id:a9ccf59f-436e-44df-b041-5020285925f8][Jasmina Halsey]] Appeals for Exploration Data
 

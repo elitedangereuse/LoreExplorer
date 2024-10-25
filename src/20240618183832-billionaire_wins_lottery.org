@@ -2,7 +2,7 @@
 :ID:       9345f205-42fb-481e-9217-bd4e4af7922b
 :END:
 #+title: Billionaire Wins Lottery
-#+filetags: :3304:galnet:
+#+filetags: :Federation:3304:galnet:
 
 * Billionaire Wins Lottery
 

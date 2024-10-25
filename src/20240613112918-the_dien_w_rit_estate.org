@@ -2,7 +2,7 @@
 :ID:       55415723-8044-4af6-b6ab-d7e7b78775c1
 :END:
 #+title: The Dien W'rit Estate
-#+filetags: :beacon:
+#+filetags: :Federation:beacon:
 * 0215 The Dien W'rit Estate
 [[id:7075359f-79ca-4a24-88da-64f22e6b024a][Ackwada]]  
 

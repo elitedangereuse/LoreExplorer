@@ -2,7 +2,7 @@
 :ID:       f5e0afe5-bbb3-4949-ad5b-cb54cd3f0b12
 :END:
 #+title: Hit Squad Targets Cartel Leader
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Hit Squad Targets Cartel Leader
 

@@ -2,7 +2,7 @@
 :ID:       1fc1d4cf-210e-47c5-86f8-30cda45471ef
 :END:
 #+title: The Black Prince
-#+filetags: :beacon:
+#+filetags: :Federation:beacon:
 * 0188 The Black Prince
 [[id:113500ff-cc01-4fe3-a0f4-87d92e2c2d31][Zelada]]
 

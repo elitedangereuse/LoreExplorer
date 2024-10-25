@@ -2,7 +2,7 @@
 :ID:       51b0d41b-a703-4487-9227-7d4ed35293fe
 :END:
 #+title: 'Proxmire'
-#+filetags: :beacon:
+#+filetags: :Federation:beacon:
 * 0194 'Proxmire'
 [[id:51a92498-ef1b-4fc3-9ad7-9e49fb947353][Cemiess]]
 

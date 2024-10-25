@@ -2,7 +2,7 @@
 :ID:       fa2a6714-9d19-4bbd-9906-3c7d5574b8b3
 :END:
 #+title: Community Goal: Growing Independence
-#+filetags: :CommunityGoal:3303:galnet:
+#+filetags: :Federation:CommunityGoal:3303:galnet:
 
 * Community Goal: Growing Independence
 

@@ -2,7 +2,7 @@
 :ID:       fba1b95a-2889-4de0-a2a8-d78b2193d4ed
 :END:
 #+title: Nova Imperium Demands New Emperor
-#+filetags: :Empire:Thargoid:3304:galnet:
+#+filetags: :Federation:Empire:Thargoid:3304:galnet:
 
 * Nova Imperium Demands New Emperor
 

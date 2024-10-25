@@ -2,7 +2,7 @@
 :ID:       fb3fbebe-54f2-452a-a646-3056985fa72f
 :END:
 #+title: Former Federal President Found
-#+filetags: :beacon:
+#+filetags: :Federation:beacon:
 * 0698 Former Federal President Found
 [[id:442e6f9a-19d8-48e2-9fb6-a6cb88b22c45][Azaleach]]
 

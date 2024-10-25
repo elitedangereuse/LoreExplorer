@@ -2,7 +2,7 @@
 :ID:       5c97bb96-76fd-4e86-95d5-dd6f73bcd609
 :END:
 #+title: Galactic News: The Thargoids
-#+filetags: :Thargoid:3302:galnet:
+#+filetags: :Federation:Thargoid:3302:galnet:
 
 * Galactic News: The Thargoids
 

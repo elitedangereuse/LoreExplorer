@@ -2,7 +2,7 @@
 :ID:       6dc015dd-9fb5-436d-8b0d-09bcec8fdfb6
 :END:
 #+title: Second Fatality in Rackham Conflict
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Second Fatality in Rackham Conflict
 

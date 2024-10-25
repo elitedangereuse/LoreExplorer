@@ -2,7 +2,7 @@
 :ID:       225d0d1f-9938-4ca6-bc01-a2b9bf7ba0a2
 :END:
 #+title: President Halsey Announces Tour of Frontier Systems
-#+filetags: :3301:galnet:
+#+filetags: :Federation:3301:galnet:
 
 * President Halsey Announces Tour of Frontier Systems
 

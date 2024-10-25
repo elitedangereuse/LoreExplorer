@@ -2,7 +2,7 @@
 :ID:       6e3d9655-7630-4bc0-ace9-a7d72cb803f5
 :END:
 #+title: Battlegroup's Disappearance
-#+filetags: :Empire:Federation:2925:2924:beacon:
+#+filetags: :Federation:Empire:2925:2924:beacon:
 * 0135 Battlegroup's Disappearance                      :beacon:EliteHistory:
 [[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]]
 

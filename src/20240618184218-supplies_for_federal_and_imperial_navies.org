@@ -2,7 +2,7 @@
 :ID:       0233d6ae-277b-485b-9ee2-230cb6e664be
 :END:
 #+title: Supplies for Federal and Imperial Navies
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Supplies for Federal and Imperial Navies
 

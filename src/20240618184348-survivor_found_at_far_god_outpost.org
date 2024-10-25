@@ -2,7 +2,7 @@
 :ID:       e7294909-3c01-493a-9e8c-898710fbb902
 :END:
 #+title: Survivor Found at Far God Outpost
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Survivor Found at [[id:04ae001b-eb07-4812-a42e-4bb72825609b][Far God]] Outpost
 

@@ -2,7 +2,7 @@
 :ID:       6172c17f-b88e-4c15-932c-01337bdedec5
 :END:
 #+title: Cartel Leader Killed
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Cartel Leader Killed
 

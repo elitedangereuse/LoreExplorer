@@ -2,7 +2,7 @@
 :ID:       22a10ad9-e9b5-4910-95b3-1a436763967f
 :END:
 #+title: Far God Survivor Revived
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * [[id:04ae001b-eb07-4812-a42e-4bb72825609b][Far God]] Survivor Revived
 

@@ -2,7 +2,7 @@
 :ID:       0392275d-09ef-4650-b566-560e8fd2a7b9
 :END:
 #+title: HIP 17692 Operation Concludes
-#+filetags: :Thargoid:3304:galnet:
+#+filetags: :Federation:Thargoid:3304:galnet:
 
 * HIP 17692 Operation Concludes
 

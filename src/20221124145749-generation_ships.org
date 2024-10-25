@@ -2,7 +2,7 @@
 :ID:       951f3d20-c3aa-41cc-ba58-cc7d3a5a1d07
 :END:
 #+title: Generation Ships
-#+filetags: :KnowledgeBase:Codex:ship:
+#+filetags: :Federation:KnowledgeBase:Codex:ship:
 
 * Generation Ships
 Before the development of faster-than-light travel, colonising distant

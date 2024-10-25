@@ -2,7 +2,7 @@
 :ID:       6aebc20e-adb0-4e33-9de8-c3175781f115
 :END:
 #+title: Galactic News: Superpowers Respond to Strange Sightings
-#+filetags: :Alliance:3303:galnet:
+#+filetags: :Federation:Alliance:3303:galnet:
 
 * Galactic News: Superpowers Respond to Strange Sightings
 

@@ -2,7 +2,7 @@
 :ID:       7f506a75-8bab-48c7-b268-2a6a5f45b72a
 :END:
 #+title: Red Family Kingpin Eludes the FIA
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * [[id:792ffce8-85dc-4147-8ea3-8e5feb26ba94][Red Family]] Kingpin Eludes the FIA
 

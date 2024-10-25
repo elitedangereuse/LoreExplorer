@@ -2,7 +2,7 @@
 :ID:       6e35cc4e-6e84-4a03-af9c-e4f7758a6f95
 :END:
 #+title: Week in Review 27 Oct 3304
-#+filetags: :Alliance:Thargoid:3304:galnet:
+#+filetags: :Federation:Alliance:Thargoid:3304:galnet:
 
 * Week in Review
 

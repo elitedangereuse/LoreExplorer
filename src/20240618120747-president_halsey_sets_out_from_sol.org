@@ -2,7 +2,7 @@
 :ID:       5a61fc07-02ce-431e-9afb-4c7920478c0e
 :END:
 #+title: President Halsey Sets Out from Sol
-#+filetags: :3301:galnet:
+#+filetags: :Federation:3301:galnet:
 
 * President Halsey Sets Out from Sol
 

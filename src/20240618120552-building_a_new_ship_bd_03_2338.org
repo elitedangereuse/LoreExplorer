@@ -2,7 +2,7 @@
 :ID:       49141454-e965-40fe-95bd-58284e1fcc20
 :END:
 #+title: Building a New Ship - BD+03 2338
-#+filetags: :3301:galnet:
+#+filetags: :Federation:3301:galnet:
 
 * Building a New Ship - BD+03 2338
 

@@ -2,7 +2,7 @@
 :ID:       3377c624-55e6-4821-9111-880ff16d9b60
 :END:
 #+title: Sol Unplugged?
-#+filetags: :Alliance:3301:galnet:
+#+filetags: :Federation:Alliance:3301:galnet:
 
 * Sol Unplugged?
 

@@ -2,7 +2,7 @@
 :ID:       f58b14d6-8fc2-4a89-959d-2f234ab1c1f0
 :END:
 #+title: Galactic Mysteries: The Far God Cult
-#+filetags: :Thargoid:galnet:
+#+filetags: :Federation:Thargoid:galnet:
 
 * Galactic Mysteries: The [[id:04ae001b-eb07-4812-a42e-4bb72825609b][Far God]] Cult
 

@@ -2,7 +2,7 @@
 :ID:       b2128354-dd92-4363-a58a-b97924bdcd3a
 :END:
 #+title: Community Goal: Professor Ishmael Palin Issues Request for Meta-Alloys
-#+filetags: :CommunityGoal:3302:galnet:
+#+filetags: :Federation:CommunityGoal:3302:galnet:
 
 * Community Goal: Professor [[id:8f63442a-1f38-457d-857a-38297d732a90][Ishmael Palin]] Issues Request for Meta-Alloys
 

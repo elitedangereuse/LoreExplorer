@@ -2,7 +2,7 @@
 :ID:       61410acc-b6b5-4cf2-a171-f064123841f9
 :END:
 #+title: Gellan's Humiliation
-#+filetags: :beacon:
+#+filetags: :Federation:beacon:
 * 0189 Gellan's Humiliation
 [[id:7075359f-79ca-4a24-88da-64f22e6b024a][Ackwada]]
 

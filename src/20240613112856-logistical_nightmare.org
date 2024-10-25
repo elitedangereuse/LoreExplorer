@@ -2,7 +2,7 @@
 :ID:       8d1c36fa-28a3-47bf-88db-db5e9514a53b
 :END:
 #+title: Logistical Nightmare
-#+filetags: :beacon:
+#+filetags: :Federation:beacon:
 * 0177 Logistical Nightmare
 [[id:0db1f0b9-a70d-4384-96a5-c1587a8270b1][Beta Hydri]]  
 

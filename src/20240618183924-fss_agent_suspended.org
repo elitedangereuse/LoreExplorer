@@ -2,7 +2,7 @@
 :ID:       745bb87b-50cc-42d0-b355-005e502cb219
 :END:
 #+title: FSS Agent Suspended
-#+filetags: :3304:galnet:
+#+filetags: :Federation:3304:galnet:
 
 * FSS Agent Suspended
 

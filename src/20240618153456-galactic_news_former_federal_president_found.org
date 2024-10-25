@@ -2,7 +2,7 @@
 :ID:       bf2d3366-2a78-42f4-af62-258de4378de6
 :END:
 #+title: Galactic News: Former Federal President Found
-#+filetags: :3302:galnet:
+#+filetags: :Federation:3302:galnet:
 
 * Galactic News: Former Federal President Found
 

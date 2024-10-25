@@ -2,7 +2,7 @@
 :ID:       4cd8ceed-a64e-420d-af95-de684f81f07c
 :END:
 #+title: Major Victories against the League of Reparation
-#+filetags: :Alliance:3304:galnet:
+#+filetags: :Federation:Alliance:3304:galnet:
 
 * Major Victories against the League of Reparation
 

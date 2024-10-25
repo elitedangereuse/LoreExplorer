@@ -2,7 +2,7 @@
 :ID:       2bd87127-eaab-41cb-a027-475ad9b6758e
 :END:
 #+title: Far God Cult Investigation Ends
-#+filetags: :Thargoid:3304:galnet:
+#+filetags: :Federation:Thargoid:3304:galnet:
 
 * [[id:04ae001b-eb07-4812-a42e-4bb72825609b][Far God]] Cult Investigation Ends
 

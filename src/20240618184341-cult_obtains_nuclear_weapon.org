@@ -2,7 +2,7 @@
 :ID:       5cd1bc83-d7aa-4e48-9fa7-0244376d7150
 :END:
 #+title: Cult Obtains Nuclear Weapon
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Cult Obtains Nuclear Weapon
 

@@ -2,7 +2,7 @@
 :ID:       96c2df46-5624-4166-84fd-776a7fff1421
 :END:
 #+title: The Silent Aftermath
-#+filetags: :Alliance:Thargoid:galnet:
+#+filetags: :Federation:Alliance:Thargoid:galnet:
 
 * The Silent Aftermath
 

@@ -2,7 +2,7 @@
 :ID:       3480ff77-ecbb-4f80-92d8-4686d84c6223
 :END:
 #+title: Week in Review 13 Oct 3304
-#+filetags: :Alliance:3304:galnet:
+#+filetags: :Federation:Alliance:3304:galnet:
 
 * Week in Review
 

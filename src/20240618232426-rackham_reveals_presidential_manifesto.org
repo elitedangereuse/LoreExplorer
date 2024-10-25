@@ -2,7 +2,7 @@
 :ID:       a6be6285-dcf7-4ce2-9fbe-240ea6623613
 :END:
 #+title: Rackham Reveals Presidential Manifesto
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Rackham Reveals Presidential Manifesto
 

@@ -2,7 +2,7 @@
 :ID:       f57cff55-3348-45ea-b76f-d0eaa3c68165
 :END:
 #+title: Guardians
-#+filetags: :Thargoid:KnowledgeBase:Specie:Guardian:Codex:
+#+filetags: :Federation:Thargoid:KnowledgeBase:Specie:Guardian:Codex:
 * The Guardians
 ** Introduction
 The Guardians were a nonhuman race that occupied a large area of space

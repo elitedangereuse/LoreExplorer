@@ -2,4 +2,5 @@
 :ID:       46ff5046-45e9-402d-93a3-96f9c1e508a3
 :END:
 #+title: Federal Diplomatic Corps
+#+filetags: :Federation:
 

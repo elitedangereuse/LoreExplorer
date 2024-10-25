@@ -2,7 +2,7 @@
 :ID:       ed5cd222-4252-43dd-8a13-20c2516b35ac
 :END:
 #+title: Core Dynamics Completes Work on New Capital Ship
-#+filetags: :3301:galnet:
+#+filetags: :Federation:3301:galnet:
 
 * Core Dynamics Completes Work on New Capital Ship
 

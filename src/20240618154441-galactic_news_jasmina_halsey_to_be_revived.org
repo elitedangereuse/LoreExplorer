@@ -2,7 +2,7 @@
 :ID:       8658386a-36d0-414a-8d5e-8cf0f36fdba9
 :END:
 #+title: Galactic News: Jasmina Halsey to be Revived
-#+filetags: :3302:galnet:
+#+filetags: :Federation:3302:galnet:
 
 * Galactic News: [[id:a9ccf59f-436e-44df-b041-5020285925f8][Jasmina Halsey]] to be Revived
 

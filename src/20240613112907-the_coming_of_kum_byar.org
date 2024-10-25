@@ -2,7 +2,7 @@
 :ID:       7ae26138-26d0-4f2b-8bc5-a7eb7432e32c
 :END:
 #+title: The Coming of Kum Byar
-#+filetags: :beacon:
+#+filetags: :Federation:beacon:
 * 0196 The Coming of Kum Byar
 [[id:6935cefb-7739-4ac2-91a0-de4a984feae1][Arexack]]
 

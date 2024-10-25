@@ -2,7 +2,7 @@
 :ID:       3805a2ad-c873-48f3-91c1-620fe8488f4a
 :END:
 #+title: Rackham Under Investigation
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Rackham Under Investigation
 

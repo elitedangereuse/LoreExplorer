@@ -2,7 +2,7 @@
 :ID:       c20adf38-e281-4d04-ab1d-392a1f8bd850
 :END:
 #+title: Week in Review 29 Sep 3304
-#+filetags: :Alliance:3304:galnet:
+#+filetags: :Federation:Alliance:3304:galnet:
 
 * Week in Review
 

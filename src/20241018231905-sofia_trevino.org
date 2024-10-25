@@ -2,6 +2,6 @@
 :ID:       e660f840-caed-45ef-985e-f75170cf9ca8
 :END:
 #+title: Sofia Trevino
-#+filetags: :Individual:
+#+filetags: :Federation:Individual:
 
 Works at [[id:be5df73c-519d-45ed-a541-9b70bc8ae97c][The Federal Times]]

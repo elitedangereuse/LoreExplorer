@@ -2,7 +2,7 @@
 :ID:       6be54d33-4470-47b2-8768-2b46bb51c3aa
 :END:
 #+title: Civil War
-#+filetags: :beacon:
+#+filetags: :Federation:beacon:
 * 0153 Civil War
 [[id:35ef7825-95ca-418d-9cc2-9e7934b351c9][Tiliala]]
 

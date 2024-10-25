@@ -2,7 +2,7 @@
 :ID:       c93facb0-8a57-44c4-9d68-ba31e57224ef
 :END:
 #+title: Rackham Investigation Ruled Out
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Rackham Investigation Ruled Out
 

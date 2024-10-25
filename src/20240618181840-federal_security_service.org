@@ -2,4 +2,5 @@
 :ID:       0ba9accc-93ad-45a0-a771-e26daa59e58f
 :END:
 #+title: Federal Security Service
+#+filetags: :Federation:
 

@@ -2,7 +2,7 @@
 :ID:       323bbda9-31bf-4e0e-a908-5911f016ca7d
 :END:
 #+title: Galactic News: Explorers Urged to be Cautious
-#+filetags: :3302:galnet:
+#+filetags: :Federation:3302:galnet:
 
 * Galactic News: Explorers Urged to be Cautious
 

@@ -2,7 +2,7 @@
 :ID:       815e0dfa-cc75-45a0-accd-6b6a28e07799
 :END:
 #+title: Revelation Halts Starship One Trial
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Revelation Halts Starship One Trial
 

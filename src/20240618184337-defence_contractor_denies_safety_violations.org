@@ -2,7 +2,7 @@
 :ID:       5a07a0af-e754-403f-b9b2-c9a858cbd220
 :END:
 #+title: Defence Contractor Denies Safety Violations
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Defence Contractor Denies Safety Violations
 

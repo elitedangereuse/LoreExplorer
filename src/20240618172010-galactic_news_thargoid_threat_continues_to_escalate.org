@@ -2,7 +2,7 @@
 :ID:       a646fa22-4a96-4435-9c60-f1132a344e4c
 :END:
 #+title: Galactic News: Thargoid Threat Continues to Escalate
-#+filetags: :Thargoid:3303:galnet:
+#+filetags: :Federation:Thargoid:3303:galnet:
 
 * Galactic News: Thargoid Threat Continues to Escalate
 

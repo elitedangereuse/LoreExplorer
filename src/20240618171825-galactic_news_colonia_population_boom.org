@@ -2,7 +2,7 @@
 :ID:       90e2dc3d-9aa0-42b6-9245-966dc9776d97
 :END:
 #+title: Galactic News: Colonia Population Boom
-#+filetags: :3303:galnet:
+#+filetags: :Federation:3303:galnet:
 
 * Galactic News: Colonia Population Boom
 

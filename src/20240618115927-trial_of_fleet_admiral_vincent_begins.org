@@ -3,7 +3,7 @@
 :ROAM_REFS: https://cms.zaonce.net/en-GB/jsonapi/node/galnet_article/128b959a-e903-4b63-b0ec-d14eeeaa1d8d?resourceVersion=id%3A4910
 :END:
 #+title: Trial of Fleet Admiral Vincent Begins
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Trial of Fleet Admiral Vincent Begins
 

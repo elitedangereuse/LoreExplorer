@@ -2,7 +2,7 @@
 :ID:       976c6040-5579-4273-b1d6-f8dbea1f3a18
 :END:
 #+title: Alliance Inspector Killed by the League of Reparation
-#+filetags: :Alliance:3304:galnet:
+#+filetags: :Federation:Alliance:3304:galnet:
 
 * Alliance Inspector Killed by the League of Reparation
 

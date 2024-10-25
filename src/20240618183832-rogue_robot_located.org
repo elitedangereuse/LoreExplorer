@@ -2,7 +2,7 @@
 :ID:       766f6c27-1224-4db0-a4cb-b3ecf91b56eb
 :END:
 #+title: Rogue Robot Located
-#+filetags: :3304:galnet:
+#+filetags: :Federation:3304:galnet:
 
 * Rogue Robot Located
 

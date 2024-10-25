@@ -2,7 +2,7 @@
 :ID:       a53cfe66-14fd-4678-acd6-f31ae021c265
 :END:
 #+title: Winters Resists Hudson’s Legacy Projects
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Winters Resists Hudson’s Legacy Projects
 

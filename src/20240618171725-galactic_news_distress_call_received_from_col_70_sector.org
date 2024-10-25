@@ -2,7 +2,7 @@
 :ID:       a0a569bd-1e8b-482a-b083-0377fb7a6400
 :END:
 #+title: Galactic News: Distress Call Received from Col 70 Sector
-#+filetags: :3303:galnet:
+#+filetags: :Federation:3303:galnet:
 
 * Galactic News: Distress Call Received from Col 70 Sector
 

@@ -2,7 +2,7 @@
 :ID:       fb3b7e8e-1786-4f13-8535-f6f305f2fae8
 :END:
 #+title: Week in Review 08 Dec 3304
-#+filetags: :Alliance:3304:galnet:
+#+filetags: :Federation:Alliance:3304:galnet:
 
 * Week in Review
 

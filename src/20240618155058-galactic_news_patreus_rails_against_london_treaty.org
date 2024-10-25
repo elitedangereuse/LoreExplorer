@@ -2,7 +2,7 @@
 :ID:       8b3f2668-a3f0-4bc2-bbf9-081f9433f4a6
 :END:
 #+title: Galactic News: Patreus Rails against London Treaty
-#+filetags: :Empire:3302:galnet:
+#+filetags: :Federation:Empire:3302:galnet:
 
 * Galactic News: Patreus Rails against London Treaty
 

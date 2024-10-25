@@ -2,7 +2,7 @@
 :ID:       f85f146a-da48-4e8d-a40c-2c8c6eaedd51
 :END:
 #+title: Thief Strikes Again
-#+filetags: :galnet:
+#+filetags: :Federation:galnet:
 
 * Thief Strikes Again
 

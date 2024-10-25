@@ -2,7 +2,7 @@
 :ID:       8e3c8886-f539-440d-912c-e86d9477d1dd
 :END:
 #+title: Far God Cultists Vanishing
-#+filetags: :Thargoid:3304:galnet:
+#+filetags: :Federation:Thargoid:3304:galnet:
 
 * [[id:04ae001b-eb07-4812-a42e-4bb72825609b][Far God]] Cultists Vanishing
 
