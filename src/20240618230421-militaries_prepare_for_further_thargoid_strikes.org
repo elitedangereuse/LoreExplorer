@@ -18,7 +18,7 @@ Ernesto Rios, field correspondent for Vox Galactica, summarised the situation:
 
 “In the Empire, Senator [[id:75daea85-5e9f-4f6f-a102-1a5edea0283c][Denton Patreus]] considered these events ‘an indication that the Thargoids are probing humanity’s defensive capabilities’. But details of the Imperial Navy’s anti-xeno strategy remained confidential, a sign of the Empire shift away from military coordination with other superpowers.” 
 
-“The Alliance has claimed to be in a position of readiness. Admiral [[id:2e8a3cd7-5f4e-47dc-ba7f-eb732bf8c7fa][Nikolas Glass]] reported: ‘Operation Tyndareus, backed by Sirius Corporation, is now active. The Alliance Defence Force is ready to deploy anti-xeno taskforces, should the Thargoids dare to launch an assault within Allied space.’ Meanwhile, critics of the strategic defence pact have observed that only two megaships currently possess AX weaponry, casting doubt over the ADF’s effectiveness.” 
+“The Alliance has claimed to be in a position of readiness. Admiral [[id:2e8a3cd7-5f4e-47dc-ba7f-eb732bf8c7fa][Nikolas Glass]] reported: ‘Operation Tyndareus, backed by Sirius Corporation, is now active. The [[id:17d9294e-7759-4cf4-9a67-5f12b5704f51][Alliance Defence Force]] is ready to deploy anti-xeno taskforces, should the Thargoids dare to launch an assault within Allied space.’ Meanwhile, critics of the strategic defence pact have observed that only two megaships currently possess AX weaponry, casting doubt over the ADF’s effectiveness.” 
 
 “Elsewhere, many independent systems are doing whatever they can to bolster their local security forces. Too many worlds are acutely aware that should Thargoid fleets darken their skies, they would be forced to rely on mercenaries and independent pilots for protection.” 
 

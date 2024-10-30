@@ -8,7 +8,7 @@
 
 /17 May 3304/
 
-A member of the Council of Admirals, which commands the Alliance Defence Force, has been murdered. The League of Reparation has claimed responsibility. 
+A member of the Council of Admirals, which commands the [[id:17d9294e-7759-4cf4-9a67-5f12b5704f51][Alliance Defence Force]], has been murdered. The League of Reparation has claimed responsibility. 
 
 Fleet Admiral Tulimaq Buchanan was travelling to a naval ceremony at Lave Station when his private vessel was attacked and destroyed. The admiral’s personal staff and the ship’s crew were also killed. 
 
@@ -26,6 +26,6 @@ The Alliance Assembly released a joint statement:
 
 “This is a sickening and cowardly act of aggression that has cost us dearly. Such a brutal assault on our people and values cannot go unpunished.” 
 
-Commodore Riri McAllister spoke on behalf of the Alliance Defence Force: 
+Commodore Riri McAllister spoke on behalf of the [[id:17d9294e-7759-4cf4-9a67-5f12b5704f51][Alliance Defence Force]]: 
 
 “A replacement member for the Council of Admirals will soon be appointed. In the meantime, we are doing all we can to support the taskforce in tracking down these criminals.”

@@ -161,14 +161,14 @@ any other member state. Furthermore, all member systems are obliged to
 give immediate military assistance to any fellow member when necessary.
 
 ** Military
-*** The Alliance Defence Force.
+*** The [[id:17d9294e-7759-4cf4-9a67-5f12b5704f51][Alliance Defence Force]].
 While each Alliance member system maintains its own navy, all members
-are required to commit ships and crew to the Alliance Defence Force.
+are required to commit ships and crew to the [[id:17d9294e-7759-4cf4-9a67-5f12b5704f51][Alliance Defence Force]].
 This rapid-response group usually remains within Alliance space, and its
 tasks vary from providing a beleaguered system with military assistant
 to evacuating settlements hit by natural disaster.
 
-A six-member Council of Admirals oversees the Alliance Defence Force. It
+A six-member Council of Admirals oversees the [[id:17d9294e-7759-4cf4-9a67-5f12b5704f51][Alliance Defence Force]]. It
 is accountable to the Assembly, but does not require its approval before
 taking action. This freedom of decision making prevents urgent military
 action being delayed by tedious debate.
