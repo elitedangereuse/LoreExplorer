@@ -2,20 +2,38 @@
 :ID:       883afb04-d6f6-4e79-bac1-c3fa92a721d7
 :END:
 #+title: Sirius Navy Unites with Alliance Defence Force
-#+filetags: :Empire:Federation:Alliance:Thargoid:galnet:
+#+filetags: :3308:Empire:Federation:Alliance:Thargoid:galnet:
 
 * Sirius Navy Unites with Alliance Defence Force
 
 /10 Jan 3308/
 
-A new member has been appointed to the Council of Admirals to represent Sirius Corporation as the Alliance’s strategic defence partner. 
+A new member has been appointed to the [[id:b0b347ac-10b8-4190-8787-1557f7d4a6da][Council of Admirals]] to
+represent [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]] as the Alliance’s strategic defence
+partner.
 
-Political correspondent Vanya Driscoll reported for The Alliance Tribune: 
+Political correspondent [[id:b26ee6ca-29a4-4dca-b69f-b4957b1ae650][Vanya Driscoll]] reported for [[id:ad2baca1-f970-4308-8b07-78cd4a5a8fd0][The Alliance
+Tribune]]:
 
-“There are always six seats on the Council of Admirals, taken by senior military commanders from the largest regional fleets. Not only is this the first time that a seventh position has been created, it’s also the first to come from outside the Alliance.” 
+“There are always six seats on the [[id:b0b347ac-10b8-4190-8787-1557f7d4a6da][Council of Admirals]], taken by
+senior military commanders from the largest regional fleets. Not only
+is this the first time that a seventh position has been created, it’s
+also the first to come from outside the Alliance.”
 
-“The new addition is Admiral Nikolas Glass, a highly decorated officer with the Sirius Navy. His new role is to coordinate the Alliance’s anti-Thargoid operations, which from now on will be directly supported by Sirius Corporation.” 
+“The new addition is Admiral [[id:2e8a3cd7-5f4e-47dc-ba7f-eb732bf8c7fa][Nikolas Glass]], a highly decorated officer
+with the [[id:3dd2f3c7-3ddf-4900-aa28-580344edd509][Sirius Navy]]. His new role is to coordinate the Alliance’s
+[[id:56ad8af3-baa1-4d0a-acd8-750400d280f4][anti-Thargoid]] operations, which from now on will be directly supported
+by [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]].”
 
-“Prime Minister [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74][Edmund Mahon]] and Fleet Admiral Hayley Sorokin both endorsed this development as a way of strengthening the Alliance Defence Force, which lacks the might of the Federal or Imperial Navy. Many member systems have demanded increased protection against the Thargoid threat, so this news is likely to be well received.” 
+“[[id:7361b97b-004a-4243-920c-d0e8d93479b0][Prime Minister]] [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74][Edmund Mahon]] and Fleet Admiral [[id:0ec5a134-7f81-4e70-b3e3-d502e7004530][Hayley Sorokin]] both
+endorsed this development as a way of strengthening the [[id:17d9294e-7759-4cf4-9a67-5f12b5704f51][Alliance
+Defence Force]], which lacks the might of the [[id:3d268496-1d95-49bc-aca6-49d16a4337c8][Federal]] or [[id:e9becd28-9644-42aa-afc8-7bba3ce10076][Imperial
+Navy]]. Many member systems have demanded increased protection against
+the Thargoid [[id:795b4989-8f5b-4560-a7aa-98ee12a4a06b][threat]], so this news is likely to be well received.”
 
-“As expected, Councillor Nakato Kaine opposed the defence pact, with Admiral George Varma also critical of ‘merging commercial interests with military matters’. Deputy Prime Minister Angela Corcoran also admitted that she abstained during the recent joint vote, but chose not to elaborate on her reasons. So it seems that the Assembly is not fully confident about this union with Sirius Corporation.”
+“As expected, Councillor [[id:0d664f07-640e-4397-be23-6b52d2c2d4d6][Nakato Kaine]] opposed the defence pact, with
+Admiral [[id:c51f8115-13d1-4d47-a88a-a126cd66d194][George Varma]] also critical of ‘merging commercial interests
+with military matters’. [[id:d6cb8048-0ba6-42ff-84bf-8235a6f85503][Deputy Prime Minister]] [[id:82f88fe3-91eb-4e78-824e-ec809cb81ea9][Angela Corcoran]] also
+admitted that she abstained during the recent joint vote, but chose
+not to elaborate on her reasons. So it seems that the [[id:48ac5ad9-dd0e-4d43-a109-f4cf6d3efdea][Assembly]] is not
+fully confident about this union with [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]].”

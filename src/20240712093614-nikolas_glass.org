@@ -4,4 +4,5 @@
 #+title: Nikolas Glass
 #+filetags: :Individual:
 
-Admiral
+- Admiral
+- A highly decorated officer with the [[id:3dd2f3c7-3ddf-4900-aa28-580344edd509][Sirius Navy]]
