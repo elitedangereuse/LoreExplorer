@@ -2,7 +2,7 @@
 :ID:       845cc7b2-d238-4e77-aa8d-01c04ddc1d61
 :END:
 #+title: Corporations Compete for Mining Contract
-#+filetags: :Federation:Empire:galnet:
+#+filetags: :3308:Federation:Empire:galnet:
 
 * Corporations Compete for Mining Contract
 

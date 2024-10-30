@@ -2,7 +2,7 @@
 :ID:       9294d9b1-ec52-4267-86c7-6422e89c5e0c
 :END:
 #+title: Further FSS Scanner Upgrade Released
-#+filetags: :Federation:Thargoid:galnet:
+#+filetags: :3308:Federation:Thargoid:galnet:
 
 * Further FSS Scanner Upgrade Released
 

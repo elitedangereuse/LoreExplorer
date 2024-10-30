@@ -2,7 +2,7 @@
 :ID:       d4131c20-de1a-4e94-a7c5-8f67d3092364
 :END:
 #+title: Superweapon Construction Completed
-#+filetags: :Empire:Federation:Thargoid:galnet:
+#+filetags: :3308:Empire:Federation:Thargoid:galnet:
 
 * Superweapon Construction Completed
 

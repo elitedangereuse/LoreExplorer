@@ -2,7 +2,7 @@
 :ID:       17d20b92-6d78-42d0-a240-8889754a7adc
 :END:
 #+title: Thargoids Repulsed by Operation Tyndareus
-#+filetags: :Federation:Alliance:Thargoid:galnet:
+#+filetags: :3308:Federation:Alliance:Thargoid:galnet:
 
 * Thargoids Repulsed by Operation Tyndareus
 

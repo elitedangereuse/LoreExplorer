@@ -2,7 +2,7 @@
 :ID:       487e7404-44cb-41b1-95d7-dd51d6bc1c5e
 :END:
 #+title: Azimuth to Expand Operational Assets
-#+filetags: :Thargoid:galnet:
+#+filetags: :3308:Thargoid:galnet:
 
 * Azimuth to Expand Operational Assets
 

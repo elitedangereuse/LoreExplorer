@@ -2,7 +2,7 @@
 :ID:       f247720d-334d-4e24-a0ec-eaeff27c233c
 :END:
 #+title: The Supercruise Factor
-#+filetags: :Federation:Thargoid:galnet:
+#+filetags: :3308:Federation:Thargoid:galnet:
 
 * The Supercruise Factor
 

@@ -2,7 +2,7 @@
 :ID:       6f789e5c-d6e8-4532-aaad-656f430696bf
 :END:
 #+title: Project Seraph Victim Seeks Revenge
-#+filetags: :Thargoid:galnet:
+#+filetags: :3308:Thargoid:galnet:
 
 * Project Seraph Victim Seeks Revenge
 

@@ -2,7 +2,7 @@
 :ID:       e59c0052-8039-458d-b0e5-730e81e528f3
 :END:
 #+title: Report from HIP 22460: ‘Salvation is Dead’
-#+filetags: :Thargoid:galnet:
+#+filetags: :3308:Thargoid:galnet:
 
 * Report from HIP 22460: ‘Salvation is Dead’
 

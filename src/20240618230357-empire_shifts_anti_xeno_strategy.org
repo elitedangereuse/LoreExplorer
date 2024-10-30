@@ -2,7 +2,7 @@
 :ID:       d42376e8-4b33-4bfa-9bf8-3e02943370e9
 :END:
 #+title: Empire Shifts Anti-Xeno Strategy
-#+filetags: :Empire:Federation:Alliance:Thargoid:galnet:
+#+filetags: :3308:Empire:Federation:Alliance:Thargoid:galnet:
 
 * Empire Shifts Anti-Xeno Strategy
 

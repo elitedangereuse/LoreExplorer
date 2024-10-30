@@ -2,7 +2,7 @@
 :ID:       0f9fcb7e-ccf8-4a17-ba21-d95c0b5e0ace
 :END:
 #+title: Mystery in Upaniklis
-#+filetags: :Federation:3305:3308:galnet:
+#+filetags: :3308:Federation:3305:galnet:
 
 * Mystery in Upaniklis
 

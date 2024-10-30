@@ -2,7 +2,7 @@
 :ID:       5dc6cd36-a494-49b4-8f30-cfe024402dcc
 :END:
 #+title: Alliance and Sirius Agree Defence Pact
-#+filetags: :Alliance:Thargoid:galnet:
+#+filetags: :3308:Alliance:Thargoid:galnet:
 
 * Alliance and Sirius Agree Defence Pact
 

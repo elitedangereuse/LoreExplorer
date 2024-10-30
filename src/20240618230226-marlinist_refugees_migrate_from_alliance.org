@@ -2,7 +2,7 @@
 :ID:       74ecc49d-6b44-48aa-abf0-02fa7ec86de0
 :END:
 #+title: Marlinist Refugees Migrate from Alliance
-#+filetags: :Empire:Alliance:galnet:
+#+filetags: :3308:Empire:Alliance:galnet:
 
 * Marlinist Refugees Migrate from Alliance
 

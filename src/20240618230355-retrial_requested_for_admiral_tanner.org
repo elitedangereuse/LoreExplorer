@@ -2,7 +2,7 @@
 :ID:       5acbe405-eb65-4f4e-abc6-1c9e3ed7138e
 :END:
 #+title: Retrial Requested for Admiral Tanner
-#+filetags: :Federation:Thargoid:galnet:
+#+filetags: :3308:Federation:Thargoid:galnet:
 
 * Retrial Requested for Admiral Tanner
 

@@ -2,7 +2,7 @@
 :ID:       b11e7140-fe4f-435c-a987-bfdb4bd4da3e
 :END:
 #+title: Imperial Intelligence Denies NMLA Connection
-#+filetags: :Empire:galnet:
+#+filetags: :3308:Empire:galnet:
 
 * [[id:45d78e5d-27b7-48cb-97b2-012934be3180][Imperial Intelligence]] Denies NMLA Connection
 

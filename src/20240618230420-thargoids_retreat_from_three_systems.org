@@ -2,7 +2,7 @@
 :ID:       94301db6-c1a0-4da8-99c3-aed793168c6c
 :END:
 #+title: Thargoids Retreat from Three Systems
-#+filetags: :Federation:Thargoid:galnet:
+#+filetags: :3308:Federation:Thargoid:galnet:
 
 * Thargoids Retreat from Three Systems
 

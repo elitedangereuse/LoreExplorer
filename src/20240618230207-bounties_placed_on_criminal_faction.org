@@ -2,7 +2,7 @@
 :ID:       83e68c0b-347b-4e0a-94e4-f59cd6765337
 :END:
 #+title: Bounties Placed on Criminal Faction
-#+filetags: :Federation:galnet:
+#+filetags: :3308:Federation:galnet:
 
 * Bounties Placed on Criminal Faction
 

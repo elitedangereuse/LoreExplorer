@@ -2,7 +2,7 @@
 :ID:       d3e7d222-46c8-4319-b2a9-f12ead7b2a32
 :END:
 #+title: The Judgement of Admiral Tanner
-#+filetags: :Federation:Thargoid:galnet:
+#+filetags: :3308:Federation:Thargoid:galnet:
 
 * The Judgement of Admiral Tanner
 

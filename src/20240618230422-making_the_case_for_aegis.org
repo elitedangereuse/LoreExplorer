@@ -2,7 +2,7 @@
 :ID:       f7b988d4-b2fd-4f8e-89d2-f993319148ee
 :END:
 #+title: Making the Case for Aegis
-#+filetags: :Federation:Empire:Alliance:Thargoid:galnet:
+#+filetags: :3308:Federation:Empire:Alliance:Thargoid:galnet:
 
 * Making the Case for Aegis
 

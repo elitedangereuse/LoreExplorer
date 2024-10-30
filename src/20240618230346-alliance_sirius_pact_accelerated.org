@@ -2,7 +2,7 @@
 :ID:       4986ba3e-1b32-4567-8999-6a6be8c417f2
 :END:
 #+title: Alliance-Sirius Pact Accelerated
-#+filetags: :Alliance:Thargoid:galnet:
+#+filetags: :3308:Alliance:Thargoid:galnet:
 
 * Alliance-Sirius Pact Accelerated
 

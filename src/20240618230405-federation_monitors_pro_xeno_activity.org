@@ -2,7 +2,7 @@
 :ID:       0b11f64b-05cc-494e-b9c8-0b1a1dbc7e71
 :END:
 #+title: Federation Monitors Pro-Xeno Activity
-#+filetags: :Federation:Thargoid:galnet:
+#+filetags: :3308:Federation:Thargoid:galnet:
 
 * Federation Monitors Pro-Xeno Activity
 

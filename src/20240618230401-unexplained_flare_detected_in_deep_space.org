@@ -2,7 +2,7 @@
 :ID:       f48f96cf-c2a2-407b-b505-40d5b5e7d308
 :END:
 #+title: Unexplained ‘Flare’ Detected in Deep Space
-#+filetags: :Federation:galnet:
+#+filetags: :3308:Federation:galnet:
 
 * Unexplained ‘Flare’ Detected in Deep Space
 

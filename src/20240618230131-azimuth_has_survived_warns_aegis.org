@@ -2,7 +2,7 @@
 :ID:       341efe91-4774-4a27-866e-c2ee556d4815
 :END:
 #+title: ‘Azimuth has Survived’ Warns Aegis
-#+filetags: :Thargoid:galnet:
+#+filetags: :3308:Thargoid:galnet:
 
 * ‘Azimuth has Survived’ Warns Aegis
 

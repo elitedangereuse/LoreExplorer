@@ -2,7 +2,7 @@
 :ID:       f7bace39-6f87-4b85-892b-868d5756ea88
 :END:
 #+title: Federal Crackdown on Thargoid Worshippers
-#+filetags: :Federation:Thargoid:galnet:
+#+filetags: :3308:Federation:Thargoid:galnet:
 
 * Federal Crackdown on Thargoid Worshippers
 

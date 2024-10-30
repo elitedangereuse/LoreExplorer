@@ -2,7 +2,7 @@
 :ID:       c527895e-7c83-4a95-b810-f1c688a02a0b
 :END:
 #+title: The Battle of HIP 22460
-#+filetags: :Thargoid:galnet:
+#+filetags: :3308:Thargoid:galnet:
 
 * The Battle of HIP 22460
 

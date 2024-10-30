@@ -2,7 +2,7 @@
 :ID:       710961dc-77a3-4120-812a-9fcbdafe7669
 :END:
 #+title: Understanding the ‘Thargoid Roar’
-#+filetags: :Thargoid:galnet:
+#+filetags: :3308:Thargoid:galnet:
 
 * Understanding the ‘Thargoid Roar’
 

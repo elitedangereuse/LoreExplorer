@@ -2,7 +2,7 @@
 :ID:       d598b13e-1b99-47b3-a1d5-8e91674e5861
 :END:
 #+title: Azimuth Resurgent
-#+filetags: :Thargoid:galnet:
+#+filetags: :3308:Thargoid:galnet:
 
 * Azimuth Resurgent
 

@@ -2,7 +2,7 @@
 :ID:       bcc7be02-c229-4118-b9f4-1e243b5f9fe2
 :END:
 #+title: Federation Divided by Hudson’s Proposal
-#+filetags: :Federation:galnet:
+#+filetags: :3308:Federation:galnet:
 
 * Federation Divided by Hudson’s Proposal
 

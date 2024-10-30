@@ -2,7 +2,7 @@
 :ID:       8cbcc116-515e-4bd1-949e-eef27e29dc44
 :END:
 #+title: Havoc as Thargoids Overrun Multiple Systems
-#+filetags: :Empire:Federation:Thargoid:galnet:
+#+filetags: :3308:Empire:Federation:Thargoid:galnet:
 
 * Havoc as Thargoids Overrun Multiple Systems
 

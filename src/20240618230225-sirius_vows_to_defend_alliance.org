@@ -2,7 +2,7 @@
 :ID:       cc35718f-5e5e-4766-a060-619900373f28
 :END:
 #+title: Sirius Vows to Defend Alliance
-#+filetags: :Alliance:Thargoid:galnet:
+#+filetags: :3308:Alliance:Thargoid:galnet:
 
 * Sirius Vows to Defend Alliance
 

@@ -2,7 +2,7 @@
 :ID:       1f8d1767-6600-45e7-9b98-0b0901aff459
 :END:
 #+title: Federation Bans the Far God Cult
-#+filetags: :Federation:Empire:Thargoid:galnet:
+#+filetags: :3308:Federation:Empire:Thargoid:galnet:
 
 * Federation Bans the [[id:04ae001b-eb07-4812-a42e-4bb72825609b][Far God]] Cult
 

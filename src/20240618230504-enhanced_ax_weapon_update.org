@@ -2,7 +2,7 @@
 :ID:       a6397a4e-6b0c-47f8-9d78-b0252387fa9f
 :END:
 #+title: Enhanced AX Weapon Update
-#+filetags: :Federation:Thargoid:galnet:
+#+filetags: :3308:Federation:Thargoid:galnet:
 
 * Enhanced AX Weapon Update
 

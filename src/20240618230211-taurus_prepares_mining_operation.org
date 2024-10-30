@@ -2,7 +2,7 @@
 :ID:       c59b9a3a-64e2-41bf-a548-50dfed9ec142
 :END:
 #+title: Taurus Prepares Mining Operation
-#+filetags: :Federation:galnet:
+#+filetags: :3308:Federation:galnet:
 
 * Taurus Prepares Mining Operation
 

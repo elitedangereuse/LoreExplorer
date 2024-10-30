@@ -2,7 +2,7 @@
 :ID:       c2d9f6fa-e865-4ef0-b63f-1f02d4502db5
 :END:
 #+title: The Darkest Days
-#+filetags: :Empire:Thargoid:galnet:
+#+filetags: :3308:Empire:Thargoid:galnet:
 
 * The Darkest Days
 

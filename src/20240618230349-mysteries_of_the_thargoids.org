@@ -2,7 +2,7 @@
 :ID:       789fc0cc-3272-4476-9e4e-28bd29c8876d
 :END:
 #+title: Mysteries of the Thargoids
-#+filetags: :Thargoid:galnet:
+#+filetags: :3308:Thargoid:galnet:
 
 * Mysteries of the Thargoids
 

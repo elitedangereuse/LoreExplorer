@@ -2,7 +2,7 @@
 :ID:       716c1745-83c1-4937-86ff-6a96efb945df
 :END:
 #+title: New Maelstroms Increase Thargoid Conquests
-#+filetags: :Empire:Federation:Thargoid:galnet:
+#+filetags: :3308:Empire:Federation:Thargoid:galnet:
 
 * New Maelstroms Increase Thargoid Conquests
 

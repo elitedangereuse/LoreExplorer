@@ -2,7 +2,7 @@
 :ID:       1c31ee10-915f-4760-b3c7-5dc9464245c2
 :END:
 #+title: Azimuth: ‘We Can Help D-2’
-#+filetags: :Thargoid:galnet:
+#+filetags: :3308:Thargoid:galnet:
 
 * Azimuth: ‘We Can Help D-2’
 

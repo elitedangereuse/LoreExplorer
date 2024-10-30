@@ -2,7 +2,7 @@
 :ID:       cf19ea9a-9f95-4c61-8a3c-d4cb27748b5d
 :END:
 #+title: Successful Mining Campaign Sustains Azimuth
-#+filetags: :Federation:Guardian:3308:galnet:
+#+filetags: :3308:Federation:Guardian:galnet:
 
 * Successful Mining Campaign Sustains Azimuth
 

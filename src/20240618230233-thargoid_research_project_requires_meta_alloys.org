@@ -2,7 +2,7 @@
 :ID:       3e7e3455-d13e-4cec-970c-fd0321dc8800
 :END:
 #+title: Thargoid Research Project Requires Meta-Alloys
-#+filetags: :Federation:Thargoid:galnet:
+#+filetags: :3308:Federation:Thargoid:galnet:
 
 * Thargoid Research Project Requires Meta-Alloys
 

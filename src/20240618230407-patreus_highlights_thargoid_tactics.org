@@ -2,7 +2,7 @@
 :ID:       4131e17b-7899-45ed-8b58-f53be28405d8
 :END:
 #+title: Patreus Highlights Thargoid Tactics
-#+filetags: :Empire:Thargoid:galnet:
+#+filetags: :3308:Empire:Thargoid:galnet:
 
 * Patreus Highlights Thargoid Tactics
 

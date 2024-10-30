@@ -2,7 +2,7 @@
 :ID:       a06930e3-dddb-4d56-b5e7-96ec04b18dbb
 :END:
 #+title: Refugees Flee from Thargoid Offensive
-#+filetags: :Thargoid:galnet:
+#+filetags: :3308:Thargoid:galnet:
 
 * Refugees Flee from Thargoid Offensive
 

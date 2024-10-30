@@ -2,7 +2,7 @@
 :ID:       dc4f9172-f30c-4679-bf03-e696bfdbe0be
 :END:
 #+title: Fears Rise of Thargoid Expansion
-#+filetags: :Federation:Thargoid:galnet:
+#+filetags: :3308:Federation:Thargoid:galnet:
 
 * Fears Rise of Thargoid Expansion
 
