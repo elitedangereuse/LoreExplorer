@@ -12,7 +12,7 @@
 
 A pulse wave xeno scanner upgrade that can detect human life signs on Thargoid Titans is now available. 
 
-Professor Alba Tesreau, head of Aegis, announced the campaign’s successful conclusion: 
+Professor [[id:c2623368-19b0-4995-9e35-b8f54f741a53][Alba Tesreau]], head of Aegis, announced the campaign’s successful conclusion: 
 
 “The upgraded pulse wave xeno scanner will isolate human life signs aboard the Titan motherships. If [[id:6bcd90ab-54f2-4d9a-9eeb-92815cc7766e][Seo Jin-ae]] is correct that some of our missing populations are being stored by the Thargoids, this could be the most important technological breakthrough in the war. I’m deeply grateful to all those who helped make it a reality.” 
 

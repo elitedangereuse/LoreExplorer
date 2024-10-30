@@ -10,7 +10,7 @@
 
 Aegis has announced the third phase of its programme to counter the Thargoid threat, and is once again turning to the galactic community for the necessary Thargoid-related materials. 
 
-As the campaign began, Aegis' Head of Research, Professor Alba Tesreau, released the following statement: 
+As the campaign began, Aegis' Head of Research, Professor [[id:c2623368-19b0-4995-9e35-b8f54f741a53][Alba Tesreau]], released the following statement: 
 
 "We are facing a technologically superior enemy, and it is essential that we redress the balance. But for each new device we develop, we need huge quantities of Thargoid material so we can calibrate the technology and ensure its efficacy." 
 

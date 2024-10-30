@@ -3,7 +3,7 @@
 :END:
 #+title: Alba Tesreau
 #+filetags: :Empire:Thargoid:KnowledgeBase:Individual:
-* Alba Tesreau
+* [[id:c2623368-19b0-4995-9e35-b8f54f741a53][Alba Tesreau]]
 
 #+begin_quote
 
@@ -22,10 +22,10 @@
   simply the most logical course. And yes, our recent experiences with
   the Thargoids have tested that faith. Harshly."
 
-  --- Alba Tesreau
+  --- [[id:c2623368-19b0-4995-9e35-b8f54f741a53][Alba Tesreau]]
 #+end_quote
 
-Professor Alba Tesreau is an Imperial scientist, an affiliate of the
+Professor [[id:c2623368-19b0-4995-9e35-b8f54f741a53][Alba Tesreau]] is an Imperial scientist, an affiliate of the
 Achenar Research Council and a founding member of the joint-superpower
 initiative Aegis, which was established in August 3303 to investigate
 the Thargoid menace. She currently serves as Aegis's head of research.
