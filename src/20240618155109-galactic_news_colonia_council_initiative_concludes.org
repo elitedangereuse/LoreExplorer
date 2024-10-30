@@ -8,7 +8,7 @@
 
 /03 Nov 3302/
 
-The Colonia Council has announced that its appeal for palladium was a resounding success, with hundreds of pilots delivering materials to Jaques Station in response to the request. The materials will be used to support further colonisation of the Colonia Nebula, and address the needs of the growing Colonia community. 
+The Colonia Council has announced that its appeal for palladium was a resounding success, with hundreds of pilots delivering materials to [[id:f37f17f1-8eb3-4598-93f7-190fe97438a1][Jaques]] Station in response to the request. The materials will be used to support further colonisation of the Colonia Nebula, and address the needs of the growing Colonia community. 
 
 A spokesperson for the organisation released a brief statement: 
 
@@ -16,4 +16,4 @@ A spokesperson for the organisation released a brief statement:
 
 "The future is here, and its name is Colonia." 
 
-Pilots who contributed to the initiative are now free to collect their rewards from Jaques Station in the Colonia system.
+Pilots who contributed to the initiative are now free to collect their rewards from [[id:f37f17f1-8eb3-4598-93f7-190fe97438a1][Jaques]] Station in the Colonia system.

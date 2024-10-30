@@ -12,7 +12,7 @@ Vox Galactica correspondent [[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sand
 
 “In the broad sense, there have been few significant changes in Thargoid tactics. The eight Maelstroms continue to send waves of Thargoid vessels deeper into the core systems. Anti-xeno forces are certainly winning victories, and in some cases retaking previously occupied systems. But we are still losing more than we save.” 
 
-“Despite being reformed only recently, Aegis has hit the ground running. Its caustic sink launcher is now available following a successful trial by Aden Tanner. This ingenious device increases the amount of time that a ship can spend inside a Maelstrom before being impaired by corrosive damage.” 
+“Despite being reformed only recently, Aegis has hit the ground running. Its caustic sink launcher is now available following a successful trial by [[id:7bca1ccd-649e-438a-ae56-fb8ca34e6440][Aden Tanner]]. This ingenious device increases the amount of time that a ship can spend inside a Maelstrom before being impaired by corrosive damage.” 
 
 “The repulsing energy wave at the clouds’ centres, however, remains impenetrable. I understand that Aegis has prioritised gathering data about this defence mechanism, and research is underway into possible countermeasures. Until more can be learned about the true nature of the Maelstroms, the chances of destroying them are virtually zero.” 
 

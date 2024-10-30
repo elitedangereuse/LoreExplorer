@@ -10,7 +10,7 @@
 
 *Pilots’ Federation ALERT* 
 
-The [[id:a152bfb8-4b9a-4b61-a292-824ecbd263e1][Affiliated Counter-Terrorism]] unit has acquired an encrypted message that may reveal Theta Seven’s location. 
+The [[id:a152bfb8-4b9a-4b61-a292-824ecbd263e1][Affiliated Counter-Terrorism]] unit has acquired an encrypted message that may reveal [[id:7878ad2d-4118-4028-bfff-90a3976313bd][Theta Seven]]’s location. 
 
 ACT successfully captured most of the bomb-making engineers known as Theta Group, and has now prioritised hunting down the NMLA’s de facto leader. 
 
@@ -20,7 +20,7 @@ This latest breakthrough was explained by Captain Milo Castile:
 
 “Unfortunately the message has been encrypted using a pre-arranged cipher key, without which its contents are unreadable. It is unclear why this wasn’t transmitted via the NMLA’s [[id:b58b26bb-8465-42a9-896c-4c0e97d20444][dark-comms]] network, which remains undetectable despite our best efforts.” 
 
-“As it’s possible that this was sent by Theta Seven, we welcome any assistance from the galactic community in decoding it. This ruthless terrorist must be tracked down before he can take more innocent lives.” 
+“As it’s possible that this was sent by [[id:7878ad2d-4118-4028-bfff-90a3976313bd][Theta Seven]], we welcome any assistance from the galactic community in decoding it. This ruthless terrorist must be tracked down before he can take more innocent lives.” 
 
 ACT has requested that all newsfeeds publish the encrypted message, which is as follows: 
 

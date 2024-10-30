@@ -4,13 +4,13 @@
 #+title: Freelance Report: Imperial Commanders Support Salomé
 #+filetags: :Empire:3303:galnet:
 
-* Freelance Report: Imperial Commanders Support Salomé
+* Freelance Report: Imperial Commanders Support [[id:2f09bc24-0885-4d00-9d1f-506b32464dbe][Salomé]]
 
 /01 Apr 3303/
 
-Reports have been received from Imperial space that many Imperial pilots are defying the standing kill-on-sight order on Commander Salomé, also known as Kahina Tijani Loren. The pilots pledging to support the disgraced senator are offering escort services and fuel, and have even promised to reward other Commanders willing to help. 
+Reports have been received from Imperial space that many Imperial pilots are defying the standing kill-on-sight order on Commander [[id:2f09bc24-0885-4d00-9d1f-506b32464dbe][Salomé]], also known as Kahina Tijani Loren. The pilots pledging to support the disgraced senator are offering escort services and fuel, and have even promised to reward other Commanders willing to help. 
 
-"The issue is that we are not in possession of the facts," said Commander Jayridium, who is offering up to 50 times the listed bounty to anyone who can arrange a meeting with Salomé. "I am joining the effort to protect her. The [[id:7401153d-d710-4385-8cac-aad74d40d853][truth]] must be heard!" 
+"The issue is that we are not in possession of the facts," said Commander Jayridium, who is offering up to 50 times the listed bounty to anyone who can arrange a meeting with [[id:2f09bc24-0885-4d00-9d1f-506b32464dbe][Salomé]]. "I am joining the effort to protect her. The [[id:7401153d-d710-4385-8cac-aad74d40d853][truth]] must be heard!" 
 
 Commander Jayridium joins several others in an effort to help [[id:2f09bc24-0885-4d00-9d1f-506b32464dbe][Salomé]] – an effort that could make them outcasts. 
 

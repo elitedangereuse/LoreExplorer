@@ -14,7 +14,7 @@ The level of anxiety is exemplified by political spokesperson Councillor Rasmus 
 
 “For months now, communities in the core systems have been living in a state of fear, wondering which will be the next to be targeted. The Thargoids have been striking at starports in the region one by one, and nobody is able to stop them! Why are the powers doing so little? Where are our defences, our fleets? Surely the core systems cannot be so vulnerable?” 
 
-Admiral Aden Tanner, chief military liaison for Aegis, directly addressed these concerns: 
+Admiral [[id:7bca1ccd-649e-438a-ae56-fb8ca34e6440][Aden Tanner]], chief military liaison for Aegis, directly addressed these concerns: 
 
 “Reports that the Thargoids are encroaching upon the core systems en masse are grossly overstated. Although they have crossed the threshold, all we have seen so far are localised incidents in fringe systems. This is not a full-scale invasion, and it does not warrant large fleet movements of the kind that have been suggested.” 
 

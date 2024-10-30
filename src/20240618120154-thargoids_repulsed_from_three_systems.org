@@ -14,7 +14,7 @@ Salvation’s anti-xeno superweapons have cleared most Thargoid vessels from the
 
 Pilots were asked to transport classified experimental equipment from the Heart of Taurus in the Qarato system to three other megaships owned by Taurus Mining Ventures. These components were used to prepare the large-scale weapons developed by [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]] to affect Thargoid technology. 
 
-Vox Galactica published an intercepted message from Commodore Morag Halloran, commanding officer of the Musashi, to the Bright Sentinel and Glorious Prospect megaships: 
+Vox Galactica published an intercepted message from Commodore [[id:bcaa9222-b056-41cf-9361-68dd8d3424fb][Morag Halloran]], commanding officer of the Musashi, to the Bright Sentinel and Glorious Prospect megaships: 
 
 “This is Halloran. Operation Tri-hammer has concluded with a code white-three-alpha. Estimated target destruction in Delphi is at 27%, with full dispersal of 98% of remaining hostiles. Scans underway for non-combatant disruption or casualties. Maia and Merope data to be submitted immediately to central analytics.”  
 

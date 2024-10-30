@@ -4,7 +4,7 @@
 #+title: Subject D-2 Rejects Azimuth
 #+filetags: :3308:Alliance:Thargoid:galnet:
 
-* Subject D-2 Rejects Azimuth
+* [[id:6bcd90ab-54f2-4d9a-9eeb-92815cc7766e][Subject D-2]] Rejects Azimuth
 
 /11 Oct 3308/
 
@@ -18,6 +18,6 @@ She is currently in the care of Professor [[id:c2623368-19b0-4995-9e35-b8f54f741
 
 Azimuth Biotech CEO [[id:78d58f4a-e080-4548-a2f0-9506b7b73674][Torben Rademaker]] expressed disappointment at the response, and cast doubt on [[id:6bcd90ab-54f2-4d9a-9eeb-92815cc7766e][Seo Jin-ae]]’s legitimacy: “In her fragile emotional state, D-2 may be vulnerable to coercion by Professor Tesreau and other ex-Aegis radicals. Our medical teams have access to records detailing the procedures Oaken Point surgeons were carrying out. It would be unwise of Tesreau to choose self-interest over the chance to truly heal D-2.” 
 
-In related news, several newsfeeds have reported an initial bump in public support for the reinstatement of Aegis. Following her attendance at the symposium, Deputy Prime Minister Angela Corcoran told the Old Worlds Gazette:  
+In related news, several newsfeeds have reported an initial bump in public support for the reinstatement of Aegis. Following her attendance at the symposium, Deputy Prime Minister [[id:82f88fe3-91eb-4e78-824e-ec809cb81ea9][Angela Corcoran]] told the Old Worlds Gazette:  
 
 “Operation Tyndareus has been initiated, with forces engaged in protecting the Andecavi system. Yet the Alliance should not rely exclusively on Sirius Corporation for anti-xeno defence. I believe that the return of Aegis is an option deserving serious consideration.”

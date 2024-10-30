@@ -10,7 +10,7 @@
 
 Following news that the Thargoids have attacked a Federal convoy in the Pleiades Sector IR-W d1-55 system, Aegis has recruited two of the galaxy’s foremost independent engineers to immediately begin developing new defensive and offensive technologies. 
 
-One of these engineers is Liz Ryder, a specialist in explosive weaponry, who spoke to [[id:be5df73c-519d-45ed-a541-9b70bc8ae97c][The Federal Times]] about her involvement: 
+One of these engineers is [[id:cb71ba02-e47b-4feb-a421-b1f2ecdce6f3][Liz Ryder]], a specialist in explosive weaponry, who spoke to [[id:be5df73c-519d-45ed-a541-9b70bc8ae97c][The Federal Times]] about her involvement: 
 
 “It’s not about penetrating the Thargoids’ shields – we’ve been blowing each other up for centuries so we’ve gotten pretty good at dealing punishment – it’s about creating weapons that are specifically calibrated to damage Thargoid hardware.” 
 
@@ -22,6 +22,6 @@ Professor [[id:8f63442a-1f38-457d-857a-38297d732a90][Ishmael Palin]], a leading 
 
 “My first task will be developing a scanner that can provide us with meaningful data on the Thargoids’ ships. Of course, to properly calibrate these new technologies we will need large quantities of Thargoid material.” 
 
-Aegis has placed an open order for a range of Thargoid materials for use in the programme. Aegis Core has pledged to reward pilots who deliver unknown technology samples, unknown biological matter, ancient relics and explosives to Awyra Flirble in the Eurybia system for Liz Ryder. Aegis Research has promised to reimburse Commanders who deliver unknown technology samples, unknown resin, computer components and resonating separators to Obsidian Orbital in the Maia system for [[id:8f63442a-1f38-457d-857a-38297d732a90][Ishmael Palin]]. 
+Aegis has placed an open order for a range of Thargoid materials for use in the programme. Aegis Core has pledged to reward pilots who deliver unknown technology samples, unknown biological matter, ancient relics and explosives to Awyra Flirble in the Eurybia system for [[id:cb71ba02-e47b-4feb-a421-b1f2ecdce6f3][Liz Ryder]]. Aegis Research has promised to reimburse Commanders who deliver unknown technology samples, unknown resin, computer components and resonating separators to Obsidian Orbital in the Maia system for [[id:8f63442a-1f38-457d-857a-38297d732a90][Ishmael Palin]]. 
 
 The campaign begins on the 21st of September and will run for one week. If the final target is met earlier than planned, the campaign will end immediately.

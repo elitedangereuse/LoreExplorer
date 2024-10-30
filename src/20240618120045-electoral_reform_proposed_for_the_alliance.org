@@ -8,7 +8,7 @@
 
 /16 Jun 3307/
 
-Councillor Nakato Kaine has suggested that the Alliance’s current electoral system should be replaced by direct public voting. 
+Councillor [[id:0d664f07-640e-4397-be23-6b52d2c2d4d6][Nakato Kaine]] has suggested that the Alliance’s current electoral system should be replaced by direct public voting. 
 
 The proposal follows a recent election where Prime Minister [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74][Edmund Mahon]] was reinstated for a second six-year term. 
 
@@ -16,7 +16,7 @@ Addressing the Alliance Assembly, Councillor Kaine said:
 
 “Only allowing council members to choose the prime minister is a flawed system, vulnerable to corruption and outside influence. The people of the Alliance should have a direct mandate to determine their leader by casting individual votes.” 
 
-Political journalist Vanya Driscoll reported for The Alliance Tribune: 
+Political journalist [[id:b26ee6ca-29a4-4dca-b69f-b4957b1ae650][Vanya Driscoll]] reported for The Alliance Tribune: 
 
 “Although Kaine stopped short of claiming that Mahon’s victory was achieved fraudulently, the Assembly took a dim view of this attempt at electoral overhaul. Some council members accused her of failing to accept that her policies received considerably less support than those of her rival.” 
 

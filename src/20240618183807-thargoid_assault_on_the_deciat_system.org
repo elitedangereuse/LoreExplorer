@@ -10,7 +10,7 @@
 
 An emergency report from Aegis confirms that the Thargoids have returned to the core systems with an incursion into the Deciat system. 
 
-Admiral Aden Tanner, Aegis’s chief military liaison, delivered this statement: 
+Admiral [[id:7bca1ccd-649e-438a-ae56-fb8ca34e6440][Aden Tanner]], Aegis’s chief military liaison, delivered this statement: 
 
 “Following the Thargoids’ retreat, all evidence suggested that their surface sites had become dormant. But new data from our Eagle Eye network shows that they have surged back to life, and that the star maps inside these structures are now pinpointing the Deciat system. It seems this was only a brief respite while they summoned reinforcements from the Pleiades.” 
 

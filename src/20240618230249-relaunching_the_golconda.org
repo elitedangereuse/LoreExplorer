@@ -14,7 +14,7 @@ Traders and combat pilots are required in the Upaniklis system to assist the [[i
 
 The ancient generation ship, which originated from Earth in the 22nd century, has been retrofitted by the Artificers Clan into a functional modern vessel. The majority of its former population have decided to leave the outpost Forester’s Choice and return to their traditional nomadic lifestyle. 
 
-Captain Jonathon Forester, leader of the [[id:fce1d147-f900-41ec-a92c-3ce3d1cae641][Golconda]] Union, announced: 
+Captain [[id:24bc363b-5b71-4968-96b9-2feae4296068][Jonathon Forester]], leader of the [[id:fce1d147-f900-41ec-a92c-3ce3d1cae641][Golconda]] Union, announced: 
 
 “In 3305 the galactic community provided us with the chance to end our original journey, so it will be fitting if they can help us start a new chapter among the stars. The [[id:fce1d147-f900-41ec-a92c-3ce3d1cae641][Golconda]] now has a frame shift drive that requires tritium fuel, and shipments of medical diagnostic equipment and power generators are also needed.” 
 

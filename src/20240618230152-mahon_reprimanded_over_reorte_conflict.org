@@ -12,7 +12,7 @@ The Alliance Assembly has delivered an official rebuke to its prime minister fol
 
 There have been heated debates following the conflict between Reorte Mining Coalition and Sirius Corporation. This was triggered by the megacorp’s unpopular attempt to establish a presence in the system as an anti-xeno defence partner. 
 
-Councillor Nakato Kaine led a motion to censure against Prime Minister Edmund Mahon, which successfully passed with a plurality of votes after some abstentions. The strongly-worded reprimand focused on ‘disregarding the Alliance’s principles by unilaterally forcing cooperation with Sirius Corporation’. 
+Councillor [[id:0d664f07-640e-4397-be23-6b52d2c2d4d6][Nakato Kaine]] led a motion to censure against Prime Minister [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74][Edmund Mahon]], which successfully passed with a plurality of votes after some abstentions. The strongly-worded reprimand focused on ‘disregarding the Alliance’s principles by unilaterally forcing cooperation with Sirius Corporation’. 
 
 After Mahon formally accepted the reprimand, Councillor Kaine addressed the Assembly: 
 

@@ -12,7 +12,7 @@
 
 A rogue Aegis Defense force has initiated conflict with Taurus Mining Ventures in the T Tauri system. 
 
-The megaship Musashi is commanded by Aegis’s chief military liaison Admiral Aden Tanner, who made this announcement: 
+The megaship Musashi is commanded by Aegis’s chief military liaison Admiral [[id:7bca1ccd-649e-438a-ae56-fb8ca34e6440][Aden Tanner]], who made this announcement: 
 
 “The Hind Mine asteroid base contains proof that [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]’s unlicensed anti-xeno weapon is intentionally designed to provoke the Thargoids, and therefore endangers us all. As Taurus Mining Ventures refuses to cooperate, we have no choice but to obtain the evidence by force.” 
 

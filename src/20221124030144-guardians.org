@@ -287,7 +287,7 @@ meaning that words and phrases were represented by single characters.
 ** Human-Guardian Contact
 In 3301, the Federal presidential vessel, Starship One, suffered
 catastrophic drive failure during a tour of frontier systems, resulting
-in the ship's destruction. Jasmina Halsey, at that time the Federal
+in the ship's destruction. [[id:a9ccf59f-436e-44df-b041-5020285925f8][Jasmina Halsey]], at that time the Federal
 president, was left drifting in an escape pod, unconcious. During this
 period of stasis, Halsey believed she was visited by trans-dimensional
 beings of extraordinary intelligence and compassion. Later, when she was
@@ -303,8 +303,8 @@ these sites were devoid of life led to speculation that Halsey had seen
 the Guardian worlds not as they are, but as they had been.
 
 In the months that followed, several further sites were found. The
-engineer Ram Tah started researching the Guardians, and eventually
+engineer [[id:4551539e-a6b2-4c45-8923-40fb603202b7][Ram Tah]] started researching the Guardians, and eventually
 succeeded in developing a decryption algorithm that could decode
 Guardian data, leading to a much deeper understanding of their lost
-civilisation. Since then, other engineers have leveraged Ram Tah's
+civilisation. Since then, other engineers have leveraged [[id:4551539e-a6b2-4c45-8923-40fb603202b7][Ram Tah]]'s
 discoveries to develop Guardian-human technology.

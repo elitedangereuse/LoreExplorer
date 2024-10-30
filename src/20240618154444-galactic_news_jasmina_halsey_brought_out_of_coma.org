@@ -3,7 +3,7 @@
 :END:
 #nyes
 
-+title: Galactic News: Jasmina Halsey Brought Out of Coma
++title: Galactic News: [[id:a9ccf59f-436e-44df-b041-5020285925f8][Jasmina Halsey]] Brought Out of Coma
 #+filetags: :Federation:3302:galnet:
 
 * Galactic News: [[id:a9ccf59f-436e-44df-b041-5020285925f8][Jasmina Halsey]] Brought Out of Coma

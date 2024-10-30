@@ -10,9 +10,9 @@
 
 Zachary Rackham has officially ended his election campaign, following the discovery of evidence that supported claims of his criminal past. 
 
-Federal Times journalist Bryanna Blanco published the results of an investigation by the Wallglass Investigations Agency, which included a message archive found on Zeta Trianguli Australis A 7 a. These findings strongly support a long-standing rumour that the trillionaire operated as notorious pirate lord ‘Calico Zack’, prior to inheriting his family’s wealth. 
+Federal Times journalist [[id:2d151711-b41e-452d-88fc-9ec34e317af9][Bryanna Blanco]] published the results of an investigation by the Wallglass Investigations Agency, which included a message archive found on Zeta Trianguli Australis A 7 a. These findings strongly support a long-standing rumour that the trillionaire operated as notorious pirate lord ‘Calico Zack’, prior to inheriting his family’s wealth. 
 
-PR consultant Anya Blackriver delivered a statement, in her role as campaign manager: 
+PR consultant [[id:464bcd90-c51a-4650-b5bb-83011a9dc5de][Anya Blackriver]] delivered a statement, in her role as campaign manager: 
 
 “Mr Rackham has decided that these attempts at defamation are a regrettable distraction from his election campaign. His amused tolerance of the nickname ‘Calico Zack’ – a nickname assigned to him by the media, I should point out – is not an admission of any true link to that despicable outlaw. Rather than allow the race for the Federal presidency to be clouded by these ridiculous claims, Mr Rackham’s legal team has advised a focus on defending his good name away from the spotlight.” 
 
@@ -22,4 +22,4 @@ Federation correspondent Patricia Chen reported on the situation for Vox Galacti
 
 “There is speculation Rackham was warned that any further revelations could render him unelectable to the majority – and open to criminal charges. While the Federal Times piece is mostly based on circumstantial evidence at this stage, Rackham’s willingness to concede his claim to the presidency suggests a nervousness towards deeper dives into his past. His business portfolio has also been severely damaged, causing billions of losses in share price. Investors and corporate partners are avoiding any association with the man who may once have been [[id:e26683e6-6b19-4671-8676-f333bd5e8ff7][Calico Zack]].” 
 
-“Both of his political rivals welcomed the news. ‘Nobody with even a hint of criminality deserves a position of such significant power,’ remarked former FIA director Jerome Archer, while [[id:b9fe58a3-dfb7-480c-afd6-92c3be841be7][Felicia Winters]] agreed it was best that Rackham ‘stands aside to let the grown-ups do their work.’ The electoral race is now evenly balanced between the two, with voting scheduled to take place in October.”
+“Both of his political rivals welcomed the news. ‘Nobody with even a hint of criminality deserves a position of such significant power,’ remarked former FIA director [[id:7bdfd887-d1db-46bc-98c4-2fb39bfcc914][Jerome Archer]], while [[id:b9fe58a3-dfb7-480c-afd6-92c3be841be7][Felicia Winters]] agreed it was best that Rackham ‘stands aside to let the grown-ups do their work.’ The electoral race is now evenly balanced between the two, with voting scheduled to take place in October.”

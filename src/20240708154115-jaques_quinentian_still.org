@@ -6,7 +6,7 @@
 
 #+begin_quote
 A pocket-sized one shot distillery, hand crafted by the legendary
-Cyborg bartender Jaques. This device is capable of turning almost any
+Cyborg bartender [[id:f37f17f1-8eb3-4598-93f7-190fe97438a1][Jaques]]. This device is capable of turning almost any
 combination of liquids into 10ml of highly concentrated alcohol in
 just 3 minutes.
 

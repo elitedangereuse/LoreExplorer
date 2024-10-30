@@ -4,15 +4,15 @@
 #+title: The Plot to Depose Archon Delaine
 #+filetags: :3308:galnet:
 
-* The Plot to Depose Archon Delaine
+* The Plot to Depose [[id:7aae0550-b8ba-42cf-b52b-e7040461c96f][Archon Delaine]]
 
 /01 Jun 3308/
 
-Further information has emerged regarding Vidar Trask’s failed attempt to take control of the Kumo Crew syndicate. 
+Further information has emerged regarding [[id:8d019f27-75a9-4758-8600-327aee0e2c41][Vidar Trask]]’s failed attempt to take control of the Kumo Crew syndicate. 
 
 The latest findings were reported by The Pegasi Sentinel: 
 
-“The few survivors from Trask’s shattered army have revealed that over a thousand fighters were supplied by the Blue Viper Club dredger clan. Kay Volantyne, one of its leaders, is now confirmed to have masterminded the coup alongside Trask.” 
+“The few survivors from Trask’s shattered army have revealed that over a thousand fighters were supplied by the Blue Viper Club dredger clan. [[id:a002575a-7b72-4d9b-8c76-e748073a8e3e][Kay Volantyne]], one of its leaders, is now confirmed to have masterminded the coup alongside Trask.” 
 
 “Their motivations were as different as their backgrounds. Trask rose to power beside [[id:7aae0550-b8ba-42cf-b52b-e7040461c96f][Archon Delaine]] but became frustrated under his rule, believing that he could reorganise the Kumo Crew along more efficient lines. Volantyne aimed to provide her nomadic tribe with permanent homes, to be financed by trafficking onionhead gamma strain and protected by the syndicate’s might.” 
 

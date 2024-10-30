@@ -16,6 +16,6 @@ Chancellor Blaine made an appearance before the Senate today in order to provide
 
 “Similarly, praise must go to Princess Lavigny, whose invaluable assistance in tracking down the conspirators led to the restoration of the Emperor’s justice in several dozen systems. A fact which I am sure will be of great comfort to those who were worried that the Duval legacy would be allowed to fall into ruin. Doubtless the Princess’s father would be extremely proud.” 
 
-“On that note, I am pleased to announce that His Grace, Emperor Hengist Duval, has begun to show signs of returning to good health. The Emperor’s personal physicians have assured me that should His Grace continue to heal at his current rate, the Emperor will almost certainly make a full recovery.” 
+“On that note, I am pleased to announce that His Grace, Emperor [[id:3cb0755e-4deb-442b-898b-3f0c6651636e][Hengist Duval]], has begun to show signs of returning to good health. The Emperor’s personal physicians have assured me that should His Grace continue to heal at his current rate, the Emperor will almost certainly make a full recovery.” 
 
 “Hail the Emperor, bask in his glory.”

@@ -4,6 +4,6 @@
 #+title: Jaques
 #+filetags: :Individual:
 
-Cyborg owner of the Jaques Station
+Cyborg owner of the [[id:f37f17f1-8eb3-4598-93f7-190fe97438a1][Jaques]] Station
 
 Hand crafter of the [[id:7bc64134-1b44-40c6-b697-819a8bc1ae3b][Jaques Quinentian Still]]

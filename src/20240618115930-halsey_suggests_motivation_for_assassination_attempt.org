@@ -9,7 +9,7 @@
 
 /29 Jan 3307/
 
-At the trial of Fleet Admiral Vincent, former President [[id:a9ccf59f-436e-44df-b041-5020285925f8][Jasmina Halsey]] has revealed possible reasons behind the sabotage of Starship One in 3301. 
+At the trial of Fleet [[id:478137a2-59fc-4055-ba37-021ef7035652][Admiral Vincent]], former President [[id:a9ccf59f-436e-44df-b041-5020285925f8][Jasmina Halsey]] has revealed possible reasons behind the sabotage of Starship One in 3301. 
 
 Crime correspondent Ethan Takahashi reported from the Federal High Court: 
 
@@ -17,6 +17,6 @@ Crime correspondent Ethan Takahashi reported from the Federal High Court:
 
 “At the meeting, Halsey explained that she had been inspired by various peace activists to refocus on the wellbeing of citizens. She planned to reduce taxes, invest in social infrastructure and slash Federal Navy spending. As yet this was only a preliminary plan, to be implemented later that year.” 
 
-“Halsey told the court that only a dozen officials were present at this meeting, including Fleet Admiral Vincent. All were told that this forthcoming sea change in policy was confidential, but to expect major budget changes in the coming months.” 
+“Halsey told the court that only a dozen officials were present at this meeting, including Fleet [[id:478137a2-59fc-4055-ba37-021ef7035652][Admiral Vincent]]. All were told that this forthcoming sea change in policy was confidential, but to expect major budget changes in the coming months.” 
 
 “The prosecution counsel stated that Vincent was therefore aware that naval defunding was imminent, something which would reduce his personal influence. It would also impact powerful individuals who Vincent was illegally connected to, evidence of which would be presented in due course.”

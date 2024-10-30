@@ -12,11 +12,11 @@ The Empire has revealed new evidence that suggests the [[id:dbfbb5eb-82a2-43c8-a
 
 A report from the Imperial Internal Security Service stated: 
 
-“With information provided by the engineer Liz Ryder, we located an abandoned workshop where explosives had been constructed using her blueprints. Traces were found of Thargoid caustic enzymes, matching the payloads delivered during the starport bombings.” 
+“With information provided by the engineer [[id:cb71ba02-e47b-4feb-a421-b1f2ecdce6f3][Liz Ryder]], we located an abandoned workshop where explosives had been constructed using her blueprints. Traces were found of Thargoid caustic enzymes, matching the payloads delivered during the starport bombings.” 
 
 “Micro-signage on cargo containers identified bulk deliveries of equipment from a Federal system in neutral space, where we believe the [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] has a second bomb-making facility. IISS agents are currently investigating to confirm these findings.” 
 
-Federal Ambassador Jordan Rochester refuted these allegations: 
+Federal Ambassador [[id:81c5c161-1553-44f0-b5fb-c4a58f1f71d7][Jordan Rochester]] refuted these allegations: 
 
 “The suggestion that we’re responsible for the Empire’s home-grown extremists is laughable. As with their persecution of Marlinists, this is another excuse for an inability to solve their own problems.” 
 

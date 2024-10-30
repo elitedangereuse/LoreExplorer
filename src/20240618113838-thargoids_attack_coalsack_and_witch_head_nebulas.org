@@ -17,7 +17,7 @@ In what appears to be a coordinated strike, Thargoid scouts and interceptors hav
 
 The Alliance has a considerable presence in these regions, with four starports recently constructed in the Coalsack Nebula. But the [[id:17d9294e-7759-4cf4-9a67-5f12b5704f51][Alliance Defence Force]] has not been able to mobilise in time to prevent some systems from becoming infested with Thargoids. 
 
-Admiral Aden Tanner, chief military liaison for Aegis, made this announcement: 
+Admiral [[id:7bca1ccd-649e-438a-ae56-fb8ca34e6440][Aden Tanner]], chief military liaison for Aegis, made this announcement: 
 
 “This is a resurgence of Thargoid activity on a scale that we have not witnessed for a long time. Unfortunately, drastic reductions in funding and resources mean that Aegis is unable to provide adequate defensive measures.” 
 

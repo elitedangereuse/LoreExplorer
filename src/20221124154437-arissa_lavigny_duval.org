@@ -4,7 +4,7 @@
 #+title: Arissa Lavigny-Duval
 #+filetags: :Empire:Federation:KnowledgeBase:Codex:Individual:
 
-* Arissa Lavigny-Duval
+* [[id:34f3cfdd-0536-40a9-8732-13bf3a5e4a70][Arissa Lavigny-Duval]]
 
 #+begin_quote
 
@@ -31,7 +31,7 @@
   cast it aside. To the worms nesting so complacently in the heart of my
   beloved Empire, I say this: we see you, and we are coming for you."
 
-  --- Arissa Lavigny-Duval, private speech given at her post-coronation
+  --- [[id:34f3cfdd-0536-40a9-8732-13bf3a5e4a70][Arissa Lavigny-Duval]], private speech given at her post-coronation
   dinner
 #+end_quote
 
@@ -39,7 +39,7 @@ Arissa Lavigny-Duval is the reigning Emperor, having been appointed to
 the position by the Imperial Senate, and a direct descendant of the
 first Emperor, Henson Duval. Her father was originally thought to be the
 late Prince Aristide de Lavigny, but Arissa's claim to be the
-illegitimate daughter of Emperor Hengist Duval has since been ratified
+illegitimate daughter of Emperor [[id:3cb0755e-4deb-442b-898b-3f0c6651636e][Hengist Duval]] has since been ratified
 by DNA testing.
 
 Arissa distinguished herself as a serving senator early in life. Unlike

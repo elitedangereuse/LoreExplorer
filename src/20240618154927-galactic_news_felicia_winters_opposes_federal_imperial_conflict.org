@@ -10,7 +10,7 @@
 
 At a rally on Mars in the Sol system, Federal Shadow President [[id:b9fe58a3-dfb7-480c-afd6-92c3be841be7][Felicia Winters]] has addressed the escalating tension between the Federation and the Empire. 
 
-While careful not to criticise Federal President Zachary Hudson, Winters made her position on the ongoing Federal-Imperial conflict clear. Addressing citizens who had gathered to support her, the shadow president said: 
+While careful not to criticise Federal President [[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][Zachary Hudson]], Winters made her position on the ongoing Federal-Imperial conflict clear. Addressing citizens who had gathered to support her, the shadow president said: 
 
 "I may disagree with [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74][Edmund Mahon]] on a number of issues, but I share his views on the current political climate." 
 

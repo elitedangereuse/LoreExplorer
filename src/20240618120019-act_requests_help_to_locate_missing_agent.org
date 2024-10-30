@@ -12,9 +12,9 @@
 
 Assistance is needed to track down an ACT operative who vanished while on a mission to identify [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] suppliers. 
 
-The missing agent is Captain Niamh Seutonia of the Imperial Internal Security Service, one of the joint leaders of the anti-NMLA intelligence unit. She was following up on clues resulting from analysis of the ‘Nine Martyrs’ starport bombings. 
+The missing agent is Captain [[id:cdaa5220-8f79-47dc-b160-a5d3d1ca30a0][Niamh Seutonia]] of the Imperial Internal Security Service, one of the joint leaders of the anti-NMLA intelligence unit. She was following up on clues resulting from analysis of the ‘Nine Martyrs’ starport bombings. 
 
-Senior Agent Tanya Ramirez, a co-leader of ACT, gave this statement: 
+Senior Agent [[id:fb74a286-1688-41e8-9bec-9ef14adaaf1f][Tanya Ramirez]], a co-leader of ACT, gave this statement: 
 
 “Captain Seutonia and her team were travelling on an Anaconda-class vessel named the Valkyrie. Mission details are scarce as information was compartmentalised for security, but she was investigating a minor faction that may be supplying the NMLA.” 
 

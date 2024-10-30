@@ -12,7 +12,7 @@
 
 A mining initiative is being held in the LHS 3872 system, as Torval Mining Ltd welcomes its new CEO. 
 
-Senator Zemina Torval, owner of the Imperial company until recently, has formally transferred her controlling shares to her eldest daughter. Constantia Torval was already director of operations, but will now oversee all corporate decision making from the highest chair. 
+Senator [[id:d8e3667c-3ba1-43aa-bc90-dac719c6d5e7][Zemina Torval]], owner of the Imperial company until recently, has formally transferred her controlling shares to her eldest daughter. Constantia Torval was already director of operations, but will now oversee all corporate decision making from the highest chair. 
 
 From the press suite on Curbeam Hub starport, Ms Torval gave an announcement from the megaship Zetian’s Recall: 
 
@@ -24,4 +24,4 @@ From the press suite on Curbeam Hub starport, Ms Torval gave an announcement fro
 
 Anton Lagorio, business correspondent for The Imperial Herald, reported: 
 
-“This announcement confirms rumours that Constantia Torval had been allowed to take the reins in managing the family company. Under her guidance, Torval Mining Ltd has expanded its sphere of operations and obtained many lucrative new contracts. Whereas Zemina Torval’s policy was to manage as much as possible in-house, her daughter seems keen to build corporate relationships with subsidiaries within the Empire.”
+“This announcement confirms rumours that Constantia Torval had been allowed to take the reins in managing the family company. Under her guidance, Torval Mining Ltd has expanded its sphere of operations and obtained many lucrative new contracts. Whereas [[id:d8e3667c-3ba1-43aa-bc90-dac719c6d5e7][Zemina Torval]]’s policy was to manage as much as possible in-house, her daughter seems keen to build corporate relationships with subsidiaries within the Empire.”

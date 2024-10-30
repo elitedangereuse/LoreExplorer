@@ -10,7 +10,7 @@
 
 Aegis has confirmed that the Thargoid presence in the core systems has been significantly diminished, due largely to the efforts of the galactic community. 
 
-Admiral Aden Tanner, chief military liaison with Aegis, made this statement: 
+Admiral [[id:7bca1ccd-649e-438a-ae56-fb8ca34e6440][Aden Tanner]], chief military liaison with Aegis, made this statement: 
 
 “This is a very positive development. Using data from our Eagle Eye network, courageous members of the galactic community have formed a barrier of steel and fire, preventing Thargoid vessels from encroaching further. In doing so they have prevented several starports from being attacked, saving many thousands of lives.” 
 

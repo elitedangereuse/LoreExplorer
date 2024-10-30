@@ -12,7 +12,7 @@
 
 The Alliance, Empire and Federation are offering bounties on Thargoid vessels in the Didio, Novas and Sosong systems. 
 
-Commodore Morag Halloran, who coordinates [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]’s military forces, broadcast this message on public channels: 
+Commodore [[id:bcaa9222-b056-41cf-9361-68dd8d3424fb][Morag Halloran]], who coordinates [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]’s military forces, broadcast this message on public channels: 
 
 “Salvation has started construction of three anti-xeno superweapons to expunge the latest Thargoid infestation. He estimates two more weeks before these devices become operational. Until that time, it is vital that we keep the Thargoids at bay to minimise civilian casualties.” 
 
@@ -22,4 +22,4 @@ Commanders can hand in combat bonds for Thargoid kills until the 12th of May 330
 
 Each superpower has also deployed a capital ship to the invaded systems: the Allied megaship Salote Charm in Didio, the Majestic-class interdictor INV Succession in Novas, and the Farragut-class battle cruiser FNS Amphion in Sosong. 
 
-Jade Sanderlyn, a reporter for Vox Galactica, has been granted permission to interview the admirals in command of the taskforces. Her conversations with Henry Paul Atherton, Maxton Price and Rachel Ziegler are being broadcast by the capital ships and will be syndicated via newsfeeds.
+Jade Sanderlyn, a reporter for Vox Galactica, has been granted permission to interview the admirals in command of the taskforces. Her conversations with [[id:2b3e8681-1d08-450e-ad9f-fe5179104b36][Henry Paul Atherton]], Maxton Price and Rachel Ziegler are being broadcast by the capital ships and will be syndicated via newsfeeds.

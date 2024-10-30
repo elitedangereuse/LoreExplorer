@@ -12,13 +12,13 @@
 
 Conflict between Keltim Empire League and Eurybia Blue Mafia in the Eurybia system. 
 
-Explosive devices used in recent terrorist attacks on four Imperial starports have been linked to Liz Ryder, an engineer based in the Eurybia system. 
+Explosive devices used in recent terrorist attacks on four Imperial starports have been linked to [[id:cb71ba02-e47b-4feb-a421-b1f2ecdce6f3][Liz Ryder]], an engineer based in the Eurybia system. 
 
 The Imperial Internal Security Service published this report: 
 
 “Analysis of station traffic revealed that the explosives were delivered on cargo transports linked to the Eurybia Blue Mafia, a notorious anarchist organisation that we have reason to believe is secretly supplying the NMLA.” 
 
-“The Eurybia Blue Mafia is protecting demolitions expert Liz Ryder, who we strongly suspect designed the specialist weapons used in the starport bombings. As they have refused to cooperate, a state of war has been declared until she is surrendered to our custody.” 
+“The Eurybia Blue Mafia is protecting demolitions expert [[id:cb71ba02-e47b-4feb-a421-b1f2ecdce6f3][Liz Ryder]], who we strongly suspect designed the specialist weapons used in the starport bombings. As they have refused to cooperate, a state of war has been declared until she is surrendered to our custody.” 
 
 “Our affiliate faction, the Keltim Empire League, has requested the support of independent pilots against any resisting anarchist forces.” 
 

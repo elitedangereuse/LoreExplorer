@@ -4,7 +4,7 @@
 #+title: Edmund Mahon
 #+filetags: :Federation:Alliance:KnowledgeBase:Codex:Individual:
 
-* Edmund Mahon
+* [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74][Edmund Mahon]]
 
 #+begin_quote
 
@@ -26,7 +26,7 @@
   enter into a contract without being of sound mind, acting without
   coercion."
 
-  --- Edmund Mahon, responding to a question from Jessica Braganza, one
+  --- [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74][Edmund Mahon]], responding to a question from Jessica Braganza, one
   of a party of schoolchildren visiting the Prime Minister's residence
 #+end_quote
 

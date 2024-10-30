@@ -12,7 +12,7 @@ The Alliance Assembly has voted to make a contribution to Aegis if the agency is
 
 Prime Minister [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74][Edmund Mahon]] made an official announcement: 
 
-“Emperor Arissa Lavigny-Duval’s change of heart regarding anti-xeno collaboration has triggered swift action from Alliance systems. The Assembly has re-appraised a bill proposed last November by Deputy Prime Minister Angela Corcoran, seeking to approve Aegis’s reformation. A majority vote has now passed that bill.” 
+“Emperor [[id:34f3cfdd-0536-40a9-8732-13bf3a5e4a70][Arissa Lavigny-Duval]]’s change of heart regarding anti-xeno collaboration has triggered swift action from Alliance systems. The Assembly has re-appraised a bill proposed last November by Deputy Prime Minister [[id:82f88fe3-91eb-4e78-824e-ec809cb81ea9][Angela Corcoran]], seeking to approve Aegis’s reformation. A majority vote has now passed that bill.” 
 
 “The Alliance will therefore commit ships, resources and personnel to a collaborative anti-xeno agency. We will also share Thargoid-related intelligence and scientific data to a central database shared with the Empire and Federation.” 
 

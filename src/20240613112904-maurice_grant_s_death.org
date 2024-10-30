@@ -3,7 +3,7 @@
 :END:
 #+title: Maurice Grant's Death
 #+filetags: :Federation:beacon:
-* 0191 Maurice Grant's Death
+* 0191 [[id:7770fe09-573e-41f0-a05c-e3cb38b682f6][Maurice Grant]]'s Death
 [[id:d7fab9bb-976b-4012-a181-af389e9a2396][Ross 128]]
 
 In 2905, the Federation answered a plea to restore order in

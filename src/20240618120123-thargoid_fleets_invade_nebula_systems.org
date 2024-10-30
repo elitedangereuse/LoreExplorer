@@ -16,7 +16,7 @@ An emergency has been declared by the authorities in multiple systems including 
 
 Increased Thargoid activity has also been reported in the California and Coalsack Nebulas. Independent pilots and anti-xeno squadrons are moving to defend the invaded systems and evacuate survivors from damaged starports. 
 
-Aegis is not currently able to assist, as the operational shutdown enforced by the public inquiry has led to many ships and pilots being withdrawn from service. Admiral Aden Tanner, chief military liaison to Aegis, commented:  
+Aegis is not currently able to assist, as the operational shutdown enforced by the public inquiry has led to many ships and pilots being withdrawn from service. Admiral [[id:7bca1ccd-649e-438a-ae56-fb8ca34e6440][Aden Tanner]], chief military liaison to Aegis, commented:  
 
 “Many of us in Aegis are frustrated that the Baumann Report has tied our hands. I am also convinced that these Thargoids are reacting aggressively to the weapon of mass destruction that [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]] deployed in the Cornsar system. Not only should we be fighting the alien threat, but Salvation must be prevented from escalating the war.” 
 

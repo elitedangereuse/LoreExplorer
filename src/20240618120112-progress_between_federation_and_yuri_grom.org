@@ -4,7 +4,7 @@
 #+title: Progress Between Federation and Yuri Grom
 #+filetags: :3307:Federation:galnet:
 
-* Progress Between Federation and Yuri Grom
+* Progress Between Federation and [[id:b4892958-b513-46dc-b74e-26887b53f678][Yuri Grom]]
 
 /24 Sep 3307/
 
@@ -18,4 +18,4 @@ Political correspondent Conrad Sterling published an update for Vox Galactica:
 
 “What was unexpected was the mutual respect that gradually developed between [[id:b4892958-b513-46dc-b74e-26887b53f678][Yuri Grom]] and Ambassador Delphine Dumont. Her charming manner clearly appealed to the dictator, even bringing forth his thunderous laughter on occasion.” 
 
-“A deal is now being discussed that would allow the Autocracy of Delta Pavonis to have trade and political ties with both parties while remaining independent. Perhaps the Federation has learned some lessons from the recent rebellion, and perhaps Yuri Grom’s hatred of the superpower he once served is finally abating.”
+“A deal is now being discussed that would allow the Autocracy of Delta Pavonis to have trade and political ties with both parties while remaining independent. Perhaps the Federation has learned some lessons from the recent rebellion, and perhaps [[id:b4892958-b513-46dc-b74e-26887b53f678][Yuri Grom]]’s hatred of the superpower he once served is finally abating.”

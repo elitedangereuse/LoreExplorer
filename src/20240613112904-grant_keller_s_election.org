@@ -3,7 +3,7 @@
 :END:
 #+title: Grant Keller's Election
 #+filetags: :Empire:Federation:beacon:
-* 0192 Grant Keller's Election
+* 0192 [[id:dd3d131b-d60c-41fe-94c8-b850622bb22a][Grant Keller]]'s Election
 [[id:77a7a843-4242-4da8-a764-c1525e6ceefe][Ackwada]]
 
 The election of [[id:dd3d131b-d60c-41fe-94c8-b850622bb22a][Grant Keller]] in 2976 saw a change tp Federal

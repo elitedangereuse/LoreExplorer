@@ -3,7 +3,7 @@
 :END:
 #+title: Aisling Duval
 #+filetags: :3301:Empire:Federation:KnowledgeBase:Individual:
-* Aisling Duval
+* [[id:b402bbe3-5119-4d94-87ee-0ba279658383][Aisling Duval]]
 
 #+begin_quote
 
@@ -27,10 +27,10 @@
   what they think doesn't matter, because the responsibility rests with
   you. If you know it's wrong, then you have to smash it. On purpose."
 
-  --- Aisling Duval, A Fireside Chat with Serena, 3301
+  --- [[id:b402bbe3-5119-4d94-87ee-0ba279658383][Aisling Duval]], A Fireside Chat with Serena, 3301
 #+end_quote
 
-Princess Aisling Duval, born in 3276, is a prominent member of the
+Princess [[id:b402bbe3-5119-4d94-87ee-0ba279658383][Aisling Duval]], born in 3276, is a prominent member of the
 Imperial Royal family. The eldest child of the infamous Prince Harold,
 she had a troubled upbringing. Her father was notorious for his
 hedonistic lifestyle, while her mother, entertainer Imogen 'Eccentrica'
@@ -62,8 +62,8 @@ vacuity is nothing but a front, carefully created in collusion with the
 very advisors whom others believe are exploiting her. The 'people's
 princess', they argue, is exceptionallly good at being underestimated.
 
-Following the death of Hengist Duval in 3301, Aisling was considered by
+Following the death of [[id:3cb0755e-4deb-442b-898b-3f0c6651636e][Hengist Duval]] in 3301, Aisling was considered by
 many to be a viable contender for the Imperial throne. As Aisling was
 born out of wedlock, however, and her father was removed from the line
-of succession on the grounds of mental incapacity, Arissa Lavigny-Duval
+of succession on the grounds of mental incapacity, [[id:34f3cfdd-0536-40a9-8732-13bf3a5e4a70][Arissa Lavigny-Duval]]
 was deemed to have the stronger claim.

@@ -4,7 +4,7 @@
 #+title: Hengist Duval
 #+filetags: :3301:Empire:Federation:KnowledgeBase:Codex:Individual:
 
-* Hengist Duval
+* [[id:3cb0755e-4deb-442b-898b-3f0c6651636e][Hengist Duval]]
 Hengist Duval (3164-3301) was the 15th ruler of the Empire. He was
 [[id:a8068e9d-6706-47da-a19c-2ac943ea8811][assassinated]] on the day of his wedding to [[id:33f63de9-fd79-4790-a1a5-ebd87aaeea2d][Florence Lavigny]].
 
@@ -52,7 +52,7 @@ philanderer, and which eventually resulted in his exclusion from the
 succession on the grounds of mental incapacity.
 
 Towards the end of Hengist's life, it emerged that Arissa Lavigny, the
-daughter of Florence Lavigny, was in fact his daughter. Hengist intended
+daughter of [[id:33f63de9-fd79-4790-a1a5-ebd87aaeea2d][Florence Lavigny]], was in fact his daughter. Hengist intended
 to strengthen her claim to the throne by marrying Florence, thus
 legitimising Arissa, but he was assassinated before this could take
 place.

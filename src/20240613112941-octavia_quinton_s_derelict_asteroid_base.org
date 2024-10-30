@@ -3,7 +3,7 @@
 :END:
 #+title: Octavia Quinton's Derelict Asteroid Base
 #+filetags: :3300:beacon:
-* 0500 Octavia Quinton's Derelict Asteroid Base
+* 0500 [[id:4cd2cbf1-0257-4c0f-b5eb-46e96661b509][Octavia Quinton]]'s Derelict Asteroid Base
 [[id:377aeee7-ee8d-46b8-a9c6-c81b1b76c8af][Suijin]]
 
 A ruined base left over from events in 3300. The base was rumoured to

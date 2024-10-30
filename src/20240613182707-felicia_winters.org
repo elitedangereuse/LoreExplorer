@@ -4,7 +4,7 @@
 #+title: Felicia Winters
 #+filetags: :3301:Federation:Alliance:Thargoid:Codex:KnowledgeBase:Individual:
 
-* Felicia Winters
+* [[id:b9fe58a3-dfb7-480c-afd6-92c3be841be7][Felicia Winters]]
 
 #+begin_quote
 
@@ -33,7 +33,7 @@
 
   "The people are ready for us -- let us be ready for them."
 
-  --- Felicia Winters, Liberal Party annual address, 3303
+  --- [[id:b9fe58a3-dfb7-480c-afd6-92c3be841be7][Felicia Winters]], Liberal Party annual address, 3303
 #+end_quote
 
 Felicia Winters is the head of the Liberal Party of the Federation, and
@@ -45,7 +45,7 @@ colonies, and worked for the Sirius Corporation before going into
 politics full time at the age of 44.
 
 Her current role was thrust upon her unexpectedly. Prior to 3301,
-Winters was Secretary of State to then president Jasmina Halsey. When
+Winters was Secretary of State to then president [[id:a9ccf59f-436e-44df-b041-5020285925f8][Jasmina Halsey]]. When
 both Halsey and Vice-President Ethan Naylor went missing aboard Starship
 One, Winters became acting President. The assumption of this
 responsibility left her visibly shaken, and despite her popularity in
@@ -62,7 +62,7 @@ maintaining a front of public solidarity. Consequently, she found
 herself responsible for a party whose voter base had largely deserted
 it, and whose values had slipped out of alignment with her own.
 
-Shortly after Halsey's disappearance, Zachary Hudson called for an
+Shortly after Halsey's disappearance, [[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][Zachary Hudson]] called for an
 emergency vote of no confidence that he resoundingly won, resulting in
 his appointment to the role of president. Given the massive support for
 Hudson and the disarray among the Liberals, Winters was expected to

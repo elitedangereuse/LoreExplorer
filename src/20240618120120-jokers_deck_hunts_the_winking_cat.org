@@ -4,7 +4,7 @@
 #+title: Jokers’ Deck Hunts the Winking Cat
 #+filetags: :3307:galnet:
 
-* Jokers’ Deck Hunts the Winking Cat
+* Jokers’ Deck Hunts the [[id:b9519a7c-f00b-4a57-9bcf-964258bdd2d8][Winking Cat]]
 
 /19 Oct 3307/
 
@@ -12,12 +12,12 @@ Francesca Wolfe of the Wallglass Investigations Agency has sent a final report f
 
 “The bad news is that Jokers’ Deck security caught up with me as I was trying to sneak onboard a ship to get off-planet. The good news is that they didn’t gun me down, or even threaten to press charges. Instead, they offered me a job!” 
 
-“Lexi October, the current host, was surprisingly gracious. Turns out she’s a fan of the Galactic Mysteries pieces that Gunnarson and I run, but more importantly, she believes we could give her what she really wants – the Winking Cat.” 
+“Lexi October, the current host, was surprisingly gracious. Turns out she’s a fan of the Galactic Mysteries pieces that Gunnarson and I run, but more importantly, she believes we could give her what she really wants – the [[id:b9519a7c-f00b-4a57-9bcf-964258bdd2d8][Winking Cat]].” 
 
 “She explained that the Joker playing card that was stolen is hugely symbolic to the group, having belonged to its original founder. She also assured me that Jokers’ Deck is extremely private but not criminal. Its members sign legal waivers, and there is a strict honour code to ensure all bets are paid.” 
 
-“So, Lexi October wants to hire us to track down the infamous Winking Cat thief and retrieve the ceremonial playing card. This may also be a way for her to save face with her fellow super-rich gamblers, who are understandably unhappy about the exposure.” 
+“So, Lexi October wants to hire us to track down the infamous [[id:b9519a7c-f00b-4a57-9bcf-964258bdd2d8][Winking Cat]] thief and retrieve the ceremonial playing card. This may also be a way for her to save face with her fellow super-rich gamblers, who are understandably unhappy about the exposure.” 
 
 Erik Gunnarson, Wolfe’s detective partner, added: 
 
-“It’s a huge relief that Wolfe is safe, but what has she got us into now? Will we really be able to catch the Winking Cat? I wouldn’t bet on it.”
+“It’s a huge relief that Wolfe is safe, but what has she got us into now? Will we really be able to catch the [[id:b9519a7c-f00b-4a57-9bcf-964258bdd2d8][Winking Cat]]? I wouldn’t bet on it.”

@@ -4,7 +4,7 @@
 #+title: Zemina Torval
 #+filetags: :Empire:Federation:Alliance:KnowledgeBase:Codex:Individual:
 
-* Zemina Torval
+* [[id:d8e3667c-3ba1-43aa-bc90-dac719c6d5e7][Zemina Torval]]
 
 #+begin_quote
 
@@ -25,7 +25,7 @@
   and give everyone a tiny piece. But then the beautiful stone would be
   gone, and nobody could ever wear it again."
 
-  --- Zemina Torval, midwinter address to the Bitterwood Children, 3303
+  --- [[id:d8e3667c-3ba1-43aa-bc90-dac719c6d5e7][Zemina Torval]], midwinter address to the Bitterwood Children, 3303
 #+end_quote
 
 Zemina Torval is an Imperial senator with an immense personal fortune

@@ -16,6 +16,6 @@ Vanya Driscoll, political correspondent for The Alliance Tribune, reported:
 
 “With hindsight it’s clear that Mahon was prioritising the Sirius Treaty, a detailed proposal to unite the superpowers against the Thargoids. Unfortunately, the Galactic Summit was prematurely halted by the ‘Nine Martyrs’ bombings before the treaty could be agreed.” 
 
-“Although there are several candidates, Mahon’s only serious challenger is Councillor Nakato Kaine. She has been a vocal critic of his expansionist policies, and gained much public support for her focus on boosting trade between Alliance systems.” 
+“Although there are several candidates, Mahon’s only serious challenger is Councillor [[id:0d664f07-640e-4397-be23-6b52d2c2d4d6][Nakato Kaine]]. She has been a vocal critic of his expansionist policies, and gained much public support for her focus on boosting trade between Alliance systems.” 
 
 “Electoral votes will be cast by members of the Alliance Assembly, whose decisions reflect popular opinion in their constituencies. No previous prime minister has served more than a single term, so it remains to be seen whether Mahon will defy precedent or Kaine will follow the pattern of history.”

@@ -9,18 +9,18 @@
 
 Vox Galactica has released an in-depth piece about the economic impact of the Thargoid war on the galaxy’s superpowers. 
 
-Senior Political Journalist Vanya Driscoll compiled the piece over several months after witnessing the increasing strain and instability in systems galaxy-wide. The report boasts interviews with high-ranking individuals across the galaxy, talking candidly about the impact of the war. 
+Senior Political Journalist [[id:b26ee6ca-29a4-4dca-b69f-b4957b1ae650][Vanya Driscoll]] compiled the piece over several months after witnessing the increasing strain and instability in systems galaxy-wide. The report boasts interviews with high-ranking individuals across the galaxy, talking candidly about the impact of the war. 
 
 Excerpts from the piece follow. 
 
-Federation Vice President Jerome Archer said, when asked about strain in Federation space: 
+Federation Vice President [[id:7bdfd887-d1db-46bc-98c4-2fb39bfcc914][Jerome Archer]] said, when asked about strain in Federation space: 
 
 “The Federation has put a lot of resources into ending the war as quickly as possible, but that inevitably spreads what we have left thin. Because of that, we’ve seen more and more opportunistic attacks on systems in our space and we’ve nullified just as many threats through the PDB. Every citizen deserves protection, and any criminal that thinks exploiting a state of war is smart will pay dearly when things return to normal.” 
 
-By contrast, when asked about fragility from the war in Empire space, Senator Zemina Torval said: 
+By contrast, when asked about fragility from the war in Empire space, Senator [[id:d8e3667c-3ba1-43aa-bc90-dac719c6d5e7][Zemina Torval]] said: 
 
 “What fragility? The Empire persists as it always has, war or no, because we understand more than the Federation or Alliance how to govern. When a body is trying to burn out an infection, how does it do so? Does it keep blood flowing throughout the whole body and hope that everything will work out. No! It keeps the vital organs warm first. If the extremities feel cold, it is the small and temporary price to pay for an organism that survives. So, too, do we guarantee the Empire’s survival. There is an infection in the universe, but so long as the vital governance of the Empire is maintained then we are as strong as ever.” 
 
-On being questioned about the war’s impact on the Alliance, Prime Minister Edmund Mahon had this to say: 
+On being questioned about the war’s impact on the Alliance, Prime Minister [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74][Edmund Mahon]] had this to say: 
 
 “It is impossible to separate the financial impact we’re seeing from the human impact. Any damage to an economy is damage to its citizens, and that should never be forgotten. The Alliance is strained as any other superpower is, but our democracy is our strength, and it is that mutual support that has led to our citizens facing fewer opportunistic attacks than the Federation’s, for example. And the less I say about the Empire’s ‘elite first’ economic strategy, the better. Humanity is stronger together. It is how the Alliance will stay strong, and it is how we as a species will win this war.”

@@ -4,4 +4,4 @@
 #+title: Hans Walden
 #+filetags: :Individual:
 
-Dr. Hans Walden
+Dr. [[id:0b41fd3c-7d4e-4f61-b375-c96b99990d01][Hans Walden]]

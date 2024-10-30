@@ -10,13 +10,13 @@
 
 *Pilots Federation ALERT* 
 
-A new starport has become operational in the LTT 198 system, following Senator Zemina Torval’s mining initiative. 
+A new starport has become operational in the LTT 198 system, following Senator [[id:d8e3667c-3ba1-43aa-bc90-dac719c6d5e7][Zemina Torval]]’s mining initiative. 
 
 Torval Orbital will serve as the administrative headquarters for Torval-Mastopolos Mining. The company successfully competed against Wreaken Corporation to establish a presence within LTT 198. 
 
 Marlon Royce, business analyst for Vox Galactica, observed: 
 
-“Mastopolos Mining should be boasting about the positive start for its new subsidiary. Instead, its reaction has only confirmed the widening rift between the Mastopolos family and their corporation’s majority shareholder, Zemina Torval.” 
+“Mastopolos Mining should be boasting about the positive start for its new subsidiary. Instead, its reaction has only confirmed the widening rift between the Mastopolos family and their corporation’s majority shareholder, [[id:d8e3667c-3ba1-43aa-bc90-dac719c6d5e7][Zemina Torval]].” 
 
 “CEO [[id:7344d4cd-7b21-4aa2-895b-98a4acefe96f][Gabriella Mastopolos]] officially distanced herself from the offshoot company, claiming it ‘hijacked our name with the intention of luring our clients’. And speaking to Imperial media, both Adrian and Elena Mastopolos criticised Constantia Torval’s suitability to act as operations director.” 
 

@@ -4,11 +4,11 @@
 #+title: Galactic News: Jaques Speaks
 #+filetags: :3302:galnet:
 
-* Galactic News: Jaques Speaks
+* Galactic News: [[id:f37f17f1-8eb3-4598-93f7-190fe97438a1][Jaques]] Speaks
 
 /30 Jun 3302/
 
-Following news that Jaques Station has been found in the Eol Prou RS-T d3-94 system, Jaques has broadcast a message to the media, having apparently restored communications at his starport: 
+Following news that [[id:f37f17f1-8eb3-4598-93f7-190fe97438a1][Jaques]] Station has been found in the Eol Prou RS-T d3-94 system, Jaques has broadcast a message to the media, having apparently restored communications at his starport: 
 
 "First, I'd like to thank all the pilots who came looking for me." 
 
@@ -18,6 +18,6 @@ Following news that Jaques Station has been found in the Eol Prou RS-T d3-94 sys
 
 Jaques was asked if he would be making another attempt to reach Beagle Point. 
 
-"I don't think Jaques Station will be jumping again anytime soon. The old girl wasn't really built for long-distance travel, and the last leap put a lot of strain on the superstructure. I think I'm going to be in Eol Prou whatever-it's-called for the foreseeable future. Still, the view here is lovely, so it could be worse." 
+"I don't think [[id:f37f17f1-8eb3-4598-93f7-190fe97438a1][Jaques]] Station will be jumping again anytime soon. The old girl wasn't really built for long-distance travel, and the last leap put a lot of strain on the superstructure. I think I'm going to be in Eol Prou whatever-it's-called for the foreseeable future. Still, the view here is lovely, so it could be worse." 
 
-In related news, various members of the galactic community have begun collecting meta-alloys to repair Jaques Station, and will soon depart for Eol Prou RS-T d3-94.
+In related news, various members of the galactic community have begun collecting meta-alloys to repair [[id:f37f17f1-8eb3-4598-93f7-190fe97438a1][Jaques]] Station, and will soon depart for Eol Prou RS-T d3-94.

@@ -4,7 +4,7 @@
 #+title: The Declaration of Archon Delaine
 #+filetags: :3307:Empire:Federation:galnet:
 
-* The Declaration of Archon Delaine
+* The Declaration of [[id:7aae0550-b8ba-42cf-b52b-e7040461c96f][Archon Delaine]]
 
 /08 Mar 3307/
 
@@ -20,4 +20,4 @@ This was immediately dismissed by many delegations. Princess [[id:b402bbe3-5119-
 
 There followed intense debate as to whether the Kumo Crew’s territory could be recognised as a new nation-state or was simply a rebranded crime syndicate. There is suspicion that some of the many criminal vessels detected in the Sirius system are from Delaine’s pirate fleet. 
 
-The Federal and Imperial delegations have offered to remove Archon Delaine’s retinue, only to be reminded that Sirius Corporation has granted them full diplomatic immunity.
+The Federal and Imperial delegations have offered to remove [[id:7aae0550-b8ba-42cf-b52b-e7040461c96f][Archon Delaine]]’s retinue, only to be reminded that Sirius Corporation has granted them full diplomatic immunity.

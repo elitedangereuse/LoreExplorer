@@ -14,7 +14,7 @@ transmission, a message was sent to the Canonn from a pilot by the
 name of Commander [[id:aeca0c9b-da0e-4290-881f-1ed0dd67c211][Wace]]. It read: “The headerless [[id:4a2a29f4-8edd-4cf2-b347-a023dac7ab26][octal]] number - it is
 distance compared to [[id:70fa34ea-bc98-40ff-97f0-e4f4538387a6][Merope]]!”
 
-In an impressive display of field mathematics, Commander Wace
+In an impressive display of field mathematics, Commander [[id:aeca0c9b-da0e-4290-881f-1ed0dd67c211][Wace]]
 pin-pointed the [[id:4dec0267-05fb-4de3-a8de-8811709984c6][COL 70 Sector FY-N C21-3]] system as the Probe's zero
 point. Unfortunately, the Canonn is prevented from further
 investigation of the system by the [[id:b2b2d9ee-9c33-4a0b-b3ce-82cfa362577e][permit]] lock of the [[id:c8fe6fa0-8b82-4887-be3e-13422ca888a6][COL 70 Sector]].

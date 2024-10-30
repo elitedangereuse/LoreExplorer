@@ -12,7 +12,7 @@
 
 An initiative in the [[id:360ae21e-63f2-43ba-a2fd-a47e5e49951e][Cemiess]] system has procured sufficient rare items to ensure a successful Citizens’ Relief Trust gala. 
 
-The new charitable organisation will establish support centres for the relatives of Imperial citizens who have died as a result of Thargoid aggression. The trust’s patron, Princess Aisling Duval, made a declaration via public media: 
+The new charitable organisation will establish support centres for the relatives of Imperial citizens who have died as a result of Thargoid aggression. The trust’s patron, Princess [[id:b402bbe3-5119-4d94-87ee-0ba279658383][Aisling Duval]], made a declaration via public media: 
 
 “The quantity of Eshu Umbrellas, Xihe Biomorphic Companions and Chateau De Aegaeon that we received have gladdened my heart. I am already preparing invitations for a splendid charity gala at my palace on Emerald, where these luxuries will be auctioned to raise capital for the Citizens’ Relief Trust.” 
 
@@ -20,7 +20,7 @@ The new charitable organisation will establish support centres for the relatives
 
 Shipments of wine and fish were also provided, and will be served to the expected attendees and related entourages. 
 
-A public statement was also made by Senator Denton Patreus: 
+A public statement was also made by Senator [[id:75daea85-5e9f-4f6f-a102-1a5edea0283c][Denton Patreus]]: 
 
 “It is Imperial Navy protocol to provide financial support to the families of all officers, crew and support staff whose lives are lost in the performance of their duties. Nevertheless, we all appreciate Her Highness’s public spirit, and I’m pleased to see just how much the noble houses are prepared to sacrifice to assist the citizenry.” 
 

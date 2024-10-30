@@ -14,10 +14,10 @@ Archon Delaine: “My opinion on the Thargoids remains the same: burn them all! 
 
 Yuri Grom: “I trust [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]] as little as I trust the Federation. What guarantee do we have that this Proteus Wave will not be turned against human targets, once the Thargoids are dealt with?” 
 
-Senator Zemina Torval: “Azimuth Biotech has emerged as a strategically significant corporation. I’ve advised the Imperial Senate to establish long-term commercial links that are mutually beneficial.” 
+Senator [[id:d8e3667c-3ba1-43aa-bc90-dac719c6d5e7][Zemina Torval]]: “Azimuth Biotech has emerged as a strategically significant corporation. I’ve advised the Imperial Senate to establish long-term commercial links that are mutually beneficial.” 
 
 Hadrian Augustus Duval: “The Thargoids are a genuine threat. Yet I hope that our military collaboration with the Alliance and the Federation is a temporary measure only. The Empire must develop the strength to stand alone.” 
 
 First Minister Octavia Volkov: “Thargoid attack is an ever-present danger for the Marlinist Colonies. We are observing events closely. Personally I do not view Azimuth as a trustworthy ally.” 
 
-Ambassador Jasmina Halsey: “I’m pleased to see the Federation working closely with the Alliance, but disappointed that it is limited to anti-xeno matters. Whatever happens in HIP 22460, we should grasp this opportunity to increase diplomatic as well as military cooperation.”
+Ambassador [[id:a9ccf59f-436e-44df-b041-5020285925f8][Jasmina Halsey]]: “I’m pleased to see the Federation working closely with the Alliance, but disappointed that it is limited to anti-xeno matters. Whatever happens in HIP 22460, we should grasp this opportunity to increase diplomatic as well as military cooperation.”

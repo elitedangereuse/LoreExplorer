@@ -4,15 +4,15 @@
 #+title: Freelance Report: The Jaques Rescue Mission
 #+filetags: :3302:galnet:
 
-* Freelance Report: The Jaques Rescue Mission
+* Freelance Report: The [[id:f37f17f1-8eb3-4598-93f7-190fe97438a1][Jaques]] Rescue Mission
 
 /01 Jul 3302/
 
-Recent reports indicate that a coalition of independent pilots has coordinated a mission to deliver meta-alloys to Jaques Station. A spokesperson for the group issued the following statement: 
+Recent reports indicate that a coalition of independent pilots has coordinated a mission to deliver meta-alloys to [[id:f37f17f1-8eb3-4598-93f7-190fe97438a1][Jaques]] Station. A spokesperson for the group issued the following statement: 
 
-"We need your help, Commanders! Everyone's favourite cyborg barman, Jaques, has been discovered by Commander Cly in the Eol Prou RS-T d3-94 system." 
+"We need your help, Commanders! Everyone's favourite cyborg barman, [[id:f37f17f1-8eb3-4598-93f7-190fe97438a1][Jaques]], has been discovered by Commander Cly in the Eol Prou RS-T d3-94 system." 
 
-"Pilots are gathering in Maia for what will be the longest single-stop trade run in galactic history. Their mission is to deliver meta-alloys to Jaques Station and repair the damage done by the Unknown Artefacts." 
+"Pilots are gathering in Maia for what will be the longest single-stop trade run in galactic history. Their mission is to deliver meta-alloys to [[id:f37f17f1-8eb3-4598-93f7-190fe97438a1][Jaques]] Station and repair the damage done by the Unknown Artefacts." 
 
 "In the interests of speed and efficiency, many pilots are flying Asp Explorers. Outfitting options vary between 8 and 16 tonnes of cargo, and large fuel scoops are common among the intrepid rescue party." 
 

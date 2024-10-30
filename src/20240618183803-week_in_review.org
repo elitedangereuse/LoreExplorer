@@ -14,14 +14,14 @@ Aegis has confirmed that the Thargoid presence in the core systems has been sign
 
 In related news, Aegis has confirmed that three starports attacked and damaged by Thargoid forces have now been restored to full functionality, following supportive efforts from the galactic community. The pertinent starports are Armstrong Enterprise in the Bhal system, Beaufoy Vision in the Nauni system and Reed's Rest in the Merope system. 
 
-In other news, Princess [[id:b402bbe3-5119-4d94-87ee-0ba279658383][Aisling Duval]] has announced that she is to wed Federal Ambassador Jordan Rochester. Both Princess Duval and Mr Rochester expressed hope that their marriage would strengthen ties between the Empire and the Federation. There has been no official comment from the Imperial Palace or the White House on the engagement. 
+In other news, Princess [[id:b402bbe3-5119-4d94-87ee-0ba279658383][Aisling Duval]] has announced that she is to wed Federal Ambassador [[id:81c5c161-1553-44f0-b5fb-c4a58f1f71d7][Jordan Rochester]]. Both Princess Duval and Mr Rochester expressed hope that their marriage would strengthen ties between the Empire and the Federation. There has been no official comment from the Imperial Palace or the White House on the engagement. 
 
-A homicide attempt by terrorist organisation the League of Reparation has been foiled, and the would-be killers taken into custody. Kay Kilbride of Alliance Interpol confirmed that the captives had been transported to a secure facility for interrogation, with a view to establishing the identity of Nexus – the League’s apparent coordinator. 
+A homicide attempt by terrorist organisation the League of Reparation has been foiled, and the would-be killers taken into custody. [[id:9d17bf0f-6ce5-46b2-b9e6-2cab238fcce7][Kay Kilbride]] of Alliance Interpol confirmed that the captives had been transported to a secure facility for interrogation, with a view to establishing the identity of Nexus – the League’s apparent coordinator. 
 
 Meanwhile, renowned billionaire [[id:e26683e6-6b19-4671-8676-f333bd5e8ff7][Zachary Rackham]], owner of [[id:83c8d091-0fde-4836-b6bc-668b9a221207][Rackham Capital Investments]], has made a sizeable charitable donation to build new shipyards in the Colonia region. Every planetary port in the region, bar Colonia Hub, will soon be able to offer pilots a full range of services. 
 
 Aegis has announced plans to build a military installation in the Pleiades. An Aegis spokesperson confirmed that the development was a response to the recent occupation of the Socho system –headquarters of Aegis Core – by a hostile criminal element. Aegis Research has placed an open order for mined resources for use in the construction. 
 
-Finally, Senator Caspian Leopold has announced that his appeal for commodities has been enthusiastically received by the galactic community. The materials will be used to build a rehabilitation centre for those affected by war. 
+Finally, Senator [[id:1d3d8a69-609b-4e83-b1a1-a46cb23ba195][Caspian Leopold]] has announced that his appeal for commodities has been enthusiastically received by the galactic community. The materials will be used to build a rehabilitation centre for those affected by war. 
 
 And those are the main stories this week.

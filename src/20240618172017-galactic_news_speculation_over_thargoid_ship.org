@@ -12,7 +12,7 @@ Some of the galaxy’s leading Thargoid experts have been discussing the discove
 
 Images of the crashed vessel reveal that it is structurally distinct from the Thargoid Interceptor, while sharing many superficial similarities. The ship has been classified as a ‘Thargoid Scout’ by the Pilots Federation for the purposes of identification and differentiation. 
 
-Discussing the discovery on the ‘Galaxy Now’ programme, Admiral Aden Tanner, Aegis’s chief military liaison, said: 
+Discussing the discovery on the ‘Galaxy Now’ programme, Admiral [[id:7bca1ccd-649e-438a-ae56-fb8ca34e6440][Aden Tanner]], Aegis’s chief military liaison, said: 
 
 “There are clear similarities between this ship and the Interceptor, both of which appear to be made from a quasi-organic material. It would be logical to extrapolate from the ship’s profile that it would be faster and perhaps more manoeuvrable than the Interceptor, but I’d be reluctant to speculate further.” 
 

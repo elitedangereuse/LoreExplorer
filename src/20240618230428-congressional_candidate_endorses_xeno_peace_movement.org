@@ -10,7 +10,7 @@
 
 Dalton Chase, the Federal governor of Andavandul 1, is campaigning to become a member of Congress with support from the Thargoid Advocacy Project. 
 
-A profile of Governor Chase was published in [[id:be5df73c-519d-45ed-a541-9b70bc8ae97c][The Federal Times]] by political journalist Sofia Trevino: 
+A profile of Governor Chase was published in [[id:be5df73c-519d-45ed-a541-9b70bc8ae97c][The Federal Times]] by political journalist [[id:e660f840-caed-45ef-985e-f75170cf9ca8][Sofia Trevino]]: 
 
 “Despite only being in his mid-thirties with a short political career, Dalton Chase has made a habit of beating the odds. He achieved a very strong following within his home system of Andavandul, eclipsing more experienced rivals to become a planetary governor.” 
 

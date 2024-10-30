@@ -10,7 +10,7 @@
 
 President-elect [[id:b9fe58a3-dfb7-480c-afd6-92c3be841be7][Felicia Winters]] has discussed her election victory and other topics during an interview with [[id:be5df73c-519d-45ed-a541-9b70bc8ae97c][The Federal Times]]. 
 
-On defeating Vice President Jerome Archer: 
+On defeating Vice President [[id:7bdfd887-d1db-46bc-98c4-2fb39bfcc914][Jerome Archer]]: 
 
 “One cannot dispute that Archer played his campaign straight, with none of the underhanded tricks utilised by some of his predecessors. But the election results prove that the citizens want a change from the Republican Party’s bombastic approach.” 
 
@@ -28,4 +28,4 @@ On the Thargoid war:
 
 Many Federal newsfeeds congratulated [[id:b9fe58a3-dfb7-480c-afd6-92c3be841be7][Felicia Winters]] on her success in the election, but an editorial in Sol Today said: 
 
-“Without Zachary Hudson’s strength of will, or Jerome Archer’s dedication to security, there’s every possibility that the Federation will rot from within. You can expect to see all manner of fringe groups and minorities grab the lion’s share of funding, while freeloaders and criminals get a free pass. We predict that Winters will go down in history as one of the weakest presidents ever.”
+“Without [[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][Zachary Hudson]]’s strength of will, or [[id:7bdfd887-d1db-46bc-98c4-2fb39bfcc914][Jerome Archer]]’s dedication to security, there’s every possibility that the Federation will rot from within. You can expect to see all manner of fringe groups and minorities grab the lion’s share of funding, while freeloaders and criminals get a free pass. We predict that Winters will go down in history as one of the weakest presidents ever.”

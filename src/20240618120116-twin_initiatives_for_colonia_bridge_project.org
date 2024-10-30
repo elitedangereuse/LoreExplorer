@@ -18,9 +18,9 @@ The Colonia Bridge project is being funded by Brewer Corporation, which outlined
 
 “Up to 30 dockable megaships will be placed along the route to Colonia, providing travellers with valuable respite and resources including tritium. These stationary megaships should be operational by the 28th of October, and will mark the completion of the first phase of the three-phase Colonia Bridge project. Its aim is to place dockable megaships every four to five hundred light years working out from the Alcor and Colonia systems.” 
 
-“To achieve this, we require large quantities of ceramic composites, computer components and thermal cooling units. These can be delivered to either Macdonald Settlement in the Alcor system or Jaques Station in the Colonia system.” 
+“To achieve this, we require large quantities of ceramic composites, computer components and thermal cooling units. These can be delivered to either Macdonald Settlement in the Alcor system or [[id:f37f17f1-8eb3-4598-93f7-190fe97438a1][Jaques]] Station in the Colonia system.” 
 
-The Colonia Council is subsidising part of the initiative, due to the importance of this enterprise. As a consequence, the commodity requirements for the megaships at Jaques Station are reduced. 
+The Colonia Council is subsidising part of the initiative, due to the importance of this enterprise. As a consequence, the commodity requirements for the megaships at [[id:f37f17f1-8eb3-4598-93f7-190fe97438a1][Jaques]] Station are reduced. 
 
 Brewer Corporation has confirmed that as well as offering payment for the materials, it will ask the top ten contributors at Alcor and Colonia to submit potential names for the new megaships. Submissions will be subject to review by the Brewer Corporation board of directors. 
 

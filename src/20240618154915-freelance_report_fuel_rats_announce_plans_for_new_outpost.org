@@ -15,15 +15,15 @@ extraction outpost near [[id:935880a2-d4fb-4d27-ad48-0f95112ee0fe][Jaques Statio
 the idea was to set up near [[id:84d9b01d-a9d6-47d9-b9f9-f6154233e585][Sagittarius A*]] since it's one of the
 regions most visited by explorers. The biggest challenge was always
 supplying the station with commodities like food and spare
-parts. Being near Jaques Station will solve this problem since it's
+parts. Being near [[id:f37f17f1-8eb3-4598-93f7-190fe97438a1][Jaques]] Station will solve this problem since it's
 equipped with a habitation ring, and because it's a destination for a
 steady stream of supply ships."
 
-Asked if the fact that Jaques Station is already serving as a base
+Asked if the fact that [[id:f37f17f1-8eb3-4598-93f7-190fe97438a1][Jaques]] Station is already serving as a base
 would render such an operation pointless, the [[id:de6c1eee-a957-4d48-a840-f3fe15b5801b][Fuel Rats]] spokesperson
 answered:
 
-"We fully expect Jaques to continue his journey at some point, and
+"We fully expect [[id:f37f17f1-8eb3-4598-93f7-190fe97438a1][Jaques]] to continue his journey at some point, and
 since his station simply can't produce enough fuel to make that
 possible, sooner or later an outpost will be necessary."
 

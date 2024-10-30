@@ -4,7 +4,7 @@
 #+title: Mining Campaign Success for Zemina Torval
 #+filetags: :3307:Empire:Federation:galnet:
 
-* Mining Campaign Success for Zemina Torval
+* Mining Campaign Success for [[id:d8e3667c-3ba1-43aa-bc90-dac719c6d5e7][Zemina Torval]]
 
 /26 Aug 3307/
 
@@ -20,7 +20,7 @@ Senator [[id:d8e3667c-3ba1-43aa-bc90-dac719c6d5e7][Zemina Torval]] provided a st
 
 In addition to credits, the top 75% of Torval’s supporters will be provided with an experimental mining laser and permanent permit access to LTT 198. 
 
-Constantia Torval, one of the senator’s daughters, has assumed the role of director of operations with Torval-Mastopolos Mining. There has been no comment from the Mastopolos family regarding the subsidiary, which is being run autonomously by Zemina Torval. 
+Constantia Torval, one of the senator’s daughters, has assumed the role of director of operations with Torval-Mastopolos Mining. There has been no comment from the Mastopolos family regarding the subsidiary, which is being run autonomously by [[id:d8e3667c-3ba1-43aa-bc90-dac719c6d5e7][Zemina Torval]]. 
 
 CEO Emmerich Koenig confirmed that Wreaken Construction will soon withdraw from LTT 198. Pilots who supported its efforts can now claim reimbursement from Tobias’s Gift in the EGM 559 system. The top 10% of Koenig’s supporters will receive an experimental abrasion blaster as well. 
 

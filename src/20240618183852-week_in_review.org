@@ -10,7 +10,7 @@
 
 Here are this week’s major stories. 
 
-The Alliance Assembly has agreed to vote on President Gibson Kincaid’s proposed changes to the constitution. Kincaid has lobbied for the role of president to be invested with executive powers, and for each presidential term to last six years. The vote will take place in mid-October, at the same time as the presidential election. 
+The Alliance Assembly has agreed to vote on President [[id:8520e75f-0479-42c5-9083-f9abfbad721e][Gibson Kincaid]]’s proposed changes to the constitution. Kincaid has lobbied for the role of president to be invested with executive powers, and for each presidential term to last six years. The vote will take place in mid-October, at the same time as the presidential election. 
 
 A manufacturing complex owned by computer company [[id:3e9f43fb-038f-46a6-be53-3c9af1bad474][Supratech]] has been destroyed by fire. All personnel managed to escape the blaze, but the fire has ruined the company’s main production complex. Company CEO [[id:b62c9e2e-8079-44bc-a30d-d192076162e6][Scorpio DeVorrow]] expressed incredulity at the failure of the facility’s fire-suppression system. 
 
@@ -18,7 +18,7 @@ Meanwhile, the Federal Intelligence Agency has increased arrests of potential Th
 
 The Gnosis, flagship of the Canonn Interstellar Research Group, has been left stranded following a Thargoid attack. A message from the ship’s command crew confirmed that the incident caused severe internal damage to multiple systems, including the frame shift drive. The Gnosis is currently adrift close to the eighth planet of the Outotz ST-I d9-6 system. 
 
-In other news, The Mars Tribune has revealed that actor [[id:f3e29df5-154d-4f05-b659-36fa2da9be01][Tomas Turai]], husband of [[id:c33064d1-c2a0-4ac3-89fe-57eedb7ef9c8][Jupiter Rochester]], has been having an extramarital affair with Olympian athlete [[id:7d223812-2269-45ec-93b7-bf57dd42394b][Reagan Lord]]. Tomas Turai and August Lord, husband of Reagan Lord, have both announced their intention to sue The Tribune for defamation. The publication’s owner, billionaire [[id:74cae77e-fab1-4a22-9c31-daaa15d8fd0e][Kingsley Cordova]], has confirmed that he will cover all legal costs in contesting both civil actions. 
+In other news, The Mars Tribune has revealed that actor [[id:f3e29df5-154d-4f05-b659-36fa2da9be01][Tomas Turai]], husband of [[id:c33064d1-c2a0-4ac3-89fe-57eedb7ef9c8][Jupiter Rochester]], has been having an extramarital affair with Olympian athlete [[id:7d223812-2269-45ec-93b7-bf57dd42394b][Reagan Lord]]. [[id:f3e29df5-154d-4f05-b659-36fa2da9be01][Tomas Turai]] and August Lord, husband of [[id:7d223812-2269-45ec-93b7-bf57dd42394b][Reagan Lord]], have both announced their intention to sue The Tribune for defamation. The publication’s owner, billionaire [[id:74cae77e-fab1-4a22-9c31-daaa15d8fd0e][Kingsley Cordova]], has confirmed that he will cover all legal costs in contesting both civil actions. 
 
 Finally, a public appeal for Thargoid materials from the [[id:04ae001b-eb07-4812-a42e-4bb72825609b][Far God]] sect has been enthusiastically received by the galactic community. Chancellor Reegan Tanner, speaking on behalf of the organising faction, said the success of the initiative was a victory for religious freedom. 
 

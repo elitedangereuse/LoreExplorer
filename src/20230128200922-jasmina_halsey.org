@@ -8,7 +8,7 @@ Halsey was elected [[id:bb90a162-e588-4467-bc4b-d8a33ecef686][President of the F
 until June 2, 3301, when she lost a vote of no-confidence that was
 called after she went missing in the [[id:85fdc9c8-500b-4e91-bc8b-70bcb3c05b0f][Starship One]] disaster.
 
-* Jasmina Halsey
+* [[id:a9ccf59f-436e-44df-b041-5020285925f8][Jasmina Halsey]]
 
 #+begin_quote
 
@@ -20,12 +20,12 @@ called after she went missing in the [[id:85fdc9c8-500b-4e91-bc8b-70bcb3c05b0f][
   it suspect? If what I saw reminds people of historical accounts,
   doesn't that say something about those experiences?
 
-  --- Jasmina Halsey, Federal Times interview, 3302
+  --- [[id:a9ccf59f-436e-44df-b041-5020285925f8][Jasmina Halsey]], Federal Times interview, 3302
 #+end_quote
 
 Jasmina Halsey, a former politician, served as president of the
 Federation from 3300 to 3301. She now works as a peace activist and
-close advisor to Alliance Prime Minister Edmund Mahon.
+close advisor to Alliance Prime Minister [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74][Edmund Mahon]].
 
 Halsey claims the profound transformation of her views is the result of
 a visionary experience in which she communicated with benign nonhuman
@@ -40,7 +40,7 @@ resulting in collateral damage. During the Lugh rebellion, Halsey gave
 the order to fire on a civilian convoy in the belief that a rebel leader
 was on one of the vessels. Many senior commanders in the Federal Navy
 lost faith in Halsey and transferred their loyalty to then-Shadow
-President Zachary Hudson.
+President [[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][Zachary Hudson]].
 
 Hudson called for a vote of no confidence in Halsey's government shortly
 after Starship One went missing and achieved an overwhelming victory.
@@ -57,7 +57,7 @@ precisely what happened to Starship One, as well as offering Halsey a
 suspiciously convenient way out of her failing presidential career.
 
 The most scathing of Halsey's critics condemn her as a traitor and
-defector who was conspiring with Edmund Mahon even before she left the
+defector who was conspiring with [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74][Edmund Mahon]] even before she left the
 Federation, and who staged the Starship One catastrophe as a convoluted
 means of defecting to the Alliance, taking vital Federal intelligence
 with her. Halsey originally addressed these theories by emphasising how

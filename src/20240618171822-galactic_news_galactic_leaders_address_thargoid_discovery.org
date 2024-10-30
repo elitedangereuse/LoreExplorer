@@ -12,7 +12,7 @@ The leaders of the galaxy's major powers have responded to news that the mysteri
 
 Federal President [[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][Zachary Hudson]] released a characteristically forthright statement. 
 
-“Earlier this year, I said I would rather prepare for an attack that may not come than be met by an attack I did not prepare for. Well, the Federation has not been idle. For months, we have been expanding our Navy in preparation for just such a day. Some, such as Edmund Mahon, believe this is unnecessary. But perhaps Mr Mahon has not read the reports of Federal ships being attacked by Thargoid vessels. If the Thargoids want a fight, it’s a fight they’ll get.” 
+“Earlier this year, I said I would rather prepare for an attack that may not come than be met by an attack I did not prepare for. Well, the Federation has not been idle. For months, we have been expanding our Navy in preparation for just such a day. Some, such as [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74][Edmund Mahon]], believe this is unnecessary. But perhaps Mr Mahon has not read the reports of Federal ships being attacked by Thargoid vessels. If the Thargoids want a fight, it’s a fight they’ll get.” 
 
 Addressing the media from the Imperial Palace on Capitol, Emperor [[id:34f3cfdd-0536-40a9-8732-13bf3a5e4a70][Arissa Lavigny-Duval]] said: 
 

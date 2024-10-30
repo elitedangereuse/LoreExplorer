@@ -10,9 +10,9 @@
 
 Kaeso Mordanticus, the captured leader of isolationist group Nova Imperium, has been brought before the Imperial Senate, with unexpected results. 
 
-Political journalist Cassia Carvalho was at the scene: 
+Political journalist [[id:745efc38-c548-40c0-81d2-82973c604d37][Cassia Carvalho]] was at the scene: 
 
-“Imperator Mordanticus was led into Senate House in shackles but still defiant. All rose as Emperor [[id:34f3cfdd-0536-40a9-8732-13bf3a5e4a70][Arissa Lavigny-Duval]] entered, attended by Senator Denton Patreus. The Emperor and Patreus approached Mordanticus silently, whereupon Patreus executed the Imperator with his personal sidearm.” 
+“Imperator Mordanticus was led into Senate House in shackles but still defiant. All rose as Emperor [[id:34f3cfdd-0536-40a9-8732-13bf3a5e4a70][Arissa Lavigny-Duval]] entered, attended by Senator [[id:75daea85-5e9f-4f6f-a102-1a5edea0283c][Denton Patreus]]. The Emperor and Patreus approached Mordanticus silently, whereupon Patreus executed the Imperator with his personal sidearm.” 
 
 “Suddenly, the Imperial Guard opened fire, gunning down senators Pal Vespasian and Eloise Winterstone, and others who had supported the isolationist cause.” 
 

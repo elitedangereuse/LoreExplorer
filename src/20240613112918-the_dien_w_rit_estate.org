@@ -3,7 +3,7 @@
 :END:
 #+title: The Dien W'rit Estate
 #+filetags: :Empire:Federation:beacon:
-* 0215 The Dien W'rit Estate
+* 0215 The [[id:822063f8-7220-41c4-b738-0cdfbba8b05a][Dien W'rit]] Estate
 [[id:7075359f-79ca-4a24-88da-64f22e6b024a][Ackwada]]  
 
 In the early part of 3241, [[id:822063f8-7220-41c4-b738-0cdfbba8b05a][Dien W'rit]], a powerful interstellar

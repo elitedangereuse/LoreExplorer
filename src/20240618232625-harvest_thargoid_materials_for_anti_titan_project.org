@@ -12,11 +12,11 @@
 
 Aegis is urgently requesting deliveries of Thargoid spire site materials to Professor [[id:8f63442a-1f38-457d-857a-38297d732a90][Ishmael Palin]] in the Arque system. 
 
-The alien minerals are needed for vital research based on a new theory by the engineer Ram Tah. His research has suggested a method of defeating the Thargoid Titans, although details of the proposal remain classified by Aegis. 
+The alien minerals are needed for vital research based on a new theory by the engineer [[id:4551539e-a6b2-4c45-8923-40fb603202b7][Ram Tah]]. His research has suggested a method of defeating the Thargoid Titans, although details of the proposal remain classified by Aegis. 
 
 Professor Palin, the leading expert in Thargoid biotechnology, explained the initiative: 
 
-“I am confident that Ram Tah's theory holds water, and we are working together on its practical applications. There are no guarantees as yet, but we could be on the cusp of developing a weapon with which to engage the Titans.” 
+“I am confident that [[id:4551539e-a6b2-4c45-8923-40fb603202b7][Ram Tah]]'s theory holds water, and we are working together on its practical applications. There are no guarantees as yet, but we could be on the cusp of developing a weapon with which to engage the Titans.” 
 
 “However, such a weapon must be able to function within the Maelstroms’ electromagnetic fields, which disrupt all Guardian-based technology. I am developing a resistant armour using the organic compounds produced by Thargoid spire sites.” 
 

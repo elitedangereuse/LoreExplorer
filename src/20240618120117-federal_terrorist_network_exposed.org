@@ -18,6 +18,6 @@ Deputy Director Bethany Blake of the Federal Intelligence Agency gave a statemen
 
 “Using data intercepted by the Proactive Detection Bureau, FIA agents performed a series of coordinated strikes in several Federal systems. Over a thousand armed extremists were arrested before they could act. We are currently working to identify the remaining Jupiter’s Wrath members.” 
 
-Vice President Jerome Archer claimed that this was further validation of the Domestic Counter-Terrorism Act, which permitted the PDB to be established. However, Shadow President [[id:b9fe58a3-dfb7-480c-afd6-92c3be841be7][Felicia Winters]] commented: 
+Vice President [[id:7bdfd887-d1db-46bc-98c4-2fb39bfcc914][Jerome Archer]] claimed that this was further validation of the Domestic Counter-Terrorism Act, which permitted the PDB to be established. However, Shadow President [[id:b9fe58a3-dfb7-480c-afd6-92c3be841be7][Felicia Winters]] commented: 
 
-“I commend the FIA for performing their duties. But I also question the timing of this operation, coming so soon after President Hudson’s appallingly reckless attempt to capture Yuri Grom. To me it seems calculated to show his administration in a positive light, while ignoring the violation of citizens’ privacy.”
+“I commend the FIA for performing their duties. But I also question the timing of this operation, coming so soon after President Hudson’s appallingly reckless attempt to capture [[id:b4892958-b513-46dc-b74e-26887b53f678][Yuri Grom]]. To me it seems calculated to show his administration in a positive light, while ignoring the violation of citizens’ privacy.”

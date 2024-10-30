@@ -7,7 +7,7 @@
 Was the CEO of [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]]'s governmental division in 3301.
 Ref: [[id:925073d8-b2b1-4e21-9c3f-e48a37edcf71][Luyten 205-128]]
 
-* Li Yong-Rui
+* [[id:f0655b3a-aca9-488f-bdb3-c481a42db384][Li Yong-Rui]]
 
 #+begin_quote
 
@@ -20,7 +20,7 @@ Ref: [[id:925073d8-b2b1-4e21-9c3f-e48a37edcf71][Luyten 205-128]]
   to happen. We flatter ourselves with the belief that we are exempt
   from the rules of modelling that govern the rest of the universe."
 
-  --- Introduction to 'Becoming the Watchmaker', Li Yong-Rui's master's
+  --- Introduction to 'Becoming the Watchmaker', [[id:f0655b3a-aca9-488f-bdb3-c481a42db384][Li Yong-Rui]]'s master's
   thesis on the innate human reluctance to accept behavioural
   predictability
 #+end_quote

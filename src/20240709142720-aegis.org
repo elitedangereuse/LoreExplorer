@@ -45,7 +45,7 @@ In 3304, Aegis was forced to relocate its administrative headquarters
 from the Socho system to Sol when a criminal organisation, the Socho
 Gold Raiders, engineered a hostile takeover of the system. The attack
 illustrated the need for greater protection from human threats; Federal
-President Zachary Hudson, in a moment of characteristic frankness,
+President [[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][Zachary Hudson]], in a moment of characteristic frankness,
 equated aggression against Aegis with treason against humanity, saying
 "The weakening of our defences cannot be tolerated."
 
@@ -54,8 +54,8 @@ installation, in the [[id:7e99a467-6e3d-418e-8b10-72cf3660efa6][Pleiades Nebula]
 that The Sentinel would allow the organisation to "continue our fight
 against the Thargoids unhindered by external forces", critics opined
 that the organisation's growing military focus was cause for concern. In
-3305, the organisation entered into a partnership with Ram Tah to
-manufacture [[id:f57cff55-3348-45ea-b76f-d0eaa3c68165][Guardian]]-inspired technology, including Ram Tah's XG
+3305, the organisation entered into a partnership with [[id:4551539e-a6b2-4c45-8923-40fb603202b7][Ram Tah]] to
+manufacture [[id:f57cff55-3348-45ea-b76f-d0eaa3c68165][Guardian]]-inspired technology, including [[id:4551539e-a6b2-4c45-8923-40fb603202b7][Ram Tah]]'s XG
 fighters.
 
 Despite its apolitical stance, Aegis has come under scrutiny from

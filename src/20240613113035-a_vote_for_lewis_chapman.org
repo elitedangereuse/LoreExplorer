@@ -3,7 +3,7 @@
 :END:
 #+title: A Vote for Lewis Chapman
 #+filetags: :beacon:
-* 0702 A Vote for Lewis Chapman...
+* 0702 A Vote for [[id:246ac86d-4a96-4fdc-907d-d8a84b142e70][Lewis Chapman]]...
 [[id:9cf1f79e-2474-4252-a9fd-c4420e942dc7][LP 339-7]]
 
 It took just over a year for [[id:d20f91af-3196-4258-ad57-64c7c61e5ed9][Starship Enterprises]] to rise up and

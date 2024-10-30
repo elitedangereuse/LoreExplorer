@@ -20,7 +20,7 @@ Eye on Achenar: “The dull-witted thug of a president was no match for Senator 
 
 The Alliance Tribune: “The conference’s hosts were visibly embarrassed by Councillor Kaine’s claims that Coalsack Nebula terraforming projects had triggered recent Thargoid attacks. Shockingly, several delegates dismissed this as an internal matter for the Alliance.” 
 
-The Federal Times: “Chancellor Blaine’s stonewalling on the co-funding of humanitarian aid brought a rare flash of anger from Felicia Winters: ‘Maybe the Emperor’s puppet could loosen a few strings?’” 
+The Federal Times: “Chancellor Blaine’s stonewalling on the co-funding of humanitarian aid brought a rare flash of anger from [[id:b9fe58a3-dfb7-480c-afd6-92c3be841be7][Felicia Winters]]: ‘Maybe the Emperor’s puppet could loosen a few strings?’” 
 
 The Sovereign: “Despite Prime Minister Mahon exaggerating the benefits of Alliance membership, several independent ambassadors complained about its incomprehensible bureaucracy, saying it would be less damaging to declare war against the Alliance than join it.” 
 

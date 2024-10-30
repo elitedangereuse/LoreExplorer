@@ -4,7 +4,7 @@
 #+title: Freelance Report: Distant Worlds Flagship Anticipates Jaques' Arrival
 #+filetags: :3302:galnet:
 
-* Freelance Report: Distant Worlds Flagship Anticipates Jaques' Arrival
+* Freelance Report: Distant Worlds Flagship Anticipates [[id:f37f17f1-8eb3-4598-93f7-190fe97438a1][Jaques]]' Arrival
 
 /14 May 3302/
 
@@ -14,6 +14,6 @@ At the time of writing, Commander Vespera is still at Beagle Point, prospecting 
 
 But Commander Vespera is unconcerned – in fact, she's jubilant. 
 
-"I got a message saying that Jaques Station is coming to Beagle Point. I might actually be the first to meet him here!" 
+"I got a message saying that [[id:f37f17f1-8eb3-4598-93f7-190fe97438a1][Jaques]] Station is coming to Beagle Point. I might actually be the first to meet him here!" 
 
 Lisbeth Moore

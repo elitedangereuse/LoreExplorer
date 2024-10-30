@@ -15,7 +15,7 @@ An encrypted message seems to provide planetary coordinates related to the myste
 
 The message received by the Pilots Federation was as follows: 
 
-Welcome to Serene Harbour. 56.4 latitude -8.3 longitude. Theta Seven. 
+Welcome to Serene Harbour. 56.4 latitude -8.3 longitude. [[id:7878ad2d-4118-4028-bfff-90a3976313bd][Theta Seven]]. 
 
 Although this pinpoints a geographical area on a planetary surface, the astronomical location of this body remains a mystery. It is unclear whether ‘Theta Seven’ refers to additional map coordinates of some kind, or is a code-phrase intended for unknown recipients. 
 

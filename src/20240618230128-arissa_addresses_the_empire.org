@@ -8,7 +8,7 @@
 
 /26 Jan 3308/
 
-The Imperial Senate has shared a personal message from Emperor Arissa Lavigny-Duval, who has been in a secure location for nearly a year. 
+The Imperial Senate has shared a personal message from Emperor [[id:34f3cfdd-0536-40a9-8732-13bf3a5e4a70][Arissa Lavigny-Duval]], who has been in a secure location for nearly a year. 
 
 The brief statement was broadcast on all public channels: 
 
@@ -18,6 +18,6 @@ The brief statement was broadcast on all public channels:
 
 Eye on Achenar reported that this address was “welcomed by a relieved Empire”, adding that it was vital to “root out all Marlinist traitors”. The Imperial Herald noted that the Emperor seemed to absolve [[id:45d78e5d-27b7-48cb-97b2-012934be3180][Imperial Intelligence]] of the allegations that it was secretly enabling the NMLA. 
 
-However, a caution was sounded by Princess Aisling Duval: 
+However, a caution was sounded by Princess [[id:b402bbe3-5119-4d94-87ee-0ba279658383][Aisling Duval]]: 
 
 “Arissa has communicated with the Senate in the same manner for months, so this changes nothing. Only a public appearance will alleviate my concerns regarding her wellbeing. I would be delighted to host a suitable event if she will accept my invitation to attend in person.”

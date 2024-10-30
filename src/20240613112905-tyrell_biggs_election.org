@@ -3,7 +3,7 @@
 :END:
 #+title: Tyrell Biggs' Election
 #+filetags: :Empire:Federation:beacon:
-* 0193 Tyrell Biggs' Election
+* 0193 [[id:51cb3ba1-6a48-478b-a5db-f002c889c477][Tyrell Biggs]]' Election
 [[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]]
 
 The election of [[id:51cb3ba1-6a48-478b-a5db-f002c889c477][Tyrell Biggs]] from [[id:8a55a32e-316d-469b-a19f-bdc7c4d4b018][Mars]] to the office of President in

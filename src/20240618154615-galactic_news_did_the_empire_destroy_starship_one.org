@@ -8,13 +8,13 @@
 
 /15 Apr 3302/
 
-Tensions between the Federation and the Empire look likely to increase following an announcement from Federal politician Jacob Harris. In a statement released to [[id:be5df73c-519d-45ed-a541-9b70bc8ae97c][The Federal Times]], Harris claimed that the destruction of Starship One was not the result of mechanical failure, as was widely reported, but was in fact the result of deliberate sabotage by Imperial agents. 
+Tensions between the Federation and the Empire look likely to increase following an announcement from Federal politician [[id:84361db2-f12f-4133-9e88-25afaef8a066][Jacob Harris]]. In a statement released to [[id:be5df73c-519d-45ed-a541-9b70bc8ae97c][The Federal Times]], Harris claimed that the destruction of Starship One was not the result of mechanical failure, as was widely reported, but was in fact the result of deliberate sabotage by Imperial agents. 
 
 "I cannot identify my sources for fear of compromising their safety," said Harris, "but I can assure you that their information is correct. Starship One was destroyed by the Empire in an attempt to destabilise the Federal power base. It was made to look like an accident – the official Federal investigation even concluded it was an accident – but it most certainly was not." 
 
-Imperial officials were quick to condemn Harris's claims, citing both his lack of evidence and his reluctance to reveal his sources. Among those voicing scepticism was Senator Zemina Torval. 
+Imperial officials were quick to condemn Harris's claims, citing both his lack of evidence and his reluctance to reveal his sources. Among those voicing scepticism was Senator [[id:d8e3667c-3ba1-43aa-bc90-dac719c6d5e7][Zemina Torval]]. 
 
-"This is nothing more than uncorroborated gossip," said the senator, "and it is highly irresponsible of Jacob Harris to disseminate such rumours. The Empire would never perpetrate such an act, and given Harris's well-known predilection for scaremongering, I think only a fool would believe him." 
+"This is nothing more than uncorroborated gossip," said the senator, "and it is highly irresponsible of [[id:84361db2-f12f-4133-9e88-25afaef8a066][Jacob Harris]] to disseminate such rumours. The Empire would never perpetrate such an act, and given Harris's well-known predilection for scaremongering, I think only a fool would believe him." 
 
 The Federation appeared less eager to dismiss Harris's claims, although a statement from Shadow President [[id:b9fe58a3-dfb7-480c-afd6-92c3be841be7][Felicia Winters]] indicated that she was not necessarily ready to accept the story, either. 
 

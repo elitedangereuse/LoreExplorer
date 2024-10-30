@@ -34,7 +34,7 @@ Rockforth has always been eager to work with governing powers, both
 Federal and independent, and has occasionally loaned out its private
 fleet to help repel external threats. The company has even sponsored
 election campaigns, including that of the infamously corrupt Federal
-President Isaac Gellan in 2862. Rather than being tarnished by its
+President [[id:77091a28-dc28-405d-bb97-c32a1aecdd33][Isaac Gellan]] in 2862. Rather than being tarnished by its
 association with Gellan, however, the company's reputation was enhanced,
 since it was Rockforth itself that exposed the president's corruption.
 

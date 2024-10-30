@@ -8,9 +8,9 @@
 
 /26 Oct 3306/
 
-The Federation will grant sanctuary to Marlinist political refugees from the Empire, following a congressional vote in favour of Felicia Winters. 
+The Federation will grant sanctuary to Marlinist political refugees from the Empire, following a congressional vote in favour of [[id:b9fe58a3-dfb7-480c-afd6-92c3be841be7][Felicia Winters]]. 
 
-President [[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][Zachary Hudson]] had stated that illegal immigrants in the Federal systems Charunder, Ennead, HIP 36081, LTT 1935, LTT 3607 and Thetis would be detained and returned to Imperial space. This was challenged by Shadow President Felicia Winters, who argued that they deserved a more compassionate response. 
+President [[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][Zachary Hudson]] had stated that illegal immigrants in the Federal systems Charunder, Ennead, HIP 36081, LTT 1935, LTT 3607 and Thetis would be detained and returned to Imperial space. This was challenged by Shadow President [[id:b9fe58a3-dfb7-480c-afd6-92c3be841be7][Felicia Winters]], who argued that they deserved a more compassionate response. 
 
 Congress debated and then voted on her proposal, which received majority support. Government funding will soon be released to provide resources and accommodation for the refugee population. 
 
@@ -20,4 +20,4 @@ Shadow President Winters told the media:
 
  “These innocent people only seek what we in the Federation take for granted – democracy, fairness and political representation. Their values are closer to ours than the Empire’s, and we have an obligation to protect them.” 
 
-Several newsfeeds, including [[id:be5df73c-519d-45ed-a541-9b70bc8ae97c][The Federal Times]] and Sol Today, commented that President Hudson’s authority has been undermined by his refusal to comment on the charges against Fleet Admiral Vincent. The accompanying rumours of corruption and conspiracy have had a demoralising effect on his supporters, and increased the Liberal Party’s popularity.
+Several newsfeeds, including [[id:be5df73c-519d-45ed-a541-9b70bc8ae97c][The Federal Times]] and Sol Today, commented that President Hudson’s authority has been undermined by his refusal to comment on the charges against Fleet [[id:478137a2-59fc-4055-ba37-021ef7035652][Admiral Vincent]]. The accompanying rumours of corruption and conspiracy have had a demoralising effect on his supporters, and increased the Liberal Party’s popularity.

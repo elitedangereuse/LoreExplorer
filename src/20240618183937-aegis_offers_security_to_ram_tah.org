@@ -4,16 +4,16 @@
 #+title: Aegis Offers Security to Ram Tah
 #+filetags: :Thargoid:3304:galnet:
 
-* Aegis Offers Security to Ram Tah
+* Aegis Offers Security to [[id:4551539e-a6b2-4c45-8923-40fb603202b7][Ram Tah]]
 
 /30 Nov 3304/
 
-Aegis has stationed a security force in the Meene system to protect the engineer Ram Tah. 
+Aegis has stationed a security force in the Meene system to protect the engineer [[id:4551539e-a6b2-4c45-8923-40fb603202b7][Ram Tah]]. 
 
 An announcement was made by Professor [[id:c2623368-19b0-4995-9e35-b8f54f741a53][Alba Tesreau]]: 
 
 “Ram Tah’s research has been enormously beneficial to our understanding of the Thargoids, and resulted in developments that aid us in the conflict. We therefore have a vested interest in protecting his work.” 
 
-“We have deployed a security force that will provide continual support while allowing Ram Tah’s operation to remain completely independent. Hopefully this will prevent any further disruption.” 
+“We have deployed a security force that will provide continual support while allowing [[id:4551539e-a6b2-4c45-8923-40fb603202b7][Ram Tah]]’s operation to remain completely independent. Hopefully this will prevent any further disruption.” 
 
-There has been no response from the Sirius Corporation, which recently arrested a cabal of junior officers from its private fleet for launching an incursion into Meene. Li Yong-Rui, the CEO of Sirius Corp, has allegedly withdrawn his offer to work with [[id:4551539e-a6b2-4c45-8923-40fb603202b7][Ram Tah]] on Guardian-human technology.
+There has been no response from the Sirius Corporation, which recently arrested a cabal of junior officers from its private fleet for launching an incursion into Meene. [[id:f0655b3a-aca9-488f-bdb3-c481a42db384][Li Yong-Rui]], the CEO of Sirius Corp, has allegedly withdrawn his offer to work with [[id:4551539e-a6b2-4c45-8923-40fb603202b7][Ram Tah]] on Guardian-human technology.

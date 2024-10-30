@@ -10,9 +10,9 @@
 
 The candidates in the Alliance presidential election have been announced. 
 
-Political journalist Vanya Driscoll shared the news in The Alliance Tribune: 
+Political journalist [[id:b26ee6ca-29a4-4dca-b69f-b4957b1ae650][Vanya Driscoll]] shared the news in The Alliance Tribune: 
 
-“The candidates running against President Gibson Kincaid, who is seeking a second term, have now launched their campaigns.” 
+“The candidates running against President [[id:8520e75f-0479-42c5-9083-f9abfbad721e][Gibson Kincaid]], who is seeking a second term, have now launched their campaigns.” 
 
 “Fazia Silva is a successful entrepreneur from the Vamm system. Although lacking political experience, she intends to leverage her business acumen to increase trade and boost economies throughout the Alliance. She has delegated control of her corporate empire to her sister, freeing her to run for office.” 
 

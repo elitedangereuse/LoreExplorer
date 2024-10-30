@@ -4,15 +4,15 @@
 #+title: Details of Aisling Duval’s Wedding Announced
 #+filetags: :Empire:Federation:Alliance:3304:galnet:
 
-* Details of Aisling Duval’s Wedding Announced
+* Details of [[id:b402bbe3-5119-4d94-87ee-0ba279658383][Aisling Duval]]’s Wedding Announced
 
 /14 Jul 3304/
 
-The wedding of Princess [[id:b402bbe3-5119-4d94-87ee-0ba279658383][Aisling Duval]] and Federal Ambassador Jordan Rochester is now in the advanced planning stages, and a date has been confirmed for the ceremony. 
+The wedding of Princess [[id:b402bbe3-5119-4d94-87ee-0ba279658383][Aisling Duval]] and Federal Ambassador [[id:81c5c161-1553-44f0-b5fb-c4a58f1f71d7][Jordan Rochester]] is now in the advanced planning stages, and a date has been confirmed for the ceremony. 
 
 An official proclamation was printed in both [[id:be5df73c-519d-45ed-a541-9b70bc8ae97c][The Federal Times]] and The Imperial Herald: 
 
-“Her Imperial Highness Princess [[id:b402bbe3-5119-4d94-87ee-0ba279658383][Aisling Duval]] and the honourable Ambassador Jordan Rochester are pleased to announce the occasion of their wedding on Saturday 25th August 3304 at the Imperial Palace on Emerald in the [[id:360ae21e-63f2-43ba-a2fd-a47e5e49951e][Cemiess]] system.” 
+“Her Imperial Highness Princess [[id:b402bbe3-5119-4d94-87ee-0ba279658383][Aisling Duval]] and the honourable Ambassador [[id:81c5c161-1553-44f0-b5fb-c4a58f1f71d7][Jordan Rochester]] are pleased to announce the occasion of their wedding on Saturday 25th August 3304 at the Imperial Palace on Emerald in the [[id:360ae21e-63f2-43ba-a2fd-a47e5e49951e][Cemiess]] system.” 
 
 “Invitations have been extended to representatives of every strata of society. An honour guard of vessels from both the Federal Navy and the Imperial Navy will be in attendance. The couple’s wish is for all citizens of the galaxy to join together in celebration of their union.” 
 
@@ -20,6 +20,6 @@ There has been criticism of Princess Duval’s choice of husband, with some Impe
 
 “This is nothing but a PR exercise, designed purely for political and financial gain. The princess should not be undermining the Empire’s policies for her own personal benefit.” 
 
-But there is equal support for what many consider a genuine romance. Former Federal President Jasmina Halsey, now acting as an advisor to the Alliance, stated: 
+But there is equal support for what many consider a genuine romance. Former Federal President [[id:a9ccf59f-436e-44df-b041-5020285925f8][Jasmina Halsey]], now acting as an advisor to the Alliance, stated: 
 
 “I am very enthusiastic about the opportunities for peace that this marriage will bring. This relationship symbolises a new era of amity that will benefit all of humanity.”

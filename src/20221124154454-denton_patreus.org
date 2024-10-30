@@ -4,7 +4,7 @@
 #+title: Denton Patreus
 #+filetags: :Empire:Federation:Alliance:Codex:KnowledgeBase:Individual:
 
-* Denton Patreus
+* [[id:75daea85-5e9f-4f6f-a102-1a5edea0283c][Denton Patreus]]
 
 #+begin_quote
 
@@ -25,7 +25,7 @@
   hate me, but really they hate themselves. Because deep in their hearts
   they know they're too lazy to fight for their dreams."
 
-  --- Denton Patreus, A Fireside Chat with Srena, 3302
+  --- [[id:75daea85-5e9f-4f6f-a102-1a5edea0283c][Denton Patreus]], A Fireside Chat with Srena, 3302
 #+end_quote
 
 Denton Patreus is a powerful Imperial Senator and the Admiral of the
@@ -48,21 +48,21 @@ and holding the line against the Alliance and the Federation, they are
 not publicly known. Politically, he has always played the part of the
 loyal Imperial; he accepts the need for progress, and has devoted
 considerable attention to eradicating Emperor's Dawn, an insurgent
-organisation responsible for the assassination of Emperor Hengist Duval.
+organisation responsible for the assassination of Emperor [[id:3cb0755e-4deb-442b-898b-3f0c6651636e][Hengist Duval]].
 His support for the Empire has been well rewarded, and as Admiral of the
 Fleet he enjoys and enviable level of prestige.
 
 But even this may not be enough, and many have speculated that Patreus
 harbours a desire to become Emperor. During the period of uncertainty
-that followed the death of Hengist Duval, Patreus suggested that the
+that followed the death of [[id:3cb0755e-4deb-442b-898b-3f0c6651636e][Hengist Duval]], Patreus suggested that the
 title of Emperor be assigned on the basis of public support rather than
 lineal descent -- a statement that was widely interpreted as a bid for
-the throne. When the succession passed to Arissa Lavigny-Duval by vote
+the throne. When the succession passed to [[id:34f3cfdd-0536-40a9-8732-13bf3a5e4a70][Arissa Lavigny-Duval]] by vote
 of the Senate, Patreus did not contest it.
 
-The question of who should succeed Arissa Lavigny-Duval is now a
+The question of who should succeed [[id:34f3cfdd-0536-40a9-8732-13bf3a5e4a70][Arissa Lavigny-Duval]] is now a
 pertinent one. Imperial commentators have suggested that Patreus' highly
-visible courtship of Princess Aisling Duval may be part of a long-term
+visible courtship of Princess [[id:b402bbe3-5119-4d94-87ee-0ba279658383][Aisling Duval]] may be part of a long-term
 strategy as well as a piece of savvy media manipulation. Arissa
 Lavigny-Duval has no children, whereas a child born to a Patreus-Duval
 partnership could be an extremely strong contender for the throne.

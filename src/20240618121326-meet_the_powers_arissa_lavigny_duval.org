@@ -4,7 +4,7 @@
 #+title: Meet the Powers – Arissa Lavigny-Duval
 #+filetags: :3301:Empire:galnet:
 
-* Meet the Powers – Arissa Lavigny-Duval
+* Meet the Powers – [[id:34f3cfdd-0536-40a9-8732-13bf3a5e4a70][Arissa Lavigny-Duval]]
 
 /27 Jul 3301/
 
@@ -14,4 +14,4 @@ Continuing this GalNet exclusive series, political commentator Marcus Macmillan 
 
 Arissa Lavigny-Duval’s success as a senator often eclipses the fact that as the daughter of the late Prince Aristide de Lavigny, she is also a princess by birth. It says much of her character that she prefers to represent herself with her achievements rather than just her bloodline. In Imperial politics, of course, having the right bloodline is also an asset and she is astute enough to make use of it when she needs to. 
 
-In popularity she rivals Princess [[id:b402bbe3-5119-4d94-87ee-0ba279658383][Aisling Duval]], partly because she is happy to tackle hard issues head on. Her primary platform is one of honour and she devotes much of her attention to tackling corruption. She is a familiar face in the Imperial court and her views often reflect those of the Emperor. The planned wedding between Emperor [[id:3cb0755e-4deb-442b-898b-3f0c6651636e][Hengist Duval]] and her mother, Florence Lavigny, will secure her position as next in line if anything should befall the Emperor.
+In popularity she rivals Princess [[id:b402bbe3-5119-4d94-87ee-0ba279658383][Aisling Duval]], partly because she is happy to tackle hard issues head on. Her primary platform is one of honour and she devotes much of her attention to tackling corruption. She is a familiar face in the Imperial court and her views often reflect those of the Emperor. The planned wedding between Emperor [[id:3cb0755e-4deb-442b-898b-3f0c6651636e][Hengist Duval]] and her mother, [[id:33f63de9-fd79-4790-a1a5-ebd87aaeea2d][Florence Lavigny]], will secure her position as next in line if anything should befall the Emperor.

@@ -4,7 +4,7 @@
 #+title: Aegis Forms Partnership with Ram Tah
 #+filetags: :galnet:
 
-* Aegis Forms Partnership with Ram Tah
+* Aegis Forms Partnership with [[id:4551539e-a6b2-4c45-8923-40fb603202b7][Ram Tah]]
 
 /17 Apr 3305/
 
@@ -12,7 +12,7 @@ Aegis has entered into a partnership with the engineer [[id:4551539e-a6b2-4c45-8
 
 Senior Engineer Lilith Galloway made the following statement on behalf of Aegis: 
 
-“We believe that Ram Tah’s accomplishments, while impressive, represent only a fraction of what can be accomplished. We have therefore entered into an agreement that will allow Aegis to bring its considerable resources to bear in the manufacture of Guardian-related technology, both now and in the future.” 
+“We believe that [[id:4551539e-a6b2-4c45-8923-40fb603202b7][Ram Tah]]’s accomplishments, while impressive, represent only a fraction of what can be accomplished. We have therefore entered into an agreement that will allow Aegis to bring its considerable resources to bear in the manufacture of Guardian-related technology, both now and in the future.” 
 
 Galloway confirmed that technology brokers would remain licensed distributors of the Trident, Javelin and Lance XG fighters. 
 

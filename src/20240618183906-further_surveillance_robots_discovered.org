@@ -10,13 +10,13 @@
 
 The [[id:0ba9accc-93ad-45a0-a771-e26daa59e58f][Federal Security Service]] has discovered more administration robots fitted with secret surveillance programs. 
 
-Lieutenant Inspector Ramesh Thorne informed the media: 
+Lieutenant Inspector [[id:67e55dd5-7840-4133-9111-566a0008b121][Ramesh Thorne]] informed the media: 
 
-“Our investigation into Lloyd Hardacre’s admin robot, which secretly recorded evidence of corporate fraud, has broadened significantly. Acting on reports of unusual behaviour, we have found five further robots containing hidden surveillance programs.” 
+“Our investigation into [[id:618fc109-cba3-4782-b24d-e4440f5894d4][Lloyd Hardacre]]’s admin robot, which secretly recorded evidence of corporate fraud, has broadened significantly. Acting on reports of unusual behaviour, we have found five further robots containing hidden surveillance programs.” 
 
 “In each case, the robot was a PA912 model, manufactured by the Achilles Corporation. The robots’ owners are now helping us with our enquiries.” 
 
-Two of the five owners have been identified. Don Zhao is the CEO of Kuiper Mining Inc., while Anya Blackriver runs a public-relations consultancy with offices in Olympus Village, San Francisco and Columbus station. 
+Two of the five owners have been identified. Don Zhao is the CEO of Kuiper Mining Inc., while [[id:464bcd90-c51a-4650-b5bb-83011a9dc5de][Anya Blackriver]] runs a public-relations consultancy with offices in Olympus Village, San Francisco and Columbus station. 
 
 A spokesperson for the Achilles Corporation gave this statement: 
 

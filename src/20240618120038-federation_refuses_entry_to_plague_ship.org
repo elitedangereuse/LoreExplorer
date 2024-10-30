@@ -16,7 +16,7 @@ Captain Jacob Morales, the Alexandria’s commander, broadcast this message:
 
 “The Federal Navy has instructed us not to resume our scheduled journey to Sol or enter any system within the Federation. They’re treating us like a plague ship! I understand their concern that more Thargoids will follow us, but we have several thousand crewmembers who need to reach safe harbour.” 
 
-A strategy was outlined by Admiral Aden Tanner, chief military liaison for Aegis: 
+A strategy was outlined by Admiral [[id:7bca1ccd-649e-438a-ae56-fb8ca34e6440][Aden Tanner]], chief military liaison for Aegis: 
 
 “We are attempting to clear the HIP 16538 system of Thargoid vessels, greatly aided by independent pilots and anti-xeno squadrons. The megaship will then jump to a system with a minimal population, where we will offload its cargo.” 
 

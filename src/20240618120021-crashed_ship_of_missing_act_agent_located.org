@@ -10,11 +10,11 @@
 
 *Pilots Federation ALERT* 
 
-The vessel of Captain Niamh Seutonia, who vanished on an anti-NMLA mission, has been found with its crew dead. 
+The vessel of Captain [[id:cdaa5220-8f79-47dc-b160-a5d3d1ca30a0][Niamh Seutonia]], who vanished on an anti-NMLA mission, has been found with its crew dead. 
 
 Following a widespread search by independent pilots, Commander TheRealFlame was the first to discover the wreckage of the Valkyrie in the Trianguli sector GW-W B1-0 system. It was apparent that the ship crashed after sustaining weapons fire, and that all crewmembers died on impact. 
 
-ACT co-leader Senior Agent Tanya Ramirez gave this statement to the media: 
+ACT co-leader Senior Agent [[id:fb74a286-1688-41e8-9bec-9ef14adaaf1f][Tanya Ramirez]] gave this statement to the media: 
 
 “We owe a debt to every pilot who joined our efforts to find the Valkyrie. It’s an emotional blow for us to lose one of ACT’s guiding lights, along with her courageous team.” 
 
@@ -22,4 +22,4 @@ ACT co-leader Senior Agent Tanya Ramirez gave this statement to the media:
 
 “We now have evidence confirming that a Neo-Marlinist faction in the Mudhrid system was directly involved in the [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] starport bombings. We have shared our findings with Imperial authorities, and the Order of Mudhrid is being investigated.” 
 
-Captain Niamh Seutonia rose to prominence as part of the tri-superpower taskforce that eliminated the League of Reparation in 3304. The Imperial Internal Security Service confirmed that she will be posthumously awarded the Achenar Service Cross.
+Captain [[id:cdaa5220-8f79-47dc-b160-a5d3d1ca30a0][Niamh Seutonia]] rose to prominence as part of the tri-superpower taskforce that eliminated the League of Reparation in 3304. The Imperial Internal Security Service confirmed that she will be posthumously awarded the Achenar Service Cross.

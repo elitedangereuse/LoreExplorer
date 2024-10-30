@@ -71,7 +71,7 @@ communication was often cited in the early years of human-Thargoid
 interaction, but prior to the discovery of INRA records it was not fully
 understood.
 
-Professor Uri Anslow of the INRA theorised that a Thargoid queen can
+Professor [[id:0e8f9924-e230-4390-aa79-5dba76c6e6d2][Uri Anslow]] of the INRA theorised that a Thargoid queen can
 communicate with the drones in its hive via a spread-spectrum electronic
 signal, and can use this signal to control the drones, and even to share
 their sensory input. Studies of battlefield footage certainly suggest
@@ -213,7 +213,7 @@ in their cargo holds, indicating that they know they are being studied
 and want to halt the process. But despite their evident intelligence,
 they appear to be completely uninterested in meaningful communication.
 
-The engineer Ram Tah, who has extensively researched the Guardians and
+The engineer [[id:4551539e-a6b2-4c45-8923-40fb603202b7][Ram Tah]], who has extensively researched the Guardians and
 their war with the Thargoids, holds the view that Thargoid aggression is
 a product of territorialism. They seed an area with barnacles, thus
 laying claim to it, and return -- sometimes many centuries later -- to

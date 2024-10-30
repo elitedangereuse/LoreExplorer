@@ -21,11 +21,11 @@ circumstances of Colonia's founding are highly unusual: the system was
 colonised as a result of the spontaneous actions of independent pilots,
 rather than through a formal expansion programme.
 
-The colonisation of Colonia began with an accident involving Jaques
+The colonisation of Colonia began with an accident involving [[id:f37f17f1-8eb3-4598-93f7-190fe97438a1][Jaques]]
 Station, a jump-capable [[id:d5cc8c3e-9887-4c30-9a1d-08008ab36675][Orbis]] starport. In May 3302, the station
 executed a long-distance jump to Beagle Point, but when it failed to
 reach its destination it was feared lost. In June 3302, an independent
-pilot discovered Jaques Station in the Eol Prou RS-T d3-94 system,
+pilot discovered [[id:f37f17f1-8eb3-4598-93f7-190fe97438a1][Jaques]] Station in the Eol Prou RS-T d3-94 system,
 suffering from technical issues and effectively stranded.
 
 The galactic community reacted swiftly, launching an independent supply

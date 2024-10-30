@@ -10,7 +10,7 @@
 
 The Socho system, headquarters of Aegis Core, has been overtaken by a criminal faction. The system is now in a state of anarchy. 
 
-A courier carrying a message from Aegis scientist Dr Mia Valencourt managed to escape the system. The message was then broadcast by the [[id:d06803e0-267c-4ffc-88f2-967058fce82e][Rewired]] news service: 
+A courier carrying a message from Aegis scientist Dr [[id:58df9ee3-9259-45e5-83e7-d817eed4b171][Mia Valencourt]] managed to escape the system. The message was then broadcast by the [[id:d06803e0-267c-4ffc-88f2-967058fce82e][Rewired]] news service: 
 
 “This is an urgent call for assistance. Regional security forces have been overrun, and this vicious gang – they call themselves the Socho Gold Raiders – they’re in charge now. They’ve shut everything down. Apparently they’re convinced we’re building some kind of super-weapon, so that’s probably what brought them here.” 
 

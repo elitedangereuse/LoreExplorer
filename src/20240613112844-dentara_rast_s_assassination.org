@@ -3,7 +3,7 @@
 :END:
 #+title: Dentara Rast's Assassination
 #+filetags: :Empire:Federation:beacon:
-* 0154 Dentara Rast's Assassination
+* 0154 [[id:79832d10-b5db-4944-a808-e5b2f11c2cb7][Dentara Rast]]'s Assassination
 [[id:35ef7825-95ca-418d-9cc2-9e7934b351c9][Tiliala]]
 
 Later in 3251, the [[id:a8068e9d-6706-47da-a19c-2ac943ea8811][assassination]] of [[id:79832d10-b5db-4944-a808-e5b2f11c2cb7][Dentara Rast]], began a chain of

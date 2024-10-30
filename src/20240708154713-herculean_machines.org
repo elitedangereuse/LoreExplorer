@@ -13,7 +13,7 @@
   --- Source
 #+end_quote
 
-Founded in 3299 by Maddox Hurd, Herculean Machines stands as testament
+Founded in 3299 by [[id:93fd6de1-43a9-40e8-819f-43d9bcd3a709][Maddox Hurd]], Herculean Machines stands as testament
 to the power of a good family name. Son of haulage magnate Rhesus Hurd,
 Hurd junior founded Herculean Machines as a means of escaping
 conscription into the family business. Tapping the family trust for
@@ -28,7 +28,7 @@ billions on glossy design, Herculean was concerned almost exclusively
 with performance.
 
 Rapid growth followed, with a fresh round of funding allowing Herculean
-to open two more development facilities. Meanwhile, Maddox Hurd was
+to open two more development facilities. Meanwhile, [[id:93fd6de1-43a9-40e8-819f-43d9bcd3a709][Maddox Hurd]] was
 earning a reputation as a bellicose businessman, known for browbeating
 opponents and driving employees to breaking point. Reports began
 circulating of severely overworked engineers, with news outlets
@@ -38,7 +38,7 @@ Hurd dismissed the reports as anti-Herculean propaganda, but a short
 time later, a disgruntled employee leaked prototype sketches detailing
 Herculean's upcoming device, the Duradrive.
 
-The leak was met with scathing criticism from Scorpio DeVorrow, CEO of
+The leak was met with scathing criticism from [[id:b62c9e2e-8079-44bc-a30d-d192076162e6][Scorpio DeVorrow]], CEO of
 rival company Supratech. DeVorrow decried the Duradrive as a regressive
 analogue; Hurd struck back, describing DeVorrow as "a pompous fool with
 impractical ideas."

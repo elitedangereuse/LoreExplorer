@@ -10,7 +10,7 @@
 
 Numerous sources have reported that Thargoid activity has escalated dramatically in recent days, with attacks from Thargoid Interceptor-class ships becoming increasingly common in the Pleiades Nebula. Reports confirm that Imperial, Federal and civilian ships have all been targeted. Images captured by survivors of these attacks show Thargoid ships scanning wreckage and gathering debris, including occupied escape pods. 
 
-As Aegis continues to analyse the results of these encounters, the organisation’s military liaison, Aden Tanner, released the following statement: 
+As Aegis continues to analyse the results of these encounters, the organisation’s military liaison, [[id:7bca1ccd-649e-438a-ae56-fb8ca34e6440][Aden Tanner]], released the following statement: 
 
 “We are aware that the Interceptors have started capturing escape pods, although we currently have no way of knowing if this is a deliberate strategy or simply a symptom of curiosity. That is not to suggest, of course, that the Thargoids’ motives are benign, as it is clear they are not.” 
 

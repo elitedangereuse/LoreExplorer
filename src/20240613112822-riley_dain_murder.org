@@ -3,7 +3,7 @@
 :END:
 #+title: Riley Dain Murder
 #+filetags: :Empire:Federation:beacon:
-* 0120 Riley Dain Murder
+* 0120 [[id:fa8094c2-7d96-448e-b4e2-a675e0214ef1][Riley Dain]] Murder
 [[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]]
 
 In 3184, the election of Federation President [[id:691ec616-5efd-4f3c-bb2a-11db8b3901f9][Loric Trander]] saw a

@@ -10,18 +10,18 @@
 
 The anti-xeno operation in HIP 22460 involving [[id:e68a5318-bd72-4c92-9f70-dcdbd59505d1][Azimuth Biotech]] and the superpowers has drawn comments from prominent political figures. 
 
-Emperor Arissa Lavigny-Duval: “I agree with Senator Patreus that supporting Azimuth’s proposal remains our most practical course of action. However, alternative options for tackling the Thargoid threat are required.” 
+Emperor [[id:34f3cfdd-0536-40a9-8732-13bf3a5e4a70][Arissa Lavigny-Duval]]: “I agree with Senator Patreus that supporting Azimuth’s proposal remains our most practical course of action. However, alternative options for tackling the Thargoid threat are required.” 
 
-Princess Aisling Duval: “Salvation is clearly a master of self-promotion and public manipulation. I only hope that the Empire does not regret associating with this distasteful individual.” 
+Princess [[id:b402bbe3-5119-4d94-87ee-0ba279658383][Aisling Duval]]: “Salvation is clearly a master of self-promotion and public manipulation. I only hope that the Empire does not regret associating with this distasteful individual.” 
 
-Prime Minister Edmund Mahon: “Our military presence in HIP 22460, coupled with the strategic defence pact with Sirius Corporation, shows that the long-term security of Allied systems remains our priority.” 
+Prime Minister [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74][Edmund Mahon]]: “Our military presence in HIP 22460, coupled with the strategic defence pact with Sirius Corporation, shows that the long-term security of Allied systems remains our priority.” 
 
-Councillor Nakato Kaine: “Two ruthless corporations with disreputable histories, and the Alliance is now collaborating with both. This a deeply regrettable chapter in our history.” 
+Councillor [[id:0d664f07-640e-4397-be23-6b52d2c2d4d6][Nakato Kaine]]: “Two ruthless corporations with disreputable histories, and the Alliance is now collaborating with both. This a deeply regrettable chapter in our history.” 
 
-President Zachary Hudson: “I have every confidence in the Federal Navy to protect [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]] while the Proteus Wave is prepared. This is a long-overdue reprisal against an intractable and relentless enemy.” 
+President [[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][Zachary Hudson]]: “I have every confidence in the Federal Navy to protect [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]] while the Proteus Wave is prepared. This is a long-overdue reprisal against an intractable and relentless enemy.” 
 
-Shadow President Felicia Winters: “Azimuth’s superweapon is effective, I’ll admit. But I’m unhappy with relying on this clandestine organisation, rather than an accountable anti-xeno agency.” 
+Shadow President [[id:b9fe58a3-dfb7-480c-afd6-92c3be841be7][Felicia Winters]]: “Azimuth’s superweapon is effective, I’ll admit. But I’m unhappy with relying on this clandestine organisation, rather than an accountable anti-xeno agency.” 
 
-CEO Li Yong-Rui: “Sirius Corporation is observing activities in HIP 22460 with great interest. I am keen to explore cooperation with [[id:e68a5318-bd72-4c92-9f70-dcdbd59505d1][Azimuth Biotech]] on developing new products using Proteus Wave technology.” 
+CEO [[id:f0655b3a-aca9-488f-bdb3-c481a42db384][Li Yong-Rui]]: “Sirius Corporation is observing activities in HIP 22460 with great interest. I am keen to explore cooperation with [[id:e68a5318-bd72-4c92-9f70-dcdbd59505d1][Azimuth Biotech]] on developing new products using Proteus Wave technology.” 
 
-Simguru Pranav Antal: “The advanced electromagnetic sciences developed by the Guardians over a million years ago remain poorly understood, even to Utopia’s keenest minds. The safety and effectiveness of [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]’s device cannot be guaranteed.”
+Simguru [[id:05ab22a7-9952-49a3-bdc0-45094cdaff6a][Pranav Antal]]: “The advanced electromagnetic sciences developed by the Guardians over a million years ago remain poorly understood, even to Utopia’s keenest minds. The safety and effectiveness of [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]’s device cannot be guaranteed.”

@@ -10,7 +10,7 @@
 
 The Alliance has ended medical isolation for all citizens who were rescued from the Titans after being abducted by Thargoid vessels. 
 
-Prime Minister Edmund Mahon’s official declaration was published by all newsfeeds: 
+Prime Minister [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74][Edmund Mahon]]’s official declaration was published by all newsfeeds: 
 
 “The Assembly has agreed that quarantine procedures for everyone recovered from the Titans are no longer necessary. Those who hail from an Allied system are being transported from the secure facilities back to their families and communities. Their long nightmare is over. We are sending our people home.” 
 
@@ -18,7 +18,7 @@ Prime Minister Edmund Mahon’s official declaration was published by all newsfe
 
 Some medical institutes such as Kamadhenu Medipure and Vandermeer Corporation opposed the Alliance’s decision, claiming that Imperial and Federal returnees should never be allowed back into the general population.   [[id:e68a5318-bd72-4c92-9f70-dcdbd59505d1][Azimuth Biotech]] also repeated its offer to perform “cutting-edge xenological detection procedures on every human extracted from a Thargoid bio-storage capsule.” 
 
-The political dimension was analysed by Vanya Driscoll for The Alliance Tribune: 
+The political dimension was analysed by [[id:b26ee6ca-29a4-4dca-b69f-b4957b1ae650][Vanya Driscoll]] for The Alliance Tribune: 
 
 “Prime Minister Mahon knows that this will be a popular decision, after many public figures called the extended quarantine ‘inhumane’ and ‘barbaric’. Plus, with his rival Councillor Kaine currently questioning the wisdom of the Mahon-endorsed strategic defence pact with Sirius, the timing of this benevolent act could not be better.” 
 

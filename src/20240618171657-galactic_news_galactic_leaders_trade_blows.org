@@ -10,7 +10,7 @@
 
 The leaders of the galaxy's three superpowers have released further statements concerning reports of mysterious spacecraft. 
 
-Emperor Arissa-Lavigny Duval, responding to the recent statement from Federal President Zachary Hudson, said: 
+Emperor Arissa-Lavigny Duval, responding to the recent statement from Federal President [[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][Zachary Hudson]], said: 
 
 "Once again, President Hudson has shown himself to be little more than a warmonger. I say again: we must not jump to conclusions. We have not yet acquired any reliable information about these vessels. We must be patient." 
 
@@ -18,6 +18,6 @@ No sooner had the Emperor made her statement than President Hudson responded. Sp
 
 "Some believe that aliens have infiltrated the Empire. An improbable claim? Maybe. But then again, maybe not. After all, we are almost certainly dealing with an extremely advanced species. Who knows what they are capable of?" 
 
-Alliance Prime Minister [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74][Edmund Mahon]] did not release a statement, but former Federal president Jasmina Halsey, who has become one of Mahon's most trusted advisors, made an announcement in which she seemed to address the ongoing Federal-Imperial conflict as much as the mysterious ships: 
+Alliance Prime Minister [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74][Edmund Mahon]] did not release a statement, but former Federal president [[id:a9ccf59f-436e-44df-b041-5020285925f8][Jasmina Halsey]], who has become one of Mahon's most trusted advisors, made an announcement in which she seemed to address the ongoing Federal-Imperial conflict as much as the mysterious ships: 
 
 "Understanding. Cooperation. These must be our watchwords. We have to go beyond party politics and petty point scoring. Only by working together can we hope to avoid bloodshed."

@@ -18,13 +18,13 @@ sequence failed to fix the fuel scoop.
 Several commanders responded to the distress call, including [[id:7a203bd3-fb88-4152-b39b-36fce7a943a9][Domaq]],
 [[id:85cdabdd-7a6e-4f90-a2b1-fe434fe3a786][Paul_Kavinsky]], [[id:f0a7a516-4d16-4e97-8bc0-f39d6844b92b][Rusticolus]], [[id:869ee4e0-8347-4300-ba60-73dbf5d092eb][Cpt_Shinobi]], [[id:06fffd5d-ab7b-4ea3-8270-cb078ba10782][Surly_badger]], and [[id:8c6e19e1-9523-4321-a333-41cacd7a47ee][Anuranium]].
 
-Cmdr. Domaq quickly arrived on scene and provided an initial
+Cmdr. [[id:7a203bd3-fb88-4152-b39b-36fce7a943a9][Domaq]] quickly arrived on scene and provided an initial
 refuelling to ensure the ship could remain powered while the other
 ships moved into position.
 
 A relay operation involving several ships and roughly 540 limpet
 drones then proceeded. Speed was a priority due to the damage
-Cmdr. Neospike’s ship had undergone leaving all of his systems at less
+Cmdr. [[id:94da553f-7bd1-47c6-86d6-04325d367d15][Neospike]]’s ship had undergone leaving all of his systems at less
 than 5%.
 
 As of this reporting the Fuel Rat initiative has rescued over 190

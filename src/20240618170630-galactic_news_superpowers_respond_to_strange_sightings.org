@@ -10,11 +10,11 @@
 
 Following several sightings of mysterious spacecraft, the leaders of the galaxy's three superpowers have released official statements. 
 
-Emperor Arissa Lavigny-Duval, currently undertaking a tour of Imperial systems, exhibited reservation: 
+Emperor [[id:34f3cfdd-0536-40a9-8732-13bf3a5e4a70][Arissa Lavigny-Duval]], currently undertaking a tour of Imperial systems, exhibited reservation: 
 
 "To surmise that these encounters constitute proof of the existence of non-human intelligence would be rash in the extreme. We cannot rule out the possibility that these ships could be experimental human spacecraft, or even the product of an intricate hoax. I urge all Imperial citizens to remain calm, and not to leap to conclusions." 
 
-Federal President Zachary Hudson, meanwhile, struck a characteristically strident tone: 
+Federal President [[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][Zachary Hudson]], meanwhile, struck a characteristically strident tone: 
 
 "I have reviewed the footage submitted by the galactic community. Granted, the evidence is not conclusive. But tell me this: would you rather prepare for an attack that may not come, or be met by an attack you did not prepare for? We know nothing about the true nature or purpose of these vessels. It would be in our best interest to prepare for any eventuality." 
 

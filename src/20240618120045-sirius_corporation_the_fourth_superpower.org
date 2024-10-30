@@ -10,13 +10,13 @@
 
 The galaxy’s largest megacorporation is continuing to influence the political arena and affect billions of lives. 
 
-A review was published by Marlon Royce, business analyst for Vox Galactica: 
+A review was published by [[id:d4e49144-20cb-468e-b3ce-f594c2b5bf13][Marlon Royce]], business analyst for Vox Galactica: 
 
 “With its own government, laws and naval fleet, it’s not surprising that Sirius Corporation is occasionally referred to as ‘the fourth superpower’. That now seems to be its actual goal, as its impact upon interstellar politics increases.” 
 
 “When Sirius Corporation resettled the Marlinist refugees in their own colony systems, it averted war between the Empire and the Federation. But this seemingly altruistic move enabled CEO [[id:f0655b3a-aca9-488f-bdb3-c481a42db384][Li Yong-Rui]] to claim political neutrality, gaining public support to host the Galactic Summit in the Sirius system.” 
 
-“That success was undermined by the controversy of granting diplomatic status to pirate warlord Archon Delaine. Rumours of secret business dealings were reinforced when Sirius subsidiaries appeared alongside the Kumo Crew’s new starports.” 
+“That success was undermined by the controversy of granting diplomatic status to pirate warlord [[id:7aae0550-b8ba-42cf-b52b-e7040461c96f][Archon Delaine]]. Rumours of secret business dealings were reinforced when Sirius subsidiaries appeared alongside the Kumo Crew’s new starports.” 
 
 “High-level agreements were also made with the Alliance, with Sirius Atmospherics aiding colonisation of the Coalsack Nebula. But some believe that its project to terraform ammonia worlds brought retaliatory strikes from the Thargoids and enormous casualties.” 
 

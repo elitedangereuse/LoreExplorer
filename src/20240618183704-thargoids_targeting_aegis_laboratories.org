@@ -10,7 +10,7 @@
 
 Analytical reports released by Aegis have confirmed a pattern to the Thargoids’ recent starport attacks, which have left thousands dead and infrastructures crippled. 
 
-Admiral Aden Tanner, Aegis’s chief military liaison, made this statement: 
+Admiral [[id:7bca1ccd-649e-438a-ae56-fb8ca34e6440][Aden Tanner]], Aegis’s chief military liaison, made this statement: 
 
 “We have identified that the Thargoids are specifically targeting starports where Aegis laboratories are established. These include Titan's Daughter in the Taygeta system, Liman Legacy in HIP 16753 and the Oracle in the Pleiades Sector IR-W D1-55.”  
 

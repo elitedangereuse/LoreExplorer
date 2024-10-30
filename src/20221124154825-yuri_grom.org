@@ -4,7 +4,7 @@
 #+title: Yuri Grom
 #+filetags: :Federation:Empire:Alliance:KnowledgeBase:Codex:Individual:
 
-* Yuri Grom
+* [[id:b4892958-b513-46dc-b74e-26887b53f678][Yuri Grom]]
 
 #+begin_quote
 
@@ -55,7 +55,7 @@ single shot being fired.
 
 While Grom is admired by his own people, and has earned the respect of
 the Empire and the Alliance, the Federation views him as a menace.
-President Zachary Hudson reported to have referred to Grom as "a cancer
+President [[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][Zachary Hudson]] reported to have referred to Grom as "a cancer
 that Halsey foolishly allowed to spread when she could have cut it out".
 
 Hudson's views are not shared by the wider Federal military, and
