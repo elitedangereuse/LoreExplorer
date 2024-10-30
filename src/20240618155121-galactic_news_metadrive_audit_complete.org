@@ -16,4 +16,4 @@ A number of files relating to Dakarai's affairs are also believed to be missing.
 
 A spokesperson for BigSix, the auditor, provided a statement: 
 
-"The audit of MetaDrive is now complete, and contrary to previous misleading reports, we have all the documentation we need. It transpires the Eagle spacecraft stolen by [[id:4ab3e632-de21-44bc-a834-83b808a737ec][Raan Corsen]] crashed somewhere in the Alioth system while fleeing security forces. The vessel was fully insured, so BigSix is not unduly concerned by its loss."
+"The audit of MetaDrive is now complete, and contrary to previous misleading reports, we have all the documentation we need. It transpires the Eagle spacecraft stolen by [[id:4ab3e632-de21-44bc-a834-83b808a737ec][Raan Corsen]] crashed somewhere in the [[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]] system while fleeing security forces. The vessel was fully insured, so BigSix is not unduly concerned by its loss."

@@ -4,26 +4,26 @@
 #+title: Conflict Erupts in the Reorte System
 #+filetags: :3308:Federation:Alliance:galnet:
 
-* Conflict Erupts in the Reorte System
+* Conflict Erupts in the [[id:5292d8c1-fa6e-4352-a03f-ef984f706203][Reorte]] System
 
 /27 Jan 3308/
 
 *Pilots’ Federation ALERT* 
 
-The Reorte Mining Coalition has declared its intent to remove the Sirius Corporation presence from its home system. 
+The [[id:5292d8c1-fa6e-4352-a03f-ef984f706203][Reorte]] Mining Coalition has declared its intent to remove the [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Corporation presence from its home system. 
 
-The megaship Chariot of Rhea arrived in Reorte as part of Sirius Corporation’s new role as the Alliance’s strategic defence partner. But the system’s controlling faction ordered it to withdraw. The megaship’s non-compliance has resulted in skirmishes targeting Sirius forces. 
+The megaship Chariot of [[id:6da9023a-ccb6-444a-be77-626dfb552eb1][Rhea]] arrived in [[id:5292d8c1-fa6e-4352-a03f-ef984f706203][Reorte]] as part of [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Corporation’s new role as the Alliance’s strategic defence partner. But the system’s controlling faction ordered it to withdraw. The megaship’s non-compliance has resulted in skirmishes targeting Sirius forces. 
 
-Fergus Cassidy, CEO of the Reorte Mining Coalition, announced: 
+Fergus Cassidy, CEO of the [[id:5292d8c1-fa6e-4352-a03f-ef984f706203][Reorte]] Mining Coalition, announced: 
 
-“We fully support Councillor Kaine’s position that Sirius Corporation is operating illegally under Alliance law. Therefore, we will defend our territory from this aggressive foreign entity.” 
+“We fully support Councillor Kaine’s position that [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Corporation is operating illegally under Alliance law. Therefore, we will defend our territory from this aggressive foreign entity.” 
 
-A response was broadcast by Captain Delfina Dominguez of the Sirius Navy, who commands the Chariot of Rhea: 
+A response was broadcast by Captain Delfina Dominguez of the [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Navy, who commands the Chariot of [[id:6da9023a-ccb6-444a-be77-626dfb552eb1][Rhea]]: 
 
-“Our presence is authorised by the military contract between Sirius Corporation and the [[id:17d9294e-7759-4cf4-9a67-5f12b5704f51][Alliance Defence Force]]. If local forces continue to attack, we will have no option but to defend our assets.” 
+“Our presence is authorised by the military contract between [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Corporation and the [[id:17d9294e-7759-4cf4-9a67-5f12b5704f51][Alliance Defence Force]]. If local forces continue to attack, we will have no option but to defend our assets.” 
 
 The fighting is not believed to have reached surface level and is expected to remain a ship-based conflict. 
 
-To rally support from independent pilots, both factions are offering access to permit-locked systems. Reorte Mining Coalition will sponsor distribution of an Alioth system permit, while Sirius Corporation will authorise a permit to the Sirius system. 
+To rally support from independent pilots, both factions are offering access to permit-locked systems. [[id:5292d8c1-fa6e-4352-a03f-ef984f706203][Reorte]] Mining Coalition will sponsor distribution of an [[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]] system permit, while [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Corporation will authorise a permit to the Sirius system. 
 
-Prime Minister [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74][Edmund Mahon]] has ordered the Reorte Mining Coalition to cease hostilities immediately. However, Councillor Ainsley Niven  – who represents Reorte in the Assembly and is a political supporter of [[id:0d664f07-640e-4397-be23-6b52d2c2d4d6][Nakato Kaine]] – claims that the faction has the right to protect its territory, since it was not invited to ratify the defence pact.
+Prime Minister [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74][Edmund Mahon]] has ordered the [[id:5292d8c1-fa6e-4352-a03f-ef984f706203][Reorte]] Mining Coalition to cease hostilities immediately. However, Councillor Ainsley Niven  – who represents Reorte in the Assembly and is a political supporter of [[id:0d664f07-640e-4397-be23-6b52d2c2d4d6][Nakato Kaine]] – claims that the faction has the right to protect its territory, since it was not invited to ratify the defence pact.

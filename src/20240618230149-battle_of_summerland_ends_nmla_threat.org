@@ -4,7 +4,7 @@
 #+title: Battle of Summerland Ends NMLA Threat
 #+filetags: :3308:Empire:Federation:galnet:
 
-* Battle of Summerland Ends NMLA Threat
+* Battle of [[id:ba152f8a-d8af-4611-b8ac-0b32f3258dd0][Summerland]] Ends NMLA Threat
 
 /24 Feb 3308/
 
@@ -24,7 +24,7 @@ fled from the [[id:fdd32864-53fd-4eef-83ed-5cce54c199a7][Onyx Storm]] megaship a
 auxiliaries.
 
 Emperor [[id:d5a9852e-9a45-4e65-8b64-8227cc2b6c53][Arissa]] praised all those who helped destroy [[id:57907627-04a8-4987-96c2-535c101e958b][Darkwater]], and
-declared: “Let the Battle of Summerland mark the victorious end of our
+declared: “Let the Battle of [[id:ba152f8a-d8af-4611-b8ac-0b32f3258dd0][Summerland]] mark the victorious end of our
 bitter war against both the [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] and the traitors who sought to
 destabilise the Empire.”
 
@@ -34,7 +34,7 @@ nullified.” All data obtained from the terrorists’ [[id:22dfd239-84ed-4b35-a
 has now been shared with the relevant security agencies.
 
 With [[id:57907627-04a8-4987-96c2-535c101e958b][Darkwater]] eliminated, the Empire has installed a new controlling
-faction into the Summerland system. The [[id:0198f05b-ee89-4d10-92ff-e5095c94e401][Praetorian Vigil]] will report
+faction into the [[id:ba152f8a-d8af-4611-b8ac-0b32f3258dd0][Summerland]] system. The [[id:0198f05b-ee89-4d10-92ff-e5095c94e401][Praetorian Vigil]] will report
 directly to the Emperor and govern in her name.
 
 The [[id:d057639b-d0ac-49a5-a39e-3d44e3dd63a3][Summerland Patron’s Party]] will redeem [[id:bbbc7bc6-79d7-46b7-925e-c1f882c8f25a][combat bonds]] and provide

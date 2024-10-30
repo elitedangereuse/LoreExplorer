@@ -22,11 +22,11 @@ Ackerman Market, Eravate
 
 von Bellingshausen Port, Almar 
 
-Haack Gateway, Halbangaay 
+Haack [[id:e179ecca-9ab3-4184-b05e-107b2e6932c2][Gateway]], Halbangaay 
 
 Gabriel Enterprise, Harma 
 
-Gurragchaa Gateway, Warkushanui 
+Gurragchaa [[id:e179ecca-9ab3-4184-b05e-107b2e6932c2][Gateway]], Warkushanui 
 
 Gaiman Dock, 49 Arietis 
 
@@ -36,7 +36,7 @@ Korolyov Hub, Arawere
 
 Lobachevsky Outpost, Pic Tok 
 
-Carter Port, Rhea 
+Carter Port, [[id:6da9023a-ccb6-444a-be77-626dfb552eb1][Rhea]] 
 
 Starports experiencing technical issues: 
 
@@ -50,7 +50,7 @@ Tall Enterprise, Ngalia
 
 Love Ring,  Evejitaka 
 
-al-Din Prospect, Alpha Centauri 
+al-Din Prospect, [[id:2de7ac5c-9ae0-4ebf-af7d-6505f05d2fd1][Alpha Centauri]] 
 
 Robigo Mines, Robigo 
 
@@ -66,10 +66,10 @@ Hinz Hub, Ngobe
 
 Tsunenaga Dock, Iapodes 
 
-Li Qing Jao, Sol 
+Li Qing Jao, [[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]] 
 
-Ray Gateway, Diaguandri 
+Ray [[id:e179ecca-9ab3-4184-b05e-107b2e6932c2][Gateway]], Diaguandri 
 
 Vizcaino Enterprise, Nganji 
 
-Talos 2, Peregrina
+Talos 2, [[id:3ea0a57b-8e74-4642-bb38-5152ddba646d][Peregrina]]

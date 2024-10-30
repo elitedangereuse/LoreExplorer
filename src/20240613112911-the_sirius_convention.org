@@ -3,23 +3,23 @@
 :END:
 #+title: The Sirius Convention
 #+filetags: :beacon:
-* 0203 The Sirius Convention
+* 0203 The [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Convention
 [[id:3dd2f3c7-3ddf-4900-aa28-580344edd509][Sirius]]
 
 The [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]] operated under its own strict laws, governing
 workers rights, privileges etc., and also put in place conventions
 whereby in dealings with customers for large projects it voluntarily
-operated under a special hybrid of local law and Sirius law - where
+operated under a special hybrid of local law and [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] law - where
 the strictest provision was deemed to be in place. This became known
-as 'The Sirius Convention' - and was often applied in treaties between
+as 'The [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Convention' - and was often applied in treaties between
 independent systems.
 
-The Sirius Corporation developed a strong reputation for fair dealing
+The [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Corporation developed a strong reputation for fair dealing
 too. It would never refer to rival jurisdictions or deal terms in a
 negotiation with a government, and would keep such negotiations
 strictly to the scope of the deal - not using any of the many levers
 less scrupulous organisations would frequently call upon. Such delas
-were said to be conducted 'under the Sirius Rule' - another term that
+were said to be conducted 'under the [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Rule' - another term that
 effectively entered the language, much like the '[[id:9302d9f5-576c-4dc7-ab2f-2dd652803fe3][Chatham House Rule]]' a
 millennium earlier.
 

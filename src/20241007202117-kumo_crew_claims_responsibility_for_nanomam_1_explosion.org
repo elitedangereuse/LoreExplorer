@@ -3,11 +3,11 @@
 :END:
 #+title: Kumo Crew Claims Responsibility for Nanomam 1 Explosion
 #+filetags: :Empire:Federation:Thargoid:galnet:
-* Kumo Crew Claims Responsibility for Nanomam 1 Explosion
+* Kumo Crew Claims Responsibility for [[id:c01a596e-5cac-494a-8f23-200c1e2d0683][Nanomam]] 1 Explosion
 
 /22 Aug 3310/
 
-An explosion outside the Federal Republican Party offices on Nanomam 1 has claimed the lives of three government workers. 
+An explosion outside the Federal Republican Party offices on [[id:c01a596e-5cac-494a-8f23-200c1e2d0683][Nanomam]] 1 has claimed the lives of three government workers. 
 
 The blast originated from a small shuttle waiting to collect Shadow President-elect [[id:7bdfd887-d1db-46bc-98c4-2fb39bfcc914][Jerome Archer]], who had spent the morning at the building on party business. Archer was reportedly approaching the vehicle at the time of the explosion but was unharmed. 
 

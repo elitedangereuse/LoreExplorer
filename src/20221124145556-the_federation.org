@@ -64,7 +64,7 @@ democracy was soon given the less exclusive title of The Federation.
 When faster-than-light travel became a reality in the 22nd century,
 several terreestrial corporations competed fiercely to establish the
 first human colony in a new star system. Tau Ceti was the first system
-to be colonized, followed by Delta Pavonis, Beta Hydri, and Altair. In
+to be colonized, followed by [[id:595aa273-d1b3-44fd-9f16-ddc7291b4bee][Delta Pavonis]], [[id:0db1f0b9-a70d-4384-96a5-c1587a8270b1][Beta Hydri]], and [[id:144149ef-21cd-4e52-afea-dcf379d12d18][Altair]]. In
 their wake there followed a wild scramble of pionnering expeditions
 and colonial ventures.
 
@@ -105,7 +105,7 @@ the will of rapacious corporations.
 
 ** Society
 *** A federated democracy.
-The Federation's legislative body is made up of congressmen, elected to represent their system or state. Apart from the oldest core systems such as Sol, which encompass multiple states, each star system within the Federation is considered a single state.
+The Federation's legislative body is made up of congressmen, elected to represent their system or state. Apart from the oldest core systems such as [[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]], which encompass multiple states, each star system within the Federation is considered a single state.
 
 New colonies do not qualify for full Federation membership until and unless they fulfill the development objectives set down for them. With self-reliance comes representation. 
 
@@ -127,7 +127,7 @@ The Federation has maintained a battle fleet since the days of the first Federal
 
 At first the Federation's member systems were required to contribute the required ships, making the mustering process a cumbersome one. But following the Birthright Wars, corporations were chartered to produce centralised fleets, which made for a far more efficient system.
 
-The Naval shipyards and training academy were originally based in the Anlave system, but the academy has since been moved to the custom world of Navy Central in Eta Cassiopaeia.
+The Naval shipyards and training academy were originally based in the [[id:f0fea079-ca2f-420e-8dce-e69ca46ae126][Anlave]] system, but the academy has since been moved to the custom world of Navy Central in Eta Cassiopaeia.
 
 The Navy benefited from massive investement following the forced sell-off of colonial land in the Birthright Wars, during which it was wielded against the colonists in a bitterly resented move. When the Thargoids were first encounted in 2849, the Navy was boosted once again in fear of the alien threat, and a further bolstering followed in 2867 in the aftermath of what were believed to be Thargoid attacks.
 
@@ -174,15 +174,15 @@ Federal citizens actively embrace corporate culture, expressing their identity t
 ***Diplomatic
 
 *** The Empire.
-In 2292, a group fo colonists established a settlement on Achenar 6d, chose for its remoteness. The original intent was merely to live free from interference, but autocrat Hensen Duval rapidly took control of the colony and had himself proclaimed Emperor. The Federation attempted military reprisals, partly due to the nascent Empire's insistence on independence, but faced a harder fight than they had expected and were held at bay. Over the next fifty years, the Empire expanded to many other worlds.
+In 2292, a group fo colonists established a settlement on [[id:bed8c27f-3cbe-49ad-b86f-7d87eacf804a][Achenar]] 6d, chose for its remoteness. The original intent was merely to live free from interference, but autocrat Hensen Duval rapidly took control of the colony and had himself proclaimed Emperor. The Federation attempted military reprisals, partly due to the nascent Empire's insistence on independence, but faced a harder fight than they had expected and were held at bay. Over the next fifty years, the Empire expanded to many other worlds.
 
 The Federation's relationship with the Empire is one of entrenched mistrust stemming from irreconcilable ideological differences, mollified somewhat by the corporations, which have a presence in both territories and thus act as a stabilising influence. Outright hostilities between the powers, when they occur, are usually conducted through proxy forces.
 
 *** The Alliance.
-In 3228, the Federally aligned corporations supplying the Alioth system attempted to raise their prices, leading to a citizen rebellion. Several independent systems assisted the rebels.
+In 3228, the Federally aligned corporations supplying the [[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]] system attempted to raise their prices, leading to a citizen rebellion. Several independent systems assisted the rebels.
 
 Neither galactic superpower was able to suppress the revolt; the Empire was too far away to intervene effectively, whereas the Federation was hampered by unexpected public sympathy for the rebels.
 
-The Alliance of Independent Systems, founded on Alioth in 3230, drew in new members for the next 20 years; some were already independent, while others defected from the Federation or Empire.
+The Alliance of Independent Systems, founded on [[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]] in 3230, drew in new members for the next 20 years; some were already independent, while others defected from the Federation or Empire.
 
 In order to keep more worlds from defecting, the Federation was forced to reform the process whereby colonies could achieve full Federal membership. So far, it has only managed to slow the loss of worlds to the Alliance and has yet to tempt any back.

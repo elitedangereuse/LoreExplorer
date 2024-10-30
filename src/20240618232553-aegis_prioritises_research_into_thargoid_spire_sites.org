@@ -20,4 +20,4 @@ One of these scientists is Professor [[id:8f63442a-1f38-457d-857a-38297d732a90][
 
 “The construction of permanent surface structures confirms that the Thargoids have long-term plans. I’ve studied scans that indicate organic and mechanical processes taking place within each spire. My guess is they’re industrial in nature, the equivalent of our extraction factories. It’s possible they are producing or refining vast quantities of mineral substances to supply the Thargoid war machine.” 
 
-“Many pilots have already seen fit to provide me with compounds extracted from Thargoid spire sites, which has given my research an initial boost. Further samples can be delivered to Abel Laboratory or the bartender at Baird Gateway in the Arque system.”
+“Many pilots have already seen fit to provide me with compounds extracted from Thargoid spire sites, which has given my research an initial boost. Further samples can be delivered to Abel Laboratory or the bartender at Baird [[id:e179ecca-9ab3-4184-b05e-107b2e6932c2][Gateway]] in the [[id:d4b595af-536d-4575-af11-f07f3ac3ff40][Arque]] system.”

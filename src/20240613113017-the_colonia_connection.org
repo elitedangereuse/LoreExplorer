@@ -3,19 +3,19 @@
 :END:
 #+title: The Colonia Connection
 #+filetags: :beacon:
-* 0681 The Colonia Connection
+* 0681 The [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] Connection
 [[id:2de1afc0-4c9d-4e31-bc15-ba9961087ddd][Latugara]]
 
 On September 15th 3302 [[id:da124470-044d-4d54-b5c1-53b7f4db1d43][Latugara PLC]]. an independent organization based
-in the Latugara system, announced plans to construct a series of
+in the [[id:2de1afc0-4c9d-4e31-bc15-ba9961087ddd][Latugara]] system, announced plans to construct a series of
 outposts between the core of human-inhabited space and the rapidly
 expanding [[id:c4711f62-d6d2-4a42-bfe1-c794c528663f][Colonia Nebula Community]].
 
 In a statement, the organization's spokesperson said:
 
-“Given the relatively remote nature of the Colonia community, there's
+“Given the relatively remote nature of the [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] community, there's
 a clear need for a series of resupply outposts to support ships
 travelling to and from the Colony. These new bases will bridge the gap
-between the burgeoning Colonia community and the core systems.”
+between the burgeoning [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] community and the core systems.”
 
 [[file:img/beacons/0681.png]]

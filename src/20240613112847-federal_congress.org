@@ -17,7 +17,7 @@ vote if no confidence succeeds then a full election takes place. A
 Congressman (or President) cannot serve multiple consecutive terms.
 
 Every Federation system has representation in Congress, but generally
-a Congressman represents multiple systems, except a few (like Sol)
+a Congressman represents multiple systems, except a few (like [[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]])
 that have more than one Congressional representative, based loosely on
 historic population. Phenomenal growth in the outer systems has meant
 that they have have little representation in the Congress, and there

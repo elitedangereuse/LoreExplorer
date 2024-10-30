@@ -8,9 +8,9 @@
 
 /17 Jun 3302/
 
-A fleet of over 400 survey and support vessels has departed from Mitterand Hollow in Epsilon Indi. The Crab Nebula Expedition is the largest coordinated flight of explorers since the Distant Worlds Expedition. It has attracted a wide range of pilots, from veterans to beginners taking their first trip outside the bubble.  
+A fleet of over 400 survey and support vessels has departed from Mitterand Hollow in [[id:d40886f3-bc59-4f0d-8926-b125ee01c9bb][Epsilon Indi]]. The Crab Nebula Expedition is the largest coordinated flight of explorers since the Distant Worlds Expedition. It has attracted a wide range of pilots, from veterans to beginners taking their first trip outside the bubble.  
 
-The goal of the Expedition is a detailed planetary and mineral survey of tens of thousands of systems outwards of Sol, focusing on the regions around many well-known nebulae. The expedition is expected to reach the Crab Nebula on the 5th of July 3302, with the survey completed and the data returned in early August. 
+The goal of the Expedition is a detailed planetary and mineral survey of tens of thousands of systems outwards of [[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]], focusing on the regions around many well-known nebulae. The expedition is expected to reach the Crab Nebula on the 5th of July 3302, with the survey completed and the data returned in early August. 
 
 Felicity Farseer and [[id:887ca01b-ea5d-4fcd-a45d-de1ca598f1cd][Elvira Martuuk]] have personally refitted many of the exploration vessels. With both engineers claiming that their designs provide the best performance, this will be a major test for both. 
 

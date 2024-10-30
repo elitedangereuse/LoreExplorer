@@ -10,13 +10,13 @@
 
 *Pilots Federation ALERT* 
 
-The Alexandria megaship has jumped from Delphi to the HIP 16538 system, triggering a Thargoid attack. 
+The Alexandria megaship has jumped from [[id:846bfbc7-75e7-4d8d-8716-7fe0346026f4][Delphi]] to the HIP 16538 system, triggering a Thargoid attack. 
 
 The megaship is carrying large quantities of Guardian artefacts, which were delivered as part of a research programme by Aegis.  
 
 Captain Jacob Morales, commanding officer of the Alexandria, has broadcast an SOS: 
 
-“This is an emergency! We scheduled a stopover in HIP 16538 for tritium refuelling en route to the Sol system, but Thargoid interceptors came swarming in within minutes. We require immediate assistance!” 
+“This is an emergency! We scheduled a stopover in HIP 16538 for tritium refuelling en route to the [[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]] system, but Thargoid interceptors came swarming in within minutes. We require immediate assistance!” 
 
 Admiral [[id:7bca1ccd-649e-438a-ae56-fb8ca34e6440][Aden Tanner]], chief military liaison for Aegis, announced: 
 

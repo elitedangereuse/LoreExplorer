@@ -3,7 +3,7 @@
 :END:
 #+title: Sirius Corporation Founding
 #+filetags: :Federation:Empire:beacon:
-* 0179 Sirius Corporation Founding
+* 0179 [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Corporation Founding
 [[id:c1b228e7-30f2-4b43-800f-387108776633][Sirius]]
 
 By 2200 corporations had a stranglehold on a great many aspects of

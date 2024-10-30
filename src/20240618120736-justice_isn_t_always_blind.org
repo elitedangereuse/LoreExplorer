@@ -14,7 +14,7 @@ been uncovered in the investigation into the attack on the Emperor.
 According to forensic accountants working on behalf of [[id:34f3cfdd-0536-40a9-8732-13bf3a5e4a70][Princess
 Lavigny-Duval]], the evidence suggests that rogue members of [[id:8c17d34d-72ce-4b62-b4a1-a9cf789fbc9d][Silver
 Allied Network]] channelled funds for the attack through [[id:6039fc3b-3e2e-442d-8f35-0ee79a4125c3][Silver
-Universal Plc]]. The credits were then sent to an account in the HR 706
+Universal Plc]]. The credits were then sent to an account in the [[id:9aad751b-a749-4fee-a990-d7da57714653][HR 706]]
 system.
 
 Sources close to the investigation informed GalNet that the clue was

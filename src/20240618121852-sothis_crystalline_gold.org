@@ -4,7 +4,7 @@
 #+title: Sothis Crystalline Gold
 #+filetags: :3301:Commodity:galnet:
 
-* Sothis Crystalline Gold
+* [[id:aa43803c-e60c-45bf-ab48-49a139931c68][Sothis]] Crystalline Gold
 
 /25 Sep 3301/
 
@@ -12,7 +12,7 @@ Sothis Crystalline Gold
  
 Scientists based at [[id:15a6cb6a-a3c1-45b7-ae06-63c8e6755bca][Newholm Station]] in the [[id:aa43803c-e60c-45bf-ab48-49a139931c68][Sothis]] system have made a
 startling announcement – the discovery of an entirely new
-[[id:e455de10-7a81-470b-b1cd-01fe75ea98ca][metalloid]]. The material, called Sothis Crystalline Gold, is produced
+[[id:e455de10-7a81-470b-b1cd-01fe75ea98ca][metalloid]]. The material, called [[id:aa43803c-e60c-45bf-ab48-49a139931c68][Sothis]] Crystalline Gold, is produced
 by exposing ordinary gold to the thermal vents that line the seabed of
 the planets [[id:4bced525-9b3f-4894-a1ad-546a9ef89b63][Sothis A5]] and [[id:e03a3054-bab9-4050-bb30-a86fc975fae0][Sothis A6]] – or, more specifically, to the
 submarine gas emitted by these vents. Exactly how the gas transforms
@@ -20,17 +20,17 @@ the gold is not yet fully understood, but the scientists claim that
 the resultant metal is completely unique.
 
 Given the emergent nature of the discovery, the scientists of Newholm
-Station have yet to find any applications for Sothis Crystalline Gold,
+Station have yet to find any applications for [[id:aa43803c-e60c-45bf-ab48-49a139931c68][Sothis]] Crystalline Gold,
 but they are optimistic about finding constructive uses for the
 material. They are also offering entrepreneurial pilots and explorers
 an opportunity to earn a quantity of the rare material by delivering
-gold to Newholm Station in the Sothis System, thereby allowing the
-scientists to produce more Sothis crystalline gold and conduct further
+gold to Newholm Station in the [[id:aa43803c-e60c-45bf-ab48-49a139931c68][Sothis]] System, thereby allowing the
+scientists to produce more [[id:aa43803c-e60c-45bf-ab48-49a139931c68][Sothis]] crystalline gold and conduct further
 tests.
 
 #+begin_quote
 When gold is exposed to the rare gas coming from thermal vents on the
-sea beds of the twin Earth-like planets Sothis A5 and Sothis A6, it
+sea beds of the twin Earth-like planets [[id:aa43803c-e60c-45bf-ab48-49a139931c68][Sothis]] A5 and Sothis A6, it
 forms into a previously unseen crystalline structure unlike other
 crystalline gold. Scientists and engineers are only just beginning to
 discover the technological applications for this rare form of gold.

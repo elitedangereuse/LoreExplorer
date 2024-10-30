@@ -7,7 +7,7 @@
 [[id:0af45b7c-9ef0-4ab6-903c-358dca8880f3][Kamba]]
 
 Mbooni (Used to be duplicated [[id:0af45b7c-9ef0-4ab6-903c-358dca8880f3][Kamba]] system, now renamed,
-requires Kamba permit)¹.
+requires [[id:0af45b7c-9ef0-4ab6-903c-358dca8880f3][Kamba]] permit)¹.
 
 ¹: https://forums.frontier.co.uk/threads/updated-permit-list.122593/
 

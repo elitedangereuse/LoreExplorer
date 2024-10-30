@@ -12,7 +12,7 @@
 
 Several inhabited systems in the Pleiades and Witch Head Nebulas have come under attack by large numbers of Thargoid ships. 
 
-An emergency has been declared by the authorities in multiple systems including Asterope, Shenve and Onoros. Thargoid vessels have again targeted starports, with casualties estimated in the many thousands. 
+An emergency has been declared by the authorities in multiple systems including Asterope, [[id:9eb04a19-52b5-4650-8d44-a5497225789e][Shenve]] and [[id:2b846add-6e61-41aa-9ad6-3bf02898e6e0][Onoros]]. Thargoid vessels have again targeted starports, with casualties estimated in the many thousands. 
 
 Increased Thargoid activity has also been reported in the California and Coalsack Nebulas. Independent pilots and anti-xeno squadrons are moving to defend the invaded systems and evacuate survivors from damaged starports. 
 
@@ -20,4 +20,4 @@ Aegis is not currently able to assist, as the operational shutdown enforced by t
 
 “Many of us in Aegis are frustrated that the Baumann Report has tied our hands. I am also convinced that these Thargoids are reacting aggressively to the weapon of mass destruction that [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]] deployed in the Cornsar system. Not only should we be fighting the alien threat, but Salvation must be prevented from escalating the war.” 
 
-The Taurus Mining Ventures megaship Bright Sentinel has moved to the Merope system at [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]’s request. Reports indicate that tech brokers on board are offering a Guardian-hybrid plasma charger as well as material cost discounts to support the anti-xeno effort.
+The Taurus Mining Ventures megaship Bright Sentinel has moved to the [[id:70fa34ea-bc98-40ff-97f0-e4f4538387a6][Merope]] system at [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]’s request. Reports indicate that tech brokers on board are offering a Guardian-hybrid plasma charger as well as material cost discounts to support the anti-xeno effort.

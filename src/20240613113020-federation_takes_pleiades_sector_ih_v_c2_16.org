@@ -3,7 +3,7 @@
 :END:
 #+title: Federation Takes Pleiades Sector IH-V C2-16
 #+filetags: :Empire:Federation:beacon:
-* 0685 Federation Takes Pleiades Sector IH-V C2-16
+* 0685 Federation Takes [[id:5fcd46ca-b9bc-4135-8596-79ac2f8883f5][Pleiades Sector IH-V C2-16]]
 [[id:5339ace6-60ea-4cd9-915c-d75216e03b25][Pleiades Sector IH-V C2-16]]
 
 On August 18th 3302 the [[id:268dd81e-54f9-447a-9a47-11b2f7242e81][Pleiades Resource Enterprise]] confirmed that

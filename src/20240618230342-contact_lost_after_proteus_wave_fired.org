@@ -10,7 +10,7 @@
 
 *Pilots’ Federation ALERT* 
 
-Communication with all ships in the HIP 22460 system has unexpectedly terminated, following the Proteus Wave’s activation. 
+Communication with all ships in the [[id:55088d83-4221-44fa-a9d5-6ebb0866c722][HIP 22460]] system has unexpectedly terminated, following the Proteus Wave’s activation. 
 
 As intended, the energy pulse from [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]’s Guardian-based superweapon disabled all Thargoids in the system. This was followed by a second pulse of similar intensity from an undetermined source, which rendered the Bright Sentinel megaship powerless. The Thargoid vessels displayed signs of returning to life, after which all comms channels fell silent. 
 
@@ -18,4 +18,4 @@ The [[id:17d9294e-7759-4cf4-9a67-5f12b5704f51][Alliance Defence Force]], Federal
 
 Some newsfeeds have begun publishing eyewitness reports from independent pilots, claiming that the Thargoids have resumed attacking all human ships. These statements have not been independently verified.  
 
-However, the superpowers are insisting on caution until the status of the Thargoid fleet can be ascertained. They have advised that non-military ships should avoid entering the HIP 22460 system until further notice.
+However, the superpowers are insisting on caution until the status of the Thargoid fleet can be ascertained. They have advised that non-military ships should avoid entering the [[id:55088d83-4221-44fa-a9d5-6ebb0866c722][HIP 22460]] system until further notice.

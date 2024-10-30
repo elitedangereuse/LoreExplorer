@@ -4,5 +4,5 @@
 #+title: Sirius
 #+filetags: :Reputation:System:Permit:
 [[file:img/permit.png]]
-Faction: [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][The Sirius Corporation]]
+Faction: [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][The [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Corporation]]
 Benefits: Decent outfitting, is the location of an engineer.

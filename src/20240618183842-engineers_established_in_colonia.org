@@ -4,16 +4,16 @@
 #+title: Engineers Established in Colonia
 #+filetags: :3304:galnet:
 
-* Engineers Established in Colonia
+* Engineers Established in [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]]
 
 /29 Aug 3304/
 
-The [[id:6b6559fd-c7fa-44c9-b540-b94ddcadbd50][Colonia Council]] has announced that four engineers have established bases in the Colonia region, to provide services to independent pilots. 
+The [[id:6b6559fd-c7fa-44c9-b540-b94ddcadbd50][Colonia Council]] has announced that four engineers have established bases in the [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] region, to provide services to independent pilots. 
 
 Councillor [[id:3049d522-ce3e-4bfa-8f52-366b06d50f71][Giselle Kingspear]] gave a statement to the media: 
 
-“The Council believes it has a duty to support those who contribute so much to the region’s stability. That’s why we have consulted with engineers in the core systems to identify individuals who could offer similar services here in Colonia. Consequently, we now have four engineers at planetary bases in the region.” 
+“The Council believes it has a duty to support those who contribute so much to the region’s stability. That’s why we have consulted with engineers in the core systems to identify individuals who could offer similar services here in [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]]. Consequently, we now have four engineers at planetary bases in the region.” 
 
 “[[id:2fce62b3-399d-4ef7-b93b-00a0de6cc4be][Mel Brandon]] is based in [[id:d3daf803-d239-4314-81cd-22cbb7db8424][Luchtaine]], and specialises in laser-based armaments, shields, engines and frame shift drives. [[id:4f85bf60-23ac-4a5d-89ac-f6689fb8fef8][Etienne Dorn]] in the Los system, once lead engineer for [[id:96fa3f93-81a0-4670-bd95-6804144e5b10][Kraken Shield Specialists]], is an expert on sensors, scanners and high-energy weaponry, among other things. [[id:7af58443-6856-4aa9-89ff-89c94bd63aa7][Petra Olmanova]] is in the Asura system, and works with ship armour, countermeasures and explosive weapons, and [[id:51b52a91-d8d7-4df9-a03e-43803749da06][Marsha Hicks]], in the [[id:92869a29-f1f2-4437-8d8d-b8c8bfa4212d][Tir]] system, offers upgrades in ballistic weaponry, fuel scoops, refineries and limpets.” 
 
-“These engineers represent an important stage in Colonia’s continued growth. The Council hopes that pilots operating in the region will find them beneficial.”
+“These engineers represent an important stage in [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]]’s continued growth. The Council hopes that pilots operating in the region will find them beneficial.”

@@ -9,7 +9,7 @@
 * Raxxla
   [[id:865093c7-c399-460e-9dda-fb298f3f5d7f][Omphalos Rift]]
 
-* Delphi
+* [[id:846bfbc7-75e7-4d8d-8716-7fe0346026f4][Delphi]]
 Delphi, originally designated [[id:846bfbc7-75e7-4d8d-8716-7fe0346026f4][Pleiades Sector IR-W d1-55]] until
 December 11, 3304, is an [[id:e0a6f2e0-36a9-4c35-b837-4ac3c6fc67a9][independent]] system near the [[id:7e99a467-6e3d-418e-8b10-72cf3660efa6][Pleiades Nebula]]
 in the Inner Orion Spur. It was once the primary base of operations
@@ -18,11 +18,11 @@ founded in 3303 by scientists from the Federation, Empire, and
 Alliance to study and develop countermeasures against the
 Thargoids. Aegis Research's headquarters was the [[id:83cc5ab9-e42c-4049-b6ed-081927b0b286][starport]] Donar's Oak.
 
-Since the onset of the [[id:9a246121-0c2e-4f21-9877-ee333d6b0d6c][Second Thargoid War]], Delphi has been a hotbed
+Since the onset of the [[id:9a246121-0c2e-4f21-9877-ee333d6b0d6c][Second Thargoid War]], [[id:846bfbc7-75e7-4d8d-8716-7fe0346026f4][Delphi]] has been a hotbed
 of Thargoid activity; the wreckage of various [[id:594f1645-06bb-4327-b737-cb0e87cc6c73][Bulk Cruiser Megaships]]
 lies strewn across the system, and The Oracle notably suffered an
 attack on December 14, 3303. The Sentinel, a Military [[id:2e6601b2-93e0-4748-8182-938fbb3454ad][Installation]],
-was completed on June 28, 3304 to help Delphi better defend itself
+was completed on June 28, 3304 to help [[id:846bfbc7-75e7-4d8d-8716-7fe0346026f4][Delphi]] better defend itself
 against external military incursions.
 
 On May 24, 3307, it was reported that The Oracle, one of several

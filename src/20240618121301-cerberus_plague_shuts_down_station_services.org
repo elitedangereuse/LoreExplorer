@@ -34,7 +34,7 @@ Elder Station
 
 Tem Station 
 
-Pierce Gateway 
+Pierce [[id:e179ecca-9ab3-4184-b05e-107b2e6932c2][Gateway]] 
 
 Bradshaw Station 
 
@@ -42,7 +42,7 @@ In the 20 Ophiuchi system:
 
 Chargaff Port 
 
-Artsebarsky Gateway 
+Artsebarsky [[id:e179ecca-9ab3-4184-b05e-107b2e6932c2][Gateway]] 
 
 The following station services are unavailable: 
 

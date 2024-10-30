@@ -3,4 +3,4 @@
 :END:
 #+title: Defence Party of Nastrond
 [[id:43c9c067-4718-4d81-99eb-d73467c36937][Minor Faction]]
-[[https://inara.cz/elite/minorfaction-assets/312/][Defence Party of Nastrond Assets]]
+[[https://inara.cz/elite/minorfaction-assets/312/][Defence Party of [[id:f99cc815-f736-48e1-863d-7e50b14b7273][Nastrond]] Assets]]

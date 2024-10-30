@@ -4,21 +4,21 @@
 #+title: Thargoid Assault on the Deciat System
 #+filetags: :Thargoid:3304:galnet:
 
-* Thargoid Assault on the Deciat System
+* Thargoid Assault on the [[id:4af71116-980a-4119-b93e-a0b368cf9550][Deciat]] System
 
 /29 Jun 3304/
 
-An emergency report from Aegis confirms that the Thargoids have returned to the core systems with an incursion into the Deciat system. 
+An emergency report from Aegis confirms that the Thargoids have returned to the core systems with an incursion into the [[id:4af71116-980a-4119-b93e-a0b368cf9550][Deciat]] system. 
 
 Admiral [[id:7bca1ccd-649e-438a-ae56-fb8ca34e6440][Aden Tanner]], Aegis’s chief military liaison, delivered this statement: 
 
-“Following the Thargoids’ retreat, all evidence suggested that their surface sites had become dormant. But new data from our Eagle Eye network shows that they have surged back to life, and that the star maps inside these structures are now pinpointing the Deciat system. It seems this was only a brief respite while they summoned reinforcements from the Pleiades.” 
+“Following the Thargoids’ retreat, all evidence suggested that their surface sites had become dormant. But new data from our Eagle Eye network shows that they have surged back to life, and that the star maps inside these structures are now pinpointing the [[id:4af71116-980a-4119-b93e-a0b368cf9550][Deciat]] system. It seems this was only a brief respite while they summoned reinforcements from the Pleiades.” 
 
-“Latest intelligence indicates that Thargoid vessels are now congregating in large numbers in Deciat space. This is an alarming development for the Garay Terminal starport, which is on high alert. There are also several megaships active in the region, which are potential targets for the Thargoids.” 
+“Latest intelligence indicates that Thargoid vessels are now congregating in large numbers in [[id:4af71116-980a-4119-b93e-a0b368cf9550][Deciat]] space. This is an alarming development for the Garay Terminal starport, which is on high alert. There are also several megaships active in the region, which are potential targets for the Thargoids.” 
 
-“On behalf of Aegis, I am calling on all members of the galactic community for assistance in defending Deciat. Without the aid of independent pilots, all assets in the system could be overwhelmed, with the loss of thousands of lives.” 
+“On behalf of Aegis, I am calling on all members of the galactic community for assistance in defending [[id:4af71116-980a-4119-b93e-a0b368cf9550][Deciat]]. Without the aid of independent pilots, all assets in the system could be overwhelmed, with the loss of thousands of lives.” 
 
-Appended to the Aegis report was the following transmission from an unnamed Commander operating in the Deciat system: 
+Appended to the Aegis report was the following transmission from an unnamed Commander operating in the [[id:4af71116-980a-4119-b93e-a0b368cf9550][Deciat]] system: 
 
 “I’ve just been attacked by…something! Thargoid for sure, but my computer couldn’t identify it. Some new kind of scout, maybe?” 
 

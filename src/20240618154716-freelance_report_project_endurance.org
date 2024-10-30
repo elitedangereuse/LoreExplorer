@@ -8,7 +8,7 @@
 
 /18 Jun 3302/
 
-On the 10th of February 3301, two Faulcon DeLacy Cobras were launched from Allen Platform in the Dijkstra system. Piloted by Commander Dr Simms and Commander [[id:3712a15c-31b7-46fb-875d-73fdab2bd456][Sid Solo]], the ships were fitted for an endurance attempt unlike any other. Now, more than 16 months later and having circumnavigated the galactic core, they are about to return to inhabited space.  
+On the 10th of February 3301, two Faulcon DeLacy Cobras were launched from Allen Platform in the [[id:292ba81d-9b8a-4146-bb41-59930893d01a][Dijkstra]] system. Piloted by Commander Dr Simms and Commander [[id:3712a15c-31b7-46fb-875d-73fdab2bd456][Sid [[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]]o]], the ships were fitted for an endurance attempt unlike any other. Now, more than 16 months later and having circumnavigated the galactic core, they are about to return to inhabited space.  
 
 There have been many changes since they left. Software updates now allow plotting routes of 1,000 light years at a time, improved communications and wing dynamics have facilitated the sharing of exploration data in a manner unprecedented before their departure, and planetary landings are now authorised. Indeed, neither ship is fitted for SRV activity. 
 

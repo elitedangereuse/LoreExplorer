@@ -28,13 +28,13 @@ JS: You were promoted to admiral only three years ago. Does that change the pers
 
 HPA: Well, they salute a little faster, I suppose. Happily I enjoy a strong relationship with my officers, so they took the change fully in stride.  
 
-JS: Let’s talk about Novas. I understand that the Imperial Navy has deployed a fleet here at [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]’s request. 
+JS: Let’s talk about [[id:b38c4ed0-3aaa-4a86-8acd-a241164d680f][Novas]]. I understand that the Imperial Navy has deployed a fleet here at [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]’s request. 
 
 HPA: That’s correct. 
 
 JS: Emperor Arissa recently resumed her duties following… an extended absence from the throne. Having now surely been briefed on [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]’s work, does the Emperor endorse Salvation? 
 
-HPA: If the Emperor had objections, her navy would not be in Novas. 
+HPA: If the Emperor had objections, her navy would not be in [[id:b38c4ed0-3aaa-4a86-8acd-a241164d680f][Novas]]. 
 
 JS: What are your objectives in the system? 
 
@@ -50,4 +50,4 @@ HPA: Jade, dear: they are the same thing. The cost of war is human lives, and th
 
 JS: Thank you for elaborating. Let’s take a break. We’ll be back after these messages. 
 
-The rest of this interview is available to pilots arriving at the INV Succession in the Novas system.
+The rest of this interview is available to pilots arriving at the INV Succession in the [[id:b38c4ed0-3aaa-4a86-8acd-a241164d680f][Novas]] system.

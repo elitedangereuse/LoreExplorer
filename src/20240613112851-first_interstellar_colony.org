@@ -6,7 +6,7 @@
 * 0167 First Interstellar Colony
 [[id:da11b7b5-2c5a-4f17-9cd4-ce28a2f34dbd][Tau Ceti]]  
 
-Tau Ceti was the first colony established outside of Sol. Tau Ceti 3
+Tau Ceti was the first colony established outside of [[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]]. Tau Ceti 3
 (now called [[id:ee59bbe7-79e2-49ae-a2bc-c25554526ea3][Taylor Colony]]) had long been determined viable for
 habitation with life already present (due to free oxygen detected in
 the atmosphere absorption spectra) - though observation and probe data

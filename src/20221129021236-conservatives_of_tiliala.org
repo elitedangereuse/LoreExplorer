@@ -3,4 +3,4 @@
 :END:
 #+title: Conservatives of Tiliala
 [[id:43c9c067-4718-4d81-99eb-d73467c36937][Minor Faction]]
-[[https://inara.cz/elite/minorfaction-assets/2224/][Conservatives of Tiliala Assets]]
+[[https://inara.cz/elite/minorfaction-assets/2224/][Conservatives of [[id:35ef7825-95ca-418d-9cc2-9e7934b351c9][Tiliala]] Assets]]

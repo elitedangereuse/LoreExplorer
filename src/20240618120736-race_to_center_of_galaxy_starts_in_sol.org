@@ -4,13 +4,13 @@
 #+title: Race to Center of Galaxy Starts in Sol
 #+filetags: :3301:galnet:
 
-* Race to Center of Galaxy Starts in Sol
+* Race to Center of Galaxy Starts in [[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]]
 
 /23 Apr 3301/
 
-Pilots from all over civilized space are gathering on Galileo station near planet Earth to begin one of the most ambitious organized rally race ever attempted. Called the Buckyball Run A*, this endurance race challenges commanders to reach the supermassive black hole at the center of our galaxy, Sagittarius A*, in the shortest amount of time possible. This contest is the latest iteration of the popular Buckyball Runs, a series of unsanctioned point-to-point rally races across the galaxy. 
+Pilots from all over civilized space are gathering on Galileo station near planet Earth to begin one of the most ambitious organized rally race ever attempted. Called the Buckyball Run A*, this endurance race challenges commanders to reach the supermassive black hole at the center of our galaxy, [[id:84d9b01d-a9d6-47d9-b9f9-f6154233e585][Sagittarius A*]]*, in the shortest amount of time possible. This contest is the latest iteration of the popular Buckyball Runs, a series of unsanctioned point-to-point rally races across the galaxy. 
 
-According to Mirana Ortilano, a spokesperson for the event, the choice of Sagittarius A* as the finish line is explained by its significance as the center of the Milky Way galaxy. “It’s a pilgrimage for many, for many different reasons. We’re just helping pilots get there faster.” 
+According to Mirana Ortilano, a spokesperson for the event, the choice of [[id:84d9b01d-a9d6-47d9-b9f9-f6154233e585][Sagittarius A*]]* as the finish line is explained by its significance as the center of the Milky Way galaxy. “It’s a pilgrimage for many, for many different reasons. We’re just helping pilots get there faster.” 
 
 The Buckyball Run A* however differs from the previous competitions as this time the challenge will remain permanently open. To elaborate on this difference, Mirana Ortilano adds: “This is the first long distance endurance challenge. Needless to say, the risk and commitment of the pilots are much greater than in previous runs.” 
 

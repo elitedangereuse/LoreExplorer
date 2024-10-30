@@ -20,9 +20,9 @@ Commanders loyal to the Princess descended on the systems in
 force. The fury of the makeshift fleet shattered the local gangs, and
 within 24 hours the fighting was over.
 
-Information uncovered during the strike on Mictlan led investigators
+Information uncovered during the strike on [[id:c72ce3b7-f19e-4034-9df5-554bcddfaa4f][Mictlan]] led investigators
 to [[id:823c6413-b477-4227-a74f-683c30f42019][LTT 9810]], a system under the protection of Senator [[id:d8e3667c-3ba1-43aa-bc90-dac719c6d5e7][Zemina
-Torval]]. There it became apparent that a rogue division of the LTT 9810
+Torval]]. There it became apparent that a rogue division of the [[id:823c6413-b477-4227-a74f-683c30f42019][LTT 9810]]
 [[id:8c17d34d-72ce-4b62-b4a1-a9cf789fbc9d][Silver Allied Network]] had been acting as a financial consultancy
 service for some of the more successful Imperial crime families.
 

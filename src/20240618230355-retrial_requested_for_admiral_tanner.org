@@ -8,7 +8,7 @@
 
 /26 Aug 3308/
 
-The Federal Attorney’s Office has called for the conviction of former admiral [[id:7bca1ccd-649e-438a-ae56-fb8ca34e6440][Aden Tanner]] to be reviewed in light of events in HIP 22460. 
+The Federal Attorney’s Office has called for the conviction of former admiral [[id:7bca1ccd-649e-438a-ae56-fb8ca34e6440][Aden Tanner]] to be reviewed in light of events in [[id:55088d83-4221-44fa-a9d5-6ebb0866c722][HIP 22460]]. 
 
 Following a distinguished career in the Federal Navy, Tanner served as the chief military liaison for Aegis. In November 3307, while in command of the Aegis Defense megaship Musashi, he attempted to take control of Hind Mine starport. He believed it held evidence that [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]] intentionally attracted the Thargoids to the Cornsar system in order to test his superweapon. 
 
@@ -16,7 +16,7 @@ Tanner’s attack failed and the Musashi was overtaken, largely due to superior 
 
 The Federal Times published this statement from Senior Attorney Fiona Logan: 
 
-“It is now a proven fact that the Guardian-based nature of the Proteus Wave was intended to attract the Thargoid fleet to HIP 22460. Component analysis by [[id:4551539e-a6b2-4c45-8923-40fb603202b7][Ram Tah]] has verified that its forerunner superweapons were almost certainly designed to do likewise.” 
+“It is now a proven fact that the Guardian-based nature of the Proteus Wave was intended to attract the Thargoid fleet to [[id:55088d83-4221-44fa-a9d5-6ebb0866c722][HIP 22460]]. Component analysis by [[id:4551539e-a6b2-4c45-8923-40fb603202b7][Ram Tah]] has verified that its forerunner superweapons were almost certainly designed to do likewise.” 
 
 “This substantiates Tanner’s allegation that [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]] deliberately invited Thargoid incursions in inhabited systems. Furthermore, Salvation originally claimed that his anti-xeno detection network alerted him to the aliens’ approach, but there is no evidence that this network exists.” 
 

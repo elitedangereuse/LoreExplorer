@@ -7,10 +7,10 @@
 [[id:8da12af2-6006-4e7e-a45e-7bf8b2c299c8][Prism]]
 
 In 3300 a major conflict between Federal and Imperial forces took
-place in the Prism system, above the [[id:0b950d24-5663-430c-9aa2-1a9863fe32ce][Chione]] moon. The conflict was
-precipitated by the exiled Senator of Prism, Lady [[id:2f09bc24-0885-4d00-9d1f-506b32464dbe][Kahina Tijani Loren]],
+place in the [[id:8da12af2-6006-4e7e-a45e-7bf8b2c299c8][Prism]] system, above the [[id:0b950d24-5663-430c-9aa2-1a9863fe32ce][Chione]] moon. The conflict was
+precipitated by the exiled Senator of [[id:8da12af2-6006-4e7e-a45e-7bf8b2c299c8][Prism]], Lady [[id:2f09bc24-0885-4d00-9d1f-506b32464dbe][Kahina Tijani Loren]],
 partly in response to the Chione 'Reclamation', a rebellion, which
-took place on the moon below. The Prism system was restored to
+took place on the moon below. The [[id:8da12af2-6006-4e7e-a45e-7bf8b2c299c8][Prism]] system was restored to
 Imperial jurisdiction as a direct result of the battle.
 
 [[file:img/beacons/0503.png]]

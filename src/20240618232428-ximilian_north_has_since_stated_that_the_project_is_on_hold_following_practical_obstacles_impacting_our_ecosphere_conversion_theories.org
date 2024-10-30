@@ -18,8 +18,8 @@ The survey was outlined by Cynthia Sideris, chairperson of Universal Cartographi
 
 “We are therefore liaising with Aegis to chart as many ammonia worlds as possible. As well as contributing to xenological research, our intent is to identify potential staging grounds for Thargoid fleets and arrival points for additional Maelstroms.” 
 
-“Over the next two weeks, pilots can obtain increased payouts for delivering cartographic survey data to Angus Manwaring starport in the Eta Cassiopeiae system. Only ammonia world data will be recognised for the purpose of the survey campaign, however, with detailed surface scans particularly appreciated.” 
+“Over the next two weeks, pilots can obtain increased payouts for delivering cartographic survey data to Angus Manwaring starport in the [[id:ed325fe8-22a1-4d07-9af9-5a9f8f056377][Eta Cassiopeiae]] system. Only ammonia world data will be recognised for the purpose of the survey campaign, however, with detailed surface scans particularly appreciated.” 
 
 As an incentive for participation, general cartographic data payouts will be multiplied for a further period if the initiative is successful. The multiplier will depend on the campaign tier achieved. 
 
-The most recent survey of this kind took place in 3306, when Sirius Atmospherics claimed to be developing a method of terraforming ammonia worlds for human habitation. Dr [[id:eb0165b3-7d95-4887-ad0c-3db012756434][Maximilian North]] has since stated that the project is on hold following “practical obstacles impacting our ecosphere conversion theories”.
+The most recent survey of this kind took place in 3306, when [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Atmospherics claimed to be developing a method of terraforming ammonia worlds for human habitation. Dr [[id:eb0165b3-7d95-4887-ad0c-3db012756434][Maximilian North]] has since stated that the project is on hold following “practical obstacles impacting our ecosphere conversion theories”.

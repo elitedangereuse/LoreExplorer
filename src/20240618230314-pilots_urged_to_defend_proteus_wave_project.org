@@ -10,7 +10,7 @@
 
 *Pilots’ Federation ALERT* 
 
-As the Thargoid presence increases in the HIP 22460 system, [[id:e68a5318-bd72-4c92-9f70-dcdbd59505d1][Azimuth Biotech]] and the superpowers call for reinforcements. 
+As the Thargoid presence increases in the [[id:55088d83-4221-44fa-a9d5-6ebb0866c722][HIP 22460]] system, [[id:e68a5318-bd72-4c92-9f70-dcdbd59505d1][Azimuth Biotech]] and the superpowers call for reinforcements. 
 
 An urgent bulletin was transmitted from Commodore [[id:bcaa9222-b056-41cf-9361-68dd8d3424fb][Morag Halloran]] aboard the Bright Sentinel: 
 
@@ -18,6 +18,6 @@ An urgent bulletin was transmitted from Commodore [[id:bcaa9222-b056-41cf-9361-6
 
 “Salvation informs me that it will be approximately two more weeks until the weapon is fully assembled. This delay increases the Proteus Wave’s exposure to Thargoid intervention, potentially undermining the project. But we remain convinced that the majority of pilots are committed to ensuring a human victory.” 
 
-“After discussions with Admiral Atherton, Admiral Price and Admiral Ziegler, the coalition has agreed to provide funding for increased defences in HIP 22460. For the next two weeks, independent pilots can claim reimbursement for the hazardous task of engaging the Thargoids.” 
+“After discussions with Admiral Atherton, Admiral Price and Admiral Ziegler, the coalition has agreed to provide funding for increased defences in [[id:55088d83-4221-44fa-a9d5-6ebb0866c722][HIP 22460]]. For the next two weeks, independent pilots can claim reimbursement for the hazardous task of engaging the Thargoids.” 
 
 “Thargoid combat bonds can be handed in at the Musashi megaship in the nearby Pleiades Sector CW-U B3-2 system. The most dedicated Commanders by contribution will be rewarded with [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]’s pre-engineered Guardian gauss cannons.”

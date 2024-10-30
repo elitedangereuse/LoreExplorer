@@ -8,7 +8,7 @@
 
 /21 Oct 3302/
 
-Commentators have reacted with surprise and dismay to a speech from Admiral [[id:75daea85-5e9f-4f6f-a102-1a5edea0283c][Denton Patreus]] at a military tattoo on Achenar, in which he spoke in strident tones about the London Treaty. The treaty, established in 3278, imposes limits on capital-ship construction in order to prevent possible arms races. 
+Commentators have reacted with surprise and dismay to a speech from Admiral [[id:75daea85-5e9f-4f6f-a102-1a5edea0283c][Denton Patreus]] at a military tattoo on [[id:bed8c27f-3cbe-49ad-b86f-7d87eacf804a][Achenar]], in which he spoke in strident tones about the London Treaty. The treaty, established in 3278, imposes limits on capital-ship construction in order to prevent possible arms races. 
 
 "This treaty was foisted on us by overzealous Federal lawyers," said Patreus. "Now it is used to limit our ability to defend ourselves. This I cannot accept." 
 
@@ -16,4 +16,4 @@ Commentators have reacted with surprise and dismay to a speech from Admiral [[id
 
 Federal representatives were quick to denounce Patreus's proposal, saying it would have severe repercussions. But stock markets in the core systems reacted favourably to the news, with reports indicating that the Empire had already secured several construction contracts. 
 
-Admiral Patreus will soon depart for the Prism system to oversee the trial of Kahina Loren.
+Admiral Patreus will soon depart for the [[id:8da12af2-6006-4e7e-a45e-7bf8b2c299c8][Prism]] system to oversee the trial of Kahina Loren.

@@ -3,7 +3,7 @@
 :END:
 #+title: Competition from Sirius
 #+filetags: :Empire:beacon:
-* 0211 Competition from Sirius
+* 0211 Competition from [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]]
 [[id:a17c479c-5ee8-42c1-8fee-22cbf1407db9][Epsilon Eridani]]
 
 [[id:ebaea4eb-8ba1-4f48-ada6-ca694704143b][WorldCraft]] is a giant Corporation, but still has very high debt levels
@@ -15,11 +15,11 @@ processors built by [[id:26ebe1e0-4c30-4317-8e20-16634efcab49][FMV]], but now se
 relationship). This made way for the creation of [[id:c85d1251-b6f2-460f-9a24-b1aba6b14097][Sirius Atmospherics]] -
 that has since taken a big slice of the terraforming business from
 WorldCraft - which WorldCraft has been powerless to stop as they
-remain a big customer of Sirius as at the core of their terraforming
-units is a 100GW Sirius power plant.
+remain a big customer of [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] as at the core of their terraforming
+units is a 100GW [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] power plant.
 
 WorldCraft operates two major business areas; terraforming and
 tourism/entertainment, making them a direct competitor to the
-[[id:a7056ff8-e67d-4ca9-baf1-7e5df3efa677][Rockforth Corporation]] in one and Sirius in the other.
+[[id:a7056ff8-e67d-4ca9-baf1-7e5df3efa677][Rockforth Corporation]] in one and [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] in the other.
 
 [[file:img/beacons/0211.png]]

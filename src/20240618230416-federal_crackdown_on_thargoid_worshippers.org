@@ -12,7 +12,7 @@ The Federal government has declared the Order of the [[id:04ae001b-eb07-4812-a42
 
 The following press statement was delivered from the White House on Mars: 
 
-“The Federal Navy Intelligence Office has uncovered sufficient cause for concern to suspect the [[id:04ae001b-eb07-4812-a42e-4bb72825609b][Far God]] cult of treason. They are believed to be responsible for leaking classified audiovisual data from the HIP 22460 system, while sharing other sensitive Thargoid-related material internally. Due to this, the risk that they will frustrate anti-xeno operations is deemed considerable.” 
+“The Federal Navy Intelligence Office has uncovered sufficient cause for concern to suspect the [[id:04ae001b-eb07-4812-a42e-4bb72825609b][Far God]] cult of treason. They are believed to be responsible for leaking classified audiovisual data from the [[id:55088d83-4221-44fa-a9d5-6ebb0866c722][HIP 22460]] system, while sharing other sensitive Thargoid-related material internally. Due to this, the risk that they will frustrate anti-xeno operations is deemed considerable.” 
 
 “President Hudson has therefore ordered military units to take control of all hive-chapels in Federal systems. Their inhabitants will be placed in detention facilities and subject to questioning.” 
 
@@ -22,4 +22,4 @@ The civil rights organisation Advocacy, the Galactic Interfaith Commune and the 
 
 Shadow President [[id:b9fe58a3-dfb7-480c-afd6-92c3be841be7][Felicia Winters]] issued the following response: 
 
-“I understand there are concerns regarding a Thargoid-based religious order, especially at this time. But there must be concrete evidence supporting these allegations before we treat our own citizens as enemies. It seems to me that Hudson’s administration is desperate to appear ‘tough on Thargoids’ after the debacle in HIP 22460, and has found an easy scapegoat to generate popular support.”
+“I understand there are concerns regarding a Thargoid-based religious order, especially at this time. But there must be concrete evidence supporting these allegations before we treat our own citizens as enemies. It seems to me that Hudson’s administration is desperate to appear ‘tough on Thargoids’ after the debacle in [[id:55088d83-4221-44fa-a9d5-6ebb0866c722][HIP 22460]], and has found an easy scapegoat to generate popular support.”

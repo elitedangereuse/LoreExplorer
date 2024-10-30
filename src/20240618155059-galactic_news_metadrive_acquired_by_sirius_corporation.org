@@ -4,24 +4,24 @@
 #+title: Galactic News: MetaDrive Acquired by Sirius Corporation
 #+filetags: :3302:galnet:
 
-* Galactic News: MetaDrive Acquired by Sirius Corporation
+* Galactic News: MetaDrive Acquired by [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Corporation
 
 /22 Oct 3302/
 
-Board members of MetaDrive Inc. today announced the sale of MetaDrive Inc. to the Sirius Corporation. Rosaline Merden, acting Chair of MetaDrive, was clearly pleased with the outcome. At a press conference, she said: 
+Board members of MetaDrive Inc. today announced the sale of MetaDrive Inc. to the [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Corporation. Rosaline Merden, acting Chair of MetaDrive, was clearly pleased with the outcome. At a press conference, she said: 
 
-"The board of MetaDrive wholeheartedly welcomes the security this acquisition brings. As part of the Sirius Corporation, the MetaDrive brand will continue to go from strength to strength." 
+"The board of MetaDrive wholeheartedly welcomes the security this acquisition brings. As part of the [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Corporation, the MetaDrive brand will continue to go from strength to strength." 
 
 Reporters asked about the ongoing audit of MetaDrive, and also the fate of former employee [[id:4ab3e632-de21-44bc-a834-83b808a737ec][Raan Corsen]], who was reported missing a couple of weeks ago. 
 
-"The audit has been successfully completed and all assets are in the hands of Sirius Corporation," said Merden. "Raan Corsen's employment was terminated prior to the takeover." 
+"The audit has been successfully completed and all assets are in the hands of [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Corporation," said Merden. "Raan Corsen's employment was terminated prior to the takeover." 
 
-Merden was challenged by a representative of the Earth Defence Fleet, who alleged that [[id:4ab3e632-de21-44bc-a834-83b808a737ec][Raan Corsen]] had in fact fled from Sirius security forces and been killed in the Alioth system. 
+Merden was challenged by a representative of the Earth Defence Fleet, who alleged that [[id:4ab3e632-de21-44bc-a834-83b808a737ec][Raan Corsen]] had in fact fled from [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] security forces and been killed in the [[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]] system. 
 
-"Mr Corsen's business in the Alioth system was his own," said Merden. "It has nothing to do with the Sirius Corporation." 
+"Mr Corsen's business in the [[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]] system was his own," said Merden. "It has nothing to do with the [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Corporation." 
 
 The press conference closed with outstanding questions, but reporters managed to get a final word from Commander MoonWeb of the Earth Defence Fleet. 
 
-"According to our intel, Corsen was pursued before crash-landing on a planet in the Alioth system. This was observed by Commander Ashley Wilkinson, a Canonn representative working with the Earth Defence Fleet." 
+"According to our intel, Corsen was pursued before crash-landing on a planet in the [[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]] system. This was observed by Commander Ashley Wilkinson, a Canonn representative working with the Earth Defence Fleet." 
 
-"The specifics surrounding Corsen's demise are not known, but we have a transcript of his final transmission that points a finger squarely at the Sirius Corporation."
+"The specifics surrounding Corsen's demise are not known, but we have a transcript of his final transmission that points a finger squarely at the [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Corporation."

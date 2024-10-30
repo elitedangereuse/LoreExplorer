@@ -10,7 +10,7 @@
 
 The agronomic treatment recently developed by the Interstellar Association for Agriculture has proven effective against the devastating crop blight. 
 
-The treatment was distributed as part of an initiative focusing on the Diso and Orerve systems. Planetside farming communities in both systems are beginning to recover from severe crop damage. 
+The treatment was distributed as part of an initiative focusing on the [[id:4aedfccd-a366-4b25-a5e2-538bb29a35cb][Diso]] and Orerve systems. Planetside farming communities in both systems are beginning to recover from severe crop damage. 
 
 Dr Genevieve Kane of the Interstellar Association for Agriculture gave this statement to the media: 
 
@@ -18,4 +18,4 @@ Dr Genevieve Kane of the Interstellar Association for Agriculture gave this stat
 
 “Therefore, the IAA can confidently state that the immediate threat of food shortages has been alleviated, with food deliveries replenishing lost stocks. Mass production of the agronomic treatment has already begun, and it will soon be available across the galaxy to counteract the blight wherever it is found.” 
 
-Pilots who contributed to either of the initiatives can now collect their rewards from Shifnalport in the Diso system and Watson Station in the Orerve system, respectively.
+Pilots who contributed to either of the initiatives can now collect their rewards from Shifnalport in the [[id:4aedfccd-a366-4b25-a5e2-538bb29a35cb][Diso]] system and Watson Station in the Orerve system, respectively.

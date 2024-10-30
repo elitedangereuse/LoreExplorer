@@ -10,7 +10,7 @@
 
 *Pilots’ Federation ALERT* 
 
-A range of alien objects have been delivered to the Arque system for Professor [[id:8f63442a-1f38-457d-857a-38297d732a90][Ishmael Palin]]’s study of the Thargoids. 
+A range of alien objects have been delivered to the [[id:d4b595af-536d-4575-af11-f07f3ac3ff40][Arque]] system for Professor [[id:8f63442a-1f38-457d-857a-38297d732a90][Ishmael Palin]]’s study of the Thargoids. 
 
 The conclusion of the project was announced by Professor Palin: 
 
@@ -18,4 +18,4 @@ The conclusion of the project was announced by Professor Palin:
 
 “It is becoming increasingly urgent to improve our understanding of the Thargoids’ biomechanical technology. There is no sign that hostilities are about to end, so the need to produce defences has become paramount. Only through ensuring our research focuses on up-to-date samples can we be sure that we are working as efficiently as possible.” 
 
-Contributors can now collect their rewards from Baird Gateway in the Arque system. This includes Grade 5 engineered Heavy Duty Hull Reinforcement Packages for eligible contributors.
+Contributors can now collect their rewards from Baird [[id:e179ecca-9ab3-4184-b05e-107b2e6932c2][Gateway]] in the [[id:d4b595af-536d-4575-af11-f07f3ac3ff40][Arque]] system. This includes Grade 5 engineered Heavy Duty Hull Reinforcement Packages for eligible contributors.

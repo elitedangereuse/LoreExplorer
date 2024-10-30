@@ -4,7 +4,7 @@
 #+title: The War for Falisci
 #+filetags: :3301:Empire:Federation:galnet:
 
-* The War for Falisci
+* The War for [[id:80569507-5192-4d10-a072-7ddc2b0e5bac][Falisci]]
 
 /07 Mar 3301/
 
@@ -13,16 +13,16 @@ their crusade against the [[id:187aedfb-f0ae-4d10-983c-c34d1122c842][Falisci Pur
 Imperial forces and is currently in the process of being assimilated
 into Imperial society.
 
-All outstanding payments due to Imperial veterans of the Falisci war
+All outstanding payments due to Imperial veterans of the [[id:80569507-5192-4d10-a072-7ddc2b0e5bac][Falisci]] war
 are now available for collection from [[id:da427714-a287-496d-a288-be79c5dbc360][Dornier Terminal]] in
 [[id:36dc081e-5308-4677-978e-cd9eee894d1b][Ngaiawang]]. To celebrate Senator Patreus’s victory, [[id:d8e3667c-3ba1-43aa-bc90-dac719c6d5e7][Senator Torval]] is
 offering a 10% discount on all Imperial slaves purchased from Dornier
 Terminal until next weekend.
 
-However, the war for control of Falisci may not quite be over
+However, the war for control of [[id:80569507-5192-4d10-a072-7ddc2b0e5bac][Falisci]] may not quite be over
 yet. Reports have started to come in from the region that a civil war
 is currently brewing between the Citizens of Tradition and the Federal
-[[id:321ff0fa-0018-4a42-b219-9fb8dbcdf234][Social Falisci Partnership Party]]. If the Social Falisci Partnership
+[[id:321ff0fa-0018-4a42-b219-9fb8dbcdf234][Social [[id:80569507-5192-4d10-a072-7ddc2b0e5bac][Falisci]] Partnership Party]]. If the Social Falisci Partnership
 Party is successful in its attempt to disrupt the Citizens of
 Tradition’s hold over Phillips Landing, the Federation may be able to
-gain control over Falisci.
+gain control over [[id:80569507-5192-4d10-a072-7ddc2b0e5bac][Falisci]].

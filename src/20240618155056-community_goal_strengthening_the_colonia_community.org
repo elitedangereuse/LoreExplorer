@@ -4,11 +4,11 @@
 #+title: Community Goal: Strengthening the Colonia Community
 #+filetags: :CommunityGoal:3302:galnet:
 
-* Community Goal: Strengthening the Colonia Community
+* Community Goal: Strengthening the [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] Community
 
 /20 Oct 3302/
 
-The Colonia Council, the governing body of the Colonia system, has launched a campaign to expand infrastructure and manufacturing facilities in the region. The initiative is intended to support future colonisation of the Colonia Nebula, and address the needs of the growing Colonia community. 
+The [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] Council, the governing body of the Colonia system, has launched a campaign to expand infrastructure and manufacturing facilities in the region. The initiative is intended to support future colonisation of the Colonia Nebula, and address the needs of the growing Colonia community. 
 
 In a statement, a spokesperson for the Council elaborated on the nature of the campaign: 
 
@@ -16,6 +16,6 @@ In a statement, a spokesperson for the Council elaborated on the nature of the c
 
 "The colony has received a lot of support from the galactic community, but if it's going to become a fully fledged society, we need proper infrastructure." 
 
-In support of this initiative, the Colonia Council has placed an open order for mined palladium, and has promised to reward pilots who deliver the required material to [[id:f37f17f1-8eb3-4598-93f7-190fe97438a1][Jaques]] Station in the Colonia system. 
+In support of this initiative, the [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] Council has placed an open order for mined palladium, and has promised to reward pilots who deliver the required material to [[id:f37f17f1-8eb3-4598-93f7-190fe97438a1][Jaques]] Station in the Colonia system. 
 
 The campaign begins on the 20th of October 3302 and will run for two weeks.

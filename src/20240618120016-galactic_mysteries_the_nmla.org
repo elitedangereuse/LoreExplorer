@@ -12,7 +12,7 @@ Private investigators [[id:0367ce6a-a18b-4bca-a6d1-da93c2dd200f][Erik Gunnarson]
 
 Gunnarson: “We don’t usually get involved with political cases, but it’s hard to ignore the largest terrorist attack in history.” 
 
-“The [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] is a radical offshoot of Marlinism, a democratic movement named after the Republic of Achenar’s original ruler, Marlin Duval. Most are peaceful protester types, but Neo-Marlinists want to overthrow the government by permanently removing the Imperial Family.” 
+“The [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] is a radical offshoot of Marlinism, a democratic movement named after the Republic of [[id:bed8c27f-3cbe-49ad-b86f-7d87eacf804a][Achenar]]’s original ruler, Marlin Duval. Most are peaceful protester types, but Neo-Marlinists want to overthrow the government by permanently removing the Imperial Family.” 
 
 “What nobody knows is how the [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] went from minor troublemakers to interstellar terrorists. The starport bombings last September came from nowhere, and their assassins have killed many Imperial bigwigs including Prince Harold Duval.” 
 
@@ -22,6 +22,6 @@ Gunnarson: “We don’t usually get involved with political cases, but it’s h
 
 Wolfe: “Despite my enquiries – and some unauthorised snooping – there’s no trace of the rumoured [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] bomb factory in LTT 1935. But it did once exist, because the Empire captured its occupants.” 
 
-“Not that they’ll admit it. ‘There is no such place as Serene Harbour’, right? Well, I’ve been to R CrA Sector AF-A d42 3b and seen it myself. It’s bleak. Hope-crushing. And yet the [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] prisoners listed as Theta Group escaped, broken out by what seems like [[id:45d78e5d-27b7-48cb-97b2-012934be3180][Imperial Intelligence]] double-agents.” 
+“Not that they’ll admit it. ‘There is no such place as Serene Harbour’, right? Well, I’ve been to [[id:df9d2f50-8822-4ae2-a33b-3af4ccc9747c][R CrA Sector AF-A d42]] 3b and seen it myself. It’s bleak. Hope-crushing. And yet the [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] prisoners listed as Theta Group escaped, broken out by what seems like [[id:45d78e5d-27b7-48cb-97b2-012934be3180][Imperial Intelligence]] double-agents.” 
 
 “That genuinely scares me. If the [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] can worm inside the most shadowy security organisation in known space, they could be anywhere. And none of us are safe.”

@@ -10,7 +10,7 @@
 
 [[id:e13ec234-b603-4a29-870d-2b87410195ea][Sima Kalhana]] continues her review of the most significant historical events that occurred during the past year. 
 
-“In May 3308, the Thargoid invasions of the Didio, Novas and Sosong systems were completely repelled by the use of [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]’s unique superweapons. This convinced the Alliance, Empire and Federation to support [[id:e68a5318-bd72-4c92-9f70-dcdbd59505d1][Azimuth Biotech]] in developing this Guardian-based technology, with Salvation claiming that he could end the Thargoid threat forever.” 
+“In May 3308, the Thargoid invasions of the [[id:d508fb0f-0214-4133-829f-edb61e2681d0][Didio]], [[id:b38c4ed0-3aaa-4a86-8acd-a241164d680f][Novas]] and [[id:2a81ce70-848a-46eb-aa0b-b5626e78e8aa][Sosong]] systems were completely repelled by the use of [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]’s unique superweapons. This convinced the Alliance, Empire and Federation to support [[id:e68a5318-bd72-4c92-9f70-dcdbd59505d1][Azimuth Biotech]] in developing this Guardian-based technology, with Salvation claiming that he could end the Thargoid threat forever.” 
 
 “Elsewhere that month, the Kumo Crew syndicate faced civil war as pirate rebels tried to replace [[id:7aae0550-b8ba-42cf-b52b-e7040461c96f][Archon Delaine]]. Eventually his loyal forces triumphed, with the Blue Viper Club dredger clan fleeing his reprisals. And in the Federation, trillionaire entrepreneur [[id:e26683e6-6b19-4671-8676-f333bd5e8ff7][Zachary Rackham]] announced his presidential candidacy for the 3309 election.” 
 
@@ -20,6 +20,6 @@
 
 “HIP 22460 was the system chosen to construct the Proteus Wave. This interfaced Guardian technology with a Thargoid ground settlement, and was designed to deliberately attract the Thargoids before wiping them out. During July and August, upgraded capital ships along with independent pilots defended [[id:e68a5318-bd72-4c92-9f70-dcdbd59505d1][Azimuth Biotech]]’s operation from swarms of Thargoid vessels.” 
 
-“After weeks of intense combat and delivering vital supplies, the Proteus Wave was activated on 9th August. Initially it seemed successful, rendering the Thargoids powerless, but an unexpected second energy pulse from the planetary site had the same effect on all human ships. The resulting massacre saw the Thargoids take control of the HIP 22460 system, establishing a permanent presence.” 
+“After weeks of intense combat and delivering vital supplies, the Proteus Wave was activated on 9th August. Initially it seemed successful, rendering the Thargoids powerless, but an unexpected second energy pulse from the planetary site had the same effect on all human ships. The resulting massacre saw the Thargoids take control of the [[id:55088d83-4221-44fa-a9d5-6ebb0866c722][HIP 22460]] system, establishing a permanent presence.” 
 
-“Salvation was dead. [[id:e68a5318-bd72-4c92-9f70-dcdbd59505d1][Azimuth Biotech]]’s plans had failed. The superpowers were in retreat. And speculation grew about an unearthly alien screech heard in HIP 22460, dubbed the ‘Thargoid roar’.”
+“Salvation was dead. [[id:e68a5318-bd72-4c92-9f70-dcdbd59505d1][Azimuth Biotech]]’s plans had failed. The superpowers were in retreat. And speculation grew about an unearthly alien screech heard in [[id:55088d83-4221-44fa-a9d5-6ebb0866c722][HIP 22460]], dubbed the ‘Thargoid roar’.”

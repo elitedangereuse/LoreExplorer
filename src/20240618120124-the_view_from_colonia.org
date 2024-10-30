@@ -4,7 +4,7 @@
 #+title: The View from Colonia
 #+filetags: :3307:galnet:
 
-* The View from Colonia
+* The View from [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]]
 
 /29 Oct 3307/
 
@@ -31,7 +31,7 @@ function along cooperative lines. There have been a handful of
 regional conflicts, but generally you’re less likely to witness
 trouble out here.”
 
-“Having become self-sufficient early on, Colonia’s healthy economy
+“Having become self-sufficient early on, [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]]’s healthy economy
 encourages both traders and tourists to make the long journey. The
 scientific community maintains a notable presence, a notable example
 is the [[id:3d9b071c-c232-431f-8f63-5c3a594b9909][Holloway Bioscience Institute]], which studies the many
@@ -46,4 +46,4 @@ a living working on low-atmosphere worlds.”
 “With the [[id:97a8c7e5-9399-4ebe-9457-8029ce809303][Colonia Bridge]] project well underway, it will soon be easier
 than ever to cross the interstellar gulf and reach this distant
 haven. Businesses, settlers and visitors alike may find themselves
-increasingly drawn to the Colonia experience.”
+increasingly drawn to the [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] experience.”

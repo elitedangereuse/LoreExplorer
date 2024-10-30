@@ -3,13 +3,13 @@
 :END:
 #+title: Emperor Arissa Ambushed in Cubeo System
 #+filetags: :Empire:Thargoid:galnet:
-* Emperor Arissa Ambushed in Cubeo System
+* Emperor Arissa Ambushed in [[id:1cfcec06-5ac3-40b6-b08a-13086eb88466][Cubeo]] System
 
 /02 Aug 3310/
 
-Emperor Arissa has survived an assault on her convoy in the Cubeo system. Imperial Guard pilots fought off the perpetrators in a brief but intense firefight. 
+Emperor Arissa has survived an assault on her convoy in the [[id:1cfcec06-5ac3-40b6-b08a-13086eb88466][Cubeo]] system. Imperial Guard pilots fought off the perpetrators in a brief but intense firefight. 
 
-The Emperor was returning from a state visit to Cubeo 3, where communities across the planet were hosting a biennial harvest festival in her honour. On route to the orbiting INV Achenar’s Valour, a squadron of unidentified ships dropped out of supercruise and attacked her shuttle amidst the dozen Imperial Guard vessels protecting it. 
+The Emperor was returning from a state visit to [[id:1cfcec06-5ac3-40b6-b08a-13086eb88466][Cubeo]] 3, where communities across the planet were hosting a biennial harvest festival in her honour. On route to the orbiting INV [[id:bed8c27f-3cbe-49ad-b86f-7d87eacf804a][Achenar]]’s Valour, a squadron of unidentified ships dropped out of supercruise and attacked her shuttle amidst the dozen Imperial Guard vessels protecting it. 
 
 Colm Tornquist wrote the following for the Imperial Herald: 
 
@@ -19,4 +19,4 @@ Colm Tornquist wrote the following for the Imperial Herald:
 
 Senator [[id:75daea85-5e9f-4f6f-a102-1a5edea0283c][Denton Patreus]] labelled the attack ‘as outrageous as it was foolish’ and proposed an increase in the Emperor’s security presence for public appearances. He stopped short of blaming any specific entity for the attack, but claimed that ‘the Empire’s traditional foes have nurtured their true ambitions in the shadow of the Thargoid conflict.’ Denton also stated that further aggressions would ‘invite a reminder that the power and resources of the Imperial Fleet can eradicate human threats just as efficiently as xeno ones.’ 
 
-Princess Aisling, who regularly uses Cubeo as a headquarters for her many state programs, condemned the incident as ‘a regrettable act by the lost or desperate,’ and spoke of her relief at her aunt’s survival. At the time of the attack the Princess was in Duamta as part of her collaboration with the Aegis initiative.
+Princess Aisling, who regularly uses [[id:1cfcec06-5ac3-40b6-b08a-13086eb88466][Cubeo]] as a headquarters for her many state programs, condemned the incident as ‘a regrettable act by the lost or desperate,’ and spoke of her relief at her aunt’s survival. At the time of the attack the Princess was in [[id:b16e9508-ccde-4a48-86ff-f3674c9c720e][Duamta]] as part of her collaboration with the Aegis initiative.

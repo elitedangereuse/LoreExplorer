@@ -7,15 +7,15 @@
 [[file:img/permit.png]]
 
 #+begin_quote
-The Alioth system is notable as the home of the
+The [[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]] system is notable as the home of the
 Alliance, one of the galaxy's three superpowers.
 The system was the focus of conflict between the
 Federation and the Empire in the 3200s due to
 its tremendous mineral wealth, but the expulsion
-of Federal and Imperial forces by Alioth's
+of Federal and Imperial forces by [[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]]'s
 indigenous population led to the creation of the
 Alliance in 3230. The [[id:b2b2d9ee-9c33-4a0b-b3ce-82cfa362577e][permit]] for this system can
-be obtained from the Alioth Independents.
+be obtained from the [[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]] Independents.
 #+end_quote
 
 [[file:img/systems/alioth.png]]
@@ -23,7 +23,7 @@ be obtained from the Alioth Independents.
 * Description
 Alioth, also known as Epsilon Ursae Majoris, is the capital system of
 the Alliance. It is located in the Core Systems within the Inner Orion
-Spur. Access to Alioth is restricted, and the permit can only be
+Spur. Access to [[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]] is restricted, and the permit can only be
 obtained by becoming Allied with the [[id:d17b2062-68b1-43ea-8852-ab04b591c6ba][Alioth Independents]] minor faction
 in any system where it has a presence.
 

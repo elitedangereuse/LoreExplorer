@@ -10,7 +10,7 @@
 
 A member of the Council of Admirals, which commands the [[id:17d9294e-7759-4cf4-9a67-5f12b5704f51][Alliance Defence Force]], has been murdered. The League of Reparation has claimed responsibility. 
 
-Fleet Admiral Tulimaq Buchanan was travelling to a naval ceremony at Lave Station when his private vessel was attacked and destroyed. The admiral’s personal staff and the ship’s crew were also killed. 
+Fleet Admiral Tulimaq Buchanan was travelling to a naval ceremony at [[id:ff595332-6a13-4f69-ae2f-cc0a0df8e741][Lave]] Station when his private vessel was attacked and destroyed. The admiral’s personal staff and the ship’s crew were also killed. 
 
 Moments later, the following message was transmitted to news feeds across the galaxy: 
 
@@ -18,7 +18,7 @@ Moments later, the following message was transmitted to news feeds across the ga
 
 Chief Inspector [[id:9d17bf0f-6ce5-46b2-b9e6-2cab238fcce7][Kay Kilbride]], a founding member of the tri-superpower taskforce investigating the League, delivered the following statement: 
 
-“We are treating this attack as an act of terrorism from the League of Reparation. Fleet Admiral Buchanan’s family history verifies that one of his forebears was a senior commander in the INRA prior to settling down on Lave over a century ago.” 
+“We are treating this attack as an act of terrorism from the League of Reparation. Fleet Admiral Buchanan’s family history verifies that one of his forebears was a senior commander in the INRA prior to settling down on [[id:ff595332-6a13-4f69-ae2f-cc0a0df8e741][Lave]] over a century ago.” 
 
 “We are working to identify the attackers, who somehow managed to avoid local security forces. There’s evidence to suggest that the League’s assassins are being aided by sympathetic individuals in positions of influence. Our investigation continues.” 
 

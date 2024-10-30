@@ -4,22 +4,22 @@
 #+title: Tionisla Materials Campaign Fails
 #+filetags: :Federation:Alliance:galnet:
 
-* Tionisla Materials Campaign Fails
+* [[id:0b991a8e-234a-4888-8c0a-b3c64498f217][Tionisla]] Materials Campaign Fails
 
 /07 Dec 3309/
 
 *Pilots’ Federation ALERT* 
 
-Councillor [[id:0d664f07-640e-4397-be23-6b52d2c2d4d6][Nakato Kaine]] has announced that a delivery campaign in the Tionisla system has not reached its target. 
+Councillor [[id:0d664f07-640e-4397-be23-6b52d2c2d4d6][Nakato Kaine]] has announced that a delivery campaign in the [[id:0b991a8e-234a-4888-8c0a-b3c64498f217][Tionisla]] system has not reached its target. 
 
 Addressing the Alliance Assembly, she said: 
 
 “The purpose of this campaign was to demonstrate the core principles of the Alliance: independence, self-sufficiency and mutual support. While we received millions of units, our target quota was not filled. I believe there are important lessons to be learned here. We must not lose faith in the Alliance’s ability to remain self-sustaining in military infrastructure.” 
 
-The strategic defence pact between the Alliance and Sirius Corporation is being subjected to an independent inquiry. A vocal minority of councillors in the Assembly are critical of their corporate partner’s inability to deliver anti-xeno ships or activities. 
+The strategic defence pact between the Alliance and [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Corporation is being subjected to an independent inquiry. A vocal minority of councillors in the Assembly are critical of their corporate partner’s inability to deliver anti-xeno ships or activities. 
 
 Sirius Corporation CEO Li Yong Rui offered this comment to reporters: 
 
-“Sirius Corporation’s continued efforts to supply the [[id:17d9294e-7759-4cf4-9a67-5f12b5704f51][Alliance Defence Force]] with upgraded modules and resources have been hampered by the Alliance Assembly in recent months. Kaine’s rogue operation in Tionisla only demonstrates how partisan some of us have become. If the defence pact had received unconditional support, just imagine what triumphs and successes Sirius might have delivered by now.” 
+“Sirius Corporation’s continued efforts to supply the [[id:17d9294e-7759-4cf4-9a67-5f12b5704f51][Alliance Defence Force]] with upgraded modules and resources have been hampered by the Alliance Assembly in recent months. Kaine’s rogue operation in [[id:0b991a8e-234a-4888-8c0a-b3c64498f217][Tionisla]] only demonstrates how partisan some of us have become. If the defence pact had received unconditional support, just imagine what triumphs and successes [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] might have delivered by now.” 
 
 The Alliance Rapid-reaction Corps has confirmed that pilots who earned bounty vouchers protecting traders can now collect their rewards from Brett High. The intended discount on the Alliance Challenger, Chieftain and Crusader has been cancelled due to the delivery campaign’s failure to reach its targets.

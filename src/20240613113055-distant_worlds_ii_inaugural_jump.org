@@ -7,11 +7,11 @@
 [[id:4ccdf1db-68db-4935-8cac-b6d23e01d78d][Pallaeni]]
 
 Distant Worlds II was an ambitious five-month expedition to the far
-outer rim. It launched from the Pallaeni system in January of 3305 and
+outer rim. It launched from the [[id:4ccdf1db-68db-4935-8cac-b6d23e01d78d][Pallaeni]] system in January of 3305 and
 reached its final destination of [[id:80ea667a-62b4-4082-bed0-ce253d76869b][Beagle Point]] in May 3305. The purpose
 of the expedition was to unravel the mysteries of the galaxy, and to
 construct a starport at [[id:84d9b01d-a9d6-47d9-b9f9-f6154233e585][Sagittarius A*]]. This beacon marks the point
 where participating pilots made their first hyperspace jump after
-leaving Pallaeni.
+leaving [[id:4ccdf1db-68db-4935-8cac-b6d23e01d78d][Pallaeni]].
 
 [[file:img/beacons/ER11.png]]

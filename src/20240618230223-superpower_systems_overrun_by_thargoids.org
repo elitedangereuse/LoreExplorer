@@ -10,14 +10,14 @@
 
 *Pilots’ Federation ALERT* 
 
-Thargoid fleets have invaded the Didio, Novas and Sosong systems, placing over ten billion lives at risk. 
+Thargoid fleets have invaded the [[id:d508fb0f-0214-4133-829f-edb61e2681d0][Didio]], [[id:b38c4ed0-3aaa-4a86-8acd-a241164d680f][Novas]] and [[id:2a81ce70-848a-46eb-aa0b-b5626e78e8aa][Sosong]] systems, placing over ten billion lives at risk. 
 
 Local security services in all three systems have reported overwhelming numbers of hostile Thargoid vessels. Several starports have been directly attacked with caustic enzyme weapons, and the combined death toll is already in the hundreds of thousands. 
 
-Didio, Novas and Sosong are members of the Alliance, Empire and Federation respectively. Three admirals have been selected to mount a defence: [[id:2b3e8681-1d08-450e-ad9f-fe5179104b36][Henry Paul Atherton]] of the Imperial Navy, Maxton Price of the Federal Navy and Rachel Ziegler of the [[id:17d9294e-7759-4cf4-9a67-5f12b5704f51][Alliance Defence Force]].  
+Didio, [[id:b38c4ed0-3aaa-4a86-8acd-a241164d680f][Novas]] and [[id:2a81ce70-848a-46eb-aa0b-b5626e78e8aa][Sosong]] are members of the Alliance, Empire and Federation respectively. Three admirals have been selected to mount a defence: [[id:2b3e8681-1d08-450e-ad9f-fe5179104b36][Henry Paul Atherton]] of the Imperial Navy, Maxton Price of the Federal Navy and Rachel Ziegler of the [[id:17d9294e-7759-4cf4-9a67-5f12b5704f51][Alliance Defence Force]].  
 
-However, it will be days before each can marshal sufficient forces. Therefore the factions Emperor’s Grace, LTT 4772 Alliance Mandate and Union of Sosong Democrats have sent out emergency calls for assistance to all independent pilots. 
+However, it will be days before each can marshal sufficient forces. Therefore the factions Emperor’s Grace, LTT 4772 Alliance Mandate and Union of [[id:2a81ce70-848a-46eb-aa0b-b5626e78e8aa][Sosong]] Democrats have sent out emergency calls for assistance to all independent pilots. 
 
-With Aegis now officially disbanded, its fleet is being temporarily operated by Frontline Solutions. The combat logistics corporation has made the ships available with a volunteer pilot force, which will support the superpowers in systems invaded by Thargoid fleets. Sources indicate a more permanent solution is being sought, as Frontline Solutions CEO Imogen le Ray is believed to be resistant to a long-term commitment of her company’s resources to the anti-xeno effort. 
+With Aegis now officially disbanded, its fleet is being temporarily operated by Frontline [[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]]utions. The combat logistics corporation has made the ships available with a volunteer pilot force, which will support the superpowers in systems invaded by Thargoid fleets. Sources indicate a more permanent solution is being sought, as Frontline Solutions CEO Imogen le Ray is believed to be resistant to a long-term commitment of her company’s resources to the anti-xeno effort. 
 
 The Alliance, Empire and Federation are currently liaising with [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]], whose unique weaponry has proved effective against Thargoid incursions of similar magnitude. As yet, Salvation has made no public statement.

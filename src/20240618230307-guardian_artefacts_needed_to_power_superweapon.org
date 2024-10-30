@@ -10,7 +10,7 @@
 
 *Pilots’ Federation ALERT* 
 
-Azimuth Biotech urgently requires deliveries of Guardian artefacts to HIP 22460 as vital components of the Proteus Wave. 
+Azimuth Biotech urgently requires deliveries of Guardian artefacts to [[id:55088d83-4221-44fa-a9d5-6ebb0866c722][HIP 22460]] as vital components of the Proteus Wave. 
 
 Salvation issued an official request to the Allied, Federal and Imperial taskforces, which was then shared via public channels: 
 
@@ -18,4 +18,4 @@ Salvation issued an official request to the Allied, Federal and Imperial taskfor
 
 Azimuth Biotech has established an initiative to encourage independent pilots to supply the Bright Sentinel megaship with Guardian commodities. Azimuth are also offering additional ship liveries to contributors. 
 
-Pilots can deliver any combination of Guardian caskets, orbs, relics, tablets, totems and urns to the Bright Sentinel megaship in the HIP 22460 system.
+Pilots can deliver any combination of Guardian caskets, orbs, relics, tablets, totems and urns to the Bright Sentinel megaship in the [[id:55088d83-4221-44fa-a9d5-6ebb0866c722][HIP 22460]] system.

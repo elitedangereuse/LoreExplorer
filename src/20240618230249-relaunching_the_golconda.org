@@ -10,7 +10,7 @@
 
 *Pilots’ Federation ALERT* 
 
-Traders and combat pilots are required in the Upaniklis system to assist the [[id:fce1d147-f900-41ec-a92c-3ce3d1cae641][Golconda]] in resuming its voyage. 
+Traders and combat pilots are required in the [[id:361a46f2-79c4-40bf-9781-4066763914f3][Upaniklis]] system to assist the [[id:fce1d147-f900-41ec-a92c-3ce3d1cae641][Golconda]] in resuming its voyage. 
 
 The ancient generation ship, which originated from Earth in the 22nd century, has been retrofitted by the Artificers Clan into a functional modern vessel. The majority of its former population have decided to leave the outpost Forester’s Choice and return to their traditional nomadic lifestyle. 
 
@@ -20,6 +20,6 @@ Captain [[id:24bc363b-5b71-4968-96b9-2feae4296068][Jonathon Forester]], leader o
 
 Upaniklis Vision Incorporated has agreed to organise the initiative. Pilots are asked to deliver all commodities to Fozard Port, from where they will be transferred aboard the [[id:fce1d147-f900-41ec-a92c-3ce3d1cae641][Golconda]]. 
 
-Local security forces warned that pirates may attempt to hijack incoming shipments or take control of the [[id:fce1d147-f900-41ec-a92c-3ce3d1cae641][Golconda]] itself. As a defensive measure, Upaniklis Vision Incorporated has offered bounties on all wanted ships in the system. 
+Local security forces warned that pirates may attempt to hijack incoming shipments or take control of the [[id:fce1d147-f900-41ec-a92c-3ce3d1cae641][Golconda]] itself. As a defensive measure, [[id:361a46f2-79c4-40bf-9781-4066763914f3][Upaniklis]] Vision Incorporated has offered bounties on all wanted ships in the system. 
 
 According to the Federal Diplomatic Corp, these events do not violate the legislation that protects isolated societies from cultural contamination. It added: “Partnership status with the Federation has been extended to the [[id:fce1d147-f900-41ec-a92c-3ce3d1cae641][Golconda]] and continues to apply to Forester’s Choice outpost.”

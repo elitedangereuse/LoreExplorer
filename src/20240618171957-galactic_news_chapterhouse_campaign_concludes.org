@@ -8,7 +8,7 @@
 
 /15 Sep 3303/
 
-A spokesperson for the Kamadhenu Chapterhouse of Inquisition has announced that its plan to establish a series of starports between Colonia and the core systems has received the wholehearted support of the galactic community. 
+A spokesperson for the [[id:6762f716-7e24-4a03-af96-2af0fd55f8c7][Kamadhenu]] Chapterhouse of Inquisition has announced that its plan to establish a series of starports between [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] and the core systems has received the wholehearted support of the galactic community. 
 
 Hundreds of pilots took to their ships to deliver construction materials to Shajn Market over the course of the three-week campaign, allowing the Chapterhouse to achieve its ambitious goals. 
 
@@ -16,6 +16,6 @@ As the campaign drew to a close, a spokesperson for the Chapterhouse released a 
 
 “Thanks to the hard work of the galaxy’s independent pilots, construction of the first starport is almost complete, work on the second is well underway and construction of the third will begin soon.” 
 
-“We are immeasurably grateful to those who supported this initiative, and we look forward to a future of increased travel and trade between Colonia and the core.” 
+“We are immeasurably grateful to those who supported this initiative, and we look forward to a future of increased travel and trade between [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] and the core.” 
 
-Pilots who contributed to the campaign can now collect their rewards from Shajn Market in the Kamadhenu system.
+Pilots who contributed to the campaign can now collect their rewards from Shajn Market in the [[id:6762f716-7e24-4a03-af96-2af0fd55f8c7][Kamadhenu]] system.

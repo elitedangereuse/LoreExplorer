@@ -8,18 +8,18 @@
 
 /02 Aug 3308/
 
-The leaders of the Alliance, Empire and Federation have publicly confirmed their support for [[id:e68a5318-bd72-4c92-9f70-dcdbd59505d1][Azimuth Biotech]]’s anti-xeno operation in HIP 22460. 
+The leaders of the Alliance, Empire and Federation have publicly confirmed their support for [[id:e68a5318-bd72-4c92-9f70-dcdbd59505d1][Azimuth Biotech]]’s anti-xeno operation in [[id:55088d83-4221-44fa-a9d5-6ebb0866c722][HIP 22460]]. 
 
 Prime Minister [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74][Edmund Mahon]] reiterated his position during an interview with the Old Worlds Gazette: 
 
-“It is our duty to protect the peoples of the Alliance. Since we currently lack a dedicated naval fleet, we must rely on partnerships with key military providers. With [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]’s advanced weaponry and Sirius Corporation’s large-scale logistical might, Allied worlds have never been safer from Thargoid attack.” 
+“It is our duty to protect the peoples of the Alliance. Since we currently lack a dedicated naval fleet, we must rely on partnerships with key military providers. With [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]’s advanced weaponry and [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Corporation’s large-scale logistical might, Allied worlds have never been safer from Thargoid attack.” 
 
 The Imperial Senate discussed Professor [[id:c2623368-19b0-4995-9e35-b8f54f741a53][Alba Tesreau]]’s accusations of criminality against [[id:e68a5318-bd72-4c92-9f70-dcdbd59505d1][Azimuth Biotech]], to which Emperor [[id:34f3cfdd-0536-40a9-8732-13bf3a5e4a70][Arissa Lavigny-Duval]] responded:  
 
-“Professor Tesreau remains a respected member of the Achenar Research Council, but a single viewpoint cannot eclipse the strategic significance of the Proteus Wave project. Our military experts are confident that, should the weapon deliver on the promises [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]] has made, the Thargoid threat will be diminished. A review of the situation will then be conducted.” 
+“Professor Tesreau remains a respected member of the [[id:bed8c27f-3cbe-49ad-b86f-7d87eacf804a][Achenar]] Research Council, but a single viewpoint cannot eclipse the strategic significance of the Proteus Wave project. Our military experts are confident that, should the weapon deliver on the promises [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]] has made, the Thargoid threat will be diminished. A review of the situation will then be conducted.” 
 
-During a promotional tour of marine training centres in the Eta Cassiopeiae system, President [[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][Zachary Hudson]] told reporters: 
+During a promotional tour of marine training centres in the [[id:ed325fe8-22a1-4d07-9af9-5a9f8f056377][Eta Cassiopeiae]] system, President [[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][Zachary Hudson]] told reporters: 
 
 “Director Rademaker is absolutely correct: those who deliberately sabotage [[id:e68a5318-bd72-4c92-9f70-dcdbd59505d1][Azimuth Biotech]]’s operations are only helping the Thargoids, which is tantamount to treason. The Federation’s citizens have the right to live without fear of alien invasion, and [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]’s ingenuity will help us preserve that right.” 
 
-One Allied megaship, three Farragut-class battle cruisers and three Majestic-class interdictors are currently deployed in the HIP 22460 system to defend the Proteus Wave against the Thargoids.
+One Allied megaship, three Farragut-class battle cruisers and three Majestic-class interdictors are currently deployed in the [[id:55088d83-4221-44fa-a9d5-6ebb0866c722][HIP 22460]] system to defend the Proteus Wave against the Thargoids.

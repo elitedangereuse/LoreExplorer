@@ -8,7 +8,7 @@
 
 /20 Jan 3302/
 
-Authorities in Eravate, Almar and Halbangaay have confirmed that theirs are the latest systems to experience mysterious technical issues, bringing the total number of systems affected by what some are calling 'the technological plague' to 22. All services apart from docking and shipyard access have been suspended at Ackerman Market in Eravate, von Bellingshausen Port in Almar and Haack Gateway in Halbangaay. A complete list of affected stations follows. 
+Authorities in Eravate, Almar and Halbangaay have confirmed that theirs are the latest systems to experience mysterious technical issues, bringing the total number of systems affected by what some are calling 'the technological plague' to 22. All services apart from docking and shipyard access have been suspended at Ackerman Market in Eravate, von Bellingshausen Port in Almar and Haack [[id:e179ecca-9ab3-4184-b05e-107b2e6932c2][Gateway]] in Halbangaay. A complete list of affected stations follows. 
 
 Starports where services have been suspended: 
 
@@ -16,11 +16,11 @@ Ackerman Market, Eravate
 
 von Bellingshausen Port, Almar 
 
-Haack Gateway, Halbangaay 
+Haack [[id:e179ecca-9ab3-4184-b05e-107b2e6932c2][Gateway]], Halbangaay 
 
 Gabriel Enterprise, Harma 
 
-Gurragchaa Gateway, Warkushanui 
+Gurragchaa [[id:e179ecca-9ab3-4184-b05e-107b2e6932c2][Gateway]], Warkushanui 
 
 Gaiman Dock, 49 Arietis 
 
@@ -30,11 +30,11 @@ Korolyov Hub, Arawere
 
 Lobachevsky Outpost, Pic Tok 
 
-Carter Port, Rhea 
+Carter Port, [[id:6da9023a-ccb6-444a-be77-626dfb552eb1][Rhea]] 
 
 Starports experiencing technical issues: 
 
-al-Din Prospect, Alpha Centauri 
+al-Din Prospect, [[id:2de7ac5c-9ae0-4ebf-af7d-6505f05d2fd1][Alpha Centauri]] 
 
 Robigo Mines, Robigo 
 
@@ -50,12 +50,12 @@ Hinz Hub, Ngobe
 
 Tsunenaga Dock, Iapodes 
 
-Li Qing Jao, Sol 
+Li Qing Jao, [[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]] 
 
-Ray Gateway, Diaguandri 
+Ray [[id:e179ecca-9ab3-4184-b05e-107b2e6932c2][Gateway]], Diaguandri 
 
 Vizcaino Enterprise, Nganji 
 
-Talos 2, Peregrina 
+Talos 2, [[id:3ea0a57b-8e74-4642-bb38-5152ddba646d][Peregrina]] 
 
 We will continue to bring you up-to-the-minute reports on this issue.

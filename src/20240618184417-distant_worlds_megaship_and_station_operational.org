@@ -16,4 +16,4 @@ Project leader Erimus Kamzel made a statement on behalf of those involved in the
 
 The DSSV Distant Worlds will follow a circular route between six systems in the Galactic Centre region, with scheduled hyperspace jumps every two weeks. It is currently based at Explorer’s Anchorage. 
 
-The relay station, Event Horizon, has also become operational in the Stuemeae FG-Y d7561 system. This installation will gather scientific data on the supermassive black hole Sagittarius A*, and provide research facilities and residence for scientists at the heart of the galaxy.
+The relay station, Event Horizon, has also become operational in the [[id:35fe6a51-9492-44a7-9dc5-4a5395ae732f][Stuemeae FG-Y d7561]] system. This installation will gather scientific data on the supermassive black hole [[id:84d9b01d-a9d6-47d9-b9f9-f6154233e585][Sagittarius A*]]*, and provide research facilities and residence for scientists at the heart of the galaxy.

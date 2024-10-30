@@ -10,7 +10,7 @@
 
 The discovery of an inhabited generation ship has attracted attention from both the Empire and the Federation. 
 
-A recent trade appeal in the Upaniklis system provided the [[id:fce1d147-f900-41ec-a92c-3ce3d1cae641][Golconda]] with emergency aid. Each of the superpowers has since deployed a megaship to the area, along with proposals for integrating the Golconda’s crew into the galactic community. 
+A recent trade appeal in the [[id:361a46f2-79c4-40bf-9781-4066763914f3][Upaniklis]] system provided the [[id:fce1d147-f900-41ec-a92c-3ce3d1cae641][Golconda]] with emergency aid. Each of the superpowers has since deployed a megaship to the area, along with proposals for integrating the Golconda’s crew into the galactic community. 
 
 Imperial senator Ava Cornelius released this statement: 
 
@@ -18,6 +18,6 @@ Imperial senator Ava Cornelius released this statement:
 
 Federal Congressman Harlan Turk outlined an alternative approach: 
 
-“As the descendants of a generation ship launched from Sol, we view these courageous travellers as honorary Federal citizens. We therefore hold that they are entitled to remain a spacefaring commune as their ancestors wished, and intend to honour their traditional way of life with an orbital outpost to call their own.” 
+“As the descendants of a generation ship launched from [[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]], we view these courageous travellers as honorary Federal citizens. We therefore hold that they are entitled to remain a spacefaring commune as their ancestors wished, and intend to honour their traditional way of life with an orbital outpost to call their own.” 
 
-There has been minimal communication with the [[id:fce1d147-f900-41ec-a92c-3ce3d1cae641][Golconda]], and only a select few representatives of Upaniklis Vision Incorporated have interacted with the colonists. Assuming that the freshly donated supplies can fortify this micro-civilisation, vital decisions will need to be made regarding the Golconda’s future.
+There has been minimal communication with the [[id:fce1d147-f900-41ec-a92c-3ce3d1cae641][Golconda]], and only a select few representatives of [[id:361a46f2-79c4-40bf-9781-4066763914f3][Upaniklis]] Vision Incorporated have interacted with the colonists. Assuming that the freshly donated supplies can fortify this micro-civilisation, vital decisions will need to be made regarding the Golconda’s future.

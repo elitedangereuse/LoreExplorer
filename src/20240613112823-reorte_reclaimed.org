@@ -3,11 +3,11 @@
 :END:
 #+title: Reorte Reclaimed
 #+filetags: :3301:Alliance:beacon:
-* 0122 Reorte Reclaimed
+* 0122 [[id:5292d8c1-fa6e-4352-a03f-ef984f706203][Reorte]] Reclaimed
 [[id:0da8edee-c8ff-4aed-9ff9-ce8ae998bef3][Reorte]]
 
-After three weeks of fighting in the Lave Cluster, the Alliance Elite
-Diplomatic Corps (AEDC) managed to reclaim Reorte from a pirate
+After three weeks of fighting in the [[id:ff595332-6a13-4f69-ae2f-cc0a0df8e741][Lave]] Cluster, the Alliance Elite
+Diplomatic Corps (AEDC) managed to reclaim [[id:5292d8c1-fa6e-4352-a03f-ef984f706203][Reorte]] from a pirate
 insurgency. Early in April 3301, a local pirate group had tried to
 rename the cluster "New Caribbean", but undercover AEDC agents worked
 with local groups to retake control of Davies High.

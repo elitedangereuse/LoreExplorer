@@ -4,18 +4,18 @@
 #+title: Community Goal: The Colonia Initiative
 #+filetags: :Federation:Empire:CommunityGoal:3302:galnet:
 
-* Community Goal: The Colonia Initiative
+* Community Goal: The [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] Initiative
 
 /18 Aug 3302/
 
-The Colonia Nebula is a relatively innocuous region of space encompassing the Eol Prou RS-T d3-94 system. It is also likely to become a major bastion of humanity in the years to come. 
+The [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] Nebula is a relatively innocuous region of space encompassing the [[id:5f3c361b-30be-4912-8341-f6f3c1336028][Eol Prou RS-T d3-94]] system. It is also likely to become a major bastion of humanity in the years to come. 
 
-Public interest in the Colonia Nebula was piqued by the arrival in Eol Prou RS-T d3-94 of [[id:f37f17f1-8eb3-4598-93f7-190fe97438a1][Jaques]] Station, which dropped into the system after making an unsuccessful attempt to jump to Beagle Point. In the weeks that followed, pilots started ferrying goods to Jaques Station to repair the damaged starport – an initiative that captured the imagination of the galactic community. The region soon became a focus for those who fear that a war between the Federation and the Empire may be looming, and who hope to escape it. 
+Public interest in the [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] Nebula was piqued by the arrival in [[id:5f3c361b-30be-4912-8341-f6f3c1336028][Eol Prou RS-T d3-94]] of [[id:f37f17f1-8eb3-4598-93f7-190fe97438a1][Jaques]] Station, which dropped into the system after making an unsuccessful attempt to jump to Beagle Point. In the weeks that followed, pilots started ferrying goods to Jaques Station to repair the damaged starport – an initiative that captured the imagination of the galactic community. The region soon became a focus for those who fear that a war between the Federation and the Empire may be looming, and who hope to escape it. 
 
-A coordinated campaign to establish a permanent outpost in the region, organised by the 80 DD-D 774-CE-2 faction, is already underway and a second is about to begin. The 80 DD-D 774-CE-2 faction has announced plans to establish an outpost in the Colonia Nebula, and has placed an open order for materials for use in the construction. 
+A coordinated campaign to establish a permanent outpost in the region, organised by the 80 DD-D 774-CE-2 faction, is already underway and a second is about to begin. The 80 DD-D 774-CE-2 faction has announced plans to establish an outpost in the [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] Nebula, and has placed an open order for materials for use in the construction. 
 
 A spokesperson for the organisation said: 
 
-"A new beginning. A new tomorrow. That's what the Colonia Nebula represents. A chance to create an interstellar community free from the internecine conflicts that blight so much of inhabited space. With your help, we can make it happen." 
+"A new beginning. A new tomorrow. That's what the [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] Nebula represents. A chance to create an interstellar community free from the internecine conflicts that blight so much of inhabited space. With your help, we can make it happen." 
 
-The 80 DD-D 774-CE-2 faction has promised to reward pilots who deliver titanium, semiconductors and robotics to [[id:f37f17f1-8eb3-4598-93f7-190fe97438a1][Jaques]] Station in the Eol Prou RS-T d3-94 system. The campaign begins on the 18th of August 3302 and will run for two weeks.
+The 80 DD-D 774-CE-2 faction has promised to reward pilots who deliver titanium, semiconductors and robotics to [[id:f37f17f1-8eb3-4598-93f7-190fe97438a1][Jaques]] Station in the [[id:5f3c361b-30be-4912-8341-f6f3c1336028][Eol Prou RS-T d3-94]] system. The campaign begins on the 18th of August 3302 and will run for two weeks.

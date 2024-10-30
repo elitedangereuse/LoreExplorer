@@ -4,20 +4,20 @@
 #+title: Aegis Core Relocates to Sol
 #+filetags: :Federation:Thargoid:3304:galnet:
 
-* Aegis Core Relocates to Sol
+* Aegis Core Relocates to [[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]]
 
 /31 Aug 3304/
 
-In May, a criminal organisation known as the Socho Gold Raiders assumed control of the Socho system, headquarters of Aegis Core. 
+In May, a criminal organisation known as the [[id:092e7139-1d8c-45d1-89ce-615326e10853][Socho]] Gold Raiders assumed control of the Socho system, headquarters of Aegis Core. 
 
 Since then the system has descended further into chaos, culminating in the loss of services at Dantec Enterprise due to Thargoid sensor-related interference. This in turn led to the temporary immobilisation of Aegis’s Eagle Eye network, a system of orbital installations designed to determine potential Thargoid attack sites. 
 
-In the wake of this calamity, Federal President [[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][Zachary Hudson]] has announced that Aegis Core is to relocate from Socho to the Federal home system of Sol. 
+In the wake of this calamity, Federal President [[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][Zachary Hudson]] has announced that Aegis Core is to relocate from [[id:092e7139-1d8c-45d1-89ce-615326e10853][Socho]] to the Federal home system of [[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]]. 
 
 In a statement broadcast directly from the White House on Mars, Hudson said: 
 
-“Recent events in Socho have taught us that no matter the scale of the Thargoid threat, there will always be those more interested in fighting their fellow man than engaging the enemy.” 
+“Recent events in [[id:092e7139-1d8c-45d1-89ce-615326e10853][Socho]] have taught us that no matter the scale of the Thargoid threat, there will always be those more interested in fighting their fellow man than engaging the enemy.” 
 
-“Let me be clear: we are at war. The weakening of our defences cannot be tolerated. I have therefore agreed that Aegis Core will relocate to the Sol system, where it can be properly protected.” 
+“Let me be clear: we are at war. The weakening of our defences cannot be tolerated. I have therefore agreed that Aegis Core will relocate to the [[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]] system, where it can be properly protected.” 
 
 “Aegis has been charged with defending humanity, and any attempt to undermine it is nothing less than an act of treason.”

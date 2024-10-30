@@ -22,4 +22,4 @@ A secondary statement was provided by Commodore Emil Varga, the Alliance’s mil
 
 “If the preliminary data obtained by independent pilots is accurate, one common factor is that they encountered a significant Thargoid presence. Aegis warns all pilots that they enter the Maelstroms at their own risk, and should prepare for combat situations.” 
 
-“All of the eight systems containing Maelstroms are still affected by the same anti-Guardian field that was first witnessed in HIP 22460. Therefore, weapons based on Guardian technology will not function and should be replaced with other anti-xeno armaments.”
+“All of the eight systems containing Maelstroms are still affected by the same anti-Guardian field that was first witnessed in [[id:55088d83-4221-44fa-a9d5-6ebb0866c722][HIP 22460]]. Therefore, weapons based on Guardian technology will not function and should be replaced with other anti-xeno armaments.”

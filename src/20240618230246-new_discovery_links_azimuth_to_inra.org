@@ -10,11 +10,11 @@
 
 *Pilots’ Federation ALERT* 
 
-An abandoned outpost in the DG Canum Venaticorum system could reveal the true identity of the anonymous figure [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]. 
+An abandoned outpost in the [[id:eaa3c589-9d3f-4f1c-b6cb-a2262863b6f4][DG Canum Venaticorum]] system could reveal the true identity of the anonymous figure [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]. 
 
 Professor [[id:c2623368-19b0-4995-9e35-b8f54f741a53][Alba Tesreau]], former head of research at Aegis, made a public announcement: 
 
-“An untraceable source pointed me to the DG Canum Venaticorum system with the question: Who is [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]? A unique detail caught my attention, so I requested verification from pilots who had supported Aegis. We found a previously undiscovered research outpost once controlled by the Intergalactic Naval Reserve Arm.” 
+“An untraceable source pointed me to the [[id:eaa3c589-9d3f-4f1c-b6cb-a2262863b6f4][DG Canum Venaticorum]] system with the question: Who is [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]? A unique detail caught my attention, so I requested verification from pilots who had supported Aegis. We found a previously undiscovered research outpost once controlled by the Intergalactic Naval Reserve Arm.” 
 
 “The site contains logs which directly connect [[id:e68a5318-bd72-4c92-9f70-dcdbd59505d1][Azimuth Biochemicals]] to INRA’s development of the [[id:0ffe3814-d246-41f3-8f82-4bb9ca062dea][mycoid]] virus. As is now known, this bioweapon was used covertly against the Thargoids and drove them away from human space for decades.” 
 
@@ -22,6 +22,6 @@ Professor [[id:c2623368-19b0-4995-9e35-b8f54f741a53][Alba Tesreau]], former head
 
 INRA was a clandestine anti-xeno organisation formed in 3125 by the Empire and Federation. Although its [[id:0ffe3814-d246-41f3-8f82-4bb9ca062dea][mycoid]] bioweapon contributed hugely to the end of the first Thargoid war in 3151, INRA’s activities have since been denounced by the superpowers as illegal and unethical. 
 
-Azimuth Biochemicals was a pharmaceutical corporation secretly involved in xenological research and weapons development. Aegis has warned that Azimuth may still be active in some form, as suggested by the Project Seraph logs in HIP 22460. 
+Azimuth Biochemicals was a pharmaceutical corporation secretly involved in xenological research and weapons development. Aegis has warned that Azimuth may still be active in some form, as suggested by the Project Seraph logs in [[id:55088d83-4221-44fa-a9d5-6ebb0866c722][HIP 22460]]. 
 
 Neither [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]] nor his partners at Taurus Mining Ventures have yet responded to Professor Tesreau’s claims.

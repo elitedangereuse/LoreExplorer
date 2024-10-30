@@ -10,14 +10,14 @@
 
 *Pilots’ Federation ALERT* 
 
-The Di Jian system is hosting competing campaigns as the Alliance Assembly votes on the strategic defence pact. 
+The [[id:25537b36-1d83-4354-afeb-482bf891d85d][Di Jian]] system is hosting competing campaigns as the Alliance Assembly votes on the strategic defence pact. 
 
-The Assembly is evenly split over formalising military ties with Sirius Corporation to enhance defensive options against the Thargoids, with a decision expected at the end of June. In advance of the vote, both pro-pact and anti-Sirius councillors are attempting to sway colleagues to their cause by securing a sizeable resource package for the [[id:17d9294e-7759-4cf4-9a67-5f12b5704f51][Alliance Defence Force]].  
+The Assembly is evenly split over formalising military ties with [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Corporation to enhance defensive options against the Thargoids, with a decision expected at the end of June. In advance of the vote, both pro-pact and anti-Sirius councillors are attempting to sway colleagues to their cause by securing a sizeable resource package for the [[id:17d9294e-7759-4cf4-9a67-5f12b5704f51][Alliance Defence Force]].  
 
-Pro-pact councillors have established their initiative in Di Jian from the Sirius megaship Kumiho Sky, and are asking for shipments of computer components, reinforced mounting plates and synthetic reagents. These councillors have heavily promoted the need for enhanced fleet support in the face of increasing Thargoid activity. Noted engineer [[id:d18667b7-1da8-48ca-bb84-e280ebf77a35][Marco Qwent]] recently confirmed his support for an Allied anti-xeno pact with Sirius. 
+Pro-pact councillors have established their initiative in [[id:25537b36-1d83-4354-afeb-482bf891d85d][Di Jian]] from the [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] megaship Kumiho Sky, and are asking for shipments of computer components, reinforced mounting plates and synthetic reagents. These councillors have heavily promoted the need for enhanced fleet support in the face of increasing Thargoid activity. Noted engineer [[id:d18667b7-1da8-48ca-bb84-e280ebf77a35][Marco Qwent]] recently confirmed his support for an Allied anti-xeno pact with Sirius. 
 
-The anti-Sirius lobby has requested deliveries of the same commodities to Preuss Terminal in the Di Jian system. The system’s controlling faction, Sol’s Salutis Aeternum, is overseeing contributions. Engineers [[id:132a80d4-8dcb-46d5-bb30-7621c30f9d5c][Uma Laszlo]] and [[id:f3426d7a-dfd4-4e6c-8f29-f53c7e31d071][Bill Turner]] have both expressed a hope that the anti-xeno pact with Sirius is denied. 
+The anti-Sirius lobby has requested deliveries of the same commodities to Preuss Terminal in the [[id:25537b36-1d83-4354-afeb-482bf891d85d][Di Jian]] system. The system’s controlling faction, [[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]]’s Salutis Aeternum, is overseeing contributions. Engineers [[id:132a80d4-8dcb-46d5-bb30-7621c30f9d5c][Uma Laszlo]] and [[id:f3426d7a-dfd4-4e6c-8f29-f53c7e31d071][Bill Turner]] have both expressed a hope that the anti-xeno pact with [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] is denied. 
 
-To encourage support from pilots, each campaign is offering extra incentives. The majority of contributors to the Kumiho Sky campaign will receive a pre-engineered high capacity AX fixed missile launcher, among other rewards, courtesy of Sirius Corporation. 
+To encourage support from pilots, each campaign is offering extra incentives. The majority of contributors to the Kumiho Sky campaign will receive a pre-engineered high capacity AX fixed missile launcher, among other rewards, courtesy of [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Corporation. 
 
 Sol’s Salutis Aeternum is instead offering a stock Alliance Chieftain to a limited number of Preuss Terminal campaign contributors. Other rewards are available for contributors outside this number.

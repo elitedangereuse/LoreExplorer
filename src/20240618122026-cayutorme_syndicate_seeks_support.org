@@ -8,7 +8,7 @@
 
 /04 Nov 3301/
 
-Imperial investigators have confirmed ties between [[id:7aae0550-b8ba-42cf-b52b-e7040461c96f][Archon Delaine]]'s Kumo Crew and the mercenary group known as the [[id:3ae0f41b-9beb-419b-a804-68a000d9666b][Cayutorme]] Syndicate. This partnership brings disturbing context to the civil unrest currently affecting Cayutorme, as well as the syndicate's rapid rise to power. 
+Imperial investigators have confirmed ties between [[id:7aae0550-b8ba-42cf-b52b-e7040461c96f][Archon Delaine]]'s Kumo Crew and the mercenary group known as the [[id:3ae0f41b-9beb-419b-a804-68a000d9666b][Cayutorme]] Syndicate. This partnership brings disturbing context to the civil unrest currently affecting [[id:3ae0f41b-9beb-419b-a804-68a000d9666b][Cayutorme]], as well as the syndicate's rapid rise to power. 
 
 The leader of the [[id:3ae0f41b-9beb-419b-a804-68a000d9666b][Cayutorme]] Syndicate, Kyle Kurowski, is now trying to encourage mercenaries to join his already-imposing armada: 
 

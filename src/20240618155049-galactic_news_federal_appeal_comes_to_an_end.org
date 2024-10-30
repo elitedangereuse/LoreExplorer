@@ -8,7 +8,7 @@
 
 /06 Oct 3302/
 
-The Federation has announced that its campaign to construct a new outpost in the Maia system has received the enthusiastic support of the galactic community. Hundreds of pilots responded to the appeal for construction materials by delivering auto fabricators, titanium, and power generators to Obsidian Orbital in Maia. 
+The Federation has announced that its campaign to construct a new outpost in the [[id:0ee60994-364c-41b9-98ca-993d041cea72][Maia]] system has received the enthusiastic support of the galactic community. Hundreds of pilots responded to the appeal for construction materials by delivering auto fabricators, titanium, and power generators to Obsidian Orbital in Maia. 
 
 A spokesperson for the Pleiades Resource Enterprise, which coordinated the campaign, released a brief statement: 
 
@@ -16,4 +16,4 @@ A spokesperson for the Pleiades Resource Enterprise, which coordinated the campa
 
 "I would like to personally thank those who supported this initiative. Remember – the stars shine brightest on the Federation." 
 
-Pilots who contributed to the initiative are now free to collect their rewards from Obsidian Orbital in the Maia system.
+Pilots who contributed to the initiative are now free to collect their rewards from Obsidian Orbital in the [[id:0ee60994-364c-41b9-98ca-993d041cea72][Maia]] system.

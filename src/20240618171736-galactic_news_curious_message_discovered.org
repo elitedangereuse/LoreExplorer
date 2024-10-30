@@ -8,7 +8,7 @@
 
 /17 Apr 3303/
 
-A group of EM-transmission technology enthusiasts in the Tionisla system claims to have found a message in the exploration data gathered last year as part of a campaign organised by the Children of Raxxla. 
+A group of EM-transmission technology enthusiasts in the [[id:0b991a8e-234a-4888-8c0a-b3c64498f217][Tionisla]] system claims to have found a message in the exploration data gathered last year as part of a campaign organised by the Children of Raxxla. 
 
 A spokesperson for the group, which calls itself The Hamsters, said: 
 
@@ -48,7 +48,7 @@ Ruler of the winds
 
 God of night, primordial flees 
 
-Zeus’ namesake now lies in Sol 
+Zeus’ namesake now lies in [[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]] 
 
 Achilles’ favoured horse 
 

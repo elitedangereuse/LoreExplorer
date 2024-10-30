@@ -4,16 +4,16 @@
 #+title: The Fight Against Falisci
 #+filetags: :3301:Empire:galnet:
 
-* The Fight Against Falisci
+* The Fight Against [[id:80569507-5192-4d10-a072-7ddc2b0e5bac][Falisci]]
 
 /27 Feb 3301/
 
-There’s war brewing in the Empire, as despite a stern warning issued in their direction by Senator [[id:75daea85-5e9f-4f6f-a102-1a5edea0283c][Denton Patreus]], the pirates of Falisci continue to plunder innocent traders as they pass through on the way to ply their wares in Dongzi and Ngaiawang. 
+There’s war brewing in the Empire, as despite a stern warning issued in their direction by Senator [[id:75daea85-5e9f-4f6f-a102-1a5edea0283c][Denton Patreus]], the pirates of [[id:80569507-5192-4d10-a072-7ddc2b0e5bac][Falisci]] continue to plunder innocent traders as they pass through on the way to ply their wares in Dongzi and [[id:36dc081e-5308-4677-978e-cd9eee894d1b][Ngaiawang]]. 
 
-Things could soon change however, as reports are coming in that warships belonging to the Citizens of Tradition, a group well known for their support of Senator Patreus, have been spotted amassing on the borders of Falisci. 
+Things could soon change however, as reports are coming in that warships belonging to the Citizens of Tradition, a group well known for their support of Senator Patreus, have been spotted amassing on the borders of [[id:80569507-5192-4d10-a072-7ddc2b0e5bac][Falisci]]. 
 
 When pressed for comment, Commander Shole of the Citizens of Tradition had this to say: 
 
-“We’ve got our orders. No traders are going under on our watch. If those Falisci scumbags so much as think about crossing this border, they’re going to wish they hadn’t.” 
+“We’ve got our orders. No traders are going under on our watch. If those [[id:80569507-5192-4d10-a072-7ddc2b0e5bac][Falisci]] scumbags so much as think about crossing this border, they’re going to wish they hadn’t.” 
 
-Imperial Commanders willing to join the fight to defend imperial space should seek out the Citizens of Tradition aboard Dornier Terminal in Ngaiawang.
+Imperial Commanders willing to join the fight to defend imperial space should seek out the Citizens of Tradition aboard Dornier Terminal in [[id:36dc081e-5308-4677-978e-cd9eee894d1b][Ngaiawang]].

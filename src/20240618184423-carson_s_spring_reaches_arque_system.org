@@ -4,16 +4,16 @@
 #+title: Carson’s Spring Reaches Arque System
 #+filetags: :Thargoid:galnet:
 
-* Carson’s Spring Reaches Arque System
+* Carson’s Spring Reaches [[id:d4b595af-536d-4575-af11-f07f3ac3ff40][Arque]] System
 
 /22 Jul 3305/
 
-Carson’s Spring, the megaship transporting Professor [[id:8f63442a-1f38-457d-857a-38297d732a90][Ishmael Palin]] from the Maia system, has successfully completed its journey, having endured a number of attacks by Thargoid craft. 
+Carson’s Spring, the megaship transporting Professor [[id:8f63442a-1f38-457d-857a-38297d732a90][Ishmael Palin]] from the [[id:0ee60994-364c-41b9-98ca-993d041cea72][Maia]] system, has successfully completed its journey, having endured a number of attacks by Thargoid craft. 
 
 Admiral [[id:7bca1ccd-649e-438a-ae56-fb8ca34e6440][Aden Tanner]] provided this update on behalf of Aegis Research: 
 
 “With support from many independent combat pilots, the Thargoid assaults on Carson’s Spring have been successfully repelled.” 
 
-“The megaship has now arrived in the Arque system with Professor Palin and his staff.” 
+“The megaship has now arrived in the [[id:d4b595af-536d-4575-af11-f07f3ac3ff40][Arque]] system with Professor Palin and his staff.” 
 
-Palin currently remains aboard Carson’s Spring. Efforts are underway to establish a new permanent home at Abel Laboratory on Arque 4 E, from where Palin’s previously offered engineering services can resume.
+Palin currently remains aboard Carson’s Spring. Efforts are underway to establish a new permanent home at Abel Laboratory on [[id:d4b595af-536d-4575-af11-f07f3ac3ff40][Arque]] 4 E, from where Palin’s previously offered engineering services can resume.

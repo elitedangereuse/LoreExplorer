@@ -4,11 +4,11 @@
 #+title: Station Services Suspended at Gurragchaa Gateway
 #+filetags: :3301:Federation:galnet:
 
-* Station Services Suspended at Gurragchaa Gateway
+* Station Services Suspended at Gurragchaa [[id:e179ecca-9ab3-4184-b05e-107b2e6932c2][Gateway]]
 
 /28 Oct 3301/
 
-Following recent news of technical issues in the Warkushanui system, officials at Gurragchaa Gateway have announced that all station services, bar refuelling and rearming, have been suspended. A member of the starport's technical team released a brief statement: 
+Following recent news of technical issues in the Warkushanui system, officials at Gurragchaa [[id:e179ecca-9ab3-4184-b05e-107b2e6932c2][Gateway]] have announced that all station services, bar refuelling and rearming, have been suspended. A member of the starport's technical team released a brief statement: 
 
 "Due to ongoing technical issues, we are currently unable to offer access to the commodities market, shipyard and outfitting services, and other frontline facilities. We are still trying to determine the cause of the problem, and will notify the public as soon as services are reinstated. Your patience and understanding are appreciated." 
 

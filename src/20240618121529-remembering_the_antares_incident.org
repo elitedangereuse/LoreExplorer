@@ -12,13 +12,13 @@ Remembering the Antares Incident
  
 Continuing GalNet’s exclusive series highlighting key events in human history, historian [[id:e13ec234-b603-4a29-870d-2b87410195ea][Sima Kalhana]] remembers the Antares Incident. 
 
-In last week’s article about the Sirius Corporation, I described the Antares iIncident as one of the corporation’s greatest failures. Until the recent disappearance of Starship One, this was considered the most infamous spacegoing  accident of all time. 
+In last week’s article about the [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Corporation, I described the Antares iIncident as one of the corporation’s greatest failures. Until the recent disappearance of Starship One, this was considered the most infamous spacegoing  accident of all time. 
 
 The Highliner Antares was to be the first of a new type of fast, comfortable liner, making a trip in hours rather than the weeks that were common at the time, and offering a previously unseen level of luxury – something we are accustomed to in the top-class liners of today. It was the first ship to use a production version of a new type of hyperdrive, a predecessor to the modern fast hyperdrives.  
 
-The Antares vanished during its maiden voyage in the Sirius system in 3251, with many celebrity guests on board. The event is poignantly remembered in this quote from the Federal Times: 
+The Antares vanished during its maiden voyage in the [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] system in 3251, with many celebrity guests on board. The event is poignantly remembered in this quote from the Federal Times: 
 
-“Your reporter watched the departure of Antares on her maiden voyage, the monolayer streamers glinting in the harsh light of Sirius as she moved gently away from the orbital habitat and out to launch range. Spacemen talk of a graveyard of lost ships, a place where all who lose their lives in the colossal drive to colonise the galaxy rest in gentle luxury. 
+“Your reporter watched the departure of Antares on her maiden voyage, the monolayer streamers glinting in the harsh light of [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] as she moved gently away from the orbital habitat and out to launch range. Spacemen talk of a graveyard of lost ships, a place where all who lose their lives in the colossal drive to colonise the galaxy rest in gentle luxury. 
 
 “We can be sure that the great Highliner Antares is now in their company.” 
 
@@ -26,4 +26,4 @@ The exact cause of the accident was never properly determined. The final report 
 
 Since the accident, no confirmed wreckage of the ship has ever been found, although several claims of discovery have been made over the years. Combined with the lack of a definitive cause, this has led to considerable speculation and many conspiracy theories concerning what actually occurred. 
 
-The final safety report into the incident found there were insufficient safety precautions within the internal drive systems. This delayed the commercial introduction of these drives for several years, damaging the Sirius Corporation, and ultimately resulting in the fitting of many additional safety features to these new hyperdrives. It was later speculated that the deaths of those on the Highliner Antares effectively saved the lives of many more in the subsequent decades, as the number of ships that went missing was measurably reduced, and the new drives proved to be much more reliable than the earlier, slower drives they replaced.
+The final safety report into the incident found there were insufficient safety precautions within the internal drive systems. This delayed the commercial introduction of these drives for several years, damaging the [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Corporation, and ultimately resulting in the fitting of many additional safety features to these new hyperdrives. It was later speculated that the deaths of those on the Highliner Antares effectively saved the lives of many more in the subsequent decades, as the number of ships that went missing was measurably reduced, and the new drives proved to be much more reliable than the earlier, slower drives they replaced.

@@ -11,7 +11,7 @@ In early August 3302, an antique Cobra Mk III was interred at the
 a beacon abord the vessel transmitted a repeating sequence of curious
 characters.
 
-The sequence was picked up by several relay posts in the Tionisla
+The sequence was picked up by several relay posts in the [[id:0b991a8e-234a-4888-8c0a-b3c64498f217][Tionisla]]
 system, and it has now been determined that it contains content
 obscured with an unknown encryption. The encrypted data is followed by
 an apparently meaningless clear-text phrase: 'The vain queen rides a

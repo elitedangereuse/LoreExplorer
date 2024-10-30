@@ -5,7 +5,7 @@
 #+title: Xenological Samples Required by Colonia Scientists
 #+filetags: :3307:Federation:galnet:
 
-* Xenological Samples Required by Colonia Scientists
+* Xenological Samples Required by [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] Scientists
 
 /07 Jan 3307/
 
@@ -16,7 +16,7 @@ for delivering samples from space-dwelling lifeforms.
 
 The Holloway Biology Centre on [[id:d64c384b-5e85-44ef-ae31-a11e9577ce5f][Colonia 7 G]] is the organisation’s
 primary [[id:112b5795-655f-4cc1-9995-b7aa39cb27c4][research]] laboratory, which specialises in [[id:4e827915-3759-4040-97d0-346eac70fb5e][xenological
-studies]]. [[id:935880a2-d4fb-4d27-ad48-0f95112ee0fe][Jaques Station]], which is also in the Colonia system, has
+studies]]. [[id:935880a2-d4fb-4d27-ad48-0f95112ee0fe][Jaques Station]], which is also in the [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] system, has
 agreed to serve as the delivery point for this initiative.
 
 Chief researcher Dr [[id:d5ca99a6-ded7-43fb-bc1e-83a622b49c50][Roy Casimir]] outlined the requirements: 
@@ -32,4 +32,4 @@ reimbursement for those who make the journey.”
 
 Pilots are requested to extract any type of tissue sample, including
 [[id:81578d77-9559-4772-9b47-dcc45b190cbc][pod mesoglea]], from any type of [[id:4269a79f-0650-4e3e-b12d-723cd8ddf873][seed pod]]. These are to be delivered to
-Jaques Station in the Colonia system.
+Jaques Station in the [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] system.

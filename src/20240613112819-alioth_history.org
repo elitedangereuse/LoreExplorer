@@ -3,13 +3,13 @@
 :END:
 #+title: Alioth History
 #+filetags: :Federation:Empire:beacon:
-* 0115 Alioth History
+* 0115 [[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]] History
 [[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]]
 
 After the war between [[id:bed8c27f-3cbe-49ad-b86f-7d87eacf804a][Achenar]] and the Federation concluded in 2380,
 the Federation looked to find new resources elsewhere. In 2398, the
 first of a new wave of colonial missions was sent to the outermost
-sectors in the opposite direction to the Empire and Lave.
+sectors in the opposite direction to the Empire and [[id:ff595332-6a13-4f69-ae2f-cc0a0df8e741][Lave]].
 
 Alioth was colonised in 2452. Survey data and reports had already
 indicated the rich resources of the system before settlement, but the

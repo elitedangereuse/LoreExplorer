@@ -10,13 +10,13 @@
 
 Delegates at the diplomatic conference have clashed over long-standing political issues, with some threatening to abandon the event. 
 
-Journalists at Patterson Enterprise in the Sirius system reported their observations via mainstream newsfeeds. 
+Journalists at Patterson Enterprise in the [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] system reported their observations via mainstream newsfeeds. 
 
 The Imperial Herald: “Minister Whyte’s claim that the Empire had fomented terrorism by repressing Marlinism was somewhat predictable. But nobody expected Princess Duval’s icy retort, which caused shocked gasps across the chamber.” 
 
 Sol Today: “President Hudson easily dealt with Patreus’s whine about the Federation’s so-called ‘war-mongering’, putting the bombastic Imp in his place.” 
 
-Eye on Achenar: “The dull-witted thug of a president was no match for Senator Patreus, who received cheers for his condemnation of typical ‘Fedneck’ arrogance.”  
+Eye on [[id:bed8c27f-3cbe-49ad-b86f-7d87eacf804a][Achenar]]: “The dull-witted thug of a president was no match for Senator Patreus, who received cheers for his condemnation of typical ‘Fedneck’ arrogance.”  
 
 The Alliance Tribune: “The conference’s hosts were visibly embarrassed by Councillor Kaine’s claims that Coalsack Nebula terraforming projects had triggered recent Thargoid attacks. Shockingly, several delegates dismissed this as an internal matter for the Alliance.” 
 
@@ -24,4 +24,4 @@ The Federal Times: “Chancellor Blaine’s stonewalling on the co-funding of hu
 
 The Sovereign: “Despite Prime Minister Mahon exaggerating the benefits of Alliance membership, several independent ambassadors complained about its incomprehensible bureaucracy, saying it would be less damaging to declare war against the Alliance than join it.” 
 
-A representative from Sirius Corporation reported that the Galactic Summit was “going well”.
+A representative from [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Corporation reported that the Galactic Summit was “going well”.

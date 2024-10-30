@@ -10,7 +10,7 @@
 
 A member of the Alliance Council of Admirals has been arrested by the taskforce investigating terrorist organisation the League of Reparation. 
 
-Admiral [[id:c51f8115-13d1-4d47-a88a-a126cd66d194][George Varma]] was confronted by Captain [[id:cdaa5220-8f79-47dc-b160-a5d3d1ca30a0][Niamh Seutonia]] and Senior Agent [[id:fb74a286-1688-41e8-9bec-9ef14adaaf1f][Tanya Ramirez]] during a meeting of admiralty staff at the Donaldson starport in Alioth. Despite protests, he was placed under arrest and escorted to a secure facility. 
+Admiral [[id:c51f8115-13d1-4d47-a88a-a126cd66d194][George Varma]] was confronted by Captain [[id:cdaa5220-8f79-47dc-b160-a5d3d1ca30a0][Niamh Seutonia]] and Senior Agent [[id:fb74a286-1688-41e8-9bec-9ef14adaaf1f][Tanya Ramirez]] during a meeting of admiralty staff at the Donaldson starport in [[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]]. Despite protests, he was placed under arrest and escorted to a secure facility. 
 
 Captain Seutonia gave a brief statement to the media: 
 

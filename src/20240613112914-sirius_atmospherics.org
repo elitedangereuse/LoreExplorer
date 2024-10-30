@@ -3,7 +3,7 @@
 :END:
 #+title: Sirius Atmospherics
 #+filetags: :beacon:
-* 0208 Sirius Atmospherics
+* 0208 [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Atmospherics
 [[id:aa43803c-e60c-45bf-ab48-49a139931c68][Sothis]]
 
 The early [[id:48bbb683-32e9-40c0-a2f6-26da016886de][terraforming]] tended to use genetically engineered biological

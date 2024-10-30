@@ -13,7 +13,7 @@
 
 The engineer [[id:cb71ba02-e47b-4feb-a421-b1f2ecdce6f3][Liz Ryder]] has requested mined materials to help make a previously unique ship module widely available. 
 
-The module is a fully engineered lightweight and high capacity Class 2 Seeker Missile Rack with thermal cascade. It was offered in October 3306 to pilots who helped defend the Eurybia system from Imperial forces. At the time, the Empire suspected [[id:cb71ba02-e47b-4feb-a421-b1f2ecdce6f3][Liz Ryder]] of supplying weapons to the [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] terrorist group. 
+The module is a fully engineered lightweight and high capacity Class 2 Seeker Missile Rack with thermal cascade. It was offered in October 3306 to pilots who helped defend the [[id:0dbd55a5-68d9-45c4-9a80-b2e41f79554c][Eurybia]] system from Imperial forces. At the time, the Empire suspected [[id:cb71ba02-e47b-4feb-a421-b1f2ecdce6f3][Liz Ryder]] of supplying weapons to the [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] terrorist group. 
 
 Ms Ryder has announced that her aim is to make this specially modified weapon available for purchase at all human technology brokers. She added: 
 
@@ -21,4 +21,4 @@ Ms Ryder has announced that her aim is to make this specially modified weapon av
 
 “I’m pleased to be working with tech brokers to add this to the market. Many engineers think we could do more to serve the galactic community, and this is a step in that direction.” 
 
-Shipments of bromellite, lithium hydroxide, osmium and samarium can be delivered to Awyra Flirble in the Eurybia system.
+Shipments of bromellite, lithium hydroxide, osmium and samarium can be delivered to Awyra Flirble in the [[id:0dbd55a5-68d9-45c4-9a80-b2e41f79554c][Eurybia]] system.

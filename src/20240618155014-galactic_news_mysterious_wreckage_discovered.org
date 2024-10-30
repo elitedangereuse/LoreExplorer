@@ -8,7 +8,7 @@
 
 /31 Aug 3302/
 
-A pair of independent pilots by the names of Noctrach and Ihazevich has discovered the remains of what appears to be a starship on planet 9a of the Pleiades Sector AB-W B2-4 system. The discovery represents the culmination of a galaxy-wide hunt coordinated by the 'Granger Gang' – a band of miscreants led by the smuggler and bounty hunter Otto Granger. 
+A pair of independent pilots by the names of Noctrach and Ihazevich has discovered the remains of what appears to be a starship on planet 9a of the [[id:c32901ed-73d1-4ca6-aeb8-5bcd795d1036][Pleiades Sector AB-W B2-4]] system. The discovery represents the culmination of a galaxy-wide hunt coordinated by the 'Granger Gang' – a band of miscreants led by the smuggler and bounty hunter Otto Granger. 
 
 The event began with a cryptic message delivered by Granger to news feeds throughout the galaxy. This was followed by a series of enigmatic clues, inserted into news channels at a number of starports. 
 
@@ -22,7 +22,7 @@ Although the Granger Gang planned to release further clues, they were quickly re
 
 Commentators throughout the galaxy have been quick to offer their opinions on this remarkable discovery. 
 
-"I'm familiar with every starship design of the past fifty years, and most of the older ones, too," said Augustus Sym, an Imperial veteran and former test pilot based in the Achenar system, "and I've never seen anything like it. There's no doubt in my mind – that is an alien ship." 
+"I'm familiar with every starship design of the past fifty years, and most of the older ones, too," said Augustus Sym, an Imperial veteran and former test pilot based in the [[id:bed8c27f-3cbe-49ad-b86f-7d87eacf804a][Achenar]] system, "and I've never seen anything like it. There's no doubt in my mind – that is an alien ship." 
 
 Others have adopted a more cautious stance, while acknowledging that the find could be significant. Professor [[id:8f63442a-1f38-457d-857a-38297d732a90][Ishmael Palin]], a leading authority on xeno-biological research, said: 
 

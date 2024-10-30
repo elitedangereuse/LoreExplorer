@@ -4,6 +4,6 @@
 #+title: Antares
 #+filetags: :ship:
 A technologically revolutionary passenger liner
-designed and built by [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][the Sirius Corporation]].
+designed and built by [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][the [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Corporation]].
 
 The highliner was lost during its maiden voyage.

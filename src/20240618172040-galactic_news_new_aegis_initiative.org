@@ -58,9 +58,9 @@ Liman Legacy, HIP 16753
 
 Malthus Terminal, Pleiades Sector HR-W D1-41 
 
-Obsidian Orbital, Maia 
+Obsidian Orbital, [[id:0ee60994-364c-41b9-98ca-993d041cea72][Maia]] 
 
-Reed's Rest, Merope 
+Reed's Rest, [[id:70fa34ea-bc98-40ff-97f0-e4f4538387a6][Merope]] 
 
 Rix Depot, Pleiades Sector IH-V C2-5 
 

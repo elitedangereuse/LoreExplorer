@@ -4,13 +4,13 @@
 #+title: Galactic News: Sirius Corporation Campaign Ends
 #+filetags: :3303:galnet:
 
-* Galactic News: Sirius Corporation Campaign Ends
+* Galactic News: [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Corporation Campaign Ends
 
 /20 Jan 3303/
 
-A spokesperson for the Sirius Corporation has announced that its appeal for microresources has been enthusiastically received by the galactic community. Hundreds of pilots responded to the corporation's appeal by delivering unknown fragments, untypical shield scans and aberrant shield pattern analysis to Cormack Hub in the Procyon system. 
+A spokesperson for the [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Corporation has announced that its appeal for microresources has been enthusiastically received by the galactic community. Hundreds of pilots responded to the corporation's appeal by delivering unknown fragments, untypical shield scans and aberrant shield pattern analysis to Cormack Hub in the Procyon system. 
 
-As the campaign drew to a close, Li-Yong Rui, CEO of Sirius Gov, released a statement: 
+As the campaign drew to a close, Li-Yong Rui, CEO of [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Gov, released a statement: 
 
 "While irresponsible fortune hunters continue to destabilise the galaxy's starports by selling Unknown Artefacts on the black market, the galaxy's superpowers stand idly by, mired in bureaucracy and paralysed by indecision. Well, we say: no more." 
 

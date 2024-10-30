@@ -12,6 +12,6 @@ Two weeks ago it was reported that [[id:f37f17f1-8eb3-4598-93f7-190fe97438a1][Ja
 
 Unfortunately, however, the starport's location could not be verified due to problems with its communication systems. Fragmentary messages, picked up by a number of outposts, gave hints as to what had befallen the station, but the incomplete nature of the messages left recipients with no clear idea of where it might be. 
 
-But a recent report indicates that, despite all odds, the starport has been found. An independent pilot by the name of Commander Cly happened upon the station while exploring the Eol Prou AA-A H89 Nebula. The pilot has confirmed that [[id:f37f17f1-8eb3-4598-93f7-190fe97438a1][Jaques]] is in the Eol Prou RS-T d3-94 system. Commander Cly also reported that the starport is still suffering from technical issues, presumably due to Unknown-Artefact related interference. 
+But a recent report indicates that, despite all odds, the starport has been found. An independent pilot by the name of Commander Cly happened upon the station while exploring the Eol Prou AA-A H89 Nebula. The pilot has confirmed that [[id:f37f17f1-8eb3-4598-93f7-190fe97438a1][Jaques]] is in the [[id:5f3c361b-30be-4912-8341-f6f3c1336028][Eol Prou RS-T d3-94]] system. Commander Cly also reported that the starport is still suffering from technical issues, presumably due to Unknown-Artefact related interference. 
 
 It is hoped that [[id:f37f17f1-8eb3-4598-93f7-190fe97438a1][Jaques]] will make a statement soon.

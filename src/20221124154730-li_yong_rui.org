@@ -25,8 +25,8 @@ Ref: [[id:925073d8-b2b1-4e21-9c3f-e48a37edcf71][Luyten 205-128]]
   predictability
 #+end_quote
 
-Li Yong-Rui is the chief operating officer of the Sirius Corporation and
-its governmental subsidiary, Sirius Gov. Like many other members of the
+Li Yong-Rui is the chief operating officer of the [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Corporation and
+its governmental subsidiary, [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Gov. Like many other members of the
 Li dynasty, Yong-Rui came to the corporate world from an academic
 background, having achieved doctorates in multiple fields and
 specialising in extrapolating potential future simulations from limited
@@ -40,7 +40,7 @@ outward conventionality.
 
 Those who have worked under him describe him as radiating self-assurance
 and giving the impression that everything is completely under control.
-Yong-Rui has brought a similar sense of constancy to Sirius Gov, giving
+Yong-Rui has brought a similar sense of constancy to [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Gov, giving
 the citizens under his governance the impression that they can trust
 their government to do the right thing -- a rare achievement for any
 administration.

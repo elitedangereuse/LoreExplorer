@@ -8,13 +8,13 @@
 
 /20 May 3302/
 
-Recent reports indicate that a number of starports forced to suspend services due to Unknown Artefact-related interference have been restored to normality through the application of meta-alloys. Ackerman Market in Eravate, Gabriel Enterprise in Harma, Weyn Dock in 64 Arietis and Onnes Gateway in LFT 37 are all now reported to be fully operational. 
+Recent reports indicate that a number of starports forced to suspend services due to Unknown Artefact-related interference have been restored to normality through the application of meta-alloys. Ackerman Market in Eravate, Gabriel Enterprise in Harma, Weyn Dock in 64 Arietis and Onnes [[id:e179ecca-9ab3-4184-b05e-107b2e6932c2][Gateway]] in LFT 37 are all now reported to be fully operational. 
 
 This development – a testament to the hard work of the pilots who have delivered meta-alloys to the affected stations – will no doubt bring hope to those still affected by the technological plague. 
 
 The starports currently closed as a result of Unknown Artefact-related interference are: 
 
-Lave Station, Lave 
+Lave Station, [[id:ff595332-6a13-4f69-ae2f-cc0a0df8e741][Lave]] 
 
 Ising Dock, 109 Piscium 
 
@@ -24,15 +24,15 @@ Irens Dock, Manite
 
 von Bellingshausen Port, Almar 
 
-Haack Gateway, Halbangaay 
+Haack [[id:e179ecca-9ab3-4184-b05e-107b2e6932c2][Gateway]], Halbangaay 
 
-Gurragchaa Gateway, Warkushanui 
+Gurragchaa [[id:e179ecca-9ab3-4184-b05e-107b2e6932c2][Gateway]], Warkushanui 
 
 Korolyov Hub, Arawere 
 
 Lobachevsky Outpost, Pic Tok 
 
-Carter Port, Rhea 
+Carter Port, [[id:6da9023a-ccb6-444a-be77-626dfb552eb1][Rhea]] 
 
 Meanwhile, the following starports continue to experience technical issues: 
 
@@ -48,6 +48,6 @@ Saunders's Dive, Wolf 1301
 
 Skvortsov Orbital, 63 G. Capricorni 
 
-Kooi Gateway, HIP 93377 
+Kooi [[id:e179ecca-9ab3-4184-b05e-107b2e6932c2][Gateway]], HIP 93377 
 
 Jaques Station, Gliese 1269

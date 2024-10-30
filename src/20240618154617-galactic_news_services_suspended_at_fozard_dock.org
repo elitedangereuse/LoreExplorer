@@ -18,11 +18,11 @@ Ackerman Market, Eravate
 
 von Bellingshausen Port, Almar 
 
-Haack Gateway, Halbangaay 
+Haack [[id:e179ecca-9ab3-4184-b05e-107b2e6932c2][Gateway]], Halbangaay 
 
 Gabriel Enterprise, Harma 
 
-Gurragchaa Gateway, Warkushanui 
+Gurragchaa [[id:e179ecca-9ab3-4184-b05e-107b2e6932c2][Gateway]], Warkushanui 
 
 Gaiman Dock, 49 Arietis 
 
@@ -32,7 +32,7 @@ Korolyov Hub, Arawere
 
 Lobachevsky Outpost, Pic Tok 
 
-Carter Port, Rhea 
+Carter Port, [[id:6da9023a-ccb6-444a-be77-626dfb552eb1][Rhea]] 
 
 Meanwhile, the following starports are still experiencing technical issues: 
 

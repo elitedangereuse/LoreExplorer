@@ -111,7 +111,7 @@ Thus far, their efforts have been unsuccessful.
 ** [[id:8af6e642-0638-4822-9903-bb688e9fa641][Remlok]]
 ** [[id:a7056ff8-e67d-4ca9-baf1-7e5df3efa677][The Rockforth Corporation]]
 ** [[id:49b21fdc-6a96-42b3-a496-123e8106f102][Saud Kruger]]
-** [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][The Sirius Corporation]]
+** [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][The [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Corporation]]
 ** [[id:3e9f43fb-038f-46a6-be53-3c9af1bad474][Supratech]]
 ** [[id:3c9b3ac6-2b3c-406f-b0de-dc02f3a1e9c1][Takada]]
 ** [[id:2fb00d7f-7234-45fa-8e3c-af685aa8f0d8][Universal Cartographics]]

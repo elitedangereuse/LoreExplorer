@@ -12,7 +12,7 @@
 
 Aegis Research and Taurus Mining Ventures have requested deliveries of Guardian artefacts to the PMD2009 48 system. 
 
-Their rival campaigns follow the discovery of an ancient battleground between the Guardians and the Thargoids on Trapezium Sector YU-X c1-2 1a. 
+Their rival campaigns follow the discovery of an ancient battleground between the Guardians and the Thargoids on [[id:a94f42ec-d0a2-441b-884d-5d86b949cbb9][Trapezium Sector YU-X c1-2]] 1a. 
 
 Patience Middleton, representing Taurus Mining Ventures, broadcast this statement: 
 
@@ -22,6 +22,6 @@ Aegis Research has also positioned a megaship, the Archimedes, in the PMD2009 48
 
 “It is vital that Aegis replaces the Guardian artefacts that were lost aboard the Alexandria. Without sufficient materials, our anti-xeno research programme will be severely hampered.” 
 
-“We recognise the risk that collecting Guardian technology on a megaship may attract the Thargoids, as happened in the Delphi system. However, this system is much farther from any known areas of Thargoid activity, so we hope to avoid drawing their attention.” 
+“We recognise the risk that collecting Guardian technology on a megaship may attract the Thargoids, as happened in the [[id:846bfbc7-75e7-4d8d-8716-7fe0346026f4][Delphi]] system. However, this system is much farther from any known areas of Thargoid activity, so we hope to avoid drawing their attention.” 
 
 The Alliance, Empire and Federation consider depriving Aegis of resources to be a criminal act. As a result, pilots are warned that any ship modules received from Taurus Mining Ventures will be marked as ‘hot’, thereby incurring extra costs to be cleaned prior to installation.

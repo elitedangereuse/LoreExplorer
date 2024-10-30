@@ -5,13 +5,13 @@
 #+title: Sirius and Utopia Compete to Host Galactic Summit
 #+filetags: :3307:Empire:Federation:Alliance:galnet:
 
-* Sirius and Utopia Compete to Host Galactic Summit
+* [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] and Utopia Compete to Host Galactic Summit
 
 /21 Jan 3307/
 
 *Pilots Federation ALERT* 
 
-Rival initiatives to arrange a diplomatic conference have been launched by Sirius Corporation and the Utopia commune. 
+Rival initiatives to arrange a diplomatic conference have been launched by [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Corporation and the Utopia commune. 
 
 The Alliance Assembly, Federal Congress and Imperial Senate have each provisionally agreed to send delegates to the first tri-superpower Galactic Summit in late February. This political gathering will also be attended by representatives from independent systems. 
 
@@ -23,4 +23,4 @@ The following data sources are of interest to both parties: anomalous bulk scan 
 
 Simguru [[id:05ab22a7-9952-49a3-bdc0-45094cdaff6a][Pranav Antal]] has called upon all pilots who support Utopia’s proposal to deliver the data to Tanner Settlement in the Polevnic system. 
 
-CEO [[id:f0655b3a-aca9-488f-bdb3-c481a42db384][Li Yong-Rui]] has asked all those who believe Sirius Corporation to be a more suitable host to deliver the data to Goldstein Port in the Lembava system.
+CEO [[id:f0655b3a-aca9-488f-bdb3-c481a42db384][Li Yong-Rui]] has asked all those who believe [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Corporation to be a more suitable host to deliver the data to Goldstein Port in the Lembava system.

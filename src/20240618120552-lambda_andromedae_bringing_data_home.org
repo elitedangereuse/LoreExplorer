@@ -4,14 +4,14 @@
 #+title: Lambda Andromedae: Bringing Data Home
 #+filetags: :3301:galnet:
 
-* Lambda Andromedae: Bringing Data Home
+* Lambda [[id:0a33b305-8f49-4a9f-8c0a-177cab9cd72c][Andromeda]]e: Bringing Data Home
 
 /23 Feb 3301/
 
-Inspired by Universal Cartographics recent push to expand humanities borders, the Sirius Corporation has today announced its plan to launch a number of new colonial outposts to the very edges of occupied space. 
+Inspired by Universal Cartographics recent push to expand humanities borders, the [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Corporation has today announced its plan to launch a number of new colonial outposts to the very edges of occupied space. 
 
-Ana Quin, Sirius' Junior Vice President of Interstellar Logistics, had this to say about the announcement:  
+Ana Quin, [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]]' Junior Vice President of Interstellar Logistics, had this to say about the announcement:  
 
 "We're very excited to move forward with this project. It's been a long time coming, but finally the board have agreed it's time to get the ball rolling. We've got the tech and the volunteers, all we need now is to know where to send them." 
 
-Sirius is currently offering sizeable monetary rewards for explorers who bring usable exploration data containing potential candidate sites to their offices aboard Nourse Orbital in Lambda Andromedae.
+Sirius is currently offering sizeable monetary rewards for explorers who bring usable exploration data containing potential candidate sites to their offices aboard Nourse Orbital in Lambda [[id:0a33b305-8f49-4a9f-8c0a-177cab9cd72c][Andromeda]]e.

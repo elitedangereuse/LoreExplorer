@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       84d9b01d-a9d6-47d9-b9f9-f6154233e585
 :END:
-#+title: Sagittarius A*
+#+title: Sagittarius A**
 #+filetags: :System:
 
 Center of the galaxy

@@ -4,11 +4,11 @@
 #+title: Galactic News: Sirius Corporation Responds to Calls for Clarity
 #+filetags: :3302:galnet:
 
-* Galactic News: Sirius Corporation Responds to Calls for Clarity
+* Galactic News: [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Corporation Responds to Calls for Clarity
 
 /25 Jan 3302/
 
-Since the wreckage of the Highliner Antares was recovered several weeks ago, the families of those who lost their lives aboard the ship have been lobbying the Sirius Corporation for more information. Specifically, questions have been asked about where the wreckage was found, and if any human remains were recovered. The corporation, evidently aware that the public is hungry for information, has now released a statement: 
+Since the wreckage of the Highliner Antares was recovered several weeks ago, the families of those who lost their lives aboard the ship have been lobbying the [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Corporation for more information. Specifically, questions have been asked about where the wreckage was found, and if any human remains were recovered. The corporation, evidently aware that the public is hungry for information, has now released a statement: 
 
 "We are aware that some sectors of the galactic community believe we have not been sufficiently transparent regarding our research into the Antares. Please be assured that any lack of clarity is in no way indicative of a desire to withhold information – it is simply a reflection of our focus on our research." 
 

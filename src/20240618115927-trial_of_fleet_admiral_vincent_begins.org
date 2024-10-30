@@ -17,7 +17,7 @@ The Federal Times’s crime correspondent Ethan Takahashi reported:
 
 “The trial began with the prosecution counsel outlining the case. Material evidence obtained from Chief Technician Rory Webster, whose testimony led to Vincent’s arrest, was presented before the jury.” 
 
-“Vincent was questioned about a secure transmission from his office to the presidential vessel on the 24th of May 3301, ordering an unscheduled diversion to the Azaleach system for routine maintenance. This is where Webster’s engineering team followed Vincent’s orders to install the sabotaged hyperdrive component that caused the misjump.” 
+“Vincent was questioned about a secure transmission from his office to the presidential vessel on the 24th of May 3301, ordering an unscheduled diversion to the [[id:442e6f9a-19d8-48e2-9fb6-a6cb88b22c45][Azaleach]] system for routine maintenance. This is where Webster’s engineering team followed Vincent’s orders to install the sabotaged hyperdrive component that caused the misjump.” 
 
 “Evading the questions, Vincent claimed that the entire trial was a ‘Liberal Party cover-up’ and that Starship One was destroyed ‘to put Winters in charge’.” 
 

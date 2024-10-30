@@ -10,7 +10,7 @@
 
 Azimuth Biotech has publicly offered assistance to [[id:6bcd90ab-54f2-4d9a-9eeb-92815cc7766e][Subject D-2]], the Project Seraph survivor who gate-crashed the recent Aegis symposium. 
 
-The woman, now identified as [[id:6bcd90ab-54f2-4d9a-9eeb-92815cc7766e][Seo Jin-ae]], unexpectedly arrived at the event on Tuesday. She claimed to possess knowledge of the ‘Thargoid roar’ that was heard at HIP 22460 following the Proteus Wave’s activation. There is speculation that this relates to her inclusion in experiments to create human pilots for Thargoid vessels. 
+The woman, now identified as [[id:6bcd90ab-54f2-4d9a-9eeb-92815cc7766e][Seo Jin-ae]], unexpectedly arrived at the event on Tuesday. She claimed to possess knowledge of the ‘Thargoid roar’ that was heard at [[id:55088d83-4221-44fa-a9d5-6ebb0866c722][HIP 22460]] following the Proteus Wave’s activation. There is speculation that this relates to her inclusion in experiments to create human pilots for Thargoid vessels. 
 
 Professor [[id:c2623368-19b0-4995-9e35-b8f54f741a53][Alba Tesreau]] has since issued a brief statement: 
 
@@ -22,4 +22,4 @@ Torben Rademaker, CEO of [[id:e68a5318-bd72-4c92-9f70-dcdbd59505d1][Azimuth Biot
 
 “Her wellbeing would be our main concern, of course, but the possibility that D-2 can somehow interpret Thargoid communications should not be dismissed. We can help her to explore this ability, which may grant important insights into the Thargoid species.”  
 
-“I must also clarify that the Project Seraph facilities in HIP 22460 and HIP 26176 were under [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]’s direct control, and were kept hidden from the wider corporation. The discovery of these sites was as much a shock to me as anybody else. It’s a matter of personal regret that Azimuth’s long history includes examples of such misguided operations. We are eager to make amends for Salvation’s mistakes.”
+“I must also clarify that the Project Seraph facilities in [[id:55088d83-4221-44fa-a9d5-6ebb0866c722][HIP 22460]] and HIP 26176 were under [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]’s direct control, and were kept hidden from the wider corporation. The discovery of these sites was as much a shock to me as anybody else. It’s a matter of personal regret that Azimuth’s long history includes examples of such misguided operations. We are eager to make amends for Salvation’s mistakes.”

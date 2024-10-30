@@ -3,17 +3,17 @@
 :END:
 #+title: Shinrarta Dezhra Defence Fleet Prevails
 #+filetags: :Thargoid:galnet:
-* Shinrarta Dezhra Defence Fleet Prevails
+* [[id:c6b67ab9-66c5-4636-a978-2ca3a9ab012c][Shinrarta Dezhra]] Defence Fleet Prevails
 
 /24 Sep 3310/
 
-The Thargoid invasion fleet that ambushed the Shinrarta Dezhra system last week has been successfully repelled. 
+The Thargoid invasion fleet that ambushed the [[id:c6b67ab9-66c5-4636-a978-2ca3a9ab012c][Shinrarta Dezhra]] system last week has been successfully repelled. 
 
 Providing an update on behalf of the system was Florian Baljak, acting starport commander of Jameson Memorial: 
 
-“The Thargoids swept through Shinrarta Dezhra hard and fast, taking our defences offline before we were able to regroup. It’s a miracle Jameson Memorial lasted until reinforcements could arrive.” 
+“The Thargoids swept through [[id:c6b67ab9-66c5-4636-a978-2ca3a9ab012c][Shinrarta Dezhra]] hard and fast, taking our defences offline before we were able to regroup. It’s a miracle Jameson Memorial lasted until reinforcements could arrive.” 
 
-“We lost a lot of good people driving the aliens back. But thanks to the efforts of thousands of Commanders, along with auxiliary support from Sirius Corporation and Azimuth Corporation, we can say victory in this particular battle.” 
+“We lost a lot of good people driving the aliens back. But thanks to the efforts of thousands of Commanders, along with auxiliary support from [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Corporation and Azimuth Corporation, we can say victory in this particular battle.” 
 
 Work has commenced on bringing all system ports back online as quickly as possible. Requests for assistance in delivering commodities to the system have been submitted. 
 

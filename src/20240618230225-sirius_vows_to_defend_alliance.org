@@ -4,18 +4,18 @@
 #+title: Sirius Vows to Defend Alliance
 #+filetags: :3308:Alliance:Thargoid:galnet:
 
-* Sirius Vows to Defend Alliance
+* [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Vows to Defend Alliance
 
 /25 Apr 3308/
 
 Sirius Corporation has claimed that the recent Thargoid incursions prove the necessity of its strategic defence pact with the Alliance. 
 
-The Didio, Novas and Sosong systems are currently withstanding a coordinated attack from large numbers of Thargoid vessels. Independent pilots have rushed to their aid while the three superpowers prepare their respective fleet responses. 
+The [[id:d508fb0f-0214-4133-829f-edb61e2681d0][Didio]], [[id:b38c4ed0-3aaa-4a86-8acd-a241164d680f][Novas]] and [[id:2a81ce70-848a-46eb-aa0b-b5626e78e8aa][Sosong]] systems are currently withstanding a coordinated attack from large numbers of Thargoid vessels. Independent pilots have rushed to their aid while the three superpowers prepare their respective fleet responses. 
 
-A press conference was held by Admiral [[id:2e8a3cd7-5f4e-47dc-ba7f-eb732bf8c7fa][Nikolas Glass]], the liaison between the [[id:17d9294e-7759-4cf4-9a67-5f12b5704f51][Alliance Defence Force]] and the Sirius Navy: 
+A press conference was held by Admiral [[id:2e8a3cd7-5f4e-47dc-ba7f-eb732bf8c7fa][Nikolas Glass]], the liaison between the [[id:17d9294e-7759-4cf4-9a67-5f12b5704f51][Alliance Defence Force]] and the [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Navy: 
 
-“This unexpected onslaught only underlines the Alliance’s need for military support. The Thargoids can strike anywhere at any time, and Allied systems such as Didio are vulnerable. Only with Sirius Corporation’s help can we ensure their safety.” 
+“This unexpected onslaught only underlines the Alliance’s need for military support. The Thargoids can strike anywhere at any time, and Allied systems such as [[id:d508fb0f-0214-4133-829f-edb61e2681d0][Didio]] are vulnerable. Only with [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Corporation’s help can we ensure their safety.” 
 
 Journalists pointed out that the Council of Admirals had selected Admiral Rachel Ziegler to lead their anti-xeno taskforce instead of Admiral Glass, despite that being his specific area of expertise. He replied: 
 
-“Well, as you know, the pact is still within its trial period and hasn’t yet been ratified by the Assembly. So there are limits to how involved Sirius Corporation can be at this stage. I’m sure my colleague will do a fine job while I focus on providing broader support to the Didio system, such as additional secondments to [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]’s fleet.”
+“Well, as you know, the pact is still within its trial period and hasn’t yet been ratified by the Assembly. So there are limits to how involved [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Corporation can be at this stage. I’m sure my colleague will do a fine job while I focus on providing broader support to the [[id:d508fb0f-0214-4133-829f-edb61e2681d0][Didio]] system, such as additional secondments to [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]’s fleet.”

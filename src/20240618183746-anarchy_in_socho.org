@@ -4,17 +4,17 @@
 #+title: Anarchy in Socho
 #+filetags: :Thargoid:3304:galnet:
 
-* Anarchy in Socho
+* Anarchy in [[id:092e7139-1d8c-45d1-89ce-615326e10853][Socho]]
 
 /31 May 3304/
 
-The Socho system, headquarters of Aegis Core, has been overtaken by a criminal faction. The system is now in a state of anarchy. 
+The [[id:092e7139-1d8c-45d1-89ce-615326e10853][Socho]] system, headquarters of Aegis Core, has been overtaken by a criminal faction. The system is now in a state of anarchy. 
 
 A courier carrying a message from Aegis scientist Dr [[id:58df9ee3-9259-45e5-83e7-d817eed4b171][Mia Valencourt]] managed to escape the system. The message was then broadcast by the [[id:d06803e0-267c-4ffc-88f2-967058fce82e][Rewired]] news service: 
 
-“This is an urgent call for assistance. Regional security forces have been overrun, and this vicious gang – they call themselves the Socho Gold Raiders – they’re in charge now. They’ve shut everything down. Apparently they’re convinced we’re building some kind of super-weapon, so that’s probably what brought them here.” 
+“This is an urgent call for assistance. Regional security forces have been overrun, and this vicious gang – they call themselves the [[id:092e7139-1d8c-45d1-89ce-615326e10853][Socho]] Gold Raiders – they’re in charge now. They’ve shut everything down. Apparently they’re convinced we’re building some kind of super-weapon, so that’s probably what brought them here.” 
 
-“They were so clever. We picked up what looked like a Thargoid signal and the security forces went charging in. Everyone was terrified that the Thargoids had come to Socho. But it wasn’t the Thargoids – it was a trap. The Raiders were waiting, and they cut those ships to pieces.” 
+“They were so clever. We picked up what looked like a Thargoid signal and the security forces went charging in. Everyone was terrified that the Thargoids had come to [[id:092e7139-1d8c-45d1-89ce-615326e10853][Socho]]. But it wasn’t the Thargoids – it was a trap. The Raiders were waiting, and they cut those ships to pieces.” 
 
 “Please, if anyone’s listening, this is an emergency. It’s absolute chaos here. Please help!” 
 
@@ -22,4 +22,4 @@ Professor [[id:c2623368-19b0-4995-9e35-b8f54f741a53][Alba Tesreau]], Aegis’s c
 
 “It is inconceivable that elements of our own society would behave this way when there’s so much at stake. There is vital research taking place at Aegis Core. If it’s lost, these criminals will have placed all of us at risk!” 
 
-“I implore the galactic community to help free Socho from these unthinking vandals. Aegis is defending humanity against the Thargoid threat. We need your help to survive, so that we in turn can protect you and your families.”
+“I implore the galactic community to help free [[id:092e7139-1d8c-45d1-89ce-615326e10853][Socho]] from these unthinking vandals. Aegis is defending humanity against the Thargoid threat. We need your help to survive, so that we in turn can protect you and your families.”

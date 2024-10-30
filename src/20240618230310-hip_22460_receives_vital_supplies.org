@@ -4,13 +4,13 @@
 #+title: HIP 22460 Receives Vital Supplies
 #+filetags: :3308:Empire:Federation:Alliance:galnet:
 
-* HIP 22460 Receives Vital Supplies
+* [[id:55088d83-4221-44fa-a9d5-6ebb0866c722][HIP 22460]] Receives Vital Supplies
 
 /07 Jul 3308/
 
 *Pilots’ Federation ALERT* 
 
-Medical and military commodities have been delivered to the HIP 22460 system in support of the anti-xeno operation. 
+Medical and military commodities have been delivered to the [[id:55088d83-4221-44fa-a9d5-6ebb0866c722][HIP 22460]] system in support of the anti-xeno operation. 
 
 Commodore [[id:bcaa9222-b056-41cf-9361-68dd8d3424fb][Morag Halloran]] expressed gratitude that so many Commanders took part in the initiative. She indicated that payment was now available from the megaship Heart of Taurus. This includes tailored ship liveries for those Commanders who made the greatest contributions. 
 
@@ -18,4 +18,4 @@ Azimuth Biotech has requested that pilots continue supporting the operation by o
 
 The shipments of advanced medicines, basic medicines and reactive armour will be distributed by [[id:e68a5318-bd72-4c92-9f70-dcdbd59505d1][Azimuth Biotech]] to the Allied, Federal and Imperial taskforces within the system. 
 
-Experimental anti-xeno weaponry has been installed on the three taskforce flagships: the Alliance megaship Oath of Tyndareus, the Farragut-class battle cruiser FNS Fortitude, and the Majestic-class interdictor INV Audacious Dream. Both the Federal and Imperial Navies intend to reinforce their presence in HIP 22460 at the appropriate time.
+Experimental anti-xeno weaponry has been installed on the three taskforce flagships: the Alliance megaship Oath of Tyndareus, the Farragut-class battle cruiser FNS Fortitude, and the Majestic-class interdictor INV Audacious Dream. Both the Federal and Imperial Navies intend to reinforce their presence in [[id:55088d83-4221-44fa-a9d5-6ebb0866c722][HIP 22460]] at the appropriate time.

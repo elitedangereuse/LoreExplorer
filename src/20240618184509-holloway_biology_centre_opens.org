@@ -29,4 +29,4 @@ material could be analysed. We are confident that this decision will
 prove more than worthwhile, and our scientists are excited to work in
 this state-of-the-art facility.”
 
-The Holloway Biology Centre is located in the Colonia system on [[id:d64c384b-5e85-44ef-ae31-a11e9577ce5f][Colonia 7 G]].
+The Holloway Biology Centre is located in the [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] system on [[id:d64c384b-5e85-44ef-ae31-a11e9577ce5f][Colonia 7 G]].

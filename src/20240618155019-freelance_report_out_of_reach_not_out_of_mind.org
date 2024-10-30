@@ -10,7 +10,7 @@
 
 Following recent reports of a possible alien wreck in the Pleiades, the Canonn Interstellar Research Group has released further information about the Unknown Probe. 
 
-Shortly after planetary data was found in the Probe's tight-beam transmission, a message was sent to the Canonn from a pilot by the name of Commander [[id:aeca0c9b-da0e-4290-881f-1ed0dd67c211][Wace]]. It read: "The headerless octal number - it is distance compared to Merope!" 
+Shortly after planetary data was found in the Probe's tight-beam transmission, a message was sent to the Canonn from a pilot by the name of Commander [[id:aeca0c9b-da0e-4290-881f-1ed0dd67c211][Wace]]. It read: "The headerless octal number - it is distance compared to [[id:70fa34ea-bc98-40ff-97f0-e4f4538387a6][Merope]]!" 
 
 A list of data followed, obtained by monitoring the Unknown Probe in different systems. The octal number was shown to steadily decrease as Commander [[id:aeca0c9b-da0e-4290-881f-1ed0dd67c211][Wace]] neared the permit-locked Col 70 Sector. 
 

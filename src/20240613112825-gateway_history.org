@@ -3,18 +3,18 @@
 :END:
 #+title: Gateway History
 #+filetags: :Federation:Alliance:beacon:
-* 0124 Gateway History
+* 0124 [[id:e179ecca-9ab3-4184-b05e-107b2e6932c2][Gateway]] History
 [[id:d4502696-2432-4f84-abb1-f3d124249805][Gateway]]
 
 Gateway was originally known as Oltiqu, but renamed when the Alliance
 was founded in 3230. The system had originally been under Federation
 jurisdiction after being colonised in 2473 to be used as a military
-staging area for a further invasion of Alioth. Over time, the military
+staging area for a further invasion of [[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]]. Over time, the military
 bases became more permanent colonies and settlements. The system
 achievend full federal membership in 2561, but remained relatively
-unimportant and in the shadow of Alioth for many centuries.
+unimportant and in the shadow of [[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]] for many centuries.
 
-When Alioth finally achieved independence in 3230, Oltiqu might have
+When [[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]] finally achieved independence in 3230, Oltiqu might have
 been a place where the Federation forces could rally and
 return. However a coordinated peaceful coup by sympathetic federal
 officials allowed the system to be united under the banner of the

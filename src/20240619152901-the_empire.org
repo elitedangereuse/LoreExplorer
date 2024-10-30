@@ -62,10 +62,10 @@ and makes the right connections. Even a slave could, in theory, become a
 Senator.
 
 ** History
-*** The Achenar colony was founded.
+*** The [[id:bed8c27f-3cbe-49ad-b86f-7d87eacf804a][Achenar]] colony was founded.
 In the mid 23rd Century, wealthy entrepreneur Marlin Duval was so
 frustrated with the Federal government that she founded an independent
-colony of her own in the Achenar system, chosen for its remoteness. When
+colony of her own in the [[id:bed8c27f-3cbe-49ad-b86f-7d87eacf804a][Achenar]] system, chosen for its remoteness. When
 Marlin was killed shortly afterwards in a flyer accident, her brother
 Henson Duval took over as ruler.
 
@@ -79,7 +79,7 @@ believed that Marlin Duval, like Remus in ancient Rome, had been killed
 by her own brother. Nobody dared to speak out.
 
 *** The mudlark extinction.
-The colonists were aware that the planet they had settled, Achenar 6d,
+The colonists were aware that the planet they had settled, [[id:bed8c27f-3cbe-49ad-b86f-7d87eacf804a][Achenar]] 6d,
 had indigenous life, but at first it wasn't appreciated that this
 included a sentient species, nicknamed the 'mudlarks' after they were
 observed digging through riverbank mud in search of food. Although the
@@ -94,7 +94,7 @@ traces of the mudlarks, partly in fear of Federal reprisal, and partly
 to ensure that his development plans would not be hindered by ecological
 constraints.
 
-*** The Federation attempted to reclaim Achenar.
+*** The Federation attempted to reclaim [[id:bed8c27f-3cbe-49ad-b86f-7d87eacf804a][Achenar]].
 When the Federal government heard rumours that Duval's colony had
 recklessly caused the destruction of a sentient indigenous species, they
 decided on military intervention.
@@ -103,7 +103,7 @@ The Imperial ships beat back the Federal attackers, who were unable to
 establish a beachhead among the airless outer worlds, and struggled to
 maintain supply lines so far from Earth.
 
-The Federal forces eventually fell back and entrenched in the Beta Hydri
+The Federal forces eventually fell back and entrenched in the [[id:0db1f0b9-a70d-4384-96a5-c1587a8270b1][Beta Hydri]]
 system. Skirmishes with Imperial ships continued for the next fifty
 years, but these were unable to prevent Duval from expanding the Empire
 to many other worlds.
@@ -113,7 +113,7 @@ After hostilities with the Federation ceased, the Empire entered a
 century of growth, annexing many new systems and persuading others to
 join. It spent the following two centuries consolidating its new
 territory, appointing colonial administrators from among the noble
-houses of Achenar.
+houses of [[id:bed8c27f-3cbe-49ad-b86f-7d87eacf804a][Achenar]].
 
 ** Society
 *** An ancient Roman model.
@@ -177,7 +177,7 @@ influence within the Navy -- indeed, it has been claimed that
 devastating planetary mining has been carried out in order to further
 this cause.
 
-The Facece system is arguably the most significant Imperial naval base.
+The [[id:73e31493-0c88-4fd7-9f49-9f3f1c92db41][Facece]] system is arguably the most significant Imperial naval base.
 Many officers are housed on the world of Topaz, while Peter's Wreck is
 home to the training centres.
 
@@ -253,7 +253,7 @@ or herself into slavery.
 
 Slaves may also be taken prisoner following a conflict, abducted from
 their home, or even captured in a hijacking. While trading slaves is
-lawful everywhere in the Empire except on Emerald, taking new slaves
+lawful everywhere in the Empire except on [[id:465800ad-1e27-44fa-9b4b-5ca23bcc36ce][Emeral]]d, taking new slaves
 outside of wartime is illegal without the blessing of a Senator.
 
 ** Diplomatic Relations

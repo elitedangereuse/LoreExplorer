@@ -3,7 +3,7 @@
 :END:
 #+title: Diso Delines
 #+filetags: :beacon:
-* 0239 Diso Delines
+* 0239 [[id:4aedfccd-a366-4b25-a5e2-538bb29a35cb][Diso]] Delines
 [[id:93ad57c9-983a-4202-a35e-724bbfec7d15][Diso]]
 
 The indigenous [[id:5d4af356-e08b-4931-95e4-211677b797ef][delines]] were driven from the equatorial regions by
@@ -12,7 +12,7 @@ latitudes, where they prey predominantly on various ground-dwelling
 scavengers known as 'drats' - a collective name for the various
 rat-like creatures, hated by humans for their effects on their crops.
 
-In the early days of Diso settlement, the delines were hunted, as they
+In the early days of [[id:4aedfccd-a366-4b25-a5e2-538bb29a35cb][Diso]] settlement, the delines were hunted, as they
 had attacked and killed human children from time to time, and in some
 areas they were very nearly wiped out. In the following years, the
 resulting drat plague destroyed crops over vast areas, so humans

@@ -22,8 +22,8 @@ To counter this campaign, Shadow President [[id:b9fe58a3-dfb7-480c-afd6-92c3be84
 
 Both campaigns require deliveries of the following data types: anomalous bulk scan data, exceptional scrambled emission data, specialised legacy firmware and unusual encrypted files. 
 
-To support President Hudson, pilots should deliver data to Gresley Dock in the Nanomam system. 
+To support President Hudson, pilots should deliver data to Gresley Dock in the [[id:c01a596e-5cac-494a-8f23-200c1e2d0683][Nanomam]] system. 
 
-To support Shadow President Winters, pilots should deliver data to Ito Orbital in the Rhea system. 
+To support Shadow President Winters, pilots should deliver data to Ito Orbital in the [[id:6da9023a-ccb6-444a-be77-626dfb552eb1][Rhea]] system. 
 
 Political analysts believe that since Hudson and Winters are organising these projects personally, there may be repercussions for the security and stability of the systems where each has influence.

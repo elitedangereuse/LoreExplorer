@@ -4,11 +4,11 @@
 #+title: Galactic News: Federation Blockades Maia A 3 a
 #+filetags: :Federation:Alliance:3302:galnet:
 
-* Galactic News: Federation Blockades Maia A 3 a
+* Galactic News: Federation Blockades [[id:0ee60994-364c-41b9-98ca-993d041cea72][Maia]] A 3 a
 
 /27 Oct 3302/
 
-Independent reports from the Maia system indicate that a Farragut-class Battlecruiser has taken up position over Maia A 3 a, not far from the personal research base of Professor [[id:8f63442a-1f38-457d-857a-38297d732a90][Ishmael Palin]]. The Federal vessel is apparently redirecting pilots who stray too close to the site. 
+Independent reports from the [[id:0ee60994-364c-41b9-98ca-993d041cea72][Maia]] system indicate that a Farragut-class Battlecruiser has taken up position over Maia A 3 a, not far from the personal research base of Professor [[id:8f63442a-1f38-457d-857a-38297d732a90][Ishmael Palin]]. The Federal vessel is apparently redirecting pilots who stray too close to the site. 
 
 The news comes only a day after Professor Palin announced a breakthrough in his research into meta-alloys. 
 

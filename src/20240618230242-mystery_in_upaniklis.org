@@ -4,7 +4,7 @@
 #+title: Mystery in Upaniklis
 #+filetags: :3308:Federation:3305:galnet:
 
-* Mystery in Upaniklis
+* Mystery in [[id:361a46f2-79c4-40bf-9781-4066763914f3][Upaniklis]]
 
 /20 May 3308/
 
@@ -37,4 +37,4 @@ The [[id:46ff5046-45e9-402d-93a3-96f9c1e508a3][Federal Diplomatic Corp]] publish
 Forester’s Choice has partner status with the Federation, adding: “As
 a micro-society that evolved in isolation, the [[id:fce1d147-f900-41ec-a92c-3ce3d1cae641][Golconda]]n people are
 legally protected against cultural contamination. We will continue to
-monitor the Artificer Clan’s activity in the Upaniklis system.”
+monitor the Artificer Clan’s activity in the [[id:361a46f2-79c4-40bf-9781-4066763914f3][Upaniklis]] system.”

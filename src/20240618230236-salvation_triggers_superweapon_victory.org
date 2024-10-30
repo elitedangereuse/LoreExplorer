@@ -10,11 +10,11 @@
 
 *Pilots’ Federation ALERT* 
 
-The invading Thargoid forces in the Didio, Novas and Sosong systems have been completely repelled by [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]. 
+The invading Thargoid forces in the [[id:d508fb0f-0214-4133-829f-edb61e2681d0][Didio]], [[id:b38c4ed0-3aaa-4a86-8acd-a241164d680f][Novas]] and [[id:2a81ce70-848a-46eb-aa0b-b5626e78e8aa][Sosong]] systems have been completely repelled by [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]. 
 
 Vox Galactica journalist [[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]] published this account: 
 
-“We’ve received confirmation from Commodore [[id:bcaa9222-b056-41cf-9361-68dd8d3424fb][Morag Halloran]] that three anti-xeno superweapons were activated in Didio, Novas and Sosong. This caused the Thargoid fleets in all three systems to immediately withdraw into hyperspace.”  
+“We’ve received confirmation from Commodore [[id:bcaa9222-b056-41cf-9361-68dd8d3424fb][Morag Halloran]] that three anti-xeno superweapons were activated in [[id:d508fb0f-0214-4133-829f-edb61e2681d0][Didio]], [[id:b38c4ed0-3aaa-4a86-8acd-a241164d680f][Novas]] and [[id:2a81ce70-848a-46eb-aa0b-b5626e78e8aa][Sosong]]. This caused the Thargoid fleets in all three systems to immediately withdraw into hyperspace.”  
 
 “It seems that the Thargoids have no defence against the Guardian-derived superweapon, which generates an electromagnetic pulse to disrupt their biomechanical technology.” 
 

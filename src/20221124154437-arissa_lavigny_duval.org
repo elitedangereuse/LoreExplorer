@@ -51,7 +51,7 @@ theory it was possible to rise in rank, but in reality, power was
 hoarded and loyal service went unrewarded.
 
 To her mother's horror, Arissa proceeded to go undercover as a slave in
-the Lagenay household on Achenar, talking to the staff and listening in
+the Lagenay household on [[id:bed8c27f-3cbe-49ad-b86f-7d87eacf804a][Achenar]], talking to the staff and listening in
 on meetings. What she learned would change her view of the Empire
 forever. The rules could be broken with impunity, so long as the proper
 bribes were paid. A senator's favour could be secured, a corporation's
@@ -63,7 +63,7 @@ Arissa's experience as a slave also cemented her own view of Imperial
 slavery -- namely that it was no worse than indentured servitude, and
 downright luxurious compared to what the Federation's lowest paid
 workers had to endure. Non-Imperial commentators responded by pointing
-out that slaves in noble households on Achenar could hardly be held up
+out that slaves in noble households on [[id:bed8c27f-3cbe-49ad-b86f-7d87eacf804a][Achenar]] could hardly be held up
 as typical examples of slavery, and that Arissa might have learned more
 had she spent her time in a Mastopolos mining facility.
 

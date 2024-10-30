@@ -14,7 +14,7 @@ Katherine Ryder, a freelance journalist and seasoned war correspondent, commente
 
 "Things might have been quiet recently, but that doesn't mean the situation with the Empire and the Federation has improved. This is a cold war, after all." 
 
-"Regardless of claims to the contrary, this conflict is about one thing: meta-alloys. Both sides want Maia and Merope because of the barnacles they contain, and both sides will keep pushing into those systems." 
+"Regardless of claims to the contrary, this conflict is about one thing: meta-alloys. Both sides want [[id:0ee60994-364c-41b9-98ca-993d041cea72][Maia]] and [[id:70fa34ea-bc98-40ff-97f0-e4f4538387a6][Merope]] because of the barnacles they contain, and both sides will keep pushing into those systems." 
 
 "Eventually, one of two things will happen: one side will withdraw...or neither side will. In the latter scenario, war seems inevitable." 
 

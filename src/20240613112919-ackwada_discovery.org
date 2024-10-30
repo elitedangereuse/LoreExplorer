@@ -3,7 +3,7 @@
 :END:
 #+title: Ackwada Discovery
 #+filetags: :beacon:
-* 0216 Ackwada Discovery
+* 0216 [[id:77a7a843-4242-4da8-a764-c1525e6ceefe][Ackwada]] Discovery
 [[id:77a7a843-4242-4da8-a764-c1525e6ceefe][Ackwada]]
 
 The official discovery of this system and its habitable planet is
@@ -22,6 +22,6 @@ be broken, so the matter was resolved. Inside the capsule was a
 message crystal with the log of the second five years of Augustus
 Brenquith's solitary search for new worlds, his 'glittering lagacy',
 included in the list of planetary systems that he had stumbled upon
-was that of Ackwada.
+was that of [[id:77a7a843-4242-4da8-a764-c1525e6ceefe][Ackwada]].
 
 [[file:img/beacons/0216B.png]]

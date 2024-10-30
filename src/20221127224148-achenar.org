@@ -6,7 +6,7 @@
 [[file:img/permit.png]]
 
 #+begin_quote
-The Achenar system is notable as the home of the Empire, one of the
+The [[id:bed8c27f-3cbe-49ad-b86f-7d87eacf804a][Achenar]] system is notable as the home of the Empire, one of the
 galaxy's three superpowers. Capitol, a satellite of the sixth body in
 the system, is the primary residence of the emperor, and the seat of
 Imperial power. The system is characterised by widespread opulence and

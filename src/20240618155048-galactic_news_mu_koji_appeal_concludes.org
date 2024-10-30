@@ -4,14 +4,14 @@
 #+title: Galactic News: Mu Koji Appeal Concludes
 #+filetags: :Empire:Federation:3302:galnet:
 
-* Galactic News: Mu Koji Appeal Concludes
+* Galactic News: [[id:b134728d-ea83-43c0-af4d-c212b8a0dd91][Mu Koji]] Appeal Concludes
 
 /04 Oct 3302/
 
-Last week, the Kalana Independents launched a relief campaign for the people of Mu Koji, many of whom were displaced by the Federal-Imperial conflict that swept through the system in early September. Today, a spokesperson for the organisation announced that the galactic community had delivered huge quantities of aid relief to Bujold Enterprise, currently home of the system's refugees. 
+Last week, the Kalana Independents launched a relief campaign for the people of [[id:b134728d-ea83-43c0-af4d-c212b8a0dd91][Mu Koji]], many of whom were displaced by the Federal-Imperial conflict that swept through the system in early September. Today, a spokesperson for the organisation announced that the galactic community had delivered huge quantities of aid relief to Bujold Enterprise, currently home of the system's refugees. 
 
 In a statement, the spokesperson said: 
 
-"The pilots who supported this campaign have reason to feel proud. Thanks to you, the authorities in Mu Koji will now be able to keep the system's refugees comfortable until they are returned to their homes." 
+"The pilots who supported this campaign have reason to feel proud. Thanks to you, the authorities in [[id:b134728d-ea83-43c0-af4d-c212b8a0dd91][Mu Koji]] will now be able to keep the system's refugees comfortable until they are returned to their homes." 
 
 Pilots who contributed to the initiative are now free to collect their rewards from Bujold Enterprise in the Kalana system.

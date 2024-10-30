@@ -18,7 +18,7 @@ The IAA’s Dr Genevieve Kane provided further information:
 
 “Following essential contributions by both the Vandermeer Corporation and Neomedical Industries, we have developed an agronomic treatment that should reverse the disease’s effects.” 
 
-“The priority is to transport the treatment to the Diso and Orerve systems, which were among the first to be ravaged by the blight. If these primary agricultural centres can be made viable again, we can then proceed to revitalise crop production elsewhere.” 
+“The priority is to transport the treatment to the [[id:4aedfccd-a366-4b25-a5e2-538bb29a35cb][Diso]] and Orerve systems, which were among the first to be ravaged by the blight. If these primary agricultural centres can be made viable again, we can then proceed to revitalise crop production elsewhere.” 
 
 Agronomic Treatment can now be collected from the following markets: 
 
@@ -34,6 +34,6 @@ Margulis Station, CD-44 10336
 
 Nourse City, Esumindii 
 
-Independent traders have been asked to deliver the agronomic treatment to Shifnalport in the Diso system and Watson Station in the Orerve system. 
+Independent traders have been asked to deliver the agronomic treatment to Shifnalport in the [[id:4aedfccd-a366-4b25-a5e2-538bb29a35cb][Diso]] system and Watson Station in the Orerve system. 
 
 The initiative is scheduled to run from the 24th to the 30th of October 3305. If the final targets are met earlier than planned, the campaign will end immediately.

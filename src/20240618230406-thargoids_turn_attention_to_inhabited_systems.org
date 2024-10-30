@@ -14,9 +14,9 @@ Swarms of Thargoid vessels have invaded the 42 n Persei, Chun Pindit and Tekkeit
 
 Vox Galactica published this report by field correspondent [[id:9aac4d99-35c1-4f2e-91c1-b84cb73d54f8][Ernesto Rios]]: 
 
-“Since the Thargoids conquered HIP 22460 a month ago, their presence has gradually expanded in all directions. But these are the first inhabited systems to be invaded since the Proteus Wave incident, threatening a combined population of over seven million people.” 
+“Since the Thargoids conquered [[id:55088d83-4221-44fa-a9d5-6ebb0866c722][HIP 22460]] a month ago, their presence has gradually expanded in all directions. But these are the first inhabited systems to be invaded since the Proteus Wave incident, threatening a combined population of over seven million people.” 
 
-“The governing factions of these systems – Sirius Inc, SI Terraforming and Tekkeitjal Public Corporation, respectively – are expected to host defensive operations against the Thargoids. None are aligned to any superpower, and so have no formal navy to support these efforts.” 
+“The governing factions of these systems – [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Inc, SI Terraforming and Tekkeitjal Public Corporation, respectively – are expected to host defensive operations against the Thargoids. None are aligned to any superpower, and so have no formal navy to support these efforts.” 
 
 “As yet, none of the starports in 42 n Persei, Chun Pindit or Tekkeitjal have been directly attacked. Civilians have been instructed to remain calm but many are evacuating, fearful of the stations suffering caustic enzyme bombardment.” 
 

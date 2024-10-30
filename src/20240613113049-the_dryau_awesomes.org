@@ -8,7 +8,7 @@
 
 This beacon marks the sixth waypoint of the [[id:f176c68d-cc7a-4db2-8305-81f6771c7e9f][Distant Worlds II]]
 expedition, a five-month journey to the far outer rim conducted
-in 3305. This system, Dryau Ausms KG-Y e3390, was nicknamed 'The Dryau
+in 3305. This system, [[id:71dc38a7-e715-4f89-bfff-bbaf3faba7b7][Dryau Ausms KG-Y e3390]], was nicknamed 'The Dryau
 Awesomes' by explorers due to its distinctive topology.
 
 [[file:img/beacons/ER04.png]]

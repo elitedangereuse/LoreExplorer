@@ -4,13 +4,13 @@
 #+title: Thargoids Conquer HIP 22460
 #+filetags: :3308:Empire:Federation:Alliance:Thargoid:galnet:
 
-* Thargoids Conquer HIP 22460
+* Thargoids Conquer [[id:55088d83-4221-44fa-a9d5-6ebb0866c722][HIP 22460]]
 
 /10 Aug 3308/
 
 *Pilots’ Federation ALERT* 
 
-The Proteus Wave’s failure has resulted in Thargoid forces overwhelming the coalition fleet in HIP 22460. 
+The Proteus Wave’s failure has resulted in Thargoid forces overwhelming the coalition fleet in [[id:55088d83-4221-44fa-a9d5-6ebb0866c722][HIP 22460]]. 
 
 Independent and military observers have confirmed that although [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]’s anti-xeno superweapon was activated as scheduled, it had only a temporary effect on the Thargoids. Soon afterwards, human ships in the system found themselves without power following a second unknown energy pulse and were rapidly targeted by hostile Thargoid vessels. 
 
@@ -22,6 +22,6 @@ Vox Galactica announced that the reporter [[id:139670fe-bd19-40b6-8623-cceeef01f
 
 “I watched through the canopy as the Thargoids swarmed everywhere, more than I’d ever seen before. The Bright Sentinel was their first target, and they unleashed a blazing barrage against it. Nobody on board could have survived.” 
 
-The superpowers have announced that HIP 22460 is off-limits to civilian traffic, and should now be considered Thargoid territory. The [[id:17d9294e-7759-4cf4-9a67-5f12b5704f51][Alliance Defence Force]], Federal Navy and Imperial Navy have each begun compiling official lists of every military ship deployed to the system which remains unaccounted for. 
+The superpowers have announced that [[id:55088d83-4221-44fa-a9d5-6ebb0866c722][HIP 22460]] is off-limits to civilian traffic, and should now be considered Thargoid territory. The [[id:17d9294e-7759-4cf4-9a67-5f12b5704f51][Alliance Defence Force]], Federal Navy and Imperial Navy have each begun compiling official lists of every military ship deployed to the system which remains unaccounted for. 
 
 Azimuth Biotech likewise issued a statement confirming that both the Bright Sentinel and Heart of Taurus megaships have been destroyed, with all Proteus Wave project engineers missing and presumed dead. No information on the status of [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]] has yet been offered by the corporation.

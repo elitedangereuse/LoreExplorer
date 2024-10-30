@@ -4,7 +4,7 @@
 #+title: Alliance and Sirius Agree Defence Pact
 #+filetags: :3308:Alliance:Thargoid:galnet:
 
-* Alliance and Sirius Agree Defence Pact
+* Alliance and [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Agree Defence Pact
 
 /03 Jan 3308/
 
@@ -20,4 +20,4 @@ Prime Minister [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74][Edmund Mahon]] told Th
 
 Councillor [[id:0d664f07-640e-4397-be23-6b52d2c2d4d6][Nakato Kaine]] spoke on behalf of several disapproving members of the Assembly: 
 
-“We are already too entwined with this ruthless corporate giant, so to hand our defences over to them is another blow to the Alliance’s identity. It is also convenient that the details of the pact remain classified under military restrictions. We don’t even know what price we’re paying to hire Sirius to be our guard dog.”
+“We are already too entwined with this ruthless corporate giant, so to hand our defences over to them is another blow to the Alliance’s identity. It is also convenient that the details of the pact remain classified under military restrictions. We don’t even know what price we’re paying to hire [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] to be our guard dog.”

@@ -3,17 +3,17 @@
 :END:
 #+title: The Reclamation of Facece
 #+filetags: :Empire:beacon:
-* 0690 The Reclamation of Facece
+* 0690 The Reclamation of [[id:73e31493-0c88-4fd7-9f49-9f3f1c92db41][Facece]]
 [[id:73e31493-0c88-4fd7-9f49-9f3f1c92db41][Facece]]
 
 On July 2nd 3302, and after months of vicious fighting, the Imperial
-Naval Auxiliary reinstated the Facece Empire Party as the controlling
-power of the Facece system.
+Naval Auxiliary reinstated the [[id:73e31493-0c88-4fd7-9f49-9f3f1c92db41][Facece]] Empire Party as the controlling
+power of the [[id:73e31493-0c88-4fd7-9f49-9f3f1c92db41][Facece]] system.
 
 Marquis Endincite, who coordinated the effort to reclaim the system,
 made the following statement to the Imperial Herald:
 
-"The Empire Party has regained the administration of Facece, and we
+"The Empire Party has regained the administration of [[id:73e31493-0c88-4fd7-9f49-9f3f1c92db41][Facece]], and we
 beseech Imperial commanders everywhere to ensure its continued
 dominance in the system. Never again should the Empire allow its
 pre-eminent naval base to fall under the sway of disloyal elements."

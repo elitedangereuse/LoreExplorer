@@ -16,7 +16,7 @@ The Imperial Herald: “Hadrian might be the black sheep of the Duval family, bu
 
 The Federal Times: “The evidence that Nova Imperium orchestrated the starport bombings is credible, but the possibility of subterfuge remains. Could the [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] really fake so many orders from Hadrian Duval to such a believable standard?” 
 
-Eye on Achenar: “An attack against a Duval is an attack against us all, even if he does turn out to be a terrorist. How dare those Fednecks try to judge our criminals for us!” 
+Eye on [[id:bed8c27f-3cbe-49ad-b86f-7d87eacf804a][Achenar]]: “An attack against a Duval is an attack against us all, even if he does turn out to be a terrorist. How dare those Fednecks try to judge our criminals for us!” 
 
 Sol Today: “Hundreds of thousands dead, half a million wounded… our people deserve retribution. But as usual, all the Imposers care about is pandering to their monarchy.” 
 

@@ -14,7 +14,7 @@ Stations where services have been suspended:
 
 Gabriel Enterprise, Harma system 
 
-Gurragchaa Gateway, Warkushanui system 
+Gurragchaa [[id:e179ecca-9ab3-4184-b05e-107b2e6932c2][Gateway]], Warkushanui system 
 
 Gaiman Dock, 49 Arietis system 
 
@@ -24,7 +24,7 @@ Korolyov Hub, Arawere system
 
 Lobachevsky Outpost, Pic Tok system 
 
-Carter Port, Rhea system 
+Carter Port, [[id:6da9023a-ccb6-444a-be77-626dfb552eb1][Rhea]] system 
 
 Stations experiencing technical issues: 
 
@@ -36,12 +36,12 @@ Hinz Hub, Ngobe
 
 Tsunenaga Dock, Iapodes 
 
-Li Qing Jao, Sol 
+Li Qing Jao, [[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]] 
 
-Ray Gateway, Diaguandri system 
+Ray [[id:e179ecca-9ab3-4184-b05e-107b2e6932c2][Gateway]], Diaguandri system 
 
 Vizcaino Enterprise, Nganji system 
 
-Talos 2, Peregrina system 
+Talos 2, [[id:3ea0a57b-8e74-4642-bb38-5152ddba646d][Peregrina]] system 
 
 We will continue to bring you up-to-the-minute reports on this issue.

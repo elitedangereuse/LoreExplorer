@@ -10,7 +10,7 @@
 
 The Starship Enterprises faction has issued a public request for mined resources. 
 
-SE Mining, a subdivision of Starship Enterprises, requires materials to construct a specialised installation in the LP 339-7 system. The proposed starport will serve as a departmental headquarters while also providing services to travellers in the region. 
+SE Mining, a subdivision of Starship Enterprises, requires materials to construct a specialised installation in the [[id:9cf1f79e-2474-4252-a9fd-c4420e942dc7][LP 339-7]] system. The proposed starport will serve as a departmental headquarters while also providing services to travellers in the region. 
 
 Dr [[id:246ac86d-4a96-4fdc-907d-d8a84b142e70][Lewis Chapman]], CEO of [[id:d20f91af-3196-4258-ad57-64c7c61e5ed9][Starship Enterprises]], announced: 
 
@@ -18,6 +18,6 @@ Dr [[id:246ac86d-4a96-4fdc-907d-d8a84b142e70][Lewis Chapman]], CEO of [[id:d20f9
 
 “SE Mining has been the backbone of my company since its inception. It has seen us through hard times and continues to be one of the corporation’s most important assets. I believe a new base of operations is a fine way to reward the division’s hard work.” 
 
-Independent pilots are asked to mine quantities of osmium, samarium, uraninite, monazite and platinum for delivery to Gell-Mann Ring in the LP 339-7 system.  
+Independent pilots are asked to mine quantities of osmium, samarium, uraninite, monazite and platinum for delivery to Gell-Mann Ring in the [[id:9cf1f79e-2474-4252-a9fd-c4420e942dc7][LP 339-7]] system.  
 
 The initiative will run from the 22nd to the 28th of August 3305. If the final target is met earlier than planned, the campaign will end immediately.

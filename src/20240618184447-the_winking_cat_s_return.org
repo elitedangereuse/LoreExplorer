@@ -8,7 +8,7 @@
 
 /31 Aug 3305/
 
-The notorious art thief known as the [[id:b9519a7c-f00b-4a57-9bcf-964258bdd2d8][Winking Cat]] has resurfaced in the Alioth system during the Alliance Festival of Culture. 
+The notorious art thief known as the [[id:b9519a7c-f00b-4a57-9bcf-964258bdd2d8][Winking Cat]] has resurfaced in the [[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]] system during the Alliance Festival of Culture. 
 
 For the festival’s sixth week, Garden City Gallery on Turner’s World hosts an exhibition of the visual arts. Advanced security measures have been employed to prevent a repetition of the high-profile incident that occurred in June 3304, where the unique work ‘Youscape’ was stolen from a gallery vault. 
 
@@ -20,4 +20,4 @@ Local correspondent Daron Warmack reported for The Alliance Tribune:
 
 “The [[id:b9519a7c-f00b-4a57-9bcf-964258bdd2d8][Winking Cat]] has returned one of the Alliance’s greatest art treasures – a personal contribution to the festival, perhaps, or maybe an act of penance.” 
 
-The Alliance Festival of Culture will conclude next week in the Diso system.
+The Alliance Festival of Culture will conclude next week in the [[id:4aedfccd-a366-4b25-a5e2-538bb29a35cb][Diso]] system.

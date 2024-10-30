@@ -3,4 +3,4 @@
 :END:
 #+title: Avalonia
 #+filetags: :ship:
-The Avalonia is a ship.
+The [[id:55628bb2-5f97-4086-b281-170acff0bf9b][Avalon]]ia is a ship.

@@ -12,7 +12,7 @@ The journalist [[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]] of Vo
 
 This excerpt is from a conversation with Admiral Maxton Price of the Federation. 
 
-Jade Sanderlyn: My name is [[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]], reporting for Vox Galactica. I’m here with Admiral Maxton Price, onboard the FNS Amphion in the Sosong system. I was very impressed with the tour of the ship prior to our interview, Admiral. 
+Jade Sanderlyn: My name is [[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]], reporting for Vox Galactica. I’m here with Admiral Maxton Price, onboard the FNS Amphion in the [[id:2a81ce70-848a-46eb-aa0b-b5626e78e8aa][Sosong]] system. I was very impressed with the tour of the ship prior to our interview, Admiral. 
 
 Maxton Price: I can’t say I’m surprised, Miss Sanderlyn. Is this your first time on a Farragut-class battle cruiser? 
 
@@ -42,4 +42,4 @@ MP: No, it does not. I’ve seen what the Thargoids are capable of. It’s impre
 
 JS: Let’s take a break for a word from our sponsors. We’ll be right back. 
 
-The rest of this interview is available to pilots arriving at the FNS Amphion in the Sosong system.
+The rest of this interview is available to pilots arriving at the FNS Amphion in the [[id:2a81ce70-848a-46eb-aa0b-b5626e78e8aa][Sosong]] system.

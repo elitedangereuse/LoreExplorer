@@ -10,7 +10,7 @@
 
 Millions of people are being evacuated from systems that have suffered devastating attacks by Thargoid fleets. 
 
-An enormous humanitarian effort is underway, with rescue megaships positioned at key locations near each Thargoid-occupied system. Captain Justine Kemp  of Rescue Ship Hutner, currently stationed in Enayex, described their operations to Vox Galactica: 
+An enormous humanitarian effort is underway, with rescue megaships positioned at key locations near each Thargoid-occupied system. Captain Justine Kemp  of Rescue Ship Hutner, currently stationed in [[id:7d12ffc5-6340-4b45-8c32-d63af1e5cbf1][Enayex]], described their operations to Vox Galactica: 
 
 “As per newly established procedures, all contracted transports carrying refugees from systems facing Thargoid invasion are directed to our landing bays. Emergency teams perform triage services and give direct aid where possible. But the focus is on quickly processing them for relocation to temporary housing, away from the warzones.” 
 

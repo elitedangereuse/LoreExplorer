@@ -32,7 +32,7 @@
 #+end_quote
 
 Yuri Grom is the leader of the EG Pilots, an independent faction based
-in the Euryale system.
+in the [[id:6cf2c98a-fa94-4982-a055-6bb2a507921c][Euryale]] system.
 
 Grom was originally a Federal Admiral, but he retired from the
 Federation on ideological grounds. He has never publicly discussed the

@@ -4,22 +4,22 @@
 #+title: Sirius Initiative Plans Aid for Alliance
 #+filetags: :3308:Federation:Empire:Alliance:Thargoid:galnet:
 
-* Sirius Initiative Plans Aid for Alliance
+* [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Initiative Plans Aid for Alliance
 
 /28 Apr 3308/
 
 *Pilots’ Federation ALERT* 
 
-Sirius Corporation has organised humanitarian support for the Didio system, which is under attack by Thargoid vessels. 
+Sirius Corporation has organised humanitarian support for the [[id:d508fb0f-0214-4133-829f-edb61e2681d0][Didio]] system, which is under attack by Thargoid vessels. 
 
-The Alliance Defence Fleet is currently combating the Thargoid threat in Didio, under the command of Admiral Rachel Ziegler.  
+The Alliance Defence Fleet is currently combating the Thargoid threat in [[id:d508fb0f-0214-4133-829f-edb61e2681d0][Didio]], under the command of Admiral Rachel Ziegler.  
 
 Admiral [[id:2e8a3cd7-5f4e-47dc-ba7f-eb732bf8c7fa][Nikolas Glass]], who acts as a liaison between the megacorp and the [[id:17d9294e-7759-4cf4-9a67-5f12b5704f51][Alliance Defence Force]], provided details of the campaign: 
 
-“With the strategic defence pact yet to be ratified, the Council of Admirals has not approved the deployment of Sirius Navy ships as part of an Allied fleet. However, Sirius Corporation is keen to show its commitment to helping the Alliance, and will do so by supplying vital resources to the Didio system’s besieged population.” 
+“With the strategic defence pact yet to be ratified, the Council of Admirals has not approved the deployment of [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Navy ships as part of an Allied fleet. However, Sirius Corporation is keen to show its commitment to helping the Alliance, and will do so by supplying vital resources to the [[id:d508fb0f-0214-4133-829f-edb61e2681d0][Didio]] system’s besieged population.” 
 
-“Large quantities of basic medicines, evacuation shelters and food cartridges are urgently required. These can be delivered to the megaship Chariot of Rhea in the Leesti system, from where they will be delivered to Didio in military convoys.” 
+“Large quantities of basic medicines, evacuation shelters and food cartridges are urgently required. These can be delivered to the megaship Chariot of [[id:6da9023a-ccb6-444a-be77-626dfb552eb1][Rhea]] in the Leesti system, from where they will be delivered to [[id:d508fb0f-0214-4133-829f-edb61e2681d0][Didio]] in military convoys.” 
 
-Sirius Corporation has been criticised for not providing similar support to the Novas and Sosong systems, which have also been invaded. A spokesperson for the megacorp stated that the strategic defence pact’s trial applies exclusively to the Alliance. Any similar relationship with the Empire and Federation would require separate negotiations, though the spokesperson stressed that [[id:f0655b3a-aca9-488f-bdb3-c481a42db384][Li Yong-Rui]] has no interest in such talks at this time. 
+Sirius Corporation has been criticised for not providing similar support to the [[id:b38c4ed0-3aaa-4a86-8acd-a241164d680f][Novas]] and [[id:2a81ce70-848a-46eb-aa0b-b5626e78e8aa][Sosong]] systems, which have also been invaded. A spokesperson for the megacorp stated that the strategic defence pact’s trial applies exclusively to the Alliance. Any similar relationship with the Empire and Federation would require separate negotiations, though the spokesperson stressed that [[id:f0655b3a-aca9-488f-bdb3-c481a42db384][Li Yong-Rui]] has no interest in such talks at this time. 
 
-A joint operation between the superpowers is currently underway in Didio, Novas and Sosong to counter recent Thargoid invasions. This is to buy time for [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]’s anti-xeno superweapons to be constructed.
+A joint operation between the superpowers is currently underway in [[id:d508fb0f-0214-4133-829f-edb61e2681d0][Didio]], [[id:b38c4ed0-3aaa-4a86-8acd-a241164d680f][Novas]] and [[id:2a81ce70-848a-46eb-aa0b-b5626e78e8aa][Sosong]] to counter recent Thargoid invasions. This is to buy time for [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]’s anti-xeno superweapons to be constructed.

@@ -8,11 +8,11 @@
 
 /24 Apr 3301/
 
-Reports coming in from Eotienses indicate that a group of Federal Commanders, known as the Merchant Marines, are currently engaged in a series of unauthorised attacks against Imperial traders in the employ of Senator Patreus.    
+Reports coming in from [[id:9fa174ce-7273-40ba-a0e6-1225bcda40b6][Eotienses]] indicate that a group of Federal Commanders, known as the Merchant Marines, are currently engaged in a series of unauthorised attacks against Imperial traders in the employ of Senator Patreus.    
 
 In a statement released to GalNet, the Merchant Marines had this to say: 
 
-“The Merchant Marines have launched Operation Papercut. We plan to blockade the Eotienses system in an attempt to stop Imperial traders from supplying Parkinson Dock with industrial materials. The group fears that High Tech production could turn Eotienses into a catalyser for the Imperial war machine already fuelled by [[id:75daea85-5e9f-4f6f-a102-1a5edea0283c][Denton Patreus]].” 
+“The Merchant Marines have launched Operation Papercut. We plan to blockade the [[id:9fa174ce-7273-40ba-a0e6-1225bcda40b6][Eotienses]] system in an attempt to stop Imperial traders from supplying Parkinson Dock with industrial materials. The group fears that High Tech production could turn Eotienses into a catalyser for the Imperial war machine already fuelled by [[id:75daea85-5e9f-4f6f-a102-1a5edea0283c][Denton Patreus]].” 
 
 “The Marines intend to interdict all traders in the system and thus halt economic growth. Traders will be given a single warning to leave the system. Any further action will result in more aggressive coercion.” 
 

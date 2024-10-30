@@ -18,6 +18,6 @@ The following message was transmitted on public channels:
 
 “Refinement of this weapon is at a critical stage, so I cannot reveal any details. I only regret that my warning was not heeded in time to save everyone on the two starports.” 
 
-“This triumph was only possible thanks to those loyal pilots who answered my call. Rewards will shortly be available from the Bright Sentinel megaship in the Mbooni system.” 
+“This triumph was only possible thanks to those loyal pilots who answered my call. Rewards will shortly be available from the Bright Sentinel megaship in the [[id:a5427e6e-e2f5-4c09-b595-97bbc14894ee][Mbooni]] system.” 
 
 Salvation’s identity and capabilities remain unknown, but he has established a reputation as a rival to Aegis. He is also knowledgeable about [[id:e68a5318-bd72-4c92-9f70-dcdbd59505d1][Azimuth Biochemicals]], a research company connected to the earliest recorded encounters with Guardian and Thargoid artefacts.

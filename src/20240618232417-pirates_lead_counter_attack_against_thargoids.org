@@ -12,7 +12,7 @@
 
 The Kumo Crew is marshalling the defence of the California Nebula by offering rewards for eliminating Thargoid vessels. 
 
-The Kumo Council, the syndicate’s ruling body, assumed control of several systems that were recently invaded by Thargoid fleets. Independent pilots have been asked to take part in anti-xeno initiatives within the region, which are being coordinated from The Mictlan megaship.  
+The Kumo Council, the syndicate’s ruling body, assumed control of several systems that were recently invaded by Thargoid fleets. Independent pilots have been asked to take part in anti-xeno initiatives within the region, which are being coordinated from The [[id:c72ce3b7-f19e-4034-9df5-554bcddfaa4f][Mictlan]] megaship.  
 
 Harrison Gladstone of the Turner Research Group, which represents the Alliance in the California Nebula, made a formal protest: 
 
@@ -22,4 +22,4 @@ In response, [[id:7aae0550-b8ba-42cf-b52b-e7040461c96f][Archon Delaine]] claimed
 
 “Taking charge of local security forces is necessary to form an effective anti-xeno militia. If the Alliance cares so much about this region, where are their warships? We’re doing Mahon’s job for him. The colonists here will soon understand our decision is the correct one.” 
 
-The Kumo Council has agreed to reimburse all Thargoid combat bonds handed in at The Mictlan in California Sector HR-W d1-28.
+The Kumo Council has agreed to reimburse all Thargoid combat bonds handed in at The [[id:c72ce3b7-f19e-4034-9df5-554bcddfaa4f][Mictlan]] in California Sector HR-W d1-28.

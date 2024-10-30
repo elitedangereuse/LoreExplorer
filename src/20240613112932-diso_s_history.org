@@ -3,10 +3,10 @@
 :END:
 #+title: Diso's History
 #+filetags: :2422:beacon:
-* 0238 Diso's History
+* 0238 [[id:4aedfccd-a366-4b25-a5e2-538bb29a35cb][Diso]]'s History
 [[id:93ad57c9-983a-4202-a35e-724bbfec7d15][Diso]]
 
-First explored in 2422 by an exploratory mission from [[id:ff595332-6a13-4f69-ae2f-cc0a0df8e741][Lave]], Diso was
+First explored in 2422 by an exploratory mission from [[id:ff595332-6a13-4f69-ae2f-cc0a0df8e741][Lave]], [[id:4aedfccd-a366-4b25-a5e2-538bb29a35cb][Diso]] was
 found to contain a rich indigenous ecosystem, topped by a dominant
 species of rotund feline-like creatures with rich, black fur called
 [[id:5d4af356-e08b-4931-95e4-211677b797ef][delines]].

@@ -14,7 +14,7 @@ Aegis has requested materials to construct sub-surface extraction missiles that 
 
 Professor [[id:c2623368-19b0-4995-9e35-b8f54f741a53][Alba Tesreau]], head of Aegis, announced: 
 
-“Using blueprints provided by Sirius Corporation, engineering teams have worked around the clock to modify sub-surface displacement munitions. These adaptations enable the projectiles to breach sections of the Titans’ hulls and jettison the bio-storage capsules embedded within.” 
+“Using blueprints provided by [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Corporation, engineering teams have worked around the clock to modify sub-surface displacement munitions. These adaptations enable the projectiles to breach sections of the Titans’ hulls and jettison the bio-storage capsules embedded within.” 
 
 “We could spend the next few months in a testing cycle, and ideally that would be the case – but lives are at risk and we can’t be sure how much time our missing have. Therefore, we have approved mass production of these sub-surface extraction missiles. Industrial materials are urgently needed to establish assembly centres, so that we can distribute them as rapidly as possible.” 
 
@@ -22,4 +22,4 @@ Princess [[id:b402bbe3-5119-4d94-87ee-0ba279658383][Aisling Duval]], who is coor
 
 “My heart goes out to the families and friends of the millions unaccounted for following the Thargoid invasions. But I urge you all to hold onto the hope of seeing your loved ones again. With this breakthrough, we finally have a chance to rescue some of those poor souls. Nobody doubts that this will be dangerous, and yet if this war has proved anything, it’s that we can rise to any challenge when we work together.” 
 
-Aegis has requested shipments of CMM composites, neofabric insulation and osmium, to be delivered to Springer Gateway in the Senlu system. To protect transports, bounty vouchers for all wanted ships in the system will be redeemed by the Green Party of Senlu.
+Aegis has requested shipments of CMM composites, neofabric insulation and osmium, to be delivered to Springer [[id:e179ecca-9ab3-4184-b05e-107b2e6932c2][Gateway]] in the Senlu system. To protect transports, bounty vouchers for all wanted ships in the system will be redeemed by the Green Party of Senlu.

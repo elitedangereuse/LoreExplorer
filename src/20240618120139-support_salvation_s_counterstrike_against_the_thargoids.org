@@ -10,13 +10,13 @@
 
 *Pilots’ Federation ALERT* 
 
-Salvation requires vital materials to deploy anti-xeno superweapons in the Delphi, Maia and Merope systems. 
+Salvation requires vital materials to deploy anti-xeno superweapons in the [[id:846bfbc7-75e7-4d8d-8716-7fe0346026f4][Delphi]], [[id:0ee60994-364c-41b9-98ca-993d041cea72][Maia]] and [[id:70fa34ea-bc98-40ff-97f0-e4f4538387a6][Merope]] systems. 
 
 A message was transmitted from the Musashi megaship by its new commanding officer, Commodore [[id:bcaa9222-b056-41cf-9361-68dd8d3424fb][Morag Halloran]]: 
 
 “The Thargoids have invaded three key systems, as [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]] anticipated. Preparations have been made to halt their advance, but there is an urgent requirement to collect classified experimental equipment from the Heart of Taurus in the Qarato system.” 
 
-“Pilots must then deliver these shipments to three other megaships: the Musashi in the Delphi system, the Bright Sentinel in the Maia system, and the Glorious Prospect in the Merope system.” 
+“Pilots must then deliver these shipments to three other megaships: the Musashi in the [[id:846bfbc7-75e7-4d8d-8716-7fe0346026f4][Delphi]] system, the Bright Sentinel in the [[id:0ee60994-364c-41b9-98ca-993d041cea72][Maia]] system, and the Glorious Prospect in the [[id:70fa34ea-bc98-40ff-97f0-e4f4538387a6][Merope]] system.” 
 
 “It is crucial that all deliveries are made by early on Tuesday the 14th of December. Without these components, [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]’s superweapons will not be able to affect enough Thargoid vessels to turn the tide.” 
 

@@ -8,7 +8,7 @@
 
 /15 Jul 3308/
 
-Prominent figures on the political stage have commented on [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]’s anti-xeno operation in the HIP 22460 system. Key points from each are collated below. 
+Prominent figures on the political stage have commented on [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]’s anti-xeno operation in the [[id:55088d83-4221-44fa-a9d5-6ebb0866c722][HIP 22460]] system. Key points from each are collated below. 
 
 Archon Delaine: “My opinion on the Thargoids remains the same: burn them all! As I stated at the Galactic Summit, the Kumo nation stands ready to help wipe out these alien scum.”  
 
@@ -20,4 +20,4 @@ Hadrian Augustus Duval: “The Thargoids are a genuine threat. Yet I hope that o
 
 First Minister Octavia Volkov: “Thargoid attack is an ever-present danger for the Marlinist Colonies. We are observing events closely. Personally I do not view Azimuth as a trustworthy ally.” 
 
-Ambassador [[id:a9ccf59f-436e-44df-b041-5020285925f8][Jasmina Halsey]]: “I’m pleased to see the Federation working closely with the Alliance, but disappointed that it is limited to anti-xeno matters. Whatever happens in HIP 22460, we should grasp this opportunity to increase diplomatic as well as military cooperation.”
+Ambassador [[id:a9ccf59f-436e-44df-b041-5020285925f8][Jasmina Halsey]]: “I’m pleased to see the Federation working closely with the Alliance, but disappointed that it is limited to anti-xeno matters. Whatever happens in [[id:55088d83-4221-44fa-a9d5-6ebb0866c722][HIP 22460]], we should grasp this opportunity to increase diplomatic as well as military cooperation.”

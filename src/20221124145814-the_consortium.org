@@ -5,7 +5,7 @@
 #+filetags: :KnowledgeBase:3120:Codex:
 
 * Faction
-[[id:b6cc5a1a-935d-4119-9989-1e916a3e7339][NGC 6188 Sector LC-V c2-28]] (4402.19 ly from Sol)
+[[id:b6cc5a1a-935d-4119-9989-1e916a3e7339][NGC 6188 Sector LC-V c2-28]] (4402.19 ly from [[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]])
 [[id:d561cb4a-e5b9-4b91-8c6c-3bd52bac3de5][Morgan's Rock]]
 
 * The Consortium

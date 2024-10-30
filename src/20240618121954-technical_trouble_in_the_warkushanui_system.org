@@ -10,7 +10,7 @@
 
 Reports coming in from the Warkushanui system indicate that a number of starports in the region are currently experiencing technical issues. According to Sam Norris, a technician at Coats Hub, the system's inhabitants are dealing with a range of problems: 
 
-"We've had power outages, intermittent problems with our communications, and issues with the docking systems, but I've reason to believe that things are worse at Gurragchaa Gateway. I haven't been able to establish a stable comms link with them for a while, though, so I don't know exactly what the situation is." 
+"We've had power outages, intermittent problems with our communications, and issues with the docking systems, but I've reason to believe that things are worse at Gurragchaa [[id:e179ecca-9ab3-4184-b05e-107b2e6932c2][Gateway]]. I haven't been able to establish a stable comms link with them for a while, though, so I don't know exactly what the situation is." 
 
 Norris was asked what he thought might be causing the problems: 
 

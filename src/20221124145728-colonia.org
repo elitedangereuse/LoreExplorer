@@ -4,7 +4,7 @@
 #+title: Colonia
 #+filetags: :KnowledgeBase:System:Codex:
 
-* Colonia
+* [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]]
 
 #+begin_quote
 
@@ -16,16 +16,16 @@
 #+end_quote
 
 Colonia lies some 22,000 light years from the core systems, and was the
-first system in the Colonia Nebula to be settled by humanity. The
-circumstances of Colonia's founding are highly unusual: the system was
+first system in the [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] Nebula to be settled by humanity. The
+circumstances of [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]]'s founding are highly unusual: the system was
 colonised as a result of the spontaneous actions of independent pilots,
 rather than through a formal expansion programme.
 
-The colonisation of Colonia began with an accident involving [[id:f37f17f1-8eb3-4598-93f7-190fe97438a1][Jaques]]
+The colonisation of [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] began with an accident involving [[id:f37f17f1-8eb3-4598-93f7-190fe97438a1][Jaques]]
 Station, a jump-capable [[id:d5cc8c3e-9887-4c30-9a1d-08008ab36675][Orbis]] starport. In May 3302, the station
 executed a long-distance jump to Beagle Point, but when it failed to
 reach its destination it was feared lost. In June 3302, an independent
-pilot discovered [[id:f37f17f1-8eb3-4598-93f7-190fe97438a1][Jaques]] Station in the Eol Prou RS-T d3-94 system,
+pilot discovered [[id:f37f17f1-8eb3-4598-93f7-190fe97438a1][Jaques]] Station in the [[id:5f3c361b-30be-4912-8341-f6f3c1336028][Eol Prou RS-T d3-94]] system,
 suffering from technical issues and effectively stranded.
 
 The galactic community reacted swiftly, launching an independent supply
@@ -39,16 +39,16 @@ serious planning.
 In September 3302, [[id:5f3c361b-30be-4912-8341-f6f3c1336028][Eol Prou RS-T d3-94]] was formally renamed 'Colonia',
 and the first permanent settlement was constructed on the surface of
 Colonia 2A. An influx of migrants boosted the system's population, aided
-financially by the Colonia Council, the region's new governing body, and
+financially by the [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] Council, the region's new governing body, and
 materially by independent pilots.
 
 Colonia is widely viewed as a monument to community spirit and human
 ingenuity, as well as being the first step into a previously uninhabited
-region of space. Colonia's population is still small, but the region is
+region of space. [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]]'s population is still small, but the region is
 undergoing continuous expansion and attracting attention from both
 enterprising corporations and optimistic migrants.
 
-To date, Colonia has remained untroubled by the strife that often
+To date, [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] has remained untroubled by the strife that often
 plagues the core systems, earning it a reputation as a sanctuary. But it
 remains to be seen if this nascent community will thrive in isolation,
 or be engulfed by political and corporate forces.
