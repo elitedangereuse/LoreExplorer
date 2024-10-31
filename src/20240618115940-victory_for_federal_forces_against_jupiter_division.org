@@ -4,22 +4,36 @@
 #+title: Victory for Federal Forces Against Jupiter Division
 #+filetags: :3301:3307:Federation:galnet:
 
-* Victory for Federal Forces Against Jupiter Division
+* Victory for Federal Forces Against [[id:a35c5eb2-0697-4ef3-9a11-950791952e2d][Jupiter Division]]
 
 /18 Feb 3307/
 
 *Pilots Federation ALERT* 
 
-Jupiter Division, the breakaway faction from Core Dynamics, has been defeated in the [[id:e1b0c446-0ced-475c-9031-a57e5e3c414f][HIP 54530]] system. 
+[[id:a35c5eb2-0697-4ef3-9a11-950791952e2d][Jupiter Division]], the breakaway faction from [[id:4a28463f-cbed-493b-9466-70cbc6e19662][Core Dynamics]], has been
+defeated in the [[id:e1b0c446-0ced-475c-9031-a57e5e3c414f][HIP 54530]] system.
 
-The independent corporate nation met armed resistance from a local faction, the Silver Legal Group, which defeated them in battle with the aid of independent ships. Director Theodore Sullivan announced: 
+The independent corporate nation met armed resistance from a local
+faction, the [[id:46db368a-cb8f-4246-9663-96bd2d3b0402][Silver Legal Group]], which defeated them in battle with
+the aid of independent ships. Director [[id:98555862-d2af-4b4a-be86-672f289e1b73][Theodore Sullivan]] announced:
 
-“Thanks to the courage of many pilots, we have crippled the military forces behind this illegal coup and taken control of the system.” 
+“Thanks to the courage of many pilots, we have crippled the military
+forces behind this illegal [[id:0ce3c70c-e3ae-4a4b-8291-2db41b5058ac][coup]] and taken control of the system.”
 
-Rewards for all who fought for the Silver Legal Group are available from the Iron Wings of Justice megaship in the Ts'ao Tach system. 
+Rewards for all who fought for the [[id:46db368a-cb8f-4246-9663-96bd2d3b0402][Silver Legal Group]] are available
+from the [[id:e65ce81f-ab99-4166-9d96-8315e4f762dc][Iron Wings of Justice]] megaship in the [[id:e6642097-b88c-4190-a597-c3f919ff69fc][Ts'ao Tach]] system.
 
-The Silver Legal Group has been awarded permit control to prevent any further compromise of Federal assets. Pilots without this permit can perform missions for the faction at the Iron Wings of Justice megaship in Ts'ao Tach to access the [[id:e1b0c446-0ced-475c-9031-a57e5e3c414f][HIP 54530]] system.  
+The [[id:46db368a-cb8f-4246-9663-96bd2d3b0402][Silver Legal Group]] has been awarded permit control to prevent any
+further compromise of Federal assets. Pilots without this permit can
+perform missions for the faction at the [[id:e65ce81f-ab99-4166-9d96-8315e4f762dc][Iron Wings of Justice]] megaship
+in [[id:e6642097-b88c-4190-a597-c3f919ff69fc][Ts'ao Tach]] to access the [[id:e1b0c446-0ced-475c-9031-a57e5e3c414f][HIP 54530]] system.
 
-Remnants of Jupiter Division confirmed that despite their defeat, all those who sided with them during the conflict will be reimbursed at the Victory’s Forge megaship in the HIP 55014 system. 
+Remnants of [[id:a35c5eb2-0697-4ef3-9a11-950791952e2d][Jupiter Division]] confirmed that despite their defeat, all
+those who sided with them during the conflict will be reimbursed at
+the [[id:2e30a72a-0599-4b3f-9fdc-cb8e72178cea][Victory’s Forge]] megaship in the [[id:daa4fafc-f97f-4e83-b66a-0fb5dea1f732][HIP 55014]] system.
 
-The Federal Intelligence Agency has taken [[id:c33064d1-c2a0-4ac3-89fe-57eedb7ef9c8][Jupiter Rochester]] into custody, where he will be charged for his involvement in the destruction of Starship One in 3301. Thousands of his loyalist followers have also been apprehended, and the return of stolen Core Dynamics ships and resources is being arranged.
+The [[id:d75a6c3f-5c3a-418b-b639-5e14b487f568][Federal Intelligence Agency]] has taken [[id:c33064d1-c2a0-4ac3-89fe-57eedb7ef9c8][Jupiter Rochester]] into
+custody, where he will be charged for his involvement in the
+destruction of [[id:85fdc9c8-500b-4e91-bc8b-70bcb3c05b0f][Starship One]] in 3301. Thousands of his loyalist
+followers have also been apprehended, and the return of stolen [[id:4a28463f-cbed-493b-9466-70cbc6e19662][Core
+Dynamics]] ships and resources is being arranged.

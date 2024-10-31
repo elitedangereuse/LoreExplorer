@@ -5,17 +5,17 @@
 #+title: Core Dynamics Purchases Lakon Spaceways
 #+filetags: :3307:Federation:Alliance:galnet:
 
-* Core Dynamics Purchases Lakon Spaceways
+* [[id:4a28463f-cbed-493b-9466-70cbc6e19662][Core Dynamics]] Purchases [[id:906c77b7-7fe4-48c1-ace5-1265023c2ebf][Lakon Spaceways]]
 
 /05 Jan 3307/
 
-The shipbuilding company Lakon Spaceways has officially accepted a bid for ownership from Federal corporation Core Dynamics. 
+The shipbuilding company [[id:906c77b7-7fe4-48c1-ace5-1265023c2ebf][Lakon Spaceways]] has officially accepted a bid for ownership from Federal corporation [[id:4a28463f-cbed-493b-9466-70cbc6e19662][Core Dynamics]]. 
 
-The proposal from Core Dynamics CEO [[id:c33064d1-c2a0-4ac3-89fe-57eedb7ef9c8][Jupiter Rochester]] was ratified following a majority vote by Lakon’s board of directors, many of whom were recently appointed following resignations demanded by shareholders. 
+The proposal from [[id:4a28463f-cbed-493b-9466-70cbc6e19662][Core Dynamics]] CEO [[id:c33064d1-c2a0-4ac3-89fe-57eedb7ef9c8][Jupiter Rochester]] was ratified following a majority vote by Lakon’s board of directors, many of whom were recently appointed following resignations demanded by shareholders. 
 
 Trent Delaney, the new chairperson, confirmed the merger in a public statement: 
 
-“We are overjoyed that Lakon Spaceways will join the Core Dynamics family, thereby overturning the mistakes of the previous management and setting us on course for a bright future.” 
+“We are overjoyed that [[id:906c77b7-7fe4-48c1-ace5-1265023c2ebf][Lakon Spaceways]] will join the [[id:4a28463f-cbed-493b-9466-70cbc6e19662][Core Dynamics]] family, thereby overturning the mistakes of the previous management and setting us on course for a bright future.” 
 
 “The transfer of ownership will take another two months to formalise. In that time, it will be business as usual for the manufacture and sale of our ships.” 
 

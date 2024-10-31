@@ -5,20 +5,20 @@
 #+title: Uncertainty Hits Takeover of Lakon Spaceways
 #+filetags: :3307:Federation:Alliance:galnet:
 
-* Uncertainty Hits Takeover of Lakon Spaceways
+* Uncertainty Hits Takeover of [[id:906c77b7-7fe4-48c1-ace5-1265023c2ebf][Lakon Spaceways]]
 
 /15 Jan 3307/
 
-The purchase of shipbuilding company Lakon Spaceways by Core Dynamics is in doubt after allegations of illegal business practices. 
+The purchase of shipbuilding company [[id:906c77b7-7fe4-48c1-ace5-1265023c2ebf][Lakon Spaceways]] by [[id:4a28463f-cbed-493b-9466-70cbc6e19662][Core Dynamics]] is in doubt after allegations of illegal business practices. 
 
 Irfan Karim reported on the recent developments for The Alliance Tribune: 
 
-“The Independent Commission for Market Equality has confirmed that several Lakon shareholders sold their stock to shell companies, which were covertly established by departments within Core Dynamics. Furthermore, two serious accusations of blackmail have been referred to Alliance Interpol.” 
+“The Independent Commission for Market Equality has confirmed that several Lakon shareholders sold their stock to shell companies, which were covertly established by departments within [[id:4a28463f-cbed-493b-9466-70cbc6e19662][Core Dynamics]]. Furthermore, two serious accusations of blackmail have been referred to Alliance Interpol.” 
 
 “Trent Delaney, Lakon’s newly installed chairperson, has dismissed these claims. But coupled with serious rumblings from the Council of Admirals over losing a military supplier, this hostile takeover now looks less certain.” 
 
 In the Federation, the newsfeed [[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]] Today ran an editorial piece on the situation: 
 
-“Acquiring Lakon is another bold triumph for manufacturing colossus Core Dynamics. It’s a shame that it’s being undermined by the petty bureaucrats of the Alliance, who should be gratefully grasping this financial lifeline.” 
+“Acquiring Lakon is another bold triumph for manufacturing colossus [[id:4a28463f-cbed-493b-9466-70cbc6e19662][Core Dynamics]]. It’s a shame that it’s being undermined by the petty bureaucrats of the Alliance, who should be gratefully grasping this financial lifeline.” 
 
 “It’s also laughable that CEO [[id:c33064d1-c2a0-4ac3-89fe-57eedb7ef9c8][Jupiter Rochester]], one of our titans of industry, is being stabbed in the back by old-fashioned colleagues who are clearly jealous of his success. Perhaps his ‘Jupiter Division’ has finally outgrown the corporation and deserves to forge its own path.”

@@ -2,14 +2,14 @@
 :ID:       de026d2c-5e61-4804-a197-31bd6b3df11c
 :ROAM_REFS: https://cms.zaonce.net/en-GB/jsonapi/node/galnet_article/bb133a10-302d-44f0-bcee-982bfb17e436?resourceVersion=id%3A4895
 :END:
-#+title: Galactic Summit Proposal from Sirius Corporation
+#+title: Galactic Summit Proposal from Sirius Corp.ration
 #+filetags: :3307:Federation:Empire:Alliance:galnet:
 
-* Galactic Summit Proposal from [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Corporation
+* Galactic Summit Proposal from [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]]
 
 /18 Jan 3307/
 
-Utopia’s ability to host a diplomatic conference for all three superpowers has been challenged by the [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Corporation. 
+Utopia’s ability to host a diplomatic conference for all three superpowers has been challenged by the [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]]. 
 
 The megacorp’s counter-proposal was announced by CEO [[id:f0655b3a-aca9-488f-bdb3-c481a42db384][Li Yong-Rui]]: 
 

@@ -1,9 +1,9 @@
 :PROPERTIES:
 :ID:       fc7f763c-26e9-4182-8f8f-1e58ea44746b
 :END:
-#+title: Sirius Corporation Founding
+#+title: Sirius Corp.ration Founding
 #+filetags: :Federation:Empire:beacon:
-* 0179 [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Corporation Founding
+* 0179 [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]] Founding
 [[id:c1b228e7-30f2-4b43-800f-387108776633][Sirius]]
 
 By 2200 corporations had a stranglehold on a great many aspects of

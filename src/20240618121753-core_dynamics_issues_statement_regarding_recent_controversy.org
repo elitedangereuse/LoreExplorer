@@ -4,13 +4,13 @@
 #+title: Core Dynamics Issues Statement Regarding Recent Controversy
 #+filetags: :3301:Federation:galnet:
 
-* Core Dynamics Issues Statement Regarding Recent Controversy
+* [[id:4a28463f-cbed-493b-9466-70cbc6e19662][Core Dynamics]] Issues Statement Regarding Recent Controversy
 
 /02 Sep 3301/
 
 Core Dynamics Issues Statement Regarding Recent Controversy 
  
-Yesterday’s revelations from the Federal Times concerning an alleged connection between a high ranking member of the Core Dynamics board and the Highliner Antares incident have finally prompted an official response from the ship manufacturer. 
+Yesterday’s revelations from the Federal Times concerning an alleged connection between a high ranking member of the [[id:4a28463f-cbed-493b-9466-70cbc6e19662][Core Dynamics]] board and the Highliner Antares incident have finally prompted an official response from the ship manufacturer. 
 
 “Core Dynamics takes the safety of space flight very seriously and would never deliberately act to jeopardise our own or any other corporations’ development. It is hard to accept that anyone from our company would act in such a manner. Given the gravity of the accusations the accused non-executive board member has agreed to step aside while we investigate. We have requested that the Federal Times share their information with us so that a full investigation into the matter can be carried out.” 
 
@@ -18,4 +18,4 @@ Congressman [[id:a52957f3-c3b8-4821-80b9-81db21637b70][George Fallside]] is the 
 
 “Any impropriety by any member of the board will be fully investigated. I cannot comment on Vice President [[id:4bbbdc51-22ca-4f2c-b775-0e4d3b86bb4a][Nigel Smeaton]]’s death. My understanding it that has already been investigated by the relevant authorities.” 
 
-The Chief Editor for the Federal Times confirmed that they would share the information they had with the [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Corporation, Core Dynamics and appropriate law enforcement agencies.
+The Chief Editor for the Federal Times confirmed that they would share the information they had with the [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]], [[id:4a28463f-cbed-493b-9466-70cbc6e19662][Core Dynamics]] and appropriate law enforcement agencies.

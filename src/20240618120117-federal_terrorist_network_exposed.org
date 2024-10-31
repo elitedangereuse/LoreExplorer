@@ -14,7 +14,7 @@ Deputy Director Bethany Blake of the Federal Intelligence Agency gave a statemen
 
 “In recent weeks, our surveillance algorithms flagged a series of coded communications for investigation. We found that a network of radicalised citizens were discussing plans to assassinate members of Congress and leading political figures.” 
 
-“This movement, which calls itself Jupiter’s Wrath, is inspired by [[id:c33064d1-c2a0-4ac3-89fe-57eedb7ef9c8][Jupiter Rochester]]’s failed attempt to enable corporations to directly rule the Federation. Their goal was to enact revenge on those who they consider to be the ‘enemies of Jupiter Division’.” 
+“This movement, which calls itself Jupiter’s Wrath, is inspired by [[id:c33064d1-c2a0-4ac3-89fe-57eedb7ef9c8][Jupiter Rochester]]’s failed attempt to enable corporations to directly rule the Federation. Their goal was to enact revenge on those who they consider to be the ‘enemies of [[id:a35c5eb2-0697-4ef3-9a11-950791952e2d][Jupiter Division]]’.” 
 
 “Using data intercepted by the Proactive Detection Bureau, FIA agents performed a series of coordinated strikes in several Federal systems. Over a thousand armed extremists were arrested before they could act. We are currently working to identify the remaining Jupiter’s Wrath members.” 
 

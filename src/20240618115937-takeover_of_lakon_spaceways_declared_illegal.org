@@ -5,18 +5,34 @@
 #+title: Takeover of Lakon Spaceways Declared Illegal
 #+filetags: :3301:3307:Federation:galnet:
 
-* Takeover of Lakon Spaceways Declared Illegal
+* Takeover of [[id:906c77b7-7fe4-48c1-ace5-1265023c2ebf][Lakon Spaceways]] Declared Illegal
 
 /10 Feb 3307/
 
-The acquisition of Lakon Spaceways by Core Dynamics has been revoked following revelations of illegal activity. 
+The acquisition of [[id:906c77b7-7fe4-48c1-ace5-1265023c2ebf][Lakon Spaceways]] by [[id:4a28463f-cbed-493b-9466-70cbc6e19662][Core Dynamics]] has been revoked
+following revelations of illegal activity.
 
-An inquiry by the Independent Commission for Market Equality stated that former Core Dynamics CEO [[id:c33064d1-c2a0-4ac3-89fe-57eedb7ef9c8][Jupiter Rochester]] “exerted unduly influence on Lakon shareholders, including bribery and blackmail”. This led to new appointees to the board of directors, who were paid to approve the hostile takeover. 
+An inquiry by the [[id:3433e961-0876-44ad-81e6-ac5111ea5e1b][Independent Commission for Market Equality]] stated
+that former [[id:4a28463f-cbed-493b-9466-70cbc6e19662][Core Dynamics]] CEO [[id:c33064d1-c2a0-4ac3-89fe-57eedb7ef9c8][Jupiter Rochester]] “exerted unduly
+influence on Lakon shareholders, including [[id:5d28c2d0-e5ac-4882-94e2-fb28bb874905][bribery]] and
+[[id:f1778ba6-dab1-442b-88ff-1dfe06ee2616][blackmail]]”. This led to new appointees to the board of directors, who
+were paid to approve the hostile takeover.
 
-The inquiry also factored in the recent Federal High Court trial, which proved that [[id:c33064d1-c2a0-4ac3-89fe-57eedb7ef9c8][Jupiter Rochester]] was directly responsible for the destruction of Starship One in 3301. In both cases, he set up shell companies to move enormous funds via unregistered banking systems. 
+The inquiry also factored in the recent [[id:032a6bf8-b11f-4657-94bd-ca55d9b4adbc][Federal High Court]] trial,
+which proved that [[id:c33064d1-c2a0-4ac3-89fe-57eedb7ef9c8][Jupiter Rochester]] was directly responsible for the
+destruction of [[id:85fdc9c8-500b-4e91-bc8b-70bcb3c05b0f][Starship One]] in 3301. In both cases, he set up shell
+companies to move enormous funds via unregistered banking systems.
 
-Core Dynamics refused to comment on the allegations, but its legal team has terminated the transfer process. The entire corporation is currently in disarray due to several departments becoming an independent faction under the name Jupiter Division. 
+[[id:4a28463f-cbed-493b-9466-70cbc6e19662][Core Dynamics]] refused to comment on the allegations, but its legal
+team has terminated the transfer process. The entire corporation is
+currently in disarray due to several departments becoming an
+independent faction under the name [[id:a35c5eb2-0697-4ef3-9a11-950791952e2d][Jupiter Division]].
 
-At Lakon Spaceways, Trent Delaney and several other directors have resigned. During an emergency meeting, a majority of stakeholders approved reinstating Naomi Landseer as chairperson. 
+At [[id:906c77b7-7fe4-48c1-ace5-1265023c2ebf][Lakon Spaceways]], [[id:88ac1950-caa0-4043-96c0-07e33ca7c049][Trent Delaney]] and several other directors have
+resigned. During an emergency meeting, a majority of stakeholders
+approved reinstating [[id:321b3694-38ea-481e-9899-77b5cb951f14][Naomi Landseer]] as chairperson.
 
-With stock values plummeting and industry confidence low, the future of the company remains uncertain. However, [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Corporation confirmed that it has made preliminary offers with regards to acquiring Lakon as a subsidiary.
+With stock values plummeting and industry confidence low, the future
+of the company remains uncertain. However, [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]]
+confirmed that it has made preliminary offers with regards to
+acquiring Lakon as a subsidiary.

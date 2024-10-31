@@ -2,10 +2,10 @@
 :ID:       581ec895-71da-43a9-8c02-055a79c3a2d6
 :ROAM_REFS: https://cms.zaonce.net/en-GB/jsonapi/node/galnet_article/7a001894-ba75-4d92-a175-b853eb6867b8?resourceVersion=id%3A4915
 :END:
-#+title: Sirius Corporation Secures Hosting of Galactic Summit
+#+title: Sirius Corp.ration Secures Hosting of Galactic Summit
 #+filetags: :3307:Federation:Empire:Alliance:galnet:
 
-* [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Corporation Secures Hosting of Galactic Summit
+* [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]] Secures Hosting of Galactic Summit
 
 /28 Jan 3307/
 
@@ -15,13 +15,13 @@ Sirius Corporation has received more data than Utopia and will therefore host th
 
 Both organisations proposed to organise a diplomatic conference for the Alliance, Empire and Federation. After calling on the galactic community to gather data that would support security operations, many pilots handed in anomalous bulk scan data, atypical disrupted wake echoes, exceptional scrambled emission data and unusual encrypted files. 
 
-All three superpower governments confirmed that due to its success in preparing effective security systems, they will accept [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Corporation as the neutral territory for the conference. 
+All three superpower governments confirmed that due to its success in preparing effective security systems, they will accept [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]] as the neutral territory for the conference. 
 
 CEO [[id:f0655b3a-aca9-488f-bdb3-c481a42db384][Li Yong-Rui]] made this announcement: 
 
 “Thank you to all the independent pilots who supported us. [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] will now begin work preparing for the first Galactic Summit, which we hope will increase peace and prosperity across the galaxy.” 
 
-Pilots who delivered to [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Corporation can collect their rewards from Goldstein Port in the Lembava system. 
+Pilots who delivered to [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]] can collect their rewards from Goldstein Port in the Lembava system. 
 
 Simguru [[id:05ab22a7-9952-49a3-bdc0-45094cdaff6a][Pranav Antal]] expressed disappointment, but confirmed that all who contributed to Utopia’s initiative will be rewarded at Tanner Settlement in the Polevnic system.  
 

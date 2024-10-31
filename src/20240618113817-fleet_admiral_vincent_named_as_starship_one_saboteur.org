@@ -4,17 +4,17 @@
 #+title: Fleet Admiral Vincent Named as Starship One Saboteur
 #+filetags: :3301:Federation:galnet:
 
-* Fleet [[id:478137a2-59fc-4055-ba37-021ef7035652][Admiral Vincent]] Named as Starship One Saboteur
+* Fleet [[id:478137a2-59fc-4055-ba37-021ef7035652][Admiral Vincent]] Named as [[id:85fdc9c8-500b-4e91-bc8b-70bcb3c05b0f][Starship One]] Saboteur
 
 /09 Oct 3306/
 
-Fleet Admiral Lucas Vincent, one of the Federal Navy chiefs of staff, has been arrested on charges related to the destruction of Starship One. 
+Fleet Admiral Lucas Vincent, one of the Federal Navy chiefs of staff, has been arrested on charges related to the destruction of [[id:85fdc9c8-500b-4e91-bc8b-70bcb3c05b0f][Starship One]]. 
 
-The trial of Chief Technician Rory Webster was halted by a plea bargain to reveal who ordered him to sabotage Starship One’s hyperdrive in 3301.  
+The trial of Chief Technician Rory Webster was halted by a plea bargain to reveal who ordered him to sabotage [[id:85fdc9c8-500b-4e91-bc8b-70bcb3c05b0f][Starship One]]’s hyperdrive in 3301.  
 
 An update on proceedings was delivered by Milandu Okoro of the Federal Attorney’s Office: 
 
-“Mr Webster provided evidence that Fleet [[id:478137a2-59fc-4055-ba37-021ef7035652][Admiral Vincent]] directly commanded him to arrange for Starship One to suffer the same fate as the Highliner Antares. The orders were allegedly provided on a private channel, accompanied by threats discouraging Mr Webster’s refusal.” 
+“Mr Webster provided evidence that Fleet [[id:478137a2-59fc-4055-ba37-021ef7035652][Admiral Vincent]] directly commanded him to arrange for [[id:85fdc9c8-500b-4e91-bc8b-70bcb3c05b0f][Starship One]] to suffer the same fate as the Highliner Antares. The orders were allegedly provided on a private channel, accompanied by threats discouraging Mr Webster’s refusal.” 
 
 “The trial concluded with the judge summarily convicting the defendant of aiding and abetting mass murder. Chief Technician Webster received a lenient sentence of 20 years in prison, in acknowledgement that he performed criminal acts under duress.” 
 

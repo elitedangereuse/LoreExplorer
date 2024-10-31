@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       daa4fafc-f97f-4e83-b66a-0fb5dea1f732
+:END:
+#+title: HIP 55014
+#+filetags: :System:
+

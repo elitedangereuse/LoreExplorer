@@ -4,22 +4,34 @@
 #+title: Lakon Spaceways HQ Moves to Alioth System
 #+filetags: :3307:Federation:Alliance:galnet:
 
-* Lakon Spaceways HQ Moves to [[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]] System
+* [[id:906c77b7-7fe4-48c1-ace5-1265023c2ebf][Lakon Spaceways]] HQ Moves to [[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]] System
 
 /19 Feb 3307/
 
 *Pilots Federation ALERT* 
 
-The capital system of the Alliance now hosts Lakon’s administrative hub and offers a 5% discount on its ships. 
+The capital system of the Alliance now hosts Lakon’s administrative
+hub and offers a 5% discount on its ships.
 
-The company’s main offices have been relocated to the Lakon Spaceways Central planetary port on [[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]] 1 a.  
+The company’s main offices have been relocated to the [[id:906c77b7-7fe4-48c1-ace5-1265023c2ebf][Lakon Spaceways]]
+Central planetary port on [[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]] 1 a.
 
-All shipyards within the [[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]] system are offering a permanent 5% discount on sales of vessels manufactured by Lakon. Pilots will need to obtain a permit for Alioth to take advantage of this reduction. 
+All shipyards within the [[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]] system are offering a permanent 5%
+discount on sales of vessels manufactured by Lakon. Pilots will need
+to obtain a permit for Alioth to take advantage of this reduction.
 
-Both the move and the discount reflect the Alliance’s recent purchase of a majority sharehold in the company. This was primarily to retain it as a key defence contractor for the [[id:17d9294e-7759-4cf4-9a67-5f12b5704f51][Alliance Defence Force]]. 
+Both the move and the discount reflect the Alliance’s recent purchase
+of a majority sharehold in the company. This was primarily to retain
+it as a key defence contractor for the [[id:17d9294e-7759-4cf4-9a67-5f12b5704f51][Alliance Defence Force]].
 
-Naomi Landseer, chairperson of the board of directors, announced: 
+[[id:321b3694-38ea-481e-9899-77b5cb951f14][Naomi Landseer]], chairperson of the board of directors, announced:
 
-“We are extremely pleased to be partnered with the Alliance, especially after recent tumultuous events. Lakon’s highly regarded ships will remain available across the galaxy.” 
+“We are extremely pleased to be partnered with the Alliance,
+especially after recent tumultuous events. Lakon’s highly regarded
+ships will remain available across the galaxy.”
 
-The attempted takeover of Lakon Spaceways by Core Dynamics was revoked due to revelations of illegal practices by its former CEO, [[id:c33064d1-c2a0-4ac3-89fe-57eedb7ef9c8][Jupiter Rochester]]. Federal news sources have reported that a rapid restructure is taking place within Core Dynamics, alongside investigations by the Federal Intelligence Agency.
+The attempted takeover of [[id:906c77b7-7fe4-48c1-ace5-1265023c2ebf][Lakon Spaceways]] by [[id:4a28463f-cbed-493b-9466-70cbc6e19662][Core Dynamics]] was revoked
+due to revelations of illegal practices by its former CEO, [[id:c33064d1-c2a0-4ac3-89fe-57eedb7ef9c8][Jupiter
+Rochester]]. Federal news sources have reported that a rapid restructure
+is taking place within Core Dynamics, alongside investigations by the
+[[id:d75a6c3f-5c3a-418b-b639-5e14b487f568][Federal Intelligence Agency]].

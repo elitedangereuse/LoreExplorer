@@ -5,20 +5,39 @@
 #+title: Jupiter Rochester Named in Starship One Trial
 #+filetags: :3301:3307:Federation:galnet:
 
-* [[id:c33064d1-c2a0-4ac3-89fe-57eedb7ef9c8][Jupiter Rochester]] Named in Starship One Trial
+* [[id:c33064d1-c2a0-4ac3-89fe-57eedb7ef9c8][Jupiter Rochester]] Named in [[id:85fdc9c8-500b-4e91-bc8b-70bcb3c05b0f][Starship One]] Trial
 
 /05 Feb 3307/
 
-Core Dynamics CEO [[id:c33064d1-c2a0-4ac3-89fe-57eedb7ef9c8][Jupiter Rochester]] has been accused of collaborating with Fleet [[id:478137a2-59fc-4055-ba37-021ef7035652][Admiral Vincent]] to orchestrate Starship One’s destruction in 3301. 
+[[id:4a28463f-cbed-493b-9466-70cbc6e19662][Core Dynamics]] CEO [[id:c33064d1-c2a0-4ac3-89fe-57eedb7ef9c8][Jupiter Rochester]] has been accused of collaborating
+with Fleet [[id:478137a2-59fc-4055-ba37-021ef7035652][Admiral Vincent]] to orchestrate [[id:85fdc9c8-500b-4e91-bc8b-70bcb3c05b0f][Starship One]]’s destruction
+in 3301.
 
 As reported by Ethan Takahashi for [[id:be5df73c-519d-45ed-a541-9b70bc8ae97c][The Federal Times]]: 
 
-“Financial data was presented to the court showing that Vincent, along with others in government and the Federal Navy, received colossal payments via shell companies created by [[id:c33064d1-c2a0-4ac3-89fe-57eedb7ef9c8][Jupiter Rochester]]’s loyalists.” 
+“Financial data was presented to the court showing that [[id:478137a2-59fc-4055-ba37-021ef7035652][Vincent]], along
+with others in government and the [[id:3d268496-1d95-49bc-aca6-49d16a4337c8][Federal Navy]], received colossal
+payments via shell companies created by [[id:c33064d1-c2a0-4ac3-89fe-57eedb7ef9c8][Jupiter Rochester]]’s
+loyalists.”
 
-“The prosecution claimed that Rochester and Vincent were reacting to then-President [[id:a9ccf59f-436e-44df-b041-5020285925f8][Jasmina Halsey]]’s intention to scale back military spending, which would impact Core Dynamics’s profits. They arranged to assassinate her and lay groundwork for [[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][Zachary Hudson]] to be voted into power, knowing that his policies would result in further naval contracts.” 
+“The prosecution claimed that [[id:c33064d1-c2a0-4ac3-89fe-57eedb7ef9c8][Rochester]] and [[id:478137a2-59fc-4055-ba37-021ef7035652][Vincent]] were reacting to
+then-President [[id:a9ccf59f-436e-44df-b041-5020285925f8][Jasmina Halsey]]’s intention to scale back military
+spending, which would impact [[id:4a28463f-cbed-493b-9466-70cbc6e19662][Core Dynamics]]’s profits. They arranged to
+assassinate her and lay groundwork for [[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][Zachary Hudson]] to be voted into
+power, knowing that his policies would result in further naval
+contracts.”
 
-“The defence argued that Halsey’s testimony was unreliable, and that the financial data was obtained via improper methods so should have been inadmissible. It was also pointed out that the Rochester family had many enemies determined to besmirch their reputation.” 
+“The defence argued that Halsey’s testimony was unreliable, and that
+the financial data was obtained via improper methods so should have
+been inadmissible. It was also pointed out that the [[id:3b0c33aa-114d-4dcc-9e04-b5a233157fa1][Rochester family]]
+had many enemies determined to besmirch their reputation.”
 
-“The jury has now been sequestered to determine a verdict. This means they are unaware of media reports that several Core Dynamics departments, known collectively as ‘Jupiter Division’, are transporting ships and personnel to the [[id:e1b0c446-0ced-475c-9031-a57e5e3c414f][HIP 54530]] system.” 
+“The jury has now been sequestered to determine a verdict. This means
+they are unaware of media reports that several [[id:4a28463f-cbed-493b-9466-70cbc6e19662][Core Dynamics]]
+departments, known collectively as ‘Jupiter Division’, are
+transporting ships and personnel to the [[id:e1b0c446-0ced-475c-9031-a57e5e3c414f][HIP 54530]] system.”
 
-Other sources confirmed that the [[id:e1b0c446-0ced-475c-9031-a57e5e3c414f][HIP 54530]] Gold Universal Group has officially assumed the name Jupiter Division, suggesting that it was heavily infiltrated by Rochester’s loyalists. The faction has retained control of the permit-locked HIP 54530 system.
+Other sources confirmed that the [[id:e1b0c446-0ced-475c-9031-a57e5e3c414f][HIP 54530]] Gold Universal Group has
+officially assumed the name [[id:a35c5eb2-0697-4ef3-9a11-950791952e2d][Jupiter Division]], suggesting that it was
+heavily infiltrated by Rochester’s loyalists. The faction has retained
+control of the permit-locked HIP 54530 system.

@@ -8,14 +8,30 @@
 
 /15 Feb 3307/
 
-Federal citizens are in uproar after the former CEO of Core Dynamics was revealed to have destroyed Starship One to increase company profits. 
+Federal citizens are in uproar after the former CEO of [[id:4a28463f-cbed-493b-9466-70cbc6e19662][Core Dynamics]]
+was revealed to have destroyed [[id:85fdc9c8-500b-4e91-bc8b-70bcb3c05b0f][Starship One]] to increase company
+profits.
 
-The trial of Fleet [[id:478137a2-59fc-4055-ba37-021ef7035652][Admiral Vincent]] showed that [[id:c33064d1-c2a0-4ac3-89fe-57eedb7ef9c8][Jupiter Rochester]] attempted to replace [[id:a9ccf59f-436e-44df-b041-5020285925f8][Jasmina Halsey]] with [[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][Zachary Hudson]] to secure military contracts with the Federal Navy. 
+The trial of Fleet [[id:478137a2-59fc-4055-ba37-021ef7035652][Admiral Vincent]] showed that [[id:c33064d1-c2a0-4ac3-89fe-57eedb7ef9c8][Jupiter Rochester]]
+attempted to replace [[id:a9ccf59f-436e-44df-b041-5020285925f8][Jasmina Halsey]] with [[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][Zachary Hudson]] to secure
+military contracts with the Federal Navy.
 
-The Federal Intelligence Agency has arrested several co-conspirators, but its investigation is hampered by [[id:c33064d1-c2a0-4ac3-89fe-57eedb7ef9c8][Jupiter Rochester]] loyalists splitting away from Core Dynamics. His new independent faction, Jupiter Division, has engaged in conflict against Federal forces in the [[id:e1b0c446-0ced-475c-9031-a57e5e3c414f][HIP 54530]] system. 
+The [[id:d75a6c3f-5c3a-418b-b639-5e14b487f568][Federal Intelligence Agency]] has arrested several co-conspirators,
+but its investigation is hampered by [[id:c33064d1-c2a0-4ac3-89fe-57eedb7ef9c8][Jupiter Rochester]] loyalists
+splitting away from [[id:4a28463f-cbed-493b-9466-70cbc6e19662][Core Dynamics]]. His new independent faction,
+[[id:a35c5eb2-0697-4ef3-9a11-950791952e2d][Jupiter Division]], has engaged in conflict against Federal forces in
+the [[id:e1b0c446-0ced-475c-9031-a57e5e3c414f][HIP 54530]] system.
 
-President Hudson has claimed ignorance of the assassination plot, but public opinion polls show a decrease of trust in the Republican Party. Many have voiced anger at such corruption at the heart of the Federation, calling for further investigations into the corporate sector’s influence on government. 
+[[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][President Hudson]] has claimed ignorance of the [[id:a8068e9d-6706-47da-a19c-2ac943ea8811][assassination]] plot, but
+public opinion polls show a decrease of trust in the [[id:5f587ce0-8fb6-4535-aadf-e2f11154e6f6][Republican
+Party]]. Many have voiced anger at such corruption at the heart of the
+Federation, calling for further investigations into the corporate
+sector’s influence on government.
 
-Political embarrassment has also affected the Liberal Party, with Shadow Vice President [[id:cdb2224f-eb0b-45d0-b37f-9daccae07c32][Isolde Rochester]] attempting to distance herself from her eldest son: 
+Political embarrassment has also affected the [[id:4cfca8e0-b6a6-4e86-b777-4754f914fa3e][Liberal Party]], with
+Shadow Vice President [[id:cdb2224f-eb0b-45d0-b37f-9daccae07c32][Isolde Rochester]] attempting to distance herself
+from her eldest son:
 
-“Jupiter’s horrendous actions were his alone, made completely without our knowledge. My whole family is appalled at his illegal activity. We have offered to aid the authorities in bringing him to justice.”
+“[[id:c33064d1-c2a0-4ac3-89fe-57eedb7ef9c8][Jupiter]]’s horrendous actions were his alone, made completely without
+our knowledge. My whole family is appalled at his illegal activity. We
+have offered to aid the authorities in bringing him to justice.”

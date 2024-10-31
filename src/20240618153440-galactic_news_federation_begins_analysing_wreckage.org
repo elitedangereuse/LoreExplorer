@@ -8,10 +8,10 @@
 
 /04 Feb 3302/
 
-Over the past week, hundreds of pilots have been searching for signs of Starship One, the Federal presidential vessel that disappeared in May 3301. Two factions had a stake in the search – the [[id:442e6f9a-19d8-48e2-9fb6-a6cb88b22c45][Azaleach]] Partnership, which was acting on behalf of Federal President [[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][Zachary Hudson]], and the Daurtu Jet Comms PLC, an organisation about which very little is known. 
+Over the past week, hundreds of pilots have been searching for signs of [[id:85fdc9c8-500b-4e91-bc8b-70bcb3c05b0f][Starship One]], the Federal presidential vessel that disappeared in May 3301. Two factions had a stake in the search – the [[id:442e6f9a-19d8-48e2-9fb6-a6cb88b22c45][Azaleach]] Partnership, which was acting on behalf of Federal President [[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][Zachary Hudson]], and the Daurtu Jet Comms PLC, an organisation about which very little is known. 
 
 Today, the Federation announced it had received a sizeable quantity of debris. In a statement, President Hudson expressed his satisfaction at the outcome: 
 
-"I would like to thank the galactic community for its enthusiastic participation in the search for Starship One. Thousands of tonnes of debris have been delivered to the Federal research outpost at Leoniceno Orbital, which we will now subject to comprehensive spectral analysis. As for Daurtu Jet Comms PLC, I do not know what interest it has in Starship One, but I would remind them that the Federation takes a dim view of those who meddle in its affairs." 
+"I would like to thank the galactic community for its enthusiastic participation in the search for [[id:85fdc9c8-500b-4e91-bc8b-70bcb3c05b0f][Starship One]]. Thousands of tonnes of debris have been delivered to the Federal research outpost at Leoniceno Orbital, which we will now subject to comprehensive spectral analysis. As for Daurtu Jet Comms PLC, I do not know what interest it has in Starship One, but I would remind them that the Federation takes a dim view of those who meddle in its affairs." 
 
 Although Daurtu Jet Comms PLC offered larger rewards for wreckage than the Federation, it is understood to have received only a modest amount of space-borne debris. Given the failure of the organisation's appeal, we may never know why Daurtu Jet Comms PLC was looking for the lost presidential ship.

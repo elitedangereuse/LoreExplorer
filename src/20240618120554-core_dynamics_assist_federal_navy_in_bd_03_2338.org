@@ -4,7 +4,7 @@
 #+title: Core Dynamics Assist Federal Navy in BD+03 2338
 #+filetags: :3301:Federation:galnet:
 
-* Core Dynamics Assist Federal Navy in BD+03 2338
+* [[id:4a28463f-cbed-493b-9466-70cbc6e19662][Core Dynamics]] Assist Federal Navy in BD+03 2338
 
 /27 Feb 3301/
 
@@ -12,4 +12,4 @@ Core Dynamics is pleased to declare the launch of a new stage in their partnersh
 
 Rumours suggest that funding for this project is coming from an unidentified corporate super PAC, who is believed to be the same group that were previously involved in helping Shadow President Hudson gain office. 
 
-Pilots interested in helping with the construction of the new vessel should seek out Core Dynamics representatives aboard Hudson Dock to find out what materials the company’s engineers are currently looking to source.
+Pilots interested in helping with the construction of the new vessel should seek out [[id:4a28463f-cbed-493b-9466-70cbc6e19662][Core Dynamics]] representatives aboard Hudson Dock to find out what materials the company’s engineers are currently looking to source.

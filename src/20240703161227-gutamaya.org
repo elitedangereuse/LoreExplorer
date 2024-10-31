@@ -14,7 +14,7 @@
 #+end_quote
 
 Ship manufacturer Gutamaya enjoys a supply agreement with the Empire
-similar to that between Core Dynamics and the Federation. Gutamaya is a
+similar to that between [[id:4a28463f-cbed-493b-9466-70cbc6e19662][Core Dynamics]] and the Federation. Gutamaya is a
 far younger company, however, and was in fact created by the Empire. The
 company's ships are considered to embody Imperial opulence, and are
 instantly recognisable for their sleek contours and distinctive

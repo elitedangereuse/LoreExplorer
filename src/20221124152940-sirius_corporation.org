@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       aae70cda-c437-4ffa-ac0a-39703b6aa15a
 :END:
-#+title: Sirius Corporation
+#+title: Sirius Corp.ration
 #+filetags: :Federation:Empire:Corporation:
 
 * Business
@@ -12,7 +12,7 @@
   - [[id:f9515545-c736-42cc-88ec-f3f269afd1b8][Hyperdrive]]
   - [[id:46a9c980-af48-4e43-a820-9971d7c76c34][Frame Shift Drive]]
 
-* The [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Corporation
+* The [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]]
 
 #+begin_quote
 
@@ -22,9 +22,9 @@
 #+end_quote
 
 Of all the mega-corporations to dominate civilised space, none compare
-to the wealth and influence of the [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Corporation.
+to the wealth and influence of the [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]].
 
-The rise of the [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Corporation began in 2339, when the organisation
+The rise of the [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]] began in 2339, when the organisation
 launched a corporate colonisation mission -- the first of its kind -- to
 the [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] system. From there, the corporation went on to become the
 lead supplier of fuel and technologies to both the Empire and the
@@ -55,7 +55,7 @@ heights.
 Today, the corporation has multiple divisions, many of them giant
 conglomerates themselves, but its primary focus remains the manufacture
 of fusion reactors, hyperdrives and hyperdrive fuels. This division
-still operates under the banner of the [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Corporation, although
+still operates under the banner of the [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]], although
 technically it is conducted by [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Hyperdrives, with the parent
 corporation acting as a holding company.
 
@@ -67,7 +67,7 @@ waste-processing reactors. [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] P
 10-kilowatt devices to 100-gigawatt plants for industrial facilities and
 atmospheric processors.
 
-The [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Corporation maintains a large private fleet with which to
+The [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]] maintains a large private fleet with which to
 defend its interests. The majority of its ships are supplied by
 Gutamaya, although a proportion are manufactured under licence in
 Sirius's own shipyards.

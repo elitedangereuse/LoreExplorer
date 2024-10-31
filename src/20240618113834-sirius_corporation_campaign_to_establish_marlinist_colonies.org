@@ -2,10 +2,10 @@
 :ID:       08e8253a-bd18-45f3-a5db-c56b1e11d4aa
 :ROAM_REFS: https://cms.zaonce.net/en-GB/jsonapi/node/galnet_article/d5785c1d-48cb-4ec0-8753-5a4bfa5fe712?resourceVersion=id%3A4775
 :END:
-#+title: Sirius Corporation Campaign to Establish Marlinist Colonies
+#+title: Sirius Corp.ration Campaign to Establish Marlinist Colonies
 #+filetags: :Federation:Empire:galnet:
 
-* [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Corporation Campaign to Establish Marlinist Colonies
+* [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]] Campaign to Establish Marlinist Colonies
 
 /10 Dec 3306/
 
@@ -15,7 +15,7 @@ Commodities are requested to create new settlements for Marlinist refugees who f
 
 Sirius Corporation has offered to resolve the current standoff between superpowers by establishing colonies where the refugees can live independently. 
 
-Li Yong-Rui, CEO of [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Corporation, summarised his proposal: 
+Li Yong-Rui, CEO of [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]], summarised his proposal: 
 
 “It is clear that the Marlinists cannot return to the Empire, and are a destabilising presence within the Federation. We offer an alternative by constructing permanent habitats for their population. These will be self-governed and may freely trade with the galactic community.” 
 

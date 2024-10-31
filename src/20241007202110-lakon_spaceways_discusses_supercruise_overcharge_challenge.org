@@ -3,15 +3,15 @@
 :END:
 #+title: Lakon Spaceways Discusses Supercruise Overcharge Challenge
 #+filetags: :galnet:
-* Lakon Spaceways Discusses Supercruise Overcharge Challenge
+* [[id:906c77b7-7fe4-48c1-ace5-1265023c2ebf][Lakon Spaceways]] Discusses Supercruise Overcharge Challenge
 
 /30 Jul 3310/
 
-A shareholder's function hosted by Lakon Spaceways has revealed further details of its recently announced Type-8 trader. 
+A shareholder's function hosted by [[id:906c77b7-7fe4-48c1-ace5-1265023c2ebf][Lakon Spaceways]] has revealed further details of its recently announced Type-8 trader. 
 
-Several hundred individuals with significant financial ties to the ship development corporation gathered at Lakon Spaceways Central on [[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]] 1 a. The stylish presentation of the Type-8 was met with enthusiastic applause, with one attendee claiming the ship should prove ‘remarkably capable’ in its position as a specialised medium freighter. 
+Several hundred individuals with significant financial ties to the ship development corporation gathered at [[id:906c77b7-7fe4-48c1-ace5-1265023c2ebf][Lakon Spaceways]] Central on [[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]] 1 a. The stylish presentation of the Type-8 was met with enthusiastic applause, with one attendee claiming the ship should prove ‘remarkably capable’ in its position as a specialised medium freighter. 
 
-Chairperson Naomi Landseer discussed the design challenges posed by the recently released SCO Frame Shift Drive: 
+Chairperson [[id:321b3694-38ea-481e-9899-77b5cb951f14][Naomi Landseer]] discussed the design challenges posed by the recently released SCO Frame Shift Drive: 
 
 “Lakon invested heavily in research and design initiatives to incorporate Achilles’ frame shift drive variant. The drive's potential to accelerate in-system travel goes beyond anything previously imagined. We had to ensure Lakon could provide a design capable of minimising the incredible stress placed on ships by the supercruise overcharge tech.” 
 

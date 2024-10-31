@@ -18,7 +18,7 @@ Sol Today: “We can all see what will happen as soon as the Thargoids have been
 
 Federal Free Press: “The government’s focus on [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]] means that vital domestic issues are being ignored. Our economy is still geared toward military spending rather than helping those families and communites who rely on state support.” 
 
-Old Worlds Gazette: “Cooperating with [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Corporation to harvest meta-alloys in the Coalsack Nebula was the primary cause of increased hostility from the Thargoids. Is the Alliance responsible for providing the conditions that allowed [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]] to obtain such power?” 
+Old Worlds Gazette: “Cooperating with [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]] to harvest meta-alloys in the Coalsack Nebula was the primary cause of increased hostility from the Thargoids. Is the Alliance responsible for providing the conditions that allowed [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]] to obtain such power?” 
 
 The Tau Ceti Journal: “Senior figures in the business sector are concerned that [[id:e68a5318-bd72-4c92-9f70-dcdbd59505d1][Azimuth Biotech]], despite some recent market uncertainty, has the potential to become the most influential corporation with all three superpowers. Its success in the [[id:55088d83-4221-44fa-a9d5-6ebb0866c722][HIP 22460]] system could reshape the financial markets considerably.” 
 

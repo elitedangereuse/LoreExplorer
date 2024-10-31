@@ -5,7 +5,7 @@
 #+title: Lakon Spaceways Discounts Selected Ships
 #+filetags: :Federation:Alliance:galnet:
 
-* Lakon Spaceways Discounts Selected Ships
+* [[id:906c77b7-7fe4-48c1-ace5-1265023c2ebf][Lakon Spaceways]] Discounts Selected Ships
 
 /07 Dec 3306/
 
@@ -27,8 +27,8 @@ Type-10 Defender
 
 The reduced prices are expected to last until the 30th of December 3306. 
 
-Some industry analysts believe this is an attempt to increase short-term payouts for Lakon’s shareholders, many of whom have complained about falling dividends. Other investors have publicly pressured the company to accept a takeover bid from the Federal corporation Core Dynamics. 
+Some industry analysts believe this is an attempt to increase short-term payouts for Lakon’s shareholders, many of whom have complained about falling dividends. Other investors have publicly pressured the company to accept a takeover bid from the Federal corporation [[id:4a28463f-cbed-493b-9466-70cbc6e19662][Core Dynamics]]. 
 
-These issues were addressed by Naomi Landseer, chairperson of Lakon’s board of directors: 
+These issues were addressed by [[id:321b3694-38ea-481e-9899-77b5cb951f14][Naomi Landseer]], chairperson of Lakon’s board of directors: 
 
-“It is true that profit margins are not as impressive as in previous years, but we can assure all stakeholders and customers that Lakon Spaceways remains financially secure. We project an upswing in military contracts during this turbulent time, and our achievements on behalf of the Alliance position us as one of the galaxy’s premiere shipbuilders.”
+“It is true that profit margins are not as impressive as in previous years, but we can assure all stakeholders and customers that [[id:906c77b7-7fe4-48c1-ace5-1265023c2ebf][Lakon Spaceways]] remains financially secure. We project an upswing in military contracts during this turbulent time, and our achievements on behalf of the Alliance position us as one of the galaxy’s premiere shipbuilders.”

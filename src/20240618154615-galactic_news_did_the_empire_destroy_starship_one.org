@@ -4,13 +4,13 @@
 #+title: Galactic News: Did the Empire Destroy Starship One?
 #+filetags: :Empire:Federation:3302:galnet:
 
-* Galactic News: Did the Empire Destroy Starship One?
+* Galactic News: Did the Empire Destroy [[id:85fdc9c8-500b-4e91-bc8b-70bcb3c05b0f][Starship One]]?
 
 /15 Apr 3302/
 
-Tensions between the Federation and the Empire look likely to increase following an announcement from Federal politician [[id:84361db2-f12f-4133-9e88-25afaef8a066][Jacob Harris]]. In a statement released to [[id:be5df73c-519d-45ed-a541-9b70bc8ae97c][The Federal Times]], Harris claimed that the destruction of Starship One was not the result of mechanical failure, as was widely reported, but was in fact the result of deliberate sabotage by Imperial agents. 
+Tensions between the Federation and the Empire look likely to increase following an announcement from Federal politician [[id:84361db2-f12f-4133-9e88-25afaef8a066][Jacob Harris]]. In a statement released to [[id:be5df73c-519d-45ed-a541-9b70bc8ae97c][The Federal Times]], Harris claimed that the destruction of [[id:85fdc9c8-500b-4e91-bc8b-70bcb3c05b0f][Starship One]] was not the result of mechanical failure, as was widely reported, but was in fact the result of deliberate sabotage by Imperial agents. 
 
-"I cannot identify my sources for fear of compromising their safety," said Harris, "but I can assure you that their information is correct. Starship One was destroyed by the Empire in an attempt to destabilise the Federal power base. It was made to look like an accident – the official Federal investigation even concluded it was an accident – but it most certainly was not." 
+"I cannot identify my sources for fear of compromising their safety," said Harris, "but I can assure you that their information is correct. [[id:85fdc9c8-500b-4e91-bc8b-70bcb3c05b0f][Starship One]] was destroyed by the Empire in an attempt to destabilise the Federal power base. It was made to look like an accident – the official Federal investigation even concluded it was an accident – but it most certainly was not." 
 
 Imperial officials were quick to condemn Harris's claims, citing both his lack of evidence and his reluctance to reveal his sources. Among those voicing scepticism was Senator [[id:d8e3667c-3ba1-43aa-bc90-dac719c6d5e7][Zemina Torval]]. 
 

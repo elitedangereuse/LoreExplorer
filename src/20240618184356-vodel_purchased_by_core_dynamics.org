@@ -4,15 +4,15 @@
 #+title: Vodel Purchased by Core Dynamics
 #+filetags: :Federation:galnet:
 
-* Vodel Purchased by Core Dynamics
+* Vodel Purchased by [[id:4a28463f-cbed-493b-9466-70cbc6e19662][Core Dynamics]]
 
 /19 Apr 3305/
 
-Vodel is a familiar name to many, the independent company having cornered the market in personal land vehicles in recent years. But according to [[id:be5df73c-519d-45ed-a541-9b70bc8ae97c][The Federal Times]], a downturn in profits has led to the company being purchased by Core Dynamics, a giant in the field of starship manufacture. 
+Vodel is a familiar name to many, the independent company having cornered the market in personal land vehicles in recent years. But according to [[id:be5df73c-519d-45ed-a541-9b70bc8ae97c][The Federal Times]], a downturn in profits has led to the company being purchased by [[id:4a28463f-cbed-493b-9466-70cbc6e19662][Core Dynamics]], a giant in the field of starship manufacture. 
 
 Core Dynamics CEO [[id:c33064d1-c2a0-4ac3-89fe-57eedb7ef9c8][Jupiter Rochester]] gave the following statement to [[id:be5df73c-519d-45ed-a541-9b70bc8ae97c][The Federal Times]]: 
 
-“There’s no question that the Vodel team possesses considerable expertise, and I’m delighted that Core Dynamics was able to help them in their hour of need.” 
+“There’s no question that the Vodel team possesses considerable expertise, and I’m delighted that [[id:4a28463f-cbed-493b-9466-70cbc6e19662][Core Dynamics]] was able to help them in their hour of need.” 
 
 “Vodel’s core team of designers and engineers will remain in place under our roof, so consumers can rest easy – the Scarab they know and love will remain unchanged.” 
 

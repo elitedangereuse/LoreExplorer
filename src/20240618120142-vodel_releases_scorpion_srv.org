@@ -10,7 +10,7 @@
 
 SRV manufacturer Vodel today announced the official release of its new vehicle, the Scorpion. 
 
-The first new mass-production model offered by the company in many years, the Scorpion is designed for combat operations and troop support. It is widely understood that Vodel’s acquisition by Core Dynamics in 3305 triggered the development of the new model, with the parent company’s considerable financial resources made available to Vodel’s engineering teams. 
+The first new mass-production model offered by the company in many years, the Scorpion is designed for combat operations and troop support. It is widely understood that Vodel’s acquisition by [[id:4a28463f-cbed-493b-9466-70cbc6e19662][Core Dynamics]] in 3305 triggered the development of the new model, with the parent company’s considerable financial resources made available to Vodel’s engineering teams. 
 
 Vodel’s chief of design, Frank Endis, gave a speech at the company’s launch event at Levinson Orbital in Bhattra: 
 
@@ -20,6 +20,6 @@ Vodel’s chief of design, Frank Endis, gave a speech at the company’s launch 
 
 Core Dynamics CEO [[id:167df18a-99f8-4279-bc55-a736f6af44c2][Owen McKenna]] also attended the event and was approached for comment: 
 
-“I’m really happy with how hard the Vodel team has worked on this new vehicle. They had clear goals in mind from the start, took Core Dynamics’ feedback on board and kept us updated regularly through the process. I think the acquisition of Vodel was one of the last good decisions [[id:c33064d1-c2a0-4ac3-89fe-57eedb7ef9c8][Jupiter Rochester]] made as head of the company.” 
+“I’m really happy with how hard the Vodel team has worked on this new vehicle. They had clear goals in mind from the start, took [[id:4a28463f-cbed-493b-9466-70cbc6e19662][Core Dynamics]]’ feedback on board and kept us updated regularly through the process. I think the acquisition of Vodel was one of the last good decisions [[id:c33064d1-c2a0-4ac3-89fe-57eedb7ef9c8][Jupiter Rochester]] made as head of the company.” 
 
 The Scorpion SRV is now available to purchase from military economy ports.

@@ -11,14 +11,14 @@
 
 A Federal High Court jury has found Fleet Admiral Lucas Vincent guilty of conspiracy to commit murder and treason. 
 
-The court heard how Vincent worked with Core Dynamics CEO [[id:c33064d1-c2a0-4ac3-89fe-57eedb7ef9c8][Jupiter Rochester]] to sabotage Starship One and assassinate then-President [[id:a9ccf59f-436e-44df-b041-5020285925f8][Jasmina Halsey]], in order to increase military contracts. 
+The court heard how Vincent worked with [[id:4a28463f-cbed-493b-9466-70cbc6e19662][Core Dynamics]] CEO [[id:c33064d1-c2a0-4ac3-89fe-57eedb7ef9c8][Jupiter Rochester]] to sabotage [[id:85fdc9c8-500b-4e91-bc8b-70bcb3c05b0f][Starship One]] and assassinate then-President [[id:a9ccf59f-436e-44df-b041-5020285925f8][Jasmina Halsey]], in order to increase military contracts. 
 
 The Federal Times’s crime correspondent Ethan Takahashi observed: 
 
 “Within minutes of Vincent receiving a life sentence, Federal Intelligence Agency teams arrested several co-conspirators in the Federal Navy along with some government officials.” 
 
-“Jupiter Rochester himself has evaded arrest by fleeing to the [[id:e1b0c446-0ced-475c-9031-a57e5e3c414f][HIP 54530]] system, where loyalists within Core Dynamics are establishing a breakaway faction named Jupiter Division. Industry analysts believe that this corporate split has long been planned, but is being accelerated because of the trial.” 
+“Jupiter Rochester himself has evaded arrest by fleeing to the [[id:e1b0c446-0ced-475c-9031-a57e5e3c414f][HIP 54530]] system, where loyalists within [[id:4a28463f-cbed-493b-9466-70cbc6e19662][Core Dynamics]] are establishing a breakaway faction named [[id:a35c5eb2-0697-4ef3-9a11-950791952e2d][Jupiter Division]]. Industry analysts believe that this corporate split has long been planned, but is being accelerated because of the trial.” 
 
-“Rochester’s responsibility for the Starship One tragedy raises many questions, especially for his powerful family. It will certainly fuel the conspiracy theory that he is a member of a covert group of powerful figures, who manipulate events to benefit the military/industrial complex.” 
+“Rochester’s responsibility for the [[id:85fdc9c8-500b-4e91-bc8b-70bcb3c05b0f][Starship One]] tragedy raises many questions, especially for his powerful family. It will certainly fuel the conspiracy theory that he is a member of a covert group of powerful figures, who manipulate events to benefit the military/industrial complex.” 
 
 “However, a more plausible theory – that [[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][Zachary Hudson]] was responsible – now seems to have been debunked. Nothing presented in court suggested that the president had any involvement in, or knowledge of, the plan to eliminate his predecessor.”

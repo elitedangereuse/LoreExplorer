@@ -1,15 +1,15 @@
 :PROPERTIES:
 :ID:       112bde20-4fef-46cf-a813-b2fcb482eea7
 :END:
-#+title: Sirius Corporation Begins Analysing Wreckage
+#+title: Sirius Corp.ration Begins Analysing Wreckage
 #+filetags: :3301:galnet:
 
-* [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Corporation Begins Analysing Wreckage
+* [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]] Begins Analysing Wreckage
 
 /31 Dec 3301/
 
-Last week, the [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Corporation launched a search for the remains of the Antares, an innovative passenger liner that disappeared during its maiden voyage in 3251. The initiative piqued the interest of the galactic community, and hundreds of independent pilots took part in the search, scouring the galaxy for remains of the lost ship. 
+Last week, the [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]] launched a search for the remains of the Antares, an innovative passenger liner that disappeared during its maiden voyage in 3251. The initiative piqued the interest of the galactic community, and hundreds of independent pilots took part in the search, scouring the galaxy for remains of the lost ship. 
 
-Today, the [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Corporation confirmed that it has received thousands of tonnes of space-borne debris, and that it would soon begin analysing the wreckage to determine its origin. [[id:f0655b3a-aca9-488f-bdb3-c481a42db384][Li Yong-Rui]], CEO of Sirius Gov, released a brief statement to the media: 
+Today, the [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]] confirmed that it has received thousands of tonnes of space-borne debris, and that it would soon begin analysing the wreckage to determine its origin. [[id:f0655b3a-aca9-488f-bdb3-c481a42db384][Li Yong-Rui]], CEO of Sirius Gov, released a brief statement to the media: 
 
 "The galactic community has responded to our appeal with great enthusiasm, and we are extremely grateful to all those who took part in the search. Now we must analyse the debris to determine whether any of the wreckage delivered to us is from the Antares. We will make a further announcement as soon as our analysis is complete. Our hope is that the fate of the Antares will not remain a mystery much longer."

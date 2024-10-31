@@ -30,9 +30,9 @@ close advisor to Alliance Prime Minister [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f
 Halsey claims the profound transformation of her views is the result of
 a visionary experience in which she communicated with benign nonhuman
 life forms -- an episode that allegedly occurred in 3301 following the
-destruction of her vessel, Starship One.
+destruction of her vessel, [[id:85fdc9c8-500b-4e91-bc8b-70bcb3c05b0f][Starship One]].
 
-Prior to the disappearance of Starship One, Halsey's presidency was
+Prior to the disappearance of [[id:85fdc9c8-500b-4e91-bc8b-70bcb3c05b0f][Starship One]], Halsey's presidency was
 unpopular among Federal citizens. Taxes had been raised too many times,
 and her military interventions were seen as heavy handed. A campaign to
 ban the narcotic onionhead went awry when the crops were firebombed,
@@ -43,7 +43,7 @@ lost faith in Halsey and transferred their loyalty to then-Shadow
 President [[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][Zachary Hudson]].
 
 Hudson called for a vote of no confidence in Halsey's government shortly
-after Starship One went missing and achieved an overwhelming victory.
+after [[id:85fdc9c8-500b-4e91-bc8b-70bcb3c05b0f][Starship One]] went missing and achieved an overwhelming victory.
 Though Halsey was later found alive, drifiting in an escape pod,
 suggestions that she might be reinstated as President gained little
 support.
@@ -53,12 +53,12 @@ large degree of acceptance among the galactic community, but even those
 who accept her description of an encounter with nonhuman entities
 suspect there is more to the story than has been made public. Sceptics
 hold that the event presents too many unanswered questions, such as
-precisely what happened to Starship One, as well as offering Halsey a
+precisely what happened to [[id:85fdc9c8-500b-4e91-bc8b-70bcb3c05b0f][Starship One]], as well as offering Halsey a
 suspiciously convenient way out of her failing presidential career.
 
 The most scathing of Halsey's critics condemn her as a traitor and
 defector who was conspiring with [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74][Edmund Mahon]] even before she left the
-Federation, and who staged the Starship One catastrophe as a convoluted
+Federation, and who staged the [[id:85fdc9c8-500b-4e91-bc8b-70bcb3c05b0f][Starship One]] catastrophe as a convoluted
 means of defecting to the Alliance, taking vital Federal intelligence
 with her. Halsey originally addressed these theories by emphasising how
 incompatible they were with her behaviour, citing her efforts to
