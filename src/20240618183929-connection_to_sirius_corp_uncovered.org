@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       c93e9e39-51a4-42a7-8122-3e2e999ab0bf
 :END:
-#+title: Connection to Sirius Corp.Uncovered
+#+title: Connection to Sirius Corp Uncovered
 #+filetags: :3304:galnet:
 
 * Connection to [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Corp Uncovered
