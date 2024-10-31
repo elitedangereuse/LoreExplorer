@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       321edc0d-a216-454d-a103-61b7f43d36b3
 :END:
-#+title: Galactic News: Sirius Corp.ration Enters Merope
+#+title: Galactic News: Sirius Corporation Enters Merope
 #+filetags: :Empire:Federation:3303:galnet:
 
 * Galactic News: [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]] Enters [[id:70fa34ea-bc98-40ff-97f0-e4f4538387a6][Merope]]

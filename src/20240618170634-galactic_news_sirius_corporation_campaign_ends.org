@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       e64f4d2e-a217-473d-913b-97cb1cf059cf
 :END:
-#+title: Galactic News: Sirius Corp.ration Campaign Ends
+#+title: Galactic News: Sirius Corporation Campaign Ends
 #+filetags: :3303:galnet:
 
 * Galactic News: [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]] Campaign Ends

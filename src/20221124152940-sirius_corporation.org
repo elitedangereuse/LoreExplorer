@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       aae70cda-c437-4ffa-ac0a-39703b6aa15a
 :END:
-#+title: Sirius Corp.ration
+#+title: Sirius Corporation
 #+filetags: :Federation:Empire:Corporation:
 
 * Business

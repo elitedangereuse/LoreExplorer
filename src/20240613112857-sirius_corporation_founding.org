@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       fc7f763c-26e9-4182-8f8f-1e58ea44746b
 :END:
-#+title: Sirius Corp.ration Founding
+#+title: Sirius Corporation Founding
 #+filetags: :Federation:Empire:beacon:
 * 0179 [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]] Founding
 [[id:c1b228e7-30f2-4b43-800f-387108776633][Sirius]]
