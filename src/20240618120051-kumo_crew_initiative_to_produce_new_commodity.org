@@ -12,7 +12,7 @@
 
 The Kumo Crew syndicate is requesting deliveries to mass-produce a recreational drug named ‘helix’. 
 
-The drug is believed to originate with the Blue Viper Club, a nomadic clan travelling aboard an ancient dredger that recently appeared near Kumo City station. 
+The drug is believed to originate with the [[id:327af983-8859-4d4d-9906-78d535ad621a][Blue Viper Club]], a nomadic clan travelling aboard an ancient dredger that recently appeared near Kumo City station. 
 
 Arch-Corsair [[id:a002575a-7b72-4d9b-8c76-e748073a8e3e][Kay Volantyne]], representing the Kumo Council, provided details to local newsfeed The Pegasi Sentinel: 
 
@@ -22,4 +22,4 @@ Arch-Corsair [[id:a002575a-7b72-4d9b-8c76-e748073a8e3e][Kay Volantyne]], represe
 
 Many authorities have registered concern that this will exacerbate drug addiction and misuse, which are common social problems. However, some markets have shown interest in the potential new product. 
 
-Vox Galactica has reported rumours that helix may be a previously unknown strain of onionhead, a highly popular psychedelic. It remains unknown whether the Blue Viper Club cultivated helix aboard their dredger or acquired it from another source.
+Vox Galactica has reported rumours that helix may be a previously unknown strain of onionhead, a highly popular psychedelic. It remains unknown whether the [[id:327af983-8859-4d4d-9906-78d535ad621a][Blue Viper Club]] cultivated helix aboard their dredger or acquired it from another source.

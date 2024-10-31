@@ -10,7 +10,7 @@
 
 *Pilots Federation ALERT* 
 
-A Blue Viper Club dredger has entered the Pegasi Sector PN-T C3-14 system, and may have links with the Kumo Crew syndicate. 
+A [[id:327af983-8859-4d4d-9906-78d535ad621a][Blue Viper Club]] dredger has entered the Pegasi Sector PN-T C3-14 system, and may have links with the Kumo Crew syndicate. 
 
 The Dredger-class bulk cruiser has taken position near Kumo City, one of five starports recently constructed by pirate warlord [[id:7aae0550-b8ba-42cf-b52b-e7040461c96f][Archon Delaine]]. 
 
@@ -18,8 +18,8 @@ Dredger Clans are nomadic communities that travel on the fringes of civilisation
 
 [[id:43e76135-cf13-47bf-9a0c-4d46dbdfa19a][Francesca Wolfe]] of the Wallglass Investigations Agency published her observations: 
 
-“The Blue Viper Club is a fiercely independent tribe with an unsavoury reputation. Dredger Clans typically survive by gathering materials and salvage, but these people indulge in more criminal behaviour including drug running and raiding outposts.” 
+“The [[id:327af983-8859-4d4d-9906-78d535ad621a][Blue Viper Club]] is a fiercely independent tribe with an unsavoury reputation. Dredger Clans typically survive by gathering materials and salvage, but these people indulge in more criminal behaviour including drug running and raiding outposts.” 
 
 “The clan occupies more than one dredger, but these have never entered an inhabited system before now. There has been no conflict with local factions or system security. However, unmarked personnel shuttles have been witnessed travelling to and from the dredger.” 
 
-“Are we looking at a piratical alliance between the Blue Viper Club and the Kumo Crew? Is [[id:7aae0550-b8ba-42cf-b52b-e7040461c96f][Archon Delaine]] expanding his reach to the Dredger Clans? Or have they brought him something of value that they discovered in deep space?”
+“Are we looking at a piratical alliance between the [[id:327af983-8859-4d4d-9906-78d535ad621a][Blue Viper Club]] and the Kumo Crew? Is [[id:7aae0550-b8ba-42cf-b52b-e7040461c96f][Archon Delaine]] expanding his reach to the Dredger Clans? Or have they brought him something of value that they discovered in deep space?”

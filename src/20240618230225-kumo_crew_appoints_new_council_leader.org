@@ -16,6 +16,6 @@ Political journalist Conrad Sterling provided an overview for Vox Galactica:
 
 “The latest addition is the son of Gideon ‘Soulless’ Salamanca, one of the most infamous warlords in the Pegasi sector. Following Salamanca’s unexpected death from a cardiac event, Delaine has elevated Callan to take his father’s place on the council, despite the young man’s reputation for impulsive behaviour.” 
 
-“Two others remain in the council’s inner circle. [[id:8d019f27-75a9-4758-8600-327aee0e2c41][Vidar Trask]] has been close to Delaine for many years and is known to be an expert administrator. [[id:a002575a-7b72-4d9b-8c76-e748073a8e3e][Kay Volantyne]] was originally part of the Blue Viper Club dredger clan, before she negotiated its alliance with the Kumo Crew.” 
+“Two others remain in the council’s inner circle. [[id:8d019f27-75a9-4758-8600-327aee0e2c41][Vidar Trask]] has been close to Delaine for many years and is known to be an expert administrator. [[id:a002575a-7b72-4d9b-8c76-e748073a8e3e][Kay Volantyne]] was originally part of the [[id:327af983-8859-4d4d-9906-78d535ad621a][Blue Viper Club]] dredger clan, before she negotiated its alliance with the Kumo Crew.” 
 
 “Delaine continues to style himself as the ‘sovereign ruler of the Kumo nation’, striving for an air of legitimacy. The Kumo Council reinforces this approach, but is often called upon to justify or deny their regent’s brutal excesses. With rumours that Callan Salamanca is already misusing his newfound authority, this delicate balance might prove to be unsustainable.”
