@@ -18,7 +18,7 @@ In recent weeks Thargoid fleets swarmed through several local systems. The Kumo 
 
 “Already the war has reached the California Nebula. But are any superpower navies racing to its defence? Of course not – the Alliance considers this colony expendable. It’s down to us to protect the nebula’s citizens, and will do whatever it takes to succeed.” 
 
-The Pegasi Sentinel newsfeed published a request for populations not to impede Kumo Crew activity, suggesting that fleet mobilisation is ‘a temporary measure to provide a coordinated resistance against the Thargoids’. It is thought Kumo Crew’s megaship, the [[id:c72ce3b7-f19e-4034-9df5-554bcddfaa4f][Mictlan]], is preparing to deploy in support of these efforts. 
+The [[id:dc25c5b7-381e-4e8a-8599-68be61b19bae][Pegasi Sentinel]] newsfeed published a request for populations not to impede Kumo Crew activity, suggesting that fleet mobilisation is ‘a temporary measure to provide a coordinated resistance against the Thargoids’. It is thought Kumo Crew’s megaship, the [[id:c72ce3b7-f19e-4034-9df5-554bcddfaa4f][Mictlan]], is preparing to deploy in support of these efforts. 
 
 This message was rejected by Turner Research Group, which controls several of the invaded systems. The scientific organisation was established by the Alliance in 3302 to study the barnacles discovered in the region. Harrison Gladstone, the group’s spokesperson, declared: “Delaine is obviously using the Thargoid attacks as a pretence for a power grab. There is no chance that these pirates will defend our systems out of the goodness of their blackened hearts. We’ll know what Delaine’s real plan is soon enough.” 
 
