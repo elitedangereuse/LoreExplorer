@@ -3,4 +3,4 @@
 :END:
 #+title: Bexley Prince
 [[id:8850de50-070f-443e-8b26-e2d7cd523289][Hermitage]]
-Chief Researcher at [[id:83b4df31-f73c-4f2f-8386-1c022b4362ce][Hollis [[id:e179ecca-9ab3-4184-b05e-107b2e6932c2][Gateway]]]]
+Chief Researcher at [[id:83b4df31-f73c-4f2f-8386-1c022b4362ce][Hollis Gateway]]

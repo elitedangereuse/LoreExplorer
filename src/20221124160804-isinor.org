@@ -5,7 +5,7 @@
 #+filetags: :Federation:Reputation:System:Permit:
 [[file:img/permit.png]]
 
-Faction: [[id:5dd9b81f-9ba1-491a-976a-1f4b38e25714][Chapter of [[id:c904fbfa-0462-46ca-ba62-47c827a7331f][Isinor]]]]
+Faction: [[id:5dd9b81f-9ba1-491a-976a-1f4b38e25714][Chapter of Isinor]]
 Benefits: "Convoy beacon" game play content. Basically there is a
 Type-9, escorted by two Federation security vessels (with no cargo)
 which holds resonating separators and a special good called

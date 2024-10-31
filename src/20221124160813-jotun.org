@@ -4,7 +4,7 @@
 #+title: Jotun
 #+filetags: :Empire:Reputation:System:Permit:
 [[file:img/permit.png]]
-Faction: [[id:0ebec0eb-5f68-47f5-9a0e-dd1b47f140f7][Dukes of [[id:addd8c74-2425-4d26-a1d5-9cb11ce6b0ba][Jotun]]]]
+Faction: [[id:0ebec0eb-5f68-47f5-9a0e-dd1b47f140f7][Dukes of Jotun]]
 Benefits: Access to Rare Good (Juton Mookah)
 Note: Blanquichu has a HAZ RES where you can boost your influence.
 

@@ -1,4 +1,4 @@
-:PROPERTIES:
+%:PROPERTIES:
 :ID:       bf2c1762-dacb-44bf-933b-bfc092e7d73b
 :END:
 #+title: Elska
@@ -6,4 +6,4 @@ The home of Bearers of the Flame, who believe the whole universe is a
 manifestation of the primordial fire of the Goddess, wanting to light
 the path of those who need help trailblazing the Via Lactea.
 
-System to gain [[id:88ce09ab-8d64-40bd-a1d8-2d18da381f7c][Reputation]] for the [[id:c7bbf7f5-12ec-4dc0-929f-066b3a79c47b][Brotherhood of [[id:d6a6dbed-c45d-4c9f-b41a-799e69dd1bbe][Terra Mater]]]] [[id:43c9c067-4718-4d81-99eb-d73467c36937][Minor Faction]]
+System to gain [[id:88ce09ab-8d64-40bd-a1d8-2d18da381f7c][Reputation]] for the [[id:c7bbf7f5-12ec-4dc0-929f-066b3a79c47b][Brotherhood of Terra Mater]] [[id:43c9c067-4718-4d81-99eb-d73467c36937][Minor Faction]]
