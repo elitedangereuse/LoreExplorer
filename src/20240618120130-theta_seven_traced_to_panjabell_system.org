@@ -14,7 +14,7 @@ A decrypted message suggests that the [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f]
 
 ACT publicly requested help to decode a message received by Theta Group, the bomb-making engineers of the NMLA. The cipher key was cracked and the decoded message submitted by Commander Therion Cygni. It revealed that [[id:7878ad2d-4118-4028-bfff-90a3976313bd][Theta Seven]] and his closest aides fled to the Panjabell system on the 31st of July. 
 
-Captain Milo Castile, one of ACT’s co-leaders, provided an update: 
+Captain Milo Castile, one of [[id:a152bfb8-4b9a-4b61-a292-824ecbd263e1][ACT]]’s co-leaders, provided an update: 
 
 “Our theory is that [[id:7878ad2d-4118-4028-bfff-90a3976313bd][Theta Seven]] and his crew were travelling undercover as [[id:04ae001b-eb07-4812-a42e-4bb72825609b][Far God]] worshippers, who were gathering in the Panjabell system in huge numbers at that time. Since all members of this religious order renounce their past identities, this would have helped the terrorists to avoid detection.” 
 

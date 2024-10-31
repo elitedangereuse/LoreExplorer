@@ -12,7 +12,7 @@
 
 Open warfare has begun in the Paresa system between Nova Imperium and the League of Mandu, a Federal faction. 
 
-Imperator Hadrian Augustus Duval has been accused of masterminding the [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] starport bombings, according to evidence provided to ACT.  
+Imperator[[id:c4f47591-9c52-441f-8853-536f577de922][Hadrian Augustus Duval]] has been accused of masterminding the [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] starport bombings, according to evidence provided to [[id:a152bfb8-4b9a-4b61-a292-824ecbd263e1][ACT]].  
 
 Admiral Natalia Lee, commanding the Harmony’s Shield megaship, declared: 
 
@@ -22,6 +22,6 @@ Hadrian Duval made an announcement from Dyson City, the home station of Nova Imp
 
 “This invasion of Imperial space is based on false information. The Federation does not have the right to act as our judge, jury and executioner. I call upon the Empire to come to our defence, as stipulated in the Treaty of Paresa.” 
 
-Nova Imperium is an isolationist group that believes in retaining Imperial traditions and severing all ties with other superpowers. Hadrian Duval is the illegitimate grandson of Emperor Hengist, whose heritage was officially acknowledged last November. 
+Nova Imperium is an isolationist group that believes in retaining Imperial traditions and severing all ties with other superpowers. [[id:c4f47591-9c52-441f-8853-536f577de922][Hadrian Duval]] is the illegitimate grandson of Emperor Hengist, whose heritage was officially acknowledged last November. 
 
 ACT is currently working to verify claims that the Neo-Marlinist Order of Mudhrid aided the [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] on Imperator Duval’s instructions.

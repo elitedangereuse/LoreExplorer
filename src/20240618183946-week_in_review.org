@@ -16,7 +16,7 @@ The Codex is a joint initiative from the Pilots Federation and Universal Cartogr
 
 Two new ships marketed towards independent pilots have been released. The Mamba, from Zorgon Petersen, is reputedly one of the fastest ships in production, while the Krait Phantom, manufactured by Faulcon DeLacy, has been envisaged as a multi-role vessel. 
 
-Hadrian Augustus Duval, the long-lost grandson of Emperor [[id:3cb0755e-4deb-442b-898b-3f0c6651636e][Hengist Duval]], has broadcast a message to the Empire in which he emphasised his humble background and stressed that he had lived an ordinary life. He concluded with the words: “I’ve seen how diminished the Empire has become, and I know that new leadership is sorely needed.” 
+[[id:c4f47591-9c52-441f-8853-536f577de922][Hadrian Augustus Duval]], the long-lost grandson of Emperor [[id:3cb0755e-4deb-442b-898b-3f0c6651636e][Hengist Duval]], has broadcast a message to the Empire in which he emphasised his humble background and stressed that he had lived an ordinary life. He concluded with the words: “I’ve seen how diminished the Empire has become, and I know that new leadership is sorely needed.” 
 
 Meanwhile, the Interstellar Health Organisation has delivered a preliminary report on the nanomedicines recently developed by Vitadyne Labs. The report states that Vitadyne’s nanomeds are more sophisticated and reliable than any existing product, and that Vitadyne’s data regarding healing, disease treatment and extension of longevity has been verified. 
 

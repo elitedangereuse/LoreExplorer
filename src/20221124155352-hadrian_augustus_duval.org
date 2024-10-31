@@ -2,3 +2,4 @@
 :ID:       c4f47591-9c52-441f-8853-536f577de922
 :END:
 #+title: Hadrian Augustus Duval
+#+filetags: :Individual:

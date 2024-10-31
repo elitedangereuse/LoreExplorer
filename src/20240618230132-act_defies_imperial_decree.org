@@ -1,16 +1,16 @@
 :PROPERTIES:
 :ID:       dddeb160-820b-45ff-88f4-667417da2179
 :END:
-#+title: ACT Defies Imperial Decree
+#+title:  ACT Defies Imperial Decree
 #+filetags: :3308:Empire:Federation:Alliance:galnet:
 
-* ACT Defies Imperial Decree
+* [[id:a152bfb8-4b9a-4b61-a292-824ecbd263e1][ACT]] Defies Imperial Decree
 
 /01 Feb 3308/
 
 The [[id:a152bfb8-4b9a-4b61-a292-824ecbd263e1][Affiliated Counter-Terrorism]] unit is actively investigating [[id:45d78e5d-27b7-48cb-97b2-012934be3180][Imperial Intelligence]], despite the Senate ordering it to cease operations. 
 
-Inspector Mara Klatt, one of ACT’s co-leaders, told the media: 
+Inspector Mara Klatt, one of [[id:a152bfb8-4b9a-4b61-a292-824ecbd263e1][ACT]]’s co-leaders, told the media: 
 
 “We are convinced that elements within [[id:45d78e5d-27b7-48cb-97b2-012934be3180][Imperial Intelligence]] provided support to the NMLA. Our view is that a modified version of the [[id:22dfd239-84ed-4b35-aa95-bc955ca95e8b][Omega Grid]] software was supplied to the terrorists, allowing them to build their own [[id:b58b26bb-8465-42a9-896c-4c0e97d20444][dark-comms]] network. Thanks to Captain [[id:ccaf380d-14e8-4a1a-9458-8c3bad87b25c][Saskia Landau]]’s inside knowledge, we are learning how to detect a unique identifier associated with the network employed by the NMLA.” 
 
@@ -22,4 +22,4 @@ Civil and military leaders in the Empire have reacted with outrage, including Se
 
 However, a plea for cooperation was made by Princess [[id:b402bbe3-5119-4d94-87ee-0ba279658383][Aisling Duval]]: 
 
-“If nefarious groups within our Empire have helped the NMLA, we must uncover the [[id:7401153d-d710-4385-8cac-aad74d40d853][truth]]. I firmly believe that the Emperor herself remains in danger, and ACT might help us to learn her fate.”
+“If nefarious groups within our Empire have helped the NMLA, we must uncover the [[id:7401153d-d710-4385-8cac-aad74d40d853][truth]]. I firmly believe that the Emperor herself remains in danger, and [[id:a152bfb8-4b9a-4b61-a292-824ecbd263e1][ACT]] might help us to learn her fate.”

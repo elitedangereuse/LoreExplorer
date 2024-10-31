@@ -12,6 +12,6 @@ Political journalist [[id:745efc38-c548-40c0-81d2-82973c604d37][Cassia Carvalho]
 
 “In recent weeks, Nova Imperium has become a genuine political force. Tensions have now erupted into open conflict in the Paresa system, with Imperial Navy auxiliaries attempting to destroy Nova Imperium’s fleet.” 
 
-“In return, Imperator Mordanticus has called on the galactic community to fight for Emperor Hengist’s long-lost grandson Hadrian Duval to be recognised as an heir to the throne.” 
+“In return, Imperator Mordanticus has called on the galactic community to fight for Emperor Hengist’s long-lost grandson [[id:c4f47591-9c52-441f-8853-536f577de922][Hadrian Duval]] to be recognised as an heir to the throne.” 
 
 “Whether this is a one-off battle or the beginning of an Imperial civil war, the outcome of the Battle of Paresa will influence the future of the Empire.”

@@ -8,11 +8,11 @@
 
 /27 Dec 3304/
 
-Imperial senators supporting the isolationist group Nova Imperium have demanded that Emperor [[id:34f3cfdd-0536-40a9-8732-13bf3a5e4a70][Arissa Lavigny-Duval]] acknowledge its figurehead, Hadrian Augustus Duval. 
+Imperial senators supporting the isolationist group Nova Imperium have demanded that Emperor [[id:34f3cfdd-0536-40a9-8732-13bf3a5e4a70][Arissa Lavigny-Duval]] acknowledge its figurehead,[[id:c4f47591-9c52-441f-8853-536f577de922][Hadrian Augustus Duval]]. 
 
 Senator Eloise Winterstone proclaimed to the Senate: 
 
-“The Imperial family must officially recognise Hadrian Duval as one of its own. Given that the Emperor has no children, such an act would secure the future of the Duval bloodline.” 
+“The Imperial family must officially recognise [[id:c4f47591-9c52-441f-8853-536f577de922][Hadrian Duval]] as one of its own. Given that the Emperor has no children, such an act would secure the future of the Duval bloodline.” 
 
 Chancellor [[id:e9679720-e0c1-449e-86a6-a5b3de3613f5][Anders Blaine]] replied: 
 
@@ -20,4 +20,4 @@ Chancellor [[id:e9679720-e0c1-449e-86a6-a5b3de3613f5][Anders Blaine]] replied:
 
 Political journalist [[id:745efc38-c548-40c0-81d2-82973c604d37][Cassia Carvalho]] wrote in The Imperial Herald: 
 
-“With the possibility of civil war increasing, the suggestion that Arissa accept [[id:3cb0755e-4deb-442b-898b-3f0c6651636e][Hengist Duval]]’s grandson as an heir feels like a reasonable compromise. Her lack of response so far has led to accusations of weakness, with many calling on her to step down and for Hadrian Duval to be instated as sovereign ruler.”
+“With the possibility of civil war increasing, the suggestion that Arissa accept [[id:3cb0755e-4deb-442b-898b-3f0c6651636e][Hengist Duval]]’s grandson as an heir feels like a reasonable compromise. Her lack of response so far has led to accusations of weakness, with many calling on her to step down and for [[id:c4f47591-9c52-441f-8853-536f577de922][Hadrian Duval]] to be instated as sovereign ruler.”

@@ -1,10 +1,10 @@
 :PROPERTIES:
 :ID:       2a4390c3-4771-4236-94c7-5079fd1bdcc3
 :END:
-#+title: Crashed Ship of Missing ACT Agent Located
+#+title: Crashed Ship of Missing  ACT Agent Located
 #+filetags: :3307:Empire:Federation:galnet:
 
-* Crashed Ship of Missing ACT Agent Located
+* Crashed Ship of Missing [[id:a152bfb8-4b9a-4b61-a292-824ecbd263e1][ACT]] Agent Located
 
 /31 Mar 3307/
 
@@ -16,7 +16,7 @@ Following a widespread search by independent pilots, Commander TheRealFlame was 
 
 ACT co-leader Senior Agent [[id:fb74a286-1688-41e8-9bec-9ef14adaaf1f][Tanya Ramirez]] gave this statement to the media: 
 
-“We owe a debt to every pilot who joined our efforts to find the Valkyrie. It’s an emotional blow for us to lose one of ACT’s guiding lights, along with her courageous team.” 
+“We owe a debt to every pilot who joined our efforts to find the Valkyrie. It’s an emotional blow for us to lose one of [[id:a152bfb8-4b9a-4b61-a292-824ecbd263e1][ACT]]’s guiding lights, along with her courageous team.” 
 
 “However, Captain Seutonia managed to secure her mission logs moments before the ship’s destruction. This allowed vital information to be recovered.” 
 

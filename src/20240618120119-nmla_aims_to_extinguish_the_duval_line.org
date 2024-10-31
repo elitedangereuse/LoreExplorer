@@ -10,16 +10,16 @@
 
 The [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][Neo-Marlinist Liberation Army]] has taken responsibility for the attack on Dyson City starport in the Paresa system. 
 
-The primary targets were Imperator Hadrian Duval and his wife Lady Astrid Minerva-Duval, who is pregnant with his child. Although they survived, the bombing left many thousands dead and injured. 
+The primary targets were Imperator [[id:c4f47591-9c52-441f-8853-536f577de922][Hadrian Duval]] and his wife Lady[[id:ef9ddb06-8cb2-4c3f-a688-469be3149aa9][Astrid Minerva-Duval]], who is pregnant with his child. Although they survived, the bombing left many thousands dead and injured. 
 
 The following message was sent across NMLA propaganda channels: 
 
 “As long as a single Duval is left alive, the Republic of [[id:bed8c27f-3cbe-49ad-b86f-7d87eacf804a][Achenar]] cannot be rebuilt. It is our duty to extinguish that entire line and free our people from Imperial oppression.” 
 
-Praetor Leo Magnus gave a statement on behalf of ACT: 
+Praetor[[id:3fdf3f05-e7b5-436f-906e-e67dafa5d254][Leo Magnus]] gave a statement on behalf of [[id:a152bfb8-4b9a-4b61-a292-824ecbd263e1][ACT]]: 
 
 “It is significant that this latest broadcast is not from [[id:7878ad2d-4118-4028-bfff-90a3976313bd][Theta Seven]], the NMLA’s mouthpiece and de facto leader. We believe that Theta Group – the team of weaponsmiths that built the caustic enzyme bombs – has split in two.” 
 
-“According to the communications we intercepted, [[id:7878ad2d-4118-4028-bfff-90a3976313bd][Theta Seven]] and half of his followers went into hiding after the attacks against the Marlinist Colonies in July. The others continued their terror campaign and were responsible for this latest atrocity. ACT is currently pursuing leads and hopes to learn more soon.” 
+“According to the communications we intercepted, [[id:7878ad2d-4118-4028-bfff-90a3976313bd][Theta Seven]] and half of his followers went into hiding after the attacks against the Marlinist Colonies in July. The others continued their terror campaign and were responsible for this latest atrocity. [[id:a152bfb8-4b9a-4b61-a292-824ecbd263e1][ACT]] is currently pursuing leads and hopes to learn more soon.” 
 
 Nova Imperium has repeated a call for pilots to help rescue survivors from Dyson City in the Paresa system.

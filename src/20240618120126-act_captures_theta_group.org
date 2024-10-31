@@ -1,10 +1,10 @@
 :PROPERTIES:
 :ID:       28394b64-1715-49b3-afad-0c737413d448
 :END:
-#+title: ACT Captures Theta Group
+#+title:  ACT Captures Theta Group
 #+filetags: :3307:Empire:Thargoid:galnet:
 
-* ACT Captures Theta Group
+* [[id:a152bfb8-4b9a-4b61-a292-824ecbd263e1][ACT]] Captures Theta Group
 
 /08 Nov 3307/
 
@@ -18,6 +18,6 @@ Senior Agent [[id:fb74a286-1688-41e8-9bec-9ef14adaaf1f][Tanya Ramirez]], one of 
 
 “This achievement was only possible due to intercepting Theta Group’s communications with Neo-Marlinist sympathisers. We are unsure why the NMLA’s [[id:b58b26bb-8465-42a9-896c-4c0e97d20444][dark-comms]] network was not used in that instance.” 
 
-“As our intel predicted, the group’s leader [[id:7878ad2d-4118-4028-bfff-90a3976313bd][Theta Seven]] was not among those we captured. We have confirmed that he and a handful of followers disappeared after the bombings in July, anticipating their imminent capture. ACT will not rest until the galaxy’s most wanted terrorist has been brought to justice.” 
+“As our intel predicted, the group’s leader [[id:7878ad2d-4118-4028-bfff-90a3976313bd][Theta Seven]] was not among those we captured. We have confirmed that he and a handful of followers disappeared after the bombings in July, anticipating their imminent capture. [[id:a152bfb8-4b9a-4b61-a292-824ecbd263e1][ACT]] will not rest until the galaxy’s most wanted terrorist has been brought to justice.” 
 
 The name ‘Theta Group’ was assigned to the bomb-makers during their incarceration at Serene Harbour, an [[id:45d78e5d-27b7-48cb-97b2-012934be3180][Imperial Intelligence]] penal facility in the [[id:df9d2f50-8822-4ae2-a33b-3af4ccc9747c][R CrA Sector AF-A d42]] system. After escaping, their leader adopted his prisoner designation – [[id:7878ad2d-4118-4028-bfff-90a3976313bd][Theta Seven]] – as a reaction to what he viewed as dehumanising treatment of Neo-Marlinists by the Empire.

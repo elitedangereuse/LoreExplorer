@@ -1,23 +1,23 @@
 :PROPERTIES:
 :ID:       893d2c27-3f96-4355-9fd3-46f1f3d9145d
 :END:
-#+title: ACT Requests Help to Locate Missing Agent
+#+title:  ACT Requests Help to Locate Missing Agent
 #+filetags: :3307:Empire:Federation:galnet:
 
-* ACT Requests Help to Locate Missing Agent
+* [[id:a152bfb8-4b9a-4b61-a292-824ecbd263e1][ACT]] Requests Help to Locate Missing Agent
 
 /25 Mar 3307/
 
 *Pilots Federation ALERT* 
 
-Assistance is needed to track down an ACT operative who vanished while on a mission to identify [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] suppliers. 
+Assistance is needed to track down an [[id:a152bfb8-4b9a-4b61-a292-824ecbd263e1][ACT]] operative who vanished while on a mission to identify [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] suppliers. 
 
 The missing agent is Captain [[id:cdaa5220-8f79-47dc-b160-a5d3d1ca30a0][Niamh Seutonia]] of the Imperial Internal Security Service, one of the joint leaders of the anti-NMLA intelligence unit. She was following up on clues resulting from analysis of the ‘Nine Martyrs’ starport bombings. 
 
-Senior Agent [[id:fb74a286-1688-41e8-9bec-9ef14adaaf1f][Tanya Ramirez]], a co-leader of ACT, gave this statement: 
+Senior Agent [[id:fb74a286-1688-41e8-9bec-9ef14adaaf1f][Tanya Ramirez]], a co-leader of [[id:a152bfb8-4b9a-4b61-a292-824ecbd263e1][ACT]], gave this statement: 
 
 “Captain Seutonia and her team were travelling on an Anaconda-class vessel named the Valkyrie. Mission details are scarce as information was compartmentalised for security, but she was investigating a minor faction that may be supplying the NMLA.” 
 
-“We know that her ship left the Mudhrid system on the 24th of March, on a heading toward the Marlinist Colonies. Captain Castile of the Marlinist Constabulary, on secondment to ACT, arranged a rendezvous that she never reached. So we know the Valkyrie went missing somewhere inbetween.” 
+“We know that her ship left the Mudhrid system on the 24th of March, on a heading toward the Marlinist Colonies. Captain Castile of the Marlinist Constabulary, on secondment to [[id:a152bfb8-4b9a-4b61-a292-824ecbd263e1][ACT]], arranged a rendezvous that she never reached. So we know the Valkyrie went missing somewhere inbetween.” 
 
 “All Commanders in the region are asked to join the search for Captain Seutonia’s ship. Our fervent hope is that we find its crew alive, and that they managed to obtain data to help us defeat the NMLA.”

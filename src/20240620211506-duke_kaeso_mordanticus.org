@@ -1,9 +1,10 @@
 :PROPERTIES:
 :ID:       f6be5b58-fd8d-4233-8053-7ade4ca35aee
 :END:
-#+title: Duke Kaeso Mordanticus
+#+title: Kaeso Mordanticus
 #+filetags: :Individual:
 
 Leader of the [[id:64e89e89-f7fe-4f90-bc29-1cd90497e1f1][Nova Imperium]] group.
 Former naval admiral
 
+Duke and also Imperator

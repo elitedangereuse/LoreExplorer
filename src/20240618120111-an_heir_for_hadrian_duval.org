@@ -4,11 +4,11 @@
 #+title: An Heir for Hadrian Duval
 #+filetags: :3307:Empire:galnet:
 
-* An Heir for Hadrian Duval
+* An Heir for [[id:c4f47591-9c52-441f-8853-536f577de922][Hadrian Duval]]
 
 /21 Sep 3307/
 
-Lady Astrid Minerva-Duval, wife of Hadrian Augustus Duval, has confirmed that she is expecting a child in December. 
+Lady[[id:ef9ddb06-8cb2-4c3f-a688-469be3149aa9][Astrid Minerva-Duval]], wife of[[id:c4f47591-9c52-441f-8853-536f577de922][Hadrian Augustus Duval]], has confirmed that she is expecting a child in December. 
 
 The story was broken by the Paresa News Network: 
 
@@ -20,4 +20,4 @@ The Imperial Herald: “This has caused tangible ripples of unease in the Senate
 
 Eye on [[id:bed8c27f-3cbe-49ad-b86f-7d87eacf804a][Achenar]]: “Who cares about the spawn of Emperor Hengist’s illegitimate grandson? The [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] may have assassinated much of the Imperial Family, but this outcast boy is still a footnote in their noble history.” 
 
-Vox Galactica: “Despite his unofficial status, Hadrian Duval has many silent supporters within the Empire. His isolationist stance appeals to nostalgic citizens, as does returning to the tradition of male Emperors. Should Hadrian have a son, he may feel empowered to seek his birthright more forcefully.”
+Vox Galactica: “Despite his unofficial status, [[id:c4f47591-9c52-441f-8853-536f577de922][Hadrian Duval]] has many silent supporters within the Empire. His isolationist stance appeals to nostalgic citizens, as does returning to the tradition of male Emperors. Should Hadrian have a son, he may feel empowered to seek his birthright more forcefully.”
