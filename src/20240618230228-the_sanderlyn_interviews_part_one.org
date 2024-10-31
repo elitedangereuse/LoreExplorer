@@ -12,7 +12,7 @@ The journalist [[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]] of [[
 
 This excerpt is from a conversation with Admiral [[id:2b3e8681-1d08-450e-ad9f-fe5179104b36][Henry Paul Atherton]] of the Empire. 
 
-Jade Sanderlyn: This is [[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]] reporting for Vox Galactica. I am sitting with Admiral [[id:2b3e8681-1d08-450e-ad9f-fe5179104b36][Henry Paul Atherton]] of the Imperial Navy. Thank you for agreeing to this interview, Admiral. 
+[[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]]: This is [[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]] reporting for Vox Galactica. I am sitting with Admiral [[id:2b3e8681-1d08-450e-ad9f-fe5179104b36][Henry Paul Atherton]] of the Imperial Navy. Thank you for agreeing to this interview, Admiral. 
 
  [[id:2b3e8681-1d08-450e-ad9f-fe5179104b36][Henry Paul Atherton]]: Oh, please. Call me Henry. 
 

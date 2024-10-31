@@ -18,7 +18,7 @@ Professor [[id:c2623368-19b0-4995-9e35-b8f54f741a53][Alba Tesreau]] made the off
 
 “Unfortunately, broadcasts from the probes were lost shortly afterwards. It hasn’t been possible to verify what happened to them at this stage. We will repeat this experiment with other Maelstroms, but we believe that only skilled human pilots will be able to uncover what awaits within.” 
 
-Aden Tanner, who is supporting Aegis as a freelance tactical specialist, provided a supplemental report: 
+[[id:7bca1ccd-649e-438a-ae56-fb8ca34e6440][Aden Tanner]], who is supporting Aegis as a freelance tactical specialist, provided a supplemental report: 
 
 “My team has been conducting secondary tests with the new module installed on a manned vessel. I can confirm that when in combat against Thargoid interceptors, it protects against ship system disruption in a similar way to the existing shutdown field neutraliser. But its weight and power draw are both greater, meaning that the new module is best suited to Maelstrom exploration.” 
 

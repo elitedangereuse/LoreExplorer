@@ -35,7 +35,7 @@
   dinner
 #+end_quote
 
-Arissa Lavigny-Duval is the reigning Emperor, having been appointed to
+[[id:34f3cfdd-0536-40a9-8732-13bf3a5e4a70][Arissa Lavigny-Duval]] is the reigning Emperor, having been appointed to
 the position by the Imperial Senate, and a direct descendant of the
 first Emperor, Henson Duval. Her father was originally thought to be the
 late Prince Aristide de Lavigny, but Arissa's claim to be the
@@ -70,7 +70,7 @@ had she spent her time in a Mastopolos mining facility.
 Arissa has made no secret of her determination to restore the rule of
 law within the Empire. She means to purge it of corruption, and has
 received widespread public support for this cause. Unlike her niece,
-Aisling Duval, she sees the Empire's systems as inherently worthy, if
+[[id:b402bbe3-5119-4d94-87ee-0ba279658383][Aisling Duval]], she sees the Empire's systems as inherently worthy, if
 impeded by long-term neglect. They need to be cleansed, not torn and
 rebuilt as per Aisling's wishes.
 

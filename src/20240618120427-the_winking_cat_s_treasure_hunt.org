@@ -10,7 +10,7 @@
 
 *Pilots’ Federation ALERT* 
 
-Erik Gunnarson of the Wallglass Investigations Agency provides an overview of the [[id:b9519a7c-f00b-4a57-9bcf-964258bdd2d8][Winking Cat]]’s latest escapade. 
+[[id:0367ce6a-a18b-4bca-a6d1-da93c2dd200f][Erik Gunnarson]] of the Wallglass Investigations Agency provides an overview of the [[id:b9519a7c-f00b-4a57-9bcf-964258bdd2d8][Winking Cat]]’s latest escapade. 
 
 “The meaning of the message scrawled on the back of the Jokers’ Deck ceremonial playing card has become clear. This time, the galaxy’s most infamous larcenist is actually giving away treasure rather than stealing it.” 
 
@@ -18,4 +18,4 @@ Erik Gunnarson of the Wallglass Investigations Agency provides an overview of th
 
 “According to the dates specified by the [[id:b9519a7c-f00b-4a57-9bcf-964258bdd2d8][Winking Cat]], these three caches will only be operational for a two-week period, ending on the 30th of December. We can then deduce that caches four, five and six will activate today, and likewise remain available for the next two weeks.” 
 
-“This is not the first philanthropic gesture from the [[id:b9519a7c-f00b-4a57-9bcf-964258bdd2d8][Winking Cat]]. The long-lost painting Penance Street reappeared in 3305 alongside the thief’s signature graphic of a cheeky feline face, but this is a more generous giveaway. Some even see it as a redistribution of wealth, noting that the Winking Cat only ever targets corporations, governments or super-rich individuals.”
+“This is not the first philanthropic gesture from the [[id:b9519a7c-f00b-4a57-9bcf-964258bdd2d8][Winking Cat]]. The long-lost painting Penance Street reappeared in 3305 alongside the thief’s signature graphic of a cheeky feline face, but this is a more generous giveaway. Some even see it as a redistribution of wealth, noting that the[[id:b9519a7c-f00b-4a57-9bcf-964258bdd2d8][Winking Cat]] only ever targets corporations, governments or super-rich individuals.”

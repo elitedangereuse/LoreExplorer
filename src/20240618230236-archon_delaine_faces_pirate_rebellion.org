@@ -18,4 +18,4 @@ The Pegasi Sentinel newsfeed delivered this exclusive report:
 
 “Fierce combat has ignited in the Kumo Crew’s key areas as both sides battle for resources. Trask’s loyalists are being aided by a motley collection of pirate gangs as well as thousands of unidentified fighters, suggesting that he has hired mercenaries to bolster his forces.” 
 
-“Archon Delaine, whose guards barely managed to shield him from the assassins, has ordered that the insurrection must be stamped out at any cost. He also vowed an explicitly violent revenge upon [[id:8d019f27-75a9-4758-8600-327aee0e2c41][Vidar Trask]], who has been one of his closest aides for many years.”
+[[id:7aae0550-b8ba-42cf-b52b-e7040461c96f][Archon Delaine]], whose guards barely managed to shield him from the assassins, has ordered that the insurrection must be stamped out at any cost. He also vowed an explicitly violent revenge upon [[id:8d019f27-75a9-4758-8600-327aee0e2c41][Vidar Trask]], who has been one of his closest aides for many years.”

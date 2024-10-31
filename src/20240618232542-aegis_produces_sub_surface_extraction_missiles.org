@@ -14,7 +14,7 @@ Rescue megaships now stock Aegis’s modified mining tool, designed to extract b
 
 The sub-surface extraction missiles went into rapid production following a delivery initiative in the Senlu system. Aegis has confirmed that pilots who transported CMM composites, neofabric insulation and osmium to Springer [[id:e179ecca-9ab3-4184-b05e-107b2e6932c2][Gateway]] can now collect their rewards. Bounty vouchers for all wanted ships destroyed during the past week will also be redeemed at the same location. 
 
-Aden Tanner discussed tactics for using the new module: 
+[[id:7bca1ccd-649e-438a-ae56-fb8ca34e6440][Aden Tanner]] discussed tactics for using the new module: 
 
 “These specialised devices are designed to be used alongside the pulse wave xeno scanner, which can now pinpoint human life signs beneath the hull of a Titan. If accurately targeted, an extraction missile should penetrate far enough into the outer hull to jettison the pod-like structures containing captives. Assuming the extraction is successful, these capsules can then be taken onboard via cargo scoop.” 
 

@@ -37,7 +37,7 @@ Sell exploration data to Abel Laboratory.
   --- [[id:8f63442a-1f38-457d-857a-38297d732a90][Professor Ishmael Palin]], memorandum to students, 3289
 #+end_quote
 
-Professor Ishmael Palin is a scientist specialising in research into
+[[id:8f63442a-1f38-457d-857a-38297d732a90][Professor Ishmael Palin]] is a scientist specialising in research into
 nonhuman technologies and cultures, with particular emphasis on material
 artefacts. He is generally considered one of the galaxy's foremost
 experts on the Thargoids.

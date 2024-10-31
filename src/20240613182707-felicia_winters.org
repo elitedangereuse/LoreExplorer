@@ -36,9 +36,9 @@
   --- [[id:b9fe58a3-dfb7-480c-afd6-92c3be841be7][Felicia Winters]], Liberal Party annual address, 3303
 #+end_quote
 
-Felicia Winters is the head of the Liberal Party of the Federation, and
+[[id:b9fe58a3-dfb7-480c-afd6-92c3be841be7][Felicia Winters]] is the head of the Liberal Party of the Federation, and
 as such serves as ex officio Shadow President, opposite President
-Zachary Hudson of the Republican Party.
+[[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][Zachary Hudson]] of the Republican Party.
 
 Winters was born and raised on Taylor Colony, one of the oldest human
 colonies, and worked for the [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]] before going into

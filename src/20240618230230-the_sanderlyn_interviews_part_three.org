@@ -12,7 +12,7 @@ The journalist [[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]] of Vo
 
 This excerpt is from a conversation with Admiral Rachel Ziegler of the Alliance. 
 
-Jade Sanderlyn: This is [[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]] reporting for Vox Galactica. I am here with Admiral Rachel Ziegler of the Alliance. I’m pleased to have this opportunity to speak with you, Admiral. 
+[[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]]: This is [[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]] reporting for Vox Galactica. I am here with Admiral Rachel Ziegler of the Alliance. I’m pleased to have this opportunity to speak with you, Admiral. 
 
  Rachel Ziegler: You’re welcome. 
 

@@ -14,7 +14,7 @@ A version of the FSS scanning software used to track the Thargoid anomalies has 
 
 Commanders should experience reduced interference when using the full spectrum system (FSS) scanner to focus on the anomalies. The team leading the development of the software, however, warned that the resultant clarity has done little to ease the concerns of Professor Palin, [[id:4551539e-a6b2-4c45-8923-40fb603202b7][Ram Tah]] and other leading scientists. 
 
-Lori Jameson, an engineer contributing to the FSS scanner's software calibration, commented: 
+[[id:1950129f-ad8e-453a-94ac-8bb0813e2e28][Lori Jameson]], an engineer contributing to the FSS scanner's software calibration, commented: 
 
 “We’re pleased with the update and are happy to share it with Commanders, who have provided much of the data used by the institutions researching the rogue signal sources. Representatives of Canonn Interstellar Research Group, Orion University and Universal Cartographics have also helped greatly. I just wish the results generated a more promising picture.” 
 

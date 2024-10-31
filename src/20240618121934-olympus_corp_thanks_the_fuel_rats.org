@@ -11,7 +11,7 @@
 Commander [[id:a3e776db-e627-4712-85e2-12667901f336][F-Zlim]] was on the home stretch of a six-month galactic tour
 when a CO2 leak knocked him out. When he woke to the blare of alarms,
 his ship, the '[[id:0332501d-5b43-4396-b11e-41cda8906b9c][Korblah]]', was out of fuel. Using long-range comms,
-F-Zlim notified fellow Commanders at the exploration arm of the
+[[id:a3e776db-e627-4712-85e2-12667901f336][F-Zlim]] notified fellow Commanders at the exploration arm of the
 [[id:4d701921-5368-403e-a759-a50bb2e1180a][Olympus Corp]]. that he had exactly two minutes and 48 seconds of air
 remaining. Using the last of the ship's backup battery, he transmitted
 his final location via the captain's log module, and then he called

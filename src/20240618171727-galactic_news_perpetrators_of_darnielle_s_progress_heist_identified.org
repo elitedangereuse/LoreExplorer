@@ -28,7 +28,7 @@ incites violence wherever she goes, and in the interest of public
 safety she must be stopped. I urge all those loyal to the Empire to
 deliver justice to this criminal."
 
-Salomé's accomplices have been identified as former [[id:f778f4fa-9cd0-4e2c-b3f4-6ee7adac4d03][MetaDrive]] employee
+[[id:2f09bc24-0885-4d00-9d1f-506b32464dbe][Salomé]]'s accomplices have been identified as former [[id:f778f4fa-9cd0-4e2c-b3f4-6ee7adac4d03][MetaDrive]] employee
 [[id:4ab3e632-de21-44bc-a834-83b808a737ec][Raan Corsen]] – previously believed deceased – and former Junior
 Alliance operative [[id:7bc38ab5-1b0b-4821-a335-41be23b62612][Tsu Annabelle Singh]]. The Empire has placed sizeable
 bounties on both individuals.
@@ -40,5 +40,5 @@ interested in pursuing these bounties:
 attempt to communicate with them. Shoot on sight. Visual evidence of a
 target's death will guarantee the relevant bounty."
 
-Salomé's current location is unknown, but she is believed to have fled
+[[id:2f09bc24-0885-4d00-9d1f-506b32464dbe][Salomé]]'s current location is unknown, but she is believed to have fled
 the core systems.

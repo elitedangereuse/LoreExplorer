@@ -22,4 +22,4 @@ Old Worlds Gazette: “Cooperating with [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15
 
 The Tau Ceti Journal: “Senior figures in the business sector are concerned that [[id:e68a5318-bd72-4c92-9f70-dcdbd59505d1][Azimuth Biotech]], despite some recent market uncertainty, has the potential to become the most influential corporation with all three superpowers. Its success in the [[id:55088d83-4221-44fa-a9d5-6ebb0866c722][HIP 22460]] system could reshape the financial markets considerably.” 
 
-The Empirical: “Ram Tah has published theoretical papers on the Guardian technology derived from the Proteus experiments. However, he admits that full comprehension of the superweapon’s construction requires scientific data held exclusively by [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]].”
+The Empirical: [[id:4551539e-a6b2-4c45-8923-40fb603202b7][Ram Tah]] has published theoretical papers on the Guardian technology derived from the Proteus experiments. However, he admits that full comprehension of the superweapon’s construction requires scientific data held exclusively by [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]].”

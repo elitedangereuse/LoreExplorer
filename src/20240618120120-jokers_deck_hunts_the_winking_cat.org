@@ -8,7 +8,7 @@
 
 /19 Oct 3307/
 
-Francesca Wolfe of the Wallglass Investigations Agency has sent a final report from her infiltration of the secretive gambling circle. 
+[[id:43e76135-cf13-47bf-9a0c-4d46dbdfa19a][Francesca Wolfe]] of the Wallglass Investigations Agency has sent a final report from her infiltration of the secretive gambling circle. 
 
 “The bad news is that Jokers’ Deck security caught up with me as I was trying to sneak onboard a ship to get off-planet. The good news is that they didn’t gun me down, or even threaten to press charges. Instead, they offered me a job!” 
 
@@ -18,6 +18,6 @@ Francesca Wolfe of the Wallglass Investigations Agency has sent a final report f
 
 “So, Lexi October wants to hire us to track down the infamous [[id:b9519a7c-f00b-4a57-9bcf-964258bdd2d8][Winking Cat]] thief and retrieve the ceremonial playing card. This may also be a way for her to save face with her fellow super-rich gamblers, who are understandably unhappy about the exposure.” 
 
-Erik Gunnarson, Wolfe’s detective partner, added: 
+[[id:0367ce6a-a18b-4bca-a6d1-da93c2dd200f][Erik Gunnarson]], Wolfe’s detective partner, added: 
 
 “It’s a huge relief that Wolfe is safe, but what has she got us into now? Will we really be able to catch the [[id:b9519a7c-f00b-4a57-9bcf-964258bdd2d8][Winking Cat]]? I wouldn’t bet on it.”

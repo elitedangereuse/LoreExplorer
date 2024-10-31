@@ -18,7 +18,7 @@ Local journalist Len Kennelly  published a summary for Vox Galactica:
 
 “Federal Liberal Command has declared the highest state of emergency, calling for volunteers to help rescue trapped citizens. We’re seeing direct support from other factions in the system, and Federal Navy specialists are coordinating relief efforts. The humanitarian organisation Safeguard Interstellar is also here in force, providing supplies and temporary shelters for survivors.” 
 
-Sofia Trevino, political correspondent for [[id:be5df73c-519d-45ed-a541-9b70bc8ae97c][The Federal Times]], reported: 
+[[id:e660f840-caed-45ef-985e-f75170cf9ca8][Sofia Trevino]], political correspondent for [[id:be5df73c-519d-45ed-a541-9b70bc8ae97c][The Federal Times]], reported: 
 
 “As soon as this news broke, President-elect [[id:b9fe58a3-dfb7-480c-afd6-92c3be841be7][Felicia Winters]] – a native of [[id:6da9023a-ccb6-444a-be77-626dfb552eb1][Rhea]] 3 and the system’s representative in Congress – immediately cancelled her schedule and travelled to her homeworld. Unverified reports claim that contact has been lost with members of her family, most of whom lived in the capital.” 
 

@@ -12,7 +12,7 @@ Thargoid vessels are interdicting human ships travelling through systems that ha
 
 The Thargoids’ ability to force craft to drop out of hyperspace is well documented. Over the past couple of weeks, pilots have reported that the interdiction ability used by human ships in supercruise is also being utilised by the alien forces. 
 
-Colonel Bris Dekker, an engineer who specialises in frame shift drive technology, submitted his analysis to [[id:be5df73c-519d-45ed-a541-9b70bc8ae97c][The Federal Times]]: 
+[[id:daaa35d6-9517-459d-9fdd-9c1b941b8a5e][Colonel Bris Dekker]], an engineer who specialises in frame shift drive technology, submitted his analysis to [[id:be5df73c-519d-45ed-a541-9b70bc8ae97c][The Federal Times]]: 
 
 “Being intercepted by the Thargoids mid-way through an interstellar journey is certainly a disturbing experience, but not necessarily a fatal one. Many ships have survived such encounters, unless they happen to be carrying Guardian or Thargoid artefacts. By contrast, these more recent incidents are uniformly acts of aggression, with ships being wrenched out of supercruise and immediately fired upon.” 
 
