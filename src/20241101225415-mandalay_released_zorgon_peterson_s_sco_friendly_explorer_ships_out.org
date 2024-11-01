@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID:       15f9c1e2-7dd2-4390-89c2-78322e6c0f90
+:END:
+#+title: Mandalay Released: Zorgon Peterson’s SCO-Friendly Explorer Ships Out
+#+filetags: :3310:galnet:
+
+* Mandalay Released: Zorgon Peterson’s SCO-Friendly Explorer Ships Out
+
+/31 Oct 3310/
+
+The first run of [[id:55bc934d-fae8-4cf7-afbc-825ef95e82af][Mandalay]] ships has been delivered to shipyards across
+the core systems and are now available for purchase.
+
+[[id:d24ee8f5-e2ec-4c71-b5fa-afc2d9710141][Zorgon Peterson]]’s Mandalay is the third new vessel to be optimised for
+[[id:6ebf2d4f-85a9-4251-82c9-406c9c06b5a1][Achilles Aerospace]]’s [[id:bb129165-335b-4dc9-9cf0-ee6640728a92][SCO]] frame shift drive – following the [[id:462821c7-39f9-43bb-8d70-2dedb90f52f3][Python
+Mk. II]] and the [[id:cbcc7192-cc42-4692-875e-71381c29eb33][Type-8]] - and aims to become the premier medium-sized
+exploration craft.
+
+Chief Marketing Officer [[id:78aac322-5926-44aa-9678-c792c3f2ca68][Devin Kaneda]] sent a press statement to all
+shipyard outlets:
+
+“The [[id:55bc934d-fae8-4cf7-afbc-825ef95e82af][Mandalay]] allows pilots to achieve a considerable jump range while
+maintaining the manoeuverability of its size class, expanding the
+range of future exploration voyages of its size class. Our technicians
+have ensured that the ship’s handling in atmospheric conditions is
+exceptional, easing the travel down to undiscovered worlds.”
+
+“A rethink of structural stress resistance, in cooperation with
+Achilles engineers, has resulted in the Mandalay taking full advantage
+of the SCO frame shift drive. We believe this vessel is an exceptional
+package for pilots who wish to explore the galaxy efficiently,
+comfortably and in style.”
+
+Notable at the Mandalay’s release party was the lack of a
+representative of Sirius Corporation. Rumours of an ongoing
+disagreement between representatives and Zorgon Peterson management
+over Achilles’ design input have grown in volume in recent weeks.
