@@ -4,6 +4,8 @@
 #+title: Jaques Quinentian Still
 #+filetags: :Commodity:
 
+* Description
+
 #+begin_quote
 A pocket-sized one shot distillery, hand crafted by the legendary
 Cyborg bartender [[id:f37f17f1-8eb3-4598-93f7-190fe97438a1][Jaques]]. This device is capable of turning almost any
@@ -12,3 +14,9 @@ just 3 minutes.
 
 This rare good is legal in all systems.
 #+end_quote
+
+[[file:img/commodities/jaques_quinentian_still.png]]
+
+* Advertisement
+
+[[https://www.youtube.com/watch?v=A55BlldOswQ][Elite Dangerous "Jaques' Quinentian Still" - Radio Sidewinder advert]]
