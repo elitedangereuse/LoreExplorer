@@ -2,7 +2,9 @@
 :ID:       488137ee-6e22-47f6-93b1-05f2a26e2780
 :END:
 #+title: Sothis Crystalline Gold
-#+filetags: :3301:Commodity:galnet:
+#+filetags: :rare:3301:Commodity:galnet:
+
+A rare commodity sold at [[id:15a6cb6a-a3c1-45b7-ae06-63c8e6755bca][Newholm Station]] in [[id:aa43803c-e60c-45bf-ab48-49a139931c68][Sothis]]
 
 * [[id:aa43803c-e60c-45bf-ab48-49a139931c68][Sothis]] Crystalline Gold
 

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       69c9e7bf-c37f-4d33-9a6d-1c40d6445dd7
+:END:
+#+title: Hip Organophosphates
+#+filetags: :rare:Commodity:
+
+A rare commodity sold at [[id:b08b812a-f510-420c-b5f2-15cc3897ece2][Stasheff Colony]] in [[id:0a1cb833-3b43-4525-b28b-fb2603051efa][HIP 80364]]
+
+#+begin_quote
+The high phosphorous content of this powerful pesticide is highly
+effective, but can cause a number of highly dangerous side
+effects. This has led to some governments classifying it as a chemical
+weapon, and many independent agricultural worlds taking legal action
+against the producer after cattle and workers have been left maimed.
+#+end_quote
+
+This rare good is legal in all systems except for Independent
+Co-operative and Communist systems and Alliance Co-operative systems.

@@ -2,7 +2,9 @@
 :ID:       7bc64134-1b44-40c6-b697-819a8bc1ae3b
 :END:
 #+title: Jaques Quinentian Still
-#+filetags: :Commodity:
+#+filetags: :rare:Commodity:
+
+A rare commodity sold at [[id:935880a2-d4fb-4d27-ad48-0f95112ee0fe][Jaques Station]] in [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]]
 
 * Description
 

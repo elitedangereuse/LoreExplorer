@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       794c8962-b58d-40d2-be55-c7d3c98e0f30
+:END:
+#+title: Classified Experimental Equipment
+#+filetags: :Commodity:
+
+A rare commodity sold at [[id:f10f7c83-9d29-470c-a640-1a3e5334b686][Heart of Taurus]] in [[id:55088d83-4221-44fa-a9d5-6ebb0866c722][HIP 22460]]
+
+#+begin_quote
+Secretive technology required by Salvation for mass anti-Xeno initiatives.
+#+end_quote

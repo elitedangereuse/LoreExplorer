@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       a8e26a1e-dc51-466a-9e93-1e618ca5bd7a
+:END:
+#+title: Alacarakmo Skin Art
+#+filetags: :rare:Commodity:
+
+A rare commodity sold at [[id:86bd237b-8d8b-4e9e-b670-1338e367f107][Weyl Gateway]] in [[id:6b1e42b0-4cc8-4376-ac40-f5855c7800dc][Alacarakmo]]
+
+#+begin_quote
+Micro-thin sheets that are absorbed into the skin. A mixture of
+bioengineering and micro-electronics allow the user to programme art
+on their skin that reacts to their surroundings and mood. The Body
+Décor company of Alacarakmo has specialised in this for hundreds of
+years.
+#+end_quote

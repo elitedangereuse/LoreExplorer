@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       5afb60f7-7da2-4898-a23f-c802868c04f0
+:END:
+#+title: Rajukru Multi-Stoves
+#+filetags: :rare:Commodity:
+
+A rare commodity sold at [[id:0a6a10bf-c03e-4a28-a791-a06ec6e09fc2][Snyder Terminal]] in [[id:d93fc596-b8cd-47a1-a30b-729d657c1167][Rajukru]]
+
+#+begin_quote
+Multipurpose stoves that can be operated using almost any fuel. Used
+on many frontier worlds where other technology cannot be relied on or
+just does not work. Galactic heritage approved. The famed rustic
+designs are in use on camp fires throughout the galaxy.
+#+end_quote
+

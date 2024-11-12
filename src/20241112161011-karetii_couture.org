@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       42cd87e5-c039-4c61-bb59-34d39506c760
+:END:
+#+title: Karetii Couture
+#+filetags: :rare:Commodity:
+
+A rare commodity sold at [[id:b6e23bcf-2ee6-48ca-8eef-68406cb46eed][Sinclair Platform]] in [[id:fdd45b8c-17a9-404f-a93d-ba6a42182323][Karetii]]
+
+#+begin_quote
+Despite the vagaries of fashion, Karetii Couture is always ahead of
+the curve, and so are the prices. Many people question the value and
+the practicalities of these items and yet they still maintain a
+vice-like grip on the public's imagination and credits.
+#+end_quote
+
+This rare good is legal in all systems.
