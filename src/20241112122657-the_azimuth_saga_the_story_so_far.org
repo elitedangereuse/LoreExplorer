@@ -3,11 +3,10 @@
 :ROAM_REFS: https://forums.frontier.co.uk/threads/the-azimuth-saga-the-story-so-far.585804/
 :END:
 #+title: The Azimuth Saga: The Story So Far
+#+filetags: :3308:3307:3306:
 
 By Bruce Garrido - Community Manager
 * The Azimuth Saga
-
-[[https://forums.frontier.co.uk/attachments/azimuth_banner_01_1500x500-png.249807/]]
 
 [[file:img/salvation/azimuth_banner.png]]
 
@@ -29,17 +28,20 @@ after setting out two centuries prior.
 
 An excerpt from an Alliance Salvage Guild specialist's report:
 
-/"The Adamastor has been travelling at sublight speed through
+#+begin_quote
+The Adamastor has been travelling at sublight speed through
 interstellar space for nearly two hundred years. There are no remains of
 the crew. All escape pods and secondary craft have been launched, and
 several airlocks were manually opened from within. A complete absence of
 identification suggests that this ship was intended for clandestine
-operations. All data drives have been deliberately erased."/
+operations. All data drives have been deliberately erased.
+#+end_quote
 
 A private investigator from Wallglass Investigations Agency uncovers
 further information about the Adamastor:
 
-/"I convinced the Alliance Salvage Guild to pass on some serial numbers
+#+begin_quote
+I convinced the Alliance Salvage Guild to pass on some serial numbers
 that they discovered inside the Adamastor. Then I started scouring
 databases, interviewing sources and, well, doing my old job. The
 megaship was owned by a corporation called Azimuth Biochemicals. This
@@ -51,14 +53,15 @@ in October 3111. It plotted a course toward Barnard's Loop with fuel for
 approximately 370 light years, and was scheduled to pass by the HIP
 39748 and HIP 33386 systems. I'm way too old to head out there myself,
 but l hope someone can use this info, and help satisfy my curiosity
-about what happened all those years ago."/
+about what happened all those years ago.
+#+end_quote
 
 NOV, 3306 - Data from the Adamastor reveals the presence of precious
 meta-alloy sources in the Coalsack Nebula. The /Alliance Assembly/
 announces an expedition to the Coalsack Nebula to secure the resources.
 To do so, they recruit the help of pilots and successfully establish
 outposts in the area to defend against potential Thargoid attacks.
-Shortly after, they begin working with Sirius Atmospherics/,/ a
+Shortly after, they begin working with Sirius Atmospherics, a
 subsidiary of Sirius Corporation to terraform ammonia worlds in the
 region. 
 
@@ -66,53 +69,46 @@ DEC, 3306 - Thargoids launch coordinated attacks on the Coalsack and
 Witch Head nebulas, leading to urgent calls for assistance. Admiral Aden
 Tanner, chief military liaison for Aegis, made this announcement:
 
-/“This is a resurgence of Thargoid activity on a scale that we have not
+#+begin_quote
+This is a resurgence of Thargoid activity on a scale that we have not
 witnessed for a long time. Unfortunately, drastic reductions in funding
 and resources mean that Aegis is unable to provide adequate defensive
-measures.”/
+measures.
+#+end_quote
 
 JAN, 3307 - As a coalition of all three Galactic Superpowers, Aegis
 appeals to the Empire, Federation, and Alliance to set aside internal
 conflicts to offer adequate focus on the Thargoid threat. Professor Alba
 Tesreau, head of research at Aegis, gave this statement:
 
-/“Humanity's focus on petty internal conflicts has blinded us to the
+#+begin_quote
+Humanity's focus on petty internal conflicts has blinded us to the
 existential threat of the Thargoids. Their recent horrific attacks
 should be a wake-up call to the fact that defunding has crippled Aegis's
 ability to offer protection. We strongly entreat our founders to come
 together and channel resources toward Aegis, and particularly into
 research. There can be no hope of coexistence with this alien species
-unless we increase our understanding of them.”/
+unless we increase our understanding of them.
+#+end_quote
 
-( i )
-[[https://twitter.com/EliteDangerous/status/1321500318434238465][An
-audio log from the Adamastor Megaship]]
+*** Related Audio Logs
 
-( i ) Related GalNet Articles
+- [[https://twitter.com/EliteDangerous/status/1321500318434238465][An audio log from the Adamastor Megaship]]
 
-[[https://community.elitedangerous.com/galnet/uid/5f9aabdbc0aca338d54b3b26][29.10.3306 -
-"Ghost Ship" Arrives in Chukchan System]]
-[[https://community.elitedangerous.com/galnet/uid/5fa9414b90105502c940b29e][09.11.3306 -
-"Ghost Ship" Leads Alliance to New Resources]]
-[[https://community.elitedangerous.com/galnet/uid/5fad30af5a969760ae1f0575][12.11.3306 -
-Alliance Launches Coalsack Nebula Campaign]]
-[[https://community.elitedangerous.com/galnet/uid/5fb3df3febf97257d65b75e6][17.11.3306 -
-Coalsack Nebula Campaign Completes Initial Stages]]
-[[https://community.elitedangerous.com/galnet/uid/5fbf96fc99b5ca022a45f285][26.11.3306 -
-Alliance Consolidates Presences in Coalsack Nebula]]
-[[https://www.elitedangerous.com/news/galnet/galactic-mysteries-adamastor][10.03.3307 - Galactic Mysteries: The Adamastor]]
-[[https://www.elitedangerous.com/news/galnet/coalsack-nebula-project-gathers-ammonia-worlds-data][10.12.3306 -
-Coalsack Nebula Project Gathers Ammonia Worlds Data]]
-[[https://www.elitedangerous.com/news/galnet/coalsack-nebula-terraforming-project-stalls][28.12.3306 -
-Coalsack Nebula Terraforming Project Stalls]]
-[[https://www.elitedangerous.com/news/galnet/thargoids-attack-coalsack-and-witch-head-nebulas][31.12.3306 -
-Thargoids Attack Coalsack and Witch Head Nebulas]]
-[[https://www.elitedangerous.com/news/galnet/thargoids-wreak-havoc-nebulas][07.01.3307 -
-Thargoids Wreak Havoc in Nebulas]]
-[[https://www.elitedangerous.com/news/galnet/aegis-supports-galactic-summit][08.01.3307 -
-Aegis Supports Galactic Summit]]
-[[https://www.elitedangerous.com/news/galnet/thargoid-conflict-discussed-galactic-summit][09.03.3307 -
-Thargoid Conflict Discussed at the Galactic Summit]]
+*** Related GalNet Articles
+
+- [[https://community.elitedangerous.com/galnet/uid/5f9aabdbc0aca338d54b3b26][29.10.3306 - "Ghost Ship" Arrives in Chukchan System]]
+- [[https://community.elitedangerous.com/galnet/uid/5fa9414b90105502c940b29e][09.11.3306 - "Ghost Ship" Leads Alliance to New Resources]]
+- [[https://community.elitedangerous.com/galnet/uid/5fad30af5a969760ae1f0575][12.11.3306 - Alliance Launches Coalsack Nebula Campaign]]
+- [[https://community.elitedangerous.com/galnet/uid/5fb3df3febf97257d65b75e6][17.11.3306 - Coalsack Nebula Campaign Completes Initial Stages]]
+- [[https://community.elitedangerous.com/galnet/uid/5fbf96fc99b5ca022a45f285][26.11.3306 - Alliance Consolidates Presences in Coalsack Nebula]]
+- [[https://www.elitedangerous.com/news/galnet/galactic-mysteries-adamastor][10.03.3307 - Galactic Mysteries: The Adamastor]]
+- [[https://www.elitedangerous.com/news/galnet/coalsack-nebula-project-gathers-ammonia-worlds-data][10.12.3306 - Coalsack Nebula Project Gathers Ammonia Worlds Data]]
+- [[https://www.elitedangerous.com/news/galnet/coalsack-nebula-terraforming-project-stalls][28.12.3306 - Coalsack Nebula Terraforming Project Stalls]]
+- [[https://www.elitedangerous.com/news/galnet/thargoids-attack-coalsack-and-witch-head-nebulas][31.12.3306 - Thargoids Attack Coalsack and Witch Head Nebulas]]
+- [[https://www.elitedangerous.com/news/galnet/thargoids-wreak-havoc-nebulas][07.01.3307 - Thargoids Wreak Havoc in Nebulas]]
+- [[https://www.elitedangerous.com/news/galnet/aegis-supports-galactic-summit][08.01.3307 - Aegis Supports Galactic Summit]]
+- [[https://www.elitedangerous.com/news/galnet/thargoid-conflict-discussed-galactic-summit][09.03.3307 - Thargoid Conflict Discussed at the Galactic Summit]]
 
 ** ACT I
 
@@ -128,7 +124,8 @@ C2-2* system, they find that the twin megaship has already been claimed
 by the /Scriveners/, a /Dredger Clan/. /Francesca Wolfe/ of /Wallglass
 Investigations Agency/ gave some insight:
 
-/“The Scriveners Clan was originally a fleet of research vessels for a
+#+begin_quote
+The Scriveners Clan was originally a fleet of research vessels for a
 long-forgotten academic consortium. Over centuries they became a
 self-sufficient society, constantly acquiring materials and information.
 They're not aggressive, but shun outsiders and jealously guard their
@@ -137,42 +134,42 @@ lector-generals, suggesting their culture is a merger of scholastic and
 military. With the Hesperus claimed as salvage by the Scriveners and its
 drives stripped, all chance of learning more was lost. Luckily, four
 encoded data files had resisted upload, and a gap in the dredger's
-antiquated firewalls allowed pilots to hack them.”/
+antiquated firewalls allowed pilots to hack them.
+#+end_quote
 
 Elsewhere, Aegis launches a new anti-xeno research programme and
 requests Commanders for aid in delivering Guardian technology. Professor
-Alba Tesreau, head of Aegis Research/,/ gave this statement:
+Alba Tesreau, head of Aegis Research, gave this statement:
 
-/“At the Galactic Summit, Aegis agreed to undertake a fresh analysis of
+#+begin_quote
+At the Galactic Summit, Aegis agreed to undertake a fresh analysis of
 Guardian technology. The hope is that this will lead to the development
 of more effective defences against the Thargoids. We therefore require
 new samples to compare with Ram Tah's groundbreaking work on this
 mysterious species./ [...] /I beseech the galactic community to support
 this project. It is vital that Aegis continues to receive funding, and
 to achieve this we must push the boundaries of our knowledge even
-further.”/
+further.
+#+end_quote
 
 Aegis are overwhelmingly successful in their initiative, receiving a
 massive delivery of Guardian artefacts. Professor Alba Tesreau made this
 announcement:
 
-/“Everyone at Aegis is thankful for the impressive effort made by the
+#+begin_quote
+Everyone at Aegis is thankful for the impressive effort made by the
 galactic community. If we can gain new insights into Guardian technology
 from these samples, then funding and resources for our work may
-continue.”/
+continue.
+#+end_quote
 
-( i ) Related GalNet Articles
+*** Related GalNet Articles
 
-[[https://www.elitedangerous.com/news/galnet/awakening-adamastor][08.04.3307 -
-The Awakening of the Adamastor]]
-[[https://www.elitedangerous.com/news/galnet/adamastor-enigma][19.04.3307 -
-The Adamastor Enigma]]
-[[https://www.elitedangerous.com/news/galnet/aegis-appeals-guardian-artefacts][22.04.3307 -
-Aegis Appeals for Guardian Artefacts]]
-[[https://www.elitedangerous.com/news/galnet/galactic-mysteries-hesperus][27.04.3307 -
-Galactic Mysteries: The Hesperus]]
-[[https://www.elitedangerous.com/news/galnet/guardian-artefacts-collected-aegis-project][29.04.3307 -
-Guardian Artefacts Collected for Aegis Project]]
+- [[https://www.elitedangerous.com/news/galnet/awakening-adamastor][08.04.3307 - The Awakening of the Adamastor]]
+- [[https://www.elitedangerous.com/news/galnet/adamastor-enigma][19.04.3307 - The Adamastor Enigma]]
+- [[https://www.elitedangerous.com/news/galnet/aegis-appeals-guardian-artefacts][22.04.3307 - Aegis Appeals for Guardian Artefacts]]
+- [[https://www.elitedangerous.com/news/galnet/galactic-mysteries-hesperus][27.04.3307 - Galactic Mysteries: The Hesperus]]
+- [[https://www.elitedangerous.com/news/galnet/guardian-artefacts-collected-aegis-project][29.04.3307 - Guardian Artefacts Collected for Aegis Project]]
 
 ** ACT II
 
@@ -251,27 +248,18 @@ with a specially engineered Class 2 Fixed Guardian Shard Cannon. The
 Pilot's Federation declares these modules as "hot", requiring additional
 costs to clean them prior to installation.
 
-( i ) Related GalNet Articles
+*** Related GalNet Articles
 
-0[[https://www.elitedangerous.com/news/galnet/voice-salvation][7.05.3307 -
-The Voice of Salvation]]
-[[https://www.elitedangerous.com/news/galnet/mass-thargoid-strike-emergency-declared][13.05.3307 -
-Mass Thargoid Strike - Emergency Declared]]
-[[https://www.elitedangerous.com/news/galnet/thargoids-pursue-aegis-megaship][21.05.3307 -
-Thargoids Pursue Aegis Megaship]]
-[[https://www.elitedangerous.com/news/galnet/federation-refuses-entry-plague-ship][24.05.3307 -
-Federation Refuses Entry to "Plague Ship"]]
-[[https://www.elitedangerous.com/news/galnet/aegis-megaship-prepares-escape-thargoids][01.06.3307 -
-Aegis Megaship Prepares to Escape Thargoids]]
-[[https://www.elitedangerous.com/news/galnet/aegis-megaship-vanishes-hyperspace][04.06.3307 -
-Aegis Megaship Vanishes in Hyperspace]]
-[[https://www.elitedangerous.com/news/galnet/legacy-hesperus][11.06.3307 - The Legacy of the Hesperus]]
-[[https://www.elitedangerous.com/news/galnet/guardian-thargoid-battlefield-discovered][18.06.3307 -
-Guardian-Thargoid Battlefield Discovered]]
-[[https://www.elitedangerous.com/news/galnet/aegis-and-salvation-compete-guardian-artefacts][24.06.3307 -
-Aegis and "Salvation" Compete for Guardian Artefacts]]
-[[https://www.elitedangerous.com/news/galnet/salvation-eclipses-aegis-obtain-guardian-artefacts][01.07.3307 -
-"Salvation" Eclipses Aegis to Obtain Guardian Artefacts]]
+- [[https://www.elitedangerous.com/news/galnet/voice-salvation][07.05.3307 - The Voice of Salvation]]
+- [[https://www.elitedangerous.com/news/galnet/mass-thargoid-strike-emergency-declared][13.05.3307 - Mass Thargoid Strike - Emergency Declared]]
+- [[https://www.elitedangerous.com/news/galnet/thargoids-pursue-aegis-megaship][21.05.3307 - Thargoids Pursue Aegis Megaship]]
+- [[https://www.elitedangerous.com/news/galnet/federation-refuses-entry-plague-ship][24.05.3307 - Federation Refuses Entry to "Plague Ship"]]
+- [[https://www.elitedangerous.com/news/galnet/aegis-megaship-prepares-escape-thargoids][01.06.3307 - Aegis Megaship Prepares to Escape Thargoids]]
+- [[https://www.elitedangerous.com/news/galnet/aegis-megaship-vanishes-hyperspace][04.06.3307 - Aegis Megaship Vanishes in Hyperspace]]
+- [[https://www.elitedangerous.com/news/galnet/legacy-hesperus][11.06.3307 - The Legacy of the Hesperus]]
+- [[https://www.elitedangerous.com/news/galnet/guardian-thargoid-battlefield-discovered][18.06.3307 - Guardian-Thargoid Battlefield Discovered]]
+- [[https://www.elitedangerous.com/news/galnet/aegis-and-salvation-compete-guardian-artefacts][24.06.3307 - Aegis and "Salvation" Compete for Guardian Artefacts]]
+- [[https://www.elitedangerous.com/news/galnet/salvation-eclipses-aegis-obtain-guardian-artefacts][01.07.3307 - "Salvation" Eclipses Aegis to Obtain Guardian Artefacts]]
 
 ** ACT III
 
@@ -405,27 +393,18 @@ territories to be a viable target. As most of our operations are
 suspended due to the public inquiry, we cannot dedicate any resources to
 investigate further.”/
 
-( i ) Related GalNet Articles
+*** Related GalNet Articles
 
-[[https://www.elitedangerous.com/news/galnet/scriveners-clan-abandons-hesperus][09.07.3307 -
-Scriveners Clan Abandons the Hesperus]]
-[[https://www.elitedangerous.com/news/galnet/galactic-mysteries-far-god-cult][19.07.3307 -
-Galactic Mysteries: The Far God Cult]]
-[[https://www.elitedangerous.com/news/galnet/aegis-investigated-after-megaship-loss][27.07.3307 -
-Aegis Investigated After Megaship Loss]]
-[[https://www.elitedangerous.com/news/galnet/far-god-megaship-initiative-concludes][29.07.3307 -
-Far God Megaship Initiative Concludes]]
-[[https://www.elitedangerous.com/news/galnet/thargoid-cultists-prepare-religious-voyages][06.08.3307 - Thargoid Cultists Prepare for Religious Voyages]]
-[[https://www.elitedangerous.com/news/galnet/aegis-probed-board-inquiry][11.08.3307 -
-Aegis Probed by Board of Inquiry]]
-[[https://www.elitedangerous.com/news/galnet/leaked-report-exposes-aegis-failures][17.08.3307 -
-Leaked Report Exposes Aegis Failures]]
-[[https://www.elitedangerous.com/news/galnet/hyfords-cache-reveals-mysterious-project][31.08.3307 -
-Hyford's Cache Reveals Mysterious Project]]
-[[https://www.elitedangerous.com/news/galnet/mahon-sirius-treaty-would-save-aegis][07.09.3307 -
-Mahon: Sirius Treaty Would Save Aegis]]
-[[https://www.elitedangerous.com/news/galnet/salvation-warns-thargoid-strike][14.09.3307 -
-Salvation Warns of Thargoid Strike]]
+- [[https://www.elitedangerous.com/news/galnet/scriveners-clan-abandons-hesperus][09.07.3307 - Scriveners Clan Abandons the Hesperus]]
+- [[https://www.elitedangerous.com/news/galnet/galactic-mysteries-far-god-cult][19.07.3307 - Galactic Mysteries: The Far God Cult]]
+- [[https://www.elitedangerous.com/news/galnet/aegis-investigated-after-megaship-loss][27.07.3307 - Aegis Investigated After Megaship Loss]]
+- [[https://www.elitedangerous.com/news/galnet/far-god-megaship-initiative-concludes][29.07.3307 - Far God Megaship Initiative Concludes]]
+- [[https://www.elitedangerous.com/news/galnet/thargoid-cultists-prepare-religious-voyages][06.08.3307 - Thargoid Cultists Prepare for Religious Voyages]]
+- [[https://www.elitedangerous.com/news/galnet/aegis-probed-board-inquiry][11.08.3307 - Aegis Probed by Board of Inquiry]]
+- [[https://www.elitedangerous.com/news/galnet/leaked-report-exposes-aegis-failures][17.08.3307 - Leaked Report Exposes Aegis Failures]]
+- [[https://www.elitedangerous.com/news/galnet/hyfords-cache-reveals-mysterious-project][31.08.3307 - Hyford's Cache Reveals Mysterious Project]]
+- [[https://www.elitedangerous.com/news/galnet/mahon-sirius-treaty-would-save-aegis][07.09.3307 - Mahon: Sirius Treaty Would Save Aegis]]
+- [[https://www.elitedangerous.com/news/galnet/salvation-warns-thargoid-strike][14.09.3307 - Salvation Warns of Thargoid Strike]]
 
 ** ACT IV
 
@@ -471,15 +450,12 @@ Cornsar and invites them to the Mbooni system. A Megaship located there
 has a Tech Broken contact who provides pilots who seek them uniquely
 engineered Anti-Xeno combat weapons.
 
-( i ) Related GalNet Articles
+*** Related GalNet Articles
 
-[[https://www.elitedangerous.com/news/galnet/thargoid-strike-follows-salvations-prediction][16.09.3307 -
-Thargoid Strike Follows Salvation's Prediction]]
-[[https://www.elitedangerous.com/news/galnet/thargoids-vanish-cornsar-system][20.09.3307 - Thargoids Vanish From Cornsar System]]
-[[https://www.elitedangerous.com/news/galnet/salvation-takes-credit-repelling-thargoids][22.09.3307 -
-Salvation Takes Credit For Repelling Thargoids]]
-[[https://www.elitedangerous.com/news/galnet/salvation-friend-or-foe][27.09.3307 -
-Salvation: Friend Or Foe?]]
+- [[https://www.elitedangerous.com/news/galnet/thargoid-strike-follows-salvations-prediction][16.09.3307 - Thargoid Strike Follows Salvation's Prediction]]
+- [[https://www.elitedangerous.com/news/galnet/thargoids-vanish-cornsar-system][20.09.3307 - Thargoids Vanish From Cornsar System]]
+- [[https://www.elitedangerous.com/news/galnet/salvation-takes-credit-repelling-thargoids][22.09.3307 - Salvation Takes Credit For Repelling Thargoids]]
+- [[https://www.elitedangerous.com/news/galnet/salvation-friend-or-foe][27.09.3307 - Salvation: Friend Or Foe?]]
 
 ** ACT V
 
@@ -538,7 +514,7 @@ Commanders told me that this latest wave is proving unusually difficult
 to repel, with a steady stream of reinforcements replacing those alien
 vessels destroyed in battle."/
 
-( i ) Related GalNet Articles
+*** Related GalNet Articles
 
 [[https://www.elitedangerous.com/news/galnet/thargoid-fleets-invade-nebula-systems][28.10.3307 -
 Thargoid Fleets Invade Nebula Systems]]
@@ -590,17 +566,13 @@ dozen populated systems including Shenve, Pleiades Sector IH-V c2-5 and
 Coalsack Sector VU-O b6-6. All are in the vicinity of nebulas, which
 seem to be favoured by the Thargoids.”/
 
-( i ) Related GalNet Articles
+*** Related GalNet Articles
 
-[[https://www.elitedangerous.com/news/galnet/support-salvations-counterstrike-against-thargoids][09.12.3307 -
-Support Salvation's Counterstrike Against the Thargoids]]
-14.12.3307 - Thargoids Repulsed From Three Systems
-[[https://www.elitedangerous.com/news/galnet/triumph-salvation][15.12.3307 -
-The Triumph of Salvation]]
-[[https://www.elitedangerous.com/news/galnet/salvation-recruits-naval-crews][17.12.3307 -
-Salvation Recruits Naval Crews]]
-[[https://www.elitedangerous.com/news/galnet/thargoid-presence-persists-multiple-systems][21.12.3307 -
-Thargoid Presence Persists in Multiple Systems]]
+- [[https://www.elitedangerous.com/news/galnet/support-salvations-counterstrike-against-thargoids][09.12.3307 - Support Salvation's Counterstrike Against the Thargoids]]
+- 14.12.3307 - Thargoids Repulsed From Three Systems
+- [[https://www.elitedangerous.com/news/galnet/triumph-salvation][15.12.3307 - The Triumph of Salvation]]
+- [[https://www.elitedangerous.com/news/galnet/salvation-recruits-naval-crews][17.12.3307 - Salvation Recruits Naval Crews]]
+- [[https://www.elitedangerous.com/news/galnet/thargoid-presence-persists-multiple-systems][21.12.3307 - Thargoid Presence Persists in Multiple Systems]]
 
 ** ACT VII
 
@@ -875,99 +847,58 @@ function. Salvation predicts that the wide-ranging impact of the
 superweapon will drive all Thargoids out of the core systems. In
 practical terms, tomorrow will be their doomsday.”
 
-( i ) Related GalNet Articles
+*** Related GalNet Articles
 
-[[https://www.elitedangerous.com/news/galnet/baumann-report-dismantle-aegis][12.01.3308 -
-Baumann Report: 'Dismantle Aegis']]
-[[https://www.elitedangerous.com/news/galnet/superpowers-plan-replace-aegis][18.01.3308 -
-Superpowers Plan to Replace Aegis]]
-[[https://www.elitedangerous.com/news/galnet/return-alexandria][22.01.3308 -
-The Return of the Alexandria]]
-[[https://www.elitedangerous.com/news/galnet/azimuth-has-survived-warns-aegis][31.01.3308 -
-'Azimuth Has Survived' Warns Aegis]]
+- [[https://www.elitedangerous.com/news/galnet/baumann-report-dismantle-aegis][12.01.3308 - Baumann Report: 'Dismantle Aegis']]
+- [[https://www.elitedangerous.com/news/galnet/superpowers-plan-replace-aegis][18.01.3308 - Superpowers Plan to Replace Aegis]]
+- [[https://www.elitedangerous.com/news/galnet/return-alexandria][22.01.3308 - The Return of the Alexandria]]
+- [[https://www.elitedangerous.com/news/galnet/azimuth-has-survived-warns-aegis][31.01.3308 - 'Azimuth Has Survived' Warns Aegis]]
 
-[[https://www.elitedangerous.com/news/galnet/fall-aegis][07.02.3308 -
-The Fall of Aegis]]
-[[https://www.elitedangerous.com/news/galnet/new-thargoid-assaults-three-systems][11.02.3308 - New Thargoid Assaults in Three Systems]]
-[[https://www.elitedangerous.com/news/galnet/pilots-form-vanguard-against-thargoid-attacks][18.02.3308 -
-Pilots Form Vanguard Against Thargoid Attacks]]
+- [[https://www.elitedangerous.com/news/galnet/fall-aegis][07.02.3308 - The Fall of Aegis]]
+- [[https://www.elitedangerous.com/news/galnet/new-thargoid-assaults-three-systems][11.02.3308 - New Thargoid Assaults in Three Systems]]
+- [[https://www.elitedangerous.com/news/galnet/pilots-form-vanguard-against-thargoid-attacks][18.02.3308 - Pilots Form Vanguard Against Thargoid Attacks]]
 
-[[https://www.elitedangerous.com/news/galnet/aegis-demands-reinstatement][02.03.3308 -
-Aegis Demands Reinstatement]]
-[[https://www.elitedangerous.com/news/galnet/taurus-mining-ventures-begins-scientific-study][23.03.3308 -
-Taurus Mining Ventures Begins Scientific Study]]
-[[https://www.elitedangerous.com/news/galnet/taurus-prepares-mining-operation][28.03.3308 - Taurus Prepares Mining Operation]]
-[[https://www.elitedangerous.com/news/galnet/taurus-mining-ventures-calls-support][31.03.3308 -
-Taurus Mining Ventures Calls for Support]]
+- [[https://www.elitedangerous.com/news/galnet/aegis-demands-reinstatement][02.03.3308 - Aegis Demands Reinstatement]]
+- [[https://www.elitedangerous.com/news/galnet/taurus-mining-ventures-begins-scientific-study][23.03.3308 - Taurus Mining Ventures Begins Scientific Study]]
+- [[https://www.elitedangerous.com/news/galnet/taurus-prepares-mining-operation][28.03.3308 - Taurus Prepares Mining Operation]]
+- [[https://www.elitedangerous.com/news/galnet/taurus-mining-ventures-calls-support][31.03.3308 - Taurus Mining Ventures Calls for Support]]
 
-[[https://www.elitedangerous.com/news/galnet/taurus-mining-ventures-operation-concludes][07.04.3308 -
-Taurus Mining Ventures Operation Concludes]]
-[[https://www.elitedangerous.com/news/galnet/salvation-strengthens-bonds-superpowers][18.04.3308 -
-Salvation Strengthens Bonds With Superpowers]]
-[[https://www.elitedangerous.com/news/galnet/superpower-systems-overrun-thargoids][21.04.3308 -
-Superpower Systems Overrun By Thargoids]]
+- [[https://www.elitedangerous.com/news/galnet/taurus-mining-ventures-operation-concludes][07.04.3308 - Taurus Mining Ventures Operation Concludes]]
+- [[https://www.elitedangerous.com/news/galnet/salvation-strengthens-bonds-superpowers][18.04.3308 - Salvation Strengthens Bonds With Superpowers]]
+- [[https://www.elitedangerous.com/news/galnet/superpower-systems-overrun-thargoids][21.04.3308 - Superpower Systems Overrun By Thargoids]]
 
-[[https://www.elitedangerous.com/news/galnet/salvation-triggers-superweapon-victory][12.05.3308 -
-Salvation Triggers Superweapon Victory]]
-[[http://Salvation%27s%20War%27s%20end%20within%20reach][23.05.3308 -
-Salvation's War's end within reach]]
-[[https://www.elitedangerous.com/news/galnet/new-discovery-links-azimuth-inra][30.05.3308 -
-New discovery links Azimuth to INRA]]
+- [[https://www.elitedangerous.com/news/galnet/salvation-triggers-superweapon-victory][12.05.3308 - Salvation Triggers Superweapon Victory]]
+- [[http://Salvation%27s%20War%27s%20end%20within%20reach][23.05.3308 - Salvation's War's end within reach]]
+- [[https://www.elitedangerous.com/news/galnet/new-discovery-links-azimuth-inra][30.05.3308 - New discovery links Azimuth to INRA]]
 
-[[https://www.elitedangerous.com/news/galnet/aegis-arrest-salvation-murder][03.06.3308 -
-AEGIS Arrest Salvation for murder]]
-[[https://www.elitedangerous.com/news/galnet/project-seraph-victim-seeks-revenge][10.06.3308 -
-Project SERAPH victim seeks revenge]]
-[[https://www.elitedangerous.com/news/galnet/salvation-and-superpowers][14.06.3308 -
-Salvation and the Superpowers]]
-[[https://www.elitedangerous.com/news/galnet/azimuth-resurgent][20.06.3308 -
-Azimuth Resurgent]]
-[[https://www.elitedangerous.com/news/galnet/superpowers-stand-azimuth][22.06.3308 - Superpowers stand with Azimuth]]
-[[https://www.elitedangerous.com/news/galnet/salvation-prepares-final-thargoid-battlefield][30.06.3308 -
-Salvation Prepares 'Final Thargoid Battleground']]
-[[https://www.elitedangerous.com/news/galnet/operation-wych-hunt-opposes-azimuth-biotech][30.06.3308 -
-"Operation Wych Hunt" Opposes Azimuth Biotech]]
+- [[https://www.elitedangerous.com/news/galnet/aegis-arrest-salvation-murder][03.06.3308 - AEGIS Arrest Salvation for murder]]
+- [[https://www.elitedangerous.com/news/galnet/project-seraph-victim-seeks-revenge][10.06.3308 - Project SERAPH victim seeks revenge]]
+- [[https://www.elitedangerous.com/news/galnet/salvation-and-superpowers][14.06.3308 - Salvation and the Superpowers]]
+- [[https://www.elitedangerous.com/news/galnet/azimuth-resurgent][20.06.3308 - Azimuth Resurgent]]
+- [[https://www.elitedangerous.com/news/galnet/superpowers-stand-azimuth][22.06.3308 - Superpowers stand with Azimuth]]
+- [[https://www.elitedangerous.com/news/galnet/salvation-prepares-final-thargoid-battlefield][30.06.3308 - Salvation Prepares 'Final Thargoid Battleground']]
+- [[https://www.elitedangerous.com/news/galnet/operation-wych-hunt-opposes-azimuth-biotech][30.06.3308 - "Operation Wych Hunt" Opposes Azimuth Biotech]]
 
-[[https://www.elitedangerous.com/news/galnet/far-god-cult-condemns-salvation][04.07.3308 -
-Far God Cult Condemns Salvation]]
-[[https://www.elitedangerous.com/news/galnet/guardian-artefacts-needed-power-superweapon][05.07.3308 -
-Guardian Artefacts Needed to Power Superweapon]]
-[[https://www.elitedangerous.com/news/galnet/salvation-stratagem][07.07.3308 -
-The Salvation Stratagem]]
-[[https://www.elitedangerous.com/news/galnet/hip-22460-receives-vital-supplies][07.07.3308 - HIP 22460 Receives Vital Supplies]]
-[[https://www.elitedangerous.com/news/galnet/thargoids-launch-attack-hip-22460][08.07.3308 -
-Thargoids Launch Attack in HIP 22460]]
-[[https://www.elitedangerous.com/news/galnet/guardian-artefact-initiative-enters-second-phase][12.07.3308 -
-Guardian Artefact Initiative Enters Second Phase]]
-[[https://www.elitedangerous.com/news/galnet/battle-hip-22460][13.07.3308 -
-The Battle of HIP 22460]]
-[[https://www.elitedangerous.com/news/galnet/pilots-urged-defend-proteus-wave-project][14.07.3308 -
-Pilots Urged to Defend the Proteus Wave Project]]
-[[https://www.elitedangerous.com/news/galnet/azimuths-plan-elicits-further-reactions][15.07.3308 -
-Azimuth's Plan Elicits Further Reactions]]
-[[https://www.elitedangerous.com/news/galnet/xenocide-debate][18.07.3308 -
-The Xenocide Debate]]
-[[https://www.elitedangerous.com/news/galnet/azimuths-final-call-guardian-artefacts][19.07.3308 -
-Azimuth's Final Call for Guardian Artefacts]]
-[[https://www.elitedangerous.com/news/galnet/proteus-wave-approaches-completion][21.07.3308 -
-Proteus Wave Approaches Completion]]
-[[https://www.elitedangerous.com/news/galnet/view-front-line][22.07.3308 -
-The View from the Front Line]]
-[[https://www.elitedangerous.com/news/galnet/azimuth-condemns-alien-loving-resistance][25.07.3308 - Azimuth Condemns "Alien-Loving" Resistance]]
-[[https://www.elitedangerous.com/news/galnet/guardian-artefact-campaign-concludes][26.07.3308 -
-Guardian Artefact Campaign Concludes]]
-[[https://www.elitedangerous.com/news/galnet/tesreau-highlights-azimuths-inhumanity][27.07.3308 -
-Tesreau Highlight Azimuth's "Inhumanity"]]
-[[https://www.elitedangerous.com/news/galnet/thargoid-salvage-operation-requires-resources][28.07.3308 -
-Thargoid Salvage Operation Requires Resources]]
-[[https://www.elitedangerous.com/news/galnet/superweapon-construction-completed][29.07.3308 -
-Superweapon Construction Completed]]
+- [[https://www.elitedangerous.com/news/galnet/far-god-cult-condemns-salvation][04.07.3308 - Far God Cult Condemns Salvation]]
+- [[https://www.elitedangerous.com/news/galnet/guardian-artefacts-needed-power-superweapon][05.07.3308 - Guardian Artefacts Needed to Power Superweapon]]
+- [[https://www.elitedangerous.com/news/galnet/salvation-stratagem][07.07.3308 - The Salvation Stratagem]]
+- [[https://www.elitedangerous.com/news/galnet/hip-22460-receives-vital-supplies][07.07.3308 - HIP 22460 Receives Vital Supplies]]
+- [[https://www.elitedangerous.com/news/galnet/thargoids-launch-attack-hip-22460][08.07.3308 - Thargoids Launch Attack in HIP 22460]]
+- [[https://www.elitedangerous.com/news/galnet/guardian-artefact-initiative-enters-second-phase][12.07.3308 - Guardian Artefact Initiative Enters Second Phase]]
+- [[https://www.elitedangerous.com/news/galnet/battle-hip-22460][13.07.3308 - The Battle of HIP 22460]]
+- [[https://www.elitedangerous.com/news/galnet/pilots-urged-defend-proteus-wave-project][14.07.3308 - Pilots Urged to Defend the Proteus Wave Project]]
+- [[https://www.elitedangerous.com/news/galnet/azimuths-plan-elicits-further-reactions][15.07.3308 - Azimuth's Plan Elicits Further Reactions]]
+- [[https://www.elitedangerous.com/news/galnet/xenocide-debate][18.07.3308 - The Xenocide Debate]]
+- [[https://www.elitedangerous.com/news/galnet/azimuths-final-call-guardian-artefacts][19.07.3308 - Azimuth's Final Call for Guardian Artefacts]]
+- [[https://www.elitedangerous.com/news/galnet/proteus-wave-approaches-completion][21.07.3308 - Proteus Wave Approaches Completion]]
+- [[https://www.elitedangerous.com/news/galnet/view-front-line][22.07.3308 - The View from the Front Line]]
+- [[https://www.elitedangerous.com/news/galnet/azimuth-condemns-alien-loving-resistance][25.07.3308 - Azimuth Condemns "Alien-Loving" Resistance]]
+- [[https://www.elitedangerous.com/news/galnet/guardian-artefact-campaign-concludes][26.07.3308 - Guardian Artefact Campaign Concludes]]
+- [[https://www.elitedangerous.com/news/galnet/tesreau-highlights-azimuths-inhumanity][27.07.3308 - Tesreau Highlight Azimuth's "Inhumanity"]]
+- [[https://www.elitedangerous.com/news/galnet/thargoid-salvage-operation-requires-resources][28.07.3308 - Thargoid Salvage Operation Requires Resources]]
+- [[https://www.elitedangerous.com/news/galnet/superweapon-construction-completed][29.07.3308 - Superweapon Construction Completed]]
 
-[[https://www.elitedangerous.com/news/galnet/superpowers-commit-salvation][02.08.3308 -
-Superpowers Commit to Salvation]]
-[[https://www.elitedangerous.com/news/galnet/resources-supplied-xeno-retrieval-programme][04.08.3308 -
-Resources Supplies to Xeno-Retrieval Programme]]
-[[https://www.elitedangerous.com/news/galnet/azimuth-divides-media-opinion][05.08.3308 -
-Azimuth Divides Media Opinion]]
-[[https://www.elitedangerous.com/news/galnet/azimuth-claims-thargoid-doomsday-imminent][08.08.3308 -
-Azimuth Claims "Thargoid Doomsday" Imminent]]
+- [[https://www.elitedangerous.com/news/galnet/superpowers-commit-salvation][02.08.3308 - Superpowers Commit to Salvation]]
+- [[https://www.elitedangerous.com/news/galnet/resources-supplied-xeno-retrieval-programme][04.08.3308 - Resources Supplies to Xeno-Retrieval Programme]]
+- [[https://www.elitedangerous.com/news/galnet/azimuth-divides-media-opinion][05.08.3308 - Azimuth Divides Media Opinion]]
+- [[https://www.elitedangerous.com/news/galnet/azimuth-claims-thargoid-doomsday-imminent][08.08.3308 - Azimuth Claims "Thargoid Doomsday" Imminent]]
