@@ -247,7 +247,7 @@ enterprise.
 A Guardian/Thargoid battlefield is discovered at the end of a series of
 signal beacons tracked by independent pilots, following Salvation's
 instruction. Both Aegis and Taurus Mining Ventures lay claim to the
-site, requesting delivery of any Guardian artefacts to the PMD2009 48
+site, requesting delivery of any Guardian artefacts to the [[id:986145c8-a47e-4965-aadc-e0269b764ac5][PMD2009 48]]
 system.
 
 JUL, 3307 - The Glorious Prospect megaship, contracted by Salvation,
