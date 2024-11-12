@@ -178,7 +178,8 @@ deliver any logs scanned from the Hesperus to Taurus Mining Ventures at
 the Hind Mine base in T Tauri system. Patience Middleton, a
 representative of the corporation, announced:
 
-/“‘Salvation' has authorised us to offer two million credits or ten
+#+begin_quote
+‘Salvation' has authorised us to offer two million credits or ten
 units of void opals for delivering the Hesperus's logs. This contract
 ends on the 21st of May 3307, after which payments will not be
 available. We have been asked to relay the message below:
@@ -187,7 +188,8 @@ This is Salvation. I call myself this as I cannot yet reveal my
 identity, but my scientific breakthroughs will literally save all of
 humanity. The Adamastor and the Hesperus were just the beginning, as I
 have always known. For my intrepid agents, there will be further work to
-come."/
+come.
+#+end_quote
 
 Thargoids attack en masse, targeting the Delphi system and several
 others among the California, Coalsack and Pleiades nebulas. It's
@@ -200,37 +202,43 @@ Federation space, despite the planned route to Sol.
 JUN, 3307 - Captain Jacob Morales, commanding officer of the Alexandria,
 outlines the Alexandria's next steps:
 
-/“On Thursday we will make a hyperspace jump to the HIP 30944 system.
+#+begin_quote
+On Thursday we will make a hyperspace jump to the HIP 30944 system.
 Since this has a small population, the risk of casualties will be low if
 the Thargoids continue to pursue us. Once there, we will arrange to
-offload our cargo and distribute it to multiple locations.”/
+offload our cargo and distribute it to multiple locations.
+#+end_quote
 
 However, the megaship never reached its arrival point and all
 communication with it has ceased. Search teams in local systems have not
 detected its presence. Admiral Aden Tanner, chief military liaison with
 Aegis, informed the media:
 
-/“We regret to announce a complete loss of contact with the Alexandria.
+#+begin_quote
+We regret to announce a complete loss of contact with the Alexandria.
 Although there is no evidence of damage or destruction, its
 disappearance while travelling through hyperspace raises the possibility
 that it was intercepted en route by Thargoid forces. Captain Jacob
 Morales and over four thousand crew members will be listed as missing,
 presumed dead. In addition to this great tragedy, Aegis's research
 programme into Guardian technology has been severely impacted by the
-loss of many precious artefacts.”/
+loss of many precious artefacts.
+#+end_quote
 
 Salvation emerges once again and contacts any pilots passing through the
 Chukchan and Perseus Dark Region KC-V c2-2 system. Commander Tyler
 Thorsen told Vox Galactica:
 
-“I was taking some sightseers on a trip round the Hesperus, and getting
+#+begin_quote
+I was taking some sightseers on a trip round the Hesperus, and getting
 as close as I dared to the Scriveners Clan dredger. I scanned the
 tourist beacon for them, and suddenly received a direct message from
 this ‘Salvation' guy. He asked me to track down some old signal beacons,
 which are listening posts configured to retransmit long-range comms.
 Apparently these could help locate the survivors from the megaship. But
 the Hesperus is ancient history. Surely there can't be anything or
-anyone left to find?”
+anyone left to find?
+#+end_quote
 
 The Pilot's Federation issues an official warning to all Commanders,
 cautioning them against undertaking tasks for a potentially illegal
@@ -267,7 +275,8 @@ JUL, 3307 - The Scriveners clan Dredger leaves the system where the
 Hesperus is located. Erik Gunnarson of Wallglass Investigations Agency
 speculates:
 
-/“When the Scriveners laid claim to the Hesperus, I expected only a
+#+begin_quote
+When the Scriveners laid claim to the Hesperus, I expected only a
 cloud of fragments would remain. But their salvage operation has been
 prematurely abandoned, after stripping the megaship's innards and
 leaving behind a mostly intact hull. Why have they done this? Perhaps
@@ -276,7 +285,8 @@ because this particular dredger clan avoids outsiders./ [...]
 either fresh resources for the dredger to consume or new information for
 their ‘Knowledge Core'. In theory they could still be tracked down as
 their vessel's hyperdrive has a similar range to modern-day fleet
-carriers.”/
+carriers.
+#+end_quote
 
 Aegis is partly suspended as an inquiry into the disappearance of the
 Alexandria megaship goes underway. While the Alliance, Empire and
@@ -293,12 +303,14 @@ Wallglass Investigations Agency examined the cult in a GalNet article.
 AUG, 3307 - The Far God cult megaship 'The Testament' embarks on a
 voyage throughout the core systems to convert new followers.
 
-/“The masses are deaf to the voice of the Far God. What you see as alien
+#+begin_quote
+The masses are deaf to the voice of the Far God. What you see as alien
 monsters, we view as messengers from a very real multi-dimensional
 being. The Testament will help us carry the word of Its imminent
-arrival.”
+arrival.
 
-~ The Second Witness of the Seventieth Chapter/
+~ The Second Witness of the Seventieth Chapter
+#+end_quote
 
 The two remaining megaships, 'The Perdition' and 'The Sacrosanct' are
 prepared for long-range journeys. It's believed they will take cultists
@@ -308,32 +320,36 @@ Aegis are investigated by an independent board of inquiry to establish
 the reason for its recent failures and several prominent figures within
 the organisation resign.
 
-/“We will be raising issues of culpability, specifically whether the
+#+begin_quote
+We will be raising issues of culpability, specifically whether the
 concentration of Guardian artefacts aboard the Alexandria directly led
 to systems coming under Thargoid attack. Other incidents will be
-reviewed to identify possible grounds for negligence.”
+reviewed to identify possible grounds for negligence.
 
-~ Dr Paul Baumann, chair of the board of inquiry/
+~ Dr Paul Baumann, chair of the board of inquiry
+#+end_quote
 
 Shortly after, the findings of the report are leaked to journalists. Dr
 Paul Baumann states that only the final report should be considered
 official. In the meantime, Vox Galactical journalist Alexei Keel shared
 the leaked versions contents:
 
-/“The leaked files outline a pattern of poor internal organisation and
+#+begin_quote
+The leaked files outline a pattern of poor internal organisation and
 negligence. One claim is that Aegis accepted its heavy reliance on
 independent pilots entering combat situations against the Thargoids.
 
 A lack of technological breakthroughs since the first generation of AX
 weaponry is also criticised. Professor Tesreau, who has since resigned,
 is singled out for prioritising communication with the Thargoids rather
-than developing quickly deployed defences.”
+than developing quickly deployed defences.
 
 Interview transcripts show that some Aegis personnel consider the
 inquiry itself to be part of a larger agenda. A recurring claim is that
 the superpowers directly contributed to Aegis's inefficiency by reducing
 funding, and are now scapegoating Aegis management for a lack of
-progress.”/
+progress.
+#+end_quote
 
 A timer on the mysterious "Hyford's Cache" expires, releasing a message
 that reveals the location of Oaken Point - an abandoned settlement in
@@ -344,7 +360,8 @@ subject, "D-2" managed to escape with the help of someone working at
 Oaken Point following a string of failures in the experiments. Further
 logs make reference to "The Witch" and Azimuth.
 
-/"Our timeframe is likely to be slashed, of course. I fear our limited
+#+begin_quote
+Our timeframe is likely to be slashed, of course. I fear our limited
 success is worth a few more years at best. The Witch will not be pleased
 with the lack of tangible results, despite our initial progress.
 
@@ -352,9 +369,10 @@ Still, one must remain optimistic. Our understanding of Thargoid
 interface mechanisms has improved considerably. Plenty of enhanced test
 subjects remain in our care. Dr Tao is writing a paper discussing their
 surgical procedures which should greatly benefit Azimuth's medtech
-department."
+department.
 
-~ Professor Thomas Dorne/
+~ Professor Thomas Dorne
+#+end_quote
 
 Beacons in HIP 26176 and Col 69 Sector JI-I c10-4 contain further
 information, revealing a third beacon and ultimately access to a second
@@ -363,35 +381,41 @@ Seraph is encouraged to proceed with caution.
 
 SEP, 3307 - Prime Minister Edmund Mahon comments on the Aegis inquiry:
 
-/“The greatest regret of my career is that I was unable to formalise the
+#+begin_quote
+The greatest regret of my career is that I was unable to formalise the
 Sirius Treaty at the Galactic Summit. This would have revolutionised
 Aegis by providing the commitment and resources it deserves, sparing it
-the indignity of a public inquiry.”
+the indignity of a public inquiry.
 
-“The Nine Martyrs attacks prevented that historic occasion, of course,
+The Nine Martyrs attacks prevented that historic occasion, of course,
 but the Sirius Treaty itself remains viable. I'd be happy to ratify it
 on behalf of the Alliance if we can convince the other signatories that
 defending humanity from the Thargoid threat should be our utmost
-priority.”/
+priority.
+#+end_quote
 
 The anonymous figure known as Salvation claims that Thargoid forces will
 attack the Cornsar system. The following message was received by all
 major newsfeeds:
 
-/“This is Salvation. Authorities in the Cornsar system must evacuate the
+#+begin_quote
+This is Salvation. Authorities in the Cornsar system must evacuate the
 local population immediately. I believe a Thargoid invasion of the
 system is imminent. I became aware of this danger while developing a new
 interstellar xeno-detection network, which will be far superior to Eagle
 Eye. Although the network is not fully complete, we cannot dismiss this
-report as a false reading. Cornsar must act now.”/
+report as a false reading. Cornsar must act now.
+#+end_quote
 
 Carter Armstrong, Aegis chief administrator has this to say:
 
-/“Aegis cannot validate this claim. There is no indication of a Thargoid
+#+begin_quote
+Aegis cannot validate this claim. There is no indication of a Thargoid
 presence in the vicinity, and Cornsar is too far from their known
 territories to be a viable target. As most of our operations are
 suspended due to the public inquiry, we cannot dedicate any resources to
-investigate further.”/
+investigate further.
+#+end_quote
 
 *** Related GalNet Articles
 
@@ -423,15 +447,18 @@ confirmed by Aegis' observation teams. However, no official explanation
 is offered. Shortly after, Salvation claims credit for the Thargoid
 retreat:
 
-/“This is Salvation. The Thargoid invasion of Cornsar has now been
+#+begin_quote
+This is Salvation. The Thargoid invasion of Cornsar has now been
 repulsed, thanks to prototype anti-xeno weaponry that I have been
 developing for some time. I have achieved what Aegis could not -- an
-effective deterrent against the alien threat.”/
+effective deterrent against the alien threat.
+#+end_quote
 
 Vox Galactica's freelance journalist Alexei Keel releases a special
 report:
 
-/“To deliver vital components for his mysterious anti-xeno weapon,
+#+begin_quote
+To deliver vital components for his mysterious anti-xeno weapon,
 Salvation once again recruited independent pilots, directly messaging
 those who had performed tasks for him before. However, this time a
 counter-initiative was formed by those who did not trust his
@@ -443,7 +470,8 @@ endanger Cornsar's population....
 organisation at an all-time low, individual Commanders are now taking
 matters into their own hands. Time will tell if Salvation's ambition to
 replace Aegis is a noble goal, or if we are replacing the devil we know
-with a darker demon.”/
+with a darker demon.
+#+end_quote
 
 Salvation goes on to contact players who supplied "Basic Medicines" to
 Cornsar and invites them to the Mbooni system. A Megaship located there
@@ -545,11 +573,13 @@ designs for disrupting Thargoid technology. The superweapons go on to
 clear most Thargoid vessels from Delphia, Maia and Merope, reminiscent
 of events in Cornsar:
 
-"/This is Halloran. Operation Tri-hammer has concluded with a code
+#+begin_quote
+This is Halloran. Operation Tri-hammer has concluded with a code
 white-three-alpha. Estimated target destruction in Delphi is at 27%,
 with full dispersal of 98% of remaining hostiles. Scans underway for
 non-combatant disruption or casualties. Maia and Merope data to be
-submitted immediately to central analytics.”/
+submitted immediately to central analytics.
+#+end_quote
 
 Meanwhile, the Alliance Assembly, Federal Congress, and Imperial Senate
 acknowledge the loss of military personnel to Salvation's cause. While
@@ -561,10 +591,12 @@ The Coalsack, Pleiades and Witch Head nebulas continue to see an influx
 of Thargoid vessels. Freelance war correspondent Ernesto Rios reports
 for Vox Galactica:
 
-/“Over the last few months, Thargoid ships have appeared in over two
+#+begin_quote
+Over the last few months, Thargoid ships have appeared in over two
 dozen populated systems including Shenve, Pleiades Sector IH-V c2-5 and
 Coalsack Sector VU-O b6-6. All are in the vicinity of nebulas, which
-seem to be favoured by the Thargoids.”/
+seem to be favoured by the Thargoids.
+#+end_quote
 
 *** Related GalNet Articles
 
@@ -580,12 +612,14 @@ JAN, 3308 - The independent inquiry into Aegis concludes with
 recommendation to close the orginisation. Notably, the Baumann Report
 does not mention Salvation or suggest a replacement for Aegis.
 
-/"...the loss of the megaship Alexandria and the illegal attack against
+#+begin_quote
+...the loss of the megaship Alexandria and the illegal attack against
 Hind Mine are both catastrophes that could have been anticipated and
 prevented. This board cannot in all conscience recommend any scenario
-that might enable further loss of life in Aegis's name.”
+that might enable further loss of life in Aegis's name.
 
-~ Dr Paul Baumann/
+~ Dr Paul Baumann
+#+end_quote
 
 The Alliance, Empire and Federation accept the recommendation and shut
 down Aegis permanently. To make up for the closure, the Empire dedicated
@@ -603,7 +637,8 @@ system after vanishing seven months prior. According to witnesses, its
 remains are scattered across the rings of planet 2 A and no Guardian
 Relics or survivors are found.
 
-/“We can now prove that the Alexandria's loss was not caused by
+#+begin_quote
+We can now prove that the Alexandria's loss was not caused by
 negligence, as claimed by the Baumann Report. In reality, the megaship
 was snared in a trap laid by an organised quasi-military force.
 
@@ -616,18 +651,21 @@ Thargoid vessels.
 This evidence suggests that Azimuth Biochemicals has survived in some
 form over the last two hundred years, and remains focused on aggressive
 xenological research. Aegis must be reinstated immediately to counter
-this dangerous organisation before more lives are lost.”
+this dangerous organisation before more lives are lost.
 
-~ Chief Administrator Carter Armstrong on behalf of Aegis./
+~ Chief Administrator Carter Armstrong on behalf of Aegis.
+#+end_quote
 
 FEB, 3308 - Shutdown procedures for Aegis go ahead despite the
 organisation warning that Azimuth has returned. Conrad Sterling reported
 on the situation for Vox Galactica:
 
-/“We now know that the Alexandria megaship was targeted by a hostile
+#+begin_quote
+We now know that the Alexandria megaship was targeted by a hostile
 force that could be Azimuth Biochemicals, the 200-year-old corporation
 which owned the Adamastor and Hesperus. In the face of this new
-evidence, Aegis leaders have petitioned for it to be reinstated.”/
+evidence, Aegis leaders have petitioned for it to be reinstated.
+#+end_quote
 
 The HIP 12314, Dan, and Nauni systems come under heavy Thargoid attack.
 The Superpower's alternatives to Aegis are not yet formed so independent
@@ -650,12 +688,14 @@ been verified by secondary sources.
 Salvation receives further military support from each of the superpowers
 in addition to assistance in intelligence, logistics and security:
 
-/“Most of us are here because it feels like Salvation is the only one
+#+begin_quote
+Most of us are here because it feels like Salvation is the only one
 taking the fight to the Thargoids. Now that Aegis is as good as gone,
 he's our best hope for stopping these aliens before they wipe us all
-out.”
+out.
 
-~ Lieutenant Andrew Jones, recent Salvation volunteer/
+~ Lieutenant Andrew Jones, recent Salvation volunteer
+#+end_quote
 
 Overwhelming numbers of Thargoid vessels invade the Didio, Novas and
 Sosong systems. With Aegis officially disbanded and the Imperial Navy,
@@ -668,23 +708,29 @@ systems have been completely repelled by Salvation.
 
 Vox Galactica journalist Jade Sanderlyn published this account:
 
-“We've received confirmation from Commodore Morag Halloran that three
+#+begin_quote
+We've received confirmation from Commodore Morag Halloran that three
 anti-xeno superweapons were activated in Didio, Novas and Sosong. This
 caused the Thargoid fleets in all three systems to immediately withdraw
-into hyperspace.”
+into hyperspace.
+#+end_quote
 
 The anonymous scientist Salvation has made a statement following his
 latest success against the Thargoids.
 
-“This is Salvation. The deployment of my anti-xeno superweapons in the
+#+begin_quote
+This is Salvation. The deployment of my anti-xeno superweapons in the
 Didio, Novas and Sosong systems was highly effective, just as I
-anticipated. Billions of lives were undoubtedly saved as a result.”
+anticipated. Billions of lives were undoubtedly saved as a result.
+#+end_quote
 
-“Due to support from the Alliance, Empire and Federation, we have made a
+#+begin_quote
+Due to support from the Alliance, Empire and Federation, we have made a
 major breakthrough in utilising Guardian-based technology. Construction
 of the next generation of superweapons has already begun. These will
 allow us to deliver a truly overwhelming strike against the Thargoid
-species.”
+species.
+#+end_quote
 
 However, an abandoned outpost in the DG Canum Venaticorum system could
 reveal the true identity of the anonymous figure Salvation.
@@ -692,15 +738,19 @@ reveal the true identity of the anonymous figure Salvation.
 Professor Alba Tesreau, former head of research at Aegis, made a public
 announcement:
 
-“An untraceable source pointed me to the DG Canum Venaticorum system
+#+begin_quote
+An untraceable source pointed me to the DG Canum Venaticorum system
 with the question: Who is Salvation? A unique detail caught my
 attention, so I requested verification from pilots who had supported
 Aegis. We found a previously undiscovered research outpost once
-controlled by the Intergalactic Naval Reserve Arm.”
+controlled by the Intergalactic Naval Reserve Arm.
+#+end_quote
 
-“I believe these logs may finally reveal Salvation's real name and
+#+begin_quote
+I believe these logs may finally reveal Salvation's real name and
 background. I urge the superpowers to halt their collaboration with
-Salvation while this new data is verified.”
+Salvation while this new data is verified.
+#+end_quote
 
 JUNE, 3308 - The tide begins to turn on Salvation as the "truth" is
 revealed
@@ -711,70 +761,88 @@ who worked for INRA have led to a public outcry.
 Political journalist Conrad Sterling reported on these developments for
 Vox Galactica:
 
-“Information recently uncovered in the DG Canum Venaticorum system has
+#+begin_quote
+Information recently uncovered in the DG Canum Venaticorum system has
 been presented by Professor Alba Tesreau. It suggests that Salvation's
 real name is Dr Caleb Wycherley, former vice-president of research at
 Azimuth Biochemicals. According to Wycherley's personal logs, his team
 contributed to the development of the controversial mycoid bioweapon
-deployed by INRA during the First Thargoid War.”
+deployed by INRA during the First Thargoid War.
+#+end_quote
 
-“Wycherley's logs also provide evidence that he gained the nickname of
+#+begin_quote
+Wycherley's logs also provide evidence that he gained the nickname of
 ‘The Witch'. This figure has been implicated in the murderous attack on
 the Alexandria megaship in June 3307 and in Project Seraph recordings
-found in the HIP 26176 and HIP 22460 systems.”
+found in the HIP 26176 and HIP 22460 systems.
+#+end_quote
 
-“Former Aegis leadership has demanded that Salvation be arrested and
+#+begin_quote
+Former Aegis leadership has demanded that Salvation be arrested and
 questioned over his involvement in these events, and that superpower
 fleet support for Salvation's work be suspended until such questions
-have been answered.”
+have been answered.
+#+end_quote
 
 The details of the INRA base were revealed by a victim of project SERAPH
 where living subjects were grafted to Thargoid technology against their
 will.
 
-“Most of these horrific experiments ended in failure or death, but the
+#+begin_quote
+Most of these horrific experiments ended in failure or death, but the
 subject classified as D-2 escaped from Oaken Point by stowing away on a
 trader's ship. Since then she has used her inside knowledge to
 investigate Azimuth, confirming Aegis's belief that the corporation is
-still active.”
+still active.
+#+end_quote
 
 The Alliance, Empire and Federation have responded coolly to accusations
 that Salvation has hidden links to Azimuth Biochemicals and INRA.
 
-“Salvation has always been a contentious figure, and the logs found in
+#+begin_quote
+Salvation has always been a contentious figure, and the logs found in
 the DG Canum Venaticorum system have polarised public opinion further.
 Some are enraged that Salvation may have history with INRA or be
 responsible for the loss of the Alexandria. Others believe Aegis's
-claims to be false, a desperate attempt to save themselves."
+claims to be false, a desperate attempt to save themselves.
+#+end_quote
 
 Salvation has announced that his partner organisation Taurus Mining
 Ventures is a modern incarnation of Azimuth Biochemicals.
 
-“This is Salvation. In light of recent speculation, we are rebranding
+#+begin_quote
+This is Salvation. In light of recent speculation, we are rebranding
 Taurus Mining Ventures as Azimuth Biotech. My intent is to prove that
-Azimuth has no further need to conceal its operations.”
+Azimuth has no further need to conceal its operations.
+#+end_quote
 
 The Alliance, Empire and Federation will continue collaborating with
 Salvation and Azimuth Biotech on anti-xeno operations.
 
-“We now know the truth: Azimuth not only survived, but was responsible
+#+begin_quote
+We now know the truth: Azimuth not only survived, but was responsible
 for many controversial activities. It contributed to the mycoid virus's
 development, coordinated with Black Flight and oversaw Project Seraph.
 Now, this notorious organisation enjoys the trust of all three
-superpowers to eliminate the Thargoid threat.”
+superpowers to eliminate the Thargoid threat.
+#+end_quote
 
 Salvation declares that HIP 22460 will be the stages for a decisive
 strike against the Thargoids:
 
-“This is Salvation. Construction of the Proteus Wave has officially
+#+begin_quote
+This is Salvation. Construction of the Proteus Wave has officially
 commenced. This version of my anti-xeno superweapon has been designed to
-bring absolute victory against our adversaries.”
+bring absolute victory against our adversaries.
+#+end_quote
 
-“HIP 22460 will serve as the final battlefield in the Thargoid war. As
+#+begin_quote
+HIP 22460 will serve as the final battlefield in the Thargoid war. As
 with previous superweapons, we anticipate that the Guardian-based
 technology incorporated within the Proteus Wave will once again attract
 the Thargoids. However, this time it will eradicate the alien threat not
-just from the system, but from the entire galaxy.”
+just from the system, but from the entire galaxy.
+#+end_quote
 
 A coalition of independent Commanders has been formed to destabilise
 Salvation's anti-xeno organisation. They take action to slow the
@@ -798,33 +866,41 @@ New Federal and Imperial capital ships have arrive in HIP 22460 as
 Azimuth Biotech's operation nears its conclusion. The following message
 is provided to all newsfeeds for public broadcast:
 
-“This is Salvation. The Proteus Wave's core mechanism will be fully
+#+begin_quote
+This is Salvation. The Proteus Wave's core mechanism will be fully
 constructed one week from today. We will then begin integration with the
 surface site on HIP 22460 10b, using designs of mine which are unique to
-the superweapon's operation.”
+the superweapon's operation.
+#+end_quote
 
 A counter-statement regarding Azimuth Biotech is published by Professor
 Alba Tesreau, former head of research at Aegis:
 
-“The recent declaration by Director Torben Rademaker paints a false
+#+begin_quote
+The recent declaration by Director Torben Rademaker paints a false
 picture of those pilots who are actively working against Azimuth
 Biotech. He frames them as criminals and alien sympathisers, betraying
 humanity to the Thargoids. This could not be any further from the truth.
-It is Azimuth's own inhumanity that they are fighting against.”
+It is Azimuth's own inhumanity that they are fighting against.
+#+end_quote
 
-“It's unsurprising that Salvation's focus is now on HIP 22460, given
+#+begin_quote
+It's unsurprising that Salvation's focus is now on HIP 22460, given
 this system has long been part of Azimuth's sinister legacy. On planet
 7c is the abandoned settlement Fort Asch, where unlicensed scientists
 performed monstrous experiments to link human minds with Thargoid
 vessels. We know from Project Seraph's sole survivor, known as Subject
-D-2, how brutal the results were.”
+D-2, how brutal the results were.
+#+end_quote
 
 Salvation declares that the Proteus Wave is complete:
 
-“This is Salvation. The core mechanism of the Proteus Wave is now fully
+#+begin_quote
+This is Salvation. The core mechanism of the Proteus Wave is now fully
 assembled. Under my guidance, specialists are performing checks at the
 selected site on HIP 22460 10 b. Additional power capacitors are also
-being installed to improve energy transfer management.”
+being installed to improve energy transfer management.
+#+end_quote
 
 AUGUST, 3308 - The Proteus Wave superweapon is completed and Salvation
 prepares to fire.
@@ -834,18 +910,22 @@ are underway in the HIP 22460 system.Commodore Morag Halloran, Azimuth
 Biotech's military coordinator, broadcast this announcement from the
 Bright Sentinel megaship:
 
-“Salvation has confirmed that the Proteus Wave core mechanism is fully
+#+begin_quote
+Salvation has confirmed that the Proteus Wave core mechanism is fully
 active. Calibration inside the Thargoid structure on the surface of HIP
 22460 10b has successfully concluded. Power sources derived from
 Guardian designs are building to the required levels, and a final series
-of safety checks are currently underway.”
+of safety checks are currently underway.
+#+end_quote
 
-“Upon detonation, the energy pulse generated by the Proteus Wave will
+#+begin_quote
+Upon detonation, the energy pulse generated by the Proteus Wave will
 cause catastrophic disruption to all Thargoid biomechanical technology
 within range. Every alien vessel in HIP 22460 will immediately cease to
 function. Salvation predicts that the wide-ranging impact of the
 superweapon will drive all Thargoids out of the core systems. In
-practical terms, tomorrow will be their doomsday.”
+practical terms, tomorrow will be their doomsday.
+#+end_quote
 
 *** Related GalNet Articles
 
