@@ -4,4 +4,4 @@
 #+title: Rescue Megaships
 #+filetags: :Thargoid:ship:
 
-Thargoid war support ships
+Thargoid war support [[id:33517223-1f8d-4588-be65-6c10edc9118f][megaships]]
