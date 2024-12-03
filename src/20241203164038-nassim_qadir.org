@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       faef4471-b502-4f68-b139-c663b0b00ce3
+:END:
+#+title: Nassim Qadir
+#+filetags: :Individual:
+head of medical research at [[id:e68a5318-bd72-4c92-9f70-dcdbd59505d1][Azimuth Biotech]]

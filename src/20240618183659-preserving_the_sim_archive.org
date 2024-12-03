@@ -1,18 +1,18 @@
 :PROPERTIES:
 :ID:       ff55bd93-6ed4-4867-a7dc-e93ba4bb9c83
 :END:
-#+title: Preserving the Sim-Archive
+#+title: Preserving the [[id:83b3ed4c-f0b1-4311-a4df-34bdfa742126][Sim-Archive]]
 #+filetags: :3304:galnet:
 
-* Preserving the Sim-Archive
+* Preserving the [[id:83b3ed4c-f0b1-4311-a4df-34bdfa742126][Sim-Archive]]
 
 /09 Feb 3304/
 
-The Utopia movement has announced that the Sim-Archive is to undergo a period of comprehensive maintenance. 
+The Utopia movement has announced that the [[id:83b3ed4c-f0b1-4311-a4df-34bdfa742126][Sim-Archive]] is to undergo a period of comprehensive maintenance. 
 
 [[id:05ab22a7-9952-49a3-bdc0-45094cdaff6a][Pranav Antal]], leader of Utopia, elaborated on the nature of the project: 
 
-"The Sim-Archive is Utopia's primary achievement – a vast digital repository containing the collective wisdom of all our departed brothers and sisters. But, like any system, the Archive requires constant maintenance, as a failure in the system could result in the loss of irreplaceable knowledge. We have therefore placed an open order for various commodities for use in this delicate work." 
+"The [[id:83b3ed4c-f0b1-4311-a4df-34bdfa742126][Sim-Archive]] is Utopia's primary achievement – a vast digital repository containing the collective wisdom of all our departed brothers and sisters. But, like any system, the Archive requires constant maintenance, as a failure in the system could result in the loss of irreplaceable knowledge. We have therefore placed an open order for various commodities for use in this delicate work." 
 
 The Official Airman Di Front has been authorised to oversee the initiative, and has pledged to reward pilots who deliver the requested goods to Chargaff Orbital in the Airman Di system. 
 

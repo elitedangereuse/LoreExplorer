@@ -2,22 +2,44 @@
 :ID:       720c2049-26b0-402d-b125-dc778c092692
 :END:
 #+title: Seo Jin-ae Departs Utopia in Silence
-#+filetags: :Thargoid:galnet:
+#+filetags: :Guardian:Thargoid:galnet:
 
 * [[id:6bcd90ab-54f2-4d9a-9eeb-92815cc7766e][Seo Jin-ae]] Departs Utopia in Silence
 
 /21 Dec 3309/
 
-Seo Jin-ae has returned from a visit to Utopia following an invitation from Simguru [[id:05ab22a7-9952-49a3-bdc0-45094cdaff6a][Pranav Antal]] to discuss the possibility of [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]’s survival. 
+[[id:6bcd90ab-54f2-4d9a-9eeb-92815cc7766e][Seo Jin-ae]] has returned from a visit to [[id:058a658d-e1ce-4364-a92b-b9607495c73f][Utopia]] following an invitation
+from Simguru [[id:05ab22a7-9952-49a3-bdc0-45094cdaff6a][Pranav Antal]] to discuss the possibility of [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]’s
+survival.
 
-The leader of the Utopia commune invited her to review the schematics that she recovered from an abandoned Azimuth Corporation facility in March. The schematics detailed a mysterious Guardian-based device named the Nemesis Failsafe. [[id:6bcd90ab-54f2-4d9a-9eeb-92815cc7766e][Seo Jin-ae]] believes this was used by [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]] to transfer his living mind to a remote location before his death in [[id:55088d83-4221-44fa-a9d5-6ebb0866c722][HIP 22460]]. 
+The leader of the [[id:058a658d-e1ce-4364-a92b-b9607495c73f][Utopia]] commune invited her to review the schematics
+that she recovered from an abandoned [[id:e68a5318-bd72-4c92-9f70-dcdbd59505d1][Azimuth Corporation]] facility in
+March. The schematics detailed a mysterious Guardian-based device
+named the [[id:e2b09f7f-0440-49ff-980c-6dc0e9a5b0b9][Nemesis Failsafe]]. [[id:6bcd90ab-54f2-4d9a-9eeb-92815cc7766e][Seo Jin-ae]] believes this was used by
+[[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]] to transfer his living mind to a remote location before his
+death in [[id:55088d83-4221-44fa-a9d5-6ebb0866c722][HIP 22460]].
 
-Aegis confirmed that it has no information about the meeting in Utopia, and that [[id:6bcd90ab-54f2-4d9a-9eeb-92815cc7766e][Seo Jin-ae]] refused to discuss the matter with them upon her return. 
+[[id:85d9e888-3f5b-40ed-b8af-2eb87e42b0d0][Aegis]] confirmed that it has no information about the meeting in
+Utopia, and that [[id:6bcd90ab-54f2-4d9a-9eeb-92815cc7766e][Seo Jin-ae]] refused to discuss the matter with them
+upon her return.
 
 [[id:05ab22a7-9952-49a3-bdc0-45094cdaff6a][Pranav Antal]] transmitted a message that was shared across public newsfeeds: 
 
-“My sincere thanks to [[id:6bcd90ab-54f2-4d9a-9eeb-92815cc7766e][Seo Jin-ae]] for allowing me to explain my theories about [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]’s ‘Nemesis protocol’. We have agreed not to disclose our conclusions. I must respect that Seo’s experiences with Salvation, along with her present goals, are very personal to her. It is my hope that Utopia’s findings are useful to her in some way.” 
+“My sincere thanks to [[id:6bcd90ab-54f2-4d9a-9eeb-92815cc7766e][Seo Jin-ae]] for allowing me to explain my
+theories about [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]’s ‘[[id:e2b09f7f-0440-49ff-980c-6dc0e9a5b0b9][Nemesis protocol]]’. We have agreed not to
+disclose our conclusions. I must respect that Seo’s experiences with
+Salvation, along with her present goals, are very personal to her. It
+is my hope that Utopia’s findings are useful to her in some way.”
 
-“A far more significant message that I would like to share concerns the increasing likelihood of humanity’s extinction. I speak not of the Thargoid war, but the ceaseless rivalries wrought by our innate tribalism. Now that our communities have become interstellar superpowers, this flaw in our nature could lead to the collapse of civilisation amid fire and ruin.” 
+“A far more significant message that I would like to share concerns
+the increasing likelihood of humanity’s extinction. I speak not of the
+Thargoid war, but the ceaseless rivalries wrought by our innate
+tribalism. Now that our communities have become interstellar
+superpowers, this flaw in our nature could lead to the collapse of
+civilisation amid fire and ruin.”
 
-“In the past, I have urged leaders to abandon militaristic posturing in favour of diplomacy. We must focus on what draws us together rather than our differences. Utopia will continue to serve as an exemplar of this philosophy, which may one day steer us toward a more holistic path.”
+“In the past, I have urged leaders to abandon militaristic posturing
+in favour of diplomacy. We must focus on what draws us together rather
+than our differences. Utopia will continue to serve as an exemplar of
+this philosophy, which may one day steer us toward a more holistic
+path.”

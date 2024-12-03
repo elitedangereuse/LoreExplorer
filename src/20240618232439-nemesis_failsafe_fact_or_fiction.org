@@ -1,10 +1,10 @@
 :PROPERTIES:
 :ID:       3f5b42ec-94fe-4ca3-903f-3f16131dd52f
 :END:
-#+title: Nemesis Failsafe: Fact or Fiction?
+#+title: [[id:e2b09f7f-0440-49ff-980c-6dc0e9a5b0b9][Nemesis Failsafe]]: Fact or Fiction?
 #+filetags: :galnet:
 
-* Nemesis Failsafe: Fact or Fiction?
+* [[id:e2b09f7f-0440-49ff-980c-6dc0e9a5b0b9][Nemesis Failsafe]]: Fact or Fiction?
 
 /03 Apr 3309/
 
@@ -12,10 +12,10 @@ Azimuth Biotech has rejected [[id:6bcd90ab-54f2-4d9a-9eeb-92815cc7766e][Seo Jin-
 
 CEO [[id:78d58f4a-e080-4548-a2f0-9506b7b73674][Torben Rademaker]] issued this statement: 
 
-“I can officially confirm that [[id:e68a5318-bd72-4c92-9f70-dcdbd59505d1][Azimuth Biotech]] has no knowledge of any project related to a ‘Nemesis Failsafe’. Frankly, suggesting that anyone could transmit their living mind across space stretches her credibility past breaking point.” 
+“I can officially confirm that [[id:e68a5318-bd72-4c92-9f70-dcdbd59505d1][Azimuth Biotech]] has no knowledge of any project related to a ‘[[id:e2b09f7f-0440-49ff-980c-6dc0e9a5b0b9][Nemesis Failsafe]]’. Frankly, suggesting that anyone could transmit their living mind across space stretches her credibility past breaking point.” 
 
 “Seo Jin-ae’s absurd outbursts have justified our fears that she suffers from paranoid delusions, and has falsified data to support her personal vendetta. And she now seems to have an exalted position among the [[id:04ae001b-eb07-4812-a42e-4bb72825609b][Far God]] cultists. Only those deranged unfortunates would take her flights of fantasy seriously.” 
 
 An article in the scientific journal The Empirical addressed the concepts featured in [[id:6bcd90ab-54f2-4d9a-9eeb-92815cc7766e][Seo Jin-ae]]’s statement: 
 
-“The field of exoneurology, whereby the human mind is isolated from the neuronal network and transferred to an artificial host, is mostly comprised of failed experiments. Only the Utopia commune has ever claimed significant success. Their Sim-Archive allegedly duplicates an individual’s memory engrams and uploads them to a sophisticated digital emulation program. But independent reviews of this technology have been prevented by the reclusive nature of Utopian society.”
+“The field of exoneurology, whereby the human mind is isolated from the neuronal network and transferred to an artificial host, is mostly comprised of failed experiments. Only the Utopia commune has ever claimed significant success. Their [[id:83b3ed4c-f0b1-4311-a4df-34bdfa742126][Sim-Archive]] allegedly duplicates an individual’s memory engrams and uploads them to a sophisticated digital emulation program. But independent reviews of this technology have been prevented by the reclusive nature of Utopian society.”
