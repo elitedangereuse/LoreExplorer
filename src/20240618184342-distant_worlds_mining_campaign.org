@@ -14,7 +14,7 @@ The exploration fleet aims to build a megaship and installation in the [[id:35fe
 
 Dr Kaii, Fleet Liaison for Deep Space Surveys, explained: 
 
-“This installation will be a place for scientists to study the supermassive black hole at [[id:84d9b01d-a9d6-47d9-b9f9-f6154233e585][Sagittarius A*]]*. Future explorers visiting the station will be well looked after by Deep Space Surveys, to whom we will hand the keys before continuing to Beagle Point.” 
+“This installation will be a place for scientists to study the supermassive black hole at [[id:84d9b01d-a9d6-47d9-b9f9-f6154233e585][Sagittarius A*]]*. Future explorers visiting the station will be well looked after by Deep Space Surveys, to whom we will hand the keys before continuing to [[id:80ea667a-62b4-4082-bed0-ce253d76869b][Beagle Point]].” 
 
 Bauxite, water and liquid oxygen should be delivered to Explorer's Anchorage in the [[id:35fe6a51-9492-44a7-9dc5-4a5395ae732f][Stuemeae FG-Y d7561]] system. To protect contributors, Deep Space Surveys has authorised bounty vouchers for all wanted vessels. 
 

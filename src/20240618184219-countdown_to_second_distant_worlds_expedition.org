@@ -12,7 +12,7 @@ Preparations are underway for the second Distant Worlds expedition, which will s
 
 Science correspondent Leon Banerjee provided an overview for the Vox Galactica media outlet: 
 
-“The first Distant Worlds mission, in 3302, was the largest fleet expedition in history, and saw over a thousand ships travel to Beagle Point and back.” 
+“The first Distant Worlds mission, in 3302, was the largest fleet expedition in history, and saw over a thousand ships travel to [[id:80ea667a-62b4-4082-bed0-ce253d76869b][Beagle Point]] and back.” 
 
 “Distant Worlds II has even loftier ambitions, involving an impressive voyage through the heart of the galaxy, mapping unexplored regions and making new scientific discoveries. It will also involve the construction of a starport dedicated to the study of [[id:84d9b01d-a9d6-47d9-b9f9-f6154233e585][Sagittarius A*]]*.” 
 

@@ -805,7 +805,7 @@ Ventures is a modern incarnation of Azimuth Biochemicals.
 
 #+begin_quote
 This is Salvation. In light of recent speculation, we are rebranding
-Taurus Mining Ventures as Azimuth Biotech. My intent is to prove that
+[[id:5d339d87-3edb-4938-984a-49708bf6b65f][Taurus Mining Ventures]] as Azimuth Biotech. My intent is to prove that
 Azimuth has no further need to conceal its operations.
 #+end_quote
 
