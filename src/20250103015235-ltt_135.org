@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       313dbf5c-9a03-4ea1-9de1-8125312ff4d4
+:END:
+#+title: LTT 135
+#+filetags: :Empire:Planet:
+
+#+begin_quote
+JetForce Dynamics have their primary manufacturing facilities in this system.
+
+'Getting you there with the power of air.'
+
+The home of Hyperion Intelligence Agency. Chastised for their
+imperialistic views while serving their original faction in Federation
+space, these renegade members broke from their conservative masters. A
+conflict ensued where the separatist forces expedited the destruction
+of their former faction, exiling them from their home. These
+progressive commanders reformed as the Hyperion Intelligence Agency
+and then sought out a home in Imperial space to begin building their
+ruthless and effective faction, specialising in subterfuge and system
+control.
+#+end_quote
+
+[[file:img/systems/ltt135.png]]
