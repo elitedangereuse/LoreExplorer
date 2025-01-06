@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID:       bb765f47-228a-4eda-ac95-5a1c639c761a
+:END:
+#+title: Sandra's Workshop Asks for Festive Gift Couriers
+#+filetags: :Thargoid:galnet:3310:
+* Sandra’s Workshop Asks for Festive Gift Couriers
+
+/20 Dec 3310/
+
+The CEO of leading children’s toy manufacturer [[id:40f307c4-5447-493c-bc3a-2b8ad20a595e][Sandra’s Workshop]] has
+requested help with parcel deliveries.
+
+[[id:8e7e3014-eedf-4896-bc92-20512403b8a8][Sandra Corrs]], the much-loved [[id:87e48435-d66d-476a-9468-12b4750388ee][philanthropist]] who provides gifts to
+children across the core systems each year, made a similar request two
+years ago. Then, with the Thargoid invasion just beginning, her
+courier fleet was loaned out to help refugee evacuation efforts.
+
+This year a different problem has emerged just as the Thargoid
+Invasion appears to be over, as Sandra explained to [[id:4ab0f53c-0b85-43a3-83ca-b9e88c0db30e][Vox Galactica]]:
+
+“Our Dolph’s Routes transport fleet has been upgraded and fitted to
+increase delivery capacity. Or, as we like to say in the workshop:
+‘ferry even more joy’, haha! But we’ve discovered a rather irksome
+snag: with so many little boys and girls displaced by the nasty alien
+invasion, it’s going to be a challenge finding them all!”
+
+“Even our fleet won’t be able to deliver all our presents on time,
+given the extra work needed to track down their proper delivery
+points. We’ll need to rely on kind-hearted pilots to volunteer their
+time and ensure we can brighten the smiles on every child on our
+list.”
+
+Pilots willing to help Sandra’s Workshop can collect festive gifts
+from the [[id:aea6f093-b65a-4a23-b818-4cabf62b555d][Frost Dock]] outpost in the Njambalba system. The outpost can
+only provide landing pads for small- and medium-sized vessels. A
+beacon outside [[id:aea6f093-b65a-4a23-b818-4cabf62b555d][Frost Dock]] holds delivery information which can be
+acquired via scan.
