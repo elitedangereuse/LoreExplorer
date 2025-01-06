@@ -5,9 +5,9 @@
 #+filetags: :Commodity:rare:
 [[id:23f66b0e-9198-4dc8-a11c-fea8851e4e6d][Relics]]
 #+begin_quote
-A slab of unidentified material covered in pictographs of an unknown origin. This relic is part of a cache of similar artefacts that were uncovered by explorers researching lost alien civilisations in the Soontill system. Sold by Garry's Reclamations, Cheranovsky City, Ngurii.
-
-This rare good is legal in all systems.
-
-Please note that if a system's controlling faction changes, some formerly legal rare goods may become illegal in that system. If this happens, the rare goods in question will no longer be available for sale or purchase.
+A slab of unidentified material covered in pictographs of an unknown
+origin. This relic is part of a cache of similar artefacts that were
+uncovered by explorers researching lost [[id:860ffa72-12a1-44d6-bca5-d7c2cdc29a44][alien]] civilisations in the
+[[id:c1b3ef31-f69a-4c84-a3a8-aedd3cf2f49c][Soontill]] system. Sold by [[id:c6a1257d-d828-4b17-a4f6-e79a3531e22e][Garry's Reclamations]], [[id:e3c8dc79-f89f-4f9b-971b-391f99abd850][Cheranovsky City]],
+[[id:c5a59d3f-3c81-49d0-975a-3517cae28c5c][Ngurii]].
 #+end_quote
