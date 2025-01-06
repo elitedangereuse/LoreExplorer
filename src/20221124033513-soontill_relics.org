@@ -2,4 +2,12 @@
 :ID:       2fd998e2-63d3-4a86-8087-d713f905d8eb
 :END:
 #+title: Soontill Relics
+#+filetags: :Commodity:rare:
 [[id:23f66b0e-9198-4dc8-a11c-fea8851e4e6d][Relics]]
+#+begin_quote
+A slab of unidentified material covered in pictographs of an unknown origin. This relic is part of a cache of similar artefacts that were uncovered by explorers researching lost alien civilisations in the Soontill system. Sold by Garry's Reclamations, Cheranovsky City, Ngurii.
+
+This rare good is legal in all systems.
+
+Please note that if a system's controlling faction changes, some formerly legal rare goods may become illegal in that system. If this happens, the rare goods in question will no longer be available for sale or purchase.
+#+end_quote
