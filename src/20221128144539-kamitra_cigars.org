@@ -2,4 +2,19 @@
 :ID:       fad057f3-a5e3-4dad-a5ab-f2b471a14862
 :END:
 #+title: Kamitra Cigars
+#+filetags: :rare:Commodity:
 
+#+begin_quote
+Providing the biggest cigars in the galaxy, hand-rolled and ready to
+smoke right out of the box. Specially treated to allow safe smoking
+even in the cockpit without overloading your life support module. The
+best way to end your days.
+#+end_quote
+
+This rare good is legal in all systems except for Prison Colony,
+Theocracy and Corporate systems and Federal Democracy systems.
+
+This rare good is legal in all systems except for Prison Colony,
+Theocracy and Corporate systems and Federal Democracy systems.
+
+[[file:img/commodities/kamitra_cigars.png]]

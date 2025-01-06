@@ -7,5 +7,6 @@
 Commodity related to the Christmas Quest.
 
 #+begin_quote
-Colourfully wrapped presents for both the naughty and nice, although those for the nice do appear to be bigger!
+Colourfully wrapped presents for both the naughty and nice, although
+those for the nice do appear to be bigger!
 #+end_quote
