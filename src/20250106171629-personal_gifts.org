@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6c3dd957-b045-409c-8beb-82d51c93afed
+:END:
+#+title: Personal Gifts
+#+filetags: :rare:Commodity:
+
+Commodity related to the Christmas Quest.
+
+#+begin_quote
+Colourfully wrapped presents for both the naughty and nice, although those for the nice do appear to be bigger!
+#+end_quote
