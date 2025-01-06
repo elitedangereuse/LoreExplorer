@@ -11,3 +11,5 @@ uncovered by explorers researching lost [[id:860ffa72-12a1-44d6-bca5-d7c2cdc29a4
 [[id:c1b3ef31-f69a-4c84-a3a8-aedd3cf2f49c][Soontill]] system. Sold by [[id:c6a1257d-d828-4b17-a4f6-e79a3531e22e][Garry's Reclamations]], [[id:e3c8dc79-f89f-4f9b-971b-391f99abd850][Cheranovsky City]],
 [[id:c5a59d3f-3c81-49d0-975a-3517cae28c5c][Ngurii]].
 #+end_quote
+
+[[file:img/commodities/soontill_relics.png]]
