@@ -4,9 +4,11 @@
 #+title: Personal Gifts
 #+filetags: :rare:Commodity:
 
-Commodity related to the Christmas Quest.
+Commodity renamed to Festive Gifts during the Christmas Quest.
 
 #+begin_quote
 Colourfully wrapped presents for both the naughty and nice, although
 those for the nice do appear to be bigger!
 #+end_quote
+
+[[file:img/commodities/festive_gifts.png]]
