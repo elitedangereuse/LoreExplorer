@@ -5,5 +5,5 @@
 #+filetags: :Reputation:System:Permit:
 [[file:img/permit.png]]
 
-Faction: [[id:3e16964a-3950-4648-87ce-46e9b6aff7a5][Conservatives of Tiliala]]
-Benefits: none known
+- Faction: [[id:3e16964a-3950-4648-87ce-46e9b6aff7a5][Conservatives of Tiliala]]
+- Benefits: none known
