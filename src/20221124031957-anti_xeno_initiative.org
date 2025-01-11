@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       191fb0ed-5a88-4a49-a98d-e25794c5b36b
 :ROAM_REFS: https://wiki.antixenoinitiative.com/en/home https://antixenoinitiative.com/
+:ROAM_ALIASES: AXI
 :END:
 #+title: Anti-Xeno Initiative
 #+filetags: :Thargoid:
