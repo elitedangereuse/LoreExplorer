@@ -2,3 +2,32 @@
 :ID:       8eafbb1f-b1ca-4a6e-a864-2d53083506d7
 :END:
 #+title: Alvin Deefer
+#+filetags: :Individual:
+
+* Alpha Centauri B 1
+
+    #+begin_quote
+    …[[id:4df4a36a-20bf-43ca-9bf1-2324f832ab81][LISTENING POST]] SIGNAL DATA…
+    ***Unregistered transmission detected***
+
+    Signal matches at listening post :George Pantazis
+
+    I don’t want to hear your excuses just find Alvin Defeer, now!
+
+    People have been taking too many liberties and it’s time to make them understand that you don’t cross Don Antonaci and get away with it. I want the Shady Lady found, not tomorrow, not next week. NOW!
+
+    …Signal Terminated at Source…
+    #+end_quote
+
+* George Pantazis A 12 (Anew)
+
+    #+begin_quote
+    …[[id:4df4a36a-20bf-43ca-9bf1-2324f832ab81][LISTENING POST]] SIGNAL DATA…
+    ***Unregistered transmission detected***
+
+    Signal matches at listening post :Alpha Centauri
+
+    Tell the Don we’ve found the target in the Wise 0855-0714 system. What does he want us to do with Alvin Defeer when we reach him?
+
+    …SignaI Lost…
+    #+end_quote
