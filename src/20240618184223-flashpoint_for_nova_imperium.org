@@ -8,10 +8,18 @@
 
 /11 Jan 3305/
 
-Political journalist [[id:745efc38-c548-40c0-81d2-82973c604d37][Cassia Carvalho]] has reported on the current conflict with isolationist group Nova Imperium: 
+Political journalist [[id:745efc38-c548-40c0-81d2-82973c604d37][Cassia Carvalho]] has reported on the current
+conflict with isolationist group [[id:64e89e89-f7fe-4f90-bc29-1cd90497e1f1][Nova Imperium]]:
 
-“In recent weeks, Nova Imperium has become a genuine political force. Tensions have now erupted into open conflict in the Paresa system, with Imperial Navy auxiliaries attempting to destroy Nova Imperium’s fleet.” 
+“In recent weeks, Nova Imperium has become a genuine political
+force. Tensions have now erupted into open conflict in the Paresa
+system, with Imperial Navy auxiliaries attempting to destroy Nova
+Imperium’s fleet.”
 
-“In return, Imperator Mordanticus has called on the galactic community to fight for Emperor Hengist’s long-lost grandson [[id:c4f47591-9c52-441f-8853-536f577de922][Hadrian Duval]] to be recognised as an heir to the throne.” 
+“In return, [[id:f6be5b58-fd8d-4233-8053-7ade4ca35aee][Imperator Mordanticus]] has called on the galactic community
+to fight for [[id:3cb0755e-4deb-442b-898b-3f0c6651636e][Emperor Hengist]]’s long-lost grandson [[id:c4f47591-9c52-441f-8853-536f577de922][Hadrian Duval]] to be
+recognised as an heir to the throne.”
 
-“Whether this is a one-off battle or the beginning of an Imperial civil war, the outcome of the Battle of Paresa will influence the future of the Empire.”
+“Whether this is a one-off battle or the beginning of an Imperial
+civil war, the outcome of the [[id:c0a7a8bc-9add-49fb-b79e-18df5696e2b7][Battle of Paresa]] will influence the
+future of the Empire.”

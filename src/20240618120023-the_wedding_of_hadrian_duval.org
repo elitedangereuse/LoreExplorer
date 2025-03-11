@@ -2,24 +2,41 @@
 :ID:       cd96c850-e9ab-4fe9-b62f-c4c902e8c0c4
 :END:
 #+title: The Wedding of Hadrian Duval
-#+filetags: :3307:Empire:galnet:
+#+filetags: :NMLA:3305:3307:Empire:galnet:
 
 * The Wedding of [[id:c4f47591-9c52-441f-8853-536f577de922][Hadrian Duval]]
 
 /05 Apr 3307/
 
-Imperator [[id:c4f47591-9c52-441f-8853-536f577de922][Hadrian Augustus Duval]], leader of the isolationist group Nova Imperium, has married his consort Astrid Minerva in a closed ceremony. 
+Imperator [[id:c4f47591-9c52-441f-8853-536f577de922][Hadrian Augustus Duval]], leader of the isolationist group
+[[id:64e89e89-f7fe-4f90-bc29-1cd90497e1f1][Nova Imperium]], has married his consort [[id:ef9ddb06-8cb2-4c3f-a688-469be3149aa9][Astrid Minerva]] in a closed
+ceremony.
 
-Commander Minerva was a young Imperial pilot who aided Nova Imperium at the Battle of Paresa in 3305 and became a loyal supporter. Her official title is now Lady [[id:ef9ddb06-8cb2-4c3f-a688-469be3149aa9][Astrid Minerva-Duval]]. 
+Commander Minerva was a young Imperial pilot who aided [[id:64e89e89-f7fe-4f90-bc29-1cd90497e1f1][Nova Imperium]]
+at the [[id:c0a7a8bc-9add-49fb-b79e-18df5696e2b7][Battle of Paresa]] in 3305 and became a loyal supporter. Her
+official title is now Lady [[id:ef9ddb06-8cb2-4c3f-a688-469be3149aa9][Astrid Minerva-Duval]].
 
-Princess [[id:b402bbe3-5119-4d94-87ee-0ba279658383][Aisling Duval]] personally attended her cousin’s wedding at a secure location. She referred to it as “a precious moment of joy in these bleak times”. 
+Princess [[id:b402bbe3-5119-4d94-87ee-0ba279658383][Aisling Duval]] personally attended her cousin’s wedding at a
+secure location. She referred to it as “a precious moment of joy in
+these bleak times”.
 
-The Imperial Palace and the Senate have sent congratulatory messages, and the event was covered by mainstream media. 
+The [[id:7210d36a-25f5-4c8e-8cf2-069de549d438][Imperial Palace]] and the [[id:6b539fa1-7ebe-44d3-874b-41a3bd400af9][Senate]] have sent congratulatory messages,
+and the event was covered by mainstream media.
 
-Paresa News Network: “Astrid’s well-deserved rise to nobility has made her fellow Paresans very proud. Everyone at PNN is overjoyed for the happy couple!” 
+[[id:4ccd6e9c-1bdb-4319-b951-2ef6919707fa][Paresa News Network]]: “Astrid’s well-deserved rise to nobility has made
+her fellow [[id:9147b1a8-a73f-4144-b614-8e876943c10e][Paresans]] very proud. Everyone at PNN is overjoyed for the
+happy couple!”
 
-Eye on [[id:bed8c27f-3cbe-49ad-b86f-7d87eacf804a][Achenar]]: “It’s an insult to the noble Duval bloodline when some trigger-jockey from a gutter system can sink her claws into the Emperor’s own nephew.” 
+[[id:9e04a792-7d27-4492-b430-8bd8673d7454][Eye on Achenar]]: “It’s an insult to the noble [[id:bce02e51-c68c-4594-86fe-88dda4915a74][Duval]] bloodline when some
+trigger-jockey from a gutter system can sink her claws into the
+Emperor’s own nephew.”
 
-The Imperial Herald: “Hadrian taking a bride at the age of 20 has surprised many. If he becomes the only Duval to produce heirs, it will place pressure on Emperor Arissa and Princess Aisling, neither of whom have consorts.” 
+[[id:626a18d7-ad16-4093-b9be-d9dc1940594b][The Imperial Herald]]: “Hadrian taking a bride at the age of 20 has
+surprised many. If he becomes the only Duval to produce heirs, it will
+place pressure on [[id:34f3cfdd-0536-40a9-8732-13bf3a5e4a70][Emperor Arissa]] and [[id:b402bbe3-5119-4d94-87ee-0ba279658383][Princess Aisling]], neither of whom
+have consorts.”
 
-In related news, Nova Imperium vessels are participating in the current conflict against the Neo-Marlinists of Mudhrid. Praetor [[id:3fdf3f05-e7b5-436f-906e-e67dafa5d254][Leo Magnus]], head of security, is liaising with the IISS on anti-terrorism intelligence.
+In related news, Nova Imperium vessels are participating in the
+current conflict against the [[id:ec1cb30c-2e72-410b-a664-0d609a352100][Neo-Marlinists]] of [[id:bb9435b7-f21d-4afc-8ca6-a57d0fd51065][Mudhrid]]. Praetor [[id:3fdf3f05-e7b5-436f-906e-e67dafa5d254][Leo
+Magnus]], head of security, is liaising with the [[id:01980efc-1b06-4f55-bf18-fa6c7e56f1eb][IISS]] on anti-terrorism
+intelligence.

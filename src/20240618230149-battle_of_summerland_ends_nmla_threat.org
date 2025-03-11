@@ -8,7 +8,7 @@
 
 /24 Feb 3308/
 
-*Pilots’ Federation ALERT* 
+*Pilots’ Federation ALERT*
 
 The Empire has carried out reprisals against the [[id:caf0242f-7093-4322-9b3e-7a19a21f1b17][rogue]] faction
 [[id:57907627-04a8-4987-96c2-535c101e958b][Darkwater Inc]] in the [[id:ba152f8a-d8af-4611-b8ac-0b32f3258dd0][Summerland]] system.
@@ -23,7 +23,7 @@ Brock]], the mercenaries’ leader, was killed during the fighting when he
 fled from the [[id:fdd32864-53fd-4eef-83ed-5cce54c199a7][Onyx Storm]] megaship and was shot down by Imperial
 auxiliaries.
 
-Emperor [[id:d5a9852e-9a45-4e65-8b64-8227cc2b6c53][Arissa]] praised all those who helped destroy [[id:57907627-04a8-4987-96c2-535c101e958b][Darkwater]], and
+[[id:34f3cfdd-0536-40a9-8732-13bf3a5e4a70][Emperor Arissa]] praised all those who helped destroy [[id:57907627-04a8-4987-96c2-535c101e958b][Darkwater]], and
 declared: “Let the Battle of [[id:ba152f8a-d8af-4611-b8ac-0b32f3258dd0][Summerland]] mark the victorious end of our
 bitter war against both the [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] and the traitors who sought to
 destabilise the Empire.”

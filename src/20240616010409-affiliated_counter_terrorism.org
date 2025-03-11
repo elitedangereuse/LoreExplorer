@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a152bfb8-4b9a-4b61-a292-824ecbd263e1
-:ROAM_ALIASES: [[id:a152bfb8-4b9a-4b61-a292-824ecbd263e1][ACT]]
+:ROAM_ALIASES: ACT
 :END:
 #+title: Affiliated Counter-Terrorism
 #+filetags: :3308:
