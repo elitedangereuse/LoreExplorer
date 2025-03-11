@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       971c624f-bca8-4e23-b5bb-a57351cb1838
+:END:
+#+title: System Colonisation Module
+#+filetags: :3311:
+Module introduced in 3311 to allow CMDRs to claim star systems.
