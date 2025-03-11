@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       dfcd3273-3589-4725-a75f-5f1a08adc662
+:END:
+#+title: Coriolis
+
+Type of starport.
+
+[[file:img/stations/coriolis.png]]
