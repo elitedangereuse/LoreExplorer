@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       c5877314-9b70-4da4-8bb0-7959b3e52706
+:END:
+#+title: Colony Ship
+#+filetags: :ship:
+
+[[id:d1f19609-fdb7-4991-bcb2-e93435f013d0][Colonisation]]
