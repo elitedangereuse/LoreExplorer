@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       2547515c-389e-450d-893c-435b62436fc4
+:END:
+#+title: System Architect
+Person in charge of the [[id:d1f19609-fdb7-4991-bcb2-e93435f013d0][Colonisation]] of a system.
