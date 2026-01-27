@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ad8841dc-d041-4951-b44d-73b20e230816
+:END:
+#+title: Partners Lockdowns
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011103-GalNet_Weekly_Security_Digest.org][33011103-GalNet_Weekly_Security_Digest.org]]

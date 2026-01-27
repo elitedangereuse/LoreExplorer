@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0b285e8b-33d7-46f8-aa6a-8e595f2bff9b
+:END:
+#+title: Jet Society Cartel
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020805-Galactic_News__Weekly_Conflict_Report.org][33020805-Galactic_News__Weekly_Conflict_Report.org]]

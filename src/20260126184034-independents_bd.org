@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3ef514e3-85ea-47a6-879e-73a22108758c
+:END:
+#+title: Independents BD
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020716-Galactic_News__Weekly_Expansion_Report.org][33020716-Galactic_News__Weekly_Expansion_Report.org]]

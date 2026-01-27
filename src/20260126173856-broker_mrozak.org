@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2efe0212-0985-4f0c-98e5-b7fcf4bba379
+:END:
+#+title: Broker Mrozak
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010511-The_Alliance_Supports_Five_a_Day_in_Diso!.org][33010511-The_Alliance_Supports_Five_a_Day_in_Diso!.org]]

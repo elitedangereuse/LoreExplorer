@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8fad20f1-ae6c-46b6-9ad4-2caaea2eb028
+:END:
+#+title: Neville Horizons
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011022-From_Dreams_to_Reality.org][33011022-From_Dreams_to_Reality.org]]

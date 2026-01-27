@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       dedc2ea0-8893-4121-bcf0-a857ae5e3a49
+:END:
+#+title: Laming Orbital
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010424-Justice_Isn’t_Always_Blind.org][33010424-Justice_Isn’t_Always_Blind.org]]

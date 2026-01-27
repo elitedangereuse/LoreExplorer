@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e3343d8f-b08e-44bb-9d3f-052baf577707
+:END:
+#+title: As Emperor
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010718-The_Emperor_Speaks_out_for_Unity.org][33010718-The_Emperor_Speaks_out_for_Unity.org]]

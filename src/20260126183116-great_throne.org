@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e4028bf9-089e-4d2c-ad41-e2f3056967d2
+:END:
+#+title: Great Throne
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010907-Chancellor_Blaine_Opens_Senate_Debate.org][33010907-Chancellor_Blaine_Opens_Senate_Debate.org]]

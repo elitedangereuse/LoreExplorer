@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5e3e3aa8-1c80-4d44-8ea0-d313cb4b28d1
+:END:
+#+title: Senator Cartesius
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040421-Imperial_Senator_Murdered.org][33040421-Imperial_Senator_Murdered.org]]

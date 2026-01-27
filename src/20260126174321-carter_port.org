@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9b3a193f-83e2-44b8-bc01-71b541a77617
+:END:
+#+title: Carter Port
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020104-Services_Suspended_at_Gabriel_Enterprise.org][33020104-Services_Suspended_at_Gabriel_Enterprise.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       715f96f6-09c4-4426-8734-79a1243c97fc
+:END:
+#+title: Confederacy The
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010727-GalNet_Weekly_Economic_Report.org][33010727-GalNet_Weekly_Economic_Report.org]]

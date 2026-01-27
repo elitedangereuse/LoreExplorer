@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       75f3e0ec-a62b-46a4-9a82-3c7579c1efe8
+:END:
+#+title: Operation Papercut
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010424-Merchant_Marines_Launch_Operation_Papercut.org][33010424-Merchant_Marines_Launch_Operation_Papercut.org]]

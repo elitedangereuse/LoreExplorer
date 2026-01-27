@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       aeaa22cc-968e-41fc-a227-5f5d5b39f47b
+:END:
+#+title: Commander Stateira Eleshenar Sentient Life
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020412-Freelance_Report__Humanity's_Dream.org][33020412-Freelance_Report__Humanity's_Dream.org]]

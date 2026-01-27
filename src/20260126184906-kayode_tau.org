@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3866c9b9-b37b-4551-828e-3fe87b7c0c38
+:END:
+#+title: Kayode Tau
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070713-Marlinist_Colonies_Face_Political_Division.org][33070713-Marlinist_Colonies_Face_Political_Division.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a32d59c3-4fd6-43aa-b8f4-d19488d67d19
+:END:
+#+title: Future In
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010613-Federal_President_Hudson_Looks_to_the_Future.org][33010613-Federal_President_Hudson_Looks_to_the_Future.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6e5f9910-fc02-447e-8041-387daba4d2a8
+:END:
+#+title: Aid Refugees Officials
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010916-Munshin_Announces_Plan_to_Aid_Refugees.org][33010916-Munshin_Announces_Plan_to_Aid_Refugees.org]]

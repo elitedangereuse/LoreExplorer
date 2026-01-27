@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e721c5b1-0c6f-495c-9931-7ae9d1e8b936
+:END:
+#+title: Maxim Kammerer
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020506-Freelance_Report__CIMA_Honours_Contest_Winners.org][33020506-Freelance_Report__CIMA_Honours_Contest_Winners.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       593434fc-c8a9-478b-99b6-0b9f52cad067
+:END:
+#+title: Transport Co
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010723-Victoria_Wolf_VI_and_Commodore_Stone_launch_Operation_Augeas.org][33010723-Victoria_Wolf_VI_and_Commodore_Stone_launch_Operation_Augeas.org]]

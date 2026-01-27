@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       fd39c356-ccec-4d2f-9c1e-12fa9944f826
+:END:
+#+title: Maia Obsidian Orbital
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021129-Galactic_News__Starport_Status_Update.org][33021129-Galactic_News__Starport_Status_Update.org]]

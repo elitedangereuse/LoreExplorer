@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6d4ba0eb-8f4b-4717-9c1e-e5b801c113fd
+:END:
+#+title: Dr Swainn
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030623-Community_Goal__Renowned_Chef_Issues_Appeal.org][33030623-Community_Goal__Renowned_Chef_Issues_Appeal.org]]

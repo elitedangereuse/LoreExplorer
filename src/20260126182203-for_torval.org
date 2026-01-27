@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bb479402-004d-4927-a6c5-6a9308414de3
+:END:
+#+title: For Torval
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011204-A_Week_in_Powerplay.org][33011204-A_Week_in_Powerplay.org]]

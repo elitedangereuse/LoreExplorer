@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5d18260d-f96c-49e2-a571-76e56ecac038
+:END:
+#+title: Leopold Heckmann Ring
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030223-Freelance_Report__Buckyball_Racing_Club_has_Tunnel_Vision.org][33030223-Freelance_Report__Buckyball_Racing_Club_has_Tunnel_Vision.org]]

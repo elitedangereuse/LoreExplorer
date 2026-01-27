@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b15ab010-6b73-4d2e-9a1b-2d7c46314a93
+:END:
+#+title: The Emperor's Dawn
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011204-A_Week_in_Powerplay.org][33011204-A_Week_in_Powerplay.org]]

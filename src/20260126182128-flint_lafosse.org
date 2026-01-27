@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       df48fe86-e5dc-4faa-be35-46c6a231096a
+:END:
+#+title: Flint Lafosse
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080915-‘Thargoid_Roar’_Leaked_to_Public.org][33080915-‘Thargoid_Roar’_Leaked_to_Public.org]]

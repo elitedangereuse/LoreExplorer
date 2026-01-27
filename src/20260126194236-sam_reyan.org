@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       658d0325-a88d-4ccb-89ef-eef3bcad4403
+:END:
+#+title: Sam Reyan
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010414-Hudson_has_Medical_Meeting_in_Mongan.org][33010414-Hudson_has_Medical_Meeting_in_Mongan.org]]

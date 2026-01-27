@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c3f220ae-ac26-4ca9-a91f-5bc1767920a1
+:END:
+#+title: Neumann Camp
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040314-Starport_Status_Update.org][33040314-Starport_Status_Update.org]]

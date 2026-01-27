@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9a1a6cc1-a53a-427e-8489-b965577c312e
+:END:
+#+title: Cremona Prospect
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33031013-Community_Goal__Fourth_Aegis_Initiative.org][33031013-Community_Goal__Fourth_Aegis_Initiative.org]]

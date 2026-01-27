@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       eb7534e2-3762-4ef8-90b1-40c7a57a47c6
+:END:
+#+title: Captain Jacob Morales
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070521-Thargoids_Pursue_Aegis_Megaship.org][33070521-Thargoids_Pursue_Aegis_Megaship.org]]

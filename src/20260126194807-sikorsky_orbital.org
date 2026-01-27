@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4e7c4a48-20d1-41bb-ac85-7d6f5a00ef3d
+:END:
+#+title: Sikorsky Orbital
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010820-Commodities_needed_in_the_Kamcha,_Dinkas_and_Jang_Di_Systems.org][33010820-Commodities_needed_in_the_Kamcha,_Dinkas_and_Jang_Di_Systems.org]]

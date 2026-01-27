@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       744afb3e-c38d-45ba-8513-27388778391a
+:END:
+#+title: Cartel Union
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020831-Galactic_News__Weekly_Health_Report.org][33020831-Galactic_News__Weekly_Health_Report.org]]

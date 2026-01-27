@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       fc44fe32-7f18-49c2-abe1-c8d4c4e39d8b
+:END:
+#+title: AX Multi-Cannon
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33031201-Galactic_News__Fifth_Aegis_Campaign_Concludes.org][33031201-Galactic_News__Fifth_Aegis_Campaign_Concludes.org]]

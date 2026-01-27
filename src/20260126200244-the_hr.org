@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a0780163-eec0-4338-ad7b-640e370a19d9
+:END:
+#+title: The HR
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020422-Powerplay__Weekly_Report.org][33020422-Powerplay__Weekly_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       61445c18-f611-4199-b736-1fcaf438702e
+:END:
+#+title: Alpha Centauri Forbes Terminal
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040613-Starport_Status_Update.org][33040613-Starport_Status_Update.org]]

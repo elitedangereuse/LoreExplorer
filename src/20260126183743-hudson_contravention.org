@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       005d6a71-5833-4e7f-ab91-091faa6fe1c9
+:END:
+#+title: Hudson Contravention
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080215-Federation_Divided_by_Hudson’s_Proposal.org][33080215-Federation_Divided_by_Hudson’s_Proposal.org]]

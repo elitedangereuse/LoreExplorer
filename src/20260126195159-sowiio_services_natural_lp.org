@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9a229a7e-c0ef-4f6a-b05e-692c04a9b285
+:END:
+#+title: Sowiio Services Natural LP
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020920-Galactic_News__Weekly_Security_Report.org][33020920-Galactic_News__Weekly_Security_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0a4510d6-1bdc-44ff-92f6-1fdede38d8dc
+:END:
+#+title: Davy Jones
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010708-United_Imperial_Offensive_into_Pegasi_Sector.org][33010708-United_Imperial_Offensive_into_Pegasi_Sector.org]]

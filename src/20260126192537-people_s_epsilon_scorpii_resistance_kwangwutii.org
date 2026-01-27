@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bd030274-1408-4547-9c4d-13e96741356b
+:END:
+#+title: People's Epsilon Scorpii Resistance Kwangwutii
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020105-GalNet_Weekly_Security_Digest.org][33020105-GalNet_Weekly_Security_Digest.org]]

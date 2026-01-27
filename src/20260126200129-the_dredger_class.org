@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e26d79b1-fb31-41a4-9c3e-e292dff023e3
+:END:
+#+title: The Dredger-class
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070702-Dredger_Clan_Arrives_at_Kumo_City.org][33070702-Dredger_Clan_Arrives_at_Kumo_City.org]]

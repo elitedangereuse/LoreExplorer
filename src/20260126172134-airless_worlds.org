@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b2ad0dd0-8828-4ab8-a297-545de9b5427d
+:END:
+#+title: Airless Worlds
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021101-Freelance_Report__Fungi_Discovered_on_Airless_Worlds.org][33021101-Freelance_Report__Fungi_Discovered_on_Airless_Worlds.org]]

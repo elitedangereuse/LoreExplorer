@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       76fd2a45-81c1-4423-8aa1-769e5ed86e3b
+:END:
+#+title: Kwiamoni Frick Base
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030124-Galactic_News__Starport_Status_Update.org][33030124-Galactic_News__Starport_Status_Update.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       70264b61-af26-46d9-b7df-7ef57a49bee1
+:END:
+#+title: Tavgi Blue Life Inc
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090406-Corporate_Battle_Erupts_in_Tavgi_System.org][33090406-Corporate_Battle_Erupts_in_Tavgi_System.org]]

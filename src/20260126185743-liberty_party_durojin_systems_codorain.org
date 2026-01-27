@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       951d43a4-472a-460c-930f-abf9dbb3fe61
+:END:
+#+title: Liberty Party Durojin Systems Codorain
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021025-Galactic_News__Weekly_Security_Report.org][33021025-Galactic_News__Weekly_Security_Report.org]]

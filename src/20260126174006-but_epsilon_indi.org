@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       306e85ea-377d-4d57-989c-0db2581466be
+:END:
+#+title: But Epsilon Indi
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020414-Community_Goal__Bringing_Back_the_Bourbon.org][33020414-Community_Goal__Bringing_Back_the_Bourbon.org]]

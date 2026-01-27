@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       623b7bb1-8838-48a7-a0dd-ffdcfa78bdcb
+:END:
+#+title: Supplies Needed
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33041220-Supplies_Needed_for_Imperial_Festivities.org][33041220-Supplies_Needed_for_Imperial_Festivities.org]]

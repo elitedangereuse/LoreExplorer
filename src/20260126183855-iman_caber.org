@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1ad9071f-4913-449e-9a21-fd79323b627a
+:END:
+#+title: Iman Caber
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33061203-Capital_Ship_Construction_Initiatives_Conclude.org][33061203-Capital_Ship_Construction_Initiatives_Conclude.org]]

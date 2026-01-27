@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c6ed5191-f69b-4919-b379-a7a7ba04851b
+:END:
+#+title: Tauri Awa One Expansions
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030730-Galactic_News__Weekly_Expansion_Report.org][33030730-Galactic_News__Weekly_Expansion_Report.org]]

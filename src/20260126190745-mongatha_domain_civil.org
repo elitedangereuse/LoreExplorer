@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bbea6e77-1277-4c80-a62e-9b7e633665e2
+:END:
+#+title: Mongatha Domain Civil
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020920-Galactic_News__Weekly_Security_Report.org][33020920-Galactic_News__Weekly_Security_Report.org]]

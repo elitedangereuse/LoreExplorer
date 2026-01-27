@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       dc2fcbfc-09cd-4297-9e96-a52f2d5a37b4
+:END:
+#+title: Travel Ltd Aeneas Organisation Mob
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020830-Galactic_News__Weekly_Security_Report.org][33020830-Galactic_News__Weekly_Security_Report.org]]

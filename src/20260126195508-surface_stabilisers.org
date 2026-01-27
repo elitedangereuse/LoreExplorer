@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c320a40d-0688-4d99-bb56-fd24da782700
+:END:
+#+title: Surface Stabilisers
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021222-Community_Goals__Alliance_to_Build_New_Outpost.org][33021222-Community_Goals__Alliance_to_Build_New_Outpost.org]]

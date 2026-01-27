@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e8bd1b68-f8c2-4b55-beb1-fbd90a4e481f
+:END:
+#+title: Gino Borstein
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33051020-Blight_Traced_to_Synthetic_Contaminant.org][33051020-Blight_Traced_to_Synthetic_Contaminant.org]]

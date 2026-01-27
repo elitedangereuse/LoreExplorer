@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d5825d17-19ad-41e0-a15d-2fac9f2db6c5
+:END:
+#+title: Blatuntino Vision Partners Babai Public
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010703-GalNet_Weekly_Conflict_Report.org][33010703-GalNet_Weekly_Conflict_Report.org]]

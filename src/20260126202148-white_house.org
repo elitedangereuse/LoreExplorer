@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       126e4e4c-a04f-4741-a350-a522c8fa97c2
+:END:
+#+title: White House
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010929-President_Hudson_Confirms_Investigation.org][33010929-President_Hudson_Confirms_Investigation.org]]

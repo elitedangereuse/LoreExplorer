@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ff896710-7911-464a-8b56-1c19ecf8dd4c
+:END:
+#+title: Liwei Gateway
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020803-Galactic_News__Starport_Status_Update.org][33020803-Galactic_News__Starport_Status_Update.org]]

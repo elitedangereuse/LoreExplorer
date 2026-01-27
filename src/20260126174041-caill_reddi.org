@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e4c2220f-d0e3-4bae-8888-fe4a4b46cb05
+:END:
+#+title: Caill Reddi
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010716-Adle's_Armada_Looks_to_End_Illegal_Arms_Deal_in_Hel.org][33010716-Adle's_Armada_Looks_to_End_Illegal_Arms_Deal_in_Hel.org]]

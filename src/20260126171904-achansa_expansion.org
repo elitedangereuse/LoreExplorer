@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e153edaf-da8a-4c20-8a12-3921d4450e68
+:END:
+#+title: Achansa Expansion
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011017-GalNet_Weekly_Expansion_List.org][33011017-GalNet_Weekly_Expansion_List.org]]

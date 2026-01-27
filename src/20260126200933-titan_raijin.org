@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7c09c057-7f3d-430f-a139-654e92567ce5
+:END:
+#+title: Titan Raijin
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3310/33101018-The_Assault_on_Raijin.org][33101018-The_Assault_on_Raijin.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       02ddda3d-1386-4975-8d5d-7321d88f0b23
+:END:
+#+title: While Commanders
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090220-Maelstrom_Protection_Technology_Undergoes_Testing.org][33090220-Maelstrom_Protection_Technology_Undergoes_Testing.org]]

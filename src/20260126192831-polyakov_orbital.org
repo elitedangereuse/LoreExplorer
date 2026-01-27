@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7953d6e6-ccf5-4081-905a-f96c84bc14b8
+:END:
+#+title: Polyakov Orbital
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33041115-Olelbis_Holdings_Appeal.org][33041115-Olelbis_Holdings_Appeal.org]]

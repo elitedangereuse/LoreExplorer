@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a7e9c3a9-c9e5-4304-b6ac-d96194cc99da
+:END:
+#+title: The Legacy
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070611-The_Legacy_of_the_Hesperus.org][33070611-The_Legacy_of_the_Hesperus.org]]

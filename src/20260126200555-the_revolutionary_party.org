@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ca10bcd0-8fc8-4158-9147-4e2a7829a102
+:END:
+#+title: The Revolutionary Party
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020324-Galactic_News__Terraforming_Campaign_Extended.org][33020324-Galactic_News__Terraforming_Campaign_Extended.org]]

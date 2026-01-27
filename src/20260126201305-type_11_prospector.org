@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       cd73b331-8bf8-4de5-b01e-654d358bd29d
+:END:
+#+title: Type-11 Prospector
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3312/33120122-Type-11_Prospector_Enters_Full_Production.org][33120122-Type-11_Prospector_Enters_Full_Production.org]]

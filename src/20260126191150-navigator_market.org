@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       77589a15-54fb-4349-9b64-a65a5a550990
+:END:
+#+title: Navigator Market
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011119-Onionhead_Appeal_Attracts_Pirates.org][33011119-Onionhead_Appeal_Attracts_Pirates.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       034de08d-94ae-4bf1-96c7-daac7c0b9c3f
+:END:
+#+title: Starflight One
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010526-President_Misses_Meeting.org][33010526-President_Misses_Meeting.org]]

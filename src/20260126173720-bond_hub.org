@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d0ef6c59-8a5a-4410-9ddf-6d272005c758
+:END:
+#+title: Bond Hub
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011102-Trouble_in_Varati.org][33011102-Trouble_in_Varati.org]]

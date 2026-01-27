@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5124cd22-7e8e-4b05-a5a2-7516dec02928
+:END:
+#+title: Arend Dock
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040629-Starport_Status_Update.org][33040629-Starport_Status_Update.org]]

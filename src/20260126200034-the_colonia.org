@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b79cab16-142b-4ce6-b8b7-c1013ae968d7
+:END:
+#+title: The Colonia
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030519-Community_Goal__Trouble_in_Colonia.org][33030519-Community_Goal__Trouble_in_Colonia.org]]

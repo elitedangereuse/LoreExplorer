@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3f227772-95f5-434d-b71b-52c6c9af8f4f
+:END:
+#+title: Clan Camorra
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020408-Galactic_News__Weekly_Conflict_Report.org][33020408-Galactic_News__Weekly_Conflict_Report.org]]

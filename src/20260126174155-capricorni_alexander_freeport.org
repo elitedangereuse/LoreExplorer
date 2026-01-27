@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8b0c946f-3200-411e-b4df-94c1ef248eb3
+:END:
+#+title: Capricorni Alexander Freeport
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020630-Galactic_News__Starport_Status_Update.org][33020630-Galactic_News__Starport_Status_Update.org]]

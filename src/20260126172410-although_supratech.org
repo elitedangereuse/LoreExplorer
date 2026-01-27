@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       28ae561f-56c9-49d9-be75-5262a60fd5eb
+:END:
+#+title: Although Supratech
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050131-Investor_Sets_Sights_on_Supratech.org][33050131-Investor_Sets_Sights_on_Supratech.org]]

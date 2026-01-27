@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       deb7f496-335a-40c5-8504-11c4c53d432c
+:END:
+#+title: Tradition Pirates
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020823-Galactic_News__Weekly_Security_Report.org][33020823-Galactic_News__Weekly_Security_Report.org]]

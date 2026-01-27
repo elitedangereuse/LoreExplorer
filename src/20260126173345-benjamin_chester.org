@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       820a0573-b33e-4f6d-8ea2-6f1252255c96
+:END:
+#+title: Benjamin Chester
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070310-Galactic_Mysteries__The_Adamastor.org][33070310-Galactic_Mysteries__The_Adamastor.org]]

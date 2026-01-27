@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ef84a4bc-3d3e-45b2-9f5c-1c7a5ea63510
+:END:
+#+title: Tag Arthurs
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020830-Galactic_News__Prospects_for_Malfunctioning_Starports_Improving.org][33020830-Galactic_News__Prospects_for_Malfunctioning_Starports_Improving.org]]

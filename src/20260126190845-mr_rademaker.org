@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       19f066f9-70b5-493c-a48b-30ed9bb9a5af
+:END:
+#+title: Mr Rademaker
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33081011-Subject_D-2_Rejects_Azimuth.org][33081011-Subject_D-2_Rejects_Azimuth.org]]

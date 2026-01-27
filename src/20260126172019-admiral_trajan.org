@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       95987910-6ef3-4082-9a36-89cef09f16d1
+:END:
+#+title: Admiral Trajan
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030604-Freelance_Report__Mercury_Seven_Expedition_Returns.org][33030604-Freelance_Report__Mercury_Seven_Expedition_Returns.org]]

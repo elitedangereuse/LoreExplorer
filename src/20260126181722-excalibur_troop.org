@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c89adea5-88d7-4f06-ae99-b858304fd842
+:END:
+#+title: Excalibur Troop
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33071110-Long-Lost_Research_Facility_Discovered.org][33071110-Long-Lost_Research_Facility_Discovered.org]]

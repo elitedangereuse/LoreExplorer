@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       aa9b3097-7fa5-43a8-9281-123ad6857009
+:END:
+#+title: Moore Prospect
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021001-Freelance_Report__Basking_for_Refugees.org][33021001-Freelance_Report__Basking_for_Refugees.org]]

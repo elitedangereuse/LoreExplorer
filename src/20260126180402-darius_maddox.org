@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b9a50bee-9af7-43ec-8dc1-02342d637158
+:END:
+#+title: Darius Maddox
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020906-Freelance_Report__Much_Ado_about_Nothing_.org][33020906-Freelance_Report__Much_Ado_about_Nothing_.org]]

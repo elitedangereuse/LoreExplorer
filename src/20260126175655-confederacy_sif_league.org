@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b216aa97-8084-4411-a02d-4195d02dac3a
+:END:
+#+title: Confederacy Sif League
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030801-Galactic_News__Weekly_Economic_Report.org][33030801-Galactic_News__Weekly_Economic_Report.org]]

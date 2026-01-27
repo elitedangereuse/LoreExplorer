@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9307b88f-0c1c-4019-945b-3da1bee80435
+:END:
+#+title: Commander Corbin Moran
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020424-Freelance_Report__Explorers_Contribute_to_Mapping_Project.org][33020424-Freelance_Report__Explorers_Contribute_to_Mapping_Project.org]]

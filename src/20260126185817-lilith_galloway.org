@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6c172013-6c56-4c08-8aac-29ad5d1d04bb
+:END:
+#+title: Lilith Galloway
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040601-Campaign_for_Pleiades_Starport_Restoration.org][33040601-Campaign_for_Pleiades_Starport_Restoration.org]]

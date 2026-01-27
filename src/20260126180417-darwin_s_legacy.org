@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2b1e195d-548a-4515-9732-70fbd00b49dd
+:END:
+#+title: Darwin's Legacy
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020617-Freelance_Report__Searching_for_Jaques.org][33020617-Freelance_Report__Searching_for_Jaques.org]]

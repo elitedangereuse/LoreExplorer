@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       aa185d65-e770-4843-a75f-1d60e43f8a5d
+:END:
+#+title: With Maelstrom Leigong
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090420-Old_Rivals_Clash_as_Thargoids_Advance.org][33090420-Old_Rivals_Clash_as_Thargoids_Advance.org]]

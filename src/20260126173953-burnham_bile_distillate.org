@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       49e423cc-40c2-4f47-abdd-b54fd66e9272
+:END:
+#+title: Burnham Bile Distillate
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020414-Community_Goal__Bringing_Back_the_Bourbon.org][33020414-Community_Goal__Bringing_Back_the_Bourbon.org]]

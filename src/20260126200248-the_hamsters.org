@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9e309ba0-a08c-4851-8bed-b0ed2fd9d4af
+:END:
+#+title: The Hamsters
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021202-Galactic_News__Amateurs_Partially_Decrypt_Signal.org][33021202-Galactic_News__Amateurs_Partially_Decrypt_Signal.org]]

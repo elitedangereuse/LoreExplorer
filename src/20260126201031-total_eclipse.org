@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       da7b44e4-8961-48f4-b84c-df0553a3f84e
+:END:
+#+title: Total Eclipse
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030822-Community_Goal__Total_Eclipse.org][33030822-Community_Goal__Total_Eclipse.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       20d53c4b-e828-41a0-9da7-72466c0730aa
+:END:
+#+title: Inc Nationalists
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020809-Galactic_News__Weekly_Security_Report.org][33020809-Galactic_News__Weekly_Security_Report.org]]

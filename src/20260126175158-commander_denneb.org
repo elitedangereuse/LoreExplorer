@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a67bb166-24ec-4c77-81ea-db752fa21adb
+:END:
+#+title: Commander Denneb
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021105-Galactic_News__Second_Mysterious_Wreck_Discovered.org][33021105-Galactic_News__Second_Mysterious_Wreck_Discovered.org]]

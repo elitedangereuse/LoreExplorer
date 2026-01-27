@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       04ad5fc0-2b25-4d94-95f2-278e1f0a91e3
+:END:
+#+title: Commander Alec Turner
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020126-Freelance_Report__Pilot_Breaks_Eight-Hour_Sagittarius_A__Barrier.org][33020126-Freelance_Report__Pilot_Breaks_Eight-Hour_Sagittarius_A__Barrier.org]]

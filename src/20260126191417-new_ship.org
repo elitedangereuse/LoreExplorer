@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d34f904f-9daa-485e-87ca-2e5b6d49f97c
+:END:
+#+title: New Ship
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010223-Building_a_New_Ship_-_BD+03_2338.org][33010223-Building_a_New_Ship_-_BD+03_2338.org]]

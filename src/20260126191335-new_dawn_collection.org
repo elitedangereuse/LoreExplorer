@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8ff7893d-9a21-4ea0-8fcf-c13aa7386747
+:END:
+#+title: New Dawn Collection
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040920-Historical_Sculptures_Stolen.org][33040920-Historical_Sculptures_Stolen.org]]

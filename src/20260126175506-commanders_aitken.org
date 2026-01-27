@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1c38fdb5-ada2-4b63-980e-0313c990097b
+:END:
+#+title: Commanders Aitken
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010826-Fuel_Rats_Complete_1,000th_Rescue.org][33010826-Fuel_Rats_Complete_1,000th_Rescue.org]]

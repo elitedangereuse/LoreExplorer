@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c0c749bb-edd2-496e-9a89-08e0939f08ea
+:END:
+#+title: Gold Gang Oho Bajo Public
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021220-Galactic_News__Weekly_Security_Report.org][33021220-Galactic_News__Weekly_Security_Report.org]]

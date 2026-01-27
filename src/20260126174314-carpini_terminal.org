@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       73729c64-7ac7-4f0f-b893-204ab9e1782a
+:END:
+#+title: Carpini Terminal
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030609-Community_Goal__Knights_of_Karma_Appeal.org][33030609-Community_Goal__Knights_of_Karma_Appeal.org]]

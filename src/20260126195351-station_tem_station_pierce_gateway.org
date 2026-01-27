@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       803449f4-286e-4940-903f-de9ae93b9404
+:END:
+#+title: Station Tem Station Pierce Gateway
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010722-Cerberus_Plague_Shuts_Down_Station_Services.org][33010722-Cerberus_Plague_Shuts_Down_Station_Services.org]]

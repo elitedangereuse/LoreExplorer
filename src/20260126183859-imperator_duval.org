@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       780dbfc9-bc4d-4bcc-88c1-8ca3ec0e0d06
+:END:
+#+title: Imperator Duval
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050131-The_New_Imperator.org][33050131-The_New_Imperator.org]]

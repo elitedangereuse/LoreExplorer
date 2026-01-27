@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       cb827451-b847-4f74-9b9f-2af6fd3d2e32
+:END:
+#+title: Chorel Survey
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020616-Galactic_News__Narcotics_Appeal_comes_to_an_End.org][33020616-Galactic_News__Narcotics_Appeal_comes_to_an_End.org]]

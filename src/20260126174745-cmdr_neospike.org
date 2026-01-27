@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       28363466-e459-432c-aadc-78fa9e843d33
+:END:
+#+title: Cmdr Neospike
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010721-Fuel_Rat_Deep_Space_Relay_Rescue.org][33010721-Fuel_Rat_Deep_Space_Relay_Rescue.org]]

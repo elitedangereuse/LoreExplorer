@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       831fd2f9-1f03-4dbb-9614-3b372d89f876
+:END:
+#+title: Founders World
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3310/33101002-Jameson_Memorial_Starport_Operational.org][33101002-Jameson_Memorial_Starport_Operational.org]]

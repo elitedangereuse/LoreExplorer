@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a583ed2c-00b2-4da8-8826-309c0e9c74d8
+:END:
+#+title: Trasken Square
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080216-Arissa_Retakes_the_Imperial_Throne.org][33080216-Arissa_Retakes_the_Imperial_Throne.org]]

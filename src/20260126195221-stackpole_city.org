@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b1dc3494-98b5-463f-a87b-f3a75836c3f0
+:END:
+#+title: Stackpole City
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040531-Starport_Status_Update.org][33040531-Starport_Status_Update.org]]

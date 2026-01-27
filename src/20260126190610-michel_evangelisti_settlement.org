@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       cbb09c6b-56d3-4149-bb69-78851a98721c
+:END:
+#+title: Michel Evangelisti Settlement
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040301-Starport_Status_Update.org][33040301-Starport_Status_Update.org]]

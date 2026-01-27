@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3be42ad2-e233-4969-9802-0bac3dc5a42c
+:END:
+#+title: Arth Purple Organisation
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010710-GalNet_Weekly_Conflict_Report.org][33010710-GalNet_Weekly_Conflict_Report.org]]

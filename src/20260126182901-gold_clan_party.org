@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6941ed0c-53d3-4c4e-b6df-60e7e44951e6
+:END:
+#+title: Gold Clan Party
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030301-Galactic_News__Weekly_Health_Report.org][33030301-Galactic_News__Weekly_Health_Report.org]]

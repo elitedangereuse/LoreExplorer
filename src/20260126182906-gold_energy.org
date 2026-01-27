@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8903a22c-2894-46e1-bac9-ad6e1db4d085
+:END:
+#+title: Gold Energy
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020901-Galactic_News__Weekly_Democracy_Report.org][33020901-Galactic_News__Weekly_Democracy_Report.org]]

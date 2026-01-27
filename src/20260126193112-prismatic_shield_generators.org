@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       225b7562-0069-4267-9909-8f8e36b11a50
+:END:
+#+title: Prismatic Shield Generators
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010712-Leaked_Data_Causes_Concerns_over_Latest_Imperial_Technology.org][33010712-Leaked_Data_Causes_Concerns_over_Latest_Imperial_Technology.org]]

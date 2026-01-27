@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       46540e2c-165d-411e-9f47-f8ae070f0aee
+:END:
+#+title: Network Jaques Elections
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030804-Galactic_News__Weekly_Democracy_Report.org][33030804-Galactic_News__Weekly_Democracy_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3c4b91dd-5b13-4665-a764-e5bb44f735e7
+:END:
+#+title: Congressman George Fallside
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010901-Core_Dynamics_has_Links_to_VP’s_Death_.org][33010901-Core_Dynamics_has_Links_to_VP’s_Death_.org]]

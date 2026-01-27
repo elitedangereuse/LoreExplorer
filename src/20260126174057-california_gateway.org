@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       122889db-571f-443f-baad-852e5fa5265d
+:END:
+#+title: California Gateway
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040803-Alliance_Initiative_Concludes.org][33040803-Alliance_Initiative_Concludes.org]]

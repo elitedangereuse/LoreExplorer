@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       04579f22-7d59-44ec-b676-bb4953168736
+:END:
+#+title: The GalNet
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011214-A_Week_in_Powerplay__Corrections.org][33011214-A_Week_in_Powerplay__Corrections.org]]

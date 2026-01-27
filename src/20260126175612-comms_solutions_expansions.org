@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b8a17ce0-91c2-4adf-b34b-363db8e194f2
+:END:
+#+title: Comms Solutions Expansions
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021210-Galactic_News__Weekly_Expansion_Report.org][33021210-Galactic_News__Weekly_Expansion_Report.org]]

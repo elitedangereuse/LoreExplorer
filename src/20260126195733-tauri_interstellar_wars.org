@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       724b8cfe-e48e-468a-ab2c-d7210cfec03a
+:END:
+#+title: Tauri Interstellar Wars
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021209-Galactic_News__Weekly_Conflict_Report.org][33021209-Galactic_News__Weekly_Conflict_Report.org]]

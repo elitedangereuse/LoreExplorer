@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ad296b42-38d5-4286-b823-28b58a6421b8
+:END:
+#+title: The Cutter Club
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021001-Freelance_Report__Basking_for_Refugees.org][33021001-Freelance_Report__Basking_for_Refugees.org]]

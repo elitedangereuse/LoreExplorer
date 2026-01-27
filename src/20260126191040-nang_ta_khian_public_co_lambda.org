@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a2a1fa93-edba-46c5-95e8-5ec058c81e10
+:END:
+#+title: Nang Ta-khian Public Co Lambda
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030620-Galactic_News__Weekly_Economic_Report.org][33030620-Galactic_News__Weekly_Economic_Report.org]]

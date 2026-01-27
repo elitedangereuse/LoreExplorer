@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       31145b52-b6c3-4cc6-b4fd-6eff6138e490
+:END:
+#+title: Fresh Incentive
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011026-Fresh_Incentive_from_Emperor's_Dawn.org][33011026-Fresh_Incentive_from_Emperor's_Dawn.org]]

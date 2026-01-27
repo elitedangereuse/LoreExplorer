@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       84545c5d-dadb-499a-b65d-2e7e4e53d51e
+:END:
+#+title: Azimuth Releases New AX Weapon
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090720-Azimuth_Releases_New_AX_Weapon.org][33090720-Azimuth_Releases_New_AX_Weapon.org]]

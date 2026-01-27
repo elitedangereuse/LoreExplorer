@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8f122a9e-d982-470e-8740-07b971a35484
+:END:
+#+title: Alklhaluana Shaikh Mines
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040425-Starport_Status_Update.org][33040425-Starport_Status_Update.org]]

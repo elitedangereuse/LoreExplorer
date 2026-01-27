@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3fa1ae97-6d79-453d-8c79-b2c9c7237901
+:END:
+#+title: Commodore Halloran
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33071209-Support_Salvation’s_Counterstrike_Against_the_Thargoids.org][33071209-Support_Salvation’s_Counterstrike_Against_the_Thargoids.org]]

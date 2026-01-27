@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b0929c18-f51d-46ab-8fea-7cb20c2e03af
+:END:
+#+title: Gold Mafia Kvenland Services Order
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030104-Galactic_News__Weekly_Health_Report.org][33030104-Galactic_News__Weekly_Health_Report.org]]

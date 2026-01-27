@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4a7d3baa-06dc-43fc-95b9-e0be35b16b4a
+:END:
+#+title: Wally Bei
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33041213-Battle_Commences_in_Wally_Bei_System.org][33041213-Battle_Commences_in_Wally_Bei_System.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       78542d34-3a0a-4b94-851e-e7622e14892b
+:END:
+#+title: First Great Expedition
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020112-The_Worlds_Beyond.org][33020112-The_Worlds_Beyond.org]]

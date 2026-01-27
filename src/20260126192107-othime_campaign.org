@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2a69e042-2dbf-4af4-ae69-4e21bcfba6c1
+:END:
+#+title: Othime Campaign
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040309-Coalition_of_Othime_Campaign.org][33040309-Coalition_of_Othime_Campaign.org]]

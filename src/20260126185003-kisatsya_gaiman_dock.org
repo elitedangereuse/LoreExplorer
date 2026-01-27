@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4c765722-6c71-40a2-a13b-7429c25fff40
+:END:
+#+title: Kisatsya Gaiman Dock
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030110-Galactic_News__Starport_Status_Update.org][33030110-Galactic_News__Starport_Status_Update.org]]

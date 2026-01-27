@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1e204734-6f6c-4c76-998e-62de84815a22
+:END:
+#+title: Congressman McRand
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010819-Federation_Continues_Debate_on_War.org][33010819-Federation_Continues_Debate_on_War.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9bf46e8c-df36-403e-8b6b-a231645ef435
+:END:
+#+title: Governor Ahmed
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030715-Galactic_News__New_Research_Centre_at_Thargoid_Site.org][33030715-Galactic_News__New_Research_Centre_at_Thargoid_Site.org]]

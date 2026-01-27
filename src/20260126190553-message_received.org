@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       306a4150-143d-4f9c-947a-3400b92b7a23
+:END:
+#+title: Message Received
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030408-Galactic_News__Message_Received_from_Col_70_Sector.org][33030408-Galactic_News__Message_Received_from_Col_70_Sector.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e077f7c0-7c3e-4877-b3d4-04dcf8c7ba9a
+:END:
+#+title: Evejitaka Robigo Mines
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020418-Galactic_News__Services_Suspended_at_Fozard_Dock.org][33020418-Galactic_News__Services_Suspended_at_Fozard_Dock.org]]

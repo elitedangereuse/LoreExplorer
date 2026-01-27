@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f281cb09-6a61-479d-95c4-0c33536f77da
+:END:
+#+title: California Nebula
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020607-Freelance_Report__Fresh_Fruit_Meets_Bitter_Harvest.org][33020607-Freelance_Report__Fresh_Fruit_Meets_Bitter_Harvest.org]]

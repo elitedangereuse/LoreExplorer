@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4c28558c-17ce-4066-8f88-61e0427f9d91
+:END:
+#+title: Bava Blue Travel Systems
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020714-Community_Goal__Searching_for_Barnacles.org][33020714-Community_Goal__Searching_for_Barnacles.org]]

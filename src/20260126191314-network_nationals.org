@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       25facca7-8ee0-4be6-bf7f-4da422df5d5e
+:END:
+#+title: Network Nationals
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020729-Galactic_News__Weekly_Conflict_Report.org][33020729-Galactic_News__Weekly_Conflict_Report.org]]

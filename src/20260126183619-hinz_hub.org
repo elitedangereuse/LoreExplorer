@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9680796c-617e-4753-ae14-4c45864c8166
+:END:
+#+title: Hinz Hub
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011119-More_Malfunction_Reports.org][33011119-More_Malfunction_Reports.org]]

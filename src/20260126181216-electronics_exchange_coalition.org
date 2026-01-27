@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       251dfd66-568d-47fe-bb86-d7c945bed2d0
+:END:
+#+title: Electronics Exchange Coalition
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020412-Galactic_News__Weekly_Security_Report.org][33020412-Galactic_News__Weekly_Security_Report.org]]

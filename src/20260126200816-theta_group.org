@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ca8c9a42-c016-4683-93d3-ae460c8489ff
+:END:
+#+title: Theta Group
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070319-Galactic_Mysteries__The_NMLA.org][33070319-Galactic_Mysteries__The_NMLA.org]]

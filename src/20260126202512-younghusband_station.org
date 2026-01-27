@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5fe9695a-a40a-454f-895d-222277e2a9bb
+:END:
+#+title: Younghusband Station
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040802-Starport_Status_Update.org][33040802-Starport_Status_Update.org]]

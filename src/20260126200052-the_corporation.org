@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       335d9bbb-edc1-4122-9eeb-59cadc43d158
+:END:
+#+title: The Corporation
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3310/33100919-Thargoid_Fleet_Invades_Shinrarta_Dezhra.org][33100919-Thargoid_Fleet_Invades_Shinrarta_Dezhra.org]]

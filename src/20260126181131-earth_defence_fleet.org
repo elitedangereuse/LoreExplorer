@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1f7600fe-7e21-4981-a858-6c96ea2e36df
+:END:
+#+title: Earth Defence Fleet
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020211-Community_Goal__Develop_the_Economy_of_Okinura.org][33020211-Community_Goal__Develop_the_Economy_of_Okinura.org]]

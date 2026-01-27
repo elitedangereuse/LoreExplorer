@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       57aca4c7-f120-48b3-bdc6-7589fe618835
+:END:
+#+title: Dragons Dukes
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021031-Galactic_News__Weekly_Economic_Report.org][33021031-Galactic_News__Weekly_Economic_Report.org]]

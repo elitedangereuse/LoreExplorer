@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       82c97bc1-4c90-45d6-97db-065a58e62944
+:END:
+#+title: Colonia Co-operative
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030414-Community_Goal__Colonia_Resource_Drive.org][33030414-Community_Goal__Colonia_Resource_Drive.org]]

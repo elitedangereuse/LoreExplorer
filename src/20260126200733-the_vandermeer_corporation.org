@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       007a2a2a-5765-4920-b0fb-c75e69b23d62
+:END:
+#+title: The Vandermeer Corporation
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33051014-The_Mystery_of_the_Blight.org][33051014-The_Mystery_of_the_Blight.org]]

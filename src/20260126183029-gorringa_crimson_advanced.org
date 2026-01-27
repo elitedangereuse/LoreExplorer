@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f563240d-26d6-4593-ab57-2216d47ee102
+:END:
+#+title: Gorringa Crimson Advanced
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020507-Galactic_News__Weekly_Expansion_Report.org][33020507-Galactic_News__Weekly_Expansion_Report.org]]

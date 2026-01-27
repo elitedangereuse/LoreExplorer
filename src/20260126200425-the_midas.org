@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ea225529-8015-4148-8afd-cf5b6bcd1050
+:END:
+#+title: The Midas
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030526-Galactic_News__Zeus_Bureau_Appeal_Concludes.org][33030526-Galactic_News__Zeus_Bureau_Appeal_Concludes.org]]

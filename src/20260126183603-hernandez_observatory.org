@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       421d5569-baad-41e0-9e61-9f38dffdcfe0
+:END:
+#+title: Hernandez Observatory
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030615-Galactic_News__Starport_Status_Update.org][33030615-Galactic_News__Starport_Status_Update.org]]

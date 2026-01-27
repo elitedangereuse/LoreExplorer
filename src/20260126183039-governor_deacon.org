@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       cc1170cb-8982-4df5-8a3b-3d9da4d9f79f
+:END:
+#+title: Governor Deacon
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011026-Federation_Scientist_Initiates_Independent_Research_Programme.org][33011026-Federation_Scientist_Initiates_Independent_Research_Programme.org]]

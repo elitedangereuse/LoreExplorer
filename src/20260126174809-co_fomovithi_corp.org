@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       799a833c-c5e0-4bfe-a433-dec2c62de673
+:END:
+#+title: Co Fomovithi Corp
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020524-Galactic_News__Weekly_Security_Report.org][33020524-Galactic_News__Weekly_Security_Report.org]]

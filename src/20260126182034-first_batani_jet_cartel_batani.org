@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0bfd924c-3814-4e0d-a7d8-3ca2a76cccfa
+:END:
+#+title: First Batani Jet Cartel Batani
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020108-GalNet_Weekly_Conflict_Report.org][33020108-GalNet_Weekly_Conflict_Report.org]]

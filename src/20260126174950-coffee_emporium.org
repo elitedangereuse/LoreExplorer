@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ee0458be-a0cf-4ccc-bffe-8f373091a815
+:END:
+#+title: Coffee Emporium
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021020-Community_Goal__The_Walter_Waldo_Appeal.org][33021020-Community_Goal__The_Walter_Waldo_Appeal.org]]

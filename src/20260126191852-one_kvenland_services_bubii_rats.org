@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7f1341bc-0462-4d10-9a71-1be6ef964f52
+:END:
+#+title: One Kvenland Services Bubii Rats
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030222-Galactic_News__Weekly_Health_Report.org][33030222-Galactic_News__Weekly_Health_Report.org]]

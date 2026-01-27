@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bb950ec4-2dd3-40ac-8f15-988f6f3ce54b
+:END:
+#+title: Miss Boyd
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010823-Federal_Times_Reporter_Named_as_Murder_Suspect.org][33010823-Federal_Times_Reporter_Named_as_Murder_Suspect.org]]

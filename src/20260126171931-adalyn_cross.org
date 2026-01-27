@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9e91563b-4975-4eda-adca-fca3cb92d92b
+:END:
+#+title: Adalyn Cross
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33051003-Poor_Harvests_Impact_Core_Systems.org][33051003-Poor_Harvests_Impact_Core_Systems.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       72b4bafb-7f25-4f78-8fdd-5d40aa0de096
+:END:
+#+title: Although Mahon
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070201-Alliance_Election_Delayed_due_to_Galactic_Summit.org][33070201-Alliance_Election_Delayed_due_to_Galactic_Summit.org]]

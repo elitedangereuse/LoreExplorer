@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       38c64c3c-bce6-468b-808c-b71213ed4cfe
+:END:
+#+title: Badfort Tea
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33031117-Galactic_News__California_Campaign_Concludes.org][33031117-Galactic_News__California_Campaign_Concludes.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ffb9cf38-4c14-4940-80d2-c0590ff5a6cc
+:END:
+#+title: Anton Lagorio
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33071008-Corporate_Split_between_Mastopolos_and_Torval.org][33071008-Corporate_Split_between_Mastopolos_and_Torval.org]]

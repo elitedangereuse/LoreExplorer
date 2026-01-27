@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b8b331c3-c0fe-4d08-990d-d7a1f23a5ac5
+:END:
+#+title: The Lucent Embrace
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33051118-Superpowers_Compete_over_Golconda’s_Future.org][33051118-Superpowers_Compete_over_Golconda’s_Future.org]]

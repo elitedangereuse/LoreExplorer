@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d12a5add-482d-4f26-bdb8-aa2c8b788dc2
+:END:
+#+title: Commander Hank Stone
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010225-Metal_Madness_Strikes_in_LAWD_26.org][33010225-Metal_Madness_Strikes_in_LAWD_26.org]]

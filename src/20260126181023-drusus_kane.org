@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       381d4168-b219-49ec-9a4e-e59cba2e2b55
+:END:
+#+title: Drusus Kane
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020324-Galactic_News__Wilkes_Orbital_Appeal_Comes_to_an_End.org][33020324-Galactic_News__Wilkes_Orbital_Appeal_Comes_to_an_End.org]]

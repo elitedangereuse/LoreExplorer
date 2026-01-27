@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       cccffd99-5237-4e33-9db8-2b3e75c4ce3b
+:END:
+#+title: Declared Free
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3311/33110116-HIP_22460_Declared_Free_of_Thargoids.org][33110116-HIP_22460_Declared_Free_of_Thargoids.org]]

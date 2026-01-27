@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7ca03f3b-bd38-45c7-8392-d0a6c146b25e
+:END:
+#+title: Sekenks Workers
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010807-GalNet_Weekly_Conflict_Report.org][33010807-GalNet_Weekly_Conflict_Report.org]]

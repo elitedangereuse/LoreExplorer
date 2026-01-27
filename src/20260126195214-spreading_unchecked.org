@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8c14e16f-2c0c-4c51-b61e-f226bf29cc74
+:END:
+#+title: Spreading Unchecked
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010217-Effinger_Port_Furbaide_Reports_Contagion_Spreading_Unchecked.org][33010217-Effinger_Port_Furbaide_Reports_Contagion_Spreading_Unchecked.org]]

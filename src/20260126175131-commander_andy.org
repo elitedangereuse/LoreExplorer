@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       47cc7fa7-f3fa-41b3-9245-e820d7436f85
+:END:
+#+title: Commander Andy
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020701-Freelance_Report__The_Jaques_Rescue_Mission.org][33020701-Freelance_Report__The_Jaques_Rescue_Mission.org]]

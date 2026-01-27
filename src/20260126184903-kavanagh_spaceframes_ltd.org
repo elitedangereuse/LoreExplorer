@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       892459ad-af04-47f4-89de-413384552071
+:END:
+#+title: Kavanagh Spaceframes Ltd
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33060911-Starport_Upgrade_Initiative_to_Support_Fleet_Carriers.org][33060911-Starport_Upgrade_Initiative_to_Support_Fleet_Carriers.org]]

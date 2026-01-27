@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       863f3ae2-64ec-4a61-98df-f55727e2ae48
+:END:
+#+title: Carmenta Fanning Vision
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33031004-Galactic_News__Starport_Status_Update.org][33031004-Galactic_News__Starport_Status_Update.org]]

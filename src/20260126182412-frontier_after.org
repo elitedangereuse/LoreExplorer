@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       cc818191-a314-448f-bd29-9a538f62a9db
+:END:
+#+title: Frontier After
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010714-Rise_of_the_Nova_Fleet_on_the_Frontier.org][33010714-Rise_of_the_Nova_Fleet_on_the_Frontier.org]]

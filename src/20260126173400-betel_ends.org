@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       401a49e0-bd3b-4d10-bb9a-c2c5bb7eb949
+:END:
+#+title: Betel Ends
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040831-Conflict_in_Betel_Ends.org][33040831-Conflict_in_Betel_Ends.org]]

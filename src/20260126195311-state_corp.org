@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3627258b-e0bd-4510-8ed4-8a5e3623819f
+:END:
+#+title: State Corp
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020827-Galactic_News__Weekly_Expansion_Report.org][33020827-Galactic_News__Weekly_Expansion_Report.org]]

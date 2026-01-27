@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7ddcccfe-87dd-4844-a4c0-6c85af3ed25b
+:END:
+#+title: Bhotho Rats Ross
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030531-Galactic_News__Weekly_Security_Report.org][33030531-Galactic_News__Weekly_Security_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       aa60a7f0-6f6e-4db9-a5b5-33c9a450f09a
+:END:
+#+title: Bear Settlement
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040510-Starport_Status_Update.org][33040510-Starport_Status_Update.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5d261d8e-ded4-4a64-9a65-5cd55ded1ac8
+:END:
+#+title: This Maelstrom
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090102-A_Retrospective_of_3308_(Part_Three).org][33090102-A_Retrospective_of_3308_(Part_Three).org]]

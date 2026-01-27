@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a8cbb77f-d31c-4cfe-8341-07b07b85b0f7
+:END:
+#+title: Tauri Landsteiner Orbital
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040510-Starport_Status_Update.org][33040510-Starport_Status_Update.org]]

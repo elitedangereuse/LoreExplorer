@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       89d03947-7c2e-46e7-9e88-a678f3effa27
+:END:
+#+title: Inhabited Systems
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080912-Thargoids_Turn_Attention_to_Inhabited_Systems.org][33080912-Thargoids_Turn_Attention_to_Inhabited_Systems.org]]

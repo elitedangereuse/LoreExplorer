@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3f146acc-f1d7-45e5-96b3-5fcf5dbc6866
+:END:
+#+title: Kahina Loren
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021021-Galactic_News__Patreus_Rails_against_London_Treaty.org][33021021-Galactic_News__Patreus_Rails_against_London_Treaty.org]]

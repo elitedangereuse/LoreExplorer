@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       427bd9bf-70ed-4db9-a4fc-b197a6af7aba
+:END:
+#+title: Draconis Resistance Values Party
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030620-Galactic_News__Weekly_Economic_Report.org][33030620-Galactic_News__Weekly_Economic_Report.org]]

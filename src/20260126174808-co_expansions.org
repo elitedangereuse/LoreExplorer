@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9ef8713d-e8d4-48f3-b37c-6035de627fc3
+:END:
+#+title: Co Expansions
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020423-Galactic_News__Weekly_Expansion_Report.org][33020423-Galactic_News__Weekly_Expansion_Report.org]]

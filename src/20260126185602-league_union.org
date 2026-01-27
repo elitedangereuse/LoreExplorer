@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2ac38b66-71db-45ae-9d71-011d9b6ae213
+:END:
+#+title: League Union
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011120-GalNet_Weekly_Conflict_Report.org][33011120-GalNet_Weekly_Conflict_Report.org]]

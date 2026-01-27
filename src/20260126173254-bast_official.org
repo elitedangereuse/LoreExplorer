@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e44b092f-28fc-4b5b-9e39-89c3b80c52b3
+:END:
+#+title: Bast Official
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010810-Pirates_Defeated_in_Bast.org][33010810-Pirates_Defeated_in_Bast.org]]

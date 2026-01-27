@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       914d2a32-b602-4e14-ac37-a01c622e04a0
+:END:
+#+title: Dr Derthek
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020513-Freelance_Report__Looking_for_Peace,_or_War_.org][33020513-Freelance_Report__Looking_for_Peace,_or_War_.org]]

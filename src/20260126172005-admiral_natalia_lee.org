@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ec44dcc3-e40d-4242-95e5-d7f082f58704
+:END:
+#+title: Admiral Natalia Lee
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070503-Nova_Imperium_Targeted_by_Superpowers.org][33070503-Nova_Imperium_Targeted_by_Superpowers.org]]

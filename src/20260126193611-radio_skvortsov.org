@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6f08f00d-bec8-4e9e-918c-c05de31fc99d
+:END:
+#+title: Radio Skvortsov
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020104-Diamond_Frogs_Contribute_to_Christmas_Initiative.org][33020104-Diamond_Frogs_Contribute_to_Christmas_Initiative.org]]

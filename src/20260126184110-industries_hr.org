@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5886c917-b007-4be7-ad67-241081f62a01
+:END:
+#+title: Industries HR
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020901-Galactic_News__Weekly_Democracy_Report.org][33020901-Galactic_News__Weekly_Democracy_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       552a9212-44c9-4cc6-925e-719684a03d19
+:END:
+#+title: Holdings Bureau
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030801-Galactic_News__Weekly_Economic_Report.org][33030801-Galactic_News__Weekly_Economic_Report.org]]

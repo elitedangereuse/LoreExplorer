@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       886717c8-043a-4323-b115-124b6e804baf
+:END:
+#+title: Commanders Poaarctica
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020316-Freelance_Report__End_of_First_Season_of_Galactic_Combat_Championship.org][33020316-Freelance_Report__End_of_First_Season_of_Galactic_Combat_Championship.org]]

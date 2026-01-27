@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f3f5c60d-58d2-4d54-89cb-72811a9a5365
+:END:
+#+title: Neither Salvation
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080530-New_Discovery_Links_Azimuth_to_INRA.org][33080530-New_Discovery_Links_Azimuth_to_INRA.org]]

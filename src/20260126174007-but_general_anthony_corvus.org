@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5b0439a3-75b0-4a7a-9030-7824435171f8
+:END:
+#+title: But General Anthony Corvus
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011028-Empire_Wins_Decisive_Victory.org][33011028-Empire_Wins_Decisive_Victory.org]]

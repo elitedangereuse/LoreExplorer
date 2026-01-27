@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       362c8aa2-311e-44f4-bc06-71f3fef02cb8
+:END:
+#+title: Company Umbrogo Partnership Factions
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021015-Galactic_News__Weekly_Expansion_Report.org][33021015-Galactic_News__Weekly_Expansion_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       920cf8d2-7ace-4c3a-988d-198643d4076a
+:END:
+#+title: Luyten's Star Synteini Industries Civil
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010707-GalNet_Weekly_Security_Digest.org][33010707-GalNet_Weekly_Security_Digest.org]]

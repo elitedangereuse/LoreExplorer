@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d8fc02f5-a1a5-4e1e-aeb0-88ea6cda8193
+:END:
+#+title: Riemann Colony
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080912-Thargoids_Turn_Attention_to_Inhabited_Systems.org][33080912-Thargoids_Turn_Attention_to_Inhabited_Systems.org]]

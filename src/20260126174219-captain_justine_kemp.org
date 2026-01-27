@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9a08b224-8886-442d-8dc4-c86313f968b2
+:END:
+#+title: Captain Justine Kemp
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33081205-Refugees_Flee_from_Thargoid_Offensive.org][33081205-Refugees_Flee_from_Thargoid_Offensive.org]]

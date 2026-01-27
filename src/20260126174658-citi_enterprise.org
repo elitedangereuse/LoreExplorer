@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       edef59a7-c85b-4b48-a1f8-b682b435aa89
+:END:
+#+title: Citi Enterprise
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021110-Zosi_Major_Corporation_Issues_Request.org][33021110-Zosi_Major_Corporation_Issues_Request.org]]

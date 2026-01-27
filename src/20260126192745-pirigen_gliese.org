@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2632dae6-4b23-48d9-8350-95da9b66f0a6
+:END:
+#+title: Pirigen Gliese
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030702-Galactic_News__Weekly_Expansion_Report.org][33030702-Galactic_News__Weekly_Expansion_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1ba19d03-5f54-409b-8f4a-6fe8ac7764ee
+:END:
+#+title: Stepping Stone Base
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011118-Sirius_Corporation_Programme_Ends_Today.org][33011118-Sirius_Corporation_Programme_Ends_Today.org]]

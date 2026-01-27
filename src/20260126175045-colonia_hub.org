@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       70c10bad-c855-4ca4-b1d3-6c089a0ff1b5
+:END:
+#+title: Colonia Hub
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021105-Freelance_Report__The_Christmas_Carriers_Convoy.org][33021105-Freelance_Report__The_Christmas_Carriers_Convoy.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e2bf1566-e649-430f-84c5-3878a629d6f0
+:END:
+#+title: Guardian Relics Needed
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3310/33100118-Guardian_Relics_Needed_for_Anti-Titan_Research.org][33100118-Guardian_Relics_Needed_for_Anti-Titan_Research.org]]

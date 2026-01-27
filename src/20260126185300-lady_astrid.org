@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d6dc88c3-4383-4177-940e-5995ce3799ba
+:END:
+#+title: Lady Astrid
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070428-Hadrian_Duval_Refutes_NMLA_Allegations.org][33070428-Hadrian_Duval_Refutes_NMLA_Allegations.org]]

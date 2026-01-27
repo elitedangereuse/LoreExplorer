@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2f7d4455-d7e1-4907-ac3f-57aed88fdb88
+:END:
+#+title: Jormor Cayley Landing
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030314-Galactic_News__Starport_Status_Update.org][33030314-Galactic_News__Starport_Status_Update.org]]

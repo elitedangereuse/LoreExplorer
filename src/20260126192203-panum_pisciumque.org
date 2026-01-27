@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       151ec0de-0edc-435a-998a-6b642765d4f5
+:END:
+#+title: Panum Pisciumque
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33031215-Community_Goal__Panum_Pisciumque.org][33031215-Community_Goal__Panum_Pisciumque.org]]

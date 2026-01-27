@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       21a76c95-5c89-47ca-a193-410f7dcd58a0
+:END:
+#+title: The Transport Safety Authority
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010811-Two_Dead_in_Tragic_Accident.org][33010811-Two_Dead_in_Tragic_Accident.org]]

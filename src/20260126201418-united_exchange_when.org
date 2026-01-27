@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       87a4b1fb-0ba1-463b-86f0-f501dd138323
+:END:
+#+title: United Exchange When
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030425-Galactic_News__Weekly_Economic_Report.org][33030425-Galactic_News__Weekly_Economic_Report.org]]

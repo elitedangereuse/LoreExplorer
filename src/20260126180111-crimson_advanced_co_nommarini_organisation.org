@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4d75552b-b094-4896-a5bb-c32d0b4fdf54
+:END:
+#+title: Crimson Advanced Co Nommarini Organisation
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020301-Galactic_News__Weekly_Security_Digest.org][33020301-Galactic_News__Weekly_Security_Digest.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b7c6e998-8e12-48c2-b812-d0ecb1de3dbb
+:END:
+#+title: Fire Destroys Supratech Facility
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040908-Fire_Destroys_Supratech_Facility.org][33040908-Fire_Destroys_Supratech_Facility.org]]

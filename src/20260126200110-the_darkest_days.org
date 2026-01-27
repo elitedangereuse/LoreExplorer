@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e17165dd-196d-4474-94e2-31c7849fe73d
+:END:
+#+title: The Darkest Days
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33081213-The_Darkest_Days.org][33081213-The_Darkest_Days.org]]

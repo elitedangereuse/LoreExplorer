@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8fdbe00c-1db7-4239-8f0c-ab767010b60f
+:END:
+#+title: Butterfly Nebula
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010327-Unknown_Explorer_Returns_From_NGC_3199_Nebula.org][33010327-Unknown_Explorer_Returns_From_NGC_3199_Nebula.org]]

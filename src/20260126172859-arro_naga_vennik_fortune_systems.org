@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       51809ebb-30d1-4b8b-8fe0-3f2910f737d0
+:END:
+#+title: Arro Naga Vennik Fortune Systems
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020412-Galactic_News__Weekly_Security_Report.org][33020412-Galactic_News__Weekly_Security_Report.org]]

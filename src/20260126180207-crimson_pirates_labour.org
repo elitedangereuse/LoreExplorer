@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       979d7cce-8403-4cdd-a2d3-fda1dac65284
+:END:
+#+title: Crimson Pirates Labour
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020105-GalNet_Weekly_Security_Digest.org][33020105-GalNet_Weekly_Security_Digest.org]]

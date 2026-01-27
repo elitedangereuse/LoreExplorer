@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f1e7ba5d-6957-4a02-8311-e49484b82185
+:END:
+#+title: Labour Gang
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021018-Galactic_News__Weekly_Security_Report.org][33021018-Galactic_News__Weekly_Security_Report.org]]

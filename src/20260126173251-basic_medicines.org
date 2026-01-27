@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       841a4096-1ced-46f5-b38f-bce20ab0b550
+:END:
+#+title: Basic Medicines
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030330-Community_Goal__Halsey_Requests_Relief.org][33030330-Community_Goal__Halsey_Requests_Relief.org]]

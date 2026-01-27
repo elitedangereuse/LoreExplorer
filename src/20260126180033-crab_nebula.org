@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6d654f00-cbf6-4e7d-adb7-0205b6a9dd8b
+:END:
+#+title: Crab Nebula
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020617-Freelance_Report__The_Crab_Nebula_Expedition.org][33020617-Freelance_Report__The_Crab_Nebula_Expedition.org]]

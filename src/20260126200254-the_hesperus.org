@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e7fb5ae7-9f56-48fc-a2ac-9a233d152b7b
+:END:
+#+title: The Hesperus
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070427-Galactic_Mysteries__The_Hesperus.org][33070427-Galactic_Mysteries__The_Hesperus.org]]

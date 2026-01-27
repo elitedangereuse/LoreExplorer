@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b507f11a-7211-4bc0-a0c7-d665be684684
+:END:
+#+title: Brestla A1
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020128-Community_Goal__Campaign_to_Develop_i_Sola_Prospect.org][33020128-Community_Goal__Campaign_to_Develop_i_Sola_Prospect.org]]

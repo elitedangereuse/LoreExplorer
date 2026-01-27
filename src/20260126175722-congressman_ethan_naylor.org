@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       596fbb25-80c1-4c76-8211-9b7b975b4737
+:END:
+#+title: Congressman Ethan Naylor
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010217-New_VP_Appointed.org][33010217-New_VP_Appointed.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7535fa74-a244-47a3-a443-9c5788af867e
+:END:
+#+title: Independent LP
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010831-GalNet_Weekly_Economic_Report.org][33010831-GalNet_Weekly_Economic_Report.org]]

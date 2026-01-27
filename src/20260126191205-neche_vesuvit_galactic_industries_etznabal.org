@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a65a552b-fa41-4ba1-a33e-d94607515fd3
+:END:
+#+title: Neche Vesuvit Galactic Industries Etznabal
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021219-Galactic_News__Weekly_Economic_Report.org][33021219-Galactic_News__Weekly_Economic_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e52585a0-fbfd-4140-958b-f700bb76d0ca
+:END:
+#+title: First Minister Octavia Volkov
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070910-Empire_Marks_Anniversary_of_NMLA_Attacks.org][33070910-Empire_Marks_Anniversary_of_NMLA_Attacks.org]]

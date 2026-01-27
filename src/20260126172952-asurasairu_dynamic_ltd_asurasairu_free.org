@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2bcfa9a8-5162-4e35-b3eb-a013814265f1
+:END:
+#+title: Asurasairu Dynamic Ltd Asurasairu Free
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011106-GalNet_Weekly_Conflict_Report.org][33011106-GalNet_Weekly_Conflict_Report.org]]

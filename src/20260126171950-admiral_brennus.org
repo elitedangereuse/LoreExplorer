@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7bcf2b29-19c2-4b61-af56-06d0e5d4013f
+:END:
+#+title: Admiral Brennus
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010608-Emperor's_Grace_Reaffirms_Loyalty_to_Patreus.org][33010608-Emperor's_Grace_Reaffirms_Loyalty_to_Patreus.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       028c55ed-b8d2-4b21-80fc-3dba8f73def9
+:END:
+#+title: Mr Fleischer
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090413-Torval_Mining_Victorious_in_Corporate_Conflict.org][33090413-Torval_Mining_Victorious_in_Corporate_Conflict.org]]

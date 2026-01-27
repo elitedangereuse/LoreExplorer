@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6b7fdff6-217d-4c32-a1fa-6711f5370e48
+:END:
+#+title: Dantec Enterprise
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040316-The_Purge_of_Socho.org][33040316-The_Purge_of_Socho.org]]

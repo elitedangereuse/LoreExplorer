@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ae3bc89c-171a-4e07-9d4f-97a78441aa59
+:END:
+#+title: Identity Discovered
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33071220-Theta_Seven’s_Identity_Discovered.org][33071220-Theta_Seven’s_Identity_Discovered.org]]

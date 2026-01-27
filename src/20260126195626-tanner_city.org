@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       eff5af88-fd37-4418-9a37-6dfc32658d4a
+:END:
+#+title: Tanner City
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040418-Starport_Status_Update.org][33040418-Starport_Status_Update.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       fa8b0f79-d6e1-463b-a323-d5c86fcd9c07
+:END:
+#+title: Ship Abductions
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070208-Warning_of_Ship_Abductions_by_Fleet_Carriers.org][33070208-Warning_of_Ship_Abductions_by_Fleet_Carriers.org]]

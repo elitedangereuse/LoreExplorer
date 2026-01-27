@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4832e9d6-5b77-4f1b-ab4b-fe0038845d61
+:END:
+#+title: Purple Cartel Wolf
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020104-GalNet_Weekly_Economic_Report.org][33020104-GalNet_Weekly_Economic_Report.org]]

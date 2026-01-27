@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d77116da-1da2-43a9-a641-4c9ecb8cf885
+:END:
+#+title: Boltzmann Hub
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33041227-Herculean_Machines_Initiative.org][33041227-Herculean_Machines_Initiative.org]]

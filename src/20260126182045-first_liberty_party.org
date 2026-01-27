@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       93388a72-44e6-4a42-8cdf-1f8b0245a50f
+:END:
+#+title: First Liberty Party
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020308-Galactic_News__Weekly_Security_Digest.org][33020308-Galactic_News__Weekly_Security_Digest.org]]

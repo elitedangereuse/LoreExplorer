@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0140b240-8b32-45f6-a53b-684cebee2af0
+:END:
+#+title: Gagarin Gate
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021014-Galactic_News__Location_of_Colonia_Outposts_Announced.org][33021014-Galactic_News__Location_of_Colonia_Outposts_Announced.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e4e904d5-f4b8-42c6-bbe5-e791b5b9d0e4
+:END:
+#+title: Prince Hadrian
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33061110-Hadrian_Duval_Seeks_Reintegration_with_the_Empire.org][33061110-Hadrian_Duval_Seeks_Reintegration_with_the_Empire.org]]

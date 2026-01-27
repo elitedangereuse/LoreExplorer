@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0797005a-01ac-4b14-88ed-3b2b92d4c9b5
+:END:
+#+title: Kumo Commanders
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010708-United_Imperial_Offensive_into_Pegasi_Sector.org][33010708-United_Imperial_Offensive_into_Pegasi_Sector.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d9cd7b9c-a5fb-4c7b-8826-dbacaffb1201
+:END:
+#+title: Coma McDivitt Port
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040406-Starport_Status_Update.org][33040406-Starport_Status_Update.org]]

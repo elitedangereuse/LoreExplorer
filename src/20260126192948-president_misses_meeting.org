@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5c797ee1-c2c9-44b3-9d45-fcc364c17943
+:END:
+#+title: President Misses Meeting
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010526-President_Misses_Meeting.org][33010526-President_Misses_Meeting.org]]

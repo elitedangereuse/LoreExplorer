@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2bd009bb-8d78-40d6-ac4e-a839c0e8f075
+:END:
+#+title: New Ship Modules
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020401-Galactic_News__Concern_over_New_Ship_Modules.org][33020401-Galactic_News__Concern_over_New_Ship_Modules.org]]

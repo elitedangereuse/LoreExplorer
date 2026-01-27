@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       93b415fc-0779-42e4-a4d6-13bccd54a73c
+:END:
+#+title: Asire Arena
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040406-Starport_Status_Update.org][33040406-Starport_Status_Update.org]]

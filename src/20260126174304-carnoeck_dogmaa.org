@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       70d01cd1-11da-4ee4-b9ed-31fa0d162a15
+:END:
+#+title: Carnoeck Dogmaa
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030207-Galactic_News__Starport_Status_Update.org][33030207-Galactic_News__Starport_Status_Update.org]]

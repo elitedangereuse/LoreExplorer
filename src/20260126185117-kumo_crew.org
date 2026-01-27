@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       cbaf06d5-43e6-4543-b65c-cd3b4ff0bbd0
+:END:
+#+title: Kumo Crew
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010514-Unrest_on_the_Frontier.org][33010514-Unrest_on_the_Frontier.org]]

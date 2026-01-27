@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3f1fb0c6-8d89-4975-9b1f-e8efd60799d0
+:END:
+#+title: For Dr Ulyanov
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040818-Ulyanov_Arrested.org][33040818-Ulyanov_Arrested.org]]

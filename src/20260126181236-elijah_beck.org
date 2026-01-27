@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       dc06f8df-fc98-4d47-a786-de22686ff659
+:END:
+#+title: Elijah Beck
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040913-Alliance_Gala_Initiative_Concludes.org][33040913-Alliance_Gala_Initiative_Concludes.org]]

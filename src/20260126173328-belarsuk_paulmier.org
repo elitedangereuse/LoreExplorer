@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       628d6554-56e9-4ca7-9213-9ab3cd468efb
+:END:
+#+title: Belarsuk Paulmier
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040321-Starport_Status_Update.org][33040321-Starport_Status_Update.org]]

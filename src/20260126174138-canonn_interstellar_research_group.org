@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       23d656b4-9150-4a68-8662-8e0c08eda718
+:END:
+#+title: Canonn Interstellar Research Group
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010927-Palin_Invited_to_Join_Research_Group.org][33010927-Palin_Invited_to_Join_Research_Group.org]]

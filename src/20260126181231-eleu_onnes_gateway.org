@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c2c12e0f-ecc5-484d-8043-33ba840a624a
+:END:
+#+title: Eleu Onnes Gateway
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021122-Galactic_News__Starport_Status_Update.org][33021122-Galactic_News__Starport_Status_Update.org]]

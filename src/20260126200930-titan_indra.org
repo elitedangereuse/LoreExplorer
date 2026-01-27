@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       79735994-8b74-4c43-bca6-6e8de9ebad04
+:END:
+#+title: Titan Indra
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3310/33100611-Aegis_Wary_About_Changing_Thargoid_Behaviour.org][33100611-Aegis_Wary_About_Changing_Thargoid_Behaviour.org]]

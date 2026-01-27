@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bbac0ae1-fe84-470e-a1c7-9cc904dfa44d
+:END:
+#+title: Bast Finney Dock
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021109-Galactic_News__Starport_Status_Update.org][33021109-Galactic_News__Starport_Status_Update.org]]

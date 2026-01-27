@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a83bce46-dc6b-4025-bf8b-85aca3e2c65f
+:END:
+#+title: Anagorovici Meanwhile
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040802-Starport_Status_Update.org][33040802-Starport_Status_Update.org]]

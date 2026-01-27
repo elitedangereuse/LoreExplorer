@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0a321e01-a33e-4030-af9c-f9738f841a7f
+:END:
+#+title: The Fly Me
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020718-Freelance_Report__Moon-Landing_Anniversary_Race.org][33020718-Freelance_Report__Moon-Landing_Anniversary_Race.org]]

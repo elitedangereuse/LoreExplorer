@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       92becf56-81a4-4f64-b5f7-ef2229d4ae56
+:END:
+#+title: Commanders Maclolie
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010511-The_Doom_That_Comes_To_Quivira.org][33010511-The_Doom_That_Comes_To_Quivira.org]]

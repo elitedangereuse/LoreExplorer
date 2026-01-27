@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a2c4c46b-a5d3-4991-9b92-9ed9fbcf6478
+:END:
+#+title: Admiral Ziegler
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080714-Pilots_Urged_to_Defend_Proteus_Wave_Project.org][33080714-Pilots_Urged_to_Defend_Proteus_Wave_Project.org]]

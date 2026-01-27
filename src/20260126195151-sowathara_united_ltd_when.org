@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       fbe32ad3-c9e8-4034-b82e-a892b94481f7
+:END:
+#+title: Sowathara United Ltd When
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020927-Galactic_News__Weekly_Security_Report.org][33020927-Galactic_News__Weekly_Security_Report.org]]

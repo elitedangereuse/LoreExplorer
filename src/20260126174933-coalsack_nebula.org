@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       62850eaf-6765-4669-b059-721c3b66eab9
+:END:
+#+title: Coalsack Nebula
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33061109-‘Ghost_Ship’_Leads_Alliance_to_New_Resources.org][33061109-‘Ghost_Ship’_Leads_Alliance_to_New_Resources.org]]

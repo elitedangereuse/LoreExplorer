@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       dfb2392c-b9aa-40e1-b71d-46d68bc3b070
+:END:
+#+title: Director Nassim Qadir
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090105-Subject_D-2_Departs_on_Lone_Mission.org][33090105-Subject_D-2_Departs_on_Lone_Mission.org]]

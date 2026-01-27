@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6a765279-8ba0-485e-997b-c0c46f3deba9
+:END:
+#+title: Beta Hydri Corporation
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020310-Community_Goal__Expanding_the_Federal_Fleet.org][33020310-Community_Goal__Expanding_the_Federal_Fleet.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       67274bca-fc5d-41ab-8e2d-d265c0fca66a
+:END:
+#+title: California Freeport
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070430-Kumo_Crew_Starports_Open_for_Business.org][33070430-Kumo_Crew_Starports_Open_for_Business.org]]

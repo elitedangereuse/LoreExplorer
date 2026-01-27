@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       30ea6fa2-619c-4d3b-81b2-53da617d49d1
+:END:
+#+title: Utopia Research Appeal
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030414-Community_Goal__Utopia_Research_Appeal.org][33030414-Community_Goal__Utopia_Research_Appeal.org]]

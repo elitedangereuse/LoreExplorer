@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       80848189-bc38-489c-8345-3a19c1838e50
+:END:
+#+title: Commander Bjorn Lennox
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050425-Ship_Stolen_from_Starport.org][33050425-Ship_Stolen_from_Starport.org]]

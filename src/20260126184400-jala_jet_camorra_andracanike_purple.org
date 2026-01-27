@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       66d060fd-1873-46a2-b290-7b0382df844b
+:END:
+#+title: Jala Jet Camorra Andracanike Purple
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010818-GalNet_Weekly_Security_Digest.org][33010818-GalNet_Weekly_Security_Digest.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b9f21f99-7f02-498f-8ef7-b6c523a35754
+:END:
+#+title: Congresswoman Lasky
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020301-Freelance_Report__Presidential_Fleet_Upgrade_Questioned.org][33020301-Freelance_Report__Presidential_Fleet_Upgrade_Questioned.org]]

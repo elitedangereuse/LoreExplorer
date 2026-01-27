@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e7ccf087-50b0-4744-a973-6f249adaaac3
+:END:
+#+title: Kakmbutan Phillips Terminal
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030524-Galactic_News__Starport_Status_Update.org][33030524-Galactic_News__Starport_Status_Update.org]]

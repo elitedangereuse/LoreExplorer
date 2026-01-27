@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e2f331ca-1061-4888-87ee-93819f028b30
+:END:
+#+title: New Year
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011230-Faction_Appeals_for_Fireworks.org][33011230-Faction_Appeals_for_Fireworks.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       eb6efc77-db3d-4f8e-aae6-442eb330fdfe
+:END:
+#+title: Supply Mined Materials
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080901-Supply_Mined_Materials_to_Azimuth_Biotech.org][33080901-Supply_Mined_Materials_to_Azimuth_Biotech.org]]

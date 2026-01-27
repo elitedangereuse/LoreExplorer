@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       54be7445-15ca-4c34-bcf0-b1fe1c944c4c
+:END:
+#+title: Titans He
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030417-Galactic_News__Curious_Message_Discovered.org][33030417-Galactic_News__Curious_Message_Discovered.org]]

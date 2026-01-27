@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       83bd482b-6786-429b-9415-6a0e517508ed
+:END:
+#+title: Vaka Citizens
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020623-Community_Goal__The_Battle_of_Daramo.org][33020623-Community_Goal__The_Battle_of_Daramo.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       cef5c679-7d90-41fb-b9bf-538bb97f3dec
+:END:
+#+title: Biruni Port
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040615-Refugee_Centre_Initiative.org][33040615-Refugee_Centre_Initiative.org]]

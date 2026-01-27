@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       36857fe8-5265-42e9-bfc8-4c734ba1186c
+:END:
+#+title: Simpson's Eden
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33051011-Food_Shortages_Spark_Civil_Unrest.org][33051011-Food_Shortages_Spark_Civil_Unrest.org]]

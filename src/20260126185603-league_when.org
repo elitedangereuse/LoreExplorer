@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4c4819b3-2db2-4ae6-afbb-12ef8e2d2ad0
+:END:
+#+title: League When
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030502-Galactic_News__Weekly_Economic_Report.org][33030502-Galactic_News__Weekly_Economic_Report.org]]

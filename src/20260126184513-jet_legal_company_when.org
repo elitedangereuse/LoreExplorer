@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ff126f3f-725f-4a79-9142-72d41ec3271a
+:END:
+#+title: Jet Legal Company When
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020816-Galactic_News__Weekly_Security_Report.org][33020816-Galactic_News__Weekly_Security_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5251790b-f368-4380-b50e-63d51b468c85
+:END:
+#+title: New Discovery Links Azimuth
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080530-New_Discovery_Links_Azimuth_to_INRA.org][33080530-New_Discovery_Links_Azimuth_to_INRA.org]]

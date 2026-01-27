@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c7ae5ca7-3b56-4937-b8df-964ee7b337ce
+:END:
+#+title: Nganji System
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011026-Federation_Scientist_Initiates_Independent_Research_Programme.org][33011026-Federation_Scientist_Initiates_Independent_Research_Programme.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       de664a7f-c3ab-4e5d-8dff-afc1e06b9398
+:END:
+#+title: Host Galactic Summit
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070121-Sirius_and_Utopia_Compete_to_Host_Galactic_Summit.org][33070121-Sirius_and_Utopia_Compete_to_Host_Galactic_Summit.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d226c6db-45fc-4e67-9ecc-9348627aa2f4
+:END:
+#+title: Propulsion Elements
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040316-The_Purge_of_Socho.org][33040316-The_Purge_of_Socho.org]]

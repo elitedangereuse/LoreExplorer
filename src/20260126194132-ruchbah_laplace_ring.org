@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4b3a9b32-c970-4ad7-963f-4c97d5b22072
+:END:
+#+title: Ruchbah Laplace Ring
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030524-Galactic_News__Starport_Status_Update.org][33030524-Galactic_News__Starport_Status_Update.org]]

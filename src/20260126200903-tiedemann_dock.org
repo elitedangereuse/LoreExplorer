@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       77fd4a70-7282-4111-83f8-b82263b565b0
+:END:
+#+title: Tiedemann Dock
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030105-Community_Goal__Balones_Gold_Touch_Systems_Appeals_for_Materials.org][33030105-Community_Goal__Balones_Gold_Touch_Systems_Appeals_for_Materials.org]]

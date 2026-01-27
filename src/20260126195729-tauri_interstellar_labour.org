@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       59a4c7a5-4c1d-4462-a879-e6073758b6db
+:END:
+#+title: Tauri Interstellar Labour
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021103-Galactic_News__Weekly_Democracy_Report.org][33021103-Galactic_News__Weekly_Democracy_Report.org]]

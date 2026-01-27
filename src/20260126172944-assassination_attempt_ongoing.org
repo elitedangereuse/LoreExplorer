@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1f44667e-e71c-4654-9830-4562c42ad6c7
+:END:
+#+title: Assassination Attempt Ongoing
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010402-Investigation_into_Assassination_Attempt_Ongoing.org][33010402-Investigation_into_Assassination_Attempt_Ongoing.org]]

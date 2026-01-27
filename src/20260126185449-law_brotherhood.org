@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a9cefeb4-7c22-4128-a5f5-793de331ee80
+:END:
+#+title: Law Brotherhood
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030820-Galactic_News__Weekly_Expansion_Report.org][33030820-Galactic_News__Weekly_Expansion_Report.org]]

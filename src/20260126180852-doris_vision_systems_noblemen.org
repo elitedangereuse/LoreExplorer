@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       028e6a5a-d5b4-4d93-a874-f6eae05c9555
+:END:
+#+title: Doris Vision Systems Noblemen
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020531-Galactic_News__Weekly_Security_Report.org][33020531-Galactic_News__Weekly_Security_Report.org]]

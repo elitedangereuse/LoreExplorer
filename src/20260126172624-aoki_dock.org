@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9940de4c-f2ec-40e1-8e78-ac5dc785e699
+:END:
+#+title: Aoki Dock
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010420-The_Hunt_for_Justice.org][33010420-The_Hunt_for_Justice.org]]

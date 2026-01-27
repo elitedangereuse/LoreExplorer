@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ec21b6bd-d396-49e0-98bc-8c6848da029e
+:END:
+#+title: Rochester Family Attacked
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040727-Rochester_Family_Attacked.org][33040727-Rochester_Family_Attacked.org]]

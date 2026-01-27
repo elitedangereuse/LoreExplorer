@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       930044e4-1876-4a5f-a6aa-a31f68349e67
+:END:
+#+title: Epsilon Indi
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011105-Epsilon_Indi_Hosts_Summit_Conference.org][33011105-Epsilon_Indi_Hosts_Summit_Conference.org]]

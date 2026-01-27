@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1aa8a7c3-7008-498b-8449-6a2a96d750e6
+:END:
+#+title: Presidential Election
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090922-Rackham_Withdraws_from_Presidential_Election.org][33090922-Rackham_Withdraws_from_Presidential_Election.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       43e313d8-ea95-4cc1-9dd6-405dca19caab
+:END:
+#+title: Warren Prison Mine
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040925-Starport_Status_Update.org][33040925-Starport_Status_Update.org]]

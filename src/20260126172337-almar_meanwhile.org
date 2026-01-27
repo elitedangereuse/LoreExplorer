@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5f0488e2-a410-458e-9ab0-5d987b8e0269
+:END:
+#+title: Almar Meanwhile
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030110-Galactic_News__Starport_Status_Update.org][33030110-Galactic_News__Starport_Status_Update.org]]

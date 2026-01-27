@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8e8276c0-97f0-4266-854d-7b21b438bf47
+:END:
+#+title: Detective Captain Ramesh Thorne
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33041122-Mars_Tribune_Closes.org][33041122-Mars_Tribune_Closes.org]]

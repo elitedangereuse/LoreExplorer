@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       fc7ebdcf-eded-468b-9726-45780f7a1444
+:END:
+#+title: Vice President Rochester
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33041229-Week_in_Review.org][33041229-Week_in_Review.org]]

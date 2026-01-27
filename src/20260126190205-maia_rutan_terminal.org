@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e33308aa-2b80-41f3-80b7-0fe59d704687
+:END:
+#+title: Maia Rutan Terminal
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021129-Galactic_News__Starport_Status_Update.org][33021129-Galactic_News__Starport_Status_Update.org]]

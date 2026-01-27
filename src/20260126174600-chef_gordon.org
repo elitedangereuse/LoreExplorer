@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d61384fc-21da-4a05-8d21-4371577ec328
+:END:
+#+title: Chef Gordon
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020314-Freelance_Report__Eating_Your_Words.org][33020314-Freelance_Report__Eating_Your_Words.org]]

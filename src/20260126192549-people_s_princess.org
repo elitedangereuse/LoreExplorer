@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0b917b7e-9281-4efc-941e-a42b17a925bd
+:END:
+#+title: People's Princess
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011009-A_Week_in_Powerplay.org][33011009-A_Week_in_Powerplay.org]]

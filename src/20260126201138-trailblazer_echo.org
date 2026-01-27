@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7e61c8fb-984c-4c5a-bec2-69010e477825
+:END:
+#+title: Trailblazer Echo
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3311/33110130-Brewer_Corporation_to_Fund_Survey_Initiative.org][33110130-Brewer_Corporation_to_Fund_Survey_Initiative.org]]

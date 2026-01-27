@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6a54cc77-1561-4f75-a8f3-387b7c6dc974
+:END:
+#+title: Titan Taranis
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33091201-Titan_Taranis_Surrounded.org][33091201-Titan_Taranis_Surrounded.org]]

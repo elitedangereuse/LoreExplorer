@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       fe681aba-a908-4da9-a4a8-8353a974d009
+:END:
+#+title: Vitadyne Nanomeds Campaign
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050124-Vitadyne_Nanomeds_Campaign.org][33050124-Vitadyne_Nanomeds_Campaign.org]]

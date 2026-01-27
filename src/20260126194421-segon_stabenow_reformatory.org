@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b2024aa7-02b0-4943-a348-a9c03f940ef9
+:END:
+#+title: Segon Stabenow Reformatory
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040720-Starport_Status_Update.org][33040720-Starport_Status_Update.org]]

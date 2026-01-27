@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       410d6b98-703a-43b5-8ec6-3f22ac3e3d3e
+:END:
+#+title: Weekly Report
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020122-Powerplay__Weekly_Report.org][33020122-Powerplay__Weekly_Report.org]]

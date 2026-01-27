@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a5be1a67-acb2-4804-8577-e619a8e56c15
+:END:
+#+title: Azaleach Partnership
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020204-Galactic_News__Federation_Begins_Analysing_Wreckage.org][33020204-Galactic_News__Federation_Begins_Analysing_Wreckage.org]]

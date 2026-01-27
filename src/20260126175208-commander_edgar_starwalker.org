@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8e25fc70-8ae9-4543-8f44-980cb0229617
+:END:
+#+title: Commander Edgar Starwalker
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010729-Operation_Davy_Jones_-_The_Voices_of_Dissent.org][33010729-Operation_Davy_Jones_-_The_Voices_of_Dissent.org]]

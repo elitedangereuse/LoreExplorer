@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       10d75d90-5f63-4291-9449-9b1885e7e39c
+:END:
+#+title: Internal Strife Strikes Tanmark
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010303-Internal_Strife_Strikes_Tanmark.org][33010303-Internal_Strife_Strikes_Tanmark.org]]

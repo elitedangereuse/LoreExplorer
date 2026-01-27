@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3120fda0-97eb-429d-ae68-6acd5d18c830
+:END:
+#+title: The Cassiopeia Expedition
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021014-Freelance_Report__The_Cassiopeia_Expedition.org][33021014-Freelance_Report__The_Cassiopeia_Expedition.org]]

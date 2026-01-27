@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7c74c907-57f9-41f0-852b-1be2a02d92d5
+:END:
+#+title: California Campaign Concludes
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33031117-Galactic_News__California_Campaign_Concludes.org][33031117-Galactic_News__California_Campaign_Concludes.org]]

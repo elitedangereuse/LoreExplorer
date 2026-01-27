@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0096c99f-142d-440f-8922-071eb3bfca12
+:END:
+#+title: The Junkyard Dogs
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030519-Community_Goal__Trouble_in_Colonia.org][33030519-Community_Goal__Trouble_in_Colonia.org]]

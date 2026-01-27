@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b6604641-a6d6-43db-aeaf-2045b0233532
+:END:
+#+title: The Caine-Massey
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080120-Caine-Massey_Wins_Mining_Contract.org][33080120-Caine-Massey_Wins_Mining_Contract.org]]

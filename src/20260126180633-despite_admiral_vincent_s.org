@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       df3cafdb-b0f4-4865-83ac-8392564b50a3
+:END:
+#+title: Despite Admiral Vincent's
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010223-Building_a_New_Ship_-_BD+03_2338.org][33010223-Building_a_New_Ship_-_BD+03_2338.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4dfdd1fa-8eaa-4875-aaa9-d54ea38d522b
+:END:
+#+title: Explorers Needed
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010327-Explorers_Needed_for_Alliance_Colonisation_Programme.org][33010327-Explorers_Needed_for_Alliance_Colonisation_Programme.org]]

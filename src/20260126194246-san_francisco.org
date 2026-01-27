@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2f78d294-fcdc-49a4-bd40-760f6e5dbf98
+:END:
+#+title: San Francisco
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33041005-Further_Surveillance_Robots_Discovered.org][33041005-Further_Surveillance_Robots_Discovered.org]]

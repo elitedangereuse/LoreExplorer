@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ba87c910-bbeb-4f15-8ff0-1814e0f5a67d
+:END:
+#+title: Classic Children
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040728-Classic_Children’s_Show_Returns.org][33040728-Classic_Children’s_Show_Returns.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       42c137ea-9115-4247-b27d-f2333233e1de
+:END:
+#+title: Rats Civil
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020916-Galactic_News__Weekly_Conflict_Report.org][33020916-Galactic_News__Weekly_Conflict_Report.org]]

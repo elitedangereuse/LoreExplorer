@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3be4d288-5260-4cc6-8e04-8f072f3105b6
+:END:
+#+title: Deep Space Exploration Platform
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010305-Unity_Starport_Officially_Opens_in_New_Yembo.org][33010305-Unity_Starport_Officially_Opens_in_New_Yembo.org]]

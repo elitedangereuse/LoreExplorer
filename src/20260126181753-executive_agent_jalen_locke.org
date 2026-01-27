@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       306610ef-12a7-48e3-b491-ed4e78919fce
+:END:
+#+title: Executive Agent Jalen Locke
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090616-Disappearance_of_the_Dedicant.org][33090616-Disappearance_of_the_Dedicant.org]]

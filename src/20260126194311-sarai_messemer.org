@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       22ea3b38-9ded-438a-aa18-617678a14534
+:END:
+#+title: Sarai Messemer
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050802-Lave_Citizens_Comment_on_Festival.org][33050802-Lave_Citizens_Comment_on_Festival.org]]

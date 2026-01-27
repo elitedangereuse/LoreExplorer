@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8356e53c-dca5-4718-9c74-302b59703550
+:END:
+#+title: Calugen Law Party
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010917-GalNet_Focus_on_Democracy.org][33010917-GalNet_Focus_on_Democracy.org]]

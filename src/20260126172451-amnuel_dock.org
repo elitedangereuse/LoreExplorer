@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b68c4e39-e029-4160-b29d-d22b5adef44c
+:END:
+#+title: Amnuel Dock
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030110-Galactic_News__Starport_Status_Update.org][33030110-Galactic_News__Starport_Status_Update.org]]

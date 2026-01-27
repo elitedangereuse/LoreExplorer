@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       21697f90-c2bf-4c9c-933b-82c74f23eb2c
+:END:
+#+title: Allied Defence Force
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080825-Megaship_Materials_Boost_Alliance_Defence_Force.org][33080825-Megaship_Materials_Boost_Alliance_Defence_Force.org]]

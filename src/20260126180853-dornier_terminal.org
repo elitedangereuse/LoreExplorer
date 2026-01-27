@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9374ec61-4573-45a1-87e3-399c3a99f3ae
+:END:
+#+title: Dornier Terminal
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010227-The_Fight_Against_Falisci.org][33010227-The_Fight_Against_Falisci.org]]

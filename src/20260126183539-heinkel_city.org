@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c4cb44b4-ff23-4235-afde-9ae3c268048e
+:END:
+#+title: Heinkel City
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010416-Imperial_Law_and_Order__Investigation_into_Attack_on_Emperor_Continues.org][33010416-Imperial_Law_and_Order__Investigation_into_Attack_on_Emperor_Continues.org]]

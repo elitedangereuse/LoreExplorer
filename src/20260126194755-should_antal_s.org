@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e034509f-0146-477e-8c33-e5695da82fb8
+:END:
+#+title: Should Antal's
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020205-Powerplay__Weekly_Report.org][33020205-Powerplay__Weekly_Report.org]]

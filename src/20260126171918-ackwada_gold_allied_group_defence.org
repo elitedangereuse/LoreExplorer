@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7ab6f20c-ac9e-431c-8744-4904071ca00c
+:END:
+#+title: Ackwada Gold Allied Group Defence
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020830-Galactic_News__Weekly_Security_Report.org][33020830-Galactic_News__Weekly_Security_Report.org]]

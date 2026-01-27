@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8d83d9b4-a499-4298-9680-d161197528d5
+:END:
+#+title: Crimson Allied
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030730-Galactic_News__Weekly_Expansion_Report.org][33030730-Galactic_News__Weekly_Expansion_Report.org]]

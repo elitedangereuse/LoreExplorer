@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7d66fd54-bf2a-4353-9d06-ce3711fd8aaf
+:END:
+#+title: Calennero Shared Sif League League
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030516-Galactic_News__Weekly_Economic_Report.org][33030516-Galactic_News__Weekly_Economic_Report.org]]

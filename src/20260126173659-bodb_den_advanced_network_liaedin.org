@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4585485c-7491-46d8-a489-8acca1ec6d5d
+:END:
+#+title: Bodb Den Advanced Network Liaedin
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030303-Galactic_News__Weekly_Conflict_Report.org][33030303-Galactic_News__Weekly_Conflict_Report.org]]

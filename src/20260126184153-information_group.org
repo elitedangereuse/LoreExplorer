@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       99e12ca6-d03c-486e-b596-d080ab2e5202
+:END:
+#+title: Information Group
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010825-Report_Raises_Concerns_about_Operation_Davy_Jones.org][33010825-Report_Raises_Concerns_about_Operation_Davy_Jones.org]]

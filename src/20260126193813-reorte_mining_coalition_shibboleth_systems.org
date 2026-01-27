@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c1c50adc-b673-473d-a12e-12b4c0fa216d
+:END:
+#+title: Reorte Mining Coalition Shibboleth Systems
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020514-Galactic_News__Weekly_Expansion_Report.org][33020514-Galactic_News__Weekly_Expansion_Report.org]]

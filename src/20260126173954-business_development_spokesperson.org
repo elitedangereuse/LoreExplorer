@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       be41d28e-99a9-48cb-86b3-6086ee05f3f5
+:END:
+#+title: Business Development Spokesperson
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010706-Open_Osmium_Contract_in_Abres.org][33010706-Open_Osmium_Contract_in_Abres.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       dfbf1fbf-412b-420d-a154-afd297e1c7c2
+:END:
+#+title: Tiverion Academy
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040706-The_Didiomanja_Emperor’s_Grace_Academy_Inauguration.org][33040706-The_Didiomanja_Emperor’s_Grace_Academy_Inauguration.org]]

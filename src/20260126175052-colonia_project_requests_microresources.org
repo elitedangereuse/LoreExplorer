@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       54a7b87a-bb2b-4677-a5dc-0c5c001511d3
+:END:
+#+title: Colonia Project Requests Microresources
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040518-Colonia_Project_Requests_Microresources.org][33040518-Colonia_Project_Requests_Microresources.org]]

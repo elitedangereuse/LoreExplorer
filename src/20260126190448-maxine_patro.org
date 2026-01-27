@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6a5d9520-65e9-4256-bb38-9ef5e42e2a9b
+:END:
+#+title: Maxine Patro
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3310/33100410-New_Supercruise_Overcharge_module_enters_the_market,_a_“turning_point_for_humanity”.org][33100410-New_Supercruise_Overcharge_module_enters_the_market,_a_“turning_point_for_humanity”.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6452b34f-b45f-435b-be96-219d1f9001ed
+:END:
+#+title: Itzamnets Czerny Station
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030524-Galactic_News__Starport_Status_Update.org][33030524-Galactic_News__Starport_Status_Update.org]]

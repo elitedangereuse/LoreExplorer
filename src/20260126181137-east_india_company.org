@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5c110480-db9d-496d-9e91-61f6482ea7da
+:END:
+#+title: East India Company
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010228-GalNet_Galactic_War_Report.org][33010228-GalNet_Galactic_War_Report.org]]

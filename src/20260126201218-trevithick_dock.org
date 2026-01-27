@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0074be4d-f082-4827-88dc-d5fde49f4e1a
+:END:
+#+title: Trevithick Dock
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021004-Galactic_News__Starport_Status_Update.org][33021004-Galactic_News__Starport_Status_Update.org]]

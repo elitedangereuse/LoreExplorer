@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d6cd4104-874c-4df8-b121-0ebe2fb51f59
+:END:
+#+title: Ngaliba League
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030508-Galactic_News__Weekly_Economic_Report.org][33030508-Galactic_News__Weekly_Economic_Report.org]]

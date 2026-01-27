@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       77a8b919-4748-4c5d-922a-3329f8ed2a05
+:END:
+#+title: Xenological Samples Required
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070107-Xenological_Samples_Required_by_Colonia_Scientists.org][33070107-Xenological_Samples_Required_by_Colonia_Scientists.org]]

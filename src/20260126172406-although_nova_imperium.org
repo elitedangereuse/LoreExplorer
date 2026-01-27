@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e426e6ef-3dc4-4d94-87f9-13b983e6f5a6
+:END:
+#+title: Although Nova Imperium
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050118-Imperator_Mordanticus_Captured.org][33050118-Imperator_Mordanticus_Captured.org]]

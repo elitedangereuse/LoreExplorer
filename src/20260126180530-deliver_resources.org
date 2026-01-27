@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c28dc1ce-bfdf-4f51-8aec-260f8ce8d9f2
+:END:
+#+title: Deliver Resources
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090928-Deliver_Resources_for_Extraction_Missile_Manufacture.org][33090928-Deliver_Resources_for_Extraction_Missile_Manufacture.org]]

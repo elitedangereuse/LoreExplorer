@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c4d51881-031a-4a82-b44c-45568acc8f28
+:END:
+#+title: Dance Gala
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050824-Tionisla_Hosts_Theatre_and_Dance_Gala.org][33050824-Tionisla_Hosts_Theatre_and_Dance_Gala.org]]

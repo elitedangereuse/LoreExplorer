@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3afe7363-2dd6-40cb-8c20-e41fd6d88c26
+:END:
+#+title: Mu Serpentis Bindi Vision Network
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011123-GalNet_Weekly_Economic_Report.org][33011123-GalNet_Weekly_Economic_Report.org]]

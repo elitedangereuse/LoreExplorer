@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ef4c7971-f5ef-4372-abd1-f07b06bec658
+:END:
+#+title: Silver Advanced Hldgs Elections
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011224-GalNet_Focus_on_Democracy.org][33011224-GalNet_Focus_on_Democracy.org]]

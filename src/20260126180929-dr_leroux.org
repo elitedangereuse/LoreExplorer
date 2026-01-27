@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       905700ac-d9b1-4f5f-bd26-53ab4478bade
+:END:
+#+title: Dr Leroux
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33081128-Militaries_on_Alert_as_Taranis_Approaches.org][33081128-Militaries_on_Alert_as_Taranis_Approaches.org]]

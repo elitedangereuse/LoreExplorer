@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b743c4e7-6166-4d28-967a-ef865d23acb5
+:END:
+#+title: Party Omicron Capricorni
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020513-Galactic_News__Weekly_Conflict_Report.org][33020513-Galactic_News__Weekly_Conflict_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       69e03175-5d0c-416c-81b8-261b18453883
+:END:
+#+title: Following Salamanca
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080426-Kumo_Crew_Appoints_New_Council_Leader.org][33080426-Kumo_Crew_Appoints_New_Council_Leader.org]]

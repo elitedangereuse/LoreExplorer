@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1395a07f-b940-49e8-acbc-6f418a557a09
+:END:
+#+title: Tradition Psi Capricorni Purple Brothers
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011013-GalNet_Weekly_Security_Digest.org][33011013-GalNet_Weekly_Security_Digest.org]]

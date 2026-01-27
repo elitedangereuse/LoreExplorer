@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1c4d076b-a235-4b96-9920-3cb4679bb467
+:END:
+#+title: Incorporated Factions
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030507-Galactic_News__Weekly_Expansion_Report.org][33030507-Galactic_News__Weekly_Expansion_Report.org]]

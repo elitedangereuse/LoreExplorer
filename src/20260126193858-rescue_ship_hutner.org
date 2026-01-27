@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d71b7afe-24f7-4ca0-a84d-b84ada56cc9d
+:END:
+#+title: Rescue Ship Hutner
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33081205-Refugees_Flee_from_Thargoid_Offensive.org][33081205-Refugees_Flee_from_Thargoid_Offensive.org]]

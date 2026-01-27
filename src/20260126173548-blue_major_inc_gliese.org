@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       50ac0488-e7c2-48c8-8f1d-0e7c92c52955
+:END:
+#+title: Blue Major Inc Gliese
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030915-Galactic_News__Weekly_Democracy_Report.org][33030915-Galactic_News__Weekly_Democracy_Report.org]]

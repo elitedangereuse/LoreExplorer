@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d91bcc45-0c8d-4887-9d7e-93c5645fd827
+:END:
+#+title: The Herald
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010918-Did_Aisling_Duval_Know_About_Emperor’s_Dawn_.org][33010918-Did_Aisling_Duval_Know_About_Emperor’s_Dawn_.org]]

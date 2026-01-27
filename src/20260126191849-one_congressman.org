@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       355b5242-f658-4c17-814c-f1427d7bfa6f
+:END:
+#+title: One Congressman
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010814-Aliens_Kidnapped_the_President.org][33010814-Aliens_Kidnapped_the_President.org]]

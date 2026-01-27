@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5a357e49-89a3-4593-8e9c-b0b26ad892a5
+:END:
+#+title: Antares Incident
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010527-Shades_of_the_Antares_Incident.org][33010527-Shades_of_the_Antares_Incident.org]]

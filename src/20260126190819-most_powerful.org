@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1c6a5205-3f73-4e83-b851-11936f85fcbb
+:END:
+#+title: Most Powerful
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33031028-Galactic_News__Analysis_from_the_Galaxy’s_Most_Powerful.org][33031028-Galactic_News__Analysis_from_the_Galaxy’s_Most_Powerful.org]]

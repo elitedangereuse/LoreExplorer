@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6a0ce222-2f35-41cd-a1d9-9a31a8d89346
+:END:
+#+title: Tz'utuls Solovyev Colony
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040425-Starport_Status_Update.org][33040425-Starport_Status_Update.org]]

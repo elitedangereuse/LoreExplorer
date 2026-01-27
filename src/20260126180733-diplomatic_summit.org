@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f58a9ae9-5872-4953-85ed-e3a2dc91ef63
+:END:
+#+title: Diplomatic Summit
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020322-Freelance_Report__Diplomatic_Summit_in_Alioth.org][33020322-Freelance_Report__Diplomatic_Summit_in_Alioth.org]]

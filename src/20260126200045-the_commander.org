@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       91f19dcf-cb72-488a-9720-07b29af9e651
+:END:
+#+title: The Commander
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011004-Pioneer_Returns_from_the_Depths.org][33011004-Pioneer_Returns_from_the_Depths.org]]

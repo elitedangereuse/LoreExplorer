@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2463d3e5-cfaa-4ef6-a86a-b24503923cea
+:END:
+#+title: Nobles Ross
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020816-Galactic_News__Weekly_Security_Report.org][33020816-Galactic_News__Weekly_Security_Report.org]]

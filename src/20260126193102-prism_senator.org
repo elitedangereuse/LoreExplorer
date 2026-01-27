@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1eedb547-518c-4d5f-b53c-6db1784f238c
+:END:
+#+title: Prism Senator
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010306-Prism_Senator_will_not_be_late,_not_even_slightly.org][33010306-Prism_Senator_will_not_be_late,_not_even_slightly.org]]

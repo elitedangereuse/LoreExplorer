@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e4798c1b-9552-4777-8e46-10ed0027ac2f
+:END:
+#+title: Jitabos The
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021004-Galactic_News__Starport_Status_Update.org][33021004-Galactic_News__Starport_Status_Update.org]]

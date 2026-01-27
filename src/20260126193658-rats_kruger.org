@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2945ef18-c275-4d14-948a-5f563bad97a3
+:END:
+#+title: Rats Kruger
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020125-Galactic_News__Weekly_Economic_Report.org][33020125-Galactic_News__Weekly_Economic_Report.org]]

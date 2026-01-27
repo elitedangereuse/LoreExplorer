@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a63ac4fc-e793-4159-a76c-ac79bf13d6a6
+:END:
+#+title: Director Chen Emerson
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040811-Rogue_Robot_Missing.org][33040811-Rogue_Robot_Missing.org]]

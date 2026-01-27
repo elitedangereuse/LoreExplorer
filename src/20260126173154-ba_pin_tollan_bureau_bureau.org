@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       795dc6ee-6a23-4d0d-99f5-1c5c3a60a90d
+:END:
+#+title: Ba Pin Tollan Bureau Bureau
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020802-Galactic_News__Weekly_Security_Report.org][33020802-Galactic_News__Weekly_Security_Report.org]]

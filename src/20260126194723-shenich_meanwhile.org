@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       73da22fa-9393-4779-9451-2aed2a1cc97e
+:END:
+#+title: Shenich Meanwhile
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030928-Galactic_News__Starport_Status_Update.org][33030928-Galactic_News__Starport_Status_Update.org]]

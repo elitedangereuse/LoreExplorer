@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       91d14762-000d-496f-b614-980a6485cd02
+:END:
+#+title: Worlds Data
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33061210-Coalsack_Nebula_Project_Gathers_Ammonia_Worlds_Data.org][33061210-Coalsack_Nebula_Project_Gathers_Ammonia_Worlds_Data.org]]

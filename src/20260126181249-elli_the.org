@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c85c4f06-a5b7-4298-b3a9-fdd39f0e4550
+:END:
+#+title: Elli The
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021129-Galactic_News__Starport_Status_Update.org][33021129-Galactic_News__Starport_Status_Update.org]]

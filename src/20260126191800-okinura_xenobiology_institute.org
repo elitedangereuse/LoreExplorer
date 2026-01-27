@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       607de12a-acf7-4632-b1d0-488b4fc63b11
+:END:
+#+title: Okinura Xenobiology Institute
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020901-Freelance_Report__Mysterious_Wreck_could_be_an_Artefact_of_the_Past.org][33020901-Freelance_Report__Mysterious_Wreck_could_be_an_Artefact_of_the_Past.org]]

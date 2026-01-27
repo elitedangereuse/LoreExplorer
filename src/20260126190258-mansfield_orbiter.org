@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b220db56-f2e9-43dc-b734-30d7881075aa
+:END:
+#+title: Mansfield Orbiter
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020414-Community_Goal__Bringing_Back_the_Bourbon.org][33020414-Community_Goal__Bringing_Back_the_Bourbon.org]]

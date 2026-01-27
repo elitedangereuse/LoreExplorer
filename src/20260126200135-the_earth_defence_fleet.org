@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3504828c-21c4-4f21-b4c8-3b0432104a52
+:END:
+#+title: The Earth Defence Fleet
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020218-Galactic_News__Okinura_Appeal_Successful.org][33020218-Galactic_News__Okinura_Appeal_Successful.org]]

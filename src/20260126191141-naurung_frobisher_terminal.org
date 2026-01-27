@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9d94aa4a-668a-4965-a0a8-05252b85431c
+:END:
+#+title: Naurung Frobisher Terminal
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030110-Galactic_News__Starport_Status_Update.org][33030110-Galactic_News__Starport_Status_Update.org]]

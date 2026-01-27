@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1552b0ba-4c5e-4050-9d5a-4ec08bf8c5e1
+:END:
+#+title: Commander Kligg
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010522-Pilot_Breaks_Galactic_Record_Twice.org][33010522-Pilot_Breaks_Galactic_Record_Twice.org]]

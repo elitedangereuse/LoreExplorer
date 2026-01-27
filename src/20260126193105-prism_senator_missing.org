@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       21fa6aaf-4d03-45a4-8adf-3bb6c01de62a
+:END:
+#+title: Prism Senator Missing
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010721-Prism_Senator_Missing.org][33010721-Prism_Senator_Missing.org]]

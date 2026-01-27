@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ca21909f-3761-4e52-875a-abf9d3136829
+:END:
+#+title: Industrial Mining Guild
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33041220-New_Mining_Tools_Released.org][33041220-New_Mining_Tools_Released.org]]

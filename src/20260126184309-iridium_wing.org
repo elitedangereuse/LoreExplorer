@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2658e7dc-bf9b-4f26-b4e7-a826205a86aa
+:END:
+#+title: Iridium Wing
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021105-Freelance_Report__The_Christmas_Carriers_Convoy.org][33021105-Freelance_Report__The_Christmas_Carriers_Convoy.org]]

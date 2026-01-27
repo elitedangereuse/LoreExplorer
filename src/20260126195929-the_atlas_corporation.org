@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       cc6a4a71-23b0-4369-89c1-76fc93b4142d
+:END:
+#+title: The Atlas Corporation
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040406-The_ACS_Overwatch.org][33040406-The_ACS_Overwatch.org]]

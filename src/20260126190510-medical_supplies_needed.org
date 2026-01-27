@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5b6dd336-51bd-423d-8791-c2a847126f60
+:END:
+#+title: Medical Supplies Needed
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070318-Medical_Supplies_Needed_for_Starport_Bombing_Survivors.org][33070318-Medical_Supplies_Needed_for_Starport_Bombing_Survivors.org]]

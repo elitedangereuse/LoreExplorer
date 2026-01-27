@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       16fa129b-0d84-4e71-8b19-55a98b9f37e9
+:END:
+#+title: Reynhardt IntelliSys
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010327-NVIDIA_GeForce_GTX_Titan_Black_Prototypes_Revealed.org][33010327-NVIDIA_GeForce_GTX_Titan_Black_Prototypes_Revealed.org]]

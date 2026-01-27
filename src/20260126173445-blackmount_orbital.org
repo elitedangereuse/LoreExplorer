@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       59306ec1-c713-4ed3-a01e-766639cfbdc6
+:END:
+#+title: Blackmount Orbital
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030707-Community_Goal__New_Federal_Outpost.org][33030707-Community_Goal__New_Federal_Outpost.org]]

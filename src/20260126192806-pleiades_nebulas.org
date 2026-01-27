@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       afb085d5-3250-4bfe-b6ed-fc57bf3a3daa
+:END:
+#+title: Pleiades Nebulas
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070513-Mass_Thargoid_Strike_–_Emergency_Declared.org][33070513-Mass_Thargoid_Strike_–_Emergency_Declared.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8008dfe5-399e-4b6b-98d6-5cd5b12cd993
+:END:
+#+title: Commander RedWizzard
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011029-CIRG_Researcher_Addresses_Artefact_Developments.org][33011029-CIRG_Researcher_Addresses_Artefact_Developments.org]]

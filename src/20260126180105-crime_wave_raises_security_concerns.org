@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       523b0fcf-122b-4c1e-830b-52bf79571505
+:END:
+#+title: Crime Wave Raises Security Concerns
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33071122-Crime_Wave_Raises_Security_Concerns.org][33071122-Crime_Wave_Raises_Security_Concerns.org]]

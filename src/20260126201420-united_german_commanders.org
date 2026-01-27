@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       dcf21998-178e-43cb-9595-7673963480c9
+:END:
+#+title: United German Commanders
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020112-The_Worlds_Beyond.org][33020112-The_Worlds_Beyond.org]]

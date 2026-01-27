@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       806f8110-c43b-438e-a3a2-206c16bee2fd
+:END:
+#+title: The Zosi Major Corporation
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021110-Zosi_Major_Corporation_Issues_Request.org][33021110-Zosi_Major_Corporation_Issues_Request.org]]

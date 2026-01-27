@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       fc65a09b-c96c-4126-b0a8-7f0cc8cb6d53
+:END:
+#+title: Fragile Unity
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030701-Freelance_Report__Fragile_Unity_in_Federal_Congress.org][33030701-Freelance_Report__Fragile_Unity_in_Federal_Congress.org]]

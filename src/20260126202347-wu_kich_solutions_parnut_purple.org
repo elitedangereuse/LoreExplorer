@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8e683c62-4ef3-4069-871e-ecdaaeac11d9
+:END:
+#+title: Wu Kich Solutions Parnut Purple
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020702-Galactic_News__Weekly_Expansion_Report.org][33020702-Galactic_News__Weekly_Expansion_Report.org]]

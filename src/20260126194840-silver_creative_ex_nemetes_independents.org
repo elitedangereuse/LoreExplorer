@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0fc32641-9ef5-42fd-bc39-eb8723d7881c
+:END:
+#+title: Silver Creative Ex Nemetes Independents
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020503-Galactic_News__Weekly_Security_Report.org][33020503-Galactic_News__Weekly_Security_Report.org]]

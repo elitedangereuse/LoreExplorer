@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3f997b5b-488e-4624-a124-c49b4cf8081f
+:END:
+#+title: Banda Nervi Bridge Exchange FT
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010709-GalNet_Focus_on_Democracy.org][33010709-GalNet_Focus_on_Democracy.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       15198edb-f6d0-441c-b516-5adafd8a271c
+:END:
+#+title: Diamondback Explorer
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020131-Galactic_News__Unidentified_Spacecraft_Observed_at_Obsidian_Orbital.org][33020131-Galactic_News__Unidentified_Spacecraft_Observed_at_Obsidian_Orbital.org]]

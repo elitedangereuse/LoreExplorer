@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       664949f0-5c9b-40a8-9024-f8639ff5b874
+:END:
+#+title: Social HD
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021012-Galactic_News__Weekly_Health_Report.org][33021012-Galactic_News__Weekly_Health_Report.org]]

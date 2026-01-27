@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b71e29d6-84d5-4ae9-b432-e59266fc793f
+:END:
+#+title: Co Natural
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030730-Galactic_News__Weekly_Expansion_Report.org][33030730-Galactic_News__Weekly_Expansion_Report.org]]

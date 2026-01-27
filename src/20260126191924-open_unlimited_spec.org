@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       59092eba-cd1e-48de-9c18-f0aa5b1f2918
+:END:
+#+title: Open Unlimited Spec
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011026-Commemorative_Space_Race.org][33011026-Commemorative_Space_Race.org]]

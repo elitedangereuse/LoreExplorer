@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       27d51f24-7e29-4f28-9a6a-cc3fe6172edd
+:END:
+#+title: Vesperian Auction Today Only
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010221-Vesperian_Auction_Today_Only.org][33010221-Vesperian_Auction_Today_Only.org]]

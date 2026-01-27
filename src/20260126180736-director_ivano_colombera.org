@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       501c9e1d-0842-4b79-b6f6-16b52ebbe593
+:END:
+#+title: Director Ivano Colombera
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090223-Aegis_Launches_Caustic_Sink_Launcher_Initiative.org][33090223-Aegis_Launches_Caustic_Sink_Launcher_Initiative.org]]

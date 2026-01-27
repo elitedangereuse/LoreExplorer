@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c5924089-ceed-46fc-a415-d1e723b990a7
+:END:
+#+title: Empire-aligned Commanders
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020711-Freelance_Report__Taskforce_Athena_Locks_Down_Segovan.org][33020711-Freelance_Report__Taskforce_Athena_Locks_Down_Segovan.org]]

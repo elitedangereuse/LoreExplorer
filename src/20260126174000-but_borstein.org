@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bf852fbb-8e50-4e85-8782-88426e01b528
+:END:
+#+title: But Borstein
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33051022-Militant_Group_Responsible_for_Blight.org][33051022-Militant_Group_Responsible_for_Blight.org]]

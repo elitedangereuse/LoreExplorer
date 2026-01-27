@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a45742e9-b22b-4977-831e-f7c571c5b0d4
+:END:
+#+title: Core Dynamics
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010223-Building_a_New_Ship_-_BD+03_2338.org][33010223-Building_a_New_Ship_-_BD+03_2338.org]]

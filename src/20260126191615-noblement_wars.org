@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1f9b91f0-0c27-435e-8be9-b672bc0249b0
+:END:
+#+title: Noblement Wars
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010904-GalNet_Weekly_Conflict_Report.org][33010904-GalNet_Weekly_Conflict_Report.org]]

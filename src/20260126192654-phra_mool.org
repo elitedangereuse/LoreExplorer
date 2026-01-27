@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       147b143c-886f-4c54-8db1-2956bdc75256
+:END:
+#+title: Phra Mool
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020409-Powerplay__Weekly_Report.org][33020409-Powerplay__Weekly_Report.org]]

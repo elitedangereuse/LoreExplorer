@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4265d2cf-2ab5-4a17-8a4c-ceec0c0fad71
+:END:
+#+title: Naunin McAllaster Port
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040823-Starport_Status_Update.org][33040823-Starport_Status_Update.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0deab3ad-51c3-4763-b725-961392c9c824
+:END:
+#+title: Jaques Speaks
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020630-Galactic_News__Jaques_Speaks.org][33020630-Galactic_News__Jaques_Speaks.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       87b56545-dd4d-4cab-bd9f-93953147a663
+:END:
+#+title: Crimson Major Incorporated Independents
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030503-Galactic_News__Weekly_Security_Report.org][33030503-Galactic_News__Weekly_Security_Report.org]]

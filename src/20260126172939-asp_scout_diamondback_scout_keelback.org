@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0bad0d8e-1dec-4527-b00d-c9de55064ccb
+:END:
+#+title: Asp Scout Diamondback Scout Keelback
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33061207-Lakon_Spaceways_Discounts_Selected_Ships.org][33061207-Lakon_Spaceways_Discounts_Selected_Ships.org]]

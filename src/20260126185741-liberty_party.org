@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7cdf8f25-9dda-43e9-8070-50066563606e
+:END:
+#+title: Liberty Party
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010626-GalNet_Weekly_Conflict_Report.org][33010626-GalNet_Weekly_Conflict_Report.org]]

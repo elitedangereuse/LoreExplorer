@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f82e25ed-52c7-42dd-857e-7653c79ddaf5
+:END:
+#+title: Target Traffickers
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010609-Hudson_Set_to_Target_Traffickers.org][33010609-Hudson_Set_to_Target_Traffickers.org]]

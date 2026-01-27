@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8fbbc70c-e8ec-4884-bbc7-1c85382642d3
+:END:
+#+title: The Palin Institute
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020415-Galactic_News__Ishmael_Palin_to_Retire_from_Active_Research.org][33020415-Galactic_News__Ishmael_Palin_to_Retire_from_Active_Research.org]]

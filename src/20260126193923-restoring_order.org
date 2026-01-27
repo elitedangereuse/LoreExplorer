@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       be6849c4-521b-45da-8047-ad1a029e41b8
+:END:
+#+title: Restoring Order
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020721-Community_Goal__Restoring_Order_in_Carthage.org][33020721-Community_Goal__Restoring_Order_in_Carthage.org]]

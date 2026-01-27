@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2afd0fe2-28dc-4820-a803-3c6347b833c5
+:END:
+#+title: Gendalla Interstellar LP
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020802-Galactic_News__Weekly_Security_Report.org][33020802-Galactic_News__Weekly_Security_Report.org]]

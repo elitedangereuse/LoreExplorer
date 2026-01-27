@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e6e5a0da-c041-4f0a-b5d0-db12a09e3ac7
+:END:
+#+title: Big Harry's Monkey Hangout
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030609-Galactic_News__Conflict_in_Jotunheim_Draws_to_a_Close.org][33030609-Galactic_News__Conflict_in_Jotunheim_Draws_to_a_Close.org]]

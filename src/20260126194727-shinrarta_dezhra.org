@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d796fe79-e90d-4c69-979e-1977e93d7fe8
+:END:
+#+title: Shinrarta Dezhra
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020729-Galactic_News__The_Origin_of_the_Pilots_Federation.org][33020729-Galactic_News__The_Origin_of_the_Pilots_Federation.org]]

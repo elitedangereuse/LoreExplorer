@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e3ebfa79-debb-41c5-b741-1e94c9f5ea98
+:END:
+#+title: Blue Electronics Auteini Services Wars
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011225-GalNet_Weekly_Conflict_Report.org][33011225-GalNet_Weekly_Conflict_Report.org]]

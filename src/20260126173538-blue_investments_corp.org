@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       53ee826c-631e-402b-b485-ab3dca9463bb
+:END:
+#+title: Blue Investments Corp
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011228-GalNet_Weekly_Economic_Report.org][33011228-GalNet_Weekly_Economic_Report.org]]

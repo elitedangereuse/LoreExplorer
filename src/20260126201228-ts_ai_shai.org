@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5c59d249-0e45-448e-9e4f-228ff4a09941
+:END:
+#+title: Ts'ai Shai
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020429-Powerplay__Weekly_Report.org][33020429-Powerplay__Weekly_Report.org]]

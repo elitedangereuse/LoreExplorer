@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       754d8305-a0b4-4c82-97a5-0de2ae51515f
+:END:
+#+title: Operation Tomahawk
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010403-Operation_Tomahawk_Aims_to_Rid_Lave_of_CODE_Threat.org][33010403-Operation_Tomahawk_Aims_to_Rid_Lave_of_CODE_Threat.org]]

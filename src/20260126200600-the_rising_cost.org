@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       63b7b79b-28e3-49df-a839-8ccf5004dfb3
+:END:
+#+title: The Rising Cost
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010607-The_Rising_Cost_of_Getting_High.org][33010607-The_Rising_Cost_of_Getting_High.org]]

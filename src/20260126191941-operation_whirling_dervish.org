@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       cc236c78-f0d8-41ac-8dcd-37f4f50018ac
+:END:
+#+title: Operation Whirling Dervish
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33031215-Community_Goal__Operation_Whirling_Dervish.org][33031215-Community_Goal__Operation_Whirling_Dervish.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       626cd743-819d-4519-a59a-f0acca86887c
+:END:
+#+title: Lycan Moon Mining Corporation
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010220-President_Orders_Attack_on_Nijotec.org][33010220-President_Orders_Attack_on_Nijotec.org]]

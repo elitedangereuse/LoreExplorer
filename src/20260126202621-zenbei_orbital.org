@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f76fef7c-f033-415a-a952-39ff56667151
+:END:
+#+title: Zenbei Orbital
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020206-Noticias_de_la_comunidad__Nuevos_avistamientos_de_la_Diamondback.org][33020206-Noticias_de_la_comunidad__Nuevos_avistamientos_de_la_Diamondback.org]]

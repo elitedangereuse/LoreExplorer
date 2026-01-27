@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       cdbc553a-6eb7-4ec2-af8b-078421585a2d
+:END:
+#+title: Bactrib When
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030914-Galactic_News__Weekly_Health_Report.org][33030914-Galactic_News__Weekly_Health_Report.org]]

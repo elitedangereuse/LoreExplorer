@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9b3a7f44-e33c-4556-a781-baa2711e24fc
+:END:
+#+title: Coalsack Nebula Project
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33061203-Explorers_Needed_for_Coalsack_Nebula_Project.org][33061203-Explorers_Needed_for_Coalsack_Nebula_Project.org]]

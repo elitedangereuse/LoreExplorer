@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7b90d3af-190f-4edb-8cc9-0375a40cb7e6
+:END:
+#+title: The Cobra
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030224-Galactic_News__Theft_at_Darnielle's_Progress.org][33030224-Galactic_News__Theft_at_Darnielle's_Progress.org]]

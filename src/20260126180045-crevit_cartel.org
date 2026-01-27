@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ac4345a2-037e-4c9d-827d-6dd094062f58
+:END:
+#+title: Crevit Cartel
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010811-GalNet_Weekly_Security_Digest.org][33010811-GalNet_Weekly_Security_Digest.org]]

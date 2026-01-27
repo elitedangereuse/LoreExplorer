@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ea092dd9-d38e-498b-a69a-9eaad561dd72
+:END:
+#+title: Services Hand Gang
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030111-Galactic_News__Weekly_Health_Report.org][33030111-Galactic_News__Weekly_Health_Report.org]]

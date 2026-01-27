@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0063a67e-f158-46f3-a547-59ea4fae2783
+:END:
+#+title: Carnoeck De Lay Survey
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040706-Starport_Status_Update.org][33040706-Starport_Status_Update.org]]

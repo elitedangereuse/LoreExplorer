@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9e1f7a9f-5913-491c-9b65-7f87bf39b077
+:END:
+#+title: Commander Sam Ishum
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010311-Core_Dynamics_Completes_Work_on_New_Capital_Ship.org][33010311-Core_Dynamics_Completes_Work_on_New_Capital_Ship.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       87db0c3a-85dd-4392-9d20-a116653e4ffd
+:END:
+#+title: Hart Station
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010723-Cerberus_Plague_Outbreaks_in_the_Bast,_Una_and_Santjalan_Systems.org][33010723-Cerberus_Plague_Outbreaks_in_the_Bast,_Una_and_Santjalan_Systems.org]]

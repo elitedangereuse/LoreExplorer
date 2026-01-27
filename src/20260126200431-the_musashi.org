@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7de19a3f-c68d-4eec-8be5-6ac92e0e1318
+:END:
+#+title: The Musashi
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33071105-Aegis_Leader_Opposes_Salvation.org][33071105-Aegis_Leader_Opposes_Salvation.org]]

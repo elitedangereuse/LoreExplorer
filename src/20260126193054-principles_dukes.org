@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b78cd568-d4a0-4df2-aa88-6d82825f7514
+:END:
+#+title: Principles Dukes
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011003-GalNet_Weekly_Expansion_List.org][33011003-GalNet_Weekly_Expansion_List.org]]

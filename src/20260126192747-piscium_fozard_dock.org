@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       596fcb13-c11d-446b-88d1-857b5adf7b20
+:END:
+#+title: Piscium Fozard Dock
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020520-Galactic_News__Malfunctioning_Starports_Restored_with_Meta-Alloys.org][33020520-Galactic_News__Malfunctioning_Starports_Restored_with_Meta-Alloys.org]]

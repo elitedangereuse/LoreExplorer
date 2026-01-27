@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       81787dcf-e123-422d-a175-089117f321e4
+:END:
+#+title: Nenexo Blue Netcoms Solutions Union
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021025-Galactic_News__Weekly_Security_Report.org][33021025-Galactic_News__Weekly_Security_Report.org]]

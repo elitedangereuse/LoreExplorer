@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a22e0d41-6907-4379-a23a-8270e763f300
+:END:
+#+title: Enforcer Cannons
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010703-Peace_and_Prosperity_through_Production.org][33010703-Peace_and_Prosperity_through_Production.org]]

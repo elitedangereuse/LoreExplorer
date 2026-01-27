@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8264b5f8-10bc-4482-806c-ec5c9f5cbac4
+:END:
+#+title: Commander Solveig Smith
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040426-Utopia_Plans_for_Humanity’s_Extinction.org][33040426-Utopia_Plans_for_Humanity’s_Extinction.org]]

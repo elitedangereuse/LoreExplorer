@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4f25a642-0cff-4387-b832-0d33574d848f
+:END:
+#+title: Falisci Purple Gang
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010304-Falisci_in_Flames.org][33010304-Falisci_in_Flames.org]]

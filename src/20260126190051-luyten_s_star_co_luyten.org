@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       64a4f2b9-1615-4f3c-bb26-1cab3969fedf
+:END:
+#+title: Luyten's Star Co Luyten
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030506-Galactic_News__Weekly_Conflict_Report.org][33030506-Galactic_News__Weekly_Conflict_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a2d4bcdb-4908-4b37-8c19-2af9b192471f
+:END:
+#+title: Investors Take Control
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33061222-Investors_Take_Control_of_Lakon_Spaceways.org][33061222-Investors_Take_Control_of_Lakon_Spaceways.org]]

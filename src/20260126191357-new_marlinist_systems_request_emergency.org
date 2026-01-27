@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7ecbee19-99a6-42e9-9598-b81a01f5c1f4
+:END:
+#+title: New Marlinist Systems Request Emergency
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070114-New_Marlinist_Systems_Request_Emergency_Food_Supplies.org][33070114-New_Marlinist_Systems_Request_Emergency_Food_Supplies.org]]

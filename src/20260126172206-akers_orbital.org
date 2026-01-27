@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4ded1ec6-1efb-4861-ac74-dab337ad00ef
+:END:
+#+title: Akers Orbital
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040629-Restoring_Order_in_Fousang.org][33040629-Restoring_Order_in_Fousang.org]]

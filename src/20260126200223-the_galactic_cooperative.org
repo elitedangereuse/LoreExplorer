@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       71ead927-6ed8-4778-91d6-df0cfe230932
+:END:
+#+title: The Galactic Cooperative
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020723-Freelance_Report__GalCop_Mobilizes_to_Aid_Jaques_Station.org][33020723-Freelance_Report__GalCop_Mobilizes_to_Aid_Jaques_Station.org]]

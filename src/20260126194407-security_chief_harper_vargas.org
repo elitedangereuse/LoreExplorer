@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       19daca31-239b-4025-ae03-4c3d119febc5
+:END:
+#+title: Security Chief Harper Vargas
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33041019-Raid_on_Phoenix_Base.org][33041019-Raid_on_Phoenix_Base.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7e9eb32c-d860-4efc-83fa-699f93dd749e
+:END:
+#+title: Cornsar System
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070920-Thargoids_Vanish_from_Cornsar_System.org][33070920-Thargoids_Vanish_from_Cornsar_System.org]]

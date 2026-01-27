@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e55fc825-0a60-4c29-97db-61200807cdad
+:END:
+#+title: Task Force Athena
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020721-Freelance_Report__Probe_Research_Implications.org][33020721-Freelance_Report__Probe_Research_Implications.org]]

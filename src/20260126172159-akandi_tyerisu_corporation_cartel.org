@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       fa2a9fc7-a0fe-4ec5-98d4-1a4da18069f7
+:END:
+#+title: Akandi Tyerisu Corporation Cartel
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010718-GalNet_Weekly_Expansion_List.org][33010718-GalNet_Weekly_Expansion_List.org]]

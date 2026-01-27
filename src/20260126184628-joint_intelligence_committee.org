@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f5e20cbc-1836-4f5c-94dd-3f5929e35342
+:END:
+#+title: Joint Intelligence Committee
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010323-President_Orders_Strike_on_Federal_Refugees.org][33010323-President_Orders_Strike_on_Federal_Refugees.org]]

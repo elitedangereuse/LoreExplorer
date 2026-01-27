@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5487a32d-012d-4557-b975-0c486dab3558
+:END:
+#+title: Mechanical Failure
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010602-The_Loss_of_Starship_One_Linked_to_Mechanical_Failure.org][33010602-The_Loss_of_Starship_One_Linked_to_Mechanical_Failure.org]]

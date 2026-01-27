@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ffc9b274-1887-4289-b5c6-c63b494e6545
+:END:
+#+title: Van Maanen's Star
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010327-Unknown_Explorer_Returns_From_NGC_3199_Nebula.org][33010327-Unknown_Explorer_Returns_From_NGC_3199_Nebula.org]]

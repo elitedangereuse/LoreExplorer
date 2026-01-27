@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       08c2ccdd-e3de-4513-b3f7-3a3e0aa2fd28
+:END:
+#+title: TZ Arietis Weapon Expo
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090112-Azimuth_Announces_Experimental_Weapons_Stabiliser.org][33090112-Azimuth_Announces_Experimental_Weapons_Stabiliser.org]]

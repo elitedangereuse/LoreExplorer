@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       61544f34-226b-46e8-8a38-b744039332ac
+:END:
+#+title: Since Achilles Corporation
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3310/33100807-Type-8_Released__Lakon_Spaceways_Offer_SCO_Optimised_Freighter.org][33100807-Type-8_Released__Lakon_Spaceways_Offer_SCO_Optimised_Freighter.org]]

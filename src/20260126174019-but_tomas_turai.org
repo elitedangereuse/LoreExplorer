@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       07a04fe9-13ac-489b-ae8c-de3155776ce9
+:END:
+#+title: But Tomas Turai
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040906-Scandal_Hits_Rochester_Family.org][33040906-Scandal_Hits_Rochester_Family.org]]

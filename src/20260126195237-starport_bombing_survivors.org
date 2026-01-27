@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0b75e3c6-5e84-48bf-b60a-de6f10a5a019
+:END:
+#+title: Starport Bombing Survivors
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070318-Medical_Supplies_Needed_for_Starport_Bombing_Survivors.org][33070318-Medical_Supplies_Needed_for_Starport_Bombing_Survivors.org]]

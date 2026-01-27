@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       75693f29-109a-4730-9dcf-95cbb4f20e34
+:END:
+#+title: Kannari When
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021024-Galactic_News__Weekly_Economic_Report.org][33021024-Galactic_News__Weekly_Economic_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8841e0d1-ec94-4378-b26c-0d33ecaf7b34
+:END:
+#+title: Methanol Monohydrate Crystals
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030414-Community_Goal__Colonia_Resource_Drive.org][33030414-Community_Goal__Colonia_Resource_Drive.org]]

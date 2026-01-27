@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b6339fdd-88de-4e13-bd08-1748d95fc109
+:END:
+#+title: Masans Values Party
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030808-Galactic_News__Weekly_Economic_Report.org][33030808-Galactic_News__Weekly_Economic_Report.org]]

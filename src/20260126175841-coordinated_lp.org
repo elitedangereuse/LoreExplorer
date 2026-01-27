@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       89d906db-beb9-4875-8915-481a20f3d714
+:END:
+#+title: Coordinated LP
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030831-Galactic_News__Weekly_Security_Report.org][33030831-Galactic_News__Weekly_Security_Report.org]]

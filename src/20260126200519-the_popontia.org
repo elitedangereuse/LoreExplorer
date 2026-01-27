@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8c9fc11a-428b-4716-8a17-57a5b49a64db
+:END:
+#+title: The Popontia
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33081010-Winters_Condemns_Oppression_of_Thargoid_Cult.org][33081010-Winters_Condemns_Oppression_of_Thargoid_Cult.org]]

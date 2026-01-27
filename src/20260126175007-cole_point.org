@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       be4d14e2-17cc-4892-a2f4-d4350a57b315
+:END:
+#+title: Cole Point
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33061126-Alliance_Consolidates_Presence_in_Coalsack_Nebula.org][33061126-Alliance_Consolidates_Presence_in_Coalsack_Nebula.org]]

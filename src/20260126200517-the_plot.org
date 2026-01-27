@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b068fdbe-2d0e-4838-b4f7-8b2c51cff9b2
+:END:
+#+title: The Plot
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080601-The_Plot_to_Depose_Archon_Delaine.org][33080601-The_Plot_to_Depose_Archon_Delaine.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7973360b-e58a-4a57-8cd9-f3fddaf1c3aa
+:END:
+#+title: Commander Blain Crighton
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040420-The_Rekohu_Project.org][33040420-The_Rekohu_Project.org]]

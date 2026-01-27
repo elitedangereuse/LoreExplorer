@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       fbbaa7f3-62cb-49e6-82fb-2fc0584b419a
+:END:
+#+title: Greg's Legacy
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030714-Community_Goal__NULL_Campaign_Begins.org][33030714-Community_Goal__NULL_Campaign_Begins.org]]

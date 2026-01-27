@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5e3c0e24-4082-4a2d-b324-424b29afb68e
+:END:
+#+title: Commander Seneh
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020215-Freelance_Report__Buckyball_Racers_to_Chauffeur_Students.org][33020215-Freelance_Report__Buckyball_Racers_to_Chauffeur_Students.org]]

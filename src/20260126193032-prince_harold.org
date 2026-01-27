@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       46f68de1-9b5f-4fe0-a9e0-039e1bab5a69
+:END:
+#+title: Prince Harold
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010724-Meet_the_Powers_–_Aisling_Duval.org][33010724-Meet_the_Powers_–_Aisling_Duval.org]]

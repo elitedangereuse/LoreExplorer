@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8767d1e0-d844-4227-95d2-a9fc6441c078
+:END:
+#+title: Major Exchange Values Party
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030117-Galactic_News__Weekly_Security_Report.org][33030117-Galactic_News__Weekly_Security_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a8ef5b66-a041-436b-9c46-34fa624a0636
+:END:
+#+title: Mercury Seven Expedition Returns
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030604-Freelance_Report__Mercury_Seven_Expedition_Returns.org][33030604-Freelance_Report__Mercury_Seven_Expedition_Returns.org]]

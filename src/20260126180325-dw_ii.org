@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2636e0e1-caf4-46d9-90ac-ee5330810e8b
+:END:
+#+title: DW II
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050703-Distant_Worlds_Megaship_and_Station_Operational.org][33050703-Distant_Worlds_Megaship_and_Station_Operational.org]]

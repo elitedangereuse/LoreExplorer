@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6d5c8f11-f4c9-4bf6-9607-fddb438bd3ad
+:END:
+#+title: As Vice President Naylor
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010513-President_Halsey_Sets_Out_from_Sol.org][33010513-President_Halsey_Sets_Out_from_Sol.org]]

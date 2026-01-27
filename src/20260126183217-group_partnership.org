@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bc5deac0-412e-460b-b425-5419d1b53865
+:END:
+#+title: Group Partnership
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030214-Galactic_News__Weekly_Security_Report.org][33030214-Galactic_News__Weekly_Security_Report.org]]

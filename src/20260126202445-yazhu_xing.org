@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       30583f68-5958-4cf5-9a13-30134f34b2fd
+:END:
+#+title: Yazhu Xing
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33081003-Making_the_Case_for_Aegis.org][33081003-Making_the_Case_for_Aegis.org]]

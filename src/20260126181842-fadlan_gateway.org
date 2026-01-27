@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       fd7e4152-685f-4036-b402-9e5518a05966
+:END:
+#+title: Fadlan Gateway
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33031018-Galactic_News__Starport_Status_Update.org][33031018-Galactic_News__Starport_Status_Update.org]]

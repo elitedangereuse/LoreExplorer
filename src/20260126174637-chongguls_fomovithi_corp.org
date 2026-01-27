@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       64ecdb7e-48e5-4988-81aa-51baab0ce3c8
+:END:
+#+title: Chongguls Fomovithi Corp
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020419-Galactic_News__Weekly_Security_Report.org][33020419-Galactic_News__Weekly_Security_Report.org]]

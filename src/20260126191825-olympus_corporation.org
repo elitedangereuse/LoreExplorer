@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       78171e05-3286-4158-8507-8448d3b15a3c
+:END:
+#+title: Olympus Corporation
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011009-Olympus_Corp_Thanks_the_Fuel_Rats.org][33011009-Olympus_Corp_Thanks_the_Fuel_Rats.org]]

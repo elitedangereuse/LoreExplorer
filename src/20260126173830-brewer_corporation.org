@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       44ecdc53-42e6-4175-b411-c16878868e09
+:END:
+#+title: Brewer Corporation
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011022-From_Dreams_to_Reality.org][33011022-From_Dreams_to_Reality.org]]

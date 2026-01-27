@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e158e595-029e-4666-9fd2-0471c7fcfb7d
+:END:
+#+title: Antal Levels Accusation
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33041228-Antal_Levels_Accusation_at_Vitadyne.org][33041228-Antal_Levels_Accusation_at_Vitadyne.org]]

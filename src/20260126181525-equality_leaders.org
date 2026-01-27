@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       fb54a19e-707e-4d58-9c32-000a780143a0
+:END:
+#+title: Equality Leaders
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021101-Galactic_News__Weekly_Security_Report.org][33021101-Galactic_News__Weekly_Security_Report.org]]

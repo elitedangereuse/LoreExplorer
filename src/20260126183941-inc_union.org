@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       342ab3f2-635e-4f9a-a9ed-3364f6261e10
+:END:
+#+title: Inc Union
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020519-Galactic_News__Weekly_Democracy_Report.org][33020519-Galactic_News__Weekly_Democracy_Report.org]]

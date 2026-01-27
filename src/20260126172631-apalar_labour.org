@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       70665e9c-68db-4152-83f8-bffdeb2fe2bc
+:END:
+#+title: Apalar Labour
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010812-Apalar_System_Calls_for_Aid.org][33010812-Apalar_System_Calls_for_Aid.org]]

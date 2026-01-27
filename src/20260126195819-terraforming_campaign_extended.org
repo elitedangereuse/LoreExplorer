@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       86f84819-a3ee-4cb0-b45a-f0c3df18cc06
+:END:
+#+title: Terraforming Campaign Extended
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020324-Galactic_News__Terraforming_Campaign_Extended.org][33020324-Galactic_News__Terraforming_Campaign_Extended.org]]

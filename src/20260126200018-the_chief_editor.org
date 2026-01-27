@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1322ef63-577c-41d1-ab19-b55ddd73741c
+:END:
+#+title: The Chief Editor
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010829-Agent_Susan_Monroe_Part_of_VP’s_Protection_Detail.org][33010829-Agent_Susan_Monroe_Part_of_VP’s_Protection_Detail.org]]

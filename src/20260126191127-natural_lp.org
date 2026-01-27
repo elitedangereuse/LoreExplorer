@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       805edb0d-4bbc-42e4-bf68-5253dfec1876
+:END:
+#+title: Natural LP
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021010-Galactic_News__Weekly_Economic_Report.org][33021010-Galactic_News__Weekly_Economic_Report.org]]

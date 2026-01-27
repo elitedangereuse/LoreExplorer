@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f2762460-c29a-4c2e-ae35-8705b4ca8f39
+:END:
+#+title: Hand Ring
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030922-Galactic_News__Peace_Declared_in_Ho_Hsi.org][33030922-Galactic_News__Peace_Declared_in_Ho_Hsi.org]]

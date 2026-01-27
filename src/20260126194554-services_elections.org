@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ba6cdac0-5bd7-4e31-8712-9e8225411242
+:END:
+#+title: Services Elections
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010813-GalNet_Focus_on_Democracy.org][33010813-GalNet_Focus_on_Democracy.org]]

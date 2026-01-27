@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d0e375ee-4be9-412d-820d-bd3665c0fe84
+:END:
+#+title: EG Union Campaign
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040323-EG_Union_Campaign.org][33040323-EG_Union_Campaign.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b2074486-a74b-49cd-bd1a-7de87316f295
+:END:
+#+title: Setet Flagg Station
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040808-Starport_Status_Update.org][33040808-Starport_Status_Update.org]]

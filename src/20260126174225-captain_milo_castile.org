@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3ecda5ec-349a-48b7-8221-8c4863cc9218
+:END:
+#+title: Captain Milo Castile
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070323-Marlinists_Reject_Accusations_of_Terrorist_Links.org][33070323-Marlinists_Reject_Accusations_of_Terrorist_Links.org]]

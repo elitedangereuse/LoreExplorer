@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ffff956b-696e-4ec5-97fb-9558af511366
+:END:
+#+title: Journalist Gethin Okonkwo
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33041013-Week_in_Review.org][33041013-Week_in_Review.org]]

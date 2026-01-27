@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9385a2cc-d68f-4e24-8c84-33ffaba2f208
+:END:
+#+title: GalCop Colonial Defence Commission
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33031222-Galactic_News__Starport_Campaign_Reaches_Successful_Conclusion.org][33031222-Galactic_News__Starport_Campaign_Reaches_Successful_Conclusion.org]]

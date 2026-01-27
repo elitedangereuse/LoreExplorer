@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a82266b2-1b35-4a27-8cd2-5fa2c5fc8db3
+:END:
+#+title: Ms Torval
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33091116-Torval_Mining_Campaign_Marks_Ownership_Change.org][33091116-Torval_Mining_Campaign_Marks_Ownership_Change.org]]

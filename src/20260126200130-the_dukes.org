@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       43dc62fd-40cd-4c28-bd84-244a138f776c
+:END:
+#+title: The Dukes
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010608-The_Dukes_of_Mikunn_Unveil_Mercenary’s_Respite.org][33010608-The_Dukes_of_Mikunn_Unveil_Mercenary’s_Respite.org]]

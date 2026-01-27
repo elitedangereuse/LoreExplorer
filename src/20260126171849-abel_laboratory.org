@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       fe35b1c8-4caf-49b4-aa83-07d87c494dfb
+:END:
+#+title: Abel Laboratory
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050722-Carson’s_Spring_Reaches_Arque_System.org][33050722-Carson’s_Spring_Reaches_Arque_System.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b415ce9a-96dd-43a9-afe9-c843bb8687ea
+:END:
+#+title: La Rochelle Blue Netcoms Co
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020730-Galactic_News__Weekly_Expansion_Report.org][33020730-Galactic_News__Weekly_Expansion_Report.org]]

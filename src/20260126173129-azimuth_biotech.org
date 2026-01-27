@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c1cc43fe-f207-49c6-ae87-78124dc38f81
+:END:
+#+title: Azimuth Biotech
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080620-Azimuth_Resurgent.org][33080620-Azimuth_Resurgent.org]]

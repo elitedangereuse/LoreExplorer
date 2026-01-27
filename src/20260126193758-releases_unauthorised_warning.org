@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       64dc3c9f-258c-467c-8da5-c0fa3277d956
+:END:
+#+title: Releases Unauthorised Warning
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3310/33101024-Seo_Jin-ae_Awake,_Releases_Unauthorised_Warning.org][33101024-Seo_Jin-ae_Awake,_Releases_Unauthorised_Warning.org]]

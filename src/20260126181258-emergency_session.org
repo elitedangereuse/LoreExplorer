@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       aeb725cd-b860-400c-9c30-2abf87143fe1
+:END:
+#+title: Emergency Session
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010528-Emergency_Session_of_Congress.org][33010528-Emergency_Session_of_Congress.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d1e0a6ec-3785-41e9-aea1-2150405cd02b
+:END:
+#+title: Silver Cartel Gang
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020831-Galactic_News__Weekly_Health_Report.org][33020831-Galactic_News__Weekly_Health_Report.org]]

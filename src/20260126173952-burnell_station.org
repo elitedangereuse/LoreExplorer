@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9a935b0d-2b0b-41e5-886a-377225785a73
+:END:
+#+title: Burnell Station
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040920-Robot_Exposes_Corporate_Fraud.org][33040920-Robot_Exposes_Corporate_Fraud.org]]

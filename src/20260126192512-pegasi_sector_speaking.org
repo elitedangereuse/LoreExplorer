@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       022e31d4-6172-4025-80d4-ce54c1f464c7
+:END:
+#+title: Pegasi Sector Speaking
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010711-Naval_Academy_Graduates_join__Operation_Davy_Jones__in_the_Pegasi_Sector.org][33010711-Naval_Academy_Graduates_join__Operation_Davy_Jones__in_the_Pegasi_Sector.org]]

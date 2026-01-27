@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       cae568df-9451-471d-8287-54b4ae8c2c96
+:END:
+#+title: Orgen Trailblazer Wish
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3311/33110319-Trailblazer_Fleet_Deployed_to_Support_Colonisation_Initiatives.org][33110319-Trailblazer_Fleet_Deployed_to_Support_Colonisation_Initiatives.org]]

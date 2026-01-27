@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1f1405fd-a202-4eed-95cd-f3a1ccc22267
+:END:
+#+title: Silva Holdings Inc
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050601-Admiral_Yamamoto_Arrested_for_Murder.org][33050601-Admiral_Yamamoto_Arrested_for_Murder.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4b0a2261-bf15-4ec0-a60f-a6634fcbc453
+:END:
+#+title: Bodb Den Advanced Network Aymifa
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030818-Galactic_News__Weekly_Democracy_Report.org][33030818-Galactic_News__Weekly_Democracy_Report.org]]

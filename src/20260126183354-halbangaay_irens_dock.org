@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       67ac07a6-5737-4dce-8a16-7e8ff9728e28
+:END:
+#+title: Halbangaay Irens Dock
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021129-Galactic_News__Starport_Status_Update.org][33021129-Galactic_News__Starport_Status_Update.org]]

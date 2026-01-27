@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3d62e7c7-f5f2-4c84-978a-a35390471f32
+:END:
+#+title: Aranbarahun Fedmich
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020318-Powerplay__Weekly_Report.org][33020318-Powerplay__Weekly_Report.org]]

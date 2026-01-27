@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f865a919-4006-486f-835f-8495f1620ef6
+:END:
+#+title: Thiel Port Crown Terminal Patrick
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010722-Cerberus_Plague_Shuts_Down_Station_Services.org][33010722-Cerberus_Plague_Shuts_Down_Station_Services.org]]

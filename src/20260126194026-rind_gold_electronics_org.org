@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1c63b257-4efc-47f2-ab4b-cdba47921dc0
+:END:
+#+title: Rind Gold Electronics Org
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040413-Rind_Gold_Electronics_Org_Campaign.org][33040413-Rind_Gold_Electronics_Org_Campaign.org]]

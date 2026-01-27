@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9ad6edb8-86e1-4883-b313-c633a9493943
+:END:
+#+title: Gally Bese
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33060917-Community_Support_Required_for_Starport_Conversions.org][33060917-Community_Support_Required_for_Starport_Conversions.org]]

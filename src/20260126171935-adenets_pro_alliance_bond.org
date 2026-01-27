@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5bc7ab3e-22d2-440a-8563-dbf61c9119b6
+:END:
+#+title: Adenets Pro-Alliance Bond
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33041129-Achilles_Corp_Initiative.org][33041129-Achilles_Corp_Initiative.org]]

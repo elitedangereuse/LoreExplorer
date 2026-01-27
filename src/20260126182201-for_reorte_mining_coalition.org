@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       39cfff52-1a9f-414f-910a-af48c8bae1e2
+:END:
+#+title: For Reorte Mining Coalition
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080314-Reorte_Mining_Coalition_Proposes_Independence.org][33080314-Reorte_Mining_Coalition_Proposes_Independence.org]]

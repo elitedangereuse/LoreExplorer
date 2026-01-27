@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ccd0085e-ee64-49d7-b965-e21f5a07f6f3
+:END:
+#+title: Inc Civil
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020517-Galactic_News__Weekly_Security_Report.org][33020517-Galactic_News__Weekly_Security_Report.org]]

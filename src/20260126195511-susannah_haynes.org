@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e741f523-8e91-448d-a87c-09fef918170e
+:END:
+#+title: Susannah Haynes
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33060917-Community_Support_Required_for_Starport_Conversions.org][33060917-Community_Support_Required_for_Starport_Conversions.org]]

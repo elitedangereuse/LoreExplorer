@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f70dd329-0253-4863-af9d-ebd37004d50b
+:END:
+#+title: Anduliga Fireworks
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011230-Faction_Appeals_for_Fireworks.org][33011230-Faction_Appeals_for_Fireworks.org]]

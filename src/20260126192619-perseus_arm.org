@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a3146c71-ad19-499e-ab89-15dc4fd455f5
+:END:
+#+title: Perseus Arm
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021014-Freelance_Report__The_Cassiopeia_Expedition.org][33021014-Freelance_Report__The_Cassiopeia_Expedition.org]]

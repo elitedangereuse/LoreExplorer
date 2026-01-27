@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       57fedca2-9572-4ff0-89ae-a9573488f991
+:END:
+#+title: Gold Gang Social Velnians Independents
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030913-Galactic_News__Weekly_Security_Report.org][33030913-Galactic_News__Weekly_Security_Report.org]]

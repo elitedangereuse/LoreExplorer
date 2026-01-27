@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e095d6a9-f353-4c3d-ab82-c3ff7131f8f7
+:END:
+#+title: Xeno-Research Campaign Ends
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050214-Xeno-Research_Campaign_Ends.org][33050214-Xeno-Research_Campaign_Ends.org]]

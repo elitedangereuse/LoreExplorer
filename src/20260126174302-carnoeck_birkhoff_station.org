@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8bbe142f-b12e-4baf-980a-f42d51bdbb74
+:END:
+#+title: Carnoeck Birkhoff Station
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030202-Galactic_News__Starport_Status_Update.org][33030202-Galactic_News__Starport_Status_Update.org]]

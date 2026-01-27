@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b60a67a6-2460-4b89-8380-3858aa89a80d
+:END:
+#+title: Dr Paul Baumann
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070811-Aegis_Probed_by_Board_of_Inquiry.org][33070811-Aegis_Probed_by_Board_of_Inquiry.org]]

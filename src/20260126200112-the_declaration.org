@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       16c9877d-d5f5-42c2-81b7-d49cc6d929ef
+:END:
+#+title: The Declaration
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070308-The_Declaration_of_Archon_Delaine.org][33070308-The_Declaration_of_Archon_Delaine.org]]

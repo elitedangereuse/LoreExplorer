@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b0e23bde-74aa-4f20-9e42-8fe8ccd53dc0
+:END:
+#+title: President Falling
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010323-Faith_in_President_Falling.org][33010323-Faith_in_President_Falling.org]]

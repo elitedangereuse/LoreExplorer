@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       edd7d808-53c1-4a52-b76e-b22fee799302
+:END:
+#+title: Professor Irene Ralston
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070413-Federal_Reactions_to_Communications_Surveillance_Programme.org][33070413-Federal_Reactions_to_Communications_Surveillance_Programme.org]]

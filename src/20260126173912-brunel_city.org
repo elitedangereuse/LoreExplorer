@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       754d2a5b-df9c-4530-a408-7b7f38a04786
+:END:
+#+title: Brunel City
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020811-Freelance_Report__Buckyball_Racing_Club_Salutes_Heroes_of_Bast.org][33020811-Freelance_Report__Buckyball_Racing_Club_Salutes_Heroes_of_Bast.org]]

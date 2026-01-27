@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e4de7005-5886-419f-af76-c5441cd69536
+:END:
+#+title: Patreus Rails
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021021-Galactic_News__Patreus_Rails_against_London_Treaty.org][33021021-Galactic_News__Patreus_Rails_against_London_Treaty.org]]

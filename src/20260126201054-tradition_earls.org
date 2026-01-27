@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7afd5997-030b-40fb-8324-f32932b8166b
+:END:
+#+title: Tradition Earls
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020315-Galactic_News__Weekly_Security_Digest.org][33020315-Galactic_News__Weekly_Security_Digest.org]]

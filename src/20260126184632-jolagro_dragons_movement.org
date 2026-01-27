@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0f290c8f-5782-4ca6-b2c8-84a8c5b737b8
+:END:
+#+title: Jolagro Dragons Movement
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021015-Galactic_News__Weekly_Expansion_Report.org][33021015-Galactic_News__Weekly_Expansion_Report.org]]

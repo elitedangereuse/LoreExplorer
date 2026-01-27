@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       68bfda6e-5482-4676-ab24-dfa34613a212
+:END:
+#+title: Hoard Orbital
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010723-Cerberus_Plague_Outbreaks_in_the_Bast,_Una_and_Santjalan_Systems.org][33010723-Cerberus_Plague_Outbreaks_in_the_Bast,_Una_and_Santjalan_Systems.org]]

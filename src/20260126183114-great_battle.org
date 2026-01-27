@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b0703660-6eae-4e1a-a175-b0b75dc339f2
+:END:
+#+title: Great Battle
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010719-A_Clash_of_Titans.org][33010719-A_Clash_of_Titans.org]]

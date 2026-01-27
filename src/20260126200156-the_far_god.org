@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2dcb3ffa-5cb7-4e59-832b-3e356b579ca5
+:END:
+#+title: The Far God
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040720-Far_God_Cult_Attacked.org][33040720-Far_God_Cult_Attacked.org]]

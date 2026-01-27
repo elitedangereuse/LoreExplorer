@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5cd8322b-5260-4572-a25e-84602acef8af
+:END:
+#+title: Senator Arturo Durant
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080502-Thargoid_Warpath_May_Threaten_Marlinists.org][33080502-Thargoid_Warpath_May_Threaten_Marlinists.org]]

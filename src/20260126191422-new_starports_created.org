@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d8d007bb-947d-407f-b2be-bae60d2d96bd
+:END:
+#+title: New Starports Created
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080128-New_Starports_Created_for_Colonia_Bridge.org][33080128-New_Starports_Created_for_Colonia_Bridge.org]]

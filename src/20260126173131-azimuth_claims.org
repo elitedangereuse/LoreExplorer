@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8fe2878a-4503-499f-9e30-06d1370cd609
+:END:
+#+title: Azimuth Claims
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080808-Azimuth_Claims_‘Thargoid_Doomsday’_Imminent.org][33080808-Azimuth_Claims_‘Thargoid_Doomsday’_Imminent.org]]

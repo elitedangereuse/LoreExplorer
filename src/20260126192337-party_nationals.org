@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1c2fdf2a-08c6-4b9f-8742-c4ce4c1ac947
+:END:
+#+title: Party Nationals
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021004-Galactic_News__Weekly_Security_Report.org][33021004-Galactic_News__Weekly_Security_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9f17f66a-7002-4aed-a90b-194d8ba52d51
+:END:
+#+title: Olwyn Kendrick
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070830-Corporation_Plans_Onionhead_Medical_Product.org][33070830-Corporation_Plans_Onionhead_Medical_Product.org]]

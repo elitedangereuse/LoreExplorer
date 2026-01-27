@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1757e871-58b7-4de3-ba19-550fb58f0172
+:END:
+#+title: Rescue Ship Seacole
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3310/33101206-Rescue_Megaships_Decimated_by_Thargoid_Fleet.org][33101206-Rescue_Megaships_Decimated_by_Thargoid_Fleet.org]]

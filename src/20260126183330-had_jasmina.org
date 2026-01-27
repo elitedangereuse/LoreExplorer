@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       aee036f8-5805-4e68-a041-eea9a6488204
+:END:
+#+title: Had Jasmina
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010529-Hudson_Calls_for_Vote_of_No_Confidence.org][33010529-Hudson_Calls_for_Vote_of_No_Confidence.org]]

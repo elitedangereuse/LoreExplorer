@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a8bb0ce3-922c-40ef-a2d6-b8b7e6ba2eab
+:END:
+#+title: Commander T'Verez
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090316-Ammonia_World_Survey_Concludes.org][33090316-Ammonia_World_Survey_Concludes.org]]

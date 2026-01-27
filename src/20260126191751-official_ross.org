@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       384acc90-4e15-4b5e-8840-bcd0f0f98ef1
+:END:
+#+title: Official Ross
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020425-Galactic_News__Weekly_Economic_Report.org][33020425-Galactic_News__Weekly_Economic_Report.org]]

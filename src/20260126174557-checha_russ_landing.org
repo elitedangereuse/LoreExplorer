@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c9038bbe-757d-47da-bbef-a5c5e24f08ce
+:END:
+#+title: Checha Russ Landing
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040802-Starport_Status_Update.org][33040802-Starport_Status_Update.org]]

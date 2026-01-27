@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5ee3c58f-b52d-4282-9249-0e9cbe5cb59c
+:END:
+#+title: Vice Admiral Amir Rafiq
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090720-The_Hunt_for_the_Dedicant.org][33090720-The_Hunt_for_the_Dedicant.org]]

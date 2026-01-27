@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d9ed9cbe-eab7-4f95-911e-801978d99d5c
+:END:
+#+title: Blue Raiders Nez Pelliri Gang
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011114-GalNet_Weekly_Expansion_List.org][33011114-GalNet_Weekly_Expansion_List.org]]

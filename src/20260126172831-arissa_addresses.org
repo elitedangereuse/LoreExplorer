@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       19992876-aef3-4da5-bb60-54a18f2564ec
+:END:
+#+title: Arissa Addresses
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080126-Arissa_Addresses_the_Empire.org][33080126-Arissa_Addresses_the_Empire.org]]

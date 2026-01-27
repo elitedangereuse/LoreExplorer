@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ac7d0360-813a-495f-ab16-bcd1ab381bd4
+:END:
+#+title: Naitis Korolyov Hub
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030405-Galactic_News__Starport_Status_Update.org][33030405-Galactic_News__Starport_Status_Update.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ecd85d6a-d5d1-4a00-8eb1-c4946593c567
+:END:
+#+title: Gold Life Ltd Osci Gold
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011218-GalNet_Weekly_Conflict_Report.org][33011218-GalNet_Weekly_Conflict_Report.org]]

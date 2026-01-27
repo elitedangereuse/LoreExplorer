@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c6a1cb31-811d-445f-8298-4829de4dc542
+:END:
+#+title: Davy Dock
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011222-The_Search_for_the_Antares.org][33011222-The_Search_for_the_Antares.org]]

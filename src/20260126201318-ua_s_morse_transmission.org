@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2d4e2dab-92db-4e88-962c-7f5284d1fdb4
+:END:
+#+title: UA's Morse-transmission
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011029-CIRG_Researcher_Addresses_Artefact_Developments.org][33011029-CIRG_Researcher_Addresses_Artefact_Developments.org]]

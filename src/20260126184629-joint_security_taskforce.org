@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d5bf3714-5ab3-4ce4-a2c0-8f0041859d73
+:END:
+#+title: Joint Security Taskforce
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020225-Community_Goal__Clean_up_Orulas.org][33020225-Community_Goal__Clean_up_Orulas.org]]

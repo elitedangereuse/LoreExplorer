@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       947aa98c-512c-45d2-9506-8da169419810
+:END:
+#+title: Ejaghaikul LP
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020517-Galactic_News__Weekly_Security_Report.org][33020517-Galactic_News__Weekly_Security_Report.org]]

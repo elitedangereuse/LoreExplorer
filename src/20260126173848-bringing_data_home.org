@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ecbd8a84-6722-4e59-80ac-452e3144866e
+:END:
+#+title: Bringing Data Home
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010223-Lambda_Andromedae__Bringing_Data_Home.org][33010223-Lambda_Andromedae__Bringing_Data_Home.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5deb04fa-f703-4042-a1ce-9d7fd4c9345e
+:END:
+#+title: Liberty Party Elections
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021013-Galactic_News__Weekly_Democracy_Report.org][33021013-Galactic_News__Weekly_Democracy_Report.org]]

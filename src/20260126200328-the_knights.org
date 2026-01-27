@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8300adff-14ae-47da-91a2-4a71430516d9
+:END:
+#+title: The Knights
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010614-For_Some,_President_Halsey's_Disappearance_Is_Not__Case_Closed_.org][33010614-For_Some,_President_Halsey's_Disappearance_Is_Not__Case_Closed_.org]]

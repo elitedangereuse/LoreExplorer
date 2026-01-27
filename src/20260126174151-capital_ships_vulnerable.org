@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       be4ada60-bb12-43b5-b631-264a774475c2
+:END:
+#+title: Capital Ships Vulnerable
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33031028-Galactic_News__Capital_Ships_Vulnerable_to_Thargoid_Attack.org][33031028-Galactic_News__Capital_Ships_Vulnerable_to_Thargoid_Attack.org]]

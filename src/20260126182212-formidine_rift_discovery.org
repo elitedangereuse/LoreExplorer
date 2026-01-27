@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       aa6203e3-25b5-46e3-b9d8-c435b2612a3f
+:END:
+#+title: Formidine Rift Discovery
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030427-Freelance_Report__Formidine_Rift_Discovery.org][33030427-Freelance_Report__Formidine_Rift_Discovery.org]]

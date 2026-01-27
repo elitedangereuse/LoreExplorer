@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       52a46225-7dca-4417-89c1-6c377a9fa090
+:END:
+#+title: For Imogen
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33071226-2-37.org][33071226-2-37.org]]

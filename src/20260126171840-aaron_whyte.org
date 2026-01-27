@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4e023fae-4c62-4013-9f8d-e74d9affcd8c
+:END:
+#+title: Aaron Whyte
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33061217-Commodities_Delivered_to_Build_Marlinist_Colonies.org][33061217-Commodities_Delivered_to_Build_Marlinist_Colonies.org]]

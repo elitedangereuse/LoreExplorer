@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3423c83a-2379-431f-b44f-57f791e3f05b
+:END:
+#+title: The Coalition
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040309-Coalition_of_Othime_Campaign.org][33040309-Coalition_of_Othime_Campaign.org]]

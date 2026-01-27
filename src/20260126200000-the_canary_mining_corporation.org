@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bbd97839-9bde-42ef-8c8c-1c979dd9118e
+:END:
+#+title: The Canary Mining Corporation
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020407-Community_Goal__Improving_Mining_Facilities_at_Kooi_Gateway.org][33020407-Community_Goal__Improving_Mining_Facilities_at_Kooi_Gateway.org]]

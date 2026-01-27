@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       76c78c5c-b00d-43f6-afbe-1667dc1d0d9b
+:END:
+#+title: But President Hudson
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020219-Powerplay__Weekly_Report.org][33020219-Powerplay__Weekly_Report.org]]

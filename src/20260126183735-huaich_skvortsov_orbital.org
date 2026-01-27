@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a2c3d8e0-f790-46b5-9e8e-4bcf3b253b9a
+:END:
+#+title: Huaich Skvortsov Orbital
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030524-Galactic_News__Starport_Status_Update.org][33030524-Galactic_News__Starport_Status_Update.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       59d641d4-f659-4a8a-91b5-8539d82953fd
+:END:
+#+title: We Imperials
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010317-Prism_Senator_Continues_to_Woo_Federation_Residents.org][33010317-Prism_Senator_Continues_to_Woo_Federation_Residents.org]]

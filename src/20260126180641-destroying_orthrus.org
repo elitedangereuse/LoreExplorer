@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5f47ccbb-09d4-4c3e-9566-b2dd021fb770
+:END:
+#+title: Destroying Orthrus
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090316-Aegis_Recommends_Preventative_Anti-Xeno_Tactic.org][33090316-Aegis_Recommends_Preventative_Anti-Xeno_Tactic.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e259f070-fe4d-4a53-a0d3-01142c0f312c
+:END:
+#+title: Crimson Partnership Partnership
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010814-GalNet_Weekly_Conflict_Report.org][33010814-GalNet_Weekly_Conflict_Report.org]]

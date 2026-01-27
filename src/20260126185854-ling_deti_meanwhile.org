@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bae1baad-387e-4290-8ac8-49a49b988822
+:END:
+#+title: Ling Deti Meanwhile
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040725-Starport_Status_Update.org][33040725-Starport_Status_Update.org]]

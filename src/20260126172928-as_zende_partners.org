@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3b94cc53-20b6-48d4-b7e3-90e19b0a6bb5
+:END:
+#+title: As Zende Partners
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050516-Segnen_Exchange_Announces_Outpost.org][33050516-Segnen_Exchange_Announces_Outpost.org]]

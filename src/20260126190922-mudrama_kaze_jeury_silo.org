@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       361d98b9-cd06-4a41-bb49-92b65d5a9349
+:END:
+#+title: Mudrama Kaze Jeury Silo
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040725-Starport_Status_Update.org][33040725-Starport_Status_Update.org]]

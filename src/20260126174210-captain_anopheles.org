@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f019a14a-6e97-47ff-b8df-5e94074c2c31
+:END:
+#+title: Captain Anopheles
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010724-The_Code_Leaves_Archon_Delaine's_Crew.org][33010724-The_Code_Leaves_Archon_Delaine's_Crew.org]]

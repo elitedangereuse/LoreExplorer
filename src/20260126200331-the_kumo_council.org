@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d66bc87d-fa41-42f0-8811-53fb3ccd4d5e
+:END:
+#+title: The Kumo Council
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070422-Archon_Delaine_Starport_Campaign_Concludes.org][33070422-Archon_Delaine_Starport_Campaign_Concludes.org]]

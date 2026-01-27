@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6444be5d-1905-4b53-856b-b8cb8dd16732
+:END:
+#+title: The President
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010323-President_Orders_Strike_on_Federal_Refugees.org][33010323-President_Orders_Strike_on_Federal_Refugees.org]]

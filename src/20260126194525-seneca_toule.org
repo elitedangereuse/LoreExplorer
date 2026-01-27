@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3ac0d752-0a9f-4147-8762-763a7837e791
+:END:
+#+title: Seneca Toule
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020209-Galactic_News__Professor_Ishmael_Palin_Missing.org][33020209-Galactic_News__Professor_Ishmael_Palin_Missing.org]]

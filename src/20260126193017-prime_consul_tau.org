@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       56f117a8-a9a7-4d25-89e6-fe3cde1a1efb
+:END:
+#+title: Prime Consul Tau
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070722-Free_Marlinist_Candidate_Wins_Election.org][33070722-Free_Marlinist_Candidate_Wins_Election.org]]

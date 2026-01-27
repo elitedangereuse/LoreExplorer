@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       aa939b3a-ff4c-4b5d-b112-1f8e827c28f3
+:END:
+#+title: Saud Kruger
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050124-Commercial_Travel_Impacted_by_Hyperspace_Fears.org][33050124-Commercial_Travel_Impacted_by_Hyperspace_Fears.org]]

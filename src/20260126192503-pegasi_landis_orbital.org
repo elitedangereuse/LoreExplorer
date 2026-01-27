@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2fd9cdd9-a7f9-4623-96ef-427868a5ac4f
+:END:
+#+title: Pegasi Landis Orbital
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040531-Starport_Status_Update.org][33040531-Starport_Status_Update.org]]

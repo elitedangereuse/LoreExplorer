@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       dbdd8403-13d6-4eec-939d-d466ea4fb363
+:END:
+#+title: White Enterprise
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040328-Starport_Status_Update.org][33040328-Starport_Status_Update.org]]

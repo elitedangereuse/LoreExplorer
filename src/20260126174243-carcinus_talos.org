@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7b34c29a-efd8-42fe-a0bb-69bbadb752e5
+:END:
+#+title: Carcinus Talos
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040418-Starport_Status_Update.org][33040418-Starport_Status_Update.org]]

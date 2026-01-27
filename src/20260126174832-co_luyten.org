@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       78ca295d-9cc9-454f-92cb-71dfe363d0ec
+:END:
+#+title: Co Luyten
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021209-Galactic_News__Weekly_Conflict_Report.org][33021209-Galactic_News__Weekly_Conflict_Report.org]]

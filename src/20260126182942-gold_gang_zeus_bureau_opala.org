@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8d36ce7d-aac0-4d47-b8c6-4364963150c1
+:END:
+#+title: Gold Gang Zeus Bureau Opala
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030614-Galactic_News__Weekly_Security_Report.org][33030614-Galactic_News__Weekly_Security_Report.org]]

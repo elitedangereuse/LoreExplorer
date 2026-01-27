@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       339a8353-24be-4a56-b82b-6821d1b15c5b
+:END:
+#+title: Paresa System
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050117-Nova_Imperium_Defeated_in_Paresa_System.org][33050117-Nova_Imperium_Defeated_in_Paresa_System.org]]

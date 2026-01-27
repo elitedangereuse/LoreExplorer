@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       eae770c5-c70f-4bcb-a28f-f066dd6bab7f
+:END:
+#+title: Kaine Clash
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070517-Alliance_Unrest_as_Mahon_and_Kaine_Clash.org][33070517-Alliance_Unrest_as_Mahon_and_Kaine_Clash.org]]

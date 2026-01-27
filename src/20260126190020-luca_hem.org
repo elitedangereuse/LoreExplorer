@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       60fcf8c6-c7aa-41bf-834c-3208ce6c8957
+:END:
+#+title: Luca Hem
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040608-INRA_Descendant_Murdered.org][33040608-INRA_Descendant_Murdered.org]]

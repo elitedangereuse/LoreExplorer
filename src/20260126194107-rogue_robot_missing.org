@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8055d9ff-5a79-4565-beee-541148e62dda
+:END:
+#+title: Rogue Robot Missing
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040811-Rogue_Robot_Missing.org][33040811-Rogue_Robot_Missing.org]]

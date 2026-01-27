@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       080089a0-151e-43e4-a6b8-8bf863d87c00
+:END:
+#+title: Uluri LP
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020112-GalNet_Weekly_Security_Digest.org][33020112-GalNet_Weekly_Security_Digest.org]]

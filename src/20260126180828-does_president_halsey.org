@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       dde1644f-5775-4f88-8a24-f346802f95c0
+:END:
+#+title: Does President Halsey
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010412-Public_Polled_on_President.org][33010412-Public_Polled_on_President.org]]

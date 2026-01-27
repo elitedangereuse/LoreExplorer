@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       744d1f4f-ac63-4f9c-8875-6f3a8a433c9a
+:END:
+#+title: Shen Terminal
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040119-Eliminating_Slavers_in_Guuguyni.org][33040119-Eliminating_Slavers_in_Guuguyni.org]]

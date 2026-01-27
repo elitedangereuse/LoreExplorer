@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5fa660d7-0dca-4667-bd26-2960af9c2890
+:END:
+#+title: Mr Hank Stone
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010216-The_Sorry_Fate_of_Hank_Stone.org][33010216-The_Sorry_Fate_of_Hank_Stone.org]]

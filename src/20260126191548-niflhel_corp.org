@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       95e689b3-1ac4-49a5-a2e4-fdab6026c7b1
+:END:
+#+title: Niflhel Corp
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040622-Refugee_Initiative_Complete.org][33040622-Refugee_Initiative_Complete.org]]

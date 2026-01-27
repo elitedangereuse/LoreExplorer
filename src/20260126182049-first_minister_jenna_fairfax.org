@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       fa551a05-928d-43b9-bd69-57c05d2f7c57
+:END:
+#+title: First Minister Jenna Fairfax
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070212-Empire_and_Marlinists_Prepare_for_Galactic_Summit.org][33070212-Empire_and_Marlinists_Prepare_for_Galactic_Summit.org]]

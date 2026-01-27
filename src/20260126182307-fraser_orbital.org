@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0f5d26d2-30dd-4e60-8bf8-559ea3e9807f
+:END:
+#+title: Fraser Orbital
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020204-Community_Goal__Manufacturer_Appeals_for_Osmium.org][33020204-Community_Goal__Manufacturer_Appeals_for_Osmium.org]]

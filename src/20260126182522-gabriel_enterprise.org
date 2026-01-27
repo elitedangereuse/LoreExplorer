@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9f72eac5-ac53-400c-9be2-05dbfac06013
+:END:
+#+title: Gabriel Enterprise
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011214-Technical_Issues_spread_to_Harma_and_Wolf_1301.org][33011214-Technical_Issues_spread_to_Harma_and_Wolf_1301.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3f235fe6-ac84-4bea-b0a6-c06977f2e4f9
+:END:
+#+title: Grand Attorney
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3310/33100122-Winters_Appoints_Future_Cabinet_Members.org][33100122-Winters_Appoints_Future_Cabinet_Members.org]]

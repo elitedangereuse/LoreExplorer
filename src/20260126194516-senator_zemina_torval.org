@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       be678106-1067-4c16-ab5f-b9caf10709e5
+:END:
+#+title: Senator Zemina Torval
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010301-Unregulated_Slaves_Sought_in_Synteini.org][33010301-Unregulated_Slaves_Sought_in_Synteini.org]]

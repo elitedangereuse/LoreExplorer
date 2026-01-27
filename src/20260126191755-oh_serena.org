@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d4a01055-6bcd-4921-8405-ee61e7684fc1
+:END:
+#+title: Oh Serena
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010330-Aisling_Calls_Out_Zemina.org][33010330-Aisling_Calls_Out_Zemina.org]]

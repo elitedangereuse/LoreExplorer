@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       756c1262-d5d0-4829-adff-408021207c7a
+:END:
+#+title: Man Can Kill
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010811-What_Sort_of_Man_Can_Kill_an_Emperor_.org][33010811-What_Sort_of_Man_Can_Kill_an_Emperor_.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f860ae53-f474-4fad-8e38-6be5068d7e8e
+:END:
+#+title: GalNet Weekly Powers Update Incoming
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010701-GalNet_Weekly_Powers_Update_Incoming.org][33010701-GalNet_Weekly_Powers_Update_Incoming.org]]

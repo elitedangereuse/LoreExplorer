@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6c3d0347-3017-4488-9d37-b8ebbcf0f57b
+:END:
+#+title: Core Dynamics Purchases Lakon Spaceways
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070105-Core_Dynamics_Purchases_Lakon_Spaceways.org][33070105-Core_Dynamics_Purchases_Lakon_Spaceways.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6dcd451c-f269-4d68-9c10-56f27d6135f9
+:END:
+#+title: Weyn Dock
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011029-Technical_Issues_in_64_Arietis.org][33011029-Technical_Issues_in_64_Arietis.org]]

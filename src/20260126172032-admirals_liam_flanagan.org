@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e92c69f8-ab9c-4f04-8b1f-dc47828058c2
+:END:
+#+title: Admirals Liam Flanagan
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33081101-Council_of_Admirals_Divided_Over_Unified_Fleet.org][33081101-Council_of_Admirals_Divided_Over_Unified_Fleet.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       572a8aa3-59c9-4b38-ae76-bbc22b267ce6
+:END:
+#+title: Commander Gonzoid
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020506-Freelance_Report__CIMA_Honours_Contest_Winners.org][33020506-Freelance_Report__CIMA_Honours_Contest_Winners.org]]

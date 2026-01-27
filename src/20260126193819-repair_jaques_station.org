@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       dd2bed22-8ee7-4d04-bb4b-8a1783c4fb74
+:END:
+#+title: Repair Jaques Station
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020721-Community_Goal__Repair_Jaques_Station.org][33020721-Community_Goal__Repair_Jaques_Station.org]]

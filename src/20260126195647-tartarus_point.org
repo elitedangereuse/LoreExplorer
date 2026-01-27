@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       31a1d08e-c0b6-4f50-bd5e-39ce50793dac
+:END:
+#+title: Tartarus Point
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020623-Galactic_News__EG_Pilots_win_Wildcard_Competition.org][33020623-Galactic_News__EG_Pilots_win_Wildcard_Competition.org]]

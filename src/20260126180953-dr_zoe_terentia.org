@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       09b475c5-3b58-440a-8e6b-a233d3532cb0
+:END:
+#+title: Dr Zoe Terentia
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33091114-Concerns_Raised_over_Titan_Returnees.org][33091114-Concerns_Raised_over_Titan_Returnees.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       23bea701-fb99-4bfc-a918-e897f0d0fe7b
+:END:
+#+title: Walter Astoria
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020429-Freelance_Report__Keeping_an_Eye_on_Naval_Expansion.org][33020429-Freelance_Report__Keeping_an_Eye_on_Naval_Expansion.org]]

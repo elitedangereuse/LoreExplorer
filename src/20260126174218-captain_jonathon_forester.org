@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       952fc7ea-7093-456b-9fed-4cababf1398e
+:END:
+#+title: Captain Jonathon Forester
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080602-Relaunching_the_Golconda.org][33080602-Relaunching_the_Golconda.org]]

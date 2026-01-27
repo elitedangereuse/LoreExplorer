@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9b0edb54-625f-43ac-9969-f8c383105f3f
+:END:
+#+title: Further Outbreaks
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010730-Further_Outbreaks_of_Cerberus_Plague.org][33010730-Further_Outbreaks_of_Cerberus_Plague.org]]

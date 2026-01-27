@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5fa92637-5247-41cb-afae-227f9bd4ae21
+:END:
+#+title: Commander Elsa Solomon
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070128-Request_for_Pilots_to_Trace_Distress_Call.org][33070128-Request_for_Pilots_to_Trace_Distress_Call.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8abeda6e-c81e-41a2-9bc4-cce4d6c13621
+:END:
+#+title: Ehlanda Hessian Conglomerate Oto Bureau
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020809-Galactic_News__Weekly_Security_Report.org][33020809-Galactic_News__Weekly_Security_Report.org]]

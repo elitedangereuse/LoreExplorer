@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3d3def85-cbd3-4244-832c-ad6a38de266c
+:END:
+#+title: Movement Ross
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020711-Galactic_News__Weekly_Economic_Report.org][33020711-Galactic_News__Weekly_Economic_Report.org]]

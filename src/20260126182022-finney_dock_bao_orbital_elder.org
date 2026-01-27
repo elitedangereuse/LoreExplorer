@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       697d5d1c-cc52-494b-aa45-2203521090cc
+:END:
+#+title: Finney Dock Bao Orbital Elder
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010722-Cerberus_Plague_Shuts_Down_Station_Services.org][33010722-Cerberus_Plague_Shuts_Down_Station_Services.org]]

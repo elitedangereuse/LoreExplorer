@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0a9d40dd-8df1-4b6b-bd48-c05175d833bc
+:END:
+#+title: Scirth Oren City
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010415-East_India_Company_Announces_Galactic_Silk_Road.org][33010415-East_India_Company_Announces_Galactic_Silk_Road.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       fdd75113-9d23-4d71-a7bd-ca1d1e1dcf41
+:END:
+#+title: The Fuel Rats Mischief
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020505-Community_Goal__Jaques'_Big_Jump.org][33020505-Community_Goal__Jaques'_Big_Jump.org]]

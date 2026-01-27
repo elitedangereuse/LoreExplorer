@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       066e8a06-47a3-4c0a-bf1c-92e41b3f83ca
+:END:
+#+title: The Bacon City Hangover
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011008-The_Bacon_City_Hangover.org][33011008-The_Bacon_City_Hangover.org]]

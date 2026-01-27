@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a747a012-864b-44c1-b1f8-1900bb066ad0
+:END:
+#+title: Alioth Guardian
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020322-Freelance_Report__Diplomatic_Summit_in_Alioth.org][33020322-Freelance_Report__Diplomatic_Summit_in_Alioth.org]]

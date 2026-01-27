@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a35e5df8-0e2f-4ee2-92af-12bf50d78586
+:END:
+#+title: Rivalry Escalates
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040901-Computer_Designers’_Rivalry_Escalates.org][33040901-Computer_Designers’_Rivalry_Escalates.org]]

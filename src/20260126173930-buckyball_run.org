@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       fa29858e-0496-471e-982a-a6c57f0a7ffe
+:END:
+#+title: Buckyball Run
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010423-Race_to_Center_of_Galaxy_Starts_in_Sol.org][33010423-Race_to_Center_of_Galaxy_Starts_in_Sol.org]]

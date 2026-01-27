@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       205f141d-4be9-467a-8ecd-bdf8ad203dfe
+:END:
+#+title: Brightlight Training
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010407-Hudson_Takes_Tour_of_Brightlight_Facilities_in_Hors.org][33010407-Hudson_Takes_Tour_of_Brightlight_Facilities_in_Hors.org]]

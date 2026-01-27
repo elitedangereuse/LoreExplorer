@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ab6bdebc-a4d9-4cdb-a91d-86ddb2175502
+:END:
+#+title: Jailhouse Rock
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040525-Los_Chupacabras_Campaign.org][33040525-Los_Chupacabras_Campaign.org]]

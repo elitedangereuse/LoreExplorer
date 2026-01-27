@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d7f1166c-1eac-4594-9b2a-639720f25f02
+:END:
+#+title: Mildeptu Wars
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030224-Galactic_News__Weekly_Conflict_Report.org][33030224-Galactic_News__Weekly_Conflict_Report.org]]

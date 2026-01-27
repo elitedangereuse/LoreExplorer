@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b187d88d-c16c-4a79-8e23-868cdd4d02b7
+:END:
+#+title: Professor Dex
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010712-Leaked_Data_Causes_Concerns_over_Latest_Imperial_Technology.org][33010712-Leaked_Data_Causes_Concerns_over_Latest_Imperial_Technology.org]]

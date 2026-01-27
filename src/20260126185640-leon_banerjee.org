@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d427a43d-1175-496b-951a-3a640f55b307
+:END:
+#+title: Leon Banerjee
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050104-Countdown_to_Second_Distant_Worlds_Expedition.org][33050104-Countdown_to_Second_Distant_Worlds_Expedition.org]]

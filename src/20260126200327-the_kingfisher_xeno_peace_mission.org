@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5bd108a4-7107-4661-8409-377ef4d7f535
+:END:
+#+title: The Kingfisher Xeno-Peace Mission
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33081117-The_Kingfisher_Xeno-Peace_Mission.org][33081117-The_Kingfisher_Xeno-Peace_Mission.org]]

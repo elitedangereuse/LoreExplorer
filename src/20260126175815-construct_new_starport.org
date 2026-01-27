@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       be213ab7-886c-41f8-b4d8-59de6fc3be97
+:END:
+#+title: Construct New Starport
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020225-Community_Goal__Campaign_to_Construct_New_Starport_in_LHS_3447.org][33020225-Community_Goal__Campaign_to_Construct_New_Starport_in_LHS_3447.org]]

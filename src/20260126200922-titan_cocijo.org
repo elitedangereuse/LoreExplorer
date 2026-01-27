@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       91307a0e-8906-4bfb-8fae-2c8fa4449f40
+:END:
+#+title: Titan Cocijo
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3310/33101025-Thargoid_War_Bulletin__The_Last_Mothership.org][33101025-Thargoid_War_Bulletin__The_Last_Mothership.org]]

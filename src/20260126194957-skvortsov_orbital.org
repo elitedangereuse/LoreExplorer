@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1ed05d9a-c549-47c0-9062-77042c512fb4
+:END:
+#+title: Skvortsov Orbital
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020418-Galactic_News__Services_Suspended_at_Fozard_Dock.org][33020418-Galactic_News__Services_Suspended_at_Fozard_Dock.org]]

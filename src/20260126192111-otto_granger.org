@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4fa276f6-1539-45b1-a358-30f204ebb2f1
+:END:
+#+title: Otto Granger
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020831-Galactic_News__Mysterious_Wreckage_Discovered.org][33020831-Galactic_News__Mysterious_Wreckage_Discovered.org]]

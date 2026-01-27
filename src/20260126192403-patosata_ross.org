@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a8719d56-f706-41cd-8cff-9fdf4715c30d
+:END:
+#+title: Patosata Ross
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011102-GalNet_Weekly_Economic_Report.org][33011102-GalNet_Weekly_Economic_Report.org]]

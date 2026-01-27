@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       49f5f74b-f8d5-4724-8ebe-9c9a1a206eee
+:END:
+#+title: Dominion Allowa Vision
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020216-Galactic_News__Weekly_Security_Digest.org][33020216-Galactic_News__Weekly_Security_Digest.org]]

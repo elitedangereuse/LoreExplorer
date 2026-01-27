@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e6fe9ef5-768d-40d7-91d8-b3e5a31845e4
+:END:
+#+title: The Artificers
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080526-Derelict_Generation_Ship_Undergoes_Repairs.org][33080526-Derelict_Generation_Ship_Undergoes_Repairs.org]]

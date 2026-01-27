@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d1c1d04c-08ed-4f0d-ae6f-f4d6fe463c2a
+:END:
+#+title: Fleet Admiral Vincent Named
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33061009-Fleet_Admiral_Vincent_Named_as_Starship_One_Saboteur.org][33061009-Fleet_Admiral_Vincent_Named_as_Starship_One_Saboteur.org]]

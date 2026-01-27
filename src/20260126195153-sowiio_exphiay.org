@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b67eeafd-85d0-496a-96aa-f5c61ec4056b
+:END:
+#+title: Sowiio Exphiay
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020726-Galactic_News__Weekly_Security_Report.org][33020726-Galactic_News__Weekly_Security_Report.org]]

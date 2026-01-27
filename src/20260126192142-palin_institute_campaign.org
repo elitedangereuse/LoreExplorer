@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f7a245a3-3362-49ae-97af-f911d120376c
+:END:
+#+title: Palin Institute Campaign
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33041018-Palin_Institute_Campaign.org][33041018-Palin_Institute_Campaign.org]]

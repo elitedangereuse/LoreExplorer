@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f12636de-e9f0-4ea5-9c01-e65a01c43053
+:END:
+#+title: Ethan Takahashi
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050308-Hunt_for_Children_of_Tothos_Continues.org][33050308-Hunt_for_Children_of_Tothos_Continues.org]]

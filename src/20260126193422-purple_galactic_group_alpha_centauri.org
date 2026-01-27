@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2167dd61-b0f1-47b6-bbe7-727ac7fdd26e
+:END:
+#+title: Purple Galactic Group Alpha Centauri
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020726-Galactic_News__Weekly_Security_Report.org][33020726-Galactic_News__Weekly_Security_Report.org]]

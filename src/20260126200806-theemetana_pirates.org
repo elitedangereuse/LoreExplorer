@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       60c42777-ecd1-4fdb-b0de-33e84b3cd565
+:END:
+#+title: Theemetana Pirates
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010724-GalNet_Weekly_Conflict_Report.org][33010724-GalNet_Weekly_Conflict_Report.org]]

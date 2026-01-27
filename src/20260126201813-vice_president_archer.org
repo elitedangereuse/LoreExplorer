@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6a4b6417-3f00-42fb-9f10-0c67d87112dc
+:END:
+#+title: Vice President Archer
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070324-New_Federal_Vice_President_Selected.org][33070324-New_Federal_Vice_President_Selected.org]]

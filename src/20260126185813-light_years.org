@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       228c0747-e5b1-4895-b9a6-1dc4b5e4e71d
+:END:
+#+title: Light Years
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010301-A_Distant_Rendezvous_–_43,000_Light_Years_from_Home.org][33010301-A_Distant_Rendezvous_–_43,000_Light_Years_from_Home.org]]

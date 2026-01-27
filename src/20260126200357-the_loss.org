@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ad1c6f6d-c51a-4722-abd2-870c07022be1
+:END:
+#+title: The Loss
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010602-The_Loss_of_Starship_One_Linked_to_Mechanical_Failure.org][33010602-The_Loss_of_Starship_One_Linked_to_Mechanical_Failure.org]]

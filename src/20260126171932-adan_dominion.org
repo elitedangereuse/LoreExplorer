@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c9b2465a-b815-4735-b07b-a78b54a8b04c
+:END:
+#+title: Adan Dominion
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020315-Galactic_News__Weekly_Security_Digest.org][33020315-Galactic_News__Weekly_Security_Digest.org]]

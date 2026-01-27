@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       340ad8ca-c352-4a98-a5ac-a22a7956f70b
+:END:
+#+title: Sun Takush Workers
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021011-Galactic_News__Weekly_Security_Report.org][33021011-Galactic_News__Weekly_Security_Report.org]]

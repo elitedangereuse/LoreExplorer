@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       be58f3ef-cf02-4fc3-85e0-478d9bbb8e9e
+:END:
+#+title: While Archon
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010817-A_Week_in_Powerplay.org][33010817-A_Week_in_Powerplay.org]]

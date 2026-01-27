@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       260bd86e-37ae-4d13-b571-7a24b6312376
+:END:
+#+title: Shanaeri Rynale
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021105-Freelance_Report__Hapless_Explorer_Returns_Home.org][33021105-Freelance_Report__Hapless_Explorer_Returns_Home.org]]

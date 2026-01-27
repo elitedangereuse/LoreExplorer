@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5ae4202e-fe8b-414d-9210-499561bd9a6d
+:END:
+#+title: Crimson Pirates Baedi Di Rats
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030906-Galactic_News__Weekly_Security_Report.org][33030906-Galactic_News__Weekly_Security_Report.org]]

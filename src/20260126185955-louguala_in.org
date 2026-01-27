@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c9d05d16-389d-40bf-9a72-413ee1f0040b
+:END:
+#+title: Louguala In
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010806-Cerberus_Plague_Continues_to_Affect_Starports.org][33010806-Cerberus_Plague_Continues_to_Affect_Starports.org]]

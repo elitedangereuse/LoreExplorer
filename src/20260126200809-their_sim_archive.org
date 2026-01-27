@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       45ee38b6-8969-4ce8-b4f8-6e8b4e197af9
+:END:
+#+title: Their Sim-Archive
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090403-Nemesis_Failsafe__Fact_or_Fiction_.org][33090403-Nemesis_Failsafe__Fact_or_Fiction_.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a1967875-914a-4cb5-b0dd-ad0bd2d3f685
+:END:
+#+title: Trading Patterns
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3310/33100903-Sirius_Stock_Price_Fluctuates_After_‘Unhinged’_Trading_Patterns.org][33100903-Sirius_Stock_Price_Fluctuates_After_‘Unhinged’_Trading_Patterns.org]]

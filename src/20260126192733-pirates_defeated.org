@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1d5cac2a-9f8f-40c8-aea2-a7a08eda6912
+:END:
+#+title: Pirates Defeated
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010810-Pirates_Defeated_in_Bast.org][33010810-Pirates_Defeated_in_Bast.org]]

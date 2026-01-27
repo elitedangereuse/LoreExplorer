@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c8571f14-abdc-4fcb-a3f8-af51e4c371f7
+:END:
+#+title: Governor Sonal Mishra
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070730-Rebellion_Spreads_Across_Federal_Systems.org][33070730-Rebellion_Spreads_Across_Federal_Systems.org]]

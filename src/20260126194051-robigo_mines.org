@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       236d840d-8959-46d0-88f4-8915463f14d3
+:END:
+#+title: Robigo Mines
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011022-Sirius_Corporation_Takes_Aim_at_Pirates.org][33011022-Sirius_Corporation_Takes_Aim_at_Pirates.org]]

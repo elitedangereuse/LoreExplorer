@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       66a439d0-db7d-4580-9c45-d5e0c12535cc
+:END:
+#+title: Duke Alden Rowe
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020423-Freelance_Report__Loyal_Imperials_Support_Starship_Construction.org][33020423-Freelance_Report__Loyal_Imperials_Support_Starship_Construction.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       57380f68-fba1-4ad4-b5ae-c0d374c2e6e0
+:END:
+#+title: Palanti When
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030420-Galactic_News__Weekly_Security_Report.org][33030420-Galactic_News__Weekly_Security_Report.org]]

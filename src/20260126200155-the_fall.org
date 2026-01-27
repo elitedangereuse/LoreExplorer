@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b7c4c554-b29f-4152-9af8-b2759e5b6509
+:END:
+#+title: The Fall
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050126-The_Fall_of_Nova_Imperium.org][33050126-The_Fall_of_Nova_Imperium.org]]

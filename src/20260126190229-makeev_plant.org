@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       33a95225-76ea-4866-95c5-862acf44bc5f
+:END:
+#+title: Makeev Plant
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040425-Starport_Status_Update.org][33040425-Starport_Status_Update.org]]

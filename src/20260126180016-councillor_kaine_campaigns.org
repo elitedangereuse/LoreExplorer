@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1faac696-3fdd-42b7-ae1c-448d62f66b01
+:END:
+#+title: Councillor Kaine Campaigns
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070122-Councillor_Kaine_Campaigns_for_Alliance_Votes.org][33070122-Councillor_Kaine_Campaigns_for_Alliance_Votes.org]]

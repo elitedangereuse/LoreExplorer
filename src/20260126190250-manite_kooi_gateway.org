@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       72a0f611-360c-4b56-b6d8-609266adbee0
+:END:
+#+title: Manite Kooi Gateway
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030103-Galactic_News__Starport_Status_Update.org][33030103-Galactic_News__Starport_Status_Update.org]]

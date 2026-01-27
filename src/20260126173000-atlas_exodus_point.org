@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4554bc5e-af26-4d14-adf4-18a65d2c6fef
+:END:
+#+title: Atlas Exodus Point
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33031202-Galactic_News__New_Aegis_Initiative.org][33031202-Galactic_News__New_Aegis_Initiative.org]]

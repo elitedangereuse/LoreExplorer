@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2fc48a32-d81b-414d-b582-9abd958f5c16
+:END:
+#+title: Amundsen Terminal
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021014-Galactic_News__Location_of_Colonia_Outposts_Announced.org][33021014-Galactic_News__Location_of_Colonia_Outposts_Announced.org]]

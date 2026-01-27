@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       56394246-fbb9-457e-ac5e-a84846930833
+:END:
+#+title: The Legend Returns
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010212-The_Legend_Returns.org][33010212-The_Legend_Returns.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       163b845f-bf3e-45c1-9ff7-0c62047719a4
+:END:
+#+title: Banqueting Hall
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010613-Federal_President_Hudson_Looks_to_the_Future.org][33010613-Federal_President_Hudson_Looks_to_the_Future.org]]

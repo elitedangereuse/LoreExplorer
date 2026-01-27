@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       70c5f7b0-3afb-4d7a-b28c-24587d830688
+:END:
+#+title: Wonderful Walter's Fish
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021020-Community_Goal__The_Walter_Waldo_Appeal.org][33021020-Community_Goal__The_Walter_Waldo_Appeal.org]]

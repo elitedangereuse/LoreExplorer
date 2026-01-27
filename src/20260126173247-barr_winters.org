@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a13e1c09-0d16-4ffd-b836-1f0641af7e95
+:END:
+#+title: Barr Winters
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33031111-Galactic_News__Taipan_AX1_Announced.org][33031111-Galactic_News__Taipan_AX1_Announced.org]]

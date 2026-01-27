@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4a1a8877-12fb-4f41-bf49-1cdd39a267a8
+:END:
+#+title: Professor Katrien Rook
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33041206-New_Nanomedicine_Announced.org][33041206-New_Nanomedicine_Announced.org]]

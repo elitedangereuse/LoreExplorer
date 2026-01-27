@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       48e3394a-0d4b-486d-ad45-3a97155e819b
+:END:
+#+title: Leesti Azure Milk
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011026-Commemorative_Space_Race.org][33011026-Commemorative_Space_Race.org]]

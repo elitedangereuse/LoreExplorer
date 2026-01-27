@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1c923f25-ecd2-459e-b81c-6649cdc6e31f
+:END:
+#+title: Alpha Centauri Earls
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030815-Galactic_News__Weekly_Economic_Report.org][33030815-Galactic_News__Weekly_Economic_Report.org]]

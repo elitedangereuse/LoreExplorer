@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       60fbe948-f45d-4dd5-8050-2b520c339c48
+:END:
+#+title: Peacock Patrons
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030209-Community_Goal__Peacock_Patrons_of_Law_Issue_Appeal.org][33030209-Community_Goal__Peacock_Patrons_of_Law_Issue_Appeal.org]]

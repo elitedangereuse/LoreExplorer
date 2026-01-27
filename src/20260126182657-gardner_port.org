@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       77398f15-6695-4399-9195-7bfe3b2c1e7e
+:END:
+#+title: Gardner Port
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030720-Galactic_News__Starport_Status_Update.org][33030720-Galactic_News__Starport_Status_Update.org]]

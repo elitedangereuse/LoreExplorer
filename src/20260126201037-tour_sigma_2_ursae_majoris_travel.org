@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       42c16643-99ee-44e8-ba9a-7055c4be667f
+:END:
+#+title: Tour Sigma-2 Ursae Majoris Travel
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020818-Galactic_News__Weekly_Democracy_Report.org][33020818-Galactic_News__Weekly_Democracy_Report.org]]

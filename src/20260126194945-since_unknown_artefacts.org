@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       75cda473-537e-48f6-9adb-25b70739dc5f
+:END:
+#+title: Since Unknown Artefacts
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020805-Freelance_Report__Dr_Arcanonn_Appeals_for_Help.org][33020805-Freelance_Report__Dr_Arcanonn_Appeals_for_Help.org]]

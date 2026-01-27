@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a07ea89f-0fef-4bc4-895d-78baf7f9bb9b
+:END:
+#+title: Wedding The
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010804-The_Eve_of_the_Wedding.org][33010804-The_Eve_of_the_Wedding.org]]

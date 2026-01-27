@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5df329ee-f7e9-4853-8e8d-aa29f5557f31
+:END:
+#+title: Barnes Terminal
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040803-Aranbarahun_Purple_Creative_Campaign.org][33040803-Aranbarahun_Purple_Creative_Campaign.org]]

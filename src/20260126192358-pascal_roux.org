@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2aee5485-00d1-4b36-90bb-50b168b35167
+:END:
+#+title: Pascal Roux
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011206-Gutamaya_Shipyards_Announces_the_Imperial_Fighter.org][33011206-Gutamaya_Shipyards_Announces_the_Imperial_Fighter.org]]

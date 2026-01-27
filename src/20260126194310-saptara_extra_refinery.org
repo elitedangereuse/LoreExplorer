@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b4dad23b-7abc-4967-98c4-a52bdb300625
+:END:
+#+title: Saptara Extra Refinery
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040425-Starport_Status_Update.org][33040425-Starport_Status_Update.org]]

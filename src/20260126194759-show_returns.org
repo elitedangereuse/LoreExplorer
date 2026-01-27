@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       cbef5fc7-94b4-4096-90ec-4539b17e394e
+:END:
+#+title: Show Returns
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040728-Classic_Children’s_Show_Returns.org][33040728-Classic_Children’s_Show_Returns.org]]

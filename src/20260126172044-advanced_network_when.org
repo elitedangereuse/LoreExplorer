@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       198cd4de-5c8c-44b9-9efa-e8601f41c4d8
+:END:
+#+title: Advanced Network When
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030601-Galactic_News__Weekly_Health_Report.org][33030601-Galactic_News__Weekly_Health_Report.org]]

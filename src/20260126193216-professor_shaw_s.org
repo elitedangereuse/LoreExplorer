@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       53424c6e-d633-4b44-b871-382e173382aa
+:END:
+#+title: Professor Shaw's
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020415-Galactic_News__Ishmael_Palin_to_Retire_from_Active_Research.org][33020415-Galactic_News__Ishmael_Palin_to_Retire_from_Active_Research.org]]

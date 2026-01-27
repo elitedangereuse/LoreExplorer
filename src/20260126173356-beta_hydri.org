@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d937bb16-e0ef-47a9-8643-52b937947dca
+:END:
+#+title: Beta Hydri
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010719-A_Clash_of_Titans.org][33010719-A_Clash_of_Titans.org]]

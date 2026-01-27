@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d906b1fc-f378-4544-a7f0-7cb0c734b957
+:END:
+#+title: Nobles Daruwutja
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020531-Galactic_News__Weekly_Security_Report.org][33020531-Galactic_News__Weekly_Security_Report.org]]

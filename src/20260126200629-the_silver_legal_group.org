@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6cacf284-a920-42c7-86e2-bb9add4e3a57
+:END:
+#+title: The Silver Legal Group
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070211-Conflict_Between_Federal_Forces_and_Jupiter_Division.org][33070211-Conflict_Between_Federal_Forces_and_Jupiter_Division.org]]

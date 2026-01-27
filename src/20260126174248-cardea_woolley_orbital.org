@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1e003504-1f94-4d5a-857b-be3d2ce0d64e
+:END:
+#+title: Cardea Woolley Orbital
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040510-Starport_Status_Update.org][33040510-Starport_Status_Update.org]]

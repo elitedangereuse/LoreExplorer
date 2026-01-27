@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4aea4f50-4ca7-4a72-91e9-2413dfc7af27
+:END:
+#+title: Titan Returnees
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33091114-Concerns_Raised_over_Titan_Returnees.org][33091114-Concerns_Raised_over_Titan_Returnees.org]]

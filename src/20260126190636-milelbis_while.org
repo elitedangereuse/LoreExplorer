@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9a86d6f5-3191-4643-bca2-134e6b115ede
+:END:
+#+title: Milelbis While
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010303-Alliance_Terraforming_Initiative_Set_to_Enter_Final_Stage.org][33010303-Alliance_Terraforming_Initiative_Set_to_Enter_Final_Stage.org]]

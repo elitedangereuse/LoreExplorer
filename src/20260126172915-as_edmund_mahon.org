@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d1ddd2f2-44c9-4bb9-975d-7347ddef9f6f
+:END:
+#+title: As Edmund Mahon
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030721-Community_Goal__Pleiades_Research_Outpost.org][33030721-Community_Goal__Pleiades_Research_Outpost.org]]

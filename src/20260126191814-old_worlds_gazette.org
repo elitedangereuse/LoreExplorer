@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d024e208-3c3f-4c6a-8fda-fbfafe116b59
+:END:
+#+title: Old Worlds Gazette
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080802-Superpowers_Commit_to_Salvation.org][33080802-Superpowers_Commit_to_Salvation.org]]

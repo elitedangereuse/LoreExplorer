@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       30f49715-94a2-42eb-80be-b11971e398ba
+:END:
+#+title: Ship Stolen
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050425-Ship_Stolen_from_Starport.org][33050425-Ship_Stolen_from_Starport.org]]

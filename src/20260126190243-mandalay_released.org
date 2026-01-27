@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7d729f8e-7ef8-4d42-9e4d-6a399958d932
+:END:
+#+title: Mandalay Released
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3310/33101031-Mandalay_Released__Zorgon_Peterson’s_SCO-Friendly_Explorer_Ships_Out.org][33101031-Mandalay_Released__Zorgon_Peterson’s_SCO-Friendly_Explorer_Ships_Out.org]]

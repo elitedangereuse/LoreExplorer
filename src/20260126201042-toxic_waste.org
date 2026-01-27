@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0ec746a4-f4e5-4b0c-8951-f4969acec738
+:END:
+#+title: Toxic Waste
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010820-Commodities_needed_in_the_Kamcha,_Dinkas_and_Jang_Di_Systems.org][33010820-Commodities_needed_in_the_Kamcha,_Dinkas_and_Jang_Di_Systems.org]]

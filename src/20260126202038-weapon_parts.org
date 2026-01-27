@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0e575c30-c238-4f11-a248-ac4d3d70404c
+:END:
+#+title: Weapon Parts
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040316-The_Purge_of_Socho.org][33040316-The_Purge_of_Socho.org]]

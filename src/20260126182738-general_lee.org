@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0289ec22-8282-48df-87d4-cd45ddafa8db
+:END:
+#+title: General Lee
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020708-Freelance_Report__Strategic_Resource_Denial.org][33020708-Freelance_Report__Strategic_Resource_Denial.org]]

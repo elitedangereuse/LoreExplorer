@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2737f972-7026-4070-a2a7-dc20d7d55f60
+:END:
+#+title: Wreckage Components
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040518-Salvage_and_Rescue_Operation.org][33040518-Salvage_and_Rescue_Operation.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       64484b5c-8b74-43ec-8775-a8ee6cde4499
+:END:
+#+title: Yemakinni Workers
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030716-Galactic_News__Weekly_Expansion_Report.org][33030716-Galactic_News__Weekly_Expansion_Report.org]]

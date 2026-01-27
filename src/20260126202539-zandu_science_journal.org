@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8a673c0a-2f0c-4020-a0b9-8cc082295b02
+:END:
+#+title: Zandu Science Journal
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020727-Freelance_Report__The_August_Exodus.org][33020727-Freelance_Report__The_August_Exodus.org]]

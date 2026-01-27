@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0e4460e4-0890-4f5a-92ca-9629ed3d42b3
+:END:
+#+title: The Red Family
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050629-Red_Family_Leader_Surrenders.org][33050629-Red_Family_Leader_Surrenders.org]]

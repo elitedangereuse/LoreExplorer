@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       38a02872-b777-4ea2-ba0a-54393cc4dec4
+:END:
+#+title: Parja Gaultier
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040823-Starport_Status_Update.org][33040823-Starport_Status_Update.org]]

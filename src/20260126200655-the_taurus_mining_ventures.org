@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5949258e-306f-4423-b1ca-a74075dc950e
+:END:
+#+title: The Taurus Mining Ventures
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33071028-Thargoid_Fleets_Invade_Nebula_Systems.org][33071028-Thargoid_Fleets_Invade_Nebula_Systems.org]]

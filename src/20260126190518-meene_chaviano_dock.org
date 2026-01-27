@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ebb22bb2-c5d7-4c55-922a-0f27eeab45ba
+:END:
+#+title: Meene Chaviano Dock
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040829-Starport_Status_Update.org][33040829-Starport_Status_Update.org]]

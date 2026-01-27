@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2018b600-29eb-4d73-9b4d-3bc495da5380
+:END:
+#+title: The Liberation
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040112-The_Liberation_of_HIP_17692.org][33040112-The_Liberation_of_HIP_17692.org]]

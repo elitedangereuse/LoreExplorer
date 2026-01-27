@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9358a4f6-81ea-4458-8435-086845ff4715
+:END:
+#+title: Ana Quin
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010223-Lambda_Andromedae__Bringing_Data_Home.org][33010223-Lambda_Andromedae__Bringing_Data_Home.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       60df3dde-8ded-46ce-8e3b-682add32575e
+:END:
+#+title: The Affiliated Counter-Terrorism
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070322-ACT_Gathers_Intelligence_on_the_NMLA.org][33070322-ACT_Gathers_Intelligence_on_the_NMLA.org]]

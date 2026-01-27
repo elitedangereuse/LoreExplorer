@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       62eef859-ef95-4c0e-b9f9-4e064f72eece
+:END:
+#+title: Those Diamond Frogs
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020526-Community_Goal__The_Skvortsov_Orbital_Hangover.org][33020526-Community_Goal__The_Skvortsov_Orbital_Hangover.org]]

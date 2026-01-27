@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b4806107-654f-4d93-b8b6-b3410db31a31
+:END:
+#+title: Diamond Frogs Campaign
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33031208-Community_Goal__Diamond_Frogs_Campaign.org][33031208-Community_Goal__Diamond_Frogs_Campaign.org]]

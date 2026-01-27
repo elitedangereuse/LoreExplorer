@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       833049e4-ef0c-4f85-9af2-814e8efde8a7
+:END:
+#+title: Silver Electronics Hldgs When
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030222-Galactic_News__Weekly_Health_Report.org][33030222-Galactic_News__Weekly_Health_Report.org]]

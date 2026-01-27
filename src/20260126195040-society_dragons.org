@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7e84c34e-3eec-4269-ac7e-abe7fd02ed9b
+:END:
+#+title: Society Dragons
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021123-Galactic_News__Weekly_Health_Report.org][33021123-Galactic_News__Weekly_Health_Report.org]]

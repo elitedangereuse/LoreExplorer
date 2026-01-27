@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       225bbf2b-8f2e-4254-98e6-5ec85e55a845
+:END:
+#+title: Beaumont Dock
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020428-Community_Goal__Morrina_in_Need.org][33020428-Community_Goal__Morrina_in_Need.org]]

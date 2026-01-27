@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       633e2013-d838-4699-b315-835eeb6d3802
+:END:
+#+title: Sothis A5
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010925-Sothis_Crystalline_Gold.org][33010925-Sothis_Crystalline_Gold.org]]

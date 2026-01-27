@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       85cdc43b-dd62-498e-9f7f-afb5c35e6171
+:END:
+#+title: Dr. Namin Tirel
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3310/33100509-Achilles_Aerospace_releases_full_selection_of_Supercruise_Overcharge_modules.org][33100509-Achilles_Aerospace_releases_full_selection_of_Supercruise_Overcharge_modules.org]]

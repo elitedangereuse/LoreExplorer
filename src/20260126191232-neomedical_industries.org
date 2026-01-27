@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3f8bbc52-b9d1-4cde-92ef-085add7130cb
+:END:
+#+title: Neomedical Industries
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33041205-Merger_Creates_Mega-Corporation.org][33041205-Merger_Creates_Mega-Corporation.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       403c2f44-d8b3-4ba1-84f7-c3494566cedb
+:END:
+#+title: Commander Renia Rakowski
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090814-Distant_Thargoid_Encounter_Raises_Questions.org][33090814-Distant_Thargoid_Encounter_Raises_Questions.org]]

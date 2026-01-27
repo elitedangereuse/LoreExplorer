@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ffa260d7-a7ef-472d-95bc-cf8a0be760ee
+:END:
+#+title: Bolg Barons
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021022-Galactic_News__Weekly_Expansion_Report.org][33021022-Galactic_News__Weekly_Expansion_Report.org]]

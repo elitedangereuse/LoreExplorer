@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d6a08269-eb91-4cec-84c5-9b66d7ecc650
+:END:
+#+title: Dawn Four
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010917-Frontline_Report__The_War_against_Emperor’s_Dawn.org][33010917-Frontline_Report__The_War_against_Emperor’s_Dawn.org]]

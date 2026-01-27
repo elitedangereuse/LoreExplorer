@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8213f2f1-b61b-45b0-8370-a17c6a7cc0b2
+:END:
+#+title: Security Chief Sara Kulkarni
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040811-Rogue_Robot_Missing.org][33040811-Rogue_Robot_Missing.org]]

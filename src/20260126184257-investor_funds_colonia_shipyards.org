@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       43ede93c-b0e6-443d-a82d-f6f95509b061
+:END:
+#+title: Investor Funds Colonia Shipyards
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040620-Investor_Funds_Colonia_Shipyards.org][33040620-Investor_Funds_Colonia_Shipyards.org]]

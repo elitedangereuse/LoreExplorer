@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       37b71277-917e-4d4f-8f60-5cbfd4afae60
+:END:
+#+title: Rendezvous Point
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010301-A_Distant_Rendezvous_–_43,000_Light_Years_from_Home.org][33010301-A_Distant_Rendezvous_–_43,000_Light_Years_from_Home.org]]

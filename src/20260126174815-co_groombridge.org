@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       07db357b-1b93-4799-a325-20ef1bb1f66c
+:END:
+#+title: Co Groombridge
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021115-Galactic_News__Weekly_Security_Report.org][33021115-Galactic_News__Weekly_Security_Report.org]]

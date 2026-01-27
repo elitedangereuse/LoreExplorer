@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9d3bf2f7-3974-42dd-bc39-1ee79375f53b
+:END:
+#+title: The XG Project
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040912-The_XG_Project.org][33040912-The_XG_Project.org]]

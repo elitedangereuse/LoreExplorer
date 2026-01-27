@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3d464044-ba0e-490e-ad66-86d57bac8b96
+:END:
+#+title: Assembly Ovid Defence Force Lokitaka
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030117-Galactic_News__Weekly_Security_Report.org][33030117-Galactic_News__Weekly_Security_Report.org]]

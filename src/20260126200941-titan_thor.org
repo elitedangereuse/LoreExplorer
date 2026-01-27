@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1ea6d9dd-69da-4517-875a-e7ff4b748895
+:END:
+#+title: Titan Thor
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3310/33100801-Aegis_Confirm_Reports_of_Thargoid_Spire_Reactivation.org][33100801-Aegis_Confirm_Reports_of_Thargoid_Spire_Reactivation.org]]

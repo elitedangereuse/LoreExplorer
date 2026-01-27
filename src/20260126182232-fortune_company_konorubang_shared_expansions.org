@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       46aa8fdb-bef2-4e93-acd2-3950d503ceae
+:END:
+#+title: Fortune Company Konorubang Shared Expansions
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021217-Galactic_News__Weekly_Expansion_Report.org][33021217-Galactic_News__Weekly_Expansion_Report.org]]

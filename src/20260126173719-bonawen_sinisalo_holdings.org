@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       58c2178c-f583-47f2-a8c8-de7e38f482c5
+:END:
+#+title: Bonawen Sinisalo Holdings
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040808-Starport_Status_Update.org][33040808-Starport_Status_Update.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4791d7c0-12a2-4813-9d74-656362aff4d8
+:END:
+#+title: Fortune Industries Values Party
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011006-GalNet_Weekly_Security_Digest.org][33011006-GalNet_Weekly_Security_Digest.org]]

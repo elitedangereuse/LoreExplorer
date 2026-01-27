@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ac1b8989-619f-4680-bd91-6b039442d92a
+:END:
+#+title: Semi Conductors
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020414-Community_Goal__Alliance_to_Establish_New_Outpost.org][33020414-Community_Goal__Alliance_to_Establish_New_Outpost.org]]

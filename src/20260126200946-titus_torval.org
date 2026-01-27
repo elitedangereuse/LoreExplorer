@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d87fb4ea-faae-4542-8af0-a1cf05553a33
+:END:
+#+title: Titus Torval
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070903-Torval_Orbital_Established.org][33070903-Torval_Orbital_Established.org]]

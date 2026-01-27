@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9be10a92-52ec-4cea-b4f4-35930d4a3e15
+:END:
+#+title: Terraforming Vennik
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020317-Community_Goal__Terraforming_Vennik_1.org][33020317-Community_Goal__Terraforming_Vennik_1.org]]

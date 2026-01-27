@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8b520faf-c095-4250-8c90-10ad7b6d7a9c
+:END:
+#+title: Eratosthenes Ring
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070708-Independence_Spreads_from_Azaladshu_System.org][33070708-Independence_Spreads_from_Azaladshu_System.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b52d8cab-2bf1-4a6c-80de-664b2198cd04
+:END:
+#+title: Pioneers Cooperative
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020112-The_Worlds_Beyond.org][33020112-The_Worlds_Beyond.org]]

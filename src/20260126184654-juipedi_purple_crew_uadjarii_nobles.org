@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7bae8789-0f93-4c23-bff8-97d03d43eb1c
+:END:
+#+title: Juipedi Purple Crew Uadjarii Nobles
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010728-GalNet_Weekly_Security_Digest.org][33010728-GalNet_Weekly_Security_Digest.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       af5d62eb-cd66-4ddc-b498-32a2b9eae383
+:END:
+#+title: EG Pliots
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020721-Galactic_News__EG_Pliots_win_Rise_to_Power.org][33020721-Galactic_News__EG_Pliots_win_Rise_to_Power.org]]

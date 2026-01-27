@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c8d77801-8877-43de-9e7d-ea62c8b42a29
+:END:
+#+title: Rescue Ship Foerster Rescue Ship
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090907-Rescue_Megaships_Scheduled_to_Redeploy.org][33090907-Rescue_Megaships_Scheduled_to_Redeploy.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ba2db3ae-5e03-458e-988e-bda54a1a1ffe
+:END:
+#+title: Social Falisci Partnership Party
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010307-The_War_for_Falisci.org][33010307-The_War_for_Falisci.org]]

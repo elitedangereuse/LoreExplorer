@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5aec75b5-cc2b-4407-9dbc-8bf8a1eb2ab2
+:END:
+#+title: Free Marlinist Movement
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070715-Data_Required_for_Marlinist_Election.org][33070715-Data_Required_for_Marlinist_Election.org]]

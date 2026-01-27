@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       699aeaa9-57be-4443-924e-8efe10ed3955
+:END:
+#+title: Bridge Corporation Ross
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010814-GalNet_Weekly_Conflict_Report.org][33010814-GalNet_Weekly_Conflict_Report.org]]

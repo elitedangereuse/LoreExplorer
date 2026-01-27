@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c8883a30-9291-4359-b65b-1e76e6cb4670
+:END:
+#+title: Cerberus Plague Outbreaks
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010723-Cerberus_Plague_Outbreaks_in_the_Bast,_Una_and_Santjalan_Systems.org][33010723-Cerberus_Plague_Outbreaks_in_the_Bast,_Una_and_Santjalan_Systems.org]]

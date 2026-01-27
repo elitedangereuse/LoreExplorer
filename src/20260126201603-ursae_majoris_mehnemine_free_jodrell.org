@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       33b821c6-0c64-4283-b602-8ceefca5d6fe
+:END:
+#+title: Ursae Majoris Mehnemine Free Jodrell
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030410-Galactic_News__Weekly_Economic_Report.org][33030410-Galactic_News__Weekly_Economic_Report.org]]

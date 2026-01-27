@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       71b18804-9959-4cb9-ad11-b4495ceab6c0
+:END:
+#+title: The Federation's
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020714-Galactic_News__Federal_Campaign_Concludes.org][33020714-Galactic_News__Federal_Campaign_Concludes.org]]

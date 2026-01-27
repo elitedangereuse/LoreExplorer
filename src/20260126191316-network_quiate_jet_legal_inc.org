@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       aa3a9921-7a68-45b8-8d22-2dea9c3c322c
+:END:
+#+title: Network Quiate Jet Legal Inc
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010827-GalNet_Focus_on_Democracy.org][33010827-GalNet_Focus_on_Democracy.org]]

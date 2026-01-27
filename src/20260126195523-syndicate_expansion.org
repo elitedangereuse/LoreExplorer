@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       110352a2-5784-495e-a2c1-1603440a0409
+:END:
+#+title: Syndicate Expansion
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010926-GalNet_Weekly_Expansion_List.org][33010926-GalNet_Weekly_Expansion_List.org]]

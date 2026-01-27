@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       572760bb-98be-4b71-8745-3a149aff642d
+:END:
+#+title: Ising Dock
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020803-Galactic_News__Starport_Status_Update.org][33020803-Galactic_News__Starport_Status_Update.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2ba36a9d-8dda-460a-8f0e-41647210030e
+:END:
+#+title: Nuites Monarchy
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011106-GalNet_Weekly_Conflict_Report.org][33011106-GalNet_Weekly_Conflict_Report.org]]

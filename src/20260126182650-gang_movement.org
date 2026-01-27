@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1ad56e11-ae1c-4bb3-a144-3be9cef3c0ee
+:END:
+#+title: Gang Movement
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030719-Galactic_News__Weekly_Security_Report.org][33030719-Galactic_News__Weekly_Security_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       77fa0f7e-ae08-4d90-89de-918565a5dc2d
+:END:
+#+title: Professor Lea Tantaga
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020401-Galactic_News__Concern_over_New_Ship_Modules.org][33020401-Galactic_News__Concern_over_New_Ship_Modules.org]]

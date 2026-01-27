@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       fceec9e9-3149-4684-a4ad-b026f5682bf6
+:END:
+#+title: The Mysterious Case
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020227-Galactic_News__The_Mysterious_Case_of_the_Disappearing_Meta-Alloys.org][33020227-Galactic_News__The_Mysterious_Case_of_the_Disappearing_Meta-Alloys.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       828b03fa-8ad1-4212-bc45-0197695e3b88
+:END:
+#+title: Independent Systems
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010222-Lugh_Makes_a_Bold_Step_Towards_Independence.org][33010222-Lugh_Makes_a_Bold_Step_Towards_Independence.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8b54638e-dbcd-4e20-b9a5-0730bf2dfd84
+:END:
+#+title: With Zachary Hudson
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090522-Presidential_Campaigns_Target_Federal_Voters.org][33090522-Presidential_Campaigns_Target_Federal_Voters.org]]

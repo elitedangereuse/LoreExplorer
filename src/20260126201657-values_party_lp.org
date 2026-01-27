@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       98e461fd-d3f0-48f0-b7cf-b674ea004b04
+:END:
+#+title: Values Party LP
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020816-Galactic_News__Weekly_Security_Report.org][33020816-Galactic_News__Weekly_Security_Report.org]]

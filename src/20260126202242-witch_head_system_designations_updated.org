@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e81c2b76-02c3-43ca-867b-88f46e21dec9
+:END:
+#+title: Witch Head System Designations Updated
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33060114-Witch_Head_System_Designations_Updated.org][33060114-Witch_Head_System_Designations_Updated.org]]

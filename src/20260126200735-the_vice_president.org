@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e8adba7e-f058-4d3d-8c1e-13938dd634e2
+:END:
+#+title: The Vice President
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33061118-Terrorists_Identified_Among_Marlinist_Refugees.org][33061118-Terrorists_Identified_Among_Marlinist_Refugees.org]]

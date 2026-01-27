@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       884442d8-596d-45a6-b465-fcd18e4ccede
+:END:
+#+title: Co Civil
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020902-Galactic_News__Weekly_Conflict_Report.org][33020902-Galactic_News__Weekly_Conflict_Report.org]]

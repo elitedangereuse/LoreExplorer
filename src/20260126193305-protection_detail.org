@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c0bdc00a-db0d-4f82-a1a9-266b4a754f90
+:END:
+#+title: Protection Detail
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010829-Agent_Susan_Monroe_Part_of_VP’s_Protection_Detail.org][33010829-Agent_Susan_Monroe_Part_of_VP’s_Protection_Detail.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       89f9e397-9798-4b3a-b79a-6ecd8061463e
+:END:
+#+title: The Colonia Connection
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020915-Community_Goal__The_Colonia_Connection.org][33020915-Community_Goal__The_Colonia_Connection.org]]

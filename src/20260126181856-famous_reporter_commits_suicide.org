@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6c661454-e22a-4814-842d-549574b4c2f1
+:END:
+#+title: Famous Reporter Commits Suicide
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010825-Famous_Reporter_Commits_Suicide.org][33010825-Famous_Reporter_Commits_Suicide.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b152c460-5869-4322-900c-564eb674ec05
+:END:
+#+title: Free When
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021207-Galactic_News__Weekly_Health_Report.org][33021207-Galactic_News__Weekly_Health_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       470ffdd6-e086-4d11-9240-2614e32a395f
+:END:
+#+title: San Tu State Network
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33091027-Eliminate_Threat_of_Grey_Swan_Fleet.org][33091027-Eliminate_Threat_of_Grey_Swan_Fleet.org]]

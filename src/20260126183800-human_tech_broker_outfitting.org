@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       da92daf8-1e06-47c2-bb64-49b66bb3decd
+:END:
+#+title: Human Tech Broker Outfitting
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080310-Colonia_Bridge_Reaches_Completion.org][33080310-Colonia_Bridge_Reaches_Completion.org]]

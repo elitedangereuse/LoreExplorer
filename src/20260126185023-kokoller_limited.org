@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       10e93e55-ea56-4fc1-a6b6-1057dd7fae23
+:END:
+#+title: Kokoller Limited
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090629-Mining_Initiative_Begins_in_Kokoller.org][33090629-Mining_Initiative_Begins_in_Kokoller.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4531d9d8-7b7d-4c53-af31-ea2669ee4ec7
+:END:
+#+title: Perhaps Aisling
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050413-The_Princess_and_the_Imperator.org][33050413-The_Princess_and_the_Imperator.org]]

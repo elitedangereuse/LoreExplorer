@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a9f98655-f25a-4479-8970-5e0bc44e88ff
+:END:
+#+title: Medical Records
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010312-Patreus_Calls_on_Blaine_to_Release_Emperor’s_Medical_Records.org][33010312-Patreus_Calls_on_Blaine_to_Release_Emperor’s_Medical_Records.org]]

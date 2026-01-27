@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5ce3c3f6-7275-4e7e-9adf-72e7f92dd825
+:END:
+#+title: The Independent Commission
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33061229-Lakon_Spaceways_Faces_Financial_Collapse.org][33061229-Lakon_Spaceways_Faces_Financial_Collapse.org]]

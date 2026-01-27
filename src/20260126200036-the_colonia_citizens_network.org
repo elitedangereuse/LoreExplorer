@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       11fa8370-b0ea-49d6-89e7-716ed6c2e80e
+:END:
+#+title: The Colonia Citizens Network
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021101-Freelance_Report__Fungi_Discovered_on_Airless_Worlds.org][33021101-Freelance_Report__Fungi_Discovered_on_Airless_Worlds.org]]

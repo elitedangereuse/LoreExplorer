@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4b07db67-5b5a-4e45-8db6-3f1775322f7d
+:END:
+#+title: Ho Hsi Jet Comms Limited
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030915-Community_Goal__The_Battle_for_Ho_Hsi.org][33030915-Community_Goal__The_Battle_for_Ho_Hsi.org]]

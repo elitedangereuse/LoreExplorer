@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bbe77b1e-3b0a-4c4b-9748-d3aae1dfc736
+:END:
+#+title: Tiptree Port
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090420-Old_Rivals_Clash_as_Thargoids_Advance.org][33090420-Old_Rivals_Clash_as_Thargoids_Advance.org]]

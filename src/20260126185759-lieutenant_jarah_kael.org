@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       69262073-a69f-43a7-b188-cec3abbcfce1
+:END:
+#+title: Lieutenant Jarah Kael
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030922-Galactic_News__Federation_Addresses_Rumours.org][33030922-Galactic_News__Federation_Addresses_Rumours.org]]

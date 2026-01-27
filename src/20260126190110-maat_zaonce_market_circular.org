@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ee66b50b-1d03-4e3e-991d-ca5bbb13b207
+:END:
+#+title: Maat Zaonce Market Circular
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010826-Heike_Starport_Security_under_Strain.org][33010826-Heike_Starport_Security_under_Strain.org]]

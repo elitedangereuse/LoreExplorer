@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b214a255-60c3-4f51-b6da-e0a3be94139c
+:END:
+#+title: Calennero Crew HR
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030906-Galactic_News__Weekly_Security_Report.org][33030906-Galactic_News__Weekly_Security_Report.org]]

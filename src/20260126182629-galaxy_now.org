@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4fdbac7f-467c-4df7-9891-ef36bdebb98e
+:END:
+#+title: Galaxy Now
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33031014-Galactic_News__Speculation_over_Thargoid_Ship.org][33031014-Galactic_News__Speculation_over_Thargoid_Ship.org]]

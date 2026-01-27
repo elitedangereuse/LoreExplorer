@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4d555e7e-b746-4bca-9502-6ed92bba47e6
+:END:
+#+title: Hapless Explorer Returns Home
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021105-Freelance_Report__Hapless_Explorer_Returns_Home.org][33021105-Freelance_Report__Hapless_Explorer_Returns_Home.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       51dfe17d-bc6c-4eb8-a4ae-e37b606f3af7
+:END:
+#+title: Colonia Resource Drive
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030414-Community_Goal__Colonia_Resource_Drive.org][33030414-Community_Goal__Colonia_Resource_Drive.org]]

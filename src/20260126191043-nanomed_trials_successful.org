@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       044b9410-3e3b-4c06-9e89-1fe1d64e2cc6
+:END:
+#+title: Nanomed Trials Successful
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33041222-Nanomed_Trials_Successful.org][33041222-Nanomed_Trials_Successful.org]]

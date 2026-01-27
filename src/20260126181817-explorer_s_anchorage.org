@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       61ef81b2-7c0e-4914-9ace-22627bb73d55
+:END:
+#+title: Explorer's Anchorage
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050307-Distant_Worlds_Mining_Campaign.org][33050307-Distant_Worlds_Mining_Campaign.org]]

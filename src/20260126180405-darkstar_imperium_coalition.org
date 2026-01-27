@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9c019e7f-80be-4ad9-b908-003e278f70c4
+:END:
+#+title: DarkStar Imperium Coalition
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020912-Galactic_News__Weekly_Economic_Report.org][33020912-Galactic_News__Weekly_Economic_Report.org]]

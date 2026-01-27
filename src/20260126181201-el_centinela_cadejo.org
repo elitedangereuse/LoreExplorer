@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0c21c689-30e1-447f-b763-1875d3198166
+:END:
+#+title: El Centinela Cadejo
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080722-The_View_from_the_Front_Line.org][33080722-The_View_from_the_Front_Line.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0ae8834c-acc7-4489-837c-91f69fb8fde3
+:END:
+#+title: Preuss Terminal
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080616-Alliance-Sirius_Military_Pact_to_be_Decided.org][33080616-Alliance-Sirius_Military_Pact_to_be_Decided.org]]

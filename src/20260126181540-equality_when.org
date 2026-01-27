@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6f4911ee-1d4b-4ab9-b8e6-9d29efba93c7
+:END:
+#+title: Equality When
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020516-Galactic_News__Weekly_Economic_Report.org][33020516-Galactic_News__Weekly_Economic_Report.org]]

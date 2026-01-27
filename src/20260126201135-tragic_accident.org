@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       907056a5-54f0-4524-a2b6-1e05d8f146dd
+:END:
+#+title: Tragic Accident
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010811-Two_Dead_in_Tragic_Accident.org][33010811-Two_Dead_in_Tragic_Accident.org]]

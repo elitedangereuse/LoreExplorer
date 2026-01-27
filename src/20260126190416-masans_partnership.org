@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0a30361a-f58d-48f8-808f-f882769bd97c
+:END:
+#+title: Masans Partnership
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030801-Galactic_News__Weekly_Economic_Report.org][33030801-Galactic_News__Weekly_Economic_Report.org]]

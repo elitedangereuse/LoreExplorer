@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8a9eed92-e2f6-4020-ac75-d31912a0b68e
+:END:
+#+title: Third World War
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010705-The_Founding_of_the_Federation.org][33010705-The_Founding_of_the_Federation.org]]

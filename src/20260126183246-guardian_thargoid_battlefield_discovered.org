@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e1dbacf9-98ce-44de-89d4-0d6380fa7436
+:END:
+#+title: Guardian-Thargoid Battlefield Discovered
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070618-Guardian-Thargoid_Battlefield_Discovered.org][33070618-Guardian-Thargoid_Battlefield_Discovered.org]]

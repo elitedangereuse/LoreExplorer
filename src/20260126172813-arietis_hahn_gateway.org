@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e4f4d86b-7cd0-4cb2-be3e-b1f3d4d35339
+:END:
+#+title: Arietis Hahn Gateway
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030110-Galactic_News__Starport_Status_Update.org][33030110-Galactic_News__Starport_Status_Update.org]]

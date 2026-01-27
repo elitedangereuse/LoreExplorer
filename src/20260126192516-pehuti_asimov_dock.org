@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       153b8c54-6651-4db3-b912-876dc6410b9b
+:END:
+#+title: Pehuti Asimov Dock
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040425-Starport_Status_Update.org][33040425-Starport_Status_Update.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7d1575b0-45ee-4601-8e77-b430974efa55
+:END:
+#+title: Comanga Crowfor Vision Services Lockdowns
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010707-GalNet_Weekly_Security_Digest.org][33010707-GalNet_Weekly_Security_Digest.org]]

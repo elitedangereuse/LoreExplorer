@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c8121981-bd33-4518-841c-4ac72b9fdf06
+:END:
+#+title: Mutumu Future
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070805-Federal_Forces_Combat_New_Rebellion.org][33070805-Federal_Forces_Combat_New_Rebellion.org]]

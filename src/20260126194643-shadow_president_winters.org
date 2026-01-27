@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4e8d5745-4aeb-4605-97ca-ea2061b1c49d
+:END:
+#+title: Shadow President Winters
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010610-Federation_Goes_All_In.org][33010610-Federation_Goes_All_In.org]]

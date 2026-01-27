@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bd153677-5505-4436-b159-ec46e049df0c
+:END:
+#+title: Commander Termite Altair
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030112-Freelance_Report__Fuel_Rats_Complete_20,000th_Rescue.org][33030112-Freelance_Report__Fuel_Rats_Complete_20,000th_Rescue.org]]

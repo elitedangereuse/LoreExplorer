@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       fb1ad8d9-60a8-45f9-9444-713a340cc850
+:END:
+#+title: Yupini Limited
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050110-Empire_Engages_Nova_Imperium.org][33050110-Empire_Engages_Nova_Imperium.org]]

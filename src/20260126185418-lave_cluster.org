@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       222aefe4-c3d9-4ab0-8926-303981212efb
+:END:
+#+title: Lave Cluster
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010426-Reorte_Liberated_by_the_Alliance.org][33010426-Reorte_Liberated_by_the_Alliance.org]]

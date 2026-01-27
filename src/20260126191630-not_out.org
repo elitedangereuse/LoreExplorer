@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4a476433-09dc-4eba-be57-4ea3e70fb296
+:END:
+#+title: Not Out
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020902-Freelance_Report__Out_of_Reach,_Not_Out_of_Mind.org][33020902-Freelance_Report__Out_of_Reach,_Not_Out_of_Mind.org]]

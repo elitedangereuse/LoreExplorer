@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7e471b9a-586a-4e80-aa8b-4559294a5e58
+:END:
+#+title: Lakon Spaceways Discounts Selected Ships
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33061207-Lakon_Spaceways_Discounts_Selected_Ships.org][33061207-Lakon_Spaceways_Discounts_Selected_Ships.org]]

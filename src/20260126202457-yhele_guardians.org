@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b88c180d-3698-41ea-9a5b-ae4db922cd54
+:END:
+#+title: Yhele Guardians
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020509-Galactic_News__Weekly_Economic_Report.org][33020509-Galactic_News__Weekly_Economic_Report.org]]

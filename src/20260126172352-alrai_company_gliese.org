@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d76e85c7-99ca-4e37-9bce-f60a2b23dc65
+:END:
+#+title: Alrai Company Gliese
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020624-Galactic_News__Weekly_Conflict_Report.org][33020624-Galactic_News__Weekly_Conflict_Report.org]]

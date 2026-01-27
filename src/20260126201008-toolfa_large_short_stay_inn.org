@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       da05e0e5-e417-4fbe-bf0a-987bc1ec2e1e
+:END:
+#+title: Toolfa Large Short Stay Inn
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010216-The_Sorry_Fate_of_Hank_Stone.org][33010216-The_Sorry_Fate_of_Hank_Stone.org]]

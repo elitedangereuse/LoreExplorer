@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e4e44ffc-12a5-4049-a7e0-39e55b1e133d
+:END:
+#+title: Palengue LP
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021201-Galactic_News__Weekly_Democracy_Report.org][33021201-Galactic_News__Weekly_Democracy_Report.org]]

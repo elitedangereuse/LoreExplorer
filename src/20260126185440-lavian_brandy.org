@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2f20f8cc-f0c2-49ed-ba88-fc5bf78ed259
+:END:
+#+title: Lavian Brandy
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010301-A_Distant_Rendezvous_–_43,000_Light_Years_from_Home.org][33010301-A_Distant_Rendezvous_–_43,000_Light_Years_from_Home.org]]

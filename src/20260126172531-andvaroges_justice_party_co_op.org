@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       df85664b-b1d0-4d01-86cd-3fb3bd8928c4
+:END:
+#+title: Andvaroges Justice Party Co-op
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011124-GalNet_Weekly_Security_Digest.org][33011124-GalNet_Weekly_Security_Digest.org]]

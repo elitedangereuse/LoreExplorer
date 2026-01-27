@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       95b5e94e-96e3-49f4-b7d4-6da0accfd953
+:END:
+#+title: Gianna Tachibana
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040216-Proactive_or_Reactive_.org][33040216-Proactive_or_Reactive_.org]]

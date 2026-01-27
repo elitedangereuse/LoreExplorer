@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3e6b8d2b-d2e7-497e-a369-0b59969f924b
+:END:
+#+title: New Home
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050730-A_New_Home_for_Professor_Palin.org][33050730-A_New_Home_for_Professor_Palin.org]]

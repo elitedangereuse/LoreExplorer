@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b8bc1bc9-6dd1-4e1c-becb-3824cbc94c04
+:END:
+#+title: The Turner Research Group
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030505-Community_Goal__Alliance_Outpost_Campaign.org][33030505-Community_Goal__Alliance_Outpost_Campaign.org]]

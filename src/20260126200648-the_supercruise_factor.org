@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9f6472b7-e232-4869-9bd2-5f04de34d035
+:END:
+#+title: The Supercruise Factor
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33081219-The_Supercruise_Factor.org][33081219-The_Supercruise_Factor.org]]

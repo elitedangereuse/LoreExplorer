@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a53e5314-c3d2-47ac-8916-a3f553182efc
+:END:
+#+title: Tall Enterprise
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021114-Galactic_News__Starport_Status_Update.org][33021114-Galactic_News__Starport_Status_Update.org]]

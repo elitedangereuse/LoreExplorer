@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a25c0f09-e59c-4835-91ff-f075ca3cb2dc
+:END:
+#+title: Princess Share Food
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010413-Patreus_and_the_Princess_Share_Food_for_Thought.org][33010413-Patreus_and_the_Princess_Share_Food_for_Thought.org]]

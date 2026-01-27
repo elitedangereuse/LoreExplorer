@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6fb27761-7c48-42b6-b256-cf8abc7f748e
+:END:
+#+title: Crop Harvesters
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010508-Old_World_Resurgence_in_Diso.org][33010508-Old_World_Resurgence_in_Diso.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7d9fecdf-6e41-40bc-a340-88aa37220404
+:END:
+#+title: Omicron Ursae Majoris Auld Platform
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040425-Starport_Status_Update.org][33040425-Starport_Status_Update.org]]

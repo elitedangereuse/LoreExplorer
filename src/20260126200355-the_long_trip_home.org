@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       07a7e63d-1060-4c44-9c27-952625e5cd84
+:END:
+#+title: The Long Trip Home
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010219-The_Long_Trip_Home.org][33010219-The_Long_Trip_Home.org]]

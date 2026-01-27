@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3cfad14b-59a4-4761-b45e-6d688b6d28a8
+:END:
+#+title: The Empirical
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080323-Taurus_Mining_Ventures_Begins_Scientific_Study.org][33080323-Taurus_Mining_Ventures_Begins_Scientific_Study.org]]

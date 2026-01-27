@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8f97640e-1161-4de9-aca9-b37ded4449df
+:END:
+#+title: Blue Major Inc Sokat Values
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030215-Galactic_News__Weekly_Health_Report.org][33030215-Galactic_News__Weekly_Health_Report.org]]

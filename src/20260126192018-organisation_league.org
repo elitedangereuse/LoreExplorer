@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3fcc209b-ae6d-4858-84a3-fc44e2e34f93
+:END:
+#+title: Organisation League
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030516-Galactic_News__Weekly_Economic_Report.org][33030516-Galactic_News__Weekly_Economic_Report.org]]

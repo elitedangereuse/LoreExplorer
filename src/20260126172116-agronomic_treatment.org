@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0300f5ea-875a-47b9-a393-e836d4bb72e9
+:END:
+#+title: Agronomic Treatment
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33051024-Anti-Blight_Treatment_Discovered.org][33051024-Anti-Blight_Treatment_Discovered.org]]

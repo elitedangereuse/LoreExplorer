@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       860eeffa-7df8-4d79-a192-4525ae3578e7
+:END:
+#+title: Exioce Vaucouleurs Vision
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040518-Starport_Status_Update.org][33040518-Starport_Status_Update.org]]

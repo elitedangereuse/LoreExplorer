@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       463570d5-4f49-4a4d-98a7-36ebad5d8931
+:END:
+#+title: Guardian Artefacts Collected
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070429-Guardian_Artefacts_Collected_for_Aegis_Project.org][33070429-Guardian_Artefacts_Collected_for_Aegis_Project.org]]

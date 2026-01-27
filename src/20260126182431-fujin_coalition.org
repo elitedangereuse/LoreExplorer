@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0e9643f7-4b04-4d6d-93b0-c679ec888a4e
+:END:
+#+title: Fujin Coalition
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020824-Galactic_News__Weekly_Health_Report.org][33020824-Galactic_News__Weekly_Health_Report.org]]

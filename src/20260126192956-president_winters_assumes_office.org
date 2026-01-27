@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       cea8982a-3b70-4549-b046-105a9b42cfe7
+:END:
+#+title: President Winters Assumes Office
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3310/33101031-President_Winters_Assumes_Office.org][33101031-President_Winters_Assumes_Office.org]]

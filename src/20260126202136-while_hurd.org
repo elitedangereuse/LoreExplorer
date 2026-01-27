@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a388ddfb-b334-4e2a-a3e0-601359513423
+:END:
+#+title: While Hurd
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040914-Investors_Abandon_Herculean_Machines.org][33040914-Investors_Abandon_Herculean_Machines.org]]

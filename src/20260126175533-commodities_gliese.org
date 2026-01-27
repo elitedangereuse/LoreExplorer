@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       088731e7-972e-4d56-a65e-ff58c692e7d0
+:END:
+#+title: Commodities Gliese
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030209-Galactic_News__Weekly_Democracy_Report.org][33030209-Galactic_News__Weekly_Democracy_Report.org]]

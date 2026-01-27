@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       41c3f600-45d7-404d-9166-b358c5fce3a1
+:END:
+#+title: Ivystone Spa
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050315-Rackham_Fatality_Creates_Power_Struggle.org][33050315-Rackham_Fatality_Creates_Power_Struggle.org]]

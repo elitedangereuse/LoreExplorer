@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b864e388-d42a-4146-ad2f-9c98789f1bdd
+:END:
+#+title: Altair System
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010214-Underground_Racers_Spotted_In_and_Around_Sol.org][33010214-Underground_Racers_Spotted_In_and_Around_Sol.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ebb6f10e-dafb-47ad-af49-212d2865993d
+:END:
+#+title: Production The Utopians
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010703-Peace_and_Prosperity_through_Production.org][33010703-Peace_and_Prosperity_through_Production.org]]

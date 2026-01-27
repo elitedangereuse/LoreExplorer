@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0fd01117-a1b0-4f31-90f9-84121292c4e1
+:END:
+#+title: Now I've
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011013-Elegance_in_Simplicity.org][33011013-Elegance_in_Simplicity.org]]

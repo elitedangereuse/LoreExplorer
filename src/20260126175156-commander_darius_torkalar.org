@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       63f06b8c-336c-46ec-a96e-bdb0a44751c1
+:END:
+#+title: Commander Darius Torkalar
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010320-Halsey_Honours_Heroes.org][33010320-Halsey_Honours_Heroes.org]]

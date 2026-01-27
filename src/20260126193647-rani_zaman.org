@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c2f58e51-7fd2-4728-8abe-930c314072bb
+:END:
+#+title: Rani Zaman
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33081124-Kingfisher_Megaship_Vanishes.org][33081124-Kingfisher_Megaship_Vanishes.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       37a1ac2a-c5d7-480d-9eca-0f7f1fdc9e24
+:END:
+#+title: ICE-caster Joy Senne
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33081003-Making_the_Case_for_Aegis.org][33081003-Making_the_Case_for_Aegis.org]]

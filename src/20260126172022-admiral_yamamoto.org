@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       72d62825-c00f-456b-8b11-a5ea6863163c
+:END:
+#+title: Admiral Yamamoto
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33041121-New_Appointment_to_Council_of_Admirals.org][33041121-New_Appointment_to_Council_of_Admirals.org]]

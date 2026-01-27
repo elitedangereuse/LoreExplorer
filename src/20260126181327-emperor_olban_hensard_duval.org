@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b8cee60c-773a-495a-b3c6-c803ff355bc4
+:END:
+#+title: Emperor Olban Hensard Duval
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33071122-Crime_Wave_Raises_Security_Concerns.org][33071122-Crime_Wave_Raises_Security_Concerns.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d643e093-a996-4df8-84aa-db3afb027b94
+:END:
+#+title: Some Commanders
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020716-Freelance_Report__Jacques_Barnacle_Search.org][33020716-Freelance_Report__Jacques_Barnacle_Search.org]]

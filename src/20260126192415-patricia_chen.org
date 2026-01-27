@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ddb25ddf-32bd-4a68-bde4-56745b6c4305
+:END:
+#+title: Patricia Chen
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090522-Presidential_Campaigns_Target_Federal_Voters.org][33090522-Presidential_Campaigns_Target_Federal_Voters.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b3409ecf-20d8-4a77-88cf-2f0691aaa536
+:END:
+#+title: Vice-President Nigel Smeaton
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020423-Freelance_Report__Following_the_Breadcrumbs.org][33020423-Freelance_Report__Following_the_Breadcrumbs.org]]

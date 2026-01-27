@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       cae391dd-21d9-49ce-90d1-a1c34647bb1d
+:END:
+#+title: Milo Vesper
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040706-Major_Victories_against_the_League_of_Reparation.org][33040706-Major_Victories_against_the_League_of_Reparation.org]]

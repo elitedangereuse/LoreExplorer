@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c3caad27-6792-4fac-b315-c123db62e1ab
+:END:
+#+title: Lake Parisot
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090703-Imperial_Mother_in_Medical_Emergency.org][33090703-Imperial_Mother_in_Medical_Emergency.org]]

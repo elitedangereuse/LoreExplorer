@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       44a319a6-2b13-4c57-9db0-da221b1eda98
+:END:
+#+title: Robin Hoods
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33041024-The_Collective.org][33041024-The_Collective.org]]

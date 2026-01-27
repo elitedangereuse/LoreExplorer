@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4c744950-c14c-4d50-9b6a-166b1a4a1210
+:END:
+#+title: The Beta Hydri Corporation
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020317-Galactic_News__New_Farragut_Battle_Cruiser_Complete.org][33020317-Galactic_News__New_Farragut_Battle_Cruiser_Complete.org]]

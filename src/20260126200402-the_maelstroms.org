@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       42c97ab8-1650-4417-aca2-2940bf916f2a
+:END:
+#+title: The Maelstroms
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33081201-New_Maelstroms_Increase_Thargoid_Conquests.org][33081201-New_Maelstroms_Increase_Thargoid_Conquests.org]]

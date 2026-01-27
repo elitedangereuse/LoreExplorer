@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       fbbd0952-ea9b-4c14-8b43-83d5b6b63a77
+:END:
+#+title: Pranav Antal's Utopia
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020304-Powerplay__Weekly_Report.org][33020304-Powerplay__Weekly_Report.org]]

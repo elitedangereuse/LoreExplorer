@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bfda67af-c398-451e-b5ee-4914c479394b
+:END:
+#+title: Thoreau Orbital
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020915-Community_Goal__The_Fight_for_Thoreau_Orbital.org][33020915-Community_Goal__The_Fight_for_Thoreau_Orbital.org]]

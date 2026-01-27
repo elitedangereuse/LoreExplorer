@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1e06dce8-6427-4479-88fd-9781d9f250bb
+:END:
+#+title: Bastes System
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010723-Cerberus_Plague_Spreads_to_the_Bastes,_Maheou_Ti_and_Ochoeng_Systems.org][33010723-Cerberus_Plague_Spreads_to_the_Bastes,_Maheou_Ti_and_Ochoeng_Systems.org]]

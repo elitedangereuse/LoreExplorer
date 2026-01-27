@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b378a5ba-fa5f-449e-81c6-8ec80e28b56e
+:END:
+#+title: Hez Pef Jet Transport Company
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020223-Galactic_News__Weekly_Security_Digest.org][33020223-Galactic_News__Weekly_Security_Digest.org]]

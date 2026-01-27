@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c5b9a06a-be4d-42c9-ae7e-b70d541e7154
+:END:
+#+title: Baumann Report
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070817-Leaked_Report_Exposes_Aegis_Failures.org][33070817-Leaked_Report_Exposes_Aegis_Failures.org]]

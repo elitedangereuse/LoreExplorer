@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ac3aae06-e318-4ae5-91a3-6019cd9b66ac
+:END:
+#+title: Perktomen Regulatory State Luhman
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020802-Galactic_News__Weekly_Security_Report.org][33020802-Galactic_News__Weekly_Security_Report.org]]

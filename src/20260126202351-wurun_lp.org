@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ae2138a7-3d4b-4832-8ecd-4790774ae049
+:END:
+#+title: Wurun LP
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020118-GalNet_Weekly_Economic_Report.org][33020118-GalNet_Weekly_Economic_Report.org]]

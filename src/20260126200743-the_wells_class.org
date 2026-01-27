@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4ebf55ac-df9a-48bf-a4f9-52594d6110b8
+:END:
+#+title: The Wells-class
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33071216-NMLA_Megaship_Becomes_Marlinist_Flagship.org][33071216-NMLA_Megaship_Becomes_Marlinist_Flagship.org]]

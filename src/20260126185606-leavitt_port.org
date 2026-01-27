@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       781a503c-e5a5-4692-9d09-1fb0e60b9629
+:END:
+#+title: Leavitt Port
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040927-Oktoberfest_in_Bhagui.org][33040927-Oktoberfest_in_Bhagui.org]]

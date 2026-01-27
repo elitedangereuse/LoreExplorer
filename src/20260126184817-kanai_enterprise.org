@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b6742ac3-013f-4905-abb1-0f57d319fc09
+:END:
+#+title: Kanai Enterprise
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040420-The_Rekohu_Project.org][33040420-The_Rekohu_Project.org]]

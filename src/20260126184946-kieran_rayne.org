@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       23b2b7ff-80d3-41e7-8fbb-a08620d2da05
+:END:
+#+title: Kieran Rayne
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090425-The_Mystery_of_the_Mars_Assassin.org][33090425-The_Mystery_of_the_Mars_Assassin.org]]

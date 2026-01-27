@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       713f514e-b27a-4519-97e2-16058b16f831
+:END:
+#+title: Commander Lysianassa
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020408-Freelance_Report__Commander_Claims_Sovereignty_over_Sagittarius_A_.org][33020408-Freelance_Report__Commander_Claims_Sovereignty_over_Sagittarius_A_.org]]

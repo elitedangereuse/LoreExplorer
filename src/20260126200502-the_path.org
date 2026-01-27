@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4587a4e0-daa1-4a60-af5c-27c231549c99
+:END:
+#+title: The Path
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030825-Community_Goal__The_Path_to_Colonia.org][33030825-Community_Goal__The_Path_to_Colonia.org]]

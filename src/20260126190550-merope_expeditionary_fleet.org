@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9b74b5c3-a57f-4bc9-82b3-0c0873c64402
+:END:
+#+title: Merope Expeditionary Fleet
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020922-Community_Goal__New_Imperial_Base_in_Pleiades_Sector_Ab-W_B2-4.org][33020922-Community_Goal__New_Imperial_Base_in_Pleiades_Sector_Ab-W_B2-4.org]]

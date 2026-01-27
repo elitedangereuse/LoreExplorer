@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       40a4c928-98ac-4ac6-9a6f-77841394a520
+:END:
+#+title: Hiram's Anchorage
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021026-Galactic_News__Loren_Trial_Begins.org][33021026-Galactic_News__Loren_Trial_Begins.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       870f5146-924b-4a8d-8908-a4c995a2cad1
+:END:
+#+title: Commander Josh Hawkins
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020419-Freelance_Report__Canonn_to_Make_Deep-Space_Rendezvous.org][33020419-Freelance_Report__Canonn_to_Make_Deep-Space_Rendezvous.org]]

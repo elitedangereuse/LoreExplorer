@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5c98f7d5-0944-40b8-8ed1-6534c775470b
+:END:
+#+title: Arek Crimson Vision Corporation
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040302-Arming_Colonia.org][33040302-Arming_Colonia.org]]

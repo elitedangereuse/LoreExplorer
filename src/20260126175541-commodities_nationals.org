@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       34a0b512-55ab-465d-a16a-df7f8a4d1f01
+:END:
+#+title: Commodities Nationals
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020707-Galactic_News__Weekly_Democracy_Report.org][33020707-Galactic_News__Weekly_Democracy_Report.org]]

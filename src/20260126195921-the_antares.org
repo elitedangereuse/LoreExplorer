@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7dfb5dcf-8f30-4bd5-9b20-af63d189331e
+:END:
+#+title: The Antares
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010802-Remembering_the_Antares_Incident.org][33010802-Remembering_the_Antares_Incident.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       fb054662-0a30-47db-a5fb-43d5312039e6
+:END:
+#+title: Weekly Economic Report
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020125-Galactic_News__Weekly_Economic_Report.org][33020125-Galactic_News__Weekly_Economic_Report.org]]

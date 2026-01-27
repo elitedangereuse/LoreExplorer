@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       415eb11f-b304-4af2-9bec-2df960bd012e
+:END:
+#+title: Galactic Exploration
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020424-Freelance_Report__Explorers_Contribute_to_Mapping_Project.org][33020424-Freelance_Report__Explorers_Contribute_to_Mapping_Project.org]]

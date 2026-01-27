@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a4f74723-e43f-4d37-8400-072761ff3ab6
+:END:
+#+title: Emergency Declared
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070513-Mass_Thargoid_Strike_–_Emergency_Declared.org][33070513-Mass_Thargoid_Strike_–_Emergency_Declared.org]]

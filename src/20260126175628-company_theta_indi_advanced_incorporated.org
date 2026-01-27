@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       69cf9b44-a348-4872-88df-d8bebf97527c
+:END:
+#+title: Company Theta Indi Advanced Incorporated
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011019-GalNet_Weekly_Economic_Report.org][33011019-GalNet_Weekly_Economic_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1b05b0fb-d71d-4e8e-8e14-57cd0a2c690e
+:END:
+#+title: Liv Family
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020815-Galactic_News__Weekly_Economic_Report.org][33020815-Galactic_News__Weekly_Economic_Report.org]]

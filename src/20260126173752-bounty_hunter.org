@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0a646910-c10b-4829-9a19-fa571bbc543b
+:END:
+#+title: Bounty Hunter
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010810-Portrait_of_a_Bounty_Hunter.org][33010810-Portrait_of_a_Bounty_Hunter.org]]

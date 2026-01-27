@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       da162bde-2f5c-48df-9398-9bd7dbe91f9a
+:END:
+#+title: Lave Radio's
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020303-Community_Goal__Lave_Radio_Appeals_for_Blood_Crystals.org][33020303-Community_Goal__Lave_Radio_Appeals_for_Blood_Crystals.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2d15510b-9d8b-49ee-9a9a-fa9f69c38586
+:END:
+#+title: Cordova Group Linked
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33041115-Cordova_Group_Linked_to_Spy_Robots.org][33041115-Cordova_Group_Linked_to_Spy_Robots.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       de102cfe-8fa2-49cb-a0a5-c9e29b70ba5b
+:END:
+#+title: Vesuvit Meanwhile
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040510-Starport_Status_Update.org][33040510-Starport_Status_Update.org]]

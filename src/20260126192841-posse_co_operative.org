@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2b775f2e-ab9e-4529-8de6-6f7293078643
+:END:
+#+title: Posse Co-operative
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030222-Galactic_News__Weekly_Health_Report.org][33030222-Galactic_News__Weekly_Health_Report.org]]

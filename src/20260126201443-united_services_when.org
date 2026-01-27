@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8d9a3867-54ec-47b9-be0b-52fa7c0f23e7
+:END:
+#+title: United Services When
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021026-Galactic_News__Weekly_Health_Report.org][33021026-Galactic_News__Weekly_Health_Report.org]]

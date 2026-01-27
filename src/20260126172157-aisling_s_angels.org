@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       48934b81-f5a7-4d8c-9ef1-7f86352c4e5b
+:END:
+#+title: Aisling's Angels
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020112-The_Worlds_Beyond.org][33020112-The_Worlds_Beyond.org]]

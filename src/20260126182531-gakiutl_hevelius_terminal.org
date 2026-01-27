@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       52951339-7f6d-4113-9205-feefaa38a295
+:END:
+#+title: Gakiutl Hevelius Terminal
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030601-Galactic_News__Starport_Status_Update.org][33030601-Galactic_News__Starport_Status_Update.org]]

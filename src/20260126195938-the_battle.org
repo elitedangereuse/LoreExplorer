@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       14b21d48-e362-41cf-a1ec-119f3201eeaa
+:END:
+#+title: The Battle
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010324-The_Battle_for_Hartsfield.org][33010324-The_Battle_for_Hartsfield.org]]

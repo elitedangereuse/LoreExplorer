@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0bb02734-4afb-4cb4-853c-7a3bf3cbd3f6
+:END:
+#+title: Hipparchus Terminal
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030822-Community_Goal__Total_Eclipse.org][33030822-Community_Goal__Total_Eclipse.org]]

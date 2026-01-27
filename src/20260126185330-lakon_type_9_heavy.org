@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c61a3588-59f6-4e61-8943-0284c12d0245
+:END:
+#+title: Lakon Type-9 Heavy
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010811-Two_Dead_in_Tragic_Accident.org][33010811-Two_Dead_in_Tragic_Accident.org]]

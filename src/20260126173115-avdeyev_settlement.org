@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1e77310c-f96f-42d1-8a83-cc3603d47b14
+:END:
+#+title: Avdeyev Settlement
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030428-Community_Goal__Restoring_Order_in_Cartoq.org][33030428-Community_Goal__Restoring_Order_in_Cartoq.org]]

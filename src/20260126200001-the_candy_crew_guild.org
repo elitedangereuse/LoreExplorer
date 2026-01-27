@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a445e8be-63d8-405e-8010-cefe3151d7b2
+:END:
+#+title: The Candy Crew Guild
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030929-Community_Goal___Setting_up_the_Candy_Shop.org][33030929-Community_Goal___Setting_up_the_Candy_Shop.org]]

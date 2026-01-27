@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c8cfb5a7-ad74-44ce-b8e7-8483ae371d6c
+:END:
+#+title: Er Longs Electronics Inc New
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020623-Galactic_News__Weekly_Democracy_Report.org][33020623-Galactic_News__Weekly_Democracy_Report.org]]

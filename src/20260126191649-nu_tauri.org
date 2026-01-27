@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c99f73e4-990a-4e3c-a258-96993e8f3926
+:END:
+#+title: Nu Tauri
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040119-Simbad_Regime_Campaign.org][33040119-Simbad_Regime_Campaign.org]]

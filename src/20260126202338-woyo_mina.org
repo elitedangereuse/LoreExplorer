@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ef397e0b-64c7-4a77-9ca3-67f0f2646072
+:END:
+#+title: Woyo Mina
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011204-A_Week_in_Powerplay.org][33011204-A_Week_in_Powerplay.org]]

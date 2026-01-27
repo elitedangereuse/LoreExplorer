@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       44acd831-8f12-4352-8230-7ff0c8bea6b0
+:END:
+#+title: Agassiz Settlement
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070729-Far_God_Megaship_Initiative_Concludes.org][33070729-Far_God_Megaship_Initiative_Concludes.org]]

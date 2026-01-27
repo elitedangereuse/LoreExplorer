@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b226d8f5-0e61-48d7-8578-f75833dfd440
+:END:
+#+title: Emperor's Grace Coalition
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020108-GalNet_Weekly_Conflict_Report.org][33020108-GalNet_Weekly_Conflict_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8cea75ef-5f73-4fb3-a1a2-b9f8fcfdb1fe
+:END:
+#+title: The Marlinist Constabulary
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070802-Marlinists_in_Crisis_After_Starport_Bombings.org][33070802-Marlinists_in_Crisis_After_Starport_Bombings.org]]

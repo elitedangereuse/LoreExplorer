@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       dfac7c0d-d6d4-4da4-8f48-4eaf3837cb6b
+:END:
+#+title: Kvenland Services HR
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021109-Galactic_News__Weekly_Health_Report.org][33021109-Galactic_News__Weekly_Health_Report.org]]

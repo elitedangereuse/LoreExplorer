@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0d565e94-aeaa-4089-b136-765611ff0529
+:END:
+#+title: Ballard Gateway
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020630-Community_Goal__Defending_Graill_Redd.org][33020630-Community_Goal__Defending_Graill_Redd.org]]

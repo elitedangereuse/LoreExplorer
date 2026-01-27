@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0aca9328-c062-42d8-8afa-3b6525e04985
+:END:
+#+title: Yorua Singer Orbital
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040518-Starport_Status_Update.org][33040518-Starport_Status_Update.org]]

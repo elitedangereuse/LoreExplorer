@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d660094c-a6f8-4aca-a85f-8fbd50f1f06f
+:END:
+#+title: Kuiper Mining Inc
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33041005-Further_Surveillance_Robots_Discovered.org][33041005-Further_Surveillance_Robots_Discovered.org]]

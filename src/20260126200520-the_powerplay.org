@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6476a3d1-0e67-4997-af24-7bc37ca8787e
+:END:
+#+title: The Powerplay
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020415-Powerplay__Weekly_Report.org][33020415-Powerplay__Weekly_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ab62a8ef-c49d-4b3f-8c51-fcdfec35bd3a
+:END:
+#+title: The Church
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040519-Fringe_Doomsayer_Cults_on_the_Rise.org][33040519-Fringe_Doomsayer_Cults_on_the_Rise.org]]

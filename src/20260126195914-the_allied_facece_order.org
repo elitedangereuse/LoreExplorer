@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9e56028e-16eb-4258-afac-5a3183e26546
+:END:
+#+title: The Allied Facece Order
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020702-Freelance_Report__The_Reclamation_of_Facece.org][33020702-Freelance_Report__The_Reclamation_of_Facece.org]]

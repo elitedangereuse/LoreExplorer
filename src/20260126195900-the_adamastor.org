@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3426c7a9-ea18-45f9-ab45-62214cac09a6
+:END:
+#+title: The Adamastor
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33061029-‘Ghost_Ship’_Arrives_in_Chukchan_System.org][33061029-‘Ghost_Ship’_Arrives_in_Chukchan_System.org]]

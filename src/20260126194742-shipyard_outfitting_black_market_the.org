@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1844e00c-a301-4676-825f-b1040fde8033
+:END:
+#+title: Shipyard Outfitting Black Market The
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010722-Cerberus_Plague_Shuts_Down_Station_Services.org][33010722-Cerberus_Plague_Shuts_Down_Station_Services.org]]

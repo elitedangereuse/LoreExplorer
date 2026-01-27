@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5fffab84-6b79-489c-a0bf-af003f1ab95f
+:END:
+#+title: Galactic Welfare Trust
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33051011-Food_Shortages_Spark_Civil_Unrest.org][33051011-Food_Shortages_Spark_Civil_Unrest.org]]

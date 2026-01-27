@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       aa4878bb-b42c-45b1-90d7-b5fd5be1b60b
+:END:
+#+title: Mbukuravi Regulatory State
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020830-Galactic_News__Weekly_Security_Report.org][33020830-Galactic_News__Weekly_Security_Report.org]]
