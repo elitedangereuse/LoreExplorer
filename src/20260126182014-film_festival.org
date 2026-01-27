@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f46349c0-b0da-4ab9-9a13-ef0b8c24388f
+:END:
+#+title: Film Festival
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050803-Controversy_at_Film_Festival.org][33050803-Controversy_at_Film_Festival.org]]

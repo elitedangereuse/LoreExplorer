@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       448f3eb4-5d10-4066-adb1-cf7b9aec8a2c
+:END:
+#+title: Calugen Elections
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011001-GalNet_Focus_on_Democracy.org][33011001-GalNet_Focus_on_Democracy.org]]

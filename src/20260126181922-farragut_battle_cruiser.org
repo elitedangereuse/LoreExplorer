@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8dc1b0e3-081a-42be-90d1-7f6ef319624d
+:END:
+#+title: Farragut Battle Cruiser
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010907-Core_Dynamics_Unveils_New_Gunship.org][33010907-Core_Dynamics_Unveils_New_Gunship.org]]

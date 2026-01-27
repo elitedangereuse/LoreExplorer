@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5714e63b-e3b1-4cf1-bc81-1272562d0ad1
+:END:
+#+title: Capitol In
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010724-Dignitaries_Start_Arriving_on_Capitol.org][33010724-Dignitaries_Start_Arriving_on_Capitol.org]]

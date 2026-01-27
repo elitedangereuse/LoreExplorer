@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c8485424-ead5-4b78-97a3-f034c96a1070
+:END:
+#+title: Commander Gan Utopia News Network
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020112-The_Worlds_Beyond.org][33020112-The_Worlds_Beyond.org]]

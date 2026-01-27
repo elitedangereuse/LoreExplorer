@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4530e6c1-2937-49d7-9d19-d47976f693f5
+:END:
+#+title: An Audience
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090623-An_Audience_with_the_Preceptor.org][33090623-An_Audience_with_the_Preceptor.org]]

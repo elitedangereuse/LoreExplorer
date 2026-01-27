@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e121efcf-619e-448c-9717-3bcad9e94e65
+:END:
+#+title: Gunpowder Plot
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011105-Epsilon_Indi_Hosts_Summit_Conference.org][33011105-Epsilon_Indi_Hosts_Summit_Conference.org]]

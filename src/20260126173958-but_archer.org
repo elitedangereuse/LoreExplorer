@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ac1ffd21-d179-41dd-8766-aea193ebce0a
+:END:
+#+title: But Archer
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33091012-Sol_Celebrations_End_as_Election_Begins.org][33091012-Sol_Celebrations_End_as_Election_Begins.org]]

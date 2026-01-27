@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d024e373-8b84-405f-ae9a-0ca6e04f8423
+:END:
+#+title: Although Romero
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050503-Docked_Ship_Thief_Identified.org][33050503-Docked_Ship_Thief_Identified.org]]

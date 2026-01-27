@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       af8a01c7-e7b2-4938-bbbd-8b7235ecfaf7
+:END:
+#+title: Purple Central
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030109-Galactic_News__Weekly_Economic_Report.org][33030109-Galactic_News__Weekly_Economic_Report.org]]

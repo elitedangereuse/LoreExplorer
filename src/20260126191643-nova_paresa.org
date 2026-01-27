@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       06914404-453a-4cd7-b5a3-37887c0bf41e
+:END:
+#+title: Nova Paresa
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33071102-Hadrian_Duval_Accepts_Senate_Protection.org][33071102-Hadrian_Duval_Accepts_Senate_Protection.org]]

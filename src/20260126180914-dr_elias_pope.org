@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d025b390-95ec-490a-b133-d68bd61e95de
+:END:
+#+title: Dr Elias Pope
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33081121-The_Coming_of_Taranis.org][33081121-The_Coming_of_Taranis.org]]

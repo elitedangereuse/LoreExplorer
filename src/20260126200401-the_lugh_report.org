@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e40582e7-f8d0-40d8-a176-bc3841d37780
+:END:
+#+title: The Lugh Report
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010316-The_Lugh_Report.org][33010316-The_Lugh_Report.org]]

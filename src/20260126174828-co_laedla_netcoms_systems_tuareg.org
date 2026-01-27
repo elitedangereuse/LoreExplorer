@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       455fb060-15f6-439d-bada-692e8345d56c
+:END:
+#+title: Co Laedla Netcoms Systems Tuareg
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010814-GalNet_Weekly_Conflict_Report.org][33010814-GalNet_Weekly_Conflict_Report.org]]

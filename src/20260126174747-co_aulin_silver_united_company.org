@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5e072fde-7c4b-4d24-aebf-727e31eb8c1b
+:END:
+#+title: Co Aulin Silver United Company
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020607-Galactic_News__Weekly_Security_Report.org][33020607-Galactic_News__Weekly_Security_Report.org]]

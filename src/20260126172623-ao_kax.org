@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9f740a9e-db65-48a1-a1ad-fc9f06431132
+:END:
+#+title: Ao Kax
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020318-Powerplay__Weekly_Report.org][33020318-Powerplay__Weekly_Report.org]]

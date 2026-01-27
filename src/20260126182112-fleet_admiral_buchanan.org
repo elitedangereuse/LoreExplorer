@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6fe1f416-9d36-4d79-8703-33e2dfa30279
+:END:
+#+title: Fleet Admiral Buchanan
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040517-Alliance_Admiral_Murdered_by_League_of_Reparation.org][33040517-Alliance_Admiral_Murdered_by_League_of_Reparation.org]]

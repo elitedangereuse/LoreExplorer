@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c0102ff4-ad81-476f-8c89-4f4bccccfa02
+:END:
+#+title: Ramon Lamor
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010708-Ambitious_Plans_for_Carns.org][33010708-Ambitious_Plans_for_Carns.org]]

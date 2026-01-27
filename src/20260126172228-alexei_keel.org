@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0c7a2be4-67ce-4e47-ada4-7101f44876c6
+:END:
+#+title: Alexei Keel
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050323-Survivor_Found_at_Far_God_Outpost.org][33050323-Survivor_Found_at_Far_God_Outpost.org]]

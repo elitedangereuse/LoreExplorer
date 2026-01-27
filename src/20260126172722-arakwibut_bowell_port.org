@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b02b5d4b-2262-4b3f-8748-aeef2c5a4fa7
+:END:
+#+title: Arakwibut Bowell Port
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030314-Galactic_News__Starport_Status_Update.org][33030314-Galactic_News__Starport_Status_Update.org]]

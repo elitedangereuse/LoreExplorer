@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1f681a80-27c7-414b-8e2a-415130a51570
+:END:
+#+title: Blue Travel Commodities Priva Industry
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030503-Galactic_News__Weekly_Security_Report.org][33030503-Galactic_News__Weekly_Security_Report.org]]

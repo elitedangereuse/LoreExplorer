@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9d4c0c0f-1081-4fe7-964b-5fc46b7576c0
+:END:
+#+title: Tenth Chapter
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33041010-Survivors_of_the_Far_God.org][33041010-Survivors_of_the_Far_God.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1451d3d5-cf2b-4dd6-b527-7e6213bda1a3
+:END:
+#+title: Tsu Legal Network Pongo Regulatory
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010922-GalNet_Weekly_Security_Digest.org][33010922-GalNet_Weekly_Security_Digest.org]]

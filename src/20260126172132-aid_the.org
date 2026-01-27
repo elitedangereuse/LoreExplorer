@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3d3d2697-5e44-44aa-b8dc-8cf541c1cb59
+:END:
+#+title: Aid The
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010812-Apalar_System_Calls_for_Aid.org][33010812-Apalar_System_Calls_for_Aid.org]]

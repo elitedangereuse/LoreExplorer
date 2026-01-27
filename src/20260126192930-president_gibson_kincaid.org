@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       daee0f55-50f0-4dce-a50b-3a741894765b
+:END:
+#+title: President Gibson Kincaid
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040907-Alliance_Presidential_Gala.org][33040907-Alliance_Presidential_Gala.org]]

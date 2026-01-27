@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1ec8d8af-abbe-45a5-a93c-d9d3a40bc7e4
+:END:
+#+title: Watson Settlement
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020519-Community_Goal__The_Battle_for_Neits.org][33020519-Community_Goal__The_Battle_for_Neits.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9ca1cafd-04db-4746-997d-46c27b98494c
+:END:
+#+title: Bakas Silver Netcoms Org Qahat
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020206-Galactic_News__Weekly_Expansion_List.org][33020206-Galactic_News__Weekly_Expansion_List.org]]

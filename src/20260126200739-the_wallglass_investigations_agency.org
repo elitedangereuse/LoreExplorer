@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6ba1b7d2-6b20-4d56-b4a9-dd9a911ceb73
+:END:
+#+title: The Wallglass Investigations Agency
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33071122-Crime_Wave_Raises_Security_Concerns.org][33071122-Crime_Wave_Raises_Security_Concerns.org]]

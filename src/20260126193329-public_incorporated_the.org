@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2b14af48-9ea4-4feb-8c52-9ea429856583
+:END:
+#+title: Public Incorporated The
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020104-GalNet_Weekly_Economic_Report.org][33020104-GalNet_Weekly_Economic_Report.org]]

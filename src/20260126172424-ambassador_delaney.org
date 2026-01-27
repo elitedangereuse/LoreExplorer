@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bee78103-a819-43fb-8cc5-4d977997841f
+:END:
+#+title: Ambassador Delaney
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021026-Galactic_News__Loren_Trial_Begins.org][33021026-Galactic_News__Loren_Trial_Begins.org]]

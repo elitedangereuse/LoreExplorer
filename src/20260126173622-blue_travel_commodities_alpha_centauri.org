@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c227c8f4-a486-47fe-9784-3d7cdd9e1ee6
+:END:
+#+title: Blue Travel Commodities Alpha Centauri
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030117-Galactic_News__Weekly_Security_Report.org][33030117-Galactic_News__Weekly_Security_Report.org]]

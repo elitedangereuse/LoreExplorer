@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5da037bf-1ce9-4f7a-82c0-35e1e4dd481b
+:END:
+#+title: Rescue Ship Cornwallis
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3310/33100919-Thargoid_Fleet_Invades_Shinrarta_Dezhra.org][33100919-Thargoid_Fleet_Invades_Shinrarta_Dezhra.org]]

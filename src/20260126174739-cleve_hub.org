@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       73f48cd0-5147-40b5-8271-3ca3c1514891
+:END:
+#+title: Cleve Hub
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030630-Community_Goal__A_Safe_Haven.org][33030630-Community_Goal__A_Safe_Haven.org]]

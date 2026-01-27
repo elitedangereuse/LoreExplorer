@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9798b912-38aa-466b-912f-8ebd668ddcf3
+:END:
+#+title: Mitchell Hangar
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050103-Supplies_for_Federal_and_Imperial_Navies.org][33050103-Supplies_for_Federal_and_Imperial_Navies.org]]

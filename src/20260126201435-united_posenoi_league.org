@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       632fac00-4976-4618-8e19-a02c453da9a8
+:END:
+#+title: United Posenoi League
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070913-Rebellion_Spreads_Through_the_Federation.org][33070913-Rebellion_Spreads_Through_the_Federation.org]]

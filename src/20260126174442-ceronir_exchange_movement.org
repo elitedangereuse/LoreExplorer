@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e3f5be89-7fde-4e46-a0da-a8abc1f680d3
+:END:
+#+title: Ceronir Exchange Movement
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011105-GalNet_Focus_on_Democracy.org][33011105-GalNet_Focus_on_Democracy.org]]

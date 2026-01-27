@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       37ac1b83-10bb-4c03-bc9f-05034162942f
+:END:
+#+title: Feeding California
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33031110-Community_Goal__Feeding_California.org][33031110-Community_Goal__Feeding_California.org]]

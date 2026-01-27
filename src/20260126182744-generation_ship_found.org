@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9913e410-360d-454d-a08b-30246d09409c
+:END:
+#+title: Generation Ship Found
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030430-Galactic_News__Generation_Ship_Found.org][33030430-Galactic_News__Generation_Ship_Found.org]]

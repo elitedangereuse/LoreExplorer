@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       71d33abd-841f-4fd8-bc60-b9e80bf91c49
+:END:
+#+title: Redi Gateway
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040829-Starport_Status_Update.org][33040829-Starport_Status_Update.org]]

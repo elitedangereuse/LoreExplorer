@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       178eb303-8b53-4657-91ff-f2a2197cc219
+:END:
+#+title: Grovichun Gold Netcoms Inc Lockdowns
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010929-GalNet_Weekly_Security_Digest.org][33010929-GalNet_Weekly_Security_Digest.org]]

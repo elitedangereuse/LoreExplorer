@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e8c3a6a5-99fb-44b9-b9e2-6dc2961a99c1
+:END:
+#+title: Haack Gateway
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020120-More_Starports_Fall_Victim_to_Technological_Plague.org][33020120-More_Starports_Fall_Victim_to_Technological_Plague.org]]

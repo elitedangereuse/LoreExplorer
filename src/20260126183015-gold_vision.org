@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3af46d3f-9164-4894-bedb-f9bd6eedaad6
+:END:
+#+title: Gold Vision
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010320-The_Union_of_Eta_Draconis_Falls_to_Force.org][33010320-The_Union_of_Eta_Draconis_Falls_to_Force.org]]

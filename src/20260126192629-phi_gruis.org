@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       26e49a86-2e21-45bf-b4ac-c6607be73cf7
+:END:
+#+title: Phi Gruis
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030503-Galactic_News__Weekly_Security_Report.org][33030503-Galactic_News__Weekly_Security_Report.org]]

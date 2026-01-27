@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c87fe2ec-6521-48cf-9b13-1ef48ca8d882
+:END:
+#+title: Colony Labour
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010825-GalNet_Weekly_Security_Digest.org][33010825-GalNet_Weekly_Security_Digest.org]]

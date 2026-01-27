@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       46a88be1-c672-4e61-b441-d49eb3840b79
+:END:
+#+title: Pegasi Sector Historically
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010824-Federal_and_Imperial_Diplomats_Discuss_the_Pegasi_Sector.org][33010824-Federal_and_Imperial_Diplomats_Discuss_the_Pegasi_Sector.org]]

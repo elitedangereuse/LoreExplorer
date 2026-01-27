@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a793e25d-e581-4442-a933-cd9bd2c55ff1
+:END:
+#+title: Gods Yarrite Corp
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020610-Galactic_News__Weekly_Conflict_Report.org][33020610-Galactic_News__Weekly_Conflict_Report.org]]

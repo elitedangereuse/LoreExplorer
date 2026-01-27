@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       fd897f92-3c1d-4649-ac1f-105310271c43
+:END:
+#+title: Captain Castile
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070325-ACT_Requests_Help_to_Locate_Missing_Agent.org][33070325-ACT_Requests_Help_to_Locate_Missing_Agent.org]]

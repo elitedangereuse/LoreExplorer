@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8deb66ae-790b-40c2-b1df-22d89f9d7944
+:END:
+#+title: Brothers Cartel
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021012-Galactic_News__Weekly_Health_Report.org][33021012-Galactic_News__Weekly_Health_Report.org]]

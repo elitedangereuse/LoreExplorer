@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ce7624bb-d514-4b8c-9df9-84b92f9f894c
+:END:
+#+title: Bootis Democrats Elections
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030428-Galactic_News__Weekly_Democracy_Report.org][33030428-Galactic_News__Weekly_Democracy_Report.org]]

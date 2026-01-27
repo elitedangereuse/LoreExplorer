@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0b6eefae-e2b6-42ae-b526-35974ec58bb2
+:END:
+#+title: Labour Anali Ltd Vaccae Silver
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020621-Galactic_News__Weekly_Security_Report.org][33020621-Galactic_News__Weekly_Security_Report.org]]

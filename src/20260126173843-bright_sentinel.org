@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       992fb094-2e68-461f-a285-7ee2a0f20d7c
+:END:
+#+title: Bright Sentinel
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070922-Salvation_Takes_Credit_for_Repelling_Thargoids.org][33070922-Salvation_Takes_Credit_for_Repelling_Thargoids.org]]

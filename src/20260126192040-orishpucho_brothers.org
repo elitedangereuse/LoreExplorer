@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b6bf1bfc-ca20-4385-95d7-c586d3d1ee32
+:END:
+#+title: Orishpucho Brothers
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010915-GalNet_Weekly_Security_Digest.org][33010915-GalNet_Weekly_Security_Digest.org]]

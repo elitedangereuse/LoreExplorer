@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       581ad98b-03a4-48ae-baf8-fa6c9bbdfc01
+:END:
+#+title: Principles Bureau
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030111-Galactic_News__Weekly_Health_Report.org][33030111-Galactic_News__Weekly_Health_Report.org]]

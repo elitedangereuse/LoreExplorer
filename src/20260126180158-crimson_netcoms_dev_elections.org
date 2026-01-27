@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7bfb6e45-2857-473e-9634-30e8c8b3def4
+:END:
+#+title: Crimson Netcoms Dev Elections
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030505-Galactic_News__Weekly_Democracy_Report.org][33030505-Galactic_News__Weekly_Democracy_Report.org]]

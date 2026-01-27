@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       20d13f1f-0657-4d55-95b7-e7dfc3c7cfc0
+:END:
+#+title: Gang Kwatiles Purple Electronics Ind
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030802-Galactic_News__Weekly_Security_Report.org][33030802-Galactic_News__Weekly_Security_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7294508c-888f-467f-a390-b35b517bcfd5
+:END:
+#+title: Hudson Observatory
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33031223-Galactic_News__More_Starports_Attacked.org][33031223-Galactic_News__More_Starports_Attacked.org]]

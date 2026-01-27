@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b82713dd-3073-4ef5-aa58-f703b43d43fe
+:END:
+#+title: Devata Baru Schilling Dock
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030314-Galactic_News__Starport_Status_Update.org][33030314-Galactic_News__Starport_Status_Update.org]]

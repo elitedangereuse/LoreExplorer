@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a30814cc-6a8e-40ab-ae4c-a4e5785e7ed5
+:END:
+#+title: Tavgi Mitzi's Den
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030630-Galactic_News__Starport_Status_Update.org][33030630-Galactic_News__Starport_Status_Update.org]]

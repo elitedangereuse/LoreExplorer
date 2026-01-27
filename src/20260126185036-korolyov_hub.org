@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e5c74d79-cbc0-41d6-b9d6-47df4ee6cc0e
+:END:
+#+title: Korolyov Hub
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011125-Services_Suspended_at_Gaiman_Dock_and_Weyn_Dock.org][33011125-Services_Suspended_at_Gaiman_Dock_and_Weyn_Dock.org]]

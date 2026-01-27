@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       18f327aa-bd6a-4352-8e1b-203c43ec0dd1
+:END:
+#+title: Prison Colony HR
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020917-Galactic_News__Weekly_Expansion_Report.org][33020917-Galactic_News__Weekly_Expansion_Report.org]]

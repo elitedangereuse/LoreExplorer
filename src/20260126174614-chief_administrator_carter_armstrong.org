@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0e6ad1ab-3437-4395-9da3-d9c454d7f0bd
+:END:
+#+title: Chief Administrator Carter Armstrong
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080118-Superpowers_Plan_to_Replace_Aegis.org][33080118-Superpowers_Plan_to_Replace_Aegis.org]]

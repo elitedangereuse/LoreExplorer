@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c8e0c293-2914-4a55-a4e0-f589d17a516c
+:END:
+#+title: Core Enterprises
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070610-Core_Dynamics_Triumphs_Against_Jupiter_Division.org][33070610-Core_Dynamics_Triumphs_Against_Jupiter_Division.org]]

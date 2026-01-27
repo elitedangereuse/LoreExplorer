@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ca482f74-e3dd-4bba-a9e7-178eea937460
+:END:
+#+title: Simpson Depot
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010403-A_Light_in_the_Dark.org][33010403-A_Light_in_the_Dark.org]]

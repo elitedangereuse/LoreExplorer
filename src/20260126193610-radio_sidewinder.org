@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c32d9d3a-5b60-4339-97f8-5ad05041874f
+:END:
+#+title: Radio Sidewinder
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020322-Freelance_Report__Diplomatic_Summit_in_Alioth.org][33020322-Freelance_Report__Diplomatic_Summit_in_Alioth.org]]

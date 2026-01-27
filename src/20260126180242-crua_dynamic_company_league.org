@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0b80aa9a-c63c-4571-a905-6ac6618a29cb
+:END:
+#+title: Crua Dynamic Company League
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021027-Galactic_News__Weekly_Democracy_Report.org][33021027-Galactic_News__Weekly_Democracy_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e2c14af0-ed5a-4adc-a7c9-e1764f39c063
+:END:
+#+title: Manatee Megaship Initiative
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040913-Manatee_Megaship_Initiative.org][33040913-Manatee_Megaship_Initiative.org]]

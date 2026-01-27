@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a9de51f1-c86f-4b1e-9f77-f6d1488d7b11
+:END:
+#+title: Blue Natural Corp
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020621-Galactic_News__Weekly_Security_Report.org][33020621-Galactic_News__Weekly_Security_Report.org]]

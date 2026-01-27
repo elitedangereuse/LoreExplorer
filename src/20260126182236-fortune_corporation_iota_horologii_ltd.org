@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5a35f395-16ca-4beb-94bb-4ed883ca9e57
+:END:
+#+title: Fortune Corporation Iota Horologii Ltd
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020126-Galactic_News__Weekly_Security_Digest.org][33020126-Galactic_News__Weekly_Security_Digest.org]]

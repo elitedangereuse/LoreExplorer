@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1f1e65c0-7f37-4ec5-8c9c-7ac08ad42f09
+:END:
+#+title: Liberal Parties
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33061208-Marlinist_Refugee_Crisis_Grows_Critical.org][33061208-Marlinist_Refugee_Crisis_Grows_Critical.org]]

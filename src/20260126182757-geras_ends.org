@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       33748f05-3ee8-4d6e-83af-223dfbdbe42d
+:END:
+#+title: Geras Ends
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33041108-Conflict_in_Geras_Ends.org][33041108-Conflict_in_Geras_Ends.org]]

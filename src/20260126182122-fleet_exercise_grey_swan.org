@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9d5c4d23-9b09-447f-bad6-e3ecade1ef24
+:END:
+#+title: Fleet Exercise Grey Swan
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33091026-Mysterious_Phenomenon_Triggers_Violent_Attacks.org][33091026-Mysterious_Phenomenon_Triggers_Violent_Attacks.org]]

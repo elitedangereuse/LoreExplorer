@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       12db2b34-b4c2-42f7-928d-d4a0c44040f3
+:END:
+#+title: Industries Leaders
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010710-GalNet_Weekly_Conflict_Report.org][33010710-GalNet_Weekly_Conflict_Report.org]]

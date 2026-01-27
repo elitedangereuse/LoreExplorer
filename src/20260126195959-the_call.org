@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       374f1308-29aa-4e9e-9990-c155400cd192
+:END:
+#+title: The Call
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33081025-The_Call_for_Unity.org][33081025-The_Call_for_Unity.org]]

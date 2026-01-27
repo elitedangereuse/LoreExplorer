@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       11211b69-9b7e-4794-a454-4d47108bbf37
+:END:
+#+title: Crimson Exchange
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070430-Kumo_Crew_Starports_Open_for_Business.org][33070430-Kumo_Crew_Starports_Open_for_Business.org]]

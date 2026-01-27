@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1f737646-f42b-4db6-85b5-263cd0df561b
+:END:
+#+title: Emperor. The Princess
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010408-In_the_Emperor’s_Name.org][33010408-In_the_Emperor’s_Name.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       319c3ddd-15a7-4bc2-a40a-e252b452df03
+:END:
+#+title: Brady City
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040802-Starport_Status_Update.org][33040802-Starport_Status_Update.org]]

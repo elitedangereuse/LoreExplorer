@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       524f1de7-50f2-4160-93c6-047cbe03a85e
+:END:
+#+title: Fort Lawrence
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040518-Starport_Status_Update.org][33040518-Starport_Status_Update.org]]

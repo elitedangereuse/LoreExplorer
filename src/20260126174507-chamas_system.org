@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       abc25f4c-95a8-40cc-92ac-402fd88d7dc8
+:END:
+#+title: Chamas System
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050815-Food_Delivery_Initiative_in_the_Chamas_System.org][33050815-Food_Delivery_Initiative_in_the_Chamas_System.org]]

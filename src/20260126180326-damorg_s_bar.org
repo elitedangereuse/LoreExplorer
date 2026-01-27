@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8ae03911-976b-421b-bfd6-b7c380111e65
+:END:
+#+title: DaMorg's Bar
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040126-A_Vintage_to_Remember.org][33040126-A_Vintage_to_Remember.org]]

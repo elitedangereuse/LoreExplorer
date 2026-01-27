@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       692627ed-c368-4591-ad6c-aae02f085abb
+:END:
+#+title: Commander Manfred Winfred
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020129-Freelance_Report__Conflict_Erupts_at_Obsidian_Orbital.org][33020129-Freelance_Report__Conflict_Erupts_at_Obsidian_Orbital.org]]

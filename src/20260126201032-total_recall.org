@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5fd139a6-88c5-4c04-a27c-be1ccd419e5d
+:END:
+#+title: Total Recall
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020330-Freelance_Report__Buckyball_Racing_Club_Announces_Total_Recall_Event.org][33020330-Freelance_Report__Buckyball_Racing_Club_Announces_Total_Recall_Event.org]]

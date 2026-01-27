@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       81a1a0c4-2a37-434a-b910-ff08908f75f0
+:END:
+#+title: Colonia Dream
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030414-Community_Goal__Colonia_Resource_Drive.org][33030414-Community_Goal__Colonia_Resource_Drive.org]]

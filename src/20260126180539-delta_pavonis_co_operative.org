@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3a49638f-1da1-403b-8b8d-14e893784a7e
+:END:
+#+title: Delta Pavonis Co-operative
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030121-Galactic_News__Weekly_Expansion_Report.org][33030121-Galactic_News__Weekly_Expansion_Report.org]]

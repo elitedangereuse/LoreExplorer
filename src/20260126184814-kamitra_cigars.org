@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       62b02c19-9c18-4cbc-b7a4-c490f7fd5e5f
+:END:
+#+title: Kamitra Cigars
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030519-Community_Goal__Zeus_Bureau_Appeal.org][33030519-Community_Goal__Zeus_Bureau_Appeal.org]]

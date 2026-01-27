@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bec3191a-12c5-43b0-a15e-191dcb3ec7d4
+:END:
+#+title: Antares Wreckage
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020113-Sirius_Corporation_Confirms_Discovery_of_Antares_Wreckage.org][33020113-Sirius_Corporation_Confirms_Discovery_of_Antares_Wreckage.org]]

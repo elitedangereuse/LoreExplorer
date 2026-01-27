@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d5c87d39-cb32-478d-8b94-66c08c0839c9
+:END:
+#+title: Cairne Litke Mines
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030511-Galactic_News__Starport_Status_Update.org][33030511-Galactic_News__Starport_Status_Update.org]]

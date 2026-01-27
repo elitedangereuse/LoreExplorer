@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d5fa9bde-0578-41c5-94fa-3f4239a1a0b3
+:END:
+#+title: Company Li Jungu Dominion People's
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020503-Galactic_News__Weekly_Security_Report.org][33020503-Galactic_News__Weekly_Security_Report.org]]

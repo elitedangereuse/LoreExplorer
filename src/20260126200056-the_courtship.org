@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       88b84ee3-e61b-49f2-a169-600cf64888dd
+:END:
+#+title: The Courtship
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040526-The_Courtship_of_Aisling_Duval.org][33040526-The_Courtship_of_Aisling_Duval.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       312d0cd5-1815-4224-90e2-978c7cdbd2fc
+:END:
+#+title: Advanced Multi-cannon
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050523-Corporations_Clash_in_Guardian_Space.org][33050523-Corporations_Clash_in_Guardian_Space.org]]

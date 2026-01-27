@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       45d60f1f-3a5d-468d-aeae-1d8dce122f31
+:END:
+#+title: Canda When
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030727-Galactic_News__Weekly_Health_Report.org][33030727-Galactic_News__Weekly_Health_Report.org]]

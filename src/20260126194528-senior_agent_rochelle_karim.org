@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0d142b57-b915-401a-94d5-a8e9b01bce7c
+:END:
+#+title: Senior Agent Rochelle Karim
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050208-Secret_Research_Outpost_Attacked.org][33050208-Secret_Research_Outpost_Attacked.org]]

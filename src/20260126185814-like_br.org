@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c9bf03ab-7aeb-4b20-a87e-1c62971c0dda
+:END:
+#+title: Like Br
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010715-Origins_of_the_Velites_Squadron.org][33010715-Origins_of_the_Velites_Squadron.org]]

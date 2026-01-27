@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       27fe0b19-8703-45d7-8617-2282be86cab4
+:END:
+#+title: Consulate Movement
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020430-Galactic_News__Weekly_Expansion_Report.org][33020430-Galactic_News__Weekly_Expansion_Report.org]]

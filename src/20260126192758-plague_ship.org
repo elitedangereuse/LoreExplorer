@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b5ed9610-b45e-4bc8-8f00-6c582613cfa9
+:END:
+#+title: Plague Ship
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070524-Federation_Refuses_Entry_to_‘Plague_Ship’.org][33070524-Federation_Refuses_Entry_to_‘Plague_Ship’.org]]

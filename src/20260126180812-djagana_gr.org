@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       77ebdd46-1316-41ba-81b7-1eed30d78732
+:END:
+#+title: Djagana GR
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030507-Galactic_News__Weekly_Expansion_Report.org][33030507-Galactic_News__Weekly_Expansion_Report.org]]

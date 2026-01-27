@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d10a7a24-16c7-44b6-8e8a-84230e6398c7
+:END:
+#+title: New Capital Ship
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010311-Core_Dynamics_Completes_Work_on_New_Capital_Ship.org][33010311-Core_Dynamics_Completes_Work_on_New_Capital_Ship.org]]

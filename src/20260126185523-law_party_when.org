@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f18b8dd7-25fd-462e-9eca-fa6ab9efb874
+:END:
+#+title: Law Party When
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021025-Galactic_News__Weekly_Security_Report.org][33021025-Galactic_News__Weekly_Security_Report.org]]

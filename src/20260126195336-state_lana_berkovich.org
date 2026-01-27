@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ed26b0e8-424b-451a-a739-9ff19842d6a6
+:END:
+#+title: State Lana Berkovich
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080204-Hudson_Attempts_to_Remove_Presidential_Limit.org][33080204-Hudson_Attempts_to_Remove_Presidential_Limit.org]]

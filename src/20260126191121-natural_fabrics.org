@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e5a9bf9c-0952-41c7-9c85-8e256f3e3664
+:END:
+#+title: Natural Fabrics
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030330-Community_Goal__Halsey_Requests_Relief.org][33030330-Community_Goal__Halsey_Requests_Relief.org]]

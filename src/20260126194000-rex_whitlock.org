@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3b7b2393-22c7-49e2-9c95-d6566855fd9b
+:END:
+#+title: Rex Whitlock
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050918-Rockforth_Corporation_Reveals_New_Fertiliser.org][33050918-Rockforth_Corporation_Reveals_New_Fertiliser.org]]

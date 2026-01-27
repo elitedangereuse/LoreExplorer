@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       63569c67-f2fd-4e32-9d26-b62d570401cd
+:END:
+#+title: Ltd Grovichun Gold Netcoms Inc
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011124-GalNet_Weekly_Security_Digest.org][33011124-GalNet_Weekly_Security_Digest.org]]

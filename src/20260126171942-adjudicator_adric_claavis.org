@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c9ba041e-a498-4e03-9bcc-1414a7704924
+:END:
+#+title: Adjudicator Adric Claavis
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010922-Shelter_from_the_Storm.org][33010922-Shelter_from_the_Storm.org]]

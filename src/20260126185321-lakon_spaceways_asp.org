@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       cf43697a-3566-4fa5-b34c-d7a6a0db5475
+:END:
+#+title: Lakon Spaceways Asp
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010522-Pilot_Breaks_Galactic_Record_Twice.org][33010522-Pilot_Breaks_Galactic_Record_Twice.org]]

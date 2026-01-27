@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b14c1b4c-f151-4e34-b357-c3aeef1bd471
+:END:
+#+title: Farragut Mystery
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020315-Freelance_Report__Federal_Investigation_into_Farragut_Mystery.org][33020315-Freelance_Report__Federal_Investigation_into_Farragut_Mystery.org]]

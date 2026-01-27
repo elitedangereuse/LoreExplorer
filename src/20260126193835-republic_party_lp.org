@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f7ab147c-3483-4fa8-b61c-de5fb235b2eb
+:END:
+#+title: Republic Party LP
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020520-Galactic_News__Weekly_Conflict_Report.org][33020520-Galactic_News__Weekly_Conflict_Report.org]]

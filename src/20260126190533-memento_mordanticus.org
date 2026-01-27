@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9e8b8ebb-7cc9-49fa-ab78-0382c23b4327
+:END:
+#+title: Memento Mordanticus
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050131-The_New_Imperator.org][33050131-The_New_Imperator.org]]

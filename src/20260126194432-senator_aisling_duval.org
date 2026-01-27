@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       40e65fd0-3e6e-460b-a6b8-53eff98c3c91
+:END:
+#+title: Senator Aisling Duval
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011120-A_Week_in_Powerplay.org][33011120-A_Week_in_Powerplay.org]]

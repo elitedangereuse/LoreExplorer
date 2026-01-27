@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       908fe122-c4cb-4577-84b2-38026c9f9de5
+:END:
+#+title: The Science
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010623-The_Science_of_a_Safer_Society.org][33010623-The_Science_of_a_Safer_Society.org]]

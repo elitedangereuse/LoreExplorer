@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1fef6d74-ccae-4db6-a72d-09bc08b60315
+:END:
+#+title: Commander Chiggy Vonrictofen
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021126-Freelance_Report__Guardian_Archangel.org][33021126-Freelance_Report__Guardian_Archangel.org]]

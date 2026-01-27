@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e7fe5c33-187c-4f58-b0f1-f525f53effd7
+:END:
+#+title: Watha Asgaa Svent Any
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010806-Further_Outbreaks_of_Cerberus_Plague.org][33010806-Further_Outbreaks_of_Cerberus_Plague.org]]

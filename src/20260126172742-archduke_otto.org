@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b9a57676-38c0-4ea8-8156-b51ff3b04f96
+:END:
+#+title: Archduke Otto
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090825-Deliveries_Requested_to_Commemorate_Duval_Family.org][33090825-Deliveries_Requested_to_Commemorate_Duval_Family.org]]

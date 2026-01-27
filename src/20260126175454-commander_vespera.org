@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4275fb0a-2cf9-4201-9646-97bb5ace5731
+:END:
+#+title: Commander Vespera
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020514-Freelance_Report__Distant_Worlds_Flagship_Anticipates_Jaques'_Arrival.org][33020514-Freelance_Report__Distant_Worlds_Flagship_Anticipates_Jaques'_Arrival.org]]

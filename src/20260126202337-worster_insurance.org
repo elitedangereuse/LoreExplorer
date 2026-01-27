@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       66eeabbe-08b4-4d52-96d4-4bfd36f2d1b0
+:END:
+#+title: Worster Insurance
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010410-Exphiay_Entertains_Shadow_President.org][33010410-Exphiay_Entertains_Shadow_President.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       84428823-1658-4651-82b6-0232dd660b97
+:END:
+#+title: Meene Young Station
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040720-Starport_Status_Update.org][33040720-Starport_Status_Update.org]]

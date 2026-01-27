@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a2f7deea-222d-414b-8552-9c3854551ca1
+:END:
+#+title: The Forester
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080617-A_Renewed_Journey_for_the_Golconda.org][33080617-A_Renewed_Journey_for_the_Golconda.org]]

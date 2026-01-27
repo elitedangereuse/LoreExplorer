@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1066f0f1-fb72-4f6e-a0ba-a3991032f3f4
+:END:
+#+title: Brestla Kooi Gateway
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030202-Galactic_News__Starport_Status_Update.org][33030202-Galactic_News__Starport_Status_Update.org]]

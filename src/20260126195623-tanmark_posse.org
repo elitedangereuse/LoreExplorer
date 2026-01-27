@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       38e29fad-ce0f-4bcb-984c-8ec407245925
+:END:
+#+title: Tanmark Posse
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010303-Internal_Strife_Strikes_Tanmark.org][33010303-Internal_Strife_Strikes_Tanmark.org]]

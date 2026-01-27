@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       516e9950-ed4a-4f81-b364-b5fbcd4f837e
+:END:
+#+title: Titan Taranis Surrounded
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33091201-Titan_Taranis_Surrounded.org][33091201-Titan_Taranis_Surrounded.org]]

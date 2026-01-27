@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2c795246-07c6-4598-a117-3cef0a6f5bb9
+:END:
+#+title: Investigate Blight
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33051018-Superpowers_Collaborate_to_Investigate_Blight.org][33051018-Superpowers_Collaborate_to_Investigate_Blight.org]]

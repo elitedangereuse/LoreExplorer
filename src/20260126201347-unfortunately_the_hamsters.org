@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       80710d88-3530-4011-8ee9-28fa61be4e87
+:END:
+#+title: Unfortunately The Hamsters
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021202-Galactic_News__Amateurs_Partially_Decrypt_Signal.org][33021202-Galactic_News__Amateurs_Partially_Decrypt_Signal.org]]

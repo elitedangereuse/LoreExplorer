@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       32b80637-fc5b-42c3-9988-8ad0e600967d
+:END:
+#+title: Industries Mob
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030819-Galactic_News__Weekly_Conflict_Report.org][33030819-Galactic_News__Weekly_Conflict_Report.org]]

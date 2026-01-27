@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6d2cf077-f8a5-48db-8a03-3273698c0a29
+:END:
+#+title: Piran Langford Survey
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33031130-Galactic_News__Starport_Status_Update.org][33031130-Galactic_News__Starport_Status_Update.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5814c4ae-3063-45b7-aba2-2675db680a7a
+:END:
+#+title: The Aristocrats
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33091123-Mining_Campaign_in_LHS_3872_Concludes.org][33091123-Mining_Campaign_in_LHS_3872_Concludes.org]]

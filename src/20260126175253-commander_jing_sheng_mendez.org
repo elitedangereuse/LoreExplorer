@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       cc2952e1-d260-4ee9-be37-6db01cd354fd
+:END:
+#+title: Commander Jing-sheng Mendez
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040830-New_Thargoid_Interceptor_Encountered.org][33040830-New_Thargoid_Interceptor_Encountered.org]]

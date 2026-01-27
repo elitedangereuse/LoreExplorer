@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a253f0f1-b892-45d1-ba4e-87ca3a95eabd
+:END:
+#+title: Sopontet Fortune Corp
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010714-GalNet_Weekly_Security_Digest.org][33010714-GalNet_Weekly_Security_Digest.org]]

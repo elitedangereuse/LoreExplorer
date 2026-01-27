@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b97cbc5f-c223-4345-a0b6-6aff8151b35d
+:END:
+#+title: Bering Port
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33061126-Alliance_Consolidates_Presence_in_Coalsack_Nebula.org][33061126-Alliance_Consolidates_Presence_in_Coalsack_Nebula.org]]

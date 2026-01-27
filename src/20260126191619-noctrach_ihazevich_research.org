@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       fa6713c6-c181-442b-b88d-d1c38e22e3bc
+:END:
+#+title: Noctrach-Ihazevich Research
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021122-Freelance_Report__Taking_on_the_Aliens.org][33021122-Freelance_Report__Taking_on_the_Aliens.org]]

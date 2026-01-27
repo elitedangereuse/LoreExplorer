@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ccd2cc08-64ed-43bb-9be8-588eb73fbd92
+:END:
+#+title: Dalton Gateway
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030707-Galactic_News__Pilots_Federation_Initiative_Concludes.org][33030707-Galactic_News__Pilots_Federation_Initiative_Concludes.org]]

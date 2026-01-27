@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       34bd7cfe-117d-4cb4-89f9-806e08d30792
+:END:
+#+title: Values Party Anali Ltd Gondul
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021108-Galactic_News__Weekly_Security_Report.org][33021108-Galactic_News__Weekly_Security_Report.org]]

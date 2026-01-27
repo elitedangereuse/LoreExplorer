@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2fb600e9-72ee-430d-ba2e-b613ed738601
+:END:
+#+title: Systems Tamanka Jet Crew When
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020118-GalNet_Weekly_Economic_Report.org][33020118-GalNet_Weekly_Economic_Report.org]]

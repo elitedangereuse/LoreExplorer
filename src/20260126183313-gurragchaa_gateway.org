@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9ea0413e-fc65-4ad6-8b5f-e31e337c6513
+:END:
+#+title: Gurragchaa Gateway
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011016-Technical_Trouble_in_the_Warkushanui_System.org][33011016-Technical_Trouble_in_the_Warkushanui_System.org]]

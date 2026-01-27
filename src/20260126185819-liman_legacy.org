@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       36a65398-1211-4083-8a2b-79133286b5b2
+:END:
+#+title: Liman Legacy
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33031215-Galactic_News__Starports_Attacked_by_Thargoids.org][33031215-Galactic_News__Starports_Attacked_by_Thargoids.org]]

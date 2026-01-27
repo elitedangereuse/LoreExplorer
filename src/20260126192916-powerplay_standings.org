@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       96031c89-d3bb-4185-b674-c4e588992bc4
+:END:
+#+title: Powerplay Standings
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3310/33101120-Powerplay_Standings__November_3310.org][33101120-Powerplay_Standings__November_3310.org]]

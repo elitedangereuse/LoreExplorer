@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       22ea6f93-cc0b-4bbe-a41d-cca4b86a7231
+:END:
+#+title: Tarach Tor
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33031117-Community_Goal__Breakfast_at_Tranquillity.org][33031117-Community_Goal__Breakfast_at_Tranquillity.org]]

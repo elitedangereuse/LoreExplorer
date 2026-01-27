@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       42e2bfc0-a87f-4a10-befa-ef3d75662d3a
+:END:
+#+title: Merope Rix Depot
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33031202-Galactic_News__New_Aegis_Initiative.org][33031202-Galactic_News__New_Aegis_Initiative.org]]

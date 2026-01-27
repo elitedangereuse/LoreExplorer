@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ccd550cc-8bd4-47f7-a927-10bc489c86ac
+:END:
+#+title: Ridley Scott
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010502-Securing_the_Old_Worlds.org][33010502-Securing_the_Old_Worlds.org]]

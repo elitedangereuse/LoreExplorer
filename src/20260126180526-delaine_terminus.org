@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e59154e8-04d0-4749-bfd7-afda34eab646
+:END:
+#+title: Delaine Terminus
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070430-Kumo_Crew_Starports_Open_for_Business.org][33070430-Kumo_Crew_Starports_Open_for_Business.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f13ff571-5308-42c2-9be8-cea3e2bf5142
+:END:
+#+title: Hutton Orbital Truckers
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020112-The_Worlds_Beyond.org][33020112-The_Worlds_Beyond.org]]

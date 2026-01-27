@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d0228bbf-677c-4f7f-9092-323a8420f15f
+:END:
+#+title: Fragrant City
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010804-The_Eve_of_the_Wedding.org][33010804-The_Eve_of_the_Wedding.org]]

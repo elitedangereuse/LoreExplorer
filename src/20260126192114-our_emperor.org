@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6b08a1a8-e63f-4444-ab3c-b16b515d01b2
+:END:
+#+title: Our Emperor
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33081220-The_Voice_of_the_Empire.org][33081220-The_Voice_of_the_Empire.org]]

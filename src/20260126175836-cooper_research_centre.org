@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e73057bf-5d77-45f7-afe5-8ed8312356a0
+:END:
+#+title: Cooper Research Centre
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020526-Galactic_News__Alliance_Outpost_Established_in_HIP_19072.org][33020526-Galactic_News__Alliance_Outpost_Established_in_HIP_19072.org]]

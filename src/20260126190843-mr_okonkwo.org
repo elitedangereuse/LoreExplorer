@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1e186e09-114e-4e5a-8175-f239df9bed53
+:END:
+#+title: Mr Okonkwo
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040921-Inside_the_Far_God_Cult.org][33040921-Inside_the_Far_God_Cult.org]]

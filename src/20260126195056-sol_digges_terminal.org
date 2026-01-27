@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       31da3352-3ff4-4ee1-8837-f715d7b646d3
+:END:
+#+title: Sol Digges Terminal
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040712-Starport_Status_Update.org][33040712-Starport_Status_Update.org]]

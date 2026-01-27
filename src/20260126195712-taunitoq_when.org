@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0a302cd9-91c8-44a8-a4e6-240c0e8a660e
+:END:
+#+title: Taunitoq When
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030111-Galactic_News__Weekly_Health_Report.org][33030111-Galactic_News__Weekly_Health_Report.org]]

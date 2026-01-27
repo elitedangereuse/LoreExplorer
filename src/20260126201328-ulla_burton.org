@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0c9a0785-fa8f-455b-81f0-d0d583ea6352
+:END:
+#+title: Ulla Burton
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020907-Freelance_Report__Weird_Science.org][33020907-Freelance_Report__Weird_Science.org]]

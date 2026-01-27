@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5218c9b5-bca7-4982-8f6f-eb1c6cc83f01
+:END:
+#+title: The Reorte Pro-Alliance League
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080318-Alliance_Strives_to_Retain_Reorte.org][33080318-Alliance_Strives_to_Retain_Reorte.org]]

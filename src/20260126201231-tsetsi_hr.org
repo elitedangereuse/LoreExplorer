@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a9742458-e286-4314-aa44-0559507e7da2
+:END:
+#+title: Tsetsi HR
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011211-GalNet_Weekly_Conflict_Report.org][33011211-GalNet_Weekly_Conflict_Report.org]]

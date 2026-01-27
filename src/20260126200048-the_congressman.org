@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4082585d-d452-4880-9a86-fe68f7faefac
+:END:
+#+title: The Congressman
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010901-Core_Dynamics_has_Links_to_VP’s_Death_.org][33010901-Core_Dynamics_has_Links_to_VP’s_Death_.org]]

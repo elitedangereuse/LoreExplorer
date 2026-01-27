@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d12a6115-d2ff-421f-abfa-2475f067ae1a
+:END:
+#+title: Goldstein Port
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070121-Sirius_and_Utopia_Compete_to_Host_Galactic_Summit.org][33070121-Sirius_and_Utopia_Compete_to_Host_Galactic_Summit.org]]

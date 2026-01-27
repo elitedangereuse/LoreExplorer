@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8f23606a-81aa-4ae1-ab92-28a8d46ec573
+:END:
+#+title: Fugeniez Expansions
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030820-Galactic_News__Weekly_Expansion_Report.org][33030820-Galactic_News__Weekly_Expansion_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f1d88a56-6856-476b-9de0-5a3523167889
+:END:
+#+title: Commodore Morag Halloran
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33061112-Alliance_Launches_Coalsack_Nebula_Campaign.org][33061112-Alliance_Launches_Coalsack_Nebula_Campaign.org]]

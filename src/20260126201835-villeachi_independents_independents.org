@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4f7670e9-85c0-4657-ba00-7972b66a8a6c
+:END:
+#+title: Villeachi Independents Independents
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020227-Galactic_News__Weekly_Expansion_List.org][33020227-Galactic_News__Weekly_Expansion_List.org]]

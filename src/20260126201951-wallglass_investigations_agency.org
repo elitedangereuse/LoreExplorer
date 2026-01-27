@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5c0cbac0-db95-4aa3-bcac-33e83a2cb6ab
+:END:
+#+title: Wallglass Investigations Agency
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050215-Heiress_Confirmed_Missing.org][33050215-Heiress_Confirmed_Missing.org]]

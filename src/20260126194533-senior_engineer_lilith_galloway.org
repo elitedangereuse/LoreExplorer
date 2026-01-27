@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8de9fbc0-415e-42c7-9e05-f7be1a83bfad
+:END:
+#+title: Senior Engineer Lilith Galloway
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040622-Starports_Recover_from_Thargoid_Strikes.org][33040622-Starports_Recover_from_Thargoid_Strikes.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5e5c759f-fc70-4dbd-85e9-53bb5d0f450e
+:END:
+#+title: Tamar Blue Natural
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011006-GalNet_Weekly_Security_Digest.org][33011006-GalNet_Weekly_Security_Digest.org]]

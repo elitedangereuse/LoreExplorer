@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       602f18c3-05b0-4b73-826d-027be994a730
+:END:
+#+title: Interstellar Health Organisation's
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050117-Vitadyne_Nanomedicines_Gain_Legal_Approval.org][33050117-Vitadyne_Nanomedicines_Gain_Legal_Approval.org]]

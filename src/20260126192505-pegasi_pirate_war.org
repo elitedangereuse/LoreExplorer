@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a510e478-5bf3-462c-811a-af58f8766f96
+:END:
+#+title: Pegasi Pirate War
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010812-Pegasi_Pirate_War.org][33010812-Pegasi_Pirate_War.org]]

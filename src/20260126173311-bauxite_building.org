@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d4185e0b-82c7-4b22-8ec7-cf47691d12a8
+:END:
+#+title: Bauxite Building
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33061001-New_Starports_Become_Operational.org][33061001-New_Starports_Become_Operational.org]]

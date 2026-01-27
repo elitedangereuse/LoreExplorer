@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1cf87335-b6ef-4498-8d3c-a711ad41dbf9
+:END:
+#+title: Tamor Allied
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020426-Galactic_News__Weekly_Security_Report.org][33020426-Galactic_News__Weekly_Security_Report.org]]

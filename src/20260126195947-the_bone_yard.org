@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       30aa0ee3-9ad9-48b0-ae76-88405f1b755e
+:END:
+#+title: The Bone Yard
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030428-Galactic_News__Starport_Status_Update.org][33030428-Galactic_News__Starport_Status_Update.org]]

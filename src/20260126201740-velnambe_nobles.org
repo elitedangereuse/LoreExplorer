@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4309e2d3-f6f7-41cd-a53c-ee671a03bfe5
+:END:
+#+title: Velnambe Nobles
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020815-Galactic_News__Weekly_Economic_Report.org][33020815-Galactic_News__Weekly_Economic_Report.org]]

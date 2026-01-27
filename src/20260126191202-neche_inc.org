@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       94c4ee74-31af-4d6d-9506-55fc0dc39375
+:END:
+#+title: Neche Inc
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070701-Federation_Battles_Independents_in_the_Azaladshu_System.org][33070701-Federation_Battles_Independents_in_the_Azaladshu_System.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3b38d2e9-05ec-495a-9329-4791d225b74c
+:END:
+#+title: James Speakes
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010509-President_Halsey_Refuses_Shadow_President’s_Request.org][33010509-President_Halsey_Refuses_Shadow_President’s_Request.org]]

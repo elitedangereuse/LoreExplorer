@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       05269af5-d417-4ae3-95ba-9e8363fa115e
+:END:
+#+title: Rogue Robot Located
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040816-Rogue_Robot_Located.org][33040816-Rogue_Robot_Located.org]]

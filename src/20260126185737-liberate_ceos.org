@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       452a275f-4585-40e2-9a07-6e2010f1d36f
+:END:
+#+title: Liberate Ceos
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030320-Galactic_News__Weekly_Economic_Report.org][33030320-Galactic_News__Weekly_Economic_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2df8a8db-8b46-4c67-9d57-7e364206da93
+:END:
+#+title: The Friends
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010420-The_Hunt_for_Justice.org][33010420-The_Hunt_for_Justice.org]]

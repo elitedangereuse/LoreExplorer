@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       123ad100-9931-4888-9000-a23838770991
+:END:
+#+title: Orrere Ring Bureau
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030906-Galactic_News__Weekly_Security_Report.org][33030906-Galactic_News__Weekly_Security_Report.org]]

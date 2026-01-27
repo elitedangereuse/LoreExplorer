@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5ab017ae-23e8-4206-985f-078614fb3123
+:END:
+#+title: Arietis Hudson Observatory
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33031202-Galactic_News__New_Aegis_Initiative.org][33031202-Galactic_News__New_Aegis_Initiative.org]]

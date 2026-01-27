@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       16a391eb-abef-4ed6-9d72-8bbf2ad2f887
+:END:
+#+title: Anti-Thargoid Megaships Deployed
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040331-Anti-Thargoid_Megaships_Deployed_by_Aegis.org][33040331-Anti-Thargoid_Megaships_Deployed_by_Aegis.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       08a268af-b490-415c-943a-6381d8a15b1f
+:END:
+#+title: Partnership Leaders
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030412-Galactic_News__Weekly_Security_Report.org][33030412-Galactic_News__Weekly_Security_Report.org]]

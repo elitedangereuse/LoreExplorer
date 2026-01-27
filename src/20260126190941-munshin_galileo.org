@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       eb3b52c8-aa5b-4ef4-a85a-04ebf2ea4d45
+:END:
+#+title: Munshin Galileo
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040613-Starport_Status_Update.org][33040613-Starport_Status_Update.org]]

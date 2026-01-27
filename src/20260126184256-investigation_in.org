@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b78dfc08-604b-467d-82e0-aa6450480d19
+:END:
+#+title: Investigation In
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010928-Shadow_President_Winters_Calls_for_Investigation.org][33010928-Shadow_President_Winters_Calls_for_Investigation.org]]

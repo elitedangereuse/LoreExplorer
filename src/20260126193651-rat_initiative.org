@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7860983f-e534-45ce-b534-f2b838c0ee2a
+:END:
+#+title: Rat Initiative
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010624-The_Pilots_Federation_Supports_Fuel_Rat_Initiative.org][33010624-The_Pilots_Federation_Supports_Fuel_Rat_Initiative.org]]

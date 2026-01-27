@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       763dcd93-8b81-46da-a79a-8c19be4265cb
+:END:
+#+title: Polecteri Expansions
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020319-Galactic_News__Weekly_Expansion_Report.org][33020319-Galactic_News__Weekly_Expansion_Report.org]]

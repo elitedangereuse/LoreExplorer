@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4dea1301-44f4-4615-a9c6-79f2d793a3a1
+:END:
+#+title: Drevlyada Resolved
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050228-Conflict_in_Drevlyada_Resolved.org][33050228-Conflict_in_Drevlyada_Resolved.org]]

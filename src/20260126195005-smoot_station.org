@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       148e3e20-a5e3-4206-bc24-0d22261d76a1
+:END:
+#+title: Smoot Station
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010803-A_Treaty_in_Tatters.org][33010803-A_Treaty_in_Tatters.org]]

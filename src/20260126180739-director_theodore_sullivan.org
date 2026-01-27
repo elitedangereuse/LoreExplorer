@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e2b0f541-d45d-423d-98ea-844a3b6c6378
+:END:
+#+title: Director Theodore Sullivan
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070211-Conflict_Between_Federal_Forces_and_Jupiter_Division.org][33070211-Conflict_Between_Federal_Forces_and_Jupiter_Division.org]]

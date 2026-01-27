@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       dc6f9647-0908-4f72-903c-dfadb555321b
+:END:
+#+title: Bermuda Triangle
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021014-Freelance_Report__The_Cassiopeia_Expedition.org][33021014-Freelance_Report__The_Cassiopeia_Expedition.org]]

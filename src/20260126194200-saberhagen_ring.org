@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       533a7639-0f5c-4d1d-b2e8-eb5afac79f2c
+:END:
+#+title: Saberhagen Ring
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030321-Galactic_News__Starport_Status_Update.org][33030321-Galactic_News__Starport_Status_Update.org]]

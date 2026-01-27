@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ebec35f9-6e5c-4661-b4eb-2065ca3b0fc7
+:END:
+#+title: Khona Dohkwithi
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010303-Alliance_Terraforming_Initiative_Set_to_Enter_Final_Stage.org][33010303-Alliance_Terraforming_Initiative_Set_to_Enter_Final_Stage.org]]

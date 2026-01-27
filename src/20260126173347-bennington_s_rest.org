@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3cf8996e-d7b3-48fd-9757-1bd3e014e5ab
+:END:
+#+title: Bennington's Rest
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080912-Thargoids_Turn_Attention_to_Inhabited_Systems.org][33080912-Thargoids_Turn_Attention_to_Inhabited_Systems.org]]

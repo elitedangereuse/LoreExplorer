@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b8038269-9810-4a54-be0d-26c9a6f01d2d
+:END:
+#+title: Company Factions
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030730-Galactic_News__Weekly_Expansion_Report.org][33030730-Galactic_News__Weekly_Expansion_Report.org]]

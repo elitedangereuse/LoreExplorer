@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       759829ed-6672-44e5-b7f4-29e95944ed45
+:END:
+#+title: Group Expansion
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010815-GalNet_Weekly_Expansion_List.org][33010815-GalNet_Weekly_Expansion_List.org]]

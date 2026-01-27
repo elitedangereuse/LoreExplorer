@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f03b02a2-e36e-428b-a8de-1a2448aa2260
+:END:
+#+title: Industry Factions
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021217-Galactic_News__Weekly_Expansion_Report.org][33021217-Galactic_News__Weekly_Expansion_Report.org]]

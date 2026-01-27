@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       85dc5f53-f2f5-454b-ac23-9400dc7d8546
+:END:
+#+title: Checha Hutton Orbital
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040712-Starport_Status_Update.org][33040712-Starport_Status_Update.org]]

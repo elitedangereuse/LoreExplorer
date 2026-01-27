@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6e0f6af5-f98f-49fb-8b23-e92e5930aa67
+:END:
+#+title: The Colonia Initiative
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020818-Community_Goal__The_Colonia_Initiative.org][33020818-Community_Goal__The_Colonia_Initiative.org]]

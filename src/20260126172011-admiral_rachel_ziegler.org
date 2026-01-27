@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       40a142fa-1aff-4989-a4f1-b868b295b2e9
+:END:
+#+title: Admiral Rachel Ziegler
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050518-Kincaid_Granted_Command_of_Zaonce_Fleet.org][33050518-Kincaid_Granted_Command_of_Zaonce_Fleet.org]]

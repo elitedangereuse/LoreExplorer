@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       fc92a525-b55f-4750-96eb-bf6f6132d106
+:END:
+#+title: Lou Brady
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33031215-Community_Goal__Operation_Whirling_Dervish.org][33031215-Community_Goal__Operation_Whirling_Dervish.org]]

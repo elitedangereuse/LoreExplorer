@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       386965f5-4708-4c85-980b-23efb20da582
+:END:
+#+title: The Commanders
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040524-Federal_Citizens_Assassinated_by_the_League_of_Reparation.org][33040524-Federal_Citizens_Assassinated_by_the_League_of_Reparation.org]]

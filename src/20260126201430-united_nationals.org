@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       de2bf080-f792-403b-b0ec-48c15d3bf8b6
+:END:
+#+title: United Nationals
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020810-Galactic_News__Weekly_Health_Report.org][33020810-Galactic_News__Weekly_Health_Report.org]]

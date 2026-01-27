@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       025c1c54-c555-40c9-9e5f-1746dfaa66ba
+:END:
+#+title: Commander Rusticolus
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010826-Fuel_Rats_Complete_1,000th_Rescue.org][33010826-Fuel_Rats_Complete_1,000th_Rescue.org]]

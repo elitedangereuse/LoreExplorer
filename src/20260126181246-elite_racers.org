@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0993abac-f003-4935-9205-a76658aa5518
+:END:
+#+title: Elite Racers
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020610-Freelance_Report__Old_Worlds_Zero-Gravity_Rally.org][33020610-Freelance_Report__Old_Worlds_Zero-Gravity_Rally.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       906bdc21-c038-44c9-8ff1-f2377bcb8a53
+:END:
+#+title: Shesmu Civil
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020510-Galactic_News__Weekly_Security_Report.org][33020510-Galactic_News__Weekly_Security_Report.org]]

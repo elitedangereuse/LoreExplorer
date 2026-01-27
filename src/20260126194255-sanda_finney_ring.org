@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       273c2fd3-c733-4425-b98f-6b86723c0684
+:END:
+#+title: Sanda Finney Ring
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33031122-Galactic_News__Starport_Status_Update.org][33031122-Galactic_News__Starport_Status_Update.org]]

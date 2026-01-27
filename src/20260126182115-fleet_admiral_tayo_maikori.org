@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e51a2eda-b55f-4827-a160-b219594d9f21
+:END:
+#+title: Fleet Admiral Tayo Maikori
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080112-Baumann_Report__‘Dismantle_Aegis’.org][33080112-Baumann_Report__‘Dismantle_Aegis’.org]]

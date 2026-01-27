@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       fde042f6-9a3f-47e7-94a4-f36b371d8a55
+:END:
+#+title: Corporations Compete
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080113-Corporations_Compete_for_Mining_Contract.org][33080113-Corporations_Compete_for_Mining_Contract.org]]

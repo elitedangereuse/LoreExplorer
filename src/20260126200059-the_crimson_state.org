@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       306f549e-ad0b-4055-9b71-29717e462c52
+:END:
+#+title: The Crimson State
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010316-The_Lugh_Report.org][33010316-The_Lugh_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7bed1e39-eae0-451f-adf8-125fec568a52
+:END:
+#+title: Gorringa Movement
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020927-Galactic_News__Weekly_Security_Report.org][33020927-Galactic_News__Weekly_Security_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       37b064ed-8ddf-4c69-bd2a-950958f4e485
+:END:
+#+title: George Lucas Station
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33031117-Community_Goal__Lunch_in_Leesti.org][33031117-Community_Goal__Lunch_in_Leesti.org]]

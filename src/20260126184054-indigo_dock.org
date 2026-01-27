@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4d2110d4-44c6-44fa-add3-9fd9b80ccc0a
+:END:
+#+title: Indigo Dock
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050523-Corporations_Clash_in_Guardian_Space.org][33050523-Corporations_Clash_in_Guardian_Space.org]]

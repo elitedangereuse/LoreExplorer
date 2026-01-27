@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       70df4313-528d-45c1-b867-bfb6f90bb5ca
+:END:
+#+title: Universal Liberty
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040526-The_Courtship_of_Aisling_Duval.org][33040526-The_Courtship_of_Aisling_Duval.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       75ccc995-a979-4913-9609-c52abc34d8d4
+:END:
+#+title: Santal Values Party
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030313-Galactic_News__Weekly_Economic_Report.org][33030313-Galactic_News__Weekly_Economic_Report.org]]

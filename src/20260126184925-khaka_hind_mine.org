@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       72c45ccf-442a-4c60-8c21-9312f839de12
+:END:
+#+title: Khaka Hind Mine
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040518-Starport_Status_Update.org][33040518-Starport_Status_Update.org]]

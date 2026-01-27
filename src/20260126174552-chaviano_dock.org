@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       fe99030e-0064-43b3-b96d-f39cfdc0e542
+:END:
+#+title: Chaviano Dock
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040905-Starport_Status_Update.org][33040905-Starport_Status_Update.org]]

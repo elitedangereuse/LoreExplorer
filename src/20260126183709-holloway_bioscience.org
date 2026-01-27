@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5e230ec2-18ef-4b49-a470-4b1eab8785d2
+:END:
+#+title: Holloway Bioscience
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3310/33100704-Aegis_confirm_change_in_Thargoid_Strategy.org][33100704-Aegis_confirm_change_in_Thargoid_Strategy.org]]

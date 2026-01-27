@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4f8cd042-205e-48ca-9ba7-2b0f87aef6cb
+:END:
+#+title: Future Defence Party
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011215-GalNet_Weekly_Security_Digest.org][33011215-GalNet_Weekly_Security_Digest.org]]

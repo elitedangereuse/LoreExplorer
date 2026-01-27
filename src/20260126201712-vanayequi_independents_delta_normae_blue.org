@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9bf0633a-11b5-4b49-ae65-46d76ae1ef17
+:END:
+#+title: Vanayequi Independents Delta Normae Blue
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011204-GalNet_Weekly_Conflict_Report.org][33011204-GalNet_Weekly_Conflict_Report.org]]

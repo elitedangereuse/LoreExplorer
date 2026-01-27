@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       25274c56-8324-418c-b08a-68b4badc356a
+:END:
+#+title: Affect Starports
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010730-Cerberus_Plague_Continues_to_Affect_Starports.org][33010730-Cerberus_Plague_Continues_to_Affect_Starports.org]]

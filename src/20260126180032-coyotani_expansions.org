@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0422954c-28cc-46c0-92bb-e5b80dce4baf
+:END:
+#+title: Coyotani Expansions
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030910-Galactic_News__Weekly_Expansion_Report.org][33030910-Galactic_News__Weekly_Expansion_Report.org]]

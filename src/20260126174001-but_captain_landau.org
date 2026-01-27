@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       efb12974-d080-4ebd-a2da-74f3957af377
+:END:
+#+title: But Captain Landau
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080120-The_Missing_Emperor_.org][33080120-The_Missing_Emperor_.org]]

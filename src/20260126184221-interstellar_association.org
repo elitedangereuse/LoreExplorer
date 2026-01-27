@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bd12e119-2d32-41b1-953a-8d989bdeeb03
+:END:
+#+title: Interstellar Association
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040818-Ulyanov_Arrested.org][33040818-Ulyanov_Arrested.org]]

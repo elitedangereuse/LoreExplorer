@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d662b227-3a55-49cf-a4d7-1a10d346f270
+:END:
+#+title: Menambe State Organisation Kruger
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010817-GalNet_Weekly_Economic_Report.org][33010817-GalNet_Weekly_Economic_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       09584374-1360-4734-879c-2cfda8a911fc
+:END:
+#+title: The Senator
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010217-A_Question_of_Security.org][33010217-A_Question_of_Security.org]]

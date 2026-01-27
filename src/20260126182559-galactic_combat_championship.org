@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7bbc0fe5-7d47-4fbd-b69e-6c9525f84f09
+:END:
+#+title: Galactic Combat Championship
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020316-Freelance_Report__End_of_First_Season_of_Galactic_Combat_Championship.org][33020316-Freelance_Report__End_of_First_Season_of_Galactic_Combat_Championship.org]]

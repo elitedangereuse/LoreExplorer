@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3b098beb-4ce3-43fc-b9c1-eb1066b4d022
+:END:
+#+title: Professor Ishmael Palin Issues Request
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020121-Community_Goal__Professor_Ishmael_Palin_Issues_Request_for_Meta-Alloys.org][33020121-Community_Goal__Professor_Ishmael_Palin_Issues_Request_for_Meta-Alloys.org]]

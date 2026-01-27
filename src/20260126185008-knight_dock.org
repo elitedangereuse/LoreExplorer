@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b325ab07-9693-4c5b-9383-266d82f1bdda
+:END:
+#+title: Knight Dock
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010320-Eyes_on_Lugh.org][33010320-Eyes_on_Lugh.org]]

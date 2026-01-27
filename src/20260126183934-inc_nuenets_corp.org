@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       adc57723-c51d-4906-8fb8-7ac069e75e13
+:END:
+#+title: Inc Nuenets Corp
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021110-Galactic_News__Weekly_Democracy_Report.org][33021110-Galactic_News__Weekly_Democracy_Report.org]]

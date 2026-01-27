@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       294a2f29-2240-4eb3-b742-8c3334b1ef85
+:END:
+#+title: Fawaol Patrons
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020718-Galactic_News__Weekly_Economic_Report.org][33020718-Galactic_News__Weekly_Economic_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e2963213-e5f8-412a-a171-98f6de0847da
+:END:
+#+title: Cephei Regulatory State Civil
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030524-Galactic_News__Weekly_Security_Report.org][33030524-Galactic_News__Weekly_Security_Report.org]]

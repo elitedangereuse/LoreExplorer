@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d2dd6710-0f45-4d89-97db-867866c4fa7a
+:END:
+#+title: Purple Power
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010817-GalNet_Weekly_Economic_Report.org][33010817-GalNet_Weekly_Economic_Report.org]]

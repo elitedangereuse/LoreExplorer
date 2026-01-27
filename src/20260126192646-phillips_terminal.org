@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       cf67e7b9-2163-4396-8e45-79857e7a4a21
+:END:
+#+title: Phillips Terminal
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030103-Galactic_News__Starport_Status_Update.org][33030103-Galactic_News__Starport_Status_Update.org]]

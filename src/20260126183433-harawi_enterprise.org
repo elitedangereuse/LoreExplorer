@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e416db45-4cc6-4598-880c-8345254a4076
+:END:
+#+title: Harawi Enterprise
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010415-East_India_Company_Announces_Galactic_Silk_Road.org][33010415-East_India_Company_Announces_Galactic_Silk_Road.org]]

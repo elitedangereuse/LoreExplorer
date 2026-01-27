@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9f234a2e-9944-4d37-ac42-008df34074a4
+:END:
+#+title: Energy Industry The
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010713-GalNet_Weekly_Economic_Report.org][33010713-GalNet_Weekly_Economic_Report.org]]

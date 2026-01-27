@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e6707694-2f8d-4f35-95c4-5f13128f72e7
+:END:
+#+title: Huveang De
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040317-Non_Human_Signal_Sources_in_Huveang_De.org][33040317-Non_Human_Signal_Sources_in_Huveang_De.org]]

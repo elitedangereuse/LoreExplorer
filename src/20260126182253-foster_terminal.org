@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f74b188f-4bd7-4b3b-a804-f7715a261d5d
+:END:
+#+title: Foster Terminal
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040518-Colonia_Project_Requests_Microresources.org][33040518-Colonia_Project_Requests_Microresources.org]]

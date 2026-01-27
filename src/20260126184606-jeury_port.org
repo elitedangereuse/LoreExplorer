@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       77894072-37ff-4b7b-8cb4-12f6c02c6bfe
+:END:
+#+title: Jeury Port
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33031206-Galactic_News__Starport_Status_Update.org][33031206-Galactic_News__Starport_Status_Update.org]]

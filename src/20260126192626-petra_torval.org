@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a1f55dd8-9865-4aa6-9264-fe1cb02f0ab7
+:END:
+#+title: Petra Torval
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070903-Torval_Orbital_Established.org][33070903-Torval_Orbital_Established.org]]

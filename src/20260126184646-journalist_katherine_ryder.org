@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9d4348c9-bcff-4e7f-8c8b-ca4d802a772e
+:END:
+#+title: Journalist Katherine Ryder
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010917-Frontline_Report__The_War_against_Emperor’s_Dawn.org][33010917-Frontline_Report__The_War_against_Emperor’s_Dawn.org]]

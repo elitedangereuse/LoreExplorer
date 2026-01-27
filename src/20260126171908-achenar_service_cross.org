@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       95df5286-45b0-4ffd-b34e-49915a01c7d3
+:END:
+#+title: Achenar Service Cross
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070331-Crashed_Ship_of_Missing_ACT_Agent_Located.org][33070331-Crashed_Ship_of_Missing_ACT_Agent_Located.org]]

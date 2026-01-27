@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       79ed7162-ce42-40dc-8825-d117881dee55
+:END:
+#+title: Herculean Machines
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040817-New_Computer_Designs_Announced.org][33040817-New_Computer_Designs_Announced.org]]

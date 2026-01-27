@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0d2acbde-d795-4d44-a2bb-7240a698eae8
+:END:
+#+title: Delphini Purple Raiders Wirnako Limited
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010818-GalNet_Weekly_Security_Digest.org][33010818-GalNet_Weekly_Security_Digest.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       213b53b1-f23f-4950-8d99-7a6c65d6d884
+:END:
+#+title: Detailed Surface Scanner Campaign Reaches
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070624-Detailed_Surface_Scanner_Campaign_Reaches_Target.org][33070624-Detailed_Surface_Scanner_Campaign_Reaches_Target.org]]

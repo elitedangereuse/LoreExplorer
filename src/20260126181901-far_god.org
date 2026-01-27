@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       85d04180-63b4-444c-b4f7-7a64924fe1fd
+:END:
+#+title: Far God
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040616-Worshipping_the_Thargoids.org][33040616-Worshipping_the_Thargoids.org]]

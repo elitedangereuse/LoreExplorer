@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0b6e0a20-6170-411c-bdbd-6ff3905e91bc
+:END:
+#+title: Lady Florence Lavigny
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090703-Imperial_Mother_in_Medical_Emergency.org][33090703-Imperial_Mother_in_Medical_Emergency.org]]

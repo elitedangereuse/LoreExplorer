@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       60f5522f-3316-4d16-8d15-589646e16fb1
+:END:
+#+title: Love Orbital
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020915-Community_Goal__The_Colonia_Connection.org][33020915-Community_Goal__The_Colonia_Connection.org]]

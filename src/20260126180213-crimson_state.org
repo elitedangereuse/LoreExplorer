@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bd40007f-a447-4334-b488-3f098a904a69
+:END:
+#+title: Crimson State
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010320-Eyes_on_Lugh.org][33010320-Eyes_on_Lugh.org]]

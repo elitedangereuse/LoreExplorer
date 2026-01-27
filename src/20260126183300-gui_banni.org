@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d6275965-29af-44d4-b622-861ec4a5cab1
+:END:
+#+title: Gui Banni
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011113-A_Week_in_Powerplay.org][33011113-A_Week_in_Powerplay.org]]

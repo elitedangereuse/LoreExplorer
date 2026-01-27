@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       82886491-8925-4101-8036-0a8abc405f84
+:END:
+#+title: Captain Warren Lamar
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33061015-Thargoids_Return_to_Witch_Head_Nebula.org][33061015-Thargoids_Return_to_Witch_Head_Nebula.org]]

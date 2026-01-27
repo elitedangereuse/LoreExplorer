@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9e9bb18c-b218-4d27-9660-5f92d4834261
+:END:
+#+title: Life Systems Civil
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021021-Galactic_News__Weekly_Conflict_Report.org][33021021-Galactic_News__Weekly_Conflict_Report.org]]

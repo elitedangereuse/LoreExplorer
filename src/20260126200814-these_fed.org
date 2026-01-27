@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d9ee0af1-d510-4bb3-b0b6-95884b82b634
+:END:
+#+title: These Fed
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010618-Kappa_Fornacis_Calls_Federal_Freedom_Into_Question.org][33010618-Kappa_Fornacis_Calls_Federal_Freedom_Into_Question.org]]

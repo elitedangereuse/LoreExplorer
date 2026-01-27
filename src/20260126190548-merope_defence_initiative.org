@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       18757d21-eb88-489c-9edb-4e4a7bc3e78b
+:END:
+#+title: Merope Defence Initiative
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050214-Merope_Defence_Initiative.org][33050214-Merope_Defence_Initiative.org]]

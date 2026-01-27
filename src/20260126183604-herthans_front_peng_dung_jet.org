@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       161b0ea0-a270-4811-851e-ddafa015db78
+:END:
+#+title: Herthans Front Peng Dung Jet
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030401-Galactic_News__Weekly_Expansion_Report.org][33030401-Galactic_News__Weekly_Expansion_Report.org]]

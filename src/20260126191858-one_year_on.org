@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8c46901b-9042-4cfe-b093-7bc6b2399420
+:END:
+#+title: One Year On
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040112-One_Year_On.org][33040112-One_Year_On.org]]

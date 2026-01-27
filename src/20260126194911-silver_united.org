@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       372acec6-0825-4fad-b818-33417a054f92
+:END:
+#+title: Silver United
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030809-Galactic_News__Weekly_Security_Report.org][33030809-Galactic_News__Weekly_Security_Report.org]]

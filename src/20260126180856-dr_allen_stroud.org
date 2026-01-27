@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       be723f46-69a6-40db-a0fe-9ca80e37913f
+:END:
+#+title: Dr Allen Stroud
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050802-Lave_Citizens_Comment_on_Festival.org][33050802-Lave_Citizens_Comment_on_Festival.org]]

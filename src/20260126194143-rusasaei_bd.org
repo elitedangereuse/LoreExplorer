@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       86bce3d2-b04d-4784-bb91-d7d28e45116d
+:END:
+#+title: Rusasaei BD
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020624-Galactic_News__Weekly_Conflict_Report.org][33020624-Galactic_News__Weekly_Conflict_Report.org]]

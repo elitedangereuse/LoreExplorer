@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1f2d58b5-0a89-4bd7-bd56-c64f64d43600
+:END:
+#+title: Drake-class Carriers
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33071014-Colonia_Bridge_Project_Receives_Deliveries.org][33071014-Colonia_Bridge_Project_Receives_Deliveries.org]]

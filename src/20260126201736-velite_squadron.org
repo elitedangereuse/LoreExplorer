@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       11513052-f425-47ae-ae75-73909c1f28a4
+:END:
+#+title: Velite Squadron
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010729-Operation_Davy_Jones_-_The_Voices_of_Dissent.org][33010729-Operation_Davy_Jones_-_The_Voices_of_Dissent.org]]

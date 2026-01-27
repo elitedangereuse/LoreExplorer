@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       aca1f160-bf4d-4c0d-8095-84ec5b302c28
+:END:
+#+title: Colonia Citizens Network Alien Research
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021101-Freelance_Report__Fungi_Discovered_on_Airless_Worlds.org][33021101-Freelance_Report__Fungi_Discovered_on_Airless_Worlds.org]]

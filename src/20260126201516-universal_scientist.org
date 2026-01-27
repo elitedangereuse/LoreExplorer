@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3270969d-02ea-4dd6-b352-3aa75c7d32e8
+:END:
+#+title: Universal Scientist
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33031208-Galactic_News__Aegis_Initiative_off_to_a_Promising_Start.org][33031208-Galactic_News__Aegis_Initiative_off_to_a_Promising_Start.org]]

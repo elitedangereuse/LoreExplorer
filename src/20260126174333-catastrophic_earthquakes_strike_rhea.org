@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       134ab8c8-ab32-4b29-8683-7e65ea4359ba
+:END:
+#+title: Catastrophic Earthquakes Strike Rhea
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3310/33100213-Catastrophic_Earthquakes_Strike_Rhea_3.org][33100213-Catastrophic_Earthquakes_Strike_Rhea_3.org]]

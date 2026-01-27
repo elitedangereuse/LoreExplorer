@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2207fd85-cbda-4007-bd40-bc401cea2f54
+:END:
+#+title: Daron Warmack
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050831-The_Winking_Cat’s_Return.org][33050831-The_Winking_Cat’s_Return.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0101337e-14f9-4413-8bbe-93b21a542c92
+:END:
+#+title: Bell Orbital
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020422-Freelance_Report__Gilya_Signature_Weapons_Return_to_Markets.org][33020422-Freelance_Report__Gilya_Signature_Weapons_Return_to_Markets.org]]

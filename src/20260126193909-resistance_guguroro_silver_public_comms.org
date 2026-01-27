@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       94562e66-8abc-4d8c-bc9d-c69a64e5b297
+:END:
+#+title: Resistance Guguroro Silver Public Comms
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010901-GalNet_Weekly_Security_Digest.org][33010901-GalNet_Weekly_Security_Digest.org]]

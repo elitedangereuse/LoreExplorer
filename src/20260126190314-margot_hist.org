@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3bd9d191-68ea-4205-88cb-14d6c9c157f7
+:END:
+#+title: Margot Hist
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33041117-Olav_Redcourt_Found.org][33041117-Olav_Redcourt_Found.org]]

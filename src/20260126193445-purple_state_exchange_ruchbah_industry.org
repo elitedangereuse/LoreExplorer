@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       591e64a1-86ce-4c12-8ae1-b57fabce3f2f
+:END:
+#+title: Purple State Exchange Ruchbah Industry
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011211-GalNet_Weekly_Conflict_Report.org][33011211-GalNet_Weekly_Conflict_Report.org]]

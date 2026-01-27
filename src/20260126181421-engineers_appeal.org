@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7d60ed89-b25f-4feb-9a17-ad4bc6c17831
+:END:
+#+title: Engineers Appeal
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030922-Community_Goal__Engineers_Appeal_for_Thargoid_Material.org][33030922-Community_Goal__Engineers_Appeal_for_Thargoid_Material.org]]

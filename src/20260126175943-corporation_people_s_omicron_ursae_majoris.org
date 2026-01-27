@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a88c06f7-a30f-4ab1-a76a-3787640b80f0
+:END:
+#+title: Corporation People's Omicron Ursae Majoris
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020421-Galactic_News__Weekly_Democracy_Report.org][33020421-Galactic_News__Weekly_Democracy_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bd262f07-3565-4382-92b4-dd7ceb564688
+:END:
+#+title: Rescue Ship Bertschinger Rescue Ship
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090907-Rescue_Megaships_Scheduled_to_Redeploy.org][33090907-Rescue_Megaships_Scheduled_to_Redeploy.org]]

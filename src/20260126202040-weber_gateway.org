@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0b23f0b0-c689-4d94-93d9-c1ca3182e8a4
+:END:
+#+title: Weber Gateway
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011008-Federal_Times_Reporter_Lends_Weight_to_'Master_Chef'_Story.org][33011008-Federal_Times_Reporter_Lends_Weight_to_'Master_Chef'_Story.org]]

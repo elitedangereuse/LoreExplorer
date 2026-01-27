@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       dce75186-3c0f-4e7c-91b3-74430370b027
+:END:
+#+title: Lady Talitha
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050215-Heiress_Confirmed_Missing.org][33050215-Heiress_Confirmed_Missing.org]]

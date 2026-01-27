@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f6a7ceb0-e562-446e-abe4-3fd02b3ba609
+:END:
+#+title: Black Boxes
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040518-Salvage_and_Rescue_Operation.org][33040518-Salvage_and_Rescue_Operation.org]]

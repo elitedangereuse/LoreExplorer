@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0498832c-609e-432f-a441-c5a8f03d5261
+:END:
+#+title: Bodedi League
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030325-Galactic_News__Weekly_Expansion_Report.org][33030325-Galactic_News__Weekly_Expansion_Report.org]]

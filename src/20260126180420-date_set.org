@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       25e2780d-4773-42ea-86a9-54060348cabf
+:END:
+#+title: Date Set
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010722-Date_Set_for_Imperial_Wedding.org][33010722-Date_Set_for_Imperial_Wedding.org]]

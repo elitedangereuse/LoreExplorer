@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1c5c0e43-4f2d-4766-94aa-796f1669c130
+:END:
+#+title: Senator Lavigny-Duval's
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010727-Federation_Secession_Crisis.org][33010727-Federation_Secession_Crisis.org]]

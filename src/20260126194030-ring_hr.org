@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c71fa790-028d-4009-ab42-7c3c7d782b01
+:END:
+#+title: Ring HR
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030427-Galactic_News__Weekly_Health_Report.org][33030427-Galactic_News__Weekly_Health_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c7865cc8-6895-4bb0-826f-bbcef992f72d
+:END:
+#+title: Crighton Cabernet
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040202-Angeli_Imperial_Enterprises_Campaign_Concludes.org][33040202-Angeli_Imperial_Enterprises_Campaign_Concludes.org]]

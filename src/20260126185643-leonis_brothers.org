@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2a9e7ab3-b274-4c71-a9db-284248f663bb
+:END:
+#+title: Leonis Brothers
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030822-Galactic_News__Weekly_Economic_Report.org][33030822-Galactic_News__Weekly_Economic_Report.org]]

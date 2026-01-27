@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d46a7b18-66d5-4a64-a7b2-ec64bfe843f1
+:END:
+#+title: Brotherhood Civil
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020318-Galactic_News__Weekly_Conflict_Report.org][33020318-Galactic_News__Weekly_Conflict_Report.org]]

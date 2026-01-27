@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1ae6a07a-2d14-4b72-943e-e9eb63768a1f
+:END:
+#+title: Emperor Duval
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010608-Emperor's_Grace_Reaffirms_Loyalty_to_Patreus.org][33010608-Emperor's_Grace_Reaffirms_Loyalty_to_Patreus.org]]

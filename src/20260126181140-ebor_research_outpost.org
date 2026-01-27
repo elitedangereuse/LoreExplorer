@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9c8f5d19-3c00-4365-b4ec-b80112f5300f
+:END:
+#+title: Ebor Research Outpost
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040713-Ebor_Research_Outpost.org][33040713-Ebor_Research_Outpost.org]]

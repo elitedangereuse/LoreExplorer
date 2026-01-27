@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e6a93614-723a-42dc-9b4b-7cb73a6f7ebb
+:END:
+#+title: As Cole
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050404-Starport_Saved_from_Destruction.org][33050404-Starport_Saved_from_Destruction.org]]

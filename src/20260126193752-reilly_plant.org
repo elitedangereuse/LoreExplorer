@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       563b7549-4893-4a6f-abf1-c9afae72de94
+:END:
+#+title: Reilly Plant
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33061001-New_Starports_Become_Operational.org][33061001-New_Starports_Become_Operational.org]]

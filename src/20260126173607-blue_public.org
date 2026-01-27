@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       50e6f0ff-4c60-42a3-a52f-091377d61270
+:END:
+#+title: Blue Public
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020324-Galactic_News__Weekly_Democracy_Report.org][33020324-Galactic_News__Weekly_Democracy_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1665f38f-4717-46b7-b8be-37e9682382fc
+:END:
+#+title: Hannu Arena
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33061126-Alliance_Consolidates_Presence_in_Coalsack_Nebula.org][33061126-Alliance_Consolidates_Presence_in_Coalsack_Nebula.org]]

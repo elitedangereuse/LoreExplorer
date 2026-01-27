@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       498af104-6f95-41ee-bad4-fdd5e3b87df8
+:END:
+#+title: Rescue Ship Bertschinger
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3310/33101206-Rescue_Megaships_Decimated_by_Thargoid_Fleet.org][33101206-Rescue_Megaships_Decimated_by_Thargoid_Fleet.org]]

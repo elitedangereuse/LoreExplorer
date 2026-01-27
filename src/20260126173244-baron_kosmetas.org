@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9dec5ba4-668a-46b6-8abe-367ca3db0609
+:END:
+#+title: Baron Kosmetas
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010516-Upgrade_of_Parkinson_Dock_Complete.org][33010516-Upgrade_of_Parkinson_Dock_Complete.org]]

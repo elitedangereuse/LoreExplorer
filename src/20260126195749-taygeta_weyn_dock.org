@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       045fa396-ab45-45de-9875-88c440635b2e
+:END:
+#+title: Taygeta Weyn Dock
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33031202-Galactic_News__New_Aegis_Initiative.org][33031202-Galactic_News__New_Aegis_Initiative.org]]

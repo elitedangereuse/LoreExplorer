@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b9973e91-f485-4f21-ba4c-99a57d57fe17
+:END:
+#+title: Pirates Wiped Out
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010929-Pirates_Wiped_Out_in_Amitrite.org][33010929-Pirates_Wiped_Out_in_Amitrite.org]]

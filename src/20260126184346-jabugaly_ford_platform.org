@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9450ea13-3fd2-4298-82be-5b847a02a1b0
+:END:
+#+title: Jabugaly Ford Platform
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040725-Starport_Status_Update.org][33040725-Starport_Status_Update.org]]

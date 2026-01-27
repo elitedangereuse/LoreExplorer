@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       69b4bfd6-10f4-4efa-98c9-bfbf58093dc2
+:END:
+#+title: The Armada
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010622-Federal_Vigilantes_Defy_All_Galactic_Powers.org][33010622-Federal_Vigilantes_Defy_All_Galactic_Powers.org]]

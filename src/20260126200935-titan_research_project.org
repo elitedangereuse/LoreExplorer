@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f9a8dcf3-fd47-40dd-bf53-8958a29bde09
+:END:
+#+title: Titan Research Project
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090525-Materials_Needed_for_Titan_Research_Project.org][33090525-Materials_Needed_for_Titan_Research_Project.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f7ed6829-5129-4143-ac3d-7aca859ba351
+:END:
+#+title: Bast System
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010729-Cerberus_Plague_Breakthrough.org][33010729-Cerberus_Plague_Breakthrough.org]]

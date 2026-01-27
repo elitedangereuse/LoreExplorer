@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b406ae11-c74b-49e9-844a-133629012727
+:END:
+#+title: Commander Alot
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010522-Pilot_Breaks_Galactic_Record_Twice.org][33010522-Pilot_Breaks_Galactic_Record_Twice.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       db1ce514-1406-4fff-901a-3ca5cfe1abce
+:END:
+#+title: Progressive Party Expansion
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011128-GalNet_Weekly_Expansion_List.org][33011128-GalNet_Weekly_Expansion_List.org]]

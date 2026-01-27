@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       35d08f02-c2e4-4dcc-9c02-cbb1b4ffe6c5
+:END:
+#+title: The Nifelhel Corp
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040615-Refugee_Centre_Initiative.org][33040615-Refugee_Centre_Initiative.org]]

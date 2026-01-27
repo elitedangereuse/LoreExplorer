@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c865ac62-ec6b-4c41-8bd5-67c03a126b75
+:END:
+#+title: Congressman Niko Shirakawa
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090405-Archer_Launches_Presidential_Campaign.org][33090405-Archer_Launches_Presidential_Campaign.org]]

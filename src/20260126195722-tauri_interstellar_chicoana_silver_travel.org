@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f0d099d1-55f7-4200-b6b6-495ac0edbef0
+:END:
+#+title: Tauri Interstellar Chicoana Silver Travel
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030811-Galactic_News__Weekly_Democracy_Report.org][33030811-Galactic_News__Weekly_Democracy_Report.org]]

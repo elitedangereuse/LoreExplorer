@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       97d8768b-953f-411d-9007-ff0236fb287e
+:END:
+#+title: Brief Look Back In
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010819-A_Brief_Look_Back.org][33010819-A_Brief_Look_Back.org]]

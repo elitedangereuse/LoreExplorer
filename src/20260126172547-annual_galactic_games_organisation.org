@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       22cd0c59-cf9b-4dc3-84ad-aaaf45187bf2
+:END:
+#+title: Annual Galactic Games Organisation
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021013-Community_Goal__The_Gathering.org][33021013-Community_Goal__The_Gathering.org]]

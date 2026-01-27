@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4870ec6e-8850-4930-84fa-bc283ccdc9d4
+:END:
+#+title: Commodities Zaragas Energy Corp
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021101-Galactic_News__Weekly_Security_Report.org][33021101-Galactic_News__Weekly_Security_Report.org]]

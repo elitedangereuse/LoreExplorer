@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       46171d52-fe08-42a1-a707-ab8b51c1e9b2
+:END:
+#+title: Gomm Crua Party Gomm Crua
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011016-GalNet_Weekly_Conflict_Report.org][33011016-GalNet_Weekly_Conflict_Report.org]]

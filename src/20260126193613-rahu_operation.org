@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c87e46e3-9ed5-4fdd-bf71-ed6366a0f5aa
+:END:
+#+title: Rahu Operation
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030302-Galactic_News__Rahu_Operation_comes_to_an_End.org][33030302-Galactic_News__Rahu_Operation_comes_to_an_End.org]]

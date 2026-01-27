@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       85939e2d-a4c9-4961-88ee-3002c6cf7dbc
+:END:
+#+title: Vitadyne Nanomedicines
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050126-Utopia_Condemns_Approval_of_Vitadyne_Nanomedicines.org][33050126-Utopia_Condemns_Approval_of_Vitadyne_Nanomedicines.org]]

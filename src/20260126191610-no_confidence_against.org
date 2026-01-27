@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2a7c8145-a852-48fd-8cbf-9d5e3931a91f
+:END:
+#+title: No Confidence Against
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010601-Federal_Congress_Prepares_for_Vote.org][33010601-Federal_Congress_Prepares_for_Vote.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8a634cb0-3c5a-4e9d-b7eb-63434200ea42
+:END:
+#+title: Artefacts' Morse
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020427-Freelance_Report__Happy_Canonn_Day!.org][33020427-Freelance_Report__Happy_Canonn_Day!.org]]

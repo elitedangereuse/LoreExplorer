@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       dd666545-02f2-4a5f-9305-fe868be72bba
+:END:
+#+title: Copernicus Shipping Ltd
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040920-Robot_Exposes_Corporate_Fraud.org][33040920-Robot_Exposes_Corporate_Fraud.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       690fb019-44f1-4d7a-9e68-9774ff97d9fd
+:END:
+#+title: Yurchikhin Port
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33041108-Conflict_in_Geras_Ends.org][33041108-Conflict_in_Geras_Ends.org]]

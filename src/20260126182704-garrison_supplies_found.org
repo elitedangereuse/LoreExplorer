@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       76bb7de4-65f3-4c8d-8037-70970305d31e
+:END:
+#+title: Garrison Supplies Found
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011029-Garrison_Supplies_Found_in_Criminal_Hands.org][33011029-Garrison_Supplies_Found_in_Criminal_Hands.org]]

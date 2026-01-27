@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       df489fa2-c19c-4002-b500-91979945b870
+:END:
+#+title: Professor Tesreau
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030805-Galactic_News__Joint_Superpower_Initiative_Announced.org][33030805-Galactic_News__Joint_Superpower_Initiative_Announced.org]]

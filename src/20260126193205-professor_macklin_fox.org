@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ec601e10-9a5a-4d21-95d4-d14c9e2f280b
+:END:
+#+title: Professor Macklin Fox
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050829-Sap_Core_Legion_Commodity_Drive.org][33050829-Sap_Core_Legion_Commodity_Drive.org]]

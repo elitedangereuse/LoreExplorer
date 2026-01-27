@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       da8579c2-8788-40a6-bd25-23ff0b66a472
+:END:
+#+title: Central Corporation New BD
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030202-Galactic_News__Weekly_Democracy_Report.org][33030202-Galactic_News__Weekly_Democracy_Report.org]]

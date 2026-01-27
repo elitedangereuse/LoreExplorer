@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       cb06f1ab-77c1-4ce3-a36b-73d07ca35340
+:END:
+#+title: Tahir West
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33081101-Council_of_Admirals_Divided_Over_Unified_Fleet.org][33081101-Council_of_Admirals_Divided_Over_Unified_Fleet.org]]

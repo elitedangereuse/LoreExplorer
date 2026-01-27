@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       82b9191d-bdb4-4edc-95f6-ed8cea8689eb
+:END:
+#+title: Cynthia Sideris
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010906-Memorial_in_the_Heavens.org][33010906-Memorial_in_the_Heavens.org]]

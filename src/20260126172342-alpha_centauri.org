@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       72ccabf8-c774-4e40-9fc1-1f7622a26c2a
+:END:
+#+title: Alpha Centauri
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010903-The_Hutton_Mug.org][33010903-The_Hutton_Mug.org]]

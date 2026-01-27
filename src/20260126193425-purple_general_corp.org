@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       517a9dcc-c009-4400-9558-f801d94a9723
+:END:
+#+title: Purple General Corp
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021104-Galactic_News__Weekly_Conflict_Report.org][33021104-Galactic_News__Weekly_Conflict_Report.org]]

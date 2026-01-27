@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6db2837b-9565-4bbe-b87f-0e1a777b44ef
+:END:
+#+title: Lugh Ambassador
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010302-Lugh_Ambassador_Accuses_Federal_Party_of_Foul_Play.org][33010302-Lugh_Ambassador_Accuses_Federal_Party_of_Foul_Play.org]]

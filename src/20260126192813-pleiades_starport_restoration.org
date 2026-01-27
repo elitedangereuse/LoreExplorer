@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       cd397297-5ad9-4351-a2b0-25ceb54c280d
+:END:
+#+title: Pleiades Starport Restoration
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040601-Campaign_for_Pleiades_Starport_Restoration.org][33040601-Campaign_for_Pleiades_Starport_Restoration.org]]

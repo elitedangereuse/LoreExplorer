@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9bc8c7a5-ce15-4707-a88b-f93ef4b8ec64
+:END:
+#+title: Itzamnets Ford Dock
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030428-Galactic_News__Starport_Status_Update.org][33030428-Galactic_News__Starport_Status_Update.org]]

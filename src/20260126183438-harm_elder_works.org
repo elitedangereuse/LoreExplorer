@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1b4404f0-8fb4-49a2-8ac0-377ba137ecfe
+:END:
+#+title: Harm Elder Works
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030118-Galactic_News__Starport_Status_Update.org][33030118-Galactic_News__Starport_Status_Update.org]]

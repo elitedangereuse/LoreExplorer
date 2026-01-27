@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b2daca8e-ef14-4773-afef-04816e5d3e76
+:END:
+#+title: Commander Irisa Nyira
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020506-Freelance_Report__CIMA_Honours_Contest_Winners.org][33020506-Freelance_Report__CIMA_Honours_Contest_Winners.org]]

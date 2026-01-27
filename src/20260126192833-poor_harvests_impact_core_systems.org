@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       230a3ab4-d61c-4558-963b-c750d125d400
+:END:
+#+title: Poor Harvests Impact Core Systems
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33051003-Poor_Harvests_Impact_Core_Systems.org][33051003-Poor_Harvests_Impact_Core_Systems.org]]

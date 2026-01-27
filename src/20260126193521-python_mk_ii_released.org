@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2be77171-4c70-4197-b0a0-1eb539aaca40
+:END:
+#+title: Python Mk II Released
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3310/33100507-Python_Mk_II_Released__Faulcon_DeLacy_announces_collaboration_with_Achilles_Aerospace.org][33100507-Python_Mk_II_Released__Faulcon_DeLacy_announces_collaboration_with_Achilles_Aerospace.org]]

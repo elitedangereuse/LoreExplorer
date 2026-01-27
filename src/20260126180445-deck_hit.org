@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9a2e7fcb-f798-4e7c-81d9-33ba825dd2eb
+:END:
+#+title: Deck Hit
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33071012-Jokers’_Deck_Hit_by_Art_Thief.org][33071012-Jokers’_Deck_Hit_by_Art_Thief.org]]

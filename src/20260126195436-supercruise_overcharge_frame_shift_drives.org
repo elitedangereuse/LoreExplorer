@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ded849c8-9275-422b-93ce-acd53fbcc0a6
+:END:
+#+title: Supercruise Overcharge Frame Shift Drives
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3310/33100509-Achilles_Aerospace_releases_full_selection_of_Supercruise_Overcharge_modules.org][33100509-Achilles_Aerospace_releases_full_selection_of_Supercruise_Overcharge_modules.org]]

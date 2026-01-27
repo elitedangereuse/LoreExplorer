@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1cb29c05-eea4-4875-8969-dc08e36edadb
+:END:
+#+title: Chun Tstar
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050314-Nuclear_Threat_Shuts_Down_Starport.org][33050314-Nuclear_Threat_Shuts_Down_Starport.org]]

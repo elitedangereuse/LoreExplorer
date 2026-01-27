@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1abc44b2-c29d-4d0f-9760-e3967f673400
+:END:
+#+title: Eta Draconis Falls
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010320-The_Union_of_Eta_Draconis_Falls_to_Force.org][33010320-The_Union_of_Eta_Draconis_Falls_to_Force.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a5e82ff2-472c-488f-bdf1-c226e6aca0a4
+:END:
+#+title: Partners Dukes
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030702-Galactic_News__Weekly_Expansion_Report.org][33030702-Galactic_News__Weekly_Expansion_Report.org]]

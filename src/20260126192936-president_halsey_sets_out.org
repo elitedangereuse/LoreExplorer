@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2d8c3ce8-e59a-4a45-8e31-f22313450f2c
+:END:
+#+title: President Halsey Sets Out
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010513-President_Halsey_Sets_Out_from_Sol.org][33010513-President_Halsey_Sets_Out_from_Sol.org]]

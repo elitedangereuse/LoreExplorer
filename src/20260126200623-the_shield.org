@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c679f8ee-6b19-40e6-8dc4-cb53c1637304
+:END:
+#+title: The Shield
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020429-Powerplay__Weekly_Report.org][33020429-Powerplay__Weekly_Report.org]]

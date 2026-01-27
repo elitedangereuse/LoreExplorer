@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b265102d-82bd-4eeb-861c-30e2eff267e2
+:END:
+#+title: Guardian Space
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050523-Corporations_Clash_in_Guardian_Space.org][33050523-Corporations_Clash_in_Guardian_Space.org]]

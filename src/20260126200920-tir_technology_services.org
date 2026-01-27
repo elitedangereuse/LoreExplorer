@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b5824a55-b0e8-436d-83e3-ce2a2f274bbc
+:END:
+#+title: Tir Technology Services
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040629-Colonia_Scientific_Installation_Project.org][33040629-Colonia_Scientific_Installation_Project.org]]

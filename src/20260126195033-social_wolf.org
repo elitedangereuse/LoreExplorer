@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       381104df-bafc-4b31-9336-dd461b1fee43
+:END:
+#+title: Social Wolf
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011116-GalNet_Weekly_Economic_Report.org][33011116-GalNet_Weekly_Economic_Report.org]]

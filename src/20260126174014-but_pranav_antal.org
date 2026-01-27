@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2e0e13ee-bc97-41c8-b6e6-cdadf648d422
+:END:
+#+title: But Pranav Antal
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020616-Community_Goal__Pranav_Antal_Requests_Exploration_Data.org][33020616-Community_Goal__Pranav_Antal_Requests_Exploration_Data.org]]

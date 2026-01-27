@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c43fe541-2447-4350-b0b1-03ac2b11f02f
+:END:
+#+title: Company Elite Rebel Force Ahaut
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020610-Galactic_News__Weekly_Conflict_Report.org][33020610-Galactic_News__Weekly_Conflict_Report.org]]

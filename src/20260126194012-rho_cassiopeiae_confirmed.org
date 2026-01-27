@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4cf1d037-13f8-4042-9a57-f8a37c17e97b
+:END:
+#+title: Rho Cassiopeiae Confirmed
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020418-Freelance_Report__First_Expedition_to_Rho_Cassiopeiae_Confirmed.org][33020418-Freelance_Report__First_Expedition_to_Rho_Cassiopeiae_Confirmed.org]]

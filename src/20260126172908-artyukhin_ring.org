@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       04e89b34-98ae-4082-9396-76b39c4ba888
+:END:
+#+title: Artyukhin Ring
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010524-Securing_the_Borders_in_the_Ceti_Sector.org][33010524-Securing_the_Borders_in_the_Ceti_Sector.org]]

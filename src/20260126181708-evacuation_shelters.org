@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d6de86fa-7b4e-42e9-96c1-3227bdc7c401
+:END:
+#+title: Evacuation Shelters
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011221-The_Canonn_Supports_Palin's_Effort.org][33011221-The_Canonn_Supports_Palin's_Effort.org]]

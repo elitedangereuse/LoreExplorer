@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0e0ef3a6-d33f-4b4d-97b3-ae379c83d570
+:END:
+#+title: Safeguard Interstellar
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33061022-Federal_Initiative_to_Support_Marlinist_Refugees.org][33061022-Federal_Initiative_to_Support_Marlinist_Refugees.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c5a854d3-7911-4164-8d51-fc31edc54028
+:END:
+#+title: Conformist Oboe XX
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030408-Galactic_News__Message_Received_from_Col_70_Sector.org][33030408-Galactic_News__Message_Received_from_Col_70_Sector.org]]

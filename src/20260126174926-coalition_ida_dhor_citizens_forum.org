@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2cc9fff0-e4f9-446c-a24d-293cfd143a47
+:END:
+#+title: Coalition Ida Dhor Citizens' Forum
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010811-GalNet_Weekly_Security_Digest.org][33010811-GalNet_Weekly_Security_Digest.org]]

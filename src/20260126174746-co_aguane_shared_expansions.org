@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       441a13ef-00fb-455f-ae9b-5e39c620f923
+:END:
+#+title: Co Aguane Shared Expansions
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030716-Galactic_News__Weekly_Expansion_Report.org][33030716-Galactic_News__Weekly_Expansion_Report.org]]

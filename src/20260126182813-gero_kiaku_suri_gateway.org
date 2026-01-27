@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4dfe1f2a-60e2-4ad4-a8ce-6a1d2cf639ca
+:END:
+#+title: Gero Kiaku Suri Gateway
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040815-Starport_Status_Update.org][33040815-Starport_Status_Update.org]]

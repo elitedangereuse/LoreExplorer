@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       eb205e16-33d3-4ce2-9f3f-a3249d88d802
+:END:
+#+title: Kooi Gateway
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020407-Community_Goal__Improving_Mining_Facilities_at_Kooi_Gateway.org][33020407-Community_Goal__Improving_Mining_Facilities_at_Kooi_Gateway.org]]

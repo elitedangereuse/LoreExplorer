@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9329d9a9-af71-4e98-bb8d-8bce798012f3
+:END:
+#+title: Fugeirones Shared Jang Tun Corp
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010724-GalNet_Weekly_Conflict_Report.org][33010724-GalNet_Weekly_Conflict_Report.org]]

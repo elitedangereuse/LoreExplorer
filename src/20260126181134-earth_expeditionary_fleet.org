@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a4f3ee43-1ab4-4bc1-86d7-57dc1507f936
+:END:
+#+title: Earth Expeditionary Fleet
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020618-Freelance_Report__Formidine_Rifters_Seek_Help.org][33020618-Freelance_Report__Formidine_Rifters_Seek_Help.org]]

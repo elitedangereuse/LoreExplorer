@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       61aaade6-1b2e-4880-a005-2be61e1e599d
+:END:
+#+title: Achenar Research Council
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030805-Galactic_News__Joint_Superpower_Initiative_Announced.org][33030805-Galactic_News__Joint_Superpower_Initiative_Announced.org]]

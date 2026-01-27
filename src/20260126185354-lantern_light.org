@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2655f827-013c-4c25-a2bc-db377532bee7
+:END:
+#+title: Lantern Light
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3311/33110324-Brewer_Corporation_deploying_to_assist_Lantern_Light_station.org][33110324-Brewer_Corporation_deploying_to_assist_Lantern_Light_station.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c8c072c8-d8fa-4d60-8cec-645e469e8360
+:END:
+#+title: Aurawala Woloniugo Gold Universal Comms
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010929-GalNet_Weekly_Security_Digest.org][33010929-GalNet_Weekly_Security_Digest.org]]

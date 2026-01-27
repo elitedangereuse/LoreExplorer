@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       00441f01-59f5-483e-9cf3-a3f77d0c9094
+:END:
+#+title: President Hudson
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010602-Zachary_Hudson_Becomes_the_New_President_of_the_Federation.org][33010602-Zachary_Hudson_Becomes_the_New_President_of_the_Federation.org]]

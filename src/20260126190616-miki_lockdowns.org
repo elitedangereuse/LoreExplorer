@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bf174999-f9e9-4845-981b-774040361536
+:END:
+#+title: Miki Lockdowns
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020301-Galactic_News__Weekly_Security_Digest.org][33020301-Galactic_News__Weekly_Security_Digest.org]]

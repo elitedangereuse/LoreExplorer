@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       22aeb10c-cb8e-45b3-bdf8-af3a77374766
+:END:
+#+title: Should Antal
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020129-Powerplay__Weekly_Report.org][33020129-Powerplay__Weekly_Report.org]]

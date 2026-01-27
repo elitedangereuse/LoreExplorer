@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6fd0ce07-c8fa-45a0-8b51-8e5a26fc2704
+:END:
+#+title: Black Mausoleum
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010810-Portrait_of_a_Bounty_Hunter.org][33010810-Portrait_of_a_Bounty_Hunter.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       eff155fd-63a4-4659-b1bd-849e3f38f7e4
+:END:
+#+title: Sinclair Faraldo
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070617-Materials_Needed_for_Enhanced_Ship_Module.org][33070617-Materials_Needed_for_Enhanced_Ship_Module.org]]

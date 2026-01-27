@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       40b399fc-cbac-4bba-a904-f979e6ff2e0b
+:END:
+#+title: Trevithick Vision
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33061001-New_Starports_Become_Operational.org][33061001-New_Starports_Become_Operational.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       270e481a-f686-4a4b-93c2-3efe39aeda02
+:END:
+#+title: Hold Meeting Mavia Kain
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010814-Imperial_Inquisition_and_Emperor's_Grace_to_Hold_Meeting.org][33010814-Imperial_Inquisition_and_Emperor's_Grace_to_Hold_Meeting.org]]

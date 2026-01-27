@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       54eaa2dc-c0d7-4e1f-b2b5-e86e1c020185
+:END:
+#+title: Malthus Terminal
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33031202-Galactic_News__New_Aegis_Initiative.org][33031202-Galactic_News__New_Aegis_Initiative.org]]

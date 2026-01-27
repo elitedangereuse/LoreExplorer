@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9196d28e-2772-4afa-be7f-b2d485fca0ce
+:END:
+#+title: Ngolibardu Ambiri
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010921-GalNet_Weekly_Economic_Report.org][33010921-GalNet_Weekly_Economic_Report.org]]

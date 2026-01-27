@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c5c7a64c-3bc7-4567-8cbe-0afcdcd6c332
+:END:
+#+title: The Sovereign
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020602-Community_Goal__The_Dangerous_Games_Begin.org][33020602-Community_Goal__The_Dangerous_Games_Begin.org]]

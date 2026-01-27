@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f6dedd19-0af7-4d41-95c7-806d0348fec5
+:END:
+#+title: Securing Zaonce
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010505-Silver_United_Succeed_at_Securing_Zaonce.org][33010505-Silver_United_Succeed_at_Securing_Zaonce.org]]

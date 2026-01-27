@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7d4367a1-854f-45f3-a56f-ae81d28a7538
+:END:
+#+title: Bob Dobilina
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030303-Freelance_Report__The_Mercury_Seven_Expedition.org][33030303-Freelance_Report__The_Mercury_Seven_Expedition.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5a055bbe-3d1f-4ded-9a88-3d3f5a3a19d3
+:END:
+#+title: Larry Oldman
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020527-Meta-Alloy_Sale_Announced_at_Darnielle's_Progress.org][33020527-Meta-Alloy_Sale_Announced_at_Darnielle's_Progress.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5b698bce-9f30-42cd-9ef6-3129eae3cfe4
+:END:
+#+title: Gaiman Dock
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011023-Technical_Trouble_in_49_Arietis.org][33011023-Technical_Trouble_in_49_Arietis.org]]

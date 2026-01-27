@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       26adc93c-2205-4eea-9806-f03a9253ae01
+:END:
+#+title: Kumo Crew Starports Open
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070430-Kumo_Crew_Starports_Open_for_Business.org][33070430-Kumo_Crew_Starports_Open_for_Business.org]]

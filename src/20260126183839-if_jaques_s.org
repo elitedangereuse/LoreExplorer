@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0ffbeb0d-4235-46c7-b84b-77b3f32b94c5
+:END:
+#+title: If Jaques's
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020721-Community_Goal__Repair_Jaques_Station.org][33020721-Community_Goal__Repair_Jaques_Station.org]]

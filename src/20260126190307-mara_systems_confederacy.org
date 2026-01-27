@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e1187f02-5f63-44fd-ac8f-9dfbb3d55e85
+:END:
+#+title: Mara Systems Confederacy
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020716-Galactic_News__Weekly_Expansion_Report.org][33020716-Galactic_News__Weekly_Expansion_Report.org]]

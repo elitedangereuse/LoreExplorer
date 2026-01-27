@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0fbe4170-3bf2-4fc2-a0ed-4d0db2743f8c
+:END:
+#+title: Commander Angel Rose
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010221-Vesperian_Auction_Today_Only.org][33010221-Vesperian_Auction_Today_Only.org]]

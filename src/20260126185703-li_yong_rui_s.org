@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8f268bee-4f4d-41dd-b1c4-e0a9d9b47bb0
+:END:
+#+title: Li Yong-Rui's
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010731-A_Week_in_Powerplay.org][33010731-A_Week_in_Powerplay.org]]

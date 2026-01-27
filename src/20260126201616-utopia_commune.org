@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       242faa17-92f1-4cf4-816d-f0ab071d1780
+:END:
+#+title: Utopia Commune
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030421-Galactic_News__Utopia_Appeal_Concludes.org][33030421-Galactic_News__Utopia_Appeal_Concludes.org]]

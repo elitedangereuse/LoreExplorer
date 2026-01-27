@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       cc5e9a06-03a3-4115-adce-b357303fae6a
+:END:
+#+title: Ogden Smith
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040728-Classic_Children’s_Show_Returns.org][33040728-Classic_Children’s_Show_Returns.org]]

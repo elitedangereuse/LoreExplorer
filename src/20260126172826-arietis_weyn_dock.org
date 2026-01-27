@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       32cd6f48-793d-4750-9a38-1943ba6060eb
+:END:
+#+title: Arietis Weyn Dock
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020120-More_Starports_Fall_Victim_to_Technological_Plague.org][33020120-More_Starports_Fall_Victim_to_Technological_Plague.org]]

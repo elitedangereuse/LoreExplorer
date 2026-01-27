@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       976c0521-74f9-4809-a50e-47fb11d7aa3c
+:END:
+#+title: Dervish Platform
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33031215-Community_Goal__Operation_Whirling_Dervish.org][33031215-Community_Goal__Operation_Whirling_Dervish.org]]

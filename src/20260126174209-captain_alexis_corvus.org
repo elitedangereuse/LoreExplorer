@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       663b5078-69cd-4852-bfc8-31de5dc82e3e
+:END:
+#+title: Captain Alexis Corvus
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020721-Freelance_Report__Probe_Research_Implications.org][33020721-Freelance_Report__Probe_Research_Implications.org]]

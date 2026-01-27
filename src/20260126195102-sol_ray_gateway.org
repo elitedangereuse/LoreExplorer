@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4fb8267e-f746-429f-bed4-7291301a288c
+:END:
+#+title: Sol Ray Gateway
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020104-Services_Suspended_at_Gabriel_Enterprise.org][33020104-Services_Suspended_at_Gabriel_Enterprise.org]]

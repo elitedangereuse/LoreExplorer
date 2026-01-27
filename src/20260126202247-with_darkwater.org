@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5fbeb1f3-305f-4841-be18-9279e34ac1ae
+:END:
+#+title: With Darkwater
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080224-Battle_of_Summerland_Ends_NMLA_Threat.org][33080224-Battle_of_Summerland_Ends_NMLA_Threat.org]]

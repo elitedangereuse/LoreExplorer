@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       377bd40f-2020-4f35-8711-ba9069d4b08a
+:END:
+#+title: New Technology
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040113-New_Technology_from_Aegis.org][33040113-New_Technology_from_Aegis.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       420d6d1c-80a6-4cc2-b111-8d56caf467df
+:END:
+#+title: Banisas Partnership
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020223-Galactic_News__Weekly_Security_Digest.org][33020223-Galactic_News__Weekly_Security_Digest.org]]

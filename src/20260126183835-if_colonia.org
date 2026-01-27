@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       76664a51-e8dc-40eb-836f-6d6daabe4e67
+:END:
+#+title: If Colonia
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040629-Colonia_Scientific_Installation_Project.org][33040629-Colonia_Scientific_Installation_Project.org]]

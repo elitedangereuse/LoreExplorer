@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       385cc646-6157-4190-8857-b26f39f9d2ab
+:END:
+#+title: Idini Boom
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020912-Galactic_News__Weekly_Economic_Report.org][33020912-Galactic_News__Weekly_Economic_Report.org]]

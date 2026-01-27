@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1b4c051e-bb05-444d-8dea-daf04dfc5948
+:END:
+#+title: Vision Industry Gun
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020621-Galactic_News__Weekly_Security_Report.org][33020621-Galactic_News__Weekly_Security_Report.org]]

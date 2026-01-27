@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2ab9421f-e4bb-4e56-a7ad-aaf4059b0e0b
+:END:
+#+title: Corte-Real Terminal
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040406-Starport_Status_Update.org][33040406-Starport_Status_Update.org]]

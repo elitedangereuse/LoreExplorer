@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e8316392-2179-4b35-be13-ac51be829b97
+:END:
+#+title: Bhottada Norgay Hub
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030601-Galactic_News__Starport_Status_Update.org][33030601-Galactic_News__Starport_Status_Update.org]]

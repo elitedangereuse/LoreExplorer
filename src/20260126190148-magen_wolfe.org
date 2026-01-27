@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       cc055b06-be73-45e2-a770-bf37c3c74e9a
+:END:
+#+title: Magen Wolfe
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33031230-Galactic_News__Further_Migration_to_Colonia.org][33031230-Galactic_News__Further_Migration_to_Colonia.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8acf5988-7be2-41bb-bac8-3e703a205282
+:END:
+#+title: The Marlin Standard
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070705-NMLA_Political_Wing_Causes_Controversy.org][33070705-NMLA_Political_Wing_Causes_Controversy.org]]

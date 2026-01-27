@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       256ac299-a0f1-48f6-a4f0-e000f79617b2
+:END:
+#+title: The Adad Exchange
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030216-Community_Goal__Upheaval_in_Sutekh.org][33030216-Community_Goal__Upheaval_in_Sutekh.org]]

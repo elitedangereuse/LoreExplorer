@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c39b3cd2-b0a2-4d10-ae45-10edc6c0a192
+:END:
+#+title: Mula Wendes
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020318-Powerplay__Weekly_Report.org][33020318-Powerplay__Weekly_Report.org]]

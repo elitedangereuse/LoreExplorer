@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0ad111d7-ff30-43f8-911d-a041c76e930b
+:END:
+#+title: Duval Line
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33071015-NMLA_Aims_to_‘Extinguish_the_Duval_Line’.org][33071015-NMLA_Aims_to_‘Extinguish_the_Duval_Line’.org]]

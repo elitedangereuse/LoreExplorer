@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d61f040e-6122-44a7-89be-f034cf53fe4f
+:END:
+#+title: The Skvortsov Orbital Hangover
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020526-Community_Goal__The_Skvortsov_Orbital_Hangover.org][33020526-Community_Goal__The_Skvortsov_Orbital_Hangover.org]]

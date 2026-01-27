@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0589fa0f-9cda-4f8a-a6fc-692fa7583bcb
+:END:
+#+title: Co Pirates
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021011-Galactic_News__Weekly_Security_Report.org][33021011-Galactic_News__Weekly_Security_Report.org]]

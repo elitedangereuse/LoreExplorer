@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f052c642-90c0-434d-a3f4-13a595b4ba46
+:END:
+#+title: Malanges Meanwhile
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030830-Galactic_News__Starport_Status_Update.org][33030830-Galactic_News__Starport_Status_Update.org]]

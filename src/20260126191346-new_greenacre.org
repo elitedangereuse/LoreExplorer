@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e6aaca68-fae6-47ee-8eca-24a3bb34b12f
+:END:
+#+title: New Greenacre
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3310/33100213-Catastrophic_Earthquakes_Strike_Rhea_3.org][33100213-Catastrophic_Earthquakes_Strike_Rhea_3.org]]

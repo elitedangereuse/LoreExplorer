@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9ac88450-9669-44ac-ba47-680545c46df5
+:END:
+#+title: Bridge Co Bureau
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020317-Galactic_News__Weekly_Democracy_Report.org][33020317-Galactic_News__Weekly_Democracy_Report.org]]

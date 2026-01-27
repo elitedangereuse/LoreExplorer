@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bc788383-23f5-4b70-874a-ea4e47a6c929
+:END:
+#+title: Now Jeffress
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011217-Another_Jeffress_Treasure_Hunt.org][33011217-Another_Jeffress_Treasure_Hunt.org]]

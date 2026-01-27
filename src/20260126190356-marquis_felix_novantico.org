@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f032c4c0-f941-40a7-b3ad-d0a3072c37f4
+:END:
+#+title: Marquis Felix Novantico
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040426-Utopia_Plans_for_Humanity’s_Extinction.org][33040426-Utopia_Plans_for_Humanity’s_Extinction.org]]

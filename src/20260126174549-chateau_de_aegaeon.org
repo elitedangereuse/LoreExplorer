@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       276112e7-e12f-45b6-9a53-2919da89c7d7
+:END:
+#+title: Chateau De Aegaeon
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010413-Patreus_and_the_Princess_Share_Food_for_Thought.org][33010413-Patreus_and_the_Princess_Share_Food_for_Thought.org]]

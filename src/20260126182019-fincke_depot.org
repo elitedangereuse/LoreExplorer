@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       143401fe-5bec-4def-9a4b-82b85c259036
+:END:
+#+title: Fincke Depot
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010605-Kumo_Crew_-_Uniting_the_Pegasi_Pirates.org][33010605-Kumo_Crew_-_Uniting_the_Pegasi_Pirates.org]]

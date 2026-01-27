@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3ded76f0-cf06-48ab-af65-bd3a04b66e89
+:END:
+#+title: United Ys Left Party Kunggul
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011110-GalNet_Weekly_Security_Digest.org][33011110-GalNet_Weekly_Security_Digest.org]]

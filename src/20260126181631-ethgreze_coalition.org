@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       22e2c411-d904-48f3-bd8e-506f0cb5d02c
+:END:
+#+title: Ethgreze Coalition
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030217-Galactic_News__Weekly_Conflict_Report.org][33030217-Galactic_News__Weekly_Conflict_Report.org]]

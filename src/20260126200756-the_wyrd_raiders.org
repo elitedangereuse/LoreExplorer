@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c4c125e0-f8ac-4564-a6d7-9891052f0ab5
+:END:
+#+title: The Wyrd Raiders
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020505-Community_Goal__Tantalum_for_the_Wyrd_Raiders.org][33020505-Community_Goal__Tantalum_for_the_Wyrd_Raiders.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2c1d91a7-f610-4a9e-a4c9-e41703811ec5
+:END:
+#+title: The Cassiopeia Project
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021014-Freelance_Report__The_Cassiopeia_Expedition.org][33021014-Freelance_Report__The_Cassiopeia_Expedition.org]]

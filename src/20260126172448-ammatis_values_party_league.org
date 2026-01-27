@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       966f372e-38c9-4902-a8f9-b8ef6425f4c6
+:END:
+#+title: Ammatis Values Party League
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011215-GalNet_Weekly_Security_Digest.org][33011215-GalNet_Weekly_Security_Digest.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       92d397b5-9a98-429e-8f4f-142c288b9ae7
+:END:
+#+title: The Origin
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020715-Galactic_News__The_Origin_of_the_Alliance.org][33020715-Galactic_News__The_Origin_of_the_Alliance.org]]

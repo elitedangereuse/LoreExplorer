@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6c6e0caa-4693-44e2-ad30-697c19d12ebf
+:END:
+#+title: Military Grade Fabrics
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050214-Merope_Defence_Initiative.org][33050214-Merope_Defence_Initiative.org]]

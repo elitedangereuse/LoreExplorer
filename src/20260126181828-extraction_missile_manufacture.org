@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7e84ed82-4e20-496f-9c1c-2da1341adea7
+:END:
+#+title: Extraction Missile Manufacture
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090928-Deliver_Resources_for_Extraction_Missile_Manufacture.org][33090928-Deliver_Resources_for_Extraction_Missile_Manufacture.org]]

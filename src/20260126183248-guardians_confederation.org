@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bd250623-a85d-4d31-bdd9-b52e051c01d8
+:END:
+#+title: Guardians Confederation
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021105-Galactic_News__Weekly_Expansion_Report.org][33021105-Galactic_News__Weekly_Expansion_Report.org]]

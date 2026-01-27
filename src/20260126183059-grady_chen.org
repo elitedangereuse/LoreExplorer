@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f1d82abd-cf91-4786-b0d7-9c936099e857
+:END:
+#+title: Grady Chen
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050802-Lave_Citizens_Comment_on_Festival.org][33050802-Lave_Citizens_Comment_on_Festival.org]]

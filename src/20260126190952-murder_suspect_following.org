@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       32d3acf8-44e4-4406-ac30-411c5200c04a
+:END:
+#+title: Murder Suspect Following
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010823-Federal_Times_Reporter_Named_as_Murder_Suspect.org][33010823-Federal_Times_Reporter_Named_as_Murder_Suspect.org]]

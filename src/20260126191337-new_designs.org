@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       efe47bb1-f228-4fdb-995f-48c867844770
+:END:
+#+title: New Designs
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040407-New_Designs_from_Technology_Brokers.org][33040407-New_Designs_from_Technology_Brokers.org]]

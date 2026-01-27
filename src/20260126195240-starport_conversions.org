@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e2148c77-85b7-4eb7-93b7-97bdb798e5c1
+:END:
+#+title: Starport Conversions
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33060917-Community_Support_Required_for_Starport_Conversions.org][33060917-Community_Support_Required_for_Starport_Conversions.org]]

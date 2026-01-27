@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       72d9e75a-0cd4-4cf9-920e-d5f1f8b07885
+:END:
+#+title: Fuel Rat Deep Space Relay
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010721-Fuel_Rat_Deep_Space_Relay_Rescue.org][33010721-Fuel_Rat_Deep_Space_Relay_Rescue.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       932ab16a-7291-4e9b-bbbf-14e3965a10e4
+:END:
+#+title: Literary Event
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050816-Fiction_Fans_Gather_for_Literary_Event.org][33050816-Fiction_Fans_Gather_for_Literary_Event.org]]

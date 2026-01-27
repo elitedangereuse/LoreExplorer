@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7c5bd058-d164-4bb9-b50d-95f72702f431
+:END:
+#+title: Be Alert
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3310/33100910-Aegis__“Be_Alert_for_Thargoid_Counterattacks”.org][33100910-Aegis__“Be_Alert_for_Thargoid_Counterattacks”.org]]

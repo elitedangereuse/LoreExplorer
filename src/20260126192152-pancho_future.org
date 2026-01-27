@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       df3c3c52-1734-4985-8a1d-d46e87d7e8e7
+:END:
+#+title: Pancho Future
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020205-Galactic_News__Weekly_Conflict_Report.org][33020205-Galactic_News__Weekly_Conflict_Report.org]]

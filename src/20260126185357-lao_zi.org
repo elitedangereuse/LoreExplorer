@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1ec12802-62f9-4e7b-ac70-2a904a809d6c
+:END:
+#+title: Lao Zi
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020108-A_Week_in_Powerplay.org][33020108-A_Week_in_Powerplay.org]]

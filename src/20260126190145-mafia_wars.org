@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0a4cb924-8862-4bb5-813c-09eceb656312
+:END:
+#+title: Mafia Wars
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020812-Galactic_News__Weekly_Conflict_Report.org][33020812-Galactic_News__Weekly_Conflict_Report.org]]

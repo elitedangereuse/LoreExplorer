@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       784e1bf3-32eb-42d3-8b40-9dec22fb979f
+:END:
+#+title: The Lasting Hold
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050810-The_Greatest_Gig_in_the_Galaxy.org][33050810-The_Greatest_Gig_in_the_Galaxy.org]]

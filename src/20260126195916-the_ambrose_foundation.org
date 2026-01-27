@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4c271893-92a1-4931-b1ae-bc60c13b62aa
+:END:
+#+title: The Ambrose Foundation
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050209-Ambrose_Foundation_Bankrupted_Overnight.org][33050209-Ambrose_Foundation_Bankrupted_Overnight.org]]

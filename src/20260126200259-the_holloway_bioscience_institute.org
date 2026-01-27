@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c1a2431f-95db-4d0c-afc1-c516fb619306
+:END:
+#+title: The Holloway Bioscience Institute
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070107-Xenological_Samples_Required_by_Colonia_Scientists.org][33070107-Xenological_Samples_Required_by_Colonia_Scientists.org]]

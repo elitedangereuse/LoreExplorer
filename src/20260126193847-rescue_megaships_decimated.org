@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e352686d-9c0b-4671-9298-7f1b861ba94e
+:END:
+#+title: Rescue Megaships Decimated
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3310/33101206-Rescue_Megaships_Decimated_by_Thargoid_Fleet.org][33101206-Rescue_Megaships_Decimated_by_Thargoid_Fleet.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       76051319-c6b5-4fd8-a026-db8573e9ad98
+:END:
+#+title: McDonald Platform
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040815-Starport_Status_Update.org][33040815-Starport_Status_Update.org]]

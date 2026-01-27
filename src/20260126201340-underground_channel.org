@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b2aa9596-54a2-425d-a00d-11e071bb4f57
+:END:
+#+title: Underground Channel
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010819-A_Brief_Look_Back.org][33010819-A_Brief_Look_Back.org]]

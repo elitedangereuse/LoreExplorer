@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d55fa8e2-05fc-4691-8ba7-05f4cb9f972d
+:END:
+#+title: Professor Denzile Dex
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010712-Leaked_Data_Causes_Concerns_over_Latest_Imperial_Technology.org][33010712-Leaked_Data_Causes_Concerns_over_Latest_Imperial_Technology.org]]

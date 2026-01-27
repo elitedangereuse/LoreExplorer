@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5274330e-a0ba-4a6c-a0da-70f625d39c81
+:END:
+#+title: Ancient Probe
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040413-Signal_Could_be_Ancient_Probe.org][33040413-Signal_Could_be_Ancient_Probe.org]]

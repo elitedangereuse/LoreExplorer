@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       661e3fdf-baa8-41fa-b64e-0d48c5f89f7a
+:END:
+#+title: Commander Cly
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020629-Galactic_News__Jaques_Station_Found!.org][33020629-Galactic_News__Jaques_Station_Found!.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       36b3dd0c-a2dc-4c7f-8569-d53ae5f4cb0a
+:END:
+#+title: Distant Worlds Megaship
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050703-Distant_Worlds_Megaship_and_Station_Operational.org][33050703-Distant_Worlds_Megaship_and_Station_Operational.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       546a111a-7863-42fd-a1f6-166fc31b00e1
+:END:
+#+title: Harm First Civil
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020628-Galactic_News__Weekly_Security_Report.org][33020628-Galactic_News__Weekly_Security_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7f8cea84-d73c-4723-9f88-8c7a74408d89
+:END:
+#+title: Gold Dragons League
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020906-Galactic_News__Weekly_Security_Report.org][33020906-Galactic_News__Weekly_Security_Report.org]]

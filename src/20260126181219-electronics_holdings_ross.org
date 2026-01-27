@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e78a310c-6217-4652-9f6b-e0cb9f0e26c1
+:END:
+#+title: Electronics Holdings Ross
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011225-GalNet_Weekly_Conflict_Report.org][33011225-GalNet_Weekly_Conflict_Report.org]]

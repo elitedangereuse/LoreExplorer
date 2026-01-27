@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c9b3c2f3-3da1-40b1-bd4f-be93540ee999
+:END:
+#+title: Pleased To Eat You
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020306-Freelance_Report__Pleased_To_Eat_You.org][33020306-Freelance_Report__Pleased_To_Eat_You.org]]

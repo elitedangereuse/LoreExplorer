@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e0f48727-9297-43d1-94c9-61fed60bc3d7
+:END:
+#+title: Matteucci Terminal
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010213-Restoring_Sanity_to_Anarchy_in_Banki_and_BD+03_2338.org][33010213-Restoring_Sanity_to_Anarchy_in_Banki_and_BD+03_2338.org]]

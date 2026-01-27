@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b3ceabd6-298b-4f36-a1af-2197755cc883
+:END:
+#+title: Congressional Confidence
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010530-A_Vote_of_Congressional_Confidence.org][33010530-A_Vote_of_Congressional_Confidence.org]]

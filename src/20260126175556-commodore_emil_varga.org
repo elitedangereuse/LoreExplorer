@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       dad7466f-9f3f-41e3-b9d8-70e24dd4d19e
+:END:
+#+title: Commodore Emil Varga
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090206-Mahon__‘Alliance_Will_Support_Aegis’.org][33090206-Mahon__‘Alliance_Will_Support_Aegis’.org]]

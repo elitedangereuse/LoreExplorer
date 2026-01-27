@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d1d7bcec-611a-4fd2-880a-28a818c19165
+:END:
+#+title: The Demands
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020715-Freelance_Report__The_Demands_of_Supply.org][33020715-Freelance_Report__The_Demands_of_Supply.org]]

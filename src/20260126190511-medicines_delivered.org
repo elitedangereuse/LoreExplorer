@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4bf7b67e-c73f-4469-9758-8273f893dc98
+:END:
+#+title: Medicines Delivered
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070325-Medicines_Delivered_for_Starport_Bombing_Survivors.org][33070325-Medicines_Delivered_for_Starport_Bombing_Survivors.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ce39b5ae-124a-4c9f-a35f-4b562dac595d
+:END:
+#+title: Explorers' Association Request
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011104-Positive_Response_to_Explorers'_Association_Request.org][33011104-Positive_Response_to_Explorers'_Association_Request.org]]

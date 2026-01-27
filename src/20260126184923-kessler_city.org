@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5c7b6df0-54f4-4521-a059-e999c8f35ef3
+:END:
+#+title: Kessler City
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070917-Delta_Pavonis_Hosts_Political_Conference.org][33070917-Delta_Pavonis_Hosts_Political_Conference.org]]

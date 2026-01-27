@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       89fc9f22-12c5-403b-9722-63c738b393a1
+:END:
+#+title: Corvi MacLeod Hub
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040823-Starport_Status_Update.org][33040823-Starport_Status_Update.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       52f72c57-f4e5-4375-b354-cf91920c08ec
+:END:
+#+title: Aulin Nationals
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030221-Galactic_News__Weekly_Security_Report.org][33030221-Galactic_News__Weekly_Security_Report.org]]

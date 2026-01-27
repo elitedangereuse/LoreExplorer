@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       57700921-3822-4657-b77a-f436a85c6584
+:END:
+#+title: Jet Transport Systems Katurru Independents
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010915-GalNet_Weekly_Security_Digest.org][33010915-GalNet_Weekly_Security_Digest.org]]

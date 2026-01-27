@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3d2d571d-41c2-484b-8aa5-d931061f4bbd
+:END:
+#+title: Nascent Starport Targeted
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011029-Nascent_Starport_Targeted_by_Pirates.org][33011029-Nascent_Starport_Targeted_by_Pirates.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4b7a1392-a643-4b4f-a1f1-1a442b3292c0
+:END:
+#+title: Scirtoq Meanwhile
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020630-Galactic_News__Starport_Status_Update.org][33020630-Galactic_News__Starport_Status_Update.org]]

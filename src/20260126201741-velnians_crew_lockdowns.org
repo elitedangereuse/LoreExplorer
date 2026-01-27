@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2fc1ff90-1eba-421e-b601-37fb3f90b495
+:END:
+#+title: Velnians Crew Lockdowns
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010714-GalNet_Weekly_Security_Digest.org][33010714-GalNet_Weekly_Security_Digest.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9b52d7b7-588c-4ee4-a965-1d2433e03c22
+:END:
+#+title: Gold Hub
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040302-Arming_Colonia.org][33040302-Arming_Colonia.org]]

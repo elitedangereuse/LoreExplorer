@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       933f56af-888f-4c59-819e-130fa7b10ea5
+:END:
+#+title: Commander Finn McMillan
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020418-Freelance_Report__First_Expedition_to_Rho_Cassiopeiae_Confirmed.org][33020418-Freelance_Report__First_Expedition_to_Rho_Cassiopeiae_Confirmed.org]]

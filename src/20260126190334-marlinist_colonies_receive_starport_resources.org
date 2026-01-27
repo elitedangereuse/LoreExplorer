@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ca42f190-6e8b-4b04-ac32-7d90b5037d92
+:END:
+#+title: Marlinist Colonies Receive Starport Resources
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080421-Marlinist_Colonies_Receive_Starport_Resources.org][33080421-Marlinist_Colonies_Receive_Starport_Resources.org]]

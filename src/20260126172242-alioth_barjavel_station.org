@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2cddc80d-2c80-4772-8dc5-77ea19ffc7fb
+:END:
+#+title: Alioth Barjavel Station
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030928-Galactic_News__Starport_Status_Update.org][33030928-Galactic_News__Starport_Status_Update.org]]

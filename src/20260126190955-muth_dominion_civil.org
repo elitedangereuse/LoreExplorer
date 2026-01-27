@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6d73ac40-88b1-4ccc-b782-6b388e5bd0eb
+:END:
+#+title: Muth Dominion Civil
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011204-GalNet_Weekly_Conflict_Report.org][33011204-GalNet_Weekly_Conflict_Report.org]]

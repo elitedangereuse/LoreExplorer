@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       09fc7596-b5dd-4326-a944-8820798b65ab
+:END:
+#+title: The Missing Emperor
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080120-The_Missing_Emperor_.org][33080120-The_Missing_Emperor_.org]]

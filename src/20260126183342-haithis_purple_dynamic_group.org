@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ec193b20-5ffb-45e3-9aee-511bb6165c14
+:END:
+#+title: Haithis Purple Dynamic Group
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070902-Pharma_Giant_Begins_Onionhead_Project.org][33070902-Pharma_Giant_Begins_Onionhead_Project.org]]

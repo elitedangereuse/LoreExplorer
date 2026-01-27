@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e5180b54-e755-4d70-80e1-bc4513e35f04
+:END:
+#+title: Eta Cephei
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33060917-Community_Support_Required_for_Starport_Conversions.org][33060917-Community_Support_Required_for_Starport_Conversions.org]]

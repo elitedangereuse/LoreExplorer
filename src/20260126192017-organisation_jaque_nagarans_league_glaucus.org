@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bfbc2363-ff72-4b8e-b360-3d7c4ae93ade
+:END:
+#+title: Organisation Jaque Nagarans League Glaucus
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020510-Galactic_News__Weekly_Security_Report.org][33020510-Galactic_News__Weekly_Security_Report.org]]

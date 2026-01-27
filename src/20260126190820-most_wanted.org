@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       271708a6-2a42-495e-8cd1-6a34d9dc2a53
+:END:
+#+title: Most Wanted
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010810-Portrait_of_a_Bounty_Hunter.org][33010810-Portrait_of_a_Bounty_Hunter.org]]

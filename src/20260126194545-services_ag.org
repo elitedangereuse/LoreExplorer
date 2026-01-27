@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2627d6e5-c09d-4654-ac92-265a1e057074
+:END:
+#+title: Services AG
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030324-Galactic_News__Weekly_Conflict_Report.org][33030324-Galactic_News__Weekly_Conflict_Report.org]]

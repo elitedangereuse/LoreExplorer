@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2618f2d5-1dff-4916-a19f-be26ee4742d0
+:END:
+#+title: Travel Ltd Civil
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030527-Galactic_News__Weekly_Conflict_Report.org][33030527-Galactic_News__Weekly_Conflict_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       fbeaa02c-f505-45b8-9dcd-b18d19aa7a84
+:END:
+#+title: Captain Takio Diomedes
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040803-Aisling_Duval_Assassination_Foiled.org][33040803-Aisling_Duval_Assassination_Foiled.org]]

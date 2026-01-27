@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       abd925e9-202b-4fe1-aa81-3dc193483793
+:END:
+#+title: Gende Civil
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020927-Galactic_News__Weekly_Security_Report.org][33020927-Galactic_News__Weekly_Security_Report.org]]

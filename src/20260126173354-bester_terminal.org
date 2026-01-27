@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e478a34e-2b2c-4ebb-a3bd-3ce5ad55ef97
+:END:
+#+title: Bester Terminal
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040925-Starport_Status_Update.org][33040925-Starport_Status_Update.org]]

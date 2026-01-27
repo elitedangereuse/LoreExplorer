@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d68128c2-557e-4d2d-8d11-5e891d400ffd
+:END:
+#+title: But Reed's Rest
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040622-Starports_Recover_from_Thargoid_Strikes.org][33040622-Starports_Recover_from_Thargoid_Strikes.org]]

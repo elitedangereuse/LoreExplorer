@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0c85f4f2-4dd8-4539-926e-fc0aca45bcd5
+:END:
+#+title: Hazardous Environment Suits
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021222-Community_Goals__Alliance_to_Build_New_Outpost.org][33021222-Community_Goals__Alliance_to_Build_New_Outpost.org]]

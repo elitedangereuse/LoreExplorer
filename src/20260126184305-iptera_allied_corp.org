@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       64d11611-caf3-49a2-b7ad-5868762e729b
+:END:
+#+title: Iptera Allied Corp
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030225-Galactic_News__Weekly_Expansion_Report.org][33030225-Galactic_News__Weekly_Expansion_Report.org]]

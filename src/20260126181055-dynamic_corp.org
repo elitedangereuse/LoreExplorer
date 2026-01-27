@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e21880d6-479d-4f4d-9bf7-da8060740c8d
+:END:
+#+title: Dynamic Corp
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020905-Galactic_News__Weekly_Economic_Report.org][33020905-Galactic_News__Weekly_Economic_Report.org]]

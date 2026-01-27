@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d97ccfc2-cd87-4695-9508-eeb99b0c4de0
+:END:
+#+title: The Fastest Pilot
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010219-The_Fastest_Pilot_in_the_Galaxy.org][33010219-The_Fastest_Pilot_in_the_Galaxy.org]]

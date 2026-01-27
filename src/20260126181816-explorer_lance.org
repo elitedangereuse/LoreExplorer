@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       194974e3-7aac-430d-a100-50f862f5cfa6
+:END:
+#+title: Explorer Lance
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010425-Travel_Advisory_for_NGC_6124.org][33010425-Travel_Advisory_for_NGC_6124.org]]

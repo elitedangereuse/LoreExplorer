@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       08abe3b5-dfc6-4a82-b879-f89ce425a137
+:END:
+#+title: Party El Tio Systems Civil
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020401-Galactic_News__Weekly_Conflict_Report.org][33020401-Galactic_News__Weekly_Conflict_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ec57c2af-25d2-4bd8-87fc-2f3ec465aa3e
+:END:
+#+title: Helgrind Gateway
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080128-New_Starports_Created_for_Colonia_Bridge.org][33080128-New_Starports_Created_for_Colonia_Bridge.org]]

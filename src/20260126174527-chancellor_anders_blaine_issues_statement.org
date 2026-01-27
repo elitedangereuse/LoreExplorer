@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a99734da-0b27-48c5-a432-44042d64d762
+:END:
+#+title: Chancellor Anders Blaine Issues Statement
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011004-Chancellor_Anders_Blaine_Issues_Statement.org][33011004-Chancellor_Anders_Blaine_Issues_Statement.org]]

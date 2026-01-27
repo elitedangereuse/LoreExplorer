@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       484169ff-3db2-44c5-853c-d4137cb9f3e2
+:END:
+#+title: The Shadow
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33061127-The_Shadow_of_War.org][33061127-The_Shadow_of_War.org]]

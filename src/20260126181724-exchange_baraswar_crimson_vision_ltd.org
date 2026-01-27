@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5aed561e-f3e0-4f17-b907-1685b7ede84d
+:END:
+#+title: Exchange Baraswar Crimson Vision Ltd
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030420-Galactic_News__Weekly_Security_Report.org][33030420-Galactic_News__Weekly_Security_Report.org]]

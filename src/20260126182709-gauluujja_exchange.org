@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       900eef89-ca61-4ad1-a30f-7e5ec51a31c0
+:END:
+#+title: Gauluujja Exchange
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090420-Old_Rivals_Clash_as_Thargoids_Advance.org][33090420-Old_Rivals_Clash_as_Thargoids_Advance.org]]

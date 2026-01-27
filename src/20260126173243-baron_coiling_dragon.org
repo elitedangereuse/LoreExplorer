@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c64fdbc0-8c5e-48ed-8aff-36544799af6e
+:END:
+#+title: Baron Coiling Dragon
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010516-Upgrade_of_Parkinson_Dock_Complete.org][33010516-Upgrade_of_Parkinson_Dock_Complete.org]]

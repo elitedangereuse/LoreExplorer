@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       13f8cae0-9f6b-4e08-95ef-8ed039d963dd
+:END:
+#+title: Arietis Allied
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020524-Galactic_News__Weekly_Security_Report.org][33020524-Galactic_News__Weekly_Security_Report.org]]

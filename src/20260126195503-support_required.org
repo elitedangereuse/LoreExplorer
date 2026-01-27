@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       33ea248a-3f1a-4976-8a86-1065108f485c
+:END:
+#+title: Support Required
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080414-Support_Required_for_New_Marlinist_Starports.org][33080414-Support_Required_for_New_Marlinist_Starports.org]]

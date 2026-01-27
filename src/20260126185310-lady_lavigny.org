@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9ed4bdfc-df0b-47b3-97ef-02a9a4c0be48
+:END:
+#+title: Lady Lavigny
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090703-Imperial_Mother_in_Medical_Emergency.org][33090703-Imperial_Mother_in_Medical_Emergency.org]]

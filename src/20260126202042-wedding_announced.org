@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c01f2412-80bf-4687-ad7e-1ad174185064
+:END:
+#+title: Wedding Announced
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040714-Details_of_Aisling_Duval’s_Wedding_Announced.org][33040714-Details_of_Aisling_Duval’s_Wedding_Announced.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0e4de659-b42a-4230-86f7-b4376768ea85
+:END:
+#+title: Sopwith Dock
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33041004-Broadcast_Cobra_Initiative.org][33041004-Broadcast_Cobra_Initiative.org]]

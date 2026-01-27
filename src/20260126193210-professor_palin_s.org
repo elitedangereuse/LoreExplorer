@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       aceb2097-796b-4ca5-957f-8fa4b533c763
+:END:
+#+title: Professor Palin's
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011102-Armed_Intruders_Apprehended_at_Christian_Dock.org][33011102-Armed_Intruders_Apprehended_at_Christian_Dock.org]]

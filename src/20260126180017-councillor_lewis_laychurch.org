@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       611bb2a3-0666-4fef-9c46-5e01024a0068
+:END:
+#+title: Councillor Lewis Laychurch
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33081115-Coalsack_Nebula_Reports_Thargoid_Activity.org][33081115-Coalsack_Nebula_Reports_Thargoid_Activity.org]]

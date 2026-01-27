@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       680a3af1-048f-4722-8c5a-dab04b4cbe2e
+:END:
+#+title: Algreit When
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020322-Galactic_News__Weekly_Security_Report.org][33020322-Galactic_News__Weekly_Security_Report.org]]

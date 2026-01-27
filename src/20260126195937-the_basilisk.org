@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f7b5f09c-a7b2-4f20-8a32-6e38359a03cf
+:END:
+#+title: The Basilisk
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33031116-Galactic_News__Previously_Unseen_Thargoid_Ships_in_Electra.org][33031116-Galactic_News__Previously_Unseen_Thargoid_Ships_in_Electra.org]]

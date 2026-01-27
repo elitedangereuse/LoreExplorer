@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ad878370-bb20-428f-a237-dde4853f2bfd
+:END:
+#+title: Toad's Independent Trading Services
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010311-Core_Dynamics_Completes_Work_on_New_Capital_Ship.org][33010311-Core_Dynamics_Completes_Work_on_New_Capital_Ship.org]]

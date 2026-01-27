@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d65786e5-b496-41e1-8bb5-12a776e4ab7f
+:END:
+#+title: Professor Cora Shaw
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020415-Galactic_News__Ishmael_Palin_to_Retire_from_Active_Research.org][33020415-Galactic_News__Ishmael_Palin_to_Retire_from_Active_Research.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8d8c260b-64ef-41a1-90a4-6f102b027c77
+:END:
+#+title: Mafia Liberty Party
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021220-Galactic_News__Weekly_Security_Report.org][33021220-Galactic_News__Weekly_Security_Report.org]]

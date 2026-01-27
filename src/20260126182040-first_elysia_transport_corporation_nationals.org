@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       92eea8ec-ac74-46bd-a735-4e1bbce318f2
+:END:
+#+title: First Elysia Transport Corporation Nationals
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020802-Galactic_News__Weekly_Security_Report.org][33020802-Galactic_News__Weekly_Security_Report.org]]

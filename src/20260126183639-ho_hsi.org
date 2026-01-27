@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       784eb657-f143-47f3-83d3-440b995946d8
+:END:
+#+title: Ho Hsi
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030915-Community_Goal__The_Battle_for_Ho_Hsi.org][33030915-Community_Goal__The_Battle_for_Ho_Hsi.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4fa06ba3-e69a-4607-83b4-87778262f321
+:END:
+#+title: Commander Gan The Privateer
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020702-Freelance_Report__Give_and_Take.org][33020702-Freelance_Report__Give_and_Take.org]]

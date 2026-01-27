@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       84cee1ee-d2db-42e2-863e-dc143c8540a5
+:END:
+#+title: When Azimuth Biochemicals
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080620-Azimuth_Resurgent.org][33080620-Azimuth_Resurgent.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f47a010f-d14f-4a01-b933-11e22b288ddc
+:END:
+#+title: Confederacy Partnership
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030307-Galactic_News__Weekly_Security_Report.org][33030307-Galactic_News__Weekly_Security_Report.org]]

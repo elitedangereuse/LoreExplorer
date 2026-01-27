@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3ba1587b-226c-4052-a13c-2544916d9f6e
+:END:
+#+title: Carns Economic Success
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010724-Carns_Economic_Success.org][33010724-Carns_Economic_Success.org]]

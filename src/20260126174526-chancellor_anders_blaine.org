@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       514a0519-0a7b-479a-a842-41da5a6c2113
+:END:
+#+title: Chancellor Anders Blaine
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010718-The_Emperor_Speaks_out_for_Unity.org][33010718-The_Emperor_Speaks_out_for_Unity.org]]

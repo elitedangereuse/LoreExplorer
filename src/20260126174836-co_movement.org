@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       016a0337-102f-4abb-91b3-c827161fd04d
+:END:
+#+title: Co Movement
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030809-Galactic_News__Weekly_Security_Report.org][33030809-Galactic_News__Weekly_Security_Report.org]]

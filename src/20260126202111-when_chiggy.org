@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       842dc57f-8b6c-48e5-a38c-283de8d1b9ab
+:END:
+#+title: When Chiggy
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021126-Freelance_Report__Guardian_Archangel.org][33021126-Freelance_Report__Guardian_Archangel.org]]

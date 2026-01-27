@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2b27c322-e721-40c3-9ecb-f2fecb02d48b
+:END:
+#+title: Mars High Astrocartography Institute
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030225-Galactic_News__Asteroid_Destroyed_in_HIP_16497.org][33030225-Galactic_News__Asteroid_Destroyed_in_HIP_16497.org]]

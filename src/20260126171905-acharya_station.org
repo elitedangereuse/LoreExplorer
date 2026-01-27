@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e53754ea-fa69-4b78-83e6-6c8e80140a99
+:END:
+#+title: Acharya Station
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030223-Community_Goal__The_Rahu_Operation.org][33030223-Community_Goal__The_Rahu_Operation.org]]

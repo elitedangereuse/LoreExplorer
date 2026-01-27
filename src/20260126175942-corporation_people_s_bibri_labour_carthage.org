@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6c581d82-35cf-4d41-8ee5-4e0c459fe330
+:END:
+#+title: Corporation People's Bibri Labour Carthage
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011214-GalNet_Weekly_Economic_Report.org][33011214-GalNet_Weekly_Economic_Report.org]]

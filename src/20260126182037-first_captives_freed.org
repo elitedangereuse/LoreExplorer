@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       309f8e82-5eaf-4d2e-9f0f-2b3047aa7e51
+:END:
+#+title: First Captives Freed
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33091010-First_Captives_Freed_from_Thargoid_Titans.org][33091010-First_Captives_Freed_from_Thargoid_Titans.org]]

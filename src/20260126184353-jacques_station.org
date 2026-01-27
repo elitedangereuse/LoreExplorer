@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       95ceda27-9707-4873-a298-27af5c7f86e3
+:END:
+#+title: Jacques Station
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010212-The_Legend_Returns.org][33010212-The_Legend_Returns.org]]

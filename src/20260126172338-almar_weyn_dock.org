@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       65961140-09d3-40ce-86cd-cb5ba2554993
+:END:
+#+title: Almar Weyn Dock
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030118-Galactic_News__Starport_Status_Update.org][33030118-Galactic_News__Starport_Status_Update.org]]

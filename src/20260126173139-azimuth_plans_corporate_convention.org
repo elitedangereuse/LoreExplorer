@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b9dfed3a-2705-4974-8076-5ed484947ff1
+:END:
+#+title: Azimuth Plans Corporate Convention
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090710-Azimuth_Plans_Corporate_Convention.org][33090710-Azimuth_Plans_Corporate_Convention.org]]

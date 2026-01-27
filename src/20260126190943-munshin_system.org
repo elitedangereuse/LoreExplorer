@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5e057a49-6642-4b1a-8cb1-ad19f25f205a
+:END:
+#+title: Munshin System
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010922-Aisling_Duval_Praises_the_Munshin_System.org][33010922-Aisling_Duval_Praises_the_Munshin_System.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       90746d03-4ad8-4f84-9921-cf96e322338a
+:END:
+#+title: Citizens' Chronicle
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080805-Azimuth_Divides_Media_Opinion.org][33080805-Azimuth_Divides_Media_Opinion.org]]

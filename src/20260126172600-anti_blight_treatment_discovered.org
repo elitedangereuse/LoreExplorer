@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ab57d1d7-218b-4c13-938e-5f7f20ec3a7a
+:END:
+#+title: Anti-Blight Treatment Discovered
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33051024-Anti-Blight_Treatment_Discovered.org][33051024-Anti-Blight_Treatment_Discovered.org]]

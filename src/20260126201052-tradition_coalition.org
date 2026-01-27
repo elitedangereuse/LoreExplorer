@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       66e87d86-4ac4-41c5-9fa0-cd0f895b056f
+:END:
+#+title: Tradition Coalition
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020913-Galactic_News__Weekly_Security_Report.org][33020913-Galactic_News__Weekly_Security_Report.org]]

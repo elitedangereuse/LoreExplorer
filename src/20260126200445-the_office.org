@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ce07cc69-f0d2-492e-950d-27f826042e3d
+:END:
+#+title: The Office
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090109-Admiral_Tanner_Receives_Presidential_Pardon.org][33090109-Admiral_Tanner_Receives_Presidential_Pardon.org]]

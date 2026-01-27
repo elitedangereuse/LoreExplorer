@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       96a0ddb4-168e-44f4-a5cd-8313b0bfe5da
+:END:
+#+title: Colonel Brock
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080217-Empire_Declares_Reprisals_Against_Darkwater.org][33080217-Empire_Declares_Reprisals_Against_Darkwater.org]]

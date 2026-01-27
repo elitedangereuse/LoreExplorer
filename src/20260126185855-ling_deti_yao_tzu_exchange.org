@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4d913492-65e9-4a9a-bb0f-6564272c5f39
+:END:
+#+title: Ling Deti Yao Tzu Exchange
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010728-GalNet_Weekly_Security_Digest.org][33010728-GalNet_Weekly_Security_Digest.org]]

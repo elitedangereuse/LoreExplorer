@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e9e7a815-4545-42cd-a31d-77e00770590a
+:END:
+#+title: Commander Aken
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020718-Freelance_Report__Moon-Landing_Anniversary_Race.org][33020718-Freelance_Report__Moon-Landing_Anniversary_Race.org]]

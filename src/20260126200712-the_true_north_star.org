@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       06c58e39-c7de-42e5-84ec-ad1c7f81185e
+:END:
+#+title: The True North Star
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010318-The_True_North_Star.org][33010318-The_True_North_Star.org]]

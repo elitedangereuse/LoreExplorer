@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f0a289c3-ebbd-4e13-ba3d-0bb40103267e
+:END:
+#+title: Knowledge Core
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070427-Galactic_Mysteries__The_Hesperus.org][33070427-Galactic_Mysteries__The_Hesperus.org]]

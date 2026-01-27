@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       dbd81860-ccf4-4e07-8b0c-76f95c8206a6
+:END:
+#+title: Asp Scouts
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33061222-Investors_Take_Control_of_Lakon_Spaceways.org][33061222-Investors_Take_Control_of_Lakon_Spaceways.org]]

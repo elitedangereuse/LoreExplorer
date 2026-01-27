@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       24a08991-ebe5-4e9b-bd54-c4c8df2b84d1
+:END:
+#+title: Apa Vietii
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33051122-A_Gift_from_the_Golconda.org][33051122-A_Gift_from_the_Golconda.org]]

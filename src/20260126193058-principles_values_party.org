@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       af32ad89-83f9-4242-a35b-2cd428a64003
+:END:
+#+title: Principles Values Party
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010914-GalNet_Weekly_Economic_Report.org][33010914-GalNet_Weekly_Economic_Report.org]]

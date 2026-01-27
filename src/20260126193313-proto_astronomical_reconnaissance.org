@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a9786cf9-e77c-4dd3-9d89-f131eec879d0
+:END:
+#+title: Proto-Astronomical Reconnaissance
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021021-Freelance_Report__The_SHEPARD_Mission.org][33021021-Freelance_Report__The_SHEPARD_Mission.org]]

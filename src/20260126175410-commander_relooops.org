@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bead53a6-b483-4037-9de2-df1b14cbbb49
+:END:
+#+title: Commander Relooops
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021216-Freelance_Report__Kick_the_Alien_Race_Concludes.org][33021216-Freelance_Report__Kick_the_Alien_Race_Concludes.org]]

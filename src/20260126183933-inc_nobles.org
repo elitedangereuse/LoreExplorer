@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8d0a6fee-22f0-4668-81ba-1c21dad702b5
+:END:
+#+title: Inc Nobles
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011204-GalNet_Weekly_Conflict_Report.org][33011204-GalNet_Weekly_Conflict_Report.org]]

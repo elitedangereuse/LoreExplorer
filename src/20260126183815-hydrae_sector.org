@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       29d90998-3ccd-421e-9227-293070bfc4d7
+:END:
+#+title: Hydrae Sector
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020401-Galactic_News__Access_to_Naraka_Temporarily_Restricted.org][33020401-Galactic_News__Access_to_Naraka_Temporarily_Restricted.org]]

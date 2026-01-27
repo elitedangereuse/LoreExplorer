@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4bff4fd4-7ebf-41ae-b58c-945992948f4b
+:END:
+#+title: Nestor Cartesius
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33031019-Galactic_News__Further_INRA_Bases_Discovered.org][33031019-Galactic_News__Further_INRA_Bases_Discovered.org]]

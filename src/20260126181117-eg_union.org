@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a757edb8-ee72-4318-b3c2-aec95ad89504
+:END:
+#+title: EG Union
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040331-Week_in_Review.org][33040331-Week_in_Review.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       dc019aaa-aec5-45c0-91ee-8ca012653a52
+:END:
+#+title: Blue Partnership League
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020201-Galactic_News__Weekly_Economic_Report.org][33020201-Galactic_News__Weekly_Economic_Report.org]]

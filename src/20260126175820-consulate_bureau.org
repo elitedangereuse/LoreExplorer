@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6ed78159-654f-4721-8954-9fa15fef7572
+:END:
+#+title: Consulate Bureau
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030207-Galactic_News__Weekly_Security_Report.org][33030207-Galactic_News__Weekly_Security_Report.org]]

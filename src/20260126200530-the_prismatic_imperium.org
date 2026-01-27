@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6ab610e0-614e-447d-98c9-19064a4e79ff
+:END:
+#+title: The Prismatic Imperium
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020222-Galactic_News__Emancipation_Initiative_Successful.org][33020222-Galactic_News__Emancipation_Initiative_Successful.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       47e9ad66-a696-43fe-9205-1aa2763d45e6
+:END:
+#+title: Moon Prospect
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020718-Freelance_Report__Moon-Landing_Anniversary_Race.org][33020718-Freelance_Report__Moon-Landing_Anniversary_Race.org]]

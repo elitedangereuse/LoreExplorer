@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       79d5b2c1-1923-483b-b067-1fda157d2fcf
+:END:
+#+title: Commander Lord Zoltan
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010927-Palin_Invited_to_Join_Research_Group.org][33010927-Palin_Invited_to_Join_Research_Group.org]]

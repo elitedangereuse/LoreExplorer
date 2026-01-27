@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3dad1270-b167-4586-9ff2-7d3adfbf65e8
+:END:
+#+title: Chief Editor
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010823-Federal_Times_Reporter_Named_as_Murder_Suspect.org][33010823-Federal_Times_Reporter_Named_as_Murder_Suspect.org]]

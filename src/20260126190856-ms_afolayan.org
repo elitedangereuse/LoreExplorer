@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8d052d6d-5030-48ba-b145-70a593a64c91
+:END:
+#+title: Ms Afolayan
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090810-Aegis_Investigates_Missing_Populations.org][33090810-Aegis_Investigates_Missing_Populations.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       eb236630-0fc3-49b0-9ca3-f88a9bd8160d
+:END:
+#+title: Re-arming Market Bulletin Board Docking
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010722-Cerberus_Plague_Shuts_Down_Station_Services.org][33010722-Cerberus_Plague_Shuts_Down_Station_Services.org]]

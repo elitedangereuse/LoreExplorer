@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       aa603bdf-f87f-4414-a181-5a69472dfedd
+:END:
+#+title: Leyton Farris
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050816-Fiction_Fans_Gather_for_Literary_Event.org][33050816-Fiction_Fans_Gather_for_Literary_Event.org]]

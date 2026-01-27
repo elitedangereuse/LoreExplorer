@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0d74942a-d174-4b50-a32e-256e05272035
+:END:
+#+title: Dynasty Civil
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030531-Galactic_News__Weekly_Security_Report.org][33030531-Galactic_News__Weekly_Security_Report.org]]

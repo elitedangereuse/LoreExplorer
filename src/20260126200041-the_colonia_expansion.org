@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       19b5d902-a92b-4ad2-ad26-10a26dd38ad4
+:END:
+#+title: The Colonia Expansion
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021201-Community_Goal__The_Colonia_Expansion.org][33021201-Community_Goal__The_Colonia_Expansion.org]]

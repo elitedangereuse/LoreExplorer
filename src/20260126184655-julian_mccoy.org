@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4d74e40b-c3aa-4d47-aae6-c55ba4fcb5a8
+:END:
+#+title: Julian McCoy
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020419-Freelance_Report__Canonn_to_Make_Deep-Space_Rendezvous.org][33020419-Freelance_Report__Canonn_to_Make_Deep-Space_Rendezvous.org]]

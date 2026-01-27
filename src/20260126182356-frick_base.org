@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       55a3ac5f-87a9-4500-bf0d-0cd85f7de5ef
+:END:
+#+title: Frick Base
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030202-Galactic_News__Starport_Status_Update.org][33030202-Galactic_News__Starport_Status_Update.org]]

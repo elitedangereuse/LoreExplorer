@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ccf8907f-4cf1-48bf-96ee-ff76a35e5d79
+:END:
+#+title: Construction Convoy Assembled
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021118-Galactic_News__Construction_Convoy_Assembled.org][33021118-Galactic_News__Construction_Convoy_Assembled.org]]

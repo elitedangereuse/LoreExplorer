@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       939096ff-8dd9-4c3b-b295-26b6f69ecf89
+:END:
+#+title: Varati A6
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030525-Galactic_News__The_Gnosis_Takes_Flight.org][33030525-Galactic_News__The_Gnosis_Takes_Flight.org]]

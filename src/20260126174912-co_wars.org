@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4666e1d9-4902-403b-9dab-06c7ec614acd
+:END:
+#+title: Co Wars
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011023-GalNet_Weekly_Conflict_Report.org][33011023-GalNet_Weekly_Conflict_Report.org]]

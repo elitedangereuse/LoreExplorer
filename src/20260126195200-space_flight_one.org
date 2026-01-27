@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c4055a75-4991-41bf-bd6b-a469cd6b4911
+:END:
+#+title: Space Flight One
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010513-President_Halsey_Sets_Out_from_Sol.org][33010513-President_Halsey_Sets_Out_from_Sol.org]]

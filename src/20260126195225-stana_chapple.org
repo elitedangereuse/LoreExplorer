@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       85e69b46-645d-48d7-bfda-9d66ae7a73f6
+:END:
+#+title: Stana Chapple
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011102-Trouble_in_Varati.org][33011102-Trouble_in_Varati.org]]

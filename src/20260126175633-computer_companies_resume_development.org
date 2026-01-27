@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       83eccf4e-c76b-48cc-bfa4-c2695466a51e
+:END:
+#+title: Computer Companies Resume Development
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040928-Computer_Companies_Resume_Development.org][33040928-Computer_Companies_Resume_Development.org]]

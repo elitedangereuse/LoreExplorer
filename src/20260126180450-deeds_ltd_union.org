@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0f0109fb-4368-49c3-af3e-2faa3046daff
+:END:
+#+title: Deeds Ltd Union
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010928-GalNet_Weekly_Economic_Report.org][33010928-GalNet_Weekly_Economic_Report.org]]

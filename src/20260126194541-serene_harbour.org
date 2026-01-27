@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f4900453-fca8-4d9d-8834-a430055241bb
+:END:
+#+title: Serene Harbour
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070128-Anonymous_Source_Refers_to_Distress_Call_Location.org][33070128-Anonymous_Source_Refers_to_Distress_Call_Location.org]]

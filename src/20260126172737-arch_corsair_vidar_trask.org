@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b650ef95-1aa8-407e-ba7c-dc093d40fd66
+:END:
+#+title: Arch-Corsair Vidar Trask
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080511-Archon_Delaine_Faces_Pirate_Rebellion.org][33080511-Archon_Delaine_Faces_Pirate_Rebellion.org]]

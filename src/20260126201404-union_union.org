@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ef5f9198-e7a4-4b8b-8c0f-1c380b913dd2
+:END:
+#+title: Union Union
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030327-Galactic_News__Weekly_Economic_Report.org][33030327-Galactic_News__Weekly_Economic_Report.org]]

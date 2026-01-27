@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       33034d3d-c526-43e7-9e26-d720d0208fb9
+:END:
+#+title: Sullivan Dock
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020901-Community_Goal__LFT_133_in_Need.org][33020901-Community_Goal__LFT_133_in_Need.org]]

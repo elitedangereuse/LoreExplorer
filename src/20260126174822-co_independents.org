@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3be6f336-234b-4155-9f0b-f979adf127b0
+:END:
+#+title: Co Independents
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020408-Galactic_News__Weekly_Conflict_Report.org][33020408-Galactic_News__Weekly_Conflict_Report.org]]

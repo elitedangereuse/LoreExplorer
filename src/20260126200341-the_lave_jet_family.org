@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7a61528c-68f6-4a2e-9933-715a41b629d6
+:END:
+#+title: The Lave Jet Family
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040608-Conflict_in_Lave.org][33040608-Conflict_in_Lave.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       76a88827-cd58-46f3-a26f-97cb597b6ad1
+:END:
+#+title: Fleet Admiral Lucas Vincent
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33061009-Fleet_Admiral_Vincent_Named_as_Starship_One_Saboteur.org][33061009-Fleet_Admiral_Vincent_Named_as_Starship_One_Saboteur.org]]

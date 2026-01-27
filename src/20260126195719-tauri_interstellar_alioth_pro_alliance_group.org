@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a69a5b73-aa4e-40ff-b85a-c560d3e8d4f4
+:END:
+#+title: Tauri Interstellar Alioth Pro-Alliance Group
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030106-Galactic_News__Weekly_Conflict_Report.org][33030106-Galactic_News__Weekly_Conflict_Report.org]]

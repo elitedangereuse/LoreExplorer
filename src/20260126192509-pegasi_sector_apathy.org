@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e1a0b5b9-b43e-4cd5-903a-5a2a90ec5b6f
+:END:
+#+title: Pegasi Sector Apathy
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010708-United_Imperial_Offensive_into_Pegasi_Sector.org][33010708-United_Imperial_Offensive_into_Pegasi_Sector.org]]

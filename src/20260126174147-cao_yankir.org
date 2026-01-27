@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4e43837a-34a8-4a0d-9a88-4c13724f451d
+:END:
+#+title: Cao Yankir
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011113-A_Week_in_Powerplay.org][33011113-A_Week_in_Powerplay.org]]

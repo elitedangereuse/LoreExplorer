@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       720cca22-64d3-45b8-b824-7856a0bc84f4
+:END:
+#+title: Senator Lavigny
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010421-Torval_Apologises_for_Synteini_Slave_Snafu.org][33010421-Torval_Apologises_for_Synteini_Slave_Snafu.org]]

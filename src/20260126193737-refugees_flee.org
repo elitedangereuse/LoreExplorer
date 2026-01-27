@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       059592ae-b536-4cf7-8551-fbad1f1d3e67
+:END:
+#+title: Refugees Flee
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33081205-Refugees_Flee_from_Thargoid_Offensive.org][33081205-Refugees_Flee_from_Thargoid_Offensive.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7d43b529-ead2-4254-a89d-516a7c294d4b
+:END:
+#+title: Independent Dimoco
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010821-GalNet_Weekly_Conflict_Report.org][33010821-GalNet_Weekly_Conflict_Report.org]]

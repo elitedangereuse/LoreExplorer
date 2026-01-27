@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       11b24ef6-2645-4427-b352-f0dc358ca8e0
+:END:
+#+title: Mafia Tau-2 Gruis
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021024-Galactic_News__Weekly_Economic_Report.org][33021024-Galactic_News__Weekly_Economic_Report.org]]

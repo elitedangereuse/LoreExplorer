@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c04504bc-1b40-490b-b2af-0f577c26289d
+:END:
+#+title: Wong Zhi
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020129-Powerplay__Weekly_Report.org][33020129-Powerplay__Weekly_Report.org]]

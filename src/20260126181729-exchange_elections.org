@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       85aa3fb0-9dbc-456d-b8ab-ade7ea76543b
+:END:
+#+title: Exchange Elections
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030126-Galactic_News__Weekly_Democracy_Report.org][33030126-Galactic_News__Weekly_Democracy_Report.org]]

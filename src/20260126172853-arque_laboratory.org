@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ada7a9ae-cfa9-498a-9eb1-8f3b7f0a132d
+:END:
+#+title: Arque Laboratory
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090127-Xeno_Scanner_Upgrade.org][33090127-Xeno_Scanner_Upgrade.org]]

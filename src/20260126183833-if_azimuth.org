@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       295fbc6e-cccd-4e2d-a82f-12d3d7617bf7
+:END:
+#+title: If Azimuth
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090720-Azimuth_Releases_New_AX_Weapon.org][33090720-Azimuth_Releases_New_AX_Weapon.org]]

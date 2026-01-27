@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       26712eaa-9552-4c6c-a4b6-a85b7ae598fa
+:END:
+#+title: CMDRs Silk
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010403-Operation_Tomahawk_Aims_to_Rid_Lave_of_CODE_Threat.org][33010403-Operation_Tomahawk_Aims_to_Rid_Lave_of_CODE_Threat.org]]

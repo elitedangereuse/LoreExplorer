@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8459ca4f-0c25-4d11-9d39-6443f8d2edec
+:END:
+#+title: George Lucas
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011026-Commemorative_Space_Race.org][33011026-Commemorative_Space_Race.org]]

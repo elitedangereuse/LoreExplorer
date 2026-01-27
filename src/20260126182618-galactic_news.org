@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c44c9c83-97b1-445c-a563-67bd6abda553
+:END:
+#+title: Galactic News
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020121-Galactic_News__Faction's_Appeal_Successful.org][33020121-Galactic_News__Faction's_Appeal_Successful.org]]

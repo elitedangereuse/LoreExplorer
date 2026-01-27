@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9ff13ed0-9d50-4ea2-8bdf-1ddf33ea01f5
+:END:
+#+title: Project Seraph
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080131-‘Azimuth_has_Survived’_Warns_Aegis.org][33080131-‘Azimuth_has_Survived’_Warns_Aegis.org]]

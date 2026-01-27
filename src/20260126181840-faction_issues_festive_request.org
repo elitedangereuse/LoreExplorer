@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7f690e84-c3e8-4d99-b097-1a9f08ba2b99
+:END:
+#+title: Faction Issues Festive Request
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011217-Faction_Issues_Festive_Request.org][33011217-Faction_Issues_Festive_Request.org]]

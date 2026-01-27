@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f2c3fe37-d943-41bf-a614-df00f840d2ff
+:END:
+#+title: Inspector Klatt
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040719-Identity_of_Nexus_Confirmed.org][33040719-Identity_of_Nexus_Confirmed.org]]

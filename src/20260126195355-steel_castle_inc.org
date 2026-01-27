@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4c2b82bc-e6ad-45ac-8a3c-db29c342b070
+:END:
+#+title: Steel Castle Inc
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33060911-Starport_Upgrade_Initiative_to_Support_Fleet_Carriers.org][33060911-Starport_Upgrade_Initiative_to_Support_Fleet_Carriers.org]]

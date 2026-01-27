@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       82cba561-a551-48cf-b74a-139eb68b346a
+:END:
+#+title: Dr Miriam Fletcher
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010217-Effinger_Port_Furbaide_Reports_Contagion_Spreading_Unchecked.org][33010217-Effinger_Port_Furbaide_Reports_Contagion_Spreading_Unchecked.org]]

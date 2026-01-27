@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c1b333e4-049a-4987-b208-8b9c52b6ddc5
+:END:
+#+title: While Winters
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010731-A_Week_in_Powerplay.org][33010731-A_Week_in_Powerplay.org]]

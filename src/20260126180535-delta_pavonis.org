@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8ab4efde-0767-4bce-96d6-2d15e7ef41fb
+:END:
+#+title: Delta Pavonis
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020225-Freelance_Report__Dr_Lorax_Speaks_for_the_Barnacles.org][33020225-Freelance_Report__Dr_Lorax_Speaks_for_the_Barnacles.org]]

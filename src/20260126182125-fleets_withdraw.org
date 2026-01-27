@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       183b6792-6d44-48d2-8c61-71820aad9f62
+:END:
+#+title: Fleets Withdraw
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080812-Fleets_Withdraw_from_Thargoid-Controlled_System.org][33080812-Fleets_Withdraw_from_Thargoid-Controlled_System.org]]

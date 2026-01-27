@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       86ec2a96-223e-43aa-b106-d38aac35b422
+:END:
+#+title: Retrial Requested
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080826-Retrial_Requested_for_Admiral_Tanner.org][33080826-Retrial_Requested_for_Admiral_Tanner.org]]

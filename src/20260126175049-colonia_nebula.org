@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5029cfce-13e1-4d15-bfaa-63be5782dfb3
+:END:
+#+title: Colonia Nebula
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020727-Freelance_Report__The_August_Exodus.org][33020727-Freelance_Report__The_August_Exodus.org]]

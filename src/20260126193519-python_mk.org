@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2d144eef-b02f-49b1-8112-418769120cd4
+:END:
+#+title: Python Mk
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3310/33101031-Mandalay_Released__Zorgon_Peterson’s_SCO-Friendly_Explorer_Ships_Out.org][33101031-Mandalay_Released__Zorgon_Peterson’s_SCO-Friendly_Explorer_Ships_Out.org]]

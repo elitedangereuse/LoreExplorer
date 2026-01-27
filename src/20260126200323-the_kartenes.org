@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f06aa738-4e36-474b-9864-63c21d6282bb
+:END:
+#+title: The Kartenes
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020108-A_Week_in_Powerplay.org][33020108-A_Week_in_Powerplay.org]]

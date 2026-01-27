@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b3929f2a-e154-4aa0-8113-6197643f1338
+:END:
+#+title: Services Wars
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020902-Galactic_News__Weekly_Conflict_Report.org][33020902-Galactic_News__Weekly_Conflict_Report.org]]

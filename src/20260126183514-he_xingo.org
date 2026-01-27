@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a493da6d-973d-4e7b-8aa8-f7909588e978
+:END:
+#+title: He Xingo
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010807-A_Week_in_Powerplay.org][33010807-A_Week_in_Powerplay.org]]

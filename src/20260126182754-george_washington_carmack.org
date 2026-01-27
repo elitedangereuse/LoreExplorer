@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b1477438-250d-4872-aa7e-593dc49b5866
+:END:
+#+title: George Washington Carmack
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020222-Freelance_Report__CIMA_Launches_Initiative.org][33020222-Freelance_Report__CIMA_Launches_Initiative.org]]

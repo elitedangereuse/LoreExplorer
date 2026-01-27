@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       eac402d1-39da-49b7-9ed7-3b8aa799f061
+:END:
+#+title: The Xenological Research Institute
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020122-Freelance_Report__Leading_Scientist_Expresses_Doubts.org][33020122-Freelance_Report__Leading_Scientist_Expresses_Doubts.org]]

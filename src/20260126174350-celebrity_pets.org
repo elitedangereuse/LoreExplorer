@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4366b605-344c-4ff8-aa09-4f0b910f062c
+:END:
+#+title: Celebrity Pets
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010306-It’s_Time_to_Stop_Slavery_Stupid.org][33010306-It’s_Time_to_Stop_Slavery_Stupid.org]]

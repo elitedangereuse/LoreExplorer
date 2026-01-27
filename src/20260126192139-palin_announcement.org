@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       37f717fa-262e-4aa2-a02d-6e1a27809d22
+:END:
+#+title: Palin Announcement
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33081115-Public_Unnerved_by_Palin_Announcement.org][33081115-Public_Unnerved_by_Palin_Announcement.org]]

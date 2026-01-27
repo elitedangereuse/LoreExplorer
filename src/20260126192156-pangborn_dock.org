@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       09501a54-dc79-47e2-b757-eec4c0f5a97e
+:END:
+#+title: Pangborn Dock
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010706-Open_Osmium_Contract_in_Abres.org][33010706-Open_Osmium_Contract_in_Abres.org]]

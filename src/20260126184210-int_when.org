@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ef930343-1438-4295-a6b4-c4ef848c40dc
+:END:
+#+title: Int When
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020824-Galactic_News__Weekly_Health_Report.org][33020824-Galactic_News__Weekly_Health_Report.org]]

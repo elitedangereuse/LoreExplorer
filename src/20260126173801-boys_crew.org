@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f3113b93-a87e-4945-a477-bc738e40e9a9
+:END:
+#+title: Boys Crew
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020205-Galactic_News__Weekly_Conflict_Report.org][33020205-Galactic_News__Weekly_Conflict_Report.org]]

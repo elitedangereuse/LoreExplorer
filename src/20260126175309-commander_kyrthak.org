@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       45d43c49-1113-4037-89d0-4c064c5aa6bb
+:END:
+#+title: Commander Kyrthak
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020711-Freelance_Report__Taskforce_Athena_Locks_Down_Segovan.org][33020711-Freelance_Report__Taskforce_Athena_Locks_Down_Segovan.org]]

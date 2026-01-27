@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bc4d6bca-c704-4545-bcc0-619052a31f51
+:END:
+#+title: Guardian Wing
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010527-Federal_Search_Efforts_Continue.org][33010527-Federal_Search_Efforts_Continue.org]]

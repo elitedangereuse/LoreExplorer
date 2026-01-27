@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f9f9fcbf-91ff-4f20-ae78-130c586840ac
+:END:
+#+title: Jitani The
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010803-GalNet_Weekly_Economic_Report.org][33010803-GalNet_Weekly_Economic_Report.org]]

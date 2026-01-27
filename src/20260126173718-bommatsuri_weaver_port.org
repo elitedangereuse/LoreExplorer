@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c529a9e9-6dcd-497e-b986-bd0430172755
+:END:
+#+title: Bommatsuri Weaver Port
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010415-East_India_Company_Announces_Galactic_Silk_Road.org][33010415-East_India_Company_Announces_Galactic_Silk_Road.org]]

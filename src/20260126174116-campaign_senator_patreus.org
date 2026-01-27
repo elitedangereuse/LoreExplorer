@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4b496f9e-a914-4e71-b508-a0523b01a13e
+:END:
+#+title: Campaign Senator Patreus
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010827-Zemina_Torval_and_Florence_Lavigny_Join_Patreus’_Campaign.org][33010827-Zemina_Torval_and_Florence_Lavigny_Join_Patreus’_Campaign.org]]

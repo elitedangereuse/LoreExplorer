@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4575d8b8-c30f-4802-82ff-0629d440328e
+:END:
+#+title: The View
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33071029-The_View_from_Colonia.org][33071029-The_View_from_Colonia.org]]

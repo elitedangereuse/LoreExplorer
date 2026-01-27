@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8e35acf0-ccbb-437b-ba83-03a132a6d1e4
+:END:
+#+title: Pipera First Labour
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010815-GalNet_Weekly_Expansion_List.org][33010815-GalNet_Weekly_Expansion_List.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4f097508-e59d-44a6-ad07-784aea5c80c1
+:END:
+#+title: Labour Party
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010716-Adle's_Armada_Looks_to_End_Illegal_Arms_Deal_in_Hel.org][33010716-Adle's_Armada_Looks_to_End_Illegal_Arms_Deal_in_Hel.org]]

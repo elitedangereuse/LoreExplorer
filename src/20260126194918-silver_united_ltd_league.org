@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3855ea95-9c87-45c9-ae62-5fb2019b1196
+:END:
+#+title: Silver United Ltd League
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021108-Galactic_News__Weekly_Security_Report.org][33021108-Galactic_News__Weekly_Security_Report.org]]

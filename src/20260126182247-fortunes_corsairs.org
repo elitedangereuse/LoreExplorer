@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       af692f3d-951d-40a2-874d-8c62ad946b64
+:END:
+#+title: Fortunes Corsairs
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050822-Food_Delivery_Initiative_Concludes_Successfully.org][33050822-Food_Delivery_Initiative_Concludes_Successfully.org]]

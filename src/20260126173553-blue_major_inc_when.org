@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0504e0b2-69d4-4b85-aa5c-e665b7abbb16
+:END:
+#+title: Blue Major Inc When
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030308-Galactic_News__Weekly_Health_Report.org][33030308-Galactic_News__Weekly_Health_Report.org]]

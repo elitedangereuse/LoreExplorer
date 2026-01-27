@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       06682805-e042-4b4b-a889-402f5b4d484f
+:END:
+#+title: Suri Gateway
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030906-Galactic_News__Starport_Status_Update.org][33030906-Galactic_News__Starport_Status_Update.org]]

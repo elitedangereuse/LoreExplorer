@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d81e9ee2-626a-421e-aaa4-4feb12ab8e25
+:END:
+#+title: Allied Co When
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030913-Galactic_News__Weekly_Security_Report.org][33030913-Galactic_News__Weekly_Security_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b0845e71-ca30-4247-b14f-056b36f3c2ec
+:END:
+#+title: Governor Machado
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33081006-Defeat_for_the_True_Chapters.org][33081006-Defeat_for_the_True_Chapters.org]]

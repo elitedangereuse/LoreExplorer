@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b10b5d5b-5b7f-4ff5-8f27-bdfa87bcee8e
+:END:
+#+title: Kappa Reticuli BD
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020723-Galactic_News__Weekly_Expansion_Report.org][33020723-Galactic_News__Weekly_Expansion_Report.org]]

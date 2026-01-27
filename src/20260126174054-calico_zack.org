@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c433ca53-fb31-41b9-b0dc-ea89c593a1cf
+:END:
+#+title: Calico Zack
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040620-Investor_Funds_Colonia_Shipyards.org][33040620-Investor_Funds_Colonia_Shipyards.org]]

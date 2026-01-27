@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       241ffc21-e664-4111-8f6f-734ecf782373
+:END:
+#+title: Blue Major Inc Gitxsan Limited
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030901-Galactic_News__Weekly_Democracy_Report.org][33030901-Galactic_News__Weekly_Democracy_Report.org]]

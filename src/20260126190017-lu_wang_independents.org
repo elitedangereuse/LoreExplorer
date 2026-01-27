@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c6db6ab4-e5df-4074-8492-91d35f4aa82c
+:END:
+#+title: Lu Wang Independents
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010727-GalNet_Weekly_Economic_Report.org][33010727-GalNet_Weekly_Economic_Report.org]]

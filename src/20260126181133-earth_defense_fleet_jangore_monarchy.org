@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2e9847ad-0b57-4f3f-810b-b1d247728815
+:END:
+#+title: Earth Defense Fleet Jangore Monarchy
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020216-Galactic_News__Weekly_Security_Digest.org][33020216-Galactic_News__Weekly_Security_Digest.org]]

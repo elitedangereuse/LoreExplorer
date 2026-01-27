@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       acb2bf8c-75ec-4cf7-847c-5f333d0b008d
+:END:
+#+title: Today President Halsey
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010320-Halsey_Honours_Heroes.org][33010320-Halsey_Honours_Heroes.org]]

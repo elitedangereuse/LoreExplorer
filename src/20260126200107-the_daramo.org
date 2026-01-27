@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       401bf470-bd0f-4164-b50b-2959a24a9488
+:END:
+#+title: The Daramo
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020623-Community_Goal__The_Battle_of_Daramo.org][33020623-Community_Goal__The_Battle_of_Daramo.org]]

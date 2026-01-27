@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b68a6a01-93f2-457c-b634-cfb76ea4ebdb
+:END:
+#+title: Corin League
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020606-Galactic_News__Weekly_Economic_Report.org][33020606-Galactic_News__Weekly_Economic_Report.org]]

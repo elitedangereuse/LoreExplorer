@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d6f1d7fb-4864-4dd5-a360-b785dd12e330
+:END:
+#+title: The Sitakapan Expeditionary Forces
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030428-Community_Goal__The_Gear_of_War.org][33030428-Community_Goal__The_Gear_of_War.org]]

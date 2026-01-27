@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e81edc68-1a3d-4cd5-be99-c53e41b18623
+:END:
+#+title: Commander Nightwulf
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010320-Halsey_Honours_Heroes.org][33010320-Halsey_Honours_Heroes.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2ea82a62-6d2c-425a-82f9-158da4e3c049
+:END:
+#+title: Kuruages Silver Galactic Comms Bureau
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010716-GalNet_Focus_on_Democracy.org][33010716-GalNet_Focus_on_Democracy.org]]

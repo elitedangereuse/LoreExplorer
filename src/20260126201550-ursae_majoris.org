@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       76ceb48c-5cec-40e2-9cb2-6f16c8be91c0
+:END:
+#+title: Ursae Majoris
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010317-Rebels_Declare_War_on_the_Federation_in_78_Ursae_Majoris.org][33010317-Rebels_Declare_War_on_the_Federation_in_78_Ursae_Majoris.org]]

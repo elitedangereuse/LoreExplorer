@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a28015b7-aa5c-4e10-8059-19c70990f724
+:END:
+#+title: For Some
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010614-For_Some,_President_Halsey's_Disappearance_Is_Not__Case_Closed_.org][33010614-For_Some,_President_Halsey's_Disappearance_Is_Not__Case_Closed_.org]]

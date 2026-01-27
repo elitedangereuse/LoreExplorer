@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       fc5fd92c-4a56-4a5c-9787-38b30ff13566
+:END:
+#+title: Darwin Research Facility
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030505-Community_Goal__Alliance_Outpost_Campaign.org][33030505-Community_Goal__Alliance_Outpost_Campaign.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       cd8238d8-ac33-4b18-9270-5e1cbda1b8f0
+:END:
+#+title: Tekkeitjal Public Corporation
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080912-Thargoids_Turn_Attention_to_Inhabited_Systems.org][33080912-Thargoids_Turn_Attention_to_Inhabited_Systems.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       34400027-ce40-45c3-92cc-85d7ad3da1b3
+:END:
+#+title: Cairne Dogmaa
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030524-Galactic_News__Starport_Status_Update.org][33030524-Galactic_News__Starport_Status_Update.org]]

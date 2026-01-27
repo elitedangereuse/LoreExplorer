@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3fcd4516-ea96-4d1a-a16d-52da026bef6c
+:END:
+#+title: Pirate Dread Katherine
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010819-A_Brief_Look_Back.org][33010819-A_Brief_Look_Back.org]]

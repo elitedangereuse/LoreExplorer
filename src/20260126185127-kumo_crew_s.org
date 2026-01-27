@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       475bc5d8-d330-4981-a90c-76dbfb6d75e7
+:END:
+#+title: Kumo Crew's
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010724-Operation_Davy_Jones_-_Frontline_report.org][33010724-Operation_Davy_Jones_-_Frontline_report.org]]

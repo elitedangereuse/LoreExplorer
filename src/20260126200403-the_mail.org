@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       325a8c6d-5ea2-44c6-b132-484b71d42010
+:END:
+#+title: The Mail
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010327-Alliance_Shines_Light_on_Prism_Senator.org][33010327-Alliance_Shines_Light_on_Prism_Senator.org]]

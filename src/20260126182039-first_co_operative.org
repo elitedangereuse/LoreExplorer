@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5b078427-8d3f-4f68-86c0-11b1e03f648d
+:END:
+#+title: First Co-operative
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030208-Galactic_News__Weekly_Health_Report.org][33030208-Galactic_News__Weekly_Health_Report.org]]

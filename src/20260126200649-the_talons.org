@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f34e8f36-31d7-4fc6-b833-01db7612a186
+:END:
+#+title: The Talons
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010415-The_Talons_of_Justice.org][33010415-The_Talons_of_Justice.org]]

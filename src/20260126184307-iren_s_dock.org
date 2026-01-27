@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c256fa3f-0a0b-4d81-975b-866d34cc418d
+:END:
+#+title: Iren's Dock
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020707-Freelance_Report__Border_Coalition_Backs_SEPP.org][33020707-Freelance_Report__Border_Coalition_Backs_SEPP.org]]

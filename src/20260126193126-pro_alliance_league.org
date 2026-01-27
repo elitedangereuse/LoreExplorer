@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7d1dce5f-77fc-4fd0-b3f0-5a8cf1c9e756
+:END:
+#+title: Pro-Alliance League
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010426-Reorte_Liberated_by_the_Alliance.org][33010426-Reorte_Liberated_by_the_Alliance.org]]

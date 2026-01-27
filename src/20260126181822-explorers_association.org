@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5984d855-980c-495e-b64a-9f13e78cfe00
+:END:
+#+title: Explorers' Association
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011028-Construction_of_New_Starport_Begins.org][33011028-Construction_of_New_Starport_Begins.org]]

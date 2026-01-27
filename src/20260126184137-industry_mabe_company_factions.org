@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0b825d68-29be-4a91-87eb-438445f356bd
+:END:
+#+title: Industry Mabe Company Factions
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030625-Galactic_News__Weekly_Expansion_Report.org][33030625-Galactic_News__Weekly_Expansion_Report.org]]

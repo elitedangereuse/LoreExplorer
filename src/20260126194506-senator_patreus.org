@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8d9ff6d3-65ee-4068-9068-e7e66c01e8b8
+:END:
+#+title: Senator Patreus
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010216-Patreus_Slave_Sale_Ends.org][33010216-Patreus_Slave_Sale_Ends.org]]

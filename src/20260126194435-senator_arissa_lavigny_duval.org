@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       42ad00df-b33f-4e12-8185-9cea69e79ab0
+:END:
+#+title: Senator Arissa Lavigny-Duval
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010410-The_Low_Cost_of_Lives.org][33010410-The_Low_Cost_of_Lives.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       369a6cb4-4b65-4ef1-807a-abb4239ae4fc
+:END:
+#+title: Colonia Population Boom
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030625-Galactic_News__Colonia_Population_Boom.org][33030625-Galactic_News__Colonia_Population_Boom.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e0e30a40-d4c4-4e30-a755-9f4328b33a12
+:END:
+#+title: Vaarwen Mako Brennus
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010708-Cosmic_State_and_Emperor's_Grace_Develop_Joint_Technology_Company.org][33010708-Cosmic_State_and_Emperor's_Grace_Develop_Joint_Technology_Company.org]]

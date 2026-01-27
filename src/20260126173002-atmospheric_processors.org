@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       521a5fca-aac4-4609-bcbe-e54366fe2944
+:END:
+#+title: Atmospheric Processors
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010508-Old_World_Resurgence_in_Diso.org][33010508-Old_World_Resurgence_in_Diso.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d2569c0d-b461-4797-9e76-7d43d3aebcd2
+:END:
+#+title: Support Fleet Carriers
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33060911-Starport_Upgrade_Initiative_to_Support_Fleet_Carriers.org][33060911-Starport_Upgrade_Initiative_to_Support_Fleet_Carriers.org]]

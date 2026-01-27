@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       50c4680c-c9c3-4ef4-92a4-c382e52b1345
+:END:
+#+title: Yurchikhin Station
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030316-Community_Goal__Alectrona_Imperial_Society_Issues_Appeal.org][33030316-Community_Goal__Alectrona_Imperial_Society_Issues_Appeal.org]]

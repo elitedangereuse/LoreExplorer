@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a4bbed9c-3c5e-4646-b44c-5a9e71e5b728
+:END:
+#+title: Kinsley Larson
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020526-Galactic_News__No_Sign_of_Jaques_Station.org][33020526-Galactic_News__No_Sign_of_Jaques_Station.org]]

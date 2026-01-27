@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       53ae11a1-1a6d-4534-bf0b-59fc83a9c442
+:END:
+#+title: Davis Terminal
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070318-Medical_Supplies_Needed_for_Starport_Bombing_Survivors.org][33070318-Medical_Supplies_Needed_for_Starport_Bombing_Survivors.org]]

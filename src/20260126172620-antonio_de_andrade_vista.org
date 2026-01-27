@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       43b10834-fe55-491f-b9fc-9f2c3c414bda
+:END:
+#+title: Antonio De Andrade Vista
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010213-Restoring_Sanity_to_Anarchy_in_Banki_and_BD+03_2338.org][33010213-Restoring_Sanity_to_Anarchy_in_Banki_and_BD+03_2338.org]]

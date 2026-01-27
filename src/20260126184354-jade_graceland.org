@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       766c4be2-21ce-4140-a73a-440472e68450
+:END:
+#+title: Jade Graceland
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050810-The_Greatest_Gig_in_the_Galaxy.org][33050810-The_Greatest_Gig_in_the_Galaxy.org]]

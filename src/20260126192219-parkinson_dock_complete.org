@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7d3a639b-f934-4288-b79c-88d77bed7fab
+:END:
+#+title: Parkinson Dock Complete
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010516-Upgrade_of_Parkinson_Dock_Complete.org][33010516-Upgrade_of_Parkinson_Dock_Complete.org]]

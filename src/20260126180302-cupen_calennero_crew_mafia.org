@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8bfd621a-5523-4dde-a836-25d14ea8a5a0
+:END:
+#+title: Cupen Calennero Crew Mafia
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010728-GalNet_Weekly_Security_Digest.org][33010728-GalNet_Weekly_Security_Digest.org]]

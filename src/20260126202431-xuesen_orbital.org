@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       df875ba2-7eb4-400f-bfe8-1465c7d7b7d4
+:END:
+#+title: Xuesen Orbital
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010415-The_Talons_of_Justice.org][33010415-The_Talons_of_Justice.org]]

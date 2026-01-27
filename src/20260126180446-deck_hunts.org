@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6f89b0fa-c333-47af-a321-60ed0745614b
+:END:
+#+title: Deck Hunts
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33071019-Jokers’_Deck_Hunts_the_Winking_Cat.org][33071019-Jokers’_Deck_Hunts_the_Winking_Cat.org]]

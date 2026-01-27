@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       998f8f6d-eb86-4720-9933-167e013b36d1
+:END:
+#+title: One Commander
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010706-Aisling_Supporters_Pledge_to_Legion.org][33010706-Aisling_Supporters_Pledge_to_Legion.org]]

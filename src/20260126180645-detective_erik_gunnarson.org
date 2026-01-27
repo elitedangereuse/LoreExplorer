@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4186ce18-2140-482d-af93-4756942efa93
+:END:
+#+title: Detective Erik Gunnarson
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33071216-A_Gift_From_a_Thief.org][33071216-A_Gift_From_a_Thief.org]]

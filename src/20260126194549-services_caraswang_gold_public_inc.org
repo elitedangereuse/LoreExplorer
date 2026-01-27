@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       360ec68d-9c55-4429-87f2-5cf28b9bbdbe
+:END:
+#+title: Services Caraswang Gold Public Inc
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020301-Galactic_News__Weekly_Security_Digest.org][33020301-Galactic_News__Weekly_Security_Digest.org]]

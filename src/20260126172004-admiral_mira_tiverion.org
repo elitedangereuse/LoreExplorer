@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d0f0f94e-12ac-44f9-89e9-a32a3f0a0cc0
+:END:
+#+title: Admiral Mira Tiverion
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040706-The_Didiomanja_Emperor’s_Grace_Academy_Inauguration.org][33040706-The_Didiomanja_Emperor’s_Grace_Academy_Inauguration.org]]

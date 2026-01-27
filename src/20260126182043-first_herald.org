@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       933919e8-1e08-40d2-951c-f3c3e5e19dd0
+:END:
+#+title: First Herald
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070722-Initiative_to_Outfit_Far_God_Megaships.org][33070722-Initiative_to_Outfit_Far_God_Megaships.org]]

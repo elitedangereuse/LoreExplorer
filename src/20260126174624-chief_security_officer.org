@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       07c9d8f8-c409-47e8-bc0d-061757573cdb
+:END:
+#+title: Chief Security Officer
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33031117-Galactic_News__California_Campaign_Concludes.org][33031117-Galactic_News__California_Campaign_Concludes.org]]

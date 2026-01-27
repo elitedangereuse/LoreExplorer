@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3a7e3d90-e470-4f5b-9822-a17bb6b85cfa
+:END:
+#+title: Chelbin Service Station
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030929-Community_Goal__Second_Aegis_Initiative.org][33030929-Community_Goal__Second_Aegis_Initiative.org]]

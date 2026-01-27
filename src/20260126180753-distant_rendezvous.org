@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5b651451-643f-4bf7-9dd1-918e0ccbf0fc
+:END:
+#+title: Distant Rendezvous
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010301-A_Distant_Rendezvous_–_43,000_Light_Years_from_Home.org][33010301-A_Distant_Rendezvous_–_43,000_Light_Years_from_Home.org]]

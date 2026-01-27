@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       91a1b8ce-8803-4ce8-9895-b8b096b3720e
+:END:
+#+title: Professor Diana VanCleef
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040817-Colonia_Hydroponics_Initiative.org][33040817-Colonia_Hydroponics_Initiative.org]]

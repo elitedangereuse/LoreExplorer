@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5d4b5b7b-a2f4-42a4-9a3a-d0df14b5387d
+:END:
+#+title: Commander Mikalus
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010911-Kumo_Crew_to_Target_Lavigny-Duval.org][33010911-Kumo_Crew_to_Target_Lavigny-Duval.org]]

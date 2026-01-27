@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       02aee8a9-ca02-4bdd-b6e7-e236fd7eac4f
+:END:
+#+title: Wing Commander Horatio Montange
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040629-Restoring_Order_in_Fousang.org][33040629-Restoring_Order_in_Fousang.org]]

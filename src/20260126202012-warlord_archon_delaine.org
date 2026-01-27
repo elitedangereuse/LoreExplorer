@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b47fc267-db80-45b3-9ca1-2e0af31e807c
+:END:
+#+title: Warlord Archon Delaine
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010514-Unrest_on_the_Frontier.org][33010514-Unrest_on_the_Frontier.org]]

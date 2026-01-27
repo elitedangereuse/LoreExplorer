@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4fa68a78-d658-4e20-ba87-5057b84a6d8b
+:END:
+#+title: Senator Kahina
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010721-Prism_Senator_Missing.org][33010721-Prism_Senator_Missing.org]]

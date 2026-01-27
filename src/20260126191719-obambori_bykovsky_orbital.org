@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e12e9ff1-b39b-4905-b5b1-d05f9d83f609
+:END:
+#+title: Obambori Bykovsky Orbital
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030601-Galactic_News__Starport_Status_Update.org][33030601-Galactic_News__Starport_Status_Update.org]]

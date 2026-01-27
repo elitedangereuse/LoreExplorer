@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c9f3e0bc-b7e2-4093-96f7-b0372e6fd7b7
+:END:
+#+title: Goman Yaupon Coffee
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070218-Rare_Goods_Required_for_Galactic_Summit.org][33070218-Rare_Goods_Required_for_Galactic_Summit.org]]

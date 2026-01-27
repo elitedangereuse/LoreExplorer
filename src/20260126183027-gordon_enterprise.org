@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       102580df-5446-4c29-902d-86f13e7fb8ce
+:END:
+#+title: Gordon Enterprise
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030630-Galactic_News__Starport_Status_Update.org][33030630-Galactic_News__Starport_Status_Update.org]]

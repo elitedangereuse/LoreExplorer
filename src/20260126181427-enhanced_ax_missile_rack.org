@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d1b04695-b7f5-4c11-9e57-da076dcebba1
+:END:
+#+title: Enhanced AX Missile Rack
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33081215-Enhanced_AX_Weapon_Update.org][33081215-Enhanced_AX_Weapon_Update.org]]

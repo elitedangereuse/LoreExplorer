@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e2f7132d-5674-4f7b-af7e-76fece770dd4
+:END:
+#+title: Communications Surveillance Programme
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070413-Federal_Reactions_to_Communications_Surveillance_Programme.org][33070413-Federal_Reactions_to_Communications_Surveillance_Programme.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       270de2e9-d347-4489-86db-f375a3e4e27d
+:END:
+#+title: Green Nebula
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021126-Freelance_Report__Record-Breaking_Tourist_Trip.org][33021126-Freelance_Report__Record-Breaking_Tourist_Trip.org]]

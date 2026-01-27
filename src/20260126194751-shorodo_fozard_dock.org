@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7647fbc9-cddf-4e2c-b002-a4e512f5c41f
+:END:
+#+title: Shorodo Fozard Dock
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020926-Galactic_News__Starport_Status_Update.org][33020926-Galactic_News__Starport_Status_Update.org]]

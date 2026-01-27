@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1c3ca781-60fa-44c7-b755-ba53c8745b19
+:END:
+#+title: Haberlandt Survey
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3310/33101205-Titan_Cocijo_Devastates_Sol_System.org][33101205-Titan_Cocijo_Devastates_Sol_System.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       566b3575-a2b2-4185-b811-a0ef73aa0934
+:END:
+#+title: Aldebaran Gaiman Dock
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030428-Galactic_News__Starport_Status_Update.org][33030428-Galactic_News__Starport_Status_Update.org]]

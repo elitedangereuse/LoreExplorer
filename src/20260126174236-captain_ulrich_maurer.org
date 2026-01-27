@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2f3e8384-7e6d-4187-8530-67a61bb5d2cb
+:END:
+#+title: Captain Ulrich Maurer
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33091026-Mysterious_Phenomenon_Triggers_Violent_Attacks.org][33091026-Mysterious_Phenomenon_Triggers_Violent_Attacks.org]]

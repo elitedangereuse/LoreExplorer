@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       819823b9-45f9-4ba2-b8b7-d7aff3b68fc3
+:END:
+#+title: Jaques Expansions
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021105-Galactic_News__Weekly_Expansion_Report.org][33021105-Galactic_News__Weekly_Expansion_Report.org]]

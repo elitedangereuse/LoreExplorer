@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       67ffaf25-84b4-4a3e-b2c0-03e61f3b9ba1
+:END:
+#+title: Harma Saberhagen Ring
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030314-Galactic_News__Starport_Status_Update.org][33030314-Galactic_News__Starport_Status_Update.org]]

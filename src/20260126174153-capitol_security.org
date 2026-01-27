@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       dee29d88-17f8-42eb-94c6-899c95086de4
+:END:
+#+title: Capitol Security
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010401-Imperial_Assassination_Attempt_Foiled.org][33010401-Imperial_Assassination_Attempt_Foiled.org]]

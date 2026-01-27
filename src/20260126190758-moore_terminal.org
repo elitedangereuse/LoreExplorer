@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1c5d3a14-8f3f-4bb2-b1b8-7738e0d2b774
+:END:
+#+title: Moore Terminal
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33031013-Community_Goal__Remembrance_Week.org][33031013-Community_Goal__Remembrance_Week.org]]

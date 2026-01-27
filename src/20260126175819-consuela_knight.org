@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6a3163c2-ce69-4389-9879-a5ad397197d4
+:END:
+#+title: Consuela Knight
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050110-Crew_Missing_from_Celebrity’s_Starship.org][33050110-Crew_Missing_from_Celebrity’s_Starship.org]]

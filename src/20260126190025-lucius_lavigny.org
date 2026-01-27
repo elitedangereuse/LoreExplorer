@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5071c7ae-0f8a-425e-bacb-f2e08752d3b7
+:END:
+#+title: Lucius Lavigny
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020721-Community_Goal__A_Majestic_Development.org][33020721-Community_Goal__A_Majestic_Development.org]]

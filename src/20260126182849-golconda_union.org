@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f2544701-b7de-43ff-bc47-bb9680847f4c
+:END:
+#+title: Golconda Union
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080602-Relaunching_the_Golconda.org][33080602-Relaunching_the_Golconda.org]]

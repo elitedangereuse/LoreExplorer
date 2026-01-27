@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1b078b21-b51c-496a-99c6-6fee51062efe
+:END:
+#+title: Giant Verrix
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33071005-An_Undercover_Report_on_Jokers’_Deck.org][33071005-An_Undercover_Report_on_Jokers’_Deck.org]]

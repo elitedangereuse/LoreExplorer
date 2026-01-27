@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       775a606b-4776-4415-ba29-f4d962781810
+:END:
+#+title: United Carnoeck
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011008-The_Bacon_City_Hangover.org][33011008-The_Bacon_City_Hangover.org]]

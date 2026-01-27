@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4b6e1843-c7f8-437d-b1c1-8c4d88b6f8fc
+:END:
+#+title: Commander Kjnpbr
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020506-Freelance_Report__CIMA_Honours_Contest_Winners.org][33020506-Freelance_Report__CIMA_Honours_Contest_Winners.org]]

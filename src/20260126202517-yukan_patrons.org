@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6f2ada20-c2e9-4f86-995a-d27a9cf2a213
+:END:
+#+title: Yukan Patrons
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020112-GalNet_Weekly_Security_Digest.org][33020112-GalNet_Weekly_Security_Digest.org]]

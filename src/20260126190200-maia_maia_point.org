@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       41227a0d-eac1-4372-8bee-4255cef4b322
+:END:
+#+title: Maia Maia Point
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021122-Galactic_News__Starport_Status_Update.org][33021122-Galactic_News__Starport_Status_Update.org]]

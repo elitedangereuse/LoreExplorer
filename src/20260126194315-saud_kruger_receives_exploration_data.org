@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2035dcce-98c2-4ee7-a080-09c873100942
+:END:
+#+title: Saud Kruger Receives Exploration Data
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070930-Saud_Kruger_Receives_Exploration_Data.org][33070930-Saud_Kruger_Receives_Exploration_Data.org]]

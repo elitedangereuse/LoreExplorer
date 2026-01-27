@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       273f3091-71d3-4b2e-a1fb-d4debc7c1aba
+:END:
+#+title: Captain Qadir
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080825-Report_from_HIP_22460__‘Salvation_is_Dead’.org][33080825-Report_from_HIP_22460__‘Salvation_is_Dead’.org]]

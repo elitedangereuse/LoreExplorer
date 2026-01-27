@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       984439bf-3522-4ecb-92d1-f2355829ff0b
+:END:
+#+title: Yupini Limited Perktomen Exchange Kadrusa
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010922-GalNet_Weekly_Security_Digest.org][33010922-GalNet_Weekly_Security_Digest.org]]

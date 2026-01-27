@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ebcc1a0f-e473-472e-8a3e-764701a46d85
+:END:
+#+title: One Order
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030601-Galactic_News__Weekly_Health_Report.org][33030601-Galactic_News__Weekly_Health_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f0ce0400-c170-4435-84dd-847fdcc673d5
+:END:
+#+title: Gehry Gateway
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030816-Galactic_News__Starport_Status_Update.org][33030816-Galactic_News__Starport_Status_Update.org]]

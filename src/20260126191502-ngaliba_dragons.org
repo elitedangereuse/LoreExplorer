@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b2af50e1-f349-4c7f-a2d6-9068d27e8ad7
+:END:
+#+title: Ngaliba Dragons
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021227-Galactic_News__Weekly_Security_Report.org][33021227-Galactic_News__Weekly_Security_Report.org]]

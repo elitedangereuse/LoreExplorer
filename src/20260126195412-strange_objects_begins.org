@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       98b8bdc5-257b-43dd-87a5-9d7df090d2f7
+:END:
+#+title: Strange Objects Begins
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010913-Research_into_Strange_Objects_Begins.org][33010913-Research_into_Strange_Objects_Begins.org]]

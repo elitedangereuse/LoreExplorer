@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b674a8f2-d5eb-4009-95e3-b81f0f84fc22
+:END:
+#+title: Exploration Vessel
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3310/33101015-Zorgon_Peterson_Event_Reveals_New_Exploration_Vessel.org][33101015-Zorgon_Peterson_Event_Reveals_New_Exploration_Vessel.org]]

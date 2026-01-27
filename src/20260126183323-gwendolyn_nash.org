@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bd544c18-11cb-495e-86e6-f7debb5e3db1
+:END:
+#+title: Gwendolyn Nash
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050622-Imperial_Slaves_Stranded.org][33050622-Imperial_Slaves_Stranded.org]]

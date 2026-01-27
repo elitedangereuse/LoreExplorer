@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7ca63868-fc8f-477a-bf0f-12f1f6cecdb7
+:END:
+#+title: Alpha Centauri Robigo Mines
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020120-More_Starports_Fall_Victim_to_Technological_Plague.org][33020120-More_Starports_Fall_Victim_to_Technological_Plague.org]]

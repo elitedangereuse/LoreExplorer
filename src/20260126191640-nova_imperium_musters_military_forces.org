@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c7fe6eef-b3e5-4d26-99ad-2c27e359e9d1
+:END:
+#+title: Nova Imperium Musters Military Forces
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050105-Nova_Imperium_Musters_Military_Forces.org][33050105-Nova_Imperium_Musters_Military_Forces.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c89ab939-2861-4255-8d54-2630d7e50166
+:END:
+#+title: Core Dynamics Funds Takeover
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33061214-Core_Dynamics_Funds_Takeover_with_Ship_Discounts.org][33061214-Core_Dynamics_Funds_Takeover_with_Ship_Discounts.org]]

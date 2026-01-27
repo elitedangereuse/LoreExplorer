@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3ef6af4a-ee6e-42b9-bd00-9062cd4652c0
+:END:
+#+title: Briganu Confederacy Factions
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030121-Galactic_News__Weekly_Expansion_Report.org][33030121-Galactic_News__Weekly_Expansion_Report.org]]

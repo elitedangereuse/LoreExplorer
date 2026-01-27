@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1b5fdc42-7dfd-4e88-8494-cb3b6b2b3be2
+:END:
+#+title: Farmer's Cooperative
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011119-Faction_Issues_Appeal_for_Onionhead.org][33011119-Faction_Issues_Appeal_for_Onionhead.org]]

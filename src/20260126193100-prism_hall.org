@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       931afd84-8f57-4e4c-90a3-8beac3bf87e9
+:END:
+#+title: Prism Hall
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021026-Galactic_News__Loren_Trial_Begins.org][33021026-Galactic_News__Loren_Trial_Begins.org]]

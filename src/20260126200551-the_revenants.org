@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       679fb233-c62b-45e5-9406-85f7c1f570ae
+:END:
+#+title: The Revenants
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090529-Thargoid_War_Update__May_3309.org][33090529-Thargoid_War_Update__May_3309.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       83a516cc-eab1-494c-99b2-c3212d5077cd
+:END:
+#+title: This Order
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090630-Thargoid_War_Update__June_3309.org][33090630-Thargoid_War_Update__June_3309.org]]

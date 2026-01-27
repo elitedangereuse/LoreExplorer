@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3be53c2c-7c92-4908-ba85-b2d730a561be
+:END:
+#+title: Ring Mine
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33071014-Orion_University_Searches_for_Dredger.org][33071014-Orion_University_Searches_for_Dredger.org]]

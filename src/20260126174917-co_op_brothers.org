@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       aa09f41a-f1f9-448c-aab7-49296a66f1bf
+:END:
+#+title: Co-op Brothers
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010915-GalNet_Weekly_Security_Digest.org][33010915-GalNet_Weekly_Security_Digest.org]]

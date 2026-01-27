@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9bd7dfd1-646b-4117-9943-081dfe5b846c
+:END:
+#+title: Money Matters
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011015-Sirius_Corporation_Announces_New_Programme.org][33011015-Sirius_Corporation_Announces_New_Programme.org]]

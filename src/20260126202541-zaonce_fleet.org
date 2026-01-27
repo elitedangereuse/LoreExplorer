@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       96a4ccfd-6b6b-496e-970b-8cc0e528a24e
+:END:
+#+title: Zaonce Fleet
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050518-Kincaid_Granted_Command_of_Zaonce_Fleet.org][33050518-Kincaid_Granted_Command_of_Zaonce_Fleet.org]]

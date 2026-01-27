@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       41845b1c-1e1c-42d8-a03b-70c9daac72f9
+:END:
+#+title: The Time
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33081227-The_Time_for_Aegis_.org][33081227-The_Time_for_Aegis_.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       04205a0f-f5fd-496c-8c89-44dd56b52952
+:END:
+#+title: Concerns Raised
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080208-Concerns_Raised_over_Alliance-Sirius_Pact.org][33080208-Concerns_Raised_over_Alliance-Sirius_Pact.org]]

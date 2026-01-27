@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8e937f7e-cbdf-4321-8ce8-d471bf675aa9
+:END:
+#+title: Harma Silver Cartel
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020801-Galactic_News__Weekly_Economic_Report.org][33020801-Galactic_News__Weekly_Economic_Report.org]]

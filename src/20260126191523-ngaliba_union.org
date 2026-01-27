@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       547f1fa8-381a-43ab-86ca-1841eece6201
+:END:
+#+title: Ngaliba Union
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021220-Galactic_News__Weekly_Security_Report.org][33021220-Galactic_News__Weekly_Security_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ddf2be67-49bf-4cf1-af3b-a8b0e3940d7a
+:END:
+#+title: Interstellar Press
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010819-Federation_Continues_Debate_on_War.org][33010819-Federation_Continues_Debate_on_War.org]]

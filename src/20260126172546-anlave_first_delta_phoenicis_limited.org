@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       999f9ab4-6699-4f81-a1de-76b7d9c50232
+:END:
+#+title: Anlave First Delta Phoenicis Limited
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020718-Galactic_News__Weekly_Economic_Report.org][33020718-Galactic_News__Weekly_Economic_Report.org]]

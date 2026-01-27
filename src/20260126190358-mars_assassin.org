@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a2e18746-1fcb-4e51-99bc-a77f204a3e7e
+:END:
+#+title: Mars Assassin
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090425-The_Mystery_of_the_Mars_Assassin.org][33090425-The_Mystery_of_the_Mars_Assassin.org]]

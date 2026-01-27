@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5ac10eb6-f733-4ee6-be8b-36ea411d97a8
+:END:
+#+title: Docked Ship Thief Identified
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050503-Docked_Ship_Thief_Identified.org][33050503-Docked_Ship_Thief_Identified.org]]

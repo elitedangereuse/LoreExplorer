@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6b30c6e5-7907-4334-a1ea-960d07066570
+:END:
+#+title: First Class
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010715-Origins_of_the_Velites_Squadron.org][33010715-Origins_of_the_Velites_Squadron.org]]

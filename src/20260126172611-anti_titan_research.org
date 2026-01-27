@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       85328269-f8da-43d0-87d5-bb3f3fa64a2d
+:END:
+#+title: Anti-Titan Research
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3310/33100118-Guardian_Relics_Needed_for_Anti-Titan_Research.org][33100118-Guardian_Relics_Needed_for_Anti-Titan_Research.org]]

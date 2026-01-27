@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       be32470c-9dfd-44dc-9cd2-c1ff3ad85fdc
+:END:
+#+title: What Sort
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010811-What_Sort_of_Man_Can_Kill_an_Emperor_.org][33010811-What_Sort_of_Man_Can_Kill_an_Emperor_.org]]

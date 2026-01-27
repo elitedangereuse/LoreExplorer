@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       eca91a74-3d96-463f-8e73-70e648b71a6e
+:END:
+#+title: The Greatest Gig
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050810-The_Greatest_Gig_in_the_Galaxy.org][33050810-The_Greatest_Gig_in_the_Galaxy.org]]

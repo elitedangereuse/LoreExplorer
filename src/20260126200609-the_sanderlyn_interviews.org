@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       37cfbbdb-6b23-48b2-98f0-3042cf6a15a8
+:END:
+#+title: The Sanderlyn Interviews
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080429-The_Sanderlyn_Interviews_(Part_One).org][33080429-The_Sanderlyn_Interviews_(Part_One).org]]

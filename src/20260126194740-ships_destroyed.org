@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       baa515bb-75df-4d5a-9d6a-a2611b40eddc
+:END:
+#+title: Ships Destroyed
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040602-Ships_Destroyed_by_the_League_of_Reparation.org][33040602-Ships_Destroyed_by_the_League_of_Reparation.org]]

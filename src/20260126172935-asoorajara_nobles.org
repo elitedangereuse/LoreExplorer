@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       681b680f-c0d1-49f8-aebd-588789999db7
+:END:
+#+title: Asoorajara Nobles
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011214-GalNet_Weekly_Economic_Report.org][33011214-GalNet_Weekly_Economic_Report.org]]

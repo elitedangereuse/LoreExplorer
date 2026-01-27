@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3549386a-872c-4299-8ff3-f0a7f62418b9
+:END:
+#+title: Guardian Wing Alpha
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010602-The_Loss_of_Starship_One_Linked_to_Mechanical_Failure.org][33010602-The_Loss_of_Starship_One_Linked_to_Mechanical_Failure.org]]

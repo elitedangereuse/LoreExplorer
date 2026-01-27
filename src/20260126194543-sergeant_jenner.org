@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       62b9bd04-3ac2-4f1d-bc87-ef73b92a4de6
+:END:
+#+title: Sergeant Jenner
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010805-Morning_of_the_Wedding.org][33010805-Morning_of_the_Wedding.org]]

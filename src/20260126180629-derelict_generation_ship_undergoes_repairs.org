@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       87f8caf9-e17d-4f81-9c2f-d92c38d4326d
+:END:
+#+title: Derelict Generation Ship Undergoes Repairs
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080526-Derelict_Generation_Ship_Undergoes_Repairs.org][33080526-Derelict_Generation_Ship_Undergoes_Repairs.org]]

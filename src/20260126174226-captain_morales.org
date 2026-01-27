@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       282140fd-8fbf-4c69-9b31-801928e852d6
+:END:
+#+title: Captain Morales
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080131-‘Azimuth_has_Survived’_Warns_Aegis.org][33080131-‘Azimuth_has_Survived’_Warns_Aegis.org]]

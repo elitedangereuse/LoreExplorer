@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f064518d-8662-4662-b467-fba7447079eb
+:END:
+#+title: In Lave
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010426-Reorte_Liberated_by_the_Alliance.org][33010426-Reorte_Liberated_by_the_Alliance.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9d908cb1-e1c3-4901-b30f-294838614e1b
+:END:
+#+title: Congressman Bai Zheng
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070726-Federal_Surveillance_Sabotages_Independence.org][33070726-Federal_Surveillance_Sabotages_Independence.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       103cca1b-ed6f-4fc7-abd0-94b83a72eb1d
+:END:
+#+title: Visitors For
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010801-The_Sim-Archive_of_Antal_Opens_to_Visitors.org][33010801-The_Sim-Archive_of_Antal_Opens_to_Visitors.org]]

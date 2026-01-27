@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6e7e0dae-ef99-499a-82ba-a9ca9ae55d81
+:END:
+#+title: Draconis Resistance Ys Silver Major
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021226-Galactic_News__Weekly_Economic_Report.org][33021226-Galactic_News__Weekly_Economic_Report.org]]

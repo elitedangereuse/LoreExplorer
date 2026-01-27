@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       33716514-8d8e-4522-a3fd-5b0eb0b9893c
+:END:
+#+title: Mitzi's Den
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030706-Galactic_News__Starport_Status_Update.org][33030706-Galactic_News__Starport_Status_Update.org]]

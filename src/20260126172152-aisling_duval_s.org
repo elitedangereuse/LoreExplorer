@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       24ccddf4-72fc-441b-b04e-1dfc56bfe2a4
+:END:
+#+title: Aisling Duval's
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011016-A_Week_in_Powerplay.org][33011016-A_Week_in_Powerplay.org]]

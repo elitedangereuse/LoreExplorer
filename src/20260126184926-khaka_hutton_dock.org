@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       fe089c45-3eaa-4fda-8fd7-c77e8af38853
+:END:
+#+title: Khaka Hutton Dock
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040418-Starport_Status_Update.org][33040418-Starport_Status_Update.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       faa6b1ac-70d1-4492-8484-b506ddd58c94
+:END:
+#+title: Rare Goods Received
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070225-Rare_Goods_Received_for_Political_Delegates.org][33070225-Rare_Goods_Received_for_Political_Delegates.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2f06cab2-b9f6-4642-a5ca-0c222d68b71f
+:END:
+#+title: Allied Co
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030512-Community_Goal__Canonn_Launches_Campaign.org][33030512-Community_Goal__Canonn_Launches_Campaign.org]]

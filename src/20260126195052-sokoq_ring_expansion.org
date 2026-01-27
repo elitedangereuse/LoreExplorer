@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       35fe0aa5-11a5-49f9-a618-c4fcd5e96f20
+:END:
+#+title: Sokoq Ring Expansion
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020305-Galactic_News__Weekly_Expansion_List.org][33020305-Galactic_News__Weekly_Expansion_List.org]]

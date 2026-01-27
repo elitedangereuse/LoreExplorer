@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ca32cdb5-6034-44b3-89e7-8d216876cdc0
+:END:
+#+title: Patron Clarke's
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011002-Scandal_Rocks_Chancellor_Anders_Blaine.org][33011002-Scandal_Rocks_Chancellor_Anders_Blaine.org]]

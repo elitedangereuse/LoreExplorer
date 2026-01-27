@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3f1816c4-cec8-40f4-9151-82deecc93421
+:END:
+#+title: Pixel Bandits Security Force Baedi
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020209-Galactic_News__Weekly_Security_Digest.org][33020209-Galactic_News__Weekly_Security_Digest.org]]

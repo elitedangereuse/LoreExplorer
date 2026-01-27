@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5b7e6f8f-db47-402b-90a7-b56bb02b6a44
+:END:
+#+title: Brady Horizons
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020804-Community_Goal__Boosting_the_Federal_Fleet.org][33020804-Community_Goal__Boosting_the_Federal_Fleet.org]]

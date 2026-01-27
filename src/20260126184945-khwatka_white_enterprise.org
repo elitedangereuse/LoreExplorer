@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d565671a-eb6f-4d1b-a832-c04ca9959a7f
+:END:
+#+title: Khwatka White Enterprise
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33031122-Galactic_News__Starport_Status_Update.org][33031122-Galactic_News__Starport_Status_Update.org]]

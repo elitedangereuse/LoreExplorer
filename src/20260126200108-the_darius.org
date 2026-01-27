@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7402d07c-fc25-428b-87d2-ec28a7b4f5fc
+:END:
+#+title: The Darius
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010820-Gun_Battle_Ends_Darius_Family_Murder_Investigation.org][33010820-Gun_Battle_Ends_Darius_Family_Murder_Investigation.org]]

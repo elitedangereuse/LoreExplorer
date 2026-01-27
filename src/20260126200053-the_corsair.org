@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       61275bd5-1d87-4084-b96b-47d491a31c6d
+:END:
+#+title: The Corsair
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3311/33110401-Gutamaya_Joins_Peers_in_New_Spacecraft_Boom.org][33110401-Gutamaya_Joins_Peers_in_New_Spacecraft_Boom.org]]

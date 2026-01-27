@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       12f07bbf-2e4a-4ae7-b39b-a6a89238c759
+:END:
+#+title: Jemison Refinery
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010427-President_Halsey_Denounces_Patron’s_Principles.org][33010427-President_Halsey_Denounces_Patron’s_Principles.org]]

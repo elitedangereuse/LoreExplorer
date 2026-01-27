@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6b77d347-52e6-47af-82c6-7bf3659619c3
+:END:
+#+title: Chief Xeno-Chemist Lyran Betar
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010518-Soontill_Relics_Test_Results_Queried.org][33010518-Soontill_Relics_Test_Results_Queried.org]]

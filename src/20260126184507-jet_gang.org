@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ca6e60ff-0eb9-4ea1-aad8-7bc57068dba5
+:END:
+#+title: Jet Gang
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010505-Silver_United_Succeed_at_Securing_Zaonce.org][33010505-Silver_United_Succeed_at_Securing_Zaonce.org]]

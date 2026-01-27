@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       583e9b95-6ea4-4357-b3dc-475896ab91aa
+:END:
+#+title: Eta Cassiopeiae
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080802-Superpowers_Commit_to_Salvation.org][33080802-Superpowers_Commit_to_Salvation.org]]

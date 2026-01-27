@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       395eaf68-33ae-4bf5-a4c6-64ab9b45f165
+:END:
+#+title: Sola Prospect
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020128-Community_Goal__Campaign_to_Develop_i_Sola_Prospect.org][33020128-Community_Goal__Campaign_to_Develop_i_Sola_Prospect.org]]

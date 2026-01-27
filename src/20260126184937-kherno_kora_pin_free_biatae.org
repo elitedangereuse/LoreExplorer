@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5d59dc72-33b5-44c4-8d44-6b956b6fed86
+:END:
+#+title: Kherno Kora Pin Free Biatae
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010926-GalNet_Weekly_Expansion_List.org][33010926-GalNet_Weekly_Expansion_List.org]]

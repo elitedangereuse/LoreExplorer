@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9360eabe-97ce-4b6d-bcf3-237d30feb58d
+:END:
+#+title: Group When
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021226-Galactic_News__Weekly_Economic_Report.org][33021226-Galactic_News__Weekly_Economic_Report.org]]

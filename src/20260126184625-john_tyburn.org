@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9655d874-f429-4677-91ea-6b279630fcc7
+:END:
+#+title: John Tyburn
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33071220-Theta_Seven’s_Identity_Discovered.org][33071220-Theta_Seven’s_Identity_Discovered.org]]

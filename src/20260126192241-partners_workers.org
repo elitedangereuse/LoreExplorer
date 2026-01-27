@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bf3dabb7-6fb3-43f0-8858-b53c2452d46a
+:END:
+#+title: Partners Workers
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010822-GalNet_Weekly_Expansion_List.org][33010822-GalNet_Weekly_Expansion_List.org]]

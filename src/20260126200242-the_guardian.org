@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1ce3412c-c01b-4b4c-8ecf-868b376096f0
+:END:
+#+title: The Guardian
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3310/33100226-Target_the_Titans_–_Guardian_Nanite_Torpedoes_Released.org][33100226-Target_the_Titans_–_Guardian_Nanite_Torpedoes_Released.org]]

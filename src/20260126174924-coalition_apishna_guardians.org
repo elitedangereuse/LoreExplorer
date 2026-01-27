@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f900372d-7b98-4f01-a311-355753bf3bf3
+:END:
+#+title: Coalition Apishna Guardians
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020315-Galactic_News__Weekly_Security_Digest.org][33020315-Galactic_News__Weekly_Security_Digest.org]]

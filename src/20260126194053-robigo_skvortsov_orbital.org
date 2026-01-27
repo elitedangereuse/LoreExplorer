@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       137add1a-78de-4fbc-b53d-2027d3969f66
+:END:
+#+title: Robigo Skvortsov Orbital
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020630-Galactic_News__Starport_Status_Update.org][33020630-Galactic_News__Starport_Status_Update.org]]

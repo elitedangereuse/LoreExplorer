@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ec9300b6-1545-4dbc-a79b-9bbe99e0fdef
+:END:
+#+title: Anagori Morgan Port
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040629-Starport_Status_Update.org][33040629-Starport_Status_Update.org]]

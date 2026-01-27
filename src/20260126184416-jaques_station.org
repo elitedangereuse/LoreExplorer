@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e69c3433-5f16-4d26-b04c-417354800431
+:END:
+#+title: Jaques Station
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020505-Community_Goal__Jaques'_Big_Jump.org][33020505-Community_Goal__Jaques'_Big_Jump.org]]

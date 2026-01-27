@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       07537e9f-62bc-473d-9c6e-8ed2ba71a9e0
+:END:
+#+title: Awyra Flirble
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030922-Community_Goal__Engineers_Appeal_for_Thargoid_Material.org][33030922-Community_Goal__Engineers_Appeal_for_Thargoid_Material.org]]

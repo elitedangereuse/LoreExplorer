@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       213acf94-8eb2-4a27-943b-5a935cab7010
+:END:
+#+title: The Hands
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020520-Freelance_Report__Attempt_to_Sabotage_Jaques_Station_Thwarted.org][33020520-Freelance_Report__Attempt_to_Sabotage_Jaques_Station_Thwarted.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       cb6ec3e9-eaf3-4c68-b221-bd37f78fb1d8
+:END:
+#+title: Gorringa Independents Civil
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010728-GalNet_Weekly_Security_Digest.org][33010728-GalNet_Weekly_Security_Digest.org]]

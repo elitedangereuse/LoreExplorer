@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4c24da09-0f4a-4b97-8dd6-2f6e0bc567b2
+:END:
+#+title: Nang Ta-khian Public Co Anali
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030412-Galactic_News__Weekly_Security_Report.org][33030412-Galactic_News__Weekly_Security_Report.org]]

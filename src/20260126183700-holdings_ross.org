@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3efb1251-d707-4b94-a2ea-1c6c0b298a65
+:END:
+#+title: Holdings Ross
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030524-Galactic_News__Weekly_Economic_Report.org][33030524-Galactic_News__Weekly_Economic_Report.org]]

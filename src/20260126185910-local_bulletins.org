@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       22ac8c60-1e5a-418b-b171-8f34683ff463
+:END:
+#+title: Local Bulletins
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020129-Galactic_News__Cryptic_Messages_Found_in_Local_Bulletins.org][33020129-Galactic_News__Cryptic_Messages_Found_in_Local_Bulletins.org]]

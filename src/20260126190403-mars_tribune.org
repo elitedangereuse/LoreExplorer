@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6a6a9f24-6766-40d8-a785-ad44a84627ba
+:END:
+#+title: Mars Tribune
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010609-Hudson_Set_to_Target_Traffickers.org][33010609-Hudson_Set_to_Target_Traffickers.org]]

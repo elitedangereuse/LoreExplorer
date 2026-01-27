@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       066d74c4-d8e3-46bd-ad85-53be1957be28
+:END:
+#+title: Party BD
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030121-Galactic_News__Weekly_Expansion_Report.org][33030121-Galactic_News__Weekly_Expansion_Report.org]]

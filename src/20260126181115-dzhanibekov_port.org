@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c7c36f0f-7814-4d09-830e-6b5025a6cb08
+:END:
+#+title: Dzhanibekov Port
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040525-Restoring_Order_in_T’iensei.org][33040525-Restoring_Order_in_T’iensei.org]]

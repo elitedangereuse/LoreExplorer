@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d2db32d8-b153-437e-879f-6ecb12f844e1
+:END:
+#+title: Labour Conservatives
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021220-Galactic_News__Weekly_Security_Report.org][33021220-Galactic_News__Weekly_Security_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       dcc7922b-8f3f-400b-872d-d69178263cd6
+:END:
+#+title: General Falkenrath
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33081025-The_Call_for_Unity.org][33081025-The_Call_for_Unity.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ac051b63-6cc4-4a6a-b147-a62140c58612
+:END:
+#+title: Salote Charm
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080428-Superpowers_Employ_Pilots_to_Hunt_Thargoids.org][33080428-Superpowers_Employ_Pilots_to_Hunt_Thargoids.org]]

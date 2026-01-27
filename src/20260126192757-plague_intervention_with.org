@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d23c4218-9c41-45f1-bc06-6c3b7966f455
+:END:
+#+title: Plague Intervention With
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010716-Security_Support_Needed_For_Cerberus_Plague_Intervention.org][33010716-Security_Support_Needed_For_Cerberus_Plague_Intervention.org]]

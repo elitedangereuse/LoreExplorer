@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       45c2f800-ab70-4a17-b937-9289f0e2b4bd
+:END:
+#+title: Quator Ring Alpha Centauri Gold
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030412-Galactic_News__Weekly_Security_Report.org][33030412-Galactic_News__Weekly_Security_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2f842ccb-a739-4aed-8b68-010016a7c9d2
+:END:
+#+title: Barclay Uxor
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040609-Theft_Baffles_Security_Experts.org][33040609-Theft_Baffles_Security_Experts.org]]

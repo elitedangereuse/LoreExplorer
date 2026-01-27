@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2745e44d-ae2b-4006-8080-63fffe692277
+:END:
+#+title: State Ltd
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070816-Rival_Corporations_Compete_in_LTT_198.org][33070816-Rival_Corporations_Compete_in_LTT_198.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e0b42a3c-2fb6-4f82-ae0d-428aef4c365f
+:END:
+#+title: Galactic Treasure Hunt
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010922-A_Galactic_Treasure_Hunt.org][33010922-A_Galactic_Treasure_Hunt.org]]

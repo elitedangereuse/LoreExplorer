@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       62cebb84-c22f-42c4-a41e-df9e3776bd74
+:END:
+#+title: Lieutenant Severin
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020421-Community_Goal__Expanding_the_Imperial_Fleet.org][33020421-Community_Goal__Expanding_the_Imperial_Fleet.org]]

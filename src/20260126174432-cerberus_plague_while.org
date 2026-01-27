@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0d4addd9-0d27-44d8-81b9-51d382ba0cef
+:END:
+#+title: Cerberus Plague While
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010730-Further_Outbreaks_of_Cerberus_Plague.org][33010730-Further_Outbreaks_of_Cerberus_Plague.org]]

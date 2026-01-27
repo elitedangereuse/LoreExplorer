@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bb0913fb-9b93-4c46-9dc8-d8d0c17df594
+:END:
+#+title: The Socho
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040531-Anarchy_in_Socho.org][33040531-Anarchy_in_Socho.org]]

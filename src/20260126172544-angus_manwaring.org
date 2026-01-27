@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6bd42f8d-e6a6-4549-be56-57fe78a60e90
+:END:
+#+title: Angus Manwaring
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090302-Explorers_Needed_for_Ammonia_World_Survey.org][33090302-Explorers_Needed_for_Ammonia_World_Survey.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a28bf946-839f-4d79-b3ce-e4ace76fe153
+:END:
+#+title: Virginis United
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010716-GalNet_Focus_on_Democracy.org][33010716-GalNet_Focus_on_Democracy.org]]

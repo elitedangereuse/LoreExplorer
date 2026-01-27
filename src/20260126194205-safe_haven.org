@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e3efe77b-a115-4b07-81a9-ef88fde08189
+:END:
+#+title: Safe Haven
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030630-Community_Goal__A_Safe_Haven.org][33030630-Community_Goal__A_Safe_Haven.org]]

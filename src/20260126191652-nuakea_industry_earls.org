@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d445cf8b-0ce0-4fe2-89ea-bed7832a6204
+:END:
+#+title: Nuakea Industry Earls
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021004-Galactic_News__Weekly_Security_Report.org][33021004-Galactic_News__Weekly_Security_Report.org]]

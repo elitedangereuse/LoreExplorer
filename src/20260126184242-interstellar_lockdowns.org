@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       491e5a1e-d78a-4e2e-b64c-2eedc422b394
+:END:
+#+title: Interstellar Lockdowns
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011222-GalNet_Weekly_Security_Digest.org][33011222-GalNet_Weekly_Security_Digest.org]]

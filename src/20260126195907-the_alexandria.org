@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3ac96d16-2353-45b9-8ec8-d940bbb19af6
+:END:
+#+title: The Alexandria
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070521-Thargoids_Pursue_Aegis_Megaship.org][33070521-Thargoids_Pursue_Aegis_Megaship.org]]

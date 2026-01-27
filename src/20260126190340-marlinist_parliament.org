@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e9e29f09-3c44-4962-b6af-bb7e7a5ca4e4
+:END:
+#+title: Marlinist Parliament
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070121-Marlinist_Colonies_Receive_Emergency_Food_Supplies.org][33070121-Marlinist_Colonies_Receive_Emergency_Food_Supplies.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f387a16a-2f3d-4a37-8c95-719bb69c88c2
+:END:
+#+title: Landgrave Delacroix
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070401-Empire_Attacks_Neo-Marlinist_Faction.org][33070401-Empire_Attacks_Neo-Marlinist_Faction.org]]

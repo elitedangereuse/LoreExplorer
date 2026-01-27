@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9f7d3a58-3e3b-4e65-9682-0fa20db8a01d
+:END:
+#+title: Pleiades Restoration Project
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040608-Success_for_Pleiades_Restoration_Project.org][33040608-Success_for_Pleiades_Restoration_Project.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7a18a087-4bbe-4a3a-ac41-09d90d121d9c
+:END:
+#+title: Samba Guardians Lao Yanes Co-op
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021020-Galactic_News__Weekly_Democracy_Report.org][33021020-Galactic_News__Weekly_Democracy_Report.org]]

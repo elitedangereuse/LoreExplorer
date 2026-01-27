@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       fcd093a9-2d7b-492c-a1e7-fa7d274bf8a5
+:END:
+#+title: Omicron Capricorni
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020907-Freelance_Report__Buckyball_Presents_Heavy_Metal_Megadeth.org][33020907-Freelance_Report__Buckyball_Presents_Heavy_Metal_Megadeth.org]]

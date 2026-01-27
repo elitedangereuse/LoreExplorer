@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       45cb5226-62e7-4bf8-8973-0f3d45044ceb
+:END:
+#+title: Cardea Suri Gateway
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040126-Starport_Status_Update.org][33040126-Starport_Status_Update.org]]

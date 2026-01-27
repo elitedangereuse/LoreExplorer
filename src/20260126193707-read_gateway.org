@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       15002f19-397d-44b6-aa38-b24e69beebe8
+:END:
+#+title: Read Gateway
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010320-Eyes_on_Lugh.org][33010320-Eyes_on_Lugh.org]]

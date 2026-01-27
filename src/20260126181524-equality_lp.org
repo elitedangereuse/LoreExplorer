@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4808a852-c4ba-40d8-8f9c-827e41ea62a3
+:END:
+#+title: Equality LP
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020804-Galactic_News__Weekly_Democracy_Report.org][33020804-Galactic_News__Weekly_Democracy_Report.org]]

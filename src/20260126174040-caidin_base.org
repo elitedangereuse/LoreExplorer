@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6d1b6875-a09d-42e0-b68a-03abd429225e
+:END:
+#+title: Caidin Base
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040808-Starport_Status_Update.org][33040808-Starport_Status_Update.org]]

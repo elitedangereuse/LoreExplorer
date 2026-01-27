@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       51964d50-a31c-4cb8-919d-e7e5e1f5a666
+:END:
+#+title: Hudson Dock
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010227-Core_Dynamics_Assist_Federal_Navy_in_BD+03_2338.org][33010227-Core_Dynamics_Assist_Federal_Navy_in_BD+03_2338.org]]

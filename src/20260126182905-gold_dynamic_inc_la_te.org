@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9b912cf2-df03-4e56-9c8b-4e582a3f4969
+:END:
+#+title: Gold Dynamic Inc La Te
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030628-Galactic_News__Weekly_Security_Report.org][33030628-Galactic_News__Weekly_Security_Report.org]]

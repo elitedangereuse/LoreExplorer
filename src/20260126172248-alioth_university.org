@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a9dca930-3ba8-499b-94ad-581870da620a
+:END:
+#+title: Alioth University
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010702-Mahon_speaks_out_on_Alliance_Values.org][33010702-Mahon_speaks_out_on_Alliance_Values.org]]

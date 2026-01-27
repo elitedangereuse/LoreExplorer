@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7183602f-5161-4a8c-a184-58d2ec2507b3
+:END:
+#+title: Port Isabelle
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050608-Mass_Purchase_of_Imperial_Slaves.org][33050608-Mass_Purchase_of_Imperial_Slaves.org]]

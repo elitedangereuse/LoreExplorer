@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e99f1945-b733-4e61-ac24-d3b622ee3595
+:END:
+#+title: People's Lalande
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020318-Galactic_News__Weekly_Conflict_Report.org][33020318-Galactic_News__Weekly_Conflict_Report.org]]

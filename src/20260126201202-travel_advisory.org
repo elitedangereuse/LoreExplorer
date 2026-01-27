@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4b27e650-d817-47e4-81eb-e6242c496e2a
+:END:
+#+title: Travel Advisory
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010425-Travel_Advisory_for_NGC_6124.org][33010425-Travel_Advisory_for_NGC_6124.org]]

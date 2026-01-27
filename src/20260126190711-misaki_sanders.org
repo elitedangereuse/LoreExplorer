@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       743ccdc6-ec0f-4909-83a2-15ffb29e93d9
+:END:
+#+title: Misaki Sanders
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050503-Docked_Ship_Thief_Identified.org][33050503-Docked_Ship_Thief_Identified.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d5e67025-cc32-49a1-a044-e6b16857c593
+:END:
+#+title: Navigators Guild
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020218-Community_Goal__Free_the_Slaves.org][33020218-Community_Goal__Free_the_Slaves.org]]

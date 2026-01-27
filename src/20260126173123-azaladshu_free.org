@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b83a22fa-62df-4346-8548-e2fddb9e750c
+:END:
+#+title: Azaladshu Free
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070629-Four_Federal_Systems_Declare_Independence.org][33070629-Four_Federal_Systems_Declare_Independence.org]]

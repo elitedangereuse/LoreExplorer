@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       555fff21-acad-4278-a675-b021b2b2b7ea
+:END:
+#+title: Principles Brotherhood
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021014-Galactic_News__Weekly_Conflict_Report.org][33021014-Galactic_News__Weekly_Conflict_Report.org]]

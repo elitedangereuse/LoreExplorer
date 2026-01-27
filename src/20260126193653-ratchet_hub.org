@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2c5d3103-3292-4f62-9f54-b48e82aae8c5
+:END:
+#+title: Ratchet Hub
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050808-Witch_Head_Planetary_Ports_Established.org][33050808-Witch_Head_Planetary_Ports_Established.org]]

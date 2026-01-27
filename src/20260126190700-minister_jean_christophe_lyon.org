@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       44f97641-56eb-40db-bb2d-d39b73db239e
+:END:
+#+title: Minister Jean-Christophe Lyon
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070906-ACT_Scores_Victories_Against_the_NMLA.org][33070906-ACT_Scores_Victories_Against_the_NMLA.org]]

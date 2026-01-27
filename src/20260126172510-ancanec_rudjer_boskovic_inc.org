@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c671f523-2f08-4fc2-a388-0bd0f44d8830
+:END:
+#+title: Ancanec Rudjer Boskovic Inc
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020920-Galactic_News__Weekly_Security_Report.org][33020920-Galactic_News__Weekly_Security_Report.org]]

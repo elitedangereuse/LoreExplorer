@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3d07649d-7b7f-40d9-81c2-d3671b8396c8
+:END:
+#+title: Senor Ping Pinot
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040202-Angeli_Imperial_Enterprises_Campaign_Concludes.org][33040202-Angeli_Imperial_Enterprises_Campaign_Concludes.org]]

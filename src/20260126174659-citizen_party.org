@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ad7c4ed4-34f1-4ae6-92a9-2a6be24b460a
+:END:
+#+title: Citizen Party
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011124-GalNet_Weekly_Security_Digest.org][33011124-GalNet_Weekly_Security_Digest.org]]

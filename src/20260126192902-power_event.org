@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       cecef76b-5e30-4c59-96a7-9bcdf7a03ee2
+:END:
+#+title: Power Event
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020714-Galactic_News__EG_Pilots_win_Second_Rise_to_Power_Event.org][33020714-Galactic_News__EG_Pilots_win_Second_Rise_to_Power_Event.org]]

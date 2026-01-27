@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4c7216d7-93da-487a-875d-946e48135399
+:END:
+#+title: Winters Confirmed
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070222-Hudson_and_Winters_Confirmed_for_Galactic_Summit.org][33070222-Hudson_and_Winters_Confirmed_for_Galactic_Summit.org]]

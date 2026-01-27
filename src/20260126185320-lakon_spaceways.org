@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       83dc4146-1eff-4bd9-912e-57473dd07549
+:END:
+#+title: Lakon Spaceways
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33031217-Galactic_News__Lakon_Announces_New_Ship.org][33031217-Galactic_News__Lakon_Announces_New_Ship.org]]

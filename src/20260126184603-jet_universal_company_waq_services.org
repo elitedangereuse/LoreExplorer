@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       cdbba15f-701f-4624-97fa-ea2d0e3e0a98
+:END:
+#+title: Jet Universal Company Waq Services
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010914-GalNet_Weekly_Economic_Report.org][33010914-GalNet_Weekly_Economic_Report.org]]

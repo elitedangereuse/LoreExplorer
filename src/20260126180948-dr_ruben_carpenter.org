@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       811f4e5f-7716-4d2d-97c5-65450f1dfb46
+:END:
+#+title: Dr Ruben Carpenter
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080323-Taurus_Mining_Ventures_Begins_Scientific_Study.org][33080323-Taurus_Mining_Ventures_Begins_Scientific_Study.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bf1cc76d-7863-45c2-9609-c51742ae21e9
+:END:
+#+title: SI Terraforming
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080912-Thargoids_Turn_Attention_to_Inhabited_Systems.org][33080912-Thargoids_Turn_Attention_to_Inhabited_Systems.org]]

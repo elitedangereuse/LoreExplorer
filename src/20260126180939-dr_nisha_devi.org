@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c8a89210-e560-4569-a5f5-60c81dac44b0
+:END:
+#+title: Dr Nisha Devi
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070824-Onionhead’s_Medical_Benefits_Verified.org][33070824-Onionhead’s_Medical_Benefits_Verified.org]]

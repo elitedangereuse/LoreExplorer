@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b85d5bf1-6b44-49e3-ab19-8ccc6c8fa2a7
+:END:
+#+title: Hazara Stout
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040202-Angeli_Imperial_Enterprises_Campaign_Concludes.org][33040202-Angeli_Imperial_Enterprises_Campaign_Concludes.org]]

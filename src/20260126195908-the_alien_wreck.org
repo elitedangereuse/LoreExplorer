@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7649010b-9b26-498c-bde1-c289c970218a
+:END:
+#+title: The Alien Wreck
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020908-Freelance_Report__The_Alien_Wreck.org][33020908-Freelance_Report__The_Alien_Wreck.org]]

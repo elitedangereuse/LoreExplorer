@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7ca1836c-ea66-49a8-b0b1-160aea61192c
+:END:
+#+title: Unauthorised Messages
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33071221-GalNet__Unauthorised_Messages.org][33071221-GalNet__Unauthorised_Messages.org]]

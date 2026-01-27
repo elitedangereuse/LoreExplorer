@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3975cc7b-7619-482f-a2fe-fe5978ce3710
+:END:
+#+title: Rush's Camp
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33061014-Marlinist_Faction_Blockaded_by_Empire.org][33061014-Marlinist_Faction_Blockaded_by_Empire.org]]

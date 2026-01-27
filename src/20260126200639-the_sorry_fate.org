@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ed7540ab-28a3-4a4c-a88d-70bb316c5c52
+:END:
+#+title: The Sorry Fate
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010216-The_Sorry_Fate_of_Hank_Stone.org][33010216-The_Sorry_Fate_of_Hank_Stone.org]]

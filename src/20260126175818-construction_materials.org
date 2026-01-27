@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       49d5c5ed-91bb-4beb-acdf-25a2299810f6
+:END:
+#+title: Construction Materials
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030309-Community_Goal__Appeal_for_Construction_Materials.org][33030309-Community_Goal__Appeal_for_Construction_Materials.org]]

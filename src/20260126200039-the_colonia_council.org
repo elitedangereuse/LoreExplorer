@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       eb37f6c4-4983-46ef-831b-3cfbc99024a2
+:END:
+#+title: The Colonia Council
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021020-Community_Goal__Strengthening_the_Colonia_Community.org][33021020-Community_Goal__Strengthening_the_Colonia_Community.org]]

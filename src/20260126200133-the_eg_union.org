@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4e64d1a1-b8b6-417c-b3f3-f44b3cb5b8f1
+:END:
+#+title: The EG Union
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040323-EG_Union_Campaign.org][33040323-EG_Union_Campaign.org]]

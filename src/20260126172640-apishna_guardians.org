@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f392c589-ca6d-4245-8dfd-b31807a7c0e9
+:END:
+#+title: Apishna Guardians
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011123-GalNet_Weekly_Economic_Report.org][33011123-GalNet_Weekly_Economic_Report.org]]

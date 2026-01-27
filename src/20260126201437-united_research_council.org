@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       348159e7-5f1f-439c-be08-a9ec23d01d47
+:END:
+#+title: United Research Council
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020902-Galactic_News__United_Research_Council_Programme_Postponed.org][33020902-Galactic_News__United_Research_Council_Programme_Postponed.org]]

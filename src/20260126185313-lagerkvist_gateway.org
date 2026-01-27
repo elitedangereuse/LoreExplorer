@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       62f31482-070f-484d-97da-a8342ae8bcb5
+:END:
+#+title: Lagerkvist Gateway
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010301-Unregulated_Slaves_Sought_in_Synteini.org][33010301-Unregulated_Slaves_Sought_in_Synteini.org]]

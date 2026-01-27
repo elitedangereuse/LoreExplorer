@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f2a2e79a-a939-4ea2-96c5-48cccb326251
+:END:
+#+title: Beadle Port
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040412-Starport_Status_Update.org][33040412-Starport_Status_Update.org]]

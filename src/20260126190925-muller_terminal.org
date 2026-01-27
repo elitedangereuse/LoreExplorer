@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       49acfb57-d2b5-4c4a-9a2c-7aefc87e93f3
+:END:
+#+title: Muller Terminal
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33060910-Terrorist_Attacks_on_Imperial_Starports.org][33060910-Terrorist_Attacks_on_Imperial_Starports.org]]

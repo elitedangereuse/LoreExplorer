@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       21085e3f-0c79-4721-8102-ff885e111dd8
+:END:
+#+title: Presidential Candidate Murdered
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33041005-Presidential_Candidate_Murdered.org][33041005-Presidential_Candidate_Murdered.org]]

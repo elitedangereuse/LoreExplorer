@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       17f25438-56fa-4aa3-baa7-619ac1cb9da5
+:END:
+#+title: Blue Clan Kruger
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010831-GalNet_Weekly_Economic_Report.org][33010831-GalNet_Weekly_Economic_Report.org]]

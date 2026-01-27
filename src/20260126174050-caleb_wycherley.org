@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ff250807-b2cd-44ca-bc7d-75f5eb273622
+:END:
+#+title: Caleb Wycherley
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080620-Azimuth_Resurgent.org][33080620-Azimuth_Resurgent.org]]

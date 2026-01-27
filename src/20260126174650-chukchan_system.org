@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1f4ea7e5-e7d3-4033-8475-a91b80ba1355
+:END:
+#+title: Chukchan System
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33061029-‘Ghost_Ship’_Arrives_in_Chukchan_System.org][33061029-‘Ghost_Ship’_Arrives_in_Chukchan_System.org]]

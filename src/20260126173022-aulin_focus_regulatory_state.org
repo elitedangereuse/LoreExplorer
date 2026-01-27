@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       be66031b-105d-4933-ae1a-a94527220052
+:END:
+#+title: Aulin Focus Regulatory State
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030503-Galactic_News__Weekly_Security_Report.org][33030503-Galactic_News__Weekly_Security_Report.org]]

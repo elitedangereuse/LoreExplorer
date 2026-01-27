@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       811293fc-5b08-444d-8cb4-dc6aa8e1d980
+:END:
+#+title: Dr Rodion Stathos
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33061126-Alliance_Consolidates_Presence_in_Coalsack_Nebula.org][33061126-Alliance_Consolidates_Presence_in_Coalsack_Nebula.org]]

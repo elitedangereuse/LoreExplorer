@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ccb2b5ec-806e-468c-ae54-0d36667654fa
+:END:
+#+title: Xian Future Epsilon Indi Purple
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020419-Galactic_News__Weekly_Security_Report.org][33020419-Galactic_News__Weekly_Security_Report.org]]

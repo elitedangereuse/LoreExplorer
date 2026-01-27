@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       02881783-7ba7-47b5-b567-44dd51cf7a74
+:END:
+#+title: The Alioth
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010222-Lugh_Makes_a_Bold_Step_Towards_Independence.org][33010222-Lugh_Makes_a_Bold_Step_Towards_Independence.org]]

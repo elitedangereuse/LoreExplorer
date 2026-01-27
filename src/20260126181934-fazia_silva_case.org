@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d9181d76-2443-498d-a0d3-9b66ffbbae34
+:END:
+#+title: Fazia Silva Case
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33041031-No_Leads_in_Fazia_Silva_Case.org][33041031-No_Leads_in_Fazia_Silva_Case.org]]

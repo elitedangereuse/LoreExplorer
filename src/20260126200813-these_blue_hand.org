@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       10ed8a6f-b3f5-45d5-803a-29cf1c7dec16
+:END:
+#+title: These Blue Hand
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020225-Community_Goal__Clean_up_Orulas.org][33020225-Community_Goal__Clean_up_Orulas.org]]

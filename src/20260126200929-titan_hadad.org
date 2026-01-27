@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f7f2ef83-800b-499b-9933-3148561aff97
+:END:
+#+title: Titan Hadad
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3310/33100524-The_Assault_on_Hadad.org][33100524-The_Assault_on_Hadad.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ccbb623f-0766-441f-8456-216daec8a99e
+:END:
+#+title: Common Symptoms Among Damaged Crops
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33051006-Common_Symptoms_Among_Damaged_Crops.org][33051006-Common_Symptoms_Among_Damaged_Crops.org]]

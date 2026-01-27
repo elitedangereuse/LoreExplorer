@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c3de251e-10ec-49c5-b2cb-b0c766920acb
+:END:
+#+title: Volungu Blight
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010217-Effinger_Port_Furbaide_Reports_Contagion_Spreading_Unchecked.org][33010217-Effinger_Port_Furbaide_Reports_Contagion_Spreading_Unchecked.org]]

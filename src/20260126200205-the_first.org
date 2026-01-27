@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       10bafe25-044e-44de-a688-561c0a1994bf
+:END:
+#+title: The First
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010724-The_Sirius_Corporation_–_The_First_of_the_Mega-corporations.org][33010724-The_Sirius_Corporation_–_The_First_of_the_Mega-corporations.org]]

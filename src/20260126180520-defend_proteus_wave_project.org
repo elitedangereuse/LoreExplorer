@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a98778a1-d79d-4c75-bcdb-5435d61c05ac
+:END:
+#+title: Defend Proteus Wave Project
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080714-Pilots_Urged_to_Defend_Proteus_Wave_Project.org][33080714-Pilots_Urged_to_Defend_Proteus_Wave_Project.org]]

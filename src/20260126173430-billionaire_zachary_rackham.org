@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ee5c7b23-16ae-4e52-bacc-dbe40ba58aad
+:END:
+#+title: Billionaire Zachary Rackham
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33041006-Week_in_Review.org][33041006-Week_in_Review.org]]

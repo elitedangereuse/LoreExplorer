@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7fff979c-2b59-49a4-b853-8e8fb89ef6ab
+:END:
+#+title: Phra Mool Fadlan Gateway
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33031011-Galactic_News__Starport_Status_Update.org][33031011-Galactic_News__Starport_Status_Update.org]]

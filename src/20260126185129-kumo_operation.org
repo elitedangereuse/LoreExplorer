@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       154042ef-e90c-4ba6-87a3-8e64b091195b
+:END:
+#+title: Kumo Operation
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010917-Kumo_Operation_to_Hit_Aisling_Duval.org][33010917-Kumo_Operation_to_Hit_Aisling_Duval.org]]

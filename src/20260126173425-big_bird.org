@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c7603d76-c967-4e49-a77e-a1161f1e57fa
+:END:
+#+title: Big Bird
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010522-Pilot_Breaks_Galactic_Record_Twice.org][33010522-Pilot_Breaks_Galactic_Record_Twice.org]]

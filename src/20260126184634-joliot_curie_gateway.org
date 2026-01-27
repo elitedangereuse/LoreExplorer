@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       25817661-be5b-465f-bafe-54ce7ab88b4f
+:END:
+#+title: Joliot-Curie Gateway
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33031004-Galactic_News__Starport_Status_Update.org][33031004-Galactic_News__Starport_Status_Update.org]]

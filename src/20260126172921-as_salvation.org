@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       31948670-c711-44eb-82d2-276da63866df
+:END:
+#+title: As Salvation
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080708-Thargoids_Launch_Attack_in_HIP_22460.org][33080708-Thargoids_Launch_Attack_in_HIP_22460.org]]

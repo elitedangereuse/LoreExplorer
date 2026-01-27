@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d1b587c2-78e1-4ca5-b0fb-343cf7eb8698
+:END:
+#+title: Unknown Ship
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030604-Galactic_News__Barnacles_Targeted_by_Unknown_Ships.org][33030604-Galactic_News__Barnacles_Targeted_by_Unknown_Ships.org]]

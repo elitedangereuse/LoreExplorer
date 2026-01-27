@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c75b0391-5a4c-4082-9dad-47446403d43b
+:END:
+#+title: Orion Independent University
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33051111-The_Golconda_Generation.org][33051111-The_Golconda_Generation.org]]

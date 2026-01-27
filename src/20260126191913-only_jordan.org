@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c8675556-51b6-441a-8a4a-3f3c54932d5f
+:END:
+#+title: Only Jordan
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040707-A_Profile_of_Jordan_Rochester.org][33040707-A_Profile_of_Jordan_Rochester.org]]

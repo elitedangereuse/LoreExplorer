@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       39df9822-e366-4fa2-a433-ad5231aaa68d
+:END:
+#+title: Fleet Admiral Vincent Begins
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070125-Trial_of_Fleet_Admiral_Vincent_Begins.org][33070125-Trial_of_Fleet_Admiral_Vincent_Begins.org]]

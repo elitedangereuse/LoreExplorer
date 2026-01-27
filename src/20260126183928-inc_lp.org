@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e0c2f46c-eddd-4708-bf0a-6f272e4b1239
+:END:
+#+title: Inc LP
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010904-GalNet_Weekly_Conflict_Report.org][33010904-GalNet_Weekly_Conflict_Report.org]]

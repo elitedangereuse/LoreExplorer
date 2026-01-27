@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1ae22a01-efdf-4722-9c17-deac2ee2c45e
+:END:
+#+title: Maisy Stevenson
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010526-President_Misses_Meeting.org][33010526-President_Misses_Meeting.org]]

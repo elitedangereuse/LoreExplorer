@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e06ab06b-ee2b-45c0-ad24-1bb84abe4df8
+:END:
+#+title: Dr. Jeong-Hui Shing
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3310/33100704-Aegis_confirm_change_in_Thargoid_Strategy.org][33100704-Aegis_confirm_change_in_Thargoid_Strategy.org]]

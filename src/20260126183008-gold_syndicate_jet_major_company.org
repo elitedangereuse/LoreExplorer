@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f803b1b6-1117-41fb-8488-b3205cba7965
+:END:
+#+title: Gold Syndicate Jet Major Company
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030601-Galactic_News__Weekly_Health_Report.org][33030601-Galactic_News__Weekly_Health_Report.org]]

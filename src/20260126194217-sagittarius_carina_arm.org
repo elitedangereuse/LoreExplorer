@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8e547409-7a2a-42db-918e-ac1eb12f1491
+:END:
+#+title: Sagittarius-Carina Arm
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020424-Freelance_Report__Explorers_Contribute_to_Mapping_Project.org][33020424-Freelance_Report__Explorers_Contribute_to_Mapping_Project.org]]

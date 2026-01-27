@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3eff0fc5-25a9-4d7f-9001-136ac207ebd6
+:END:
+#+title: With Jameson Memorial
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3310/33100919-Thargoid_Fleet_Invades_Shinrarta_Dezhra.org][33100919-Thargoid_Fleet_Invades_Shinrarta_Dezhra.org]]

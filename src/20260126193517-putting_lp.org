@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9979303b-b03c-4bc6-ac4a-83074980300c
+:END:
+#+title: Putting LP
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021215-Community_Goal__Putting_LP_339-7_on_the_Map.org][33021215-Community_Goal__Putting_LP_339-7_on_the_Map.org]]

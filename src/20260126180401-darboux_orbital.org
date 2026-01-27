@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5430f236-72d7-4cad-940c-b67d8621afc4
+:END:
+#+title: Darboux Orbital
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010826-Athena_System_Hosts_‘XYZ_Fight_Club’.org][33010826-Athena_System_Hosts_‘XYZ_Fight_Club’.org]]

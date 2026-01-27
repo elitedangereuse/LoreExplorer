@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       07358622-e185-4908-968d-742709cf08da
+:END:
+#+title: Hunter Games
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020128-Community_Goal__Campaign_to_Develop_i_Sola_Prospect.org][33020128-Community_Goal__Campaign_to_Develop_i_Sola_Prospect.org]]

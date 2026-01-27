@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7a3f0ec6-fe4c-416f-a383-b5fa587a3e5d
+:END:
+#+title: Ali Point
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040425-Starport_Status_Update.org][33040425-Starport_Status_Update.org]]

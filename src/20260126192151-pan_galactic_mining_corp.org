@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4707b76e-ad15-497c-b055-fdc9c4d90ed6
+:END:
+#+title: Pan Galactic Mining Corp
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020308-Freelance_Report__The_Only_Winners_are_the_Lawyers.org][33020308-Freelance_Report__The_Only_Winners_are_the_Lawyers.org]]

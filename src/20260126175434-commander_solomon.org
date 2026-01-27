@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       449a5f3b-c595-4eb0-9fb9-8e95c072fb22
+:END:
+#+title: Commander Solomon
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070128-Request_for_Pilots_to_Trace_Distress_Call.org][33070128-Request_for_Pilots_to_Trace_Distress_Call.org]]
