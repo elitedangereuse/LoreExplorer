@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       90ea6ad6-558c-4ae0-8864-a3016d7f7e2f
+:END:
+#+title: Ines Allende
+#+filetags: :Individual:
+
+Lead engineer on the [[id:aa5d0177-2807-4e3d-b0d0-1a40b3203598][Gutamaya]] [[id:e7e28c28-b97c-4106-9b04-8932279e267f][Corsair]]
