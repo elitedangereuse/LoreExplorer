@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Elite Dangerous Lore Explorer</title>
+    <link rel="stylesheet" href="./app.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="left-panel">
+        <div class="brand-block">
+          <p class="eyebrow">Elite Dangerous Lore Explorer</p>
+          <h1>Graph Prototype</h1>
+          <p class="subcopy">
+            Static graph viewer built from <code>org-roam.db</code> for GitHub Pages and local preview.
+          </p>
+        </div>
+
+        <div class="search-block">
+          <label class="field-label" for="search-input">Search notes</label>
+          <input
+            id="search-input"
+            type="search"
+            placeholder="Title, alias, faction, tag, ship, system…"
+            autocomplete="off"
+            spellcheck="false"
+          />
+          <p id="search-help" class="search-help">Type to filter the graph by title, alias, tag, faction, ship, or system.</p>
+          <button id="search-suggestion" class="search-suggestion" type="button" hidden></button>
+        </div>
+
+        <div class="stats-block">
+          <p class="field-label">Graph stats</p>
+          <dl id="graph-stats"></dl>
+        </div>
+      </aside>
+
+      <main class="graph-panel">
+        <div class="graph-toolbar">
+          <button id="fit-button" type="button">Fit Graph</button>
+          <button id="reset-button" type="button">Reset Selection</button>
+          <button id="neighbors-button" type="button" aria-pressed="false">Direct Neighbors</button>
+          <button id="dynamic-button" type="button" aria-pressed="false">Dynamic Layout</button>
+          <label class="toolbar-select-label" for="neighbor-layout">Neighborhood</label>
+          <select id="neighbor-layout" aria-label="Neighborhood layout">
+            <option value="radial">Radial</option>
+            <option value="fan">Fan</option>
+            <option value="columns">Columns</option>
+          </select>
+          <span id="graph-status">Loading graph…</span>
+        </div>
+        <div class="graph-stage">
+          <canvas id="graph-canvas"></canvas>
+          <div id="graph-context-menu" class="graph-context-menu" hidden>
+            <button id="context-inspect-node" type="button">Inspect Node</button>
+            <button id="context-open-local-graph" type="button">Open Local Graph</button>
+            <button id="context-expand-node" type="button">Expand Neighbors</button>
+          </div>
+        </div>
+      </main>
+
+      <aside class="note-panel">
+        <div id="note-meta" class="note-panel-meta"></div>
+        <div id="note-content" class="note-content">
+          <div class="empty-state">
+            <p>Select a node or search result to inspect a note.</p>
+          </div>
+        </div>
+      </aside>
+    </div>
+
+    <script src="./app.js" defer></script>
+  </body>
+</html>

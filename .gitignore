@@ -65,6 +65,7 @@ node_modules/
 ##########
 *.pyc
 __pycache__/
+build/
 
 # Java #
 ########
@@ -82,4 +83,3 @@ __pycache__/
 
 # Emacs temporary files
 .#*
-
