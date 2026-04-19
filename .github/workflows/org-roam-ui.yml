@@ -1,4 +1,4 @@
-name: Generate static org-roam-ui page
+name: Publish Graph Explorer
 on:
   push:
     branches:
@@ -10,13 +10,35 @@ permissions:
   id-token: write
 
 jobs:
-  main:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate org-roam-ui page
-        uses: thargosu/publish-org-roam-ui@main
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
-          org-roam-directory: src
-          org-roam-db-filename: org-roam.db
-          site-title: Elite Dangerous Lore Explorer
-          deploy-to-pages: true
+          python-version: "3.11"
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Build static graph explorer
+        run: python3 src/build_graph_site.py --db src/org-roam.db --src-dir src --site-dir site --out-dir build/site
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: build/site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
