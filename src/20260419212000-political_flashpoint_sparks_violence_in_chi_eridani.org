@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID:       dacafc97-ec49-48e8-bceb-4502a235a112
+:END:
+#+title: Political Flashpoint Sparks Violence in Chi Eridani
+#+filetags: :Empire:3311:galnet:
+
+/03 Apr 3311/
+
+Imperial agents have been blamed for an outbreak of combat in the Federally controlled [[id:bd662e2e-a844-4262-a32c-fcffd1171d8d][Chi Eridani]] system.
+
+Several incidents have occurred between supporters of [[id:98a18cdb-c516-4c5c-8bd6-c8c4c707e991][Shadow President]]
+[[id:7bdfd887-d1db-46bc-98c4-2fb39bfcc914][Jerome Archer]] and Senator [[id:75daea85-5e9f-4f6f-a102-1a5edea0283c][Denton Patreus]] of the Empire. The former
+group blames the latter for trying to subvert Federal governance of
+the system.
+
+Vox Galactica spoke to a representative for Jerome Archer’s power base in Chi Eridani:
+
+“Recent interactions with these Imperial troublemakers have been
+challenging, to say the least. But we didn't expect them to flood the
+system in such large numbers! As such they should be treated as a
+hostile invading force. Patreus’s proxy squadrons must be driven out
+to solidify Jerome Archer’s position as the key figurehead of Chi
+Eridani.”
+
+Meanwhile, a representative of the Imperial agents also provided a statement:
+
+“Federal political complacency is to blame for growing calls for the
+Empire’s grace. Denton Patreus is a man of honour and discipline -
+traits the Federation often lacks. We simply intended to demonstrate
+how effective a strong inspiration can be, but came under attack from
+Archer’s mob. We have the right to defend ourselves.”
+
+Both factions have called for combat pilots to sign up to the ongoing conflict:
+
+Jerome Archer supporters can register at [[id:c0a2ead3-4329-46c3-b706-82af44c6dbe0][Steve Masters]] starport.
+
+Denton Patreus supporters can register at the [[id:10095b1a-3e50-4bdc-9417-54480d9f498a][Evanescent Dusk]] megaship.
