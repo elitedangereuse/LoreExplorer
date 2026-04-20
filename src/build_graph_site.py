@@ -46,6 +46,9 @@ PRIORITY_GROUPS = [
     "Commander",
 ]
 
+ORG_LINK_RE = re.compile(r"\[\[([^\]]+)\](?:\[([^\]]+)\])?\]")
+IMAGE_SUFFIXES = {".png", ".jpg", ".jpeg", ".gif", ".webp", ".svg"}
+
 
 @dataclass
 class Note:
@@ -218,24 +221,48 @@ def strip_metadata(lines: list[str]) -> list[str]:
     return output
 
 
-def convert_org_links(text: str) -> str:
-    def replacer(match: re.Match[str]) -> str:
-        target = match.group(1)
-        label = html.escape(match.group(2))
-        if target.startswith("id:"):
-            node_id = html.escape(target[3:])
-            return f'<a href="#" data-node-id="{node_id}">{label}</a>'
-        if target.startswith("http://") or target.startswith("https://"):
-            href = html.escape(target, quote=True)
-            return f'<a href="{href}" target="_blank" rel="noreferrer">{label}</a>'
-        href = html.escape(target, quote=True)
-        return f'<a href="{href}">{label}</a>'
+def normalize_file_target(target: str) -> str:
+    raw_target = target[5:] if target.startswith("file:") else target
+    return Path(raw_target).as_posix().lstrip("./")
 
-    return re.sub(r"\[\[([^\]]+)\]\[([^\]]+)\]\]", replacer, text)
+
+def is_image_target(target: str) -> bool:
+    return Path(normalize_file_target(target)).suffix.lower() in IMAGE_SUFFIXES
+
+
+def link_text(target: str, label: str | None) -> str:
+    if label:
+        return label
+    if target.startswith("id:"):
+        return target[3:]
+    if target.startswith("file:"):
+        return Path(normalize_file_target(target)).stem.replace("_", " ")
+    return target
+
+
+def render_org_link(target: str, label: str | None) -> str:
+    text = link_text(target, label)
+    if target.startswith("id:"):
+        node_id = html.escape(target[3:])
+        return f'<a href="#" data-node-id="{node_id}">{html.escape(text)}</a>'
+    if target.startswith("http://") or target.startswith("https://"):
+        href = html.escape(target, quote=True)
+        return f'<a href="{href}" target="_blank" rel="noreferrer">{html.escape(text)}</a>'
+    if target.startswith("file:"):
+        href = html.escape(normalize_file_target(target), quote=True)
+        if is_image_target(target):
+            return f'<img class="note-inline-image" src="{href}" alt="{html.escape(text)}" loading="lazy" />'
+        return f'<a href="{href}" target="_blank" rel="noreferrer">{html.escape(text)}</a>'
+    href = html.escape(target, quote=True)
+    return f'<a href="{href}">{html.escape(text)}</a>'
+
+
+def convert_org_links(text: str) -> str:
+    return ORG_LINK_RE.sub(lambda match: render_org_link(match.group(1), match.group(2)), text)
 
 
 def strip_org_markup(text: str) -> str:
-    text = re.sub(r"\[\[([^\]]+)\]\[([^\]]+)\]\]", r"\2", text)
+    text = ORG_LINK_RE.sub(lambda match: link_text(match.group(1), match.group(2)), text)
     text = re.sub(r"(^|[\s(])\*([^*]+)\*([\s).,;:!?]|$)", r"\1\2\3", text)
     text = re.sub(r"(^|[\s(])/([^/]+)/([\s).,;:!?]|$)", r"\1\2\3", text)
     text = re.sub(r"[=~]([^=~]+)[=~]", r"\1", text)
@@ -246,10 +273,10 @@ def apply_inline_markup(text: str) -> str:
     placeholders: list[str] = []
 
     def stash_link(match: re.Match[str]) -> str:
-        placeholders.append(convert_org_links(match.group(0)))
+        placeholders.append(render_org_link(match.group(1), match.group(2)))
         return f"@@LINK{len(placeholders) - 1}@@"
 
-    text = re.sub(r"\[\[([^\]]+)\]\[([^\]]+)\]\]", stash_link, text)
+    text = ORG_LINK_RE.sub(stash_link, text)
     escaped = html.escape(text)
     escaped = re.sub(r"(^|[\s(])\*([^*]+)\*([\s).,;:!?]|$)", r"\1<strong>\2</strong>\3", escaped)
     escaped = re.sub(r"(^|[\s(])/([^/]+)/([\s).,;:!?]|$)", r"\1<em>\2</em>\3", escaped)
@@ -326,7 +353,6 @@ def render_org_note(note: Note) -> str:
     snippet_source = " ".join(plain_text_lines)
     note.snippet = snippet_source[:240].strip()
 
-    tag_html = "".join(f'<span class="tag">{html.escape(tag)}</span>' for tag in note.tags)
     alias_html = ""
     if note.aliases:
         alias_html = (
@@ -338,7 +364,6 @@ def render_org_note(note: Note) -> str:
     return (
         '<article class="note-body">'
         f"<header><h1>{html.escape(note.title)}</h1>"
-        f'<div class="note-meta"><span class="meta-label">Group</span><span class="tag">{html.escape(note.group)}</span>{tag_html}</div>'
         f"{alias_html}</header>"
         f"<section>{''.join(blocks)}</section>"
         "</article>"
@@ -354,6 +379,9 @@ def build_site(db_path: Path, src_dir: Path, site_dir: Path, out_dir: Path) -> N
     if out_dir.exists():
         shutil.rmtree(out_dir)
     shutil.copytree(site_dir, out_dir)
+    image_dir = src_dir / "img"
+    if image_dir.exists():
+        shutil.copytree(image_dir, out_dir / "img", dirs_exist_ok=True)
 
     notes, links = load_notes(db_path, src_dir)
     assign_positions(notes)

@@ -1,15 +1,16 @@
+const appShell = document.getElementById("app-shell");
 const canvas = document.getElementById("graph-canvas");
 const context = canvas.getContext("2d");
 const searchInput = document.getElementById("search-input");
-const searchHelp = document.getElementById("search-help");
-const searchSuggestionButton = document.getElementById("search-suggestion");
+const landingTagList = document.getElementById("landing-tag-list");
+const explorerShell = document.getElementById("explorer-shell");
+const panelResizer = document.getElementById("panel-resizer");
 const graphStatus = document.getElementById("graph-status");
-const graphStats = document.getElementById("graph-stats");
 const fitButton = document.getElementById("fit-button");
 const resetButton = document.getElementById("reset-button");
-const neighborsButton = document.getElementById("neighbors-button");
 const dynamicButton = document.getElementById("dynamic-button");
-const neighborLayoutSelect = document.getElementById("neighbor-layout");
+const colorModeSelect = document.getElementById("color-mode");
+const shapeModeSelect = document.getElementById("shape-mode");
 const noteContent = document.getElementById("note-content");
 const noteMeta = document.getElementById("note-meta");
 const graphStage = document.querySelector(".graph-stage");
@@ -25,11 +26,13 @@ const state = {
   edges: [],
   meta: {},
   nodeById: new Map(),
+  view: "landing",
   graphRootNodeId: null,
   inspectNodeId: null,
   results: [],
   searchQuery: "",
-  searchMatchNodeIds: null,
+  colorMode: "group",
+  shapeMode: "semantic",
   camera: { x: 0, y: 0, zoom: 1 },
   bounds: { minX: 0, maxX: 1, minY: 0, maxY: 1 },
   visibleBounds: { minX: 0, maxX: 1, minY: 0, maxY: 1 },
@@ -38,11 +41,13 @@ const state = {
   dragStart: { x: 0, y: 0, cameraX: 0, cameraY: 0 },
   hasFitted: false,
   neighborMode: false,
-  neighborLayout: "radial",
   adjacency: new Map(),
   expandedNodeIds: new Set(),
   edgeRefs: [],
   tagIndex: new Map(),
+  tagDisplayByKey: new Map(),
+  primaryTagById: new Map(),
+  metricExtents: new Map(),
   activeTagFilter: null,
   searchSuggestion: null,
   searchExactNodeIds: [],
@@ -51,6 +56,8 @@ const state = {
   dynamicMode: false,
   animationFrameId: null,
   lastFrameAt: 0,
+  panelWidth: 440,
+  noteRequestToken: 0,
 };
 
 function resizeCanvas() {
@@ -69,6 +76,17 @@ function resizeCanvas() {
     return;
   }
   render();
+}
+
+function setActiveView(view) {
+  state.view = view;
+  appShell.classList.toggle("is-exploring", view === "explorer");
+  if (view === "explorer") {
+    requestAnimationFrame(() => {
+      applyPanelWidth(state.panelWidth);
+      resizeCanvas();
+    });
+  }
 }
 
 function worldToScreen(node) {
@@ -118,8 +136,129 @@ function escapeHtml(value) {
     .replace(/"/g, "&quot;");
 }
 
+function clamp(value, min, max) {
+  return Math.max(min, Math.min(max, value));
+}
+
+function isYearTag(tag) {
+  return /^\d{4}$/.test(tag);
+}
+
+function pickPrimaryTag(node) {
+  for (const tag of node.tags || []) {
+    if (tag === "galnet" || isYearTag(tag)) {
+      continue;
+    }
+    return tag;
+  }
+  return node.group || "misc";
+}
+
+function hashString(value) {
+  let hash = 0;
+  for (let index = 0; index < value.length; index += 1) {
+    hash = ((hash << 5) - hash + value.charCodeAt(index)) | 0;
+  }
+  return Math.abs(hash);
+}
+
+function interpolateColor(startHex, endHex, ratio) {
+  const start = startHex.match(/\w\w/g).map((part) => Number.parseInt(part, 16));
+  const end = endHex.match(/\w\w/g).map((part) => Number.parseInt(part, 16));
+  const channels = start.map((channel, index) => Math.round(channel + (end[index] - channel) * ratio));
+  return `rgb(${channels[0]}, ${channels[1]}, ${channels[2]})`;
+}
+
+function classifySemanticShape(node) {
+  const tags = new Set((node.tags || []).map((tag) => canonicalizeTag(tag)));
+  const hasAny = (...values) => values.some((value) => tags.has(value));
+
+  if (hasAny("system", "planet", "station", "settlement", "permit", "sector", "region", "nebula", "cluster")) {
+    return "square";
+  }
+  if (hasAny("beacon", "communitygoal", "galnet", "event", "war", "election", "historicalevent")) {
+    return "diamond";
+  }
+  if (hasAny("individual", "commander")) {
+    return "person";
+  }
+  if (hasAny("empire", "federation", "alliance", "faction", "corporation", "thargoid", "guardian", "power")) {
+    return "triangle";
+  }
+  if (hasAny("ship", "commodity", "component", "module", "weapon", "technology")) {
+    return "hexagon";
+  }
+  return "circle";
+}
+
+function getNodeShape(node) {
+  if (state.shapeMode !== "semantic") {
+    return "circle";
+  }
+  return classifySemanticShape(node);
+}
+
+function traceNodeShape(pathContext, shape, x, y, radius) {
+  pathContext.beginPath();
+
+  if (shape === "square") {
+    pathContext.rect(x - radius, y - radius, radius * 2, radius * 2);
+    return;
+  }
+
+  if (shape === "diamond") {
+    pathContext.moveTo(x, y - radius);
+    pathContext.lineTo(x + radius, y);
+    pathContext.lineTo(x, y + radius);
+    pathContext.lineTo(x - radius, y);
+    pathContext.closePath();
+    return;
+  }
+
+  if (shape === "triangle") {
+    const halfWidth = radius * 0.94;
+    pathContext.moveTo(x, y - radius);
+    pathContext.lineTo(x + halfWidth, y + radius * 0.8);
+    pathContext.lineTo(x - halfWidth, y + radius * 0.8);
+    pathContext.closePath();
+    return;
+  }
+
+  if (shape === "person") {
+    const headRadius = radius * 0.32;
+    const headY = y - radius * 0.42;
+    const shoulderY = y + radius * 0.06;
+    const baseY = y + radius * 0.86;
+    pathContext.arc(x, headY, headRadius, 0, Math.PI * 2);
+    pathContext.moveTo(x - radius * 0.92, baseY);
+    pathContext.quadraticCurveTo(x - radius * 0.9, shoulderY + radius * 0.15, x - radius * 0.42, shoulderY);
+    pathContext.lineTo(x + radius * 0.42, shoulderY);
+    pathContext.quadraticCurveTo(x + radius * 0.9, shoulderY + radius * 0.15, x + radius * 0.92, baseY);
+    pathContext.closePath();
+    return;
+  }
+
+  if (shape === "hexagon") {
+    for (let side = 0; side < 6; side += 1) {
+      const angle = -Math.PI / 2 + (Math.PI / 3) * side;
+      const pointX = x + Math.cos(angle) * radius;
+      const pointY = y + Math.sin(angle) * radius;
+      if (side === 0) {
+        pathContext.moveTo(pointX, pointY);
+      } else {
+        pathContext.lineTo(pointX, pointY);
+      }
+    }
+    pathContext.closePath();
+    return;
+  }
+
+  pathContext.arc(x, y, radius, 0, Math.PI * 2);
+}
+
 function buildTagIndex() {
   const index = new Map();
+  const displayByKey = new Map();
   for (const node of state.nodes) {
     for (const rawTag of node.tags || []) {
       const normalizedTag = canonicalizeTag(rawTag);
@@ -129,6 +268,9 @@ function buildTagIndex() {
       if (!index.has(normalizedTag)) {
         index.set(normalizedTag, []);
       }
+      if (!displayByKey.has(normalizedTag)) {
+        displayByKey.set(normalizedTag, rawTag);
+      }
       index.get(normalizedTag).push(node);
     }
   }
@@ -137,11 +279,72 @@ function buildTagIndex() {
     index.set(tag, nodes);
   }
   state.tagIndex = index;
+  state.tagDisplayByKey = displayByKey;
+}
+
+function buildAppearanceData() {
+  const primaryTags = new Map();
+  for (const node of state.nodes) {
+    primaryTags.set(node.id, pickPrimaryTag(node));
+  }
+  state.primaryTagById = primaryTags;
+
+  const metrics = {
+    links: state.nodes.map((node) => node.degree || 0),
+    backlinks: state.nodes.map((node) => node.inbound || 0),
+  };
+
+  state.metricExtents = new Map(
+    Object.entries(metrics).map(([key, values]) => {
+      if (!values.length) {
+        return [key, { min: 0, max: 1 }];
+      }
+      return [key, {
+        min: Math.min(...values),
+        max: Math.max(...values),
+      }];
+    }),
+  );
+}
+
+function getNodeMetricValue(node, mode) {
+  if (mode === "links") {
+    return node.degree || 0;
+  }
+  if (mode === "backlinks") {
+    return node.inbound || 0;
+  }
+  return 0;
+}
+
+function getNodeColor(node) {
+  if (state.colorMode === "group") {
+    return node.color;
+  }
+
+  if (state.colorMode === "primary-tag") {
+    const tag = state.primaryTagById.get(node.id) || "misc";
+    const hue = hashString(tag) % 360;
+    return `hsl(${hue} 60% 58%)`;
+  }
+
+  const metric = getNodeMetricValue(node, state.colorMode);
+  const range = state.metricExtents.get(state.colorMode) || { min: 0, max: 1 };
+  const normalized = range.max === range.min ? 0.5 : clamp((metric - range.min) / (range.max - range.min), 0, 1);
+  const eased = Math.pow(normalized, 0.7);
+  return interpolateColor("#37689b", "#ffd46b", eased);
 }
 
 function getVisibleNodeIds() {
-  if (state.searchMatchNodeIds) {
-    return new Set(state.searchMatchNodeIds);
+  if (state.activeTagFilter) {
+    const visibleIds = new Set(getNodesForTag(state.activeTagFilter).map((node) => node.id));
+    if (state.graphRootNodeId) {
+      visibleIds.add(state.graphRootNodeId);
+    }
+    if (state.inspectNodeId) {
+      visibleIds.add(state.inspectNodeId);
+    }
+    return visibleIds;
   }
 
   let visibleIds = null;
@@ -170,35 +373,54 @@ function getBacklinkNodeIds(nodeId) {
   return nodeIds;
 }
 
+function getPrimarySearchNodeId() {
+  if (state.searchExactNodeIds.length === 1) {
+    return state.searchExactNodeIds[0];
+  }
+  return state.results[0]?.id || null;
+}
+
+function showEmptyNoteState(message = "Select a node or search result to inspect a note.") {
+  noteMeta.innerHTML = "";
+  noteContent.innerHTML = `<div class="empty-state"><p>${escapeHtml(message)}</p></div>`;
+}
+
+function applyPanelWidth(width) {
+  const shellWidth = explorerShell.getBoundingClientRect().width;
+  if (!shellWidth) {
+    return;
+  }
+  const minWidth = 320;
+  const maxWidth = Math.max(minWidth, shellWidth - 360);
+  state.panelWidth = Math.max(minWidth, Math.min(maxWidth, width));
+  explorerShell.style.setProperty("--note-panel-width", `${state.panelWidth}px`);
+}
+
+function renderLandingTags() {
+  const entries = [...state.tagIndex.entries()]
+    .map(([key, nodes]) => ({
+      key,
+      label: state.tagDisplayByKey.get(key) || key,
+      count: nodes.length,
+    }))
+    .sort((left, right) => right.count - left.count || left.label.localeCompare(right.label));
+
+  landingTagList.innerHTML = entries
+    .map((entry) => `
+      <button type="button" class="tag-cloud-button" data-landing-tag="${escapeHtml(entry.label)}">
+        <strong>${escapeHtml(entry.label)}</strong>
+        <small>${entry.count}</small>
+      </button>
+    `)
+    .join("");
+}
+
 function updateSearchSuggestion() {
-  if (!state.searchSuggestion || !state.searchQuery.trim()) {
-    searchSuggestionButton.hidden = true;
-    searchSuggestionButton.textContent = "";
-    return;
-  }
-  const suggestionTitle = state.searchSuggestion.title;
-  if (suggestionTitle.toLocaleLowerCase() === state.searchQuery.trim().toLocaleLowerCase()) {
-    searchSuggestionButton.hidden = true;
-    searchSuggestionButton.textContent = "";
-    return;
-  }
-  searchSuggestionButton.hidden = false;
-  searchSuggestionButton.textContent = `Complete: ${suggestionTitle}`;
+  return;
 }
 
 function updateSearchHelp() {
-  if (!state.searchQuery.trim()) {
-    searchHelp.textContent = "Type to filter the graph by title, alias, tag, faction, ship, or system.";
-    return;
-  }
-  if (state.searchExactNodeIds.length === 1) {
-    const focusNodeId = state.searchExactNodeIds[0];
-    const focusCount = getBacklinkNodeIds(focusNodeId).size;
-    searchHelp.textContent = `${focusCount} nodes shown for the exact match and its backlinks. Press Escape to clear the filter.`;
-    return;
-  }
-  const matchCount = state.searchMatchNodeIds ? state.searchMatchNodeIds.size : 0;
-  searchHelp.textContent = `${matchCount} matching nodes shown in the graph. Press Escape to clear the filter.`;
+  return;
 }
 
 function applySearchResults(payload) {
@@ -208,21 +430,38 @@ function applySearchResults(payload) {
   state.searchSuggestion = query ? payload.suggestion || null : null;
   state.searchExactNodeIds = query ? (payload.exactIds || []) : [];
 
-  if (!query) {
-    state.searchMatchNodeIds = null;
-  } else if (state.searchExactNodeIds.length === 1) {
-    const focusNodeId = state.searchExactNodeIds[0];
-    state.searchMatchNodeIds = getBacklinkNodeIds(focusNodeId);
-    if (state.inspectNodeId !== focusNodeId) {
-      state.inspectNodeId = focusNodeId;
-    }
-  } else {
-    state.searchMatchNodeIds = new Set(results.map((result) => result.id));
-  }
-
   updateSearchSuggestion();
   updateSearchHelp();
-  render();
+
+  if (!query) {
+    if (state.inspectNodeId) {
+      loadNote(state.inspectNodeId);
+    } else {
+      render();
+    }
+    return;
+  }
+
+  const focusNodeId = getPrimarySearchNodeId();
+  if (!focusNodeId) {
+    if (state.inspectNodeId) {
+      loadNote(state.inspectNodeId);
+    } else {
+      render();
+    }
+    return;
+  }
+
+  state.activeTagFilter = null;
+  if (state.graphRootNodeId === focusNodeId && state.inspectNodeId === focusNodeId && state.neighborMode) {
+    loadNote(focusNodeId);
+    setActiveView("explorer");
+    syncLayout(true);
+    fitGraph();
+    updateUrlState();
+    return;
+  }
+  selectNode(focusNodeId, true);
 }
 
 function updateSearchQuery(query) {
@@ -235,48 +474,42 @@ function updateSearchQuery(query) {
 }
 
 function focusFirstSearchResult() {
-  if (!state.results.length) {
+  const focusNodeId = getPrimarySearchNodeId();
+  if (!focusNodeId) {
     return;
   }
-  const firstResult = state.results[0];
-  if (!firstResult) {
-    return;
-  }
-  if (state.neighborMode && state.graphRootNodeId) {
-    inspectNode(firstResult.id);
-    return;
-  }
-  selectNode(firstResult.id);
+  selectNode(focusNodeId, true);
 }
 
 function acceptSearchSuggestion() {
-  if (!state.searchSuggestion) {
-    return;
-  }
-  searchInput.value = state.searchSuggestion.title;
-  updateSearchQuery(state.searchSuggestion.title);
+  return;
 }
 
 function clearSearch() {
   searchInput.value = "";
   state.searchQuery = "";
-  state.searchMatchNodeIds = null;
   state.results = [];
   state.searchSuggestion = null;
   state.searchExactNodeIds = [];
   updateSearchSuggestion();
   updateSearchHelp();
+  if (state.inspectNodeId) {
+    loadNote(state.inspectNodeId);
+    return;
+  }
   render();
 }
 
 function updateStatus() {
+  if (!state.graphRootNodeId) {
+    graphStatus.textContent = "Choose a tag or search for a node to begin.";
+    return;
+  }
   const visibleNodes = getVisibleNodes();
   const visibleEdges = getVisibleEdgeRefs();
-  const modeLabel = state.neighborMode && state.graphRootNodeId
-    ? `${state.neighborLayout} neighbors${state.expandedNodeIds.size ? ` +${state.expandedNodeIds.size} expanded` : ""}`
-    : "full graph";
+  const modeLabel = `local graph${state.expandedNodeIds.size ? ` +${state.expandedNodeIds.size} expanded` : ""}`;
   const motionLabel = state.dynamicMode ? "dynamic" : "static";
-  const filterLabel = state.searchQuery.trim() ? ` · filtered` : "";
+  const filterLabel = state.searchQuery.trim() ? " · search" : (state.activeTagFilter ? ` · tag ${state.activeTagFilter}` : "");
   graphStatus.textContent = `${visibleNodes.length} nodes · ${visibleEdges.length} edges · ${modeLabel}${filterLabel} · ${motionLabel}`;
 }
 
@@ -307,7 +540,6 @@ function getLabelNodes(nodes) {
   const seen = new Set();
   const rootId = state.graphRootNodeId;
   const inspectId = state.inspectNodeId || rootId;
-  const hasSearchFilter = Boolean(state.searchQuery.trim() && state.searchMatchNodeIds);
 
   const addNode = (node) => {
     if (!node || seen.has(node.id)) {
@@ -320,15 +552,6 @@ function getLabelNodes(nodes) {
   addNode(state.nodeById.get(rootId));
   if (inspectId !== rootId) {
     addNode(state.nodeById.get(inspectId));
-  }
-
-  if (hasSearchFilter) {
-    const filteredNodes = [...nodes]
-      .filter((node) => !seen.has(node.id))
-      .sort((left, right) => right.degree - left.degree || left.title.localeCompare(right.title));
-
-    const maxLabels = state.neighborMode && rootId ? 24 : 32;
-    filteredNodes.slice(0, maxLabels).forEach((node) => addNode(node));
   }
 
   if (!state.pointer.active) {
@@ -470,32 +693,30 @@ function render() {
   for (const node of visibleNodes) {
     const point = worldToScreen(node);
     const radius = Math.max(1.6, node.size * state.camera.zoom * 0.42);
-    context.beginPath();
-    context.fillStyle = node.color;
+    const shape = getNodeShape(node);
+    const fillColor = getNodeColor(node);
+    traceNodeShape(context, shape, point.x, point.y, radius);
+    context.fillStyle = fillColor;
     context.globalAlpha = state.inspectNodeId && state.inspectNodeId !== node.id ? 0.82 : 0.98;
-    context.arc(point.x, point.y, radius, 0, Math.PI * 2);
     context.fill();
 
     if (node.id === state.graphRootNodeId) {
       context.globalAlpha = 1;
       context.strokeStyle = "#ffe082";
       context.lineWidth = 2;
-      context.beginPath();
-      context.arc(point.x, point.y, radius + 4, 0, Math.PI * 2);
+      traceNodeShape(context, shape, point.x, point.y, radius + 4);
       context.stroke();
     } else if (node.id === state.inspectNodeId) {
       context.globalAlpha = 1;
       context.strokeStyle = "#eef6ff";
       context.lineWidth = 1.5;
-      context.beginPath();
-      context.arc(point.x, point.y, radius + 3, 0, Math.PI * 2);
+      traceNodeShape(context, shape, point.x, point.y, radius + 3);
       context.stroke();
     } else if (state.expandedNodeIds.has(node.id)) {
       context.globalAlpha = 0.95;
       context.strokeStyle = "#4dd0e1";
       context.lineWidth = 1.5;
-      context.beginPath();
-      context.arc(point.x, point.y, radius + 3, 0, Math.PI * 2);
+      traceNodeShape(context, shape, point.x, point.y, radius + 3);
       context.stroke();
     }
   }
@@ -503,17 +724,6 @@ function render() {
   renderNodeLabels(visibleNodes);
   context.restore();
   updateStatus();
-}
-
-function renderStats() {
-  const stats = [
-    ["Nodes", state.meta.nodeCount],
-    ["Edges", state.meta.edgeCount],
-    ["Groups", state.meta.groupCount],
-  ];
-  graphStats.innerHTML = stats
-    .map(([label, value]) => `<div><dt>${label}</dt><dd>${value}</dd></div>`)
-    .join("");
 }
 
 function getBacklinks(nodeId) {
@@ -532,47 +742,24 @@ function getBacklinks(nodeId) {
     .sort((left, right) => right.degree - left.degree || left.title.localeCompare(right.title));
 }
 
-function renderBacklinks(nodeId) {
-  const backlinks = getBacklinks(nodeId);
-  if (!backlinks.length) {
-    return `
-      <section class="backlinks-section">
-        <div class="backlinks-header">
-          <span class="meta-label">Backlinks</span>
-          <span class="backlinks-count">0</span>
-        </div>
-        <p class="note-warning">No backlinks found for this node.</p>
-      </section>
-    `;
-  }
-
-  const items = backlinks
-    .slice(0, 200)
-    .map((node) => `
-      <li>
-        <button type="button" class="backlink-item" data-node-id="${node.id}">
-          <span>${node.title}</span>
-          <small>${node.group} · degree ${node.degree}</small>
-        </button>
-      </li>
-    `)
-    .join("");
-
-  return `
-    <section class="backlinks-section">
-      <div class="backlinks-header">
-        <span class="meta-label">Backlinks</span>
-        <span class="backlinks-count">${backlinks.length}</span>
-      </div>
-      <ul class="backlinks-list">
-        ${items}
-      </ul>
-    </section>
-  `;
-}
-
 function getNodesForTag(tag) {
   return state.tagIndex.get(canonicalizeTag(tag)) || [];
+}
+
+function activateTag(tag) {
+  const [node] = getNodesForTag(tag);
+  if (!node) {
+    return;
+  }
+  searchInput.value = "";
+  state.searchQuery = "";
+  state.results = [];
+  state.searchSuggestion = null;
+  state.searchExactNodeIds = [];
+  state.activeTagFilter = tag;
+  updateSearchSuggestion();
+  updateSearchHelp();
+  selectNode(node.id, true);
 }
 
 function renderTagButtons(node) {
@@ -595,42 +782,6 @@ function renderTagButtons(node) {
     .join("");
 }
 
-function renderTagMatches(nodeId) {
-  if (!state.activeTagFilter) {
-    return "";
-  }
-
-  const matches = getNodesForTag(state.activeTagFilter);
-  const items = matches
-    .slice(0, 200)
-    .map((node) => `
-      <li>
-        <button
-          type="button"
-          class="backlink-item ${node.id === nodeId ? "is-current" : ""}"
-          data-node-id="${node.id}"
-          ${node.id === nodeId ? "disabled" : ""}
-        >
-          <span>${escapeHtml(node.title)}</span>
-          <small>${escapeHtml(node.group)} · degree ${node.degree}</small>
-        </button>
-      </li>
-    `)
-    .join("");
-
-  return `
-    <section class="backlinks-section">
-      <div class="backlinks-header">
-        <span class="meta-label">Tag: ${escapeHtml(state.activeTagFilter)}</span>
-        <span class="backlinks-count">${matches.length}</span>
-      </div>
-      <ul class="backlinks-list">
-        ${items}
-      </ul>
-    </section>
-  `;
-}
-
 async function loadNote(nodeId) {
   const node = state.nodeById.get(nodeId);
   if (!node) return;
@@ -640,19 +791,14 @@ async function loadNote(nodeId) {
   ) {
     state.activeTagFilter = null;
   }
+  const requestToken = ++state.noteRequestToken;
   const response = await fetch(`./notes/${nodeId}.html`);
   const noteHtml = await response.text();
-  noteContent.innerHTML = `${renderTagMatches(nodeId)}${renderBacklinks(nodeId)}${noteHtml}`;
-  const backlinkCount = getBacklinks(nodeId).length;
-  noteMeta.innerHTML = `
-    <div><span class="meta-label">Node</span><span>${node.title}</span></div>
-    <div><span class="meta-label">Degree</span><span>${node.degree}</span></div>
-    <div><span class="meta-label">Backlinks</span><span>${backlinkCount}</span></div>
-    <div>
-      <span class="meta-label">Tags</span>
-      <div class="note-tag-list">${renderTagButtons(node)}</div>
-    </div>
-  `;
+  if (requestToken !== state.noteRequestToken) {
+    return;
+  }
+  noteContent.innerHTML = noteHtml;
+  noteMeta.innerHTML = `<div class="note-tag-list">${renderTagButtons(node)}</div>`;
 }
 
 function updateUrlState() {
@@ -665,9 +811,6 @@ function updateUrlState() {
   }
   if (state.neighborMode) {
     hash.set("view", "neighbors");
-    if (state.neighborLayout !== "radial") {
-      hash.set("nlayout", state.neighborLayout);
-    }
   }
   if (state.dynamicMode) {
     hash.set("layout", "dynamic");
@@ -678,18 +821,12 @@ function updateUrlState() {
 }
 
 function updateNeighborButton() {
-  neighborsButton.classList.toggle("is-active", state.neighborMode);
-  neighborsButton.setAttribute("aria-pressed", String(state.neighborMode));
+  return;
 }
 
 function updateDynamicButton() {
   dynamicButton.classList.toggle("is-active", state.dynamicMode);
   dynamicButton.setAttribute("aria-pressed", String(state.dynamicMode));
-}
-
-function updateNeighborLayoutControl() {
-  neighborLayoutSelect.value = state.neighborLayout;
-  neighborLayoutSelect.disabled = !state.neighborMode;
 }
 
 function hideContextMenu() {
@@ -845,50 +982,6 @@ function applyRadialNeighborLayout(layoutState, resetPositions) {
   }
 }
 
-function applyFanNeighborLayout(layoutState, resetPositions) {
-  const { center, parentById, nodesByDepth, sortedDepths } = layoutState;
-  for (const depth of sortedDepths) {
-    const fanNodes = sortNeighborhoodNodes(nodesByDepth.get(depth), parentById, center);
-    if (!fanNodes.length) {
-      continue;
-    }
-    const spread = Math.min(Math.PI * 1.45, 0.85 + fanNodes.length * 0.18);
-    const startAngle = -Math.PI / 2 - spread / 2;
-    const step = fanNodes.length === 1 ? 0 : spread / (fanNodes.length - 1);
-    const radiusBase = 110 + (depth - 1) * 92;
-    fanNodes.forEach((node, index) => {
-      const angle = startAngle + step * index;
-      const radius = radiusBase + Math.min(18, node.degree * 0.3);
-      setNodeAnchor(
-        node,
-        Math.cos(angle) * radius,
-        Math.sin(angle) * radius,
-        resetPositions,
-      );
-    });
-  }
-}
-
-function applyColumnNeighborLayout(layoutState, resetPositions) {
-  const { center, parentById, nodesByDepth, sortedDepths } = layoutState;
-  for (const depth of sortedDepths) {
-    const columnNodes = sortNeighborhoodNodes(nodesByDepth.get(depth), parentById, center);
-    if (!columnNodes.length) {
-      continue;
-    }
-    const x = 120 + (depth - 1) * 170;
-    const verticalGap = Math.min(72, Math.max(34, 320 / Math.max(1, columnNodes.length)));
-    const totalHeight = verticalGap * Math.max(0, columnNodes.length - 1);
-    const top = -totalHeight / 2;
-    columnNodes.forEach((node, index) => {
-      const parent = state.nodeById.get(parentById.get(node.id)) || center;
-      const parentBias = Math.max(-42, Math.min(42, parent.anchorY * 0.16));
-      const y = top + index * verticalGap + parentBias;
-      setNodeAnchor(node, x, y, resetPositions);
-    });
-  }
-}
-
 function applyNeighborLayout(nodeId, resetPositions = true) {
   restoreGlobalLayout(false);
   const layoutState = buildNeighborhoodLayoutState(nodeId);
@@ -896,15 +989,6 @@ function applyNeighborLayout(nodeId, resetPositions = true) {
     return;
   }
   setNodeAnchor(layoutState.center, 0, 0, resetPositions);
-
-  if (state.neighborLayout === "fan") {
-    applyFanNeighborLayout(layoutState, resetPositions);
-    return;
-  }
-  if (state.neighborLayout === "columns") {
-    applyColumnNeighborLayout(layoutState, resetPositions);
-    return;
-  }
   applyRadialNeighborLayout(layoutState, resetPositions);
 }
 
@@ -948,7 +1032,6 @@ function openLocalGraph(nodeId) {
   hideContextMenu();
   state.neighborMode = true;
   updateNeighborButton();
-  updateNeighborLayoutControl();
   selectNode(nodeId, true);
 }
 
@@ -959,13 +1042,15 @@ function toggleTagFilter(tag) {
   const normalizedTag = canonicalizeTag(tag);
   const normalizedActiveTag = canonicalizeTag(state.activeTagFilter || "");
   state.activeTagFilter = normalizedTag === normalizedActiveTag ? null : tag;
-  loadNote(state.inspectNodeId);
+  fitGraph();
+  render();
 }
 
 function inspectNode(nodeId, updateUrl = true) {
   const node = state.nodeById.get(nodeId);
   if (!node) return;
   hideContextMenu();
+  setActiveView("explorer");
   state.inspectNodeId = nodeId;
   loadNote(nodeId);
   if (updateUrl) {
@@ -978,13 +1063,16 @@ function selectNode(nodeId, shouldCenter = true, updateUrl = true) {
   const node = state.nodeById.get(nodeId);
   if (!node) return;
   hideContextMenu();
+  setActiveView("explorer");
+  state.neighborMode = true;
+  updateNeighborButton();
   state.graphRootNodeId = nodeId;
   state.inspectNodeId = nodeId;
   state.expandedNodeIds = new Set();
-  syncLayout(state.neighborMode);
-  if (shouldCenter && state.neighborMode) {
+  syncLayout(true);
+  if (shouldCenter) {
     fitGraph();
-  } else if (shouldCenter) {
+  } else {
     state.camera.x = node.x;
     state.camera.y = node.y;
   }
@@ -1000,16 +1088,23 @@ function selectNode(nodeId, shouldCenter = true, updateUrl = true) {
 
 function resetSelection() {
   hideContextMenu();
+  setDynamicMode(false, false);
+  setActiveView("landing");
+  searchInput.value = "";
+  state.searchQuery = "";
+  state.results = [];
+  state.searchSuggestion = null;
+  state.searchExactNodeIds = [];
   state.graphRootNodeId = null;
   state.inspectNodeId = null;
   state.activeTagFilter = null;
+  state.neighborMode = false;
   state.expandedNodeIds = new Set();
-  noteMeta.innerHTML = "";
-  noteContent.innerHTML = '<div class="empty-state"><p>Select a node or search result to inspect a note.</p></div>';
+  updateNeighborButton();
+  updateSearchSuggestion();
+  updateSearchHelp();
+  showEmptyNoteState();
   syncLayout(true);
-  if (state.dynamicMode) {
-    nudgeNodes(getVisibleNodes(), 0.45);
-  }
   updateUrlState();
   render();
 }
@@ -1020,9 +1115,11 @@ function setNeighborMode(enabled, shouldFit = true, updateUrl = true) {
     state.expandedNodeIds = new Set();
   }
   updateNeighborButton();
-  updateNeighborLayoutControl();
   hideContextMenu();
   syncLayout(true);
+  if (enabled && state.graphRootNodeId) {
+    setActiveView("explorer");
+  }
   if (state.dynamicMode) {
     nudgeNodes(getVisibleNodes(), enabled ? 1.1 : 0.35);
   }
@@ -1030,26 +1127,6 @@ function setNeighborMode(enabled, shouldFit = true, updateUrl = true) {
     fitGraph();
   } else {
     render();
-  }
-  if (updateUrl) {
-    updateUrlState();
-  }
-}
-
-function setNeighborLayout(layout, shouldFit = true, updateUrl = true) {
-  state.neighborLayout = ["radial", "fan", "columns"].includes(layout) ? layout : "radial";
-  updateNeighborLayoutControl();
-  hideContextMenu();
-  if (state.neighborMode && state.graphRootNodeId) {
-    syncLayout(true);
-    if (state.dynamicMode) {
-      nudgeNodes(getVisibleNodes(), 0.9);
-    }
-    if (shouldFit) {
-      fitGraph();
-    } else {
-      render();
-    }
   }
   if (updateUrl) {
     updateUrlState();
@@ -1081,6 +1158,22 @@ function stopSimulation() {
   }
 }
 
+function getSimulationTuning(visibleNodeCount, isFocusedNeighborhood) {
+  const density = Math.min(1, Math.max(0, (visibleNodeCount - 12) / 40));
+  return {
+    anchorStrength: (isFocusedNeighborhood ? 0.022 : 0.014) * (1 - density * 0.22),
+    rootAnchorStrength: (isFocusedNeighborhood ? 0.034 : 0.016) * (1 - density * 0.14),
+    repulsionBase: (isFocusedNeighborhood ? 1350 : 760) * (1 - density * 0.55),
+    springStrength: (isFocusedNeighborhood ? 0.013 : 0.006) * (1 - density * 0.34),
+    damping: isFocusedNeighborhood ? (0.76 - density * 0.08) : (0.82 - density * 0.1),
+    maxVelocity: (isFocusedNeighborhood ? 5.4 : 8.2) * (1 - density * 0.36),
+    preferredLength: (isFocusedNeighborhood ? 80 : 84) + density * 10,
+    nudgeStrength: (isFocusedNeighborhood ? 0.48 : 0.16) * (1 - density * 0.5),
+    settleVelocity: 0.028 + density * 0.05,
+    settleDistance: 0.7 + density * 1.2,
+  };
+}
+
 function runSimulationFrame(now) {
   if (!state.dynamicMode || document.hidden) {
     stopSimulation();
@@ -1094,6 +1187,7 @@ function runSimulationFrame(now) {
   const visibleEdges = getVisibleEdgeRefs();
   const nodeIndex = new Map(visibleNodes.map((node, index) => [node.id, index]));
   const isFocusedNeighborhood = state.neighborMode && state.graphRootNodeId;
+  const tuning = getSimulationTuning(visibleNodes.length, isFocusedNeighborhood);
   const cellSize = isFocusedNeighborhood ? 120 : 140;
   const maxRepelDistance = cellSize * 1.75;
   const maxRepelDistanceSq = maxRepelDistance * maxRepelDistance;
@@ -1101,8 +1195,8 @@ function runSimulationFrame(now) {
   const scale = dt * 60;
 
   for (const node of visibleNodes) {
-    node.fx = (node.anchorX - node.x) * (isFocusedNeighborhood ? 0.024 : 0.016);
-    node.fy = (node.anchorY - node.y) * (isFocusedNeighborhood ? 0.024 : 0.016);
+    node.fx = (node.anchorX - node.x) * tuning.anchorStrength;
+    node.fy = (node.anchorY - node.y) * tuning.anchorStrength;
     const cellX = Math.floor(node.x / cellSize);
     const cellY = Math.floor(node.y / cellSize);
     const key = `${cellX},${cellY}`;
@@ -1132,7 +1226,7 @@ function runSimulationFrame(now) {
             continue;
           }
           const distance = Math.sqrt(distSq);
-          const repulsion = (isFocusedNeighborhood ? 1800 : 1100) / distSq;
+          const repulsion = tuning.repulsionBase / distSq;
           const forceX = (dx / distance) * repulsion;
           const forceY = (dy / distance) * repulsion;
           node.fx -= forceX;
@@ -1148,8 +1242,7 @@ function runSimulationFrame(now) {
     const dx = edge.target.x - edge.source.x;
     const dy = edge.target.y - edge.source.y;
     const distance = Math.sqrt(dx * dx + dy * dy) || 1;
-    const preferredLength = isFocusedNeighborhood ? 74 : 78;
-    const spring = (distance - preferredLength) * (isFocusedNeighborhood ? 0.018 : 0.008);
+    const spring = (distance - tuning.preferredLength) * tuning.springStrength;
     const forceX = (dx / distance) * spring;
     const forceY = (dy / distance) * spring;
     edge.source.fx += forceX;
@@ -1160,14 +1253,22 @@ function runSimulationFrame(now) {
 
   for (const node of visibleNodes) {
     if (node.id === state.graphRootNodeId) {
-      node.fx += (node.anchorX - node.x) * (isFocusedNeighborhood ? 0.04 : 0.018);
-      node.fy += (node.anchorY - node.y) * (isFocusedNeighborhood ? 0.04 : 0.018);
+      node.fx += (node.anchorX - node.x) * tuning.rootAnchorStrength;
+      node.fy += (node.anchorY - node.y) * tuning.rootAnchorStrength;
     }
-    node.vx = (node.vx + node.fx * scale) * 0.86;
-    node.vy = (node.vy + node.fy * scale) * 0.86;
-    const maxVelocity = isFocusedNeighborhood ? 8 : 12;
-    node.vx = Math.max(-maxVelocity, Math.min(maxVelocity, node.vx));
-    node.vy = Math.max(-maxVelocity, Math.min(maxVelocity, node.vy));
+    node.vx = (node.vx + node.fx * scale) * tuning.damping;
+    node.vy = (node.vy + node.fy * scale) * tuning.damping;
+    node.vx = Math.max(-tuning.maxVelocity, Math.min(tuning.maxVelocity, node.vx));
+    node.vy = Math.max(-tuning.maxVelocity, Math.min(tuning.maxVelocity, node.vy));
+    const distanceToAnchor = Math.hypot(node.anchorX - node.x, node.anchorY - node.y);
+    const velocity = Math.hypot(node.vx, node.vy);
+    if (velocity < tuning.settleVelocity && distanceToAnchor < tuning.settleDistance) {
+      node.vx = 0;
+      node.vy = 0;
+      node.x += (node.anchorX - node.x) * 0.18;
+      node.y += (node.anchorY - node.y) * 0.18;
+      continue;
+    }
     node.x += node.vx;
     node.y += node.vy;
   }
@@ -1180,7 +1281,12 @@ function setDynamicMode(enabled, updateUrl = true) {
   state.dynamicMode = enabled;
   updateDynamicButton();
   if (enabled) {
-    nudgeNodes(getVisibleNodes(), state.neighborMode && state.graphRootNodeId ? 1.3 : 0.35);
+    const visibleNodes = getVisibleNodes();
+    const tuning = getSimulationTuning(
+      visibleNodes.length,
+      state.neighborMode && state.graphRootNodeId,
+    );
+    nudgeNodes(visibleNodes, tuning.nudgeStrength);
     state.lastFrameAt = performance.now();
     if (!state.animationFrameId) {
       state.animationFrameId = requestAnimationFrame(runSimulationFrame);
@@ -1254,14 +1360,16 @@ function bindEvents() {
 
   fitButton.addEventListener("click", fitGraph);
   resetButton.addEventListener("click", resetSelection);
-  neighborsButton.addEventListener("click", () => {
-    setNeighborMode(!state.neighborMode);
-  });
   dynamicButton.addEventListener("click", () => {
     setDynamicMode(!state.dynamicMode);
   });
-  neighborLayoutSelect.addEventListener("change", (event) => {
-    setNeighborLayout(event.target.value);
+  colorModeSelect.addEventListener("change", (event) => {
+    state.colorMode = event.target.value;
+    render();
+  });
+  shapeModeSelect.addEventListener("change", (event) => {
+    state.shapeMode = event.target.value;
+    render();
   });
   contextInspectNodeButton.addEventListener("click", () => {
     if (!state.contextMenu.nodeId) {
@@ -1280,6 +1388,51 @@ function bindEvents() {
       return;
     }
     expandNeighborhood(state.contextMenu.nodeId);
+  });
+  landingTagList.addEventListener("click", (event) => {
+    const tagButton = event.target.closest("[data-landing-tag]");
+    if (!tagButton) {
+      return;
+    }
+    activateTag(tagButton.dataset.landingTag);
+  });
+
+  panelResizer.addEventListener("mousedown", (event) => {
+    if (window.innerWidth <= 920) {
+      return;
+    }
+    event.preventDefault();
+    panelResizer.classList.add("is-dragging");
+    const shellRect = explorerShell.getBoundingClientRect();
+    const startX = event.clientX;
+    const startWidth = state.panelWidth;
+
+    const onMouseMove = (moveEvent) => {
+      const delta = startX - moveEvent.clientX;
+      const nextWidth = startWidth + delta;
+      applyPanelWidth(nextWidth);
+      resizeCanvas();
+    };
+
+    const onMouseUp = () => {
+      panelResizer.classList.remove("is-dragging");
+      window.removeEventListener("mousemove", onMouseMove);
+      window.removeEventListener("mouseup", onMouseUp);
+    };
+
+    applyPanelWidth(Math.min(startWidth, shellRect.width - 360));
+    window.addEventListener("mousemove", onMouseMove);
+    window.addEventListener("mouseup", onMouseUp);
+  });
+
+  panelResizer.addEventListener("keydown", (event) => {
+    if (event.key !== "ArrowLeft" && event.key !== "ArrowRight") {
+      return;
+    }
+    event.preventDefault();
+    const delta = event.key === "ArrowLeft" ? 24 : -24;
+    applyPanelWidth(state.panelWidth + delta);
+    resizeCanvas();
   });
 
   canvas.addEventListener("mousedown", (event) => {
@@ -1338,11 +1491,7 @@ function bindEvents() {
     if (!winner) {
       return;
     }
-    if (state.neighborMode && state.graphRootNodeId) {
-      inspectNode(winner.id);
-      return;
-    }
-    selectNode(winner.id, false);
+    selectNode(winner.id, true);
   });
 
   canvas.addEventListener("contextmenu", (event) => {
@@ -1369,17 +1518,15 @@ function bindEvents() {
   searchInput.addEventListener("input", (event) => {
     updateSearchQuery(event.target.value);
   });
-  searchSuggestionButton.addEventListener("click", () => {
-    acceptSearchSuggestion();
-  });
 
   searchInput.addEventListener("keydown", (event) => {
     if (event.key === "Escape") {
       event.preventDefault();
-      clearSearch();
-    } else if (event.key === "Tab" && state.searchSuggestion) {
-      event.preventDefault();
-      acceptSearchSuggestion();
+      if (state.searchQuery.trim()) {
+        clearSearch();
+      } else if (state.view === "explorer") {
+        resetSelection();
+      }
     } else if (event.key === "Enter") {
       event.preventDefault();
       focusFirstSearchResult();
@@ -1427,44 +1574,42 @@ function applyUrlState() {
   const params = new URLSearchParams(window.location.hash.replace(/^#/, ""));
   const nodeId = params.get("node");
   const inspectNodeId = params.get("inspect");
-  const neighborMode = params.get("view") === "neighbors";
   const dynamicMode = params.get("layout") === "dynamic";
-  const neighborLayout = params.get("nlayout") || "radial";
 
-  state.neighborMode = neighborMode;
+  state.neighborMode = Boolean(nodeId);
   updateNeighborButton();
-  state.neighborLayout = ["radial", "fan", "columns"].includes(neighborLayout)
-    ? neighborLayout
-    : "radial";
-  updateNeighborLayoutControl();
   state.dynamicMode = dynamicMode;
   updateDynamicButton();
   hideContextMenu();
 
   if (nodeId && state.nodeById.has(nodeId)) {
+    setActiveView("explorer");
     selectNode(nodeId, true, false);
     if (inspectNodeId && state.nodeById.has(inspectNodeId)) {
       inspectNode(inspectNodeId, false);
     }
-    if (neighborMode) {
-      fitGraph();
-    }
+    fitGraph();
     setDynamicMode(dynamicMode, false);
     return;
   }
 
   if (!nodeId) {
+    setActiveView("landing");
     state.graphRootNodeId = null;
     state.inspectNodeId = null;
     state.activeTagFilter = null;
+    state.neighborMode = false;
+    state.results = [];
+    state.searchQuery = "";
     state.searchSuggestion = null;
     state.searchExactNodeIds = [];
+    searchInput.value = "";
     updateSearchSuggestion();
-    noteMeta.innerHTML = "";
-    noteContent.innerHTML = '<div class="empty-state"><p>Select a node or search result to inspect a note.</p></div>';
-    fitGraph();
+    updateSearchHelp();
+    showEmptyNoteState();
+    render();
   }
-  setDynamicMode(dynamicMode, false);
+  setDynamicMode(nodeId ? dynamicMode : false, false);
 }
 
 worker.onmessage = (event) => {
@@ -1499,12 +1644,16 @@ async function bootstrap() {
   state.bounds = computeBounds(state.nodes);
   buildAdjacency();
   buildTagIndex();
+  buildAppearanceData();
+  renderLandingTags();
   buildSimulationData();
-  updateNeighborLayoutControl();
+  applyPanelWidth(state.panelWidth);
+  colorModeSelect.value = state.colorMode;
+  shapeModeSelect.value = state.shapeMode;
 
   state.hasFitted = false;
-  resizeCanvas();
-  renderStats();
+  showEmptyNoteState();
+  setActiveView("landing");
   applyUrlState();
 
   worker.postMessage({ type: "init", payload: { docs: searchDocs } });
