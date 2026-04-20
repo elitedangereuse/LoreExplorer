@@ -881,6 +881,9 @@ function updateUrlState() {
   if (state.dynamicMode) {
     hash.set("layout", "dynamic");
   }
+  if (state.activeTagFilter) {
+    hash.set("tag", state.activeTagFilter);
+  }
   const hashString = hash.toString();
   const nextUrl = hashString ? `#${hashString}` : window.location.pathname + window.location.search;
   history.replaceState(null, "", nextUrl);
@@ -1645,6 +1648,7 @@ function applyUrlState() {
   const nodeId = params.get("node");
   const inspectNodeId = params.get("inspect");
   const dynamicMode = params.get("layout") === "dynamic";
+  const tagFilter = params.get("tag");
 
   state.neighborMode = Boolean(nodeId);
   updateNeighborButton();
@@ -1654,6 +1658,9 @@ function applyUrlState() {
 
   if (nodeId && state.nodeById.has(nodeId)) {
     setActiveView("explorer");
+    if (tagFilter && state.tagIndex.has(canonicalizeTag(tagFilter))) {
+      state.activeTagFilter = tagFilter;
+    }
     selectNode(nodeId, true, false);
     if (inspectNodeId && state.nodeById.has(inspectNodeId)) {
       inspectNode(inspectNodeId, false);
