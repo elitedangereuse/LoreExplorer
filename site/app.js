@@ -1533,6 +1533,10 @@ function bindEvents() {
     if (!winner) {
       return;
     }
+    if (state.neighborMode && state.graphRootNodeId) {
+      inspectNode(winner.id);
+      return;
+    }
     selectNode(winner.id, true);
   });
 
