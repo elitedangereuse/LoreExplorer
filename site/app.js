@@ -18,6 +18,8 @@ const graphContextMenu = document.getElementById("graph-context-menu");
 const contextInspectNodeButton = document.getElementById("context-inspect-node");
 const contextOpenLocalGraphButton = document.getElementById("context-open-local-graph");
 const contextExpandNodeButton = document.getElementById("context-expand-node");
+const appScript = document.querySelector('script[src$="app.js"]');
+const siteBaseUrl = new URL(".", appScript?.src || window.location.href);
 
 const worker = new Worker("./search-worker.js");
 
@@ -824,6 +826,27 @@ function renderTagButtons(node) {
     .join("");
 }
 
+function rewriteNoteAssetUrls(root) {
+  for (const image of root.querySelectorAll("img[src]")) {
+    const src = image.getAttribute("src");
+    if (!src || /^(?:[a-z]+:|\/\/|data:|blob:|#)/i.test(src)) {
+      continue;
+    }
+    image.src = new URL(src, siteBaseUrl).href;
+  }
+
+  for (const link of root.querySelectorAll("a[href]")) {
+    if (link.dataset.nodeId) {
+      continue;
+    }
+    const href = link.getAttribute("href");
+    if (!href || /^(?:[a-z]+:|\/\/|#|mailto:|tel:)/i.test(href)) {
+      continue;
+    }
+    link.href = new URL(href, siteBaseUrl).href;
+  }
+}
+
 async function loadNote(nodeId) {
   const node = state.nodeById.get(nodeId);
   if (!node) return;
@@ -840,6 +863,7 @@ async function loadNote(nodeId) {
     return;
   }
   noteContent.innerHTML = noteHtml;
+  rewriteNoteAssetUrls(noteContent);
   noteMeta.innerHTML = `<div class="note-tag-list">${renderTagButtons(node)}</div>`;
 }
 
