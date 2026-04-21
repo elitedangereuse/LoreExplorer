@@ -287,6 +287,10 @@ def apply_inline_markup(text: str) -> str:
     return escaped
 
 
+def headings_match_title(heading_text: str, title: str) -> bool:
+    return normalize(strip_org_markup(heading_text)) == normalize(title)
+
+
 def render_org_note(note: Note) -> str:
     if not note.file.exists():
         return (
@@ -333,8 +337,10 @@ def render_org_note(note: Note) -> str:
         if heading_match:
             flush_paragraph()
             flush_list()
-            level = min(len(heading_match.group(1)), 6)
             heading_text = heading_match.group(2).strip()
+            if not blocks and headings_match_title(heading_text, note.title):
+                continue
+            level = min(len(heading_match.group(1)) + 1, 6)
             plain_text_lines.append(strip_org_markup(heading_text))
             blocks.append(f"<h{level}>{apply_inline_markup(heading_text)}</h{level}>")
             continue

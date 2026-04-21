@@ -225,15 +225,55 @@ function traceNodeShape(pathContext, shape, x, y, radius) {
   }
 
   if (shape === "person") {
-    const headRadius = radius * 0.32;
-    const headY = y - radius * 0.42;
-    const shoulderY = y + radius * 0.06;
-    const baseY = y + radius * 0.86;
-    pathContext.arc(x, headY, headRadius, 0, Math.PI * 2);
-    pathContext.moveTo(x - radius * 0.92, baseY);
-    pathContext.quadraticCurveTo(x - radius * 0.9, shoulderY + radius * 0.15, x - radius * 0.42, shoulderY);
-    pathContext.lineTo(x + radius * 0.42, shoulderY);
-    pathContext.quadraticCurveTo(x + radius * 0.9, shoulderY + radius * 0.15, x + radius * 0.92, baseY);
+    const headRadius = radius * 0.42;
+    const headY = y - radius * 0.34;
+    const neckHalfWidth = radius * 0.18;
+    const shoulderHalfWidth = radius * 0.62;
+    const shoulderY = y + radius * 0.18;
+    const baseY = y + radius * 0.82;
+    const headBaseY = headY + headRadius * 0.84;
+
+    pathContext.moveTo(x - shoulderHalfWidth, baseY);
+    pathContext.quadraticCurveTo(
+      x - shoulderHalfWidth * 0.98,
+      shoulderY + radius * 0.22,
+      x - shoulderHalfWidth * 0.72,
+      shoulderY,
+    );
+    pathContext.quadraticCurveTo(
+      x - neckHalfWidth * 1.6,
+      shoulderY - radius * 0.08,
+      x - neckHalfWidth,
+      headBaseY,
+    );
+    pathContext.bezierCurveTo(
+      x - headRadius,
+      headY + headRadius * 0.28,
+      x - headRadius,
+      headY - headRadius,
+      x,
+      headY - headRadius,
+    );
+    pathContext.bezierCurveTo(
+      x + headRadius,
+      headY - headRadius,
+      x + headRadius,
+      headY + headRadius * 0.28,
+      x + neckHalfWidth,
+      headBaseY,
+    );
+    pathContext.quadraticCurveTo(
+      x + neckHalfWidth * 1.6,
+      shoulderY - radius * 0.08,
+      x + shoulderHalfWidth * 0.72,
+      shoulderY,
+    );
+    pathContext.quadraticCurveTo(
+      x + shoulderHalfWidth * 0.98,
+      shoulderY + radius * 0.22,
+      x + shoulderHalfWidth,
+      baseY,
+    );
     pathContext.closePath();
     return;
   }
@@ -679,6 +719,8 @@ function render() {
   const visibleEdges = getVisibleEdgeRefs();
 
   context.save();
+  context.lineJoin = "round";
+  context.lineCap = "round";
   context.lineWidth = 1;
   context.strokeStyle = "rgba(180, 205, 225, 0.07)";
   context.beginPath();
