@@ -143,6 +143,10 @@ function clamp(value, min, max) {
   return Math.max(min, Math.min(max, value));
 }
 
+function delay(ms) {
+  return new Promise((resolve) => window.setTimeout(resolve, ms));
+}
+
 function isYearTag(tag) {
   return /^\d{4}$/.test(tag);
 }
@@ -930,6 +934,34 @@ function rewriteNoteAssetUrls(root) {
   }
 }
 
+async function fetchWithRetry(url, options = {}, attempts = 4, retryDelayMs = 150) {
+  let lastError = null;
+
+  for (let attempt = 0; attempt < attempts; attempt += 1) {
+    try {
+      const response = await fetch(url, {
+        cache: "no-store",
+        ...options,
+      });
+      if (response.ok) {
+        return response;
+      }
+      const error = new Error(`${response.status} ${response.statusText}`.trim());
+      error.status = response.status;
+      throw error;
+    } catch (error) {
+      lastError = error;
+      const canRetry = attempt < attempts - 1 && (!("status" in error) || error.status === 404);
+      if (!canRetry) {
+        throw error;
+      }
+      await delay(retryDelayMs * (attempt + 1));
+    }
+  }
+
+  throw lastError || new Error(`Failed to fetch ${url}`);
+}
+
 async function loadNote(nodeId) {
   const node = state.nodeById.get(nodeId);
   if (!node) return;
@@ -940,7 +972,7 @@ async function loadNote(nodeId) {
     state.activeTagFilter = null;
   }
   const requestToken = ++state.noteRequestToken;
-  const response = await fetch(`./notes/${nodeId}.html`);
+  const response = await fetchWithRetry(`./notes/${nodeId}.html`);
   const noteHtml = await response.text();
   if (requestToken !== state.noteRequestToken) {
     return;
@@ -1800,8 +1832,8 @@ async function bootstrap() {
   bindEvents();
   resizeCanvas();
 
-  const graphResponse = await fetch("./data/graph.json");
-  const searchResponse = await fetch("./data/search-docs.json");
+  const graphResponse = await fetchWithRetry("./data/graph.json");
+  const searchResponse = await fetchWithRetry("./data/search-docs.json");
 
   const graph = await graphResponse.json();
   const searchDocs = await searchResponse.json();

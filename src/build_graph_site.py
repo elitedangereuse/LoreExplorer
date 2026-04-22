@@ -378,13 +378,24 @@ def render_org_note(note: Note) -> str:
 
 def write_json(path: Path, payload: object) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(json.dumps(payload, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+    temp_path = path.with_name(f".{path.name}.tmp")
+    temp_path.write_text(
+        json.dumps(payload, ensure_ascii=False, separators=(",", ":")),
+        encoding="utf-8",
+    )
+    temp_path.replace(path)
+
+
+def write_text_atomic(path: Path, content: str) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    temp_path = path.with_name(f".{path.name}.tmp")
+    temp_path.write_text(content, encoding="utf-8")
+    temp_path.replace(path)
 
 
 def build_site(db_path: Path, src_dir: Path, site_dir: Path, out_dir: Path) -> None:
-    if out_dir.exists():
-        shutil.rmtree(out_dir)
-    shutil.copytree(site_dir, out_dir)
+    out_dir.mkdir(parents=True, exist_ok=True)
+    shutil.copytree(site_dir, out_dir, dirs_exist_ok=True)
     image_dir = src_dir / "img"
     if image_dir.exists():
         shutil.copytree(image_dir, out_dir / "img", dirs_exist_ok=True)
@@ -394,6 +405,7 @@ def build_site(db_path: Path, src_dir: Path, site_dir: Path, out_dir: Path) -> N
 
     notes_dir = out_dir / "notes"
     notes_dir.mkdir(parents=True, exist_ok=True)
+    written_note_names: set[str] = set()
 
     node_payload = []
     search_payload = []
@@ -403,7 +415,9 @@ def build_site(db_path: Path, src_dir: Path, site_dir: Path, out_dir: Path) -> N
 
     for note in sorted_notes:
         rendered_html = render_org_note(note)
-        (notes_dir / f"{note.node_id}.html").write_text(rendered_html, encoding="utf-8")
+        note_name = f"{note.node_id}.html"
+        written_note_names.add(note_name)
+        write_text_atomic(notes_dir / note_name, rendered_html)
 
         node_payload.append(
             {
@@ -450,6 +464,10 @@ def build_site(db_path: Path, src_dir: Path, site_dir: Path, out_dir: Path) -> N
     write_json(out_dir / "data" / "graph.json", {"nodes": node_payload, "edges": edge_payload, "meta": meta_payload})
     write_json(out_dir / "data" / "search-docs.json", search_payload)
     write_json(out_dir / "data" / "meta.json", meta_payload)
+
+    for stale_note in notes_dir.glob("*.html"):
+        if stale_note.name not in written_note_names:
+            stale_note.unlink()
 
 
 def main() -> None:
