@@ -13,11 +13,13 @@ const colorModeSelect = document.getElementById("color-mode");
 const shapeModeSelect = document.getElementById("shape-mode");
 const noteContent = document.getElementById("note-content");
 const noteMeta = document.getElementById("note-meta");
+const investigatorTools = document.getElementById("investigator-tools");
 const graphStage = document.querySelector(".graph-stage");
 const graphContextMenu = document.getElementById("graph-context-menu");
 const contextInspectNodeButton = document.getElementById("context-inspect-node");
 const contextOpenLocalGraphButton = document.getElementById("context-open-local-graph");
 const contextExpandNodeButton = document.getElementById("context-expand-node");
+const contextToggleBookmarkButton = document.getElementById("context-toggle-bookmark");
 const appScript = document.querySelector('script[src$="app.js"]');
 const siteBaseUrl = new URL(".", appScript?.src || window.location.href);
 
@@ -61,7 +63,16 @@ const state = {
   lastFrameAt: 0,
   panelWidth: 440,
   noteRequestToken: 0,
+  bookmarkedNodeIds: [],
+  investigationNotes: "",
+  pathTargetNodeId: null,
+  activePathNodeIds: [],
+  activePathEdgeKeys: new Set(),
+  pathFocus: false,
+  investigatorToolsCollapsed: false,
 };
+
+const INVESTIGATION_STORAGE_KEY = "org-roam-investigator-v1";
 
 function resizeCanvas() {
   const ratio = window.devicePixelRatio || 1;
@@ -145,6 +156,78 @@ function clamp(value, min, max) {
 
 function delay(ms) {
   return new Promise((resolve) => window.setTimeout(resolve, ms));
+}
+
+function getStorage() {
+  try {
+    return window.localStorage;
+  } catch {
+    return null;
+  }
+}
+
+function edgeKey(leftId, rightId) {
+  return leftId < rightId ? `${leftId}::${rightId}` : `${rightId}::${leftId}`;
+}
+
+function currentNodeId() {
+  return state.inspectNodeId || state.graphRootNodeId || null;
+}
+
+function isBookmarked(nodeId) {
+  return state.bookmarkedNodeIds.includes(nodeId);
+}
+
+function isPathNode(nodeId) {
+  return state.activePathNodeIds.includes(nodeId);
+}
+
+function getBookmarkedNodes() {
+  return state.bookmarkedNodeIds
+    .map((nodeId) => state.nodeById.get(nodeId))
+    .filter(Boolean);
+}
+
+function saveInvestigationState() {
+  const storage = getStorage();
+  if (!storage) {
+    return;
+  }
+  storage.setItem(
+    INVESTIGATION_STORAGE_KEY,
+    JSON.stringify({
+      bookmarkedNodeIds: state.bookmarkedNodeIds,
+      investigationNotes: state.investigationNotes,
+      pathTargetNodeId: state.pathTargetNodeId,
+      pathFocus: state.pathFocus,
+      investigatorToolsCollapsed: state.investigatorToolsCollapsed,
+    }),
+  );
+}
+
+function loadInvestigationState() {
+  const storage = getStorage();
+  if (!storage) {
+    return;
+  }
+  const raw = storage.getItem(INVESTIGATION_STORAGE_KEY);
+  if (!raw) {
+    return;
+  }
+  try {
+    const parsed = JSON.parse(raw);
+    state.bookmarkedNodeIds = Array.isArray(parsed.bookmarkedNodeIds) ? parsed.bookmarkedNodeIds : [];
+    state.investigationNotes = typeof parsed.investigationNotes === "string" ? parsed.investigationNotes : "";
+    state.pathTargetNodeId = typeof parsed.pathTargetNodeId === "string" ? parsed.pathTargetNodeId : null;
+    state.pathFocus = Boolean(parsed.pathFocus);
+    state.investigatorToolsCollapsed = Boolean(parsed.investigatorToolsCollapsed);
+  } catch {
+    state.bookmarkedNodeIds = [];
+    state.investigationNotes = "";
+    state.pathTargetNodeId = null;
+    state.pathFocus = false;
+    state.investigatorToolsCollapsed = false;
+  }
 }
 
 function isYearTag(tag) {
@@ -393,6 +476,17 @@ function getNodeColor(node) {
 }
 
 function getVisibleNodeIds() {
+  if (state.pathFocus && state.activePathNodeIds.length) {
+    const visibleIds = new Set(state.activePathNodeIds);
+    if (state.graphRootNodeId) {
+      visibleIds.add(state.graphRootNodeId);
+    }
+    if (state.inspectNodeId) {
+      visibleIds.add(state.inspectNodeId);
+    }
+    return visibleIds;
+  }
+
   if (state.activeTagFilter) {
     const visibleIds = new Set(getNodesForTag(state.activeTagFilter).map((node) => node.id));
     if (state.graphRootNodeId) {
@@ -440,6 +534,7 @@ function getPrimarySearchNodeId() {
 function showEmptyNoteState(message = "Select a node or search result to inspect a note.") {
   noteMeta.innerHTML = "";
   noteContent.innerHTML = `<div class="empty-state"><p>${escapeHtml(message)}</p></div>`;
+  renderInvestigatorTools();
 }
 
 function applyPanelWidth(width) {
@@ -559,7 +654,8 @@ function clearSearch() {
 
 function updateStatus() {
   if (!state.graphRootNodeId) {
-    graphStatus.textContent = "Choose a tag or search for a node to begin.";
+    const bookmarkLabel = state.bookmarkedNodeIds.length ? ` · ${state.bookmarkedNodeIds.length} bookmarks` : "";
+    graphStatus.textContent = `Choose a tag or search for a node to begin.${bookmarkLabel}`;
     return;
   }
   const visibleNodes = getVisibleNodes();
@@ -567,7 +663,8 @@ function updateStatus() {
   const modeLabel = `local graph${state.expandedNodeIds.size ? ` +${state.expandedNodeIds.size} expanded` : ""}`;
   const motionLabel = state.dynamicMode ? "dynamic" : "static";
   const filterLabel = state.searchQuery.trim() ? " · search" : (state.activeTagFilter ? ` · tag ${state.activeTagFilter}` : "");
-  graphStatus.textContent = `${visibleNodes.length} nodes · ${visibleEdges.length} edges · ${modeLabel}${filterLabel} · ${motionLabel}`;
+  const pathLabel = state.activePathNodeIds.length > 1 ? ` · path ${state.activePathNodeIds.length - 1} hops` : "";
+  graphStatus.textContent = `${visibleNodes.length} nodes · ${visibleEdges.length} edges · ${modeLabel}${filterLabel}${pathLabel} · ${motionLabel}`;
 }
 
 function fitNodes(nodes) {
@@ -609,6 +706,11 @@ function getLabelNodes(nodes) {
   addNode(state.nodeById.get(rootId));
   if (inspectId !== rootId) {
     addNode(state.nodeById.get(inspectId));
+  }
+  if (state.activePathNodeIds.length && (state.pathFocus || state.activePathNodeIds.length <= 10)) {
+    for (const nodeId of state.activePathNodeIds) {
+      addNode(state.nodeById.get(nodeId));
+    }
   }
 
   if (!state.pointer.active) {
@@ -761,20 +863,38 @@ function render() {
   const hoverContext = getHoverContext(visibleNodes);
   const hoveredNodeId = hoverContext?.nodeId || null;
   const hoveredNeighborIds = hoverContext?.neighborIds || null;
+  const hasPath = state.activePathNodeIds.length > 1;
 
   context.save();
   context.lineJoin = "round";
   context.lineCap = "round";
-  if (hoveredNodeId) {
-    context.lineWidth = 1;
-    context.strokeStyle = "rgba(180, 205, 225, 0.04)";
+  context.lineWidth = 1;
+  context.strokeStyle = hoveredNodeId
+    ? "rgba(180, 205, 225, 0.04)"
+    : (hasPath ? "rgba(180, 205, 225, 0.035)" : "rgba(180, 205, 225, 0.07)");
+  context.beginPath();
+  for (const edge of visibleEdges) {
+    const isPathEdge = hasPath && state.activePathEdgeKeys.has(edgeKey(edge.source.id, edge.target.id));
+    const isHoveredEdge = hoveredNodeId && (
+      (edge.source.id === hoveredNodeId && hoveredNeighborIds.has(edge.target.id))
+      || (edge.target.id === hoveredNodeId && hoveredNeighborIds.has(edge.source.id))
+    );
+    if (isPathEdge || isHoveredEdge) {
+      continue;
+    }
+    const from = worldToScreen(edge.source);
+    const to = worldToScreen(edge.target);
+    context.moveTo(from.x, from.y);
+    context.lineTo(to.x, to.y);
+  }
+  context.stroke();
+
+  if (hasPath) {
+    context.lineWidth = 2.4;
+    context.strokeStyle = "rgba(255, 212, 107, 0.82)";
     context.beginPath();
     for (const edge of visibleEdges) {
-      const isHoveredEdge = (
-        (edge.source.id === hoveredNodeId && hoveredNeighborIds.has(edge.target.id))
-        || (edge.target.id === hoveredNodeId && hoveredNeighborIds.has(edge.source.id))
-      );
-      if (isHoveredEdge) {
+      if (!state.activePathEdgeKeys.has(edgeKey(edge.source.id, edge.target.id))) {
         continue;
       }
       const from = worldToScreen(edge.source);
@@ -783,9 +903,11 @@ function render() {
       context.lineTo(to.x, to.y);
     }
     context.stroke();
+  }
 
+  if (hoveredNodeId) {
     context.lineWidth = 2.2;
-    context.strokeStyle = "rgba(125, 211, 252, 0.72)";
+    context.strokeStyle = "rgba(125, 211, 252, 0.78)";
     context.beginPath();
     for (const edge of visibleEdges) {
       const isHoveredEdge = (
@@ -795,16 +917,6 @@ function render() {
       if (!isHoveredEdge) {
         continue;
       }
-      const from = worldToScreen(edge.source);
-      const to = worldToScreen(edge.target);
-      context.moveTo(from.x, from.y);
-      context.lineTo(to.x, to.y);
-    }
-  } else {
-    context.lineWidth = 1;
-    context.strokeStyle = "rgba(180, 205, 225, 0.07)";
-    context.beginPath();
-    for (const edge of visibleEdges) {
       const from = worldToScreen(edge.source);
       const to = worldToScreen(edge.target);
       context.moveTo(from.x, from.y);
@@ -820,7 +932,15 @@ function render() {
     const fillColor = getNodeColor(node);
     const isHoveredNode = node.id === hoveredNodeId;
     const isHoveredNeighbor = Boolean(hoveredNeighborIds?.has(node.id));
+    const isActivePathNode = hasPath && isPathNode(node.id);
     let nodeAlpha = state.inspectNodeId && state.inspectNodeId !== node.id ? 0.82 : 0.98;
+    if (hasPath) {
+      if (isActivePathNode) {
+        nodeAlpha = Math.max(nodeAlpha, 0.98);
+      } else {
+        nodeAlpha *= state.pathFocus ? 0.22 : 0.55;
+      }
+    }
     if (hoveredNodeId) {
       if (isHoveredNode) {
         nodeAlpha = 1;
@@ -843,6 +963,12 @@ function render() {
     }
     if (state.expandedNodeIds.has(node.id)) {
       strokeNodeOutline(shape, point.x, point.y, radius + 3, "#4dd0e1", 1.5, 0.95);
+    }
+    if (isBookmarked(node.id)) {
+      strokeNodeOutline(shape, point.x, point.y, radius + 2.5, "rgba(255, 212, 107, 0.48)", 1);
+    }
+    if (isActivePathNode) {
+      strokeNodeOutline(shape, point.x, point.y, radius + 5, "rgba(255, 212, 107, 0.92)", 2.2);
     }
     if (isHoveredNeighbor && !isHoveredNode) {
       strokeNodeOutline(shape, point.x, point.y, radius + 4, "rgba(125, 211, 252, 0.86)", 1.5);
@@ -877,7 +1003,302 @@ function getNodesForTag(tag) {
   return state.tagIndex.get(canonicalizeTag(tag)) || [];
 }
 
+function clearActivePath(shouldRender = true) {
+  const wasPathFocus = state.pathFocus;
+  state.activePathNodeIds = [];
+  state.activePathEdgeKeys = new Set();
+  state.pathFocus = false;
+  saveInvestigationState();
+  renderInvestigatorTools();
+  if (shouldRender) {
+    if (wasPathFocus && state.graphRootNodeId) {
+      fitGraph();
+    } else {
+      render();
+    }
+  }
+}
+
+function maybeClearPathForNode(nodeId) {
+  if (!state.activePathNodeIds.length || isPathNode(nodeId)) {
+    return;
+  }
+  clearActivePath(false);
+}
+
+function setPathFocus(enabled, shouldFit = true) {
+  state.pathFocus = enabled && state.activePathNodeIds.length > 0;
+  saveInvestigationState();
+  renderInvestigatorTools();
+  if (shouldFit) {
+    fitGraph();
+  } else {
+    render();
+  }
+}
+
+function findShortestPath(startId, endId) {
+  if (!startId || !endId || startId === endId) {
+    return startId && endId ? [startId] : [];
+  }
+
+  const queue = [startId];
+  const parentById = new Map([[startId, null]]);
+
+  while (queue.length) {
+    const currentId = queue.shift();
+    const neighbors = state.adjacency.get(currentId) || new Set();
+    for (const neighborId of neighbors) {
+      if (parentById.has(neighborId)) {
+        continue;
+      }
+      parentById.set(neighborId, currentId);
+      if (neighborId === endId) {
+        queue.length = 0;
+        break;
+      }
+      queue.push(neighborId);
+    }
+  }
+
+  if (!parentById.has(endId)) {
+    return [];
+  }
+
+  const pathNodeIds = [];
+  let currentId = endId;
+  while (currentId) {
+    pathNodeIds.push(currentId);
+    currentId = parentById.get(currentId) || null;
+  }
+  pathNodeIds.reverse();
+  return pathNodeIds;
+}
+
+function getSharedNeighbors(leftId, rightId) {
+  if (!leftId || !rightId) {
+    return [];
+  }
+  const leftNeighbors = state.adjacency.get(leftId) || new Set();
+  const rightNeighbors = state.adjacency.get(rightId) || new Set();
+  const shared = [];
+
+  for (const candidateId of leftNeighbors) {
+    if (candidateId === leftId || candidateId === rightId || !rightNeighbors.has(candidateId)) {
+      continue;
+    }
+    const node = state.nodeById.get(candidateId);
+    if (node) {
+      shared.push(node);
+    }
+  }
+
+  return shared.sort((left, right) => right.degree - left.degree || left.title.localeCompare(right.title));
+}
+
+function applyPath(pathNodeIds, targetNodeId = null) {
+  state.activePathNodeIds = pathNodeIds.slice();
+  state.activePathEdgeKeys = new Set();
+  for (let index = 1; index < pathNodeIds.length; index += 1) {
+    state.activePathEdgeKeys.add(edgeKey(pathNodeIds[index - 1], pathNodeIds[index]));
+  }
+  state.pathTargetNodeId = targetNodeId;
+  state.pathFocus = pathNodeIds.length > 1;
+  saveInvestigationState();
+  renderInvestigatorTools();
+  fitGraph();
+}
+
+function tracePathToTarget(targetNodeId = state.pathTargetNodeId) {
+  const startId = currentNodeId();
+  if (!startId || !targetNodeId || startId === targetNodeId) {
+    clearActivePath(false);
+    state.pathTargetNodeId = targetNodeId || null;
+    saveInvestigationState();
+    renderInvestigatorTools();
+    render();
+    return;
+  }
+  const pathNodeIds = findShortestPath(startId, targetNodeId);
+  if (!pathNodeIds.length) {
+    state.activePathNodeIds = [];
+    state.activePathEdgeKeys = new Set();
+    state.pathTargetNodeId = targetNodeId;
+    state.pathFocus = false;
+    saveInvestigationState();
+    renderInvestigatorTools();
+    render();
+    return;
+  }
+  applyPath(pathNodeIds, targetNodeId);
+}
+
+function toggleBookmark(nodeId) {
+  if (!nodeId || !state.nodeById.has(nodeId)) {
+    return;
+  }
+  if (isBookmarked(nodeId)) {
+    state.bookmarkedNodeIds = state.bookmarkedNodeIds.filter((id) => id !== nodeId);
+    if (state.pathTargetNodeId === nodeId) {
+      state.pathTargetNodeId = null;
+      if (state.activePathNodeIds.length && state.activePathNodeIds[state.activePathNodeIds.length - 1] === nodeId) {
+        clearActivePath(false);
+      }
+    }
+  } else {
+    state.bookmarkedNodeIds = [...state.bookmarkedNodeIds, nodeId];
+    if (!state.pathTargetNodeId) {
+      state.pathTargetNodeId = nodeId;
+    }
+  }
+  saveInvestigationState();
+  renderInvestigatorTools();
+  render();
+}
+
+function renderInvestigatorTools() {
+  const currentId = currentNodeId();
+  const currentNode = currentId ? state.nodeById.get(currentId) : null;
+  const bookmarkedNodes = getBookmarkedNodes();
+  const availableTargets = bookmarkedNodes.filter((node) => node.id !== currentId);
+  const targetNode = state.pathTargetNodeId ? state.nodeById.get(state.pathTargetNodeId) : null;
+  const sharedNeighbors = (currentId && targetNode) ? getSharedNeighbors(currentId, targetNode.id).slice(0, 10) : [];
+  const pathNodeIds = state.activePathNodeIds;
+  const hasPath = pathNodeIds.length > 1;
+  const pathNodes = pathNodeIds
+    .map((nodeId) => state.nodeById.get(nodeId))
+    .filter(Boolean);
+  const pathSummary = hasPath
+    ? `${pathNodes.length} nodes · ${pathNodes.length - 1} hops`
+    : (targetNode && currentId && targetNode.id !== currentId ? "No path traced yet." : "Bookmark nodes to build a case board.");
+  const collapsedSummary = [
+    bookmarkedNodes.length ? `${bookmarkedNodes.length} bookmarks` : "no bookmarks",
+    hasPath ? `${pathNodes.length - 1} hops traced` : "no active path",
+  ].join(" · ");
+
+  investigatorTools.innerHTML = `
+    <div class="tool-card ${state.investigatorToolsCollapsed ? "is-collapsed" : ""}">
+      <div class="tool-card-header">
+        <div>
+          <div class="tool-card-title">Detective Kit</div>
+          <div class="tool-card-subtitle">${
+            currentNode ? `Current lead: ${escapeHtml(currentNode.title)}` : "Select a node to begin tracing relationships."
+          }</div>
+          ${state.investigatorToolsCollapsed ? `<div class="tool-card-collapsed-summary">${escapeHtml(collapsedSummary)}</div>` : ""}
+        </div>
+        <div class="tool-card-header-actions">
+          <button
+            type="button"
+            class="mini-button tool-collapse-button ${state.investigatorToolsCollapsed ? "is-active" : ""}"
+            data-toggle-tools="true"
+            aria-expanded="${state.investigatorToolsCollapsed ? "false" : "true"}"
+          >${state.investigatorToolsCollapsed ? "Expand" : "Collapse"}</button>
+          <button
+            type="button"
+            class="tool-action-button ${currentNode && isBookmarked(currentId) ? "is-active" : ""}"
+            data-toggle-bookmark-current="true"
+            ${currentNode ? "" : "disabled"}
+          >${currentNode && isBookmarked(currentId) ? "Unbookmark" : "Bookmark Current"}</button>
+        </div>
+      </div>
+
+      <div class="tool-card-body" ${state.investigatorToolsCollapsed ? "hidden" : ""}>
+      <div class="tool-block">
+        <span class="meta-label">Bookmarks</span>
+        <div class="bookmark-list">
+          ${
+            bookmarkedNodes.length
+              ? bookmarkedNodes.map((node) => `
+                <div class="bookmark-item ${node.id === currentId ? "is-current" : ""}">
+                  <button type="button" class="bookmark-open" data-open-bookmark="${node.id}">${escapeHtml(node.title)}</button>
+                  <div class="bookmark-actions">
+                    <button
+                      type="button"
+                      class="mini-button ${state.pathTargetNodeId === node.id ? "is-active" : ""}"
+                      data-set-path-target="${node.id}"
+                    >Target</button>
+                    <button type="button" class="mini-button" data-remove-bookmark="${node.id}">Remove</button>
+                  </div>
+                </div>
+              `).join("")
+              : '<div class="tool-empty">Bookmark suspects, systems, factions or events to keep them at hand.</div>'
+          }
+        </div>
+      </div>
+
+      <div class="tool-block">
+        <span class="meta-label">Connection Finder</span>
+        <div class="path-controls">
+          <select id="path-target-select" class="toolbar-select" ${availableTargets.length ? "" : "disabled"}>
+            <option value="">Choose a bookmarked node…</option>
+            ${
+              availableTargets.map((node) => `
+                <option value="${node.id}" ${state.pathTargetNodeId === node.id ? "selected" : ""}>${escapeHtml(node.title)}</option>
+              `).join("")
+            }
+          </select>
+          <button
+            type="button"
+            class="tool-action-button"
+            data-trace-path="true"
+            ${currentNode && availableTargets.length ? "" : "disabled"}
+          >Trace Path</button>
+          <button
+            type="button"
+            class="tool-action-button"
+            data-clear-path="true"
+            ${state.activePathNodeIds.length ? "" : "disabled"}
+          >Clear</button>
+        </div>
+        <label class="path-focus-toggle">
+          <input
+            id="path-focus-toggle"
+            type="checkbox"
+            ${state.pathFocus && state.activePathNodeIds.length ? "checked" : ""}
+            ${state.activePathNodeIds.length ? "" : "disabled"}
+          />
+          Show path only
+        </label>
+        <div class="path-summary">${escapeHtml(pathSummary)}</div>
+        ${
+          pathNodes.length
+            ? `<div class="path-node-list">${
+              pathNodes.map((node, index) => `
+                <button type="button" class="path-node-chip" data-open-bookmark="${node.id}">${escapeHtml(node.title)}</button>
+                ${index < pathNodes.length - 1 ? '<span class="path-separator">→</span>' : ""}
+              `).join("")
+            }</div>`
+            : ""
+        }
+        ${
+          sharedNeighbors.length
+            ? `<div class="shared-neighbors">
+                <div class="shared-neighbors-label">Shared direct neighbors</div>
+                <div class="shared-neighbor-list">${
+                  sharedNeighbors.map((node) => `
+                    <button type="button" class="tag tag-button" data-open-bookmark="${node.id}">${escapeHtml(node.title)}</button>
+                  `).join("")
+                }</div>
+              </div>`
+            : ""
+        }
+      </div>
+
+      <div class="tool-block">
+        <span class="meta-label">Case Notes</span>
+        <textarea
+          id="investigation-notes"
+          class="investigation-notes"
+          placeholder="Capture leads, contradictions, motives, timelines, missing links…"
+        >${escapeHtml(state.investigationNotes)}</textarea>
+      </div>
+      </div>
+    </div>
+  `;
+}
+
 function activateTag(tag) {
+  clearActivePath(false);
   const [node] = getNodesForTag(tag);
   if (!node) {
     return;
@@ -980,6 +1401,7 @@ async function loadNote(nodeId) {
   noteContent.innerHTML = noteHtml;
   rewriteNoteAssetUrls(noteContent);
   noteMeta.innerHTML = `<div class="note-tag-list">${renderTagButtons(node)}</div>`;
+  renderInvestigatorTools();
 }
 
 function updateUrlState() {
@@ -1021,7 +1443,7 @@ function hideContextMenu() {
 function showContextMenu(clientX, clientY, nodeId) {
   const rect = graphStage.getBoundingClientRect();
   const menuWidth = 210;
-  const menuHeight = 96;
+  const menuHeight = 140;
   const left = Math.min(
     Math.max(8, clientX - rect.left),
     Math.max(8, rect.width - menuWidth - 8),
@@ -1042,6 +1464,7 @@ function showContextMenu(clientX, clientY, nodeId) {
     || nodeId === state.graphRootNodeId
     || state.expandedNodeIds.has(nodeId)
   );
+  contextToggleBookmarkButton.textContent = isBookmarked(nodeId) ? "Remove Bookmark" : "Bookmark Node";
   graphContextMenu.hidden = false;
 }
 
@@ -1223,6 +1646,7 @@ function toggleTagFilter(tag) {
   if (!state.inspectNodeId) {
     return;
   }
+  clearActivePath(false);
   const normalizedTag = canonicalizeTag(tag);
   const normalizedActiveTag = canonicalizeTag(state.activeTagFilter || "");
   state.activeTagFilter = normalizedTag === normalizedActiveTag ? null : tag;
@@ -1233,6 +1657,7 @@ function toggleTagFilter(tag) {
 function inspectNode(nodeId, updateUrl = true) {
   const node = state.nodeById.get(nodeId);
   if (!node) return;
+  maybeClearPathForNode(nodeId);
   hideContextMenu();
   setActiveView("explorer");
   state.inspectNodeId = nodeId;
@@ -1246,6 +1671,7 @@ function inspectNode(nodeId, updateUrl = true) {
 function selectNode(nodeId, shouldCenter = true, updateUrl = true) {
   const node = state.nodeById.get(nodeId);
   if (!node) return;
+  maybeClearPathForNode(nodeId);
   hideContextMenu();
   setActiveView("explorer");
   state.neighborMode = true;
@@ -1273,6 +1699,7 @@ function selectNode(nodeId, shouldCenter = true, updateUrl = true) {
 function resetSelection() {
   hideContextMenu();
   setDynamicMode(false, false);
+  clearActivePath(false);
   setActiveView("landing");
   searchInput.value = "";
   state.searchQuery = "";
@@ -1573,6 +2000,13 @@ function bindEvents() {
     }
     expandNeighborhood(state.contextMenu.nodeId);
   });
+  contextToggleBookmarkButton.addEventListener("click", () => {
+    if (!state.contextMenu.nodeId) {
+      return;
+    }
+    toggleBookmark(state.contextMenu.nodeId);
+    hideContextMenu();
+  });
   landingTagList.addEventListener("click", (event) => {
     const tagButton = event.target.closest("[data-landing-tag]");
     if (!tagButton) {
@@ -1748,6 +2182,73 @@ function bindEvents() {
     event.preventDefault();
     toggleTagFilter(tagButton.dataset.tag);
   });
+
+  investigatorTools.addEventListener("click", (event) => {
+    if (event.target.closest("[data-toggle-tools]")) {
+      state.investigatorToolsCollapsed = !state.investigatorToolsCollapsed;
+      saveInvestigationState();
+      renderInvestigatorTools();
+      return;
+    }
+
+    const currentBookmarkButton = event.target.closest("[data-toggle-bookmark-current]");
+    if (currentBookmarkButton) {
+      const nodeId = currentNodeId();
+      if (nodeId) {
+        toggleBookmark(nodeId);
+      }
+      return;
+    }
+
+    const openBookmarkButton = event.target.closest("[data-open-bookmark]");
+    if (openBookmarkButton) {
+      selectNode(openBookmarkButton.dataset.openBookmark, true);
+      return;
+    }
+
+    const removeBookmarkButton = event.target.closest("[data-remove-bookmark]");
+    if (removeBookmarkButton) {
+      toggleBookmark(removeBookmarkButton.dataset.removeBookmark);
+      return;
+    }
+
+    const setPathTargetButton = event.target.closest("[data-set-path-target]");
+    if (setPathTargetButton) {
+      state.pathTargetNodeId = setPathTargetButton.dataset.setPathTarget;
+      saveInvestigationState();
+      renderInvestigatorTools();
+      return;
+    }
+
+    if (event.target.closest("[data-trace-path]")) {
+      tracePathToTarget();
+      return;
+    }
+
+    if (event.target.closest("[data-clear-path]")) {
+      clearActivePath();
+    }
+  });
+
+  investigatorTools.addEventListener("change", (event) => {
+    if (event.target.id === "path-target-select") {
+      state.pathTargetNodeId = event.target.value || null;
+      saveInvestigationState();
+      renderInvestigatorTools();
+      return;
+    }
+    if (event.target.id === "path-focus-toggle") {
+      setPathFocus(event.target.checked);
+    }
+  });
+
+  investigatorTools.addEventListener("input", (event) => {
+    if (event.target.id !== "investigation-notes") {
+      return;
+    }
+    state.investigationNotes = event.target.value;
+    saveInvestigationState();
+  });
 }
 
 function buildAdjacency() {
@@ -1831,6 +2332,7 @@ worker.onmessage = (event) => {
 async function bootstrap() {
   bindEvents();
   resizeCanvas();
+  loadInvestigationState();
 
   const graphResponse = await fetchWithRetry("./data/graph.json");
   const searchResponse = await fetchWithRetry("./data/search-docs.json");
@@ -1848,6 +2350,11 @@ async function bootstrap() {
   buildAppearanceData();
   renderLandingTags();
   buildSimulationData();
+  state.bookmarkedNodeIds = state.bookmarkedNodeIds.filter((nodeId) => state.nodeById.has(nodeId));
+  if (state.pathTargetNodeId && !state.nodeById.has(state.pathTargetNodeId)) {
+    state.pathTargetNodeId = null;
+  }
+  saveInvestigationState();
   applyPanelWidth(state.panelWidth);
   colorModeSelect.value = state.colorMode;
   shapeModeSelect.value = state.shapeMode;

@@ -301,6 +301,217 @@ code {
   flex: 0 0 auto;
 }
 
+.investigator-tools {
+  flex: 0 0 auto;
+}
+
+.tool-card {
+  padding: 16px;
+  border-radius: var(--radius-md);
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.tool-card-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 14px;
+}
+
+.tool-card-header-actions {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex: 0 0 auto;
+}
+
+.tool-card-title {
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.tool-card-subtitle {
+  margin-top: 4px;
+  color: var(--text-dim);
+  font-size: 0.84rem;
+  line-height: 1.45;
+}
+
+.tool-card-collapsed-summary {
+  margin-top: 8px;
+  color: var(--text-dim);
+  font-size: 0.8rem;
+}
+
+.tool-card.is-collapsed {
+  padding-bottom: 14px;
+}
+
+.tool-card.is-collapsed .tool-card-header {
+  margin-bottom: 0;
+}
+
+.tool-block + .tool-block {
+  margin-top: 16px;
+}
+
+.tool-action-button,
+.mini-button,
+.bookmark-open {
+  border-radius: 12px;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  color: var(--text);
+  cursor: pointer;
+  transition: background 150ms ease, border-color 150ms ease, transform 150ms ease;
+}
+
+.tool-action-button:hover,
+.mini-button:hover,
+.bookmark-open:hover {
+  transform: translateY(-1px);
+}
+
+.tool-action-button,
+.mini-button {
+  padding: 10px 12px;
+  background: rgba(255, 255, 255, 0.05);
+}
+
+.tool-action-button:hover,
+.mini-button:hover,
+.bookmark-open:hover {
+  background: rgba(99, 216, 234, 0.12);
+  border-color: rgba(99, 216, 234, 0.28);
+}
+
+.tool-action-button.is-active,
+.mini-button.is-active {
+  background: rgba(255, 212, 107, 0.14);
+  border-color: rgba(255, 212, 107, 0.34);
+}
+
+.tool-action-button:disabled,
+.mini-button:disabled {
+  opacity: 0.54;
+  cursor: not-allowed;
+  transform: none;
+}
+
+.tool-empty,
+.path-summary,
+.shared-neighbors-label,
+.path-focus-toggle {
+  color: var(--text-dim);
+  font-size: 0.84rem;
+}
+
+.bookmark-list {
+  display: grid;
+  gap: 8px;
+  max-height: 188px;
+  overflow: auto;
+}
+
+.bookmark-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  padding: 8px;
+  border-radius: 14px;
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+.bookmark-item.is-current {
+  border-color: rgba(255, 212, 107, 0.28);
+  background: rgba(255, 212, 107, 0.07);
+}
+
+.bookmark-open {
+  flex: 1 1 auto;
+  min-width: 0;
+  padding: 10px 12px;
+  background: rgba(255, 255, 255, 0.03);
+  text-align: left;
+}
+
+.bookmark-actions {
+  display: flex;
+  gap: 8px;
+  flex: 0 0 auto;
+}
+
+.mini-button {
+  padding: 8px 10px;
+  font-size: 0.78rem;
+}
+
+.path-controls {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto auto;
+  gap: 8px;
+  align-items: center;
+}
+
+.path-focus-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 10px;
+}
+
+.path-node-list,
+.shared-neighbor-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 10px;
+}
+
+.path-node-chip {
+  padding: 7px 10px;
+  border-radius: 999px;
+  border: 1px solid rgba(255, 212, 107, 0.28);
+  background: rgba(255, 212, 107, 0.1);
+  color: var(--text);
+  cursor: pointer;
+}
+
+.path-separator {
+  display: inline-flex;
+  align-items: center;
+  color: var(--text-dim);
+}
+
+.shared-neighbors {
+  margin-top: 12px;
+}
+
+.shared-neighbors-label {
+  margin-bottom: 8px;
+}
+
+.investigation-notes {
+  width: 100%;
+  min-height: 120px;
+  resize: vertical;
+  padding: 12px 14px;
+  border-radius: 14px;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  background: rgba(3, 11, 18, 0.82);
+  color: var(--text);
+  line-height: 1.5;
+}
+
+.investigation-notes:focus {
+  outline: none;
+  border-color: rgba(99, 216, 234, 0.5);
+  box-shadow: 0 0 0 4px rgba(99, 216, 234, 0.14);
+}
+
 .note-panel-meta:empty {
   display: none;
 }
@@ -490,6 +701,32 @@ code {
   .graph-panel,
   .note-panel {
     border-radius: var(--radius-lg);
+  }
+
+  .tool-card-header,
+  .bookmark-item {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .tool-card-header-actions {
+    width: 100%;
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .path-controls {
+    grid-template-columns: 1fr;
+  }
+
+  .bookmark-actions {
+    width: 100%;
+  }
+
+  .bookmark-actions .mini-button,
+  .tool-action-button,
+  .path-node-chip {
+    width: 100%;
   }
 
   .graph-stage {
