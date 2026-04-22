@@ -39,6 +39,7 @@ const state = {
   bounds: { minX: 0, maxX: 1, minY: 0, maxY: 1 },
   visibleBounds: { minX: 0, maxX: 1, minY: 0, maxY: 1 },
   pointer: { x: 0, y: 0, active: false },
+  hoverNodeId: null,
   dragging: false,
   dragStart: { x: 0, y: 0, cameraX: 0, cameraY: 0 },
   hasFitted: false,
@@ -296,6 +297,16 @@ function traceNodeShape(pathContext, shape, x, y, radius) {
   }
 
   pathContext.arc(x, y, radius, 0, Math.PI * 2);
+}
+
+function strokeNodeOutline(shape, x, y, radius, color, lineWidth, alpha = 1) {
+  context.save();
+  context.globalAlpha = alpha;
+  context.strokeStyle = color;
+  context.lineWidth = lineWidth;
+  traceNodeShape(context, shape, x, y, radius);
+  context.stroke();
+  context.restore();
 }
 
 function buildTagIndex() {
@@ -650,6 +661,30 @@ function getVisibleEdgeRefs() {
   return state.edgeRefs.filter((edge) => visibleIds.has(edge.source.id) && visibleIds.has(edge.target.id));
 }
 
+function getHoverContext(visibleNodes) {
+  if (!state.hoverNodeId || state.dragging) {
+    return null;
+  }
+
+  const visibleNodeIds = new Set(visibleNodes.map((node) => node.id));
+  if (!visibleNodeIds.has(state.hoverNodeId)) {
+    return null;
+  }
+
+  const neighborIds = new Set();
+  const adjacentIds = state.adjacency.get(state.hoverNodeId) || new Set();
+  for (const nodeId of adjacentIds) {
+    if (visibleNodeIds.has(nodeId)) {
+      neighborIds.add(nodeId);
+    }
+  }
+
+  return {
+    nodeId: state.hoverNodeId,
+    neighborIds,
+  };
+}
+
 function renderNodeLabels(nodes) {
   const rect = graphStage.getBoundingClientRect();
   const rootId = state.graphRootNodeId;
@@ -719,18 +754,58 @@ function render() {
   context.clearRect(0, 0, rect.width, rect.height);
   const visibleNodes = getVisibleNodes();
   const visibleEdges = getVisibleEdgeRefs();
+  const hoverContext = getHoverContext(visibleNodes);
+  const hoveredNodeId = hoverContext?.nodeId || null;
+  const hoveredNeighborIds = hoverContext?.neighborIds || null;
 
   context.save();
   context.lineJoin = "round";
   context.lineCap = "round";
-  context.lineWidth = 1;
-  context.strokeStyle = "rgba(180, 205, 225, 0.07)";
-  context.beginPath();
-  for (const edge of visibleEdges) {
-    const from = worldToScreen(edge.source);
-    const to = worldToScreen(edge.target);
-    context.moveTo(from.x, from.y);
-    context.lineTo(to.x, to.y);
+  if (hoveredNodeId) {
+    context.lineWidth = 1;
+    context.strokeStyle = "rgba(180, 205, 225, 0.04)";
+    context.beginPath();
+    for (const edge of visibleEdges) {
+      const isHoveredEdge = (
+        (edge.source.id === hoveredNodeId && hoveredNeighborIds.has(edge.target.id))
+        || (edge.target.id === hoveredNodeId && hoveredNeighborIds.has(edge.source.id))
+      );
+      if (isHoveredEdge) {
+        continue;
+      }
+      const from = worldToScreen(edge.source);
+      const to = worldToScreen(edge.target);
+      context.moveTo(from.x, from.y);
+      context.lineTo(to.x, to.y);
+    }
+    context.stroke();
+
+    context.lineWidth = 2.2;
+    context.strokeStyle = "rgba(125, 211, 252, 0.72)";
+    context.beginPath();
+    for (const edge of visibleEdges) {
+      const isHoveredEdge = (
+        (edge.source.id === hoveredNodeId && hoveredNeighborIds.has(edge.target.id))
+        || (edge.target.id === hoveredNodeId && hoveredNeighborIds.has(edge.source.id))
+      );
+      if (!isHoveredEdge) {
+        continue;
+      }
+      const from = worldToScreen(edge.source);
+      const to = worldToScreen(edge.target);
+      context.moveTo(from.x, from.y);
+      context.lineTo(to.x, to.y);
+    }
+  } else {
+    context.lineWidth = 1;
+    context.strokeStyle = "rgba(180, 205, 225, 0.07)";
+    context.beginPath();
+    for (const edge of visibleEdges) {
+      const from = worldToScreen(edge.source);
+      const to = worldToScreen(edge.target);
+      context.moveTo(from.x, from.y);
+      context.lineTo(to.x, to.y);
+    }
   }
   context.stroke();
 
@@ -739,29 +814,37 @@ function render() {
     const radius = Math.max(1.6, node.size * state.camera.zoom * 0.42);
     const shape = getNodeShape(node);
     const fillColor = getNodeColor(node);
+    const isHoveredNode = node.id === hoveredNodeId;
+    const isHoveredNeighbor = Boolean(hoveredNeighborIds?.has(node.id));
+    let nodeAlpha = state.inspectNodeId && state.inspectNodeId !== node.id ? 0.82 : 0.98;
+    if (hoveredNodeId) {
+      if (isHoveredNode) {
+        nodeAlpha = 1;
+      } else if (isHoveredNeighbor) {
+        nodeAlpha = Math.max(nodeAlpha, 0.96);
+      } else {
+        nodeAlpha *= 0.26;
+      }
+    }
     traceNodeShape(context, shape, point.x, point.y, radius);
     context.fillStyle = fillColor;
-    context.globalAlpha = state.inspectNodeId && state.inspectNodeId !== node.id ? 0.82 : 0.98;
+    context.globalAlpha = nodeAlpha;
     context.fill();
 
     if (node.id === state.graphRootNodeId) {
-      context.globalAlpha = 1;
-      context.strokeStyle = "#ffe082";
-      context.lineWidth = 2;
-      traceNodeShape(context, shape, point.x, point.y, radius + 4);
-      context.stroke();
-    } else if (node.id === state.inspectNodeId) {
-      context.globalAlpha = 1;
-      context.strokeStyle = "#eef6ff";
-      context.lineWidth = 1.5;
-      traceNodeShape(context, shape, point.x, point.y, radius + 3);
-      context.stroke();
-    } else if (state.expandedNodeIds.has(node.id)) {
-      context.globalAlpha = 0.95;
-      context.strokeStyle = "#4dd0e1";
-      context.lineWidth = 1.5;
-      traceNodeShape(context, shape, point.x, point.y, radius + 3);
-      context.stroke();
+      strokeNodeOutline(shape, point.x, point.y, radius + 4, "#ffe082", 2);
+    }
+    if (node.id === state.inspectNodeId) {
+      strokeNodeOutline(shape, point.x, point.y, radius + 3, "#eef6ff", 1.5);
+    }
+    if (state.expandedNodeIds.has(node.id)) {
+      strokeNodeOutline(shape, point.x, point.y, radius + 3, "#4dd0e1", 1.5, 0.95);
+    }
+    if (isHoveredNeighbor && !isHoveredNode) {
+      strokeNodeOutline(shape, point.x, point.y, radius + 4, "rgba(125, 211, 252, 0.86)", 1.5);
+    }
+    if (isHoveredNode) {
+      strokeNodeOutline(shape, point.x, point.y, radius + 6, "#9ee7ff", 2.6);
     }
   }
 
@@ -1506,6 +1589,7 @@ function bindEvents() {
 
   canvas.addEventListener("mousedown", (event) => {
     hideContextMenu();
+    state.hoverNodeId = null;
     const rect = graphStage.getBoundingClientRect();
     state.pointer = {
       x: event.clientX - rect.left,
@@ -1532,22 +1616,30 @@ function bindEvents() {
 
   window.addEventListener("mouseup", () => {
     state.dragging = false;
+    canvas.style.cursor = state.hoverNodeId ? "pointer" : "default";
   });
 
   canvas.addEventListener("mousemove", (event) => {
     const rect = graphStage.getBoundingClientRect();
+    const hoveredNode = state.dragging ? null : pickNodeAt(event.clientX, event.clientY);
+    const nextHoverNodeId = hoveredNode ? hoveredNode.id : null;
+    const hoverChanged = nextHoverNodeId !== state.hoverNodeId;
+    state.hoverNodeId = nextHoverNodeId;
     state.pointer = {
       x: event.clientX - rect.left,
       y: event.clientY - rect.top,
       active: true,
     };
-    if (!state.dragging) {
+    canvas.style.cursor = state.dragging ? "grabbing" : (hoveredNode ? "pointer" : "default");
+    if (!state.dragging || hoverChanged) {
       render();
     }
   });
 
   canvas.addEventListener("mouseleave", () => {
     state.pointer.active = false;
+    state.hoverNodeId = null;
+    canvas.style.cursor = "default";
     render();
   });
 
