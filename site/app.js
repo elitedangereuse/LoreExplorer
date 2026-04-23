@@ -2,11 +2,9 @@ const appShell = document.getElementById("app-shell");
 const canvas = document.getElementById("graph-canvas");
 const context = canvas.getContext("2d");
 const searchInput = document.getElementById("search-input");
-const landingTagList = document.getElementById("landing-tag-list");
 const explorerShell = document.getElementById("explorer-shell");
 const panelResizer = document.getElementById("panel-resizer");
 const detectivePanelResizer = document.getElementById("detective-panel-resizer");
-const graphStatus = document.getElementById("graph-status");
 const fitButton = document.getElementById("fit-button");
 const resetButton = document.getElementById("reset-button");
 const detectiveButton = document.getElementById("detective-button");
@@ -448,6 +446,18 @@ function sanitizeLayer(raw, index = 0) {
 }
 
 function applyLayerToState(layer) {
+  if (!layer) {
+    state.investigationNotes = "";
+    state.savedPaths = [];
+    state.savedFilters = [];
+    state.nodeNotes = {};
+    state.customNodes = [];
+    state.pathTargetNodeId = null;
+    state.activePathNodeIds = [];
+    state.pathFocus = false;
+    state.activePathEdgeKeys = new Set();
+    return;
+  }
   state.investigationNotes = layer.notes;
   state.savedPaths = layer.savedPaths.map((path) => ({ ...path, nodeIds: path.nodeIds.slice() }));
   state.savedFilters = layer.savedFilters.map((filter) => ({ ...filter }));
@@ -500,13 +510,11 @@ function persistActiveLayerIntoCollection() {
 }
 
 function ensureInvestigationLayers() {
-  if (state.investigationLayers.length) {
+  if (state.activeLayerId && state.investigationLayers.some((layer) => layer.id === state.activeLayerId)) {
     return;
   }
-  const defaultLayer = buildEmptyLayer("Field Notes");
-  state.investigationLayers = [defaultLayer];
-  state.activeLayerId = defaultLayer.id;
-  applyLayerToState(defaultLayer);
+  state.activeLayerId = state.investigationLayers[0]?.id || null;
+  applyLayerToState(getActiveLayer());
 }
 
 function getActiveLayer() {
@@ -709,7 +717,6 @@ function rebuildRuntimeGraphData() {
   buildTagIndex();
   buildAppearanceData();
   buildSimulationData();
-  renderLandingTags();
   refreshSearchWorkerIndex();
 }
 
@@ -813,7 +820,7 @@ function loadInvestigationState() {
     const preferredLayerId = typeof parsed.activeLayerId === "string" ? parsed.activeLayerId : state.investigationLayers[0]?.id;
     state.activeLayerId = state.investigationLayers.some((layer) => layer.id === preferredLayerId)
       ? preferredLayerId
-      : state.investigationLayers[0].id;
+      : (state.investigationLayers[0]?.id || null);
     applyLayerToState(getActiveLayer());
   } catch {
     state.canonLayerVisible = true;
@@ -884,7 +891,7 @@ function validateInvestigationLayersAgainstGraph() {
   });
   ensureInvestigationLayers();
   if (!state.investigationLayers.some((layer) => layer.id === state.activeLayerId)) {
-    state.activeLayerId = state.investigationLayers[0].id;
+    state.activeLayerId = state.investigationLayers[0]?.id || null;
   }
   applyLayerToState(getActiveLayer());
 }
@@ -1328,25 +1335,6 @@ function applyPanelWidths(noteWidth = state.panelWidth, detectiveWidth = state.d
   explorerShell.style.setProperty("--detective-panel-width", `${state.detectivePanelWidth}px`);
 }
 
-function renderLandingTags() {
-  const entries = [...state.tagIndex.entries()]
-    .map(([key, nodes]) => ({
-      key,
-      label: state.tagDisplayByKey.get(key) || key,
-      count: nodes.length,
-    }))
-    .sort((left, right) => right.count - left.count || left.label.localeCompare(right.label));
-
-  landingTagList.innerHTML = entries
-    .map((entry) => `
-      <button type="button" class="tag-cloud-button" data-landing-tag="${escapeHtml(entry.label)}">
-        <strong>${escapeHtml(entry.label)}</strong>
-        <small>${entry.count}</small>
-      </button>
-    `)
-    .join("");
-}
-
 function resetSearchState() {
   state.searchQuery = "";
   state.results = [];
@@ -1417,27 +1405,7 @@ function clearSearch() {
 }
 
 function updateStatus() {
-  if (!state.graphRootNodeId) {
-    const bookmarkLabel = state.bookmarkedNodeIds.length
-      ? ` · ${state.bookmarkedNodeIds.length} bookmarks`
-      : "";
-    graphStatus.textContent = `Choose a tag or search for a node to begin.${bookmarkLabel}`;
-    return;
-  }
-  const visibleNodes = getVisibleNodes();
-  const visibleEdges = getVisibleEdgeRefs();
-  const modeLabel = `local graph${state.expandedNodeIds.size ? ` +${state.expandedNodeIds.size} expanded` : ""}`;
-  const filterLabel = state.searchQuery.trim() ? " · search" : (state.activeTagFilter ? ` · tag ${state.activeTagFilter}` : "");
-  const graphFilterCount = (
-    state.graphTagFilters.requireAll.length
-    + state.graphTagFilters.exclude.length
-  );
-  const graphFilterLabel = graphFilterCount ? ` · filters ${graphFilterCount}` : "";
-  const pathLabel = state.detectiveMode && isActiveLayerVisible() && state.activePathNodeIds.length > 1
-    ? ` · path ${state.activePathNodeIds.length - 1} hops`
-    : "";
-  const canonLabel = state.detectiveMode && !state.canonLayerVisible ? " · canon hidden" : "";
-  graphStatus.textContent = `${visibleNodes.length} nodes · ${visibleEdges.length} edges · ${modeLabel}${filterLabel}${graphFilterLabel}${pathLabel}${canonLabel}`;
+  return;
 }
 
 function fitNodes(nodes) {
@@ -1865,6 +1833,18 @@ function iconMarkup(name) {
   return `<span class="toolbar-icon" aria-hidden="true">${icons[name] || ""}</span>`;
 }
 
+function bookmarkIconMarkup(bookmarked, wrapperClass = "toolbar-icon") {
+  return `
+    <span class="${wrapperClass} bookmark-icon ${bookmarked ? "is-filled" : "is-outline"}" aria-hidden="true">
+      ${
+        bookmarked
+          ? `<svg viewBox="0 0 24 24" focusable="false"><path d="M7 4.5h10A1.5 1.5 0 0 1 18.5 6v14.2a.3.3 0 0 1-.46.25L12 16.47l-6.04 3.98a.3.3 0 0 1-.46-.25V6A1.5 1.5 0 0 1 7 4.5z"/></svg>`
+          : `<svg viewBox="0 0 24 24" focusable="false"><path d="M7 5h10v14l-5-3-5 3z"/></svg>`
+      }
+    </span>
+  `;
+}
+
 function colorForLayer(index) {
   return LAYER_COLOR_PALETTE[index % LAYER_COLOR_PALETTE.length];
 }
@@ -2166,6 +2146,7 @@ function toggleBookmark(nodeId) {
     state.bookmarkedNodeIds = [...state.bookmarkedNodeIds, nodeId];
   }
   saveInvestigationState();
+  syncBookmarkButtons(nodeId);
   renderInvestigatorTools();
   render();
 }
@@ -2408,16 +2389,16 @@ function toggleLayerVisibility(layerId) {
 
 function deleteActiveLayer() {
   if (state.investigationLayers.length <= 1) {
-    const replacement = buildEmptyLayer("Field Notes");
-    state.investigationLayers = [replacement];
-    state.activeLayerId = replacement.id;
-    applyLayerToState(replacement);
+    state.investigationLayers = [];
+    state.activeLayerId = null;
+    applyLayerToState(null);
     saveInvestigationState({ syncLayer: false });
     rebuildRuntimeGraphData();
     if (currentNodeId() && state.nodeById.has(currentNodeId())) {
       loadNote(currentNodeId());
     }
-    setToolStatusMessage("Reset the last remaining layer.");
+    setToolStatusMessage("Removed the last investigation layer.");
+    renderInvestigatorTools();
     render();
     return;
   }
@@ -2585,14 +2566,6 @@ function renderSavedFilters() {
 
 function renderInvestigatorTools() {
   if (!state.detectiveMode) {
-    investigatorTools.hidden = true;
-    investigatorTools.innerHTML = "";
-    updateDetectiveToolbarActions();
-    return;
-  }
-
-  const activeLayer = getActiveLayer();
-  if (!activeLayer) {
     investigatorTools.hidden = true;
     investigatorTools.innerHTML = "";
     updateDetectiveToolbarActions();
@@ -2829,22 +2802,74 @@ function renderBacklinkButtons(nodeId) {
   `).join("");
 }
 
+function renderSearchCompletionsPanel() {
+  const query = state.searchQuery.trim();
+  if (!query) {
+    return "";
+  }
+  const results = state.results.slice(0, 8);
+  const countLabel = state.results.length
+    ? `${state.results.length} match${state.results.length === 1 ? "" : "es"}`
+    : "No matches";
+  return `
+    <div class="search-completions-panel">
+      <div class="search-completions-header">
+        <span class="meta-label">Completions</span>
+        <small>${escapeHtml(countLabel)}</small>
+      </div>
+      ${
+        results.length
+          ? `<div class="search-completions-list">${
+            results.map((result) => `
+              <button
+                type="button"
+                class="search-completion-item ${result.id === currentNodeId() ? "is-active" : ""}"
+                data-node-id="${escapeHtml(result.id)}"
+              >
+                <strong>${escapeHtml(result.title)}</strong>
+                <small>${escapeHtml(result.group || "node")}</small>
+              </button>
+            `).join("")
+          }</div>`
+          : `<div class="tool-empty">No node matches "${escapeHtml(query)}".</div>`
+      }
+    </div>
+  `;
+}
+
 function renderNoteMetaPanel(node) {
   const layerBadge = node.isCustom
     ? `<span class="note-meta-badge">Layer Node · ${escapeHtml(getLayerById(node.layerId)?.name || "Investigation")}</span>`
     : '<span class="note-meta-badge">Canon Lore</span>';
   return `
     <div class="note-meta-stack">
+      ${renderSearchCompletionsPanel()}
       <div class="note-tag-list">${renderTagButtons(node)}</div>
       <div class="note-inline-meta">
         ${layerBadge}
         <span class="note-meta-badge">${escapeHtml(node.group || "node")}</span>
       </div>
-      <div class="note-backlinks-block">
-        <span class="meta-label">Backlinks</span>
-        <div class="note-backlinks-list">${renderBacklinkButtons(node.id)}</div>
-      </div>
     </div>
+  `;
+}
+
+function renderBacklinksSection(nodeId) {
+  const backlinks = getBacklinks(nodeId).slice(0, 18);
+  const count = backlinks.length;
+  return `
+    <details class="note-backlinks-section">
+      <summary class="note-backlinks-summary">
+        <span>Backlinks</span>
+        <small>${count}</small>
+      </summary>
+      <div class="note-backlinks-panel">
+        ${
+          count
+            ? `<div class="note-backlinks-list">${renderBacklinkButtons(nodeId)}</div>`
+            : '<span class="note-warning">No backlinks</span>'
+        }
+      </div>
+    </details>
   `;
 }
 
@@ -3087,9 +3112,36 @@ function renderCustomNodeBody(node) {
   `;
 }
 
+function renderNoteBookmarkButton(node) {
+  const bookmarked = isBookmarked(node.id);
+  return `
+    <button
+      type="button"
+      class="toolbar-icon-button ${bookmarked ? "is-active" : ""}"
+      data-toggle-bookmark="${escapeHtml(node.id)}"
+      aria-label="${bookmarked ? `Remove bookmark from ${escapeHtml(node.title)}` : `Bookmark ${escapeHtml(node.title)}`}"
+    >
+      ${bookmarkIconMarkup(bookmarked)}
+    </button>
+  `;
+}
+
+function decorateNoteTitle(node) {
+  const title = noteContent.querySelector("h1");
+  if (!title || title.closest(".note-title-row")) {
+    return;
+  }
+  const row = document.createElement("div");
+  row.className = "note-title-row";
+  title.replaceWith(row);
+  row.append(title);
+  row.insertAdjacentHTML("beforeend", renderNoteBookmarkButton(node));
+}
+
 function renderNoteSurface(node, baseMarkup) {
-  noteContent.innerHTML = `${baseMarkup}${renderCustomNodeEditor(node)}${renderInvestigationNoteEditor(node)}`;
+  noteContent.innerHTML = `${baseMarkup}${renderCustomNodeEditor(node)}${renderInvestigationNoteEditor(node)}${renderBacklinksSection(node.id)}`;
   rewriteNoteAssetUrls(noteContent);
+  decorateNoteTitle(node);
   noteMeta.innerHTML = renderNoteMetaPanel(node);
   requestAnimationFrame(() => {
     if (state.noteCursorNodeId === node.id) {
@@ -3109,7 +3161,7 @@ function renderNoteSurface(node, baseMarkup) {
 function updateCurrentNoteMeta() {
   const node = state.nodeById.get(currentNodeId());
   if (!node) {
-    noteMeta.innerHTML = "";
+    noteMeta.innerHTML = renderSearchCompletionsPanel();
     return;
   }
   noteMeta.innerHTML = renderNoteMetaPanel(node);
@@ -3511,6 +3563,7 @@ function updateToolbarNodeActions() {
   const targetNodeId = getToolbarTargetNodeId();
   const targetNode = targetNodeId ? state.nodeById.get(targetNodeId) : null;
   const targetTitle = targetNode?.title || "node";
+  const bookmarked = Boolean(targetNodeId && isBookmarked(targetNodeId));
 
   setToolbarButtonState(toolbarInspectButton, {
     disabled: !targetNodeId || targetNodeId === state.inspectNodeId,
@@ -3538,14 +3591,15 @@ function updateToolbarNodeActions() {
 
   setToolbarButtonState(toolbarBookmarkButton, {
     disabled: !targetNodeId,
-    active: Boolean(targetNodeId && isBookmarked(targetNodeId)),
-    label: targetNodeId && isBookmarked(targetNodeId)
+    active: bookmarked,
+    label: bookmarked
       ? `Remove bookmark from ${targetTitle}`
       : `Bookmark ${targetTitle}`,
     title: targetNodeId
-      ? (isBookmarked(targetNodeId) ? `Remove bookmark from ${targetTitle}` : `Bookmark ${targetTitle}`)
+      ? (bookmarked ? `Remove bookmark from ${targetTitle}` : `Bookmark ${targetTitle}`)
       : "Bookmark node",
   });
+  toolbarBookmarkButton.innerHTML = bookmarkIconMarkup(bookmarked);
 
   setToolbarButtonState(toolbarBookmarksButton, {
     disabled: false,
@@ -3554,6 +3608,29 @@ function updateToolbarNodeActions() {
     title: state.bookmarkedNodeIds.length ? `Open bookmarks (${state.bookmarkedNodeIds.length})` : "Open bookmarks",
   });
   toolbarBookmarksButton.setAttribute("aria-expanded", String(state.bookmarksPanelOpen));
+}
+
+function syncBookmarkButtons(nodeId) {
+  const node = nodeId ? state.nodeById.get(nodeId) : null;
+  const bookmarked = Boolean(nodeId && isBookmarked(nodeId));
+  if (nodeId && getToolbarTargetNodeId() === nodeId) {
+    toolbarBookmarkButton.classList.toggle("is-active", bookmarked);
+    toolbarBookmarkButton.innerHTML = bookmarkIconMarkup(bookmarked);
+    toolbarBookmarkButton.setAttribute(
+      "aria-label",
+      bookmarked ? `Remove bookmark from ${node?.title || "node"}` : `Bookmark ${node?.title || "node"}`,
+    );
+  }
+  const noteBookmarkButton = [...noteContent.querySelectorAll("[data-toggle-bookmark]")]
+    .find((button) => button.dataset.toggleBookmark === nodeId);
+  if (noteBookmarkButton) {
+    noteBookmarkButton.classList.toggle("is-active", bookmarked);
+    noteBookmarkButton.innerHTML = bookmarkIconMarkup(bookmarked);
+    noteBookmarkButton.setAttribute(
+      "aria-label",
+      bookmarked ? `Remove bookmark from ${node?.title || "node"}` : `Bookmark ${node?.title || "node"}`,
+    );
+  }
 }
 
 function updateDetectiveButton() {
@@ -4113,13 +4190,6 @@ function bindEvents() {
       promptRenameLayer(layerId);
     }
   });
-  landingTagList.addEventListener("click", (event) => {
-    const tagButton = event.target.closest("[data-landing-tag]");
-    if (!tagButton) {
-      return;
-    }
-    activateTag(tagButton.dataset.landingTag);
-  });
   toolbarBookmarksPanel.addEventListener("click", (event) => {
     const openBookmarkButton = event.target.closest("[data-open-bookmark]");
     if (openBookmarkButton) {
@@ -4333,6 +4403,12 @@ function bindEvents() {
   });
 
   noteContent.addEventListener("click", (event) => {
+    const bookmarkButton = event.target.closest("[data-toggle-bookmark]");
+    if (bookmarkButton) {
+      event.preventDefault();
+      toggleBookmark(bookmarkButton.dataset.toggleBookmark);
+      return;
+    }
     const openLinkPickerButton = event.target.closest("[data-open-note-link-picker]");
     if (openLinkPickerButton) {
       event.preventDefault();
@@ -4646,6 +4722,7 @@ async function bootstrap() {
 }
 
 bootstrap().catch((error) => {
-  graphStatus.textContent = "Failed to load graph";
+  console.error(error);
+  noteMeta.innerHTML = "";
   noteContent.innerHTML = `<div class="empty-state"><p>${error.message}</p></div>`;
 });

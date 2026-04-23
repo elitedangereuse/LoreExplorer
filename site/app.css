@@ -104,8 +104,7 @@ code {
 
 .graph-toolbar button,
 .backlink-item,
-.tag-button,
-.tag-cloud-button {
+.tag-button {
   border-radius: 14px;
   border: 1px solid rgba(255, 255, 255, 0.12);
   color: var(--text);
@@ -135,6 +134,13 @@ code {
 
 .toolbar-bookmarks {
   position: relative;
+}
+
+.toolbar-search {
+  margin-left: auto;
+  min-width: min(340px, 42vw);
+  flex: 1 1 280px;
+  justify-content: flex-end;
 }
 
 .toolbar-detective-actions[hidden] {
@@ -362,8 +368,7 @@ code {
 
 .graph-toolbar button:hover,
 .backlink-item:hover,
-.tag-button:hover,
-.tag-cloud-button:hover {
+.tag-button:hover {
   transform: translateY(-1px);
 }
 
@@ -389,11 +394,6 @@ code {
   border: 1px solid rgba(255, 255, 255, 0.12);
   background: rgba(255, 255, 255, 0.05);
   color: var(--text);
-}
-
-#graph-status {
-  margin-left: auto;
-  color: var(--text-dim);
 }
 
 .graph-stage {
@@ -525,18 +525,15 @@ code {
   border: 0;
 }
 
-.search-block {
-  flex: 0 0 auto;
-}
-
 #search-input {
   width: 100%;
-  padding: 14px 16px;
-  border-radius: 16px;
+  min-width: 0;
+  padding: 12px 16px;
+  border-radius: 14px;
   border: 1px solid rgba(255, 255, 255, 0.12);
   background: rgba(3, 11, 18, 0.92);
   color: var(--text);
-  font-size: 1rem;
+  font-size: 0.95rem;
   transition: border-color 150ms ease, box-shadow 150ms ease;
 }
 
@@ -551,34 +548,6 @@ code {
   outline: none;
   border-color: rgba(99, 216, 234, 0.5);
   box-shadow: 0 0 0 4px rgba(99, 216, 234, 0.16);
-}
-
-.landing-tags {
-  flex: 1 1 auto;
-  min-height: 0;
-  overflow: auto;
-}
-
-.app-shell.is-exploring .landing-tags {
-  display: none;
-}
-
-.tag-cloud {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 10px;
-}
-
-.tag-cloud-button {
-  display: inline-flex;
-  align-items: center;
-  gap: 8px;
-  padding: 10px 14px;
-  background: rgba(255, 255, 255, 0.04);
-}
-
-.tag-cloud-button small {
-  color: var(--text-dim);
 }
 
 .note-panel-meta {
@@ -1198,6 +1167,65 @@ code {
   padding: 14px 0 6px;
 }
 
+.search-completions-panel {
+  display: grid;
+  gap: 10px;
+  padding: 12px;
+  border-radius: 14px;
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.search-completions-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.search-completions-header small {
+  color: var(--text-dim);
+  font-size: 0.78rem;
+}
+
+.search-completions-list {
+  display: grid;
+  gap: 8px;
+}
+
+.search-completion-item {
+  width: 100%;
+  padding: 10px 12px;
+  border-radius: 12px;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  background: rgba(255, 255, 255, 0.03);
+  color: var(--text);
+  text-align: left;
+  cursor: pointer;
+  transition: background 150ms ease, border-color 150ms ease, transform 150ms ease;
+}
+
+.search-completion-item:hover {
+  transform: translateY(-1px);
+  background: rgba(99, 216, 234, 0.12);
+  border-color: rgba(99, 216, 234, 0.28);
+}
+
+.search-completion-item.is-active {
+  background: rgba(255, 212, 107, 0.1);
+  border-color: rgba(255, 212, 107, 0.28);
+}
+
+.search-completion-item strong,
+.search-completion-item small {
+  display: block;
+}
+
+.search-completion-item small {
+  margin-top: 4px;
+  color: var(--text-dim);
+}
+
 .graph-filter-toolbar {
   padding: 0 12px 12px;
   border-bottom: 1px solid rgba(255, 255, 255, 0.08);
@@ -1341,15 +1369,70 @@ code {
   font-size: 0.76rem;
 }
 
-.note-backlinks-block {
-  display: grid;
-  gap: 10px;
-}
-
 .note-backlinks-list {
   display: flex;
   flex-wrap: wrap;
   gap: 8px;
+}
+
+.note-title-row {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.note-title-row h1 {
+  margin: 0;
+}
+
+.bookmark-icon svg {
+  width: 100%;
+  height: 100%;
+}
+
+.bookmark-icon.is-outline svg {
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.9;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.bookmark-icon.is-filled svg {
+  fill: currentColor;
+  stroke: none;
+}
+
+.note-backlinks-section {
+  margin-top: 18px;
+  padding: 14px 16px;
+  border-radius: var(--radius-md);
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.note-backlinks-summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  cursor: pointer;
+  list-style: none;
+  font-weight: 600;
+}
+
+.note-backlinks-summary::-webkit-details-marker {
+  display: none;
+}
+
+.note-backlinks-summary small {
+  color: var(--text-dim);
+  font-size: 0.82rem;
+}
+
+.note-backlinks-panel {
+  margin-top: 12px;
 }
 
 .investigation-note-card {

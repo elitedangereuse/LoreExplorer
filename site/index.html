@@ -14,6 +14,33 @@
           <div class="graph-toolbar">
             <div class="toolbar-actions" aria-label="Graph tools">
               <button
+                id="reset-button"
+                class="toolbar-icon-button"
+                type="button"
+                aria-label="Reset view"
+                data-tooltip="Reset view"
+              >
+                <span class="" aria-hidden="true" style="padding-top: 5px;">
+                  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-house" viewBox="0 0 16 16">
+                    <path d="M8.707 1.5a1 1 0 0 0-1.414 0L.646 8.146a.5.5 0 0 0 .708.708L2 8.207V13.5A1.5 1.5 0 0 0 3.5 15h9a1.5 1.5 0 0 0 1.5-1.5V8.207l.646.647a.5.5 0 0 0 .708-.708L13 5.793V2.5a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1.293zM13 7.207V13.5a.5.5 0 0 1-.5.5h-9a.5.5 0 0 1-.5-.5V7.207l5-5z"/>
+                  </svg>
+                </span>
+              </button>
+              <button
+                id="detective-button"
+                class="toolbar-icon-button"
+                type="button"
+                aria-pressed="false"
+                aria-label="Toggle detective panel"
+                data-tooltip="Toggle detective panel"
+              >
+                <span class="" aria-hidden="true" style="padding-top: 5px;">
+                  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-incognito" viewBox="0 0 16 16">
+                    <path fill-rule="evenodd" d="m4.736 1.968-.892 3.269-.014.058C2.113 5.568 1 6.006 1 6.5 1 7.328 4.134 8 8 8s7-.672 7-1.5c0-.494-1.113-.932-2.83-1.205l-.014-.058-.892-3.27c-.146-.533-.698-.849-1.239-.734C9.411 1.363 8.62 1.5 8 1.5s-1.411-.136-2.025-.267c-.541-.115-1.093.2-1.239.735m.015 3.867a.25.25 0 0 1 .274-.224c.9.092 1.91.143 2.975.143a30 30 0 0 0 2.975-.143.25.25 0 0 1 .05.498c-.918.093-1.944.145-3.025.145s-2.107-.052-3.025-.145a.25.25 0 0 1-.224-.274M3.5 10h2a.5.5 0 0 1 .5.5v1a1.5 1.5 0 0 1-3 0v-1a.5.5 0 0 1 .5-.5m-1.5.5q.001-.264.085-.5H2a.5.5 0 0 1 0-1h3.5a1.5 1.5 0 0 1 1.488 1.312 3.5 3.5 0 0 1 2.024 0A1.5 1.5 0 0 1 10.5 9H14a.5.5 0 0 1 0 1h-.085q.084.236.085.5v1a2.5 2.5 0 0 1-5 0v-.14l-.21-.07a2.5 2.5 0 0 0-1.58 0l-.21.07v.14a2.5 2.5 0 0 1-5 0zm8.5-.5h2a.5.5 0 0 1 .5.5v1a1.5 1.5 0 0 1-3 0v-1a.5.5 0 0 1 .5-.5"/>
+                  </svg>
+                </span>
+              </button>
+              <button
                 id="fit-button"
                 class="toolbar-icon-button"
                 type="button"
@@ -24,33 +51,6 @@
                   <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-fullscreen" viewBox="0 0 16 16">
   <path d="M1.5 1a.5.5 0 0 0-.5.5v4a.5.5 0 0 1-1 0v-4A1.5 1.5 0 0 1 1.5 0h4a.5.5 0 0 1 0 1zM10 .5a.5.5 0 0 1 .5-.5h4A1.5 1.5 0 0 1 16 1.5v4a.5.5 0 0 1-1 0v-4a.5.5 0 0 0-.5-.5h-4a.5.5 0 0 1-.5-.5M.5 10a.5.5 0 0 1 .5.5v4a.5.5 0 0 0 .5.5h4a.5.5 0 0 1 0 1h-4A1.5 1.5 0 0 1 0 14.5v-4a.5.5 0 0 1 .5-.5m15 0a.5.5 0 0 1 .5.5v4a1.5 1.5 0 0 1-1.5 1.5h-4a.5.5 0 0 1 0-1h4a.5.5 0 0 0 .5-.5v-4a.5.5 0 0 1 .5-.5"/>
 </svg>
-                </span>
-              </button>
-              <button
-                id="reset-button"
-                class="toolbar-icon-button"
-                type="button"
-                aria-label="Start over"
-                data-tooltip="Start over"
-              >
-                <span class="" aria-hidden="true" style="padding-top: 5px;">
-                  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-house" viewBox="0 0 16 16">
-                    <path d="M8.707 1.5a1 1 0 0 0-1.414 0L.646 8.146a.5.5 0 0 0 .708.708L2 8.207V13.5A1.5 1.5 0 0 0 3.5 15h9a1.5 1.5 0 0 0 1.5-1.5V8.207l.646.647a.5.5 0 0 0 .708-.708L13 5.793V2.5a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1.293zM13 7.207V13.5a.5.5 0 0 1-.5.5h-9a.5.5 0 0 1-.5-.5V7.207l5-5z"/>
-                  </svg>
-                </span>
-              </button>
-              <button
-                id="detective-button"
-                class="toolbar-icon-button is-detective-toggle"
-                type="button"
-                aria-pressed="false"
-                aria-label="Toggle detective panel"
-                data-tooltip="Toggle detective panel"
-              >
-                <span class="" aria-hidden="true" style="padding-top: 5px;">
-                  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-incognito" viewBox="0 0 16 16">
-                    <path fill-rule="evenodd" d="m4.736 1.968-.892 3.269-.014.058C2.113 5.568 1 6.006 1 6.5 1 7.328 4.134 8 8 8s7-.672 7-1.5c0-.494-1.113-.932-2.83-1.205l-.014-.058-.892-3.27c-.146-.533-.698-.849-1.239-.734C9.411 1.363 8.62 1.5 8 1.5s-1.411-.136-2.025-.267c-.541-.115-1.093.2-1.239.735m.015 3.867a.25.25 0 0 1 .274-.224c.9.092 1.91.143 2.975.143a30 30 0 0 0 2.975-.143.25.25 0 0 1 .05.498c-.918.093-1.944.145-3.025.145s-2.107-.052-3.025-.145a.25.25 0 0 1-.224-.274M3.5 10h2a.5.5 0 0 1 .5.5v1a1.5 1.5 0 0 1-3 0v-1a.5.5 0 0 1 .5-.5m-1.5.5q.001-.264.085-.5H2a.5.5 0 0 1 0-1h3.5a1.5 1.5 0 0 1 1.488 1.312 3.5 3.5 0 0 1 2.024 0A1.5 1.5 0 0 1 10.5 9H14a.5.5 0 0 1 0 1h-.085q.084.236.085.5v1a2.5 2.5 0 0 1-5 0v-.14l-.21-.07a2.5 2.5 0 0 0-1.58 0l-.21.07v.14a2.5 2.5 0 0 1-5 0zm8.5-.5h2a.5.5 0 0 1 .5.5v1a1.5 1.5 0 0 1-3 0v-1a.5.5 0 0 1 .5-.5"/>
-                  </svg>
                 </span>
               </button>
             </div>
@@ -190,7 +190,7 @@
                 aria-label="Bookmark node"
                 data-tooltip="Bookmark node"
               >
-                <span class="toolbar-icon" aria-hidden="true">
+                <span class="toolbar-icon bookmark-icon is-outline" aria-hidden="true">
                   <svg viewBox="0 0 24 24" focusable="false">
                     <path d="M7 5h10v14l-5-3-5 3z"/>
                   </svg>
@@ -252,7 +252,15 @@
                 </div>
               </div>
             </div>
-            <span id="graph-status">Loading graph…</span>
+            <div class="toolbar-group toolbar-search">
+              <input
+                id="search-input"
+                type="search"
+                placeholder="Search nodes…"
+                autocomplete="off"
+                spellcheck="false"
+              />
+            </div>
           </div>
           <div id="graph-filter-toolbar" class="graph-filter-toolbar" aria-label="Graph filters" style="padding-top: 2px;padding-bottom: 2px;"></div>
           <div class="graph-stage">
@@ -276,20 +284,6 @@
         ></div>
 
         <aside class="note-panel">
-          <div class="search-block">
-            <input
-              id="search-input"
-              type="search"
-              placeholder="Search nodes…"
-              autocomplete="off"
-              spellcheck="false"
-            />
-          </div>
-
-          <section class="landing-tags">
-            <div id="landing-tag-list" class="tag-cloud"></div>
-          </section>
-
           <div id="note-meta" class="note-panel-meta"></div>
           <div id="note-content" class="note-content">
             <div class="empty-state">
