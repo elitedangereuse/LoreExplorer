@@ -9,10 +9,12 @@ const graphStatus = document.getElementById("graph-status");
 const fitButton = document.getElementById("fit-button");
 const resetButton = document.getElementById("reset-button");
 const dynamicButton = document.getElementById("dynamic-button");
+const detectiveButton = document.getElementById("detective-button");
 const colorModeSelect = document.getElementById("color-mode");
 const shapeModeSelect = document.getElementById("shape-mode");
 const noteContent = document.getElementById("note-content");
 const noteMeta = document.getElementById("note-meta");
+const detectivePanel = document.getElementById("detective-panel");
 const investigatorTools = document.getElementById("investigator-tools");
 const graphStage = document.querySelector(".graph-stage");
 const graphContextMenu = document.getElementById("graph-context-menu");
@@ -59,6 +61,7 @@ const state = {
   searchWorkerReady: false,
   contextMenu: { open: false, nodeId: null },
   dynamicMode: false,
+  detectiveMode: false,
   animationFrameId: null,
   lastFrameAt: 0,
   panelWidth: 440,
@@ -69,7 +72,6 @@ const state = {
   activePathNodeIds: [],
   activePathEdgeKeys: new Set(),
   pathFocus: false,
-  investigatorToolsCollapsed: false,
 };
 
 const INVESTIGATION_STORAGE_KEY = "org-roam-investigator-v1";
@@ -200,7 +202,7 @@ function saveInvestigationState() {
       investigationNotes: state.investigationNotes,
       pathTargetNodeId: state.pathTargetNodeId,
       pathFocus: state.pathFocus,
-      investigatorToolsCollapsed: state.investigatorToolsCollapsed,
+      detectiveMode: state.detectiveMode,
     }),
   );
 }
@@ -220,13 +222,13 @@ function loadInvestigationState() {
     state.investigationNotes = typeof parsed.investigationNotes === "string" ? parsed.investigationNotes : "";
     state.pathTargetNodeId = typeof parsed.pathTargetNodeId === "string" ? parsed.pathTargetNodeId : null;
     state.pathFocus = Boolean(parsed.pathFocus);
-    state.investigatorToolsCollapsed = Boolean(parsed.investigatorToolsCollapsed);
+    state.detectiveMode = Boolean(parsed.detectiveMode);
   } catch {
     state.bookmarkedNodeIds = [];
     state.investigationNotes = "";
     state.pathTargetNodeId = null;
     state.pathFocus = false;
-    state.investigatorToolsCollapsed = false;
+    state.detectiveMode = false;
   }
 }
 
@@ -476,7 +478,7 @@ function getNodeColor(node) {
 }
 
 function getVisibleNodeIds() {
-  if (state.pathFocus && state.activePathNodeIds.length) {
+  if (state.detectiveMode && state.pathFocus && state.activePathNodeIds.length) {
     const visibleIds = new Set(state.activePathNodeIds);
     if (state.graphRootNodeId) {
       visibleIds.add(state.graphRootNodeId);
@@ -543,7 +545,8 @@ function applyPanelWidth(width) {
     return;
   }
   const minWidth = 320;
-  const maxWidth = Math.max(minWidth, shellWidth - 360);
+  const detectiveReserve = state.detectiveMode ? 320 : 0;
+  const maxWidth = Math.max(minWidth, shellWidth - 360 - detectiveReserve);
   state.panelWidth = Math.max(minWidth, Math.min(maxWidth, width));
   explorerShell.style.setProperty("--note-panel-width", `${state.panelWidth}px`);
 }
@@ -654,7 +657,9 @@ function clearSearch() {
 
 function updateStatus() {
   if (!state.graphRootNodeId) {
-    const bookmarkLabel = state.bookmarkedNodeIds.length ? ` · ${state.bookmarkedNodeIds.length} bookmarks` : "";
+    const bookmarkLabel = state.detectiveMode && state.bookmarkedNodeIds.length
+      ? ` · ${state.bookmarkedNodeIds.length} bookmarks`
+      : "";
     graphStatus.textContent = `Choose a tag or search for a node to begin.${bookmarkLabel}`;
     return;
   }
@@ -663,7 +668,9 @@ function updateStatus() {
   const modeLabel = `local graph${state.expandedNodeIds.size ? ` +${state.expandedNodeIds.size} expanded` : ""}`;
   const motionLabel = state.dynamicMode ? "dynamic" : "static";
   const filterLabel = state.searchQuery.trim() ? " · search" : (state.activeTagFilter ? ` · tag ${state.activeTagFilter}` : "");
-  const pathLabel = state.activePathNodeIds.length > 1 ? ` · path ${state.activePathNodeIds.length - 1} hops` : "";
+  const pathLabel = state.detectiveMode && state.activePathNodeIds.length > 1
+    ? ` · path ${state.activePathNodeIds.length - 1} hops`
+    : "";
   graphStatus.textContent = `${visibleNodes.length} nodes · ${visibleEdges.length} edges · ${modeLabel}${filterLabel}${pathLabel} · ${motionLabel}`;
 }
 
@@ -707,7 +714,7 @@ function getLabelNodes(nodes) {
   if (inspectId !== rootId) {
     addNode(state.nodeById.get(inspectId));
   }
-  if (state.activePathNodeIds.length && (state.pathFocus || state.activePathNodeIds.length <= 10)) {
+  if (state.detectiveMode && state.activePathNodeIds.length && (state.pathFocus || state.activePathNodeIds.length <= 10)) {
     for (const nodeId of state.activePathNodeIds) {
       addNode(state.nodeById.get(nodeId));
     }
@@ -863,7 +870,7 @@ function render() {
   const hoverContext = getHoverContext(visibleNodes);
   const hoveredNodeId = hoverContext?.nodeId || null;
   const hoveredNeighborIds = hoverContext?.neighborIds || null;
-  const hasPath = state.activePathNodeIds.length > 1;
+  const hasPath = state.detectiveMode && state.activePathNodeIds.length > 1;
 
   context.save();
   context.lineJoin = "round";
@@ -1157,6 +1164,13 @@ function toggleBookmark(nodeId) {
 }
 
 function renderInvestigatorTools() {
+  if (!state.detectiveMode) {
+    investigatorTools.hidden = true;
+    investigatorTools.innerHTML = "";
+    return;
+  }
+
+  investigatorTools.hidden = false;
   const currentId = currentNodeId();
   const currentNode = currentId ? state.nodeById.get(currentId) : null;
   const bookmarkedNodes = getBookmarkedNodes();
@@ -1171,128 +1185,113 @@ function renderInvestigatorTools() {
   const pathSummary = hasPath
     ? `${pathNodes.length} nodes · ${pathNodes.length - 1} hops`
     : (targetNode && currentId && targetNode.id !== currentId ? "No path traced yet." : "Bookmark nodes to build a case board.");
-  const collapsedSummary = [
-    bookmarkedNodes.length ? `${bookmarkedNodes.length} bookmarks` : "no bookmarks",
-    hasPath ? `${pathNodes.length - 1} hops traced` : "no active path",
-  ].join(" · ");
 
   investigatorTools.innerHTML = `
-    <div class="tool-card ${state.investigatorToolsCollapsed ? "is-collapsed" : ""}">
-      <div class="tool-card-header">
-        <div>
-          <div class="tool-card-title">Detective Kit</div>
-          <div class="tool-card-subtitle">${
-            currentNode ? `Current lead: ${escapeHtml(currentNode.title)}` : "Select a node to begin tracing relationships."
-          }</div>
-          ${state.investigatorToolsCollapsed ? `<div class="tool-card-collapsed-summary">${escapeHtml(collapsedSummary)}</div>` : ""}
-        </div>
-        <div class="tool-card-header-actions">
-          <button
-            type="button"
-            class="mini-button tool-collapse-button ${state.investigatorToolsCollapsed ? "is-active" : ""}"
-            data-toggle-tools="true"
-            aria-expanded="${state.investigatorToolsCollapsed ? "false" : "true"}"
-          >${state.investigatorToolsCollapsed ? "Expand" : "Collapse"}</button>
-          <button
-            type="button"
-            class="tool-action-button ${currentNode && isBookmarked(currentId) ? "is-active" : ""}"
-            data-toggle-bookmark-current="true"
-            ${currentNode ? "" : "disabled"}
-          >${currentNode && isBookmarked(currentId) ? "Unbookmark" : "Bookmark Current"}</button>
-        </div>
+    <div class="tool-card-header">
+      <div>
+        <div class="tool-card-title">Detective Kit</div>
+        <div class="tool-card-subtitle">${
+          currentNode ? `Current lead: ${escapeHtml(currentNode.title)}` : "Select a node to begin tracing relationships."
+        }</div>
       </div>
+      <div class="tool-card-header-actions">
+        <button
+          type="button"
+          class="tool-action-button ${currentNode && isBookmarked(currentId) ? "is-active" : ""}"
+          data-toggle-bookmark-current="true"
+          ${currentNode ? "" : "disabled"}
+        >${currentNode && isBookmarked(currentId) ? "Unbookmark" : "Bookmark Current"}</button>
+      </div>
+    </div>
 
-      <div class="tool-card-body" ${state.investigatorToolsCollapsed ? "hidden" : ""}>
-      <div class="tool-block">
-        <span class="meta-label">Bookmarks</span>
-        <div class="bookmark-list">
-          ${
-            bookmarkedNodes.length
-              ? bookmarkedNodes.map((node) => `
-                <div class="bookmark-item ${node.id === currentId ? "is-current" : ""}">
-                  <button type="button" class="bookmark-open" data-open-bookmark="${node.id}">${escapeHtml(node.title)}</button>
-                  <div class="bookmark-actions">
-                    <button
-                      type="button"
-                      class="mini-button ${state.pathTargetNodeId === node.id ? "is-active" : ""}"
-                      data-set-path-target="${node.id}"
-                    >Target</button>
-                    <button type="button" class="mini-button" data-remove-bookmark="${node.id}">Remove</button>
-                  </div>
+    <div class="tool-block">
+      <span class="meta-label">Bookmarks</span>
+      <div class="bookmark-list">
+        ${
+          bookmarkedNodes.length
+            ? bookmarkedNodes.map((node) => `
+              <div class="bookmark-item ${node.id === currentId ? "is-current" : ""}">
+                <button type="button" class="bookmark-open" data-open-bookmark="${node.id}">${escapeHtml(node.title)}</button>
+                <div class="bookmark-actions">
+                  <button
+                    type="button"
+                    class="mini-button ${state.pathTargetNodeId === node.id ? "is-active" : ""}"
+                    data-set-path-target="${node.id}"
+                  >Target</button>
+                  <button type="button" class="mini-button" data-remove-bookmark="${node.id}">Remove</button>
                 </div>
-              `).join("")
-              : '<div class="tool-empty">Bookmark suspects, systems, factions or events to keep them at hand.</div>'
+              </div>
+            `).join("")
+            : '<div class="tool-empty">Bookmark suspects, systems, factions or events to keep them at hand.</div>'
+        }
+      </div>
+    </div>
+
+    <div class="tool-block">
+      <span class="meta-label">Connection Finder</span>
+      <div class="path-controls">
+        <select id="path-target-select" class="toolbar-select" ${availableTargets.length ? "" : "disabled"}>
+          <option value="">Choose a bookmarked node…</option>
+          ${
+            availableTargets.map((node) => `
+              <option value="${node.id}" ${state.pathTargetNodeId === node.id ? "selected" : ""}>${escapeHtml(node.title)}</option>
+            `).join("")
           }
-        </div>
+        </select>
+        <button
+          type="button"
+          class="tool-action-button"
+          data-trace-path="true"
+          ${currentNode && availableTargets.length ? "" : "disabled"}
+        >Trace Path</button>
+        <button
+          type="button"
+          class="tool-action-button"
+          data-clear-path="true"
+          ${state.activePathNodeIds.length ? "" : "disabled"}
+        >Clear</button>
       </div>
+      <label class="path-focus-toggle">
+        <input
+          id="path-focus-toggle"
+          type="checkbox"
+          ${state.pathFocus && state.activePathNodeIds.length ? "checked" : ""}
+          ${state.activePathNodeIds.length ? "" : "disabled"}
+        />
+        Show path only
+      </label>
+      <div class="path-summary">${escapeHtml(pathSummary)}</div>
+      ${
+        pathNodes.length
+          ? `<div class="path-node-list">${
+            pathNodes.map((node, index) => `
+              <button type="button" class="path-node-chip" data-open-bookmark="${node.id}">${escapeHtml(node.title)}</button>
+              ${index < pathNodes.length - 1 ? '<span class="path-separator">→</span>' : ""}
+            `).join("")
+          }</div>`
+          : ""
+      }
+      ${
+        sharedNeighbors.length
+          ? `<div class="shared-neighbors">
+              <div class="shared-neighbors-label">Shared direct neighbors</div>
+              <div class="shared-neighbor-list">${
+                sharedNeighbors.map((node) => `
+                  <button type="button" class="tag tag-button" data-open-bookmark="${node.id}">${escapeHtml(node.title)}</button>
+                `).join("")
+              }</div>
+            </div>`
+          : ""
+      }
+    </div>
 
-      <div class="tool-block">
-        <span class="meta-label">Connection Finder</span>
-        <div class="path-controls">
-          <select id="path-target-select" class="toolbar-select" ${availableTargets.length ? "" : "disabled"}>
-            <option value="">Choose a bookmarked node…</option>
-            ${
-              availableTargets.map((node) => `
-                <option value="${node.id}" ${state.pathTargetNodeId === node.id ? "selected" : ""}>${escapeHtml(node.title)}</option>
-              `).join("")
-            }
-          </select>
-          <button
-            type="button"
-            class="tool-action-button"
-            data-trace-path="true"
-            ${currentNode && availableTargets.length ? "" : "disabled"}
-          >Trace Path</button>
-          <button
-            type="button"
-            class="tool-action-button"
-            data-clear-path="true"
-            ${state.activePathNodeIds.length ? "" : "disabled"}
-          >Clear</button>
-        </div>
-        <label class="path-focus-toggle">
-          <input
-            id="path-focus-toggle"
-            type="checkbox"
-            ${state.pathFocus && state.activePathNodeIds.length ? "checked" : ""}
-            ${state.activePathNodeIds.length ? "" : "disabled"}
-          />
-          Show path only
-        </label>
-        <div class="path-summary">${escapeHtml(pathSummary)}</div>
-        ${
-          pathNodes.length
-            ? `<div class="path-node-list">${
-              pathNodes.map((node, index) => `
-                <button type="button" class="path-node-chip" data-open-bookmark="${node.id}">${escapeHtml(node.title)}</button>
-                ${index < pathNodes.length - 1 ? '<span class="path-separator">→</span>' : ""}
-              `).join("")
-            }</div>`
-            : ""
-        }
-        ${
-          sharedNeighbors.length
-            ? `<div class="shared-neighbors">
-                <div class="shared-neighbors-label">Shared direct neighbors</div>
-                <div class="shared-neighbor-list">${
-                  sharedNeighbors.map((node) => `
-                    <button type="button" class="tag tag-button" data-open-bookmark="${node.id}">${escapeHtml(node.title)}</button>
-                  `).join("")
-                }</div>
-              </div>`
-            : ""
-        }
-      </div>
-
-      <div class="tool-block">
-        <span class="meta-label">Case Notes</span>
-        <textarea
-          id="investigation-notes"
-          class="investigation-notes"
-          placeholder="Capture leads, contradictions, motives, timelines, missing links…"
-        >${escapeHtml(state.investigationNotes)}</textarea>
-      </div>
-      </div>
+    <div class="tool-block">
+      <span class="meta-label">Case Notes</span>
+      <textarea
+        id="investigation-notes"
+        class="investigation-notes"
+        placeholder="Capture leads, contradictions, motives, timelines, missing links…"
+      >${escapeHtml(state.investigationNotes)}</textarea>
     </div>
   `;
 }
@@ -1435,6 +1434,30 @@ function updateDynamicButton() {
   dynamicButton.setAttribute("aria-pressed", String(state.dynamicMode));
 }
 
+function updateDetectiveButton() {
+  detectiveButton.classList.toggle("is-active", state.detectiveMode);
+  detectiveButton.setAttribute("aria-pressed", String(state.detectiveMode));
+  appShell.classList.toggle("is-detective", state.detectiveMode);
+  detectivePanel.hidden = !state.detectiveMode;
+}
+
+function setDetectiveMode(enabled, shouldFit = true) {
+  state.detectiveMode = enabled;
+  updateDetectiveButton();
+  applyPanelWidth(state.panelWidth);
+  hideContextMenu();
+  saveInvestigationState();
+  renderInvestigatorTools();
+  requestAnimationFrame(() => {
+    resizeCanvas();
+    if (shouldFit && state.graphRootNodeId) {
+      fitGraph();
+      return;
+    }
+    render();
+  });
+}
+
 function hideContextMenu() {
   state.contextMenu = { open: false, nodeId: null };
   graphContextMenu.hidden = true;
@@ -1443,7 +1466,7 @@ function hideContextMenu() {
 function showContextMenu(clientX, clientY, nodeId) {
   const rect = graphStage.getBoundingClientRect();
   const menuWidth = 210;
-  const menuHeight = 140;
+  const menuHeight = state.detectiveMode ? 140 : 108;
   const left = Math.min(
     Math.max(8, clientX - rect.left),
     Math.max(8, rect.width - menuWidth - 8),
@@ -1464,6 +1487,7 @@ function showContextMenu(clientX, clientY, nodeId) {
     || nodeId === state.graphRootNodeId
     || state.expandedNodeIds.has(nodeId)
   );
+  contextToggleBookmarkButton.hidden = !state.detectiveMode;
   contextToggleBookmarkButton.textContent = isBookmarked(nodeId) ? "Remove Bookmark" : "Bookmark Node";
   graphContextMenu.hidden = false;
 }
@@ -1974,6 +1998,9 @@ function bindEvents() {
   dynamicButton.addEventListener("click", () => {
     setDynamicMode(!state.dynamicMode);
   });
+  detectiveButton.addEventListener("click", () => {
+    setDetectiveMode(!state.detectiveMode);
+  });
   colorModeSelect.addEventListener("change", (event) => {
     state.colorMode = event.target.value;
     render();
@@ -2184,13 +2211,6 @@ function bindEvents() {
   });
 
   investigatorTools.addEventListener("click", (event) => {
-    if (event.target.closest("[data-toggle-tools]")) {
-      state.investigatorToolsCollapsed = !state.investigatorToolsCollapsed;
-      saveInvestigationState();
-      renderInvestigatorTools();
-      return;
-    }
-
     const currentBookmarkButton = event.target.closest("[data-toggle-bookmark-current]");
     if (currentBookmarkButton) {
       const nodeId = currentNodeId();
@@ -2355,6 +2375,7 @@ async function bootstrap() {
     state.pathTargetNodeId = null;
   }
   saveInvestigationState();
+  updateDetectiveButton();
   applyPanelWidth(state.panelWidth);
   colorModeSelect.value = state.colorMode;
   shapeModeSelect.value = state.shapeMode;

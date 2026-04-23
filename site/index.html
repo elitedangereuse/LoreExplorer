@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Elite Dangerous Lore Explorer</title>
-    <link rel="icon" href="./img/Raxxla_400.png" type="image/png" />
+    <link rel="icon" href="./favicon.ico" sizes="any" />
     <link rel="stylesheet" href="./app.css" />
   </head>
   <body>
@@ -15,6 +15,7 @@
             <button id="fit-button" type="button">Fit Graph</button>
             <button id="reset-button" type="button">Start Over</button>
             <button id="dynamic-button" type="button" aria-pressed="false">Dynamic</button>
+            <button id="detective-button" type="button" aria-pressed="false">Detective</button>
             <label class="toolbar-label" for="color-mode">Color</label>
             <select id="color-mode" class="toolbar-select" aria-label="Node color mode">
               <option value="group">Group</option>
@@ -64,14 +65,16 @@
             <div id="landing-tag-list" class="tag-cloud"></div>
           </section>
 
-          <section id="investigator-tools" class="investigator-tools"></section>
-
           <div id="note-meta" class="note-panel-meta"></div>
           <div id="note-content" class="note-content">
             <div class="empty-state">
               <p>Select a node or search result to inspect a note.</p>
             </div>
           </div>
+        </aside>
+
+        <aside id="detective-panel" class="detective-panel" hidden>
+          <section id="investigator-tools" class="investigator-tools"></section>
         </aside>
       </section>
     </div>

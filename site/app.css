@@ -55,6 +55,7 @@ code {
 
 .explorer-shell {
   --note-panel-width: 420px;
+  --detective-panel-width: 320px;
   height: 100%;
   min-height: 0;
   display: grid;
@@ -64,7 +65,8 @@ code {
 }
 
 .graph-panel,
-.note-panel {
+.note-panel,
+.detective-panel {
   min-height: 0;
   background: var(--panel);
   border: 1px solid var(--panel-border);
@@ -72,6 +74,14 @@ code {
   box-shadow: var(--shadow);
   backdrop-filter: blur(18px);
   overflow: hidden;
+}
+
+.app-shell.is-detective .explorer-shell {
+  grid-template-columns:
+    minmax(0, 1fr)
+    12px
+    minmax(320px, var(--note-panel-width))
+    minmax(280px, var(--detective-panel-width));
 }
 
 .graph-panel {
@@ -241,6 +251,23 @@ code {
   border-bottom-left-radius: 0;
 }
 
+.app-shell.is-detective .note-panel {
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.detective-panel {
+  display: flex;
+  flex-direction: column;
+  padding: 14px;
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.detective-panel[hidden] {
+  display: none;
+}
+
 .search-block {
   flex: 0 0 auto;
 }
@@ -302,14 +329,13 @@ code {
 }
 
 .investigator-tools {
-  flex: 0 0 auto;
+  flex: 1 1 auto;
+  min-height: 0;
+  overflow: auto;
 }
 
-.tool-card {
-  padding: 16px;
-  border-radius: var(--radius-md);
-  background: rgba(255, 255, 255, 0.04);
-  border: 1px solid rgba(255, 255, 255, 0.08);
+.investigator-tools[hidden] {
+  display: none;
 }
 
 .tool-card-header {
@@ -317,7 +343,7 @@ code {
   align-items: flex-start;
   justify-content: space-between;
   gap: 12px;
-  margin-bottom: 14px;
+  margin-bottom: 18px;
 }
 
 .tool-card-header-actions {
@@ -337,20 +363,6 @@ code {
   color: var(--text-dim);
   font-size: 0.84rem;
   line-height: 1.45;
-}
-
-.tool-card-collapsed-summary {
-  margin-top: 8px;
-  color: var(--text-dim);
-  font-size: 0.8rem;
-}
-
-.tool-card.is-collapsed {
-  padding-bottom: 14px;
-}
-
-.tool-card.is-collapsed .tool-card-header {
-  margin-bottom: 0;
 }
 
 .tool-block + .tool-block {
@@ -699,7 +711,8 @@ code {
   }
 
   .graph-panel,
-  .note-panel {
+  .note-panel,
+  .detective-panel {
     border-radius: var(--radius-lg);
   }
 
