@@ -68,6 +68,7 @@ code {
 .note-panel,
 .detective-panel {
   min-height: 0;
+  position: relative;
   background: var(--panel);
   border: 1px solid var(--panel-border);
   border-radius: var(--radius-xl);
@@ -132,6 +133,10 @@ code {
   position: relative;
 }
 
+.toolbar-bookmarks {
+  position: relative;
+}
+
 .toolbar-detective-actions[hidden] {
   display: none;
 }
@@ -158,6 +163,14 @@ code {
 .toolbar-popover-section {
   display: grid;
   gap: 8px;
+}
+
+.toolbar-popover-heading {
+  font-size: 0.82rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  color: var(--text-dim);
+  text-transform: uppercase;
 }
 
 .app-tooltip {
@@ -585,39 +598,12 @@ code {
 .tool-card {
   display: flex;
   flex-direction: column;
-  gap: 16px;
   min-height: 100%;
-}
-
-.tool-card-header {
-  display: flex;
-  align-items: flex-start;
-  justify-content: space-between;
-  gap: 12px;
-}
-
-.tool-card-header-actions {
-  display: flex;
-  align-items: center;
-  gap: 8px;
-  flex: 0 0 auto;
-}
-
-.tool-card-title {
-  font-size: 1rem;
-  font-weight: 600;
-}
-
-.tool-card-subtitle {
-  margin-top: 4px;
-  color: var(--text-dim);
-  font-size: 0.84rem;
-  line-height: 1.45;
 }
 
 .tool-card-toolbar {
   display: grid;
-  gap: 14px;
+  gap: 10px;
   padding: 14px;
   border-radius: var(--radius-md);
   background: rgba(255, 255, 255, 0.04);
@@ -625,7 +611,6 @@ code {
 }
 
 .layer-selector-row,
-.layer-name-row,
 .tool-inline-group {
   display: flex;
   align-items: center;
@@ -641,19 +626,17 @@ code {
   display: flex;
   align-items: center;
   gap: 8px;
-  padding: 8px;
+  padding: 6px;
   border-radius: 14px;
-  background: rgba(255, 255, 255, 0.03);
-  border: 1px solid rgba(255, 255, 255, 0.06);
+  background: rgba(255, 255, 255, 0.02);
 }
 
 .layer-row.is-active {
-  border-color: rgba(99, 216, 234, 0.28);
-  background: rgba(99, 216, 234, 0.08);
+  background: rgba(255, 255, 255, 0.05);
 }
 
 .layer-row.is-canon {
-  border-style: dashed;
+  opacity: 0.96;
 }
 
 .layer-visibility-button {
@@ -693,12 +676,12 @@ code {
   min-width: 0;
   display: inline-flex;
   align-items: center;
-  gap: 10px;
+  justify-content: flex-start;
   padding: 10px 12px;
   border-radius: 12px;
-  border: 1px solid rgba(255, 255, 255, 0.08);
-  background: rgba(255, 255, 255, 0.02);
-  color: var(--text);
+  border: 0;
+  background: var(--layer-color-soft, rgba(255, 255, 255, 0.08));
+  color: var(--layer-text, var(--text));
   text-align: left;
   cursor: pointer;
 }
@@ -707,17 +690,15 @@ code {
   cursor: default;
 }
 
-.layer-color-swatch {
-  width: 12px;
-  height: 12px;
-  border-radius: 999px;
-  background: var(--layer-color, var(--accent-cool));
-  box-shadow: 0 0 0 3px rgba(255, 255, 255, 0.06);
-  flex: 0 0 auto;
+.layer-row.is-active .layer-select-button {
+  box-shadow:
+    inset 0 0 0 2px rgba(255, 255, 255, 0.72),
+    0 10px 24px rgba(0, 0, 0, 0.18);
 }
 
-.layer-color-swatch.is-canon {
-  background: linear-gradient(135deg, #eef6ff, #96acc0);
+.layer-select-button.is-canon {
+  background: linear-gradient(135deg, rgba(238, 246, 255, 0.18), rgba(150, 172, 192, 0.28));
+  color: var(--text);
 }
 
 .layer-name {
@@ -725,10 +706,10 @@ code {
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
+  font-weight: 600;
 }
 
 .layer-selector-row select,
-.layer-name-row input,
 .tool-inline-group input {
   min-width: 0;
   flex: 1 1 auto;
@@ -747,6 +728,99 @@ code {
   outline: none;
   border-color: rgba(99, 216, 234, 0.5);
   box-shadow: 0 0 0 4px rgba(99, 216, 234, 0.12);
+}
+
+.toolbar-bookmarks-panel {
+  right: 0;
+  min-width: min(360px, calc(100vw - 32px));
+  max-width: min(400px, calc(100vw - 32px));
+}
+
+.toolbar-bookmark-list {
+  display: grid;
+  gap: 8px;
+  max-height: min(52vh, 420px);
+  overflow: auto;
+}
+
+.toolbar-bookmark-item {
+  display: flex;
+  align-items: stretch;
+  gap: 8px;
+}
+
+.toolbar-bookmark-item.is-current .toolbar-bookmark-open {
+  border-color: rgba(255, 212, 107, 0.3);
+  background: rgba(255, 212, 107, 0.1);
+}
+
+.toolbar-bookmark-open {
+  flex: 1 1 auto;
+  min-width: 0;
+  padding: 10px 12px;
+  border-radius: 12px;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  background: rgba(255, 255, 255, 0.04);
+  color: var(--text);
+  text-align: left;
+  cursor: pointer;
+}
+
+.toolbar-bookmark-open strong,
+.toolbar-bookmark-open small {
+  display: block;
+}
+
+.toolbar-bookmark-open small {
+  margin-top: 4px;
+  color: var(--text-dim);
+}
+
+.toolbar-bookmark-open:hover,
+.toolbar-bookmark-remove:hover {
+  background: rgba(99, 216, 234, 0.12);
+  border-color: rgba(99, 216, 234, 0.28);
+}
+
+.toolbar-bookmark-remove {
+  width: 40px;
+  flex: 0 0 auto;
+  border-radius: 12px;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  background: rgba(255, 255, 255, 0.04);
+  color: var(--text-dim);
+  cursor: pointer;
+  font-size: 1rem;
+}
+
+.layer-context-menu {
+  position: absolute;
+  z-index: 30;
+  min-width: 168px;
+  padding: 8px;
+  border-radius: 14px;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  background: rgba(10, 24, 38, 0.98);
+  box-shadow: 0 18px 40px rgba(0, 0, 0, 0.32);
+}
+
+.layer-context-menu[hidden] {
+  display: none;
+}
+
+.layer-context-menu button {
+  width: 100%;
+  padding: 10px 12px;
+  border: 0;
+  border-radius: 10px;
+  background: transparent;
+  color: var(--text);
+  text-align: left;
+  cursor: pointer;
+}
+
+.layer-context-menu button:hover {
+  background: rgba(99, 216, 234, 0.12);
 }
 
 .tool-divider {

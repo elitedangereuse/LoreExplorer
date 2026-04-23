@@ -17,12 +17,12 @@ const toolbarDuplicateLayerButton = document.getElementById("toolbar-duplicate-l
 const toolbarDeleteLayerButton = document.getElementById("toolbar-delete-layer-button");
 const toolbarExportLayerButton = document.getElementById("toolbar-export-layer-button");
 const toolbarImportLayerButton = document.getElementById("toolbar-import-layer-button");
-const toolbarSaveFilterButton = document.getElementById("toolbar-save-filter-button");
-const toolbarSavePathButton = document.getElementById("toolbar-save-path-button");
 const toolbarInspectButton = document.getElementById("toolbar-inspect-button");
 const toolbarLocalGraphButton = document.getElementById("toolbar-local-graph-button");
 const toolbarExpandButton = document.getElementById("toolbar-expand-button");
 const toolbarBookmarkButton = document.getElementById("toolbar-bookmark-button");
+const toolbarBookmarksButton = document.getElementById("toolbar-bookmarks-button");
+const toolbarBookmarksPanel = document.getElementById("toolbar-bookmarks-panel");
 const toolbarOptionsButton = document.getElementById("toolbar-options-button");
 const toolbarOptionsPanel = document.getElementById("toolbar-options-panel");
 const colorModeSelect = document.getElementById("color-mode");
@@ -39,6 +39,8 @@ const contextInspectNodeButton = document.getElementById("context-inspect-node")
 const contextOpenLocalGraphButton = document.getElementById("context-open-local-graph");
 const contextExpandNodeButton = document.getElementById("context-expand-node");
 const contextToggleBookmarkButton = document.getElementById("context-toggle-bookmark");
+const layerContextMenu = document.getElementById("layer-context-menu");
+const contextRenameLayerButton = document.getElementById("context-rename-layer");
 const appTooltip = document.getElementById("app-tooltip");
 const appScript = document.querySelector('script[src$="app.js"]');
 const siteBaseUrl = new URL(".", appScript?.src || window.location.href);
@@ -109,12 +111,14 @@ const state = {
   pathFocus: false,
   toolStatusMessage: "",
   optionsPanelOpen: false,
+  bookmarksPanelOpen: false,
   noteLinkPickerNodeId: null,
   noteLinkQuery: "",
   noteLinkSelectionText: "",
   noteCursorNodeId: null,
   noteCursorStart: 0,
   noteCursorEnd: 0,
+  layerContextMenu: { open: false, layerId: null },
   tooltip: { sourceType: null, sourceKey: null },
 };
 
@@ -444,7 +448,6 @@ function sanitizeLayer(raw, index = 0) {
 }
 
 function applyLayerToState(layer) {
-  state.bookmarkedNodeIds = layer.bookmarks.slice();
   state.investigationNotes = layer.notes;
   state.savedPaths = layer.savedPaths.map((path) => ({ ...path, nodeIds: path.nodeIds.slice() }));
   state.savedFilters = layer.savedFilters.map((filter) => ({ ...filter }));
@@ -779,6 +782,7 @@ function saveInvestigationState({ syncLayer = true } = {}) {
       schemaVersion: INVESTIGATION_SCHEMA_VERSION,
       canonLayerVisible: state.canonLayerVisible,
       detectiveMode: state.detectiveMode,
+      bookmarks: state.bookmarkedNodeIds,
       activeLayerId: state.activeLayerId,
       layers: state.investigationLayers,
     }),
@@ -800,6 +804,11 @@ function loadInvestigationState() {
     state.detectiveMode = Boolean(parsed.detectiveMode);
     state.investigationLayers = (Array.isArray(parsed.layers) ? parsed.layers : [])
       .map((layer, index) => sanitizeLayer(layer, index));
+    state.bookmarkedNodeIds = sanitizeStringList(
+      Array.isArray(parsed.bookmarks)
+        ? parsed.bookmarks
+        : state.investigationLayers.flatMap((layer) => layer.bookmarks || []),
+    );
     ensureInvestigationLayers();
     const preferredLayerId = typeof parsed.activeLayerId === "string" ? parsed.activeLayerId : state.investigationLayers[0]?.id;
     state.activeLayerId = state.investigationLayers.some((layer) => layer.id === preferredLayerId)
@@ -809,6 +818,7 @@ function loadInvestigationState() {
   } catch {
     state.canonLayerVisible = true;
     state.detectiveMode = false;
+    state.bookmarkedNodeIds = [];
     state.investigationLayers = [];
     state.activeLayerId = null;
     ensureInvestigationLayers();
@@ -847,6 +857,7 @@ function setActiveLayer(layerId, { shouldRender = true, shouldFit = false } = {}
 
 function validateInvestigationLayersAgainstGraph() {
   const validNodeIds = getKnownNodeIds();
+  state.bookmarkedNodeIds = state.bookmarkedNodeIds.filter((nodeId) => validNodeIds.has(nodeId));
   state.investigationLayers = state.investigationLayers.map((layer, index) => {
     const nextLayer = sanitizeLayer(layer, index);
     nextLayer.bookmarks = nextLayer.bookmarks.filter((nodeId) => validNodeIds.has(nodeId));
@@ -1407,7 +1418,7 @@ function clearSearch() {
 
 function updateStatus() {
   if (!state.graphRootNodeId) {
-    const bookmarkLabel = state.detectiveMode && state.bookmarkedNodeIds.length
+    const bookmarkLabel = state.bookmarkedNodeIds.length
       ? ` · ${state.bookmarkedNodeIds.length} bookmarks`
       : "";
     graphStatus.textContent = `Choose a tag or search for a node to begin.${bookmarkLabel}`;
@@ -1785,6 +1796,9 @@ function render() {
     if (state.expandedNodeIds.has(node.id)) {
       strokeNodeOutline(shape, point.x, point.y, radius + 3, "#4dd0e1", 1.5, 0.95);
     }
+    if (isBookmarked(node.id)) {
+      strokeNodeOutline(shape, point.x, point.y, radius + 4.5, "rgba(255, 212, 107, 0.92)", 1.8, 0.92);
+    }
     if (state.detectiveMode && layerOverlayData.bookmarkColorsByNodeId.has(node.id)) {
       const bookmarkColors = layerOverlayData.bookmarkColorsByNodeId.get(node.id);
       bookmarkColors.slice(0, 2).forEach((color, index) => {
@@ -1806,6 +1820,7 @@ function render() {
   context.restore();
   updateStatus();
   renderGraphFilterToolbar();
+  renderBookmarksPanel();
   updateDetectiveToolbarActions();
   updateToolbarNodeActions();
   if (state.tooltip.sourceType === "node") {
@@ -1852,6 +1867,34 @@ function iconMarkup(name) {
 
 function colorForLayer(index) {
   return LAYER_COLOR_PALETTE[index % LAYER_COLOR_PALETTE.length];
+}
+
+function rgbaFromHex(hex, alpha = 1) {
+  const normalized = typeof hex === "string" ? hex.trim().replace(/^#/, "") : "";
+  const expanded = normalized.length === 3
+    ? normalized.split("").map((part) => `${part}${part}`).join("")
+    : normalized;
+  if (!/^[0-9a-f]{6}$/i.test(expanded)) {
+    return `rgba(99, 216, 234, ${alpha})`;
+  }
+  const channels = expanded.match(/\w\w/g).map((part) => Number.parseInt(part, 16));
+  return `rgba(${channels[0]}, ${channels[1]}, ${channels[2]}, ${alpha})`;
+}
+
+function textColorForHex(hex) {
+  const normalized = typeof hex === "string" ? hex.trim().replace(/^#/, "") : "";
+  const expanded = normalized.length === 3
+    ? normalized.split("").map((part) => `${part}${part}`).join("")
+    : normalized;
+  if (!/^[0-9a-f]{6}$/i.test(expanded)) {
+    return "#08111b";
+  }
+  const [red, green, blue] = expanded.match(/\w\w/g).map((part) => Number.parseInt(part, 16) / 255);
+  const linear = [red, green, blue].map((channel) => (
+    channel <= 0.03928 ? (channel / 12.92) : Math.pow((channel + 0.055) / 1.055, 2.4)
+  ));
+  const luminance = (0.2126 * linear[0]) + (0.7152 * linear[1]) + (0.0722 * linear[2]);
+  return luminance > 0.58 ? "#08111b" : "#f4fbff";
 }
 
 function compactNodeList(nodeIds) {
@@ -2121,9 +2164,6 @@ function toggleBookmark(nodeId) {
     }
   } else {
     state.bookmarkedNodeIds = [...state.bookmarkedNodeIds, nodeId];
-    if (!state.pathTargetNodeId) {
-      state.pathTargetNodeId = nodeId;
-    }
   }
   saveInvestigationState();
   renderInvestigatorTools();
@@ -2394,9 +2434,12 @@ function deleteActiveLayer() {
   setToolStatusMessage(previousLayer ? `Deleted layer: ${previousLayer.name}` : "Deleted layer.");
 }
 
-function renameActiveLayer(name) {
-  const activeLayer = getActiveLayer();
-  if (!activeLayer) {
+function renameLayer(layerId, name) {
+  if (!layerId) {
+    return;
+  }
+  const targetLayer = state.investigationLayers.find((layer) => layer.id === layerId);
+  if (!targetLayer) {
     return;
   }
   const trimmedName = name.trim();
@@ -2405,12 +2448,32 @@ function renameActiveLayer(name) {
     return;
   }
   state.investigationLayers = state.investigationLayers.map((layer) => (
-    layer.id === state.activeLayerId
+    layer.id === layerId
       ? { ...layer, name: trimmedName, updatedAt: timestamp() }
       : layer
   ));
   saveInvestigationState({ syncLayer: false });
   renderInvestigatorTools();
+}
+
+function promptRenameLayer(layerId) {
+  const targetLayer = state.investigationLayers.find((layer) => layer.id === layerId);
+  if (!targetLayer) {
+    return;
+  }
+  const nextName = window.prompt("Rename layer", targetLayer.name);
+  if (typeof nextName !== "string") {
+    return;
+  }
+  renameLayer(layerId, nextName);
+}
+
+function renameActiveLayer(name) {
+  const activeLayer = getActiveLayer();
+  if (!activeLayer) {
+    return;
+  }
+  renameLayer(activeLayer.id, name);
 }
 
 function downloadFile(filename, content, mimeType) {
@@ -2537,33 +2600,12 @@ function renderInvestigatorTools() {
   }
 
   investigatorTools.hidden = false;
-  const currentId = currentNodeId();
-  const currentNode = currentId ? state.nodeById.get(currentId) : null;
-  const bookmarkedNodes = getBookmarkedNodes();
-  const availableTargets = bookmarkedNodes.filter((node) => node.id !== currentId);
-  const targetNode = state.pathTargetNodeId ? state.nodeById.get(state.pathTargetNodeId) : null;
-  const sharedNeighbors = (currentId && targetNode) ? getSharedNeighbors(currentId, targetNode.id).slice(0, 10) : [];
-  const pathNodeIds = state.activePathNodeIds;
-  const hasPath = pathNodeIds.length > 1;
-  const pathNodes = compactNodeList(pathNodeIds);
   const renderableLayers = getRenderableLayers();
   const orderedLayers = [...renderableLayers].reverse();
-  const pathSummary = hasPath
-    ? `${pathNodes.length} nodes · ${pathNodes.length - 1} hops`
-    : (targetNode && currentId && targetNode.id !== currentId ? "No directed reference chain traced yet." : "Bookmark canon nodes to build a shareable investigation layer.");
 
   investigatorTools.innerHTML = `
     <div class="tool-card">
       <div class="tool-card-toolbar">
-        <div class="tool-card-header">
-          <div>
-            <div class="tool-card-title">Layers</div>
-            <div class="tool-card-subtitle">${
-              currentNode ? `Canon focus: ${escapeHtml(currentNode.title)}` : "The base graph remains canon. Everything here belongs to the active investigation layer."
-            }</div>
-          </div>
-        </div>
-
         <div class="layer-stack" role="list" aria-label="Layer stack">
           ${orderedLayers.map((layer) => `
             <div class="layer-row ${layer.id === state.activeLayerId ? "is-active" : ""}" role="listitem">
@@ -2587,9 +2629,15 @@ function renderInvestigatorTools() {
                 type="button"
                 class="layer-select-button"
                 data-select-layer="${layer.id}"
+                data-layer-name="${escapeHtml(layer.name)}"
                 aria-label="Select ${escapeHtml(layer.name)}"
+                data-tooltip="Double-click or right-click to rename ${escapeHtml(layer.name)}"
+                style="
+                  --layer-color: ${escapeHtml(layer.color)};
+                  --layer-color-soft: ${escapeHtml(rgbaFromHex(layer.color, layer.id === state.activeLayerId ? 0.84 : 0.58))};
+                  --layer-text: ${escapeHtml(textColorForHex(layer.color))};
+                "
               >
-                <span class="layer-color-swatch" style="--layer-color: ${escapeHtml(layer.color)}"></span>
                 <span class="layer-name">${escapeHtml(layer.name)}</span>
               </button>
             </div>
@@ -2611,129 +2659,12 @@ function renderInvestigatorTools() {
                   </span>`
                 : ""
             }</button>
-            <div class="layer-select-button is-static" aria-label="Canon Lore layer">
-              <span class="layer-color-swatch is-canon"></span>
+            <div class="layer-select-button is-static is-canon" aria-label="Canon Lore layer">
               <span class="layer-name">Canon Lore</span>
             </div>
           </div>
         </div>
-
-        <div class="layer-name-row">
-          <input
-            id="layer-name-input"
-            class="layer-name-input"
-            type="text"
-            value="${escapeHtml(activeLayer.name)}"
-            placeholder="Layer name"
-            aria-label="Rename active layer"
-          />
-        </div>
       </div>
-
-      <div class="tool-block">
-        <span class="meta-label">Bookmarks</span>
-        <div class="bookmark-list">
-          ${
-            bookmarkedNodes.length
-              ? bookmarkedNodes.map((node) => `
-                <div class="bookmark-item ${node.id === currentId ? "is-current" : ""}">
-                  <button type="button" class="bookmark-open" data-open-bookmark="${node.id}">
-                    <strong>${escapeHtml(node.title)}</strong>
-                    <small>${escapeHtml(node.group || "node")}</small>
-                  </button>
-                  <div class="bookmark-actions">
-                    <button
-                      type="button"
-                      class="mini-button ${state.pathTargetNodeId === node.id ? "is-active" : ""}"
-                      data-set-path-target="${node.id}"
-                    >Target</button>
-                    <button type="button" class="mini-button" data-remove-bookmark="${node.id}">Remove</button>
-                  </div>
-                </div>
-              `).join("")
-              : '<div class="tool-empty">Bookmark suspects, systems, factions or events to keep them inside this layer.</div>'
-          }
-        </div>
-      </div>
-
-      <div class="tool-block">
-        <span class="meta-label">Connection Finder</span>
-        <div class="path-controls">
-          <select id="path-target-select" class="toolbar-select" ${availableTargets.length ? "" : "disabled"}>
-            <option value="">Choose a bookmarked node…</option>
-            ${
-              availableTargets.map((node) => `
-                <option value="${node.id}" ${state.pathTargetNodeId === node.id ? "selected" : ""}>${escapeHtml(node.title)}</option>
-              `).join("")
-            }
-          </select>
-          <button
-            type="button"
-            class="tool-action-button"
-            data-trace-path="true"
-            ${currentNode && availableTargets.length ? "" : "disabled"}
-          >Trace Directed Path</button>
-          <button
-            type="button"
-            class="tool-action-button"
-            data-clear-path="true"
-            ${state.activePathNodeIds.length ? "" : "disabled"}
-          >Clear</button>
-        </div>
-        <label class="path-focus-toggle">
-          <input
-            id="path-focus-toggle"
-            type="checkbox"
-            ${state.pathFocus && state.activePathNodeIds.length ? "checked" : ""}
-            ${state.activePathNodeIds.length ? "" : "disabled"}
-          />
-          Show path only
-        </label>
-        <div class="path-summary">${escapeHtml(pathSummary)}</div>
-        ${
-          pathNodes.length
-            ? `<div class="path-node-list">${
-              pathNodes.map((node, index) => `
-                <button type="button" class="path-node-chip" data-open-bookmark="${node.id}">${escapeHtml(node.title)}</button>
-                ${index < pathNodes.length - 1 ? '<span class="path-separator">→</span>' : ""}
-              `).join("")
-            }</div>`
-            : ""
-        }
-        ${
-          sharedNeighbors.length
-            ? `<div class="shared-neighbors">
-                <div class="shared-neighbors-label">Shared outgoing references</div>
-                <div class="shared-neighbor-list">${
-                  sharedNeighbors.map((node) => `
-                    <button type="button" class="tag tag-button" data-open-bookmark="${node.id}">${escapeHtml(node.title)}</button>
-                  `).join("")
-                }</div>
-              </div>`
-            : ""
-        }
-      </div>
-
-      <div class="tool-block">
-        <span class="meta-label">Saved Paths</span>
-        <div class="saved-item-list">${renderSavedPaths(pathNodeIds)}</div>
-      </div>
-
-      <div class="tool-block">
-        <span class="meta-label">Saved Filters</span>
-        <div class="saved-item-list">${renderSavedFilters()}</div>
-      </div>
-
-      <div class="tool-block">
-        <span class="meta-label">Case Notes</span>
-        <textarea
-          id="investigation-notes"
-          class="investigation-notes"
-          placeholder="Capture leads, contradictions, motives, timelines, missing links…"
-        >${escapeHtml(state.investigationNotes)}</textarea>
-      </div>
-
-      <div class="tool-status">${escapeHtml(state.toolStatusMessage)}</div>
     </div>
   `;
   updateDetectiveToolbarActions();
@@ -3460,13 +3391,88 @@ function updateOptionsPanel() {
 
 function setOptionsPanelOpen(open) {
   state.optionsPanelOpen = open;
+  if (open) {
+    state.bookmarksPanelOpen = false;
+  }
   updateOptionsPanel();
+  renderBookmarksPanel();
+}
+
+function renderBookmarksPanel() {
+  const bookmarkedNodes = getBookmarkedNodes();
+  toolbarBookmarksPanel.innerHTML = bookmarkedNodes.length
+    ? `
+      <div class="toolbar-popover-section">
+        <div class="toolbar-popover-heading">Bookmarks</div>
+        <div class="toolbar-bookmark-list">
+          ${bookmarkedNodes.map((node) => `
+            <div class="toolbar-bookmark-item ${node.id === currentNodeId() ? "is-current" : ""}">
+              <button type="button" class="toolbar-bookmark-open" data-open-bookmark="${node.id}">
+                <strong>${escapeHtml(node.title)}</strong>
+                <small>${escapeHtml(node.group || "node")}</small>
+              </button>
+              <button
+                type="button"
+                class="toolbar-bookmark-remove"
+                data-remove-bookmark="${node.id}"
+                aria-label="Remove ${escapeHtml(node.title)} from bookmarks"
+              >×</button>
+            </div>
+          `).join("")}
+        </div>
+      </div>
+    `
+    : `
+      <div class="toolbar-popover-section">
+        <div class="toolbar-popover-heading">Bookmarks</div>
+        <div class="tool-empty">Bookmark nodes from the graph toolbar or node context menu.</div>
+      </div>
+    `;
+  toolbarBookmarksPanel.hidden = !state.bookmarksPanelOpen;
+  toolbarBookmarksButton.classList.toggle("is-active", state.bookmarksPanelOpen);
+  toolbarBookmarksButton.setAttribute("aria-expanded", String(state.bookmarksPanelOpen));
+  toolbarBookmarksButton.dataset.tooltip = bookmarkedNodes.length
+    ? `Open bookmarks (${bookmarkedNodes.length})`
+    : "Open bookmarks";
+}
+
+function setBookmarksPanelOpen(open) {
+  state.bookmarksPanelOpen = open;
+  if (open) {
+    state.optionsPanelOpen = false;
+  }
+  updateOptionsPanel();
+  renderBookmarksPanel();
+}
+
+function hideLayerContextMenu() {
+  state.layerContextMenu = { open: false, layerId: null };
+  layerContextMenu.hidden = true;
+}
+
+function showLayerContextMenu(clientX, clientY, layerId) {
+  if (!layerId) {
+    return;
+  }
+  const rect = detectivePanel.getBoundingClientRect();
+  const menuWidth = 168;
+  const menuHeight = 48;
+  const left = Math.min(
+    Math.max(8, clientX - rect.left),
+    Math.max(8, rect.width - menuWidth - 8),
+  );
+  const top = Math.min(
+    Math.max(8, clientY - rect.top),
+    Math.max(8, rect.height - menuHeight - 8),
+  );
+  state.layerContextMenu = { open: true, layerId };
+  layerContextMenu.style.left = `${left}px`;
+  layerContextMenu.style.top = `${top}px`;
+  layerContextMenu.hidden = false;
 }
 
 function updateDetectiveToolbarActions() {
   const activeLayer = getActiveLayer();
-  const hasFilterToSave = Boolean(state.searchQuery.trim() || state.activeTagFilter);
-  const hasPath = state.activePathNodeIds.length > 1;
   toolbarDetectiveActions.hidden = !state.detectiveMode;
 
   setToolbarButtonState(toolbarCreateLayerButton, {
@@ -3498,16 +3504,6 @@ function updateDetectiveToolbarActions() {
     disabled: !state.detectiveMode,
     title: "Import layer",
     label: "Import layer",
-  });
-  setToolbarButtonState(toolbarSaveFilterButton, {
-    disabled: !state.detectiveMode || !hasFilterToSave,
-    title: "Save current filter",
-    label: "Save current filter",
-  });
-  setToolbarButtonState(toolbarSavePathButton, {
-    disabled: !state.detectiveMode || !hasPath,
-    title: "Record current path",
-    label: "Record current path",
   });
 }
 
@@ -3541,19 +3537,23 @@ function updateToolbarNodeActions() {
   });
 
   setToolbarButtonState(toolbarBookmarkButton, {
-    disabled: !state.detectiveMode || !targetNodeId,
-    active: Boolean(state.detectiveMode && targetNodeId && isBookmarked(targetNodeId)),
-    label: `${
-      state.detectiveMode && targetNodeId && isBookmarked(targetNodeId)
-        ? `Remove bookmark from ${targetTitle}`
-        : `Bookmark ${targetTitle}`
-    }`,
-    title: !state.detectiveMode
-      ? "Bookmark node"
-      : (targetNodeId
-        ? (isBookmarked(targetNodeId) ? `Remove bookmark from ${targetTitle}` : `Bookmark ${targetTitle}`)
-        : "Bookmark node"),
+    disabled: !targetNodeId,
+    active: Boolean(targetNodeId && isBookmarked(targetNodeId)),
+    label: targetNodeId && isBookmarked(targetNodeId)
+      ? `Remove bookmark from ${targetTitle}`
+      : `Bookmark ${targetTitle}`,
+    title: targetNodeId
+      ? (isBookmarked(targetNodeId) ? `Remove bookmark from ${targetTitle}` : `Bookmark ${targetTitle}`)
+      : "Bookmark node",
   });
+
+  setToolbarButtonState(toolbarBookmarksButton, {
+    disabled: false,
+    active: state.bookmarksPanelOpen,
+    label: state.bookmarkedNodeIds.length ? `Open bookmarks (${state.bookmarkedNodeIds.length})` : "Open bookmarks",
+    title: state.bookmarkedNodeIds.length ? `Open bookmarks (${state.bookmarkedNodeIds.length})` : "Open bookmarks",
+  });
+  toolbarBookmarksButton.setAttribute("aria-expanded", String(state.bookmarksPanelOpen));
 }
 
 function updateDetectiveButton() {
@@ -3562,6 +3562,9 @@ function updateDetectiveButton() {
   appShell.classList.toggle("is-detective", state.detectiveMode);
   detectivePanel.hidden = !state.detectiveMode;
   detectivePanelResizer.hidden = !state.detectiveMode;
+  if (!state.detectiveMode) {
+    hideLayerContextMenu();
+  }
   updateDetectiveToolbarActions();
   updateToolbarNodeActions();
 }
@@ -3595,7 +3598,7 @@ function hideContextMenu() {
 function showContextMenu(clientX, clientY, nodeId) {
   const rect = graphStage.getBoundingClientRect();
   const menuWidth = 210;
-  const menuHeight = state.detectiveMode ? 140 : 108;
+  const menuHeight = 140;
   const left = Math.min(
     Math.max(8, clientX - rect.left),
     Math.max(8, rect.width - menuWidth - 8),
@@ -3616,7 +3619,6 @@ function showContextMenu(clientX, clientY, nodeId) {
     || nodeId === state.graphRootNodeId
     || state.expandedNodeIds.has(nodeId)
   );
-  contextToggleBookmarkButton.hidden = !state.detectiveMode;
   contextToggleBookmarkButton.textContent = isBookmarked(nodeId) ? "Remove Bookmark" : "Bookmark Node";
   graphContextMenu.hidden = false;
   updateToolbarNodeActions();
@@ -3988,6 +3990,8 @@ function bindEvents() {
   document.addEventListener("keydown", (event) => {
     if (event.key === "Escape") {
       hideContextMenu();
+      hideLayerContextMenu();
+      setBookmarksPanelOpen(false);
       setOptionsPanelOpen(false);
       hideTooltip();
     }
@@ -3995,8 +3999,33 @@ function bindEvents() {
   document.addEventListener("visibilitychange", () => {
     if (document.hidden) {
       hideContextMenu();
+      hideLayerContextMenu();
+      setBookmarksPanelOpen(false);
       setOptionsPanelOpen(false);
       hideTooltip();
+    }
+  });
+  document.addEventListener("pointerdown", (event) => {
+    if (
+      state.bookmarksPanelOpen
+      && !toolbarBookmarksPanel.contains(event.target)
+      && !toolbarBookmarksButton.contains(event.target)
+    ) {
+      setBookmarksPanelOpen(false);
+    }
+    if (
+      state.optionsPanelOpen
+      && !toolbarOptionsPanel.contains(event.target)
+      && !toolbarOptionsButton.contains(event.target)
+    ) {
+      setOptionsPanelOpen(false);
+    }
+    if (
+      state.layerContextMenu.open
+      && !layerContextMenu.contains(event.target)
+      && !event.target.closest("[data-select-layer]")
+    ) {
+      hideLayerContextMenu();
     }
   });
 
@@ -4014,8 +4043,6 @@ function bindEvents() {
     layerImportInput.value = "";
     layerImportInput.click();
   });
-  toolbarSaveFilterButton.addEventListener("click", () => saveCurrentFilter());
-  toolbarSavePathButton.addEventListener("click", () => saveCurrentPath());
   toolbarInspectButton.addEventListener("click", () => {
     const targetNodeId = getToolbarTargetNodeId();
     if (targetNodeId) {
@@ -4036,9 +4063,12 @@ function bindEvents() {
   });
   toolbarBookmarkButton.addEventListener("click", () => {
     const targetNodeId = getToolbarTargetNodeId();
-    if (state.detectiveMode && targetNodeId) {
+    if (targetNodeId) {
       toggleBookmark(targetNodeId);
     }
+  });
+  toolbarBookmarksButton.addEventListener("click", () => {
+    setBookmarksPanelOpen(!state.bookmarksPanelOpen);
   });
   toolbarOptionsButton.addEventListener("click", () => {
     setOptionsPanelOpen(!state.optionsPanelOpen);
@@ -4076,12 +4106,31 @@ function bindEvents() {
     toggleBookmark(state.contextMenu.nodeId);
     hideContextMenu();
   });
+  contextRenameLayerButton.addEventListener("click", () => {
+    const { layerId } = state.layerContextMenu;
+    hideLayerContextMenu();
+    if (layerId) {
+      promptRenameLayer(layerId);
+    }
+  });
   landingTagList.addEventListener("click", (event) => {
     const tagButton = event.target.closest("[data-landing-tag]");
     if (!tagButton) {
       return;
     }
     activateTag(tagButton.dataset.landingTag);
+  });
+  toolbarBookmarksPanel.addEventListener("click", (event) => {
+    const openBookmarkButton = event.target.closest("[data-open-bookmark]");
+    if (openBookmarkButton) {
+      selectNode(openBookmarkButton.dataset.openBookmark, true);
+      setBookmarksPanelOpen(false);
+      return;
+    }
+    const removeBookmarkButton = event.target.closest("[data-remove-bookmark]");
+    if (removeBookmarkButton) {
+      toggleBookmark(removeBookmarkButton.dataset.removeBookmark);
+    }
   });
 
   panelResizer.addEventListener("mousedown", (event) => {
@@ -4442,85 +4491,27 @@ function bindEvents() {
 
     const selectLayerButton = event.target.closest("[data-select-layer]");
     if (selectLayerButton) {
+      hideLayerContextMenu();
       setActiveLayer(selectLayerButton.dataset.selectLayer, { shouldRender: true, shouldFit: false });
-      return;
-    }
-
-    const openBookmarkButton = event.target.closest("[data-open-bookmark]");
-    if (openBookmarkButton) {
-      selectNode(openBookmarkButton.dataset.openBookmark, true);
-      return;
-    }
-
-    const removeBookmarkButton = event.target.closest("[data-remove-bookmark]");
-    if (removeBookmarkButton) {
-      toggleBookmark(removeBookmarkButton.dataset.removeBookmark);
-      return;
-    }
-
-    const setPathTargetButton = event.target.closest("[data-set-path-target]");
-    if (setPathTargetButton) {
-      state.pathTargetNodeId = setPathTargetButton.dataset.setPathTarget;
-      saveInvestigationState();
-      renderInvestigatorTools();
-      return;
-    }
-
-    if (event.target.closest("[data-trace-path]")) {
-      tracePathToTarget();
-      return;
-    }
-
-    if (event.target.closest("[data-clear-path]")) {
-      clearActivePath();
-      return;
-    }
-
-    const openPathButton = event.target.closest("[data-open-path]");
-    if (openPathButton) {
-      openSavedPath(openPathButton.dataset.openPath);
-      return;
-    }
-
-    const removePathButton = event.target.closest("[data-remove-path]");
-    if (removePathButton) {
-      removeSavedPath(removePathButton.dataset.removePath);
-      return;
-    }
-
-    const openFilterButton = event.target.closest("[data-open-filter]");
-    if (openFilterButton) {
-      applySavedFilter(openFilterButton.dataset.openFilter);
-      return;
-    }
-
-    const removeFilterButton = event.target.closest("[data-remove-filter]");
-    if (removeFilterButton) {
-      removeSavedFilter(removeFilterButton.dataset.removeFilter);
     }
   });
 
-  investigatorTools.addEventListener("change", (event) => {
-    if (event.target.id === "layer-name-input") {
-      renameActiveLayer(event.target.value);
+  investigatorTools.addEventListener("dblclick", (event) => {
+    const selectLayerButton = event.target.closest("[data-select-layer]");
+    if (!selectLayerButton) {
       return;
     }
-    if (event.target.id === "path-target-select") {
-      state.pathTargetNodeId = event.target.value || null;
-      saveInvestigationState();
-      renderInvestigatorTools();
-      return;
-    }
-    if (event.target.id === "path-focus-toggle") {
-      setPathFocus(event.target.checked);
-    }
+    event.preventDefault();
+    promptRenameLayer(selectLayerButton.dataset.selectLayer);
   });
 
-  investigatorTools.addEventListener("input", (event) => {
-    if (event.target.id === "investigation-notes") {
-      state.investigationNotes = event.target.value;
-      saveInvestigationState();
+  investigatorTools.addEventListener("contextmenu", (event) => {
+    const selectLayerButton = event.target.closest("[data-select-layer]");
+    if (!selectLayerButton) {
+      return;
     }
+    event.preventDefault();
+    showLayerContextMenu(event.clientX, event.clientY, selectLayerButton.dataset.selectLayer);
   });
 
   layerImportInput.addEventListener("change", async (event) => {
