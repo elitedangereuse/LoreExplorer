@@ -5,6 +5,7 @@ const searchInput = document.getElementById("search-input");
 const landingTagList = document.getElementById("landing-tag-list");
 const explorerShell = document.getElementById("explorer-shell");
 const panelResizer = document.getElementById("panel-resizer");
+const detectivePanelResizer = document.getElementById("detective-panel-resizer");
 const graphStatus = document.getElementById("graph-status");
 const fitButton = document.getElementById("fit-button");
 const resetButton = document.getElementById("reset-button");
@@ -65,6 +66,7 @@ const state = {
   animationFrameId: null,
   lastFrameAt: 0,
   panelWidth: 440,
+  detectivePanelWidth: 420,
   noteRequestToken: 0,
   bookmarkedNodeIds: [],
   investigationNotes: "",
@@ -99,7 +101,7 @@ function setActiveView(view) {
   appShell.classList.toggle("is-exploring", view === "explorer");
   if (view === "explorer") {
     requestAnimationFrame(() => {
-      applyPanelWidth(state.panelWidth);
+      applyPanelWidths(state.panelWidth, state.detectivePanelWidth, "note");
       resizeCanvas();
     });
   }
@@ -539,16 +541,47 @@ function showEmptyNoteState(message = "Select a node or search result to inspect
   renderInvestigatorTools();
 }
 
-function applyPanelWidth(width) {
+function applyPanelWidths(noteWidth = state.panelWidth, detectiveWidth = state.detectivePanelWidth, preferred = "note") {
   const shellWidth = explorerShell.getBoundingClientRect().width;
   if (!shellWidth) {
     return;
   }
-  const minWidth = 320;
-  const detectiveReserve = state.detectiveMode ? 320 : 0;
-  const maxWidth = Math.max(minWidth, shellWidth - 360 - detectiveReserve);
-  state.panelWidth = Math.max(minWidth, Math.min(maxWidth, width));
+  const minGraphWidth = 280;
+  const minNoteWidth = 320;
+  const minDetectiveWidth = 260;
+  const resizerWidth = 12;
+
+  if (!state.detectiveMode) {
+    const maxNoteWidth = Math.max(minNoteWidth, shellWidth - minGraphWidth - resizerWidth);
+    state.panelWidth = Math.max(minNoteWidth, Math.min(maxNoteWidth, noteWidth));
+    explorerShell.style.setProperty("--note-panel-width", `${state.panelWidth}px`);
+    explorerShell.style.setProperty("--detective-panel-width", `${state.detectivePanelWidth}px`);
+    return;
+  }
+
+  const maxCombinedWidth = Math.max(
+    minNoteWidth + minDetectiveWidth,
+    shellWidth - minGraphWidth - (resizerWidth * 2),
+  );
+
+  let nextNoteWidth = Math.max(minNoteWidth, Math.min(maxCombinedWidth - minDetectiveWidth, noteWidth));
+  let nextDetectiveWidth = Math.max(minDetectiveWidth, Math.min(maxCombinedWidth - minNoteWidth, detectiveWidth));
+
+  if (nextNoteWidth + nextDetectiveWidth > maxCombinedWidth) {
+    if (preferred === "detective") {
+      nextNoteWidth = Math.max(minNoteWidth, Math.min(maxCombinedWidth - minDetectiveWidth, maxCombinedWidth - nextDetectiveWidth));
+    } else {
+      nextDetectiveWidth = Math.max(
+        minDetectiveWidth,
+        Math.min(maxCombinedWidth - minNoteWidth, maxCombinedWidth - nextNoteWidth),
+      );
+    }
+  }
+
+  state.panelWidth = nextNoteWidth;
+  state.detectivePanelWidth = nextDetectiveWidth;
   explorerShell.style.setProperty("--note-panel-width", `${state.panelWidth}px`);
+  explorerShell.style.setProperty("--detective-panel-width", `${state.detectivePanelWidth}px`);
 }
 
 function renderLandingTags() {
@@ -1439,12 +1472,13 @@ function updateDetectiveButton() {
   detectiveButton.setAttribute("aria-pressed", String(state.detectiveMode));
   appShell.classList.toggle("is-detective", state.detectiveMode);
   detectivePanel.hidden = !state.detectiveMode;
+  detectivePanelResizer.hidden = !state.detectiveMode;
 }
 
 function setDetectiveMode(enabled, shouldFit = true) {
   state.detectiveMode = enabled;
   updateDetectiveButton();
-  applyPanelWidth(state.panelWidth);
+  applyPanelWidths(state.panelWidth, state.detectivePanelWidth, "detective");
   hideContextMenu();
   saveInvestigationState();
   renderInvestigatorTools();
@@ -2055,7 +2089,7 @@ function bindEvents() {
     const onMouseMove = (moveEvent) => {
       const delta = startX - moveEvent.clientX;
       const nextWidth = startWidth + delta;
-      applyPanelWidth(nextWidth);
+      applyPanelWidths(nextWidth, state.detectivePanelWidth, "note");
       resizeCanvas();
     };
 
@@ -2065,7 +2099,7 @@ function bindEvents() {
       window.removeEventListener("mouseup", onMouseUp);
     };
 
-    applyPanelWidth(Math.min(startWidth, shellRect.width - 360));
+    applyPanelWidths(Math.min(startWidth, shellRect.width - 280), state.detectivePanelWidth, "note");
     window.addEventListener("mousemove", onMouseMove);
     window.addEventListener("mouseup", onMouseUp);
   });
@@ -2076,7 +2110,45 @@ function bindEvents() {
     }
     event.preventDefault();
     const delta = event.key === "ArrowLeft" ? 24 : -24;
-    applyPanelWidth(state.panelWidth + delta);
+    applyPanelWidths(state.panelWidth + delta, state.detectivePanelWidth, "note");
+    resizeCanvas();
+  });
+
+  detectivePanelResizer.addEventListener("mousedown", (event) => {
+    if (window.innerWidth <= 920 || !state.detectiveMode) {
+      return;
+    }
+    event.preventDefault();
+    detectivePanelResizer.classList.add("is-dragging");
+    const shellRect = explorerShell.getBoundingClientRect();
+    const startX = event.clientX;
+    const startWidth = state.detectivePanelWidth;
+
+    const onMouseMove = (moveEvent) => {
+      const delta = startX - moveEvent.clientX;
+      const nextWidth = startWidth + delta;
+      applyPanelWidths(state.panelWidth, nextWidth, "detective");
+      resizeCanvas();
+    };
+
+    const onMouseUp = () => {
+      detectivePanelResizer.classList.remove("is-dragging");
+      window.removeEventListener("mousemove", onMouseMove);
+      window.removeEventListener("mouseup", onMouseUp);
+    };
+
+    applyPanelWidths(state.panelWidth, Math.min(startWidth, shellRect.width - 280), "detective");
+    window.addEventListener("mousemove", onMouseMove);
+    window.addEventListener("mouseup", onMouseUp);
+  });
+
+  detectivePanelResizer.addEventListener("keydown", (event) => {
+    if (event.key !== "ArrowLeft" && event.key !== "ArrowRight") {
+      return;
+    }
+    event.preventDefault();
+    const delta = event.key === "ArrowLeft" ? 24 : -24;
+    applyPanelWidths(state.panelWidth, state.detectivePanelWidth + delta, "detective");
     resizeCanvas();
   });
 
@@ -2376,7 +2448,7 @@ async function bootstrap() {
   }
   saveInvestigationState();
   updateDetectiveButton();
-  applyPanelWidth(state.panelWidth);
+  applyPanelWidths(state.panelWidth, state.detectivePanelWidth, "detective");
   colorModeSelect.value = state.colorMode;
   shapeModeSelect.value = state.shapeMode;
 
