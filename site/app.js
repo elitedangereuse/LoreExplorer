@@ -2600,11 +2600,25 @@ function renderInvestigatorTools() {
               }</button>
               <button
                 type="button"
+                class="layer-rename-button"
+                data-rename-layer="${layer.id}"
+                aria-label="Rename ${escapeHtml(layer.name)}"
+                data-tooltip="Rename ${escapeHtml(layer.name)}"
+              >
+                <span class="layer-rename-icon" aria-hidden="true">
+                  <svg viewBox="0 0 16 16" focusable="false">
+                    <path d="M11.8 1.8a1.5 1.5 0 0 1 2.1 2.1l-7.6 7.6-3 .8.8-3z"></path>
+                    <path d="M9.9 3.7 12.3 6.1"></path>
+                  </svg>
+                </span>
+              </button>
+              <button
+                type="button"
                 class="layer-select-button"
                 data-select-layer="${layer.id}"
                 data-layer-name="${escapeHtml(layer.name)}"
                 aria-label="Select ${escapeHtml(layer.name)}"
-                data-tooltip="Double-click or right-click to rename ${escapeHtml(layer.name)}"
+                data-tooltip="Select ${escapeHtml(layer.name)}"
                 style="
                   --layer-color: ${escapeHtml(layer.color)};
                   --layer-color-soft: ${escapeHtml(rgbaFromHex(layer.color, layer.id === state.activeLayerId ? 0.84 : 0.58))};
@@ -4570,15 +4584,12 @@ function bindEvents() {
       hideLayerContextMenu();
       setActiveLayer(selectLayerButton.dataset.selectLayer, { shouldRender: true, shouldFit: false });
     }
-  });
 
-  investigatorTools.addEventListener("dblclick", (event) => {
-    const selectLayerButton = event.target.closest("[data-select-layer]");
-    if (!selectLayerButton) {
-      return;
+    const renameLayerButton = event.target.closest("[data-rename-layer]");
+    if (renameLayerButton) {
+      hideLayerContextMenu();
+      promptRenameLayer(renameLayerButton.dataset.renameLayer);
     }
-    event.preventDefault();
-    promptRenameLayer(selectLayerButton.dataset.selectLayer);
   });
 
   investigatorTools.addEventListener("contextmenu", (event) => {
