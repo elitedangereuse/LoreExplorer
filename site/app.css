@@ -55,7 +55,7 @@ code {
 
 .explorer-shell {
   --note-panel-width: 420px;
-  --detective-panel-width: 320px;
+  --detective-panel-width: 420px;
   height: 100%;
   min-height: 0;
   display: grid;
@@ -81,6 +81,7 @@ code {
     minmax(0, 1fr)
     12px
     minmax(320px, var(--note-panel-width))
+    12px
     minmax(280px, var(--detective-panel-width));
 }
 
@@ -264,6 +265,7 @@ code {
   border-bottom-left-radius: 0;
 }
 
+.detective-panel-resizer[hidden],
 .detective-panel[hidden] {
   display: none;
 }
