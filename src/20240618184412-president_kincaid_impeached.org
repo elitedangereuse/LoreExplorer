@@ -2,7 +2,7 @@
 :ID:       d9457ebe-9937-4b06-b4ae-939cd3cb3319
 :END:
 #+title: President Kincaid Impeached
-#+filetags: :Alliance:galnet:
+#+filetags: :Alliance:3305:galnet:
 
 * President Kincaid Impeached
 

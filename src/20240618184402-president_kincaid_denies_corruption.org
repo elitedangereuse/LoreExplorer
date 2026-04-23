@@ -2,7 +2,7 @@
 :ID:       89ad8dea-170f-48b8-96a3-da2e9cd719ff
 :END:
 #+title: President Kincaid Denies Corruption
-#+filetags: :Alliance:galnet:
+#+filetags: :Alliance:3305:galnet:
 
 * President Kincaid Denies Corruption
 

@@ -2,7 +2,7 @@
 :ID:       05da80ab-6012-41aa-add4-5846ae8a938b
 :END:
 #+title: Titan Taranis destruction yields extensive data for research projects
-#+filetags: :Thargoid:galnet:
+#+filetags: :Thargoid:3310:galnet:
 
 * Titan Taranis destruction yields extensive data for research projects
 

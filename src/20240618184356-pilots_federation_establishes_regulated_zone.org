@@ -2,7 +2,7 @@
 :ID:       3d612921-919d-49af-ae60-c4b8d93a9ac8
 :END:
 #+title: Pilots’ Federation Establishes Regulated Zone
-#+filetags: :Federation:Empire:Alliance:Thargoid:galnet:
+#+filetags: :Federation:Empire:Alliance:Thargoid:3305:galnet:
 
 * Pilots’ Federation Establishes Regulated Zone
 

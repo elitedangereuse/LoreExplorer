@@ -2,7 +2,7 @@
 :ID:       544fc98e-73a7-48c7-8739-8fea376bf232
 :END:
 #+title: Year’s End Festivities in Reorte
-#+filetags: :Alliance:Thargoid:galnet:
+#+filetags: :Alliance:Thargoid:3305:galnet:
 
 * Year’s End Festivities in [[id:5292d8c1-fa6e-4352-a03f-ef984f706203][Reorte]]
 

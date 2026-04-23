@@ -2,7 +2,7 @@
 :ID:       7eb18cef-e9ca-4a9f-ac4c-ea0816977ff0
 :END:
 #+title: Vitadyne Nanomedicines Reach Galactic Market
-#+filetags: :galnet:
+#+filetags: :3306:3304:galnet:
 
 * Vitadyne Nanomedicines Reach Galactic Market
 

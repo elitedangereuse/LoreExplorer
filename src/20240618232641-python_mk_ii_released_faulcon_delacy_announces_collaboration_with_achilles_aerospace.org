@@ -2,7 +2,7 @@
 :ID:       df7d97aa-d575-4ea4-9e34-c20f6d977a9d
 :END:
 #+title: Python Mk II Released: Faulcon DeLacy announces collaboration with Achilles Aerospace
-#+filetags: :galnet:
+#+filetags: :3310:galnet:
 
 * Python Mk II Released: Faulcon DeLacy announces collaboration with Achilles Aerospace
 

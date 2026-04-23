@@ -2,7 +2,7 @@
 :ID:       701ff369-4602-43b0-a85c-56b2d3e31c85
 :END:
 #+title: Zende Partners Transport Service Operational
-#+filetags: :galnet:
+#+filetags: :3305:galnet:
 
 * Zende Partners Transport Service Operational
 

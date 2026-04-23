@@ -2,7 +2,7 @@
 :ID:       e917311b-f3c8-4e9d-9eb0-ff0727ba38e2
 :END:
 #+title: Repel Pirates and Provide Aid to De Caminha Station
-#+filetags: :Federation:Thargoid:galnet:
+#+filetags: :Federation:Thargoid:3310:galnet:
 
 * Repel Pirates and Provide Aid to De Caminha Station
 

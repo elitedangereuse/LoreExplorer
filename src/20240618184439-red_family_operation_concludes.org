@@ -2,7 +2,7 @@
 :ID:       7c3b8d89-efd5-4b4e-8e03-a6dc50bb9305
 :END:
 #+title: Red Family Operation Concludes
-#+filetags: :Federation:galnet:
+#+filetags: :Federation:3305:galnet:
 
 * [[id:792ffce8-85dc-4147-8ea3-8e5feb26ba94][Red Family]] Operation Concludes
 

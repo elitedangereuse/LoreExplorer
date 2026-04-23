@@ -3,7 +3,7 @@
 :ROAM_REFS: https://community.elitedangerous.com/galnet/17-MAR-3307
 :END:
 #+title: Anti-NMLA Intelligence Unit Formed
-#+filetags: :3307:Empire:Federation:Alliance:galnet:
+#+filetags: :3307:3304:Empire:Federation:Alliance:galnet:
 * Anti-NMLA Intelligence Unit Formed
 
 /17 Mar 3307/

@@ -2,7 +2,7 @@
 :ID:       462dfbee-c03d-439d-83a3-936179031d78
 :END:
 #+title: Powerplay Standings: November 3310
-#+filetags: :galnet:3310:
+#+filetags: :3310:galnet:
 * Powerplay Standings: November 3310
 
 /20 Nov 3310/

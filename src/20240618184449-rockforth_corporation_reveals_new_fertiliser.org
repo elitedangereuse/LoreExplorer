@@ -2,7 +2,7 @@
 :ID:       3d3be245-d00c-467b-bd90-e640ad7a12ec
 :END:
 #+title: Rockforth Corporation Reveals New Fertiliser
-#+filetags: :galnet:
+#+filetags: :3305:galnet:
 
 * Rockforth Corporation Reveals New Fertiliser
 

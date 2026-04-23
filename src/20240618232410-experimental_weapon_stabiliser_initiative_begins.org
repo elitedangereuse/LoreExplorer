@@ -2,7 +2,7 @@
 :ID:       1fd28e26-c373-4a03-857f-d0dc0931b09a
 :END:
 #+title: Experimental Weapon Stabiliser Initiative Begins
-#+filetags: :Federation:Thargoid:galnet:
+#+filetags: :Federation:Thargoid:3309:galnet:
 
 * Experimental Weapon Stabiliser Initiative Begins
 

@@ -2,7 +2,7 @@
 :ID:       1c60808f-c43f-4b90-af74-6c4d2dab9065
 :END:
 #+title: Thargoid War Bulletin: Titan Destroyed
-#+filetags: :Thargoid:galnet:
+#+filetags: :Thargoid:3310:galnet:
 
 * Thargoid War Bulletin: Titan Destroyed
 

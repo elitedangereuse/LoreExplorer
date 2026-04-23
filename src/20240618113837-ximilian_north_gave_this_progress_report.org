@@ -2,7 +2,7 @@
 :ID:       d72f51e6-9052-444b-befd-71110364aa54
 :END:
 #+title: ximilian North gave this progress report: 
-#+filetags: :Alliance:Thargoid:galnet:
+#+filetags: :Alliance:Thargoid:3306:galnet:
 
 * Coalsack Nebula Terraforming Project Stalls
 

@@ -2,7 +2,7 @@
 :ID:       dc33f56d-785a-4469-855e-f7346bba7750
 :END:
 #+title: Arrest Made in Starship One Criminal Case
-#+filetags: :3301:Federation:galnet:
+#+filetags: :3301:Federation:3306:galnet:
 
 * Arrest Made in [[id:85fdc9c8-500b-4e91-bc8b-70bcb3c05b0f][Starship One]] Criminal Case
 

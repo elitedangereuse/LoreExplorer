@@ -2,7 +2,7 @@
 :ID:       d6234afa-1fda-4cbb-b50f-36832b400346
 :END:
 #+title: Ground Troops Encounter Thargoid Drones
-#+filetags: :Thargoid:galnet:
+#+filetags: :Thargoid:3309:galnet:
 
 * Ground Troops Encounter Thargoid Drones
 

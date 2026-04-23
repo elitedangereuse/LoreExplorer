@@ -2,7 +2,7 @@
 :ID:       ed2b06d6-02fc-4ffb-a4d2-ade279556fb4
 :END:
 #+title: Thargoid War Update: July 3309
-#+filetags: :Thargoid:galnet:
+#+filetags: :Thargoid:3309:galnet:
 
 * Thargoid War Update: July 3309
 

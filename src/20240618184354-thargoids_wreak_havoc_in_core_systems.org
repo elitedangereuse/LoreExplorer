@@ -2,7 +2,7 @@
 :ID:       6c7b9336-0f34-4ee5-a761-8ea7c9a34887
 :END:
 #+title: Thargoids Wreak Havoc in Core Systems
-#+filetags: :Thargoid:galnet:
+#+filetags: :Thargoid:3305:galnet:
 
 * Thargoids Wreak Havoc in Core Systems
 

@@ -2,7 +2,7 @@
 :ID:       09e810cd-169c-44e1-8c34-fe7e2c21c511
 :END:
 #+title: Zorgon Peterson Event Reveals New Exploration Vessel
-#+filetags: :galnet:3310:
+#+filetags: :3310:galnet:
 * Zorgon Peterson Event Reveals New Exploration Vessel
 
 /15 Oct 3310/

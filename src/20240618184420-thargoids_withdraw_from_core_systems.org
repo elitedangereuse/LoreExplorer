@@ -2,7 +2,7 @@
 :ID:       2e3c5a02-ca02-40df-a5d8-7498069b8fc0
 :END:
 #+title: Thargoids Withdraw from Core Systems
-#+filetags: :Thargoid:galnet:
+#+filetags: :Thargoid:3305:galnet:
 
 * Thargoids Withdraw from Core Systems
 

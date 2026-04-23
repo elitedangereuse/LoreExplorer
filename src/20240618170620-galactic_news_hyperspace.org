@@ -2,7 +2,7 @@
 :ID:       50783384-dd24-4ae3-a6d4-7c63ca8b44c1
 :END:
 #+title: Galactic News: Hyperspace
-#+filetags: :3303:galnet:
+#+filetags: :3303:3290:galnet:
 
 * Galactic News: Hyperspace
 

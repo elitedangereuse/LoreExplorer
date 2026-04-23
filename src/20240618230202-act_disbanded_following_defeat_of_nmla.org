@@ -2,7 +2,7 @@
 :ID:       30ff513b-83de-428c-9232-2ad526c16b5f
 :END:
 #+title:  ACT Disbanded Following Defeat of NMLA
-#+filetags: :3308:Empire:Federation:Alliance:galnet:
+#+filetags: :3308:3307:Empire:Federation:Alliance:galnet:
 
 * [[id:a152bfb8-4b9a-4b61-a292-824ecbd263e1][ACT]] Disbanded Following Defeat of NMLA
 

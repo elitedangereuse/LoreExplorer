@@ -2,7 +2,7 @@
 :ID:       9852a866-8cb1-4712-8fe6-a98dbb15c951
 :END:
 #+title: Mining Initiative Begins in Kokoller
-#+filetags: :Federation:galnet:
+#+filetags: :Federation:3309:galnet:
 
 * Mining Initiative Begins in Kokoller
 

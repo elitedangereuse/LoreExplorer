@@ -2,7 +2,7 @@
 :ID:       ac7dded9-6b50-4f98-b041-e5a27fc14580
 :END:
 #+title: Hadrian Duval Seeks Reintegration with the Empire
-#+filetags: :Empire:galnet:
+#+filetags: :Empire:3306:3305:galnet:
 
 * [[id:c4f47591-9c52-441f-8853-536f577de922][Hadrian Duval]] Seeks Reintegration with the Empire
 

@@ -2,7 +2,7 @@
 :ID:       d95d4f49-2a50-4dcf-93a4-b873ff5e1649
 :END:
 #+title: First Captives Freed from Thargoid Titans
-#+filetags: :Thargoid:galnet:
+#+filetags: :Thargoid:3309:galnet:
 
 * First Captives Freed from Thargoid Titans
 

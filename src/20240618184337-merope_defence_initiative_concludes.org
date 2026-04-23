@@ -2,7 +2,7 @@
 :ID:       e781d853-38a3-4b4d-8915-d1d2af1f54d6
 :END:
 #+title: Merope Defence Initiative Concludes
-#+filetags: :Thargoid:galnet:
+#+filetags: :Thargoid:3305:galnet:
 
 * [[id:70fa34ea-bc98-40ff-97f0-e4f4538387a6][Merope]] Defence Initiative Concludes
 

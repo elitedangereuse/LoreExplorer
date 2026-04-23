@@ -2,7 +2,7 @@
 :ID:       df49d8fe-1744-4cc0-9e2f-7bc7c7c466ea
 :END:
 #+title: Holloway Biology Centre Opens
-#+filetags: :galnet:
+#+filetags: :3305:galnet:
 
 * Holloway Biology Centre Opens
 

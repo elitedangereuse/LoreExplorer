@@ -2,7 +2,7 @@
 :ID:       d4c293cd-b342-4493-b33d-554aca9ccb90
 :END:
 #+title: Nova Imperium Musters Military Forces
-#+filetags: :Empire:galnet:
+#+filetags: :Empire:3305:galnet:
 
 * Nova Imperium Musters Military Forces
 

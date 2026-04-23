@@ -2,7 +2,7 @@
 :ID:       112bde20-4fef-46cf-a813-b2fcb482eea7
 :END:
 #+title: Sirius Corporation Begins Analysing Wreckage
-#+filetags: :3301:galnet:
+#+filetags: :3301:3251:galnet:
 
 * [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]] Begins Analysing Wreckage
 

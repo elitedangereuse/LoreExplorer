@@ -2,7 +2,7 @@
 :ID:       1be8734f-adc9-4840-9a2c-770c810b3b5e
 :END:
 #+title: Thargoid War Bulletin: Oya Successfully Attacked
-#+filetags: :Thargoid:galnet:
+#+filetags: :Thargoid:3310:galnet:
 
 * Thargoid War Bulletin: Oya Successfully Attacked
 

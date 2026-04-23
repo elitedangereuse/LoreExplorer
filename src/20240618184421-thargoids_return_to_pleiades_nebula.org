@@ -2,7 +2,7 @@
 :ID:       0a7f6381-0bdf-472f-96ba-86637a1e82e6
 :END:
 #+title: Thargoids Return to Pleiades Nebula
-#+filetags: :Thargoid:galnet:
+#+filetags: :Thargoid:3305:galnet:
 
 * Thargoids Return to Pleiades Nebula
 

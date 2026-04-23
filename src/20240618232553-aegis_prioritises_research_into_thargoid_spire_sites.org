@@ -2,7 +2,7 @@
 :ID:       7ad46d5b-5682-4f4b-a84e-32824abb6076
 :END:
 #+title: Aegis Prioritises Research into Thargoid Spire Sites
-#+filetags: :Thargoid:galnet:
+#+filetags: :Thargoid:3309:galnet:
 
 * Aegis Prioritises Research into Thargoid Spire Sites
 

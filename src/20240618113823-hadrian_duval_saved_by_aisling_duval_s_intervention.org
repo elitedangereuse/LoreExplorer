@@ -2,7 +2,7 @@
 :ID:       dc8ef0fb-9b05-424d-a2df-4f5a8511f355
 :END:
 #+title: Hadrian Duval Saved by Aisling Duval’s Intervention
-#+filetags: :Empire:galnet:
+#+filetags: :Empire:3306:3305:galnet:
 
 * [[id:c4f47591-9c52-441f-8853-536f577de922][Hadrian Duval]] Saved by [[id:b402bbe3-5119-4d94-87ee-0ba279658383][Aisling Duval]]’s Intervention
 

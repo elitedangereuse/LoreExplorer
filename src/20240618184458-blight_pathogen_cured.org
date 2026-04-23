@@ -2,7 +2,7 @@
 :ID:       7bd3c0d9-0555-469e-bffe-5343303f3455
 :END:
 #+title: Blight Pathogen Cured
-#+filetags: :galnet:
+#+filetags: :3305:galnet:
 
 * [[id:1cffca4e-480b-46bf-b6c5-0af48c7292d3][Blight]] Pathogen Cured
 

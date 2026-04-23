@@ -2,7 +2,7 @@
 :ID:       50d3a9f5-0b05-440a-814d-d2a4a20b95b5
 :END:
 #+title: The Winking Cat’s Treasure Hunt
-#+filetags: :3307:Federation:galnet:
+#+filetags: :3307:3305:Federation:galnet:
 
 * The [[id:b9519a7c-f00b-4a57-9bcf-964258bdd2d8][Winking Cat]]’s Treasure Hunt
 

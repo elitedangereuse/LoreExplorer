@@ -2,7 +2,7 @@
 :ID:       b0e27f02-aaf9-4a82-87f2-40172f9795ee
 :END:
 #+title: Agricultural Industry Predicts Low Harvest
-#+filetags: :Alliance:galnet:
+#+filetags: :Alliance:3305:galnet:
 
 * Agricultural Industry Predicts Low Harvest
 

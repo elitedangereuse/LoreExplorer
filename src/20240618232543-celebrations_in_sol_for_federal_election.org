@@ -2,7 +2,7 @@
 :ID:       db9fbe51-81e7-44a1-8249-569867ba4229
 :END:
 #+title: Celebrations in Sol for Federal Election
-#+filetags: :Federation:Thargoid:galnet:
+#+filetags: :Federation:Thargoid:3309:galnet:
 
 * Celebrations in [[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]] for Federal Election
 

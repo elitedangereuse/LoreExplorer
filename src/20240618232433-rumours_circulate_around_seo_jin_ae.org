@@ -2,7 +2,7 @@
 :ID:       4e2ab42c-e747-4ef2-a693-4843425bac2c
 :END:
 #+title: Rumours Circulate Around Seo Jin-ae
-#+filetags: :Thargoid:galnet:
+#+filetags: :Thargoid:3309:galnet:
 
 * Rumours Circulate Around [[id:6bcd90ab-54f2-4d9a-9eeb-92815cc7766e][Seo Jin-ae]]
 

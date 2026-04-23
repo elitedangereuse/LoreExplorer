@@ -3,7 +3,7 @@
 :ROAM_REFS: https://cms.zaonce.net/en-GB/jsonapi/node/galnet_article/248e19d3-8339-49af-9bf0-451884559bf5?resourceVersion=id%3A4867
 :END:
 #+title: Investors Take Control of Lakon Spaceways
-#+filetags: :Federation:galnet:
+#+filetags: :Federation:3306:galnet:
 
 * Investors Take Control of [[id:906c77b7-7fe4-48c1-ace5-1265023c2ebf][Lakon Spaceways]]
 

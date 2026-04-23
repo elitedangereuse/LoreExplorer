@@ -2,7 +2,7 @@
 :ID:       1a9e1d2f-9812-4cac-a77b-71ad0ddcca5e
 :END:
 #+title: Superpowers Collaborate to Investigate Blight
-#+filetags: :galnet:
+#+filetags: :3305:galnet:
 
 * Superpowers Collaborate to Investigate [[id:1cffca4e-480b-46bf-b6c5-0af48c7292d3][Blight]]
 

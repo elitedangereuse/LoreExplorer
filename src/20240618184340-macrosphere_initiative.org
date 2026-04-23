@@ -2,7 +2,7 @@
 :ID:       7a7e3777-cfbe-4ef0-9b73-d8868bfb48ef
 :END:
 #+title: Macrosphere Initiative
-#+filetags: :galnet:
+#+filetags: :3305:galnet:
 
 * Macrosphere Initiative
 

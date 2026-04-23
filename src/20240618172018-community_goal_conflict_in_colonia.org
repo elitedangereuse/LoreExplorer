@@ -2,7 +2,7 @@
 :ID:       de81fe58-bccc-4d0e-8fb4-19dbfb83998f
 :END:
 #+title: Community Goal: Conflict in Colonia
-#+filetags: :CommunityGoal:3303:galnet:
+#+filetags: :CommunityGoal:3303:3302:galnet:
 
 * Community Goal: Conflict in [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]]
 

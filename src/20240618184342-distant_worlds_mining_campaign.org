@@ -2,7 +2,7 @@
 :ID:       b66d188f-c851-4e00-8a1c-a3eb872a1e3a
 :END:
 #+title: Distant Worlds Mining Campaign
-#+filetags: :galnet:
+#+filetags: :3305:galnet:
 
 * Distant Worlds Mining Campaign
 

@@ -2,7 +2,7 @@
 :ID:       dd4f3b22-68ec-4e84-8547-80bbd0e9d14d
 :END:
 #+title: Flashpoint for Nova Imperium
-#+filetags: :Empire:galnet:
+#+filetags: :Empire:3305:galnet:
 
 * Flashpoint for Nova Imperium
 

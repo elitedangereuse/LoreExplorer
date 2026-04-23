@@ -2,7 +2,7 @@
 :ID:       7272efb4-beca-4611-a9fa-925069395e60
 :END:
 #+title: Alliance President Role Abolished
-#+filetags: :Alliance:galnet:
+#+filetags: :Alliance:3305:galnet:
 
 * Alliance President Role Abolished
 

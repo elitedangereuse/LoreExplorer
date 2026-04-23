@@ -2,7 +2,7 @@
 :ID:       4772f941-824e-4e75-b11d-af1390984980
 :END:
 #+title: Kincaid Granted Command of Zaonce Fleet
-#+filetags: :Alliance:galnet:
+#+filetags: :Alliance:3305:galnet:
 
 * Kincaid Granted Command of [[id:4c65480c-a87b-421b-a91a-f1f1f8ecb737][Zaonce]] Fleet
 

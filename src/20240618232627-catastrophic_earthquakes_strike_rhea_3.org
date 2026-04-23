@@ -2,7 +2,7 @@
 :ID:       e46ace6c-f5c4-4074-8d97-3154f38afecf
 :END:
 #+title: Catastrophic Earthquakes Strike Rhea 3
-#+filetags: :Federation:galnet:
+#+filetags: :Federation:3310:galnet:
 
 * Catastrophic Earthquakes Strike [[id:6da9023a-ccb6-444a-be77-626dfb552eb1][Rhea]] 3
 

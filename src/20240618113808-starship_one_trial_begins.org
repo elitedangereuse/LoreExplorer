@@ -2,7 +2,7 @@
 :ID:       aed25b20-dafb-43c0-b6f0-9f5d93392d3a
 :END:
 #+title: Starship One Trial Begins
-#+filetags: :3301:Federation:galnet:
+#+filetags: :3301:Federation:3306:3251:galnet:
 
 * [[id:85fdc9c8-500b-4e91-bc8b-70bcb3c05b0f][Starship One]] Trial Begins
 

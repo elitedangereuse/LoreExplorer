@@ -2,7 +2,7 @@
 :ID:       8c3e13e8-a1b0-4ea6-9c3e-afe4e6ff807c
 :END:
 #+title: Imperial Crackdown on Marlinists
-#+filetags: :Empire:Thargoid:galnet:
+#+filetags: :Empire:Thargoid:3306:galnet:
 
 * Imperial Crackdown on Marlinists
 

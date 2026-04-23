@@ -2,7 +2,7 @@
 :ID:       3057d854-bc5f-49ca-879d-9d6922518d1b
 :END:
 #+title: Terrorist Hit Squad Targets Hadrian Duval
-#+filetags: :Empire:galnet:
+#+filetags: :Empire:3306:galnet:
 
 * Terrorist Hit Squad Targets [[id:c4f47591-9c52-441f-8853-536f577de922][Hadrian Duval]]
 

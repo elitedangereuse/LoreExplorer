@@ -2,7 +2,7 @@
 :ID:       93c6075a-b68c-4aef-8770-496d5062dab6
 :END:
 #+title: Congress Votes to Accept Marlinist Immigrants
-#+filetags: :Empire:Federation:galnet:
+#+filetags: :Empire:Federation:3306:galnet:
 
 * Congress Votes to Accept Marlinist Immigrants
 

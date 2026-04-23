@@ -2,7 +2,7 @@
 :ID:       ce34760b-4d50-411b-889d-7cc82c4dc561
 :END:
 #+title: Vodel Purchased by Core Dynamics
-#+filetags: :Federation:galnet:
+#+filetags: :Federation:3305:galnet:
 
 * Vodel Purchased by [[id:4a28463f-cbed-493b-9466-70cbc6e19662][Core Dynamics]]
 

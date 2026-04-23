@@ -2,7 +2,7 @@
 :ID:       2a4390c3-4771-4236-94c7-5079fd1bdcc3
 :END:
 #+title: Crashed Ship of Missing  ACT Agent Located
-#+filetags: :3307:Empire:Federation:galnet:
+#+filetags: :3307:3304:Empire:Federation:galnet:
 
 * Crashed Ship of Missing [[id:a152bfb8-4b9a-4b61-a292-824ecbd263e1][ACT]] Agent Located
 

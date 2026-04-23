@@ -2,7 +2,7 @@
 :ID:       3af7aba7-a4a8-4be5-a0aa-52b9ed61bdfa
 :END:
 #+title: Week in Review 19 Jan 3305
-#+filetags: :Empire:Thargoid:galnet:
+#+filetags: :Empire:Thargoid:3305:galnet:
 
 * Week in Review
 

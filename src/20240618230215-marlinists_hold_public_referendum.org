@@ -2,7 +2,7 @@
 :ID:       0f35e20a-6217-4036-93ac-c4496a9495f9
 :END:
 #+title: Marlinists Hold Public Referendum
-#+filetags: :3308:Empire:galnet:
+#+filetags: :3308:3306:Empire:galnet:
 
 * Marlinists Hold Public Referendum
 

@@ -3,8 +3,6 @@
 :END:
 #+title: * Survey Initiative Successful, Says Brewer Corporation
 #+filetags: :Thargoid:3311:galnet:
-* Survey Initiative Successful, Says Brewer Corporation
-
 /19 Feb 3311/
 
 A recent survey initiative organised by [[id:d9459015-dae3-4233-9eb7-a2fb11344097][Brewer Corporation]] has been hailed as a success by CEO [[id:0a249cc4-6f5d-4467-bf34-d6419b838581][Madelyn Teague]].

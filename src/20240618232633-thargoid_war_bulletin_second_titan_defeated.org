@@ -2,7 +2,7 @@
 :ID:       25124d5f-33fb-4362-8621-5cceacd1f92a
 :END:
 #+title: Thargoid War Bulletin: Second Titan Defeated
-#+filetags: :Thargoid:galnet:
+#+filetags: :Thargoid:3310:galnet:
 
 * Thargoid War Bulletin: Second Titan Defeated
 

@@ -2,7 +2,7 @@
 :ID:       b4817ba9-b746-4585-8b72-335669824c95
 :END:
 #+title:  ACT Exposes the Lords of Restoration
-#+filetags: :3308:Empire:galnet:
+#+filetags: :3308:3307:Empire:galnet:
 
 * [[id:a152bfb8-4b9a-4b61-a292-824ecbd263e1][ACT]] Exposes the Lords of Restoration
 

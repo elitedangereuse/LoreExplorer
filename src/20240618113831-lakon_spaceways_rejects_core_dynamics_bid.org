@@ -2,7 +2,7 @@
 :ID:       8b93d202-145f-44bf-b418-963e1e69987b
 :END:
 #+title: Lakon Spaceways Rejects Core Dynamics Bid
-#+filetags: :Federation:Alliance:galnet:
+#+filetags: :Federation:Alliance:3306:galnet:
 
 * [[id:906c77b7-7fe4-48c1-ace5-1265023c2ebf][Lakon Spaceways]] Rejects [[id:4a28463f-cbed-493b-9466-70cbc6e19662][Core Dynamics]] Bid
 

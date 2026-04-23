@@ -2,7 +2,7 @@
 :ID:       c21c3300-fdc8-47bd-b78d-5c416602b0ba
 :END:
 #+title: Emperor Decides Hadrian Duval’s Status
-#+filetags: :3300:Empire:galnet:
+#+filetags: :3300:Empire:3306:3305:galnet:
 
 * Emperor Decides [[id:c4f47591-9c52-441f-8853-536f577de922][Hadrian Duval]]’s Status
 

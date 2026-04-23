@@ -3,7 +3,7 @@
 :ROAM_REFS: https://cms.zaonce.net/en-GB/jsonapi/node/galnet_article/f02bde59-abc0-4831-8531-95fb48a4f568?resourceVersion=id%3A4841
 :END:
 #+title: Outpost Planned for ‘The Roof of Space’
-#+filetags: :galnet:
+#+filetags: :3306:galnet:
 
 * Outpost Planned for ‘The Roof of Space’
 

@@ -2,7 +2,7 @@
 :ID:       c17f896f-da72-4c4b-a880-02b7fd0e5198
 :END:
 #+title: Fleet Admiral Vincent Named as Starship One Saboteur
-#+filetags: :3301:Federation:galnet:
+#+filetags: :3301:Federation:3306:galnet:
 
 * Fleet [[id:478137a2-59fc-4055-ba37-021ef7035652][Admiral Vincent]] Named as [[id:85fdc9c8-500b-4e91-bc8b-70bcb3c05b0f][Starship One]] Saboteur
 

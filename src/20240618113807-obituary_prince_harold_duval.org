@@ -2,7 +2,7 @@
 :ID:       9c035a29-d64f-4b7d-afa0-86f1f6db2a60
 :END:
 #+title: Obituary: Prince Harold Duval
-#+filetags: :Empire:galnet:
+#+filetags: :Empire:3306:3230:galnet:
 
 * Obituary: Prince Harold Duval
 

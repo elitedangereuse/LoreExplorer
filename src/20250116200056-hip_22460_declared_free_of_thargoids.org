@@ -2,7 +2,7 @@
 :ID:       be2649d5-ee0f-4e8c-8d3c-814ad3f54266
 :END:
 #+title: HIP 22460 Declared Free of Thargoids
-#+filetags: :Thargoid:3311:galnet:
+#+filetags: :Thargoid:3311:3303:3308:galnet:
 * HIP 22460 Declared Free of Thargoids
 
 /16 Jan 3311/

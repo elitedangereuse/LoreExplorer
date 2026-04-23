@@ -2,7 +2,7 @@
 :ID:       43e6cc58-0cf2-4d69-9dd2-c743482a51ff
 :END:
 #+title: Sap Core Legion Commodity Drive
-#+filetags: :Thargoid:galnet:
+#+filetags: :Thargoid:3305:galnet:
 
 * Sap Core Legion Commodity Drive
 

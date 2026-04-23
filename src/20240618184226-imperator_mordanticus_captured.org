@@ -2,7 +2,7 @@
 :ID:       b91d269b-3712-4403-bb92-9c1775f86644
 :END:
 #+title: Imperator Mordanticus Captured
-#+filetags: :Empire:galnet:
+#+filetags: :Empire:3305:galnet:
 
 * Imperator Mordanticus Captured
 

@@ -2,7 +2,7 @@
 :ID:       69534d68-76d4-4c81-a504-3ba90c1148ad
 :END:
 #+title: Thargoid Incursions in Witch Head Enclave
-#+filetags: :Thargoid:galnet:
+#+filetags: :Thargoid:3306:3305:galnet:
 
 * Thargoid Incursions in Witch Head Enclave
 

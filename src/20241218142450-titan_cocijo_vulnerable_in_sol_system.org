@@ -2,7 +2,7 @@
 :ID:       f6d294f4-bcad-4d83-b289-737423d61c99
 :END:
 #+title: Titan Cocijo Vulnerable in Sol system
-#+filetags: :Guardian:Federation:Thargoid:galnet:3310:
+#+filetags: :Guardian:Federation:Thargoid:3310:galnet:
 * Titan Cocijo Vulnerable in Sol system
 
 /12 Dec 3310/

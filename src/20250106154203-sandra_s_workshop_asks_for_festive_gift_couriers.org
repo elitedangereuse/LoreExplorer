@@ -2,7 +2,7 @@
 :ID:       bb765f47-228a-4eda-ac95-5a1c639c761a
 :END:
 #+title: Sandra's Workshop Asks for Festive Gift Couriers
-#+filetags: :Thargoid:galnet:3310:
+#+filetags: :Thargoid:3310:galnet:
 * Sandra’s Workshop Asks for Festive Gift Couriers
 
 /20 Dec 3310/

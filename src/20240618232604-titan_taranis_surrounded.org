@@ -2,7 +2,7 @@
 :ID:       a0f3de03-a4a1-4fdb-af8a-21e16c7f2a37
 :END:
 #+title: Titan Taranis Surrounded
-#+filetags: :Thargoid:galnet:
+#+filetags: :Thargoid:3309:3308:galnet:
 
 * Titan Taranis Surrounded
 

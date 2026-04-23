@@ -2,7 +2,7 @@
 :ID:       0806fa37-0b49-4aa4-ac17-63bd358a1699
 :END:
 #+title: The Assault on Taranis
-#+filetags: :Thargoid:galnet:
+#+filetags: :Thargoid:3310:galnet:
 
 * The Assault on Taranis
 

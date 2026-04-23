@@ -2,7 +2,7 @@
 :ID:       b52a987b-14c7-495f-8fe8-98bf22394723
 :END:
 #+title: Shinrarta Dezhra Defence Fleet Prevails
-#+filetags: :Thargoid:galnet:
+#+filetags: :Thargoid:3310:galnet:
 * [[id:c6b67ab9-66c5-4636-a978-2ca3a9ab012c][Shinrarta Dezhra]] Defence Fleet Prevails
 
 /24 Sep 3310/

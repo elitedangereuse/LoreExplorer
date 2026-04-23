@@ -2,7 +2,7 @@
 :ID:       6e902d92-d033-46c8-b2c3-6ae861575311
 :END:
 #+title: Merope Defence Initiative
-#+filetags: :Thargoid:galnet:
+#+filetags: :Thargoid:3305:galnet:
 
 * [[id:70fa34ea-bc98-40ff-97f0-e4f4538387a6][Merope]] Defence Initiative
 

@@ -2,7 +2,7 @@
 :ID:       985832d7-0bb0-4ecf-b37a-61bc33dfca12
 :END:
 #+title: Vitadyne Nanomeds Campaign
-#+filetags: :Federation:Alliance:galnet:
+#+filetags: :Federation:Alliance:3305:galnet:
 
 * Vitadyne Nanomeds Campaign
 
