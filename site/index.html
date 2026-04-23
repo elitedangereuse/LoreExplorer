@@ -12,24 +12,258 @@
       <section id="explorer-shell" class="explorer-shell">
         <main class="graph-panel">
           <div class="graph-toolbar">
-            <button id="fit-button" type="button">Fit Graph</button>
-            <button id="reset-button" type="button">Start Over</button>
-            <button id="dynamic-button" type="button" aria-pressed="false">Dynamic</button>
-            <button id="detective-button" type="button" aria-pressed="false">Detective</button>
-            <label class="toolbar-label" for="color-mode">Color</label>
-            <select id="color-mode" class="toolbar-select" aria-label="Node color mode">
-              <option value="group">Group</option>
-              <option value="links">Link Count</option>
-              <option value="backlinks">Backlinks</option>
-              <option value="primary-tag">Primary Tag</option>
-            </select>
-            <label class="toolbar-label" for="shape-mode">Shape</label>
-            <select id="shape-mode" class="toolbar-select" aria-label="Node shape mode">
-              <option value="none">None</option>
-              <option value="semantic" selected>Semantic</option>
-            </select>
+            <div class="toolbar-actions" aria-label="Graph tools">
+              <button
+                id="fit-button"
+                class="toolbar-icon-button"
+                type="button"
+                aria-label="Fit graph"
+                data-tooltip="Fit graph"
+              >
+                <span class="toolbar-icon" aria-hidden="true">
+                  <svg viewBox="0 0 24 24" focusable="false">
+                    <path d="M4 9V4h5M20 9V4h-5M4 15v5h5M20 15v5h-5M9 4L4 9M15 4l5 5M9 20l-5-5M15 20l5-5"/>
+                  </svg>
+                </span>
+              </button>
+              <button
+                id="reset-button"
+                class="toolbar-icon-button"
+                type="button"
+                aria-label="Start over"
+                data-tooltip="Start over"
+              >
+                <span class="" aria-hidden="true">
+                  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-house" viewBox="0 0 16 16">
+                    <path d="M8.707 1.5a1 1 0 0 0-1.414 0L.646 8.146a.5.5 0 0 0 .708.708L2 8.207V13.5A1.5 1.5 0 0 0 3.5 15h9a1.5 1.5 0 0 0 1.5-1.5V8.207l.646.647a.5.5 0 0 0 .708-.708L13 5.793V2.5a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1.293zM13 7.207V13.5a.5.5 0 0 1-.5.5h-9a.5.5 0 0 1-.5-.5V7.207l5-5z"/>
+                  </svg>
+                </span>
+              </button>
+              <button
+                id="detective-button"
+                class="toolbar-icon-button is-detective-toggle"
+                type="button"
+                aria-pressed="false"
+                aria-label="Toggle detective panel"
+                data-tooltip="Toggle detective panel"
+              >
+                <span class="toolbar-icon" aria-hidden="true">
+                  <svg viewBox="0 0 24 24" focusable="false">
+                    <circle cx="11" cy="11" r="6"/>
+                    <path d="M20 20l-4.2-4.2M8.5 11h5M11 8.5v5"/>
+                  </svg>
+                </span>
+              </button>
+            </div>
+            <div id="toolbar-detective-actions" class="toolbar-actions toolbar-detective-actions" aria-label="Detective tools" hidden>
+              <button
+                id="toolbar-create-layer-button"
+                class="toolbar-icon-button is-detective-create"
+                type="button"
+                aria-label="Create layer"
+                data-tooltip="Create layer"
+              >
+                <span class="toolbar-icon" aria-hidden="true">
+                  <svg viewBox="0 0 24 24" focusable="false">
+                    <path d="M12 5v14M5 12h14"/>
+                  </svg>
+                </span>
+              </button>
+              <button
+                id="toolbar-create-node-button"
+                class="toolbar-icon-button is-detective-node"
+                type="button"
+                aria-label="Create custom node"
+                data-tooltip="Create custom node"
+              >
+                <span class="toolbar-icon" aria-hidden="true">
+                  <svg viewBox="0 0 24 24" focusable="false">
+                    <path d="M12 3 20 8v8l-8 5-8-5V8z"/>
+                    <path d="M12 9v6M9 12h6"/>
+                  </svg>
+                </span>
+              </button>
+              <button
+                id="toolbar-duplicate-layer-button"
+                class="toolbar-icon-button is-detective-duplicate"
+                type="button"
+                aria-label="Duplicate layer"
+                data-tooltip="Duplicate layer"
+              >
+                <span class="toolbar-icon" aria-hidden="true">
+                  <svg viewBox="0 0 24 24" focusable="false">
+                    <rect x="9" y="9" width="10" height="10" rx="2"/>
+                    <rect x="5" y="5" width="10" height="10" rx="2"/>
+                  </svg>
+                </span>
+              </button>
+              <button
+                id="toolbar-delete-layer-button"
+                class="toolbar-icon-button is-detective-delete"
+                type="button"
+                aria-label="Delete layer"
+                data-tooltip="Delete layer"
+              >
+                <span class="toolbar-icon" aria-hidden="true">
+                  <svg viewBox="0 0 24 24" focusable="false">
+                    <path d="M4 7h16M9 7V5h6v2M8 10v7M12 10v7M16 10v7M6 7l1 12h10l1-12"/>
+                  </svg>
+                </span>
+              </button>
+              <button
+                id="toolbar-export-layer-button"
+                class="toolbar-icon-button is-detective-export"
+                type="button"
+                aria-label="Export layer"
+                data-tooltip="Export layer"
+              >
+                <span class="toolbar-icon" aria-hidden="true">
+                  <svg viewBox="0 0 24 24" focusable="false">
+                    <path d="M12 4v10M8 10l4 4 4-4M5 19h14"/>
+                  </svg>
+                </span>
+              </button>
+              <button
+                id="toolbar-import-layer-button"
+                class="toolbar-icon-button is-detective-import"
+                type="button"
+                aria-label="Import layer"
+                data-tooltip="Import layer"
+              >
+                <span class="toolbar-icon" aria-hidden="true">
+                  <svg viewBox="0 0 24 24" focusable="false">
+                    <path d="M12 20V10M8 14l4-4 4 4M5 5h14"/>
+                  </svg>
+                </span>
+              </button>
+              <button
+                id="toolbar-save-filter-button"
+                class="toolbar-icon-button is-detective-filter"
+                type="button"
+                aria-label="Save current filter"
+                data-tooltip="Save current filter"
+              >
+                <span class="toolbar-icon" aria-hidden="true">
+                  <svg viewBox="0 0 24 24" focusable="false">
+                    <path d="M4 6h16M7 12h10M10 18h4"/>
+                  </svg>
+                </span>
+              </button>
+              <button
+                id="toolbar-save-path-button"
+                class="toolbar-icon-button is-detective-path"
+                type="button"
+                aria-label="Record current path"
+                data-tooltip="Record current path"
+              >
+                <span class="toolbar-icon" aria-hidden="true">
+                  <svg viewBox="0 0 24 24" focusable="false">
+                    <circle cx="6" cy="18" r="2"/>
+                    <circle cx="18" cy="6" r="2"/>
+                    <circle cx="18" cy="18" r="2"/>
+                    <path d="M8 17l8-9M8 18h8"/>
+                  </svg>
+                </span>
+              </button>
+            </div>
+            <div class="toolbar-actions toolbar-node-actions" aria-label="Node actions">
+              <button
+                id="toolbar-inspect-button"
+                class="toolbar-icon-button"
+                type="button"
+                aria-label="Inspect node"
+                data-tooltip="Inspect node"
+              >
+                <span class="toolbar-icon" aria-hidden="true">
+                  <svg viewBox="0 0 24 24" focusable="false">
+                    <circle cx="11" cy="11" r="6"/>
+                    <path d="M20 20l-4.2-4.2"/>
+                  </svg>
+                </span>
+              </button>
+              <button
+                id="toolbar-local-graph-button"
+                class="toolbar-icon-button"
+                type="button"
+                aria-label="Open local graph"
+                data-tooltip="Open local graph"
+              >
+                <span class="" aria-hidden="true">
+                  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-bullseye" viewBox="0 0 16 16">
+                    <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14m0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16"/>
+                    <path d="M8 13A5 5 0 1 1 8 3a5 5 0 0 1 0 10m0 1A6 6 0 1 0 8 2a6 6 0 0 0 0 12"/>
+                    <path d="M8 11a3 3 0 1 1 0-6 3 3 0 0 1 0 6m0 1a4 4 0 1 0 0-8 4 4 0 0 0 0 8"/>
+                    <path d="M9.5 8a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0"/>
+                  </svg>
+                </span>
+              </button>
+              <button
+                id="toolbar-expand-button"
+                class="toolbar-icon-button"
+                type="button"
+                aria-label="Expand neighbors"
+                data-tooltip="Expand neighbors"
+              >
+                <span class="" aria-hidden="true" style="padding-top: 5px;">
+                  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-node-plus" viewBox="0 0 16 16">
+                    <path fill-rule="evenodd" d="M11 4a4 4 0 1 0 0 8 4 4 0 0 0 0-8M6.025 7.5a5 5 0 1 1 0 1H4A1.5 1.5 0 0 1 2.5 10h-1A1.5 1.5 0 0 1 0 8.5v-1A1.5 1.5 0 0 1 1.5 6h1A1.5 1.5 0 0 1 4 7.5zM11 5a.5.5 0 0 1 .5.5v2h2a.5.5 0 0 1 0 1h-2v2a.5.5 0 0 1-1 0v-2h-2a.5.5 0 0 1 0-1h2v-2A.5.5 0 0 1 11 5M1.5 7a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5z"/>
+                  </svg>
+                </span>
+              </button>
+              <button
+                id="toolbar-bookmark-button"
+                class="toolbar-icon-button"
+                type="button"
+                aria-label="Bookmark node"
+                data-tooltip="Bookmark node"
+              >
+                <span class="toolbar-icon" aria-hidden="true">
+                  <svg viewBox="0 0 24 24" focusable="false">
+                    <path d="M7 5h10v14l-5-3-5 3z"/>
+                  </svg>
+                </span>
+              </button>
+            </div>
+            <div class="toolbar-group toolbar-options">
+              <button
+                id="toolbar-options-button"
+                class="toolbar-icon-button"
+                type="button"
+                aria-label="Display options"
+                aria-expanded="false"
+                data-tooltip="Display options"
+              >
+                <span class="toolbar-icon" aria-hidden="true">
+                  <svg viewBox="0 0 24 24" focusable="false">
+                    <path d="M4 7h16M7 12h10M10 17h4"/>
+                    <circle cx="7" cy="7" r="1.5"/>
+                    <circle cx="14" cy="12" r="1.5"/>
+                    <circle cx="11" cy="17" r="1.5"/>
+                  </svg>
+                </span>
+              </button>
+              <div id="toolbar-options-panel" class="toolbar-popover" hidden>
+                <div class="toolbar-popover-section">
+                  <label class="toolbar-label" for="color-mode">Color</label>
+                  <select id="color-mode" class="toolbar-select" aria-label="Node color mode">
+                    <option value="group">Group</option>
+                    <option value="links">Link Count</option>
+                    <option value="backlinks">Backlinks</option>
+                    <option value="primary-tag">Primary Tag</option>
+                  </select>
+                </div>
+                <div class="toolbar-popover-section">
+                  <label class="toolbar-label" for="shape-mode">Shape</label>
+                  <select id="shape-mode" class="toolbar-select" aria-label="Node shape mode">
+                    <option value="none">None</option>
+                    <option value="semantic" selected>Semantic</option>
+                  </select>
+                </div>
+              </div>
+            </div>
             <span id="graph-status">Loading graph…</span>
           </div>
+          <div id="graph-filter-toolbar" class="graph-filter-toolbar" aria-label="Graph filters"></div>
           <div class="graph-stage">
             <canvas id="graph-canvas"></canvas>
             <div id="graph-context-menu" class="graph-context-menu" hidden>
@@ -88,6 +322,9 @@
         </aside>
       </section>
     </div>
+
+    <input id="layer-import-input" type="file" accept=".json,application/json" hidden />
+    <div id="app-tooltip" class="app-tooltip" hidden aria-hidden="true"></div>
 
     <script src="./app.js" defer></script>
   </body>
