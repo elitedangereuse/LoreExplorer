@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       6e0bd0c2-6ee6-465e-8f00-7d3cc60f0525
+:END:
+#+title: Otto Granger
+#+filetags: :3302:Federation:Individual:
+
+Otto Granger was a smuggler and bounty hunter associated with the
+so-called Granger Gang. In 3302 he orchestrated a public clue hunt
+around mysterious wreckage in the [[id:c32901ed-73d1-4ca6-aeb8-5bcd795d1036][Pleiades Sector AB-W B2-4]] system,
+claiming to have made a discovery of profound importance.
+
+GalNet later reported that Granger demanded credit for the find after
+others were officially associated with the wreck’s discovery.
+
+Sources: [[id:0b9293dc-6600-43bc-9569-458ec1ef8890][Galactic News: Mysterious Wreckage Discovered]], [[id:49a2c9ed-145c-465e-b3db-d2ac2a697fd7][Galactic News: Otto Granger Demands Credit]]

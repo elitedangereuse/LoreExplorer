@@ -2,13 +2,91 @@
 :ID:       bce02e51-c68c-4594-86fe-88dda4915a74
 :END:
 #+title: Duval Family
-* Family
-- [[id:c4f47591-9c52-441f-8853-536f577de922][Hadrian Augustus Duval]]
-- [[id:34f3cfdd-0536-40a9-8732-13bf3a5e4a70][Arissa Lavigny-Duval]]
+#+filetags: :Empire:
+
+The Duval Family, or House of Duval, is the ruling dynasty of the
+Empire and the core bloodline within the wider [[id:85e6fd5f-69a0-4f7c-95d0-ddb89ef150e9][Imperial Family]]. Modern GalNet reporting still describes Imperial politics in
+terms of the Duval bloodline, the Duval dynasty and the House of Duval,
+especially whenever questions of succession, legitimacy or family unity
+come to the fore.
+
+The formal ruling line is summarised in [[id:98b44118-c603-4868-ad86-a65c188f589d][The Line of the Duvals]]. In the
+modern period, the most important transition was from [[id:8dc482e7-e978-4e6e-8a63-600e61cd715f][Hesketh Duval]] to
+[[id:3cb0755e-4deb-442b-898b-3f0c6651636e][Hengist Duval]], and then to [[id:34f3cfdd-0536-40a9-8732-13bf3a5e4a70][Arissa Lavigny-Duval]] after Hengist’s
+assassination in 3301.
+
+* Ruling line
+
+- [[id:98b44118-c603-4868-ad86-a65c188f589d][The Line of the Duvals]]
+- [[id:8dc482e7-e978-4e6e-8a63-600e61cd715f][Hesketh Duval]]
 - [[id:3cb0755e-4deb-442b-898b-3f0c6651636e][Hengist Duval]]
+- [[id:34f3cfdd-0536-40a9-8732-13bf3a5e4a70][Arissa Lavigny-Duval]]
+
+* Modern family branches
+
+The present-day family is no longer just the direct imperial line.
+GalNet coverage of the 3300s regularly refers to several connected
+branches whose standing changed after the NMLA assassinations and the
+renewed focus on succession.
+
+** Arissa and the Lavigny branch
+
+- [[id:34f3cfdd-0536-40a9-8732-13bf3a5e4a70][Arissa Lavigny-Duval]]
+- [[id:33f63de9-fd79-4790-a1a5-ebd87aaeea2d][Florence Lavigny]]
+- [[id:207bef41-d5d6-434d-b56d-acf153e59896][Aristide de Lavigny]]
+
+Arissa was long believed to be the daughter of Aristide de Lavigny, and
+therefore part of the family through the Lavigny marriage. Her claim to
+be Hengist’s daughter was later ratified, placing her in the direct
+imperial line while leaving the Lavigny connection politically
+important.
+
+** Harold and Aisling
+
+- [[id:28fc3b99-d8a7-49e1-9593-1db6043430c7][Prince Harold Duval]]
 - [[id:b402bbe3-5119-4d94-87ee-0ba279658383][Aisling Duval]]
-- [[id:164e5782-9d44-45d3-9bc7-f769de096303][Olban Hensard Duval]]
-- [[id:bd16de0c-b03f-4478-8921-934e7d589628][Trasken Duval III]]
-- [[id:0494d01c-30c1-4b1b-8ea5-e97df32e4d50][Trasken Duval II]]
+
+Harold was Hengist’s only known son and heir, but his exclusion from
+the succession weakened this branch. Even so, Aisling remained a viable
+public contender after Hengist’s death, and she still represents one of
+the dynasty’s most visible modern figures.
+
+** Hadrian and his descendants
+
+- [[id:c4f47591-9c52-441f-8853-536f577de922][Hadrian Augustus Duval]]
 - [[id:ef9ddb06-8cb2-4c3f-a688-469be3149aa9][Astrid Minerva-Duval]]
 - [[id:c51145ab-32ee-42ec-a884-bbbc263b06dd][Hector Mordanticus Duval]]
+
+Hadrian emerged as a newly recognised Duval descendant through an
+illegitimate line descending from Hengist. Later reporting treated the
+birth of Hector as an event of dynastic importance, since the child
+might one day figure in the question of succession.
+
+** Collateral Duval branches
+
+- [[id:2a0cde1a-b7e0-48fb-840a-19e70e1043f3][Archduke Otto Lombardo-Duval]]
+- [[id:3198b73e-a63a-4edd-aadd-d6cdbf197115][Lucretia Roche-Duval]]
+
+These collateral branches descend from the siblings of Emperor Hesketh.
+By 3308 and 3309 they were receiving more attention in GalNet coverage
+as surviving members of the wider dynasty.
+
+* Family and succession in the 3300s
+
+Several late-3300s stories treat the Duvals not simply as a genealogy
+but as a live political institution:
+
+- [[id:3d76fdcc-b6ff-4c89-b2e6-23a5b1e63884][Imperial Guard Defends Duvals]]
+- [[id:4b2d3b00-4402-42d6-ae05-f688113a047e][Duvals Rally Around Imperial Mother]]
+- [[id:145e5214-fd7c-4d89-bf50-0e640bc50dee][Deliveries Requested to Commemorate Duval Family]]
+- [[id:2beb8d2e-e623-48ce-b7c6-f1fa2e91f925][Materials Received to Construct Duval Statues]]
+- [[id:d9bb68cb-3dcb-41a7-bc7b-4f148fa2a2c4][The Future of the Throne]]
+- [[id:040a7d4d-ec14-4dd1-a911-d7ce45eff3eb][Empire Celebrates Newborn Duval]]
+- [[id:27ba233b-9511-43da-b5af-968006f64810][Tributes Gathered to Honour Duval Heir]]
+- [[id:c5e2239f-0aae-4554-8eab-6fdf1aba8c79][Duvals Gather to Celebrate New Year]]
+
+Together these notes show the central tension around the family in the
+current era: Arissa is the reigning Emperor, but the dynasty’s future is
+shaped by multiple surviving branches, contested legitimacy, and the
+need to preserve a bloodline that many Imperials still regard as the
+foundation of the state.
