@@ -5,7 +5,7 @@
 #+filetags: :3308:3309:Empire:Individual:
 
 Archduke Otto Lombardo-Duval is a member of the Imperial Family. GalNet
-described him as the son of Prince Baylor Duval, one of Emperor
+described him as the son of [[id:d1683ea1-68a7-44d4-8325-4efa0098fdc7][Prince Baylor Duval]], one of Emperor
 [[id:8dc482e7-e978-4e6e-8a63-600e61cd715f][Hesketh]]'s brothers, whose branch married into the House of Lombardo.
 
 By 3308 and 3309, Otto was counted among the surviving Duval relatives

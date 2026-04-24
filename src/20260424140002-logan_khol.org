@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       f023ada2-6e18-4cb3-a494-091986c147da
+:END:
+#+title: Logan Khol
+#+filetags: :3302:Individual:
+
+Logan Khol was a smuggler associated with the Granger Gang. In 3302 he
+was one of the figures tied to the public clue hunt that led to the
+discovery of mysterious wreckage in the [[id:c32901ed-73d1-4ca6-aeb8-5bcd795d1036][Pleiades Sector AB-W B2-4]]
+system.
+
+GalNet reported that Khol released one of the clues after his request
+for narcotics was met. The associated community goal used the spelling
+"Logan Kohl".
+
+Sources: [[id:0b9293dc-6600-43bc-9569-458ec1ef8890][Galactic News: Mysterious Wreckage Discovered]], [[file:../references/Community Goals/Narcotics_For_Logan_Kohl.md][Narcotics for Logan Kohl]]

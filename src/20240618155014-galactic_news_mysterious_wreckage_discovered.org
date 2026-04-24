@@ -12,9 +12,9 @@ A pair of independent pilots by the names of Noctrach and Ihazevich has discover
 
 The event began with a cryptic message delivered by Granger to news feeds throughout the galaxy. This was followed by a series of enigmatic clues, inserted into news channels at a number of starports. 
 
-Solving these clues led pilots to the three members of the Granger Gang: [[id:6e0bd0c2-6ee6-465e-8f00-7d3cc60f0525][Otto Granger]], Mahina Dillon and Logan Khol. When confronted, Granger and his companions claimed to have made a discovery of profound importance, but they refused to reveal the nature or location of this discovery. 
+Solving these clues led pilots to the three members of the Granger Gang: [[id:6e0bd0c2-6ee6-465e-8f00-7d3cc60f0525][Otto Granger]], [[id:d39382e6-6452-4063-ab3e-3cd2435f783a][Mahina Dillon]] and [[id:f023ada2-6e18-4cb3-a494-091986c147da][Logan Khol]]. When confronted, Granger and his companions claimed to have made a discovery of profound importance, but they refused to reveal the nature or location of this discovery. 
 
-Instead, each member of the gang said they would issue a request for a specific commodity, promising to reveal further information if they received what they asked for. Logan Khol's subsequent request for narcotics was enthusiastically received by the galactic community, and when his targets were met, a further clue was released: 
+Instead, each member of the gang said they would issue a request for a specific commodity, promising to reveal further information if they received what they asked for. [[id:f023ada2-6e18-4cb3-a494-091986c147da][Logan Khol]]'s subsequent request for narcotics was enthusiastically received by the galactic community, and when his targets were met, a further clue was released: 
 
 "The latitude was -26 and it was a cold moon in the Pleiades sector with the letters 'AB' in its name." 
 
@@ -22,7 +22,7 @@ Although the Granger Gang planned to release further clues, they were quickly re
 
 Commentators throughout the galaxy have been quick to offer their opinions on this remarkable discovery. 
 
-"I'm familiar with every starship design of the past fifty years, and most of the older ones, too," said Augustus Sym, an Imperial veteran and former test pilot based in the [[id:bed8c27f-3cbe-49ad-b86f-7d87eacf804a][Achenar]] system, "and I've never seen anything like it. There's no doubt in my mind – that is an alien ship." 
+"I'm familiar with every starship design of the past fifty years, and most of the older ones, too," said [[id:cc947b63-b630-4a74-8a89-81ad19691bb8][Augustus Sym]], an Imperial veteran and former test pilot based in the [[id:bed8c27f-3cbe-49ad-b86f-7d87eacf804a][Achenar]] system, "and I've never seen anything like it. There's no doubt in my mind – that is an alien ship." 
 
 Others have adopted a more cautious stance, while acknowledging that the find could be significant. Professor [[id:8f63442a-1f38-457d-857a-38297d732a90][Ishmael Palin]], a leading authority on xeno-biological research, said: 
 

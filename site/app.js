@@ -7,6 +7,7 @@ const panelResizer = document.getElementById("panel-resizer");
 const detectivePanelResizer = document.getElementById("detective-panel-resizer");
 const fitButton = document.getElementById("fit-button");
 const resetButton = document.getElementById("reset-button");
+const toolbarBackButton = document.getElementById("toolbar-back-button");
 const detectiveButton = document.getElementById("detective-button");
 const toolbarDetectiveActions = document.getElementById("toolbar-detective-actions");
 const toolbarCreateLayerButton = document.getElementById("toolbar-create-layer-button");
@@ -92,6 +93,8 @@ const state = {
   },
   graphTagFilterInput: "",
   graphTagFilterSelectionArmed: false,
+  navigationBackStack: [],
+  navigationRestoring: false,
   searchSuggestion: null,
   searchSelectedIndex: -1,
   searchExactNodeIds: [],
@@ -358,6 +361,107 @@ function edgeKey(leftId, rightId) {
 
 function currentNodeId() {
   return state.inspectNodeId || state.graphRootNodeId || null;
+}
+
+function cloneGraphTagFilters(filters = state.graphTagFilters) {
+  return {
+    requireAll: [...(filters?.requireAll || [])],
+    exclude: [...(filters?.exclude || [])],
+  };
+}
+
+function getNavigationSnapshot() {
+  return {
+    view: state.view,
+    graphRootNodeId: state.graphRootNodeId,
+    inspectNodeId: state.inspectNodeId,
+    activeCommunityId: state.activeCommunityId,
+    activeTagFilter: state.activeTagFilter,
+    graphTagFilters: cloneGraphTagFilters(),
+    neighborMode: state.neighborMode,
+    expandedNodeIds: [...state.expandedNodeIds],
+    camera: { ...state.camera },
+  };
+}
+
+function getNavigationSnapshotSignature(snapshot) {
+  return JSON.stringify([
+    snapshot.view || "",
+    snapshot.graphRootNodeId || "",
+    snapshot.inspectNodeId || "",
+    snapshot.activeCommunityId || "",
+    snapshot.activeTagFilter || "",
+    snapshot.neighborMode ? 1 : 0,
+    snapshot.graphTagFilters?.requireAll || [],
+    snapshot.graphTagFilters?.exclude || [],
+    snapshot.expandedNodeIds || [],
+  ]);
+}
+
+function canNavigateBack() {
+  return state.navigationBackStack.length > 0;
+}
+
+function rememberNavigationSnapshot() {
+  if (state.navigationRestoring) {
+    return;
+  }
+  const snapshot = getNavigationSnapshot();
+  const signature = getNavigationSnapshotSignature(snapshot);
+  const lastSignature = state.navigationBackStack[state.navigationBackStack.length - 1]?.signature;
+  if (lastSignature === signature) {
+    return;
+  }
+  state.navigationBackStack.push({ signature, snapshot });
+  if (state.navigationBackStack.length > 80) {
+    state.navigationBackStack.shift();
+  }
+}
+
+function restoreNavigationSnapshot(snapshot, updateUrl = true) {
+  if (!snapshot) {
+    return;
+  }
+  state.navigationRestoring = true;
+  try {
+    hideContextMenu();
+    hideTooltip("node");
+    clearActivePath(false);
+    state.activeCommunityId = snapshot.activeCommunityId || null;
+    state.graphRootNodeId = snapshot.graphRootNodeId || null;
+    state.inspectNodeId = snapshot.inspectNodeId || null;
+    state.activeTagFilter = snapshot.activeTagFilter || null;
+    state.graphTagFilters = cloneGraphTagFilters(snapshot.graphTagFilters);
+    state.neighborMode = Boolean(snapshot.neighborMode);
+    state.expandedNodeIds = new Set(snapshot.expandedNodeIds || []);
+    setActiveView(snapshot.view || "landing");
+    syncLayout(true);
+    state.camera = { ...snapshot.camera };
+    state.hoverNodeId = null;
+    state.hoverCommunityId = null;
+    if (currentNodeId() && state.nodeById.has(currentNodeId())) {
+      loadNote(currentNodeId());
+    } else {
+      showEmptyNoteState();
+      noteMeta.innerHTML = renderSearchCompletionsPanel();
+    }
+    render();
+    if (updateUrl) {
+      updateUrlState();
+    }
+  } finally {
+    state.navigationRestoring = false;
+    updateToolbarNodeActions();
+    syncNoteTitleActions();
+  }
+}
+
+function goBackInNavigationHistory() {
+  const previousEntry = state.navigationBackStack.pop();
+  if (!previousEntry) {
+    return;
+  }
+  restoreNavigationSnapshot(previousEntry.snapshot);
 }
 
 function isBookmarked(nodeId) {
@@ -2066,6 +2170,7 @@ function getNodesForTag(tag) {
 
 function iconMarkup(name) {
   const icons = {
+    back: '<svg viewBox="0 0 24 24" focusable="false"><path d="M10 6 4 12l6 6"/><path d="M4 12h12a4 4 0 1 1 0 8"/></svg>',
     add: '<svg viewBox="0 0 24 24" focusable="false"><path d="M12 5v14M5 12h14"/></svg>',
     duplicate: '<svg viewBox="0 0 24 24" focusable="false"><rect x="9" y="9" width="10" height="10" rx="2"/><rect x="5" y="5" width="10" height="10" rx="2"/></svg>',
     trash: '<svg viewBox="0 0 24 24" focusable="false"><path d="M4 7h16M9 7V5h6v2M8 10v7M12 10v7M16 10v7M6 7l1 12h10l1-12"/></svg>',
@@ -3428,6 +3533,15 @@ function renderNoteTitleActions(node) {
       <button
         type="button"
         class="toolbar-icon-button"
+        data-go-back="true"
+        aria-label="Go back"
+        ${canNavigateBack() ? "" : "disabled"}
+      >
+        ${iconMarkup("back")}
+      </button>
+      <button
+        type="button"
+        class="toolbar-icon-button"
         data-open-local-graph="${escapeHtml(node.id)}"
         aria-label="Open local graph for ${escapeHtml(node.title)}"
         ${canOpenLocalGraph ? "" : "disabled"}
@@ -3450,6 +3564,11 @@ function renderNoteTitleActions(node) {
 
 function syncNoteTitleActions(nodeId = currentNodeId()) {
   const node = state.nodeById.get(nodeId);
+  const backButton = noteContent.querySelector("[data-go-back]");
+  if (backButton) {
+    backButton.disabled = !canNavigateBack();
+    backButton.setAttribute("aria-label", "Go back");
+  }
   if (!node) {
     return;
   }
@@ -3821,6 +3940,9 @@ function getToolbarTargetNodeId() {
 }
 
 function setToolbarButtonState(button, { disabled = false, active = false, label, title } = {}) {
+  if (!button) {
+    return;
+  }
   button.disabled = disabled;
   button.classList.toggle("is-active", active);
   if (label) {
@@ -3958,6 +4080,11 @@ function updateDetectiveToolbarActions() {
 }
 
 function updateToolbarNodeActions() {
+  setToolbarButtonState(toolbarBackButton, {
+    disabled: !canNavigateBack(),
+    label: "Go back",
+    title: "Go back",
+  });
   const targetNodeId = getToolbarTargetNodeId();
   const targetNode = targetNodeId ? state.nodeById.get(targetNodeId) : null;
   const targetTitle = targetNode?.title || "node";
@@ -4424,6 +4551,7 @@ function openCommunity(communityId, updateUrl = true) {
   if (!community || !hubNode) {
     return;
   }
+  rememberNavigationSnapshot();
   hideContextMenu();
   clearActivePath(false);
   state.activeCommunityId = communityId;
@@ -4444,10 +4572,11 @@ function openCommunity(communityId, updateUrl = true) {
 function openLocalGraph(nodeId) {
   const node = state.nodeById.get(nodeId);
   if (!node) return;
+  rememberNavigationSnapshot();
   hideContextMenu();
   state.activeCommunityId = null;
   state.neighborMode = true;
-  selectNode(nodeId, true);
+  selectNode(nodeId, true, true, false);
 }
 
 function toggleTagFilter(tag) {
@@ -4463,9 +4592,12 @@ function toggleTagFilter(tag) {
   addGraphTagFilter("requireAll", normalizedTag);
 }
 
-function inspectNode(nodeId, updateUrl = true) {
+function inspectNode(nodeId, updateUrl = true, recordNavigation = true) {
   const node = state.nodeById.get(nodeId);
   if (!node) return;
+  if (recordNavigation) {
+    rememberNavigationSnapshot();
+  }
   maybeClearPathForNode(nodeId);
   hideContextMenu();
   setActiveView("explorer");
@@ -4477,9 +4609,12 @@ function inspectNode(nodeId, updateUrl = true) {
   render();
 }
 
-function selectNode(nodeId, shouldCenter = true, updateUrl = true) {
+function selectNode(nodeId, shouldCenter = true, updateUrl = true, recordNavigation = true) {
   const node = state.nodeById.get(nodeId);
   if (!node) return;
+  if (recordNavigation) {
+    rememberNavigationSnapshot();
+  }
   maybeClearPathForNode(nodeId);
   hideContextMenu();
   setActiveView("explorer");
@@ -4503,6 +4638,7 @@ function selectNode(nodeId, shouldCenter = true, updateUrl = true) {
 }
 
 function resetSelection() {
+  rememberNavigationSnapshot();
   hideContextMenu();
   clearActivePath(false);
   setActiveView("landing");
@@ -4742,6 +4878,9 @@ function bindEvents() {
     if (targetNodeId) {
       toggleBookmark(targetNodeId);
     }
+  });
+  toolbarBackButton?.addEventListener("click", () => {
+    goBackInNavigationHistory();
   });
   toolbarBookmarksButton.addEventListener("click", () => {
     setBookmarksPanelOpen(!state.bookmarksPanelOpen);
@@ -5046,6 +5185,11 @@ function bindEvents() {
   });
 
   noteContent.addEventListener("click", (event) => {
+    if (event.target.closest("[data-go-back]")) {
+      event.preventDefault();
+      goBackInNavigationHistory();
+      return;
+    }
     const bookmarkButton = event.target.closest("[data-toggle-bookmark]");
     if (bookmarkButton) {
       event.preventDefault();
@@ -5338,9 +5482,9 @@ function applyUrlState() {
     if (tagFilter && state.tagIndex.has(canonicalizeTag(tagFilter))) {
       state.activeTagFilter = tagFilter;
     }
-    selectNode(nodeId, true, false);
+    selectNode(nodeId, true, false, false);
     if (inspectNodeId && state.nodeById.has(inspectNodeId)) {
-      inspectNode(inspectNodeId, false);
+      inspectNode(inspectNodeId, false, false);
     }
     fitGraph();
     return;
