@@ -1389,7 +1389,7 @@ code {
 }
 
 .note-inline-meta {
-  display: flex;
+  display: none;
   flex-wrap: wrap;
   gap: 8px;
 }
