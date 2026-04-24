@@ -48,16 +48,20 @@ const worker = new Worker("./search-worker.js");
 const state = {
   baseNodes: [],
   baseEdges: [],
+  baseCommunityNodes: [],
+  baseCommunityEdges: [],
   baseMeta: {},
   baseSearchDocs: [],
   searchDocs: [],
   nodes: [],
   edges: [],
+  communityById: new Map(),
   meta: {},
   nodeById: new Map(),
   view: "landing",
   graphRootNodeId: null,
   inspectNodeId: null,
+  activeCommunityId: null,
   results: [],
   searchQuery: "",
   colorMode: "group",
@@ -67,6 +71,7 @@ const state = {
   visibleBounds: { minX: 0, maxX: 1, minY: 0, maxY: 1 },
   pointer: { x: 0, y: 0, active: false },
   hoverNodeId: null,
+  hoverCommunityId: null,
   dragging: false,
   dragStart: { x: 0, y: 0, cameraX: 0, cameraY: 0 },
   hasFitted: false,
@@ -108,6 +113,7 @@ const state = {
   activePathNodeIds: [],
   activePathEdgeKeys: new Set(),
   pathFocus: false,
+  visibleGraphStatsSignature: null,
   toolStatusMessage: "",
   optionsPanelOpen: false,
   bookmarksPanelOpen: false,
@@ -154,6 +160,12 @@ function resizeCanvas() {
 
 function setActiveView(view) {
   state.view = view;
+  if (view === "landing") {
+    state.hoverNodeId = null;
+    hideTooltip("node");
+  } else {
+    state.hoverCommunityId = null;
+  }
   appShell.classList.toggle("is-exploring", view === "explorer");
   if (view === "explorer") {
     requestAnimationFrame(() => {
@@ -1250,6 +1262,18 @@ function getBaseVisibleNodeIds() {
     return visibleIds;
   }
 
+  if (state.activeCommunityId && !state.neighborMode) {
+    const visibleIds = new Set(
+      state.nodes
+        .filter((node) => node.community === state.activeCommunityId && isRuntimeNodeVisible(node))
+        .map((node) => node.id),
+    );
+    if (state.inspectNodeId) {
+      visibleIds.add(state.inspectNodeId);
+    }
+    return visibleIds;
+  }
+
   if (state.activeTagFilter) {
     const visibleIds = new Set(getNodesForTag(state.activeTagFilter).map((node) => node.id));
     if (state.graphRootNodeId) {
@@ -1515,7 +1539,7 @@ function fitNodes(nodes) {
 }
 
 function fitGraph() {
-  fitNodes(getVisibleNodes());
+  fitNodes(isClusterLandingView() ? state.baseCommunityNodes : getVisibleNodes());
 }
 
 function getLabelNodes(nodes) {
@@ -1600,6 +1624,20 @@ function getVisibleEdgeRefs() {
   ));
 }
 
+function getCommunityEdgeRefs() {
+  return state.baseCommunityEdges
+    .map((edge) => ({
+      ...edge,
+      sourceNode: state.communityById.get(edge.source),
+      targetNode: state.communityById.get(edge.target),
+    }))
+    .filter((edge) => edge.sourceNode && edge.targetNode);
+}
+
+function isClusterLandingView() {
+  return state.view === "landing" && !state.activeTagFilter && !hasActiveGraphTagFilters();
+}
+
 function getHoverContext(visibleNodes) {
   if (!state.hoverNodeId || state.dragging) {
     return null;
@@ -1628,9 +1666,6 @@ function renderNodeLabels(nodes) {
   const rect = graphStage.getBoundingClientRect();
   const rootId = state.graphRootNodeId;
   const inspectId = state.inspectNodeId || rootId;
-  if (!inspectId && !rootId) {
-    return;
-  }
 
   const orderedNodes = getLabelNodes(nodes).sort((left, right) => {
     const leftIsPriority = left.id === rootId || left.id === inspectId;
@@ -1687,10 +1722,130 @@ function renderNodeLabels(nodes) {
   context.restore();
 }
 
+function reportVisibleGraphStats(visibleNodeCount, visibleLinkCount) {
+  const signature = `${visibleNodeCount}:${visibleLinkCount}`;
+  if (state.visibleGraphStatsSignature === signature) {
+    return;
+  }
+  state.visibleGraphStatsSignature = signature;
+  console.info(`[graph] visible: ${visibleNodeCount} nodes, ${visibleLinkCount} links`);
+}
+
+function pickCommunityAt(clientX, clientY) {
+  const rect = graphStage.getBoundingClientRect();
+  const x = clientX - rect.left;
+  const y = clientY - rect.top;
+  let winner = null;
+  let winnerDistance = Number.POSITIVE_INFINITY;
+
+  for (const community of state.baseCommunityNodes) {
+    const point = worldToScreen(community);
+    const radius = Math.max(10, community.size * state.camera.zoom * 0.46);
+    const dx = point.x - x;
+    const dy = point.y - y;
+    const distance = Math.sqrt(dx * dx + dy * dy);
+    if (distance <= radius && distance < winnerDistance) {
+      winner = community;
+      winnerDistance = distance;
+    }
+  }
+
+  return winner;
+}
+
+function renderLandingGraph(rect) {
+  const communityNodes = state.baseCommunityNodes;
+  const communityEdges = getCommunityEdgeRefs();
+  reportVisibleGraphStats(communityNodes.length, communityEdges.length);
+
+  const hoveredCommunityId = state.hoverCommunityId;
+  const hoveredNeighbors = new Set();
+  if (hoveredCommunityId) {
+    for (const edge of communityEdges) {
+      if (edge.source === hoveredCommunityId) {
+        hoveredNeighbors.add(edge.target);
+      } else if (edge.target === hoveredCommunityId) {
+        hoveredNeighbors.add(edge.source);
+      }
+    }
+  }
+
+  context.save();
+  context.lineJoin = "round";
+  context.lineCap = "round";
+
+  if (communityEdges.length) {
+    for (const edge of communityEdges) {
+      const from = worldToScreen(edge.sourceNode);
+      const to = worldToScreen(edge.targetNode);
+      const isHoveredEdge = hoveredCommunityId && (
+        edge.source === hoveredCommunityId
+        || edge.target === hoveredCommunityId
+      );
+      context.beginPath();
+      context.lineWidth = isHoveredEdge ? 2.2 : Math.max(1, Math.min(4.2, Math.log2((edge.weight || 1) + 1)));
+      context.strokeStyle = isHoveredEdge ? "rgba(125, 211, 252, 0.78)" : "rgba(180, 205, 225, 0.18)";
+      context.globalAlpha = hoveredCommunityId && !isHoveredEdge ? 0.18 : 0.72;
+      context.moveTo(from.x, from.y);
+      context.lineTo(to.x, to.y);
+      context.stroke();
+    }
+    context.globalAlpha = 1;
+  }
+
+  for (const community of communityNodes) {
+    const point = worldToScreen(community);
+    const radius = Math.max(8, community.size * state.camera.zoom * 0.46);
+    const isHovered = community.id === hoveredCommunityId;
+    const isNeighbor = hoveredNeighbors.has(community.id);
+
+    context.beginPath();
+    context.arc(point.x, point.y, radius, 0, Math.PI * 2);
+    context.fillStyle = community.color;
+    context.globalAlpha = hoveredCommunityId ? (isHovered || isNeighbor ? 0.98 : 0.34) : 0.94;
+    context.fill();
+
+    if (isHovered) {
+      strokeNodeOutline("circle", point.x, point.y, radius + 6, "#9ee7ff", 2.6);
+    } else if (isNeighbor) {
+      strokeNodeOutline("circle", point.x, point.y, radius + 4, "rgba(125, 211, 252, 0.82)", 1.5);
+    }
+  }
+
+  context.globalAlpha = 0.96;
+  context.textBaseline = "middle";
+  context.textAlign = "left";
+  context.lineJoin = "round";
+  context.strokeStyle = "rgba(8, 17, 27, 0.9)";
+
+  for (const community of communityNodes) {
+    const point = worldToScreen(community);
+    const radius = Math.max(8, community.size * state.camera.zoom * 0.46);
+    context.font = community.id === hoveredCommunityId
+      ? "600 13px Avenir Next, Segoe UI, sans-serif"
+      : "500 12px Avenir Next, Segoe UI, sans-serif";
+    context.fillStyle = "rgba(238, 246, 255, 0.94)";
+    const labelX = point.x + radius + 10;
+    const labelY = point.y;
+    context.strokeText(community.title, labelX, labelY);
+    context.fillText(community.title, labelX, labelY);
+  }
+
+  context.restore();
+  renderGraphFilterToolbar();
+  renderBookmarksPanel();
+  updateDetectiveToolbarActions();
+  updateToolbarNodeActions();
+}
+
 function render() {
   const rect = graphStage.getBoundingClientRect();
   if (!rect.width || !rect.height) return;
   context.clearRect(0, 0, rect.width, rect.height);
+  if (isClusterLandingView()) {
+    renderLandingGraph(rect);
+    return;
+  }
   const visibleNodes = getVisibleNodes();
   const visibleEdges = getVisibleEdgeRefs();
   const baseVisibleEdges = visibleEdges.filter((edge) => !edge.layerId);
@@ -1700,6 +1855,7 @@ function render() {
   const visibleOverlayEdges = layerOverlayData.pathEdges.filter((edge) => (
     visibleNodeIdSet.has(edge.sourceId) && visibleNodeIdSet.has(edge.targetId)
   ));
+  reportVisibleGraphStats(visibleNodes.length, visibleEdges.length + visibleOverlayEdges.length);
   const hoverContext = getHoverContext(visibleNodes);
   const hoveredNodeId = hoverContext?.nodeId || null;
   const hoveredNeighborIds = hoverContext?.neighborIds || null;
@@ -2794,10 +2950,31 @@ function getScopedGraphFilterTags(limit = 24) {
       counts.set(normalizedTag, (counts.get(normalizedTag) || 0) + 1);
     }
   }
-  return [...counts.entries()]
-    .sort((left, right) => right[1] - left[1] || getGraphFilterDisplayTag(left[0]).localeCompare(getGraphFilterDisplayTag(right[0])))
-    .slice(0, limit)
+  const query = canonicalizeTag(state.graphTagFilterInput || "");
+  const sortedTags = [...counts.entries()]
+    .sort((left, right) => right[1] - left[1] || getGraphFilterDisplayTag(left[0]).localeCompare(getGraphFilterDisplayTag(right[0])));
+  const filteredTags = query
+    ? sortedTags.filter(([tag]) => (
+      tag.includes(query) || getGraphFilterDisplayTag(tag).toLocaleLowerCase().includes(query)
+    ))
+    : sortedTags;
+  return filteredTags
+    .slice(0, query ? 200 : limit)
     .map(([tag]) => tag);
+}
+
+function renderGraphFilterTagOptions() {
+  return getScopedGraphFilterTags()
+    .map((tag) => `<option value="${escapeHtml(getGraphFilterDisplayTag(tag))}"></option>`)
+    .join("");
+}
+
+function syncGraphFilterTagOptions() {
+  const datalist = document.getElementById("graph-filter-tag-options");
+  if (!datalist) {
+    return;
+  }
+  datalist.innerHTML = renderGraphFilterTagOptions();
 }
 
 function eyeIconMarkup(isHidden = false) {
@@ -2819,10 +2996,7 @@ function getToolbarGraphFilterTags() {
 }
 
 function renderGraphFilterToolbar() {
-  const scopedTags = getScopedGraphFilterTags();
-  const tagOptions = scopedTags
-    .map((tag) => `<option value="${escapeHtml(getGraphFilterDisplayTag(tag))}"></option>`)
-    .join("");
+  const tagOptions = renderGraphFilterTagOptions();
   const activeTags = getToolbarGraphFilterTags();
   graphFilterToolbar.innerHTML = `
     <div class="graph-filter-toolbar-scroll">
@@ -3406,6 +3580,10 @@ function setGraphTagFilterInput(value) {
   state.graphTagFilterInput = value;
 }
 
+function refreshGraphAfterTagFilterChange() {
+  fitGraph();
+}
+
 function addGraphTagFilter(bucket, rawTag) {
   const normalizedTag = canonicalizeTag(rawTag);
   if (!normalizedTag) {
@@ -3421,7 +3599,7 @@ function addGraphTagFilter(bucket, rawTag) {
   state.graphTagFilterInput = "";
   updateCurrentNoteMeta();
   renderGraphFilterToolbar();
-  render();
+  refreshGraphAfterTagFilterChange();
 }
 
 function removeGraphTagFilter(bucket, rawTag) {
@@ -3432,7 +3610,7 @@ function removeGraphTagFilter(bucket, rawTag) {
   };
   updateCurrentNoteMeta();
   renderGraphFilterToolbar();
-  render();
+  refreshGraphAfterTagFilterChange();
 }
 
 function clearGraphTagFilters() {
@@ -3440,7 +3618,7 @@ function clearGraphTagFilters() {
   state.graphTagFilterInput = "";
   updateCurrentNoteMeta();
   renderGraphFilterToolbar();
-  render();
+  refreshGraphAfterTagFilterChange();
 }
 
 function removeGraphTag(rawTag) {
@@ -3451,7 +3629,7 @@ function removeGraphTag(rawTag) {
   };
   updateCurrentNoteMeta();
   renderGraphFilterToolbar();
-  render();
+  refreshGraphAfterTagFilterChange();
 }
 
 function toggleGraphTagMode(rawTag) {
@@ -3472,7 +3650,7 @@ function toggleGraphTagMode(rawTag) {
   }
   updateCurrentNoteMeta();
   renderGraphFilterToolbar();
-  render();
+  refreshGraphAfterTagFilterChange();
 }
 
 function insertNodeLinkIntoCurrentNote(targetNodeId) {
@@ -3573,6 +3751,9 @@ function updateUrlState() {
 }
 
 function getToolbarTargetNodeId() {
+  if (state.view !== "explorer") {
+    return null;
+  }
   if (state.hoverNodeId && state.nodeById.has(state.hoverNodeId)) {
     return state.hoverNodeId;
   }
@@ -4005,10 +4186,34 @@ function expandNeighborhood(nodeId) {
   syncNoteTitleActions(nodeId);
 }
 
+function openCommunity(communityId, updateUrl = true) {
+  const community = state.communityById.get(communityId);
+  const hubNode = community?.hubId ? state.nodeById.get(community.hubId) : null;
+  if (!community || !hubNode) {
+    return;
+  }
+  hideContextMenu();
+  clearActivePath(false);
+  state.activeCommunityId = communityId;
+  state.graphRootNodeId = null;
+  state.inspectNodeId = hubNode.id;
+  state.activeTagFilter = null;
+  state.neighborMode = false;
+  state.expandedNodeIds = new Set();
+  setActiveView("explorer");
+  syncLayout(true);
+  fitGraph();
+  loadNote(hubNode.id);
+  if (updateUrl) {
+    updateUrlState();
+  }
+}
+
 function openLocalGraph(nodeId) {
   const node = state.nodeById.get(nodeId);
   if (!node) return;
   hideContextMenu();
+  state.activeCommunityId = null;
   state.neighborMode = true;
   selectNode(nodeId, true);
 }
@@ -4046,6 +4251,7 @@ function selectNode(nodeId, shouldCenter = true, updateUrl = true) {
   maybeClearPathForNode(nodeId);
   hideContextMenu();
   setActiveView("explorer");
+  state.activeCommunityId = null;
   state.neighborMode = true;
   state.graphRootNodeId = nodeId;
   state.inspectNodeId = nodeId;
@@ -4070,6 +4276,7 @@ function resetSelection() {
   setActiveView("landing");
   searchInput.value = "";
   resetSearchState();
+  state.activeCommunityId = null;
   state.graphRootNodeId = null;
   state.inspectNodeId = null;
   state.activeTagFilter = null;
@@ -4469,17 +4676,37 @@ function bindEvents() {
 
   window.addEventListener("mouseup", () => {
     state.dragging = false;
-    canvas.style.cursor = state.hoverNodeId ? "pointer" : "default";
+    canvas.style.cursor = (isClusterLandingView()
+      ? (state.hoverCommunityId ? "pointer" : "default")
+      : (state.hoverNodeId ? "pointer" : "default"));
     updateToolbarNodeActions();
     refreshNodeTooltip();
   });
 
   canvas.addEventListener("mousemove", (event) => {
     const rect = graphStage.getBoundingClientRect();
+    if (isClusterLandingView()) {
+      const hoveredCommunity = state.dragging ? null : pickCommunityAt(event.clientX, event.clientY);
+      const nextHoverCommunityId = hoveredCommunity ? hoveredCommunity.id : null;
+      const hoverChanged = nextHoverCommunityId !== state.hoverCommunityId;
+      state.hoverCommunityId = nextHoverCommunityId;
+      state.hoverNodeId = null;
+      state.pointer = {
+        x: event.clientX - rect.left,
+        y: event.clientY - rect.top,
+        active: true,
+      };
+      canvas.style.cursor = state.dragging ? "grabbing" : (hoveredCommunity ? "pointer" : "default");
+      if (!state.dragging || hoverChanged) {
+        render();
+      }
+      return;
+    }
     const hoveredNode = state.dragging ? null : pickNodeAt(event.clientX, event.clientY);
     const nextHoverNodeId = hoveredNode ? hoveredNode.id : null;
     const hoverChanged = nextHoverNodeId !== state.hoverNodeId;
     state.hoverNodeId = nextHoverNodeId;
+    state.hoverCommunityId = null;
     state.pointer = {
       x: event.clientX - rect.left,
       y: event.clientY - rect.top,
@@ -4500,6 +4727,7 @@ function bindEvents() {
   canvas.addEventListener("mouseleave", () => {
     state.pointer.active = false;
     state.hoverNodeId = null;
+    state.hoverCommunityId = null;
     canvas.style.cursor = "default";
     hideTooltip("node");
     updateToolbarNodeActions();
@@ -4509,6 +4737,14 @@ function bindEvents() {
   canvas.addEventListener("click", (event) => {
     hideContextMenu();
     if (Math.abs(event.clientX - state.dragStart.x) > 4 || Math.abs(event.clientY - state.dragStart.y) > 4) {
+      return;
+    }
+    if (isClusterLandingView()) {
+      const community = pickCommunityAt(event.clientX, event.clientY);
+      if (!community) {
+        return;
+      }
+      openCommunity(community.id);
       return;
     }
     const winner = pickNodeAt(event.clientX, event.clientY);
@@ -4523,6 +4759,9 @@ function bindEvents() {
   });
 
   canvas.addEventListener("contextmenu", (event) => {
+    if (isClusterLandingView()) {
+      return;
+    }
     const winner = pickNodeAt(event.clientX, event.clientY);
     if (!winner) {
       return;
@@ -4667,6 +4906,7 @@ function bindEvents() {
   graphFilterToolbar.addEventListener("input", (event) => {
     if (event.target.id === "graph-filter-tag-input") {
       setGraphTagFilterInput(event.target.value);
+      syncGraphFilterTagOptions();
     }
   });
 
@@ -4855,6 +5095,7 @@ function applyUrlState() {
   if (!nodeId) {
     clearActivePath(false);
     setActiveView("landing");
+    state.activeCommunityId = null;
     state.graphRootNodeId = null;
     state.inspectNodeId = null;
     state.activeTagFilter = null;
@@ -4893,6 +5134,9 @@ async function bootstrap() {
 
   state.baseNodes = graph.nodes;
   state.baseEdges = graph.edges;
+  state.baseCommunityNodes = graph.communityNodes || [];
+  state.baseCommunityEdges = graph.communityEdges || [];
+  state.communityById = new Map(state.baseCommunityNodes.map((community) => [community.id, community]));
   state.baseMeta = graph.meta;
   state.baseSearchDocs = searchDocs;
   validateInvestigationLayersAgainstGraph();

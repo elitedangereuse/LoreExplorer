@@ -3,4 +3,4 @@
 :END:
 #+title: Francesca Wolfe
 #+filetags: :Individual:
-
+Detective from the [[id:b40c2b11-1199-4276-8f40-30cfcef498fa][Wallglass Investigations]] Agency

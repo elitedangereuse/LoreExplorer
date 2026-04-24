@@ -65,6 +65,7 @@ class Note:
     size: float = 4.0
     color: str = "#5dade2"
     snippet: str = ""
+    community: str = ""
 
     @property
     def degree(self) -> int:
@@ -120,6 +121,158 @@ def color_for_group(group: str, groups: list[str]) -> str:
     return PALETTE[index]
 
 
+def build_adjacency(notes: dict[str, Note], links: list[tuple[str, str]]) -> dict[str, set[str]]:
+    adjacency = {node_id: set() for node_id in notes}
+    for source, dest in links:
+        adjacency[source].add(dest)
+        adjacency[dest].add(source)
+    return adjacency
+
+
+def choose_community_label(
+    note_id: str,
+    adjacency: dict[str, set[str]],
+    labels: dict[str, str],
+    notes: dict[str, Note],
+) -> str:
+    neighbor_labels = Counter(labels[neighbor_id] for neighbor_id in adjacency[note_id])
+    if not neighbor_labels:
+        return labels[note_id]
+    return max(
+        neighbor_labels,
+        key=lambda label: (
+            neighbor_labels[label],
+            sum(notes[neighbor_id].degree for neighbor_id in adjacency[note_id] if labels[neighbor_id] == label),
+            -len(label),
+            label,
+        ),
+    )
+
+
+def choose_merge_target(
+    members: list[str],
+    adjacency: dict[str, set[str]],
+    communities: dict[str, list[str]],
+    node_to_community: dict[str, str],
+    notes: dict[str, Note],
+) -> str | None:
+    boundary_scores: Counter[str] = Counter()
+    for node_id in members:
+        for neighbor_id in adjacency[node_id]:
+            target = node_to_community[neighbor_id]
+            if target != node_to_community[node_id]:
+                boundary_scores[target] += 1
+    if boundary_scores:
+        return max(
+            boundary_scores,
+            key=lambda community_id: (
+                boundary_scores[community_id],
+                len(communities[community_id]),
+                sum(notes[node_id].degree for node_id in communities[community_id]),
+                community_id,
+            ),
+        )
+
+    member_groups = Counter(notes[node_id].group for node_id in members if notes[node_id].group)
+    if member_groups:
+        dominant_group = member_groups.most_common(1)[0][0]
+        matching = [community_id for community_id, node_ids in communities.items() if any(notes[node_id].group == dominant_group for node_id in node_ids)]
+        if matching:
+            return max(
+                matching,
+                key=lambda community_id: (
+                    len(communities[community_id]),
+                    sum(notes[node_id].degree for node_id in communities[community_id]),
+                    community_id,
+                ),
+            )
+
+    if not communities:
+        return None
+    return max(
+        communities,
+        key=lambda community_id: (
+            len(communities[community_id]),
+            sum(notes[node_id].degree for node_id in communities[community_id]),
+            community_id,
+        ),
+    )
+
+
+def detect_communities(notes: dict[str, Note], links: list[tuple[str, str]]) -> dict[str, list[str]]:
+    adjacency = build_adjacency(notes, links)
+    labels = {node_id: node_id for node_id in notes}
+    node_order = [note.node_id for note in sorted(notes.values(), key=lambda note: (-note.degree, note.title.lower(), note.node_id))]
+
+    for _ in range(16):
+        changed = False
+        for node_id in node_order:
+            next_label = choose_community_label(node_id, adjacency, labels, notes)
+            if next_label != labels[node_id]:
+                labels[node_id] = next_label
+                changed = True
+        if not changed:
+            break
+
+    communities: dict[str, list[str]] = defaultdict(list)
+    for node_id, label in labels.items():
+        communities[label].append(node_id)
+
+    min_size = max(10, round(math.sqrt(max(1, len(notes))) / 2))
+    node_to_community = {node_id: label for label, node_ids in communities.items() for node_id in node_ids}
+
+    while True:
+        small_communities = [
+            community_id
+            for community_id, node_ids in communities.items()
+            if len(node_ids) < min_size
+        ]
+        if not small_communities:
+            break
+
+        moved = False
+        for community_id in sorted(small_communities, key=lambda item: (len(communities[item]), item)):
+            members = communities.get(community_id)
+            if not members or len(members) >= min_size:
+                continue
+            candidate_communities = {
+                key: value
+                for key, value in communities.items()
+                if key != community_id
+            }
+            target = choose_merge_target(members, adjacency, candidate_communities, node_to_community, notes)
+            if not target:
+                continue
+            communities[target].extend(members)
+            for node_id in members:
+                node_to_community[node_id] = target
+            del communities[community_id]
+            moved = True
+        if not moved:
+            break
+
+    ordered_communities = sorted(
+        communities.values(),
+        key=lambda node_ids: (
+            -len(node_ids),
+            -sum(notes[node_id].degree for node_id in node_ids),
+            min(node_ids),
+        ),
+    )
+    final_communities: dict[str, list[str]] = {}
+    for index, node_ids in enumerate(ordered_communities, start=1):
+        community_id = f"community-{index:03d}"
+        sorted_node_ids = sorted(
+            node_ids,
+            key=lambda node_id: (-notes[node_id].degree, notes[node_id].title.lower(), node_id),
+        )
+        final_communities[community_id] = sorted_node_ids
+        for node_id in sorted_node_ids:
+            notes[node_id].community = community_id
+
+    return final_communities
+
+
 def resolve_note_path(raw_path: str, src_dir: Path) -> Path:
     candidate = Path(raw_path)
     if candidate.exists():
@@ -171,36 +324,35 @@ def load_notes(db_path: Path, src_dir: Path) -> tuple[dict[str, Note], list[tupl
     return notes, links
 
 
-def assign_positions(notes: dict[str, Note]) -> None:
+def assign_positions(notes: dict[str, Note], communities: dict[str, list[str]]) -> None:
     groups = sorted({choose_group(note.tags) for note in notes.values()})
-    group_offsets: dict[str, tuple[float, float]] = {}
-    large_radius = max(900.0, len(groups) * 85.0)
-
-    for index, group in enumerate(groups):
-        angle = index * (2 * math.pi / max(1, len(groups)))
-        group_offsets[group] = (
-            math.cos(angle) * large_radius,
-            math.sin(angle) * large_radius,
-        )
-
-    bucketed: dict[str, list[Note]] = defaultdict(list)
     for note in notes.values():
         note.group = choose_group(note.tags)
-        bucketed[note.group].append(note)
+        note.color = color_for_group(note.group, groups)
 
-    for group in groups:
-        bucket = sorted(
-            bucketed[group],
-            key=lambda note: (-note.degree, note.title.lower(), note.node_id),
+    ordered_communities = list(communities.items())
+    community_radius = max(900.0, len(ordered_communities) * 95.0)
+
+    for community_index, (community_id, node_ids) in enumerate(ordered_communities):
+        angle = community_index * (2 * math.pi / max(1, len(ordered_communities)))
+        center_x = math.cos(angle) * community_radius
+        center_y = math.sin(angle) * community_radius
+        dominant_groups = Counter(notes[node_id].group for node_id in node_ids if notes[node_id].group)
+        dominant_group = dominant_groups.most_common(1)[0][0] if dominant_groups else "misc"
+
+        sorted_node_ids = sorted(
+            node_ids,
+            key=lambda node_id: (-notes[node_id].degree, notes[node_id].title.lower(), node_id),
         )
-        offset_x, offset_y = group_offsets[group]
-        for index, note in enumerate(bucket):
-            angle = index * 2.399963229728653
-            radius = 20.0 * math.sqrt(index + 1)
-            note.x = round(offset_x + math.cos(angle) * radius, 2)
-            note.y = round(offset_y + math.sin(angle) * radius, 2)
+        for node_index, node_id in enumerate(sorted_node_ids):
+            note = notes[node_id]
+            local_angle = node_index * 2.399963229728653
+            local_radius = 18.0 * math.sqrt(node_index + 1)
+            note.x = round(center_x + math.cos(local_angle) * local_radius, 2)
+            note.y = round(center_y + math.sin(local_angle) * local_radius, 2)
             note.size = score_size(note.degree)
-            note.color = color_for_group(group, groups)
+            if note.group == "misc":
+                note.color = color_for_group(dominant_group, groups)
 
 
 def strip_metadata(lines: list[str]) -> list[str]:
@@ -401,13 +553,15 @@ def build_site(db_path: Path, src_dir: Path, site_dir: Path, out_dir: Path) -> N
         shutil.copytree(image_dir, out_dir / "img", dirs_exist_ok=True)
 
     notes, links = load_notes(db_path, src_dir)
-    assign_positions(notes)
+    communities = detect_communities(notes, links)
+    assign_positions(notes, communities)
 
     notes_dir = out_dir / "notes"
     notes_dir.mkdir(parents=True, exist_ok=True)
     written_note_names: set[str] = set()
 
     node_payload = []
+    community_payload = []
     search_payload = []
 
     group_counter = Counter(note.group for note in notes.values())
@@ -433,6 +587,7 @@ def build_site(db_path: Path, src_dir: Path, site_dir: Path, out_dir: Path) -> N
                 "outbound": note.outbound,
                 "tags": note.tags,
                 "aliases": note.aliases,
+                "community": note.community,
             }
         )
 
@@ -453,15 +608,76 @@ def build_site(db_path: Path, src_dir: Path, site_dir: Path, out_dir: Path) -> N
         )
 
     edge_payload = [{"source": source, "target": dest} for source, dest in links]
+    community_edges = Counter()
+
+    for source, dest in links:
+        source_community = notes[source].community
+        dest_community = notes[dest].community
+        if not source_community or not dest_community or source_community == dest_community:
+            continue
+        left, right = sorted((source_community, dest_community))
+        community_edges[(left, right)] += 1
+
+    community_groups = sorted({choose_group(note.tags) for note in notes.values()})
+    ordered_communities = list(communities.items())
+    community_radius = max(620.0, len(ordered_communities) * 48.0)
+
+    for community_index, (community_id, node_ids) in enumerate(ordered_communities):
+        community_notes = [notes[node_id] for node_id in node_ids]
+        hub = max(community_notes, key=lambda note: (note.degree, note.title.lower(), note.node_id))
+        community_group_counter = Counter(note.group for note in community_notes if note.group)
+        dominant_group = community_group_counter.most_common(1)[0][0] if community_group_counter else "misc"
+        angle = community_index * (2 * math.pi / max(1, len(ordered_communities)))
+        x = round(math.cos(angle) * community_radius, 2)
+        y = round(math.sin(angle) * community_radius, 2)
+        internal_edge_count = sum(
+            1
+            for source, dest in links
+            if notes[source].community == community_id and notes[dest].community == community_id
+        )
+        community_payload.append(
+            {
+                "id": community_id,
+                "title": f"{dominant_group} · {hub.title}" if dominant_group != "misc" else hub.title,
+                "x": x,
+                "y": y,
+                "size": round(14.0 + math.sqrt(len(node_ids)) * 3.6, 2),
+                "color": color_for_group(dominant_group, community_groups),
+                "group": dominant_group,
+                "nodeCount": len(node_ids),
+                "edgeCount": internal_edge_count,
+                "hubId": hub.node_id,
+                "hubTitle": hub.title,
+            }
+        )
+
+    community_edge_payload = [
+        {
+            "source": source,
+            "target": target,
+            "weight": weight,
+        }
+        for (source, target), weight in sorted(community_edges.items(), key=lambda item: (-item[1], item[0][0], item[0][1]))
+    ]
 
     meta_payload = {
         "nodeCount": len(node_payload),
         "edgeCount": len(edge_payload),
         "groupCount": len(group_counter),
+        "communityCount": len(community_payload),
         "topGroups": group_counter.most_common(12),
     }
 
-    write_json(out_dir / "data" / "graph.json", {"nodes": node_payload, "edges": edge_payload, "meta": meta_payload})
+    write_json(
+        out_dir / "data" / "graph.json",
+        {
+            "nodes": node_payload,
+            "edges": edge_payload,
+            "communityNodes": community_payload,
+            "communityEdges": community_edge_payload,
+            "meta": meta_payload,
+        },
+    )
     write_json(out_dir / "data" / "search-docs.json", search_payload)
     write_json(out_dir / "data" / "meta.json", meta_payload)
 
