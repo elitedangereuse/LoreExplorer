@@ -3,7 +3,7 @@
 :ROAM_ALIASES: TDW
 :END:
 #+title: The Dark Wheel
-#+filetags: :3300:KnowledgeBase:Codex:
+#+filetags: :3300:KnowledgeBase:
 * People
   - [[id:abad5f3f-677b-40cc-9038-12eb558ec4cc][Jason Ryder]]
   - [[id:6c17b5fb-2960-4a32-a775-478055f593cb][Rafe Zetter]]

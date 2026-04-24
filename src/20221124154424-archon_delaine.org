@@ -2,7 +2,7 @@
 :ID:       7aae0550-b8ba-42cf-b52b-e7040461c96f
 :END:
 #+title: Archon Delaine
-#+filetags: :Codex:KnowledgeBase:Individual:
+#+filetags: :KnowledgeBase:Individual:
 
 * [[id:7aae0550-b8ba-42cf-b52b-e7040461c96f][Archon Delaine]]
 
@@ -79,4 +79,3 @@ any Kumo pirate foolish enough to raid it risks being stripped of his
 rank, his crew, his possessions, his skin and his life, according to the
 severity of the offence. These are the infamous 'five strippings'
 instigated by Delaine as a standard punishment across Kumo territory.
-

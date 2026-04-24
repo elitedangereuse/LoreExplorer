@@ -2,7 +2,7 @@
 :ID:       b9fe58a3-dfb7-480c-afd6-92c3be841be7
 :END:
 #+title: Felicia Winters
-#+filetags: :3301:Federation:Alliance:Thargoid:Codex:KnowledgeBase:Individual:
+#+filetags: :3301:Federation:Alliance:Thargoid:KnowledgeBase:Individual:
 
 * [[id:b9fe58a3-dfb7-480c-afd6-92c3be841be7][Felicia Winters]]
 
@@ -72,4 +72,3 @@ various systems not to defect to the Alliance, and distributing aid
 packages to planets in need. Her energetic and proactive approach led to
 fresh support for both her and her party, and she currently rival Hudson
 in the popularity stakes.
-

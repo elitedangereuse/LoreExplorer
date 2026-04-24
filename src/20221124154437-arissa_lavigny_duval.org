@@ -2,7 +2,7 @@
 :ID:       34f3cfdd-0536-40a9-8732-13bf3a5e4a70
 :END:
 #+title: Arissa Lavigny-Duval
-#+filetags: :Empire:Federation:KnowledgeBase:Codex:Individual:
+#+filetags: :Empire:Federation:KnowledgeBase:Individual:
 
 * [[id:34f3cfdd-0536-40a9-8732-13bf3a5e4a70][Arissa Lavigny-Duval]]
 
@@ -38,7 +38,7 @@
 [[id:34f3cfdd-0536-40a9-8732-13bf3a5e4a70][Arissa Lavigny-Duval]] is the reigning Emperor, having been appointed to
 the position by the Imperial Senate, and a direct descendant of the
 first Emperor, Henson Duval. Her father was originally thought to be the
-late Prince Aristide de Lavigny, but Arissa's claim to be the
+late Prince [[id:207bef41-d5d6-434d-b56d-acf153e59896][Aristide de Lavigny]], but Arissa's claim to be the
 illegitimate daughter of Emperor [[id:3cb0755e-4deb-442b-898b-3f0c6651636e][Hengist Duval]] has since been ratified
 by DNA testing.
 
@@ -78,4 +78,3 @@ As the first woman to serve as Emperor, Arissa is a controversial figure
 to many regardless of her personal political stance. Many hard-core
 traditionalists within the Empire have vowed to depose her and replace
 her with a ruler more to their liking.
-

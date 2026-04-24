@@ -2,7 +2,7 @@
 :ID:       a2bd8247-2daf-4bd9-b6da-667ff707b0a2
 :END:
 #+title: Raxxla
-#+filetags: :KnowledgeBase:Codex:
+#+filetags: :KnowledgeBase:
 #+CAPTION: Codex logo for Raxxla
 #+NAME:   fig:Raxxla_400.png
 [[file:img/Raxxla_400.png]]
@@ -66,4 +66,3 @@ covert dominance over humanity.
 Whatever the truth of the matter, one thing remains irrefutable: the
 legend of Raxxla continues to inspire explorers and conspiracy theorists
 to this day.
-

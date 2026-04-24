@@ -2,7 +2,7 @@
 :ID:       951f3d20-c3aa-41cc-ba58-cc7d3a5a1d07
 :END:
 #+title: Generation Ships
-#+filetags: :Federation:KnowledgeBase:Codex:ship:
+#+filetags: :Federation:KnowledgeBase:ship:
 
 * Generation Ships
 Before the development of faster-than-light travel, colonising distant
@@ -52,4 +52,3 @@ prepared. Modern generations may not know of their ancestral ties these
 people who sacrificed so much, and so we must remind them. Other souls
 surely drift through the void still, and it is our duty to bring them
 home."
-

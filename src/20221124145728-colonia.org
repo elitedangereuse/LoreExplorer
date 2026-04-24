@@ -2,7 +2,7 @@
 :ID:       ba6c6359-137b-4f86-ad93-f8ae56b0ad34
 :END:
 #+title: Colonia
-#+filetags: :KnowledgeBase:System:Codex:
+#+filetags: :KnowledgeBase:System:
 
 * [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]]
 
@@ -52,4 +52,3 @@ To date, [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] has remained untro
 plagues the core systems, earning it a reputation as a sanctuary. But it
 remains to be seen if this nascent community will thrive in isolation,
 or be engulfed by political and corporate forces.
-

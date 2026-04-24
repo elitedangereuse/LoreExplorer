@@ -2,16 +2,15 @@
 :ID:       3cb0755e-4deb-442b-898b-3f0c6651636e
 :END:
 #+title: Hengist Duval
-#+filetags: :3164:3301:Empire:Federation:KnowledgeBase:Codex:Individual:
+#+filetags: :3164:3301:Empire:Federation:KnowledgeBase:Individual:
 
 * [[id:3cb0755e-4deb-442b-898b-3f0c6651636e][Hengist Duval]]
 [[id:3cb0755e-4deb-442b-898b-3f0c6651636e][Hengist Duval]] ([[id:dc08846c-3427-4879-b556-ae3442c4ebba][3164]], [[id:6b07ceac-7fe6-43c0-98c9-460049eb1d7c][3301]]) was the 15th ruler of the Empire. He was
 [[id:a8068e9d-6706-47da-a19c-2ac943ea8811][assassinated]] on the day of his wedding to [[id:33f63de9-fd79-4790-a1a5-ebd87aaeea2d][Florence Lavigny]].
 
-Hengist reigned during a time of significant change. The Imperial Senate
+Hengist reigned during a time of significant change. The [[id:6b539fa1-7ebe-44d3-874b-41a3bd400af9][Imperial Senate]]
 had begun to grow in power, a process that had begun during the long
-sickness of Hengist's father, Hesketh. The development of the frame
-shift drive had radically altered life in human-occupied space,
+sickness of Hengist's father, [[id:8dc482e7-e978-4e6e-8a63-600e61cd715f][Hesketh]]. The development of the [[id:46a9c980-af48-4e43-a820-9971d7c76c34][frame shift drive]] had radically altered life in human-occupied space,
 facilitating easy access to goods and interstellar travel, and opening
 formerly isolated cultures to outside influence. Old animosities between
 the Empire and the Federation finally began to fade.
@@ -30,28 +29,28 @@ couple. It was an open secret that the match had been made solely
 because of optimal genetic compatibility, and that Hengist could not
 refuse without dishonouring his father's memory. As the marriage
 crumbled, Hengist spent much of his time with his boyhood friend
-Aristide de Lavigny and his wife Florence at their estate on [[id:bed8c27f-3cbe-49ad-b86f-7d87eacf804a][Achenar]].
+[[id:207bef41-d5d6-434d-b56d-acf153e59896][Aristide de Lavigny]] and his wife Florence at their estate on [[id:bed8c27f-3cbe-49ad-b86f-7d87eacf804a][Achenar]].
 
 Inflammatory tracts from this period portray the Imperial dynasty and
 its noble cohorts as little more than libertines, indulging in
-lascivious affairs and lengthy holidays while the Senate did the real
+lascivious affairs and lengthy holidays while the [[id:6b539fa1-7ebe-44d3-874b-41a3bd400af9][Senate]] did the real
 work of government. The most scurrilous rumour was that the Duval
 genetic code had been corrupted by centuries of interference, prompting
 speculation that a successor of the 'true blood' would have to be found.
 
-The birth of Hengist's heir, Prince Harold, temporarily quietened the
+The birth of Hengist's heir, [[id:28fc3b99-d8a7-49e1-9593-1db6043430c7][Prince Harold]], temporarily quietened the
 sceptics. A carefully orchestrated father-son photoshoot when Harold was
 nine showed the pair riding horses on [[id:bed8c27f-3cbe-49ad-b86f-7d87eacf804a][Achenar]], throwing javelins,
 watching a Senatorial debate and preparing for a seasonal feast. The
 photoshoot was clearly designed to appeal to traditional Imperial
-values, and it succeeded. For several years after, Prince Harold was the
+values, and it succeeded. For several years after, [[id:28fc3b99-d8a7-49e1-9593-1db6043430c7][Prince Harold]] was the
 darling of the Empire, a symbol of promise and hope. The intense media
 focus on the prince's life is now believed to be partly responsible for
 his fall from grace, which saw him become a notorious playboy and
 philanderer, and which eventually resulted in his exclusion from the
 succession on the grounds of mental incapacity.
 
-Towards the end of Hengist's life, it emerged that Arissa Lavigny, the
+Towards the end of Hengist's life, it emerged that [[id:34f3cfdd-0536-40a9-8732-13bf3a5e4a70][Arissa Lavigny]], the
 daughter of [[id:33f63de9-fd79-4790-a1a5-ebd87aaeea2d][Florence Lavigny]], was in fact his daughter. Hengist intended
 to strengthen her claim to the throne by marrying Florence, thus
 legitimising Arissa, but he was assassinated before this could take

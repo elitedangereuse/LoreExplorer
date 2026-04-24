@@ -3,7 +3,7 @@
 :ROAM_ALIASES: PF
 :END:
 #+title: Pilots' Federation
-#+filetags: :Federation:Thargoid:KnowledgeBase:Codex:
+#+filetags: :Federation:Thargoid:KnowledgeBase:
 Delivers the [[id:b2b2d9ee-9c33-4a0b-b3ce-82cfa362577e][Permit]] for the [[id:c6b67ab9-66c5-4636-a978-2ca3a9ab012c][Shinrarta Dezhra]] system.
 
 * The Pilots' Federation
@@ -50,4 +50,3 @@ contributed to perceptions of the organisation as secretive. Despite
 this secrecy, the organisation's influence is undeniable, its members
 have made significant contributions to interstellar exploration, the
 galactic economy and the Thargoid resistance effort.
-

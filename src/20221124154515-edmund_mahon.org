@@ -2,7 +2,7 @@
 :ID:       da80c263-3c2d-43dd-ab3f-1fbf40490f74
 :END:
 #+title: Edmund Mahon
-#+filetags: :Federation:Alliance:KnowledgeBase:Codex:Individual:
+#+filetags: :Federation:Alliance:KnowledgeBase:Individual:
 
 * [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74][Edmund Mahon]]
 
@@ -85,4 +85,3 @@ it a part of the Alliance.
 By the time [[id:4aedfccd-a366-4b25-a5e2-538bb29a35cb][Diso]] joined the Alliance in 3286, Mahon was a seasoned
 parliamentarian. He served as a planetary representative several times
 before making his bid for the premiership.
-

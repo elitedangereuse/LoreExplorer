@@ -2,7 +2,7 @@
 :ID:       02322be1-fc02-4d8b-acf6-9a9681e3fb15
 :END:
 #+title: Zachary Hudson
-#+filetags: :3301:Federation:KnowledgeBase:Codex:Individual:
+#+filetags: :3301:Federation:KnowledgeBase:Individual:
 * Job
   [[id:bb90a162-e588-4467-bc4b-d8a33ecef686][President of the Federation]]
 * Ship
@@ -77,4 +77,3 @@ Vincent, is now Admiral of the Fleet, and the two enjoyed a close
 professional relationship. Hudson has given the military considerable
 support, investing in improved training facilities, cutting taxes for
 shipyards and cultivating public respect for the armed forces.
-

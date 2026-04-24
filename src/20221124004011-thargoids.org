@@ -2,7 +2,7 @@
 :ID:       09343513-2893-458e-a689-5865fdc32e0a
 :END:
 #+title: Thargoids
-#+filetags: :Empire:Federation:Thargoid:Specie:Guardian:Codex:
+#+filetags: :Empire:Federation:Thargoid:Specie:Guardian:KnowledgeBase:
 * The Thargoids
 ** Human-Thargoid Contact
 The Thargoids are a nonhuman race with a history of hostility towards
@@ -225,6 +225,5 @@ Professor Palin concurs with this view, adding that the Thargoids are
 apparently so determined to eliminate any threats to their long-term
 survival, they will not tolerate any advanced species in close
 proximity.
-
 
 
