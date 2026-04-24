@@ -2,5 +2,4 @@
 :ID:       48d8b14a-3eb9-4d19-8127-c4b0a9935edb
 :END:
 #+title: KitsuneThe Fluff
-#+filetags: :Commander:Individual:
-
+#+filetags: :Player:Individual:

@@ -2,5 +2,4 @@
 :ID:       21a438c6-7eff-4dd1-8f8a-12294f71cb40
 :END:
 #+title: Rebecca Hail
-#+filetags: :Commander:Individual:
-
+#+filetags: :Player:Individual:

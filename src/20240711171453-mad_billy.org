@@ -2,5 +2,4 @@
 :ID:       56e961c9-9cb2-42b0-a52d-7b5c1909480f
 :END:
 #+title: Mad Billy
-#+filetags: :Commander:Individual:
-
+#+filetags: :Player:Individual:
