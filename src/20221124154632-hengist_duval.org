@@ -2,10 +2,10 @@
 :ID:       3cb0755e-4deb-442b-898b-3f0c6651636e
 :END:
 #+title: Hengist Duval
-#+filetags: :3301:Empire:Federation:KnowledgeBase:Codex:Individual:
+#+filetags: :3164:3301:Empire:Federation:KnowledgeBase:Codex:Individual:
 
 * [[id:3cb0755e-4deb-442b-898b-3f0c6651636e][Hengist Duval]]
-[[id:3cb0755e-4deb-442b-898b-3f0c6651636e][Hengist Duval]] (3164-3301) was the 15th ruler of the Empire. He was
+[[id:3cb0755e-4deb-442b-898b-3f0c6651636e][Hengist Duval]] ([[id:dc08846c-3427-4879-b556-ae3442c4ebba][3164]], [[id:6b07ceac-7fe6-43c0-98c9-460049eb1d7c][3301]]) was the 15th ruler of the Empire. He was
 [[id:a8068e9d-6706-47da-a19c-2ac943ea8811][assassinated]] on the day of his wedding to [[id:33f63de9-fd79-4790-a1a5-ebd87aaeea2d][Florence Lavigny]].
 
 Hengist reigned during a time of significant change. The Imperial Senate
@@ -60,4 +60,3 @@ place.
 The most enduring criticism of Emperor Hengist is that he failed to plan
 adequately for the future; certainly, the matter of the succession
 created tensions that endure to this day.
-
