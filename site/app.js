@@ -91,6 +91,7 @@ const state = {
     exclude: [],
   },
   graphTagFilterInput: "",
+  graphTagFilterSelectionArmed: false,
   searchSuggestion: null,
   searchSelectedIndex: -1,
   searchExactNodeIds: [],
@@ -3584,8 +3585,45 @@ function refreshGraphAfterTagFilterChange() {
   fitGraph();
 }
 
-function addGraphTagFilter(bucket, rawTag) {
+function shouldCommitExactGraphTagFromInputEvent(event, exactTag) {
+  if (!exactTag) {
+    return false;
+  }
+  if (state.graphTagFilterSelectionArmed) {
+    return true;
+  }
+  return event instanceof InputEvent && event.inputType === "insertReplacementText";
+}
+
+function resolveExactGraphTagFilterInput(rawTag) {
   const normalizedTag = canonicalizeTag(rawTag);
+  if (!normalizedTag) {
+    return null;
+  }
+  if (state.tagDisplayByKey.has(normalizedTag)) {
+    return normalizedTag;
+  }
+  return null;
+}
+
+function resolveGraphTagFilterInput(rawTag) {
+  const exactTag = resolveExactGraphTagFilterInput(rawTag);
+  if (exactTag) {
+    return exactTag;
+  }
+  const normalizedTag = canonicalizeTag(rawTag);
+  if (!normalizedTag) {
+    return null;
+  }
+  const fallbackTag = getScopedGraphFilterTags(200).find((tag) => (
+    tag.startsWith(normalizedTag)
+    || getGraphFilterDisplayTag(tag).toLocaleLowerCase().includes(normalizedTag)
+  ));
+  return fallbackTag || null;
+}
+
+function addGraphTagFilter(bucket, rawTag) {
+  const normalizedTag = resolveGraphTagFilterInput(rawTag) || canonicalizeTag(rawTag);
   if (!normalizedTag) {
     return;
   }
@@ -3597,6 +3635,7 @@ function addGraphTagFilter(bucket, rawTag) {
   nextFilters[bucket] = [...nextFilters[bucket], normalizedTag];
   state.graphTagFilters = nextFilters;
   state.graphTagFilterInput = "";
+  state.graphTagFilterSelectionArmed = false;
   updateCurrentNoteMeta();
   renderGraphFilterToolbar();
   refreshGraphAfterTagFilterChange();
@@ -3616,6 +3655,7 @@ function removeGraphTagFilter(bucket, rawTag) {
 function clearGraphTagFilters() {
   state.graphTagFilters = { requireAll: [], exclude: [] };
   state.graphTagFilterInput = "";
+  state.graphTagFilterSelectionArmed = false;
   updateCurrentNoteMeta();
   renderGraphFilterToolbar();
   refreshGraphAfterTagFilterChange();
@@ -3651,6 +3691,19 @@ function toggleGraphTagMode(rawTag) {
   updateCurrentNoteMeta();
   renderGraphFilterToolbar();
   refreshGraphAfterTagFilterChange();
+}
+
+function commitGraphTagFilterInput(input, { allowFallback = true } = {}) {
+  if (!input) {
+    return;
+  }
+  const normalizedTag = allowFallback
+    ? resolveGraphTagFilterInput(input.value)
+    : resolveExactGraphTagFilterInput(input.value);
+  if (!normalizedTag) {
+    return;
+  }
+  addGraphTagFilter("requireAll", normalizedTag);
 }
 
 function insertNodeLinkIntoCurrentNote(targetNodeId) {
@@ -4907,13 +4960,35 @@ function bindEvents() {
     if (event.target.id === "graph-filter-tag-input") {
       setGraphTagFilterInput(event.target.value);
       syncGraphFilterTagOptions();
+      const exactTag = resolveExactGraphTagFilterInput(event.target.value);
+      if (shouldCommitExactGraphTagFromInputEvent(event, exactTag)) {
+        commitGraphTagFilterInput(event.target, { allowFallback: false });
+        return;
+      }
+      if (!exactTag) {
+        state.graphTagFilterSelectionArmed = false;
+      }
+    }
+  });
+
+  graphFilterToolbar.addEventListener("change", (event) => {
+    if (event.target.id === "graph-filter-tag-input") {
+      state.graphTagFilterSelectionArmed = false;
+      commitGraphTagFilterInput(event.target, { allowFallback: false });
     }
   });
 
   graphFilterToolbar.addEventListener("keydown", (event) => {
+    if (event.target.id !== "graph-filter-tag-input") {
+      return;
+    }
+    if (event.key === "ArrowDown" || event.key === "ArrowUp") {
+      state.graphTagFilterSelectionArmed = true;
+      return;
+    }
     if (event.target.id === "graph-filter-tag-input" && event.key === "Enter") {
       event.preventDefault();
-      addGraphTagFilter("requireAll", event.target.value);
+      commitGraphTagFilterInput(event.target);
     }
   });
 
