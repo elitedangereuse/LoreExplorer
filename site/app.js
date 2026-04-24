@@ -3582,6 +3582,7 @@ function setGraphTagFilterInput(value) {
 }
 
 function refreshGraphAfterTagFilterChange() {
+  syncLayout(true);
   fitGraph();
 }
 
@@ -4206,6 +4207,180 @@ function applyRadialNeighborLayout(layoutState, resetPositions) {
   }
 }
 
+function buildFilteredComponentLayout(componentIds) {
+  const componentNodes = componentIds
+    .map((nodeId) => state.nodeById.get(nodeId))
+    .filter(Boolean);
+  if (!componentNodes.length) {
+    return [];
+  }
+
+  const visibleIdSet = new Set(componentIds);
+  const degreeWithinComponent = (nodeId) => {
+    const neighbors = state.adjacency.get(nodeId) || new Set();
+    let degree = 0;
+    for (const neighborId of neighbors) {
+      if (visibleIdSet.has(neighborId)) {
+        degree += 1;
+      }
+    }
+    return degree;
+  };
+
+  const center = [...componentNodes].sort((left, right) => (
+    degreeWithinComponent(right.id) - degreeWithinComponent(left.id)
+    || right.degree - left.degree
+    || left.title.localeCompare(right.title)
+  ))[0];
+  const depthById = new Map([[center.id, 0]]);
+  const queue = [center.id];
+
+  while (queue.length) {
+    const currentId = queue.shift();
+    const currentDepth = depthById.get(currentId) || 0;
+    const neighbors = state.adjacency.get(currentId) || new Set();
+    for (const neighborId of neighbors) {
+      if (!visibleIdSet.has(neighborId) || depthById.has(neighborId)) {
+        continue;
+      }
+      depthById.set(neighborId, currentDepth + 1);
+      queue.push(neighborId);
+    }
+  }
+
+  const positions = new Map([[center.id, { x: 0, y: 0 }]]);
+  const nodesByDepth = new Map();
+  for (const node of componentNodes) {
+    if (node.id === center.id) {
+      continue;
+    }
+    const depth = depthById.get(node.id) || 1;
+    if (!nodesByDepth.has(depth)) {
+      nodesByDepth.set(depth, []);
+    }
+    nodesByDepth.get(depth).push(node);
+  }
+
+  const sortedDepths = [...nodesByDepth.keys()].sort((left, right) => left - right);
+  for (const depth of sortedDepths) {
+    const ringNodes = [...nodesByDepth.get(depth)].sort((left, right) => {
+      const leftAngle = Math.atan2(left.homeY - center.homeY, left.homeX - center.homeX);
+      const rightAngle = Math.atan2(right.homeY - center.homeY, right.homeX - center.homeX);
+      return leftAngle - rightAngle || right.degree - left.degree || left.title.localeCompare(right.title);
+    });
+    const ringRadius = 80 + (depth - 1) * 68;
+    const step = (Math.PI * 2) / Math.max(1, ringNodes.length);
+    const angleOffset = -Math.PI / 2;
+    ringNodes.forEach((node, index) => {
+      const angle = angleOffset + index * step;
+      const radius = ringRadius + Math.min(14, degreeWithinComponent(node.id) * 2.2);
+      positions.set(node.id, {
+        x: Math.cos(angle) * radius,
+        y: Math.sin(angle) * radius,
+      });
+    });
+  }
+
+  return componentNodes.map((node) => ({
+    node,
+    ...positions.get(node.id),
+  }));
+}
+
+function getFilteredLayoutComponents(visibleIds) {
+  const pending = new Set(visibleIds);
+  const components = [];
+
+  while (pending.size) {
+    const startId = pending.values().next().value;
+    pending.delete(startId);
+    const queue = [startId];
+    const componentIds = [startId];
+
+    while (queue.length) {
+      const currentId = queue.shift();
+      const neighbors = state.adjacency.get(currentId) || new Set();
+      for (const neighborId of neighbors) {
+        if (!pending.has(neighborId) || !visibleIds.has(neighborId)) {
+          continue;
+        }
+        pending.delete(neighborId);
+        queue.push(neighborId);
+        componentIds.push(neighborId);
+      }
+    }
+
+    components.push(componentIds);
+  }
+
+  return components.sort((left, right) => right.length - left.length);
+}
+
+function applyFilteredGraphLayout(resetPositions = true) {
+  restoreGlobalLayout(false);
+  const visibleIds = getVisibleNodeIds();
+  if (!visibleIds || !visibleIds.size) {
+    return;
+  }
+
+  const components = getFilteredLayoutComponents(visibleIds)
+    .map((componentIds) => {
+      const entries = buildFilteredComponentLayout(componentIds);
+      if (!entries.length) {
+        return null;
+      }
+      const bounds = computeBounds(entries);
+      return {
+        entries,
+        width: Math.max(80, bounds.maxX - bounds.minX),
+        height: Math.max(80, bounds.maxY - bounds.minY),
+        minX: bounds.minX,
+        minY: bounds.minY,
+      };
+    })
+    .filter(Boolean);
+
+  if (!components.length) {
+    return;
+  }
+
+  const gap = 104;
+  const targetRowWidth = Math.max(520, Math.sqrt(visibleIds.size) * 170);
+  let cursorX = 0;
+  let cursorY = 0;
+  let rowHeight = 0;
+
+  for (const component of components) {
+    if (cursorX > 0 && cursorX + component.width > targetRowWidth) {
+      cursorX = 0;
+      cursorY += rowHeight + gap;
+      rowHeight = 0;
+    }
+
+    const offsetX = cursorX - component.minX;
+    const offsetY = cursorY - component.minY;
+    component.entries.forEach(({ node, x, y }) => {
+      setNodeAnchor(node, x + offsetX, y + offsetY, resetPositions);
+    });
+
+    cursorX += component.width + gap;
+    rowHeight = Math.max(rowHeight, component.height);
+  }
+
+  const visibleNodes = state.nodes.filter((node) => visibleIds.has(node.id) && isRuntimeNodeVisible(node));
+  const bounds = {
+    minX: Math.min(...visibleNodes.map((node) => node.anchorX)),
+    maxX: Math.max(...visibleNodes.map((node) => node.anchorX)),
+    minY: Math.min(...visibleNodes.map((node) => node.anchorY)),
+    maxY: Math.max(...visibleNodes.map((node) => node.anchorY)),
+  };
+  const centerX = (bounds.minX + bounds.maxX) / 2;
+  const centerY = (bounds.minY + bounds.maxY) / 2;
+  visibleNodes.forEach((node) => {
+    setNodeAnchor(node, node.anchorX - centerX, node.anchorY - centerY, resetPositions);
+  });
+}
+
 function applyNeighborLayout(nodeId, resetPositions = true) {
   restoreGlobalLayout(false);
   const layoutState = buildNeighborhoodLayoutState(nodeId);
@@ -4219,6 +4394,10 @@ function applyNeighborLayout(nodeId, resetPositions = true) {
 function syncLayout(resetPositions = true) {
   if (state.neighborMode && state.graphRootNodeId) {
     applyNeighborLayout(state.graphRootNodeId, resetPositions);
+    return;
+  }
+  if (hasActiveGraphTagFilters()) {
+    applyFilteredGraphLayout(resetPositions);
     return;
   }
   restoreGlobalLayout(resetPositions);
