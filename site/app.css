@@ -1431,6 +1431,17 @@ code {
   margin: 0;
 }
 
+.note-title-actions {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.note-title-actions .toolbar-icon svg {
+  stroke-width: initial;
+}
+
 .bookmark-icon svg {
   width: 100%;
   height: 100%;

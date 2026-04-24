@@ -1915,6 +1915,8 @@ function iconMarkup(name) {
     download: '<svg viewBox="0 0 24 24" focusable="false"><path d="M12 4v10M8 10l4 4 4-4M5 19h14"/></svg>',
     upload: '<svg viewBox="0 0 24 24" focusable="false"><path d="M12 20V10M8 14l4-4 4 4M5 5h14"/></svg>',
     bookmark: '<svg viewBox="0 0 24 24" focusable="false"><path d="M7 5h10v14l-5-3-5 3z"/></svg>',
+    localGraph: '<svg viewBox="0 0 16 16" focusable="false"><path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14"/><path d="M8 13A5 5 0 1 1 8 3a5 5 0 0 1 0 10"/><path d="M8 11a3 3 0 1 1 0-6 3 3 0 0 1 0 6"/><path d="M9.5 8a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0"/></svg>',
+    expand: '<svg viewBox="0 0 16 16" focusable="false"><path d="M11 4a4 4 0 1 0 0 8 4 4 0 0 0 0-8"/><path d="M6.025 7.5a5 5 0 1 1 0 1H4A1.5 1.5 0 0 1 2.5 10h-1A1.5 1.5 0 0 1 0 8.5v-1A1.5 1.5 0 0 1 1.5 6h1A1.5 1.5 0 0 1 4 7.5z"/><path d="M11 5a.5.5 0 0 1 .5.5v2h2a.5.5 0 0 1 0 1h-2v2a.5.5 0 0 1-1 0v-2h-2a.5.5 0 0 1 0-1h2v-2A.5.5 0 0 1 11 5"/></svg>',
     filter: '<svg viewBox="0 0 24 24" focusable="false"><path d="M4 6h16M7 12h10M10 18h4"/></svg>',
     path: '<svg viewBox="0 0 24 24" focusable="false"><circle cx="6" cy="18" r="2"/><circle cx="18" cy="6" r="2"/><circle cx="18" cy="18" r="2"/><path d="M8 17l8-9M8 18h8"/></svg>',
   };
@@ -1931,6 +1933,20 @@ function bookmarkIconMarkup(bookmarked, wrapperClass = "toolbar-icon") {
       }
     </span>
   `;
+}
+
+function canOpenLocalGraphForNode(nodeId) {
+  return Boolean(nodeId && !(state.neighborMode && nodeId === state.graphRootNodeId));
+}
+
+function canExpandNeighborsForNode(nodeId) {
+  return Boolean(
+    nodeId
+    && state.neighborMode
+    && state.graphRootNodeId
+    && nodeId !== state.graphRootNodeId
+    && !state.expandedNodeIds.has(nodeId),
+  );
 }
 
 function colorForLayer(index) {
@@ -3229,6 +3245,51 @@ function renderNoteBookmarkButton(node) {
   `;
 }
 
+function renderNoteTitleActions(node) {
+  const canOpenLocalGraph = canOpenLocalGraphForNode(node.id);
+  const canExpandNeighbors = canExpandNeighborsForNode(node.id);
+  return `
+    <div class="note-title-actions">
+      <button
+        type="button"
+        class="toolbar-icon-button"
+        data-open-local-graph="${escapeHtml(node.id)}"
+        aria-label="Open local graph for ${escapeHtml(node.title)}"
+        ${canOpenLocalGraph ? "" : "disabled"}
+      >
+        ${iconMarkup("localGraph")}
+      </button>
+      <button
+        type="button"
+        class="toolbar-icon-button"
+        data-expand-neighbors="${escapeHtml(node.id)}"
+        aria-label="Expand neighbors of ${escapeHtml(node.title)}"
+        ${canExpandNeighbors ? "" : "disabled"}
+      >
+        ${iconMarkup("expand")}
+      </button>
+      ${renderNoteBookmarkButton(node)}
+    </div>
+  `;
+}
+
+function syncNoteTitleActions(nodeId = currentNodeId()) {
+  const node = state.nodeById.get(nodeId);
+  if (!node) {
+    return;
+  }
+  const localGraphButton = noteContent.querySelector(`[data-open-local-graph="${CSS.escape(nodeId)}"]`);
+  if (localGraphButton) {
+    localGraphButton.disabled = !canOpenLocalGraphForNode(nodeId);
+    localGraphButton.setAttribute("aria-label", `Open local graph for ${node.title}`);
+  }
+  const expandButton = noteContent.querySelector(`[data-expand-neighbors="${CSS.escape(nodeId)}"]`);
+  if (expandButton) {
+    expandButton.disabled = !canExpandNeighborsForNode(nodeId);
+    expandButton.setAttribute("aria-label", `Expand neighbors of ${node.title}`);
+  }
+}
+
 function decorateNoteTitle(node) {
   const title = noteContent.querySelector("h1");
   if (!title || title.closest(".note-title-row")) {
@@ -3238,7 +3299,7 @@ function decorateNoteTitle(node) {
   row.className = "note-title-row";
   title.replaceWith(row);
   row.append(title);
-  row.insertAdjacentHTML("beforeend", renderNoteBookmarkButton(node));
+  row.insertAdjacentHTML("beforeend", renderNoteTitleActions(node));
 }
 
 function renderNoteSurface(node, baseMarkup) {
@@ -3674,19 +3735,13 @@ function updateToolbarNodeActions() {
   });
 
   setToolbarButtonState(toolbarLocalGraphButton, {
-    disabled: !targetNodeId || (state.neighborMode && targetNodeId === state.graphRootNodeId),
+    disabled: !canOpenLocalGraphForNode(targetNodeId),
     label: `Open local graph for ${targetTitle}`,
     title: targetNodeId ? `Open local graph for ${targetTitle}` : "Open local graph",
   });
 
   setToolbarButtonState(toolbarExpandButton, {
-    disabled: (
-      !targetNodeId
-      || !state.neighborMode
-      || !state.graphRootNodeId
-      || targetNodeId === state.graphRootNodeId
-      || state.expandedNodeIds.has(targetNodeId)
-    ),
+    disabled: !canExpandNeighborsForNode(targetNodeId),
     label: `Expand neighbors of ${targetTitle}`,
     title: targetNodeId ? `Expand neighbors of ${targetTitle}` : "Expand neighbors",
   });
@@ -3947,6 +4002,7 @@ function expandNeighborhood(nodeId) {
   hideContextMenu();
   syncLayout(true);
   fitGraph();
+  syncNoteTitleActions(nodeId);
 }
 
 function openLocalGraph(nodeId) {
@@ -4523,6 +4579,18 @@ function bindEvents() {
     if (bookmarkButton) {
       event.preventDefault();
       toggleBookmark(bookmarkButton.dataset.toggleBookmark);
+      return;
+    }
+    const openLocalGraphButton = event.target.closest("[data-open-local-graph]");
+    if (openLocalGraphButton) {
+      event.preventDefault();
+      openLocalGraph(openLocalGraphButton.dataset.openLocalGraph);
+      return;
+    }
+    const expandNeighborsButton = event.target.closest("[data-expand-neighbors]");
+    if (expandNeighborsButton) {
+      event.preventDefault();
+      expandNeighborhood(expandNeighborsButton.dataset.expandNeighbors);
       return;
     }
     const openLinkPickerButton = event.target.closest("[data-open-note-link-picker]");
