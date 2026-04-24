@@ -93,6 +93,7 @@ const state = {
   },
   graphTagFilterInput: "",
   graphTagFilterSelectionArmed: false,
+  graphFilterToolbarRenderSignature: null,
   navigationBackStack: [],
   navigationRestoring: false,
   searchSuggestion: null,
@@ -3080,7 +3081,18 @@ function syncGraphFilterTagOptions() {
   if (!datalist) {
     return;
   }
-  datalist.innerHTML = renderGraphFilterTagOptions();
+  const tagOptions = renderGraphFilterTagOptions();
+  datalist.innerHTML = tagOptions;
+  state.graphFilterToolbarRenderSignature = getGraphFilterToolbarRenderSignature(tagOptions);
+}
+
+function getGraphFilterToolbarRenderSignature(tagOptions = renderGraphFilterTagOptions()) {
+  return JSON.stringify({
+    input: state.graphTagFilterInput,
+    requireAll: state.graphTagFilters.requireAll,
+    exclude: state.graphTagFilters.exclude,
+    tagOptions,
+  });
 }
 
 function eyeIconMarkup(isHidden = false) {
@@ -3104,6 +3116,13 @@ function getToolbarGraphFilterTags() {
 function renderGraphFilterToolbar() {
   const tagOptions = renderGraphFilterTagOptions();
   const activeTags = getToolbarGraphFilterTags();
+  const nextSignature = getGraphFilterToolbarRenderSignature(tagOptions);
+  if (
+    state.graphFilterToolbarRenderSignature === nextSignature
+    && graphFilterToolbar.childElementCount > 0
+  ) {
+    return;
+  }
   graphFilterToolbar.innerHTML = `
     <div class="graph-filter-toolbar-scroll">
       <div class="graph-filter-toolbar-row">
@@ -3142,6 +3161,7 @@ function renderGraphFilterToolbar() {
       </div>
     </div>
   `;
+  state.graphFilterToolbarRenderSignature = nextSignature;
 }
 
 function renderTagButtons(node) {
