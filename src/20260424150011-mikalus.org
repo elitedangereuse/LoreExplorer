@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       9fa4fe47-6772-4257-b11a-14b46fc46a64
+:END:
+#+title: Mikalus
+#+filetags: :3301:Player:Individual:
+
+Mikalus is a Pilots Federation commander quoted in 3301 reports tied to
+Imperial operations and anti-Kumo Crew activity.
+
+Sources: [[file:20240618121722-operation_uranus_successful.org][Operation Uranus Successful]], [[file:20240618121832-kumo_operation_to_hit_aisling_duval.org][Kumo Operation to Hit Aisling Duval]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2a20b627-ebd1-4fb9-9ab8-d0d8d08f94d6
+:END:
+#+title: Carver
+#+filetags: :3111:3308:Individual:
+
+Professor Carver was the leader of the geological team whose logs on
+HIP 69200 1 B described an early recorded encounter with Thargoid
+artefacts in 3111.
+
+Sources: [[file:20240618230259-azimuth_a_historical_perspective_part_one.org][Azimuth: A Historical Perspective Part One]]

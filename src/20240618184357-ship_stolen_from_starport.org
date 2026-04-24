@@ -10,7 +10,7 @@
 
 An independent pilot’s ship has been stolen from a starport hangar in the [[id:12db1b22-8d5c-482f-a91b-00021258a388][Vega]] system. 
 
-The ship’s owner, Commander Bjorn Lennox, told Vox Galactica: 
+The ship’s owner, Commander [[id:402b68db-0062-4dcb-a946-a80d95de5133][Bjorn Lennox]], told Vox Galactica: 
 
 “I’d docked my Diamondback Explorer at Fort Dixon for some routine maintenance, and to enjoy a short break following a deep space exploration voyage. When I went back to the landing pad I discovered the hangar was empty and my ship had gone missing!” 
 

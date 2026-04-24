@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       68e29a9f-07ca-41fc-85e7-ede0e60c55b3
+:END:
+#+title: DP Sayre
+#+filetags: :3303:Player:Individual:
+
+DP Sayre is a Pilots Federation commander whose interdiction experience
+provided one of the early public reports of a Thargoid encounter in
+3303.
+
+Sources: [[file:20240618170619-galactic_news_thargoids_sighted.org][Galactic News: Thargoids Sighted]]
