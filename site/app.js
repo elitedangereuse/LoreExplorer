@@ -237,6 +237,43 @@ function buildTextTooltipMarkup(label) {
   return `<div class="app-tooltip-text">${escapeHtml(label)}</div>`;
 }
 
+function getTooltipAnchor(element) {
+  if (!(element instanceof Element)) {
+    return null;
+  }
+  return element.closest(".toolbar-tooltip-target") || element;
+}
+
+function setTooltipLabel(element, label) {
+  const anchor = getTooltipAnchor(element);
+  if (!anchor) {
+    return;
+  }
+  if (anchor !== element) {
+    element.removeAttribute("data-tooltip");
+  }
+  if (label) {
+    anchor.dataset.tooltip = label;
+    return;
+  }
+  anchor.removeAttribute("data-tooltip");
+}
+
+function initializeToolbarTooltipTargets() {
+  document.querySelectorAll(".graph-toolbar .toolbar-icon-button[data-tooltip]").forEach((button) => {
+    if (button.parentElement?.classList.contains("toolbar-tooltip-target")) {
+      setTooltipLabel(button, button.dataset.tooltip);
+      return;
+    }
+
+    const wrapper = document.createElement("span");
+    wrapper.className = "toolbar-tooltip-target";
+    button.parentNode.insertBefore(wrapper, button);
+    wrapper.appendChild(button);
+    setTooltipLabel(button, button.dataset.tooltip);
+  });
+}
+
 function positionTooltip(clientX, clientY) {
   if (!appTooltip || appTooltip.hidden) {
     return;
@@ -3441,11 +3478,7 @@ function setToolbarButtonState(button, { disabled = false, active = false, label
   if (label) {
     button.setAttribute("aria-label", label);
   }
-  if (title) {
-    button.dataset.tooltip = title;
-  } else {
-    button.removeAttribute("data-tooltip");
-  }
+  setTooltipLabel(button, title);
   button.removeAttribute("title");
 }
 
@@ -3497,9 +3530,12 @@ function renderBookmarksPanel() {
   toolbarBookmarksPanel.hidden = !state.bookmarksPanelOpen;
   toolbarBookmarksButton.classList.toggle("is-active", state.bookmarksPanelOpen);
   toolbarBookmarksButton.setAttribute("aria-expanded", String(state.bookmarksPanelOpen));
-  toolbarBookmarksButton.dataset.tooltip = bookmarkedNodes.length
-    ? `Open bookmarks (${bookmarkedNodes.length})`
-    : "Open bookmarks";
+  setTooltipLabel(
+    toolbarBookmarksButton,
+    bookmarkedNodes.length
+      ? `Open bookmarks (${bookmarkedNodes.length})`
+      : "Open bookmarks",
+  );
 }
 
 function setBookmarksPanelOpen(open) {
@@ -3984,7 +4020,9 @@ function pickNodeAt(clientX, clientY) {
 
 function bindEvents() {
   const getTooltipTarget = (target) => (
-    target instanceof Element ? target.closest("[data-tooltip]") : null
+    target instanceof Element
+      ? target.closest(".toolbar-tooltip-target[data-tooltip], [data-tooltip]")
+      : null
   );
 
   window.addEventListener("resize", resizeCanvas);
@@ -4704,6 +4742,7 @@ worker.onmessage = (event) => {
 };
 
 async function bootstrap() {
+  initializeToolbarTooltipTargets();
   bindEvents();
   resizeCanvas();
   loadInvestigationState();

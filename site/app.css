@@ -288,6 +288,10 @@ code {
   transition: background 150ms ease, border-color 150ms ease, transform 150ms ease;
 }
 
+.toolbar-tooltip-target {
+  display: inline-flex;
+}
+
 .toolbar-icon-button:hover {
   transform: translateY(-1px);
   background: rgba(99, 216, 234, 0.12);
