@@ -1251,6 +1251,11 @@ code {
   border-color: rgba(99, 216, 234, 0.28);
 }
 
+.search-completion-item.is-selected {
+  background: rgba(99, 216, 234, 0.16);
+  border-color: rgba(99, 216, 234, 0.34);
+}
+
 .search-completion-item.is-active {
   background: rgba(255, 212, 107, 0.1);
   border-color: rgba(255, 212, 107, 0.28);

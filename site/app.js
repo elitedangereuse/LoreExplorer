@@ -87,6 +87,7 @@ const state = {
   },
   graphTagFilterInput: "",
   searchSuggestion: null,
+  searchSelectedIndex: -1,
   searchExactNodeIds: [],
   searchWorkerReady: false,
   contextMenu: { open: false, nodeId: null },
@@ -1320,6 +1321,58 @@ function getPrimarySearchNodeId() {
   return state.results[0]?.id || null;
 }
 
+function getVisibleSearchResults() {
+  return state.results.slice(0, 8);
+}
+
+function getDefaultSearchSelectedIndex() {
+  const results = getVisibleSearchResults();
+  if (!results.length) {
+    return -1;
+  }
+  if (state.searchSuggestion?.id) {
+    const suggestionIndex = results.findIndex((result) => result.id === state.searchSuggestion.id);
+    if (suggestionIndex >= 0) {
+      return suggestionIndex;
+    }
+  }
+  return 0;
+}
+
+function getSelectedSearchNodeId() {
+  const results = getVisibleSearchResults();
+  if (!results.length) {
+    return state.searchSuggestion?.id || getPrimarySearchNodeId();
+  }
+  if (state.searchSelectedIndex >= 0 && state.searchSelectedIndex < results.length) {
+    return results[state.searchSelectedIndex].id;
+  }
+  return state.searchSuggestion?.id || results[0]?.id || null;
+}
+
+function moveSearchSelection(delta) {
+  const results = getVisibleSearchResults();
+  if (!results.length) {
+    return;
+  }
+  const currentIndex = (
+    state.searchSelectedIndex >= 0 && state.searchSelectedIndex < results.length
+      ? state.searchSelectedIndex
+      : getDefaultSearchSelectedIndex()
+  );
+  state.searchSelectedIndex = (currentIndex + delta + results.length) % results.length;
+  updateCurrentNoteMeta();
+}
+
+function commitSearchSelection(nodeId = getSelectedSearchNodeId()) {
+  if (!nodeId) {
+    return;
+  }
+  searchInput.value = "";
+  resetSearchState();
+  selectNode(nodeId, true);
+}
+
 function showEmptyNoteState(message = "Select a node or search result to inspect a note.") {
   state.noteLinkPickerNodeId = null;
   state.noteLinkQuery = "";
@@ -1376,6 +1429,7 @@ function resetSearchState() {
   state.searchQuery = "";
   state.results = [];
   state.searchSuggestion = null;
+  state.searchSelectedIndex = -1;
   state.searchExactNodeIds = [];
 }
 
@@ -1384,6 +1438,7 @@ function applySearchResults(payload) {
   const query = state.searchQuery.trim();
   state.results = query ? results : [];
   state.searchSuggestion = query ? payload.suggestion || null : null;
+  state.searchSelectedIndex = query ? getDefaultSearchSelectedIndex() : -1;
   state.searchExactNodeIds = query ? (payload.exactIds || []) : [];
 
   if (!query) {
@@ -1424,11 +1479,7 @@ function updateSearchQuery(query) {
 }
 
 function focusFirstSearchResult() {
-  const focusNodeId = getPrimarySearchNodeId();
-  if (!focusNodeId) {
-    return;
-  }
-  selectNode(focusNodeId, true);
+  commitSearchSelection();
 }
 
 function clearSearch() {
@@ -2858,7 +2909,7 @@ function renderSearchCompletionsPanel() {
   if (!query) {
     return "";
   }
-  const results = state.results.slice(0, 8);
+  const results = getVisibleSearchResults();
   const countLabel = state.results.length
     ? `${state.results.length} match${state.results.length === 1 ? "" : "es"}`
     : "No matches";
@@ -2874,8 +2925,9 @@ function renderSearchCompletionsPanel() {
             results.map((result) => `
               <button
                 type="button"
-                class="search-completion-item ${result.id === currentNodeId() ? "is-active" : ""}"
+                class="search-completion-item ${result.id === currentNodeId() ? "is-active" : ""} ${results[state.searchSelectedIndex]?.id === result.id ? "is-selected" : ""}"
                 data-node-id="${escapeHtml(result.id)}"
+                data-search-completion-node-id="${escapeHtml(result.id)}"
               >
                 <strong>${escapeHtml(result.title)}</strong>
                 <small>${escapeHtml(result.group || "node")}</small>
@@ -4448,6 +4500,18 @@ function bindEvents() {
       } else if (state.view === "explorer") {
         resetSelection();
       }
+    } else if (event.key === "ArrowDown") {
+      if (!state.searchQuery.trim()) {
+        return;
+      }
+      event.preventDefault();
+      moveSearchSelection(1);
+    } else if (event.key === "ArrowUp") {
+      if (!state.searchQuery.trim()) {
+        return;
+      }
+      event.preventDefault();
+      moveSearchSelection(-1);
     } else if (event.key === "Enter") {
       event.preventDefault();
       focusFirstSearchResult();
@@ -4500,6 +4564,12 @@ function bindEvents() {
     selectNode(link.dataset.nodeId);
   });
   noteMeta.addEventListener("click", (event) => {
+    const searchCompletionButton = event.target.closest("[data-search-completion-node-id]");
+    if (searchCompletionButton) {
+      event.preventDefault();
+      commitSearchSelection(searchCompletionButton.dataset.searchCompletionNodeId);
+      return;
+    }
     const tagButton = event.target.closest("[data-tag]");
     if (tagButton) {
       event.preventDefault();
@@ -4769,6 +4839,9 @@ async function bootstrap() {
   showEmptyNoteState();
   setActiveView("landing");
   applyUrlState();
+  requestAnimationFrame(() => {
+    searchInput.focus({ preventScroll: true });
+  });
 }
 
 bootstrap().catch((error) => {
