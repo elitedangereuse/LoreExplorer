@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       9d17364e-00f0-43a2-8b5f-3d082b47742a
+:END:
+#+title: Operation HR 706
+#+filetags: :3301:Empire:
+
+Operation HR 706 was a follow-up Imperial initiative in 3301 aimed at
+identifying who hired the would-be assassin who targeted Emperor
+[[id:3cb0755e-4deb-442b-898b-3f0c6651636e][Hengist Duval]]. Reporting around the campaign later implicated leaders
+of Emperor's Grace in the plot.
+
+Sources: [[id:97e2193e-b2e0-40b7-b80f-ac59af67c842][Emperor’s Grace Indicted in Attack on Emperor]], [[file:../references/Community Goals/Imperial_Investigation__Operation_Hr_706.md][Imperial Investigation: Operation HR 706]]

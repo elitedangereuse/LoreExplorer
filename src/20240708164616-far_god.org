@@ -3,3 +3,7 @@
 :END:
 #+title: Far God
 
+Thargoid-worshipping religion with numerous sects and associated
+megaships.
+
+See also [[id:1b29adc6-9367-4aba-9651-68dec0151bcd][Disappearances of the Far God Cultists]].

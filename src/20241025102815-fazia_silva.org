@@ -4,4 +4,7 @@
 #+title: Fazia Silva
 #+filetags: :Individual:
 
-Presidential candidate who was assassinated.
+Alliance presidential candidate whose murder became a major political
+flashpoint during the 3304 election.
+
+See also [[id:19060dca-41e5-494d-9f74-f40f3f3c2ff8][Assassination of Fazia Silva]].

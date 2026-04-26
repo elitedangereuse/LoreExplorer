@@ -4,3 +4,6 @@
 #+title: Nehet
 #+filetags: :System:
 
+Imperial system associated with [[id:9f0d8885-7d6d-48e6-8c17-1140294577ff][Operation Nehet]] during the
+investigation into the attempted assassination of Emperor [[id:3cb0755e-4deb-442b-898b-3f0c6651636e][Hengist
+Duval]].

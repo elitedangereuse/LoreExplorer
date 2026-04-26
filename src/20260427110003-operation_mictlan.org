@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       3af1dab3-deb5-4756-9a03-a2f86f409d6c
+:END:
+#+title: Operation Mictlan
+#+filetags: :3301:Empire:
+
+Operation Mictlan was a community initiative ordered by Princess
+[[id:34f3cfdd-0536-40a9-8732-13bf3a5e4a70][Arissa Lavigny-Duval]] as part of the investigation into the attempted
+assassination of Emperor [[id:3cb0755e-4deb-442b-898b-3f0c6651636e][Hengist Duval]]. Pilots targeted criminal
+activity around the [[id:c72ce3b7-f19e-4034-9df5-554bcddfaa4f][Mictlan]] Cartel, and the resulting intelligence
+helped connect the Silver Allied Network to the plot.
+
+Sources: [[id:2df73059-4c25-46e4-a523-f11a8d74d81c][Imperial Law and Order: Investigation into Attack on Emperor Continues]], [[id:8c33ff38-1d44-4f85-adee-c38dbe9067a4][Silver Allied Network Implicated in Attack on Emperor!]], [[file:../references/Community Goals/Imperial_Investigation__Operation_Mictlan.md][Imperial Investigation: Operation Mictlan]]

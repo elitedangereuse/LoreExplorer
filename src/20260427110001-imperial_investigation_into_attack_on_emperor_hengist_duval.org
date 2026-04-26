@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       a39fcdb7-58cd-4390-af7a-6ebfce249b64
+:END:
+#+title: Imperial Investigation into Attack on Emperor Hengist Duval
+#+filetags: :3301:Empire:
+
+After an attempted assassination of Emperor [[id:3cb0755e-4deb-442b-898b-3f0c6651636e][Hengist Duval]] in 3301,
+Princess [[id:34f3cfdd-0536-40a9-8732-13bf3a5e4a70][Arissa Lavigny-Duval]] and Chancellor Anders Blaine pursued
+parallel investigations. The campaign led to anti-crime operations in
+[[id:1b91efee-b411-45a9-8b03-df967281885d][Nehet]] and [[id:c72ce3b7-f19e-4034-9df5-554bcddfaa4f][Mictlan]], and later to allegations against Emperor's
+Grace in HR 706.
+
+See also [[id:9f0d8885-7d6d-48e6-8c17-1140294577ff][Operation Nehet]], [[id:3af1dab3-deb5-4756-9a03-a2f86f409d6c][Operation Mictlan]] and [[id:9d17364e-00f0-43a2-8b5f-3d082b47742a][Operation HR 706]].
+
+Sources: [[id:f0baf6fc-9efe-4b66-b8ac-bf65ad10319d][Investigation into Assassination Attempt Ongoing]], [[id:dd732ad6-cf06-47b1-a09f-55d6746f9dc4][The Talons of Justice]], [[id:2df73059-4c25-46e4-a523-f11a8d74d81c][Imperial Law and Order: Investigation into Attack on Emperor Continues]], [[id:8c33ff38-1d44-4f85-adee-c38dbe9067a4][Silver Allied Network Implicated in Attack on Emperor!]], [[id:97e2193e-b2e0-40b7-b80f-ac59af67c842][Emperor’s Grace Indicted in Attack on Emperor]]
