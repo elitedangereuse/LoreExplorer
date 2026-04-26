@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       77774790-2861-4ffe-b8b9-6e75effa38a8
+:END:
+#+title: Turmoil
+#+filetags: :manual:Federation:Empire:Alliance:
+
+Turmoil is the crisis state a power enters in [[id:4ed9ac75-9ddc-4533-bc21-00a775fbc0ee][Powerplay]] when it
+begins a cycle with a deficit of [[id:ebcbe53a-2259-4e2b-b88c-f19f5877de33][Command Capital]]. The players guides
+state that the [[id:1aaf6f29-ef6a-430c-b4e4-f40cf903a7a9][Control System]] with the highest upkeep cost falls
+into turmoil first, followed by additional systems until the power
+returns to a positive reserve.
+
+Control systems already in turmoil stop drawing income from nearby
+[[id:69d33069-1971-47bd-8aff-fd9d06dfcfc6][Exploited System]]s. If the power still has a CC deficit at the
+end of the next cycle, those systems can revolt and cease to be
+controlled.
+
+Sources: [[file:../references/Manuals/English-PlayersGuide_v2.00-Horizons.pdf][Players Guide v2.00]], [[file:../references/Manuals/English-PlayersGuide-Latest.pdf][Players Guide v2.40]]

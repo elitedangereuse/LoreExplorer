@@ -68,6 +68,7 @@ We encourage and welcome contributions to this project! Whether you're submittin
    - **File Structure**: Organize your notes in a way that makes logical sense and facilitates easy navigation within the org-roam system.
    - **Graph Visualization**: Think about how your note will connect with others in the org-roam graph, ensuring it adds meaningful links and relationships.
    - **Tags vs Links**: Use tags for broad topical umbrellas that would otherwise become noisy hub nodes in the graph, such as `Empire`, `Federation`, `Alliance`, `Thargoid`, or adjective variants like `Imperial` and `Federal`. Use links when a note is substantively about a specific concept, person, place, event, or artifact and the target note adds real navigational value. A broad concept may still have its own note, but not every casual mention should link to it.
+   - **Source Provenance**: Tags are useful for source families, but they are not enough on their own. When a note is based on a canon source, add an explicit source-family tag such as `:galnet:`, `:beacon:`, `:KnowledgeBase:`, `:CommunityGoal:`, or `:manual:` when applicable. For non-pristine summary nodes, also add a `Sources:` line pointing to the exact note, article, PDF or reference file used.
 
 ### Example Submission in org-roam Format
 

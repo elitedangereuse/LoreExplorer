@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       4bd5f9da-c3b3-4f5f-b4de-bd668b992a63
+:END:
+#+title: Fortification
+#+filetags: :manual:Federation:Empire:Alliance:
+
+Fortification is the process by which supporters of a power reinforce a
+[[id:1aaf6f29-ef6a-430c-b4e4-f40cf903a7a9][Control System]] in [[id:4ed9ac75-9ddc-4533-bc21-00a775fbc0ee][Powerplay]]. The players guides describe it as a
+temporary cycle-based action that helps reduce a control system's upkeep
+burden and strengthen the power's position.
+
+Fortification resets when the next Powerplay cycle begins, so it must
+be renewed each week.
+
+Sources: [[file:../references/Manuals/English-PlayersGuide_v2.00-Horizons.pdf][Players Guide v2.00]], [[file:../references/Manuals/English-PlayersGuide-Latest.pdf][Players Guide v2.40]]

@@ -2,4 +2,15 @@
 :ID:       43c9c067-4718-4d81-99eb-d73467c36937
 :END:
 #+title: Minor Faction
+#+filetags: :manual:Federation:Empire:Alliance:
 
+A minor faction is a local political, corporate or ideological
+authority that generally controls part or most of a single inhabited
+system. The players guides distinguish minor factions from
+[[id:ecd67dbd-9790-48f2-bfa3-710dde96c2d3][Major Faction]]s and from [[id:4ed9ac75-9ddc-4533-bc21-00a775fbc0ee][Powerplay]] powers.
+
+Many minor factions align themselves with one of the major factions and
+adopt its laws and customs, but they retain their own local
+jurisdictions and reputations.
+
+Sources: [[file:../references/Manuals/English-PlayersGuide_v2.00-Horizons.pdf][Players Guide v2.00]], [[file:../references/Manuals/English-PlayersGuide-Latest.pdf][Players Guide v2.40]]

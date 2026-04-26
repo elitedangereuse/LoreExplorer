@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       4ed9ac75-9ddc-4533-bc21-00a775fbc0ee
+:END:
+#+title: Powerplay
+#+filetags: :manual:Federation:Empire:Alliance:
+
+Powerplay is the weekly political struggle between powerful
+individuals and organisations for influence over inhabited space. In
+the players guides, powers are presented as entities distinct from
+both [[id:ecd67dbd-9790-48f2-bfa3-710dde96c2d3][Major Faction]]s and [[id:43c9c067-4718-4d81-99eb-d73467c36937][Minor Faction]]s, with their own territorial
+logic and strategic economy.
+
+A power expands by establishing [[id:1aaf6f29-ef6a-430c-b4e4-f40cf903a7a9][Control System]]s, drawing
+[[id:ebcbe53a-2259-4e2b-b88c-f19f5877de33][Command Capital]] from nearby [[id:69d33069-1971-47bd-8aff-fd9d06dfcfc6][Exploited System]]s, and defending its
+position through [[id:4bd5f9da-c3b3-4f5f-b4de-bd668b992a63][Fortification]] while resisting
+[[id:f504ce39-d67a-4b06-93d1-3c82afa83e10][Undermining]]. If a power cannot cover its upkeep costs, its
+territory can fall into [[id:77774790-2861-4ffe-b8b9-6e75effa38a8][Turmoil]] and eventually revolt.
+
+Sources: [[file:../references/Manuals/English-PlayersGuide_v2.00-Horizons.pdf][Players Guide v2.00]], [[file:../references/Manuals/English-PlayersGuide-Latest.pdf][Players Guide v2.40]]

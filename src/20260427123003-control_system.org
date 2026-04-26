@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       1aaf6f29-ef6a-430c-b4e4-f40cf903a7a9
+:ROAM_ALIASES: Control Systems
+:END:
+#+title: Control System
+#+filetags: :manual:Federation:Empire:Alliance:
+
+In [[id:4ed9ac75-9ddc-4533-bc21-00a775fbc0ee][Powerplay]], a control system is a star system directly dominated
+by a power. The players guides state that control systems require
+[[id:ebcbe53a-2259-4e2b-b88c-f19f5877de33][Command Capital]] upkeep, with the cost rising according to the
+distance from the power's home system and the total number of systems it
+controls.
+
+A control system automatically draws CC income from nearby
+[[id:69d33069-1971-47bd-8aff-fd9d06dfcfc6][Exploited System]]s. Supporters can strengthen a control system
+through [[id:4bd5f9da-c3b3-4f5f-b4de-bd668b992a63][Fortification]], while opponents can increase its cost through
+[[id:f504ce39-d67a-4b06-93d1-3c82afa83e10][Undermining]]. When upkeep becomes unsustainable, a control system
+can enter [[id:77774790-2861-4ffe-b8b9-6e75effa38a8][Turmoil]].
+
+Sources: [[file:../references/Manuals/English-PlayersGuide_v2.00-Horizons.pdf][Players Guide v2.00]], [[file:../references/Manuals/English-PlayersGuide-Latest.pdf][Players Guide v2.40]]

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       ecd67dbd-9790-48f2-bfa3-710dde96c2d3
+:ROAM_ALIASES: Superpower
+:END:
+#+title: Major Faction
+#+filetags: :manual:Federation:Empire:Alliance:
+
+A major faction is one of the galaxy's three superpowers:
+[[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][The Federation]], [[id:77cf2f14-105e-4041-af04-1213f3e7383c][The Empire]], or
+[[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][The Alliance]]. The players guides describe major factions as
+vast political powers controlling enormous regions of inhabited space.
+
+Many [[id:43c9c067-4718-4d81-99eb-d73467c36937][Minor Faction]]s align themselves with a major faction and adopt
+its laws and customs. In [[id:4ed9ac75-9ddc-4533-bc21-00a775fbc0ee][Powerplay]], powers sit between major and
+minor factions: often aligned with a superpower, but still acting as
+independent strategic actors.
+
+Sources: [[file:../references/Manuals/English-PlayersGuide_v2.00-Horizons.pdf][Players Guide v2.00]], [[file:../references/Manuals/English-PlayersGuide-Latest.pdf][Players Guide v2.40]]

@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       f504ce39-d67a-4b06-93d1-3c82afa83e10
+:END:
+#+title: Undermining
+#+filetags: :manual:Federation:Empire:Alliance:
+
+Undermining is the process by which supporters of rival powers increase
+the cost of holding a [[id:1aaf6f29-ef6a-430c-b4e4-f40cf903a7a9][Control System]] in
+[[id:4ed9ac75-9ddc-4533-bc21-00a775fbc0ee][Powerplay]]. The players guides treat it as the
+counterpart to [[id:4bd5f9da-c3b3-4f5f-b4de-bd668b992a63][Fortification]]: a temporary cycle-based action used to
+destabilise a power's position and increase its
+[[id:ebcbe53a-2259-4e2b-b88c-f19f5877de33][Command Capital]] burden.
+
+Like fortification, undermining is cleared when the next Powerplay
+cycle begins.
+
+Sources: [[file:../references/Manuals/English-PlayersGuide_v2.00-Horizons.pdf][Players Guide v2.00]], [[file:../references/Manuals/English-PlayersGuide-Latest.pdf][Players Guide v2.40]]

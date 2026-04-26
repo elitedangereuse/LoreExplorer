@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       ebcbe53a-2259-4e2b-b88c-f19f5877de33
+:ROAM_ALIASES: CC
+:END:
+#+title: Command Capital
+#+filetags: :manual:Federation:Empire:Alliance:
+
+Command Capital, usually abbreviated to CC, is the strategic resource
+used in [[id:4ed9ac75-9ddc-4533-bc21-00a775fbc0ee][Powerplay]] to measure a power's ability to hold territory.
+The players guides explain that powers spend CC to maintain
+[[id:1aaf6f29-ef6a-430c-b4e4-f40cf903a7a9][Control System]]s, while collecting CC income from nearby
+[[id:69d33069-1971-47bd-8aff-fd9d06dfcfc6][Exploited System]]s.
+
+If a power starts a cycle with a CC deficit, the most expensive control
+systems can fall into [[id:77774790-2861-4ffe-b8b9-6e75effa38a8][Turmoil]] and may eventually revolt.
+
+Sources: [[file:../references/Manuals/English-PlayersGuide_v2.00-Horizons.pdf][Players Guide v2.00]], [[file:../references/Manuals/English-PlayersGuide-Latest.pdf][Players Guide v2.40]]
