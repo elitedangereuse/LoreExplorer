@@ -11,6 +11,5 @@ as a byproduct of industrial processes.
 #+end_quote
 
 Category: Waste
-Produced by: | consumer = Refinery
+Produced by: -
 Consumed by: Refinery
-

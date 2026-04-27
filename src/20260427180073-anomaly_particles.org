@@ -10,6 +10,5 @@ A collection of particles from a space-based anomaly.
 #+end_quote
 
 Category: Salvage
-Produced by: | consumer =
+Produced by: -
 Consumed by: -
-

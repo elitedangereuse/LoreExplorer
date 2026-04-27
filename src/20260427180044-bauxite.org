@@ -13,5 +13,4 @@ rutile and haematite. A key source of aluminum for refineries.
 
 Category: Minerals
 Produced by: Extraction
-Consumed by: | image = Bauxite.png
-
+Consumed by: Refinery

@@ -6,11 +6,10 @@
 #+filetags: :Commodity:
 
 #+begin_quote
-A statue created several million years ago by the Guardians, an
-extinct nonhuman civilisation.
+A statue created several million years ago by the
+[[id:f57cff55-3348-45ea-b76f-d0eaa3c68165][Guardians]], an extinct nonhuman civilisation.
 #+end_quote
 
 Category: Salvage
-Produced by: | consumer =
+Produced by: -
 Consumed by: -
-

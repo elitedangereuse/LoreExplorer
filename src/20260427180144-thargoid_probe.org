@@ -11,6 +11,5 @@ pulse that can temporarily incapacitate a starship.
 #+end_quote
 
 Category: Salvage
-Produced by: |consumer =
+Produced by: -
 Consumed by: -
-

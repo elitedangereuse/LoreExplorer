@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       c79e31e8-fa06-455d-b42a-3c9a2fd3bbc7
+:END:
+#+title: Shukor Dock
+#+filetags: :Station:
+
+[[id:7e922795-c49d-463d-a1fa-07292fe6f772][Perun]]
+
+Commodity source: [[id:d686168a-7903-49dc-8dd6-1c2d690bfa9c][Power Converter]].

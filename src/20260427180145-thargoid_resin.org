@@ -13,6 +13,5 @@ converted into a gas it is highly corrosive.
 #+end_quote
 
 Category: Salvage
-Produced by: |classification = Commodity
+Produced by: -
 Consumed by: -
-

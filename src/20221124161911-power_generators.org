@@ -7,7 +7,7 @@
 
 #+begin_quote
 Industrially produced components for Power Generators, used
-throughout human space. Though the Sirius Corporation have a near
+throughout human space. Though the [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]] have a near
 monopoly on manufacture of most new larger units, many other
 companies produce the vast amount of consumables, spares and
 ancillary parts for them.
@@ -16,4 +16,3 @@ ancillary parts for them.
 Category: Machinery
 Produced by: Industrial
 Consumed by: All except Industrial
-

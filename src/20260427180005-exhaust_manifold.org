@@ -9,10 +9,9 @@
 These customised manifolds are used to combine plasmas and gases
 from multiple sources into a single element.
 
-These can be found at Somerville Station in the Kharpulo system.
+These can be found at [[id:2ffdf8fb-b465-4762-9ac0-9588ccbd7e25][Somerville Station]] in the [[id:3e30b52d-bff9-404c-86d1-814a4d259bd9][Kharpulo]] system.
 #+end_quote
 
 Category: Machinery
 Produced by: Somerville Station, Kharpulo
 Consumed by: High Tech
-

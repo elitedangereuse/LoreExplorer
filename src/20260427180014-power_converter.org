@@ -10,10 +10,9 @@ Power converter used to modify and regulate the energy coming from
 multiple sources so that it is tuned to the optimal operational
 requirements of all attached devices.
 
-These can be found at Shukor Dock in the Perun system.
+These can be found at [[id:c79e31e8-fa06-455d-b42a-3c9a2fd3bbc7][Shukor Dock]] in the [[id:7e922795-c49d-463d-a1fa-07292fe6f772][Perun]] system.
 #+end_quote
 
 Category: Machinery
 Produced by: Industrial/Extraction near Lakota
 Consumed by: High Tech
-
