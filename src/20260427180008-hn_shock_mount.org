@@ -4,6 +4,13 @@
 #+title: HN Shock Mount
 #+filetags: :Commodity:
 
-Category: Machinery
+#+begin_quote
+HN shock mounts absorb vibration and impacts to stabilise the
+mounted device.
+#+end_quote
 
-Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/150/][Inara: HN Shock Mount]]
+Category: Machinery
+Produced by: Industrial
+Consumed by: High Tech, Military
+
+Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/150/][Inara: HN Shock Mount]]

@@ -4,6 +4,14 @@
 #+title: Marine Equipment
 #+filetags: :Commodity:
 
-Category: Machinery
+#+begin_quote
+A wide range of industrial scale equipment for marine agriculture.
+Submersibles, feedstock dispersing equipment, fishing equipment,
+nets and underwater confinements.
+#+end_quote
 
-Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/86/][Inara: Marine Equipment]]
+Category: Machinery
+Produced by: Industrial
+Consumed by: Agriculture
+
+Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/86/][Inara: Marine Equipment]]

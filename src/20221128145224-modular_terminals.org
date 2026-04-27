@@ -4,3 +4,13 @@
 #+title: Modular Terminals
 #+filetags: :Commodity:
 
+#+begin_quote
+Modular terminals are ubiquitous items that provide a hardware
+display of data in a visual and audio format.
+#+end_quote
+
+Category: Machinery
+Produced by: Mission reward
+Consumed by: -
+
+Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/181/][Inara: Modular Terminals]]

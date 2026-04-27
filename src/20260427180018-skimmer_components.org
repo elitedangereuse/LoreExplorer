@@ -4,6 +4,13 @@
 #+title: Skimmer Components
 #+filetags: :Commodity:
 
-Category: Machinery
+#+begin_quote
+These maintenance and repair packs are used to keep skimmers
+operational.
+#+end_quote
 
-Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/104/][Inara: Skimmer Components]]
+Category: Machinery
+Produced by: Industrial
+Consumed by: Agriculture, Extraction, Industrial, High Tech, Military, Refinery, Service, Tourism, Terraforming, Colony, Tourism (Surface)
+
+Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/104/][Inara: Skimmer Components]]

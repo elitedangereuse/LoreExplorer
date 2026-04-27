@@ -4,6 +4,12 @@
 #+title: Power Converter
 #+filetags: :Commodity:
 
-Category: Machinery
+#+begin_quote
+These can be found at Shukor Dock in the Perun system.
+#+end_quote
 
-Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/153/][Inara: Power Converter]]
+Category: Machinery
+Produced by: Industrial/Extraction near Lakota
+Consumed by: High Tech
+
+Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/153/][Inara: Power Converter]]

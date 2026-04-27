@@ -4,6 +4,12 @@
 #+title: Radiation Baffle
 #+filetags: :Commodity:
 
-Category: Machinery
+#+begin_quote
+These can be found at Sopwith Arsenal in the Taevaisa system.
+#+end_quote
 
-Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/162/][Inara: Radiation Baffle]]
+Category: Machinery
+Produced by: Industrial/Extraction near Heget
+Consumed by: Military
+
+Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/162/][Inara: Radiation Baffle]]

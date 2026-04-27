@@ -4,6 +4,12 @@
 #+title: Power Transfer Bus
 #+filetags: :Commodity:
 
-Category: Machinery
+#+begin_quote
+These can be found at Haignere Orbital in the Wuthawchu system.
+#+end_quote
 
-Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/161/][Inara: Power Transfer Bus]]
+Category: Machinery
+Produced by: Industrial/Extraction near Cilbien Zu
+Consumed by: High Tech (Surface)
+
+Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/161/][Inara: Power Transfer Bus]]

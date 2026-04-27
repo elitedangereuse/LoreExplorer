@@ -4,6 +4,13 @@
 #+title: Building Fabricators
 #+filetags: :Commodity:
 
-Category: Machinery
+#+begin_quote
+These are combined resources and manufacturing devices that are used
+to build surface structures.
+#+end_quote
 
-Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/102/][Inara: Building Fabricators]]
+Category: Machinery
+Produced by: Industrial
+Consumed by: Colony (Surface), Extraction (Surface), High Tech (Surface), Military (Surface), Tourism (Surface)
+
+Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/102/][Inara: Building Fabricators]]

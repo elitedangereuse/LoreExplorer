@@ -4,6 +4,12 @@
 #+title: Magnetic Emitter Coil
 #+filetags: :Commodity:
 
-Category: Machinery
+#+begin_quote
+These can be found at Steiner Platform in the Aasgaa system.
+#+end_quote
 
-Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/152/][Inara: Magnetic Emitter Coil]]
+Category: Machinery
+Produced by: Industrial/Refinery near Leesti
+Consumed by: High Tech
+
+Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/152/][Inara: Magnetic Emitter Coil]]

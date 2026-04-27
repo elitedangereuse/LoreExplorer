@@ -4,6 +4,12 @@
 #+title: Energy Grid Assembly
 #+filetags: :Commodity:
 
-Category: Machinery
+#+begin_quote
+These can be found at Pailes Enterprise in the 40 Ceti system.
+#+end_quote
 
-Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/149/][Inara: Energy Grid Assembly]]
+Category: Machinery
+Produced by: Industrial/Refinery near Stafkarl
+Consumed by: High Tech, Military
+
+Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/149/][Inara: Energy Grid Assembly]]

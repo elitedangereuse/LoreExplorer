@@ -4,6 +4,13 @@
 #+title: Geological Equipment
 #+filetags: :Commodity:
 
-Category: Machinery
+#+begin_quote
+Allows basic monitoring and integration of the world's geology, for
+both scientific, civic and commercial purposes.
+#+end_quote
 
-Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/103/][Inara: Geological Equipment]]
+Category: Machinery
+Produced by: Industrial
+Consumed by: Colony (Surface), Extraction (Surface), High Tech (Surface)
+
+Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/103/][Inara: Geological Equipment]]

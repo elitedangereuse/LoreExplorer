@@ -4,6 +4,12 @@
 #+title: Exhaust Manifold
 #+filetags: :Commodity:
 
-Category: Machinery
+#+begin_quote
+These can be found at Somerville Station in the Kharpulo system.
+#+end_quote
 
-Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/159/][Inara: Exhaust Manifold]]
+Category: Machinery
+Produced by: Industrial/Refinery near Run
+Consumed by: High Tech
+
+Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/159/][Inara: Exhaust Manifold]]

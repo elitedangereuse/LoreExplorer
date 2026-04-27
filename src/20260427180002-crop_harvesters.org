@@ -4,6 +4,13 @@
 #+title: Crop Harvesters
 #+filetags: :Commodity:
 
-Category: Machinery
+#+begin_quote
+Agricultural machinery together with spare parts and consumables
+used for harvesting and packing specific ground-based crops.
+#+end_quote
 
-Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/29/][Inara: Crop Harvesters]]
+Category: Machinery
+Produced by: Industrial
+Consumed by: Agriculture
+
+Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/29/][Inara: Crop Harvesters]]

@@ -4,6 +4,15 @@
 #+title: Mineral Extractors
 #+filetags: :Commodity:
 
-Category: Machinery
+#+begin_quote
+Industrially produced 'grey goo' microdevices that are injected into
+minerals to separate specific constituents from mixed ores along
+grain boundaries. Extraction sites that utilise mineral extractors
+in their processes are significantly more efficient.
+#+end_quote
 
-Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/31/][Inara: Mineral Extractors]]
+Category: Machinery
+Produced by: Industrial
+Consumed by: Extraction
+
+Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/31/][Inara: Mineral Extractors]]

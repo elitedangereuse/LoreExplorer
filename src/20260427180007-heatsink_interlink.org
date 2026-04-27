@@ -4,6 +4,12 @@
 #+title: Heatsink Interlink
 #+filetags: :Commodity:
 
-Category: Machinery
+#+begin_quote
+These can be found at Gresley Enterprise in the LHS 3980 system.
+#+end_quote
 
-Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/151/][Inara: Heatsink Interlink]]
+Category: Machinery
+Produced by: Industrial/Refinery near Myrbat
+Consumed by: High Tech
+
+Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/151/][Inara: Heatsink Interlink]]
