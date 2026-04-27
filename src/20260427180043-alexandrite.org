@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       fbe73cad-acb1-4d60-bdd3-0224427cd9d7
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Alexandrite
 :END:
 #+title: Alexandrite
 #+filetags: :Commodity:
@@ -14,4 +15,3 @@ Category: Minerals
 Produced by: Asteroid Core Mining
 Consumed by: -
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Alexandrite][Fandom: Alexandrite]]

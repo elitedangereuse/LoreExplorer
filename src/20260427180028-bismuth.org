@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       790e8a87-7557-44f8-867e-9aa92acfa9b7
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Bismuth
 :END:
 #+title: Bismuth
 #+filetags: :Commodity:
@@ -13,6 +14,4 @@ alloys. It is sometimes used in pharmaceuticals.
 Category: Metal
 Produced by: Refinery (Surface)
 Consumed by: High Tech Extraction Refinery
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Bismuth][Fandom: Bismuth]]
 

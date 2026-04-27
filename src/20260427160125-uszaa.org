@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       33bd5592-aab7-4736-87b7-a8e38c34026e
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Uszaa
 :END:
 #+title: Uszaa
 #+filetags: :System:
@@ -8,7 +9,5 @@
 Uszaa is noted for its inhabitants' eccentric love for tourists and
 the Uszaian tree grub.
 #+end_quote
-
-Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Uszaa][Fandom: Uszaa]]
 
 Rare commodity source: [[id:38ca2282-281d-4561-bbaf-a617e378fd47][Uszaian Tree Grub]] at [[id:6e796043-8fe8-4bbe-b37e-fe3c72009781][Guest Installation]].

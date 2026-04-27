@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       d40886f3-bc59-4f0d-8926-b125ee01c9bb
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Epsilon_Indi
 :END:
 #+title: Epsilon Indi
 #+filetags: :System:
@@ -10,7 +11,5 @@ given over to agricultural production and to ethically questionable
 cattle ranching. There is little manufacturing industry other than
 the production of the famous bourbon.
 #+end_quote
-
-Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Epsilon_Indi][Fandom: Epsilon Indi]]
 
 Rare commodity source: [[id:ffcc8c23-1721-41cb-9cb7-c849292c8b38][Indi Bourbon]] at [[id:70fecaa7-bd23-4579-b206-7e3e65737044][Mansfield Orbiter]].

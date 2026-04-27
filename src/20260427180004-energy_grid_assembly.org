@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       ec55516c-d292-4c5b-8390-b665453c8118
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Energy_Grid_Assembly
 :END:
 #+title: Energy Grid Assembly
 #+filetags: :Commodity:
@@ -14,4 +15,3 @@ Category: Machinery
 Produced by: Industrial/Refinery near Stafkarl
 Consumed by: High Tech and Military
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Energy_Grid_Assembly][Fandom: Energy Grid Assembly]]

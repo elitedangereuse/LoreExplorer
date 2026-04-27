@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       c4c312cb-b838-47aa-8067-18710bbba82b
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Orrere
 :END:
 #+title: Orrere
 #+filetags: :System:
@@ -11,8 +12,6 @@ began their careers in Ngaliba. In recent years it has grown into a
 massive interstellar ring of organised criminals, now based in
 Orrere.
 #+end_quote
-
-Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Orrere][Fandom: Orrere]]
 
 Related: [[id:c00dcd18-778c-4fca-acbd-cba6f2ded57e][The Code]].
 

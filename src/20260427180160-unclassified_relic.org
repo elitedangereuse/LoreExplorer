@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       305465eb-783e-4cf0-afe7-97ebdd540423
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Unclassified_Relic
 :END:
 #+title: Unclassified Relic
 #+filetags: :Commodity:
@@ -13,4 +14,3 @@ Category: Salvage
 Produced by: | consumer =
 Consumed by: -
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Unclassified_Relic][Fandom: Unclassified Relic]]

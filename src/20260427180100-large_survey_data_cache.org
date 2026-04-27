@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       6a39dda5-7060-4279-ac47-671d2275ebc6
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Large_Survey_Data_Cache
 :END:
 #+title: Large Survey Data Cache
 #+filetags: :Commodity:
@@ -14,6 +15,4 @@ private interests.
 Category: Salvage
 Produced by: -
 Consumed by: -
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Large_Survey_Data_Cache][Fandom: Large Survey Data Cache]]
 

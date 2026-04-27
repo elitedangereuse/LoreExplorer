@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       87c450f1-1a7a-408e-b9e6-db42697053fe
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Dromi
 :END:
 #+title: Dromi
 
@@ -9,8 +10,6 @@ District. As the location for new Commanders to take their first
 journey into the galaxy as an independent pilot, the system hosts
 high tech stations and a lively mission hub.
 #+end_quote
-
-Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Dromi][Fandom: Dromi]]
 
 #+filetags: :System:Permit:
 [[file:img/permit.png]]

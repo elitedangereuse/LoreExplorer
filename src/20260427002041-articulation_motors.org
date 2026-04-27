@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       bc975b4d-2fdd-4907-b450-f64e32fdd6a9
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Articulation_Motors
 :END:
 #+title: Articulation Motors
 #+filetags: :Commodity:
@@ -12,4 +13,3 @@ Category: Machinery
 Produced by: Mission Rewards
 Consumed by: High Tech
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Articulation_Motors][Fandom: Articulation Motors]]

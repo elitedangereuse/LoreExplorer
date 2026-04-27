@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       8d732fbb-d43d-4a87-8079-a19c073e753b
 :ROAM_ALIASES: coffret
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Guardian_Casket
 :END:
 #+title: Guardian Casket
 #+filetags: :Commodity:
@@ -14,4 +15,3 @@ Category: Salvage
 Produced by: | consumer =
 Consumed by: -
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Guardian_Casket][Fandom: Guardian Casket]]

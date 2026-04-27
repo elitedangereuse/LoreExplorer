@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       11ae2103-e28e-48f9-a073-84886c94dc5b
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Thargoid_Resin
 :END:
 #+title: Thargoid Resin
 #+filetags: :Commodity:
@@ -14,6 +15,4 @@ converted into a gas it is highly corrosive.
 Category: Salvage
 Produced by: |classification = Commodity
 Consumed by: -
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Thargoid_Resin][Fandom: Thargoid Resin]]
 

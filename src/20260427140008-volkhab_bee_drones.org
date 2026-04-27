@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       afbde43d-1a6a-49db-b133-e74bd665b0ab
+:ROAM_REFS: https://inara.cz/elite/commodity/10085/
 :END:
 #+title: Volkhab Bee Drones
 #+filetags: :Commodity:rare:
@@ -18,4 +19,3 @@ in question will no longer be available for sale or purchase.
 
 Sold as a rare commodity at [[id:329f770e-f3ed-4bd2-bba4-af67c4c206b3][Vernadsky Dock]], [[id:e2408ae8-86cc-47df-a589-f8d880f5f2e4][Volkhab]].
 
-Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/10085/][Inara: Volkhab Bee Drones]]

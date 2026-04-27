@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       87f58744-f7fe-46da-b824-fb089a150705
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Polymers
 :END:
 #+title: Polymers
 #+filetags: :Commodity:
@@ -14,4 +15,3 @@ Category: Industrial Materials
 Produced by: Refinery
 Consumed by: Military Terraforming Industrial
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Polymers][Fandom: Polymers]]

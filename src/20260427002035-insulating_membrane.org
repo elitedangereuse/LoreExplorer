@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       5107b041-1d34-46e8-a66d-d624541c355f
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Insulating_Membrane
 :END:
 #+title: Insulating Membrane
 #+filetags: :Commodity:
@@ -13,4 +14,3 @@ Category: Industrial Materials
 Produced by: Refinery (Space)
 Consumed by: High Tech, Industrial and Military
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Insulating_Membrane][Fandom: Insulating Membrane]]

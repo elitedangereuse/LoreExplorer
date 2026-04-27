@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       c4f9b241-5b3e-4292-a07b-116e6bf06f96
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Animal_Monitors
 :END:
 #+title: Animal Monitors
 #+filetags: :Commodity:
@@ -12,6 +13,4 @@ easily adapted to monitor a wide variety of organic species.
 Category: Technology
 Produced by: High Tech
 Consumed by: Agricultural
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Animal_Monitors][Fandom: Animal Monitors]]
 

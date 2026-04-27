@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       e7c94b38-cdfb-48da-a1c4-cdad10c3371a
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Leesti
 :END:
 #+title: Leesti
 #+filetags: :System:
@@ -8,7 +9,5 @@
 The Leesti system is notable for Zero-G Cricket and Leestian Evil
 Juice.
 #+end_quote
-
-Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Leesti][Fandom: Leesti]]
 
 Rare commodity source: [[id:726ccb6b-cbbf-48ee-b1fd-73d56c186504][Azure Milk]] at [[id:2e9a782a-b3d8-449f-83d4-f239d5e19a12][George Lucas]].

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       ca91eeda-5fee-4ae2-a5ba-468f0495f380
+:ROAM_REFS: https://inara.cz/elite/commodity/10082/
 :END:
 #+title: Kinago Violins
 #+filetags: :Commodity:rare:
@@ -16,4 +17,3 @@ for sale or purchase.
 
 Sold as a rare commodity at [[id:0ecd92bb-53be-4b6e-a35f-63e230c93c52][Fozard Ring]], [[id:9c78e040-d2f0-4c22-a771-961afa7c64f7][Kinago]].
 
-Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/10082/][Inara: Kinago Violins]]

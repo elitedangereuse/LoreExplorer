@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       5292d8c1-fa6e-4352-a03f-ef984f706203
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Reorte
 :END:
 #+title: Reorte
 #+filetags: :System:
@@ -10,4 +11,3 @@ tourists, but is plagued by deadly earthquakes.In April 3301 the
 system was taken by pirates but swiftly liberated by the Alliance.
 #+end_quote
 
-Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Reorte][Fandom: Reorte]]

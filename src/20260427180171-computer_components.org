@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       66b0f0aa-4387-46f9-9abe-a3dbe1033c6f
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Computer_Components
 :END:
 #+title: Computer Components
 #+filetags: :Commodity:
@@ -14,6 +15,4 @@ need a spare part.
 Category: Technology
 Produced by: Industrial
 Consumed by: High Tech Extraction Refinery Military
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Computer_Components][Fandom: Computer Components]]
 

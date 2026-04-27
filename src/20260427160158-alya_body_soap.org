@@ -1,9 +1,9 @@
 :PROPERTIES:
 :ID:       d1f2b169-988a-47bc-83c4-9741a5d78978
+:ROAM_REFS: https://inara.cz/elite/commodity/10092/
 :END:
 #+title: Alya Body Soap
 #+filetags: :Commodity:rare:
 
 Sold as a rare commodity at [[id:1da54ed4-4e3c-4423-a0e1-582bf3097fce][Malaspina Gateway]], [[id:0aee88d5-d87b-4793-89e0-c9a7e4dbed51][Alya]].
 
-Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10092/][Inara: Alya Body Soap]]

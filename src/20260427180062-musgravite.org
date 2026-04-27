@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       d3383aad-a27e-4ae6-8c76-185f2411e4ab
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Musgravite
 :END:
 #+title: Musgravite
 #+filetags: :Commodity:
@@ -13,4 +14,3 @@ Category: Minerals
 Produced by: Asteroid Core Mining
 Consumed by: -
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Musgravite][Fandom: Musgravite]]

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       f1c5455a-9583-4969-bd6c-6e679cfe5437
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Cryolite
 :END:
 #+title: Cryolite
 #+filetags: :Commodity:
@@ -12,6 +13,4 @@ fireworks [sic] and as a solvent for Aluminium oxide.
 Category: Mineral
 Produced by: Extraction (Surface)
 Consumed by: Refinery
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Cryolite][Fandom: Cryolite]]
 

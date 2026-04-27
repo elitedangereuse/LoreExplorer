@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       4397a456-5661-4e9e-9bcf-c1444e421414
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Crop_Harvesters
 :END:
 #+title: Crop Harvesters
 #+filetags: :Commodity:
@@ -13,4 +14,3 @@ Category: Machinery
 Produced by: Industrial
 Consumed by: Agricultural
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Crop_Harvesters][Fandom: Crop Harvesters]]

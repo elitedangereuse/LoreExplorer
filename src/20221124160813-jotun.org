@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       addd8c74-2425-4d26-a1d5-9cb11ce6b0ba
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Jotun
 :END:
 #+title: Jotun
 #+filetags: :Empire:Reputation:System:Permit:
@@ -16,8 +17,6 @@ bitter, but they have found a niche as an expensive pet. Most trade
 is done with the Imperials, who use slaves to tend the animals
 individually during transit.
 #+end_quote
-
-Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Jotun][Fandom: Jotun]]
 
 [[file:img/permit.png]]
 Faction: [[id:0ebec0eb-5f68-47f5-9a0e-dd1b47f140f7][Dukes of Jotun]]

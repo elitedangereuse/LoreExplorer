@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       04da3c2d-0705-481d-b17c-8b4235a3aa7a
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Robotics
 :END:
 #+title: Robotics
 #+filetags: :Commodity:
@@ -14,6 +15,4 @@ tasks.
 Category: Technology
 Produced by: High Tech
 Consumed by: Industrial
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Robotics][Fandom: Robotics]]
 

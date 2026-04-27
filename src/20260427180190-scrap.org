@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       639c7c13-7a10-46b4-b2de-82db57364db1
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Scrap
 :END:
 #+title: Scrap
 #+filetags: :Commodity:
@@ -11,6 +12,4 @@ Assorted unwanted refuse with a high metal content.
 Category: Waste
 Produced by: Colony, High Tech, Military and Industrial
 Consumed by: Refinery
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Scrap][Fandom: Scrap]]
 

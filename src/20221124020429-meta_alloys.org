@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       da2f167d-0157-4deb-afb2-98bf6518cf01
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Meta-Alloys
 :END:
 #+title: Meta-Alloys
 #+filetags: :Commodity:
@@ -25,8 +26,6 @@ most commercially available alloys.
 Category: Industrial material
 Produced by: Darnielle's Progress, Maia Settlements
 Consumed by: -
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Meta-Alloys][Fandom: Meta-Alloys]]
 
 * Locations
   - [[id:b4d90e11-7f9a-42f4-a995-4ca941d38851][Darnielle's Progress]]

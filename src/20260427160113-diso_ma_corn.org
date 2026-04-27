@@ -1,9 +1,9 @@
 :PROPERTIES:
 :ID:       9ae2b7bc-f042-4a24-b042-2bcbef21e557
+:ROAM_REFS: https://inara.cz/elite/commodity/10043/
 :END:
 #+title: Diso Ma Corn
 #+filetags: :Commodity:rare:
 
 Sold as a rare commodity at [[id:ffed13b2-4679-47f1-920a-333c13f3c6e3][Shifnalport]], [[id:4aedfccd-a366-4b25-a5e2-538bb29a35cb][Diso]].
 
-Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10043/][Inara: Diso Ma Corn]]

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       8c0d7488-c33e-44b6-88c8-3d7412efcb41
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Military_Plans
 :END:
 #+title: Military Plans
 #+filetags: :Commodity:
@@ -14,6 +15,4 @@ large sum to the right seller on the black market.
 Category: Salvage
 Produced by: -
 Consumed by: -
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Military_Plans][Fandom: Military Plans]]
 

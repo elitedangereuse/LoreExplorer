@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       6762f716-7e24-4a03-af96-2af0fd55f8c7
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Kamadhenu
 :END:
 #+title: Kamadhenu
 #+filetags: :Empire:System:
@@ -11,4 +12,3 @@ injustice and political corruption. Inquisitors promote order and
 the traditional Imperial values espoused by their patron.
 #+end_quote
 
-Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Kamadhenu][Fandom: Kamadhenu]]

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       d686168a-7903-49dc-8dd6-1c2d690bfa9c
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Power_Converter
 :END:
 #+title: Power Converter
 #+filetags: :Commodity:
@@ -16,4 +17,3 @@ Category: Machinery
 Produced by: Industrial/Extraction near Lakota
 Consumed by: High Tech
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Power_Converter][Fandom: Power Converter]]

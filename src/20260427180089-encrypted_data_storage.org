@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       a19885be-9e9f-44fc-9623-8322f3c7cd64
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Encrypted_Data_Storage
 :END:
 #+title: Encrypted Data Storage
 #+filetags: :Commodity:
@@ -14,6 +15,4 @@ secure these items.
 Category: Salvage
 Produced by: -
 Consumed by: -
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Encrypted_Data_Storage][Fandom: Encrypted Data Storage]]
 

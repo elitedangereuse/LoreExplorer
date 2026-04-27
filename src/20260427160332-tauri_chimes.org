@@ -1,9 +1,9 @@
 :PROPERTIES:
 :ID:       6e85e07f-bf89-40bb-9555-b1ddc7748f9a
+:ROAM_REFS: https://inara.cz/elite/commodity/10060/
 :END:
 #+title: Tauri Chimes
 #+filetags: :Commodity:rare:
 
 Sold as a rare commodity at [[id:fe2bed9a-c1d4-4f1a-8708-6c51ef98865b][Porta]], [[id:7a442368-d9e1-420b-a2c4-a8900a94227d][39 Tauri]].
 
-Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10060/][Inara: Tauri Chimes]]

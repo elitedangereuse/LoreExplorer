@@ -1,11 +1,10 @@
 :PROPERTIES:
 :ID:       7d7a554b-3f51-414f-8d20-44045b5645af
+:ROAM_REFS: https://inara.cz/elite/commodity/10027/
 :END:
 #+title: Eleu Thermals
 #+filetags: :Commodity:rare:
 
 Sold as a rare commodity at [[id:71a5be45-02e5-48ab-8858-448a526a1e11][Finney Dock]], [[id:71373989-4797-42fa-b1d1-758e41e48177][Eleu]].
-
-Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10027/][Inara: Eleu Thermals]]
 
 [[file:img/commodities/eleu_thermals.jpg]]

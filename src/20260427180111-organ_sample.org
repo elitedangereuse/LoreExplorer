@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       e8977b71-88b3-4ea1-aa00-569c88678e5e
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Organ_Sample
 :END:
 #+title: Organ Sample
 #+filetags: :Commodity:
@@ -12,6 +13,4 @@ remnants.
 Category: -
 Produced by: -
 Consumed by: -
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Organ_Sample][Fandom: Organ Sample]]
 

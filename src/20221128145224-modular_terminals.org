@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       f2e6761a-3e97-4f9b-96bc-a692de5e3cc3
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Modular_Terminals
 :END:
 #+title: Modular Terminals
 #+filetags: :Commodity:
@@ -14,7 +15,5 @@ display of data in a visual and audio format.
 Category: Machinery
 Produced by: Mission Rewards
 Consumed by: Any
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Modular_Terminals][Fandom: Modular Terminals]]
 
 [[file:img/commodities/modular_terminals.png]]

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       ba152f8a-d8af-4611-b8ac-0b32f3258dd0
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Summerland
 :END:
 #+title: Summerland
 #+filetags: :Rank:Permit:System:
@@ -9,8 +10,6 @@ Darkwater Inc is one of the largest private military forces to ever
 exist and their headquarters situated in this system. 'Keeping watch
 and keeping you safe.'
 #+end_quote
-
-Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Summerland][Fandom: Summerland]]
 
 [[file:img/permit.png]]
 

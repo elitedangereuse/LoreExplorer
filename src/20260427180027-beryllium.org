@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       bd0fe4ab-145e-431c-b06e-3433e2618bff
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Beryllium
 :END:
 #+title: Beryllium
 #+filetags: :Commodity:
@@ -16,6 +17,4 @@ components.
 Category: Minerals
 Produced by: Refinery
 Consumed by: High Tech Industrial Extraction
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Beryllium][Fandom: Beryllium]]
 

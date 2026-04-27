@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       ee7ad474-128d-4794-ba85-267b10ebc510
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Diplomatic_Bag
 :END:
 #+title: Diplomatic Bag
 #+filetags: :Commodity:
@@ -14,4 +15,3 @@ Category: Salvage
 Produced by: Salvage
 Consumed by: -
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Diplomatic_Bag][Fandom: Diplomatic Bag]]

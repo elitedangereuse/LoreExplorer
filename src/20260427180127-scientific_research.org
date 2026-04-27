@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       91e18671-9d14-4a53-b903-c1f546104c74
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Scientific_Research
 :END:
 #+title: Scientific Research
 #+filetags: :Commodity:
@@ -13,4 +14,3 @@ Category: Salvage
 Produced by: Salvage
 Consumed by: -
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Scientific_Research][Fandom: Scientific Research]]

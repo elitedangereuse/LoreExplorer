@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       5d99c688-f21a-41e1-9ebb-00b626b4c31f
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Auto_Fabricators
 :END:
 #+title: Auto-Fabricators
 #+filetags: :Commodity:
@@ -13,4 +14,3 @@ Category: Technology
 Produced by: High Tech
 Consumed by: Industrial
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Auto_Fabricators][Fandom: Auto Fabricators]]

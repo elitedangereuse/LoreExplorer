@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       bd7eac86-1a4a-4512-82aa-dd4c4f333922
+:ROAM_REFS: https://inara.cz/elite/commodity/10018/
 :END:
 #+title: Rapa Bao Snake Skins
 #+filetags: :Commodity:rare:
@@ -16,4 +17,3 @@ longer be available for sale or purchase.
 
 Sold as a rare commodity at [[id:d3ed1aa7-a398-402d-8dbe-f894d623efac][Flagg Gateway]], [[id:eea05b31-de72-43b5-839a-fee530eab347][Rapa Bao]].
 
-Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/10018/][Inara: Rapa Bao Snake Skins]]

@@ -1,9 +1,9 @@
 :PROPERTIES:
 :ID:       f91791f3-716d-4aa4-9886-40605c9f5c00
+:ROAM_REFS: https://inara.cz/elite/commodity/10104/
 :END:
 #+title: Honesty Pills
 #+filetags: :Commodity:rare:
 
 Sold as a rare commodity at [[id:68b94af6-c983-41a0-b9eb-558af3978929][King Gateway]], [[id:37bd5518-9ee4-4192-aa05-200b9970e650][LP 375-25]].
 
-Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10104/][Inara: Honesty Pills]]

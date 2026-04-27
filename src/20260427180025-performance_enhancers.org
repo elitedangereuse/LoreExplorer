@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       1f1b3c4c-ab13-4a0e-929f-92b2f3d37d28
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Performance_Enhancers
 :END:
 #+title: Performance Enhancers
 #+filetags: :Commodity:
@@ -14,6 +15,4 @@ consumption and they are illegal in some jurisdictions.
 Category: Medicines
 Produced by: High Tech
 Consumed by: Agricultural Industrial Refinery Extraction Military
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Performance_Enhancers][Fandom: Performance Enhancers]]
 

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       1a389a39-e5fc-4f75-a330-8153f6140d2c
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Moissanite
 :END:
 #+title: Moissanite
 #+filetags: :Commodity:
@@ -13,6 +14,4 @@ used in jewellery and other crafted items.
 Category: Mineral
 Produced by: Planetary mining
 Consumed by: Service (Orbital) and Tourist
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Moissanite][Fandom: Moissanite]]
 

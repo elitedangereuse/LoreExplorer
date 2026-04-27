@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       595aa273-d1b3-44fd-9f16-ddc7291b4bee
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Delta_Pavonis
 :END:
 #+title: Delta Pavonis
 #+filetags: :System:
@@ -8,7 +9,5 @@
 Only just sustaining life, the indigenous life forms on this arid
 planet are very hardy.
 #+end_quote
-
-Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Delta_Pavonis][Fandom: Delta Pavonis]]
 
 Rare commodity source: [[id:f7aef667-24df-419b-9f2b-7ad99c927f71][Pavonis Ear Grubs]] at [[id:4071bb06-d1ad-447b-ac45-4996504504ed][Hooper Relay]].

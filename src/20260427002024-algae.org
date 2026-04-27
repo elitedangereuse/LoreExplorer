@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       fed5529b-f649-4803-971b-e6a33ca788a5
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Algae
 :END:
 #+title: Algae
 #+filetags: :Commodity:
@@ -16,4 +17,3 @@ Category: Foods
 Produced by: Agricultural
 Consumed by: Industrial and Military
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Algae][Fandom: Algae]]

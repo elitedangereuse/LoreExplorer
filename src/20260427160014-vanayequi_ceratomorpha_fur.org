@@ -1,9 +1,9 @@
 :PROPERTIES:
 :ID:       263a91fb-740f-452a-9713-3563b7b895bc
+:ROAM_REFS: https://inara.cz/elite/commodity/10036/
 :END:
 #+title: Vanayequi Ceratomorpha Fur
 #+filetags: :Commodity:rare:
 
 Sold as a rare commodity at [[id:9a9576d1-15e9-4472-8f0a-b3bc04f17efc][Clauss Hub]], [[id:b27836fd-91c9-4c59-b558-cdba4f1fa998][Vanayequi]].
 
-Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10036/][Inara: Vanayequi Ceratomorpha Fur]]

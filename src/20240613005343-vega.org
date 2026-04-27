@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       12db1b22-8d5c-482f-a91b-00021258a388
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Vega
 :END:
 #+title: Vega
 #+filetags: :Federation:Rank:System:Permit:
@@ -11,8 +12,6 @@ strikingly beautiful, though the wildlife can be a little dangerous.
 Was known in ancient times as 3 Alpha Lyrae. The permit for this
 system can be obtained from the Federal Military.
 #+end_quote
-
-Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Vega][Fandom: Vega]]
 
 [[file:img/permit.png]]
 

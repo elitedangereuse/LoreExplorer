@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       b47ceebf-4ca3-4a89-b6d3-4c8ee60b8322
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Onionhead_Gamma_Strain
 :END:
 #+title: Onionhead Gamma Strain
 #+filetags: :Commodity:
@@ -11,6 +12,4 @@ A new strain of Onionhead tailored to grow in local conditions.
 Category: Legal Drugs
 Produced by: Industrial (Alliance & Independent)
 Consumed by: Anarchy, Extraction, Industrial
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Onionhead_Gamma_Strain][Fandom: Onionhead Gamma Strain]]
 

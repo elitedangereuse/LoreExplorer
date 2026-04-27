@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       9f08f5c0-3fc5-47db-8686-aafb03fe77be
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Thargoid_Basilisk_Tissue_Sample
 :END:
 #+title: Thargoid Basilisk Tissue Sample
 #+filetags: :Commodity:
@@ -17,6 +18,4 @@ to be highly corrosive.
 Category: Salvage
 Produced by: -
 Consumed by: -
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Thargoid_Basilisk_Tissue_Sample][Fandom: Thargoid Basilisk Tissue Sample]]
 

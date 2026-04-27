@@ -1,9 +1,9 @@
 :PROPERTIES:
 :ID:       1761a0e9-1e20-48c0-9515-2c320155205c
+:ROAM_REFS: https://inara.cz/elite/commodity/10078/
 :END:
 #+title: Coquim Spongiform Victuals
 #+filetags: :Commodity:rare:
 
 Sold as a rare commodity at [[id:80681b4a-668b-4d4e-94ed-c39141ac69e6][Hirayama Installation]], [[id:ba8d8d1f-93b8-44c5-9ec3-a7998cbcf43c][Coquim]].
 
-Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10078/][Inara: Coquim Spongiform Victuals]]

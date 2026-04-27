@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       2de7ac5c-9ae0-4ebf-af7d-6505f05d2fd1
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Alpha_Centauri
 :END:
 #+title: Alpha Centauri
 #+filetags: :3301:System:
@@ -23,8 +24,6 @@ of the famed Mug Run many intrepid commanders decided to formalise
 their association to the Co-Operative, vowing to protect the
 hallowed route and, perhaps one day, find a cure for MODS.
 #+end_quote
-
-Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Alpha_Centauri][Fandom: Alpha Centauri]]
 
 Related: [[id:6003defd-b8fc-47fe-a6b2-769d6963ced1][Proxima Centauri]], [[id:9e3161ac-9252-44d0-a526-b6e289cf28ee][Hutton Orbital]], [[id:56b510cd-e1c0-4183-845f-397475330ab2][Hutton Mug]], [[id:46bf843d-4f3a-43c9-99a4-75999d94f368][MODS]].
 

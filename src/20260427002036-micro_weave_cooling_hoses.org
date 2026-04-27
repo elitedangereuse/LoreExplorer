@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       3ed298ae-ac6b-497b-b3fb-bb9ce16f349f
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Micro-Weave_Cooling_Hoses
 :END:
 #+title: Micro-weave Cooling Hoses
 #+filetags: :Commodity:
@@ -13,4 +14,3 @@ Category: Industrial material
 Produced by: Mission Rewards
 Consumed by: Industrial and Military
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Micro-Weave_Cooling_Hoses][Fandom: Micro-Weave Cooling Hoses]]

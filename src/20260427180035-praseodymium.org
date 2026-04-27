@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       d5d904e1-f1a7-4c46-afe8-728f625d11bf
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Praseodymium
 :END:
 #+title: Praseodymium
 #+filetags: :Commodity:
@@ -14,6 +15,4 @@ component for metals and laser optics.
 Category: Metal
 Produced by: Mining only
 Consumed by: High Tech and Industrial
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Praseodymium][Fandom: Praseodymium]]
 

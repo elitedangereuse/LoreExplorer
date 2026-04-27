@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       64fbd8db-9396-456d-94f8-bb4e6251b8c6
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/AI_Relics
 :END:
 #+title: AI Relics
 #+filetags: :Commodity:
@@ -17,6 +18,4 @@ within.
 Category: Salvage
 Produced by: -
 Consumed by: -
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/AI_Relics][Fandom: AI Relics]]
 

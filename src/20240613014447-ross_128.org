@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       d7fab9bb-976b-4012-a181-af389e9a2396
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Ross_128
 :END:
 #+title: Ross 128
 
@@ -10,8 +11,6 @@ first be obtained. There is reputed to be a seedier side to the
 colony whereby lonely visitors may enter without a permit while the
 guards turn a blind eye for a fee, but this is always denied.
 #+end_quote
-
-Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Ross_128][Fandom: Ross 128]]
 
 #+filetags: :System:Permit:
 [[file:img/permit.png]]

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       7e0d11ca-5f3b-4694-aa8e-c444116f4a43
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Telemetry_Suite
 :END:
 #+title: Telemetry Suite
 #+filetags: :Commodity:
@@ -12,6 +13,4 @@ specific components within a system.
 Category: Technology
 Produced by: Mission Rewards
 Consumed by: High Tech, Military
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Telemetry_Suite][Fandom: Telemetry Suite]]
 

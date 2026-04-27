@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       4390832c-737a-482e-aabf-9b8595910797
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Toxic_Waste
 :END:
 #+title: Toxic Waste
 #+filetags: :Commodity:
@@ -14,6 +15,4 @@ volatile, likely to leak and may explode when damaged.
 Category: Waste
 Produced by: -
 Consumed by: None
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Toxic_Waste][Fandom: Toxic Waste]]
 

@@ -1,9 +1,9 @@
 :PROPERTIES:
 :ID:       aa2662c4-12d2-4842-8ff2-ca213e1b1f9e
+:ROAM_REFS: https://inara.cz/elite/commodity/10056/
 :END:
 #+title: Gerasian Gueuze Beer
 #+filetags: :Commodity:rare:
 
 Sold as a rare commodity at [[id:88e4b0dc-4d64-4ba3-9a64-7fcbd6277e39][Yurchikhin Port]], [[id:48f9c4bf-b2ad-44e9-9130-d0ee33856ed2][Geras]].
 
-Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10056/][Inara: Gerasian Gueuze Beer]]

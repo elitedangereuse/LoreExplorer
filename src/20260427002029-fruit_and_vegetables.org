@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       9dbf5564-8fe2-46f3-930f-f3f1dbfecd26
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Fruit_and_Vegetables
 :END:
 #+title: Fruit and Vegetables
 #+filetags: :Commodity:
@@ -14,4 +15,3 @@ Category: Foods
 Produced by: Agricultural
 Consumed by: All
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Fruit_and_Vegetables][Fandom: Fruit and Vegetables]]

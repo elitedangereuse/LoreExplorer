@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       3d955038-9019-4e3d-a84c-0c1ba34165e7
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Rebel_Transmissions
 :END:
 #+title: Rebel Transmissions
 #+filetags: :Commodity:
@@ -14,6 +15,4 @@ carrying them, but black market trade in data will always flow.
 Category: Salvage
 Produced by: -
 Consumed by: -
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Rebel_Transmissions][Fandom: Rebel Transmissions]]
 

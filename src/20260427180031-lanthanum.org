@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       2e3bcc25-bd8a-437b-a889-dd7b379916af
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Lanthanum
 :END:
 #+title: Lanthanum
 #+filetags: :Commodity:
@@ -14,6 +15,4 @@ applications and as a catalyst for various refining processes.
 Category: Metal
 Produced by: Refinery (Surface)
 Consumed by: High Tech
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Lanthanum][Fandom: Lanthanum]]
 

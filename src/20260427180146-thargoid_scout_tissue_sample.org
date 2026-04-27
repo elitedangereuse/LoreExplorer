@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       1003061a-877a-4afa-85bf-9238c63f65fe
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Thargoid_Scout_Tissue_Sample
 :END:
 #+title: Thargoid Scout Tissue Sample
 #+filetags: :Commodity:
@@ -13,6 +14,4 @@ purposes, despite the fact that they appear to be highly corrosive.
 Category: Salvage
 Produced by: -
 Consumed by: -
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Thargoid_Scout_Tissue_Sample][Fandom: Thargoid Scout Tissue Sample]]
 

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       eea9a598-34c9-48d9-b4a5-d3dbd06e56e2
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Power_Transfer_Bus
 :END:
 #+title: Power Transfer Bus
 #+filetags: :Commodity:
@@ -15,4 +16,3 @@ Category: Machinery
 Produced by: Extraction/Refinery near Cilbien Zu
 Consumed by: High Tech (Surface)
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Power_Transfer_Bus][Fandom: Power Transfer Bus]]

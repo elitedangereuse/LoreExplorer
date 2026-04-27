@@ -1,9 +1,9 @@
 :PROPERTIES:
 :ID:       b13c1cb3-b035-48fc-8291-732558430852
+:ROAM_REFS: https://inara.cz/elite/commodity/10067/
 :END:
 #+title: Borasetani Pathogenetics
 #+filetags: :Commodity:rare:
 
 Sold as a rare commodity at [[id:0d414939-a770-438b-ae4d-3a7d3ae66792][Katzenstein Terminal]], [[id:d5617f40-30d6-4605-aa9a-d6c8906cd416][Borasetani]].
 
-Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10067/][Inara: Borasetani Pathogenetics]]

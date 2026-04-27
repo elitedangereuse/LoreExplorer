@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       bf3fa7f1-f443-4ac5-94ec-8c85f83055d5
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/H.E._Suits
 :END:
 #+title: H.E. Suits
 #+filetags: :Commodity:
@@ -14,6 +15,4 @@ a multi channel communications interface.
 Category: Technology
 Produced by: High Tech
 Consumed by: Industrial Refinery Extraction Military
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/H.E._Suits][Fandom: H.E. Suits]]
 

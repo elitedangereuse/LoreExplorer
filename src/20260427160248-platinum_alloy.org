@@ -1,9 +1,9 @@
 :PROPERTIES:
 :ID:       d9ca0deb-f0c2-417e-9044-b7f66f997d91
+:ROAM_REFS: https://inara.cz/elite/commodity/10233/
 :END:
 #+title: Platinum Alloy
 #+filetags: :Commodity:rare:
 
 Sold as a rare commodity at [[id:58ee6602-c369-4924-8575-a5c77cdda2c2][Artzybasheff Terminal]], [[id:57494344-8169-4caf-bddc-343f5569e456][Nahuatl]].
 
-Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10233/][Inara: Platinum Alloy]]

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       70fa34ea-bc98-40ff-97f0-e4f4538387a6
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Merope
 :END:
 #+title: Merope
 #+filetags: :System:
@@ -10,8 +11,6 @@ the discovery of unknown artefacts that point to this system. The
 first of an alien species known as 'barnacles' was discovered on
 Merope 5 c in 3302.
 #+end_quote
-
-Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Merope][Fandom: Merope]]
 
 Reference body: [[id:8c469ca9-3f5e-4728-a488-1039623174fb][Merope 5C]]
 

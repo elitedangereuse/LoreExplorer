@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       83f24d98-a30b-4917-8352-a2d0b4f8ee65
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Sirius
 :END:
 #+title: Sirius
 #+filetags: :Reputation:System:Permit:
@@ -13,8 +14,6 @@ coils wrapped around the planet for the synthesis of custom elements
 Canis Majoris. The permit for this system can be obtained via the
 Sirius Corporation faction.
 #+end_quote
-
-Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Sirius][Fandom: Sirius]]
 
 [[file:img/permit.png]]
 Faction: [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][The Sirius Corporation]]

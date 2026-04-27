@@ -1,9 +1,9 @@
 :PROPERTIES:
 :ID:       5fd3adda-81be-4ccd-82a6-324dab2156c7
+:ROAM_REFS: https://inara.cz/elite/commodity/10058/
 :END:
 #+title: Pantaa Prayer Sticks
 #+filetags: :Commodity:rare:
 
 Sold as a rare commodity at [[id:de3df5fa-0e09-4938-aae4-1311dc2d108c][Zamka Platform]], [[id:f1d087a2-33cf-4d0c-9395-a159365cdde0][George Pantazis]].
 
-Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10058/][Inara: Pantaa Prayer Sticks]]

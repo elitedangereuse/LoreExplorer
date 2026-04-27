@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       e539b6f4-4cf8-4069-b49e-3433b4270f78
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Radiation_Baffle
 :END:
 #+title: Radiation Baffle
 #+filetags: :Commodity:
@@ -15,4 +16,3 @@ Category: Machinery
 Produced by: Industrial/Extraction near Heget
 Consumed by: Military
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Radiation_Baffle][Fandom: Radiation Baffle]]

@@ -1,9 +1,9 @@
 :PROPERTIES:
 :ID:       e7fb422d-46d5-4d17-b6fc-e884ca123e53
+:ROAM_REFS: https://inara.cz/elite/commodity/10148/
 :END:
 #+title: Ultra-Compact Processor Prototypes
 #+filetags: :Commodity:rare:
 
 Sold as a rare commodity at [[id:b4bf894f-ed5e-48ea-a4cd-f708a0de83e2][Langford Enterprise]], [[id:0a7c7a83-1e6e-445a-ae97-a7da62116f02][17 Lyrae]].
 
-Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10148/][Inara: Ultra-Compact Processor Prototypes]]

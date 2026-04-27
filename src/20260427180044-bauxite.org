@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       510c3ff3-837b-4653-84d9-f184547d7c48
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Bauxite
 :END:
 #+title: Bauxite
 #+filetags: :Commodity:
@@ -13,6 +14,4 @@ rutile and haematite. A key source of aluminum for refineries.
 Category: Minerals
 Produced by: Extraction
 Consumed by: | image = Bauxite.png
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Bauxite][Fandom: Bauxite]]
 

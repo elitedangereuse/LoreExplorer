@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       0d1d1362-efca-4021-8435-96e777c2ebd3
+:ROAM_REFS: https://inara.cz/elite/commodity/10022/
 :END:
 #+title: Eshu Umbrellas
 #+filetags: :Commodity:rare:
@@ -15,4 +16,3 @@ question will no longer be available for sale or purchase.
 
 Sold as a rare commodity at [[id:65a8fbec-53ce-4b0b-9f60-3aaa31aaf73a][Shajn Terminal]], [[id:871445d7-f035-4ebc-bac2-d87c56147312][Eshu]].
 
-Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/10022/][Inara: Eshu Umbrellas]]

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       6f3b7fbb-bc64-4aa6-8d98-bfc0b91e6dd1
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Tactical_Data
 :END:
 #+title: Tactical Data
 #+filetags: :Commodity:
@@ -16,4 +17,3 @@ Category: Salvage
 Produced by: Salvage
 Consumed by: -
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Tactical_Data][Fandom: Tactical Data]]

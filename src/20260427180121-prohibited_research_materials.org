@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       200a998b-423d-44a8-a709-051b88a238f2
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Prohibited_Research_Materials
 :END:
 #+title: Prohibited Research Materials
 #+filetags: :Commodity:
@@ -15,4 +16,3 @@ Category: Salvage
 Produced by: Salvage
 Consumed by: -
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Prohibited_Research_Materials][Fandom: Prohibited Research Materials]]

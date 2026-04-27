@@ -1,9 +1,9 @@
 :PROPERTIES:
 :ID:       c9b0b9ba-2969-4c61-94dd-5086bd0e427f
+:ROAM_REFS: https://inara.cz/elite/commodity/10059/
 :END:
 #+title: Void Extract Coffee
 #+filetags: :Commodity:rare:
 
 Sold as a rare commodity at [[id:96370fd2-f730-4d98-87d2-89a87aaf4767][Ehrlich Orbital]], [[id:cad4f6ee-c7e6-4f44-8a55-c663df83941e][LFT 1421]].
 
-Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10059/][Inara: Void Extract Coffee]]

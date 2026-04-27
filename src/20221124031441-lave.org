@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       ff595332-6a13-4f69-ae2f-cc0a0df8e741
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Lave
 :END:
 #+title: Lave
 #+filetags: :System:
@@ -8,8 +9,6 @@
 Lave is famous for its vast rain forests and the now extinct Lavian
 tree grub.
 #+end_quote
-
-Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Lave][Fandom: Lave]]
 
 Related: [[id:0731c3e5-59d2-45de-8d9a-e72fb3942bba][Lavian Tree Grub]].
 

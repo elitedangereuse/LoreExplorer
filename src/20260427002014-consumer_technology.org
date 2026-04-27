@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       b17cfefe-ff86-4baf-aca3-69ad61c4b884
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Consumer_Technology
 :END:
 #+title: Consumer Technology
 #+filetags: :Commodity:
@@ -14,4 +15,3 @@ Category: Consumer Items
 Produced by: High Tech, Illicit
 Consumed by: All except High Tech
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Consumer_Technology][Fandom: Consumer Technology]]

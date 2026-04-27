@@ -1,9 +1,9 @@
 :PROPERTIES:
 :ID:       4bc54a65-1728-4a5a-8582-d649c30b79b0
+:ROAM_REFS: https://inara.cz/elite/commodity/10021/
 :END:
 #+title: HIP Proto-Squid
 #+filetags: :Commodity:rare:
 
 Sold as a rare commodity at [[id:adf16b4f-60eb-4849-82ee-4e6d5401abed][Andersson Station]], [[id:cd7894ad-5bc7-4c15-b7c8-67120da11394][HIP 41181]].
 
-Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10021/][Inara: HIP Proto-Squid]]

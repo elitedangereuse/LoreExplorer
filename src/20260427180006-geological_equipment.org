@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       0e04d76f-beb3-4466-b944-dc0a2088534e
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Geological_Equipment
 :END:
 #+title: Geological Equipment
 #+filetags: :Commodity:
@@ -13,4 +14,3 @@ Category: Machinery
 Produced by: Industrial
 Consumed by: Colony (Surface), Extraction (Surface), Military (Surface) and High Tech (Surface)
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Geological_Equipment][Fandom: Geological Equipment]]

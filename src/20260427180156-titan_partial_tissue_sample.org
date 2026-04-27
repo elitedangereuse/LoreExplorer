@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       28ba1017-d6ed-4c7f-bbc9-9bd2f15acb49
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Titan_Partial_Tissue_Sample
 :END:
 #+title: Titan Partial Tissue Sample
 #+filetags: :Commodity:
@@ -12,6 +13,4 @@ Titan.
 Category: Salvage
 Produced by: -
 Consumed by: -
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Titan_Partial_Tissue_Sample][Fandom: Titan Partial Tissue Sample]]
 

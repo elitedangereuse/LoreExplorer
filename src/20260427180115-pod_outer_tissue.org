@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       2c04f3b7-2de8-4720-8459-d2651cf99b3b
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Pod_Outer_Tissue
 :END:
 #+title: Pod Outer Tissue
 #+filetags: :Commodity:
@@ -12,4 +13,3 @@ Category: Salvage
 Produced by: Gyre Pod
 Consumed by: -
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Pod_Outer_Tissue][Fandom: Pod Outer Tissue]]

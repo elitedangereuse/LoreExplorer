@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       92484797-b774-4602-b742-3d6b183d72a5
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Serendibite
 :END:
 #+title: Serendibite
 #+filetags: :Commodity:
@@ -13,6 +14,4 @@ Sri Lanka.
 Category: Minerals
 Produced by: Asteroid Core Mining
 Consumed by: Extraction, Industrial, Refinery
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Serendibite][Fandom: Serendibite]]
 

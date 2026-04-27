@@ -1,9 +1,9 @@
 :PROPERTIES:
 :ID:       36ad5100-c3ca-45bc-bc50-b6d3fd6974fd
+:ROAM_REFS: https://inara.cz/elite/commodity/10076/
 :END:
 #+title: Medb Starlube
 #+filetags: :Commodity:rare:
 
 Sold as a rare commodity at [[id:fb801e7a-8b09-4c6f-9b57-1dd360f4c023][Vela Dock]], [[id:034e3049-e26d-41c6-af83-d04206577ab2][Medb]].
 
-Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10076/][Inara: Medb Starlube]]

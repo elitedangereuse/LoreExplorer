@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       15773de1-471d-4b58-a808-fb254eedecb8
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Goslarite
 :END:
 #+title: Goslarite
 #+filetags: :Commodity:
@@ -12,6 +13,4 @@ treatments.
 Category: Mineral
 Produced by: Extraction (Surface)
 Consumed by: Refinery
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Goslarite][Fandom: Goslarite]]
 

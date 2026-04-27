@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       eddbd97b-5374-4220-b6c0-26731c953c00
+:ROAM_REFS: https://inara.cz/elite/commodity/10037/
 :END:
 #+title: Wuthielo Ku Froth
 #+filetags: :Commodity:rare:
@@ -16,4 +17,3 @@ in question will no longer be available for sale or purchase.
 
 Sold as a rare commodity at [[id:dedb246b-3806-4ddd-9409-7901c50bbdbd][Tarter Dock]], [[id:38b0f5eb-a2c2-40a8-9aa5-f324a9ec54ed][Wuthielo Ku]].
 
-Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/10037/][Inara: Wuthielo Ku Froth]]

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       911ada6c-6de2-4ab9-a9aa-d09426d1f9e2
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Thargoid_Probe
 :END:
 #+title: Thargoid Probe
 #+filetags: :Commodity:
@@ -13,4 +14,3 @@ Category: Salvage
 Produced by: |consumer =
 Consumed by: -
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Thargoid_Probe][Fandom: Thargoid Probe]]

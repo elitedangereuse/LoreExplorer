@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       420de9d4-776e-4835-a388-43792ddc5dd4
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Quator
 :END:
 #+title: Quator
 #+filetags: :System:
@@ -13,4 +14,3 @@ remains a haven for pirates. 'Hoopy's Bar' on Quator Station should
 not be confused with the popular casino chain of the 3200s.
 #+end_quote
 
-Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Quator][Fandom: Quator]]

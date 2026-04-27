@@ -1,9 +1,9 @@
 :PROPERTIES:
 :ID:       9b17bda0-7c84-4087-a018-c3a5b1d64597
+:ROAM_REFS: https://inara.cz/elite/commodity/10077/
 :END:
 #+title: Neritus Berries
 #+filetags: :Commodity:rare:
 
 Sold as a rare commodity at [[id:bd6c4156-c0ce-4c3f-b82d-7bd535dbe04e][Toll Ring]], [[id:68736792-692e-4f52-bd89-6f8837377c55][Neritus]].
 
-Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10077/][Inara: Neritus Berries]]

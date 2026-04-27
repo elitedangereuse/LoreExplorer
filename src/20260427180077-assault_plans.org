@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       bc764046-c4c7-4c84-8a49-61fd78526bfd
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Assault_Plans
 :END:
 #+title: Assault Plans
 #+filetags: :Commodity:
@@ -15,4 +16,3 @@ Category: Salvage
 Produced by: Salvage
 Consumed by: -
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Assault_Plans][Fandom: Assault Plans]]

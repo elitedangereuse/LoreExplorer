@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       922f8c62-3d78-47aa-9b41-b73f65e00c3f
+:ROAM_REFS: https://inara.cz/elite/commodity/150/
 :END:
 #+title: HN Shock Mount
 #+filetags: :Commodity:
@@ -13,4 +14,3 @@ Category: Machinery
 Produced by: Industrial
 Consumed by: High Tech, Military
 
-Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/150/][Inara: HN Shock Mount]]

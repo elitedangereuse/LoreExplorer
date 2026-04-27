@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       324af547-0452-4715-9e0c-96f8222e1f2c
+:ROAM_REFS: https://inara.cz/elite/commodity/10083/
 :END:
 #+title: Geawen Dance Dust
 #+filetags: :Commodity:rare:
@@ -19,4 +20,3 @@ prohibiting faction's tenure.
 
 Sold as a rare commodity at [[id:1af2aca1-c6fe-4539-871c-b66edcafd2af][Obruchev Legacy]], [[id:f8a6996d-921e-430a-84d0-9c819ff4c5ff][Geawen]].
 
-Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/10083/][Inara: Geawen Dance Dust]]

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       f201d1c5-69d1-4cb6-b6e7-a4c62545cfd3
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Heatsink_Interlink
 :END:
 #+title: Heatsink Interlink
 #+filetags: :Commodity:
@@ -15,4 +16,3 @@ Category: Machinery
 Produced by: Industrial/Refinery near Myrbat
 Consumed by: High Tech
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Heatsink_Interlink][Fandom: Heatsink Interlink]]

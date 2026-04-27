@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       a3ac27cf-540d-49a1-a1e9-117c6c05198f
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Agri-Medicines
 :END:
 #+title: Agri-Medicines
 #+filetags: :Commodity:
@@ -13,6 +14,4 @@ produced on High Tech worlds and consumed in Agricultural worlds.
 Category: Medicines
 Produced by: High Tech
 Consumed by: Agricultural
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Agri-Medicines][Fandom: Agri-Medicines]]
 

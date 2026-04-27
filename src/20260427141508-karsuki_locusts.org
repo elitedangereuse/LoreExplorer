@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       2f3b4c97-2fe4-473a-8873-ec2ecababbe7
+:ROAM_REFS: https://inara.cz/elite/commodity/10093/
 :END:
 #+title: Karsuki Locusts
 #+filetags: :Commodity:rare:
@@ -15,4 +16,3 @@ sale or purchase.
 
 Sold as a rare commodity at [[id:95f6a47b-1448-412e-8cd1-e1126b1d68e1][West Market]], [[id:64fab6f7-893e-436c-80f4-b42cde130147][Karsuki Ti]].
 
-Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/10093/][Inara: Karsuki Locusts]]

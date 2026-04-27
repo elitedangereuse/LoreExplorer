@@ -1,11 +1,10 @@
 :PROPERTIES:
 :ID:       5efc49f5-465f-4dd8-afaa-b6bb3595a58c
+:ROAM_REFS: https://inara.cz/elite/commodity/10006/
 :END:
 #+title: Lavian Brandy
 #+filetags: :Commodity:rare:
 
 Sold as a rare commodity at [[id:10b9df10-b4c7-449a-9c50-4ad011256417][Lave Station]], [[id:ff595332-6a13-4f69-ae2f-cc0a0df8e741][Lave]].
-
-Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10006/][Inara: Lavian Brandy]]
 
 [[file:img/commodities/lavian_brandy.jpg]]

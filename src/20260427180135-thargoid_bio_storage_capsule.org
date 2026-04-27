@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       106e5bb4-bdff-4410-b683-6fb0d38b616d
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Thargoid_Bio-Storage_Capsule
 :END:
 #+title: Thargoid Bio-storage Capsule
 #+filetags: :Commodity:
@@ -14,4 +15,3 @@ Category: Salvage
 Produced by: Salvage
 Consumed by: |image=Thargoid Bio-Storage Capsule Front 1.jpg}}{{Quote|A pod-like object extracted from a Thargoid ship. The item houses a human bio-signature which appears to be sustained via an artificial life support system.|In-Game Description}}
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Thargoid_Bio-Storage_Capsule][Fandom: Thargoid Bio-Storage Capsule]]

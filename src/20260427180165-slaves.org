@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       e618114f-4caa-471f-9e6d-ba74c7d3c34f
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Slaves
 :END:
 #+title: Slaves
 #+filetags: :Commodity:
@@ -14,4 +15,3 @@ Category: Slavery
 Produced by: Industrial, Anarchy
 Consumed by: -
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Slaves][Fandom: Slaves]]

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       2aba5258-ea59-4dd9-ab2d-c472303f74a2
+:ROAM_REFS: https://inara.cz/elite/commodity/10064/
 :END:
 #+title: Kamorin Historic Weapons
 #+filetags: :Commodity:rare:
@@ -22,4 +23,3 @@ longer be available for sale or purchase.
 
 Sold as a rare commodity at [[id:84533c66-4ffc-452d-913b-f76dcb54b4cd][Godwin Vision]], [[id:e342b5c4-181b-407d-8169-e953193f325a][Kamorin]].
 
-Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/10064/][Inara: Kamorin Historic Weapons]]

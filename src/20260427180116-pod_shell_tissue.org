@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       734d7ccc-b18e-4e66-9679-14748d6ba620
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Pod_Shell_Tissue
 :END:
 #+title: Pod Shell Tissue
 #+filetags: :Commodity:
@@ -12,4 +13,3 @@ Category: Salvage
 Produced by: Gyre Pod
 Consumed by: -
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Pod_Shell_Tissue][Fandom: Pod Shell Tissue]]

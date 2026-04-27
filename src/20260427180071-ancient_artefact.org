@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       3251c737-0eb2-4de2-baa8-9f1e5760641b
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Ancient_Artefact
 :END:
 #+title: Ancient Artefact
 #+filetags: :Commodity:
@@ -14,6 +15,4 @@ means to find reliable buyers for any ancient treasures.
 Category: Salvage
 Produced by: -
 Consumed by: -
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Ancient_Artefact][Fandom: Ancient Artefact]]
 

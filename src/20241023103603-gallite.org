@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       19346f59-fa1a-4ba2-8373-5b4d90f26662
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Gallite
 :END:
 #+title: Gallite
 #+filetags: :Commodity:
@@ -13,4 +14,3 @@ Category: Minerals
 Produced by: Extraction
 Consumed by: High Tech Refinery
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Gallite][Fandom: Gallite]]

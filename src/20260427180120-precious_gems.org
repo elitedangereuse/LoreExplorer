@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       ddc45fc1-2efc-4cc7-a4d6-f70b54389988
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Precious_Gems
 :END:
 #+title: Precious Gems
 #+filetags: :Commodity:
@@ -15,4 +16,3 @@ Category: Salvage
 Produced by: Salvage
 Consumed by: -
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Precious_Gems][Fandom: Precious Gems]]

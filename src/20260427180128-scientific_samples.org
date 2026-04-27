@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       83845d3c-8866-4330-bdfe-f03f64fb5938
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Scientific_Samples
 :END:
 #+title: Scientific Samples
 #+filetags: :Commodity:
@@ -15,4 +16,3 @@ Category: Salvage
 Produced by: Salvage
 Consumed by: -
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Scientific_Samples][Fandom: Scientific Samples]]

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       14ce0a9c-7f6a-4299-8336-55e1f8b1b8bf
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Nerve_Agents
 :END:
 #+title: Nerve Agents
 #+filetags: :Commodity:
@@ -13,4 +14,3 @@ Category: Chemicals
 Produced by: Refinery (Surface)
 Consumed by: High Tech (Surface) and Military
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Nerve_Agents][Fandom: Nerve Agents]]

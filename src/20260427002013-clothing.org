@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       bacffb34-19fb-4e2b-bedd-32736a9095bc
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Clothing
 :END:
 #+title: Clothing
 #+filetags: :Commodity:
@@ -13,4 +14,3 @@ Category: Consumer Items
 Produced by: Industrial
 Consumed by: All
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Clothing][Fandom: Clothing]]

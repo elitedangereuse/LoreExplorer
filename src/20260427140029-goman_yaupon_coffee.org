@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       53bfde4b-c822-429e-9884-a82c69f124de
+:ROAM_REFS: https://inara.cz/elite/commodity/10031/
 :END:
 #+title: Goman Yaupon Coffee
 #+filetags: :Commodity:rare:
@@ -15,4 +16,3 @@ longer be available for sale or purchase.
 
 Sold as a rare commodity at [[id:3345b051-eefd-416f-a43d-e50456000bfe][Gustav Sporer Port]], [[id:5a87c905-ce2c-492e-8d5d-ce7e1de7f47a][Goman]].
 
-Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/10031/][Inara: Goman Yaupon Coffee]]

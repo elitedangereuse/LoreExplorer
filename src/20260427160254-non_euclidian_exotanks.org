@@ -1,9 +1,9 @@
 :PROPERTIES:
 :ID:       9b2a68a1-2e2b-4afd-b42b-c6a330237f78
+:ROAM_REFS: https://inara.cz/elite/commodity/10134/
 :END:
 #+title: Non Euclidian Exotanks
 #+filetags: :Commodity:rare:
 
 Sold as a rare commodity at [[id:6324190d-c585-4534-8ea9-94c74e10ae06][Euclid Terminal]], [[id:07d49413-cc32-4ebd-a434-cb4da447fbbd][LTT 8517]].
 
-Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10134/][Inara: Non Euclidian Exotanks]]

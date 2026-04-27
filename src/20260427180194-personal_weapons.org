@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       f7cecb6c-6f5a-484b-8360-fb299214131e
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Personal_Weapons
 :END:
 #+title: Personal Weapons
 #+filetags: :Commodity:
@@ -13,6 +14,4 @@ many jurisdictions.
 Category: Weapons
 Produced by: High Tech Industrial Military
 Consumed by: All
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Personal_Weapons][Fandom: Personal Weapons]]
 

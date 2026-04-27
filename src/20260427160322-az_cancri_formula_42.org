@@ -1,9 +1,9 @@
 :PROPERTIES:
 :ID:       45af567f-b012-4bff-bdc6-2678d7123be0
+:ROAM_REFS: https://inara.cz/elite/commodity/10099/
 :END:
 #+title: AZ Cancri Formula 42
 #+filetags: :Commodity:rare:
 
 Sold as a rare commodity at [[id:2bb6da84-7706-4ba8-b592-9fc55417a842][Fisher Station]], [[id:eff0be28-0f0a-448f-850a-98dcfe9522c1][AZ Cancri]].
 
-Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10099/][Inara: AZ Cancri Formula 42]]

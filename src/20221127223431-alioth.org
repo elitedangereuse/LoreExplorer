@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       5c4e0227-24c0-4696-b2e1-5ba9fe0308f5
 :ROAM_ALIASES: "Epsilon Ursae Majoris"
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Alioth
 :END:
 #+title: Alioth
 #+filetags: :Empire:Federation:Alliance:beacon:Reputation:Permit:System:
@@ -14,8 +15,6 @@ forces by Alioth's indigenous population led to the creation of the
 Alliance in 3230. The permit for this system can be obtained from
 the Alioth Independents.
 #+end_quote
-
-Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Alioth][Fandom: Alioth]]
 
 Related: [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][The Alliance]].
 

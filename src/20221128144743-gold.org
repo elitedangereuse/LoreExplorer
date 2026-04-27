@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       5f6084d4-822d-4a6e-8127-230eb07163e2
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Gold
 :END:
 #+title: Gold
 #+filetags: :Commodity:
@@ -15,4 +16,3 @@ Category: Metals
 Produced by: Extraction Refinery
 Consumed by: Any except Agricultural, Refinery, Extraction, Military
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Gold][Fandom: Gold]]

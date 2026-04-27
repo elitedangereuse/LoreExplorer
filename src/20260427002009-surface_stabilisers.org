@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       8b752c8f-5d1b-4b48-b52a-7f3f665d167d
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Surface_Stabilisers
 :END:
 #+title: Surface Stabilisers
 #+filetags: :Commodity:
@@ -13,4 +14,3 @@ Category: Chemicals
 Produced by: Refinery
 Consumed by: High Tech and Military
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Surface_Stabilisers][Fandom: Surface Stabilisers]]

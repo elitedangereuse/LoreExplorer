@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       3ef4f33f-9df9-4adf-85db-296472ed1c22
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Guardian_Totem
 :END:
 #+title: Guardian Totem
 #+filetags: :Commodity:
@@ -13,4 +14,3 @@ Category: Salvage
 Produced by: | consumer =
 Consumed by: -
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Guardian_Totem][Fandom: Guardian Totem]]

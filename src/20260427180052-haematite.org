@@ -1,9 +1,9 @@
 :PROPERTIES:
 :ID:       a60837b0-4e09-4bc4-9615-7be37b70ecdc
+:ROAM_REFS: https://inara.cz/elite/commodity/10486/
 :END:
 #+title: Haematite
 #+filetags: :Commodity:
 
 Category: Minerals
 
-Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10486/][Inara: Haematite]]

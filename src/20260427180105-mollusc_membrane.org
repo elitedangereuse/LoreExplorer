@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       0baefc55-34da-4848-bbf1-09cd01cad334
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Mollusc_Membrane
 :END:
 #+title: Mollusc Membrane
 #+filetags: :Commodity:
@@ -12,4 +13,3 @@ Category: Salvage
 Produced by: Parasol Mollusc Reel Mollusc Umbrella Mollusc
 Consumed by: -
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Mollusc_Membrane][Fandom: Mollusc Membrane]]

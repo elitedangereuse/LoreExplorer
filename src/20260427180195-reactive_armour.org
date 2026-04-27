@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       85a9f73a-636f-459f-8a46-d93b1a3dca16
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Reactive_Armour
 :END:
 #+title: Reactive Armour
 #+filetags: :Commodity:
@@ -13,6 +14,4 @@ survival of the wearer from sustained weapons fire.
 Category: Weapons
 Produced by: High Tech Military
 Consumed by: All
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Reactive_Armour][Fandom: Reactive Armour]]
 

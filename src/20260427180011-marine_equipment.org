@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       1e77599c-d782-41de-9fe4-2862bad245a6
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Marine_Equipment
 :END:
 #+title: Marine Equipment
 #+filetags: :Commodity:
@@ -14,4 +15,3 @@ Category: Machinery
 Produced by: Industrial
 Consumed by: Agricultural
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Marine_Equipment][Fandom: Marine Equipment]]

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       88121611-4521-4e11-a4ad-bff243268e7f
+:ROAM_REFS: https://inara.cz/elite/commodity/10100/
 :END:
 #+title: Albino Quechua Mammoth Meat
 #+filetags: :Commodity:rare:
@@ -7,4 +8,3 @@
 
 Sold as a rare commodity at [[id:8c1760f7-afb6-4cd5-b14c-353b58ccf7ba][Crown Ring]], [[id:276b6dc0-6554-4a86-828a-255ef3b8c7b1][Quechua]].
 
-Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10100/][Inara: Albino Quechua Mammoth Meat]]

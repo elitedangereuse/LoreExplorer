@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       f01fefb4-2fdf-4a42-ba20-7e551b83ac7f
+:ROAM_REFS: https://inara.cz/elite/commodity/10101/
 :END:
 #+title: Holva Duelling Blades
 #+filetags: :Commodity:rare:
@@ -19,4 +20,3 @@ purchase.
 
 Sold as a rare commodity at [[id:e0f179b4-48ca-4e2c-901c-e70307e05d20][Kreutz Orbital]], [[id:403703df-4fa7-43b8-9161-98e710a40c1a][Holva]].
 
-Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/10101/][Inara: Holva Duelling Blades]]

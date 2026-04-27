@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       05bca58c-1919-4f0b-81ed-a904f2827c55
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Encrypted_Correspondence
 :END:
 #+title: Encrypted Correspondence
 #+filetags: :Commodity:
@@ -15,4 +16,3 @@ Category: Salvage
 Produced by: Salvage
 Consumed by: -
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Encrypted_Correspondence][Fandom: Encrypted Correspondence]]

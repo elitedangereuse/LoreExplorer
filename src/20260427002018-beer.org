@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       16605f5b-79a7-46d2-9a5c-b53826fc1b5f
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Beer
 :END:
 #+title: Beer
 #+filetags: :Commodity:
@@ -14,4 +15,3 @@ Category: Legal Drugs
 Produced by: Agricultural
 Consumed by: All
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Beer][Fandom: Beer]]

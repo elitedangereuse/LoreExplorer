@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       ddf15bc1-5557-420a-a7f5-4b87154fe1fd
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Wreckage_Components
 :END:
 #+title: Wreckage Components
 #+filetags: :Commodity:
@@ -15,6 +16,4 @@ momentos or simply as scrap.
 Category: Salvage
 Produced by: -
 Consumed by: -
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Wreckage_Components][Fandom: Wreckage Components]]
 

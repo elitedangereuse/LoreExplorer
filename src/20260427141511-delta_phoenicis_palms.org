@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       160c1b69-593a-48e1-a464-08addd9ab01c
+:ROAM_REFS: https://inara.cz/elite/commodity/10001/
 :END:
 #+title: Delta Phoenicis Palms
 #+filetags: :Commodity:rare:
@@ -16,7 +17,5 @@ goods in question will no longer be available for sale or purchase.
 #+end_quote
 
 Sold as a rare commodity at [[id:2cb2cbb2-b443-4f91-94dc-779c4d5dd1b0][Trading Post]], [[id:3ce92806-7e34-49f1-9dd0-a0ab2eb7277c][Delta Phoenicis]].
-
-Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/10001/][Inara: Delta Phoenicis Palms]]
 
 [[file:img/commodities/delta_phoenicis_palms.jpg]]

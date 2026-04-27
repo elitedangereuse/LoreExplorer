@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       f7f2b210-492a-441d-95ab-d5af4ea71edc
+:ROAM_REFS: https://inara.cz/elite/commodity/10032/
 :END:
 #+title: Kongga Ale
 #+filetags: :Commodity:rare:
@@ -17,4 +18,3 @@ and Federal Theocracy systems.
 
 Sold as a rare commodity at [[id:64e61a3f-ef02-4774-adab-741b526505d0][Laplace Ring]], [[id:73823700-53f1-4ae2-bfd4-334f2dee64a9][Kongga]].
 
-Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/10032/][Inara: Kongga Ale]]

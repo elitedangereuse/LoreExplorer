@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       64a386cb-57c6-424e-9e2f-487ecef5bb3f
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Biowaste
 :END:
 #+title: Biowaste
 #+filetags: :Commodity:
@@ -12,6 +13,4 @@ agricultural worlds.
 Category: Waste
 Produced by: All except Agricultural
 Consumed by: Agricultural
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Biowaste][Fandom: Biowaste]]
 

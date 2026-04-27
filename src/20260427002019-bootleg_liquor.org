@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       f821d960-95e1-4fe8-bd9f-932fde2959ab
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Bootleg_Liquor
 :END:
 #+title: Bootleg Liquor
 #+filetags: :Commodity:
@@ -14,4 +15,3 @@ Category: Legal drug
 Produced by: Industrial (Surface), Refinery (Surface)
 Consumed by: Extraction (Surface), High Tech (Surface), Refinery (Surface)
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Bootleg_Liquor][Fandom: Bootleg Liquor]]

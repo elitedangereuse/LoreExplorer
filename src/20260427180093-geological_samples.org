@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       90a84982-b63c-46fc-b5ee-a308113b0a0a
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Geological_Samples
 :END:
 #+title: Geological Samples
 #+filetags: :Commodity:
@@ -12,4 +13,3 @@ Category: Salvage
 Produced by: Salvage
 Consumed by: -
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Geological_Samples][Fandom: Geological Samples]]

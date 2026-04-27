@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       6a60bf5b-5e59-4abd-9544-d840db4cbf97
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Small_Survey_Data_Cache
 :END:
 #+title: Small Survey Data Cache
 #+filetags: :Commodity:
@@ -14,4 +15,3 @@ Category: Salvage
 Produced by: Salvage
 Consumed by: -
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Small_Survey_Data_Cache][Fandom: Small Survey Data Cache]]

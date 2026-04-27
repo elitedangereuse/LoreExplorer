@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       2ce50835-6eff-4466-baa5-0ac8538f3f47
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Natural_Fabrics
 :END:
 #+title: Natural Fabrics
 #+filetags: :Commodity:
@@ -13,6 +14,4 @@ locations to make clothing and other items.
 Category: Textiles
 Produced by: Agricultural
 Consumed by: Industrial
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Natural_Fabrics][Fandom: Natural Fabrics]]
 

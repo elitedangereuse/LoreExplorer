@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       3fa5922c-0f66-49cc-8860-9a6806aa9d0a
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Land_Enrichment_Systems
 :END:
 #+title: Land Enrichment Systems
 #+filetags: :Commodity:
@@ -13,6 +14,4 @@ enriching agricultural land.
 Category: Technology
 Produced by: High Tech
 Consumed by: Terraforming Agricultural
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Land_Enrichment_Systems][Fandom: Land Enrichment Systems]]
 

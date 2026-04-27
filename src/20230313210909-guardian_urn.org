@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       c7403be5-a1dc-434b-86bf-d1498c04323f
 :ROAM_ALIASES: Urne
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Guardian_Urn
 :END:
 #+title: Guardian Urn
 #+filetags: :Commodity:
@@ -14,4 +15,3 @@ Category: Salvage
 Produced by: | consumer =
 Consumed by: -
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Guardian_Urn][Fandom: Guardian Urn]]

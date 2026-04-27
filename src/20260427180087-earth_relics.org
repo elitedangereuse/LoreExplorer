@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       de96e6c4-f83f-409f-97a1-0a23e453b637
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Earth_Relics
 :END:
 #+title: Earth Relics
 #+filetags: :Commodity:
@@ -14,4 +15,3 @@ Category: Salvage
 Produced by: Salvage
 Consumed by: -
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Earth_Relics][Fandom: Earth Relics]]

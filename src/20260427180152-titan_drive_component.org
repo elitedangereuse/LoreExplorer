@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       7c5a257f-90cf-4e6c-9e31-fe388a8b0e09
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Titan_Drive_Component
 :END:
 #+title: Titan Drive Component
 #+filetags: :Commodity:
@@ -12,6 +13,4 @@ wreckage of a Titan.
 Category: Salvage
 Produced by: -
 Consumed by: -
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Titan_Drive_Component][Fandom: Titan Drive Component]]
 

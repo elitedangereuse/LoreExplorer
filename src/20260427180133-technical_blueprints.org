@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       3d9ead20-b449-4d82-9cef-8306f0f469a8
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Technical_Blueprints
 :END:
 #+title: Technical Blueprints
 #+filetags: :Commodity:
@@ -14,6 +15,4 @@ face extreme application of the law.
 Category: Salvage
 Produced by: -
 Consumed by: -
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Technical_Blueprints][Fandom: Technical Blueprints]]
 

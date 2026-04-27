@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       ed84ef89-ae8d-4c04-885c-25d28a55dbf4
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Agronomic_Treatment
 :END:
 #+title: Agronomic Treatment
 #+filetags: :Commodity:
@@ -13,4 +14,3 @@ Category: Chemicals
 Produced by: High Tech, Refinery
 Consumed by: Stations with Blight
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Agronomic_Treatment][Fandom: Agronomic Treatment]]

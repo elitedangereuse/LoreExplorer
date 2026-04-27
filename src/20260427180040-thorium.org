@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       a9dbcf07-7916-4e60-b8d8-b00d48e1fedf
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Thorium
 :END:
 #+title: Thorium
 #+filetags: :Commodity:
@@ -14,6 +15,4 @@ ceramics.
 Category: Metal
 Produced by: Refinery (Surface), Mining
 Consumed by: High Tech
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Thorium][Fandom: Thorium]]
 

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       e164945a-cf1d-44d3-8d42-19bbde87cd56
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Bioreducing_Lichen
 :END:
 #+title: Bioreducing Lichen
 #+filetags: :Commodity:
@@ -14,6 +15,4 @@ changing colour in the process, allowing for efficient extraction.
 Category: Technology
 Produced by: High Tech
 Consumed by: Extraction
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Bioreducing_Lichen][Fandom: Bioreducing Lichen]]
 

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       ffc7d5d8-0dcc-4d62-bc0a-71f32e579086
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Titan_Deep_Tissue_Sample
 :END:
 #+title: Titan Deep Tissue Sample
 #+filetags: :Commodity:
@@ -13,6 +14,4 @@ limpets.
 Category: Salvage
 Produced by: -
 Consumed by: -
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Titan_Deep_Tissue_Sample][Fandom: Titan Deep Tissue Sample]]
 

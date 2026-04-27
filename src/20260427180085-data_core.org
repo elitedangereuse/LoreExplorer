@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       4a7f2efa-839e-4693-bd28-e61782339068
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Data_Core
 :END:
 #+title: Data Core
 #+filetags: :Commodity:
@@ -12,4 +13,3 @@ Category: Salvage
 Produced by: Salvage
 Consumed by: -
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Data_Core][Fandom: Data Core]]

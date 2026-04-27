@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       03c7bc7d-055d-42e3-a8a0-446ee2ecebdb
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Combat_Stabilisers
 :END:
 #+title: Combat Stabilisers
 #+filetags: :Commodity:
@@ -14,6 +15,4 @@ glorification of combat, and so are illegal.
 Category: Medicines
 Produced by: High Tech
 Consumed by: All except High Tech
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Combat_Stabilisers][Fandom: Combat Stabilisers]]
 

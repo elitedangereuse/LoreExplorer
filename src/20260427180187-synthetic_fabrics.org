@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       f09a0ecd-fc51-40df-ac46-ec179b74ac4e
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Synthetic_Fabrics
 :END:
 #+title: Synthetic Fabrics
 #+filetags: :Commodity:
@@ -12,6 +13,4 @@ for clothing and lightweight construction materials.
 Category: Textiles
 Produced by: Refinery
 Consumed by: Industrial
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Synthetic_Fabrics][Fandom: Synthetic Fabrics]]
 

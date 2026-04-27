@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       af91a313-e5f2-48e0-91d2-4f57884498e4
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Bone_Fragments
 :END:
 #+title: Bone Fragments
 #+filetags: :Commodity:
@@ -12,6 +13,4 @@ debris.
 Category: Salvage
 Produced by: -
 Consumed by: -
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Bone_Fragments][Fandom: Bone Fragments]]
 

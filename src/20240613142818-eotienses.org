@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       9fa174ce-7273-40ba-a0e6-1225bcda40b6
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Eotienses
 :END:
 #+title: Eotienses
 #+filetags: :System:
@@ -8,4 +9,3 @@
 Senator Denton Patreus has his home in this system.
 #+end_quote
 
-Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Eotienses][Fandom: Eotienses]]

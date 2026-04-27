@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       55ec1865-26aa-4631-aaeb-ffa584d5bf9c
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Pod_Core_Tissue
 :END:
 #+title: Pod Core Tissue
 #+filetags: :Commodity:
@@ -12,4 +13,3 @@ Category: Salvage
 Produced by: Aster Pod Chalice Pod Collared Pod Octahedral Pod Peduncle Pod Quadripartite Pod Rhizome Pod
 Consumed by: -
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Pod_Core_Tissue][Fandom: Pod Core Tissue]]

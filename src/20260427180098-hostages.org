@@ -1,9 +1,9 @@
 :PROPERTIES:
 :ID:       670f387c-87c5-49ee-85bd-f98e40c4dc40
+:ROAM_REFS: https://inara.cz/elite/commodity/175/
 :END:
 #+title: Hostages
 #+filetags: :Commodity:
 
 Category: Salvage
 
-Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/175/][Inara: Hostages]]

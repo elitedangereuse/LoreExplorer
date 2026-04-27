@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       3c736414-cce2-4b5f-9ddd-8135663eec28
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Titan_Tissue_Sample
 :END:
 #+title: Titan Tissue Sample
 #+filetags: :Commodity:
@@ -12,6 +13,4 @@ Titan, with an adequate quantity of material for study.
 Category: Salvage
 Produced by: -
 Consumed by: -
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Titan_Tissue_Sample][Fandom: Titan Tissue Sample]]
 

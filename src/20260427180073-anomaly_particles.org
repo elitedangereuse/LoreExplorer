@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       913625f4-ebea-4c80-a2cf-ff3f596189f5
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Anomaly_Particles
 :END:
 #+title: Anomaly Particles
 #+filetags: :Commodity:
@@ -12,4 +13,3 @@ Category: Salvage
 Produced by: | consumer =
 Consumed by: -
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Anomaly_Particles][Fandom: Anomaly Particles]]

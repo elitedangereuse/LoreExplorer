@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       33adaaf7-4206-4047-bbd9-81be1fc169c0
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Animal_Meat
 :END:
 #+title: Animal Meat
 #+filetags: :Commodity:
@@ -14,4 +15,3 @@ Category: Foods
 Produced by: Agricultural
 Consumed by: All except Agricultural
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Animal_Meat][Fandom: Animal Meat]]

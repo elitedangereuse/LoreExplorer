@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       c6b67ab9-66c5-4636-a978-2ca3a9ab012c
 :ROAM_ALIASES: "Founders' World"
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Shinrarta_Dezhra
 :END:
 #+title: Shinrarta Dezhra
 #+filetags: :Rank:System:Permit:
@@ -13,8 +14,6 @@ invitation, but other, more secretive methods are also known to
 exist.The system is governed by the Elite Pilots' Federation,
 members of which are allowed to retire here.
 #+end_quote
-
-Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Shinrarta_Dezhra][Fandom: Shinrarta Dezhra]]
 
 Related: [[id:131aabdf-0ed8-4ce2-beec-94c77a8c41d2][Pilots' Federation]], [[id:088cf15e-3c00-4522-8c15-aa4c8b30ea8c][Elite Rank]].
 

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       e87b8a83-ecc1-4d17-917a-964e6196526b
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Micro_Controllers
 :END:
 #+title: Micro Controllers
 #+filetags: :Commodity:
@@ -12,6 +13,4 @@ control for lightweight devices.
 Category: Technology
 Produced by: High Tech
 Consumed by: Industrial and Military
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Micro_Controllers][Fandom: Micro Controllers]]
 

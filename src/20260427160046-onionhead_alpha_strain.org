@@ -1,9 +1,9 @@
 :PROPERTIES:
 :ID:       3dd640c8-370d-4644-984b-fc77dc582eab
+:ROAM_REFS: https://inara.cz/elite/commodity/10216/
 :END:
 #+title: Onionhead Alpha Strain
 #+filetags: :Commodity:rare:
 
 Sold as a rare commodity at [[id:0492e118-33f4-4ebb-8e11-4c0aa04a1e1c][Navigator Market]], [[id:8ef8f119-116b-4f07-924f-b51838b0d3b1][Xelabara]].
 
-Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10216/][Inara: Onionhead Alpha Strain]]

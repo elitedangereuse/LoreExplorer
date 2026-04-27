@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       1f06f768-18a2-4003-92db-9bbc8f51ebb6
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Liquid_Oxygen
 :END:
 #+title: Liquid oxygen
 #+filetags: :Commodity:
@@ -13,4 +14,3 @@ Category: Chemicals
 Produced by: Refinery
 Consumed by: Industrial
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Liquid_Oxygen][Fandom: Liquid Oxygen]]

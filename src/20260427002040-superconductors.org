@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       94637eec-3dd2-478f-9f38-8930b96a15fe
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Superconductors
 :END:
 #+title: Superconductors
 #+filetags: :Commodity:
@@ -14,4 +15,3 @@ Category: Industrial Materials
 Produced by: Refinery
 Consumed by: Terraforming High Tech Industrial
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Superconductors][Fandom: Superconductors]]

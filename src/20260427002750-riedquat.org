@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       633a799b-8c05-4136-8f94-cf169eab515f
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Riedquat
 :END:
 #+title: Riedquat
 #+filetags: :System:
@@ -9,4 +10,3 @@ This system is most notable for its fabulous cuisine, but is beset
 by occasional civil war.
 #+end_quote
 
-Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Riedquat][Fandom: Riedquat]]

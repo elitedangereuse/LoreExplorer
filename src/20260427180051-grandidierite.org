@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       89fd72fb-6b6f-4a55-a1fc-f394b20bffc0
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Grandidierite
 :END:
 #+title: Grandidierite
 #+filetags: :Commodity:
@@ -14,4 +15,3 @@ Category: Minerals
 Produced by: Asteroid Core Mining
 Consumed by: -
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Grandidierite][Fandom: Grandidierite]]

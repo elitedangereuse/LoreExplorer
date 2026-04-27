@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       468b5215-2cb5-416e-b375-eb9e948b18c1
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Uranium
 :END:
 #+title: Uranium
 #+filetags: :Commodity:
@@ -18,6 +19,4 @@ radiation.
 Category: Metals
 Produced by: Refinery
 Consumed by: High Tech Industrial
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Uranium][Fandom: Uranium]]
 

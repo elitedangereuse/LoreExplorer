@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       5b1432f1-d68e-43ff-8ba4-b7937e43d957
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Magnetic_Emitter_Coil
 :END:
 #+title: Magnetic Emitter Coil
 #+filetags: :Commodity:
@@ -15,4 +16,3 @@ Category: Machinery
 Produced by: Industrial/Refinery near Leesti
 Consumed by: High Tech
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Magnetic_Emitter_Coil][Fandom: Magnetic Emitter Coil]]

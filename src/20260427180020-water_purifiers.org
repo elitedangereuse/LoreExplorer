@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       2f1be518-d6d9-4e2e-84ce-ea7e5d86e099
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Water_Purifiers
 :END:
 #+title: Water Purifiers
 #+filetags: :Commodity:
@@ -14,6 +15,4 @@ purified water to maintain the correct mood of inhabitants.
 Category: Machinery
 Produced by: Industrial
 Consumed by: All except Industrial
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Water_Purifiers][Fandom: Water Purifiers]]
 

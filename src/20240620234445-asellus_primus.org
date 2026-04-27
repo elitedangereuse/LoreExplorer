@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       b21e7cf9-145c-4546-8305-8dc866024f3c
 :ROAM_ALIASES: "23 Theta Bootis"
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Asellus_Primus
 :END:
 #+title: Asellus Primus
 #+filetags: :System:
@@ -14,7 +15,5 @@ stripped Asellus Primus B of any planets that might have formed with
 it. Asellus Primus is known for its high tech manufacturing. Also
 known as 23 Theta Bootis.
 #+end_quote
-
-Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Asellus_Primus][Fandom: Asellus Primus]]
 
 [[file:img/systems/asellus primus.png]]

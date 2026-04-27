@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       ed1b0caa-6197-45f6-aaa8-90b43d7d8c4c
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Mollusc_Soft_Tissue
 :END:
 #+title: Mollusc Soft Tissue
 #+filetags: :Commodity:
@@ -12,4 +13,3 @@ Category: Salvage
 Produced by: Bulb Mollusc Capsule Mollusc
 Consumed by: -
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Mollusc_Soft_Tissue][Fandom: Mollusc Soft Tissue]]

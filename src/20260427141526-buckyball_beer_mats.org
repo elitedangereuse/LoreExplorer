@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       595b92c5-13f1-47f9-8db5-3cb7ff900830
+:ROAM_REFS: https://inara.cz/elite/commodity/10147/
 :END:
 #+title: Buckyball Beer Mats
 #+filetags: :Commodity:rare:
@@ -17,4 +18,3 @@ sale or purchase.
 
 Sold as a rare commodity at [[id:4924b414-23c2-47ad-ac3e-e7b47a5a3ad6][Rebuy Prospect]], [[id:00a53feb-95fc-4c72-84dd-ba5967c46d41][Fullerene C60]].
 
-Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/10147/][Inara: Buckyball Beer Mats]]

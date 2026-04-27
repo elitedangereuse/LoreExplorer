@@ -1,9 +1,9 @@
 :PROPERTIES:
 :ID:       dc510c47-e26d-4486-9ddd-b2a4d46811fb
+:ROAM_REFS: https://inara.cz/elite/commodity/10055/
 :END:
 #+title: Fujin Tea
 #+filetags: :Commodity:rare:
 
 Sold as a rare commodity at [[id:2975f218-0a6b-4d23-bec4-435f0fcbe99e][Futen Spaceport]], [[id:935d144b-20f6-4a2e-b9b2-210639266a6e][Fujin]].
 
-Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10055/][Inara: Fujin Tea]]

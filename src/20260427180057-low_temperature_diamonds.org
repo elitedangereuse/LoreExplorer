@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       6eb9ecea-4417-470d-b76d-c8b234ebca13
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Low_Temperature_Diamonds
 :END:
 #+title: Low Temperature Diamonds
 #+filetags: :Commodity:
@@ -12,6 +13,4 @@ with regular diamonds), but without a heat component.
 Category: Mineral
 Produced by: Mining
 Consumed by: Tourism High Tech Industrial Refinery
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Low_Temperature_Diamonds][Fandom: Low Temperature Diamonds]]
 

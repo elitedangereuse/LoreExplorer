@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       80bc68f0-97dc-433b-8b43-3e312e80996c
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Mineral_Extractors
 :END:
 #+title: Mineral Extractors
 #+filetags: :Commodity:
@@ -15,4 +16,3 @@ Category: Machinery
 Produced by: Industrial
 Consumed by: Extraction
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Mineral_Extractors][Fandom: Mineral Extractors]]

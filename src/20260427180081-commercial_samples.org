@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       d0b0ba6f-abf6-459c-8c6a-fc7be3554cfc
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Commercial_Samples
 :END:
 #+title: Commercial Samples
 #+filetags: :Commodity:
@@ -13,4 +14,3 @@ Category: Salvage
 Produced by: Salvage
 Consumed by: -
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Commercial_Samples][Fandom: Commercial Samples]]

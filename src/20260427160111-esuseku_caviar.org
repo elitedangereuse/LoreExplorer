@@ -1,9 +1,9 @@
 :PROPERTIES:
 :ID:       bc91675a-d24b-48f5-ace9-8229075afa6e
+:ROAM_REFS: https://inara.cz/elite/commodity/10033/
 :END:
 #+title: Esuseku Caviar
 #+filetags: :Commodity:rare:
 
 Sold as a rare commodity at [[id:f676043e-849d-4672-b90f-e7ce21cbaf82][Savinykh Orbital]], [[id:4983f623-41ab-4914-b516-4f8752d07b53][Esuseku]].
 
-Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10033/][Inara: Esuseku Caviar]]

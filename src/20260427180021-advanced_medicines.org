@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       5af29dcf-3079-46c2-a594-d2559c830744
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Advanced_Medicines
 :END:
 #+title: Advanced Medicines
 #+filetags: :Commodity:
@@ -12,6 +13,4 @@ virulent of diseases, whilst causing minimum damage to the host.
 Category: Medicines
 Produced by: High Tech
 Consumed by: All except High Tech
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Advanced_Medicines][Fandom: Advanced Medicines]]
 

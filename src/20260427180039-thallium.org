@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       cf391eb1-f332-4044-9bc6-814ca24c52b1
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Thallium
 :END:
 #+title: Thallium
 #+filetags: :Commodity:
@@ -14,6 +15,4 @@ conductivity.
 Category: Metal
 Produced by: Refinery (Surface)
 Consumed by: High Tech
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Thallium][Fandom: Thallium]]
 

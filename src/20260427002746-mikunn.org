@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       e44531b6-547a-4669-9ced-a0f995346bed
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Mikunn
 :END:
 #+title: Mikunn
 #+filetags: :System:
@@ -14,4 +15,3 @@ sector, leveraging their portfolio of assets against local leaders
 to acquire a network of systems.
 #+end_quote
 
-Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Mikunn][Fandom: Mikunn]]

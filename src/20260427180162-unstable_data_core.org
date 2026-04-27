@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       5a49f350-4542-42f7-b44a-187518699e90
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Unstable_Data_Core
 :END:
 #+title: Unstable Data Core
 #+filetags: :Commodity:
@@ -14,4 +15,3 @@ Category: Salvage
 Produced by: Salvage
 Consumed by: -
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Unstable_Data_Core][Fandom: Unstable Data Core]]

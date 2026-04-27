@@ -1,9 +1,9 @@
 :PROPERTIES:
 :ID:       a8b071fa-4bd3-4c0a-ac07-c6269cf9f05c
+:ROAM_REFS: https://inara.cz/elite/commodity/10075/
 :END:
 #+title: Tarach Spice
 #+filetags: :Commodity:rare:
 
 Sold as a rare commodity at [[id:d1fd2105-4b60-4892-8684-f18dde0c3097][Tranquillity]], [[id:1f56101f-de1d-4b48-beb3-7531ac5f494e][Tarach Tor]].
 
-Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10075/][Inara: Tarach Spice]]

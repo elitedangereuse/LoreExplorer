@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       09bd102f-02a4-465c-ad75-b0a7cc2bb574
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Rutile
 :END:
 #+title: Rutile
 #+filetags: :Commodity:
@@ -13,6 +14,4 @@ course refined to produce titanium.
 Category: Minerals
 Produced by: Extraction
 Consumed by: High Tech Refinery
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Rutile][Fandom: Rutile]]
 

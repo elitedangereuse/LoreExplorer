@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       0ee60994-364c-41b9-98ca-993d041cea72
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Maia
 :END:
 #+title: Maia
 #+filetags: :System:
@@ -9,8 +10,6 @@ This system was first colonised with the construction of Obsidian
 Orbital in November 3301. Many strange artefacts have been
 discovered in this region of space.
 #+end_quote
-
-Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Maia][Fandom: Maia]]
 
 [[id:8e4c3a73-4f53-40ca-a19e-ec1f55aa77b3][Black hole]]
 

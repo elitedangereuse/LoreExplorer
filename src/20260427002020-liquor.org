@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       6342647d-67b3-4045-b696-ce306617e3d0
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Liquor
 :END:
 #+title: Liquor
 #+filetags: :Commodity:
@@ -14,4 +15,3 @@ Category: Legal Drugs
 Produced by: Agricultural Industrial
 Consumed by: All
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Liquor][Fandom: Liquor]]

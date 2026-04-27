@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       337cee3f-f363-4edf-9012-24e99321d11d
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Mollusc_Spores
 :END:
 #+title: Mollusc Spores
 #+filetags: :Commodity:
@@ -12,4 +13,3 @@ Category: Salvage
 Produced by: Parasol Mollusc Reel Mollusc Umbrella Mollusc
 Consumed by: -
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Mollusc_Spores][Fandom: Mollusc Spores]]

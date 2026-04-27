@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       2981e870-5c6c-4a19-a4d7-e9b39ace3ea1
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Advanced_Catalysers
 :END:
 #+title: Advanced Catalysers
 #+filetags: :Commodity:
@@ -12,6 +13,4 @@ efficiency of a large number of chemical reactions.
 Category: Technology
 Produced by: High Tech
 Consumed by: Refinery
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Advanced_Catalysers][Fandom: Advanced Catalysers]]
 

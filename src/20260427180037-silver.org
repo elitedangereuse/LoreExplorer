@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       1faa6a4e-a29b-486b-9fe2-d42bf16c4d07
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Silver
 :END:
 #+title: Silver
 #+filetags: :Commodity:
@@ -15,6 +16,4 @@ applications, either in its pure form or alloyed with other metals.
 Category: Metals
 Produced by: Extraction Refinery
 Consumed by: Any except Agricultural, Refinery, Extraction, Military
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Silver][Fandom: Silver]]
 

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       1bac9728-38d6-44a7-a0b5-37c3dc49e2af
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Tobacco
 :END:
 #+title: Tobacco
 #+filetags: :Commodity:
@@ -15,4 +16,3 @@ Category: Legal Drugs
 Produced by: Agricultural
 Consumed by: All
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Tobacco][Fandom: Tobacco]]

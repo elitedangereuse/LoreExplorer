@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Sol
 :END:
 #+title: Sol
 #+filetags: :Federation:Rank:System:Permit:
@@ -13,8 +14,6 @@ characterised by a widespread reliance on technology and the
 prevalence of monolithic corporate entities. The permit for this
 system can be obtained from the Federal military.
 #+end_quote
-
-Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Sol][Fandom: Sol]]
 
 [[file:img/permit.png]]
 

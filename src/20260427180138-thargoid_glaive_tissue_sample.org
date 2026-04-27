@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       9033bd38-ba1e-4d9e-9022-a6fb49f0fa51
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Thargoid_Glaive_Tissue_Sample
 :END:
 #+title: Thargoid Glaive Tissue Sample
 #+filetags: :Commodity:
@@ -13,6 +14,4 @@ and contains both biological and mechanical elements.
 Category: Salvage
 Produced by: -
 Consumed by: -
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Thargoid_Glaive_Tissue_Sample][Fandom: Thargoid Glaive Tissue Sample]]
 

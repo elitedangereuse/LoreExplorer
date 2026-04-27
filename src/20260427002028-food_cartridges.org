@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       a137e655-317f-4e24-8580-abed3b915119
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Food_Cartridges
 :END:
 #+title: Food Cartridges
 #+filetags: :Commodity:
@@ -17,4 +18,3 @@ Category: Foods
 Produced by: Industrial
 Consumed by: All except Agricultural and Industrial
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Food_Cartridges][Fandom: Food Cartridges]]

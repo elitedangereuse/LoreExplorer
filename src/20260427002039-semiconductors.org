@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       0def679f-6fc4-4107-bd99-51a36668a787
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Semiconductors
 :END:
 #+title: Semiconductors
 #+filetags: :Commodity:
@@ -13,4 +14,3 @@ Category: Industrial Materials
 Produced by: Refinery
 Consumed by: Terraforming Industrial
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Semiconductors][Fandom: Semiconductors]]

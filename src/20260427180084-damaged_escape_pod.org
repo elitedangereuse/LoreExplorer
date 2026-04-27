@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       16f841c1-d092-40e0-9511-e76950c6e543
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Damaged_Escape_Pod
 :END:
 #+title: Damaged Escape Pod
 #+filetags: :Commodity:
@@ -14,4 +15,3 @@ Category: Salvage
 Produced by: Salvage
 Consumed by: -
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Damaged_Escape_Pod][Fandom: Damaged Escape Pod]]

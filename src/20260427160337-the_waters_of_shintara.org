@@ -1,9 +1,9 @@
 :PROPERTIES:
 :ID:       def0c836-797b-4ced-8af8-7cf538a36f45
+:ROAM_REFS: https://inara.cz/elite/commodity/10069/
 :END:
 #+title: The Waters Of Shintara
 #+filetags: :Commodity:rare:
 
 Sold as a rare commodity at [[id:a9f110e4-41fc-4035-afb1-5848ddc457ae][Jameson Memorial]], [[id:c6b67ab9-66c5-4636-a978-2ca3a9ab012c][Shinrarta Dezhra]].
 
-Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10069/][Inara: The Waters Of Shintara]]

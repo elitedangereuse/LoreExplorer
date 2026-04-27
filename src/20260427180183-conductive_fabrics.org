@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       bb531437-bf7f-4650-81e3-2e62c78a0213
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Conductive_Fabrics
 :END:
 #+title: Conductive Fabrics
 #+filetags: :Commodity:
@@ -12,6 +13,4 @@ to build Cloth-set circuitry for wearable technology.
 Category: Textiles
 Produced by: Refinery
 Consumed by: High Tech and Industrial
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Conductive_Fabrics][Fandom: Conductive Fabrics]]
 

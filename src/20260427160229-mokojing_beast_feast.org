@@ -1,9 +1,9 @@
 :PROPERTIES:
 :ID:       edcbabee-a5e2-429d-ae77-c3d02501083e
+:ROAM_REFS: https://inara.cz/elite/commodity/10095/
 :END:
 #+title: Mokojing Beast Feast
 #+filetags: :Commodity:rare:
 
 Sold as a rare commodity at [[id:39551dc6-5caa-45be-9342-9a1074d1041f][Noli Terminal]], [[id:fe122d7a-2474-4edd-bcc4-2024f46c6277][Mokojing]].
 
-Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10095/][Inara: Mokojing Beast Feast]]

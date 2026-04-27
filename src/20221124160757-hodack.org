@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       72ccd36e-5d65-43e9-873b-80558735d911
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Hodack
 :END:
 #+title: Hodack
 #+filetags: :Reputation:System:Permit:
@@ -8,8 +9,6 @@
 A small settlement run by the Wreaken Construction and Mining
 Corporation.
 #+end_quote
-
-Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Hodack][Fandom: Hodack]]
 
 [[file:img/permit.png]]
 

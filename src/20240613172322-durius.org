@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       c0ca77c2-1994-4f1c-9f14-b839171da15a
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Durius
 :END:
 #+title: Durius
 #+filetags: :System:
@@ -9,4 +10,3 @@ Conflict between the system and the forces of Imperial senator
 Denton Patreus from December 3300 to January 3301.
 #+end_quote
 
-Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Durius][Fandom: Durius]]

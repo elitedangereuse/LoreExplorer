@@ -1,9 +1,9 @@
 :PROPERTIES:
 :ID:       8c236dba-3603-45f9-b3d0-0c283e18aaa7
+:ROAM_REFS: https://inara.cz/elite/commodity/10266/
 :END:
 #+title: Baked Greebles
 #+filetags: :Commodity:rare:
 
 Sold as a rare commodity at [[id:2c8d2e56-f99c-447a-8bd3-f34bb36b26ff][Bamford Ring]], [[id:421e1c3e-156e-490a-a048-34e3fe694c19][38 Virginis]].
 
-Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10266/][Inara: Baked Greebles]]

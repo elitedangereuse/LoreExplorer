@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       101da29b-8f10-4b74-b293-927603ef7cc0
+:ROAM_REFS: https://inara.cz/elite/commodity/10103/
 :END:
 #+title: Wulpa Hyperbore Systems
 #+filetags: :Commodity:rare:
@@ -16,4 +17,3 @@ in question will no longer be available for sale or purchase.
 
 Sold as a rare commodity at [[id:f2ac72e4-5d13-458a-a5f2-16a4a8b5530e][Williams Gateway]], [[id:5fe633c8-3bc0-4739-a60a-f9eb5d8b15ab][Wulpa]].
 
-Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/10103/][Inara: Wulpa Hyperbore Systems]]

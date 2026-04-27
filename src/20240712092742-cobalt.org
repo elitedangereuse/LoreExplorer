@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       3de49bff-8041-45b0-a713-d3646334efd9
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Cobalt
 :END:
 #+title: Cobalt
 #+filetags: :Commodity:
@@ -14,4 +15,3 @@ Category: Metals
 Produced by: Extraction Refinery
 Consumed by: High Tech Industrial
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Cobalt][Fandom: Cobalt]]

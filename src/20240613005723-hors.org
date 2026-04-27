@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       f2073346-7947-49de-9834-590324ffba84
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Hors
 :END:
 #+title: Hors
 #+filetags: :Federation:Rank:Permit:System:
@@ -8,8 +9,6 @@
 The Brightlight Training Corporation headquarters can be found in
 this small Federal service system.'Your learning is our business.'
 #+end_quote
-
-Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Hors][Fandom: Hors]]
 
 [[file:img/permit.png]]
 

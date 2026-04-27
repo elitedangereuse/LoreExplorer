@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       39dc61d6-e82b-421d-8110-cf5882f647c6
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/LP_98-132
 :END:
 #+title: LP 98-132
 #+filetags: :System:
@@ -15,4 +16,3 @@ locals, and this is the nearest thing to law that exists in the
 system.
 #+end_quote
 
-Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/LP_98-132][Fandom: LP 98-132]]

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       89bb247d-d459-4ebf-a000-698cd1d9c5fe
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Osmium
 :END:
 #+title: Osmium
 #+filetags: :Commodity:
@@ -14,4 +15,3 @@ Category: Metals
 Produced by: Mining only
 Consumed by: High Tech, Industrial, Military and Terraforming
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Osmium][Fandom: Osmium]]

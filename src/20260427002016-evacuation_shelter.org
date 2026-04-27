@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       bf715112-e4c4-4077-83b9-104ed3af3816
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Evacuation_Shelter
 :END:
 #+title: Evacuation Shelter
 #+filetags: :Commodity:
@@ -15,4 +16,3 @@ Category: Consumer Items
 Produced by: High Tech
 Consumed by: All (Surface) except High Tech
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Evacuation_Shelter][Fandom: Evacuation Shelter]]

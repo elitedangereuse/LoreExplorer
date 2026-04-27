@@ -1,9 +1,9 @@
 :PROPERTIES:
 :ID:       5edd6323-8984-4db3-92ad-646581607282
+:ROAM_REFS: https://inara.cz/elite/commodity/10102/
 :END:
 #+title: V Herculis Body Rub
 #+filetags: :Commodity:rare:
 
 Sold as a rare commodity at [[id:d7a26c60-6f3a-4b08-af63-132e087aba9f][Kaku Plant]], [[id:a36be18b-42c7-4302-a6ad-73cf185276e8][V1090 Herculis]].
 
-Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10102/][Inara: V Herculis Body Rub]]

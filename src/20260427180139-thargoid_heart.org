@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       7f79f794-2474-45a5-983a-62e252fb283b
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Thargoid_Heart
 :END:
 #+title: Thargoid Heart
 #+filetags: :Commodity:
@@ -12,6 +13,4 @@ integral to the flight and operational systems of Thargoid vessels.
 Category: Salvage
 Produced by: -
 Consumed by: -
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Thargoid_Heart][Fandom: Thargoid Heart]]
 

@@ -1,9 +1,9 @@
 :PROPERTIES:
 :ID:       fab50169-a9a4-47f2-ad9b-5b8370f53041
+:ROAM_REFS: https://inara.cz/elite/commodity/10087/
 :END:
 #+title: Sanuma Decorative Meat
 #+filetags: :Commodity:rare:
 
 Sold as a rare commodity at [[id:37409f97-18ba-412c-b245-379368fe4e71][Dunyach Gateway]], [[id:e287d9e5-f8ce-41a3-918a-42698aa7d871][Sanuma]].
 
-Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10087/][Inara: Sanuma Decorative Meat]]

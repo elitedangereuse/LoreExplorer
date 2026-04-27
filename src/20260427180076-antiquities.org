@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       726fc5fc-9642-4396-9484-2d4a7e52c470
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Antiquities
 :END:
 #+title: Antiquities
 #+filetags: :Commodity:
@@ -16,4 +17,3 @@ Category: Salvage
 Produced by: Salvage
 Consumed by: -
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Antiquities][Fandom: Antiquities]]

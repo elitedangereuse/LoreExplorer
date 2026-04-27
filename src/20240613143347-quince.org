@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       61687e51-580b-43d7-993e-0dd100f82804
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Quince
 :END:
 #+title: Quince
 #+filetags: :System:
@@ -10,4 +11,3 @@ visit. Many exotic food stuffs are grown here. The scenery is
 strikingly beautiful, though the wildlife can be a little dangerous.
 #+end_quote
 
-Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Quince][Fandom: Quince]]

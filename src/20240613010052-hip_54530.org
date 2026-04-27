@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       e1b0c446-0ced-475c-9031-a57e5e3c414f
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/HIP_54530
 :END:
 #+title: HIP 54530
 #+filetags: :Federation:Rank:Permit:System:
@@ -8,8 +9,6 @@
 This system is locked by the Pilots Federation, no permits are
 currently issued.
 #+end_quote
-
-Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/HIP_54530][Fandom: HIP 54530]]
 
 Related: [[id:131aabdf-0ed8-4ce2-beec-94c77a8c41d2][Pilots' Federation]], [[id:a35c5eb2-0697-4ef3-9a11-950791952e2d][Jupiter Division]].
 

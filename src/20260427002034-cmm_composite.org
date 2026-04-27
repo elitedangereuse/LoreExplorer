@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       dd7d4572-a696-4bfa-857b-294a7ab0dd98
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/CMM_Composite
 :END:
 #+title: CMM Composite
 #+filetags: :Commodity:
@@ -14,4 +15,3 @@ Category: Industrial Material
 Produced by: Refinery (Surface)
 Consumed by: High Tech, Industrial and Military
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/CMM_Composite][Fandom: CMM Composite]]

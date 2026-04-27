@@ -1,9 +1,9 @@
 :PROPERTIES:
 :ID:       665995f9-eedc-40f2-b7a2-38635e2b5367
+:ROAM_REFS: https://inara.cz/elite/commodity/10057/
 :END:
 #+title: Vidavantian Lace
 #+filetags: :Commodity:rare:
 
 Sold as a rare commodity at [[id:0c29ebb3-7f72-428a-bc50-1a9fd38af91e][Lee Mines]], [[id:3e79dbaa-6cde-4ed6-ab47-00447187ae4d][Vidavanta]].
 
-Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10057/][Inara: Vidavantian Lace]]

@@ -1,9 +1,9 @@
 :PROPERTIES:
 :ID:       38ca2282-281d-4561-bbaf-a617e378fd47
+:ROAM_REFS: https://inara.cz/elite/commodity/10106/
 :END:
 #+title: Uszaian Tree Grub
 #+filetags: :Commodity:rare:
 
 Sold as a rare commodity at [[id:6e796043-8fe8-4bbe-b37e-fe3c72009781][Guest Installation]], [[id:33bd5592-aab7-4736-87b7-a8e38c34026e][Uszaa]].
 
-Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10106/][Inara: Uszaian Tree Grub]]

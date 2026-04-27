@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       51d0a6d0-4724-43cb-9ec7-1f9d0b6ee1dd
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Aquaponic_Systems
 :END:
 #+title: Aquaponic Systems
 #+filetags: :Commodity:
@@ -14,6 +15,4 @@ required.
 Category: Technology
 Produced by: High Tech
 Consumed by: Terraforming Agricultural
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Aquaponic_Systems][Fandom: Aquaponic Systems]]
 

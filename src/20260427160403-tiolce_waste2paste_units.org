@@ -1,9 +1,9 @@
 :PROPERTIES:
 :ID:       4043cae5-7be3-4122-a3a7-1de11d2d080c
+:ROAM_REFS: https://inara.cz/elite/commodity/10098/
 :END:
 #+title: Tiolce Waste2Paste Units
 #+filetags: :Commodity:rare:
 
 Sold as a rare commodity at [[id:28c1e706-480e-499a-bef9-5340409cfe63][Gordon Terminal]], [[id:d023a45a-1b43-411c-a2d5-378d4b7c0a88][Tiolce]].
 
-Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10098/][Inara: Tiolce Waste2Paste Units]]

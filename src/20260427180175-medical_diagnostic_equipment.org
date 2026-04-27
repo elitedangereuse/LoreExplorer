@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       e6242e56-28c8-4db5-9c63-ba4dcbf11e1e
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Medical_Diagnostic_Equipment
 :END:
 #+title: Medical Diagnostic Equipment
 #+filetags: :Commodity:
@@ -13,6 +14,4 @@ identifies prohibited substances.
 Category: Technology
 Produced by: High Tech
 Consumed by: Service
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Medical_Diagnostic_Equipment][Fandom: Medical Diagnostic Equipment]]
 

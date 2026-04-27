@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       d10c0435-4bc8-42ac-bea6-228d2f02604c
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Tantalum
 :END:
 #+title: Tantalum
 #+filetags: :Commodity:
@@ -14,8 +15,6 @@ penetration.
 Category: Metals
 Produced by: Refinery
 Consumed by: High Tech Industrial
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Tantalum][Fandom: Tantalum]]
 
 Tantalum, Ta, atomic number 73. Melting point 3290K. Used to make
 capacitors and high melting point alloys in reactors, and by the

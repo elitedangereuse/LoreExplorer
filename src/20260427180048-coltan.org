@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       047e63e2-7b61-424c-a330-e712609eaba5
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Coltan
 :END:
 #+title: Coltan
 #+filetags: :Commodity:
@@ -13,6 +14,4 @@ tech and electronic devices.
 Category: Minerals
 Produced by: Extraction
 Consumed by: Refinery
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Coltan][Fandom: Coltan]]
 

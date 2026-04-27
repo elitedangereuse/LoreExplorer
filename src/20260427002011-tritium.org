@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       419361cc-b4ff-4dba-8740-c879ca68c088
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Tritium
 :END:
 #+title: Tritium
 #+filetags: :Commodity:
@@ -13,4 +14,3 @@ Category: Chemicals
 Produced by: Refinery
 Consumed by: High Tech, Industrial, Military
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Tritium][Fandom: Tritium]]

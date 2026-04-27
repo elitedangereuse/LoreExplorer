@@ -1,9 +1,9 @@
 :PROPERTIES:
 :ID:       22455fd4-3ad9-40c8-8f8e-3860bf7db2e7
+:ROAM_REFS: https://inara.cz/elite/commodity/10044/
 :END:
 #+title: Zeessze Ant Grub Glue
 #+filetags: :Commodity:rare:
 
 Sold as a rare commodity at [[id:418173ac-3e95-4254-a4f3-0285234e3e60][Nicollier Hangar]], [[id:ac80dfeb-9389-4baa-b508-1ae2e4afdd0f][Zeessze]].
 
-Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10044/][Inara: Zeessze Ant Grub Glue]]

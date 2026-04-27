@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       acd861d6-6c6b-4fd8-9c0f-ca28a60fe599
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Survival_Equipment
 :END:
 #+title: Survival Equipment
 #+filetags: :Commodity:
@@ -13,4 +14,3 @@ Category: Consumer Items
 Produced by: Industrial
 Consumed by: All (Surface) except Industrial
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Survival_Equipment][Fandom: Survival Equipment]]

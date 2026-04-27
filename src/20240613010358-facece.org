@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       73e31493-0c88-4fd7-9f49-9f3f1c92db41
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Facece
 :END:
 #+title: Facece
 #+filetags: :Rank:Permit:System:
@@ -11,8 +12,6 @@ the surface.Senator Anders Blaine is the senator for this system and
 enjoys relative autonomy. The permit for this system can be obtained
 from the Imperial Military.
 #+end_quote
-
-Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Facece][Fandom: Facece]]
 
 Related: [[id:e9679720-e0c1-449e-86a6-a5b3de3613f5][Anders Blaine]], [[id:77cf2f14-105e-4041-af04-1213f3e7383c][The Empire]].
 

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       09045a99-727e-4829-8830-83cde323469a
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Gene_Bank
 :END:
 #+title: Gene Bank
 #+filetags: :Commodity:
@@ -15,4 +16,3 @@ Category: Salvage
 Produced by: Salvage
 Consumed by: -
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Gene_Bank][Fandom: Gene Bank]]

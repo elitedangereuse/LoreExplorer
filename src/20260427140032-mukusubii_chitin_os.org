@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       785ffb95-56e7-41b3-9cd9-d690d0bb5d6e
+:ROAM_REFS: https://inara.cz/elite/commodity/10065/
 :END:
 #+title: Mukusubii Chitin-os
 #+filetags: :Commodity:rare:
@@ -16,4 +17,3 @@ question will no longer be available for sale or purchase.
 
 Sold as a rare commodity at [[id:d84e5aa9-3f68-4a7b-b383-cfe20c7e2006][Ledyard Dock]], [[id:0d9b9e2e-df60-4958-9ad9-1f84adc07c5a][Mukusubii]].
 
-Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/10065/][Inara: Mukusubii Chitin-os]]

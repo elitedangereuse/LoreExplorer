@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       9fb91b9c-2c47-4d12-8f6e-842caec9c6ce
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Muon_Imager
 :END:
 #+title: Muon Imager
 #+filetags: :Commodity:
@@ -12,6 +13,4 @@ planets and moons.
 Category: Technology
 Produced by: Industrial, High Tech
 Consumed by: Extraction (Surface) and Military (Surface)
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Muon_Imager][Fandom: Muon Imager]]
 

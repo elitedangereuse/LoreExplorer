@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       14c37d24-900d-4818-ad48-07755f19d6c8
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Unoccupied_Escape_Pod
 :END:
 #+title: Unoccupied Escape Pod
 #+filetags: :Commodity:
@@ -13,4 +14,3 @@ Category: Salvage
 Produced by: Salvage
 Consumed by: -
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Unoccupied_Escape_Pod][Fandom: Unoccupied Escape Pod]]

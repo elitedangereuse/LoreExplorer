@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       2d41945e-adef-4bf4-bcac-6c1b8dc16bd7
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Cyst_Specimen
 :END:
 #+title: Cyst Specimen
 #+filetags: :Commodity:
@@ -12,6 +13,4 @@ inner hull debris.
 Category: Salvage
 Produced by: -
 Consumed by: -
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Cyst_Specimen][Fandom: Cyst Specimen]]
 

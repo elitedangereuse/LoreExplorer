@@ -1,11 +1,10 @@
 :PROPERTIES:
 :ID:       faf6b61f-602f-463b-b8a8-8ccc704a3605
+:ROAM_REFS: https://inara.cz/elite/commodity/10004/
 :END:
 #+title: Live Hecate Sea Worms
 #+filetags: :Commodity:rare:
 
 Sold as a rare commodity at [[id:d1ff6271-024e-4fca-81a9-16d05ba417ed][RJH1972]], [[id:b3da0f0d-5c36-4fa0-8678-8c5ded220d61][Hecate]].
-
-Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10004/][Inara: Live Hecate Sea Worms]]
 
 [[file:img/commodities/hecate_live_sea_worms.jpg]]

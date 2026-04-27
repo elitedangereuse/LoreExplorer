@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       ce60d48a-8768-4260-b8c7-4510904489ba
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Prototype_Tech
 :END:
 #+title: Prototype Tech
 #+filetags: :Commodity:
@@ -14,6 +15,4 @@ have discovered there is a prospering black market for stolen tech.
 Category: Salvage
 Produced by: -
 Consumed by: -
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Prototype_Tech][Fandom: Prototype Tech]]
 

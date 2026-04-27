@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       b1bed782-6b7f-4a57-aee7-d1ed0718c703
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/SAP_8_Core_Container
 :END:
 #+title: SAP 8 Core Container
 #+filetags: :Commodity:
@@ -14,6 +15,4 @@ field will result in the containers destruction.
 Category: Salvage
 Produced by: ?
 Consumed by: ?
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/SAP_8_Core_Container][Fandom: SAP 8 Core Container]]
 

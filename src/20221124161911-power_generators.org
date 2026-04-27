@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       34acf2f1-676d-4e52-86f4-80dc606e435c
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Power_Generators
 :END:
 #+title: Power Generators
 #+filetags: :Commodity:
@@ -16,4 +17,3 @@ Category: Machinery
 Produced by: Industrial
 Consumed by: All except Industrial
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Power_Generators][Fandom: Power Generators]]

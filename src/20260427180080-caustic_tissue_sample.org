@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       419a2d28-0e05-4ffe-8794-1fe8f4914631
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Caustic_Tissue_Sample
 :END:
 #+title: Caustic Tissue Sample
 #+filetags: :Commodity:
@@ -11,6 +12,4 @@ A sample of bio-mechanical tissue taken from a caustic generator.
 Category: Salvage
 Produced by: -
 Consumed by: -
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Caustic_Tissue_Sample][Fandom: Caustic Tissue Sample]]
 

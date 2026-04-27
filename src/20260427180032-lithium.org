@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       54f8e5b0-5231-4df3-8047-5af47c1508fc
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Lithium
 :END:
 #+title: Lithium
 #+filetags: :Commodity:
@@ -15,6 +16,4 @@ early history.
 Category: Metals
 Produced by: Refinery
 Consumed by: High Tech Industrial
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Lithium][Fandom: Lithium]]
 

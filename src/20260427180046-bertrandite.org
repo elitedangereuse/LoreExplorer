@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       f612d3ed-5cd5-44af-a3a3-c3b5da79a362
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Bertrandite
 :END:
 #+title: Bertrandite
 #+filetags: :Commodity:
@@ -12,6 +13,4 @@ yellow orthorhombic mineral, widely refined into Beryllium.
 Category: Minerals
 Produced by: Extraction
 Consumed by: Refinery
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Bertrandite][Fandom: Bertrandite]]
 

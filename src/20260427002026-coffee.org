@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       17e9c920-2c60-4aad-975a-c52e81030b1e
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Coffee
 :END:
 #+title: Coffee
 #+filetags: :Commodity:
@@ -15,4 +16,3 @@ Category: Foods
 Produced by: Agricultural
 Consumed by: All except Agricultural
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Coffee][Fandom: Coffee]]

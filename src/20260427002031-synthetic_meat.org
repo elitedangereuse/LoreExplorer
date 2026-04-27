@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       dffd22b1-0e99-4302-a109-20125a423f25
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Synthetic_Meat
 :END:
 #+title: Synthetic Meat
 #+filetags: :Commodity:
@@ -14,4 +15,3 @@ Category: Foods
 Produced by: High Tech
 Consumed by: All except High Tech and Agricultural
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Synthetic_Meat][Fandom: Synthetic Meat]]

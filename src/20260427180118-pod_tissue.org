@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       e08ee267-7844-4a0d-a627-02fa1024dc84
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Pod_Tissue
 :END:
 #+title: Pod Tissue
 #+filetags: :Commodity:
@@ -12,4 +13,3 @@ Category: Salvage
 Produced by: Stolon Pod
 Consumed by: -
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Pod_Tissue][Fandom: Pod Tissue]]

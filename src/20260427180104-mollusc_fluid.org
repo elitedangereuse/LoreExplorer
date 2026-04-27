@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       1a3e36ec-ffa6-417d-9df6-68a9694053d6
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Mollusc_Fluid
 :END:
 #+title: Mollusc Fluid
 #+filetags: :Commodity:
@@ -12,4 +13,3 @@ Category: Salvage
 Produced by: Bulb Mollusc Capsule Mollusc
 Consumed by: -
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Mollusc_Fluid][Fandom: Mollusc Fluid]]

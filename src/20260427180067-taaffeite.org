@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       bf15ec63-8d0f-4cb0-939d-c4da8539967a
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Taaffeite
 :END:
 #+title: Taaffeite
 #+filetags: :Commodity:
@@ -12,6 +13,4 @@ purple hue, used in jewellery and other crafts.
 Category: Mineral
 Produced by: Planetary mining
 Consumed by: Service (Orbital) and Tourist
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Taaffeite][Fandom: Taaffeite]]
 

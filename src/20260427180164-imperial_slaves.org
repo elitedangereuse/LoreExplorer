@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       02df3938-8684-467d-b46e-cd60621e1fd3
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Imperial_Slaves
 :END:
 #+title: Imperial Slaves
 #+filetags: :Commodity:
@@ -14,6 +15,4 @@ face the embarrassment and dishonour of living with a debt.
 Category: Slavery
 Produced by: Agriculture
 Consumed by: All
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Imperial_Slaves][Fandom: Imperial Slaves]]
 

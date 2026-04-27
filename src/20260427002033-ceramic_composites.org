@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       0b64653e-4cad-4f00-bf49-d88ae6049a11
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Ceramic_Composites
 :END:
 #+title: Ceramic Composites
 #+filetags: :Commodity:
@@ -13,4 +14,3 @@ Category: Industrial material
 Produced by: Refinery (Surface)
 Consumed by: Industrial and High Tech
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Ceramic_Composites][Fandom: Ceramic Composites]]

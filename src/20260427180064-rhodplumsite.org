@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       71eb4925-f773-4068-966a-359ce4de336a
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Rhodplumsite
 :END:
 #+title: Rhodplumsite
 #+filetags: :Commodity:
@@ -13,6 +14,4 @@ angles, appearing white, creamy pink or grayish blue.
 Category: Minerals
 Produced by: Asteroid Core Mining
 Consumed by: Industrial, High Tech, Refinery
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Rhodplumsite][Fandom: Rhodplumsite]]
 

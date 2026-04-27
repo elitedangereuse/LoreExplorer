@@ -1,9 +1,9 @@
 :PROPERTIES:
 :ID:       eed2f1a2-0ed2-48a5-b60f-990a458d5dbc
+:ROAM_REFS: https://inara.cz/elite/commodity/10016/
 :END:
 #+title: Any Na Coffee
 #+filetags: :Commodity:rare:
 
 Sold as a rare commodity at [[id:a1ed5c5f-1432-4db7-a20f-5dd786d93f71][Libby Orbital]], [[id:b72d2ad9-8712-4804-a73a-f824e16e2227][Any Na]].
 
-Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10016/][Inara: Any Na Coffee]]

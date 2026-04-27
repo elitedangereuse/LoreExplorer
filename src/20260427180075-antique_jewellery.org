@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       c12e6b6b-99f8-4ea6-aba1-35b0de8370a2
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Antique_Jewellery
 :END:
 #+title: Antique Jewellery
 #+filetags: :Commodity:
@@ -13,4 +14,3 @@ Category: Salvage
 Produced by: Salvage
 Consumed by: -
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Antique_Jewellery][Fandom: Antique Jewellery]]

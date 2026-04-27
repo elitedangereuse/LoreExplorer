@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       8c12828c-5756-4b81-b742-6d52bb3c77f5
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Microbial_Furnaces
 :END:
 #+title: Microbial Furnaces
 #+filetags: :Commodity:
@@ -14,4 +15,3 @@ Category: Machinery
 Produced by: High Tech
 Consumed by: Refinery
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Microbial_Furnaces][Fandom: Microbial Furnaces]]

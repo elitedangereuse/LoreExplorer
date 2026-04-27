@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       1e0f8810-e03a-4b20-8c6d-5efca4c280c8
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Nanobreakers
 :END:
 #+title: Nanobreakers
 #+filetags: :Commodity:
@@ -16,6 +17,4 @@ upgrades.
 Category: Technology
 Produced by: Mission Rewards
 Consumed by: Any
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Nanobreakers][Fandom: Nanobreakers]]
 

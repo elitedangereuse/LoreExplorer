@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       7f7772c2-b8f1-4d61-bb60-3e155deaf824
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Pod_Dead_Tissue
 :END:
 #+title: Pod Dead Tissue
 #+filetags: :Commodity:
@@ -12,4 +13,3 @@ Category: Salvage
 Produced by: Aster Pod Chalice Pod Collared Pod Octahedral Pod Peduncle Pod Quadripartite Pod Rhizome Pod
 Consumed by: -
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Pod_Dead_Tissue][Fandom: Pod Dead Tissue]]

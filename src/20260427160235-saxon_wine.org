@@ -1,9 +1,9 @@
 :PROPERTIES:
 :ID:       bcbd0c26-f0b8-4ead-ba24-01a3530914a3
+:ROAM_REFS: https://inara.cz/elite/commodity/10169/
 :END:
 #+title: Saxon Wine
 #+filetags: :Commodity:rare:
 
 Sold as a rare commodity at [[id:7c26c4bb-7b55-44d9-9879-94798853600a][Hunt Enterprise]], [[id:1289c5ec-5610-4d65-8e62-b2a526a8ff67][9 Aurigae]].
 
-Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10169/][Inara: Saxon Wine]]

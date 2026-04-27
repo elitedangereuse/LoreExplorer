@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       c5dd476c-8dea-4bbb-b1af-34bf30b73086
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Hardware_Diagnostic_Sensor
 :END:
 #+title: Hardware Diagnostic Sensor
 #+filetags: :Commodity:
@@ -14,6 +15,4 @@ These can be found at Kanwar Gateway in the Xiripa system.
 Category: Technology
 Produced by: Industrial/Refinery near Lei Jing
 Consumed by: High Tech and Military
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Hardware_Diagnostic_Sensor][Fandom: Hardware Diagnostic Sensor]]
 

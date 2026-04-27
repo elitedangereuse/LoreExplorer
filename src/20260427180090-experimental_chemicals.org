@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       6a397196-a348-4efa-963a-48190370240d
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Experimental_Chemicals
 :END:
 #+title: Experimental Chemicals
 #+filetags: :Commodity:
@@ -15,6 +16,4 @@ difficult to control for authorities.
 Category: Salvage
 Produced by: -
 Consumed by: -
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Experimental_Chemicals][Fandom: Experimental Chemicals]]
 

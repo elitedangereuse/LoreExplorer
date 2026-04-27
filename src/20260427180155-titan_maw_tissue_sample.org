@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       ec502800-efc2-43c6-a3fb-a7ca63644909
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Titan_Maw_Tissue_Sample
 :END:
 #+title: Titan Maw Tissue Sample
 #+filetags: :Commodity:
@@ -12,6 +13,4 @@ Titan maw.
 Category: Salvage
 Produced by: -
 Consumed by: -
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Titan_Maw_Tissue_Sample][Fandom: Titan Maw Tissue Sample]]
 

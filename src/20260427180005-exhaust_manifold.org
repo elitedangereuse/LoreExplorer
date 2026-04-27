@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       3a5ea7a6-a4e5-4cfb-96c5-0de3901129c6
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Exhaust_Manifold
 :END:
 #+title: Exhaust Manifold
 #+filetags: :Commodity:
@@ -15,4 +16,3 @@ Category: Machinery
 Produced by: Somerville Station, Kharpulo
 Consumed by: High Tech
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Exhaust_Manifold][Fandom: Exhaust Manifold]]

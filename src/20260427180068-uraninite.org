@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       f49d08ae-1feb-4375-a3dd-5487e9463da9
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Uraninite
 :END:
 #+title: Uraninite
 #+filetags: :Commodity:
@@ -16,6 +17,4 @@ jurisdictions.
 Category: Minerals
 Produced by: Extraction
 Consumed by: Refinery
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Uraninite][Fandom: Uraninite]]
 

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       b2c862d2-12a9-423d-8688-d8dec21be343
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Guardian_Relic
 :END:
 #+title: Guardian Relic
 #+filetags: :Commodity:
@@ -13,4 +14,3 @@ Category: Salvage
 Produced by: | consumer =
 Consumed by: -
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Guardian_Relic][Fandom: Guardian Relic]]

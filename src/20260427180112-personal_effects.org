@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       e0f1c53d-a3ba-41c2-a21c-a7afecfcebbd
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Personal_Effects
 :END:
 #+title: Personal Effects
 #+filetags: :Commodity:
@@ -13,6 +14,4 @@ value except to their owners.
 Category: Salvage
 Produced by: -
 Consumed by: -
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Personal_Effects][Fandom: Personal Effects]]
 

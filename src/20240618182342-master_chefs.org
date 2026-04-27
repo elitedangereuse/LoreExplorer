@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       f055b562-88b2-4eab-b160-18ac63d812a6
+:ROAM_REFS: https://inara.cz/elite/commodity/10142/
 :END:
 #+title: Master Chefs
 #+filetags: :Commodity:rare:
@@ -7,4 +8,3 @@
 
 Sold as a rare commodity at [[id:51034d0e-bf45-4191-bf14-7076ba8b5a6e][Pataarcy Corporate]], [[id:947cab99-f59e-4ed3-bd40-b63632d4eaf0][Viracocha]].
 
-Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10142/][Inara: Master Chefs]]

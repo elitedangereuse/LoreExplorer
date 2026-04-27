@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       94b9dcf4-6a45-48d6-96b9-a343eeeb4ec1
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Aluminium
 :END:
 #+title: Aluminium
 #+filetags: :Commodity:
@@ -13,6 +14,4 @@ for its lightness and strength.
 Category: Metals
 Produced by: Refinery
 Consumed by: Industrial, Military, Extraction
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Aluminium][Fandom: Aluminium]]
 

@@ -1,9 +1,9 @@
 :PROPERTIES:
 :ID:       e6a70682-d2bd-48e3-aec8-b3c1066cdf30
+:ROAM_REFS: https://inara.cz/elite/commodity/10096/
 :END:
 #+title: Giant Irukama Snails
 #+filetags: :Commodity:rare:
 
 Sold as a rare commodity at [[id:0f682543-78e3-4181-bbb9-46b085deb122][Blaauw City]], [[id:76048bd8-7a18-4d77-bf77-ae23a5268d20][Irukama]].
 
-Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10096/][Inara: Giant Irukama Snails]]

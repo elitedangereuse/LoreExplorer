@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       297af8de-73a6-473b-80a8-ebcc483b321e
+:ROAM_REFS: https://inara.cz/elite/commodity/10061/
 :END:
 #+title: Wheemete Wheat Cakes
 #+filetags: :Commodity:rare:
@@ -17,4 +18,3 @@ be available for sale or purchase.
 
 Sold as a rare commodity at [[id:9c4be718-e2ff-4dfa-a887-e5e4288319ab][Eisinga Enterprise]], [[id:db00479a-8c83-426b-ba81-efd430faf23c][Wheemete]].
 
-Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/10061/][Inara: Wheemete Wheat Cakes]]

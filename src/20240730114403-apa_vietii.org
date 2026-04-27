@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       b27fcb6d-4c69-4cff-9acc-10c618a11a77
+:ROAM_REFS: https://inara.cz/elite/commodity/10267/
 :END:
 #+title: Apa Vietii
 #+filetags: :Commodity:rare:
@@ -7,4 +8,3 @@ An alcoholic spirit, distilled only aboard the [[id:fce1d147-f900-41ec-a92c-3ce3
 
 Sold as a rare commodity at [[id:d87d30e1-1624-4337-a252-64085c3c4c27][Forester's Choice]], [[id:361a46f2-79c4-40bf-9781-4066763914f3][Upaniklis]].
 
-Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10267/][Inara: Apa Vietii]]

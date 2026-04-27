@@ -1,9 +1,9 @@
 :PROPERTIES:
 :ID:       053a3293-9021-46c0-8d07-addee51ee558
+:ROAM_REFS: https://inara.cz/elite/commodity/10112/
 :END:
 #+title: Lucan Onionhead
 #+filetags: :Commodity:rare:
 
 Sold as a rare commodity at [[id:736b62a7-1b6a-4e1d-a423-086476e483e0][Cassie-L-Peia]], [[id:267299e4-1a3f-4835-933d-7a1b30d7d43e][Tanmark]].
 
-Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10112/][Inara: Lucan Onionhead]]

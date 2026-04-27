@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       febbcc7c-743b-4332-bc15-9e36ecd0442f
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Structural_Regulators
 :END:
 #+title: Structural Regulators
 #+filetags: :Commodity:
@@ -13,6 +14,4 @@ damage is detected.
 Category: Technology
 Produced by: High Tech
 Consumed by: All (Surface) except High Tech
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Structural_Regulators][Fandom: Structural Regulators]]
 

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       35900507-bc1d-4030-a8ee-39b439bba2ed
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Canopus
 :END:
 #+title: Canopus
 #+filetags: :System:
@@ -8,4 +9,3 @@
 Also known as Alpha Carinae.
 #+end_quote
 
-Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Canopus][Fandom: Canopus]]

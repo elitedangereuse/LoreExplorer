@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       843517ac-e27b-46a3-84ff-700f94a0ba67
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/LTT_198
 :END:
 #+title: LTT 198
 #+filetags: :Permit:System:
@@ -8,8 +9,6 @@
 The permit for this system can be obtained via the LTT 198 Order
 faction.
 #+end_quote
-
-Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/LTT_198][Fandom: LTT 198]]
 
 [[file:img/permit.png]]
 

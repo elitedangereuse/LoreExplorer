@@ -1,9 +1,9 @@
 :PROPERTIES:
 :ID:       73ec7036-22fe-48f2-8429-b9ac44a07d96
+:ROAM_REFS: https://inara.cz/elite/commodity/10050/
 :END:
 #+title: Mulachi Giant Fungus
 #+filetags: :Commodity:rare:
 
 Sold as a rare commodity at [[id:854c0649-2e6e-4f92-a736-9b90ebc57b19][Clark Terminal]], [[id:2b5c428c-a888-4f93-8505-8f17f99ee2e9][Mulachi]].
 
-Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10050/][Inara: Mulachi Giant Fungus]]

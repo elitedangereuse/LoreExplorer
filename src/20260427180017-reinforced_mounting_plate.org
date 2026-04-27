@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       96e77059-240c-4208-a8b3-b4ae820e7300
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Reinforced_Mounting_Plate
 :END:
 #+title: Reinforced Mounting Plate
 #+filetags: :Commodity:
@@ -15,4 +16,3 @@ Category: Machinery
 Produced by: At the Grassmann Station Findalibila and near with Extraction/Refinery economy type
 Consumed by: Industrial (Surface)
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Reinforced_Mounting_Plate][Fandom: Reinforced Mounting Plate]]

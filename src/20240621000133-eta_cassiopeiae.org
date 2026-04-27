@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       ed325fe8-22a1-4d07-9af9-5a9f8f056377
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Eta_Cassiopeiae
 :END:
 #+title: Eta Cassiopeiae
 #+filetags: :System:
@@ -19,4 +20,3 @@ dedicated to accomplishing their missions, whatever they may
 be."Always Faithful, Always Forward."
 #+end_quote
 
-Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Eta_Cassiopeiae][Fandom: Eta Cassiopeiae]]

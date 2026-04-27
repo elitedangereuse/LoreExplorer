@@ -1,9 +1,9 @@
 :PROPERTIES:
 :ID:       a7254e2f-0a6b-4fed-83e4-e4be6a9dba33
+:ROAM_REFS: https://inara.cz/elite/commodity/10020/
 :END:
 #+title: Damna Carapaces
 #+filetags: :Commodity:rare:
 
 Sold as a rare commodity at [[id:f502a500-5fc0-4cec-871d-395c236b9da8][Nemere Market]], [[id:46acf772-cf18-443f-b005-b507b6c44dc3][Damna]].
 
-Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10020/][Inara: Damna Carapaces]]

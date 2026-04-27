@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       fad057f3-a5e3-4dad-a5ab-f2b471a14862
+:ROAM_REFS: https://inara.cz/elite/commodity/10030/
 :END:
 #+title: Kamitra Cigars
 #+filetags: :rare:Commodity:
@@ -15,7 +16,5 @@ This rare good is legal in all systems except for Prison Colony,
 Theocracy and Corporate systems and Federal Democracy systems.
 
 Sold as a rare commodity at [[id:dd7725b4-1f2a-4796-a30f-530deb3c89e2][Hammel Terminal]], [[id:5201be15-41e2-427b-b5de-d2d32d5ec78d][Kamitra]].
-
-Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/10030/][Inara: Kamitra Cigars]]
 
 [[file:img/commodities/kamitra_cigars.png]]

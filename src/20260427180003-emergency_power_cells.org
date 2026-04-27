@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       a081e7d6-7384-47d3-87d4-0c2324c9f3d0
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Emergency_Power_Cells
 :END:
 #+title: Emergency Power Cells
 #+filetags: :Commodity:
@@ -14,4 +15,3 @@ Category: Machinery
 Produced by: Industrial (surface), High Tech/Refinery (orbital, restricted)
 Consumed by: High Tech, Industrial, Military
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Emergency_Power_Cells][Fandom: Emergency Power Cells]]

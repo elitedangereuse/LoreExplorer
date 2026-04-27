@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       0f9dbf4e-0195-4616-bfa1-0a2ed44ada52
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Trinkets_of_Hidden_Fortune
 :END:
 #+title: Trinkets of Hidden Fortune
 #+filetags: :Commodity:
@@ -15,6 +16,4 @@ valuable prize hidden within.
 Category: Consumer Items
 Produced by: -
 Consumed by: -
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Trinkets_of_Hidden_Fortune][Fandom: Trinkets of Hidden Fortune]]
 

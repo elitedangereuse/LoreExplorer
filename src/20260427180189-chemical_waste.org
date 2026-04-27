@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       f754bcfc-ca6e-4f03-9091-da509e836152
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Chemical_Waste
 :END:
 #+title: Chemical Waste
 #+filetags: :Commodity:
@@ -12,6 +13,4 @@ as a byproduct of industrial processes.
 Category: Waste
 Produced by: | consumer = Refinery
 Consumed by: Refinery
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Chemical_Waste][Fandom: Chemical Waste]]
 

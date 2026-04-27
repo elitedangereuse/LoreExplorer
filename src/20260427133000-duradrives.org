@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       76b580f8-62d6-44bd-8963-487693d6d1d4
 :ROAM_ALIASES: Duradrive
+:ROAM_REFS: https://inara.cz/elite/commodity/10242/
 :END:
 #+title: Duradrives
 #+filetags: :Commodity:rare:
@@ -12,4 +13,3 @@ company [[id:46e9f326-2119-4d5b-a625-a32820a44642][Herculean Machines]], are use
 
 Sold as a rare commodity at [[id:37808842-5e33-459f-a2b1-e9a47acf040d][Cowper Dock]], [[id:61a74587-978a-4a97-97cd-a9151a82a34f][Anima]].
 
-Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/10242/][Inara: Duradrives]]

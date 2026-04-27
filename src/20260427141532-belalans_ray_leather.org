@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       33cded4e-58f2-4189-9dc4-079635e7ff37
+:ROAM_REFS: https://inara.cz/elite/commodity/10012/
 :END:
 #+title: Belalans Ray Leather
 #+filetags: :Commodity:rare:
@@ -15,4 +16,3 @@ be available for sale or purchase.
 
 Sold as a rare commodity at [[id:808a14f7-1956-40ae-a576-19d9ba80703d][Boscovich Ring]], [[id:87114875-7bb2-43a3-96dd-5730a44362ae][Belalans]].
 
-Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/10012/][Inara: Belalans Ray Leather]]

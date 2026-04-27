@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       73dba017-12ef-4972-b86b-4c3cb3897da4
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Pod_Surface_Tissue
 :END:
 #+title: Pod Surface Tissue
 #+filetags: :Commodity:
@@ -12,4 +13,3 @@ Category: Salvage
 Produced by: Aster Pod Chalice Pod Collared Pod Octahedral Pod Peduncle Pod Quadripartite Pod Rhizome Pod Stolon Pod
 Consumed by: -
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Pod_Surface_Tissue][Fandom: Pod Surface Tissue]]

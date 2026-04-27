@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       2437a94e-3728-40bd-84d5-541be4c73854
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Van_Maanen's_Star
 :END:
 #+title: Van Maanen's Star
 #+filetags: :System:
@@ -12,4 +13,3 @@ is forbidden by Federal Law to enter the system without the
 permission of the Guardians.
 #+end_quote
 
-Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Van_Maanen's_Star][Fandom: Van Maanen's Star]]

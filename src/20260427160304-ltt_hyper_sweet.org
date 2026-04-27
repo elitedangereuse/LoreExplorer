@@ -1,9 +1,9 @@
 :PROPERTIES:
 :ID:       a0d6e577-9e49-487f-ab87-28675c43cc38
+:ROAM_REFS: https://inara.cz/elite/commodity/10135/
 :END:
 #+title: LTT Hyper Sweet
 #+filetags: :Commodity:rare:
 
 Sold as a rare commodity at [[id:37ede061-3f2b-4320-ab59-6e86ae672120][Smeaton Orbital]], [[id:99cc45a8-6c57-4155-b50f-2deb8383eb51][LTT 9360]].
 
-Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10135/][Inara: LTT Hyper Sweet]]

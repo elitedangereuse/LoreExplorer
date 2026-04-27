@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       9e0d3d1a-0515-4718-91e0-514281b9e77f
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Indite
 :END:
 #+title: Indite
 #+filetags: :Commodity:
@@ -14,6 +15,4 @@ widely refined into Indium.
 Category: Minerals
 Produced by: Extraction
 Consumed by: Refinery
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Indite][Fandom: Indite]]
 

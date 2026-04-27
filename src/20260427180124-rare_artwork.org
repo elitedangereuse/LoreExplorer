@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       74cf3475-d073-43dc-aaa2-a81cd7a495b5
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Rare_Artwork
 :END:
 #+title: Rare Artwork
 #+filetags: :Commodity:
@@ -15,6 +16,4 @@ selling for under-the-counter prices.
 Category: Salvage
 Produced by: -
 Consumed by: -
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Rare_Artwork][Fandom: Rare Artwork]]
 

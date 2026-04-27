@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       618b671b-2863-4735-b7ef-30e5851e99a7
+:ROAM_REFS: https://inara.cz/elite/commodity/10052/
 :END:
 #+title: Anduliga Fire Works
 #+filetags: :Commodity:rare:
@@ -16,4 +17,3 @@ purchase.
 
 Sold as a rare commodity at [[id:53a0db77-20c6-48ca-9b60-1b6b2c64f153][Celsius Estate]], [[id:9368cc59-3e4d-4693-b5a7-e28b72c03da7][Anduliga]].
 
-Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/10052/][Inara: Anduliga Fire Works]]

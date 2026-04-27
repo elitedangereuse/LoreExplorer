@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       221834bd-28f1-4d70-af5b-3d8558884da0
+:ROAM_REFS: https://inara.cz/elite/commodity/10097/
 :END:
 #+title: Burnham Bile Distillate
 #+filetags: :Commodity:rare:
@@ -20,4 +21,3 @@ goods in question will no longer be available for sale or purchase.
 
 Sold as a rare commodity at [[id:996a3f90-87d1-42bb-a2f9-9d83a15d4976][Burnham Beacon]], [[id:0aa9e721-b00b-4be6-b08f-45c88ef5e00e][HIP 59533]].
 
-Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/10097/][Inara: Burnham Bile Distillate]]

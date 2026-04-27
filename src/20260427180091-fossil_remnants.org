@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       43ce01d7-651a-4b7c-991e-87dd8199963b
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Fossil_Remnants
 :END:
 #+title: Fossil Remnants
 #+filetags: :Commodity:
@@ -14,4 +15,3 @@ Category: Salvage
 Produced by: Salvage
 Consumed by: -
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Fossil_Remnants][Fandom: Fossil Remnants]]

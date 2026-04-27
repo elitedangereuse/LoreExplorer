@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       aade999e-3751-4780-bc3c-1870cd822a44
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Thargoid_Cyclops_Tissue_Sample
 :END:
 #+title: Thargoid Cyclops Tissue Sample
 #+filetags: :Commodity:
@@ -15,6 +16,4 @@ despite the fact that they appear to be highly corrosive.
 Category: Salvage
 Produced by: -
 Consumed by: -
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Thargoid_Cyclops_Tissue_Sample][Fandom: Thargoid Cyclops Tissue Sample]]
 

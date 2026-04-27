@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       57f9ef76-113a-44b0-97db-51502d3e6759
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Trade_Data
 :END:
 #+title: Trade Data
 #+filetags: :Commodity:
@@ -14,6 +15,4 @@ illegal salvage is punishable by law.
 Category: Salvage
 Produced by: -
 Consumed by: -
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Trade_Data][Fandom: Trade Data]]
 

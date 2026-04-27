@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       705bcc40-0a7b-460c-83a5-a556a5ab3bb7
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Copper
 :END:
 #+title: Copper
 #+filetags: :Commodity:
@@ -15,6 +16,4 @@ in many extraterrestrial and hemocyanal species.
 Category: Metals
 Produced by: Refinery
 Consumed by: Industrial
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Copper][Fandom: Copper]]
 

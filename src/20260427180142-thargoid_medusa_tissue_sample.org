@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       e170a646-b94b-4850-ae9c-4be4d04a9d2f
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Thargoid_Medusa_Tissue_Sample
 :END:
 #+title: Thargoid Medusa Tissue Sample
 #+filetags: :Commodity:
@@ -17,6 +18,4 @@ appear to be highly corrosive.
 Category: Salvage
 Produced by: -
 Consumed by: -
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Thargoid_Medusa_Tissue_Sample][Fandom: Thargoid Medusa Tissue Sample]]
 

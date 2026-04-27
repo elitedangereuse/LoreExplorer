@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       ad95c728-9be4-4216-b8e2-b74539b55e86
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Skimmer_Components
 :END:
 #+title: Skimmer Components
 #+filetags: :Commodity:
@@ -13,4 +14,3 @@ Category: Machinery
 Produced by: Industrial
 Consumed by: All (Surface) except Industrial (Surface)
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Skimmer_Components][Fandom: Skimmer Components]]

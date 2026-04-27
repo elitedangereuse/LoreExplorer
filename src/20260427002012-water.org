@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       6a0424e6-c3dd-486d-a6cb-5db4902ee9a8
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Water
 :END:
 #+title: Water
 #+filetags: :Commodity:
@@ -13,4 +14,3 @@ Category: Chemicals
 Produced by: Agricultural and Extraction (Surface)
 Consumed by: All except Agricultural and Extraction (Surface)
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Water][Fandom: Water]]

@@ -1,9 +1,9 @@
 :PROPERTIES:
 :ID:       f7aef667-24df-419b-9f2b-7ad99c927f71
+:ROAM_REFS: https://inara.cz/elite/commodity/10105/
 :END:
 #+title: Pavonis Ear Grubs
 #+filetags: :Commodity:rare:
 
 Sold as a rare commodity at [[id:4071bb06-d1ad-447b-ac45-4996504504ed][Hooper Relay]], [[id:595aa273-d1b3-44fd-9f16-ddc7291b4bee][Delta Pavonis]].
 
-Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10105/][Inara: Pavonis Ear Grubs]]

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       7384c6bc-9ad7-48ae-9d8b-f5f03db51c20
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Narcotics
 :END:
 #+title: Narcotics
 #+filetags: :Commodity:
@@ -14,4 +15,3 @@ Category: Legal Drugs
 Produced by: Agricultural High Tech Industrial
 Consumed by: All except High Tech, Industrial
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Narcotics][Fandom: Narcotics]]

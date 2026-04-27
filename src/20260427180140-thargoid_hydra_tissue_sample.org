@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       c3e19a01-83a1-41c8-b72d-b93e304ab403
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Thargoid_Hydra_Tissue_Sample
 :END:
 #+title: Thargoid Hydra Tissue Sample
 #+filetags: :Commodity:
@@ -16,6 +17,4 @@ corrosive.
 Category: Salvage
 Produced by: -
 Consumed by: -
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Thargoid_Hydra_Tissue_Sample][Fandom: Thargoid Hydra Tissue Sample]]
 

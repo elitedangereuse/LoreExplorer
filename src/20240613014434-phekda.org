@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       686a1ef0-80ad-48c0-b2b5-f2da43b333f1
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Phekda
 :END:
 #+title: Phekda
 #+filetags: :System:Permit:
@@ -23,7 +24,5 @@ their home and have transformed into a community that is fiercely
 protective of its chosen system and resistant to any attempts at
 visitation by those who have not been granted access.
 #+end_quote
-
-Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Phekda][Fandom: Phekda]]
 
 [[file:img/permit.png]]

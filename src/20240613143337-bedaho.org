@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       4ee2a5f7-7b84-4261-aeb9-ebcddc41ad7c
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Bedaho
 :END:
 #+title: Bedaho
 #+filetags: :System:
@@ -10,4 +11,3 @@ specialising in deep space adventure holidays. It is a subsidiary of
 the Saud Kruger corporation also based in the system.
 #+end_quote
 
-Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Bedaho][Fandom: Bedaho]]

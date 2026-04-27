@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       2b461b7b-10e3-49fd-ba61-bce15a046809
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Landmines
 :END:
 #+title: Landmines
 #+filetags: :Commodity:
@@ -14,4 +15,3 @@ Category: Weapons
 Produced by: Military (Surface)
 Consumed by: Extraction (Surface), Extraction (Surface), High Tech (Surface) and Refinery (Surface)
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Landmines][Fandom: Landmines]]

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       a1bcd563-ae49-45a0-94dc-761907f3024a
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Occupied_Escape_Pod
 :END:
 #+title: Occupied Escape Pod
 #+filetags: :Commodity:
@@ -13,6 +14,4 @@ single occupant in the event of ship destruction.
 Category: Salvage
 Produced by: -
 Consumed by: -
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Occupied_Escape_Pod][Fandom: Occupied Escape Pod]]
 

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       1c200888-6acc-404b-8d9e-9ad834389782
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Basic_Medicines
 :END:
 #+title: Basic Medicines
 #+filetags: :Commodity:
@@ -13,6 +14,4 @@ care.
 Category: Medicines
 Produced by: High Tech and Industrial
 Consumed by: All except High Tech and Industrial
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Basic_Medicines][Fandom: Basic Medicines]]
 

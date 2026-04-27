@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       c392f796-436b-4de0-a9c5-5f7f5b262375
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Time_Capsule
 :END:
 #+title: Time Capsule
 #+filetags: :Commodity:
@@ -13,4 +14,3 @@ Category: Salvage
 Produced by: Salvage
 Consumed by: -
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Time_Capsule][Fandom: Time Capsule]]

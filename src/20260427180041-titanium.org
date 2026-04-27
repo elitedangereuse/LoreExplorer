@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       d727fb19-8dc0-4d94-bcd4-da1cb5c090f0
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Titanium
 :END:
 #+title: Titanium
 #+filetags: :Commodity:
@@ -13,6 +14,4 @@ industrial applications, including high spec spacecraft hulls.
 Category: Metals
 Produced by: Refinery
 Consumed by: Industrial, Military
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Titanium][Fandom: Titanium]]
 

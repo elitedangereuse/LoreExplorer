@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       59d1161f-98db-4a4d-a0f7-b55a742a7ed3
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Methanol_Monohydrate_Crystals
 :END:
 #+title: Methanol Monohydrate Crystals
 #+filetags: :Commodity:
@@ -12,6 +13,4 @@ properties which are useful for mechanical and optical materials.
 Category: Minerals
 Produced by: Mining
 Consumed by: Colony, High Tech, Industrial
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Methanol_Monohydrate_Crystals][Fandom: Methanol Monohydrate Crystals]]
 

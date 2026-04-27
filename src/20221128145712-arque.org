@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       d4b595af-536d-4575-af11-f07f3ac3ff40
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Arque
 :END:
 #+title: Arque
 #+filetags: :Alliance:System:
@@ -9,8 +10,6 @@ A growing colony that formally joined the Alliance in 3278. Many of
 the local corporations are now subsidiaries of Wreaken Construction
 and Mining.
 #+end_quote
-
-Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Arque][Fandom: Arque]]
 
 [[file:img/systems/arque.png]]
 Rare commodity source: [[id:56b7d09e-b3cf-42a5-bc4b-e6a65b5d1f03][Shan's Charis Orchid]] at [[id:ecd07592-63b9-4dbe-a1b9-d8e19a1f8ed8][Baird Gateway]].

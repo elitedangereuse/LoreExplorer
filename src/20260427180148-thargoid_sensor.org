@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       8ddf8e00-4541-4857-a609-5f6c5849dded
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Thargoid_Sensor
 :END:
 #+title: Thargoid Sensor
 #+filetags: :Commodity:
@@ -16,6 +17,4 @@ scanned object in an encrypted form.
 Category: Salvage
 Produced by: -
 Consumed by: -
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Thargoid_Sensor][Fandom: Thargoid Sensor]]
 

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       045f7139-ac68-453c-b97f-b61c8a9c370d
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Platinum
 :END:
 #+title: Platinum
 #+filetags: :Commodity:
@@ -14,6 +15,4 @@ its resistance to corrosion.
 Category: Metals
 Produced by: Mining
 Consumed by: Any except Agricultural, Refinery, Extraction, Military
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Platinum][Fandom: Platinum]]
 

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       bd16d441-d791-4a17-b240-044b907de340
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Antimatter_Containment_Unit
 :END:
 #+title: Antimatter Containment Unit
 #+filetags: :Commodity:
@@ -13,4 +14,3 @@ Category: Salvage
 Produced by: Salvage
 Consumed by: -
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Antimatter_Containment_Unit][Fandom: Antimatter Containment Unit]]

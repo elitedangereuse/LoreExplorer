@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       e59ea750-8437-4b1a-86b6-29e29fa8a42a
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/PLX_695
 :END:
 #+title: PLX 695
 #+filetags: :Federation:System:Permit:Rank:
@@ -10,8 +11,6 @@ supply scene, but they are already making some big
 waves.'Countermeasures and military grade electronic warfare suites
 for those close encounters.'
 #+end_quote
-
-Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/PLX_695][Fandom: PLX 695]]
 
 [[file:img/permit.png]]
 

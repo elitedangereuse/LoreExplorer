@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       ad10ac93-2116-4762-a42a-39762dd8b378
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Non-Lethal_Weapons
 :END:
 #+title: Non-Lethal Weapons
 #+filetags: :Commodity:
@@ -13,6 +14,4 @@ human target, and are legal in most jurisdictions.
 Category: Weapons
 Produced by: High Tech Military
 Consumed by: All
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Non-Lethal_Weapons][Fandom: Non-Lethal Weapons]]
 

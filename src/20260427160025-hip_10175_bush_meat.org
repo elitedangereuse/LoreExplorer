@@ -1,9 +1,9 @@
 :PROPERTIES:
 :ID:       dee2b6a6-fedd-468a-bbf1-3208da86f815
+:ROAM_REFS: https://inara.cz/elite/commodity/10094/
 :END:
 #+title: HIP 10175 Bush Meat
 #+filetags: :Commodity:rare:
 
 Sold as a rare commodity at [[id:261e79fe-106b-4f1f-98d8-0901cf246bc2][Stefanyshyn-Piper Station]], [[id:8ef18264-0af3-4947-8a00-2c859453b3c3][HIP 10175]].
 
-Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10094/][Inara: HIP 10175 Bush Meat]]

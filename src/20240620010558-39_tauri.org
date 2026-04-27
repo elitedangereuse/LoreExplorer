@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       7a442368-d9e1-420b-a2c4-a8900a94227d
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/39_Tauri
 :END:
 #+title: 39 Tauri
 #+filetags: :System:
@@ -13,8 +14,6 @@ the economic sense in preserving their discovery and advertising
 Exports are mostly keepsakes and items with dubious "ancient"
 spiritual power and heritage.
 #+end_quote
-
-Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/39_Tauri][Fandom: 39 Tauri]]
 
 Related: [[id:26709ae8-3564-45dd-b8d1-67fd8666c0c9][Ad Pontes]].
 

@@ -1,9 +1,9 @@
 :PROPERTIES:
 :ID:       11398727-f238-463f-a360-f3c712dddaa2
+:ROAM_REFS: https://inara.cz/elite/commodity/10090/
 :END:
 #+title: Vega Slimweed
 #+filetags: :Commodity:rare:
 
 Sold as a rare commodity at [[id:b895d3e9-ee1e-4c88-91fc-999386c33bbb][Taylor City]], [[id:12db1b22-8d5c-482f-a91b-00021258a388][Vega]].
 
-Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10090/][Inara: Vega Slimweed]]

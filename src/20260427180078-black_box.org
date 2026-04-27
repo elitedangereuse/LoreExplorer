@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       582edea8-8f58-4188-b50a-bbb8ed3d20f4
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Black_Box
 :END:
 #+title: Black Box
 #+filetags: :Commodity:
@@ -15,6 +16,4 @@ profits on the black market.
 Category: Salvage
 Produced by: -
 Consumed by: -
-
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Black_Box][Fandom: Black Box]]
 

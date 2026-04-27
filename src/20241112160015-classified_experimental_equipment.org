@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       794c8962-b58d-40d2-be55-c7d3c98e0f30
+:ROAM_REFS: https://inara.cz/elite/commodity/10436/
 :END:
 #+title: Classified Experimental Equipment
 #+filetags: :Commodity:rare:
@@ -12,4 +13,3 @@ Secretive technology required by Salvation for mass anti-Xeno initiatives.
 
 Sold as a rare commodity at [[id:f10f7c83-9d29-470c-a640-1a3e5334b686][Heart of Taurus]], [[id:55088d83-4221-44fa-a9d5-6ebb0866c722][HIP 22460]].
 
-Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10436/][Inara: Classified Experimental Equipment]]

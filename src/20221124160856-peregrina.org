@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       3ea0a57b-8e74-4642-bb38-5152ddba646d
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Peregrina
 :END:
 #+title: Peregrina
 #+filetags: :Reputation:System:Permit:
@@ -13,8 +14,6 @@ system security forces. System trade consists of rumoured alien
 artefacts found in deep space, along with moderate mineral deposits
 in the system's inner asteroid belt.
 #+end_quote
-
-Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Peregrina][Fandom: Peregrina]]
 
 [[file:img/permit.png]]
 

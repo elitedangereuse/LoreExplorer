@@ -1,9 +1,9 @@
 :PROPERTIES:
 :ID:       b8b08502-ab7b-4271-959a-654f478d4274
+:ROAM_REFS: https://inara.cz/elite/commodity/10451/
 :END:
 #+title: Coral Sap
 #+filetags: :Commodity:
 
 Category: Salvage
 
-Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10451/][Inara: Coral Sap]]

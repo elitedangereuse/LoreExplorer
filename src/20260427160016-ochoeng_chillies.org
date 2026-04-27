@@ -1,9 +1,9 @@
 :PROPERTIES:
 :ID:       3a98da51-4f83-4e2c-bec6-9465893f11c1
+:ROAM_REFS: https://inara.cz/elite/commodity/10091/
 :END:
 #+title: Ochoeng Chillies
 #+filetags: :Commodity:rare:
 
 Sold as a rare commodity at [[id:ca789be4-bf3f-4bfd-a28e-6c30cf5db558][Roddenberry Gateway]], [[id:641d5a2f-9417-469c-a004-c9588ca558e8][Ochoeng]].
 
-Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10091/][Inara: Ochoeng Chillies]]

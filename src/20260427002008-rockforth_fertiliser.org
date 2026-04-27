@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       3ee8b83c-4db4-4b8b-a2ed-58bd4a44ef69
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Rockforth_Fertiliser
 :END:
 #+title: Rockforth Fertiliser
 #+filetags: :Commodity:
@@ -13,4 +14,3 @@ Category: Chemicals
 Produced by: None (discontinued)
 Consumed by: None
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Rockforth_Fertiliser][Fandom: Rockforth Fertiliser]]

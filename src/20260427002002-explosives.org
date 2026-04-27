@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       6a105d93-c0fd-4c15-8c62-d8feb5d76fdb
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Explosives
 :END:
 #+title: Explosives
 #+filetags: :Commodity:
@@ -13,4 +14,3 @@ Category: Chemicals
 Produced by: High Tech (Surface) and Refinery
 Consumed by: Extraction
 
-Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Explosives][Fandom: Explosives]]
