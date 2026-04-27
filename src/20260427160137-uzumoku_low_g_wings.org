@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       9558a37e-7386-4e64-bb9d-94f58c84a9fa
+:END:
+#+title: Uzumoku Low-G Wings
+#+filetags: :Commodity:rare:
+
+Sold as a rare commodity at [[id:45d5ee15-e54b-46e0-ade0-261e7d29eb97][Sverdrup Ring]], [[id:390b6967-1e7c-46f2-9c2d-7f64d9da1e71][Uzumoku]].
+
+Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10045/][Inara: Uzumoku Low-G Wings]]

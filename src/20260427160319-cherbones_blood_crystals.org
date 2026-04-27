@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       dd2afca1-1d12-48d8-bd7b-bb4cb5aec193
+:END:
+#+title: Cherbones Blood Crystals
+#+filetags: :Commodity:rare:
+
+Sold as a rare commodity at [[id:3a99325d-d671-4d23-a404-7adae58e832e][Chalker Landing]], [[id:2286edb5-7735-4283-bfee-0c8731d70f8f][Cherbones]].
+
+Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10047/][Inara: Cherbones Blood Crystals]]

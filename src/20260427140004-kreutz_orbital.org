@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       e0f179b4-48ca-4e2c-901c-e70307e05d20
+:END:
+#+title: Kreutz Orbital
+#+filetags: :Station:
+
+[[id:403703df-4fa7-43b8-9161-98e710a40c1a][Holva]]
+Rare commodity source: [[id:f01fefb4-2fdf-4a42-ba20-7e551b83ac7f][Holva Duelling Blades]].

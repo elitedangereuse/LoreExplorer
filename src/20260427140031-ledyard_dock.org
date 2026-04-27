@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       d84e5aa9-3f68-4a7b-b383-cfe20c7e2006
+:END:
+#+title: Ledyard Dock
+#+filetags: :Station:
+
+[[id:0d9b9e2e-df60-4958-9ad9-1f84adc07c5a][Mukusubii]]
+Rare commodity source: [[id:785ffb95-56e7-41b3-9cd9-d690d0bb5d6e][Mukusubii Chitin-os]].

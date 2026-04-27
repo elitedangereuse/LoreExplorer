@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       7171312f-a4d4-424f-88e8-946a43b6421e
+:END:
+#+title: Momus Bog Spaniel
+#+filetags: :Commodity:rare:
+
+Sold as a rare commodity at [[id:7ad2ec43-30fe-4977-89a7-7b54e494544d][Tartarus Point]], [[id:9d468ca0-07b6-49d5-83eb-bb89000e748a][Momus Reach]].
+
+Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10039/][Inara: Momus Bog Spaniel]]

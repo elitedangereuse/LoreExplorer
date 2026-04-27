@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       e7a23f31-d667-42b4-872a-595b614c51bd
+:END:
+#+title: Haiden Black Brew
+#+filetags: :Commodity:rare:
+
+#+begin_quote
+Brewed over a low heat for days, this tea is comprised of fine
+mineral shavings, rather than traditional leaves. This mineral based
+tea is high in salts and nutritious metals. Over consumption of this
+has been known to temporarily cause the drinker's skin to take a
+metallic hue. This rare good is legal in all systems. Please note
+that if a system's controlling faction changes, some formerly legal
+rare goods may become illegal in that system. If this happens, the
+rare goods in question will no longer be available for sale or
+purchase.
+#+end_quote
+
+Sold as a rare commodity at [[id:999729cc-1ddd-4ab2-b5fa-de5ab7d8aea3][Searfoss Enterprise]], [[id:187d97a8-e6e2-45e7-a37d-827c975bcba3][Haiden]].
+
+Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/10046/][Inara: Haiden Black Brew]]

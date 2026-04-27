@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       2ad9d91c-0e3a-4d7b-837e-4d2509907f4d
+:END:
+#+title: Elion Dock
+#+filetags: :Station:
+
+[[id:3b541e0f-dc88-4bf7-abc5-4b8f2b54c6d3][Kuma]]
+Rare commodity source: [[id:48abe2da-a817-4ee7-8f2e-62078a4583d2][Nanomedicines]].

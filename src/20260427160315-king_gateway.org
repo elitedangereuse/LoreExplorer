@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       68b94af6-c983-41a0-b9eb-558af3978929
+:END:
+#+title: King Gateway
+#+filetags: :Station:
+
+[[id:37bd5518-9ee4-4192-aa05-200b9970e650][LP 375-25]]
+Rare commodity source: [[id:f91791f3-716d-4aa4-9886-40605c9f5c00][Honesty Pills]].

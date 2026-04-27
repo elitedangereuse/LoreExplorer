@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       f01fefb4-2fdf-4a42-ba20-7e551b83ac7f
+:END:
+#+title: Holva Duelling Blades
+#+filetags: :Commodity:rare:
+
+#+begin_quote
+The finest blades money can buy. Putting art into death, forged from
+the purest alloys and available in a range of traditional and modern
+styles. Ceremonial and combat blades are available. This rare good
+is legal in all Anarchy and Dictatorship systems, all Imperial
+systems except for Prison Colony systems, Independent and Alliance
+co-operative, feudal, corporate and communist systems. Please note
+that if a system's controlling faction changes, some formerly legal
+rare goods may become illegal in that system. If this happens, the
+rare goods in question will no longer be available for sale or
+purchase.
+#+end_quote
+
+Sold as a rare commodity at [[id:e0f179b4-48ca-4e2c-901c-e70307e05d20][Kreutz Orbital]], [[id:403703df-4fa7-43b8-9161-98e710a40c1a][Holva]].
+
+Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/10101/][Inara: Holva Duelling Blades]]

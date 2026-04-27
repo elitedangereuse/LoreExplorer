@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       59c94ccf-0e62-4401-baf8-9325565cbc0e
+:END:
+#+title: CD-75 Kitten Brand Coffee
+#+filetags: :Commodity:rare:
+
+Sold as a rare commodity at [[id:5ff722cc-abe6-49b3-8379-f8817633297d][Kirk Dock]], [[id:642f772b-c257-4616-b31a-a2b17a58f068][CD-75 661]].
+
+Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10017/][Inara: CD-75 Kitten Brand Coffee]]

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       fe2bed9a-c1d4-4f1a-8708-6c51ef98865b
+:END:
+#+title: Porta
+#+filetags: :Station:
+
+[[id:7a442368-d9e1-420b-a2c4-a8900a94227d][39 Tauri]]
+Rare commodity source: [[id:6e85e07f-bf89-40bb-9555-b1ddc7748f9a][Tauri Chimes]].

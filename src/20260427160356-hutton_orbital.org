@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       9e3161ac-9252-44d0-a526-b6e289cf28ee
+:END:
+#+title: Hutton Orbital
+#+filetags: :Station:
+
+[[id:2de7ac5c-9ae0-4ebf-af7d-6505f05d2fd1][Alpha Centauri]]
+Rare commodity source: [[id:ff00bb13-596c-4813-ac8b-03592016b323][Centauri Mega Gin]].

@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       726ccb6b-cbbf-48ee-b1fd-73d56c186504
+:END:
+#+title: Azure Milk
+#+filetags: :Commodity:rare:
+
+Sold as a rare commodity at [[id:2e9a782a-b3d8-449f-83d4-f239d5e19a12][George Lucas]], [[id:e7c94b38-cdfb-48da-a1c4-cdad10c3371a][Leesti]].
+
+Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10040/][Inara: Azure Milk]]

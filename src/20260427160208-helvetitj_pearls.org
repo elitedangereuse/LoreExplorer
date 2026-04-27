@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       29b79535-24d4-4f11-8610-db75fcb2f2b7
+:END:
+#+title: Helvetitj Pearls
+#+filetags: :Commodity:rare:
+
+Sold as a rare commodity at [[id:f1046f0c-1d1d-41cf-89a3-852efe40ec95][Friend Orbital]], [[id:92430fae-eab3-4d8c-bc07-d35f43e684f6][Helvetitj]].
+
+Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10025/][Inara: Helvetitj Pearls]]

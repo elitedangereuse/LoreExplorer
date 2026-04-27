@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       2f3b4c97-2fe4-473a-8873-ec2ecababbe7
+:END:
+#+title: Karsuki Locusts
+#+filetags: :Commodity:rare:
+
+#+begin_quote
+Prized for their uniquely sweet flavour caused by the native fungal
+parasites that infest them. This rare good is legal in all systems.
+Please note that if a system's controlling faction changes, some
+formerly legal rare goods may become illegal in that system. If this
+happens, the rare goods in question will no longer be available for
+sale or purchase.
+#+end_quote
+
+Sold as a rare commodity at [[id:95f6a47b-1448-412e-8cd1-e1126b1d68e1][West Market]], [[id:64fab6f7-893e-436c-80f4-b42cde130147][Karsuki Ti]].
+
+Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/10093/][Inara: Karsuki Locusts]]

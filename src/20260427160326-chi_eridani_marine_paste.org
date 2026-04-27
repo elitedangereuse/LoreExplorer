@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2897709c-bf88-41e5-96e6-c9cf79ecb9a5
+:END:
+#+title: Chi Eridani Marine Paste
+#+filetags: :Commodity:rare:
+
+Sold as a rare commodity at [[id:87559b48-960d-4360-922d-c3ecdbb6fc67][Steve Masters]], [[id:bd662e2e-a844-4262-a32c-fcffd1171d8d][Chi Eridani]].
+
+Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10009/][Inara: Chi Eridani Marine Paste]]
+
+[[file:img/commodities/chi_eridani_marine_paste.jpg]]

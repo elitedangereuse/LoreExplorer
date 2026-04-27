@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       e5b9777c-045b-4b31-a3be-bb97fdb882b6
+:END:
+#+title: Kachirigin Filter Leeches
+#+filetags: :Commodity:rare:
+
+Sold as a rare commodity at [[id:ea4a52c1-3e2c-4830-a88f-bbf40ed2e280][Nowak Orbital]], [[id:2e2a8064-6ebf-4e7e-ba74-c5193a163fff][Kachirigin]].
+
+Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10068/][Inara: Kachirigin Filter Leeches]]

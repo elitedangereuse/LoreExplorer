@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       d3ed1aa7-a398-402d-8dbe-f894d623efac
+:END:
+#+title: Flagg Gateway
+#+filetags: :Station:
+
+[[id:eea05b31-de72-43b5-839a-fee530eab347][Rapa Bao]]
+Rare commodity source: [[id:bd7eac86-1a4a-4512-82aa-dd4c4f333922][Rapa Bao Snake Skins]].

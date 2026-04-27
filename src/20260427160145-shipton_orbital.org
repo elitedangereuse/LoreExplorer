@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       c8c36c35-b35e-4f06-875f-1f194367c0cc
+:END:
+#+title: Shipton Orbital
+#+filetags: :Station:
+
+[[id:e5b3e7dc-262b-4a7b-a0de-d4662d26a612][Arouca]]
+Rare commodity source: [[id:9ddf089e-c9fc-4804-a49d-d0fe6e45813d][Arouca Conventual Sweets]].

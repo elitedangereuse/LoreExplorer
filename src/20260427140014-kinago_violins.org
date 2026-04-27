@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       ca91eeda-5fee-4ae2-a5ba-468f0495f380
+:END:
+#+title: Kinago Violins
+#+filetags: :Commodity:rare:
+
+#+begin_quote
+Kinago is famed for its Luthiers producing the finest Violins and
+other stringed instruments. They are highly prized by both musicians
+and collectors throughout the galaxy. This rare good is legal in all
+systems. Please note that if a system's controlling faction changes,
+some formerly legal rare goods may become illegal in that system. If
+this happens, the rare goods in question will no longer be available
+for sale or purchase.
+#+end_quote
+
+Sold as a rare commodity at [[id:0ecd92bb-53be-4b6e-a35f-63e230c93c52][Fozard Ring]], [[id:9c78e040-d2f0-4c22-a771-961afa7c64f7][Kinago]].
+
+Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/10082/][Inara: Kinago Violins]]

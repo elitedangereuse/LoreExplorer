@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       0a2c8620-0422-431c-bec1-3c2fb935ee1d
+:END:
+#+title: Chameleon Cloth
+#+filetags: :Commodity:rare:
+
+Sold as a rare commodity at [[id:d1bbb3a3-0c1b-424f-b2cf-bb838150646b][Smith Reserve]], [[id:a0b96dfb-d301-4b19-a401-26e0b53450d2][LDS 883]].
+
+Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10109/][Inara: Chameleon Cloth]]

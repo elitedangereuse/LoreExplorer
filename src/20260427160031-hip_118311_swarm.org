@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       78ebb7c4-c6c3-4409-a01d-f22d0ba513e2
+:END:
+#+title: HIP 118311 Swarm
+#+filetags: :Commodity:rare:
+
+Sold as a rare commodity at [[id:8713c6c8-6950-47e3-a847-7b2dd875f371][Lubbock Market]], [[id:7d31f6ee-f620-4ad2-a4c4-2ab7c3daeef4][HIP 118311]].
+
+Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10150/][Inara: HIP 118311 Swarm]]

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       324af547-0452-4715-9e0c-96f8222e1f2c
+:END:
+#+title: Geawen Dance Dust
+#+filetags: :Commodity:rare:
+
+#+begin_quote
+There may be no sound in space, but Geawen Dance Dust will bring the
+music inside your cockpit, and inside your head. You literally won't
+be able to stop dancing! This rare good is legal in all markets
+except for Prison Colony and Theocracy markets; Allied and Federal
+Confederacy, Corporate, Democracy and Dictatorship markets; and
+Imperial Feudal markets. Please note that if a system's controlling
+faction changes, some formerly legal rare goods may become illegal
+in that system. Should this occur the rare good will be unavailable
+for sale or purchase at that market for the duration of the
+prohibiting faction's tenure.
+#+end_quote
+
+Sold as a rare commodity at [[id:1af2aca1-c6fe-4539-871c-b66edcafd2af][Obruchev Legacy]], [[id:f8a6996d-921e-430a-84d0-9c819ff4c5ff][Geawen]].
+
+Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/10083/][Inara: Geawen Dance Dust]]

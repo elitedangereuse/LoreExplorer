@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       e2408ae8-86cc-47df-a589-f8d880f5f2e4
+:END:
+#+title: Volkhab
+#+filetags: :System:
+
+Rare commodity source: [[id:afbde43d-1a6a-49db-b133-e74bd665b0ab][Volkhab Bee Drones]] at [[id:329f770e-f3ed-4bd2-bba4-af67c4c206b3][Vernadsky Dock]].

@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       56b7d09e-b3cf-42a5-bc4b-e6a65b5d1f03
+:END:
+#+title: Shan's Charis Orchid
+#+filetags: :Commodity:rare:
+
+Sold as a rare commodity at [[id:ecd07592-63b9-4dbe-a1b9-d8e19a1f8ed8][Baird Gateway]], [[id:d4b595af-536d-4575-af11-f07f3ac3ff40][Arque]].
+
+Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10149/][Inara: Shan's Charis Orchid]]

@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       9ddf089e-c9fc-4804-a49d-d0fe6e45813d
+:END:
+#+title: Arouca Conventual Sweets
+#+filetags: :Commodity:rare:
+
+Sold as a rare commodity at [[id:c8c36c35-b35e-4f06-875f-1f194367c0cc][Shipton Orbital]], [[id:e5b3e7dc-262b-4a7b-a0de-d4662d26a612][Arouca]].
+
+Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10051/][Inara: Arouca Conventual Sweets]]

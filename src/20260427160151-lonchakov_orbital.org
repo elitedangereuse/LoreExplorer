@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       6edf809d-3bc4-47e3-933d-51e0eb08a92e
+:END:
+#+title: Lonchakov Orbital
+#+filetags: :Station:
+
+[[id:bb84e100-cdad-4e4f-8e08-02974d97544d][Korro Kung]]
+Rare commodity source: [[id:893924eb-4dd9-4d2f-af63-43f499398088][Koro Kung Pellets]].

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       d09bce65-b43d-4ef6-ae45-a2b97089ae1d
+:END:
+#+title: Larbalestier Dock
+#+filetags: :Station:
+
+[[id:eafe7f9b-2eb9-4441-958d-9c2d5f67900f][Tiegfries]]
+Rare commodity source: [[id:a19148db-2e91-432a-acff-c9ce2967e822][Tiegfries Synth Silk]].

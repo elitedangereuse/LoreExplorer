@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       a8d0887c-745d-4977-9b0c-0aef936d67f5
+:END:
+#+title: Leathery Eggs
+#+filetags: :Commodity:rare:
+
+Sold as a rare commodity at [[id:07d8b7e4-3061-436a-9287-00d7be4201f4][Ridley Scott]], [[id:4c65480c-a87b-421b-a91a-f1f1f8ecb737][Zaonce]].
+
+Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10041/][Inara: Leathery Eggs]]

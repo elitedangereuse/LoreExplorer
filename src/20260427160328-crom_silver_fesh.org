@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       b310cff2-9ab5-4fae-a39c-bcda86cb75b5
+:END:
+#+title: Crom Silver Fesh
+#+filetags: :Commodity:rare:
+
+Sold as a rare commodity at [[id:eebf43dc-2eec-4f15-b26e-cad265954c52][Chorel Survey]], [[id:3418cf80-0ced-491f-a1f6-c31a08c0a80b][Crom]].
+
+Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10151/][Inara: Crom Silver Fesh]]

@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       a19148db-2e91-432a-acff-c9ce2967e822
+:END:
+#+title: Tiegfries Synth Silk
+#+filetags: :Commodity:rare:
+
+Sold as a rare commodity at [[id:d09bce65-b43d-4ef6-ae45-a2b97089ae1d][Larbalestier Dock]], [[id:eafe7f9b-2eb9-4441-958d-9c2d5f67900f][Tiegfries]].
+
+Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10170/][Inara: Tiegfries Synth Silk]]

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       e30c2cc8-e47c-43af-8246-33567e7c0033
+:END:
+#+title: Njangari Saddles
+#+filetags: :Commodity:rare:
+
+#+begin_quote
+The Saddlers of Njangari are renowned for their leather work, and
+their motto: No job to big or too invertebrate. Whether simple
+domestic supplies or custom saddles and tack for some of the more
+exotic species in the galaxy, they are the very best. This rare good
+is legal in all systems. Please note that if a system's controlling
+faction changes, some formerly legal rare goods may become illegal
+in that system. If this happens, the rare goods in question will no
+longer be available for sale or purchase.
+#+end_quote
+
+Sold as a rare commodity at [[id:7623b7d0-31bd-49c4-8a12-4fa20973c0f5][Lee Hub]], [[id:afc58615-aa93-4f8c-8422-fd9a60ba94b6][Njangari]].
+
+Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/10014/][Inara: Njangari Saddles]]

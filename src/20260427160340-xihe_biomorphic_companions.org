@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       d87e7cd1-ab29-4120-a3f8-a41ca1bf7e58
+:END:
+#+title: Xihe Biomorphic Companions
+#+filetags: :Commodity:rare:
+
+Sold as a rare commodity at [[id:a12cf166-a62a-461b-b321-8d4eb6814b5c][Zhen Dock]], [[id:90e2bd06-c61d-4e91-903b-e578f2b0a8ad][Xihe]].
+
+Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10010/][Inara: Xihe Biomorphic Companions]]

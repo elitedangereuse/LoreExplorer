@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       0ca21b16-f85b-4e7c-9389-6196d4f52ef1
+:END:
+#+title: Ceremonial Heike Tea
+#+filetags: :Commodity:rare:
+
+Sold as a rare commodity at [[id:01253853-00a5-4182-b048-84d4735be964][Brunel City]], [[id:48e6169f-7078-4a26-a8e8-e2e688238e55][Heike]].
+
+Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10011/][Inara: Ceremonial Heike Tea]]

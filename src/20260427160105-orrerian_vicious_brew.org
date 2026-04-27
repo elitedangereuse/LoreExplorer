@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       fc39201e-c6b8-42f3-b2a7-d88fc564ee2a
+:END:
+#+title: Orrerian Vicious Brew
+#+filetags: :Commodity:rare:
+
+Sold as a rare commodity at [[id:50eee33d-b20c-4b29-8934-f8d2b4ef599c][Sharon Lee Free Market]], [[id:c4c312cb-b838-47aa-8067-18710bbba82b][Orrere]].
+
+Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10035/][Inara: Orrerian Vicious Brew]]

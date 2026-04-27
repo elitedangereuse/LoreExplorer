@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6e1b2c53-b60a-4663-8390-1bbaa39ebce3
+:END:
+#+title: Thrutis Cream
+#+filetags: :Commodity:rare:
+
+Sold as a rare commodity at [[id:0a3da312-062b-472d-be32-60dd74de1618][Kingsbury Dock]], [[id:3c840745-956e-458e-90a9-4e1096425a0f][Thrutis]].
+
+Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10005/][Inara: Thrutis Cream]]
+
+[[file:img/commodities/thrutis_cream.jpg]]

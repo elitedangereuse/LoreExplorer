@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       893924eb-4dd9-4d2f-af63-43f499398088
+:END:
+#+title: Koro Kung Pellets
+#+filetags: :Commodity:rare:
+
+Sold as a rare commodity at [[id:6edf809d-3bc4-47e3-933d-51e0eb08a92e][Lonchakov Orbital]], [[id:bb84e100-cdad-4e4f-8e08-02974d97544d][Korro Kung]].
+
+Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10080/][Inara: Koro Kung Pellets]]

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       afbde43d-1a6a-49db-b133-e74bd665b0ab
+:END:
+#+title: Volkhab Bee Drones
+#+filetags: :Commodity:rare:
+
+#+begin_quote
+Guaranteed pollination every time! These miniature drones are
+supplied in the thousands to ensure crops are fertilised whatever
+the conditions. Unlike natural bees, they can be used in conjunction
+with pesticides and can be supplied pre-coated with a choice of
+growth agents! This rare good is legal in all systems except for
+Independent and Alliance Co-operative systems. Please note that if a
+system's controlling faction changes, some formerly legal rare goods
+may become illegal in that system. If this happens, the rare goods
+in question will no longer be available for sale or purchase.
+#+end_quote
+
+Sold as a rare commodity at [[id:329f770e-f3ed-4bd2-bba4-af67c4c206b3][Vernadsky Dock]], [[id:e2408ae8-86cc-47df-a589-f8d880f5f2e4][Volkhab]].
+
+Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/10085/][Inara: Volkhab Bee Drones]]

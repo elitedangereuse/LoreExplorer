@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       618b671b-2863-4735-b7ef-30e5851e99a7
+:END:
+#+title: Anduliga Fire Works
+#+filetags: :Commodity:rare:
+
+#+begin_quote
+For earth shattering displays that will blow your mind. Perfect for
+atmospheric use, or deployment from orbit! Official suppliers to the
+Imperial Family. This rare good is legal in all systems. Please note
+that if a system's controlling faction changes, some formerly legal
+rare goods may become illegal in that system. If this happens, the
+rare goods in question will no longer be available for sale or
+purchase.
+#+end_quote
+
+Sold as a rare commodity at [[id:53a0db77-20c6-48ca-9b60-1b6b2c64f153][Celsius Estate]], [[id:9368cc59-3e4d-4693-b5a7-e28b72c03da7][Anduliga]].
+
+Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/10052/][Inara: Anduliga Fire Works]]

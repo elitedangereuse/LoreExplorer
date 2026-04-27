@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       6b74115a-c90a-4c65-b2c1-e1b88088d100
+:END:
+#+title: Banki Amphibious Leather
+#+filetags: :Commodity:rare:
+
+Sold as a rare commodity at [[id:ec0245ae-42bf-4932-9fab-ce2b5e587d4a][Antonio de Andrade Vista]], [[id:73ee5f36-58a2-4d34-ac47-ee4f3bfdb479][Banki]].
+
+Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10049/][Inara: Banki Amphibious Leather]]

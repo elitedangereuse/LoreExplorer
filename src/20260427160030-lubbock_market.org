@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       8713c6c8-6950-47e3-a847-7b2dd875f371
+:END:
+#+title: Lubbock Market
+#+filetags: :Station:
+
+[[id:7d31f6ee-f620-4ad2-a4c4-2ab7c3daeef4][HIP 118311]]
+Rare commodity source: [[id:78ebb7c4-c6c3-4409-a01d-f22d0ba513e2][HIP 118311 Swarm]].

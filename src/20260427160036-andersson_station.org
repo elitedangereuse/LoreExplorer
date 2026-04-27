@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       adf16b4f-60eb-4849-82ee-4e6d5401abed
+:END:
+#+title: Andersson Station
+#+filetags: :Station:
+
+[[id:cd7894ad-5bc7-4c15-b7c8-67120da11394][HIP 41181]]
+Rare commodity source: [[id:4bc54a65-1728-4a5a-8582-d649c30b79b0][HIP Proto-Squid]].

@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       df1c2f61-1ad4-4c00-b6ff-dcfaa15614d7
+:END:
+#+title: Galactic Travel Guide
+#+filetags: :Commodity:rare:
+
+Sold as a rare commodity at [[id:64e5b644-cc28-4586-a4a4-32dc226447bd][Bluford Orbital]], [[id:951f5c68-2395-4eb9-af43-b26172d0fe64][LHS 3447]].
+
+Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10143/][Inara: Galactic Travel Guide]]

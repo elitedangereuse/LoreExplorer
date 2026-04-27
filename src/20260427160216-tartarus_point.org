@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       7ad2ec43-30fe-4977-89a7-7b54e494544d
+:END:
+#+title: Tartarus Point
+#+filetags: :Station:
+
+[[id:9d468ca0-07b6-49d5-83eb-bb89000e748a][Momus Reach]]
+Rare commodity source: [[id:7171312f-a4d4-424f-88e8-946a43b6421e][Momus Bog Spaniel]].

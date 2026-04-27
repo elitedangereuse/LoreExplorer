@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       d7a26c60-6f3a-4b08-af63-132e087aba9f
+:END:
+#+title: Kaku Plant
+#+filetags: :Station:
+
+[[id:a36be18b-42c7-4302-a6ad-73cf185276e8][V1090 Herculis]]
+Rare commodity source: [[id:5edd6323-8984-4db3-92ad-646581607282][V Herculis Body Rub]].

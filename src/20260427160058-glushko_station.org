@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       bdd9c3dc-92ed-48f6-9d9c-d02e5025879d
+:END:
+#+title: Glushko Station
+#+filetags: :Station:
+
+[[id:61109eb0-90e2-4f43-90a2-57885da70b37][47 Ceti]]
+Rare commodity source: [[id:b2d9a4f3-2d2d-4b9e-8243-0746b75f135e][Aepyornis Egg]].

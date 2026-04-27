@@ -2,4 +2,9 @@
 :ID:       1c68e942-6f27-44f7-a8a5-b458c544a9fd
 :END:
 #+title: Toxandji Virocide
+#+filetags: :Commodity:rare:
 a rare pesticide
+
+Sold as a rare commodity at [[id:None][Tsunenaga Orbital]], [[id:None][Toxandji]].
+
+Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10007/][Inara: Toxandji Virocide]]

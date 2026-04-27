@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       da9e2739-0cc4-4c93-84a1-a712d3a3c2c2
+:END:
+#+title: McCool City
+#+filetags: :Station:
+
+[[id:9db35fb1-9348-4aef-9299-35329ee625db][Jaroua]]
+Rare commodity source: [[id:63f9f7ae-ded8-4e6e-99da-3f9a7528c2cb][Jaroua Rice]].

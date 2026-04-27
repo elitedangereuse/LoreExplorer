@@ -2,4 +2,9 @@
 :ID:       ffcc8c23-1721-41cb-9cb7-c849292c8b38
 :END:
 #+title: Indi Bourbon
+#+filetags: :Commodity:rare:
 
+
+Sold as a rare commodity at [[id:None][Mansfield Orbiter]], [[id:d40886f3-bc59-4f0d-8926-b125ee01c9bb][Epsilon Indi]].
+
+Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10042/][Inara: Indi Bourbon]]

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       10b9df10-b4c7-449a-9c50-4ad011256417
+:END:
+#+title: Lave Station
+#+filetags: :Station:
+
+[[id:ff595332-6a13-4f69-ae2f-cc0a0df8e741][Lave]]
+Rare commodity source: [[id:5efc49f5-465f-4dd8-afaa-b6bb3595a58c][Lavian Brandy]].

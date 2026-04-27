@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       69e5be4c-a4b1-426b-960d-ac7da76a8f9f
+:END:
+#+title: Witchhaul Kobe Beef
+#+filetags: :Commodity:rare:
+
+Sold as a rare commodity at [[id:89f25610-9970-41e9-a3af-79f204ce2874][Hornby Terminal]], [[id:46c82f88-87ed-457c-ab7b-b47543054e81][Witchhaul]].
+
+Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10072/][Inara: Witchhaul Kobe Beef]]

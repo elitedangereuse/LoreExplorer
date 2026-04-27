@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       4dd61eb4-b03d-418c-b98b-45bd48cc479c
+:END:
+#+title: Ophiuch Exino Artefacts
+#+filetags: :Commodity:rare:
+
+Sold as a rare commodity at [[id:91d197b1-5e04-4e58-b115-d6cbc16889b3][Katzenstein Dock]], [[id:8bb09322-6b6f-4bae-b866-932c6ae3dcb3][36 Ophiuchi]].
+
+Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10139/][Inara: Ophiuch Exino Artefacts]]

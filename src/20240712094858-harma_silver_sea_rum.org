@@ -2,4 +2,9 @@
 :ID:       601af329-a452-4318-bab8-6658d8d6311b
 :END:
 #+title: Harma Silver Sea Rum
+#+filetags: :Commodity:rare:
 
+
+Sold as a rare commodity at [[id:None][Gabriel Enterprise]], [[id:None][Harma]].
+
+Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10232/][Inara: Harma Silver Sea Rum]]

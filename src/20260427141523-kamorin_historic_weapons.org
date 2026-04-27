@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       2aba5258-ea59-4dd9-ab2d-c472303f74a2
+:END:
+#+title: Kamorin Historic Weapons
+#+filetags: :Commodity:rare:
+
+#+begin_quote
+Kamorin Historic Weapons are happy to provide the re-enactor and
+enthusiast with fully-functional replicas of weapons from a number
+of important historical eras. Our expert team of craftsmen use
+traditional materials and methods, with a modern eye for quality.
+Exploring and researching the annals of history, our artisans
+continue to bring you the best of weapons from throughout the ages.
+This rare good is legal in all Anarchy, Feudal and Dictatorship
+systems except for Imperial. Imperial and Independent Confederacy
+systems, Independent and Alliance, Co-operative, Corporate and
+Communist systems. Please note that if a system's controlling
+faction changes, some formerly legal rare goods may become illegal
+in that system. If this happens, the rare goods in question will no
+longer be available for sale or purchase.
+#+end_quote
+
+Sold as a rare commodity at [[id:84533c66-4ffc-452d-913b-f76dcb54b4cd][Godwin Vision]], [[id:e342b5c4-181b-407d-8169-e953193f325a][Kamorin]].
+
+Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/10064/][Inara: Kamorin Historic Weapons]]

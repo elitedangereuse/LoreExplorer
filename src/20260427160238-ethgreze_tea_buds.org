@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d80776d9-21ee-42d9-a112-de75ff3ca03d
+:END:
+#+title: Ethgreze Tea Buds
+#+filetags: :Commodity:rare:
+
+Sold as a rare commodity at [[id:5d00eb7b-8e82-4d15-93ec-0a165b3499e7][Bloch Station]], [[id:756fb621-66c7-4a09-b658-5cd77e7601b4][Ethgreze]].
+
+Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10003/][Inara: Ethgreze Tea Buds]]
+
+[[file:img/commodities/ethgreze_tea_buds.jpg]]

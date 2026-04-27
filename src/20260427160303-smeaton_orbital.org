@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       37ede061-3f2b-4320-ab59-6e86ae672120
+:END:
+#+title: Smeaton Orbital
+#+filetags: :Station:
+
+[[id:99cc45a8-6c57-4155-b50f-2deb8383eb51][LTT 9360]]
+Rare commodity source: [[id:a0d6e577-9e49-487f-ab87-28675c43cc38][LTT Hyper Sweet]].

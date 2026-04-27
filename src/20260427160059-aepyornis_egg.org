@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       b2d9a4f3-2d2d-4b9e-8243-0746b75f135e
+:END:
+#+title: Aepyornis Egg
+#+filetags: :Commodity:rare:
+
+Sold as a rare commodity at [[id:bdd9c3dc-92ed-48f6-9d9c-d02e5025879d][Glushko Station]], [[id:61109eb0-90e2-4f43-90a2-57885da70b37][47 Ceti]].
+
+Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10110/][Inara: Aepyornis Egg]]

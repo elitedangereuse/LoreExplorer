@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       c66e437c-9690-4cee-a39b-d12f67bf4ff7
+:END:
+#+title: Deuringas Truffles
+#+filetags: :Commodity:rare:
+
+#+begin_quote
+More of a lichen than the fungus that they resemble. They have a
+similar musty flavour to ancient Earth truffles, but the process of
+metabolising Deuringas's metal-rich rocks leaves trace amounts of
+metals on its surface - which is why Deuringas truffles must be
+shaved in preparation for eating. This rare good is legal in all
+systems. Please note that if a system's controlling faction changes,
+some formerly legal rare goods may become illegal in that system. If
+this happens, the rare goods in question will no longer be available
+for sale or purchase.
+#+end_quote
+
+Sold as a rare commodity at [[id:27447159-0f33-4987-b388-be8607b8786c][Shukor Hub]], [[id:5b3c04bb-5fb0-4b19-a560-35860fe5c464][Deuringas]].
+
+Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/10086/][Inara: Deuringas Truffles]]

@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       1f56101f-de1d-4b48-beb3-7531ac5f494e
+:END:
+#+title: Tarach Tor
+#+filetags: :System:
+
+Rare commodity source: [[id:a8b071fa-4bd3-4c0a-ac07-c6269cf9f05c][Tarach Spice]] at [[id:d1fd2105-4b60-4892-8684-f18dde0c3097][Tranquillity]].

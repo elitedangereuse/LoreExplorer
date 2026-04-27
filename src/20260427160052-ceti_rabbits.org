@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       7518d154-868f-4712-961e-771c74e5a2e4
+:END:
+#+title: Ceti Rabbits
+#+filetags: :Commodity:rare:
+
+Sold as a rare commodity at [[id:69672562-222d-439e-bf0a-a9b27f0e4358][Kaufmanis Hub]], [[id:61109eb0-90e2-4f43-90a2-57885da70b37][47 Ceti]].
+
+Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10108/][Inara: Ceti Rabbits]]

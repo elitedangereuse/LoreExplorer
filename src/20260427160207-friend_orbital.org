@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       f1046f0c-1d1d-41cf-89a3-852efe40ec95
+:END:
+#+title: Friend Orbital
+#+filetags: :Station:
+
+[[id:92430fae-eab3-4d8c-bc07-d35f43e684f6][Helvetitj]]
+Rare commodity source: [[id:29b79535-24d4-4f11-8610-db75fcb2f2b7][Helvetitj Pearls]].

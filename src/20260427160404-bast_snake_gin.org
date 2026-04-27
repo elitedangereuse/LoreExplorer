@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0916a343-131f-4d05-a914-74387232cece
+:END:
+#+title: Bast Snake Gin
+#+filetags: :Commodity:rare:
+
+Sold as a rare commodity at [[id:24aa4f9c-26d5-4628-ba4b-13c370a13a77][Hart Station]], [[id:ba9787a7-583f-4fb0-b9e1-3c0c0096b485][Bast]].
+
+Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10008/][Inara: Bast Snake Gin]]
+
+[[file:img/commodities/bast_snake_gin.jpg]]

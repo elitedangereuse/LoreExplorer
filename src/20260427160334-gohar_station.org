@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       147326a0-07fe-464b-963f-e65d0425111f
+:END:
+#+title: Gohar Station
+#+filetags: :Station:
+
+[[id:db34b758-4c1c-4226-8e81-8d383fa3e8d7][Jaradharre]]
+Rare commodity source: [[id:8cb78a56-6868-420c-8c5c-7f2b67f4c02c][Jaradharre Puzzle Box]].

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       996a3f90-87d1-42bb-a2f9-9d83a15d4976
+:END:
+#+title: Burnham Beacon
+#+filetags: :Station:
+
+[[id:0aa9e721-b00b-4be6-b08f-45c88ef5e00e][HIP 59533]]
+Rare commodity source: [[id:221834bd-28f1-4d70-af5b-3d8558884da0][Burnham Bile Distillate]].

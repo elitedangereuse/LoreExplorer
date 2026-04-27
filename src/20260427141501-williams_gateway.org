@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       f2ac72e4-5d13-458a-a5f2-16a4a8b5530e
+:END:
+#+title: Williams Gateway
+#+filetags: :Station:
+
+[[id:5fe633c8-3bc0-4739-a60a-f9eb5d8b15ab][Wulpa]]
+Rare commodity source: [[id:101da29b-8f10-4b74-b293-927603ef7cc0][Wulpa Hyperbore Systems]].

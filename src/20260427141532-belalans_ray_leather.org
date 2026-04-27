@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       33cded4e-58f2-4189-9dc4-079635e7ff37
+:END:
+#+title: Belalans Ray Leather
+#+filetags: :Commodity:rare:
+
+#+begin_quote
+Due to the particular chemical conditions of the water on Belalans,
+the rays have a particularly soft skin. This rare good is legal in
+all systems. Please note that if a system's controlling faction
+changes, some formerly legal rare goods may become illegal in that
+system. If this happens, the rare goods in question will no longer
+be available for sale or purchase.
+#+end_quote
+
+Sold as a rare commodity at [[id:808a14f7-1956-40ae-a576-19d9ba80703d][Boscovich Ring]], [[id:87114875-7bb2-43a3-96dd-5730a44362ae][Belalans]].
+
+Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/10012/][Inara: Belalans Ray Leather]]

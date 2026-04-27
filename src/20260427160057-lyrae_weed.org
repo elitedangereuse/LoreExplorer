@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       f7bd1d79-2444-4ca9-aed8-a4a9cf95b614
+:END:
+#+title: Lyrae Weed
+#+filetags: :Commodity:rare:
+
+Sold as a rare commodity at [[id:400207e9-2157-4bbd-9270-67c337c63bcd][Budrys Ring]], [[id:cf8ed057-0701-4063-bcc5-e33cb7b9de79][16 Lyrae]].
+
+Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10171/][Inara: Lyrae Weed]]

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       2975f218-0a6b-4d23-bec4-435f0fcbe99e
+:END:
+#+title: Futen Spaceport
+#+filetags: :Station:
+
+[[id:935d144b-20f6-4a2e-b9b2-210639266a6e][Fujin]]
+Rare commodity source: [[id:dc510c47-e26d-4486-9ddd-b2a4d46811fb][Fujin Tea]].

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       2cb2cbb2-b443-4f91-94dc-779c4d5dd1b0
+:END:
+#+title: Trading Post
+#+filetags: :Station:
+
+[[id:3ce92806-7e34-49f1-9dd0-a0ab2eb7277c][Delta Phoenicis]]
+Rare commodity source: [[id:160c1b69-593a-48e1-a464-08addd9ab01c][Delta Phoenicis Palms]].
