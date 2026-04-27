@@ -10,8 +10,6 @@ A sample of the mycelium of a space-based mollusc.
 
 Category: Salvage
 Produced by: Reel Mollusc Umbrella Mollusc
-Consumed by: }}
+Consumed by: -
 
 Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Mollusc_Mycelium][Fandom: Mollusc Mycelium]]
-
-Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10253/][Inara: Mollusc Mycelium]]

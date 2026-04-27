@@ -15,4 +15,3 @@ Consumed by: Colony (Surface), Extraction (Surface), High Tech (Surface), Milita
 
 Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Thermal_Cooling_Units][Fandom: Thermal Cooling Units]]
 
-Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/105/][Inara: Thermal Cooling Units]]

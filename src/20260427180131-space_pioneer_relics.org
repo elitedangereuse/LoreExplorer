@@ -11,8 +11,6 @@ research.
 
 Category: Salvage
 Produced by: Salvage
-Consumed by: }}
+Consumed by: -
 
 Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Space_Pioneer_Relics][Fandom: Space Pioneer Relics]]
-
-Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10164/][Inara: Space Pioneer Relics]]

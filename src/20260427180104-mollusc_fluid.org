@@ -10,8 +10,6 @@ A fluid sample from a space-based mollusc.
 
 Category: Salvage
 Produced by: Bulb Mollusc Capsule Mollusc
-Consumed by: }}
+Consumed by: -
 
 Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Mollusc_Fluid][Fandom: Mollusc Fluid]]
-
-Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10255/][Inara: Mollusc Fluid]]

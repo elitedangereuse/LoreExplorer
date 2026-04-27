@@ -16,4 +16,3 @@ Consumed by: | image = Bauxite.png
 
 Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Bauxite][Fandom: Bauxite]]
 
-Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/51/][Inara: Bauxite]]

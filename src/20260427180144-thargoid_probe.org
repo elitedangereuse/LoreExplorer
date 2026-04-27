@@ -11,8 +11,6 @@ pulse that can temporarily incapacitate a starship.
 
 Category: Salvage
 Produced by: |consumer =
-Consumed by: }}
+Consumed by: -
 
 Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Thargoid_Probe][Fandom: Thargoid Probe]]
-
-Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/186/][Inara: Thargoid Probe]]

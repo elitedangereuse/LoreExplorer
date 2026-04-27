@@ -10,8 +10,6 @@ Geological samples used for scientific and commercial purposes.
 
 Category: Salvage
 Produced by: Salvage
-Consumed by: }}
+Consumed by: -
 
 Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Geological_Samples][Fandom: Geological Samples]]
-
-Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/174/][Inara: Geological Samples]]

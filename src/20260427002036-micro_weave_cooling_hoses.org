@@ -9,8 +9,8 @@ High specification cooling hoses used as conduits for fluid or gas
 based thermal management systems.
 #+end_quote
 
-Category: Industrial Materials
-Produced by: Mission reward
-Consumed by: -
+Category: Industrial material
+Produced by: Mission Rewards
+Consumed by: Industrial and Military
 
-Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/185/][Inara: Micro-weave Cooling Hoses]]
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Micro-Weave_Cooling_Hoses][Fandom: Micro-Weave Cooling Hoses]]

@@ -12,8 +12,6 @@ date for information retrieval or their contents become unusable.
 
 Category: Salvage
 Produced by: Salvage
-Consumed by: }}
+Consumed by: -
 
 Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Unstable_Data_Core][Fandom: Unstable Data Core]]
-
-Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/176/][Inara: Unstable Data Core]]

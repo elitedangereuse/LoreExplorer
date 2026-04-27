@@ -4,6 +4,14 @@
 #+title: Thargoid Bio-storage Capsule
 #+filetags: :Commodity:
 
-Category: Salvage
+#+begin_quote
+A pod-like object extracted from a Thargoid ship. The item houses a
+human bio-signature which appears to be sustained via an artificial
+life support system.
+#+end_quote
 
-Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10450/][Inara: Thargoid Bio-storage Capsule]]
+Category: Salvage
+Produced by: Salvage
+Consumed by: |image=Thargoid Bio-Storage Capsule Front 1.jpg}}{{Quote|A pod-like object extracted from a Thargoid ship. The item houses a human bio-signature which appears to be sustained via an artificial life support system.|In-Game Description}}
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Thargoid_Bio-Storage_Capsule][Fandom: Thargoid Bio-Storage Capsule]]

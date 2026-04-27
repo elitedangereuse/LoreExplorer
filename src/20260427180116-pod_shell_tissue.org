@@ -10,8 +10,6 @@ A sample of tissue from the shell of a space-based seed pod.
 
 Category: Salvage
 Produced by: Gyre Pod
-Consumed by: }}
+Consumed by: -
 
 Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Pod_Shell_Tissue][Fandom: Pod Shell Tissue]]
-
-Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10261/][Inara: Pod Shell Tissue]]

@@ -17,4 +17,3 @@ Consumed by: -
 
 Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Large_Survey_Data_Cache][Fandom: Large Survey Data Cache]]
 
-Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/125/][Inara: Large Survey Data Cache]]

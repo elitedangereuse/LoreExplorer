@@ -5,9 +5,12 @@
 #+filetags: :Commodity:
 
 #+begin_quote
-High speed, low cost fabricators that can build almost any design out of basic resources.
+High speed, low cost fabricators that can build almost any design
+out of basic resources.
 #+end_quote
 
 Category: Technology
+Produced by: High Tech
+Consumed by: Industrial
 
-Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/65/][Inara: Auto-Fabricators]]
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Auto_Fabricators][Fandom: Auto Fabricators]]

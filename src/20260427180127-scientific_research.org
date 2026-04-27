@@ -11,8 +11,6 @@ scientific experiments and observations.
 
 Category: Salvage
 Produced by: Salvage
-Consumed by: }}
+Consumed by: -
 
 Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Scientific_Research][Fandom: Scientific Research]]
-
-Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/178/][Inara: Scientific Research]]

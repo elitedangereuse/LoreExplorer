@@ -13,8 +13,6 @@ the generation of extravagant status symbols.
 
 Category: Salvage
 Produced by: Salvage
-Consumed by: }}
+Consumed by: -
 
 Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Precious_Gems][Fandom: Precious Gems]]
-
-Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10165/][Inara: Precious Gems]]

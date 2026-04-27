@@ -17,4 +17,3 @@ Consumed by: -
 
 Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Encrypted_Data_Storage][Fandom: Encrypted Data Storage]]
 
-Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/173/][Inara: Encrypted Data Storage]]

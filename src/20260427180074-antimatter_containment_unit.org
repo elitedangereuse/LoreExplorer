@@ -11,8 +11,6 @@ gamma radiation and interaction with standard matter.
 
 Category: Salvage
 Produced by: Salvage
-Consumed by: }}
+Consumed by: -
 
 Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Antimatter_Containment_Unit][Fandom: Antimatter Containment Unit]]
-
-Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10167/][Inara: Antimatter Containment Unit]]

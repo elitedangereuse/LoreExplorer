@@ -17,4 +17,3 @@ Consumed by: -
 
 Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Trade_Data][Fandom: Trade Data]]
 
-Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/134/][Inara: Trade Data]]

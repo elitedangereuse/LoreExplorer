@@ -13,8 +13,6 @@ exceedingly large sum from the right buyer.
 
 Category: Salvage
 Produced by: Salvage
-Consumed by: }}
+Consumed by: -
 
 Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Military_Intelligence][Fandom: Military Intelligence]]
-
-Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/126/][Inara: Military Intelligence]]

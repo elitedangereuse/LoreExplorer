@@ -17,4 +17,3 @@ Consumed by: Any except Agricultural, Refinery, Extraction, Military
 
 Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Platinum][Fandom: Platinum]]
 
-Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/81/][Inara: Platinum]]
