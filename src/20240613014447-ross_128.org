@@ -3,5 +3,15 @@
 :END:
 #+title: Ross 128
 
+#+begin_quote
+Prisoners are housed in underground cell complexes, and set to do
+manual mining work. Visitors are allowed, but an entry permit must
+first be obtained. There is reputed to be a seedier side to the
+colony whereby lonely visitors may enter without a permit while the
+guards turn a blind eye for a fee, but this is always denied.
+#+end_quote
+
+Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Ross_128][Fandom: Ross 128]]
+
 #+filetags: :System:Permit:
 [[file:img/permit.png]]

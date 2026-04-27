@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       f57e9f36-6df5-484e-8b70-6cb546c7d6e4
+:END:
+#+title: Hydrogen Peroxide
+#+filetags: :Commodity:
+
+#+begin_quote
+Hydrogen Peroxide, H2O2, is the simplest peroxide and has a number
+of uses as a reacting agent in chemical processes.
+#+end_quote
+
+Category: Chemicals
+Produced by: Mining
+Consumed by: Refinery, Industrial
+
+Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/138/][Inara: Hydrogen Peroxide]]

@@ -3,6 +3,14 @@
 :END:
 #+title: Hors
 #+filetags: :Federation:Rank:Permit:System:
+
+#+begin_quote
+The Brightlight Training Corporation headquarters can be found in
+this small Federal service system.'Your learning is our business.'
+#+end_quote
+
+Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Hors][Fandom: Hors]]
+
 [[file:img/permit.png]]
 
 Rank: Post Commander

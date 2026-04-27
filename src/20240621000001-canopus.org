@@ -4,3 +4,8 @@
 #+title: Canopus
 #+filetags: :System:
 
+#+begin_quote
+Also known as Alpha Carinae.
+#+end_quote
+
+Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Canopus][Fandom: Canopus]]

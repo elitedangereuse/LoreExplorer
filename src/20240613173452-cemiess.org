@@ -4,3 +4,13 @@
 #+title: Cemiess
 #+filetags: :System:
 
+#+begin_quote
+The system relies heavily on slavery to maintain the luxurious
+lifestyle of the very wealthy elite. Most live on the great
+plantations, common throughout the Imperial worlds. The cities house
+the workers for the service industries and more exotic
+entertainments. The magnificent palace where Aisling Duval lives is
+situated in this system.
+#+end_quote
+
+Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Cemiess][Fandom: Cemiess]]

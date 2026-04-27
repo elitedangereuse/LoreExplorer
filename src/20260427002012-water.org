@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       6a0424e6-c3dd-486d-a6cb-5db4902ee9a8
+:END:
+#+title: Water
+#+filetags: :Commodity:
+
+#+begin_quote
+H2O. A chemical compound that is vital to human life and useful in a
+number of industrial processes.
+#+end_quote
+
+Category: Chemicals
+Produced by: Agriculture
+Consumed by: Extraction, Industrial, High Tech, Military, Refinery, Service, Tourism, Terraforming, Colony
+
+Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/139/][Inara: Water]]

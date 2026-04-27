@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       8b752c8f-5d1b-4b48-b52a-7f3f665d167d
+:END:
+#+title: Surface Stabilisers
+#+filetags: :Commodity:
+
+#+begin_quote
+Unique polymer that is injected into the surrounding rock providing
+a stable environment for construction.
+#+end_quote
+
+Category: Chemicals
+Produced by: Refinery (Surface)
+Consumed by: Agriculture, Extraction, Industrial, High Tech, Military, Refinery, Service, Tourism, Terraforming, Colony
+
+Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/97/][Inara: Surface Stabilisers]]

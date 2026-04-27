@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       1bac9728-38d6-44a7-a0b5-37c3dc49e2af
+:END:
+#+title: Tobacco
+#+filetags: :Commodity:
+
+#+begin_quote
+A naturally occurring plant the leaves of which, when dried and
+shredded, are a source of nicotine, a mild and expensive organic
+narcotic. Usually chewed or smoked, and used in ancient rituals.
+Illegal in many jurisdictions.
+#+end_quote
+
+Category: Legal Drugs
+Produced by: Agriculture
+Consumed by: -
+
+Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/13/][Inara: Tobacco]]

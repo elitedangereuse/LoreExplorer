@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       72182400-abc1-48a5-a9ed-071d04178acb
+:END:
+#+title: Mineral Oil
+#+filetags: :Commodity:
+
+#+begin_quote
+This is an organic oil that is a useful raw ingredient for producing
+a wide range of synthetic materials from plastics to ceramics. It is
+derived from the decay of organic materials, and can often be found
+beneath the ground on outdoor worlds. Surprisingly, mineral oil was
+burnt for energy on ancient Earth.
+#+end_quote
+
+Category: Chemicals
+Produced by: Agriculture
+Consumed by: Refinery
+
+Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/5/][Inara: Mineral Oil]]

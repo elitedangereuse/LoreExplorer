@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       6a105d93-c0fd-4c15-8c62-d8feb5d76fdb
+:END:
+#+title: Explosives
+#+filetags: :Commodity:
+
+#+begin_quote
+Chemical explosives are used extensively in extraction to gain
+access to valuable mineral deposits.
+#+end_quote
+
+Category: Chemicals
+Produced by: High Tech, Refinery
+Consumed by: Extraction
+
+Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/3/][Inara: Explosives]]

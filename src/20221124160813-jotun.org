@@ -3,6 +3,22 @@
 :END:
 #+title: Jotun
 #+filetags: :Empire:Reputation:System:Permit:
+
+#+begin_quote
+A barren system with rich asteroid mineral deposits and one
+hospitable world. An ice planet, Fafner, has the distinction of
+possessing a top soil free from crop pathogens when kept below 2C.
+However, the indigenous vegetation is slow-growing. Its most
+expensive export is the 'mookah', a small soft-furred quadruped that
+stains its multi-coloured fur sludge brown when it dies - something
+it does easily unless regularly stroked. The meat is extremely
+bitter, but they have found a niche as an expensive pet. Most trade
+is done with the Imperials, who use slaves to tend the animals
+individually during transit.
+#+end_quote
+
+Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Jotun][Fandom: Jotun]]
+
 [[file:img/permit.png]]
 Faction: [[id:0ebec0eb-5f68-47f5-9a0e-dd1b47f140f7][Dukes of Jotun]]
 Benefits: Access to Rare Good (Juton Mookah)

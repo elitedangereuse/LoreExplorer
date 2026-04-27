@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       dd7d4572-a696-4bfa-857b-294a7ab0dd98
+:END:
+#+title: CMM Composite
+#+filetags: :Commodity:
+
+#+begin_quote
+CMM composites are layered carbon and metals bonded to take
+advantage of the properties for each of the different components.
+These result in flexible, lightweight and strong structures.
+#+end_quote
+
+Category: Industrial Materials
+Produced by: Refinery
+Consumed by: High Tech, Industrial, Military
+
+Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/140/][Inara: CMM Composite]]

@@ -3,5 +3,13 @@
 :END:
 #+title: Lave
 #+filetags: :System:
+
+#+begin_quote
+Lave is famous for its vast rain forests and the now extinct Lavian
+tree grub.
+#+end_quote
+
+Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Lave][Fandom: Lave]]
+
 - Starting world in Elite+ in 1984
 Rare commodity source: [[id:5efc49f5-465f-4dd8-afaa-b6bb3595a58c][Lavian Brandy]] at [[id:10b9df10-b4c7-449a-9c50-4ad011256417][Lave Station]].

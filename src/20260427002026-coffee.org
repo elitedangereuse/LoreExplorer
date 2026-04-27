@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       17e9c920-2c60-4aad-975a-c52e81030b1e
+:END:
+#+title: Coffee
+#+filetags: :Commodity:
+
+#+begin_quote
+A good source of caffeine to fuel the creative economies. Many
+attempts have been made to supplant it but all inevitably fail. Some
+claim the archaic ritual of grinding beans is a key part of the
+experience.
+#+end_quote
+
+Category: Foods
+Produced by: Agriculture
+Consumed by: Extraction, Industrial, High Tech, Military, Refinery, Service, Tourism, Terraforming, Colony
+
+Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/17/][Inara: Coffee]]

@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       e44531b6-547a-4669-9ced-a0f995346bed
+:END:
+#+title: Mikunn
+#+filetags: :System:
+
+#+begin_quote
+After having fled the Empire from the wrath of a senator, the
+brothers known as the Dukes of Mikunn, set up an operation on the
+edge of civilized space to mine and expand humanity's borders
+through colonization.Starting with the humble system of Mikunn, they
+have built up a significant sphere of influence throughout the
+sector, leveraging their portfolio of assets against local leaders
+to acquire a network of systems.
+#+end_quote
+
+Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Mikunn][Fandom: Mikunn]]

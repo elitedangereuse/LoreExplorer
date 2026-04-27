@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       6aec48eb-daf1-45ff-92d2-0ba46d6347f8
+:END:
+#+title: Fish
+#+filetags: :Commodity:
+
+#+begin_quote
+Flesh from once-living aquatic organisms sold as food. Illegal in
+some jurisdictions.
+#+end_quote
+
+Category: Foods
+Produced by: Agriculture
+Consumed by: Extraction, Industrial, High Tech, Military, Refinery, Service, Tourism, Terraforming, Colony
+
+Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/18/][Inara: Fish]]

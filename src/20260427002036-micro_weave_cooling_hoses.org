@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       3ed298ae-ac6b-497b-b3fb-bb9ce16f349f
+:END:
+#+title: Micro-weave Cooling Hoses
+#+filetags: :Commodity:
+
+#+begin_quote
+High specification cooling hoses used as conduits for fluid or gas
+based thermal management systems.
+#+end_quote
+
+Category: Industrial Materials
+Produced by: Mission reward
+Consumed by: -
+
+Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/185/][Inara: Micro-weave Cooling Hoses]]

@@ -3,6 +3,17 @@
 :END:
 #+title: Vega
 #+filetags: :Federation:Rank:System:Permit:
+
+#+begin_quote
+Very high humidity and native life make this an interesting place to
+visit. Many exotic food stuffs are grown here. The scenery is
+strikingly beautiful, though the wildlife can be a little dangerous.
+Was known in ancient times as 3 Alpha Lyrae. The permit for this
+system can be obtained from the Federal Military.
+#+end_quote
+
+Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Vega][Fandom: Vega]]
+
 [[file:img/permit.png]]
 
 Rank: Chief Petty Officer

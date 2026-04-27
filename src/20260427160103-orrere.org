@@ -4,4 +4,14 @@
 #+title: Orrere
 #+filetags: :System:
 
+#+begin_quote
+Orrere is mildly well known for Orrerian Vicious Brew.Formed in
+3278, the Code began as a small group of close-knit pirates who
+began their careers in Ngaliba. In recent years it has grown into a
+massive interstellar ring of organised criminals, now based in
+Orrere.
+#+end_quote
+
+Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Orrere][Fandom: Orrere]]
+
 Rare commodity source: [[id:fc39201e-c6b8-42f3-b2a7-d88fc564ee2a][Orrerian Vicious Brew]] at [[id:50eee33d-b20c-4b29-8934-f8d2b4ef599c][Sharon Lee Free Market]].

@@ -4,4 +4,13 @@
 #+title: Diso
 #+filetags: :System:
 
+#+begin_quote
+This system is noted for its ancient Ma Corn plantations, but is
+beset by frequent solar activity.The system received an economic
+boost when independent pilots responded positively to a request for
+machinery in May 3301.
+#+end_quote
+
+Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Diso][Fandom: Diso]]
+
 Rare commodity source: [[id:9ae2b7bc-f042-4a24-b042-2bcbef21e557][Diso Ma Corn]] at [[id:ffed13b2-4679-47f1-920a-333c13f3c6e3][Shifnalport]].

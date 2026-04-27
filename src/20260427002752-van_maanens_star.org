@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       2437a94e-3728-40bd-84d5-541be4c73854
+:END:
+#+title: Van Maanen's Star
+#+filetags: :System:
+
+#+begin_quote
+This system was given to the Guardians of the Free Spirit religious
+sect by the Federation in 2480. They believe in maximum hardship and
+live underground on several of the inner planets of the system. It
+is forbidden by Federal Law to enter the system without the
+permission of the Guardians.
+#+end_quote
+
+Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Van_Maanen's_Star][Fandom: Van Maanen's Star]]

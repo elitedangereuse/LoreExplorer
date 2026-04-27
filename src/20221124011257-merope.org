@@ -3,6 +3,16 @@
 :END:
 #+title: Merope
 #+filetags: :System:
+
+#+begin_quote
+This system is seen as the key for a mystery starting in 3301 with
+the discovery of unknown artefacts that point to this system. The
+first of an alien species known as 'barnacles' was discovered on
+Merope 5 c in 3302.
+#+end_quote
+
+Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Merope][Fandom: Merope]]
+
 Reference body: [[id:8c469ca9-3f5e-4728-a488-1039623174fb][Merope 5C]]
 
 - Economy:Industrial / Extraction

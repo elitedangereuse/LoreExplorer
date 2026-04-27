@@ -3,6 +3,19 @@
 :END:
 #+title: Sirius
 #+filetags: :Reputation:System:Permit:
+
+#+begin_quote
+Famous as the first true corporate system and also notable for the
+first interstellar war. Since 2350, the Sirius Corporation has been
+using the vast amounts of cheap energy available on Lucifer from
+coils wrapped around the planet for the synthesis of custom elements
+(particularly military-grade fuel). Has the ancient name of Alpha
+Canis Majoris. The permit for this system can be obtained via the
+Sirius Corporation faction.
+#+end_quote
+
+Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Sirius][Fandom: Sirius]]
+
 [[file:img/permit.png]]
 Faction: [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][The Sirius Corporation]]
 Benefits: Decent outfitting, is the location of an engineer.

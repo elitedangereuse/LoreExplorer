@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       7384c6bc-9ad7-48ae-9d8b-f5f03db51c20
+:END:
+#+title: Narcotics
+#+filetags: :Commodity:
+
+#+begin_quote
+Synthetically created substances tailored to create mood enhancement
+in a human. Widely outlawed due to their addictive nature, and the
+resultant longer term effects on human consumers.
+#+end_quote
+
+Category: Legal Drugs
+Produced by: Agriculture, High Tech, Industrial
+Consumed by: Agriculture, Extraction, Military, Refinery, Service, Tourism, Terraforming, Colony
+
+Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/12/][Inara: Narcotics]]

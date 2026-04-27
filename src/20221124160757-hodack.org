@@ -3,6 +3,14 @@
 :END:
 #+title: Hodack
 #+filetags: :Reputation:System:Permit:
+
+#+begin_quote
+A small settlement run by the Wreaken Construction and Mining
+Corporation.
+#+end_quote
+
+Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Hodack][Fandom: Hodack]]
+
 [[file:img/permit.png]]
 
 Faction: [[id:9a5a3c38-777b-4b46-9013-a1e876268475][Hodack Prison Colony]]

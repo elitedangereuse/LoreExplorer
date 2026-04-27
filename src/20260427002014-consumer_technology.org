@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       b17cfefe-ff86-4baf-aca3-69ad61c4b884
+:END:
+#+title: Consumer Technology
+#+filetags: :Commodity:
+
+#+begin_quote
+Ever-evolving and changing, get on board for the next generation of
+personal consumer devices. Be the envy of your friends as you show
+off the latest thing, then get ready to upgrade.
+#+end_quote
+
+Category: Consumer Items
+Produced by: High Tech
+Consumed by: Agriculture, Extraction, Industrial, Military, Refinery, Service, Tourism, Terraforming, Colony
+
+Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/8/][Inara: Consumer Technology]]

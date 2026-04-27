@@ -2,4 +2,12 @@
 :ID:       61687e51-580b-43d7-993e-0dd100f82804
 :END:
 #+title: Quince
+#+filetags: :System:
 
+#+begin_quote
+Very high humidity and native life make this an interesting place to
+visit. Many exotic food stuffs are grown here. The scenery is
+strikingly beautiful, though the wildlife can be a little dangerous.
+#+end_quote
+
+Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Quince][Fandom: Quince]]

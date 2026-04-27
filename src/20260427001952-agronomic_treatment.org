@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       ed84ef89-ae8d-4c04-885c-25d28a55dbf4
+:END:
+#+title: Agronomic Treatment
+#+filetags: :Commodity:
+
+#+begin_quote
+This material has been specifically engineered to revive plants
+affected by contaminants.
+#+end_quote
+
+Category: Chemicals
+Produced by: High Tech
+Consumed by: -
+
+Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/10268/][Inara: Agronomic Treatment]]

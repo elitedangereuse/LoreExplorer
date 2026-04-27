@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       1f762d71-c751-461c-a308-f2e33862e748
+:END:
+#+title: Synthetic Reagents
+#+filetags: :Commodity:
+
+#+begin_quote
+A selection of inorganic molecules used in the creation and
+manipulation of a wide range of organic compounds.
+#+end_quote
+
+Category: Chemicals
+Produced by: Refinery (Surface)
+Consumed by: High Tech
+
+Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/98/][Inara: Synthetic Reagents]]

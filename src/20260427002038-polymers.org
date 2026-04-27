@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       87f58744-f7fe-46da-b824-fb089a150705
+:END:
+#+title: Polymers
+#+filetags: :Commodity:
+
+#+begin_quote
+Polymers are materials made of long chains of molecules. They are
+synthesised from mineral oil in refineries, and then used by
+industry to manufacture a very wide range of goods.
+#+end_quote
+
+Category: Industrial Materials
+Produced by: Refinery
+Consumed by: Military, Terraforming, Industrial
+
+Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/26/][Inara: Polymers]]

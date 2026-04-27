@@ -3,6 +3,19 @@
 :END:
 #+title: Peregrina
 #+filetags: :Reputation:System:Permit:
+
+#+begin_quote
+WARNING: PLAGUE SYSTEM. The only life-bearing body has been cordoned
+off due to native pathogens. Any ship passing into the moon's
+atmosphere will be automatically designated a plague ship, refused
+docking in all systems and destroyed on-sight by all faction and
+system security forces. System trade consists of rumoured alien
+artefacts found in deep space, along with moderate mineral deposits
+in the system's inner asteroid belt.
+#+end_quote
+
+Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Peregrina][Fandom: Peregrina]]
+
 [[file:img/permit.png]]
 
 Faction: [[id:9ccfedce-d7c6-4212-9b5d-e6f750579c8f][Peregrina Aristocrats]]

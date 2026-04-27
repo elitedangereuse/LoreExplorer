@@ -2,4 +2,17 @@
 :ID:       b634e896-9d3d-4f44-9783-cfb8fd6d0c56
 :END:
 #+title: Kappa Fornacis
+#+filetags: :System:
 
+#+begin_quote
+This once quiet agricultural system has recently become known for
+the production of Onionhead. This naturally growing drug was
+declared illegal by Federal authorities in December 3300.The
+headquarters of the East India Company are situated in this system.
+The company bought up shares, real-estate and local businesses
+following the cessation of operations with Senator Torval. They work
+towards the legalisation and wholesale distribution of the cash crop
+Onionhead throughout the galaxy.
+#+end_quote
+
+Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Kappa_Fornacis][Fandom: Kappa Fornacis]]

@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       33adaaf7-4206-4047-bbd9-81be1fc169c0
+:END:
+#+title: Animal Meat
+#+filetags: :Commodity:
+
+#+begin_quote
+Flesh - and other elements - harvested from a vast selection of
+once-living creatures. In many places a luxury item with some
+ceremonial importance. Illegal in some jurisdictions.
+#+end_quote
+
+Category: Foods
+Produced by: Agriculture
+Consumed by: Extraction, Industrial, High Tech, Military, Refinery, Service, Tourism, Terraforming, Colony
+
+Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/16/][Inara: Animal Meat]]

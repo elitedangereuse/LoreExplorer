@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       6342647d-67b3-4045-b696-ce306617e3d0
+:END:
+#+title: Liquor
+#+filetags: :Commodity:
+
+#+begin_quote
+A range of luxury drinks made from distilled, fermented grains and
+fruits, usually containing a high percentage of alcohol. The
+narcotic effect means it is illegal in some jurisdictions.
+#+end_quote
+
+Category: Legal Drugs
+Produced by: Agriculture, Industrial
+Consumed by: -
+
+Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/11/][Inara: Liquor]]

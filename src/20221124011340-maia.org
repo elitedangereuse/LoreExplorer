@@ -3,6 +3,15 @@
 :END:
 #+title: Maia
 #+filetags: :System:
+
+#+begin_quote
+This system was first colonised with the construction of Obsidian
+Orbital in November 3301. Many strange artefacts have been
+discovered in this region of space.
+#+end_quote
+
+Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Maia][Fandom: Maia]]
+
 [[id:8e4c3a73-4f53-40ca-a19e-ec1f55aa77b3][Black hole]]
 
 - Economy:Industrial / Extraction

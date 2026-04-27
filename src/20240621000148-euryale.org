@@ -4,3 +4,12 @@
 #+title: Euryale
 #+filetags: :System:
 
+#+begin_quote
+This system is home to the EG Union. This faction was founded with
+support of EG Pilots with the aim to conduct an independent policy
+and become a dominant force in the galaxy.This system is also home
+to the Colonial Drones corporation.'Affordable drone technology for
+all.'
+#+end_quote
+
+Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Euryale][Fandom: Euryale]]

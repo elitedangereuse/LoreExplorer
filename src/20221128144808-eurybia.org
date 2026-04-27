@@ -3,5 +3,13 @@
 :END:
 #+title: Eurybia
 #+filetags: :System:
+
+#+begin_quote
+This system contains the central manufacturing plant for Devastator
+& Sons.'Guaranteed devastation.'
+#+end_quote
+
+Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Eurybia][Fandom: Eurybia]]
+
 [[id:51451993-ada8-47a9-b36c-886274059e24][Anarchy]]
 [[id:bfb6fa92-52a2-4955-a1d7-4f11307f77fc][Eurybia Blue Mafia]]

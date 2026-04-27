@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       a137e655-317f-4e24-8580-abed3b915119
+:END:
+#+title: Food Cartridges
+#+filetags: :Commodity:
+
+#+begin_quote
+Cartridges for 'chefs' (cheap 3D food printers). These dehydrated
+components are reconstituted into a variety of shapes using a 3D
+printing technique. Components are mixed with water and flavourings
+as they are printed, according to the desired food item template for
+colour, texture and taste. 'Burgers' and 'Hotdogs' are common
+standard template choices for most chefs.
+#+end_quote
+
+Category: Foods
+Produced by: Industrial
+Consumed by: Extraction, Industrial, High Tech, Military, Refinery, Service, Tourism, Terraforming, Colony
+
+Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/19/][Inara: Food Cartridges]]

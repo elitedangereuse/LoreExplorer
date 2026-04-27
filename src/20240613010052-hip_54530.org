@@ -3,6 +3,14 @@
 :END:
 #+title: HIP 54530
 #+filetags: :Federation:Rank:Permit:System:
+
+#+begin_quote
+This system is locked by the Pilots Federation, no permits are
+currently issued.
+#+end_quote
+
+Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/HIP_54530][Fandom: HIP 54530]]
+
 [[file:img/permit.png]]
 
 Faction: [[id:a35c5eb2-0697-4ef3-9a11-950791952e2d][Jupiter Division]]

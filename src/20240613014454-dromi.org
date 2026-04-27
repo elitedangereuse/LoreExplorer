@@ -3,5 +3,14 @@
 :END:
 #+title: Dromi
 
+#+begin_quote
+Dromi is the administrative centre of the Pilots' Federation
+District. As the location for new Commanders to take their first
+journey into the galaxy as an independent pilot, the system hosts
+high tech stations and a lively mission hub.
+#+end_quote
+
+Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Dromi][Fandom: Dromi]]
+
 #+filetags: :System:Permit:
 [[file:img/permit.png]]

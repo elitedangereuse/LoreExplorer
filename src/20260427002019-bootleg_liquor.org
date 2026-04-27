@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       f821d960-95e1-4fe8-bd9f-932fde2959ab
+:END:
+#+title: Bootleg Liquor
+#+filetags: :Commodity:
+
+#+begin_quote
+Unregulated alcoholic substances which are typically made through
+home or small scale production methods, with varying levels of
+toxicity.
+#+end_quote
+
+Category: Legal Drugs
+Produced by: Colony (Surface), Industrial (Surface), Refinery (Surface)
+Consumed by: Extraction (Surface), High Tech (Surface), Refinery (Surface)
+
+Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/95/][Inara: Bootleg Liquor]]

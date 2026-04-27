@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       14ce0a9c-7f6a-4299-8336-55e1f8b1b8bf
+:END:
+#+title: Nerve Agents
+#+filetags: :Commodity:
+
+#+begin_quote
+Used in medical research, but because of the potential to be
+weaponised, it is a controlled substance in many jurisdictions.
+#+end_quote
+
+Category: Chemicals
+Produced by: Refinery (Surface)
+Consumed by: High Tech (Surface), Military
+
+Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/96/][Inara: Nerve Agents]]

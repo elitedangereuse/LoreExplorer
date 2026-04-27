@@ -3,6 +3,14 @@
 :END:
 #+title: LTT 198
 #+filetags: :Permit:System:
+
+#+begin_quote
+The permit for this system can be obtained via the LTT 198 Order
+faction.
+#+end_quote
+
+Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/LTT_198][Fandom: LTT 198]]
+
 [[file:img/permit.png]]
 
 Faction: [[id:65aedb6b-c401-44c4-9009-466c2b7eb9d8][LTT 198 Order]]

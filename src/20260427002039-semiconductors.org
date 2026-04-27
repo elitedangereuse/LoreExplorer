@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       0def679f-6fc4-4107-bd99-51a36668a787
+:END:
+#+title: Semiconductors
+#+filetags: :Commodity:
+
+#+begin_quote
+Extremely pure semiconducting crystalline materials are used
+extensively in the electronics industry.
+#+end_quote
+
+Category: Industrial Materials
+Produced by: Refinery
+Consumed by: Terraforming, Industrial
+
+Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/28/][Inara: Semiconductors]]

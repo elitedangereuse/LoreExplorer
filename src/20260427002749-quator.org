@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       420de9d4-776e-4835-a388-43792ddc5dd4
+:END:
+#+title: Quator
+#+filetags: :System:
+
+#+begin_quote
+A lawless backwater, despite the efforts of Wreaken Construction and
+Mining. The Furnace battle group from Alioth under the command of
+Admiral Bryce Jander were based here before they journeyed to Lave
+to take part in the famous 'Battle of Lave Station' in 3265. Quator
+remains a haven for pirates. 'Hoopy's Bar' on Quator Station should
+not be confused with the popular casino chain of the 3200s.
+#+end_quote
+
+Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Quator][Fandom: Quator]]

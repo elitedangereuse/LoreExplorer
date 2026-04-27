@@ -3,6 +3,14 @@
 :END:
 #+title: Beta Hydri
 #+filetags: :Federation:Permit:Rank:System:
+
+#+begin_quote
+High population outdoor world. Federation founder member. The permit
+for this system can be obtained from the Federal Military.
+#+end_quote
+
+Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Beta_Hydri][Fandom: Beta Hydri]]
+
 [[file:img/permit.png]]
 
 Rank: Chief Petty Officer

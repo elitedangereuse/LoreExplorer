@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       44b99d90-8587-491e-babf-46b08bbffa77
+:END:
+#+title: Orerve
+#+filetags: :System:
+
+#+begin_quote
+This system is a dull place.
+#+end_quote
+
+Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Orerve][Fandom: Orerve]]

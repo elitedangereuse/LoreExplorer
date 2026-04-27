@@ -3,6 +3,16 @@
 :END:
 #+title: PLX 695
 #+filetags: :Federation:System:Permit:Rank:
+
+#+begin_quote
+In Depth Protection are a relatively new player on the military
+supply scene, but they are already making some big
+waves.'Countermeasures and military grade electronic warfare suites
+for those close encounters.'
+#+end_quote
+
+Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/PLX_695][Fandom: PLX 695]]
+
 [[file:img/permit.png]]
 
 Rank: Warrant Officer

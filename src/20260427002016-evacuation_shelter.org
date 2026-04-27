@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       bf715112-e4c4-4077-83b9-104ed3af3816
+:END:
+#+title: Evacuation Shelter
+#+filetags: :Commodity:
+
+#+begin_quote
+A lightweight robust unit that can be deployed to provide shelter,
+basic food and air for up to a month in the event of structural
+failure or meteor impacts on habited builds. They are also used by
+survey teams on long expeditions.
+#+end_quote
+
+Category: Consumer Items
+Produced by: High Tech
+Consumed by: Agriculture, Extraction, Industrial, High Tech, Military, Refinery, Service, Tourism, Terraforming, Colony
+
+Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/99/][Inara: Evacuation Shelter]]

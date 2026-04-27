@@ -3,6 +3,14 @@
 :END:
 #+title: Pi Mensae
 #+filetags: :Reputation:System:Permit:
+
+#+begin_quote
+The Lewis Zero-G Fitness franchise is based in this system.'In space
+no one can hear you pump!'
+#+end_quote
+
+Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Pi_Mensae][Fandom: Pi Mensae]]
+
 [[file:img/permit.png]]
 
 Faction: [[id:2e3506f7-3fa1-4bd4-b275-86d44648fe3e][Pi Mensae Brotherhood]]

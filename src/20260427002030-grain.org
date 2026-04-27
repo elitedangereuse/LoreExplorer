@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       4cc7cde6-24f6-4bcc-b403-0f4cc90cde80
+:END:
+#+title: Grain
+#+filetags: :Commodity:
+
+#+begin_quote
+Inexpensive and intensively grown in various forms on many outdoor
+worlds. Mainly consumed as bread but also forms a key constituent of
+many industrially produced foods.
+#+end_quote
+
+Category: Foods
+Produced by: Agriculture
+Consumed by: Extraction, Industrial, High Tech, Military, Refinery, Service, Tourism, Terraforming, Colony
+
+Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/21/][Inara: Grain]]

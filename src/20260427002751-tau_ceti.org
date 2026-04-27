@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       000181d2-87fb-4eac-9c05-378082def97f
+:END:
+#+title: Tau Ceti
+#+filetags: :System:
+
+#+begin_quote
+First colony outside the Sol system, where the first alien life was
+discovered. Unfortunately the last remnants are now in zoo
+enclosures for tourists. Crops cover most of the surface.
+#+end_quote
+
+Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Tau_Ceti][Fandom: Tau Ceti]]

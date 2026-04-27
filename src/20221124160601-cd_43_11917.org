@@ -3,6 +3,15 @@
 :END:
 #+title: CD-43 11917
 #+filetags: :Rank:System:Permit:
+
+#+begin_quote
+Atlas was established in 3302 and has since had all records
+regarding its members' actions deemed classified. The permit for
+this system can be obtained by attaining prestige in CQC.
+#+end_quote
+
+Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/CD-43_11917][Fandom: CD-43 11917]]
+
 [[file:img/permit.png]]
 [[id:ea0def0d-d18c-453c-ae1a-dddd5e894d60][CQC Holdings]]
 Attaining prestige in CQC

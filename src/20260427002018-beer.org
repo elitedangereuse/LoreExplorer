@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       16605f5b-79a7-46d2-9a5c-b53826fc1b5f
+:END:
+#+title: Beer
+#+filetags: :Commodity:
+
+#+begin_quote
+Traded under a variety of brands. A very mild narcotic. Occasionally
+illegal due to its association with antisocial behaviour, but also
+widely consumed in many cultures.
+#+end_quote
+
+Category: Legal Drugs
+Produced by: Agriculture
+Consumed by: -
+
+Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/10/][Inara: Beer]]

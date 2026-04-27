@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       c837105f-12df-4e66-b10e-2c650ef64244
+:END:
+#+title: Neofabric Insulation
+#+filetags: :Commodity:
+
+#+begin_quote
+Neofabric insulation is a material using complementary fibre
+structures to retain, or protect from, heat build up.
+#+end_quote
+
+Category: Industrial Materials
+Produced by: Mission reward
+Consumed by: -
+
+Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/183/][Inara: Neofabric Insulation]]

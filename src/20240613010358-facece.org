@@ -3,6 +3,17 @@
 :END:
 #+title: Facece
 #+filetags: :Rank:Permit:System:
+
+#+begin_quote
+Well known Imperial Navy Base. Most Imperial naval administration is
+done on Topaz, and there are several outdoor training camps across
+the surface.Senator Anders Blaine is the senator for this system and
+enjoys relative autonomy. The permit for this system can be obtained
+from the Imperial Military.
+#+end_quote
+
+Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Facece][Fandom: Facece]]
+
 [[file:img/permit.png]]
 
 Rank: Earl

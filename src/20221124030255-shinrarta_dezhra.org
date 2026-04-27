@@ -4,6 +4,18 @@
 :END:
 #+title: Shinrarta Dezhra
 #+filetags: :Rank:System:Permit:
+
+#+begin_quote
+This system is directly controlled by the Pilots' Federation, with
+entry permitted by invitation only. Achieving a high rank with the
+Pilots' Federation is the most common way to earn such an
+invitation, but other, more secretive methods are also known to
+exist.The system is governed by the Elite Pilots' Federation,
+members of which are allowed to retire here.
+#+end_quote
+
+Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Shinrarta_Dezhra][Fandom: Shinrarta Dezhra]]
+
 [[file:img/permit.png]]
 - [[id:088cf15e-3c00-4522-8c15-aa4c8b30ea8c][Elite Rank]]
 Rare commodity source: [[id:def0c836-797b-4ced-8af8-7cf538a36f45][The Waters Of Shintara]] at [[id:a9f110e4-41fc-4035-afb1-5848ddc457ae][Jameson Memorial]].

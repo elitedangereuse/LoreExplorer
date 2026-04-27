@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       da49a702-3bb4-4dd7-9adf-29188adb2801
+:END:
+#+title: Beagle Point
+#+filetags: :System:
+
+#+begin_quote
+Beagle Point marks the end point of a galaxy-spanning expedition
+undertaken by Commander Kamzel in 3301. At the time, the system was
+known as Ceeckia ZQ-L c24-0, but Kamzel nicknamed it Beagle Point
+after his beloved beagle Jack, who had passed away a short time
+before. One year later, the system was chosen as the final
+destination of the first Distant Worlds expedition, resulting in an
+influx of over 500 pilots in April 3302. In recognition of these
+events, Universal Cartographics officially renamed the system Beagle
+Point on the 26th of May 3302.
+#+end_quote
+
+Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Beagle_Point][Fandom: Beagle Point]]

@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       5a007482-56ef-4f60-83e7-58b4089a0020
+:END:
+#+title: Lugh
+#+filetags: :System:
+
+#+begin_quote
+In March 3301 the system attempts to leave the Federation, resulting
+in conflict between the Federation and the Crimson State Group,
+leaders of the independence movement. The so-called 'War for Lugh'
+was won by the Crimson State Group.
+#+end_quote
+
+Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Lugh][Fandom: Lugh]]

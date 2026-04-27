@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       acd861d6-6c6b-4fd8-9c0f-ca28a60fe599
+:END:
+#+title: Survival Equipment
+#+filetags: :Commodity:
+
+#+begin_quote
+A selection of absolute essentials needed to survive in extreme
+conditions.
+#+end_quote
+
+Category: Consumer Items
+Produced by: Industrial
+Consumed by: Agriculture (Surface), Extraction (Surface), High Tech (Surface), Military (Surface), Refinery (Surface), Service (Surface), Tourism (Surface), Terraforming (Surface), Colony (Surface)
+
+Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/164/][Inara: Survival Equipment]]

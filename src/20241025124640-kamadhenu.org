@@ -4,3 +4,11 @@
 #+title: Kamadhenu
 #+filetags: :Empire:System:
 
+#+begin_quote
+The home system of the Chapterhouse of Inquisition. The Chapterhouse
+seeks to uphold Arissa Lavigny-Duval's vision of an Empire free of
+injustice and political corruption. Inquisitors promote order and
+the traditional Imperial values espoused by their patron.
+#+end_quote
+
+Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Kamadhenu][Fandom: Kamadhenu]]

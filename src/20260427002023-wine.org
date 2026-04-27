@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       f94bf0ea-483b-4148-bc0a-5c3d77eea8d3
+:END:
+#+title: Wine
+#+filetags: :Commodity:
+
+#+begin_quote
+A luxury drink made from fermented fruits containing alcohol, a mild
+narcotic, and grown organically. Occasionally illegal because of the
+alcohol content.
+#+end_quote
+
+Category: Legal Drugs
+Produced by: Agriculture
+Consumed by: -
+
+Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/14/][Inara: Wine]]

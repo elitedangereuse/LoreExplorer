@@ -4,3 +4,8 @@
 #+title: Eotienses
 #+filetags: :System:
 
+#+begin_quote
+Senator Denton Patreus has his home in this system.
+#+end_quote
+
+Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Eotienses][Fandom: Eotienses]]

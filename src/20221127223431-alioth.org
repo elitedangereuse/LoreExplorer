@@ -4,19 +4,21 @@
 :END:
 #+title: Alioth
 #+filetags: :Empire:Federation:Alliance:beacon:Reputation:Permit:System:
-[[file:img/permit.png]]
 
 #+begin_quote
-The [[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]] system is notable as the home of the
-Alliance, one of the galaxy's three superpowers.
-The system was the focus of conflict between the
-Federation and the Empire in the 3200s due to
-its tremendous mineral wealth, but the expulsion
-of Federal and Imperial forces by [[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]]'s
-indigenous population led to the creation of the
-Alliance in 3230. The [[id:b2b2d9ee-9c33-4a0b-b3ce-82cfa362577e][permit]] for this system can
-be obtained from the [[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]] Independents.
+The Alioth system is notable as the home of the Alliance, one of the
+galaxy's three superpowers. The system was the focus of conflict
+between the Federation and the Empire in the 3200s due to its
+tremendous mineral wealth, but the expulsion of Federal and Imperial
+forces by Alioth's indigenous population led to the creation of the
+Alliance in 3230. The permit for this system can be obtained from
+the Alioth Independents.
 #+end_quote
+
+Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Alioth][Fandom: Alioth]]
+
+[[file:img/permit.png]]
+
 
 [[file:img/systems/alioth.png]]
 

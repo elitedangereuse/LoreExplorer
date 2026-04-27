@@ -3,3 +3,12 @@
 :END:
 #+title: Epsilon Indi
 #+filetags: :System:
+
+#+begin_quote
+Two planets here have now been terraformed, and both are largely
+given over to agricultural production and to ethically questionable
+cattle ranching. There is little manufacturing industry other than
+the production of the famous bourbon.
+#+end_quote
+
+Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Epsilon_Indi][Fandom: Epsilon Indi]]

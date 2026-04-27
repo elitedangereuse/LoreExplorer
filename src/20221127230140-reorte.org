@@ -3,3 +3,11 @@
 :END:
 #+title: Reorte
 #+filetags: :System:
+
+#+begin_quote
+This system is famed for its inhabitants' eccentric love for
+tourists, but is plagued by deadly earthquakes.In April 3301 the
+system was taken by pirates but swiftly liberated by the Alliance.
+#+end_quote
+
+Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Reorte][Fandom: Reorte]]

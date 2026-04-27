@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c98904e6-fe29-4bed-bd9f-39ca5908fa93
+:END:
+#+title: Pollux
+#+filetags: :System:
+
+#+begin_quote
+A quiet extraction system also known as Beta Geminorum.
+#+end_quote
+
+Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Pollux][Fandom: Pollux]]

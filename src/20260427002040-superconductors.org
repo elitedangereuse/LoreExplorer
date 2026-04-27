@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       94637eec-3dd2-478f-9f38-8930b96a15fe
+:END:
+#+title: Superconductors
+#+filetags: :Commodity:
+
+#+begin_quote
+Complex highly pure alloys have zero resistance to electricity below
+a certain temperature. Such superconducting alloys are used in High
+Tech and Industrial economies to create a wide range of devices.
+#+end_quote
+
+Category: Industrial Materials
+Produced by: Refinery
+Consumed by: Terraforming, High Tech, Industrial
+
+Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/27/][Inara: Superconductors]]

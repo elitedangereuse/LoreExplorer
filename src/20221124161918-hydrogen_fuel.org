@@ -2,4 +2,17 @@
 :ID:       e676d795-4fcb-463b-9cff-8fb9dc7fbce8
 :END:
 #+title: Hydrogen Fuel
+#+filetags: :Commodity:
 
+#+begin_quote
+Hydrogen fuel is used in high power systems, from ships' drives to
+weapons to powering the energy needs of stations and surface cities.
+Using high pressure and temperature, hydrogen is fused into helium
+in a simple reactor.
+#+end_quote
+
+Category: Chemicals
+Produced by: Agriculture, Extraction, Industrial, High Tech, Military, Refinery, Service, Tourism, Terraforming, Colony
+Consumed by: Agriculture, Extraction, Industrial, High Tech, Military, Refinery, Service, Tourism, Terraforming, Colony
+
+Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/4/][Inara: Hydrogen Fuel]]

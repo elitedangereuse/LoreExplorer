@@ -3,6 +3,19 @@
 :END:
 #+title: Sol
 #+filetags: :Federation:Rank:System:Permit:
+
+#+begin_quote
+The Sol system is notable as the birthplace of humanity and the
+capital of the Federation, one of the galaxy's three superpowers.
+Mars, which was terraformed in 2286, is the primary residence of the
+Federal president, and the seat of Federal power. The system is
+characterised by a widespread reliance on technology and the
+prevalence of monolithic corporate entities. The permit for this
+system can be obtained from the Federal military.
+#+end_quote
+
+Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Sol][Fandom: Sol]]
+
 [[file:img/permit.png]]
 
 Rank: Petty Officer

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       3ee8b83c-4db4-4b8b-a2ed-58bd4a44ef69
+:END:
+#+title: Rockforth Fertiliser
+#+filetags: :Commodity:
+
+#+begin_quote
+A synthetic material designed to provide growing plants with
+essential nutrients.
+#+end_quote
+
+Category: Chemicals
+Produced by: -
+Consumed by: -
+
+Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/10264/][Inara: Rockforth Fertiliser]]

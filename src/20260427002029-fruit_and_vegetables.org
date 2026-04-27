@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       9dbf5564-8fe2-46f3-930f-f3f1dbfecd26
+:END:
+#+title: Fruit and Vegetables
+#+filetags: :Commodity:
+
+#+begin_quote
+A diverse selection of plant-based produce, usually grown in bulk on
+outdoor worlds, used by the luxury food industry and for direct
+consumption by the population.
+#+end_quote
+
+Category: Foods
+Produced by: Agriculture
+Consumed by: -
+
+Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/20/][Inara: Fruit and Vegetables]]

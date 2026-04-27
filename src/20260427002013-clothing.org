@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       bacffb34-19fb-4e2b-bedd-32736a9095bc
+:END:
+#+title: Clothing
+#+filetags: :Commodity:
+
+#+begin_quote
+Even in the 34th century, fashion is continually changing, driving
+purchases of new clothing for those with some credits to spare.
+#+end_quote
+
+Category: Consumer Items
+Produced by: Industrial
+Consumed by: -
+
+Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/7/][Inara: Clothing]]

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       5107b041-1d34-46e8-a66d-d624541c355f
+:END:
+#+title: Insulating Membrane
+#+filetags: :Commodity:
+
+#+begin_quote
+Insulating membranes are used to control heat flow between devices
+and are typically used for cooling.
+#+end_quote
+
+Category: Industrial Materials
+Produced by: Refinery
+Consumed by: High Tech, Industrial, Military
+
+Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/141/][Inara: Insulating Membrane]]

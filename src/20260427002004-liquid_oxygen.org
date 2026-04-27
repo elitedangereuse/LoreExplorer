@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       1f06f768-18a2-4003-92db-9bbc8f51ebb6
+:END:
+#+title: Liquid oxygen
+#+filetags: :Commodity:
+
+#+begin_quote
+Oxygen that has been cooled to the point of condensation. Useful in
+cryogenics, or to oxidise other substances.
+#+end_quote
+
+Category: Chemicals
+Produced by: Mining
+Consumed by: Industrial
+
+Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/137/][Inara: Liquid oxygen]]
