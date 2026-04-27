@@ -2,4 +2,5 @@
 :ID:       2b461b7b-10e3-49fd-ba61-bce15a046809
 :END:
 #+title: Landmines
+#+filetags: :Commodity:
 

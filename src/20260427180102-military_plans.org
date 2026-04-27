@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       8c0d7488-c33e-44b6-88c8-3d7412efcb41
+:END:
+#+title: Military Plans
+#+filetags: :Commodity:
+
+Category: Salvage
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/127/][Inara: Military Plans]]

@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       0f1939e4-1ab1-4f9c-8b73-ebc572081433
+:END:
+#+title: Building Fabricators
+#+filetags: :Commodity:
+
+Category: Machinery
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/102/][Inara: Building Fabricators]]

@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       ddc45fc1-2efc-4cc7-a4d6-f70b54389988
+:END:
+#+title: Precious Gems
+#+filetags: :Commodity:
+
+Category: Salvage
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10165/][Inara: Precious Gems]]

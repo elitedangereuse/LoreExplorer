@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       c1f58a77-5bf4-485e-840f-511607fad399
+:END:
+#+title: Void Opal
+#+filetags: :Commodity:
+
+Category: Minerals
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10250/][Inara: Void Opal]]

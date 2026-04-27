@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       09045a99-727e-4829-8830-83cde323469a
+:END:
+#+title: Gene Bank
+#+filetags: :Commodity:
+
+Category: Salvage
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10211/][Inara: Gene Bank]]

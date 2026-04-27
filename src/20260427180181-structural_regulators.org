@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       febbcc7c-743b-4332-bc15-9e36ecd0442f
+:END:
+#+title: Structural Regulators
+#+filetags: :Commodity:
+
+Category: Technology
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/117/][Inara: Structural Regulators]]

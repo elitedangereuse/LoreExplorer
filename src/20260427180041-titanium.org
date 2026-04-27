@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       d727fb19-8dc0-4d94-bcd4-da1cb5c090f0
+:END:
+#+title: Titanium
+#+filetags: :Commodity:
+
+Category: Metals
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/48/][Inara: Titanium]]

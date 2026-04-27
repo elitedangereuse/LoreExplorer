@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       92484797-b774-4602-b742-3d6b183d72a5
+:END:
+#+title: Serendibite
+#+filetags: :Commodity:
+
+Category: Minerals
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10244/][Inara: Serendibite]]

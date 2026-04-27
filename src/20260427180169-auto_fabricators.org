@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       5d99c688-f21a-41e1-9ebb-00b626b4c31f
+:END:
+#+title: Auto-Fabricators
+#+filetags: :Commodity:
+
+Category: Technology
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/65/][Inara: Auto-Fabricators]]

@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       13a169da-2038-4128-b8f7-4cc09721cd6c
+:END:
+#+title: Gallium
+#+filetags: :Commodity:
+
+Category: Metals
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/41/][Inara: Gallium]]

@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       1faa6a4e-a29b-486b-9fe2-d42bf16c4d07
+:END:
+#+title: Silver
+#+filetags: :Commodity:
+
+Category: Metals
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/46/][Inara: Silver]]

@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       51d0a6d0-4724-43cb-9ec7-1f9d0b6ee1dd
+:END:
+#+title: Aquaponic Systems
+#+filetags: :Commodity:
+
+Category: Technology
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/63/][Inara: Aquaponic Systems]]

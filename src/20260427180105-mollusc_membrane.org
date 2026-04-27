@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       0baefc55-34da-4848-bbf1-09cd01cad334
+:END:
+#+title: Mollusc Membrane
+#+filetags: :Commodity:
+
+Category: Salvage
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10252/][Inara: Mollusc Membrane]]

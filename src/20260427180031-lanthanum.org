@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       2e3bcc25-bd8a-437b-a889-dd7b379916af
+:END:
+#+title: Lanthanum
+#+filetags: :Commodity:
+
+Category: Metals
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/107/][Inara: Lanthanum]]

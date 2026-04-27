@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       38ba824d-734c-4575-8a53-472887df0a83
+:END:
+#+title: Military Grade Fabrics
+#+filetags: :Commodity:
+
+Category: Textiles
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/157/][Inara: Military Grade Fabrics]]

@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       6bdfb36f-f007-4814-b6bb-3ed995fa633b
+:END:
+#+title: Guardian Orb
+#+filetags: :Commodity:
+
+Category: Salvage
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10154/][Inara: Guardian Orb]]

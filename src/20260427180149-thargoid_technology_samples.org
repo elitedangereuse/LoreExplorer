@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       3d0c864c-ce08-40c3-8264-33543f524dcf
+:END:
+#+title: Thargoid Technology Samples
+#+filetags: :Commodity:
+
+Category: Salvage
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10163/][Inara: Thargoid Technology Samples]]

@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       05bca58c-1919-4f0b-81ed-a904f2827c55
+:END:
+#+title: Encrypted Correspondence
+#+filetags: :Commodity:
+
+Category: Salvage
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/172/][Inara: Encrypted Correspondence]]

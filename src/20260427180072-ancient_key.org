@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       e158c404-4505-4a7b-8c86-7d428b1631be
+:END:
+#+title: Ancient Key
+#+filetags: :Commodity:
+
+Category: Salvage
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10240/][Inara: Ancient Key]]

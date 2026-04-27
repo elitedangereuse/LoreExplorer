@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       3d9ead20-b449-4d82-9cef-8306f0f469a8
+:END:
+#+title: Technical Blueprints
+#+filetags: :Commodity:
+
+Category: Salvage
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/133/][Inara: Technical Blueprints]]

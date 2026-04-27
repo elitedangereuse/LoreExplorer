@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       738a8b55-d1a9-4f67-91fc-5651612fdb17
+:END:
+#+title: Political Prisoners
+#+filetags: :Commodity:
+
+Category: Salvage
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/177/][Inara: Political Prisoners]]

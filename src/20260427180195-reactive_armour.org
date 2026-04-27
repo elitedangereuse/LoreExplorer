@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       85a9f73a-636f-459f-8a46-d93b1a3dca16
+:END:
+#+title: Reactive Armour
+#+filetags: :Commodity:
+
+Category: Weapons
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/80/][Inara: Reactive Armour]]

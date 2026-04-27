@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       1890c0a4-3ae7-4460-9ad5-6aba4ebf8f09
+:END:
+#+title: Impure Spire Mineral
+#+filetags: :Commodity:
+
+Category: Salvage
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10452/][Inara: Impure Spire Mineral]]

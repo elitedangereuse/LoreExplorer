@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       1c200888-6acc-404b-8d9e-9ad834389782
+:END:
+#+title: Basic Medicines
+#+filetags: :Commodity:
+
+Category: Medicines
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/33/][Inara: Basic Medicines]]

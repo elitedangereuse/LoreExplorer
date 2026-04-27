@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       e618114f-4caa-471f-9e6d-ba74c7d3c34f
+:END:
+#+title: Slaves
+#+filetags: :Commodity:
+
+Category: Slaves
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/53/][Inara: Slaves]]

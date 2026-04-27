@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       30737cd7-73d8-42bb-8aaf-8cb2acf80c2e
+:END:
+#+title: Titan Maw Deep Tissue Sample
+#+filetags: :Commodity:
+
+Category: Salvage
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10445/][Inara: Titan Maw Deep Tissue Sample]]

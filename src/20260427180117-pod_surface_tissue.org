@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       73dba017-12ef-4972-b86b-4c3cb3897da4
+:END:
+#+title: Pod Surface Tissue
+#+filetags: :Commodity:
+
+Category: Salvage
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10258/][Inara: Pod Surface Tissue]]

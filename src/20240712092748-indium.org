@@ -2,4 +2,5 @@
 :ID:       9fbdd62c-a62a-45d1-9ee5-9ab7980a4fd6
 :END:
 #+title: Indium
+#+filetags: :Commodity:
 

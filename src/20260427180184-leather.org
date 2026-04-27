@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       81438d0f-f72b-4ad4-b4da-49a2a5840192
+:END:
+#+title: Leather
+#+filetags: :Commodity:
+
+Category: Textiles
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/73/][Inara: Leather]]

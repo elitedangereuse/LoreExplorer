@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       af91a313-e5f2-48e0-91d2-4f57884498e4
+:END:
+#+title: Bone Fragments
+#+filetags: :Commodity:
+
+Category: Salvage
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10456/][Inara: Bone Fragments]]

@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       6a60bf5b-5e59-4abd-9544-d840db4cbf97
+:END:
+#+title: Small Survey Data Cache
+#+filetags: :Commodity:
+
+Category: Salvage
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10208/][Inara: Small Survey Data Cache]]

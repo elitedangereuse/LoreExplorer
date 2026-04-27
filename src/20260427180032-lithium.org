@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       54f8e5b0-5231-4df3-8047-5af47c1508fc
+:END:
+#+title: Lithium
+#+filetags: :Commodity:
+
+Category: Metals
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/44/][Inara: Lithium]]

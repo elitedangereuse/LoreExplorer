@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       5b1432f1-d68e-43ff-8ba4-b7937e43d957
+:END:
+#+title: Magnetic Emitter Coil
+#+filetags: :Commodity:
+
+Category: Machinery
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/152/][Inara: Magnetic Emitter Coil]]

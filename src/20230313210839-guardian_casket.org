@@ -3,3 +3,4 @@
 :ROAM_ALIASES: coffret
 :END:
 #+title: Guardian Casket
+#+filetags: :Commodity:

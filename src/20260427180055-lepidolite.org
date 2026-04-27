@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       154c671d-c8c8-406e-ad03-a7f97851e655
+:END:
+#+title: Lepidolite
+#+filetags: :Commodity:
+
+Category: Minerals
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/58/][Inara: Lepidolite]]

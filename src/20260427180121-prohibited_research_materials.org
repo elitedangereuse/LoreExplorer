@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       200a998b-423d-44a8-a709-051b88a238f2
+:END:
+#+title: Prohibited Research Materials
+#+filetags: :Commodity:
+
+Category: Salvage
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10220/][Inara: Prohibited Research Materials]]

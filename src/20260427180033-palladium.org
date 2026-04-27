@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       dcc20e2e-26dd-4106-b23b-4df951876173
+:END:
+#+title: Palladium
+#+filetags: :Commodity:
+
+Category: Metals
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/45/][Inara: Palladium]]

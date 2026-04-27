@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       b2c862d2-12a9-423d-8688-d8dec21be343
+:END:
+#+title: Guardian Relic
+#+filetags: :Commodity:
+
+Category: Salvage
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10155/][Inara: Guardian Relic]]

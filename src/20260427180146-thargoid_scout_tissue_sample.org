@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       1003061a-877a-4afa-85bf-9238c63f65fe
+:END:
+#+title: Thargoid Scout Tissue Sample
+#+filetags: :Commodity:
+
+Category: Salvage
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10238/][Inara: Thargoid Scout Tissue Sample]]

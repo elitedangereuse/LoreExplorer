@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       c392f796-436b-4de0-a9c5-5f7f5b262375
+:END:
+#+title: Time Capsule
+#+filetags: :Commodity:
+
+Category: Salvage
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10212/][Inara: Time Capsule]]

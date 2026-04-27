@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       b1bed782-6b7f-4a57-aee7-d1ed0718c703
+:END:
+#+title: SAP 8 Core Container
+#+filetags: :Commodity:
+
+Category: Salvage
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/90/][Inara: SAP 8 Core Container]]

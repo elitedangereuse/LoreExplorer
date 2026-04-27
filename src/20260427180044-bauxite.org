@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       510c3ff3-837b-4653-84d9-f184547d7c48
+:END:
+#+title: Bauxite
+#+filetags: :Commodity:
+
+Category: Minerals
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/51/][Inara: Bauxite]]

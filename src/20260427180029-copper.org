@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       705bcc40-0a7b-460c-83a5-a556a5ab3bb7
+:END:
+#+title: Copper
+#+filetags: :Commodity:
+
+Category: Metals
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/40/][Inara: Copper]]

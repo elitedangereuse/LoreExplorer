@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       9f08f5c0-3fc5-47db-8686-aafb03fe77be
+:END:
+#+title: Thargoid Basilisk Tissue Sample
+#+filetags: :Commodity:
+
+Category: Salvage
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10236/][Inara: Thargoid Basilisk Tissue Sample]]

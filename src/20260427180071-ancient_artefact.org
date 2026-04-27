@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       3251c737-0eb2-4de2-baa8-9f1e5760641b
+:END:
+#+title: Ancient Artefact
+#+filetags: :Commodity:
+
+Category: Salvage
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/121/][Inara: Ancient Artefact]]

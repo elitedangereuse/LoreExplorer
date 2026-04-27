@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       3a5ea7a6-a4e5-4cfb-96c5-0de3901129c6
+:END:
+#+title: Exhaust Manifold
+#+filetags: :Commodity:
+
+Category: Machinery
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/159/][Inara: Exhaust Manifold]]

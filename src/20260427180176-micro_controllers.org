@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       e87b8a83-ecc1-4d17-917a-964e6196526b
+:END:
+#+title: Micro Controllers
+#+filetags: :Commodity:
+
+Category: Technology
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/156/][Inara: Micro Controllers]]

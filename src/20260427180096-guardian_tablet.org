@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       ea888fbc-5c3d-4c8a-b629-372a880698e0
+:END:
+#+title: Guardian Tablet
+#+filetags: :Commodity:
+
+Category: Salvage
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10156/][Inara: Guardian Tablet]]

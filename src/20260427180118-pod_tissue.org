@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       e08ee267-7844-4a0d-a627-02fa1024dc84
+:END:
+#+title: Pod Tissue
+#+filetags: :Commodity:
+
+Category: Salvage
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10263/][Inara: Pod Tissue]]

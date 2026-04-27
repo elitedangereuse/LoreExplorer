@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       9033bd38-ba1e-4d9e-9022-a6fb49f0fa51
+:END:
+#+title: Thargoid Glaive Tissue Sample
+#+filetags: :Commodity:
+
+Category: Salvage
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10441/][Inara: Thargoid Glaive Tissue Sample]]

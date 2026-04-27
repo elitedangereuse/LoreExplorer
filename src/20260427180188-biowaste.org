@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       64a386cb-57c6-424e-9e2f-487ecef5bb3f
+:END:
+#+title: Biowaste
+#+filetags: :Commodity:
+
+Category: Waste
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/76/][Inara: Biowaste]]

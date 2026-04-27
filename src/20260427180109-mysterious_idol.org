@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       3cc3eb3f-9512-45c3-983b-9300e99468e5
+:END:
+#+title: Mysterious Idol
+#+filetags: :Commodity:
+
+Category: Salvage
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10219/][Inara: Mysterious Idol]]

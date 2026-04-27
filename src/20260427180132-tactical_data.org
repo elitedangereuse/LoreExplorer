@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       6f3b7fbb-bc64-4aa6-8d98-bfc0b91e6dd1
+:END:
+#+title: Tactical Data
+#+filetags: :Commodity:
+
+Category: Salvage
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/180/][Inara: Tactical Data]]

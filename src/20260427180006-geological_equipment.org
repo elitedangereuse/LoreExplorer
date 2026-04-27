@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       0e04d76f-beb3-4466-b944-dc0a2088534e
+:END:
+#+title: Geological Equipment
+#+filetags: :Commodity:
+
+Category: Machinery
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/103/][Inara: Geological Equipment]]

@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       c3e19a01-83a1-41c8-b72d-b93e304ab403
+:END:
+#+title: Thargoid Hydra Tissue Sample
+#+filetags: :Commodity:
+
+Category: Salvage
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10239/][Inara: Thargoid Hydra Tissue Sample]]

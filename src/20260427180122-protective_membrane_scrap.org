@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       db6a6e8a-91aa-4442-8596-b1ca4c33d30e
+:END:
+#+title: Protective Membrane Scrap
+#+filetags: :Commodity:
+
+Category: Salvage
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10449/][Inara: Protective Membrane Scrap]]

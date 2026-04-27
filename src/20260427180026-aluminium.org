@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       94b9dcf4-6a45-48d6-96b9-a343eeeb4ec1
+:END:
+#+title: Aluminium
+#+filetags: :Commodity:
+
+Category: Metals
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/37/][Inara: Aluminium]]

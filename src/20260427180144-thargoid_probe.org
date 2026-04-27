@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       911ada6c-6de2-4ab9-a9aa-d09426d1f9e2
+:END:
+#+title: Thargoid Probe
+#+filetags: :Commodity:
+
+Category: Salvage
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/186/][Inara: Thargoid Probe]]

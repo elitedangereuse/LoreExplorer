@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       3392ce5d-db80-4085-8821-57b2ec3ddf36
+:END:
+#+title: Thermal Cooling Units
+#+filetags: :Commodity:
+
+Category: Machinery
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/105/][Inara: Thermal Cooling Units]]

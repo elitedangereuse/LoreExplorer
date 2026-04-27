@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       e539b6f4-4cf8-4069-b49e-3433b4270f78
+:END:
+#+title: Radiation Baffle
+#+filetags: :Commodity:
+
+Category: Machinery
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/162/][Inara: Radiation Baffle]]

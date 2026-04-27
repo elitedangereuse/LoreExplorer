@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       2eba8249-7fcb-457d-945a-8e36564496ef
+:END:
+#+title: Thargoid Orthrus Tissue Sample
+#+filetags: :Commodity:
+
+Category: Salvage
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10438/][Inara: Thargoid Orthrus Tissue Sample]]

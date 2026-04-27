@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       5736dd4c-6645-4a96-b30b-7a56277decab
+:END:
+#+title: Steel
+#+filetags: :Commodity:
+
+Category: Metals
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10487/][Inara: Steel]]

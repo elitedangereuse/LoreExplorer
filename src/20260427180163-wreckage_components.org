@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       ddf15bc1-5557-420a-a7f5-4b87154fe1fd
+:END:
+#+title: Wreckage Components
+#+filetags: :Commodity:
+
+Category: Salvage
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10207/][Inara: Wreckage Components]]

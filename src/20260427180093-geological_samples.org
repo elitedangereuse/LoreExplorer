@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       90a84982-b63c-46fc-b5ee-a308113b0a0a
+:END:
+#+title: Geological Samples
+#+filetags: :Commodity:
+
+Category: Salvage
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/174/][Inara: Geological Samples]]

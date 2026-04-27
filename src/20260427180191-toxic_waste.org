@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       4390832c-737a-482e-aabf-9b8595910797
+:END:
+#+title: Toxic Waste
+#+filetags: :Commodity:
+
+Category: Waste
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/54/][Inara: Toxic Waste]]

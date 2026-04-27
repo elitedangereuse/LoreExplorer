@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       b5d5b9a8-59ce-4cea-ad0b-fe4eb0d36cc9
+:END:
+#+title: Benitoite
+#+filetags: :Commodity:
+
+Category: Minerals
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10247/][Inara: Benitoite]]

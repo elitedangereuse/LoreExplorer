@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       11ae2103-e28e-48f9-a073-84886c94dc5b
+:END:
+#+title: Thargoid Resin
+#+filetags: :Commodity:
+
+Category: Salvage
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10162/][Inara: Thargoid Resin]]

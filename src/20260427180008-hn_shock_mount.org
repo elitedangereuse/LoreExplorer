@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       922f8c62-3d78-47aa-9b41-b73f65e00c3f
+:END:
+#+title: HN Shock Mount
+#+filetags: :Commodity:
+
+Category: Machinery
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/150/][Inara: HN Shock Mount]]

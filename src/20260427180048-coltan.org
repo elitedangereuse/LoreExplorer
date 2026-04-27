@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       047e63e2-7b61-424c-a330-e712609eaba5
+:END:
+#+title: Coltan
+#+filetags: :Commodity:
+
+Category: Minerals
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/55/][Inara: Coltan]]

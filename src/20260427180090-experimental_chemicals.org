@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       6a397196-a348-4efa-963a-48190370240d
+:END:
+#+title: Experimental Chemicals
+#+filetags: :Commodity:
+
+Category: Salvage
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/123/][Inara: Experimental Chemicals]]

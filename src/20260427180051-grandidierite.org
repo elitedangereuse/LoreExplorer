@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       89fd72fb-6b6f-4a55-a1fc-f394b20bffc0
+:END:
+#+title: Grandidierite
+#+filetags: :Commodity:
+
+Category: Minerals
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10248/][Inara: Grandidierite]]

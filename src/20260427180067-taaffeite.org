@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       bf15ec63-8d0f-4cb0-939d-c4da8539967a
+:END:
+#+title: Taaffeite
+#+filetags: :Commodity:
+
+Category: Minerals
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/120/][Inara: Taaffeite]]

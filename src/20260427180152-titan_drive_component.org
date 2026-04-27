@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       7c5a257f-90cf-4e6c-9e31-fe388a8b0e09
+:END:
+#+title: Titan Drive Component
+#+filetags: :Commodity:
+
+Category: Salvage
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10457/][Inara: Titan Drive Component]]

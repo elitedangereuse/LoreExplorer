@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       16f841c1-d092-40e0-9511-e76950c6e543
+:END:
+#+title: Damaged Escape Pod
+#+filetags: :Commodity:
+
+Category: Salvage
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10215/][Inara: Damaged Escape Pod]]

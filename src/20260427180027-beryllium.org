@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       bd0fe4ab-145e-431c-b06e-3433e2618bff
+:END:
+#+title: Beryllium
+#+filetags: :Commodity:
+
+Category: Metals
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/38/][Inara: Beryllium]]

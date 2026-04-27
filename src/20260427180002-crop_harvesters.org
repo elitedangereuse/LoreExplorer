@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       4397a456-5661-4e9e-9bcf-c1444e421414
+:END:
+#+title: Crop Harvesters
+#+filetags: :Commodity:
+
+Category: Machinery
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/29/][Inara: Crop Harvesters]]

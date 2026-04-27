@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       ec55516c-d292-4c5b-8390-b665453c8118
+:END:
+#+title: Energy Grid Assembly
+#+filetags: :Commodity:
+
+Category: Machinery
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/149/][Inara: Energy Grid Assembly]]

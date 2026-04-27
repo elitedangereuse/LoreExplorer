@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       8ddf8e00-4541-4857-a609-5f6c5849dded
+:END:
+#+title: Thargoid Sensor
+#+filetags: :Commodity:
+
+Category: Salvage
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10226/][Inara: Thargoid Sensor]]

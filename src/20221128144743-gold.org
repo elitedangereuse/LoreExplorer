@@ -2,4 +2,5 @@
 :ID:       5f6084d4-822d-4a6e-8127-230eb07163e2
 :END:
 #+title: Gold
+#+filetags: :Commodity:
 

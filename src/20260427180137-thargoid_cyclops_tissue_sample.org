@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       aade999e-3751-4780-bc3c-1870cd822a44
+:END:
+#+title: Thargoid Cyclops Tissue Sample
+#+filetags: :Commodity:
+
+Category: Salvage
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10234/][Inara: Thargoid Cyclops Tissue Sample]]

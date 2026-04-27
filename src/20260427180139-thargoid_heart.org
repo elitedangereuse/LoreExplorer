@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       7f79f794-2474-45a5-983a-62e252fb283b
+:END:
+#+title: Thargoid Heart
+#+filetags: :Commodity:
+
+Category: Salvage
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10235/][Inara: Thargoid Heart]]

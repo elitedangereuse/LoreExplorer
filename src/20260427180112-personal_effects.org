@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       e0f1c53d-a3ba-41c2-a21c-a7afecfcebbd
+:END:
+#+title: Personal Effects
+#+filetags: :Commodity:
+
+Category: Salvage
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10159/][Inara: Personal Effects]]

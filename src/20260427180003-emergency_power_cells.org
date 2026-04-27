@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       a081e7d6-7384-47d3-87d4-0c2324c9f3d0
+:END:
+#+title: Emergency Power Cells
+#+filetags: :Commodity:
+
+Category: Machinery
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/158/][Inara: Emergency Power Cells]]

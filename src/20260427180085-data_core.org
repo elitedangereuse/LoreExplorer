@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       4a7f2efa-839e-4693-bd28-e61782339068
+:END:
+#+title: Data Core
+#+filetags: :Commodity:
+
+Category: Salvage
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10166/][Inara: Data Core]]

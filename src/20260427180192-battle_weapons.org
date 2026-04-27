@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       6f8b14ec-06ee-4f36-b646-15146a0ca81b
+:END:
+#+title: Battle Weapons
+#+filetags: :Commodity:
+
+Category: Weapons
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/88/][Inara: Battle Weapons]]

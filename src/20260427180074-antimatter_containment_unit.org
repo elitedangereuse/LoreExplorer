@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       bd16d441-d791-4a17-b240-044b907de340
+:END:
+#+title: Antimatter Containment Unit
+#+filetags: :Commodity:
+
+Category: Salvage
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10167/][Inara: Antimatter Containment Unit]]

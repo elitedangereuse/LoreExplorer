@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       80bc68f0-97dc-433b-8b43-3e312e80996c
+:END:
+#+title: Mineral Extractors
+#+filetags: :Commodity:
+
+Category: Machinery
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/31/][Inara: Mineral Extractors]]

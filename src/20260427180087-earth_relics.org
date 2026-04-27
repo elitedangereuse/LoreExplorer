@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       de96e6c4-f83f-409f-97a1-0a23e453b637
+:END:
+#+title: Earth Relics
+#+filetags: :Commodity:
+
+Category: Salvage
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10210/][Inara: Earth Relics]]

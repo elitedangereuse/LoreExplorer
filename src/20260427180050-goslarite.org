@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       15773de1-471d-4b58-a808-fb254eedecb8
+:END:
+#+title: Goslarite
+#+filetags: :Commodity:
+
+Category: Minerals
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/111/][Inara: Goslarite]]

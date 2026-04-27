@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       1a3e36ec-ffa6-417d-9df6-68a9694053d6
+:END:
+#+title: Mollusc Fluid
+#+filetags: :Commodity:
+
+Category: Salvage
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10255/][Inara: Mollusc Fluid]]

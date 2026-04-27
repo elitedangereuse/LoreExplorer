@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       14c37d24-900d-4818-ad48-07755f19d6c8
+:END:
+#+title: Unoccupied Escape Pod
+#+filetags: :Commodity:
+
+Category: Salvage
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10440/][Inara: Unoccupied Escape Pod]]

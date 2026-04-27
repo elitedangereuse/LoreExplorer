@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       55ec1865-26aa-4631-aaeb-ffa584d5bf9c
+:END:
+#+title: Pod Core Tissue
+#+filetags: :Commodity:
+
+Category: Salvage
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10259/][Inara: Pod Core Tissue]]

@@ -3,3 +3,4 @@
 :ROAM_ALIASES: Urne
 :END:
 #+title: Guardian Urn
+#+filetags: :Commodity:

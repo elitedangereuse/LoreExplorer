@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       9e0d3d1a-0515-4718-91e0-514281b9e77f
+:END:
+#+title: Indite
+#+filetags: :Commodity:
+
+Category: Minerals
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/57/][Inara: Indite]]

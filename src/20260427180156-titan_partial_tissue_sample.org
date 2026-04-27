@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       28ba1017-d6ed-4c7f-bbc9-9bd2f15acb49
+:END:
+#+title: Titan Partial Tissue Sample
+#+filetags: :Commodity:
+
+Category: Salvage
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10444/][Inara: Titan Partial Tissue Sample]]

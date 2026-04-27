@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       e170a646-b94b-4850-ae9c-4be4d04a9d2f
+:END:
+#+title: Thargoid Medusa Tissue Sample
+#+filetags: :Commodity:
+
+Category: Salvage
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10237/][Inara: Thargoid Medusa Tissue Sample]]

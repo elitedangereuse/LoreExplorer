@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       5ab36db3-1204-4cf6-93ef-ba8f69c938e2
+:END:
+#+title: Thargoid Scythe Tissue Sample
+#+filetags: :Commodity:
+
+Category: Salvage
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10448/][Inara: Thargoid Scythe Tissue Sample]]

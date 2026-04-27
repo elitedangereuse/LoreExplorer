@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       ec502800-efc2-43c6-a3fb-a7ca63644909
+:END:
+#+title: Titan Maw Tissue Sample
+#+filetags: :Commodity:
+
+Category: Salvage
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10447/][Inara: Titan Maw Tissue Sample]]

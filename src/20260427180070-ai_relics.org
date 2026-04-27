@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       64fbd8db-9396-456d-94f8-bb4e6251b8c6
+:END:
+#+title: AI Relics
+#+filetags: :Commodity:
+
+Category: Salvage
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/89/][Inara: AI Relics]]

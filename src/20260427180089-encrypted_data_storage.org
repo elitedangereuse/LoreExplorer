@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       a19885be-9e9f-44fc-9623-8322f3c7cd64
+:END:
+#+title: Encrypted Data Storage
+#+filetags: :Commodity:
+
+Category: Salvage
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/173/][Inara: Encrypted Data Storage]]

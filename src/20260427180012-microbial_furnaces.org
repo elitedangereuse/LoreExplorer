@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       8c12828c-5756-4b81-b742-6d52bb3c77f5
+:END:
+#+title: Microbial Furnaces
+#+filetags: :Commodity:
+
+Category: Machinery
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/85/][Inara: Microbial Furnaces]]

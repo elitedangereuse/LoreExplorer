@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       790e8a87-7557-44f8-867e-9aa92acfa9b7
+:END:
+#+title: Bismuth
+#+filetags: :Commodity:
+
+Category: Metals
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/106/][Inara: Bismuth]]

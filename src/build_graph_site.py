@@ -7,6 +7,7 @@ import html
 import json
 import math
 import re
+import shlex
 import shutil
 import sqlite3
 import unicodedata
@@ -282,6 +283,51 @@ def resolve_note_path(raw_path: str, src_dir: Path) -> Path:
     return fallback
 
 
+def parse_roam_aliases(raw_value: str) -> list[str]:
+    value = clean_db_text(raw_value).strip()
+    if not value:
+        return []
+    try:
+        return [token.strip() for token in shlex.split(value) if token.strip()]
+    except ValueError:
+        return [value]
+
+
+def parse_file_note_metadata(path: Path) -> tuple[str, str, list[str], list[str]]:
+    node_id = ""
+    title = ""
+    tags: list[str] = []
+    aliases: list[str] = []
+    in_properties = False
+
+    for raw_line in path.read_text(encoding="utf-8").splitlines():
+        line = raw_line.strip()
+        if line == ":PROPERTIES:":
+            in_properties = True
+            continue
+        if in_properties:
+            if line == ":END:":
+                in_properties = False
+                continue
+            if line.startswith(":ID:"):
+                node_id = line[len(":ID:"):].strip()
+            elif line.startswith(":ROAM_ALIASES:"):
+                aliases = parse_roam_aliases(line[len(":ROAM_ALIASES:"):].strip())
+            continue
+
+        if raw_line.startswith("#+title:"):
+            title = raw_line[len("#+title:"):].strip()
+            continue
+        if raw_line.startswith("#+filetags:"):
+            tags = [tag for tag in raw_line[len("#+filetags:"):].strip().split(":") if tag]
+            continue
+
+        if node_id and title:
+            break
+
+    return node_id, title, tags, aliases
+
+
 def load_notes(db_path: Path, src_dir: Path) -> tuple[dict[str, Note], list[tuple[str, str]]]:
     connection = sqlite3.connect(db_path)
     connection.row_factory = sqlite3.Row
@@ -289,12 +335,32 @@ def load_notes(db_path: Path, src_dir: Path) -> tuple[dict[str, Note], list[tupl
     notes: dict[str, Note] = {}
     tags: dict[str, list[str]] = defaultdict(list)
     aliases: dict[str, list[str]] = defaultdict(list)
+    file_tags: dict[str, list[str]] = {}
+    file_aliases: dict[str, list[str]] = {}
+    db_note_ids: set[str] = set()
+    file_only_note_ids: set[str] = set()
 
     for row in connection.execute("SELECT id, file, COALESCE(title, '') AS title FROM nodes"):
         node_id = clean_db_text(row["id"])
         note_path = resolve_note_path(clean_db_text(row["file"]), src_dir)
         title = clean_db_text(row["title"]).strip() or note_path.stem
         notes[node_id] = Note(node_id=node_id, title=title, file=note_path)
+        db_note_ids.add(node_id)
+
+    for note_path in sorted(src_dir.glob("*.org")):
+        node_id, title, parsed_tags, parsed_aliases = parse_file_note_metadata(note_path)
+        if not node_id:
+            continue
+        file_tags[node_id] = parsed_tags
+        file_aliases[node_id] = parsed_aliases
+        if node_id in notes:
+            continue
+        notes[node_id] = Note(
+            node_id=node_id,
+            title=title or note_path.stem,
+            file=note_path,
+        )
+        file_only_note_ids.add(node_id)
 
     for row in connection.execute("SELECT node_id, tag FROM tags WHERE tag IS NOT NULL AND tag != ''"):
         node_id = clean_db_text(row["node_id"])
@@ -317,9 +383,22 @@ def load_notes(db_path: Path, src_dir: Path) -> tuple[dict[str, Note], list[tupl
             notes[source].outbound += 1
             notes[dest].inbound += 1
 
+    for node_id in file_only_note_ids:
+        text = notes[node_id].file.read_text(encoding="utf-8")
+        for match in ORG_LINK_RE.finditer(text):
+            target = match.group(1)
+            if not target.startswith("id:"):
+                continue
+            dest = target[3:]
+            if dest not in notes:
+                continue
+            links.append((node_id, dest))
+            notes[node_id].outbound += 1
+            notes[dest].inbound += 1
+
     for node_id, note in notes.items():
-        note.tags = sorted(dict.fromkeys(tags[node_id]))
-        note.aliases = sorted(dict.fromkeys(aliases[node_id]))
+        note.tags = sorted(dict.fromkeys(tags[node_id] or file_tags.get(node_id, [])))
+        note.aliases = sorted(dict.fromkeys(aliases[node_id] or file_aliases.get(node_id, [])))
 
     connection.close()
     return notes, links

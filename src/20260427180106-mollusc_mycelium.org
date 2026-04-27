@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       830fef42-7b84-491a-8b38-0633803a7bcd
+:END:
+#+title: Mollusc Mycelium
+#+filetags: :Commodity:
+
+Category: Salvage
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10253/][Inara: Mollusc Mycelium]]

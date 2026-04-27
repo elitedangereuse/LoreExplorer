@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       2ce50835-6eff-4466-baa5-0ac8538f3f47
+:END:
+#+title: Natural Fabrics
+#+filetags: :Commodity:
+
+Category: Textiles
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/74/][Inara: Natural Fabrics]]

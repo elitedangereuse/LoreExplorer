@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       2c4a5e39-931d-47c0-b85c-95ae3d8a1adc
+:END:
+#+title: Thargoid Biological Matter
+#+filetags: :Commodity:
+
+Category: Salvage
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10160/][Inara: Thargoid Biological Matter]]

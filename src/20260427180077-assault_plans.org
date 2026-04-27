@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       bc764046-c4c7-4c84-8a49-61fd78526bfd
+:END:
+#+title: Assault Plans
+#+filetags: :Commodity:
+
+Category: Salvage
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/169/][Inara: Assault Plans]]

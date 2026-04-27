@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       98ea3ca1-d459-4cee-b6fd-ab5da7574473
+:END:
+#+title: Jadeite
+#+filetags: :Commodity:
+
+Category: Minerals
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/168/][Inara: Jadeite]]

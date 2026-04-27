@@ -2,4 +2,5 @@
 :ID:       34acf2f1-676d-4e52-86f4-80dc606e435c
 :END:
 #+title: Power Generators
+#+filetags: :Commodity:
 

@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       3ef4f33f-9df9-4adf-85db-296472ed1c22
+:END:
+#+title: Guardian Totem
+#+filetags: :Commodity:
+
+Category: Salvage
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10157/][Inara: Guardian Totem]]

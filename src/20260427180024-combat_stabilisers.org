@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       03c7bc7d-055d-42e3-a8a0-446ee2ecebdb
+:END:
+#+title: Combat Stabilisers
+#+filetags: :Commodity:
+
+Category: Medicines
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/34/][Inara: Combat Stabilisers]]

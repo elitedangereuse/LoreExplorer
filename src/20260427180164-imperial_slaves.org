@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       02df3938-8684-467d-b46e-cd60621e1fd3
+:END:
+#+title: Imperial Slaves
+#+filetags: :Commodity:
+
+Category: Slaves
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/49/][Inara: Imperial Slaves]]

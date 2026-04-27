@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       f754bcfc-ca6e-4f03-9091-da509e836152
+:END:
+#+title: Chemical Waste
+#+filetags: :Commodity:
+
+Category: Waste
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/32/][Inara: Chemical Waste]]

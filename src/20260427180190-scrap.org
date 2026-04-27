@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       639c7c13-7a10-46b4-b2de-82db57364db1
+:END:
+#+title: Scrap
+#+filetags: :Commodity:
+
+Category: Waste
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/77/][Inara: Scrap]]

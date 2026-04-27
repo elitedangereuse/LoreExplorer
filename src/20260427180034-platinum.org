@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       045f7139-ac68-453c-b97f-b61c8a9c370d
+:END:
+#+title: Platinum
+#+filetags: :Commodity:
+
+Category: Metals
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/81/][Inara: Platinum]]

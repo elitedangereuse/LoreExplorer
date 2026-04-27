@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       f201d1c5-69d1-4cb6-b6e7-a4c62545cfd3
+:END:
+#+title: Heatsink Interlink
+#+filetags: :Commodity:
+
+Category: Machinery
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/151/][Inara: Heatsink Interlink]]

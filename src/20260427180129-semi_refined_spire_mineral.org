@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       b4577e06-1717-409b-ae08-c94d5e413d9f
+:END:
+#+title: Semi-Refined Spire Mineral
+#+filetags: :Commodity:
+
+Category: Salvage
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10453/][Inara: Semi-Refined Spire Mineral]]

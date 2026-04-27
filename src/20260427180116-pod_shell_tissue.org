@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       734d7ccc-b18e-4e66-9679-14748d6ba620
+:END:
+#+title: Pod Shell Tissue
+#+filetags: :Commodity:
+
+Category: Salvage
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10261/][Inara: Pod Shell Tissue]]

@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       83845d3c-8866-4330-bdfe-f03f64fb5938
+:END:
+#+title: Scientific Samples
+#+filetags: :Commodity:
+
+Category: Salvage
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/179/][Inara: Scientific Samples]]

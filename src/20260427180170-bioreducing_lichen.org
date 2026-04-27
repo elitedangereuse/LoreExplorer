@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       e164945a-cf1d-44d3-8d42-19bbde87cd56
+:END:
+#+title: Bioreducing Lichen
+#+filetags: :Commodity:
+
+Category: Technology
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/66/][Inara: Bioreducing Lichen]]

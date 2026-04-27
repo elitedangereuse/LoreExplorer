@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       2c04f3b7-2de8-4720-8459-d2651cf99b3b
+:END:
+#+title: Pod Outer Tissue
+#+filetags: :Commodity:
+
+Category: Salvage
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10260/][Inara: Pod Outer Tissue]]

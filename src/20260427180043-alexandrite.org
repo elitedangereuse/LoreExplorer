@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       fbe73cad-acb1-4d60-bdd3-0224427cd9d7
+:END:
+#+title: Alexandrite
+#+filetags: :Commodity:
+
+Category: Minerals
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10249/][Inara: Alexandrite]]

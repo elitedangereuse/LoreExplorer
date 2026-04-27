@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       f7cecb6c-6f5a-484b-8360-fb299214131e
+:END:
+#+title: Personal Weapons
+#+filetags: :Commodity:
+
+Category: Weapons
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/79/][Inara: Personal Weapons]]

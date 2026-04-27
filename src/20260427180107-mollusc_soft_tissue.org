@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       ed1b0caa-6197-45f6-aaa8-90b43d7d8c4c
+:END:
+#+title: Mollusc Soft Tissue
+#+filetags: :Commodity:
+
+Category: Salvage
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10254/][Inara: Mollusc Soft Tissue]]

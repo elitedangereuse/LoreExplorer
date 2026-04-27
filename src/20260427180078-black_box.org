@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       582edea8-8f58-4188-b50a-bbb8ed3d20f4
+:END:
+#+title: Black Box
+#+filetags: :Commodity:
+
+Category: Salvage
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/122/][Inara: Black Box]]

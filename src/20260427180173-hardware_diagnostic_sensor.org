@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       c5dd476c-8dea-4bbb-b1af-34bf30b73086
+:END:
+#+title: Hardware Diagnostic Sensor
+#+filetags: :Commodity:
+
+Category: Technology
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/155/][Inara: Hardware Diagnostic Sensor]]

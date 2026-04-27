@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       1a1c6734-7770-432d-9215-dac0a0292695
+:END:
+#+title: Mollusc Brain Tissue
+#+filetags: :Commodity:
+
+Category: Salvage
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10256/][Inara: Mollusc Brain Tissue]]

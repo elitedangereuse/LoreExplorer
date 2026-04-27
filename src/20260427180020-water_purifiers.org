@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       2f1be518-d6d9-4e2e-84ce-ea7e5d86e099
+:END:
+#+title: Water Purifiers
+#+filetags: :Commodity:
+
+Category: Machinery
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/82/][Inara: Water Purifiers]]

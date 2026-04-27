@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       106e5bb4-bdff-4410-b683-6fb0d38b616d
+:END:
+#+title: Thargoid Bio-storage Capsule
+#+filetags: :Commodity:
+
+Category: Salvage
+
+Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10450/][Inara: Thargoid Bio-storage Capsule]]
