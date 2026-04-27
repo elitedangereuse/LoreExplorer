@@ -8,7 +8,9 @@
 #+begin_quote
 In Depth Protection are a relatively new player on the military
 supply scene, but they are already making some big
-waves.'Countermeasures and military grade electronic warfare suites
+waves.
+
+'Countermeasures and military grade electronic warfare suites
 for those close encounters.'
 #+end_quote
 

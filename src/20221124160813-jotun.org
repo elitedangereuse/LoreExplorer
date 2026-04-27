@@ -20,8 +20,7 @@ individually during transit.
 
 [[file:img/permit.png]]
 Faction: [[id:0ebec0eb-5f68-47f5-9a0e-dd1b47f140f7][Dukes of Jotun]]
-Benefits: Access to Rare Good (Juton Mookah)
-Note: Blanquichu has a HAZ RES where you can boost your influence.
+Benefits: Access to Rare Good (Jotun Mookah)
 
 [[file:img/systems/jotun.png]]
 Rare commodity source: [[id:49e47710-c7cc-4253-95b4-f882929e3d4d][Jotun Mookah]] at [[id:4a7a1d62-f757-4e87-adc4-38f25dc82f60][Icelock]].

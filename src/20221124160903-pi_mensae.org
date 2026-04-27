@@ -12,7 +12,5 @@ no one can hear you pump!'
 
 [[file:img/permit.png]]
 
-Faction: [[id:2e3506f7-3fa1-4bd4-b275-86d44648fe3e][Pi Mensae Brotherhood]]
-Benefits: none known
-
-[[https://inara.cz/elite/station/267537/][Zewail's Inheritance in Ngugira]]
+- Faction: [[id:2e3506f7-3fa1-4bd4-b275-86d44648fe3e][Pi Mensae Brotherhood]]
+- Benefits: none known

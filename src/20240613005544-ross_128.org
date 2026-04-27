@@ -1,8 +1,0 @@
-:PROPERTIES:
-:ID:       9ccef7b7-1c1c-4819-a2a7-088f4211a70b
-:END:
-#+title: ROSS 128
-#+filetags: :Federation:Rank:Permit:System:
-[[file:img/permit.png]]
-
-Rank: Ensign

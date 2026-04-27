@@ -3,6 +3,7 @@
 :ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Ross_128
 :END:
 #+title: Ross 128
+#+filetags: :Federation:Rank:Permit:System:
 
 #+begin_quote
 Prisoners are housed in underground cell complexes, and set to do
@@ -10,7 +11,8 @@ manual mining work. Visitors are allowed, but an entry permit must
 first be obtained. There is reputed to be a seedier side to the
 colony whereby lonely visitors may enter without a permit while the
 guards turn a blind eye for a fee, but this is always denied.
+
+The permit for this system can be obtained From the Federal Military.
 #+end_quote
 
-#+filetags: :System:Permit:
-[[file:img/permit.png]]
+Rank: Ensign
