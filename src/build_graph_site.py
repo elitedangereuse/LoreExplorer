@@ -48,6 +48,7 @@ PRIORITY_GROUPS = [
 
 ORG_LINK_RE = re.compile(r"\[\[([^\]]+)\](?:\[([^\]]+)\])?\]")
 IMAGE_SUFFIXES = {".png", ".jpg", ".jpeg", ".gif", ".webp", ".svg"}
+LIST_ITEM_RE = re.compile(r"^(\s*)([-+*]|\d+[.)])\s+(.*)$")
 
 
 @dataclass
@@ -443,6 +444,46 @@ def headings_match_title(heading_text: str, title: str) -> bool:
     return normalize(strip_org_markup(heading_text)) == normalize(title)
 
 
+def render_list_block(entries: list[tuple[int, str, str]]) -> tuple[str, list[str]]:
+    plain_text_items: list[str] = []
+
+    def list_tag(marker: str) -> str:
+        return "ol" if re.match(r"\d", marker) else "ul"
+
+    def build_list(start_index: int, base_indent: int) -> tuple[str, int]:
+        current_tag = list_tag(entries[start_index][1])
+        items_html: list[str] = []
+        index = start_index
+
+        while index < len(entries):
+            indent, marker, text = entries[index]
+            if indent < base_indent:
+                break
+            if indent != base_indent or list_tag(marker) != current_tag:
+                break
+
+            plain_text_items.append(strip_org_markup(text))
+            item_html = apply_inline_markup(text)
+            index += 1
+
+            nested_html: list[str] = []
+            while index < len(entries) and entries[index][0] > base_indent:
+                nested_block, index = build_list(index, entries[index][0])
+                nested_html.append(nested_block)
+
+            items_html.append(f"<li>{item_html}{''.join(nested_html)}</li>")
+
+        return f"<{current_tag}>{''.join(items_html)}</{current_tag}>", index
+
+    blocks: list[str] = []
+    index = 0
+    while index < len(entries):
+        block_html, index = build_list(index, entries[index][0])
+        blocks.append(block_html)
+
+    return "".join(blocks), plain_text_items
+
+
 def render_org_note(note: Note) -> str:
     if not note.file.exists():
         return (
@@ -456,7 +497,7 @@ def render_org_note(note: Note) -> str:
     lines = strip_metadata(raw_lines)
     blocks: list[str] = []
     paragraph_lines: list[str] = []
-    list_items: list[str] = []
+    list_entries: list[tuple[int, str, str]] = []
     plain_text_lines: list[str] = []
 
     def flush_paragraph() -> None:
@@ -471,13 +512,13 @@ def render_org_note(note: Note) -> str:
         paragraph_lines = []
 
     def flush_list() -> None:
-        nonlocal list_items
-        if not list_items:
+        nonlocal list_entries
+        if not list_entries:
             return
-        items = "".join(f"<li>{apply_inline_markup(item)}</li>" for item in list_items)
-        blocks.append(f"<ul>{items}</ul>")
-        plain_text_lines.extend(strip_org_markup(item) for item in list_items)
-        list_items = []
+        list_html, list_plain_text = render_list_block(list_entries)
+        blocks.append(list_html)
+        plain_text_lines.extend(list_plain_text)
+        list_entries = []
 
     for line in lines:
         if not line.strip():
@@ -497,10 +538,11 @@ def render_org_note(note: Note) -> str:
             blocks.append(f"<h{level}>{apply_inline_markup(heading_text)}</h{level}>")
             continue
 
-        list_match = re.match(r"^[-+]\s+(.*)$", line)
+        list_match = LIST_ITEM_RE.match(line)
         if list_match:
             flush_paragraph()
-            list_items.append(list_match.group(1).strip())
+            indent = len(list_match.group(1).expandtabs(4))
+            list_entries.append((indent, list_match.group(2), list_match.group(3).strip()))
             continue
 
         paragraph_lines.append(line)

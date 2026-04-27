@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c00dcd18-778c-4fca-acbd-cba6f2ded57e
+:END:
+#+title: The Code
+#+filetags: :Faction:
+
+The Code is a pirate group formed in 3278 whose members were later based
+in [[id:c4c312cb-b838-47aa-8067-18710bbba82b][Orrere]]. The group has clashed with the [[id:4a1b5faf-78c6-4558-99ad-5c4bbba16568][East India Company]] and at one
+point allied with [[id:7aae0550-b8ba-42cf-b52b-e7040461c96f][Archon Delaine]] before breaking away.
+
+Sources: [[https://elite-dangerous.fandom.com/wiki/Orrere][Orrere system description]], [[https://inara.cz/elite/news/3301/][Galnet: Hostage Crisis in Eotienses Turns Bloody]], [[https://inara.cz/elite/news/3301/][Galnet: The Code Leaves Archon Delaine's Crew]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6003defd-b8fc-47fe-a6b2-769d6963ced1
+:ROAM_ALIASES: "Proxima"
+:END:
+#+title: Proxima Centauri
+#+filetags: :Star:
+
+Proxima Centauri is the stellar body in the [[id:2de7ac5c-9ae0-4ebf-af7d-6505f05d2fd1][Alpha Centauri]] system whose hard
+radiation contributed to Eden's inhospitable conditions.
+
+Sources: [[https://elite-dangerous.fandom.com/wiki/Alpha_Centauri][Alpha Centauri system description]]

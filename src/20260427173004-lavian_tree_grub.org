@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       0731c3e5-59d2-45de-8d9a-e72fb3942bba
+:END:
+#+title: Lavian Tree Grub
+#+filetags: :Specie:
+
+The Lavian tree grub is an extinct species once native to
+[[id:ff595332-6a13-4f69-ae2f-cc0a0df8e741][Lave]].
+
+Sources: [[https://elite-dangerous.fandom.com/wiki/Lave][Lave system description]]

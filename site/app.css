@@ -1183,8 +1183,28 @@ code {
   line-height: 1.72;
 }
 
-.note-body ul {
+.note-body ul,
+.note-body ol {
+  margin: 0 0 16px;
   padding-left: 22px;
+}
+
+.note-body li {
+  padding-left: 4px;
+}
+
+.note-body li + li {
+  margin-top: 6px;
+}
+
+.note-body li > ul,
+.note-body li > ol {
+  margin-top: 8px;
+  margin-bottom: 0;
+}
+
+.note-body li::marker {
+  color: rgba(225, 237, 248, 0.7);
 }
 
 .note-date {

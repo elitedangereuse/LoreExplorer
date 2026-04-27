@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       4a1b5faf-78c6-4558-99ad-5c4bbba16568
+:END:
+#+title: East India Company
+#+filetags: :Corporation:
+
+The East India Company is an Imperial trade organisation active in
+rare-goods trading, convoy protection, and the distribution of
+[[id:b160f4b1-1751-41c2-b0bd-e7c6e8dc2f2d][Onionhead]]. It is headquartered in [[id:b634e896-9d3d-4f44-9783-cfb8fd6d0c56][Kappa Fornacis]], and Senator
+[[id:d8e3667c-3ba1-43aa-bc90-dac719c6d5e7][Zemina Torval]] is described as a major shareholder.
+
+Sources: [[https://elite-dangerous.fandom.com/wiki/Kappa_Fornacis][Kappa Fornacis system description]], [[https://inara.cz/elite/news/3301/][Galnet: East India Company Announces Galactic Silk Road]], [[https://inara.cz/elite/news/3301/][Galnet: Controlling the Credit Crops]]

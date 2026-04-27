@@ -26,7 +26,7 @@ hallowed route and, perhaps one day, find a cure for MODS.
 
 Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Alpha_Centauri][Fandom: Alpha Centauri]]
 
-Related: [[id:9e3161ac-9252-44d0-a526-b6e289cf28ee][Hutton Orbital]], [[id:56b510cd-e1c0-4183-845f-397475330ab2][Hutton Mug]], [[id:46bf843d-4f3a-43c9-99a4-75999d94f368][MODS]].
+Related: [[id:6003defd-b8fc-47fe-a6b2-769d6963ced1][Proxima Centauri]], [[id:9e3161ac-9252-44d0-a526-b6e289cf28ee][Hutton Orbital]], [[id:56b510cd-e1c0-4183-845f-397475330ab2][Hutton Mug]], [[id:46bf843d-4f3a-43c9-99a4-75999d94f368][MODS]].
 
 [[file:img/systems/alpha centauri.png]]
 Rare commodity source: [[id:ff00bb13-596c-4813-ac8b-03592016b323][Centauri Mega Gin]] at [[id:9e3161ac-9252-44d0-a526-b6e289cf28ee][Hutton Orbital]].

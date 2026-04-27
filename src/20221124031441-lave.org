@@ -11,5 +11,7 @@ tree grub.
 
 Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Lave][Fandom: Lave]]
 
+Related: [[id:0731c3e5-59d2-45de-8d9a-e72fb3942bba][Lavian Tree Grub]].
+
 - Starting world in Elite+ in 1984
 Rare commodity source: [[id:5efc49f5-465f-4dd8-afaa-b6bb3595a58c][Lavian Brandy]] at [[id:10b9df10-b4c7-449a-9c50-4ad011256417][Lave Station]].
