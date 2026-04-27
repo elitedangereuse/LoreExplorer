@@ -131,6 +131,12 @@ const state = {
   noteCursorEnd: 0,
   layerContextMenu: { open: false, layerId: null },
   tooltip: { sourceType: null, sourceKey: null },
+  pathFromNodeId: null,
+  pathToNodeId: null,
+  sharedNeighborLeftId: null,
+  sharedNeighborRightId: null,
+  detectiveSearchQuery: "",
+  detectiveSearchTarget: null, // 'pathFrom' | 'pathTo' | 'sharedLeft' | 'sharedRight'
 };
 
 const INVESTIGATION_STORAGE_KEY = "org-roam-investigator-v1";
@@ -220,6 +226,15 @@ function canonicalizeTag(value) {
     .trim();
 }
 
+function normalize(text) {
+  return String(text || "")
+    .normalize("NFKD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, " ")
+    .trim();
+}
+
 function escapeHtml(value) {
   return String(value)
     .replace(/&/g, "&amp;")
@@ -236,6 +251,19 @@ function delay(ms) {
   return new Promise((resolve) => window.setTimeout(resolve, ms));
 }
 
+function debounce(fn, ms) {
+  let timer = null;
+  return (...args) => {
+    if (timer) {
+      clearTimeout(timer);
+    }
+    timer = setTimeout(() => {
+      fn(...args);
+      timer = null;
+    }, ms);
+  };
+}
+
 function generateId(prefix) {
   return `${prefix}-${Date.now().toString(36)}-${Math.random().toString(36).slice(2, 8)}`;
 }
@@ -243,6 +271,15 @@ function generateId(prefix) {
 function timestamp() {
   return new Date().toISOString();
 }
+
+const debouncedSaveInvestigationState = debounce(() => {
+  saveInvestigationState({ syncLayer: true });
+}, 300);
+
+const debouncedRebuildAndRender = debounce(() => {
+  rebuildRuntimeGraphData();
+  render();
+}, 200);
 
 function getStorage() {
   try {
@@ -1377,7 +1414,7 @@ function getBaseVisibleNodeIds() {
     return visibleIds;
   }
 
-  if (state.detectiveMode && isActiveLayerVisible() && state.pathFocus && state.activePathNodeIds.length) {
+  if (state.detectiveMode && state.pathFocus && state.activePathNodeIds.length) {
     const visibleIds = new Set(state.activePathNodeIds);
     if (state.graphRootNodeId) {
       visibleIds.add(state.graphRootNodeId);
@@ -1447,6 +1484,9 @@ function getBaseVisibleNodeIds() {
 }
 
 function isRuntimeNodeVisible(node) {
+  if (state.detectiveMode && state.pathFocus && state.activePathNodeIds.includes(node.id)) {
+    return true;
+  }
   if (!node?.isCustom) {
     return true;
   }
@@ -1454,6 +1494,9 @@ function isRuntimeNodeVisible(node) {
 }
 
 function isRuntimeEdgeVisible(edge) {
+  if (state.detectiveMode && state.pathFocus && state.activePathEdgeKeys.has(edgeKey(edge.source, edge.target))) {
+    return true;
+  }
   if (!edge?.layerId) {
     return state.canonLayerVisible || !state.detectiveMode;
   }
@@ -1686,7 +1729,7 @@ function getLabelNodes(nodes) {
   if (inspectId !== rootId) {
     addNode(state.nodeById.get(inspectId));
   }
-  if (state.detectiveMode && isActiveLayerVisible() && state.activePathNodeIds.length && (state.pathFocus || state.activePathNodeIds.length <= 10)) {
+  if (state.detectiveMode && state.activePathNodeIds.length && (state.pathFocus || state.activePathNodeIds.length <= 10)) {
     for (const nodeId of state.activePathNodeIds) {
       addNode(state.nodeById.get(nodeId));
     }
@@ -1991,7 +2034,7 @@ function render() {
   const hoverContext = getHoverContext(visibleNodes);
   const hoveredNodeId = hoverContext?.nodeId || null;
   const hoveredNeighborIds = hoverContext?.neighborIds || null;
-  const hasPath = state.detectiveMode && isActiveLayerVisible() && state.activePathNodeIds.length > 1;
+  const hasPath = state.detectiveMode && state.activePathNodeIds.length > 1;
 
   context.save();
   context.lineJoin = "round";
@@ -2489,9 +2532,13 @@ function applyPath(pathNodeIds, targetNodeId = null, { shouldFit = true, preserv
     state.activePathEdgeKeys.add(edgeKey(pathNodeIds[index - 1], pathNodeIds[index]));
   }
   state.pathTargetNodeId = targetNodeId;
-  state.pathFocus = preserveFocus && pathNodeIds.length > 1;
+  state.pathFocus = true;
+  state.activeTagFilter = null; // Clear tag filter so path nodes are visible
+  state.graphTagFilters = { requireAll: [], exclude: [] };
+  state.graphTagFilterInput = "";
   saveInvestigationState();
   renderInvestigatorTools();
+  setActiveView("explorer"); // Switch to explorer view to show the path
   if (shouldFit) {
     fitGraph();
   } else {
@@ -2734,6 +2781,25 @@ function updateCustomNode(nodeId, updates) {
   rebuildRuntimeGraphData();
 }
 
+function deleteCustomNode(nodeId) {
+  if (!nodeId) {
+    return;
+  }
+  state.customNodes = state.customNodes.filter((node) => node.id !== nodeId);
+  const nextNodeNotes = { ...state.nodeNotes };
+  delete nextNodeNotes[nodeId];
+  state.nodeNotes = nextNodeNotes;
+  saveInvestigationState();
+  rebuildRuntimeGraphData();
+  if (currentNodeId() === nodeId) {
+    showEmptyNoteState();
+    noteMeta.innerHTML = renderSearchCompletionsPanel();
+  }
+  renderInvestigatorTools();
+  render();
+  setToolStatusMessage("Custom node deleted.");
+}
+
 function duplicateActiveLayer() {
   const activeLayer = getActiveLayer();
   if (!activeLayer) {
@@ -2968,6 +3034,11 @@ function renderInvestigatorTools() {
   investigatorTools.hidden = false;
   const renderableLayers = getRenderableLayers();
   const orderedLayers = [...renderableLayers].reverse();
+  const activeLayer = getActiveLayer();
+  const activeCustomNodes = state.customNodes;
+  const activeSavedPaths = state.savedPaths;
+  const pathFromId = state.activePathNodeIds[0] || currentNodeId() || "";
+  const pathToId = state.pathTargetNodeId || "";
 
   investigatorTools.innerHTML = `
     <div class="tool-card">
@@ -3045,9 +3116,132 @@ function renderInvestigatorTools() {
           </div>
         </div>
       </div>
+
+      <div class="tool-card-toolbar">
+        <div class="tool-card-title">Trace Path</div>
+        ${renderNodeSearchInput("path-from", state.pathFromNodeId, "Search from node...", "From")}
+        ${renderNodeSearchInput("path-to", state.pathToNodeId, "Search to node...", "To")}
+        <div class="path-controls">
+          <button type="button" class="mini-button" id="trace-path-button">Trace</button>
+          <button
+            type="button"
+            class="mini-button ${state.pathFocus ? "is-active" : ""}"
+            id="path-focus-button"
+            ${state.activePathNodeIds.length > 1 ? "" : "disabled"}
+          >${state.pathFocus ? "Unfocus" : "Focus"}</button>
+          <button type="button" class="mini-button" id="save-path-button" ${state.activePathNodeIds.length > 1 ? "" : "disabled"}>Save</button>
+        </div>
+        <div class="path-summary" id="path-summary-text">
+          ${state.activePathNodeIds.length > 1 ? `${state.activePathNodeIds.length} nodes · ${describePath(state.activePathNodeIds)}` : "No active path"}
+        </div>
+      </div>
+
+      ${activeSavedPaths.length ? `
+      <div class="tool-card-toolbar">
+        <div class="tool-card-title">Saved Paths</div>
+        <div class="saved-item-list">
+          ${activeSavedPaths.map((path) => `
+            <div class="saved-item">
+              <button type="button" class="saved-item-open" data-open-saved-path="${escapeHtml(path.id)}">
+                <strong>${escapeHtml(path.name)}</strong>
+                <small>${escapeHtml(describePath(path.nodeIds))} · ${path.nodeIds.length} nodes</small>
+              </button>
+              <button type="button" class="mini-button" data-remove-saved-path="${escapeHtml(path.id)}">Remove</button>
+            </div>
+          `).join("")}
+        </div>
+      </div>
+      ` : ""}
+
+      ${activeCustomNodes.length ? `
+      <div class="tool-card-toolbar">
+        <div class="tool-card-title">Custom Nodes (${activeCustomNodes.length})</div>
+        <div class="saved-item-list">
+          ${activeCustomNodes.map((customNode) => `
+            <div class="saved-item">
+              <button type="button" class="saved-item-open" data-select-node="${escapeHtml(customNode.id)}">
+                <strong>${escapeHtml(customNode.title)}</strong>
+                <small>${escapeHtml((customNode.tags || []).join(", "))}</small>
+              </button>
+              <button type="button" class="mini-button" data-delete-custom-node="${escapeHtml(customNode.id)}">Delete</button>
+            </div>
+          `).join("")}
+        </div>
+      </div>
+      ` : ""}
+
+      <div class="tool-card-toolbar">
+        <div class="tool-card-title">Layer Notes</div>
+        <textarea
+          id="layer-notes-editor"
+          class="investigation-notes"
+          placeholder="General notes about this investigation layer..."
+        >${escapeHtml(activeLayer?.notes || "")}</textarea>
+      </div>
+
+      <div class="tool-status tool-block">${escapeHtml(state.toolStatusMessage || "Ready")}</div>
     </div>
   `;
   updateDetectiveToolbarActions();
+}
+
+function getPathTraceOptions(selectedId) {
+  return ""; // No longer used - replaced with searchable inputs
+}
+
+function getNodeTitleById(nodeId) {
+  return state.nodeById.get(nodeId)?.title || "";
+}
+
+function renderNodeSearchInput(id, value, placeholder, label) {
+  const title = getNodeTitleById(value);
+  return `
+    <div class="detective-node-search">
+      <label class="detective-node-search-label">${escapeHtml(label)}</label>
+      <div class="detective-node-search-field">
+        <input
+          id="${id}-input"
+          class="detective-node-search-input"
+          type="search"
+          value="${escapeHtml(title)}"
+          placeholder="${escapeHtml(placeholder)}"
+          data-search-target="${id}"
+          autocomplete="off"
+          spellcheck="false"
+        />
+        ${title ? `<button type="button" class="detective-node-search-clear" data-clear-search="${id}" aria-label="Clear selection">×</button>` : ""}
+      </div>
+      <div id="${id}-results" class="detective-node-search-results"></div>
+      <input type="hidden" id="${id}-value" value="${escapeHtml(value || "")}" />
+    </div>
+  `;
+}
+
+function searchNodesLocally(query, limit = 10) {
+  const normalized = normalize(query);
+  if (!normalized) return [];
+  const terms = normalized.split(" ").filter(Boolean);
+  return state.nodes
+    .map((node) => {
+      let score = 0;
+      const titleNorm = normalize(node.title);
+      const aliasNorms = (node.aliases || []).map(normalize);
+      const tagNorms = (node.tags || []).map(normalize);
+
+      if (titleNorm === normalized) score += 100;
+      else if (titleNorm.startsWith(normalized)) score += 50;
+      else if (terms.every((t) => titleNorm.includes(t))) score += 30;
+
+      for (const term of terms) {
+        if (aliasNorms.some((a) => a.includes(term))) score += 15;
+        if (tagNorms.some((t) => t.includes(term))) score += 10;
+      }
+      return { node, score };
+    })
+    .filter((item) => item.score > 0)
+    .sort((a, b) => b.score - a.score || a.node.title.localeCompare(b.node.title))
+    .slice(0, limit)
+    .map((item) => item.node);
 }
 
 function activateTag(tag) {
@@ -3233,7 +3427,7 @@ function rewriteNoteAssetUrls(root) {
 }
 
 function renderBacklinkButtons(nodeId) {
-  const backlinks = getBacklinks(nodeId).slice(0, 18);
+  const backlinks = getBacklinks(nodeId);
   if (!backlinks.length) {
     return '<span class="note-warning">No backlinks</span>';
   }
@@ -3299,7 +3493,7 @@ function renderNoteMetaPanel(node) {
 }
 
 function renderBacklinksSection(nodeId) {
-  const backlinks = getBacklinks(nodeId).slice(0, 18);
+  const backlinks = getBacklinks(nodeId);
   const count = backlinks.length;
   return `
     <details class="note-backlinks-section">
@@ -3731,14 +3925,13 @@ function updateNodeNoteText(nodeId, text) {
     delete nextNodeNotes[nodeId];
   }
   state.nodeNotes = nextNodeNotes;
-  saveInvestigationState();
+  debouncedSaveInvestigationState();
   const preview = document.querySelector(".investigation-note-preview");
   if (preview) {
     preview.innerHTML = text.trim() ? renderInvestigationNoteHtml(text) : '<div class="tool-empty">No investigation note yet.</div>';
   }
   if (previousLinks !== nextLinks) {
-    rebuildRuntimeGraphData();
-    render();
+    debouncedRebuildAndRender();
   }
 }
 
@@ -5427,6 +5620,74 @@ function bindEvents() {
     }
   });
 
+  investigatorTools.addEventListener("input", (event) => {
+    if (event.target.id === "layer-notes-editor") {
+      state.investigationNotes = event.target.value;
+      debouncedSaveInvestigationState();
+      return;
+    }
+    const searchTarget = event.target.dataset?.searchTarget;
+    if (searchTarget) {
+      const query = event.target.value.trim();
+      const resultsContainer = document.getElementById(`${searchTarget}-results`);
+      if (!resultsContainer) return;
+      if (!query) {
+        resultsContainer.innerHTML = "";
+        return;
+      }
+      const results = searchNodesLocally(query);
+      if (!results.length) {
+        resultsContainer.innerHTML = '<div class="detective-search-no-results">No nodes found</div>';
+        return;
+      }
+      resultsContainer.innerHTML = results.map((node) => `
+        <button type="button" class="detective-search-result" data-select-detective-node="${escapeHtml(node.id)}" data-target="${escapeHtml(searchTarget)}">
+          <strong>${escapeHtml(node.title)}</strong>
+          <small>${escapeHtml(node.group || "node")}</small>
+        </button>
+      `).join("");
+      return;
+    }
+  });
+
+  investigatorTools.addEventListener("keydown", (event) => {
+    const searchTarget = event.target.dataset?.searchTarget;
+    if (!searchTarget) return;
+    const resultsContainer = document.getElementById(`${searchTarget}-results`);
+    if (!resultsContainer) return;
+    const buttons = resultsContainer.querySelectorAll("[data-select-detective-node]");
+    if (!buttons.length) return;
+
+    if (event.key === "ArrowDown" || event.key === "ArrowUp") {
+      event.preventDefault();
+      const active = resultsContainer.querySelector(".is-selected");
+      let nextIndex = 0;
+      if (active) {
+        const currentIndex = [...buttons].indexOf(active);
+        active.classList.remove("is-selected");
+        nextIndex = event.key === "ArrowDown"
+          ? (currentIndex + 1) % buttons.length
+          : (currentIndex - 1 + buttons.length) % buttons.length;
+      }
+      buttons[nextIndex].classList.add("is-selected");
+      buttons[nextIndex].scrollIntoView({ block: "nearest" });
+      return;
+    }
+
+    if (event.key === "Enter") {
+      event.preventDefault();
+      const active = resultsContainer.querySelector(".is-selected") || buttons[0];
+      if (active) {
+        active.click();
+      }
+      return;
+    }
+
+    if (event.key === "Escape") {
+      resultsContainer.innerHTML = "";
+    }
+  });
+
   investigatorTools.addEventListener("click", (event) => {
     if (event.target.closest("[data-toggle-canon-visible]")) {
       toggleCanonLayerVisibility();
@@ -5449,6 +5710,99 @@ function bindEvents() {
     if (renameLayerButton) {
       hideLayerContextMenu();
       promptRenameLayer(renameLayerButton.dataset.renameLayer);
+    }
+
+    if (event.target.closest("#trace-path-button")) {
+      const fromId = state.pathFromNodeId;
+      const toId = state.pathToNodeId;
+      if (!fromId || !toId) {
+        setToolStatusMessage("Select both From and To nodes.");
+        return;
+      }
+      const path = findShortestPath(fromId, toId);
+      if (!path.length) {
+        setToolStatusMessage("No path found between those nodes.");
+        return;
+      }
+      applyPath(path, toId);
+      setToolStatusMessage(`Traced path: ${describePath(path)}`);
+      return;
+    }
+
+    if (event.target.closest("#path-focus-button")) {
+      setPathFocus(!state.pathFocus);
+      return;
+    }
+
+    if (event.target.closest("#save-path-button")) {
+      saveCurrentPath();
+      return;
+    }
+
+    if (event.target.closest("#find-shared-neighbors-button")) {
+      /* Shared neighbors tool removed */
+      return;
+    }
+
+    if (event.target.closest(".shared-neighbor-list .path-node-chip")) {
+      const nodeId = event.target.closest(".path-node-chip").dataset.selectNode;
+      selectNode(nodeId, true);
+      return;
+    }
+
+    const openSavedPathButton = event.target.closest("[data-open-saved-path]");
+    if (openSavedPathButton) {
+      openSavedPath(openSavedPathButton.dataset.openSavedPath);
+      return;
+    }
+
+    const removeSavedPathButton = event.target.closest("[data-remove-saved-path]");
+    if (removeSavedPathButton) {
+      removeSavedPath(removeSavedPathButton.dataset.removeSavedPath);
+      return;
+    }
+
+    const selectNodeButton = event.target.closest("[data-select-node]");
+    if (selectNodeButton) {
+      selectNode(selectNodeButton.dataset.selectNode, true);
+      return;
+    }
+
+    const detectiveSelectNode = event.target.closest("[data-select-detective-node]");
+    if (detectiveSelectNode) {
+      const nodeId = detectiveSelectNode.dataset.selectDetectiveNode;
+      const target = detectiveSelectNode.dataset.target;
+      if (target === "path-from") state.pathFromNodeId = nodeId;
+      else if (target === "path-to") state.pathToNodeId = nodeId;
+      else if (target === "shared-left") state.sharedNeighborLeftId = nodeId;
+      else if (target === "shared-right") state.sharedNeighborRightId = nodeId;
+      const input = document.getElementById(`${target}-input`);
+      if (input) input.value = state.nodeById.get(nodeId)?.title || "";
+      const results = document.getElementById(`${target}-results`);
+      if (results) results.innerHTML = "";
+      const hidden = document.getElementById(`${target}-value`);
+      if (hidden) hidden.value = nodeId;
+      return;
+    }
+
+    const clearSearchButton = event.target.closest("[data-clear-search]");
+    if (clearSearchButton) {
+      const target = clearSearchButton.dataset.clearSearch;
+      if (target === "path-from") state.pathFromNodeId = null;
+      else if (target === "path-to") state.pathToNodeId = null;
+      else if (target === "shared-left") state.sharedNeighborLeftId = null;
+      else if (target === "shared-right") state.sharedNeighborRightId = null;
+      const input = document.getElementById(`${target}-input`);
+      if (input) input.value = "";
+      const hidden = document.getElementById(`${target}-value`);
+      if (hidden) hidden.value = "";
+      return;
+    }
+
+    const deleteCustomNodeButton = event.target.closest("[data-delete-custom-node]");
+    if (deleteCustomNodeButton) {
+      deleteCustomNode(deleteCustomNodeButton.dataset.deleteCustomNode);
+      return;
     }
   });
 

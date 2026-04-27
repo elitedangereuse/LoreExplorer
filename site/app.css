@@ -1771,3 +1771,107 @@ code {
     min-height: 48vh;
   }
 }
+
+/* Detective Panel Search */
+.detective-node-search {
+  display: grid;
+  gap: 4px;
+}
+
+.detective-node-search-label {
+  font-size: 0.76rem;
+  color: var(--text-dim);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+
+.detective-node-search-field {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  position: relative;
+}
+
+.detective-node-search-input {
+  width: 100%;
+  padding: 8px 12px;
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  background: rgba(3, 11, 18, 0.82);
+  color: var(--text);
+  font-size: 0.88rem;
+}
+
+.detective-node-search-input:focus {
+  outline: none;
+  border-color: rgba(99, 216, 234, 0.5);
+  box-shadow: 0 0 0 3px rgba(99, 216, 234, 0.12);
+}
+
+.detective-node-search-clear {
+  width: 26px;
+  height: 26px;
+  padding: 0;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 8px;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  background: rgba(255, 255, 255, 0.05);
+  color: var(--text-dim);
+  font-size: 1.1rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+
+.detective-node-search-clear:hover {
+  background: rgba(255, 140, 107, 0.15);
+  border-color: rgba(255, 140, 107, 0.3);
+  color: var(--text);
+}
+
+.detective-node-search-results {
+  display: grid;
+  gap: 4px;
+  max-height: 180px;
+  overflow: auto;
+  background: rgba(6, 16, 27, 0.96);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 10px;
+  padding: 6px;
+  z-index: 20;
+}
+
+.detective-search-result {
+  width: 100%;
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 8px;
+  padding: 7px 10px;
+  border-radius: 8px;
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  background: rgba(255, 255, 255, 0.02);
+  color: var(--text);
+  text-align: left;
+  cursor: pointer;
+  font-size: 0.85rem;
+}
+
+.detective-search-result:hover,
+.detective-search-result.is-selected {
+  background: rgba(99, 216, 234, 0.12);
+  border-color: rgba(99, 216, 234, 0.28);
+}
+
+.detective-search-result small {
+  color: var(--text-dim);
+  font-size: 0.75rem;
+}
+
+.detective-search-no-results {
+  padding: 8px 10px;
+  color: var(--text-dim);
+  font-size: 0.82rem;
+  text-align: center;
+}
