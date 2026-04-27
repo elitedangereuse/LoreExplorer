@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       cba54e17-62e5-4dc8-be29-a425cd07e6cf
+:END:
+#+title: California Sector BV-Y c7
+#+filetags: :System:
+
+The location of [[id:b191bbd1-f2ed-4371-9aae-f17f76db44b3][Darwin Research Facility]].

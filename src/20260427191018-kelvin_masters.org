@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       960ecf5f-4caa-4ab6-8e07-d91145873738
+:END:
+#+title: Kelvin Masters
+#+filetags: :Individual:
+
+Kelvin Masters is a freelance journalist and commentator associated
+with the [[id:d06803e0-267c-4ffc-88f2-967058fce82e][Rewired]] news feed. He has frequently offered analysis on the
+[[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]], the [[id:b41c0ea3-93f4-4aef-8c9c-db0b140719c0][barnacles]] and frontier developments such as the
+[[id:6fee136e-381f-47a2-ba13-6d74c8798803][California Nebula]].
+
+Sources: [[file:20240618171739-galactic_news_alliance_continues_california_nebula_expansion.org][Galactic News: Alliance Continues California Nebula Expansion]], [[file:20240618171822-galactic_news_the_thargoids_have_returned.org][Galactic News: The Thargoids have Returned]], [[file:20240618171954-galactic_news_the_thargoid_situation.org][Galactic News: The Thargoid Situation]]

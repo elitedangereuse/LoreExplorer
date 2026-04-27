@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       b811183a-04cf-4ca1-9674-2b8da88ee0d6
+:END:
+#+title: Hansford's Landing
+#+filetags: :Station:
+
+[[id:9bd5cda6-b87e-424e-9e84-e27c742c86ad][BD+22 4939]]
+
+Base of operations for a [[id:5f78f661-9227-4f54-8a93-50052900119a][Spinward Marches Alliance Concern]] campaign
+supporting the [[id:6fee136e-381f-47a2-ba13-6d74c8798803][California Nebula]].

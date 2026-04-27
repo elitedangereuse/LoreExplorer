@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       1d0d1587-a0be-4fff-b8b3-3ed448399620
+:END:
+#+title: California Gateway
+#+filetags: :Station:
+
+[[id:fd4456a5-20f9-45dc-9d7e-84114b4c251f][Synuefai EB-R c7-5]]
+
+California Gateway served as the delivery point for Alliance expansion
+efforts supporting the [[id:6fee136e-381f-47a2-ba13-6d74c8798803][California Nebula]] corridor.

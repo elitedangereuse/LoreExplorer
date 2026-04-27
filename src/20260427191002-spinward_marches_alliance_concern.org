@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       5f78f661-9227-4f54-8a93-50052900119a
+:END:
+#+title: Spinward Marches Alliance Concern
+#+filetags: :Alliance:
+
+The Spinward Marches Alliance Concern is an Alliance-aligned
+organisation active in frontier aid, security and agricultural support.
+It is associated with relief operations in [[id:0a64d5ad-8198-427c-b059-84a18e468c53][Morrina]] and supply efforts
+supporting the [[id:6fee136e-381f-47a2-ba13-6d74c8798803][California Nebula]] enclave.
+
+* Associated figures
+- [[id:7d70f017-bc97-4ded-894c-9330444818d6][Civility Marks]]
+- [[id:b86bd4be-35ee-4094-abdf-4e6947f11b94][Saool Aledon]]

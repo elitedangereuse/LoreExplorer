@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       f76ba965-89ab-484f-8e67-b1996174a4a8
+:END:
+#+title: Turner Research Group
+#+filetags: :Alliance:
+
+The Turner Research Group is a scientific organisation associated with
+Alliance operations in the [[id:6fee136e-381f-47a2-ba13-6d74c8798803][California Nebula]]. It was established to
+study the region's [[id:b41c0ea3-93f4-4aef-8c9c-db0b140719c0][barnacles]] and later became involved in logistics,
+construction projects and local defence.
+
+* Associated figures
+- [[id:72ecd784-34ee-4714-be8a-c30880d5fe62][Harrison Gladstone]]
+
+* Associated locations
+- [[id:b191bbd1-f2ed-4371-9aae-f17f76db44b3][Darwin Research Facility]]
+- [[id:cba54e17-62e5-4dc8-be29-a425cd07e6cf][California Sector BV-Y c7]]
