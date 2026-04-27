@@ -5,6 +5,10 @@
 #+filetags: :Commodity:
 
 #+begin_quote
+Power converter used to modify and regulate the energy coming from
+multiple sources so that it is tuned to the optimal operational
+requirements of all attached devices.
+
 These can be found at Shukor Dock in the Perun system.
 #+end_quote
 
@@ -12,4 +16,4 @@ Category: Machinery
 Produced by: Industrial/Extraction near Lakota
 Consumed by: High Tech
 
-Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/153/][Inara: Power Converter]]
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Power_Converter][Fandom: Power Converter]]
