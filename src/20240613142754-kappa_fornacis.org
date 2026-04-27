@@ -16,3 +16,6 @@ Onionhead throughout the galaxy.
 #+end_quote
 
 Sources: in-game system description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Kappa_Fornacis][Fandom: Kappa Fornacis]]
+
+Related: [[id:b160f4b1-1751-41c2-b0bd-e7c6e8dc2f2d][Onionhead]], [[id:d8e3667c-3ba1-43aa-bc90-dac719c6d5e7][Zemina Torval]].
+Rare commodity source: [[id:b160f4b1-1751-41c2-b0bd-e7c6e8dc2f2d][Onionhead]] at [[id:1615a78c-73ab-4e84-a21a-3843b927551a][Harvestport]].

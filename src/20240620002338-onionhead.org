@@ -5,6 +5,6 @@
 #+filetags: :Commodity:rare:
 drug
 
-Sold as a rare commodity at [[id:None][Harvestport]], [[id:b634e896-9d3d-4f44-9783-cfb8fd6d0c56][Kappa Fornacis]].
+Sold as a rare commodity at [[id:1615a78c-73ab-4e84-a21a-3843b927551a][Harvestport]], [[id:b634e896-9d3d-4f44-9783-cfb8fd6d0c56][Kappa Fornacis]].
 
 Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10070/][Inara: Onionhead]]
