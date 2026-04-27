@@ -1221,6 +1221,35 @@ code {
   margin-bottom: 14px;
 }
 
+.note-references {
+  margin-bottom: 18px;
+}
+
+.note-reference-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.reference-link {
+  display: inline-flex;
+  align-items: center;
+  padding: 6px 10px;
+  border-radius: 999px;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  background: rgba(255, 255, 255, 0.04);
+  color: rgba(225, 237, 248, 0.86);
+  font-size: 0.78rem;
+  text-decoration: none;
+}
+
+.reference-link:hover,
+.reference-link:focus-visible {
+  border-color: rgba(99, 216, 234, 0.32);
+  background: rgba(99, 216, 234, 0.08);
+  color: var(--text);
+}
+
 .note-meta-stack {
   display: grid;
   gap: 12px;

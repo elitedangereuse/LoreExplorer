@@ -68,6 +68,7 @@ class Note:
     color: str = "#5dade2"
     snippet: str = ""
     community: str = ""
+    refs: list[str] = field(default_factory=list)
 
     @property
     def degree(self) -> int:
@@ -293,11 +294,19 @@ def parse_roam_aliases(raw_value: str) -> list[str]:
         return [value]
 
 
-def parse_file_note_metadata(path: Path) -> tuple[str, str, list[str], list[str]]:
+def parse_roam_refs(raw_value: str) -> list[str]:
+    value = clean_db_text(raw_value).strip()
+    if not value:
+        return []
+    return [token.strip() for token in value.split() if token.strip()]
+
+
+def parse_file_note_metadata(path: Path) -> tuple[str, str, list[str], list[str], list[str]]:
     node_id = ""
     title = ""
     tags: list[str] = []
     aliases: list[str] = []
+    refs: list[str] = []
     in_properties = False
 
     for raw_line in path.read_text(encoding="utf-8").splitlines():
@@ -313,6 +322,8 @@ def parse_file_note_metadata(path: Path) -> tuple[str, str, list[str], list[str]
                 node_id = line[len(":ID:"):].strip()
             elif line.startswith(":ROAM_ALIASES:"):
                 aliases = parse_roam_aliases(line[len(":ROAM_ALIASES:"):].strip())
+            elif line.startswith(":ROAM_REFS:"):
+                refs = parse_roam_refs(line[len(":ROAM_REFS:"):].strip())
             continue
 
         if raw_line.startswith("#+title:"):
@@ -325,7 +336,7 @@ def parse_file_note_metadata(path: Path) -> tuple[str, str, list[str], list[str]
         if node_id and title:
             break
 
-    return node_id, title, tags, aliases
+    return node_id, title, tags, aliases, refs
 
 
 def load_notes(db_path: Path, src_dir: Path) -> tuple[dict[str, Note], list[tuple[str, str]]]:
@@ -337,6 +348,7 @@ def load_notes(db_path: Path, src_dir: Path) -> tuple[dict[str, Note], list[tupl
     aliases: dict[str, list[str]] = defaultdict(list)
     file_tags: dict[str, list[str]] = {}
     file_aliases: dict[str, list[str]] = {}
+    file_refs: dict[str, list[str]] = {}
     db_note_ids: set[str] = set()
     file_only_note_ids: set[str] = set()
 
@@ -350,11 +362,12 @@ def load_notes(db_path: Path, src_dir: Path) -> tuple[dict[str, Note], list[tupl
     for note_path in sorted(src_dir.glob("*.org")):
         if note_path.name.startswith(".#"):
             continue
-        node_id, title, parsed_tags, parsed_aliases = parse_file_note_metadata(note_path)
+        node_id, title, parsed_tags, parsed_aliases, parsed_refs = parse_file_note_metadata(note_path)
         if not node_id:
             continue
         file_tags[node_id] = parsed_tags
         file_aliases[node_id] = parsed_aliases
+        file_refs[node_id] = parsed_refs
         if node_id in notes:
             continue
         notes[node_id] = Note(
@@ -401,6 +414,7 @@ def load_notes(db_path: Path, src_dir: Path) -> tuple[dict[str, Note], list[tupl
     for node_id, note in notes.items():
         note.tags = sorted(dict.fromkeys(tags[node_id] or file_tags.get(node_id, [])))
         note.aliases = sorted(dict.fromkeys(aliases[node_id] or file_aliases.get(node_id, [])))
+        note.refs = list(dict.fromkeys(file_refs.get(node_id, [])))
 
     connection.close()
     return notes, links
@@ -565,6 +579,54 @@ def render_list_block(entries: list[tuple[int, str, str]]) -> tuple[str, list[st
     return "".join(blocks), plain_text_items
 
 
+def reference_source_label(url: str) -> str:
+    lowered = url.lower()
+    if "cms.zaonce.net" in lowered:
+        return "GalNet"
+    if "community.elitedangerous.com" in lowered:
+        return "GalNet archive"
+    if "elite-dangerous.fandom.com" in lowered:
+        return "Fandom"
+    if "inara.cz" in lowered:
+        return "Inara"
+    if "forums.frontier.co.uk" in lowered:
+        return "Frontier forum"
+    if "canonn.science" in lowered:
+        return "Canonn"
+    if "antixenoinitiative.com" in lowered:
+        return "AXI"
+    if "edsm.net" in lowered:
+        return "EDSM"
+    if "archive.org" in lowered:
+        return "Archive"
+    if "wikipedia.org" in lowered:
+        return "Wikipedia"
+    match = re.match(r"^https?://([^/]+)", url, flags=re.IGNORECASE)
+    return match.group(1) if match else "Reference"
+
+
+def render_reference_links(refs: list[str]) -> str:
+    if not refs:
+        return ""
+    seen_labels: Counter[str] = Counter()
+    links: list[str] = []
+    for ref in refs:
+        label = reference_source_label(ref)
+        seen_labels[label] += 1
+        display = label if seen_labels[label] == 1 else f"{label} {seen_labels[label]}"
+        links.append(
+            f'<a class="reference-link" href="{html.escape(ref, quote=True)}" target="_blank" rel="noopener noreferrer">'
+            f"{html.escape(display)}</a>"
+        )
+    return (
+        '<div class="note-references">'
+        '<span class="meta-label">References</span>'
+        '<div class="note-reference-list">'
+        + "".join(links)
+        + "</div></div>"
+    )
+
+
 def render_org_note(note: Note) -> str:
     if not note.file.exists():
         return (
@@ -641,11 +703,13 @@ def render_org_note(note: Note) -> str:
             + "".join(f'<span class="tag alias">{html.escape(alias)}</span>' for alias in note.aliases)
             + "</div>"
         )
+    refs_html = render_reference_links(note.refs)
 
     return (
         '<article class="note-body">'
         f"<header><h1>{html.escape(note.title)}</h1>"
         f"{alias_html}</header>"
+        f"{refs_html}"
         f"<section>{''.join(blocks)}</section>"
         "</article>"
     )
