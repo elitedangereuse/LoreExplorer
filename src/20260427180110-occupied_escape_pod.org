@@ -4,6 +4,16 @@
 #+title: Occupied Escape Pod
 #+filetags: :Commodity:
 
+#+begin_quote
+Escape pods are typically made from composite materials designed to
+withstand extremes of temperature and pressure, and can protect a
+single occupant in the event of ship destruction.
+#+end_quote
+
 Category: Salvage
+Produced by: -
+Consumed by: -
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Occupied_Escape_Pod][Fandom: Occupied Escape Pod]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/129/][Inara: Occupied Escape Pod]]

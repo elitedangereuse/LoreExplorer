@@ -4,6 +4,15 @@
 #+title: Palladium
 #+filetags: :Commodity:
 
+#+begin_quote
+Palladium, PD, 46. Often used in electronics and for purifying
+noxious gasses.
+#+end_quote
+
 Category: Metals
+Produced by: Extraction, Refinery
+Consumed by: Any except Agricultural, Refinery, Extraction, Military
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Palladium][Fandom: Palladium]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/45/][Inara: Palladium]]

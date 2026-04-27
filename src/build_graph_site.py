@@ -348,6 +348,8 @@ def load_notes(db_path: Path, src_dir: Path) -> tuple[dict[str, Note], list[tupl
         db_note_ids.add(node_id)
 
     for note_path in sorted(src_dir.glob("*.org")):
+        if note_path.name.startswith(".#"):
+            continue
         node_id, title, parsed_tags, parsed_aliases = parse_file_note_metadata(note_path)
         if not node_id:
             continue

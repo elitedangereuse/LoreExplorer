@@ -10,7 +10,7 @@ access to valuable mineral deposits.
 #+end_quote
 
 Category: Chemicals
-Produced by: High Tech, Refinery
+Produced by: High Tech (Surface) and Refinery
 Consumed by: Extraction
 
-Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/3/][Inara: Explosives]]
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Explosives][Fandom: Explosives]]

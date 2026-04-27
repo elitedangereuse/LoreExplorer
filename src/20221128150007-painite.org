@@ -4,3 +4,16 @@
 #+title: Painite
 #+filetags: :Commodity:
 
+#+begin_quote
+Painite,CaZrAl9O15(BO3). Painite is an incredibly rare borate
+mineral that typically takes the form of a red gemstone. Highly
+sought after by socialities throughout occupied space, it is
+renowned for being one of the most valuable types of gemstones in
+the galaxy.
+#+end_quote
+
+Category: Minerals
+Produced by: Mining
+Consumed by: Extraction, High Tech, Industrial, Refinery, Tourism
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Painite][Fandom: Painite]]

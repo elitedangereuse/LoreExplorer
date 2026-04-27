@@ -7,11 +7,11 @@
 #+begin_quote
 Used ceremonially as well as for its stimulant effects. Tea remains
 a beverage with historic roots and there is great rivalry between
-those who drink tea and those who drink coffee.
+those that drink tea and those that drink coffee.
 #+end_quote
 
 Category: Foods
-Produced by: Agriculture
-Consumed by: Extraction, Industrial, High Tech, Military, Refinery, Service, Tourism, Terraforming, Colony
+Produced by: Agricultural
+Consumed by: All except Agricultural
 
-Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/22/][Inara: Tea]]
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Tea][Fandom: Tea]]

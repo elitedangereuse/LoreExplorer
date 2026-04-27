@@ -5,13 +5,12 @@
 #+filetags: :Commodity:
 
 #+begin_quote
-Produced by: Refinery Consumed by: High Tech, Industrial and
-Military Tritium is a beta-emitting radioactive isotope of hydrogen.
-It is an important ingredient for boosting nuclear fusion reactions.
+Tritium is a beta-emitting radioactive isotope of hydrogen. It is an
+important ingredient for boosting nuclear fusion reactions.
 #+end_quote
 
 Category: Chemicals
 Produced by: Refinery
 Consumed by: High Tech, Industrial, Military
 
-Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/10269/][Inara: Tritium]]
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Tritium][Fandom: Tritium]]

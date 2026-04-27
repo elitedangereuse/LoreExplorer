@@ -10,7 +10,7 @@ essential nutrients.
 #+end_quote
 
 Category: Chemicals
-Produced by: -
-Consumed by: -
+Produced by: None (discontinued)
+Consumed by: None
 
-Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/10264/][Inara: Rockforth Fertiliser]]
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Rockforth_Fertiliser][Fandom: Rockforth Fertiliser]]

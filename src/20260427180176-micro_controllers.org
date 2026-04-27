@@ -4,6 +4,15 @@
 #+title: Micro Controllers
 #+filetags: :Commodity:
 
+#+begin_quote
+Micro controllers are small units to provide actuation and process
+control for lightweight devices.
+#+end_quote
+
 Category: Technology
+Produced by: High Tech
+Consumed by: Industrial and Military
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Micro_Controllers][Fandom: Micro Controllers]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/156/][Inara: Micro Controllers]]

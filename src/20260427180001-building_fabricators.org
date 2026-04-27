@@ -11,6 +11,6 @@ to build surface structures.
 
 Category: Machinery
 Produced by: Industrial
-Consumed by: Colony (Surface), Extraction (Surface), High Tech (Surface), Military (Surface), Tourism (Surface)
+Consumed by: Colony (Surface) Extraction (Surface) High Tech (Surface) Military (Surface) Tourist (Surface)
 
-Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/102/][Inara: Building Fabricators]]
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Building_Fabricators][Fandom: Building Fabricators]]

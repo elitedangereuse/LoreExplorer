@@ -4,6 +4,15 @@
 #+title: Bertrandite
 #+filetags: :Commodity:
 
+#+begin_quote
+Bertrandite: chemical formula Be4Si2O7(OH)2. Beryllium Ore. A pale
+yellow orthorhombic mineral, widely refined into Beryllium.
+#+end_quote
+
 Category: Minerals
+Produced by: Extraction
+Consumed by: Refinery
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Bertrandite][Fandom: Bertrandite]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/52/][Inara: Bertrandite]]

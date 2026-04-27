@@ -4,6 +4,16 @@
 #+title: Samarium
 #+filetags: :Commodity:
 
-Category: Metals
+#+begin_quote
+Samarium, Sm, atomic number 62. Melting point 1345K. This element
+has remarkable magnetisation properties, far exceeding that of iron.
+It is also commonly used as a catalyst and chemical reagent.
+#+end_quote
+
+Category: Metal
+Produced by: Mining only
+Consumed by: High Tech and Industrial
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Samarium][Fandom: Samarium]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/142/][Inara: Samarium]]

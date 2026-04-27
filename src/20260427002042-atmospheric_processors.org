@@ -5,14 +5,14 @@
 #+filetags: :Commodity:
 
 #+begin_quote
-Components and consumables for atmosphere processors. These are
-large installations, usually with a high power output reactor at
-their cores, used to process and stabilise breathable planetary
+Components and consumables for atmospheric processors. These are
+large installations, usually with a high power output reactor at its
+core, used to process and stabilise breathable planetary
 atmospheres, especially on terraformed worlds.
 #+end_quote
 
 Category: Machinery
 Produced by: Industrial
-Consumed by: Terraforming, Agriculture
+Consumed by: Terraforming Agricultural
 
-Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/87/][Inara: Atmospheric Processors]]
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Atmospheric_Processors][Fandom: Atmospheric Processors]]

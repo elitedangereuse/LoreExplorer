@@ -4,6 +4,17 @@
 #+title: Prototype Tech
 #+filetags: :Commodity:
 
+#+begin_quote
+The latest developments in experimental technology are jealously
+guarded by the galaxy's various corporations, and unsanctioned
+possession of prototype tech is severely punished. However, pilots
+have discovered there is a prospering black market for stolen tech.
+#+end_quote
+
 Category: Salvage
+Produced by: -
+Consumed by: -
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Prototype_Tech][Fandom: Prototype Tech]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/130/][Inara: Prototype Tech]]

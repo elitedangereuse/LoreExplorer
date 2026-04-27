@@ -4,6 +4,17 @@
 #+title: Computer Components
 #+filetags: :Commodity:
 
+#+begin_quote
+Industrially mass-produced computer components and electronic
+devices, regulators, storage, distribution boards, spares. Wherever
+there are computers there are computers that have gone wrong and
+need a spare part.
+#+end_quote
+
 Category: Technology
+Produced by: Industrial
+Consumed by: High Tech Extraction Refinery Military
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Computer_Components][Fandom: Computer Components]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/67/][Inara: Computer Components]]

@@ -4,6 +4,16 @@
 #+title: Titan Deep Tissue Sample
 #+filetags: :Commodity:
 
+#+begin_quote
+A high-quality sample of bio-mechanical tissue taken from a Thargoid
+Titan, containing material less frequently obtained by research
+limpets.
+#+end_quote
+
 Category: Salvage
+Produced by: -
+Consumed by: -
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Titan_Deep_Tissue_Sample][Fandom: Titan Deep Tissue Sample]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10442/][Inara: Titan Deep Tissue Sample]]

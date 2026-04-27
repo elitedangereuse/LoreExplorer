@@ -5,14 +5,14 @@
 #+filetags: :Commodity:
 
 #+begin_quote
-A naturally occurring plant the leaves of which, when dried and
-shredded, are a source of nicotine, a mild and expensive organic
-narcotic. Usually chewed or smoked, and used in ancient rituals.
-Illegal in many jurisdictions.
+A naturally occurring plant whose leaves, when dried and shredded,
+are a source of nicotine, a mild and expensive organic narcotic.
+Usually chewed or smoked, and used in ancient rituals. Illegal in
+many jurisdictions.
 #+end_quote
 
 Category: Legal Drugs
-Produced by: Agriculture
-Consumed by: -
+Produced by: Agricultural
+Consumed by: All
 
-Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/13/][Inara: Tobacco]]
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Tobacco][Fandom: Tobacco]]

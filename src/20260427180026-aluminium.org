@@ -4,6 +4,16 @@
 #+title: Aluminium
 #+filetags: :Commodity:
 
+#+begin_quote
+Aluminium, Al, atomic number 13. Melting point 933K. A silvery-white
+ductile metal that is regularly used by many industries in alloys
+for its lightness and strength.
+#+end_quote
+
 Category: Metals
+Produced by: Refinery
+Consumed by: Industrial, Military, Extraction
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Aluminium][Fandom: Aluminium]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/37/][Inara: Aluminium]]

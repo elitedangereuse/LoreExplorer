@@ -4,6 +4,16 @@
 #+title: Grandidierite
 #+filetags: :Commodity:
 
+#+begin_quote
+Grandidierite is bluish-green nesosilicate mineral distinguished by
+the fact that it exhibits different colours when viewed from
+different angles.
+#+end_quote
+
 Category: Minerals
+Produced by: Asteroid Core Mining
+Consumed by: }}
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Grandidierite][Fandom: Grandidierite]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10248/][Inara: Grandidierite]]

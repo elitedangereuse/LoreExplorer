@@ -7,12 +7,12 @@
 #+begin_quote
 Pesticides are targeted engineered substances, created to disrupt a
 particular part of the biological processes within a given organic
-pest. Used on Agricultural worlds to reduce pest damage to crops or
+pest. Used on agricultural worlds to reduce pest damage to crops or
 livestock.
 #+end_quote
 
 Category: Chemicals
 Produced by: High Tech
-Consumed by: Agriculture
+Consumed by: Agricultural
 
-Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/6/][Inara: Pesticides]]
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Pesticides][Fandom: Pesticides]]

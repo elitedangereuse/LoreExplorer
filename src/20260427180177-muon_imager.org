@@ -4,6 +4,15 @@
 #+title: Muon Imager
 #+filetags: :Commodity:
 
+#+begin_quote
+Muon topographical instruments providing deep surface scans of
+planets and moons.
+#+end_quote
+
 Category: Technology
+Produced by: Industrial, High Tech
+Consumed by: Extraction (Surface) and Military (Surface)
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Muon_Imager][Fandom: Muon Imager]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/119/][Inara: Muon Imager]]

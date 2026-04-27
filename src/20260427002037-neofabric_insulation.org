@@ -9,8 +9,8 @@ Neofabric insulation is a material using complementary fibre
 structures to retain, or protect from, heat build up.
 #+end_quote
 
-Category: Industrial Materials
-Produced by: Mission reward
-Consumed by: -
+Category: Industrial
+Produced by: Industrial (Surface)
+Consumed by: High Tech and Military
 
-Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/183/][Inara: Neofabric Insulation]]
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Neofabric_Insulation][Fandom: Neofabric Insulation]]

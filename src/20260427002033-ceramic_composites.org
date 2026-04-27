@@ -9,8 +9,8 @@ A wide range of engineered materials supporting a broad range of
 technological and industrial applications.
 #+end_quote
 
-Category: Industrial Materials
+Category: Industrial material
 Produced by: Refinery (Surface)
-Consumed by: Industrial, High Tech
+Consumed by: Industrial and High Tech
 
-Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/100/][Inara: Ceramic Composites]]
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Ceramic_Composites][Fandom: Ceramic Composites]]

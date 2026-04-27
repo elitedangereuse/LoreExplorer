@@ -4,6 +4,17 @@
 #+title: Toxic Waste
 #+filetags: :Commodity:
 
+#+begin_quote
+Toxic waste is illegal in most parts of the galaxy.
+
+Hazardous toxic waste that is unsafe for human contact. Highly
+volatile, likely to leak and may explode when damaged.
+#+end_quote
+
 Category: Waste
+Produced by: -
+Consumed by: None
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Toxic_Waste][Fandom: Toxic Waste]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/54/][Inara: Toxic Waste]]

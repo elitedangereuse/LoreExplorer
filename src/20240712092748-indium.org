@@ -4,3 +4,14 @@
 #+title: Indium
 #+filetags: :Commodity:
 
+#+begin_quote
+Indium, In, atomic number 49. Melting point 429K. Used industrially
+and high tech for a wide range of alloys, including superconductors,
+sensors and holo projectors.
+#+end_quote
+
+Category: Metals
+Produced by: Refinery
+Consumed by: Industrial High Tech
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Indium][Fandom: Indium]]

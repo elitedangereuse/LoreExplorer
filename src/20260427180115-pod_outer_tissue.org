@@ -4,6 +4,14 @@
 #+title: Pod Outer Tissue
 #+filetags: :Commodity:
 
+#+begin_quote
+A sample of tissue from the outer layers of a space-based seed pod.
+#+end_quote
+
 Category: Salvage
+Produced by: Gyre Pod
+Consumed by: }}
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Pod_Outer_Tissue][Fandom: Pod Outer Tissue]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10260/][Inara: Pod Outer Tissue]]

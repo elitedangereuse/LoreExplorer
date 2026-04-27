@@ -4,6 +4,16 @@
 #+title: Small Survey Data Cache
 #+filetags: :Commodity:
 
+#+begin_quote
+Finding the data cache from a survey mission is a rare, but often
+lucrative, find for explorers. These caches are constantly in demand
+from academic institutions and commercial interests.
+#+end_quote
+
 Category: Salvage
+Produced by: Salvage
+Consumed by: |image=Small Survey Data Cache.jpeg}}
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Small_Survey_Data_Cache][Fandom: Small Survey Data Cache]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10208/][Inara: Small Survey Data Cache]]

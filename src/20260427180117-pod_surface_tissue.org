@@ -4,6 +4,14 @@
 #+title: Pod Surface Tissue
 #+filetags: :Commodity:
 
+#+begin_quote
+A sample of tissue from the surface of a space-based seed pod.
+#+end_quote
+
 Category: Salvage
+Produced by: Aster Pod Chalice Pod Collared Pod Octahedral Pod Peduncle Pod Quadripartite Pod Rhizome Pod Stolon Pod
+Consumed by: }}
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Pod_Surface_Tissue][Fandom: Pod Surface Tissue]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10258/][Inara: Pod Surface Tissue]]

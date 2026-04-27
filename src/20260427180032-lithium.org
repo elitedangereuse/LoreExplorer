@@ -4,6 +4,18 @@
 #+title: Lithium
 #+filetags: :Commodity:
 
+#+begin_quote
+Lithium, Li, atomic number 3. Melting point 453K. A silvery white
+alkali metal used by industry in ceramic production, and in
+electronic devices for energy storage. Before the advent of direct
+brain treatments it was used to treat human mental disorders in
+early history.
+#+end_quote
+
 Category: Metals
+Produced by: Refinery
+Consumed by: High Tech Industrial
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Lithium][Fandom: Lithium]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/44/][Inara: Lithium]]

@@ -4,6 +4,16 @@
 #+title: Resonating Separators
 #+filetags: :Commodity:
 
+#+begin_quote
+Self-calibrating tuned oscillators that resonate at a range of
+specific frequencies, used at refineries for bulk processing of
+ores.
+#+end_quote
+
 Category: Technology
+Produced by: High Tech
+Consumed by: Refinery
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Resonating_Separators][Fandom: Resonating Separators]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/69/][Inara: Resonating Separators]]

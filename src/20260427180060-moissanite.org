@@ -4,6 +4,16 @@
 #+title: Moissanite
 #+filetags: :Commodity:
 
-Category: Minerals
+#+begin_quote
+This crystalline silicon carbide mineral has applications in
+electronics manufacture, and thermal energy absorption. It is also
+used in jewellery and other crafted items.
+#+end_quote
+
+Category: Mineral
+Produced by: Planetary mining
+Consumed by: Service (Orbital) and Tourist
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Moissanite][Fandom: Moissanite]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/116/][Inara: Moissanite]]

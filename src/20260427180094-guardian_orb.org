@@ -4,6 +4,15 @@
 #+title: Guardian Orb
 #+filetags: :Commodity:
 
+#+begin_quote
+A mechanical device created several million years ago by the
+Guardians, an extinct nonhuman civilisation.
+#+end_quote
+
 Category: Salvage
+Produced by: | consumer =
+Consumed by: }}
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Guardian_Orb][Fandom: Guardian Orb]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10154/][Inara: Guardian Orb]]

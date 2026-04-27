@@ -4,6 +4,17 @@
 #+title: Encrypted Correspondence
 #+filetags: :Commodity:
 
+#+begin_quote
+Heavily encrypted data that is of little interest, although some
+hackers use it for training or practice, or simply enjoy the
+challenge of breaking the encryption. There is a limited black
+market for these items.
+#+end_quote
+
 Category: Salvage
+Produced by: Salvage
+Consumed by: }}
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Encrypted_Correspondence][Fandom: Encrypted Correspondence]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/172/][Inara: Encrypted Correspondence]]

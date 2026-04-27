@@ -4,6 +4,15 @@
 #+title: Guardian Tablet
 #+filetags: :Commodity:
 
+#+begin_quote
+A tablet, engraved with runes, created several million years ago by
+the Guardians.
+#+end_quote
+
 Category: Salvage
+Produced by: | consumer =
+Consumed by: }}
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Guardian_Tablet][Fandom: Guardian Tablet]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10156/][Inara: Guardian Tablet]]

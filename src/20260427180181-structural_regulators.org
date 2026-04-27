@@ -4,6 +4,16 @@
 #+title: Structural Regulators
 #+filetags: :Commodity:
 
+#+begin_quote
+These monitor structural stability of buildings under a broad range
+of gravities. They will generate alerts if dangerous stresses or
+damage is detected.
+#+end_quote
+
 Category: Technology
+Produced by: High Tech
+Consumed by: All (Surface) except High Tech
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Structural_Regulators][Fandom: Structural Regulators]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/117/][Inara: Structural Regulators]]

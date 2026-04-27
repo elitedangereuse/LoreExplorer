@@ -5,12 +5,16 @@
 #+filetags: :Commodity:
 
 #+begin_quote
+Used by factions as a reward for mission contracts.
+
 Modular terminals are ubiquitous items that provide a hardware
 display of data in a visual and audio format.
 #+end_quote
 
 Category: Machinery
-Produced by: Mission reward
-Consumed by: -
+Produced by: Mission Rewards
+Consumed by: Any
 
-Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/181/][Inara: Modular Terminals]]
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Modular_Terminals][Fandom: Modular Terminals]]
+
+[[file:img/commodities/modular_terminals.png]]

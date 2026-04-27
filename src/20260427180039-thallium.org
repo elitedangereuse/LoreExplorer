@@ -4,6 +4,17 @@
 #+title: Thallium
 #+filetags: :Commodity:
 
-Category: Metals
+#+begin_quote
+Thallium, Tl, atomic number 81. Melting point 577K. is a post-
+transition metal. It has a number of technological uses including
+medical imaging, infra-red optics and high temperature super
+conductivity.
+#+end_quote
+
+Category: Metal
+Produced by: Refinery (Surface)
+Consumed by: High Tech
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Thallium][Fandom: Thallium]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/108/][Inara: Thallium]]

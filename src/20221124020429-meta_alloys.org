@@ -7,7 +7,7 @@
 #+begin_quote
 Meta-alloys have a complex lattice structure with large internal
 voids. They are cellular in nature, and formed organically. They are
-incredibly strong – much stronger than foamed aluminium for example.
+incredibly strong - much stronger than foamed aluminium for example.
 Many elements form the structure so technically they are alloys, but
 the composition is different in different parts of the cell walls
 for strength. They are good thermal insulators, and have a high
@@ -22,11 +22,11 @@ technology. It is ultra-light and stronger and more versatile than
 most commercially available alloys.
 #+end_quote
 
-Category: Industrial Materials
-Produced by: -
+Category: Industrial material
+Produced by: Darnielle's Progress, Maia Settlements
 Consumed by: -
 
-Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/101/][Inara: Meta-Alloys]]
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Meta-Alloys][Fandom: Meta-Alloys]]
 
 * Locations
   - [[id:b4d90e11-7f9a-42f4-a995-4ca941d38851][Darnielle's Progress]]

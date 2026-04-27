@@ -4,6 +4,14 @@
 #+title: Mollusc Brain Tissue
 #+filetags: :Commodity:
 
+#+begin_quote
+A sample of brain tissue from a space-based mollusc.
+#+end_quote
+
 Category: Salvage
+Produced by: Bulb Mollusc Capsule Mollusc
+Consumed by: }}
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Mollusc_Brain_Tissue][Fandom: Mollusc Brain Tissue]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10256/][Inara: Mollusc Brain Tissue]]

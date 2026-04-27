@@ -4,6 +4,15 @@
 #+title: Conductive Fabrics
 #+filetags: :Commodity:
 
+#+begin_quote
+These Fabrics allow for current to be passed through them in order
+to build Cloth-set circuitry for wearable technology.
+#+end_quote
+
 Category: Textiles
+Produced by: Refinery
+Consumed by: High Tech and Industrial
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Conductive_Fabrics][Fandom: Conductive Fabrics]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/165/][Inara: Conductive Fabrics]]

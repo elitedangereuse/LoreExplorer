@@ -10,7 +10,7 @@ a stable environment for construction.
 #+end_quote
 
 Category: Chemicals
-Produced by: Refinery (Surface)
-Consumed by: Agriculture, Extraction, Industrial, High Tech, Military, Refinery, Service, Tourism, Terraforming, Colony
+Produced by: Refinery
+Consumed by: High Tech and Military
 
-Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/97/][Inara: Surface Stabilisers]]
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Surface_Stabilisers][Fandom: Surface Stabilisers]]

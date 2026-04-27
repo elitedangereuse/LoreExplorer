@@ -10,7 +10,7 @@ number of industrial processes.
 #+end_quote
 
 Category: Chemicals
-Produced by: Agriculture
-Consumed by: Extraction, Industrial, High Tech, Military, Refinery, Service, Tourism, Terraforming, Colony
+Produced by: Agricultural and Extraction (Surface)
+Consumed by: All except Agricultural and Extraction (Surface)
 
-Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/139/][Inara: Water]]
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Water][Fandom: Water]]

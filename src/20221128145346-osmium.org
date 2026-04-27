@@ -4,3 +4,14 @@
 #+title: Osmium
 #+filetags: :Commodity:
 
+#+begin_quote
+Osmium, Os, atomic number 76, melting point 3306K. A very hard
+bluish-white metal. Provides extreme durability even at high
+temperatures, and is a valuable constituent in specialist alloys.
+#+end_quote
+
+Category: Metals
+Produced by: Mining only
+Consumed by: High Tech, Industrial, Military and Terraforming
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Osmium][Fandom: Osmium]]

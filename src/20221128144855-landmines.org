@@ -4,3 +4,14 @@
 #+title: Landmines
 #+filetags: :Commodity:
 
+#+begin_quote
+A cheap and effective way of creating area denial. These explosive
+devices are banned in most jurisdictions and are effective against
+personnel and land vehicles.
+#+end_quote
+
+Category: Weapons
+Produced by: Military (Surface)
+Consumed by: Extraction (Surface), Extraction (Surface), High Tech (Surface) and Refinery (Surface)
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Landmines][Fandom: Landmines]]

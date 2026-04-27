@@ -4,6 +4,15 @@
 #+title: Synthetic Fabrics
 #+filetags: :Commodity:
 
+#+begin_quote
+Textile material created from artificial fibres. Used by industry
+for clothing and lightweight construction materials.
+#+end_quote
+
 Category: Textiles
+Produced by: Refinery
+Consumed by: Industrial
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Synthetic_Fabrics][Fandom: Synthetic Fabrics]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/75/][Inara: Synthetic Fabrics]]

@@ -4,6 +4,17 @@
 #+title: Battle Weapons
 #+filetags: :Commodity:
 
+#+begin_quote
+Military-grade human-portable heavy weapons. The trade and movement
+of military-grade weaponry is highly regulated; most commonly it is
+confined to nation states and private organisations with
+considerable political influence.
+#+end_quote
+
 Category: Weapons
+Produced by: High Tech, Industrial, Military (Surface)
+Consumed by: Agricultural, Refinery, Military
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Battle_Weapons][Fandom: Battle Weapons]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/88/][Inara: Battle Weapons]]

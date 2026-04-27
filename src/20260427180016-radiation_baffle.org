@@ -5,6 +5,9 @@
 #+filetags: :Commodity:
 
 #+begin_quote
+Radiation baffles are used to restrict and direct radiation
+emissions.
+
 These can be found at Sopwith Arsenal in the Taevaisa system.
 #+end_quote
 
@@ -12,4 +15,4 @@ Category: Machinery
 Produced by: Industrial/Extraction near Heget
 Consumed by: Military
 
-Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/162/][Inara: Radiation Baffle]]
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Radiation_Baffle][Fandom: Radiation Baffle]]

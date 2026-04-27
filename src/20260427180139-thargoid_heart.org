@@ -4,6 +4,15 @@
 #+title: Thargoid Heart
 #+filetags: :Commodity:
 
+#+begin_quote
+A processing node recovered from a Thargoid ship. These objects are
+integral to the flight and operational systems of Thargoid vessels.
+#+end_quote
+
 Category: Salvage
+Produced by: -
+Consumed by: -
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Thargoid_Heart][Fandom: Thargoid Heart]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10235/][Inara: Thargoid Heart]]

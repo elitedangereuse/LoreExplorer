@@ -4,6 +4,16 @@
 #+title: Reactive Armour
 #+filetags: :Commodity:
 
+#+begin_quote
+Capable of actively dissipating large amounts of kinetic, electrical
+and thermal energy, reactive armour greatly increases the chance of
+survival of the wearer from sustained weapons fire.
+#+end_quote
+
 Category: Weapons
+Produced by: High Tech Military
+Consumed by: All
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Reactive_Armour][Fandom: Reactive Armour]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/80/][Inara: Reactive Armour]]

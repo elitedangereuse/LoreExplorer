@@ -4,6 +4,15 @@
 #+title: Organ Sample
 #+filetags: :Commodity:
 
-Category: Salvage
+#+begin_quote
+An abrasion sample taken from a destroyed Thargoid Titan's internal
+remnants.
+#+end_quote
+
+Category: -
+Produced by: -
+Consumed by: -
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Organ_Sample][Fandom: Organ Sample]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10458/][Inara: Organ Sample]]

@@ -4,6 +4,17 @@
 #+title: Large Survey Data Cache
 #+filetags: :Commodity:
 
+#+begin_quote
+Occasionally survey ships go missing during their journeys into the
+black. On even rarer occasions their cache of survey data can be
+retrieved and these are highly sought after by institutions and
+private interests.
+#+end_quote
+
 Category: Salvage
+Produced by: -
+Consumed by: -
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Large_Survey_Data_Cache][Fandom: Large Survey Data Cache]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/125/][Inara: Large Survey Data Cache]]

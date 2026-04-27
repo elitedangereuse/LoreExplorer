@@ -4,3 +4,14 @@
 :END:
 #+title: Guardian Urn
 #+filetags: :Commodity:
+
+#+begin_quote
+A sealed container created several million years ago by the
+Guardians, an extinct nonhuman civilisation.
+#+end_quote
+
+Category: Salvage
+Produced by: | consumer =
+Consumed by: }}
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Guardian_Urn][Fandom: Guardian Urn]]

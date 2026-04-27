@@ -4,3 +4,14 @@
 #+title: Cobalt
 #+filetags: :Commodity:
 
+#+begin_quote
+Cobalt, Co, atomic number 27. Melting point 1768K. Traditionally
+used as a blue colouring, but now mainly used for creating high
+temperature alloys. Also has biotech applications.
+#+end_quote
+
+Category: Metals
+Produced by: Extraction Refinery
+Consumed by: High Tech Industrial
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Cobalt][Fandom: Cobalt]]

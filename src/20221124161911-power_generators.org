@@ -5,8 +5,8 @@
 #+filetags: :Commodity:
 
 #+begin_quote
-Industrially produced components for power generators, used
-throughout human space. Though the Sirius Corporation have a near-
+Industrially produced components for Power Generators, used
+throughout human space. Though the Sirius Corporation have a near
 monopoly on manufacture of most new larger units, many other
 companies produce the vast amount of consumables, spares and
 ancillary parts for them.
@@ -14,6 +14,6 @@ ancillary parts for them.
 
 Category: Machinery
 Produced by: Industrial
-Consumed by: Agriculture, Extraction, High Tech, Military, Refinery, Service, Tourism, Terraforming, Colony
+Consumed by: All except Industrial
 
-Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/83/][Inara: Power Generators]]
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Power_Generators][Fandom: Power Generators]]

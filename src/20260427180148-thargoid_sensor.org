@@ -4,6 +4,19 @@
 #+title: Thargoid Sensor
 #+filetags: :Commodity:
 
+#+begin_quote
+These strange objects are of Thargoid origin. They have the ability
+to repair themselves by extracting non-organic material from their
+immediate environment, and this self-repair mechanism can severely
+damage starships and other machinery. They can also scan nearby
+vessels and celestial bodies, and transmit information about the
+scanned object in an encrypted form.
+#+end_quote
+
 Category: Salvage
+Produced by: -
+Consumed by: -
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Thargoid_Sensor][Fandom: Thargoid Sensor]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10226/][Inara: Thargoid Sensor]]

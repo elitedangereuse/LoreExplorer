@@ -4,6 +4,19 @@
 #+title: Nanobreakers
 #+filetags: :Commodity:
 
+#+begin_quote
+Used by factions as a reward for mission contracts.
+
+Nanobreakers are tiny machines used for disassembling certain,
+specialised materials. While they can be sold at markets for a
+minimal price, these are more often used by engineers for their
+upgrades.
+#+end_quote
+
 Category: Technology
+Produced by: Mission Rewards
+Consumed by: Any
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Nanobreakers][Fandom: Nanobreakers]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/167/][Inara: Nanobreakers]]

@@ -4,6 +4,15 @@
 #+title: Chemical Waste
 #+filetags: :Commodity:
 
+#+begin_quote
+Chemicals that have become contaminated beyond use. Usually produced
+as a byproduct of industrial processes.
+#+end_quote
+
 Category: Waste
+Produced by: | consumer = Refinery
+Consumed by: Refinery
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Chemical_Waste][Fandom: Chemical Waste]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/32/][Inara: Chemical Waste]]

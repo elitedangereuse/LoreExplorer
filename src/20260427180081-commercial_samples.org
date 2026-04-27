@@ -4,6 +4,15 @@
 #+title: Commercial Samples
 #+filetags: :Commodity:
 
+#+begin_quote
+An assortment of materials, often marketing related, and are of
+little value on the open market.
+#+end_quote
+
 Category: Salvage
+Produced by: Salvage
+Consumed by: }}
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Commercial_Samples][Fandom: Commercial Samples]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/170/][Inara: Commercial Samples]]

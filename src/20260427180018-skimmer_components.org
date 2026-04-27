@@ -11,6 +11,6 @@ operational.
 
 Category: Machinery
 Produced by: Industrial
-Consumed by: Agriculture, Extraction, Industrial, High Tech, Military, Refinery, Service, Tourism, Terraforming, Colony, Tourism (Surface)
+Consumed by: All (Surface) except Industrial (Surface)
 
-Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/104/][Inara: Skimmer Components]]
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Skimmer_Components][Fandom: Skimmer Components]]

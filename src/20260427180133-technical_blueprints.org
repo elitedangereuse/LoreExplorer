@@ -4,6 +4,17 @@
 #+title: Technical Blueprints
 #+filetags: :Commodity:
 
+#+begin_quote
+Blueprints of a patented new machinery and systems that are highly
+prized on the black market. Copyright theft is frowned upon by the
+authorities and those carrying illegally acquired blueprints can
+face extreme application of the law.
+#+end_quote
+
 Category: Salvage
+Produced by: -
+Consumed by: -
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Technical_Blueprints][Fandom: Technical Blueprints]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/133/][Inara: Technical Blueprints]]

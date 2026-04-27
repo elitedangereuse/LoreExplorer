@@ -4,6 +4,15 @@
 #+title: Thargoid Link
 #+filetags: :Commodity:
 
+#+begin_quote
+A piece of Thargoid technology typically found at Thargoid surface
+sites.
+#+end_quote
+
 Category: Salvage
+Produced by: -
+Consumed by: -
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Thargoid_Link][Fandom: Thargoid Link]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10161/][Inara: Thargoid Link]]

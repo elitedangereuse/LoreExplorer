@@ -4,6 +4,19 @@
 #+title: Beryllium
 #+filetags: :Commodity:
 
-Category: Metals
+#+begin_quote
+Beryllium, Be, atomic number 4. Melting point 1560K. A white-grey
+alkaline earth metal. Widely used in the spacecraft industry right
+from its early pre-interstellar history because of its high thermal
+stability and low density. It is also a very useful component of
+many alloys, both industrially and for specialist high tech
+components.
+#+end_quote
+
+Category: Minerals
+Produced by: Refinery
+Consumed by: High Tech Industrial Extraction
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Beryllium][Fandom: Beryllium]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/38/][Inara: Beryllium]]

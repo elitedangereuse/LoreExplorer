@@ -4,6 +4,17 @@
 #+title: Robotics
 #+filetags: :Commodity:
 
+#+begin_quote
+Robotics are used to perform simple automated tasks or to act as
+avatars for remotely located humans in hazardous environments. They
+are also used for repetitive and highly accurate production line
+tasks.
+#+end_quote
+
 Category: Technology
+Produced by: High Tech
+Consumed by: Industrial
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Robotics][Fandom: Robotics]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/70/][Inara: Robotics]]

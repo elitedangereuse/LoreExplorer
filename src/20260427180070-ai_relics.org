@@ -4,6 +4,20 @@
 #+title: AI Relics
 #+filetags: :Commodity:
 
+#+begin_quote
+A collection of highly illegal AI remnants. These items are of
+extreme interest to various shady organisations and remote cults.
+Their almost mythical status has led to a huge amount of
+counterfeiting, further inflating the value of items with a clear
+and proven history. It is uncertain whether any of these pieces
+actually retain the AI personality that was originally present
+within.
+#+end_quote
+
 Category: Salvage
+Produced by: -
+Consumed by: -
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/AI_Relics][Fandom: AI Relics]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/89/][Inara: AI Relics]]

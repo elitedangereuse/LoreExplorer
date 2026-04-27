@@ -4,6 +4,17 @@
 #+title: Combat Stabilisers
 #+filetags: :Commodity:
 
+#+begin_quote
+Biological agents used to sustain and heal injured humans in combat.
+Combat Stabilizers allow recipients to continue to function despite
+unimaginable amounts of pain. Some cultures consider they encourage
+glorification of combat, and so are illegal.
+#+end_quote
+
 Category: Medicines
+Produced by: High Tech
+Consumed by: All except High Tech
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Combat_Stabilisers][Fandom: Combat Stabilisers]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/34/][Inara: Combat Stabilisers]]

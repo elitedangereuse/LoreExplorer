@@ -4,6 +4,17 @@
 #+title: Trade Data
 #+filetags: :Commodity:
 
+#+begin_quote
+The trade manifest data for a ship that met its end nearby. The
+information contained within can be extremely useful to unscrupulous
+individuals and fetches a good price on the black market. However,
+illegal salvage is punishable by law.
+#+end_quote
+
 Category: Salvage
+Produced by: -
+Consumed by: -
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Trade_Data][Fandom: Trade Data]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/134/][Inara: Trade Data]]

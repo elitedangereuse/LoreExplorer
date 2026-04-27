@@ -4,6 +4,16 @@
 #+title: Earth Relics
 #+filetags: :Commodity:
 
+#+begin_quote
+Historical artefacts originating from the ancient periods of Earth.
+These items vary considerably in nature and hold great value to
+collectors.
+#+end_quote
+
 Category: Salvage
+Produced by: Salvage
+Consumed by: }}
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Earth_Relics][Fandom: Earth Relics]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10210/][Inara: Earth Relics]]

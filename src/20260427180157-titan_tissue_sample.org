@@ -4,6 +4,15 @@
 #+title: Titan Tissue Sample
 #+filetags: :Commodity:
 
+#+begin_quote
+A typical sample of bio-mechanical tissue taken from a Thargoid
+Titan, with an adequate quantity of material for study.
+#+end_quote
+
 Category: Salvage
+Produced by: -
+Consumed by: -
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Titan_Tissue_Sample][Fandom: Titan Tissue Sample]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10443/][Inara: Titan Tissue Sample]]

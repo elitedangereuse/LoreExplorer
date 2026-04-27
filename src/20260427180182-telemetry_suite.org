@@ -4,6 +4,15 @@
 #+title: Telemetry Suite
 #+filetags: :Commodity:
 
+#+begin_quote
+Telemetry suites provide access to information flows relating to
+specific components within a system.
+#+end_quote
+
 Category: Technology
+Produced by: Mission Rewards
+Consumed by: High Tech, Military
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Telemetry_Suite][Fandom: Telemetry Suite]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/184/][Inara: Telemetry Suite]]

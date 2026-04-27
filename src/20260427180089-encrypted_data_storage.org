@@ -4,6 +4,17 @@
 #+title: Encrypted Data Storage
 #+filetags: :Commodity:
 
+#+begin_quote
+It is sometimes safer to transport sensitive data physically and
+also quicker if immense quantities need transferring. They usually
+have little intrinsic value except to the organisation attempting to
+secure these items.
+#+end_quote
+
 Category: Salvage
+Produced by: -
+Consumed by: -
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Encrypted_Data_Storage][Fandom: Encrypted Data Storage]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/173/][Inara: Encrypted Data Storage]]

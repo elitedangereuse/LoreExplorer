@@ -4,6 +4,16 @@
 #+title: Medical Diagnostic Equipment
 #+filetags: :Commodity:
 
+#+begin_quote
+Equipment which allows for rapid diagnosis of a large number of
+ailments and diseases. This equipment also screens for and
+identifies prohibited substances.
+#+end_quote
+
 Category: Technology
+Produced by: High Tech
+Consumed by: Service
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Medical_Diagnostic_Equipment][Fandom: Medical Diagnostic Equipment]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/154/][Inara: Medical Diagnostic Equipment]]

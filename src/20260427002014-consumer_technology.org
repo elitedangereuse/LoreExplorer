@@ -5,13 +5,13 @@
 #+filetags: :Commodity:
 
 #+begin_quote
-Ever-evolving and changing, get on board for the next generation of
+Ever evolving and changing, get on board for the next generation of
 personal consumer devices. Be the envy of your friends as you show
 off the latest thing, then get ready to upgrade.
 #+end_quote
 
 Category: Consumer Items
-Produced by: High Tech
-Consumed by: Agriculture, Extraction, Industrial, Military, Refinery, Service, Tourism, Terraforming, Colony
+Produced by: High Tech, Illicit
+Consumed by: All except High Tech
 
-Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/8/][Inara: Consumer Technology]]
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Consumer_Technology][Fandom: Consumer Technology]]

@@ -4,6 +4,18 @@
 #+title: Experimental Chemicals
 #+filetags: :Commodity:
 
+#+begin_quote
+Often dangerous and corrosive in nature, experimental chemicals are
+often created for research and scientific purposes. In the wrong
+hands they can be turned into dangerous weapons, so trade is
+strictly controlled. A thriving black market trade has proved
+difficult to control for authorities.
+#+end_quote
+
 Category: Salvage
+Produced by: -
+Consumed by: -
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Experimental_Chemicals][Fandom: Experimental Chemicals]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/123/][Inara: Experimental Chemicals]]

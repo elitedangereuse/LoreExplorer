@@ -5,13 +5,13 @@
 #+filetags: :Commodity:
 
 #+begin_quote
-Ion distributors are used to control the flow of ions within a
+Ion distributors are used to control the flows of ions within a
 device. These can be found at Stevens Orbital in the HIP 18327
 system.
 #+end_quote
 
 Category: Machinery
-Produced by: Industrial/Extraction near 70 Tauri
-Consumed by: High Tech (Surface), Military (Surface)
+Produced by: Industrial near 70 Tauri Extraction near 70 Tauri
+Consumed by: High Tech (Surface) Military(Surface)
 
-Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/160/][Inara: Ion Distributor]]
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Ion_Distributor][Fandom: Ion Distributor]]

@@ -4,3 +4,13 @@
 #+title: Gallite
 #+filetags: :Commodity:
 
+#+begin_quote
+Gallite: chemical formula CuGaS2. Gallium Ore. Named for its high
+Gallium content and is widely extracted at refineries.
+#+end_quote
+
+Category: Minerals
+Produced by: Extraction
+Consumed by: High Tech Refinery
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Gallite][Fandom: Gallite]]

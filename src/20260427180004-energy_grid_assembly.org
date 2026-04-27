@@ -5,11 +5,13 @@
 #+filetags: :Commodity:
 
 #+begin_quote
+A specialised energy grid assembly for controlling power flow.
+
 These can be found at Pailes Enterprise in the 40 Ceti system.
 #+end_quote
 
 Category: Machinery
 Produced by: Industrial/Refinery near Stafkarl
-Consumed by: High Tech, Military
+Consumed by: High Tech and Military
 
-Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/149/][Inara: Energy Grid Assembly]]
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Energy_Grid_Assembly][Fandom: Energy Grid Assembly]]

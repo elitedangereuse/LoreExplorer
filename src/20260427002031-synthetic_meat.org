@@ -5,13 +5,13 @@
 #+filetags: :Commodity:
 
 #+begin_quote
-Meat that is synthesised on an industrial scale. The process relies
+Meat that is synthesised in an industrial scale. The process relies
 on DNA from species from old Earth. The DNA is adjusted so muscle
 tissue is grown in huge quantities without the rest of the animal.
 #+end_quote
 
 Category: Foods
 Produced by: High Tech
-Consumed by: Extraction, Industrial, High Tech, Military, Refinery, Service, Tourism, Terraforming, Colony
+Consumed by: All except High Tech and Agricultural
 
-Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/23/][Inara: Synthetic Meat]]
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Synthetic_Meat][Fandom: Synthetic Meat]]

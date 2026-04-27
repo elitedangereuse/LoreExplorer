@@ -4,6 +4,17 @@
 #+title: Aquaponic Systems
 #+filetags: :Commodity:
 
+#+begin_quote
+An automated system to monitor and sustain nutritional and chemical
+balance levels of a confined marine ecosystem using targeted
+chemical and microbial filtration, and the spares and consumables
+required.
+#+end_quote
+
 Category: Technology
+Produced by: High Tech
+Consumed by: Terraforming Agricultural
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Aquaponic_Systems][Fandom: Aquaponic Systems]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/63/][Inara: Aquaponic Systems]]

@@ -4,6 +4,19 @@
 #+title: Uraninite
 #+filetags: :Commodity:
 
+#+begin_quote
+Uraninite: chemical formula UO2. A radioactive ore, radioactive
+principally because of the small amount of the isotope U235 present.
+Refined into Uranium at some refineries. Uranium was used for power
+early in human history, using refined U235 in fission reactors, but
+now is mainly used for biotech applications. Illegal in some
+jurisdictions.
+#+end_quote
+
 Category: Minerals
+Produced by: Extraction
+Consumed by: Refinery
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Uraninite][Fandom: Uraninite]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/60/][Inara: Uraninite]]

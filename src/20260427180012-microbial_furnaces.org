@@ -5,13 +5,13 @@
 #+filetags: :Commodity:
 
 #+begin_quote
-Bio-engineered microbes that separate specific elements from a
-powdered ore. Produced on High Tech worlds, their name is historic
-having replaced thermal furnaces for the refining of many ores.
+Bio-engineered microbes that separate specific elements from
+powdered ore. Produced on high tech worlds, their name is historic
+having replaced thermal furnaces for the refining or many ores.
 #+end_quote
 
 Category: Machinery
 Produced by: High Tech
 Consumed by: Refinery
 
-Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/85/][Inara: Microbial Furnaces]]
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Microbial_Furnaces][Fandom: Microbial Furnaces]]

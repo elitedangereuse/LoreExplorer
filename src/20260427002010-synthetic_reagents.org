@@ -9,8 +9,8 @@ A selection of inorganic molecules used in the creation and
 manipulation of a wide range of organic compounds.
 #+end_quote
 
-Category: Chemicals
+Category: Chemical
 Produced by: Refinery (Surface)
-Consumed by: High Tech
+Consumed by: High Tech and Military
 
-Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/98/][Inara: Synthetic Reagents]]
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Synthetic_Reagents][Fandom: Synthetic Reagents]]

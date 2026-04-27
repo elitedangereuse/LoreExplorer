@@ -4,6 +4,16 @@
 #+title: Natural Fabrics
 #+filetags: :Commodity:
 
+#+begin_quote
+A range of high value fabrics derived from natural organic materials
+generally produced on outdoor worlds. These are used in industrial
+locations to make clothing and other items.
+#+end_quote
+
 Category: Textiles
+Produced by: Agricultural
+Consumed by: Industrial
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Natural_Fabrics][Fandom: Natural Fabrics]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/74/][Inara: Natural Fabrics]]

@@ -4,6 +4,18 @@
 #+title: Silver
 #+filetags: :Commodity:
 
+#+begin_quote
+Silver, Ag, atomic number 47. Melting point 1234K. A precious metal
+valued in jewelry. It also has many useful industrial properties
+being the best electrical and thermal conductor of any metal, and
+also the most reflective, and so is widely used in high tech
+applications, either in its pure form or alloyed with other metals.
+#+end_quote
+
 Category: Metals
+Produced by: Extraction Refinery
+Consumed by: Any except Agricultural, Refinery, Extraction, Military
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Silver][Fandom: Silver]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/46/][Inara: Silver]]

@@ -4,6 +4,14 @@
 #+title: Ancient Key
 #+filetags: :Commodity:
 
+#+begin_quote
+A crystalline artefact recovered from a Guardian beacon.
+#+end_quote
+
 Category: Salvage
+Produced by: -
+Consumed by: -
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Ancient_Key][Fandom: Ancient Key]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10240/][Inara: Ancient Key]]

@@ -11,7 +11,7 @@ widely consumed in many cultures.
 #+end_quote
 
 Category: Legal Drugs
-Produced by: Agriculture
-Consumed by: -
+Produced by: Agricultural
+Consumed by: All
 
-Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/10/][Inara: Beer]]
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Beer][Fandom: Beer]]

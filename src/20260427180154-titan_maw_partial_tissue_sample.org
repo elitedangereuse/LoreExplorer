@@ -4,6 +4,16 @@
 #+title: Titan Maw Partial Tissue Sample
 #+filetags: :Commodity:
 
+#+begin_quote
+A low-quality tissue sample taken from the cavernous, maw-like
+feature of a Thargoid Titan. This sample is mostly comprised of
+dense surface material.
+#+end_quote
+
 Category: Salvage
+Produced by: -
+Consumed by: -
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Titan_Maw_Partial_Tissue_Sample][Fandom: Titan Maw Partial Tissue Sample]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10446/][Inara: Titan Maw Partial Tissue Sample]]

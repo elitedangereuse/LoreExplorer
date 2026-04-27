@@ -4,6 +4,17 @@
 #+title: Thorium
 #+filetags: :Commodity:
 
-Category: Metals
+#+begin_quote
+Thorium, Th, atomic number 90. Melting point 2023K. A radioactive
+actinide metal. It was once used in ancient fission reactions. It is
+still used by some medical technology and as a component in advanced
+ceramics.
+#+end_quote
+
+Category: Metal
+Produced by: Refinery (Surface), Mining
+Consumed by: High Tech
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Thorium][Fandom: Thorium]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/109/][Inara: Thorium]]

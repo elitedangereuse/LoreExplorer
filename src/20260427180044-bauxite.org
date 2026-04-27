@@ -4,6 +4,16 @@
 #+title: Bauxite
 #+filetags: :Commodity:
 
+#+begin_quote
+Bauxite is the main source of aluminium, and is in fact a mix of
+ores that occur naturally together sometimes with small amounts of
+rutile and haematite. A key source of aluminum for refineries.
+#+end_quote
+
 Category: Minerals
+Produced by: Extraction
+Consumed by: | image = Bauxite.png
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Bauxite][Fandom: Bauxite]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/51/][Inara: Bauxite]]

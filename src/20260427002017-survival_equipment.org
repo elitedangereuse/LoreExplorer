@@ -11,6 +11,6 @@ conditions.
 
 Category: Consumer Items
 Produced by: Industrial
-Consumed by: Agriculture (Surface), Extraction (Surface), High Tech (Surface), Military (Surface), Refinery (Surface), Service (Surface), Tourism (Surface), Terraforming (Surface), Colony (Surface)
+Consumed by: All (Surface) except Industrial
 
-Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/164/][Inara: Survival Equipment]]
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Survival_Equipment][Fandom: Survival Equipment]]

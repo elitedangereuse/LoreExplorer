@@ -8,12 +8,12 @@
 Algae are a range of biological organisms grown in water. Considered
 edible and often locally produced to sustain life in many poorer
 outposts. Usually commercially processed to provide more appetising
-foodstuffs as a constituent of food cartridges for 'chefs' (cheap 3D
-food printers).
+food stuffs as a constituent of food cartridges for 'chefs' (cheap
+3D food printers).
 #+end_quote
 
 Category: Foods
-Produced by: Agriculture
-Consumed by: Industrial, Military
+Produced by: Agricultural
+Consumed by: Industrial and Military
 
-Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/15/][Inara: Algae]]
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Algae][Fandom: Algae]]

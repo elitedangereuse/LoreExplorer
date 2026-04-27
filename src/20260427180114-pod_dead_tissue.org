@@ -4,6 +4,14 @@
 #+title: Pod Dead Tissue
 #+filetags: :Commodity:
 
+#+begin_quote
+A sample of dead tissue from a space-based seed pod.
+#+end_quote
+
 Category: Salvage
+Produced by: Aster Pod Chalice Pod Collared Pod Octahedral Pod Peduncle Pod Quadripartite Pod Rhizome Pod
+Consumed by: }}
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Pod_Dead_Tissue][Fandom: Pod Dead Tissue]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10257/][Inara: Pod Dead Tissue]]

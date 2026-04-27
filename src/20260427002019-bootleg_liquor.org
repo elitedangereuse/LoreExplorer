@@ -10,8 +10,8 @@ home or small scale production methods, with varying levels of
 toxicity.
 #+end_quote
 
-Category: Legal Drugs
-Produced by: Colony (Surface), Industrial (Surface), Refinery (Surface)
+Category: Legal drug
+Produced by: Industrial (Surface), Refinery (Surface)
 Consumed by: Extraction (Surface), High Tech (Surface), Refinery (Surface)
 
-Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/95/][Inara: Bootleg Liquor]]
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Bootleg_Liquor][Fandom: Bootleg Liquor]]

@@ -10,7 +10,7 @@ affected by contaminants.
 #+end_quote
 
 Category: Chemicals
-Produced by: High Tech
-Consumed by: -
+Produced by: High Tech, Refinery
+Consumed by: Stations with Blight
 
-Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/10268/][Inara: Agronomic Treatment]]
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Agronomic_Treatment][Fandom: Agronomic Treatment]]

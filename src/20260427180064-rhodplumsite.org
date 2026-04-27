@@ -4,6 +4,16 @@
 #+title: Rhodplumsite
 #+filetags: :Commodity:
 
+#+begin_quote
+Rhodplumsite is a rhodium-lead sulphide mineral distinguished by the
+fact that it exhibits different colours when viewed from different
+angles, appearing white, creamy pink or grayish blue.
+#+end_quote
+
 Category: Minerals
+Produced by: Asteroid Core Mining
+Consumed by: Industrial, High Tech, Refinery
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Rhodplumsite][Fandom: Rhodplumsite]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10243/][Inara: Rhodplumsite]]

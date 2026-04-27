@@ -11,6 +11,6 @@ both scientific, civic and commercial purposes.
 
 Category: Machinery
 Produced by: Industrial
-Consumed by: Colony (Surface), Extraction (Surface), High Tech (Surface)
+Consumed by: Colony (Surface), Extraction (Surface), Military (Surface) and High Tech (Surface)
 
-Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/103/][Inara: Geological Equipment]]
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Geological_Equipment][Fandom: Geological Equipment]]

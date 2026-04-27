@@ -5,11 +5,14 @@
 #+filetags: :Commodity:
 
 #+begin_quote
+These customised manifolds are used to combine plasmas and gases
+from multiple sources into a single element.
+
 These can be found at Somerville Station in the Kharpulo system.
 #+end_quote
 
 Category: Machinery
-Produced by: Industrial/Refinery near Run
+Produced by: Somerville Station, Kharpulo
 Consumed by: High Tech
 
-Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/159/][Inara: Exhaust Manifold]]
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Exhaust_Manifold][Fandom: Exhaust Manifold]]

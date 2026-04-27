@@ -4,6 +4,16 @@
 #+title: Basic Medicines
 #+filetags: :Commodity:
 
+#+begin_quote
+A wide range of pharmaceuticals used in the healthcare sphere.
+Includes treatments for preventative, convalescent and palliative
+care.
+#+end_quote
+
 Category: Medicines
+Produced by: High Tech and Industrial
+Consumed by: All except High Tech and Industrial
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Basic_Medicines][Fandom: Basic Medicines]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/33/][Inara: Basic Medicines]]

@@ -4,6 +4,16 @@
 #+title: Thargoid Glaive Tissue Sample
 #+filetags: :Commodity:
 
+#+begin_quote
+A sample of bio-mechanical tissue taken from a Thargoid Hunter-class
+vessel. This sample has been taken from a variant known as a Glaive
+and contains both biological and mechanical elements.
+#+end_quote
+
 Category: Salvage
+Produced by: -
+Consumed by: -
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Thargoid_Glaive_Tissue_Sample][Fandom: Thargoid Glaive Tissue Sample]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10441/][Inara: Thargoid Glaive Tissue Sample]]

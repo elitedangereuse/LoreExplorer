@@ -5,11 +5,14 @@
 #+filetags: :Commodity:
 
 #+begin_quote
+High energy power transfer units used to deliver power where it is
+needed.
+
 These can be found at Haignere Orbital in the Wuthawchu system.
 #+end_quote
 
 Category: Machinery
-Produced by: Industrial/Extraction near Cilbien Zu
+Produced by: Extraction/Refinery near Cilbien Zu
 Consumed by: High Tech (Surface)
 
-Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/161/][Inara: Power Transfer Bus]]
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Power_Transfer_Bus][Fandom: Power Transfer Bus]]

@@ -4,6 +4,17 @@
 #+title: Gallium
 #+filetags: :Commodity:
 
+#+begin_quote
+Gallium, Ga, atomic number 31. Melting point 303K. It is a soft
+silvery metal at human room temperature, but melts in the human
+hand. it is used as a key component in semiconductors, and in
+lasers.
+#+end_quote
+
 Category: Metals
+Produced by: Refinery
+Consumed by: High Tech Industrial Extraction
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Gallium][Fandom: Gallium]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/41/][Inara: Gallium]]

@@ -5,11 +5,14 @@
 #+filetags: :Commodity:
 
 #+begin_quote
+These custom made reinforced mounting plates are used to strengthen
+the supports for a mounted device.
+
 These can be found at Grassmann Station in the Findalibila system.
 #+end_quote
 
 Category: Machinery
-Produced by: Extraction/Refinery near Eurybia
+Produced by: At the Grassmann Station Findalibila and near with Extraction/Refinery economy type
 Consumed by: Industrial (Surface)
 
-Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/163/][Inara: Reinforced Mounting Plate]]
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Reinforced_Mounting_Plate][Fandom: Reinforced Mounting Plate]]

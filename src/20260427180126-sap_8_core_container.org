@@ -4,6 +4,17 @@
 #+title: SAP 8 Core Container
 #+filetags: :Commodity:
 
+#+begin_quote
+This container holds a crystalline shard of unknown origin. Scans
+indicate that the foot long shard is suspended inside a modified,
+self-sustaining, fusion-core containment field. Any breach of the
+field will result in the containers destruction.
+#+end_quote
+
 Category: Salvage
+Produced by: ?
+Consumed by: ?
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/SAP_8_Core_Container][Fandom: SAP 8 Core Container]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/90/][Inara: SAP 8 Core Container]]

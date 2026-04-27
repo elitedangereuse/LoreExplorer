@@ -4,6 +4,18 @@
 #+title: Trinkets of Hidden Fortune
 #+filetags: :Commodity:
 
-Category: Salvage
+#+begin_quote
+This container appears to hold an assorted collection of low-value
+trinkets, knick-knacks and statuettes. Such trinkets are generally
+used by superstitious pilots to try and win favour with the lady
+Fortuna. However, these particular knick-knacks have a much more
+valuable prize hidden within.
+#+end_quote
+
+Category: Consumer Items
+Produced by: -
+Consumed by: -
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Trinkets_of_Hidden_Fortune][Fandom: Trinkets of Hidden Fortune]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/135/][Inara: Trinkets of Hidden Fortune]]

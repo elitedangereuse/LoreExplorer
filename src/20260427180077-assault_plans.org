@@ -4,6 +4,17 @@
 #+title: Assault Plans
 #+filetags: :Commodity:
 
+#+begin_quote
+Encrypted resources and documentation for secret attack plans.
+Possession of such documents is illegal as its possession implicates
+those transporting the information. There is a limited black market
+demand for these items.
+#+end_quote
+
 Category: Salvage
+Produced by: Salvage
+Consumed by: }}
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Assault_Plans][Fandom: Assault Plans]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/169/][Inara: Assault Plans]]

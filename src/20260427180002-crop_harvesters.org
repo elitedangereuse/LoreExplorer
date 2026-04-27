@@ -11,6 +11,6 @@ used for harvesting and packing specific ground-based crops.
 
 Category: Machinery
 Produced by: Industrial
-Consumed by: Agriculture
+Consumed by: Agricultural
 
-Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/29/][Inara: Crop Harvesters]]
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Crop_Harvesters][Fandom: Crop Harvesters]]

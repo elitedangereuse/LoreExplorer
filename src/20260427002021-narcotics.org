@@ -11,7 +11,7 @@ resultant longer term effects on human consumers.
 #+end_quote
 
 Category: Legal Drugs
-Produced by: Agriculture, High Tech, Industrial
-Consumed by: Agriculture, Extraction, Military, Refinery, Service, Tourism, Terraforming, Colony
+Produced by: Agricultural High Tech Industrial
+Consumed by: All except High Tech, Industrial
 
-Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/12/][Inara: Narcotics]]
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Narcotics][Fandom: Narcotics]]

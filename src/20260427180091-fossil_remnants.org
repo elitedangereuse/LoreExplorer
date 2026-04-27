@@ -4,6 +4,16 @@
 #+title: Fossil Remnants
 #+filetags: :Commodity:
 
+#+begin_quote
+Fossilised fragments from an unidentified life form. Inquisitive
+minds will revel at the chance to analyse and possess one of our
+galaxy's ancestral occupants.
+#+end_quote
+
 Category: Salvage
+Produced by: Salvage
+Consumed by: }}
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Fossil_Remnants][Fandom: Fossil Remnants]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10221/][Inara: Fossil Remnants]]

@@ -4,6 +4,15 @@
 #+title: Thermal Cooling Units
 #+filetags: :Commodity:
 
+#+begin_quote
+These draw excess heat from surrounding material to enable
+habitation in even the most extreme environments.
+#+end_quote
+
 Category: Machinery
+Produced by: Industrial
+Consumed by: Colony (Surface), Extraction (Surface), High Tech (Surface), Military (Surface) and Tourist (Surface)
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Thermal_Cooling_Units][Fandom: Thermal Cooling Units]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/105/][Inara: Thermal Cooling Units]]

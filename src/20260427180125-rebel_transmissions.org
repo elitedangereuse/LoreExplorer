@@ -4,6 +4,17 @@
 #+title: Rebel Transmissions
 #+filetags: :Commodity:
 
+#+begin_quote
+Transcripts of communications between dissident groups. These
+documents are highly valued by a number of factions for the
+intelligence they contain. It is considered highly suspicious to be
+carrying them, but black market trade in data will always flow.
+#+end_quote
+
 Category: Salvage
+Produced by: -
+Consumed by: -
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Rebel_Transmissions][Fandom: Rebel Transmissions]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/132/][Inara: Rebel Transmissions]]

@@ -4,6 +4,17 @@
 #+title: Thargoid Resin
 #+filetags: :Commodity:
 
+#+begin_quote
+A bio-mechanical canister containing Thargoid resin. This substance
+can be used to lubricate the internal systems of Thargoid technology
+when wet, and to protect and reinforce structures when dry. When
+converted into a gas it is highly corrosive.
+#+end_quote
+
 Category: Salvage
+Produced by: |classification = Commodity
+Consumed by: -
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Thargoid_Resin][Fandom: Thargoid Resin]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10162/][Inara: Thargoid Resin]]

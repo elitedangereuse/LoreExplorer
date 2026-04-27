@@ -12,6 +12,6 @@ nets and underwater confinements.
 
 Category: Machinery
 Produced by: Industrial
-Consumed by: Agriculture
+Consumed by: Agricultural
 
-Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/86/][Inara: Marine Equipment]]
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Marine_Equipment][Fandom: Marine Equipment]]

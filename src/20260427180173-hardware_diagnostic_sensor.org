@@ -4,6 +4,17 @@
 #+title: Hardware Diagnostic Sensor
 #+filetags: :Commodity:
 
+#+begin_quote
+Diagnostic sensors that provide hardware monitoring and telemetry
+for a variety of systems.
+
+These can be found at Kanwar Gateway in the Xiripa system.
+#+end_quote
+
 Category: Technology
+Produced by: Industrial/Refinery near Lei Jing
+Consumed by: High Tech and Military
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Hardware_Diagnostic_Sensor][Fandom: Hardware Diagnostic Sensor]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/155/][Inara: Hardware Diagnostic Sensor]]

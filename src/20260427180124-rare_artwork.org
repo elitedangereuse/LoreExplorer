@@ -4,6 +4,18 @@
 #+title: Rare Artwork
 #+filetags: :Commodity:
 
+#+begin_quote
+Prized and treasured works of art. The galaxy is rife with
+reproductions and forgeries, and trade in the genuine articles is
+highly controlled, with pieces transported between owners in secure
+convoys. Occasionally pieces find their way onto the black market,
+selling for under-the-counter prices.
+#+end_quote
+
 Category: Salvage
+Produced by: -
+Consumed by: -
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Rare_Artwork][Fandom: Rare Artwork]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/131/][Inara: Rare Artwork]]

@@ -13,6 +13,6 @@ survey teams on long expeditions.
 
 Category: Consumer Items
 Produced by: High Tech
-Consumed by: Agriculture, Extraction, Industrial, High Tech, Military, Refinery, Service, Tourism, Terraforming, Colony
+Consumed by: All (Surface) except High Tech
 
-Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/99/][Inara: Evacuation Shelter]]
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Evacuation_Shelter][Fandom: Evacuation Shelter]]

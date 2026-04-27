@@ -4,6 +4,17 @@
 #+title: Praseodymium
 #+filetags: :Commodity:
 
-Category: Metals
+#+begin_quote
+Praseodymium, Pr, atomic number 59. Melting point 1208K. This is a
+soft and malleable metal. It is a rare mineral used for a variety of
+purposes including: a component in enhanced magnets, an alloy
+component for metals and laser optics.
+#+end_quote
+
+Category: Metal
+Produced by: Mining only
+Consumed by: High Tech and Industrial
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Praseodymium][Fandom: Praseodymium]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/143/][Inara: Praseodymium]]

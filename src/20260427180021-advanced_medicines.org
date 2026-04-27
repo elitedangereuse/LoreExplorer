@@ -4,6 +4,15 @@
 #+title: Advanced Medicines
 #+filetags: :Commodity:
 
+#+begin_quote
+These medicines are specially tailored to counteract the most
+virulent of diseases, whilst causing minimum damage to the host.
+#+end_quote
+
 Category: Medicines
+Produced by: High Tech
+Consumed by: All except High Tech
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Advanced_Medicines][Fandom: Advanced Medicines]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/166/][Inara: Advanced Medicines]]

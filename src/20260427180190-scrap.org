@@ -4,6 +4,14 @@
 #+title: Scrap
 #+filetags: :Commodity:
 
+#+begin_quote
+Assorted unwanted refuse with a high metal content.
+#+end_quote
+
 Category: Waste
+Produced by: Colony, High Tech, Military and Industrial
+Consumed by: Refinery
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Scrap][Fandom: Scrap]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/77/][Inara: Scrap]]

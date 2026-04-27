@@ -4,6 +4,15 @@
 #+title: Methane Clathrate
 #+filetags: :Commodity:
 
+#+begin_quote
+Methane Clathrate, CH4·5.75H2O or 4CH4·23H2O, is a chemical where
+methane is bound within a crystal lattice of water.
+#+end_quote
+
 Category: Minerals
+Produced by: Mining
+Consumed by: Refinery
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Methane_Clathrate][Fandom: Methane Clathrate]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/145/][Inara: Methane Clathrate]]

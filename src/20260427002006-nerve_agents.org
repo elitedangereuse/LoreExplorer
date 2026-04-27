@@ -5,12 +5,12 @@
 #+filetags: :Commodity:
 
 #+begin_quote
-Used in medical research, but because of the potential to be
-weaponised, it is a controlled substance in many jurisdictions.
+Used in medical research but because of the potential to be
+weaponised is a controlled substance in many jurisdictions.
 #+end_quote
 
 Category: Chemicals
 Produced by: Refinery (Surface)
-Consumed by: High Tech (Surface), Military
+Consumed by: High Tech (Surface) and Military
 
-Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/96/][Inara: Nerve Agents]]
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Nerve_Agents][Fandom: Nerve Agents]]

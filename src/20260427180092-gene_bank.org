@@ -4,6 +4,17 @@
 #+title: Gene Bank
 #+filetags: :Commodity:
 
+#+begin_quote
+Collection of DNA and other biological samples containing valuable
+information for the scientific community. These banks can sometimes
+contain samples from extinct species which vastly increases their
+demand.
+#+end_quote
+
 Category: Salvage
+Produced by: Salvage
+Consumed by: }}
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Gene_Bank][Fandom: Gene Bank]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10211/][Inara: Gene Bank]]

@@ -9,12 +9,12 @@ Cartridges for 'chefs' (cheap 3D food printers). These dehydrated
 components are reconstituted into a variety of shapes using a 3D
 printing technique. Components are mixed with water and flavourings
 as they are printed, according to the desired food item template for
-colour, texture and taste. 'Burgers' and 'Hotdogs' are common
-standard template choices for most chefs.
+colour, texture and taste. "Burgers" and "Hotdogs" are common
+standard template choices in most chefs.
 #+end_quote
 
 Category: Foods
 Produced by: Industrial
-Consumed by: Extraction, Industrial, High Tech, Military, Refinery, Service, Tourism, Terraforming, Colony
+Consumed by: All except Agricultural and Industrial
 
-Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/19/][Inara: Food Cartridges]]
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Food_Cartridges][Fandom: Food Cartridges]]

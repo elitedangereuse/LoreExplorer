@@ -4,6 +4,16 @@
 #+title: Non-Lethal Weapons
 #+filetags: :Commodity:
 
+#+begin_quote
+Non-Lethal Weapons are hand-held weapons used by law enforcement and
+for personal protection. They temporarily stun or incapacitate a
+human target, and are legal in most jurisdictions.
+#+end_quote
+
 Category: Weapons
+Produced by: High Tech Military
+Consumed by: All
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Non-Lethal_Weapons][Fandom: Non-Lethal Weapons]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/78/][Inara: Non-Lethal Weapons]]

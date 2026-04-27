@@ -11,7 +11,7 @@ ceremonial importance. Illegal in some jurisdictions.
 #+end_quote
 
 Category: Foods
-Produced by: Agriculture
-Consumed by: Extraction, Industrial, High Tech, Military, Refinery, Service, Tourism, Terraforming, Colony
+Produced by: Agricultural
+Consumed by: All except Agricultural
 
-Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/16/][Inara: Animal Meat]]
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Animal_Meat][Fandom: Animal Meat]]

@@ -4,6 +4,16 @@
 #+title: Bromellite
 #+filetags: :Commodity:
 
+#+begin_quote
+Bromellite, BeO, is a white oxide mineral with a wide range of uses,
+such as ceramic based electronics, and enhancing material properties
+of mechanical strength and thermal conductivity.
+#+end_quote
+
 Category: Minerals
+Produced by: Mining
+Consumed by: High Tech
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Bromellite][Fandom: Bromellite]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/148/][Inara: Bromellite]]

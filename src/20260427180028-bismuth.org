@@ -4,6 +4,16 @@
 #+title: Bismuth
 #+filetags: :Commodity:
 
-Category: Metals
+#+begin_quote
+Bismuth, Bi, atomic number 83. Melting point 545K. It is a
+pentavalent post-transition often used for medicines and specialist
+alloys. It is sometimes used in pharmaceuticals.
+#+end_quote
+
+Category: Metal
+Produced by: Refinery (Surface)
+Consumed by: High Tech Extraction Refinery
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Bismuth][Fandom: Bismuth]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/106/][Inara: Bismuth]]

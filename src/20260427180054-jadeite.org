@@ -4,6 +4,16 @@
 #+title: Jadeite
 #+filetags: :Commodity:
 
-Category: Minerals
+#+begin_quote
+Jadeite; NaAlSi2O6, is a substance of the purest green and used in a
+variety of crafts and art. It has historical roots with the ancient
+Mesoamerican cultures.
+#+end_quote
+
+Category: Mineral
+Produced by: Planetary mining
+Consumed by: Service (Orbital) and Tourist
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Jadeite][Fandom: Jadeite]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/168/][Inara: Jadeite]]

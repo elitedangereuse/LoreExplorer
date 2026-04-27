@@ -4,6 +4,18 @@
 #+title: Tactical Data
 #+filetags: :Commodity:
 
+#+begin_quote
+Encrypted documents detailing logistics, armament control points and
+infrastructure. Possession of such documents is illegal, due to
+their sensitive nature. There is a limited black market demand for
+these items as their military grade encryption makes them almost
+impossible to crack.
+#+end_quote
+
 Category: Salvage
+Produced by: Salvage
+Consumed by: }}
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Tactical_Data][Fandom: Tactical Data]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/180/][Inara: Tactical Data]]

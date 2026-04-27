@@ -4,6 +4,16 @@
 #+title: Coltan
 #+filetags: :Commodity:
 
+#+begin_quote
+Coltan is a mixture of columbite and tantalite, both valuable
+Tantalum ores. Useful in capacitors throughout history for many high
+tech and electronic devices.
+#+end_quote
+
 Category: Minerals
+Produced by: Extraction
+Consumed by: Refinery
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Coltan][Fandom: Coltan]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/55/][Inara: Coltan]]

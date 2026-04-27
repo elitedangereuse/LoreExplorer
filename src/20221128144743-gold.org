@@ -4,3 +4,15 @@
 #+title: Gold
 #+filetags: :Commodity:
 
+#+begin_quote
+Gold, Au, atomic number 79. Melting point 1337K. A valuable precious
+metal, and because it is the most resistive metal to corrosion, is
+widely used in jewelry and luxury goods and for contact pads in
+electronics.
+#+end_quote
+
+Category: Metals
+Produced by: Extraction Refinery
+Consumed by: Any except Agricultural, Refinery, Extraction, Military
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Gold][Fandom: Gold]]

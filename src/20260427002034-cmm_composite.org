@@ -5,13 +5,13 @@
 #+filetags: :Commodity:
 
 #+begin_quote
-CMM composites are layered carbon and metals bonded to take
+CMM Composites are layered carbon and metals layered to take
 advantage of the properties for each of the different components.
 These result in flexible, lightweight and strong structures.
 #+end_quote
 
-Category: Industrial Materials
-Produced by: Refinery
-Consumed by: High Tech, Industrial, Military
+Category: Industrial Material
+Produced by: Refinery (Surface)
+Consumed by: High Tech, Industrial and Military
 
-Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/140/][Inara: CMM Composite]]
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/CMM_Composite][Fandom: CMM Composite]]

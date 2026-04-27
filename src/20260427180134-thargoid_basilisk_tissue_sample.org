@@ -4,6 +4,20 @@
 #+title: Thargoid Basilisk Tissue Sample
 #+filetags: :Commodity:
 
+#+begin_quote
+A sample of bio-mechanical tissue taken from a Thargoid Interceptor-
+class vessel. This sample has come from a variant known as a
+Basilisk and appears older and more developed than samples taken
+from the Cyclops variant with denser biological matter and more
+intricate technological elements. Tissue samples appear to be highly
+sought after for research purposes despite the fact that they appear
+to be highly corrosive.
+#+end_quote
+
 Category: Salvage
+Produced by: -
+Consumed by: -
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Thargoid_Basilisk_Tissue_Sample][Fandom: Thargoid Basilisk Tissue Sample]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10236/][Inara: Thargoid Basilisk Tissue Sample]]

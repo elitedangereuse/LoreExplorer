@@ -4,6 +4,15 @@
 #+title: Animal Monitors
 #+filetags: :Commodity:
 
+#+begin_quote
+A bio-electronic suite of sensor systems and analysis software,
+easily adapted to monitor a wide variety of organic species.
+#+end_quote
+
 Category: Technology
+Produced by: High Tech
+Consumed by: Agricultural
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Animal_Monitors][Fandom: Animal Monitors]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/62/][Inara: Animal Monitors]]

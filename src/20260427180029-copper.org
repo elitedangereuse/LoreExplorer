@@ -4,6 +4,18 @@
 #+title: Copper
 #+filetags: :Commodity:
 
+#+begin_quote
+Copper, Cu, atomic number 29. Melting point 1358K. A highly ductile
+lustrous red-orange metal, with good thermal and electrical
+conductivity. Used broadly by industry as a cheap conductor and in
+many alloys. It is also used in biotech and aquaculture especially
+in many extraterrestrial and hemocyanal species.
+#+end_quote
+
 Category: Metals
+Produced by: Refinery
+Consumed by: Industrial
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Copper][Fandom: Copper]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/40/][Inara: Copper]]

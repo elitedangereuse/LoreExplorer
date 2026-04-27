@@ -4,6 +4,17 @@
 #+title: Platinum
 #+filetags: :Commodity:
 
+#+begin_quote
+Platinum, Pt. atomic number 78. Melting point 2,041K. A grey-white
+precious metal used as a catalyst within many industrial processes,
+in addition to its value in electronics and luxury goods because of
+its resistance to corrosion.
+#+end_quote
+
 Category: Metals
+Produced by: Mining
+Consumed by: Any except Agricultural, Refinery, Extraction, Military
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Platinum][Fandom: Platinum]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/81/][Inara: Platinum]]

@@ -4,6 +4,17 @@
 #+title: Precious Gems
 #+filetags: :Commodity:
 
+#+begin_quote
+These materials have inherent value. They are very useful in
+maintaining stability in otherwise volatile economies. Alongside the
+wealth factor, precious gems and metals play a significant role in
+the generation of extravagant status symbols.
+#+end_quote
+
 Category: Salvage
+Produced by: Salvage
+Consumed by: }}
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Precious_Gems][Fandom: Precious Gems]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10165/][Inara: Precious Gems]]

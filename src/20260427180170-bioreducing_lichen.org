@@ -4,6 +4,17 @@
 #+title: Bioreducing Lichen
 #+filetags: :Commodity:
 
+#+begin_quote
+Genetically engineered lichen used to prepare an asteroid field or
+broken surface rocks for industrial extraction. Once deployed the
+lichen will spread over the field and concentrate specific minerals,
+changing colour in the process, allowing for efficient extraction.
+#+end_quote
+
 Category: Technology
+Produced by: High Tech
+Consumed by: Extraction
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Bioreducing_Lichen][Fandom: Bioreducing Lichen]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/66/][Inara: Bioreducing Lichen]]

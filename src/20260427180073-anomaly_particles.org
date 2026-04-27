@@ -4,6 +4,14 @@
 #+title: Anomaly Particles
 #+filetags: :Commodity:
 
+#+begin_quote
+A collection of particles from a space-based anomaly.
+#+end_quote
+
 Category: Salvage
+Produced by: | consumer =
+Consumed by: }}
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Anomaly_Particles][Fandom: Anomaly Particles]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10270/][Inara: Anomaly Particles]]

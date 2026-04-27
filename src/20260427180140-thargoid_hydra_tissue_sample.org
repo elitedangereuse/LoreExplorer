@@ -4,6 +4,19 @@
 #+title: Thargoid Hydra Tissue Sample
 #+filetags: :Commodity:
 
+#+begin_quote
+A sample of bio-mechanical tissue from a Thargoid Interceptor-class
+vessel. This sample is from the Hydra variant, and is therefore more
+developed than samples from other kinds of Interceptor, with denser
+biological matter and more intricate technological elements. Such
+samples are highly sought after by scientists despite being highly
+corrosive.
+#+end_quote
+
 Category: Salvage
+Produced by: -
+Consumed by: -
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Thargoid_Hydra_Tissue_Sample][Fandom: Thargoid Hydra Tissue Sample]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10239/][Inara: Thargoid Hydra Tissue Sample]]

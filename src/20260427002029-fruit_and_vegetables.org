@@ -11,7 +11,7 @@ consumption by the population.
 #+end_quote
 
 Category: Foods
-Produced by: Agriculture
-Consumed by: -
+Produced by: Agricultural
+Consumed by: All
 
-Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/20/][Inara: Fruit and Vegetables]]
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Fruit_and_Vegetables][Fandom: Fruit and Vegetables]]

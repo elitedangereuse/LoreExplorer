@@ -4,6 +4,17 @@
 #+title: Lanthanum
 #+filetags: :Commodity:
 
-Category: Metals
+#+begin_quote
+Lanthanum, La, atomic number 57. Melting point 1193K. is a soft
+metallic element used as an additive in glass. It's properties make
+it ideal for optical communications systems, other lighting
+applications and as a catalyst for various refining processes.
+#+end_quote
+
+Category: Metal
+Produced by: Refinery (Surface)
+Consumed by: High Tech
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Lanthanum][Fandom: Lanthanum]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/107/][Inara: Lanthanum]]

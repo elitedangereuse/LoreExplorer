@@ -4,6 +4,16 @@
 #+title: Personal Weapons
 #+filetags: :Commodity:
 
+#+begin_quote
+Personal firearms, designed for both self defence and offence, but
+intended to kill a human attacker. Illegal or highly controlled in
+many jurisdictions.
+#+end_quote
+
 Category: Weapons
+Produced by: High Tech Industrial Military
+Consumed by: All
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Personal_Weapons][Fandom: Personal Weapons]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/79/][Inara: Personal Weapons]]

@@ -4,6 +4,16 @@
 #+title: Military Grade Fabrics
 #+filetags: :Commodity:
 
+#+begin_quote
+Made from high-grade fabrics which are highly durable as well as
+adaptive to different temperatures and weather conditions, this
+clothing is essential for military personnel.
+#+end_quote
+
 Category: Textiles
+Produced by: Industrial
+Consumed by: Military
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Military_Grade_Fabrics][Fandom: Military Grade Fabrics]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/157/][Inara: Military Grade Fabrics]]

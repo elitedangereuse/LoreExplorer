@@ -4,6 +4,17 @@
 #+title: Imperial Slaves
 #+filetags: :Commodity:
 
-Category: Slaves
+#+begin_quote
+Slavery is an important part of Imperial Society, providing labour
+for the Empire and a safety net for its citizens. Many Imperials
+will choose to sell themselves into a fixed period of slavery than
+face the embarrassment and dishonour of living with a debt.
+#+end_quote
+
+Category: Slavery
+Produced by: Agriculture
+Consumed by: All
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Imperial_Slaves][Fandom: Imperial Slaves]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/49/][Inara: Imperial Slaves]]

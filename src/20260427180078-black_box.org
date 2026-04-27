@@ -4,6 +4,18 @@
 #+title: Black Box
 #+filetags: :Commodity:
 
+#+begin_quote
+The flight computer from a destroyed ship. Recovered flight
+computers can offer details on the movements and intentions of ships
+before meeting their demise. Taking a black box from the scene of an
+accident is frowned on by authorities, but can offer lucrative
+profits on the black market.
+#+end_quote
+
 Category: Salvage
+Produced by: -
+Consumed by: -
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Black_Box][Fandom: Black Box]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/122/][Inara: Black Box]]

@@ -4,6 +4,15 @@
 #+title: Benitoite
 #+filetags: :Commodity:
 
+#+begin_quote
+Benitoite is a blue barium titanium silicate mineral that appears
+fluorescent under shortwave ultraviolet light.
+#+end_quote
+
 Category: Minerals
+Produced by: Asteroid Core Mining
+Consumed by: }}
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Benitoite][Fandom: Benitoite]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10247/][Inara: Benitoite]]

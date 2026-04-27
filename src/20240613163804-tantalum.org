@@ -4,8 +4,18 @@
 #+title: Tantalum
 #+filetags: :Commodity:
 
+#+begin_quote
+Tantalum, Ta, atomic number 73. Melting point 3290K. Used to make
+capacitors and high melting point alloys used in reactors and by the
+military for specialist alloys used in weapons for armour
+penetration.
+#+end_quote
+
+Category: Metals
 Produced by: Refinery
-Consumed by: High Tech and Industrial
+Consumed by: High Tech Industrial
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Tantalum][Fandom: Tantalum]]
 
 Tantalum, Ta, atomic number 73. Melting point 3290K. Used to make
 capacitors and high melting point alloys in reactors, and by the

@@ -4,6 +4,16 @@
 #+title: Lithium Hydroxide
 #+filetags: :Commodity:
 
-Category: Minerals
+#+begin_quote
+Lithium Hydroxide, LiOH, is a hygroscopic material often used for
+scrubbing CO₂ from life support systems. It is also used within
+certain ceramics and as a heat transfer medium.
+#+end_quote
+
+Category: Mineral
+Produced by: Mining only
+Consumed by: High Tech, Refinery
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Lithium_Hydroxide][Fandom: Lithium Hydroxide]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/147/][Inara: Lithium Hydroxide]]

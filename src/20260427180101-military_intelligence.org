@@ -4,6 +4,17 @@
 #+title: Military Intelligence
 #+filetags: :Commodity:
 
+#+begin_quote
+Highly confidential documents detailing military movements and
+military strategy. Possession of such documents is highly illegal,
+due to their sensitive nature. For the same reason they fetch an
+exceedingly large sum from the right buyer.
+#+end_quote
+
 Category: Salvage
+Produced by: Salvage
+Consumed by: }}
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Military_Intelligence][Fandom: Military Intelligence]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/126/][Inara: Military Intelligence]]

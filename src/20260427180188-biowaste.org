@@ -4,6 +4,15 @@
 #+title: Biowaste
 #+filetags: :Commodity:
 
+#+begin_quote
+Sterilised, then used as a basic form of fertiliser on many
+agricultural worlds.
+#+end_quote
+
 Category: Waste
+Produced by: All except Agricultural
+Consumed by: Agricultural
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Biowaste][Fandom: Biowaste]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/76/][Inara: Biowaste]]

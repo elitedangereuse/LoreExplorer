@@ -4,6 +4,15 @@
 #+title: Cryolite
 #+filetags: :Commodity:
 
-Category: Minerals
+#+begin_quote
+Used in a range of applications, including: Insecticides, pesticides
+fireworks [sic] and as a solvent for Aluminium oxide.
+#+end_quote
+
+Category: Mineral
+Produced by: Extraction (Surface)
+Consumed by: Refinery
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Cryolite][Fandom: Cryolite]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/110/][Inara: Cryolite]]

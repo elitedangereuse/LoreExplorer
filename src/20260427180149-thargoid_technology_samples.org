@@ -4,6 +4,16 @@
 #+title: Thargoid Technology Samples
 #+filetags: :Commodity:
 
+#+begin_quote
+A bio-mechanical canister containing Thargoid technological samples.
+This material plays a part in the construction of Thargoid
+structures and ships.
+#+end_quote
+
 Category: Salvage
+Produced by: -
+Consumed by: -
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Thargoid_Technology_Samples][Fandom: Thargoid Technology Samples]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10163/][Inara: Thargoid Technology Samples]]

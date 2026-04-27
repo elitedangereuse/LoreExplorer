@@ -4,6 +4,17 @@
 #+title: Water Purifiers
 #+filetags: :Commodity:
 
+#+begin_quote
+Water purifiers and components and consumables for them. All space
+installations are reliant on recycled water, so water purification
+is vital for survival. Some units are set up to medicate the
+purified water to maintain the correct mood of inhabitants.
+#+end_quote
+
 Category: Machinery
+Produced by: Industrial
+Consumed by: All except Industrial
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Water_Purifiers][Fandom: Water Purifiers]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/82/][Inara: Water Purifiers]]

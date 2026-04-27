@@ -4,6 +4,15 @@
 #+title: Leather
 #+filetags: :Commodity:
 
+#+begin_quote
+Assorted tanned animal hides. Used in industry to produce clothing
+and high value furnishings.
+#+end_quote
+
 Category: Textiles
+Produced by: Agricultural
+Consumed by: Industrial
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Leather][Fandom: Leather]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/73/][Inara: Leather]]

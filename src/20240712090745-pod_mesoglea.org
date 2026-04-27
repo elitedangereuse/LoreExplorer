@@ -4,3 +4,12 @@
 #+title: Pod Mesoglea
 #+filetags: :Commodity:
 
+#+begin_quote
+A sample of jelly-like tissue from a space-based seed pod.
+#+end_quote
+
+Category: Salvage
+Produced by: Gyre Pod
+Consumed by: }}
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Pod_Mesoglea][Fandom: Pod Mesoglea]]

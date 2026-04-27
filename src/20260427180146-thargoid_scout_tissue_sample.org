@@ -4,6 +4,16 @@
 #+title: Thargoid Scout Tissue Sample
 #+filetags: :Commodity:
 
+#+begin_quote
+A sample of bio-mechanical tissue taken from a Thargoid Scout-class
+vessel. Tissue samples appear to be much sought after for research
+purposes, despite the fact that they appear to be highly corrosive.
+#+end_quote
+
 Category: Salvage
+Produced by: -
+Consumed by: -
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Thargoid_Scout_Tissue_Sample][Fandom: Thargoid Scout Tissue Sample]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10238/][Inara: Thargoid Scout Tissue Sample]]

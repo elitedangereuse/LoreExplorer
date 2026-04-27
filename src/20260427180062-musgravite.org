@@ -4,6 +4,15 @@
 #+title: Musgravite
 #+filetags: :Commodity:
 
+#+begin_quote
+Musgravite is an oxide mineral first discovered on Earth in the
+Musgrave mountain range in Australia, hence its name.
+#+end_quote
+
 Category: Minerals
+Produced by: Asteroid Core Mining
+Consumed by: }}
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Musgravite][Fandom: Musgravite]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10246/][Inara: Musgravite]]

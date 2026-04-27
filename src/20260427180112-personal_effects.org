@@ -4,6 +4,16 @@
 #+title: Personal Effects
 #+filetags: :Commodity:
 
+#+begin_quote
+Personal items are often transported and sometimes lost while
+travelling within and between star systems. They usually have little
+value except to their owners.
+#+end_quote
+
 Category: Salvage
+Produced by: -
+Consumed by: -
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Personal_Effects][Fandom: Personal Effects]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10159/][Inara: Personal Effects]]

@@ -5,11 +5,13 @@
 #+filetags: :Commodity:
 
 #+begin_quote
-These can be found at Chadwick Port in the Gladutjin system.
+Emergency power cells used to provide power when the primary power
+source is unavailable. They can also be used to temporarily increase
+power output.
 #+end_quote
 
 Category: Machinery
-Produced by: High Tech/Refinery near Akhenaten
+Produced by: Industrial (surface), High Tech/Refinery (orbital, restricted)
 Consumed by: High Tech, Industrial, Military
 
-Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/158/][Inara: Emergency Power Cells]]
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Emergency_Power_Cells][Fandom: Emergency Power Cells]]

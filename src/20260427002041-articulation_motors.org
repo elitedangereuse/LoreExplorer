@@ -9,7 +9,7 @@ Articulation motors are used to move components with devices.
 #+end_quote
 
 Category: Machinery
-Produced by: Mission reward
-Consumed by: -
+Produced by: Mission Rewards
+Consumed by: High Tech
 
-Sources: in-game commodity description, mirrored at [[https://inara.cz/elite/commodity/182/][Inara: Articulation Motors]]
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Articulation_Motors][Fandom: Articulation Motors]]

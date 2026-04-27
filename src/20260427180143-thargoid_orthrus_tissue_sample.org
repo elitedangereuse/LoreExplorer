@@ -4,6 +4,16 @@
 #+title: Thargoid Orthrus Tissue Sample
 #+filetags: :Commodity:
 
+#+begin_quote
+A sample of bio-mechanical tissue taken from a Thargoid Interceptor-
+class vessel. This sample has been taken from a variant known as an
+Orthrus.
+#+end_quote
+
 Category: Salvage
+Produced by: -
+Consumed by: -
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Thargoid_Orthrus_Tissue_Sample][Fandom: Thargoid Orthrus Tissue Sample]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10438/][Inara: Thargoid Orthrus Tissue Sample]]

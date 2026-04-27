@@ -4,6 +4,15 @@
 #+title: Scientific Research
 #+filetags: :Commodity:
 
+#+begin_quote
+A collection of data and equipment, the results of a series of
+scientific experiments and observations.
+#+end_quote
+
 Category: Salvage
+Produced by: Salvage
+Consumed by: }}
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Scientific_Research][Fandom: Scientific Research]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/178/][Inara: Scientific Research]]

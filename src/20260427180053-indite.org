@@ -4,6 +4,17 @@
 #+title: Indite
 #+filetags: :Commodity:
 
+#+begin_quote
+Indite: chemical formula Fein2S4. Indium Ore. A rare, black,
+crystalline mineral. Often found in what were once hydrothermal
+deposits or asteroids that have been heated in their past. it is
+widely refined into Indium.
+#+end_quote
+
 Category: Minerals
+Produced by: Extraction
+Consumed by: Refinery
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Indite][Fandom: Indite]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/57/][Inara: Indite]]

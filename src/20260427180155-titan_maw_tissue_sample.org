@@ -4,6 +4,15 @@
 #+title: Titan Maw Tissue Sample
 #+filetags: :Commodity:
 
+#+begin_quote
+A typical sample of bio-mechanical tissue taken from a Thargoid
+Titan maw.
+#+end_quote
+
 Category: Salvage
+Produced by: -
+Consumed by: -
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Titan_Maw_Tissue_Sample][Fandom: Titan Maw Tissue Sample]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10447/][Inara: Titan Maw Tissue Sample]]

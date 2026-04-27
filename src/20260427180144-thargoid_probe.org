@@ -4,6 +4,15 @@
 #+title: Thargoid Probe
 #+filetags: :Commodity:
 
+#+begin_quote
+These Thargoid objects are capable of emitting an electro-magnetic
+pulse that can temporarily incapacitate a starship.
+#+end_quote
+
 Category: Salvage
+Produced by: |consumer =
+Consumed by: }}
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Thargoid_Probe][Fandom: Thargoid Probe]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/186/][Inara: Thargoid Probe]]

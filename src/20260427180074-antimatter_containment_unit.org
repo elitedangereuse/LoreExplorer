@@ -4,6 +4,15 @@
 #+title: Antimatter Containment Unit
 #+filetags: :Commodity:
 
+#+begin_quote
+This containment unit safely stores antimatter protecting it from
+gamma radiation and interaction with standard matter.
+#+end_quote
+
 Category: Salvage
+Produced by: Salvage
+Consumed by: }}
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Antimatter_Containment_Unit][Fandom: Antimatter Containment Unit]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/10167/][Inara: Antimatter Containment Unit]]

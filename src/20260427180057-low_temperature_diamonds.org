@@ -4,6 +4,15 @@
 #+title: Low Temperature Diamonds
 #+filetags: :Commodity:
 
-Category: Minerals
+#+begin_quote
+Low Temperature Diamonds, C, are formed under intense pressure (as
+with regular diamonds), but without a heat component.
+#+end_quote
+
+Category: Mineral
+Produced by: Mining
+Consumed by: Tourism High Tech Industrial Refinery
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Low_Temperature_Diamonds][Fandom: Low Temperature Diamonds]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/144/][Inara: Low Temperature Diamonds]]

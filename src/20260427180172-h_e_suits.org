@@ -4,6 +4,17 @@
 #+title: H.E. Suits
 #+filetags: :Commodity:
 
+#+begin_quote
+Suitable for human use in hostile environments including vacuum,
+together with spare parts. Fitted with atmospheric scrubbing and
+life support, vital signs monitoring, automatic medical systems and
+a multi channel communications interface.
+#+end_quote
+
 Category: Technology
+Produced by: High Tech
+Consumed by: Industrial Refinery Extraction Military
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/H.E._Suits][Fandom: H.E. Suits]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/68/][Inara: H.E. Suits]]

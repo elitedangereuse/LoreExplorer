@@ -4,6 +4,17 @@
 #+title: Performance Enhancers
 #+filetags: :Commodity:
 
+#+begin_quote
+A broad category of engineered substances that enhance human
+physical or mental or emotional capabilities. Produced on high tech
+worlds, and widely consumed. There are some risks from excessive
+consumption and they are illegal in some jurisdictions.
+#+end_quote
+
 Category: Medicines
+Produced by: High Tech
+Consumed by: Agricultural Industrial Refinery Extraction Military
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Performance_Enhancers][Fandom: Performance Enhancers]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/35/][Inara: Performance Enhancers]]

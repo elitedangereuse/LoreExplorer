@@ -4,6 +4,18 @@
 #+title: Antiquities
 #+filetags: :Commodity:
 
+#+begin_quote
+A collection of priceless artefacts. Such objects are often invested
+with great cultural and historical value. Removal of antiquities
+from their original sites is generally considered a crime. The legal
+extraction of antiquities can only occur when the relevant permit
+has been granted by the local authorities.
+#+end_quote
+
 Category: Salvage
+Produced by: Salvage
+Consumed by: }}
+
+Sources: in-game commodity description, mirrored at [[https://elite-dangerous.fandom.com/wiki/Antiquities][Fandom: Antiquities]]
 
 Sources: local Inara commodity list snapshot; mirrored commodity page: [[https://inara.cz/elite/commodity/91/][Inara: Antiquities]]
