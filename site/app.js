@@ -27,6 +27,7 @@ const toolbarOptionsPanel = document.getElementById("toolbar-options-panel");
 const colorModeSelect = document.getElementById("color-mode");
 const shapeModeSelect = document.getElementById("shape-mode");
 const graphFilterToolbar = document.getElementById("graph-filter-toolbar");
+const graphStatsBadge = document.getElementById("graph-stats-badge");
 const noteContent = document.getElementById("note-content");
 const noteMeta = document.getElementById("note-meta");
 const detectivePanel = document.getElementById("detective-panel");
@@ -1829,6 +1830,12 @@ function renderNodeLabels(nodes) {
 }
 
 function reportVisibleGraphStats(visibleNodeCount, visibleLinkCount) {
+  if (graphStatsBadge) {
+    const totalNodeCount = state.baseMeta?.nodeCount ?? state.baseNodes.length;
+    const totalLinkCount = state.baseMeta?.edgeCount ?? state.baseEdges.length;
+    graphStatsBadge.textContent = `${visibleNodeCount} nodes, ${visibleLinkCount} links`;
+    setTooltipLabel(graphStatsBadge, `Total: ${totalNodeCount} nodes, ${totalLinkCount} links`);
+  }
   const signature = `${visibleNodeCount}:${visibleLinkCount}`;
   if (state.visibleGraphStatsSignature === signature) {
     return;
