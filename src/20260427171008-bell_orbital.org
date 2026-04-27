@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       47b442bd-051a-4505-b03e-42d7f56761f4
+:END:
+#+title: Bell Orbital
+#+filetags: :Station:
+
+[[id:09c5d0b8-f01e-446f-9be8-cec059e00cce][Gilya]]
+
+Rare commodity source: [[id:ca9c023b-f855-44e3-904b-83a5feab6c67][Gilya Signature Weapons]].

@@ -5,6 +5,6 @@
 #+filetags: :Commodity:rare:
 
 
-Sold as a rare commodity at [[id:None][Schweickart Station]], [[id:None][Aegaeon]].
+Sold as a rare commodity at [[id:7623168c-591d-44c6-9eac-c18a5ae76ecf][Schweickart Station]], [[id:be7ec7d4-ee3e-4dc0-a302-95669fa775b2][Aegaeon]].
 
 Sources: in-game commodity entry, listed at [[https://inara.cz/elite/commodities-rare/][Inara rare commodities]] and mirrored at [[https://inara.cz/elite/commodity/10015/][Inara: Chateau De Aegaeon]]

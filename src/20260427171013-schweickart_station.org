@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       7623168c-591d-44c6-9eac-c18a5ae76ecf
+:END:
+#+title: Schweickart Station
+#+filetags: :Station:
+
+[[id:be7ec7d4-ee3e-4dc0-a302-95669fa775b2][Aegaeon]]
+
+Rare commodity source: [[id:a8e39d40-99a9-4f9a-982c-82895e20f5e4][Chateau De Aegaeon]].
