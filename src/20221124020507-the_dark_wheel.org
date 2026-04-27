@@ -38,7 +38,7 @@ handful of the bravest and most competent pilots of each generation are
 honoured with an invitation to join the group. It is futile to attempt
 to contact the Dark Wheel on one's own initiative, however -- it is
 always they who initiate contact, initially in disguise, revealing their
-true identity only once a suitable [[id:c951fc2c-63cb-4884-81d6-b38c62afada6][test]] of courage and [[id:02a9c750-ffc3-4368-a7f2-92a925b715e9][skill]] has been
+true identity only once a suitable test of courage and skill has been
 discreetly administered, and passed.
 
 Opposing theories assert that new members are selected on the basis of
@@ -50,9 +50,9 @@ are dangerous.
 
 According to self-professed Dark Wheel expert [[id:26fd3b75-9402-4192-ad70-3889de39c7c8][Lyta Crane]], a conspiracy
 theorist and 'people's journalist' who has painstakingly assembled an
-archive of relevant data, the original group was based in a [[id:428a6236-9808-4fbe-a738-5a62d24f89ad][disused
-starport]] orbiting the [[id:4c5f7870-8dfd-463f-aadf-aa43ddeaeaa8][eighth]] [[id:e998c95c-a76f-4312-a8c2-3a8706232ae9][moon]] of an unnamed [[id:c06b99eb-1957-4432-ac68-8477488428a1][gas giant]]. The station
-was [[id:149464fc-2fa5-4413-acb4-f44cb585f171][toroid]], hence 'wheel', and operated with a minimal power output so
+archive of relevant data, the original group was based in a disused
+starport orbiting the [[id:4c5f7870-8dfd-463f-aadf-aa43ddeaeaa8][eighth]] [[id:e998c95c-a76f-4312-a8c2-3a8706232ae9][moon]] of an unnamed gas giant. The station
+was toroid, hence 'wheel', and operated with a minimal power output so
 as to avoid detection, hence 'dark'.
 
 Crane believes that this starport is still in use, and is the only means
