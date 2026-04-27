@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       58020c3c-6fd5-43cc-bfac-47029d4c09f7
+:END:
+#+title: HIP 11693 Visitor Beacon
+#+filetags: :Tourist:Visitor:beacon:
+* 0347 HIP 11693 Visitor Beacon
+[[id:8ac3fdcb-c77b-4460-b4b8-004d8ff5ab1a][HIP 11693]]
+
+This majestic ringed ice world orbits the barycentre of the binary system, affording some glorious views of the star.

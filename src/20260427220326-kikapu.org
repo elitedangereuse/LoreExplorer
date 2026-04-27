@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       b1b4bdf1-48ea-48fb-8f8c-05dc77f685e0
+:END:
+#+title: Kikapu
+#+filetags: :System:
+Kikapu is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:481c8784-f57a-4b7d-8d8f-1fd1fa9e81af][0388 Kikapu Visitor Beacon]]

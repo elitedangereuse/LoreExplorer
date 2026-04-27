@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       bc3e70c7-37d1-4e96-91ad-d084f4966efa
+:END:
+#+title: Tujing
+#+filetags: :System:
+Tujing is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:23e820f1-95d6-4b11-9d8c-2dc7a1edc10b][0478 Tujing Visitor Beacon]]
+- [[id:83464a93-4488-4bc2-86ce-7241a7bae798][0587 Tujing 7 F Ice Geysers]]
+- [[id:e968cb20-2473-4127-ad76-954ba942f4a8][0593 Tujing 8 A Ice Geysers]]
+- [[id:94d64b45-80c3-4317-a627-f7bdb51566d9][0602 Tujing 2 A Gas Vents]]

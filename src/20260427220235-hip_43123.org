@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       3b6edb9c-274a-490e-9406-408edfdae4bb
+:END:
+#+title: HIP 43123
+#+filetags: :System:
+HIP 43123 is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:af396c1e-c669-4813-bd47-c8ccb6934ce8][0258 Carbon Star Close]]

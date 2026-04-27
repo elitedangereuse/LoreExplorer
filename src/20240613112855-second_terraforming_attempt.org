@@ -2,7 +2,7 @@
 :ID:       bb847c74-b447-4edd-abee-df18055a1612
 :END:
 #+title: Second Terraforming Attempt
-#+filetags: :beacon:
+#+filetags: :Tourist:History:beacon:
 * 0176 Second Terraforming Attempt
 [[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]]
 

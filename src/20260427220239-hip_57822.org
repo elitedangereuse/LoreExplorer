@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       13360354-85b1-481c-b475-2a8b9e07e222
+:END:
+#+title: HIP 57822
+#+filetags: :System:
+HIP 57822 is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:600f36fc-fb33-4840-852f-7a254c83654e][0628 Ringed Gem]]

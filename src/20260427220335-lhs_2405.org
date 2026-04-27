@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       f751a9a1-ede7-4c54-9b7c-c58404a0e0d2
+:END:
+#+title: LHS 2405
+#+filetags: :System:
+LHS 2405 is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:02573e58-b490-4859-b8a6-736d536d59d0][0400 LHS 2405 Visitor Beacon]]
+- [[id:e583c513-ef4d-4313-abb3-8667472bd553][0592 LHS 2405 B 7 A Ice Geysers]]

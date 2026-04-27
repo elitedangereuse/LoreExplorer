@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       b6a58d72-9210-46f9-8c7d-07833fb91937
+:END:
+#+title: HIP 41181 Visitor Beacon
+#+filetags: :Tourist:Visitor:beacon:
+* 0356 HIP 41181 Visitor Beacon
+[[id:cd7894ad-5bc7-4c15-b7c8-67120da11394][HIP 41181]]
+
+From here you can see the first of two gas giants within the system that are known to harbor life in their atmospheres.

@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       6c262b45-0286-4263-ab8c-b1e00d79d75c
+:END:
+#+title: Punuri
+#+filetags: :System:
+Punuri is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:c1c2d663-dda4-4caf-b60f-a21094d5eed4][0455 Punuri Visitor Beacon]]

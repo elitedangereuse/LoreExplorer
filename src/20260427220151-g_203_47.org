@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       10fba3cc-65ef-41e5-8af4-19ff9ef24777
+:END:
+#+title: G 203-47
+#+filetags: :System:
+G 203-47 is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:2ecd7b3c-d359-403b-8642-795c686ec16b][0321 G 203-47 Visitor Beacon]]
+- [[id:086f2a3e-e308-495e-ad94-26d684de2fa2][0544 G 203-47 6 A Ice Geyser]]
+- [[id:4bd86d69-b150-4737-b7ac-693fa3dd0a35][0556 G 203-47 6 B Ice Geyser]]
+- [[id:7b00352c-4263-45c2-ace2-f2a1960b90c4][0562 G 203-47 9 A Ice Geyser]]

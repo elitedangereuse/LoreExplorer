@@ -2,7 +2,7 @@
 :ID:       d62ebce2-9946-4288-9b24-497a0cccdca1
 :END:
 #+title: Construction Convoy Assembled
-#+filetags: :beacon:
+#+filetags: :Tourist:History:beacon:
 * 0668 Construction Convoy Assembled
 [[id:bb8ac014-a3ac-4564-9c3a-7aaff6536d59][Zearla]]
 

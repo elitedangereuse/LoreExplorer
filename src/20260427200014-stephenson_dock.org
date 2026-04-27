@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       153ae422-03e6-440d-b05c-997d9f5eab41
+:END:
+#+title: Stephenson Dock
+#+filetags: :Station:
+
+[[id:ed48c6fc-8220-4d47-a8a8-60ceada78f78][Wolf 294]]
+
+Stephenson Dock is an Orbis starport built by
+[[id:a65fc0a0-6116-4c04-bb30-063687a20b2c][Kavanagh Spaceframes Ltd]] during the
+3306 fleet-carrier support initiative.
+

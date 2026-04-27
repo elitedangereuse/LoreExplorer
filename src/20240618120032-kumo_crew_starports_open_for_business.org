@@ -12,15 +12,15 @@
 
 Five new starports constructed by [[id:7aae0550-b8ba-42cf-b52b-e7040461c96f][Archon Delaine]]’s recent campaign have now become fully operational. 
 
-The Orbis stations, which are run by the Kumo Council faction, are listed below: 
+The Orbis stations, which are run by the [[id:2dc1b92f-4bdc-4504-ad5f-a9c5794155dc][Kumo Council]] faction, are listed below: 
 
-Kumo City in the Pegasi sector PN-T C3-14 system (Harma region) 
+[[id:82a0f345-bc03-4564-897c-b00bcda5b74e][Kumo City]] in the [[id:93f55330-0ae5-42d5-bee2-368453bcd9e1][Pegasi Sector PN-T c3-14]] system (Harma region) 
 
 [[id:9c28cea7-e9c6-41cd-901d-7a071dc5b406][California Freeport]] in the [[id:e8341944-ebda-4a16-9ad2-0b6e9405d8b7][HIP 18390]] system ([[id:6fee136e-381f-47a2-ba13-6d74c8798803][California Nebula]])  
 
 Crimson Exchange in the HIP 10792 system (Sothis region)  
 
-Fort Xeno in the HIP 62154 system (Coalsack Nebula)  
+[[id:82800f08-27d3-48c8-a984-c8a2ff882cbb][Fort Xeno]] in the [[id:80076c05-2ff7-4655-aa14-02ccfcfb11c9][HIP 62154]] system ([[id:6f086af9-53a6-4d37-9800-b81d2537837c][Coalsack Nebula]])  
 
 Delaine Terminus in the Eol Prou PC-K c9-91 system (Colonia region)  
 

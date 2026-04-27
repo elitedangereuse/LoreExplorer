@@ -2,9 +2,9 @@
 :ID:       ad178bfc-b8bc-42b1-855a-a6ede443aba2
 :END:
 #+title: IDC - Keeping the Empire Safe
-#+filetags: :Empire:beacon:
+#+filetags: :Tourist:History:beacon:Empire:
 * 0234 IDC - Keeping the Empire Safe
-[[id:1062402b-b982-499d-85ce-fbaa7570939f][Facece]]
+[[id:73e31493-0c88-4fd7-9f49-9f3f1c92db41][Facece]]
 
 The [[id:93878507-2e99-4b11-8800-fe133b161303][Imperial Diplomatic Corps]] (or IDC) reports to the
 Senate. Officially it operates embassies in most foreign sysems, but

@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       239f9433-d111-4c01-a33d-bccdec5003ff
+:END:
+#+title: Pomeche
+#+filetags: :System:
+Pomeche is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:faf6ab7d-3076-4f48-bb3c-e5672b2021b1][0073 Epic Mountain Range]]

@@ -2,7 +2,7 @@
 :ID:       27f430e2-550f-4eeb-afe2-df4ae59d01b8
 :END:
 #+title: Distant Worlds II Inaugural Jump
-#+filetags: :beacon:
+#+filetags: :Tourist:History:beacon:
 * ER11. Distant Worlds II Inaugural Jump
 [[id:4ccdf1db-68db-4935-8cac-b6d23e01d78d][Pallaeni]]
 

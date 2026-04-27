@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       5f7258d7-c88c-47b6-9ea3-71c1f710ca71
+:END:
+#+title: Chick Ek
+#+filetags: :System:
+Chick Ek is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:47ccfd5c-1cce-43f0-a3ce-0d454c997dc0][0305 Chick Ek Visitor Beacon]]

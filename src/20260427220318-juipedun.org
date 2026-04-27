@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       238b0c9c-763f-4a4b-b66b-69f4f783bc3b
+:END:
+#+title: Juipedun
+#+filetags: :System:
+Juipedun is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:e4efa713-015b-4d47-a206-39d11b819b4e][0383 Juipedun Visitor Beacon]]
+- [[id:7e464e2a-dd8c-4361-8b05-bf100cb41f93][0590 Juipedun A 1 Rock Fumarole]]

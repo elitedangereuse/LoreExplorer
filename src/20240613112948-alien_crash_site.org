@@ -2,7 +2,7 @@
 :ID:       290ad3a5-bb4c-4d5a-b5c1-d279e691b2d5
 :END:
 #+title: Alien Crash Site
-#+filetags: :beacon:
+#+filetags: :Tourist:History:beacon:
 * 0632 Alien Crash Site?
 [[id:c32901ed-73d1-4ca6-aeb8-5bcd795d1036][Pleiades Sector AB-W B2-4]]
 

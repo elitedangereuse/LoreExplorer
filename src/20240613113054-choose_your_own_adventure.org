@@ -2,7 +2,7 @@
 :ID:       64e4a986-ebef-44fc-9b7f-1f7a0a3c0088
 :END:
 #+title: Choose Your Own Adventure
-#+filetags: :beacon:
+#+filetags: :Tourist:History:beacon:
 * ER10. Choose Your Own Adventure
 [[id:29ca1ae7-df37-4bc2-aa8a-43ba902443b1][Plaa Scraa EA-A E114]]
 

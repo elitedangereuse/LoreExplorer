@@ -2,7 +2,7 @@
 :ID:       f2995546-10f2-49d6-8ece-94b6d0f2ef27
 :END:
 #+title: Wild-life Parks
-#+filetags: :beacon:
+#+filetags: :Tourist:History:beacon:
 * 0704 Wild-life Parks.
 [[id:9cf1f79e-2474-4252-a9fd-c4420e942dc7][LP 339-7]]
 

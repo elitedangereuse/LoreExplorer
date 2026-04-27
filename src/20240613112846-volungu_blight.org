@@ -2,7 +2,7 @@
 :ID:       b64b1732-c527-4d47-86a4-e8cded3d494c
 :END:
 #+title: Volungu Blight
-#+filetags: :3301:beacon:
+#+filetags: :Tourist:History:beacon:3301:
 * 0158 Volungu [[id:1cffca4e-480b-46bf-b6c5-0af48c7292d3][Blight]]
 [[id:d31d3dd1-f63a-4ff2-9fa5-5031c4b7bf6c][Furbaide]]
 

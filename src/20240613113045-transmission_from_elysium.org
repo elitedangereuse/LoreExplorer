@@ -2,7 +2,7 @@
 :ID:       9f328483-2e64-49ed-94a4-a83fecc1bae1
 :END:
 #+title: Transmission from Elysium
-#+filetags: :beacon:
+#+filetags: :Tourist:History:beacon:
 * 0714 Transmission from Elysium
 [[id:a2571c8b-2420-4f0a-bc37-8644dad6b7cc][ES Cancri]]
 

@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       f21c69b0-fc77-43fa-b3d3-55c5da8daf22
+:END:
+#+title: Popontia
+#+filetags: :System:
+Popontia is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:f48d51b9-52e5-414c-8a8d-8b5255d80b51][0453 Popontia Visitor Beacon]]

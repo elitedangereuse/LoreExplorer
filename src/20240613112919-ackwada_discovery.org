@@ -2,7 +2,7 @@
 :ID:       7075359f-79ca-4a24-88da-64f22e6b024a
 :END:
 #+title: Ackwada Discovery
-#+filetags: :beacon:
+#+filetags: :Tourist:History:beacon:
 * 0216 [[id:77a7a843-4242-4da8-a764-c1525e6ceefe][Ackwada]] Discovery
 [[id:77a7a843-4242-4da8-a764-c1525e6ceefe][Ackwada]]
 

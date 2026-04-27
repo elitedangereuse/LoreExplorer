@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       0119eaa6-896e-4424-a8fa-b77cb7d8377c
+:END:
+#+title: Flech
+#+filetags: :System:
+Flech is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:1b2b9e15-eddb-470c-bc1e-4c3438b26557][0318 Flech Visitor Beacon]]

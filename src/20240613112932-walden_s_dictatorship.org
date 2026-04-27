@@ -2,9 +2,9 @@
 :ID:       89e5ea31-66e7-42f6-8585-eabc807f71b7
 :END:
 #+title: Walden's Dictatorship
-#+filetags: :beacon:
+#+filetags: :Tourist:History:beacon:
 * 0237 Walden's Dictatorship
-[[id:a7182f72-26f2-4418-aff5-cd5edb77f290][Lave]]
+[[id:ff595332-6a13-4f69-ae2f-cc0a0df8e741][Lave]]
 
 [[id:0b41fd3c-7d4e-4f61-b375-c96b99990d01][Walden]]'s dictatorship in post-[[id:c71d963e-1933-4701-bb5a-d2a4332125c5][GalCop]] decades was a study in the use of
 propaganda to further the illusion of contentment. The public face of

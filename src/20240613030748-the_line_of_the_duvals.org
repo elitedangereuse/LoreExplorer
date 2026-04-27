@@ -2,10 +2,12 @@
 :ID:       98b44118-c603-4868-ad86-a65c188f589d
 :END:
 #+title: The Line of the Duvals
-#+filetags: :3301:beacon:
+#+filetags: :Tourist:History:beacon:3301:
 [[id:bed8c27f-3cbe-49ad-b86f-7d87eacf804a][Achenar]]
 
 * 0159	The Line of the Duvals
+[[id:bed8c27f-3cbe-49ad-b86f-7d87eacf804a][Achenar]]
+
 - [[id:7be9a849-7a8d-40f9-837d-b1ab30538bb0][Marlin Duval]]
 - [[id:a8a8c926-5bfc-4411-928b-7f88d2209e41][Henson Duval]] (2320 - 2402)
 - [[id:34ef1c80-61dc-4b99-9968-5762769111c7][Saik Duval]] (2402 - 2483)

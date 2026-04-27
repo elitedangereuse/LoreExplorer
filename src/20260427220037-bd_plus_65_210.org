@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       70e804a8-0da5-4171-a610-d92620a9bf37
+:END:
+#+title: BD+65 210
+#+filetags: :System:
+BD+65 210 is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:ea09cae0-0714-4a9c-8cc2-20581e64d548][0284 BD+65 210 Visitor Beacon]]
+- [[id:63b329d2-4a78-4532-9606-5d77364beee6][0543 BD+65 210 7 A Ice Geysers]]
+- [[id:8fb7ec28-4d1f-4d7e-9d6c-c89143d32ced][0557 BD+65 210 7 B Ice Geysers]]

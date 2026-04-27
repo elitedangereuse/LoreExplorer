@@ -2,7 +2,7 @@
 :ID:       a2aa175f-96be-4d7a-bde7-a3df9a207821
 :END:
 #+title: Sirius Colonisation
-#+filetags: :beacon:
+#+filetags: :Tourist:History:beacon:
 * 0202 [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Colonisation
 [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]]
 

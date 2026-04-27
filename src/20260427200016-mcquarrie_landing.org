@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       3fb773e2-eb26-497b-bad7-4e4774def2b2
+:END:
+#+title: McQuarrie Landing
+#+filetags: :Station:
+
+[[id:83c5b09c-39e6-43b2-bd44-6d088c28ccff][Lambda-2 Tucanae]]
+
+McQuarrie Landing is an Orbis starport built by
+[[id:a65fc0a0-6116-4c04-bb30-063687a20b2c][Kavanagh Spaceframes Ltd]] during the
+3306 fleet-carrier support initiative.
+

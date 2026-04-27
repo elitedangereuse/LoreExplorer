@@ -2,7 +2,7 @@
 :ID:       3dd2f3c7-3ddf-4900-aa28-580344edd509
 :END:
 #+title: Sirius Navy
-#+filetags: :Empire:beacon:
+#+filetags: :Tourist:History:beacon:Empire:
 * 0209 [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Navy
 [[id:adae5111-c7fe-41dc-8f73-1a8720fa1705][Te Kaha]]
 

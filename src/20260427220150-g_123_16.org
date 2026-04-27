@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       67458ff5-c3f7-4b51-b39f-ac55a4efe9db
+:END:
+#+title: G 123-16
+#+filetags: :System:
+G 123-16 is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:efd609a6-636d-4178-adc1-66207b24d63b][0320 G 123-16 Visitor Beacon]]
+- [[id:3c39025f-30bc-43ec-a148-ace04692bd79][0551 G 123-16 7 B Ice Geyser]]
+- [[id:79f95136-9f75-45e7-8991-09ad4c2a3c98][0559 G 123-16 7 C Ice Geyser]]

@@ -2,7 +2,7 @@
 :ID:       b8d7db29-669b-424b-ab66-ffc4fec93e3f
 :END:
 #+title: Kahina Loren Found Guilty
-#+filetags: :beacon:
+#+filetags: :Tourist:History:beacon:
 * 0672 Kahina Loren Found Guilty
 [[id:8da12af2-6006-4e7e-a45e-7bf8b2c299c8][Prism]]
 

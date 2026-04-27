@@ -2,7 +2,7 @@
 :ID:       c85d1251-b6f2-460f-9a24-b1aba6b14097
 :END:
 #+title: Sirius Atmospherics
-#+filetags: :beacon:
+#+filetags: :Tourist:History:beacon:
 * 0208 [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Atmospherics
 [[id:aa43803c-e60c-45bf-ab48-49a139931c68][Sothis]]
 

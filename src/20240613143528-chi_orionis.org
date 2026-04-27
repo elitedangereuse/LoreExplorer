@@ -2,4 +2,5 @@
 :ID:       2a4e7539-b87c-4ce9-8012-b2690fa3b618
 :END:
 #+title: Chi Orionis
+#+filetags: :System:
 

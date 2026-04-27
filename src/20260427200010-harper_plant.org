@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       c05d5cb6-f9a4-4c4e-8513-36737b5ad638
+:END:
+#+title: Harper Plant
+#+filetags: :Station:
+
+[[id:9a7a830a-ad70-42ee-a17d-018d139a3ace][Fjorgyn]]
+
+Harper Plant is an Orbis starport built by
+[[id:a65fc0a0-6116-4c04-bb30-063687a20b2c][Kavanagh Spaceframes Ltd]] during the
+3306 fleet-carrier support initiative.
+

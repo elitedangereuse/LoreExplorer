@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       d5f60355-f22b-4680-bab9-ee0e613a2a3a
+:END:
+#+title: CL Phoenicis
+#+filetags: :System:
+CL Phoenicis is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:a9a84398-81eb-4184-9b10-330aeac21d56][0307 CL Phoenicis Visitor Beacon]]

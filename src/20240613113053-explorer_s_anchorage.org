@@ -2,7 +2,7 @@
 :ID:       1c6bdbbd-527a-4533-abac-81eade19c059
 :END:
 #+title: Explorer's Anchorage
-#+filetags: :beacon:
+#+filetags: :Tourist:History:beacon:
 * ER08. Explorer's Anchorage
 [[id:35fe6a51-9492-44a7-9dc5-4a5395ae732f][Stuemeae FG-Y d7561]]
 

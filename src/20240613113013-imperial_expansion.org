@@ -2,7 +2,7 @@
 :ID:       f3c06ad9-026c-433d-98e7-d3db15b49944
 :END:
 #+title: Imperial Expansion
-#+filetags: :Empire:beacon:
+#+filetags: :Tourist:History:beacon:Empire:
 * 0677 Imperial Expansion
 [[id:c32901ed-73d1-4ca6-aeb8-5bcd795d1036][Pleiades Sector AB-W B2-4]]
 

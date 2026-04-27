@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       fef1600d-ee69-462d-b13b-2372f70a31d6
+:END:
+#+title: HIP 35755 6 C Ice Fumarole
+#+filetags: :Tourist:beacon:
+* 0577 HIP 35755 6 C Ice Fumarole
+[[id:2a6de961-5c58-4e94-85a6-180eaabeb180][HIP 35755]]
+
+Icy worlds can have geologies similar to rocky planets, but with different materials like water.

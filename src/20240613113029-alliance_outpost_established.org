@@ -2,7 +2,7 @@
 :ID:       f5090e02-1a45-4b83-97b9-9a6b3cddde50
 :END:
 #+title: Alliance Outpost Established
-#+filetags: :Alliance:beacon:
+#+filetags: :Tourist:History:beacon:Alliance:
 * 0695 Alliance Outpost Established
 [[id:7cb40dd8-9f5b-4b57-829d-91d53c96091f][HIP 19072]]
 

@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       52da4826-1be5-4ee5-8e98-f6be683d7ca7
+:END:
+#+title: Zvoruna
+#+filetags: :System:
+Zvoruna is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:949f860a-46a3-4b33-823b-2c7cd7cb1c89][0499 Zvoruna Visitor Beacon]]

@@ -2,7 +2,7 @@
 :ID:       9a516874-af27-47d4-97ce-6b7f13e5cbe4
 :END:
 #+title: A Vote for Lewis Chapman
-#+filetags: :beacon:
+#+filetags: :Tourist:History:beacon:
 * 0702 A Vote for [[id:246ac86d-4a96-4fdc-907d-d8a84b142e70][Lewis Chapman]]...
 [[id:9cf1f79e-2474-4252-a9fd-c4420e942dc7][LP 339-7]]
 

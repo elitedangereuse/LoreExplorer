@@ -2,9 +2,9 @@
 :ID:       582d43b7-847e-4db0-829c-6be2540e6fae
 :END:
 #+title: Chaos in Riedquat
-#+filetags: :beacon:
+#+filetags: :Tourist:History:beacon:
 * 0241 Chaos in Riedquat
-[[id:582d43b7-847e-4db0-829c-6be2540e6fae][Riedquat]]
+[[id:633a799b-8c05-4136-8f94-cf169eab515f][Riedquat]]
 
 By 2679 the situation on Riedquat was dire - the whole world seemed to
 be in conflict and the continental governments stood on the brink of

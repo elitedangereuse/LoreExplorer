@@ -2,7 +2,7 @@
 :ID:       49a55e45-60ed-45f1-bf97-de992e80e1eb
 :END:
 #+title: Early Colonies
-#+filetags: :beacon:
+#+filetags: :Tourist:History:beacon:
 * 0168 Early Colonies
 [[id:595aa273-d1b3-44fd-9f16-ddc7291b4bee][Delta Pavonis]]
 

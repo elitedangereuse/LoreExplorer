@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       3fd2a5d5-75a8-490f-8977-91b819497410
+:ROAM_ALIASES: "Artemis"
+:END:
+#+title: Artemis System
+#+filetags: :System:
+Artemis is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:69ce0cfc-7940-4e60-836e-b214254b7dcb][0507 Freeholm Victory]]

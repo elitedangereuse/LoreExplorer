@@ -2,7 +2,7 @@
 :ID:       d31d51b5-ddcd-4c4d-b336-7a310cae9bc4
 :END:
 #+title: Whitson's About Face
-#+filetags: :beacon:
+#+filetags: :Tourist:History:beacon:
 * 0701 Whitson's About Face
 [[id:9cf1f79e-2474-4252-a9fd-c4420e942dc7][LP 339-7]]
 

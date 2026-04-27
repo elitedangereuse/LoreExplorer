@@ -2,9 +2,9 @@
 :ID:       754e27dd-0734-4061-96e7-a94b9ff3665e
 :END:
 #+title: Leesti's History
-#+filetags: :beacon:
+#+filetags: :Tourist:History:beacon:
 * 0242 Leesti's History
-[[id:3ae64a20-72fe-44ac-9509-3c742c17d822][Leesti]]
+[[id:e7c94b38-cdfb-48da-a1c4-cdad10c3371a][Leesti]]
 
 The first colony fleet arrived in 2413, setting up mining facilities,
 processing plants and domes to protect the workers. As time passend

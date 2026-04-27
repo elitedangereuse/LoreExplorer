@@ -2,4 +2,5 @@
 :ID:       a17c479c-5ee8-42c1-8fee-22cbf1407db9
 :END:
 #+title: Epsilon Eridani
+#+filetags: :System:
 

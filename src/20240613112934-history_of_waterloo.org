@@ -2,9 +2,9 @@
 :ID:       7b8b116d-6dd5-4e45-892d-0b8195d6e514
 :END:
 #+title: History of Waterloo
-#+filetags: :2631:3190:beacon:
+#+filetags: :Tourist:History:beacon:2631:3190:
 * 0240 History of Waterloo
-[[id:582d43b7-847e-4db0-829c-6be2540e6fae][Riedquat]]
+[[id:633a799b-8c05-4136-8f94-cf169eab515f][Riedquat]]
 
 The planet [[id:dbceb79d-cf1b-4805-8a53-5add28c1b731][Waterloo]] (simpley called Riedquat until about 3190) started
 life as a promising colony world when it was first colonised

@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       fb1e0f91-1bca-4e93-a9c5-1249b637a011
+:END:
+#+title: HIP 33287
+#+filetags: :System:
+HIP 33287 is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:68993767-41bc-4390-8551-06ed8a5fdd42][0353 HIP 33287 Visitor Beacon]]

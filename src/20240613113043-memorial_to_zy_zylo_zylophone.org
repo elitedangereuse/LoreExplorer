@@ -2,9 +2,9 @@
 :ID:       274063f3-792c-495e-ac3b-624806082cd7
 :END:
 #+title: Memorial to Zy, Zylo, Zylophone
-#+filetags: :beacon:
+#+filetags: :Tourist:History:beacon:
 * 0712 Memorial to Zy, Zylo, Zylophone
-[[id:80ea667a-62b4-4082-bed0-ce253d76869b][Beagle Point]]
+[[id:da49a702-3bb4-4dd7-9adf-29188adb2801][Beagle Point]]
 
 Zy the Beagle was the epitome of the phrase "Man's Best
 Friend". Endlessly loyal and loving. Zy made sure his Commander was

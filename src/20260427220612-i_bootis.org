@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       9c168248-43e4-4d5e-9cf6-db3a5248fa5d
+:END:
+#+title: i Bootis
+#+filetags: :System:
+i Bootis is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:da20ba34-0551-4a1c-8309-4f1fb3e0b2b0][0705 The Rosy Dwarf]]

@@ -2,7 +2,7 @@
 :ID:       01ace50c-cd16-44e3-96c5-c2f1c366a264
 :END:
 #+title: Goliath's Rest
-#+filetags: :beacon:
+#+filetags: :Tourist:History:beacon:
 * ER07. Goliath's Rest
 [[id:712ea21c-1332-4c61-83d3-0000afdba5ac][Swoals IL-Y E0]]
 

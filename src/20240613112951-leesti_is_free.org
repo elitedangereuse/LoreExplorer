@@ -2,9 +2,9 @@
 :ID:       3ae64a20-72fe-44ac-9509-3c742c17d822
 :END:
 #+title: Leesti is Free
-#+filetags: :beacon:
+#+filetags: :Tourist:History:beacon:
 * 0649 Leesti is Free
-[[id:3ae64a20-72fe-44ac-9509-3c742c17d822][Leesti]]  
+[[id:e7c94b38-cdfb-48da-a1c4-cdad10c3371a][Leesti]]
 
 Commander Schlack reports that on 6th September 3302, AEDC returned
 this system to the control of Independent Leesti for Equality from a

@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       dd41c94e-a4e8-4761-94e7-46f16360676e
+:END:
+#+title: Wabayo
+#+filetags: :System:
+Wabayo is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:6193ff94-8938-4973-a281-9deaf95bcdb1][0490 Wabayo Visitor Beacon]]

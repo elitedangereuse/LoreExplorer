@@ -2,9 +2,9 @@
 :ID:       0da8edee-c8ff-4aed-9ff9-ce8ae998bef3
 :END:
 #+title: Reorte Reclaimed
-#+filetags: :3301:Alliance:beacon:
+#+filetags: :Tourist:History:beacon:3301:Alliance:
 * 0122 [[id:5292d8c1-fa6e-4352-a03f-ef984f706203][Reorte]] Reclaimed
-[[id:0da8edee-c8ff-4aed-9ff9-ce8ae998bef3][Reorte]]
+[[id:5292d8c1-fa6e-4352-a03f-ef984f706203][Reorte]]
 
 After three weeks of fighting in the [[id:ff595332-6a13-4f69-ae2f-cc0a0df8e741][Lave]] Cluster, the Alliance Elite
 Diplomatic Corps (AEDC) managed to reclaim [[id:5292d8c1-fa6e-4352-a03f-ef984f706203][Reorte]] from a pirate

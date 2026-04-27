@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       5f14e350-ac80-4699-b3d1-2ef85442fcda
+:END:
+#+title: Gliese 3299
+#+filetags: :System:
+Gliese 3299 is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:ba114c0a-7598-4b14-983d-58e552988863][0329 Gliese 3299 Visitor Beacon]]
+- [[id:5664bf9b-82c7-483a-b6c2-68191ad73910][0558 Gliese 3299 c 3 B Ice Geyser]]

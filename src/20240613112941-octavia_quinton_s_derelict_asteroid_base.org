@@ -2,7 +2,7 @@
 :ID:       97c20d41-4d98-4847-8635-837ef99cad27
 :END:
 #+title: Octavia Quinton's Derelict Asteroid Base
-#+filetags: :3300:beacon:
+#+filetags: :Tourist:History:beacon:3300:
 * 0500 [[id:4cd2cbf1-0257-4c0f-b5eb-46e96661b509][Octavia Quinton]]'s Derelict Asteroid Base
 [[id:377aeee7-ee8d-46b8-a9c6-c81b1b76c8af][Suijin]]
 

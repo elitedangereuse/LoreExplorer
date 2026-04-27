@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       fd81df36-281d-435e-a6b5-9dc544ae1b12
+:END:
+#+title: Hoji
+#+filetags: :System:
+Hoji is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:1978deb6-24d8-4d40-b398-bb5a9f015c74][0368 Hoji Visitor Beacon]]

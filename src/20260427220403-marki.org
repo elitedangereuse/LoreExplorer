@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       6c8f0af8-6526-4a9a-8a3d-63a1ebff9eb0
+:END:
+#+title: Marki
+#+filetags: :System:
+Marki is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:a9857122-90b4-439c-bede-fadb9e8d0bd7][0422 Marki Visitor Beacon]]
+- [[id:e204e827-ef98-49c3-b668-2ed25301bd79][0604 Marki 8 A Ice Geysers]]

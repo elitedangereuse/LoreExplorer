@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       1047d7bb-a08d-430d-a445-4ec9a1b2daa3
+:END:
+#+title: The Empire
+#+filetags: :Tourist:beacon:
+* 0005 The Empire
+[[id:bed8c27f-3cbe-49ad-b86f-7d87eacf804a][Achenar]]
+
+[[id:bed8c27f-3cbe-49ad-b86f-7d87eacf804a][Achenar]] is the home system for the Empire, one of the interstellar superpowers. Its administrative capital is on Capitol, and is ruled by the current Emperor, [[id:34f3cfdd-0536-40a9-8732-13bf3a5e4a70][Arissa Lavigny-Duval]].

@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       cdf2c3d9-5299-4976-8403-eb4ed1f0455c
+:END:
+#+title: HIP 63835
+#+filetags: :System:
+HIP 63835 is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:4659c021-562c-4f77-8465-41885dd2a900][0043 Black Hole Trio]]

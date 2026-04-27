@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       7175fe10-f24b-4c20-ae3f-3422a3951e7a
+:END:
+#+title: Gliese 3258
+#+filetags: :System:
+Gliese 3258 is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:c1f883c4-7f21-4669-abf8-4fb22fb829f7][0328 Gliese 3258 Visitor Beacon]]
+- [[id:25e6bb80-caa1-400a-8bdd-a6ed3d41434c][0552 Gliese 3258 B 5 A Ice Geyser]]

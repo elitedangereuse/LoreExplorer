@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       a6ffa5f0-a670-497b-bfe9-0c9ca50ed12d
+:END:
+#+title: Wulgaedia
+#+filetags: :System:
+Wulgaedia is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:fbbaace3-6958-43ed-b02e-38e216e6cb4a][0494 Wulgaedia Visitor Beacon]]

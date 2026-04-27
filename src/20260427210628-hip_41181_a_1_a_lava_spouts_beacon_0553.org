@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       331ffbb0-3d09-4488-a370-1490d342504f
+:END:
+#+title: HIP 41181 A 1 A Lava Spouts
+#+filetags: :Tourist:beacon:
+* 0553 HIP 41181 A 1 A Lava Spouts
+[[id:cd7894ad-5bc7-4c15-b7c8-67120da11394][HIP 41181]]
+
+Lava spouts are weakened areas of surface where molten material percolates in the same region, generating warmth and emitting vapour and gases.

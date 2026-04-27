@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       1a4a7230-661d-476d-80b5-63b83ab4eb66
+:END:
+#+title: HIP 38064
+#+filetags: :System:
+HIP 38064 is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:6aefd18c-a4cc-406d-a6e7-f4d81ba595fd][0042 Binary Planet Rings]]

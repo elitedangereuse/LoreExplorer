@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       9d7b13cf-b84c-480e-81a3-c6a0f9ee9792
+:END:
+#+title: LP 102-320
+#+filetags: :System:
+LP 102-320 is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:27a46e16-2218-4b0f-a91b-9bea1d63cd37][0409 LP 102-320 Visitor Beacon]]
+- [[id:2e77ba0b-f836-4350-9d24-1629f824f60a][0613 LP 102-320 1 Rock Fumarole]]

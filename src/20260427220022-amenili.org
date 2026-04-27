@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       19561fbb-7ca2-42e3-9f6d-beef53ca0507
+:END:
+#+title: Amenili
+#+filetags: :System:
+Amenili is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:d4803403-8ec5-4a9a-bbce-86ecfafebb08][0272 Amenili Visitor Beacon]]

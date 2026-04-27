@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       d4ecdca3-a3d5-4b1c-9fde-273ffe9a88cd
+:END:
+#+title: HIP 111755 Visitor Beacon
+#+filetags: :Tourist:Visitor:beacon:
+* 0343 HIP 111755 Visitor Beacon
+[[id:2d3de2cc-8b02-4cb6-9b01-5e44bab46b2f][HIP 111755]]
+
+This icy moon is the traditional sight for lovers to propose within sight of the gas giant's glorious ring system. This tradition is still popular today.

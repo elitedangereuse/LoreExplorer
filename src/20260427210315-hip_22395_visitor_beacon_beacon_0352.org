@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       cce9a7cc-3feb-470f-9c6f-2bda1c5093a2
+:END:
+#+title: HIP 22395 Visitor Beacon
+#+filetags: :Tourist:Visitor:beacon:
+* 0352 HIP 22395 Visitor Beacon
+[[id:cc6ec891-3136-41c7-9876-da787c832a79][HIP 22395]]
+
+The multiple life supporting planets in this system make this an ideal holiday destination.

@@ -2,9 +2,9 @@
 :ID:       4afbc977-8ef8-4041-addf-27b2d3872223
 :END:
 #+title: Olgrea History
-#+filetags: :Federation:Alliance:beacon:
+#+filetags: :Tourist:History:beacon:Alliance:Federation:
 * 0127  Olgrea History
-[[id:4afbc977-8ef8-4041-addf-27b2d3872223][Olgrea]]
+[[id:f527d32f-003e-4cc0-bf63-2f22aecd0d4d][Olgrea]]
 
 [[id:c46f5348-be85-4d06-bf04-12a9b812d0ad][Mic Turner]], the intergalactic Explorer, ship designer and founder of the Alliance, led the Federation expenditionary team tha brought colonists to Olgrea in 3224.
 

@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       6af06d8a-e473-49a6-b411-c8172b125a7b
+:END:
+#+title: HR 8472
+#+filetags: :System:
+HR 8472 is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:4d3808aa-194b-460a-8f1f-e307c408c221][0374 HR 8472 Visitor Beacon]]

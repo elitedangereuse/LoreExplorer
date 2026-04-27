@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       98542d88-269b-48c3-95f2-7f7f9835f12e
+:END:
+#+title: Hartsfield Plant
+#+filetags: :Station:
+
+[[id:bfe14a03-95e2-435b-b53f-f50e326f79ff][Potriti]]
+
+Hartsfield Plant is an Orbis starport built by
+[[id:a65fc0a0-6116-4c04-bb30-063687a20b2c][Kavanagh Spaceframes Ltd]] during the
+3306 fleet-carrier support initiative.
+

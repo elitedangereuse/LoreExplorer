@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       82a0f345-bc03-4564-897c-b00bcda5b74e
+:END:
+#+title: Kumo City
+#+filetags: :Station:
+
+[[id:93f55330-0ae5-42d5-bee2-368453bcd9e1][Pegasi Sector PN-T c3-14]]
+
+Kumo City is an Orbis starport operated by the
+[[id:2dc1b92f-4bdc-4504-ad5f-a9c5794155dc][Kumo Council]] for the
+[[id:1dfc7c53-642a-4404-a8e8-16a8cc18482a][Kumo Crew]] syndicate.
+

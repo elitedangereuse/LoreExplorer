@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       8ac3fdcb-c77b-4460-b4b8-004d8ff5ab1a
+:END:
+#+title: HIP 11693
+#+filetags: :System:
+HIP 11693 is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:58020c3c-6fd5-43cc-bfac-47029d4c09f7][0347 HIP 11693 Visitor Beacon]]

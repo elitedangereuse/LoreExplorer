@@ -3,9 +3,9 @@
 :ROAM_ALIASES: "Ceeckia ZQ-L c24-0"
 :END:
 #+title: [[id:80ea667a-62b4-4082-bed0-ce253d76869b][Beagle Point]]
-#+filetags: :beacon:
+#+filetags: :Tourist:History:beacon:
 * ER09. Beagle Point
-Beagle Point
+[[id:da49a702-3bb4-4dd7-9adf-29188adb2801][Beagle Point]]
 
 [[id:f176c68d-cc7a-4db2-8305-81f6771c7e9f][Distant Worlds II]] was an ambitious five-month expedition to the far
 outer rim. It launched from the [[id:4ccdf1db-68db-4935-8cac-b6d23e01d78d][Pallaeni]] system in January of 3305 and

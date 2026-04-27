@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       cf53ffe5-073c-494f-8de0-ea2bd09dd140
+:END:
+#+title: Sesuyar
+#+filetags: :System:
+Sesuyar is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:0939d884-09ba-438b-8d9b-ba0837e3af53][0462 Sesuyar Visitor Beacon]]

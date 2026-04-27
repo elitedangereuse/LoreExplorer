@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       ae8d5e7b-2b0a-481c-9f07-a28b962a3049
+:END:
+#+title: HIP 42455
+#+filetags: :System:
+HIP 42455 is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:9ed0bd8e-07d1-4753-a5c3-dcd331bf047b][0358 HIP 42455 Visitor Beacon]]
+- [[id:91630330-3add-4766-9aec-f66444b6a554][0582 HIP 42455 B 2 A Ice Geyser]]

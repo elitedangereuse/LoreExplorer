@@ -2,9 +2,9 @@
 :ID:       e76dadf3-6527-4067-ac08-f75441af892e
 :END:
 #+title: Ancient History
-#+filetags: :Federation:beacon:
+#+filetags: :Tourist:History:beacon:Federation:
 * 0165 Ancient History
-[[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]]  
+[[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]]
 
 Mankind's first ventures into space were tentative and gradual. The
 early part of the 21st century saw the first manned spaceflights

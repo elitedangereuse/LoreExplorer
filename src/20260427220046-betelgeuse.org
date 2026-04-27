@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       9913c99f-46cf-4616-909b-8352e635f443
+:END:
+#+title: Betelgeuse
+#+filetags: :System:
+Betelgeuse is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:36488f73-3f8e-4dfa-ad4b-90cb37a5d71c][0011 A Giant Star View]]
+- [[id:e9acb88b-5be5-47b6-bb66-ff80b1381e89][0012 Lava World]]

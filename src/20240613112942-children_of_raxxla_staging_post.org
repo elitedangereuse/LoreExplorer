@@ -2,7 +2,7 @@
 :ID:       27bb5b55-ee10-4f7d-8196-fefbc0c0bbb6
 :END:
 #+title: Children of Raxxla Staging Post
-#+filetags: :beacon:
+#+filetags: :Tourist:History:beacon:
 * 0501 Children of Raxxla Staging Post
 [[id:d7080f85-2d4f-43e7-8a23-c8b086f59a63][Eafots BP-I D9-35]]
 

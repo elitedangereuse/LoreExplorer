@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       38937025-8378-424f-980e-67f1cf93aa69
+:END:
+#+title: HIP 95944
+#+filetags: :System:
+HIP 95944 is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:347127c7-09d3-4bcd-88cf-fe97a69651f6][0046 Crazy Skies]]

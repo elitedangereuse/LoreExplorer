@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       404417f5-057c-41a6-93d2-cfd1b67a98a7
+:END:
+#+title: HIP 10123 Visitor Beacon
+#+filetags: :Tourist:Visitor:beacon:
+* 0341 HIP 10123 Visitor Beacon
+[[id:2a98813b-a919-41ed-b3c8-88b0e26e6cef][HIP 10123]]
+
+The outdoor and water worlds in this system are a popular destination for space tourists - all eager to see life on a different world.

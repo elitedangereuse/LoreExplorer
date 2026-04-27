@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       2e44765c-c9a2-40f2-8d11-31b80a5144eb
+:END:
+#+title: Assinda
+#+filetags: :System:
+Assinda is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:ffae09c7-fe2e-42dc-91bb-5d9c1db54008][0278 Assinda Visitor Beacon]]

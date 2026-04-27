@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       967d16ad-1456-4aa6-a0a5-e3104faeddf8
+:END:
+#+title: Vamm
+#+filetags: :System:
+Vamm is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:7ab583e3-11bf-4e69-9a76-34f9b5e29f96][0483 Vamm Visitor Beacon]]
+- [[id:3061f561-d5f8-4b4a-bfbb-ae5a606c8d9c][0591 Vamm B 2 A Ice Geysers]]
+- [[id:75d2f4cf-da87-40ee-ade4-61942195b5a4][0594 Vamm B 3 A Ice Geysers]]

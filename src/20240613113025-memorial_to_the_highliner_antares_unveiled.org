@@ -2,7 +2,7 @@
 :ID:       6e4a44d3-0feb-4b88-bc0f-aca6c40d61f6
 :END:
 #+title: Memorial to the Highliner Antares Unveiled
-#+filetags: :beacon:
+#+filetags: :Tourist:History:beacon:
 * 0691 Memorial to the Highliner Antares Unveiled
 [[id:56a590bf-081a-4483-b38f-0c6e3b30cd75][Luyten 205-128]]
 

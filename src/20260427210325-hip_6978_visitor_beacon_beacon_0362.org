@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       ca5a52f7-55b2-41c9-860f-ee4e4b4746df
+:END:
+#+title: HIP 6978 Visitor Beacon
+#+filetags: :Tourist:Visitor:beacon:
+* 0362 HIP 6978 Visitor Beacon
+[[id:c130b1f6-362a-4b93-bdd8-8ddcf817d5d2][HIP 6978]]
+
+The warm seas of this outdoor world make an ideal holiday destination.

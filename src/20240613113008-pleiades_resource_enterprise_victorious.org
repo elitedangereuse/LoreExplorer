@@ -2,9 +2,9 @@
 :ID:       2562c426-7127-470e-b7a1-47d65d1ff926
 :END:
 #+title: Pleiades Resource Enterprise Victorious
-#+filetags: :Federation:beacon:
+#+filetags: :Tourist:History:beacon:Federation:
 * 0671 Pleiades Resource Enterprise Victorious
-[[id:af205c6d-cb6f-4d7b-bcdd-42dc2999c376][Maia]]  
+[[id:0ee60994-364c-41b9-98ca-993d041cea72][Maia]]
 
 On November 1st 3302 reports from [[id:0ee60994-364c-41b9-98ca-993d041cea72][Maia]] indicated that the [[id:268dd81e-54f9-447a-9a47-11b2f7242e81][Pleiades
 Resource Enterprise]] successfully overcame resistance from the [[id:c8cf3da4-154e-49a2-98ff-039aaab3b1dd][Ant Hill

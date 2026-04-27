@@ -2,9 +2,9 @@
 :ID:       69ce0cfc-7940-4e60-836e-b214254b7dcb
 :END:
 #+title: Freeholm Victory
-#+filetags: :3301:beacon:
+#+filetags: :Tourist:History:beacon:3301:
 * 0507 Freeholm Victory
-[[id:3b7fe78a-88b1-421f-b452-019efb075bc4][Artemis]]
+[[id:3fd2a5d5-75a8-490f-8977-91b819497410][Artemis]]
 
 In 3301 [[id:36d04c66-e669-49c9-a153-7ece09d17fca][Freeholm]] successfully defeated an invasion from the planet
 [[id:1edb67d5-a1ab-44a7-a9ac-20a3f3751507][Laphria]]'s forces.

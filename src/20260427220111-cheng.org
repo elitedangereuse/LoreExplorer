@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a99eff99-c35b-45ea-8991-cb050959a296
+:END:
+#+title: Ch'eng
+#+filetags: :System:
+Ch'eng is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:83275f9d-b0a5-4764-978b-94f577fdcf82][0303 Ch'eng Visitor Beacon]]
+- [[id:38adf602-0563-44df-aa73-70843ed5bb23][0563 Ch'eng 6 C Ice Geyser]]
+- [[id:ab7d4dfc-20d3-490a-8a1c-a0049bc128cf][0567 Ch'eng 6 B Ice Geyser]]

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       0a09a3af-3f40-48cb-8254-1248a8b42060
+:END:
+#+title: LTT 4599
+#+filetags: :System:
+LTT 4599 is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:4036e29c-1f5d-4342-a854-1798a89cf1f8][0417 LTT 4599 Visitor Beacon]]
+- [[id:8ddb9b9c-7468-41ba-ab03-73b32b34cc2f][0603 LTT 4599 6 A Ice Geysers]]

@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       48a0aa45-abf7-4729-8553-378127aab37c
+:END:
+#+title: HIP 14619 Visitor Beacon
+#+filetags: :Tourist:Visitor:beacon:
+* 0349 HIP 14619 Visitor Beacon
+[[id:ad51dc0e-b263-4032-898b-86d8ae2247bc][HIP 14619]]
+
+The high proportion of life bearing worlds, and those capable of supporting life, makes this a popular place to visit.

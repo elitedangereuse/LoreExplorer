@@ -2,7 +2,7 @@
 :ID:       7ba0c9b8-221e-4dbd-81a7-afcdd38e956c
 :END:
 #+title: New Agreements
-#+filetags: :beacon:
+#+filetags: :Tourist:History:beacon:
 * 0172 New Agreements
 [[id:144149ef-21cd-4e52-afea-dcf379d12d18][Altair]]
 

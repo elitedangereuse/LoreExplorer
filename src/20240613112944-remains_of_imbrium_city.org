@@ -2,7 +2,7 @@
 :ID:       7507bf06-ed95-4f15-9914-3a6ff09a2531
 :END:
 #+title: Remains of Imbrium City
-#+filetags: :beacon:
+#+filetags: :Tourist:History:beacon:
 * 0504 Remains of Imbrium City
 [[id:3b569fde-725c-48b6-bdad-ea4f90300a68][Brohman]]
 

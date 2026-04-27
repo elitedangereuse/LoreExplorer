@@ -2,9 +2,9 @@
 :ID:       66127aeb-8fbf-4c1c-b0a7-5f4c7425a5db
 :END:
 #+title: The Bank of Zaonce
-#+filetags: :Federation:2718:2693:2682:beacon:
+#+filetags: :Tourist:History:beacon:2682:2693:2718:Federation:
 * 0243 The [[id:e9439fe0-8637-4330-b5fd-b4f1643cf472][Bank of Zaonce]]
-[[id:66127aeb-8fbf-4c1c-b0a7-5f4c7425a5db][Zaonce]]  
+[[id:4c65480c-a87b-421b-a91a-f1f1f8ecb737][Zaonce]]
 
 Early in Zaonce's colonial history, in 2682, a former Federation
 banking executive named [[id:9a2d42df-cc68-47fa-bdf0-5a71d3801d12][Herschel Derrey]] moved to the colony and set up

@@ -2,7 +2,7 @@
 :ID:       bafaacd8-6558-4d60-b8a0-de39c0e28a12
 :END:
 #+title: Experimental Habitat 002
-#+filetags: :beacon:
+#+filetags: :Tourist:History:beacon:
 * EX02. Experimental Habitat 002
 [[id:0edd84a5-4340-40f4-90ed-2350c28ab2a9][Eol Prou LW-L c8-99]]
 

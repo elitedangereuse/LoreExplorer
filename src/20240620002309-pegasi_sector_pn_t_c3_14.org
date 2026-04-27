@@ -4,3 +4,8 @@
 #+title: Pegasi Sector PN-T c3-14
 #+filetags: :System:
 
+[[id:82a0f345-bc03-4564-897c-b00bcda5b74e][Kumo City]]
+
+Pegasi Sector PN-T c3-14 is the system containing
+[[id:82a0f345-bc03-4564-897c-b00bcda5b74e][Kumo City]], a Kumo Crew-controlled
+starport.

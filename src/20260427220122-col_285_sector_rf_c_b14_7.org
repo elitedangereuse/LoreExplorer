@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       756e8d26-c4ef-41d9-8ac0-16a0368d2bb9
+:END:
+#+title: Col 285 Sector RF-C B14-7
+#+filetags: :System:
+Col 285 Sector RF-C B14-7 is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:d2c1f3ba-d8a3-4e63-b562-0aabede2fedd][0021 Hot Jupiter]]

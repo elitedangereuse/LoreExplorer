@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       d563ebb9-e2b3-4578-a4d6-7aaa9ca87c0b
+:END:
+#+title: Reilly Plant
+#+filetags: :Station:
+
+[[id:2c5e9446-ad50-43dc-a19e-d337e468d0aa][Eta Cephei]]
+
+Reilly Plant is a Coriolis starport built by
+[[id:a0de9a01-d94e-43bd-8bd4-4c607c6c21e0][Steel Castle Inc]] during the 3306
+fleet-carrier support initiative.
+

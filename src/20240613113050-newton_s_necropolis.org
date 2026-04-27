@@ -2,7 +2,7 @@
 :ID:       2e0f4060-2f7a-401f-9e9f-e77352ef1c43
 :END:
 #+title: Newton's Necropolis
-#+filetags: :beacon:
+#+filetags: :Tourist:History:beacon:
 * ER05. Newton's Necropolis
 [[id:df8f9af7-7b3b-4a2f-bd33-f9403ce53596][Phroi Bluae IR-W f1-1530]]
 

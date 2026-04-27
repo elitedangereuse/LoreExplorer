@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       b25ce664-fae7-485b-b5bf-f75c836d7172
+:END:
+#+title: Siksikas
+#+filetags: :System:
+Siksikas is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:4adaa093-4a9e-4d02-a598-9e7054ff7954][0464 Siksikas Visitor Beacon]]
+- [[id:cbcb816d-7a00-4a3c-9c90-8a517bfa7cb3][0615 Siksikas 8 A Ice Geysers]]

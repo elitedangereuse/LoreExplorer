@@ -2,9 +2,9 @@
 :ID:       0dbfcc84-b49b-4ae4-a055-4b1254173515
 :END:
 #+title: What is Interpol
-#+filetags: :Alliance:beacon:
+#+filetags: :Tourist:History:beacon:Alliance:
 * 0235 What is Interpol?
-[[id:d4f2b36b-70c4-4943-b901-496229734121][Kuk]]  
+[[id:d4f2b36b-70c4-4943-b901-496229734121][Kuk]]
 
 [[id:68be64ca-8477-4be5-b2c6-2d4ca90a1ade][Interpol]] provides multi-jurisdictional investigation. particularly
 across Alliance worlds, but also when an investigation strays

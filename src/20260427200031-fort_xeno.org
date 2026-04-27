@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       82800f08-27d3-48c8-a984-c8a2ff882cbb
+:END:
+#+title: Fort Xeno
+#+filetags: :Station:
+
+[[id:80076c05-2ff7-4655-aa14-02ccfcfb11c9][HIP 62154]]
+
+Fort Xeno is an Orbis starport established by the
+[[id:1dfc7c53-642a-4404-a8e8-16a8cc18482a][Kumo Crew]] in the
+[[id:6f086af9-53a6-4d37-9800-b81d2537837c][Coalsack Nebula]].
+

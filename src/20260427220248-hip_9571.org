@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       81f5d50c-92e0-47e8-9491-b5dd5bfd7477
+:END:
+#+title: HIP 9571
+#+filetags: :System:
+HIP 9571 is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:cbb88bfa-7d7a-4b79-93b6-f939af5941da][0045 Fire and Ice]]

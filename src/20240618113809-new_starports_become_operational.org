@@ -14,29 +14,29 @@ New starports constructed in ten systems causing increased commodity demand.
 
 Several refinery outposts have now been upgraded to starports, following an initiative to improve access to large ships for refuelling fleet carriers. 
 
-Kavanagh Spaceframes Ltd has completed construction of the following Orbis starports: 
+[[id:a65fc0a0-6116-4c04-bb30-063687a20b2c][Kavanagh Spaceframes Ltd]] has completed construction of the following Orbis starports: 
 
-Harper Plant in the Fjorgyn system 
+[[id:c05d5cb6-f9a4-4c4e-8513-36737b5ad638][Harper Plant]] in the [[id:9a7a830a-ad70-42ee-a17d-018d139a3ace][Fjorgyn]] system 
 
-Iqbal Hub in the HR 4979 system 
+[[id:15d7f476-749d-482d-8939-c007cfa6d3e2][Iqbal Hub]] in the [[id:dda8257e-5c5a-411a-b465-0a7495a312c7][HR 4979]] system 
 
-Stephenson Dock in the Wolf 294 system 
+[[id:153ae422-03e6-440d-b05c-997d9f5eab41][Stephenson Dock]] in the [[id:ed48c6fc-8220-4d47-a8a8-60ceada78f78][Wolf 294]] system 
 
-McQuarrie Landing in the Lambda-2 Tucanae system 
+[[id:3fb773e2-eb26-497b-bad7-4e4774def2b2][McQuarrie Landing]] in the [[id:83c5b09c-39e6-43b2-bd44-6d088c28ccff][Lambda-2 Tucanae]] system 
 
-Hartsfield Plant in the Potriti system 
+[[id:98542d88-269b-48c3-95f2-7f7f9835f12e][Hartsfield Plant]] in the [[id:bfe14a03-95e2-435b-b53f-f50e326f79ff][Potriti]] system 
 
-The following Coriolis starports have been constructed by Steel Castle Inc: 
+The following Coriolis starports have been constructed by [[id:a0de9a01-d94e-43bd-8bd4-4c607c6c21e0][Steel Castle Inc]]: 
 
-Rorschach Hub in the LHS 4058 system 
+[[id:3f84b4e1-726f-4731-88d9-30a1bbdcfe49][Rorschach Hub]] in the [[id:6ca74a70-76a6-4d1e-8d37-ee663163eb92][LHS 4058]] system 
 
-Chargaff Installation in the Chakpa system 
+[[id:b658fba3-7944-469a-94fd-88993c6fb3b2][Chargaff Installation]] in the [[id:f7819579-c6c1-4134-89c1-469ac0aa28c5][Chakpa]] system 
 
-Nagata Vision in the Gally Bese system 
+[[id:f53ae23e-cfbb-45d2-8ad9-e2532e12bf78][Nagata Vision]] in the [[id:fb62cb94-7aa7-4dae-a18c-c653e2fa73de][Gally Bese]] system 
 
-Reilly Plant in the Eta Cephei system 
+[[id:d563ebb9-e2b3-4578-a4d6-7aaa9ca87c0b][Reilly Plant]] in the [[id:2c5e9446-ad50-43dc-a19e-d337e468d0aa][Eta Cephei]] system 
 
-Trevithick Vision in the Ninabin system 
+[[id:7f1961ef-0120-4bd9-9c2b-0a04ac6c9663][Trevithick Vision]] in the [[id:8b0cb052-2774-40b2-8805-36fcf5da1ad6][Ninabin]] system 
 
 As a result of the community drives to build these starports, there have been fluctuations on the trading market. The availability of several commodities has been reduced, resulting in increased prices and profit margins. The items affected include: 
 

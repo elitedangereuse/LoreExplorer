@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       4ece96fd-0d39-43c0-9441-918fc9709a02
+:END:
+#+title: LHS 278
+#+filetags: :System:
+LHS 278 is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:1ec6add7-ef24-48c8-9160-4b4af97030fc][0401 LHS 278 Visitor Beacon]]
+- [[id:7c375a0c-a1c5-4a38-a088-c15e31000a9f][0605 LHS 278 7 A Ice Geysers]]

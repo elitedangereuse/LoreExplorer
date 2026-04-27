@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       859a57fe-f113-4001-9fe5-0059a060f385
+:END:
+#+title: Njorovices
+#+filetags: :System:
+Njorovices is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:1fb73e88-2828-44b0-9692-b6f6c14cb9f4][0440 Njorovices Visitor Beacon]]

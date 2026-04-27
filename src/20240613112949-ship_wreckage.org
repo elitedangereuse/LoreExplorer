@@ -2,7 +2,7 @@
 :ID:       94be63aa-90f6-44d5-a2ba-aaa464456861
 :END:
 #+title: Ship Wreckage
-#+filetags: :beacon:
+#+filetags: :Tourist:History:beacon:
 * 0634 Ship Wreckage
 [[id:841c0a2b-91d0-436a-822b-ed7ce5edd65e][HIP 17862]]
 

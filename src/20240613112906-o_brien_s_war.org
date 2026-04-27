@@ -2,9 +2,9 @@
 :ID:       241b8fe3-898d-4d2b-bd1b-a27a17ca0b65
 :END:
 #+title: O'Brien's War
-#+filetags: :Empire:Federation:beacon:
+#+filetags: :Tourist:History:beacon:Empire:Federation:
 * 0195 O'Brien's War
-[[id:51a92498-ef1b-4fc3-9ad7-9e49fb947353][Cemiess]]
+[[id:360ae21e-63f2-43ba-a2fd-a47e5e49951e][Cemiess]]
 
 In 3098 Governor [[id:9492a08d-0edc-46db-969f-dc8670665346][Santorini]] of Tau Ceti, was [[id:fed0655d-b1b6-4136-adf7-9e688793af93][assassinated]]. The Federal
 press pinned the blame on the Empire, citing several quotes form

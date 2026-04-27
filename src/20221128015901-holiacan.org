@@ -2,15 +2,8 @@
 :ID:       c6f2df05-7f29-4557-bcf1-a71e342fd306
 :END:
 #+title: Holiacan
-#+filetags: :Federation:Alliance:
-* 0125 Holiacan History                                 :beacon:EliteHistory:
-Relatively late to joining the original Alliance group in 3244,
-Holiacan was not contested by Federation forces as the systems assets
-were relatively small. The bloodless revolution is a complete contrast
-to its partner and robotic manufacturing rival [[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]], whose [[id:469157dc-db54-4770-937b-1fb3ded39ff7][industry]]
-in this area had been expanded into the system in 3229.
+#+filetags: :System:
+Holiacan is associated with the following tourist beacons:
 
-Since this time, robotics manufacturing and output within the Holiacan
-has increased. Several other prominent political figures in Alliance
-politics have emerged from this system, most notably [[id:a1bb9563-3e6b-44b1-a230-b281fc635cb3][Lucinda Kallis]],
-who wields considerable influence amongst the system group.
+* Tourist beacons
+- [[id:2a7e2315-87e3-4a3c-bd43-f8158fb95b69][0125 Holiacan History Beacon]]

@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       189ca24e-cc33-4a57-a9a7-8f3053a71f01
+:END:
+#+title: HIP 111755 A 2 Gas Vents
+#+filetags: :Tourist:beacon:
+* 0554 HIP 111755 A 2 Gas Vents
+[[id:2d3de2cc-8b02-4cb6-9b01-5e44bab46b2f][HIP 111755]]
+
+Gas vents are similar to fumaroles, but only expel gases.

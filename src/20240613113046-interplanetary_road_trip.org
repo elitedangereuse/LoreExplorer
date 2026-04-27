@@ -2,7 +2,7 @@
 :ID:       fedfa743-5879-4fe1-bd26-dc01c04f9b9d
 :END:
 #+title: Interplanetary Road Trip
-#+filetags: :beacon:
+#+filetags: :Tourist:History:beacon:
 * 0715 Interplanetary Road Trip
 [[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]]
 

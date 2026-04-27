@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       01ac502b-e6f9-4d5f-8822-83ec35559294
+:END:
+#+title: Tpheirset
+#+filetags: :System:
+Tpheirset is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:e789bbab-b4d7-4e7b-9bf2-e3bff4aeb8c8][0475 Tpheirset Visitor Beacon]]

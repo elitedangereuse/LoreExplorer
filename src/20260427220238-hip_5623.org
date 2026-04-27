@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       5e30ea06-0016-47e8-8b8b-86dc22c150a6
+:END:
+#+title: HIP 5623
+#+filetags: :System:
+HIP 5623 is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:a3904a52-c30b-439a-9f14-ab3cda978983][0361 HIP 5623 Visitor Beacon]]

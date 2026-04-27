@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       7267fbb9-4ced-43b4-adc4-9d9667be3310
+:END:
+#+title: Yaque
+#+filetags: :System:
+Yaque is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:ce7c7e92-ba89-441f-bcf3-40f0eafc9843][0497 Yaque Visitor Beacon]]

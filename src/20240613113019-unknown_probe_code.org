@@ -2,7 +2,7 @@
 :ID:       3e0a036e-8526-4df8-b574-cbb3d0401e67
 :END:
 #+title: Unknown Probe Code
-#+filetags: :3302:beacon:
+#+filetags: :Tourist:History:beacon:3302:
 * 0684 Unknown Probe Code
 [[id:70fa34ea-bc98-40ff-97f0-e4f4538387a6][Merope]]
 

@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       3a60131b-cb30-424b-ac65-c5e1b6200f42
+:END:
+#+title: HIP 17403
+#+filetags: :System:
+HIP 17403 is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:8ef4a591-2482-4824-9d67-b0a5126ff066][0633 Crashed Vessel]]

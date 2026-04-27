@@ -2,7 +2,7 @@
 :ID:       10d17be8-301d-446e-ac08-92325ccdcb49
 :END:
 #+title: Revised Catholic Mission
-#+filetags: :beacon:
+#+filetags: :Tourist:History:beacon:
 * 0164 Revised Catholic Mission
 [[id:f9c2a17e-47a5-4abf-ab4f-ff3f9a1c0bd3][Aymiay]]
 

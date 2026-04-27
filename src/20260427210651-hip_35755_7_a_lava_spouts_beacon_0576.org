@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       b4f211d8-6b56-45f2-a4d5-77da51725cc7
+:END:
+#+title: HIP 35755 7 A Lava Spouts
+#+filetags: :Tourist:beacon:
+* 0576 HIP 35755 7 A Lava Spouts
+[[id:2a6de961-5c58-4e94-85a6-180eaabeb180][HIP 35755]]
+
+Materials from the world's interior can sometimes spawn useful materials. Geological features will tend to provide some of the rarer materials.

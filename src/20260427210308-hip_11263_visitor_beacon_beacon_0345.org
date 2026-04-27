@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       fd33338f-30ed-47f1-a138-df544e1cacd8
+:END:
+#+title: HIP 11263 Visitor Beacon
+#+filetags: :Tourist:Visitor:beacon:
+* 0345 HIP 11263 Visitor Beacon
+[[id:fc7ec729-0571-497e-87ab-9dd788675cb9][HIP 11263]]
+
+Of the four terrestrial planets orbiting the companion star in this binary system, this is the only planet not capable of supporting life.

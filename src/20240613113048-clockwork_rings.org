@@ -2,7 +2,7 @@
 :ID:       20203fec-664f-4aed-87a7-fabae10d07f6
 :END:
 #+title: Clockwork Rings
-#+filetags: :beacon:
+#+filetags: :Tourist:History:beacon:
 * ER03. Clockwork Rings
 [[id:e7c0edc7-a2a3-457f-a014-b981ee0810f1][Byaa Ain QA-J c11-144]]
 

@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       741535d5-6629-4537-a527-fd1916cfb94f
+:END:
+#+title: HIP 44811
+#+filetags: :System:
+HIP 44811 is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:4fc129b4-99fe-40c5-a510-03902d440871][0359 HIP 44811 Visitor Beacon]]

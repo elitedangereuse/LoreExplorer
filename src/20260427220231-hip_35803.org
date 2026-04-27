@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       7308802a-b015-4eb5-8195-bfbd45c9c2ed
+:END:
+#+title: HIP 35803
+#+filetags: :System:
+HIP 35803 is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:0d0a9d9d-30ee-4ef8-a51f-a902111b6d28][0355 HIP 35803 Visitor Beacon]]

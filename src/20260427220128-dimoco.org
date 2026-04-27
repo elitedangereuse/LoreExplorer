@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       452a75f5-3404-43c5-91dc-e68506799f53
+:END:
+#+title: Dimoco
+#+filetags: :System:
+Dimoco is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:73c31b20-3186-445a-88b7-ec1872458eb8][0312 Dimoco Visitor Beacon]]

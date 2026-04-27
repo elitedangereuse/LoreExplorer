@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       87d19c07-687e-4bf1-b53e-90231a285fd2
+:END:
+#+title: CD-58 4207
+#+filetags: :System:
+CD-58 4207 is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:a13c19a9-aa2d-4fec-afc4-c945155f9e20][0300 CD-58 4207 Visitor Beacon]]
+- [[id:bb011157-11f9-4611-a96b-517626c01a49][0568 CD-58 4207 6 A Ice Lava]]
+- [[id:0a609467-b2cf-49ff-b937-817683ef617f][0569 CD-58 4207 6 A Ice Fumarole]]
+- [[id:ba7c7b7a-9754-4030-8861-5ed55d8709d8][0575 CD-58 4207 6 B Gas Vents]]

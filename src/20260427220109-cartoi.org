@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       69c76cdc-f1e2-4399-96ce-4e050d4d425e
+:END:
+#+title: Cartoi
+#+filetags: :System:
+Cartoi is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:ff4e4a1a-1643-4da5-94f4-2592750f9ec2][0513 Treaty of Cartoi]]

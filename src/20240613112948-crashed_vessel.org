@@ -2,9 +2,9 @@
 :ID:       8ef4a591-2482-4824-9d67-b0a5126ff066
 :END:
 #+title: Crashed Vessel
-#+filetags: :beacon:
+#+filetags: :Tourist:History:beacon:
 * 0633 Crashed Vessel
-[[id:64dc2ba5-e6a1-4770-ac40-b188d597233c][HIP 17403]]
+[[id:3a60131b-cb30-424b-ac65-c5e1b6200f42][HIP 17403]]
 
 This crash site of what may be an alien spaceship is a popular
 destination for more adventurous tourists.

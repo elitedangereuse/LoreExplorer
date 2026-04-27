@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f3b0971a-400b-4d28-9543-801e8483af55
+:END:
+#+title: Fortuna
+#+filetags: :System:
+Fortuna is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:8cbcf4a5-1c4b-4064-ab8e-f252786d67ad][0319 Fortuna Visitor Beacon]]
+- [[id:89d688b3-0c0e-4187-96f0-7978aa827a3f][0548 Fortuna AB 1 A Ice Geyser]]
+- [[id:e994c4f7-52f2-4c47-a27b-c569e6ac8bd8][0549 Fortuna AB 1 B Ice Geyser]]

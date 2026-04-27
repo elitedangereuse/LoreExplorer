@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       9dc7dc3d-20cf-40fa-a5e3-408ac4b4c1e4
+:END:
+#+title: Qetesh
+#+filetags: :System:
+Qetesh is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:8c8a8d2a-92dd-4ae3-8210-b8aece3062b5][0456 Qetesh Visitor Beacon]]

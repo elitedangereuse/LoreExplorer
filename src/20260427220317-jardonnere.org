@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       64dca1e9-82ce-41c3-a9ce-be8ce7848b40
+:END:
+#+title: Jardonnere
+#+filetags: :System:
+Jardonnere is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:50bc83d3-323f-4810-80ba-bcf86ecbffea][0382 Jardonnere Visitor Beacon]]
+- [[id:52f397dd-dce3-49e9-b16f-2373f98292c5][0588 Jardonnere 6 B Ice Geysers]]
+- [[id:aaf5b80b-73a4-4c15-9c6e-e2d297a16d04][0619 Jardonnere 6 E A Ice Geysers]]

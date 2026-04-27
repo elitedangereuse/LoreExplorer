@@ -2,9 +2,9 @@
 :ID:       90c35823-2e56-41ba-a620-201b4321ed7b
 :END:
 #+title: Faulcon Delacy's Prowess
-#+filetags: :3300:beacon:
+#+filetags: :Tourist:History:beacon:3300:
 * 0224 Faulcon Delacy's Prowess
-[[id:0da8edee-c8ff-4aed-9ff9-ce8ae998bef3][Reorte]]
+[[id:5292d8c1-fa6e-4352-a03f-ef984f706203][Reorte]]
 
 In 3300, [[id:a35836b6-243b-45eb-9d79-faae08802d0c][Faulcon deLacy]] stands as the largest independent ship
 manufacturer in colonised space. The interstellar powers recognise the

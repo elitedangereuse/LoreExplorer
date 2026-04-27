@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       0d0a9d9d-30ee-4ef8-a51f-a902111b6d28
+:END:
+#+title: HIP 35803 Visitor Beacon
+#+filetags: :Tourist:Visitor:beacon:
+* 0355 HIP 35803 Visitor Beacon
+[[id:7308802a-b015-4eb5-8195-bfbd45c9c2ed][HIP 35803]]
+
+This binary pair of water worlds provides the bulk of tourist destinations for holidaymakers in this system.

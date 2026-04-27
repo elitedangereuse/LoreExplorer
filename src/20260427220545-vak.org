@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       3c258ff0-3bde-4d26-b185-1fc3de2efc61
+:END:
+#+title: Vak
+#+filetags: :System:
+Vak is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:5cb95c7e-36f4-4ac5-aa05-0570be97abc7][0538 Blue Jewel]]

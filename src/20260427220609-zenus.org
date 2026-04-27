@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       9d3bce6e-2bfe-453b-8c78-d5cad997d999
+:END:
+#+title: Zenus
+#+filetags: :System:
+Zenus is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:07aad266-8c29-48ee-9088-d239445edfb4][0498 Zenus Visitor Beacon]]

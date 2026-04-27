@@ -2,7 +2,7 @@
 :ID:       40b1e1f3-3fae-470f-be64-c2952eec7498
 :END:
 #+title: Isaiah's Hope
-#+filetags: :beacon:
+#+filetags: :Tourist:History:beacon:
 * 0713 Isaiah's Hope
 [[id:68f0a3c5-6a04-4c58-b203-367faee850cc][GCRV 4981]]
 

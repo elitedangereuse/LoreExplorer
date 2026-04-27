@@ -2,7 +2,7 @@
 :ID:       c280962c-fdf5-499b-b773-2291da7462fb
 :END:
 #+title: Curious Transmission Partially Decoded
-#+filetags: :beacon:
+#+filetags: :Tourist:History:beacon:
 * 0676 Curious Transmission Partially Decoded
 [[id:0b991a8e-234a-4888-8c0a-b3c64498f217][Tionisla]]
 

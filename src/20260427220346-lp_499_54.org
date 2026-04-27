@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       6170a1c4-061a-415d-91bc-8b08ef8a375a
+:END:
+#+title: LP 499-54
+#+filetags: :System:
+LP 499-54 is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:3c221a81-d2b3-4ff0-975b-f828b35a9ef6][0412 LP 499-54 Visitor Beacon]]
+- [[id:e2fd379f-57a5-4978-96d8-522df5b86a38][0610 LP 499-54 7 E Ice Geysers]]

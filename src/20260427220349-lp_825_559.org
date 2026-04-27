@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       6b099646-b134-4cb4-a549-09b1d2a11c6d
+:END:
+#+title: LP 825-559
+#+filetags: :System:
+LP 825-559 is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:bde4286e-32a6-44e2-8023-7f8eb72214e6][0415 LP 825-559 Visitor Beacon]]

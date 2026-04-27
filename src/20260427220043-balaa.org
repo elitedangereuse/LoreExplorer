@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       f8737d58-4faf-4b88-9825-55b5ddd78f17
+:END:
+#+title: Balaa
+#+filetags: :System:
+Balaa is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:2832b0eb-5153-4c25-ab4e-63b7424eb1f7][0279 Balaa Visitor Beacon]]

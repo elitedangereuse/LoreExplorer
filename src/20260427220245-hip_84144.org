@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       d24b00ed-ce9f-46c4-8ab8-8e701d8afe94
+:END:
+#+title: HIP 84144
+#+filetags: :System:
+HIP 84144 is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:b2066900-2c8e-4b97-8b9e-67bd1e125074][0044 Colourful Giants]]

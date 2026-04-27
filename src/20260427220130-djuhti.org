@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       6fe52ef7-63d2-439f-bdb7-d9bf5fb273b1
+:END:
+#+title: Djuhti
+#+filetags: :System:
+Djuhti is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:3bc9e8f4-5563-496d-bc4c-1419ed1f7d88][0314 Djuhti Visitor Beacon]]

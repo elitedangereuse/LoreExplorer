@@ -2,7 +2,7 @@
 :ID:       0127810b-f91b-4ccd-b73b-7cbfa72ccb1c
 :END:
 #+title: Durius Defaults
-#+filetags: :3300:Empire:beacon:
+#+filetags: :Tourist:History:beacon:3300:Empire:
 * 0157 [[id:c0ca77c2-1994-4f1c-9f14-b839171da15a][Durius]] Defaults
 [[id:c0ca77c2-1994-4f1c-9f14-b839171da15a][Durius]]
 

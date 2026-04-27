@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       4e04c739-9af1-449f-8a8b-c2d254aecf55
+:END:
+#+title: Tsu
+#+filetags: :System:
+Tsu is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:da9402b4-9586-460c-a445-18a00a9fe817][0477 Tsu Visitor Beacon]]

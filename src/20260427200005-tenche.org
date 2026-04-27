@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       99f9bedc-7c8f-4646-91ad-ae8ce81eaf8f
+:END:
+#+title: Tenche
+#+filetags: :System:
+
+[[id:443b4ffb-1082-4c42-8766-c9450ab8c3c5][Blaauw Hub]]
+
+Tenche was the base for the 3306 Orbis starport-conversion campaign led
+by [[id:a65fc0a0-6116-4c04-bb30-063687a20b2c][Kavanagh Spaceframes Ltd]].
+

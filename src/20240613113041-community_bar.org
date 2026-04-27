@@ -2,7 +2,7 @@
 :ID:       032ca365-881e-4054-a514-5db3841b1284
 :END:
 #+title: Community Bar
-#+filetags: :Thargoid:beacon:
+#+filetags: :Tourist:History:beacon:Thargoid:
 * 0710 Community Bar
 [[id:34bddae0-0d06-4648-ad0b-cf7143f239ee][HIP 110028]]
 

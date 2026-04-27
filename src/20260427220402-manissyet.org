@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       22783a3f-4cb0-4d83-9a03-6f72a985754c
+:END:
+#+title: Manissyet
+#+filetags: :System:
+Manissyet is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:23771d17-e5d7-4da3-ac84-7b5ffdb8de61][0421 Manissyet Visitor Beacon]]

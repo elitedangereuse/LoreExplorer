@@ -2,8 +2,10 @@
 :ID:       c6681040-98ae-4046-888c-a6d3d2f50963
 :END:
 #+title: Indaol
-#+filetags: :Alliance:
-* 0126 Indaol History                                   :beacon:EliteHistory:
+#+filetags: :System:Tourist:History:beacon:Alliance:
+* 0126 Indaol History
+[[id:c6681040-98ae-4046-888c-a6d3d2f50963][Indaol]]
+
 This minor system in notable only because of its early membership of
 the Alliance, joining in 3232. This membership granted the colonists
 significant technological improvement on their existing lot.

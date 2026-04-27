@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       43bedbf1-ae8e-438b-90aa-7c4f98ae2d68
+:END:
+#+title: HIP 16365 Visitor Beacon
+#+filetags: :Tourist:Visitor:beacon:
+* 0351 HIP 16365 Visitor Beacon
+[[id:25267b8a-d9a7-4dab-9ae8-aca71c82a7b8][HIP 16365]]
+
+This binary pair of planets is actually the second binary pair in this system.

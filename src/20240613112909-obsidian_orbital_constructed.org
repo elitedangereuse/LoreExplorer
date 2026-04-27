@@ -2,9 +2,9 @@
 :ID:       2ac67d25-58ef-49da-824a-49537d7ce96a
 :END:
 #+title: Obsidian Orbital Constructed
-#+filetags: :3301:beacon:
+#+filetags: :Tourist:History:beacon:3301:
 * 0200 Obsidian Orbital Constructed
-[[id:af205c6d-cb6f-4d7b-bcdd-42dc2999c376][Maia]]
+[[id:0ee60994-364c-41b9-98ca-993d041cea72][Maia]]
 
 Work on a new [[id:5700c476-8bf4-4710-90d9-1e5988bf6048][Ocellus]] starport began in the [[id:3ceec3b8-48ce-40e3-8b24-ba6fe065d56c][Kaushpoos]] system of the
 Pleiades Nebula on 28'th October 3301. Within a day, pirates began

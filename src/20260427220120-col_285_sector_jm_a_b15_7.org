@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       0b461cdb-2b77-4231-8be0-bcaf862109e9
+:END:
+#+title: Col 285 Sector JM-A b15-7
+#+filetags: :System:
+Col 285 Sector JM-A b15-7 is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:bc7e7210-5f2e-4475-b70d-8d47d19c95eb][0019 Rare Waterworld]]

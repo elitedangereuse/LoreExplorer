@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8203f201-0f1a-4cf0-a0ea-0f74923751b7
+:END:
+#+title: Ngere
+#+filetags: :System:
+Ngere is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:0dc4c789-1d4f-4246-82ae-5e314c46b970][0437 Ngere Visitor Beacon]]
+- [[id:26c935cc-4190-46e4-9d03-4730d3df6295][0606 Ngere AB 1 B Ice Geysers]]
+- [[id:50f64083-67f8-4614-ba93-376911206ac6][0612 Ngere AB 1 A Ice Geysers]]

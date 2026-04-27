@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       cc6ec891-3136-41c7-9876-da787c832a79
+:END:
+#+title: HIP 22395
+#+filetags: :System:
+HIP 22395 is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:cce9a7cc-3feb-470f-9c6f-2bda1c5093a2][0352 HIP 22395 Visitor Beacon]]

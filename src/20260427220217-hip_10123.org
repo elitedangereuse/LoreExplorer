@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       2a98813b-a919-41ed-b3c8-88b0e26e6cef
+:END:
+#+title: HIP 10123
+#+filetags: :System:
+HIP 10123 is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:404417f5-057c-41a6-93d2-cfd1b67a98a7][0341 HIP 10123 Visitor Beacon]]

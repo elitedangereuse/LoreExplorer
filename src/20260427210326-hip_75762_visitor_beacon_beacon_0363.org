@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       dd48cab6-80c5-4a43-894d-783eec1aeba8
+:END:
+#+title: HIP 75762 Visitor Beacon
+#+filetags: :Tourist:Visitor:beacon:
+* 0363 HIP 75762 Visitor Beacon
+[[id:c27e6b79-4c76-45b1-a568-df05b997f67c][HIP 75762]]
+
+A mysterious ship was once seen by an explorer near this planet. It hasn't been seen since, but many people still come to try and see if they can spot it.

@@ -2,7 +2,7 @@
 :ID:       0ae5cf43-ce63-4a13-bffd-4151ce5e39c4
 :END:
 #+title: Competition from Sirius
-#+filetags: :Empire:beacon:
+#+filetags: :Tourist:History:beacon:Empire:
 * 0211 Competition from [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]]
 [[id:a17c479c-5ee8-42c1-8fee-22cbf1407db9][Epsilon Eridani]]
 

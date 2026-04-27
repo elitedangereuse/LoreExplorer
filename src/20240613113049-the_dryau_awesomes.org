@@ -2,7 +2,7 @@
 :ID:       d8db812b-4b8b-4c13-8688-85ed3cf15d4a
 :END:
 #+title: The Dryau Awesomes
-#+filetags: :beacon:
+#+filetags: :Tourist:History:beacon:
 * ER04. The Dryau Awesomes
 [[id:71dc38a7-e715-4f89-bfff-bbaf3faba7b7][Dryau Ausms KG-Y e3390]]
 

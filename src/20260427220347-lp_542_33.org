@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       b1d1914b-ab24-4f8d-b44b-32fabf3ac2ab
+:END:
+#+title: LP 542-33
+#+filetags: :System:
+LP 542-33 is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:e2e94616-374a-4160-b6a7-4fd653824b97][0413 LP 542-33 Visitor Beacon]]

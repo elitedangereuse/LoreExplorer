@@ -2,9 +2,9 @@
 :ID:       bc605026-eff8-4817-b5d5-e7806c277651
 :END:
 #+title: Faulcon Delacy's Business Relations
-#+filetags: :beacon:
+#+filetags: :Tourist:History:beacon:
 * 0225 Faulcon Delacy's Business Relations
-[[id:0da8edee-c8ff-4aed-9ff9-ce8ae998bef3][Reorte]]
+[[id:5292d8c1-fa6e-4352-a03f-ef984f706203][Reorte]]
 
 [[id:a35836b6-243b-45eb-9d79-faae08802d0c][Faulcon deLacy]] manufactures many of the smaller components in its own
 ships, and has a well established relationship with the [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius

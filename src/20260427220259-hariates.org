@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       aba4ed81-6ceb-47e1-91de-9bdc241ec481
+:END:
+#+title: Hariates
+#+filetags: :System:
+Hariates is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:2c22df4f-689e-4892-8f54-8e6b6045122e][0337 Hariates Visitor Beacon]]

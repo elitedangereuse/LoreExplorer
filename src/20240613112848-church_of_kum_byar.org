@@ -2,7 +2,7 @@
 :ID:       5968904b-053b-49df-8a26-ea42bc206e67
 :END:
 #+title: Church of Kum-Byar
-#+filetags: :beacon:
+#+filetags: :Tourist:History:beacon:
 * 0163 Church of Kum-Byar
 [[id:6935cefb-7739-4ac2-91a0-de4a984feae1][Arexack]]
 

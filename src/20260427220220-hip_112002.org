@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       2f82eed8-cc92-45a2-9940-36f01ca002c8
+:END:
+#+title: HIP 112002
+#+filetags: :System:
+HIP 112002 is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:52c9d17a-1d49-43cb-9f19-9da6fd3d5509][0344 HIP 112002 Visitor Beacon]]

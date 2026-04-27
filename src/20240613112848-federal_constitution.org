@@ -2,9 +2,9 @@
 :ID:       94090e41-40b4-4e40-9cb8-34c2fb2cce8f
 :END:
 #+title: Federal Constitution
-#+filetags: :Federation:beacon:
+#+filetags: :Tourist:History:beacon:Federation:
 * 0162 Federal Constitution
-[[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]]  
+[[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]]
 
 Federal law is based on an agreed [[id:94090e41-40b4-4e40-9cb8-34c2fb2cce8f][Constitution]]. People have rights and
 freedoms, enshrined by this agreement. A great many things are

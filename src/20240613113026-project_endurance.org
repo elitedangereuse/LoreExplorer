@@ -2,7 +2,7 @@
 :ID:       23b9788d-af98-4152-8eb2-e55b639e429b
 :END:
 #+title: Project Endurance
-#+filetags: :3301:beacon:
+#+filetags: :Tourist:History:beacon:3301:
 * 0692 Project Endurance
 [[id:292ba81d-9b8a-4146-bb41-59930893d01a][Dijkstra]]
 

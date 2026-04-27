@@ -2,7 +2,7 @@
 :ID:       80590bf6-440e-4f78-9507-8e75f8ea7a46
 :END:
 #+title: Relocation
-#+filetags: :Federation:beacon:
+#+filetags: :Tourist:History:beacon:Federation:
 * 0178 Relocation
 [[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]]
 

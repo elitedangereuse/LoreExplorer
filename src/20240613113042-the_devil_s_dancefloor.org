@@ -2,7 +2,7 @@
 :ID:       a239f727-4249-4a4b-a820-b4802cf4a0d9
 :END:
 #+title: The Devil's Dancefloor
-#+filetags: :beacon:
+#+filetags: :Tourist:History:beacon:
 * 0711 The Devil's Dancefloor
 [[id:51ee0837-cac7-466c-a019-4743b891c1c8][Eeshorks BA-A G2179]]
 

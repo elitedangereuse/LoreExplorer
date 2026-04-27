@@ -2,7 +2,7 @@
 :ID:       461ad511-166e-46b9-9029-9a5b82a98810
 :END:
 #+title: Battle of Villist
-#+filetags: :beacon:
+#+filetags: :Tourist:History:beacon:
 * 0505 Battle of Villist
 [[id:3b569fde-725c-48b6-bdad-ea4f90300a68][Brohman]]
 

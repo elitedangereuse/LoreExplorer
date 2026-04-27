@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       102883f4-66e4-4689-8e67-6524005307c6
+:END:
+#+title: HIP 88617
+#+filetags: :System:
+HIP 88617 is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:3c76f416-503c-49a8-82b4-3cbe13128189][0365 HIP 88617 Visitor Beacon]]

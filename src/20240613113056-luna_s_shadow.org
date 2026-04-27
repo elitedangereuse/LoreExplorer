@@ -2,9 +2,9 @@
 :ID:       d6e4bebf-17bb-4d0e-bfd7-9a989b678341
 :END:
 #+title: Luna's Shadow
-#+filetags: :3305:beacon:
+#+filetags: :Tourist:History:beacon:3305:
 * ER12. Luna's Shadow
-[[id:8bafd5bc-a8ae-4d53-893a-687a46e7706e][Smootoae QY-S d3-202]]   
+[[id:8bafd5bc-a8ae-4d53-893a-687a46e7706e][Smootoae QY-S d3-202]]
 
 This beacon marks the 11th waypoint of the [[id:f176c68d-cc7a-4db2-8305-81f6771c7e9f][Distant Worlds II]]
 expedition, a five-month journey to the far outer rim conducted

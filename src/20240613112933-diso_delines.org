@@ -2,9 +2,9 @@
 :ID:       93ad57c9-983a-4202-a35e-724bbfec7d15
 :END:
 #+title: Diso Delines
-#+filetags: :beacon:
+#+filetags: :Tourist:History:beacon:
 * 0239 [[id:4aedfccd-a366-4b25-a5e2-538bb29a35cb][Diso]] Delines
-[[id:93ad57c9-983a-4202-a35e-724bbfec7d15][Diso]]
+[[id:4aedfccd-a366-4b25-a5e2-538bb29a35cb][Diso]]
 
 The indigenous [[id:5d4af356-e08b-4931-95e4-211677b797ef][delines]] were driven from the equatorial regions by
 [[id:4dfd1a40-8f9b-4f66-9c90-971e253a3fe1][human]] settlement, but are still common in the colder, higher

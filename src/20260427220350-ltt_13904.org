@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d52690aa-bf7c-4800-a9d6-94896bdb9af9
+:END:
+#+title: LTT 13904
+#+filetags: :System:
+LTT 13904 is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:258c26f4-2e39-485c-bc97-70e43abbe332][0416 LTT 13904 Visitor Beacon]]
+- [[id:34739669-ca20-41b6-bbb5-ecb3bd3d31fb][0599 LTT 13904 B 1 A Gas Vents]]
+- [[id:5ab58bc4-2eba-41d7-93c3-5227bd90718f][0600 LTT 13904 B 1 A Rock Fumarole]]

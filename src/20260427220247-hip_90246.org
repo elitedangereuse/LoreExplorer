@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       6cb8a771-8d1e-4f6f-a114-1b1c44e18e36
+:END:
+#+title: HIP 90246
+#+filetags: :System:
+HIP 90246 is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:fe3e2c39-0195-42a5-8927-52c620e67322][0366 HIP 90246 Visitor Beacon]]

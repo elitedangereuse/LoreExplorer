@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       acad8f30-08ee-4ab1-a95a-dc196502550c
+:END:
+#+title: Tauni
+#+filetags: :System:
+Tauni is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:53d965d3-7de9-4328-a3e5-5badcb1f1fcf][0470 Tauni Visitor Beacon]]

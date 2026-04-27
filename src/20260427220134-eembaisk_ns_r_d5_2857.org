@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       a0af7285-2782-4097-8a1a-f1792f28534e
+:END:
+#+title: EEMBAISK NS-R D5-2857
+#+filetags: :System:
+EEMBAISK NS-R D5-2857 is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:0501ec31-ffd3-442d-8cf3-8076c51a5c39][0028 Three Way Dance]]

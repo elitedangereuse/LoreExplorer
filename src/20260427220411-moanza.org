@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       06aad28b-9645-4672-aa78-c4d0a23d5f55
+:END:
+#+title: Moanza
+#+filetags: :System:
+Moanza is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:3b5b1ae5-5edb-4b23-a62c-b4a2d9803c8a][0428 Moanza Visitor Beacon]]

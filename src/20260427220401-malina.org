@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1b67624a-22ed-456c-9cee-d9d4dccb0294
+:END:
+#+title: Malina
+#+filetags: :System:
+Malina is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:b0c6bfa4-fa5a-402e-805d-0a65364e1746][0420 Malina Visitor Beacon]]
+- [[id:9604e26c-57f4-4ccf-ae69-afd2cb98dc55][0596 Malina AB 5 A Ice Geysers]]
+- [[id:c9c51c46-5c41-4aee-8779-79b1fef69ce0][0598 Malina AB 5 B Ice Geysers]]

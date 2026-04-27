@@ -2,7 +2,7 @@
 :ID:       1062402b-b982-499d-85ce-fbaa7570939f
 :END:
 #+title: The Reclamation of Facece
-#+filetags: :Empire:beacon:
+#+filetags: :Tourist:History:beacon:Empire:
 * 0690 The Reclamation of [[id:73e31493-0c88-4fd7-9f49-9f3f1c92db41][Facece]]
 [[id:73e31493-0c88-4fd7-9f49-9f3f1c92db41][Facece]]
 

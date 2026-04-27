@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       af79108b-f74b-4054-a97f-455291ac7615
+:END:
+#+title: HIP 101504
+#+filetags: :System:
+HIP 101504 is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:cdbc2f18-7f22-4d4d-895f-29e893fcaadb][0040 Ten Ringed Wonder]]

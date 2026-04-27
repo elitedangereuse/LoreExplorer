@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       a3904a52-c30b-439a-9f14-ab3cda978983
+:END:
+#+title: HIP 5623 Visitor Beacon
+#+filetags: :Tourist:Visitor:beacon:
+* 0361 HIP 5623 Visitor Beacon
+[[id:5e30ea06-0016-47e8-8b8b-86dc22c150a6][HIP 5623]]
+
+The bulk of all visitors for this system come to this outdoor world. It is famed for its extravagant beach resorts.

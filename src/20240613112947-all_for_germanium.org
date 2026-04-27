@@ -2,7 +2,7 @@
 :ID:       80e4e764-c179-4804-9e66-80631afee051
 :END:
 #+title: All For Germanium
-#+filetags: :beacon:
+#+filetags: :Tourist:History:beacon:
 * 0620 All For Germanium
 [[id:dcdf2405-21e7-4a78-b4ba-da4e6b806aac][Vonrictofen's Rescue]]
 

@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       fe3e2c39-0195-42a5-8927-52c620e67322
+:END:
+#+title: HIP 90246 Visitor Beacon
+#+filetags: :Tourist:Visitor:beacon:
+* 0366 HIP 90246 Visitor Beacon
+[[id:6cb8a771-8d1e-4f6f-a114-1b1c44e18e36][HIP 90246]]
+
+Despite the rumours of sinister black ships operating near this moon, it remains a popular destination for travellers. To see the gas giant from this moon is considered lucky.

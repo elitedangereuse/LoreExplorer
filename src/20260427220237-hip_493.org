@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       44041591-c17d-40ee-8787-0c0765030224
+:END:
+#+title: HIP 493
+#+filetags: :System:
+HIP 493 is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:0f817bd0-02aa-446b-8c08-5dc58907a275][0360 HIP 493 Visitor Beacon]]

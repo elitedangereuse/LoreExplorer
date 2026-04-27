@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       019e601b-2db7-48c5-b0a7-88860a37b9b1
+:END:
+#+title: Jambin
+#+filetags: :System:
+Jambin is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:f7de7046-e76b-4368-a1a2-0f89dd8b1729][0381 Jambin Visitor Beacon]]

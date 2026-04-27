@@ -2,9 +2,9 @@
 :ID:       6d7af210-b94d-4324-bce2-7b842a1ba74d
 :END:
 #+title: Argent's Departure
-#+filetags: :Federation:Alliance:beacon:
+#+filetags: :Tourist:History:beacon:Alliance:Federation:
 * 0182 Argent's Departure
-[[id:37a0d8e6-0c42-4e05-8d92-a4b75b89308b][Ayethi]]  
+[[id:37a0d8e6-0c42-4e05-8d92-a4b75b89308b][Ayethi]]
 
 One notable power struggle in the [[id:37a0d8e6-0c42-4e05-8d92-a4b75b89308b][Ayethi]] system was between the
 Federal military and the Argent family, resulting in [[id:c921a096-a8b0-4ebd-acce-c69bbd5ae4e8][Walter Argent]]

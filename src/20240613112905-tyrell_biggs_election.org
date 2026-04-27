@@ -2,7 +2,7 @@
 :ID:       404a844c-e46c-406c-84d0-2c18596c8fbf
 :END:
 #+title: Tyrell Biggs' Election
-#+filetags: :Empire:Federation:beacon:
+#+filetags: :Tourist:History:beacon:Empire:Federation:
 * 0193 [[id:51cb3ba1-6a48-478b-a5db-f002c889c477][Tyrell Biggs]]' Election
 [[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]]
 

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       daeb44a5-db09-42eb-a529-3b7bcd79a1fb
+:END:
+#+title: Tocorii
+#+filetags: :System:
+Tocorii is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:285fc13a-998a-43d6-b018-7f7bcf75cb74][0474 Tocorii Visitor Beacon]]
+- [[id:5ea5f4bb-40d9-4c7d-8cf7-e35ba7f83124][0609 Tocorii 9 C Ice Geysers]]
+- [[id:90789697-736b-41f3-aa57-79bef15bbd41][0616 Tocorii 9 A Ice Geysers]]

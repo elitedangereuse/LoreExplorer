@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       e3844feb-e1b8-4fb3-abb9-3b2e9282ce62
+:END:
+#+title: Tupa
+#+filetags: :System:
+Tupa is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:a3c67a74-4b92-46d4-8b2c-8463226885c2][0479 Tupa Visitor Beacon]]

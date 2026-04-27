@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       65b3b6fb-498d-46b8-bc24-72f32e07477f
+:END:
+#+title: V711 Tauri
+#+filetags: :System:
+V711 Tauri is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:2d4937a3-b699-4c8c-9326-f4cdd0b13e77][0482 V711 Tauri Visitor Beacon]]

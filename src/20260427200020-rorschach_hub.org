@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       3f84b4e1-726f-4731-88d9-30a1bbdcfe49
+:END:
+#+title: Rorschach Hub
+#+filetags: :Station:
+
+[[id:6ca74a70-76a6-4d1e-8d37-ee663163eb92][LHS 4058]]
+
+Rorschach Hub is a Coriolis starport built by
+[[id:a0de9a01-d94e-43bd-8bd4-4c607c6c21e0][Steel Castle Inc]] during the 3306
+fleet-carrier support initiative.
+

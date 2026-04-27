@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9b68a575-95d4-4edd-a282-0f45c1efb820
+:END:
+#+title: BD+74 526
+#+filetags: :System:
+BD+74 526 is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:8e8c140e-7311-453d-bb93-64f57cda71ca][0286 BD+74 526 Visitor Beacon]]
+- [[id:dbd839d4-7e63-4dbf-abdb-88bf55d1908d][0584 BD+74 526 B 3 A Ice Geysers]]
+- [[id:f91c3395-323d-425a-a1c9-ec3d0d70e73b][0585 BD+74 526 B 3 C Ice Geysers]]

@@ -2,9 +2,9 @@
 :ID:       ee42ce48-62b5-465a-bdb0-7b12f97f4ad7
 :END:
 #+title: Alien Transgressions
-#+filetags: :beacon:
+#+filetags: :Tourist:History:beacon:
 * 0173 Alien Transgressions
-[[id:da11b7b5-2c5a-4f17-9cd4-ce28a2f34dbd][Tau Ceti]]
+[[id:000181d2-87fb-4eac-9c05-378082def97f][Tau Ceti]]
 
 Further ecological transgression by Tau Ceti colonists was uncovered
 in 2228 when an undercover documentary found its way back to [[id:5b0f485f-4793-468d-a1a1-483606f44e0e][Earth]]. In

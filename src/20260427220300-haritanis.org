@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       611cb297-f9e7-4491-9e50-65c6af6280ed
+:END:
+#+title: Haritanis
+#+filetags: :System:
+Haritanis is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:d90dd945-5186-434c-9ec2-3cc387389e27][0338 Haritanis Visitor Beacon]]

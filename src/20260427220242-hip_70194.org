@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       5f11d3fe-cb2a-42c2-b919-c3ff95036cdd
+:END:
+#+title: HIP 70194
+#+filetags: :System:
+HIP 70194 is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:98fb19a1-6798-4a78-a2a9-898e74e22dea][0041 Seventh Heaven]]

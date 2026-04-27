@@ -2,9 +2,9 @@
 :ID:       5bd5ffaf-9210-4ee4-a1ef-46228d431c11
 :END:
 #+title: Federal Accord
-#+filetags: :Federation:2242:2240:beacon:
+#+filetags: :Tourist:History:beacon:2240:2242:Federation:
 * 0174 Federal Accord
-[[id:da11b7b5-2c5a-4f17-9cd4-ce28a2f34dbd][Tau Ceti]]
+[[id:000181d2-87fb-4eac-9c05-378082def97f][Tau Ceti]]
 
 In early 2240, hours before the [[id:5b0f485f-4793-468d-a1a1-483606f44e0e][Earth]] fleet arrived in Tau Ceti, the
 main settlement changed its name to [[id:ee59bbe7-79e2-49ae-a2bc-c25554526ea3][Taylor Colony]] and voted for

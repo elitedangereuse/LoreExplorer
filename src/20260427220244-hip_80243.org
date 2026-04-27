@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       71449d69-09e8-4683-b508-e6383b9f92be
+:END:
+#+title: HIP 80243
+#+filetags: :System:
+HIP 80243 is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:ddbcc40e-8f9c-4e7c-a2fb-5e9524919eb9][0364 HIP 80243 Visitor Beacon]]

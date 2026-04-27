@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       718fcfc0-9faf-4e93-8a4c-9b7df65ec1cd
+:END:
+#+title: HIP 113100
+#+filetags: :System:
+HIP 113100 is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:c922c15d-45e2-4a2e-950d-64c1dd9243ea][0346 HIP 113100 Visitor Beacon]]

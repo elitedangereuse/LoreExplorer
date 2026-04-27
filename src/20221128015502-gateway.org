@@ -2,8 +2,10 @@
 :ID:       e179ecca-9ab3-4184-b05e-107b2e6932c2
 :END:
 #+title: Gateway
-#+filetags: :System:Federation:Alliance:
-* 0124 [[id:e179ecca-9ab3-4184-b05e-107b2e6932c2][Gateway]] History                                  :beacon:EliteHistory:
+#+filetags: :System:Tourist:History:beacon:Alliance:Federation:
+* 0124 [[id:e179ecca-9ab3-4184-b05e-107b2e6932c2][Gateway]] History
+[[id:e179ecca-9ab3-4184-b05e-107b2e6932c2][Gateway]]
+
 Gateway was originally known as [[id:db4ef902-ee84-4f55-87df-868696045693][Oltiqu]], but renamed when the Alliance
 was founded in 3230. The system had originally been under Federation
 jurisdiction after being colonised in 2473 to be used as a [[id:073807b3-2430-4b9a-b61b-3655594fda55][military]]

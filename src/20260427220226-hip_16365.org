@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       25267b8a-d9a7-4dab-9ae8-aca71c82a7b8
+:END:
+#+title: HIP 16365
+#+filetags: :System:
+HIP 16365 is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:43bedbf1-ae8e-438b-90aa-7c4f98ae2d68][0351 HIP 16365 Visitor Beacon]]

@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       c922c15d-45e2-4a2e-950d-64c1dd9243ea
+:END:
+#+title: HIP 113100 Visitor Beacon
+#+filetags: :Tourist:Visitor:beacon:
+* 0346 HIP 113100 Visitor Beacon
+[[id:718fcfc0-9faf-4e93-8a4c-9b7df65ec1cd][HIP 113100]]
+
+Most visitors head for the tourist traps on the outdoor world or the water world.

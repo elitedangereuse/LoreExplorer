@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       6dec0302-6b62-4a55-b7e2-fc6cf3a65fe1
+:END:
+#+title: Sorbago
+#+filetags: :System:
+Sorbago is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:a21c06ee-69c8-4cc2-ba18-39338935bf80][0156 Sorbago Slave Rebellion]]

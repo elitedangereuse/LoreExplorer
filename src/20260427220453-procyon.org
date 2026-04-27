@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       6559bb6d-5d0b-41da-963e-d3400f7a22e4
+:END:
+#+title: Procyon
+#+filetags: :System:
+Procyon is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:de6231a7-c201-46e8-b94c-1cad90e8af91][0454 Procyon Visitor Beacon]]

@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       28b8f169-f61c-462b-931d-1a44eb81b353
+:END:
+#+title: Velnambe
+#+filetags: :System:
+Velnambe is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:3e0e2a4d-9701-4a18-aaf7-db84e5e22ce8][0485 Velnambe Visitor Beacon]]

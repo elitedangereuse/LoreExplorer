@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       e74005db-60de-4b65-8517-d75a5d97484a
+:END:
+#+title: Mokusa
+#+filetags: :System:
+Mokusa is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:dbb6c194-3d1b-4005-80c2-17533787aeb7][0429 Mokusa Visitor Beacon]]

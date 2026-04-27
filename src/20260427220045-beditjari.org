@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       23bedb5d-fbce-46f1-916a-5ed6e7146409
+:END:
+#+title: Beditjari
+#+filetags: :System:
+Beditjari is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:45e0562c-110b-48d4-9caa-f709f7fb66f3][0288 Beditjari Visitor Beacon]]
+- [[id:4d1365c3-cb22-4304-a792-5dc2e3e865d0][0578 Beditjari A 4 C Ice Geysers]]
+- [[id:ef666da8-2e7d-450a-b953-bd55ea2dd41d][0579 Beditjari A 4 B Ice Geysers]]

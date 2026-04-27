@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       294d5b30-4378-4452-b11e-7eb8a22745bc
+:END:
+#+title: HIP 118311 Visitor Beacon
+#+filetags: :Tourist:Visitor:beacon:
+* 0348 HIP 118311 Visitor Beacon
+[[id:7d31f6ee-f620-4ad2-a4c4-2ab7c3daeef4][HIP 118311]]
+
+The views from the icy moon of it's parent's mixed rocky and ice rings are one of the highlights for tourists in this star system.

@@ -2,9 +2,9 @@
 :ID:       488e1834-b900-4b71-be5d-5d7396994355
 :END:
 #+title: Rockforth Corporation Founding
-#+filetags: :Federation:2673:beacon:
+#+filetags: :Tourist:History:beacon:2673:Federation:
 * 0214 Rockforth Corporation Founding
-[[id:7075359f-79ca-4a24-88da-64f22e6b024a][Ackwada]]
+[[id:77a7a843-4242-4da8-a764-c1525e6ceefe][Ackwada]]
 
 The [[id:a7056ff8-e67d-4ca9-baf1-7e5df3efa677][Rockforth Corporation]] was founded on [[id:77a7a843-4242-4da8-a764-c1525e6ceefe][Ackwada]] by the Rockforth
 Family in 2673, the family that first settled the world.

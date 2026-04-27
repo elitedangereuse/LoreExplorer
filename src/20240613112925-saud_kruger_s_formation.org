@@ -2,7 +2,7 @@
 :ID:       8a3dcfef-b18a-4c45-aec5-498221f72376
 :END:
 #+title: Saud Kruger's Formation
-#+filetags: :3270:beacon:
+#+filetags: :Tourist:History:beacon:3270:
 * 0226 Saud Kruger's Formation
 [[id:4ee2a5f7-7b84-4261-aeb9-ebcddc41ad7c][Bedaho]]
 

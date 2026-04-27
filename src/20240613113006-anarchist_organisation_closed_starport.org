@@ -2,7 +2,7 @@
 :ID:       4f88d144-cdd1-4bf7-8adc-84df8176e66a
 :END:
 #+title: Anarchist Organisation Closed Starport
-#+filetags: :Death:3302:beacon:
+#+filetags: :Tourist:History:beacon:3302:Death:
 * 0669 Anarchist Organisation Closed Starport
 [[id:b555bc13-0686-4eb7-b73f-a1116908fad9][Elli]]
 

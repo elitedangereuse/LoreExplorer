@@ -2,7 +2,7 @@
 :ID:       845bbf4d-9ed1-46d6-a46d-9fc81bc08b71
 :END:
 #+title: Slough Orbital - The Cheese Wheel Bar
-#+filetags: :beacon:
+#+filetags: :Tourist:History:beacon:
 * 0502 Slough Orbital - The Cheese Wheel Bar
 [[id:d1bba344-07ca-41d9-b03a-5981d697033a][Vesper-M4]]
 

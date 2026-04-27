@@ -2,7 +2,7 @@
 :ID:       460a899b-032e-4216-b135-97b417ba6ff8
 :END:
 #+title: Blue Planet
-#+filetags: :beacon:
+#+filetags: :Tourist:History:beacon:
 * 0703 Blue Planet
 [[id:9cf1f79e-2474-4252-a9fd-c4420e942dc7][LP 339-7]]
 

@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       fcf1cadf-5240-4b17-ba12-9a891ba2b983
+:END:
+#+title: HIP 16094
+#+filetags: :System:
+HIP 16094 is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:0c71daf9-c0f5-4886-882a-ebf2c193d013][0350 HIP 16094 Visitor Beacon]]

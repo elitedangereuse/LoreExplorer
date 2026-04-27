@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       cc7105f6-e672-4af0-bb45-787f8c3ca210
+:END:
+#+title: Pictavul
+#+filetags: :System:
+Pictavul is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:9d419542-860b-4f4a-b9df-62606c977ddb][0452 Pictavul Visitor Beacon]]

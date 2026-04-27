@@ -2,7 +2,7 @@
 :ID:       2490f4fa-a930-4e1a-9695-ebd5d4fe8f51
 :END:
 #+title: The Colonia Connection
-#+filetags: :beacon:
+#+filetags: :Tourist:History:beacon:
 * 0681 The [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] Connection
 [[id:2de1afc0-4c9d-4e31-bc15-ba9961087ddd][Latugara]]
 

@@ -2,7 +2,7 @@
 :ID:       45b23472-3cae-4cbf-a0a5-f93256af1999
 :END:
 #+title: Distant Stars Expedition 3303
-#+filetags: :Expedition:3303:beacon:
+#+filetags: :Tourist:History:beacon:3303:Expedition:
 * 0706 Distant Stars Expedition 3303
 [[id:a58fae59-706b-44a8-a3a5-a3b43d1481de][Outotch SA-U D4-0]]
 

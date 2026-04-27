@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       bd92893f-3ece-472a-97ce-f56bfb543a9d
+:END:
+#+title: Ither
+#+filetags: :System:
+Ither is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:64b2d14d-4cd6-4507-812a-f8229c213dc7][0380 Ither Visitor Beacon]]

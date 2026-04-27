@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       91630330-3add-4766-9aec-f66444b6a554
+:END:
+#+title: HIP 42455 B 2 A Ice Geyser
+#+filetags: :Tourist:beacon:
+* 0582 HIP 42455 B 2 A Ice Geyser
+[[id:ae8d5e7b-2b0a-481c-9f07-a28b962a3049][HIP 42455]]
+
+Ice geysers can be caused by external heating (such as from a star), as well as by increases in internal pressure.

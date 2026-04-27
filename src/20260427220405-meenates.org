@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       7fa315a0-9eb3-4132-817f-dbd40f40b71d
+:END:
+#+title: Meenates
+#+filetags: :System:
+Meenates is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:c56aeae0-62b3-4709-8383-205e1f9aceea][0424 Meenates Visitor Beacon]]
+- [[id:b0ac3d8c-b28f-470a-8fdc-4fa265374d6d][0617 Meenates 4 A Ice Geysers]]

@@ -2,9 +2,9 @@
 :ID:       365ddfa9-d038-4d68-b9db-f6b8c81a9303
 :END:
 #+title: Early Hyperspace
-#+filetags: :3300:beacon:
+#+filetags: :Tourist:History:beacon:3300:
 * 0166 Early Hyperspace
-[[id:da11b7b5-2c5a-4f17-9cd4-ce28a2f34dbd][Tau Ceti]]
+[[id:000181d2-87fb-4eac-9c05-378082def97f][Tau Ceti]]
 
 The 22nd century saw early pioneering projects begin to take
 shape. The discovery of a workable hyperspace theory and the design of

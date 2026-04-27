@@ -2,7 +2,7 @@
 :ID:       fcf3d94e-5acb-473a-a89a-fed30e6e9d05
 :END:
 #+title: The Birthright Wars
-#+filetags: :Federation:2735:2621:beacon:
+#+filetags: :Tourist:History:beacon:2621:2735:Federation:
 * 0181 The Birthright Wars
 [[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]]
 

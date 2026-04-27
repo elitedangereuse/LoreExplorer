@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       1fc0f31a-6caa-4b7e-b694-94ed372f694e
+:END:
+#+title: Apisulfr
+#+filetags: :System:
+Apisulfr is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:e7a32aca-a896-4659-8b5d-4535015b4f70][0277 Apisulfr Visitor Beacon]]

@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       b3e87a74-f1c4-4c62-b8eb-6b100f29e1e7
+:END:
+#+title: Akonito
+#+filetags: :System:
+Akonito is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:64192b98-378c-43a4-8d92-f0bc4d13e992][0270 Akonito Visitor Beacon]]

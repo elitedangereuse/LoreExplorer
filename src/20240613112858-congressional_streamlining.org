@@ -2,7 +2,7 @@
 :ID:       1ed6c6af-182b-4037-b31e-d6f9d76d2427
 :END:
 #+title: Congressional Streamlining
-#+filetags: :Federation:beacon:
+#+filetags: :Tourist:History:beacon:Federation:
 * 0180 Congressional Streamlining
 [[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]]
 

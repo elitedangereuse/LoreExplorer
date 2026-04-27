@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       7d8e43f2-8fd0-4801-ac2a-62f364dda2cb
+:END:
+#+title: Bunuson
+#+filetags: :System:
+Bunuson is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:a75f54a6-4d6b-4499-8e65-48e1813374eb][0292 Bunuson Visitor Beacon]]

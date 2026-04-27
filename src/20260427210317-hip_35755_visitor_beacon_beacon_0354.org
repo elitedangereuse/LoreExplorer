@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       0aadd60a-2587-4b5e-b946-04a4b7e82a48
+:END:
+#+title: HIP 35755 Visitor Beacon
+#+filetags: :Tourist:Visitor:beacon:
+* 0354 HIP 35755 Visitor Beacon
+[[id:2a6de961-5c58-4e94-85a6-180eaabeb180][HIP 35755]]
+
+This rocky moon provides great views of the gas giant it orbits, and the ring system. The gas giant is also a popular site for research into the organnisms living in its atmosphere.

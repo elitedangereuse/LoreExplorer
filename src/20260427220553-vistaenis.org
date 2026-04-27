@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       9d017590-3b88-41d4-be50-c15545e9de02
+:END:
+#+title: Vistaenis
+#+filetags: :System:
+Vistaenis is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:aeb6323b-cb64-4ed5-b5cc-9600b6c830b9][0488 Vistaenis Visitor Beacon]]

@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       ea2fac41-61c6-415f-83bc-b587c73c02ac
+:END:
+#+title: Makum
+#+filetags: :System:
+Makum is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:7470a810-09f6-4cd3-a380-d2ac6eca8256][0419 Makum Visitor Beacon]]

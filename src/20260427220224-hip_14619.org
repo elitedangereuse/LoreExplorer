@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       ad51dc0e-b263-4032-898b-86d8ae2247bc
+:END:
+#+title: HIP 14619
+#+filetags: :System:
+HIP 14619 is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:48a0aa45-abf7-4729-8553-378127aab37c][0349 HIP 14619 Visitor Beacon]]

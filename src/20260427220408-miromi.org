@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       5fd7652a-e258-4537-9ee9-4f38bfbbfcc6
+:END:
+#+title: Miromi
+#+filetags: :System:
+Miromi is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:d5928701-c6bb-488f-ab4f-9124130ebeec][0425 Miromi Visitor Beacon]]

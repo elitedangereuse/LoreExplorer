@@ -2,9 +2,9 @@
 :ID:       bf40b611-5c9a-45ac-96b7-5f6accb21bd9
 :END:
 #+title: The Sirius Convention
-#+filetags: :beacon:
+#+filetags: :Tourist:History:beacon:
 * 0203 The [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Convention
-[[id:3dd2f3c7-3ddf-4900-aa28-580344edd509][Sirius]]
+[[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]]
 
 The [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]] operated under its own strict laws, governing
 workers rights, privileges etc., and also put in place conventions

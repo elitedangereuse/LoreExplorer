@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       0c71daf9-c0f5-4886-882a-ebf2c193d013
+:END:
+#+title: HIP 16094 Visitor Beacon
+#+filetags: :Tourist:Visitor:beacon:
+* 0350 HIP 16094 Visitor Beacon
+[[id:fcf1cadf-5240-4b17-ba12-9a891ba2b983][HIP 16094]]
+
+Traditionally, many a romantic cruise has visited this beautifully ringed ice planet. No one knows how or why the tradition started, but now it is accepted as the done thing.

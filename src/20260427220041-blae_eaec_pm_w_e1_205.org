@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       5fddf317-26ea-40ba-af38-86c29b47d533
+:END:
+#+title: BLAE EAEC PM-W E1-205
+#+filetags: :System:
+BLAE EAEC PM-W E1-205 is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:a6944380-4f31-4654-b3d7-5f55a4302b40][0014 Neutron Earth-Like]]

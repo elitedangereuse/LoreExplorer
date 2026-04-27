@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       1533c003-108d-4495-b399-5f9dafcbd562
+:END:
+#+title: CN Bootis
+#+filetags: :System:
+CN Bootis is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:1b982218-b31e-4526-9dbd-2d15e3b518b5][0629 Shadragon's Home]]

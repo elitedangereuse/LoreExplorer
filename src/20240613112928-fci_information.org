@@ -2,9 +2,9 @@
 :ID:       dec73b65-266e-4e71-9e4a-dc12ec5a2469
 :END:
 #+title: FCI Information
-#+filetags: :Federation:beacon:
+#+filetags: :Tourist:History:beacon:Federation:
 * 0231 FCI Information
-[[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]]  
+[[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]]
 
 The [[id:d36a4255-5e6b-4322-b40d-6b09529160fa][Federal Criminal Investigations]] agency is the Federation's primary
 domestic security and law enforcement agency. They are numerically

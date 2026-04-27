@@ -2,7 +2,7 @@
 :ID:       2dae30dc-98a8-478d-91f9-a28e3ba6ea68
 :END:
 #+title: Saud Kruger's Growth
-#+filetags: :beacon:
+#+filetags: :Tourist:History:beacon:
 * 0227 Saud Kruger's Growth
 [[id:4ee2a5f7-7b84-4261-aeb9-ebcddc41ad7c][Bedaho]]
 

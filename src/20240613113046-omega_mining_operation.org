@@ -2,7 +2,7 @@
 :ID:       c9a8428d-c6ed-4493-859f-0654c5784a5c
 :END:
 #+title: Omega Mining Operation
-#+filetags: :beacon:
+#+filetags: :Tourist:History:beacon:
 * ER01. Omega Mining Operation
 [[id:4a969d51-8e07-46dc-b0bc-19e007d21c9d][Omega Sector VE-Q B5-15]]
 

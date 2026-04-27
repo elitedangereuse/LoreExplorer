@@ -2,7 +2,7 @@
 :ID:       ac4b179c-b482-442e-9597-f957ff9e25e4
 :END:
 #+title: Origins of the Empire
-#+filetags: :Empire:beacon:
+#+filetags: :Tourist:History:beacon:Empire:
 * 0128  Origins of the Empire
 [[id:bed8c27f-3cbe-49ad-b86f-7d87eacf804a][Achenar]]
 

@@ -2,9 +2,9 @@
 :ID:       91748ef8-f440-47c1-b587-7b783a3fb428
 :END:
 #+title: The Gellan Administration
-#+filetags: :Federation:beacon:
+#+filetags: :Tourist:History:beacon:Federation:
 * 0185 The Gellan Administration
-[[id:7075359f-79ca-4a24-88da-64f22e6b024a][Ackwada]]
+[[id:77a7a843-4242-4da8-a764-c1525e6ceefe][Ackwada]]
 
 In 2862, the Presidential election was won by [[id:77091a28-dc28-405d-bb97-c32a1aecdd33][Isaac Gellan]], whose
 administration marked a new turn for the Federation in interstellar

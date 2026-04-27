@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       99de693f-ba34-4c2f-a3ab-1d4fe4ea2fe4
+:END:
+#+title: HR 5529
+#+filetags: :System:
+HR 5529 is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:5322ca32-20d8-446a-914f-e795c308042c][0370 HR 5529 Visitor Beacon]]

@@ -2,7 +2,7 @@
 :ID:       267c1cc5-9f1c-4e08-b436-dd72f3b603fc
 :END:
 #+title: Sirius Industrial
-#+filetags: :beacon:
+#+filetags: :Tourist:History:beacon:
 * 0207 [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Industrial
 [[id:5817a2f2-d8af-4c78-9401-490abe32564b][Luyten's Star]]
 

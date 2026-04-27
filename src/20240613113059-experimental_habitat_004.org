@@ -2,7 +2,7 @@
 :ID:       159e3a6f-f006-437b-abe5-a4c81dcbd05d
 :END:
 #+title: Experimental Habitat 004
-#+filetags: :beacon:
+#+filetags: :Tourist:History:beacon:
 * EX04. Experimental Habitat 004
 [[id:b50e4d30-4e47-4d98-93b5-284ac4914930][Eol Prou PC-K c9-154]]
 

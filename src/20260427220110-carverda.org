@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       4655fa31-552a-44b9-83ad-e93be3d0222d
+:END:
+#+title: Carverda
+#+filetags: :System:
+Carverda is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:83ddf775-a525-4191-9dd7-342e49e72939][0295 Carverda Visitor Beacon]]

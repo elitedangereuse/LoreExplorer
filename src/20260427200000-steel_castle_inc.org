@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       a0de9a01-d94e-43bd-8bd4-4c607c6c21e0
+:END:
+#+title: Steel Castle Inc
+#+filetags: :Corporation:
+
+Steel Castle Inc is an orbital construction company specialising in
+Coriolis starports. Its director is [[id:e5315e3a-50ef-4f11-bd17-4bfca3607622][Dean Bradigan]].
+

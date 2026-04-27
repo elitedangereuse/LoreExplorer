@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       05cd22e1-82de-4fd6-b102-3d8013c9e0fb
+:END:
+#+title: LTT 9164
+#+filetags: :System:
+LTT 9164 is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:5d5606b4-5cd3-46fc-9fb7-ddda74c3263d][0418 LTT 9164 Visitor Beacon]]

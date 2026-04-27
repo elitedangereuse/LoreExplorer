@@ -2,9 +2,9 @@
 :ID:       1effb95a-69f5-43d7-a32c-d55f86eb990a
 :END:
 #+title: Lanner's Privateers
-#+filetags: :Federation:beacon:
+#+filetags: :Tourist:History:beacon:Federation:
 * 0132  Lanner's Privateers
-[[id:7075359f-79ca-4a24-88da-64f22e6b024a][Ackwada]]
+[[id:77a7a843-4242-4da8-a764-c1525e6ceefe][Ackwada]]
 
 In 2865, a request from the Rockforth Corporation reached the Emperor
 for assistance in the [[id:77a7a843-4242-4da8-a764-c1525e6ceefe][Ackwada]] system against the Federation. At the

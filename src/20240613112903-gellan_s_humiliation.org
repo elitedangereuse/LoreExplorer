@@ -2,9 +2,9 @@
 :ID:       61410acc-b6b5-4cf2-a171-f064123841f9
 :END:
 #+title: Gellan's Humiliation
-#+filetags: :Federation:beacon:
+#+filetags: :Tourist:History:beacon:Federation:
 * 0189 Gellan's Humiliation
-[[id:7075359f-79ca-4a24-88da-64f22e6b024a][Ackwada]]
+[[id:77a7a843-4242-4da8-a764-c1525e6ceefe][Ackwada]]
 
 In 2872, now out of Federal prison and with the numerous enquiries
 that followed the incidents over, [[id:77091a28-dc28-405d-bb97-c32a1aecdd33][Gellan]], still a wealthy man,

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2d3de2cc-8b02-4cb6-9b01-5e44bab46b2f
+:END:
+#+title: HIP 111755
+#+filetags: :System:
+HIP 111755 is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:d4ecdca3-a3d5-4b1c-9fde-273ffe9a88cd][0343 HIP 111755 Visitor Beacon]]
+- [[id:189ca24e-cc33-4a57-a9a7-8f3053a71f01][0554 HIP 111755 A 2 Gas Vents]]
+- [[id:e53a5d5f-a19d-465b-ba91-a3f5d6ab0df8][0566 HIP 111755 A 1 Rock Fumarole]]

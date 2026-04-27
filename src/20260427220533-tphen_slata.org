@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       f76d2761-0bd1-41b2-b286-3931ebfca027
+:END:
+#+title: Tphen Slata
+#+filetags: :System:
+Tphen Slata is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:90938f41-8f11-4877-87dc-14dbfcd360bb][0476 Tphen Slata Visitor Beacon]]
+- [[id:3af0ec27-0c02-4510-8d17-fc867bd3fce9][0597 Tphen Slata C 7 A Ice Geysers]]
+- [[id:af1dae0d-b36f-47a2-b8e0-107030aa55d9][0601 Tphen Slata C 8 A Ice Geysers]]
+- [[id:20a63a9f-2c02-4cc2-aae3-738e32756d36][0608 Tphen Slata C 7 E Ice Geysers]]
+- [[id:60f60dfd-6397-4915-857b-fc06c0271fed][0618 Tphen Slata C 9 A Ice Geysers]]

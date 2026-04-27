@@ -2,7 +2,7 @@
 :ID:       90a69fb4-2557-4c80-80b4-acfb3543fb10
 :END:
 #+title: Alliance Council Members
-#+filetags: :Alliance:beacon:
+#+filetags: :Tourist:History:beacon:Alliance:
 * 0116 Alliance Council Members
 [[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]]
 

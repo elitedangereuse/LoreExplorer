@@ -2,7 +2,7 @@
 :ID:       883c2b0a-3fd3-44a9-bd71-fcc318fa5a8d
 :END:
 #+title: Thomaski Point
-#+filetags: :beacon:
+#+filetags: :Tourist:History:beacon:
 * 0708 Thomaski Point
 [[id:b641744b-4037-4e0d-b0d7-c470991111e7][Slaiyooe OX-L d7-0]]
 

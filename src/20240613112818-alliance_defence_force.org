@@ -3,7 +3,7 @@
 :ROAM_ALIASES: ADF
 :END:
 #+title: Alliance Defence Force
-#+filetags: :Alliance:beacon:
+#+filetags: :Tourist:History:beacon:Alliance:
 * 0114 [[id:17d9294e-7759-4cf4-9a67-5f12b5704f51][Alliance Defence Force]]
 [[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]]
 

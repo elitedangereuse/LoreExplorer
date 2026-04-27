@@ -2,7 +2,7 @@
 :ID:       0a1b1fe5-9e9d-4fff-a123-5c6d4f90e9cc
 :END:
 #+title: Accidental Extinction
-#+filetags: :beacon:
+#+filetags: :Tourist:History:beacon:
 * 0170 Accidental Extinction
 [[id:595aa273-d1b3-44fd-9f16-ddc7291b4bee][Delta Pavonis]]
 

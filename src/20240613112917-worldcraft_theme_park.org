@@ -2,7 +2,7 @@
 :ID:       bc224d86-f50a-4250-b8b6-1185f20d887d
 :END:
 #+title: WorldCraft Theme Park
-#+filetags: :1960:beacon:
+#+filetags: :Tourist:History:beacon:1960:
 * 0213 WorldCraft Theme Park
 [[id:a17c479c-5ee8-42c1-8fee-22cbf1407db9][Epsilon Eridani]]
 

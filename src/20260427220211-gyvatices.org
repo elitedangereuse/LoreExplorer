@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       00c264cc-3e6a-4823-b20e-1e1beafb1ed6
+:END:
+#+title: Gyvatices
+#+filetags: :System:
+Gyvatices is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:bbefc11b-9732-4752-abd1-246017ec587c][0335 Gyvatices Visitor Beacon]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       19ea7ce6-f3ad-48e6-b8bb-c9be9e074b20
+:END:
+#+title: Nortes
+#+filetags: :System:
+Nortes is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:f8dd3bd9-5e99-4e29-ae8c-daf08e88f5b1][0444 Nortes Visitor Beacon]]
+- [[id:b6b480f3-5148-4bac-a554-e0960dbda11c][0586 Nortes 2 C Rock Fumarole]]
+- [[id:1ef2e0d6-0824-41aa-b236-2e68d4de1758][0611 Nortes 2 D Lava Spouts]]

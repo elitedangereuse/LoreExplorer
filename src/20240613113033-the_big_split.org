@@ -2,7 +2,7 @@
 :ID:       16e343cd-bd42-4d09-898d-6ffa906ec09a
 :END:
 #+title: The Big Split
-#+filetags: :beacon:
+#+filetags: :Tourist:History:beacon:
 * 0700 The Big Split
 [[id:9cf1f79e-2474-4252-a9fd-c4420e942dc7][LP 339-7]]
 

@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       4730b731-2aa6-4edd-aeef-316c33368270
+:END:
+#+title: Shanhauls
+#+filetags: :System:
+Shanhauls is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:7472a79e-790b-4245-9749-71464ca101cd][0463 Shanhauls Visitor Beacon]]

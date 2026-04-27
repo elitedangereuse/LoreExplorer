@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       81c8f117-d5c4-47d1-a139-0d47b0549076
+:END:
+#+title: Dassareti
+#+filetags: :System:
+Dassareti is associated with the following tourist beacons:
+
+* Tourist beacons
+- [[id:4704ba87-5740-4e96-80e9-090916f41202][0311 Dassareti Visitor Beacon]]
+- [[id:ac1bfd9f-e397-45c8-b555-7c2d13f632fd][0555 Dassareti 3 B Ice Geyser]]

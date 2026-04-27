@@ -2,3 +2,7 @@
 :ID:       2dc1b92f-4bdc-4504-ad5f-a9c5794155dc
 :END:
 #+title: Kumo Council
+
+The Kumo Council administers starports and local operations for the
+[[id:1dfc7c53-642a-4404-a8e8-16a8cc18482a][Kumo Crew]], including
+[[id:82a0f345-bc03-4564-897c-b00bcda5b74e][Kumo City]].
