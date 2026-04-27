@@ -1273,14 +1273,19 @@ function buildAppearanceData() {
   );
 }
 
-function getNodeMetricValue(node, mode) {
-  if (mode === "links") {
-    return node.degree || 0;
-  }
-  if (mode === "backlinks") {
-    return node.inbound || 0;
-  }
-  return 0;
+function logNormalize(value, min, max) {
+  const safeValue = Math.max(0, value);
+  const safeMin = Math.max(0, min);
+  const safeMax = Math.max(0, max);
+
+  if (safeMax === safeMin) return 0.5;
+
+  return clamp(
+    (Math.log1p(safeValue) - Math.log1p(safeMin)) /
+      (Math.log1p(safeMax) - Math.log1p(safeMin)),
+    0,
+    1
+  );
 }
 
 function getNodeColor(node) {
@@ -1296,9 +1301,23 @@ function getNodeColor(node) {
 
   const metric = getNodeMetricValue(node, state.colorMode);
   const range = state.metricExtents.get(state.colorMode) || { min: 0, max: 1 };
-  const normalized = range.max === range.min ? 0.5 : clamp((metric - range.min) / (range.max - range.min), 0, 1);
-  const eased = Math.pow(normalized, 0.7);
+
+  const normalized = logNormalize(metric, range.min, range.max);
+
+  // Optional: keep or reduce easing. With log normalization, 0.7 may be too strong.
+  const eased = Math.pow(normalized, 0.9);
+
   return interpolateColor("#37689b", "#ffd46b", eased);
+}
+
+function getNodeMetricValue(node, mode) {
+  if (mode === "links") {
+    return node.degree || 0;
+  }
+  if (mode === "backlinks") {
+    return node.inbound || 0;
+  }
+  return 0;
 }
 
 function hasActiveGraphTagFilters() {
