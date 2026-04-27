@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       a65fc0a0-6116-4c04-bb30-063687a20b2c
+:END:
+#+title: Kavanagh Spaceframes Ltd
+#+filetags: :Corporation:
+
+Kavanagh Spaceframes Ltd was contracted by the [[id:7aae0550-b8ba-42cf-b52b-e7040461c96f][Kumo Council]] to
+construct new Orbis starports, including [[id:9c28cea7-e9c6-41cd-901d-7a071dc5b406][California Freeport]].
+

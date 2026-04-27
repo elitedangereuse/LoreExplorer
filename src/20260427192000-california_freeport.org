@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9c28cea7-e9c6-41cd-901d-7a071dc5b406
+:END:
+#+title: California Freeport
+#+filetags: :Station:
+
+[[id:e8341944-ebda-4a16-9ad2-0b6e9405d8b7][HIP 18390]]
+
+California Freeport is an Orbis starport established by the
+[[id:7aae0550-b8ba-42cf-b52b-e7040461c96f][Kumo Crew]] in the [[id:6fee136e-381f-47a2-ba13-6d74c8798803][California Nebula]].
+

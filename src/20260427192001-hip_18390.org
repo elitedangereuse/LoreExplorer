@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       e8341944-ebda-4a16-9ad2-0b6e9405d8b7
+:END:
+#+title: HIP 18390
+#+filetags: :System:
+
+[[id:9c28cea7-e9c6-41cd-901d-7a071dc5b406][California Freeport]]
+
+HIP 18390 is a system near the [[id:6fee136e-381f-47a2-ba13-6d74c8798803][California Nebula]].
