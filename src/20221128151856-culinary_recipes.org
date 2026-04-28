@@ -2,5 +2,4 @@
 :ID:       528fdf07-ef32-4a7e-9bec-beae1cc93cf9
 :END:
 #+title: Culinary Recipes
-#+filetags: :Component:
-
+#+filetags: :Data:

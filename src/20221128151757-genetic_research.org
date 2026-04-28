@@ -2,6 +2,6 @@
 :ID:       3153eb5b-894a-41df-ba7a-eec002923dd1
 :END:
 #+title: Genetic Research
-#+filetags: :Component:
+#+filetags: :Data:
 
 [[id:112b5795-655f-4cc1-9995-b7aa39cb27c4][Research]]

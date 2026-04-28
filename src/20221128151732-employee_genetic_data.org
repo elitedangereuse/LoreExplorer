@@ -2,5 +2,4 @@
 :ID:       c70a9fea-50a3-4492-9dcd-65dc1bbdf71f
 :END:
 #+title: Employee Genetic Data
-#+filetags: :Component:
-
+#+filetags: :Data:

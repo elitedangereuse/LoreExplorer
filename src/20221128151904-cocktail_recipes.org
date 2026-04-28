@@ -2,6 +2,4 @@
 :ID:       89d50716-eb98-413b-8f5c-2bb7602f3f46
 :END:
 #+title: Cocktail Recipes
-#+filetags: :Component:
-
-
+#+filetags: :Data:

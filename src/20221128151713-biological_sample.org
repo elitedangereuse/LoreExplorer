@@ -2,5 +2,4 @@
 :ID:       70557ed0-463a-4cb3-99a8-379ab456e61a
 :END:
 #+title: Biological Sample
-#+filetags: :Component:
-
+#+filetags: :Good:

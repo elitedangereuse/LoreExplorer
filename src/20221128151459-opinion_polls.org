@@ -2,5 +2,4 @@
 :ID:       d22c7b5b-2965-452f-9b1c-77de0b601cf8
 :END:
 #+title: Opinion Polls
-#+filetags: :Component:
-
+#+filetags: :Data:

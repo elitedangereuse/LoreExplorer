@@ -2,4 +2,4 @@
 :ID:       14203bd7-c4c0-4c60-a2e6-ef115a646465
 :END:
 #+title: Decoded Emission Data
-#+filetags: :Component:
+#+filetags: :Encoded:Material:

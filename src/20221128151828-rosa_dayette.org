@@ -11,4 +11,4 @@ Common knowledge.
 Sell a total of 10 [[id:528fdf07-ef32-4a7e-9bec-beae1cc93cf9][Culinary Recipes]] or [[id:89d50716-eb98-413b-8f5c-2bb7602f3f46][Cocktail Recipes]] to stations in
 [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]].
 * Referral requirements
-Provide 10 units of [[id:96b9711c-d642-408a-916c-a762617c1f88][Manufacturing Instructions data]].
+Provide 10 units of [[id:96b9711c-d642-408a-916c-a762617c1f88][Manufacturing Instructions]] data.

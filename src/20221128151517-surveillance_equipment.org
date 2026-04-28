@@ -2,5 +2,4 @@
 :ID:       55669e4c-6120-4f4a-93a1-ddcc366333c5
 :END:
 #+title: Surveillance equipment
-#+filetags: :Component:
-
+#+filetags: :Good:

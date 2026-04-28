@@ -2,6 +2,4 @@
 :ID:       b0af0a79-ce9f-488a-95fc-180ad88cbc7a
 :END:
 #+title: Aberrant Shield Pattern Analysis
-#+filetags: :Component:
-
-
+#+filetags: :Encoded:Material:

@@ -2,5 +2,4 @@
 :ID:       cef52cae-208a-4802-8e0f-49d9706df19a
 :END:
 #+title: Push
-#+filetags: :Component:
-
+#+filetags: :Good:

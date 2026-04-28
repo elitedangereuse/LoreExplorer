@@ -2,5 +2,4 @@
 :ID:       71135817-e5a8-4344-9b9a-e59f204502eb
 :END:
 #+title: Classified Scan Databanks
-#+filetags: :Component:
-
+#+filetags: :Encoded:Material:

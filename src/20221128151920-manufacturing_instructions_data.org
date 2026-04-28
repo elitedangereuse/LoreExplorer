@@ -1,6 +1,5 @@
 :PROPERTIES:
 :ID:       96b9711c-d642-408a-916c-a762617c1f88
 :END:
-#+title: Manufacturing Instructions Data
-#+filetags: :Component:
-
+#+title: Manufacturing Instructions
+#+filetags: :Data:

@@ -2,5 +2,4 @@
 :ID:       abcab4c6-49d0-4bcc-9d94-fea5316fe5a8
 :END:
 #+title: Faction Associates
-#+filetags: :Component:
-
+#+filetags: :Data:
