@@ -10,7 +10,7 @@
  - [[id:74133f32-c175-450f-bd54-8ecbc8041696][Arcturus]]
  - [[id:d4b595af-536d-4575-af11-f07f3ac3ff40][Arque]]
  - [[id:b21e7cf9-145c-4546-8305-8dc866024f3c][Asellus Primus]]
- - [[id:80ea667a-62b4-4082-bed0-ce253d76869b][Beagle Point]]
+ - [[id:da49a702-3bb4-4dd7-9adf-29188adb2801][Beagle Point]]
  - [[id:4ee2a5f7-7b84-4261-aeb9-ebcddc41ad7c][Bedaho]]
  - [[id:0db1f0b9-a70d-4384-96a5-c1587a8270b1][Beta Hydri]]
  - [[id:35900507-bc1d-4030-a8ee-39b439bba2ed][Canopus]]
@@ -68,4 +68,3 @@
  - [[id:2437a94e-3728-40bd-84d5-541be4c73854][Van Maanen's Star]]
  - [[id:12db1b22-8d5c-482f-a91b-00021258a388][Vega]]
  - [[id:4c65480c-a87b-421b-a91a-f1f1f8ecb737][Zaonce]]
-

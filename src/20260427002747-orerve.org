@@ -9,3 +9,4 @@
 This system is a dull place.
 #+end_quote
 
+[[file:img/systems/orerve.png]]

@@ -14,3 +14,4 @@ remains a haven for pirates. 'Hoopy's Bar' on Quator Station should
 not be confused with the popular casino chain of the 3200s.
 #+end_quote
 
+[[file:img/systems/quator.png]]

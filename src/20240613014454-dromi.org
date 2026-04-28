@@ -13,3 +13,4 @@ high tech stations and a lively mission hub.
 
 #+filetags: :System:Permit:
 [[file:img/permit.png]]
+[[file:img/systems/dromi.png]]

@@ -19,3 +19,4 @@ Sirius Corporation faction.
 
 - Faction: [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][The Sirius Corporation]]
 - Benefits: Decent outfitting, is the location of an engineer.
+[[file:img/systems/sirius.png]]

@@ -26,3 +26,4 @@ visitation by those who have not been granted access.
 #+end_quote
 
 [[file:img/permit.png]]
+[[file:img/systems/phekda.png]]

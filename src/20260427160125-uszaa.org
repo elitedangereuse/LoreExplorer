@@ -11,3 +11,4 @@ the Uszaian tree grub.
 #+end_quote
 
 Rare commodity source: [[id:38ca2282-281d-4561-bbaf-a617e378fd47][Uszaian Tree Grub]] at [[id:6e796043-8fe8-4bbe-b37e-fe3c72009781][Guest Installation]].
+[[file:img/systems/uszaa.png]]

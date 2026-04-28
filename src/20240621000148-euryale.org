@@ -13,3 +13,4 @@ to the Colonial Drones corporation.'Affordable drone technology for
 all.'
 #+end_quote
 
+[[file:img/systems/euryale.png]]

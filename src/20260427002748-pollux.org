@@ -9,3 +9,4 @@
 A quiet extraction system also known as Beta Geminorum.
 #+end_quote
 
+[[file:img/systems/pollux.png]]

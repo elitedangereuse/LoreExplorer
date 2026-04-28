@@ -19,3 +19,4 @@ the vicinity of Prism and serves as a bulwark against incursion into
 Imperial territory.
 #+end_quote
 
+[[file:img/systems/prism.png]]

@@ -17,3 +17,4 @@ events, Universal Cartographics officially renamed the system Beagle
 Point on the 26th of May 3302.
 #+end_quote
 
+[[file:img/systems/beagle point.png]]

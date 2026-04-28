@@ -11,3 +11,4 @@ visit. Many exotic food stuffs are grown here. The scenery is
 strikingly beautiful, though the wildlife can be a little dangerous.
 #+end_quote
 
+[[file:img/systems/quince.png]]
