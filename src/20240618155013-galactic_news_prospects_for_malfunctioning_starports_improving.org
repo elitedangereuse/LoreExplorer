@@ -8,10 +8,10 @@
 
 /30 Aug 3302/
 
-Technical personnel at New Dawn Station in the Ceos system have announced a breakthrough in the ongoing fight against the so-called technological plague. 
+Technical personnel at New Dawn Station in the [[id:b2c6ac00-f672-4305-b256-051c78be1dbf][Ceos]] system have announced a breakthrough in the ongoing fight against the so-called [[id:002fd942-f71a-4d8f-a431-4ad26857c771][technological plague]].
 
-Tag Arthurs, head of the starport's technical team, released the following statement to news feeds: 
+Tag Arthurs, head of the starport's technical team, released the following statement to news feeds:
 
-"Although our understanding of meta-alloys remains incomplete, we are now able to apply them much more efficiently. Consequently, we now need much smaller quantities of meta-alloys to return a malfunctioning starport to functionality – half as much as we used to, in fact." 
+"Although our understanding of meta-alloys remains incomplete, we are now able to apply them much more efficiently. Consequently, we now need much smaller quantities of meta-alloys to return a malfunctioning starport to functionality – half as much as we used to, in fact."
 
-"We've also determined that the week immediately following the first signs of Unknown Artefact-related interference is a critical one. If an affected starport can be supplied with meta-alloys within that week, it is far less likely that the situation at the starport will worsen."
+"We've also determined that the week immediately following the first signs of [[id:d17a9775-b9b5-4d26-b69f-16ced04f52a9][Unknown Artefact]]-related interference is a critical one. If an affected starport can be supplied with meta-alloys within that week, it is far less likely that the situation at the starport will worsen."

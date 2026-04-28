@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       0ce8bd63-c640-40c2-b889-b1fd4ba1d3ae
+:END:
+#+title: Henrik de Lacerda
+#+filetags: :Individual:
+
+A senior engineer at [[id:3808ab0e-fcff-4299-b882-f8c3946f272d][Aegis Research]]
