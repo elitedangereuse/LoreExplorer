@@ -1807,6 +1807,24 @@ code {
     align-items: stretch;
   }
 
+  .graph-toolbar {
+    position: relative;
+  }
+
+  .toolbar-bookmarks,
+  .toolbar-options {
+    position: static;
+  }
+
+  .toolbar-popover {
+    left: 12px;
+    right: 12px;
+    top: calc(100% + 8px);
+    min-width: 0;
+    max-width: none;
+    width: auto;
+  }
+
   .path-controls {
     grid-template-columns: 1fr;
   }
