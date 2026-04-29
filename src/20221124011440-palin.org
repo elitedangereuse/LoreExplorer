@@ -2,7 +2,7 @@
 :ID:       8f63442a-1f38-457d-857a-38297d732a90
 :END:
 #+title: Professor Ishmael Palin
-#+filetags: :3301:Empire:Federation:Alliance:Thargoid:KnowledgeBase:Individual:engineer:
+#+filetags: :3289:3301:3302:3303:3305:Empire:Federation:Alliance:Thargoid:KnowledgeBase:Individual:engineer:
 
 [[file:img/engineers/ishmael_palin.webp]]
 
