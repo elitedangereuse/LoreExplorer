@@ -6,7 +6,6 @@
 :END:
 
 #+begin_quote
-Genetic analysis of a virus and research into its composition,
-symptoms and transmission.
+Genetic analysis of a [[id:dd5abb31-73fb-4390-82ad-33030cb49d38][virus]] and [[id:112b5795-655f-4cc1-9995-b7aa39cb27c4][research]] into its
+composition, symptoms and transmission.
 #+end_quote
-

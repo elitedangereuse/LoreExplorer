@@ -6,10 +6,9 @@
 :END:
 
 #+begin_quote
-Advanced component found in Federal systems. Known to be salvaged
+Advanced component found in [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][Federal]] systems. Known to be salvaged
 from signal sources.
 
-Proprietary composites are a development for the Federal Navy
+Proprietary composites are a development for the [[id:3d268496-1d95-49bc-aca6-49d16a4337c8][Federal Navy]]
 providing increased resilience over standard composites.
 #+end_quote
-

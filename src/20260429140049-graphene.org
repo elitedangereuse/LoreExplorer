@@ -6,6 +6,5 @@
 :END:
 
 #+begin_quote
-A multipurpose carbon allotrope.
+A multipurpose [[id:11011429-059d-446a-8e68-cc8ba47f631b][carbon]] allotrope.
 #+end_quote
-

@@ -9,9 +9,8 @@
 Captured from settlement data point networks. Known to be salvaged
 from signal sources.
 
-Encryption codes are typically very sensitive data because of their
+[[id:e3a0c0aa-8459-4bb2-9135-7f97d5236df1][Encryption]] codes are typically very sensitive data because of their
 use in decrypting confidential information. In the right
 circumstances these can be captured remotely and as such are highly
 sought after by certain people.
 #+end_quote
-

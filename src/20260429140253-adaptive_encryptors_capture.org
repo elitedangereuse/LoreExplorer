@@ -9,10 +9,9 @@
 Discovered in private data beacons salvaged from deep space. Known
 to be salvaged from signal sources.
 
-Polymorphic encryption systems form a state of the art system for
+Polymorphic [[id:e3a0c0aa-8459-4bb2-9135-7f97d5236df1][encryption]] systems form a state of the art system for
 data encryption which are considered untraceable. There are rumours
 that the system has a weakness in state transition with re-encoding,
 and captures of these changes are eagerly sought after by some
 people.
 #+end_quote
-

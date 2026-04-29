@@ -9,7 +9,6 @@
 Collected on planet surfaces.
 
 Ruthenium, Ru, atomic number 44. Melting point 2607K. Ruthenium is
-used for making platinum and palladium alloys. It's also used as a
+used for making [[id:045f7139-ac68-453c-b97f-b61c8a9c370d][platinum]] and [[id:dcc20e2e-26dd-4106-b23b-4df951876173][palladium]] alloys. It's also used as a
 catalist for some chemical processes.
 #+end_quote
-

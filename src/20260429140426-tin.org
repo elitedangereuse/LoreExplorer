@@ -7,8 +7,7 @@
 
 #+begin_quote
 Tin, Sn, atomic number 50. Melting point 505k. Tin is one of the
-first ever metal used in an alloy - notably with copper in
+first ever metal used in an alloy - notably with [[id:705bcc40-0a7b-460c-83a5-a556a5ab3bb7][copper]] in
 prehistory. It's modern day usage is primarily for certain
 specialised alloys.
 #+end_quote
-

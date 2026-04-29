@@ -6,7 +6,6 @@
 :END:
 
 #+begin_quote
-A synthesized virus created by splicing together several different
+A synthesized [[id:dd5abb31-73fb-4390-82ad-33030cb49d38][virus]] created by splicing together several different
 diseases.
 #+end_quote
-

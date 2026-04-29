@@ -10,6 +10,5 @@ Collected on planet surfaces.
 
 Yttrium, Y, atomic number 39. Melting point 1799K. Yttrium is often
 used as a strengthening component for various alloys. It also has
-uses in medicines and superconductors.
+uses in medicines and [[id:94637eec-3dd2-478f-9f38-8930b96a15fe][superconductors]].
 #+end_quote
-

@@ -9,8 +9,7 @@
 Captured from settlement data point networks. Known to be salvaged
 from signal sources.
 
-Symmetric keys provide access controls for encrypted data, often on
-a ship, or even station wide basis. Capturing these provides the
+Symmetric keys provide access controls for [[id:e3a0c0aa-8459-4bb2-9135-7f97d5236df1][encrypted]] data, often
+on a ship, or even station wide basis. Capturing these provides the
 owner (with the right skills and equipment) a valuable access tool.
 #+end_quote
-

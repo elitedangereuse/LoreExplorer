@@ -9,7 +9,7 @@
 Collected from mining asteroids.
 
 Boron is used in ship interior structures, insulation and in the
-creation of polymers and ceramics used in station and ship
+creation of [[id:87f58744-f7fe-46da-b824-fb089a150705][polymers]] and ceramics used in station and ship
 construction. Boron is also used in the manufacture of glass for
 ships and stations, offering greater strength and thermal shock
 resistance than other manufacturing techniques.
@@ -17,4 +17,3 @@ resistance than other manufacturing techniques.
 Other uses include agricultural medicine, insecticides and some
 advanced medicines.
 #+end_quote
-

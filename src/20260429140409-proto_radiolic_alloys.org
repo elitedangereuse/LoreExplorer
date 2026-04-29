@@ -9,6 +9,5 @@
 Specialist component developed during economic boom. Known to be
 salvaged from signal sources.
 
-These advanced alloys use radiation to form complex materials.
+These advanced alloys use [[id:d9bd4ed4-2be0-4b30-a32d-83f85c925daa][radiation]] to form complex materials.
 #+end_quote
-

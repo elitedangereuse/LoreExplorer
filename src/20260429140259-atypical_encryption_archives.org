@@ -8,9 +8,8 @@
 #+begin_quote
 Discovered in private data beacons salvaged from deep space.
 
-The nature of encrypted data makes it difficult to predict its
+The nature of [[id:e3a0c0aa-8459-4bb2-9135-7f97d5236df1][encrypted]] data makes it difficult to predict its
 contents, however certain forms of data have recognisable structures
 even when encrypted. This can then be used to break into the data
 and as such is highly prized in some quarters.
 #+end_quote
-

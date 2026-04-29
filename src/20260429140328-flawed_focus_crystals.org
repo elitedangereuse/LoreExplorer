@@ -10,7 +10,6 @@ Component found in ships: frequently used by combat oriented
 vessels. Known to be salvaged from signal sources.
 
 These crystals contain minor flaws but can be repaired or re-cut for
-use as focus crystals for directed energy systems like lasers, but
+use as [[id:25fab416-83c9-4261-850b-f333cccf14c6][focus crystals]] for directed energy systems like lasers, but
 have not been processed into a useable form.
 #+end_quote
-

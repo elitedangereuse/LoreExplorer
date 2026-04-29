@@ -9,8 +9,7 @@
 Collected on planet surfaces and from asteroids.
 
 Germanium, Ge, atomic number 32. Melting point 1211K. Germanium is
-used in optics and for semiconductors in electronics. Semiconductor
+used in optics and for [[id:0def679f-6fc4-4107-bd99-51a36668a787][semiconductors]] in electronics. Semiconductor
 detectors allow accurate radiological identification and it is also
 commonly used in alloys.
 #+end_quote
-

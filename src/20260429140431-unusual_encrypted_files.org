@@ -10,6 +10,5 @@ Captured from settlement data point networks. Known to be salvaged
 from signal sources.
 
 Data files are often encrypted, on occasion a novel method of
-encryption can be encountered which is usefull elsewhere.
+[[id:e3a0c0aa-8459-4bb2-9135-7f97d5236df1][encryption]] can be encountered which is usefull elsewhere.
 #+end_quote
-

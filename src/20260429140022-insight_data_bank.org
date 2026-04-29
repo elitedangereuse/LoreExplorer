@@ -6,6 +6,5 @@
 :END:
 
 #+begin_quote
-A device designed to store audio-visual data recorded via InSight.
+A device designed to store audio-visual data recorded via [[id:4ed5412b-9643-420c-a9a9-4e16318fea44][InSight]].
 #+end_quote
-

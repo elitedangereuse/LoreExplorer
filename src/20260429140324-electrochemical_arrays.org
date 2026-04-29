@@ -6,11 +6,10 @@
 :END:
 
 #+begin_quote
-Component found in ships: frequently used by military and authority
-vessels. Known to be salvaged from signal sources in anarchy
+Component found in ships: frequently used by [[id:073807b3-2430-4b9a-b61b-3655594fda55][military]] and authority
+vessels. Known to be salvaged from signal sources in [[id:51451993-ada8-47a9-b36c-886274059e24][anarchy]]
 systems.
 
 Electrochemical arrays are used for very small scale detection in
 microfluids.
 #+end_quote
-

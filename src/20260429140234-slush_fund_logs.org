@@ -10,3 +10,5 @@ Details of credit accounts which lack proper accounting, usually for
 illicit reasons.
 #+end_quote
 
+* Related lore
+- [[id:d5026aa6-6751-497d-880e-517baa2578e6][The Consortium]]

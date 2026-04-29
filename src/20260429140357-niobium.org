@@ -12,6 +12,5 @@ Niobium, Nb, atomic number 41. Melting point 2750K. This elements is
 often used in alloys, but its properties also make it useful for
 super-alloys needed for high temperature and extreme pressure
 applications. It's also used in electroceramic applications and
-superconductors.
+[[id:94637eec-3dd2-478f-9f38-8930b96a15fe][superconductors]].
 #+end_quote
-

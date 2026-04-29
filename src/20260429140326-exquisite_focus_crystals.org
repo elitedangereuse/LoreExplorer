@@ -8,7 +8,6 @@
 #+begin_quote
 Used by factions as a reward for mission contracts.
 
-Exquisite focus crystals are finely crafted to ensure optimum
+Exquisite [[id:25fab416-83c9-4261-850b-f333cccf14c6][focus crystals]] are finely crafted to ensure optimum
 performance within laser systems.
 #+end_quote
-

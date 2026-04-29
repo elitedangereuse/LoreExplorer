@@ -7,6 +7,5 @@
 
 #+begin_quote
 Combatant tactics and settlement instructions in the event of a non-
-human attack.
+human [[id:04673d31-5035-4581-b189-60da2755007c][attack]].
 #+end_quote
-

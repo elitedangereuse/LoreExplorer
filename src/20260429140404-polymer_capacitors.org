@@ -6,12 +6,11 @@
 :END:
 
 #+begin_quote
-Component found in ships: frequently used by military and authority
-vessels. Known to be salvaged from signal sources in anarchy
+Component found in ships: frequently used by [[id:073807b3-2430-4b9a-b61b-3655594fda55][military]] and authority
+vessels. Known to be salvaged from signal sources in [[id:51451993-ada8-47a9-b36c-886274059e24][anarchy]]
 systems.
 
-Polymer capacitors are stable and reliable forms of capacitor for
+[[id:87f58744-f7fe-46da-b824-fb089a150705][Polymer]] capacitors are stable and reliable forms of capacitor for
 small scale electronics. They are known for handling overload
 situations without cascade failure.
 #+end_quote
-

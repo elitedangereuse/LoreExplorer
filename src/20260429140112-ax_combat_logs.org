@@ -6,7 +6,6 @@
 :END:
 
 #+begin_quote
-Data related to anti-xeno operations and encounters with hostile
-Thargoid forces.
+Data related to [[id:56ad8af3-baa1-4d0a-acd8-750400d280f4][anti-xeno]] operations and encounters with hostile
+[[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] forces.
 #+end_quote
-

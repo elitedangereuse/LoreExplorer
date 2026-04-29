@@ -6,10 +6,9 @@
 :END:
 
 #+begin_quote
-Advanced component found in Federal systems. Known to be salvaged
+Advanced component found in [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][Federal]] systems. Known to be salvaged
 from signal sources.
 
-Core Dynamics composites are a development by Core Dynamics
+Core Dynamics composites are a development by [[id:4a28463f-cbed-493b-9466-70cbc6e19662][Core Dynamics]]
 providing increased protection over standard composites.
 #+end_quote
-

@@ -7,6 +7,5 @@
 
 #+begin_quote
 Results of clinical experiments and efficacy tests of a particular
-vaccine.
+[[id:9d2a350d-0846-46a6-8e11-e428f1a11b36][vaccine]].
 #+end_quote
-

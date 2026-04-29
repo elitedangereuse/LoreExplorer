@@ -6,8 +6,11 @@
 #+filetags: :ship:Good:Odyssey:
 
 #+begin_quote
-A recreational drug that places the user in state of euphoric
+A recreational [[id:50e5a3c1-a834-4b39-8471-f3fcd22ad82c][drug]] that places the user in state of euphoric
 oblivion, sometimes for as long as four days.
 #+end_quote
+
+* Related lore
+- [[id:d5026aa6-6751-497d-880e-517baa2578e6][The Consortium]]
 
 [[id:951f3d20-c3aa-41cc-ba58-cc7d3a5a1d07][Generation Ship]]

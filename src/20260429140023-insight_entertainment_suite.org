@@ -6,7 +6,6 @@
 :END:
 
 #+begin_quote
-A selection of augmented-reality games for use with an InSight
+A selection of augmented-reality games for use with an [[id:4ed5412b-9643-420c-a9a9-4e16318fea44][InSight]]
 device.
 #+end_quote
-

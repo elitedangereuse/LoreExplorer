@@ -12,6 +12,5 @@ from signal sources.
 Control software for industrial hardware interfaces normally follows
 strict operational and installation guidelines. Cracked versions of
 these can be found, but are often kept secret as such industrial
-espionage is punished severely, making these cracks quite valuable.
+[[id:762a66d3-c7f1-4653-a6dd-3b210c7ba151][espionage]] is punished severely, making these cracks quite valuable.
 #+end_quote
-

@@ -6,6 +6,5 @@
 :END:
 
 #+begin_quote
-A compound of tungsten and carbon.
+A compound of [[id:94a88123-2601-4c2d-8efe-b6819c387056][tungsten]] and [[id:11011429-059d-446a-8e68-cc8ba47f631b][carbon]].
 #+end_quote
-

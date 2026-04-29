@@ -7,10 +7,9 @@
 
 #+begin_quote
 Advanced component used by factions in times of war. Known to be
-salvaged from signal sources in systems in a state of civil war or
-war.
+salvaged from signal sources in systems in a state of [[id:6be54d33-4470-47b2-8768-2b46bb51c3aa][civil war]]
+or [[id:1f37cad9-f017-4253-ae21-915fee1285a2][war]].
 
 Military grade alloys provide an overall improved protection over
 standard alloys.
 #+end_quote
-

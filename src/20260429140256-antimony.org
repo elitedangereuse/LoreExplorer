@@ -10,6 +10,5 @@ Collected on planet surfaces.
 
 Antimony, Sb, atomic number 51. Melting point 903K. A semi metallic
 chemical element used in flame proofing low friction alloys and
-semiconductors.
+[[id:0def679f-6fc4-4107-bd99-51a36668a787][semiconductors]].
 #+end_quote
-

@@ -6,6 +6,5 @@
 :END:
 
 #+begin_quote
-A flexible, lightweight material made of organic polymers.
+A flexible, lightweight material made of organic [[id:87f58744-f7fe-46da-b824-fb089a150705][polymers]].
 #+end_quote
-
