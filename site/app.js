@@ -5256,7 +5256,10 @@ function bindEvents() {
     resizeCanvas();
   });
 
-  canvas.addEventListener("mousedown", (event) => {
+  canvas.addEventListener("pointerdown", (event) => {
+    if (event.pointerType === "mouse" && event.button !== 0) {
+      return;
+    }
     hideContextMenu();
     hideTooltip("node");
     state.hoverNodeId = null;
@@ -5273,10 +5276,19 @@ function bindEvents() {
       cameraX: state.camera.x,
       cameraY: state.camera.y,
     };
+    canvas.setPointerCapture?.(event.pointerId);
+    canvas.style.cursor = "grabbing";
   });
 
-  window.addEventListener("mousemove", (event) => {
+  canvas.addEventListener("pointermove", (event) => {
     if (!state.dragging) return;
+    event.preventDefault();
+    const rect = graphStage.getBoundingClientRect();
+    state.pointer = {
+      x: event.clientX - rect.left,
+      y: event.clientY - rect.top,
+      active: true,
+    };
     const dx = (event.clientX - state.dragStart.x) / state.camera.zoom;
     const dy = (event.clientY - state.dragStart.y) / state.camera.zoom;
     state.camera.x = state.dragStart.cameraX - dx;
@@ -5284,14 +5296,21 @@ function bindEvents() {
     render();
   });
 
-  window.addEventListener("mouseup", () => {
+  const endCanvasDrag = (event) => {
+    if (!state.dragging) {
+      return;
+    }
     state.dragging = false;
+    canvas.releasePointerCapture?.(event.pointerId);
     canvas.style.cursor = (isClusterLandingView()
       ? (state.hoverCommunityId ? "pointer" : "default")
       : (state.hoverNodeId ? "pointer" : "default"));
     updateToolbarNodeActions();
     refreshNodeTooltip();
-  });
+  };
+
+  canvas.addEventListener("pointerup", endCanvasDrag);
+  canvas.addEventListener("pointercancel", endCanvasDrag);
 
   canvas.addEventListener("mousemove", (event) => {
     const rect = graphStage.getBoundingClientRect();

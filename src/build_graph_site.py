@@ -457,6 +457,8 @@ def strip_metadata(lines: list[str]) -> list[str]:
                 in_properties = False
             continue
         if stripped.startswith("#+"):
+            if stripped.lower() in {"#+begin_quote", "#+end_quote"}:
+                output.append(stripped.lower())
             continue
         output.append(stripped)
     return output
@@ -572,6 +574,33 @@ def render_list_block(entries: list[tuple[int, str, str]]) -> tuple[str, list[st
     return "".join(blocks), plain_text_items
 
 
+def render_quote_block(lines: list[str]) -> tuple[str, list[str]]:
+    blocks: list[str] = []
+    plain_text_blocks: list[str] = []
+    paragraph_lines: list[str] = []
+
+    def flush_quote_paragraph() -> None:
+        nonlocal paragraph_lines
+        if not paragraph_lines:
+            return
+        text = " ".join(part.strip() for part in paragraph_lines if part.strip())
+        if text:
+            plain_text_blocks.append(strip_org_markup(text))
+            blocks.append(f'<p class="note-quote-paragraph">{apply_inline_markup(text)}</p>')
+        paragraph_lines = []
+
+    for line in lines:
+        if not line.strip():
+            flush_quote_paragraph()
+            continue
+        paragraph_lines.append(line)
+
+    flush_quote_paragraph()
+    if not blocks:
+        return "", []
+    return '<blockquote class="note-quote">' + "".join(blocks) + "</blockquote>", plain_text_blocks
+
+
 def reference_source_label(url: str) -> str:
     lowered = url.lower()
     if "cms.zaonce.net" in lowered:
@@ -634,7 +663,9 @@ def render_org_note(note: Note) -> str:
     blocks: list[str] = []
     paragraph_lines: list[str] = []
     list_entries: list[tuple[int, str, str]] = []
+    quote_lines: list[str] = []
     plain_text_lines: list[str] = []
+    in_quote = False
 
     def flush_paragraph() -> None:
         nonlocal paragraph_lines
@@ -656,7 +687,33 @@ def render_org_note(note: Note) -> str:
         plain_text_lines.extend(list_plain_text)
         list_entries = []
 
+    def flush_quote() -> None:
+        nonlocal quote_lines
+        if not quote_lines:
+            return
+        quote_html, quote_plain_text = render_quote_block(quote_lines)
+        if quote_html:
+            blocks.append(quote_html)
+            plain_text_lines.extend(quote_plain_text)
+        quote_lines = []
+
     for line in lines:
+        if line == "#+begin_quote":
+            flush_paragraph()
+            flush_list()
+            in_quote = True
+            quote_lines = []
+            continue
+
+        if line == "#+end_quote":
+            flush_quote()
+            in_quote = False
+            continue
+
+        if in_quote:
+            quote_lines.append(line)
+            continue
+
         if not line.strip():
             flush_paragraph()
             flush_list()
@@ -685,6 +742,7 @@ def render_org_note(note: Note) -> str:
 
     flush_paragraph()
     flush_list()
+    flush_quote()
 
     snippet_source = " ".join(plain_text_lines)
     note.snippet = snippet_source[:240].strip()

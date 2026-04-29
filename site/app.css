@@ -428,6 +428,8 @@ code {
   display: block;
   width: 100%;
   height: 100%;
+  touch-action: none;
+  user-select: none;
 }
 
 .panel-resizer {
@@ -1199,6 +1201,43 @@ code {
 .note-body li {
   color: #e1edf8;
   line-height: 1.72;
+}
+
+.note-quote {
+  position: relative;
+  margin: 18px 0 22px;
+  padding: 18px 20px 18px 26px;
+  border: 1px solid rgba(99, 216, 234, 0.22);
+  border-left: 4px solid var(--accent-cool);
+  border-radius: 18px;
+  background:
+    linear-gradient(135deg, rgba(99, 216, 234, 0.12), rgba(255, 212, 107, 0.06)),
+    rgba(6, 18, 29, 0.72);
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.06);
+}
+
+.note-quote::before {
+  content: "quote";
+  display: inline-flex;
+  margin-bottom: 10px;
+  padding: 3px 8px;
+  border-radius: 999px;
+  background: rgba(99, 216, 234, 0.14);
+  color: var(--accent-cool);
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.note-quote .note-quote-paragraph {
+  margin: 0;
+  color: #f4fbff;
+  font-style: italic;
+}
+
+.note-quote .note-quote-paragraph + .note-quote-paragraph {
+  margin-top: 12px;
 }
 
 .note-body ul,
