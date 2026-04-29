@@ -76,6 +76,10 @@ const state = {
   hoverCommunityId: null,
   dragging: false,
   dragStart: { x: 0, y: 0, cameraX: 0, cameraY: 0 },
+  activePointers: new Map(),
+  pinching: false,
+  pinchStart: { distance: 0, zoom: 1, centerX: 0, centerY: 0, worldX: 0, worldY: 0 },
+  suppressNextClick: false,
   hasFitted: false,
   neighborMode: false,
   adjacency: new Map(),
@@ -5256,19 +5260,94 @@ function bindEvents() {
     resizeCanvas();
   });
 
+  const updateActivePointer = (event) => {
+    const rect = graphStage.getBoundingClientRect();
+    state.activePointers.set(event.pointerId, {
+      clientX: event.clientX,
+      clientY: event.clientY,
+      x: event.clientX - rect.left,
+      y: event.clientY - rect.top,
+    });
+  };
+
+  const removeActivePointer = (event) => {
+    state.activePointers.delete(event.pointerId);
+  };
+
+  const activePointerList = () => [...state.activePointers.values()];
+
+  const pointerDistance = (first, second) => Math.hypot(
+    second.clientX - first.clientX,
+    second.clientY - first.clientY,
+  );
+
+  const pointerCenter = (first, second) => ({
+    x: (first.x + second.x) / 2,
+    y: (first.y + second.y) / 2,
+  });
+
+  const startPinchZoom = () => {
+    const pointers = activePointerList();
+    if (pointers.length < 2) {
+      return;
+    }
+    const [first, second] = pointers;
+    const center = pointerCenter(first, second);
+    const worldCenter = screenToWorld(center.x, center.y);
+    state.pinching = true;
+    state.dragging = false;
+    state.suppressNextClick = true;
+    state.pinchStart = {
+      distance: Math.max(1, pointerDistance(first, second)),
+      zoom: state.camera.zoom,
+      centerX: center.x,
+      centerY: center.y,
+      worldX: worldCenter.x,
+      worldY: worldCenter.y,
+    };
+    hideTooltip("node");
+    canvas.style.cursor = "grabbing";
+  };
+
+  const updatePinchZoom = () => {
+    const pointers = activePointerList();
+    if (!state.pinching || pointers.length < 2) {
+      return false;
+    }
+    const [first, second] = pointers;
+    const center = pointerCenter(first, second);
+    const distance = Math.max(1, pointerDistance(first, second));
+    const ratio = distance / state.pinchStart.distance;
+    state.camera.zoom = Math.max(0.05, Math.min(4.5, state.pinchStart.zoom * ratio));
+    const rect = graphStage.getBoundingClientRect();
+    state.camera.x = state.pinchStart.worldX - (center.x - rect.width / 2) / state.camera.zoom;
+    state.camera.y = state.pinchStart.worldY - (center.y - rect.height / 2) / state.camera.zoom;
+    state.pointer = { x: center.x, y: center.y, active: true };
+    render();
+    return true;
+  };
+
   canvas.addEventListener("pointerdown", (event) => {
     if (event.pointerType === "mouse" && event.button !== 0) {
       return;
     }
+    event.preventDefault();
+    updateActivePointer(event);
+    canvas.setPointerCapture?.(event.pointerId);
     hideContextMenu();
     hideTooltip("node");
     state.hoverNodeId = null;
+    state.hoverCommunityId = null;
     const rect = graphStage.getBoundingClientRect();
     state.pointer = {
       x: event.clientX - rect.left,
       y: event.clientY - rect.top,
       active: true,
     };
+    if (state.activePointers.size >= 2) {
+      startPinchZoom();
+      return;
+    }
     state.dragging = true;
     state.dragStart = {
       x: event.clientX,
@@ -5276,11 +5355,18 @@ function bindEvents() {
       cameraX: state.camera.x,
       cameraY: state.camera.y,
     };
-    canvas.setPointerCapture?.(event.pointerId);
     canvas.style.cursor = "grabbing";
   });
 
   canvas.addEventListener("pointermove", (event) => {
+    if (!state.activePointers.has(event.pointerId)) {
+      return;
+    }
+    updateActivePointer(event);
+    if (updatePinchZoom()) {
+      event.preventDefault();
+      return;
+    }
     if (!state.dragging) return;
     event.preventDefault();
     const rect = graphStage.getBoundingClientRect();
@@ -5297,11 +5383,31 @@ function bindEvents() {
   });
 
   const endCanvasDrag = (event) => {
-    if (!state.dragging) {
+    const wasDragging = state.dragging;
+    const wasPinching = state.pinching;
+    removeActivePointer(event);
+    canvas.releasePointerCapture?.(event.pointerId);
+
+    if (state.pinching && state.activePointers.size < 2) {
+      state.pinching = false;
+      state.suppressNextClick = true;
+      if (state.activePointers.size === 1) {
+        const [remainingPointer] = activePointerList();
+        state.dragging = true;
+        state.dragStart = {
+          x: remainingPointer.clientX,
+          y: remainingPointer.clientY,
+          cameraX: state.camera.x,
+          cameraY: state.camera.y,
+        };
+        return;
+      }
+    }
+
+    if (!wasDragging && !wasPinching) {
       return;
     }
     state.dragging = false;
-    canvas.releasePointerCapture?.(event.pointerId);
     canvas.style.cursor = (isClusterLandingView()
       ? (state.hoverCommunityId ? "pointer" : "default")
       : (state.hoverNodeId ? "pointer" : "default"));
@@ -5354,6 +5460,9 @@ function bindEvents() {
   });
 
   canvas.addEventListener("mouseleave", () => {
+    if (state.activePointers.size) {
+      return;
+    }
     state.pointer.active = false;
     state.hoverNodeId = null;
     state.hoverCommunityId = null;
@@ -5365,6 +5474,10 @@ function bindEvents() {
 
   canvas.addEventListener("click", (event) => {
     hideContextMenu();
+    if (state.suppressNextClick) {
+      state.suppressNextClick = false;
+      return;
+    }
     if (Math.abs(event.clientX - state.dragStart.x) > 4 || Math.abs(event.clientY - state.dragStart.y) > 4) {
       return;
     }
