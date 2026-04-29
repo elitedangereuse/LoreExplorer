@@ -2,7 +2,7 @@
 :ID:       80ea667a-62b4-4082-bed0-ce253d76869b
 :ROAM_ALIASES: "Ceeckia ZQ-L c24-0"
 :END:
-#+title: [[id:80ea667a-62b4-4082-bed0-ce253d76869b][Beagle Point]]
+#+title: Beagle Point
 #+filetags: :Tourist:History:beacon:
 * ER09. Beagle Point
 [[id:da49a702-3bb4-4dd7-9adf-29188adb2801][Beagle Point]]

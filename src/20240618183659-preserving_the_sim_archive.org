@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       ff55bd93-6ed4-4867-a7dc-e93ba4bb9c83
 :END:
-#+title: Preserving the [[id:83b3ed4c-f0b1-4311-a4df-34bdfa742126][Sim-Archive]]
+#+title: Preserving the Sim-Archive
 #+filetags: :3304:galnet:
 
 * Preserving the [[id:83b3ed4c-f0b1-4311-a4df-34bdfa742126][Sim-Archive]]

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       fd3044fe-5b69-4ba4-b716-625c8afb2add
 :END:
-#+title: Defending the [[id:83b3ed4c-f0b1-4311-a4df-34bdfa742126][Sim-Archive]]
+#+title: Defending the Sim-Archive
 #+filetags: :Thargoid:3304:galnet:
 
 * Defending the [[id:83b3ed4c-f0b1-4311-a4df-34bdfa742126][Sim-Archive]]
