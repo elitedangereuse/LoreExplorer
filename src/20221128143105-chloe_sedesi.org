@@ -1,8 +1,23 @@
 :PROPERTIES:
 :ID:       ff1f91b2-2084-4a2a-9060-f5a4aa0fe5bb
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Chloe_Sedesi
 :END:
 #+title: Chloe Sedesi
 #+filetags: :Individual:engineer:
+
+#+begin_quote
+Chloe Sedesi served a number of artificer apprenticeships before
+joining Professor Ishmael Palin's staff as a mechanic. She swiftly
+became a vital team member, displaying a remarkable aptitude for a
+variety of technical disciplines. When the Witch Head enclave was
+established, Chloe resigned from Palin's team and, with his
+blessing, traveled to Cinder Dock to offer the techniques she had
+learned at the Palin Research Institute.
+#+end_quote
+
+[[file:img/engineers/chloe_sedesi.webp]]
+
+
 * Location
 Cinder Dock | [[id:9eb04a19-52b5-4650-8d44-a5497225789e][Shenve]]
 

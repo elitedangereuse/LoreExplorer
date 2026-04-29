@@ -1,8 +1,25 @@
 :PROPERTIES:
 :ID:       610da0b4-4f53-45b6-80a7-704ef14cf16f
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Tod_%22The_Blaster%22_McQuinn
 :END:
 #+title: Tod "The Blaster" McQuinn
 #+filetags: :Alliance:Individual:engineer:
+
+#+begin_quote
+Tod McQuinn earned his nickname from a successful season in the CQC
+Arena. Since then he's garnered further fame as a bounty hunter,
+flying a Fer-de-Lance with seriously overpowered multi-cannons. He's
+always happy to help fellow bounty hunters. For his current venture
+he's teamed up with some of his old CQC friends to form a a custom
+modification enterprise. Develop your relationship with him to learn
+about another Engineer.
+#+end_quote
+
+[[file:img/engineers/tod_the_blaster_mcquinn.webp]]
+
+
+
+
 * Location
 Trophy Camp | [[id:904e09fa-f2a2-4420-a80c-695eebebb61e][Wolf 397]]
 * How to discover

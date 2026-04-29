@@ -1,8 +1,23 @@
 :PROPERTIES:
 :ID:       1950129f-ad8e-453a-94ac-8bb0813e2e28
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Lori_Jameson
 :END:
 #+title: Lori Jameson
 #+filetags: :Individual:Combat:Rank:engineer:
+
+#+begin_quote
+Lori Jameson is one of the great granddaughters of John Jameson, the
+most famous Pilots Federation member ever. She is an accomplished
+explorer in her own right and has developed various techniques for
+improved automated systems. Her facility is popular with those
+seeking to prepare their ships for extended operations in deep
+space, and she makes sure they have pleasant surroundings while they
+await their upgrades.
+#+end_quote
+
+[[file:img/engineers/lori_jameson.webp]]
+
+
 * Family
   [[id:cc697ecd-bd30-4319-b7f0-5e659a6e5b44][Jameson]]
 * Location

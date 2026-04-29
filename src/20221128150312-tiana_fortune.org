@@ -1,8 +1,23 @@
 :PROPERTIES:
 :ID:       595f8c92-4e03-4272-a68d-e3c1f475a4bc
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Tiana_Fortune
 :END:
 #+title: Tiana Fortune
 #+filetags: :Empire:Individual:Permit:engineer:
+
+#+begin_quote
+Tiana Fortune is an electronic-engineering genius who is rumoured to
+be the illegitimate child of an Imperial Guard officer. Her own
+military career was cut short when the circumstances surrounding her
+birth were revealed, resulting in her expulsion from the guard. Many
+in her unit demonstrated their loyalty by joining her once they'd
+complete their service, attracted to the comfortable living Tiana is
+able to offer them.
+#+end_quote
+
+[[file:img/engineers/tiana_fortune.webp]]
+
+
 [[file:img/permit.png]]
 * Location
 Fortune's Loss | [[id:bed8c27f-3cbe-49ad-b86f-7d87eacf804a][Achenar]] [permit required]

@@ -1,8 +1,24 @@
 :PROPERTIES:
 :ID:       c7c72092-6fb9-4c3e-865b-d16661a11cdb
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Hera_Tani
 :END:
 #+title: Hera Tani
 #+filetags: :Empire:Individual:Rank:engineer:
+
+#+begin_quote
+Hera Tani's talent with power-management systems was evident from an
+early age. She grew up with the Jet Rats gang, keeping in close
+communication with them at all times, but she will also help those
+who are friendly with the gang. In turn they have responded to her
+talents by assigning anyone with sufficient technical ability to
+work and learn from her. Since their demise she has found favour
+with a mysterious imperial benefactor. She can put you in contact
+with another engineer if you develop your relationship with her.
+#+end_quote
+
+[[file:img/engineers/hera_tani.webp]]
+
+
 * Location
 The Jet's Hole | [[id:39a3befe-923d-4b8c-9604-c8e0fd360384][Kuwemaki]]
 * How to discover

@@ -349,15 +349,12 @@ def load_notes(db_path: Path, src_dir: Path) -> tuple[dict[str, Note], list[tupl
     file_tags: dict[str, list[str]] = {}
     file_aliases: dict[str, list[str]] = {}
     file_refs: dict[str, list[str]] = {}
-    db_note_ids: set[str] = set()
-    file_only_note_ids: set[str] = set()
 
     for row in connection.execute("SELECT id, file, COALESCE(title, '') AS title FROM nodes"):
         node_id = clean_db_text(row["id"])
         note_path = resolve_note_path(clean_db_text(row["file"]), src_dir)
         title = clean_db_text(row["title"]).strip() or note_path.stem
         notes[node_id] = Note(node_id=node_id, title=title, file=note_path)
-        db_note_ids.add(node_id)
 
     for note_path in sorted(src_dir.glob("*.org")):
         if note_path.name.startswith(".#"):
@@ -369,13 +366,14 @@ def load_notes(db_path: Path, src_dir: Path) -> tuple[dict[str, Note], list[tupl
         file_aliases[node_id] = parsed_aliases
         file_refs[node_id] = parsed_refs
         if node_id in notes:
+            if title:
+                notes[node_id].title = title
             continue
         notes[node_id] = Note(
             node_id=node_id,
             title=title or note_path.stem,
             file=note_path,
         )
-        file_only_note_ids.add(node_id)
 
     for row in connection.execute("SELECT node_id, tag FROM tags WHERE tag IS NOT NULL AND tag != ''"):
         node_id = clean_db_text(row["node_id"])
@@ -388,28 +386,23 @@ def load_notes(db_path: Path, src_dir: Path) -> tuple[dict[str, Note], list[tupl
             aliases[node_id].append(clean_db_text(row["alias"]))
 
     links: list[tuple[str, str]] = []
-    for row in connection.execute("SELECT source, dest, type FROM links"):
-        if clean_db_text(row["type"]) != "id":
-            continue
-        source = clean_db_text(row["source"])
-        dest = clean_db_text(row["dest"])
-        if source in notes and dest in notes:
-            links.append((source, dest))
-            notes[source].outbound += 1
-            notes[dest].inbound += 1
+    link_pairs: set[tuple[str, str]] = set()
 
-    for node_id in file_only_note_ids:
+    def add_link(source: str, dest: str) -> None:
+        if source not in notes or dest not in notes or (source, dest) in link_pairs:
+            return
+        link_pairs.add((source, dest))
+        links.append((source, dest))
+        notes[source].outbound += 1
+        notes[dest].inbound += 1
+
+    for node_id in notes:
         text = notes[node_id].file.read_text(encoding="utf-8")
         for match in ORG_LINK_RE.finditer(text):
             target = match.group(1)
             if not target.startswith("id:"):
                 continue
-            dest = target[3:]
-            if dest not in notes:
-                continue
-            links.append((node_id, dest))
-            notes[node_id].outbound += 1
-            notes[dest].inbound += 1
+            add_link(node_id, target[3:])
 
     for node_id, note in notes.items():
         note.tags = sorted(dict.fromkeys(tags[node_id] or file_tags.get(node_id, [])))

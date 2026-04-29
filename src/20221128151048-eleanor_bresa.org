@@ -1,8 +1,17 @@
 :PROPERTIES:
 :ID:       44343fed-44fd-43ef-979a-27929ac198b9
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Eleanor_Bresa
 :END:
 #+title: Eleanor Bresa
 #+filetags: :Individual:OnFoot:engineer:
+
+#+begin_quote
+?
+#+end_quote
+
+[[file:img/engineers/eleanor_bresa.webp]]
+
+
 * Location
 Bresa Modifications | [[id:5dcec758-a77d-478d-9849-1793a47d2a5b][Desy]]
 * How to discover

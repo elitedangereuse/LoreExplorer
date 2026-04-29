@@ -1,8 +1,23 @@
 :PROPERTIES:
 :ID:       3bb893ed-19f4-4cf2-90ce-a5f0deea8220
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Domino_Green
 :END:
 #+title: Domino Green
 #+filetags: :Individual:OnFoot:engineer:
+
+#+begin_quote
+Orphaned at the age of seven, Domino was placed in a public
+relations initiative by the Rockforth Corporation; the company
+housed and educated her, but expected her to work for Rockforth as
+an adult. While displaying a prodigious talent for technology, she
+also lacked discipline and proved highly irreverent. She was
+dismissed as a poor investment and now operates a workshop
+established with her family inheritance.
+#+end_quote
+
+[[file:img/engineers/domino_green.webp]]
+
+
 * Location
 The Jackrabbit | [[id:672a83c7-a32c-4219-b925-87564d6389fa][Orishis]]
 * How to discover

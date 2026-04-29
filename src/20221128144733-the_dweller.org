@@ -1,8 +1,27 @@
 :PROPERTIES:
 :ID:       bcdb8e96-5958-4167-b0ec-67b7daa1086e
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/The_Dweller
 :END:
 #+title: The Dweller
 #+filetags: :Individual:engineer:
+
+#+begin_quote
+The Dweller is a mysterious contact in the Aganippe underworld. No-
+one knows his background, and he and his small group of mysterious
+like-minded individuals closely guard his identity, and that of
+their best customers. He is renowned for custom modifications for
+local criminal elements. He is known to help outsides who have the
+right contacts and operates an extensive workshop facility. They are
+also said to grow their own variant of Onionhead for private
+consumption. Rumour has it they did a deal with Georgio Algeria or
+one of his entourage to help them in their fight against the
+Federation. Develop your relationship with him to discover another
+engineer.
+#+end_quote
+
+[[file:img/engineers/the_dweller.webp]]
+
+
 * Location
 Black Hide | [[id:b541e647-476a-4362-a2d0-78debafb0759][Wyrd]]
 * How to discover

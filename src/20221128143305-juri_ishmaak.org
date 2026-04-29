@@ -1,8 +1,21 @@
 :PROPERTIES:
 :ID:       d4d3395f-e02f-4d84-95e1-6c3367c1c957
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Juri_Ishmaak
 :END:
 #+title: Juri Ishmaak
 #+filetags: :Individual:engineer:
+
+#+begin_quote
+Juri Ishmaak is an ambitious combat specialist whose father was a
+pilot in a mercenary wing. He followed in his father's footsteps
+operating with the wing. He believes in careful preparation before
+any combat. After retiring from combat he set up a base of
+operations to focus on his passion for engineering. Develop your
+relationship with him to learn about another engineer.
+#+end_quote
+
+[[file:img/engineers/juri_ishmaak.webp]]
+
 
 * Location
 Pater's Memorial | [[id:31bfe4e0-1652-4327-a197-ff71c71cc6c3][Giryak]]

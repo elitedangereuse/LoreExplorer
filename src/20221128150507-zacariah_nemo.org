@@ -1,8 +1,24 @@
 :PROPERTIES:
 :ID:       baab0645-10f6-4242-998a-b3c899f459a2
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Zacariah_Nemo
 :END:
 #+title: Zacariah Nemo
 #+filetags: :Individual:engineer:
+
+#+begin_quote
+Zacariah has been at the centre of a small cult-like commune for
+decades now, the Nemo Cyber Party. Rumour has it that he has a
+cyber-enhanced brain, and can take vast information dumps directly
+to it. His skill with weapons manufacturing and modification is made
+available to those favoured by the Party. He has attracted a growing
+group of "cyber-freaks" who are usually shunned in normal society.
+He has a vast collection of automata. Develop your relationship with
+him to discover another engineer.
+#+end_quote
+
+[[file:img/engineers/zacariah_nemo.webp]]
+
+
 Works for [[id:e68a5318-bd72-4c92-9f70-dcdbd59505d1][Azimuth Biotech]] on [[id:6023377d-7271-49d1-80ec-ffab82dc8c29][AX weapons]]
 
 * Location

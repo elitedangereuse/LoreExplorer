@@ -1,8 +1,16 @@
 :PROPERTIES:
 :ID:       64af95e7-00c7-41ee-8205-100c0a7e0467
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Yi_Shen
 :END:
 #+title: Yi Shen
 #+filetags: :Individual:OnFoot:engineer:
+
+[[file:img/engineers/yi_shen.webp]]
+
+
+
+
+
 * Location
 Eidolon Hold | [[id:b23439a3-9762-48d5-b510-107fe548110f][Einheriar]]
 * How to discover

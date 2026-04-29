@@ -1,8 +1,19 @@
 :PROPERTIES:
 :ID:       f3426d7a-dfd4-4e6c-8f29-f53c7e31d071
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Bill_Turner
 :END:
 #+title: Bill Turner
 #+filetags: :Alliance:Individual:Permit:engineer:
+
+#+begin_quote
+Bill Turner claims to be the son of the famous but elusive late Mic
+Turner, and despite his young age he's reputed to be a wizard with
+utilities and plasma accelerators.
+#+end_quote
+
+[[file:img/engineers/bill_turner.webp]]
+
+
 [[file:img/permit.png]]
 [[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]]
 The Alliance

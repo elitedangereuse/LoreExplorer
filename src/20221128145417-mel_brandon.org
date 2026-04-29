@@ -1,8 +1,22 @@
 :PROPERTIES:
 :ID:       2fce62b3-399d-4ef7-b93b-00a0de6cc4be
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Mel_Brandon
 :END:
 #+title: Mel Brandon
 #+filetags: :Individual:engineer:
+
+#+begin_quote
+Mel Brandon is a specialist in laser-based weaponry, shields, frame
+shift drives and engines. He was dishonourably discharged from the
+Federal Defence Force for disobeying a senior officer who ordered a
+combat strike on a labour protest, but he was popular in the
+service, and retains some useful contacts. Many of his comrades-in-
+arms have since joined him in his business.
+#+end_quote
+
+[[file:img/engineers/mel_brandon.webp]]
+
+
 * Location
 The Brig | [[id:d3daf803-d239-4314-81cd-22cbb7db8424][Luchtaine]]
 * How to discover

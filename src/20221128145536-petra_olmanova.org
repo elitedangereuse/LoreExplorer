@@ -1,8 +1,22 @@
 :PROPERTIES:
 :ID:       7af58443-6856-4aa9-89ff-89c94bd63aa7
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Petra_Olmanova
 :END:
 #+title: Petra Olmanova
 #+filetags: :Individual:Combat:Rank:engineer:
+
+#+begin_quote
+Petra Olmanova was a specialist combat technician who was believed
+killed in an explosion at Consolidated Plasma Corp's primary
+research facility. However, she survived the disaster relatively
+unscathed and resurfaced some time later as a freelancer. Her base
+has since become a sanctuary, and she spurns social interaction
+unless business is involved.
+#+end_quote
+
+[[file:img/engineers/petra_olmanova.webp]]
+
+
 * Location
 Sanctuary | [[id:636ce00b-56be-47f0-a440-a14f87b72b7c][Asura]]
 [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]]

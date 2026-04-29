@@ -2248,11 +2248,11 @@ function iconMarkup(name) {
     upload: '<svg viewBox="0 0 24 24" focusable="false"><path d="M12 20V10M8 14l4-4 4 4M5 5h14"/></svg>',
     bookmark: '<svg viewBox="0 0 24 24" focusable="false"><path d="M7 5h10v14l-5-3-5 3z"/></svg>',
     localGraph: '<svg viewBox="0 0 16 16" focusable="false"><path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14"/><path d="M8 13A5 5 0 1 1 8 3a5 5 0 0 1 0 10"/><path d="M8 11a3 3 0 1 1 0-6 3 3 0 0 1 0 6"/><path d="M9.5 8a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0"/></svg>',
-    expand: '<svg viewBox="0 0 16 16" focusable="false"><path d="M11 4a4 4 0 1 0 0 8 4 4 0 0 0 0-8"/><path d="M6.025 7.5a5 5 0 1 1 0 1H4A1.5 1.5 0 0 1 2.5 10h-1A1.5 1.5 0 0 1 0 8.5v-1A1.5 1.5 0 0 1 1.5 6h1A1.5 1.5 0 0 1 4 7.5z"/><path d="M11 5a.5.5 0 0 1 .5.5v2h2a.5.5 0 0 1 0 1h-2v2a.5.5 0 0 1-1 0v-2h-2a.5.5 0 0 1 0-1h2v-2A.5.5 0 0 1 11 5"/></svg>',
+    expand: '<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-node-plus" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M11 4a4 4 0 1 0 0 8 4 4 0 0 0 0-8M6.025 7.5a5 5 0 1 1 0 1H4A1.5 1.5 0 0 1 2.5 10h-1A1.5 1.5 0 0 1 0 8.5v-1A1.5 1.5 0 0 1 1.5 6h1A1.5 1.5 0 0 1 4 7.5zM11 5a.5.5 0 0 1 .5.5v2h2a.5.5 0 0 1 0 1h-2v2a.5.5 0 0 1-1 0v-2h-2a.5.5 0 0 1 0-1h2v-2A.5.5 0 0 1 11 5M1.5 7a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5z"/></svg>',
     filter: '<svg viewBox="0 0 24 24" focusable="false"><path d="M4 6h16M7 12h10M10 18h4"/></svg>',
     path: '<svg viewBox="0 0 24 24" focusable="false"><circle cx="6" cy="18" r="2"/><circle cx="18" cy="6" r="2"/><circle cx="18" cy="18" r="2"/><path d="M8 17l8-9M8 18h8"/></svg>',
   };
-  return `<span class="toolbar-icon" aria-hidden="true">${icons[name] || ""}</span>`;
+  return `<span class="" aria-hidden="true">${icons[name] || ""}</span>`;
 }
 
 function bookmarkIconMarkup(bookmarked, wrapperClass = "toolbar-icon") {
@@ -3352,7 +3352,7 @@ function renderGraphFilterToolbar() {
           type="search"
           list="graph-filter-tag-options"
           value="${escapeHtml(state.graphTagFilterInput)}"
-          placeholder="Type a tag and press Enter…"
+          placeholder="Filter by tag…"
           autocomplete="off"
           spellcheck="false"
         />

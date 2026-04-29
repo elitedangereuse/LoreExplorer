@@ -1,8 +1,23 @@
 :PROPERTIES:
 :ID:       4f85bf60-23ac-4a5d-89ac-f6689fb8fef8
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Etienne_Dorn
 :END:
 #+title: Etienne Dorn
 #+filetags: :Individual:engineer:
+
+#+begin_quote
+Etienne Dorn used to be the lead shield engineer for Kraken Shield
+Specialists, but these days he’s mostly self employed. He still
+shares his developments with his former employers, but he usually
+offers products to private clients first...for the right price. His
+burgeoning success has led him to develop state-of-the-art
+facilities, but he prefers to work with robots to maintain his
+seclusion.
+#+end_quote
+
+[[file:img/engineers/etienne_dorn.webp]]
+
+
 * Location
 Kraken's Retreat | [[id:77b9b85d-7a55-4b71-9376-341ce0c141c5][Los]]
 * How to discover

@@ -1,8 +1,23 @@
 :PROPERTIES:
 :ID:       f7a5d9f8-1d86-4230-ab52-397226590b19
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Broo_Tarquin
 :END:
 #+title: Broo Tarquin
 #+filetags: :Individual:Rank:engineer:
+
+#+begin_quote
+Broo Tarquin was the founder of Dead-Eye Defence Systems, now part
+of the Thule Industries. Since he retired from his role as chief
+designer, he spends his days tinkering in his workshop and drinking
+exotic tea. Since then, others have joined him in his work and his
+workshop has expanded into a wider operation, making components from
+their own smelted alloys. Developing your relationship with him will
+lead to an invitation to another engineer.
+#+end_quote
+
+[[file:img/engineers/broo_tarquin.webp]]
+
+
 * Location
 Broo's Legacy | [[id:773cc22e-e884-4ee2-82d4-54d531fc8f23][Muang]]
 

@@ -1,8 +1,22 @@
 :PROPERTIES:
 :ID:       d18667b7-1da8-48ca-bb84-e280ebf77a35
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Marco_Qwent
 :END:
 #+title: Marco Qwent
 #+filetags: :Individual:engineer:
+
+#+begin_quote
+Marco Qwent is an ex Sirius Corp. tech guru. Such is his technical
+talent he's allowed some latitude with what he works on and who he
+works with, as long as Sirius Corp, receive the appropriate
+recognition. They support his efforts by maintaining a significant
+base for him to operate from. Develop your relationship with him to
+discover another engineer.
+#+end_quote
+
+[[file:img/engineers/marco_qwent.webp]]
+
+
 * Location
 Qwent Research Base | [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] [permit required]
 * How to discover

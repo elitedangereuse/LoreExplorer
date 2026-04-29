@@ -1,8 +1,23 @@
 :PROPERTIES:
 :ID:       e80652fd-7aa0-4b18-90ac-aebb3d1c2259
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Baltanos
 :END:
 #+title: Baltanos
 #+filetags: :Individual:Reputation:OnFoot:engineer:
+
+#+begin_quote
+Hailing from a nation where technology is considered a gateway to
+spiritual fulfillment, Baltanos serves his church in spreading its
+transhumanist creed. Many cybernetic implants have altered - or
+'blessed' - his ability to manipulate components facilitating a
+successful engineering career. Eager to complete a long pilgrimmage
+to humanity's furthest reaches, Baltanos now functions as a
+missionary from his workshop in the Colonia region.
+#+end_quote
+
+[[file:img/engineers/baltanos.webp]]
+
+
 * Location
 The Divine Apparatus | [[id:6c3e4aeb-cc9c-4ff8-b54e-ca76d852ff69][Deriso]]
 * How to discover

@@ -1,8 +1,21 @@
 :PROPERTIES:
 :ID:       3e446f3a-5bdf-4162-bd51-9fd5013cb331
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Didi_Vatermann
 :END:
 #+title: Didi Vatermann
 #+filetags: :Individual:engineer:
+
+#+begin_quote
+Didi's father died several decades ago as a result of a shield-
+booster malfunction. Since then, Didi has dedicated her life to
+making shield boosters safer. In recent years her success has been
+such that she now lives in luxury and has a team of dedicated
+mechanics helping to implement her designs. Developing a
+relationship with her will introduce you to another engineer.
+#+end_quote
+
+[[file:img/engineers/didi_vatermann.webp]]
+
 
 * Location
 Vatermann LLC | [[id:e7c94b38-cdfb-48da-a1c4-cdad10c3371a][Leesti]]

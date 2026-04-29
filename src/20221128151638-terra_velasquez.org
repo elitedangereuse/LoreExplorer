@@ -1,8 +1,23 @@
 :PROPERTIES:
 :ID:       5bc38801-eeb2-4c7a-9568-f41dcdf556c6
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Terra_Velasquez
 :END:
 #+title: Terra Velasquez
 #+filetags: :Individual:OnFoot:engineer:
+
+#+begin_quote
+As the only daughter of a prosperous entrepreneur, Terra was born
+into extraordinary wealth. But a highly rebellious streak led her to
+reject the familial expectations placed upon her. She fled home,
+falling in with an antiauthoritarian group that engaged in a string
+of daring robberies. One failed heist and a decade of incarceration
+later, Terra operates an independent workshop and claims to have
+left her criminal past behind.
+#+end_quote
+
+[[file:img/engineers/terra_velasquez.webp]]
+
+
 Is there a link with [[id:9bf3bf04-3f84-4959-afb4-a3a692cd597b][Velasquez Medical Research Center]] ?
 * Location
 Rascal's Choice | [[id:1a60d7cf-53b3-4079-b505-563d22152c62][Shou Xing]]

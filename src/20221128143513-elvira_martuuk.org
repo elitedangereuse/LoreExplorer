@@ -1,8 +1,25 @@
 :PROPERTIES:
 :ID:       887ca01b-ea5d-4fcd-a45d-de1ca598f1cd
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Elvira_Martuuk
 :END:
 #+title: Elvira Martuuk
 #+filetags: :Individual:engineer:
+
+#+begin_quote
+Elvira Martuuk is a well known explorer although she is rumoured to
+have once been a deadly assassin before heading out into black. Some
+have claimed she needed to 'cool off' after a particularly high
+profile case, so went exploring, but Elvira denies it. She is
+fascinated by all things alien, and has become expert at spotting
+human fakes. Her reputation is such that her base is rarely troubled
+by freebooters. She believes in being self-sufficient, and her
+tight-knit group grows all their own food. Develop your relationship
+with her to discover another engineer.
+#+end_quote
+
+[[file:img/engineers/elvira_martuuk.webp]]
+
+
 * Location
 Long Sight Base | [[id:27afafa1-f476-4854-b1f8-fe0e14933646][Khun]]
 Distance

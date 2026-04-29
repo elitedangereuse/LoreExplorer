@@ -1,8 +1,22 @@
 :PROPERTIES:
 :ID:       987c6f4c-d050-4220-bc70-ccc894fff3b2
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/The_Sarge
 :END:
 #+title: The Sarge
 #+filetags: :Federation:Individual:Rank:engineer:
+
+#+begin_quote
+No one knows The Sarge's real name and he won't reveal it, even to
+close friends. He's an ex-Federal Navy specialist who worked closely
+with the now defunct Colonial Drones Corporation, and later with the
+drone division of Core Dynamics, in tweaking drone controllers and
+long range patrol support systems. His reputation is such that he's
+attracted followers who learn from him and have built up a range of
+facilities around his initially modest operations.
+#+end_quote
+
+[[file:img/engineers/the_sarge.webp]]
+
 
 * Location
 The Beach | [[id:defa824f-5321-427d-9a8c-48519f68d2be][Beta-3 Tucani]]

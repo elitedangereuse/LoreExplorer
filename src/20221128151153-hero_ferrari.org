@@ -1,8 +1,22 @@
 :PROPERTIES:
 :ID:       50eb38fe-3254-47c5-abe2-a2e1c80c7105
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Hero_Ferrari
 :END:
 #+title: Hero Ferrari
 #+filetags: :Individual:OnFoot:engineer:
+
+#+begin_quote
+Little is known of Hero's history, and it is widely believed that
+she operates under a pseudonym. She is skilled with weapons
+modification and demonstrates a keen knowledge of military-grade
+technology, but appears comfortable in the relatively sedate world
+of engineering. When not upgrading equipment, Hero practices
+traditional calligraphy and watercolour techniques.
+#+end_quote
+
+[[file:img/engineers/hero_ferrari.webp]]
+
+
 * Location
 Nevermore Terrace | [[id:3e0f2d75-e43d-48f5-bc74-70068bfd9a95][Siris]]
 * How to discover

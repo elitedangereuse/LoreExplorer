@@ -1,8 +1,25 @@
 :PROPERTIES:
 :ID:       db7447d8-84fb-42e6-a431-0397512e8f0c
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Selene_Jean
 :END:
 #+title: Selene Jean
 #+filetags: :Individual:engineer:
+
+#+begin_quote
+A former miner, Selene has a talent for improving a ship's hull
+defence, although she only offers her services to fellow
+prospectors. She's rumoured to be the daughter of a rock hermit, but
+she rarely talks about her childhood. As almost a counterpoint to
+her secluded upbringing she has gathered a robust and trusted team,
+mostly fellow ex-prospectors, who work alongside her. Her
+eccentricity extends to her diet, growing a wide range of exotic
+vegetables to eat, in a wonderfully natural setting. Develop your
+relationship with her to discover another engineer.
+#+end_quote
+
+[[file:img/engineers/selene_jean.webp]]
+
+
 * Location
 Prospector's Rest | [[id:d4f2b36b-70c4-4943-b901-496229734121][Kuk]]
 * How to discover

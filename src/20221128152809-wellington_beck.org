@@ -1,8 +1,23 @@
 :PROPERTIES:
 :ID:       6fd6bff4-12f0-4ac0-b33c-eaa977fb4ac9
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Wellington_Beck
 :END:
 #+title: Wellington Beck
 #+filetags: :Individual:OnFoot:engineer:
+
+#+begin_quote
+From an early age Beck demonstrated a prodigious talent for the
+sciences. He flourished at the prestigious Dormu Academy, earning
+several advanced degrees. Beck briefly worked for the Sirius
+Corporation but this relationship did not last long, due to a
+reported difficulty working as part of a team. Using the credits
+earned from Sirius, Beck established an independent workshop to
+pursue more personal projects.
+#+end_quote
+
+[[file:img/engineers/wellington_beck.webp]]
+
+
 * Location
 Beck Facility | [[id:050e229d-5605-4d9f-a66b-5288e43a405b][Jolapa]]
 * How to discover
