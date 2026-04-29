@@ -1744,7 +1744,7 @@ code {
 
 .note-inline-image {
   display: block;
-  width: min(100%, 560px);
+  width: min(100%, 2000px);
   height: auto;
   margin: 18px 0;
   border-radius: 18px;
