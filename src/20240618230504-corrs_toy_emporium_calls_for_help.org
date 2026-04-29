@@ -20,4 +20,4 @@ In an interview with Vox Galactica, Corrs explained:
 
 “I’m hoping that independent pilots will fill the vacancy left to deliver festive gifts to the children in time for the upcoming holidays. Arrangements will be made to provide a variety of wonderful rewards for those pilots who help keep youthful spirits high in these troubling times.”
 
-Pilots willing to help Sandra’s Workshop can collect festive gifts from the Frost Dock outpost in the Njambalba system. A beacon outside Frost Dock will distribute delivery information when scanned.
+Pilots willing to help Sandra’s Workshop can collect festive gifts from the [[id:aea6f093-b65a-4a23-b818-4cabf62b555d][Frost Dock]] outpost in the Njambalba system. A beacon outside [[id:aea6f093-b65a-4a23-b818-4cabf62b555d][Frost Dock]] will distribute delivery information when scanned.

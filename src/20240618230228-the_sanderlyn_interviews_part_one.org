@@ -8,46 +8,46 @@
 
 /29 Apr 3308/
 
-The journalist [[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]] of [[id:4ab0f53c-0b85-43a3-83ca-b9e88c0db30e][Vox Galactica]] was recently invited to conduct rare public interviews with admirals of the three superpowers. 
+The journalist [[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]] of [[id:4ab0f53c-0b85-43a3-83ca-b9e88c0db30e][Vox Galactica]] was recently invited to conduct rare public interviews with admirals of the three superpowers.
 
-This excerpt is from a conversation with Admiral [[id:2b3e8681-1d08-450e-ad9f-fe5179104b36][Henry Paul Atherton]] of the Empire. 
+This excerpt is from a conversation with Admiral [[id:2b3e8681-1d08-450e-ad9f-fe5179104b36][Henry Paul Atherton]] of the Empire.
 
-[[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]]: This is [[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]] reporting for Vox Galactica. I am sitting with Admiral [[id:2b3e8681-1d08-450e-ad9f-fe5179104b36][Henry Paul Atherton]] of the Imperial Navy. Thank you for agreeing to this interview, Admiral. 
+[[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]]: This is [[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]] reporting for Vox Galactica. I am sitting with Admiral [[id:2b3e8681-1d08-450e-ad9f-fe5179104b36][Henry Paul Atherton]] of the [[id:e9becd28-9644-42aa-afc8-7bba3ce10076][Imperial Navy]]. Thank you for agreeing to this interview, Admiral.
 
- [[id:2b3e8681-1d08-450e-ad9f-fe5179104b36][Henry Paul Atherton]]: Oh, please. Call me Henry. 
+ [[id:2b3e8681-1d08-450e-ad9f-fe5179104b36][Henry Paul Atherton]]: Oh, please. Call me Henry.
 
-JS: I’d be delighted to. This is a very impressive ship, Henry. 
+JS: I’d be delighted to. This is a very impressive ship, Henry.
 
-HPA: Some might say Majestic. [laughs] Yes, the Succession is a wonderful vessel.  
+HPA: Some might say Majestic. [laughs] Yes, the Succession is a wonderful vessel.
 
-JS: How long have you commanded her? 
+JS: How long have you commanded her?
 
-HPA: Several years now. It has been an honour to have my name listed on the Succession’s exemplary service record.  
+HPA: Several years now. It has been an honour to have my name listed on the Succession’s exemplary service record.
 
-JS: You were promoted to admiral only three years ago. Does that change the personal dynamic with your crew at all? 
+JS: You were promoted to admiral only three years ago. Does that change the personal dynamic with your crew at all?
 
-HPA: Well, they salute a little faster, I suppose. Happily I enjoy a strong relationship with my officers, so they took the change fully in stride.  
+HPA: Well, they salute a little faster, I suppose. Happily I enjoy a strong relationship with my officers, so they took the change fully in stride.
 
-JS: Let’s talk about [[id:b38c4ed0-3aaa-4a86-8acd-a241164d680f][Novas]]. I understand that the Imperial Navy has deployed a fleet here at [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]’s request. 
+JS: Let’s talk about [[id:b38c4ed0-3aaa-4a86-8acd-a241164d680f][Novas]]. I understand that the [[id:e9becd28-9644-42aa-afc8-7bba3ce10076][Imperial Navy]] has deployed a fleet here at [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]’s request.
 
-HPA: That’s correct. 
+HPA: That’s correct.
 
-JS: Emperor Arissa recently resumed her duties following… an extended absence from the throne. Having now surely been briefed on [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]’s work, does the Emperor endorse Salvation? 
+JS: Emperor Arissa recently resumed her duties following… an extended absence from the throne. Having now surely been briefed on [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]’s work, does the Emperor endorse Salvation?
 
-HPA: If the Emperor had objections, her navy would not be in [[id:b38c4ed0-3aaa-4a86-8acd-a241164d680f][Novas]]. 
+HPA: If the Emperor had objections, her navy would not be in [[id:b38c4ed0-3aaa-4a86-8acd-a241164d680f][Novas]].
 
-JS: What are your objectives in the system? 
+JS: What are your objectives in the system?
 
-HPA: Well, in case it has gone unnoticed, there is a major Thargoid invasion occurring here. It is our duty to protect civilian populations and prevent the loss of strategic assets. 
+HPA: Well, in case it has gone unnoticed, there is a major Thargoid invasion occurring here. It is our duty to protect civilian populations and prevent the loss of strategic assets.
 
-JS: I’m pleased that you mentioned civilian lives first. Does [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]] share this approach? 
+JS: I’m pleased that you mentioned civilian lives first. Does [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]] share this approach?
 
-HPA: Almost certainly. Why else would he invest so much effort into his marvellous superweapon if not to protect people? 
+HPA: Almost certainly. Why else would he invest so much effort into his marvellous superweapon if not to protect people?
 
-JS: Some have claimed that [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]] prioritises victory over safety. 
+JS: Some have claimed that [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]] prioritises victory over safety.
 
-HPA: Jade, dear: they are the same thing. The cost of war is human lives, and the Thargoids extract a heavy toll. Every invaded system. Every burning starport. Every ambushed convoy. Every ship lost to hyperspace. We have repeatedly driven the Thargoids back from our space, but the wretched things keep returning. That cost grows each day. [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]’s superweapon has proven effective at wiping Thargoids from entire systems at a stroke. If Salvation calls that victory while you and I call it saving lives, then I’m comfortable with the difference in perspective. 
+HPA: Jade, dear: they are the same thing. The cost of war is human lives, and the Thargoids extract a heavy toll. Every invaded system. Every burning starport. Every ambushed convoy. Every ship lost to hyperspace. We have repeatedly driven the Thargoids back from our space, but the wretched things keep returning. That cost grows each day. [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]’s superweapon has proven effective at wiping Thargoids from entire systems at a stroke. If Salvation calls that victory while you and I call it saving lives, then I’m comfortable with the difference in perspective.
 
-JS: Thank you for elaborating. Let’s take a break. We’ll be back after these messages. 
+JS: Thank you for elaborating. Let’s take a break. We’ll be back after these messages.
 
 The rest of this interview is available to pilots arriving at the INV Succession in the [[id:b38c4ed0-3aaa-4a86-8acd-a241164d680f][Novas]] system.

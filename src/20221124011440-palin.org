@@ -7,7 +7,7 @@
 [[file:img/engineers/ishmael_palin.webp]]
 
 * Location
-Abel Laboratory | [[id:d4b595af-536d-4575-af11-f07f3ac3ff40][Arque]]
+[[id:d2995be0-905d-4a79-9032-05104c456dc5][Abel Laboratory]] | [[id:d4b595af-536d-4575-af11-f07f3ac3ff40][Arque]]
 * How to discover
 From [[id:d18667b7-1da8-48ca-bb84-e280ebf77a35][Marco Qwent]] (grade 3-4).
 * Meeting requirements
@@ -16,7 +16,7 @@ Attain a maximum distance from your career start location of at least 5,000 ligh
 Provide 25 units of [[id:cfd325a2-3d9b-435f-8ff7-e8010053af50][Sensor Fragments]].
 * Reputation gain
 - Craft modules for a major increase.
-- Sell exploration data to Abel Laboratory.
+- Sell exploration data to [[id:d2995be0-905d-4a79-9032-05104c456dc5][Abel Laboratory]].
 
 * Ishmael Palin
 
@@ -67,7 +67,7 @@ system. Palin revealed that unknown parties had abducted the team, held
 them captive and questioned them extensively about their research.
 
 Shortly thereafter, Palin stepped down as head of the Palin Institute
-in favour of Cora Shaw, citing opposition to his work from 'dark
+in favour of [[id:29f394e1-6be6-4636-b926-b0790a6333b2][Cora Shaw]], citing opposition to his work from 'dark
 forces' as the reason. He established his own independent research
 centre on [[id:43ff9480-fe9a-43a0-a6fb-edbdc1ef3d7d][Maia A 3]] a and began to study meta-alloys, a material
 sourced from the Thargoid structures nicknamed 'barnacles'.
@@ -87,7 +87,7 @@ Federal-Imperial cold war.
 In July 3305, Palin was forced to abandon his research centre when the
 Thargoids entered the [[id:0ee60994-364c-41b9-98ca-993d041cea72][Maia]] system en mass. Together with his team, Palin
 was evacuated to the [[id:d4b595af-536d-4575-af11-f07f3ac3ff40][Arque]] system, where he wasted no time in
-establishing a new base of operations at Abel Laboratory on [[id:d4b595af-536d-4575-af11-f07f3ac3ff40][Arque]] 4 E.
+establishing a new base of operations at [[id:d2995be0-905d-4a79-9032-05104c456dc5][Abel Laboratory]] on [[id:d4b595af-536d-4575-af11-f07f3ac3ff40][Arque]] 4 E.
 
 Professor Palin's career has been an inspiration to many young
 scientists, partly because of his determination that research should

@@ -8,11 +8,11 @@
 
 /04 Jan 3302/
 
-Officials at Gabriel Enterprise in the Harma system have reported that the technical issues affecting the starport have worsened, leading to the immediate suspension of all services apart from docking and shipyard access. This brings the total number of starports closed as a result of the mysterious malfunctions to seven. A complete list of affected stations and systems follows.
+Officials at [[id:8c659354-ea2b-4fd2-aeb9-874346ff07c1][Gabriel Enterprise]] in the Harma system have reported that the technical issues affecting the starport have worsened, leading to the immediate suspension of all services apart from docking and shipyard access. This brings the total number of starports closed as a result of the mysterious malfunctions to seven. A complete list of affected stations and systems follows.
 
 Stations where services have been suspended:
 
-Gabriel Enterprise, Harma system
+[[id:8c659354-ea2b-4fd2-aeb9-874346ff07c1][Gabriel Enterprise]], Harma system
 
 Gurragchaa [[id:e179ecca-9ab3-4184-b05e-107b2e6932c2][Gateway]], Warkushanui system
 

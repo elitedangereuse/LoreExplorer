@@ -10,7 +10,7 @@
 
 [[id:e46779af-a26e-45fb-a784-21e970eeaae1][Fazia Silva]], one of the three candidates in the Alliance presidential race, has been found dead. She is believed to have been murdered.
 
-Inspector Erin Sangster of Alliance Interpol informed the media:
+Inspector Erin Sangster of [[id:415ecd29-3cf3-4f3c-ab29-a7debb4b56de][Alliance Interpol]] informed the media:
 
 “Ms Silva’s body was found in a room at Hume Orbital, where she was staying during her presidential campaign. Medical teams detected traces of poison, making this a suspected homicide.”
 
@@ -22,4 +22,4 @@ Her sister [[id:e9a91ed4-acc1-4e93-9dee-b0aa03fd2ce9][Tashmira Silva]], who has 
 
 Condolences have been delivered by Prime Minister [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74][Edmund Mahon]] and both of Ms Silva’s election rivals, [[id:8520e75f-0479-42c5-9083-f9abfbad721e][Gibson Kincaid]] and [[id:f559048e-fb76-46be-9c40-689e596e048c][Elijah Beck]]. President Kincaid said:
 
-“This tragedy constitutes a direct attack on our democracy. The Alliance’s enemies will do anything they can to destabilise us, including murder. If we are to fight back, we will need strong leadership.”
+“This tragedy constitutes a direct attack on our democracy. [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][The Alliance]]’s enemies will do anything they can to destabilise us, including murder. If we are to fight back, we will need strong leadership.”

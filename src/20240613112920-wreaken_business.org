@@ -12,7 +12,7 @@ systems. Mining stations extract natural resources and transport them
 to vast industrial refineries, or with the larger deposits, refine
 them on site. The company is aggressive in its acquisitions as it
 strives to maintain its position in the face of direct competition
-from Mastopolos Mining Incorporated.
+from [[id:4dfc1d85-8d12-4503-a4ed-84da898a03ba][Mastopolos Mining]] Incorporated.
 
 The recent discoveries of [[id:d10c0435-4bc8-42ac-bea6-228d2f02604c][Tantalum]] in several systems, including
 [[id:35ef7825-95ca-418d-9cc2-9e7934b351c9][Tiliala]] during the last century have led to several new contracts for

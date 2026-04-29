@@ -25,7 +25,7 @@ secret, was said to be the principal aim of the Dark Wheel, a putative
 fraternity of legend-chasers from the early days of interstellar travel.
 
 The earliest recorded mention of Raxxla dates from 2296, from the
-journal of Art Tornqvist, a shipboard mechanic based in the Tau Ceti
+journal of Art Tornqvist, a shipboard mechanic based in the [[id:000181d2-87fb-4eac-9c05-378082def97f][Tau Ceti]]
 system. He writes: 'Cora comes home soused and raving with wild stories,
 a new one every night. She claims she's found a map to some pirate
 stash, and all I have to do is loan her my ship so we can go dig it up.
@@ -43,7 +43,7 @@ points, however: that Raxxla is a definite place, and that it holds a
 mystical secret.
 
 Several versions of the Raxxla story mention an alien artefact, the
-Omphalos Rift, described as a gateway or tunnel through which parallel
+[[id:865093c7-c399-460e-9dda-fb298f3f5d7f][Omphalos Rift]], described as a gateway or tunnel through which parallel
 universes can be accessed. These details, however, were later shown to
 bear a striking resemblance to the children's story Princess Astrophel
 and the Spiralling Stars, and soon lost credibility. Undaunted, some

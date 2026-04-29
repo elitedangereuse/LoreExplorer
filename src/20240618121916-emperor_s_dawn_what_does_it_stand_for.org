@@ -8,16 +8,16 @@
 
 /03 Oct 3301/
 
-Emperor's Dawn: What does it stand for? 
- 
-Since news of Emperor's Dawn first emerged, there has been extensive speculation about the group's agenda. That the organisation wants to destabilise the Imperial power base seems highly likely, given that it was almost certainly responsible for the assassination of Emperor [[id:3cb0755e-4deb-442b-898b-3f0c6651636e][Hengist Duval]], but the specifics of its ambitions have remained unclear. 
+Emperor's Dawn: What does it stand for?
 
-Propaganda material disseminated by Emperor's Dawn has been thoroughly examined, but the generalities it contains, and the vague promises of returning Imperial society to 'traditional values', have done little to illuminate the group's philosophy. Some commentators have suggested that the organisation may be deliberately avoiding making an explicit statement for fear of discouraging potential recruits. After all, if you are intentionally vague about what you stand for, people may assume you stand for the same things they do. 
+Since news of Emperor's Dawn first emerged, there has been extensive speculation about the group's agenda. That the organisation wants to destabilise the Imperial power base seems highly likely, given that it was almost certainly responsible for the assassination of Emperor [[id:3cb0755e-4deb-442b-898b-3f0c6651636e][Hengist Duval]], but the specifics of its ambitions have remained unclear.
 
-All this has changed, however, with the recovery of an internal Emperor's Dawn statement, released by an individual claiming to be a former member of the organisation. The following text is taken verbatim from the document: 
+Propaganda material disseminated by Emperor's Dawn has been thoroughly examined, but the generalities it contains, and the vague promises of returning Imperial society to 'traditional values', have done little to illuminate the group's philosophy. Some commentators have suggested that the organisation may be deliberately avoiding making an explicit statement for fear of discouraging potential recruits. After all, if you are intentionally vague about what you stand for, people may assume you stand for the same things they do.
 
-"The Empire has become irrevocably decadent, and stands at a vast remove from the noble ideals that birthed it. In anticipation of its inevitable collapse, we, Emperor's Dawn, Heralds of the New Imperial Age, have compiled the following edicts, to be delivered to the Empire at an appropriate time. We demand that Emperor's Dawn be free to determine the appointment of a new Emperor, that the corrupt and amoral Imperial Senate be immediately disbanded, and that the equivocation and leniency that has neutered the Imperial military be stamped out, to be replaced with a philosophy of total martial conviction." 
+All this has changed, however, with the recovery of an internal Emperor's Dawn statement, released by an individual claiming to be a former member of the organisation. The following text is taken verbatim from the document:
 
-The identity of the individual who provided the information is not known, but it is understood that Imperial security experts believe the material to be genuine. The office of Senator [[id:75daea85-5e9f-4f6f-a102-1a5edea0283c][Denton Patreus]] responded to the release of the document with a brief statement: 
+"[[id:77cf2f14-105e-4041-af04-1213f3e7383c][The Empire]] has become irrevocably decadent, and stands at a vast remove from the noble ideals that birthed it. In anticipation of its inevitable collapse, we, Emperor's Dawn, Heralds of the New Imperial Age, have compiled the following edicts, to be delivered to the Empire at an appropriate time. We demand that Emperor's Dawn be free to determine the appointment of a new Emperor, that the corrupt and amoral [[id:6b539fa1-7ebe-44d3-874b-41a3bd400af9][Imperial Senate]] be immediately disbanded, and that the equivocation and leniency that has neutered the Imperial military be stamped out, to be replaced with a philosophy of total martial conviction."
+
+The identity of the individual who provided the information is not known, but it is understood that Imperial security experts believe the material to be genuine. The office of Senator [[id:75daea85-5e9f-4f6f-a102-1a5edea0283c][Denton Patreus]] responded to the release of the document with a brief statement:
 
 "This information does not change the Senator's position regarding Emperor's Dawn. It is an enemy of the Empire, and it will be destroyed."

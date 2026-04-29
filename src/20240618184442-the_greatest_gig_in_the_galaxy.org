@@ -8,9 +8,9 @@
 
 /10 Aug 3305/
 
-The Alliance Festival of Culture enters its third week with a massive music festival in the [[id:686a1ef0-80ad-48c0-b2b5-f2da43b333f1][Phekda]] system drawing thousands of attendees. Organisers are calling the event ‘the greatest gig in the galaxy’.
+[[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][The Alliance]] Festival of Culture enters its third week with a massive music festival in the [[id:686a1ef0-80ad-48c0-b2b5-f2da43b333f1][Phekda]] system drawing thousands of attendees. Organisers are calling the event ‘the greatest gig in the galaxy’.
 
-[[id:fae74250-4701-490e-9f25-86a70ad3a3d4][Corinne Macintyre]], cultural correspondent for The Alliance Tribune, reported:
+[[id:fae74250-4701-490e-9f25-86a70ad3a3d4][Corinne Macintyre]], cultural correspondent for [[id:ad2baca1-f970-4308-8b07-78cd4a5a8fd0][The Alliance Tribune]], reported:
 
 “The programme is certainly diverse, encompassing everything from megastars like Spectacular Nemesis and Jade Graceland to up-and-comers such as The Lasting Hold.”
 
@@ -18,4 +18,4 @@ The Alliance Festival of Culture enters its third week with a massive music fest
 
 “But the big news is that legendary singer-songwriter [[id:0a5d1273-0610-43a3-ac86-5d4adce021a7][Xiona]] is coming out of retirement for a special one-off performance.”
 
-The Alliance Festival of Culture will continue for a further four weeks.
+[[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][The Alliance]] Festival of Culture will continue for a further four weeks.

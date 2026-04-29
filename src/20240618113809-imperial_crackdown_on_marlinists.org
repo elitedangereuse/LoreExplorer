@@ -8,15 +8,15 @@
 
 /30 Sep 3306/
 
-Senator [[id:75daea85-5e9f-4f6f-a102-1a5edea0283c][Denton Patreus]] has mobilised Imperial military forces in response to terrorist acts committed by the Neo-Marlinist Liberation Army (NMLA).
+Senator [[id:75daea85-5e9f-4f6f-a102-1a5edea0283c][Denton Patreus]] has mobilised Imperial military forces in response to terrorist acts committed by the [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][Neo-Marlinist Liberation Army]] (NMLA).
 
-The Empire has declared martial law and a lockdown in [[id:77a7a843-4242-4da8-a764-c1525e6ceefe][Ackwada]], Beatis Chana and Nahuatl, where the republican ideals of Marlinism are known to be popular. Imperial Army troops have replaced local security forces, and potential [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] sympathisers are being arrested for interrogation.
+[[id:77cf2f14-105e-4041-af04-1213f3e7383c][The Empire]] has declared martial law and a lockdown in [[id:77a7a843-4242-4da8-a764-c1525e6ceefe][Ackwada]], Beatis Chana and Nahuatl, where the republican ideals of Marlinism are known to be popular. Imperial Army troops have replaced local security forces, and potential [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] sympathisers are being arrested for interrogation.
 
-Senator Patreus received applause in the Imperial Senate when he vowed:
+Senator Patreus received applause in the [[id:6b539fa1-7ebe-44d3-874b-41a3bd400af9][Imperial Senate]] when he vowed:
 
 “There will be justice for the murder of [[id:28fc3b99-d8a7-49e1-9593-1db6043430c7][Prince Harold Duval]] and justice for those citizens who perished in flames. The Marlinists will pay dearly for these atrocities!”
 
-In related news, the Imperial Internal Security Service issued a report regarding the NMLA’s recent attacks on starports:
+In related news, the [[id:01980efc-1b06-4f55-bf18-fa6c7e56f1eb][Imperial Internal Security Service]] issued a report regarding the NMLA’s recent attacks on starports:
 
 “Forensic results confirm that much of the station damage was caused by Thargoid caustic enzymes. Fragments indicate that the bombs were of advanced design but definitely man-made, not Thargoid in origin. Their payloads were identical in composition to enzyme missile rack warheads.”
 

@@ -19,7 +19,7 @@
   --- [[id:7bca1ccd-649e-438a-ae56-fb8ca34e6440][Aden Tanner]], address to Federal cadets, 3298
 #+end_quote
 
-Admiral [[id:7bca1ccd-649e-438a-ae56-fb8ca34e6440][Aden Tanner]] is a senior officer in the Federal Navy. He has
+Admiral [[id:7bca1ccd-649e-438a-ae56-fb8ca34e6440][Aden Tanner]] is a senior officer in the [[id:3d268496-1d95-49bc-aca6-49d16a4337c8][Federal Navy]]. He has
 served for more than four decades, and in 3303 was given significant
 responsibiility in the struggle against the Thargoids, first being
 appointed to Chief of Federal Security and later to Chief Military
@@ -29,7 +29,7 @@ level-headed approach to conflict.
 
 Born in 3254, Tanner was expected to follow in the footsteps of his
 authoritarian father becoming a doctor, but instead enlisted in the
-Federal Navy, along with a group of friends, in what he would later
+[[id:3d268496-1d95-49bc-aca6-49d16a4337c8][Federal Navy]], along with a group of friends, in what he would later
 describe as 'a rash act of adolescent rebellion that I have not once
 regretted'. Tanner's father died in 3277; the two never resolved their
 enstrangement.

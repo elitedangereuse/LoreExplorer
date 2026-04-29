@@ -16,10 +16,10 @@ An anonymous statement was broadcast via the NMLA’s propaganda channels:
 
 Reactions were covered by several newsfeeds:
 
-The Imperial Herald: “Senator Scordato’s proposal to open diplomatic relations with the Marlinist Colonies is already contentious. But could the Emperor ever accept dialogue with the extremists who tried to murder the Imperial Family?”
+The [[id:626a18d7-ad16-4093-b9be-d9dc1940594b][Imperial Herald]]: “Senator Scordato’s proposal to open diplomatic relations with the Marlinist Colonies is already contentious. But could the Emperor ever accept dialogue with the extremists who tried to murder the Imperial Family?”
 
-The Federal Times: “The idea of negotiating with terrorists is as abhorrent to the Empire as to the Federation. And yet, the opportunity to prevent another ‘Nine Martyrs’ cannot be ignored.”
+[[id:be5df73c-519d-45ed-a541-9b70bc8ae97c][The Federal Times]]: “The idea of negotiating with terrorists is as abhorrent to the Empire as to the Federation. And yet, the opportunity to prevent another ‘Nine Martyrs’ cannot be ignored.”
 
-The Alliance Tribune: “In the absence of any breakthroughs from [[id:a152bfb8-4b9a-4b61-a292-824ecbd263e1][ACT]], perhaps peaceful discussion is how we defuse the terrorist threat... even if that was the NMLA’s endgame all along.”
+[[id:ad2baca1-f970-4308-8b07-78cd4a5a8fd0][The Alliance Tribune]]: “In the absence of any breakthroughs from [[id:a152bfb8-4b9a-4b61-a292-824ecbd263e1][ACT]], perhaps peaceful discussion is how we defuse the terrorist threat... even if that was the NMLA’s endgame all along.”
 
 The Marlin Standard: “Many of our people welcome closer ties with the Empire, especially if it involves contacting friends and families left behind. But the [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] using our parliament as its platform has caused widespread unrest. With [[id:83ddd0cb-e22d-4586-bc11-692af4a335c8][Aaron Whyte]] being openly challenged by other ministers, a Marlinist civil war no longer seems unthinkable.”

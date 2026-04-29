@@ -8,38 +8,38 @@
 
 /07 Sep 3309/
 
-*Pilots’ Federation ALERT* 
+*Pilots’ Federation ALERT*
 
-The eleven megaships coordinating evacuation efforts from Thargoid-invaded systems are set to move over the next few weeks. 
+The eleven megaships coordinating evacuation efforts from Thargoid-invaded systems are set to move over the next few weeks.
 
-Military analysis of the current front line has highlighted that the distance between active conflict areas and the megaships can be decreased with an acceptably low degree of risk. Vice Admiral [[id:dce2491e-fa32-458a-90b1-3a2e0bede702][Skylar Anderson]], part of the Imperial delegation to Aegis, offered this comment: 
+Military analysis of the current front line has highlighted that the distance between active conflict areas and the megaships can be decreased with an acceptably low degree of risk. Vice Admiral [[id:dce2491e-fa32-458a-90b1-3a2e0bede702][Skylar Anderson]], part of the Imperial delegation to Aegis, offered this comment:
 
-“Shortening the distance between systems which require humanitarian support and the megaships responsible for coordinating that support is important. Until now we have urged caution to maintain their current safe positions, since these vessels are obvious targets for Thargoid attack. But as our brave pilots continue to regain territory and push the alien forces back, we feel confident that this is the right decision.” 
+“Shortening the distance between systems which require humanitarian support and the megaships responsible for coordinating that support is important. Until now we have urged caution to maintain their current safe positions, since these vessels are obvious targets for Thargoid attack. But as our brave pilots continue to regain territory and push the alien forces back, we feel confident that this is the right decision.”
 
-From September 7th, the following megaships will temporarily cease offering new mission contracts. They will redeploy to new locations on September 14th, with missions offered once again: 
+From September 7th, the following megaships will temporarily cease offering new mission contracts. They will redeploy to new locations on September 14th, with missions offered once again:
 
-Rescue Ship Foerster 
+Rescue Ship Foerster
 
-Rescue Ship Hutner 
+Rescue Ship Hutner
 
-Rescue Ship Seacole 
+Rescue Ship Seacole
 
-Rescue Ship Yoshida 
+Rescue Ship Yoshida
 
-Allied [[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]]ace 
+Allied [[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]]ace
 
-From September 14th, the following megaships will temporarily cease offering new mission contracts. They will redeploy to new locations on September 21st, with missions offered once again: 
+From September 14th, the following megaships will temporarily cease offering new mission contracts. They will redeploy to new locations on September 21st, with missions offered once again:
 
-Rescue Ship Bertschinger 
+Rescue Ship Bertschinger
 
-Rescue Ship Cavell 
+Rescue Ship Cavell
 
-Rescue Ship Cornwallis  
+Rescue Ship Cornwallis
 
-Rescue Ship Kisseih 
+Rescue Ship Kisseih
 
-Imperial Sanctum 
+[[id:16c1d396-0677-48d0-a12d-04548891f05e][Imperial Sanctum]]
 
-Federal Haven 
+[[id:c7bea4d3-ef01-46b4-84c2-e4562e8b9fca][Federal Haven]]
 
 Any ships or modules stored on the rescue megaships will be transported safely to the new location.

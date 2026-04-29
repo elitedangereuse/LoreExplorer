@@ -9,7 +9,7 @@
 On November 25th 3302 a prisoner convoy has been interdicted and
 destroyed in the Daibo system while en route to [[id:974fe20f-15c8-4fbc-a351-746c6598137e][Koontz
 Asylum]]. Wreckage found in Daibo has been positively identified as
-belonging to the Imperial Cutter '[[id:081c78b0-3110-4a17-8e58-39c8b0c4dad0][Diadem]]' and the Imperial Clippers
+belonging to the [[id:ab621e71-06dd-443a-a038-6e84e1c9e04e][Imperial Cutter]] '[[id:081c78b0-3110-4a17-8e58-39c8b0c4dad0][Diadem]]' and the Imperial Clippers
 '[[id:60b3e22e-5e3c-4c35-a0c6-2c1932a1197d][Cypripedium]]', '[[id:f1fd5d65-9948-4a61-80ed-c644c681ca50][Velum]]', '[[id:a305e741-9f5d-457d-8cc5-b4e2393f6de9][Monile]]' and '[[id:9915ff4d-6ad7-46a7-8da4-2936f6526f80][Vestimenta]]'.
 
 It has been confirmed that the convoy was carrying various political

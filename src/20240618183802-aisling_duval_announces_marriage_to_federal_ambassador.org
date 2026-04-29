@@ -8,7 +8,7 @@
 
 /23 Jun 3304/
 
-Princess [[id:b402bbe3-5119-4d94-87ee-0ba279658383][Aisling Duval]] has made an unexpected announcement regarding her relationship with Federal Ambassador [[id:81c5c161-1553-44f0-b5fb-c4a58f1f71d7][Jordan Rochester]].  
+Princess [[id:b402bbe3-5119-4d94-87ee-0ba279658383][Aisling Duval]] has made an unexpected announcement regarding her relationship with Federal Ambassador [[id:81c5c161-1553-44f0-b5fb-c4a58f1f71d7][Jordan Rochester]].
 
 At a press conference in her palace on [[id:465800ad-1e27-44fa-9b4b-5ca23bcc36ce][Emeral]]d, the princess looked
 radiant as she addressed the media:
@@ -22,7 +22,7 @@ but love knows no borders. It’s our wish that our marriage will build
 lasting bridges between the Empire and the Federation.”
 
 A statement from Ambassador Rochester appeared in a special edition of
-The Federal Times:
+[[id:be5df73c-519d-45ed-a541-9b70bc8ae97c][The Federal Times]]:
 
 “Representing the Federation has been my life’s work, but meeting Her
 Highness – Aisling – made me realise that being by her side means even

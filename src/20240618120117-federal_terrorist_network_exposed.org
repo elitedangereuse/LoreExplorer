@@ -8,16 +8,16 @@
 
 /13 Oct 3307/
 
-The Proactive Detection Bureau has been instrumental in identifying violent corporatist extremists within the Federation. 
+The Proactive Detection Bureau has been instrumental in identifying violent corporatist extremists within the Federation.
 
-Deputy Director Bethany Blake of the Federal Intelligence Agency gave a statement to the media: 
+Deputy Director Bethany Blake of the [[id:d75a6c3f-5c3a-418b-b639-5e14b487f568][Federal Intelligence Agency]] gave a statement to the media:
 
-“In recent weeks, our surveillance algorithms flagged a series of coded communications for investigation. We found that a network of radicalised citizens were discussing plans to assassinate members of Congress and leading political figures.” 
+“In recent weeks, our surveillance algorithms flagged a series of coded communications for investigation. We found that a network of radicalised citizens were discussing plans to assassinate members of Congress and leading political figures.”
 
-“This movement, which calls itself Jupiter’s Wrath, is inspired by [[id:c33064d1-c2a0-4ac3-89fe-57eedb7ef9c8][Jupiter Rochester]]’s failed attempt to enable corporations to directly rule the Federation. Their goal was to enact revenge on those who they consider to be the ‘enemies of [[id:a35c5eb2-0697-4ef3-9a11-950791952e2d][Jupiter Division]]’.” 
+“This movement, which calls itself Jupiter’s Wrath, is inspired by [[id:c33064d1-c2a0-4ac3-89fe-57eedb7ef9c8][Jupiter Rochester]]’s failed attempt to enable corporations to directly rule the Federation. Their goal was to enact revenge on those who they consider to be the ‘enemies of [[id:a35c5eb2-0697-4ef3-9a11-950791952e2d][Jupiter Division]]’.”
 
-“Using data intercepted by the Proactive Detection Bureau, FIA agents performed a series of coordinated strikes in several Federal systems. Over a thousand armed extremists were arrested before they could act. We are currently working to identify the remaining Jupiter’s Wrath members.” 
+“Using data intercepted by the Proactive Detection Bureau, FIA agents performed a series of coordinated strikes in several Federal systems. Over a thousand armed extremists were arrested before they could act. We are currently working to identify the remaining Jupiter’s Wrath members.”
 
-Vice President [[id:7bdfd887-d1db-46bc-98c4-2fb39bfcc914][Jerome Archer]] claimed that this was further validation of the Domestic Counter-Terrorism Act, which permitted the PDB to be established. However, Shadow President [[id:b9fe58a3-dfb7-480c-afd6-92c3be841be7][Felicia Winters]] commented: 
+Vice President [[id:7bdfd887-d1db-46bc-98c4-2fb39bfcc914][Jerome Archer]] claimed that this was further validation of the [[id:33b63cf3-a3ee-4d98-9e20-571f548d7b8b][Domestic Counter-Terrorism Act]], which permitted the PDB to be established. However, Shadow President [[id:b9fe58a3-dfb7-480c-afd6-92c3be841be7][Felicia Winters]] commented:
 
 “I commend the FIA for performing their duties. But I also question the timing of this operation, coming so soon after President Hudson’s appallingly reckless attempt to capture [[id:b4892958-b513-46dc-b74e-26887b53f678][Yuri Grom]]. To me it seems calculated to show his administration in a positive light, while ignoring the violation of citizens’ privacy.”

@@ -24,7 +24,7 @@ von Bellingshausen Port, Almar
 
 Haack [[id:e179ecca-9ab3-4184-b05e-107b2e6932c2][Gateway]], Halbangaay
 
-Gabriel Enterprise, Harma
+[[id:8c659354-ea2b-4fd2-aeb9-874346ff07c1][Gabriel Enterprise]], Harma
 
 Gurragchaa [[id:e179ecca-9ab3-4184-b05e-107b2e6932c2][Gateway]], Warkushanui
 
@@ -54,7 +54,7 @@ al-Din Prospect, [[id:2de7ac5c-9ae0-4ebf-af7d-6505f05d2fd1][Alpha Centauri]]
 
 Robigo Mines, Robigo
 
-Saunders's Dive, Wolf 1301
+[[id:6e12b007-fb02-4ce9-9d03-d4f1acec20dd][Saunders's Dive]], [[id:7815976c-fd70-4496-9a17-23d392a95014][Wolf 1301]]
 
 Alexander Freeport, HIP 18843
 

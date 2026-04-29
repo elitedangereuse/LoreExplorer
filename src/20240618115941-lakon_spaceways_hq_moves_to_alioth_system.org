@@ -8,7 +8,7 @@
 
 /19 Feb 3307/
 
-*Pilots Federation ALERT* 
+*Pilots Federation ALERT*
 
 The capital system of the Alliance now hosts Lakon’s administrative
 hub and offers a 5% discount on its ships.
@@ -33,5 +33,5 @@ ships will remain available across the galaxy.”
 The attempted takeover of [[id:906c77b7-7fe4-48c1-ace5-1265023c2ebf][Lakon Spaceways]] by [[id:4a28463f-cbed-493b-9466-70cbc6e19662][Core Dynamics]] was revoked
 due to revelations of illegal practices by its former CEO, [[id:c33064d1-c2a0-4ac3-89fe-57eedb7ef9c8][Jupiter
 Rochester]]. Federal news sources have reported that a rapid restructure
-is taking place within Core Dynamics, alongside investigations by the
+is taking place within [[id:4a28463f-cbed-493b-9466-70cbc6e19662][Core Dynamics]], alongside investigations by the
 [[id:d75a6c3f-5c3a-418b-b639-5e14b487f568][Federal Intelligence Agency]].

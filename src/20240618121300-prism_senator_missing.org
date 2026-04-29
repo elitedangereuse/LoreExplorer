@@ -22,9 +22,9 @@ Reaction across the Empire was muted, but many have speculated that something un
 
 “Doesn’t matter what Delaney says,” said a commentator from the Imperial Citizen. “Prism belongs to Patreus now, Kahina’s just abandoned it and all the citizens she professed to care about. She’s a coward and an irrelevance.”
 
-“Did she get too close to the fires burning in the Empire?” asked Kazien Vantris, chief editor of the Imperial Herald. “Or is she pursuing some other objective? She was always determined and bold. Wherever you’ve gone, Lady Kahina, farewell.”
+“Did she get too close to the fires burning in the Empire?” asked Kazien Vantris, chief editor of the [[id:626a18d7-ad16-4093-b9be-d9dc1940594b][Imperial Herald]]. “Or is she pursuing some other objective? She was always determined and bold. Wherever you’ve gone, Lady Kahina, farewell.”
 
-Lady Kahina’s Imperial Courier, the ‘Seven Veils’, still at the Capitol spaceport, was impounded and examined. It was found to be completely stripped of all valuable equipment, with the modifications made at [[id:55628bb2-5f97-4086-b281-170acff0bf9b][Avalon]] shipyards discovered to be carefully crafted fakes.
+Lady Kahina’s Imperial Courier, the ‘[[id:2a22eaa3-2e5b-4fce-bc9b-3afc5888753e][Seven Veils]]’, still at the Capitol spaceport, was impounded and examined. It was found to be completely stripped of all valuable equipment, with the modifications made at [[id:55628bb2-5f97-4086-b281-170acff0bf9b][Avalon]] shipyards discovered to be carefully crafted fakes.
 
 Lady Kahina’s Imperial tiara was found in the cockpit, along with a small medallion bearing an ancient symbol on one side and the word [[id:2f09bc24-0885-4d00-9d1f-506b32464dbe][Salomé]]’ on the other.
 

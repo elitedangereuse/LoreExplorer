@@ -18,6 +18,6 @@ Rani Zaman , a spokesperson for the Thargoid Advocacy Project team monitoring lo
 
 “I regret to say that all attempts to raise the Kingfisher on any frequency have failed. The last message we received was highly distorted, but seemed to be a distress call. We are asking for immediate assistance to locate the megaship and provide whatever support may be needed.”
 
-The Federation responded by cancelling the temporary permit restriction to the Hyades Sector YO-Q b5-1 system for all vessels except fleet carriers. This permit was arranged at the request of Congressman [[id:ce508d31-48d2-411d-9056-6b451fc66cf3][Dalton Chase]], who played a key role in procuring the Kingfisher megaship for use by TAP volunteers. With access to the system reinstated, Federal investigators have been despatched to assess the situation.
+[[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][The Federation]] responded by cancelling the temporary permit restriction to the Hyades Sector YO-Q b5-1 system for all vessels except fleet carriers. This permit was arranged at the request of Congressman [[id:ce508d31-48d2-411d-9056-6b451fc66cf3][Dalton Chase]], who played a key role in procuring the Kingfisher megaship for use by TAP volunteers. With access to the system reinstated, Federal investigators have been despatched to assess the situation.
 
 Observers have confirmed that the Taranis anomaly passed through Hyades Sector YO-Q b5-1 at faster-than-light speed. As with the other rogue signal sources, Taranis continues to move towards the core systems.

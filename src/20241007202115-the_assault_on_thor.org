@@ -7,18 +7,18 @@
 
 /16 Aug 3310/
 
-*Pilots’ Federation Alert*  
+*Pilots’ Federation Alert*
 
-Titan Thor is under siege. This is an urgent call to all independent pilots to aid in the complete defeat of the sixth Titan. 
+Titan Thor is under siege. This is an urgent call to all independent pilots to aid in the complete defeat of the sixth Titan.
 
-The key modules for the assault continue to be readily available at all Rescue Megaships: 
+The key modules for the assault continue to be readily available at all [[id:182c575c-e759-4f7e-ad38-cf8424926490][Rescue Megaships]]:
 
-• Thargoid Pulse Neutraliser – To break through the maelstrom defence wave. 
+• [[id:26caa006-c4e8-4430-b8af-57d3df0ce9c7][Thargoid Pulse Neutraliser]] – To break through the maelstrom defence wave.
 
-• Caustic Sink Launchers – To protect your ship from caustic effects of the maelstrom. 
+• [[id:345f3ec9-42be-46e1-a75c-a53dd92f3e13][Caustic Sink Launchers]] – To protect your ship from caustic effects of the maelstrom.
 
-• Guardian Nanite Torpedo Pylon – To hamper the Titan’s vents and make it vulnerable to damage. 
+• [[id:d4b88dc3-0b7e-4871-8cd4-47e0cac7e4c6][Guardian Nanite Torpedo Pylon]] – To hamper the Titan’s vents and make it vulnerable to damage.
 
-Rewards have been requisitioned for all Commanders able to participate in ending the Titan threat. 
+Rewards have been requisitioned for all Commanders able to participate in ending the Titan threat.
 
 Good luck, Commanders.

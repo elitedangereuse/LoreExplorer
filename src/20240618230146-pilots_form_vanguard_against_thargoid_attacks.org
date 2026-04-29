@@ -14,7 +14,7 @@ Commanders are resisting Thargoid incursions in the Dan, HIP 12314 and Nauni sys
 
 Although Aegis support vessels have been repurposed to offer support in all three systems, the organisation remains officially disbanded. It has fallen to individual pilots to defend the populations from swarms of Thargoid vessels.
 
-The [[id:17d9294e-7759-4cf4-9a67-5f12b5704f51][Alliance Defence Force]], Federal Navy and Imperial Navy all intend to replace Aegis with their own anti-xeno taskforces, but these have yet to materialise. This was remarked upon by independent journalist [[id:6296c2e7-9a87-48a6-bef6-53f9f60c1a2f][Flint ‘Firemaker’ Lafosse]]:
+The [[id:17d9294e-7759-4cf4-9a67-5f12b5704f51][Alliance Defence Force]], [[id:3d268496-1d95-49bc-aca6-49d16a4337c8][Federal Navy]] and [[id:e9becd28-9644-42aa-afc8-7bba3ce10076][Imperial Navy]] all intend to replace Aegis with their own anti-xeno taskforces, but these have yet to materialise. This was remarked upon by independent journalist [[id:6296c2e7-9a87-48a6-bef6-53f9f60c1a2f][Flint ‘Firemaker’ Lafosse]]:
 
 “We’ve got the Alliance trying to sell its own people to [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]], the Empire somehow misplacing its own Emperor, and the Federation being torn to pieces by its crazy president… who’s got time to worry about Thargoids? I’ll tell you who: the civilians in the systems they’re invading! Our so-called leaders are praying that [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]] will step in and save the day, but he could be an alien himself for all we know!”
 

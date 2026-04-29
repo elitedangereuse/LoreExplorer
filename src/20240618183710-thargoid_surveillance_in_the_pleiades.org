@@ -8,28 +8,28 @@
 
 /10 Mar 3304/
 
-Aegis has launched an operation to monitor Thargoid activity in the Pleiades Nebula. 
+Aegis has launched an operation to monitor Thargoid activity in the Pleiades Nebula.
 
-Admiral [[id:7bca1ccd-649e-438a-ae56-fb8ca34e6440][Aden Tanner]], chief military liaison at Aegis, made this statement: 
+Admiral [[id:7bca1ccd-649e-438a-ae56-fb8ca34e6440][Aden Tanner]], chief military liaison at Aegis, made this statement:
 
-“Our new Eagle Eye initiative will closely monitor systems where Thargoid surface sites are known to exist.” 
+“Our new Eagle Eye initiative will closely monitor systems where Thargoid surface sites are known to exist.”
 
-“We have established orbital surveillance installations at six locations in the Pleiades, which will measure energy-level fluctuations and track ship movements. Each installation is attended by a comms beacon that will collect the data before transmitting it to us for analysis.” 
+“We have established orbital surveillance installations at six locations in the Pleiades, which will measure energy-level fluctuations and track ship movements. Each installation is attended by a comms beacon that will collect the data before transmitting it to us for analysis.”
 
-Aegis has confirmed that Eagle Eye installations have been placed in the following systems: 
+Aegis has confirmed that Eagle Eye installations have been placed in the following systems:
 
-HIP 17225 
+[[id:acffcea9-44ae-4689-8bc9-74f65c75e0ae][HIP 17225]]
 
-HIP 17692 
+HIP 17692
 
-HIP 17892 
+HIP 17892
 
-HR 1185 
+HR 1185
 
-Pleiades Sector IR-W d1-55 
+Pleiades Sector IR-W d1-55
 
-Pleiades Sector KC-V c2-4 
+Pleiades Sector KC-V c2-4
 
-Professor [[id:c2623368-19b0-4995-9e35-b8f54f741a53][Alba Tesreau]] commented: 
+Professor [[id:c2623368-19b0-4995-9e35-b8f54f741a53][Alba Tesreau]] commented:
 
 “My hope is that this initiative will greatly increase our knowledge of the Thargoids. Observing their ‘natural’ activities, outside of combat zones, should further our understanding of their behaviour.”

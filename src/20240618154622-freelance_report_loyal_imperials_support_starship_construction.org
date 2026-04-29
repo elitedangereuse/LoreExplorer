@@ -8,12 +8,12 @@
 
 /23 Apr 3302/
 
-The construction of a Majestic-class Interdictor in the Mundjiga system requires generous quantities of tantalum, gallium and indium. Threats of piracy and violent protest have already reached the system. 
+The construction of a Majestic-class Interdictor in the Mundjiga system requires generous quantities of tantalum, gallium and indium. Threats of piracy and violent protest have already reached the system.
 
-To counter these threats, a collective of former security contractors known as the Praetorians have committed their forces to defending Mundjiga and the traders operating there. Loren's Legion, an extension of the [[id:8da12af2-6006-4e7e-a45e-7bf8b2c299c8][Prism]] defence force, will operate jointly with the Praetorians, protecting traders sourcing tantalum from Prism. 
+To counter these threats, a collective of former security contractors known as the Praetorians have committed their forces to defending Mundjiga and the traders operating there. [[id:29fe7e20-3e8d-4285-aab4-52ce5ed11366][Loren's Legion]], an extension of the [[id:8da12af2-6006-4e7e-a45e-7bf8b2c299c8][Prism]] defence force, will operate jointly with the Praetorians, protecting traders sourcing tantalum from Prism.
 
-Duke Alden Rowe, leader of the Praetorians, gave the following statement to the press: 
+Duke Alden Rowe, leader of the Praetorians, gave the following statement to the press:
 
-"Loyal members of the Imperial Navy Auxiliary, we cannot permit interference with the construction of this critical asset. We must enforce Imperial law and the will of Admiral Patreus by protecting vessels delivering cargo to Sagan Port. We will be a shield for this new Interdictor until it is ready to be a shield for the Empire." 
+"Loyal members of the [[id:e9becd28-9644-42aa-afc8-7bba3ce10076][Imperial Navy]] Auxiliary, we cannot permit interference with the construction of this critical asset. We must enforce Imperial law and the will of Admiral Patreus by protecting vessels delivering cargo to Sagan Port. We will be a shield for this new Interdictor until it is ready to be a shield for the Empire."
 
-Commander Corrigendum, Loren's Legion
+Commander Corrigendum, [[id:29fe7e20-3e8d-4285-aab4-52ce5ed11366][Loren's Legion]]

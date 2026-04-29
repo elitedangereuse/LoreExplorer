@@ -8,22 +8,22 @@
 
 /06 Apr 3309/
 
-*Pilots’ Federation ALERT* 
+*Pilots’ Federation ALERT*
 
-The killing of Caine-Massey’s CEO has sparked conflict between the Federal corporation and Imperial rival Torval Mining Ltd. 
+The killing of Caine-Massey’s CEO has sparked conflict between the Federal corporation and Imperial rival Torval Mining Ltd.
 
-Acting CEO Philippa Barlow-Lyons provided a statement regarding the hostilities: 
+Acting CEO Philippa Barlow-Lyons provided a statement regarding the hostilities:
 
-“The Federal Intelligence Agency tracked Johann Fleischer’s assassin from Mars to the Tavgi system, whereupon he boarded the Orchestral Falcon, one of Torval Mining’s megaships. We demanded that he be handed over to stand trial for his crime. They refused to even acknowledge us. [[id:d8e3667c-3ba1-43aa-bc90-dac719c6d5e7][Zemina Torval]] thinks she has taken her revenge and got away with it. She is wrong.”  
+“The [[id:d75a6c3f-5c3a-418b-b639-5e14b487f568][Federal Intelligence Agency]] tracked Johann Fleischer’s assassin from Mars to the Tavgi system, whereupon he boarded the Orchestral Falcon, one of Torval Mining’s megaships. We demanded that he be handed over to stand trial for his crime. They refused to even acknowledge us. [[id:d8e3667c-3ba1-43aa-bc90-dac719c6d5e7][Zemina Torval]] thinks she has taken her revenge and got away with it. She is wrong.”
 
-“Caine-Massey has instructed Tavgi Blue Life Inc, our business partner in the system, to board the Orchestral Falcon – by force, if necessary – and apprehend the suspect. We will do whatever it takes to arrest the [[id:45d78e5d-27b7-48cb-97b2-012934be3180][Imperial Intelligence]] agent we hold responsible for murdering a captain of Federal industry.” 
+“Caine-Massey has instructed Tavgi Blue Life Inc, our business partner in the system, to board the Orchestral Falcon – by force, if necessary – and apprehend the suspect. We will do whatever it takes to arrest the [[id:45d78e5d-27b7-48cb-97b2-012934be3180][Imperial Intelligence]] agent we hold responsible for murdering a captain of Federal industry.”
 
-A response was issued by Senator [[id:d8e3667c-3ba1-43aa-bc90-dac719c6d5e7][Zemina Torval]]: 
+A response was issued by Senator [[id:d8e3667c-3ba1-43aa-bc90-dac719c6d5e7][Zemina Torval]]:
 
-“Caine-Massey is using its CEO’s death to excuse a deliberate strike against my company, damaging our share price and testing the will of our political connections. Torval Mining Ltd will defend its property, as well as the honour of the Empire, against this unjustified assault.” 
+“Caine-Massey is using its CEO’s death to excuse a deliberate strike against my company, damaging our share price and testing the will of our political connections. Torval Mining Ltd will defend its property, as well as the honour of the Empire, against this unjustified assault.”
 
-To support their combat operations, Tavgi Blue Life Inc and Torval Mining Ltd have called upon Federal and Imperial naval auxiliaries to report to Gordon Enterprise and the Orchestral Falcon respectively.  
+To support their combat operations, Tavgi Blue Life Inc and Torval Mining Ltd have called upon Federal and Imperial naval auxiliaries to report to Gordon Enterprise and the Orchestral Falcon respectively.
 
-The conflict has heightened political tensions between the Empire and the Federation. With the majority of superpower naval forces deployed to the Thargoid front line, system authority vessels around Tavgi have been placed on alert.  
+The conflict has heightened political tensions between the Empire and the Federation. With the majority of superpower naval forces deployed to the Thargoid front line, system authority vessels around Tavgi have been placed on alert.
 
-President [[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][Zachary Hudson]] was quick to comment that “my administration upholds the right for our factions to seek justice”. Senator [[id:75daea85-5e9f-4f6f-a102-1a5edea0283c][Denton Patreus]] stated: “The Empire stands ready to shield its citizens, businesses and territories from attacks by foreign powers, xeno or otherwise.”
+President [[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][Zachary Hudson]] was quick to comment that “my administration upholds the right for our factions to seek justice”. Senator [[id:75daea85-5e9f-4f6f-a102-1a5edea0283c][Denton Patreus]] stated: “[[id:77cf2f14-105e-4041-af04-1213f3e7383c][The Empire]] stands ready to shield its citizens, businesses and territories from attacks by foreign powers, xeno or otherwise.”

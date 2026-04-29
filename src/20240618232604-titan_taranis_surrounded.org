@@ -8,12 +8,12 @@
 
 /01 Dec 3309/
 
-The star system Hyades Sector FB-N B7-6, which contains Thargoid Titan Taranis, has been surrounded by human forces. 
+The star system [[id:4b81a635-2d54-430b-a0e5-7100a81f6c53][Hyades Sector FB-N B7-6]], which contains Thargoid Titan Taranis, has been surrounded by human forces.
 
-[[id:7bca1ccd-649e-438a-ae56-fb8ca34e6440][Aden Tanner]], special advisor to Aegis, provided the following update: 
+[[id:7bca1ccd-649e-438a-ae56-fb8ca34e6440][Aden Tanner]], special advisor to Aegis, provided the following update:
 
-“Our pilots appear to have pushed Thargoids out of all systems in Titan Taranis’s area of control. It’s taken a huge effort, one which should rightly be recognised as outstanding.  We don’t know for certain what will happen next. But for now, the region is back in humanity’s control.” 
+“Our pilots appear to have pushed Thargoids out of all systems in Titan Taranis’s area of control. It’s taken a huge effort, one which should rightly be recognised as outstanding.  We don’t know for certain what will happen next. But for now, the region is back in humanity’s control.”
 
-“I strongly urge pilots to keep fighting the Thargoid fleet wherever it is encountered. We must not become complacent - the Thargoids have surprised us before, and have demonstrated the ability to respond when defeat seems inevitable. Those who fought in the [[id:55088d83-4221-44fa-a9d5-6ebb0866c722][HIP 22460]] campaign and witnessed the Proteus Wave event will testify to the dangers of assuming the war is won.” 
+“I strongly urge pilots to keep fighting the Thargoid fleet wherever it is encountered. We must not become complacent - the Thargoids have surprised us before, and have demonstrated the ability to respond when defeat seems inevitable. Those who fought in the [[id:55088d83-4221-44fa-a9d5-6ebb0866c722][HIP 22460]] campaign and witnessed the Proteus Wave event will testify to the dangers of assuming the war is won.”
 
-Systems in the immediate vicinity, such as Hupang, Swahku and HR1737, have initiated repairs to starports which have been abandoned since November 3308. Titan Taranis itself remains largely resistant to conventional assault, and Hyades Sector FB-N B7-6 is still considered a Thargoid stronghold.
+Systems in the immediate vicinity, such as Hupang, Swahku and HR1737, have initiated repairs to starports which have been abandoned since November 3308. Titan Taranis itself remains largely resistant to conventional assault, and [[id:4b81a635-2d54-430b-a0e5-7100a81f6c53][Hyades Sector FB-N B7-6]] is still considered a Thargoid stronghold.

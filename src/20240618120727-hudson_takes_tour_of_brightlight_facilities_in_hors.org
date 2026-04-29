@@ -17,7 +17,7 @@ contracts.
 Representing the gold standard in private training centres,
 Brightlight offers a variety of educational services to corporations
 throughout the Federation. With the recent failures in communication
-between the Commander-in-Chief and her advisors in the Federal Navy,
+between the Commander-in-Chief and her advisors in the [[id:3d268496-1d95-49bc-aca6-49d16a4337c8][Federal Navy]],
 it appears that [[id:478137a2-59fc-4055-ba37-021ef7035652][Admiral Vincent]] has decided it is long past time for
 the Navy to update the way its officers are trained.
 

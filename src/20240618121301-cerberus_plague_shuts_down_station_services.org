@@ -8,56 +8,56 @@
 
 /22 Jul 3301/
 
-Cerberus Plague Shuts Down Station Services 
- 
-Due to the ongoing crisis caused the Cerberus Plague, key station services at the following starports are not currently available. The following starports are affected: 
+Cerberus Plague Shuts Down Station Services
 
-In the Dajoar system: 
+Due to the ongoing crisis caused the Cerberus Plague, key station services at the following starports are not currently available. The following starports are affected:
 
-Thiel Port 
+In the Dajoar system:
 
-Crown Terminal 
+Thiel Port
 
-Patrick Terminal 
+Crown Terminal
 
-Macquorn Rankine Port 
+Patrick Terminal
 
-Ejeta Enterprise 
+Macquorn Rankine Port
 
-In the Eleu system: 
+Ejeta Enterprise
 
-Finney Dock 
+In the Eleu system:
 
-Bao Orbital 
+[[id:71a5be45-02e5-48ab-8858-448a526a1e11][Finney Dock]]
 
-Elder Station 
+Bao Orbital
 
-Tem Station 
+Elder Station
 
-Pierce [[id:e179ecca-9ab3-4184-b05e-107b2e6932c2][Gateway]] 
+Tem Station
 
-Bradshaw Station 
+Pierce [[id:e179ecca-9ab3-4184-b05e-107b2e6932c2][Gateway]]
 
-In the 20 Ophiuchi system: 
+Bradshaw Station
 
-Chargaff Port 
+In the 20 Ophiuchi system:
 
-Artsebarsky [[id:e179ecca-9ab3-4184-b05e-107b2e6932c2][Gateway]] 
+Chargaff Port
 
-The following station services are unavailable: 
+Artsebarsky [[id:e179ecca-9ab3-4184-b05e-107b2e6932c2][Gateway]]
 
-Re-arming 
+The following station services are unavailable:
 
-Market 
+Re-arming
 
-Bulletin Board 
+Market
 
-Docking 
+Bulletin Board
 
-Shipyard 
+Docking
 
-Outfitting 
+Shipyard
 
-Black Market 
+Outfitting
+
+Black Market
 
 The authorities on these starports report that services will remain offline until the Cerberus Plague has been contained and resources can be spared to work on these facilities.

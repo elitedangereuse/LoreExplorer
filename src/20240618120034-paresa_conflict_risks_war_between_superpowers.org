@@ -8,16 +8,16 @@
 
 /11 May 3307/
 
-There are widespread fears that current hostilities in the Paresa system may force the Empire and Federation to declare full-scale war. 
+There are widespread fears that current hostilities in the Paresa system may force the Empire and Federation to declare full-scale war.
 
-The situation has been covered by mainstream media. 
+The situation has been covered by mainstream media.
 
-The Imperial Herald: “Hadrian might be the black sheep of the Duval family, but should he die by Federation hands, honour would demand retribution. Already the Imperial Navy is mobilising in anticipation of the Emperor’s reaction.” 
+The [[id:626a18d7-ad16-4093-b9be-d9dc1940594b][Imperial Herald]]: “Hadrian might be the black sheep of the Duval family, but should he die by Federation hands, honour would demand retribution. Already the [[id:e9becd28-9644-42aa-afc8-7bba3ce10076][Imperial Navy]] is mobilising in anticipation of the Emperor’s reaction.”
 
-The Federal Times: “The evidence that Nova Imperium orchestrated the starport bombings is credible, but the possibility of subterfuge remains. Could the [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] really fake so many orders from [[id:c4f47591-9c52-441f-8853-536f577de922][Hadrian Duval]] to such a believable standard?” 
+[[id:be5df73c-519d-45ed-a541-9b70bc8ae97c][The Federal Times]]: “The evidence that Nova Imperium orchestrated the starport bombings is credible, but the possibility of subterfuge remains. Could the [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] really fake so many orders from [[id:c4f47591-9c52-441f-8853-536f577de922][Hadrian Duval]] to such a believable standard?”
 
-Eye on [[id:bed8c27f-3cbe-49ad-b86f-7d87eacf804a][Achenar]]: “An attack against a Duval is an attack against us all, even if he does turn out to be a terrorist. How dare those Fednecks try to judge our criminals for us!” 
+Eye on [[id:bed8c27f-3cbe-49ad-b86f-7d87eacf804a][Achenar]]: “An attack against a Duval is an attack against us all, even if he does turn out to be a terrorist. How dare those Fednecks try to judge our criminals for us!”
 
-Sol Today: “Hundreds of thousands dead, half a million wounded… our people deserve retribution. But as usual, all the Imposers care about is pandering to their monarchy.” 
+Sol Today: “Hundreds of thousands dead, half a million wounded… our people deserve retribution. But as usual, all the Imposers care about is pandering to their monarchy.”
 
 Paresa News Network: “The death toll is soaring as full-blown battles rage through our system. Paresans are terrified at facing conquest by the Federation. Can we rely on the Empire to save us?”

@@ -30,6 +30,6 @@ life.
 
 Pilots who respond to the request will be offered discounts on
 Imperial ships, as well as being granted access to vessels that would
-ordinarily require a rank in the Imperial Navy. The permit
+ordinarily require a rank in the [[id:e9becd28-9644-42aa-afc8-7bba3ce10076][Imperial Navy]]. The permit
 restrictions on [[id:bed8c27f-3cbe-49ad-b86f-7d87eacf804a][Achenar]] have also been temporarily lifted to allow
 pilots to deliver gifts to the future Emperor.

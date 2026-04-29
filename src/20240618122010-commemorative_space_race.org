@@ -8,10 +8,10 @@
 
 /26 Oct 3301/
 
-To commemorate 'Star Wars', the classic audiovisual entertainment series of the 20th and 21st century, the Buckyball Racing Club, sponsored by Leesti Azure Milk, presents the first part of a new galactic race, the Kessel Run. 
+To commemorate 'Star Wars', the classic audiovisual entertainment series of the 20th and 21st century, the Buckyball Racing Club, sponsored by Leesti [[id:726ccb6b-cbbf-48ee-b1fd-73d56c186504][Azure Milk]], presents the first part of a new galactic race, the Kessel Run.
 
-The race runs from the 31st of October 3301, 00:00 GMT, to the 15th of November 3301, 23:59 GMT. It will begin at George Lucas station in Leesti and end in the Jabbah system, a few hundred light years outside the bubble. Between start and finish, participants must dock at every station and outpost named 'Kessel' in any order they desire. 
+The race runs from the 31st of October 3301, 00:00 GMT, to the 15th of November 3301, 23:59 GMT. It will begin at [[id:2e9a782a-b3d8-449f-83d4-f239d5e19a12][George Lucas]] station in Leesti and end in the Jabbah system, a few hundred light years outside the bubble. Between start and finish, participants must dock at every station and outpost named 'Kessel' in any order they desire.
 
-There will be three racing classes: Regulation [[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]]o Sidewinder, Regulation Solo Cobra Mk III, and the Open Unlimited Spec class. 
+There will be three racing classes: Regulation [[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]]o Sidewinder, Regulation Solo Cobra Mk III, and the Open Unlimited Spec class.
 
 Commander [[id:c8ebbf67-30b4-49fd-b857-598214e346bd][Stern Winter]]

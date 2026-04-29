@@ -20,6 +20,6 @@ Professor [[id:29f394e1-6be6-4636-b926-b0790a6333b2][Cora Shaw]], director of th
 
 “We are faced with a number of pressing questions. Why have the Thargoids entered human space? Can we communicate with them? Are they hostile? Hopefully Aegis can provide us with some answers.”
 
-Meanwhile, in an article for the Imperial Herald, journalist [[id:960ecf5f-4caa-4ab6-8e07-d91145873738][Kelvin Masters]] gave a more frank analysis:
+Meanwhile, in an article for the [[id:626a18d7-ad16-4093-b9be-d9dc1940594b][Imperial Herald]], journalist [[id:960ecf5f-4caa-4ab6-8e07-d91145873738][Kelvin Masters]] gave a more frank analysis:
 
 “The barnacles seem to indicate that the Thargoids were in [[id:0ee60994-364c-41b9-98ca-993d041cea72][Maia]] and [[id:70fa34ea-bc98-40ff-97f0-e4f4538387a6][Merope]] long before we were. For all we know, humanity has expanded into what the Thargoids see as their territory. I have no interest in scaremongering, but my belief is that a Thargoid attack could be imminent – their behaviour certainly seems to suggest they are probing us for weaknesses.”

@@ -21,7 +21,7 @@
 
   "When our ancestors departed Earth, they asked themselves: which of
   our achievements represents the best of humanity, that we may bring it
-  with us to illumine the darkness? The Federation, embroiled in a world
+  with us to illumine the darkness? [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][The Federation]], embroiled in a world
   of contracts and petty bickering, chose their Constitution. They
   placed their trust not in man himself, but the imperfect work of
   man."
@@ -125,7 +125,7 @@ Groups of Patrons pledge their support to a given Senator, offering
 military service, tax revenue and the right to wield the Patrons' votes
 in the Senate on their behalf. In return the Patrons are granted a
 measure of protection and material security, as well as having their
-interests represented in the Imperial Senate.
+interests represented in the [[id:6b539fa1-7ebe-44d3-874b-41a3bd400af9][Imperial Senate]].
 
 Senators are responsible for deciding tax rates and welfare systems for
 their Patrons, meaning that the lower a given Senator's tax rates, the
@@ -181,7 +181,7 @@ The [[id:73e31493-0c88-4fd7-9f49-9f3f1c92db41][Facece]] system is arguably the m
 Many officers are housed on the world of Topaz, while Peter's Wreck is
 home to the training centres.
 
-As well as the battle fleets, the Imperial Navy maintains a subdivision
+As well as the battle fleets, the [[id:e9becd28-9644-42aa-afc8-7bba3ce10076][Imperial Navy]] maintains a subdivision
 dedicated to exploring the fringes of known space.
 
 *** The Emperor's Own.
@@ -288,7 +288,7 @@ Empire contains a multitude of feuding power blocs. In particular, there
 is a good deal of bad blood between the various noble houses, whose
 values range from hardcore traditionalist to staunch reformist.
 
-The Imperial Senate is no longer as overshadowed by the Emperor as it
+The [[id:6b539fa1-7ebe-44d3-874b-41a3bd400af9][Imperial Senate]] is no longer as overshadowed by the Emperor as it
 once was, and has gained sufficient strength to act as a counterbalance
 to the Emperor's poltical will. The individual character of the Emperor
 still determines the Empire's overall direction, however, and the

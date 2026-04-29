@@ -100,10 +100,10 @@ willing to allow this.
 In the early fourth millennium, both the Federation and the Empire had a
 presence in the [[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]] system. Fruitcake, now known as Gordonworld, was
 a Federal protectorate, while the Empire had earlier conducted
-terraforming experiments on the world of New California, and also held
+terraforming experiments on the world of [[id:47df3d18-6cdd-443d-baae-0e3af142a089][New California]], and also held
 gas mining platforms in the system.
 
-The Federal corporations supplying New California had raised the prices
+The Federal corporations supplying [[id:47df3d18-6cdd-443d-baae-0e3af142a089][New California]] had raised the prices
 of their goods several times in the previous years, and when they
 imposed yet another price hike, the planet's inhabitants revolted. In
 the insurrection that followed, rebels commandeered any available ships
@@ -114,7 +114,7 @@ Alarmed, the Empire and Federation despatched ships to put down the
 rebellion, but were beaten back by a hastily assembled force made up of
 fighters from [[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]] and -- crucially -- volunteers from nearby
 independent systems. Neither the Empire nor the Federation were able to
-gain a foothold, and eventually both forces had to withdraw. The Empire
+gain a foothold, and eventually both forces had to withdraw. [[id:77cf2f14-105e-4041-af04-1213f3e7383c][The Empire]]
 faced too many logistical problems fighting so far from home, while the
 Federation's efforts were undermined by public sympathy for the rebels.
 
@@ -168,7 +168,7 @@ This rapid-response group usually remains within Alliance space, and its
 tasks vary from providing a beleaguered system with military assistant
 to evacuating settlements hit by natural disaster.
 
-A six-member Council of Admirals oversees the [[id:17d9294e-7759-4cf4-9a67-5f12b5704f51][Alliance Defence Force]]. It
+A six-member [[id:b0b347ac-10b8-4190-8787-1557f7d4a6da][Council of Admirals]] oversees the [[id:17d9294e-7759-4cf4-9a67-5f12b5704f51][Alliance Defence Force]]. It
 is accountable to the Assembly, but does not require its approval before
 taking action. This freedom of decision making prevents urgent military
 action being delayed by tedious debate.

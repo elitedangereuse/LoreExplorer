@@ -52,7 +52,7 @@ channel was filled with chatter, some panicked, some calm. Finally, we
 made it across the gap.
 
 Most of us did anyway. A headcount had showed a few missing. Among the
-missing was the Stellar Pearl. The last I saw of her ship was at the
+missing was the [[id:115312bc-07bf-4a4a-a5b5-e5232eb691e0][Stellar Pearl]]. The last I saw of her ship was at the
 second star coming across the gap, where most of the confusion had
 started. Her ship [[id:6ccd4f78-28b4-4206-8194-647814a8ce69][disappeared]] from the scope leaving a jump wake but
 apparently never arrived at the other side.
@@ -65,7 +65,7 @@ At the time of this recording, there is no known way to get back from
 this cluster. I send this out in hopes someone on the other side
 receives it and knows of our fate and remembers those lost."
 
-END TRANSMISSION" 
+END TRANSMISSION"
 
 [[file:img/beacons/0714.png]]
 [[file:img/beacons/0714B.png]]

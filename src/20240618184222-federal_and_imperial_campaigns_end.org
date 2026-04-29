@@ -8,16 +8,16 @@
 
 /10 Jan 3305/
 
-Supply campaigns for the Federal and Imperial navies have concluded successfully, with traders delivering large amounts of military provisions. 
+Supply campaigns for the Federal and Imperial navies have concluded successfully, with traders delivering large amounts of military provisions.
 
-The League of [[id:bb8ac014-a3ac-4564-9c3a-7aaff6536d59][Zearla]], acting on behalf of the Federal Navy, stated: 
+The League of [[id:bb8ac014-a3ac-4564-9c3a-7aaff6536d59][Zearla]], acting on behalf of the [[id:3d268496-1d95-49bc-aca6-49d16a4337c8][Federal Navy]], stated:
 
-“Many thanks to all the pilots who came through for the Federation. You can now collect your rewards at Payson Hub in the [[id:bb8ac014-a3ac-4564-9c3a-7aaff6536d59][Zearla]] system.” 
+“Many thanks to all the pilots who came through for the Federation. You can now collect your rewards at Payson Hub in the [[id:bb8ac014-a3ac-4564-9c3a-7aaff6536d59][Zearla]] system.”
 
-An announcement was also made by the Sirsir Co, which coordinated a similar supply campaign for the Imperial Navy: 
+An announcement was also made by the Sirsir Co, which coordinated a similar supply campaign for the [[id:e9becd28-9644-42aa-afc8-7bba3ce10076][Imperial Navy]]:
 
-“You have performed a great service for the Empire. Payments have been authorised at Mitchell Hangar in the Sirsir system.” 
+“You have performed a great service for the Empire. Payments have been authorised at Mitchell Hangar in the Sirsir system.”
 
-Marquis Felix Novantico, a retired military strategist, commented: 
+Marquis Felix Novantico, a retired military strategist, commented:
 
 “Tensions caused by Nova Imperium have triggered much activity of this kind. But for the Federation to do the same suggests concern about a potentially hostile Empire, should [[id:c4f47591-9c52-441f-8853-536f577de922][Hadrian Duval]] claim the throne.”

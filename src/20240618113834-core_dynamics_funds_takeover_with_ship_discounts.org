@@ -13,13 +13,13 @@
 
 Prices for several [[id:4a28463f-cbed-493b-9466-70cbc6e19662][Core Dynamics]] vessels have been temporarily reduced, as part of an attempt to purchase [[id:906c77b7-7fe4-48c1-ace5-1265023c2ebf][Lakon Spaceways]].
 
-The shipbuilding corporation has applied a 30% discount to sales of the Eagle Mk II and the Vulture. There is also a 20% discount on sales of Federal Assault Ships, Federal Dropships and Federal Gunships, although the Federal Navy rank requirements for each vessel continue to apply.
+The shipbuilding corporation has applied a 30% discount to sales of the Eagle Mk II and the Vulture. There is also a 20% discount on sales of Federal Assault Ships, Federal Dropships and Federal Gunships, although the [[id:3d268496-1d95-49bc-aca6-49d16a4337c8][Federal Navy]] rank requirements for each vessel continue to apply.
 
 The reduced prices are expected to last until the 30th of December 3306.
 
-Core Dynamics recently made a proposal to acquire rival company [[id:906c77b7-7fe4-48c1-ace5-1265023c2ebf][Lakon Spaceways]], which rejected the offer then applied markdowns to its own ships to increase short-term profits.
+[[id:4a28463f-cbed-493b-9466-70cbc6e19662][Core Dynamics]] recently made a proposal to acquire rival company [[id:906c77b7-7fe4-48c1-ace5-1265023c2ebf][Lakon Spaceways]], which rejected the offer then applied markdowns to its own ships to increase short-term profits.
 
-The Alliance Tribune’s business reporter [[id:76d00760-e607-4a24-aec5-a630460b3f31][Irfan Karim]] speculated on these developments:
+[[id:ad2baca1-f970-4308-8b07-78cd4a5a8fd0][The Alliance Tribune]]’s business reporter [[id:76d00760-e607-4a24-aec5-a630460b3f31][Irfan Karim]] speculated on these developments:
 
 “CEO [[id:c33064d1-c2a0-4ac3-89fe-57eedb7ef9c8][Jupiter Rochester]] remains tight-lipped on the reasons for these discounts, but it seems likely that he is raising funds for a more aggressive bid. Rumours are circulating of Lakon investors being bribed to sell their shares, or coerced into demanding that the board of directors accepts ownership by [[id:4a28463f-cbed-493b-9466-70cbc6e19662][Core Dynamics]].”
 

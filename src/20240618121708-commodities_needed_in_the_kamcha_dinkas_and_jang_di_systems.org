@@ -8,14 +8,14 @@
 
 /20 Aug 3301/
 
-Commodities needed in the Kamcha, Dinkas and Jang Di Systems 
- 
-A mysterious organisation called Emperor’s Dawn has issued open contracts for a diverse selection of commodities: Ceremonial Heike Tea, Battle Weapons, and Toxic Waste. Each of these is to be delivered to a specific starport, as outlined below: 
+Commodities needed in the Kamcha, Dinkas and Jang Di Systems
 
-Battle Weapons should be taken to Saarinen Station in the Kamcha system 
+A mysterious organisation called Emperor’s Dawn has issued open contracts for a diverse selection of commodities: [[id:0ca21b16-f85b-4e7c-9389-6196d4f52ef1][Ceremonial Heike Tea]], [[id:6f8b14ec-06ee-4f36-b646-15146a0ca81b][Battle Weapons]], and [[id:4390832c-737a-482e-aabf-9b8595910797][Toxic Waste]]. Each of these is to be delivered to a specific starport, as outlined below:
 
-Ceremonial Heike Tea should be taken to Sikorsky Orbital in the Jang Di system 
+[[id:6f8b14ec-06ee-4f36-b646-15146a0ca81b][Battle Weapons]] should be taken to Saarinen Station in the Kamcha system
 
-Toxic Waste should be taken to Blaauw Port in the Dinkas system 
+[[id:0ca21b16-f85b-4e7c-9389-6196d4f52ef1][Ceremonial Heike Tea]] should be taken to Sikorsky Orbital in the Jang Di system
+
+[[id:4390832c-737a-482e-aabf-9b8595910797][Toxic Waste]] should be taken to Blaauw Port in the Dinkas system
 
 Little is known about Emperor’s Dawn, but it seems that the curiously-named organisation, which is based in the Kamcha system, has access to considerable resources, as it is throwing a lot of money at this commercial endeavour. Pilots of a mercantile disposition would do well to consider participating in this effort, as there is certainly an opportunity for resourceful traders to make a tidy profit.

@@ -8,7 +8,7 @@
 
 /16 Oct 3305/
 
-The Rockforth Corporation’s EX7 fertiliser has been linked to the blight affecting crops in a number of systems, prompting an initiative to remove the product from the market.
+The [[id:a7056ff8-e67d-4ca9-baf1-7e5df3efa677][Rockforth Corporation]]’s EX7 fertiliser has been linked to the blight affecting crops in a number of systems, prompting an initiative to remove the product from the market.
 
 Dr [[id:27e3d876-0953-4096-86c9-c65388f6dd19][Genevieve Kane]] of the Interstellar Association for Agriculture delivered an urgent message:
 
@@ -18,9 +18,9 @@ Dr [[id:27e3d876-0953-4096-86c9-c65388f6dd19][Genevieve Kane]] of the Interstell
 
 Rockforth fertiliser can now be collected at zero cost from the following markets:
 
-Sharon Lee Free Market, Orrere
+[[id:50eee33d-b20c-4b29-8934-f8d2b4ef599c][Sharon Lee Free Market]], Orrere
 
-Lave Station, [[id:ff595332-6a13-4f69-ae2f-cc0a0df8e741][Lave]]
+[[id:10b9df10-b4c7-449a-9c50-4ad011256417][Lave Station]], [[id:ff595332-6a13-4f69-ae2f-cc0a0df8e741][Lave]]
 
 Warinus, [[id:ff595332-6a13-4f69-ae2f-cc0a0df8e741][Lave]]
 

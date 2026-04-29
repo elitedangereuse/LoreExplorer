@@ -8,13 +8,13 @@
 
 /20 May 3302/
 
-Recent reports indicate that a number of starports forced to suspend services due to Unknown Artefact-related interference have been restored to normality through the application of meta-alloys. Ackerman Market in Eravate, Gabriel Enterprise in Harma, Weyn Dock in 64 Arietis and Onnes [[id:e179ecca-9ab3-4184-b05e-107b2e6932c2][Gateway]] in LFT 37 are all now reported to be fully operational.
+Recent reports indicate that a number of starports forced to suspend services due to Unknown Artefact-related interference have been restored to normality through the application of meta-alloys. Ackerman Market in Eravate, [[id:8c659354-ea2b-4fd2-aeb9-874346ff07c1][Gabriel Enterprise]] in Harma, Weyn Dock in 64 Arietis and Onnes [[id:e179ecca-9ab3-4184-b05e-107b2e6932c2][Gateway]] in LFT 37 are all now reported to be fully operational.
 
 This development – a testament to the hard work of the pilots who have delivered meta-alloys to the affected stations – will no doubt bring hope to those still affected by the [[id:002fd942-f71a-4d8f-a431-4ad26857c771][technological plague]].
 
 The starports currently closed as a result of Unknown Artefact-related interference are:
 
-Lave Station, [[id:ff595332-6a13-4f69-ae2f-cc0a0df8e741][Lave]]
+[[id:10b9df10-b4c7-449a-9c50-4ad011256417][Lave Station]], [[id:ff595332-6a13-4f69-ae2f-cc0a0df8e741][Lave]]
 
 Ising Dock, 109 Piscium
 
@@ -44,7 +44,7 @@ Love Ring, Evejitaka
 
 Robigo Mines, Robigo
 
-Saunders's Dive, Wolf 1301
+[[id:6e12b007-fb02-4ce9-9d03-d4f1acec20dd][Saunders's Dive]], [[id:7815976c-fd70-4496-9a17-23d392a95014][Wolf 1301]]
 
 Skvortsov Orbital, 63 G. Capricorni
 

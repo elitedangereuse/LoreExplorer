@@ -11,7 +11,7 @@
 activity following a blockade organised by [[id:191fb0ed-5a88-4a49-a98d-e25794c5b36b][AXI]] and [[id:795e99a1-cd10-4768-8155-0d5cd0af6e10][XSF]] forces.
 
 It is theorised that the Thargoids have maintained a varying presence
-in the HIP 22460 system since at least 3303, due to reports recovered
+in the [[id:55088d83-4221-44fa-a9d5-6ebb0866c722][HIP 22460]] system since at least 3303, due to reports recovered
 from the now-abandoned [[id:117f59dd-4f18-47a4-88a1-ac5b3088b78a][Fort Asch]] laboratory. After the Proteus Wave
 weapon in the system in 3308, Thargoids aggressively swarmed the
 system until recently.

@@ -8,8 +8,8 @@
 
 /14 Dec 3301/
 
-Authorities at Gabriel Enterprise in the Harma system have reported that the station is the latest to be affected by mystifying technical problems, following a raft of malfunctions and breakdowns throughout the starport. Meanwhile, personnel at Saunders's Dive in Wolf 1301 have released a similar statement, reporting extensive technical problems over the past 24 hours. A member of the technical team at Saunders's Dive said: 
+Authorities at [[id:8c659354-ea2b-4fd2-aeb9-874346ff07c1][Gabriel Enterprise]] in the Harma system have reported that the station is the latest to be affected by mystifying technical problems, following a raft of malfunctions and breakdowns throughout the starport. Meanwhile, personnel at [[id:6e12b007-fb02-4ce9-9d03-d4f1acec20dd][Saunders's Dive]] in [[id:7815976c-fd70-4496-9a17-23d392a95014][Wolf 1301]] have released a similar statement, reporting extensive technical problems over the past 24 hours. A member of the technical team at [[id:6e12b007-fb02-4ce9-9d03-d4f1acec20dd][Saunders's Dive]] said:
 
-"It's the same story as at those other starports – system failures, blackouts, all that stuff. At this rate, half the starports in the galaxy are going to be out of order before long. Someone needs to figure out what the hell is going on, and fast!" 
+"It's the same story as at those other starports – system failures, blackouts, all that stuff. At this rate, half the starports in the galaxy are going to be out of order before long. Someone needs to figure out what the hell is going on, and fast!"
 
 We will continue to bring you up-to-the-minute reports on this issue.
