@@ -274,6 +274,7 @@ code {
 }
 
 .toolbar-icon-button {
+  box-sizing: border-box;
   width: 42px;
   height: 42px;
   padding: 0;
@@ -286,6 +287,10 @@ code {
   color: var(--text);
   cursor: pointer;
   transition: background 150ms ease, border-color 150ms ease, transform 150ms ease;
+}
+
+.graph-toolbar .toolbar-icon-button {
+  padding: 0;
 }
 
 .toolbar-tooltip-target {
@@ -358,6 +363,8 @@ code {
   width: 18px;
   height: 18px;
   display: inline-flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .toolbar-icon svg {
@@ -368,6 +375,18 @@ code {
   stroke-width: 1.8;
   stroke-linecap: round;
   stroke-linejoin: round;
+}
+
+.toolbar-icon.toolbar-icon-filled svg {
+  fill: currentColor;
+  stroke: none;
+  stroke-width: initial;
+}
+
+.toolbar-icon.toolbar-icon-expand {
+  width: 25px;
+  height: 25px;
+  transform: translateY(0);
 }
 
 .graph-toolbar button:hover,
@@ -1542,10 +1561,6 @@ code {
   align-items: center;
   gap: 8px;
   flex-wrap: wrap;
-}
-
-.note-title-actions .toolbar-icon svg {
-  stroke-width: initial;
 }
 
 .bookmark-icon svg {
