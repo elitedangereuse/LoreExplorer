@@ -426,6 +426,38 @@ function cloneGraphTagFilters(filters = state.graphTagFilters) {
   };
 }
 
+function normalizeUrlTagList(values) {
+  const tags = [];
+  for (const value of values) {
+    for (const part of String(value || "").split(",")) {
+      const tag = canonicalizeTag(part);
+      if (tag && state.tagDisplayByKey.has(tag) && !tags.includes(tag)) {
+        tags.push(tag);
+      }
+    }
+  }
+  return tags;
+}
+
+function getUrlGraphTagFilters(params) {
+  const requireAll = normalizeUrlTagList([
+    ...params.getAll("tags"),
+    ...params.getAll("show"),
+    ...params.getAll("require"),
+  ]);
+  const exclude = normalizeUrlTagList([
+    ...params.getAll("hide"),
+    ...params.getAll("exclude"),
+  ]).filter((tag) => !requireAll.includes(tag));
+  return { requireAll, exclude };
+}
+
+function appendUrlTagParams(params, name, tags) {
+  for (const tag of tags) {
+    params.append(name, getGraphFilterDisplayTag(tag));
+  }
+}
+
 function getNavigationSnapshot() {
   return {
     view: state.view,
@@ -4057,6 +4089,7 @@ function setGraphTagFilterInput(value) {
 function refreshGraphAfterTagFilterChange() {
   syncLayout(true);
   fitGraph();
+  updateUrlState();
 }
 
 function shouldCommitExactGraphTagFromInputEvent(event, exactTag) {
@@ -4272,6 +4305,8 @@ function updateUrlState() {
   if (state.activeTagFilter) {
     hash.set("tag", state.activeTagFilter);
   }
+  appendUrlTagParams(hash, "tags", state.graphTagFilters.requireAll);
+  appendUrlTagParams(hash, "hide", state.graphTagFilters.exclude);
   const hashString = hash.toString();
   const nextUrl = hashString ? `#${hashString}` : window.location.pathname + window.location.search;
   history.replaceState(null, "", nextUrl);
@@ -6131,15 +6166,20 @@ function applyUrlState() {
   const nodeId = params.get("node");
   const inspectNodeId = params.get("inspect");
   const tagFilter = params.get("tag");
+  const graphTagFilters = getUrlGraphTagFilters(params);
+  const hasUrlGraphTagFilters = graphTagFilters.requireAll.length > 0 || graphTagFilters.exclude.length > 0;
+  const legacyTagFilter = tagFilter && state.tagIndex.has(canonicalizeTag(tagFilter))
+    ? canonicalizeTag(tagFilter)
+    : null;
 
   state.neighborMode = Boolean(nodeId);
   hideContextMenu();
 
   if (nodeId && state.nodeById.has(nodeId)) {
     setActiveView("explorer");
-    if (tagFilter && state.tagIndex.has(canonicalizeTag(tagFilter))) {
-      state.activeTagFilter = tagFilter;
-    }
+    state.graphTagFilters = graphTagFilters;
+    state.activeTagFilter = !hasUrlGraphTagFilters && legacyTagFilter ? legacyTagFilter : null;
+    renderGraphFilterToolbar();
     selectNode(nodeId, true, false, false);
     if (inspectNodeId && state.nodeById.has(inspectNodeId)) {
       inspectNode(inspectNodeId, false, false);
@@ -6155,10 +6195,19 @@ function applyUrlState() {
     state.graphRootNodeId = null;
     state.inspectNodeId = null;
     state.activeTagFilter = null;
+    state.graphTagFilters = hasUrlGraphTagFilters
+      ? graphTagFilters
+      : {
+        requireAll: legacyTagFilter ? [legacyTagFilter] : [],
+        exclude: [],
+      };
+    state.graphTagFilterInput = "";
+    state.graphTagFilterSelectionArmed = false;
     state.neighborMode = false;
     resetSearchState();
     searchInput.value = "";
     showEmptyNoteState();
+    renderGraphFilterToolbar();
     render();
   }
 }
