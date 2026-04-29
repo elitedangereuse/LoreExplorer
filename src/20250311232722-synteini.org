@@ -6,7 +6,7 @@
 #+filetags: :System:
 
 #+begin_quote
-Senator Zemina Torval's fabulous estate can be found in this system.
+Senator [[id:d8e3667c-3ba1-43aa-bc90-dac719c6d5e7][Zemina Torval]]'s fabulous estate can be found in this system.
 #+end_quote
 
 [[file:img/systems/synteini.png]]

@@ -8,40 +8,40 @@
 
 /04 Jan 3302/
 
-Officials at Gabriel Enterprise in the Harma system have reported that the technical issues affecting the starport have worsened, leading to the immediate suspension of all services apart from docking and shipyard access. This brings the total number of starports closed as a result of the mysterious malfunctions to seven. A complete list of affected stations and systems follows. 
+Officials at Gabriel Enterprise in the Harma system have reported that the technical issues affecting the starport have worsened, leading to the immediate suspension of all services apart from docking and shipyard access. This brings the total number of starports closed as a result of the mysterious malfunctions to seven. A complete list of affected stations and systems follows.
 
-Stations where services have been suspended: 
+Stations where services have been suspended:
 
-Gabriel Enterprise, Harma system 
+Gabriel Enterprise, Harma system
 
-Gurragchaa [[id:e179ecca-9ab3-4184-b05e-107b2e6932c2][Gateway]], Warkushanui system 
+Gurragchaa [[id:e179ecca-9ab3-4184-b05e-107b2e6932c2][Gateway]], Warkushanui system
 
-Gaiman Dock, 49 Arietis system 
+Gaiman Dock, 49 Arietis system
 
-Weyn Dock, 64 Arietis system 
+Weyn Dock, 64 Arietis system
 
-Korolyov Hub, Arawere system 
+Korolyov Hub, Arawere system
 
-Lobachevsky Outpost, Pic Tok system 
+Lobachevsky Outpost, Pic Tok system
 
-Carter Port, [[id:6da9023a-ccb6-444a-be77-626dfb552eb1][Rhea]] system 
+Carter Port, [[id:6da9023a-ccb6-444a-be77-626dfb552eb1][Rhea]] system
 
-Stations experiencing technical issues: 
+Stations experiencing technical issues:
 
-Coats Hub, Warkushanui 
+Coats Hub, Warkushanui
 
-Bond Hub, Varati 
+Bond Hub, Varati
 
-Hinz Hub, Ngobe 
+Hinz Hub, Ngobe
 
-Tsunenaga Dock, Iapodes 
+Tsunenaga Dock, Iapodes
 
-Li Qing Jao, [[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]] 
+[[id:c2a07dc0-b42f-44e1-a053-5bacc6ec8c5e][Li Qing Jao]], [[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]]
 
-Ray [[id:e179ecca-9ab3-4184-b05e-107b2e6932c2][Gateway]], Diaguandri system 
+Ray [[id:e179ecca-9ab3-4184-b05e-107b2e6932c2][Gateway]], Diaguandri system
 
-Vizcaino Enterprise, Nganji system 
+Vizcaino Enterprise, Nganji system
 
-Talos 2, [[id:3ea0a57b-8e74-4642-bb38-5152ddba646d][Peregrina]] system 
+Talos 2, [[id:3ea0a57b-8e74-4642-bb38-5152ddba646d][Peregrina]] system
 
 We will continue to bring you up-to-the-minute reports on this issue.

@@ -8,20 +8,20 @@
 
 /02 Nov 3308/
 
-The rise of the xeno-peace movement has caused a number of public figures to discuss coexisting peacefully with the Thargoid race. 
+The rise of the xeno-peace movement has caused a number of public figures to discuss coexisting peacefully with the Thargoid race.
 
-With military options currently under discussion in the political capitals of all three superpowers, calls for diplomacy have sought to keep pace. Professor [[id:3af8bb5f-63d0-4a98-b172-dcbcb70b5a4f][Shamus Madigan]], Head of Xenology at Olympus Village University, is one of several figures to have weighed in on the matter:  
+With military options currently under discussion in the political capitals of all three superpowers, calls for diplomacy have sought to keep pace. Professor [[id:3af8bb5f-63d0-4a98-b172-dcbcb70b5a4f][Shamus Madigan]], Head of Xenology at Olympus Village University, is one of several figures to have weighed in on the matter:
 
-“The ancient records of the Guardians, as deciphered by [[id:4551539e-a6b2-4c45-8923-40fb603202b7][Ram Tah]], describe how they learned enough of the Thargoids’ language to make peaceful overtures. These were rejected in favour of total war. Though millions of years have passed, it seems improbable that the Thargoids will view humanity any differently - particularly since we actively deploy Guardian-based weaponry against them.” 
+“The ancient records of the Guardians, as deciphered by [[id:4551539e-a6b2-4c45-8923-40fb603202b7][Ram Tah]], describe how they learned enough of the Thargoids’ language to make peaceful overtures. These were rejected in favour of total war. Though millions of years have passed, it seems improbable that the Thargoids will view humanity any differently - particularly since we actively deploy Guardian-based weaponry against them.”
 
-Federal Governor Dalton Chase:  
+Federal Governor [[id:ce508d31-48d2-411d-9056-6b451fc66cf3][Dalton Chase]]:
 
-“Assuming the communications barrier can be broken, I see no reason why we cannot have non-violent relations with these obviously intelligent beings. The recently consigned pro-peace megaship will help demonstrate to the Thargoids that we are not a single-minded warlike race, but a fellow advanced civilisation.”  
+“Assuming the communications barrier can be broken, I see no reason why we cannot have non-violent relations with these obviously intelligent beings. The recently consigned pro-peace megaship will help demonstrate to the Thargoids that we are not a single-minded warlike race, but a fellow advanced civilisation.”
 
-[[id:2aa67684-bcd8-4e3a-bc6a-e4fa3d52d2d1][Jaya Chaudhary]] , host of historical [[id:a12cdcbc-fa10-474e-8654-d3d7da17a307][ICE-cast]] ‘[[id:4d934678-e383-4dd5-99a8-07a55eddcd2e][Ghastly Pasts]]’: 
+[[id:2aa67684-bcd8-4e3a-bc6a-e4fa3d52d2d1][Jaya Chaudhary]] , host of historical [[id:a12cdcbc-fa10-474e-8654-d3d7da17a307][ICE-cast]] ‘[[id:4d934678-e383-4dd5-99a8-07a55eddcd2e][Ghastly Pasts]]’:
 
-“Human-Thargoid diplomacy might have been possible when our two species first encountered each other. But since then we have made two attempts to eradicate them, first with the [[id:0ffe3814-d246-41f3-8f82-4bb9ca062dea][mycoid]] compound and then with the Proteus Wave superweapon. Let’s be honest: would we want to talk to an alien race that did that to us?” 
+“Human-Thargoid diplomacy might have been possible when our two species first encountered each other. But since then we have made two attempts to eradicate them, first with the [[id:0ffe3814-d246-41f3-8f82-4bb9ca062dea][mycoid]] compound and then with the Proteus Wave superweapon. Let’s be honest: would we want to talk to an alien race that did that to us?”
 
-Ambassador [[id:a9ccf59f-436e-44df-b041-5020285925f8][Jasmina Halsey]], former president of the Federation: 
+Ambassador [[id:a9ccf59f-436e-44df-b041-5020285925f8][Jasmina Halsey]], former president of the Federation:
 
 “We have discovered a little about the Thargoids’ history, behaviour and technologies. But their thought processes and reasoning may be utterly different to our own. I have no idea if they even comprehend what diplomacy is, let alone whether we could find common ground. But I do know that we must try, if only to prove to ourselves that we can do better.”

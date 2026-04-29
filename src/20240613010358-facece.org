@@ -8,7 +8,7 @@
 #+begin_quote
 Well known Imperial Navy Base. Most Imperial naval administration is
 done on Topaz, and there are several outdoor training camps across
-the surface.Senator Anders Blaine is the senator for this system and
+the surface.Senator [[id:e9679720-e0c1-449e-86a6-a5b3de3613f5][Anders Blaine]] is the senator for this system and
 enjoys relative autonomy. The permit for this system can be obtained
 from the Imperial Military.
 #+end_quote

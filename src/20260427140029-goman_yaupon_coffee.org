@@ -7,7 +7,7 @@
 
 #+begin_quote
 This once traditional coffee substitute leapt to fame when the
-Emperor Hengist Duval gave it his seal of approval. This rare good
+Emperor [[id:3cb0755e-4deb-442b-898b-3f0c6651636e][Hengist Duval]] gave it his seal of approval. This rare good
 is legal in all systems. Please note that if a system's controlling
 faction changes, some formerly legal rare goods may become illegal
 in that system. If this happens, the rare goods in question will no

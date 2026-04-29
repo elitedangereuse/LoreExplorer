@@ -7,7 +7,7 @@
 
 #+begin_quote
 Chloe Sedesi served a number of artificer apprenticeships before
-joining Professor Ishmael Palin's staff as a mechanic. She swiftly
+joining [[id:8f63442a-1f38-457d-857a-38297d732a90][Professor Ishmael Palin]]'s staff as a mechanic. She swiftly
 became a vital team member, displaying a remarkable aptitude for a
 variety of technical disciplines. When the Witch Head enclave was
 established, Chloe resigned from Palin's team and, with his

@@ -10,7 +10,7 @@ The ARC is a volunteer organisation created to defend and advance
 Alliance interests. In keeping with the Alliance's ideals, the ARC
 is an open-minded, inclusive group with an aim to coordinate the
 actions of its members. Although generally sympathetic to Prime
-Minister Edmund Mahon as an individual, the group does not require
+Minister [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74][Edmund Mahon]] as an individual, the group does not require
 that its members support him as a power.
 #+end_quote
 

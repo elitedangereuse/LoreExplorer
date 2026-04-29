@@ -9,14 +9,14 @@
 
 /21 Dec 3306/
 
-As independent colonies are set up for Marlinist refugees, there has been a lull in terrorist strikes from the Neo-Marlinist Liberation Army (NMLA). 
+As independent colonies are set up for Marlinist refugees, there has been a lull in terrorist strikes from the Neo-Marlinist Liberation Army (NMLA).
 
-In recent months, the paramilitary group launched multiple attacks across the Empire. Starports and administrative buildings were bombed and dozens of individuals assassinated, including Prince Harold and more distant members of the Duval family. 
+In recent months, the paramilitary group launched multiple attacks across the Empire. Starports and administrative buildings were bombed and dozens of individuals assassinated, including Prince Harold and more distant members of the Duval family.
 
-However, the number of incidents has fallen drastically following successful operations by the Imperial Internal Security Service: 
+However, the number of incidents has fallen drastically following successful operations by the Imperial Internal Security Service:
 
-“After the [[id:0ba9accc-93ad-45a0-a771-e26daa59e58f][Federal Security Service]] identified [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] members aboard the emigrants’ megaships, these were transferred to us for interrogation. We obtained information that enabled us to shut down many terrorist cells, although there is evidence that the NMLA’s network remains widespread.” 
+“After the [[id:0ba9accc-93ad-45a0-a771-e26daa59e58f][Federal Security Service]] identified [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] members aboard the emigrants’ megaships, these were transferred to us for interrogation. We obtained information that enabled us to shut down many terrorist cells, although there is evidence that the NMLA’s network remains widespread.”
 
-In related news, hundreds of thousands of Marlinist refugees are preparing to occupy new colony systems established by the [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]]. Mass transportation will take place early next year, overseen by Safeguard Interstellar. The Empire, Federation and Sirius Gov have all agreed that the settlements will remain fully independent. 
+In related news, hundreds of thousands of Marlinist refugees are preparing to occupy new colony systems established by the [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]]. Mass transportation will take place early next year, overseen by Safeguard Interstellar. The Empire, Federation and Sirius Gov have all agreed that the settlements will remain fully independent.
 
-The refugee population has already begun to determine its future social structure, based on the principles of Marlinism. A transitional parliament has been formed by community leaders such as Dr Jenna Fairfax, Aaron Whyte and Amrita Ross. Democratic elections for a representative government will take place once the Marlinist Colonies are operational.
+The refugee population has already begun to determine its future social structure, based on the principles of Marlinism. A transitional parliament has been formed by community leaders such as Dr [[id:71f78d3e-edc5-423c-8b74-0bad5470c6f5][Jenna Fairfax]], [[id:83ddd0cb-e22d-4586-bc11-692af4a335c8][Aaron Whyte]] and Amrita Ross. Democratic elections for a representative government will take place once the Marlinist Colonies are operational.

@@ -8,34 +8,34 @@
 
 /01 May 3308/
 
-The journalist [[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]] of Vox Galactica was recently invited to conduct rare public interviews with admirals of the three superpowers.  
+The journalist [[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]] of Vox Galactica was recently invited to conduct rare public interviews with admirals of the three superpowers.
 
-This excerpt is from a conversation with Admiral Rachel Ziegler of the Alliance. 
+This excerpt is from a conversation with Admiral [[id:ba8a8802-bcb4-40c2-963e-52e33699797a][Rachel Ziegler]] of the Alliance.
 
-[[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]]: This is [[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]] reporting for Vox Galactica. I am here with Admiral Rachel Ziegler of the Alliance. I’m pleased to have this opportunity to speak with you, Admiral. 
+[[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]]: This is [[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]] reporting for Vox Galactica. I am here with Admiral [[id:ba8a8802-bcb4-40c2-963e-52e33699797a][Rachel Ziegler]] of the Alliance. I’m pleased to have this opportunity to speak with you, Admiral.
 
- Rachel Ziegler: You’re welcome. 
+ [[id:ba8a8802-bcb4-40c2-963e-52e33699797a][Rachel Ziegler]]: You’re welcome.
 
-JS: We’re on board the Salote Charm, which is currently stationed in the [[id:d508fb0f-0214-4133-829f-edb61e2681d0][Didio]] system. Two days ago, a large Thargoid force arrived here and began attacking human ships and ports. There are reports that [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]] has asked your fleet, and those of the other superpowers, to hold the Thargoid force at bay until the anti-xeno superweapon… 
+JS: We’re on board the Salote Charm, which is currently stationed in the [[id:d508fb0f-0214-4133-829f-edb61e2681d0][Didio]] system. Two days ago, a large Thargoid force arrived here and began attacking human ships and ports. There are reports that [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]] has asked your fleet, and those of the other superpowers, to hold the Thargoid force at bay until the anti-xeno superweapon…
 
-RZ: Let me clarify your question before you finish it. My priority is the safety of the billions who call [[id:d508fb0f-0214-4133-829f-edb61e2681d0][Didio]] home. We are not here to keep the Thargoid forces occupied. We are here to defeat them. 
+RZ: Let me clarify your question before you finish it. My priority is the safety of the billions who call [[id:d508fb0f-0214-4133-829f-edb61e2681d0][Didio]] home. We are not here to keep the Thargoid forces occupied. We are here to defeat them.
 
-JS: Understood, Admiral. [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]] has asked for time to prepare his superweapon, though? 
+JS: Understood, Admiral. [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]] has asked for time to prepare his superweapon, though?
 
-RZ: Yes, he has. But the Alliance does not operate with the assumption that [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]] will deliver on his promise. 
+RZ: Yes, he has. But the Alliance does not operate with the assumption that [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]] will deliver on his promise.
 
-JS: Do you support [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]’s methods? Critics have suggested he endangers lives by using a powerful weapon that has not been independently assessed by experts. 
+JS: Do you support [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]’s methods? Critics have suggested he endangers lives by using a powerful weapon that has not been independently assessed by experts.
 
-RZ: Whether I support or do not support [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]] is immaterial. The fact is that, on two previous occasions, the superweapon has eliminated Thargoid fleets from entire systems. Rejecting such a powerful device would be unwise. Still, I think the question of risk is wholly appropriate. Military and political figures alike must not become complacent or over-reliant on Salvation’s technology. Particularly when we know so little about it. 
+RZ: Whether I support or do not support [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]] is immaterial. The fact is that, on two previous occasions, the superweapon has eliminated Thargoid fleets from entire systems. Rejecting such a powerful device would be unwise. Still, I think the question of risk is wholly appropriate. Military and political figures alike must not become complacent or over-reliant on Salvation’s technology. Particularly when we know so little about it.
 
-JS: Is that ambiguity a concern for the Alliance? 
+JS: Is that ambiguity a concern for the Alliance?
 
-RZ: It should be a concern for everybody. So far, [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]] has acted in our best interests. But a weapon that powerful would be considerably dangerous if recalibrated to damage human technology. Imagine what the [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] could have done with such a device. 
+RZ: It should be a concern for everybody. So far, [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]] has acted in our best interests. But a weapon that powerful would be considerably dangerous if recalibrated to damage human technology. Imagine what the [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] could have done with such a device.
 
- JS: Terrible things, no doubt. But your fleet in [[id:d508fb0f-0214-4133-829f-edb61e2681d0][Didio]] could be seen as a tacit endorsement of [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]] by Allied leadership, regardless of your personal views. 
+ JS: Terrible things, no doubt. But your fleet in [[id:d508fb0f-0214-4133-829f-edb61e2681d0][Didio]] could be seen as a tacit endorsement of [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]] by Allied leadership, regardless of your personal views.
 
-RZ: As I said, [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]’s results are highly impressive. 
+RZ: As I said, [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]’s results are highly impressive.
 
-JS: Let’s hope they remain so. We’ll take a short break. Join us after these messages. 
+JS: Let’s hope they remain so. We’ll take a short break. Join us after these messages.
 
 The rest of this interview is available to pilots arriving at the megaship Salote Charm in the [[id:d508fb0f-0214-4133-829f-edb61e2681d0][Didio]] system.

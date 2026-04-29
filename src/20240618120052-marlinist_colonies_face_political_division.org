@@ -8,16 +8,16 @@
 
 /13 Jul 3307/
 
-The Marlinist Consulate, established to represent Marlinists across the galaxy, has triggered political instability among the colonies. 
+The Marlinist Consulate, established to represent Marlinists across the galaxy, has triggered political instability among the colonies.
 
-Local newsfeed The Marlin Standard detailed the situation: 
+Local newsfeed The Marlin Standard detailed the situation:
 
-“The formation of the Marlinist Consulate will shortly conclude with the public election of its leader. The prime consul will serve as the official Marlinist representative to the superpowers, establish foreign embassies and make wide-reaching diplomatic decisions.” 
+“The formation of the Marlinist Consulate will shortly conclude with the public election of its leader. The prime consul will serve as the official Marlinist representative to the superpowers, establish foreign embassies and make wide-reaching diplomatic decisions.”
 
-“One of the two leading candidates is Verity Dexter from the Marlinism Reformation Party, who promises to speak for the Neo-Marlinist fringe. The Free Marlinist Movement’s candidate, Kayode Tau, directly opposes that position.” 
+“One of the two leading candidates is Verity Dexter from the Marlinism Reformation Party, who promises to speak for the Neo-Marlinist fringe. The Free Marlinist Movement’s candidate, Kayode Tau, directly opposes that position.”
 
-“Senator Lorcan Scordato has championed Dexter’s bid, proposing that she be recognised as an Imperial patron to represent pro-Marlinist citizens of the Empire. Despite many protests, Chancellor Blaine concurred that patronage is within the purview of individual senators.” 
+“Senator Lorcan Scordato has championed Dexter’s bid, proposing that she be recognised as an Imperial patron to represent pro-Marlinist citizens of the Empire. Despite many protests, Chancellor Blaine concurred that patronage is within the purview of individual senators.”
 
-“Some Marlinists see this as a chance to finally obtain influence in the Senate, after centuries of being marginalised. Others are enraged at Neo-Marlinists gaining legitimacy and acting as the NMLA’s political wing.” 
+“Some Marlinists see this as a chance to finally obtain influence in the Senate, after centuries of being marginalised. Others are enraged at Neo-Marlinists gaining legitimacy and acting as the NMLA’s political wing.”
 
-“The rift has affected parliament, where First Minister Fairfax again urged Minister Aaron Whyte to cease representing the [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] and hand over all information to [[id:a152bfb8-4b9a-4b61-a292-824ecbd263e1][ACT]]. Whyte retorted that his diplomatic breakthroughs would soon make the counter-terrorism unit redundant.”
+“The rift has affected parliament, where First Minister Fairfax again urged Minister [[id:83ddd0cb-e22d-4586-bc11-692af4a335c8][Aaron Whyte]] to cease representing the [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][NMLA]] and hand over all information to [[id:a152bfb8-4b9a-4b61-a292-824ecbd263e1][ACT]]. Whyte retorted that his diplomatic breakthroughs would soon make the counter-terrorism unit redundant.”

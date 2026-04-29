@@ -8,12 +8,12 @@
 
 /25 Nov 3302/
 
-A prisoner convoy has been interdicted and destroyed in the Daibo system while en route to Koontz Asylum. Wreckage found in Daibo has been positively identified as belonging to the Imperial Cutter 'Diadem' and the Imperial Clippers 'Cypripedium', 'Velum', 'Monile' and 'Vestimenta'. 
+A prisoner convoy has been interdicted and destroyed in the Daibo system while en route to Koontz Asylum. Wreckage found in Daibo has been positively identified as belonging to the Imperial Cutter 'Diadem' and the Imperial Clippers 'Cypripedium', 'Velum', 'Monile' and 'Vestimenta'.
 
-"Completely wiped out," said one pilot, who was one of the first to respond to the distress call. "By the time I arrived there was nothing but floating debris. We even found wreckage from escape pods. Someone wanted to make sure there were absolutely no survivors. Even the black boxes were blasted." 
+"Completely wiped out," said one pilot, who was one of the first to respond to the distress call. "By the time I arrived there was nothing but floating debris. We even found wreckage from escape pods. Someone wanted to make sure there were absolutely no survivors. Even the black boxes were blasted."
 
-It has been confirmed that the convoy was carrying various political dissidents, convicted murderers and terrorists. Among them was the infamous Kahina Loren, recently found guilty of the attempted assassination of Admiral [[id:75daea85-5e9f-4f6f-a102-1a5edea0283c][Denton Patreus]]. 
+It has been confirmed that the convoy was carrying various political dissidents, convicted murderers and terrorists. Among them was the infamous [[id:2f09bc24-0885-4d00-9d1f-506b32464dbe][Kahina Loren]], recently found guilty of the attempted assassination of Admiral [[id:75daea85-5e9f-4f6f-a102-1a5edea0283c][Denton Patreus]].
 
-"Maybe someone wanted to give her a merciful death," said the chief editor of The Imperial Citizen. "Better that than what awaited her at Koontz Asylum, for sure." 
+"Maybe someone wanted to give her a merciful death," said the chief editor of The Imperial Citizen. "Better that than what awaited her at Koontz Asylum, for sure."
 
 Plans to hold a memorial service for Loren in the [[id:8da12af2-6006-4e7e-a45e-7bf8b2c299c8][Prism]] system have already generated angry responses. Princess [[id:b402bbe3-5119-4d94-87ee-0ba279658383][Aisling Duval]] was quoted as saying, "A service for her? She was a murderer and a convicted felon! Her name should be struck from the record and never spoken again."

@@ -63,7 +63,7 @@ To do so, they recruit the help of pilots and successfully establish
 outposts in the area to defend against potential Thargoid attacks.
 Shortly after, they begin working with Sirius Atmospherics, a
 subsidiary of Sirius Corporation to terraform ammonia worlds in the
-region. 
+region.
 
 DEC, 3306 - Thargoids launch coordinated attacks on the Coalsack and
 Witch Head nebulas, leading to urgent calls for assistance. Admiral Aden
@@ -139,13 +139,13 @@ antiquated firewalls allowed pilots to hack them.
 
 Elsewhere, Aegis launches a new anti-xeno research programme and
 requests Commanders for aid in delivering Guardian technology. Professor
-Alba Tesreau, head of Aegis Research, gave this statement:
+[[id:c2623368-19b0-4995-9e35-b8f54f741a53][Alba Tesreau]], head of Aegis Research, gave this statement:
 
 #+begin_quote
 At the Galactic Summit, Aegis agreed to undertake a fresh analysis of
 Guardian technology. The hope is that this will lead to the development
 of more effective defences against the Thargoids. We therefore require
-new samples to compare with Ram Tah's groundbreaking work on this
+new samples to compare with [[id:4551539e-a6b2-4c45-8923-40fb603202b7][Ram Tah]]'s groundbreaking work on this
 mysterious species./ [...] /I beseech the galactic community to support
 this project. It is vital that Aegis continues to receive funding, and
 to achieve this we must push the boundaries of our knowledge even
@@ -153,7 +153,7 @@ further.
 #+end_quote
 
 Aegis are overwhelmingly successful in their initiative, receiving a
-massive delivery of Guardian artefacts. Professor Alba Tesreau made this
+massive delivery of Guardian artefacts. Professor [[id:c2623368-19b0-4995-9e35-b8f54f741a53][Alba Tesreau]] made this
 announcement:
 
 #+begin_quote
@@ -211,7 +211,7 @@ offload our cargo and distribute it to multiple locations.
 
 However, the megaship never reached its arrival point and all
 communication with it has ceased. Search teams in local systems have not
-detected its presence. Admiral Aden Tanner, chief military liaison with
+detected its presence. Admiral [[id:7bca1ccd-649e-438a-ae56-fb8ca34e6440][Aden Tanner]], chief military liaison with
 Aegis, informed the media:
 
 #+begin_quote
@@ -272,7 +272,7 @@ costs to clean them prior to installation.
 ** ACT III
 
 JUL, 3307 - The Scriveners clan Dredger leaves the system where the
-Hesperus is located. Erik Gunnarson of Wallglass Investigations Agency
+Hesperus is located. [[id:0367ce6a-a18b-4bca-a6d1-da93c2dd200f][Erik Gunnarson]] of Wallglass Investigations Agency
 speculates:
 
 #+begin_quote
@@ -326,11 +326,11 @@ concentration of Guardian artefacts aboard the Alexandria directly led
 to systems coming under Thargoid attack. Other incidents will be
 reviewed to identify possible grounds for negligence.
 
-~ Dr Paul Baumann, chair of the board of inquiry
+~ Dr [[id:41a68308-da74-47cf-ac43-ff493dc0ea4f][Paul Baumann]], chair of the board of inquiry
 #+end_quote
 
 Shortly after, the findings of the report are leaked to journalists. Dr
-Paul Baumann states that only the final report should be considered
+[[id:41a68308-da74-47cf-ac43-ff493dc0ea4f][Paul Baumann]] states that only the final report should be considered
 official. In the meantime, Vox Galactical journalist Alexei Keel shared
 the leaked versions contents:
 
@@ -379,7 +379,7 @@ information, revealing a third beacon and ultimately access to a second
 research location. Anyone searching for further information on Project
 Seraph is encouraged to proceed with caution.
 
-SEP, 3307 - Prime Minister Edmund Mahon comments on the Aegis inquiry:
+SEP, 3307 - Prime Minister [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74][Edmund Mahon]] comments on the Aegis inquiry:
 
 #+begin_quote
 The greatest regret of my career is that I was unable to formalise the
@@ -407,7 +407,7 @@ Eye. Although the network is not fully complete, we cannot dismiss this
 report as a false reading. Cornsar must act now.
 #+end_quote
 
-Carter Armstrong, Aegis chief administrator has this to say:
+[[id:fa943255-7f7c-4ac5-b8ac-86c78b156512][Carter Armstrong]], Aegis chief administrator has this to say:
 
 #+begin_quote
 Aegis cannot validate this claim. There is no indication of a Thargoid
@@ -500,7 +500,7 @@ system at Salvations request. Tech brokers on board offer
 Guardian-hybrid plasma chargers at discount to support the anti-xeno
 effort.
 
-NOV, 3307 - Aegis Admiral, Aden Tanner called for the organisatin to
+NOV, 3307 - Aegis Admiral, [[id:7bca1ccd-649e-438a-ae56-fb8ca34e6440][Aden Tanner]] called for the organisatin to
 reject the public inquiry's shutdown and take action against Salvation.
 He cites the distribution of unlicensed weapons technology distribution
 as being designed to provoke the Thargoids, risking millions of lives.
@@ -517,7 +517,7 @@ refused to comment on rumours that the facility's original crew
 encountered a previously unidentified life form.
 
 A rogue Aegis Defense force initiates conflict with Taurus Mining
-Ventures in the T Tauri system. The force, led by Admiral Aden Tanner is
+Ventures in the T Tauri system. The force, led by Admiral [[id:7bca1ccd-649e-438a-ae56-fb8ca34e6440][Aden Tanner]] is
 helmed by the Musashi Megaship, contrary to orders from Aegis
 leadership. However, some speculate that the Admiral has tacit support
 from many members of the organisation. Taurus Mining Ventures declare
@@ -526,7 +526,7 @@ in the galactic community's best interests. The conflict ends in Taurus
 Mining Venture's favour and Admiral Tanner is held in custody with Aegis
 internal security teams.
 
-Admiral Aden Tanner and the crew of the Musashi megaship are placed on
+Admiral [[id:7bca1ccd-649e-438a-ae56-fb8ca34e6440][Aden Tanner]] and the crew of the Musashi megaship are placed on
 trial for attacking Salvation's allies. He stands formally accused of
 mutiny and unlawful military action. In face of dishonourable discharge
 and lifetime imprisonment, Admiral Tanner claims the Salvation's
@@ -554,7 +554,7 @@ vessels destroyed in battle."/
 
 ** ACT VI
 
-DEC, 3307 - Commodore Morag Halloran becomes the new commanding officer
+DEC, 3307 - Commodore [[id:bcaa9222-b056-41cf-9361-68dd8d3424fb][Morag Halloran]] becomes the new commanding officer
 of Aegis' Musashi Megaship. Her first transmission from this post
 acknowledges Salvation's anticipation of Thargoid attacks in the Maia,
 Merope and Delphi systems and calls for deliveries of classified
@@ -581,7 +581,7 @@ concessions may include official support for Salvation's anti-xeno
 activities.
 
 The Coalsack, Pleiades and Witch Head nebulas continue to see an influx
-of Thargoid vessels. Freelance war correspondent Ernesto Rios reports
+of Thargoid vessels. Freelance war correspondent [[id:9aac4d99-35c1-4f2e-91c1-b84cb73d54f8][Ernesto Rios]] reports
 for Vox Galactica:
 
 #+begin_quote
@@ -611,7 +611,7 @@ Hind Mine are both catastrophes that could have been anticipated and
 prevented. This board cannot in all conscience recommend any scenario
 that might enable further loss of life in Aegis's name.
 
-~ Dr Paul Baumann
+~ Dr [[id:41a68308-da74-47cf-ac43-ff493dc0ea4f][Paul Baumann]]
 #+end_quote
 
 The Alliance, Empire and Federation accept the recommendation and shut
@@ -620,7 +620,7 @@ to an increased military budget for the Imperial Navy, the Federation
 creates a new naval strike force and the Alliance Defence Force commits
 to working with the Sirius Navy.
 
-Xenological research laboratories set up by Professor Alba Tesreau will
+Xenological research laboratories set up by Professor [[id:c2623368-19b0-4995-9e35-b8f54f741a53][Alba Tesreau]] will
 now transfer their work to specialist departments in the Holloway
 Bioscience Institute, Imperial Science Academy and Olympus Village
 University.
@@ -646,7 +646,7 @@ form over the last two hundred years, and remains focused on aggressive
 xenological research. Aegis must be reinstated immediately to counter
 this dangerous organisation before more lives are lost.
 
-~ Chief Administrator Carter Armstrong on behalf of Aegis.
+~ Chief Administrator [[id:fa943255-7f7c-4ac5-b8ac-86c78b156512][Carter Armstrong]] on behalf of Aegis.
 #+end_quote
 
 FEB, 3308 - Shutdown procedures for Aegis go ahead despite the
@@ -662,7 +662,7 @@ evidence, Aegis leaders have petitioned for it to be reinstated.
 
 The HIP 12314, Dan, and Nauni systems come under heavy Thargoid attack.
 The Superpower's alternatives to Aegis are not yet formed so independent
-pilot's are called to aid. Commodore Morag Halloran, now Salvation's
+pilot's are called to aid. Commodore [[id:bcaa9222-b056-41cf-9361-68dd8d3424fb][Morag Halloran]], now Salvation's
 military coordinator, states that the most efficient use of their time
 is further anti-xeno superweapon development rather than "small-scale
 engagement".
@@ -699,10 +699,10 @@ independent pilots.
 MAY, 3308 - The invading Thargoid forces in the Didio, Novas and Sosong
 systems have been completely repelled by Salvation.
 
-Vox Galactica journalist Jade Sanderlyn published this account:
+Vox Galactica journalist [[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]] published this account:
 
 #+begin_quote
-We've received confirmation from Commodore Morag Halloran that three
+We've received confirmation from Commodore [[id:bcaa9222-b056-41cf-9361-68dd8d3424fb][Morag Halloran]] that three
 anti-xeno superweapons were activated in Didio, Novas and Sosong. This
 caused the Thargoid fleets in all three systems to immediately withdraw
 into hyperspace.
@@ -728,7 +728,7 @@ species.
 However, an abandoned outpost in the DG Canum Venaticorum system could
 reveal the true identity of the anonymous figure Salvation.
 
-Professor Alba Tesreau, former head of research at Aegis, made a public
+Professor [[id:c2623368-19b0-4995-9e35-b8f54f741a53][Alba Tesreau]], former head of research at Aegis, made a public
 announcement:
 
 #+begin_quote
@@ -756,7 +756,7 @@ Vox Galactica:
 
 #+begin_quote
 Information recently uncovered in the DG Canum Venaticorum system has
-been presented by Professor Alba Tesreau. It suggests that Salvation's
+been presented by Professor [[id:c2623368-19b0-4995-9e35-b8f54f741a53][Alba Tesreau]]. It suggests that Salvation's
 real name is Dr Caleb Wycherley, former vice-president of research at
 Azimuth Biochemicals. According to Wycherley's personal logs, his team
 contributed to the development of the controversial mycoid bioweapon
@@ -867,10 +867,10 @@ the superweapon's operation.
 #+end_quote
 
 A counter-statement regarding Azimuth Biotech is published by Professor
-Alba Tesreau, former head of research at Aegis:
+[[id:c2623368-19b0-4995-9e35-b8f54f741a53][Alba Tesreau]], former head of research at Aegis:
 
 #+begin_quote
-The recent declaration by Director Torben Rademaker paints a false
+The recent declaration by Director [[id:78d58f4a-e080-4548-a2f0-9506b7b73674][Torben Rademaker]] paints a false
 picture of those pilots who are actively working against Azimuth
 Biotech. He frames them as criminals and alien sympathisers, betraying
 humanity to the Thargoids. This could not be any further from the truth.
@@ -899,7 +899,7 @@ AUGUST, 3308 - The Proteus Wave superweapon is completed and Salvation
 prepares to fire.
 
 Salvation's anti-xeno superweapon is now complete and final preparations
-are underway in the HIP 22460 system.Commodore Morag Halloran, Azimuth
+are underway in the HIP 22460 system.Commodore [[id:bcaa9222-b056-41cf-9361-68dd8d3424fb][Morag Halloran]], Azimuth
 Biotech's military coordinator, broadcast this announcement from the
 Bright Sentinel megaship:
 
