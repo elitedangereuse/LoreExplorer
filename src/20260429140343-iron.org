@@ -1,0 +1,18 @@
+#+title: Iron
+#+filetags: :Raw:Material:
+:PROPERTIES:
+:ID:       b2904b5b-4353-40b6-aa01-3eb8a0103106
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Iron
+:END:
+
+#+begin_quote
+Collected on planet surfaces and from asteroids.
+
+Iron, Fe, atomic number 26. Melting point 1811K. Iron is one of the
+most abundant heavier elements in the galaxy, primarily due to the
+formation through fusion in massive stars of nickel-56, which decays
+into an iron isotope. Although it isn't used as much in modern
+metals it still has many uses in chemical production. It's also an
+important element in medical molecular engineering applications
+#+end_quote
+

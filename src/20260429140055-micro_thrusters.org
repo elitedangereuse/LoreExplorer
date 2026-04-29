@@ -1,0 +1,11 @@
+#+title: Micro Thrusters
+#+filetags: :Component:Odyssey:
+:PROPERTIES:
+:ID:       2d34d3cf-73cf-42b8-9589-8eb3ef0b2b34
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Micro_Thrusters
+:END:
+
+#+begin_quote
+Small, powerful propulsive devices.
+#+end_quote
+

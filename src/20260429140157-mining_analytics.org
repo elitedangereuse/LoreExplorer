@@ -1,0 +1,12 @@
+#+title: Mining Analytics
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       07502bc9-b104-418a-a064-e91905dc6e2d
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Mining_Analytics
+:END:
+
+#+begin_quote
+Scientific data used to increase the safety and efficiency of a
+specific mining operation.
+#+end_quote
+

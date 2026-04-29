@@ -1,5 +1,12 @@
 :PROPERTIES:
 :ID:       96d94e73-e5e9-45ee-8fb8-b5b3abe60ade
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Multimedia_Entertainment
 :END:
 #+title: Multimedia Entertainment
-#+filetags: :Data:
+#+filetags: :Data:Odyssey:
+
+#+begin_quote
+A range of popular entertainment products available in multiple
+formats.
+#+end_quote
+

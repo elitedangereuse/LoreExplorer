@@ -1,0 +1,15 @@
+#+title: Selenium
+#+filetags: :Raw:Material:
+:PROPERTIES:
+:ID:       e6ecaa7f-381e-4472-9640-bc5515c1bd8d
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Selenium
+:END:
+
+#+begin_quote
+Collected on planet surfaces and from asteroids.
+
+Selenium, Se, atomic number 34. Melting point 494K. Its primary use
+is in alloys and in glass production. It is also used as a catalyst
+in some chemical processes.
+#+end_quote
+

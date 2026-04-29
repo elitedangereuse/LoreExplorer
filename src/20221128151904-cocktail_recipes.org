@@ -1,5 +1,12 @@
 :PROPERTIES:
 :ID:       89d50716-eb98-413b-8f5c-2bb7602f3f46
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Cocktail_Recipes
 :END:
 #+title: Cocktail Recipes
-#+filetags: :Data:
+#+filetags: :Data:Odyssey:
+
+#+begin_quote
+Instructions for mixing sophisticated alcoholic or non-alcoholic
+beverages from many star systems.
+#+end_quote
+

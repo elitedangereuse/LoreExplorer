@@ -1,0 +1,11 @@
+#+title: Mutagenic Catalyst
+#+filetags: :Good:Odyssey:
+:PROPERTIES:
+:ID:       8ab27ba5-283f-480b-9c5c-6fa873633445
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Mutagenic_Catalyst
+:END:
+
+#+begin_quote
+A compound designed to induce and accelerate cellular mutation.
+#+end_quote
+

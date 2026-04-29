@@ -1,0 +1,15 @@
+#+title: Filament Composites
+#+filetags: :Manufactured:Material:
+:PROPERTIES:
+:ID:       2dfb5e9f-a6d1-4f2e-b2ca-62289ef3e2c7
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Filament_Composites
+:END:
+
+#+begin_quote
+Component found in ships: frequently used by military and authority
+vessels. Known to be salvaged from signal sources.
+
+Filament composites use embedded filaments to improve the strength
+of the material.
+#+end_quote
+

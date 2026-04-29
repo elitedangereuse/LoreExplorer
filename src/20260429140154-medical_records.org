@@ -1,0 +1,12 @@
+#+title: Medical Records
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       b3a1b19f-e98b-49d3-b76c-e2b2193b5d03
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Medical_Records
+:END:
+
+#+begin_quote
+A collection of medical data related to a specific group or
+population.
+#+end_quote
+

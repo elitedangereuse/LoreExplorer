@@ -1,0 +1,15 @@
+#+title: Galvanising Alloys
+#+filetags: :Manufactured:Material:
+:PROPERTIES:
+:ID:       5002f273-08c0-4db7-b52e-5585b6b42c8b
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Galvanising_Alloys
+:END:
+
+#+begin_quote
+Component found in ships: frequently used by combat oriented
+vessels. Known to be salvaged from signal sources.
+
+Galvanising alloys are alloys with additional protection from
+corrosion.
+#+end_quote
+

@@ -1,0 +1,12 @@
+#+title: Incident Logs
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       9836cd93-dc6b-4af7-83a6-7a54190c6b72
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Incident_Logs
+:END:
+
+#+begin_quote
+Notable occurrences or unexpected events that occurred at a
+settlement.
+#+end_quote
+

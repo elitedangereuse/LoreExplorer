@@ -1,0 +1,17 @@
+#+title: Grid Resistors
+#+filetags: :Manufactured:Material:
+:PROPERTIES:
+:ID:       d0dd6a84-1dba-46e2-a423-7d39c2fefa7d
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Grid_Resistors
+:END:
+
+#+begin_quote
+Component found in ships: frequently used by military and authority
+vessels. Known to be salvaged from signal sources.
+
+Grid resistors are a form of serial resistor (often in a 2 or 3
+dimensional array) that are used for a variety of purposes,
+including: radio interference reduction, parasitic oscillation
+prevention and grid current limitation.
+#+end_quote
+

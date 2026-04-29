@@ -66,7 +66,7 @@ const state = {
   activeCommunityId: null,
   results: [],
   searchQuery: "",
-  colorMode: "group",
+  colorMode: "backlinks",
   shapeMode: "semantic",
   camera: { x: 0, y: 0, zoom: 1 },
   bounds: { minX: 0, maxX: 1, minY: 0, maxY: 1 },
@@ -81,6 +81,7 @@ const state = {
   pinchStart: { distance: 0, zoom: 1, centerX: 0, centerY: 0, worldX: 0, worldY: 0 },
   suppressNextClick: false,
   hasFitted: false,
+  fittedSize: { width: 0, height: 0 },
   neighborMode: false,
   adjacency: new Map(),
   outboundAdjacency: new Map(),
@@ -163,15 +164,24 @@ function resizeCanvas() {
   const ratio = window.devicePixelRatio || 1;
   const rect = graphStage.getBoundingClientRect();
   if (!rect.width || !rect.height) return;
+  const previousWidth = state.fittedSize.width;
+  const previousHeight = state.fittedSize.height;
+  const sizeChangedAfterFit = (
+    state.hasFitted
+    && previousWidth
+    && previousHeight
+    && (Math.abs(rect.width - previousWidth) > 12 || Math.abs(rect.height - previousHeight) > 12)
+  );
 
   canvas.width = Math.round(rect.width * ratio);
   canvas.height = Math.round(rect.height * ratio);
   context.setTransform(1, 0, 0, 1, 0, 0);
   context.scale(ratio, ratio);
 
-  if (state.nodes.length && !state.hasFitted) {
+  if (state.nodes.length && (!state.hasFitted || (isClusterLandingView() && sizeChangedAfterFit))) {
     fitGraph();
     state.hasFitted = true;
+    state.fittedSize = { width: rect.width, height: rect.height };
     return;
   }
   render();
@@ -1201,6 +1211,60 @@ function getNodeShape(node) {
   return classifySemanticShape(node);
 }
 
+function tracePersonShape(pathContext, x, y, radiusX, radiusY) {
+  const headRadiusX = radiusX * 0.42;
+  const headRadiusY = radiusY * 0.42;
+  const headY = y - radiusY * 0.34;
+  const neckHalfWidth = radiusX * 0.18;
+  const shoulderHalfWidth = radiusX * 0.62;
+  const shoulderY = y + radiusY * 0.18;
+  const baseY = y + radiusY * 0.82;
+  const headBaseY = headY + headRadiusY * 0.84;
+
+  pathContext.moveTo(x - shoulderHalfWidth, baseY);
+  pathContext.quadraticCurveTo(
+    x - shoulderHalfWidth * 0.98,
+    shoulderY + radiusY * 0.22,
+    x - shoulderHalfWidth * 0.72,
+    shoulderY,
+  );
+  pathContext.quadraticCurveTo(
+    x - neckHalfWidth * 1.6,
+    shoulderY - radiusY * 0.08,
+    x - neckHalfWidth,
+    headBaseY,
+  );
+  pathContext.bezierCurveTo(
+    x - headRadiusX,
+    headY + headRadiusY * 0.28,
+    x - headRadiusX,
+    headY - headRadiusY,
+    x,
+    headY - headRadiusY,
+  );
+  pathContext.bezierCurveTo(
+    x + headRadiusX,
+    headY - headRadiusY,
+    x + headRadiusX,
+    headY + headRadiusY * 0.28,
+    x + neckHalfWidth,
+    headBaseY,
+  );
+  pathContext.quadraticCurveTo(
+    x + neckHalfWidth * 1.6,
+    shoulderY - radiusY * 0.08,
+    x + shoulderHalfWidth * 0.72,
+    shoulderY,
+  );
+  pathContext.quadraticCurveTo(
+    x + shoulderHalfWidth * 0.98,
+    shoulderY + radiusY * 0.22,
+    x + shoulderHalfWidth,
+    baseY,
+  );
+  pathContext.closePath();
+}
+
 function traceNodeShape(pathContext, shape, x, y, radius) {
   pathContext.beginPath();
 
@@ -1228,56 +1292,7 @@ function traceNodeShape(pathContext, shape, x, y, radius) {
   }
 
   if (shape === "person") {
-    const headRadius = radius * 0.42;
-    const headY = y - radius * 0.34;
-    const neckHalfWidth = radius * 0.18;
-    const shoulderHalfWidth = radius * 0.62;
-    const shoulderY = y + radius * 0.18;
-    const baseY = y + radius * 0.82;
-    const headBaseY = headY + headRadius * 0.84;
-
-    pathContext.moveTo(x - shoulderHalfWidth, baseY);
-    pathContext.quadraticCurveTo(
-      x - shoulderHalfWidth * 0.98,
-      shoulderY + radius * 0.22,
-      x - shoulderHalfWidth * 0.72,
-      shoulderY,
-    );
-    pathContext.quadraticCurveTo(
-      x - neckHalfWidth * 1.6,
-      shoulderY - radius * 0.08,
-      x - neckHalfWidth,
-      headBaseY,
-    );
-    pathContext.bezierCurveTo(
-      x - headRadius,
-      headY + headRadius * 0.28,
-      x - headRadius,
-      headY - headRadius,
-      x,
-      headY - headRadius,
-    );
-    pathContext.bezierCurveTo(
-      x + headRadius,
-      headY - headRadius,
-      x + headRadius,
-      headY + headRadius * 0.28,
-      x + neckHalfWidth,
-      headBaseY,
-    );
-    pathContext.quadraticCurveTo(
-      x + neckHalfWidth * 1.6,
-      shoulderY - radius * 0.08,
-      x + shoulderHalfWidth * 0.72,
-      shoulderY,
-    );
-    pathContext.quadraticCurveTo(
-      x + shoulderHalfWidth * 0.98,
-      shoulderY + radius * 0.22,
-      x + shoulderHalfWidth,
-      baseY,
-    );
-    pathContext.closePath();
+    tracePersonShape(pathContext, x, y, radius, radius);
     return;
   }
 
@@ -1305,6 +1320,21 @@ function strokeNodeOutline(shape, x, y, radius, color, lineWidth, alpha = 1) {
   context.strokeStyle = color;
   context.lineWidth = lineWidth;
   traceNodeShape(context, shape, x, y, radius);
+  context.stroke();
+  context.restore();
+}
+
+function strokeNodeHalo(shape, x, y, baseRadius, gap, color, lineWidth, alpha = 1) {
+  context.save();
+  context.globalAlpha = alpha;
+  context.strokeStyle = color;
+  context.lineWidth = lineWidth;
+  if (shape === "person") {
+    context.beginPath();
+    tracePersonShape(context, x, y, baseRadius + gap, baseRadius + gap * 0.55);
+  } else {
+    traceNodeShape(context, shape, x, y, baseRadius + gap);
+  }
   context.stroke();
   context.restore();
 }
@@ -1755,12 +1785,32 @@ function fitNodes(nodes) {
     (rect.height - padding) / height,
   );
   state.camera.zoom = Math.max(0.08, Math.min(state.camera.zoom, 1.4));
+  state.hasFitted = true;
+  state.fittedSize = { width: rect.width, height: rect.height };
   state.visibleBounds = bounds;
   render();
 }
 
 function fitGraph() {
   fitNodes(isClusterLandingView() ? state.baseCommunityNodes : getVisibleNodes());
+}
+
+function scheduleLandingFit() {
+  if (!isClusterLandingView()) {
+    return;
+  }
+  const refit = () => {
+    if (!isClusterLandingView()) {
+      return;
+    }
+    state.hasFitted = false;
+    state.fittedSize = { width: 0, height: 0 };
+    resizeCanvas();
+  };
+  requestAnimationFrame(refit);
+  [80, 180, 360, 720, 1200].forEach((delay) => {
+    window.setTimeout(refit, delay);
+  });
 }
 
 function getLabelNodes(nodes) {
@@ -2227,31 +2277,31 @@ function render() {
     context.fill();
 
     if (node.id === state.graphRootNodeId) {
-      strokeNodeOutline(shape, point.x, point.y, radius + 4, "#ffe082", 2);
+      strokeNodeHalo(shape, point.x, point.y, radius, 4, "#ffe082", 2);
     }
     if (node.id === state.inspectNodeId) {
-      strokeNodeOutline(shape, point.x, point.y, radius + 3, "#eef6ff", 1.5);
+      strokeNodeHalo(shape, point.x, point.y, radius, 3, "#eef6ff", 1.5);
     }
     if (state.expandedNodeIds.has(node.id)) {
-      strokeNodeOutline(shape, point.x, point.y, radius + 3, "#4dd0e1", 1.5, 0.95);
+      strokeNodeHalo(shape, point.x, point.y, radius, 3, "#4dd0e1", 1.5, 0.95);
     }
     if (isBookmarked(node.id)) {
-      strokeNodeOutline(shape, point.x, point.y, radius + 4.5, "rgba(255, 212, 107, 0.92)", 1.8, 0.92);
+      strokeNodeHalo(shape, point.x, point.y, radius, 4.5, "rgba(255, 212, 107, 0.92)", 1.8, 0.92);
     }
     if (state.detectiveMode && layerOverlayData.bookmarkColorsByNodeId.has(node.id)) {
       const bookmarkColors = layerOverlayData.bookmarkColorsByNodeId.get(node.id);
       bookmarkColors.slice(0, 2).forEach((color, index) => {
-        strokeNodeOutline(shape, point.x, point.y, radius + 2.5 + (index * 2.5), color, 1.2, 0.76);
+        strokeNodeHalo(shape, point.x, point.y, radius, 2.5 + (index * 2.5), color, 1.2, 0.76);
       });
     }
     if (isActivePathNode) {
-      strokeNodeOutline(shape, point.x, point.y, radius + 5, "rgba(255, 212, 107, 0.92)", 2.2);
+      strokeNodeHalo(shape, point.x, point.y, radius, 5, "rgba(255, 212, 107, 0.92)", 2.2);
     }
     if (isHoveredNeighbor && !isHoveredNode) {
-      strokeNodeOutline(shape, point.x, point.y, radius + 4, "rgba(125, 211, 252, 0.86)", 1.5);
+      strokeNodeHalo(shape, point.x, point.y, radius, 4, "rgba(125, 211, 252, 0.86)", 1.5);
     }
     if (isHoveredNode) {
-      strokeNodeOutline(shape, point.x, point.y, radius + 6, "#9ee7ff", 2.6);
+      strokeNodeHalo(shape, point.x, point.y, radius, 6, "#9ee7ff", 2.6);
     }
   }
 
@@ -5013,9 +5063,22 @@ function bindEvents() {
   );
 
   window.addEventListener("resize", resizeCanvas);
+  if (window.visualViewport) {
+    window.visualViewport.addEventListener("resize", () => {
+      if (isClusterLandingView()) {
+        scheduleLandingFit();
+      } else {
+        resizeCanvas();
+      }
+    });
+  }
   new ResizeObserver(() => {
     hideContextMenu();
-    resizeCanvas();
+    if (isClusterLandingView()) {
+      scheduleLandingFit();
+    } else {
+      resizeCanvas();
+    }
   }).observe(graphStage);
   window.addEventListener("hashchange", () => applyUrlState());
   document.addEventListener("click", (event) => {
@@ -6143,9 +6206,11 @@ async function bootstrap() {
   shapeModeSelect.value = state.shapeMode;
 
   state.hasFitted = false;
+  state.fittedSize = { width: 0, height: 0 };
   showEmptyNoteState();
   setActiveView("landing");
   applyUrlState();
+  scheduleLandingFit();
   requestAnimationFrame(() => {
     searchInput.focus({ preventScroll: true });
   });

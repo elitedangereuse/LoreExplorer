@@ -1,0 +1,17 @@
+#+title: Polymer Capacitors
+#+filetags: :Manufactured:Material:
+:PROPERTIES:
+:ID:       04555182-b463-4f9a-a254-ee0520cefd97
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Polymer_Capacitors
+:END:
+
+#+begin_quote
+Component found in ships: frequently used by military and authority
+vessels. Known to be salvaged from signal sources in anarchy
+systems.
+
+Polymer capacitors are stable and reliable forms of capacitor for
+small scale electronics. They are known for handling overload
+situations without cascade failure.
+#+end_quote
+

@@ -1,0 +1,16 @@
+#+title: Zinc
+#+filetags: :Raw:Material:
+:PROPERTIES:
+:ID:       fe6c4411-cf22-46ae-bc39-fc61cdd8aea0
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Zinc
+:END:
+
+#+begin_quote
+Collected on planet surfaces and from asteroids.
+
+Zinc, Zn, atomic number 30. Melting point 692K. Zinc is used in
+various alloys where its low melting point allows the casting of
+fine shapes. It's also used in some industrial processes and in
+infrared lasers.
+#+end_quote
+

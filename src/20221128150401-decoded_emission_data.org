@@ -1,5 +1,17 @@
 :PROPERTIES:
 :ID:       14203bd7-c4c0-4c60-a2e6-ef115a646465
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Decoded_Emission_Data
 :END:
 #+title: Decoded Emission Data
 #+filetags: :Encoded:Material:
+
+#+begin_quote
+Collected during basic scan: frequently pulled from combat oriented
+vessels. Known to be salvaged from signal sources.
+
+Emission data takes a variety of forms and is often merged into
+wider datasets to search for anomalies and other stand out data.
+This tends to be compressed in decoded packages to maintain a
+separate copy of anomalous results.
+#+end_quote
+

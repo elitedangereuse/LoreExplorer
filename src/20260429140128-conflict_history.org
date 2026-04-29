@@ -1,0 +1,12 @@
+#+title: Conflict History
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       c5cd0622-9768-4a1f-bd13-eb4dbacd1531
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Conflict_History
+:END:
+
+#+begin_quote
+Detailed civil, political or military records relating to a faction
+conflict.
+#+end_quote
+

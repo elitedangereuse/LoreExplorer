@@ -1,0 +1,12 @@
+#+title: Clinical Trial Records
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       9a38b244-4502-46df-bdf5-2805fb95d1bd
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Clinical_Trial_Records
+:END:
+
+#+begin_quote
+Results of clinical research evaluating new medical procedures or
+inventions.
+#+end_quote
+

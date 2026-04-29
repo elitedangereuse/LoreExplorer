@@ -1,0 +1,11 @@
+#+title: Patrol Routes
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       823d2acb-d1fa-46d9-9a91-9fe8f63f6a8e
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Patrol_Routes
+:END:
+
+#+begin_quote
+Deployment schedules and paths used in routine security operations.
+#+end_quote
+

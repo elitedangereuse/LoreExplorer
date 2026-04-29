@@ -1,0 +1,12 @@
+#+title: Viscoelastic Polymer
+#+filetags: :Component:Odyssey:
+:PROPERTIES:
+:ID:       a6e0159a-ad9b-4d7e-87c5-523ed4514494
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Viscoelastic_Polymer
+:END:
+
+#+begin_quote
+An elastic material used in shock absorption and vibration
+dampening.
+#+end_quote
+

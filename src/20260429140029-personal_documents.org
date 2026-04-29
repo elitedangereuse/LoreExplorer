@@ -1,0 +1,11 @@
+#+title: Personal Documents
+#+filetags: :Good:Odyssey:
+:PROPERTIES:
+:ID:       e1015cda-eccf-4817-b7ef-ee88259cffe6
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Personal_Documents
+:END:
+
+#+begin_quote
+An assortment of personal data.
+#+end_quote
+

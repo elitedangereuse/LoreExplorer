@@ -1,0 +1,12 @@
+#+title: Ship Schematic
+#+filetags: :Good:Odyssey:
+:PROPERTIES:
+:ID:       2f979d96-02c3-4eeb-99d2-d9d84660aca3
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Ship_Schematic
+:END:
+
+#+begin_quote
+A technical blueprint detailing the internal and external design of
+a starship.
+#+end_quote
+

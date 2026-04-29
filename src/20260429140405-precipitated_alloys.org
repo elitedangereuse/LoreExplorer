@@ -1,0 +1,14 @@
+#+title: Precipitated Alloys
+#+filetags: :Manufactured:Material:
+:PROPERTIES:
+:ID:       d2303f64-5830-4044-a991-2c430deb833a
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Precipitated_Alloys
+:END:
+
+#+begin_quote
+Component found in ships: frequently used by military and authority
+vessels.
+
+Precipitated alloys provide extra hardening over standard alloys.
+#+end_quote
+

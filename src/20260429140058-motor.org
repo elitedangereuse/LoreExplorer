@@ -1,0 +1,12 @@
+#+title: Motor
+#+filetags: :Component:Odyssey:
+:PROPERTIES:
+:ID:       619aced7-b2b7-4a1c-b125-ee0b070e5cd1
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Motor
+:END:
+
+#+begin_quote
+A machine designed to transform electrical energy into kinetic
+energy.
+#+end_quote
+

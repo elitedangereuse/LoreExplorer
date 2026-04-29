@@ -1,0 +1,17 @@
+#+title: Specialised Legacy Firmware
+#+filetags: :Encoded:Material:
+:PROPERTIES:
+:ID:       51b7c2c1-186e-4c22-b802-c36bc2020baa
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Specialised_Legacy_Firmware
+:END:
+
+#+begin_quote
+Used by factions as a reward for mission contracts. Known to be
+salvaged from signal sources. Known to be found in small settlement
+data point networks.
+
+Specialised legacy firmware is the control software from earlier
+versions of the technology. These can be rare finds and have some
+uses in developing new versions with backwards compatibility.
+#+end_quote
+

@@ -1,0 +1,16 @@
+#+title: Compound Shielding
+#+filetags: :Manufactured:Material:
+:PROPERTIES:
+:ID:       1d8423f1-23bc-4b38-a7c0-d8228760b39b
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Compound_Shielding
+:END:
+
+#+begin_quote
+Component found in ships: frequently used by combat oriented
+vessels. Known to be salvaged from signal sources in high security
+systems.
+
+Compound Shielding is a complex management of layered shields to
+provide a more effective barrier.
+#+end_quote
+

@@ -1,0 +1,12 @@
+#+title: Evacuation Protocols
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       5b598130-adf2-4efb-9a75-c34bd21b300b
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Evacuation_Protocols
+:END:
+
+#+begin_quote
+Detailed instructions for the abandonment of a settlement by all
+registered personnel.
+#+end_quote
+

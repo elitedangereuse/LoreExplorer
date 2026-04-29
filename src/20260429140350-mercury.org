@@ -1,0 +1,15 @@
+#+title: Mercury
+#+filetags: :Raw:Material:
+:PROPERTIES:
+:ID:       aaf0a910-9ddc-4ca7-b25e-7dad9d66d1ab
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Mercury
+:END:
+
+#+begin_quote
+Collected on planet surfaces.
+
+Mercury, Hg, atomic number 80. Melting point 234K. This toxic metal
+is famed for being a liquid at room temperature and has rare uses in
+some chemical processes.
+#+end_quote
+

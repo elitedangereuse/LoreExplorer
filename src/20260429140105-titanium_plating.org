@@ -1,0 +1,11 @@
+#+title: Titanium Plating
+#+filetags: :Component:Odyssey:
+:PROPERTIES:
+:ID:       21a5b6cf-bc4f-437f-a797-9438b1b1fe11
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Titanium_Plating
+:END:
+
+#+begin_quote
+A strong, low-density metal that is highly resistant to corrosion.
+#+end_quote
+

@@ -1,0 +1,12 @@
+#+title: Network Security Protocols
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       5705ed9a-afef-49d2-b43a-68a71ee163dc
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Network_Security_Protocols
+:END:
+
+#+begin_quote
+Listed cryptographic methods for a network's data and connected
+channels.
+#+end_quote
+

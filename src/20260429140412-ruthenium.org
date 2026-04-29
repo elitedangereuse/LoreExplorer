@@ -1,0 +1,15 @@
+#+title: Ruthenium
+#+filetags: :Raw:Material:
+:PROPERTIES:
+:ID:       b9fe18a1-7cec-4e19-86b7-7ed522ecc393
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Ruthenium
+:END:
+
+#+begin_quote
+Collected on planet surfaces.
+
+Ruthenium, Ru, atomic number 44. Melting point 2607K. Ruthenium is
+used for making platinum and palladium alloys. It's also used as a
+catalist for some chemical processes.
+#+end_quote
+

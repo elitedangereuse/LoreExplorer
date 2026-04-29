@@ -1,5 +1,12 @@
 :PROPERTIES:
 :ID:       96b9711c-d642-408a-916c-a762617c1f88
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Manufacturing_Instructions
 :END:
 #+title: Manufacturing Instructions
-#+filetags: :Data:
+#+filetags: :Data:Odyssey:
+
+#+begin_quote
+Detailed construction guidance, ranging from individual items to
+mass production requirements.
+#+end_quote
+

@@ -1,0 +1,12 @@
+#+title: Purchase Requests
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       71ed0bd5-e4f8-4f5e-bbf2-9ccdb78173a2
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Purchase_Requests
+:END:
+
+#+begin_quote
+Requisition orders for specific items or materials submitted for
+authorisation.
+#+end_quote
+

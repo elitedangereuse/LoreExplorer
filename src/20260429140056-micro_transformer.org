@@ -1,0 +1,12 @@
+#+title: Micro Transformer
+#+filetags: :Component:Odyssey:
+:PROPERTIES:
+:ID:       1fd31aec-2a79-41ba-a88b-f17fe000efbb
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Micro_Transformer
+:END:
+
+#+begin_quote
+A compact transformer designed to transfer electrical energy between
+two circuits.
+#+end_quote
+

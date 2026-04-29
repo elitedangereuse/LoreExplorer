@@ -1,0 +1,12 @@
+#+title: Faction News
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       4c05403c-5d4e-4613-895e-7fef80fd912f
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Faction_News
+:END:
+
+#+begin_quote
+Publicly available press releases and ongoing news stories related
+to a faction.
+#+end_quote
+

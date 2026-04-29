@@ -1,0 +1,12 @@
+#+title: Power Industrial Data
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       521c66ff-5b39-4fb5-8191-06c15c8e95d7
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Power_Industrial_Data
+:END:
+
+#+begin_quote
+Records related to local Power investments, including transaction
+records for a specific settlement.
+#+end_quote
+

@@ -1,0 +1,12 @@
+#+title: Extraction Yield Data
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       acd0256c-fb50-4916-ac6c-1b80bbf79e3b
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Extraction_Yield_Data
+:END:
+
+#+begin_quote
+Raw data mineral production quantities from a settlement's mining
+operation.
+#+end_quote
+

@@ -1,0 +1,12 @@
+#+title: Operational Manual
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       8809047f-1a47-4721-a72e-d572740c4ebe
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Operational_Manual
+:END:
+
+#+begin_quote
+Instructive texts for the use and maintenance of a mechanism, system
+or vehicle.
+#+end_quote
+

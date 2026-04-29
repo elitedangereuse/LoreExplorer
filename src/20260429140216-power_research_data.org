@@ -1,0 +1,11 @@
+#+title: Power Research Data
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       1dde7369-3e58-4514-ac15-df61ae4ad001
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Power_Research_Data
+:END:
+
+#+begin_quote
+A record of Power-funded research conducted at a settlement.
+#+end_quote
+

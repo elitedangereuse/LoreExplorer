@@ -1,0 +1,11 @@
+#+title: Compression-Liquefied Gas
+#+filetags: :Good:Odyssey:
+:PROPERTIES:
+:ID:       7b21233b-25db-49be-9978-81a3cdb8920e
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Compression-Liquefied_Gas
+:END:
+
+#+begin_quote
+A quantity of gas highly compressed into a liquid-state.
+#+end_quote
+

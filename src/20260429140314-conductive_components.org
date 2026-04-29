@@ -1,0 +1,17 @@
+#+title: Conductive Components
+#+filetags: :Manufactured:Material:
+:PROPERTIES:
+:ID:       7bfc3331-2ebe-4dd9-bd33-566adec906e6
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Conductive_Components
+:END:
+
+#+begin_quote
+Component found in ships: frequently used by haulage vessels.
+Destroyed haulage vessels can be scavenged from the aftermath of
+combat in shipping lanes. Known to be salvaged from signal sources
+in anarchy systems.
+
+Conductive components are the basic elements for energy transfer
+within circuits.
+#+end_quote
+

@@ -1,5 +1,12 @@
 :PROPERTIES:
 :ID:       5ede3de1-fdb7-4890-807c-9bc288f4db92
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Smear_Campaign_Plans
 :END:
 #+title: Smear Campaign Plans
-#+filetags: :Data:
+#+filetags: :Data:Odyssey:
+
+#+begin_quote
+A proposal to spread toxic information intended to damage a
+reputation.
+#+end_quote
+

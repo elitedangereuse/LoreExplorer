@@ -1,0 +1,14 @@
+#+title: Manganese
+#+filetags: :Raw:Material:
+:PROPERTIES:
+:ID:       2e1215df-279c-4b51-a309-99952dbce6f7
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Manganese
+:END:
+
+#+begin_quote
+Collected on planet surfaces and from asteroids.
+
+Manganese, Mn, atomic number 25. Melting point 1519K. This element
+has many uses in metal alloys.
+#+end_quote
+

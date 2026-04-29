@@ -1,0 +1,11 @@
+#+title: Scrambler
+#+filetags: :Component:Odyssey:
+:PROPERTIES:
+:ID:       47948e20-d06f-4580-8f18-67e8585d37ec
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Scrambler
+:END:
+
+#+begin_quote
+A device designed to distort electromagnetic waves.
+#+end_quote
+

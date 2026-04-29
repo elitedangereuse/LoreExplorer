@@ -1,0 +1,16 @@
+#+title: Heat Resistant Ceramics
+#+filetags: :Manufactured:Material:
+:PROPERTIES:
+:ID:       e9cb289b-d8ce-4509-a107-fe5d624ef03e
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Heat_Resistant_Ceramics
+:END:
+
+#+begin_quote
+Component found in ships: frequently used by military and authority
+vessels.
+
+Known to be salvaged from signal sources in anarchy systems. Heat
+resistant ceramics provide enhanced protection against thermal
+sources.
+#+end_quote
+

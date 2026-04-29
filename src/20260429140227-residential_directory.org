@@ -1,0 +1,12 @@
+#+title: Residential Directory
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       4436951c-c41f-4a3b-a8a5-e82770dc09c5
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Residential_Directory
+:END:
+
+#+begin_quote
+Current occupants and registered contact information for a specific
+residential area.
+#+end_quote
+

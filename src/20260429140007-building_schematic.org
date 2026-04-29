@@ -1,0 +1,12 @@
+#+title: Building Schematic
+#+filetags: :Good:Odyssey:
+:PROPERTIES:
+:ID:       c60ba448-690e-4999-a008-d82218a34187
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Building_Schematic
+:END:
+
+#+begin_quote
+A technical blueprint detailing the architectural design of a
+building.
+#+end_quote
+

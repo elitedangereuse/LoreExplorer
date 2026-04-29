@@ -1,0 +1,12 @@
+#+title: Purchase Records
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       ffad2d8a-d539-4bd3-839e-03412336440f
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Purchase_Records
+:END:
+
+#+begin_quote
+A list of purchased items and materials including total costs and
+supplier details.
+#+end_quote
+

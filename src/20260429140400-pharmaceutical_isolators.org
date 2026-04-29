@@ -1,0 +1,15 @@
+#+title: Pharmaceutical Isolators
+#+filetags: :Manufactured:Material:
+:PROPERTIES:
+:ID:       476e2a13-d174-4ce4-ab46-814844c0edf1
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Pharmaceutical_Isolators
+:END:
+
+#+begin_quote
+Specialist component developed during times of outbreak. Known to be
+salvaged from signal sources.
+
+Pharmaceutical isolators are used to extract and confine organic
+compounds from within a larger sample.
+#+end_quote
+

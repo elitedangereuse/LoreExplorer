@@ -1,0 +1,11 @@
+#+title: Health Monitor
+#+filetags: :Good:Odyssey:
+:PROPERTIES:
+:ID:       96cdeb92-6457-44bf-bebe-099ec90639f0
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Health_Monitor
+:END:
+
+#+begin_quote
+A personal device designed to monitor the user's general health.
+#+end_quote
+

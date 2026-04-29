@@ -1,0 +1,15 @@
+#+title: Military Supercapacitors
+#+filetags: :Manufactured:Material:
+:PROPERTIES:
+:ID:       5ae34a16-2895-4326-8906-ac9aa44c6970
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Military_Supercapacitors
+:END:
+
+#+begin_quote
+Advanced component used by factions in times of war. Known to be
+salvaged from signal sources.
+
+Military supercapacitors provide extremely high energy storage and
+release.
+#+end_quote
+

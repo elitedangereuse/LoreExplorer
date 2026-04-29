@@ -1,0 +1,14 @@
+#+title: Tin
+#+filetags: :Raw:Material:
+:PROPERTIES:
+:ID:       a193c31a-00c6-41fb-a088-c58981d6f75f
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Tin
+:END:
+
+#+begin_quote
+Tin, Sn, atomic number 50. Melting point 505k. Tin is one of the
+first ever metal used in an alloy - notably with copper in
+prehistory. It's modern day usage is primarily for certain
+specialised alloys.
+#+end_quote
+

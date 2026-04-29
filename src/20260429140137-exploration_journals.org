@@ -1,0 +1,12 @@
+#+title: Exploration Journals
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       16a3cbd0-09cb-4e1a-9c75-74e9726716c9
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Exploration_Journals
+:END:
+
+#+begin_quote
+Collected first-hand accounts of the author's experiences and
+discoveries in deep space.
+#+end_quote
+

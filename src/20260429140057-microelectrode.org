@@ -1,0 +1,11 @@
+#+title: Microelectrode
+#+filetags: :Component:Odyssey:
+:PROPERTIES:
+:ID:       8bce0112-7785-4d04-ac97-c6c45eb7ce45
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Microelectrode
+:END:
+
+#+begin_quote
+A simple device designed to create a small electric arc.
+#+end_quote
+

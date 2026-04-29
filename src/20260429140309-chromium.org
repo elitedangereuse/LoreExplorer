@@ -1,0 +1,15 @@
+#+title: Chromium
+#+filetags: :Raw:Material:
+:PROPERTIES:
+:ID:       3e51a3ce-8734-412f-a304-615458a2fc22
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Chromium
+:END:
+
+#+begin_quote
+Collected on planet surfaces and from asteroids.
+
+Chromium, Cr, atomic number 24. Melting point 2180K. Chromium is
+well regarded for its strengthening and tarnish resistant properties
+for metals. It is also highly temperature resistant.
+#+end_quote
+

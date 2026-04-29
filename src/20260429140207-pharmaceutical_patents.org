@@ -1,0 +1,12 @@
+#+title: Pharmaceutical Patents
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       329e15cf-a61d-4a38-a841-8a224e7d8627
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Pharmaceutical_Patents
+:END:
+
+#+begin_quote
+A list of registered patent applications each relating to a specific
+drug.
+#+end_quote
+

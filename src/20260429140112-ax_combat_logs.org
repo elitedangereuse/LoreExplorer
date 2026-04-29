@@ -1,0 +1,12 @@
+#+title: AX Combat Logs
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       151f12e2-4642-488f-a2ed-a568c0a876de
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/AX_Combat_Logs
+:END:
+
+#+begin_quote
+Data related to anti-xeno operations and encounters with hostile
+Thargoid forces.
+#+end_quote
+

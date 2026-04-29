@@ -1,0 +1,15 @@
+#+title: Thermic Alloys
+#+filetags: :Manufactured:Material:
+:PROPERTIES:
+:ID:       24b2d77a-a699-4a0d-ae27-3754e2130101
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Thermic_Alloys
+:END:
+
+#+begin_quote
+Component found in ships: frequently used by military and authority
+vessels.
+
+Thermic alloys are designed with a better thermal adaption profile
+than standard alloys.
+#+end_quote
+

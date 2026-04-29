@@ -1,0 +1,16 @@
+#+title: Electrochemical Arrays
+#+filetags: :Manufactured:Material:
+:PROPERTIES:
+:ID:       1d330101-a83a-44c8-bf9f-c815bca7a379
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Electrochemical_Arrays
+:END:
+
+#+begin_quote
+Component found in ships: frequently used by military and authority
+vessels. Known to be salvaged from signal sources in anarchy
+systems.
+
+Electrochemical arrays are used for very small scale detection in
+microfluids.
+#+end_quote
+

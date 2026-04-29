@@ -1,0 +1,16 @@
+#+title: Heat Exchangers
+#+filetags: :Manufactured:Material:
+:PROPERTIES:
+:ID:       e9ef8f82-df92-4212-972c-28ad50cdfce8
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Heat_Exchangers
+:END:
+
+#+begin_quote
+Component found in ships: frequently used by haulage vessels.
+Destroyed haulage vessels can be scavenged from the aftermath of
+combat in shipping lanes. Known to be salvaged from signal sources
+in anarchy systems.
+
+Heat exchangers transfer heat between separate systems.
+#+end_quote
+

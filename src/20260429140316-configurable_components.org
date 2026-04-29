@@ -1,0 +1,17 @@
+#+title: Configurable Components
+#+filetags: :Manufactured:Material:
+:PROPERTIES:
+:ID:       df0b6a0b-338b-4b3d-bab5-56aa844ed980
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Configurable_Components
+:END:
+
+#+begin_quote
+Component found in ships: frequently used by haulage vessels.
+Destroyed haulage vessels can be scavenged from the aftermath of
+combat in shipping lanes. Known to be salvaged from signal sources
+in low security systems.
+
+These are common components whose purpose can be defined after
+manufacture.
+#+end_quote
+

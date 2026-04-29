@@ -1,0 +1,17 @@
+#+title: Chemical Processors
+#+filetags: :Manufactured:Material:
+:PROPERTIES:
+:ID:       1e6cefd3-feb0-4f28-a913-6be3f20c63dc
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Chemical_Processors
+:END:
+
+#+begin_quote
+Component found in ships: frequently used by haulage vessels.
+Destroyed haulage vessels can be scavenged from the aftermath of
+combat in shipping lanes. Known to be salvaged from signal sources
+in high security systems.
+
+Chemical processors are used to facilitate specific chemical
+processes. They can be reconfigured for different processes.
+#+end_quote
+

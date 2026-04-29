@@ -1,0 +1,12 @@
+#+title: Job Applications
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       aa955d5f-03d6-437f-8e34-ec0c449c59e9
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Job_Applications
+:END:
+
+#+begin_quote
+Media submitted to demonstrate a candidate's suitability for a given
+vacancy.
+#+end_quote
+

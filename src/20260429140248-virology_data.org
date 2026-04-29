@@ -1,0 +1,12 @@
+#+title: Virology Data
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       646f56e6-0aba-490f-b180-239480515c55
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Virology_Data
+:END:
+
+#+begin_quote
+Genetic analysis of a virus and research into its composition,
+symptoms and transmission.
+#+end_quote
+

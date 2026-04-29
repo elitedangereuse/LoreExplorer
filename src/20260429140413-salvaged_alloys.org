@@ -1,0 +1,14 @@
+#+title: Salvaged Alloys
+#+filetags: :Manufactured:Material:
+:PROPERTIES:
+:ID:       fff84ba1-c9f8-4b19-919e-6945b95afe1a
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Salvaged_Alloys
+:END:
+
+#+begin_quote
+Component found in ships: frequently used by combat oriented
+vessels. Known to be salvaged from signal sources.
+
+Alloys salvaged from vehicle debris.
+#+end_quote
+

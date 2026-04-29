@@ -1,0 +1,12 @@
+#+title: Weapon Schematic
+#+filetags: :Good:Odyssey:
+:PROPERTIES:
+:ID:       6a9a94f2-809d-45ae-b345-8fb0ebc6c6cc
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Weapon_Schematic
+:END:
+
+#+begin_quote
+A technical blueprint detailing the design and mechanism of a
+personal firearm.
+#+end_quote
+

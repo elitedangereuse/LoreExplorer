@@ -1,0 +1,12 @@
+#+title: Payroll Information
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       09c429d7-7ec0-42be-a1c9-bb907cb9ee5a
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Payroll_Information
+:END:
+
+#+begin_quote
+Staff members' past and present salary payments and financial
+transfer methods.
+#+end_quote
+

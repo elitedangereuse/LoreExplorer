@@ -1,0 +1,11 @@
+#+title: Micro Supercapacitor
+#+filetags: :Component:Odyssey:
+:PROPERTIES:
+:ID:       7d8bd8a7-1c57-43ad-a947-d4efcfd6e73a
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Micro_Supercapacitor
+:END:
+
+#+begin_quote
+A device designed to store an electric charge.
+#+end_quote
+

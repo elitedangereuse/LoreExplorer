@@ -1,0 +1,16 @@
+#+title: Mechanical Components
+#+filetags: :Manufactured:Material:
+:PROPERTIES:
+:ID:       a9f787a9-556f-4660-aa7a-df63a2b2cb07
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Mechanical_Components
+:END:
+
+#+begin_quote
+Component found in ships: frequently used by haulage vessels.
+Destroyed haulage vessels can be scavenged from the aftermath of
+combat in shipping lanes. Known to be salvaged from signal sources
+in low security systems.
+
+General core mechanical components such as gearing.
+#+end_quote
+

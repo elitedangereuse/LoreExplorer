@@ -1,0 +1,12 @@
+#+title: Surveillance Logs
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       95e5acff-de45-4cf5-bf97-1bc00590c8f4
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Surveillance_Logs
+:END:
+
+#+begin_quote
+Audiovisual data gathered using technological monitoring and/or
+tracking techniques.
+#+end_quote
+

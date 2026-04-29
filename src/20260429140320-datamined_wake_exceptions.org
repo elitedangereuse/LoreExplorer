@@ -1,0 +1,16 @@
+#+title: Datamined Wake Exceptions
+#+filetags: :Encoded:Material:
+:PROPERTIES:
+:ID:       6a46a320-1c53-42d0-bf7d-62c8f9b163ed
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Datamined_Wake_Exceptions
+:END:
+
+#+begin_quote
+Captured from high energy wakes with a wake scanner.
+
+Many automated wake scanner systems will generate an exceptions log
+when they encounter data that doesn't match the pre-programmed
+profiles. Most of these turn out to be junk, but there are rumours
+that something more insidious has been discovered.
+#+end_quote
+

@@ -1,0 +1,12 @@
+#+title: Power Association Data
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       9e3fc02f-cc96-43a7-a0a5-13d66bdd8400
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Power_Association_Data
+:END:
+
+#+begin_quote
+A record of Power-affiliated employee data from a settlement's
+personnel roster.
+#+end_quote
+

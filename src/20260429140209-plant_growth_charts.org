@@ -1,0 +1,12 @@
+#+title: Plant Growth Charts
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       0fff3249-66cd-4aa6-a1ab-84a9a9787de1
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Plant_Growth_Charts
+:END:
+
+#+begin_quote
+Analytical data presented in graph format that catalogues
+horticultural development.
+#+end_quote
+

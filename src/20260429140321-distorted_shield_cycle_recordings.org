@@ -1,0 +1,16 @@
+#+title: Distorted Shield Cycle Recordings
+#+filetags: :Encoded:Material:
+:PROPERTIES:
+:ID:       e2b1933a-3f89-4568-a57a-ba8662e630b5
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Distorted_Shield_Cycle_Recordings
+:END:
+
+#+begin_quote
+Collected during basic scan: frequently pulled from haulage vessels.
+
+Data from a scan of a shield system over a given time period is a
+normally reliable data set, as long as the input variables are
+correctly compensated for. In rare cases this data doesn't fit
+probable patterns and is of keen interest to certain individuals.
+#+end_quote
+

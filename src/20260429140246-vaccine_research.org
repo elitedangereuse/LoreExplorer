@@ -1,0 +1,12 @@
+#+title: Vaccine Research
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       0e3b7c00-5371-4fb2-a520-8631eed23c6f
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Vaccine_Research
+:END:
+
+#+begin_quote
+Results of clinical experiments and efficacy tests of a particular
+vaccine.
+#+end_quote
+

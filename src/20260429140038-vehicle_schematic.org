@@ -1,0 +1,12 @@
+#+title: Vehicle Schematic
+#+filetags: :Good:Odyssey:
+:PROPERTIES:
+:ID:       5e188c1c-2acf-4c7a-941e-f2d7f1c76009
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Vehicle_Schematic
+:END:
+
+#+begin_quote
+A technical blueprint detailing the internal and external design of
+a surface vehicle.
+#+end_quote
+

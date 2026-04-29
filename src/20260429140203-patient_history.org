@@ -1,0 +1,12 @@
+#+title: Patient History
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       b79871d8-478a-4f9b-95f7-0b8dd53de1e3
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Patient_History
+:END:
+
+#+begin_quote
+Personal records of an individual's health including illnesses,
+surgeries and prescriptions.
+#+end_quote
+

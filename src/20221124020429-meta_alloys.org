@@ -3,7 +3,7 @@
 :ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Meta-Alloys
 :END:
 #+title: Meta-Alloys
-#+filetags: :Commodity:
+#+filetags: :Commodity:Manufactured:Material:
 
 #+begin_quote
 Meta-alloys have a complex lattice structure with large internal
@@ -14,18 +14,14 @@ the composition is different in different parts of the cell walls
 for strength. They are good thermal insulators, and have a high
 melting point, but if they are melted they lose all their special
 properties and become a conventional alloy. They are easily
-machined, but as yet cannot be manufactured and are only found in
-space. They are associated with recently discovered alien entities
+machined, but as yet cannot be manufactured, only found in space.
+They are associated with recently discovered alien entities
 nicknamed '[[id:b41c0ea3-93f4-4aef-8c9c-db0b140719c0][Large Barnacles]]' by interstellar explorers. These appear
 to be common in certain parts of space, although no-one is certain
 why. This material has been heralded as the next step in materials
 technology. It is ultra-light and stronger and more versatile than
 most commercially available alloys.
 #+end_quote
-
-Category: Industrial material
-Produced by: Darnielle's Progress, Maia Settlements
-Consumed by: -
 
 * Locations
   - [[id:b4d90e11-7f9a-42f4-a995-4ca941d38851][Darnielle's Progress]]

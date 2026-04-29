@@ -1,0 +1,11 @@
+#+title: Encrypted Memory Chip
+#+filetags: :Component:Odyssey:
+:PROPERTIES:
+:ID:       44a79f39-173b-4fb0-b660-8c85af25914c
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Encrypted_Memory_Chip
+:END:
+
+#+begin_quote
+An integrated circuit designed to securely store software data.
+#+end_quote
+

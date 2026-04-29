@@ -1,0 +1,12 @@
+#+title: Biometric Data
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       711aa2ba-28c0-484c-ab74-3eac598e7fbd
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Biometric_Data
+:END:
+
+#+begin_quote
+Personal physical characteristics used to authenticate ID and assign
+security clearance.
+#+end_quote
+

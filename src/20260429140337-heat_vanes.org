@@ -1,0 +1,17 @@
+#+title: Heat Vanes
+#+filetags: :Manufactured:Material:
+:PROPERTIES:
+:ID:       bff490b3-f751-484f-b8a7-43c2fc5424fb
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Heat_Vanes
+:END:
+
+#+begin_quote
+Component found in ships: frequently used by haulage vessels.
+Destroyed haulage vessels can be scavenged from the aftermath of
+combat in shipping lanes. Known to be salvaged from signal sources
+in anarchy systems.
+
+Heat vanes use a series of fins for a greater surface area to
+disperse heat.
+#+end_quote
+

@@ -1,0 +1,11 @@
+#+title: Weapon Component
+#+filetags: :Component:Odyssey:
+:PROPERTIES:
+:ID:       5015970d-72c8-4455-a9d9-883e87076240
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Weapon_Component
+:END:
+
+#+begin_quote
+A component from a personal firearm.
+#+end_quote
+

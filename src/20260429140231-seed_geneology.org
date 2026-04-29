@@ -1,0 +1,12 @@
+#+title: Seed Geneology
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       06b70d3d-90d3-4300-b206-7f08e346bdec
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Seed_Geneology
+:END:
+
+#+begin_quote
+Records of the origins and genetic characteristics of plantable
+seeds.
+#+end_quote
+

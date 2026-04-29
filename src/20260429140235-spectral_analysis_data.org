@@ -1,0 +1,12 @@
+#+title: Spectral Analysis Data
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       e724a7d1-9ce1-4f9f-8779-08beae352a68
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Spectral_Analysis_Data
+:END:
+
+#+begin_quote
+A collection of detailed electromagnetic measurements made using
+spectroscopic equipment.
+#+end_quote
+

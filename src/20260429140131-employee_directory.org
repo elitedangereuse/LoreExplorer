@@ -1,0 +1,12 @@
+#+title: Employee Directory
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       f92f398a-30ba-4529-ad88-998b61052a00
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Employee_Directory
+:END:
+
+#+begin_quote
+A complete list of staff members with their relevant personal
+details.
+#+end_quote
+

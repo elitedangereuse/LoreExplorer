@@ -1,0 +1,15 @@
+#+title: Tempered Alloys
+#+filetags: :Manufactured:Material:
+:PROPERTIES:
+:ID:       4ab20cdc-590d-47b5-a404-2ddb51c61d07
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Tempered_Alloys
+:END:
+
+#+begin_quote
+Component found in ships: frequently used by military and authority
+vessels. Known to be salvaged from signal sources.
+
+Tempered alloys are refined alloys used for their enhanced strength
+and impact resistance.
+#+end_quote
+

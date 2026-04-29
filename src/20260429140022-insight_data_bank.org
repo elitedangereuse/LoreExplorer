@@ -1,0 +1,11 @@
+#+title: InSight Data Bank
+#+filetags: :Good:Odyssey:
+:PROPERTIES:
+:ID:       6e723958-9b55-4480-a714-16e8fa70cfee
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/InSight_Data_Bank
+:END:
+
+#+begin_quote
+A device designed to store audio-visual data recorded via InSight.
+#+end_quote
+

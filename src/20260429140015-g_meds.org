@@ -1,0 +1,12 @@
+#+title: G-Meds
+#+filetags: :Good:Odyssey:
+:PROPERTIES:
+:ID:       e7edfd79-b87f-408e-9c9b-a4adffecba6b
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/G-Meds
+:END:
+
+#+begin_quote
+Pharmaceuticals designed to prevent motion sickness by acclimating
+the user to the prevailing gravitic conditions.
+#+end_quote
+

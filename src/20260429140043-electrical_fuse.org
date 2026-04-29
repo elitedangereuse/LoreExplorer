@@ -1,0 +1,12 @@
+#+title: Electrical Fuse
+#+filetags: :Component:Odyssey:
+:PROPERTIES:
+:ID:       b6897ade-17fd-4158-a28c-0bcfe0707d5a
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Electrical_Fuse
+:END:
+
+#+begin_quote
+A simple device designed to protect an electrical circuit from
+excess current.
+#+end_quote
+

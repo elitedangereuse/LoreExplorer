@@ -1,0 +1,11 @@
+#+title: Circuit Switch
+#+filetags: :Component:Odyssey:
+:PROPERTIES:
+:ID:       656f5c0c-ae7e-499c-8f5a-ae5bd8f34348
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Circuit_Switch
+:END:
+
+#+begin_quote
+A simple device designed to close an electromagnetic circuit.
+#+end_quote
+

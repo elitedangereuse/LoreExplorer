@@ -1,0 +1,12 @@
+#+title: Reactor Output Review
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       a48a699b-0c4e-48fb-bdbf-78918cd7ef6d
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Reactor_Output_Review
+:END:
+
+#+begin_quote
+Analysis and measurement of energy production from a settlement's
+power centre.
+#+end_quote
+

@@ -1,0 +1,12 @@
+#+title: Accident Logs
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       908ea142-e53b-4087-a116-b11d4d06912a
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Accident_Logs
+:END:
+
+#+begin_quote
+A record of settlement incidents which resulted in some degree of
+physical injury.
+#+end_quote
+

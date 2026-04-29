@@ -1,0 +1,12 @@
+#+title: Maintenance Logs
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       06865806-9f4b-4c2d-ae1e-5897b22aa2af
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Maintenance_Logs
+:END:
+
+#+begin_quote
+Records of routine tasks to maintain settlement equipment or
+infrastructure.
+#+end_quote
+

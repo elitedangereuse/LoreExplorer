@@ -1,0 +1,11 @@
+#+title: Transmitter
+#+filetags: :Component:Odyssey:
+:PROPERTIES:
+:ID:       f281c7cd-603a-4be1-a8c9-98f03733c788
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Transmitter
+:END:
+
+#+begin_quote
+An electronic device designed to produce electromagnetic waves.
+#+end_quote
+

@@ -1,0 +1,11 @@
+#+title: Chemical Superbase
+#+filetags: :Component:Odyssey:
+:PROPERTIES:
+:ID:       461d6a5c-2165-4af6-9bcd-30cf62c7e5a6
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Chemical_Superbase
+:END:
+
+#+begin_quote
+A highly soluble chemical with a wide range of applications.
+#+end_quote
+

@@ -1,0 +1,12 @@
+#+title: Census Data
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       02008c4e-e876-4f63-98b9-a92a62853ab3
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Census_Data
+:END:
+
+#+begin_quote
+Detailed information and statistics on the size and composition of a
+population.
+#+end_quote
+

@@ -1,0 +1,20 @@
+#+title: Boron
+#+filetags: :Raw:Material:
+:PROPERTIES:
+:ID:       711543c9-73b7-41c7-a8cf-5a33d81b2185
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Boron
+:END:
+
+#+begin_quote
+Collected from mining asteroids.
+
+Boron is used in ship interior structures, insulation and in the
+creation of polymers and ceramics used in station and ship
+construction. Boron is also used in the manufacture of glass for
+ships and stations, offering greater strength and thermal shock
+resistance than other manufacturing techniques.
+
+Other uses include agricultural medicine, insecticides and some
+advanced medicines.
+#+end_quote
+

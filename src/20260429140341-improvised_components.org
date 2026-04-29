@@ -1,0 +1,15 @@
+#+title: Improvised Components
+#+filetags: :Manufactured:Material:
+:PROPERTIES:
+:ID:       56fc4fb3-fab4-44d8-b91e-b9c7fe4b4fc0
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Improvised_Components
+:END:
+
+#+begin_quote
+Specialist component used by factions in times of civil unrest.
+Known to be salvaged from signal sources.
+
+These jury rigged components can fill in for crafted or manufactured
+components in a pinch.
+#+end_quote
+

@@ -1,0 +1,12 @@
+#+title: Fleet Registry
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       3b33aaf9-1c12-49b8-b91f-0b4eca9af868
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Fleet_Registry
+:END:
+
+#+begin_quote
+Official registration and deployment records of all ships controlled
+by an organisation.
+#+end_quote
+

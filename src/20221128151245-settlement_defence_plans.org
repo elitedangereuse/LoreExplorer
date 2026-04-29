@@ -1,5 +1,12 @@
 :PROPERTIES:
 :ID:       6f565654-981c-436d-9c28-0d202bf9e335
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Settlement_Defence_Plans
 :END:
 #+title: Settlement Defence Plans
-#+filetags: :Data:
+#+filetags: :Data:Odyssey:
+
+#+begin_quote
+Defensive tactics intended to protect a specific settlement from a
+hostile force.
+#+end_quote
+

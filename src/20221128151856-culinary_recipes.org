@@ -1,5 +1,12 @@
 :PROPERTIES:
 :ID:       528fdf07-ef32-4a7e-9bec-beae1cc93cf9
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Culinary_Recipes
 :END:
 #+title: Culinary Recipes
-#+filetags: :Data:
+#+filetags: :Data:Odyssey:
+
+#+begin_quote
+Step-by-step instructions using available ingredients to create
+meals from scratch.
+#+end_quote
+

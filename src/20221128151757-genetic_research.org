@@ -1,7 +1,13 @@
 :PROPERTIES:
 :ID:       3153eb5b-894a-41df-ba7a-eec002923dd1
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Genetic_Research
 :END:
 #+title: Genetic Research
-#+filetags: :Data:
+#+filetags: :Data:Odyssey:
+
+#+begin_quote
+Scientific data and proposals related to genome study and genetic
+manipulation.
+#+end_quote
 
 [[id:112b5795-655f-4cc1-9995-b7aa39cb27c4][Research]]

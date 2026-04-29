@@ -1,0 +1,12 @@
+#+title: Tactical Plans
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       99de7ab6-4542-4769-b7b3-d27546810f04
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Tactical_Plans
+:END:
+
+#+begin_quote
+An outline for a military or security operation intended to achieve
+a stated objective.
+#+end_quote
+

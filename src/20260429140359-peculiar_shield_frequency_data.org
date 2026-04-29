@@ -1,0 +1,16 @@
+#+title: Peculiar Shield Frequency Data
+#+filetags: :Encoded:Material:
+:PROPERTIES:
+:ID:       e15ef262-6d4c-458a-a9a9-f3acb43fa3b7
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Peculiar_Shield_Frequency_Data
+:END:
+
+#+begin_quote
+Collected during basic scan: frequently pulled from combat oriented
+vessels.
+
+Scanned data from shield frequency changes and patterns rarely
+generate anything out of the ordinary, but when they do they can be
+of keen interest to various people.
+#+end_quote
+

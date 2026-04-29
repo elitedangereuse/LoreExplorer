@@ -1,0 +1,12 @@
+#+title: Prisoner Logs
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       d3693dad-b8a2-4343-8b82-30fcb0aa79f9
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Prisoner_Logs
+:END:
+
+#+begin_quote
+Detailed records of all individuals held incarcerated at a given
+facility.
+#+end_quote
+

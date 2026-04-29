@@ -1,0 +1,12 @@
+#+title: Compact Library
+#+filetags: :Good:Odyssey:
+:PROPERTIES:
+:ID:       4d6ad729-54c2-4fc2-8eae-648f774f9139
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Compact_Library
+:END:
+
+#+begin_quote
+A large selection of literary classics and reference work in digital
+form.
+#+end_quote
+

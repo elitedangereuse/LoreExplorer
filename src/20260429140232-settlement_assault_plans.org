@@ -1,0 +1,11 @@
+#+title: Settlement Assault Plans
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       182d11f3-144e-42b8-9f50-e8ae5ca150e7
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Settlement_Assault_Plans
+:END:
+
+#+begin_quote
+Detailed military tactics designed for use at a specific settlement.
+#+end_quote
+

@@ -1,0 +1,12 @@
+#+title: Troop Deployment Records
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       906698fb-d282-4d8f-9249-17cd8d45f30a
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Troop_Deployment_Records
+:END:
+
+#+begin_quote
+Details of personnel and equipment used during a military or
+security operation.
+#+end_quote
+

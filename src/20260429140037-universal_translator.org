@@ -1,0 +1,12 @@
+#+title: Universal Translator
+#+filetags: :Good:Odyssey:
+:PROPERTIES:
+:ID:       a303b9a7-e88e-459b-a842-c71d71413912
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Universal_Translator
+:END:
+
+#+begin_quote
+A wearable device capable of instantaneously translating any of the
+most common human languages.
+#+end_quote
+

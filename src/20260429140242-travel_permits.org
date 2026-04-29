@@ -1,0 +1,12 @@
+#+title: Travel Permits
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       3410e94a-e66a-4577-8f18-adf8446c682b
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Travel_Permits
+:END:
+
+#+begin_quote
+A registry of all travel permits assigned to the personnel of a
+company or facility.
+#+end_quote
+

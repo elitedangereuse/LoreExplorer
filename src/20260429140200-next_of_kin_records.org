@@ -1,0 +1,12 @@
+#+title: Next of Kin Records
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       e2a2314f-912b-4164-b6a6-5219a9797dba
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Next_of_Kin_Records
+:END:
+
+#+begin_quote
+Details of an individual's closest living relatives, partners and
+designated contacts.
+#+end_quote
+

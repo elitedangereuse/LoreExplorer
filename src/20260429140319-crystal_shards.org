@@ -1,0 +1,14 @@
+#+title: Crystal Shards
+#+filetags: :Manufactured:Material:
+:PROPERTIES:
+:ID:       d79024b2-e913-48cc-9d42-e5635be1bc93
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Crystal_Shards
+:END:
+
+#+begin_quote
+Component found in ships: frequently used by combat oriented
+vessels. Known to be salvaged from signal sources.
+
+Crystal shards are fragments from whole crystals.
+#+end_quote
+

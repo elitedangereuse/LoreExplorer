@@ -1,0 +1,15 @@
+#+title: Strange Wake Solutions
+#+filetags: :Encoded:Material:
+:PROPERTIES:
+:ID:       2b06db3f-ce23-4a4c-9a88-6b6f5388f94a
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Strange_Wake_Solutions
+:END:
+
+#+begin_quote
+Captured from high energy wakes with a wake scanner.
+
+Data for frame shift wake destination solutions usually follows a
+predictable pattern. The technology is still new enough that
+oddities can be found.
+#+end_quote
+

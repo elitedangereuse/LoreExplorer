@@ -1,0 +1,12 @@
+#+title: Propaganda
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       ac4e96a6-9bb4-4965-be96-6622aab0980f
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Propaganda
+:END:
+
+#+begin_quote
+Promotional material designed to publicise a specific claim or
+political viewpoint.
+#+end_quote
+

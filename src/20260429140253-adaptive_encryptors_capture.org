@@ -1,0 +1,18 @@
+#+title: Adaptive Encryptors Capture
+#+filetags: :Encoded:Material:
+:PROPERTIES:
+:ID:       8f6a6631-de51-4bbc-9717-1e5046fdc6f4
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Adaptive_Encryptors_Capture
+:END:
+
+#+begin_quote
+Discovered in private data beacons salvaged from deep space. Known
+to be salvaged from signal sources.
+
+Polymorphic encryption systems form a state of the art system for
+data encryption which are considered untraceable. There are rumours
+that the system has a weakness in state transition with re-encoding,
+and captures of these changes are eagerly sought after by some
+people.
+#+end_quote
+

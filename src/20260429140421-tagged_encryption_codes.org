@@ -1,0 +1,17 @@
+#+title: Tagged Encryption Codes
+#+filetags: :Encoded:Material:
+:PROPERTIES:
+:ID:       125ad33e-24ff-4233-940b-906a0352fced
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Tagged_Encryption_Codes
+:END:
+
+#+begin_quote
+Captured from settlement data point networks. Known to be salvaged
+from signal sources.
+
+Encryption codes are typically very sensitive data because of their
+use in decrypting confidential information. In the right
+circumstances these can be captured remotely and as such are highly
+sought after by certain people.
+#+end_quote
+

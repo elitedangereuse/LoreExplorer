@@ -1,0 +1,12 @@
+#+title: Union Membership
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       702a38dc-5898-45a1-b76e-16aacf149d5b
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Union_Membership
+:END:
+
+#+begin_quote
+Personnel who have signed up to a trade or labour union or political
+lobby.
+#+end_quote
+

@@ -1,0 +1,15 @@
+#+title: Refined Focus Crystals
+#+filetags: :Manufactured:Material:
+:PROPERTIES:
+:ID:       c051c180-2d93-4ccc-aec4-777ca25e87f6
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Refined_Focus_Crystals
+:END:
+
+#+begin_quote
+Used by factions as a reward for mission contracts. Known to be
+salvaged from signal sources in high security systems.
+
+Refined focus crystals are a higher quality of focus crystal with an
+enhanced performance profile.
+#+end_quote
+

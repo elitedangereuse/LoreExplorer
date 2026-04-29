@@ -1,0 +1,12 @@
+#+title: Mineral Survey
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       9c4a2290-3c29-498c-9eaa-627327dd80d6
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Mineral_Survey
+:END:
+
+#+begin_quote
+Results from a study of mineral deposits hidden beneath the surface
+of a planet.
+#+end_quote
+

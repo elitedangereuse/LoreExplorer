@@ -1,0 +1,15 @@
+#+title: Tungsten
+#+filetags: :Raw:Material:
+:PROPERTIES:
+:ID:       94a88123-2601-4c2d-8efe-b6819c387056
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Tungsten
+:END:
+
+#+begin_quote
+Collected on planet surfaces and from asteroids.
+
+Tungsten, W, atomic number 74. Melting point 3695K. Tungsten is a
+material used in a wide range of applications, including heavy metal
+alloys, hard materials and various chemical processes.
+#+end_quote
+

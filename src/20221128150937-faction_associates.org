@@ -1,5 +1,12 @@
 :PROPERTIES:
 :ID:       abcab4c6-49d0-4bcc-9d94-fea5316fe5a8
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Faction_Associates
 :END:
 #+title: Faction Associates
-#+filetags: :Data:
+#+filetags: :Data:Odyssey:
+
+#+begin_quote
+Information on a faction's political allies and related beneficial
+relationships.
+#+end_quote
+

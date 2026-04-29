@@ -1,0 +1,17 @@
+#+title: Carbon
+#+filetags: :Raw:Material:
+:PROPERTIES:
+:ID:       11011429-059d-446a-8e68-cc8ba47f631b
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Carbon
+:END:
+
+#+begin_quote
+Collected on planet surfaces and from asteroids.
+
+Carbon, C, atomic number 6. Sublimation point 3915K. Carbon is an
+element with a great many uses, mainly due to its propensity for
+forming strong molecular bonds. It is a malleable element and in
+different forms can be amongst the hardest of materials as well as
+the softest.
+#+end_quote
+

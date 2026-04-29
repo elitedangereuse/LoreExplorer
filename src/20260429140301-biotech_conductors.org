@@ -1,0 +1,14 @@
+#+title: Biotech Conductors
+#+filetags: :Manufactured:Material:
+:PROPERTIES:
+:ID:       26233851-8113-4ab2-9b00-e304d267aa09
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Biotech_Conductors
+:END:
+
+#+begin_quote
+Used by factions as a reward for mission contracts.
+
+Biotech conductors allow the flow of biotech materials (usually a
+fluid) to pass through the material.
+#+end_quote
+

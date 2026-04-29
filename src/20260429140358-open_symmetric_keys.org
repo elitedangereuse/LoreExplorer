@@ -1,0 +1,16 @@
+#+title: Open Symmetric Keys
+#+filetags: :Encoded:Material:
+:PROPERTIES:
+:ID:       84e82314-5879-4eed-b670-cbd0d26f6570
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Open_Symmetric_Keys
+:END:
+
+#+begin_quote
+Captured from settlement data point networks. Known to be salvaged
+from signal sources.
+
+Symmetric keys provide access controls for encrypted data, often on
+a ship, or even station wide basis. Capturing these provides the
+owner (with the right skills and equipment) a valuable access tool.
+#+end_quote
+

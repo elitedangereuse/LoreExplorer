@@ -1,0 +1,16 @@
+#+title: Military Grade Alloys
+#+filetags: :Manufactured:Material:
+:PROPERTIES:
+:ID:       ba3ad582-219c-4660-937f-25e370dcf48c
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Military_Grade_Alloys
+:END:
+
+#+begin_quote
+Advanced component used by factions in times of war. Known to be
+salvaged from signal sources in systems in a state of civil war or
+war.
+
+Military grade alloys provide an overall improved protection over
+standard alloys.
+#+end_quote
+

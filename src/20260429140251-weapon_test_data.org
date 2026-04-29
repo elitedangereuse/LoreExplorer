@@ -1,0 +1,12 @@
+#+title: Weapon Test Data
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       6e61f504-0e70-4388-b233-037ea3a911b6
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Weapon_Test_Data
+:END:
+
+#+begin_quote
+Analysis of the performance and effectiveness of newly designed
+weaponry or related enhancements.
+#+end_quote
+

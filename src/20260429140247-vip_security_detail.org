@@ -1,0 +1,12 @@
+#+title: VIP Security Detail
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       f27cd434-b57b-44ed-9293-7d12f5e01e07
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/VIP_Security_Detail
+:END:
+
+#+begin_quote
+Assignments and deployment schedules of agents assigned to protect
+key personnel.
+#+end_quote
+

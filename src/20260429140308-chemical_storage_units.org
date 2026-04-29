@@ -1,0 +1,17 @@
+#+title: Chemical Storage Units
+#+filetags: :Manufactured:Material:
+:PROPERTIES:
+:ID:       b6cabb8f-18e8-4a2e-8071-40a4d90d4edd
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Chemical_Storage_Units
+:END:
+
+#+begin_quote
+Component found in ships: frequently used by haulage vessels.
+Destroyed haulage vessels can be scavenged from the aftermath of
+combat in shipping lanes. Known to be salvaged from signal sources
+in high security systems.
+
+Chemical storage units are used to contain chemicals in different
+states.
+#+end_quote
+

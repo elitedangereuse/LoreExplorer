@@ -1,0 +1,16 @@
+#+title: Untypical Shield Scans
+#+filetags: :Encoded:Material:
+:PROPERTIES:
+:ID:       adbcc96c-86f9-4f06-98bb-afc05e0d4999
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Untypical_Shield_Scans
+:END:
+
+#+begin_quote
+Collected during basic scan: frequently pulled from combat oriented
+vessels.
+
+Shield technology has been established for centuries, so finding
+shield behaviour that doesn't match the expected results can be of
+great interest to various individuals and organisations.
+#+end_quote
+

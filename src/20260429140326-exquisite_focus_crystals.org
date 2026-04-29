@@ -1,0 +1,14 @@
+#+title: Exquisite Focus Crystals
+#+filetags: :Manufactured:Material:
+:PROPERTIES:
+:ID:       74ef9c89-13b7-4bc6-b2e1-d1bd7e8ddf02
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Exquisite_Focus_Crystals
+:END:
+
+#+begin_quote
+Used by factions as a reward for mission contracts.
+
+Exquisite focus crystals are finely crafted to ensure optimum
+performance within laser systems.
+#+end_quote
+

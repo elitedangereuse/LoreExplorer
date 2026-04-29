@@ -1,0 +1,12 @@
+#+title: Weapon Inventory
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       da1907a0-3d2f-4892-91ae-86c227b70641
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Weapon_Inventory
+:END:
+
+#+begin_quote
+A comprehensive record of all weaponry and ammunition stored at a
+facility.
+#+end_quote
+

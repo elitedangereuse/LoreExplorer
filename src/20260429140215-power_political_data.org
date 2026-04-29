@@ -1,0 +1,12 @@
+#+title: Power Political Data
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       92c29550-cdd7-4179-92f4-b6255bbcb231
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Power_Political_Data
+:END:
+
+#+begin_quote
+A record of Power propaganda activity and predicted results within a
+settlement over a specific period.
+#+end_quote
+

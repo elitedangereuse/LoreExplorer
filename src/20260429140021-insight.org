@@ -1,0 +1,12 @@
+#+title: InSight
+#+filetags: :Good:Odyssey:
+:PROPERTIES:
+:ID:       4ed5412b-9643-420c-a9a9-4e16318fea44
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/InSight
+:END:
+
+#+begin_quote
+A wearable device designed to provide the user with real-time
+information about their immediate enviroment.
+#+end_quote
+

@@ -1,0 +1,11 @@
+#+title: Ionised Gas
+#+filetags: :Good:Odyssey:
+:PROPERTIES:
+:ID:       b5320812-f22e-4de3-8e22-7e4b8a0e0cf5
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Ionised_Gas
+:END:
+
+#+begin_quote
+A quantity of ionized gas.
+#+end_quote
+

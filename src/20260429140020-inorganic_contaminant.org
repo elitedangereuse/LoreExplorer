@@ -1,0 +1,11 @@
+#+title: Inorganic Contaminant
+#+filetags: :Good:Odyssey:
+:PROPERTIES:
+:ID:       9c652c81-9782-43dc-82cd-5fa5a0ba2183
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Inorganic_Contaminant
+:END:
+
+#+begin_quote
+A toxic substance that corrodes inorganic materials.
+#+end_quote
+

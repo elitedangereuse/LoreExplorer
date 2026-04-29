@@ -1,0 +1,12 @@
+#+title: Interview Recordings
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       e042b10b-20bd-40b8-864b-5837ca946a77
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Interview_Recordings
+:END:
+
+#+begin_quote
+Evaluations of potential employees under consideration for
+employment at a facility.
+#+end_quote
+

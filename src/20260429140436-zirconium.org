@@ -1,0 +1,15 @@
+#+title: Zirconium
+#+filetags: :Raw:Material:
+:PROPERTIES:
+:ID:       7d1728bb-333a-470d-8038-769ad1cce208
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Zirconium
+:END:
+
+#+begin_quote
+Collected on planet surfaces and from asteroids.
+
+Zirconium, Zr, atomic number 40. Melting point 2128K. As a metal
+Zirconium fulfils some niche purposes, but it's extensively used in
+compounds for high temperature applications.
+#+end_quote
+

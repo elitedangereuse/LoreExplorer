@@ -1,5 +1,12 @@
 :PROPERTIES:
 :ID:       a175c517-8d98-40c1-8366-8cb4dff454e3
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Financial_Projections
 :END:
 #+title: Financial Projections
-#+filetags: :Data:
+#+filetags: :Data:Odyssey:
+
+#+begin_quote
+Forecasts of a company's future income, expenditure and profit
+margins.
+#+end_quote
+

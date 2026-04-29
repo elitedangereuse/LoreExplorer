@@ -1,0 +1,16 @@
+#+title: Unexpected Emission Data
+#+filetags: :Encoded:Material:
+:PROPERTIES:
+:ID:       6f1c4557-80a4-4062-be90-1c8c3b378f71
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Unexpected_Emission_Data
+:END:
+
+#+begin_quote
+Collected during basic scan: frequently pulled from combat oriented
+vessels. Known to be salvaged from signal sources.
+
+Most users prefer their accumulated emission data to conform to the
+expected parameters. Sometimes strange distortions or readings are
+encountered and these can prove most illuminating.
+#+end_quote
+

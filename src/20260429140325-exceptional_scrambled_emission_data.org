@@ -1,0 +1,17 @@
+#+title: Exceptional Scrambled Emission Data
+#+filetags: :Encoded:Material:
+:PROPERTIES:
+:ID:       d6f8eb8b-2513-4b12-9933-5a7d76c07ffa
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Exceptional_Scrambled_Emission_Data
+:END:
+
+#+begin_quote
+Used by factions as a reward for mission contracts. Known to be
+salvaged from signal sources.
+
+Even with scrambled data it is possible to generate a high level
+analysis through pattern recognition and data sequencing. In some
+cases unexpected data clusters can be identified and are of interest
+to some people with the right expertise to use the data.
+#+end_quote
+

@@ -1,0 +1,12 @@
+#+title: Faction Donator List
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       8a2d4fcf-34f2-4ccd-8bb1-8bfbf48bdce3
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Faction_Donator_List
+:END:
+
+#+begin_quote
+A record of individuals or organisations that have made financial
+contributions to a faction.
+#+end_quote
+

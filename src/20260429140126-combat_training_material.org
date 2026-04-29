@@ -1,0 +1,12 @@
+#+title: Combat Training Material
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       9a754f59-b297-45ff-a3e1-fe33c7a8d959
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Combat_Training_Material
+:END:
+
+#+begin_quote
+Training plans and exercises designed to improve overall battlefield
+effectiveness.
+#+end_quote
+

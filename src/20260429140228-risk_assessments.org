@@ -1,0 +1,12 @@
+#+title: Risk Assessments
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       c58628df-ffe7-44ec-a4ed-021dac86ab32
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Risk_Assessments
+:END:
+
+#+begin_quote
+Evaluations of safety measures and potential hazards at a facility
+or operation.
+#+end_quote
+

@@ -1,0 +1,11 @@
+#+title: Synthetic Genome
+#+filetags: :Good:Odyssey:
+:PROPERTIES:
+:ID:       86726318-4f6e-4cfe-9cef-986c62f13ad4
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Synthetic_Genome
+:END:
+
+#+begin_quote
+An artificial set of genes.
+#+end_quote
+

@@ -1,0 +1,12 @@
+#+title: Vaccination Records
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       185baac4-e774-47a0-bd67-167486aa1517
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Vaccination_Records
+:END:
+
+#+begin_quote
+A list of vaccinations issued to each member of a settlement's
+personnel.
+#+end_quote
+

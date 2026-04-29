@@ -1,0 +1,15 @@
+#+title: Mechanical Equipment
+#+filetags: :Manufactured:Material:
+:PROPERTIES:
+:ID:       05c715ee-214b-4e0d-b80d-8b40c2042536
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Mechanical_Equipment
+:END:
+
+#+begin_quote
+Component found in ships: frequently used by haulage vessels.
+Destroyed haulage vessels can be scavenged from the aftermath of
+combat in shipping lanes. Known to be salvaged from signal sources.
+
+A range of mechanical equipment.
+#+end_quote
+

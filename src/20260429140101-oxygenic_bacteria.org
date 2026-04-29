@@ -1,0 +1,11 @@
+#+title: Oxygenic Bacteria
+#+filetags: :Component:Odyssey:
+:PROPERTIES:
+:ID:       ae1f0baa-5bde-4e1f-8058-9e9ffc483264
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Oxygenic_Bacteria
+:END:
+
+#+begin_quote
+Cultivated bacteria used to produce large amounts of oxygen.
+#+end_quote
+

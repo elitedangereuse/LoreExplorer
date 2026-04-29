@@ -1,0 +1,12 @@
+#+title: Political Affiliations
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       45175e4f-dae1-4df9-a666-b4f7fbf4483f
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Political_Affiliations
+:END:
+
+#+begin_quote
+A faction's alliances and relationships with other organisations
+based on political ideologies.
+#+end_quote
+

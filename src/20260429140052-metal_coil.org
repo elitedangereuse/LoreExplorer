@@ -1,0 +1,12 @@
+#+title: Metal Coil
+#+filetags: :Component:Odyssey:
+:PROPERTIES:
+:ID:       1789026b-2213-453e-86c6-444f68c56803
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Metal_Coil
+:END:
+
+#+begin_quote
+Commonplace metal for use in electrical circuits and hydraulic
+systems.
+#+end_quote
+

@@ -1,0 +1,17 @@
+#+title: Chemical Distillery
+#+filetags: :Manufactured:Material:
+:PROPERTIES:
+:ID:       b0a73f15-fd96-46c5-a750-c64ed09a5e86
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Chemical_Distillery
+:END:
+
+#+begin_quote
+Component found in ships: frequently used by haulage vessels.
+Destroyed haulage vessels can be scavenged from the aftermath of
+combat in shipping lanes. Known to be salvaged from signal sources
+in high security systems.
+
+Chemical distillery allows the isolation of a chemical from another
+chemical.
+#+end_quote
+

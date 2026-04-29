@@ -1,0 +1,11 @@
+#+title: Suit Schematic
+#+filetags: :Good:Odyssey:
+:PROPERTIES:
+:ID:       7d568bfa-ab97-4633-8a5d-780ff34405af
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Suit_Schematic
+:END:
+
+#+begin_quote
+A technical blueprint detailing the design of a protective suit.
+#+end_quote
+

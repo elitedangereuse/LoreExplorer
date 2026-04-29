@@ -1,0 +1,15 @@
+#+title: Molybdenum
+#+filetags: :Raw:Material:
+:PROPERTIES:
+:ID:       7b32c7e8-adb9-470f-963a-8781572158f5
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Molybdenum
+:END:
+
+#+begin_quote
+Collected on planet surfaces.
+
+Molybdenum, Mo, atomic number 42. Melting point 2896K. This element
+is commonly used in alloys, but also has uses in certain chemical
+detectors and chemical processes.
+#+end_quote
+

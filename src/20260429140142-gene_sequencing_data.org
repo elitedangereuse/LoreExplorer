@@ -1,0 +1,12 @@
+#+title: Gene Sequencing Data
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       fb3631c9-fe59-4579-aa0e-32fbeb58ff57
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Gene_Sequencing_Data
+:END:
+
+#+begin_quote
+Molecular analysis of DNA samples to determine the nucleic acid
+sequence.
+#+end_quote
+

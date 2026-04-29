@@ -1,5 +1,12 @@
 :PROPERTIES:
 :ID:       d22c7b5b-2965-452f-9b1c-77de0b601cf8
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Opinion_Polls
 :END:
 #+title: Opinion Polls
-#+filetags: :Data:
+#+filetags: :Data:Odyssey:
+
+#+begin_quote
+Statistics and viewpoints gathered from surveys of a population
+sample.
+#+end_quote
+

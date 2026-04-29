@@ -1,0 +1,16 @@
+#+title: Heat Dispersion Plate
+#+filetags: :Manufactured:Material:
+:PROPERTIES:
+:ID:       4e4e312b-b943-43c9-9781-f26d2fcd350a
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Heat_Dispersion_Plate
+:END:
+
+#+begin_quote
+Component found in ships: frequently used by haulage vessels.
+Destroyed haulage vessels can be scavenged from the aftermath of
+combat in shipping lanes. Known to be salvaged from signal sources.
+
+Heat dispersion plates use their surface area to disperse heat into
+the environment.
+#+end_quote
+

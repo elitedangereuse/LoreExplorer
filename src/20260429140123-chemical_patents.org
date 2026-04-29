@@ -1,0 +1,11 @@
+#+title: Chemical Patents
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       8a5f3a91-639f-45f1-a55b-91af170f9ccf
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Chemical_Patents
+:END:
+
+#+begin_quote
+A list of registered patent applications for chemical inventions.
+#+end_quote
+

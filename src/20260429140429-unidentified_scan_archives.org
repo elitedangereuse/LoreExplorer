@@ -1,0 +1,16 @@
+#+title: Unidentified Scan Archives
+#+filetags: :Encoded:Material:
+:PROPERTIES:
+:ID:       a6d0f164-d392-4971-a30b-aa35da3c16ff
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Unidentified_Scan_Archives
+:END:
+
+#+begin_quote
+Collected during basic scan: frequently pulled from haulage vessels.
+
+Most scanners keep a log of their readings and that typically fits
+within the performance profile for the instrumentation and is tagged
+by identification heuristics. Sometimes scan data isn't tagged and
+so becomes of interest to those investigating various anomalies.
+#+end_quote
+

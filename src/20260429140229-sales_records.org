@@ -1,0 +1,12 @@
+#+title: Sales Records
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       4280654d-3dfb-4818-9ba9-5abd31b3240f
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Sales_Records
+:END:
+
+#+begin_quote
+Information of a settlement's gross and profit, stock exports and
+outstanding invoices.
+#+end_quote
+

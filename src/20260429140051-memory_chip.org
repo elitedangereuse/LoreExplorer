@@ -1,0 +1,11 @@
+#+title: Memory Chip
+#+filetags: :Component:Odyssey:
+:PROPERTIES:
+:ID:       05d2f8dc-7644-4a4c-802d-d872cf2ca343
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Memory_Chip
+:END:
+
+#+begin_quote
+An integrated circuit designed to store software data.
+#+end_quote
+

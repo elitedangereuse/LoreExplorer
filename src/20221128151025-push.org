@@ -1,5 +1,11 @@
 :PROPERTIES:
 :ID:       cef52cae-208a-4802-8e0f-49d9706df19a
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Push
 :END:
 #+title: Push
-#+filetags: :Good:
+#+filetags: :Good:Odyssey:
+
+#+begin_quote
+A recreational drug that temporarily increases cognitive function.
+#+end_quote
+

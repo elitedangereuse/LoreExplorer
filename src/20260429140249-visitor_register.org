@@ -1,0 +1,12 @@
+#+title: Visitor Register
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       9194c6ce-2ea0-4c1d-9c44-ca14270d73cd
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Visitor_Register
+:END:
+
+#+begin_quote
+A list of non-employee personnel logged at a settlement within a
+certain time period.
+#+end_quote
+

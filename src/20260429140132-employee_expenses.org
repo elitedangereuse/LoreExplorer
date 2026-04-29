@@ -1,0 +1,12 @@
+#+title: Employee Expenses
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       7179ecf7-dccb-44ce-9243-6befe234c4e5
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Employee_Expenses
+:END:
+
+#+begin_quote
+Records of business expense claims and charges made to company
+credit accounts.
+#+end_quote
+

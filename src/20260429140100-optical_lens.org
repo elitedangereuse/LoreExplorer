@@ -1,0 +1,11 @@
+#+title: Optical Lens
+#+filetags: :Component:Odyssey:
+:PROPERTIES:
+:ID:       dcc5452b-94ea-4cc8-8808-ff2656a4997a
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Optical_Lens
+:END:
+
+#+begin_quote
+An optical component designed to converge or diverge light.
+#+end_quote
+

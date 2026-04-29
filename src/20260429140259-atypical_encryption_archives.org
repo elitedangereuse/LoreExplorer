@@ -1,0 +1,16 @@
+#+title: Atypical Encryption Archives
+#+filetags: :Encoded:Material:
+:PROPERTIES:
+:ID:       ed8dd893-8feb-4457-bf41-f1627b1db311
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Atypical_Encryption_Archives
+:END:
+
+#+begin_quote
+Discovered in private data beacons salvaged from deep space.
+
+The nature of encrypted data makes it difficult to predict its
+contents, however certain forms of data have recognisable structures
+even when encrypted. This can then be used to break into the data
+and as such is highly prized in some quarters.
+#+end_quote
+

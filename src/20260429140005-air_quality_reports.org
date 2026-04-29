@@ -1,0 +1,12 @@
+#+title: Air Quality Reports
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       7c395d60-be16-420e-a7ff-9041dd8f514d
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Air_Quality_Reports
+:END:
+
+#+begin_quote
+Chemical analyses of atmospheric recycling systems in surface
+settlements.
+#+end_quote
+

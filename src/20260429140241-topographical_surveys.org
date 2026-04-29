@@ -1,0 +1,12 @@
+#+title: Topographical Surveys
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       2fb8aa2d-a64d-47d4-8f85-b615516759a7
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Topographical_Surveys
+:END:
+
+#+begin_quote
+Measurements and analysis of a specific area of a planetary body's
+surface.
+#+end_quote
+

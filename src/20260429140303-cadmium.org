@@ -1,0 +1,15 @@
+#+title: Cadmium
+#+filetags: :Raw:Material:
+:PROPERTIES:
+:ID:       e519a73f-a839-439a-b343-be926c1c7483
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Cadmium
+:END:
+
+#+begin_quote
+Collected on planet surfaces.
+
+Cadmium, Cd, atomic number 48. Melting point 594K. It's noted for
+its corrosion resistant properties and is used in medical imaging
+equipment and specialist laser systems.
+#+end_quote
+

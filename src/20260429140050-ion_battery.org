@@ -1,0 +1,11 @@
+#+title: Ion Battery
+#+filetags: :Component:Odyssey:
+:PROPERTIES:
+:ID:       cb37212d-d4c5-4548-a956-3fb75591f015
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Ion_Battery
+:END:
+
+#+begin_quote
+A portable power source for use in electronic devices.
+#+end_quote
+

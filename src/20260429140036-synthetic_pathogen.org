@@ -1,0 +1,12 @@
+#+title: Synthetic Pathogen
+#+filetags: :Good:Odyssey:
+:PROPERTIES:
+:ID:       e2dff395-b7e4-4170-ab8f-c32948e7c55e
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Synthetic_Pathogen
+:END:
+
+#+begin_quote
+A synthesized virus created by splicing together several different
+diseases.
+#+end_quote
+

@@ -1,0 +1,14 @@
+#+title: Proto Heat Radiators
+#+filetags: :Manufactured:Material:
+:PROPERTIES:
+:ID:       d314a72b-ca04-458b-be8c-267fdf7fe591
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Proto_Heat_Radiators
+:END:
+
+#+begin_quote
+Specialist component developed during economic boom. Known to be
+salvaged from signal sources.
+
+Proto heat radiators use fluid transfer to move heat from a system.
+#+end_quote
+

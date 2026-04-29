@@ -1,0 +1,11 @@
+#+title: Personal Logs
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       95a68a4d-4ad6-4d43-9868-a4e5476829f0
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Personal_Logs
+:END:
+
+#+begin_quote
+Private text or audio/visual recordings made by an individual.
+#+end_quote
+

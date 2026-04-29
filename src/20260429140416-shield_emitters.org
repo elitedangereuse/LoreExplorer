@@ -1,0 +1,15 @@
+#+title: Shield Emitters
+#+filetags: :Manufactured:Material:
+:PROPERTIES:
+:ID:       d9b8a78d-c8e4-446b-8e72-5f713279b628
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Shield_Emitters
+:END:
+
+#+begin_quote
+Component found in ships: frequently used by combat oriented
+vessels. Known to be salvaged from signal sources.
+
+Shield emitters project the shield's energy away from the source to
+provide a barrier.
+#+end_quote
+

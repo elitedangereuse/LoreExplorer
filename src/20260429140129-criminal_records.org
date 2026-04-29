@@ -1,0 +1,12 @@
+#+title: Criminal Records
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       d574422b-9825-4107-9eb7-c518c9f1366d
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Criminal_Records
+:END:
+
+#+begin_quote
+An account of criminal convictions and other legal transgressions
+within a specific population.
+#+end_quote
+

@@ -1,0 +1,12 @@
+#+title: Photo Albums
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       d44e0d16-16d2-4dc4-8de3-6fcefd385f0e
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Photo_Albums
+:END:
+
+#+begin_quote
+A personal collection of static images in digital or holographic
+formats.
+#+end_quote
+

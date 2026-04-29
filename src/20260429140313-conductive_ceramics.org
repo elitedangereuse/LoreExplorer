@@ -1,0 +1,17 @@
+#+title: Conductive Ceramics
+#+filetags: :Manufactured:Material:
+:PROPERTIES:
+:ID:       d12b6560-fbeb-4d96-8970-587bbbede4c5
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Conductive_Ceramics
+:END:
+
+#+begin_quote
+Component found in ships: frequently used by haulage vessels.
+Destroyed haulage vessels can be scavenged from the aftermath of
+combat in shipping lanes. Known to be salvaged from signal sources
+in anarchy systems.
+
+Conductive Ceramics allow electrical circuits to be constructed
+within ceramics.
+#+end_quote
+

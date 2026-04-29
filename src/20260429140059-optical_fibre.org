@@ -1,0 +1,12 @@
+#+title: Optical Fibre
+#+filetags: :Component:Odyssey:
+:PROPERTIES:
+:ID:       b1ebb6d0-46d1-46e8-a604-2bad0ed25a17
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Optical_Fibre
+:END:
+
+#+begin_quote
+A length of fine cable designed to transfer data in the form of
+light.
+#+end_quote
+

@@ -1,0 +1,17 @@
+#+title: Niobium
+#+filetags: :Raw:Material:
+:PROPERTIES:
+:ID:       57ead3ef-6eee-4bd1-a856-9a37f9fde45b
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Niobium
+:END:
+
+#+begin_quote
+Collected on planet surfaces and from asteroids.
+
+Niobium, Nb, atomic number 41. Melting point 2750K. This elements is
+often used in alloys, but its properties also make it useful for
+super-alloys needed for high temperature and extreme pressure
+applications. It's also used in electroceramic applications and
+superconductors.
+#+end_quote
+

@@ -1,5 +1,12 @@
 :PROPERTIES:
 :ID:       c70a9fea-50a3-4492-9dcd-65dc1bbdf71f
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Employee_Genetic_Data
 :END:
 #+title: Employee Genetic Data
-#+filetags: :Data:
+#+filetags: :Data:Odyssey:
+
+#+begin_quote
+Unique genetic data records for a settlement's past and current
+personnel.
+#+end_quote
+

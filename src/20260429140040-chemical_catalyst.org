@@ -1,0 +1,11 @@
+#+title: Chemical Catalyst
+#+filetags: :Component:Odyssey:
+:PROPERTIES:
+:ID:       d3a32ac1-c9cc-40d7-a4a9-0c12990d12cf
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Chemical_Catalyst
+:END:
+
+#+begin_quote
+A compound used to accelerate chemical reactions.
+#+end_quote
+

@@ -1,0 +1,11 @@
+#+title: Tax Records
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       529c04ab-fed4-41f4-aa1f-88c298f34794
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Tax_Records
+:END:
+
+#+begin_quote
+Details of an organisation's tax payments and related documentation.
+#+end_quote
+

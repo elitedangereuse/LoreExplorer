@@ -1,0 +1,15 @@
+#+title: Hybrid Capacitors
+#+filetags: :Manufactured:Material:
+:PROPERTIES:
+:ID:       afe970da-ae5c-45b3-920b-38d3671d2246
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Hybrid_Capacitors
+:END:
+
+#+begin_quote
+Component found in ships: frequently used by military and authority
+vessels. Known to be salvaged from signal sources.
+
+Hybrid capacitors are form of supercapacitor capable of storing and
+releasing vast amounts of energy.
+#+end_quote
+

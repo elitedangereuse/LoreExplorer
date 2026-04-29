@@ -1,0 +1,11 @@
+#+title: RDX
+#+filetags: :Component:Odyssey:
+:PROPERTIES:
+:ID:       bf57d4cd-ad82-461a-811f-6fb4f10b90d0
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/RDX
+:END:
+
+#+begin_quote
+A highly explosive nitramide compound.
+#+end_quote
+

@@ -1,0 +1,14 @@
+#+title: Anomalous FSD Telemetry
+#+filetags: :Encoded:Material:
+:PROPERTIES:
+:ID:       d97a05b4-2399-46b5-bf6a-09319b6bfa8f
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Anomalous_FSD_Telemetry
+:END:
+
+#+begin_quote
+Captured from high energy wakes with a wake scanner.
+
+FSD drives are a relatively new technology and interesting quirks
+can be discovered from the telemetry of their control software.
+#+end_quote
+

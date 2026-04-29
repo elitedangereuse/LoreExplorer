@@ -1,0 +1,12 @@
+#+title: Chemical Inventory
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       8bd02672-d6ba-4afa-bf9b-0935e08fa08b
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Chemical_Inventory
+:END:
+
+#+begin_quote
+A detailed log of active and inert chemical materials stored within
+a facility.
+#+end_quote
+

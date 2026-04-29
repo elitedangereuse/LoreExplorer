@@ -1,5 +1,11 @@
 :PROPERTIES:
 :ID:       55669e4c-6120-4f4a-93a1-ddcc366333c5
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Surveillance_Equipment
 :END:
 #+title: Surveillance equipment
-#+filetags: :Good:
+#+filetags: :Good:Odyssey:
+
+#+begin_quote
+An assortment of audio-visual and biometric monitoring devices.
+#+end_quote
+

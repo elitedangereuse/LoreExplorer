@@ -1,0 +1,12 @@
+#+title: Biological Weapon Data
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       651501ef-9fbe-4100-892b-6c03b6e14ec7
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Biological_Weapon_Data
+:END:
+
+#+begin_quote
+Information related to the proper storage, deployment and effects of
+a biological weapon.
+#+end_quote
+

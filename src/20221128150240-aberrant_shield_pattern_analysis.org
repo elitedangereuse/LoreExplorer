@@ -1,5 +1,18 @@
 :PROPERTIES:
 :ID:       b0af0a79-ce9f-488a-95fc-180ad88cbc7a
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Aberrant_Shield_Pattern_Analysis
 :END:
 #+title: Aberrant Shield Pattern Analysis
 #+filetags: :Encoded:Material:
+
+#+begin_quote
+Collected during basic scan: frequently pulled from combat oriented
+vessels.
+
+Energy shields are formed from complex interlocking fields, the
+mathematical basis for which is well understood. However, analysis
+will sometimes indicate a behaviour that doesn't sit properly with
+this accepted module. This often proves to be spurious data, but
+underground researchers are looking into other possible causes.
+#+end_quote
+

@@ -1,0 +1,15 @@
+#+title: Core Dynamics Composites
+#+filetags: :Manufactured:Material:
+:PROPERTIES:
+:ID:       06d1c041-b85b-4b2e-9897-72ede2d79580
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Core_Dynamics_Composites
+:END:
+
+#+begin_quote
+Advanced component found in Federal systems. Known to be salvaged
+from signal sources.
+
+Core Dynamics composites are a development by Core Dynamics
+providing increased protection over standard composites.
+#+end_quote
+

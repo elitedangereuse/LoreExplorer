@@ -1,0 +1,12 @@
+#+title: Radioactivity Data
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       524ce31c-dbf9-4cb8-baf1-3033ee378b30
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Radioactivity_Data
+:END:
+
+#+begin_quote
+Measurements of the output from natural or artificial sources of
+radiation.
+#+end_quote
+

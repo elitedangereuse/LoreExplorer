@@ -1,0 +1,12 @@
+#+title: Pyrolytic Catalyst
+#+filetags: :Good:Odyssey:
+:PROPERTIES:
+:ID:       84587e21-37a0-4119-ad4d-1fb5cff47df5
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Pyrolytic_Catalyst
+:END:
+
+#+begin_quote
+A substance that greatly alters the chemical properties of material
+it interacts with.
+#+end_quote
+

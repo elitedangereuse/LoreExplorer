@@ -1,0 +1,12 @@
+#+title: NOC Data
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       aed0a40a-7617-47ae-a7d5-120b14887474
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/NOC_Data
+:END:
+
+#+begin_quote
+Non-official cover information related to covert agents active in
+various organisations.
+#+end_quote
+

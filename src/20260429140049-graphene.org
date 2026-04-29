@@ -1,0 +1,11 @@
+#+title: Graphene
+#+filetags: :Component:Odyssey:
+:PROPERTIES:
+:ID:       683a147f-b8be-4263-800e-4a8a030507c6
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Graphene
+:END:
+
+#+begin_quote
+A multipurpose carbon allotrope.
+#+end_quote
+

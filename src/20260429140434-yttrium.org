@@ -1,0 +1,15 @@
+#+title: Yttrium
+#+filetags: :Raw:Material:
+:PROPERTIES:
+:ID:       8233a2b0-1882-4b08-9775-194d689ad258
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Yttrium
+:END:
+
+#+begin_quote
+Collected on planet surfaces.
+
+Yttrium, Y, atomic number 39. Melting point 1799K. Yttrium is often
+used as a strengthening component for various alloys. It also has
+uses in medicines and superconductors.
+#+end_quote
+

@@ -1,0 +1,17 @@
+#+title: Modified Consumer Firmware
+#+filetags: :Encoded:Material:
+:PROPERTIES:
+:ID:       3d456b8d-4d72-4d32-adf8-01a8671538a0
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Modified_Consumer_Firmware
+:END:
+
+#+begin_quote
+Used by factions as a reward for mission contracts. Known to be
+salvaged from signal sources. Known to be found in small settlement
+data point networks.
+
+Control software for consumer level devices typically follows the
+manufacturer's specification, unless it has been modified and these
+changes can be used by other interested parties.
+#+end_quote
+

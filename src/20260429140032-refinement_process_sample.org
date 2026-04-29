@@ -1,0 +1,12 @@
+#+title: Refinement Process Sample
+#+filetags: :Good:Odyssey:
+:PROPERTIES:
+:ID:       c284ca75-50f2-499b-b5c1-50dca515e1d0
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Refinement_Process_Sample
+:END:
+
+#+begin_quote
+A sample of an unidentified substance used in a settlement's
+refinery.
+#+end_quote
+

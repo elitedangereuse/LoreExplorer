@@ -1,0 +1,15 @@
+#+title: Imperial Shielding
+#+filetags: :Manufactured:Material:
+:PROPERTIES:
+:ID:       beac165f-c209-4371-90ea-62e936f0fa75
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Imperial_Shielding
+:END:
+
+#+begin_quote
+Advanced component found in Imperial systems. Known to be salvaged
+from signal sources.
+
+Imperial shielding is an advanced form of shield management using
+proprietary technology.
+#+end_quote
+

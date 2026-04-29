@@ -1,0 +1,16 @@
+#+title: Sulphur
+#+filetags: :Raw:Material:
+:PROPERTIES:
+:ID:       308672d9-2670-4b5d-bc58-a337d7a3dbf8
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Sulphur
+:END:
+
+#+begin_quote
+Collected on planet surfaces and from asteroids.
+
+Sulphur, S, atomic number 16. Melting point 388K. Sulphur is mainly
+used as a precursor to other chemical like sulphuric acid. It's also
+a key component in many biological and chemical applications,
+including fertilisers.
+#+end_quote
+

@@ -1,0 +1,15 @@
+#+title: Arsenic
+#+filetags: :Raw:Material:
+:PROPERTIES:
+:ID:       69dcadf2-71c5-45ba-affb-b48f259cb6df
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Arsenic
+:END:
+
+#+begin_quote
+Collected on planet surfaces and from asteroids.
+
+Arsenic, As, atomic number 33. Sublimation point 887K. Used in
+medicines, pesticides, herbicides, optoelectronic compounds and for
+strengthening alloys.
+#+end_quote
+

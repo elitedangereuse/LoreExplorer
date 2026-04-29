@@ -1,0 +1,11 @@
+#+title: Micro Hydraulics
+#+filetags: :Component:Odyssey:
+:PROPERTIES:
+:ID:       c267a18d-b6ef-4bd8-9dc2-91f4b562dfcd
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Micro_Hydraulics
+:END:
+
+#+begin_quote
+Small, powerful hydraulic devices.
+#+end_quote
+

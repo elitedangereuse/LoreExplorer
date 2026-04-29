@@ -1,0 +1,15 @@
+#+title: Tellurium
+#+filetags: :Raw:Material:
+:PROPERTIES:
+:ID:       569e8fe8-f5e6-45b3-9248-f90c874f8116
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Tellurium
+:END:
+
+#+begin_quote
+Collected on planet surfaces.
+
+Tellurium, Te, atomic number 52. Melting point 722K. Tellurium is
+used in alloys as well semiconductor and other electronic
+applications.
+#+end_quote
+

@@ -1,0 +1,15 @@
+#+title: Modified Embedded Firmware
+#+filetags: :Encoded:Material:
+:PROPERTIES:
+:ID:       6da51dde-bfdd-4210-9319-bab9ad09e7ec
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Modified_Embedded_Firmware
+:END:
+
+#+begin_quote
+Captured from settlement data point networks.
+
+Embedded systems typically require specific firmware for their
+operation. There is a black market for modifications to the base
+firmware, often for performance tuning or other reasons.
+#+end_quote
+

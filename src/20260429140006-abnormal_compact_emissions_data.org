@@ -1,0 +1,17 @@
+#+title: Abnormal Compact Emissions Data
+#+filetags: :Encoded:Material:
+:PROPERTIES:
+:ID:       06778fcf-6841-4a41-b619-969b49a5ed4a
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Abnormal_Compact_Emissions_Data
+:END:
+
+#+begin_quote
+Discovered in private data beacons salvaged from deep space. Known
+to be salvaged from signal sources.
+
+Many systems compress their emissions data as it can quickly fill
+even massive amounts of storage. Preselected exceptions within the
+data set are usually kept in a lossless format and these are often
+of interest to other people and organisations.
+#+end_quote
+

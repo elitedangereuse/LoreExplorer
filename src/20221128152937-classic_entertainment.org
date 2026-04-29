@@ -1,5 +1,12 @@
 :PROPERTIES:
 :ID:       f9d4992b-124b-4d93-a0b5-206f37da5e4e
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Classic_Entertainment
 :END:
 #+title: Classic Entertainment
-#+filetags: :Data:
+#+filetags: :Data:Odyssey:
+
+#+begin_quote
+Well-known and critically acclaimed multimedia products maintained
+from past generations.
+#+end_quote
+

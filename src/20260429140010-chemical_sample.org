@@ -1,0 +1,11 @@
+#+title: Chemical Sample
+#+filetags: :Good:Odyssey:
+:PROPERTIES:
+:ID:       afeecadb-1a40-4905-8020-cc71c7f52595
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Chemical_Sample
+:END:
+
+#+begin_quote
+An unidentified chemical compound.
+#+end_quote
+

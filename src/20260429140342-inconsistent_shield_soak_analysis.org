@@ -1,0 +1,16 @@
+#+title: Inconsistent Shield Soak Analysis
+#+filetags: :Encoded:Material:
+:PROPERTIES:
+:ID:       45211d31-2fa4-4f1a-95e0-53033fe9b75f
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Inconsistent_Shield_Soak_Analysis
+:END:
+
+#+begin_quote
+Collected during basic scan: frequently pulled from haulage vessels.
+
+Accumulated data of shield responses to impacts rarely reveals
+anything unusual in anything except experimental models. This isn't
+always the case and analysing irregularities often reveals useful
+data about the shields.
+#+end_quote
+

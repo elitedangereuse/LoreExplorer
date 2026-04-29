@@ -1,0 +1,16 @@
+#+title: Anomalous Bulk Scan Data
+#+filetags: :Encoded:Material:
+:PROPERTIES:
+:ID:       0d246a0a-1cee-44b7-bb8f-2f266434537b
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Anomalous_Bulk_Scan_Data
+:END:
+
+#+begin_quote
+Collected during basic scan: frequently pulled from haulage vessels.
+
+Data files follow predictable formats, although in larger data sets
+individual components can be identified which vary from the expected
+pattern analysis and these can prove very useful to the right
+people.
+#+end_quote
+

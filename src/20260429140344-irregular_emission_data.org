@@ -1,0 +1,17 @@
+#+title: Irregular Emission Data
+#+filetags: :Encoded:Material:
+:PROPERTIES:
+:ID:       57e84d9a-2f00-43a1-af2f-37199966d44f
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Irregular_Emission_Data
+:END:
+
+#+begin_quote
+Used by factions as a reward for mission contracts. Known to be
+salvaged from signal sources.
+
+Emission data mostly contains identifiable readings, but anomalies
+often crop up. While these are often caused by system faults they
+can reveal interesting data or even weaknesses in sensor and stealth
+technology.
+#+end_quote
+

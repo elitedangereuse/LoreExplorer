@@ -1,0 +1,11 @@
+#+title: Epoxy Adhesive
+#+filetags: :Component:Odyssey:
+:PROPERTIES:
+:ID:       b9f2d43a-e9f1-4e09-9805-f3e217742e8f
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Epoxy_Adhesive
+:END:
+
+#+begin_quote
+A multipurpose polymer adhesive.
+#+end_quote
+

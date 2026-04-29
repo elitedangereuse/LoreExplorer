@@ -1,0 +1,12 @@
+#+title: Spyware
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       9721a970-fa19-4939-8c50-bd13813f3d4f
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Spyware
+:END:
+
+#+begin_quote
+A program designed to infiltrate digital networks and collect data
+without detection.
+#+end_quote
+

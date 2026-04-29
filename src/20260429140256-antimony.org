@@ -1,0 +1,15 @@
+#+title: Antimony
+#+filetags: :Raw:Material:
+:PROPERTIES:
+:ID:       a8a391a8-4099-449f-b79f-ce6d149b6e2b
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Antimony
+:END:
+
+#+begin_quote
+Collected on planet surfaces.
+
+Antimony, Sb, atomic number 51. Melting point 903K. A semi metallic
+chemical element used in flame proofing low friction alloys and
+semiconductors.
+#+end_quote
+

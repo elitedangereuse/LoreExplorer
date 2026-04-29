@@ -1,0 +1,15 @@
+#+title: Unusual Encrypted Files
+#+filetags: :Encoded:Material:
+:PROPERTIES:
+:ID:       8818c253-2e79-4713-bbac-619035ee2b8b
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Unusual_Encrypted_Files
+:END:
+
+#+begin_quote
+Captured from settlement data point networks. Known to be salvaged
+from signal sources.
+
+Data files are often encrypted, on occasion a novel method of
+encryption can be encountered which is usefull elsewhere.
+#+end_quote
+

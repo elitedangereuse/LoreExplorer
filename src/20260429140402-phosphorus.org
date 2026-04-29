@@ -1,0 +1,14 @@
+#+title: Phosphorus
+#+filetags: :Raw:Material:
+:PROPERTIES:
+:ID:       db4b8bd5-f900-4a61-87f9-35340faffac0
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Phosphorus
+:END:
+
+#+begin_quote
+Collected on planet surfaces and from asteroids.
+
+Phosphorus, P, atomic number 15. Phosphorus is a highly reactive
+element used for some metallurgical production and for fertilisers.
+#+end_quote
+

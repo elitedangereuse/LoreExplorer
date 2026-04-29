@@ -1,0 +1,11 @@
+#+title: Atmospheric Data
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       bc2e5d88-ef1a-47a4-b050-0eec296891ed
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Atmospheric_Data
+:END:
+
+#+begin_quote
+Scientific observations and measurements of a planet's atmosphere.
+#+end_quote
+

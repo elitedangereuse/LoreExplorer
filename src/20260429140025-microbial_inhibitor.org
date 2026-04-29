@@ -1,0 +1,12 @@
+#+title: Microbial Inhibitor
+#+filetags: :Good:Odyssey:
+:PROPERTIES:
+:ID:       959efad9-2556-4e3f-9faf-09e5d860a993
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Microbial_Inhibitor
+:END:
+
+#+begin_quote
+A compound designed to hinder the growth of undesirable
+microorganisms.
+#+end_quote
+

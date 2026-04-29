@@ -1,0 +1,11 @@
+#+title: Inertia Canister
+#+filetags: :Good:Odyssey:
+:PROPERTIES:
+:ID:       33d05198-c487-4e59-94b1-a3fc7a422ce6
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Inertia_Canister
+:END:
+
+#+begin_quote
+A specialised container for the safe storage of unstable agents.
+#+end_quote
+

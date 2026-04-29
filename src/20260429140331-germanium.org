@@ -1,0 +1,16 @@
+#+title: Germanium
+#+filetags: :Raw:Material:
+:PROPERTIES:
+:ID:       ff72aa0d-7d32-4103-8cc9-d3bbded1ab20
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Germanium
+:END:
+
+#+begin_quote
+Collected on planet surfaces and from asteroids.
+
+Germanium, Ge, atomic number 32. Melting point 1211K. Germanium is
+used in optics and for semiconductors in electronics. Semiconductor
+detectors allow accurate radiological identification and it is also
+commonly used in alloys.
+#+end_quote
+

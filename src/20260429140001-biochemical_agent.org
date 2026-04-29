@@ -1,0 +1,10 @@
+#+title: Biochemical Agent
+#+filetags: :Good:Odyssey:
+:PROPERTIES:
+:ID:       b3217557-53df-420e-a0be-bfdc0e12a46a
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Biochemical_Agent
+:END:
+
+#+begin_quote
+A compound designed to break down organic tissue.
+#+end_quote

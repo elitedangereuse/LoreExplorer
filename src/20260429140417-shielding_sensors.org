@@ -1,0 +1,15 @@
+#+title: Shielding Sensors
+#+filetags: :Manufactured:Material:
+:PROPERTIES:
+:ID:       a6f01cc3-80d9-4277-aeda-d7c21abd09c1
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Shielding_Sensors
+:END:
+
+#+begin_quote
+Component found in ships: frequently used by combat oriented
+vessels. Known to be salvaged from signal sources in high security
+systems.
+
+Shielding sensors are used to monitor an active shield.
+#+end_quote
+

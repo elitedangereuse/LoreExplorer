@@ -1,0 +1,11 @@
+#+title: Californium
+#+filetags: :Good:Odyssey:
+:PROPERTIES:
+:ID:       d5d78f61-7b4c-463b-b3a5-c9ae08ed1830
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Californium
+:END:
+
+#+begin_quote
+A highly radioactive chemical element.
+#+end_quote
+

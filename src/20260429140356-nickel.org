@@ -1,0 +1,14 @@
+#+title: Nickel
+#+filetags: :Raw:Material:
+:PROPERTIES:
+:ID:       3b519489-944b-486d-a262-8a8445a8e5da
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Nickel
+:END:
+
+#+begin_quote
+Collected on planet surfaces and from asteroids.
+
+Nickel, Ni, atomic number 28. Melting point 1728K. It is commonly
+used in various alloys and also for some bio-chemical processes.
+#+end_quote
+

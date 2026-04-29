@@ -1,0 +1,15 @@
+#+title: Proprietary Composites
+#+filetags: :Manufactured:Material:
+:PROPERTIES:
+:ID:       a1cab6e0-f3c6-4b14-b4b4-d7edb1de1d07
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Proprietary_Composites
+:END:
+
+#+begin_quote
+Advanced component found in Federal systems. Known to be salvaged
+from signal sources.
+
+Proprietary composites are a development for the Federal Navy
+providing increased resilience over standard composites.
+#+end_quote
+

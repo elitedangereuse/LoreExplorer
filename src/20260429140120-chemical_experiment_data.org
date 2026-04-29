@@ -1,0 +1,12 @@
+#+title: Chemical Experiment Data
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       e770ea95-c1a3-4e96-9d1f-3784dfc4d7e5
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Chemical_Experiment_Data
+:END:
+
+#+begin_quote
+Proposals and research results related to various chemical
+experiments.
+#+end_quote
+

@@ -1,5 +1,16 @@
 :PROPERTIES:
 :ID:       71135817-e5a8-4344-9b9a-e59f204502eb
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Classified_Scan_Databanks
 :END:
 #+title: Classified Scan Databanks
 #+filetags: :Encoded:Material:
+
+#+begin_quote
+Collected during basic scan: frequently pulled from haulage vessels.
+
+A popular method for hiding sensitive data is to embed it within
+innocuous information. Such methods are usually quite sophisticated,
+but occasionally will be found by chance and can be processed by
+those with the right skills and equipment.
+#+end_quote
+

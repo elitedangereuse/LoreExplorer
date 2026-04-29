@@ -1,0 +1,17 @@
+#+title: Polonium
+#+filetags: :Raw:Material:
+:PROPERTIES:
+:ID:       b07b88b7-118d-4215-bc40-bde337b61765
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Polonium
+:END:
+
+#+begin_quote
+Collected on planet surfaces.
+
+Polonium, Po, atomic number 84. Melting point 527K. Polonium is an
+intense source of alpha particles and in sufficient quantities will
+generate enough heat for radioisotope thermoelectric generators.
+This technology is ancient by modern standards, but the properties
+are still useful for certain applications.
+#+end_quote
+

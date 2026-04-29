@@ -1,0 +1,11 @@
+#+title: Degraded Power Regulator
+#+filetags: :Good:Odyssey:
+:PROPERTIES:
+:ID:       69c2e450-0418-45e0-b5f4-6847af7b5487
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Degraded_Power_Regulator
+:END:
+
+#+begin_quote
+A non-functional fuel regulator used in power plants.
+#+end_quote
+

@@ -1,0 +1,12 @@
+#+title: Internal Correspondence
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       dbe7c5b2-1b47-4d20-9ada-7c67622638cc
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Internal_Correspondence
+:END:
+
+#+begin_quote
+A record of communications by members within an organisation's
+network.
+#+end_quote
+

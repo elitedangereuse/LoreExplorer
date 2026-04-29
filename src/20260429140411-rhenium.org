@@ -1,0 +1,18 @@
+#+title: Rhenium
+#+filetags: :Raw:Material:
+:PROPERTIES:
+:ID:       9ccfbe7e-7f36-44c2-acad-01c813bc07f1
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Rhenium
+:END:
+
+#+begin_quote
+Rhenium is a silvery-white heavy transition metal. Its atomic number
+is 75 and was considered one of the rarest metals on Earth. However
+through the ages of galactic expansion more plentiful sources of the
+element have been discovered and it is regularly found when
+extracting other ores from asteroids.
+
+Rhenium is used in combustion chambers, turbine blades and exhaust
+systems.
+#+end_quote
+

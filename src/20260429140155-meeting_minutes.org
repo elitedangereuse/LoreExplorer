@@ -1,0 +1,12 @@
+#+title: Meeting Minutes
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       f182bc50-8f44-4dca-9abf-4a57fbf5a3e5
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Meeting_Minutes
+:END:
+
+#+begin_quote
+A record of discussion topics and action points from a meeting of
+settlement personnel.
+#+end_quote
+

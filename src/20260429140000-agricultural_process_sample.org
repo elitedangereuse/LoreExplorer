@@ -1,0 +1,11 @@
+#+title: Agricultural Process Sample
+#+filetags: :Good:Odyssey:
+:PROPERTIES:
+:ID:       d6022242-3794-41d8-832b-69dc3fe4d32b
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Agricultural_Process_Sample
+:END:
+
+#+begin_quote
+A sample of an unidentified substance used in a settlement's
+agricultural production line.
+#+end_quote

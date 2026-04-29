@@ -1,0 +1,11 @@
+#+title: Carbon Fibre Plating
+#+filetags: :Component:Odyssey:
+:PROPERTIES:
+:ID:       9bc90f38-1595-4dd2-9a03-c02836fe1f70
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Carbon_Fibre_Plating
+:END:
+
+#+begin_quote
+A flexible, lightweight material made of organic polymers.
+#+end_quote
+

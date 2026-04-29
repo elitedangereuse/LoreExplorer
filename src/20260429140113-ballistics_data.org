@@ -1,0 +1,12 @@
+#+title: Ballistics Data
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       655129ea-7a1f-4e3d-991d-fe6430de16eb
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Ballistics_Data
+:END:
+
+#+begin_quote
+Projectile weapon research including launch mechanisms, accuracy and
+impact damage.
+#+end_quote
+

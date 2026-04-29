@@ -1,0 +1,12 @@
+#+title: Geological Data
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       c8b56a6b-ab3d-43b4-a1c6-b11aeea4dffe
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Geological_Data
+:END:
+
+#+begin_quote
+Information on a planet's composition, physical structure and
+regional arrangement.
+#+end_quote
+

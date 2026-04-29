@@ -1,0 +1,12 @@
+#+title: Shareholder Information
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       b2145e67-56ad-452e-b176-c8619be0a71d
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Shareholder_Information
+:END:
+
+#+begin_quote
+A list of individuals and groups who have a financial stake in a
+settlement or organisation.
+#+end_quote
+

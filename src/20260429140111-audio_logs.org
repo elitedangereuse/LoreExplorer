@@ -1,0 +1,11 @@
+#+title: Audio Logs
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       ef5d167f-540f-487d-8054-f1eec3d3ac56
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Audio_Logs
+:END:
+
+#+begin_quote
+Scientific observations and measurements of a planet's atmosphere.
+#+end_quote
+

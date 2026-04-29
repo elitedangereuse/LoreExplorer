@@ -1,0 +1,12 @@
+#+title: PH Neutraliser
+#+filetags: :Component:Odyssey:
+:PROPERTIES:
+:ID:       16ed07ab-3e25-467d-9131-e4ee5dd7fa64
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/PH_Neutraliser
+:END:
+
+#+begin_quote
+A compound designed to neutralise the pH levels of acids and
+alkalis.
+#+end_quote
+

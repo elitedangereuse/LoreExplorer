@@ -1,0 +1,15 @@
+#+title: Eccentric Hyperspace Trajectories
+#+filetags: :Encoded:Material:
+:PROPERTIES:
+:ID:       1d2709d6-643f-4959-ba8b-542408b46ce3
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Eccentric_Hyperspace_Trajectories
+:END:
+
+#+begin_quote
+Captured from high energy wakes with a wake scanner.
+
+Hyperspace trajectories follow predictable paths through higher
+dimensional space, although there are sometimes strange results in
+the data not accounted for in current theory.
+#+end_quote
+

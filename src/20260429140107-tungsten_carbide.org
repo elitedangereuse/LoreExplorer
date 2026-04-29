@@ -1,0 +1,11 @@
+#+title: Tungsten Carbide
+#+filetags: :Component:Odyssey:
+:PROPERTIES:
+:ID:       9753bf0e-7d96-4a32-8f86-d140fe22052b
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Tungsten_Carbide
+:END:
+
+#+begin_quote
+A compound of tungsten and carbon.
+#+end_quote
+

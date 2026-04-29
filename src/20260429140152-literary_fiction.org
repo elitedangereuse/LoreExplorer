@@ -1,0 +1,11 @@
+#+title: Literary Fiction
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       206b5c88-fe6f-4c76-a229-541a1a77f08c
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Literary_Fiction
+:END:
+
+#+begin_quote
+Text-based fictional entertainment in a range of genres and styles.
+#+end_quote
+

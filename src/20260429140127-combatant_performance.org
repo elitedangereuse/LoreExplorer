@@ -1,0 +1,12 @@
+#+title: Combatant Performance
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       a5e4efd0-ab71-4188-b8d0-5d71efae76b6
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Combatant_Performance
+:END:
+
+#+begin_quote
+Observational data on a subject's proficiency in ground-based combat
+operations.
+#+end_quote
+

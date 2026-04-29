@@ -1,0 +1,16 @@
+#+title: Focus Crystals
+#+filetags: :Manufactured:Material:
+:PROPERTIES:
+:ID:       25fab416-83c9-4261-850b-f333cccf14c6
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Focus_Crystals
+:END:
+
+#+begin_quote
+Component found in ships: frequently used by combat oriented
+vessels. Known to be salvaged from signal sources in high security
+systems.
+
+Focus crystals are used to direct and concentrate directed energy
+systems - typically lasers.
+#+end_quote
+

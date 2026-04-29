@@ -1,0 +1,12 @@
+#+title: Enhanced Interrogation Recordings
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       8dda9529-bc44-4419-937e-32b7bb03d107
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Enhanced_Interrogation_Recordings
+:END:
+
+#+begin_quote
+Recordings of information gathered from a subject via non-standard
+interview techniques.
+#+end_quote
+

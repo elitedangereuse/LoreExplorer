@@ -1,0 +1,16 @@
+#+title: Flawed Focus Crystals
+#+filetags: :Manufactured:Material:
+:PROPERTIES:
+:ID:       6f614636-6136-4f2c-a45c-6c50538e6122
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Flawed_Focus_Crystals
+:END:
+
+#+begin_quote
+Component found in ships: frequently used by combat oriented
+vessels. Known to be salvaged from signal sources.
+
+These crystals contain minor flaws but can be repaired or re-cut for
+use as focus crystals for directed energy systems like lasers, but
+have not been processed into a useable form.
+#+end_quote
+

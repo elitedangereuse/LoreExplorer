@@ -1,0 +1,17 @@
+#+title: Cracked Industrial Firmware
+#+filetags: :Encoded:Material:
+:PROPERTIES:
+:ID:       fe68ebe2-a42c-4693-be35-73df6407432a
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Cracked_Industrial_Firmware
+:END:
+
+#+begin_quote
+Captured from settlement data point networks. Known to be salvaged
+from signal sources.
+
+Control software for industrial hardware interfaces normally follows
+strict operational and installation guidelines. Cracked versions of
+these can be found, but are often kept secret as such industrial
+espionage is punished severely, making these cracks quite valuable.
+#+end_quote
+

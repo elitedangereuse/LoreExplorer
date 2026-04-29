@@ -1,0 +1,11 @@
+#+title: Personal Computer
+#+filetags: :Good:Odyssey:
+:PROPERTIES:
+:ID:       ea87e38b-4be7-4c3f-8c54-04d5ae6c034e
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Personal_Computer
+:END:
+
+#+begin_quote
+A compact personal computing device.
+#+end_quote
+

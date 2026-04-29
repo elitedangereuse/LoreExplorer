@@ -1,0 +1,11 @@
+#+title: Stellar Activity Logs
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       e2f825cb-e5f9-4d4c-b1b8-218da1113f95
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Stellar_Activity_Logs
+:END:
+
+#+begin_quote
+Measurements of a star's characteristics and related phenomena.
+#+end_quote
+

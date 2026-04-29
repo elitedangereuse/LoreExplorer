@@ -1,5 +1,12 @@
 :PROPERTIES:
 :ID:       ec8eace0-21f5-47d7-8a8c-664c86cec659
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Genetic_Repair_Meds
 :END:
 #+title: Genetic Repair Meds
-#+filetags: :Good:
+#+filetags: :Good:Odyssey:
+
+#+begin_quote
+Sophisticated pharmaceuticals designed to target and replace damaged
+or mutated genes.
+#+end_quote
+

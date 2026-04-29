@@ -1,0 +1,12 @@
+#+title: InSight Entertainment Suite
+#+filetags: :Good:Odyssey:
+:PROPERTIES:
+:ID:       e8ca1478-d1cc-44f2-9e7c-4aff982e496a
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/InSight_Entertainment_Suite
+:END:
+
+#+begin_quote
+A selection of augmented-reality games for use with an InSight
+device.
+#+end_quote
+

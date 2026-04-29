@@ -1,0 +1,15 @@
+#+title: Worn Shield Emitters
+#+filetags: :Manufactured:Material:
+:PROPERTIES:
+:ID:       37e42215-28db-41e1-9b39-7221d1951a1a
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Worn_Shield_Emitters
+:END:
+
+#+begin_quote
+Component found in ships: frequently used by combat oriented
+vessels. Known to be salvaged from signal sources.
+
+These are used shield emitters, although the core components can be
+cannibalised.
+#+end_quote
+

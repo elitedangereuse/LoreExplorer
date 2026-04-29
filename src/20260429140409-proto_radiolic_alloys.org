@@ -1,0 +1,14 @@
+#+title: Proto Radiolic Alloys
+#+filetags: :Manufactured:Material:
+:PROPERTIES:
+:ID:       6d97ecd5-59e3-4aa2-8b02-0c3ee9407e94
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Proto_Radiolic_Alloys
+:END:
+
+#+begin_quote
+Specialist component developed during economic boom. Known to be
+salvaged from signal sources.
+
+These advanced alloys use radiation to form complex materials.
+#+end_quote
+

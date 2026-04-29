@@ -1,0 +1,12 @@
+#+title: Epinephrine
+#+filetags: :Component:Odyssey:
+:PROPERTIES:
+:ID:       fc53b141-2411-4a82-9cf0-989c58aee1f0
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Epinephrine
+:END:
+
+#+begin_quote
+A synthesised hormone that increases cardiac output and raises
+blood-glucose levels.
+#+end_quote
+

@@ -1,0 +1,16 @@
+#+title: Classified Scan Fragment
+#+filetags: :Encoded:Material:
+:PROPERTIES:
+:ID:       6df54706-ae75-4c61-9050-edcd132388b7
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Classified_Scan_Fragment
+:END:
+
+#+begin_quote
+Captured from settlement data point networks.
+
+Some sensor systems will automatically squirt data batches when they
+encounter certain contact profiles. The nature of these profiles is
+usually kept a secret, but there is a demand in certain quarters for
+any captures of this data.
+#+end_quote
+

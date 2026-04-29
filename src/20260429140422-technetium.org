@@ -1,0 +1,16 @@
+#+title: Technetium
+#+filetags: :Raw:Material:
+:PROPERTIES:
+:ID:       40209410-e368-4230-9ca8-d4e11ce8f2cd
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Technetium
+:END:
+
+#+begin_quote
+Collected on planet surfaces.
+
+Technetium, Tc, atomic number 43. Melting point 2430K. Technetium in
+various isotope forms is used in medical imaging technology as well
+as a catalyst. Its stable beta decay makes it suitable for
+calibration and radioactive testing.
+#+end_quote
+

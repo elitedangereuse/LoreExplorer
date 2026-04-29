@@ -1,0 +1,12 @@
+#+title: Security Expenses
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       185517ee-b18e-4b58-8a47-7207d8fd773e
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Security_Expenses
+:END:
+
+#+begin_quote
+Financial details for equipment and personnel used to maintain a
+settlement's security force.
+#+end_quote
+

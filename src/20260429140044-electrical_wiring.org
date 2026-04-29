@@ -1,0 +1,11 @@
+#+title: Electrical Wiring
+#+filetags: :Component:Odyssey:
+:PROPERTIES:
+:ID:       8c775224-a3a0-429d-88f5-ba309f10f0a0
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Electrical_Wiring
+:END:
+
+#+begin_quote
+Multipurpose wiring for use in a variety of electronic devices.
+#+end_quote
+

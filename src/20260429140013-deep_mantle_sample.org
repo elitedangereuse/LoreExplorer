@@ -1,0 +1,11 @@
+#+title: Deep Mantle Sample
+#+filetags: :Good:Odyssey:
+:PROPERTIES:
+:ID:       6e5102d1-e27d-4cea-9e95-581650cbccc3
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Deep_Mantle_Sample
+:END:
+
+#+begin_quote
+A sample from the innermost part of a geological body's mantle.
+#+end_quote
+

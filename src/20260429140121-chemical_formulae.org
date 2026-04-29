@@ -1,0 +1,12 @@
+#+title: Chemical Formulae
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       1c077ce7-0252-4c7f-a31b-958d0631bd4c
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Chemical_Formulae
+:END:
+
+#+begin_quote
+Data related to the classification and research applications of
+newly developed chemicals.
+#+end_quote
+

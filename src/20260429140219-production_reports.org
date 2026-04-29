@@ -1,0 +1,11 @@
+#+title: Production Reports
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       068ca71e-3c55-400e-ba2f-7b13ed4f5539
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Production_Reports
+:END:
+
+#+begin_quote
+Work logs that collate information on cost, output and requirements.
+#+end_quote
+

@@ -1,0 +1,12 @@
+#+title: Production Schedule
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       947ed9ad-21c7-4cef-8e63-394578f88980
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Production_Schedule
+:END:
+
+#+begin_quote
+A detailed timetable outlining machine allocations, worker
+requirements and associated deadlines.
+#+end_quote
+

@@ -1,0 +1,15 @@
+#+title: Heat Conduction Wiring
+#+filetags: :Manufactured:Material:
+:PROPERTIES:
+:ID:       e70ca633-1fd7-4627-be50-3fc4477e587c
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Heat_Conduction_Wiring
+:END:
+
+#+begin_quote
+Component found in ships: frequently used by haulage vessels.
+Destroyed haulage vessels can be scavenged from the aftermath of
+combat in shipping lanes. Known to be salvaged from signal sources.
+
+Heat conduction wiring is used to transfer heat through a material.
+#+end_quote
+

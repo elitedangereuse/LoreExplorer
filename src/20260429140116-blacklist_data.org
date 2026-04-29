@@ -1,0 +1,12 @@
+#+title: Blacklist Data
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       dd65f74c-d7c4-41e5-a705-1a33efd165e8
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Blacklist_Data
+:END:
+
+#+begin_quote
+Sensitive information regarding individuals and/or groups deemed
+untrustworthy or dangerous.
+#+end_quote
+

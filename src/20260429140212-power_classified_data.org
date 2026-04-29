@@ -1,0 +1,11 @@
+#+title: Power Classified Data
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       9b73a095-7f7e-4641-a299-1c50b57ad8ef
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Power_Classified_Data
+:END:
+
+#+begin_quote
+Classified data records kept by known Power agents at a settlement.
+#+end_quote
+

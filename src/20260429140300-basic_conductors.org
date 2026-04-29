@@ -1,0 +1,16 @@
+#+title: Basic Conductors
+#+filetags: :Manufactured:Material:
+:PROPERTIES:
+:ID:       9363911b-8cb3-4662-bd28-ce2b9d5472ad
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Basic_Conductors
+:END:
+
+#+begin_quote
+Component found in ships: frequently used by haulage vessels.
+Destroyed haulage vessels can be scavenged from the aftermath of
+combat in shipping lanes. Known to be salvaged from signal sources.
+
+Basic conductors control the ability of electricity to flow within
+the system.
+#+end_quote
+

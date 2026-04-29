@@ -1,0 +1,11 @@
+#+title: Aerogel
+#+filetags: :Component:Odyssey:
+:PROPERTIES:
+:ID:       a81d2e25-190f-4d68-92cf-b1a02933906f
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Aerogel
+:END:
+
+#+begin_quote
+An extremely lightweight thermal insulator.
+#+end_quote
+

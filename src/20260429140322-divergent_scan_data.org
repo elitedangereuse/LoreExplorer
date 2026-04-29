@@ -1,0 +1,16 @@
+#+title: Divergent Scan Data
+#+filetags: :Encoded:Material:
+:PROPERTIES:
+:ID:       25f9c44a-0395-4ef8-89a1-70b5f64db07a
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Divergent_Scan_Data
+:END:
+
+#+begin_quote
+Captured from settlement data point networks.
+
+Scan data usually forms a large data set, with only a small quantity
+of pertinent information. For the most part these are easily
+analysed, but some sensor data has unusual properties and while this
+is often caused by a malfunction can yield some interesting results.
+#+end_quote
+

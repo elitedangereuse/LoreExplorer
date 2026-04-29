@@ -1,0 +1,12 @@
+#+title: Espionage Material
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       762a66d3-c7f1-4653-a6dd-3b210c7ba151
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Espionage_Material
+:END:
+
+#+begin_quote
+Highly sensitive data on an individual or group acquired without the
+target's knowledge.
+#+end_quote
+

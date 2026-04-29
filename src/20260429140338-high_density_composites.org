@@ -1,0 +1,16 @@
+#+title: High Density Composites
+#+filetags: :Manufactured:Material:
+:PROPERTIES:
+:ID:       0fe6de86-d426-4c10-bd29-b54e675b8604
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/High_Density_Composites
+:END:
+
+#+begin_quote
+Component found in ships: frequently used by military and authority
+vessels. Known to be salvaged from signal sources in low security
+systems.
+
+High density composites pack the materials into extremely dense
+layers for added protection.
+#+end_quote
+

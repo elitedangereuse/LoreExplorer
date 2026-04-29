@@ -1,0 +1,12 @@
+#+title: Chemical Weapon Data
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       c6d475d9-925e-429d-a49b-2aaf58a910b4
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Chemical_Weapon_Data
+:END:
+
+#+begin_quote
+Information about chemical-based armaments and their effects on both
+organic and non-organic targets.
+#+end_quote
+

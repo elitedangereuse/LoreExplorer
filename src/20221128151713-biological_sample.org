@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       70557ed0-463a-4cb3-99a8-379ab456e61a
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Biological_Sample
 :END:
 #+title: Biological Sample
-#+filetags: :Good:
+#+filetags: :Good:Odyssey:

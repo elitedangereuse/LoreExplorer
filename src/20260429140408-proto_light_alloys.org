@@ -1,0 +1,15 @@
+#+title: Proto Light Alloys
+#+filetags: :Manufactured:Material:
+:PROPERTIES:
+:ID:       dd6919c9-c463-418f-ad54-729468d24e52
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Proto_Light_Alloys
+:END:
+
+#+begin_quote
+Specialist component developed during economic boom. Known to be
+salvaged from signal sources.
+
+Proto light alloys are experimental alloy techniques used to reduce
+the required mass for the alloy.
+#+end_quote
+

@@ -1,0 +1,15 @@
+#+title: Mechanical Scrap
+#+filetags: :Manufactured:Material:
+:PROPERTIES:
+:ID:       5447dac0-be88-4994-9aa5-b698e7d8039f
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Mechanical_Scrap
+:END:
+
+#+begin_quote
+Component found in ships: frequently used by haulage vessels.
+Destroyed haulage vessels can be scavenged from the aftermath of
+combat in shipping lanes. Known to be salvaged from signal sources.
+
+Assorted scrap from mechanical sources.
+#+end_quote
+

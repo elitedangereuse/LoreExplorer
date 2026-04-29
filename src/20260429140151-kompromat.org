@@ -1,0 +1,12 @@
+#+title: Kompromat
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       c1094952-aaa9-4c9c-9d87-0512076aed79
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Kompromat
+:END:
+
+#+begin_quote
+Highly sensitive material used to compromise, blackmail or
+manipulate individuals or groups.
+#+end_quote
+

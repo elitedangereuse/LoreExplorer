@@ -1,0 +1,12 @@
+#+title: Campaign Plans
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       a0f7ca52-ee33-4c5a-9fbf-524a4c85bcc8
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Campaign_Plans
+:END:
+
+#+begin_quote
+Information, schedules and objectives for a large-scale public
+initiative.
+#+end_quote
+

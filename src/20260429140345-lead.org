@@ -1,0 +1,19 @@
+#+title: Lead
+#+filetags: :Raw:Material:
+:PROPERTIES:
+:ID:       ad1a15d6-c429-4d84-b032-ca0dc20782d3
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Lead
+:END:
+
+#+begin_quote
+Collected from mining asteroids.
+
+Lead is a heavy metal with a higher density than most other common
+materials. Although lead's toxicity has been recognised for several
+centuries it is still used in a large range of processes due to its
+low cost.
+
+Lead is used in munitions, solders, fusible alloys and radiation
+shielding.
+#+end_quote
+

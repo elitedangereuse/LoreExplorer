@@ -1,0 +1,15 @@
+#+title: Vanadium
+#+filetags: :Raw:Material:
+:PROPERTIES:
+:ID:       83a34bbb-30cc-4e21-8616-1240dd2b8119
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Vanadium
+:END:
+
+#+begin_quote
+Collected on planet surfaces and from asteroids.
+
+Vanadium, V, atomic number 23. Melting point 2183K. Vanadium is
+primarily used for making alloys, but also as a catalyst in various
+chemical processes.
+#+end_quote
+

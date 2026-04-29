@@ -1,0 +1,12 @@
+#+title: Xeno-Defence Protocols
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       0c3b7a7b-f6b3-4ec0-be9b-17cdb0e79d84
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Xeno-Defence_Protocols
+:END:
+
+#+begin_quote
+Combatant tactics and settlement instructions in the event of a non-
+human attack.
+#+end_quote
+

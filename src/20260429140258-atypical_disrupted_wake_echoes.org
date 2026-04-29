@@ -1,0 +1,15 @@
+#+title: Atypical Disrupted Wake Echoes
+#+filetags: :Encoded:Material:
+:PROPERTIES:
+:ID:       8376ae9b-af09-4e3f-8c78-07c3205858c6
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Atypical_Disrupted_Wake_Echoes
+:END:
+
+#+begin_quote
+Captured from high energy wakes with a wake scanner.
+
+Data recorded from a disrupted frame shift wake usually follows a
+familiar pattern. Sometimes these show abnormalities which often
+makes the data more valuable.
+#+end_quote
+

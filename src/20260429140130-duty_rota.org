@@ -1,0 +1,12 @@
+#+title: Duty Rota
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       3eb30029-51c2-47fc-b5fc-dbecfb377238
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Duty_Rota
+:END:
+
+#+begin_quote
+Details of the activities and schedules of all personnel at a
+settlement.
+#+end_quote
+

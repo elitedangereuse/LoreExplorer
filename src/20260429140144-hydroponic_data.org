@@ -1,0 +1,12 @@
+#+title: Hydroponic Data
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       878a471a-2d57-43d4-a10c-e51b4548fb2d
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Hydroponic_Data
+:END:
+
+#+begin_quote
+Horticultural analysis and results from using soilless methods of
+plant growth.
+#+end_quote
+

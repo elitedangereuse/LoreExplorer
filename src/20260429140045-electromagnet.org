@@ -1,0 +1,12 @@
+#+title: Electromagnet
+#+filetags: :Component:Odyssey:
+:PROPERTIES:
+:ID:       e84760fa-279d-4ad1-a187-23d8b3203f79
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Electromagnet
+:END:
+
+#+begin_quote
+A magnet in which the magnetic field is produced by an electric
+current.
+#+end_quote
+

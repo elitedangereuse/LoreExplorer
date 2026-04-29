@@ -1,0 +1,11 @@
+#+title: Nutritional Concentrate
+#+filetags: :Good:Odyssey:
+:PROPERTIES:
+:ID:       b13c5e5f-7bbb-4cfb-997e-293e12c21077
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Nutritional_Concentrate
+:END:
+
+#+begin_quote
+A nutritionally rich meal-replacement product.
+#+end_quote
+

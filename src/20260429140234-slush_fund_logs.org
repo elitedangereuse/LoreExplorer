@@ -1,0 +1,12 @@
+#+title: Slush Fund Logs
+#+filetags: :Data:Odyssey:
+:PROPERTIES:
+:ID:       670da285-c915-4ee6-bc53-08fad2726477
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Slush_Fund_Logs
+:END:
+
+#+begin_quote
+Details of credit accounts which lack proper accounting, usually for
+illicit reasons.
+#+end_quote
+
