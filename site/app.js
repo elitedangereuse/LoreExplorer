@@ -144,8 +144,11 @@ const state = {
 };
 
 const INVESTIGATION_STORAGE_KEY = "org-roam-investigator-v1";
+const DISPLAY_SETTINGS_STORAGE_KEY = "org-roam-display-settings-v1";
 const INVESTIGATION_EXPORT_TYPE = "org-roam-investigation-layer";
 const INVESTIGATION_SCHEMA_VERSION = 1;
+const COLOR_MODES = new Set(["group", "links", "backlinks", "primary-tag"]);
+const SHAPE_MODES = new Set(["none", "semantic"]);
 const INVESTIGATION_LINK_RE = /\[\[((?:node|id):([^[\]]+))\](?:\[([^\]]+)\])?\]\]/g;
 const LAYER_COLOR_PALETTE = [
   "#ffd46b",
@@ -1030,6 +1033,42 @@ function loadInvestigationState() {
   }
 }
 
+function saveDisplaySettings() {
+  const storage = getStorage();
+  if (!storage) {
+    return;
+  }
+  storage.setItem(
+    DISPLAY_SETTINGS_STORAGE_KEY,
+    JSON.stringify({
+      colorMode: state.colorMode,
+      shapeMode: state.shapeMode,
+    }),
+  );
+}
+
+function loadDisplaySettings() {
+  const storage = getStorage();
+  if (!storage) {
+    return;
+  }
+  const raw = storage.getItem(DISPLAY_SETTINGS_STORAGE_KEY);
+  if (!raw) {
+    return;
+  }
+  try {
+    const parsed = JSON.parse(raw);
+    if (COLOR_MODES.has(parsed.colorMode)) {
+      state.colorMode = parsed.colorMode;
+    }
+    if (SHAPE_MODES.has(parsed.shapeMode)) {
+      state.shapeMode = parsed.shapeMode;
+    }
+  } catch {
+    storage.removeItem(DISPLAY_SETTINGS_STORAGE_KEY);
+  }
+}
+
 function setActiveLayer(layerId, { shouldRender = true, shouldFit = false } = {}) {
   if (!layerId || layerId === state.activeLayerId) {
     if (shouldRender) {
@@ -1121,6 +1160,13 @@ function interpolateColor(startHex, endHex, ratio) {
   const end = endHex.match(/\w\w/g).map((part) => Number.parseInt(part, 16));
   const channels = start.map((channel, index) => Math.round(channel + (end[index] - channel) * ratio));
   return `rgb(${channels[0]}, ${channels[1]}, ${channels[2]})`;
+}
+
+function interpolateColorRamp(stops, ratio) {
+  const clamped = clamp(ratio, 0, 1);
+  const scaled = clamped * (stops.length - 1);
+  const index = Math.min(stops.length - 2, Math.floor(scaled));
+  return interpolateColor(stops[index], stops[index + 1], scaled - index);
 }
 
 function classifySemanticShape(node) {
@@ -1306,9 +1352,12 @@ function buildAppearanceData() {
       if (!values.length) {
         return [key, { min: 0, max: 1 }];
       }
+      const sorted = [...values].sort((left, right) => left - right);
+      const percentileIndex = Math.floor((sorted.length - 1) * 0.96);
+      const displayMax = Math.max(1, sorted[percentileIndex] || 1);
       return [key, {
-        min: Math.min(...values),
-        max: Math.max(...values),
+        min: 0,
+        max: displayMax,
       }];
     }),
   );
@@ -1345,10 +1394,9 @@ function getNodeColor(node) {
 
   const normalized = logNormalize(metric, range.min, range.max);
 
-  // Optional: keep or reduce easing. With log normalization, 0.7 may be too strong.
-  const eased = Math.pow(normalized, 0.9);
+  const eased = Math.pow(normalized, 0.72);
 
-  return interpolateColor("#37689b", "#ffd46b", eased);
+  return interpolateColorRamp(["#1f3b73", "#1ba6b8", "#ffd46b", "#ff7a45"], eased);
 }
 
 function getNodeMetricValue(node, mode) {
@@ -5146,10 +5194,12 @@ function bindEvents() {
   });
   colorModeSelect.addEventListener("change", (event) => {
     state.colorMode = event.target.value;
+    saveDisplaySettings();
     render();
   });
   shapeModeSelect.addEventListener("change", (event) => {
     state.shapeMode = event.target.value;
+    saveDisplaySettings();
     render();
   });
   contextInspectNodeButton.addEventListener("click", () => {
@@ -6069,6 +6119,7 @@ async function bootstrap() {
   bindEvents();
   resizeCanvas();
   loadInvestigationState();
+  loadDisplaySettings();
 
   const graphResponse = await fetchWithRetry("./data/graph.json");
   const searchResponse = await fetchWithRetry("./data/search-docs.json");
