@@ -1,8 +1,15 @@
 :PROPERTIES:
 :ID:       04ba4637-336a-46c7-bab0-3ac12f16b2f9
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Achilles_Corporation
 :END:
 #+title: Achilles Corporation
-#+filetags: :Corporation:
+#+filetags: :Corporation:Independent:
+
+* Fandom list entry
+- Sector (GICS): Consumer Discretionary, Industrials
+- Allegiance: Independent
+
+Rapacious robotics and skimmer manufacturer.
 
 * The Achilles Corporation
 
