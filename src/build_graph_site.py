@@ -405,9 +405,10 @@ def load_notes(db_path: Path, src_dir: Path) -> tuple[dict[str, Note], list[tupl
             add_link(node_id, target[3:])
 
     for node_id, note in notes.items():
-        # File tags are the source of truth during local edits; the org-roam DB
-        # can lag until it is refreshed by Emacs.
-        note.tags = sorted(dict.fromkeys([*tags[node_id], *file_tags.get(node_id, [])]))
+        # Explicit file tags are authoritative during local edits. Fall back to
+        # the org-roam DB only for files without a #+filetags line.
+        file_tag_values = file_tags.get(node_id, [])
+        note.tags = sorted(dict.fromkeys(file_tag_values or tags[node_id]))
         note.aliases = sorted(dict.fromkeys(aliases[node_id] or file_aliases.get(node_id, [])))
         note.refs = list(dict.fromkeys(file_refs.get(node_id, [])))
 

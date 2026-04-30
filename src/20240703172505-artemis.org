@@ -4,4 +4,6 @@
 #+title: Artemis
 #+filetags: :ship:
 
-[[id:951f3d20-c3aa-41cc-ba58-cc7d3a5a1d07][Generation Ship]]
+The Artemis was a [[id:951f3d20-c3aa-41cc-ba58-cc7d3a5a1d07][generation ship]] located at [[id:1e062b8e-1e6d-4b48-adba-fa4dd58475d8][Mu Cassiopeia C 1]] in the [[id:1120125c-66a4-46fa-a931-d3950b0051dc][Mu Cassiopeia]] system.
+
+Its crew descended into barbarism.

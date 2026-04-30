@@ -4,4 +4,6 @@
 #+title: Thetis
 #+filetags: :ship:
 
-[[id:951f3d20-c3aa-41cc-ba58-cc7d3a5a1d07][Generation Ship]]
+The Thetis is a [[id:951f3d20-c3aa-41cc-ba58-cc7d3a5a1d07][generation ship]] orbiting [[id:9043e322-1b78-4e56-b487-29f4363ba18b][Nefertem 6 a]].
+
+Its recovered logs describe a whispered phrase from an uninhabited planet that caused over 17,000 people to slaughter each other.

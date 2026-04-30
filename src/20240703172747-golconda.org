@@ -4,4 +4,6 @@
 #+title: Golconda
 #+filetags: :ship:
 
-[[id:951f3d20-c3aa-41cc-ba58-cc7d3a5a1d07][Generation Ship]]
+The Golconda is a [[id:951f3d20-c3aa-41cc-ba58-cc7d3a5a1d07][generation ship]] discovered in the [[id:361a46f2-79c4-40bf-9781-4066763914f3][Upaniklis]] system with a living population aboard.
+
+Its inhabitants later occupied [[id:d87d30e1-1624-4337-a252-64085c3c4c27][Forester's Choice]] on [[id:240cb7c7-e94f-46b8-bbda-021a0d0ea538][Upaniklis B 3]]. The ship was associated with [[id:62c30f25-2c97-444a-8572-7169cfbf1ab5][The Wasting Kiss]], former captain [[id:24bc363b-5b71-4968-96b9-2feae4296068][Jonathon Forester]], and later repairs by the [[id:c790ca5d-65c5-4e8e-a278-7fbd11a5f092][Artificers Clan]].
