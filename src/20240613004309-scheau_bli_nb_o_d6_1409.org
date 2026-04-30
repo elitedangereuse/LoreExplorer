@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       ae972c2e-6b57-45c2-95bb-988a9e00ec0b
+:ROAM_ALIASES: "Scheau Bli NB-O d6-1409"
 :END:
 #+title: Scheau Bli NB-O D6-1409
 #+filetags: :System:Permit:Security:Locked:

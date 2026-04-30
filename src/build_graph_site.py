@@ -353,6 +353,8 @@ def load_notes(db_path: Path, src_dir: Path) -> tuple[dict[str, Note], list[tupl
     for row in connection.execute("SELECT id, file, COALESCE(title, '') AS title FROM nodes"):
         node_id = clean_db_text(row["id"])
         note_path = resolve_note_path(clean_db_text(row["file"]), src_dir)
+        if not note_path.exists():
+            continue
         title = clean_db_text(row["title"]).strip() or note_path.stem
         notes[node_id] = Note(node_id=node_id, title=title, file=note_path)
 
