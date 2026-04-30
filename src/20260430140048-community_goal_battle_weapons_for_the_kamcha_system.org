@@ -1,0 +1,40 @@
+:PROPERTIES:
+:ID:       5bc7e797-f2f4-4c5f-a89b-56b0c9668906
+:ROAM_REFS: file:../references/Community%20Goals/Battle_weapons_for_the_Kamcha_system.md
+:END:
+#+title: Community Goal: Battle weapons for the Kamcha system
+#+filetags: :CommunityGoal:3301:
+
+* Location
+
+Saarinen Station | Kamcha
+
+* Objective
+
+Sell Battle Weapon to Saarinen Station's black market
+
+* Progress
+
+Tier 4/6
+
+* Contributors
+
+734
+
+* Contributions
+
+0
+
+* End
+
+27 Aug 2015, 2:04pm
+
+* Status
+
+Finished
+
+Emperor's Dawn has issued an open contract for Battle Weapons with
+which to fulfil various private military commitments. The organisation
+has access to considerable reserves, and is offering a series of
+generous incentives to pilots who deliver Battle Weapons to Saarinen
+Station until such time as its targets have been met.
