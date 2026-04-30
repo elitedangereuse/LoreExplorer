@@ -8,11 +8,11 @@
 
 /10 May 3309/
 
-Aegis has confirmed that the first ships equipped with Thargoid pulse neutralisers have entered the inner regions of the Maelstroms.
+[[id:85d9e888-3f5b-40ed-b8af-2eb87e42b0d0][Aegis]] has confirmed that the first ships equipped with Thargoid pulse neutralisers have entered the inner regions of the Maelstroms.
 
 The new module provides a temporary shield against the electromagnetic pulse that is generated when ships reach a certain point within the Maelstroms. Until now, this has prevented all attempts to identify what Thargoid constructs may exist within the caustic clouds.
 
-Rear Admiral [[id:ed4b3d38-5851-4ba5-b6dd-a0f12a2d7431][Daniel Parry]], the [[id:3d268496-1d95-49bc-aca6-49d16a4337c8][Federal Navy]]’s liaison to Aegis, reported:
+Rear Admiral [[id:ed4b3d38-5851-4ba5-b6dd-a0f12a2d7431][Daniel Parry]], the [[id:3d268496-1d95-49bc-aca6-49d16a4337c8][Federal Navy]]’s liaison to [[id:85d9e888-3f5b-40ed-b8af-2eb87e42b0d0][Aegis]], reported:
 
 “Armed ships crewed by military and xenology specialists have now been sent into each Maelstrom. These pathfinder missions will attempt to gather as much tactical and environmental data as possible.”
 
@@ -20,6 +20,6 @@ Rear Admiral [[id:ed4b3d38-5851-4ba5-b6dd-a0f12a2d7431][Daniel Parry]], the [[id
 
 A secondary statement was provided by Commodore [[id:ea65b87f-ab9d-4e9b-9ea2-49ce7d805aa5][Emil Varga]], the Alliance’s military liaison:
 
-“If the preliminary data obtained by independent pilots is accurate, one common factor is that they encountered a significant Thargoid presence. Aegis warns all pilots that they enter the Maelstroms at their own risk, and should prepare for combat situations.”
+“If the preliminary data obtained by independent pilots is accurate, one common factor is that they encountered a significant Thargoid presence. [[id:85d9e888-3f5b-40ed-b8af-2eb87e42b0d0][Aegis]] warns all pilots that they enter the Maelstroms at their own risk, and should prepare for combat situations.”
 
 “All of the eight systems containing Maelstroms are still affected by the same anti-Guardian field that was first witnessed in [[id:55088d83-4221-44fa-a9d5-6ebb0866c722][HIP 22460]]. Therefore, weapons based on Guardian technology will not function and should be replaced with other anti-xeno armaments.”

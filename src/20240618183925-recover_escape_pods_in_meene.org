@@ -10,7 +10,7 @@
 
 Following a skirmish with a group of mercenaries, security forces in the Meene system have launched an operation to capture enemy agents in order to investigate the attack.
 
-Security Chief [[id:0bd61b69-66c6-4be7-abfc-0395734bdc72][Harper Vargas]] of the Meene Defence Force gave the following statement:
+Security Chief [[id:0bd61b69-66c6-4be7-abfc-0395734bdc72][Harper Vargas]] of the [[id:f36afa96-d3df-40d8-bf67-13cbe388e889][Meene Defence Force]] gave the following statement:
 
 “The mercenaries were targeting [[id:4551539e-a6b2-4c45-8923-40fb603202b7][Ram Tah]]’s Phoenix Base, but it’s clear they were just hired hands. We need to recover as many surviving mercenaries as we can and interrogate them, so we can find the real culprits.”
 

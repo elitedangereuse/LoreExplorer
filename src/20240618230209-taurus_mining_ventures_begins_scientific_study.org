@@ -10,7 +10,7 @@
 
 The megaships Musashi and [[id:f10f7c83-9d29-470c-a640-1a3e5334b686][Heart of Taurus]] have entered the Synuefe CE-R c21-6 system to perform a mining-related research operation.
 
-Taurus Mining Ventures is an independent mining corporation closely associated with [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]. It has acted as his intermediary in recent months, directly supporting his efforts to combat the Thargoids.
+[[id:5d339d87-3edb-4938-984a-49708bf6b65f][Taurus Mining Ventures]] is an independent mining corporation closely associated with [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]. It has acted as his intermediary in recent months, directly supporting his efforts to combat the Thargoids.
 
 Dr [[id:ff0506b5-950b-47b0-95a1-bc095a7dab95][Ruben Carpenter]], head of the company’s research division, provided a statement:
 
@@ -20,4 +20,4 @@ Dr [[id:ff0506b5-950b-47b0-95a1-bc095a7dab95][Ruben Carpenter]], head of the com
 
 The Empirical, an independent journal aimed at the scientific community, commented:
 
-“As yet, the detection of atypical radiation signatures within CE-R c21-6 has not been verified by secondary sources. Our editorial team has reached out to Taurus Mining Ventures for clarification.”
+“As yet, the detection of atypical radiation signatures within CE-R c21-6 has not been verified by secondary sources. Our editorial team has reached out to [[id:5d339d87-3edb-4938-984a-49708bf6b65f][Taurus Mining Ventures]] for clarification.”

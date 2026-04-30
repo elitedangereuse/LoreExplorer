@@ -8,10 +8,10 @@
 
 /08 Jun 3304/
 
-The campaign by Aegis Core to fund the refurbishment of starports in the core systems has now ended. A large quantity of construction materials were delivered to Dantec Enterprise. 
+The campaign by [[id:85d9e888-3f5b-40ed-b8af-2eb87e42b0d0][Aegis]] Core to fund the refurbishment of starports in the core systems has now ended. A large quantity of construction materials were delivered to Dantec Enterprise.
 
-[[id:fa943255-7f7c-4ac5-b8ac-86c78b156512][Carter Armstrong]], chief administrator for the project, announced his thanks: 
+[[id:fa943255-7f7c-4ac5-b8ac-86c78b156512][Carter Armstrong]], chief administrator for the project, announced his thanks:
 
-“The galactic community has really pulled through for us. These materials will be put to good use in repairing the damage caused by Thargoid attacks. We’ll soon have these starports restored and offering the high-quality services you’d expect.” 
+“The galactic community has really pulled through for us. These materials will be put to good use in repairing the damage caused by Thargoid attacks. We’ll soon have these starports restored and offering the high-quality services you’d expect.”
 
 Pilots who made deliveries for this initiative can now collect their rewards from Dantec Enterprise in the [[id:092e7139-1d8c-45d1-89ce-615326e10853][Socho]] system.

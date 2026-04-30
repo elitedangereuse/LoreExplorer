@@ -10,7 +10,7 @@
 
 The Distant Worlds II expedition has reached its final destination on the far side of the galaxy: the [[id:80ea667a-62b4-4082-bed0-ce253d76869b][Beagle Point]] system.
 
-Science correspondent [[id:f47499fd-ddf1-426e-b7fa-08a0df2d65ac][Leon Banerjee]] reported for Vox Galactica:
+Science correspondent [[id:f47499fd-ddf1-426e-b7fa-08a0df2d65ac][Leon Banerjee]] reported for [[id:4ab0f53c-0b85-43a3-83ca-b9e88c0db30e][Vox Galactica]]:
 
 “The Distant Worlds exploratory fleet, comprising thousands of independent pilots, set out from the [[id:4ccdf1db-68db-4935-8cac-b6d23e01d78d][Pallaeni]] system on 13th January 3305. Over three months later, after travelling more than 73,000 light years, ships have begun arriving at [[id:80ea667a-62b4-4082-bed0-ce253d76869b][Beagle Point]].”
 

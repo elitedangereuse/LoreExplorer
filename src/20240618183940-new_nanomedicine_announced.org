@@ -8,7 +8,7 @@
 
 /06 Dec 3304/
 
-Independent company Vitadyne Labs has developed an innovative new form of nanomedicine.
+Independent company [[id:77d8c368-863a-42f1-af95-99fc0b7bd5c3][Vitadyne Labs]] has developed an innovative new form of nanomedicine.
 
 Professor [[id:c39e36c5-83ba-4e22-8dc1-c5705b33910a][Katrien Rook]] published the following press release:
 
@@ -16,4 +16,4 @@ Professor [[id:c39e36c5-83ba-4e22-8dc1-c5705b33910a][Katrien Rook]] published th
 
 “Furthermore, regular use of nanomeds affects cellular senescence, drastically slowing the ageing process. In theory, nanomed users will live between 30 and 50 years longer, and will enjoy near-perfect health during those extra decades.”
 
-“After months of trials we are inviting medical authorities, including the Interstellar Health Organisation, to review our data. Pending approval, we hope to have Vitadyne nanomeds on the market soon.”
+“After months of trials we are inviting medical authorities, including the [[id:50320afd-f184-4f90-a94b-802400bb39a8][Interstellar Health Organisation]], to review our data. Pending approval, we hope to have Vitadyne nanomeds on the market soon.”

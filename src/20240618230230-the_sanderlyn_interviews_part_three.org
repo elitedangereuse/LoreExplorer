@@ -8,11 +8,11 @@
 
 /01 May 3308/
 
-The journalist [[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]] of Vox Galactica was recently invited to conduct rare public interviews with admirals of the three superpowers.
+The journalist [[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]] of [[id:4ab0f53c-0b85-43a3-83ca-b9e88c0db30e][Vox Galactica]] was recently invited to conduct rare public interviews with admirals of the three superpowers.
 
 This excerpt is from a conversation with Admiral [[id:ba8a8802-bcb4-40c2-963e-52e33699797a][Rachel Ziegler]] of the Alliance.
 
-[[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]]: This is [[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]] reporting for Vox Galactica. I am here with Admiral [[id:ba8a8802-bcb4-40c2-963e-52e33699797a][Rachel Ziegler]] of the Alliance. I’m pleased to have this opportunity to speak with you, Admiral.
+[[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]]: This is [[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]] reporting for [[id:4ab0f53c-0b85-43a3-83ca-b9e88c0db30e][Vox Galactica]]. I am here with Admiral [[id:ba8a8802-bcb4-40c2-963e-52e33699797a][Rachel Ziegler]] of the Alliance. I’m pleased to have this opportunity to speak with you, Admiral.
 
  [[id:ba8a8802-bcb4-40c2-963e-52e33699797a][Rachel Ziegler]]: You’re welcome.
 

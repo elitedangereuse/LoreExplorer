@@ -10,13 +10,13 @@
 
 Titan Taranis is under siege, taking major damage, and close to presenting a major turning point in the war against the Thargoids. This is an urgent call to all independent pilots to aid in the complete defeat of a Titan.
 
-A recent surge of financial support has allowed Aegis to remove the material requirements for the following key modules:
+A recent surge of financial support has allowed [[id:85d9e888-3f5b-40ed-b8af-2eb87e42b0d0][Aegis]] to remove the material requirements for the following key modules:
 
 - The [[id:26caa006-c4e8-4430-b8af-57d3df0ce9c7][Thargoid Pulse Neutraliser]] – the key to punching through the maelstrom’s defensive field and reach the centre.
 
 - The Caustic Sink Launcher – a valuable tool to protect ships from the aggressive caustic fog permeating the cloud around the Titan.
 
-This funding originated from numerous groups and individuals following the news about [[id:4551539e-a6b2-4c45-8923-40fb603202b7][Ram Tah]]’s Guardian Nanite Torpedo technology being deployed to great effect against Taranis. Aegis wish to express that humanity will be forever grateful to those who risked their lives to make this happen.
+This funding originated from numerous groups and individuals following the news about [[id:4551539e-a6b2-4c45-8923-40fb603202b7][Ram Tah]]’s Guardian Nanite Torpedo technology being deployed to great effect against Taranis. [[id:85d9e888-3f5b-40ed-b8af-2eb87e42b0d0][Aegis]] wish to express that humanity will be forever grateful to those who risked their lives to make this happen.
 
 Good luck, Commanders.
 

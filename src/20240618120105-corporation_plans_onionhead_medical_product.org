@@ -8,11 +8,11 @@
 
 /30 Aug 3307/
 
-The pharmaceutical giant Neomedical Industries aims to mass-produce onionhead gamma strain as a medicine.
+The pharmaceutical giant [[id:d8c4bbec-5bea-43d7-bad6-0ec97600cac3][Neomedical Industries]] aims to mass-produce onionhead gamma strain as a medicine.
 
-The announcement follows a report from the Interstellar Health Organisation, which details how the new onionhead variant is an effective treatment for many psychological and musculoskeletal conditions.
+The announcement follows a report from the [[id:50320afd-f184-4f90-a94b-802400bb39a8][Interstellar Health Organisation]], which details how the new onionhead variant is an effective treatment for many psychological and musculoskeletal conditions.
 
-[[id:5e42db2b-b180-4e0a-af3a-dd5dcd45cf28][Olwyn Kendrick]], CEO of Neomedical Industries, told the media:
+[[id:5e42db2b-b180-4e0a-af3a-dd5dcd45cf28][Olwyn Kendrick]], CEO of [[id:d8c4bbec-5bea-43d7-bad6-0ec97600cac3][Neomedical Industries]], told the media:
 
 “The IHO has confirmed the findings of our research of onionhead gamma strain’s use for specific medical purposes. Clinical trials prove that its psychedelic qualities are no more intense than the side effects of conventional neuroleptics.”
 
@@ -20,4 +20,4 @@ The announcement follows a report from the Interstellar Health Organisation, whi
 
 This statement was viewed as controversial in some quarters, particularly within the [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][Federation]]. However, there have been expressions of interest from many independent factions. The [[id:1dfc7c53-642a-4404-a8e8-16a8cc18482a][Kumo Crew]] syndicate, which manufactures and distributes onionhead gamma strain, has offered no response as yet.
 
-Neomedical Industries is one of the two largest pharmaceutical companies in the galaxy, alongside Vandermeer Corporation. It provides healthcare services and equipment exclusively to [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][Alliance]] and independent systems.
+[[id:d8c4bbec-5bea-43d7-bad6-0ec97600cac3][Neomedical Industries]] is one of the two largest pharmaceutical companies in the galaxy, alongside Vandermeer Corporation. It provides healthcare services and equipment exclusively to [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][Alliance]] and independent systems.

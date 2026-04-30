@@ -8,18 +8,18 @@
 
 /25 Apr 3309/
 
-The suspected ‘Imperial assassin’ who shot Caine-Massey CEO [[id:8e322aa9-b969-49a4-be27-339e3c107d10][Johann Fleischer]] has been cleared of any connection to the Empire.
+The suspected ‘Imperial assassin’ who shot [[id:87b860c8-570a-4c72-9524-93ba61af84a3][Caine-Massey]] CEO [[id:8e322aa9-b969-49a4-be27-339e3c107d10][Johann Fleischer]] has been cleared of any connection to the Empire.
 
 Executive Agent [[id:15de31ea-1df8-4f54-9530-9d560bbd7dbc][Viola Trask]] of the [[id:d75a6c3f-5c3a-418b-b639-5e14b487f568][Federal Intelligence Agency]] gave a statement to the media:
 
 “Our investigation has verified that the man we have in custody is a professional mercenary named Kieran Rayne , a native of the Alpha Caeli system. For over a decade, he has operated as a freelance contract killer using multiple false identities. The motive for the killing is not yet clear.”
 
-“Despite early indications, there is no evidence that Rayne was hired by Torval Mining Ltd to eliminate Mr Fleischer. The mission was arranged anonymously via an unregistered comms network that we are unable to access. The Imperial-issue weapon and security equipment that he used were provided to him specifically for this task. This seems to be a deliberate choice to foster the impression that the assassination was ordered by elements within the Empire.”
+“Despite early indications, there is no evidence that Rayne was hired by [[id:62ab96ef-615e-4fd5-a2b1-68167557baa1][Torval Mining Ltd]] to eliminate Mr Fleischer. The mission was arranged anonymously via an unregistered comms network that we are unable to access. The Imperial-issue weapon and security equipment that he used were provided to him specifically for this task. This seems to be a deliberate choice to foster the impression that the assassination was ordered by elements within the Empire.”
 
-“It has not gone unnoticed that the evidence implicating an [[id:45d78e5d-27b7-48cb-97b2-012934be3180][Imperial Intelligence]] agent was ‘too good to be true’. I’d like to stress that the FIA was fully aware of this possibility. It is unfortunate that Caine-Massey executives deployed their security forces in Tavgi before our investigation was complete.”
+“It has not gone unnoticed that the evidence implicating an [[id:45d78e5d-27b7-48cb-97b2-012934be3180][Imperial Intelligence]] agent was ‘too good to be true’. I’d like to stress that the FIA was fully aware of this possibility. It is unfortunate that [[id:87b860c8-570a-4c72-9524-93ba61af84a3][Caine-Massey]] executives deployed their security forces in Tavgi before our investigation was complete.”
 
 Congress has accepted the report and stated that no further action will be taken. It is expected that once the FIA’s questioning is complete, Rayne will face a life sentence in a maximum-security prison.
 
-[[id:9ce6de47-2249-427a-8df2-268968426b6e][Philippa Barlow-Lyons]], the new CEO of Caine-Massey, addressed this development during an address to the corporation’s employees:
+[[id:9ce6de47-2249-427a-8df2-268968426b6e][Philippa Barlow-Lyons]], the new CEO of [[id:87b860c8-570a-4c72-9524-93ba61af84a3][Caine-Massey]], addressed this development during an address to the corporation’s employees:
 
 “I know that nobody can ever replace Johann, who meant so much to us all. In his memory, I aim to run things exactly as he would have wanted. We have no choice but to accept the results of the investigation and formally withdraw our accusation against [[id:d8e3667c-3ba1-43aa-bc90-dac719c6d5e7][Zemina Torval]] and her family. I concede that grief may have gotten the better of me in recent days. But in my heart, I know that one day the [[id:7401153d-d710-4385-8cac-aad74d40d853][truth]] will be laid bare, and the guilty will face Federal justice.”

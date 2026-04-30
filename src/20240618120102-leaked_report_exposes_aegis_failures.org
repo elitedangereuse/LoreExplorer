@@ -8,16 +8,16 @@
 
 /17 Aug 3307/
 
-The Aegis board of inquiry’s initial findings have been leaked to journalists, with several problems within the anti-xeno organisation detailed in the files.
+The [[id:85d9e888-3f5b-40ed-b8af-2eb87e42b0d0][Aegis]] board of inquiry’s initial findings have been leaked to journalists, with several problems within the anti-xeno organisation detailed in the files.
 
-Vox Galactica journalist [[id:ff8d15ee-a8b7-4883-b850-5474bddd20ba][Alexei Keel]] reported on its contents:
+[[id:4ab0f53c-0b85-43a3-83ca-b9e88c0db30e][Vox Galactica]] journalist [[id:ff8d15ee-a8b7-4883-b850-5474bddd20ba][Alexei Keel]] reported on its contents:
 
-“The independent inquiry into Aegis is in its early stages, making this disclosure of delicate information all the more embarrassing. Although only a summary, it highlights shortcomings that were immediately apparent to the investigators.”
+“The independent inquiry into [[id:85d9e888-3f5b-40ed-b8af-2eb87e42b0d0][Aegis]] is in its early stages, making this disclosure of delicate information all the more embarrassing. Although only a summary, it highlights shortcomings that were immediately apparent to the investigators.”
 
-“The leaked files outline a pattern of poor internal organisation and negligence. One claim is that Aegis accepted its heavy reliance on independent pilots entering combat situations against the Thargoids.”
+“The leaked files outline a pattern of poor internal organisation and negligence. One claim is that [[id:85d9e888-3f5b-40ed-b8af-2eb87e42b0d0][Aegis]] accepted its heavy reliance on independent pilots entering combat situations against the Thargoids.”
 
 “A lack of technological breakthroughs since the first generation of AX weaponry is also criticised. Professor Tesreau, who has since resigned, is singled out for prioritising communication with the Thargoids rather than developing quickly deployed defences.”
 
-“Interview transcripts show that some Aegis personnel consider the inquiry itself to be part of a larger agenda. A recurring claim is that the superpowers directly contributed to Aegis’s inefficiency by reducing funding, and are now scapegoating Aegis management for a lack of progress.”
+“Interview transcripts show that some [[id:85d9e888-3f5b-40ed-b8af-2eb87e42b0d0][Aegis]] personnel consider the inquiry itself to be part of a larger agenda. A recurring claim is that the superpowers directly contributed to [[id:85d9e888-3f5b-40ed-b8af-2eb87e42b0d0][Aegis]]’s inefficiency by reducing funding, and are now scapegoating [[id:85d9e888-3f5b-40ed-b8af-2eb87e42b0d0][Aegis]] management for a lack of progress.”
 
 “Dr [[id:41a68308-da74-47cf-ac43-ff493dc0ea4f][Paul Baumann]], chair of the board of inquiry, said that only the final report should be considered official. It is unclear when the ‘Baumann Report’, as some newsfeeds refer to it, might be ready for publication.”

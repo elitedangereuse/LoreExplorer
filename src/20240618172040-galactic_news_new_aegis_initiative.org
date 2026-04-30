@@ -8,9 +8,9 @@
 
 /02 Dec 3303/
 
-Aegis has announced plans to dramatically expand its research division with the creation of over twenty new laboratories, situated at starports across the galaxy.
+[[id:85d9e888-3f5b-40ed-b8af-2eb87e42b0d0][Aegis]] has announced plans to dramatically expand its research division with the creation of over twenty new laboratories, situated at starports across the galaxy.
 
-Professor [[id:c2623368-19b0-4995-9e35-b8f54f741a53][Alba Tesreau]], Aegis’s chief scientific advisor, gave the following statement to The [[id:626a18d7-ad16-4093-b9be-d9dc1940594b][Imperial Herald]]:
+Professor [[id:c2623368-19b0-4995-9e35-b8f54f741a53][Alba Tesreau]], [[id:85d9e888-3f5b-40ed-b8af-2eb87e42b0d0][Aegis]]’s chief scientific advisor, gave the following statement to The [[id:626a18d7-ad16-4093-b9be-d9dc1940594b][Imperial Herald]]:
 
 “We must do everything we can to further our understanding of the Thargoids. That’s why these new research centres are so important. Everything we can learn about the Thargoids’ history, biology and psychology is of potential value.”
 

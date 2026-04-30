@@ -10,11 +10,11 @@
 
 Potential solutions to the threat posed by the Thargoid race are being debated at the diplomatic conference in the [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] system.
 
-Political correspondent Conrad Sterling reported for Vox Galactica:
+Political correspondent Conrad Sterling reported for [[id:4ab0f53c-0b85-43a3-83ca-b9e88c0db30e][Vox Galactica]]:
 
 “As always, the topic of the Thargoids brings division. [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][The Alliance]] delegation has portrayed the aliens as a universal danger, while the Empire and Federation took a more balanced view.”
 
-“Professor [[id:c2623368-19b0-4995-9e35-b8f54f741a53][Alba Tesreau]]’s plea to increase support for Aegis was well received, but many delegates argued that further anti-xeno breakthroughs were needed to justify additional funding. To this end, Aegis will undertake new research into the Guardians, hoping to discover a technological advantage from that ancient species.”
+“Professor [[id:c2623368-19b0-4995-9e35-b8f54f741a53][Alba Tesreau]]’s plea to increase support for [[id:85d9e888-3f5b-40ed-b8af-2eb87e42b0d0][Aegis]] was well received, but many delegates argued that further anti-xeno breakthroughs were needed to justify additional funding. To this end, [[id:85d9e888-3f5b-40ed-b8af-2eb87e42b0d0][Aegis]] will undertake new research into the Guardians, hoping to discover a technological advantage from that ancient species.”
 
 “Prime Minister Mahon’s proposal for strategic cooperation against the Thargoids – known as the [[id:00844e10-7829-4c84-b7e8-79a9ba351e94][Sirius Treaty]] – is now being examined in detail. Supporters view it as a logical progression from the recently agreed Cornelius-Lasky Convention.”
 

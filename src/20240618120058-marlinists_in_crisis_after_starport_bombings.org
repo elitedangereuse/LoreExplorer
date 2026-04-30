@@ -12,9 +12,9 @@ The NMLA’s attacks against the Marlinist Colonies have caused mass casualties,
 
 More than 35,000 civilians were killed in the attacks, with twice as many suffering injuries and caustic burns. Safeguard Interstellar is providing vital supplies to survivors, and evacuations of Stillman Hub and Tilman Point stations are ongoing.
 
-First Minister [[id:71f78d3e-edc5-423c-8b74-0bad5470c6f5][Jenna Fairfax]] has been confirmed dead. Minister [[id:eadb4e1d-bb5f-4f30-b0c6-b09243b66031][Amrita Ross]] has temporarily assumed leadership, but the Marlinist Parliament has been destabilised by heated accusations between its members.
+First Minister [[id:71f78d3e-edc5-423c-8b74-0bad5470c6f5][Jenna Fairfax]] has been confirmed dead. Minister [[id:eadb4e1d-bb5f-4f30-b0c6-b09243b66031][Amrita Ross]] has temporarily assumed leadership, but the [[id:928ccdca-ec88-4e1d-8e90-3554f4482c6a][Marlinist Parliament]] has been destabilised by heated accusations between its members.
 
-The Marlinist Constabulary has tightened security, and [[id:a152bfb8-4b9a-4b61-a292-824ecbd263e1][ACT]] is running urgent investigations. Captain [[id:459e3020-d3b5-4c4d-b3b3-f97f2ff190b3][Milo Castile]] told the media:
+The [[id:82dd51d0-0046-4ca0-ae23-65a9e4fbc708][Marlinist Constabulary]] has tightened security, and [[id:a152bfb8-4b9a-4b61-a292-824ecbd263e1][ACT]] is running urgent investigations. Captain [[id:459e3020-d3b5-4c4d-b3b3-f97f2ff190b3][Milo Castile]] told the media:
 
 “This was undoubtedly the work of Theta Group, the NMLA’s weapons specialists. We have found evidence that local Neo-Marlinist supporters provided logistical support, and arrests are forthcoming. However, as always the terrorists covered their tracks remarkably well.”
 

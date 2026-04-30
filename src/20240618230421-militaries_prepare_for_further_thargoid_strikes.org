@@ -10,7 +10,7 @@
 
 The prospect of more systems being invaded by Thargoids has placed the Alliance, Empire and Federation on high alert.
 
-[[id:9aac4d99-35c1-4f2e-91c1-b84cb73d54f8][Ernesto Rios]], field correspondent for Vox Galactica, summarised the situation:
+[[id:9aac4d99-35c1-4f2e-91c1-b84cb73d54f8][Ernesto Rios]], field correspondent for [[id:4ab0f53c-0b85-43a3-83ca-b9e88c0db30e][Vox Galactica]], summarised the situation:
 
 “Following the Battle of [[id:55088d83-4221-44fa-a9d5-6ebb0866c722][HIP 22460]], there was anticipation that the Thargoids would expand into neighbouring regions. Swarms of hostile vessels did indeed arrive in the 42 n Persei, Chun Pindit and Tekkeitjal systems, although – in a notable change to their former tactics – no starports suffered a direct attack.”
 
@@ -22,4 +22,4 @@ The prospect of more systems being invaded by Thargoids has placed the Alliance,
 
 “Elsewhere, many independent systems are doing whatever they can to bolster their local security forces. Too many worlds are acutely aware that should Thargoid fleets darken their skies, they would be forced to rely on mercenaries and independent pilots for protection.”
 
-“Popular opinion on continued military actions against Thargoid vessels remains primarily favourable, but the ‘xeno-peace’ discussion continues to grow. In the [[id:9d0dca3d-8924-4585-a0da-c361e8c27e17][Aiabiko]] system, leading [[id:a12cdcbc-fa10-474e-8654-d3d7da17a307][ICE]] personality [[id:cff6c365-d60d-4e1e-bf8f-5f0936632885][Joy Senne]] has released a ‘beacon drop’ package in an effort to promote the idea of peace to independent pilots. Ships scanning the beacon will receive a xeno-affirmative ship nameplate set and decal - paid for by Senne - along with clips of a recent discussion with Sovereign Times anchor [[id:e4cb65fc-a299-4ec6-8abc-d0fa4063384f][Heimar Borichev]] about the so-called ‘Thargoid Advocacy Project’.”
+“Popular opinion on continued military actions against Thargoid vessels remains primarily favourable, but the ‘xeno-peace’ discussion continues to grow. In the [[id:9d0dca3d-8924-4585-a0da-c361e8c27e17][Aiabiko]] system, leading [[id:a12cdcbc-fa10-474e-8654-d3d7da17a307][ICE]] personality [[id:cff6c365-d60d-4e1e-bf8f-5f0936632885][Joy Senne]] has released a ‘beacon drop’ package in an effort to promote the idea of peace to independent pilots. Ships scanning the beacon will receive a xeno-affirmative ship nameplate set and decal - paid for by Senne - along with clips of a recent discussion with Sovereign Times anchor [[id:e4cb65fc-a299-4ec6-8abc-d0fa4063384f][Heimar Borichev]] about the so-called ‘[[id:19c97e3a-c0a0-49aa-8180-959df335da28][Thargoid Advocacy Project]]’.”

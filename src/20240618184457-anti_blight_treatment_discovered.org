@@ -16,7 +16,7 @@ The IAA’s Dr [[id:27e3d876-0953-4096-86c9-c65388f6dd19][Genevieve Kane]] provi
 
 “Ever since the blight was identified, our scientists have been working alongside [[id:a7056ff8-e67d-4ca9-baf1-7e5df3efa677][Rockforth Corporation]] research teams to develop an effective counteragent. We appreciate the full cooperation granted by [[id:a7056ff8-e67d-4ca9-baf1-7e5df3efa677][Rockforth Corporation]] representatives in this endeavour.”
 
-“Following essential contributions by both the Vandermeer Corporation and Neomedical Industries, we have developed an agronomic treatment that should reverse the disease’s effects.”
+“Following essential contributions by both the Vandermeer Corporation and [[id:d8c4bbec-5bea-43d7-bad6-0ec97600cac3][Neomedical Industries]], we have developed an agronomic treatment that should reverse the disease’s effects.”
 
 “The priority is to transport the treatment to the [[id:4aedfccd-a366-4b25-a5e2-538bb29a35cb][Diso]] and Orerve systems, which were among the first to be ravaged by the blight. If these primary agricultural centres can be made viable again, we can then proceed to revitalise crop production elsewhere.”
 

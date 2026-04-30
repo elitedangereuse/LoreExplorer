@@ -12,9 +12,9 @@ The corporation [[id:e68a5318-bd72-4c92-9f70-dcdbd59505d1][Azimuth Biotech]] has
 
 CEO [[id:78d58f4a-e080-4548-a2f0-9506b7b73674][Torben Rademaker]] was interviewed on The [[id:000181d2-87fb-4eac-9c05-378082def97f][Tau Ceti]] Journal’s official [[id:a12cdcbc-fa10-474e-8654-d3d7da17a307][ICE-cast]], where he explained:
 
-“As you may recall, one of the many reasons Aegis became redundant was its poor record in improving AX armaments past the initial rush of designs. [[id:e68a5318-bd72-4c92-9f70-dcdbd59505d1][Azimuth Biotech]] has established a research and development division specifically designed to correct their failings at a steady, sustainable pace.”
+“As you may recall, one of the many reasons [[id:85d9e888-3f5b-40ed-b8af-2eb87e42b0d0][Aegis]] became redundant was its poor record in improving AX armaments past the initial rush of designs. [[id:e68a5318-bd72-4c92-9f70-dcdbd59505d1][Azimuth Biotech]] has established a research and development division specifically designed to correct their failings at a steady, sustainable pace.”
 
-“One of the inherent limitations with Aegis’s designs is the maximum number of [[id:6023377d-7271-49d1-80ec-ffab82dc8c29][AX weapons]] that a ship can be outfitted with. The enhanced versions based on Ryder and Nemo’s designs share this limitation. We seek to increase the upper limit of [[id:6023377d-7271-49d1-80ec-ffab82dc8c29][AX weapons]] a ship can utilise, and our research teams are already reporting promising results.”
+“One of the inherent limitations with [[id:85d9e888-3f5b-40ed-b8af-2eb87e42b0d0][Aegis]]’s designs is the maximum number of [[id:6023377d-7271-49d1-80ec-ffab82dc8c29][AX weapons]] that a ship can be outfitted with. The enhanced versions based on Ryder and Nemo’s designs share this limitation. We seek to increase the upper limit of [[id:6023377d-7271-49d1-80ec-ffab82dc8c29][AX weapons]] a ship can utilise, and our research teams are already reporting promising results.”
 
 One of the [[id:a12cdcbc-fa10-474e-8654-d3d7da17a307][ICE-cast]]’s interactive audience questions asked why Azimuth was not working with Proteus Wave technology to build more anti-xeno superweapons. Rademaker replied:
 

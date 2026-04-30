@@ -10,7 +10,7 @@
 
 The anonymous [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]] commands much support in the galactic community, but a resistance movement has emerged to sabotage his efforts.
 
-Vox Galactica featured a special report from freelance journalist [[id:ff8d15ee-a8b7-4883-b850-5474bddd20ba][Alexei Keel]]:
+[[id:4ab0f53c-0b85-43a3-83ca-b9e88c0db30e][Vox Galactica]] featured a special report from freelance journalist [[id:ff8d15ee-a8b7-4883-b850-5474bddd20ba][Alexei Keel]]:
 
 “In his self-proclaimed war against the Thargoids, [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]] recently scored a major victory by eliminating their forces from the Cornsar system. But the ongoing mystery around the identity of this ‘man of science’, as well as his controversial methods, have led to a backlash."
 
@@ -18,4 +18,4 @@ Vox Galactica featured a special report from freelance journalist [[id:ff8d15ee-
 
 “Their actions involved acquiring the components, which were disguised as basic medicines, but destroying rather than delivering them. Whether or not this partial blockade impacted the weapon’s effectiveness remains unknown, but it acted as a substantial opposition to [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]’s scheme.”
 
-“Aegis is investigating the Cornsar incident, but with faith in that organisation at an all-time low, individual Commanders are now taking matters into their own hands. Time will tell if [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]’s ambition to replace Aegis is a noble goal, or if we are replacing the devil we know with a darker demon.”
+“[[id:85d9e888-3f5b-40ed-b8af-2eb87e42b0d0][Aegis]] is investigating the Cornsar incident, but with faith in that organisation at an all-time low, individual Commanders are now taking matters into their own hands. Time will tell if [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]’s ambition to replace [[id:85d9e888-3f5b-40ed-b8af-2eb87e42b0d0][Aegis]] is a noble goal, or if we are replacing the devil we know with a darker demon.”

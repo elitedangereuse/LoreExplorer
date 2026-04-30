@@ -12,7 +12,7 @@ The first humans rescued from the [[id:09343513-2893-458e-a689-5865fdc32e0a][Tha
 
 The highly dangerous task requires using an upgraded pulse wave xeno scanner to detect human life signs on the Titans. The new sub-surface extraction missiles then target and jettison the bio-storage capsules – as the structures are officially designated – which are then recovered using a cargo scoop.
 
-All recovered individuals are being assessed by medical specialists. The tri-superpower agency Aegis released this statement to the media:
+All recovered individuals are being assessed by medical specialists. The tri-superpower agency [[id:85d9e888-3f5b-40ed-b8af-2eb87e42b0d0][Aegis]] released this statement to the media:
 
 “In each case, research teams successfully cracked open the capsules and removed the comatose person. They were suspended within a chemically complex gel, not unlike amniotic fluid, with tubes supplying breathable air and basic nutrients. Between thirty and ninety minutes later, the person wakes.”
 
@@ -24,4 +24,4 @@ Dr [[id:bfd112d0-32f3-4f9e-9a78-b84a043c493b][Himari Grey]], an independent heal
 
 “The capsules are clearly designed to sustain oxygen-breathing life forms indefinitely, protected both from the vacuum of space and the [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoids]]’ ammonia-based environment. But what the aliens intended to use these people for remains unknown.”
 
-Aegis later stated that identities are being logged and will soon be made public, with the hope that families and friends will be able to visit.
+[[id:85d9e888-3f5b-40ed-b8af-2eb87e42b0d0][Aegis]] later stated that identities are being logged and will soon be made public, with the hope that families and friends will be able to visit.

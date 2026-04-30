@@ -15,7 +15,7 @@ across populated space, there has been a marked effort by many
 factions to establish themselves in systems impacted by [[id:ba5ecc8d-cf87-4cf8-9d33-beb5d214e323][Titan]] [[id:fbe81b20-15a4-466e-85a6-50816c6e2a99][Cocijo]]'s
 assault in December.
 
-[[id:e660f840-caed-45ef-985e-f75170cf9ca8][Sofia Trevino]] wrote a summary for the [[id:be5df73c-519d-45ed-a541-9b70bc8ae97c][Federal Times]]: 
+[[id:e660f840-caed-45ef-985e-f75170cf9ca8][Sofia Trevino]] wrote a summary for the [[id:be5df73c-519d-45ed-a541-9b70bc8ae97c][Federal Times]]:
 
 “In recent weeks there has been turmoil in [[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]], as political,
 corporate and military interests come to terms with the impact of
@@ -26,7 +26,7 @@ billions of refugees still displaced in surrounding systems.”
 reporting a significant increase in positive Imperial sentiment. This
 has been tied to Princess [[id:b402bbe3-5119-4d94-87ee-0ba279658383][Aisling Duval]] in particular, currently
 enjoying a good reputation among non-Imperial populations due to her
-work as a delegate to Aegis and a champion of humanitarian causes for
+work as a delegate to [[id:85d9e888-3f5b-40ed-b8af-2eb87e42b0d0][Aegis]] and a champion of humanitarian causes for
 those impacted by the xeno war.”
 
 “Shadow-President [[id:7bdfd887-d1db-46bc-98c4-2fb39bfcc914][Jerome Archer]] has stamped down on this flourishing

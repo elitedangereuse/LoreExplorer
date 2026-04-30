@@ -18,6 +18,6 @@ Prime Consul Tau will now serve as the lead ambassador for the Marlinist Colonie
 
 “The Marlinist Consulate will act to preserve our colonies’ independence, and improve diplomatic relations with the rest of the galaxy. Let me be clear – we do not represent the extremist views of Neo-Marlinism. Our consuls will assist all efforts to eliminate the NMLA.”
 
-In the Marlinist Parliament, Minister [[id:83ddd0cb-e22d-4586-bc11-692af4a335c8][Aaron Whyte]] protested that ignoring the Neo-Marlinist fringe was “a provocative act that could inflame further violence”. First Minister [[id:71f78d3e-edc5-423c-8b74-0bad5470c6f5][Jenna Fairfax]] called for the result of the democratic vote to be respected.
+In the [[id:928ccdca-ec88-4e1d-8e90-3554f4482c6a][Marlinist Parliament]], Minister [[id:83ddd0cb-e22d-4586-bc11-692af4a335c8][Aaron Whyte]] protested that ignoring the Neo-Marlinist fringe was “a provocative act that could inflame further violence”. First Minister [[id:71f78d3e-edc5-423c-8b74-0bad5470c6f5][Jenna Fairfax]] called for the result of the democratic vote to be respected.
 
 Pilots who supported Kayode Tau can now collect their rewards from Tilman Point in the Hyades Sector RO-P b6-6 system.

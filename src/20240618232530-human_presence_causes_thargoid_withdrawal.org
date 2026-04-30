@@ -8,11 +8,11 @@
 
 /31 Aug 3309/
 
-The Thargoids have unexpectedly abandoned the region around [[id:800924c4-1b40-46e2-a929-3da627d6caef][Wregoe BU-Y b2-0]], mere days after being discovered. 
+The Thargoids have unexpectedly abandoned the region around [[id:800924c4-1b40-46e2-a929-3da627d6caef][Wregoe BU-Y b2-0]], mere days after being discovered.
 
 They were believed to be present due to an ancient site on the planet
 [[id:0b904675-a3c9-4aa7-ad4f-5d1886a6e792][Wregoe BU-Y b2-0 1 c]], which hosted a conflict between Guardian and
-Thargoid forces millions of years ago. Aegis has confirmed reports
+Thargoid forces millions of years ago. [[id:85d9e888-3f5b-40ed-b8af-2eb87e42b0d0][Aegis]] has confirmed reports
 that all Thargoids have now disappeared from that area of space. [[id:7bca1ccd-649e-438a-ae56-fb8ca34e6440][Aden
 Tanner]] delivered a summary:
 
@@ -23,7 +23,7 @@ Thargoid forces, especially from multiple systems. In this case, there
 was no fleet action or anti-xeno operation sufficiently large to cause
 this response.”
 
-Dr [[id:9dfc056b-14da-469e-ac5f-80519edcaf58][Jeong-Hui Shin]] of the [[id:3d9b071c-c232-431f-8f63-5c3a594b9909][Holloway Bioscience Institute]] observed: 
+Dr [[id:9dfc056b-14da-469e-ac5f-80519edcaf58][Jeong-Hui Shin]] of the [[id:3d9b071c-c232-431f-8f63-5c3a594b9909][Holloway Bioscience Institute]] observed:
 
 “This is atypical behaviour for the Thargoid species. Their
 territorial instincts are usually aggravated by the arrival of humans,

@@ -10,9 +10,9 @@
 
 Here are this week’s major stories.
 
-Two corporations have merged to form one of the largest pharmaceutical companies in the galaxy. Allied Medical Industries has united with Neosalve Inc. to create Neomedical Industries, which will sell drugs, equipment and services to both Alliance and independent systems.
+Two corporations have merged to form one of the largest pharmaceutical companies in the galaxy. Allied Medical Industries has united with Neosalve Inc. to create [[id:d8c4bbec-5bea-43d7-bad6-0ec97600cac3][Neomedical Industries]], which will sell drugs, equipment and services to both Alliance and independent systems.
 
-Independent company Vitadyne Labs has developed new pharmaceuticals that use nanoscale materials to repair cell damage on a molecular level. The company claims the nanomeds can heal injury in a fraction of the normal time, and even slow the ageing process. The Interstellar Health Organisation is reviewing the new medicines.
+Independent company [[id:77d8c368-863a-42f1-af95-99fc0b7bd5c3][Vitadyne Labs]] has developed new pharmaceuticals that use nanoscale materials to repair cell damage on a molecular level. The company claims the nanomeds can heal injury in a fraction of the normal time, and even slow the ageing process. The [[id:50320afd-f184-4f90-a94b-802400bb39a8][Interstellar Health Organisation]] is reviewing the new medicines.
 
 Nova Imperium has revealed its choice for Emperor – an eighteen year old man named [[id:c4f47591-9c52-441f-8853-536f577de922][Hadrian Augustus Duval]]. The group claims that Duval is the grandson of former emperor [[id:3cb0755e-4deb-442b-898b-3f0c6651636e][Hengist Duval]], and that he has a legitimate claim to the Imperial throne. The group’s leader, Imperator Mordanticus, has called for Hadrian to replace [[id:34f3cfdd-0536-40a9-8732-13bf3a5e4a70][Arissa Lavigny-Duval]].
 

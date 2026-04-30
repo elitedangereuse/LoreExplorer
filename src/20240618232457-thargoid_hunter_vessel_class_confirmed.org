@@ -12,7 +12,7 @@
 
 A new type of Thargoid vessel, first encountered within the Maelstroms, is interdicting ships in Thargoid controlled systems.
 
-Aegis highlighted the threat as part of its research into the Thargoid capital ships. Commodore [[id:ea65b87f-ab9d-4e9b-9ea2-49ce7d805aa5][Emil Varga]], the Allied military liaison, gave this statement:
+[[id:85d9e888-3f5b-40ed-b8af-2eb87e42b0d0][Aegis]] highlighted the threat as part of its research into the Thargoid capital ships. Commodore [[id:ea65b87f-ab9d-4e9b-9ea2-49ce7d805aa5][Emil Varga]], the Allied military liaison, gave this statement:
 
 “The first explorers to breach the Maelstroms’ inner regions encountered a previously unseen Thargoid vessel, larger than a scout but smaller than an interceptor. These medium-sized craft have been categorised as hunters, with this specific class designated the ‘Glaive’ due to its blade-like protrusions.”
 

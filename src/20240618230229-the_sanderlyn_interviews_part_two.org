@@ -8,11 +8,11 @@
 
 /30 Apr 3308/
 
-The journalist [[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]] of Vox Galactica was recently invited to conduct rare public interviews with admirals of the three superpowers.
+The journalist [[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]] of [[id:4ab0f53c-0b85-43a3-83ca-b9e88c0db30e][Vox Galactica]] was recently invited to conduct rare public interviews with admirals of the three superpowers.
 
 This excerpt is from a conversation with Admiral [[id:fc81c469-4d55-4c83-bf0e-1f687e46af2c][Maxton Price]] of the Federation.
 
-[[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]]: My name is [[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]], reporting for Vox Galactica. I’m here with Admiral [[id:fc81c469-4d55-4c83-bf0e-1f687e46af2c][Maxton Price]], onboard the FNS Amphion in the [[id:2a81ce70-848a-46eb-aa0b-b5626e78e8aa][Sosong]] system. I was very impressed with the tour of the ship prior to our interview, Admiral.
+[[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]]: My name is [[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]], reporting for [[id:4ab0f53c-0b85-43a3-83ca-b9e88c0db30e][Vox Galactica]]. I’m here with Admiral [[id:fc81c469-4d55-4c83-bf0e-1f687e46af2c][Maxton Price]], onboard the FNS Amphion in the [[id:2a81ce70-848a-46eb-aa0b-b5626e78e8aa][Sosong]] system. I was very impressed with the tour of the ship prior to our interview, Admiral.
 
 [[id:fc81c469-4d55-4c83-bf0e-1f687e46af2c][Maxton Price]]: I can’t say I’m surprised, Miss Sanderlyn. Is this your first time on a Farragut-class battle cruiser?
 

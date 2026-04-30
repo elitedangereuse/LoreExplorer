@@ -8,20 +8,20 @@
 
 /22 Sep 3303/
 
-Following news that the Thargoids have attacked a Federal convoy in the Pleiades Sector IR-W d1-55 system, Aegis has recruited two of the galaxy’s foremost independent engineers to immediately begin developing new defensive and offensive technologies. 
+Following news that the Thargoids have attacked a Federal convoy in the Pleiades Sector IR-W d1-55 system, [[id:85d9e888-3f5b-40ed-b8af-2eb87e42b0d0][Aegis]] has recruited two of the galaxy’s foremost independent engineers to immediately begin developing new defensive and offensive technologies.
 
-One of these engineers is [[id:cb71ba02-e47b-4feb-a421-b1f2ecdce6f3][Liz Ryder]], a specialist in explosive weaponry, who spoke to [[id:be5df73c-519d-45ed-a541-9b70bc8ae97c][The Federal Times]] about her involvement: 
+One of these engineers is [[id:cb71ba02-e47b-4feb-a421-b1f2ecdce6f3][Liz Ryder]], a specialist in explosive weaponry, who spoke to [[id:be5df73c-519d-45ed-a541-9b70bc8ae97c][The Federal Times]] about her involvement:
 
-“It’s not about penetrating the Thargoids’ shields – we’ve been blowing each other up for centuries so we’ve gotten pretty good at dealing punishment – it’s about creating weapons that are specifically calibrated to damage Thargoid hardware.” 
+“It’s not about penetrating the Thargoids’ shields – we’ve been blowing each other up for centuries so we’ve gotten pretty good at dealing punishment – it’s about creating weapons that are specifically calibrated to damage Thargoid hardware.”
 
-Ryder was asked if she thought it was too late to avert all-out conflict with the Thargoids: 
+Ryder was asked if she thought it was too late to avert all-out conflict with the Thargoids:
 
-“That’s a question for the politicians. My job is to design weapons. And if someone – or something – shoots at you, you’ve got two choices: run away or shoot back. At the moment, the first of those is our only option. It would be nice to have a second.” 
+“That’s a question for the politicians. My job is to design weapons. And if someone – or something – shoots at you, you’ve got two choices: run away or shoot back. At the moment, the first of those is our only option. It would be nice to have a second.”
 
-Professor [[id:8f63442a-1f38-457d-857a-38297d732a90][Ishmael Palin]], a leading authority on xenobiology, has also been recruited to the programme. He said: 
+Professor [[id:8f63442a-1f38-457d-857a-38297d732a90][Ishmael Palin]], a leading authority on xenobiology, has also been recruited to the programme. He said:
 
-“My first task will be developing a scanner that can provide us with meaningful data on the Thargoids’ ships. Of course, to properly calibrate these new technologies we will need large quantities of Thargoid material.” 
+“My first task will be developing a scanner that can provide us with meaningful data on the Thargoids’ ships. Of course, to properly calibrate these new technologies we will need large quantities of Thargoid material.”
 
-Aegis has placed an open order for a range of Thargoid materials for use in the programme. Aegis Core has pledged to reward pilots who deliver unknown technology samples, unknown biological matter, ancient relics and explosives to Awyra Flirble in the [[id:0dbd55a5-68d9-45c4-9a80-b2e41f79554c][Eurybia]] system for [[id:cb71ba02-e47b-4feb-a421-b1f2ecdce6f3][Liz Ryder]]. Aegis Research has promised to reimburse Commanders who deliver unknown technology samples, unknown resin, computer components and resonating separators to Obsidian Orbital in the [[id:0ee60994-364c-41b9-98ca-993d041cea72][Maia]] system for [[id:8f63442a-1f38-457d-857a-38297d732a90][Ishmael Palin]]. 
+[[id:85d9e888-3f5b-40ed-b8af-2eb87e42b0d0][Aegis]] has placed an open order for a range of Thargoid materials for use in the programme. [[id:85d9e888-3f5b-40ed-b8af-2eb87e42b0d0][Aegis]] Core has pledged to reward pilots who deliver unknown technology samples, unknown biological matter, ancient relics and explosives to Awyra Flirble in the [[id:0dbd55a5-68d9-45c4-9a80-b2e41f79554c][Eurybia]] system for [[id:cb71ba02-e47b-4feb-a421-b1f2ecdce6f3][Liz Ryder]]. [[id:3808ab0e-fcff-4299-b882-f8c3946f272d][Aegis Research]] has promised to reimburse Commanders who deliver unknown technology samples, unknown resin, computer components and resonating separators to Obsidian Orbital in the [[id:0ee60994-364c-41b9-98ca-993d041cea72][Maia]] system for [[id:8f63442a-1f38-457d-857a-38297d732a90][Ishmael Palin]].
 
 The campaign begins on the 21st of September and will run for one week. If the final target is met earlier than planned, the campaign will end immediately.

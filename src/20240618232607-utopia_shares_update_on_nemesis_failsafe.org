@@ -14,10 +14,10 @@ for a Guardian-based device allegedly constructed by [[id:106b62b9-4ed8-4f7c-8c5
 The schematics for the [[id:e2b09f7f-0440-49ff-980c-6dc0e9a5b0b9][Nemesis Failsafe]] were unearthed by [[id:6bcd90ab-54f2-4d9a-9eeb-92815cc7766e][Seo Jin-ae]],
 who believed that [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]] had developed a way to digitise and
 relocate his mind upon physical death. Following concerns that Utopia
-was involved, Aegis shared these designs with the commune to confirm
+was involved, [[id:85d9e888-3f5b-40ed-b8af-2eb87e42b0d0][Aegis]] shared these designs with the commune to confirm
 that there was no connection with their [[id:83b3ed4c-f0b1-4311-a4df-34bdfa742126][Sim-Archive]] technology.
 
-[[id:05ab22a7-9952-49a3-bdc0-45094cdaff6a][Pranav Antal]] recently sent a message to Aegis, which has been made
+[[id:05ab22a7-9952-49a3-bdc0-45094cdaff6a][Pranav Antal]] recently sent a message to [[id:85d9e888-3f5b-40ed-b8af-2eb87e42b0d0][Aegis]], which has been made
 public with Utopia’s permission:
 
 “After studying the designs intensively, our neurosmiths have gained
@@ -42,6 +42,6 @@ pulses, even using alien technology.”
 “[[id:e68a5318-bd72-4c92-9f70-dcdbd59505d1][Azimuth Biotech]] is also dismissive, not just about the science but
 the very idea that [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]] may have survived. [[id:78d58f4a-e080-4548-a2f0-9506b7b73674][Torben Rademaker]] has
 referred to it as ‘inappropriate and disrespectful to the memory of
-our founder [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Caleb Wycherley]].’ Nevertheless, Aegis has agreed to
+our founder [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Caleb Wycherley]].’ Nevertheless, [[id:85d9e888-3f5b-40ed-b8af-2eb87e42b0d0][Aegis]] has agreed to
 transport [[id:6bcd90ab-54f2-4d9a-9eeb-92815cc7766e][Seo Jin-ae]] to meet [[id:05ab22a7-9952-49a3-bdc0-45094cdaff6a][Pranav Antal]], if she accepts his
 invitation.”

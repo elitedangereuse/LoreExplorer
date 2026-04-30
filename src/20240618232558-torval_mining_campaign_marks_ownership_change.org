@@ -10,7 +10,7 @@
 
 *Pilots’ Federation ALERT*
 
-A mining initiative is being held in the LHS 3872 system, as Torval Mining Ltd welcomes its new CEO.
+A mining initiative is being held in the LHS 3872 system, as [[id:62ab96ef-615e-4fd5-a2b1-68167557baa1][Torval Mining Ltd]] welcomes its new CEO.
 
 Senator [[id:d8e3667c-3ba1-43aa-bc90-dac719c6d5e7][Zemina Torval]], owner of the Imperial company until recently, has formally transferred her controlling shares to her eldest daughter. [[id:d50fdb9a-9f99-41e7-b831-8e347f851541][Constantia Torval]] was already director of operations, but will now oversee all corporate decision making from the highest chair.
 
@@ -18,10 +18,10 @@ From the press suite on Curbeam Hub starport, Ms Torval gave an announcement fro
 
 “My mother’s tireless efforts to build a corporation worthy of our family name have brought enormous success and esteem to the Torval portfolio. It is my honour to continue supplying vital resources to the great industries that drive our Empire.”
 
-“To mark the occasion, Torval Mining Ltd offers generous payments for newly mined quantities of lithium hydroxide, painite, praseodymium and tritium. The campaign is being managed by the Aristocrats of Cuacocha, who will receive shipments at Curbeam Hub in LHS 3872. This follows my new policy to subcontract mining operations to other Imperial factions, in order to meet expanded resource extraction quotas.”
+“To mark the occasion, [[id:62ab96ef-615e-4fd5-a2b1-68167557baa1][Torval Mining Ltd]] offers generous payments for newly mined quantities of lithium hydroxide, painite, praseodymium and tritium. The campaign is being managed by the Aristocrats of Cuacocha, who will receive shipments at Curbeam Hub in LHS 3872. This follows my new policy to subcontract mining operations to other Imperial factions, in order to meet expanded resource extraction quotas.”
 
-“A Torval Mining Ltd mining laser will also be awarded to those pilots who make a concerted effort to support our endeavours.”
+“A [[id:62ab96ef-615e-4fd5-a2b1-68167557baa1][Torval Mining Ltd]] mining laser will also be awarded to those pilots who make a concerted effort to support our endeavours.”
 
 [[id:939fbc37-b3e2-41a2-9bb9-c63196c44043][Anton Lagorio]], business correspondent for The [[id:626a18d7-ad16-4093-b9be-d9dc1940594b][Imperial Herald]], reported:
 
-“This announcement confirms rumours that [[id:d50fdb9a-9f99-41e7-b831-8e347f851541][Constantia Torval]] had been allowed to take the reins in managing the family company. Under her guidance, Torval Mining Ltd has expanded its sphere of operations and obtained many lucrative new contracts. Whereas [[id:d8e3667c-3ba1-43aa-bc90-dac719c6d5e7][Zemina Torval]]’s policy was to manage as much as possible in-house, her daughter seems keen to build corporate relationships with subsidiaries within the Empire.”
+“This announcement confirms rumours that [[id:d50fdb9a-9f99-41e7-b831-8e347f851541][Constantia Torval]] had been allowed to take the reins in managing the family company. Under her guidance, [[id:62ab96ef-615e-4fd5-a2b1-68167557baa1][Torval Mining Ltd]] has expanded its sphere of operations and obtained many lucrative new contracts. Whereas [[id:d8e3667c-3ba1-43aa-bc90-dac719c6d5e7][Zemina Torval]]’s policy was to manage as much as possible in-house, her daughter seems keen to build corporate relationships with subsidiaries within the Empire.”

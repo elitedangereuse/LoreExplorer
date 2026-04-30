@@ -8,13 +8,13 @@
 
 /09 Jun 3306/
 
-The nanomedicines developed in December 3304 by Vitadyne Labs have been approved for distribution to medical facilities across the galaxy.
+The nanomedicines developed in December 3304 by [[id:77d8c368-863a-42f1-af95-99fc0b7bd5c3][Vitadyne Labs]] have been approved for distribution to medical facilities across the galaxy.
 
-At the time of Vitadyne’s original announcement, the nanomedicines were believed to be mere weeks away from widespread availability. The Interstellar Health Organisation (IHO) had verified the medicine’s healing properties, and Vitadyne Labs owner Professor [[id:c39e36c5-83ba-4e22-8dc1-c5705b33910a][Katrien Rook]] had been hailed as a genius for spearheading the research and development project.
+At the time of Vitadyne’s original announcement, the nanomedicines were believed to be mere weeks away from widespread availability. The [[id:50320afd-f184-4f90-a94b-802400bb39a8][Interstellar Health Organisation]] (IHO) had verified the medicine’s healing properties, and [[id:77d8c368-863a-42f1-af95-99fc0b7bd5c3][Vitadyne Labs]] owner Professor [[id:c39e36c5-83ba-4e22-8dc1-c5705b33910a][Katrien Rook]] had been hailed as a genius for spearheading the research and development project.
 
 But some questioned how a relatively small company could produce such advanced drugs – questions that were answered when [[id:05ab22a7-9952-49a3-bdc0-45094cdaff6a][Pranav Antal]] announced that the nanomeds were derived from pharmaceuticals developed by the Utopia commune. Responding to accusations of theft, Professor Rook clarified that the original nanomeds had been legally salvaged from the wreckage of a Utopian transport ship.
 
-A lengthy legal battle followed, with [[id:05ab22a7-9952-49a3-bdc0-45094cdaff6a][Pranav Antal]] demanding the return of both the original nanomedicines and the Vitadyne derivatives. Vitadyne argued that the derivatives were of great potential benefit to humanity, and should be made available for sale. The IHO eventually ruled in favour of Vitadyne Labs, with the caveat that all distribution be maintained by an established pharmaceutical corporation.
+A lengthy legal battle followed, with [[id:05ab22a7-9952-49a3-bdc0-45094cdaff6a][Pranav Antal]] demanding the return of both the original nanomedicines and the Vitadyne derivatives. Vitadyne argued that the derivatives were of great potential benefit to humanity, and should be made available for sale. The IHO eventually ruled in favour of [[id:77d8c368-863a-42f1-af95-99fc0b7bd5c3][Vitadyne Labs]], with the caveat that all distribution be maintained by an established pharmaceutical corporation.
 
 That honour went to the Vandermeer Corporation, which has now established the necessary manufacturing facilities. It has taken a year for all parties to agree on the rigid quality control measures and personnel qualifications required for the production of the nanomedicines.
 

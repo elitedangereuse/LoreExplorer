@@ -8,9 +8,9 @@
 
 /29 Nov 3304/
 
-Aegis has announced a breakthrough that has effectively neutralised the disruptive effects of [[id:d17a9775-b9b5-4d26-b69f-16ced04f52a9][Thargoid Sensors]] on starports.
+[[id:85d9e888-3f5b-40ed-b8af-2eb87e42b0d0][Aegis]] has announced a breakthrough that has effectively neutralised the disruptive effects of [[id:d17a9775-b9b5-4d26-b69f-16ced04f52a9][Thargoid Sensors]] on starports.
 
-[[id:0ce8bd63-c640-40c2-b889-b1fd4ba1d3ae][Henrik de Lacerda]], a senior engineer at Aegis Research, told the media:
+[[id:0ce8bd63-c640-40c2-b889-b1fd4ba1d3ae][Henrik de Lacerda]], a senior engineer at [[id:3808ab0e-fcff-4299-b882-f8c3946f272d][Aegis Research]], told the media:
 
 “As we know, [[id:d17a9775-b9b5-4d26-b69f-16ced04f52a9][Thargoid Sensors]] can cripple starports for weeks or months at a time, but recent advancements in our study of meta-alloys have resulted in an effective cure for what was once called ‘the [[id:002fd942-f71a-4d8f-a431-4ad26857c771][technological plague]]’.”
 

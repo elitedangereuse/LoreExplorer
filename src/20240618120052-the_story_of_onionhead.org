@@ -10,7 +10,7 @@
 
 A new product being manufactured by the Kumo Crew could be a version of onionhead, the controversial recreational drug.
 
-Dr [[id:bfd112d0-32f3-4f9e-9a78-b84a043c493b][Himari Grey]], an independent healthcare analyst, published this review on Vox Galactica:
+Dr [[id:bfd112d0-32f3-4f9e-9a78-b84a043c493b][Himari Grey]], an independent healthcare analyst, published this review on [[id:4ab0f53c-0b85-43a3-83ca-b9e88c0db30e][Vox Galactica]]:
 
 “Little is yet known about ‘helix’, but the persistent rumour that it is derived from onionhead has sparked keen interest from physicians, politicians and narcotics users alike.”
 
@@ -20,4 +20,4 @@ Dr [[id:bfd112d0-32f3-4f9e-9a78-b84a043c493b][Himari Grey]], an independent heal
 
 “Production soon shifted to the [[id:267299e4-1a3f-4835-933d-7a1b30d7d43e][Tanmark]] system, where the Lucan onionhead strain boosted its popularity. Two further variants have appeared since, a result of enterprising genetic engineers modifying the seeds to flourish in different ecospheres.”
 
-“Could helix be another strain? The Interstellar Health Organisation (IHO) is currently acquiring samples for analysis, so we’ll soon know if this marks a new chapter in onionhead’s notorious story.”
+“Could helix be another strain? The [[id:50320afd-f184-4f90-a94b-802400bb39a8][Interstellar Health Organisation]] (IHO) is currently acquiring samples for analysis, so we’ll soon know if this marks a new chapter in onionhead’s notorious story.”

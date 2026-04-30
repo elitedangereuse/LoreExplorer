@@ -12,12 +12,12 @@
 
 Systems in the California, Coalsack, Pleiades and Witch Head Nebulas are under sustained assault by the Thargoids.
 
-Vox Galactica featured this report from freelance war correspondent [[id:9aac4d99-35c1-4f2e-91c1-b84cb73d54f8][Ernesto Rios]]:
+[[id:4ab0f53c-0b85-43a3-83ca-b9e88c0db30e][Vox Galactica]] featured this report from freelance war correspondent [[id:9aac4d99-35c1-4f2e-91c1-b84cb73d54f8][Ernesto Rios]]:
 
 “Multiple starports have been crippled by Thargoid attacks in recent weeks, with anti-xeno squadrons struggling to protect them. Many Commanders told me that this latest wave is proving unusually difficult to repel, with a steady stream of reinforcements replacing those alien vessels destroyed in battle.”
 
-“In normal times Aegis would coordinate the defence effort, but its operations remain suspended due to the Baumann inquiry. Today, it is clear that many of the superpowers’ leaders have more faith in [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]] after his triumph in the Cornsar system, believing that he holds the key to defeating the Thargoids.”
+“In normal times [[id:85d9e888-3f5b-40ed-b8af-2eb87e42b0d0][Aegis]] would coordinate the defence effort, but its operations remain suspended due to the Baumann inquiry. Today, it is clear that many of the superpowers’ leaders have more faith in [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]] after his triumph in the Cornsar system, believing that he holds the key to defeating the Thargoids.”
 
-“Both the [[id:e9becd28-9644-42aa-afc8-7bba3ce10076][Imperial Navy]] and the Alliance’s [[id:b0b347ac-10b8-4190-8787-1557f7d4a6da][Council of Admirals]] have suggested committing naval forces to support [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]. In the Federation, Congress has debated redirecting funds that were ring-fenced for Aegis to accelerate development of the anti-xeno superweapon.”
+“Both the [[id:e9becd28-9644-42aa-afc8-7bba3ce10076][Imperial Navy]] and the Alliance’s [[id:b0b347ac-10b8-4190-8787-1557f7d4a6da][Council of Admirals]] have suggested committing naval forces to support [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]. In the Federation, Congress has debated redirecting funds that were ring-fenced for [[id:85d9e888-3f5b-40ed-b8af-2eb87e42b0d0][Aegis]] to accelerate development of the anti-xeno superweapon.”
 
-“As yet these are merely discussions, but do illustrate the wide-reaching impact of the Cornsar incident. In the meantime, in the absence of direct support from either Aegis or [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]], pilots are sacrificing their lives as they fight courageously to push back the Thargoid fleets.”
+“As yet these are merely discussions, but do illustrate the wide-reaching impact of the Cornsar incident. In the meantime, in the absence of direct support from either [[id:85d9e888-3f5b-40ed-b8af-2eb87e42b0d0][Aegis]] or [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]], pilots are sacrificing their lives as they fight courageously to push back the Thargoid fleets.”

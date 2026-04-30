@@ -10,7 +10,7 @@
 
 The Thargoid victory in the [[id:55088d83-4221-44fa-a9d5-6ebb0866c722][HIP 22460]] system has raised many questions which neither [[id:e68a5318-bd72-4c92-9f70-dcdbd59505d1][Azimuth Biotech]] nor the superpowers have officially responded to.
 
-[[id:9aac4d99-35c1-4f2e-91c1-b84cb73d54f8][Ernesto Rios]], field correspondent for Vox Galactica, published a report summarising the latest developments:
+[[id:9aac4d99-35c1-4f2e-91c1-b84cb73d54f8][Ernesto Rios]], field correspondent for [[id:4ab0f53c-0b85-43a3-83ca-b9e88c0db30e][Vox Galactica]], published a report summarising the latest developments:
 
 “Two days have passed since the massacre in [[id:55088d83-4221-44fa-a9d5-6ebb0866c722][HIP 22460]], which left many thousands dead. There have been no updates from the [[id:17d9294e-7759-4cf4-9a67-5f12b5704f51][Alliance Defence Force]] or the Federal or Imperial navies. All press outlets have banned their journalists from entering the system, due to the extreme risk of Thargoid attack. We still lack specifics as to why the Proteus Wave failed. As the echoes of these horrific events fade, the authorities’ silence is deafening.”
 
@@ -18,6 +18,6 @@ The Thargoid victory in the [[id:55088d83-4221-44fa-a9d5-6ebb0866c722][HIP 22460
 
 “Without any formal statement from Azimuth, and with [[id:106b62b9-4ed8-4f7c-8c5c-12debf994d4f][Salvation]]’s status still unknown, we can only speculate on what happened in [[id:55088d83-4221-44fa-a9d5-6ebb0866c722][HIP 22460]]. The Thargoids’ method of resisting the Proteus Wave’s energy pulse remains unexplained, and their subsequent dominance of the system has caused widespread unease. Rather than ending the [[id:9a246121-0c2e-4f21-9877-ee333d6b0d6c][Second Thargoid War]], Salvation may have escalated it to terrifying heights.”
 
-[[id:e4cb65fc-a299-4ec6-8abc-d0fa4063384f][Heimar Borichev]], deputy editor of The Sovereign, also commented on the situation:
+[[id:e4cb65fc-a299-4ec6-8abc-d0fa4063384f][Heimar Borichev]], deputy editor of [[id:82f6fe30-acb7-4e40-a7d5-3f1338d4f520][The Sovereign]], also commented on the situation:
 
 “Obviously this is a great tragedy, and we must honour those who lost their lives. But essentially, the Thargoids have just defended themselves from the xenocide we sought to inflict upon them. Can we really justify our moral outrage at this species, for protecting themselves against our weapon of mass destruction? Could all of this have been avoided?”

@@ -17,11 +17,11 @@ weapon in the system in 3308, Thargoids aggressively swarmed the
 system until recently.
 
 But AX forces sought to change this over the past few weeks, and the
-signal from Aegis’ military advisor [[id:7bca1ccd-649e-438a-ae56-fb8ca34e6440][Aden Tanner]] indicates that the
+signal from [[id:85d9e888-3f5b-40ed-b8af-2eb87e42b0d0][Aegis]]’ military advisor [[id:7bca1ccd-649e-438a-ae56-fb8ca34e6440][Aden Tanner]] indicates that the
 system is now fully under human control. Tanner himself provided a
 message of thanks:
 
 “The impeccable efforts of AXI, XSF and allied AX pilots have finally
 brought peace to one more system. I only wish I was young enough to
 join these heroes out on the front lines. These pilots have provided a
-great service to humanity, and all here at Aegis salute them.”
+great service to humanity, and all here at [[id:85d9e888-3f5b-40ed-b8af-2eb87e42b0d0][Aegis]] salute them.”

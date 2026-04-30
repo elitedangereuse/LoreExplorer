@@ -10,7 +10,7 @@
 
 Preparations are underway for the second Distant Worlds expedition, which will see a community of explorers cross the galaxy.
 
-Science correspondent [[id:f47499fd-ddf1-426e-b7fa-08a0df2d65ac][Leon Banerjee]] provided an overview for the Vox Galactica media outlet:
+Science correspondent [[id:f47499fd-ddf1-426e-b7fa-08a0df2d65ac][Leon Banerjee]] provided an overview for the [[id:4ab0f53c-0b85-43a3-83ca-b9e88c0db30e][Vox Galactica]] media outlet:
 
 “The first Distant Worlds mission, in 3302, was the largest fleet expedition in history, and saw over a thousand ships travel to [[id:80ea667a-62b4-4082-bed0-ce253d76869b][Beagle Point]] and back.”
 

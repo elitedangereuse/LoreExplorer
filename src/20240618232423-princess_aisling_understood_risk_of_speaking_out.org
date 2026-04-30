@@ -8,15 +8,15 @@
 
 /17 Feb 3309/
 
-Princess [[id:b402bbe3-5119-4d94-87ee-0ba279658383][Aisling Duval]] has assumed oversight of the Empire’s contributions to the tri-superpower agency Aegis.
+Princess [[id:b402bbe3-5119-4d94-87ee-0ba279658383][Aisling Duval]] has assumed oversight of the Empire’s contributions to the tri-superpower agency [[id:85d9e888-3f5b-40ed-b8af-2eb87e42b0d0][Aegis]].
 
 She discussed her new role during an interview with The [[id:626a18d7-ad16-4093-b9be-d9dc1940594b][Imperial Herald]]:
 
-“Loathe though I was to defy the Emperor’s decree, every instinct told me that the Aegis initiative can develop methods of protecting the Empire from enormous losses in this war. I’m grateful that Arissa recognised the value of my plea.”
+“Loathe though I was to defy the Emperor’s decree, every instinct told me that the [[id:85d9e888-3f5b-40ed-b8af-2eb87e42b0d0][Aegis]] initiative can develop methods of protecting the Empire from enormous losses in this war. I’m grateful that Arissa recognised the value of my plea.”
 
-“I’ve been liaising with Professor [[id:c2623368-19b0-4995-9e35-b8f54f741a53][Alba Tesreau]], as well as Dr Fonseca, Vice Admiral Anderson and the rest of my team. Our challenge is to make the most of the Imperial resources allocated to Aegis.”
+“I’ve been liaising with Professor [[id:c2623368-19b0-4995-9e35-b8f54f741a53][Alba Tesreau]], as well as Dr Fonseca, Vice Admiral Anderson and the rest of my team. Our challenge is to make the most of the Imperial resources allocated to [[id:85d9e888-3f5b-40ed-b8af-2eb87e42b0d0][Aegis]].”
 
-“It’s true that I was critical of Aegis’s effectiveness in the past, but I’ve always believed that cooperation with other superpowers can bring mutual benefits. The mass slaughter inflicted by the Thargoids eclipses the NMLA’s atrocities – a challenge we faced together. We must trust each other now as we did then.”
+“It’s true that I was critical of [[id:85d9e888-3f5b-40ed-b8af-2eb87e42b0d0][Aegis]]’s effectiveness in the past, but I’ve always believed that cooperation with other superpowers can bring mutual benefits. The mass slaughter inflicted by the Thargoids eclipses the NMLA’s atrocities – a challenge we faced together. We must trust each other now as we did then.”
 
 The newsfeed also featured a response from [[id:c4f47591-9c52-441f-8853-536f577de922][Hadrian Augustus Duval]]:
 
@@ -24,4 +24,4 @@ The newsfeed also featured a response from [[id:c4f47591-9c52-441f-8853-536f577d
 
 Royal correspondent [[id:0adb8285-4596-4f7c-92b9-56344a3b647a][Gudrun Vestergaard]] observed:
 
-“This is a calculated move by Emperor [[id:34f3cfdd-0536-40a9-8732-13bf3a5e4a70][Arissa Lavigny-Duval]]. If Aegis fails, her isolationist policy will be vindicated. If Aegis succeeds, she can claim credit for permitting this exception. The risk is whether the public would credit an Aegis-assisted victory over the Thargoids to the Princess. Such an outcome would increase Aisling’s popularity and political capital to a level Arissa is unlikely to tolerate for long.”
+“This is a calculated move by Emperor [[id:34f3cfdd-0536-40a9-8732-13bf3a5e4a70][Arissa Lavigny-Duval]]. If [[id:85d9e888-3f5b-40ed-b8af-2eb87e42b0d0][Aegis]] fails, her isolationist policy will be vindicated. If [[id:85d9e888-3f5b-40ed-b8af-2eb87e42b0d0][Aegis]] succeeds, she can claim credit for permitting this exception. The risk is whether the public would credit an Aegis-assisted victory over the Thargoids to the Princess. Such an outcome would increase Aisling’s popularity and political capital to a level Arissa is unlikely to tolerate for long.”
