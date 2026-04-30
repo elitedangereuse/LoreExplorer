@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       e86e1d04-e4c6-4e05-a67f-9371b2807039
+:ROAM_REFS: file:../references/Community%20Goals/Alliance_Research_Initiative_%C3%A2___Combat.md file:../references/Community%20Goals/Alliance_Research_Initiative_%C3%A2___Trade.md
 :END:
 #+title: Community Goal: Alliance Research Initiative
 #+filetags: :Alliance:Thargoid:CommunityGoal:3303:galnet:

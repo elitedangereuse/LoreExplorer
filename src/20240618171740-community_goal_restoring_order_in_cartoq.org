@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       55defc7c-ecec-4896-8044-2d2d026926da
+:ROAM_REFS: file:../references/Community%20Goals/Restoring_Order_in_Cartoq__Bounty_Hunting_.md
 :END:
 #+title: Community Goal: Restoring Order in Cartoq
 #+filetags: :CommunityGoal:3303:galnet:

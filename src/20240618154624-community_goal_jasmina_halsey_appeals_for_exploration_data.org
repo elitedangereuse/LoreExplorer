@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       75369df7-b14f-4e03-82a2-6057da52b3c3
+:ROAM_REFS: file:../references/Community%20Goals/Jasmina_Halsey_appeals_for_exploration_data.md
 :END:
 #+title: Community Goal: Jasmina Halsey Appeals for Exploration Data
 #+filetags: :Federation:CommunityGoal:3302:galnet:

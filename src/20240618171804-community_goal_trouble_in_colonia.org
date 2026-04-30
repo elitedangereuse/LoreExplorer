@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       c8e15d71-b2ac-4af2-b567-428065fc4fd0
+:ROAM_REFS: file:../references/Community%20Goals/Trouble_in_Colonia__Bounty_Hunting_.md
 :END:
 #+title: Community Goal: Trouble in Colonia
 #+filetags: :CommunityGoal:3303:galnet:

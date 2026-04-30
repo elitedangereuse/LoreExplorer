@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       5890470a-5e8d-4a3e-8408-66f4bcb703bc
+:ROAM_REFS: file:../references/Community%20Goals/Sirius_Corp__to_Address_Unknown_Artefact_Issue.md
 :END:
 #+title: Community Goal: Sirius Corp. to Address Unknown-Artefact Issue
 #+filetags: :CommunityGoal:3303:galnet:

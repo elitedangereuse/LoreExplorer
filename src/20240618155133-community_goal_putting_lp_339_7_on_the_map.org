@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       385f0f57-c589-4e9d-961f-e0a95ea5ad76
+:ROAM_REFS: file:../references/Community%20Goals/Putting_LP_339_7_on_the_Map__Trade_.md file:../references/Community%20Goals/Putting_LP_339_7_on_the_Map__Bounty_Hunting_.md
 :END:
 #+title: Community Goal: Putting LP 339-7 on the Map
 #+filetags: :CommunityGoal:3302:galnet:

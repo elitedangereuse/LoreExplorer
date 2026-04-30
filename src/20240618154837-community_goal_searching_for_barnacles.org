@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       ea3e7df3-eb95-49ba-9545-a44aa0507600
+:ROAM_REFS: file:../references/Community%20Goals/Searching_for_Barnacles.md
 :END:
 #+title: Community Goal: Searching for Barnacles
 #+filetags: :Federation:Empire:CommunityGoal:3302:galnet:

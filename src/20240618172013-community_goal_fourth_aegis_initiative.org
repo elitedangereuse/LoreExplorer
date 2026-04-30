@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       b3c86292-cea5-4b94-9442-2817decb6b73
+:ROAM_REFS: file:../references/Community%20Goals/Fourth_Aegis_Initiative.md
 :END:
 #+title: Community Goal: Fourth Aegis Initiative
 #+filetags: :Federation:Thargoid:CommunityGoal:3303:galnet:

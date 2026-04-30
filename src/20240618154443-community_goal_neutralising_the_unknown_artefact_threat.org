@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       065fe413-ff37-4aad-8fb9-ab98b49119d4
+:ROAM_REFS: file:../references/Community%20Goals/Neutralising_the_Unknown_Artefact_Threat.md
 :END:
 #+title: Community Goal: Neutralising the Unknown Artefact Threat
 #+filetags: :CommunityGoal:3302:galnet:

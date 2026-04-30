@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       a5b52a42-c7db-4ed5-8fb4-737bf495b74f
+:ROAM_REFS: file:../references/Community%20Goals/Federation_Appeals_for_Exploration_Data_01_Dec_2016.md file:../references/Community%20Goals/Federation_appeals_for_Exploration_Data_29_Sep_2016.md
 :END:
 #+title: Community Goal: Federation Appeals for Exploration Data
 #+filetags: :Empire:Federation:CommunityGoal:3302:galnet:

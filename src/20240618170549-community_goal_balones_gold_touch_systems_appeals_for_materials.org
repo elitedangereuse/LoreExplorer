@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       de466842-2f36-4fdd-b5f5-79b654703607
+:ROAM_REFS: file:../references/Community%20Goals/Balones_Gold_Touch_Systems_Appeals_for_Materials.md
 :END:
 #+title: Community Goal: Balones Gold Touch Systems Appeals for Materials
 #+filetags: :CommunityGoal:3303:galnet:

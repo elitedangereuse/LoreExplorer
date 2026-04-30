@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       8f2ee111-e44b-4d01-9988-4c4310fcfe57
+:ROAM_REFS: file:../references/Community%20Goals/Halsey_Requests_Relief___Bounty_Hunting.md
 :END:
 #+title: Community Goal: Halsey Requests Relief
 #+filetags: :Federation:Empire:CommunityGoal:3303:galnet:

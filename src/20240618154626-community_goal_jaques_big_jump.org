@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       ff96fc46-a629-4a7d-aa1f-558483284dfe
+:ROAM_REFS: file:../references/Community%20Goals/Jaques%C3%A2___Big_Jump.md
 :END:
 #+title: Community Goal: Jaques' Big Jump
 #+filetags: :CommunityGoal:3302:galnet:

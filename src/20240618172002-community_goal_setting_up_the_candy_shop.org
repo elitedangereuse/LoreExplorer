@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       79848717-2d31-4fbb-bdc9-d529ce056d48
+:ROAM_REFS: file:../references/Community%20Goals/Setting_up_the_Candy_Shop.md
 :END:
 #+title: Community Goal:  Setting up the Candy Shop
 #+filetags: :CommunityGoal:3303:galnet:

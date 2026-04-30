@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       13169f3d-a664-465e-8ebc-c4d32e68d6d6
+:ROAM_REFS: file:../references/Community%20Goals/Dionysus_Rising.md
 :END:
 #+title: Community Goal: Dionysus Rising
 #+filetags: :CommunityGoal:3304:galnet:

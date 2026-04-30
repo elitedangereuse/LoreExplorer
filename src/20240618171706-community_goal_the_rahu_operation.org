@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       12cdba4d-f75a-41a6-af53-fd00092da676
+:ROAM_REFS: file:../references/Community%20Goals/The_Rahu_Combat_Operation__Bounty_Hunting_.md
 :END:
 #+title: Community Goal: The Rahu Operation
 #+filetags: :Alliance:CommunityGoal:3303:galnet:

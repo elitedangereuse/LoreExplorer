@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       c1ec10da-6ea0-4e3d-9407-c4ab0de055c3
+:ROAM_REFS: file:../references/Community%20Goals/Restoring_Order_in_Arque.md
 :END:
 #+title: Community Goal: Restoring Order in Arque
 #+filetags: :CommunityGoal:3302:galnet:

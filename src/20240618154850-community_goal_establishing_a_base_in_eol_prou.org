@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       5b74b29e-728a-4d76-9fb7-08be693a91d4
+:ROAM_REFS: file:../references/Community%20Goals/Establishing_a_Base_in_Eol_Prou.md
 :END:
 #+title: Community Goal: Establishing a Base in Eol Prou
 #+filetags: :CommunityGoal:3302:galnet:

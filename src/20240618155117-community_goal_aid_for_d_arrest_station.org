@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       172a5999-eda0-4ebc-9aac-806baf6f3de3
+:ROAM_REFS: file:../references/Community%20Goals/Aid_for_D_Arrest_Station__Trade_.md
 :END:
 #+title: Community Goal: Aid for D'Arrest Station
 #+filetags: :Empire:CommunityGoal:3302:galnet:

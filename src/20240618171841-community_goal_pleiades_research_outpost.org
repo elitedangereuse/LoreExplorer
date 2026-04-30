@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       e27b4451-6d70-44cb-904c-9402ecb5ef82
+:ROAM_REFS: file:../references/Community%20Goals/Pleiades_Research_Outpost__Trade_.md
 :END:
 #+title: Community Goal: Pleiades Research Outpost
 #+filetags: :Federation:Thargoid:CommunityGoal:3303:galnet:

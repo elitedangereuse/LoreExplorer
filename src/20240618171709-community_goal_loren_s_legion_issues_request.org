@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       5d37fdf9-d5d9-4dea-99d5-0524954ea7c6
+:ROAM_REFS: file:../references/Community%20Goals/Loren_s_Legion_Issues_Request.md
 :END:
 #+title: Community Goal: Loren's Legion Issues Request
 #+filetags: :Empire:CommunityGoal:3303:galnet:

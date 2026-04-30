@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       41f3a2a6-59bf-4503-81f2-ad64e59b0699
+:ROAM_REFS: file:../references/Community%20Goals/Repair_Jaques_Station.md
 :END:
 #+title: Community Goal: Repair Jaques Station
 #+filetags: :CommunityGoal:3302:galnet:

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       50d86aab-3368-4dbf-b05f-8a53859f7232
+:ROAM_REFS: file:../references/Community%20Goals/Second_Aegis_Initiative.md
 :END:
 #+title: Community Goal: Second Aegis Initiative
 #+filetags: :Thargoid:CommunityGoal:3303:galnet:

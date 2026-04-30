@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       995336e6-fed2-4719-a975-045e0e53d86c
+:ROAM_REFS: file:../references/Community%20Goals/Restoring_Order_in_Kaal__Bounty_Hunting_.md
 :END:
 #+title: Community Goal: Restoring Order in Kaal
 #+filetags: :CommunityGoal:3303:galnet:

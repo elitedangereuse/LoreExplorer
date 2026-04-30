@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       c666afab-be26-4f6c-b52a-009eca4a9990
+:ROAM_REFS: file:../references/Community%20Goals/Panum_Pisciumque.md
 :END:
 #+title: Community Goal: Panum Pisciumque
 #+filetags: :Empire:CommunityGoal:3303:galnet:

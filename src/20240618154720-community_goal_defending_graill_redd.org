@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       d1e30509-c73c-4c60-aaa2-99905bd2a931
+:ROAM_REFS: file:../references/Community%20Goals/Defending_Graill_Redd.md file:../references/Community%20Goals/Defending_Graill_Redd__Bounty_Hunting_.md
 :END:
 #+title: Community Goal: Defending Graill Redd
 #+filetags: :CommunityGoal:3302:galnet:

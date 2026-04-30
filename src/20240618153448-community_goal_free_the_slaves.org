@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       3216f71e-30b3-4556-96df-1d9c146ef2d5
+:ROAM_REFS: file:../references/Community%20Goals/Free_The_Slaves.md
 :END:
 #+title: Community Goal: Free the Slaves
 #+filetags: :CommunityGoal:3302:galnet:

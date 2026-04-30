@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       f6fe63ae-0c05-46ec-94cb-5b4d894a51eb
+:ROAM_REFS: file:../references/Community%20Goals/The_Colonia_Exodus___Bounty_Hunting.md file:../references/Community%20Goals/The_Colonia_Exodus___Trade.md
 :END:
 #+title: Community Goal: The Colonia Exodus
 #+filetags: :Thargoid:CommunityGoal:3303:galnet:

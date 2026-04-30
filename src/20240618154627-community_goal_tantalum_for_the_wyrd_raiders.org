@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       312dbbc1-f92c-43d0-a9e4-796add3917a7
+:ROAM_REFS: file:../references/Community%20Goals/Tantalum_for_the_Wyrd_Raiders_.md
 :END:
 #+title: Community Goal: Tantalum for the Wyrd Raiders
 #+filetags: :CommunityGoal:3302:galnet:

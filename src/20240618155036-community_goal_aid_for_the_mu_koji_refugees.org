@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       a69e2180-0971-43a2-a8d0-5cbd9424f041
+:ROAM_REFS: file:../references/Community%20Goals/Aid_for_the_Mu_Koji_Refugees.md
 :END:
 #+title: Community Goal: Aid for the Mu Koji Refugees
 #+filetags: :Federation:Empire:CommunityGoal:3302:galnet:

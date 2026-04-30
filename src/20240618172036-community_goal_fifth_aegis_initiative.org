@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       c241260b-a5cf-4693-8f74-414434cf5217
+:ROAM_REFS: file:../references/Community%20Goals/Fifth_Aegis_Initiative_%C3%A2___Combat.md file:../references/Community%20Goals/Fifth_Aegis_Initiative_%C3%A2___Trade.md
 :END:
 #+title: Community Goal: Fifth Aegis Initiative
 #+filetags: :Federation:Thargoid:CommunityGoal:3303:galnet:

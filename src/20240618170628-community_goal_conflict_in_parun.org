@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       30161227-9327-44f5-a446-a085c34baa32
+:ROAM_REFS: file:../references/Community%20Goals/Conflict_in_Parun__Bounty_Hunting_.md
 :END:
 #+title: Community Goal: Conflict in Parun
 #+filetags: :Empire:Federation:CommunityGoal:3303:galnet:

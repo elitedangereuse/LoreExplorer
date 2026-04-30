@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       1e202843-872a-430d-917b-4c1d8b49e653
+:ROAM_REFS: file:../references/Community%20Goals/Rescue_Operation_in_the_Pleiades.md
 :END:
 #+title: Community Goal: Rescue Operation in the Pleiades
 #+filetags: :Thargoid:CommunityGoal:3303:galnet:

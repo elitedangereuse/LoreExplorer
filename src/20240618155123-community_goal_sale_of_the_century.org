@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       ffa2cf1e-e6bb-475c-b589-0e9b6fd7bca8
+:ROAM_REFS: file:../references/Community%20Goals/Sale_of_the_Century.md
 :END:
 #+title: Community Goal: Sale of the Century
 #+filetags: :CommunityGoal:3302:galnet:

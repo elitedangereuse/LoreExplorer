@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       61832a23-0a2e-4c74-b206-94b23e179756
+:ROAM_REFS: file:../references/Community%20Goals/Terraforming_Vennik_1.md
 :END:
 #+title: Community Goal: Terraforming Vennik 1
 #+filetags: :CommunityGoal:3302:galnet:

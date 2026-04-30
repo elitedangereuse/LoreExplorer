@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       5424b64f-11bb-4d8c-86de-8d1f60132540
+:ROAM_REFS: file:../references/Community%20Goals/Alliance_Outpost_in_the_California_Nebula.md
 :END:
 #+title: Community Goal: Alliance Outpost in the California Nebula
 #+filetags: :Alliance:CommunityGoal:3302:galnet:

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       ea7c0142-0874-42ba-9935-993288fe7542
+:ROAM_REFS: file:../references/Community%20Goals/Wildcard_Competition_Continues.md
 :END:
 #+title: Community Goal: Wildcard Competition Continues
 #+filetags: :CommunityGoal:3302:galnet:

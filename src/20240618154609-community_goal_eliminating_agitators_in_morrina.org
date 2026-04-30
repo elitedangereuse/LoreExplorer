@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       ec63ea8a-f46b-430e-a858-1b9c723a3c2c
+:ROAM_REFS: file:../references/Community%20Goals/Eliminating_Agitators_in_Morrina_.md
 :END:
 #+title: Community Goal: Eliminating Agitators in Morrina
 #+filetags: :Alliance:CommunityGoal:3302:galnet:

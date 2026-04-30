@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       fa2a6714-9d19-4bbd-9906-3c7d5574b8b3
+:ROAM_REFS: file:../references/Community%20Goals/Growing_Independence.md
 :END:
 #+title: Community Goal: Growing Independence
 #+filetags: :Empire:Federation:CommunityGoal:3303:galnet:

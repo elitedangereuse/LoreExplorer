@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       bebaab49-bc33-4c34-89ab-fff3fc3d015e
+:ROAM_REFS: file:../references/Community%20Goals/Core_Dynamics_Campaign_%C3%A2___Trade.md file:../references/Community%20Goals/Core_Dynamics_Campaign_%C3%A2___Bounty_Hunting.md
 :END:
 #+title: Community Goal: Core Dynamics Campaign
 #+filetags: :Federation:Thargoid:CommunityGoal:3303:galnet:

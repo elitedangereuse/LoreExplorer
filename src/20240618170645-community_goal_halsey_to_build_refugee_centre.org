@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       083bb688-0173-49d2-ba1e-c35c6bc1590b
+:ROAM_REFS: file:../references/Community%20Goals/Halsey_to_Build_Refugee_Centre__Trade_.md
 :END:
 #+title: Community Goal: Halsey to Build Refugee Centre
 #+filetags: :Empire:Federation:CommunityGoal:3303:galnet:

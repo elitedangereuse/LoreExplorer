@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       c430dbbe-447c-4fd1-b48a-52c4c50423cb
+:ROAM_REFS: file:../references/Community%20Goals/Appeal_for_Ancient_Data.md
 :END:
 #+title: Community Goal: Appeal for Ancient Data
 #+filetags: :CommunityGoal:3302:galnet:

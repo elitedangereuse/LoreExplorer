@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       738f7d5a-dbd8-4ff1-9475-6a24af9d77e2
+:ROAM_REFS: file:../references/Community%20Goals/Breakfast_at_Tranquillity.md
 :END:
 #+title: Community Goal: Breakfast at Tranquillity
 #+filetags: :CommunityGoal:Guardian:3303:galnet:
