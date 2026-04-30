@@ -7,11 +7,11 @@
 
 * Location
 
-Fairfax Vision | Mudhrid
+Fairfax Vision | [[id:bb9435b7-f21d-4afc-8ca6-a57d0fd51065][Mudhrid]]
 
 * Objective
 
-Hand in Combat Bonds after fighting for Neo-Marlinist Order of Mudhrid
+Hand in [[id:bbbc7bc6-79d7-46b7-925e-c1f882c8f25a][Combat Bonds]] after fighting for Neo-[[id:46536da8-abd4-461f-9bf9-b749d4fc25e1][Marlinist]] Order of [[id:bb9435b7-f21d-4afc-8ca6-a57d0fd51065][Mudhrid]]
 in conflict zones
 
 * Progress
@@ -34,37 +34,37 @@ Tier 0/5
 
 Finished
 
-Conflict has erupted between the Epsilon Fornacis Empire Group and the
-Neo-Marlinist Order of Mudhrid.
+Conflict has erupted between the Epsilon Fornacis [[id:541dcfb3-93ef-40e5-9284-bf5a4f999043][Empire]] Group and the
+Neo-[[id:46536da8-abd4-461f-9bf9-b749d4fc25e1][Marlinist]] Order of [[id:bb9435b7-f21d-4afc-8ca6-a57d0fd51065][Mudhrid]].
 
-An investigation by ACT in the Mudhrid system confirmed that the Order
-of Mudhrid provided logistical support for the NMLA's starport attacks.
+An investigation by ACT in the [[id:bb9435b7-f21d-4afc-8ca6-a57d0fd51065][Mudhrid]] system confirmed that the Order
+of [[id:bb9435b7-f21d-4afc-8ca6-a57d0fd51065][Mudhrid]] provided logistical support for the NMLA's starport attacks.
 Their agents infiltrated other local factions to transport enzyme bombs
 to their targets.
 
-The faction has now renamed itself the Neo-Marlinist Order of Mudhrid.
+The faction has now renamed itself the Neo-[[id:46536da8-abd4-461f-9bf9-b749d4fc25e1][Marlinist]] Order of [[id:bb9435b7-f21d-4afc-8ca6-a57d0fd51065][Mudhrid]].
 Landgrave Arastin Delacroix, its leader, has declared a revolution
-against the Imperial Family. From his flagship, the Steel Majesty, he
+against the [[id:85e6fd5f-69a0-4f7c-95d0-ddb89ef150e9][Imperial Family]]. From his flagship, the [[id:5736dd4c-6645-4a96-b30b-7a56277decab][Steel]] Majesty, he
 announced:
 
 "The corrupt Duvals will never give up their power, so we must take it
 from them. All those who seek to change the established order -- join
 us!"
 
-The Epsilon Fornacis Empire Group responded by engaging their forces in
-battle. Senator Denton Patreus has ordered them to "take revenge for
-the 'Nine Martyrs' atrocities."
+The Epsilon Fornacis [[id:541dcfb3-93ef-40e5-9284-bf5a4f999043][Empire]] Group responded by engaging their forces in
+battle. Senator [[id:75daea85-5e9f-4f6f-a102-1a5edea0283c][Denton Patreus]] has ordered them to "take revenge for
+the '[[id:0713b7e5-a805-4b4d-91c0-104735484fbc][Nine Martyrs]]' atrocities."
 
 Landgrave Delacroix has stated that all pilots willing to support the
-revolution by handing in Combat Bonds at the Steel Majesty in the
-Mudhrid system will be rewarded.
+revolution by handing in [[id:bbbc7bc6-79d7-46b7-925e-c1f882c8f25a][Combat Bonds]] at the [[id:5736dd4c-6645-4a96-b30b-7a56277decab][Steel]] Majesty in the
+[[id:bb9435b7-f21d-4afc-8ca6-a57d0fd51065][Mudhrid]] system will be rewarded.
 
 If Tier 1 is reached, the top 10% of participants will receive a
 uniquely augmented class 2 rating B increased caustic damage and
 capacity enzyme missile rack.
-Should the Neo-Marlinist Order of Mudhrid be victorious the top 75% of
+Should the Neo-[[id:46536da8-abd4-461f-9bf9-b749d4fc25e1][Marlinist]] Order of [[id:bb9435b7-f21d-4afc-8ca6-a57d0fd51065][Mudhrid]] be victorious the top 75% of
 participants will receive the module.
-The module will be placed in storage at the Steel Majesty in the Mudhrid
+The module will be placed in storage at the [[id:5736dd4c-6645-4a96-b30b-7a56277decab][Steel]] Majesty in the [[id:bb9435b7-f21d-4afc-8ca6-a57d0fd51065][Mudhrid]]
 system by Friday the 9th of April 3307.
 
 The two factions have set out seven-day campaigns, which will end early

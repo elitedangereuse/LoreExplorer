@@ -11,7 +11,7 @@ Bacon City | Carnoeck
 
 * Objective
 
-Sell Narcotics on the Bacon City black market. Note that Narcotics are
+Sell [[id:7384c6bc-9ad7-48ae-9d8b-f5f03db51c20][Narcotics]] on the Bacon City black market. Note that [[id:7384c6bc-9ad7-48ae-9d8b-f5f03db51c20][Narcotics]] are
 illegal in this system so do not get scanned.
 
 * Progress
@@ -40,7 +40,7 @@ rallies , a cooperative of independent pilots known as the Bacon Cats is
 organising a celebration at Bacon City in the Carnoeck system.
 
 The events sponsors, United Carnoeck for Equality, have submitted a
-request for Narcotics, and have set aside a quantity of credits for
+request for [[id:7384c6bc-9ad7-48ae-9d8b-f5f03db51c20][Narcotics]], and have set aside a quantity of credits for
 pilots who contribute to this effort.
 
-\*Beer / Wine / Liquor also work \*
+\*[[id:16605f5b-79a7-46d2-9a5c-b53826fc1b5f][Beer]] / [[id:f94bf0ea-483b-4148-bc0a-5c3d77eea8d3][Wine]] / [[id:6342647d-67b3-4045-b696-ce306617e3d0][Liquor]] also work \*

@@ -7,11 +7,11 @@
 
 * Location
 
-Newton Dock | BD-02 4304
+[[id:263e7f7f-de27-4fac-a4a0-37296a08f5f3][Newton Dock]] | [[id:994a3f4f-a3dd-4cc2-9730-fdd2799aff55][BD-02 4304]]
 
 * Objective
 
-Sell Medicines to Newton Dock
+Sell Medicines to [[id:263e7f7f-de27-4fac-a4a0-37296a08f5f3][Newton Dock]]
 
 * Progress
 
@@ -33,13 +33,13 @@ Tier 2/5
 
 Finished
 
-A terrifying disease is currently working its way through BD-02 4304. So
+A terrifying disease is currently working its way through [[id:994a3f4f-a3dd-4cc2-9730-fdd2799aff55][BD-02 4304]]. So
 far the illness has defied all attempts to contain it, despite the best
-efforts of medical staff aboard Newton Dock.
+efforts of medical staff aboard [[id:263e7f7f-de27-4fac-a4a0-37296a08f5f3][Newton Dock]].
 
 Many people have already been placed in quatantine, with many more
 thought to have already been infected. Doctors are concerned that the
 pathogen responsible may have already begun to spread to other systems.
-To assist medical staff aboard Newton Dock, the Democrats of BD-02 4304
+To assist medical staff aboard [[id:263e7f7f-de27-4fac-a4a0-37296a08f5f3][Newton Dock]], the Democrats of [[id:994a3f4f-a3dd-4cc2-9730-fdd2799aff55][BD-02 4304]]
 are offering a series of incentives to any pilots that provide medicines
-to Newton Dock market until such time as the crisis has been averted.
+to [[id:263e7f7f-de27-4fac-a4a0-37296a08f5f3][Newton Dock]] market until such time as the crisis has been averted.

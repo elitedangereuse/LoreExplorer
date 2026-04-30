@@ -11,7 +11,7 @@ Smithport | Run
 
 * Objective
 
-Hand in Bounty Vouchers
+Hand in [[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]]
 
 * Progress
 
@@ -33,14 +33,14 @@ Tier 7/8
 
 Finished
 
-The Rogue Runners, an independent group based in the Run system, have
+The [[id:caf0242f-7093-4322-9b3e-7a19a21f1b17][Rogue]] Runners, an independent group based in the Run system, have
 announced plans to restore and expand Leif Enterprise, an asteroid base
 in their home system. In support of this goal, the organisation has
 placed an open order for various commodities.
 
-To ensure those contributing commodities can do so safely, the Rogue
+To ensure those contributing commodities can do so safely, the [[id:caf0242f-7093-4322-9b3e-7a19a21f1b17][Rogue]]
 Runners' security department has pledged to reward combat pilots for
-any Rogue Runner Bounty Vouchers handed in at Smithport in the Run
+any [[id:caf0242f-7093-4322-9b3e-7a19a21f1b17][Rogue]] Runner [[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]] handed in at Smithport in the Run
 system.
 
 The campaign begins on the 30th of November and will run for one week.
@@ -48,7 +48,7 @@ If the final target is met earlier than planned, the campaign will end
 immediately.
 
 To be eligible for rewards you must sign up as an active participant
-before handing in Bounty Vouchers at Smithport in the Run system.
+before handing in [[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]] at Smithport in the Run system.
 
 Please note that if you have any crew members, a portion of your bounty
 vouchers will be automatically assigned to them. These bounty vouchers

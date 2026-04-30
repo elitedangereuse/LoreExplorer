@@ -7,11 +7,11 @@
 
 * Location
 
-TolaGarf's Junkyard | Kojeara
+TolaGarf's Junkyard | [[id:23c19e19-16f1-4584-a547-47a013a65360][Kojeara]]
 
 * Objective
 
-Deliver Tantalum, Silver and Power Generators
+Deliver [[id:d10c0435-4bc8-42ac-bea6-228d2f02604c][Tantalum]], Silver and [[id:34acf2f1-676d-4e52-86f4-80dc606e435c][Power Generators]]
 
 * Progress
 
@@ -33,7 +33,7 @@ Tier 3/8
 
 Finished
 
-As the Colonia community continues to grow, the Junkyard Dogs have
+As the [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] community continues to grow, the Junkyard Dogs have
 placed an open order for various commodities to support another wave of
 expansion.
 
@@ -41,8 +41,8 @@ A spokesperson for the organisation confirmed the materials would be
 used to construct new outposts in the region. The amount of materials
 received will determine exactly how many outposts are built.
 
-The Junkyard Dogs have promised to reward pilots who deliver Tantalum,
-Silver and Power Generators to their base of operations at Tolagarf's
+The Junkyard Dogs have promised to reward pilots who deliver [[id:d10c0435-4bc8-42ac-bea6-228d2f02604c][Tantalum]],
+Silver and [[id:34acf2f1-676d-4e52-86f4-80dc606e435c][Power Generators]] to their base of operations at Tolagarf's
 Junkyard.
 
 The campaign begins on the 22nd of June 3303 and will run for one week.
@@ -50,7 +50,7 @@ If the final target is met earlier than planned, the campaign will end
 immediately.
 
 To be eligible for rewards you must sign up as an active participant
-before delivering Tantalum, Silver and Power Generators to Tolagarf's
+before delivering [[id:d10c0435-4bc8-42ac-bea6-228d2f02604c][Tantalum]], Silver and [[id:34acf2f1-676d-4e52-86f4-80dc606e435c][Power Generators]] to Tolagarf's
 Junkyard in the EOL Prou Lw-L C8-215 system.
 
 Be aware that faction-state changes, UA bombing and other disruptive

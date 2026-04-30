@@ -7,7 +7,7 @@
 
 * Location
 
-Explorer's Anchorage | Stuemeae FG-Y d7561
+[[id:1c6bdbbd-527a-4533-abac-81eade19c059][Explorer's Anchorage]] | [[id:35fe6a51-9492-44a7-9dc5-4a5395ae732f][Stuemeae FG-Y d7561]]
 
 * Objective
 
@@ -33,11 +33,11 @@ Tier 2/8
 
 Finished
 
-The organisers of the Distant Worlds II expedition have requested
-materials for two construction projects in the Galactic Centre.
+The organisers of the [[id:f176c68d-cc7a-4db2-8305-81f6771c7e9f][Distant Worlds II]] expedition have requested
+materials for two construction projects in the Galactic [[id:9059253d-2c36-4289-9bcf-fd20ba9fc35b][Centre]].
 
 The exploration fleet aims to build a megaship and installation in the
-Stuemeae FG-Y d7561 system.
+[[id:35fe6a51-9492-44a7-9dc5-4a5395ae732f][Stuemeae FG-Y d7561]] system.
 
 Dr Kaii, Fleet Liaison for Deep Space Surveys, explained:
 

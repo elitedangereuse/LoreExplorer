@@ -7,7 +7,7 @@
 
 * Location
 
-Antonio de Andrade Vista | Banki
+[[id:ec0245ae-42bf-4932-9fab-ce2b5e587d4a][Antonio de Andrade Vista]] | [[id:73ee5f36-58a2-4d34-ac47-ee4f3bfdb479][Banki]]
 
 * Objective
 
@@ -34,7 +34,7 @@ Tier 6
 
 Finished
 
-Things aren't looking good. The Federal Navy is trying to fight a war
+Things aren't looking good. The [[id:3d268496-1d95-49bc-aca6-49d16a4337c8][Federal Navy]] is trying to fight a war
 on two fronts, and right now, it's losing. The President has ordered
 the Navy to provide more firepower to the Gold Advanced Partners so that
 they can oust the rebels once and for all! Unfortunately, it doesn't
@@ -42,7 +42,7 @@ look like they're going to get here fast enough to stop the rebels from
 fortifying their position.
 
 That's where you come in! Every combat bond you earn on behalf of the
-Federation in Banki will help weaken the rebels' position and increase
+[[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]] in [[id:73ee5f36-58a2-4d34-ac47-ee4f3bfdb479][Banki]] will help weaken the rebels' position and increase
 the amount of credits the Gold Advanced Partners are permitted to spend
-from the federal war chest! Help the people of Banki in their hour of
+from the federal war chest! Help the people of [[id:73ee5f36-58a2-4d34-ac47-ee4f3bfdb479][Banki]] in their hour of
 need, and prevent the deployment of Capital Ships to this sector.

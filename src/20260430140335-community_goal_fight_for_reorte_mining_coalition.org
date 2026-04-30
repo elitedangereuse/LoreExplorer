@@ -7,7 +7,7 @@
 
 * Location
 
-Davies High | Reorte
+[[id:aeb2ca41-e6ea-499c-a58e-7bc4427df58b][Davies High]] | [[id:5292d8c1-fa6e-4352-a03f-ef984f706203][Reorte]]
 
 * Objective
 
@@ -33,31 +33,31 @@ Tier 6/6
 
 Finished
 
-The Reorte Mining Coalition has declared its intent to remove the Sirius
+The [[id:83d61aae-150c-4a38-81aa-0443046505c3][Reorte Mining Coalition]] has declared its intent to remove the [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]]
 Corporation presence from its home system.
 
-The megaship Chariot of Rhea arrived in Reorte as part of Sirius
-Corporation's new role as the Alliance's strategic defence partner.
+The megaship Chariot of [[id:6da9023a-ccb6-444a-be77-626dfb552eb1][Rhea]] arrived in [[id:5292d8c1-fa6e-4352-a03f-ef984f706203][Reorte]] as part of [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]]
+Corporation's new role as the [[id:2506edb2-fef4-4723-85c6-02482635229d][Alliance]]'s strategic defence partner.
 But the system's controlling faction ordered it to withdraw. The
-megaship's non-compliance has resulted in skirmishes targeting Sirius
+megaship's non-compliance has resulted in skirmishes targeting [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]]
 forces.
 
-Fergus Cassidy, CEO of the Reorte Mining Coalition, announced:
+[[id:3edef37e-d973-4107-963d-b7271df0bb8e][Fergus Cassidy]], CEO of the [[id:83d61aae-150c-4a38-81aa-0443046505c3][Reorte Mining Coalition]], announced:
 
-"We fully support Councillor Kaine's position that Sirius Corporation
-is operating illegally under Alliance law. Therefore we will defend our
+"We fully support Councillor Kaine's position that [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]]
+is operating illegally under [[id:2506edb2-fef4-4723-85c6-02482635229d][Alliance]] law. Therefore we will defend our
 territory from this aggressive foreign entity."
 
 The fighting is not believed to have reached surface level and is
 expected to remain a ship-based conflict.
 
-To rally support from independent pilots, Reorte Mining Coalition will
-sponsor distribution of an Alioth system permit to the top 75% of
+To rally support from independent pilots, [[id:83d61aae-150c-4a38-81aa-0443046505c3][Reorte Mining Coalition]] will
+sponsor distribution of an [[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]] system permit to the top 75% of
 supporters.
 
-Prime Minister Edmund Mahon has ordered the Reorte Mining Coalition to
-cease hostilities immediately. However, Councillor Ainsley Niven -- who
-represents Reorte in the Assembly and is a political supporter of Nakato
+Prime Minister [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74][Edmund Mahon]] has ordered the [[id:83d61aae-150c-4a38-81aa-0443046505c3][Reorte Mining Coalition]] to
+cease hostilities immediately. However, Councillor [[id:e19c4963-67d3-4204-bd00-5f11b266f67a][Ainsley Niven]] -- who
+represents [[id:5292d8c1-fa6e-4352-a03f-ef984f706203][Reorte]] in the Assembly and is a political supporter of Nakato
 Kaine -- claims that the faction has the right to protect its territory,
 since it was not invited to ratify the defence pact.
 

@@ -33,7 +33,7 @@ Tier 6/10
 
 Finished
 
-Ever since mankind's first tentative steps to the stars, the Sirius
+Ever since mankind's first tentative steps to the stars, the [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]]
 Corporation has prided itself on standing shoulder to shoulder with
 those men and woman whose bravery and sacrifice led humanity safely
 through the unknowns depths of space.
@@ -44,8 +44,8 @@ more for us to explore. Countless pristine worlds and countless more
 fixer-uppers, just waiting to be discovered by those brave enough to
 take that step into the unknown.
 
-To help inspire a new generation of galactic explorers, the Sirius
-Corporation is pleased to announce the Grand Sirius Interstellar
+To help inspire a new generation of galactic explorers, the [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]]
+Corporation is pleased to announce the Grand [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Interstellar
 Expedition. This is a month-long initiative to survey the uncharted
 depths of the galaxy to find new habitable systems in which humanity can
 flourish and grow.

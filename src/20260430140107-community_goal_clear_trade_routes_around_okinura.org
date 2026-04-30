@@ -11,7 +11,7 @@ Fisher Terminal | Okinura
 
 * Objective
 
-Earn rewards by handing in Bounty Vouchers at Fisher Terminal in the
+Earn rewards by handing in [[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]] at Fisher Terminal in the
 Okinura System.
 
 * Progress
@@ -34,11 +34,11 @@ Tier 4/5
 
 Finished
 
-Federation efforts to establish a High Tech economy in Okinura are being
+[[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]] efforts to establish a [[id:4c51911b-6266-4575-abcb-96a18b3800b7][High Tech]] economy in Okinura are being
 hindered by pirate activity.
 
 To support the Traders involved in the initiative to improve the economy
-in the Okinura System, the Earth Defence Fleet (EDF) has issued an open
+in the Okinura System, the [[id:5b0f485f-4793-468d-a1a1-483606f44e0e][Earth]] Defence Fleet (EDF) has issued an open
 kill order on any ships attacking trading vessels delivering goods to
 Fisher Terminal in the Okinura System.
 The EDF are offering significant financial incentives to reward pilots

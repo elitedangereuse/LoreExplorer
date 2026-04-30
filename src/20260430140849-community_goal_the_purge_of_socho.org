@@ -7,11 +7,11 @@
 
 * Location
 
-Dantec Enterprise | Socho
+[[id:982f62a4-4f8a-44d3-a16e-0b87cde3327f][Dantec Enterprise]] | [[id:092e7139-1d8c-45d1-89ce-615326e10853][Socho]]
 
 * Objective
 
-Hand in Pilots Federation Combat Bonds
+Hand in Pilots [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]] [[id:bbbc7bc6-79d7-46b7-925e-c1f882c8f25a][Combat Bonds]]
 
 * Progress
 
@@ -34,16 +34,16 @@ Tier 8/8
 Finished
 
 Following reports of Thargoid incursions into the core systems, the
-Aegis Core has launched a counter-Thargoid operation in the Socho
+[[id:79f218d0-1350-4c43-95f3-0869621dd59a][Aegis Core]] has launched a counter-Thargoid operation in the [[id:092e7139-1d8c-45d1-89ce-615326e10853][Socho]]
 region.
 
 A spokesperson for the organisation gave the following statement to the
 media:
 The goal is simple: Take out Thargoid vessels, gather up the pieces, and
-deliver them to Dantec Enterprise. We don't know as much about the
+deliver them to [[id:982f62a4-4f8a-44d3-a16e-0b87cde3327f][Dantec Enterprise]]. We don't know as much about the
 Scouts as we do the Interceptors, so we want to compare materials from
 both variants and find out what they're made of.
 
-The Aegis Core has appealed to independent pilots to support the
-operation by destroying Thargoids in Socho. Commanders who participate
+The [[id:79f218d0-1350-4c43-95f3-0869621dd59a][Aegis Core]] has appealed to independent pilots to support the
+operation by destroying Thargoids in [[id:092e7139-1d8c-45d1-89ce-615326e10853][Socho]]. Commanders who participate
 in the operation will be generously rewarded.

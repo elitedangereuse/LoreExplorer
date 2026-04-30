@@ -11,7 +11,7 @@ Walheim Enterprise | Herthe
 
 * Objective
 
-Smuggle in rare narcotics to help the Crom Silver Boys create a new rare
+Smuggle in rare narcotics to help the [[id:21c5d979-1df3-4392-b144-89d7fc6e7ec8][Crom Silver Boys]] create a new rare
 fesh variant
 
 * Progress
@@ -34,42 +34,42 @@ Tier 8/8
 
 Finished
 
-Those who have explored the trade routes of Wolf 1301 will recall 'wolf
+Those who have explored the trade routes of [[id:7815976c-fd70-4496-9a17-23d392a95014][Wolf 1301]] will recall 'wolf
 fesh', a popular psychoactive drug produced in the system. Although
 originally legal, when control of the system changed last year the drug
 was banned, and production was immediately halted. Wolf fesh disappeared
 from galactic trade routes almost overnight.
 
 But now it seems that the drug is about to make a return. Notorious
-crime syndicate the Crom Silver Boys, known for targeting traders and
-miners from their secret base in the Crom system, claims to have
+[[id:3fdaedf3-fedf-47a2-9ee7-e93fcdf08402][crime syndicate]] the [[id:21c5d979-1df3-4392-b144-89d7fc6e7ec8][Crom Silver Boys]], known for targeting traders and
+miners from their secret base in the [[id:3418cf80-0ced-491f-a1f6-c31a08c0a80b][Crom]] system, claims to have
 procured the secret recipe for the drug, and has announced plans to
 produce a new variant.
 
 The organisation has already stockpiled the necessary common
 ingredients, but to begin production it needs a quantity of rarer
-elements found only in other narcotics. The Crom Silver Boys have
+elements found only in other narcotics. The [[id:21c5d979-1df3-4392-b144-89d7fc6e7ec8][Crom Silver Boys]] have
 therefore placed an open order for the requisite intoxicants, and have
 promised to reward those who deliver the following to Walheim Enterprise
 in the Herthe system:
 
-Aganippe Rush
-Geawen Dance Dust
-Tarach Spice
-Terra Mater Blood Bores
+[[id:040941c0-97fa-4dbc-b532-4cbc45f039c7][Aganippe Rush]]
+[[id:324af547-0452-4715-9e0c-96f8222e1f2c][Geawen Dance Dust]]
+[[id:a8b071fa-4bd3-4c0a-ac07-c6269cf9f05c][Tarach Spice]]
+[[id:0393ff97-fe8a-4767-ba66-be982e88c216][Terra Mater Blood Bores]]
 Waters of Shintara
 
 Most of the requested commodities are illegal in Herthe, and the
 system's security forces have vowed to interdict and search any
-suspicious vessels. The Crom Silver Boys have advised pilots
+suspicious vessels. The [[id:21c5d979-1df3-4392-b144-89d7fc6e7ec8][Crom Silver Boys]] have advised pilots
 participating in the operation to exercise caution.
 
-Jimmy 'Ice Pick' Falcone, spokeperson for the Crom Silver Boys, was
-asked why the operation was not taking place in the Crom system, where
+Jimmy 'Ice Pick' Falcone, spokeperson for the [[id:21c5d979-1df3-4392-b144-89d7fc6e7ec8][Crom Silver Boys]], was
+asked why the operation was not taking place in the [[id:3418cf80-0ced-491f-a1f6-c31a08c0a80b][Crom]] system, where
 the new drug will be produced. In response, Falcone said:
 
-«Only a trusted few are allowed into Crom. We are giving new pilots a
-chance to prove themselves worthy by smuggling illegal goods into
+«Only a trusted few are allowed into [[id:3418cf80-0ced-491f-a1f6-c31a08c0a80b][Crom]]. We are giving new pilots a
+chance to prove themselves worthy by [[id:1506f0af-2c30-4c8f-aedb-f654114d319d][smuggling]] illegal goods into
 Herthe.»
 
 The campaign begins on the 9th of June 3302 and will run for one week.

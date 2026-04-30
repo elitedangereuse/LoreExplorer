@@ -8,12 +8,12 @@
 
 /22 Sep 3302/
 
-The [[id:70fa34ea-bc98-40ff-97f0-e4f4538387a6][Merope]] Expeditionary Fleet has been tasked with constructing a new forward operating base in the Pleiades Sector Ab-W B2-4 system on behalf of the Empire. The new outpost will support the Empire's ongoing operations in the Pleiades Nebula.
+The [[id:70fa34ea-bc98-40ff-97f0-e4f4538387a6][Merope]] Expeditionary Fleet has been tasked with constructing a new forward operating base in the [[id:cd15e78b-89d1-4051-bd92-05d0ab49ec17][Pleiades]] Sector Ab-W B2-4 system on behalf of the [[id:541dcfb3-93ef-40e5-9284-bf5a4f999043][Empire]]. The new outpost will support the [[id:541dcfb3-93ef-40e5-9284-bf5a4f999043][Empire]]'s ongoing operations in the [[id:7e99a467-6e3d-418e-8b10-72cf3660efa6][Pleiades Nebula]].
 
 A spokesperson for the [[id:70fa34ea-bc98-40ff-97f0-e4f4538387a6][Merope]] Expeditionary Fleet released a statement:
 
-"I realise some might perceive this as an attempt to assert Imperial dominion over the Pleiades Nebula, but establishing a strong military presence in the Pleiades is the only way we can oppose Federal attempts to establish a monopoly on meta-alloys."
+"I realise some might perceive this as an attempt to assert Imperial dominion over the [[id:7e99a467-6e3d-418e-8b10-72cf3660efa6][Pleiades Nebula]], but establishing a strong military presence in the [[id:cd15e78b-89d1-4051-bd92-05d0ab49ec17][Pleiades]] is the only way we can oppose Federal attempts to establish a monopoly on meta-alloys."
 
-In support of this initiative, the [[id:70fa34ea-bc98-40ff-97f0-e4f4538387a6][Merope]] Expeditionary Fleet has placed an open order for [[id:34acf2f1-676d-4e52-86f4-80dc606e435c][Power Generators]], Tantalum and Auto Fabricators, and has promised to reward pilots who deliver these commodities to its base of operations at Obsidian Orbital in the [[id:0ee60994-364c-41b9-98ca-993d041cea72][Maia]] system.
+In support of this initiative, the [[id:70fa34ea-bc98-40ff-97f0-e4f4538387a6][Merope]] Expeditionary Fleet has placed an open order for [[id:34acf2f1-676d-4e52-86f4-80dc606e435c][Power Generators]], [[id:d10c0435-4bc8-42ac-bea6-228d2f02604c][Tantalum]] and Auto Fabricators, and has promised to reward pilots who deliver these commodities to its base of operations at [[id:4223b99a-7e0c-44fa-b7e9-afeca7e0c031][Obsidian Orbital]] in the [[id:0ee60994-364c-41b9-98ca-993d041cea72][Maia]] system.
 
 The campaign begins on the 22nd of September 3302 and will run for one week. If final targets are met earlier than planned, the campaign will end immediately.

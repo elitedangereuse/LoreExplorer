@@ -7,7 +7,7 @@
 
 * Location
 
-Shepherd Hub | Bastes
+Shepherd Hub | [[id:a6410be1-99d2-4e1f-924b-4ec4dca8dfe9][Bastes]]
 
 * Objective
 
@@ -33,7 +33,7 @@ Tier 0/1
 
 Finished
 
-A terrifying disease is currently working its way through Bastes. So far
+A terrifying disease is currently working its way through [[id:a6410be1-99d2-4e1f-924b-4ec4dca8dfe9][Bastes]]. So far
 the illness has defied all attempts to contain it, despite the best
 efforts of the medical staff aboard Shepherd Hub.
 

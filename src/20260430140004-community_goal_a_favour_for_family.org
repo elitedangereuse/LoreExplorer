@@ -7,11 +7,11 @@
 
 * Location
 
-Lombardelli's Legacy | Persephone
+Lombardelli's Legacy | [[id:ffe1b4a6-2351-4c17-a8e1-a82da862ab90][Persephone]]
 
 * Objective
 
-Hand in Imperial Bounty Vouchers to Lombardelli's Legacy
+Hand in Imperial [[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]] to Lombardelli's Legacy
 
 * Progress
 
@@ -39,7 +39,7 @@ her fleet position themselves to protect the Angels from pirates looking
 to interfere wit their efforts.
 
 Imperial pilots willing to lend their combat prowess to the cause are
-asked to patrol all local systems, not just Persephone, in order to
+asked to patrol all local systems, not just [[id:ffe1b4a6-2351-4c17-a8e1-a82da862ab90][Persephone]], in order to
 ensure that an adequate level of security coverage has been arranged to
 properly protect traders and relief staff as they ship medicine
 throughout the area.

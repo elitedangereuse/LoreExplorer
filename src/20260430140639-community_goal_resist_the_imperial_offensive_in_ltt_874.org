@@ -11,7 +11,7 @@ Bell Dock | LTT 874
 
 * Objective
 
-Earn rewards by selling Emperor's Dawn Combat Bonds at Bell Dock
+Earn rewards by selling Emperor's Dawn [[id:bbbc7bc6-79d7-46b7-925e-c1f882c8f25a][Combat Bonds]] at Bell Dock
 
 * Progress
 
@@ -33,7 +33,7 @@ Tier 0/3
 
 Finished
 
-Senator Denton Patreus has dispatched several squadrons of Imperial
+Senator [[id:75daea85-5e9f-4f6f-a102-1a5edea0283c][Denton Patreus]] has dispatched several squadrons of Imperial
 fighters to destroy Emperor's Dawn bases in the Namarii, Tabaldak, and
 LTT 874 systems.
 Emperor's Dawn has issued a call for aid, pledging to reward any pilots

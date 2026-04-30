@@ -11,7 +11,7 @@ Weyl Station | Eir
 
 * Objective
 
-Deliver Palladium, Superconductors and Insulating Membrane
+Deliver [[id:dcc20e2e-26dd-4106-b23b-4df951876173][Palladium]], [[id:94637eec-3dd2-478f-9f38-8930b96a15fe][Superconductors]] and [[id:5107b041-1d34-46e8-a66d-d624541c355f][Insulating Membrane]]
 
 * Progress
 
@@ -33,28 +33,28 @@ Tier 6/6
 
 Finished
 
-The Witch Head Nebula has been confirmed as a primary source of
-meta-alloys, following an initiative hosted by Aegis Research. The news
+The [[id:ce73c3e5-6875-480c-95a9-c146f6247bb7][Witch Head Nebula]] has been confirmed as a primary source of
+meta-alloys, following an initiative hosted by [[id:3808ab0e-fcff-4299-b882-f8c3946f272d][Aegis Research]]. The news
 has triggered efforts to swiftly establish a human presence in the
 area.
 ​
-Aegis Research released this statement from Professor Alba Tesreau:​
+[[id:3808ab0e-fcff-4299-b882-f8c3946f272d][Aegis Research]] released this statement from Professor [[id:c2623368-19b0-4995-9e35-b8f54f741a53][Alba Tesreau]]:​
 
 "Having analysed large amounts of exploration data, graciously provided
-by the galactic community, we can confirm that the Witch Head Nebula
+by the galactic community, we can confirm that the [[id:ce73c3e5-6875-480c-95a9-c146f6247bb7][Witch Head Nebula]]
 contains enough barnacle sites to meet the demand for meta-alloys. I am
 confident that these sites will offer a suitable alternative to the
-exhausted barnacles in the Pleiades Nebula."
+exhausted barnacles in the [[id:7e99a467-6e3d-418e-8b10-72cf3660efa6][Pleiades Nebula]]."
 
-The Federation has already dispatched advance teams to the region, with
+The [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]] has already dispatched advance teams to the region, with
 Cigudates Purple Creative Corp. coordinating efforts to establish a
-Federal presence in the Witch Head Nebula.​
+Federal presence in the [[id:ce73c3e5-6875-480c-95a9-c146f6247bb7][Witch Head Nebula]].​
 
 Pilots seeking to contribute to this initiative should head to Weyl
 Station in the Eir system between the 11th and 22nd of July 3305.​
 ​
 To earn rewards you must sign up as an active participant before
-delivering Palladium, Superconductors and Insulating Membranes to Weyl
+delivering [[id:dcc20e2e-26dd-4106-b23b-4df951876173][Palladium]], [[id:94637eec-3dd2-478f-9f38-8930b96a15fe][Superconductors]] and Insulating Membranes to Weyl
 Station in the Eir system.​
 
 Be aware that faction-state changes and other disruptive events can

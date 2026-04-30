@@ -7,11 +7,11 @@
 
 * Location
 
-Heart of Taurus | Synuefe CE-R c21-6
+[[id:f10f7c83-9d29-470c-a640-1a3e5334b686][Heart of Taurus]] | Synuefe CE-R c21-6
 
 * Objective
 
-Deliver mined Coltan, Methanol Monohydrate Crystals and Lithium
+Deliver mined [[id:047e63e2-7b61-424c-a330-e712609eaba5][Coltan]], [[id:59d1161f-98db-4a4d-a0f7-b55a742a7ed3][Methanol Monohydrate Crystals]] and [[id:54f8e5b0-5231-4df3-8047-5af47c1508fc][Lithium]]
 Hydroxide
 
 Hint: Nearest icy pristine rings, Nearest rocky pristine rings
@@ -36,7 +36,7 @@ Tier 3/4
 
 Finished
 
-Taurus Mining Ventures has requested help with a mining and delivery
+[[id:5d339d87-3edb-4938-984a-49708bf6b65f][Taurus Mining Ventures]] has requested help with a mining and delivery
 operation in the Synuefe CE-R c21-6 system.
 
 In recent weeks, the mining corporation has performed research on what
@@ -45,20 +45,20 @@ c21-6. It now seeks shipments of the system's native ores to explore
 commercially valuable applications of any molecular changes caused by
 this radiation.
 
-Dr Ruben Carpenter, head of the company's research division, outlined
+Dr [[id:ff0506b5-950b-47b0-95a1-bc095a7dab95][Ruben Carpenter]], head of the company's research division, outlined
 the initiative:
 
 "I'm very excited to offer pilots this opportunity to support our
 scientific studies, which will hopefully prove lucrative for all
 involved. We require coltan, lithium hydroxide and methanol monohydrate
 crystals to be mined from locations within Synuefe CE-R c21-6 and
-delivered to the Heart of Taurus megaship."
+delivered to the [[id:f10f7c83-9d29-470c-a640-1a3e5334b686][Heart of Taurus]] megaship."
 
 "We will also pay for shipments of the same ores that have been mined
 from other systems. These will allow us to compare samples, in order to
 refine our commercial processes."
 
-In addition to credit rewards, Taurus Mining Ventures is offering up to
+In addition to credit rewards, [[id:5d339d87-3edb-4938-984a-49708bf6b65f][Taurus Mining Ventures]] is offering up to
 three paintjobs to the top 75% of participants. The number of paintjobs
 available will be dependant on the Tier reached.
 

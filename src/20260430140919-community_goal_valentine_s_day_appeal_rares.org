@@ -11,7 +11,7 @@ Rose Terminal | Vestani
 
 * Objective
 
-Deliver Thrutis Cream, Deuringas Truffles and Esuseku Cavier
+Deliver [[id:6e1b2c53-b60a-4663-8390-1bbaa39ebce3][Thrutis Cream]], [[id:c66e437c-9690-4cee-a39b-d12f67bf4ff7][Deuringas Truffles]] and [[id:4983f623-41ab-4914-b516-4f8752d07b53][Esuseku]] Cavier
 
 * Progress
 
@@ -46,7 +46,7 @@ period. A spokesperson for the organisation said:
 
 "We won't be able to fulfil our commercial obligations without the
 support of the galactic community, so we're offering generous premiums
-to pilots who deliver Thrutis Cream, Deuringas Truffles and Esuseku
+to pilots who deliver [[id:6e1b2c53-b60a-4663-8390-1bbaa39ebce3][Thrutis Cream]], [[id:c66e437c-9690-4cee-a39b-d12f67bf4ff7][Deuringas Truffles]] and [[id:4983f623-41ab-4914-b516-4f8752d07b53][Esuseku]]
 Caviar to our headquarters at Rose Terminal in the Vestani system."
 
 The campaign begins on the 9th of February 3303 and will run for one
@@ -54,7 +54,7 @@ week. If the final target is met earlier than planned, the campaign will
 end immediately.
 
 To be eligible for rewards you must sign up as an active participant
-before delivering Thrutis Cream, Deuringas Truffles and Esuseku Caviar
+before delivering [[id:6e1b2c53-b60a-4663-8390-1bbaa39ebce3][Thrutis Cream]], [[id:c66e437c-9690-4cee-a39b-d12f67bf4ff7][Deuringas Truffles]] and [[id:bc91675a-d24b-48f5-ace9-8229075afa6e][Esuseku Caviar]]
 to Rose Terminal in the Vestani system.
 
 Be aware that faction-state changes, UA bombing and other disruptive
@@ -62,11 +62,11 @@ events can negatively impact markets and station services, and could
 prevent the initiative from running smoothly.
 
 [Notes:\\\\](Notes:\\) Source systems:
-•Thrutis Cream: - Thrutis [213 Ly - Kingsbury Dock ( 291 Ls from the
+•[[id:6e1b2c53-b60a-4663-8390-1bbaa39ebce3][Thrutis Cream]]: - [[id:3c840745-956e-458e-90a9-4e1096425a0f][Thrutis]] [213 Ly - [[id:0a3da312-062b-472d-be32-60dd74de1618][Kingsbury Dock]] ( 291 Ls from the
 main star. Orbis) - max allocation 9 - 18t
-•Deuringas Truffles - DEURINGAS [161 Ly]{.underline} - Shukor Hub (802
-Ls from the main star. Coriolis) - max allocation 7 - 9 t
-•Esuseku Caviar - Esuseku [185 Ly \_ - Savinykh Orbital - (274 Ls from
+•[[id:c66e437c-9690-4cee-a39b-d12f67bf4ff7][Deuringas Truffles]] - DEURINGAS [161 Ly]{.underline} - [[id:27447159-0f33-4987-b388-be8607b8786c][Shukor Hub]] (802
+Ls from the main star. [[id:dfcd3273-3589-4725-a75f-5f1a08adc662][Coriolis]]) - max allocation 7 - 9 t
+•[[id:bc91675a-d24b-48f5-ace9-8229075afa6e][Esuseku Caviar]] - [[id:4983f623-41ab-4914-b516-4f8752d07b53][Esuseku]] [185 Ly \_ - [[id:f676043e-849d-4672-b90f-e7ce21cbaf82][Savinykh Orbital]] - (274 Ls from
 the main star, Orbis) - max allocation 11 - 15t
 
 Top 5 CMDRs: 9,792,000 CR

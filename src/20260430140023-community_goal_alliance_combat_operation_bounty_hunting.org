@@ -11,7 +11,7 @@ Roberts Port | Fedmich
 
 * Objective
 
-Hand in Bounty Vouchers at Roberts Port
+Hand in [[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]] at Roberts Port
 
 * Progress
 
@@ -33,7 +33,7 @@ Tier 10/10
 
 Finished
 
-The Alliance Council of Admirals has announced that an Alliance convoy
+[[id:1c4d53a2-d81f-4cfa-8001-eb77f2c79b5f][The Alliance]] [[id:b0b347ac-10b8-4190-8787-1557f7d4a6da][Council of Admirals]] has announced that an [[id:2506edb2-fef4-4723-85c6-02482635229d][Alliance]] convoy
 has been attacked in the Fedmich system.
 
 A rescue operation has been launched to recover Escape Pods and Wreckage
@@ -47,7 +47,7 @@ week. If the final target is met earlier than planned, the campaign will
 end immediately.
 
 To be eligible for rewards you must sign up as an active participant
-before handing in Bounty Vouchers at Roberts Port in the Fedmich
+before handing in [[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]] at Roberts Port in the Fedmich
 system.
 
 Please note that if you have any crew members, a portion of your bounty
@@ -70,7 +70,7 @@ Fedmich 10: 3xLow, 1xRES
 Fedmich 12: 1xLow, 2xHaz
 
 - Bounties that count towards the goal:
-Alliance, Fedmich Electronics Partners
+[[id:2506edb2-fef4-4723-85c6-02482635229d][Alliance]], Fedmich Electronics Partners
 
 Current Participation Rewards:
 Top 5 CMDRs: 43,053,544 CR

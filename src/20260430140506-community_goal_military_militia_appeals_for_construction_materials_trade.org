@@ -11,7 +11,7 @@ Pellegrino Hub | Xi-2 Lupi
 
 * Objective
 
-Deliver Military Grade Fabrics and Platinum
+Deliver [[id:38ba824d-734c-4575-8a53-472887df0a83][Military Grade Fabrics]] and [[id:045f7139-ac68-453c-b97f-b61c8a9c370d][Platinum]]
 
 * Progress
 
@@ -57,7 +57,7 @@ begins on the 9th March 3303 and will run for one week. If the final
 target is met earlier than planned, the campaign will end immediately.
 
 To be eligible for rewards you must sign up as an active participant
-before delivering Military Grade Fabrics and Platinum to Pellegrino Hub
+before delivering [[id:38ba824d-734c-4575-8a53-472887df0a83][Military Grade Fabrics]] and [[id:045f7139-ac68-453c-b97f-b61c8a9c370d][Platinum]] to Pellegrino Hub
 in the XI-2 Lupi system.
 
 Be aware that faction-state changes, UA bombing and other disruptive
@@ -74,5 +74,5 @@ Top 50%: 9,849,600 CR
 Top 75%: 4,924,800 CR
 Top 100%: 600,000 CR
 
-Distance from Eravate: ca. 170 ly
+Distance from [[id:758e843d-ea7e-48f2-b480-d62faa129900][Eravate]]: ca. 170 ly
 Coordinates: ca. 60 / 48 / 180

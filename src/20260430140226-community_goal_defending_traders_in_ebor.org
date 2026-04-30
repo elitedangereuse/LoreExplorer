@@ -11,7 +11,7 @@ Morris Enterprise | Ebor
 
 * Objective
 
-Hand in Bounty Vouchers
+Hand in [[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]]
 
 * Progress
 
@@ -54,7 +54,7 @@ the final target is met earlier than planned, the campaign will end
 immediately.
 
 To earn rewards you must sign up as an active participant before handing
-in Bounty Vouchers at Morris Enterprise in the Ebor system. Only bounty
+in [[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]] at Morris Enterprise in the Ebor system. Only bounty
 vouchers handed in after signing up will count toward your personal
 contribution total.
 
@@ -65,7 +65,7 @@ will receive the reward for their vouchers when they are handed in. The
 proportion of bounty vouchers assigned to your crew will depend on their
 rank.
 
-Be aware that faction-state changes, Thargoid Sensor-related
+Be aware that faction-state changes, [[id:8ddf8e00-4541-4857-a609-5f6c5849dded][Thargoid Sensor]]-related
 interference and other disruptive events can negatively impact markets
 and station services, and could prevent the initiative from running
 smoothly.

@@ -11,7 +11,7 @@ Townshend Hub | 78 Ursae Majoris
 
 * Objective
 
-Hand in Alliance Bounty Vouchers to Townshend Hub
+Hand in [[id:2506edb2-fef4-4723-85c6-02482635229d][Alliance]] [[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]] to Townshend Hub
 
 * Progress
 
@@ -36,12 +36,12 @@ Finished
 President Halsey is planning to arrive any day now, and it's important
 that her visit goes off without a hitch.
 
-Acting under advisement of Alliance Prime Minister Edmund Mahon, Mayor
+Acting under advisement of [[id:2506edb2-fef4-4723-85c6-02482635229d][Alliance]] Prime Minister [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74][Edmund Mahon]], Mayor
 Bailey has ordered an increase in security throughout the sector, until
-such time as the President has passed out of Alliance space.
+such time as the President has passed out of [[id:2506edb2-fef4-4723-85c6-02482635229d][Alliance]] space.
 
 To help facilitate the increased security requirements, Pilots
-Federation members in good standing are being asked to assist Alliance
+[[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]] members in good standing are being asked to assist [[id:2506edb2-fef4-4723-85c6-02482635229d][Alliance]]
 law enforcement officers in their duties. As an incentive, the Allioth
 Independents are offering a bonus reward scheme which is open to all
 eligible pilots who sign up to act as deputies during this tense time.

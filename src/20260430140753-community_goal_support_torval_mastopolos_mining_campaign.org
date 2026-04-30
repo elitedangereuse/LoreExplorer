@@ -7,11 +7,11 @@
 
 * Location
 
-Pride of Bitterwood | LTT 198
+Pride of Bitterwood | [[id:843517ac-e27b-46a3-84ff-700f94a0ba67][LTT 198]]
 
 * Objective
 
-Deliver Silver, Gallite, Coltan and Praseodymium
+Deliver Silver, [[id:19346f59-fa1a-4ba2-8373-5b4d90f26662][Gallite]], [[id:047e63e2-7b61-424c-a330-e712609eaba5][Coltan]] and [[id:d5d904e1-f1a7-4c46-afe8-728f625d11bf][Praseodymium]]
 
 Hint: Nearest metal rich pristine rings
 
@@ -35,24 +35,24 @@ Tier 3/5
 
 Finished
 
-Torval-Mastopolos Mining and Wreaken Construction have requested
-deliveries of mined resources to the LTT 198 system.
+Torval-[[id:4dfc1d85-8d12-4503-a4ed-84da898a03ba][Mastopolos Mining]] and [[id:242ea5e7-fba7-4bbc-9e8d-ce3190f63609][Wreaken Construction]] have requested
+deliveries of mined resources to the [[id:843517ac-e27b-46a3-84ff-700f94a0ba67][LTT 198]] system.
 
-LTT 198 State Ltd, its controlling faction, will only allow one of the
+[[id:843517ac-e27b-46a3-84ff-700f94a0ba67][LTT 198]] State Ltd, its controlling faction, will only allow one of the
 rival corporations to remain permanently. The company with the most
 successful campaign will establish a new starport in the
 permit-controlled system, which is scheduled to enter operation on the
 2nd of September 3307.
 
-Senator Zemina Torval, who has sole control of the Mastopolos Mining
+Senator [[id:d8e3667c-3ba1-43aa-bc90-dac719c6d5e7][Zemina Torval]], who has sole control of the [[id:4dfc1d85-8d12-4503-a4ed-84da898a03ba][Mastopolos Mining]]
 subsidiary, announced:
 
 "My company is working on an experimental mining laser with increased
 range. To achieve this, shipments of coltan, gallite, praseodymium and
 silver must be delivered in sufficient numbers to the megaship Pride of
-Bitterwood in LTT 198."
+Bitterwood in [[id:843517ac-e27b-46a3-84ff-700f94a0ba67][LTT 198]]."
 
-LTT 198 State Ltd will provide all contributors to these initiatives
+[[id:843517ac-e27b-46a3-84ff-700f94a0ba67][LTT 198]] State Ltd will provide all contributors to these initiatives
 with temporary system permits lasting one week.
 
 If Tier 1 is reached, the top 10% of participants will receive a fully
@@ -60,9 +60,9 @@ engineered class 1 rating D mining laser with long range. The module
 will be placed in storage at the Pride of Bitterwood in EGM 559 by
 Friday the 27th of August 3307.
 
-Should Torval-Mastopolos Mining be victorious the top 75% of
+Should Torval-[[id:4dfc1d85-8d12-4503-a4ed-84da898a03ba][Mastopolos Mining]] be victorious the top 75% of
 participants will receive the module along with permanent permit access
-to LTT 198.
+to [[id:843517ac-e27b-46a3-84ff-700f94a0ba67][LTT 198]].
 
 The two factions have set out seven-day campaigns, which will end early
 on Thursday the 26th of August 3307. If one faction meets its objectives

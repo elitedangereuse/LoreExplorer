@@ -7,11 +7,11 @@
 
 * Location
 
-Gabriel Enterprise | Harma
+[[id:8c659354-ea2b-4fd2-aeb9-874346ff07c1][Gabriel Enterprise]] | [[id:1c48b668-227f-4973-a6a9-7638e35c02c2][Harma]]
 
 * Objective
 
-Deliver Ceramic Composites, Semiconductors, Polymers and Water Purifiers
+Deliver [[id:0b64653e-4cad-4f00-bf49-d88ae6049a11][Ceramic Composites]], [[id:0def679f-6fc4-4107-bd99-51a36668a787][Semiconductors]], [[id:87f58744-f7fe-46da-b824-fb089a150705][Polymers]] and [[id:2f1be518-d6d9-4e2e-84ce-ea7e5d86e099][Water Purifiers]]
 
 * Progress
 
@@ -33,15 +33,15 @@ Tier 5/5
 
 Finished
 
-The Kumo Crew syndicate has launched an initiative to construct up to
+The [[id:1dfc7c53-642a-4404-a8e8-16a8cc18482a][Kumo Crew]] syndicate has launched an initiative to construct up to
 five starports.
 
-Kavanagh Spaceframes Ltd, an independent construction company, has been
-privately contracted by the Kumo Council to build fully operational
+[[id:a65fc0a0-6116-4c04-bb30-063687a20b2c][Kavanagh Spaceframes Ltd]], an independent construction company, has been
+privately contracted by the [[id:2dc1b92f-4bdc-4504-ad5f-a9c5794155dc][Kumo Council]] to build fully operational
 Orbis stations. These will be located in uninhabited systems close to
 key trading regions and areas of commercial interest.
 
-The Pegasi Sentinel newsfeed featured this statement from Archon
+The [[id:dc25c5b7-381e-4e8a-8599-68be61b19bae][Pegasi Sentinel]] newsfeed featured this statement from Archon
 Delaine:
 
 "As sovereign ruler of the Kumo nation, it's my responsibility to
@@ -54,18 +54,18 @@ interfere with my plans. The one thing we never trade in is mercy."
 
 The Razor Whips, one of Delaine's loyal factions, is organising the
 campaign. It will reimburse pilots who deliver ceramic composites,
-semiconductors, polymers and water purifiers to Gabriel Enterprise in
-the Harma system.
+semiconductors, polymers and water purifiers to [[id:8c659354-ea2b-4fd2-aeb9-874346ff07c1][Gabriel Enterprise]] in
+the [[id:1c48b668-227f-4973-a6a9-7638e35c02c2][Harma]] system.
 
 Each completed tier will ensure the installation of an Orbis station by
 the 29th of April 3307. The starports will be located in the following
 systems, listed in order of priority:
 
-Pegasi sector PN-T C3-14, near the Harma system
-HIP 18390, near the California Nebula
-HIP 10792, near the Sothis system
-HIP 62154, in the Coalsack Nebula
-Eol Prou PC-K c9-91, in the Colonia region
+Pegasi sector PN-T C3-14, near the [[id:1c48b668-227f-4973-a6a9-7638e35c02c2][Harma]] system
+[[id:e8341944-ebda-4a16-9ad2-0b6e9405d8b7][HIP 18390]], near the [[id:6fee136e-381f-47a2-ba13-6d74c8798803][California Nebula]]
+HIP 10792, near the [[id:aa43803c-e60c-45bf-ab48-49a139931c68][Sothis]] system
+[[id:80076c05-2ff7-4655-aa14-02ccfcfb11c9][HIP 62154]], in the Coalsack Nebula
+Eol Prou PC-K c9-91, in the [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] region
 
 The initiative begins on the 15th of April 3307 and will run for one
 week. If the final target is met earlier than planned, the campaign will

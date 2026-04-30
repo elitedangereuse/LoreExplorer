@@ -7,7 +7,7 @@
 
 * Location
 
-Dalton Gateway | LHS 3447
+Dalton Gateway | [[id:951f5c68-2395-4eb9-af43-b26172d0fe64][LHS 3447]]
 
 * Objective
 
@@ -33,9 +33,9 @@ Tier 5/8
 
 Finished
 
-The Pilots Federation has called on the galaxy's independent combat
-pilots for support, and has authorised Adle's Armada, LHS 3447 Dynamic
-and Co, and Asellus Primus Gold Legal Ind. to reward those who support
+The Pilots [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]] has called on the galaxy's independent combat
+pilots for support, and has authorised Adle's Armada, [[id:951f5c68-2395-4eb9-af43-b26172d0fe64][LHS 3447]] Dynamic
+and Co, and [[id:b21e7cf9-145c-4546-8305-8dc866024f3c][Asellus Primus]] Gold Legal Ind. to reward those who support
 the initiative.
 
 The campaign begins on the 29th of July 3303 and will run for one week.
@@ -44,14 +44,14 @@ immediately.
 
 -----
 
-Objective: Deliver bounty vouchers to LHS 3447 - Bluford Station (or any
-other LHS 3447 Dynamic & Co station)
+Objective: Deliver bounty vouchers to [[id:951f5c68-2395-4eb9-af43-b26172d0fe64][LHS 3447]] - Bluford Station (or any
+other [[id:951f5c68-2395-4eb9-af43-b26172d0fe64][LHS 3447]] Dynamic & Co station)
 
-How: LHS 3447 - Planet B2 - Resource Zone - High or Hazardous Intensity,
+How: [[id:951f5c68-2395-4eb9-af43-b26172d0fe64][LHS 3447]] - Planet B2 - Resource Zone - High or Hazardous Intensity,
 low performance ship are advised to form wings with other cmdrs and not
 use the hazardous res site.
 
-Caution: LHS 3447 is a melting pot where newbies meet outlaws without
+Caution: [[id:951f5c68-2395-4eb9-af43-b26172d0fe64][LHS 3447]] is a melting pot where newbies meet outlaws without
 much protection. You are advised to watch your back and take security
 precautions, especially when using sub combat class ships.
 

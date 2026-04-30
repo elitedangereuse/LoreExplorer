@@ -7,12 +7,12 @@
 
 * Location
 
-Neville Horizons | Kaushpoos
+Neville Horizons | [[id:3ceec3b8-48ce-40e3-8b24-ba6fe065d56c][Kaushpoos]]
 
 * Objective
 
-Help construct a new station in the Pleiades Nebula and earn rewards by
-delivering Computer Components to Neville Horizons in the Kaushpoos
+Help construct a new station in the [[id:7e99a467-6e3d-418e-8b10-72cf3660efa6][Pleiades Nebula]] and earn rewards by
+delivering [[id:66b0f0aa-4387-46f9-9abe-a3dbe1033c6f][Computer Components]] to Neville Horizons in the [[id:3ceec3b8-48ce-40e3-8b24-ba6fe065d56c][Kaushpoos]]
 * System
 
 * Progress
@@ -35,14 +35,14 @@ Tier 7/10
 
 Finished
 
-The Explorer's Association has announced that its new Ocellus starport
+The Explorer's Association has announced that its new [[id:5700c476-8bf4-4710-90d9-1e5988bf6048][Ocellus]] starport
 is almost complete.
 
-All that is needed now are deliveries of Computer Components with with
+All that is needed now are deliveries of [[id:66b0f0aa-4387-46f9-9abe-a3dbe1033c6f][Computer Components]] with with
 to make the final additions to the station's internal systems. As
 before, the Explorer's Association is offering generous premiums to
 pilots who deliver the necessary materials to Neville Horizons in the
-Kaushpoos systems.
+[[id:3ceec3b8-48ce-40e3-8b24-ba6fe065d56c][Kaushpoos]] systems.
 
 Sign up as an official contractor and together we will make this
 happen.
@@ -51,6 +51,6 @@ Tier 1 - Unlocks the fuel services
 Tier 2 - Unlocks the repairing services
 Tier 3 - Unlocks the munition services
 Tier 4 - Unlocks the contacts services
-Tier 5 - Unlocks the Universal Cartographics service
+Tier 5 - Unlocks the [[id:2fb00d7f-7234-45fa-8e3c-af685aa8f0d8][Universal Cartographics]] service
 Tier 6 - Unlocks the Commodities Market Services
 Tier 7 - Unlocks the Black Market service

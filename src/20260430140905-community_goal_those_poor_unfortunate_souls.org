@@ -7,7 +7,7 @@
 
 * Location
 
-Henry O'Hare's Hangar | Summerland
+Henry O'Hare's Hangar | [[id:ba152f8a-d8af-4611-b8ac-0b32f3258dd0][Summerland]]
 
 * Objective
 
@@ -34,14 +34,14 @@ Tier 5
 Finished
 
 Following the evacuation of millions of refugees from Quivira,
-Summerland now finds itself hosting a veritable horde of women and
+[[id:ba152f8a-d8af-4611-b8ac-0b32f3258dd0][Summerland]] now finds itself hosting a veritable horde of women and
 children. Many of whom lack access to even the most basic necessities.
 
 In response to their plight, the people's princess has asked her
 supporters to help provide the innocents of Quivira with the good they
 need to help them through these troubling times.
 
-Any space Fruit, Vegetable, Grain, Animal Meat and Fish would be
+Any space Fruit, Vegetable, [[id:4cc7cde6-24f6-4bcc-b403-0f4cc90cde80][Grain]], [[id:33adaaf7-4206-4047-bbd9-81be1fc169c0][Animal Meat]] and [[id:6aec48eb-daf1-45ff-92d2-0ba46d6347f8][Fish]] would be
 gratefully received. Similarly, anyone willing to supply a large
-quantity of Food Cartriges and Synthetic Meat will find themselves
+quantity of Food Cartriges and [[id:dffd22b1-0e99-4302-a109-20125a423f25][Synthetic Meat]] will find themselves
 favoured by the diva Duval.

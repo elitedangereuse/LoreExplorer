@@ -33,16 +33,16 @@ Tier 3/5
 
 Finished
 
-The Kumo Council has declared war on the Haithis Purple Dynamic Group
-for the latter's role in supporting Neomedical Industries.
+The [[id:2dc1b92f-4bdc-4504-ad5f-a9c5794155dc][Kumo Council]] has declared war on the Haithis Purple Dynamic Group
+for the latter's role in supporting [[id:d8c4bbec-5bea-43d7-bad6-0ec97600cac3][Neomedical Industries]].
 
 The pharmaceutical corporation's recent campaign in the Haithis system
 enabled the mass production of onionhead gamma strain, scheduled to be
-available as a medicinal product from Alliance and independent markets.
+available as a medicinal product from [[id:2506edb2-fef4-4723-85c6-02482635229d][Alliance]] and independent markets.
 The drug is currently distributed in a handful of anarchy systems by the
-Kumo Crew syndicate.
+[[id:1dfc7c53-642a-4404-a8e8-16a8cc18482a][Kumo Crew]] syndicate.
 
-CEO Olwyn Kendrick broadcast a call for help:
+CEO [[id:5e42db2b-b180-4e0a-af3a-dd5dcd45cf28][Olwyn Kendrick]] broadcast a call for help:
 
 "This terrifying attack by the galaxy's most vicious pirates may
 pressure investors to withdraw, causing the entire project to collapse.
@@ -52,7 +52,7 @@ against these criminals."
 
 The Haithis Purple Dynamic Group intends to ensure the scheduled
 distribution of onionhead gamma strain as a medicinal commodity from
-Alliance and independent markets. It has offered rewards to pilots who
+[[id:2506edb2-fef4-4723-85c6-02482635229d][Alliance]] and independent markets. It has offered rewards to pilots who
 help fend off the pirate assault.
 
 Combat bonds can be delivered to Crippen Port in the Haithis system.

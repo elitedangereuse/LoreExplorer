@@ -11,7 +11,7 @@ Bulychev Hub | LP 128-32
 
 * Objective
 
-Deliver Osmium, Samarium, and Lithium Hydroxide to Bulychev Hub in the
+Deliver [[id:89bb247d-d459-4ebf-a000-698cd1d9c5fe][Osmium]], [[id:699175f3-27b8-43ca-a463-2896e147de16][Samarium]], and [[id:ccce00cc-b229-4223-9b94-2f8f1e33f925][Lithium Hydroxide]] to Bulychev Hub in the
 LP 128-32 system
 
 * Progress
@@ -34,18 +34,18 @@ Tier 8/8
 
 Finished
 
-The Alliance has announced plans to build an Orbis starport in the
-Synuefai EB-R c7-5 system, between the core systems and the Alliance's
-outposts in the California Nebula.
+[[id:1c4d53a2-d81f-4cfa-8001-eb77f2c79b5f][The Alliance]] has announced plans to build an Orbis starport in the
+[[id:fd4456a5-20f9-45dc-9d7e-84114b4c251f][Synuefai EB-R c7-5]] system, between the core systems and the [[id:2506edb2-fef4-4723-85c6-02482635229d][Alliance]]'s
+outposts in the [[id:6fee136e-381f-47a2-ba13-6d74c8798803][California Nebula]].
 
-Alliance official Torvan Dast issued the following statement:
+[[id:2506edb2-fef4-4723-85c6-02482635229d][Alliance]] official [[id:eb46eb3f-c399-45fa-a0e3-8362595e24ee][Torvan Dast]] issued the following statement:
 
-"The remoteness of our California Nebula outposts makes reaching them a
+"The remoteness of our [[id:6fee136e-381f-47a2-ba13-6d74c8798803][California Nebula]] outposts makes reaching them a
 potentially dangerous proposition. This new starport will bridge the gap
 between the settlements and the galactic core, and lessen the risk to
-ships journeying to and from the California Nebula."
+ships journeying to and from the [[id:6fee136e-381f-47a2-ba13-6d74c8798803][California Nebula]]."
 
-The initiative is being overseen by the LP 128-32 Corporation, which has
+The initiative is being overseen by the [[id:3157a52c-9803-424e-b854-2e2552f07718][LP 128-32 Corporation]], which has
 placed an open order for various raw materials for use in the
 construction. The organisation has also placed a kill order on all ships
 on it's wanted list, to ensure that those contributing material to the
@@ -56,7 +56,7 @@ week. If the final target is met earlier than planned, the campaign will
 end immediately.
 
 To be eligible for rewards you must sign up as an active participant
-before delivering Osmium, Samarium, and Lithium Hydroxide to Bulychev
+before delivering [[id:89bb247d-d459-4ebf-a000-698cd1d9c5fe][Osmium]], [[id:699175f3-27b8-43ca-a463-2896e147de16][Samarium]], and [[id:ccce00cc-b229-4223-9b94-2f8f1e33f925][Lithium Hydroxide]] to Bulychev
 Hub in the LP 128-32 system.
 
 Be aware that faction-state changes, UA bombing and other disruptive

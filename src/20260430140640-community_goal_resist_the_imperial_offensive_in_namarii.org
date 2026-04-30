@@ -11,7 +11,7 @@ Hughes Hub | Namarii
 
 * Objective
 
-Earn rewards by selling Emperor's Dawn Combat Bonds at Hughes Hub
+Earn rewards by selling Emperor's Dawn [[id:bbbc7bc6-79d7-46b7-925e-c1f882c8f25a][Combat Bonds]] at Hughes Hub
 
 * Progress
 
@@ -33,13 +33,13 @@ Tier 1/3
 
 Finished
 
-Senator Denton Patreus has despatched several squadrons of Imperial
+Senator [[id:75daea85-5e9f-4f6f-a102-1a5edea0283c][Denton Patreus]] has despatched several squadrons of Imperial
 fighters to destroy Emperor's Dawn bases in the Namarii, Tabaldak and
 LTT 874 systems. Emperor's Dawn has issued a call for aid, pledged to
 reward any pilots who help to resist the Imperial offensive.
 
 Note:
-\[Namarii Emperor's Dawn v.s. Namarii Movement (Empire)\] factions at
+\[Namarii Emperor's Dawn v.s. Namarii Movement ([[id:541dcfb3-93ef-40e5-9284-bf5a4f999043][Empire]])\] factions at
 the below conflict zones...
 Namarii 4 Conflict Zone(High Intensity)
 Namarii 5 Conflict Zone(High Intensity)

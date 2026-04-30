@@ -7,11 +7,11 @@
 
 * Location
 
-Felice Dock | Meene
+Felice Dock | [[id:9c59e7e7-1737-43a9-ac67-e818f6d1677d][Meene]]
 
 * Objective
 
-Deliver Classified Experimental Equipment
+Deliver [[id:794c8962-b58d-40d2-be55-c7d3c98e0f30][Classified Experimental Equipment]]
 
 * Progress
 
@@ -35,7 +35,7 @@ Finished
 
 Tesreau has expressed her continued faith in Aegis, recognising the
 organisation is not perfect while maintaining that its efforts are
-well-intentioned. With the help of chosen pilots and Ram Tah's
+well-intentioned. With the help of chosen pilots and [[id:4551539e-a6b2-4c45-8923-40fb603202b7][Ram Tah]]'s
 expertise, she hopes to prove that Salvation cannot be allowed to
 continue his reckless experiments.
 

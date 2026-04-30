@@ -7,11 +7,11 @@
 
 * Location
 
-Williams Vision | Nahuaru
+[[id:e7277813-d4d3-496c-8fe5-e5f540ff5ef3][Williams Vision]] | [[id:3efd571e-0167-4167-bf6c-67b4650259ce][Nahuaru]]
 
 * Objective
 
-Deliver Cobalt, Indium and Tantalum
+Deliver [[id:3de49bff-8041-45b0-a713-d3646334efd9][Cobalt]], [[id:9fbdd62c-a62a-45d1-9ee5-9ab7980a4fd6][Indium]] and [[id:d10c0435-4bc8-42ac-bea6-228d2f02604c][Tantalum]]
 
 * Progress
 
@@ -33,14 +33,14 @@ Tier 3/8
 
 Finished
 
-Dr Roy Casimir of the Holloway Bioscience Institute has announced a
+Dr [[id:d5ca99a6-ded7-43fb-bc1e-83a622b49c50][Roy Casimir]] of the [[id:3d9b071c-c232-431f-8f63-5c3a594b9909][Holloway Bioscience Institute]] has announced a
 research centre focusing on new life forms discovered by the galactic
 community:
-The development of the Codex has led to a number of xenological
+The development of the [[id:1f629124-e470-420f-ae19-d55c66bb97c5][Codex]] has led to a number of xenological
 discoveries. Our aim is to construct a dedicated scientific facility to
 analyse these incredible lifeforms.
 
 We therefore request quantities of cobalt, indium and tantalum to be
-delivered to Williams Vision in the Nahuaru system. Nahuaru Crimson
+delivered to [[id:e7277813-d4d3-496c-8fe5-e5f540ff5ef3][Williams Vision]] in the [[id:3efd571e-0167-4167-bf6c-67b4650259ce][Nahuaru]] system. [[id:3efd571e-0167-4167-bf6c-67b4650259ce][Nahuaru]] Crimson
 Bridge Int has agreed to fund the initiative and reimburse contributing
 pilots.

@@ -11,7 +11,7 @@ Tshang City | Furuhjelm III-674
 
 * Objective
 
-Hand in Bounty Vouchers
+Hand in [[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]]
 
 * Progress
 
@@ -33,8 +33,8 @@ Tier 8/8
 
 Finished
 
-The Alliance has announced plans to construct a planetary outpost in the
-California Nebula, and has placed an open order for materials for use in
+[[id:1c4d53a2-d81f-4cfa-8001-eb77f2c79b5f][The Alliance]] has announced plans to construct a planetary outpost in the
+[[id:6fee136e-381f-47a2-ba13-6d74c8798803][California Nebula]], and has placed an open order for materials for use in
 the construction.
 
 To ensure those contributing materials can do so safely, 160 SOAR has
@@ -47,7 +47,7 @@ weeks. If the final target is met earlier than planned, the campaign
 will end immediately.
 
 To be eligible for rewards you must sign up as an active participant
-before handing in Bounty Vouchers at Tshang City in the Furuhjelm
+before handing in [[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]] at Tshang City in the Furuhjelm
 III-674 system.
 
 Please note that if you have any crew members, a portion of your bounty
@@ -82,7 +82,7 @@ Top 100%: 800,000 CR
 •Planet 14 (` 4,000 Ls): 2 x Haz RES
 
 - Bounties that are known to count towards the goal:
-160 SOAR, Alliance
+160 SOAR, [[id:2506edb2-fef4-4723-85c6-02482635229d][Alliance]]
 
 - Bounties that are known NOT to count towards the goal:
 United Sussche Partnership, Furuhjelm III-674 Republic Party

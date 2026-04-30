@@ -11,7 +11,7 @@ Hipparchus Terminal | Kpelidoog
 
 * Objective
 
-Earn rewards by delivering Titanium, Semiconductors and Power Generators
+Earn rewards by delivering [[id:d727fb19-8dc0-4d94-bcd4-da1cb5c090f0][Titanium]], [[id:0def679f-6fc4-4107-bd99-51a36668a787][Semiconductors]] and [[id:34acf2f1-676d-4e52-86f4-80dc606e435c][Power Generators]]
 
 * Progress
 
@@ -33,8 +33,8 @@ Tier 3/8
 
 Finished
 
-The Kpelidoog Empire Assembly, an Imperial organisation based in the
-Kpelidoog system, has announced plans to build a new Wells-class Carrier
+The Kpelidoog [[id:541dcfb3-93ef-40e5-9284-bf5a4f999043][Empire]] Assembly, an Imperial organisation based in the
+Kpelidoog system, has announced plans to build a new [[id:c00b08b9-366a-45f4-bfb0-cf6954ae7f8d][Wells-class Carrier]]
 to support astronomical research.
 
 In a statement, a spokesperson for the organisation said:
@@ -44,7 +44,7 @@ Thargoids, but we think it's important to keep an eye the bigger
 picture. Once complete, this new ship will gather data on stellar bodies
 and unusual celestial phenomena."
 
-The Kpelidoog Empire Assembly has placed an open order for titanium,
+The Kpelidoog [[id:541dcfb3-93ef-40e5-9284-bf5a4f999043][Empire]] Assembly has placed an open order for titanium,
 semiconductors and power generators for use in the construction, and has
 promised to reward pilots who deliver these commodities to Hipparchus
 Terminal in the Kpelidoog system.
@@ -61,9 +61,9 @@ The campaign begins on the 21st of August 3303 and will run until the
 the campaign will end immediately.
 
 Selling Prices
-Titanium: 1409cr
-Semiconductors: 1354cr
-Power Generators: 642cr
+[[id:d727fb19-8dc0-4d94-bcd4-da1cb5c090f0][Titanium]]: 1409cr
+[[id:0def679f-6fc4-4107-bd99-51a36668a787][Semiconductors]]: 1354cr
+[[id:34acf2f1-676d-4e52-86f4-80dc606e435c][Power Generators]]: 642cr
 
 Current Participation Rewards (Tier 3):
 Top 10 CMDRs: 4,560,000 CR

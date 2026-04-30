@@ -7,11 +7,11 @@
 
 * Location
 
-Victory's Forge | Ts'ao Tach
+Victory's Forge | [[id:e6642097-b88c-4190-a597-c3f919ff69fc][Ts'ao Tach]]
 
 * Objective
 
-Hand in Combat Bonds after fighting for Jupiter Division in Conflict
+Hand in [[id:bbbc7bc6-79d7-46b7-925e-c1f882c8f25a][Combat Bonds]] after fighting for [[id:a35c5eb2-0697-4ef3-9a11-950791952e2d][Jupiter Division]] in Conflict
 Zones
 
 * Progress
@@ -34,30 +34,30 @@ Tier 0/5
 
 Finished
 
-Jupiter Division is fighting for survival against the Silver Legal Group
-in the Ts'ao Tach system.
+[[id:a35c5eb2-0697-4ef3-9a11-950791952e2d][Jupiter Division]] is fighting for survival against the [[id:46db368a-cb8f-4246-9663-96bd2d3b0402][Silver Legal Group]]
+in the [[id:e6642097-b88c-4190-a597-c3f919ff69fc][Ts'ao Tach]] system.
 
-Jupiter Division was formed by rogue Core Dynamics departments loyal to
-ex-CEO Jupiter Rochester. Although it was defeated in February, a
-growing corporatist movement within the Federation has helped rebuild
+[[id:a35c5eb2-0697-4ef3-9a11-950791952e2d][Jupiter Division]] was formed by rogue [[id:4a28463f-cbed-493b-9466-70cbc6e19662][Core Dynamics]] departments loyal to
+ex-CEO [[id:c33064d1-c2a0-4ac3-89fe-57eedb7ef9c8][Jupiter Rochester]]. Although it was defeated in February, a
+growing corporatist movement within the [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]] has helped rebuild
 its strength.
 
-Vice-Executive Blanca Carbonell, a senior leader of Jupiter Division,
+Vice-Executive Blanca Carbonell, a senior leader of [[id:a35c5eb2-0697-4ef3-9a11-950791952e2d][Jupiter Division]],
 broadcast this [message:\\\\](message:\\)
-"To all those seeking a better Federation -- stand up and make your
+"To all those seeking a better [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]] -- stand up and make your
 voice heard! Only direct corporate rule can end government corruption.
-Jupiter Division must survive to lead that change!"
+[[id:a35c5eb2-0697-4ef3-9a11-950791952e2d][Jupiter Division]] must survive to lead that change!"
 
-Two megaships, Victory's Forge and Iron Wings of Justice, are once
-again serving as the centres of operation for Jupiter Division and the
-Silver Legal Group.
+Two megaships, Victory's Forge and [[id:e65ce81f-ab99-4166-9d96-8315e4f762dc][Iron Wings of Justice]], are once
+again serving as the centres of operation for [[id:a35c5eb2-0697-4ef3-9a11-950791952e2d][Jupiter Division]] and the
+[[id:46db368a-cb8f-4246-9663-96bd2d3b0402][Silver Legal Group]].
 
 Political commentators believe that this second conflict will be a
-decisive one, determining whether or not Jupiter Division can survive
+decisive one, determining whether or not [[id:a35c5eb2-0697-4ef3-9a11-950791952e2d][Jupiter Division]] can survive
 without its founder.
 
-Jupiter Division has offered credit rewards to any pilots willing to
-help secure its existence by handing in Combat Bonds at the megaship
+[[id:a35c5eb2-0697-4ef3-9a11-950791952e2d][Jupiter Division]] has offered credit rewards to any pilots willing to
+help secure its existence by handing in [[id:bbbc7bc6-79d7-46b7-925e-c1f882c8f25a][Combat Bonds]] at the megaship
 Victory's Forge.
 
 The two factions have set out seven-day campaigns, which will end when

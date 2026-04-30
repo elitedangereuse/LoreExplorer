@@ -7,7 +7,7 @@
 
 * Location
 
-Fozard Port | Upaniklis
+[[id:01afd0e9-6618-4c17-b425-4e228f418159][Fozard Port]] | [[id:361a46f2-79c4-40bf-9781-4066763914f3][Upaniklis]]
 
 * Objective
 
@@ -33,31 +33,31 @@ Tier 3/5
 
 Finished
 
-Combat pilots are required in the Upaniklis system to assist the
-Golconda in resuming its voyage.
+Combat pilots are required in the [[id:361a46f2-79c4-40bf-9781-4066763914f3][Upaniklis]] system to assist the
+[[id:fce1d147-f900-41ec-a92c-3ce3d1cae641][Golconda]] in resuming its voyage.
 
-The ancient generation ship, which originated from Earth in the 22nd
-century, has been retrofitted by the Artificers Clan into a functional
+The ancient generation ship, which originated from [[id:5b0f485f-4793-468d-a1a1-483606f44e0e][Earth]] in the 22nd
+century, has been retrofitted by the [[id:c790ca5d-65c5-4e8e-a278-7fbd11a5f092][Artificers Clan]] into a functional
 modern vessel. The majority of its former population have decided to
-leave the outpost Forester's Choice and return to their traditional
+leave the outpost [[id:d87d30e1-1624-4337-a252-64085c3c4c27][Forester's Choice]] and return to their traditional
 nomadic lifestyle.
 
-Captain Jonathon Forester, leader of the Golconda Union, announced:
+Captain [[id:24bc363b-5b71-4968-96b9-2feae4296068][Jonathon Forester]], leader of the [[id:fce1d147-f900-41ec-a92c-3ce3d1cae641][Golconda]] Union, announced:
 
 "In 3305 the galactic community provided us with the chance to end our
 original journey, so it will be fitting if they can help us start a new
 chapter among the stars."
 
 Local security forces warned that pirates may attempt to hijack incoming
-shipments or take control of the Golconda itself. As a defensive
-measure, Upaniklis Vision Incorporated has offered bounties on all
+shipments or take control of the [[id:fce1d147-f900-41ec-a92c-3ce3d1cae641][Golconda]] itself. As a defensive
+measure, [[id:f3e9c36a-0e5d-493b-8fff-b86cdb2a3dcb][Upaniklis Vision Incorporated]] has offered bounties on all
 wanted ships in the system. Pilots are asked to deliver bounty vouchers
-to Fozard Port.
+to [[id:01afd0e9-6618-4c17-b425-4e228f418159][Fozard Port]].
 
 According to the Federal Diplomatic Corp, these events do not violate
 the legislation that protects isolated societies from cultural
-contamination. It added: "Partnership status with the Federation has
-been extended to the Golconda and continues to apply to Forester's
+contamination. It added: "Partnership status with the [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]] has
+been extended to the [[id:fce1d147-f900-41ec-a92c-3ce3d1cae641][Golconda]] and continues to apply to Forester's
 Choice outpost."
 
 The campaign begins on the 2nd of June 3308 and will run for one week.

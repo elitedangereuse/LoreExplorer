@@ -7,11 +7,11 @@
 
 * Location
 
-Glorious Prospect | LHS 157
+[[id:4e26dabc-d7bd-4e6b-9619-7afb122f4ce8][Glorious Prospect]] | [[id:b5d15d69-0f29-4147-b813-07098cf5085f][LHS 157]]
 
 * Objective
 
-Deliver mined Gallite, Cobalt and Osmium
+Deliver mined [[id:19346f59-fa1a-4ba2-8373-5b4d90f26662][Gallite]], [[id:3de49bff-8041-45b0-a713-d3646334efd9][Cobalt]] and [[id:89bb247d-d459-4ebf-a000-698cd1d9c5fe][Osmium]]
 
 Hint: Nearest metal pristine rings, Nearest rocky pristine rings
 
@@ -36,26 +36,26 @@ Tier 4/4
 Finished
 
 Azimuth Biotech has called on mining vessels to deliver raw materials to
-the Glorious Prospect megaship in the LHS 157 system.
+the [[id:4e26dabc-d7bd-4e6b-9619-7afb122f4ce8][Glorious Prospect]] megaship in the [[id:b5d15d69-0f29-4147-b813-07098cf5085f][LHS 157]] system.
 
 The campaign was launched by the corporation's acting CEO, Torben
 Rademaker:
 
 "Our mission to continue developing anti-xeno technologies is currently
 hampered by a lack of resources to establish new facilities. Azimuth's
-investment in the Proteus Wave project and related infrastructure was
+investment in the [[id:38143d4a-d8a5-4978-a62c-8b64a0c75969][Proteus Wave]] project and related infrastructure was
 considerable. Meanwhile, the reckless actions of anarchists and
 political extremists have inhibited our recovery."
 
 "Generous credit payments are being offered for the following mined
-metals: cobalt, gallite and osmium. Shipments of these can be delivered
-to the Glorious Prospect, where they will be processed for a variety of
+metals: cobalt, gallite and osmium. [[id:49673a62-e730-4833-9c29-dd6227e444a0][Shipments]] of these can be delivered
+to the [[id:4e26dabc-d7bd-4e6b-9619-7afb122f4ce8][Glorious Prospect]], where they will be processed for a variety of
 uses. Dedicated contributors of these freshly mined ores will be granted
-a permit to the Mbooni system, should they not already have it, and
-access to our range of hybrid anti-xeno modules at Prospect's Deep."
+a permit to the [[id:a5427e6e-e2f5-4c09-b595-97bbc14894ee][Mbooni]] system, should they not already have it, and
+access to our range of hybrid anti-xeno modules at [[id:6083ca63-f129-4999-b775-d25a7d29c36a][Prospect's Deep]]."
 
 As well as credit rewards, the top 75% of contributors will receive the
-Mbooni permit if the initiative is a success.
+[[id:a5427e6e-e2f5-4c09-b595-97bbc14894ee][Mbooni]] permit if the initiative is a success.
 
 Azimuth Biotech has set out a seven day campaign, which will end early
 on Thursday September 8th 3308.

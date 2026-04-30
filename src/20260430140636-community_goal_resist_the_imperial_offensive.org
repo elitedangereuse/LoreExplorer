@@ -7,12 +7,12 @@
 
 * Location
 
-Adkins Port | Cayutorme
+Adkins Port | [[id:3ae0f41b-9beb-419b-a804-68a000d9666b][Cayutorme]]
 
 * Objective
 
-Help the Cayutorme Syndicate resist the Imperial offensive, and sell
-your Combat Bonds at Adkins Port in the Cayutorme system.
+Help the [[id:3ae0f41b-9beb-419b-a804-68a000d9666b][Cayutorme]] Syndicate resist the Imperial offensive, and sell
+your [[id:bbbc7bc6-79d7-46b7-925e-c1f882c8f25a][Combat Bonds]] at Adkins Port in the [[id:3ae0f41b-9beb-419b-a804-68a000d9666b][Cayutorme]] system.
 
 * Progress
 
@@ -34,27 +34,27 @@ Tier 0/4
 
 Finished
 
-The Empire has despatched a large military fleet to the Cayutorme system
-to engage the mercenary group known as the Cayutorme Syndicate. The
-organisation claims the Empire is trying to curtail its independence by
+[[id:1047d7bb-a08d-430d-a445-4ec9a1b2daa3][The Empire]] has despatched a large military fleet to the [[id:3ae0f41b-9beb-419b-a804-68a000d9666b][Cayutorme]] system
+to engage the mercenary group known as the [[id:3ae0f41b-9beb-419b-a804-68a000d9666b][Cayutorme]] Syndicate. The
+organisation claims the [[id:541dcfb3-93ef-40e5-9284-bf5a4f999043][Empire]] is trying to curtail its independence by
 forcing its members into Imperial citizenship, and has issued a call for
 aid, pledging to reward any pilots who help them to resist the Imperial
 offensive.
 
-Note about Cayutorme Conflict Zones:
-...re-scouted the Cayutorme system again \[1316 08 NOV 3301 game time\]
+Note about [[id:3ae0f41b-9beb-419b-a804-68a000d9666b][Cayutorme]] Conflict Zones:
+...re-scouted the [[id:3ae0f41b-9beb-419b-a804-68a000d9666b][Cayutorme]] system again \[1316 08 NOV 3301 game time\]
 had found the following new info about the Conflict Zones (as there are
-2 civil wars going on in Cayutorme system & we only care about 1 of the
+2 civil wars going on in [[id:3ae0f41b-9beb-419b-a804-68a000d9666b][Cayutorme]] system & we only care about 1 of the
 civil wars for these CGs)...
 
-Cayutorme A 6 Conflict Zone (1 High Intensity) GIRYAMPI EMPIRE LEAGUE
+[[id:3ae0f41b-9beb-419b-a804-68a000d9666b][Cayutorme]] A 6 Conflict Zone (1 High Intensity) GIRYAMPI EMPIRE LEAGUE
 v.s. CAYUTORME SYNDICATE
 
-Cayutorme A 1 Conflict Zones (3 High Intensity & 1 low Intensity)
+[[id:3ae0f41b-9beb-419b-a804-68a000d9666b][Cayutorme]] A 1 Conflict Zones (3 High Intensity & 1 low Intensity)
 CAYUYTORME CITIZENS OF TRADITION v.s. CAYUTORME UNITED SERVICES
-Cayutorme A 3 Conflict Zones (4 High Intensity) CAYUYTORME CITIZENS OF
+[[id:3ae0f41b-9beb-419b-a804-68a000d9666b][Cayutorme]] A 3 Conflict Zones (4 High Intensity) CAYUYTORME CITIZENS OF
 TRADITION v.s. CAYUTORME UNITED SERVICES
-Cayutorme A 5 Conflict Zones (1 High Intensity & 1 Low Intensity)
+[[id:3ae0f41b-9beb-419b-a804-68a000d9666b][Cayutorme]] A 5 Conflict Zones (1 High Intensity & 1 Low Intensity)
 CAYUYTORME CITIZENS OF TRADITION v.s. CAYUTORME UNITED SERVICES
-Cayutorme A 6 Conflict Zone (1 High Intensity) GIRYAMPI EMPIRE LEAGUE
+[[id:3ae0f41b-9beb-419b-a804-68a000d9666b][Cayutorme]] A 6 Conflict Zone (1 High Intensity) GIRYAMPI EMPIRE LEAGUE
 v.s. CAYUTORME SYNDICATESYNDICATE

@@ -7,11 +7,11 @@
 
 * Location
 
-Heart of Taurus | HIP 22460
+[[id:f10f7c83-9d29-470c-a640-1a3e5334b686][Heart of Taurus]] | [[id:55088d83-4221-44fa-a9d5-6ebb0866c722][HIP 22460]]
 
 * Objective
 
-Deliver Basic Medicines, Reactive Armour and Advanced Medicines
+Deliver [[id:1c200888-6acc-404b-8d9e-9ad834389782][Basic Medicines]], [[id:85a9f73a-636f-459f-8a46-d93b1a3dca16][Reactive Armour]] and [[id:5af29dcf-3079-46c2-a594-d2559c830744][Advanced Medicines]]
 
 * Progress
 
@@ -34,31 +34,31 @@ Tier 2/5
 Finished
 
 Medical and military commodities are needed to support the
-cross-superpower operation in the HIP 22460 system.
+cross-superpower operation in the [[id:55088d83-4221-44fa-a9d5-6ebb0866c722][HIP 22460]] system.
 
-Commodore Morag Halloran, who is coordinating for Azimuth Biotech aboard
-the Bright Sentinel megaship, outlined the requirements:
+Commodore [[id:bcaa9222-b056-41cf-9361-68dd8d3424fb][Morag Halloran]], who is coordinating for Azimuth Biotech aboard
+the [[id:f55dd9f1-52aa-4ca9-93c4-27175612c59a][Bright Sentinel]] megaship, outlined the requirements:
 
-"The Proteus Wave is designed to attract the bulk of the Thargoid fleet
+"[[id:bf8d2b98-a079-4384-a8a5-43ffdc926b7c][The Proteus]] Wave is designed to attract the bulk of the Thargoid fleet
 before destroying them. We are making preparations to defend Salvation
 from the alien vessels until the superweapon is ready."
 
 "Azimuth Biotech is offering generous payment for shipments of advanced
 medicines, basic medicines and reactive armour. These can be delivered
-to the Heart of Taurus megaship in HIP 22460."
+to the [[id:f10f7c83-9d29-470c-a640-1a3e5334b686][Heart of Taurus]] megaship in [[id:55088d83-4221-44fa-a9d5-6ebb0866c722][HIP 22460]]."
 
 "Specially tailored ship liveries are available as additional rewards,
 in gratitude to those loyal Commanders who are dedicated to Salvation's
 cause of defeating the Thargoids."
 
-The anti-xeno taskforces of the Alliance, Empire and Federation are also
-preparing to engage Thargoid forces in and around HIP 22460. Capital
+The anti-xeno taskforces of the [[id:2506edb2-fef4-4723-85c6-02482635229d][Alliance]], [[id:541dcfb3-93ef-40e5-9284-bf5a4f999043][Empire]] and [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]] are also
+preparing to engage Thargoid forces in and around [[id:55088d83-4221-44fa-a9d5-6ebb0866c722][HIP 22460]]. Capital
 ships have been running combat drills and practising naval manoeuvres.
 As yet, there is no indication when the anticipated Thargoid fleet may
 arrive.
 
 The top 75% of contributors will receive an Azimuth Rebellion paintjob
-for the Krait Mk II, Eagle and Fer-de-Lance
+for the Krait Mk II, Eagle and [[id:9b662825-bc4f-4099-8d43-8e601aae8ace][Fer-de-Lance]]
 
 The campaign begins on the 30th June and will run for one week. If the
 final target is met earlier than planned, the campaign will end

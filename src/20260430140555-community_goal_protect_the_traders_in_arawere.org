@@ -11,7 +11,7 @@ Tanaka Gateway | Arawere
 
 * Objective
 
-Earn Rewards by delivering Bounty Vouchers to Tanaka Gateway in the
+Earn Rewards by delivering [[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]] to Tanaka Gateway in the
 Arawere system.
 
 * Progress
@@ -34,9 +34,9 @@ Tier 3/5
 
 Finished
 
-Following its request for Onionhead, the Arawere Empire League is in
+Following its request for [[id:b160f4b1-1751-41c2-b0bd-e7c6e8dc2f2d][Onionhead]], the Arawere [[id:541dcfb3-93ef-40e5-9284-bf5a4f999043][Empire]] League is in
 need of experienced combat pilots to eliminate the agitators operating
-in the system, and protect those delivering Onionhead. Any combat pilots
+in the system, and protect those delivering [[id:b160f4b1-1751-41c2-b0bd-e7c6e8dc2f2d][Onionhead]]. Any combat pilots
 who contribute to this initiative by eliminating agitators in Arawere
 will be generously rewarded.
 
@@ -44,9 +44,9 @@ EDIT: Tanaka Gateway is an outpost and therefore can only host ships up
 to medium size landing pad!
 EDIT: Tanaka Gateway has no REARM function and cannot refill your ammo.
 Suggest lasers.
-EDIT: "Arawere Empire League" Bounty vouchers count toward tiers
+EDIT: "Arawere [[id:541dcfb3-93ef-40e5-9284-bf5a4f999043][Empire]] League" Bounty vouchers count toward tiers
 only.
-EDIT: Empire bounty vouchers now count as well.
+EDIT: [[id:541dcfb3-93ef-40e5-9284-bf5a4f999043][Empire]] bounty vouchers now count as well.
 
 5%: 8M + Global Rewards
 15%: 5M + Global Rewards

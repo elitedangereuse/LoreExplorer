@@ -7,11 +7,11 @@
 
 * Location
 
-Shajn Market | Kamadhenu
+Shajn Market | [[id:6762f716-7e24-4a03-af96-2af0fd55f8c7][Kamadhenu]]
 
 * Objective
 
-Earn rewards by handing in Bounty Vouchers
+Earn rewards by handing in [[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]]
 
 * Progress
 
@@ -33,22 +33,22 @@ Tier 7/8
 
 Finished
 
-The Kamadhenu Chapterhouse of Inquisition has announced plans to
-establish a series of starports along the route to Colonia to make the
+The [[id:6762f716-7e24-4a03-af96-2af0fd55f8c7][Kamadhenu]] [[id:11216b9a-43a6-4242-9355-1c6227e48db8][Chapterhouse of Inquisition]] has announced plans to
+establish a series of starports along the route to [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] to make the
 20,000 light-year trek less daunting.
 
 The organisation has issued an open order for various commodities for
 the first of these starports, and has placed a kill order on all ships
 on its wanted list so traders contributing material can do so safely. It
 has promised to reward pilots who deliver bounty vouchers to Shajn
-Market in the Kamadhenu system.
+Market in the [[id:6762f716-7e24-4a03-af96-2af0fd55f8c7][Kamadhenu]] system.
 
 The campaign begins on the 24th of August and will run for one week. If
 the final target is met earlier than planned, the campaign will end
 immediately.
 
 To be eligible for rewards you must sign up as an active participant
-before handing in Bounty Vouchers at Shajin Market in the Kamadhenu
+before handing in [[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]] at Shajin Market in the [[id:6762f716-7e24-4a03-af96-2af0fd55f8c7][Kamadhenu]]
 system. Only bounty vouchers handed in after signing up will count
 toward your personal contribution total.
 
@@ -67,16 +67,16 @@ prevent the initiative from running smoothly.
 
 -   Available RES in system:
 
-•No RES available in Kamadhenu
-•Chapterhouse of Inquisition control the following local systems:
+•No RES available in [[id:6762f716-7e24-4a03-af96-2af0fd55f8c7][Kamadhenu]]
+•[[id:11216b9a-43a6-4242-9355-1c6227e48db8][Chapterhouse of Inquisition]] control the following local systems:
 Nemgla, Sauraratec, Arapa, Lambayeque, Hisaaka, Zhongwe, Kurians, Baedi
 Di
 
 - Bounties that count towards the goal:
-Kamadhenu Chapterhouse of Inquisition, Empire
+[[id:6762f716-7e24-4a03-af96-2af0fd55f8c7][Kamadhenu]] [[id:11216b9a-43a6-4242-9355-1c6227e48db8][Chapterhouse of Inquisition]], [[id:541dcfb3-93ef-40e5-9284-bf5a4f999043][Empire]]
 
 - Bounties that don't count towards the goal:
-All other local faction bounties, Alliance, Federation
+All other local faction bounties, [[id:2506edb2-fef4-4723-85c6-02482635229d][Alliance]], [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]]
 
 Top 10 CMDRs: 25,893,504Cr
 Top 10%: 23,901,696 Cr

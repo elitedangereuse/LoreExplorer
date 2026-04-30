@@ -11,7 +11,7 @@ Yurchikhin Station | Andhrimi
 
 * Objective
 
-Deliver Bounty Vouchers to Yurchikhin Station
+Deliver [[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]] to Yurchikhin Station
 
 * Progress
 
@@ -33,10 +33,10 @@ Tier 6/8
 
 Finished
 
-The Empire has announced plans to construct an outpost in the Andhrimi
+[[id:1047d7bb-a08d-430d-a445-4ec9a1b2daa3][The Empire]] has announced plans to construct an outpost in the Andhrimi
 system, and has placed an open order for materials for use in the
-construction. After learning of the Empire's plans to gain a foothold
-in the Andhrimi system, the Federation intends to undermine the
+construction. After learning of the [[id:541dcfb3-93ef-40e5-9284-bf5a4f999043][Empire]]'s plans to gain a foothold
+in the Andhrimi system, the [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]] intends to undermine the
 operation by targeting Alectrona Imperial Society ships.
 
 The campaign begins on the 16th of March 3303 and will run for one week.
@@ -44,7 +44,7 @@ If either organisation achieves its aims earlier than planned, the
 operations will end immediately.
 
 To be eligible for rewards you must sign up as an active participant
-before handing in Bounty Vouchers at Yurchikhin Station in the Andhrimi
+before handing in [[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]] at Yurchikhin Station in the Andhrimi
 system.
 
 Please note that if you have any crew members, a portion of your bounty
@@ -60,7 +60,7 @@ prevent the initiative from running smoothly.
 
 [Notes:\\\\](Notes:\\)
 
--   Competing goal with Empire trade CG - when one completes, both end
+-   Competing goal with [[id:541dcfb3-93ef-40e5-9284-bf5a4f999043][Empire]] trade CG - when one completes, both end
 
 Current Participation Rewards:
 Top 10 CMDRs: 14.227.200 CR

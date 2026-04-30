@@ -7,11 +7,11 @@
 
 * Location
 
-Laming Orbital | HR 706
+[[id:2343096d-b460-4a97-87ff-5bbd12670b4f][Laming Orbital]] | [[id:9aad751b-a749-4fee-a990-d7da57714653][HR 706]]
 
 * Objective
 
-Hand in Imperial Bounty Vouchers to Laming Orbital
+Hand in Imperial [[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]] to [[id:2343096d-b460-4a97-87ff-5bbd12670b4f][Laming Orbital]]
 
 * Progress
 
@@ -35,7 +35,7 @@ Finished
 
 The ongoing investigation into the attack on Emperor Hengist uncovered a
 trail that led to a bank account, set up under a false identity, by
-someone operating out of HR 706. The account wasn't set up by some
+someone operating out of [[id:9aad751b-a749-4fee-a990-d7da57714653][HR 706]]. The account wasn't set up by some
 amateur thug. They left no clue behind as to their true identity.
 
 This could have caused a serious problem for the Princess's agents.
@@ -52,4 +52,4 @@ know what they have to do.
 Emperor's Grace has reluctantly agreed to play host to the taskforce,
 who have established a temporary base of operation aboard Laming
 Orbital. Citizens involved in the ongoing hunt for justice should submit
-their Imperial Bounty Vouchers for processing there.
+their Imperial [[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]] for processing there.

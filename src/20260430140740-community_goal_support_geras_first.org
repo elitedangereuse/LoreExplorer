@@ -7,11 +7,11 @@
 
 * Location
 
-Yurchikhin Port | Geras
+[[id:88e4b0dc-4d64-4ba3-9a64-7fcbd6277e39][Yurchikhin Port]] | [[id:48f9c4bf-b2ad-44e9-9130-d0ee33856ed2][Geras]]
 
 * Objective
 
-Hand in Combat Bonds after fighting for Geras First in CZs
+Hand in [[id:bbbc7bc6-79d7-46b7-925e-c1f882c8f25a][Combat Bonds]] after fighting for [[id:48f9c4bf-b2ad-44e9-9130-d0ee33856ed2][Geras]] First in CZs
 
 * Progress
 
@@ -33,14 +33,14 @@ Tier 1/8
 
 Finished
 
-Recent reports from the Geras system indicate that after a spate of
-reciprocal attacks, hostilities between the Geras First and Ndozins
+Recent reports from the [[id:48f9c4bf-b2ad-44e9-9130-d0ee33856ed2][Geras]] system indicate that after a spate of
+reciprocal attacks, hostilities between the [[id:48f9c4bf-b2ad-44e9-9130-d0ee33856ed2][Geras]] First and Ndozins
 State Inc have escalated into all-out war.
 
 According to Donal Varden, an independent journalist:
 For several months we've seen these factions sniping at one another
 from the shadows, but now the stakes have been raised. It won't be long
-before the space lanes of Geras are littered with the burned-out shells
+before the space lanes of [[id:48f9c4bf-b2ad-44e9-9130-d0ee33856ed2][Geras]] are littered with the burned-out shells
 of dead ships.
 The warring organisations have issued calls to independent combat pilots
 for support. Commanders who participate in the conflict will be
@@ -50,7 +50,7 @@ Both factions have set out week-long operations to take control of the
 system, which will begin on the 1st of November 3304.
 
 To earn rewards you must sign up as an active participant before handing
-in Combat Bonds at Yurchikhin Port in the Geras system. Only Combat
+in [[id:bbbc7bc6-79d7-46b7-925e-c1f882c8f25a][Combat Bonds]] at [[id:88e4b0dc-4d64-4ba3-9a64-7fcbd6277e39][Yurchikhin Port]] in the [[id:48f9c4bf-b2ad-44e9-9130-d0ee33856ed2][Geras]] system. Only Combat
 Bonds handed in after signing up will count toward your personal
 contribution total.
 
@@ -60,7 +60,7 @@ not count towards your personal contribution total, and your crew will
 receive the reward for their bonds when they are handed in. The
 proportion of bonds assigned to your crew will depend on their rank.
 
-Be aware that faction-state changes, Thargoid Sensor-related
+Be aware that faction-state changes, [[id:8ddf8e00-4541-4857-a609-5f6c5849dded][Thargoid Sensor]]-related
 interference and other disruptive events can negatively impact markets
 and station services, and could prevent the initiative from running
 smoothly.

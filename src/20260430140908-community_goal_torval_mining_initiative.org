@@ -11,7 +11,7 @@ Pride of Bitterwood | Dulos
 
 * Objective
 
-Deliver Gallite, Bromellite and Samarium
+Deliver [[id:19346f59-fa1a-4ba2-8373-5b4d90f26662][Gallite]], [[id:1cbb99d3-bda9-462d-9314-51bab7c41e3c][Bromellite]] and [[id:699175f3-27b8-43ca-a463-2896e147de16][Samarium]]
 
 Hint: Nearest metal rich pristine rings
 
@@ -35,15 +35,15 @@ Tier 1/5
 
 Finished
 
-Caine Massey and Torval Mining Ltd are running rival campaigns to
+Caine Massey and [[id:62ab96ef-615e-4fd5-a2b1-68167557baa1][Torval Mining Ltd]] are running rival campaigns to
 deliver mined commodities to the Dulos system.
 
 For the past decade, the megacorp Caine Massey has supplied ore and
 other raw materials to several subsidiaries in the region. But with the
-contract up for renewal, Torval Mining Ltd is making a bid for the
+contract up for renewal, [[id:62ab96ef-615e-4fd5-a2b1-68167557baa1][Torval Mining Ltd]] is making a bid for the
 lucrative business.
 
-Constantia Torval, operations director for the Empire-based company,
+[[id:d50fdb9a-9f99-41e7-b831-8e347f851541][Constantia Torval]], operations director for the [[id:541dcfb3-93ef-40e5-9284-bf5a4f999043][Empire]]-based company,
 outlined the initiative:
 
 "We are calling upon pilots to provide the following mined materials:
@@ -55,7 +55,7 @@ The corporate distributors within the region have agreed that whichever
 candidate is able to provide the greatest amount of materials will be
 awarded the contract for the next decade.
 
-Should Torval Mining Ltd be successful, an initial 10% price reduction
+Should [[id:62ab96ef-615e-4fd5-a2b1-68167557baa1][Torval Mining Ltd]] be successful, an initial 10% price reduction
 will be applied to all mining modules offered at the Pride of Bitterwood
 megaship. A further 5% reduction will be applied per tier reached. This
 discount will be available for two weeks.

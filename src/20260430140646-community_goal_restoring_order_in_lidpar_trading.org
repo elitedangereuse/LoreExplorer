@@ -11,7 +11,7 @@ Carlisle Station | Lidpar
 
 * Objective
 
-Delivering Battle Weapons, Reactive Armour and Advanced Medicines
+Delivering [[id:6f8b14ec-06ee-4f36-b646-15146a0ca81b][Battle Weapons]], [[id:85a9f73a-636f-459f-8a46-d93b1a3dca16][Reactive Armour]] and [[id:5af29dcf-3079-46c2-a594-d2559c830744][Advanced Medicines]]
 
 * Progress
 
@@ -39,7 +39,7 @@ agitators are attacking pilots travelling in the system, disrupting
 trade and generally spreading discord.
 
 To counter this threat, the Union of Lidpar Green Party has promised to
-reward pilots who deliver Battle Weapons, Reactive Armour, and Advanced
+reward pilots who deliver [[id:6f8b14ec-06ee-4f36-b646-15146a0ca81b][Battle Weapons]], [[id:85a9f73a-636f-459f-8a46-d93b1a3dca16][Reactive Armour]], and Advanced
 Medicines to Carlisle Station in the Lidpar system, to support local
 security forces.
 The campaign begins on 23rd of March 3303 and will run for one week. If
@@ -47,7 +47,7 @@ the final target is met earlier than planned, the campaign will end
 immediately.
 
 To be eligible for rewards you must sign up as an active participant
-before delivering Battle Weapons, Reactive Armour and Advanced Medicines
+before delivering [[id:6f8b14ec-06ee-4f36-b646-15146a0ca81b][Battle Weapons]], [[id:85a9f73a-636f-459f-8a46-d93b1a3dca16][Reactive Armour]] and [[id:5af29dcf-3079-46c2-a594-d2559c830744][Advanced Medicines]]
 to Carlisle Station in the Lidpar system.
 
 Be aware that faction-state changes, UA bombing and other disruptive

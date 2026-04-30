@@ -7,11 +7,11 @@
 
 * Location
 
-Walter Dock | Gyvatices
+Walter Dock | [[id:00c264cc-3e6a-4823-b20e-1e1beafb1ed6][Gyvatices]]
 
 * Objective
 
-Deliver requested Coffee & Fish
+Deliver requested [[id:17e9c920-2c60-4aad-975a-c52e81030b1e][Coffee]] & [[id:6aec48eb-daf1-45ff-92d2-0ba46d6347f8][Fish]]
 
 * Progress
 
@@ -33,14 +33,14 @@ Tier 8/10
 
 Finished
 
-Walter Waldo, founder of Wonderful Walter's Fish and Coffee Emporium,
+Walter Waldo, founder of Wonderful Walter's [[id:6aec48eb-daf1-45ff-92d2-0ba46d6347f8][Fish]] and [[id:17e9c920-2c60-4aad-975a-c52e81030b1e][Coffee]] Emporium,
 passed into the black this week.
 
-In honour of one of the galaxy's great entrepreneurs, the Gyvatices
+In honour of one of the galaxy's great entrepreneurs, the [[id:00c264cc-3e6a-4823-b20e-1e1beafb1ed6][Gyvatices]]
 Crimson Advanced Holdings, in connection with Walter's family, has
 organised a special memorial. The organisation has issued an appeal for
-Fish and Coffee in support of this event, which should be delivered to
-Walter Dock in the Gyvatices system.
+[[id:6aec48eb-daf1-45ff-92d2-0ba46d6347f8][Fish]] and [[id:17e9c920-2c60-4aad-975a-c52e81030b1e][Coffee]] in support of this event, which should be delivered to
+Walter Dock in the [[id:00c264cc-3e6a-4823-b20e-1e1beafb1ed6][Gyvatices]] system.
 
 Walter's family released the following statement:
 
@@ -49,8 +49,8 @@ festival. He was an avid fisherman, a keen coffee drinker a family man
 and a philanthropist. We would like the whole of Walter Dock to be part
 of this memorial."
 
-Business leaders in Gyvatices are supporting the appeal by offering
-above-market prices for both Fish and Coffee at Walter Dock.
+Business leaders in [[id:00c264cc-3e6a-4823-b20e-1e1beafb1ed6][Gyvatices]] are supporting the appeal by offering
+above-market prices for both [[id:6aec48eb-daf1-45ff-92d2-0ba46d6347f8][Fish]] and [[id:17e9c920-2c60-4aad-975a-c52e81030b1e][Coffee]] at Walter Dock.
 
 The campaign begins on the 20th October 3302 and will run for one week.
 If the final target is met earlier than planned, the campaign will end

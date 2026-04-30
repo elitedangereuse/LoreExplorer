@@ -8,13 +8,13 @@
 * Location
 
 -----
-  Pleiades Sector IH-V c2-16
+  [[id:cd15e78b-89d1-4051-bd92-05d0ab49ec17][Pleiades]] Sector IH-V c2-16
 -----
 
 * Objective
 
-Help the Pleiades Resource Enterprise take an Imperial system by
-delivering Combat Bonds to PRE Laboratory in the Pleiades Sector IH-V
+Help the [[id:268dd81e-54f9-447a-9a47-11b2f7242e81][Pleiades Resource Enterprise]] take an Imperial system by
+delivering [[id:bbbc7bc6-79d7-46b7-925e-c1f882c8f25a][Combat Bonds]] to PRE Laboratory in the [[id:cd15e78b-89d1-4051-bd92-05d0ab49ec17][Pleiades]] Sector IH-V
 C2-16 system.
 
 * Progress
@@ -39,27 +39,27 @@ Finished
 
 HORIZONS REQUIRED
 
-Recent reports from the Empire-controlled Pleiades Sector IH-V C2-16
-system indicate that the Pleiades Resource Enterprise, a Federal
+Recent reports from the [[id:541dcfb3-93ef-40e5-9284-bf5a4f999043][Empire]]-controlled [[id:5fcd46ca-b9bc-4135-8596-79ac2f8883f5][Pleiades Sector IH-V C2-16]]
+system indicate that the [[id:268dd81e-54f9-447a-9a47-11b2f7242e81][Pleiades Resource Enterprise]], a Federal
 organisation, is preparing to launch an assault with the aim of taking
-the region from the Empire.
+the region from the [[id:541dcfb3-93ef-40e5-9284-bf5a4f999043][Empire]].
 
-A spokesperson for the Imperial Inquisition, which is coordinating the
+A spokesperson for the [[id:c09feece-7689-4caa-bb83-dbde4757f6b0][Imperial Inquisition]], which is coordinating the
 Imperial resistance, said:
 
-"I would not surrender so much as an inch of territory to the Federation
--- I am certainly not about to surrender the Pleiades Sector IH-V C2-16
-system. I hope the Pleiades Resource Enterprise is prepared for a
+"I would not surrender so much as an inch of territory to the [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]]
+-- I am certainly not about to surrender the [[id:5fcd46ca-b9bc-4135-8596-79ac2f8883f5][Pleiades Sector IH-V C2-16]]
+system. I hope the [[id:268dd81e-54f9-447a-9a47-11b2f7242e81][Pleiades Resource Enterprise]] is prepared for a
 fight."
 
-The Pleiades Resource Enterprise has issued a call to arms to all
-Federation-aligned fighters.
+The [[id:268dd81e-54f9-447a-9a47-11b2f7242e81][Pleiades Resource Enterprise]] has issued a call to arms to all
+[[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]]-aligned fighters.
 
 Both factions have set out a week-long operation for control of the
 system, which will begin on the 11th of August 3302.
 
 To be eligible for rewards you must sign up as an active participant
-before handing in Combat Bonds at PRE Laboratory in Pleiades Sector IH-V
+before handing in [[id:bbbc7bc6-79d7-46b7-925e-c1f882c8f25a][Combat Bonds]] at PRE Laboratory in [[id:cd15e78b-89d1-4051-bd92-05d0ab49ec17][Pleiades]] Sector IH-V
 C2-16 system.
 
 Both factions have set out week-long operations to take control of the

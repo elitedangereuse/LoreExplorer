@@ -11,7 +11,7 @@ Wolf Port | LTT 1935
 
 * Objective
 
-Hand in Combat Bonds after fighting for LTT 1935 Confederacy in Conflict
+Hand in [[id:bbbc7bc6-79d7-46b7-925e-c1f882c8f25a][Combat Bonds]] after fighting for LTT 1935 Confederacy in Conflict
 Zones
 
 * Progress
@@ -34,19 +34,19 @@ Tier 5/5
 
 Finished
 
-The Empire's counter-terrorism operation in the LTT 1935 system has
-triggered armed resistance from the Federation.
+[[id:1047d7bb-a08d-430d-a445-4ec9a1b2daa3][The Empire]]'s counter-terrorism operation in the LTT 1935 system has
+triggered armed resistance from the [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]].
 
-The Imperial Internal Security Service's investigation into the NMLA
-terrorist group led its agents to LTT 1935, a Federation-controlled
+The [[id:01980efc-1b06-4f55-bf18-fa6c7e56f1eb][Imperial Internal Security Service]]'s investigation into the NMLA
+terrorist group led its agents to LTT 1935, a [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]]-controlled
 system in neutral space. Military vessels were called in for support,
 only to be met in combat by Federal forces.
 
 A declaration was made by Colonel Ernest Harris of the LTT 1935
 Confederacy:
 
-"The Empire cannot dominate and arrest our citizens as it did with the
-Marlinists. We claim the right to defend the Federation's territory
+"[[id:1047d7bb-a08d-430d-a445-4ec9a1b2daa3][The Empire]] cannot dominate and arrest our citizens as it did with the
+Marlinists. We claim the right to defend the [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]]'s territory
 from such aggressive tactics."
 
 Captain Axel Cyprian of the L.Y.S Corp responded:
@@ -57,7 +57,7 @@ vital that we take control of this system and shut down the NMLA's
 source of weapons."
 
 The LTT 1935 Confederacy has requested help from independent pilots to
-defend LTT 1935 from occupation by the Empire. With the agreement of
+defend LTT 1935 from occupation by the [[id:541dcfb3-93ef-40e5-9284-bf5a4f999043][Empire]]. With the agreement of
 Congress, the top 75% of participating Commanders will be raised one
 military rank, the top 25% will be raised two military ranks and, should
 victory be secured, the top 10 Commanders will be elevated to the

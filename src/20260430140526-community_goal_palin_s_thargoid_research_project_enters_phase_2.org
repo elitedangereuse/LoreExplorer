@@ -7,11 +7,11 @@
 
 * Location
 
-Baird Gateway | Arque
+[[id:ecd07592-63b9-4dbe-a1b9-d8e19a1f8ed8][Baird Gateway]] | [[id:d4b595af-536d-4575-af11-f07f3ac3ff40][Arque]]
 
 * Objective
 
-Deliver Thargoid Sensor, Thargoid Probe and Thargoid Resin
+Deliver [[id:8ddf8e00-4541-4857-a609-5f6c5849dded][Thargoid Sensor]], [[id:911ada6c-6de2-4ab9-a9aa-d09426d1f9e2][Thargoid Probe]] and [[id:11ae2103-e28e-48f9-a073-84886c94dc5b][Thargoid Resin]]
 
 * Progress
 
@@ -33,11 +33,11 @@ Tier 5/6
 
 Finished
 
-Professor Ishmael Palin has requested deliveries of Thargoid artefacts
-to the Arque system for scientific study.
+[[id:8f63442a-1f38-457d-857a-38297d732a90][Professor Ishmael Palin]] has requested deliveries of Thargoid artefacts
+to the [[id:d4b595af-536d-4575-af11-f07f3ac3ff40][Arque]] system for scientific study.
 
 The first phase of the project took place last month and focused on
-meta-alloys. In a public announcement, Professor Palin outlined the
+meta-alloys. In a public announcement, [[id:79ddf44d-7d17-4026-90c2-f39013e75ee7][Professor Palin]] outlined the
 second phase:
 
 "My ongoing analysis of the Thargoids' biomechanical technology has
@@ -60,7 +60,7 @@ Top 25%: 5D Heavy Duty Hull Reinforcement Package
 Top 10%: Additional 5D Heavy Duty Hull Reinforcement Package
 
 Pilots are asked to deliver Thargoid probes, Thargoid resin and Thargoid
-sensors to Baird Gateway in the Arque system.
+sensors to [[id:ecd07592-63b9-4dbe-a1b9-d8e19a1f8ed8][Baird Gateway]] in the [[id:d4b595af-536d-4575-af11-f07f3ac3ff40][Arque]] system.
 
 The campaign begins on the 9th June 3308 and will run for one week. If
 the final target is met earlier than planned, the campaign will end

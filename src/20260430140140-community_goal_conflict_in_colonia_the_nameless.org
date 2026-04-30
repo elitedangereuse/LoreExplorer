@@ -7,11 +7,11 @@
 
 * Location
 
-Jaques Station | Colonia
+[[id:935880a2-d4fb-4d27-ad48-0f95112ee0fe][Jaques Station]] | [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]]
 
 * Objective
 
-Hand in Combat Bonds after fighting for The Nameless in CZs
+Hand in [[id:bbbc7bc6-79d7-46b7-925e-c1f882c8f25a][Combat Bonds]] after fighting for The Nameless in CZs
 
 * Progress
 
@@ -33,8 +33,8 @@ Tier 1/8
 
 Finished
 
-Recent reports from the Colonia system indicate that conflict has broken
-out between The Nameless and the Colonia Council.
+Recent reports from the [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] system indicate that conflict has broken
+out between The Nameless and the [[id:6b6559fd-c7fa-44c9-b540-b94ddcadbd50][Colonia Council]].
 
 The Nameless has issued a call for aid, appealing to independent combat
 pilots for support. Pilots who participate in the conflict will be

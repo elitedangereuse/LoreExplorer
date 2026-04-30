@@ -7,11 +7,11 @@
 
 * Location
 
-Hart Station | Bast
+[[id:24aa4f9c-26d5-4628-ba4b-13c370a13a77][Hart Station]] | [[id:ba9787a7-583f-4fb0-b9e1-3c0c0096b485][Bast]]
 
 * Objective
 
-Hand in Bounty Vouchers to Hart Station
+Hand in [[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]] to [[id:24aa4f9c-26d5-4628-ba4b-13c370a13a77][Hart Station]]
 
 * Progress
 
@@ -33,16 +33,16 @@ Tier 5/5
 
 Finished
 
-A cure for the Cerberus Plague has been discovered, and the process of
+A cure for the [[id:1389857c-3747-4cdd-ad3e-99b162df9308][Cerberus Plague]] has been discovered, and the process of
 eliminating the disease from the galaxy is now underway. Unfortunately,
-however, the medical ships transporting the cure from Hart Station are
+however, the medical ships transporting the cure from [[id:24aa4f9c-26d5-4628-ba4b-13c370a13a77][Hart Station]] are
 coming under attack from Pirates, who see the vessels as easy prey.
 
-The Cerberus Plague remains a significant threat, and it is of the
+The [[id:1389857c-3747-4cdd-ad3e-99b162df9308][Cerberus Plague]] remains a significant threat, and it is of the
 utmost importance that the antidote reaches the systems blighted y the
 disease. The pirates targeting the medical supply ships must be
-eliminated if the Cerberus Plague is to be wiped from the galaxy. To
-this end, the Union of Bast Liberals is offering a series of incentives
+eliminated if the [[id:1389857c-3747-4cdd-ad3e-99b162df9308][Cerberus Plague]] is to be wiped from the galaxy. To
+this end, the Union of [[id:ba9787a7-583f-4fb0-b9e1-3c0c0096b485][Bast]] Liberals is offering a series of incentives
 to pilots who destroy these pirates. Interested parties should target
-pirates with bounties from the Union of Bast Liberals, and hand in the
-bounties at Hart Station in the Bast System.
+pirates with bounties from the Union of [[id:ba9787a7-583f-4fb0-b9e1-3c0c0096b485][Bast]] Liberals, and hand in the
+bounties at [[id:24aa4f9c-26d5-4628-ba4b-13c370a13a77][Hart Station]] in the [[id:ba9787a7-583f-4fb0-b9e1-3c0c0096b485][Bast]] System.

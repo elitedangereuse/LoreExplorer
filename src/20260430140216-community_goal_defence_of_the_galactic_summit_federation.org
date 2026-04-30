@@ -7,11 +7,11 @@
 
 * Location
 
-Spirit of Laelaps | Sirius
+Spirit of Laelaps | [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]]
 
 * Objective
 
-Hand in Bounty Vouchers for Sirius Corporation at Spirit of Laelaps
+Hand in [[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]] for [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]] at Spirit of Laelaps
 megaship.
 
 * Progress
@@ -34,36 +34,36 @@ Tier 7/8
 
 Finished
 
-The Federation is working with Sirius Corporation to offer bounty
+The [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]] is working with [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]] to offer bounty
 hunting opportunities to protect the diplomatic conference.
 
-The first Galactic Summit has officially opened at Patterson Enterprise
-station in the Sirius system. Temporary permits have been issued to all
+The first [[id:c19cec97-cb93-4049-be5d-1abcaa6023a5][Galactic Summit]] has officially opened at Patterson Enterprise
+station in the [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] system. Temporary permits have been issued to all
 arriving delegates and Commanders for the three weeks of its term,
 although these do not apply to fleet carriers.
 
-Sirius Corporation's CEO Li Yong-Rui announced:
+[[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]]'s CEO [[id:f0655b3a-aca9-488f-bdb3-c481a42db384][Li Yong-Rui]] announced:
 
 "The data supplied to us in January revealed several unanticipated
 threats, putting additional strain on our navy and security forces.
-Working with the generous support of the Federation, we have placed
+Working with the generous support of the [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]], we have placed
 bounties on all wanted ships to ensure delegates' safety. Pilots
-defending the Sirius system will be rewarded for handing in bounty
+defending the [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] system will be rewarded for handing in bounty
 vouchers at the Spirit of Laelaps."
 
 If Tier 1 is reached, the top 75% of participants will receive a
-permanent Sirius system permit and the Viper Mk III Acceleration White
-paint job. The top 25% will additionally receive the Viper Mk III
+permanent [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] system permit and the [[id:369150fa-848e-401e-9ce6-373f1453e405][Viper]] Mk III Acceleration White
+paint job. The top 25% will additionally receive the [[id:369150fa-848e-401e-9ce6-373f1453e405][Viper]] Mk III
 Acceleration Gold paint job. These should be processed and accessible by
 the 6th of March 3307.
 
-Thanks to the generosity of the Federation, the top 10 participants will
+Thanks to the generosity of the [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]], the top 10 participants will
 receive a Federal Assault Ship. The ship will be delivered and stored at
-Ashby City starport in the Luyten's Star system by the 6th of March
+Ashby City starport in the [[id:5817a2f2-d8af-4c78-9401-490abe32564b][Luyten's Star]] system by the 6th of March
 3307.
 
-The joint initiative will run for one week, after which Sirius
-Corporation will partner with the Empire to provide for the needs and
+The joint initiative will run for one week, after which [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]]
+Corporation will partner with the [[id:541dcfb3-93ef-40e5-9284-bf5a4f999043][Empire]] to provide for the needs and
 security of the conference.
 
 If the final target is met earlier than planned, this phase will end

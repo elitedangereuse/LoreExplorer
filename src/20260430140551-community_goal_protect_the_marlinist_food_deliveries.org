@@ -11,7 +11,7 @@ Stillman Hub | Concordia
 
 * Objective
 
-Hand in Bounty Vouchers for Free Marlinists of Carinae
+Hand in [[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]] for Free Marlinists of Carinae
 
 * Progress
 
@@ -33,15 +33,15 @@ Tier 5/5
 
 Finished
 
-The Marlinist Colonies have requested assistance to feed their
+The [[id:46536da8-abd4-461f-9bf9-b749d4fc25e1][Marlinist]] Colonies have requested assistance to feed their
 population.
 
-Eight systems were colonised by the Sirius Corporation to act as
+Eight systems were colonised by the [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]] to act as
 permanent reservations for the political refugees. Millions of
 Marlinists have now relocated to these settlements, thereby reducing
-tension between the Empire and the Federation.
+tension between the [[id:541dcfb3-93ef-40e5-9284-bf5a4f999043][Empire]] and the [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]].
 
-The newly formed Marlinist factions are holding democratic elections to
+The newly formed [[id:46536da8-abd4-461f-9bf9-b749d4fc25e1][Marlinist]] factions are holding democratic elections to
 select their leaders. However, the transitional parliament has declared
 an emergency due to the shortage of food stocks.
 
@@ -51,7 +51,7 @@ bounties on all wanted ships which should be handed in at Stillman Hub
 in the HIP 22550 system.
 
 If successful, the Free Marlinists of Carinae in conjunction with other
-Marlinist factions will give the top 75% of pilots a fully engineered,
+[[id:46536da8-abd4-461f-9bf9-b749d4fc25e1][Marlinist]] factions will give the top 75% of pilots a fully engineered,
 focused and lightweight point defence module.
 The module will be placed in storage at Stillman Hub in the HIP 22550
 system by the 23rd of January 3307.

@@ -36,7 +36,7 @@ Finished
 The Didiomanja Emperor's Grace has completed work on the Tiverion
 Academy, a flight school for imperial Naval Cadets. The organisation is
 hosting an inaugural banquet to mark the event, and the honour the late
-Admiral Mira Tiverion, the organisation's founding member, who will
+Admiral [[id:04ebf7f2-fa53-4a5a-876c-dd59fc94891c][Mira Tiverion]], the organisation's founding member, who will
 have a monument erected at the site.
 
 The spokesperson for the Didiomanja Emperor's Grace released the
@@ -55,7 +55,7 @@ immediately.
 To be eligible for rewards you must sign up as an active participant
 before delivering Gold to Leydenfrost Dock in the Didiomanja System.
 
-Be aware that faction-state changes, Thargoid Sensors-related
+Be aware that faction-state changes, [[id:d17a9775-b9b5-4d26-b69f-16ced04f52a9][Thargoid Sensors]]-related
 interference and other disruptive events can negatively impact markets
 and station services, and could prevent the initiative from running
 smoothly.

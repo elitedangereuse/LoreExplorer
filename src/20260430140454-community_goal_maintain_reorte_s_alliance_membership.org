@@ -7,11 +7,11 @@
 
 * Location
 
-Trobairitz | Reorte
+Trobairitz | [[id:5292d8c1-fa6e-4352-a03f-ef984f706203][Reorte]]
 
 * Objective
 
-Deliver Building Fabricators, Skimmer Components and Advanced Medicines
+Deliver [[id:0f1939e4-1ab1-4f9c-8b73-ebc572081433][Building Fabricators]], [[id:ad95c728-9be4-4216-b8e2-b74539b55e86][Skimmer Components]] and [[id:5af29dcf-3079-46c2-a594-d2559c830744][Advanced Medicines]]
 
 * Progress
 
@@ -33,27 +33,27 @@ Tier 3/5
 
 Finished
 
-Deliveries to the Reorte Pro-Alliance League will help determine the
+Deliveries to the [[id:5292d8c1-fa6e-4352-a03f-ef984f706203][Reorte]] Pro-[[id:2506edb2-fef4-4723-85c6-02482635229d][Alliance]] League will help determine the
 system's status.
 
-The system's controlling faction, Reorte Mining Coalition, wishes to
-declare independence in protest against Sirius Corporation's proposed
-anti-xeno defence pact with the Alliance Defence Force.
+The system's controlling faction, [[id:83d61aae-150c-4a38-81aa-0443046505c3][Reorte Mining Coalition]], wishes to
+declare independence in protest against [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]]'s proposed
+anti-xeno defence pact with the [[id:17d9294e-7759-4cf4-9a67-5f12b5704f51][Alliance Defence Force]].
 
-Another faction in the system, the Reorte Pro-Alliance League, broadcast
+Another faction in the system, the [[id:5292d8c1-fa6e-4352-a03f-ef984f706203][Reorte]] Pro-[[id:2506edb2-fef4-4723-85c6-02482635229d][Alliance]] League, broadcast
 a statement in opposition by chief administrator Louisa Leblanc:
 
-"Severing Reorte's links with the Alliance over some misguided
+"Severing [[id:5292d8c1-fa6e-4352-a03f-ef984f706203][Reorte]]'s links with the [[id:2506edb2-fef4-4723-85c6-02482635229d][Alliance]] over some misguided
 idealism would be hasty and short-sighted, given the Thargoid threat
 this defence pact is intended to prepare for. We believe that increasing
 supplies of advanced medicines, skimmer components and building
 fabricators will reassure the public of the security benefits of
 membership."
 
-"The Alioth Independents faction has kindly provided a megaship, the
+"The [[id:d17b2062-68b1-43ea-8852-ab04b591c6ba][Alioth Independents]] faction has kindly provided a megaship, the
 Trobairitz, where pilots can deliver these commodities."
 
-Although Sirius Corporation is not officially involved with these
+Although [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]] is not officially involved with these
 competing initiatives, the megacorp is offering a pre-engineered heat
 sink module to independent pilots who make deliveries to the Trobairitz.
 The heat sink module has increased ammo at no extra mass, but with a
@@ -67,5 +67,5 @@ modules.
 sink modules.
 
 The dual initiatives begin on the 24th of March 3308 and will run for
-one week. Should the campaign to support the Reorte Pro-Alliance League
+one week. Should the campaign to support the [[id:5292d8c1-fa6e-4352-a03f-ef984f706203][Reorte]] Pro-[[id:2506edb2-fef4-4723-85c6-02482635229d][Alliance]] League
 reach the maximum tier it will end immediately.

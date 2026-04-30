@@ -7,12 +7,12 @@
 
 * Location
 
-Henslow Market | Adenets
+Henslow Market | [[id:7ee5896b-1917-4d20-9536-1989e804148a][Adenets]]
 
 * Objective
 
 Earn rewards by delivering robotics, computer components and
-microcontrollers to Henslow Market in the Adenets system.
+microcontrollers to Henslow Market in the [[id:7ee5896b-1917-4d20-9536-1989e804148a][Adenets]] system.
 
 * Progress
 
@@ -34,19 +34,19 @@ Tier 5/8
 
 Finished
 
-The Achilles Corporation has announced plans to replace all robots
+The [[id:04ba4637-336a-46c7-bab0-3ac12f16b2f9][Achilles Corporation]] has announced plans to replace all robots
 destroyed as a result of the recent spy robot scandal.
 
-Chairman Gus Weaver of the Sol division of Achilles Corp said:
+Chairman [[id:11262a8f-5a7b-4107-b7da-cae3878f8b3b][Gus Weaver]] of the [[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]] division of Achilles Corp said:
 
 "We take customer support seriously. That's why we're offering to
 replace -- free of charge -- any robots destroyed or damaged by owners
 who suspected them of behaving inappropriately."
 
-"To achieve this, we've asked the Adenets Pro-Alliance Bond to
+"To achieve this, we've asked the [[id:7ee5896b-1917-4d20-9536-1989e804148a][Adenets]] Pro-[[id:2506edb2-fef4-4723-85c6-02482635229d][Alliance]] Bond to
 organise deliveries of robotics, computer components and
-microcontrollers to Henslow Market in the Adenets system. These will be
-used to produce brand new PA912 administration robots and other
+microcontrollers to Henslow Market in the [[id:7ee5896b-1917-4d20-9536-1989e804148a][Adenets]] system. These will be
+used to produce brand new [[id:0b7fcbab-6e37-401a-8d52-4d2dee8e5c1e][PA912]] administration robots and other
 models."
 
 The initiative begins on the 29th of November 3304 and will run for one

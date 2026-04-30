@@ -7,11 +7,11 @@
 
 * Location
 
-Bobko City | Narri
+[[id:958d3b04-bbb5-4d7e-b0f0-0208abfea93c][Bobko City]] | Narri
 
 * Objective
 
-Deliver Beryllium, Semiconductors, and Reinforced Mounting Plates
+Deliver [[id:bd0fe4ab-145e-431c-b06e-3433e2618bff][Beryllium]], [[id:0def679f-6fc4-4107-bd99-51a36668a787][Semiconductors]], and Reinforced Mounting Plates
 
 * Progress
 
@@ -33,19 +33,19 @@ Tier 6/8
 
 Finished
 
-The Utopia commune has launched a project to build a military
-installation in its home system to defend the Sim-Archive from potential
+The [[id:058a658d-e1ce-4364-a92b-b9607495c73f][Utopia]] commune has launched a project to build a military
+installation in its home system to defend the [[id:83b3ed4c-f0b1-4311-a4df-34bdfa742126][Sim-Archive]] from potential
 Thargoid attack.
 
-Dr Leigh Constantinides, a spokesperson for Utopia, made this
+Dr [[id:78f7348c-44af-40bf-8f60-ff0e4d3425d0][Leigh Constantinides]], a spokesperson for [[id:058a658d-e1ce-4364-a92b-b9607495c73f][Utopia]], made this
 announcement:
 Following recent observations by the respected strategist Marquis
-Novantico, we accept that the Sim-Archive requires increased protection
+Novantico, we accept that the [[id:83b3ed4c-f0b1-4311-a4df-34bdfa742126][Sim-Archive]] requires increased protection
 to prevent its knowledge from falling into the wrong hands. Our partner
 organisation, the Narri Justice Party, is therefore overseeing the
 construction of a new security installation. We beseech the galactic
 community to support this worthy endeavour.
 
 Independent pilots are requested to deliver the requested construction
-materials to Bobko City in the Narri system in support of this
+materials to [[id:958d3b04-bbb5-4d7e-b0f0-0208abfea93c][Bobko City]] in the Narri system in support of this
 initiative.

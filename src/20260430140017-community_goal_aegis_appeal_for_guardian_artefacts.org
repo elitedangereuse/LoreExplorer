@@ -7,12 +7,12 @@
 
 * Location
 
-Alexandria | Delphi
+[[id:4d4f19a9-5100-4307-ac1b-f40ae90e806c][Alexandria]] | [[id:846bfbc7-75e7-4d8d-8716-7fe0346026f4][Delphi]]
 
 * Objective
 
-Deliver Guardian Relic, Guardian Orb, Guardian Casket, Guardian Tablet,
-Guardian Urn, Guardian Totem
+Deliver [[id:b2c862d2-12a9-423d-8688-d8dec21be343][Guardian Relic]], [[id:6bdfb36f-f007-4814-b6bb-3ed995fa633b][Guardian Orb]], [[id:8d732fbb-d43d-4a87-8079-a19c073e753b][Guardian Casket]], [[id:ea888fbc-5c3d-4c8a-b629-372a880698e0][Guardian Tablet]],
+[[id:c7403be5-a1dc-434b-86bf-d1498c04323f][Guardian Urn]], [[id:3ef4f33f-9df9-4adf-85db-296472ed1c22][Guardian Totem]]
 
 * Progress
 
@@ -41,29 +41,29 @@ The Guardians were an intelligent humanoid species whose civilisation
 collapsed over a million years ago, and who were engaged in hostilities
 with the Thargoid race.
 
-Professor Alba Tesreau, head of Aegis Research, gave this statement:
+Professor [[id:c2623368-19b0-4995-9e35-b8f54f741a53][Alba Tesreau]], head of [[id:3808ab0e-fcff-4299-b882-f8c3946f272d][Aegis Research]], gave this statement:
 
-"At the Galactic Summit, Aegis agreed to undertake a fresh analysis of
+"At the [[id:c19cec97-cb93-4049-be5d-1abcaa6023a5][Galactic Summit]], Aegis agreed to undertake a fresh analysis of
 Guardian technology. The hope is that this will lead to the development
 of more effective defences against the Thargoids. We therefore require
-new samples to compare with Ram Tah's groundbreaking work on this
+new samples to compare with [[id:4551539e-a6b2-4c45-8923-40fb603202b7][Ram Tah]]'s groundbreaking work on this
 mysterious species."
 
 "Guardian artefacts including those previously identified as caskets,
 orbs, relics, tablets, totems and urns are needed. These can be
 unearthed from the ancient ruins scattered across dozens of worlds."
 
-Pilots are asked to deliver their shipments to Aegis Research at the
-Alexandria megaship in the Delphi system.
+Pilots are asked to deliver their shipments to [[id:3808ab0e-fcff-4299-b882-f8c3946f272d][Aegis Research]] at the
+[[id:4d4f19a9-5100-4307-ac1b-f40ae90e806c][Alexandria]] megaship in the [[id:846bfbc7-75e7-4d8d-8716-7fe0346026f4][Delphi]] system.
 
 If Tier 1 is reached, the top 75% of contributors will have Guardian
 Gauss Cannons unlocked and a fixed Class 2 Rating B Guardian Gauss
-Cannon placed into storage at the Alexandria megaship in the Delphi
+Cannon placed into storage at the [[id:4d4f19a9-5100-4307-ac1b-f40ae90e806c][Alexandria]] megaship in the [[id:846bfbc7-75e7-4d8d-8716-7fe0346026f4][Delphi]]
 system by the 30th of April 3307.
 For the duration of this initiative, Aegis has organised for a Guardian
-technology broker to be present on the Alexandria. For each tier above
+technology broker to be present on the [[id:4d4f19a9-5100-4307-ac1b-f40ae90e806c][Alexandria]]. For each tier above
 Tier 2 that is reached, the technology broker will remain present on the
-Alexandria for one additional week.
+[[id:4d4f19a9-5100-4307-ac1b-f40ae90e806c][Alexandria]] for one additional week.
 
 The initiative begins on the 22nd of April 3307 and will run for one
 week. If the final target is met earlier than planned, the campaign will

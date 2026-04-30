@@ -7,7 +7,7 @@
 
 * Location
 
-Donar's Oak | Delphi
+Donar's Oak | [[id:846bfbc7-75e7-4d8d-8716-7fe0346026f4][Delphi]]
 
 * Objective
 
@@ -33,14 +33,14 @@ Tier 8/8
 
 Finished
 
-After sustained Thargoid attacks on civilian targets in the Pleiades
+After sustained Thargoid attacks on civilian targets in the [[id:cd15e78b-89d1-4051-bd92-05d0ab49ec17][Pleiades]]
 Nebula, system authorities have launched a rescue operation to locate
 and recover survivor
 
 The operation is being coordinated by Superintendent Marla Poulsen of
-Aegis Research, who made this announcement:
+[[id:3808ab0e-fcff-4299-b882-f8c3946f272d][Aegis Research]], who made this announcement:
 
-System authorities in the Pleiades have been channelling their resources
+System authorities in the [[id:cd15e78b-89d1-4051-bd92-05d0ab49ec17][Pleiades]] have been channelling their resources
 into combating the Thargoid menace. As a result, search-and-rescue
 initiatives have been neglected, but we are determined to plug that gap.
 That means a lot of civilians rescued from escape pods, which also means
@@ -48,7 +48,7 @@ a lot of hungry mouths to feed, so we'll need to bolster our current
 food stocks as a precautionary measure.
 
 Pilots are requested to recover occupied escape pods and damaged escape
-pods and deliver them to Donar's Oak in the Pleiades Sector Ir-W D1-55
+pods and deliver them to Donar's Oak in the [[id:cd15e78b-89d1-4051-bd92-05d0ab49ec17][Pleiades]] Sector Ir-W D1-55
 system.
 
 The campaign begins on the 9th of August 3304 and will run for one week.
@@ -57,7 +57,7 @@ immediately.
 
 To be eligible for rewards you must sign up as an active participant
 before delivering Occupied Escape Pods and Damaged Escape Pods to
-Donar's Oak in the Pleiades Sector Ir-W D1-55 system.
+Donar's Oak in the [[id:cd15e78b-89d1-4051-bd92-05d0ab49ec17][Pleiades]] Sector Ir-W D1-55 system.
 
 Be aware that faction-state changes, Thargoid sensor bombing and other
 disruptive events can negatively impact markets and station services,

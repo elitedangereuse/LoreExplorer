@@ -7,12 +7,12 @@
 
 * Location
 
-Ito Orbital | Rhea
+Ito Orbital | [[id:6da9023a-ccb6-444a-be77-626dfb552eb1][Rhea]]
 
 * Objective
 
-Deliver Unusual Encrypted Files, Specialised Legacy Firmware,
-Exceptional Scrambled Emission Data and Anomalous Bulk Scan Data (All
+Deliver [[id:8818c253-2e79-4713-bbac-619035ee2b8b][Unusual Encrypted Files]], [[id:51b7c2c1-186e-4c22-b802-c36bc2020baa][Specialised Legacy Firmware]],
+[[id:d6f8eb8b-2513-4b12-9933-5a7d76c07ffa][Exceptional Scrambled Emission Data]] and [[id:0d246a0a-1cee-44b7-bb8f-2f266434537b][Anomalous Bulk Scan Data]] (All
 are grade 1)
 
 * Progress
@@ -36,16 +36,16 @@ Tier 6/8
 Finished
 
 Data deliveries are required by competing initiatives to increase or
-decrease civilian surveillance in the Federation.
+decrease civilian surveillance in the [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]].
 
-President Zachary Hudson has asked the public to contribute to making
-the Proactive Detection Bureau more effective:
+President [[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][Zachary Hudson]] has asked the public to contribute to making
+the [[id:ea0acf7b-8942-4f0c-a78e-18b1e0a3fd8a][Proactive Detection Bureau]] more effective:
 
 "The PDB requires access to lesser-known comms channels where
 terrorists and criminals lurk. Supplying it with data from multiple
 sources will allow us to root out more potential threats."
 
-To counter this campaign, Shadow President Felicia Winters aims to
+To counter this campaign, [[id:98a18cdb-c516-4c5c-8bd6-c8c4c707e991][Shadow President]] [[id:b9fe58a3-dfb7-480c-afd6-92c3be841be7][Felicia Winters]] aims to
 protect personal communications from being intercepted:
 
 "My duty is to help citizens preserve their constitutional right to
@@ -55,13 +55,13 @@ intrusion."
 
 Both campaigns require deliveries of the following data types: unusual
 encrypted files, specialised legacy firmware, exceptional scrambled
-emission data and anomalous bulk scan data.
+emission data and [[id:3b903a70-280c-4b0c-8240-e97c4c970d92][anomalous]] bulk scan data.
 
-To support Shadow President Winters, pilots should deliver data to Ito
-Orbital in the Rhea system.
+To support [[id:98a18cdb-c516-4c5c-8bd6-c8c4c707e991][Shadow President]] Winters, pilots should deliver data to Ito
+Orbital in the [[id:6da9023a-ccb6-444a-be77-626dfb552eb1][Rhea]] system.
 
 Should the initiative gain more data than President Hudson's campaign,
-Shadow President Winters's policy will deliver a 50% increase in
+[[id:98a18cdb-c516-4c5c-8bd6-c8c4c707e991][Shadow President]] Winters's policy will deliver a 50% increase in
 stability to the systems she controls or exploits. Hudson's failure is
 predicted to have negative consequences in systems he controls or
 exploits, where system security will be decreased by 25%. These effects

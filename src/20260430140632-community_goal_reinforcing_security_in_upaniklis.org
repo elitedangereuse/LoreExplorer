@@ -7,11 +7,11 @@
 
 * Location
 
-Fozard Port | Upaniklis
+[[id:01afd0e9-6618-4c17-b425-4e228f418159][Fozard Port]] | [[id:361a46f2-79c4-40bf-9781-4066763914f3][Upaniklis]]
 
 * Objective
 
-Hand in Bounty Vouchers
+Hand in [[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]]
 
 * Progress
 
@@ -34,14 +34,14 @@ Tier 5/8
 Finished
 
 A generation ship with a living population has been discovered in the
-Upaniklis system.​
+[[id:361a46f2-79c4-40bf-9781-4066763914f3][Upaniklis]] system.​
 ​
 The ship's distress signal was initially picked up by a listening post.
 Investigating pilots were surprised to find that the ancient vessel -
-identified as the Golconda - had drifted into the uninhabited region
-around Upaniklis B.​
+identified as the [[id:fce1d147-f900-41ec-a92c-3ce3d1cae641][Golconda]] - had drifted into the uninhabited region
+around [[id:361a46f2-79c4-40bf-9781-4066763914f3][Upaniklis]] B.​
 ​
-Itsuko Harada of Upaniklis Vision Incorporated gave the following
+[[id:868d286f-de8c-40f7-9743-bbadc4d38423][Itsuko Harada]] of [[id:f3e9c36a-0e5d-493b-8fff-b86cdb2a3dcb][Upaniklis Vision Incorporated]] gave the following
 statement:​
 
 "These visitors have crossed incredible distances, entirely
@@ -50,12 +50,12 @@ forced these proud people to call for help -- a disease referred to as
 'the wasting kiss' is running rampant, and in a closed environment its
 effects may prove catastrophic.
 
-Understandably, the Golconda's people are reluctant to leave their home
+Understandably, the [[id:fce1d147-f900-41ec-a92c-3ce3d1cae641][Golconda]]'s people are reluctant to leave their home
 or interact with the rest of the galaxy, at least at present. They have
 gratefully accepted our offer of medical supplies and other materials,
 however."
 
-Traders have been asked to deliver various commodities to Fozard Port in
-the Upaniklis system to assist the ship. To protect these traders,
-Upaniklis Vision Incorporated is offering bounty vouchers on wanted
+Traders have been asked to deliver various commodities to [[id:01afd0e9-6618-4c17-b425-4e228f418159][Fozard Port]] in
+the [[id:361a46f2-79c4-40bf-9781-4066763914f3][Upaniklis]] system to assist the ship. To protect these traders,
+[[id:f3e9c36a-0e5d-493b-8fff-b86cdb2a3dcb][Upaniklis Vision Incorporated]] is offering bounty vouchers on wanted
 ships in the system to deter pirate activity in the area.​

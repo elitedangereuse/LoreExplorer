@@ -11,7 +11,7 @@ Smith Port | Dulos
 
 * Objective
 
-Deliver Gallite, Bromellite and Samarium
+Deliver [[id:19346f59-fa1a-4ba2-8373-5b4d90f26662][Gallite]], [[id:1cbb99d3-bda9-462d-9314-51bab7c41e3c][Bromellite]] and [[id:699175f3-27b8-43ca-a463-2896e147de16][Samarium]]
 
 Hint: Nearest metal rich pristine rings
 
@@ -35,12 +35,12 @@ Tier 2/5
 
 Finished
 
-Caine Massey and Torval Mining Ltd are running rival campaigns to
+Caine Massey and [[id:62ab96ef-615e-4fd5-a2b1-68167557baa1][Torval Mining Ltd]] are running rival campaigns to
 deliver mined commodities to the Dulos system.
 
 For the past decade, the megacorp Caine Massey has supplied ore and
 other raw materials to several subsidiaries in the region. But with the
-contract up for renewal, Torval Mining Ltd is making a bid for the
+contract up for renewal, [[id:62ab96ef-615e-4fd5-a2b1-68167557baa1][Torval Mining Ltd]] is making a bid for the
 lucrative business.
 
 Caine Massey published a request from its vice president, Johann

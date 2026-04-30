@@ -11,7 +11,7 @@ Kooi Gateway | HIP 93377
 
 * Objective
 
-Deliver Mineral Extractors to Kooi Gateway in the HIP 93377 system
+Deliver [[id:80bc68f0-97dc-433b-8b43-3e312e80996c][Mineral Extractors]] to Kooi Gateway in the HIP 93377 system
 
 * Progress
 
@@ -33,7 +33,7 @@ Tier 5/8
 
 Finished
 
-Kooi Gateway, HIP 93377 -- Deliver Mineral Extractors to Kooi Gateway in
+Kooi Gateway, HIP 93377 -- Deliver [[id:80bc68f0-97dc-433b-8b43-3e312e80996c][Mineral Extractors]] to Kooi Gateway in
 the HIP 93377 system to support development of improved
 material-processing facilities.
 

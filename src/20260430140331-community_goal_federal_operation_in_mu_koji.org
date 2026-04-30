@@ -7,12 +7,12 @@
 
 * Location
 
-Thuot Market | Mu Koji
+Thuot Market | [[id:b134728d-ea83-43c0-af4d-c212b8a0dd91][Mu Koji]]
 
 * Objective
 
-Earn rewards by delivering Technical Blueprints to Thuot Market in the
-Mu Koji system.
+Earn rewards by delivering [[id:3d9ead20-b449-4d82-9cef-8306f0f469a8][Technical Blueprints]] to Thuot Market in the
+[[id:b134728d-ea83-43c0-af4d-c212b8a0dd91][Mu Koji]] system.
 
 * Progress
 
@@ -34,15 +34,15 @@ Tier 2/8
 
 Finished
 
-Security operatives in Mu Koji have reported that the Empire and
-Federation have launched rival military operations in the system.
+Security operatives in [[id:b134728d-ea83-43c0-af4d-c212b8a0dd91][Mu Koji]] have reported that the [[id:541dcfb3-93ef-40e5-9284-bf5a4f999043][Empire]] and
+[[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]] have launched rival military operations in the system.
 
-Both superpowers have fleets stationed in Mu Koji, and both have
+Both superpowers have fleets stationed in [[id:b134728d-ea83-43c0-af4d-c212b8a0dd91][Mu Koji]], and both have
 launched attacks against these convoys with the aim of securing valuable
 enemy intelligence.
 
-The Xuangu Crimson Major Network has been authorised to coordinate the
-Imperial operation, while rival organisation the Mu Koji Resistance is
+The [[id:3d6e93a3-bb3e-42f5-a548-1d09948e874b][Xuangu Crimson Major Network]] has been authorised to coordinate the
+Imperial operation, while rival organisation the [[id:b134728d-ea83-43c0-af4d-c212b8a0dd91][Mu Koji]] Resistance is
 directing the Federal campaign. Both factions have asked independent
 combat pilots for support, promising to reward those who come to their
 aid.
@@ -52,7 +52,7 @@ September 3302. If the final target is met earlier than planned the
 campaign will end immediately.
 
 To be eligible for rewards you must sign up as an active participant
-before delivering Technical Blueprints to Thuot Market in the Mu Koji
+before delivering [[id:3d9ead20-b449-4d82-9cef-8306f0f469a8][Technical Blueprints]] to Thuot Market in the [[id:b134728d-ea83-43c0-af4d-c212b8a0dd91][Mu Koji]]
 system.
 
 The project is scheduled to run for one week, but if the final target is

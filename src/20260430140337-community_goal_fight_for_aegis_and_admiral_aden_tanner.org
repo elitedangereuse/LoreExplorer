@@ -7,7 +7,7 @@
 
 * Location
 
-Musashi | T Tauri
+[[id:2730e920-30ee-435e-943b-d4124f257751][Musashi]] | T Tauri
 
 * Objective
 
@@ -33,12 +33,12 @@ Tier 2/6
 
 Finished
 
-The megaship Musashi is commanded by Aegis's chief military liaison
-Admiral Aden Tanner, who made this announcement:
+The megaship [[id:2730e920-30ee-435e-943b-d4124f257751][Musashi]] is commanded by Aegis's chief military liaison
+Admiral [[id:7bca1ccd-649e-438a-ae56-fb8ca34e6440][Aden Tanner]], who made this announcement:
 
-"The Hind Mine asteroid base contains proof that Salvation's
+"The [[id:bcbf3f57-4e93-44a9-b569-833af0c51f2d][Hind Mine]] asteroid base contains proof that Salvation's
 unlicensed anti-xeno weapon is intentionally designed to provoke the
-Thargoids, and therefore endangers us all. As Taurus Mining Ventures
+Thargoids, and therefore endangers us all. As [[id:5d339d87-3edb-4938-984a-49708bf6b65f][Taurus Mining Ventures]]
 refuses to cooperate, we have no choice but to obtain the evidence by
 force."
 
@@ -46,8 +46,8 @@ force."
 ambitions. I urge all independent pilots who have fought alongside Aegis
 to help us complete this vital mission."
 
-Admiral Aden Tanner has asked pilots to support his efforts by handing
-in Combat Bonds at the megaship Musashi in the T Tauri system.
+Admiral [[id:7bca1ccd-649e-438a-ae56-fb8ca34e6440][Aden Tanner]] has asked pilots to support his efforts by handing
+in [[id:bbbc7bc6-79d7-46b7-925e-c1f882c8f25a][Combat Bonds]] at the megaship [[id:2730e920-30ee-435e-943b-d4124f257751][Musashi]] in the T Tauri system.
 
 The two factions have set out seven-day campaigns, which will end when
 the top tier is reached or early on Thursday the 18th of November 3307.

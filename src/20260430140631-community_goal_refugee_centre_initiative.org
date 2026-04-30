@@ -7,11 +7,11 @@
 
 * Location
 
-Biruni Port | Niflhel
+Biruni Port | [[id:2ad15cb1-9249-4380-9d86-ae5134de7faa][Niflhel]]
 
 * Objective
 
-Deliver Cobalt, Semiconductors and Synthetic Fabrics
+Deliver [[id:3de49bff-8041-45b0-a713-d3646334efd9][Cobalt]], [[id:0def679f-6fc4-4107-bd99-51a36668a787][Semiconductors]] and [[id:f09a0ecd-fc51-40df-ac46-ec179b74ac4e][Synthetic Fabrics]]
 
 * Progress
 
@@ -41,20 +41,20 @@ A spokesperson for Senator Leopold gave the following statement to the
 media: An escalation in hostilities from both Thargoid and human parties
 has left a lot of innocent civilians without food or shelter. Senator
 Leopold has heard their cries for help, and is building a sanctuary
-where the safety of refugees can be guaranteed. The Niflhel Corp., which
-is overseeing the initiative, has placed an open order for Cobalt,
-Semiconductors and Synthetic Fabrics, promising to reward pilots who
-deliver these commodities to Biruni Port in the Niflhel system.
+where the safety of refugees can be guaranteed. The [[id:2ad15cb1-9249-4380-9d86-ae5134de7faa][Niflhel]] Corp., which
+is overseeing the initiative, has placed an open order for [[id:3de49bff-8041-45b0-a713-d3646334efd9][Cobalt]],
+[[id:0def679f-6fc4-4107-bd99-51a36668a787][Semiconductors]] and [[id:f09a0ecd-fc51-40df-ac46-ec179b74ac4e][Synthetic Fabrics]], promising to reward pilots who
+deliver these commodities to Biruni Port in the [[id:2ad15cb1-9249-4380-9d86-ae5134de7faa][Niflhel]] system.
 
 The campaign begins on the 14th of June 3304 and will run for one week.
 If the final target is met earlier than planned, the campaign will end
 immediately.
 
 To be eligible for rewards you must sign up as an active participant
-before delivering Cobalt, Semiconductors and Synthetic Fabrics to Biruni
-Port in the Niflhel system.
+before delivering [[id:3de49bff-8041-45b0-a713-d3646334efd9][Cobalt]], [[id:0def679f-6fc4-4107-bd99-51a36668a787][Semiconductors]] and [[id:f09a0ecd-fc51-40df-ac46-ec179b74ac4e][Synthetic Fabrics]] to Biruni
+Port in the [[id:2ad15cb1-9249-4380-9d86-ae5134de7faa][Niflhel]] system.
 
-Be aware that faction-state changes, Thargoid Sensor-related
+Be aware that faction-state changes, [[id:8ddf8e00-4541-4857-a609-5f6c5849dded][Thargoid Sensor]]-related
 interference and other disruptive events can negatively impact markets
 and station services, and could prevent the initiative from running
 smoothly.

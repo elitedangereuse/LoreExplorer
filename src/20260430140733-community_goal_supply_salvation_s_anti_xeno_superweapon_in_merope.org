@@ -7,11 +7,11 @@
 
 * Location
 
-Glorious Prospect | Merope
+[[id:4e26dabc-d7bd-4e6b-9619-7afb122f4ce8][Glorious Prospect]] | [[id:70fa34ea-bc98-40ff-97f0-e4f4538387a6][Merope]]
 
 * Objective
 
-Deliver Classified Experimental Equipment
+Deliver [[id:794c8962-b58d-40d2-be55-c7d3c98e0f30][Classified Experimental Equipment]]
 
 * Progress
 
@@ -34,19 +34,19 @@ Tier 1/1
 Finished
 
 Salvation requires vital materials to deploy an anti-xeno superweapon in
-the Merope system.
+the [[id:70fa34ea-bc98-40ff-97f0-e4f4538387a6][Merope]] system.
 
-A message was transmitted from the Musashi megaship by its new
-commanding officer, Commodore Morag Halloran:
+A message was transmitted from the [[id:2730e920-30ee-435e-943b-d4124f257751][Musashi]] megaship by its new
+commanding officer, Commodore [[id:bcaa9222-b056-41cf-9361-68dd8d3424fb][Morag Halloran]]:
 
 "The Thargoids have invaded three key systems, as Salvation
-anticipated. Preparations have been made to halt their advance in Maia,
-Merope and Delphi, but there is an urgent requirement to collect
-classified experimental equipment from the Heart of Taurus in the
+anticipated. Preparations have been made to halt their advance in [[id:0ee60994-364c-41b9-98ca-993d041cea72][Maia]],
+[[id:70fa34ea-bc98-40ff-97f0-e4f4538387a6][Merope]] and [[id:846bfbc7-75e7-4d8d-8716-7fe0346026f4][Delphi]], but there is an urgent requirement to collect
+classified experimental equipment from the [[id:f10f7c83-9d29-470c-a640-1a3e5334b686][Heart of Taurus]] in the
 Qaratos system."
 
 "Pilots must then deliver these shipments to the megaship Glorious
-Prospect in the Merope system in preparation of the superweapon's
+Prospect in the [[id:70fa34ea-bc98-40ff-97f0-e4f4538387a6][Merope]] system in preparation of the superweapon's
 activation."
 
 "It is crucial that all deliveries are made by early on Tuesday the
@@ -58,7 +58,7 @@ As a reward for this support, the top 75% of contributors will receive
 two pre-engineered, fixed mount Class 1 Shard Cannons with reduced
 spread and increased range, penetration and shot speed, but increased
 mass, power consumption and active heat generation. These will be placed
-in storage at the Glorious Prospect by the 18th of December 3307.
+in storage at the [[id:4e26dabc-d7bd-4e6b-9619-7afb122f4ce8][Glorious Prospect]] by the 18th of December 3307.
 
 The initiative begins on the 9th of December 3307 and will run until the
 14th of December.

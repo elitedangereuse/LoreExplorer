@@ -11,7 +11,7 @@ Fallows Orbital | Ch'i Lin
 
 * Objective
 
-Sell Narcotics to Fallows Orbital
+Sell [[id:7384c6bc-9ad7-48ae-9d8b-f5f03db51c20][Narcotics]] to Fallows Orbital
 
 * Progress
 
@@ -34,7 +34,7 @@ Tier 0/1
 Finished
 
 The organisation known as Emperor's Dawn has issued an open contract
-for Narcotics, which are to be delivered to the Ch'i Lin system.
+for [[id:7384c6bc-9ad7-48ae-9d8b-f5f03db51c20][Narcotics]], which are to be delivered to the Ch'i Lin system.
 Emperor's Dawn has not revealed the reason for the request, but it has
 set aside considerable resources for the compensation of cooperative
 pilots.

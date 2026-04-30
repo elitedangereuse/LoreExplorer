@@ -11,7 +11,7 @@ Crippen Port | Haithis
 
 * Objective
 
-Deliver Polymers, H.E. Suits and Robotics
+Deliver [[id:87f58744-f7fe-46da-b824-fb089a150705][Polymers]], [[id:bf3fa7f1-f443-4ac5-94ec-8c85f83055d5][H.E. Suits]] and [[id:04da3c2d-0705-481d-b17c-8b4235a3aa7a][Robotics]]
 
 * Progress
 
@@ -33,44 +33,44 @@ Tier 3/5
 
 Finished
 
-Neomedical Industries has requested deliveries to produce onionhead
-gamma strain for Alliance and independent systems.
+[[id:d8c4bbec-5bea-43d7-bad6-0ec97600cac3][Neomedical Industries]] has requested deliveries to produce onionhead
+gamma strain for [[id:2506edb2-fef4-4723-85c6-02482635229d][Alliance]] and independent systems.
 
 The new variant of the popular psychedelic drug is currently sold in a
-handful of independent systems by the Kumo Crew syndicate. The IHO has
+handful of independent systems by the [[id:1dfc7c53-642a-4404-a8e8-16a8cc18482a][Kumo Crew]] syndicate. The IHO has
 confirmed that the product does have many medical applications.
 
-Olwyn Kendrick, CEO of Neomedical Industries, outlined the initiative:
+[[id:5e42db2b-b180-4e0a-af3a-dd5dcd45cf28][Olwyn Kendrick]], CEO of [[id:d8c4bbec-5bea-43d7-bad6-0ec97600cac3][Neomedical Industries]], outlined the initiative:
 
 "Our goal is to gather sufficient resources for the manufacture of
 onionhead gamma strain as a medicinal treatment. Target markets will
-include both independent and Alliance systems, should enough commodities
+include both independent and [[id:2506edb2-fef4-4723-85c6-02482635229d][Alliance]] systems, should enough commodities
 be delivered."
 
 "We request that that pilots transport H.E suits, polymers and robotics
 to Crippen Port in the Haithis system. Reimbursements will be arranged
 by our corporate partner, Haithis Purple Dynamic Group."
 
-Should Tier 1 be reached, Neomedical Industries will have enough
+Should Tier 1 be reached, [[id:d8c4bbec-5bea-43d7-bad6-0ec97600cac3][Neomedical Industries]] will have enough
 resources to make this medically certified onionhead gamma strain
 available at approximately 10% of independent industrial economies.
 At Tier 2, it will extend to 15% of independent industrial economies.
-At Tier 3, it will include 15% of industrial economies in Alliance
+At Tier 3, it will include 15% of industrial economies in [[id:2506edb2-fef4-4723-85c6-02482635229d][Alliance]]
 systems.
-At Tier 4, it will extend to 20% for both Alliance and independent
+At Tier 4, it will extend to 20% for both [[id:2506edb2-fef4-4723-85c6-02482635229d][Alliance]] and independent
 industrial economies.
-At Tier 5, it will extend to 25% for both Alliance and independent
+At Tier 5, it will extend to 25% for both [[id:2506edb2-fef4-4723-85c6-02482635229d][Alliance]] and independent
 industrial economies.
 
-Should everything go smoothly, Neomedical Industries expects to bring
+Should everything go smoothly, [[id:d8c4bbec-5bea-43d7-bad6-0ec97600cac3][Neomedical Industries]] expects to bring
 the onionhead gamma strain to market on the 17th of September 3307.
 
 As well as credits, the following rewards are on offer:
 
-The top 75% of contributors will receive the Onionhead 1 decal.
-The top 50% of contributors will also receive the Onionhead 2 decal.
-The top 25% of contributors will also receive the Onionhead 3 decal.
-The top 10% of contributors will also receive the Cobra Mk III Onionhead
+The top 75% of contributors will receive the [[id:b160f4b1-1751-41c2-b0bd-e7c6e8dc2f2d][Onionhead]] 1 decal.
+The top 50% of contributors will also receive the [[id:b160f4b1-1751-41c2-b0bd-e7c6e8dc2f2d][Onionhead]] 2 decal.
+The top 25% of contributors will also receive the [[id:b160f4b1-1751-41c2-b0bd-e7c6e8dc2f2d][Onionhead]] 3 decal.
+The top 10% of contributors will also receive the [[id:83299a14-b6b0-4670-ba39-2914e05ed2f5][Cobra Mk III]] [[id:b160f4b1-1751-41c2-b0bd-e7c6e8dc2f2d][Onionhead]]
 skin.
 
 The campaign begins on the 2nd of September 3307 and will run for one

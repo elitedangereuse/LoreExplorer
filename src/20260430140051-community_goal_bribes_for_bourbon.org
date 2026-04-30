@@ -7,11 +7,11 @@
 
 * Location
 
-Mansfield Orbiter | Epsilon Indi
+[[id:70fecaa7-bd23-4579-b206-7e3e65737044][Mansfield Orbiter]] | [[id:d40886f3-bc59-4f0d-8926-b125ee01c9bb][Epsilon Indi]]
 
 * Objective
 
-Smuggle illegal rare liquor into Mansfield Orbiter in Epsilon Indi
+Smuggle illegal rare liquor into [[id:70fecaa7-bd23-4579-b206-7e3e65737044][Mansfield Orbiter]] in [[id:d40886f3-bc59-4f0d-8926-b125ee01c9bb][Epsilon Indi]]
 
 * Progress
 
@@ -33,35 +33,35 @@ Tier 7/8
 
 Finished
 
-Smuggle illegal rare liquor into Mansfield Orbiter in Epsilon Indi to
-bribe officials in the fight to make Indi Bourbon a legal commodity.
+Smuggle illegal rare liquor into [[id:70fecaa7-bd23-4579-b206-7e3e65737044][Mansfield Orbiter]] in [[id:d40886f3-bc59-4f0d-8926-b125ee01c9bb][Epsilon Indi]] to
+bribe officials in the fight to make [[id:ffcc8c23-1721-41cb-9cb7-c849292c8b38][Indi Bourbon]] a legal commodity.
 
-Rumours from the Epsilon Indi system suggest that the United Epsilon
+Rumours from the [[id:d40886f3-bc59-4f0d-8926-b125ee01c9bb][Epsilon Indi]] system suggest that the United Epsilon
 Indi Flag is recruiting independent Commanders for a campaign called
 'Bribes 4 Bourbon'. In a series of illicit meetings with system
 officials, the organisation reportedly secured an agreement to revise
-the status of Indi Bourbon and make it a legal beverage.
+the status of [[id:ffcc8c23-1721-41cb-9cb7-c849292c8b38][Indi Bourbon]] and make it a legal beverage.
 
 Yulia 'The Needle' Kuriakova, a spokeswoman for the organisation,
 said:
 
-"For almost a year, authorities in Epsilon Indi have prohibited the
-production of Indi Bourbon, which is classified as an illegal substance.
-Our plan is to bring vast quantities of illegal liquor Mansfield Orbiter
+"For almost a year, authorities in [[id:d40886f3-bc59-4f0d-8926-b125ee01c9bb][Epsilon Indi]] have prohibited the
+production of [[id:ffcc8c23-1721-41cb-9cb7-c849292c8b38][Indi Bourbon]], which is classified as an illegal substance.
+Our plan is to bring vast quantities of illegal liquor [[id:70fecaa7-bd23-4579-b206-7e3e65737044][Mansfield Orbiter]]
 to pay off the officials."
 
-The United Epsilon Indi Flag has requested that Burnham Bile Distillate,
-Eranin Pearl Whisky, Leestian Evil Juice, and Wuthielo Ku Froth be
-smuggled into Mansfield Orbiter. A temporary black market has been
+The United [[id:d40886f3-bc59-4f0d-8926-b125ee01c9bb][Epsilon Indi]] Flag has requested that [[id:221834bd-28f1-4d70-af5b-3d8558884da0][Burnham Bile Distillate]],
+[[id:4b31a774-1f16-4b74-964f-df0460e058af][Eranin Pearl Whisky]], [[id:41fa0a3d-4f14-44c1-b314-78882dcc37b3][Leestian Evil Juice]], and [[id:eddbd97b-5374-4220-b6c0-26731c953c00][Wuthielo Ku Froth]] be
+smuggled into [[id:70fecaa7-bd23-4579-b206-7e3e65737044][Mansfield Orbiter]]. A temporary black market has been
 established to accept these commodities.
 
 -----
-Note: Eranin Pearl Whisky, Leestian Evil Juice, and Wuthielo Ku Froth
-are being smuggled into Mansfield Orbiter black market for this goal
+Note: [[id:4b31a774-1f16-4b74-964f-df0460e058af][Eranin Pearl Whisky]], [[id:41fa0a3d-4f14-44c1-b314-78882dcc37b3][Leestian Evil Juice]], and [[id:eddbd97b-5374-4220-b6c0-26731c953c00][Wuthielo Ku Froth]]
+are being smuggled into [[id:70fecaa7-bd23-4579-b206-7e3e65737044][Mansfield Orbiter]] black market for this goal
 
-Leestian Evil Juice - Leesti / George Lucas 109LY - Station 245LS 14t
-Wuthielo Ku Froth - Wuthielo Ku / Tarter Dock 193LY - Station 175LS 17t
-Eranin Pearl Whisky - Eranin / Azeban City 53LY - Station 253LS 12t
+[[id:41fa0a3d-4f14-44c1-b314-78882dcc37b3][Leestian Evil Juice]] - [[id:e7c94b38-cdfb-48da-a1c4-cdad10c3371a][Leesti]] / [[id:2e9a782a-b3d8-449f-83d4-f239d5e19a12][George Lucas]] 109LY - Station 245LS 14t
+[[id:eddbd97b-5374-4220-b6c0-26731c953c00][Wuthielo Ku Froth]] - [[id:38b0f5eb-a2c2-40a8-9aa5-f324a9ec54ed][Wuthielo Ku]] / [[id:dedb246b-3806-4ddd-9409-7901c50bbdbd][Tarter Dock]] 193LY - Station 175LS 17t
+[[id:4b31a774-1f16-4b74-964f-df0460e058af][Eranin Pearl Whisky]] - [[id:f38c2905-34c5-45c1-a2f5-2ec352b6630f][Eranin]] / [[id:363515bb-42b1-47fe-88c0-902464428f71][Azeban City]] 53LY - Station 253LS 12t
 
 About 400k credit profit from all three combined in round trip
 -----

@@ -11,7 +11,7 @@ Hand Ring | Ho Hsi
 
 * Objective
 
-Hand in Combat Bonds after fighting for Ho Hsi Jet Comms Limited in
+Hand in [[id:bbbc7bc6-79d7-46b7-925e-c1f882c8f25a][Combat Bonds]] after fighting for Ho Hsi Jet Comms Limited in
 Conflict Zones
 
 * Progress
@@ -52,7 +52,7 @@ The Ho Hsi Jet Comms Limted has set out a week-long operation to take
 control of the system which will begin on the 14th of September 3303.
 
 To be eligible for rewards you must sign up as an active participant
-before handing in Combat Bonds at Hand Ring in the Ho Hsi system.
+before handing in [[id:bbbc7bc6-79d7-46b7-925e-c1f882c8f25a][Combat Bonds]] at Hand Ring in the Ho Hsi system.
 
 Please note that if you have any crew members, a portion of your combat
 bonds will be automatically assigned to them. These combat bonds will
@@ -70,7 +70,7 @@ prevent the initiative from running smoothly.
 -   Station services: Commodities Market, Shipyard, Outfitting, Restock,
 
 Repair, Refuel
-- Powerplay: Yuri Grom Control system
+- [[id:4ed9ac75-9ddc-4533-bc21-00a775fbc0ee][Powerplay]]: [[id:b4892958-b513-46dc-b74e-26887b53f678][Yuri Grom]] [[id:980d793d-2073-4e0b-8eb9-65c8dbd33202][Control]] system
 - Available CZs in system:
 
 Will be added as reported in the thread

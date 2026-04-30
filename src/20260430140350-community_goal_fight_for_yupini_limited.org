@@ -7,11 +7,11 @@
 
 * Location
 
-Dyson City | Paresa
+[[id:f45acd08-6a6f-46c8-94b2-3a0453211248][Dyson City]] | [[id:9147b1a8-a73f-4144-b614-8e876943c10e][Paresa]]
 
 * Objective
 
-Hand in Combat Bonds after fighting in Conflict Zones for Yupini Limited
+Hand in [[id:bbbc7bc6-79d7-46b7-925e-c1f882c8f25a][Combat Bonds]] after fighting in Conflict Zones for Yupini Limited
 
 * Progress
 
@@ -33,10 +33,10 @@ Tier 5/8
 
 Finished
 
-The Empire has entered a state of conflict with the isolationist group
-Nova Imperium in the Paresa system.
+[[id:1047d7bb-a08d-430d-a445-4ec9a1b2daa3][The Empire]] has entered a state of conflict with the isolationist group
+[[id:64e89e89-f7fe-4f90-bc29-1cd90497e1f1][Nova Imperium]] in the [[id:9147b1a8-a73f-4144-b614-8e876943c10e][Paresa]] system.
 
-Senator Denton Patreus announced:
+Senator [[id:75daea85-5e9f-4f6f-a102-1a5edea0283c][Denton Patreus]] announced:
 The loyal Imperials of Yupini Limited have engaged the isolationists'
 illegal armada. We call upon Imperial auxiliaries to support our allies
-and destroy the Nova Imperium fleet.
+and destroy the [[id:64e89e89-f7fe-4f90-bc29-1cd90497e1f1][Nova Imperium]] fleet.

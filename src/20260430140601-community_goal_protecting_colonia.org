@@ -7,11 +7,11 @@
 
 * Location
 
-Dove Enigma | Colonia
+Dove Enigma | [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]]
 
 * Objective
 
-Deliver Praseodymium, Coltan, and Lithium Hydroxide
+Deliver [[id:d5d904e1-f1a7-4c46-afe8-728f625d11bf][Praseodymium]], [[id:047e63e2-7b61-424c-a330-e712609eaba5][Coltan]], and [[id:ccce00cc-b229-4223-9b94-2f8f1e33f925][Lithium Hydroxide]]
 
 * Progress
 
@@ -33,17 +33,17 @@ Tier 4/8
 
 Finished
 
-As the Thargoid offensive continues, authorities in Colonia have decided
+As the Thargoid offensive continues, authorities in [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] have decided
 to step up security by building a new security installation in the
 region.
 
-A spokesperson for the Colonia Council, which is overseeing the
+A spokesperson for the [[id:6b6559fd-c7fa-44c9-b540-b94ddcadbd50][Colonia Council]], which is overseeing the
 initiative, gave the following statement:
 The Thargoids have now entered the core systems, and their hostility
-shows no signs of abating. Meanwhile, Colonia's defensive capabilities
+shows no signs of abating. Meanwhile, [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]]'s defensive capabilities
 remain limited. It is clear to us that the time to act has come.
 
-Colonia Council has agreed to fund the operation , and has placed an
+[[id:6b6559fd-c7fa-44c9-b540-b94ddcadbd50][Colonia Council]] has agreed to fund the operation , and has placed an
 open order for various mined resources for use in the construction.
-Pilots who deliver the requested resources to Dove Enigma in the Colonia
+Pilots who deliver the requested resources to Dove Enigma in the [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]]
 system will be generously compensated.

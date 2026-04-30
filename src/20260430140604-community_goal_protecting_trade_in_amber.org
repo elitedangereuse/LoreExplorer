@@ -11,7 +11,7 @@ Smith Landing | Amber
 
 * Objective
 
-Hand in Bounty Vouchers
+Hand in [[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]]
 
 * Progress
 
@@ -34,7 +34,7 @@ Tier 6/8
 Finished
 
 To earn rewards you must sign up as an active partecipant before handing
-in Bounty Vouchers at Smith Landing in the Amber system. Only bounty
+in [[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]] at Smith Landing in the Amber system. Only bounty
 vouchers handed in after signing up will count toward your personal
 contribution total.
 
@@ -45,7 +45,7 @@ will receive the reward for their vouchers when they are handed in. The
 proportion of bounty vouchers assigned to your crew will depend on their
 rank.
 
-Be aware that faction-state changes, Thargoid Sensor-related
+Be aware that faction-state changes, [[id:8ddf8e00-4541-4857-a609-5f6c5849dded][Thargoid Sensor]]-related
 interference and other disruptive events can negatively impact markets
 and station services, and could prevent the initiative from running
 smoothly.
@@ -54,10 +54,10 @@ smoothly.
 - Station services: Commodities Market, Black Market, Shipyard,
 Outfitting, Repair, Restock, Refuel
 - Nearest Interstellar Factor:
-Lee Relay in Phekda (12.03 Ly, 5783 Ls)
+Lee Relay in [[id:686a1ef0-80ad-48c0-b2b5-f2da43b333f1][Phekda]] (12.03 Ly, 5783 Ls)
 - Available RES in system:
 will be added as reported in the thread
 - Bounties that count towards the goal:
-All Alliance bounties (superpower and aligned local factions)
+All [[id:2506edb2-fef4-4723-85c6-02482635229d][Alliance]] bounties (superpower and aligned local factions)
 - Bounties that don't count towards the goal:
-Federation, Empire, non-Alliance aligned local factions
+[[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]], [[id:541dcfb3-93ef-40e5-9284-bf5a4f999043][Empire]], non-[[id:2506edb2-fef4-4723-85c6-02482635229d][Alliance]] aligned local factions

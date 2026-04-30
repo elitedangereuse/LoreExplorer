@@ -11,7 +11,7 @@ Birkeland Dock | Daramo
 
 * Objective
 
-Earn rewards by handing in Combat Bonds at Birkeland Dock in the Daramo
+Earn rewards by handing in [[id:bbbc7bc6-79d7-46b7-925e-c1f882c8f25a][Combat Bonds]] at Birkeland Dock in the Daramo
 system.
 
 * Progress
@@ -42,26 +42,26 @@ as per post on Frontier Forums....
 
 The Daramo system is currently under Federal control, but recent reports
 indicate that both Imperial and independent forces -- the latter under
-the rule of Pirate King Archon Delaine -- are attempting to wrest power
-from the Federation.
-The Federation is evidently not about to capitulate. In a statement,
-Admiral Yorke of the Federal Navy said:
+the rule of [[id:6c5d5774-5308-4b6f-a575-5ce96cf440db][Pirate]] King [[id:7aae0550-b8ba-42cf-b52b-e7040461c96f][Archon Delaine]] -- are attempting to wrest power
+from the [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]].
+The [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]] is evidently not about to capitulate. In a statement,
+Admiral Yorke of the [[id:3d268496-1d95-49bc-aca6-49d16a4337c8][Federal Navy]] said:
 
 "The Daramo system is of considerable strategic value to the
-Federation, and we will not surrender it without a fight. We have issued
-an emergency call to all Federation-aligned pilots -- you are needed in
+[[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]], and we will not surrender it without a fight. We have issued
+an emergency call to all [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]]-aligned pilots -- you are needed in
 Daramo!"
 
-The Empire, predictably, has responded in kind. Captain Danvers of the
-Imperial Navy said:
+[[id:1047d7bb-a08d-430d-a445-4ec9a1b2daa3][The Empire]], predictably, has responded in kind. Captain Danvers of the
+[[id:e9becd28-9644-42aa-afc8-7bba3ce10076][Imperial Navy]] said:
 
 "In the interest of the wellbeing of the citizens of Daramo, it is
 imperative that Imperial law be instated as soon as possible. If the
-Federation is allowed to retain control of the system, the people of
+[[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]] is allowed to retain control of the system, the people of
 Daramo will be sure to suffer."
 
 The Independents of Daramo have stepped in to coordinate operations on
-behalf of the Federation, while the Vaka Citizens of Tradition have been
+behalf of the [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]], while the Vaka [[id:b3659f96-e6dd-4c6e-b860-f3be6b6bcef1][Citizens of Tradition]] have been
 authorised to oversee the Imperial campaign. Both factions have set out
 week-long operations to take control of the system, which will begin on
 the 23rd of June 3302.

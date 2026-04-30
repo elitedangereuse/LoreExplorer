@@ -7,11 +7,11 @@
 
 * Location
 
-Jaques Station | Colonia
+[[id:935880a2-d4fb-4d27-ad48-0f95112ee0fe][Jaques Station]] | [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]]
 
 * Objective
 
-Deliver Galactic Travel Guides from Bluford Orbital in LHS 3447
+Deliver Galactic Travel Guides from [[id:64e5b644-cc28-4586-a4a4-32dc226447bd][Bluford Orbital]] in [[id:951f5c68-2395-4eb9-af43-b26172d0fe64][LHS 3447]]
 
 * Progress
 
@@ -33,9 +33,9 @@ Tier 0/1
 
 Finished
 
-The Colonia Council has launched a fourth migration appeal to give the
+The [[id:6b6559fd-c7fa-44c9-b540-b94ddcadbd50][Colonia Council]] has launched a fourth migration appeal to give the
 galaxy's minor factions an opportunity to establish a permanent
-presence in the Colonia Nebula.
+presence in the [[id:1d45a325-abf9-44b6-90d9-d91beebbdec1][Colonia Nebula]].
 
 This month, the Council has targeted the following systems for
 colonisation:
@@ -45,16 +45,16 @@ colonisation:
 •EOL PROU DK-U B18-4
 •EOL PROU VX-X B16-1
 
-To compete for a migration visa, pilots must sign up with Colonia
+To compete for a migration visa, pilots must sign up with [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]]
 Migration Services before delivering quantities of Galactic Travel
-Guides to Jaques Station in the Colonia system.
+Guides to [[id:935880a2-d4fb-4d27-ad48-0f95112ee0fe][Jaques Station]] in the [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] system.
 
 At the end of the appeal, the five factions that have made the largest
 contribution will earn the right to settle in one of the specified
 systems. A new planetary outpost will be constructed in the system for
 the organisation's sole use.
 
-Be aware that organisations settling in the Colonia Nebula will be
+Be aware that organisations settling in the [[id:1d45a325-abf9-44b6-90d9-d91beebbdec1][Colonia Nebula]] will be
 considered independent entities, separate from their parent faction.
 
 This month's campaign begins on the 9th of March 3303 and will run for
@@ -62,8 +62,8 @@ four weeks. If the final target is met earlier than planned, the
 campaign will end immediately.
 
 To participate in the appeal you must sign up as an active participant
-before delivering Galactic Travel Guides to Jaques Station in the
-Colonia system.
+before delivering Galactic Travel Guides to [[id:935880a2-d4fb-4d27-ad48-0f95112ee0fe][Jaques Station]] in the
+[[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] system.
 
 Be aware that faction-state changes, UA bombing and other disruptive
 events can negatively impact markets and station services, and could
@@ -73,13 +73,13 @@ prevent the initiative from running smoothly.
 
 -   For more information see:
 
-[https://forums.frontier.co.uk/showthread.php/311509-Colonia-Expansion-Initiative-Sign-up\\\\](https://forums.frontier.co.uk/showthread.php/311509-Colonia-Expansion-Initiative-Sign-up\\)
+[https://forums.frontier.co.uk/showthread.php/311509-[[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]]-Expansion-Initiative-Sign-up\\\\](https://forums.frontier.co.uk/showthread.php/311509-[[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]]-Expansion-Initiative-Sign-up\\)
 
 -   To sign up please use the following link:
 
 [https://www.elitedangerous.com/en/colonia-expansion-initiative/\\\\](https://www.elitedangerous.com/en/colonia-expansion-initiative/\\)
 
--   Galactic Travels Guides can be found at Bluford Orbital in the LHS
+-   Galactic Travels Guides can be found at [[id:64e5b644-cc28-4586-a4a4-32dc226447bd][Bluford Orbital]] in the LHS
 
 3447 system
 - Guides are a rare commodity - current max allocation is 10T

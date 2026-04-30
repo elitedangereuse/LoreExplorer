@@ -7,11 +7,11 @@
 
 * Location
 
-Obsidian Orbital | Maia
+[[id:4223b99a-7e0c-44fa-b7e9-afeca7e0c031][Obsidian Orbital]] | [[id:0ee60994-364c-41b9-98ca-993d041cea72][Maia]]
 
 * Objective
 
-Deliver Silver, Micro-Weave Cooling Hoses and Emergency Power Cells
+Deliver Silver, Micro-Weave Cooling Hoses and [[id:a081e7d6-7384-47d3-87d4-0c2324c9f3d0][Emergency Power Cells]]
 
 * Progress
 
@@ -33,12 +33,12 @@ Tier 5/8
 
 Finished
 
-The Empire has announced plans to bolster its Navy with a new Well-class
-Carrier as part of its ongoing operations in the Pleiades star cluster.
+[[id:1047d7bb-a08d-430d-a445-4ec9a1b2daa3][The Empire]] has announced plans to bolster its Navy with a new Well-class
+Carrier as part of its ongoing operations in the [[id:cd15e78b-89d1-4051-bd92-05d0ab49ec17][Pleiades]] star cluster.
 
 The superpower has placed an open order for Silver, Micro-weave Cooling
-Hoses and Emergency Power Cells, promising to reward those who support
-the campaign. The Merope Expeditionary Fleet has been authorised to
+Hoses and [[id:a081e7d6-7384-47d3-87d4-0c2324c9f3d0][Emergency Power Cells]], promising to reward those who support
+the campaign. The [[id:e8740636-76cb-40ad-816e-ec17e1323aa0][Merope Expeditionary Fleet]] has been authorised to
 coordinate the initiative.
 
 The campaign begins on the 15th of June 3303 and will run for one week.
@@ -47,7 +47,7 @@ immediately
 
 To be eligible for rewards you must sign up as an active participant
 before delivering Silver, Micro-Weave Cooling Hoses and Emergency Power
-Cells to Obsidian Orbital in the Maia system.
+Cells to [[id:4223b99a-7e0c-44fa-b7e9-afeca7e0c031][Obsidian Orbital]] in the [[id:0ee60994-364c-41b9-98ca-993d041cea72][Maia]] system.
 
 Be aware that faction-state changes, UA bombing and other disruptive
 events can negatively impact markets and station services, and could

@@ -7,12 +7,12 @@
 
 * Location
 
-Neville Horizons | Kaushpoos
+Neville Horizons | [[id:3ceec3b8-48ce-40e3-8b24-ba6fe065d56c][Kaushpoos]]
 
 * Objective
 
-Help construct a new station in the Pleiades Nebula and earn rewards by
-selling metals to Neville Horizons in the Kaushpoos system.
+Help construct a new station in the [[id:7e99a467-6e3d-418e-8b10-72cf3660efa6][Pleiades Nebula]] and earn rewards by
+selling metals to Neville Horizons in the [[id:3ceec3b8-48ce-40e3-8b24-ba6fe065d56c][Kaushpoos]] system.
 
 * Progress
 
@@ -35,17 +35,17 @@ Tier 8/8
 Finished
 
 A development group founded by the Explorer's Association has announced
-plans to build a new Ocellus starport in the Pleiades Nebula. The first
+plans to build a new [[id:5700c476-8bf4-4710-90d9-1e5988bf6048][Ocellus]] starport in the [[id:7e99a467-6e3d-418e-8b10-72cf3660efa6][Pleiades Nebula]]. The first
 phase of the project involves collecting the necessary materials to
 create the starport superstructure, and to this end the organisers are
 offering generous premiums to pilots who deliver metals to Neville
-Horizons in the Kaushpoos system.
+Horizons in the [[id:3ceec3b8-48ce-40e3-8b24-ba6fe065d56c][Kaushpoos]] system.
 
 A spokesperson for the Explorer's Association had the following
 statement to make: "We at the Explorer's Association, in conjunction
-with Brewer Corp. and Universal Cartographics, are proud to be entering
+with Brewer Corp. and [[id:2fb00d7f-7234-45fa-8e3c-af685aa8f0d8][Universal Cartographics]], are proud to be entering
 into this ambitious project that when fully constructed will give
-explorers a home in the Pleiades Nebula, one of the more colourful areas
+explorers a home in the [[id:7e99a467-6e3d-418e-8b10-72cf3660efa6][Pleiades Nebula]], one of the more colourful areas
 of space."
 
 To sign up as an official contractor and together we will make it so.

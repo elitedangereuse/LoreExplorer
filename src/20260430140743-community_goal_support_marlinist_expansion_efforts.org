@@ -11,7 +11,7 @@ Stillman Hub | Concordia
 
 * Objective
 
-Deliver Titanium, Aluminium, Power Generators and Computer Components
+Deliver [[id:d727fb19-8dc0-4d94-bcd4-da1cb5c090f0][Titanium]], [[id:94b9dcf4-6a45-48d6-96b9-a343eeeb4ec1][Aluminium]], [[id:34acf2f1-676d-4e52-86f4-80dc606e435c][Power Generators]] and [[id:66b0f0aa-4387-46f9-9abe-a3dbe1033c6f][Computer Components]]
 
 * Progress
 
@@ -34,14 +34,14 @@ Tier 2/6
 Finished
 
 A delivery campaign in the HIP 22550 system will help build additional
-starports for the Marlinist Colonies.
+starports for the [[id:46536da8-abd4-461f-9bf9-b749d4fc25e1][Marlinist]] Colonies.
 
-First Minister Octavia Volkov delivered this public address:
+First Minister [[id:e40d1cb7-d2aa-4449-95e8-eca5fc807bbb][Octavia Volkov]] delivered this public address:
 
-"The Marlinist Colonies were born out of desperation, but we have
+"The [[id:46536da8-abd4-461f-9bf9-b749d4fc25e1][Marlinist]] Colonies were born out of desperation, but we have
 evolved into a fully fledged society. Emperor Arissa has formally
 accepted our status as an autonomous democracy, albeit one that retains
-cultural and historical ties with the Empire."
+cultural and historical ties with the [[id:541dcfb3-93ef-40e5-9284-bf5a4f999043][Empire]]."
 
 "To celebrate and consolidate our independence, we have launched an
 initiative to construct up to six new orbital stations. For all those
@@ -54,24 +54,24 @@ rewards to pilots who deliver the necessary materials to Stillman Hub in
 the HIP 22550 system.
 
 For each tier that is reached, one new starport will be constructed
-within a Marlinist Colony system, up to a maximum of six starports.
+within a [[id:46536da8-abd4-461f-9bf9-b749d4fc25e1][Marlinist]] Colony system, up to a maximum of six starports.
 
 Additionally, contributors have the chance to earn two unique paintjobs,
 as follows:
 
 Top 100%:
 
-Krait Phantom Spring Tranquil
+[[id:2ac8fefa-cef4-4def-b737-cd784dd1a9c5][Krait Phantom]] Spring Tranquil
 Diamondback Explorer Spring Tranquil
 Type-9 Spring Tranquil
-Anaconda Spring Tranquil
+[[id:79778442-b881-46ca-8783-f6d9bc4b8233][Anaconda]] Spring Tranquil
 
 Top 50%
 
-Krait Phantom Spring Lush
+[[id:2ac8fefa-cef4-4def-b737-cd784dd1a9c5][Krait Phantom]] Spring Lush
 Diamondback Explorer Spring Lush
 Type-9 Spring Lush
-Anaconda Spring Lush
+[[id:79778442-b881-46ca-8783-f6d9bc4b8233][Anaconda]] Spring Lush
 
 The campaign will end on the 21st of April 3308. If the final target is
 met earlier than planned, the campaign will end immediately.

@@ -7,11 +7,11 @@
 
 * Location
 
-Kumiho Sky | Di Jian
+Kumiho Sky | [[id:25537b36-1d83-4354-afeb-482bf891d85d][Di Jian]]
 
 * Objective
 
-Deliver Computer Components, Synthetic Reagents and Reinforced Mounting
+Deliver [[id:66b0f0aa-4387-46f9-9abe-a3dbe1033c6f][Computer Components]], [[id:1f762d71-c751-461c-a308-f2e33862e748][Synthetic Reagents]] and Reinforced Mounting
 Plate
 
 * Progress
@@ -34,33 +34,33 @@ Tier 3/5
 
 Finished
 
-The Di Jian system is hosting competing campaigns as the Alliance
+The [[id:25537b36-1d83-4354-afeb-482bf891d85d][Di Jian]] system is hosting competing campaigns as the [[id:2506edb2-fef4-4723-85c6-02482635229d][Alliance]]
 Assembly votes on the strategic defence pact.
 
-The Assembly is evenly split over formalising military ties with Sirius
+The Assembly is evenly split over formalising military ties with [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]]
 Corporation to enhance defensive options against the Thargoids, with a
 decision expected at the end of June. In advance of the vote, both
-pro-pact and anti-Sirius councillors are attempting to sway colleagues
-to their cause by securing a sizeable resource package for the Alliance
+pro-pact and anti-[[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] councillors are attempting to sway colleagues
+to their cause by securing a sizeable resource package for the [[id:2506edb2-fef4-4723-85c6-02482635229d][Alliance]]
 Defence Force.
 
-Pro-pact councillors have established their initiative in Di Jian from
-the Sirius megaship Kumiho Sky, and are asking for shipments of computer
+Pro-pact councillors have established their initiative in [[id:25537b36-1d83-4354-afeb-482bf891d85d][Di Jian]] from
+the [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] megaship Kumiho Sky, and are asking for shipments of computer
 components, reinforced mounting plates and synthetic reagents. These
 councillors have heavily promoted the need for enhanced fleet support in
-the face of increasing Thargoid activity. Noted engineer Marco Qwent
+the face of increasing Thargoid activity. Noted engineer [[id:d18667b7-1da8-48ca-bb84-e280ebf77a35][Marco Qwent]]
 recently confirmed his support for an Allied anti-xeno pact with
-Sirius.
+[[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]].
 
-To encourage support from pilots, Sirius Corporation is offering extra
+To encourage support from pilots, [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]] is offering extra
 incentives. The majority of contributors to the Kumiho Sky campaign will
 receive a double-engineered AX fixed missile launcher, enhanced with
 both High Capacity and Rapid Fire modifications, among other rewards.
 
 Top 75%: 2B Double Engineered AX Fixed Missile Launcher
-Sirius Permit
+[[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] Permit
 Top 50%: Additional 2B Double Engineered AX Fixed Missile Launcher
-Access to Marco Qwent's Workshop
+Access to [[id:d18667b7-1da8-48ca-bb84-e280ebf77a35][Marco Qwent]]'s Workshop
 Top 25%: 3A Double Engineered AX Fixed Missile Launcher
 Top 10%: Additional 3A Double Engineered AX Fixed Missile Launcher
 

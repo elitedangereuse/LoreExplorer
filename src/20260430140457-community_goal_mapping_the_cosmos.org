@@ -7,7 +7,7 @@
 
 * Location
 
-Mackenzie Relay | Cemiess
+Mackenzie Relay | [[id:360ae21e-63f2-43ba-a2fd-a47e5e49951e][Cemiess]]
 
 * Objective
 
@@ -33,12 +33,12 @@ Tier 5/5
 
 Finished
 
-The Cemiess Empire Party has issued an open contract for Exploration
+The [[id:360ae21e-63f2-43ba-a2fd-a47e5e49951e][Cemiess]] [[id:541dcfb3-93ef-40e5-9284-bf5a4f999043][Empire]] Party has issued an open contract for Exploration
 Data on behalf of the Imperial Internal Security Services, the
-organisation responsible for security throughout the Empire. According
+organisation responsible for security throughout the [[id:541dcfb3-93ef-40e5-9284-bf5a4f999043][Empire]]. According
 to an IISS spokesperson, the data will be used to help conduct a
 widespread review of the organisation's information systems.
 
-To help with this effort, the Cemiess Empire Party is offering a series
+To help with this effort, the [[id:360ae21e-63f2-43ba-a2fd-a47e5e49951e][Cemiess]] [[id:541dcfb3-93ef-40e5-9284-bf5a4f999043][Empire]] Party is offering a series
 of incentives to pilots who deliver Exploration Data to Mackenzie Relay
 until such time as targets have been met.

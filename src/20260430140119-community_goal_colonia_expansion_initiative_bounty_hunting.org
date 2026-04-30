@@ -7,11 +7,11 @@
 
 * Location
 
-TolaGarf's Junkyard | Kojeara
+TolaGarf's Junkyard | [[id:23c19e19-16f1-4584-a547-47a013a65360][Kojeara]]
 
 * Objective
 
-Hand in Bounty Vouchers
+Hand in [[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]]
 
 * Progress
 
@@ -33,7 +33,7 @@ Tier 6/8
 
 Finished
 
-As the Colonia community continues to grow, the Junkyard Dogs have
+As the [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] community continues to grow, the Junkyard Dogs have
 placed an open order for various commodities to support another wave of
 expansion.
 
@@ -46,7 +46,7 @@ the final target is met earlier than planned, the campaign will end
 immediately.
 
 To be eligible for rewards you must sign up as an active participant
-before handing in Bounty Vouchers at Tolgarf's Junkyard in the EOL Prou
+before handing in [[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]] at Tolgarf's Junkyard in the EOL Prou
 Lw-L C8-215 system.
 
 Please note that if you have any crew members, a portion of your bounty

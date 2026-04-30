@@ -11,7 +11,7 @@ Parmitano Terminal | Nu Tauri
 
 * Objective
 
-Hand in Bounty Vouchers
+Hand in [[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]]
 
 * Progress
 
@@ -48,7 +48,7 @@ week. If the final target is met earlier than planned, the campaign will
 end immediately.
 
 To earn rewards you must sign up as an active participant before handing
-in Bounty Vouchers at Parmitano Terminal in the Nu Tauri system. Only
+in [[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]] at Parmitano Terminal in the Nu Tauri system. Only
 bounty vounchers handed in after signing up will count toward your
 personal contribution total.
 

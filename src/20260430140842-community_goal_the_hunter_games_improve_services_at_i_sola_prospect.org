@@ -33,7 +33,7 @@ Tier 6/8
 
 Finished
 
-The Imperial Inquisition, organiser of the 'Hunter Games' event, has
+The [[id:c09feece-7689-4caa-bb83-dbde4757f6b0][Imperial Inquisition]], organiser of the 'Hunter Games' event, has
 launched a campaign to improve services at the planetary outpost of i
 Sola Prospect on Brestla A1. The organisation has promised to reward
 pilots who deliver industrial materials to Roed Odegaard Port in the
@@ -42,6 +42,6 @@ Brestla system.
 11,347,438 Tonnes Collected
 
 Materials known to be wanted: Ceramic-Composites, Meta Alloys,
-Superconductors, Semiconductors, Polymers
+[[id:94637eec-3dd2-478f-9f38-8930b96a15fe][Superconductors]], [[id:0def679f-6fc4-4107-bd99-51a36668a787][Semiconductors]], [[id:87f58744-f7fe-46da-b824-fb089a150705][Polymers]]
 
 Updated 03/05/2016 @ 08:01pm GMT

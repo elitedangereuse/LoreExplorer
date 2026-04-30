@@ -7,7 +7,7 @@
 
 * Location
 
-Mackenzie Relay | Cemiess
+Mackenzie Relay | [[id:360ae21e-63f2-43ba-a2fd-a47e5e49951e][Cemiess]]
 
 * Objective
 
@@ -36,11 +36,11 @@ Finished
 A fundraiser hosted by Princess Aisling aims to finance a support
 network for Imperial citizens affected by Thargoid aggression.
 
-The Citizens' Relief Trust has been established in the Cemiess system,
+The Citizens' Relief Trust has been established in the [[id:360ae21e-63f2-43ba-a2fd-a47e5e49951e][Cemiess]] system,
 prompted by the loss of thousands of military personnel during the
-Battle of HIP 22460. She announced:
+Battle of [[id:55088d83-4221-44fa-a9d5-6ebb0866c722][HIP 22460]]. She announced:
 
-"While the Empire is focused on increasing its military strength, we
+"While the [[id:541dcfb3-93ef-40e5-9284-bf5a4f999043][Empire]] is focused on increasing its military strength, we
 must not forget the human cost of ongoing conflict with the Thargoids.
 Those who died in battle will be honoured by assisting the families and
 dependants left to mourn them. The Citizens' Relief Trust plans to
@@ -51,11 +51,11 @@ are met."
 be auctioned or sold at a special gala I plan to host for Imperial
 nobility, with all proceeds used to establish this network."
 
-At special request from Princess Aisling, Lavigny's Legion has been
+At special request from Princess Aisling, [[id:d5617bfc-ed9f-4b4c-9bf1-6143fb9f7068][Lavigny's Legion]] has been
 tasked with protecting those who are transporting these valuable cargos.
 Combat bonds will be reimbursed for all wanted ships that are destroyed
 in the system, and can be delivered to Mackenzie Relay starport in the
-Cemiess system.
+[[id:360ae21e-63f2-43ba-a2fd-a47e5e49951e][Cemiess]] system.
 
 The top 75% of contributors will also receive the Python Predator Teal
 paint job.

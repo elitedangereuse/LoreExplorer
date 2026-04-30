@@ -11,7 +11,7 @@ Chargaff Orbital | Airman Di
 
 * Objective
 
-Deliver Hybrid Capacitors, Phase Alloys and Conductive Polymers to
+Deliver [[id:afe970da-ae5c-45b3-920b-38d3671d2246][Hybrid Capacitors]], [[id:f541f70f-6f50-47c7-94e7-807c4a2c2343][Phase Alloys]] and [[id:52829138-7ac2-46f3-b49e-c413173220fe][Conductive Polymers]] to
 Chargaff Orbital in the Airman Di system
 
 * Progress
@@ -34,13 +34,13 @@ Tier 8/8
 
 Finished
 
-The Utopia movement has announced that the Sim-Archive is to undergo a
+The [[id:ff7259da-5b38-486b-8a3b-61ba9adca854][Utopia movement]] has announced that the [[id:83b3ed4c-f0b1-4311-a4df-34bdfa742126][Sim-Archive]] is to undergo a
 period of comprehensive maintenance.
 
-Pranav Antal, leader of Utopia, elaborated on the nature of the
+[[id:05ab22a7-9952-49a3-bdc0-45094cdaff6a][Pranav Antal]], leader of [[id:058a658d-e1ce-4364-a92b-b9607495c73f][Utopia]], elaborated on the nature of the
 project:
 
-"The Sim-Archive is Utopia's primary achievement -- a vast digital
+"The [[id:83b3ed4c-f0b1-4311-a4df-34bdfa742126][Sim-Archive]] is [[id:058a658d-e1ce-4364-a92b-b9607495c73f][Utopia]]'s primary achievement -- a vast digital
 repository containing the collective wisdom of all our departed brothers
 and sisters. But, like any system, the Archive requires constant
 maintenance, as a failure in the system could result in the loss of
@@ -56,10 +56,10 @@ week. If the final target is met earlier than planned, the campaign will
 end immediately.
 
 To be eligible for rewards you must sign up as an active participant
-before delivering Hybrid Capacitors, Phase Alloys and Conductive
-Polymers to Chargaff Orbital in the Airman Di system.
+before delivering [[id:afe970da-ae5c-45b3-920b-38d3671d2246][Hybrid Capacitors]], [[id:f541f70f-6f50-47c7-94e7-807c4a2c2343][Phase Alloys]] and Conductive
+[[id:87f58744-f7fe-46da-b824-fb089a150705][Polymers]] to Chargaff Orbital in the Airman Di system.
 
-Be aware that faction-state changes, Thargoid Sensor-related
+Be aware that faction-state changes, [[id:8ddf8e00-4541-4857-a609-5f6c5849dded][Thargoid Sensor]]-related
 interference and other disruptive events can negatively impact markets
 and station services, and could prevent the initiative from running
 smoothly.

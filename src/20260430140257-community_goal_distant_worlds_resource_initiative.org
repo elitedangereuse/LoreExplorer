@@ -7,11 +7,11 @@
 
 * Location
 
-Explorer's Anchorage | Stuemeae FG-Y d7561
+[[id:1c6bdbbd-527a-4533-abac-81eade19c059][Explorer's Anchorage]] | [[id:35fe6a51-9492-44a7-9dc5-4a5395ae732f][Stuemeae FG-Y d7561]]
 
 * Objective
 
-Deliver Bauxite, Water and Liquid Oxygen
+Deliver [[id:510c3ff3-837b-4653-84d9-f184547d7c48][Bauxite]], [[id:6a0424e6-c3dd-486d-a6cb-5db4902ee9a8][Water]] and Liquid Oxygen
 
 * Progress
 
@@ -33,11 +33,11 @@ Tier 10/11
 
 Finished
 
-The organisers of the Distant Worlds II expedition have requested
-materials for two construction projects in the Galactic Centre.
+The organisers of the [[id:f176c68d-cc7a-4db2-8305-81f6771c7e9f][Distant Worlds II]] expedition have requested
+materials for two construction projects in the Galactic [[id:9059253d-2c36-4289-9bcf-fd20ba9fc35b][Centre]].
 
 The exploration fleet aims to build a megaship and installation in the
-Stuemeae FG-Y d7561 system.
+[[id:35fe6a51-9492-44a7-9dc5-4a5395ae732f][Stuemeae FG-Y d7561]] system.
 
 Dr Kaii, Fleet Liaison for Deep Space Surveys, explained:
 
@@ -46,5 +46,5 @@ supermassive black hole at Sagittarius A\*. Future explorers visiting
 the station will be well looked after by Deep Space Surveys, to whom we
 will hand the keys before continuing to Beagle Point."
 
-Bauxite, Water and Liquid Oxygen should be delivered to Explorer's
-Anchorage in the Stuemeae FG-Y d7561 system.
+[[id:510c3ff3-837b-4653-84d9-f184547d7c48][Bauxite]], [[id:6a0424e6-c3dd-486d-a6cb-5db4902ee9a8][Water]] and Liquid Oxygen should be delivered to Explorer's
+Anchorage in the [[id:35fe6a51-9492-44a7-9dc5-4a5395ae732f][Stuemeae FG-Y d7561]] system.

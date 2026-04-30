@@ -7,11 +7,11 @@
 
 * Location
 
-Mansfield Orbiter | Epsilon Indi
+[[id:70fecaa7-bd23-4579-b206-7e3e65737044][Mansfield Orbiter]] | [[id:d40886f3-bc59-4f0d-8926-b125ee01c9bb][Epsilon Indi]]
 
 * Objective
 
-Earn rewards by delivering Explosives to Mansfield Orbiter
+Earn rewards by delivering [[id:6a105d93-c0fd-4c15-8c62-d8feb5d76fdb][Explosives]] to [[id:70fecaa7-bd23-4579-b206-7e3e65737044][Mansfield Orbiter]]
 
 * Progress
 
@@ -44,6 +44,6 @@ be forgotten.
 We will plant this idea as a seed that will grow. With enough people our
 idea will change the galaxy.
 
-(NOTE: This community goal has been moved to the Mansfield Orbiter
+(NOTE: This community goal has been moved to the [[id:70fecaa7-bd23-4579-b206-7e3e65737044][Mansfield Orbiter]]
 spaceport per the official forums:
 <https://forums.frontier.co.uk/showthread.php?t=197883>)

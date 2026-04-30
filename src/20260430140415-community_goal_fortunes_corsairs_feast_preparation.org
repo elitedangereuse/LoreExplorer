@@ -11,7 +11,7 @@ Denton Dock | Chamas
 
 * Objective
 
-Deliver Fruit and Vegetables, Fish, Grain and Synthetic Meat
+Deliver [[id:9dbf5564-8fe2-46f3-930f-f3f1dbfecd26][Fruit and Vegetables]], [[id:6aec48eb-daf1-45ff-92d2-0ba46d6347f8][Fish]], [[id:4cc7cde6-24f6-4bcc-b403-0f4cc90cde80][Grain]] and [[id:dffd22b1-0e99-4302-a109-20125a423f25][Synthetic Meat]]
 
 * Progress
 

@@ -12,6 +12,6 @@ The Diamond Frogs, a mercenary outfit based on the lawless fringes of the Capric
 
 The faction’s current base of operations has become virtually uninhabitable, as its power and cooling systems have been pushed past their limits.
 
-In support of this goal, the faction has placed an open order for Beer, Liquor, Coffee, Legal Narcotics, [[id:66b0f0aa-4387-46f9-9abe-a3dbe1033c6f][Computer Components]], [[id:34acf2f1-676d-4e52-86f4-80dc606e435c][Power Generators]] and Superconductors. They have promised to reward pilots who deliver these commodities to Skvortsov Orbital in the 63 G. Capricorni system.
+In support of this goal, the faction has placed an open order for [[id:16605f5b-79a7-46d2-9a5c-b53826fc1b5f][Beer]], [[id:6342647d-67b3-4045-b696-ce306617e3d0][Liquor]], [[id:17e9c920-2c60-4aad-975a-c52e81030b1e][Coffee]], Legal [[id:7384c6bc-9ad7-48ae-9d8b-f5f03db51c20][Narcotics]], [[id:66b0f0aa-4387-46f9-9abe-a3dbe1033c6f][Computer Components]], [[id:34acf2f1-676d-4e52-86f4-80dc606e435c][Power Generators]] and [[id:94637eec-3dd2-478f-9f38-8930b96a15fe][Superconductors]]. They have promised to reward pilots who deliver these commodities to Skvortsov Orbital in the 63 G. Capricorni system.
 
 The campaign begins on the 7th of December 3303 and will run for one week. If the final target is met earlier than planned, the campaign will end immediately.

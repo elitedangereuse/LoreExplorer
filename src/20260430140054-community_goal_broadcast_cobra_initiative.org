@@ -34,16 +34,16 @@ Tier 5/8
 
 Finished
 
-Media organisation Broadcast Cobra has announced its intention to build
+Media organisation [[id:9e7b9200-31ec-4163-b258-f4fa04346d42][Broadcast]] Cobra has announced its intention to build
 a megaship in the HIP 16038 system. The organisation, which specialises
 in politics and current events, aims to reach a much wider audience with
 the construction of this mobile studio.
-Alessandra Koa of Broadcast Cobra issued the following statement:
+Alessandra Koa of [[id:9e7b9200-31ec-4163-b258-f4fa04346d42][Broadcast]] Cobra issued the following statement:
 "As a broadcaster, we like the idea of a ship that can carry our signal
 to the farthest reaches of the galaxy. A megaship will allow us to
 transmit to systems that other broadcasters can only dream of
 reaching."
-To facilitate construction of the megaship, Broadcast Cobra has placed
+To facilitate construction of the megaship, [[id:9e7b9200-31ec-4163-b258-f4fa04346d42][Broadcast]] Cobra has placed
 an open order for thorium, indium and superconductors, and has promised
 to reward pilots who deliver these commodities to Sopwith Dock in the
 HIP 16038 system.
@@ -53,7 +53,7 @@ end immediately.
 To be eligible for rewards you must sign up as an active participant
 before delivering thorium, indium and superconductors to Sopwith Dock in
 the HIP 16038 system.
-Be aware that faction-state changes, Thargoid Sensor-related
+Be aware that faction-state changes, [[id:8ddf8e00-4541-4857-a609-5f6c5849dded][Thargoid Sensor]]-related
 interference and other disruptive events can negatively impact markets
 and station services, and could prevent the initiative from running
 smoothly.

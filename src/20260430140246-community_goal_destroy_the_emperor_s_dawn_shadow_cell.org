@@ -11,8 +11,8 @@ Hevelius Enterprise | Dakshmandi
 
 * Objective
 
-Help the Empire destroy the Emperor's Dawn outpost, and sell your
-Combat Bonds at Hevelius Enterprise.
+Help the [[id:541dcfb3-93ef-40e5-9284-bf5a4f999043][Empire]] destroy the Emperor's Dawn outpost, and sell your
+[[id:bbbc7bc6-79d7-46b7-925e-c1f882c8f25a][Combat Bonds]] at Hevelius Enterprise.
 
 * Progress
 
@@ -37,7 +37,7 @@ Finished
 An Emperor's Dawn 'shadow' cell - a fallback outpost designed to
 protect the organisation's leadership in the event of a military
 defeat - has been discoveredin the Dakshmandi system. Imperial Senator
-Denton Patreus has despatched a millitary fleet to Dakshmandi to destroy
+[[id:75daea85-5e9f-4f6f-a102-1a5edea0283c][Denton Patreus]] has despatched a millitary fleet to Dakshmandi to destroy
 what is thought to be the last of the insurgent's' outposts. The
 Dakshmandi Focus, on behalf of the senator, has authorized the payment
 of privateer bonds to all pilots who drive the Emperor's Dawn from

@@ -7,11 +7,11 @@
 
 * Location
 
-Teng-hui Station | Nagasairu
+[[id:6b178669-1c3f-4679-9b36-7f2d2aafd22b][Teng-hui Station]] | [[id:443b4ffb-1082-4c42-8766-c9450ab8c3c5][Nagasairu]]
 
 * Objective
 
-Deliver Bauxite, Gallite and Rutile
+Deliver [[id:510c3ff3-837b-4653-84d9-f184547d7c48][Bauxite]], [[id:19346f59-fa1a-4ba2-8373-5b4d90f26662][Gallite]] and [[id:09bd102f-02a4-465c-ad75-b0a7cc2bb574][Rutile]]
 
 * Progress
 
@@ -37,15 +37,15 @@ Two construction companies have requested materials to convert refinery
 outposts into starports, to assist owners of fleet carriers who use
 large vessels for tritium refuelling.​
 ​
-Dean Bradigan, director of Steel Castle Inc, stated:​
+[[id:e5315e3a-50ef-4f11-bd17-4bfca3607622][Dean Bradigan]], director of [[id:a0de9a01-d94e-43bd-8bd4-4c607c6c21e0][Steel Castle Inc]], stated:​
 
-"For travellers who find the familiar sight of Coriolis stations
+"For travellers who find the familiar sight of [[id:dfcd3273-3589-4725-a75f-5f1a08adc662][Coriolis]] stations
 welcoming, here's a chance to build up to five more. We ask for
 shipments of bauxite, gallite and rutile to be delivered to CQC Holdings
-at Teng-hui Station in the Nagasairu system."
+at [[id:6b178669-1c3f-4679-9b36-7f2d2aafd22b][Teng-hui Station]] in the [[id:443b4ffb-1082-4c42-8766-c9450ab8c3c5][Nagasairu]] system."
 
 The number of starports will depend on the amount of materials
-delivered. The target systems in order of priority are Fjorgyn, HR 4979,
-Wolf 294, Lambda-2 Tucanae, Potriti, LHS 4058, Chakpa, Gally Bese, Eta
-Cephei and Ninabin. If successful, upgrading will be done for the start
+delivered. The target systems in order of priority are [[id:9a7a830a-ad70-42ee-a17d-018d139a3ace][Fjorgyn]], [[id:dda8257e-5c5a-411a-b465-0a7495a312c7][HR 4979]],
+[[id:ed48c6fc-8220-4d47-a8a8-60ceada78f78][Wolf 294]], [[id:83c5b09c-39e6-43b2-bd44-6d088c28ccff][Lambda-2 Tucanae]], [[id:bfe14a03-95e2-435b-b53f-f50e326f79ff][Potriti]], [[id:6ca74a70-76a6-4d1e-8d37-ee663163eb92][LHS 4058]], [[id:f7819579-c6c1-4134-89c1-469ac0aa28c5][Chakpa]], [[id:fb62cb94-7aa7-4dae-a18c-c653e2fa73de][Gally Bese]], Eta
+Cephei and [[id:8b0cb052-2774-40b2-8805-36fcf5da1ad6][Ninabin]]. If successful, upgrading will be done for the start
 of October.​

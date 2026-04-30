@@ -7,11 +7,11 @@
 
 * Location
 
-Gabriel Enterprise | Harma
+[[id:8c659354-ea2b-4fd2-aeb9-874346ff07c1][Gabriel Enterprise]] | [[id:1c48b668-227f-4973-a6a9-7638e35c02c2][Harma]]
 
 * Objective
 
-Hand in Bounty Vouchers for The Razor Whips​
+Hand in [[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]] for The Razor Whips​
 
 * Progress
 
@@ -33,15 +33,15 @@ Tier 5/8
 
 Finished
 
-The Kumo Crew syndicate has launched an initiative to construct up to
+The [[id:1dfc7c53-642a-4404-a8e8-16a8cc18482a][Kumo Crew]] syndicate has launched an initiative to construct up to
 five starports.
 
-Kavanagh Spaceframes Ltd, an independent construction company, has been
-privately contracted by the Kumo Council to build fully operational
+[[id:a65fc0a0-6116-4c04-bb30-063687a20b2c][Kavanagh Spaceframes Ltd]], an independent construction company, has been
+privately contracted by the [[id:2dc1b92f-4bdc-4504-ad5f-a9c5794155dc][Kumo Council]] to build fully operational
 Orbis stations. These will be located in uninhabited systems close to
 key trading regions and areas of commercial interest.
 
-The Pegasi Sentinel newsfeed featured this statement from Archon
+The [[id:dc25c5b7-381e-4e8a-8599-68be61b19bae][Pegasi Sentinel]] newsfeed featured this statement from Archon
 Delaine:
 
 "As sovereign ruler of the Kumo nation, it's my responsibility to
@@ -53,7 +53,7 @@ legitimate and otherwise."
 interfere with my plans. The one thing we never trade in is mercy."
 
 To support this initiative, hand in your bounties to The Razor Whips at
-Gabriel Enterprise in the Harma system.
+[[id:8c659354-ea2b-4fd2-aeb9-874346ff07c1][Gabriel Enterprise]] in the [[id:1c48b668-227f-4973-a6a9-7638e35c02c2][Harma]] system.
 
 The initiative begins on the 15th of April 3307 and will run for one
 week. If the final target is met, the campaign will end immediately.

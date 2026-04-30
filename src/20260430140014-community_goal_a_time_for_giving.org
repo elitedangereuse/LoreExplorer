@@ -11,8 +11,8 @@ Clauss Port | Santa Muerte
 
 * Objective
 
-Deliver Personal Gifts to Clauss Port in the Santa Muerte system. Find
-the gifts at Frost Dock \[Njambalba\]. All pilots can earn Rewards and
+Deliver [[id:6c3dd957-b045-409c-8beb-82d51c93afed][Personal Gifts]] to Clauss Port in the Santa Muerte system. Find
+the gifts at [[id:aea6f093-b65a-4a23-b818-4cabf62b555d][Frost Dock]] \[[[id:11660275-7ed5-48c1-b23f-3b09f280c61e][Njambalba]]\]. All pilots can earn Rewards and
 new players can unlock ships.
 
 * Progress
@@ -41,8 +41,8 @@ will support new Commanders taking their first steps in their chosen
 careers. Nicolas St Clauss, CEO of Clauss Incorporated, explained a
 little bit more about the campaign:
 
-"We need every Commander in the galaxy to help transport Personal Gifts
-from Frost Dock in the Njambalba system to us at Clauss Port in the
+"We need every Commander in the galaxy to help transport [[id:6c3dd957-b045-409c-8beb-82d51c93afed][Personal Gifts]]
+from [[id:aea6f093-b65a-4a23-b818-4cabf62b555d][Frost Dock]] in the [[id:11660275-7ed5-48c1-b23f-3b09f280c61e][Njambalba]] system to us at Clauss Port in the
 Santa Muerte system. If our our delivery targets are met, we will use
 the proceeds of the sale of these gifts to fund our 'New Ships for New
 Commanders' initiative. We will also be offering generous financial
@@ -51,10 +51,10 @@ giving out a limited number of brand new ships to new Commanders."\*
 
 \*"Terms and conditions: New ships will only be offered to pilots who
 have logged between 3 and 10 hours total flight time. The type of ship
-offered will depend on the total number of Personal Gifts brought to
+offered will depend on the total number of [[id:6c3dd957-b045-409c-8beb-82d51c93afed][Personal Gifts]] brought to
 Clauss Port, so please dig deep for your fellow pilots!"
 
-Note that Frost Dock in Njambalba system is an outpost without large
+Note that [[id:aea6f093-b65a-4a23-b818-4cabf62b555d][Frost Dock]] in [[id:11660275-7ed5-48c1-b23f-3b09f280c61e][Njambalba]] system is an outpost without large
 docking platforms!
 
 Current Payout:

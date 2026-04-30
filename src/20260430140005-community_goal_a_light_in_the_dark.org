@@ -7,11 +7,11 @@
 
 * Location
 
-Simpson Depot | Facece
+Simpson Depot | [[id:73e31493-0c88-4fd7-9f49-9f3f1c92db41][Facece]]
 
 * Objective
 
-Hand in Imperial Bounty Vouchers to Simpson Depot
+Hand in Imperial [[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]] to Simpson Depot
 
 * Progress
 
@@ -33,9 +33,9 @@ Tier 5
 
 Finished
 
-The Empire Party, on behalf of the Princess Arissa Lavigny-Duval, is
+[[id:1047d7bb-a08d-430d-a445-4ec9a1b2daa3][The Empire]] Party, on behalf of the Princess [[id:34f3cfdd-0536-40a9-8732-13bf3a5e4a70][Arissa Lavigny-Duval]], is
 requesting that any information relating to the recent attack on his
-Imperial Highness, the Emperor Hengist Duval, be brought to Simpson
+Imperial Highness, the Emperor [[id:3cb0755e-4deb-442b-898b-3f0c6651636e][Hengist Duval]], be brought to Simpson
 Depot with all haste.
 
 Someone out there knows who was behind the attempt on our Emperor's

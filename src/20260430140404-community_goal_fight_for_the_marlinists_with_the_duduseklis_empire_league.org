@@ -7,11 +7,11 @@
 
 * Location
 
-Rush's Camp | Ackwada
+Rush's Camp | [[id:77a7a843-4242-4da8-a764-c1525e6ceefe][Ackwada]]
 
 * Objective
 
-Hand in Combat Bonds after fighting for Duduseklis Empire League in
+Hand in [[id:bbbc7bc6-79d7-46b7-925e-c1f882c8f25a][Combat Bonds]] after fighting for Duduseklis [[id:541dcfb3-93ef-40e5-9284-bf5a4f999043][Empire]] League in
 Conflict Zones
 
 * Progress
@@ -34,15 +34,15 @@ Tier 2/5
 
 Finished
 
-Conflict between Regulatory State of Ackwada and Duduseklis Empire
-League in Ackwada.
+Conflict between Regulatory State of [[id:77a7a843-4242-4da8-a764-c1525e6ceefe][Ackwada]] and Duduseklis [[id:541dcfb3-93ef-40e5-9284-bf5a4f999043][Empire]]
+League in [[id:77a7a843-4242-4da8-a764-c1525e6ceefe][Ackwada]].
 
-The Empire has targeted a Marlinist faction that is suspected of
-supporting the Neo-Marlinist Liberation Army (NMLA).
+[[id:1047d7bb-a08d-430d-a445-4ec9a1b2daa3][The Empire]] has targeted a [[id:46536da8-abd4-461f-9bf9-b749d4fc25e1][Marlinist]] faction that is suspected of
+supporting the [[id:dbfbb5eb-82a2-43c8-afb9-252b21b8464f][Neo-Marlinist Liberation Army]] (NMLA).
 
-The Duduseklis Empire League broadcast this [message:\\\\](message:\\)
+The Duduseklis [[id:541dcfb3-93ef-40e5-9284-bf5a4f999043][Empire]] League broadcast this [message:\\\\](message:\\)
 "If NMLA members have been recruited from our people, it is certainly
-not with our knowledge. The Empire is using a terrorist hunt to justify
+not with our knowledge. [[id:1047d7bb-a08d-430d-a445-4ec9a1b2daa3][The Empire]] is using a terrorist hunt to justify
 persecuting millions of ordinary citizens, whose only crime is to
 believe in republican ideals."
 

@@ -11,7 +11,7 @@ Jones Orbital | Hel
 
 * Objective
 
-Earn rewards by handing in Bounty Vouchers at Jones Orbital.
+Earn rewards by handing in [[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]] at Jones Orbital.
 
 * Progress
 
@@ -34,13 +34,13 @@ Tier 3/5
 Finished
 
 Hel Purple Energy Industry has asked combat pilots to support it's
-request for Crystalline Spheres by protecting the traders delivering
+request for [[id:dab666cc-5682-4825-a6f6-4b89055ec579][Crystalline Spheres]] by protecting the traders delivering
 commodities to it's base of operations in the Hel system. Any pilots
-who hand in Bounty Vouchers at Jones Orbital will be rewarded.
+who hand in [[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]] at Jones Orbital will be rewarded.
 
-Can be any Federation Bounty from any system.
+Can be any [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]] Bounty from any system.
 
-Nearby Urvantju has HazRez that could for Federation bounties.
+Nearby Urvantju has HazRez that could for [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]] bounties.
 
 Note that resource extraction sites are only shown when they're
 relatively close.

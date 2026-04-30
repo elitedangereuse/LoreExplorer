@@ -11,7 +11,7 @@ Joy Port | Secoya
 
 * Objective
 
-Deliver Master Chefs, Kamitra Cigars and Sanuma Decorative Meat
+Deliver [[id:f055b562-88b2-4eab-b160-18ac63d812a6][Master Chefs]], [[id:fad057f3-a5e3-4dad-a5ab-f2b471a14862][Kamitra Cigars]] and [[id:fab50169-a9a4-47f2-ad9b-5b8370f53041][Sanuma Decorative Meat]]
 
 * Progress
 
@@ -34,7 +34,7 @@ Tier 8/8
 Finished
 
 Secoya Emperor's Grace has been announced as the organiser of this
-year's Sigma Summit, a three-day conference for some of the Empire's
+year's Sigma Summit, a three-day conference for some of the [[id:541dcfb3-93ef-40e5-9284-bf5a4f999043][Empire]]'s
 most powerful individuals. Figures from the worlds of finance, politics
 and entertainment are expected to attend the event, which this year will
 be held in the Secoya system.
@@ -43,11 +43,11 @@ The Summit is not without its detractors, with political commentator Sal
 Riley recently condemning it as "a grotesquely opulent and outmoded
 display of self-congratulation". Nevertheless, the number of
 influential figures in attendance has prompted suggestions that more
-policy making is concluded at the Summit than in the Senate.
+policy making is concluded at the Summit than in the [[id:b1182341-2de3-4e2c-8056-2bcea537233a][Senate]].
 
 As the event approaches, Secoya Emperor's Grace has placed an open
 order for a range of luxury commodities, promising to reward pilots who
-delivering Master Chefs, Kamitra Cigars and Sanuma Decorative Meat to
+delivering [[id:f055b562-88b2-4eab-b160-18ac63d812a6][Master Chefs]], [[id:fad057f3-a5e3-4dad-a5ab-f2b471a14862][Kamitra Cigars]] and [[id:fab50169-a9a4-47f2-ad9b-5b8370f53041][Sanuma Decorative Meat]] to
 Joy Port in the Secoya system.
 
 The campaign begins on the 17th of August 3303 and will run for one
@@ -55,7 +55,7 @@ week. If the final target is met earlier than planned, the campaign will
 end immediately.
 
 To be eligible for rewards you must sign up as an active participant
-before delivering Master Chefs, Kamitra Cigars and Sanuma Decorative
+before delivering [[id:f055b562-88b2-4eab-b160-18ac63d812a6][Master Chefs]], [[id:fad057f3-a5e3-4dad-a5ab-f2b471a14862][Kamitra Cigars]] and [[id:e287d9e5-f8ce-41a3-918a-42698aa7d871][Sanuma]] Decorative
 Meat to Joy Port in the Secoya system.
 
 Be aware that faction-state changes, UA bombing and other disruptive
@@ -63,12 +63,12 @@ events can negatively impact markets and station services, and could
 prevent the initiative from running smoothly.
 
 [Notes:\\\\](Notes:\\) Source systems:
-•Master Chefs: Weber Gateway in Noti (Coriolis starport, S/M/L pads, 74
-Ls, 89.6 Ly from Sol) - max allocation 13t
-•Kamitra Cigars: Hammel Terminal in Kamitra (Orbis starport, S/M/L pads,
-84 Ls, 194.28 Ly from Sol) - max allocation 33t
-•Sanuma Decorative Meat: Dunyach Gateway in Sanuma (Coriolis starport,
-pads, 5,521 Ls, 183.2 Ly from Sol) - max allocation 24t
+•[[id:f055b562-88b2-4eab-b160-18ac63d812a6][Master Chefs]]: Weber Gateway in [[id:d8f9e754-4f57-4123-b488-118f0755df72][Noti]] ([[id:dfcd3273-3589-4725-a75f-5f1a08adc662][Coriolis]] starport, S/M/L pads, 74
+Ls, 89.6 Ly from [[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]]) - max allocation 13t
+•[[id:fad057f3-a5e3-4dad-a5ab-f2b471a14862][Kamitra Cigars]]: [[id:dd7725b4-1f2a-4796-a30f-530deb3c89e2][Hammel Terminal]] in [[id:5201be15-41e2-427b-b5de-d2d32d5ec78d][Kamitra]] (Orbis starport, S/M/L pads,
+84 Ls, 194.28 Ly from [[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]]) - max allocation 33t
+•[[id:fab50169-a9a4-47f2-ad9b-5b8370f53041][Sanuma Decorative Meat]]: [[id:37409f97-18ba-412c-b245-379368fe4e71][Dunyach Gateway]] in [[id:e287d9e5-f8ce-41a3-918a-42698aa7d871][Sanuma]] ([[id:dfcd3273-3589-4725-a75f-5f1a08adc662][Coriolis]] starport,
+pads, 5,521 Ls, 183.2 Ly from [[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]]) - max allocation 24t
 
 \*\*\*\*TIER 8 Reached / COMPLETED at 19 August @ 19:19 UTC\*\*\*\*
 Current Participation Rewards (Tier 8):

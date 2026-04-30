@@ -11,7 +11,7 @@ Roberts Port | Fedmich
 
 * Objective
 
-Deliver Occupied Escape Pods and Wreckage Components
+Deliver Occupied Escape Pods and [[id:ddf15bc1-5557-420a-a7f5-4b87154fe1fd][Wreckage Components]]
 
 * Progress
 
@@ -33,7 +33,7 @@ Tier 6/10
 
 Finished
 
-The Alliance Council of Admirals has announced that an Alliance convoy
+[[id:1c4d53a2-d81f-4cfa-8001-eb77f2c79b5f][The Alliance]] [[id:b0b347ac-10b8-4190-8787-1557f7d4a6da][Council of Admirals]] has announced that an [[id:2506edb2-fef4-4723-85c6-02482635229d][Alliance]] convoy
 has been attacked in the Fedmich system.
 
 Most personnel were safely evacuated, but many of the ships comprising
@@ -41,14 +41,14 @@ the convoy had to be abandoned. Furthermore, a number of occupied escape
 pods remain among the wreckage, along with caches of Wreckage
 Components.
 
-A spokesperson for the Council of Admirals released a statement:
+A spokesperson for the [[id:b0b347ac-10b8-4190-8787-1557f7d4a6da][Council of Admirals]] released a statement:
 
 "It is imperative that all personnel and material carried by this convoy
 be recovered as soon as possible."
 
 "To that end, we have authorised Fedmich Electronics Partners to
 coordinate a rescue operation, and will gladly reward those who deliver
-Occupied Escape Pods and Wreckage Components to Roberts Port in the
+Occupied Escape Pods and [[id:ddf15bc1-5557-420a-a7f5-4b87154fe1fd][Wreckage Components]] to Roberts Port in the
 Fedmich system. Combat pilots are also needed to neutralise agitators
 operating in Fedmich and thus ensure the safety of those recovering
 material from the convoy."
@@ -58,7 +58,7 @@ week. If the final target is met earlier than planned, the campaign will
 end immediately.
 
 To be eligible for rewards you must sign up as an active participant
-before delivering Occupied Escape Pods and Wreckage Components to
+before delivering Occupied Escape Pods and [[id:ddf15bc1-5557-420a-a7f5-4b87154fe1fd][Wreckage Components]] to
 Roberts Port in the Fedmich system.
 
 Be aware that faction-state changes, UA bombing and other disruptive
@@ -68,8 +68,8 @@ prevent the initiative from running smoothly.
 [Notes:\\\\](Notes:\\)
 
 -   Escape Pods are Legal Savage (Sell to Commodities Market)
--   Wreckage Components are Illegal Savage (Sell to Black Market)
--   Powerplay: Fedmich is an Edmund Mahon control system
+-   [[id:ddf15bc1-5557-420a-a7f5-4b87154fe1fd][Wreckage Components]] are Illegal Savage (Sell to Black Market)
+-   [[id:4ed9ac75-9ddc-4533-bc21-00a775fbc0ee][Powerplay]]: Fedmich is an [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74][Edmund Mahon]] control system
 -   Roberts Port facilities: Market, Outfitting, Restock, Refuel, Repair
     &
 

@@ -11,7 +11,7 @@ Campbell Horizons | Abroin
 
 * Objective
 
-Deliver Bounty Vouchers to Station
+Deliver [[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]] to Station
 
 * Progress
 
@@ -34,7 +34,7 @@ Tier 8/8
 Finished
 
 The Abroin Universal PLC has placed an order for construction materials
-in order to construct a research outpost in the Pleiades Nebula. In
+in order to construct a research outpost in the [[id:7e99a467-6e3d-418e-8b10-72cf3660efa6][Pleiades Nebula]]. In
 support of this, they have placed a kill order on all ships on its
 wanted list, to ensure those delivering materials to Campbell Horizons
 in the Abroin system can do so safely, promising to reward pilots who
@@ -45,7 +45,7 @@ If the final target is met earlier than planned, the campaign will end
 immediately.
 
 To earn rewards you must sign up as an active participant before handing
-in Bounty Vouchers at Campbell Horizons in the Abroin system. Only
+in [[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]] at Campbell Horizons in the Abroin system. Only
 bounty vouchers handed in after signing up will count toward your
 personal contribution total.
 

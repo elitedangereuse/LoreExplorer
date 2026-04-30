@@ -11,7 +11,7 @@ Carpini Terminal | Qa'wakana
 
 * Objective
 
-Earn rewards by delivering mined Bauxite, Coltan, Gold and Platinum to
+Earn rewards by delivering mined [[id:510c3ff3-837b-4653-84d9-f184547d7c48][Bauxite]], [[id:047e63e2-7b61-424c-a330-e712609eaba5][Coltan]], Gold and [[id:045f7139-ac68-453c-b97f-b61c8a9c370d][Platinum]] to
 Carpini Terminal in the Qa'wakana system.
 
 * Progress
@@ -53,7 +53,7 @@ If the final target is met earlier than planned, the campaign will end
 immediately.
 
 To be eligible for rewards you must sign up as an active participant
-before delivering Bauxite, Coltan, Gold and Platinum to Carpini Terminal
+before delivering [[id:510c3ff3-837b-4653-84d9-f184547d7c48][Bauxite]], [[id:047e63e2-7b61-424c-a330-e712609eaba5][Coltan]], Gold and [[id:045f7139-ac68-453c-b97f-b61c8a9c370d][Platinum]] to Carpini Terminal
 in the Qa'wakana system.
 
 Be aware that faction-state changes, UA bombing and other disruptive

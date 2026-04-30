@@ -11,7 +11,7 @@ Jahn Dock | Momoirent
 
 * Objective
 
-Hand in Bounty Vouchers
+Hand in [[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]]
 
 * Progress
 
@@ -33,7 +33,7 @@ Tier 6/8
 
 Finished
 
-The Federation has launched an initiative to develop autonomous military
+The [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]] has launched an initiative to develop autonomous military
 hardware with which to fight the Thargoids.
 
 The operation has received financial support from the Momoirent Central

@@ -7,11 +7,11 @@
 
 * Location
 
-Jaques Station | Colonia
+[[id:935880a2-d4fb-4d27-ad48-0f95112ee0fe][Jaques Station]] | [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]]
 
 * Objective
 
-Deliver Liquor, Water Purifiers and Computer Components
+Deliver [[id:6342647d-67b3-4045-b696-ce306617e3d0][Liquor]], [[id:2f1be518-d6d9-4e2e-84ce-ea7e5d86e099][Water Purifiers]] and [[id:66b0f0aa-4387-46f9-9abe-a3dbe1033c6f][Computer Components]]
 
 * Progress
 
@@ -33,36 +33,36 @@ Tier 2/4
 
 Finished
 
-Further deliveries to Alcor and Colonia are required to add new
-facilities to the Colonia Bridge starports.
+Further deliveries to [[id:eb11ab9d-aab7-4d9b-aeaf-a228ef33d4da][Alcor]] and [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] are required to add new
+facilities to the [[id:97a8c7e5-9399-4ebe-9457-8029ce809303][Colonia Bridge]] starports.
 
-The Colonia Bridge project is currently halfway through its final phase,
+The [[id:97a8c7e5-9399-4ebe-9457-8029ce809303][Colonia Bridge]] project is currently halfway through its final phase,
 which takes place over a four-week period. In the previous week, pilots
 supplied large quantities of performance enhancers, personal weapons and
 survival equipment.
 
-A press release from Brewer Corporation outlined the next stage:
+A press release from [[id:d9459015-dae3-4233-9eb7-a2fb11344097][Brewer Corporation]] outlined the next stage:
 
 "Thanks to the hard work of many independent pilots, we have
 established Pioneer Supplies, Crew Lounge and Search and Rescue services
 at the six starports along the travel corridor between the core systems
-and the Colonia region."
+and the [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] region."
 
 "For week three, our aim is to continue constructing the stations by
 installing a material trader, concourse bar and mission contract
 services. These will rely on shipments of liquor, computer components
 and water purifiers."
 
-"For pilots who deliver these to Jaques Station in the Colonia system,
-Brewer Corporation will be pleased to offer a White Engine Drive Colour
+"For pilots who deliver these to [[id:935880a2-d4fb-4d27-ad48-0f95112ee0fe][Jaques Station]] in the [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] system,
+[[id:d9459015-dae3-4233-9eb7-a2fb11344097][Brewer Corporation]] will be pleased to offer a White Engine Drive Colour
 and a White Carrier Drive Colour for the top 75% of participants,
 alongside payment in credits."
 
 Once this week's initiative concludes, week four will aim to complete
-the Colonia Bridge starports with a full range of services.
+the [[id:97a8c7e5-9399-4ebe-9457-8029ce809303][Colonia Bridge]] starports with a full range of services.
 
-Each tier reached will enable Brewer Corporation to establish a further
-service to the first starport out from Colonia, as follows:
+Each tier reached will enable [[id:d9459015-dae3-4233-9eb7-a2fb11344097][Brewer Corporation]] to establish a further
+service to the first starport out from [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]], as follows:
 
 Tier 1: Bar Tender
 Tier 2: Material Trader

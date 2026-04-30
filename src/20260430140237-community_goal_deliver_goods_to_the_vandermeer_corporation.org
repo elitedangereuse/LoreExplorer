@@ -7,11 +7,11 @@
 
 * Location
 
-Elion Dock | Kuma
+[[id:2ad9d91c-0e3a-4d7b-837e-4d2509907f4d][Elion Dock]] | [[id:3b541e0f-dc88-4bf7-abc5-4b8f2b54c6d3][Kuma]]
 
 * Objective
 
-Deliver Advanced Medicines, Computer Components and Auto Fabricators
+Deliver [[id:5af29dcf-3079-46c2-a594-d2559c830744][Advanced Medicines]], [[id:66b0f0aa-4387-46f9-9abe-a3dbe1033c6f][Computer Components]] and Auto Fabricators
 
 * Progress
 
@@ -33,32 +33,32 @@ Tier 3/8
 
 Finished
 
-Professor Katrien Rook of Vitadyne Labs has launched an initiative to
+Professor [[id:c39e36c5-83ba-4e22-8dc1-c5705b33910a][Katrien Rook]] of [[id:77d8c368-863a-42f1-af95-99fc0b7bd5c3][Vitadyne Labs]] has launched an initiative to
 establish a new pharmaceutical production facility.
 
 In a statement, Professor Rook said:
 
-"Vitadyne Labs lacks the infrastructure to mass-produce nanomedicines,
+"[[id:77d8c368-863a-42f1-af95-99fc0b7bd5c3][Vitadyne Labs]] lacks the infrastructure to mass-produce nanomedicines,
 so we have invited two pharmaceutical companies to bid for a
 distribution licence. The company that puts forward the most convincing
 proposal will secure the contract."
 
-The companies in question are Neomedical Industries, which supplies
-Alliance and independent systems, and the Vandermeer Corporation, which
+The companies in question are [[id:d8c4bbec-5bea-43d7-bad6-0ec97600cac3][Neomedical Industries]], which supplies
+[[id:2506edb2-fef4-4723-85c6-02482635229d][Alliance]] and independent systems, and the Vandermeer Corporation, which
 operates exclusively within Federal space. Both have requested advanced
 medicines, computer components and auto fabricators for the construction
 of nanomed manufacturing plants.
 
 Deliveries for the Vandermeer Corporation should be made to the Liberals
-of Kuma at Elion Dock in the Kuma system.
+of [[id:3b541e0f-dc88-4bf7-abc5-4b8f2b54c6d3][Kuma]] at [[id:2ad9d91c-0e3a-4d7b-837e-4d2509907f4d][Elion Dock]] in the [[id:3b541e0f-dc88-4bf7-abc5-4b8f2b54c6d3][Kuma]] system.
 
 The campaign begins on the 24th of January 3305 and will run for one
 week. If the final target is met earlier than planned, the campaign will
 end immediately.
 
 To be eligible for rewards you must sign up as an active participant
-before delivering Advanced Medicines, Computer Components and Auto
-Fabricators to Elion Dock in the Kuma system.
+before delivering [[id:5af29dcf-3079-46c2-a594-d2559c830744][Advanced Medicines]], [[id:66b0f0aa-4387-46f9-9abe-a3dbe1033c6f][Computer Components]] and Auto
+Fabricators to [[id:2ad9d91c-0e3a-4d7b-837e-4d2509907f4d][Elion Dock]] in the [[id:3b541e0f-dc88-4bf7-abc5-4b8f2b54c6d3][Kuma]] system.
 
 Be aware that faction-state changes and other disruptive events can
 negatively impact markets and station services, and could prevent the

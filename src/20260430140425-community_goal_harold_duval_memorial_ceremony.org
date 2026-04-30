@@ -11,7 +11,7 @@ Oterma Station | Baal
 
 * Objective
 
-Deliver Ngadandari Fire Opals, Esuseku Caviar, Lavian Brandy and Kamitra
+Deliver [[id:d705a38b-4eca-4024-a181-ab31cbc1acf8][Ngadandari Fire Opals]], [[id:bc91675a-d24b-48f5-ace9-8229075afa6e][Esuseku Caviar]], [[id:5efc49f5-465f-4dd8-afaa-b6bb3595a58c][Lavian Brandy]] and [[id:5201be15-41e2-427b-b5de-d2d32d5ec78d][Kamitra]]
 Cigars
 
 * Progress
@@ -36,14 +36,14 @@ Finished
 
 The Imperial Palace will host a memorial ceremony to honour Harold
 Duval, for which rare commodities have been requested before Thursday
-1st October. Ngadandari Fire Opals, Esuseku Caviar, Lavian Brandy and
-Kamitra Cigars should be delivered to Oterma Station in the Baal system,
-where the White Templars will transport them to Capitol after security
+1st October. [[id:d705a38b-4eca-4024-a181-ab31cbc1acf8][Ngadandari Fire Opals]], [[id:bc91675a-d24b-48f5-ace9-8229075afa6e][Esuseku Caviar]], [[id:5efc49f5-465f-4dd8-afaa-b6bb3595a58c][Lavian Brandy]] and
+[[id:fad057f3-a5e3-4dad-a5ab-f2b471a14862][Kamitra Cigars]] should be delivered to Oterma Station in the Baal system,
+where the White Templars will transport them to [[id:912f1172-e2b9-4fe9-9e53-13dd44fac4c4][Capitol]] after security
 vetting.
 
-Commanders of the Pilots Federation will be assigned an Achenar system
+Commanders of the Pilots [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]] will be assigned an [[id:bed8c27f-3cbe-49ad-b86f-7d87eacf804a][Achenar]] system
 permit alongside financial rewards. To further encourage participation,
-Gutamaya Corporation will apply a discount of up to 25% for all ship
+[[id:aa5d0177-2807-4e3d-b0d0-1a40b3203598][Gutamaya]] Corporation will apply a discount of up to 25% for all ship
 purchases according to the amount of rare items provided.
 
 The initiative begins on 24th of September 3306 and will run for one

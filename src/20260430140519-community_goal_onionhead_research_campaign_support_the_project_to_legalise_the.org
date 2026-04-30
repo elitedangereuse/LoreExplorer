@@ -7,11 +7,11 @@
 
 * Location
 
-Tereshkova Dock | Altair
+Tereshkova Dock | [[id:144149ef-21cd-4e52-afea-dcf379d12d18][Altair]]
 
 * Objective
 
-Deliver pure Onionhead
+Deliver pure [[id:b160f4b1-1751-41c2-b0bd-e7c6e8dc2f2d][Onionhead]]
 
 * Progress
 
@@ -33,28 +33,28 @@ Tier 3/8
 
 Finished
 
-An organisation known as the Altair Purple Mob has launched a campaign
+An organisation known as the [[id:144149ef-21cd-4e52-afea-dcf379d12d18][Altair]] Purple Mob has launched a campaign
 to prove that the drug is harmless, with the ultimate aim of having it
-reclassified as a non-toxic plant. Like the Federation, the organisation
+reclassified as a non-toxic plant. Like the [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]], the organisation
 has issued an appeal for quantities of the drug, but unlike the
-Federation, the Altair Purple Mob intends to study the plant rather than
+[[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]], the [[id:144149ef-21cd-4e52-afea-dcf379d12d18][Altair]] Purple Mob intends to study the plant rather than
 destroy it. A spokesperson for the organisation said:
 
-"Legalising Onionhead would decriminalise its users, provide the Federal
+"Legalising [[id:b160f4b1-1751-41c2-b0bd-e7c6e8dc2f2d][Onionhead]] would decriminalise its users, provide the Federal
 government with a new revenue stream, and destabilise the criminal
 network through which the drug is currently bought and sold. It's a
 no-brainer."
 
-No matter which side of the Onionhead debate you're on, fly safe out
+No matter which side of the [[id:b160f4b1-1751-41c2-b0bd-e7c6e8dc2f2d][Onionhead]] debate you're on, fly safe out
 there, Commanders! o7
 
 Global Progress: 50,068 Tonnes Collected
 
 -----
 NOTE: You will get \~20.000 Cr profit per run
-NOTE: Only available on Harvestport in Kappa Fornacis
-NOTE: Only 8T of Onionhead are available per cargo run
-NOTE: Kappa Fornacis is 76.52 LY from Altair (3 jumps with Diamond
+NOTE: Only available on [[id:1615a78c-73ab-4e84-a21a-3843b927551a][Harvestport]] in [[id:b634e896-9d3d-4f44-9783-cfb8fd6d0c56][Kappa Fornacis]]
+NOTE: Only 8T of [[id:b160f4b1-1751-41c2-b0bd-e7c6e8dc2f2d][Onionhead]] are available per cargo run
+NOTE: [[id:b634e896-9d3d-4f44-9783-cfb8fd6d0c56][Kappa Fornacis]] is 76.52 LY from [[id:144149ef-21cd-4e52-afea-dcf379d12d18][Altair]] (3 jumps with Diamond
 Explorer)
 NOTE: Tereshkova Dock is Outpost too
 -----

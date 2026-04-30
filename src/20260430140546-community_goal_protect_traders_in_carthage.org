@@ -7,7 +7,7 @@
 
 * Location
 
-Marker Depot | Carthage
+Marker Depot | [[id:29b87d21-95e3-41c2-b43c-e5777025efa9][Carthage]]
 
 * Objective
 
@@ -33,8 +33,8 @@ Tier 8/10
 
 Finished
 
-Protect the Traders in Carthage. Deliver Bounties of any party stationed
-in Carthage or of the Empire to Marker Depot.
+Protect the Traders in [[id:29b87d21-95e3-41c2-b43c-e5777025efa9][Carthage]]. Deliver Bounties of any party stationed
+in [[id:29b87d21-95e3-41c2-b43c-e5777025efa9][Carthage]] or of the [[id:541dcfb3-93ef-40e5-9284-bf5a4f999043][Empire]] to Marker Depot.
 
 Tier 8:
 Top 10 CMDRs: 17.085.938 CR
@@ -46,4 +46,4 @@ Top 99%: 800,000 CR
 
 One good Hunting place: Ankou (15 ly)
 Haz- and High-RES in Ankou A 1 (1500 ls). Lokal Bounties of Ankou Blue
-Federal Holdings are accepted in Carthage for the CG.
+Federal Holdings are accepted in [[id:29b87d21-95e3-41c2-b43c-e5777025efa9][Carthage]] for the CG.

@@ -11,7 +11,7 @@ Bacon City | Carnoeck
 
 * Objective
 
-Deliver Occupied Escape Pods, Black Boxes and Wreckage Components
+Deliver Occupied Escape Pods, Black Boxes and [[id:ddf15bc1-5557-420a-a7f5-4b87154fe1fd][Wreckage Components]]
 
 * Progress
 
@@ -48,5 +48,5 @@ Our priority is to locate survivors, but we're also keen to acquire
 data that might help to bring those responsible to justice.
 
 Pilots are requested to recover Occupied Escape Pods, Black Boxes and
-Wreckage Components, and deliver them to Bacon City in the Carnoeck
+[[id:ddf15bc1-5557-420a-a7f5-4b87154fe1fd][Wreckage Components]], and deliver them to Bacon City in the Carnoeck
 system.

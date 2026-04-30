@@ -11,7 +11,7 @@ Dahan Gateway | Dahan
 
 * Objective
 
-Earn rewards by handing in Bounty Vouchers at Dahan Gateway.
+Earn rewards by handing in [[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]] at Dahan Gateway.
 
 * Progress
 
@@ -33,9 +33,9 @@ Tier 2/5
 
 Finished
 
-Professor Ishmael Palin, the scientist leading research into the Unknown
+[[id:8f63442a-1f38-457d-857a-38297d732a90][Professor Ishmael Palin]], the scientist leading research into the Unknown
 Artefacts, has announced plans to establish a new research outpost on
-Maia B1BA in the Maia system. To ensure the safety of those making the
+[[id:0ee60994-364c-41b9-98ca-993d041cea72][Maia]] B1BA in the [[id:0ee60994-364c-41b9-98ca-993d041cea72][Maia]] system. To ensure the safety of those making the
 deliveries to Nelson Works, the Confederation of Dahan has asking for
 help in keeping the spaceways of Dahan clear.
 

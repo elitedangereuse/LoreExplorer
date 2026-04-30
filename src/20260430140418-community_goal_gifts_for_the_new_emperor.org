@@ -7,11 +7,11 @@
 
 * Location
 
-Dawes Hub | Achenar
+Dawes Hub | [[id:bed8c27f-3cbe-49ad-b86f-7d87eacf804a][Achenar]]
 
 * Objective
 
-Deliver Slaves to Dawes Hub.
+Deliver [[id:e618114f-4caa-471f-9e6d-ba74c7d3c34f][Slaves]] to Dawes Hub.
 
 * Progress
 
@@ -33,12 +33,12 @@ Tier 5/5
 
 Finished
 
-Arissa Lavigny-Duval has issued a request for Slaves to mark her
-forthcoming coronation. The Slaves, which the future Emperor has
+[[id:34f3cfdd-0536-40a9-8732-13bf3a5e4a70][Arissa Lavigny-Duval]] has issued a request for [[id:e618114f-4caa-471f-9e6d-ba74c7d3c34f][Slaves]] to mark her
+forthcoming coronation. The [[id:e618114f-4caa-471f-9e6d-ba74c7d3c34f][Slaves]], which the future Emperor has
 described as "coronation gifts", are to be delivered to Dawes Hub in
-the Achenar System. In exchange, pilots will be offered discounts on
+the [[id:bed8c27f-3cbe-49ad-b86f-7d87eacf804a][Achenar]] System. In exchange, pilots will be offered discounts on
 Imperial ships, and granted access to vessels that would ordinarily
-require a rank in the Imperial Navy. The permit restrictions on Achenar
+require a rank in the [[id:e9becd28-9644-42aa-afc8-7bba3ce10076][Imperial Navy]]. The permit restrictions on [[id:bed8c27f-3cbe-49ad-b86f-7d87eacf804a][Achenar]]
 have been temporarily lifted to allow pilots to deliver gifts to the
 future Emperor.
 

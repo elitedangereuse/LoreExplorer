@@ -7,11 +7,11 @@
 
 * Location
 
-Lagerkvist Gateway | Synteini
+[[id:428395f8-2fc8-4c61-90f5-df387f907a4b][Lagerkvist]] Gateway | [[id:7f858bcd-508e-4afc-a00a-ee4dfa85015d][Synteini]]
 
 * Objective
 
-Sell Slaves to Lagerkvist Gateway
+Sell [[id:e618114f-4caa-471f-9e6d-ba74c7d3c34f][Slaves]] to [[id:428395f8-2fc8-4c61-90f5-df387f907a4b][Lagerkvist]] Gateway
 
 * Progress
 
@@ -34,12 +34,12 @@ Tier 5
 Finished
 
 The Imperial Slaver's Association is currently in the process of
-sourcing a large quantity of unregulated Slaves in order to bolster the
-number of Imperial Slaves available for work in the region.
+sourcing a large quantity of unregulated [[id:e618114f-4caa-471f-9e6d-ba74c7d3c34f][Slaves]] in order to bolster the
+number of [[id:02df3938-8684-467d-b46e-cd60621e1fd3][Imperial Slaves]] available for work in the region.
 
-As such ISA, in conjunction with Senator Zemina Torval, are offering a
-generous reward scheme open to any traders willing to sell Slaves to the
-ISA training centre on Lagerkvist Gateway.
+As such ISA, in conjunction with Senator [[id:d8e3667c-3ba1-43aa-bc90-dac719c6d5e7][Zemina Torval]], are offering a
+generous reward scheme open to any traders willing to sell [[id:e618114f-4caa-471f-9e6d-ba74c7d3c34f][Slaves]] to the
+ISA training centre on [[id:428395f8-2fc8-4c61-90f5-df387f907a4b][Lagerkvist]] Gateway.
 
 In addition to which, Senator Torval has sworn that if ISA is able to
 acquire more slaves than Stop Slavery Stupid over the course of the next

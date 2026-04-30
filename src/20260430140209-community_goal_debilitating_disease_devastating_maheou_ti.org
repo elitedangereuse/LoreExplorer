@@ -7,7 +7,7 @@
 
 * Location
 
-Yegorov Station | Maheou Ti
+Yegorov Station | [[id:68089c1e-578f-4f8a-9c0d-7417a55013ee][Maheou Ti]]
 
 * Objective
 
@@ -33,14 +33,14 @@ Tier 0/1
 
 Finished
 
-A terrifying disease is currently working its way through Maheou Ti. So
+A terrifying disease is currently working its way through [[id:68089c1e-578f-4f8a-9c0d-7417a55013ee][Maheou Ti]]. So
 far the illness has defied all attempts to contain it, despite the best
 efforts of the medical staff aboard Yegorov Station.
 
 Many people have already been placed in quarantine, with many more
 thought to have already been infected. Doctors are concerned that that
 pathogen responsible may have already begun to spread to other systems.
-to assist medical staff aboard Yegorov Station, the Allied Maheou Ti
+to assist medical staff aboard Yegorov Station, the Allied [[id:68089c1e-578f-4f8a-9c0d-7417a55013ee][Maheou Ti]]
 Autocracy are offering a series of incentives to any pilots that provide
 medicines to Yegorov Station market until such time as the crisis has
 been averted.

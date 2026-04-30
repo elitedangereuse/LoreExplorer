@@ -7,11 +7,11 @@
 
 * Location
 
-Moni's Hub | Maia
+[[id:91d67012-ad47-4b75-aac1-dba7c70e671c][Moni's Hub]] | [[id:0ee60994-364c-41b9-98ca-993d041cea72][Maia]]
 
 * Objective
 
-Deliver Tantalum, Building Fabricators, and Thermal Cooling Units
+Deliver [[id:d10c0435-4bc8-42ac-bea6-228d2f02604c][Tantalum]], [[id:0f1939e4-1ab1-4f9c-8b73-ebc572081433][Building Fabricators]], and [[id:3392ce5d-db80-4085-8821-57b2ec3ddf36][Thermal Cooling Units]]
 
 * Progress
 
@@ -33,33 +33,33 @@ Tier 3/8
 
 Finished
 
-In recent weeks, both the Empire and the Federation have accelerated
-their expansion plans in the Maia and Merope systems, deploying dozens
+In recent weeks, both the [[id:541dcfb3-93ef-40e5-9284-bf5a4f999043][Empire]] and the [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]] have accelerated
+their expansion plans in the [[id:0ee60994-364c-41b9-98ca-993d041cea72][Maia]] and [[id:70fa34ea-bc98-40ff-97f0-e4f4538387a6][Merope]] systems, deploying dozens
 of ships and establishing a number of outposts. The latest phase of
 these campaigns will see both superpowers constructing bases in the
-Pleiades region.
+[[id:cd15e78b-89d1-4051-bd92-05d0ab49ec17][Pleiades]] region.
 
-The Empire has authorised the Merope Expeditionary Fleet to coordinate
-its campaign, while the Pleiades Resource Enterprise has agreed to
+[[id:1047d7bb-a08d-430d-a445-4ec9a1b2daa3][The Empire]] has authorised the [[id:e8740636-76cb-40ad-816e-ec17e1323aa0][Merope Expeditionary Fleet]] to coordinate
+its campaign, while the [[id:268dd81e-54f9-447a-9a47-11b2f7242e81][Pleiades Resource Enterprise]] has agreed to
 oversee the Federal appeal. Both organisations have placed open orders
 for construction materials, promising to reward pilots who deliver
-Tantalum, Building Fabricators and Thermal Cooling Units to their
+[[id:d10c0435-4bc8-42ac-bea6-228d2f02604c][Tantalum]], [[id:0f1939e4-1ab1-4f9c-8b73-ebc572081433][Building Fabricators]] and [[id:3392ce5d-db80-4085-8821-57b2ec3ddf36][Thermal Cooling Units]] to their
 respective bases of operation -- PRE Logistics Support Gamma for the
-Federal campaign and Moni's Hub for the Imperial initiative.
+Federal campaign and [[id:91d67012-ad47-4b75-aac1-dba7c70e671c][Moni's Hub]] for the Imperial initiative.
 
 Both campaigns begin on the 25th of May and will run for one week. If
-either the Empire or the Federation meets its targets earlier than
+either the [[id:541dcfb3-93ef-40e5-9284-bf5a4f999043][Empire]] or the [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]] meets its targets earlier than
 planned, its campaign will end immediately.
 
 To be eligible for rewards you must sign up as an active participant
-before delivering Tantalum, Building Fabricators, and Thermal Cooling
-Units to Moni's Hub in the Maia system.
+before delivering [[id:d10c0435-4bc8-42ac-bea6-228d2f02604c][Tantalum]], [[id:0f1939e4-1ab1-4f9c-8b73-ebc572081433][Building Fabricators]], and Thermal Cooling
+Units to [[id:91d67012-ad47-4b75-aac1-dba7c70e671c][Moni's Hub]] in the [[id:0ee60994-364c-41b9-98ca-993d041cea72][Maia]] system.
 
 Be aware that faction-state changes, UA bombing and other disruptive
 events can negatively impact markets and station services, and could
 prevent the initiative from running smoothly.
 
-[Notes:\\\\](Notes:\\) Maia \[Moni's Hub\] (Industrial Outpost, no
+[Notes:\\\\](Notes:\\) [[id:0ee60994-364c-41b9-98ca-993d041cea72][Maia]] \[[[id:91d67012-ad47-4b75-aac1-dba7c70e671c][Moni's Hub]]\] (Industrial Outpost, no
 large pads available) --- station is OPEN again !!!
 
 Current Participation Rewards:

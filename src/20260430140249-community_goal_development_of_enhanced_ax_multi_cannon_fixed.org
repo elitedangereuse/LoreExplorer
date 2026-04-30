@@ -11,7 +11,7 @@ Bok Orbital | Ru Shil
 
 * Objective
 
-Deliver Gallium, Copper, Polymers, Advanced Catalysers and Synthetic
+Deliver [[id:13a169da-2038-4128-b8f7-4cc09721cd6c][Gallium]], [[id:705bcc40-0a7b-460c-83a5-a556a5ab3bb7][Copper]], [[id:87f58744-f7fe-46da-b824-fb089a150705][Polymers]], [[id:2981e870-5c6c-4a19-a4d7-e9b39ace3ea1][Advanced Catalysers]] and Synthetic
 Reagents
 
 * Progress
@@ -58,25 +58,25 @@ Ongoing
 Two leading engineers have revealed designs to improve the stock
 anti-xeno weaponry available to pilots.
 
-Liz Ryder and Zacariah Nemo have provided module modifications for many
+[[id:cb71ba02-e47b-4feb-a421-b1f2ecdce6f3][Liz Ryder]] and [[id:baab0645-10f6-4242-998a-b3c899f459a2][Zacariah Nemo]] have provided module modifications for many
 years, specialising in explosive and kinetic weapons respectively. Over
 the past year they have collaborated privately on the AX weapon designs
 introduced by Aegis in 3303, seeking to improve the efficiency of
 delivering a compound, hazardous to Thargoid vessels, which tips AX
 ammunition.
 
-Ryder explained to The Imperial Herald:
+[[id:24e2cdd2-f3f3-45fa-9140-99711e77fd17][Ryder]] explained to The [[id:626a18d7-ad16-4093-b9be-d9dc1940594b][Imperial Herald]]:
 
 "Zack and I share a passion for weapon upgrades, and have often used
 this project as a way to unwind after a long week's work. But when the
-Taranis signal arrived and the Thargoid forces started taking control of
+[[id:f62776a6-64be-4794-b138-109ce4687622][Taranis]] signal arrived and the Thargoid forces started taking control of
 systems, we knew we had to reveal the designs to the public. We're
 going to need help from independent pilots to finish off the prototypes
 and get a manufacturing base set up."
 
 This campaign is for a fixed-mount enhanced AX Multi-Cannon, to be made
-available in both Medium and Large sizes. Ru Shil Empire Party has
-agreed to process deliveries, with Liz Ryder vouching for the faction's
+available in both Medium and Large sizes. Ru Shil [[id:541dcfb3-93ef-40e5-9284-bf5a4f999043][Empire]] Party has
+agreed to process deliveries, with [[id:cb71ba02-e47b-4feb-a421-b1f2ecdce6f3][Liz Ryder]] vouching for the faction's
 commitment to the anti-xeno project despite concerns over their
 reputation.
 

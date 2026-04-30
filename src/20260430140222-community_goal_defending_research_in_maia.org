@@ -7,11 +7,11 @@
 
 * Location
 
-Obsidian Orbital | Maia
+[[id:4223b99a-7e0c-44fa-b7e9-afeca7e0c031][Obsidian Orbital]] | [[id:0ee60994-364c-41b9-98ca-993d041cea72][Maia]]
 
 * Objective
 
-Hand in Bounty Vouchers
+Hand in [[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]]
 
 * Progress
 
@@ -37,13 +37,13 @@ The Palin Institute has announced an accelerated programme of study to
 analyse a range of xenobiological data, and perhaps discern the motives
 behind the Thargoids' unrelenting aggression.
 
-Professor Cora Shaw, director of the Palin Institute, released the
+Professor [[id:29f394e1-6be6-4636-b926-b0790a6333b2][Cora Shaw]], director of the Palin Institute, released the
 following statement:
 In recent months, the Institute has performed countless studies on alien
 technology and physiology, and our stock of xenobiological samples is
 severely depleted. For this robust new study, we require a large amount
 of Thargoid material to support a wide range of experiments.
 
-The Ryder Revolutionary Party, which is supporting the campaign, has
+The [[id:24e2cdd2-f3f3-45fa-9140-99711e77fd17][Ryder]] Revolutionary Party, which is supporting the campaign, has
 placed a kill order on all ships on its wanted list, to ensure that
-those delivering materials to Obsidian Orbital can do so safely.
+those delivering materials to [[id:4223b99a-7e0c-44fa-b7e9-afeca7e0c031][Obsidian Orbital]] can do so safely.

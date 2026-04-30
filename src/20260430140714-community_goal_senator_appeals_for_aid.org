@@ -7,11 +7,11 @@
 
 * Location
 
-Biruni Port | Niflhel
+Biruni Port | [[id:2ad15cb1-9249-4380-9d86-ae5134de7faa][Niflhel]]
 
 * Objective
 
-Deliver Basic Medicines, Water Purifiers, Natural Fabrics and Evacuation
+Deliver [[id:1c200888-6acc-404b-8d9e-9ad834389782][Basic Medicines]], [[id:2f1be518-d6d9-4e2e-84ce-ea7e5d86e099][Water Purifiers]], [[id:2ce50835-6eff-4466-baa5-0ac8538f3f47][Natural Fabrics]] and Evacuation
 Shelters
 
 * Progress
@@ -34,7 +34,7 @@ Tier 3/8
 
 Finished
 
-Imperial Senator Caspian Leopold has launched an appeal for commodities
+Imperial Senator [[id:1d3d8a69-609b-4e83-b1a1-a46cb23ba195][Caspian Leopold]] has launched an appeal for commodities
 to help those affected by Thargoid attacks.
 
 A spokesperson for Senator Leopold gave the following statement to the
@@ -45,7 +45,7 @@ thousands of refugees, but more aid is needed. Resources are growing
 scarce, and we will require the galactic community's help if we are to
 avoid a humanitarian crisis.
 
-The Niflhel Guardians Of Tradition, who are overseeing the initiative,
-have placed an open order for Basic Medicines, Water Purifiers, Natural
+The [[id:2ad15cb1-9249-4380-9d86-ae5134de7faa][Niflhel]] Guardians Of Tradition, who are overseeing the initiative,
+have placed an open order for [[id:1c200888-6acc-404b-8d9e-9ad834389782][Basic Medicines]], [[id:2f1be518-d6d9-4e2e-84ce-ea7e5d86e099][Water Purifiers]], Natural
 Fabrics and Evacuation Shelters, promising to reward pilots who deliver
-these commodities to Biruni Port in the Niflhel system.
+these commodities to Biruni Port in the [[id:2ad15cb1-9249-4380-9d86-ae5134de7faa][Niflhel]] system.

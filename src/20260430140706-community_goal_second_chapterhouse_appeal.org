@@ -7,11 +7,11 @@
 
 * Location
 
-Shajn Market | Kamadhenu
+Shajn Market | [[id:6762f716-7e24-4a03-af96-2af0fd55f8c7][Kamadhenu]]
 
 * Objective
 
-Earn rewards by delivering Beryllium, Military Grade Fabrics and
+Earn rewards by delivering [[id:bd0fe4ab-145e-431c-b06e-3433e2618bff][Beryllium]], [[id:38ba824d-734c-4575-8a53-472887df0a83][Military Grade Fabrics]] and
 Insulating Membranes
 
 * Progress
@@ -34,16 +34,16 @@ Tier 8/8
 
 Finished
 
-With work on the first Chapterhouse of Inquisition starport now well
+With work on the first [[id:11216b9a-43a6-4242-9355-1c6227e48db8][Chapterhouse of Inquisition]] starport now well
 underway, the organisation's ambitious project has entered its second
 phase. The aim of the project is to establish a series of starports
-along the route to Colonia, and expedite the creation of a new freight
+along the route to [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]], and expedite the creation of a new freight
 and passenger service to the remote region.
 
 For this stage of the project the Chapterhouse has placed an open order
-for Beryllium, Military Grade Fabrics and Insulating Membranes, which
+for [[id:bd0fe4ab-145e-431c-b06e-3433e2618bff][Beryllium]], [[id:38ba824d-734c-4575-8a53-472887df0a83][Military Grade Fabrics]] and Insulating Membranes, which
 will be used to build a second starport. Pilots who deliver these goods
-to Shajn Market in the Kamadhenu system for will be generously
+to Shajn Market in the [[id:6762f716-7e24-4a03-af96-2af0fd55f8c7][Kamadhenu]] system for will be generously
 reimbursed. System authorities have also pledged to issue above-average
 rewards for Chapterhouse-issued bounties, to ensure safe delivery of
 goods to the starport.
@@ -58,8 +58,8 @@ will run for one week. If the final target is met earlier than planned,
 the campaign will end immediately.
 
 To be eligible for rewards you must sign up as an active participant
-before delivering Beryllium, Military Grade Fabrics and Insulating
-Membranes to Shajn Market in the Kamadhenu system.
+before delivering [[id:bd0fe4ab-145e-431c-b06e-3433e2618bff][Beryllium]], [[id:38ba824d-734c-4575-8a53-472887df0a83][Military Grade Fabrics]] and Insulating
+Membranes to Shajn Market in the [[id:6762f716-7e24-4a03-af96-2af0fd55f8c7][Kamadhenu]] system.
 
 Be aware that faction-state changes, UA bombing and other disruptive
 events can negatively impact markets and station services, and could

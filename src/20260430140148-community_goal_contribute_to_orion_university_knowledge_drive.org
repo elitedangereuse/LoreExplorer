@@ -11,8 +11,8 @@ Shaara Gateway | HIP 43670
 
 * Objective
 
-Deliver Unusual Encrypted Files, Anomalous Bulk Scan Data and
-Unidentified Scan Archives
+Deliver [[id:8818c253-2e79-4713-bbac-619035ee2b8b][Unusual Encrypted Files]], [[id:0d246a0a-1cee-44b7-bb8f-2f266434537b][Anomalous Bulk Scan Data]] and
+[[id:a6d0f164-d392-4971-a30b-aa35da3c16ff][Unidentified Scan Archives]]
 
 * Progress
 
@@ -37,8 +37,8 @@ Finished
 The HIP 43670 system is hosting two competing delivery initiatives, each
 of which aims to benefit the Scriveners Clan.
 
-Orion University has partnered with Independent HIP 43670 Labour, which
-is requesting deliveries of anomalous bulk scan data, unusual encrypted
+[[id:b0f0e40a-14e9-422d-aa9d-5ff6296f3421][Orion University]] has partnered with Independent HIP 43670 Labour, which
+is requesting deliveries of [[id:3b903a70-280c-4b0c-8240-e97c4c970d92][anomalous]] bulk scan data, unusual encrypted
 files and unidentified scan archives to Shaara Gateway in HIP 43670.
 
 The university's campaign was explained by Vice Chancellor Leland
@@ -60,5 +60,5 @@ case. If neither campaign reaches the maximum tier, then the one with
 the highest proportional tier completion will be considered victorious.
 
 The dual initiatives begin on the 18th of November 3307 and will run for
-one week. Should the campaign to support Orion University reach the
+one week. Should the campaign to support [[id:b0f0e40a-14e9-422d-aa9d-5ff6296f3421][Orion University]] reach the
 maximum tier it will end immediately.

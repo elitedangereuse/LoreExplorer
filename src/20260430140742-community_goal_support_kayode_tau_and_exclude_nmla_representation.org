@@ -11,7 +11,7 @@ Tilman Point | New Chana
 
 * Objective
 
-Hand in Anomalous Bulk Scan Data and Unusual Encrypted Files
+Hand in [[id:0d246a0a-1cee-44b7-bb8f-2f266434537b][Anomalous Bulk Scan Data]] and [[id:8818c253-2e79-4713-bbac-619035ee2b8b][Unusual Encrypted Files]]
 
 * Progress
 
@@ -34,32 +34,32 @@ Tier 4/5
 Finished
 
 Rival candidates have requested deliveries of data to help secure their
-bids to lead the Marlinist Consulate.
+bids to lead the [[id:46536da8-abd4-461f-9bf9-b749d4fc25e1][Marlinist]] Consulate.
 
-The Marlinist Colonies are voting for who will be elected as their prime
+The [[id:46536da8-abd4-461f-9bf9-b749d4fc25e1][Marlinist]] Colonies are voting for who will be elected as their prime
 consul. This influential role will diplomatically represent all
 Marlinists and make broad decisions on their behalf.
 
 The first candidate is Verity Dexter from the Marlinism Reformation
 Party, which is acting as the NMLA political wing. She has the support
-of Senator Lorcan Scordato to be made an Imperial patron:
+of Senator [[id:8cfd3744-1045-457f-900e-715fe6c15ca8][Lorcan Scordato]] to be made an Imperial patron:
 
 "I am in a unique position to finally provide our people with a voice
-in the Imperial Senate, and to speak for Neo-Marlinists. As prime
+in the [[id:6b539fa1-7ebe-44d3-874b-41a3bd400af9][Imperial Senate]], and to speak for Neo-Marlinists. As prime
 consul, I will negotiate a permanent peace with the NMLA."
 
-The second candidate, Kayode Tau of the Free Marlinist Movement, is
-focused on sustaining the Marlinist Colonies:
+The second candidate, Kayode Tau of the Free [[id:46536da8-abd4-461f-9bf9-b749d4fc25e1][Marlinist]] Movement, is
+focused on sustaining the [[id:46536da8-abd4-461f-9bf9-b749d4fc25e1][Marlinist]] Colonies:
 
-"Neo-Marlinism and terrorism have no place within our republican
+"[[id:ec1cb30c-2e72-410b-a664-0d609a352100][Neo-Marlinism]] and terrorism have no place within our republican
 ideals. I will strive to keep our systems independent, and to protect
 the rights of peaceful Marlinists everywhere."
 
 In order to support Kayode Tau and exclude NMLA representation, he has
-requested deliveries of anomalous bulk scan data and unusual encrypted
+requested deliveries of [[id:3b903a70-280c-4b0c-8240-e97c4c970d92][anomalous]] bulk scan data and unusual encrypted
 files to Tilman Point in the Hyades Sector Ro-P B6-6 system.
 
-The Alliance, Empire and Federation have recognised the Marlinist
+[[id:1c4d53a2-d81f-4cfa-8001-eb77f2c79b5f][The Alliance]], [[id:541dcfb3-93ef-40e5-9284-bf5a4f999043][Empire]] and [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]] have recognised the [[id:46536da8-abd4-461f-9bf9-b749d4fc25e1][Marlinist]]
 Consulate as an ambassadorial body, and agreed that the election of its
 prime consul is a strictly internal matter.
 

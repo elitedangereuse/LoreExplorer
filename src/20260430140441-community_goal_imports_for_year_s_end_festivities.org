@@ -7,12 +7,12 @@
 
 * Location
 
-Davies High | Reorte
+[[id:aeb2ca41-e6ea-499c-a58e-7bc4427df58b][Davies High]] | [[id:5292d8c1-fa6e-4352-a03f-ef984f706203][Reorte]]
 
 * Objective
 
-Deliver Fish, Fruit and Vegetables, Animal Meat, Beer, Lavian Brandy,
-Anduliga Fire Works and Eranin Pearl Whisky
+Deliver [[id:6aec48eb-daf1-45ff-92d2-0ba46d6347f8][Fish]], [[id:9dbf5564-8fe2-46f3-930f-f3f1dbfecd26][Fruit and Vegetables]], [[id:33adaaf7-4206-4047-bbd9-81be1fc169c0][Animal Meat]], [[id:16605f5b-79a7-46d2-9a5c-b53826fc1b5f][Beer]], [[id:5efc49f5-465f-4dd8-afaa-b6bb3595a58c][Lavian Brandy]],
+[[id:618b671b-2863-4735-b7ef-30e5851e99a7][Anduliga Fire Works]] and [[id:4b31a774-1f16-4b74-964f-df0460e058af][Eranin Pearl Whisky]]
 
 * Progress
 
@@ -34,13 +34,13 @@ Tier 8/8
 
 Finished
 
-The Reorte system has been selected for the Alliance's end-of-year
+The [[id:5292d8c1-fa6e-4352-a03f-ef984f706203][Reorte]] system has been selected for the [[id:2506edb2-fef4-4723-85c6-02482635229d][Alliance]]'s end-of-year
 festivities, prompting huge demand for commodities.​
 ​
 Traders, performance artists and chefs throughout Allied space have
 already flocked to the system, where billions of attendees are expected.
 The planet Home is planning a synchronous firework display spanning
-every continent, while the habitation decks of Davies High will offer a
+every continent, while the habitation decks of [[id:aeb2ca41-e6ea-499c-a58e-7bc4427df58b][Davies High]] will offer a
 culinary celebration featuring dishes from across the galaxy.​
 ​
 Prime Minister Edward Mahon was the guest of honour at the commencement
@@ -52,14 +52,14 @@ have ceased. Through hard work and cooperation, we have proven ourselves
 capable of rising together in response to significant challenges. This
 is something each and every one of us can be proud of.
 
-And so, the Reorte system will host a celebration to tell future
+And so, the [[id:5292d8c1-fa6e-4352-a03f-ef984f706203][Reorte]] system will host a celebration to tell future
 generations about. We call upon the galactic community to ensure the
 system is well supplied, and look forward to rewarding these
 ever-reliable pilots for their continued service."
 
-The Reorte Mining Coalition has elected to oversee the initiative. Units
+The [[id:83d61aae-150c-4a38-81aa-0443046505c3][Reorte Mining Coalition]] has elected to oversee the initiative. Units
 of fish, fruit & vegetables, animal meat and beer have been requested at
-Davies High in the Reorte system. More exotic traders are also
-encouraged to bring units of Lavian Brandy, Anduliga Fire Works and
-Eranin Pearl Whiskey.​
+[[id:aeb2ca41-e6ea-499c-a58e-7bc4427df58b][Davies High]] in the [[id:5292d8c1-fa6e-4352-a03f-ef984f706203][Reorte]] system. More exotic traders are also
+encouraged to bring units of [[id:5efc49f5-465f-4dd8-afaa-b6bb3595a58c][Lavian Brandy]], [[id:618b671b-2863-4735-b7ef-30e5851e99a7][Anduliga Fire Works]] and
+[[id:f38c2905-34c5-45c1-a2f5-2ec352b6630f][Eranin]] Pearl Whiskey.​
 ​

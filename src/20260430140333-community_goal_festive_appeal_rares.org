@@ -11,7 +11,7 @@ Clauss Port | Santa Muerte
 
 * Objective
 
-Deliver Personal Gifts from Frost Dock in the Njambalba system
+Deliver [[id:6c3dd957-b045-409c-8beb-82d51c93afed][Personal Gifts]] from [[id:aea6f093-b65a-4a23-b818-4cabf62b555d][Frost Dock]] in the [[id:11660275-7ed5-48c1-b23f-3b09f280c61e][Njambalba]] system
 
 * Progress
 
@@ -40,8 +40,8 @@ Co-operative has placed an open order for personal gifts. The
 organisation's CEO, Nicolas St Clauss, released the following statement
 to the media:
 
-"This year we're asking pilots to bring goods from Frost Dock in the
-Njambalba system to Clauss Port in Santa Muerte. In exchange, we're
+"This year we're asking pilots to bring goods from [[id:aea6f093-b65a-4a23-b818-4cabf62b555d][Frost Dock]] in the
+[[id:11660275-7ed5-48c1-b23f-3b09f280c61e][Njambalba]] system to Clauss Port in Santa Muerte. In exchange, we're
 offering generous financial rewards and special festive prizes for those
 who make the largest contributions."
 
@@ -50,7 +50,7 @@ weeks. If the final target is met earlier than planned, the campaign
 will end immediately.
 
 To be eligible for rewards you must sign up as an active participant
-before delivering Personal Gifts from Frost Dock in the Njambalba system
+before delivering [[id:6c3dd957-b045-409c-8beb-82d51c93afed][Personal Gifts]] from [[id:aea6f093-b65a-4a23-b818-4cabf62b555d][Frost Dock]] in the [[id:11660275-7ed5-48c1-b23f-3b09f280c61e][Njambalba]] system
 to Clauss Port in the Santa Muerte system.
 
 Be aware that faction-state changes, UA bombing and other disruptive
@@ -58,9 +58,9 @@ events can negatively impact markets and station services, and could
 prevent the initiative from running smoothly.
 
 [Notes:\\\\](Notes:\\) Supply system:
-Frost Dock in the Njambalba system
+[[id:aea6f093-b65a-4a23-b818-4cabf62b555d][Frost Dock]] in the [[id:11660275-7ed5-48c1-b23f-3b09f280c61e][Njambalba]] system
 - Industrial Outpost, no large pads available, no shipyard, 32,306 Ls
-from main star, 156.02 Ly from Sol
+from main star, 156.02 Ly from [[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]]
 - Distance from source to destination: 224.82 Ly
 
 --Commanders who contribute to this Community Goal will get the Chrome

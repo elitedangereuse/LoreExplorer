@@ -7,12 +7,12 @@
 
 * Location
 
-Awyra Flirble | Eurybia
+Awyra Flirble | [[id:0dbd55a5-68d9-45c4-9a80-b2e41f79554c][Eurybia]]
 
 * Objective
 
 Deliver Unknown Technology Samples, Unknown Biological Matter, Ancient
-Relics and Explosives
+[[id:23f66b0e-9198-4dc8-a11c-fea8851e4e6d][Relics]] and [[id:6a105d93-c0fd-4c15-8c62-d8feb5d76fdb][Explosives]]
 
 * Progress
 
@@ -35,19 +35,19 @@ Tier 3/5
 Finished
 
 Following news that the Thargoids have attacked a Federal convoy in the
-Pleiades Sector IR-W d1-55 system, Aegis has recruited two of the
+[[id:cd15e78b-89d1-4051-bd92-05d0ab49ec17][Pleiades]] Sector IR-W d1-55 system, Aegis has recruited two of the
 galaxy's foremost independent engineers to immediately begin developing
 new defensive and offensive technologies.
 
-One of these engineers is Liz Ryder, a specialist in explosive weaponry,
-who spoke to The Federal Times about her involvement:
+One of these engineers is [[id:cb71ba02-e47b-4feb-a421-b1f2ecdce6f3][Liz Ryder]], a specialist in explosive weaponry,
+who spoke to [[id:be5df73c-519d-45ed-a541-9b70bc8ae97c][The Federal Times]] about her involvement:
 
 It's not about penetrating the Thargoids' shields -- we've been
 blowing each other up for centuries so we've gotten pretty good at
 dealing punishment -- it's about creating weapons that are specifically
 calibrated to damage Thargoid hardware.
 
-Ryder was asked if she thought it was too late to avert all-out conflict
+[[id:24e2cdd2-f3f3-45fa-9140-99711e77fd17][Ryder]] was asked if she thought it was too late to avert all-out conflict
 with the Thargoids:
 
 That's a question for the politicians. My job is to design weapons. And
@@ -56,9 +56,9 @@ run away or shoot back. At the moment, the first of those is our only
 option. It would be nice to have a second.
 
 Aegis has placed an open order for a range of Thargoid materials for use
-in the programme. Aegis Core has pledged to reward pilots who deliver
-Unknown Technology Samples, Unknown Biological Matter, Ancient Relics
-and Explosives to Awyra Flirble in the Eurybia system for Liz Ryder.
+in the programme. [[id:79f218d0-1350-4c43-95f3-0869621dd59a][Aegis Core]] has pledged to reward pilots who deliver
+Unknown Technology Samples, Unknown Biological Matter, Ancient [[id:23f66b0e-9198-4dc8-a11c-fea8851e4e6d][Relics]]
+and [[id:6a105d93-c0fd-4c15-8c62-d8feb5d76fdb][Explosives]] to Awyra Flirble in the [[id:0dbd55a5-68d9-45c4-9a80-b2e41f79554c][Eurybia]] system for [[id:cb71ba02-e47b-4feb-a421-b1f2ecdce6f3][Liz Ryder]].
 
 The campaign begins on the 21st of September and will run for one week.
 If the final target is met earlier than planned, the campaign will end
@@ -66,7 +66,7 @@ immediately.
 
 To be eligible for rewards you must sign up as an active participant
 before delivering Unknown Technology Samples, Unknown Biological Matter,
-Ancient Relics and Explosives to Awyra Flirble in the Eurybia system.
+Ancient [[id:23f66b0e-9198-4dc8-a11c-fea8851e4e6d][Relics]] and [[id:6a105d93-c0fd-4c15-8c62-d8feb5d76fdb][Explosives]] to Awyra Flirble in the [[id:0dbd55a5-68d9-45c4-9a80-b2e41f79554c][Eurybia]] system.
 
 Be aware that faction-state changes, UA bombing and other disruptive
 events can negatively impact markets and station services, and could

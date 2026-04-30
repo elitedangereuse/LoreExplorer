@@ -11,7 +11,7 @@ Wegner Market | Rind
 
 * Objective
 
-Deliver mined(!) Palladium, Osmium and Silver
+Deliver mined(!) [[id:dcc20e2e-26dd-4106-b23b-4df951876173][Palladium]], [[id:89bb247d-d459-4ebf-a000-698cd1d9c5fe][Osmium]] and Silver
 
 * Progress
 
@@ -33,13 +33,13 @@ Tier 8/8
 
 Finished
 
-The Empire has announced an initiative to bolster the superpower's
+[[id:1047d7bb-a08d-430d-a445-4ec9a1b2daa3][The Empire]] has announced an initiative to bolster the superpower's
 military strength. The initiative centres on a new training programme
 designed to create the next generation of starship pilots.
 
 A spokesperson for the Rind Gold Electronics Org, which is overseeing
 the initiative, released the following statement:
-Over the past six months, a research group based in Achenar has
+Over the past six months, a research group based in [[id:bed8c27f-3cbe-49ad-b86f-7d87eacf804a][Achenar]] has
 developed a state-of-the-art training programme designed to cultivate
 applicants' reflexes, coordination, perception and cognitive abilities.
 Provisional tests indicate that students in the full flush of youth,

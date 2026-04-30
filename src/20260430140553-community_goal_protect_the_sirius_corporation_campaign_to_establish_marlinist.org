@@ -11,7 +11,7 @@ Ellis Gateway | BD+05 1146
 
 * Objective
 
-Hand in Bounty Vouchers​
+Hand in [[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]]​
 
 * Progress
 
@@ -33,32 +33,32 @@ Tier 5/5
 
 Finished
 
-Sirius Corporation has offered to resolve the current standoff between
+[[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]] has offered to resolve the current standoff between
 superpowers by establishing colonies where the refugees can live
 independently.
 
-Li Yong-Rui, CEO of Sirius Corporation, summarised his proposal:
+[[id:f0655b3a-aca9-488f-bdb3-c481a42db384][Li Yong-Rui]], CEO of [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]], summarised his proposal:
 
-"It is clear that the Marlinists cannot return to the Empire, and are a
-destabilising presence within the Federation. We offer an alternative by
+"It is clear that the Marlinists cannot return to the [[id:541dcfb3-93ef-40e5-9284-bf5a4f999043][Empire]], and are a
+destabilising presence within the [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]]. We offer an alternative by
 constructing permanent habitats for their population. These will be
 self-governed and may freely trade with the galactic community."
 
-"Sirius cannot stand by while the risk of interstellar war increases. I
+"[[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] cannot stand by while the risk of interstellar war increases. I
 sincerely hope this leads to a more stable and profitable period for us
 all."
 
-After intense debate, both Congress and the Senate accepted the
+After intense debate, both Congress and the [[id:b1182341-2de3-4e2c-8056-2bcea537233a][Senate]] accepted the
 proposal, with the proviso that any refugees identified as NMLA members
-will be returned to the Empire.
+will be returned to the [[id:541dcfb3-93ef-40e5-9284-bf5a4f999043][Empire]].
 
-Dr Jenna Fairfax, a Marlinist community leader, also offered her
+Dr [[id:71f78d3e-edc5-423c-8b74-0bad5470c6f5][Jenna Fairfax]], a [[id:46536da8-abd4-461f-9bf9-b749d4fc25e1][Marlinist]] community leader, also offered her
 approval:
 
 "We were forced to abandon our entire lives because of our political
 beliefs. This at least gives us a chance to have homes again."
 
-Sirius Corporation has requested the support of independent pilots to
+[[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]] has requested the support of independent pilots to
 counter any piracy or other acts that may interfere with the supply of
 commodities, and will handsomely reward such efforts.
 Hand in your bounties to the Omega Merchant Command at Ellis Gateway in

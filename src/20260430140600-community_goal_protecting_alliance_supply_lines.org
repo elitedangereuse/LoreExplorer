@@ -7,11 +7,11 @@
 
 * Location
 
-Darwin Research Facility | California Sector BV-Y c7
+[[id:b191bbd1-f2ed-4371-9aae-f17f76db44b3][Darwin Research Facility]] | [[id:cba54e17-62e5-4dc8-be29-a425cd07e6cf][California Sector BV-Y c7]]
 
 * Objective
 
-Protect Alliance Supply Lines
+Protect [[id:2506edb2-fef4-4723-85c6-02482635229d][Alliance]] Supply Lines
 
 * Progress
 
@@ -33,6 +33,6 @@ Tier 6/8
 
 Finished
 
-Darwin Research Facility, California Sector BV-Y c7 -- Earn rewards by
-handing in Alliance Bounty Vouchers at Darwin Research Facility in the
-California Sector BV-Y c7 system.
+[[id:b191bbd1-f2ed-4371-9aae-f17f76db44b3][Darwin Research Facility]], [[id:cba54e17-62e5-4dc8-be29-a425cd07e6cf][California Sector BV-Y c7]] -- Earn rewards by
+handing in [[id:2506edb2-fef4-4723-85c6-02482635229d][Alliance]] [[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]] at [[id:b191bbd1-f2ed-4371-9aae-f17f76db44b3][Darwin Research Facility]] in the
+[[id:cba54e17-62e5-4dc8-be29-a425cd07e6cf][California Sector BV-Y c7]] system.

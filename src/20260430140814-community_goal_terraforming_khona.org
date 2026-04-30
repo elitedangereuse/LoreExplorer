@@ -11,7 +11,7 @@ Ziemianski Enterprise | Khona
 
 * Objective
 
-Sell Auto-Fabricators to Ziemianski Enterprise
+Sell [[id:5d99c688-f21a-41e1-9ebb-00b626b4c31f][Auto-Fabricators]] to Ziemianski Enterprise
 
 * Progress
 
@@ -38,11 +38,11 @@ entered the third stage of its terraforming process. Technicians working
 for Big G Corporation are currently in the process of preparing the
 necessary equipment in order to launch the next stage.
 
-Unfortunately due to lack of Auto-Fabricators, the project has been
+Unfortunately due to lack of [[id:5d99c688-f21a-41e1-9ebb-00b626b4c31f][Auto-Fabricators]], the project has been
 temporarily delayed until such time as an adequate supply of
-Auto-Fabricators can be obtained.
+[[id:5d99c688-f21a-41e1-9ebb-00b626b4c31f][Auto-Fabricators]] can be obtained.
 
 In order to get the project back on schedule, the Khona People's Party
-are offering a range of rewards to pilots who help ship Auto-Fabricators
+are offering a range of rewards to pilots who help ship [[id:5d99c688-f21a-41e1-9ebb-00b626b4c31f][Auto-Fabricators]]
 to the technicians aboard Ziemianski Enterprise before the project
 enters stage 3.

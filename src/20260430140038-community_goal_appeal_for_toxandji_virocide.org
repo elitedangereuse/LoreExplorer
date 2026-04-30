@@ -7,11 +7,11 @@
 
 * Location
 
-Wright City | Elli
+[[id:a443f49b-b347-4aec-8e3d-96932a23046d][Wright City]] | [[id:b555bc13-0686-4eb7-b73f-a1116908fad9][Elli]]
 
 * Objective
 
-Earn rewards by delivering Toxandji Virocide to Wright City in the Elli
+Earn rewards by delivering [[id:1c68e942-6f27-44f7-a8a5-b458c544a9fd][Toxandji Virocide]] to [[id:a443f49b-b347-4aec-8e3d-96932a23046d][Wright City]] in the [[id:b555bc13-0686-4eb7-b73f-a1116908fad9][Elli]]
 system
 
 * Progress
@@ -34,22 +34,22 @@ Tier 6/8
 
 Finished
 
-A mysterious organisation known as Revolution Incorporated has issued an
-appeal for Toxandji Virocide, a rare pesticide.
+A mysterious organisation known as [[id:8ec6df28-592d-4db6-bc07-84ab2a3882ec][Revolution Incorporated]] has issued an
+appeal for [[id:1c68e942-6f27-44f7-a8a5-b458c544a9fd][Toxandji Virocide]], a rare pesticide.
 
 The chemical is commonly used in industrial-scale agriculture, and can
 be 'programmed' to target specific parasites.
 
-The reason for the request is not clear, but Revolution Incorporated has
+The reason for the request is not clear, but [[id:8ec6df28-592d-4db6-bc07-84ab2a3882ec][Revolution Incorporated]] has
 promised to generously reward those who deliver the requested commodity
-to Wright City in the Elli system.
+to [[id:a443f49b-b347-4aec-8e3d-96932a23046d][Wright City]] in the [[id:b555bc13-0686-4eb7-b73f-a1116908fad9][Elli]] system.
 
 The campaign begins on the 5th of November 3302 and will run until the
 10th of November 3302. If the final target is met earlier than planned,
 the campaign will end immediately.
 
 To be eligible for rewards you must sign up as an active participant
-before delivering Toxandji Virocide to Wright City in the Elli system.
+before delivering [[id:1c68e942-6f27-44f7-a8a5-b458c544a9fd][Toxandji Virocide]] to [[id:a443f49b-b347-4aec-8e3d-96932a23046d][Wright City]] in the [[id:b555bc13-0686-4eb7-b73f-a1116908fad9][Elli]] system.
 
 The project is scheduled to run for one week, but if the final target is
 met earlier than planned the campaign will end immediately.
@@ -70,11 +70,11 @@ Top 100%: 600,000 CR
 
 [Notes:\\\\](Notes:\\)
 
--   Toxiandji Virocide is available only from Tsunenaga Orbital ( 7,749
+-   Toxiandji Virocide is available only from [[id:27737d4e-aaa5-40e5-89a7-0ea3814f1992][Tsunenaga Orbital]] ( 7,749
     Ls
 
-from main star, Large pads available) in Toxandji (116.8 Ly from Elli);
+from main star, Large pads available) in [[id:2ba6f216-ed6d-4b05-9b5f-ab42c938df0d][Toxandji]] (116.8 Ly from [[id:b555bc13-0686-4eb7-b73f-a1116908fad9][Elli]]);
 
-- To sign up for the Appeal For Toxandji Virocide CG, you need to go to
-Elli \[Wright City\] to be able to see & sign up for this CG at that
+- To sign up for the Appeal For [[id:1c68e942-6f27-44f7-a8a5-b458c544a9fd][Toxandji Virocide]] CG, you need to go to
+[[id:b555bc13-0686-4eb7-b73f-a1116908fad9][Elli]] \[[[id:a443f49b-b347-4aec-8e3d-96932a23046d][Wright City]]\] to be able to see & sign up for this CG at that
 stations Mission Board.

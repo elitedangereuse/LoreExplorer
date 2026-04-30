@@ -7,11 +7,11 @@
 
 * Location
 
-Chariot of Rhea | Leesti
+Chariot of [[id:6da9023a-ccb6-444a-be77-626dfb552eb1][Rhea]] | [[id:e7c94b38-cdfb-48da-a1c4-cdad10c3371a][Leesti]]
 
 * Objective
 
-Deliver Titanium, Energy Grid Assembly, Power Transfer Bus and Magnetic
+Deliver [[id:d727fb19-8dc0-4d94-bcd4-da1cb5c090f0][Titanium]], [[id:ec55516c-d292-4c5b-8390-b665453c8118][Energy Grid Assembly]], [[id:eea9a598-34c9-48d9-b4a5-d3dbd06e56e2][Power Transfer Bus]] and Magnetic
 Emitter Coil
 
 * Progress
@@ -34,31 +34,31 @@ Tier 2/6
 
 Finished
 
-Supplies have been requested in the Leesti system to help improve the
-infrastructure of the Alliance Defence Force.
+Supplies have been requested in the [[id:e7c94b38-cdfb-48da-a1c4-cdad10c3371a][Leesti]] system to help improve the
+infrastructure of the [[id:17d9294e-7759-4cf4-9a67-5f12b5704f51][Alliance Defence Force]].
 
-The initiative was outlined by Admiral Nikolas Glass, the representative
-from the Sirius Navy who sits on the Council of Admirals:
+The initiative was outlined by Admiral [[id:2e8a3cd7-5f4e-47dc-ba7f-eb732bf8c7fa][Nikolas Glass]], the representative
+from the [[id:3dd2f3c7-3ddf-4900-aa28-580344edd509][Sirius Navy]] who sits on the [[id:b0b347ac-10b8-4190-8787-1557f7d4a6da][Council of Admirals]]:
 
-"The shocking events in the HIP 22460 system have increased the need
+"The shocking events in the [[id:55088d83-4221-44fa-a9d5-6ebb0866c722][HIP 22460]] system have increased the need
 for Allied systems to prepare stronger defences against the Thargoid
 menace. Therefore, we have begun work to enhance the responsive
-capabilities of the Alliance Defence Force."
+capabilities of the [[id:17d9294e-7759-4cf4-9a67-5f12b5704f51][Alliance Defence Force]]."
 
-"As a first step, Sirius Corporation will outfit new sentry megaships,
-which will possess the experimental AX weapons that were deployed by the
+"As a first step, [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]] will outfit new sentry megaships,
+which will possess the experimental [[id:6023377d-7271-49d1-80ec-ffab82dc8c29][AX weapons]] that were deployed by the
 Oath of Tyndareus. The more resources we can gather, the more megaships
 we can prepare. These will then serve as operational hubs for anti-xeno
 engagements within Allied space."
 
 "The materials required are energy grid assemblies, magnetic emitter
 coils, power transfer buses and titanium. Pilots who transport these to
-the Chariot of Rhea in the Leesti system will be rewarded for their
+the Chariot of [[id:6da9023a-ccb6-444a-be77-626dfb552eb1][Rhea]] in the [[id:e7c94b38-cdfb-48da-a1c4-cdad10c3371a][Leesti]] system will be rewarded for their
 efforts."
 
-In related news, Sirius Corporation's megaship El Centinela Cadejo has
-completed rescue efforts following the disaster in HIP 22460. Under
-orders from Admiral Glass, it has returned to the Arimpox system from
+In related news, [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]]'s megaship El Centinela Cadejo has
+completed rescue efforts following the disaster in [[id:55088d83-4221-44fa-a9d5-6ebb0866c722][HIP 22460]]. Under
+orders from Admiral Glass, it has returned to the [[id:b716cd52-6ba1-4fdc-a555-d01bc73b2893][Arimpox]] system from
 where the survivors will be transported to their homes.
 
 The campaign will end on the 25th August 3308. If the final target is

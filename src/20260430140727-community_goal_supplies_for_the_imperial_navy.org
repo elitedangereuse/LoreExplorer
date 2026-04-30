@@ -11,7 +11,7 @@ Mitchell Hangar | Sirsir
 
 * Objective
 
-Deliver Battle Weapons, Reactive Armour and Imperial Slaves to Mitchell
+Deliver [[id:6f8b14ec-06ee-4f36-b646-15146a0ca81b][Battle Weapons]], [[id:85a9f73a-636f-459f-8a46-d93b1a3dca16][Reactive Armour]] and [[id:02df3938-8684-467d-b46e-cd60621e1fd3][Imperial Slaves]] to Mitchell
 Hangar in the Sirsir system.
 
 * Progress
@@ -35,15 +35,15 @@ Tier 3/8
 Finished
 
 An open order for military supplies has been placed on behalf of the
-Imperial Navy by the Sirsir Co. A spokesperson for the organisation gave
+[[id:e9becd28-9644-42aa-afc8-7bba3ce10076][Imperial Navy]] by the Sirsir Co. A spokesperson for the organisation gave
 the following statement:
 
-The Imperial Navy's logistics division has authorised us to process
-deliveries of Battle Weapons, Reactive Armour and Imperial Slaves. The
+The [[id:e9becd28-9644-42aa-afc8-7bba3ce10076][Imperial Navy]]'s logistics division has authorised us to process
+deliveries of [[id:6f8b14ec-06ee-4f36-b646-15146a0ca81b][Battle Weapons]], [[id:85a9f73a-636f-459f-8a46-d93b1a3dca16][Reactive Armour]] and [[id:02df3938-8684-467d-b46e-cd60621e1fd3][Imperial Slaves]]. The
 drop-off point is Mitchell Hangar in the Sirsir system.
 
 To be eligible for rewards you must sign up as an active participant
-before delivering Battle Weapons, Reactive Armour and Imperial Slaves to
+before delivering [[id:6f8b14ec-06ee-4f36-b646-15146a0ca81b][Battle Weapons]], [[id:85a9f73a-636f-459f-8a46-d93b1a3dca16][Reactive Armour]] and [[id:02df3938-8684-467d-b46e-cd60621e1fd3][Imperial Slaves]] to
 Mitchell Hangar in the Sirsir system.
 
 Be aware that faction-state changes and other disruptive events can

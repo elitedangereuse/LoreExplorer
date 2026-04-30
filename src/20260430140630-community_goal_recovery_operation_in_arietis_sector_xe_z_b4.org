@@ -11,7 +11,7 @@ PRE Logistics Support Beta | Arietis Sector XE-Z b4
 
 * Objective
 
-Deliver Black Boxes and Personal Effects to Search and Rescue contact
+Deliver Black Boxes and [[id:e0f1c53d-a3ba-41c2-a21c-a7afecfcebbd][Personal Effects]] to Search and Rescue contact
 
 * Progress
 
@@ -44,10 +44,10 @@ reported.
 The purpose of the two-pronged operation is to reduce the Thargoid
 presence in Arietis Sector XE-Z b4, and to recover black boxes and
 personal effects from Thargoid attack sites in the system. The latter
-initiative is being overseen by the Pleiades Resource Enterprise. Pilots
+initiative is being overseen by the [[id:268dd81e-54f9-447a-9a47-11b2f7242e81][Pleiades Resource Enterprise]]. Pilots
 who support the campaign will be eligible for substantial rewards.
 
-Admiral Denton Patreus launched the campaign with the following
+Admiral [[id:75daea85-5e9f-4f6f-a102-1a5edea0283c][Denton Patreus]] launched the campaign with the following
 statement:
 We know that militias of experienced combat pilots are particularly
 effective against the Thargoids, but we must not be complacent. Our

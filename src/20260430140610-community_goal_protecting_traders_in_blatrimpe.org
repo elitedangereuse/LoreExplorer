@@ -11,7 +11,7 @@ Boltzmann Hub | Blatrimpe
 
 * Objective
 
-Hand in Bounty Vouchers
+Hand in [[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]]
 
 * Progress
 
@@ -33,13 +33,13 @@ Tier 5/8
 
 Finished
 
-The Federal Navy has requested a large shipment of Duradrive personal
-computers from manufacturer Herculean Machines. To fulfil the request,
+The [[id:3d268496-1d95-49bc-aca6-49d16a4337c8][Federal Navy]] has requested a large shipment of Duradrive personal
+computers from manufacturer [[id:46e9f326-2119-4d5b-a625-a32820a44642][Herculean Machines]]. To fulfil the request,
 Herculean has placed an open order for various commodities, in addition
 to organising a combat mission to protect those contributing to the
 initiative.
 
-Maddox Hurd, the company's CEO, made this announcement:
+[[id:93fd6de1-43a9-40e8-819f-43d9bcd3a709][Maddox Hurd]], the company's CEO, made this announcement:
 The campaign is being coordinated by our partner, Blatrimpe Allied Co
 Commodities, which has placed a kill order on all wanted ships to keep
 traders safe. I haven't ruled out the possibility that our rivals might

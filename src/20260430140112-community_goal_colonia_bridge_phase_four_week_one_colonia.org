@@ -7,11 +7,11 @@
 
 * Location
 
-Jaques Station | Colonia
+[[id:935880a2-d4fb-4d27-ad48-0f95112ee0fe][Jaques Station]] | [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]]
 
 * Objective
 
-Deliver Coffee, Geological Equipment, Liquid oxygen and Emergency Power
+Deliver [[id:17e9c920-2c60-4aad-975a-c52e81030b1e][Coffee]], [[id:0e04d76f-beb3-4466-b944-dc0a2088534e][Geological Equipment]], [[id:1f06f768-18a2-4003-92db-9bbc8f51ebb6][Liquid oxygen]] and Emergency Power
 Cells
 
 * Progress
@@ -34,43 +34,43 @@ Tier 2/3
 
 Finished
 
-Deliveries have been requested in the Alcor and Colonia systems to
-implement services to the Colonia Bridge starports.
+Deliveries have been requested in the [[id:eb11ab9d-aab7-4d9b-aeaf-a228ef33d4da][Alcor]] and [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] systems to
+implement services to the [[id:97a8c7e5-9399-4ebe-9457-8029ce809303][Colonia Bridge]] starports.
 
-A press release from Brewer Corporation provided the details:
+A press release from [[id:d9459015-dae3-4233-9eb7-a2fb11344097][Brewer Corporation]] provided the details:
 
-"The fourth and final phase of our Colonia Bridge project will take
+"The fourth and final phase of our [[id:97a8c7e5-9399-4ebe-9457-8029ce809303][Colonia Bridge]] project will take
 place over the next four weeks. Our goal is to finish constructing the
-starports that were recently added to the route between the Colonia and
-Alcor systems."
+starports that were recently added to the route between the [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] and
+[[id:eb11ab9d-aab7-4d9b-aeaf-a228ef33d4da][Alcor]] systems."
 
-"For the first week, we require deliveries of Coffee, Emergency Power
-Cells, Geological Equipment and Liquid Oxygen to Jaques Station in the
-Colonia system. If we receive sufficient commodities, we can add
-Universal Cartographics and Vista Genomics to the starport closest to
-the Colonia region."
+"For the first week, we require deliveries of [[id:17e9c920-2c60-4aad-975a-c52e81030b1e][Coffee]], Emergency Power
+Cells, [[id:0e04d76f-beb3-4466-b944-dc0a2088534e][Geological Equipment]] and Liquid Oxygen to [[id:935880a2-d4fb-4d27-ad48-0f95112ee0fe][Jaques Station]] in the
+[[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] system. If we receive sufficient commodities, we can add
+[[id:2fb00d7f-7234-45fa-8e3c-af685aa8f0d8][Universal Cartographics]] and Vista Genomics to the starport closest to
+the [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] region."
 
-"Everyone at Brewer Corporation was impressed by the galactic
-community's dedication to improving the travel corridor to the Colonia
+"Everyone at [[id:d9459015-dae3-4233-9eb7-a2fb11344097][Brewer Corporation]] was impressed by the galactic
+community's dedication to improving the travel corridor to the [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]]
 region. For this week's initiative, contributing pilots have the
 opportunity to be rewarded with a generous number of credits. In
 subsequent weeks, we will be offering a variety of additional
 rewards."
 
 "Following feedback from our shareholders, we also plan to install
-beacons to recognise the major contributors to all phases of the Colonia
+beacons to recognise the major contributors to all phases of the [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]]
 Bridge project. The top ten contributors of every past and upcoming
-Colonia Bridge initiative will be listed on these beacons to immortalise
+[[id:97a8c7e5-9399-4ebe-9457-8029ce809303][Colonia Bridge]] initiative will be listed on these beacons to immortalise
 the names of these pilots."
 
-The Colonia Bridge starports currently offer rearm, refuel and repair
+The [[id:97a8c7e5-9399-4ebe-9457-8029ce809303][Colonia Bridge]] starports currently offer rearm, refuel and repair
 services as well as basic commodity trading. The second, third and
 fourth weeks of this phase will focus on adding further services.
 
-Each tier reached will enable Brewer Corporation to establish a further
-service to the first starport out from Colonia, as follows:
+Each tier reached will enable [[id:d9459015-dae3-4233-9eb7-a2fb11344097][Brewer Corporation]] to establish a further
+service to the first starport out from [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]], as follows:
 
-Tier 1: Universal Cartographics
+Tier 1: [[id:2fb00d7f-7234-45fa-8e3c-af685aa8f0d8][Universal Cartographics]]
 Tier 2: Vista Genomics
 
 Part one of the four-week campaign begins on the 10th of February 3308

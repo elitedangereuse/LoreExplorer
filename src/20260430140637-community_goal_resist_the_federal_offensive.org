@@ -11,7 +11,7 @@ Agnesi City | Kausalya
 
 * Objective
 
-Help Emperor's Dawn resist the Federal Attack and sell your Combat
+Help Emperor's Dawn resist the Federal [[id:04673d31-5035-4581-b189-60da2755007c][Attack]] and sell your Combat
 Bonds at Agnesi City.
 
 * Progress
@@ -34,7 +34,7 @@ Tier 0/3
 
 Finished
 
-The Federation has discovered an Emperor's Dawn base in the Federal
+The [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]] has discovered an Emperor's Dawn base in the Federal
 system of Kausalya, and dispatched a military force to destroy it.
 Emperor's Dawn has responded with a call for aid, pledging to reward
 any pilots who help them resist the Federal offensive.
