@@ -33,14 +33,14 @@ Tier 1/5
 
 Finished
 
-The Federation has offered bounties to hunt down all surviving Red
+The [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]] has offered bounties to hunt down all surviving Red
 Family ships in the Andowatye system.
 
-Executive Agent Faisal Sacranie of the Federal Intelligence Agency
+Executive Agent Faisal Sacranie of the [[id:d75a6c3f-5c3a-418b-b639-5e14b487f568][Federal Intelligence Agency]]
 released this statement:
 
-"Information provided by the Proactive Detection Bureau revealed that
-the notorious Oberon Church has gathered his remaining followers in .
+"Information provided by the [[id:ea0acf7b-8942-4f0c-a78e-18b1e0a3fd8a][Proactive Detection Bureau]] revealed that
+the notorious [[id:92195d40-b978-4f51-bec2-3a5c34c0bd60][Oberon Church]] has gathered his remaining followers in .
 Our mission to take down the narcotics syndicate is not complete until
 its kingpin has been arrested and charged for his long list of
 crimes."
@@ -49,7 +49,7 @@ crimes."
 for this operation. We are working closely with the United Andowatye
 Democrats, which has placed bounties on all wanted ships in this
 system."
-"It is crucial that our agents locate Oberon Church before he departs
+"It is crucial that our agents locate [[id:92195d40-b978-4f51-bec2-3a5c34c0bd60][Oberon Church]] before he departs
 from the system. If we cannot eliminate his defenders in time, he may
 once again escape justice and re-establish his drugs empire from the
 shadows. We have a duty to all Federal citizens to prevent this from

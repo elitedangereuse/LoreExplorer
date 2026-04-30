@@ -7,7 +7,7 @@
 
 * Location
 
-Nusslein-Volhard Settlement | Zlota
+[[id:014990fb-678e-47fe-9898-8b27f633c001][Nusslein-Volhard]] Settlement | [[id:5849073c-4bb5-4d8e-8d9f-991a1a8dad06][Zlota]]
 
 * Objective
 
@@ -33,10 +33,10 @@ Tier 8/9
 
 Finished
 
-The Empire is offering bounties on Thargoid vessels in the Novas
+[[id:1047d7bb-a08d-430d-a445-4ec9a1b2daa3][The Empire]] is offering bounties on Thargoid vessels in the [[id:b38c4ed0-3aaa-4a86-8acd-a241164d680f][Novas]]
 system.
 
-Commodore Morag Halloran, who coordinates Salvation's military forces,
+Commodore [[id:bcaa9222-b056-41cf-9361-68dd8d3424fb][Morag Halloran]], who coordinates Salvation's military forces,
 broadcast this message on public channels:
 
 "Salvation has started construction of three anti-xeno superweapons to
@@ -44,17 +44,17 @@ expunge the latest Thargoid infestation. He estimates two more weeks
 before these devices become operational. Until that time, it is vital
 that we keep the Thargoids at bay to minimise civilian casualties."
 
-The anti-xeno taskforce of the Imperial Navy is part of a joint
+The anti-xeno taskforce of the [[id:e9becd28-9644-42aa-afc8-7bba3ce10076][Imperial Navy]] is part of a joint
 operation to buy time for the superweapons to be completed. This
-includes rewarding independent pilots for defending the Novas system.
+includes rewarding independent pilots for defending the [[id:b38c4ed0-3aaa-4a86-8acd-a241164d680f][Novas]] system.
 
 Commanders can hand in combat bonds for Thargoid kills until the 12th of
-May 3308 at Nusslein-Volhard Settlement in the Zlota system.
+May 3308 at [[id:014990fb-678e-47fe-9898-8b27f633c001][Nusslein-Volhard]] Settlement in the [[id:5849073c-4bb5-4d8e-8d9f-991a1a8dad06][Zlota]] system.
 
-Jade Sanderlyn, a reporter for Vox Galactica, has been granted
+[[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]], a reporter for [[id:4ab0f53c-0b85-43a3-83ca-b9e88c0db30e][Vox Galactica]], has been granted
 permission to interview the admirals in command of the taskforces. Her
-conversation with Admiral Henry Paul Atherton is being broadcast by the
-flagship INV Succession in Novas and will be syndicated via newsfeeds.
+conversation with Admiral [[id:2b3e8681-1d08-450e-ad9f-fe5179104b36][Henry Paul Atherton]] is being broadcast by the
+flagship INV Succession in [[id:b38c4ed0-3aaa-4a86-8acd-a241164d680f][Novas]] and will be syndicated via newsfeeds.
 
 The campaign begins on the 28th April and will run until the 12th May
 3308.

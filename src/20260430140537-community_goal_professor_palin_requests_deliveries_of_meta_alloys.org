@@ -11,7 +11,7 @@ James Sneddon | Morten-Marte
 
 * Objective
 
-Deliver Meta-Alloys
+Deliver [[id:da2f167d-0157-4deb-afb2-98bf6518cf01][Meta-Alloys]]
 
 * Progress
 
@@ -36,7 +36,7 @@ Finished
 Commanders have been asked to collect meta-alloys from Thargoid
 barnacles as part of a wider xenological study.
 
-The research project is being orchestrated by Professor Ishmael Palin,
+The research project is being orchestrated by [[id:8f63442a-1f38-457d-857a-38297d732a90][Professor Ishmael Palin]],
 one of the most prominent experts in Thargoid technology:
 
 "With escalating Thargoid activity in the core systems, it is
@@ -61,7 +61,7 @@ selected contributors. The 5A and 6A versions have been exclusively
 manufactured for this project, and are not commercially available at
 present.
 
-Professor Palin stated that possessing these cargo racks will be of
+[[id:79ddf44d-7d17-4026-90c2-f39013e75ee7][Professor Palin]] stated that possessing these cargo racks will be of
 great benefit in the project's planned second phase, scheduled to occur
 in the next few weeks.
 

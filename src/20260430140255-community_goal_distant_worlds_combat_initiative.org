@@ -7,11 +7,11 @@
 
 * Location
 
-Omega Mining Operation | Omega Sector VE-Q b5-15
+[[id:c9a8428d-c6ed-4493-859f-0654c5784a5c][Omega Mining Operation]] | Omega Sector VE-Q b5-15
 
 * Objective
 
-Hand in Bounty Vouchers
+Hand in [[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]]
 
 * Progress
 
@@ -45,7 +45,7 @@ week. If the final target is met earlier than planned, the campaign will
 end immediately.
 
 To earn rewards you must sign up as an active participant before handing
-in Bounty Vouchers at Omega Mining Operation in the Omega Sector VE-Q
+in [[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]] at [[id:c9a8428d-c6ed-4493-859f-0654c5784a5c][Omega Mining Operation]] in the Omega Sector VE-Q
 b5-15 system. Only bounty vouchers handed in after signing up will count
 toward your personal contribution total.
 

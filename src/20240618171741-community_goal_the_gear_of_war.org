@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       daf671e7-4538-4b82-a78f-5fa96a422561
+:ROAM_REFS: file:../references/Community%20Goals/The_Gear_of_War__Trade_.md
 :END:
 #+title: Community Goal: The Gear of War
 #+filetags: :Federation:CommunityGoal:3303:3302:galnet:

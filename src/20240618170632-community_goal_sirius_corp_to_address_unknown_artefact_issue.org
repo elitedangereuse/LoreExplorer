@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       5890470a-5e8d-4a3e-8408-66f4bcb703bc
+:ROAM_REFS: file:../references/Community%20Goals/Sirius_Corp__to_Address_Unknown_Artefact_Issue.md
 :END:
 #+title: Community Goal: Sirius Corp. to Address Unknown-Artefact Issue
 #+filetags: :CommunityGoal:3303:galnet:
@@ -8,12 +9,12 @@
 
 /19 Jan 3303/
 
-It is widely understood that Unknown Artefacts have the ability to extract materials from their immediate environment as part of a complex self-repair process. Unfortunately, this can have disastrous effects on starships and other forms of machinery. 
+It is widely understood that Unknown Artefacts have the ability to extract materials from their immediate environment as part of a complex self-repair process. Unfortunately, this can have disastrous effects on starships and other forms of machinery.
 
-Perhaps the worst affected by this phenomena have been the galaxy's starports, many of which have had to suspend services as a result of Unknown Artefact-related disruption. The high prices offered for Unknown Artefacts on the black market means many starports have been flooded with the mysterious objects. And although meta-alloys can be used to counter Unknown Artefact-related interference, the scarcity of the material means this potential salve has had little impact. 
+Perhaps the worst affected by this phenomena have been the galaxy's starports, many of which have had to suspend services as a result of Unknown [[id:61d906cd-478d-4ff2-9fb1-9a1d1f15a2ec][Artefact]]-related disruption. The high prices offered for Unknown Artefacts on the black market means many starports have been flooded with the mysterious objects. And although meta-alloys can be used to counter Unknown [[id:61d906cd-478d-4ff2-9fb1-9a1d1f15a2ec][Artefact]]-related interference, the scarcity of the material means this potential salve has had little impact.
 
-But a recent announcement from the [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]] indicates that the company intends to tackle the issue by funding a major new research and development project. The purpose of the project is to make starports and other outposts more resistant to Unknown Artefact-related interference through the application of specific microresources. 
+But a recent announcement from the [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]] indicates that the company intends to tackle the issue by funding a major new research and development project. The purpose of the project is to make starports and other outposts more resistant to Unknown [[id:61d906cd-478d-4ff2-9fb1-9a1d1f15a2ec][Artefact]]-related interference through the application of specific microresources.
 
-In support of this programme, the [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]] has placed an open order for unknown fragments, untypical shield scans and aberrant shield pattern analysis, and promised to reward pilots who deliver these materials to Cormack Hub in the Procyon system. 
+In support of this programme, the [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]] has placed an open order for unknown fragments, untypical shield scans and aberrant shield pattern analysis, and promised to reward pilots who deliver these materials to Cormack Hub in the [[id:6559bb6d-5d0b-41da-963e-d3400f7a22e4][Procyon]] system.
 
 The campaign begins on the 19th of January 3303 and will run for two weeks. If the final target is met earlier than planned, the campaign will end immediately.

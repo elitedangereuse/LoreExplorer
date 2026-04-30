@@ -11,7 +11,7 @@ Conway City | LTT 4961
 
 * Objective
 
-Deliver Titanium, Aluminium, Copper, and Tea
+Deliver [[id:d727fb19-8dc0-4d94-bcd4-da1cb5c090f0][Titanium]], [[id:94b9dcf4-6a45-48d6-96b9-a343eeeb4ec1][Aluminium]], [[id:705bcc40-0a7b-460c-83a5-a556a5ab3bb7][Copper]], and Tea
 
 * Progress
 
@@ -37,8 +37,8 @@ NULL, an independent organisation based in LTT 4961, has announced plans
 to build a new base at Greg's Legacy, a large asteroid named after one
 of the organisation's founding members.
 
-The organisation has placed an open order for Titanium, Aluminium,
-Copper and Tea in support of this initiative, and has promised to reward
+The organisation has placed an open order for [[id:d727fb19-8dc0-4d94-bcd4-da1cb5c090f0][Titanium]], [[id:94b9dcf4-6a45-48d6-96b9-a343eeeb4ec1][Aluminium]],
+[[id:705bcc40-0a7b-460c-83a5-a556a5ab3bb7][Copper]] and Tea in support of this initiative, and has promised to reward
 pilots who deliver these goods to Conway City in LTT 4961.
 
 A spokesperson for NULL released the following statement:
@@ -53,7 +53,7 @@ If the final target is met earlier than planned, the campaign will end
 immediately.
 
 To be eligible for rewards you must sign up as an active participant
-before delivering Titanium, Aluminium, Copper and Tea to Conway City in
+before delivering [[id:d727fb19-8dc0-4d94-bcd4-da1cb5c090f0][Titanium]], [[id:94b9dcf4-6a45-48d6-96b9-a343eeeb4ec1][Aluminium]], [[id:705bcc40-0a7b-460c-83a5-a556a5ab3bb7][Copper]] and Tea to Conway City in
 the LTT 4961 system.
 
 Be aware that faction-state changes, UA bombing and other disruptive

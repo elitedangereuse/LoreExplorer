@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       08203cb5-ee1d-4bd3-92d8-16962f3e8df6
+:ROAM_REFS: file:../references/Community%20Goals/Operation_Whirling_Dervish.md
 :END:
 #+title: Community Goal: Operation Whirling Dervish
 #+filetags: :CommunityGoal:3303:galnet:
@@ -8,12 +9,12 @@
 
 /15 Dec 3303/
 
-The GalCop Colonial Defence Commission has embarked on a campaign to establish a new Coriolis starport in the Ogmar system. The campaign – dubbed Operation Whirling Dervish – is designed to support further expansion in the Colonia region.
+The [[id:c71d963e-1933-4701-bb5a-d2a4332125c5][GalCop]] Colonial Defence Commission has embarked on a campaign to establish a new [[id:dfcd3273-3589-4725-a75f-5f1a08adc662][Coriolis]] starport in the Ogmar system. The campaign – dubbed Operation Whirling Dervish – is designed to support further expansion in the [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] region.
 
 Lou Brady, a spokesperson for the organisation, released the following statement:
 
 "The new starport will be able to accommodate more people, produce high-tech goods, and service larger vessels, making it an ideal platform for future activity in [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]]."
 
-The GalCop Colonial Defence Commission has placed an open order for atmospheric processors, CMM composites, indium, tantalum and thermal cooling units, and has promised to reward pilots who deliver these commodities to Dervish Platform in the Ogmar system.
+The [[id:c71d963e-1933-4701-bb5a-d2a4332125c5][GalCop]] Colonial Defence Commission has placed an open order for atmospheric processors, CMM composites, indium, tantalum and thermal cooling units, and has promised to reward pilots who deliver these commodities to Dervish Platform in the Ogmar system.
 
 The campaign begins on the 14th of December 3303 and will run for one week. If the final target is met earlier than planned, the campaign will end immediately.

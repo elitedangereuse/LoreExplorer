@@ -11,7 +11,7 @@ Lu Hub | Gandii
 
 * Objective
 
-Deliver Combat Bonds after fighting for the Gandii Justice Party
+Deliver [[id:bbbc7bc6-79d7-46b7-925e-c1f882c8f25a][Combat Bonds]] after fighting for the Gandii Justice Party
 
 * Progress
 
@@ -35,7 +35,7 @@ Finished
 
 Recent reports from the Gandii system indicate that conflict has erupted
 between the Hand Gang of Gandii, an organisation closely allied with
-self-styled 'pirate king' Archon Delaine, and the Gandii Justice
+self-styled 'pirate king' [[id:7aae0550-b8ba-42cf-b52b-e7040461c96f][Archon Delaine]], and the Gandii Justice
 Party.
 
 This is not the first time the Gandii Justice Party has traded blows
@@ -54,7 +54,7 @@ week-long operations to overcome their rivals, which will begin on the
 6th of April 3303.
 
 To be eligible for rewards you must sign up as an active participant
-before handing in Combat Bonds at Lu Hub in the Gandii system.
+before handing in [[id:bbbc7bc6-79d7-46b7-925e-c1f882c8f25a][Combat Bonds]] at Lu Hub in the Gandii system.
 
 Please note that if you have any crew members, a portion of your combat
 bonds will be automatically assigned to them. These combat bonds will

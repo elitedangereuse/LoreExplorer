@@ -33,10 +33,10 @@ Tier 8/9
 
 Finished
 
-The Federation is offering bounties on Thargoid vessels in the Sosong
+The [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]] is offering bounties on Thargoid vessels in the [[id:2a81ce70-848a-46eb-aa0b-b5626e78e8aa][Sosong]]
 system.
 
-Commodore Morag Halloran, who coordinates Salvation's military forces,
+Commodore [[id:bcaa9222-b056-41cf-9361-68dd8d3424fb][Morag Halloran]], who coordinates Salvation's military forces,
 broadcast this message on public channels:
 
 "Salvation has started construction of three anti-xeno superweapons to
@@ -44,17 +44,17 @@ expunge the latest Thargoid infestation. He estimates two more weeks
 before these devices become operational. Until that time, it is vital
 that we keep the Thargoids at bay to minimise civilian casualties."
 
-The anti-xeno taskforce of the Federal Navy is part of a joint operation
+The anti-xeno taskforce of the [[id:3d268496-1d95-49bc-aca6-49d16a4337c8][Federal Navy]] is part of a joint operation
 to buy time for the superweapons to be completed. This includes
-rewarding independent pilots for defending the Sosong system.
+rewarding independent pilots for defending the [[id:2a81ce70-848a-46eb-aa0b-b5626e78e8aa][Sosong]] system.
 
 Commanders can hand in combat bonds for Thargoid kills until the 12th of
 May 3308 at Sturckow Orbital in the Lesheima system.
 
-Jade Sanderlyn, a reporter for Vox Galactica, has been granted
+[[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]], a reporter for [[id:4ab0f53c-0b85-43a3-83ca-b9e88c0db30e][Vox Galactica]], has been granted
 permission to interview the admirals in command of the taskforces. Her
-conversation with Admiral Maxton Price is being broadcast by the
-flagship FNS Amphion in Sosong and will be syndicated via newsfeeds.
+conversation with Admiral [[id:fc81c469-4d55-4c83-bf0e-1f687e46af2c][Maxton Price]] is being broadcast by the
+flagship FNS Amphion in [[id:2a81ce70-848a-46eb-aa0b-b5626e78e8aa][Sosong]] and will be syndicated via newsfeeds.
 
 The campaign begins on the 28th April and will run until the 12th May
 3308.

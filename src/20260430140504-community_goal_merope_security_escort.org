@@ -7,11 +7,11 @@
 
 * Location
 
-Reed's Rest | Merope
+[[id:efbe5279-a647-4f97-9119-b334b90e0d95][Reed's Rest]] | [[id:70fa34ea-bc98-40ff-97f0-e4f4538387a6][Merope]]
 
 * Objective
 
-Hand in Bounty Vouchers
+Hand in [[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]]
 
 * Progress
 
@@ -33,13 +33,13 @@ Tier 3/8
 
 Finished
 
-The Atlas Research Group has urgently requested military materials to
-increase security in the Merope system.
+The [[id:db135581-804e-4f1e-9fce-ec2fe722e2c7][Atlas]] Research Group has urgently requested military materials to
+increase security in the [[id:70fa34ea-bc98-40ff-97f0-e4f4538387a6][Merope]] system.
 
-Defence Director Jacob Chowdhury said:
-The Thargoid presence throughout the Pleiades Nebula continues to be a
-major threat. To reassure the public, Atlas is investing in improved
-defences for the Merope system.
+Defence Director [[id:b95c418a-658c-41be-bfbc-939f73d1dfe1][Jacob Chowdhury]] said:
+The Thargoid presence throughout the [[id:7e99a467-6e3d-418e-8b10-72cf3660efa6][Pleiades Nebula]] continues to be a
+major threat. To reassure the public, [[id:db135581-804e-4f1e-9fce-ec2fe722e2c7][Atlas]] is investing in improved
+defences for the [[id:70fa34ea-bc98-40ff-97f0-e4f4538387a6][Merope]] system.
 
 To help protect incoming ships from criminal elements, we have allocated
 bounties to all wanted vessels in the system.

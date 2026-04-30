@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       75ce2511-88ef-4ee3-8dc2-f9d804514545
+:ROAM_REFS: file:../references/Community%20Goals/Winged_Hussars_Appeal.md
 :END:
 #+title: Community Goal: Winged Hussars Appeal
 #+filetags: :CommunityGoal:3303:galnet:
@@ -8,7 +9,7 @@
 
 /29 Sep 3303/
 
-The Winged Hussars have announced plans to establish a recreational installation and a tourist beacon in the [[id:34bddae0-0d06-4648-ad0b-cf7143f239ee][HIP 110028]] system, next to a little-visited Earth-like world.
+The Winged Hussars have announced plans to establish a recreational installation and a tourist beacon in the [[id:34bddae0-0d06-4648-ad0b-cf7143f239ee][HIP 110028]] system, next to a little-visited [[id:7fec1142-ab20-47e1-b746-36edee889cc3][Earth-like]] world.
 
 The organisation has said it hopes to attract wealthy tourists from core systems such as [[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]] and [[id:bed8c27f-3cbe-49ad-b86f-7d87eacf804a][Achenar]] – people who want to relax, but who also want to experience some adventure.
 

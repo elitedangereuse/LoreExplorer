@@ -7,7 +7,7 @@
 
 * Location
 
-Musashi | Wandrama
+[[id:2730e920-30ee-435e-943b-d4124f257751][Musashi]] | Wandrama
 
 * Objective
 
@@ -40,20 +40,20 @@ The controversial weapons developer has seen a recent downturn in
 fortunes, due to fierce opposition by independent pilots protesting
 Azimuth's history of illicit research.
 
-Azimuth Biotech CEO Torben Rademaker announced the initiative:
+Azimuth Biotech CEO [[id:78d58f4a-e080-4548-a2f0-9506b7b73674][Torben Rademaker]] announced the initiative:
 
 "After a period of reflection, it is time for Azimuth to once again
 step forward and assume a position of support for the brave pilots
 engaging Thargoid forces wherever they are encountered. To do this, we
 shall establish a new megaship equipped to operation in Thargoid-tainted
-systems. The tragic loss of the Bright Sentinel and Heart of Taurus in
-HIP 22460 must not hinder our ambition any further."
+systems. The tragic loss of the [[id:f55dd9f1-52aa-4ca9-93c4-27175612c59a][Bright Sentinel]] and [[id:f10f7c83-9d29-470c-a640-1a3e5334b686][Heart of Taurus]] in
+[[id:55088d83-4221-44fa-a9d5-6ebb0866c722][HIP 22460]] must not hinder our ambition any further."
 
 Within hours of the announcement, opponents of Azimuth Biotech had
 organised a counter-campaign to prevent deliveries from reaching
 Wandrama. Combat between Azimuth security forces and anti-Azimuth
 activists has been reported in the system. In response, Azimuth is
-hosting a combat initiative from the Musashi megaship alongside the
+hosting a combat initiative from the [[id:2730e920-30ee-435e-943b-d4124f257751][Musashi]] megaship alongside the
 ongoing delivery campaign.
 
 Azimuth Biotech has offered the following rewards to attract support

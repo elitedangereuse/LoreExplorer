@@ -11,7 +11,7 @@ Morris Enterprise | Ebor
 
 * Objective
 
-Deliver Aluminium, Computer Components and Coffee
+Deliver [[id:94b9dcf4-6a45-48d6-96b9-a343eeeb4ec1][Aluminium]], [[id:66b0f0aa-4387-46f9-9abe-a3dbe1033c6f][Computer Components]] and [[id:17e9c920-2c60-4aad-975a-c52e81030b1e][Coffee]]
 
 * Progress
 
@@ -53,10 +53,10 @@ the final target is met earlier than planned, the campaign will end
 immediately.
 
 To be eligible for rewards you must sign up as an active participant
-before delivering Aluminium, Computer Components and Coffee to Morris
+before delivering [[id:94b9dcf4-6a45-48d6-96b9-a343eeeb4ec1][Aluminium]], [[id:66b0f0aa-4387-46f9-9abe-a3dbe1033c6f][Computer Components]] and [[id:17e9c920-2c60-4aad-975a-c52e81030b1e][Coffee]] to Morris
 Enterprise in the Ebor system.
 
-Be aware that faction-state changes, Thargoid Sensor-related
+Be aware that faction-state changes, [[id:8ddf8e00-4541-4857-a609-5f6c5849dded][Thargoid Sensor]]-related
 interference and other disruptive events can negatively impact markets
 and station services, and could prevent the initiative from running
 smoothly.

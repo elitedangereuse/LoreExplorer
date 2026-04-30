@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       c8e15d71-b2ac-4af2-b567-428065fc4fd0
+:ROAM_REFS: file:../references/Community%20Goals/Trouble_in_Colonia__Bounty_Hunting_.md
 :END:
 #+title: Community Goal: Trouble in Colonia
 #+filetags: :CommunityGoal:3303:galnet:
@@ -8,10 +9,10 @@
 
 /19 May 3303/
 
-Recent reports indicate that a number of unauthorised outposts have been detected in the Eol Prou Lw-L C8-215 system. A spokesperson for the [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] Council confirmed that these outposts are currently occupied by group of agitators, which have already begun targeting pilots in the system. 
+Recent reports indicate that a number of unauthorised outposts have been detected in the Eol Prou Lw-L C8-215 system. A spokesperson for the [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] Council confirmed that these outposts are currently occupied by group of agitators, which have already begun targeting pilots in the system.
 
-The [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] region is a popular emigration destination, but entry is carefully controlled by the system’s governing body, the Colonia Council. Evidently, the system’s latest residents are unconcerned with the Council’s processes. 
+The [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] region is a popular emigration destination, but entry is carefully controlled by the system’s governing body, the [[id:6b6559fd-c7fa-44c9-b540-b94ddcadbd50][Colonia Council]]. Evidently, the system’s latest residents are unconcerned with the Council’s processes.
 
-With the [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] community still at an early stage and lacking a comprehensive security force, it is relying on the galaxy's independent combat pilots for military support. The Junkyard Dogs has placed a kill order on all wanted ships operating in  Eol Prou Lw-L C8-215, and has promised to reward pilots who deliver bounty vouchers to Tolagarf's Junkjard. 
+With the [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] community still at an early stage and lacking a comprehensive security force, it is relying on the galaxy's independent combat pilots for military support. The Junkyard Dogs has placed a kill order on all wanted ships operating in  Eol Prou Lw-L C8-215, and has promised to reward pilots who deliver bounty vouchers to Tolagarf's Junkjard.
 
 The campaign begins on 18th of May 3303 and will run for one week. If the final target is met earlier than planned, the campaign will end immediately.

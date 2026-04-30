@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       5ef13a2d-e8e0-4c6d-8217-34a63f4692ec
+:ROAM_REFS: file:../references/Community%20Goals/Conflict_Continues_in_Maia__Bounty_Hunting_.md
 :END:
 #+title: Community Goal: Conflict Continues in Maia
 #+filetags: :CommunityGoal:3302:galnet:
@@ -8,10 +9,10 @@
 
 /11 Nov 3302/
 
-Early reports from the [[id:0ee60994-364c-41b9-98ca-993d041cea72][Maia]] system indicate that the Ant Hill Mob has delivered a significant blow to the Pleiades Resource Enterprise. The news comes less than 24 hours after the criminal organisation launched an operation to push the PRE out of Maia. 
+Early reports from the [[id:0ee60994-364c-41b9-98ca-993d041cea72][Maia]] system indicate that the [[id:c8cf3da4-154e-49a2-98ff-039aaab3b1dd][Ant Hill Mob]] has delivered a significant blow to the [[id:268dd81e-54f9-447a-9a47-11b2f7242e81][Pleiades Resource Enterprise]]. The news comes less than 24 hours after the criminal organisation launched an operation to push the PRE out of [[id:0ee60994-364c-41b9-98ca-993d041cea72][Maia]].
 
-It is understood the Ant Hill Mob leveraged its connections in [[id:0ee60994-364c-41b9-98ca-993d041cea72][Maia]]'s criminal network to achieve its aims in a remarkably short amount of time. 
+It is understood the [[id:c8cf3da4-154e-49a2-98ff-039aaab3b1dd][Ant Hill Mob]] leveraged its connections in [[id:0ee60994-364c-41b9-98ca-993d041cea72][Maia]]'s criminal network to achieve its aims in a remarkably short amount of time.
 
-But the Pleiades Resource Enterprise is not out of the fight yet. The organisation has placed a kill order on all wanted ships operating in [[id:0ee60994-364c-41b9-98ca-993d041cea72][Maia]] and the surrounding systems, and has promised to reward pilots who deliver bounty vouchers to Obsidian Orbital. 
+But the [[id:268dd81e-54f9-447a-9a47-11b2f7242e81][Pleiades Resource Enterprise]] is not out of the fight yet. The organisation has placed a kill order on all wanted ships operating in [[id:0ee60994-364c-41b9-98ca-993d041cea72][Maia]] and the surrounding systems, and has promised to reward pilots who deliver bounty vouchers to [[id:4223b99a-7e0c-44fa-b7e9-afeca7e0c031][Obsidian Orbital]].
 
 The campaign will run from the 11th to the 17th of November 3302. If the final target is met earlier than planned, the campaign will end immediately.

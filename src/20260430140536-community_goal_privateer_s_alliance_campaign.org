@@ -33,13 +33,13 @@ Tier 6/8
 
 Finished
 
-The Privateer's Alliance has announced plans to build a military
+The Privateer's [[id:2506edb2-fef4-4723-85c6-02482635229d][Alliance]] has announced plans to build a military
 installation in the HIP 33368 system.
 
 The installation will "reinforce the gates" by defending the core
-systems from Thargoid forces in the Pleiades.
+systems from Thargoid forces in the [[id:cd15e78b-89d1-4051-bd92-05d0ab49ec17][Pleiades]].
 
-A spokesperson for the Privateer's Alliance released the following
+A spokesperson for the Privateer's [[id:2506edb2-fef4-4723-85c6-02482635229d][Alliance]] released the following
 statement:
 We need to make a show of strength. That is why we are humbly requesting
 the help of the galactic community in building this installation.
@@ -47,6 +47,6 @@ the help of the galactic community in building this installation.
 Once complete, it will allow pilots from across the galaxy --
 irrespective of their allegiance -- to work together in resisting the
 Thargoid threat.
-In support of this goal, the Privateer's Alliance has placed an open
+In support of this goal, the Privateer's [[id:2506edb2-fef4-4723-85c6-02482635229d][Alliance]] has placed an open
 order for various commodities, and has pledged to reward pilots who
 deliver these commodities to Barjavel Station in the HIP 33368 system.

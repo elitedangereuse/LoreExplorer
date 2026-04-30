@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       ea3e7df3-eb95-49ba-9545-a44aa0507600
+:ROAM_REFS: file:../references/Community%20Goals/Searching_for_Barnacles.md
 :END:
 #+title: Community Goal: Searching for Barnacles
 #+filetags: :Federation:Empire:CommunityGoal:3302:galnet:
@@ -8,12 +9,12 @@
 
 /14 Jul 3302/
 
-Since the non-human structures known as [[id:b41c0ea3-93f4-4aef-8c9c-db0b140719c0][barnacles]] were first discovered, they have prompted fierce debate, attracted intense scrutiny and even triggered the despatch of a Federal Fleet to the [[id:70fa34ea-bc98-40ff-97f0-e4f4538387a6][Merope]] system. 
+Since the non-human structures known as [[id:b41c0ea3-93f4-4aef-8c9c-db0b140719c0][barnacles]] were first discovered, they have prompted fierce debate, attracted intense scrutiny and even triggered the despatch of a Federal Fleet to the [[id:70fa34ea-bc98-40ff-97f0-e4f4538387a6][Merope]] system.
 
-As the only known source of meta-alloys, the [[id:b41c0ea3-93f4-4aef-8c9c-db0b140719c0][barnacles]] are of considerable value. It is therefore unsurprising that the Empire has issued an appeal for exploration data in the hope of finding more. A spokesperson for Bava Blue Travel Systems, which is coordinating the campaign, made the following statement: 
+As the only known source of meta-alloys, the [[id:b41c0ea3-93f4-4aef-8c9c-db0b140719c0][barnacles]] are of considerable value. It is therefore unsurprising that the [[id:541dcfb3-93ef-40e5-9284-bf5a4f999043][Empire]] has issued an appeal for exploration data in the hope of finding more. A spokesperson for Bava Blue Travel Systems, which is coordinating the campaign, made the following statement:
 
-"The [[id:b41c0ea3-93f4-4aef-8c9c-db0b140719c0][barnacles]] are of central importance, and it is vital that we determine whether or not there are any more out there. We are therefore launching an appeal for exploration data, to begin at once, as part of a search for further [[id:b41c0ea3-93f4-4aef-8c9c-db0b140719c0][barnacles]]." 
+"The [[id:b41c0ea3-93f4-4aef-8c9c-db0b140719c0][barnacles]] are of central importance, and it is vital that we determine whether or not there are any more out there. We are therefore launching an appeal for exploration data, to begin at once, as part of a search for further [[id:b41c0ea3-93f4-4aef-8c9c-db0b140719c0][barnacles]]."
 
-The spokesperson was asked if the campaign had been prompted by the Federation's decision to station battle cruisers at barnacle sites in the [[id:70fa34ea-bc98-40ff-97f0-e4f4538387a6][Merope]] system, but she declined to comment. 
+The spokesperson was asked if the campaign had been prompted by the [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]]'s decision to station battle cruisers at barnacle sites in the [[id:70fa34ea-bc98-40ff-97f0-e4f4538387a6][Merope]] system, but she declined to comment.
 
-Bava Blue Travel Systems, on behalf of the Empire, has promised to reward pilots who deliver exploration data to Bauschinger City in the Bava system. The campaign begins on the 14th of July 3302 and will run for one week. If the Empire's targets are met earlier than planned, the campaign will end immediately.
+Bava Blue Travel Systems, on behalf of the [[id:541dcfb3-93ef-40e5-9284-bf5a4f999043][Empire]], has promised to reward pilots who deliver exploration data to Bauschinger City in the Bava system. The campaign begins on the 14th of July 3302 and will run for one week. If the [[id:541dcfb3-93ef-40e5-9284-bf5a4f999043][Empire]]'s targets are met earlier than planned, the campaign will end immediately.

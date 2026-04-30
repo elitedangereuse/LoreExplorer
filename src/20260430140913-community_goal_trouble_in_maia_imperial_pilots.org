@@ -7,11 +7,11 @@
 
 * Location
 
-Obsidian Orbital | Maia
+[[id:4223b99a-7e0c-44fa-b7e9-afeca7e0c031][Obsidian Orbital]] | [[id:0ee60994-364c-41b9-98ca-993d041cea72][Maia]]
 
 * Objective
 
-Earn rewards by handing in Combat Bonds at Obsidian Orbital in the Maia
+Earn rewards by handing in [[id:bbbc7bc6-79d7-46b7-925e-c1f882c8f25a][Combat Bonds]] at [[id:4223b99a-7e0c-44fa-b7e9-afeca7e0c031][Obsidian Orbital]] in the [[id:0ee60994-364c-41b9-98ca-993d041cea72][Maia]]
 system
 
 * Progress
@@ -34,24 +34,24 @@ Tier 8/8
 
 Finished
 
-Earlier this month, the Pleiades Resource Enterprise entered Maia and
+Earlier this month, the [[id:268dd81e-54f9-447a-9a47-11b2f7242e81][Pleiades Resource Enterprise]] entered [[id:0ee60994-364c-41b9-98ca-993d041cea72][Maia]] and
 rapidly started cementing its presence in the system. In response, the
-Ant Hill Mob - Maia's current controlling faction - launched an
-offensive against the Pleiades Resource Enterprise.
+[[id:c8cf3da4-154e-49a2-98ff-039aaab3b1dd][Ant Hill Mob]] - [[id:0ee60994-364c-41b9-98ca-993d041cea72][Maia]]'s current controlling faction - launched an
+offensive against the [[id:268dd81e-54f9-447a-9a47-11b2f7242e81][Pleiades Resource Enterprise]].
 
-With the Federation having recently stationed a Farragut-class
-Battlecruiser at Maia A 3 a, there is speculation that the appearance of
-the Pleiades Resource Enterprise represents an effort to bring Maia
+With the [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]] having recently stationed a [[id:3146c49e-4aa8-4061-9ab2-1d9da2b0bff5][Farragut]]-class
+Battlecruiser at [[id:43ff9480-fe9a-43a0-a6fb-edbdc1ef3d7d][Maia A 3]] a, there is speculation that the appearance of
+the [[id:268dd81e-54f9-447a-9a47-11b2f7242e81][Pleiades Resource Enterprise]] represents an effort to bring [[id:0ee60994-364c-41b9-98ca-993d041cea72][Maia]]
 under Federal control.
 
-A spokesperson for the Pleiades Resource Enterprise gave a brief
+A spokesperson for the [[id:268dd81e-54f9-447a-9a47-11b2f7242e81][Pleiades Resource Enterprise]] gave a brief
 statement:
 
-"The Pleiades Resource Enterprise has every right to establish a
-presence in Maia. If the Ant Hill Mob wants a fight, it's going to get
+"The [[id:268dd81e-54f9-447a-9a47-11b2f7242e81][Pleiades Resource Enterprise]] has every right to establish a
+presence in [[id:0ee60994-364c-41b9-98ca-993d041cea72][Maia]]. If the [[id:c8cf3da4-154e-49a2-98ff-039aaab3b1dd][Ant Hill Mob]] wants a fight, it's going to get
 it."
 
-The Pleiades Resource Enterprise has appealed to the galaxy's Federal
+The [[id:268dd81e-54f9-447a-9a47-11b2f7242e81][Pleiades Resource Enterprise]] has appealed to the galaxy's Federal
 pilots for help, promising to generously reward those who support their
 operation.
 
@@ -59,10 +59,10 @@ The campaign will begin on the 27th of October 3302 and will run for one
 week.
 
 To be eligible for rewards you must sign up as an active participant
-before handing in Combat Bonds at Obsidian Orbital in the Maia system.
+before handing in [[id:bbbc7bc6-79d7-46b7-925e-c1f882c8f25a][Combat Bonds]] at [[id:4223b99a-7e0c-44fa-b7e9-afeca7e0c031][Obsidian Orbital]] in the [[id:0ee60994-364c-41b9-98ca-993d041cea72][Maia]] system.
 
-The Pleiades Resource Enterprise has set out week-long operation to
-resist the Ant Hill Mob, but if either side is defeated before the end
+The [[id:268dd81e-54f9-447a-9a47-11b2f7242e81][Pleiades Resource Enterprise]] has set out week-long operation to
+resist the [[id:c8cf3da4-154e-49a2-98ff-039aaab3b1dd][Ant Hill Mob]], but if either side is defeated before the end
 of the week, the conflict will end immediately.
 
 Please note that crew members will take a percentage cut of combat bonds

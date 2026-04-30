@@ -11,7 +11,7 @@ Zoline Port | LTT 377
 
 * Objective
 
-Hand in Bounty Vouchers
+Hand in [[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]]
 
 * Progress
 
@@ -33,7 +33,7 @@ Tier 8/8
 
 Finished
 
-The Canonn Interstellar Research Group has announced plans to construct
+The [[id:2c8da7ca-a8b5-4ea1-bd52-e38ae83a9654][Canonn Interstellar Research]] Group has announced plans to construct
 a new deep-space research vessel to support its missiyour crew will
 receive the reward for their vouchers when they are handed in. The
 proportion of bounty vouchers assigned to your crew will depend on their
@@ -56,7 +56,7 @@ Top 100%: 800,000 CR
 -   Station services: Commodities Market, Outfitting, Shipyard, Refuel,
 
 Repair, Restock
-- Powerplay: Exploited by Zemina Torval
+- [[id:4ed9ac75-9ddc-4533-bc21-00a775fbc0ee][Powerplay]]: Exploited by [[id:d8e3667c-3ba1-43aa-bc90-dac719c6d5e7][Zemina Torval]]
 
 - Available RES in system:
 •LTT 377 1: 2 x High, 1 x Low (Zoline Port orbits this planet)

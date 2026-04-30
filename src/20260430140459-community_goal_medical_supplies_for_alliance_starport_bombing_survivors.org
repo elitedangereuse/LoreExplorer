@@ -11,7 +11,7 @@ Krylov Ring | He Bo
 
 * Objective
 
-Deliver Basic Medicines and Advanced Medicines
+Deliver [[id:1c200888-6acc-404b-8d9e-9ad834389782][Basic Medicines]] and [[id:5af29dcf-3079-46c2-a594-d2559c830744][Advanced Medicines]]
 
 * Progress
 
@@ -36,7 +36,7 @@ Finished
 Safeguard Interstellar requires deliveries of medicines to treat
 casualties from the NMLA's recent terrorist attack.
 
-CEO Noel Beaumont announced:
+CEO [[id:ad2a739e-6229-4c8b-8ab1-f4375f5dbcc1][Noel Beaumont]] announced:
 
 "Hundreds of thousands of civilians still require urgent medical
 attention after being evacuated from the damaged stations. Many have
@@ -52,7 +52,7 @@ Safeguard Interstellar has partnered with Perez Ring Brewery to reward
 pilots and distribute the medicines.
 
 If Tier 1 is reached, the top 75% of participants will receive a
-permanent Alioth system permit and a Lakon Spaceways Type-6 Transporter.
+permanent [[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]] system permit and a [[id:906c77b7-7fe4-48c1-ace5-1265023c2ebf][Lakon Spaceways]] Type-6 Transporter.
 The ship will be delivered and stored at Krylov Ring in the He Bo system
 by the 26th of March 3307.
 

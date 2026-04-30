@@ -11,8 +11,8 @@ Lyakhov Dock | CPC 20 6743
 
 * Objective
 
-Deliver Titanium, Tantalum, Beryllium, Bismuth, Copper, Indium and
-Palladium
+Deliver [[id:d727fb19-8dc0-4d94-bcd4-da1cb5c090f0][Titanium]], [[id:d10c0435-4bc8-42ac-bea6-228d2f02604c][Tantalum]], [[id:bd0fe4ab-145e-431c-b06e-3433e2618bff][Beryllium]], [[id:790e8a87-7557-44f8-867e-9aa92acfa9b7][Bismuth]], [[id:705bcc40-0a7b-460c-83a5-a556a5ab3bb7][Copper]], [[id:9fbdd62c-a62a-45d1-9ee5-9ab7980a4fd6][Indium]] and
+[[id:dcc20e2e-26dd-4106-b23b-4df951876173][Palladium]]
 
 * Progress
 
@@ -34,11 +34,11 @@ Tier 8/8
 
 Finished
 
-Yuri Grom has announced an initiative to create a new shipyard in the
+[[id:b4892958-b513-46dc-b74e-26887b53f678][Yuri Grom]] has announced an initiative to create a new shipyard in the
 CPC 20 6743 system. The shipyard will produce capital ships with which
 to defend human space from both human and alien threats.
 
-The EG Union, acting on behalf of Yuri Grom, has placed an open order
+The EG Union, acting on behalf of [[id:b4892958-b513-46dc-b74e-26887b53f678][Yuri Grom]], has placed an open order
 for various commodities to build the shipyard, and has promised to
 reward pilots who deliver these commodities to Lyakhov Dock in the CPC
 20 6743 system. The organisation has also placed a kill order on all

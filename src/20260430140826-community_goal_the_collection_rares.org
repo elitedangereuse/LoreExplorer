@@ -7,7 +7,7 @@
 
 * Location
 
-Lave Station | Lave
+[[id:10b9df10-b4c7-449a-9c50-4ad011256417][Lave Station]] | [[id:ff595332-6a13-4f69-ae2f-cc0a0df8e741][Lave]]
 
 * Objective
 
@@ -33,22 +33,22 @@ Tier 7/8
 
 Finished
 
-Celebrated chef and culinary scholar Dr Cordelius Swainn has issued an
+Celebrated chef and culinary scholar Dr [[id:c0aac4cd-fdff-4e13-aad7-4506c13e7758][Cordelius Swainn]] has issued an
 appeal to the galactic community for rare goods for one of his famous
 celebrity soirees.
 
 In a statement, Swainn said:
 
 "I create unique dining experiences for the wealthiest patrons and most
-important dignitaries to visit the Lave system. I will be hosting
+important dignitaries to visit the [[id:ff595332-6a13-4f69-ae2f-cc0a0df8e741][Lave]] system. I will be hosting
 another of these events in a few weeks for one of my most important
 clients, and am therefore seeking rare commodities from across the
 galaxy. But it is not only food I require -- I am in need of a wealth of
 exotic goods, all of which will contribute to overall ambience."
 
-The appeal is being financed by Dr Swainn's corporate partner, Lave
+The appeal is being financed by Dr Swainn's corporate partner, [[id:ff595332-6a13-4f69-ae2f-cc0a0df8e741][Lave]]
 Incorporated, which has promised to reward pilots who deliver the
-requested commodities to Lave Station.
+requested commodities to [[id:10b9df10-b4c7-449a-9c50-4ad011256417][Lave Station]].
 
 Concluding his statement, Swainn said:
 
@@ -60,7 +60,7 @@ the final target is met earlier than planned, the campaign will end
 immediately.
 
 To be eligible for rewards you must sign up as an active participant
-before delivering rare goods to Lave Station in the Lave system.
+before delivering rare goods to [[id:10b9df10-b4c7-449a-9c50-4ad011256417][Lave Station]] in the [[id:ff595332-6a13-4f69-ae2f-cc0a0df8e741][Lave]] system.
 
 Be aware that faction-state changes, UA bombing and other disruptive
 events can negatively impact markets and station services, and could
@@ -81,7 +81,7 @@ ILLEGALLY.
 
 System: DELTA PAVONIS
 Station: Hopper ca. 250ls
-Distance: ca. 120 ly from Lave
+Distance: ca. 120 ly from [[id:ff595332-6a13-4f69-ae2f-cc0a0df8e741][Lave]]
 Supply: 30(!) pavonis ear grubs (ILLICIT CARGO ALMOST EVERYWHERE - DO
 NOT GET SCANNED BY AUTHORITY)
 

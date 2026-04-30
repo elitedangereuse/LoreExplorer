@@ -11,7 +11,7 @@ Wiley Port | Teveri
 
 * Objective
 
-Deliver Rockforth Fertiliser
+Deliver [[id:3ee8b83c-4db4-4b8b-a2ed-58bd4a44ef69][Rockforth Fertiliser]]
 
 * Progress
 
@@ -33,40 +33,40 @@ Tier 7/8
 
 Finished
 
-The Rockforth Corporation's EX7 fertiliser has been linked to the
+The [[id:a7056ff8-e67d-4ca9-baf1-7e5df3efa677][Rockforth Corporation]]'s EX7 fertiliser has been linked to the
 blight affecting crops in a number of systems, prompting an initiative
 to remove the product from the market.​
 
-Dr Genevieve Kane of the Interstellar Association for Agriculture
+Dr [[id:27e3d876-0953-4096-86c9-c65388f6dd19][Genevieve Kane]] of the Interstellar Association for Agriculture
 delivered an urgent [message:​\\\\](message:​\\)
 "Comparative analysis has confirmed that the blight is caused by the
 EX7 fertiliser. The original poor harvests have been attributed to
 natural factors, and it is now thought that the situation could have
 been contained had the fertiliser not exacerbated the problem. Initial
-food shortages were offset by a recent trade appeal in the Diso and
-Orerve systems, but the blight's symptoms have since been reported in
+food shortages were offset by a recent trade appeal in the [[id:4aedfccd-a366-4b25-a5e2-538bb29a35cb][Diso]] and
+[[id:44b99d90-8587-491e-babf-46b08bbffa77][Orerve]] systems, but the blight's symptoms have since been reported in
 hundreds of systems. While we investigate the reasons for this rapid
 spread, preventing further fertiliser distribution is vital."
 
 Rockforth fertiliser can now be collected at negligible cost from the
 following markets: ​
 
-- Sharon Lee Free Market, Orrere
-- Lave Station, Lave
-- Warinus, Lave
-- Shifnalport, Diso
-- Davies High, Reorte
-- Watson Station, Orerve
+- [[id:50eee33d-b20c-4b29-8934-f8d2b4ef599c][Sharon Lee Free Market]], [[id:c4c312cb-b838-47aa-8067-18710bbba82b][Orrere]]
+- [[id:10b9df10-b4c7-449a-9c50-4ad011256417][Lave Station]], [[id:ff595332-6a13-4f69-ae2f-cc0a0df8e741][Lave]]
+- Warinus, [[id:ff595332-6a13-4f69-ae2f-cc0a0df8e741][Lave]]
+- [[id:ffed13b2-4679-47f1-920a-333c13f3c6e3][Shifnalport]], [[id:4aedfccd-a366-4b25-a5e2-538bb29a35cb][Diso]]
+- [[id:aeb2ca41-e6ea-499c-a58e-7bc4427df58b][Davies High]], [[id:5292d8c1-fa6e-4352-a03f-ef984f706203][Reorte]]
+- Watson Station, [[id:44b99d90-8587-491e-babf-46b08bbffa77][Orerve]]
 - Roentgen Hub, LFT 37
 - Macedo Station, Lei Zi
 - Phillips Gateway, Ensoreus
-- Baird Gateway, Arque
-- La Soeur du Dan Ham, Riedquat
+- [[id:ecd07592-63b9-4dbe-a1b9-d8e19a1f8ed8][Baird Gateway]], [[id:d4b595af-536d-4575-af11-f07f3ac3ff40][Arque]]
+- La Soeur du Dan Ham, [[id:633a799b-8c05-4136-8f94-cf169eab515f][Riedquat]]
 
 The Teveri Progressive Party has arranged for the safe disposal of the
 fertiliser and has offered to compensate pilots for their efforts. The
 fertiliser should be delivered to Wiley Port in the Teveri system.​
 
-To expedite this initiative, Lakon Spaceways has agreed to lower the
+To expedite this initiative, [[id:906c77b7-7fe4-48c1-ace5-1265023c2ebf][Lakon Spaceways]] has agreed to lower the
 cost of the Type-6 Transporter, Type-7 Transporter and Type-9 Heavy.
 Cargo rack prices have also been reduced in all starports.​

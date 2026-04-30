@@ -33,23 +33,23 @@ Tier 5/8
 
 Finished
 
-The Children of Raxxla, an organisation operating out of the HR 6421
+The [[id:7b48eea2-ee5f-47f9-9e14-8f5e827766b4][Children of Raxxla]], an organisation operating out of the HR 6421
 system, has issued an urgent request for exploration data. The request
-follows news that the group's leader, Salomé, has been found guilty of
-the attempted assassination of Denton Patreus.
+follows news that the group's leader, [[id:2f09bc24-0885-4d00-9d1f-506b32464dbe][Salomé]], has been found guilty of
+the attempted assassination of [[id:75daea85-5e9f-4f6f-a102-1a5edea0283c][Denton Patreus]].
 
 "We believe the exploration data may be pertinent to the case against
-Salomé." said a Children of Raxxla representative. "We are convinced
+[[id:2f09bc24-0885-4d00-9d1f-506b32464dbe][Salomé]]." said a [[id:7b48eea2-ee5f-47f9-9e14-8f5e827766b4][Children of Raxxla]] representative. "We are convinced
 the accusations against her can be disproved, but only if we have
 sufficient evidence."
 
-"We know Salomé undertook a quest to the Formidine Rift and other
+"We know [[id:2f09bc24-0885-4d00-9d1f-506b32464dbe][Salomé]] undertook a quest to the [[id:34f7ac72-4ef4-494f-9982-87fbeadd8086][Formidine Rift]] and other
 locales, and we urgently need data from Hawkin's Gap, the Conflux and
-the Formidine Rift. The navigation codes for these areas are PLAA AEC
+the [[id:34f7ac72-4ef4-494f-9982-87fbeadd8086][Formidine Rift]]. The navigation codes for these areas are PLAA AEC
 IZ-N C20-1, PRU AESCS DL-W C15-37 and EAFOTS EU-R C4-1. We're looking
 for stellar scans, planet information and any and all anomalies."
 
-The Children of Raxxla have promised to reward pilots who deliver
+The [[id:7b48eea2-ee5f-47f9-9e14-8f5e827766b4][Children of Raxxla]] have promised to reward pilots who deliver
 exploration data to Serebrov Terminal in the HR 6421 system. The
 campaign begins on the 17th of November 3302 and will run for two
 weeks.

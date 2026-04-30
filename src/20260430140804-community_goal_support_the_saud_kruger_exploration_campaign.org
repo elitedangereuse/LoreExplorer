@@ -7,11 +7,11 @@
 
 * Location
 
-Youll Port | Vistaenis
+Youll Port | [[id:9d017590-3b88-41d4-be50-c15545e9de02][Vistaenis]]
 
 * Objective
 
-Deliver Earth-like World exploration data
+Deliver [[id:7fec1142-ab20-47e1-b746-36edee889cc3][Earth-like]] World exploration data
 
 * Progress
 
@@ -34,15 +34,15 @@ Tier 2/5
 Finished
 
 An initiative to gather data on potential tourist destinations has been
-launched by shipbuilding corporation Saud Kruger.
+launched by shipbuilding corporation [[id:49b21fdc-6a96-42b3-a496-123e8106f102][Saud Kruger]].
 
-The manufacturer of luxury passenger ships aims to identify Earth-like
+The manufacturer of luxury passenger ships aims to identify [[id:7fec1142-ab20-47e1-b746-36edee889cc3][Earth-like]]
 worlds that would be suitable for holiday trips. These will be run by
-its subsidiary, Astrogator Tours.
+its subsidiary, [[id:1b328227-3a16-47d3-af61-df3592c4ddf5][Astrogator]] Tours.
 
-CEO Stanislav Kruger announced the campaign to the press:
+CEO [[id:39e42b99-ece9-4a2f-a859-858f2887e5f4][Stanislav Kruger]] announced the campaign to the press:
 
-"We are keen to acquire data on Earth-like worlds, to assess their
+"We are keen to acquire data on [[id:7fec1142-ab20-47e1-b746-36edee889cc3][Earth-like]] worlds, to assess their
 suitability as destinations for future holidaymakers seeking the
 adventure of a lifetime. However, all exploration data is valuable and
 will earn generous payments."
@@ -50,20 +50,20 @@ will earn generous payments."
 "In addition, our marketing department is keen to receive images of
 eye-catching sights found within unpopulated systems containing earth
 like worlds, to spot the most potentially exciting additions to the
-Astrogator Tours catalogue."
+[[id:1b328227-3a16-47d3-af61-df3592c4ddf5][Astrogator]] Tours catalogue."
 
 Contributing pilots are invited to deliver exploration data to Youll
-Port in the Vistaenis system. They can also submit their most compelling
+Port in the [[id:9d017590-3b88-41d4-be50-c15545e9de02][Vistaenis]] system. They can also submit their most compelling
 images by the 30th of September. By the 28th of October, the most
 suitable locations will receive tourist beacons and where appropriate
 credit the commander for their submission.
 
-Although Saud Kruger is paying handsomely for all exploration data, it
-is the data on Earth-like worlds that will really progress the research,
-with data from mapped Earth-like worlds being three times as useful.
+Although [[id:49b21fdc-6a96-42b3-a496-123e8106f102][Saud Kruger]] is paying handsomely for all exploration data, it
+is the data on [[id:7fec1142-ab20-47e1-b746-36edee889cc3][Earth-like]] worlds that will really progress the research,
+with data from mapped [[id:7fec1142-ab20-47e1-b746-36edee889cc3][Earth-like]] worlds being three times as useful.
 
-Depending on the tier reached, Saud Kruger will offer reductions on the
-entire range of Saud Kruger ships as well as luxury passenger cabins
+Depending on the tier reached, [[id:49b21fdc-6a96-42b3-a496-123e8106f102][Saud Kruger]] will offer reductions on the
+entire range of [[id:49b21fdc-6a96-42b3-a496-123e8106f102][Saud Kruger]] ships as well as luxury passenger cabins
 from the 1st of October 3307 lasting one week.
 Tier 1 will provide a 10% discount. Each additional tier will provide a
 further 5% discount up to a maximum of 30%.

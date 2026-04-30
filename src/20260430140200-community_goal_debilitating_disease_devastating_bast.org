@@ -7,11 +7,11 @@
 
 * Location
 
-Hart Station | Bast
+[[id:24aa4f9c-26d5-4628-ba4b-13c370a13a77][Hart Station]] | [[id:ba9787a7-583f-4fb0-b9e1-3c0c0096b485][Bast]]
 
 * Objective
 
-Sell Medicines to Hart Station
+Sell Medicines to [[id:24aa4f9c-26d5-4628-ba4b-13c370a13a77][Hart Station]]
 
 * Progress
 
@@ -33,13 +33,13 @@ Tier 1/1
 
 Finished
 
-A terrifying disease is currently working its way through Bast. So far
+A terrifying disease is currently working its way through [[id:ba9787a7-583f-4fb0-b9e1-3c0c0096b485][Bast]]. So far
 the illness has defied all attempts to contain it, despite the best
-efforts of the medical staff aboard Hart Station.
+efforts of the medical staff aboard [[id:24aa4f9c-26d5-4628-ba4b-13c370a13a77][Hart Station]].
 
 Many people have already been placed in quarantine, with many more
 thought to have already been infected. Doctors are concerned that that
 pathogen responsible may have already begun to spread to other systems.
-to assist medical staff aboard Hart Station, the Union Of Bast Liberals
+to assist medical staff aboard [[id:24aa4f9c-26d5-4628-ba4b-13c370a13a77][Hart Station]], the Union Of [[id:ba9787a7-583f-4fb0-b9e1-3c0c0096b485][Bast]] Liberals
 are offering a series of incentives to any pilots that provide medicines
-to Hart Station market until such time as the crisis has been averted.
+to [[id:24aa4f9c-26d5-4628-ba4b-13c370a13a77][Hart Station]] market until such time as the crisis has been averted.

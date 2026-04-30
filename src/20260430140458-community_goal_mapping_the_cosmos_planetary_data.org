@@ -7,11 +7,11 @@
 
 * Location
 
-Lave Station | Lave
+[[id:10b9df10-b4c7-449a-9c50-4ad011256417][Lave Station]] | [[id:ff595332-6a13-4f69-ae2f-cc0a0df8e741][Lave]]
 
 * Objective
 
-Earn rewards by delivering Exploration Data to Lave Station.
+Earn rewards by delivering Exploration Data to [[id:10b9df10-b4c7-449a-9c50-4ad011256417][Lave Station]].
 
 * Progress
 
@@ -38,4 +38,4 @@ Data. The request has been submitted on behalf of a number of secondary
 organizations, which are lined up to purchase the data from the
 Explorer's Association to improve their planetary databases. Pilots who
 wish to contribute to the initiative are encouraged to deliver their
-exploration data to Lave Station.
+exploration data to [[id:10b9df10-b4c7-449a-9c50-4ad011256417][Lave Station]].

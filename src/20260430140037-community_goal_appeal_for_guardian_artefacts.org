@@ -7,12 +7,12 @@
 
 * Location
 
-Musashi | HIP 39768
+[[id:2730e920-30ee-435e-943b-d4124f257751][Musashi]] | HIP 39768
 
 * Objective
 
-Deliver Guardian Relic, Guardian Orb, Guardian Casket, Guardian Tablet,
-Guardian Urn, Guardian Totem and Ancient Key
+Deliver [[id:b2c862d2-12a9-423d-8688-d8dec21be343][Guardian Relic]], [[id:6bdfb36f-f007-4814-b6bb-3ed995fa633b][Guardian Orb]], [[id:8d732fbb-d43d-4a87-8079-a19c073e753b][Guardian Casket]], [[id:ea888fbc-5c3d-4c8a-b629-372a880698e0][Guardian Tablet]],
+[[id:c7403be5-a1dc-434b-86bf-d1498c04323f][Guardian Urn]], [[id:3ef4f33f-9df9-4adf-85db-296472ed1c22][Guardian Totem]] and [[id:e158c404-4505-4a7b-8c86-7d428b1631be][Ancient Key]]
 
 * Progress
 
@@ -34,16 +34,16 @@ Tier 3/5
 
 Finished
 
-Commodore Morag Halloran has offered you an opportunity to support
+Commodore [[id:bcaa9222-b056-41cf-9361-68dd8d3424fb][Morag Halloran]] has offered you an opportunity to support
 Salvation's next phase of his work, which seeks to bring eventual
 victory over the Thargoids.
 
-Taurus Mining Ventures requires you to transport as many Guardian
-artefacts as possible to the Musashi megaship in the HIP 39768 system.
+[[id:5d339d87-3edb-4938-984a-49708bf6b65f][Taurus Mining Ventures]] requires you to transport as many Guardian
+artefacts as possible to the [[id:2730e920-30ee-435e-943b-d4124f257751][Musashi]] megaship in the HIP 39768 system.
 Salvation is offering an extremely generous payout for artefacts sold to
-the Musashi.
+the [[id:2730e920-30ee-435e-943b-d4124f257751][Musashi]].
 
-This opportunity is open until the 7th of April 3308. The Musashi must
+This opportunity is open until the 7th of April 3308. The [[id:2730e920-30ee-435e-943b-d4124f257751][Musashi]] must
 depart on this date, as the Thargoids may take notice of its cargo if it
 remains in the system much longer. It is vital that you complete your
 deliveries by then, as the same increased rate for Guardian artefacts

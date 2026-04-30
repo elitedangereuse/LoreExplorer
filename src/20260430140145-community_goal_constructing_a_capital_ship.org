@@ -11,7 +11,7 @@ Hudson Dock | BD+03 2338
 
 * Objective
 
-Sell Copper to Hudson Dock
+Sell [[id:705bcc40-0a7b-460c-83a5-a556a5ab3bb7][Copper]] to Hudson Dock
 
 * Progress
 
@@ -33,13 +33,13 @@ Tier 4
 
 Finished
 
-Core Dynamics, in association with the Federal Navy, is proud to
+[[id:4a28463f-cbed-493b-9466-70cbc6e19662][Core Dynamics]], in association with the [[id:3d268496-1d95-49bc-aca6-49d16a4337c8][Federal Navy]], is proud to
 announce its intention to build a new marvel of the modern age, in form
 of the latest Capital Ship to join the federal fleet. The Navy intends
-to use this new ship to defend the Federation's borders by tracking
+to use this new ship to defend the [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]]'s borders by tracking
 down all those who would threaten to unravel the fabric of our society.
 
 Of course such an endeavour doesn't come cheap, and it doesn't come
-easy either. That's why Core Dynamics has a number of contracts
+easy either. That's why [[id:4a28463f-cbed-493b-9466-70cbc6e19662][Core Dynamics]] has a number of contracts
 available for independent contractors with the resources to bulk supple
 any of the materials listed in the manifest below.

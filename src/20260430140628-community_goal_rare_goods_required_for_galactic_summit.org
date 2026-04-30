@@ -7,13 +7,13 @@
 
 * Location
 
-Ashby City | Luyten's Star
+Ashby City | [[id:5817a2f2-d8af-4c78-9401-490abe32564b][Luyten's Star]]
 
 * Objective
 
-Deliver Lavian Brandy, Karsuki Locusts, Giant Irukama Snails, Goman
-Yaupon Coffee, Eden Apples Of Aerial, Ethgreze Tea Buds, Gerasian Gueuze
-Beer
+Deliver [[id:5efc49f5-465f-4dd8-afaa-b6bb3595a58c][Lavian Brandy]], [[id:2f3b4c97-2fe4-473a-8873-ec2ecababbe7][Karsuki Locusts]], [[id:e6a70682-d2bd-48e3-aec8-b3c1066cdf30][Giant Irukama Snails]], [[id:5a87c905-ce2c-492e-8d5d-ce7e1de7f47a][Goman]]
+Yaupon [[id:17e9c920-2c60-4aad-975a-c52e81030b1e][Coffee]], [[id:78049ea6-d9f5-46f1-9f31-e7fe334b9c32][Eden Apples Of Aerial]], [[id:d80776d9-21ee-42d9-a112-de75ff3ca03d][Ethgreze Tea Buds]], Gerasian Gueuze
+[[id:16605f5b-79a7-46d2-9a5c-b53826fc1b5f][Beer]]
 
 * Progress
 
@@ -35,35 +35,35 @@ Tier 5/5
 
 Finished
 
-Sirius Corporation has requested deliveries of consumables to Luyten's
+[[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]] has requested deliveries of consumables to Luyten's
 Star for the forthcoming diplomatic conference.
 
-Sirius Corporation has placed orders for these rare commodities: Eden
-Apples Of Aerial, Ethgreze Tea Buds, Gerasian Gueuze Beer, Giant Irukama
-Snails, Goman Yaupon Coffee, Karsuki Locusts and Lavian Brandy.
+[[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]] has placed orders for these rare commodities: [[id:ba86a2db-c17e-4856-9882-036f95a773c2][Eden]]
+Apples Of [[id:20e0bd61-00d4-4492-a53c-44e7ffc054e0][Aerial]], [[id:d80776d9-21ee-42d9-a112-de75ff3ca03d][Ethgreze Tea Buds]], [[id:aa2662c4-12d2-4842-8ff2-ca213e1b1f9e][Gerasian Gueuze Beer]], Giant [[id:76048bd8-7a18-4d77-bf77-ae23a5268d20][Irukama]]
+Snails, [[id:53bfde4b-c822-429e-9884-a82c69f124de][Goman Yaupon Coffee]], [[id:2f3b4c97-2fe4-473a-8873-ec2ecababbe7][Karsuki Locusts]] and [[id:5efc49f5-465f-4dd8-afaa-b6bb3595a58c][Lavian Brandy]].
 
-All shipments are to be delivered to Ashby City in the Luyten's Star
-system. They will then be ferried to Sirius before the conference
+All shipments are to be delivered to Ashby City in the [[id:5817a2f2-d8af-4c78-9401-490abe32564b][Luyten's Star]]
+system. They will then be ferried to [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] before the conference
 begins.
 
-If the initiative is successful, Sirius Corporation will make the fully
-engineered long range fast boot class 5 Frame Shift Drive available for
+If the initiative is successful, [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]] will make the fully
+engineered long range fast boot class 5 [[id:46a9c980-af48-4e43-a820-9971d7c76c34][Frame Shift Drive]] available for
 purchase at all human technology brokers.
 
 Each tier reached will further reduce the resources required for
 acquiring the module in the first two weeks of availability, starting on
 the 26th of February 3307.
 
-Datamined Wake Exceptions base requirements 18, reduced by two for each
+[[id:6a46a320-1c53-42d0-bf7d-62c8f9b163ed][Datamined Wake Exceptions]] base requirements 18, reduced by two for each
 tier above Tier 1.
-Tellurium base requirements 26, reduced by four for each tier above Tier
+[[id:569e8fe8-f5e6-45b3-9248-f90c874f8116][Tellurium]] base requirements 26, reduced by four for each tier above Tier
 1.
-Electrochemical Arrays base requirements 26, reduced by four for each
+[[id:1d330101-a83a-44c8-bf9f-c815bca7a379][Electrochemical Arrays]] base requirements 26, reduced by four for each
 tier above Tier 1.
-Chemical Processors base requirements 28, reduced by four for each tier
+[[id:1e6cefd3-feb0-4f28-a913-6be3f20c63dc][Chemical Processors]] base requirements 28, reduced by four for each tier
 above Tier 1.
 
-If the initiative is successful, Sirius Corporation will gift the module
-and a permanent Sirius system permit to the top 75% of pilots. The
+If the initiative is successful, [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]] will gift the module
+and a permanent [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]] system permit to the top 75% of pilots. The
 module will be placed in storage at the Ashby City starport in the
-Luyten's Star system by the 26th of February 3307.
+[[id:5817a2f2-d8af-4c78-9401-490abe32564b][Luyten's Star]] system by the 26th of February 3307.

@@ -11,7 +11,7 @@ Indigo Dock | Synuefe EN-H d11-96
 
 * Objective
 
-Hand in Combat Bonds for Segnen Exchange after fighting in Conflict
+Hand in [[id:bbbc7bc6-79d7-46b7-925e-c1f882c8f25a][Combat Bonds]] for Segnen Exchange after fighting in Conflict
 Zones against Zende Partners
 
 * Progress
@@ -39,7 +39,7 @@ system, recently established as a hub of Guardian technological
 research, both Zende Partners and Segnen Exchange have appealed for
 support.​
 ​
-Cedrik Stone, CEO of Segnen Exchange, provided this statement:​
+[[id:b0fad285-85fd-425b-a832-59c2d7781f0a][Cedrik Stone]], CEO of Segnen Exchange, provided this statement:​
 
 "Zende Partners apparently intends to control the trade of Guardian
 commodities in Synuefe EN-H d11-96, which is perhaps why there is

@@ -11,7 +11,7 @@ Leavitt Port | Bhagui
 
 * Objective
 
-Deliver Animal Meat, Fish and Beer
+Deliver [[id:33adaaf7-4206-4047-bbd9-81be1fc169c0][Animal Meat]], [[id:6aec48eb-daf1-45ff-92d2-0ba46d6347f8][Fish]] and [[id:16605f5b-79a7-46d2-9a5c-b53826fc1b5f][Beer]]
 
 * Progress
 
@@ -34,7 +34,7 @@ Tier 4/8
 Finished
 
 Citizens of the Bhagui system are attempting to resurrect the ancient
-Oktoberfest celebration, an annual event based on a centuries-old Earth
+Oktoberfest celebration, an annual event based on a centuries-old [[id:5b0f485f-4793-468d-a1a1-483606f44e0e][Earth]]
 tradition.
 
 The scale of the event is unprecedented, and local suppliers are reeling
@@ -49,5 +49,5 @@ supporting a festival such as this. Nothing is more important to us than
 helping our communities.
 
 Mould Federal Mining Incorporated has placed an open order for Animal
-Meat, Fish and Beer, promising to reward pilots who deliver these
+Meat, [[id:6aec48eb-daf1-45ff-92d2-0ba46d6347f8][Fish]] and [[id:16605f5b-79a7-46d2-9a5c-b53826fc1b5f][Beer]], promising to reward pilots who deliver these
 commodities to Leavitt Port in the Bhagui system.

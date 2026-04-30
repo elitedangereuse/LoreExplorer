@@ -11,7 +11,7 @@ Furuta Orbital | Ipilyaqa
 
 * Objective
 
-Sell Progenitor Cells to Furuta Orbital
+Sell [[id:ef2cdcaf-36f7-4759-860c-4e489f48226c][Progenitor Cells]] to Furuta Orbital
 
 * Progress
 
@@ -34,7 +34,7 @@ Tier 3/6
 Finished
 
 The organisation known as Emperor's Dawn has issued an open contract
-for Progenitor Cells, which are to be delivered to the Ipilyaqa system.
+for [[id:ef2cdcaf-36f7-4759-860c-4e489f48226c][Progenitor Cells]], which are to be delivered to the Ipilyaqa system.
 Emperor's Dawn has not revealed the reason for the request, but it has
 set aside considerable resources for the compensation of cooperative
 pilots.

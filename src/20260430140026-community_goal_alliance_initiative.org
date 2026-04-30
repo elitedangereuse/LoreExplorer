@@ -7,11 +7,11 @@
 
 * Location
 
-California Gateway | Synuefai EB-R c7-5
+[[id:1d0d1587-a0be-4fff-b8b3-3ed448399620][California Gateway]] | [[id:fd4456a5-20f9-45dc-9d7e-84114b4c251f][Synuefai EB-R c7-5]]
 
 * Objective
 
-Deliver mined Osmium, Samarium and Coltan
+Deliver mined [[id:89bb247d-d459-4ebf-a000-698cd1d9c5fe][Osmium]], [[id:699175f3-27b8-43ca-a463-2896e147de16][Samarium]] and [[id:047e63e2-7b61-424c-a330-e712609eaba5][Coltan]]
 
 * Progress
 
@@ -33,15 +33,15 @@ Tier 5/8
 
 Finished
 
-The Alliance has announced plans to build an Ocellus starport in the MEL
+[[id:1c4d53a2-d81f-4cfa-8001-eb77f2c79b5f][The Alliance]] has announced plans to build an [[id:5700c476-8bf4-4710-90d9-1e5988bf6048][Ocellus]] starport in the MEL
 22 Sector GM-V C2-8 system, to further bridge the gap between the core
-systems and the Alliance's outposts in the California Nebula.
+systems and the [[id:2506edb2-fef4-4723-85c6-02482635229d][Alliance]]'s outposts in the [[id:6fee136e-381f-47a2-ba13-6d74c8798803][California Nebula]].
 
-Alliance official Torvan Dast issued the following statement:
+[[id:2506edb2-fef4-4723-85c6-02482635229d][Alliance]] official [[id:eb46eb3f-c399-45fa-a0e3-8362595e24ee][Torvan Dast]] issued the following statement:
 Our previous initiative established a link between our outposts in the
-California Nebula and the galactic core. But to ensure the safety and
+[[id:6fee136e-381f-47a2-ba13-6d74c8798803][California Nebula]] and the galactic core. But to ensure the safety and
 wellbeing of travellers following the route, we need to maintain a
 robust programme of starport construction.
 
-The initiative is being overseen by the Turner Research Group, which has
+The initiative is being overseen by the [[id:f76ba965-89ab-484f-8e67-b1996174a4a8][Turner Research Group]], which has
 placed an open order for mined resources to be used in the construction.

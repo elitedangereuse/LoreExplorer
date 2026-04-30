@@ -7,11 +7,11 @@
 
 * Location
 
-Newholm Station | Sothis
+[[id:15a6cb6a-a3c1-45b7-ae06-63c8e6755bca][Newholm Station]] | [[id:aa43803c-e60c-45bf-ab48-49a139931c68][Sothis]]
 
 * Objective
 
-Earn rewards by delivering Gold to Newholm Station
+Earn rewards by delivering Gold to [[id:15a6cb6a-a3c1-45b7-ae06-63c8e6755bca][Newholm Station]]
 
 * Progress
 
@@ -33,13 +33,13 @@ Tier 3/5
 
 Finished
 
-Scientists based at Newholm Station in the Sothis system have discovered
-a new metalloid called Sothis Crystalline Gold.
+Scientists based at [[id:15a6cb6a-a3c1-45b7-ae06-63c8e6755bca][Newholm Station]] in the [[id:aa43803c-e60c-45bf-ab48-49a139931c68][Sothis]] system have discovered
+a new metalloid called [[id:488137ee-6e22-47f6-93b1-05f2a26e2780][Sothis Crystalline Gold]].
 
 The material is produced by exposing ordinary gold to gas emitted by the
-thermal vents lining the seabeds of Sothis A5 and Sothis A6.
+thermal vents lining the seabeds of [[id:aa43803c-e60c-45bf-ab48-49a139931c68][Sothis]] A5 and [[id:aa43803c-e60c-45bf-ab48-49a139931c68][Sothis]] A6.
 
-The scientists of Newholm Station are eager to conduct further tests on
+The scientists of [[id:15a6cb6a-a3c1-45b7-ae06-63c8e6755bca][Newholm Station]] are eager to conduct further tests on
 this new material, but to do so they will need more gold. To help with
-this effort, Federation Unite! is offering a series of incentives to
-pilots who deliver Gold to Newholm Station.
+this effort, [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]] Unite! is offering a series of incentives to
+pilots who deliver Gold to [[id:15a6cb6a-a3c1-45b7-ae06-63c8e6755bca][Newholm Station]].

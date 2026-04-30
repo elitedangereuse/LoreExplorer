@@ -7,11 +7,11 @@
 
 * Location
 
-Navigator Market | Xelabara
+[[id:0492e118-33f4-4ebb-8e11-4c0aa04a1e1c][Navigator Market]] | [[id:8ef8f119-116b-4f07-924f-b51838b0d3b1][Xelabara]]
 
 * Objective
 
-Earn rewards by handing in Bounty Vouchers in Navigator Market
+Earn rewards by handing in [[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]] in [[id:0492e118-33f4-4ebb-8e11-4c0aa04a1e1c][Navigator Market]]
 
 * Progress
 
@@ -33,12 +33,12 @@ Tier 2/5
 
 Finished
 
-The request from the Drug Empire of Xelabara for Onion Head has drawn
-hundreds of pirates to the system. Fortunately, the Xelabara Republic
+The request from the Drug [[id:541dcfb3-93ef-40e5-9284-bf5a4f999043][Empire]] of [[id:8ef8f119-116b-4f07-924f-b51838b0d3b1][Xelabara]] for Onion Head has drawn
+hundreds of pirates to the system. Fortunately, the [[id:8ef8f119-116b-4f07-924f-b51838b0d3b1][Xelabara]] Republic
 Party has promised to reward pilots who help eliminate the pirates.
 
 Note:
-Alliance Bounties collected in HAZ RES in Bylgit system
-Alliance Bounties collected in HAZ RES in Kaushpoos system
-...the above Alliance systems bounties count towards the CG, when you
-turn them in at Xelebra /Navigator Market
+[[id:2506edb2-fef4-4723-85c6-02482635229d][Alliance]] Bounties collected in HAZ RES in Bylgit system
+[[id:2506edb2-fef4-4723-85c6-02482635229d][Alliance]] Bounties collected in HAZ RES in [[id:3ceec3b8-48ce-40e3-8b24-ba6fe065d56c][Kaushpoos]] system
+...the above [[id:2506edb2-fef4-4723-85c6-02482635229d][Alliance]] systems bounties count towards the CG, when you
+turn them in at Xelebra /[[id:0492e118-33f4-4ebb-8e11-4c0aa04a1e1c][Navigator Market]]

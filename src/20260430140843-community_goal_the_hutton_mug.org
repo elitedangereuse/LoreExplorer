@@ -7,11 +7,11 @@
 
 * Location
 
-Hutton Orbital | Alpha Centauri
+[[id:9e3161ac-9252-44d0-a526-b6e289cf28ee][Hutton Orbital]] | [[id:2de7ac5c-9ae0-4ebf-af7d-6505f05d2fd1][Alpha Centauri]]
 
 * Objective
 
-Sell Scrap to Hutton Orbital
+Sell [[id:639c7c13-7a10-46b4-b2de-82db57364db1][Scrap]] to [[id:9e3161ac-9252-44d0-a526-b6e289cf28ee][Hutton Orbital]]
 
 * Progress
 
@@ -33,11 +33,11 @@ Tier 4/5
 
 Finished
 
-A company based in Alpha Centauri is producing commemorative mugs for
+A company based in [[id:2de7ac5c-9ae0-4ebf-af7d-6505f05d2fd1][Alpha Centauri]] is producing commemorative mugs for
 those who complete the so-called 'Hutton run' - the 0.22 light-year
-trek from the system's star to Hutton Orbital. The mugs, which bear the
-legend 'I made it to Hutton Orbital', are made from Scrap material,
+trek from the system's star to [[id:9e3161ac-9252-44d0-a526-b6e289cf28ee][Hutton Orbital]]. The mugs, which bear the
+legend 'I made it to [[id:9e3161ac-9252-44d0-a526-b6e289cf28ee][Hutton Orbital]]', are made from [[id:639c7c13-7a10-46b4-b2de-82db57364db1][Scrap]] material,
 and the company is in need of additional material with which to produce
-their next batch. To help with this effort, the Alpha Centauri Freedom
-Party is offering a series of incentives to pilots who deliver Scrap to
-Hutton Orbital until such time as targets have been met.
+their next batch. To help with this effort, the [[id:2de7ac5c-9ae0-4ebf-af7d-6505f05d2fd1][Alpha Centauri]] Freedom
+Party is offering a series of incentives to pilots who deliver [[id:639c7c13-7a10-46b4-b2de-82db57364db1][Scrap]] to
+[[id:9e3161ac-9252-44d0-a526-b6e289cf28ee][Hutton Orbital]] until such time as targets have been met.

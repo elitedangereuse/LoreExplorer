@@ -7,12 +7,12 @@
 
 * Location
 
-Davy Dock | Procyon
+Davy Dock | [[id:6559bb6d-5d0b-41da-963e-d3400f7a22e4][Procyon]]
 
 * Objective
 
-Find and deliver Wreckage Components to the Sirius Corporation at Davy
-Dock in the Procyon system.
+Find and deliver [[id:ddf15bc1-5557-420a-a7f5-4b87154fe1fd][Wreckage Components]] to the [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]] at Davy
+Dock in the [[id:6559bb6d-5d0b-41da-963e-d3400f7a22e4][Procyon]] system.
 
 * Progress
 
@@ -34,24 +34,24 @@ Tier 2/8
 
 Finished
 
-The Sirius Corporation has announced that it intends to launch a search
-for the Antares, the innovative passenger liner that disappeared during
+The [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]] has announced that it intends to launch a search
+for the [[id:f6b3276c-304e-40ab-8dba-6ecfca7d6c5d][Antares]], the innovative passenger liner that disappeared during
 its maiden voyage in 3251. The corporation has invited the galactic
 community to participate in the search, promising to reward pilots who
-deliver Wreckage Components to Davy Dock.
+deliver [[id:ddf15bc1-5557-420a-a7f5-4b87154fe1fd][Wreckage Components]] to Davy Dock.
 
 The Corporation has released a list of the systems most likely to
-contain wreckage from the Antares, extrapolated from its last known
+contain wreckage from the [[id:f6b3276c-304e-40ab-8dba-6ecfca7d6c5d][Antares]], extrapolated from its last known
 trajectory:
 
 Wise 0855-0714
 Talta
-Epsilon Indi
-Alpha Centauri
+[[id:d40886f3-bc59-4f0d-8926-b125ee01c9bb][Epsilon Indi]]
+[[id:2de7ac5c-9ae0-4ebf-af7d-6505f05d2fd1][Alpha Centauri]]
 Luhman 16
 Rigga
 Wise 1639-6847
-Luyten 205-128
+[[id:56a590bf-081a-4483-b38f-0c6e3b30cd75][Luyten 205-128]]
 
 Credit Rewards:
 5% 75,000 credits

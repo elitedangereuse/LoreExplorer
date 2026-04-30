@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       a69e2180-0971-43a2-a8d0-5cbd9424f041
+:ROAM_REFS: file:../references/Community%20Goals/Aid_for_the_Mu_Koji_Refugees.md
 :END:
 #+title: Community Goal: Aid for the Mu Koji Refugees
 #+filetags: :Federation:Empire:CommunityGoal:3302:galnet:
@@ -8,10 +9,10 @@
 
 /29 Sep 3302/
 
-Earlier this month, the [[id:b134728d-ea83-43c0-af4d-c212b8a0dd91][Mu Koji]] system was engulfed in the ongoing conflict between the Empire and the Federation, as the superpowers staged rival operations to secure enemy intelligence. 
+Earlier this month, the [[id:b134728d-ea83-43c0-af4d-c212b8a0dd91][Mu Koji]] system was engulfed in the ongoing conflict between the [[id:541dcfb3-93ef-40e5-9284-bf5a4f999043][Empire]] and the [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]], as the superpowers staged rival operations to secure enemy intelligence.
 
-Although the battle only lasted a few days, the collateral damage was severe, resulting in the displacement of thousands of civilians. System authorities have responded by establishing a refugee centre at the Bujold Enterprise starport, but have found themselves unable to provide the many refugees with medicine and shelter. 
+Although the battle only lasted a few days, the collateral damage was severe, resulting in the displacement of thousands of civilians. System authorities have responded by establishing a refugee centre at the Bujold Enterprise starport, but have found themselves unable to provide the many refugees with medicine and shelter.
 
-The Kalana Independents have therefore offered to fund a coordinated relief effort. The organisation has placed an open order for basic medicines and evacuation shelters, and has promised to reward pilots who deliver these commodities to Bujold Enterprise in the Kalana system. 
+The Kalana Independents have therefore offered to fund a coordinated relief effort. The organisation has placed an open order for basic medicines and evacuation shelters, and has promised to reward pilots who deliver these commodities to Bujold Enterprise in the Kalana system.
 
 The campaign begins on the 29th of September 3302 and will run for one week. If final targets are met earlier than planned, the campaign will end immediately.

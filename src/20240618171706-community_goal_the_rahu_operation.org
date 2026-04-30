@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       12cdba4d-f75a-41a6-af53-fd00092da676
+:ROAM_REFS: file:../references/Community%20Goals/The_Rahu_Combat_Operation__Bounty_Hunting_.md
 :END:
 #+title: Community Goal: The Rahu Operation
 #+filetags: :Alliance:CommunityGoal:3303:galnet:
@@ -10,7 +11,7 @@
 
 An [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][Alliance]] spokesperson has announced that a Naval convoy has been attacked in the Rahu system. The spokesperson also confirmed that criminals have begun targeting the convoy with the intention of taking escape pods from the wreckage. They went on to say:
 
-"These criminals have just one aim: to abduct Alliance personnel and sell them into illegal slavery. We cannot allow these vile opportunists to take our comrades captive."
+"These criminals have just one aim: to abduct [[id:2506edb2-fef4-4723-85c6-02482635229d][Alliance]] personnel and sell them into illegal slavery. We cannot allow these vile opportunists to take our comrades captive."
 
 "We are therefore asking pilots to recover escape pods from the wreckage and deliver them to Acharya Station in Rahu. We have also placed a kill order on all wanted ships operating in the system, in support of the rescue operation."
 

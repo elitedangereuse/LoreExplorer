@@ -7,11 +7,11 @@
 
 * Location
 
-Quator Station | Quator
+[[id:420de9d4-776e-4835-a388-43792ddc5dd4][Quator]] Station | [[id:420de9d4-776e-4835-a388-43792ddc5dd4][Quator]]
 
 * Objective
 
-Hand in Combat Bonds after fighting for Bruthanvan Co. in Conflict Zones​
+Hand in [[id:bbbc7bc6-79d7-46b7-925e-c1f882c8f25a][Combat Bonds]] after fighting for Bruthanvan Co. in Conflict Zones​
 
 * Progress
 
@@ -33,28 +33,28 @@ Tier 6/8
 
 Finished
 
-An extremist group from the Kappa Fornacis system is responsible for the
+An extremist group from the [[id:b634e896-9d3d-4f44-9783-cfb8fd6d0c56][Kappa Fornacis]] system is responsible for the
 contaminated fertiliser that has caused widespread crop failures.​
 
 Gino Borstein made this statement on behalf of the tri-superpower
 taskforce investigating the blight's origin:​
 
-"Our investigation has confirmed that an activist group known as Scythe
-of Panem managed to infiltrate Rockforth Corporation manufacturing
-plants in the Riedquat system. Members of the group contaminated the EX7
+"Our investigation has confirmed that an activist group known as [[id:0c83348f-ca8a-4bb2-97ff-c497b9a010f0][Scythe]]
+of [[id:53188f1f-8959-4e53-a50e-a9098fb1d15b][Panem]] managed to infiltrate [[id:a7056ff8-e67d-4ca9-baf1-7e5df3efa677][Rockforth Corporation]] manufacturing
+plants in the [[id:633a799b-8c05-4136-8f94-cf169eab515f][Riedquat]] system. Members of the group contaminated the EX7
 fertiliser with a synthetic agent designed to putrefy plant matter."
 
 Recent efforts by the galactic community have almost eradicated the EX7
 fertiliser. But Borstein warned that the activists have turned hostile
 upon discovery.​
 
-"The group's manifesto discusses revenge for the Federation's 3301
+"The group's manifesto discusses revenge for the [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]]'s 3301
 campaign to wipe out the recreational drug known as Onion Head. This
-involved an orbital bombardment of Onion Head crops on Panem using
+involved an orbital bombardment of Onion Head crops on [[id:53188f1f-8959-4e53-a50e-a9098fb1d15b][Panem]] using
 biocides with a similar genomic structure to the blight. It's likely
 that the activists used these biocides as the foundation of their
-synthetic agent. Shortly after we located Scythe of Panem cells in the
-Quator system, their more militant members responded with unprovoked
+synthetic agent. Shortly after we located [[id:0c83348f-ca8a-4bb2-97ff-c497b9a010f0][Scythe]] of [[id:53188f1f-8959-4e53-a50e-a9098fb1d15b][Panem]] cells in the
+[[id:420de9d4-776e-4835-a388-43792ddc5dd4][Quator]] system, their more militant members responded with unprovoked
 violence. Local citizens are now at risk of being caught in the
 crossfire."
 

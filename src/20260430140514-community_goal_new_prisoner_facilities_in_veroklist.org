@@ -33,7 +33,7 @@ Tier 3/8
 
 Finished
 
-The Empire has announced plans to construct a new Riker-Class Prison
+[[id:1047d7bb-a08d-430d-a445-4ec9a1b2daa3][The Empire]] has announced plans to construct a new Riker-Class [[id:e8035fca-336e-4175-a00d-b5d61dfa1196][Prison]]
 Ship in the Veroklist system.
 
 Once complete, the ship will house criminals who accepted a period of
@@ -48,7 +48,7 @@ Vision in the Veroklist system.
 Moritasgus Imperial Corporation spokesperson Superintendent Arnold
 Cochran released the following statement:
 
-"We are pleased the Empire has awarded us this contract, and we look
+"We are pleased the [[id:541dcfb3-93ef-40e5-9284-bf5a4f999043][Empire]] has awarded us this contract, and we look
 forward to the first ships arriving with our new guests."
 
 Note: Vaucouleurs Vision is an outpost, no Large Pads available.

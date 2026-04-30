@@ -7,7 +7,7 @@
 
 * Location
 
-Neville Horizons | Kaushpoos
+Neville Horizons | [[id:3ceec3b8-48ce-40e3-8b24-ba6fe065d56c][Kaushpoos]]
 
 * Objective
 
@@ -33,8 +33,8 @@ Tier 5/5
 
 Finished
 
-The Explorer's Association has started work on a new Ocellus starport
-in the Kaushpoos system, but the miners gathering resources for the
+The Explorer's Association has started work on a new [[id:5700c476-8bf4-4710-90d9-1e5988bf6048][Ocellus]] starport
+in the [[id:3ceec3b8-48ce-40e3-8b24-ba6fe065d56c][Kaushpoos]] system, but the miners gathering resources for the
 project are being harassed by local agitators. The Explorers'
 Association has issued an appeal for help, promising to reward those who
 help eliminate the troublemakers.

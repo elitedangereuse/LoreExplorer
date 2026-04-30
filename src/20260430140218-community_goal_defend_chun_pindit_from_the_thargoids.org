@@ -11,7 +11,7 @@ Samuda Terminal | Chun Pindit
 
 * Objective
 
-Hand in Pilots Federation Combat bonds from destroying Thargoid ships
+Hand in Pilots [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]] Combat bonds from destroying Thargoid ships
 
 * Progress
 
@@ -36,15 +36,15 @@ Finished
 Swarms of Thargoid vessels have invaded the 42 n Persei, Chun Pindit and
 Tekkeitjal systems in an apparently coordinated attack.
 
-Vox Galactica published this report by field correspondent Ernesto
+[[id:4ab0f53c-0b85-43a3-83ca-b9e88c0db30e][Vox Galactica]] published this report by field correspondent Ernesto
 Rios:
 
-"Since the Thargoids conquered HIP 22460 a month ago, their presence
+"Since the Thargoids conquered [[id:55088d83-4221-44fa-a9d5-6ebb0866c722][HIP 22460]] a month ago, their presence
 has gradually expanded in all directions. But these are the first
-inhabited systems to be invaded since the Proteus Wave incident,
+inhabited systems to be invaded since the [[id:38143d4a-d8a5-4978-a62c-8b64a0c75969][Proteus Wave]] incident,
 threatening a combined population of over seven million people."
 
-Defensive operations are being orchestrated by SI Terraforming from the
+Defensive operations are being orchestrated by SI [[id:48bbb683-32e9-40c0-a2f6-26da016886de][Terraforming]] from the
 starport Samuda Terminal in the Chun Pindit system. Thargoid combat
 bonds can be handed in at this location for increased credit rewards.
 

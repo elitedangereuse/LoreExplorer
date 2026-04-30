@@ -11,7 +11,7 @@ Fairfax Vision | Aventine
 
 * Objective
 
-Hand in Combat Bonds
+Hand in [[id:bbbc7bc6-79d7-46b7-925e-c1f882c8f25a][Combat Bonds]]
 
 * Progress
 
@@ -33,24 +33,24 @@ Tier 0/5
 
 Finished
 
-The Exiled Marlinist Assembly of Baltah'Sine has declared war against
+The Exiled [[id:46536da8-abd4-461f-9bf9-b749d4fc25e1][Marlinist]] Assembly of [[id:e99db58f-3cfe-4548-b7da-284176167527][Baltah'Sine]] has declared war against
 the Marlinism Reformation Party in the Hyades Sector RO-P b6-2 system.
 
 Political relations degenerated into open combat following the NMLA's
-recent attacks, with Acting First Minister Amrita Ross's efforts to
+recent attacks, with Acting First Minister [[id:eadb4e1d-bb5f-4f30-b0c6-b09243b66031][Amrita Ross]]'s efforts to
 negotiate a peaceful resolution proving unsuccessful.
 
-Supporters of the Marlinism Reformation Party are gathering at the Steel
-Majesty megaship. This was formerly used by the Neo-Marlinist Order of
-Mudhrid to flee from their home system.
+Supporters of the Marlinism Reformation Party are gathering at the [[id:5736dd4c-6645-4a96-b30b-7a56277decab][Steel]]
+Majesty megaship. This was formerly used by the Neo-[[id:46536da8-abd4-461f-9bf9-b749d4fc25e1][Marlinist]] Order of
+[[id:bb9435b7-f21d-4afc-8ca6-a57d0fd51065][Mudhrid]] to flee from their home system.
 
-Minister Aaron Whyte sent this message from his private vessel:
+Minister [[id:83ddd0cb-e22d-4586-bc11-692af4a335c8][Aaron Whyte]] sent this message from his private vessel:
 
 "Volkov's unlawful strike is a violation of our colonies' charter. We
 call upon all true Marlinists to defend us from this illegal act of
 aggression."
 
-The Alliance, Empire and Federation have informed the Marlinist
+[[id:1c4d53a2-d81f-4cfa-8001-eb77f2c79b5f][The Alliance]], [[id:541dcfb3-93ef-40e5-9284-bf5a4f999043][Empire]] and [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]] have informed the [[id:46536da8-abd4-461f-9bf9-b749d4fc25e1][Marlinist]]
 Consulate that they consider this conflict to be a strictly internal
 matter.
 

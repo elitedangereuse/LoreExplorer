@@ -11,7 +11,7 @@ Templar Barracks | Randgnid
 
 * Objective
 
-Deliver Aquaponic Systems, Water Purifiers and Water
+Deliver [[id:51d0a6d0-4724-43cb-9ec7-1f9d0b6ee1dd][Aquaponic Systems]], [[id:2f1be518-d6d9-4e2e-84ce-ea7e5d86e099][Water Purifiers]] and [[id:6a0424e6-c3dd-486d-a6cb-5db4902ee9a8][Water]]
 
 * Progress
 
@@ -33,20 +33,20 @@ Tier 8/8
 
 Finished
 
-Authorities in Colonia have decided to build a state-of-the-art
+Authorities in [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] have decided to build a state-of-the-art
 hydroponics facility, due to research projecting a possible food
 shortage in the region.
 
-Professor Diana VanCleef, a scientific adviser to the Colonia Council,
+Professor Diana VanCleef, a scientific adviser to the [[id:6b6559fd-c7fa-44c9-b540-b94ddcadbd50][Colonia Council]],
 gave the following statement:
-The growing populace of Colonia means we need to provide a reliable and
+The growing populace of [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] means we need to provide a reliable and
 sustainable source of food for the region. We aim to address this by
-building a new hydroponics facility that will serve Colonia for
+building a new hydroponics facility that will serve [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] for
 generations to come.
 
-The campaign is being run by Colonia Research Division, one of
-Colonia's partner organisations, which has asked pilots to deliver
-Aquaponic Systems, Water Purifiers and Water to Templar Barracks in the
+The campaign is being run by [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] Research Division, one of
+[[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]]'s partner organisations, which has asked pilots to deliver
+[[id:51d0a6d0-4724-43cb-9ec7-1f9d0b6ee1dd][Aquaponic Systems]], [[id:2f1be518-d6d9-4e2e-84ce-ea7e5d86e099][Water Purifiers]] and [[id:6a0424e6-c3dd-486d-a6cb-5db4902ee9a8][Water]] to Templar Barracks in the
 Randgnid system.
 
 The campaign begins on the 16th of August 3304 and will run for one
@@ -54,10 +54,10 @@ week. If the final target is met earlier than planned, the campaign will
 end immediately.
 
 To be eligible for rewards you must sign up as an active participant
-before delivering Aquaponic Systems, Water Purifiers and Water to
+before delivering [[id:51d0a6d0-4724-43cb-9ec7-1f9d0b6ee1dd][Aquaponic Systems]], [[id:2f1be518-d6d9-4e2e-84ce-ea7e5d86e099][Water Purifiers]] and [[id:6a0424e6-c3dd-486d-a6cb-5db4902ee9a8][Water]] to
 Templar Barracks in the Randgnid system.
 
-Be aware that faction-state changes, Thargoid Sensor-related
+Be aware that faction-state changes, [[id:8ddf8e00-4541-4857-a609-5f6c5849dded][Thargoid Sensor]]-related
 interference and other disruptive events can negatively impact markets
 and station services, and could prevent the initiative from running
 smoothly.

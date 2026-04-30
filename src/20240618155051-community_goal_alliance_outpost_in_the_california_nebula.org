@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       5424b64f-11bb-4d8c-86de-8d1f60132540
+:ROAM_REFS: file:../references/Community%20Goals/Alliance_Outpost_in_the_California_Nebula.md
 :END:
 #+title: Community Goal: Alliance Outpost in the California Nebula
 #+filetags: :Alliance:CommunityGoal:3302:galnet:
@@ -8,10 +9,10 @@
 
 /13 Oct 3302/
 
-Last week, the Alliance deployed a flotilla to the [[id:d4edf856-0f0e-4942-959b-311d310cbc82][California Sector BA-A E6]] system in the California Nebula. The act proved controversial, prompting accusations that the Alliance was attempting to lay claim to the organic structures on [[id:d4edf856-0f0e-4942-959b-311d310cbc82][California Sector BA-A E6]] 4 of the [[id:d4edf856-0f0e-4942-959b-311d310cbc82][California Sector BA-A E6]] system.
+Last week, the [[id:2506edb2-fef4-4723-85c6-02482635229d][Alliance]] deployed a flotilla to the [[id:d4edf856-0f0e-4942-959b-311d310cbc82][California Sector BA-A E6]] system in the [[id:6fee136e-381f-47a2-ba13-6d74c8798803][California Nebula]]. The act proved controversial, prompting accusations that the [[id:2506edb2-fef4-4723-85c6-02482635229d][Alliance]] was attempting to lay claim to the organic structures on [[id:d4edf856-0f0e-4942-959b-311d310cbc82][California Sector BA-A E6]] 4 of the [[id:d4edf856-0f0e-4942-959b-311d310cbc82][California Sector BA-A E6]] system.
 
-In the wake of this development, the Alliance has announced plans to construct a new outpost on [[id:d4edf856-0f0e-4942-959b-311d310cbc82][California Sector BA-A E6]] 4. According to an Alliance spokesperson, the station will serve as "a centre for scientific study, supporting our ongoing research into the organic structures and meta-alloys".
+In the wake of this development, the [[id:2506edb2-fef4-4723-85c6-02482635229d][Alliance]] has announced plans to construct a new outpost on [[id:d4edf856-0f0e-4942-959b-311d310cbc82][California Sector BA-A E6]] 4. According to an [[id:2506edb2-fef4-4723-85c6-02482635229d][Alliance]] spokesperson, the station will serve as "a centre for scientific study, supporting our ongoing research into the organic structures and meta-alloys".
 
-In support of this initiative, the Alliance has placed an open order for geological equipment, hazardous-environment suits and pesticides. 160 SOAR, which is coordinating the appeal, has promised to reward pilots who deliver these commodities to Tshang City in the Furuhjelm III-674 system.
+In support of this initiative, the [[id:2506edb2-fef4-4723-85c6-02482635229d][Alliance]] has placed an open order for geological equipment, hazardous-environment suits and pesticides. 160 SOAR, which is coordinating the appeal, has promised to reward pilots who deliver these commodities to Tshang City in the Furuhjelm III-674 system.
 
 The campaign begins on the 13th of October 3302 and will run for two weeks. If final targets are met earlier than planned, the campaign will end immediately.

@@ -7,11 +7,11 @@
 
 * Location
 
-Weber Gateway | Noti
+Weber Gateway | [[id:d8f9e754-4f57-4123-b488-118f0755df72][Noti]]
 
 * Objective
 
-Deliver Xihe Companions (from Zhen Dock in Xihe) to Weber Gateway to
+Deliver [[id:90e2bd06-c61d-4e91-903b-e578f2b0a8ad][Xihe]] Companions (from [[id:a12cf166-a62a-461b-b321-8d4eb6814b5c][Zhen Dock]] in [[id:90e2bd06-c61d-4e91-903b-e578f2b0a8ad][Xihe]]) to Weber Gateway to
 help create the ultimate culinary force.
 
 * Progress
@@ -34,13 +34,13 @@ Tier 8/8
 
 Finished
 
-The Revolutionary Noti Value Party has announced that not only are the
-Master Chefs real, they would soon be available for purchase and has
+The Revolutionary [[id:d8f9e754-4f57-4123-b488-118f0755df72][Noti]] Value Party has announced that not only are the
+[[id:f055b562-88b2-4eab-b160-18ac63d812a6][Master Chefs]] real, they would soon be available for purchase and has
 told reporters that it intends to further improve the efficacy of it's
 gastronomic labourers by implanting a comprehensive compendium of
 culinary knowledge in the form of a holographic companion directly into
 their cerebellums.
 
-The Revolutionary Noti Values Party has issued an open contract for Xihe
+The Revolutionary [[id:d8f9e754-4f57-4123-b488-118f0755df72][Noti]] Values Party has issued an open contract for [[id:90e2bd06-c61d-4e91-903b-e578f2b0a8ad][Xihe]]
 Companions and has set aside a sizeable fund to reward pilots who
 respond to the appeal.

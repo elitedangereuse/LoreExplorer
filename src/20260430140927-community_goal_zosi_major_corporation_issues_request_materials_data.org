@@ -11,7 +11,7 @@ Citi Enterprise | Zosi
 
 * Objective
 
-Deliver Thermic Alloys, Chemical Manipulators and Cracked Industrial
+Deliver [[id:24b2d77a-a699-4a0d-ae27-3754e2130101][Thermic Alloys]], [[id:98454801-e9ab-4ec7-b930-cc3d66911636][Chemical Manipulators]] and Cracked Industrial
 Firmware
 
 * Progress
@@ -34,20 +34,20 @@ Tier 4/8
 
 Finished
 
-Zosi Major Corporation, an independent organisation based in the Zosi
+[[id:38f26d86-43fb-4de8-a212-388dc5f3b752][Zosi Major Corporation]], an independent organisation based in the Zosi
 system, has placed an open order for thermic alloys, chemical
 manipulators and cracked industrial firmware. According to the
 organisation's spokesperson, the resources will be used in an
 unspecified research and development project.
 
-Dr Arkady Cole, the organisation's chief research scientist, released
+Dr [[id:bbcc7637-001c-4185-a66c-53049c94e657][Arkady Cole]], the organisation's chief research scientist, released
 the following statement:
 
 "We want the resources, yes? Very useful to us. Process is simple.
 Deliver the resources and be paid. Yes."
 
 Despite the opaque nature of the request, it is likely the generous
-reimbursements offered by the Zosi Major Corporation will ensure its
+reimbursements offered by the [[id:38f26d86-43fb-4de8-a212-388dc5f3b752][Zosi Major Corporation]] will ensure its
 orders are met. Participating pilots have been instructed to deliver the
 requested commodities to Citi Enterprise in the Zosi system.
 
@@ -64,10 +64,10 @@ events can negatively impact markets and station services, and could
 prevent the initiative from running smoothly.
 
 [Notes:\\\\](Notes:\\) Where to find materials...
-- Thermic Alloys: Ship salvage from combat ships, mission rewards
-- Chemical Manipulators: Ship salvage from transport ships, Surface
+- [[id:24b2d77a-a699-4a0d-ae27-3754e2130101][Thermic Alloys]]: Ship salvage from combat ships, mission rewards
+- [[id:98454801-e9ab-4ec7-b930-cc3d66911636][Chemical Manipulators]]: Ship salvage from transport ships, Surface
 POIs
-- Cracked Industrial Firmware: Surface data points, mission rewards
+- [[id:fe68ebe2-a42c-4693-be35-73df6407432a][Cracked Industrial Firmware]]: Surface data points, mission rewards
 
 Current Global Progress: 27,195 tonnes collected
 

@@ -7,11 +7,11 @@
 
 * Location
 
-Obsidian Orbital | Maia
+[[id:4223b99a-7e0c-44fa-b7e9-afeca7e0c031][Obsidian Orbital]] | [[id:0ee60994-364c-41b9-98ca-993d041cea72][Maia]]
 
 * Objective
 
-Deliver Tantalum and Superconductors
+Deliver [[id:d10c0435-4bc8-42ac-bea6-228d2f02604c][Tantalum]] and [[id:94637eec-3dd2-478f-9f38-8930b96a15fe][Superconductors]]
 
 * Progress
 
@@ -33,12 +33,12 @@ Tier 5/8
 
 Finished
 
-The Federation has announced plans to establish an asteroid base among
+The [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]] has announced plans to establish an asteroid base among
 the rings of HIP 17692 A4 in the HIP 17692 system, as part of it's
-ongoing operations in the Pleiades star cluster.
+ongoing operations in the [[id:cd15e78b-89d1-4051-bd92-05d0ab49ec17][Pleiades]] star cluster.
 
-The superpower has placed an open order for Tantalum and Superconductors
-promising to reward those who support the campaign. The Pleiades
+The superpower has placed an open order for [[id:d10c0435-4bc8-42ac-bea6-228d2f02604c][Tantalum]] and [[id:94637eec-3dd2-478f-9f38-8930b96a15fe][Superconductors]]
+promising to reward those who support the campaign. The [[id:cd15e78b-89d1-4051-bd92-05d0ab49ec17][Pleiades]]
 Resource Enterprise has been authorised to coordinate the initiative.
 
 The campaign begins on the 15th of June 3303 and will run for one week.
@@ -46,8 +46,8 @@ If the final target is met earlier than planned, the campaign will end
 immediately.
 
 To be eligible for rewards you must sign up as an active participant
-before delivering Tantalum and Superconductors to Obsidian Orbital in
-the Maia system.
+before delivering [[id:d10c0435-4bc8-42ac-bea6-228d2f02604c][Tantalum]] and [[id:94637eec-3dd2-478f-9f38-8930b96a15fe][Superconductors]] to [[id:4223b99a-7e0c-44fa-b7e9-afeca7e0c031][Obsidian Orbital]] in
+the [[id:0ee60994-364c-41b9-98ca-993d041cea72][Maia]] system.
 
 Be aware that faction-state changes, UA bombing and other disruptive
 events can negatively impact markets and station services, and could

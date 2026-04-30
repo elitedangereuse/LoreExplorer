@@ -7,11 +7,11 @@
 
 * Location
 
-Cowper Dock | Anima
+[[id:37808842-5e33-459f-a2b1-e9a47acf040d][Cowper Dock]] | [[id:61a74587-978a-4a97-97cd-a9151a82a34f][Anima]]
 
 * Objective
 
-Deliver Consumer Technology, Hardware Diagnostic Sensors and Computer
+Deliver [[id:b17cfefe-ff86-4baf-aca3-69ad61c4b884][Consumer Technology]], Hardware Diagnostic Sensors and Computer
 Components
 
 * Progress
@@ -34,38 +34,38 @@ Tier 0/8
 
 Finished
 
-Two rival technology companies - Supratech and Herculean Machines - have
+Two rival technology companies - [[id:3e9f43fb-038f-46a6-be53-3c9af1bad474][Supratech]] and [[id:46e9f326-2119-4d5b-a625-a32820a44642][Herculean Machines]] - have
 appealed for commodities to support the release of forthcoming
 products.
 
-Scorpio DeVorrow, CEO of Supratech, issued the following statement:
+[[id:b62c9e2e-8079-44bc-a30d-d192076162e6][Scorpio DeVorrow]], CEO of [[id:3e9f43fb-038f-46a6-be53-3c9af1bad474][Supratech]], issued the following statement:
 
 "The Torc is the latest in personal computing, featuring
 state-of-the-art holographic technology. Anyone who wants to benefit
 from the next generation in wearable hardware should support its
 development."
 
-Meanwhile, Maddox Hurd, head of Herculean Machines, had this to say:
+Meanwhile, [[id:93fd6de1-43a9-40e8-819f-43d9bcd3a709][Maddox Hurd]], head of [[id:46e9f326-2119-4d5b-a625-a32820a44642][Herculean Machines]], had this to say:
 
 "The Duradrive cannot be rivalled for power or customisability. What
 people need in this challenging age is a robust product, not some
 ephemeral toy that malfunctions when exposed to a stiff breeze."
 
-To bring the Duradrive to market Anima Electronics Industries, which is
-overseeing the initiative on behalf of Herculean Machines, has placed an
-open order for Consumer Technology, Hardware Diagnostic Sensors, and
-Computer Components. Pilots wishing to support Herculean Machines should
-deliver commodities to Cowper Dock in the Anima system.
+To bring the Duradrive to market [[id:61a74587-978a-4a97-97cd-a9151a82a34f][Anima]] Electronics Industries, which is
+overseeing the initiative on behalf of [[id:46e9f326-2119-4d5b-a625-a32820a44642][Herculean Machines]], has placed an
+open order for [[id:b17cfefe-ff86-4baf-aca3-69ad61c4b884][Consumer Technology]], Hardware Diagnostic Sensors, and
+[[id:66b0f0aa-4387-46f9-9abe-a3dbe1033c6f][Computer Components]]. Pilots wishing to support [[id:46e9f326-2119-4d5b-a625-a32820a44642][Herculean Machines]] should
+deliver commodities to [[id:37808842-5e33-459f-a2b1-e9a47acf040d][Cowper Dock]] in the [[id:61a74587-978a-4a97-97cd-a9151a82a34f][Anima]] system.
 
 The campaigns begin on the 20th of September 3304 and will run for one
 week. If either party achieves its aims earlier than planned, both
 campaigns will end immediately.
 
 To be eligible for rewards you must sign up as an active participant
-before delivering Conductive Fabrics, Robotics and Microcontrollers to
+before delivering [[id:bb531437-bf7f-4650-81e3-2e62c78a0213][Conductive Fabrics]], [[id:04da3c2d-0705-481d-b17c-8b4235a3aa7a][Robotics]] and Microcontrollers to
 Roberts Port in the Fedmich system.
 
-Be aware that faction-state changes, Thargoid Sensor-related
+Be aware that faction-state changes, [[id:8ddf8e00-4541-4857-a609-5f6c5849dded][Thargoid Sensor]]-related
 interference and other disruptive event can negatively impact markets
 and station services, and could prevent the initiative from running
 smoothly.

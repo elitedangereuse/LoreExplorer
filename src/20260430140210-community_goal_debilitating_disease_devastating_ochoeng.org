@@ -7,11 +7,11 @@
 
 * Location
 
-Roddenberry Gateway | Ochoeng
+[[id:ca789be4-bf3f-4bfd-a28e-6c30cf5db558][Roddenberry Gateway]] | [[id:641d5a2f-9417-469c-a004-c9588ca558e8][Ochoeng]]
 
 * Objective
 
-Sell Medicines to Roddenberry Gateway
+Sell Medicines to [[id:ca789be4-bf3f-4bfd-a28e-6c30cf5db558][Roddenberry Gateway]]
 
 * Progress
 
@@ -33,14 +33,14 @@ Tier 0/1
 
 Finished
 
-A terrifying disease is currently working its way through Ochoeng. So
+A terrifying disease is currently working its way through [[id:641d5a2f-9417-469c-a004-c9588ca558e8][Ochoeng]]. So
 far the illness has defied all attempts to contain it, despite the best
-efforts of the medical staff aboard Roddenberry Gateway.
+efforts of the medical staff aboard [[id:ca789be4-bf3f-4bfd-a28e-6c30cf5db558][Roddenberry Gateway]].
 
 Many people have already been placed in quarantine, with many more
 thought to have already been infected. Doctors are concerned that that
 pathogen responsible may have already begun to spread to other systems.
-to assist medical staff aboard Roddenberry Gateway, the Movement For
-Ochoeng Revolutionary Party are offering a series of incentives to any
-pilots that provide medicines to Roddenberry Gateway market until such
+to assist medical staff aboard [[id:ca789be4-bf3f-4bfd-a28e-6c30cf5db558][Roddenberry Gateway]], the Movement For
+[[id:641d5a2f-9417-469c-a004-c9588ca558e8][Ochoeng]] Revolutionary Party are offering a series of incentives to any
+pilots that provide medicines to [[id:ca789be4-bf3f-4bfd-a28e-6c30cf5db558][Roddenberry Gateway]] market until such
 time as the crisis has been averted.

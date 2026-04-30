@@ -11,7 +11,7 @@ Humason Orbital | Carns
 
 * Objective
 
-Sell Robotics to Humason Orbital
+Sell [[id:04da3c2d-0705-481d-b17c-8b4235a3aa7a][Robotics]] to Humason Orbital
 
 * Progress
 
@@ -35,10 +35,10 @@ Finished
 
 Carns is looking to invest in the future and change its base economy.
 With incentives from the local authorities, local start-ups are
-developing High Tech-based trade. Financial and investment experts
+developing [[id:4c51911b-6266-4575-abcb-96a18b3800b7][High Tech]]-based trade. Financial and investment experts
 believe that Commanders in the area could benefit greatly from
-supporting these new businesses by importing vast amounts of Robotics.
+supporting these new businesses by importing vast amounts of [[id:04da3c2d-0705-481d-b17c-8b4235a3aa7a][Robotics]].
 
-Carns Imperial Society has started sponsoring trade of Robotics in an
+Carns Imperial Society has started sponsoring trade of [[id:04da3c2d-0705-481d-b17c-8b4235a3aa7a][Robotics]] in an
 attempt to take advantage of the situation. It has prepared a series of
-rewards for Commanders trading Robotics at Humason Orbital.
+rewards for Commanders trading [[id:04da3c2d-0705-481d-b17c-8b4235a3aa7a][Robotics]] at Humason Orbital.

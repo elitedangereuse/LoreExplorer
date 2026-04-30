@@ -7,11 +7,11 @@
 
 * Location
 
-Jaques Station | Colonia
+[[id:935880a2-d4fb-4d27-ad48-0f95112ee0fe][Jaques Station]] | [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]]
 
 * Objective
 
-Deliver Auto-Fabricators, Resonating Separators and Micro Controllers
+Deliver [[id:5d99c688-f21a-41e1-9ebb-00b626b4c31f][Auto-Fabricators]], [[id:0c4bfccc-2597-4f26-a8fe-bcd003e6f9c3][Resonating Separators]] and [[id:e87b8a83-ecc1-4d17-917a-964e6196526b][Micro Controllers]]
 
 * Progress
 
@@ -33,39 +33,39 @@ Tier 4/5
 
 Finished
 
-Delivery campaigns in the Alcor and Colonia systems will complete the
-six starports along the Colonia Bridge.
+Delivery campaigns in the [[id:eb11ab9d-aab7-4d9b-aeaf-a228ef33d4da][Alcor]] and [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] systems will complete the
+six starports along the [[id:97a8c7e5-9399-4ebe-9457-8029ce809303][Colonia Bridge]].
 
 Months of work on developing the transportation infrastructure between
-the core systems and the Colonia region are now coming to an end. Brewer
+the core systems and the [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] region are now coming to an end. Brewer
 Corporation's latest press release specified the requirements:
 
-"Phase four of the Colonia Bridge project has finally reached its
+"Phase four of the [[id:97a8c7e5-9399-4ebe-9457-8029ce809303][Colonia Bridge]] project has finally reached its
 conclusion. Thanks to the many shipments provided by contributors, all
 six starports now offer Material Traders, Bartenders and Mission
 services."
 
-"For this final week, we are asking pilots to deliver Auto-Fabricators,
-Micro Controllers and Resonating Separators to Macdonald Settlement in
-the Alcor system and Jaques Station in the Colonia system. These will
+"For this final week, we are asking pilots to deliver [[id:5d99c688-f21a-41e1-9ebb-00b626b4c31f][Auto-Fabricators]],
+[[id:e87b8a83-ecc1-4d17-917a-964e6196526b][Micro Controllers]] and [[id:0c4bfccc-2597-4f26-a8fe-bcd003e6f9c3][Resonating Separators]] to Macdonald Settlement in
+the [[id:eb11ab9d-aab7-4d9b-aeaf-a228ef33d4da][Alcor]] system and [[id:935880a2-d4fb-4d27-ad48-0f95112ee0fe][Jaques Station]] in the [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] system. These will
 allow us to install Pioneer Supplies, Outfitting, Shipyard and Human
 Tech Broker services, as we bring the starports to full operational
 status."
 
-"Brewer Corporation is grateful to independent pilots for their
-dedication to constructing the Colonia Bridge. We are therefore pleased
+"[[id:d9459015-dae3-4233-9eb7-a2fb11344097][Brewer Corporation]] is grateful to independent pilots for their
+dedication to constructing the [[id:97a8c7e5-9399-4ebe-9457-8029ce809303][Colonia Bridge]]. We are therefore pleased
 to offer an Exploration decal to the top 75% of participants who deliver
 materials in this concluding stage, as well as a single engineered
 overcharged 3A power plant."
 
-The top ten contributors for each of the Colonia Bridge initiatives will
+The top ten contributors for each of the [[id:97a8c7e5-9399-4ebe-9457-8029ce809303][Colonia Bridge]] initiatives will
 have the opportunity to be named in tourist beacons that will
 commemorate the project's conclusion, and every Commander who has
-contributed to any of the Colonia Bridge initiative will receive a
+contributed to any of the [[id:97a8c7e5-9399-4ebe-9457-8029ce809303][Colonia Bridge]] initiative will receive a
 commemorative Brewer Corp decal.
 
-Each tier reached will enable Brewer Corporation to establish a further
-service to the first starport out from Colonia, as follows:
+Each tier reached will enable [[id:d9459015-dae3-4233-9eb7-a2fb11344097][Brewer Corporation]] to establish a further
+service to the first starport out from [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]], as follows:
 
 Tier 1: Pioneer Supplies
 Tier 2: Outfitting

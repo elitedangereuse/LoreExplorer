@@ -7,11 +7,11 @@
 
 * Location
 
-Neville Horizons | Kaushpoos
+Neville Horizons | [[id:3ceec3b8-48ce-40e3-8b24-ba6fe065d56c][Kaushpoos]]
 
 * Objective
 
-Earn rewards by handing in Bounty Vouchers at Neville Horizons
+Earn rewards by handing in [[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]] at Neville Horizons
 
 * Progress
 
@@ -34,7 +34,7 @@ Tier 5/5
 Finished
 
 The Explorer's Association has issued an emergency statement regarding
-their recent kill order on pirates in the Kaushpoos system.
+their recent kill order on pirates in the [[id:3ceec3b8-48ce-40e3-8b24-ba6fe065d56c][Kaushpoos]] system.
 "We are pleased with the response of independent pilots who helped wipe
 out the opportunist agitators that were preying on our trade and mining
 pilots."

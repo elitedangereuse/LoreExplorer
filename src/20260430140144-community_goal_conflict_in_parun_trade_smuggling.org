@@ -11,7 +11,7 @@ Underwood Port | Parun
 
 * Objective
 
-Deliver Personal Weapons, Explosives and Reactive Armour
+Deliver [[id:f7cecb6c-6f5a-484b-8360-fb299214131e][Personal Weapons]], [[id:6a105d93-c0fd-4c15-8c62-d8feb5d76fdb][Explosives]] and [[id:85a9f73a-636f-459f-8a46-d93b1a3dca16][Reactive Armour]]
 
 * Progress
 
@@ -34,14 +34,14 @@ Tier 7/8
 Finished
 
 The Laksmil Jet Power Industries has orchestrated an operation to
-smuggle quantities of Personal Weapons, Explosives and Reactive Armour
+smuggle quantities of [[id:f7cecb6c-6f5a-484b-8360-fb299214131e][Personal Weapons]], [[id:6a105d93-c0fd-4c15-8c62-d8feb5d76fdb][Explosives]] and [[id:85a9f73a-636f-459f-8a46-d93b1a3dca16][Reactive Armour]]
 into Underwood Port so Imperial agents can use it to conduct guerrilla
 attacks against the Independents of Parun, the system's controlling
 faction.
 
 The Laksmil Jet Power Industries has appealed to the galactic community
 for support, promising to reward pilots who support its campaign by
-delivering Personal Weapons, Explosives and Reactive Armour to Underwood
+delivering [[id:f7cecb6c-6f5a-484b-8360-fb299214131e][Personal Weapons]], [[id:6a105d93-c0fd-4c15-8c62-d8feb5d76fdb][Explosives]] and [[id:85a9f73a-636f-459f-8a46-d93b1a3dca16][Reactive Armour]] to Underwood
 Port in the Parun system.
 
 The operation begins on the 12th of January and will run for one week.
@@ -49,7 +49,7 @@ If the final target is met earlier than planned, the campaign will end
 immediately.
 
 To be eligible for rewards you must sign up as an active participant
-before delivering Personal Weapons, Explosives and Reactive Armour to
+before delivering [[id:f7cecb6c-6f5a-484b-8360-fb299214131e][Personal Weapons]], [[id:6a105d93-c0fd-4c15-8c62-d8feb5d76fdb][Explosives]] and [[id:85a9f73a-636f-459f-8a46-d93b1a3dca16][Reactive Armour]] to
 Underwood Port in the Parun system.
 
 Be aware that faction-state changes, UA bombing and other disruptive

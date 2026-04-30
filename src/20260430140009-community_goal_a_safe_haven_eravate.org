@@ -7,7 +7,7 @@
 
 * Location
 
-Cleve Hub | Eravate
+Cleve Hub | [[id:758e843d-ea7e-48f2-b480-d62faa129900][Eravate]]
 
 * Objective
 
@@ -33,8 +33,8 @@ Tier 5/8
 
 Finished
 
-A spokesperson for the Pilots Federation has announced a new
-peacekeeping initiative centred on the LHS 3447, Eravate and Asellus
+A spokesperson for the Pilots [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]] has announced a new
+peacekeeping initiative centred on the [[id:951f5c68-2395-4eb9-af43-b26172d0fe64][LHS 3447]], [[id:758e843d-ea7e-48f2-b480-d62faa129900][Eravate]] and Asellus
 Primus systems. The purpose of the initiative is to minimise criminal
 activity in these regions and thereby ensure the safety of inexperienced
 pilots.
@@ -46,7 +46,7 @@ systems, and we believe they should be able operate without fear of
 being targeted by opportunistic aggressors."
 
 "Of course, pilots will not be the only beneficiaries of this initiative
--- the people of LHS 3447, Eravate and Asellus Primus will also benefit
+-- the people of [[id:951f5c68-2395-4eb9-af43-b26172d0fe64][LHS 3447]], [[id:758e843d-ea7e-48f2-b480-d62faa129900][Eravate]] and [[id:b21e7cf9-145c-4546-8305-8dc866024f3c][Asellus Primus]] will also benefit
 from the increase in security."
 
 Authorities in the pertinent systems have responded positively to the
@@ -55,9 +55,9 @@ describing it as "a boon to our people". They have also expressed hope
 that the success of the initiative will allow peacekeeping forces to
 maintain order once the campaign is over.
 
-The Pilots Federation has called on the galaxy's independent combat
-pilots for support, and has authorised Adle's Armada, LHS 3447 Dynamic
-and Co, and Asellus Primus Gold Legal Ind. to reward those who support
+The Pilots [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]] has called on the galaxy's independent combat
+pilots for support, and has authorised Adle's Armada, [[id:951f5c68-2395-4eb9-af43-b26172d0fe64][LHS 3447]] Dynamic
+and Co, and [[id:b21e7cf9-145c-4546-8305-8dc866024f3c][Asellus Primus]] Gold Legal Ind. to reward those who support
 the initiative.
 
 The campaign begins on the 29th of July 3303 and will run for one week.
@@ -66,15 +66,15 @@ immediately.
 
 -----
 
-Objective: Deliver bounty vouchers to Eravate - Cleve Hub or Ackerman
+Objective: Deliver bounty vouchers to [[id:758e843d-ea7e-48f2-b480-d62faa129900][Eravate]] - Cleve Hub or Ackerman
 station
 
-How: Eravate Planet #10 - Resource Zone - High Intensity, low
+How: [[id:758e843d-ea7e-48f2-b480-d62faa129900][Eravate]] Planet #10 - Resource Zone - High Intensity, low
 performance ship are advised to form wings with other cmdrs
 Next CNB: NGALIBA - only medium sized stations there, only a part of
-earned vouchers from there accepted at Eravate.
+earned vouchers from there accepted at [[id:758e843d-ea7e-48f2-b480-d62faa129900][Eravate]].
 
-Caution: Eravate is a melting pot where newbies meet outlaws without
+Caution: [[id:758e843d-ea7e-48f2-b480-d62faa129900][Eravate]] is a melting pot where newbies meet outlaws without
 much protection. You are advised to watch your back and take security
 precautions, especially when using sub combat class ships.
 5.4 giga Cr,

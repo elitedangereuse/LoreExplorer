@@ -7,12 +7,12 @@
 
 * Location
 
-Dantec Enterprise | Socho
+[[id:982f62a4-4f8a-44d3-a16e-0b87cde3327f][Dantec Enterprise]] | [[id:092e7139-1d8c-45d1-89ce-615326e10853][Socho]]
 
 * Objective
 
-Deliver Emergency Power Cells, Auto-fabricators, Ceramic Composites,
-Tantalum, Titanium and Copper to Dantec Enterprise in the Socho system.
+Deliver [[id:a081e7d6-7384-47d3-87d4-0c2324c9f3d0][Emergency Power Cells]], Auto-fabricators, [[id:0b64653e-4cad-4f00-bf49-d88ae6049a11][Ceramic Composites]],
+[[id:d10c0435-4bc8-42ac-bea6-228d2f02604c][Tantalum]], [[id:d727fb19-8dc0-4d94-bcd4-da1cb5c090f0][Titanium]] and [[id:705bcc40-0a7b-460c-83a5-a556a5ab3bb7][Copper]] to [[id:982f62a4-4f8a-44d3-a16e-0b87cde3327f][Dantec Enterprise]] in the [[id:092e7139-1d8c-45d1-89ce-615326e10853][Socho]] system.
 
 * Progress
 
@@ -37,7 +37,7 @@ Finished
 Following Thargoid strikes on the fringes of the core systems, a new
 initiative to restore damaged starports has been announced.
 
-Chief administrator Carter Armstrong spoke on behalf of the Aegis Core,
+Chief administrator [[id:fa943255-7f7c-4ac5-b8ac-86c78b156512][Carter Armstrong]] spoke on behalf of the [[id:79f218d0-1350-4c43-95f3-0869621dd59a][Aegis Core]],
 which is coordinating the campaign:
 
 "We've set up this fund to reassure citizens that normality will
@@ -47,7 +47,7 @@ high standard."
 
 An open order has been placed for construction materials, which will be
 shipped to the affected starports and used to make repairs. Pilots are
-asked to make their deliveries to Dantec Enterprise in the Socho
+asked to make their deliveries to [[id:982f62a4-4f8a-44d3-a16e-0b87cde3327f][Dantec Enterprise]] in the [[id:092e7139-1d8c-45d1-89ce-615326e10853][Socho]]
 system.
 
 The campaign begins on the 31st of May 3304 and will run for one week.

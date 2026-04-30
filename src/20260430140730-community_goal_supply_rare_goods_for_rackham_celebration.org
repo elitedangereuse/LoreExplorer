@@ -7,12 +7,12 @@
 
 * Location
 
-Edmondson High | Beta Hydri
+Edmondson High | [[id:0db1f0b9-a70d-4384-96a5-c1587a8270b1][Beta Hydri]]
 
 * Objective
 
-Deliver Anduliga Fire Works, Gerasian Gueuze Beer, Pantaa Prayer Sticks,
-Uszaian Tree Grub and Apa Vietii
+Deliver [[id:618b671b-2863-4735-b7ef-30e5851e99a7][Anduliga Fire Works]], [[id:aa2662c4-12d2-4842-8ff2-ca213e1b1f9e][Gerasian Gueuze Beer]], [[id:5fd3adda-81be-4ccd-82a6-324dab2156c7][Pantaa Prayer Sticks]],
+[[id:38ca2282-281d-4561-bbaf-a617e378fd47][Uszaian Tree Grub]] and [[id:b27fcb6d-4c69-4cff-9acc-10c618a11a77][Apa Vietii]]
 
 * Progress
 
@@ -34,21 +34,21 @@ Tier 2/5
 
 Finished
 
-The entrepreneur Zachary Rackham has asked for deliveries of rare items
-to Edmondson High in the Beta Hydri system.
+The entrepreneur [[id:e26683e6-6b19-4671-8676-f333bd5e8ff7][Zachary Rackham]] has asked for deliveries of rare items
+to Edmondson High in the [[id:0db1f0b9-a70d-4384-96a5-c1587a8270b1][Beta Hydri]] system.
 
 At a press conference on the planet Homeland, Mr Rackham announced:
 
 "It's not every day that a humble businessman like me celebrates
 becoming a trillionaire! So I'm holding a week-long party in the upper
 floors of Rackham's Spire. To make sure my guests are entertained,
-I'll need to keep my stocks of Apa Vietti from Upaniklis, Gerasian
-Gueuze Beer from Geras, Pantaa Prayer Sticks from George Pantazis,
-Uszaian Tree Grubs from Uszaa and Anduliga Fire Works from Anduliga high
+I'll need to keep my stocks of Apa Vietti from [[id:361a46f2-79c4-40bf-9781-4066763914f3][Upaniklis]], Gerasian
+Gueuze [[id:16605f5b-79a7-46d2-9a5c-b53826fc1b5f][Beer]] from [[id:48f9c4bf-b2ad-44e9-9130-d0ee33856ed2][Geras]], [[id:5fd3adda-81be-4ccd-82a6-324dab2156c7][Pantaa Prayer Sticks]] from [[id:f1d087a2-33cf-4d0c-9395-a159365cdde0][George Pantazis]],
+Uszaian Tree Grubs from [[id:33bd5592-aab7-4736-87b7-a8e38c34026e][Uszaa]] and [[id:618b671b-2863-4735-b7ef-30e5851e99a7][Anduliga Fire Works]] from [[id:9368cc59-3e4d-4693-b5a7-e28b72c03da7][Anduliga]] high
 throughout the entire week."
 
 "I've also arranged for pilots to receive temporary permits to the
-Beta Hydri system, which will last until the 2nd of June. Anything to
+[[id:0db1f0b9-a70d-4384-96a5-c1587a8270b1][Beta Hydri]] system, which will last until the 2nd of June. Anything to
 make life easier for my trader friends!"
 
 Mr Rackham faced criticism for hosting a celebration at a time when so
@@ -56,14 +56,14 @@ many have died in recent Thargoid attacks. In response, he claimed he
 had "a duty to boost public morale by filling the news with happier
 stories".
 
-Financial reporter Bryanna Blanco commented in The Federal Times:
+Financial reporter [[id:2d151711-b41e-452d-88fc-9ec34e317af9][Bryanna Blanco]] commented in [[id:be5df73c-519d-45ed-a541-9b70bc8ae97c][The Federal Times]]:
 
 "The guest list for this party includes politicians, media magnates,
 publicity gurus, and many others who would prove useful if you were
 running a presidential campaign. Should Rackham get enough of them on
 his side -- presumably by sparing no expense on their comfort and
 entertainment -- I think he'll officially set his sights on the
-Federation's top job."
+[[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]]'s top job."
 
 The campaign will run until the 19th May 3308. If the final target is
 met earlier than planned, the campaign will end immediately.

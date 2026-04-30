@@ -7,11 +7,11 @@
 
 * Location
 
-Braun Enterprise | Heike
+Braun Enterprise | [[id:48e6169f-7078-4a26-a8e8-e2e688238e55][Heike]]
 
 * Objective
 
-Deliver Advanced Medicines, Thallium and Medical Diagnostic Equipment
+Deliver [[id:5af29dcf-3079-46c2-a594-d2559c830744][Advanced Medicines]], [[id:cf391eb1-f332-4044-9bc6-814ca24c52b1][Thallium]] and [[id:e6242e56-28c8-4db5-9c63-ba4dcbf11e1e][Medical Diagnostic Equipment]]
 
 * Progress
 
@@ -34,20 +34,20 @@ Tier 3/8
 Finished
 
 The Sap Core Legion faction has launched an initiative to build a
-state-of-the-art medical facility in the Heike system. Heike has some
+state-of-the-art medical facility in the [[id:48e6169f-7078-4a26-a8e8-e2e688238e55][Heike]] system. [[id:48e6169f-7078-4a26-a8e8-e2e688238e55][Heike]] has some
 significance in the field of medicine -- a species of tea plant native
 to the system played a vital role in the development of a cure for the
-Cerberus Plague. Sap Core Legion believes that this detail makes Heike
+[[id:1389857c-3747-4cdd-ad3e-99b162df9308][Cerberus Plague]]. Sap Core Legion believes that this detail makes [[id:48e6169f-7078-4a26-a8e8-e2e688238e55][Heike]]
 an ideal location for the new installation.​
 ​
-Professor Macklin Fox, speaking on behalf of Sap Core Legion, said:​
+Professor [[id:d0e95ed3-c443-495f-bad1-fff4d134f236][Macklin Fox]], speaking on behalf of Sap Core Legion, said:​
 
 "Sap Core Legion wishes to build this facility in response to a number
 of recent outbreaks and epidemics. When one also considers the current
 Thargoid conflict, we feel humanity would benefit from additional
 off-world medical resources."
 
-Independent pilots have been invited to deliver Advanced Medicines,
-Thallium and Medical Diagnostic Equipment to Braun Enterprise in the
-Heike system.​
+Independent pilots have been invited to deliver [[id:5af29dcf-3079-46c2-a594-d2559c830744][Advanced Medicines]],
+[[id:cf391eb1-f332-4044-9bc6-814ca24c52b1][Thallium]] and [[id:e6242e56-28c8-4db5-9c63-ba4dcbf11e1e][Medical Diagnostic Equipment]] to Braun Enterprise in the
+[[id:48e6169f-7078-4a26-a8e8-e2e688238e55][Heike]] system.​
 ​

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       58f9cd59-76d7-4fc0-adc6-bbde9462172a
-:ROAM_REFS: https://www.edsm.net/en/timeline/community-goals/index/p/31
+:ROAM_REFS: https://www.edsm.net/en/timeline/community-goals/index/p/31 file:../references/Community%20Goals/The_day_that_should_not_be.md
 :END:
 #+title: The day that should not be
 #+filetags: :CommunityGoal:

@@ -7,11 +7,11 @@
 
 * Location
 
-Shajn Market | Kamadhenu
+Shajn Market | [[id:6762f716-7e24-4a03-af96-2af0fd55f8c7][Kamadhenu]]
 
 * Objective
 
-Deliver Palladium, Superconductors and Micro Controllers
+Deliver [[id:dcc20e2e-26dd-4106-b23b-4df951876173][Palladium]], [[id:94637eec-3dd2-478f-9f38-8930b96a15fe][Superconductors]] and [[id:e87b8a83-ecc1-4d17-917a-964e6196526b][Micro Controllers]]
 
 * Progress
 
@@ -33,15 +33,15 @@ Tier 0/8
 
 Finished
 
-The Kamadhenu Chapterhouse of Inquisition's ongoing infrastructure
+The [[id:6762f716-7e24-4a03-af96-2af0fd55f8c7][Kamadhenu]] [[id:11216b9a-43a6-4242-9355-1c6227e48db8][Chapterhouse of Inquisition]]'s ongoing infrastructure
 project has now entered its final phase. The aim of the project is to
-establish a series of starports along the route to Colonia to make the
+establish a series of starports along the route to [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] to make the
 20,000 light-year voyage less daunting.
 
 For the third and final starport, the Chapterhouse has placed an open
-order for Palladium, Superconductors and Micro Controllers, and has
+order for [[id:dcc20e2e-26dd-4106-b23b-4df951876173][Palladium]], [[id:94637eec-3dd2-478f-9f38-8930b96a15fe][Superconductors]] and [[id:e87b8a83-ecc1-4d17-917a-964e6196526b][Micro Controllers]], and has
 promised to reward pilots who deliver these commodities to Shajn Market
-in the Kamadhenu system. System authorities have also pledged to issue
+in the [[id:6762f716-7e24-4a03-af96-2af0fd55f8c7][Kamadhenu]] system. System authorities have also pledged to issue
 above-average rewards for Chapterhouse-issued bounties, to ensure safe
 delivery of goods to the starport.
 
@@ -54,8 +54,8 @@ The third and final stage of the campaign begins on the 7th of September
 planned, the campaign will end immediately.
 
 To be eligible for rewards you must sign up as an active participant
-before delivering Palladium, Superconductors and Micro Controllers to
-Shajn Market in the Kamadhenu system.
+before delivering [[id:dcc20e2e-26dd-4106-b23b-4df951876173][Palladium]], [[id:94637eec-3dd2-478f-9f38-8930b96a15fe][Superconductors]] and [[id:e87b8a83-ecc1-4d17-917a-964e6196526b][Micro Controllers]] to
+Shajn Market in the [[id:6762f716-7e24-4a03-af96-2af0fd55f8c7][Kamadhenu]] system.
 
 Be aware that faction-state changes, UA bombing and other disruptive
 events can negatively impact markets and station services, and could

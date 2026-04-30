@@ -11,8 +11,8 @@ Nelder City | Wangal
 
 * Objective
 
-Deliver Consumer Technology, Domestic Appliances, Water Purifiers, Micro
-Controllers and Thermal Cooling Units to Nelder City in the Wangal
+Deliver [[id:b17cfefe-ff86-4baf-aca3-69ad61c4b884][Consumer Technology]], [[id:7b8911e2-ddf5-4b84-929a-30b390bc2b7f][Domestic Appliances]], [[id:2f1be518-d6d9-4e2e-84ce-ea7e5d86e099][Water Purifiers]], Micro
+Controllers and [[id:3392ce5d-db80-4085-8821-57b2ec3ddf36][Thermal Cooling Units]] to Nelder City in the Wangal
 system.
 
 * Progress

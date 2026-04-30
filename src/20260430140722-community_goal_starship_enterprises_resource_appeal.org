@@ -7,11 +7,11 @@
 
 * Location
 
-Gell-Mann Ring | LP 339-7
+Gell-Mann Ring | [[id:9cf1f79e-2474-4252-a9fd-c4420e942dc7][LP 339-7]]
 
 * Objective
 
-Deliver mined Osmium, Samarium, Uraninite, Monazite and Platinum
+Deliver mined [[id:89bb247d-d459-4ebf-a000-698cd1d9c5fe][Osmium]], [[id:699175f3-27b8-43ca-a463-2896e147de16][Samarium]], [[id:f49d08ae-1feb-4375-a3dd-5487e9463da9][Uraninite]], [[id:35d8ffe9-1469-4963-8652-f3a7dd59d106][Monazite]] and [[id:045f7139-ac68-453c-b97f-b61c8a9c370d][Platinum]]
 
 * Progress
 
@@ -33,15 +33,15 @@ Tier 6/8
 
 Finished
 
-The Starship Enterprises faction has issued a public request for mined
+The [[id:d20f91af-3196-4258-ad57-64c7c61e5ed9][Starship Enterprises]] faction has issued a public request for mined
 resources.​
 ​
-SE Mining, a subdivision of Starship Enterprises, requires materials to
-construct a specialised installation in the LP 339-7 system. The
+SE Mining, a subdivision of [[id:d20f91af-3196-4258-ad57-64c7c61e5ed9][Starship Enterprises]], requires materials to
+construct a specialised installation in the [[id:9cf1f79e-2474-4252-a9fd-c4420e942dc7][LP 339-7]] system. The
 proposed starport will serve as a departmental headquarters while also
 providing services to travellers in the region.​
 ​
-Dr Lewis Chapman, CEO of Starship Enterprises, announced:​
+Dr [[id:246ac86d-4a96-4fdc-907d-d8a84b142e70][Lewis Chapman]], CEO of [[id:d20f91af-3196-4258-ad57-64c7c61e5ed9][Starship Enterprises]], announced:​
 
 "There has long been a rift between our system's prosperous inner
 worlds and the less wealthy outer gas giants. SE Mining will bridge this
@@ -55,5 +55,5 @@ is a fine way to reward the division's hard work."
 
 Independent pilots are asked to mine quantities of osmium, samarium,
 uraninite, monazite and platinum for delivery to Gell-Mann Ring in the
-LP 339-7 system. ​
+[[id:9cf1f79e-2474-4252-a9fd-c4420e942dc7][LP 339-7]] system. ​
 ​

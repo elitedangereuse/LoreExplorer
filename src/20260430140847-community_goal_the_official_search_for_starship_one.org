@@ -7,12 +7,12 @@
 
 * Location
 
-Leoniceno Orbital | Azaleach
+[[id:25f2fe11-0dd5-4769-8166-6807d1e577a7][Leoniceno Orbital]] | [[id:442e6f9a-19d8-48e2-9fb6-a6cb88b22c45][Azaleach]]
 
 * Objective
 
-Find and deliver Wreckage Components to Leoniceno Orbital in the
-Azaleach system.
+Find and deliver [[id:ddf15bc1-5557-420a-a7f5-4b87154fe1fd][Wreckage Components]] to [[id:25f2fe11-0dd5-4769-8166-6807d1e577a7][Leoniceno Orbital]] in the
+[[id:442e6f9a-19d8-48e2-9fb6-a6cb88b22c45][Azaleach]] system.
 
 * Progress
 
@@ -34,17 +34,17 @@ Tier 8/8
 
 Finished
 
-Federal President Zachary Hudson has announced his intention to search
-for Starship One, the former presidential ship that disappeared in May
+Federal President [[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][Zachary Hudson]] has announced his intention to search
+for [[id:85fdc9c8-500b-4e91-bc8b-70bcb3c05b0f][Starship One]], the former presidential ship that disappeared in May
 3301. President Hudson has urged the galactic community to participate
 in the search, promising to reward pilots who deliver Wreckage
-Components to Leoniceno Orbital in the Azaleach system.
+Components to [[id:25f2fe11-0dd5-4769-8166-6807d1e577a7][Leoniceno Orbital]] in the [[id:442e6f9a-19d8-48e2-9fb6-a6cb88b22c45][Azaleach]] system.
 
-The Federation has released a list of the systems most likely to contain
-wreckage from Starship One, extrapolated from it's last known
+The [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]] has released a list of the systems most likely to contain
+wreckage from [[id:85fdc9c8-500b-4e91-bc8b-70bcb3c05b0f][Starship One]], extrapolated from it's last known
 trajectory:
 
-Niju
+[[id:b337ed38-0ac3-4e76-9502-e978f3073c67][Niju]]
 HIP 36014
 Xbal
 HR 2485

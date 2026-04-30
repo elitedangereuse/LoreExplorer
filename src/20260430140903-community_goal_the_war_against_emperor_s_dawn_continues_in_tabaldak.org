@@ -11,7 +11,7 @@ Rogers Dock | Tabaldak
 
 * Objective
 
-Earn rewards by selling Empire Combat Bonds at Rogers Dock
+Earn rewards by selling [[id:541dcfb3-93ef-40e5-9284-bf5a4f999043][Empire]] [[id:bbbc7bc6-79d7-46b7-925e-c1f882c8f25a][Combat Bonds]] at Rogers Dock
 
 * Progress
 
@@ -34,10 +34,10 @@ Tier 2/3
 Finished
 
 Imperial intelligence has discovered new Emperor's Dawn bases in the
-Namarii, Tabaldak and LTT 874 systems. Senator Denton Patreus, who is
+Namarii, Tabaldak and LTT 874 systems. Senator [[id:75daea85-5e9f-4f6f-a102-1a5edea0283c][Denton Patreus]], who is
 spearheading the campaign against Emperor's Dawn, has dispatched
 several squadrons of Imperial fighters to these systems. The Namarii
-Movement, Tabaldak Imperial Society and the LTT 874 Empire Party have
+Movement, Tabaldak Imperial Society and the LTT 874 [[id:541dcfb3-93ef-40e5-9284-bf5a4f999043][Empire]] Party have
 been authorised to reward pilots who help fight the insurgents.
 
 Note:

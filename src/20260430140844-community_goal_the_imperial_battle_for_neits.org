@@ -11,7 +11,7 @@ Still Hangar | Neits
 
 * Objective
 
-Hand in Combat Bonds to Still Hanger
+Hand in [[id:bbbc7bc6-79d7-46b7-925e-c1f882c8f25a][Combat Bonds]] to Still Hanger
 
 * Progress
 
@@ -33,8 +33,8 @@ Tier 5/8
 
 Finished
 
-Hand in Combat Bonds to Still Hanger in the Neits system to help the
-Empire take control of the system.
+Hand in [[id:bbbc7bc6-79d7-46b7-925e-c1f882c8f25a][Combat Bonds]] to Still Hanger in the Neits system to help the
+[[id:541dcfb3-93ef-40e5-9284-bf5a4f999043][Empire]] take control of the system.
 
 Conflict Zones Active
 

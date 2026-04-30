@@ -7,11 +7,11 @@
 
 * Location
 
-Biruni Port | Niflhel
+Biruni Port | [[id:2ad15cb1-9249-4380-9d86-ae5134de7faa][Niflhel]]
 
 * Objective
 
-Hand in Bounty Vouchers
+Hand in [[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]]
 
 * Progress
 
@@ -41,18 +41,18 @@ A spokesperson for Senator Leopold gave the following statement to the
 media: An escalation in hostilities from both Thargoid and human parties
 has left a lot of innocent civilians without food or shelter. Senator
 Leopold has heard their cries for help, and is building a sanctuary
-where the safety of refugees can be guaranteed. The Niflhel Corp., which
+where the safety of refugees can be guaranteed. The [[id:2ad15cb1-9249-4380-9d86-ae5134de7faa][Niflhel]] Corp., which
 is overseeing the initiative, has placed a kill order on ships on its
 wanted list to allow pilots delivering construction materials to do so
 safely. They have promised to reward pilots who hand in bounty vouchers
-at Biruni Port in the Niflhel system.
+at Biruni Port in the [[id:2ad15cb1-9249-4380-9d86-ae5134de7faa][Niflhel]] system.
 
 The campaign begins on the 14th of June 3304 and will run for one week.
 If the final target is met earlier than planned, the campaign will end
 immediately.
 
 To earn rewards you must sign up as an active participant before handing
-in Bounty Vouchers at Biruni Port in the Niflhel system. Only bounty
+in [[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]] at Biruni Port in the [[id:2ad15cb1-9249-4380-9d86-ae5134de7faa][Niflhel]] system. Only bounty
 vouchers handed in after signing up will count toward your personal
 contribution total.
 
@@ -63,7 +63,7 @@ will receive the reward for their vouchers when they are handed in. The
 proportion of bounty vouchers assigned to your crew will depend on their
 rank.
 
-Be aware that faction-state changes, Thargoid Sensor-related
+Be aware that faction-state changes, [[id:8ddf8e00-4541-4857-a609-5f6c5849dded][Thargoid Sensor]]-related
 interference and other disruptive events can negatively impact markets
 and station services, and could prevent the initiative from running
 smoothly.

@@ -11,7 +11,7 @@ Miyasaka Orbital | Mandh
 
 * Objective
 
-Deliver Building Fabricators, Microbial Furnaces and Energy Grid
+Deliver [[id:0f1939e4-1ab1-4f9c-8b73-ebc572081433][Building Fabricators]], [[id:8c12828c-5756-4b81-b742-6d52bb3c77f5][Microbial Furnaces]] and Energy Grid
 Assembly
 
 * Progress
@@ -34,18 +34,18 @@ Tier 4/5
 
 Finished
 
-The Imperial Navy has requested commodities for the construction of new
+The [[id:e9becd28-9644-42aa-afc8-7bba3ce10076][Imperial Navy]] has requested commodities for the construction of new
 capital ships in Mandh.
 
-The Imperial Senate has approved funding for the construction of a new
-wave of Majestic-class Interdictors. Senator Denton Patreus announced:
+The [[id:6b539fa1-7ebe-44d3-874b-41a3bd400af9][Imperial Senate]] has approved funding for the construction of a new
+wave of Majestic-class Interdictors. Senator [[id:75daea85-5e9f-4f6f-a102-1a5edea0283c][Denton Patreus]] announced:
 
 "We face adversaries on all sides and from within, eager to corrupt and
-destroy our proud Empire. This is a time to bolster our strength and our
+destroy our proud [[id:541dcfb3-93ef-40e5-9284-bf5a4f999043][Empire]]. This is a time to bolster our strength and our
 resolve."
 
-A request has been made by Artemis Corporation for shipments of Building
-Fabricators, Microbial Furnaces and Energy Grid Assemblies to Miyasaka
+A request has been made by [[id:845d8ae3-0796-40a0-bd5c-d6d552243edb][Artemis]] Corporation for shipments of Building
+Fabricators, [[id:8c12828c-5756-4b81-b742-6d52bb3c77f5][Microbial Furnaces]] and Energy Grid Assemblies to Miyasaka
 Orbital in the Mandh system.
 
 Should the initiative be successful, each tier will provide enough

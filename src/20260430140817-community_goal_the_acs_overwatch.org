@@ -11,7 +11,7 @@ Redi Market | Lambda Arae
 
 * Objective
 
-Deliver Gold, Superconductors and Indium
+Deliver Gold, [[id:94637eec-3dd2-478f-9f38-8930b96a15fe][Superconductors]] and [[id:9fbdd62c-a62a-45d1-9ee5-9ab7980a4fd6][Indium]]
 
 * Progress
 
@@ -33,16 +33,16 @@ Tier 8/8
 
 Finished
 
-The Atlas Corporation has launched a campaign to build a megaship in the
+The [[id:db135581-804e-4f1e-9fce-ec2fe722e2c7][Atlas]] Corporation has launched a campaign to build a megaship in the
 Lambda Arae system.
 
 The vessel, which will be named the ACS Overwatch, will fulfil a
 multi-faceted role in the ongoing fight against the Thargoids.
 
-A spokesperson for the Atlas Corporation said:
+A spokesperson for the [[id:db135581-804e-4f1e-9fce-ec2fe722e2c7][Atlas]] Corporation said:
 The ACS Overwatch will serve as a coordination point for rescue missions
 and anti-Thargoid operations, as well as being a valuable resupply point
 and a safe haven for the people of Lambda Arae.
-In support of this goal, the Atlas Corporation has placed an open order
+In support of this goal, the [[id:db135581-804e-4f1e-9fce-ec2fe722e2c7][Atlas]] Corporation has placed an open order
 for various commodities, promising to reward pilots who deliver the
 requested goods to Redi Market in the Lambda Arae system.

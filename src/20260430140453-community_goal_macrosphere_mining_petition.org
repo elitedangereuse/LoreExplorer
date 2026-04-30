@@ -11,7 +11,7 @@ Grandin Terminal | DS Leonis
 
 * Objective
 
-Deliver Benitoite, Grandidierite, Alexandrite
+Deliver [[id:b5d5b9a8-59ce-4cea-ad0b-fe4eb0d36cc9][Benitoite]], [[id:89fd72fb-6b6f-4a55-a1fc-f394b20bffc0][Grandidierite]], [[id:fbe73cad-acb1-4d60-bdd3-0224427cd9d7][Alexandrite]]
 
 * Progress
 
@@ -33,12 +33,12 @@ Tier 1/8
 
 Finished
 
-Technology company Macrosphere is developing a specialised scanning
+Technology company [[id:ff8b148e-2112-447f-8256-e160e7ee24f3][Macrosphere]] is developing a specialised scanning
 device to detect illicit interference with personal robots.
 
-Macrosphere CEO Taniyah Sharpe provided the details:
+[[id:ff8b148e-2112-447f-8256-e160e7ee24f3][Macrosphere]] CEO [[id:a5eacd1c-edf2-48d7-bfd4-034ce25e9168][Taniyah Sharpe]] provided the details:
 
-"The recent Mars Tribune scandal proved that the illegal reprogramming
+"The recent [[id:a5b054ac-dff0-434b-ade6-09d5f81228a1][Mars Tribune]] scandal proved that the illegal reprogramming
 of robots is a genuine concern. Our Mech Scanner will allow robot owners
 to discover if their trusted servants have been compromised."
 

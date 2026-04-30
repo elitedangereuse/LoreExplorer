@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       f367e784-4743-42db-88cb-f0071621974d
+:ROAM_REFS: file:../references/Community%20Goals/New_Federal_Outpost__Trade_.md file:../references/Community%20Goals/New_Federal_Outpost.md
 :END:
 #+title: Community Goal: New Federal Outpost
 #+filetags: :Federation:Empire:CommunityGoal:3302:galnet:
@@ -8,10 +9,10 @@
 
 /28 Jul 3302/
 
-Three weeks ago, the Federation ignited controversy with its decision to establish a series of outposts in the Pleiades sector. The development triggered a decisive response from Empire-aligned pilots, who made repeated attempts to destabilise the campaign. Ultimately, the Federation was able to complete the operation, but the Federation's opponents had made their feelings clear – the superpower's military expansion would not proceed unopposed.
+Three weeks ago, the [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]] ignited controversy with its decision to establish a series of outposts in the [[id:cd15e78b-89d1-4051-bd92-05d0ab49ec17][Pleiades]] sector. The development triggered a decisive response from [[id:541dcfb3-93ef-40e5-9284-bf5a4f999043][Empire]]-aligned pilots, who made repeated attempts to destabilise the campaign. Ultimately, the [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]] was able to complete the operation, but the [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]]'s opponents had made their feelings clear – the superpower's military expansion would not proceed unopposed.
 
-Now the Federation has announced plans to establish a new planetary outpost in the [[id:acffcea9-44ae-4689-8bc9-74f65c75e0ae][HIP 17225]] system, which it claims will serve as "a trade and resource-processing hub". Those familiar with [[id:acffcea9-44ae-4689-8bc9-74f65c75e0ae][HIP 17225]] A 1 will be all too aware that the planet is home to a number of barnacle sites.
+Now the [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]] has announced plans to establish a new planetary outpost in the [[id:acffcea9-44ae-4689-8bc9-74f65c75e0ae][HIP 17225]] system, which it claims will serve as "a trade and resource-processing hub". Those familiar with [[id:acffcea9-44ae-4689-8bc9-74f65c75e0ae][HIP 17225]] A 1 will be all too aware that the planet is home to a number of barnacle sites.
 
-[[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][The Federation]] has placed an open order for tantalum, building fabricators and energy grid assemblies with which to construct the new base, and has authorised the Future of Segovan to reimburse pilots who deliver these materials to Obsidian Orbital in the [[id:0ee60994-364c-41b9-98ca-993d041cea72][Maia]] system.
+[[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][The Federation]] has placed an open order for tantalum, building fabricators and energy grid assemblies with which to construct the new base, and has authorised the Future of Segovan to reimburse pilots who deliver these materials to [[id:4223b99a-7e0c-44fa-b7e9-afeca7e0c031][Obsidian Orbital]] in the [[id:0ee60994-364c-41b9-98ca-993d041cea72][Maia]] system.
 
-The campaign begins on the 28th of July 3302 and will run for one week. If the Federation's targets are met earlier than planned, the campaign will end immediately.
+The campaign begins on the 28th of July 3302 and will run for one week. If the [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]]'s targets are met earlier than planned, the campaign will end immediately.

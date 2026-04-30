@@ -7,11 +7,11 @@
 
 * Location
 
-Hart Station | Bast
+[[id:24aa4f9c-26d5-4628-ba4b-13c370a13a77][Hart Station]] | [[id:ba9787a7-583f-4fb0-b9e1-3c0c0096b485][Bast]]
 
 * Objective
 
-Sell Ceremonial Heike Tea to Hart Station
+Sell [[id:0ca21b16-f85b-4e7c-9389-6196d4f52ef1][Ceremonial Heike Tea]] to [[id:24aa4f9c-26d5-4628-ba4b-13c370a13a77][Hart Station]]
 
 * Progress
 
@@ -33,10 +33,10 @@ Tier 6/8
 
 Finished
 
-To date, the Cerberus Plague has devastated several systems and claimed
+To date, the [[id:1389857c-3747-4cdd-ad3e-99b162df9308][Cerberus Plague]] has devastated several systems and claimed
 thousands of lives. The only hope of eliminating the disease, and
 curtailing further spread, is to develop as many doses of the cure as
-possible. To further this aim, the Union Of Bast Liberals is offering a
-series of incentives to pilots who take Ceremonial Heike Tea from the
-Brunel City Station in Heike, to the Hart Station market until such time
-as the Cerberus crisis has been halted.
+possible. To further this aim, the Union Of [[id:ba9787a7-583f-4fb0-b9e1-3c0c0096b485][Bast]] Liberals is offering a
+series of incentives to pilots who take [[id:0ca21b16-f85b-4e7c-9389-6196d4f52ef1][Ceremonial Heike Tea]] from the
+[[id:01253853-00a5-4182-b048-84d4735be964][Brunel City]] Station in [[id:48e6169f-7078-4a26-a8e8-e2e688238e55][Heike]], to the [[id:24aa4f9c-26d5-4628-ba4b-13c370a13a77][Hart Station]] market until such time
+as the [[id:25f65e76-b397-4e17-b103-e33207b97c51][Cerberus]] crisis has been halted.

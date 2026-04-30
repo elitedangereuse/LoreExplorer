@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       e4984520-13a2-4fb9-a1a9-3d14afa3f6b5
+:ROAM_REFS: file:../references/Community%20Goals/Wilkes_Orbital_in_Need.md
 :END:
 #+title: Community Goal: Wilkes Orbital in Need
 #+filetags: :CommunityGoal:3302:galnet:
@@ -8,7 +9,7 @@
 
 /17 Mar 3302/
 
-The normally peaceful Wilkes Orbital has been the focus of considerable attention in recent weeks. First, the starport was at the centre of a campaign to drive the Blue Hand Gang from the nearby Orulas system. Then authorities at the station announced that the escape pods recovered in the operation contained Professor [[id:8f63442a-1f38-457d-857a-38297d732a90][Ishmael Palin]] and the other members of his research team. Now it seems that the majority of those recovered from the criminals, including [[id:8f63442a-1f38-457d-857a-38297d732a90][Professor Ishmael Palin]], have been infected with a strain of Cerberus Plague, the deadly pathogen that claimed millions of lives last year.
+The normally peaceful Wilkes Orbital has been the focus of considerable attention in recent weeks. First, the starport was at the centre of a campaign to drive the Blue Hand Gang from the nearby Orulas system. Then authorities at the station announced that the escape pods recovered in the operation contained Professor [[id:8f63442a-1f38-457d-857a-38297d732a90][Ishmael Palin]] and the other members of his research team. Now it seems that the majority of those recovered from the criminals, including [[id:8f63442a-1f38-457d-857a-38297d732a90][Professor Ishmael Palin]], have been infected with a strain of [[id:1389857c-3747-4cdd-ad3e-99b162df9308][Cerberus Plague]], the deadly pathogen that claimed millions of lives last year.
 
 Governor Lawrence, the principal administrator of Wilkes Orbital, has released a statement to the media:
 
@@ -16,6 +17,6 @@ Governor Lawrence, the principal administrator of Wilkes Orbital, has released a
 
 Governor Lawrence was asked how he intended to proceed.
 
-"This is a new strain of the Cerberus Plague, one we've never seen before. But it seems that [[id:0ca21b16-f85b-4e7c-9389-6196d4f52ef1][Ceremonial Heike Tea]], which was used to cure the original strain of the plague, is also effective against this version of the disease. We have therefore issued an open order for [[id:0ca21b16-f85b-4e7c-9389-6196d4f52ef1][Ceremonial Heike Tea]] with which to cure the infected. Any surplus tea will be stockpiled in anticipation of further outbreaks, although I should stress that such a scenario is extremely unlikely."
+"This is a new strain of the [[id:1389857c-3747-4cdd-ad3e-99b162df9308][Cerberus Plague]], one we've never seen before. But it seems that [[id:0ca21b16-f85b-4e7c-9389-6196d4f52ef1][Ceremonial Heike Tea]], which was used to cure the original strain of the plague, is also effective against this version of the disease. We have therefore issued an open order for [[id:0ca21b16-f85b-4e7c-9389-6196d4f52ef1][Ceremonial Heike Tea]] with which to cure the infected. Any surplus tea will be stockpiled in anticipation of further outbreaks, although I should stress that such a scenario is extremely unlikely."
 
 The appeal for [[id:0ca21b16-f85b-4e7c-9389-6196d4f52ef1][Ceremonial Heike Tea]] begins on the 17th March 3302 and will run for one week.

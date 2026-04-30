@@ -7,7 +7,7 @@
 
 * Location
 
-Henry O'Hare's Hangar | Summerland
+Henry O'Hare's Hangar | [[id:ba152f8a-d8af-4611-b8ac-0b32f3258dd0][Summerland]]
 
 * Objective
 
@@ -33,17 +33,17 @@ Tier 6/6
 
 Finished
 
-Darkwater Inc in the Summerland system has been declared a hostile
-military target for its role in abducting Emperor Arissa Lavigny-Duval.
+[[id:57907627-04a8-4987-96c2-535c101e958b][Darkwater Inc]] in the [[id:ba152f8a-d8af-4611-b8ac-0b32f3258dd0][Summerland]] system has been declared a hostile
+military target for its role in abducting Emperor [[id:34f3cfdd-0536-40a9-8732-13bf3a5e4a70][Arissa Lavigny-Duval]].
 
-The private military firm, led by Colonel Ronan Brock, was secretly
-hired by the Lords of Restoration to train and equip the NMLA. Darkwater
+The private military firm, led by Colonel [[id:01f68135-e4ba-400b-856d-bd938dfd7cad][Ronan Brock]], was secretly
+hired by the [[id:ffa239ce-f149-4c43-9455-26a4fa753e1c][Lords of Restoration]] to train and equip the NMLA. Darkwater
 troops also kept the Emperor imprisoned in a concealed bunker for over a
 year.
 
 Once their involvement was revealed by ACT, Darkwater's forces
 regrouped around the megaship Pearl Mandate. Colonel Brock led an
-attempt to gain control of Summerland as a defensive measure but was
+attempt to gain control of [[id:ba152f8a-d8af-4611-b8ac-0b32f3258dd0][Summerland]] as a defensive measure but was
 unsuccessful. The mercenaries have now been branded as wanted criminals
 by the system authorities.
 
@@ -54,20 +54,20 @@ Arissa:
 out this nest of traitors. We remember the innocent victims of the NMLA
 by punishing those who enabled them."
 
-The Summerland Patron's Party will redeem combat bonds for destroyed
+The [[id:ba152f8a-d8af-4611-b8ac-0b32f3258dd0][Summerland]] Patron's Party will redeem combat bonds for destroyed
 Darkwater ships at the starport Henry O'Hare's Hangar. Although the
-Summerland system is typically permit locked, the Empire has arranged a
+[[id:ba152f8a-d8af-4611-b8ac-0b32f3258dd0][Summerland]] system is typically permit locked, the [[id:541dcfb3-93ef-40e5-9284-bf5a4f999043][Empire]] has arranged a
 total exemption for independent pilots for a three-week period.
 
-To guarantee that Darkwater is thoroughly eliminated, the Empire is
+To guarantee that Darkwater is thoroughly eliminated, the [[id:541dcfb3-93ef-40e5-9284-bf5a4f999043][Empire]] is
 offering a range of incentives to pilots.
 
 The top 75% of participants will be elevated to the rank of Master in
-the Imperial Navy Auxiliary. They will also receive Arissa
-Lavigny-Duval's Powerplay Decal as an additional thanks.
+the [[id:e9becd28-9644-42aa-afc8-7bba3ce10076][Imperial Navy]] Auxiliary. They will also receive Arissa
+Lavigny-Duval's [[id:4ed9ac75-9ddc-4533-bc21-00a775fbc0ee][Powerplay]] Decal as an additional thanks.
 
 The top 25% of participants will additionally receive a permanent permit
-for the Summerland system, as well as a special Empire Combat Zone
+for the [[id:ba152f8a-d8af-4611-b8ac-0b32f3258dd0][Summerland]] system, as well as a special [[id:541dcfb3-93ef-40e5-9284-bf5a4f999043][Empire]] Combat Zone
 decal.
 
 The top 10 players will be granted an Imperial Hammer for their
@@ -83,5 +83,5 @@ Tier 3 - 20% temporary on ships + Imperial Hammer
 Tier 4 - 25% temporary on ships + Imperial Hammer
 Tier 5 - 30% temporary on ships + Imperial Hammer
 
-The Empire has declared their intention to wipe out the Darkwater Inc
+[[id:1047d7bb-a08d-430d-a445-4ec9a1b2daa3][The Empire]] has declared their intention to wipe out the [[id:57907627-04a8-4987-96c2-535c101e958b][Darkwater Inc]]
 faction by the 24th February 3308

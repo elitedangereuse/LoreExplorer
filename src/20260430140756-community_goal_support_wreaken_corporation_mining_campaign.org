@@ -7,11 +7,11 @@
 
 * Location
 
-Tobias's Gift | LTT 198
+Tobias's [[id:cd8638b2-8cab-4543-a274-bdd21f90ec47][Gift]] | [[id:843517ac-e27b-46a3-84ff-700f94a0ba67][LTT 198]]
 
 * Objective
 
-Deliver Silver, Gallite, Coltan and Praseodymium
+Deliver Silver, [[id:19346f59-fa1a-4ba2-8373-5b4d90f26662][Gallite]], [[id:047e63e2-7b61-424c-a330-e712609eaba5][Coltan]] and [[id:d5d904e1-f1a7-4c46-afe8-728f625d11bf][Praseodymium]]
 
 Hint: Nearest metal rich pristine rings
 
@@ -35,31 +35,31 @@ Tier 2/5
 
 Finished
 
-Torval-Mastopolos Mining and Wreaken Construction have requested
-deliveries of mined resources to the LTT 198 system.
+Torval-[[id:4dfc1d85-8d12-4503-a4ed-84da898a03ba][Mastopolos Mining]] and [[id:242ea5e7-fba7-4bbc-9e8d-ce3190f63609][Wreaken Construction]] have requested
+deliveries of mined resources to the [[id:843517ac-e27b-46a3-84ff-700f94a0ba67][LTT 198]] system.
 
-LTT 198 State Ltd, its controlling faction, will only allow one of the
+[[id:843517ac-e27b-46a3-84ff-700f94a0ba67][LTT 198]] State Ltd, its controlling faction, will only allow one of the
 rival corporations to remain permanently. The company with the most
 successful campaign will establish a new starport in the
 permit-controlled system, which is scheduled to enter operation on the
 2nd of September 3307.
 
-Emmerich Koenig, CEO of Wreaken Construction, outlined his company's
+[[id:24d00b91-f87c-4209-954e-d1a8aa40f986][Emmerich Koenig]], CEO of [[id:242ea5e7-fba7-4bbc-9e8d-ce3190f63609][Wreaken Construction]], outlined his company's
 initiative:
 
 "We will pay handsomely for deliveries of coltan, gallite, praseodymium
-and silver to the megaship Tobias's Gift in the LTT 198 system."
+and silver to the megaship Tobias's [[id:cd8638b2-8cab-4543-a274-bdd21f90ec47][Gift]] in the [[id:843517ac-e27b-46a3-84ff-700f94a0ba67][LTT 198]] system."
 
-LTT 198 State Ltd will provide all contributors to these initiatives
+[[id:843517ac-e27b-46a3-84ff-700f94a0ba67][LTT 198]] State Ltd will provide all contributors to these initiatives
 with temporary system permits lasting one week.
 
 If Tier 1 is reached, the top 10% of participants will receive a fully
 engineered class 1 rating D abrasion blaster with long range. The module
-will be placed in storage at Tobias's Gift in EGM 559 by Friday the
+will be placed in storage at Tobias's [[id:cd8638b2-8cab-4543-a274-bdd21f90ec47][Gift]] in EGM 559 by Friday the
 27th of August 3307.
 
-Should Wreaken Construction be victorious the top 75% of participants
-will receive the module along with permanent permit access to LTT 198.
+Should [[id:242ea5e7-fba7-4bbc-9e8d-ce3190f63609][Wreaken Construction]] be victorious the top 75% of participants
+will receive the module along with permanent permit access to [[id:843517ac-e27b-46a3-84ff-700f94a0ba67][LTT 198]].
 
 The two factions have set out seven-day campaigns, which will end early
 on Thursday the 26th of August 3307. If one faction meets its objectives

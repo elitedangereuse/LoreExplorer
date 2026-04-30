@@ -11,7 +11,7 @@ Patterson Vision | LHS 2094
 
 * Objective
 
-Deliver Fruit and Vegetables, Clothing, and Beer to Patterson Vision in
+Deliver [[id:9dbf5564-8fe2-46f3-930f-f3f1dbfecd26][Fruit and Vegetables]], [[id:bacffb34-19fb-4e2b-bedd-32736a9095bc][Clothing]], and [[id:16605f5b-79a7-46d2-9a5c-b53826fc1b5f][Beer]] to Patterson Vision in
 the LHS 2094 system.
 
 * Progress
@@ -35,14 +35,14 @@ Tier 4/8
 Finished
 
 While Halloween is widely thought to have its roots in harvest festivals
-from Earth's ancient past, in the modern era it is largely seen as an
+from [[id:5b0f485f-4793-468d-a1a1-483606f44e0e][Earth]]'s ancient past, in the modern era it is largely seen as an
 opportunity to unwind and share a drink with friends.
 
 This year, the galaxy's biggest Halloween party is taking place in the
 LHS 2094 system under the auspices of the Hallowed Chapter of LHS 2094.
 A range of traditional activities has been planned, including a game
 known as apple bobbing, although purists have been quick to point out
-that, "suspending oneself upside down in a vat of Leestian Evil Juice
+that, "suspending oneself upside down in a vat of [[id:41fa0a3d-4f14-44c1-b314-78882dcc37b3][Leestian Evil Juice]]
 is most definitely not apple bobbing".
 
 To ensure the event is a success, the Hallowed Chapter of LHS 2094 has
@@ -54,7 +54,7 @@ A spokesperson for the Hallowed Chapter of LHS 2094 elaborated on the
 nature of the event:
 
 "There's a risk the festivities could be overshadowed by this whole
-Thargoid thing, but just because there are hostile aliens in Maia
+Thargoid thing, but just because there are hostile aliens in [[id:0ee60994-364c-41b9-98ca-993d041cea72][Maia]]
 doesn't mean we can't have fun. I mean, the Thargoids are all the way
 out there...and the party is happening right here!"
 
@@ -63,5 +63,5 @@ week. If the final target is met earlier than planned, the campaign will
 end immediately.
 
 To be eligible for rewards you must sign up as an active participant
-before delivering Fruit and Vegetables, Clothing, and Beer to Patterson
+before delivering [[id:9dbf5564-8fe2-46f3-930f-f3f1dbfecd26][Fruit and Vegetables]], [[id:bacffb34-19fb-4e2b-bedd-32736a9095bc][Clothing]], and [[id:16605f5b-79a7-46d2-9a5c-b53826fc1b5f][Beer]] to Patterson
 Vision in the LHS 2094 system.

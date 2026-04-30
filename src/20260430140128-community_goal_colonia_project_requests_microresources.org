@@ -11,7 +11,7 @@ Foster Terminal | Coeus
 
 * Objective
 
-Deliver Rhenium, Germanium and Molybdenum
+Deliver [[id:9ccfbe7e-7f36-44c2-acad-01c813bc07f1][Rhenium]], [[id:ff72aa0d-7d32-4103-8cc9-d3bbded1ab20][Germanium]] and [[id:7b32c7e8-adb9-470f-963a-8781572158f5][Molybdenum]]
 
 * Progress
 
@@ -33,20 +33,20 @@ Tier 6/8
 
 Finished
 
-Scientists in Colonia are investigating the region's potential to
+Scientists in [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] are investigating the region's potential to
 support larger populations in the future.
 
-Professor Alexei de la Vega, who is leading the research, published this
+Professor [[id:840b9cc9-5d22-471b-b4ee-675ab5f1ea34][Alexei de la Vega]], who is leading the research, published this
 statement:
 Over the past few years the region's population has expanded
-ferociously, so it has become a priority to investigate how Colonia
+ferociously, so it has become a priority to investigate how [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]]
 might support even greater numbers, and what kind of infrastructure
 would be required.
 
 This research requires a range of specialised materials, for which
 we're prepared to pay handsomely. With these, we can evaluate
-Colonia's true potential.
+[[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]]'s true potential.
 
-The campaign is being run by Colonia Co-Operative, one of Colonia's
+The campaign is being run by [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] Co-Operative, one of [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]]'s
 partner organisations, which has asked pilots to deliver micro-resources
 to Foster Terminal in the Coeus system.

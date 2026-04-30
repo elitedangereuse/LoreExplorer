@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       995336e6-fed2-4719-a975-045e0e53d86c
+:ROAM_REFS: file:../references/Community%20Goals/Restoring_Order_in_Kaal__Bounty_Hunting_.md
 :END:
 #+title: Community Goal: Restoring Order in Kaal
 #+filetags: :CommunityGoal:3303:galnet:
@@ -8,8 +9,8 @@
 
 /18 Aug 3303/
 
-Authorities in the Kaal system have reported a sharp increase in the number of criminals operating in the area. Reports indicate that the agitators are attacking pilots travelling in the system, disrupting trade and generally causing discord. 
+Authorities in the Kaal system have reported a sharp increase in the number of criminals operating in the area. Reports indicate that the agitators are attacking pilots travelling in the system, disrupting trade and generally causing discord.
 
-To counter this threat, the [[id:d4f2b36b-70c4-4943-b901-496229734121][Kuk]] Silver Fortune Company has placed a kill order on all ships on its wanted list, and has promised to reward pilots who deliver bounty vouchers to Vercors Station. 
+To counter this threat, the [[id:d4f2b36b-70c4-4943-b901-496229734121][Kuk]] Silver Fortune Company has placed a kill order on all ships on its wanted list, and has promised to reward pilots who deliver bounty vouchers to Vercors Station.
 
 The campaign begins on 17th of August 3303 and will run for one week. If the final target is met earlier than planned, the campaign will end immediately.

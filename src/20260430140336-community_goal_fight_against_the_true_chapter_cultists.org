@@ -7,7 +7,7 @@
 
 * Location
 
-Ryman Market | Popontia
+Ryman Market | [[id:f21c69b0-fc77-43fa-b3d3-55c5da8daf22][Popontia]]
 
 * Objective
 
@@ -33,28 +33,28 @@ Tier 1/6
 
 Finished
 
-Conflict has erupted in Popontia as the Federation seeks to apprehend
-True Chapters cultists of the Far God cult.
+Conflict has erupted in [[id:f21c69b0-fc77-43fa-b3d3-55c5da8daf22][Popontia]] as the [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]] seeks to apprehend
+True Chapters cultists of the [[id:04ae001b-eb07-4812-a42e-4bb72825609b][Far God]] cult.
 
-Federal ships have been deployed in the Popontia system with the
+Federal ships have been deployed in the [[id:f21c69b0-fc77-43fa-b3d3-55c5da8daf22][Popontia]] system with the
 intention of detaining all cultists and seizing the Dedicant megaship.
-Governor Nadia Machado, representing Popontia Incorporated, declared:
+Governor [[id:e670ccd3-5fc4-42d0-b291-8509d52f07b8][Nadia Machado]], representing [[id:67330c87-fbcd-4727-8cfb-be827aa5f4b2][Popontia Incorporated]], declared:
 
 "By order of President Hudson, all Thargoid worshippers are under
 suspicion of espionage and abetting our alien enemies. The True Chapters
 group is ordered to surrender for lawful questioning."
 
-Popontia Incorporated has been tasked with overseeing this mission.
+[[id:67330c87-fbcd-4727-8cfb-be827aa5f4b2][Popontia Incorporated]] has been tasked with overseeing this mission.
 Payment has been authorised for Federal auxiliaries and independent
 pilots willing to pledge their support in subduing True Chapters
 supporters.
 
-These unprecedented hostilities were commented on by Dr Alfred Ulyanov,
-an academic authority on the Order of the Far God:
+These unprecedented hostilities were commented on by Dr [[id:2bf69df4-bf62-4877-87eb-5158254f5fcb][Alfred Ulyanov]],
+an academic authority on the Order of the [[id:04ae001b-eb07-4812-a42e-4bb72825609b][Far God]]:
 
 "This is the first time that members of this faith have not calmly
 accepted their own fate. According to my research, the First Apostle
-preaches that the Far God will transform her followers upon Its
+preaches that the [[id:04ae001b-eb07-4812-a42e-4bb72825609b][Far God]] will transform her followers upon Its
 manifestation, allowing them to survive while the rest of humanity is
 extinguished. This has evidently motivated True Chapters adherents to
 abandon their wholly passive stance."

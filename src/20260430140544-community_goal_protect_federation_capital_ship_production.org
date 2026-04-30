@@ -11,7 +11,7 @@ Schweickart City | Parutis
 
 * Objective
 
-Hand in Bounty Vouchers for Labour Of Parutis​
+Hand in [[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]] for Labour Of Parutis​
 
 * Progress
 
@@ -33,19 +33,19 @@ Tier 5/5
 
 Finished
 
-The Federal Navy has requested commodities for the construction of new
+The [[id:3d268496-1d95-49bc-aca6-49d16a4337c8][Federal Navy]] has requested commodities for the construction of new
 capital ships in Parutis.
 
-President Zachary Hudson has convinced Congress to increase funding for
-the Federal Navy, and to advance the construction programme for
-Farragut-class Battle Cruisers. In a powerful address, he said:
+President [[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][Zachary Hudson]] has convinced Congress to increase funding for
+the [[id:3d268496-1d95-49bc-aca6-49d16a4337c8][Federal Navy]], and to advance the construction programme for
+[[id:3146c49e-4aa8-4061-9ab2-1d9da2b0bff5][Farragut]]-class Battle Cruisers. In a powerful address, he said:
 
-"Defending the Federation is our highest priority in these uncertain
+"Defending the [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]] is our highest priority in these uncertain
 times. It is vital that we reinforce our capability to protect the
 people from all threats."
 
-The Federal Navy urgently requires additional resources to meet the new
-shipbuilding timetable. Deliveries of Building Fabricators, Microbial
+The [[id:3d268496-1d95-49bc-aca6-49d16a4337c8][Federal Navy]] urgently requires additional resources to meet the new
+shipbuilding timetable. Deliveries of [[id:0f1939e4-1ab1-4f9c-8b73-ebc572081433][Building Fabricators]], Microbial
 Furnaces and Energy Grid Assemblies are requested at Schweickart City in
 the Parutis system.
 

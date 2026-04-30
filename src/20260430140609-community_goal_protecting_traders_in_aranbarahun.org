@@ -11,7 +11,7 @@ Barnes Terminal | Aranbarahun
 
 * Objective
 
-Hand in Bounty Vouchers
+Hand in [[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]]
 
 * Progress
 
@@ -34,7 +34,7 @@ Tier 4/8
 Finished
 
 To earn rewards you must sign up as an active participant before handing
-in Bounty Vouchers at Barnes Terminal in the Aranbarahun system.
+in [[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]] at Barnes Terminal in the Aranbarahun system.
 
 Please note that if you have any crew members, a portion of your bounty
 vouchers will be automatically assigned to them. These bounty vouchers
@@ -43,7 +43,7 @@ will receive the reward for their vouchers when they are handed in. The
 proportion of bounty vouchers assigned to your crew will depend on their
 rank.
 
-Be aware that faction-state changes, Thargoid Sensor-related
+Be aware that faction-state changes, [[id:8ddf8e00-4541-4857-a609-5f6c5849dded][Thargoid Sensor]]-related
 interference and other disruptive events can negatively impact markets
 and station services, and could prevent the initiative from running
 smoothly.

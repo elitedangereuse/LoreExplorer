@@ -11,7 +11,7 @@ Stillman Hub | Concordia
 
 * Objective
 
-Deliver Animal Meat, Fish, Fruit and Vegetables and Grain
+Deliver [[id:33adaaf7-4206-4047-bbd9-81be1fc169c0][Animal Meat]], [[id:6aec48eb-daf1-45ff-92d2-0ba46d6347f8][Fish]], [[id:9dbf5564-8fe2-46f3-930f-f3f1dbfecd26][Fruit and Vegetables]] and [[id:4cc7cde6-24f6-4bcc-b403-0f4cc90cde80][Grain]]
 
 * Progress
 
@@ -33,15 +33,15 @@ Tier 4/5
 
 Finished
 
-The Marlinist Colonies have requested assistance to feed their
+The [[id:46536da8-abd4-461f-9bf9-b749d4fc25e1][Marlinist]] Colonies have requested assistance to feed their
 population.
 
-Eight systems were colonised by the Sirius Corporation to act as
+Eight systems were colonised by the [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]] to act as
 permanent reservations for the political refugees. Millions of
 Marlinists have now relocated to these settlements, thereby reducing
-tension between the Empire and the Federation.
+tension between the [[id:541dcfb3-93ef-40e5-9284-bf5a4f999043][Empire]] and the [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]].
 
-The newly formed Marlinist factions are holding democratic elections to
+The newly formed [[id:46536da8-abd4-461f-9bf9-b749d4fc25e1][Marlinist]] factions are holding democratic elections to
 select their leaders. However, the transitional parliament has declared
 an emergency due to the shortage of food stocks.
 
@@ -49,7 +49,7 @@ Pilots are asked to deliver animal meat, fish, fruit and vegetables, and
 grain to Stillman Hub in the HIP 22550 system.
 
 Each tier reached will increase the level of discount on the purchase
-prices of a broad range of commodities sold at Marlinist Colonies
+prices of a broad range of commodities sold at [[id:46536da8-abd4-461f-9bf9-b749d4fc25e1][Marlinist]] Colonies
 markets.
 This will last for a two-week period starting on the 22nd of January
 3307, helping to improve trade links and boost commerce.
@@ -62,7 +62,7 @@ Tier 4 up to 20% reduction
 Tier 5 up to 30% reduction
 
 If successful, the Free Marlinists of Carinae in conjunction with other
-Marlinist factions will give the top 75% of pilots a fully engineered,
+[[id:46536da8-abd4-461f-9bf9-b749d4fc25e1][Marlinist]] factions will give the top 75% of pilots a fully engineered,
 focused and lightweight point defence module.
 The module will be placed in storage at Stillman Hub in the HIP 22550
 system by the 23rd of January 3307.

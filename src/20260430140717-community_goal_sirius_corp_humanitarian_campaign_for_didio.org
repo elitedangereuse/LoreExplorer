@@ -7,11 +7,11 @@
 
 * Location
 
-Chariot of Rhea | Leesti
+Chariot of [[id:6da9023a-ccb6-444a-be77-626dfb552eb1][Rhea]] | [[id:e7c94b38-cdfb-48da-a1c4-cdad10c3371a][Leesti]]
 
 * Objective
 
-Deliver Food Cartridges, Basic Medicines and Evacuation Shelter
+Deliver [[id:a137e655-317f-4e24-8580-abed3b915119][Food Cartridges]], [[id:1c200888-6acc-404b-8d9e-9ad834389782][Basic Medicines]] and [[id:bf715112-e4c4-4077-83b9-104ed3af3816][Evacuation Shelter]]
 
 * Progress
 
@@ -33,28 +33,28 @@ Tier 1/5
 
 Finished
 
-Sirius Corporation has organised humanitarian support for the Didio
+[[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]] has organised humanitarian support for the [[id:d508fb0f-0214-4133-829f-edb61e2681d0][Didio]]
 system, which is under attack by Thargoid vessels.
 
-The Alliance Defence Fleet is currently combating the Thargoid threat in
-Didio, under the command of Admiral Rachel Ziegler.
+[[id:1c4d53a2-d81f-4cfa-8001-eb77f2c79b5f][The Alliance]] Defence Fleet is currently combating the Thargoid threat in
+[[id:d508fb0f-0214-4133-829f-edb61e2681d0][Didio]], under the command of Admiral [[id:ba8a8802-bcb4-40c2-963e-52e33699797a][Rachel Ziegler]].
 
-Admiral Nikolas Glass, who acts as a liaison between the megacorp and
-the Alliance Defence Force, provided details of the campaign:
+Admiral [[id:2e8a3cd7-5f4e-47dc-ba7f-eb732bf8c7fa][Nikolas Glass]], who acts as a liaison between the megacorp and
+the [[id:17d9294e-7759-4cf4-9a67-5f12b5704f51][Alliance Defence Force]], provided details of the campaign:
 
 "With the strategic defence pact yet to be ratified, the Council of
-Admirals has not approved the deployment of Sirius Navy ships as part of
-an Allied fleet. However, Sirius Corporation is keen to show its
-commitment to helping the Alliance, and will do so by supplying vital
-resources to the Didio system's besieged population."
+Admirals has not approved the deployment of [[id:3dd2f3c7-3ddf-4900-aa28-580344edd509][Sirius Navy]] ships as part of
+an Allied fleet. However, [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]] is keen to show its
+commitment to helping the [[id:2506edb2-fef4-4723-85c6-02482635229d][Alliance]], and will do so by supplying vital
+resources to the [[id:d508fb0f-0214-4133-829f-edb61e2681d0][Didio]] system's besieged population."
 
 "Large quantities of basic medicines, evacuation shelters and food
 cartridges are urgently required. These can be delivered to Chariot of
-Rhea in the Leesti system, from where they will be delivered to Didio in
+[[id:6da9023a-ccb6-444a-be77-626dfb552eb1][Rhea]] in the [[id:e7c94b38-cdfb-48da-a1c4-cdad10c3371a][Leesti]] system, from where they will be delivered to [[id:d508fb0f-0214-4133-829f-edb61e2681d0][Didio]] in
 military convoys."
 
 A joint operation between the superpowers is currently underway in
-Didio, Novas and Sosong to counter recent Thargoid invasions. This is to
+[[id:d508fb0f-0214-4133-829f-edb61e2681d0][Didio]], [[id:b38c4ed0-3aaa-4a86-8acd-a241164d680f][Novas]] and [[id:2a81ce70-848a-46eb-aa0b-b5626e78e8aa][Sosong]] to counter recent Thargoid invasions. This is to
 buy time for Salvation's anti-xeno superweapons to be constructed.
 
 The delivery campaign begins on the 28th April and will run until the

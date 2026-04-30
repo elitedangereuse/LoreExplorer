@@ -7,11 +7,11 @@
 
 * Location
 
-Biruni Port | Niflhel
+Biruni Port | [[id:2ad15cb1-9249-4380-9d86-ae5134de7faa][Niflhel]]
 
 * Objective
 
-Hand in Bounty Vouchers
+Hand in [[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]]
 
 * Progress
 
@@ -33,7 +33,7 @@ Tier 6/8
 
 Finished
 
-Imperial Senator Caspian Leopold has launched an appeal for commodities
+Imperial Senator [[id:1d3d8a69-609b-4e83-b1a1-a46cb23ba195][Caspian Leopold]] has launched an appeal for commodities
 to help those affected by Thargoid attacks.
 
 A spokesperson for Senator Leopold gave the following statement to the
@@ -44,6 +44,6 @@ thousands of refugees, but more aid is needed. Resources are growing
 scarce, and we will require the galactic community's help if we are to
 avoid a humanitarian crisis.
 
-The Niflhel Guardians Of Tradition, who are overseeing the initiative,
+The [[id:2ad15cb1-9249-4380-9d86-ae5134de7faa][Niflhel]] Guardians Of Tradition, who are overseeing the initiative,
 have placed a kill order on all ships on its wanted list, to ensure that
 those contributing to the initiative can do so safely.

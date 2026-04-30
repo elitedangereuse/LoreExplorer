@@ -7,11 +7,11 @@
 
 * Location
 
-Prelude to Victory | Eurybia
+Prelude to Victory | [[id:0dbd55a5-68d9-45c4-9a80-b2e41f79554c][Eurybia]]
 
 * Objective
 
-Hand in Combat Bonds after fighting for Keltim Empire League in Conflict
+Hand in [[id:bbbc7bc6-79d7-46b7-925e-c1f882c8f25a][Combat Bonds]] after fighting for Keltim [[id:541dcfb3-93ef-40e5-9284-bf5a4f999043][Empire]] League in Conflict
 Zones​
 
 * Progress
@@ -35,27 +35,27 @@ Tier 3/5
 Finished
 
 The bombs used in recent terrorist attacks on four Imperial starports
-may have been developed by Liz Ryder, an Engineer in the Eurybia
+may have been developed by [[id:cb71ba02-e47b-4feb-a421-b1f2ecdce6f3][Liz Ryder]], an Engineer in the [[id:0dbd55a5-68d9-45c4-9a80-b2e41f79554c][Eurybia]]
 system.
 
-The Imperial Internal Security Service published this report:
+The [[id:01980efc-1b06-4f55-bf18-fa6c7e56f1eb][Imperial Internal Security Service]] published this report:
 
 "Analysis of station traffic revealed that the explosives were
-delivered on cargo transports linked to the Eurybia Blue Mafia, a
+delivered on cargo transports linked to the [[id:bfb6fa92-52a2-4955-a1d7-4f11307f77fc][Eurybia Blue Mafia]], a
 notorious anarchist organisation that we have reason to believe is
 secretly supplying the NMLA."
 
-"The Eurybia Blue Mafia is protecting the demolitions expert Liz Ryder,
+"The [[id:bfb6fa92-52a2-4955-a1d7-4f11307f77fc][Eurybia Blue Mafia]] is protecting the demolitions expert [[id:cb71ba02-e47b-4feb-a421-b1f2ecdce6f3][Liz Ryder]],
 who we strongly suspect of designing the specialist weapons used in the
 starport bombings. As they have refused to cooperate, a state of war has
 been declared until she is surrendered to our custody."
 
-"Our local representative, the Keltim Empire League, has requested the
+"Our local representative, the Keltim [[id:541dcfb3-93ef-40e5-9284-bf5a4f999043][Empire]] League, has requested the
 support of independent pilots against any resisting anarchist forces."
 
 If victorious, the Demolition Unlimited workshop will continue providing
 services to Commanders with existing access, but future access will be
-handled by the Empire.
+handled by the [[id:541dcfb3-93ef-40e5-9284-bf5a4f999043][Empire]].
 
 The two factions have set out week-long campaigns, which will begin on
 the 1st of October 3306.

@@ -11,7 +11,7 @@ Levi-Montalcini Dock | Othime
 
 * Objective
 
-Hand in Bounty Vouchers
+Hand in [[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]]
 
 * Progress
 
@@ -41,7 +41,7 @@ A spokesperson for the Coalition said:
 "Othime relies heavily on its refineries, but those refineries are
 limited to small and medium cargo vessels, which limits the amount of
 revenue we can generate. A new asteroid base would allow us to support
-large ships, such as the Anaconda and Imperial Cutter, and allow us to
+large ships, such as the [[id:79778442-b881-46ca-8783-f6d9bc4b8233][Anaconda]] and [[id:ab621e71-06dd-443a-a038-6e84e1c9e04e][Imperial Cutter]], and allow us to
 compete with other refineries in the sector."
 
 The organisation has placed an open order for various commodities, and
@@ -54,7 +54,7 @@ the final target is met earlier than planned, the campaign will end
 immediately.
 
 To be eligible for rewards you must sign up as an active participant
-before handing in Bounty Vouchers at Levi-Montalcini Dock in the Othime
+before handing in [[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]] at Levi-Montalcini Dock in the Othime
 system.
 
 Please note that if you have any crew members, a portion of your bounty

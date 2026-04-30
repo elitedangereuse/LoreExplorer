@@ -7,11 +7,11 @@
 
 * Location
 
-Davis Terminal | Duamta
+Davis Terminal | [[id:b16e9508-ccde-4a48-86ff-f3674c9c720e][Duamta]]
 
 * Objective
 
-Deliver Basic Medicines and Advanced Medicines
+Deliver [[id:1c200888-6acc-404b-8d9e-9ad834389782][Basic Medicines]] and [[id:5af29dcf-3079-46c2-a594-d2559c830744][Advanced Medicines]]
 
 * Progress
 
@@ -36,7 +36,7 @@ Finished
 Safeguard Interstellar requires deliveries of medicines to treat
 casualties from the NMLA's recent terrorist attack.
 
-CEO Noel Beaumont announced:
+CEO [[id:ad2a739e-6229-4c8b-8ab1-f4375f5dbcc1][Noel Beaumont]] announced:
 
 "Hundreds of thousands of civilians still require urgent medical
 attention after being evacuated from the damaged stations. Many have
@@ -46,15 +46,15 @@ systems."
 
 "To reinforce overstretched health services, we request shipments of
 basic medicines and advanced medicines. These can be delivered to Davis
-Terminal in the Duamta system."
+Terminal in the [[id:b16e9508-ccde-4a48-86ff-f3674c9c720e][Duamta]] system."
 
-Safeguard Interstellar has partnered with Duamta Gold Creative Corp. to
+Safeguard Interstellar has partnered with [[id:b16e9508-ccde-4a48-86ff-f3674c9c720e][Duamta]] Gold Creative Corp. to
 reward pilots and distribute the medicines.
 
 If Tier 1 is reached, the top 75% of participants will receive a
-permanent Sol system permit and a fully engineered class 3 rating A
+permanent [[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]] system permit and a fully engineered class 3 rating A
 overcharged and armoured Power Plant. The module will be placed in
-storage at Davis Terminal in the Duamta system by the 26th of March
+storage at Davis Terminal in the [[id:b16e9508-ccde-4a48-86ff-f3674c9c720e][Duamta]] system by the 26th of March
 3307.
 
 The joint initiative will run for one week. If the final target is met

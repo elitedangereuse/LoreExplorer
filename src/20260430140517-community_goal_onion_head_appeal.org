@@ -7,11 +7,11 @@
 
 * Location
 
-Navigator Market | Xelabara
+[[id:0492e118-33f4-4ebb-8e11-4c0aa04a1e1c][Navigator Market]] | [[id:8ef8f119-116b-4f07-924f-b51838b0d3b1][Xelabara]]
 
 * Objective
 
-Earn rewards by delivering Onion Head to Navigator Market
+Earn rewards by delivering Onion Head to [[id:0492e118-33f4-4ebb-8e11-4c0aa04a1e1c][Navigator Market]]
 
 * Progress
 
@@ -33,14 +33,14 @@ Tier 2/6
 
 Finished
 
-The Drug Empire of Xelabara has issued a request for Onion Head. The
-organisation intends to set up a trade enterprise in Xelabara and is in
+The Drug [[id:541dcfb3-93ef-40e5-9284-bf5a4f999043][Empire]] of [[id:8ef8f119-116b-4f07-924f-b51838b0d3b1][Xelabara]] has issued a request for Onion Head. The
+organisation intends to set up a trade enterprise in [[id:8ef8f119-116b-4f07-924f-b51838b0d3b1][Xelabara]] and is in
 need of merchandise to kick-start its operation. Traders who are
 interested in contributing to the appeal will be generously reimbursed
-for delivering Onion Head to Navigator Market in the Xelabara system.
+for delivering Onion Head to [[id:0492e118-33f4-4ebb-8e11-4c0aa04a1e1c][Navigator Market]] in the [[id:8ef8f119-116b-4f07-924f-b51838b0d3b1][Xelabara]] system.
 
 Note: Pickup the the rare good "Onion Head" (max allotment is 8t per
-CMDR) at Kappa Fornacis /Harvestport
+CMDR) at [[id:b634e896-9d3d-4f44-9783-cfb8fd6d0c56][Kappa Fornacis]] /[[id:1615a78c-73ab-4e84-a21a-3843b927551a][Harvestport]]
 
 Tier 1 = Rare Created
 Tier 2 = Allowance of 10t

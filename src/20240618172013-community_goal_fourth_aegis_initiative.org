@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       b3c86292-cea5-4b94-9442-2817decb6b73
+:ROAM_REFS: file:../references/Community%20Goals/Fourth_Aegis_Initiative.md
 :END:
 #+title: Community Goal: Fourth Aegis Initiative
 #+filetags: :Federation:Thargoid:CommunityGoal:3303:galnet:
@@ -14,6 +15,6 @@ As the campaign began, [[id:be5df73c-519d-45ed-a541-9b70bc8ae97c][The Federal Ti
 
 "The Thargoids' ability to disable our ships is one of their most formidable weapons. For the past few weeks I've been working on a device that I hope will protect human vessels from the Thargoids' immobilising field."
 
-The [[id:27afafa1-f476-4854-b1f8-fe0e14933646][Khun]] Independent Governance has promised to reward pilots who deliver Thargoid Cyclops Tissue Samples, Coltan and Beryllium to Cremona Prospect in the Khun system.
+The [[id:27afafa1-f476-4854-b1f8-fe0e14933646][Khun]] Independent Governance has promised to reward pilots who deliver Thargoid Cyclops Tissue Samples, [[id:047e63e2-7b61-424c-a330-e712609eaba5][Coltan]] and [[id:bd0fe4ab-145e-431c-b06e-3433e2618bff][Beryllium]] to Cremona Prospect in the [[id:27afafa1-f476-4854-b1f8-fe0e14933646][Khun]] system.
 
 The campaign begins on the 12th of October 3303 and will run for one week. If the final target is met earlier than planned, the campaign will end immediately.

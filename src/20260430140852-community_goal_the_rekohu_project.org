@@ -11,7 +11,7 @@ Kanai Enterprise | Blido Piru
 
 * Objective
 
-Deliver CMM Composites, Muon Imagers, Titanium and Robotics
+Deliver CMM Composites, Muon Imagers, [[id:d727fb19-8dc0-4d94-bcd4-da1cb5c090f0][Titanium]] and [[id:04da3c2d-0705-481d-b17c-8b4235a3aa7a][Robotics]]
 
 * Progress
 
@@ -33,13 +33,13 @@ Tier 6/8
 
 Finished
 
-Angell Imperial Enterprises, one of the Empire's key suppliers of
+Angell Imperial Enterprises, one of the [[id:541dcfb3-93ef-40e5-9284-bf5a4f999043][Empire]]'s key suppliers of
 foodstuffs and other consumables, has announced plans to build a
 Bowman-class science vessel.
 The construction initiative, dubbed the Rekohu Project, will allow the
 organisation to increase the biodiversity of its crops. Once complete,
 the megaship will be deployed to the PLAA AIN Sector to research life on
-Earth-like worlds.
+[[id:7fec1142-ab20-47e1-b746-36edee889cc3][Earth-like]] worlds.
 The organisation's spokesperson, Commander Blain Crighton, released the
 following statement:
 "For a civilisation with near-limitless energy and the ability to cross
@@ -53,9 +53,9 @@ The campaign begins on the 19th of April 3304 and will run for one week.
 If the final target is met earlier than planned, the campaign will end
 immediately.
 To be eligible for rewards you must sign up as an active participant
-before delivering CMM Composites, Muon Imagers, Titanium and Robotics to
+before delivering CMM Composites, Muon Imagers, [[id:d727fb19-8dc0-4d94-bcd4-da1cb5c090f0][Titanium]] and [[id:04da3c2d-0705-481d-b17c-8b4235a3aa7a][Robotics]] to
 Kanai Enterprise in the Blido Piru system.
-Be aware that faction-state changes, Thargoid Sensor-related
+Be aware that faction-state changes, [[id:8ddf8e00-4541-4857-a609-5f6c5849dded][Thargoid Sensor]]-related
 interference and other disruptive events can negatively impact markets
 and station services, and could prevent the initiative from running
 smoothly.

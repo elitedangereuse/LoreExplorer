@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       ffa2cf1e-e6bb-475c-b589-0e9b6fd7bca8
+:ROAM_REFS: file:../references/Community%20Goals/Sale_of_the_Century.md
 :END:
 #+title: Community Goal: Sale of the Century
 #+filetags: :CommunityGoal:3302:galnet:
@@ -10,7 +11,7 @@
 
 For many retailers, this Friday is one of the busiest days of the year, as prices are slashed and consumers compete to take advantage of a range of one-day offers.
 
-As the fateful day draws near, [[id:a1dbb237-b1be-45cd-aef7-8c0f56cbf7fd][Tchernobog]] Free, a retail conglomerate based in the Tchernobog system, has placed an open order for various commodities to help it meet demand. The organisation has promised to reward pilots who deliver domestic appliances, clothing and consumer technology to its base of operations at Vancouver Ring.
+As the fateful day draws near, [[id:a1dbb237-b1be-45cd-aef7-8c0f56cbf7fd][Tchernobog]] Free, a retail conglomerate based in the [[id:a1dbb237-b1be-45cd-aef7-8c0f56cbf7fd][Tchernobog]] system, has placed an open order for various commodities to help it meet demand. The organisation has promised to reward pilots who deliver domestic appliances, clothing and consumer technology to its base of operations at Vancouver Ring.
 
 A spokesperson for the organisation gave a brief statement to the media:
 

@@ -11,7 +11,7 @@ Brust Vision | HIP 54692
 
 * Objective
 
-Sell Advanced Catalysers to Brust Vision
+Sell [[id:2981e870-5c6c-4a19-a4d7-e9b39ace3ea1][Advanced Catalysers]] to Brust Vision
 
 * Progress
 
@@ -38,7 +38,7 @@ has now entered the third stage of its terraforming process. Technicians
 working for Big G Corporation are currently in the process of preparing
 the necessary equipment in order to launch the next stage.
 
-Unfortunately due to lack of Advanced Catalysers, the project has been
+Unfortunately due to lack of [[id:2981e870-5c6c-4a19-a4d7-e9b39ace3ea1][Advanced Catalysers]], the project has been
 temporarily delayed until such time as an adequate supply of Advanced
 Catalysers can be obtained.
 

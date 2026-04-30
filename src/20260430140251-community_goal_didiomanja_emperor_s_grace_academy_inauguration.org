@@ -11,7 +11,7 @@ Leydenfrost Dock | Didiomanja
 
 * Objective
 
-Deliver Haiden Black Brew, Neritus Berries, and HIP Proto-Squid to
+Deliver [[id:e7a23f31-d667-42b4-872a-595b614c51bd][Haiden Black Brew]], [[id:9b17bda0-7c84-4087-a018-c3a5b1d64597][Neritus Berries]], and [[id:4bc54a65-1728-4a5a-8582-d649c30b79b0][HIP Proto-Squid]] to
 Leydenfrost Dock
 
 * Progress
@@ -35,9 +35,9 @@ Tier 5/8
 Finished
 
 The Didiomanja Emperor's Grace has completed work on the Tiverion
-Academy, a flight school for Imperial Navy cadets. The organisation is
+Academy, a flight school for [[id:e9becd28-9644-42aa-afc8-7bba3ce10076][Imperial Navy]] cadets. The organisation is
 hosting an inaugural banquet to mark the event, and to honour the late
-Admiral Mira Tiverion, the organisation's founding member, who will
+Admiral [[id:04ebf7f2-fa53-4a5a-876c-dd59fc94891c][Mira Tiverion]], the organisation's founding member, who will
 have a monument erected at the site.
 
 A spokesperson for the Didiomanja Emperor's Grace released the
@@ -58,10 +58,10 @@ If the final target is met earlier than planned, the campaign will end
 immediately.
 
 To be eligible for rewards you must sign up as an active participant
-before delivering Haiden Black Brew, Neritus Berries and HIP Proto-Squid
+before delivering [[id:e7a23f31-d667-42b4-872a-595b614c51bd][Haiden Black Brew]], [[id:9b17bda0-7c84-4087-a018-c3a5b1d64597][Neritus Berries]] and [[id:4bc54a65-1728-4a5a-8582-d649c30b79b0][HIP Proto-Squid]]
 to Leydenfrost Dock in the Didiomanja system.
 
-Be aware that faction-state changes, Thargoid Sensor-related
+Be aware that faction-state changes, [[id:8ddf8e00-4541-4857-a609-5f6c5849dded][Thargoid Sensor]]-related
 interference and other disruptive events can negatively impact markets
 and station services, and could prevent the inactive from running
 smoothly.

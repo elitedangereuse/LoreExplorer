@@ -33,11 +33,11 @@ Tier 1/3
 
 Finished
 
-The Imperial Navy has discovered bases belonging to the seditious group
+The [[id:e9becd28-9644-42aa-afc8-7bba3ce10076][Imperial Navy]] has discovered bases belonging to the seditious group
 Emperor's Dawn in the Maausk and Dakshmandi systems, and Senator Denton
 Patreus is mounting an operation to destroy these insurgents. Imperial
 intelligence currently believes that Emperor's Dawn was responsible for
-the assassination of Emperor Hengist Duval, and it has made the
+the assassination of Emperor [[id:3cb0755e-4deb-442b-898b-3f0c6651636e][Hengist Duval]], and it has made the
 eradication of this insurrectionist organisation a priority.
 
 The Dakshmandi Focus has been authorised to reward pilots who help to

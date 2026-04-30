@@ -7,11 +7,11 @@
 
 * Location
 
-Betancourt Base | Musca Dark Region PJ-P b6-1
+[[id:ae06f8b5-b73a-43db-a04f-e31f396777b1][Betancourt Base]] | [[id:10bb0672-e25e-4ab1-a412-4e858663a566][Musca Dark Region PJ-P b6-1]]
 
 * Objective
 
-Deliver Ammonia World exploration data
+Deliver [[id:df71ddf4-a45f-4785-b42a-bcd5a396e8ac][Ammonia]] World exploration data
 
 * Progress
 
@@ -33,37 +33,37 @@ Tier 4/5
 
 Finished
 
-Sirius Atmospherics has requested help from independent pilots to
+[[id:c85d1251-b6f2-460f-9a24-b1aba6b14097][Sirius Atmospherics]] has requested help from independent pilots to
 provide data on ammonia worlds for terraforming purposes.
 
-The subsidiary of Sirius Corporation is working in partnership with the
-Alliance to establish colonies within the Coalsack Nebula, and to
+The subsidiary of [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]] is working in partnership with the
+[[id:2506edb2-fef4-4723-85c6-02482635229d][Alliance]] to establish colonies within the Coalsack Nebula, and to
 identify sites of commercial and scientific interest.
 
-Dr Maximilian North, Sirius Atmospherics's project director, outlined
+Dr [[id:eb0165b3-7d95-4887-ad0c-3db012756434][Maximilian North]], [[id:c85d1251-b6f2-460f-9a24-b1aba6b14097][Sirius Atmospherics]]'s project director, outlined
 the requirements:
 
 "We have developed revolutionary new terraforming procedures for
 terrestrial planets with ammonia-based atmospheres. Our collaboration
-with the Alliance is the perfect opportunity to try and put these to
+with the [[id:2506edb2-fef4-4723-85c6-02482635229d][Alliance]] is the perfect opportunity to try and put these to
 practical use, with the goal of transforming the region into a more
 human-friendly place."
 
-"Sirius Atmospherics offers rewards for explorers who can provide us
+"[[id:c85d1251-b6f2-460f-9a24-b1aba6b14097][Sirius Atmospherics]] offers rewards for explorers who can provide us
 with exploration data. We are particularly interested in detailed scans
 focusing on the composition of ammonia worlds, not just in the Coalsack
 Nebula but elsewhere. Gathering wide-ranging data will enable us to
 determine the most suitable targets for environmental conversion."
 
-Pilots are requested to deliver their exploration data to the Sirius
-Atmospherics research facility at Betancourt Base in the Musca Dark
+Pilots are requested to deliver their exploration data to the [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]]
+Atmospherics research facility at [[id:ae06f8b5-b73a-43db-a04f-e31f396777b1][Betancourt Base]] in the Musca Dark
 Region PJ-P b6-1 system.
 
 Although the company is paying handsomely for all exploration data, it
 is the data from ammonia worlds that will really progress the research,
 with data from mapped ammonia worlds being three times as useful.
 
-Depending on the tier reached, Sirius Atmospherics will offer higher
+Depending on the tier reached, [[id:c85d1251-b6f2-460f-9a24-b1aba6b14097][Sirius Atmospherics]] will offer higher
 prices for exploration data starting on the 11th of December 3306.
 Tier 1: Standard payout for exploration.
 Tier 2: One week at double the standard payout.

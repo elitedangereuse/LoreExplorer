@@ -7,11 +7,11 @@
 
 * Location
 
-Bobko City | Narri
+[[id:958d3b04-bbb5-4d7e-b0f0-0208abfea93c][Bobko City]] | Narri
 
 * Objective
 
-Hand in Bounty Vouchers
+Hand in [[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]]
 
 * Progress
 
@@ -33,14 +33,14 @@ Tier 8/8
 
 Finished
 
-The Utopia commune has launched a project to build a military
-installation in its home system to defend the Sim-Archive from potential
+The [[id:058a658d-e1ce-4364-a92b-b9607495c73f][Utopia]] commune has launched a project to build a military
+installation in its home system to defend the [[id:83b3ed4c-f0b1-4311-a4df-34bdfa742126][Sim-Archive]] from potential
 Thargoid attack.
 
-Dr Leigh Constantinides, a spokesperson for Utopia, made this
+Dr [[id:78f7348c-44af-40bf-8f60-ff0e4d3425d0][Leigh Constantinides]], a spokesperson for [[id:058a658d-e1ce-4364-a92b-b9607495c73f][Utopia]], made this
 announcement:
 Following recent observations by the respected strategist Marquis
-Novantico, we accept that the Sim-Archive requires increased protection
+Novantico, we accept that the [[id:83b3ed4c-f0b1-4311-a4df-34bdfa742126][Sim-Archive]] requires increased protection
 to prevent its knowledge from falling into the wrong hands. Our partner
 organisation, the Narri Justice Party, is therefore overseeing the
 construction of a new security installation. We beseech the galactic
@@ -48,5 +48,5 @@ community to support this worthy endeavour.
 
 To support this initiative, the Narri Justice Party has launched an
 appeal for various construction materials. To protect traders delivering
-goods to Bobko City, they have placed a kill order on all ships on its
+goods to [[id:958d3b04-bbb5-4d7e-b0f0-0208abfea93c][Bobko City]], they have placed a kill order on all ships on its
 wanted list operating in the system.

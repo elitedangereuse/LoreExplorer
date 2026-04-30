@@ -11,7 +11,7 @@ Fox Enterprise | LFT 625
 
 * Objective
 
-Hand in Bounty Vouchers​
+Hand in [[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]]​
 
 * Progress
 
@@ -34,22 +34,22 @@ Tier 3/6
 Finished
 
 An aid charity is requesting protection of vital supplies to help
-Marlinist refugees that fled from the Empire to the Federation.
+[[id:46536da8-abd4-461f-9bf9-b749d4fc25e1][Marlinist]] refugees that fled from the [[id:541dcfb3-93ef-40e5-9284-bf5a4f999043][Empire]] to the [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]].
 
 Safeguard Interstellar, a humanitarian aid organisation, has announced a
 campaign to help refugees requesting political asylum in the
-Federation.
+[[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]].
 
 Several Imperial factions sympathetic to Marlinism were placed under
 martial law, leading to civilians emigrating in huge numbers to the
 Federal systems Charunder, Ennead, HIP 36081, LTT 1935, LTT 3607 and
-Thetis. Local authorities have warned that without additional support,
+[[id:98476f7f-baa5-442b-ab2a-ae48dba2436e][Thetis]]. Local authorities have warned that without additional support,
 these refugees may trigger public unrest or food shortages. There is
 also a risk of unfamiliar contagions reaching the population.
 
-Noel Beaumont, the CEO of Safeguard Interstellar, made this statement:
+[[id:ad2a739e-6229-4c8b-8ab1-f4375f5dbcc1][Noel Beaumont]], the CEO of Safeguard Interstellar, made this statement:
 
-"These ex-citizens of the Empire have suffered at the hands of their
+"These ex-citizens of the [[id:541dcfb3-93ef-40e5-9284-bf5a4f999043][Empire]] have suffered at the hands of their
 own government, and now seek freedom from persecution. Shelter, food and
 other necessities must be provided to satisfy their basic human
 rights."

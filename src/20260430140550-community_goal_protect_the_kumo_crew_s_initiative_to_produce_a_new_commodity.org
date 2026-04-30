@@ -7,11 +7,11 @@
 
 * Location
 
-Kumo City | Pegasi Sector PN-T c3-14
+[[id:82a0f345-bc03-4564-897c-b00bcda5b74e][Kumo City]] | [[id:93f55330-0ae5-42d5-bee2-368453bcd9e1][Pegasi Sector PN-T c3-14]]
 
 * Objective
 
-Hand in Bounty Vouchers​
+Hand in [[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]]​
 
 * Progress
 
@@ -33,15 +33,15 @@ Tier 1/5
 
 Finished
 
-The Kumo Crew syndicate is requesting deliveries to mass-produce a
+The [[id:1dfc7c53-642a-4404-a8e8-16a8cc18482a][Kumo Crew]] syndicate is requesting deliveries to mass-produce a
 recreational drug.
 
-The drug is believed to originate with the Blue Viper Club, a nomadic
+The drug is believed to originate with the [[id:327af983-8859-4d4d-9906-78d535ad621a][Blue Viper Club]], a nomadic
 clan travelling aboard an ancient dredger that recently appeared near
-Kumo City station.
+[[id:82a0f345-bc03-4564-897c-b00bcda5b74e][Kumo City]] station.
 
-Arch-Corsair Kay Volantyne, representing the Kumo Council, provided
-details to local newsfeed The Pegasi Sentinel:
+Arch-Corsair [[id:a002575a-7b72-4d9b-8c76-e748073a8e3e][Kay Volantyne]], representing the [[id:2dc1b92f-4bdc-4504-ad5f-a9c5794155dc][Kumo Council]], provided
+details to local newsfeed The [[id:dc25c5b7-381e-4e8a-8599-68be61b19bae][Pegasi Sentinel]]:
 
 "Helix will change lives across the galaxy! Derived from high-quality
 organic crops, and with many medicinal and psychological benefits, it is
@@ -55,16 +55,16 @@ Many authorities have registered concern that this will exacerbate drug
 addiction and misuse, which are common social problems. However, some
 markets have shown interest in the potential new product.
 
-Vox Galactica has reported rumours that it may be a previously unknown
+[[id:4ab0f53c-0b85-43a3-83ca-b9e88c0db30e][Vox Galactica]] has reported rumours that it may be a previously unknown
 strain of onionhead, a highly popular psychedelic. It remains unknown
-whether the Blue Viper Club cultivated it aboard their dredger or
+whether the [[id:327af983-8859-4d4d-9906-78d535ad621a][Blue Viper Club]] cultivated it aboard their dredger or
 acquired it from another source.
 
 Experts predict that if enough commodities are provided, the product
 will come to market around the 22nd of July 3307.
 
-To support this initiative, hand in your bounties to the Kumo Council at
-Kumo City in the Pegasi Sector PN-T C3-14 system.
+To support this initiative, hand in your bounties to the [[id:2dc1b92f-4bdc-4504-ad5f-a9c5794155dc][Kumo Council]] at
+[[id:82a0f345-bc03-4564-897c-b00bcda5b74e][Kumo City]] in the Pegasi Sector PN-T C3-14 system.
 
 The initiative begins on the 8th of July 3307 and will run for one week.
 If the final target is met, the campaign will end immediately.

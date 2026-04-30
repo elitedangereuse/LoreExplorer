@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       c430dbbe-447c-4fd1-b48a-52c4c50423cb
+:ROAM_REFS: file:../references/Community%20Goals/Appeal_for_Ancient_Data.md
 :END:
 #+title: Community Goal: Appeal for Ancient Data
 #+filetags: :CommunityGoal:3302:galnet:
@@ -8,16 +9,16 @@
 
 /03 Nov 3302/
 
-Since the mysterious ruins in the [[id:bfba5e37-ad9f-4fbb-a19c-5156313c79a4][Synuefe XR-H d11-102]] system were discovered last week, the site has become a hotbed of activity, with hundreds of explorers attempting to uncover the ruins' secrets. 
+Since the mysterious ruins in the [[id:bfba5e37-ad9f-4fbb-a19c-5156313c79a4][Synuefe XR-H d11-102]] system were discovered last week, the site has become a hotbed of activity, with hundreds of explorers attempting to uncover the ruins' secrets.
 
-Now the engineer [[id:4551539e-a6b2-4c45-8923-40fb603202b7][Ram Tah]] has announced plans to conduct a comprehensive research programme with the aim of learning more about the site. 
+Now the engineer [[id:4551539e-a6b2-4c45-8923-40fb603202b7][Ram Tah]] has announced plans to conduct a comprehensive research programme with the aim of learning more about the site.
 
-At a press event, [[id:4551539e-a6b2-4c45-8923-40fb603202b7][Ram Tah]] made the following statement: 
+At a press event, [[id:4551539e-a6b2-4c45-8923-40fb603202b7][Ram Tah]] made the following statement:
 
-"The discovery of the Synuefe ruins is hugely significant, and the site is unquestionably worthy of further study. Fortunately, United Meene Labour has graciously agreed to fund a comprehensive research project." 
+"The discovery of the Synuefe ruins is hugely significant, and the site is unquestionably worthy of further study. Fortunately, United [[id:9c59e7e7-1737-43a9-ac67-e818f6d1677d][Meene]] Labour has graciously agreed to fund a comprehensive research project."
 
-"I am therefore in the privileged position of being able to devote myself to studying data from the site. It is my hope that by decoding this data, we can learn more about the civilisation responsible for the ruins." 
+"I am therefore in the privileged position of being able to devote myself to studying data from the site. It is my hope that by decoding this data, we can learn more about the civilisation responsible for the ruins."
 
-"Having conducted a preliminary survey of the site, I have determined that Pattern Delta Obelisk Data would of great value at this stage." 
+"Having conducted a preliminary survey of the site, I have determined that Pattern Delta Obelisk Data would of great value at this stage."
 
-United Meene Labour has promised to reward pilots who bring Pattern Delta Obelisk Data from the Synuefe ruins to Felice Dock in the Meene system. The campaign begins on the 3rd of November 3302 and will run for two weeks.
+United [[id:9c59e7e7-1737-43a9-ac67-e818f6d1677d][Meene]] Labour has promised to reward pilots who bring Pattern Delta Obelisk Data from the Synuefe ruins to Felice Dock in the [[id:9c59e7e7-1737-43a9-ac67-e818f6d1677d][Meene]] system. The campaign begins on the 3rd of November 3302 and will run for two weeks.

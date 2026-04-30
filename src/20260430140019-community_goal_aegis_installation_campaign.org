@@ -7,11 +7,11 @@
 
 * Location
 
-The Oracle | Delphi
+The Oracle | [[id:846bfbc7-75e7-4d8d-8716-7fe0346026f4][Delphi]]
 
 * Objective
 
-Deliver mined Osmium, Silver and Coltan
+Deliver mined [[id:89bb247d-d459-4ebf-a000-698cd1d9c5fe][Osmium]], Silver and [[id:047e63e2-7b61-424c-a330-e712609eaba5][Coltan]]
 
 * Progress
 
@@ -34,14 +34,14 @@ Tier 8/8
 Finished
 
 Aegis has announced plans to build a military installation in the
-Pleiades Sector IR-W d1-55.
+[[id:cd15e78b-89d1-4051-bd92-05d0ab49ec17][Pleiades]] Sector IR-W d1-55.
 
 An Aegis spokesperson gave the following statement to the media:
-After the recent occupation of Socho by a hostile criminal element, it
-is imperative that Aegis bolster its holdings in the Pleiades Sector
+After the recent occupation of [[id:092e7139-1d8c-45d1-89ce-615326e10853][Socho]] by a hostile criminal element, it
+is imperative that Aegis bolster its holdings in the [[id:cd15e78b-89d1-4051-bd92-05d0ab49ec17][Pleiades]] Sector
 IR-W d1-55. The construction of a military installation will allow us to
 continue our fight against the Thargoids unhindered by external forces.
 
-Aegis Research has placed an open order for mined resources, promising
-to reward pilots who deliver these to The Oracle in the Pleiades Sector
+[[id:3808ab0e-fcff-4299-b882-f8c3946f272d][Aegis Research]] has placed an open order for mined resources, promising
+to reward pilots who deliver these to The Oracle in the [[id:cd15e78b-89d1-4051-bd92-05d0ab49ec17][Pleiades]] Sector
 IR-W d1-55.

@@ -7,11 +7,11 @@
 
 * Location
 
-Cassie-L-Peia | Tanmark
+[[id:736b62a7-1b6a-4e1d-a423-086476e483e0][Cassie-L-Peia]] | [[id:267299e4-1a3f-4835-933d-7a1b30d7d43e][Tanmark]]
 
 * Objective
 
-Sell Land Enrichment Systems to Cassie-L-Peia
+Sell [[id:3fa5922c-0f66-49cc-8860-9a6806aa9d0a][Land Enrichment Systems]] to [[id:736b62a7-1b6a-4e1d-a423-086476e483e0][Cassie-L-Peia]]
 
 * Progress
 
@@ -33,12 +33,12 @@ Tier 3
 
 Finished
 
-Now that the Federation has declared Lucan Onionhead an illegal
-narcotic, the farmers of Luca fear it won't belong before the Federal
-Navy turns its attention on Tanmark. Never ones to bow to federal
-oppression, the Defense Force of Tanmark are offering to pay premium
-rates in order to get their hands on enough Land Enrichment Systems to
+Now that the [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]] has declared [[id:053a3293-9021-46c0-8d07-addee51ee558][Lucan Onionhead]] an illegal
+narcotic, the farmers of [[id:5c234ef0-d5d7-4e22-9763-8cb2fbccb84d][Luca]] fear it won't belong before the Federal
+Navy turns its attention on [[id:267299e4-1a3f-4835-933d-7a1b30d7d43e][Tanmark]]. Never ones to bow to federal
+oppression, the Defense Force of [[id:267299e4-1a3f-4835-933d-7a1b30d7d43e][Tanmark]] are offering to pay premium
+rates in order to get their hands on enough [[id:3fa5922c-0f66-49cc-8860-9a6806aa9d0a][Land Enrichment Systems]] to
 grow a sea of clones. If enough clones can be grown before the
-Federation gets a chance to shut operations on Luca down, the resultant
-spread of Lucan Onionhead to outlying system should stop Luca from
-suffering the same fate as Panem.
+[[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]] gets a chance to shut operations on [[id:5c234ef0-d5d7-4e22-9763-8cb2fbccb84d][Luca]] down, the resultant
+spread of [[id:053a3293-9021-46c0-8d07-addee51ee558][Lucan Onionhead]] to outlying system should stop [[id:5c234ef0-d5d7-4e22-9763-8cb2fbccb84d][Luca]] from
+suffering the same fate as [[id:53188f1f-8959-4e53-a50e-a9098fb1d15b][Panem]].

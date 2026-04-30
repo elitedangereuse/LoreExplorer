@@ -33,10 +33,10 @@ Tier 8/9
 
 Finished
 
-The Alliance is offering bounties on Thargoid vessels in the Didio
+[[id:1c4d53a2-d81f-4cfa-8001-eb77f2c79b5f][The Alliance]] is offering bounties on Thargoid vessels in the [[id:d508fb0f-0214-4133-829f-edb61e2681d0][Didio]]
 system.
 
-Commodore Morag Halloran, who coordinates Salvation's military forces,
+Commodore [[id:bcaa9222-b056-41cf-9361-68dd8d3424fb][Morag Halloran]], who coordinates Salvation's military forces,
 broadcast this message on public channels:
 
 "Salvation has started construction of three anti-xeno superweapons to
@@ -44,17 +44,17 @@ expunge the latest Thargoid infestation. He estimates two more weeks
 before these devices become operational. Until that time, it is vital
 that we keep the Thargoids at bay to minimise civilian casualties."
 
-The anti-xeno taskforce of the Alliance Defence Force is part of a joint
+The anti-xeno taskforce of the [[id:17d9294e-7759-4cf4-9a67-5f12b5704f51][Alliance Defence Force]] is part of a joint
 operation to buy time for the superweapons to be completed. This
-includes rewarding independent pilots for defending the Didio system.
+includes rewarding independent pilots for defending the [[id:d508fb0f-0214-4133-829f-edb61e2681d0][Didio]] system.
 
 Commanders can hand in combat bonds for Thargoid kills until the 12th of
 May 3308 at the megaship Plymouth Howl in the Ch'anjie system.
 
-Jade Sanderlyn, a reporter for Vox Galactica, has been granted
+[[id:139670fe-bd19-40b6-8623-cceeef01fd36][Jade Sanderlyn]], a reporter for [[id:4ab0f53c-0b85-43a3-83ca-b9e88c0db30e][Vox Galactica]], has been granted
 permission to interview the admirals in command of the taskforces. Her
-conversation with Admiral Rachel Ziegler is being broadcast by the
-flagship Salote Charm in Didio and will be syndicated via newsfeeds.
+conversation with Admiral [[id:ba8a8802-bcb4-40c2-963e-52e33699797a][Rachel Ziegler]] is being broadcast by the
+flagship Salote Charm in [[id:d508fb0f-0214-4133-829f-edb61e2681d0][Didio]] and will be syndicated via newsfeeds.
 
 The campaign begins on the 28th April and will run until the 12th May
 3308.

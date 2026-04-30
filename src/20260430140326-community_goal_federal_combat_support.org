@@ -11,7 +11,7 @@ Blackmount Orbital | HIP 17692
 
 * Objective
 
-Hand in Bounty Vouchers
+Hand in [[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]]
 
 * Progress
 
@@ -33,20 +33,20 @@ Tier 6/8
 
 Finished
 
-The Federation has announced plans to construct a new survey outpost in
+The [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]] has announced plans to construct a new survey outpost in
 the HIP 17692 system. Federal sources have confirmed that the outpost is
-designed to give the Federation a vantage point, close to the Pleiades,
+designed to give the [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]] a vantage point, close to the [[id:cd15e78b-89d1-4051-bd92-05d0ab49ec17][Pleiades]],
 from which to monitor Thargoid activity.
 
 A Federal spokesperson gave the following statement:
-"To date, Thargoid vessels have been encountered in the Maia system and
-around the Pleiades Nebula, so we feel it is important to have a
+"To date, Thargoid vessels have been encountered in the [[id:0ee60994-364c-41b9-98ca-993d041cea72][Maia]] system and
+around the [[id:7e99a467-6e3d-418e-8b10-72cf3660efa6][Pleiades Nebula]], so we feel it is important to have a
 reconnaissance outpost as close to this region as possible."
 
-In support of their trade appeal, The Pleiades Resource Enterprise has
+In support of their trade appeal, The [[id:268dd81e-54f9-447a-9a47-11b2f7242e81][Pleiades Resource Enterprise]] has
 placed a kill order on all ships on its wanted list, to ensure that
 those delivering material to Blackmount Orbital can do so safely and has
-promised to rewards pilots who hand in Bounty Vouchers at Blackmount
+promised to rewards pilots who hand in [[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]] at Blackmount
 Orbital in the HIP 17692 system.
 
 The campaign begins on the 6th of July 3303 and will run for one week.
@@ -54,8 +54,8 @@ If the final target is met earlier than planned, the campaign will end
 immediately.
 
 To earn rewards you must sign up as an active participant before handing
-in Bounty Vouchers at Blackmount Orbital in the HIP 17692 system. Only
-Bounty Vouchers handed in after signing up will count toward your
+in [[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]] at Blackmount Orbital in the HIP 17692 system. Only
+[[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]] handed in after signing up will count toward your
 personal contribution total.
 
 Please note that if you have any crew members, a portion of your bounty

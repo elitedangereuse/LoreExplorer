@@ -8,12 +8,12 @@
 * Location
 
 -----
-  Colonia
+  [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]]
 -----
 
 * Objective
 
-Deliver Gallite, Gold and Menthol Monohydrate Crystals
+Deliver [[id:19346f59-fa1a-4ba2-8373-5b4d90f26662][Gallite]], Gold and Menthol Monohydrate Crystals
 
 * Progress
 
@@ -37,26 +37,26 @@ Finished
 
 INARA website does not have the new system & station in it's database
 yet so here is the actual location of this CG...
-Location = Eol Prou LW-L C8-76 \[Colonia Dream\]
-(Coriolis Starport, large pads available, 26 Ls from main star,
-21,997.12 Ly from Sol)
+Location = Eol Prou LW-L C8-76 \[[[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] Dream\]
+([[id:dfcd3273-3589-4725-a75f-5f1a08adc662][Coriolis]] Starport, large pads available, 26 Ls from main star,
+21,997.12 Ly from [[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]])
 
-It has now been eight months since the first Colonia outpost was
+It has now been eight months since the first [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] outpost was
 established, and since then the colony has gone from strength to
 strength.
 
-With the Colonia community continuing to expand, the Colonia
-Co-operative has placed an open order for mined Gallite, Gold and
-Methanol Monohydrate Crystals for the development of infrastructure
-throughout Colonia and the surrounding systems.
+With the [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] community continuing to expand, the [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]]
+Co-operative has placed an open order for mined [[id:19346f59-fa1a-4ba2-8373-5b4d90f26662][Gallite]], Gold and
+[[id:59d1161f-98db-4a4d-a0f7-b55a742a7ed3][Methanol Monohydrate Crystals]] for the development of infrastructure
+throughout [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] and the surrounding systems.
 
-A spokesperson for the Colonia Co-operative released a statement:
+A spokesperson for the [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] Co-operative released a statement:
 
 "It would be impossible to overstate how many resources are needed to
-sustain and grow the Colonia community. Suffice it to say that we are in
+sustain and grow the [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] community. Suffice it to say that we are in
 constant need. Fortunately, thanks to a series of corporate donations,
 we are in a position to offer generous premiums to pilots who deliver
-materials to Colonia Dream in the Eol Prou Lw-L C8-76 system."
+materials to [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] Dream in the Eol Prou Lw-L C8-76 system."
 
 The campaign begins on the 13th of April 3303 and will run for one week.
 If the final target is met earlier than planned, the campaign will end

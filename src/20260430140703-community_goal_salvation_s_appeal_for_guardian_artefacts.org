@@ -7,12 +7,12 @@
 
 * Location
 
-Glorious Prospect | PMD2009 48
+[[id:4e26dabc-d7bd-4e6b-9619-7afb122f4ce8][Glorious Prospect]] | [[id:986145c8-a47e-4965-aadc-e0269b764ac5][PMD2009 48]]
 
 * Objective
 
-Deliver Guardian Casket, Guardian Orb, Guardian Relic, Guardian Tablet,
-Guardian Totem and Guardian Urn
+Deliver [[id:8d732fbb-d43d-4a87-8079-a19c073e753b][Guardian Casket]], [[id:6bdfb36f-f007-4814-b6bb-3ed995fa633b][Guardian Orb]], [[id:b2c862d2-12a9-423d-8688-d8dec21be343][Guardian Relic]], [[id:ea888fbc-5c3d-4c8a-b629-372a880698e0][Guardian Tablet]],
+[[id:3ef4f33f-9df9-4adf-85db-296472ed1c22][Guardian Totem]] and [[id:c7403be5-a1dc-434b-86bf-d1498c04323f][Guardian Urn]]
 
 * Progress
 
@@ -34,32 +34,32 @@ Tier 5/5
 
 Finished
 
-Aegis Research and Taurus Mining Ventures have requested deliveries of
-Guardian artefacts to the PMD2009 48 system.
+[[id:3808ab0e-fcff-4299-b882-f8c3946f272d][Aegis Research]] and [[id:5d339d87-3edb-4938-984a-49708bf6b65f][Taurus Mining Ventures]] have requested deliveries of
+Guardian artefacts to the [[id:986145c8-a47e-4965-aadc-e0269b764ac5][PMD2009 48]] system.
 
 The rival campaigns follow the discovery of an ancient battleground
-between the Guardians and the Thargoids on Trapezium Sector YU-X c1-2
+between the Guardians and the Thargoids on [[id:a94f42ec-d0a2-441b-884d-5d86b949cbb9][Trapezium Sector YU-X c1-2]]
 1a.
 
-Patience Middleton, representing Taurus Mining Ventures, provided this
+Patience Middleton, representing [[id:5d339d87-3edb-4938-984a-49708bf6b65f][Taurus Mining Ventures]], provided this
 statement:
 
-"'Salvation' has claimed the exclusive rights to exploit the Proteus
+"'Salvation' has claimed the exclusive rights to exploit the [[id:bf8d2b98-a079-4384-a8a5-43ffdc926b7c][Proteus]]
 site, which was discovered thanks to his specialist knowledge. He has
 contracted us to pay for Guardian caskets, orbs, relics, tablets, totems
-and urns brought to the megaship Glorious Prospect."
+and urns brought to the megaship [[id:4e26dabc-d7bd-4e6b-9619-7afb122f4ce8][Glorious Prospect]]."
 
-The Alliance, Empire and Federation consider depriving Aegis of
+[[id:1c4d53a2-d81f-4cfa-8001-eb77f2c79b5f][The Alliance]], [[id:541dcfb3-93ef-40e5-9284-bf5a4f999043][Empire]] and [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]] consider depriving Aegis of
 resources to be a criminal act. As a result, pilots are warned that any
-ship modules received from Taurus Mining Ventures will be marked as
+ship modules received from [[id:5d339d87-3edb-4938-984a-49708bf6b65f][Taurus Mining Ventures]] will be marked as
 'hot', thereby incurring extra costs to be cleaned prior to
 installation.
 
 If Tier 1 is reached, the top 10% of contributors will receive a focused
-long-range high-penetration fixed Class 2 Guardian Shard Cannon with
+long-range high-penetration fixed Class 2 Guardian [[id:6a4982e1-2234-4110-97c2-0d0f6a6af36c][Shard Cannon]] with
 additional weight, power draw and heat. This will be placed into storage
-at the Glorious Prospect in the PMD2009 48 system by the 3rd of July
-3307. If Taurus Mining Ventures outcompetes Aegis, the top 75% of
+at the [[id:4e26dabc-d7bd-4e6b-9619-7afb122f4ce8][Glorious Prospect]] in the [[id:986145c8-a47e-4965-aadc-e0269b764ac5][PMD2009 48]] system by the 3rd of July
+3307. If [[id:5d339d87-3edb-4938-984a-49708bf6b65f][Taurus Mining Ventures]] outcompetes Aegis, the top 75% of
 contributors will receive the module.
 
 The initiative begins on the 24th of June 3307 and will run for one

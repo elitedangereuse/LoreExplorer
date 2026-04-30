@@ -7,11 +7,11 @@
 
 * Location
 
-Hartsfield Market | Lugh
+Hartsfield Market | [[id:5a007482-56ef-4f60-83e7-58b4089a0020][Lugh]]
 
 * Objective
 
-Hand in Combat Bonds to the Lugh for Equality Party at Hartsfield Market
+Hand in [[id:bbbc7bc6-79d7-46b7-925e-c1f882c8f25a][Combat Bonds]] to the [[id:5a007482-56ef-4f60-83e7-58b4089a0020][Lugh]] for Equality Party at Hartsfield Market
 
 * Progress
 
@@ -33,7 +33,7 @@ Tier 9
 
 Finished
 
-Ahead of the main assault group, the Lugh for Equality Party are
+Ahead of the main assault group, the [[id:5a007482-56ef-4f60-83e7-58b4089a0020][Lugh]] for Equality Party are
 preparing to launch a series of attacks to reclaim stations currently
 under control of the Crimson State Group.
 It won't be easy. The Crimson State Group are sure to have heavily

@@ -7,7 +7,7 @@
 
 * Location
 
-Effinger Port | Furbaide
+[[id:c110740a-38a9-4697-a8fd-e961f86e2b21][Effinger Port]] | [[id:d31d3dd1-f63a-4ff2-9fa5-5031c4b7bf6c][Furbaide]]
 
 * Objective
 
@@ -34,14 +34,14 @@ Tier 4
 Finished
 
 Despite the best efforts of the finest medical minds in the sector, the
-Volungu Blight continues to run rampant, with new cases of infection
-having now been confirmed in Liaedin, LHS 3505 and Furbaide. To make
+[[id:b64b1732-c527-4d47-86a4-e8cded3d494c][Volungu Blight]] continues to run rampant, with new cases of infection
+having now been confirmed in [[id:867ef9a7-e1b0-4b85-b0b4-3036c0cb8e48][Liaedin]], [[id:c7e9e317-97fb-453b-bd7a-a52a61b5cafa][LHS 3505]] and [[id:d31d3dd1-f63a-4ff2-9fa5-5031c4b7bf6c][Furbaide]]. To make
 matters worse, medical supplies have started to run dangerously low.
 We're facing a pandemic the likes of which hasn't been seen in
 decades. We're going to lose a lot of innocent people if more supplies
 don't arrive at Ef​finger Port soon.
 
 In an effort to encourage the delivery of some much needed Basic
-Medicine, the Furbaide Centre for Disease Control have issued the
+Medicine, the [[id:d31d3dd1-f63a-4ff2-9fa5-5031c4b7bf6c][Furbaide]] [[id:9059253d-2c36-4289-9bcf-fd20ba9fc35b][Centre]] for Disease [[id:980d793d-2073-4e0b-8eb9-65c8dbd33202][Control]] have issued the
 following incentive scheme for pilots willing to help combat this
 horrific contagion.

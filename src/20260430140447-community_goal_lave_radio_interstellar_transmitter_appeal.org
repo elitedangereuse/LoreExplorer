@@ -7,11 +7,11 @@
 
 * Location
 
-Lave Station | Lave
+[[id:10b9df10-b4c7-449a-9c50-4ad011256417][Lave Station]] | [[id:ff595332-6a13-4f69-ae2f-cc0a0df8e741][Lave]]
 
 * Objective
 
-Deliver Cherbones Blood Crystals
+Deliver [[id:dd2afca1-1d12-48d8-bd7b-bb4cb5aec193][Cherbones Blood Crystals]]
 
 * Progress
 
@@ -33,25 +33,25 @@ Tier 4/8
 
 Finished
 
-The Lave Radio Network is launching a campaign for pilots to support
+The [[id:ff595332-6a13-4f69-ae2f-cc0a0df8e741][Lave]] Radio Network is launching a campaign for pilots to support
 them in their efforts to build a new antenna relay in the neighbouring
-system of Diso. While performing scheduled maintenance tests, the
+system of [[id:4aedfccd-a366-4b25-a5e2-538bb29a35cb][Diso]]. While performing scheduled maintenance tests, the
 current interstellar transmitter was found to be broken. A spokesperson
-for Lave Radio released the following statement:
+for [[id:ff595332-6a13-4f69-ae2f-cc0a0df8e741][Lave]] Radio released the following statement:
 
 "It seems that most of the components have been scavenged by raiders...
 or taken home by staff... or something. Nevertheless, we now have an
 opportunity to construct a new transmitter and foster relations with the
-nearby" **sigh** "...Diso system."
+nearby" **sigh** "...[[id:4aedfccd-a366-4b25-a5e2-538bb29a35cb][Diso]] system."
 
-The Lave Radio Network transmitter system is based on an antiquated but
-powerful network of focusing crystals, only found in the Cherbones
-system: Cherbones Blood Crystals. These are extremely rare and exotic
+The [[id:ff595332-6a13-4f69-ae2f-cc0a0df8e741][Lave]] Radio Network transmitter system is based on an antiquated but
+powerful network of focusing crystals, only found in the [[id:2286edb5-7735-4283-bfee-0c8731d70f8f][Cherbones]]
+system: [[id:dd2afca1-1d12-48d8-bd7b-bb4cb5aec193][Cherbones Blood Crystals]]. These are extremely rare and exotic
 mineral, extracted in a highly dangerous mining operation.
 
-Lave Radio are requesting all Commanders bring as many Cherbones Blood
-Crystals as possible from Chalker Landing in Cherbones to Lave Station
-in the Lave system, in order for the new interstellar relay to be
+[[id:ff595332-6a13-4f69-ae2f-cc0a0df8e741][Lave]] Radio are requesting all Commanders bring as many [[id:2286edb5-7735-4283-bfee-0c8731d70f8f][Cherbones]] Blood
+Crystals as possible from [[id:3a99325d-d671-4d23-a404-7adae58e832e][Chalker Landing]] in [[id:2286edb5-7735-4283-bfee-0c8731d70f8f][Cherbones]] to [[id:10b9df10-b4c7-449a-9c50-4ad011256417][Lave Station]]
+in the [[id:ff595332-6a13-4f69-ae2f-cc0a0df8e741][Lave]] system, in order for the new interstellar relay to be
 built.
 
 The campaign begins on the 3rd of March 3302 and will run for one week.
@@ -59,10 +59,10 @@ The campaign will finish IMMEDIATELY, if the final tier is achieved
 earlier than planned. Pilots who support the operation will be
 generously reimbursed.
 
-NOTE: Cherbones (Chalker Landing) is an Outpost and is 577,000 LS from
+NOTE: [[id:2286edb5-7735-4283-bfee-0c8731d70f8f][Cherbones]] ([[id:3a99325d-d671-4d23-a404-7adae58e832e][Chalker Landing]]) is an Outpost and is 577,000 LS from
 Star
 NOTE: Only 20T of Blood Crystals are available per cargo run
-NOTE: Lave is 117.96 LY from Cherbones
+NOTE: [[id:ff595332-6a13-4f69-ae2f-cc0a0df8e741][Lave]] is 117.96 LY from [[id:2286edb5-7735-4283-bfee-0c8731d70f8f][Cherbones]]
 
 Rewards Structure:
 Top 10 Commanders Receive 6,000,000 Cr + Global awards

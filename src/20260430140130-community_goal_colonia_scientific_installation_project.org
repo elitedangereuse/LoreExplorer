@@ -11,7 +11,7 @@ Bolden's Enterprise | Tir
 
 * Objective
 
-Deliver Lithium, Semiconductors and Computer Components to Bolden's
+Deliver [[id:54f8e5b0-5231-4df3-8047-5af47c1508fc][Lithium]], [[id:0def679f-6fc4-4107-bd99-51a36668a787][Semiconductors]] and [[id:66b0f0aa-4387-46f9-9abe-a3dbe1033c6f][Computer Components]] to Bolden's
 Enterprise in the Tir system
 
 * Progress
@@ -34,14 +34,14 @@ Tier 8/8
 
 Finished
 
-Scientists in Colonia have announced plans to build a scientific outpost
+Scientists in [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] have announced plans to build a scientific outpost
 in the system to monitor the region's population and resources.
 
-Professor Alexei de la Vega, who is heading the project, published this
+Professor [[id:840b9cc9-5d22-471b-b4ee-675ab5f1ea34][Alexei de la Vega]], who is heading the project, published this
 statement:
 
 "Our recent study into the region's population increase has revealed
-alarming statistics. If Colonia's population continues to increase at
+alarming statistics. If [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]]'s population continues to increase at
 the current rate it could lead to a serious depletion of resources at
 some point in the future."
 
@@ -50,7 +50,7 @@ will require the construction of a dedicated centre for resource
 management. This will allow us to study the aggregated data and
 formulate a structured solution to avoid potential problems."
 
-The campaign is being run by Tir Technology Services, one of Colonia's
+The campaign is being run by Tir Technology Services, one of [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]]'s
 partner organisations, which has asked pilots to deliver commodities to
 Bolden's Enterprise in the Tir system.
 

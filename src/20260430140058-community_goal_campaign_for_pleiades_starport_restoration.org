@@ -7,12 +7,12 @@
 
 * Location
 
-The Oracle | Delphi
+The Oracle | [[id:846bfbc7-75e7-4d8d-8716-7fe0346026f4][Delphi]]
 
 * Objective
 
-Deliver Emergency Power Cells, Auto-fabricators, Ceramic Composites,
-Tantalum, Titanium and Copper to The Oracle in the Pleiades Sector Ir-W
+Deliver [[id:a081e7d6-7384-47d3-87d4-0c2324c9f3d0][Emergency Power Cells]], Auto-fabricators, [[id:0b64653e-4cad-4f00-bf49-d88ae6049a11][Ceramic Composites]],
+[[id:d10c0435-4bc8-42ac-bea6-228d2f02604c][Tantalum]], [[id:d727fb19-8dc0-4d94-bcd4-da1cb5c090f0][Titanium]] and [[id:705bcc40-0a7b-460c-83a5-a556a5ab3bb7][Copper]] to The Oracle in the [[id:cd15e78b-89d1-4051-bd92-05d0ab49ec17][Pleiades]] Sector Ir-W
 D1-55 system.
 
 * Progress
@@ -35,10 +35,10 @@ Tier 3/8
 
 Finished
 
-A fund has been set up by the Aegis Research to repair starports in the
-Pleiades Nebula that have been damaged during the Thargoid conflict.
+A fund has been set up by the [[id:3808ab0e-fcff-4299-b882-f8c3946f272d][Aegis Research]] to repair starports in the
+[[id:7e99a467-6e3d-418e-8b10-72cf3660efa6][Pleiades Nebula]] that have been damaged during the Thargoid conflict.
 
-Senior engineer Lilith Galloway made this announcement:
+Senior engineer [[id:209d7dfc-8691-490e-ba48-7e0519172137][Lilith Galloway]] made this announcement:
 
 "We've had the worst of it here. The Thargoids have given us a bloody
 nose on several occasions. But we're strong, we will heal, and you can
@@ -46,10 +46,10 @@ help."
 
 "We're asking for pilots to deliver as much as they can fit in their
 holds. We're going to rebuild our starports better than ever. Let's
-get the Pleiades fighting fit once more."
+get the [[id:cd15e78b-89d1-4051-bd92-05d0ab49ec17][Pleiades]] fighting fit once more."
 
 Traders are requested to deliver construction materials to The Oracle in
-the Pleiades Sector Ir-W D1-55 system.
+the [[id:cd15e78b-89d1-4051-bd92-05d0ab49ec17][Pleiades]] Sector Ir-W D1-55 system.
 
 The campaign begins on the 31st of May 3304 and will run for one week.
 If the final target is met earlier than planned, the campaign will end

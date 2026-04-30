@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       ff96fc46-a629-4a7d-aa1f-558483284dfe
+:ROAM_REFS: file:../references/Community%20Goals/Jaques%C3%A2___Big_Jump.md
 :END:
 #+title: Community Goal: Jaques' Big Jump
 #+filetags: :CommunityGoal:3302:galnet:
@@ -16,7 +17,7 @@ a cultural icon. Now, after more than four decades of travel, [[id:f37f17f1-8eb3
 is about to embark on his most ambitious expedition yet – a
 long-distance jump from [[id:ab3ea80d-bf90-482c-bcf1-63f1d2f1b21f][Gliese 1269]] to [[id:80ea667a-62b4-4082-bed0-ce253d76869b][Beagle Point]].
 
-In a statement, [[id:f37f17f1-8eb3-4598-93f7-190fe97438a1][Jaques]] explained the thinking behind the venture. 
+In a statement, [[id:f37f17f1-8eb3-4598-93f7-190fe97438a1][Jaques]] explained the thinking behind the venture.
 
 "Well, I've been wandering the galaxy for over forty years now, and
 the [[id:7401153d-d710-4385-8cac-aad74d40d853][truth]] is that after a while, travel starts to lose its
@@ -28,8 +29,8 @@ enthusiasm."
 Naturally, moving a starport such a considerable distance requires a
 significant amount of fuel, which is why [[id:f37f17f1-8eb3-4598-93f7-190fe97438a1][Jaques]] has turned to
 celebrated search-and-rescue organisation the [[id:de6c1eee-a957-4d48-a840-f3fe15b5801b][Fuel Rats]] for help. The
-Fuel Rats, in turn, have issued an appeal to their many members and
-supporters to contribute fuel to [[id:f37f17f1-8eb3-4598-93f7-190fe97438a1][Jaques]]'s operation. The [[id:78dc1804-9537-4e52-bba1-ca98efd86229][Fuel Rats
+[[id:de6c1eee-a957-4d48-a840-f3fe15b5801b][Fuel Rats]], in turn, have issued an appeal to their many members and
+supporters to contribute fuel to [[id:f37f17f1-8eb3-4598-93f7-190fe97438a1][Jaques]]'s operation. The [[id:78dc1804-9537-4e52-bba1-ca98efd86229][[[id:de6c1eee-a957-4d48-a840-f3fe15b5801b][Fuel Rats]]
 Mischief]], which is coordinating the operation, has promised to
 generously reward those who support the operation.
 

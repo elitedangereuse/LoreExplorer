@@ -7,7 +7,7 @@
 
 * Location
 
-Indomitable | Delta Pavonis
+Indomitable | [[id:595aa273-d1b3-44fd-9f16-ddc7291b4bee][Delta Pavonis]]
 
 * Objective
 
@@ -33,29 +33,29 @@ Tier 5/5
 
 Finished
 
-The Delta Pavonis political conference has erupted into conflict between
-EG Union and Delta Pavonis Galactic Interstellar.
+The [[id:595aa273-d1b3-44fd-9f16-ddc7291b4bee][Delta Pavonis]] political conference has erupted into conflict between
+EG Union and [[id:595aa273-d1b3-44fd-9f16-ddc7291b4bee][Delta Pavonis]] Galactic Interstellar.
 
-Yuri Grom, the ruler of EG Union, broadcast this
+[[id:b4892958-b513-46dc-b74e-26887b53f678][Yuri Grom]], the ruler of EG Union, broadcast this
 [message:\\\\](message:\\)
 "This conference was nothing more than a trap! My delegation was
-apprehended at gunpoint by a squad of undercover Federal agents.
+apprehended at gunpoint by a squad of [[id:862a7049-e43e-419d-8e8b-dc72ac790f7e][undercover]] Federal agents.
 Sacrifices made by my loyal guards enabled us to escape from Kessler
-City, only to find our ships under attack. The Federation has declared
+City, only to find our ships under attack. The [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]] has declared
 war -- I will respond in kind!"
 
-The EG Union called for help from "allies of Yuri Grom and enemies of
-the Federation".
+The EG Union called for help from "allies of [[id:b4892958-b513-46dc-b74e-26887b53f678][Yuri Grom]] and enemies of
+the [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]]".
 
 Grand Duke Simion Petrescu, the host of the political conference, has
 rejected claims that his faction was secretly working with the
-Federation to entrap Yuri Grom. The Federal Diplomatic Corps has not yet
+[[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]] to entrap [[id:b4892958-b513-46dc-b74e-26887b53f678][Yuri Grom]]. The [[id:46ff5046-45e9-402d-93a3-96f9c1e508a3][Federal Diplomatic Corps]] has not yet
 commented on its role in these events.
 
-To help protect Yuri Grom, combat bonds should be delivered to the
-Indomitable megaship in the Delta Pavonis system.
+To help protect [[id:b4892958-b513-46dc-b74e-26887b53f678][Yuri Grom]], combat bonds should be delivered to the
+Indomitable megaship in the [[id:595aa273-d1b3-44fd-9f16-ddc7291b4bee][Delta Pavonis]] system.
 
-Should EG Union prevail over Delta Pavonis Galactic Interstellar, the
+Should EG Union prevail over [[id:595aa273-d1b3-44fd-9f16-ddc7291b4bee][Delta Pavonis]] Galactic Interstellar, the
 top 75% will have two fixed-mount Class 2 Seeker Missile Racks with
 double-engineered high capacity, increased fire rate and drag munitions,
 but increased power draw and mass. These will be placed in storage at

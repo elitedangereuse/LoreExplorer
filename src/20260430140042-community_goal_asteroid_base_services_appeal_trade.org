@@ -11,7 +11,7 @@ Conway City | LTT 4961
 
 * Objective
 
-Deliver Superconductors, Computer Components, Power Generators, and Tea
+Deliver [[id:94637eec-3dd2-478f-9f38-8930b96a15fe][Superconductors]], [[id:66b0f0aa-4387-46f9-9abe-a3dbe1033c6f][Computer Components]], [[id:34acf2f1-676d-4e52-86f4-80dc606e435c][Power Generators]], and Tea
 
 * Progress
 
@@ -39,7 +39,7 @@ They have quickly announced a second stage to equip the station to
 provide a wider range of services.
 
 In support of this initiative, the organisation has placed an open order
-for Superconductors, Computer Components, Power Generators and Tea, and
+for [[id:94637eec-3dd2-478f-9f38-8930b96a15fe][Superconductors]], [[id:66b0f0aa-4387-46f9-9abe-a3dbe1033c6f][Computer Components]], [[id:34acf2f1-676d-4e52-86f4-80dc606e435c][Power Generators]] and Tea, and
 has promised to once again reward pilots who deliver these goods to
 Conway City in LTT 4961.
 
@@ -57,7 +57,7 @@ If the final target is met earlier than planned, the campaign will end
 immediately.
 
 To be eligible for rewards you must sign up as an active participant
-before delivering Superconductors, Computer Components, Power Generators
+before delivering [[id:94637eec-3dd2-478f-9f38-8930b96a15fe][Superconductors]], [[id:66b0f0aa-4387-46f9-9abe-a3dbe1033c6f][Computer Components]], [[id:34acf2f1-676d-4e52-86f4-80dc606e435c][Power Generators]]
 and Tea to Conway City in the LTT 4961 system.
 
 Be aware that faction-state changes, UA bombing and other disruptive
@@ -71,7 +71,7 @@ Services Unlocked:
 -Tier 1: Restock, Repair and Refuel
 -Tier 2: Commodities Markets
 -Tier 3: Mission Board and Passenger Lounge
--Tier 4: Universal Cartographics
+-Tier 4: [[id:2fb00d7f-7234-45fa-8e3c-af685aa8f0d8][Universal Cartographics]]
 -Tier 5: Crew Lounge
 -Tier 6: Outfiting
 -Tier 7: Shipyard

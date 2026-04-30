@@ -11,7 +11,7 @@ Dublin Citadel | Gateway
 
 * Objective
 
-Deliver mined(!) Tritium (purchased tritium won't count towards goal,
+Deliver mined(!) [[id:419361cc-b4ff-4dba-8740-c879ca68c088][Tritium]] (purchased tritium won't count towards goal,
 mined tritium merely stored on own carrier was tested to work)
 
 * Progress
@@ -34,11 +34,11 @@ Tier 1/5
 
 Finished
 
-As the Assembly votes for its new leader, Prime Minister Edmund Mahon
+As the Assembly votes for its new leader, Prime Minister [[id:da80c263-3c2d-43dd-ab3f-1fbf40490f74][Edmund Mahon]]
 has requested mined tritium to aid expansion.
 
 Prime Minister Mahon's new tritium mining initiative aims to provide a
-stockpile of fuel to support the Alliance's expansion programme. This
+stockpile of fuel to support the [[id:2506edb2-fef4-4723-85c6-02482635229d][Alliance]]'s expansion programme. This
 will involve constructing up to five new starports, which are expected
 to be operational within a month.
 
@@ -46,10 +46,10 @@ Mined deposits of tritium can be delivered to Dublin Citadel in the
 Gateway system.
 
 If successful, the top 75% of participants will receive a permanent
-system permit for Alioth by the 5th of June 3307.
+system permit for [[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]] by the 5th of June 3307.
 
 Each tier reached will mean the construction of a new starport within
-Alliance-controlled space, listed in order of priority:
+[[id:2506edb2-fef4-4723-85c6-02482635229d][Alliance]]-controlled space, listed in order of priority:
 
 LHS 2522
 Sharru Sector FW-W c1-19

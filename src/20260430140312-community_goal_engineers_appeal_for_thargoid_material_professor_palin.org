@@ -7,12 +7,12 @@
 
 * Location
 
-Obsidian Orbital | Maia
+[[id:4223b99a-7e0c-44fa-b7e9-afeca7e0c031][Obsidian Orbital]] | [[id:0ee60994-364c-41b9-98ca-993d041cea72][Maia]]
 
 * Objective
 
-Deliver Unknown Technology Samples, Unknown Resin, Computer Components
-and Resonating Separators
+Deliver Unknown Technology Samples, Unknown Resin, [[id:66b0f0aa-4387-46f9-9abe-a3dbe1033c6f][Computer Components]]
+and [[id:0c4bfccc-2597-4f26-a8fe-bcd003e6f9c3][Resonating Separators]]
 
 * Progress
 
@@ -35,11 +35,11 @@ Tier 3/5
 Finished
 
 Following news that the Thargoids have attacked a Federal convoy in the
-Pleiades Sector IR-W d1-55 system, Aegis has recruited two of the
+[[id:cd15e78b-89d1-4051-bd92-05d0ab49ec17][Pleiades]] Sector IR-W d1-55 system, Aegis has recruited two of the
 galaxy's foremost independent engineers to immediately begin developing
 new defensive and offensive technologies.
 
-Professor Ishmael Palin, a leading authority on xenobiology, has been
+[[id:8f63442a-1f38-457d-857a-38297d732a90][Professor Ishmael Palin]], a leading authority on xenobiology, has been
 recruited to the programme. He said:
 
 My first task will be developing a scanner that can provide us with
@@ -48,9 +48,9 @@ calibrate these new technologies we will need large quantities of
 Thargoid material.
 
 Aegis has placed an open order for a range of Thargoid materials for use
-in the programme. Aegis Research has promised to reimburse Commanders
+in the programme. [[id:3808ab0e-fcff-4299-b882-f8c3946f272d][Aegis Research]] has promised to reimburse Commanders
 who deliver Unknown Technology Samples, Unknown Resin, Computer
-Components and Resonating Separators to Obsidian Orbital in the Maia
+Components and [[id:0c4bfccc-2597-4f26-a8fe-bcd003e6f9c3][Resonating Separators]] to [[id:4223b99a-7e0c-44fa-b7e9-afeca7e0c031][Obsidian Orbital]] in the [[id:0ee60994-364c-41b9-98ca-993d041cea72][Maia]]
 system for Ishmael Palin.
 
 The campaign begins on the 21st of September and will run for one week.
@@ -59,7 +59,7 @@ immediately.
 
 To be eligible for rewards you must sign up as an active participant
 before delivering Unknown Technology Samples, Unknown Resin, Computer
-Components and Resonating Separators to Obsidian Orbital in the Maia
+Components and [[id:0c4bfccc-2597-4f26-a8fe-bcd003e6f9c3][Resonating Separators]] to [[id:4223b99a-7e0c-44fa-b7e9-afeca7e0c031][Obsidian Orbital]] in the [[id:0ee60994-364c-41b9-98ca-993d041cea72][Maia]]
 system.
 
 Be aware that faction-state changes, UA bombing and other disruptive

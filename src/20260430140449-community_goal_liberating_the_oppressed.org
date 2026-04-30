@@ -7,11 +7,11 @@
 
 * Location
 
-Mackenzie Relay | Cemiess
+Mackenzie Relay | [[id:360ae21e-63f2-43ba-a2fd-a47e5e49951e][Cemiess]]
 
 * Objective
 
-Sell Imperial Slaves to Mackenzie Relay
+Sell [[id:02df3938-8684-467d-b46e-cd60621e1fd3][Imperial Slaves]] to Mackenzie Relay
 
 * Progress
 
@@ -33,19 +33,19 @@ Tier 4
 
 Finished
 
-Aisling Duval, in association with Stop Slavery Stupid, has issued a
+[[id:b402bbe3-5119-4d94-87ee-0ba279658383][Aisling Duval]], in association with Stop Slavery Stupid, has issued a
 call asking all right minded Imperial citizens to stand up for the
 freedom of their fellow man.
 
-It's common knowledge that the Empire considers its slavery system to
+It's common knowledge that the [[id:541dcfb3-93ef-40e5-9284-bf5a4f999043][Empire]] considers its slavery system to
 be the most humane example of enforced servitude in the entire galaxy.
 The truth, sadly, is very different. On many worlds even the Imperial
-Slaves are treated little better than animals. They are beaten, abused
+[[id:e618114f-4caa-471f-9e6d-ba74c7d3c34f][Slaves]] are treated little better than animals. They are beaten, abused
 and forced to live in squalor all while their masters benefit from the
 fruits of their labour.
 
 In an effort to take a stand against this barbaric practice, for the
-next 7 days all Imperial Slaves sold to Mackenzie Relay will be
+next 7 days all [[id:02df3938-8684-467d-b46e-cd60621e1fd3][Imperial Slaves]] sold to Mackenzie Relay will be
 automatically granted their freedom.
 
 Stop Slavery Stupid are aware that humanitarians taking part in this

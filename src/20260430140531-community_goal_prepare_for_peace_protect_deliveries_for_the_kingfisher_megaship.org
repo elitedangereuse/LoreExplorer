@@ -46,10 +46,10 @@ Finished
 
 []{#goalprogresschart247710note}
 
-The Kingfisher megaship has requested supplies for its planned journey
+The [[id:094dc5da-c38d-48aa-9fc7-fc5f60e5365d][Kingfisher]] megaship has requested supplies for its planned journey
 to greet the first rogue signal source.
 
-Congressman Dalton Chase gave a press statement regarding the
+Congressman [[id:ce508d31-48d2-411d-9056-6b451fc66cf3][Dalton Chase]] gave a press statement regarding the
 initiative:
 
 "Now that we know the approaching anomalies are Thargoid, many are
@@ -59,10 +59,10 @@ diplomacy can work. An alien race has sent emissaries toward humanity's
 space, and it is our duty to meet them with words rather than
 weapons."
 
-"The first of the anomalies, which we have named Taranis, is predicted
-to pass through Hyades Sector YO-Q b5-1. Using the high-level protocols
+"The first of the anomalies, which we have named [[id:f62776a6-64be-4794-b138-109ce4687622][Taranis]], is predicted
+to pass through [[id:73e6ac6c-6320-4370-a533-ac7d58baf91c][Hyades Sector YO-Q b5-1]]. Using the high-level protocols
 available to Congress, I have successfully obtained a temporary access
-restriction that grants an exclusive permit to the Kingfisher. A range
+restriction that grants an exclusive permit to the [[id:094dc5da-c38d-48aa-9fc7-fc5f60e5365d][Kingfisher]]. A range
 of broadcasts using multiple techniques will try to attract the
 Thargoids' attention. Hopefully, the entity will slow down long enough
 to give some acknowledgement of these attempts."

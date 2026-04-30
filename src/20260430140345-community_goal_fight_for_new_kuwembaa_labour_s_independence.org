@@ -11,7 +11,7 @@ Gagnan Port | Kuwembaa
 
 * Objective
 
-Hand in Combat Bonds
+Hand in [[id:bbbc7bc6-79d7-46b7-925e-c1f882c8f25a][Combat Bonds]]
 
 * Progress
 
@@ -33,15 +33,15 @@ Tier 3/8
 
 Finished
 
-The Federation is fighting to prevent further factions from declaring
+The [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]] is fighting to prevent further factions from declaring
 independence in the Kuwembaa system.
 
-New Kuwembaa Labour has broken ties with the Federation in protest
+[[id:146b9d9d-6435-404a-a853-0738ccdf8638][New Kuwembaa Labour]] has broken ties with the [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]] in protest
 against the government's civil surveillance programme. Governor Sonal
-Mishra, the leader of New Kuwembaa Labour, has requested assistance from
+Mishra, the leader of [[id:146b9d9d-6435-404a-a853-0738ccdf8638][New Kuwembaa Labour]], has requested assistance from
 the galactic community:
 
-"The Federal Accord is no longer fit for purpose. We require support to
+"The [[id:5bd5ffaf-9210-4ee4-a1ef-46228d431c11][Federal Accord]] is no longer fit for purpose. We require support to
 make a stand against this violation of our constitutional rights."
 
 Three other Federal factions - Selkana Labour, United HIP 108095 Values
@@ -49,18 +49,18 @@ Party and Mutumu Future - are considering becoming independent entities,
 depending on the result of the Kuwembaa conflict. These factions
 currently control 28 systems in total.
 
-New Kuwembaa Labour has offered credit rewards to any pilots willing to
-help secure its independence by handing in Combat Bonds at Gagnan Port
+[[id:146b9d9d-6435-404a-a853-0738ccdf8638][New Kuwembaa Labour]] has offered credit rewards to any pilots willing to
+help secure its independence by handing in [[id:bbbc7bc6-79d7-46b7-925e-c1f882c8f25a][Combat Bonds]] at Gagnan Port
 in the Kuwembaa system.
 
-Should New Kuwembaa Labour match tiers with Li Chotep for Equality, its
+Should [[id:146b9d9d-6435-404a-a853-0738ccdf8638][New Kuwembaa Labour]] match tiers with Li Chotep for Equality, its
 independence will be confirmed.
-Should New Kuwembaa Labour end one tier ahead of Li Chotep for Equality,
+Should [[id:146b9d9d-6435-404a-a853-0738ccdf8638][New Kuwembaa Labour]] end one tier ahead of Li Chotep for Equality,
 then Selkana Labour will declare independence.
-Should New Kuwembaa Labour end two tiers ahead of Li Chotep for
+Should [[id:146b9d9d-6435-404a-a853-0738ccdf8638][New Kuwembaa Labour]] end two tiers ahead of Li Chotep for
 Equality, then United HIP 108095 Values Party will also declare
 independence.
-Should New Kuwembaa Labour end three tiers ahead of Li Chotep for
+Should [[id:146b9d9d-6435-404a-a853-0738ccdf8638][New Kuwembaa Labour]] end three tiers ahead of Li Chotep for
 Equality, then Mutumu Future will also declare independence.
 
 The two factions have set out seven-day campaigns, which will end when

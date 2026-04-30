@@ -7,11 +7,11 @@
 
 * Location
 
-Jaques Station | Colonia
+[[id:935880a2-d4fb-4d27-ad48-0f95112ee0fe][Jaques Station]] | [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]]
 
 * Objective
 
-Deliver Exploration Data to Jaques Station (80 DD-D 774-CE-2) in the Eol
+Deliver Exploration Data to [[id:935880a2-d4fb-4d27-ad48-0f95112ee0fe][Jaques Station]] (80 DD-D 774-CE-2) in the Eol
 Prou RS-T d3-94 system.
 
 * Progress
@@ -35,25 +35,25 @@ Tier 8/8
 Finished
 
 The 80 DD-D 774-CE-2 faction, an independent organisation based at
-Jaques Station in the Eol Prou RS-T d3-94 system, has issued a request
+[[id:935880a2-d4fb-4d27-ad48-0f95112ee0fe][Jaques Station]] in the [[id:5f3c361b-30be-4912-8341-f6f3c1336028][Eol Prou RS-T d3-94]] system, has issued a request
 for exploration data. The request is part of an ongoing initiative to
-establish a permanent community in the Colonia Nebula.
+establish a permanent community in the [[id:1d45a325-abf9-44b6-90d9-d91beebbdec1][Colonia Nebula]].
 
 A spokesperson for 80 DD-D 774-CE-2 released the following statement:
-"If we're going to settle in the Colonia Nebula we need to know more
+"If we're going to settle in the [[id:1d45a325-abf9-44b6-90d9-d91beebbdec1][Colonia Nebula]] we need to know more
 about it, which is why we're currently offering highly competitive
 rates for exploration data. After all, pilots will be making the trek
-out to Jaques anyway -- might as well make some credits en route."
+out to [[id:f37f17f1-8eb3-4598-93f7-190fe97438a1][Jaques]] anyway -- might as well make some credits en route."
 
 80 DD-D 774-CE-2 has promised to reward pilots who deliver exploration
-data to Jaques Station in the Eol Prou RS-T d3-94 system. The campaign
+data to [[id:935880a2-d4fb-4d27-ad48-0f95112ee0fe][Jaques Station]] in the [[id:5f3c361b-30be-4912-8341-f6f3c1336028][Eol Prou RS-T d3-94]] system. The campaign
 begins on the 25th of August 3302 and will run for four weeks. If the
 final target is met earlier than planned, the campaign will end
 immediately.
 
 To be eligible for rewards you must sign up as an active participant
-before delivering Exploration Data to Jaques Station (80 DD-D 774-CE-2)
-in the Eol Prou RS-T d3-94 system.
+before delivering Exploration Data to [[id:935880a2-d4fb-4d27-ad48-0f95112ee0fe][Jaques Station]] (80 DD-D 774-CE-2)
+in the [[id:5f3c361b-30be-4912-8341-f6f3c1336028][Eol Prou RS-T d3-94]] system.
 
 The campaign is scheduled to run for four weeks, but if the final target
 is met earlier than planned the campaign will end immediately.

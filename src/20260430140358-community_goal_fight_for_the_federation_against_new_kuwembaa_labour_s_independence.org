@@ -11,7 +11,7 @@ Fortress Liberty | Kuwembaa
 
 * Objective
 
-Hand in Combat Bonds
+Hand in [[id:bbbc7bc6-79d7-46b7-925e-c1f882c8f25a][Combat Bonds]]
 
 * Progress
 
@@ -33,40 +33,40 @@ Tier 0/8
 
 Finished
 
-The Federation is fighting to prevent further factions from declaring
+The [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]] is fighting to prevent further factions from declaring
 independence in the Kuwembaa system.
 
-New Kuwembaa Labour has broken ties with the Federation in protest
+[[id:146b9d9d-6435-404a-a853-0738ccdf8638][New Kuwembaa Labour]] has broken ties with the [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]] in protest
 against the government's civil surveillance programme. Li Chotep for
 Equality, a local Federal faction, has been tasked to degrade the
 rebelling faction's military strength.
-President Zachary Hudson made a brief public announcement:
+President [[id:02322be1-fc02-4d8b-acf6-9a9681e3fb15][Zachary Hudson]] made a brief public announcement:
 
 "I call upon all Federal auxiliaries to aid in this conflict. The
-reputation of the Federation will not be so easily tarnished by these
+reputation of the [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]] will not be so easily tarnished by these
 unlawful separatists."
 
 Two recently seceded factions -- the Coalition of Uteran and Gluscap
-Labour -- are considering rejoining the Federation, depending on the
+Labour -- are considering rejoining the [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]], depending on the
 result of the Kuwembaa conflict.
 
-Li Chotep for Equality, in partnership with the Federation, has offered
+Li Chotep for Equality, in partnership with the [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]], has offered
 credit rewards to any pilots willing to help crush this rebellion by
-handing in Combat Bonds at the megaship Fortress Liberty in the Kuwembaa
+handing in [[id:bbbc7bc6-79d7-46b7-925e-c1f882c8f25a][Combat Bonds]] at the megaship Fortress Liberty in the Kuwembaa
 system.
 
-Should Li Chotep for Equality match tiers with New Kuwembaa Labour, it
+Should Li Chotep for Equality match tiers with [[id:146b9d9d-6435-404a-a853-0738ccdf8638][New Kuwembaa Labour]], it
 will remain independent but no other factions will secede from the
-Federation.
-Should Li Chotep for Equality end one tier ahead of New Kuwembaa Labour,
+[[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]].
+Should Li Chotep for Equality end one tier ahead of [[id:146b9d9d-6435-404a-a853-0738ccdf8638][New Kuwembaa Labour]],
 it will return to being a Federal faction and no other factions will
-secede from the Federation.
+secede from the [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]].
 Should Li Chotep for Equality end two tiers ahead of New Kuwembaa
 Labour, it will return to being a Federal faction and the Coalition of
-Uteran will return to the Federation.
+Uteran will return to the [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]].
 Should Li Chotep for Equality end three tiers ahead of New Kuwembaa
 Labour, it will return to being a Federal faction and the Coalition of
-Uteran and Gluscap Labour will return to the Federation.
+Uteran and Gluscap Labour will return to the [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]].
 
 The two factions have set out seven-day campaigns, which will end when
 the top tier is reached by either faction or early on Thursday the 12th

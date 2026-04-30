@@ -7,11 +7,11 @@
 
 * Location
 
-Xuesen Orbital | Nehet
+Xuesen Orbital | [[id:1b91efee-b411-45a9-8b03-df967281885d][Nehet]]
 
 * Objective
 
-Hand in Imperial Bounty Vouchers to Xuesen Orbital
+Hand in Imperial [[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]] to Xuesen Orbital
 
 * Progress
 
@@ -37,7 +37,7 @@ Information relayed to Princess Arissa indicates that criminals
 operating in and around this sector may be able to provide information
 as to who hired the Emperor's would-be-assassin.
 
-As such, all combat capable pilots of Nehet are requested to join the
+As such, all combat capable pilots of [[id:1b91efee-b411-45a9-8b03-df967281885d][Nehet]] are requested to join the
 Princess in her crusade against the insidious rot that hides within the
 belly of our great nation.
 

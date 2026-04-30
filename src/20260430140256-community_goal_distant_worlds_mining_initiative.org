@@ -7,11 +7,11 @@
 
 * Location
 
-Omega Mining Operation | Omega Sector VE-Q b5-15
+[[id:c9a8428d-c6ed-4493-859f-0654c5784a5c][Omega Mining Operation]] | Omega Sector VE-Q b5-15
 
 * Objective
 
-Deliver Indite, Gallite, Praseodymium and Cobalt to Omega Mining
+Deliver [[id:9e0d3d1a-0515-4718-91e0-514281b9e77f][Indite]], [[id:19346f59-fa1a-4ba2-8373-5b4d90f26662][Gallite]], [[id:d5d904e1-f1a7-4c46-afe8-728f625d11bf][Praseodymium]] and [[id:3de49bff-8041-45b0-a713-d3646334efd9][Cobalt]] to Omega Mining
 Operation
 
 * Progress
@@ -38,15 +38,15 @@ The Omega Mining Corporation has requested deliveries of raw materials
 for a new Orbis starport, to be built In the heart of the galaxy.
 
 The construction of the starport constitutes part of the ambitious
-Distant Worlds II expedition. Project leader Erimus Kamzel told the
+[[id:f176c68d-cc7a-4db2-8305-81f6771c7e9f][Distant Worlds II]] expedition. Project leader [[id:0250dc51-7007-47d9-92e3-db41de666cbc][Erimus Kamzel]] told the
 media:
 
-"The Distant Worlds fleet is privileged to be at the forefront of this
+"The [[id:dbb9956e-5ae2-4c27-94f7-670f0a4719f9][Distant Worlds]] fleet is privileged to be at the forefront of this
 ambitious industrial and scientific initiative - humanity's first
-starport in the Galactic Centre region."
+starport in the Galactic [[id:9059253d-2c36-4289-9bcf-fd20ba9fc35b][Centre]] region."
 
-Independent miners are invited to deliver shipments of Indite, Gallite,
-Praseodymium and Cobalt to Omega Mining Operation in the Omega Sector
+Independent miners are invited to deliver shipments of [[id:9e0d3d1a-0515-4718-91e0-514281b9e77f][Indite]], [[id:19346f59-fa1a-4ba2-8373-5b4d90f26662][Gallite]],
+[[id:d5d904e1-f1a7-4c46-afe8-728f625d11bf][Praseodymium]] and [[id:3de49bff-8041-45b0-a713-d3646334efd9][Cobalt]] to [[id:c9a8428d-c6ed-4493-859f-0654c5784a5c][Omega Mining Operation]] in the Omega Sector
 VE-Q b5-15 system.
 
 The initiative begins on the 17th of January 3305 and will run for one
@@ -54,7 +54,7 @@ week. If the final target is met earlier than planned, the campaign will
 end immediately.
 
 To be eligible for rewards you must sign up as an active participant
-before delivering Indite. Gallite, Praseodymium and Cobalt to Omega
+before delivering [[id:9e0d3d1a-0515-4718-91e0-514281b9e77f][Indite]]. [[id:19346f59-fa1a-4ba2-8373-5b4d90f26662][Gallite]], [[id:d5d904e1-f1a7-4c46-afe8-728f625d11bf][Praseodymium]] and [[id:3de49bff-8041-45b0-a713-d3646334efd9][Cobalt]] to Omega
 Mining Operation in the Omega Sector VE-Q b5-15 system.
 
 Be aware that faction-state changes and other disruptive events can

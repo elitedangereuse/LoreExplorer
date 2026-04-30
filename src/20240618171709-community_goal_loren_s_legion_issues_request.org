@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       5d37fdf9-d5d9-4dea-99d5-0524954ea7c6
+:ROAM_REFS: file:../references/Community%20Goals/Loren_s_Legion_Issues_Request.md
 :END:
 #+title: Community Goal: Loren's Legion Issues Request
 #+filetags: :Empire:CommunityGoal:3303:galnet:
@@ -14,6 +15,6 @@ The organisation has a wide range of business interests, and regularly supplies 
 
 A spokesperson for the organisation released a statement to the media.
 
-"We have experienced a huge spike in demand, and our facility at Hiram's Anchorage is already running at full capacity, so to satisfy our clients we will need the help of the galactic community. Fortunately we are in a position to offer generous premiums to pilots who deliver tantalum to Hiram's Anchorage in the [[id:8da12af2-6006-4e7e-a45e-7bf8b2c299c8][Prism]] system."
+"We have experienced a huge spike in demand, and our facility at [[id:8cff554e-5262-454f-8d3a-cfb2ea188b1d][Hiram's Anchorage]] is already running at full capacity, so to satisfy our clients we will need the help of the galactic community. Fortunately we are in a position to offer generous premiums to pilots who deliver tantalum to [[id:8cff554e-5262-454f-8d3a-cfb2ea188b1d][Hiram's Anchorage]] in the [[id:8da12af2-6006-4e7e-a45e-7bf8b2c299c8][Prism]] system."
 
 The campaign begins on the 2nd of March 3303 and will run for two weeks. If the final target is met earlier than planned, the campaign will end immediately.

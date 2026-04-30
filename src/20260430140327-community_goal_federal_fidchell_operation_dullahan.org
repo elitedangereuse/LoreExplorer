@@ -7,11 +7,11 @@
 
 * Location
 
-Hartsfield Market | Lugh
+Hartsfield Market | [[id:5a007482-56ef-4f60-83e7-58b4089a0020][Lugh]]
 
 * Objective
 
-Sell Military Intelligence to Hartsfield Market
+Sell [[id:31d56d1f-c5af-4861-8c65-a47fd7c68dfe][Military Intelligence]] to Hartsfield Market
 
 * Progress
 
@@ -33,32 +33,32 @@ Tier 2
 
 Finished
 
-## Warning - Hijacked Data Stream Detected - Malicious Code Injected -
+## Warning - Hijacked Data Stream Detected - Malicious [[id:c00dcd18-778c-4fca-acbd-cba6f2ded57e][Code]] Injected -
 
 Warning \*\*
 
 The Sons of Conn have reported the presence of a small Federal listening
-post hidden somewhere on the surface of Lugh 6. It is believed that the
-Federation is using the hidden base as a way to issue secret military
-intelligence to Federal forces operating in Lugh space.
+post hidden somewhere on the surface of [[id:5a007482-56ef-4f60-83e7-58b4089a0020][Lugh]] 6. It is believed that the
+[[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]] is using the hidden base as a way to issue secret military
+intelligence to Federal forces operating in [[id:5a007482-56ef-4f60-83e7-58b4089a0020][Lugh]] space.
 
 This flow of Federal information must be stopped!
 
 Éamonn has issued a call asking for wings loyal to the Crimson State
 Group to intercept all convoys as they attempt to leave the vicinity of
-Lugh 6. The Sons of Conn will offer assistance in any attacks, but only
+[[id:5a007482-56ef-4f60-83e7-58b4089a0020][Lugh]] 6. The Sons of Conn will offer assistance in any attacks, but only
 for Commanders who pledge their allegiance to the Crimson State Group
 before engaging the convoy.
 
-Any examples of Military Intelligence that are captured during the
-course of such interceptions must be safely delivered to undercover
+Any examples of [[id:31d56d1f-c5af-4861-8c65-a47fd7c68dfe][Military Intelligence]] that are captured during the
+course of such interceptions must be safely delivered to [[id:862a7049-e43e-419d-8e8b-dc72ac790f7e][undercover]]
 field operatives currently operating behind enemy lines. If enough enemy
-intelligence is captured, it should help weaken the Federation's grip
+intelligence is captured, it should help weaken the [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]]'s grip
 on the system.
 
 The intelligence already gathered by Crimson State Group supporters has
 helped to fortify the defences aboard Crimson State Group controlled
 outposts.
 
-\*\* Warning - Hijacked Data Stream Detected - Malicious Code Injected -
+\*\* Warning - Hijacked Data Stream Detected - Malicious [[id:c00dcd18-778c-4fca-acbd-cba6f2ded57e][Code]] Injected -
 Warning \*\*

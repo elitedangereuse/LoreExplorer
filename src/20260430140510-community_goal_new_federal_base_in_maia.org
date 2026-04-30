@@ -7,12 +7,12 @@
 
 * Location
 
-Obsidian Orbital | Maia
+[[id:4223b99a-7e0c-44fa-b7e9-afeca7e0c031][Obsidian Orbital]] | [[id:0ee60994-364c-41b9-98ca-993d041cea72][Maia]]
 
 * Objective
 
-Earn rewards by delivering Auto Fabricators, Titanium, and Power
-Generators to Obsidian Orbital in the Maia system.
+Earn rewards by delivering Auto Fabricators, [[id:d727fb19-8dc0-4d94-bcd4-da1cb5c090f0][Titanium]], and Power
+Generators to [[id:4223b99a-7e0c-44fa-b7e9-afeca7e0c031][Obsidian Orbital]] in the [[id:0ee60994-364c-41b9-98ca-993d041cea72][Maia]] system.
 
 * Progress
 
@@ -34,19 +34,19 @@ Tier 4/8
 
 Finished
 
-The Federation has announced plans to construct a new outpost in the
-Maia system, following last week's successful campaign to amass data on
-the Pleiades Nebula.
+The [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]] has announced plans to construct a new outpost in the
+[[id:0ee60994-364c-41b9-98ca-993d041cea72][Maia]] system, following last week's successful campaign to amass data on
+the [[id:7e99a467-6e3d-418e-8b10-72cf3660efa6][Pleiades Nebula]].
 
 According to a Federal spokesperson, the new base will support naval
-operations in Maia and the surrounding systems. The request mirrors one
-issued by the Empire last week, which centered on the construction of a
-new forward operating base in the Maia system.
+operations in [[id:0ee60994-364c-41b9-98ca-993d041cea72][Maia]] and the surrounding systems. The request mirrors one
+issued by the [[id:541dcfb3-93ef-40e5-9284-bf5a4f999043][Empire]] last week, which centered on the construction of a
+new forward operating base in the [[id:0ee60994-364c-41b9-98ca-993d041cea72][Maia]] system.
 
-The Pleiades Resource Enterprise, on behalf of the Federation, has
-placed an open order for Maia Auto Fabricators, Titanium, and Power
+The [[id:268dd81e-54f9-447a-9a47-11b2f7242e81][Pleiades Resource Enterprise]], on behalf of the [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]], has
+placed an open order for [[id:0ee60994-364c-41b9-98ca-993d041cea72][Maia]] Auto Fabricators, [[id:d727fb19-8dc0-4d94-bcd4-da1cb5c090f0][Titanium]], and Power
 Generators for use in the construction. Pilots who deliver these
-commodities to Obsidian Orbital in the Maia system will be generously
+commodities to [[id:4223b99a-7e0c-44fa-b7e9-afeca7e0c031][Obsidian Orbital]] in the [[id:0ee60994-364c-41b9-98ca-993d041cea72][Maia]] system will be generously
 rewarded.
 
 The campaign begins on the 29th of September 3302 and will run for one
@@ -54,8 +54,8 @@ week. If final targets are met earlier than planned, the campaign will
 end immediately.
 
 To be eligible for rewards you must sign up as an active participant
-before delivering Maia Auto Fabricators, Titanium, and Power Generators
-to Obsidian Orbital in the Maia system.
+before delivering [[id:0ee60994-364c-41b9-98ca-993d041cea72][Maia]] Auto Fabricators, [[id:d727fb19-8dc0-4d94-bcd4-da1cb5c090f0][Titanium]], and [[id:34acf2f1-676d-4e52-86f4-80dc606e435c][Power Generators]]
+to [[id:4223b99a-7e0c-44fa-b7e9-afeca7e0c031][Obsidian Orbital]] in the [[id:0ee60994-364c-41b9-98ca-993d041cea72][Maia]] system.
 
 The project is scheduled to run for one week, but if the final target is
 met earlier than planned the campaign will end immediately.

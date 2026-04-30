@@ -11,7 +11,7 @@ Stone Enterprise | Rakapila
 
 * Objective
 
-Hand in Bounty Vouchers
+Hand in [[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]]
 
 * Progress
 
@@ -33,8 +33,8 @@ Tier 4/8
 
 Finished
 
-Billionaire investor Lexi October has announced plans to save technology
-company Supratech from bankruptcy. The initiative involves a commodity
+Billionaire investor [[id:63f2962b-371f-4475-bbd1-0314201d15c0][Lexi October]] has announced plans to save technology
+company [[id:3e9f43fb-038f-46a6-be53-3c9af1bad474][Supratech]] from bankruptcy. The initiative involves a commodity
 drive designed to get the company back on its feet.
 
 To protect traders contributing to the community drive, the People's

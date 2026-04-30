@@ -7,11 +7,11 @@
 
 * Location
 
-The Indra | HR 1185
+The [[id:ac2fe364-22a0-4637-9962-c18310b283f9][Indra]] | [[id:88b4c43a-47da-4389-87a0-f929f25a40f3][HR 1185]]
 
 * Objective
 
-Hand in Pilots Federation Combat Bonds
+Hand in Pilots [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]] [[id:bbbc7bc6-79d7-46b7-925e-c1f882c8f25a][Combat Bonds]]
 
 * Progress
 
@@ -33,9 +33,9 @@ Tier 8/8
 
 Finished
 
-In a move that has come as a surprise to many, the Empire and Federation
+In a move that has come as a surprise to many, the [[id:541dcfb3-93ef-40e5-9284-bf5a4f999043][Empire]] and [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]]
 have announced a joint initiative to counter Thargoid activity in the HR
 1185 system.
 
-The Merope Expeditionary Fleet has been authorised to oversee the combat
+The [[id:e8740636-76cb-40ad-816e-ec17e1323aa0][Merope Expeditionary Fleet]] has been authorised to oversee the combat
 operation, and has promised to reward pilots who support the campaign.

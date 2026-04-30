@@ -7,7 +7,7 @@
 
 * Location
 
-Beaumont Dock | Morrina
+[[id:f701500f-6f9e-4a2a-a535-106203180b31][Beaumont Dock]] | [[id:0a64d5ad-8198-427c-b059-84a18e468c53][Morrina]]
 
 * Objective
 
@@ -33,32 +33,32 @@ Tier 3/8
 
 Finished
 
-The Morrina system has had a rough time of late, with repeated civil
+The [[id:0a64d5ad-8198-427c-b059-84a18e468c53][Morrina]] system has had a rough time of late, with repeated civil
 wars and rampant criminal activity bringing the system to its knees.
 
-Now that the dust is beginning to settle, the Spinward Marches Alliance
+Now that the dust is beginning to settle, the Spinward Marches [[id:2506edb2-fef4-4723-85c6-02482635229d][Alliance]]
 Concern is stepping in to rebuild the system. The organisation has
-launched an appeal for Basic Medicines, Water Purifiers and Power
+launched an appeal for [[id:1c200888-6acc-404b-8d9e-9ad834389782][Basic Medicines]], [[id:2f1be518-d6d9-4e2e-84ce-ea7e5d86e099][Water Purifiers]] and Power
 Generators to help those affected by recent conflicts.
 
-Organisation spokespersons Commander Saool and Commander Dennehy made
+Organisation spokespersons Commander Saool and [[id:7903ed29-f49d-4b9b-a465-cdd8eb07bfdb][Commander Dennehy]] made
 the following statement:
 
-In response to this, the Spinward Marches Alliance Concern has launched
+In response to this, the [[id:5f78f661-9227-4f54-8a93-50052900119a][Spinward Marches Alliance Concern]] has launched
 an appeal for essential supplies in order to undo the damage caused by
 the extended conflict. The organisation has placed an open order for
 basic medicines, water purifiers and power generators, and has promised
 to generously reward pilots who deliver these commodities to Beaumont
 Dock.
 
-Organisation spokespersons Commander Saool and Commander Dennehy
+Organisation spokespersons Commander Saool and [[id:7903ed29-f49d-4b9b-a465-cdd8eb07bfdb][Commander Dennehy]]
 released the following statement:
 
-"For the past month, the Morrina system has been embroiled in conflict
+"For the past month, the [[id:0a64d5ad-8198-427c-b059-84a18e468c53][Morrina]] system has been embroiled in conflict
 and criminality. The galactic community stepped up to help cull the
-criminal elements ravaging the system, and the Spinward Marches Alliance
+criminal elements ravaging the system, and the Spinward Marches [[id:2506edb2-fef4-4723-85c6-02482635229d][Alliance]]
 Concern has started to repair planetary infrastructure and restore power
-to the night side of tidally locked Morrina 3. But we need more supplies
+to the night side of tidally locked [[id:0a64d5ad-8198-427c-b059-84a18e468c53][Morrina]] 3. But we need more supplies
 to get the system back on its feet."
 
 The campaign begins on the 28th of April 3302 and will run for one week.

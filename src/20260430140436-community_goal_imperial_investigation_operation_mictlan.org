@@ -7,11 +7,11 @@
 
 * Location
 
-Kowal Dock | Mictlan
+Kowal Dock | [[id:c72ce3b7-f19e-4034-9df5-554bcddfaa4f][Mictlan]]
 
 * Objective
 
-Hand in Imperial Bounty Vouchers to Kowal Dock
+Hand in Imperial [[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]] to Kowal Dock
 
 * Progress
 
@@ -37,7 +37,7 @@ Information relayed to Princess Arissa indicates that criminals
 operating in and around this sector may be able to provide information
 as to who hired the Emperor's would-be-assassin.
 
-As such, all combat capable pilots of Mictlan are requested to join the
+As such, all combat capable pilots of [[id:c72ce3b7-f19e-4034-9df5-554bcddfaa4f][Mictlan]] are requested to join the
 Princess in her crusade against the insidious rot that hides within the
 belly of our great nation.
 
@@ -49,4 +49,4 @@ be living in the shadow of organised crime.
 In order to achieve her goals before the most likely culprits have a
 chance to flee from justice, Princess Arissa is offering a series of
 sizable rewards to all honourable Imperial pilots that help re-establish
-proper Imperial order in Mictlan.
+proper Imperial order in [[id:c72ce3b7-f19e-4034-9df5-554bcddfaa4f][Mictlan]].

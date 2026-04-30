@@ -7,11 +7,11 @@
 
 * Location
 
-Golden Stag | Onoros
+Golden Stag | [[id:2b846add-6e61-41aa-9ad6-3bf02898e6e0][Onoros]]
 
 * Objective
 
-Hand in Combat Bonds after fighting the Thargoids
+Hand in [[id:bbbc7bc6-79d7-46b7-925e-c1f882c8f25a][Combat Bonds]] after fighting the Thargoids
 
 * Progress
 
@@ -33,30 +33,30 @@ Tier 5/5
 
 Finished
 
-Thargoid vessels detected in Alliance-controlled systems within the
+Thargoid vessels detected in [[id:2506edb2-fef4-4723-85c6-02482635229d][Alliance]]-controlled systems within the
 Witch Head Enclave.
 
-The Thargoids have reappeared in the Witch Head Nebula, and are swarming
-in large numbers through the Onoros, Lembass, Haki, Wellington and
-Shenve systems.
+The Thargoids have reappeared in the [[id:ce73c3e5-6875-480c-95a9-c146f6247bb7][Witch Head Nebula]], and are swarming
+in large numbers through the [[id:2b846add-6e61-41aa-9ad6-3bf02898e6e0][Onoros]], Lembass, Haki, Wellington and
+[[id:9eb04a19-52b5-4650-8d44-a5497225789e][Shenve]] systems.
 
 Sixteen systems within the nebula were colonised last year to form the
 Witch Head Enclave, after a successful initiative to locate fresh
 barnacle sites. This initially triggered a hostile reaction from the
 Thargoids, but their presence was relatively low until now.
 
-Captain Warren Lamar, head of security for the Alliance Expeditionary
+Captain [[id:8b9c9a86-0ecd-47bb-870b-b12366040ea4][Warren Lamar]], head of security for the [[id:2506edb2-fef4-4723-85c6-02482635229d][Alliance]] Expeditionary
 Pact, put out an urgent call for assistance:
 
 "If this Thargoid assault is not repelled, it may spread into a
 full-scale invasion throughout the Witch Head Enclave. Neither Aegis nor
-the Alliance Defence Force are able to deploy in time, so we ask all
+the [[id:17d9294e-7759-4cf4-9a67-5f12b5704f51][Alliance Defence Force]] are able to deploy in time, so we ask all
 independent combat pilots and anti-xeno squadrons to come to our
 defence."
 
-The Alliance Expeditionary Pact has confirmed that it will offer
+[[id:1c4d53a2-d81f-4cfa-8001-eb77f2c79b5f][The Alliance]] Expeditionary Pact has confirmed that it will offer
 generous rewards to all Commanders who assist with destroying Thargoid
 vessels.
-The top 75% of contributors will have Guardian Frame Shift Drive
+The top 75% of contributors will have Guardian [[id:46a9c980-af48-4e43-a820-9971d7c76c34][Frame Shift Drive]]
 Boosters unlocked and a size four module put into storage for them at
 the Golden Stag by the 24th of October.

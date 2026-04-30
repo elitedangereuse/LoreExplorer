@@ -11,7 +11,7 @@ Dirichlet Orbital | Yum Kamcabi
 
 * Objective
 
-Deliver Natural Fabrics, Food Cartridges and Basic Medicines
+Deliver [[id:2ce50835-6eff-4466-baa5-0ac8538f3f47][Natural Fabrics]], [[id:a137e655-317f-4e24-8580-abed3b915119][Food Cartridges]] and [[id:1c200888-6acc-404b-8d9e-9ad834389782][Basic Medicines]]
 
 * Progress
 
@@ -33,19 +33,19 @@ Tier 8/8
 
 Finished
 
-Former Federal president Jasmina Halsey has appealed for relief for the
+Former Federal president [[id:a9ccf59f-436e-44df-b041-5020285925f8][Jasmina Halsey]] has appealed for relief for the
 refugees at Dirichlet Orbital in the Yum Kamcabi system.
 
 In a statement, Halsey said:
 
 "Dirichlet Orbital has already become a haven for those fleeing the
-ongoing conflict between the Empire and the Federation. But if we are to
+ongoing conflict between the [[id:541dcfb3-93ef-40e5-9284-bf5a4f999043][Empire]] and the [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]]. But if we are to
 provide these people with ongoing care, we will need the help of the
 galactic community. Fortunately the Yum Kamcabi Purple Life Industry has
 volunteered to support a relief operation"
 
 The Yum Kamcabi Purple Life Industry has pledged to reward pilots who
-deliver Natural Fabrics, Food Cartridges and Basic Medicines to
+deliver [[id:2ce50835-6eff-4466-baa5-0ac8538f3f47][Natural Fabrics]], [[id:a137e655-317f-4e24-8580-abed3b915119][Food Cartridges]] and [[id:1c200888-6acc-404b-8d9e-9ad834389782][Basic Medicines]] to
 Dirichlet Orbital in the Yum Kamcabi system.
 
 The campaign begins on 30th of March 3303 and will run for one week. If
@@ -53,19 +53,19 @@ the final target is met earlier than planned, the campaign will end
 immediately.
 
 To be eligible for rewards you must sign up as an active participant
-before delivering Natural Fabrics, Food Cartridges and Basic Medicines
+before delivering [[id:2ce50835-6eff-4466-baa5-0ac8538f3f47][Natural Fabrics]], [[id:a137e655-317f-4e24-8580-abed3b915119][Food Cartridges]] and [[id:1c200888-6acc-404b-8d9e-9ad834389782][Basic Medicines]]
 to Dirichlet Orbital in the Yum Kamcabi system.
 
 Be aware that faction-state changes, UA bombing and other disruptive
 events can negatively impact markets and station services, and could
 prevent the initiative from running smoothly.
 
-[Notes:\\\\](Notes:\\) Dirichlet Orbirtal is a Terraforming Federation
+[Notes:\\\\](Notes:\\) Dirichlet Orbirtal is a [[id:48bbb683-32e9-40c0-a2f6-26da016886de][Terraforming]] [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]]
 aligned starport under Revolutionary Patani Labour control
 - Sell prices:
-•Natural Fabrics: 483cr
-•Food Cartridges: 116cr
-•Basic Medicines: 307cr
+•[[id:2ce50835-6eff-4466-baa5-0ac8538f3f47][Natural Fabrics]]: 483cr
+•[[id:a137e655-317f-4e24-8580-abed3b915119][Food Cartridges]]: 116cr
+•[[id:1c200888-6acc-404b-8d9e-9ad834389782][Basic Medicines]]: 307cr
 
 Current Global Progress: 10,069,312 tonnes collected
 

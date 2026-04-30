@@ -11,7 +11,7 @@ Rutherford Hub | Hehe
 
 * Objective
 
-Hand in Combat Bonds after fighting for Hehe Federal Interstellar in
+Hand in [[id:bbbc7bc6-79d7-46b7-925e-c1f882c8f25a][Combat Bonds]] after fighting for Hehe Federal Interstellar in
 conflict zones
 
 * Progress
@@ -50,7 +50,7 @@ The faction has set out week-long operations to take control of the
 system, which will begin on the 3rd of August 3303.
 
 To be eligible for rewards you must sign up as an active participant
-before handing in Combat Bonds at Rutherford Hub in the Hehe system.
+before handing in [[id:bbbc7bc6-79d7-46b7-925e-c1f882c8f25a][Combat Bonds]] at Rutherford Hub in the Hehe system.
 
 Please note that if you have any crew members, a portion of your combat
 bonds will be automatically assigned to them. These combat bonds will
@@ -66,7 +66,7 @@ prevent the initiative from running smoothly.
 [Notes:\\\\](Notes:\\)
 - Competing with Hehe Camorra CG (if one finishes early, both goals end
 and the loosing side gets paid at their current tier)
-- Powerplay: Li Yong-Rui control system
+- [[id:4ed9ac75-9ddc-4533-bc21-00a775fbc0ee][Powerplay]]: [[id:f0655b3a-aca9-488f-bdb3-c481a42db384][Li Yong-Rui]] control system
 - Station services:
 Commodities Market, Shipyard, Outfitting, Repair, Restock, Refuel, Black
 Market

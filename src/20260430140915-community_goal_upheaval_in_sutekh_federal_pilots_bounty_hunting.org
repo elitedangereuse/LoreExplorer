@@ -11,7 +11,7 @@ Archimedes Gateway | Sutekh
 
 * Objective
 
-Hand in Bounty Vouchers
+Hand in [[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]]
 
 * Progress
 
@@ -39,7 +39,7 @@ but security agencies based in Sutekh have tentatively identified the
 Adad Exchange, an Imperial faction.
 
 The Adad Exchange is also understood to have launched an operation to
-recover Data Cores from the wreckage. The Federation has responded by
+recover Data Cores from the wreckage. The [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]] has responded by
 placing a kill order on all Adad Exchange ships operating in Sutekh. The
 United Sutekh Future has been authorised to coordinate the campaign, and
 has promised to reward pilots who support the operation.
@@ -49,8 +49,8 @@ week. If the operation achieves its aims earlier than planned, it will
 end immediately.
 
 To earn rewards you must sign up as an active participant before handing
-in Bounty Vouchers at Archimedes Gateway in the Sutekh system. Only
-Bounty Vouchers handed in after signing up will count toward your
+in [[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]] at Archimedes Gateway in the Sutekh system. Only
+[[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]] handed in after signing up will count toward your
 personal contribution.
 
 Please note that if you have any crew members, a portion of your bounty

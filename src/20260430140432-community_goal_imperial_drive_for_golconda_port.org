@@ -7,11 +7,11 @@
 
 * Location
 
-The Lucent Embrace | Upaniklis
+The Lucent Embrace | [[id:361a46f2-79c4-40bf-9781-4066763914f3][Upaniklis]]
 
 * Objective
 
-Deliver Polymers, CMM Composites, Titanium, Beryllium and Thallium
+Deliver [[id:87f58744-f7fe-46da-b824-fb089a150705][Polymers]], CMM Composites, [[id:d727fb19-8dc0-4d94-bcd4-da1cb5c090f0][Titanium]], [[id:bd0fe4ab-145e-431c-b06e-3433e2618bff][Beryllium]] and [[id:cf391eb1-f332-4044-9bc6-814ca24c52b1][Thallium]]
 
 * Progress
 
@@ -33,21 +33,21 @@ Tier 4/8
 
 Finished
 
-The Empire and the Federation have announced rival initiatives to
-provide a new home for the crew of the generation ship Golconda.​
+[[id:1047d7bb-a08d-430d-a445-4ec9a1b2daa3][The Empire]] and the [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]] have announced rival initiatives to
+provide a new home for the crew of the generation ship [[id:fce1d147-f900-41ec-a92c-3ce3d1cae641][Golconda]].​
 ​
-During the aid appeal by Upaniklis Vision Incorporated, engineering
+During the aid appeal by [[id:f3e9c36a-0e5d-493b-8fff-b86cdb2a3dcb][Upaniklis Vision Incorporated]], engineering
 experts confirmed that the ancient vessel can no longer meet the
-colony's needs. While the Golconda was designed for long-term
+colony's needs. While the [[id:fce1d147-f900-41ec-a92c-3ce3d1cae641][Golconda]] was designed for long-term
 habitation, it lacks adequate facilities for the current population
 levels.​
 ​
-After lengthy discussion, the Golconda's leaders have reluctantly
+After lengthy discussion, the [[id:fce1d147-f900-41ec-a92c-3ce3d1cae641][Golconda]]'s leaders have reluctantly
 decided to abandon the vessel. But the ship's captain, Jonathon
 Forester, has insisted that its population remain together in one
 location.​
 ​
-The Empire has vowed to help the colonists complete the ship's original
+[[id:1047d7bb-a08d-430d-a445-4ec9a1b2daa3][The Empire]] has vowed to help the colonists complete the ship's original
 mission by establishing a planetside home. Senator Ava Cornelius
 summarised the campaign:​
 
@@ -57,6 +57,6 @@ destiny after a millennium of adventure. Contemporary agricultural
 techniques will enable them to become a self-sustaining colony with full
 Imperial support."
 
-The Empire has asked the galactic community to support their campaign.
+[[id:1047d7bb-a08d-430d-a445-4ec9a1b2daa3][The Empire]] has asked the galactic community to support their campaign.
 Pilots can deliver polymers, CMM composites, titanium, beryllium and
-thallium to the megaship The Lucent Embrace in the Upaniklis system.​
+thallium to the megaship The Lucent Embrace in the [[id:361a46f2-79c4-40bf-9781-4066763914f3][Upaniklis]] system.​

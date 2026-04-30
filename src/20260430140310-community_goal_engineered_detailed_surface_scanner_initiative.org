@@ -7,11 +7,11 @@
 
 * Location
 
-Ashby City | Luyten's Star
+Ashby City | [[id:5817a2f2-d8af-4c78-9401-490abe32564b][Luyten's Star]]
 
 * Objective
 
-Deliver CMM Composites, Muon Imagers and Synthetic Reagents
+Deliver CMM Composites, Muon Imagers and [[id:1f762d71-c751-461c-a308-f2e33862e748][Synthetic Reagents]]
 
 * Progress
 
@@ -33,15 +33,15 @@ Tier 5/5
 
 Finished
 
-Sirius Corporation has requested commodities to make a fully engineered
+[[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]] has requested commodities to make a fully engineered
 detailed surface scanner commercially available.
 
 The ship module was produced in limited numbers during a terraforming
-programme campaign by Sirius Atmospherics in late 3306. It was awarded
+programme campaign by [[id:c85d1251-b6f2-460f-9a24-b1aba6b14097][Sirius Atmospherics]] in late 3306. It was awarded
 to pilots who provided data on worlds with ammonia-based atmospheres for
 its terraforming programme.
 
-Sinclair Faraldo, marketing director for Sirius Corporation, provided
+Sinclair Faraldo, marketing director for [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]], provided
 details:
 
 "Following a feasibility study, we have determined that this module can
@@ -50,27 +50,27 @@ detailed surface scanner has twice the probe coverage, allowing planets
 and moons to be mapped more efficiently."
 
 "In order to begin production, we require large quantities of CMM
-Composites, Muon Imagers and Synthetic Reagents. We will generously
-reward pilots who can deliver these to Ashby City in the Luyten's Star
+Composites, Muon Imagers and [[id:1f762d71-c751-461c-a308-f2e33862e748][Synthetic Reagents]]. We will generously
+reward pilots who can deliver these to Ashby City in the [[id:5817a2f2-d8af-4c78-9401-490abe32564b][Luyten's Star]]
 system."
 
-If the initiative is successful, Sirius Corporation will make the module
+If the initiative is successful, [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]] will make the module
 available for purchase at all human technology brokers by the 25th of
 June 3307.
 
 Each tier reached will further reduce the resources required for
 acquiring the module in the first two weeks of availability.
 
-Niobium base requirements 24, reduced by three for each tier above Tier
+[[id:57ead3ef-6eee-4bd1-a856-9a37f9fde45b][Niobium]] base requirements 24, reduced by three for each tier above Tier
 1.
-Mechanical Components base requirements 28, reduced by four for each
+[[id:a9f787a9-556f-4660-aa7a-df63a2b2cb07][Mechanical Components]] base requirements 28, reduced by four for each
 tier above Tier 1.
-Germanium base requirements 22, reduced by three for each tier above
+[[id:ff72aa0d-7d32-4103-8cc9-d3bbded1ab20][Germanium]] base requirements 22, reduced by three for each tier above
 Tier 1.
 Mechanical scrap base requirements 26, reduced by four for each tier
 above Tier 1.
 
-If the initiative is successful, Sirius Corporation will gift the module
+If the initiative is successful, [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]] will gift the module
 to the top 75% of contributing pilots. The module will be placed in
-storage at the Ashby City starport in the Luyten's Star system by the
+storage at the Ashby City starport in the [[id:5817a2f2-d8af-4c78-9401-490abe32564b][Luyten's Star]] system by the
 25th of June 3307.

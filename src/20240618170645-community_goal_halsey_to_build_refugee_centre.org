@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       083bb688-0173-49d2-ba1e-c35c6bc1590b
+:ROAM_REFS: file:../references/Community%20Goals/Halsey_to_Build_Refugee_Centre__Trade_.md
 :END:
 #+title: Community Goal: Halsey to Build Refugee Centre
 #+filetags: :Empire:Federation:CommunityGoal:3303:galnet:
@@ -14,6 +15,6 @@ Former Federal president [[id:a9ccf59f-436e-44df-b041-5020285925f8][Jasmina Hals
 
 Humanitarian groups were quick to applaud Halsey, who since being discharged from the Clearwater Clinic in July last year has repeatedly expressed her commitment to peace.
 
-The campaign has received financial support from the Yum Kamcabi Purple Life Industry, which has placed an open order for [[id:34acf2f1-676d-4e52-86f4-80dc606e435c][Power Generators]], Tantalum and Polymers for use in the construction. Pilots who deliver these commodities to Dirichlet Orbital in the Yum Kamcabi system will be generously rewarded.
+The campaign has received financial support from the Yum Kamcabi Purple Life Industry, which has placed an open order for [[id:34acf2f1-676d-4e52-86f4-80dc606e435c][Power Generators]], [[id:d10c0435-4bc8-42ac-bea6-228d2f02604c][Tantalum]] and [[id:87f58744-f7fe-46da-b824-fb089a150705][Polymers]] for use in the construction. Pilots who deliver these commodities to Dirichlet Orbital in the Yum Kamcabi system will be generously rewarded.
 
 The campaign begins on the 2nd of February 3303 and will run for one week. If the final target is met earlier than planned, the campaign will end immediately.

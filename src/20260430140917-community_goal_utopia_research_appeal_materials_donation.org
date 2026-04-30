@@ -11,7 +11,7 @@ Cenker City | Gucumadhyas
 
 * Objective
 
-Deliver Zirconium, Conductive Ceramics and Strange Wake Solutions
+Deliver [[id:7d1728bb-333a-470d-8038-769ad1cce208][Zirconium]], [[id:d12b6560-fbeb-4d96-8970-587bbbede4c5][Conductive Ceramics]] and [[id:2b06db3f-ce23-4a4c-9a88-6b6f5388f94a][Strange Wake Solutions]]
 
 * Progress
 
@@ -33,18 +33,18 @@ Tier 1/8
 
 Finished
 
-The Utopia Commune has issued a request for various commodities to be
+The [[id:058a658d-e1ce-4364-a92b-b9607495c73f][Utopia]] Commune has issued a request for various commodities to be
 used in a forthcoming research and development programme.
 
-The enclave has placed an open order for Zirconium, Conductive Ceramics
-and Strange Wake Solutions, and has promised to reward pilots who
+The enclave has placed an open order for [[id:7d1728bb-333a-470d-8038-769ad1cce208][Zirconium]], [[id:d12b6560-fbeb-4d96-8970-587bbbede4c5][Conductive Ceramics]]
+and [[id:2b06db3f-ce23-4a4c-9a88-6b6f5388f94a][Strange Wake Solutions]], and has promised to reward pilots who
 deliver these commodities to Cenker City in the Gucumadhyas system.
 
-Simguru Pranav Antal, leader of the Utopian movement, released a
+Simguru [[id:05ab22a7-9952-49a3-bdc0-45094cdaff6a][Pranav Antal]], leader of the Utopian movement, released a
 statement outlining the nature of the initiative.
 
 "We are well aware that independent pilots accumulate large quantities
-of material over the course of their travels. Fortunately, Utopia is
+of material over the course of their travels. Fortunately, [[id:058a658d-e1ce-4364-a92b-b9607495c73f][Utopia]] is
 willing to pay above-market prices for these materials, which will play
 a central role in our forthcoming programme."
 
@@ -53,7 +53,7 @@ If the final target is met earlier than planned, the campaign will end
 immediately.
 
 To be eligible for rewards you must sign up as an active participant
-before delivering Zirconium, Conductive Ceramics and Strange Wake
+before delivering [[id:7d1728bb-333a-470d-8038-769ad1cce208][Zirconium]], [[id:d12b6560-fbeb-4d96-8970-587bbbede4c5][Conductive Ceramics]] and Strange Wake
 Solutions to Cenker City in the Gucumadhyas system.
 
 Be aware that faction-state changes, UA bombing and other disruptive

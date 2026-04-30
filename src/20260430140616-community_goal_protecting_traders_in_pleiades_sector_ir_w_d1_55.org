@@ -7,11 +7,11 @@
 
 * Location
 
-The Oracle | Delphi
+The Oracle | [[id:846bfbc7-75e7-4d8d-8716-7fe0346026f4][Delphi]]
 
 * Objective
 
-Hand in Bounty Vouchers
+Hand in [[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]]
 
 * Progress
 
@@ -34,15 +34,15 @@ Tier 5/8
 Finished
 
 Aegis has announced plans to build a military installation in the
-Pleiades Sector IR-W d1-55.
+[[id:cd15e78b-89d1-4051-bd92-05d0ab49ec17][Pleiades]] Sector IR-W d1-55.
 
 An Aegis spokesperson gave the following statement to the media:
-After the recent occupation of Socho by a hostile criminal element, it
-is imperative that Aegis bolster its holdings in the Pleiades Sector
+After the recent occupation of [[id:092e7139-1d8c-45d1-89ce-615326e10853][Socho]] by a hostile criminal element, it
+is imperative that Aegis bolster its holdings in the [[id:cd15e78b-89d1-4051-bd92-05d0ab49ec17][Pleiades]] Sector
 IR-W d1-55. The construction of a military installation will allow us to
 continue our fight against the Thargoids unhindered by external forces.
 
-Aegis Research has placed a kill order on all ships on their wanted list
+[[id:3808ab0e-fcff-4299-b882-f8c3946f272d][Aegis Research]] has placed a kill order on all ships on their wanted list
 to protect those delivering construction materials. They have promised
-to reward pilots who hand in Bounty Vouchers at The Oracle in the
-Pleiades Sector IR-W d1-55.
+to reward pilots who hand in [[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]] at The Oracle in the
+[[id:cd15e78b-89d1-4051-bd92-05d0ab49ec17][Pleiades]] Sector IR-W d1-55.

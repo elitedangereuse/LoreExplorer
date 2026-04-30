@@ -7,11 +7,11 @@
 
 * Location
 
-Shajn Market | Kamadhenu
+Shajn Market | [[id:6762f716-7e24-4a03-af96-2af0fd55f8c7][Kamadhenu]]
 
 * Objective
 
-Deliver Gold, Robotics and Auto-Fabricators
+Deliver Gold, [[id:04da3c2d-0705-481d-b17c-8b4235a3aa7a][Robotics]] and [[id:5d99c688-f21a-41e1-9ebb-00b626b4c31f][Auto-Fabricators]]
 
 * Progress
 
@@ -33,8 +33,8 @@ Tier 8/8
 
 Finished
 
-The Kamadhenu Chapterhouse of Inquisition has announced plans to
-establish a series of starports between the core systems and Colonia to
+The [[id:6762f716-7e24-4a03-af96-2af0fd55f8c7][Kamadhenu]] [[id:11216b9a-43a6-4242-9355-1c6227e48db8][Chapterhouse of Inquisition]] has announced plans to
+establish a series of starports between the core systems and [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] to
 make the daunting voyage a little easier. A total of three starports
 have been planned, which the Chapterhouse hopes will expedite the
 creation of a freight and passenger service known as the Blue Star
@@ -43,13 +43,13 @@ Line.
 The Chapterhouse has placed an open order for gold, robotics and
 auto-fabricators for the first of these starports, and has promised to
 reward pilots who deliver these commodities to Shajn Market in the
-Kamadhenu system.
+[[id:6762f716-7e24-4a03-af96-2af0fd55f8c7][Kamadhenu]] system.
 
 Announcing the campaign, Governor Shelby Ortega said:
 
-The growth of Colonia has been astounding, but its continued success
+The growth of [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] has been astounding, but its continued success
 depends on developing more substantive infrastructure. Having received
-the blessing of the Colonia Council, the Chapterhouse of Inquisition
+the blessing of the [[id:6b6559fd-c7fa-44c9-b540-b94ddcadbd50][Colonia Council]], the [[id:11216b9a-43a6-4242-9355-1c6227e48db8][Chapterhouse of Inquisition]]
 intends to realise a vision of trans-galactic commerce that will benefit
 all of humanity.
 
@@ -60,7 +60,7 @@ targets are met earlier than planned.
 
 To be eligible for rewards you must sign up as an active participant
 before delivering gold, robotics and auto-fabricators to Shajin Market
-in the Kamadhenu system.
+in the [[id:6762f716-7e24-4a03-af96-2af0fd55f8c7][Kamadhenu]] system.
 
 Be aware that faction-state changes, UA bombing and other disruptive
 events can negatively impact markets and station services, and could

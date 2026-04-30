@@ -7,11 +7,11 @@
 
 * Location
 
-Macdonald Settlement | Alcor
+Macdonald Settlement | [[id:eb11ab9d-aab7-4d9b-aeaf-a228ef33d4da][Alcor]]
 
 * Objective
 
-Deliver Computer Components, Ceramic Composites and Thermal Cooling
+Deliver [[id:66b0f0aa-4387-46f9-9abe-a3dbe1033c6f][Computer Components]], [[id:0b64653e-4cad-4f00-bf49-d88ae6049a11][Ceramic Composites]] and Thermal Cooling
 Units
 
 * Progress
@@ -34,44 +34,44 @@ Tier 5/5
 
 Finished
 
-Delivery campaigns in the Alcor and Colonia systems aim to improve
+Delivery campaigns in the [[id:eb11ab9d-aab7-4d9b-aeaf-a228ef33d4da][Alcor]] and [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] systems aim to improve
 journeys to the distant colonies.
 
-The Colonia Bridge project is being funded by Brewer Corporation, which
+The [[id:97a8c7e5-9399-4ebe-9457-8029ce809303][Colonia Bridge]] project is being funded by [[id:d9459015-dae3-4233-9eb7-a2fb11344097][Brewer Corporation]], which
 outlined the details in a press release:
 
-"The Colonia region has great potential for businesses and travellers,
-but the long voyage can be prohibitive. Brewer Corporation is investing
+"The [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] region has great potential for businesses and travellers,
+but the long voyage can be prohibitive. [[id:d9459015-dae3-4233-9eb7-a2fb11344097][Brewer Corporation]] is investing
 in the transportation infrastructure between the core systems and
-Colonia, to make crossing those thousands of light years easier."
+[[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]], to make crossing those thousands of light years easier."
 
-"Up to 30 dockable megaships will be placed along the route to Colonia,
+"Up to 30 dockable megaships will be placed along the route to [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]],
 providing travellers with valuable respite and resources including
 tritium. These stationary megaships should be operational by the 28th of
 October, and will mark the completion of the first phase of the
-three-phase Colonia Bridge project. Its aim is to place dockable
+three-phase [[id:97a8c7e5-9399-4ebe-9457-8029ce809303][Colonia Bridge]] project. Its aim is to place dockable
 megaships every four to five hundred light years working out from the
-Alcor and Colonia systems."
+[[id:eb11ab9d-aab7-4d9b-aeaf-a228ef33d4da][Alcor]] and [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] systems."
 
-"To achieve this, we require large quantities of Ceramic Composites,
-Computer Components and Thermal Cooling Units. These can be delivered to
-Macdonald Settlement in the Alcor system."
+"To achieve this, we require large quantities of [[id:0b64653e-4cad-4f00-bf49-d88ae6049a11][Ceramic Composites]],
+[[id:66b0f0aa-4387-46f9-9abe-a3dbe1033c6f][Computer Components]] and [[id:3392ce5d-db80-4085-8821-57b2ec3ddf36][Thermal Cooling Units]]. These can be delivered to
+Macdonald Settlement in the [[id:eb11ab9d-aab7-4d9b-aeaf-a228ef33d4da][Alcor]] system."
 
-Brewer Corporation has confirmed that as well as offering payment for
-the materials, it will ask the top ten contributors at Alcor and Colonia
+[[id:d9459015-dae3-4233-9eb7-a2fb11344097][Brewer Corporation]] has confirmed that as well as offering payment for
+the materials, it will ask the top ten contributors at [[id:eb11ab9d-aab7-4d9b-aeaf-a228ef33d4da][Alcor]] and [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]]
 to submit potential names for the new dockable megaships. Submissions
-will be subject to review by the Brewer Corporation board of directors.
+will be subject to review by the [[id:d9459015-dae3-4233-9eb7-a2fb11344097][Brewer Corporation]] board of directors.
 
-Each tier reached will enable Brewer Corporation to add the following to
-the Colonia Bridge route for the 28th of October 3307.
+Each tier reached will enable [[id:d9459015-dae3-4233-9eb7-a2fb11344097][Brewer Corporation]] to add the following to
+the [[id:97a8c7e5-9399-4ebe-9457-8029ce809303][Colonia Bridge]] route for the 28th of October 3307.
 Tier 1: 5 dockable megaships
 Tier 2: 5 additional dockable megaships
 Tier 3: 5 additional dockable megaships
 Tier 4: 5 additional dockable megaships
 Tier 5: 5 additional dockable megaships
 
-Additionally, Brewer Corporation will offer reductions to Fleet Carriers
-and Fleet Carrier outfitting at Macdonald Settlement in the Alcor
+Additionally, [[id:d9459015-dae3-4233-9eb7-a2fb11344097][Brewer Corporation]] will offer reductions to Fleet Carriers
+and [[id:28dcc8eb-311b-416d-af66-5b9922625d6d][Fleet Carrier]] outfitting at Macdonald Settlement in the [[id:eb11ab9d-aab7-4d9b-aeaf-a228ef33d4da][Alcor]]
 system, based on the tier reached. These will last for one week starting
 on Friday the 15th of October 3307.
 Tier 1 will provide a 10% discount. Each additional tier will provide a

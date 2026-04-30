@@ -11,7 +11,7 @@ Qureshi Enterprise | Khaka
 
 * Objective
 
-Sell Battle Weapons, Non-Lethal Weapons, Personal Weapons and Reactive
+Sell [[id:6f8b14ec-06ee-4f36-b646-15146a0ca81b][Battle Weapons]], [[id:ad10ac93-2116-4762-a42a-39762dd8b378][Non-Lethal Weapons]], [[id:f7cecb6c-6f5a-484b-8360-fb299214131e][Personal Weapons]] and Reactive
 Armour to Qureshi Entreprise
 
 * Progress
@@ -35,12 +35,12 @@ Tier 12
 Finished
 
 The Khaka Future Party have begun preparing Qureshi Entreprise to
-receive members of the Federal Nave for the assault on Lugh. As part of
+receive members of the Federal Nave for the assault on [[id:5a007482-56ef-4f60-83e7-58b4089a0020][Lugh]]. As part of
 those preparations, the Khaka Future Party are currently looking to
 source a large supply of Weapons to help equip conscripts with the gear
 they'll need to overthrow the rebel forces.
 
 To help establish a temporary supply chain, President Halsey has given
 the Khaka Future Party access to a sizeable war chest which will be used
-to provide bonus payments to any trader willing to supply the Federation
+to provide bonus payments to any trader willing to supply the [[id:847b877e-8a00-4e9c-baa3-22f2a071c74b][Federation]]
 with weapons during this time of war.

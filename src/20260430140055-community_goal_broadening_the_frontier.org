@@ -11,7 +11,7 @@ Nourse Orbital | Lambda Andromedae
 
 * Objective
 
-Sell Exploration Data to the Sirius Corporation aboard Nourse Orbital
+Sell Exploration Data to the [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]] aboard Nourse Orbital
 
 * Progress
 
@@ -33,7 +33,7 @@ Tier 6
 
 Finished
 
-As innovators at the forefront of human colonisation, the Sirius
+As innovators at the forefront of human colonisation, the [[id:83f24d98-a30b-4917-8352-a2d0b4f8ee65][Sirius]]
 Corporation has a proud history of seeding life amongst the stars. Now
 the time has come for a new wave of interstellar expansion that will see
 the corporation launch a fleet of outposts into the cold depths of
@@ -45,5 +45,5 @@ Ideal candidates will either have earth-like planets, good terraforming
 possibilities or exceptional natural resources.
 
 Commanders interested in participating in the exploration portion of
-this project must register as official agents of the Sirius Corporation
+this project must register as official agents of the [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]]
 aboard Nourse Orbital before submitting any data for analysis.

@@ -7,11 +7,11 @@
 
 * Location
 
-Dyson City | Paresa
+[[id:f45acd08-6a6f-46c8-94b2-3a0453211248][Dyson City]] | [[id:9147b1a8-a73f-4144-b614-8e876943c10e][Paresa]]
 
 * Objective
 
-Deliver HR 7221 Wheat, Yaso Kondi Leaf, Chateau De Aegaeon and Indi
+Deliver [[id:3e97a232-8596-4e01-9c73-2859b0add0b2][HR 7221 Wheat]], [[id:91faf122-5fcc-4d6d-b4b2-1b420faac9a7][Yaso Kondi Leaf]], [[id:a8e39d40-99a9-4f9a-982c-82895e20f5e4][Chateau De Aegaeon]] and Indi
 Bourbon
 
 * Progress
@@ -34,25 +34,25 @@ Tier 4/5
 
 Finished
 
-Lady Astrid Minerva-Duval, wife of Hadrian Duval, has delivered a baby
+Lady [[id:ef9ddb06-8cb2-4c3f-a688-469be3149aa9][Astrid Minerva-Duval]], wife of Hadrian Duval, has delivered a baby
 boy at an undisclosed secure location while under senatorial
 protection.
 
-The child has been named Hector Mordanticus Duval. Despite Hadrian not
-being an official member of the Imperial Family, many citizens are
+The child has been named [[id:c51145ab-32ee-42ec-a884-bbbc263b06dd][Hector Mordanticus Duval]]. Despite Hadrian not
+being an official member of the [[id:85e6fd5f-69a0-4f7c-95d0-ddb89ef150e9][Imperial Family]], many citizens are
 jubilant at the arrival of a new Duval.
 
-Nova Paresa has organised an initiative to gather rare commodities for
+[[id:1922c60c-fe76-49f4-ae46-e3e70d19514b][Nova Paresa]] has organised an initiative to gather rare commodities for
 its former leader to celebrate the historic occasion. Pilots are asked
-to deliver Chateau De Aegaeon, HR 7221 Wheat, Indi Bourbon and Yaso
-Kondi Leaf to Dyson City in the Paresa system.
+to deliver [[id:a8e39d40-99a9-4f9a-982c-82895e20f5e4][Chateau De Aegaeon]], [[id:3e97a232-8596-4e01-9c73-2859b0add0b2][HR 7221 Wheat]], [[id:ffcc8c23-1721-41cb-9cb7-c849292c8b38][Indi Bourbon]] and Yaso
+Kondi Leaf to [[id:f45acd08-6a6f-46c8-94b2-3a0453211248][Dyson City]] in the [[id:9147b1a8-a73f-4144-b614-8e876943c10e][Paresa]] system.
 
-To reward contributing pilots, Gutamaya has agreed to an initial 10%
+To reward contributing pilots, [[id:aa5d0177-2807-4e3d-b0d0-1a40b3203598][Gutamaya]] has agreed to an initial 10%
 price reduction to all Imperial ships, including the Gu-97 fighter and
 fighter bays. A further 5% reduction will be applied per tier reached.
-This price reduction will be available in the Paresa, Cemiess and Cubeo
+This price reduction will be available in the [[id:9147b1a8-a73f-4144-b614-8e876943c10e][Paresa]], [[id:360ae21e-63f2-43ba-a2fd-a47e5e49951e][Cemiess]] and [[id:1cfcec06-5ac3-40b6-b08a-13086eb88466][Cubeo]]
 systems only, and will last for two weeks starting on the 10th of
-December 3307. Imperial Navy ranks requirements still apply.
+December 3307. [[id:e9becd28-9644-42aa-afc8-7bba3ce10076][Imperial Navy]] ranks requirements still apply.
 
 In addition, ship rewards will be provided according to the following:
 The top 10 contributors will receive an Imperial Clipper.
@@ -60,7 +60,7 @@ The top 25% of total contributors will receive an Imperial Courier.
 The top 75% of total contributors will receive an Imperial Eagle.
 
 The ship rewards are rank-free and cumulative. Ships will be placed in
-storage at Dyson City in the Paresa system for the 11th of December
+storage at [[id:f45acd08-6a6f-46c8-94b2-3a0453211248][Dyson City]] in the [[id:9147b1a8-a73f-4144-b614-8e876943c10e][Paresa]] system for the 11th of December
 3307.
 
 The campaign begins on the 2nd of December 3307 and will run for one
