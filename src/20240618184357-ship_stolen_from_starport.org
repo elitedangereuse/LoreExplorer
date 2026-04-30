@@ -8,14 +8,14 @@
 
 /25 Apr 3305/
 
-An independent pilot’s ship has been stolen from a starport hangar in the [[id:12db1b22-8d5c-482f-a91b-00021258a388][Vega]] system. 
+An independent pilot’s ship has been stolen from a starport hangar in the [[id:12db1b22-8d5c-482f-a91b-00021258a388][Vega]] system.
 
-The ship’s owner, Commander [[id:402b68db-0062-4dcb-a946-a80d95de5133][Bjorn Lennox]], told Vox Galactica: 
+The ship’s owner, Commander [[id:402b68db-0062-4dcb-a946-a80d95de5133][Bjorn Lennox]], told Vox Galactica:
 
-“I’d docked my Diamondback Explorer at Fort Dixon for some routine maintenance, and to enjoy a short break following a deep space exploration voyage. When I went back to the landing pad I discovered the hangar was empty and my ship had gone missing!” 
+“I’d docked my Diamondback Explorer at Fort Dixon for some routine maintenance, and to enjoy a short break following a deep space exploration voyage. When I went back to the landing pad I discovered the hangar was empty and my ship had gone missing!”
 
-The starport issued a statement from Security Chief Misaki Sanders: 
+The starport issued a statement from Security Chief [[id:919f1708-360d-410a-9f1b-95ce8103df82][Misaki Sanders]]:
 
-“We are at a loss to explain how the thief managed to hijack our security network, gain entry to a docked and sealed ship, and override authorisation checks to fly out of the station unchallenged.” 
+“We are at a loss to explain how the thief managed to hijack our security network, gain entry to a docked and sealed ship, and override authorisation checks to fly out of the station unchallenged.”
 
 “Nearby systems have been alerted and we are collecting leads to track down the stolen vessel. In the meantime, we are conducting an inquiry into how these breaches of docking bay protocols could have occurred.”

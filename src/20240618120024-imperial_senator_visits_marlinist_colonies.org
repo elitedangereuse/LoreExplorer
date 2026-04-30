@@ -8,7 +8,7 @@
 
 /09 Apr 3307/
 
-Senator Lorcan Scordato has visited the Marlinist Colonies on a fact-finding mission as part of the Empire’s anti-terrorism operations.
+Senator [[id:8cfd3744-1045-457f-900e-715fe6c15ca8][Lorcan Scordato]] has visited the Marlinist Colonies on a fact-finding mission as part of the Empire’s anti-terrorism operations.
 
 The [[id:626a18d7-ad16-4093-b9be-d9dc1940594b][Imperial Herald]] was permitted to publish this summary of his preliminary report:
 
@@ -18,6 +18,6 @@ The [[id:626a18d7-ad16-4093-b9be-d9dc1940594b][Imperial Herald]] was permitted t
 
 “Regarding the NMLA, there is widespread anger that they have made all Marlinists look like monsters. Only rarely did I sense guarded approval, with the vast majority openly condemning the terrorists.”
 
-“The Marlinist Parliament is small but efficient, containing a spectrum of viewpoints. First Minister Fairfax is focused on cohesion and survival, Amrita Ross discussed future reintegration with the Empire, while [[id:83ddd0cb-e22d-4586-bc11-692af4a335c8][Aaron Whyte]] sees Neo-Marlinism as a valid political movement if violence can be avoided.”
+“The Marlinist Parliament is small but efficient, containing a spectrum of viewpoints. First Minister Fairfax is focused on cohesion and survival, [[id:eadb4e1d-bb5f-4f30-b0c6-b09243b66031][Amrita Ross]] discussed future reintegration with the Empire, while [[id:83ddd0cb-e22d-4586-bc11-692af4a335c8][Aaron Whyte]] sees Neo-Marlinism as a valid political movement if violence can be avoided.”
 
 “Months ago these were ordinary Imperial citizens, and our shared history still binds us. Generally, I feel that the Marlinist Colonies are closer to allies than enemies in our war against the NMLA.”

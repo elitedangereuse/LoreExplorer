@@ -12,7 +12,7 @@
 
 Commanders have been asked to help destroy the rogue Grey Swan pilots killing civilians in the Shamash system.
 
-Military squadrons taking part in Fleet Exercise Grey Swan became irrationally violent following an unexplained mass hysteria that swept through Garrett Orbital during a fleet training exercise. Captain Ulrich Maurer, commanding officer of the San Tu State Network [[id:751c84bc-ea85-495d-923c-7776da57803a][megaship]] Khonsu Gleam, broadcast the following message:
+Military squadrons taking part in Fleet Exercise Grey Swan became irrationally violent following an unexplained mass hysteria that swept through Garrett Orbital during a fleet training exercise. Captain [[id:f5070ea1-b542-4215-a2e2-9ffa52fa27c1][Ulrich Maurer]], commanding officer of the San Tu State Network [[id:751c84bc-ea85-495d-923c-7776da57803a][megaship]] Khonsu Gleam, broadcast the following message:
 
 “Shamash Future’s security forces have asked us to help stop the carnage taking place throughout this system. No medical or technological solution has been found for affected pilots, who seem reluctant to leave Shamash. Therefore, to prevent the loss of more innocent lives, there is regrettably no choice but to eliminate every ship in the Grey Swan fleet.”
 

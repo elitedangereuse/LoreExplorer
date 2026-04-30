@@ -14,6 +14,6 @@ The Interstellar Health Organisation (IHO) has delivered a preliminary report on
 
 “Having confirmed the product’s effectiveness, IHO teams are now conducting independent tests with patients.”
 
-Media outlet [[id:4ab0f53c-0b85-43a3-83ca-b9e88c0db30e][Vox Galactica]] published this viewpoint from healthcare analyst Dr Himari Grey:
+Media outlet [[id:4ab0f53c-0b85-43a3-83ca-b9e88c0db30e][Vox Galactica]] published this viewpoint from healthcare analyst Dr [[id:bfd112d0-32f3-4f9e-9a78-b84a043c493b][Himari Grey]]:
 
-“The pharmaceutical industry is astonished that a small company like Vitadyne could produce something so advanced. Professor Katrien Rook’s credentials are impeccable, of course, but this is a work of genius. These nanomeds could be the most exciting thing in medicine for decades.”
+“The pharmaceutical industry is astonished that a small company like Vitadyne could produce something so advanced. Professor [[id:c39e36c5-83ba-4e22-8dc1-c5705b33910a][Katrien Rook]]’s credentials are impeccable, of course, but this is a work of genius. These nanomeds could be the most exciting thing in medicine for decades.”

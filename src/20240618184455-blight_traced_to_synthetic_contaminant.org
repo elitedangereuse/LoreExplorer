@@ -16,7 +16,7 @@ Gino Borstein of the [[id:d75a6c3f-5c3a-418b-b639-5e14b487f568][Federal Intellig
 
 “The contaminant has a unique synthetic composition specifically designed to introduce a highly aggressive pathogen that quickly destroys plant matter. Our investigations have uncovered several potential leads, and we expect to identify the contaminant’s point of origin soon.”
 
-Vox Galactica journalist Adalyn Cross commented:
+Vox Galactica journalist [[id:e31873d0-3bf1-4162-ad26-8d354ad10552][Adalyn Cross]] commented:
 
 “Taken at face value, this seems to absolve Rockforth of causing the blight. But there may yet be culpability issues, considering the company’s cavalier attitude towards regulatory checks. Commentators have pointed to the requests made by the Interstellar Association for Agriculture as evidence that the company placed profit above safety.”
 

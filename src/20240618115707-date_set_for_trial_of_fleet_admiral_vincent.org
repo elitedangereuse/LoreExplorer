@@ -8,7 +8,7 @@
 
 /11 Jan 3307/
 
-Fleet Admiral Lucas Vincent of the [[id:3d268496-1d95-49bc-aca6-49d16a4337c8][Federal Navy]] will stand trial on the 25th of January, charged with conspiracy to commit murder and treason.
+Fleet Admiral [[id:a0ba80b7-5db6-407c-8296-6eb5a8b01b55][Lucas Vincent]] of the [[id:3d268496-1d95-49bc-aca6-49d16a4337c8][Federal Navy]] will stand trial on the 25th of January, charged with conspiracy to commit murder and treason.
 
 The Federal Attorney’s Office has successfully obtained a grand jury indictment against Fleet [[id:478137a2-59fc-4055-ba37-021ef7035652][Admiral Vincent]]. He is accused of arranging the sabotage of presidential vessel [[id:85fdc9c8-500b-4e91-bc8b-70bcb3c05b0f][Starship One]] in 3301, to assassinate then-President [[id:a9ccf59f-436e-44df-b041-5020285925f8][Jasmina Halsey]]. Although she was later recovered alive, hundreds died when the ship was destroyed in flight.
 

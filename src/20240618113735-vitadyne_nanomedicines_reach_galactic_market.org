@@ -10,7 +10,7 @@
 
 The nanomedicines developed in December 3304 by Vitadyne Labs have been approved for distribution to medical facilities across the galaxy.
 
-At the time of Vitadyne’s original announcement, the nanomedicines were believed to be mere weeks away from widespread availability. The Interstellar Health Organisation (IHO) had verified the medicine’s healing properties, and Vitadyne Labs owner Professor Katrien Rook had been hailed as a genius for spearheading the research and development project.
+At the time of Vitadyne’s original announcement, the nanomedicines were believed to be mere weeks away from widespread availability. The Interstellar Health Organisation (IHO) had verified the medicine’s healing properties, and Vitadyne Labs owner Professor [[id:c39e36c5-83ba-4e22-8dc1-c5705b33910a][Katrien Rook]] had been hailed as a genius for spearheading the research and development project.
 
 But some questioned how a relatively small company could produce such advanced drugs – questions that were answered when [[id:05ab22a7-9952-49a3-bdc0-45094cdaff6a][Pranav Antal]] announced that the nanomeds were derived from pharmaceuticals developed by the Utopia commune. Responding to accusations of theft, Professor Rook clarified that the original nanomeds had been legally salvaged from the wreckage of a Utopian transport ship.
 

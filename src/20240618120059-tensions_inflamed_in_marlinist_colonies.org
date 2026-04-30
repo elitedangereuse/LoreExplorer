@@ -14,8 +14,8 @@ Local newsfeed The Marlin Standard reported on current events:
 
 “Our entire society is still reeling in shock after last week’s attacks against Stillman Hub and Tilman Point stations. There has been mass panic in fear of further terrorist strikes, with unprecedented scenes of violence against known Neo-Marlinist supporters.”
 
-“Without the respected leadership of First Minister [[id:71f78d3e-edc5-423c-8b74-0bad5470c6f5][Jenna Fairfax]], angry exchanges and recriminations have divided the Marlinist Parliament. Minister [[id:83ddd0cb-e22d-4586-bc11-692af4a335c8][Aaron Whyte]] claimed that ‘we invited this tragedy upon ourselves’ by not voting for a Neo-Marlinist prime consul. In response, Minister Octavia Volkov called for Whyte’s arrest as ‘an accessory to mass murder’.”
+“Without the respected leadership of First Minister [[id:71f78d3e-edc5-423c-8b74-0bad5470c6f5][Jenna Fairfax]], angry exchanges and recriminations have divided the Marlinist Parliament. Minister [[id:83ddd0cb-e22d-4586-bc11-692af4a335c8][Aaron Whyte]] claimed that ‘we invited this tragedy upon ourselves’ by not voting for a Neo-Marlinist prime consul. In response, Minister [[id:e40d1cb7-d2aa-4449-95e8-eca5fc807bbb][Octavia Volkov]] called for Whyte’s arrest as ‘an accessory to mass murder’.”
 
-“Some community leaders expressed sorrow at a lost opportunity to establish a Marlinist presence in the [[id:6b539fa1-7ebe-44d3-874b-41a3bd400af9][Imperial Senate]]. This is certainly the view of Acting First Minister Amrita Ross, who believes in rejoining the Empire.”
+“Some community leaders expressed sorrow at a lost opportunity to establish a Marlinist presence in the [[id:6b539fa1-7ebe-44d3-874b-41a3bd400af9][Imperial Senate]]. This is certainly the view of Acting First Minister [[id:eadb4e1d-bb5f-4f30-b0c6-b09243b66031][Amrita Ross]], who believes in rejoining the Empire.”
 
 “All of which has led to a baptism of fire for Prime Consul Kayode Tau, whose focus has been on arranging medical aid from the Alliance and Federation. It may be that the Marlinist Consulate will soon be called upon to mediate between its own people.”

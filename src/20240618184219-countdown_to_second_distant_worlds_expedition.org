@@ -8,14 +8,14 @@
 
 /04 Jan 3305/
 
-Preparations are underway for the second Distant Worlds expedition, which will see a community of explorers cross the galaxy. 
+Preparations are underway for the second Distant Worlds expedition, which will see a community of explorers cross the galaxy.
 
-Science correspondent Leon Banerjee provided an overview for the Vox Galactica media outlet: 
+Science correspondent [[id:f47499fd-ddf1-426e-b7fa-08a0df2d65ac][Leon Banerjee]] provided an overview for the Vox Galactica media outlet:
 
-“The first Distant Worlds mission, in 3302, was the largest fleet expedition in history, and saw over a thousand ships travel to [[id:80ea667a-62b4-4082-bed0-ce253d76869b][Beagle Point]] and back.” 
+“The first Distant Worlds mission, in 3302, was the largest fleet expedition in history, and saw over a thousand ships travel to [[id:80ea667a-62b4-4082-bed0-ce253d76869b][Beagle Point]] and back.”
 
-“Distant Worlds II has even loftier ambitions, involving an impressive voyage through the heart of the galaxy, mapping unexplored regions and making new scientific discoveries. It will also involve the construction of a starport dedicated to the study of [[id:84d9b01d-a9d6-47d9-b9f9-f6154233e585][Sagittarius A*]]*.” 
+“Distant Worlds II has even loftier ambitions, involving an impressive voyage through the heart of the galaxy, mapping unexplored regions and making new scientific discoveries. It will also involve the construction of a starport dedicated to the study of [[id:84d9b01d-a9d6-47d9-b9f9-f6154233e585][Sagittarius A*]]*.”
 
-“Project leaders Erimus Kamzel and Dr Kaii report that nearly four thousand courageous Commanders will take part, despite the risks involved, in a journey of over 200,000 light years.” 
+“Project leaders [[id:0250dc51-7007-47d9-92e3-db41de666cbc][Erimus Kamzel]] and Dr Kaii report that nearly four thousand courageous Commanders will take part, despite the risks involved, in a journey of over 200,000 light years.”
 
 Distant Worlds II is scheduled to launch in January 3305, with the complete round trip lasting approximately three hundred days.

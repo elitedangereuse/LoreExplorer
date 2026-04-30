@@ -8,14 +8,14 @@
 
 /19 Oct 3304/
 
-An attempt by armed intruders to access Phoenix Base in the Meene system has been foiled. The base is the home of engineer [[id:4551539e-a6b2-4c45-8923-40fb603202b7][Ram Tah]]. 
+An attempt by armed intruders to access Phoenix Base in the Meene system has been foiled. The base is the home of engineer [[id:4551539e-a6b2-4c45-8923-40fb603202b7][Ram Tah]].
 
-Security Chief Harper Vargas gave this report: 
+Security Chief [[id:0bd61b69-66c6-4be7-abfc-0395734bdc72][Harper Vargas]] gave this report:
 
-“Defensive systems alerted us to a small group of intruders who had breached the base’s perimeter. Our teams engaged them in combat and forced them back to a waiting ship. Unfortunately, we were unable to identify the ship or prevent it from escaping.” 
+“Defensive systems alerted us to a small group of intruders who had breached the base’s perimeter. Our teams engaged them in combat and forced them back to a waiting ship. Unfortunately, we were unable to identify the ship or prevent it from escaping.”
 
-“During the incursion, the intruders used explosives to sabotage the base’s power network. Fortunately, the base remains operational." 
+“During the incursion, the intruders used explosives to sabotage the base’s power network. Fortunately, the base remains operational."
 
-[[id:4551539e-a6b2-4c45-8923-40fb603202b7][Ram Tah]] told the media: 
+[[id:4551539e-a6b2-4c45-8923-40fb603202b7][Ram Tah]] told the media:
 
 “I believe this was an attempt to steal research data or samples of Guardian technology – the implications of which are most disturbing. Although the attempt failed, it has disrupted my important research.”

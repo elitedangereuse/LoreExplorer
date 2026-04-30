@@ -12,7 +12,7 @@
 
 A delivery campaign in the HIP 22550 system will help build additional starports for the Marlinist Colonies.
 
-First Minister Octavia Volkov delivered this public address:
+First Minister [[id:e40d1cb7-d2aa-4449-95e8-eca5fc807bbb][Octavia Volkov]] delivered this public address:
 
 “The Marlinist Colonies were born out of desperation, but we have evolved into a fully fledged society. Emperor Arissa has formally accepted our status as an autonomous democracy, albeit one that retains cultural and historical ties with the Empire.”
 

@@ -18,7 +18,7 @@ Vox Galactica published a fragmented message transmitted by the engineer [[id:ff
 
 “…emergency SOS from the [[id:9eb04a19-52b5-4650-8d44-a5497225789e][Shenve]] system. The Thargoids… full-scale invasion. They’ve hit us hard. The… evacuated my team and abandoned Cinder Dock. We’re trying to get clear from… swarms of them, in every direction we turn. If anyone’s receiving this, we’re…”
 
-Captain Warren Lamar, head of security for the [[id:f9e96dfd-3161-46b0-a9bc-0335447c4693][Alliance Expeditionary Pact]], made this statement:
+Captain [[id:8b9c9a86-0ecd-47bb-870b-b12366040ea4][Warren Lamar]], head of security for the [[id:f9e96dfd-3161-46b0-a9bc-0335447c4693][Alliance Expeditionary Pact]], made this statement:
 
 “In recent years we’ve fought off several Thargoid strikes, but the sheer scale of these attacks is unprecedented. The Golden Stag megaship in [[id:2b846add-6e61-41aa-9ad6-3bf02898e6e0][Onoros]] has been destroyed, with most of our forces scattered. I’ve urgently requested reinforcements from the Alliance, but we are desperate for immediate support.”
 

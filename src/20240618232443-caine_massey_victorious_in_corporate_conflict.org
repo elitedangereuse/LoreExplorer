@@ -12,14 +12,14 @@
 
 Fierce combat in the Tavgi system has resulted in Caine-Massey’s partner Tavgi Blue Life Inc overcoming Torval Mining Ltd resistance.
 
-The conflict was triggered by the murder of Caine-Massey’s former CEO Johann Fleischer. The assassin was tracked from Mars to the Torval Mining megaship Orchestral Falcon. Circumstantial evidence suggested he was an undercover Imperial agent.
+The conflict was triggered by the murder of Caine-Massey’s former CEO [[id:8e322aa9-b969-49a4-be27-339e3c107d10][Johann Fleischer]]. The assassin was tracked from Mars to the Torval Mining megaship Orchestral Falcon. Circumstantial evidence suggested he was an undercover Imperial agent.
 
-Philippa Barlow-Lyons, acting CEO of the Caine-Massey corporation, declared:
+[[id:9ce6de47-2249-427a-8df2-268968426b6e][Philippa Barlow-Lyons]], acting CEO of the Caine-Massey corporation, declared:
 
 “Largely thanks to tremendous support from Federal auxiliaries, the path was cleared for us to take control of the Orchestral Falcon megaship. Only then did Torval Mining Ltd agree to hand over Johann’s killer, rather than risk the loss of its precious vessel. A security team has now delivered him to Federal authorities, where I am sure we will see justice finally served.”
 
-The [[id:d75a6c3f-5c3a-418b-b639-5e14b487f568][Federal Intelligence Agency]] provided an update to the media from Executive Agent Viola Trask:
+The [[id:d75a6c3f-5c3a-418b-b639-5e14b487f568][Federal Intelligence Agency]] provided an update to the media from Executive Agent [[id:15de31ea-1df8-4f54-9530-9d560bbd7dbc][Viola Trask]]:
 
-“The man in our custody has been formally arrested and charged with the homicide of Johann Fleischer. All known IDs associated with him are false. Along with the skills he displayed, this suggests that he is a professional assassin. We are working with the Proactive Detection Bureau and the [[id:3d268496-1d95-49bc-aca6-49d16a4337c8][Federal Navy]] Intelligence Office to broaden the scope of this investigation.”
+“The man in our custody has been formally arrested and charged with the homicide of [[id:8e322aa9-b969-49a4-be27-339e3c107d10][Johann Fleischer]]. All known IDs associated with him are false. Along with the skills he displayed, this suggests that he is a professional assassin. We are working with the Proactive Detection Bureau and the [[id:3d268496-1d95-49bc-aca6-49d16a4337c8][Federal Navy]] Intelligence Office to broaden the scope of this investigation.”
 
 Independent pilots who fought on behalf of Tavgi Blue Life Inc during the conflict can collect their rewards from Gordon Enterprise. Despite its defeat, Torval Mining Ltd has also agreed to reimburse its supporters from the Orchestral Falcon.

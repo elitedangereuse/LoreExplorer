@@ -14,13 +14,13 @@ Conflict has erupted in the Hyades Sector RO-P b6-2 system between two factions 
 
 The Exiled Marlinist Assembly of Baltah'Sine has declared war against the Marlinism Reformation Party, which acts as the political wing of the NMLA.
 
-Political relations degenerated into open combat following the NMLA’s recent attacks, with Acting First Minister Amrita Ross’s efforts to negotiate a peaceful resolution proving unsuccessful.
+Political relations degenerated into open combat following the NMLA’s recent attacks, with Acting First Minister [[id:eadb4e1d-bb5f-4f30-b0c6-b09243b66031][Amrita Ross]]’s efforts to negotiate a peaceful resolution proving unsuccessful.
 
 A new megaship, Freedom’s Voice, has entered service. It is acting as the operational base for the forces of the Exiled Marlinist Assembly of Baltah'Sine.
 
 Supporters of the Marlinism Reformation Party are gathering at the Steel Majesty megaship. This was formerly used by the Neo-Marlinist Order of Mudhrid to flee from their home system.
 
-Minister Octavia Volkov announced in parliament:
+Minister [[id:e40d1cb7-d2aa-4449-95e8-eca5fc807bbb][Octavia Volkov]] announced in parliament:
 
 “[[id:83ddd0cb-e22d-4586-bc11-692af4a335c8][Aaron Whyte]] and his collaborators are directly responsible for tens of thousands of deaths. I will not rest until they are defeated and brought to justice.”
 

@@ -8,12 +8,12 @@
 
 /03 Jul 3305/
 
-A new research megaship and relay station constructed by the Distant Worlds II exploratory fleet have become operational. 
+A new research megaship and relay station constructed by the Distant Worlds II exploratory fleet have become operational.
 
-Project leader Erimus Kamzel made a statement on behalf of those involved in the expedition: 
+Project leader [[id:0250dc51-7007-47d9-92e3-db41de666cbc][Erimus Kamzel]] made a statement on behalf of those involved in the expedition:
 
-“We are very proud to announce the launch of the DSSV Distant Worlds megaship, dedicated to the DW II fleet who built it. We look forward to its maiden voyage as it embarks on a journey of scientific study around the galactic core.” 
+“We are very proud to announce the launch of the DSSV Distant Worlds megaship, dedicated to the DW II fleet who built it. We look forward to its maiden voyage as it embarks on a journey of scientific study around the galactic core.”
 
-The DSSV Distant Worlds will follow a circular route between six systems in the Galactic Centre region, with scheduled hyperspace jumps every two weeks. It is currently based at Explorer’s Anchorage. 
+The DSSV Distant Worlds will follow a circular route between six systems in the Galactic Centre region, with scheduled hyperspace jumps every two weeks. It is currently based at Explorer’s Anchorage.
 
 The relay station, Event Horizon, has also become operational in the [[id:35fe6a51-9492-44a7-9dc5-4a5395ae732f][Stuemeae FG-Y d7561]] system. This installation will gather scientific data on the supermassive black hole [[id:84d9b01d-a9d6-47d9-b9f9-f6154233e585][Sagittarius A*]]*, and provide research facilities and residence for scientists at the heart of the galaxy.

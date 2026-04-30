@@ -14,7 +14,7 @@ Professor [[id:8f63442a-1f38-457d-857a-38297d732a90][Ishmael Palin]] gave a stat
 
 “Data correlated from many long-range scans proves that the anomaly’s velocity is reducing steadily. At its present rate of descent, Taranis will arrive at Hyades Sector FB-N b7-6 in approximately 24 hours. I have sent a research team, led by my colleague Dr Leroux, to gather data on its arrival.”
 
-Admiral Maxton Price of the [[id:3d268496-1d95-49bc-aca6-49d16a4337c8][Federal Navy]] commented:
+Admiral [[id:fc81c469-4d55-4c83-bf0e-1f687e46af2c][Maxton Price]] of the [[id:3d268496-1d95-49bc-aca6-49d16a4337c8][Federal Navy]] commented:
 
 “Fortunately, this particular system is uninhabited so no populations are directly at risk. We are monitoring the situation rather than deploying capital ships. Civilian traffic is ordered not to enter Hyades Sector FB-N b7-6 until we know more about Taranis’s capabilities.”
 

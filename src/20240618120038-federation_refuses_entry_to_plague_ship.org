@@ -12,7 +12,7 @@ The Alexandria megaship has been warned that it faces destruction if it attempts
 
 The Aegis-owned vessel triggered a full-scale Thargoid incursion when it arrived in the HIP 16538 system. This seemed to be a reaction to the huge quantities of Guardian artefacts currently stored within its cargo holds.
 
-Captain Jacob Morales, the Alexandria’s commander, broadcast this message:
+Captain [[id:9d0f969d-3aa2-4329-8215-847e7c211081][Jacob Morales]], the Alexandria’s commander, broadcast this message:
 
 “The [[id:3d268496-1d95-49bc-aca6-49d16a4337c8][Federal Navy]] has instructed us not to resume our scheduled journey to [[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]] or enter any system within the Federation. They’re treating us like a plague ship! I understand their concern that more Thargoids will follow us, but we have several thousand crewmembers who need to reach safe harbour.”
 

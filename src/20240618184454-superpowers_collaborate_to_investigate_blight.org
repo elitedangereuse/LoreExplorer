@@ -10,13 +10,13 @@
 
 A collaborative body has been formed by the three superpowers to trace the source of the blight that is laying waste to crops on key agricultural worlds.
 
-The development was covered by journalist Adalyn Cross for Vox Galactica:
+The development was covered by journalist [[id:e31873d0-3bf1-4162-ad26-8d354ad10552][Adalyn Cross]] for Vox Galactica:
 
 “We know that the Rockforth fertiliser caused the advanced decay that has affected so many crops, but the specifics remain unclear. Was the corrupted fertiliser the result of an industrial manufacturing error, or perhaps sabotage by a rival company? Is there evidence of a deliberate effort to harm the people of the core systems?”
 
 “With billions of citizens facing food shortages, departments from all three superpowers are collaborating to identify the origin of the blight and halt its progress. The speed with which the blight has spread is frankly stunning.”
 
-Rex Whitlock, marketing director at [[id:a7056ff8-e67d-4ca9-baf1-7e5df3efa677][Rockforth Corporation]], released this statement:
+[[id:ba023bde-94f4-4d8f-aa8b-d8b9e693f97c][Rex Whitlock]], marketing director at [[id:a7056ff8-e67d-4ca9-baf1-7e5df3efa677][Rockforth Corporation]], released this statement:
 
 “This development has come as a shock to everyone at Rockforth. Our EX7 fertiliser passed many rigorous tests and successfully increased crop productivity in controlled experiments, so we have no explanation for its calamitous effects.”
 

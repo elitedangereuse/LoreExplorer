@@ -16,7 +16,7 @@ Local newsfeed The Marlin Standard detailed the situation:
 
 “One of the two leading candidates is Verity Dexter from the Marlinism Reformation Party, who promises to speak for the Neo-Marlinist fringe. The Free Marlinist Movement’s candidate, Kayode Tau, directly opposes that position.”
 
-“Senator Lorcan Scordato has championed Dexter’s bid, proposing that she be recognised as an Imperial patron to represent pro-Marlinist citizens of the Empire. Despite many protests, Chancellor Blaine concurred that patronage is within the purview of individual senators.”
+“Senator [[id:8cfd3744-1045-457f-900e-715fe6c15ca8][Lorcan Scordato]] has championed Dexter’s bid, proposing that she be recognised as an Imperial patron to represent pro-Marlinist citizens of the Empire. Despite many protests, Chancellor Blaine concurred that patronage is within the purview of individual senators.”
 
 “Some Marlinists see this as a chance to finally obtain influence in the Senate, after centuries of being marginalised. Others are enraged at Neo-Marlinists gaining legitimacy and acting as the NMLA’s political wing.”
 

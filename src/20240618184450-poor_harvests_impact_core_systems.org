@@ -10,7 +10,7 @@
 
 The impact of low crop yields in key agricultural systems has reached civilian populations, prompting public concerns over food availability.
 
-Freelance journalist Adalyn Cross published this report on Vox Galactica:
+Freelance journalist [[id:e31873d0-3bf1-4162-ad26-8d354ad10552][Adalyn Cross]] published this report on Vox Galactica:
 
 “The scarcity of fresh fruit and vegetables has become a major concern. Despite the efforts of agricultural bodies and corporations to prevent shortages from affecting the general public, the availability of produce is believed to have fallen further in recent weeks.”
 
@@ -18,6 +18,6 @@ Freelance journalist Adalyn Cross published this report on Vox Galactica:
 
 “It’s clear that the situation is more complicated than a mere bad harvest, but as yet there has been little effective response from local governments.”
 
-In related news, the [[id:a7056ff8-e67d-4ca9-baf1-7e5df3efa677][Rockforth Corporation]] has publically responded to the Interstellar Association for Agriculture, following requests for compliance documentation related to its new fertiliser. Rockforth marketing director Rex Whitlock made this statement:
+In related news, the [[id:a7056ff8-e67d-4ca9-baf1-7e5df3efa677][Rockforth Corporation]] has publically responded to the Interstellar Association for Agriculture, following requests for compliance documentation related to its new fertiliser. Rockforth marketing director [[id:ba023bde-94f4-4d8f-aa8b-d8b9e693f97c][Rex Whitlock]] made this statement:
 
 “We see it as our duty to lead the recovery of affected farming communities, and our revolutionary fertiliser will play a big role. I have full confidence that our new product meets the IAA’s standards, and we will fulfil their request at the earliest opportunity.”
