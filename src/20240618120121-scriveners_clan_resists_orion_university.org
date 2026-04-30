@@ -8,14 +8,14 @@
 
 /22 Oct 3307/
 
-The spacefaring tribe that lives aboard an ancient dredger has refused to allow Orion University to take possession of the vessel. 
+The spacefaring tribe that lives aboard an ancient dredger has refused to allow [[id:b0f0e40a-14e9-422d-aa9d-5ff6296f3421][Orion University]] to take possession of the vessel.
 
-Vox Galactica published an eye-witness account by freelance reporter Casey Kilpatrick from the Oochost PC-C c29-0 system: 
+[[id:4ab0f53c-0b85-43a3-83ca-b9e88c0db30e][Vox Galactica]] published an eye-witness account by freelance reporter Casey Kilpatrick from the Oochost PC-C c29-0 system:
 
-“Once the Scriveners Clan was found, it wasn’t long before Orion University arrived. Their megaship, Scientia Aeterna, remotely disabled the dredger’s hyperdrive using a series of override codes. These had been unearthed from the university’s archives, along with evidence that the ship – commissioned in 3088 as Dredger J-403 – legally belongs to them.” 
+“Once the Scriveners Clan was found, it wasn’t long before Orion University arrived. Their [[id:751c84bc-ea85-495d-923c-7776da57803a][megaship]], Scientia Aeterna, remotely disabled the dredger’s [[id:f9515545-c736-42cc-88ec-f3f269afd1b8][hyperdrive]] using a series of override codes. These had been unearthed from the university’s archives, along with evidence that the ship – commissioned in 3088 as Dredger J-403 – legally belongs to them.”
 
-“Despite being unable to escape, the Scriveners have made a stand. All requests to communicate were roundly ignored. I’ve watched several craft try to dock with the dredger, only to be met with sealed airlocks and an electrified hull.” 
+“Despite being unable to escape, the Scriveners have made a stand. All requests to communicate were roundly ignored. I’ve watched several craft try to dock with the dredger, only to be met with sealed airlocks and an electrified hull.”
 
-“It’s clear that these people are unwilling to give up their home simply because of centuries-old legislation. But it’s also apparent that Orion University is interested in more than just reclaiming lost property…” 
+“It’s clear that these people are unwilling to give up their home simply because of centuries-old legislation. But it’s also apparent that Orion University is interested in more than just reclaiming lost property…”
 
 “The Scriveners possess something that they refer to as a Knowledge Core, which contains everything that this scholarly society has learned during its long voyage. What discoveries might this database contain? And how far will the university go to get their hands on it?”

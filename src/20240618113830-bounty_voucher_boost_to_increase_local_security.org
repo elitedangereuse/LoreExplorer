@@ -8,16 +8,16 @@
 
 /30 Nov 3306/
 
-*Pilots Federation ALERT* 
+*Pilots Federation ALERT*
 
-Bounty hunters are advised that credit rewards for successfully destroyed targets have been increased. 
+Bounty hunters are advised that credit rewards for successfully destroyed targets have been increased.
 
-With the widespread redirection of resources toward faction and superpower militaries, local security forces are struggling to provide effective intra-system policing. Coupled with a rise in piracy and violent crime, this has led to a need for supplementary ships and manpower in the majority of systems. 
+With the widespread redirection of resources toward faction and superpower militaries, local security forces are struggling to provide effective intra-system policing. Coupled with a rise in piracy and violent crime, this has led to a need for supplementary ships and manpower in the majority of systems.
 
-As a result, bounty vouchers for known criminals are now worth more in Alliance, Imperial, Federal and independent space. This increase will be honoured by all starport security offices, and other locations that offer Interstellar Factor services. 
+As a result, bounty vouchers for known criminals are now worth more in [[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][Alliance]], [[id:77cf2f14-105e-4041-af04-1213f3e7383c][Imperial]], [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][Federal]] and independent space. This increase will be honoured by all starport security offices, and other locations that offer Interstellar Factor services.
 
-Bounty hunter groups and private law enforcement agencies are alerting their members to the changes. This message from the notorious Kazimir Clan is typical of the information being distributed: 
+Bounty hunter groups and private law enforcement agencies are alerting their members to the changes. This message from the notorious Kazimir Clan is typical of the information being distributed:
 
-“Don’t be surprised if you scan a wanted ship and it displays the same amount as it did before. Many security services haven’t updated their networks with the higher payouts – probably to make it look like they aren’t relying on us to do their dirty work. Once the claim is validated, the appropriate increase is applied and will be visible in your transactions panel.” 
+“Don’t be surprised if you scan a wanted ship and it displays the same amount as it did before. Many security services haven’t updated their networks with the higher payouts – probably to make it look like they aren’t relying on us to do their dirty work. Once the claim is validated, the appropriate increase is applied and will be visible in your transactions panel.”
 
 As with recent dramatic changes to the pricing of commodities, a period of volatility for bounties is expected as market forces define their true value in these uncertain times. As yet, the value of combat bonds has not been affected.

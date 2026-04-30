@@ -8,10 +8,10 @@
 
 /12 Oct 3303/
 
-A number of media feeds in the core systems have reported the discovery of an abandoned planetary outpost in the Hermitage system. 
+A number of media feeds in the core systems have reported the discovery of an abandoned planetary outpost in the Hermitage system.
 
-The reports, together with images captured by independent pilots, indicate that the outpost was controlled by the Intergalactic Naval Reserve Arm (INRA), a joint Federal-Imperial initiative established in the 3100s. 
+The reports, together with images captured by independent pilots, indicate that the outpost was controlled by the [[id:39a31dd8-3750-4507-90b7-b649d0eeecef][Intergalactic Naval Reserve Arm]] (INRA), a joint [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][Federal]]-[[id:77cf2f14-105e-4041-af04-1213f3e7383c][Imperial]] initiative established in the 3100s.
 
-Very little is known about the INRA, but reports from the time assert that it was established to address Thargoid incursions into human space, and that it developed a chemical weapon designed to target Thargoid technology. 
+Very little is known about the INRA, but reports from the time assert that it was established to address [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] incursions into human space, and that it developed a chemical weapon designed to target Thargoid technology.
 
 Reports that the site contains logs describing INRA research are currently being corroborated.
