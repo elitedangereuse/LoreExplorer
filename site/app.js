@@ -106,6 +106,8 @@ const state = {
   searchSelectedIndex: -1,
   searchExactNodeIds: [],
   searchWorkerReady: false,
+  searchIndexStatus: "idle",
+  searchIndexError: "",
   contextMenu: { open: false, nodeId: null },
   detectiveMode: false,
   panelWidth: 440,
@@ -847,6 +849,11 @@ function buildSearchDocFromNode(node, snippet = "") {
 }
 
 function refreshSearchWorkerIndex() {
+  if (state.searchIndexStatus !== "indexing" && state.searchIndexStatus !== "ready") {
+    state.searchDocs = [];
+    state.searchWorkerReady = false;
+    return;
+  }
   const customDocs = [];
   if (state.detectiveMode) {
     for (const layer of getVisibleInvestigationLayers()) {
@@ -861,6 +868,7 @@ function refreshSearchWorkerIndex() {
     }
   }
   state.searchDocs = [...state.baseSearchDocs, ...customDocs];
+  state.searchWorkerReady = false;
   worker.postMessage({ type: "init", payload: { docs: state.searchDocs } });
 }
 
@@ -1781,7 +1789,14 @@ function applySearchResults(payload) {
 
 function updateSearchQuery(query) {
   state.searchQuery = query;
-  if (!state.searchWorkerReady) return;
+  if (!state.searchWorkerReady) {
+    state.results = [];
+    state.searchSuggestion = null;
+    state.searchSelectedIndex = -1;
+    state.searchExactNodeIds = [];
+    updateCurrentNoteMeta();
+    return;
+  }
   querySearch(query);
 }
 
@@ -3591,6 +3606,33 @@ function renderSearchCompletionsPanel() {
   const query = state.searchQuery.trim();
   if (!query) {
     return "";
+  }
+  if (
+    state.searchIndexStatus === "loading"
+    || state.searchIndexStatus === "idle"
+    || state.searchIndexStatus === "indexing"
+    || (state.searchIndexStatus === "ready" && !state.searchWorkerReady)
+  ) {
+    return `
+      <div class="search-completions-panel">
+        <div class="search-completions-header">
+          <span class="meta-label">Completions</span>
+          <small>Search loading</small>
+        </div>
+        <div class="tool-empty">Search index is loading. Results will update automatically.</div>
+      </div>
+    `;
+  }
+  if (state.searchIndexStatus === "error") {
+    return `
+      <div class="search-completions-panel">
+        <div class="search-completions-header">
+          <span class="meta-label">Completions</span>
+          <small>Search unavailable</small>
+        </div>
+        <div class="tool-empty">${escapeHtml(state.searchIndexError || "Search index could not be loaded.")}</div>
+      </div>
+    `;
   }
   const results = getVisibleSearchResults();
   const countLabel = state.results.length
@@ -6215,15 +6257,38 @@ function applyUrlState() {
 worker.onmessage = (event) => {
   if (event.data.type === "ready") {
     state.searchWorkerReady = true;
+    state.searchIndexStatus = "ready";
     if (state.searchQuery.trim()) {
       querySearch(state.searchQuery);
     }
+    updateCurrentNoteMeta();
     return;
   }
   if (event.data.type === "results") {
     applySearchResults(event.data.payload);
   }
 };
+
+async function loadSearchDocsInBackground() {
+  state.searchIndexStatus = "loading";
+  state.searchIndexError = "";
+  updateCurrentNoteMeta();
+
+  try {
+    const searchResponse = await fetchWithRetry("./data/search-docs.json");
+    state.baseSearchDocs = await searchResponse.json();
+    state.searchIndexStatus = "indexing";
+    refreshSearchWorkerIndex();
+  } catch (error) {
+    console.error(error);
+    state.baseSearchDocs = [];
+    state.searchDocs = [];
+    state.searchWorkerReady = false;
+    state.searchIndexStatus = "error";
+    state.searchIndexError = error.message || "Search index could not be loaded.";
+    updateCurrentNoteMeta();
+  }
+}
 
 async function bootstrap() {
   renderSharedToolbarIcons();
@@ -6234,10 +6299,7 @@ async function bootstrap() {
   loadDisplaySettings();
 
   const graphResponse = await fetchWithRetry("./data/graph.json");
-  const searchResponse = await fetchWithRetry("./data/search-docs.json");
-
   const graph = await graphResponse.json();
-  const searchDocs = await searchResponse.json();
 
   state.baseNodes = graph.nodes;
   state.baseEdges = graph.edges;
@@ -6245,7 +6307,6 @@ async function bootstrap() {
   state.baseCommunityEdges = graph.communityEdges || [];
   state.communityById = new Map(state.baseCommunityNodes.map((community) => [community.id, community]));
   state.baseMeta = graph.meta;
-  state.baseSearchDocs = searchDocs;
   validateInvestigationLayersAgainstGraph();
   rebuildRuntimeGraphData();
   saveInvestigationState();
@@ -6263,6 +6324,7 @@ async function bootstrap() {
   requestAnimationFrame(() => {
     searchInput.focus({ preventScroll: true });
   });
+  loadSearchDocsInBackground();
 }
 
 bootstrap().catch((error) => {
