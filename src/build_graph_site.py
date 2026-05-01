@@ -781,6 +781,10 @@ def write_json(path: Path, payload: object) -> None:
     temp_path.replace(path)
 
 
+def compact_rows(rows: list[dict[str, object]], fields: list[str]) -> list[list[object]]:
+    return [[row.get(field) for field in fields] for row in rows]
+
+
 def write_text_atomic(path: Path, content: str) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     temp_path = path.with_name(f".{path.name}.tmp")
@@ -837,16 +841,7 @@ def build_site(db_path: Path, src_dir: Path, site_dir: Path, out_dir: Path) -> N
         search_payload.append(
             {
                 "id": note.node_id,
-                "title": note.title,
-                "aliases": note.aliases,
-                "tags": note.tags,
-                "group": note.group,
-                "degree": note.degree,
                 "snippet": note.snippet,
-                "titleNorm": normalize(note.title),
-                "aliasNorms": [normalize(alias) for alias in note.aliases],
-                "tagNorms": [normalize(tag) for tag in note.tags],
-                "snippetNorm": normalize(note.snippet),
             }
         )
 
@@ -911,17 +906,62 @@ def build_site(db_path: Path, src_dir: Path, site_dir: Path, out_dir: Path) -> N
         "topGroups": group_counter.most_common(12),
     }
 
+    node_fields = [
+        "id",
+        "title",
+        "x",
+        "y",
+        "size",
+        "color",
+        "group",
+        "degree",
+        "inbound",
+        "outbound",
+        "tags",
+        "aliases",
+        "community",
+    ]
+    community_node_fields = [
+        "id",
+        "title",
+        "x",
+        "y",
+        "size",
+        "color",
+        "group",
+        "nodeCount",
+        "edgeCount",
+        "hubId",
+        "hubTitle",
+    ]
+    community_edge_fields = ["source", "target", "weight"]
+    search_doc_fields = ["id", "snippet"]
+    node_index_by_id = {node["id"]: index for index, node in enumerate(node_payload)}
+
     write_json(
         out_dir / "data" / "graph.json",
         {
-            "nodes": node_payload,
-            "edges": edge_payload,
-            "communityNodes": community_payload,
-            "communityEdges": community_edge_payload,
+            "schema": "compact-graph-v1",
+            "nodeFields": node_fields,
+            "nodes": compact_rows(node_payload, node_fields),
+            "edgeFields": ["source", "target"],
+            "edgeNodeIndexes": True,
+            "edges": [[node_index_by_id[source], node_index_by_id[dest]] for source, dest in links],
+            "communityNodeFields": community_node_fields,
+            "communityNodes": compact_rows(community_payload, community_node_fields),
+            "communityEdgeFields": community_edge_fields,
+            "communityEdges": compact_rows(community_edge_payload, community_edge_fields),
             "meta": meta_payload,
         },
     )
-    write_json(out_dir / "data" / "search-docs.json", search_payload)
+    write_json(
+        out_dir / "data" / "search-docs.json",
+        {
+            "schema": "compact-search-docs-v1",
+            "docFields": search_doc_fields,
+            "docs": compact_rows(search_payload, search_doc_fields),
+        },
+    )
     write_json(out_dir / "data" / "meta.json", meta_payload)
 
     for stale_note in notes_dir.glob("*.html"):

@@ -5110,6 +5110,46 @@ function querySearch(value) {
   worker.postMessage({ type: "query", payload: { query: value } });
 }
 
+function expandCompactRows(fields, rows) {
+  if (!Array.isArray(fields) || !Array.isArray(rows)) {
+    return [];
+  }
+  return rows.map((row) => Object.fromEntries(fields.map((field, index) => [field, row[index]])));
+}
+
+function decodeGraphPayload(graph) {
+  if (graph?.schema !== "compact-graph-v1") {
+    return graph;
+  }
+  const nodes = expandCompactRows(graph.nodeFields, graph.nodes);
+  const edges = graph.edgeNodeIndexes
+    ? (graph.edges || []).map(([sourceIndex, targetIndex]) => ({
+      source: nodes[sourceIndex]?.id,
+      target: nodes[targetIndex]?.id,
+    })).filter((edge) => edge.source && edge.target)
+    : expandCompactRows(graph.edgeFields, graph.edges);
+
+  return {
+    nodes,
+    edges,
+    communityNodes: expandCompactRows(graph.communityNodeFields, graph.communityNodes),
+    communityEdges: expandCompactRows(graph.communityEdgeFields, graph.communityEdges),
+    meta: graph.meta || {},
+  };
+}
+
+function decodeSearchDocsPayload(payload) {
+  if (payload?.schema !== "compact-search-docs-v1") {
+    return Array.isArray(payload) ? payload : [];
+  }
+  return expandCompactRows(payload.docFields, payload.docs)
+    .map((doc) => {
+      const node = state.nodeById.get(doc.id);
+      return node ? buildSearchDocFromNode(node, doc.snippet || "") : null;
+    })
+    .filter(Boolean);
+}
+
 function pickNodeAt(clientX, clientY) {
   const rect = graphStage.getBoundingClientRect();
   const x = clientX - rect.left;
@@ -6276,7 +6316,7 @@ async function loadSearchDocsInBackground() {
 
   try {
     const searchResponse = await fetchWithRetry("./data/search-docs.json");
-    state.baseSearchDocs = await searchResponse.json();
+    state.baseSearchDocs = decodeSearchDocsPayload(await searchResponse.json());
     state.searchIndexStatus = "indexing";
     refreshSearchWorkerIndex();
   } catch (error) {
@@ -6299,7 +6339,7 @@ async function bootstrap() {
   loadDisplaySettings();
 
   const graphResponse = await fetchWithRetry("./data/graph.json");
-  const graph = await graphResponse.json();
+  const graph = decodeGraphPayload(await graphResponse.json());
 
   state.baseNodes = graph.nodes;
   state.baseEdges = graph.edges;
