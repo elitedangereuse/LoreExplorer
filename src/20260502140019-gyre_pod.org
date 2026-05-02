@@ -11,4 +11,4 @@ organism with some of the qualities of a terrestrial plant.
 #+end_quote
 
 Gyre Pods are seed pods found in Notable Stellar Phenomena that are
-produced by Gyre Trees.
+produced by [[id:4f7c2b83-b416-4b31-80c0-562f06e86aec][Gyre Trees]].

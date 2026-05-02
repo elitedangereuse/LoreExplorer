@@ -5,11 +5,11 @@
 #+title: Thargoid Barnacle
 #+filetags: :Specie:Flora:
 
-A Thargoid Barnacle is an organic Thargoid structure that extracts
-resources from a planet and converts them into Meta-Alloys, a key
+A Thargoid Barnacle is an organic [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] structure that extracts
+resources from a planet and converts them into [[id:da2f167d-0157-4deb-afb2-98bf6518cf01][Meta-Alloys]], a key
 component in Thargoid ships and technologies. The main structure
 consists of an organic growth with a central, ribbed peak surrounded
-by Thargoid Barnacle Barbs. The first Barnacles were documented in
-the Pleiades Nebula and California Nebula in 3302, and additional
-sites were discovered in the Witch Head Nebula in 3305 and the
-Coalsack Nebula in 3306.
+by Thargoid Barnacle Barbs. The first [[id:b41c0ea3-93f4-4aef-8c9c-db0b140719c0][Barnacles]] were documented in
+the [[id:7e99a467-6e3d-418e-8b10-72cf3660efa6][Pleiades Nebula]] and [[id:6fee136e-381f-47a2-ba13-6d74c8798803][California Nebula]] in 3302, and additional
+sites were discovered in the [[id:ce73c3e5-6875-480c-95a9-c146f6247bb7][Witch Head Nebula]] in 3305 and the
+[[id:6f086af9-53a6-4d37-9800-b81d2537837c][Coalsack Nebula]] in 3306.

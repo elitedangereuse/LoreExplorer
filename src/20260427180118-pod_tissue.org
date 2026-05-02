@@ -10,6 +10,5 @@ A sample of tissue from a space-based seed pod.
 #+end_quote
 
 Category: Salvage
-Produced by: Stolon Pod
+Produced by: [[id:8ac53cb9-9beb-4fdb-abd7-b9dd10a4f30a][Stolon Pod]]
 Consumed by: -
-

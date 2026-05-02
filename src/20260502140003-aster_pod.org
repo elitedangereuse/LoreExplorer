@@ -11,4 +11,4 @@ organism with some of the qualities of a terrestrial plant.
 #+end_quote
 
 Aster Pods are seed pods found in Notable Stellar Phenomena that are
-produced by Aster Trees.
+produced by [[id:f51b910a-a6e6-46f4-b3f8-2c6d40e29739][Aster Trees]].

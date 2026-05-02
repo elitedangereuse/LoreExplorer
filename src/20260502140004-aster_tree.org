@@ -11,6 +11,6 @@ shape.
 #+end_quote
 
 Aster Trees are massive plant-like organic structures found in
-Notable Stellar Phenomena. Their limbs are tipped with Aster Pods.
+Notable Stellar Phenomena. Their limbs are tipped with [[id:7d84ffaf-8423-4917-87e2-9a33b3af6f05][Aster Pods]].
 They are not trees in the traditional sense, but are long-lived and
 extremely hardy space-based organisms.

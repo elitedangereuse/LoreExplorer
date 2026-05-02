@@ -10,6 +10,5 @@ A sample of jelly-like tissue from a space-based seed pod.
 #+end_quote
 
 Category: Salvage
-Produced by: Gyre Pod
+Produced by: [[id:93aee7b5-feaa-4f18-ad77-4f159075f51b][Gyre Pod]]
 Consumed by: -
-

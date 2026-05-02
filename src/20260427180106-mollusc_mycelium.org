@@ -10,6 +10,5 @@ A sample of the mycelium of a space-based mollusc.
 #+end_quote
 
 Category: Salvage
-Produced by: Reel Mollusc Umbrella Mollusc
+Produced by: [[id:70f2f2c7-8712-4065-a4f2-4105e06b7501][Reel Mollusc]], [[id:2a8803fe-be9a-4a4d-913d-dc0dfaa76eb4][Umbrella Mollusc]]
 Consumed by: -
-

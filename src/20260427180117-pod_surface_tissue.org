@@ -10,6 +10,5 @@ A sample of tissue from the surface of a space-based seed pod.
 #+end_quote
 
 Category: Salvage
-Produced by: Aster Pod Chalice Pod Collared Pod Octahedral Pod Peduncle Pod Quadripartite Pod Rhizome Pod Stolon Pod
+Produced by: [[id:7d84ffaf-8423-4917-87e2-9a33b3af6f05][Aster Pod]], [[id:55fe4618-fb9c-4bff-a9f2-07107c7e7c68][Chalice Pod]], [[id:3827b2e6-7c51-4b36-bf5d-d5e203af5d55][Collared Pod]], [[id:fb7fcd5c-89b0-433c-8042-2947972a297c][Octahedral Pod]], [[id:927559cb-d925-431d-b710-3a676d59c117][Peduncle Pod]], [[id:424e1a30-e5c2-40f0-8048-34dde58f0115][Quadripartite Pod]], [[id:e3749d3d-e749-4d3e-8fcd-cfe9e32c06a8][Rhizome Pod]], [[id:8ac53cb9-9beb-4fdb-abd7-b9dd10a4f30a][Stolon Pod]]
 Consumed by: -
-

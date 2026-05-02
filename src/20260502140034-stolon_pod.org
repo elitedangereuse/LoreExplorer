@@ -11,5 +11,5 @@ pearlescent object sometimes found at the centre of the pod.
 #+end_quote
 
 Stolon Pods are seed pods found in Notable Stellar Phenomena that
-are produced by Stolon Trees. Thus far, they have only been found in
+are produced by [[id:8961a323-aa73-4bdb-8378-3bb73a541b74][Stolon Trees]]. Thus far, they have only been found in
 the Outer Scutum-Centaurus Arm.

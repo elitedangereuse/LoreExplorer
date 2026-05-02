@@ -10,6 +10,5 @@ A fluid sample from a space-based mollusc.
 #+end_quote
 
 Category: Salvage
-Produced by: Bulb Mollusc Capsule Mollusc
+Produced by: [[id:20f07c41-0db5-4a60-9405-51836d433200][Bulb Mollusc]], [[id:72306fce-340e-4919-a626-c1dd53ddc9c8][Capsule Mollusc]]
 Consumed by: -
-
