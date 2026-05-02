@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       70f2f2c7-8712-4065-a4f2-4105e06b7501
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Reel_Mollusc
+:END:
+#+title: Reel Mollusc
+#+filetags: :Specie:Fauna:
+
+#+begin_quote
+These organisms are so called because of their resemblance to reels
+or spools, are protected by husks that shield them from radiation.
+#+end_quote
+
+Reel Molluscs are non-sapient, spacefaring creatures that inhabit
+Notable Stellar Phenomena and loosely resemble the molluscs native
+to Earth.

@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       3827b2e6-7c51-4b36-bf5d-d5e203af5d55
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Collared_Pod
+:END:
+#+title: Collared Pod
+#+filetags: :Specie:Flora:
+
+#+begin_quote
+These organisms are so called because of their distinctive collar.
+#+end_quote
+
+A Collared Pod is a non-sentient, spacefaring entity that inhabits
+Lagrange Clouds. It appears to be a plant-like organism with
+multiple bioluminescent spots on either side of its body. While it
+does not visibly react to light, if a ship approaches it, it will
+constantly alter its position so that one of its sides is facing the
+ship.

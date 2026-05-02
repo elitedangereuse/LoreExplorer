@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       4d8e8890-53b1-465f-9f4a-bdabb617fb44
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Torus_Mollusc
+:END:
+#+title: Torus Mollusc
+#+filetags: :Specie:Fauna:
+
+#+begin_quote
+These organisms are so called because of the ring-like shape of
+their shell. Despite being animals, they generate chemical energy
+through a process similar to photosynthesis, using their tentacles
+to absorb starlight.
+#+end_quote
+
+Torus Molluscs are non-sapient, spacefaring creatures that inhabit
+Notable Stellar Phenomena and loosely resemble the molluscs native
+to Earth. They will retreat if attacked or approached within 100m,
+and are only known to appear in systems with white dwarf stars.

@@ -2400,6 +2400,18 @@ function getBacklinks(nodeId) {
     }
     backlinks.set(sourceNode.id, sourceNode);
   }
+  for (const layer of getVisibleInvestigationLayers()) {
+    for (const [sourceId, noteText] of Object.entries(layer.nodeNotes || {})) {
+      if (sourceId === nodeId || !extractNodeReferencesFromText(noteText).includes(nodeId)) {
+        continue;
+      }
+      const sourceNode = state.nodeById.get(sourceId);
+      if (!sourceNode || !isRuntimeNodeVisible(sourceNode)) {
+        continue;
+      }
+      backlinks.set(sourceNode.id, sourceNode);
+    }
+  }
   return [...backlinks.values()]
     .sort((left, right) => right.degree - left.degree || left.title.localeCompare(right.title));
 }
@@ -3066,37 +3078,6 @@ function confirmDeleteCustomNode(nodeId) {
   deleteCustomNode(nodeId);
 }
 
-function duplicateLayer(layerId = state.activeLayerId) {
-  if (!layerId) {
-    return;
-  }
-  persistActiveLayerIntoCollection();
-  const activeLayer = state.investigationLayers.find((layer) => layer.id === layerId);
-  if (!activeLayer) {
-    return;
-  }
-  const nextLayer = sanitizeLayer({
-    ...activeLayer,
-    id: generateId("layer"),
-    name: `${activeLayer.name} Copy`,
-    createdAt: timestamp(),
-    updatedAt: timestamp(),
-  });
-  state.investigationLayers = [...state.investigationLayers, nextLayer];
-  state.activeLayerId = nextLayer.id;
-  applyLayerToState(nextLayer);
-  saveInvestigationState({ syncLayer: false });
-  rebuildRuntimeGraphData();
-  if (currentNodeId() && state.nodeById.has(currentNodeId())) {
-    loadNote(currentNodeId());
-  }
-  setToolStatusMessage(`Duplicated layer: ${nextLayer.name}`);
-}
-
-function duplicateActiveLayer() {
-  duplicateLayer(state.activeLayerId);
-}
-
 function toggleCanonLayerVisibility() {
   state.canonLayerVisible = !state.canonLayerVisible;
   saveInvestigationState({ syncLayer: false });
@@ -3387,13 +3368,6 @@ function renderInvestigatorTools() {
                   </svg>
                 </span>
               </button>
-              <button
-                type="button"
-                class="layer-action-button"
-                data-duplicate-layer="${layer.id}"
-                aria-label="Duplicate ${escapeHtml(layer.name)}"
-                data-tooltip="Duplicate ${escapeHtml(layer.name)}"
-              >${iconMarkup("duplicate")}</button>
               <button
                 type="button"
                 class="layer-action-button is-danger"
@@ -6340,12 +6314,6 @@ function bindEvents() {
 
     if (event.target.closest("[data-create-layer]")) {
       createLayer();
-      return;
-    }
-
-    const duplicateLayerButton = event.target.closest("[data-duplicate-layer]");
-    if (duplicateLayerButton) {
-      duplicateLayer(duplicateLayerButton.dataset.duplicateLayer);
       return;
     }
 

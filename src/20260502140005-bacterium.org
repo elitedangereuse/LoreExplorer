@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       f64af7db-d75a-4b68-a514-67b67efffe61
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Bacterium
+:END:
+#+title: Bacterium
+#+filetags: :Specie:Flora:
+
+#+begin_quote
+True unicellular extremophiles capable of living in the full
+spectrum of temperatures, chemical soups and atmospheres. They form
+a kaleidoscopic range of patterns and colours based on their method
+of metabolism. They derive energy from photosynthetic,
+chemosynthetic or thermosynthetic processes. There are believed to
+be the precursors for many life forms, and are often found in
+conjunction with other species. Links between the biochemistry of
+bacterial colonies and neighbouring organisms are likely but as yet
+unproven.
+#+end_quote
+
+Bacterium are a species of alien organism found on planets and moons
+with thin atmospheres across the galaxy. They can be sampled with
+the Genetic Sampler and scanned with the Short Range Composition
+Scanner for a reward voucher of 2,500 credits.

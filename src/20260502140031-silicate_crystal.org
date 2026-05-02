@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       3b804eb2-8832-42ec-8557-ef6cb13c58e8
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Silicate_Crystal
+:END:
+#+title: Silicate Crystal
+#+filetags: :Specie:Flora:
+
+#+begin_quote
+These crystalline structures consist mainly of silicate minerals.
+#+end_quote
+
+Silicate Crystals are crystalline structures found in Notable
+Stellar Phenomena that are produced by colonies of spacefaring
+microorganisms.

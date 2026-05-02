@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       1b11323c-238e-4a3c-8917-e058e092690d
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Crystalline_Shard
+:END:
+#+title: Crystalline Shard
+#+filetags: :Specie:Flora:
+
+#+begin_quote
+These crystalline structures are created by large colonies of
+microorganisms.
+#+end_quote
+
+Crystalline Shards are crystalline structures found on airless
+planets and moons. They are produced by colonies of microorganisms,
+and are known to feature Crystalline Clusters that are rich in high-
+grade Raw Materials.

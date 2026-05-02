@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       8961a323-aa73-4bdb-8378-3bb73a541b74
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Stolon_Tree
+:END:
+#+title: Stolon Tree
+#+filetags: :Specie:Flora:
+
+#+begin_quote
+These organic structures are incredibly long lived, enduring for
+millennia in the vacuum of space.
+#+end_quote
+
+Stolon Trees are massive plant-like organic structures found in
+Notable Stellar Phenomena. They consist of multiple bulbous,
+bioluminscent limbs growing from a central cluster, and the ends of
+several limbs are tipped with Stolon Pods. Thus far, they have only
+been found in the Outer Scutum-Centaurus Arm.

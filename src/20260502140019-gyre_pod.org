@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       93aee7b5-feaa-4f18-ad77-4f159075f51b
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Gyre_Pod
+:END:
+#+title: Gyre Pod
+#+filetags: :Specie:Flora:
+
+#+begin_quote
+These pods contain the seeds of the gyre tree, a space-based
+organism with some of the qualities of a terrestrial plant.
+#+end_quote
+
+Gyre Pods are seed pods found in Notable Stellar Phenomena that are
+produced by Gyre Trees.

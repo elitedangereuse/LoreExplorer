@@ -1,9 +1,21 @@
 :PROPERTIES:
 :ID:       2f3b4c97-2fe4-473a-8873-ec2ecababbe7
-:ROAM_REFS: https://inara.cz/elite/commodity/10093/
+:ROAM_REFS: https://inara.cz/elite/commodity/10093/ https://elite-dangerous.fandom.com/wiki/Karsuki_Locusts
 :END:
 #+title: Karsuki Locusts
-#+filetags: :Commodity:rare:
+#+filetags: :Commodity:rare:Specie:Lore:Nonsapient:
+
+#+begin_quote
+Prized for their uniquely sweet flavor caused by the native fungal
+parasites that infest them.
+#+end_quote
+
+Karsuki Locusts are a Food Rare Commodity exclusively sold by West
+Market in the [[id:64fab6f7-893e-436c-80f4-b42cde130147][Karsuki Ti]] system.
+
+Sentience: Non-sapient.
+Location: Lore.
+
 
 #+begin_quote
 Prized for their uniquely sweet flavour caused by the native fungal
@@ -15,4 +27,3 @@ sale or purchase.
 #+end_quote
 
 Sold as a rare commodity at [[id:95f6a47b-1448-412e-8cd1-e1126b1d68e1][West Market]], [[id:64fab6f7-893e-436c-80f4-b42cde130147][Karsuki Ti]].
-

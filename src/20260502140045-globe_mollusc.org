@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       9b05a3d5-6388-45b8-b844-cfca4a54970f
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Globe_Mollusc
+:END:
+#+title: Globe Mollusc
+#+filetags: :Specie:Fauna:
+
+#+begin_quote
+These organisms are so called because of their spherical shell.
+Despite being animals, they generate chemical energy through a
+process similar to photosynthesis, using their tentacles to absorb
+starlight.
+#+end_quote
+
+Globe Molluscs are non-sapient, spacefaring creatures that inhabit
+Notable Stellar Phenomena and loosely resemble the molluscs native
+to Earth. They have a tendency to retreat if approached by ships
+that have their headlights on.

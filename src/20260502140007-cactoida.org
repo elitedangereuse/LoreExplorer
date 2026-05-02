@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       8cbe5dd6-b87d-46a8-b776-23f521d5fe81
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Cactoida
+:END:
+#+title: Cactoida
+#+filetags: :Specie:Flora:
+
+#+begin_quote
+Photosynthetic organisms that have adapted to extreme conditions by
+reducing their surface area to volume ratio, thereby protecting more
+sensitive tissues from exposure. The outer layer is formed from
+specialised light-transmitting cells. These are filled with an
+insulating hydrophobic layer, which helps to maintain core
+temperature and liquid retention. Deep, extensive root structures
+hold the organisms in place, and facilitate the extraction of trace
+minerals. Some cactoida species feature explosive seed distribution
+as a method of reproduction.
+#+end_quote
+
+Cactoida are a species of alien organism found on planets and moons
+with thin atmospheres across the galaxy. They can be sampled with
+the Genetic Sampler and scanned with the Short Range Composition
+Scanner.

@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       8c755b5c-4f6b-40fa-8dec-b51d0718c32f
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Bullet_Mollusc
+:END:
+#+title: Bullet Mollusc
+#+filetags: :Specie:Fauna:
+
+#+begin_quote
+These organisms are so called because of the bullet-like shape of
+their shell. Despite being animals, they generate chemical energy
+through a process similar to photosynthesis, using their tentacles
+to absorb starlight.
+#+end_quote
+
+Bullet Molluscs are non-sapient, spacefaring creatures that inhabit
+Notable Stellar Phenomena and loosely resemble the molluscs native
+to Earth.

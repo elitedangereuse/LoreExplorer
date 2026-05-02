@@ -1,9 +1,28 @@
 :PROPERTIES:
 :ID:       953702d1-c0d9-40d4-9b3a-8d5f3948dbc0
-:ROAM_REFS: https://inara.cz/elite/commodity/10089/
+:ROAM_REFS: https://inara.cz/elite/commodity/10089/ https://elite-dangerous.fandom.com/wiki/Baltah%27sine_Vacuum_Krill
 :END:
 #+title: Baltah'sine Vacuum Krill
-#+filetags: :Commodity:rare:
+#+filetags: :Commodity:rare:Specie:Lore:Nonsapient:
+
+#+begin_quote
+Vacuum Krill are astonishing creatures. One of the few species to
+live in the hard vacuum of space, they are native to the ice rings
+around [[id:e99db58f-3cfe-4548-b7da-284176167527][Baltah'Sine]] 4b. Their eggs grow in vast numbers in tiny
+water pockets within the rocks - kept liquid by secretions from the
+mother when the eggs are first laid. When mature, they eventually
+burrow their way out, propelling themselves between rocks with tiny
+excretions of fluid, in search of a mate.
+#+end_quote
+
+Baltah'sine Vacuum Krill is one of the few known alien species to
+live in the vacuum of space. They were discovered in the ice rings
+around [[id:e99db58f-3cfe-4548-b7da-284176167527][Baltah'Sine]] 4b. They lay tiny pockets of eggs within icy
+rocks. Secretions from the mother keeps the eggs liquid. Mature
+Vacuum Krill can move between rocks with tiny fluid excretions.
+
+Sentience: Non-sapient.
+Location: Lore.
+
 
 Sold as a rare commodity at [[id:a012fdf6-ba42-4952-8cf5-ad2772d338ce][Baltha'Sine Station]], [[id:e99db58f-3cfe-4548-b7da-284176167527][Baltah'Sine]].
-

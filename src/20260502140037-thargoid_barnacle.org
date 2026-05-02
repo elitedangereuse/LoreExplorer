@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       d2584c8f-f479-4389-8459-58a36a470935
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Thargoid_Barnacle
+:END:
+#+title: Thargoid Barnacle
+#+filetags: :Specie:Flora:
+
+A Thargoid Barnacle is an organic Thargoid structure that extracts
+resources from a planet and converts them into Meta-Alloys, a key
+component in Thargoid ships and technologies. The main structure
+consists of an organic growth with a central, ribbed peak surrounded
+by Thargoid Barnacle Barbs. The first Barnacles were documented in
+the Pleiades Nebula and California Nebula in 3302, and additional
+sites were discovered in the Witch Head Nebula in 3305 and the
+Coalsack Nebula in 3306.

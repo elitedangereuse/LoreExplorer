@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       4a2a2ea1-4c47-499e-9a2b-00fa764c39c3
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Fungoida
+:END:
+#+title: Fungoida
+#+filetags: :Specie:Flora:
+
+#+begin_quote
+Organisms that live deep inside a planetary substrate. They share
+similar morphology to fungi but are not saprophytic, instead their
+mycelial body drives its metabolism through chemosynthetic and
+thermosynthetic processes. These are facilitated by substrate, which
+also protects the organism from environmental extremes. The exposed
+aspects of the organisms are primarily involved in reproduction.
+This is frequently through spore ejection, but certain species also
+support gaseous exchange with the atmosphere. Some fungoida exhibit
+bioluminescent behaviours as a part of a metabolic process involved
+in the breakdown of accumulated toxins.
+#+end_quote
+
+Fungoida is a genome of alien organism found on planets and moons
+with thin atmospheres across the galaxy. They can be sampled with
+the Genetic Sampler and scanned with the Short Range Composition
+Scanner. They have a clonal colony range of 300m.

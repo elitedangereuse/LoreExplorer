@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       52b35ed3-6c1b-4eb2-b9d8-53059b5366cd
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Calcite_Plate
+:END:
+#+title: Calcite Plate
+#+filetags: :Specie:Flora:
+
+#+begin_quote
+These structures consist mainly of calcium carbonate.
+#+end_quote
+
+Calcite Plates are mineral structures found in Notable Stellar
+Phenomena that are produced by colonies of tiny polyp-like
+creatures. They cannot be mined.

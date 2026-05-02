@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       48386d21-4f62-4b4e-abdf-007e019d3531
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Bark_Mound
 :END:
 #+title: Bark Mounds
-
+#+filetags: :Specie:Flora:

@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       b1151d4e-620a-4a55-af95-9e80a8c10c99
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Lattice_Mineral_Sphere
+:END:
+#+title: Lattice Mineral Sphere
+#+filetags: :Specie:Flora:
+
+#+begin_quote
+These mineral structures are created by large colonies of ancient
+microorganisms.
+#+end_quote
+
+Lattice Mineral Spheres are a form of Notable Stellar Phenomena
+created by spacefaring microoorganisms.

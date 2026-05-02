@@ -1,9 +1,26 @@
 :PROPERTIES:
 :ID:       e6a70682-d2bd-48e3-aec8-b3c1066cdf30
-:ROAM_REFS: https://inara.cz/elite/commodity/10096/
+:ROAM_REFS: https://inara.cz/elite/commodity/10096/ https://elite-dangerous.fandom.com/wiki/Giant_Irukama_Snails
 :END:
 #+title: Giant Irukama Snails
-#+filetags: :Commodity:rare:
+#+filetags: :Commodity:rare:Specie:Lore:Nonsapient:
+
+#+begin_quote
+Despite appearances, the species discovered on [[id:76048bd8-7a18-4d77-bf77-ae23a5268d20][Irukama]] are not
+strictly snails. These indigenous creatures almost destroyed
+[[id:76048bd8-7a18-4d77-bf77-ae23a5268d20][Irukama]]'s native habitat over their sole predator was culled, due
+to the threat it posed to human settlers. Now actively managed, the
+surplus stock is sold on as a delicacy. The meat from a single snail
+can easily fill several standard-size cargo canisters.
+#+end_quote
+
+Giant Irukama Snails are a molluscoid species which resemble snails.
+They're native to [[id:76048bd8-7a18-4d77-bf77-ae23a5268d20][Irukama]] and a food delicacy. The meat of one
+Irukama snail can fill several standard cargo canisters. It's a
+specific item of Foods in the galaxy.
+
+Sentience: Non-sapient.
+Location: Lore.
+
 
 Sold as a rare commodity at [[id:0f682543-78e3-4181-bbb9-46b085deb122][Blaauw City]], [[id:76048bd8-7a18-4d77-bf77-ae23a5268d20][Irukama]].
-

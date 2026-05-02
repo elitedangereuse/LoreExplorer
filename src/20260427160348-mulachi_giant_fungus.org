@@ -1,9 +1,22 @@
 :PROPERTIES:
 :ID:       73ec7036-22fe-48f2-8429-b9ac44a07d96
-:ROAM_REFS: https://inara.cz/elite/commodity/10050/
+:ROAM_REFS: https://inara.cz/elite/commodity/10050/ https://elite-dangerous.fandom.com/wiki/Mulachi_Giant_Fungus
 :END:
 #+title: Mulachi Giant Fungus
-#+filetags: :Commodity:rare:
+#+filetags: :Commodity:rare:Specie:Lore:Nonsapient:
+
+#+begin_quote
+The fungal life forms found in [[id:2b5c428c-a888-4f93-8505-8f17f99ee2e9][Mulachi]] can grow to occupy entire
+continents! Specifically trained teams are sent to the planet's surface
+to industrially harvest large portions of the fungal structures, but
+workers must be wary of the deadly fungal spores.
+#+end_quote
+
+Mulachi Giant Fungus is a specific item of Foods in the world of
+Elite Dangerous.
+
+Sentience: Non-sapient.
+Location: Lore.
+
 
 Sold as a rare commodity at [[id:854c0649-2e6e-4f92-a736-9b90ebc57b19][Clark Terminal]], [[id:2b5c428c-a888-4f93-8505-8f17f99ee2e9][Mulachi]].
-

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       4a5251b2-ec20-4538-b574-dce598d99024
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Species#Lore_species
+:END:
+#+title: Warg
+#+filetags: :Specie:Lore:Nonsapient:
+
+The warg is a deer-like creature with big eyes. It can be bred as a
+pet.
+
+Sentience: Non-sapient.
+Location: Lore.

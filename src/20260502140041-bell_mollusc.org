@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       13fe1e5b-8357-4921-be8d-a924a7b7dbec
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Bell_Mollusc
+:END:
+#+title: Bell Mollusc
+#+filetags: :Specie:Fauna:
+
+#+begin_quote
+These organisms are so called because of the bell-like shape of
+their shell. Despite being animals, they generate chemical energy
+through a process similar to photosynthesis, using their tentacles
+to absorb starlight.
+#+end_quote
+
+Bell Molluscs are non-sapient, spacefaring creatures that inhabit
+Notable Stellar Phenomena and loosely resemble the molluscs native
+to Earth. When scanned with a Data Link Scanner, Bell Molluscs will
+emit a green gas and move toward the ship, and when shot at they
+will flee.

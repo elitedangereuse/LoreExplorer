@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       c29a37db-51c9-4bee-ae20-74fb4f030534
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Concha
+:END:
+#+title: Concha
+#+filetags: :Specie:Flora:
+
+#+begin_quote
+A concha species that thrives in atmospheres rich with carbon
+dioxide. The lip-like upper opening cracks apart to allow a vertical
+growth of spiky leaves and bright seeds to stretch upward.
+#+end_quote
+
+Concha are a genome of alien flora found on planets and moons with
+thin atmospheres across the galaxy. They can be sampled with the
+Genetic Sampler and scanned with the Short Range Composition
+Scanner. They have a clonal colony range of 150m.

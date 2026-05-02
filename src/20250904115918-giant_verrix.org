@@ -1,5 +1,18 @@
 :PROPERTIES:
 :ID:       892b733c-6ed2-405d-858b-af15e74e1f7d
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Giant_Verrix
 :END:
 #+title: Giant Verrix
-#+filetags: :Commodity:rare:
+#+filetags: :Commodity:rare:Specie:Lore:Nonsapient:
+#+begin_quote
+This hardy beast of burden now found throughout human space,
+especially on the emerging worlds of the outer rim, but naturally
+bred Verrix are very rare and highly prized.
+#+end_quote
+
+Giant Verrix is a hardy beast of burden and common throughout human
+space, particularly in the outer rim. It's used as a specific item
+of Machinery in the galaxy of Elite Dangerous.
+
+Sentience: Non-sapient.
+Location: Lore.

@@ -779,24 +779,29 @@ code {
 }
 
 .layer-row {
-  display: flex;
+  display: grid;
+  grid-template-columns: 34px minmax(0, 1fr) repeat(2, 34px);
   align-items: center;
   gap: 8px;
   padding: 6px;
   border-radius: 14px;
   background: rgba(255, 255, 255, 0.02);
+  min-width: 0;
+  overflow: hidden;
+}
+
+.layer-row.is-canon {
+  grid-template-columns: 34px minmax(0, 1fr) 34px;
+  opacity: 0.96;
 }
 
 .layer-row.is-active {
   background: rgba(255, 255, 255, 0.05);
 }
 
-.layer-row.is-canon {
-  opacity: 0.96;
-}
-
 .layer-visibility-button {
   width: 34px;
+  min-width: 0;
   height: 34px;
   padding: 0;
   display: inline-flex;
@@ -812,6 +817,7 @@ code {
 .layer-rename-button,
 .layer-action-button {
   width: 34px;
+  min-width: 0;
   height: 34px;
   padding: 0;
   display: inline-flex;
@@ -911,6 +917,7 @@ code {
 }
 
 .layer-name {
+  display: block;
   min-width: 0;
   overflow: hidden;
   text-overflow: ellipsis;

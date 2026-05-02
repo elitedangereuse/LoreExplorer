@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       fcf05c1a-0cce-4dbb-b111-1a71dd674a41
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Void_Heart
+:END:
+#+title: Void Heart
+#+filetags: :Specie:Flora:
+
+#+begin_quote
+These organic structures are remarkably long lived, with some
+specimens enduring for thousands of years.
+#+end_quote
+
+Void Hearts, also called Barbed Knots, are plant-like organic
+structures found in Notable Stellar Phenomena. They produce
+Octahedral Pods, and are known to produce periodic bursts of heat
+and light.

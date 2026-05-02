@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       a0001b16-a2bf-4c24-bad3-0cbe2735be23
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Recepta
+:END:
+#+title: Recepta
+#+filetags: :Specie:Flora:
+
+#+begin_quote
+Extremophiles that are found exclusively on planets with atmospheres
+dominated by sulphur dioxide. Using a combination of inorganic and
+hydrocarbon materials, they build a shielding bubble. This allows
+them to create an isolated biome with regulated temperature and
+chemical composition. Growth is a difficult and complex process that
+requires careful melting, regrowing and freezing of the external
+shell so that the internal organism can develop. This is a gradual
+process, meaning that larger recepta are of significant age.
+Reproduction is also similarly complex and revolves around a budding
+process, which creates a smaller version of the adult. Once
+detached, it can roll under the action of gravity and air currents
+before coming to rest, where it will deploy a holdfast marking its
+final position.
+#+end_quote
+
+Recepta are a species of alien organism found on planets and moons
+with thin atmospheres across the galaxy. They can be sampled with
+the Genetic Sampler and scanned with the Short Range Composition
+Scanner.

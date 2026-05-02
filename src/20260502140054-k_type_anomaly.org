@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       639c04d8-db6f-4a5c-982a-e341abc31b33
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/K-Type_Anomaly
+:END:
+#+title: K-Type Anomaly
+#+filetags: :Specie:Anomaly:
+
+#+begin_quote
+A range of high-energy phenomena characterised by luminous cloud
+patterns.
+#+end_quote
+
+K-Type Anomalies are a form of Notable Stellar Phenomena. They can
+damage ships that approach too closely or come into direct contact
+with them.

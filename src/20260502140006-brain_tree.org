@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       2531c9e8-f52e-4634-b31e-5ff06b9f5362
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Brain_Tree
+:END:
+#+title: Brain Tree
+#+filetags: :Specie:Flora:
+
+Brain Trees are a species of Fungal Life that have been found on the
+surfaces of airless planets and moons across the galaxy. They
+resemble Earth-like trees with a brain-shaped structure at the end
+of its branches. They are resilient organisms that absorb minerals
+via their subsurface roots and energy via their outer skin.

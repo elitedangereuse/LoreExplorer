@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       d4cb9d65-751e-4665-a56a-8cf283d08ac1
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Frutexa
+:END:
+#+title: Frutexa
+#+filetags: :Specie:Flora:
+
+#+begin_quote
+Robust woody plants with deep rooting structures to gather liquids
+and hold themselves in place where the ground may be unstable. They
+are photosynthetic organisms with specialised photoreceptors that
+work even in low light conditions. As such they are highly
+successful, and are widespread and diverse in nature. Their small
+leaf structures protect them against extremely low temperatures and
+liquid loss in higher temperatures.
+#+end_quote
+
+Frutexa are a species of alien organism found on planets and moons
+with thin atmospheres across the galaxy. Frutexa are also called
+shrubs. They can be sampled with the Genetic Sampler and scanned
+with the Short Range Composition Scanner. They have a clonal colony
+range of 150m.

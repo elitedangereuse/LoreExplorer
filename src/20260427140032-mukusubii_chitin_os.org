@@ -1,9 +1,22 @@
 :PROPERTIES:
 :ID:       785ffb95-56e7-41b3-9cd9-d690d0bb5d6e
-:ROAM_REFS: https://inara.cz/elite/commodity/10065/
+:ROAM_REFS: https://inara.cz/elite/commodity/10065/ https://elite-dangerous.fandom.com/wiki/Mukusubii_Chitin-Os
 :END:
 #+title: Mukusubii Chitin-os
-#+filetags: :Commodity:rare:
+#+filetags: :Commodity:rare:Specie:Lore:Nonsentient:
+
+#+begin_quote
+The chitinous native insects of nearby worlds are processed using
+industrial mining equipment, then re-constituted into convenient
+circles. Marketed as a food for those who like a little crunch.
+#+end_quote
+
+Mukusubii Chitin-Os is a specific item of Foods in the world of
+Elite Dangerous.
+
+Sentience: Non-sentient.
+Location: Lore.
+
 
 #+begin_quote
 The chitinous native insects of nearby worlds are processed using
@@ -16,4 +29,3 @@ question will no longer be available for sale or purchase.
 #+end_quote
 
 Sold as a rare commodity at [[id:d84e5aa9-3f68-4a7b-b383-cfe20c7e2006][Ledyard Dock]], [[id:0d9b9e2e-df60-4958-9ad9-1f84adc07c5a][Mukusubii]].
-

@@ -1,9 +1,26 @@
 :PROPERTIES:
 :ID:       e5b9777c-045b-4b31-a3be-bb97fdb882b6
-:ROAM_REFS: https://inara.cz/elite/commodity/10068/
+:ROAM_REFS: https://inara.cz/elite/commodity/10068/ https://elite-dangerous.fandom.com/wiki/Kachirigin_Filter_Leeches
 :END:
 #+title: Kachirigin Filter Leeches
-#+filetags: :Commodity:rare:
+#+filetags: :Commodity:rare:Specie:Lore:Nonsentient:
+
+#+begin_quote
+Leeches were used medically for millennia on ancient
+[[id:5b0f485f-4793-468d-a1a1-483606f44e0e][Earth]] but were largely superseded by technology. Hundreds of years
+later, a chance discovery on [[id:2e2a8064-6ebf-4e7e-ba74-c5193a163fff][Kachirigin]] revealed some very valuable
+properties of the native creatures. Kachirigin leeches can painlessly
+filter impurities from the user's blood, so can be used as a cure-all
+for hangovers and the worst effects of certain addictions. They are
+prized by the wealthy and hedonistic, and have an almost cult-like
+following.
+#+end_quote
+
+Kachirigin Filter Leeches are a Medicines Rare Commodity that is
+produced at [[id:ea4a52c1-3e2c-4830-a88f-bbf40ed2e280][Nowak Orbital]] in the [[id:2e2a8064-6ebf-4e7e-ba74-c5193a163fff][Kachirigin]] system.
+
+Sentience: Non-sentient.
+Location: Lore.
+
 
 Sold as a rare commodity at [[id:ea4a52c1-3e2c-4830-a88f-bbf40ed2e280][Nowak Orbital]], [[id:2e2a8064-6ebf-4e7e-ba74-c5193a163fff][Kachirigin]].
-

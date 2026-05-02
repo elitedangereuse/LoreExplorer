@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       e7cb0acc-81d8-4147-abdd-d8fa5bee24d9
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/T-Type_Anomaly
+:END:
+#+title: T-Type Anomaly
+#+filetags: :Specie:Anomaly:
+
+#+begin_quote
+A range of phenomena characterised by the presence of a bright
+pulsing sphere.
+#+end_quote
+
+T-Type Anomalies are a a form of Notable Stellar Phenomena.

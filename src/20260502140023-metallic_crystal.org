@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       1ee7fd91-ef76-471a-9599-8a6b7ff7e49d
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Metallic_Crystal
+:END:
+#+title: Metallic Crystal
+#+filetags: :Specie:Flora:
+
+#+begin_quote
+These crystalline structures are noted for the metallic lustre of
+their outer surface.
+#+end_quote
+
+Metallic Crystals are crystalline structures with a metallic lustre
+on their outer surface that are found among Notable Stellar
+Phenomena. They are created by huge numbers of primordial
+microorganisms.

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       f51b910a-a6e6-46f4-b3f8-2c6d40e29739
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Aster_Tree
+:END:
+#+title: Aster Tree
+#+filetags: :Specie:Flora:
+
+#+begin_quote
+These organic structures are so called because of their star-like
+shape.
+#+end_quote
+
+Aster Trees are massive plant-like organic structures found in
+Notable Stellar Phenomena. Their limbs are tipped with Aster Pods.
+They are not trees in the traditional sense, but are long-lived and
+extremely hardy space-based organisms.

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       6d82f10d-5239-4be2-9f86-e66ad65c00fe
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Lagrange_Cloud
+:END:
+#+title: Lagrange Cloud
+#+filetags: :Specie:Anomaly:
+
+#+begin_quote
+A dense accumulation of gas fixed in place at a Lagrange point,
+where the combined gravitational forces of multiple bodies create a
+stable region.
+#+end_quote
+
+A Lagrange Cloud is a form of Notable Stellar Phenomena. Using the
+Full Spectrum System Scanner, they can be found at the Lagrange
+points of a star system, along the orbital plane. There are several
+variants with different colors, and some feature electrical storms.
+Various astronomical objects and biological entities can be found
+among Lagrange Clouds and catalogued using the Short Range
+Composition Scanner. The Lagrange cloud is automatically identified
+and entered into the Codex while entering the cloud.

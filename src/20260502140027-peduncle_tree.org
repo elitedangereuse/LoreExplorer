@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       166d3e6c-b789-4135-b1e6-1e0a0ca89719
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Peduncle_Tree
+:END:
+#+title: Peduncle Tree
+#+filetags: :Specie:Flora:
+
+#+begin_quote
+These organic structures are characterised by their distinctive
+stalk-like limbs.
+#+end_quote
+
+Peduncle Trees are spacefaring, plant-like organisms that produce
+Peduncle Pods and are found among Notable Stellar Phenomena.
+Different types of Peduncle Trees have varying numbers of limbs and
+are coloured a different shade ranging from cream to brown.

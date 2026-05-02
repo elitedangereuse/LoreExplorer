@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       cf260660-f940-40a4-b49b-06b32a91c792
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Tussock
+:END:
+#+title: Tussock
+#+filetags: :Specie:Flora:
+
+#+begin_quote
+Robust photosynthetic plants similar in appearance to clump grasses.
+They have a shallow but complex root structure, which requires a
+solid surface to produce structural stability. Clumps may form
+through tillering or wider dispersal through a variety of seeding
+mechanisms. Some species have adapted cellular structures containing
+high sugar concentrations to protect against freezing damage.
+#+end_quote
+
+Tussock are a species of alien organism found on planets and moons
+with thin atmospheres across the galaxy. They can be sampled with
+the Genetic Sampler and scanned with the Short Range Composition
+Scanner. They have a clonal colony range of 200m.

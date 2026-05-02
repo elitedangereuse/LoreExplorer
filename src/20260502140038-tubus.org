@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       e5a4959a-99e4-44eb-a194-f1ee81a381e3
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Tubus
+:END:
+#+title: Tubus
+#+filetags: :Specie:Flora:
+
+#+begin_quote
+Highly specialised organisms that can grow to extreme heights, which
+peak when in a mature state. The organism's height and ability to
+survive is largely constrained by gravity. The lack of any real
+atmospheric weather has not put evolutionary pressure on the towers
+to be strong, so they form tall but thin structures which cannot be
+supported in high-gravity environments. The tower is formed from
+wrapped leaf-like structures, which create a regulated chimney void.
+This is used by the organism to create and maintain an artificial
+internal atmosphere, where discrete chemical processes can be
+undertaken along the length of the tower. Waste gases and other
+material may be released from the top of the tower. Some species
+feature external rings that can be used to gauge an organism's age.
+#+end_quote
+
+Tubus are a species of alien organism found on planets and moons
+with thin atmospheres across the galaxy. They can be sampled with
+the Genetic Sampler and scanned with the Short Range Composition
+Scanner. They have a clonal colony range of 800m.

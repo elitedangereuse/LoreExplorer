@@ -1,6 +1,9 @@
 :PROPERTIES:
 :ID:       5d4af356-e08b-4931-95e4-211677b797ef
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Delines
 :END:
 #+title: Deline
-#+filetags: :Specie:
+#+filetags: :Specie:Lore:Nonsapient:
 
+Delines are rotund feline-like creatures with rich, black fur. They are
+indigenous to the [[id:4aedfccd-a366-4b25-a5e2-538bb29a35cb][Diso]] system.

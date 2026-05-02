@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       8ac53cb9-9beb-4fdb-abd7-b9dd10a4f30a
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Stolon_Pod
+:END:
+#+title: Stolon Pod
+#+filetags: :Specie:Flora:
+
+#+begin_quote
+These seed pods are colloquially known as space oysters due to the
+pearlescent object sometimes found at the centre of the pod.
+#+end_quote
+
+Stolon Pods are seed pods found in Notable Stellar Phenomena that
+are produced by Stolon Trees. Thus far, they have only been found in
+the Outer Scutum-Centaurus Arm.

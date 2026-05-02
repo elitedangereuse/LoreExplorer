@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       4dfd1a40-8f9b-4f66-9c90-971e253a3fe1
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Human
 :END:
 #+title: Humans
-#+filetags: :Specie:
-
+#+filetags: :Specie:Fauna:

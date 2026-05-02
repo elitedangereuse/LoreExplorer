@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       3e6a5671-4e4c-4c82-ade5-395237590776
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Amphora_Plant
+:END:
+#+title: Amphora Plant
+#+filetags: :Specie:Flora:
+
+#+begin_quote
+These organic structures take their name from a type of container
+dating from Earth's Neolithic period.
+#+end_quote
+
+Amphora Plants are a species of Fungal Life that have been found on
+the surfaces of airless planets and moons across the galaxy. They
+are greenish, tubular growths that roughly resemble . Amphora Plants
+were first discovered following the introduction of new scanning
+hardware and software in late 3304. They have a clonal colony range
+of 100m.

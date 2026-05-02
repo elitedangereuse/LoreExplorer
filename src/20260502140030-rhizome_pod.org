@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       e3749d3d-e749-4d3e-8fcd-cfe9e32c06a8
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Rhizome_Pod
+:END:
+#+title: Rhizome Pod
+#+filetags: :Specie:Flora:
+
+#+begin_quote
+These seed pods are so called because of their resemblance to the
+roots of certain terrestrial plants.
+#+end_quote
+
+Rhizome Pods are seed pods found in Notable Stellar Phenomena.
+Unlike other spaceborne seed pods, the parent organism of Rhizome
+Pods has not been identified, and it is possible that they are
+entirely self-contained.

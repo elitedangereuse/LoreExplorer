@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       f651404f-cec3-4b56-943d-296694c5688f
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Solid_Mineral_Sphere
+:END:
+#+title: Solid Mineral Sphere
+#+filetags: :Specie:Flora:
+
+#+begin_quote
+These mineral structures are created by large colonies of ancient
+microorganisms.
+#+end_quote
+
+Solid Mineral Spheres are a form of Notable Stellar Phenomena
+created by spacefaring microorganisms. They consist of clusters of
+large sphere-like formations of mineral accretions. The largest
+spheres in each cluster are likely the oldest, and the clusters may
+have formed by newer spheres budding off of the older spheres. Solid
+Mineral Spheres cannot be mined.

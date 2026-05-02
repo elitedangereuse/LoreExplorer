@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       4f7c2b83-b416-4b31-80c0-562f06e86aec
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Gyre_Tree
+:END:
+#+title: Gyre Tree
+#+filetags: :Specie:Flora:
+
+#+begin_quote
+These organisms are characterised by their long, slender limbs,
+which often terminate in a large seed pod.
+#+end_quote
+
+Gyre Trees are massive plant-like organic structures found in
+Notable Stellar Phenomena. They consist of a central core with
+twelve symmetrical limbs extending from it, and each limb is forked
+in two at the end and tipped with a Gyre Pod.

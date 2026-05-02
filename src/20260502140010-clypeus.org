@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       bbb0c63b-64b9-4bf0-8200-1633ecaaad57
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Clypeus
+:END:
+#+title: Clypeus
+#+filetags: :Specie:Flora:
+
+#+begin_quote
+Extremophile organisms that have evolved to create hard shield
+structures, primarily to protect against stellar radiation. They
+also collect and condense traces of liquid material in the
+atmosphere, allowing the organisms to flourish in extremely arid
+environments. The shields are typically synthesized from surrounding
+inorganic material, which will frequently define their shape and
+colouration.
+#+end_quote
+
+Clypeus are a species of alien organism found on planets and moons
+with thin atmospheres across the galaxy. They can be sampled with
+the Genetic Sampler and scanned with the Short Range Composition
+Scanner. They have a clonal colony range of 150m.

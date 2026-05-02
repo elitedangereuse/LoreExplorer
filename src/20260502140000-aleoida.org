@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       bb8e9bd6-f29f-4a44-bdcb-7a23a7f0f81e
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Aleoida
+:END:
+#+title: Aleoida
+#+filetags: :Specie:Flora:
+
+#+begin_quote
+Extremely hardy photosynthetic organisms that thrive in arid
+environments. Thick, waxy leaf structures protect them from extreme
+surroundings. When gaseous exchange becomes unfavourable. the leaves
+can completely shut off the organism from the atmosphere causing a
+state of hibernation. The pointed leaves create precipitation
+slopes, which draw liquids to the heart of the organism. Here they
+are absorbed through a series of specialised cells, and stored in
+the root structure until needed.
+#+end_quote
+
+Aleoida are a species of alien organism found on planets and moons
+with thin atmospheres across the galaxy. They can be sampled with
+the Genetic Sampler and scanned with the Short Range Composition
+Scanner. They have a clonal colony range of 200m.

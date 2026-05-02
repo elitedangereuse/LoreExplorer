@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       55fe4618-fb9c-4bff-a9f2-07107c7e7c68
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Chalice_Pod
+:END:
+#+title: Chalice Pod
+#+filetags: :Specie:Flora:
+
+#+begin_quote
+These seed pods are so called because of their distinctive cup-like
+shape.
+#+end_quote
+
+Chalice Pods are seed pods found in Notable Stellar Phenomena.

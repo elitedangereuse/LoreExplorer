@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       40b666c9-c9c8-4454-9de7-1a5ef8570cda
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Mudlark
+:END:
+#+title: Mudlark
+#+filetags: :Specie:Lore:Nonsapient:
+
+The mudlarks were a sentient species indigenous to [[id:bed8c27f-3cbe-49ad-b86f-7d87eacf804a][Achenar]] 6d,
+which is known today as [[id:912f1172-e2b9-4fe9-9e53-13dd44fac4c4][Capitol]], the heart of the
+[[id:77cf2f14-105e-4041-af04-1213f3e7383c][Empire]]. Tragically, the mudlarks were driven to extinction in
+the early 24th century by bacteria carried by human colonists, though
+rumors persist that Emperor [[id:a8a8c926-5bfc-4411-928b-7f88d2209e41][Henson Duval]] had deliberately wiped out
+the mudlarks to make way for his colonial development plans. The
+extinction of the mudlarks became the pretext for the
+[[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][Federation]]'s failed attempt to capture [[id:bed8c27f-3cbe-49ad-b86f-7d87eacf804a][Achenar]].
+
+Sentience: Non-sapient.
+Location: Lore.

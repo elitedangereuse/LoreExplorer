@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a906ba13-74b3-4383-8bc2-521422151299
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Stratum
+:END:
+#+title: Stratum
+#+filetags: :Specie:Flora:
+
+#+begin_quote
+Low-lying photosynthetic organisms that bond tightly to the surface
+of rocks. The body of the organism may be embedded in the rock
+subsurface to provide protection from the elements, leaving the
+tough photosynthetic proto-leaves exposed. Their simple proto-
+evolutionary nature means that they are a common sight on rocky
+worlds. Colouration is driven by a mixture of the mineral content of
+the attached rock and the absorption spectra of the nearby stellar
+body.
+#+end_quote
+
+Stratum are a genus of alien organism found on planets and moons
+with thin atmospheres across the galaxy. They can be sampled with
+the Genetic Sampler and scanned with the Short Range Composition
+Scanner. They have a clonal colony range of 500m.

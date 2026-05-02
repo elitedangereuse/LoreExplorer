@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       424e1a30-e5c2-40f0-8048-34dde58f0115
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Quadripartite_Pod
+:END:
+#+title: Quadripartite Pod
+#+filetags: :Specie:Flora:
+
+#+begin_quote
+These seed pods are characterised by their distinctive four-
+chambered shape.
+#+end_quote
+
+Quadripartite Pods are seed pods found in Notable Stellar Phenomena.
+They have a thick husk that protects their fleshy interior from the
+vacuum of space.

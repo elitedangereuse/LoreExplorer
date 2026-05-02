@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       7d84ffaf-8423-4917-87e2-9a33b3af6f05
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Aster_Pod
+:END:
+#+title: Aster Pod
+#+filetags: :Specie:Flora:
+
+#+begin_quote
+These pods contain the seeds of the aster tree, a space-based
+organism with some of the qualities of a terrestrial plant.
+#+end_quote
+
+Aster Pods are seed pods found in Notable Stellar Phenomena that are
+produced by Aster Trees.

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       927559cb-d925-431d-b710-3a676d59c117
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Peduncle_Pod
+:END:
+#+title: Peduncle Pod
+#+filetags: :Specie:Flora:
+
+#+begin_quote
+These pods contain the seeds of the peduncle tree, a space-based
+organism with some of the qualities of a terrestrial plant.
+#+end_quote
+
+Peduncle Pods are spacefaring plant-like organisms produced by
+Peduncle Trees and found among Notable Stellar Phenomena. They move
+in random directions by expelling a green liquid. They are sometimes
+located at the same sites as Peduncle Trees, but both organisms do
+not necessarily share the same type; for example, Gypseeum Peduncle
+Pods have been reported near Caeruleum Peduncle Trees.

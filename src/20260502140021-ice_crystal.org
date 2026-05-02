@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       78bc93af-3189-40ad-84bd-56e1612a9ab1
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Ice_Crystal
+:END:
+#+title: Ice Crystal
+#+filetags: :Specie:Flora:
+
+#+begin_quote
+These crystalline structures are so called because of their
+resemblance to icicles.
+#+end_quote
+
+Ice Crystals are crystalline structures found in Notable Stellar
+Phenomena that are produced by colonies of spacefaring
+microorganisms.

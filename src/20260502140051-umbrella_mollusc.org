@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       2a8803fe-be9a-4a4d-913d-dc0dfaa76eb4
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Umbrella_Mollusc
+:END:
+#+title: Umbrella Mollusc
+#+filetags: :Specie:Fauna:
+
+#+begin_quote
+These organisms, so called because of their resemblance to
+umbrellas, are protected by husks that shield them from radiation.
+#+end_quote
+
+Umbrella Molluscs are non-sapient, spacefaring creatures that
+inhabit Notable Stellar Phenomena and loosely resemble the molluscs
+native to Earth.

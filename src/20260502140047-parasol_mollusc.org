@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       60dd8749-7d21-4bc5-94ac-4be69bac3ff8
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Parasol_Mollusc
+:END:
+#+title: Parasol Mollusc
+#+filetags: :Specie:Fauna:
+
+#+begin_quote
+These organisms, so called because of their parasol-like shape, are
+protected by husks that shield them from radiation.
+#+end_quote
+
+Parasol Molluscs are non-sapient, spacefaring creatures that inhabit
+Notable Stellar Phenomena and loosely resemble the molluscs native
+to Earth.

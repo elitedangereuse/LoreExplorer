@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       b7cfbdd8-0457-4902-ae3a-20ad1c8bb889
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/L-Type_Anomaly
+:END:
+#+title: L-Type Anomaly
+#+filetags: :Specie:Anomaly:
+
+#+begin_quote
+A range of phenomena characterised by luminous clusters of energy.
+#+end_quote
+
+L-Type Anomalies are a form of Notable Stellar Phenomena.

@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       ce2cd01a-32c5-4bb5-b0a2-2164994a478e
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Fonticulua
+:END:
+#+title: Fonticulua
+#+filetags: :Specie:Flora:
+
+#+begin_quote
+Photosynthetic colony organisms found exclusively on ice worlds,
+where they have embraced the surrounding frozen material as a form
+of protection. As the fonticulus develop they melt ice from around
+them, absorbing the liquid through tiny cellular pores and passing
+it to the colony's reproductive edge. Here the liquid is excreted
+and immediately refreezes, creating hard translucent exoskeletons
+that provide protection for the organisms. Frond structures create a
+wide flat space that expose internal photosynthetic cells to as much
+light as possible. Reproduction appears to occur by colony division,
+most likely when a shard of the structure collapses under it's own
+weight and the smaller shard creates a new colony.
+#+end_quote
+
+Fonticulua are a species of alien organism found on planets and
+moons with thin atmospheres across the galaxy. They can be sampled
+with the Genetic Sampler and scanned with the Short Range
+Composition Scanner. They have a clonal colony range of 500m.

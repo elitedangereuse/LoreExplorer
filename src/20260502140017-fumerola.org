@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a441e4dd-d0e6-4f97-8410-9a4f60f00d68
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Fumerola
+:END:
+#+title: Fumerola
+#+filetags: :Specie:Flora:
+
+#+begin_quote
+Extremophile organisms located in regions with active fumaroles.
+Their metabolism is driven exclusively through chemosynthetic and
+thermosynthetic mechanisms based on nearby volcanic activity.
+Proximity to volcanic heat allows them to survive in environments
+where the ambient temperature is naturally too cold for them. They
+frequently incorporate minerals from the fumaroles' ejecta, meaning
+they can appear inorganic at first glance and may sport exotic
+colours.
+#+end_quote
+
+Fumerola are a genus of alien organism found on planets and moons
+with thin atmospheres across the galaxy. They can be sampled with
+the Genetic Sampler and scanned with the Short Range Composition
+Scanner. They appear to grow on certain types of Fumaroles.

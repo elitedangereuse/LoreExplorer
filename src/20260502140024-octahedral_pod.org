@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       fb7fcd5c-89b0-433c-8042-2947972a297c
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Octahedral_Pod
+:END:
+#+title: Octahedral Pod
+#+filetags: :Specie:Flora:
+
+#+begin_quote
+These seed pods are produced by void hearts, space-based organisms
+with some of the qualities of a terrestrial plant.
+#+end_quote
+
+Octahedral Pods are seed pods that are produced by Void Hearts and
+found in Notable Stellar Phenomena.

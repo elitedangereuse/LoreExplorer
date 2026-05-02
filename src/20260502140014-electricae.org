@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       0ac445fb-ad5e-4274-8236-61f8b67c9cb4
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Electricae
+:END:
+#+title: Electricae
+#+filetags: :Specie:Flora:
+
+#+begin_quote
+Organisms found exclusively on extremely cold ice worlds in the
+vicinity of frozen lakes. The visible tips can be observed
+protruding from the ice, often near fissures where it is thinnest.
+The bulk of the organisms extend down through the ice into
+subsurface melt, potentially for several kilometres. Electricae are
+superconductive in nature, utilising the thermal circulation of the
+surrounding fluid to drive an electrochemical process. This is
+probably why they are limited to planets with atmospheres dominated
+by noble gases. The surface structure exists to provide a connection
+point to the atmosphere, which in turn creates a point of potential
+electrical difference. A by-product of this is the bioluminescent
+display that runs through the organism. Although never witnessed,
+reproduction presumably occurs below the surface by some
+unidentified process.
+#+end_quote
+
+Electricae is a genus of alien organism found on planets and moons
+with thin atmospheres across the galaxy. They can be sampled with
+the Genetic Sampler and scanned with the Short Range Composition
+Scanner.

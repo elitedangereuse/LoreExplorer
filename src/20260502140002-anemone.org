@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       ae3a204d-c477-4a61-8faa-b2d4bba7e08c
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Anemone
+:END:
+#+title: Anemone
+#+filetags: :Specie:Flora:
+
+#+begin_quote
+Despite their name, these organic structures more closely resemble
+the shells of sea urchins.
+#+end_quote
+
+Anemones are a species of Fungal Life that have been found on the
+surfaces of airless planets and moons across the galaxy. They
+resemble giant Earth-like pumpkins, and were originally nicknamed
+"Space Pumpkins" by explorers. They can tolerate a wide range of
+temperatures, and are able to absorb energy from nearby stars.

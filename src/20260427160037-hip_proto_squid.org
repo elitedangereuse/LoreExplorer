@@ -1,9 +1,25 @@
 :PROPERTIES:
 :ID:       4bc54a65-1728-4a5a-8582-d649c30b79b0
-:ROAM_REFS: https://inara.cz/elite/commodity/10021/
+:ROAM_REFS: https://inara.cz/elite/commodity/10021/ https://elite-dangerous.fandom.com/wiki/HIP_Proto-Squid
 :END:
 #+title: HIP Proto-Squid
-#+filetags: :Commodity:rare:
+#+filetags: :Commodity:rare:Specie:Lore:Nonsapient:
+
+#+begin_quote
+Though there is no genetic link between the huge creatures of
+[[id:cd7894ad-5bc7-4c15-b7c8-67120da11394][HIP 41181]] and the now extinct squid once found on ancient
+[[id:5b0f485f-4793-468d-a1a1-483606f44e0e][Earth]], the evolutionary similarities are remarkable. Perhaps they
+share some ancient space faring ancestor. There was much protest at
+the use of these animals as food. Claims of sentience still remain high
+on the agenda of those trying to stamp out the trade.
+#+end_quote
+
+HIP Proto-Squid is a huge alien creature that has a strong
+resemblance to the now extinct squid from [[id:5b0f485f-4793-468d-a1a1-483606f44e0e][Earth]]. It's also a specific
+item of Foods in the galaxy of Elite Dangerous.
+
+Sentience: Non-sapient.
+Location: Lore.
+
 
 Sold as a rare commodity at [[id:adf16b4f-60eb-4849-82ee-4e6d5401abed][Andersson Station]], [[id:cd7894ad-5bc7-4c15-b7c8-67120da11394][HIP 41181]].
-

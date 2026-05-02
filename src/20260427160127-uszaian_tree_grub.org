@@ -1,9 +1,24 @@
 :PROPERTIES:
 :ID:       38ca2282-281d-4561-bbaf-a617e378fd47
-:ROAM_REFS: https://inara.cz/elite/commodity/10106/
+:ROAM_REFS: https://inara.cz/elite/commodity/10106/ https://elite-dangerous.fandom.com/wiki/Uszaian_Tree_Grub
 :END:
 #+title: Uszaian Tree Grub
-#+filetags: :Commodity:rare:
+#+filetags: :Commodity:rare:Specie:Lore:Nonsentient:
+
+#+begin_quote
+This grub was introduced to the system from
+[[id:ff595332-6a13-4f69-ae2f-cc0a0df8e741][Lave]], in an attempt to create a wildlife reserve for endangered
+species. Unfortunately the grubs mutated and evolved in their new
+environment, and the project failed. The evolved grubs were found to
+have a delicious flavor and surprising texture, and have since become a
+delicacy.
+#+end_quote
+
+Uszaian Tree Grub is a Food Rare Commodity exclusively sold by Guest
+Installation in the [[id:33bd5592-aab7-4736-87b7-a8e38c34026e][Uszaa]] system.
+
+Sentience: Non-sentient.
+Location: Lore.
+
 
 Sold as a rare commodity at [[id:6e796043-8fe8-4bbe-b37e-fe3c72009781][Guest Installation]], [[id:33bd5592-aab7-4736-87b7-a8e38c34026e][Uszaa]].
-

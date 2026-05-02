@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       8293d32a-a910-4fec-8d34-92a2a8d63bf3
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Sinuous_Tuber
+:END:
+#+title: Sinuous Tuber
+#+filetags: :Specie:Flora:
+
+#+begin_quote
+These organic structures are distinguished by their tubular shape
+and vivid colouration.
+#+end_quote
+
+Sinuous Tubers are a species of Fungal Life that have been found on
+the surfaces of airless planets and moons across the galaxy. They
+were originally nicknamed "Tube Worms" by explorers due to their
+resemblance to tube worms found on Earth.

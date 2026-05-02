@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       d5c71ba2-ef60-4d7e-876c-36e64611268c
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Radioplankton
+:END:
+#+title: Radioplankton
+#+filetags: :Specie:Lore:Nonsentient:
+
+Radioplankton are tiny, free-floating, carbon-based algae that
+inhabit sub-categories of Gas Giant planets called Gas Giants with
+Water-based Life and Gas Giants with Ammonia-based Life. Unlike some
+other alien species, radioplankton cannot be directly observed, and
+are only known to exist through the text descriptions on System
+Maps.
+
+Sentience: Non-sentient.
+Location: Lore.

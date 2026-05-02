@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       d1be22db-f3a6-4cd7-99f2-1e068947fa84
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Osseus
+:END:
+#+title: Osseus
+#+filetags: :Specie:Flora:
+
+#+begin_quote
+The Osseus species grows a single thick stalk from which emerges a
+wide, broadly circular, pitted endoskeleton. This structure is
+designed to dramatically increase the surface area of the organism,
+facilitating chemical capture and chemosynthesis on its
+catalytically active surface.
+#+end_quote
+
+Osseus is a genus of alien organism found on planets and moons with
+thin atmospheres across the galaxy. They can be sampled with the
+Genetic Sampler and scanned with the Short Range Composition
+Scanner. They have a clonal colony range of 800m.

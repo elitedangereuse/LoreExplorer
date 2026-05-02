@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       51ac01a7-ada3-43d3-aa72-3adfe0e7a73f
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Construct
+:END:
+#+title: Construct
+#+filetags: :Specie:Lore:Sapient:
+
+The Constructs are a sentient, robotic species that were created by
+the [[id:f57cff55-3348-45ea-b76f-d0eaa3c68165][Guardians]] 1 to 2 million years ago. It is unknown whether
+they still exist in the galaxy.
+
+Sentience: Sapient.
+Location: Lore.

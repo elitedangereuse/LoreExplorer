@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       72306fce-340e-4919-a626-c1dd53ddc9c8
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Capsule_Mollusc
+:END:
+#+title: Capsule Mollusc
+#+filetags: :Specie:Fauna:
+
+#+begin_quote
+These organisms are so called because of their resemblance to
+capsules, are protected by husks that shield them from radiation.
+#+end_quote
+
+Capsule Molluscs are non-sapient, spacefaring creatures that inhabit
+Notable Stellar Phenomena and loosely resemble the molluscs native
+to Earth. Pairs of Capsule Molluscs have been observed discharging
+energy between each other via their tentacles.

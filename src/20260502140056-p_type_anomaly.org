@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       59911a04-2c3f-4546-9587-1a59df25cfbf
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/P-Type_Anomaly
+:END:
+#+title: P-Type Anomaly
+#+filetags: :Specie:Anomaly:
+
+#+begin_quote
+A range of phenomena characterised by intensely bright energy
+patterns.
+#+end_quote
+
+P-Type Anomalies are a form of Notable Stellar Phenomena.
