@@ -63,60 +63,6 @@
             </div>
             <div id="toolbar-detective-actions" class="toolbar-actions toolbar-detective-actions" aria-label="Detective tools" hidden>
               <button
-                id="toolbar-create-layer-button"
-                class="toolbar-icon-button is-detective-create"
-                type="button"
-                aria-label="Create layer"
-                data-tooltip="Create layer"
-              >
-                <span class="toolbar-icon" aria-hidden="true">
-                  <svg viewBox="0 0 24 24" focusable="false">
-                    <path d="M12 5v14M5 12h14"/>
-                  </svg>
-                </span>
-              </button>
-              <button
-                id="toolbar-create-node-button"
-                class="toolbar-icon-button is-detective-node"
-                type="button"
-                aria-label="Create custom node"
-                data-tooltip="Create custom node"
-              >
-                <span class="toolbar-icon" aria-hidden="true">
-                  <svg viewBox="0 0 24 24" focusable="false">
-                    <path d="M12 3 20 8v8l-8 5-8-5V8z"/>
-                    <path d="M12 9v6M9 12h6"/>
-                  </svg>
-                </span>
-              </button>
-              <button
-                id="toolbar-duplicate-layer-button"
-                class="toolbar-icon-button is-detective-duplicate"
-                type="button"
-                aria-label="Duplicate layer"
-                data-tooltip="Duplicate layer"
-              >
-                <span class="toolbar-icon" aria-hidden="true">
-                  <svg viewBox="0 0 24 24" focusable="false">
-                    <rect x="9" y="9" width="10" height="10" rx="2"/>
-                    <rect x="5" y="5" width="10" height="10" rx="2"/>
-                  </svg>
-                </span>
-              </button>
-              <button
-                id="toolbar-delete-layer-button"
-                class="toolbar-icon-button is-detective-delete"
-                type="button"
-                aria-label="Delete layer"
-                data-tooltip="Delete layer"
-              >
-                <span class="toolbar-icon" aria-hidden="true">
-                  <svg viewBox="0 0 24 24" focusable="false">
-                    <path d="M4 7h16M9 7V5h6v2M8 10v7M12 10v7M16 10v7M6 7l1 12h10l1-12"/>
-                  </svg>
-                </span>
-              </button>
-              <button
                 id="toolbar-export-layer-button"
                 class="toolbar-icon-button is-detective-export"
                 type="button"
@@ -147,20 +93,6 @@
               </button>
             </div>
             <div class="toolbar-actions toolbar-node-actions" aria-label="Node actions">
-              <button
-                id="toolbar-inspect-button"
-                class="toolbar-icon-button"
-                type="button"
-                aria-label="Inspect node"
-                data-tooltip="Inspect node"
-              >
-                <span class="toolbar-icon" aria-hidden="true">
-                  <svg viewBox="0 0 24 24" focusable="false">
-                    <circle cx="11" cy="11" r="6"/>
-                    <path d="M20 20l-4.2-4.2"/>
-                  </svg>
-                </span>
-              </button>
               <button
                 id="toolbar-local-graph-button"
                 class="toolbar-icon-button"
@@ -250,15 +182,15 @@
             <canvas id="graph-canvas"></canvas>
             <div
               id="graph-stats-badge"
-              class="graph-stats-badge"
+              class="graph-stats-badge is-loading"
               aria-live="polite"
-              data-tooltip=""
-            ></div>
+              data-tooltip="Loading graph data"
+            >Loading graph…</div>
             <div id="graph-context-menu" class="graph-context-menu" hidden>
-              <button id="context-inspect-node" type="button">Inspect Node</button>
               <button id="context-open-local-graph" type="button">Open Local Graph</button>
               <button id="context-expand-node" type="button">Expand Neighbors</button>
               <button id="context-toggle-bookmark" type="button">Bookmark Node</button>
+              <button id="context-delete-custom-node" type="button" hidden>Delete Custom Node</button>
             </div>
           </div>
         </main>

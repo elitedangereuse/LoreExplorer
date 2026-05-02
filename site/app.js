@@ -10,13 +10,8 @@ const resetButton = document.getElementById("reset-button");
 const toolbarBackButton = document.getElementById("toolbar-back-button");
 const detectiveButton = document.getElementById("detective-button");
 const toolbarDetectiveActions = document.getElementById("toolbar-detective-actions");
-const toolbarCreateLayerButton = document.getElementById("toolbar-create-layer-button");
-const toolbarCreateNodeButton = document.getElementById("toolbar-create-node-button");
-const toolbarDuplicateLayerButton = document.getElementById("toolbar-duplicate-layer-button");
-const toolbarDeleteLayerButton = document.getElementById("toolbar-delete-layer-button");
 const toolbarExportLayerButton = document.getElementById("toolbar-export-layer-button");
 const toolbarImportLayerButton = document.getElementById("toolbar-import-layer-button");
-const toolbarInspectButton = document.getElementById("toolbar-inspect-button");
 const toolbarLocalGraphButton = document.getElementById("toolbar-local-graph-button");
 const toolbarExpandButton = document.getElementById("toolbar-expand-button");
 const toolbarBookmarkButton = document.getElementById("toolbar-bookmark-button");
@@ -35,10 +30,10 @@ const investigatorTools = document.getElementById("investigator-tools");
 const layerImportInput = document.getElementById("layer-import-input");
 const graphStage = document.querySelector(".graph-stage");
 const graphContextMenu = document.getElementById("graph-context-menu");
-const contextInspectNodeButton = document.getElementById("context-inspect-node");
 const contextOpenLocalGraphButton = document.getElementById("context-open-local-graph");
 const contextExpandNodeButton = document.getElementById("context-expand-node");
 const contextToggleBookmarkButton = document.getElementById("context-toggle-bookmark");
+const contextDeleteCustomNodeButton = document.getElementById("context-delete-custom-node");
 const layerContextMenu = document.getElementById("layer-context-menu");
 const contextRenameLayerButton = document.getElementById("context-rename-layer");
 const appTooltip = document.getElementById("app-tooltip");
@@ -294,11 +289,6 @@ function timestamp() {
 const debouncedSaveInvestigationState = debounce(() => {
   saveInvestigationState({ syncLayer: true });
 }, 300);
-
-const debouncedRebuildAndRender = debounce(() => {
-  rebuildRuntimeGraphData();
-  render();
-}, 200);
 
 function getStorage() {
   try {
@@ -818,6 +808,16 @@ function extractNodeReferencesFromText(text) {
     match = INVESTIGATION_LINK_RE.exec(text);
   }
   return [...nodeIds];
+}
+
+function removeInvestigationLinksToNode(text, nodeId, fallbackLabel = nodeId) {
+  if (!text || !nodeId) {
+    return text || "";
+  }
+  INVESTIGATION_LINK_RE.lastIndex = 0;
+  return String(text).replace(INVESTIGATION_LINK_RE, (match, fullTarget, targetId, label) => (
+    targetId === nodeId ? (label || fallbackLabel || targetId) : match
+  ));
 }
 
 function stripInvestigationMarkup(text) {
@@ -1586,10 +1586,7 @@ function getBaseVisibleNodeIds() {
   const visibleCustomIds = state.nodes
     .filter((node) => node.isCustom && isRuntimeNodeVisible(node))
     .map((node) => node.id);
-  if (visibleCustomIds.length) {
-    if (!visibleIds) {
-      visibleIds = new Set();
-    }
+  if (visibleIds && visibleCustomIds.length) {
     visibleCustomIds.forEach((nodeId) => visibleIds.add(nodeId));
   }
 
@@ -2040,10 +2037,34 @@ function renderNodeLabels(nodes) {
   context.restore();
 }
 
+function formatByteCount(bytes) {
+  if (!Number.isFinite(bytes) || bytes <= 0) {
+    return "0 KB";
+  }
+  if (bytes < 1024 * 1024) {
+    return `${Math.max(1, Math.round(bytes / 1024))} KB`;
+  }
+  return `${(bytes / (1024 * 1024)).toFixed(1)} MB`;
+}
+
+function waitForNextPaint() {
+  return new Promise((resolve) => requestAnimationFrame(() => resolve()));
+}
+
+function setGraphLoadingStatus(label, tooltip = label) {
+  if (!graphStatsBadge) {
+    return;
+  }
+  graphStatsBadge.classList.add("is-loading");
+  graphStatsBadge.textContent = label;
+  setTooltipLabel(graphStatsBadge, tooltip);
+}
+
 function reportVisibleGraphStats(visibleNodeCount, visibleLinkCount) {
   if (graphStatsBadge) {
     const totalNodeCount = state.baseMeta?.nodeCount ?? state.baseNodes.length;
     const totalLinkCount = state.baseMeta?.edgeCount ?? state.baseEdges.length;
+    graphStatsBadge.classList.remove("is-loading");
     graphStatsBadge.textContent = `${visibleNodeCount} nodes, ${visibleLinkCount} links`;
     setTooltipLabel(graphStatsBadge, `Total: ${totalNodeCount} nodes, ${totalLinkCount} links`);
   }
@@ -2892,12 +2913,27 @@ function createCustomNodeRecord(title = "Untitled Lead") {
   return customNode;
 }
 
-function createCustomNode() {
-  const customNode = createCustomNodeRecord("Untitled Lead");
+function createCustomNode(title = "Untitled Lead") {
+  const customNode = createCustomNodeRecord(title);
   if (!customNode) {
     return;
   }
   setToolStatusMessage(`Created custom node in ${getActiveLayer()?.name || "layer"}: ${customNode.title}`);
+  selectNode(customNode.id, true);
+}
+
+function createCustomNodeFromPanel() {
+  const input = document.getElementById("custom-node-create-title");
+  const title = input?.value.trim() || "Untitled Lead";
+  const customNode = createCustomNodeRecord(title);
+  if (!customNode) {
+    return;
+  }
+  if (input) {
+    input.value = "";
+  }
+  setToolStatusMessage(`Created custom node: ${customNode.title}`);
+  renderInvestigatorTools();
   selectNode(customNode.id, true);
 }
 
@@ -2943,31 +2979,102 @@ function updateCustomNode(nodeId, updates) {
   rebuildRuntimeGraphData();
 }
 
+function scrubSavedPathsForDeletedNode(savedPaths, nodeId) {
+  return (savedPaths || [])
+    .map((savedPath) => ({
+      ...savedPath,
+      nodeIds: (savedPath.nodeIds || []).filter((pathNodeId) => pathNodeId !== nodeId),
+    }))
+    .filter((savedPath) => savedPath.nodeIds.length >= 2);
+}
+
+function scrubNodeNotesForDeletedNode(nodeNotes, nodeId, fallbackLabel) {
+  return Object.fromEntries(
+    Object.entries(nodeNotes || {})
+      .filter(([noteNodeId]) => noteNodeId !== nodeId)
+      .map(([noteNodeId, text]) => [
+        noteNodeId,
+        removeInvestigationLinksToNode(text, nodeId, fallbackLabel),
+      ]),
+  );
+}
+
+function scrubLayerForDeletedCustomNode(layer, nodeId, fallbackLabel) {
+  return {
+    ...layer,
+    bookmarks: (layer.bookmarks || []).filter((bookmarkId) => bookmarkId !== nodeId),
+    savedPaths: scrubSavedPathsForDeletedNode(layer.savedPaths, nodeId),
+    nodeNotes: scrubNodeNotesForDeletedNode(layer.nodeNotes, nodeId, fallbackLabel),
+    customNodes: (layer.customNodes || []).filter((customNode) => customNode.id !== nodeId),
+    pathTargetNodeId: layer.pathTargetNodeId === nodeId ? null : layer.pathTargetNodeId,
+    activePathNodeIds: (layer.activePathNodeIds || []).filter((pathNodeId) => pathNodeId !== nodeId),
+    pathFocus: layer.pathFocus && (layer.activePathNodeIds || []).filter((pathNodeId) => pathNodeId !== nodeId).length >= 2,
+    updatedAt: timestamp(),
+  };
+}
+
 function deleteCustomNode(nodeId) {
   if (!nodeId) {
     return;
   }
+  const deletedNode = state.nodeById.get(nodeId) || state.customNodes.find((node) => node.id === nodeId);
+  if (!deletedNode?.isCustom && !state.customNodes.some((node) => node.id === nodeId)) {
+    return;
+  }
+  const fallbackLabel = deletedNode?.title || nodeId;
   state.customNodes = state.customNodes.filter((node) => node.id !== nodeId);
-  const nextNodeNotes = { ...state.nodeNotes };
-  delete nextNodeNotes[nodeId];
-  state.nodeNotes = nextNodeNotes;
-  saveInvestigationState();
+  state.nodeNotes = scrubNodeNotesForDeletedNode(state.nodeNotes, nodeId, fallbackLabel);
+  state.bookmarkedNodeIds = state.bookmarkedNodeIds.filter((bookmarkId) => bookmarkId !== nodeId);
+  state.savedPaths = scrubSavedPathsForDeletedNode(state.savedPaths, nodeId);
+  state.pathTargetNodeId = state.pathTargetNodeId === nodeId ? null : state.pathTargetNodeId;
+  state.pathFromNodeId = state.pathFromNodeId === nodeId ? null : state.pathFromNodeId;
+  state.pathToNodeId = state.pathToNodeId === nodeId ? null : state.pathToNodeId;
+  state.activePathNodeIds = state.activePathNodeIds.filter((pathNodeId) => pathNodeId !== nodeId);
+  state.pathFocus = state.pathFocus && state.activePathNodeIds.length >= 2;
+  state.activePathEdgeKeys = new Set();
+  for (let index = 1; index < state.activePathNodeIds.length; index += 1) {
+    state.activePathEdgeKeys.add(edgeKey(state.activePathNodeIds[index - 1], state.activePathNodeIds[index]));
+  }
+  persistActiveLayerIntoCollection();
+  state.investigationLayers = state.investigationLayers.map((layer) => (
+    layer.id === state.activeLayerId ? layer : scrubLayerForDeletedCustomNode(layer, nodeId, fallbackLabel)
+  ));
+  saveInvestigationState({ syncLayer: false });
   rebuildRuntimeGraphData();
   if (currentNodeId() === nodeId) {
+    state.graphRootNodeId = null;
+    state.inspectNodeId = null;
+    state.neighborMode = false;
+    state.expandedNodeIds = new Set();
     showEmptyNoteState();
     noteMeta.innerHTML = renderSearchCompletionsPanel();
+    updateUrlState();
   }
   renderInvestigatorTools();
   render();
   setToolStatusMessage("Custom node deleted.");
 }
 
-function duplicateActiveLayer() {
-  const activeLayer = getActiveLayer();
-  if (!activeLayer) {
+function confirmDeleteCustomNode(nodeId) {
+  const node = state.nodeById.get(nodeId) || state.customNodes.find((entry) => entry.id === nodeId);
+  if (!node) {
+    return;
+  }
+  if (!window.confirm(`Delete custom node "${node.title}" from this investigation layer?`)) {
+    return;
+  }
+  deleteCustomNode(nodeId);
+}
+
+function duplicateLayer(layerId = state.activeLayerId) {
+  if (!layerId) {
     return;
   }
   persistActiveLayerIntoCollection();
+  const activeLayer = state.investigationLayers.find((layer) => layer.id === layerId);
+  if (!activeLayer) {
+    return;
+  }
   const nextLayer = sanitizeLayer({
     ...activeLayer,
     id: generateId("layer"),
@@ -2984,6 +3091,10 @@ function duplicateActiveLayer() {
     loadNote(currentNodeId());
   }
   setToolStatusMessage(`Duplicated layer: ${nextLayer.name}`);
+}
+
+function duplicateActiveLayer() {
+  duplicateLayer(state.activeLayerId);
 }
 
 function toggleCanonLayerVisibility() {
@@ -3008,7 +3119,11 @@ function toggleLayerVisibility(layerId) {
   render();
 }
 
-function deleteActiveLayer() {
+function deleteLayer(layerId = state.activeLayerId) {
+  if (!layerId) {
+    return;
+  }
+  persistActiveLayerIntoCollection();
   if (state.investigationLayers.length <= 1) {
     state.investigationLayers = [];
     state.activeLayerId = null;
@@ -3023,17 +3138,27 @@ function deleteActiveLayer() {
     render();
     return;
   }
-  const previousLayer = getActiveLayer();
-  const remainingLayers = state.investigationLayers.filter((layer) => layer.id !== state.activeLayerId);
+  const previousLayer = state.investigationLayers.find((layer) => layer.id === layerId);
+  const remainingLayers = state.investigationLayers.filter((layer) => layer.id !== layerId);
   state.investigationLayers = remainingLayers;
-  state.activeLayerId = remainingLayers[0].id;
-  applyLayerToState(remainingLayers[0]);
+  if (state.activeLayerId === layerId) {
+    state.activeLayerId = remainingLayers[0].id;
+    applyLayerToState(remainingLayers[0]);
+  } else {
+    applyLayerToState(getActiveLayer());
+  }
   saveInvestigationState({ syncLayer: false });
   rebuildRuntimeGraphData();
   if (currentNodeId() && state.nodeById.has(currentNodeId())) {
     loadNote(currentNodeId());
   }
   setToolStatusMessage(previousLayer ? `Deleted layer: ${previousLayer.name}` : "Deleted layer.");
+  renderInvestigatorTools();
+  render();
+}
+
+function deleteActiveLayer() {
+  deleteLayer(state.activeLayerId);
 }
 
 function renameLayer(layerId, name) {
@@ -3199,12 +3324,21 @@ function renderInvestigatorTools() {
   const activeLayer = getActiveLayer();
   const activeCustomNodes = state.customNodes;
   const activeSavedPaths = state.savedPaths;
-  const pathFromId = state.activePathNodeIds[0] || currentNodeId() || "";
-  const pathToId = state.pathTargetNodeId || "";
+  const hasActivePath = state.activePathNodeIds.length > 1;
+  const pathToolOpen = hasActivePath || state.pathFromNodeId || state.pathToNodeId;
+  const layerNotesOpen = Boolean((activeLayer?.notes || "").trim());
 
   investigatorTools.innerHTML = `
     <div class="tool-card">
-      <div class="tool-card-toolbar">
+      <section class="tool-card-toolbar detective-layer-summary">
+        <div>
+          <div class="tool-kicker">Active layer</div>
+          <div class="detective-layer-title">${escapeHtml(activeLayer?.name || "No investigation layer")}</div>
+        </div>
+        <div class="tool-status">${escapeHtml(state.toolStatusMessage || "Ready")}</div>
+      </section>
+
+      <div class="tool-card-toolbar layer-management-section">
         <div class="layer-stack" role="list" aria-label="Layer stack">
           ${orderedLayers.map((layer) => `
             <div class="layer-row ${layer.id === state.activeLayerId ? "is-active" : ""}" role="listitem">
@@ -3226,20 +3360,6 @@ function renderInvestigatorTools() {
               }</button>
               <button
                 type="button"
-                class="layer-rename-button"
-                data-rename-layer="${layer.id}"
-                aria-label="Rename ${escapeHtml(layer.name)}"
-                data-tooltip="Rename ${escapeHtml(layer.name)}"
-              >
-                <span class="layer-rename-icon" aria-hidden="true">
-                  <svg viewBox="0 0 16 16" focusable="false">
-                    <path d="M11.8 1.8a1.5 1.5 0 0 1 2.1 2.1l-7.6 7.6-3 .8.8-3z"></path>
-                    <path d="M9.9 3.7 12.3 6.1"></path>
-                  </svg>
-                </span>
-              </button>
-              <button
-                type="button"
                 class="layer-select-button"
                 data-select-layer="${layer.id}"
                 data-layer-name="${escapeHtml(layer.name)}"
@@ -3253,6 +3373,34 @@ function renderInvestigatorTools() {
               >
                 <span class="layer-name">${escapeHtml(layer.name)}</span>
               </button>
+              <button
+                type="button"
+                class="layer-action-button"
+                data-rename-layer="${layer.id}"
+                aria-label="Rename ${escapeHtml(layer.name)}"
+                data-tooltip="Rename ${escapeHtml(layer.name)}"
+              >
+                <span class="layer-rename-icon" aria-hidden="true">
+                  <svg viewBox="0 0 16 16" focusable="false">
+                    <path d="M11.8 1.8a1.5 1.5 0 0 1 2.1 2.1l-7.6 7.6-3 .8.8-3z"></path>
+                    <path d="M9.9 3.7 12.3 6.1"></path>
+                  </svg>
+                </span>
+              </button>
+              <button
+                type="button"
+                class="layer-action-button"
+                data-duplicate-layer="${layer.id}"
+                aria-label="Duplicate ${escapeHtml(layer.name)}"
+                data-tooltip="Duplicate ${escapeHtml(layer.name)}"
+              >${iconMarkup("duplicate")}</button>
+              <button
+                type="button"
+                class="layer-action-button is-danger"
+                data-delete-layer="${layer.id}"
+                aria-label="Delete ${escapeHtml(layer.name)}"
+                data-tooltip="Delete ${escapeHtml(layer.name)}"
+              >${iconMarkup("trash")}</button>
             </div>
           `).join("")}
           <div class="layer-row ${state.activeLayerId ? "" : "is-active"} is-canon" role="listitem">
@@ -3275,12 +3423,50 @@ function renderInvestigatorTools() {
             <div class="layer-select-button is-static is-canon" aria-label="Canon Lore layer">
               <span class="layer-name">Canon Lore</span>
             </div>
+            <button
+              type="button"
+              class="layer-action-button"
+              data-create-layer="true"
+              aria-label="Create layer"
+              data-tooltip="Create layer"
+            >${iconMarkup("add")}</button>
           </div>
         </div>
       </div>
 
-      <div class="tool-card-toolbar">
-        <div class="tool-card-title">Trace Path</div>
+      <section class="tool-card-toolbar custom-node-section">
+        <div class="tool-card-title">Custom Nodes (${activeCustomNodes.length})</div>
+        <div class="custom-node-create-row">
+          <input
+            id="custom-node-create-title"
+            class="layer-name-input"
+            type="text"
+            placeholder="New custom node title"
+            autocomplete="off"
+          />
+          <button type="button" class="mini-button" id="create-custom-node-from-title">Create</button>
+        </div>
+        ${activeCustomNodes.length ? `
+          <div class="saved-item-list">
+            ${activeCustomNodes.map((customNode) => `
+              <div class="saved-item">
+                <button type="button" class="saved-item-open" data-select-node="${escapeHtml(customNode.id)}">
+                  <strong>${escapeHtml(customNode.title)}</strong>
+                  <small>${escapeHtml((customNode.tags || []).join(", "))}</small>
+                </button>
+                <button type="button" class="mini-button is-danger" data-delete-custom-node="${escapeHtml(customNode.id)}">Delete</button>
+              </div>
+            `).join("")}
+          </div>
+        ` : '<div class="tool-empty">No custom nodes in this layer yet.</div>'}
+      </section>
+
+      <details class="tool-section tool-section-path" ${pathToolOpen ? "open" : ""}>
+        <summary>
+          <span>Path tracer</span>
+          <small>${hasActivePath ? `${state.activePathNodeIds.length} nodes` : "find route"}</small>
+        </summary>
+        <div class="tool-section-body">
         ${renderNodeSearchInput("path-from", state.pathFromNodeId, "Search from node...", "From")}
         ${renderNodeSearchInput("path-to", state.pathToNodeId, "Search to node...", "To")}
         <div class="path-controls">
@@ -3289,18 +3475,23 @@ function renderInvestigatorTools() {
             type="button"
             class="mini-button ${state.pathFocus ? "is-active" : ""}"
             id="path-focus-button"
-            ${state.activePathNodeIds.length > 1 ? "" : "disabled"}
+            ${hasActivePath ? "" : "disabled"}
           >${state.pathFocus ? "Unfocus" : "Focus"}</button>
-          <button type="button" class="mini-button" id="save-path-button" ${state.activePathNodeIds.length > 1 ? "" : "disabled"}>Save</button>
+          <button type="button" class="mini-button" id="save-path-button" ${hasActivePath ? "" : "disabled"}>Save</button>
         </div>
         <div class="path-summary" id="path-summary-text">
-          ${state.activePathNodeIds.length > 1 ? `${state.activePathNodeIds.length} nodes · ${describePath(state.activePathNodeIds)}` : "No active path"}
+          ${hasActivePath ? `${state.activePathNodeIds.length} nodes · ${describePath(state.activePathNodeIds)}` : "No active path"}
         </div>
-      </div>
+        </div>
+      </details>
 
       ${activeSavedPaths.length ? `
-      <div class="tool-card-toolbar">
-        <div class="tool-card-title">Saved Paths</div>
+      <details class="tool-section saved-paths-section" open>
+        <summary>
+          <span>Saved paths</span>
+          <small>${activeSavedPaths.length}</small>
+        </summary>
+        <div class="tool-section-body">
         <div class="saved-item-list">
           ${activeSavedPaths.map((path) => `
             <div class="saved-item">
@@ -3312,36 +3503,23 @@ function renderInvestigatorTools() {
             </div>
           `).join("")}
         </div>
-      </div>
-      ` : ""}
-
-      ${activeCustomNodes.length ? `
-      <div class="tool-card-toolbar">
-        <div class="tool-card-title">Custom Nodes (${activeCustomNodes.length})</div>
-        <div class="saved-item-list">
-          ${activeCustomNodes.map((customNode) => `
-            <div class="saved-item">
-              <button type="button" class="saved-item-open" data-select-node="${escapeHtml(customNode.id)}">
-                <strong>${escapeHtml(customNode.title)}</strong>
-                <small>${escapeHtml((customNode.tags || []).join(", "))}</small>
-              </button>
-              <button type="button" class="mini-button" data-delete-custom-node="${escapeHtml(customNode.id)}">Delete</button>
-            </div>
-          `).join("")}
         </div>
-      </div>
+      </details>
       ` : ""}
 
-      <div class="tool-card-toolbar">
-        <div class="tool-card-title">Layer Notes</div>
+      <details class="tool-section layer-notes-section" ${layerNotesOpen ? "open" : ""}>
+        <summary>
+          <span>Layer notes</span>
+          <small>${layerNotesOpen ? "has notes" : "empty"}</small>
+        </summary>
+        <div class="tool-section-body">
         <textarea
           id="layer-notes-editor"
           class="investigation-notes"
           placeholder="General notes about this investigation layer..."
         >${escapeHtml(activeLayer?.notes || "")}</textarea>
-      </div>
-
-      <div class="tool-status tool-block">${escapeHtml(state.toolStatusMessage || "Ready")}</div>
+        </div>
+      </details>
     </div>
   `;
   updateDetectiveToolbarActions();
@@ -3840,11 +4018,9 @@ function renderNoteLinkPicker(nodeId) {
   const selectionText = state.noteLinkSelectionText.trim();
   return `
     <div class="note-link-picker">
-      <div class="note-link-selection">
-        ${selectionText
-          ? `<span class="meta-label">Selected Text</span><div class="note-link-selection-text">${escapeHtml(selectionText)}</div>`
-          : '<div class="tool-empty">Select text in the note first, then link it.</div>'}
-      </div>
+      ${selectionText
+        ? `<div class="note-link-selection-text">${escapeHtml(selectionText)}</div>`
+        : '<div class="tool-empty">Select text first, then choose a node.</div>'}
       <input
         id="note-link-query-input"
         class="layer-name-input"
@@ -3855,9 +4031,6 @@ function renderNoteLinkPicker(nodeId) {
         spellcheck="false"
       />
       <div id="note-link-result-list" class="note-link-result-list">${renderLinkSuggestionList(nodeId)}</div>
-      <div class="investigation-note-actions">
-        <button type="button" class="mini-button" data-close-note-link-picker="true">Close</button>
-      </div>
     </div>
   `;
 }
@@ -3873,24 +4046,23 @@ function renderCustomNodeEditor(node) {
   return `
     <section class="investigation-note-card custom-node-card">
       <div class="investigation-note-card-header">
-        <div>
-          <div class="tool-card-title">Custom Node</div>
-          <div class="tool-card-subtitle">This node only exists in the active investigation layer.</div>
-        </div>
+        <div class="tool-card-title">Edit Node</div>
       </div>
       <div class="custom-node-fields">
         <label class="custom-node-field">
-          <span class="meta-label">Title</span>
+          <span>Title</span>
           <input id="custom-node-title-input" type="text" value="${escapeHtml(customNode.title)}" />
         </label>
-        <label class="custom-node-field">
-          <span class="meta-label">Tags</span>
-          <input id="custom-node-tags-input" type="text" value="${escapeHtml((customNode.tags || []).join(", "))}" placeholder="Investigation, theory, clue" />
-        </label>
-        <label class="custom-node-field">
-          <span class="meta-label">Aliases</span>
-          <input id="custom-node-aliases-input" type="text" value="${escapeHtml((customNode.aliases || []).join(", "))}" placeholder="Optional aliases" />
-        </label>
+        <div class="custom-node-field-grid">
+          <label class="custom-node-field">
+            <span>Tags</span>
+            <input id="custom-node-tags-input" type="text" value="${escapeHtml((customNode.tags || []).join(", "))}" placeholder="tag, another tag" />
+          </label>
+          <label class="custom-node-field">
+            <span>Aliases</span>
+            <input id="custom-node-aliases-input" type="text" value="${escapeHtml((customNode.aliases || []).join(", "))}" placeholder="alias, another alias" />
+          </label>
+        </div>
       </div>
     </section>
   `;
@@ -3901,22 +4073,19 @@ function renderInvestigationNoteEditor(node) {
     return "";
   }
   const noteText = state.nodeNotes[node.id] || "";
-  const layerName = getActiveLayer()?.name || "Investigation";
   return `
     <section class="investigation-note-card">
       <div class="investigation-note-card-header">
-        <div>
-          <div class="tool-card-title">Layer Note</div>
-          <div class="tool-card-subtitle">${escapeHtml(layerName)} can annotate this node and create investigation-only links.</div>
-        </div>
+        <div class="tool-card-title">Notes</div>
         <div class="investigation-note-actions">
-          <button type="button" class="mini-button" data-open-note-link-picker="${escapeHtml(node.id)}">Link Selection</button>
+          <button type="button" class="mini-button" data-open-note-link-picker="${escapeHtml(node.id)}">Link selected text</button>
+          ${state.noteLinkPickerNodeId === node.id ? '<button type="button" class="mini-button" data-close-note-link-picker="true">Close linker</button>' : ""}
         </div>
       </div>
       <textarea
         id="node-note-editor"
         class="investigation-note-editor"
-        placeholder="Add investigation notes for this node. Select text and use Link Selection to create safe node references."
+        placeholder="Write investigation notes. Select text, then link it to another node."
       >${escapeHtml(noteText)}</textarea>
       <div id="note-link-picker-container">${renderNoteLinkPicker(node.id)}</div>
       <div class="investigation-note-preview">
@@ -3928,14 +4097,8 @@ function renderInvestigationNoteEditor(node) {
 
 function renderCustomNodeBody(node) {
   return `
-    <article class="note-body">
-      <header>
-        <h1>${escapeHtml(node.title)}</h1>
-        <p class="note-warning">Custom investigation node.</p>
-      </header>
-      <section>
-        <p>This node belongs to <strong>${escapeHtml(getLayerById(node.layerId)?.name || "the active layer")}</strong> and can be linked from investigation notes.</p>
-      </section>
+    <article class="note-body custom-node-body">
+      <header><h1>${escapeHtml(node.title)}</h1></header>
     </article>
   `;
 }
@@ -3957,6 +4120,18 @@ function renderNoteBookmarkButton(node) {
 function renderNoteTitleActions(node) {
   const canOpenLocalGraph = canOpenLocalGraphForNode(node.id);
   const canExpandNeighbors = canExpandNeighborsForNode(node.id);
+  const deleteCustomNodeButton = node.isCustom
+    ? `
+      <button
+        type="button"
+        class="toolbar-icon-button is-danger"
+        data-delete-custom-node="${escapeHtml(node.id)}"
+        aria-label="Delete custom node ${escapeHtml(node.title)}"
+      >
+        ${iconMarkup("trash")}
+      </button>
+    `
+    : "";
   return `
     <div class="note-title-actions">
       <button
@@ -3987,6 +4162,7 @@ function renderNoteTitleActions(node) {
         ${iconMarkup("expand")}
       </button>
       ${renderNoteBookmarkButton(node)}
+      ${deleteCustomNodeButton}
     </div>
   `;
 }
@@ -4010,6 +4186,11 @@ function syncNoteTitleActions(nodeId = currentNodeId()) {
   if (expandButton) {
     expandButton.disabled = !canExpandNeighborsForNode(nodeId);
     expandButton.setAttribute("aria-label", `Expand neighbors of ${node.title}`);
+  }
+  const deleteButton = noteContent.querySelector(`[data-delete-custom-node="${CSS.escape(nodeId)}"]`);
+  if (deleteButton) {
+    deleteButton.hidden = !node.isCustom;
+    deleteButton.setAttribute("aria-label", `Delete custom node ${node.title}`);
   }
 }
 
@@ -4054,6 +4235,25 @@ function updateCurrentNoteMeta() {
   noteMeta.innerHTML = renderNoteMetaPanel(node);
 }
 
+function refreshCurrentNoteDerivedSections() {
+  const nodeId = currentNodeId();
+  const node = state.nodeById.get(nodeId);
+  if (!node) {
+    updateCurrentNoteMeta();
+    return;
+  }
+  const backlinksSection = noteContent.querySelector(".note-backlinks-section");
+  if (backlinksSection) {
+    const wasOpen = backlinksSection.hasAttribute("open");
+    backlinksSection.outerHTML = renderBacklinksSection(nodeId);
+    if (wasOpen) {
+      noteContent.querySelector(".note-backlinks-section")?.setAttribute("open", "");
+    }
+  }
+  updateCurrentNoteMeta();
+  syncNoteTitleActions(nodeId);
+}
+
 function recordNoteCursor(textarea, nodeId = currentNodeId()) {
   if (!textarea || !nodeId) {
     return;
@@ -4091,7 +4291,7 @@ function openNoteLinkPicker(nodeId) {
   }
   recordNoteCursor(textarea, nodeId);
   if (state.noteCursorStart === state.noteCursorEnd) {
-    setToolStatusMessage("Select text in the note first, then use Link Selection.");
+    setToolStatusMessage("Select note text before linking it.");
     textarea.focus();
     return;
   }
@@ -4120,7 +4320,9 @@ function updateNodeNoteText(nodeId, text) {
     preview.innerHTML = text.trim() ? renderInvestigationNoteHtml(text) : '<div class="tool-empty">No investigation note yet.</div>';
   }
   if (previousLinks !== nextLinks) {
-    debouncedRebuildAndRender();
+    rebuildRuntimeGraphData();
+    render();
+    refreshCurrentNoteDerivedSections();
   }
 }
 
@@ -4308,6 +4510,55 @@ async function fetchWithRetry(url, options = {}, attempts = 4, retryDelayMs = 15
   throw lastError || new Error(`Failed to fetch ${url}`);
 }
 
+async function readResponseTextWithProgress(response, label) {
+  if (!response.body?.getReader) {
+    setGraphLoadingStatus(`Loading ${label}…`);
+    await waitForNextPaint();
+    return response.text();
+  }
+
+  const reader = response.body.getReader();
+  const decoder = new TextDecoder();
+  let text = "";
+  let receivedBytes = 0;
+  let lastStatusUpdate = 0;
+
+  while (true) {
+    const { done, value } = await reader.read();
+    if (done) {
+      break;
+    }
+    receivedBytes += value.byteLength;
+    text += decoder.decode(value, { stream: true });
+
+    const now = performance.now();
+    if (now - lastStatusUpdate > 160) {
+      lastStatusUpdate = now;
+      setGraphLoadingStatus(
+        `Downloading ${label}: ${formatByteCount(receivedBytes)}`,
+        `Received ${formatByteCount(receivedBytes)} of ${label} data`,
+      );
+    }
+  }
+
+  text += decoder.decode();
+  setGraphLoadingStatus(
+    `Downloaded ${label}: ${formatByteCount(receivedBytes)}`,
+    `Received ${formatByteCount(receivedBytes)} of ${label} data`,
+  );
+  await waitForNextPaint();
+  return text;
+}
+
+async function fetchJsonWithProgress(url, label) {
+  setGraphLoadingStatus(`Downloading ${label}…`);
+  const response = await fetchWithRetry(url);
+  const text = await readResponseTextWithProgress(response, label);
+  setGraphLoadingStatus(`Parsing ${label}…`);
+  await waitForNextPaint();
+  return JSON.parse(text);
+}
+
 async function loadNote(nodeId) {
   const node = state.nodeById.get(nodeId);
   if (!node) return;
@@ -4478,26 +4729,6 @@ function updateDetectiveToolbarActions() {
   const activeLayer = getActiveLayer();
   toolbarDetectiveActions.hidden = !state.detectiveMode;
 
-  setToolbarButtonState(toolbarCreateLayerButton, {
-    disabled: !state.detectiveMode,
-    title: "Create layer",
-    label: "Create layer",
-  });
-  setToolbarButtonState(toolbarCreateNodeButton, {
-    disabled: !state.detectiveMode || !activeLayer,
-    title: activeLayer ? `Create custom node in ${activeLayer.name}` : "Create custom node",
-    label: activeLayer ? `Create custom node in ${activeLayer.name}` : "Create custom node",
-  });
-  setToolbarButtonState(toolbarDuplicateLayerButton, {
-    disabled: !state.detectiveMode || !activeLayer,
-    title: activeLayer ? `Duplicate ${activeLayer.name}` : "Duplicate layer",
-    label: activeLayer ? `Duplicate ${activeLayer.name}` : "Duplicate layer",
-  });
-  setToolbarButtonState(toolbarDeleteLayerButton, {
-    disabled: !state.detectiveMode || !activeLayer,
-    title: activeLayer ? `Delete ${activeLayer.name}` : "Delete layer",
-    label: activeLayer ? `Delete ${activeLayer.name}` : "Delete layer",
-  });
   setToolbarButtonState(toolbarExportLayerButton, {
     disabled: !state.detectiveMode || !activeLayer,
     title: activeLayer ? `Export ${activeLayer.name}` : "Export layer",
@@ -4520,12 +4751,6 @@ function updateToolbarNodeActions() {
   const targetNode = targetNodeId ? state.nodeById.get(targetNodeId) : null;
   const targetTitle = targetNode?.title || "node";
   const bookmarked = Boolean(targetNodeId && isBookmarked(targetNodeId));
-
-  setToolbarButtonState(toolbarInspectButton, {
-    disabled: !targetNodeId || targetNodeId === state.inspectNodeId,
-    label: `Inspect ${targetTitle}`,
-    title: targetNodeId ? `Inspect ${targetTitle}` : "Inspect node",
-  });
 
   setToolbarButtonState(toolbarLocalGraphButton, {
     disabled: !canOpenLocalGraphForNode(targetNodeId),
@@ -4624,8 +4849,10 @@ function hideContextMenu() {
 
 function showContextMenu(clientX, clientY, nodeId) {
   const rect = graphStage.getBoundingClientRect();
+  const node = state.nodeById.get(nodeId);
+  const isCustomNode = Boolean(node?.isCustom);
   const menuWidth = 210;
-  const menuHeight = 140;
+  const menuHeight = isCustomNode ? 148 : 110;
   const left = Math.min(
     Math.max(8, clientX - rect.left),
     Math.max(8, rect.width - menuWidth - 8),
@@ -4638,7 +4865,6 @@ function showContextMenu(clientX, clientY, nodeId) {
   state.contextMenu = { open: true, nodeId };
   graphContextMenu.style.left = `${left}px`;
   graphContextMenu.style.top = `${top}px`;
-  contextInspectNodeButton.disabled = nodeId === state.inspectNodeId;
   contextOpenLocalGraphButton.disabled = state.neighborMode && nodeId === state.graphRootNodeId;
   contextExpandNodeButton.disabled = (
     !state.neighborMode
@@ -4647,6 +4873,7 @@ function showContextMenu(clientX, clientY, nodeId) {
     || state.expandedNodeIds.has(nodeId)
   );
   contextToggleBookmarkButton.textContent = isBookmarked(nodeId) ? "Remove Bookmark" : "Bookmark Node";
+  contextDeleteCustomNodeButton.hidden = !isCustomNode;
   graphContextMenu.hidden = false;
   updateToolbarNodeActions();
 }
@@ -5330,20 +5557,10 @@ function bindEvents() {
   detectiveButton.addEventListener("click", () => {
     setDetectiveMode(!state.detectiveMode);
   });
-  toolbarCreateLayerButton.addEventListener("click", () => createLayer());
-  toolbarCreateNodeButton.addEventListener("click", () => createCustomNode());
-  toolbarDuplicateLayerButton.addEventListener("click", () => duplicateActiveLayer());
-  toolbarDeleteLayerButton.addEventListener("click", () => deleteActiveLayer());
   toolbarExportLayerButton.addEventListener("click", () => exportActiveLayer());
   toolbarImportLayerButton.addEventListener("click", () => {
     layerImportInput.value = "";
     layerImportInput.click();
-  });
-  toolbarInspectButton.addEventListener("click", () => {
-    const targetNodeId = getToolbarTargetNodeId();
-    if (targetNodeId) {
-      inspectNode(targetNodeId);
-    }
   });
   toolbarLocalGraphButton.addEventListener("click", () => {
     const targetNodeId = getToolbarTargetNodeId();
@@ -5382,12 +5599,6 @@ function bindEvents() {
     saveDisplaySettings();
     render();
   });
-  contextInspectNodeButton.addEventListener("click", () => {
-    if (!state.contextMenu.nodeId) {
-      return;
-    }
-    inspectNode(state.contextMenu.nodeId);
-  });
   contextOpenLocalGraphButton.addEventListener("click", () => {
     if (!state.contextMenu.nodeId) {
       return;
@@ -5405,6 +5616,13 @@ function bindEvents() {
       return;
     }
     toggleBookmark(state.contextMenu.nodeId);
+    hideContextMenu();
+  });
+  contextDeleteCustomNodeButton.addEventListener("click", () => {
+    if (!state.contextMenu.nodeId) {
+      return;
+    }
+    confirmDeleteCustomNode(state.contextMenu.nodeId);
     hideContextMenu();
   });
   contextRenameLayerButton.addEventListener("click", () => {
@@ -5822,6 +6040,12 @@ function bindEvents() {
       expandNeighborhood(expandNeighborsButton.dataset.expandNeighbors);
       return;
     }
+    const deleteCustomNodeButton = event.target.closest("[data-delete-custom-node]");
+    if (deleteCustomNodeButton) {
+      event.preventDefault();
+      confirmDeleteCustomNode(deleteCustomNodeButton.dataset.deleteCustomNode);
+      return;
+    }
     const openLinkPickerButton = event.target.closest("[data-open-note-link-picker]");
     if (openLinkPickerButton) {
       event.preventDefault();
@@ -5945,6 +6169,32 @@ function bindEvents() {
         results.innerHTML = renderLinkSuggestionList(currentNodeId());
       }
     }
+    const currentId = currentNodeId();
+    if (event.target.id === "custom-node-title-input" && currentId) {
+      const title = event.target.value.trim() || "Untitled Lead";
+      updateCustomNode(currentId, { title });
+      const titleElement = noteContent.querySelector(".note-title-row h1");
+      if (titleElement) {
+        titleElement.textContent = title;
+      }
+      updateCurrentNoteMeta();
+      render();
+      return;
+    }
+    if (event.target.id === "custom-node-tags-input" && currentId) {
+      updateCustomNode(currentId, {
+        tags: sanitizeStringList(event.target.value.split(",").map((value) => value.trim())),
+      });
+      updateCurrentNoteMeta();
+      render();
+      return;
+    }
+    if (event.target.id === "custom-node-aliases-input" && currentId) {
+      updateCustomNode(currentId, {
+        aliases: sanitizeStringList(event.target.value.split(",").map((value) => value.trim())),
+      });
+      render();
+    }
   });
 
   noteContent.addEventListener("change", (event) => {
@@ -5953,26 +6203,20 @@ function bindEvents() {
       return;
     }
     if (event.target.id === "custom-node-title-input") {
-      updateCustomNode(currentId, {
-        title: event.target.value.trim() || "Untitled Lead",
-      });
       loadNote(currentId);
+      renderInvestigatorTools();
       render();
       return;
     }
     if (event.target.id === "custom-node-tags-input") {
-      updateCustomNode(currentId, {
-        tags: sanitizeStringList(event.target.value.split(",").map((value) => value.trim())),
-      });
       loadNote(currentId);
+      renderInvestigatorTools();
       render();
       return;
     }
     if (event.target.id === "custom-node-aliases-input") {
-      updateCustomNode(currentId, {
-        aliases: sanitizeStringList(event.target.value.split(",").map((value) => value.trim())),
-      });
       loadNote(currentId);
+      renderInvestigatorTools();
       render();
     }
   });
@@ -6026,6 +6270,12 @@ function bindEvents() {
   });
 
   investigatorTools.addEventListener("keydown", (event) => {
+    if (event.target.id === "custom-node-create-title" && event.key === "Enter") {
+      event.preventDefault();
+      createCustomNodeFromPanel();
+      return;
+    }
+
     const searchTarget = event.target.dataset?.searchTarget;
     if (!searchTarget) return;
     const resultsContainer = document.getElementById(`${searchTarget}-results`);
@@ -6085,6 +6335,24 @@ function bindEvents() {
     if (renameLayerButton) {
       hideLayerContextMenu();
       promptRenameLayer(renameLayerButton.dataset.renameLayer);
+      return;
+    }
+
+    if (event.target.closest("[data-create-layer]")) {
+      createLayer();
+      return;
+    }
+
+    const duplicateLayerButton = event.target.closest("[data-duplicate-layer]");
+    if (duplicateLayerButton) {
+      duplicateLayer(duplicateLayerButton.dataset.duplicateLayer);
+      return;
+    }
+
+    const deleteLayerButton = event.target.closest("[data-delete-layer]");
+    if (deleteLayerButton) {
+      deleteLayer(deleteLayerButton.dataset.deleteLayer);
+      return;
     }
 
     if (event.target.closest("#trace-path-button")) {
@@ -6111,6 +6379,11 @@ function bindEvents() {
 
     if (event.target.closest("#save-path-button")) {
       saveCurrentPath();
+      return;
+    }
+
+    if (event.target.closest("#create-custom-node-from-title")) {
+      createCustomNodeFromPanel();
       return;
     }
 
@@ -6176,7 +6449,7 @@ function bindEvents() {
 
     const deleteCustomNodeButton = event.target.closest("[data-delete-custom-node]");
     if (deleteCustomNodeButton) {
-      deleteCustomNode(deleteCustomNodeButton.dataset.deleteCustomNode);
+      confirmDeleteCustomNode(deleteCustomNodeButton.dataset.deleteCustomNode);
       return;
     }
   });
@@ -6331,6 +6604,7 @@ async function loadSearchDocsInBackground() {
 }
 
 async function bootstrap() {
+  setGraphLoadingStatus("Loading interface…");
   renderSharedToolbarIcons();
   initializeToolbarTooltipTargets();
   bindEvents();
@@ -6338,9 +6612,10 @@ async function bootstrap() {
   loadInvestigationState();
   loadDisplaySettings();
 
-  const graphResponse = await fetchWithRetry("./data/graph.json");
-  const graph = decodeGraphPayload(await graphResponse.json());
+  const graph = decodeGraphPayload(await fetchJsonWithProgress("./data/graph.json", "graph"));
 
+  setGraphLoadingStatus("Preparing graph…");
+  await waitForNextPaint();
   state.baseNodes = graph.nodes;
   state.baseEdges = graph.edges;
   state.baseCommunityNodes = graph.communityNodes || [];
@@ -6350,6 +6625,8 @@ async function bootstrap() {
   validateInvestigationLayersAgainstGraph();
   rebuildRuntimeGraphData();
   saveInvestigationState();
+  setGraphLoadingStatus("Rendering graph…");
+  await waitForNextPaint();
   updateDetectiveButton();
   applyPanelWidths(state.panelWidth, state.detectivePanelWidth, "detective");
   colorModeSelect.value = state.colorMode;
@@ -6369,6 +6646,7 @@ async function bootstrap() {
 
 bootstrap().catch((error) => {
   console.error(error);
+  setGraphLoadingStatus("Graph failed to load", error.message || "Could not load graph data.");
   noteMeta.innerHTML = "";
   noteContent.innerHTML = `<div class="empty-state"><p>${error.message}</p></div>`;
 });
