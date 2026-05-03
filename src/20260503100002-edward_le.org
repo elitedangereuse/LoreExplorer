@@ -4,5 +4,4 @@
 #+title: Edward Le
 #+filetags: :Individual:
 
-Edward Le was a former Ross Projectiles designer hired by [[id:40474008-e96b-46f5-a893-aaad56305830][Ronan Takada]] for [[id:3c9b3ac6-2b3c-406f-b0de-dc02f3a1e9c1][Takada]]'s personal laser weapon programme.
-
+Edward Le was a former [[id:622aa817-7abf-4605-b524-e99d52b6bbc8][Ross Projectiles]] designer hired by [[id:40474008-e96b-46f5-a893-aaad56305830][Ronan Takada]] for [[id:3c9b3ac6-2b3c-406f-b0de-dc02f3a1e9c1][Takada]]'s personal laser weapon programme.
