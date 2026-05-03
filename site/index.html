@@ -168,13 +168,22 @@
               </div>
             </div>
             <div class="toolbar-group toolbar-search">
-              <input
-                id="search-input"
-                type="search"
-                placeholder="Search nodes…"
-                autocomplete="off"
-                spellcheck="false"
-              />
+              <div class="toolbar-search-field">
+                <input
+                  id="search-input"
+                  type="search"
+                  placeholder="Search nodes…"
+                  autocomplete="off"
+                  spellcheck="false"
+                />
+                <button
+                  id="search-mode-button"
+                  class="search-mode-toggle"
+                  type="button"
+                  aria-label="Switch to content search"
+                  data-tooltip="Search titles only"
+                >Titles</button>
+              </div>
             </div>
           </div>
           <div id="graph-filter-toolbar" class="graph-filter-toolbar" aria-label="Graph filters" style="padding-top: 2px;padding-bottom: 2px;"></div>

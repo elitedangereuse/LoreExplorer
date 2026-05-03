@@ -39,6 +39,7 @@ const contextRenameLayerButton = document.getElementById("context-rename-layer")
 const appTooltip = document.getElementById("app-tooltip");
 const appScript = document.querySelector('script[src$="app.js"]');
 const siteBaseUrl = new URL(".", appScript?.src || window.location.href);
+const searchModeButton = document.getElementById("search-mode-button");
 
 const worker = new Worker("./search-worker.js");
 
@@ -1826,12 +1827,24 @@ function updateSearchQuery(query) {
   querySearch(query);
 }
 
+function updateSearchModeButton() {
+  if (!searchModeButton) {
+    return;
+  }
+  const isContentMode = state.searchMode === "content";
+  searchModeButton.textContent = isContentMode ? "Content" : "Titles";
+  searchModeButton.classList.toggle("is-active", isContentMode);
+  searchModeButton.setAttribute("aria-label", isContentMode ? "Switch to title search" : "Switch to content search");
+  searchModeButton.dataset.tooltip = isContentMode ? "Search node titles and content" : "Search titles only";
+}
+
 function setSearchMode(mode) {
   const nextMode = mode === "content" ? "content" : "title";
   if (state.searchMode === nextMode) {
     return;
   }
   state.searchMode = nextMode;
+  updateSearchModeButton();
   state.results = [];
   state.searchSuggestion = null;
   state.searchSelectedIndex = -1;
@@ -3814,16 +3827,6 @@ function renderSearchCompletionsPanel() {
   if (!query) {
     return "";
   }
-  const searchModeLabel = state.searchMode === "content" ? "Content" : "Titles";
-  const nextSearchModeLabel = state.searchMode === "content" ? "title search" : "content search";
-  const renderModeToggle = () => `
-    <button
-      type="button"
-      class="search-mode-toggle ${state.searchMode === "content" ? "is-active" : ""}"
-      data-toggle-search-mode
-      aria-label="Switch to ${escapeHtml(nextSearchModeLabel)}"
-    >${escapeHtml(searchModeLabel)}</button>
-  `;
   if (
     state.searchIndexStatus === "loading"
     || state.searchIndexStatus === "idle"
@@ -3834,10 +3837,7 @@ function renderSearchCompletionsPanel() {
       <div class="search-completions-panel">
         <div class="search-completions-header">
           <span class="meta-label">Search</span>
-          <div class="search-completions-actions">
-            ${renderModeToggle()}
-            <small>Search loading</small>
-          </div>
+          <small>Search loading</small>
         </div>
         <div class="tool-empty">Search index is loading. Results will update automatically.</div>
       </div>
@@ -3848,10 +3848,7 @@ function renderSearchCompletionsPanel() {
       <div class="search-completions-panel">
         <div class="search-completions-header">
           <span class="meta-label">Search</span>
-          <div class="search-completions-actions">
-            ${renderModeToggle()}
-            <small>Search unavailable</small>
-          </div>
+          <small>Search unavailable</small>
         </div>
         <div class="tool-empty">${escapeHtml(state.searchIndexError || "Search index could not be loaded.")}</div>
       </div>
@@ -3862,10 +3859,7 @@ function renderSearchCompletionsPanel() {
       <div class="search-completions-panel">
         <div class="search-completions-header">
           <span class="meta-label">Search</span>
-          <div class="search-completions-actions">
-            ${renderModeToggle()}
-            <small>Content loading</small>
-          </div>
+          <small>Content loading</small>
         </div>
         <div class="tool-empty">Full-text index is loading. Results will update automatically.</div>
       </div>
@@ -3876,10 +3870,7 @@ function renderSearchCompletionsPanel() {
       <div class="search-completions-panel">
         <div class="search-completions-header">
           <span class="meta-label">Search</span>
-          <div class="search-completions-actions">
-            ${renderModeToggle()}
-            <small>Content unavailable</small>
-          </div>
+          <small>Content unavailable</small>
         </div>
         <div class="tool-empty">${escapeHtml(state.searchContentError || "Full-text search index could not be loaded.")}</div>
       </div>
@@ -3893,10 +3884,7 @@ function renderSearchCompletionsPanel() {
     <div class="search-completions-panel">
       <div class="search-completions-header">
         <span class="meta-label">Search</span>
-        <div class="search-completions-actions">
-          ${renderModeToggle()}
-          <small>${escapeHtml(countLabel)}</small>
-        </div>
+        <small>${escapeHtml(countLabel)}</small>
       </div>
       ${
         results.length
@@ -6108,6 +6096,12 @@ function bindEvents() {
     }
   });
 
+  searchModeButton?.addEventListener("click", (event) => {
+    event.preventDefault();
+    toggleSearchMode();
+    searchInput.focus();
+  });
+
   noteContent.addEventListener("click", (event) => {
     if (event.target.closest("[data-go-back]")) {
       event.preventDefault();
@@ -6177,12 +6171,6 @@ function bindEvents() {
     selectNode(link.dataset.nodeId);
   });
   noteMeta.addEventListener("click", (event) => {
-    if (event.target.closest("[data-toggle-search-mode]")) {
-      event.preventDefault();
-      toggleSearchMode();
-      searchInput.focus();
-      return;
-    }
     const searchCompletionButton = event.target.closest("[data-search-completion-node-id]");
     if (searchCompletionButton) {
       event.preventDefault();
@@ -6734,6 +6722,7 @@ async function bootstrap() {
   setGraphLoadingStatus("Loading interface…");
   renderSharedToolbarIcons();
   initializeToolbarTooltipTargets();
+  updateSearchModeButton();
   bindEvents();
   resizeCanvas();
   loadInvestigationState();

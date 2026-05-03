@@ -143,6 +143,11 @@ code {
   justify-content: flex-end;
 }
 
+.toolbar-search-field {
+  position: relative;
+  width: 100%;
+}
+
 .toolbar-detective-actions[hidden] {
   display: none;
 }
@@ -613,7 +618,7 @@ code {
 #search-input {
   width: 100%;
   min-width: 0;
-  padding: 12px 16px;
+  padding: 12px 88px 12px 16px;
   border-radius: 14px;
   border: 1px solid rgba(255, 255, 255, 0.12);
   background: rgba(3, 11, 18, 0.92);
@@ -1538,25 +1543,25 @@ code {
   font-size: 0.78rem;
 }
 
-.search-completions-actions {
-  display: flex;
-  align-items: center;
-  gap: 8px;
-}
-
-.search-mode-toggle {
-  padding: 4px 8px;
+.graph-toolbar .search-mode-toggle {
+  position: absolute;
+  top: 50%;
+  right: 6px;
+  transform: translateY(-50%);
+  padding: 5px 9px;
   border: 1px solid rgba(255, 255, 255, 0.14);
-  border-radius: 999px;
-  background: rgba(255, 255, 255, 0.05);
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.07);
   color: var(--text);
   font-size: 0.72rem;
   letter-spacing: 0.02em;
   cursor: pointer;
+  z-index: 1;
 }
 
-.search-mode-toggle:hover,
-.search-mode-toggle.is-active {
+.graph-toolbar .search-mode-toggle:hover,
+.graph-toolbar .search-mode-toggle.is-active {
+  transform: translateY(-50%);
   background: rgba(99, 216, 234, 0.14);
   border-color: rgba(99, 216, 234, 0.34);
 }
