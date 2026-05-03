@@ -2671,7 +2671,9 @@ function findShortestPath(startId, endId) {
 
   while (queue.length) {
     const currentId = queue.shift();
-    const neighbors = state.outboundAdjacency.get(currentId) || new Set();
+    // Treat paths as graph relationships, not document navigation direction.
+    // Many meaningful lore connections are backlinks or co-mentions from an article.
+    const neighbors = state.adjacency.get(currentId) || new Set();
     for (const neighborId of neighbors) {
       if (parentById.has(neighborId)) {
         continue;
@@ -2703,8 +2705,8 @@ function getSharedNeighbors(leftId, rightId) {
   if (!leftId || !rightId) {
     return [];
   }
-  const leftNeighbors = state.outboundAdjacency.get(leftId) || new Set();
-  const rightNeighbors = state.outboundAdjacency.get(rightId) || new Set();
+  const leftNeighbors = state.adjacency.get(leftId) || new Set();
+  const rightNeighbors = state.adjacency.get(rightId) || new Set();
   const shared = [];
 
   for (const candidateId of leftNeighbors) {
