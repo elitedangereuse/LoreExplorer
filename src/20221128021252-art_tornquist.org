@@ -1,5 +1,7 @@
 :PROPERTIES:
 :ID:       ad9a4b6b-7822-4026-9a53-db6304053638
 :END:
-#+title: Art Tornquist
+#+title: Art Tornqvist
+#+filetags: :2296:Individual:
 
+Art Tornqvist was a shipboard mechanic based in the [[id:000181d2-87fb-4eac-9c05-378082def97f][Tau Ceti]] system. His journal contains the earliest recorded mention of [[id:a2bd8247-2daf-4bd9-b6da-667ff707b0a2][Raxxla]].

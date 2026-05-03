@@ -2,7 +2,7 @@
 :ID:       a2bd8247-2daf-4bd9-b6da-667ff707b0a2
 :END:
 #+title: Raxxla
-#+filetags: :KnowledgeBase:
+#+filetags: :2296:KnowledgeBase:
 #+CAPTION: Codex logo for Raxxla
 #+NAME:   fig:Raxxla_400.png
 [[file:img/Raxxla_400.png]]
@@ -12,21 +12,21 @@
 #+begin_quote
 
   "To the jewel that burns on the brow of the mother of galaxies! To the
-  whisperer in witch-space, the siren of the deepest void! The parent's
+  whisperer in [[id:503e3f5a-c002-4a22-8050-fa2ad2c94763][witch-space]], the siren of the deepest void! The parent's
   grief, the lover's woe, and the yearning of our vagabond hearts. To
   Raxxla!"
 
-  --- Alleged toast of the Dark Wheel
+  --- Alleged toast of the [[id:7ec2457b-3e53-4928-a17f-e885b681b267][Dark Wheel]]
 #+end_quote
 
 The legend of Raxxla has been circulating, in whispers, for centuries.
 The quest for this mysterious place, the location of which is a deadly
-secret, was said to be the principal aim of the Dark Wheel, a putative
+secret, was said to be the principal aim of the [[id:7ec2457b-3e53-4928-a17f-e885b681b267][Dark Wheel]], a putative
 fraternity of legend-chasers from the early days of interstellar travel.
 
 The earliest recorded mention of Raxxla dates from 2296, from the
-journal of Art Tornqvist, a shipboard mechanic based in the [[id:000181d2-87fb-4eac-9c05-378082def97f][Tau Ceti]]
-system. He writes: 'Cora comes home soused and raving with wild stories,
+journal of [[id:ad9a4b6b-7822-4026-9a53-db6304053638][Art Tornqvist]], a shipboard mechanic based in the [[id:000181d2-87fb-4eac-9c05-378082def97f][Tau Ceti]]
+system. He writes: '[[id:a0a0a05a-97e3-4a6f-bb86-7ede4e44d8d5][Cora]] comes home soused and raving with wild stories,
 a new one every night. She claims she's found a map to some pirate
 stash, and all I have to do is loan her my ship so we can go dig it up.
 maybe we should go find Raxxla while we're at it!' Although Tornqvist's
@@ -45,15 +45,15 @@ mystical secret.
 Several versions of the Raxxla story mention an alien artefact, the
 [[id:865093c7-c399-460e-9dda-fb298f3f5d7f][Omphalos Rift]], described as a gateway or tunnel through which parallel
 universes can be accessed. These details, however, were later shown to
-bear a striking resemblance to the children's story Princess Astrophel
-and the Spiralling Stars, and soon lost credibility. Undaunted, some
+bear a striking resemblance to the children's story [[id:fd3354e3-957f-44e2-b404-0565e89e2e9b][Princess Astrophel and the Spiralling Stars]], and soon lost
+credibility. Undaunted, some
 Raxxla seekers insisted that the story's author had cunningly concealed
 facts about the mysterious locale in his book as hints for those with
 eyes to see.
 
 Students of Raxxla lore have noted that the legend exerts a strangely
 potent fascination on the minds of seekers. Commentators have compared
-this sensation to 'fernweh', the unaccountable longing for a place one
+this sensation to '[[id:c9feda62-29a1-493a-8cb0-77fa9d815d94][fernweh]]', the unaccountable longing for a place one
 has never seen. More than one interstellar treasure-seeker has become
 obsessed with Raxxla to the exclusion of all other dreams, and spent his
 or her entire life in a futile search for it.

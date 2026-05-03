@@ -2,4 +2,6 @@
 :ID:       a0a0a05a-97e3-4a6f-bb86-7ede4e44d8d5
 :END:
 #+title: Cora
-Close relative of [[id:ad9a4b6b-7822-4026-9a53-db6304053638][Art Tornquist]]
+#+filetags: :2296:Individual:
+
+Cora was mentioned in [[id:ad9a4b6b-7822-4026-9a53-db6304053638][Art Tornqvist]]'s journal in connection with early rumours of [[id:a2bd8247-2daf-4bd9-b6da-667ff707b0a2][Raxxla]].

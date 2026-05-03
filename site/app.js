@@ -49,6 +49,7 @@ const state = {
   baseCommunityEdges: [],
   baseMeta: {},
   baseSearchDocs: [],
+  baseSearchContentById: new Map(),
   searchDocs: [],
   nodes: [],
   edges: [],
@@ -61,6 +62,7 @@ const state = {
   activeCommunityId: null,
   results: [],
   searchQuery: "",
+  searchMode: "title",
   colorMode: "backlinks",
   shapeMode: "semantic",
   camera: { x: 0, y: 0, zoom: 1 },
@@ -103,6 +105,9 @@ const state = {
   searchWorkerReady: false,
   searchIndexStatus: "idle",
   searchIndexError: "",
+  searchContentStatus: "idle",
+  searchContentError: "",
+  searchContentPromise: null,
   contextMenu: { open: false, nodeId: null },
   detectiveMode: false,
   panelWidth: 440,
@@ -831,8 +836,9 @@ function stripInvestigationMarkup(text) {
     .replace(/[=~]([^=~]+)[=~]/g, "$1");
 }
 
-function buildSearchDocFromNode(node, snippet = "") {
+function buildSearchDocFromNode(node, snippet = "", content = "") {
   const textSnippet = snippet || node.snippet || "";
+  const searchContent = content || textSnippet;
   return {
     id: node.id,
     title: node.title,
@@ -841,11 +847,27 @@ function buildSearchDocFromNode(node, snippet = "") {
     group: node.group || "misc",
     degree: node.degree || 0,
     snippet: textSnippet,
+    content: searchContent,
     titleNorm: normalize(node.title),
     aliasNorms: (node.aliases || []).map((alias) => normalize(alias)),
     tagNorms: (node.tags || []).map((tag) => normalize(tag)),
     snippetNorm: normalize(textSnippet),
+    contentNorm: normalize(searchContent),
   };
+}
+
+function applySearchContentToBaseDocs() {
+  if (!state.baseSearchContentById.size) {
+    return;
+  }
+  for (const doc of state.baseSearchDocs) {
+    const content = state.baseSearchContentById.get(doc.id);
+    if (!content) {
+      continue;
+    }
+    doc.content = content;
+    doc.contentNorm = normalize(content);
+  }
 }
 
 function refreshSearchWorkerIndex() {
@@ -867,6 +889,7 @@ function refreshSearchWorkerIndex() {
       }
     }
   }
+  applySearchContentToBaseDocs();
   state.searchDocs = [...state.baseSearchDocs, ...customDocs];
   state.searchWorkerReady = false;
   worker.postMessage({ type: "init", payload: { docs: state.searchDocs } });
@@ -1746,6 +1769,12 @@ function resetSearchState() {
 }
 
 function applySearchResults(payload) {
+  if (payload.query !== undefined && payload.query !== state.searchQuery) {
+    return;
+  }
+  if (payload.mode && payload.mode !== state.searchMode) {
+    return;
+  }
   const results = payload.results || [];
   const query = state.searchQuery.trim();
   state.results = query ? results : [];
@@ -1795,6 +1824,30 @@ function updateSearchQuery(query) {
     return;
   }
   querySearch(query);
+}
+
+function setSearchMode(mode) {
+  const nextMode = mode === "content" ? "content" : "title";
+  if (state.searchMode === nextMode) {
+    return;
+  }
+  state.searchMode = nextMode;
+  state.results = [];
+  state.searchSuggestion = null;
+  state.searchSelectedIndex = -1;
+  state.searchExactNodeIds = [];
+  updateCurrentNoteMeta();
+  if (nextMode === "content" && state.searchContentStatus !== "ready") {
+    loadSearchContentDocsInBackground();
+    return;
+  }
+  if (state.searchWorkerReady && state.searchQuery.trim()) {
+    querySearch(state.searchQuery);
+  }
+}
+
+function toggleSearchMode() {
+  setSearchMode(state.searchMode === "content" ? "title" : "content");
 }
 
 function focusFirstSearchResult() {
@@ -3761,6 +3814,16 @@ function renderSearchCompletionsPanel() {
   if (!query) {
     return "";
   }
+  const searchModeLabel = state.searchMode === "content" ? "Content" : "Titles";
+  const nextSearchModeLabel = state.searchMode === "content" ? "title search" : "content search";
+  const renderModeToggle = () => `
+    <button
+      type="button"
+      class="search-mode-toggle ${state.searchMode === "content" ? "is-active" : ""}"
+      data-toggle-search-mode
+      aria-label="Switch to ${escapeHtml(nextSearchModeLabel)}"
+    >${escapeHtml(searchModeLabel)}</button>
+  `;
   if (
     state.searchIndexStatus === "loading"
     || state.searchIndexStatus === "idle"
@@ -3770,8 +3833,11 @@ function renderSearchCompletionsPanel() {
     return `
       <div class="search-completions-panel">
         <div class="search-completions-header">
-          <span class="meta-label">Completions</span>
-          <small>Search loading</small>
+          <span class="meta-label">Search</span>
+          <div class="search-completions-actions">
+            ${renderModeToggle()}
+            <small>Search loading</small>
+          </div>
         </div>
         <div class="tool-empty">Search index is loading. Results will update automatically.</div>
       </div>
@@ -3781,10 +3847,41 @@ function renderSearchCompletionsPanel() {
     return `
       <div class="search-completions-panel">
         <div class="search-completions-header">
-          <span class="meta-label">Completions</span>
-          <small>Search unavailable</small>
+          <span class="meta-label">Search</span>
+          <div class="search-completions-actions">
+            ${renderModeToggle()}
+            <small>Search unavailable</small>
+          </div>
         </div>
         <div class="tool-empty">${escapeHtml(state.searchIndexError || "Search index could not be loaded.")}</div>
+      </div>
+    `;
+  }
+  if (state.searchMode === "content" && state.searchContentStatus === "loading") {
+    return `
+      <div class="search-completions-panel">
+        <div class="search-completions-header">
+          <span class="meta-label">Search</span>
+          <div class="search-completions-actions">
+            ${renderModeToggle()}
+            <small>Content loading</small>
+          </div>
+        </div>
+        <div class="tool-empty">Full-text index is loading. Results will update automatically.</div>
+      </div>
+    `;
+  }
+  if (state.searchMode === "content" && state.searchContentStatus === "error") {
+    return `
+      <div class="search-completions-panel">
+        <div class="search-completions-header">
+          <span class="meta-label">Search</span>
+          <div class="search-completions-actions">
+            ${renderModeToggle()}
+            <small>Content unavailable</small>
+          </div>
+        </div>
+        <div class="tool-empty">${escapeHtml(state.searchContentError || "Full-text search index could not be loaded.")}</div>
       </div>
     `;
   }
@@ -3795,8 +3892,11 @@ function renderSearchCompletionsPanel() {
   return `
     <div class="search-completions-panel">
       <div class="search-completions-header">
-        <span class="meta-label">Completions</span>
-        <small>${escapeHtml(countLabel)}</small>
+        <span class="meta-label">Search</span>
+        <div class="search-completions-actions">
+          ${renderModeToggle()}
+          <small>${escapeHtml(countLabel)}</small>
+        </div>
       </div>
       ${
         results.length
@@ -3809,7 +3909,8 @@ function renderSearchCompletionsPanel() {
                 data-search-completion-node-id="${escapeHtml(result.id)}"
               >
                 <strong>${escapeHtml(result.title)}</strong>
-                <small>${escapeHtml(result.group || "node")}</small>
+                <small>${escapeHtml(result.group || "node")}${result.matchType ? ` · ${escapeHtml(result.matchType)}` : ""}</small>
+                ${state.searchMode === "content" && result.excerpt ? `<span class="search-completion-excerpt">${escapeHtml(result.excerpt)}</span>` : ""}
               </button>
             `).join("")
           }</div>`
@@ -5310,7 +5411,11 @@ function buildSimulationData() {
 }
 
 function querySearch(value) {
-  worker.postMessage({ type: "query", payload: { query: value } });
+  if (state.searchMode === "content" && state.searchContentStatus !== "ready") {
+    loadSearchContentDocsInBackground();
+    return;
+  }
+  worker.postMessage({ type: "query", payload: { query: value, mode: state.searchMode } });
 }
 
 function expandCompactRows(fields, rows) {
@@ -5342,15 +5447,26 @@ function decodeGraphPayload(graph) {
 }
 
 function decodeSearchDocsPayload(payload) {
-  if (payload?.schema !== "compact-search-docs-v1") {
+  if (payload?.schema !== "compact-search-docs-v1" && payload?.schema !== "compact-search-docs-v2") {
     return Array.isArray(payload) ? payload : [];
   }
   return expandCompactRows(payload.docFields, payload.docs)
     .map((doc) => {
       const node = state.nodeById.get(doc.id);
-      return node ? buildSearchDocFromNode(node, doc.snippet || "") : null;
+      return node ? buildSearchDocFromNode(node, doc.snippet || "", doc.content || doc.snippet || "") : null;
     })
     .filter(Boolean);
+}
+
+function decodeSearchContentDocsPayload(payload) {
+  if (payload?.schema !== "compact-search-content-docs-v1") {
+    return new Map();
+  }
+  return new Map(
+    expandCompactRows(payload.docFields, payload.docs)
+      .filter((doc) => doc.id && doc.content)
+      .map((doc) => [doc.id, doc.content]),
+  );
 }
 
 function pickNodeAt(clientX, clientY) {
@@ -6061,6 +6177,12 @@ function bindEvents() {
     selectNode(link.dataset.nodeId);
   });
   noteMeta.addEventListener("click", (event) => {
+    if (event.target.closest("[data-toggle-search-mode]")) {
+      event.preventDefault();
+      toggleSearchMode();
+      searchInput.focus();
+      return;
+    }
     const searchCompletionButton = event.target.closest("[data-search-completion-node-id]");
     if (searchCompletionButton) {
       event.preventDefault();
@@ -6571,6 +6693,41 @@ async function loadSearchDocsInBackground() {
     state.searchIndexError = error.message || "Search index could not be loaded.";
     updateCurrentNoteMeta();
   }
+}
+
+async function loadSearchContentDocsInBackground() {
+  if (state.searchContentStatus === "ready") {
+    return true;
+  }
+  if (state.searchContentPromise) {
+    return state.searchContentPromise;
+  }
+
+  state.searchContentStatus = "loading";
+  state.searchContentError = "";
+  updateCurrentNoteMeta();
+
+  state.searchContentPromise = (async () => {
+    try {
+      const searchResponse = await fetchWithRetry("./data/search-content-docs.json");
+      state.baseSearchContentById = decodeSearchContentDocsPayload(await searchResponse.json());
+      state.searchContentStatus = "ready";
+      refreshSearchWorkerIndex();
+      updateCurrentNoteMeta();
+      return true;
+    } catch (error) {
+      console.error(error);
+      state.baseSearchContentById = new Map();
+      state.searchContentStatus = "error";
+      state.searchContentError = error.message || "Full-text search index could not be loaded.";
+      updateCurrentNoteMeta();
+      return false;
+    } finally {
+      state.searchContentPromise = null;
+    }
+  })();
+
+  return state.searchContentPromise;
 }
 
 async function bootstrap() {

@@ -1538,6 +1538,29 @@ code {
   font-size: 0.78rem;
 }
 
+.search-completions-actions {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.search-mode-toggle {
+  padding: 4px 8px;
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.05);
+  color: var(--text);
+  font-size: 0.72rem;
+  letter-spacing: 0.02em;
+  cursor: pointer;
+}
+
+.search-mode-toggle:hover,
+.search-mode-toggle.is-active {
+  background: rgba(99, 216, 234, 0.14);
+  border-color: rgba(99, 216, 234, 0.34);
+}
+
 .search-completions-list {
   display: grid;
   gap: 8px;
@@ -1572,13 +1595,21 @@ code {
 }
 
 .search-completion-item strong,
-.search-completion-item small {
+.search-completion-item small,
+.search-completion-excerpt {
   display: block;
 }
 
 .search-completion-item small {
   margin-top: 4px;
   color: var(--text-dim);
+}
+
+.search-completion-excerpt {
+  margin-top: 6px;
+  color: var(--text-dim);
+  font-size: 0.78rem;
+  line-height: 1.35;
 }
 
 .graph-filter-toolbar {

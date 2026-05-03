@@ -67,6 +67,7 @@ class Note:
     size: float = 4.0
     color: str = "#5dade2"
     snippet: str = ""
+    search_content: str = ""
     community: str = ""
     refs: list[str] = field(default_factory=list)
 
@@ -751,6 +752,7 @@ def render_org_note(note: Note) -> str:
 
     snippet_source = " ".join(plain_text_lines)
     note.snippet = snippet_source[:240].strip()
+    note.search_content = snippet_source.strip()
 
     alias_html = ""
     if note.aliases:
@@ -810,6 +812,7 @@ def build_site(db_path: Path, src_dir: Path, site_dir: Path, out_dir: Path) -> N
     node_payload = []
     community_payload = []
     search_payload = []
+    search_content_payload = []
 
     group_counter = Counter(note.group for note in notes.values())
     sorted_notes = sorted(notes.values(), key=lambda note: note.title.lower())
@@ -842,6 +845,13 @@ def build_site(db_path: Path, src_dir: Path, site_dir: Path, out_dir: Path) -> N
             {
                 "id": note.node_id,
                 "snippet": note.snippet,
+            }
+        )
+
+        search_content_payload.append(
+            {
+                "id": note.node_id,
+                "content": note.search_content,
             }
         )
 
@@ -936,6 +946,7 @@ def build_site(db_path: Path, src_dir: Path, site_dir: Path, out_dir: Path) -> N
     ]
     community_edge_fields = ["source", "target", "weight"]
     search_doc_fields = ["id", "snippet"]
+    search_content_fields = ["id", "content"]
     node_index_by_id = {node["id"]: index for index, node in enumerate(node_payload)}
 
     write_json(
@@ -960,6 +971,14 @@ def build_site(db_path: Path, src_dir: Path, site_dir: Path, out_dir: Path) -> N
             "schema": "compact-search-docs-v1",
             "docFields": search_doc_fields,
             "docs": compact_rows(search_payload, search_doc_fields),
+        },
+    )
+    write_json(
+        out_dir / "data" / "search-content-docs.json",
+        {
+            "schema": "compact-search-content-docs-v1",
+            "docFields": search_content_fields,
+            "docs": compact_rows(search_content_payload, search_content_fields),
         },
     )
     write_json(out_dir / "data" / "meta.json", meta_payload)
