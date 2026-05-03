@@ -13,7 +13,7 @@
 #+end_quote
 
 The dynastic corporation Takada started life in 3223 as a haulage
-corporation. Presided over by patriarch Hideo Takada, the company
+corporation. Presided over by patriarch [[id:64396ad5-a889-428b-ae1d-5d3416af25a6][Hideo Takada]], the company
 gobbled up market share by transporting high-risk shipments at a
 fraction of competitor prices. Instead of hiring external security as
 escorts, Takada chose to make a long-term investment by recruiting and
@@ -30,13 +30,13 @@ beleaguered system security forces, Takada poured further funds into its
 private defence team, only to find that mass-market firearms did not
 meet its needs.
 
-Convinced Takada could do better, Hideo's heir Ronan Takada tasked
+Convinced Takada could do better, Hideo's heir [[id:40474008-e96b-46f5-a893-aaad56305830][Ronan Takada]] tasked
 engineers with developing concepts for personal laser weapons. He also
 hired several industry veterans, including former Ross Projectiles
-designer Edward Le. The results exceeded even Ronan's lofty
+designer [[id:27c5fabd-9b60-4594-914d-ef1d8ece70d6][Edward Le]]. The results exceeded even Ronan's lofty
 expectations.
 
-Sensing an opportunity for additional revenue, Ronan Takada quietly
+Sensing an opportunity for additional revenue, [[id:40474008-e96b-46f5-a893-aaad56305830][Ronan Takada]] quietly
 began taking weapon orders from local factions, using an abandoned
 Takada facility for production. When order volume dramatically
 increased, Ronan was compelled to legitimise his experiment.
@@ -47,9 +47,8 @@ opportunities for personal defence enjoyed by the Takada corporation".
 
 The announcement marked Takada's official shift into the defence sector,
 with the company shuttering its former operations to focus exclusively
-on arms production. Although Hideo Takada initially disapproved of the
+on arms production. Although [[id:64396ad5-a889-428b-ae1d-5d3416af25a6][Hideo Takada]] initially disapproved of the
 shift---going so far as to call his son 'reckless'---he later
 acknowledged that the defence market was more profitable for Takada than
 haulage had ever been.
-
 

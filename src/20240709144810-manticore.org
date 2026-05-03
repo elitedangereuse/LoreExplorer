@@ -16,13 +16,13 @@ Established in 2990, Manticore was for many years associated solely with
 ship-based technology, making a name for itself as a manufacturer of
 cannons, missiles and limpets. In 3303, the company widened its remit to
 encompass personal defence. When asked about the change, company
-director Karisa Neuman cited "a clear gap in the market for quality
+director [[id:8e801009-07db-41cd-bcc4-48439c4b8b5b][Karisa Neuman]] cited "a clear gap in the market for quality
 plasma and laser weaponry" as the motivator.
 
-The move attracted criticism from competitors Takada and Kinematic
-Armaments, who suggested that Manticore was rushing to enter a market it
+The move attracted criticism from competitors [[id:3c9b3ac6-2b3c-406f-b0de-dc02f3a1e9c1][Takada]] and [[id:f0af7a1a-9bd0-4974-92d7-1d12e5d0a0b5][Kinematic
+Armaments]], who suggested that Manticore was rushing to enter a market it
 did not fully understand. Neuman responded by poaching superstar
-designer Elin Yu from Kinematic Armaments.
+designer [[id:2c22b41e-6600-41d3-85f8-426559b12ef4][Elin Yu]] from [[id:f0af7a1a-9bd0-4974-92d7-1d12e5d0a0b5][Kinematic Armaments]].
 
 The development led to a jump in Manticore share prices as commentators
 speculated about the impact that Yu -- whose work at Kinematic produced
@@ -40,5 +40,4 @@ demonstrated its potential for further growth. Manticore may choose to
 present itself as guided by little more than instinct and good fortune,
 but in reality it is as tactical -- and, when necessary, as ruthless --
 as any of its rivals.
-
 

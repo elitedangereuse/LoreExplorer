@@ -13,25 +13,23 @@
 #+end_quote
 
 Remlok is the galaxy's largest manufacturer of space suits. Led by CEO
-Sebastien Croix, it is noted for its employee-centric ethos, which
+[[id:243421f2-7507-47fb-8b5c-6ac730e43743][Sebastien Croix]], it is noted for its employee-centric ethos, which
 offers workers generous benefits and competitive wages.
 
 Perhaps unsurprisingly given the company's commitment to fair treatment,
-it is vocally opposed to slavery. Croix, as the descendant of an
+it is vocally opposed to slavery. [[id:243421f2-7507-47fb-8b5c-6ac730e43743][Croix]], as the descendant of an
 enslaved family, has repeatedly clashed with pro-slavery figureheads,
 including Imperial Senator [[id:d8e3667c-3ba1-43aa-bc90-dac719c6d5e7][Zemina Torval]].
 
-In, 3300, Croix lambasted Torval for using excessive force to suppress a
-slave rebellion in the Sorbago system. Describing her actions as a
+In, 3300, [[id:243421f2-7507-47fb-8b5c-6ac730e43743][Croix]] lambasted Torval for using excessive force to suppress a
+slave rebellion in the [[id:6dec0302-6b62-4a55-b7e2-fc6cf3a65fe1][Sorbago]] system. Describing her actions as a
 "cruel response to people seizing their rightful freedom," Croix came
 under fire from Torval's allies, with some threatening to boycott the
 company until an apology was issued. Remlok's public relations
-department issued a response, admitting that Croix's statement was
+department issued a response, admitting that [[id:243421f2-7507-47fb-8b5c-6ac730e43743][Croix]]'s statement was
 "intense", while maintaining the company's fundamental position.
 
 More recently, the company has partnered with abolition charity Unchain,
 pledging a portion of its profits to the organisation's cause.
 Predictably, the move has attracted a certain amount of criticism, but
 has done little to undermine Remlok's market position.
-
-

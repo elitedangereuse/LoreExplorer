@@ -15,17 +15,17 @@
 
 To independent pilots, Saud Kruger is best known for luxurious passenger
 liners such as the Beluga, Dolphin and Orca, although the company also
-runs a tourism branch under the Astrogator brand.
+runs a tourism branch under the [[id:1b328227-3a16-47d3-af61-df3592c4ddf5][Astrogator]] brand.
 
-Saud Kruger started life as a yacht manufacturer in Bedaho, although the
+Saud Kruger started life as a yacht manufacturer in [[id:4ee2a5f7-7b84-4261-aeb9-ebcddc41ad7c][Bedaho]], although the
 narrowness of the market curtailed the company's growth. When company
-director [[id:39e42b99-ece9-4a2f-a859-858f2887e5f4][Stanislav Kruger]] purchased the struggling Astrogator touring
+director [[id:39e42b99-ece9-4a2f-a859-858f2887e5f4][Stanislav Kruger]] purchased the struggling [[id:1b328227-3a16-47d3-af61-df3592c4ddf5][Astrogator]] touring
 company in 3270, he gave Saud Kruger a foothold in multiple star
-systems. Kruger then refurbished the Astrogator fleet and revamped the
+systems. Kruger then refurbished the [[id:1b328227-3a16-47d3-af61-df3592c4ddf5][Astrogator]] fleet and revamped the
 somewhat stale tour itinerary to give it a more adventurous,
 thrill-seeking flavour, which proved highly successful.
 
-Goldskin leather, sourced exclusively from the planet Home in the Bedaho
+Goldskin leather, sourced exclusively from the planet Home in the [[id:4ee2a5f7-7b84-4261-aeb9-ebcddc41ad7c][Bedaho]]
 system, has been used in the interiors of Saud Kruger ships for years,
 and is part of the company's distinctive aesthetic. Saud Kruger has the
 exclusive right to produce real goldskin, which comes embedded with
@@ -37,4 +37,3 @@ exploring. The company's critics claim this approach risks transforming
 the vitally important field of space exploration into a pastime for the
 idle rich, thus alienating the many freelancers on whose hard work the
 discipline depends.
-

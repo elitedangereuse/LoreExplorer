@@ -16,7 +16,7 @@
 Best known for the iconic Coriolis, the Brewer Corporation has been
 synonymous with starports since 2752.
 
-The first Coriolis, designed by Timothy Brewer to elevate the standard
+The first Coriolis, designed by [[id:f8b17752-90ff-462f-84b8-965651b26976][Timothy Brewer]] to elevate the standard
 of offworld living, took nearly four years and one billion credits to
 complete. Though crude and angular to look at, it was relatively simple
 to assemble in space, with heavy components that could be manufactured
@@ -42,13 +42,13 @@ could build Brewer-quality stations at a fraction of the cost.
 The Merritt Group was one such challenger, an industry newcomer with a
 background in planetary infrastructure. Launching the Nostrum, an
 industrial station sold as a low-cost alternative to the Orbis,
-president Caleb Ferrin bragged about the starport's technical
+president [[id:bc35ac5d-2ac8-4a8c-bfcf-4f7281495e69][Caleb Ferrin]] bragged about the starport's technical
 specifications, claiming it would eliminate the need for
 exorbitantly-priced installations.
 
-Ferrin's assertions were definitively answered in 3255, when a
+[[id:bc35ac5d-2ac8-4a8c-bfcf-4f7281495e69][Ferrin]]'s assertions were definitively answered in 3255, when a
 catastrophic structural failure in the main ring of a Nostrum starport
-in the Tau Ceti system killed over 100,000 people. Investigating the
+in the [[id:000181d2-87fb-4eac-9c05-378082def97f][Tau Ceti]] system killed over 100,000 people. Investigating the
 tragedy, industry officials attributed the incidents to "a lack of
 adequate safety planning" and repeated failures to correct a fatigue
 fracture.
@@ -60,4 +60,3 @@ negligence bolstered Brewer's reputation. Brewer called the incident a
 for safety". The Merritt Group closed its starport division in 3257,
 leaving Brewer as the sole name in large orbital infrastructure. Its
 prowess has not since been challenged.
-

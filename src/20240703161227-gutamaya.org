@@ -24,12 +24,12 @@ silhouettes.
 3000 as part of a formal celebration of the millennium, in line with the
 Emperor's vision of an Imperial renaissance in art, design and
 architecture. The company's remit, overseen by shipwrights
-Jordan-Blakestow and sculptor Amita Gutamaya, was to produce a line of
+[[id:13b5928d-faf0-431d-8eae-18b653ef0340][Jordan-Blakestow]] and sculptor [[id:0d00d151-c267-4c3b-b057-24290de8d299][Amita Gutamaya]], was to produce a line of
 ships that would combine functional excellence with a distinct visual
 style. These would be offered for a limited period to select members of
 the Imperial noble houses as a mark of the Emperor's favour.
 
-Amita Gutamaya's involvement was immediately apparent, her reputation
+[[id:0d00d151-c267-4c3b-b057-24290de8d299][Amita Gutamaya]]'s involvement was immediately apparent, her reputation
 having been established through well-regarded public artworks
 incorporating graceful, contoured forms. This helped to drive public
 demand for the ships, which became sought-after status symbols. Demand
@@ -40,7 +40,6 @@ available for general purchase.
 
 From its inception, Gutamaya has employed a coterie of accomplished
 Imperial artisans to ensure that their ships continue to reflect Amita
-Gutamaya's aesthetic principles. When, in 3006, Amita Gutamaya died in
+Gutamaya's aesthetic principles. When, in 3006, [[id:0d00d151-c267-4c3b-b057-24290de8d299][Amita Gutamaya]] died in
 unexplained circumstances, she was interred in the Gutamaya family crypt
 on [[id:bed8c27f-3cbe-49ad-b86f-7d87eacf804a][Achenar]] 6b.
-

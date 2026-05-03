@@ -33,13 +33,12 @@ Federally chartered colony missions.
 Today, Wreaken specialises in the extraction of tantalum, a vital
 component in frame shift drives. The company is firmly established in
 Alliance, Federation and independent territories, while its direct rival
-Mastopolos Mining dominates in Imperial space. Tensions between the two
+[[id:4dfc1d85-8d12-4503-a4ed-84da898a03ba][Mastopolos Mining]] dominates in Imperial space. Tensions between the two
 corporations have been high since Wreaken accused Mastopolos of covertly
 seeding key planets with tiny, promising tantalum deposits, in the
 expectation that Wreaken's thoroughgoing approach would prompt a full
 survey, thus tying up valuable resources. Mastopolos has not offered an
 official response to the assertions, though at a formal dinner in 3303
-Elena Mastopolos made a pointed reference to the etymological link
+[[id:ba8446c1-4b03-4c04-938f-a543f69ed97a][Elena Mastopolos]] made a pointed reference to the etymological link
 between tantalus and 'tantalise', adding that it was not illegal to
 leave gifts on a neighbour's doorstep.
-
