@@ -3,3 +3,15 @@
 :END:
 #+title: Col 285 Sector AV-M b21-5
 #+filetags: :System:
+
+Presence of a [[id:4df4a36a-20bf-43ca-9bf1-2324f832ab81][Listening Post]]
+#+begin_quote
+DATA OF UNKNOWN HUMAN ORIGIN
+...Transponder Signal PHO-265-A Detected...
+
+Matching Signal Detected. Coelachi. Time Stamp Predates Parameters.
+
+We’ve done it...[[id:043d80b9-4bb0-4ce2-9655-a6687ac4a5e9][Coelachi]] [[https://edgis.elitedangereuse.fr/static/sysmap.html?system=Coelachi&body_id=54][4]]...down on the surface...habitats...fully operational...5 settlements...another 10...habitable landmass...mission a success...decommissioned...landers...ceremonies to celebrate our new life...[[id:1a93eb96-3dd7-49a2-8dde-6897187f848a][HIP 10229]]...
+
+...Signal Lost...
+#+end_quote
