@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       93410322-85eb-4d58-ae0e-c99b5faf3e02
+:END:
+#+title: HIP 17692
+#+filetags: :System:
