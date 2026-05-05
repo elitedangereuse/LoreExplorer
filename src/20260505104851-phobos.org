@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       bce186ef-7641-4b58-9617-ab6494952308
+:END:
+#+title: Phobos
+#+filetags: :ship:
+
+Phobos is an abandoned [[id:951f3d20-c3aa-41cc-ba58-cc7d3a5a1d07][Generation Ship]] that can be found in the
+[[id:043d80b9-4bb0-4ce2-9655-a6687ac4a5e9][Coelachi]] system.
+
+The location is revealed by the [[id:4df4a36a-20bf-43ca-9bf1-2324f832ab81][Listening Post]] in the [[id:1e5f2eeb-0139-464a-abe0-d80d5c5d2a14][Col 285 Sector AV-M b21-5]] system, orbiting [[https://edgis.elitedangereuse.fr/static/sysmap.html?system=Col+285+Sector+AV-M+b21-5&body_id=1][body 1]]
+
+[[file:img/ships/GenerationShipPhobos.webp]]
