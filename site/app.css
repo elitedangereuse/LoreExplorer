@@ -1990,6 +1990,29 @@ code {
   box-shadow: 0 18px 36px rgba(0, 0, 0, 0.24);
 }
 
+.note-inline-audio {
+  display: grid;
+  gap: 8px;
+  margin: 18px 0;
+  padding: 14px;
+  border-radius: 18px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  background: rgba(3, 11, 18, 0.82);
+  box-shadow: 0 18px 36px rgba(0, 0, 0, 0.18);
+}
+
+.note-inline-audio figcaption {
+  color: var(--text-dim);
+  font-size: 0.86rem;
+}
+
+.note-inline-audio audio {
+  width: 100%;
+  display: inline-block;
+  height: 32px;
+  vertical-align: middle;
+}
+
 @media (max-width: 920px) {
   body {
     overflow: auto;

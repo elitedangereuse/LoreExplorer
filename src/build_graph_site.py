@@ -49,6 +49,17 @@ PRIORITY_GROUPS = [
 
 ORG_LINK_RE = re.compile(r"\[\[([^\]]+)\](?:\[([^\]]+)\])?\]")
 IMAGE_SUFFIXES = {".png", ".jpg", ".jpeg", ".gif", ".webp", ".svg"}
+AUDIO_SUFFIXES = {
+    ".mp3",
+    ".ogg",
+    ".oga",
+    ".wav",
+    ".m4a",
+    ".aac",
+    ".flac",
+    ".opus",
+    ".webm",
+}
 LIST_ITEM_RE = re.compile(r"^(\s*)([-+*]|\d+[.)])\s+(.*)$")
 
 
@@ -77,11 +88,23 @@ class Note:
 
 
 def parse_args() -> argparse.Namespace:
-    parser = argparse.ArgumentParser(description="Build a static graph site from org-roam data.")
-    parser.add_argument("--db", default="src/org-roam.db", help="Path to org-roam.db")
-    parser.add_argument("--src-dir", default="src", help="Directory containing .org files")
-    parser.add_argument("--site-dir", default="site", help="Directory containing static site assets")
-    parser.add_argument("--out-dir", default="build/site", help="Output directory")
+    parser = argparse.ArgumentParser(
+        description="Build a static graph site from org-roam data."
+    )
+    parser.add_argument(
+        "--db", default="src/org-roam.db", help="Path to org-roam.db"
+    )
+    parser.add_argument(
+        "--src-dir", default="src", help="Directory containing .org files"
+    )
+    parser.add_argument(
+        "--site-dir",
+        default="site",
+        help="Directory containing static site assets",
+    )
+    parser.add_argument(
+        "--out-dir", default="build/site", help="Output directory"
+    )
     return parser.parse_args()
 
 
@@ -125,7 +148,9 @@ def color_for_group(group: str, groups: list[str]) -> str:
     return PALETTE[index]
 
 
-def build_adjacency(notes: dict[str, Note], links: list[tuple[str, str]]) -> dict[str, set[str]]:
+def build_adjacency(
+    notes: dict[str, Note], links: list[tuple[str, str]]
+) -> dict[str, set[str]]:
     adjacency = {node_id: set() for node_id in notes}
     for source, dest in links:
         adjacency[source].add(dest)
@@ -139,14 +164,20 @@ def choose_community_label(
     labels: dict[str, str],
     notes: dict[str, Note],
 ) -> str:
-    neighbor_labels = Counter(labels[neighbor_id] for neighbor_id in adjacency[note_id])
+    neighbor_labels = Counter(
+        labels[neighbor_id] for neighbor_id in adjacency[note_id]
+    )
     if not neighbor_labels:
         return labels[note_id]
     return max(
         neighbor_labels,
         key=lambda label: (
             neighbor_labels[label],
-            sum(notes[neighbor_id].degree for neighbor_id in adjacency[note_id] if labels[neighbor_id] == label),
+            sum(
+                notes[neighbor_id].degree
+                for neighbor_id in adjacency[note_id]
+                if labels[neighbor_id] == label
+            ),
             -len(label),
             label,
         ),
@@ -172,21 +203,35 @@ def choose_merge_target(
             key=lambda community_id: (
                 boundary_scores[community_id],
                 len(communities[community_id]),
-                sum(notes[node_id].degree for node_id in communities[community_id]),
+                sum(
+                    notes[node_id].degree
+                    for node_id in communities[community_id]
+                ),
                 community_id,
             ),
         )
 
-    member_groups = Counter(notes[node_id].group for node_id in members if notes[node_id].group)
+    member_groups = Counter(
+        notes[node_id].group for node_id in members if notes[node_id].group
+    )
     if member_groups:
         dominant_group = member_groups.most_common(1)[0][0]
-        matching = [community_id for community_id, node_ids in communities.items() if any(notes[node_id].group == dominant_group for node_id in node_ids)]
+        matching = [
+            community_id
+            for community_id, node_ids in communities.items()
+            if any(
+                notes[node_id].group == dominant_group for node_id in node_ids
+            )
+        ]
         if matching:
             return max(
                 matching,
                 key=lambda community_id: (
                     len(communities[community_id]),
-                    sum(notes[node_id].degree for node_id in communities[community_id]),
+                    sum(
+                        notes[node_id].degree
+                        for node_id in communities[community_id]
+                    ),
                     community_id,
                 ),
             )
@@ -197,21 +242,33 @@ def choose_merge_target(
         communities,
         key=lambda community_id: (
             len(communities[community_id]),
-            sum(notes[node_id].degree for node_id in communities[community_id]),
+            sum(
+                notes[node_id].degree for node_id in communities[community_id]
+            ),
             community_id,
         ),
     )
 
 
-def detect_communities(notes: dict[str, Note], links: list[tuple[str, str]]) -> dict[str, list[str]]:
+def detect_communities(
+    notes: dict[str, Note], links: list[tuple[str, str]]
+) -> dict[str, list[str]]:
     adjacency = build_adjacency(notes, links)
     labels = {node_id: node_id for node_id in notes}
-    node_order = [note.node_id for note in sorted(notes.values(), key=lambda note: (-note.degree, note.title.lower(), note.node_id))]
+    node_order = [
+        note.node_id
+        for note in sorted(
+            notes.values(),
+            key=lambda note: (-note.degree, note.title.lower(), note.node_id),
+        )
+    ]
 
     for _ in range(16):
         changed = False
         for node_id in node_order:
-            next_label = choose_community_label(node_id, adjacency, labels, notes)
+            next_label = choose_community_label(
+                node_id, adjacency, labels, notes
+            )
             if next_label != labels[node_id]:
                 labels[node_id] = next_label
                 changed = True
@@ -223,7 +280,11 @@ def detect_communities(notes: dict[str, Note], links: list[tuple[str, str]]) -> 
         communities[label].append(node_id)
 
     min_size = max(10, round(math.sqrt(max(1, len(notes))) / 2))
-    node_to_community = {node_id: label for label, node_ids in communities.items() for node_id in node_ids}
+    node_to_community = {
+        node_id: label
+        for label, node_ids in communities.items()
+        for node_id in node_ids
+    }
 
     while True:
         small_communities = [
@@ -235,7 +296,9 @@ def detect_communities(notes: dict[str, Note], links: list[tuple[str, str]]) -> 
             break
 
         moved = False
-        for community_id in sorted(small_communities, key=lambda item: (len(communities[item]), item)):
+        for community_id in sorted(
+            small_communities, key=lambda item: (len(communities[item]), item)
+        ):
             members = communities.get(community_id)
             if not members or len(members) >= min_size:
                 continue
@@ -244,7 +307,13 @@ def detect_communities(notes: dict[str, Note], links: list[tuple[str, str]]) -> 
                 for key, value in communities.items()
                 if key != community_id
             }
-            target = choose_merge_target(members, adjacency, candidate_communities, node_to_community, notes)
+            target = choose_merge_target(
+                members,
+                adjacency,
+                candidate_communities,
+                node_to_community,
+                notes,
+            )
             if not target:
                 continue
             communities[target].extend(members)
@@ -268,7 +337,11 @@ def detect_communities(notes: dict[str, Note], links: list[tuple[str, str]]) -> 
         community_id = f"community-{index:03d}"
         sorted_node_ids = sorted(
             node_ids,
-            key=lambda node_id: (-notes[node_id].degree, notes[node_id].title.lower(), node_id),
+            key=lambda node_id: (
+                -notes[node_id].degree,
+                notes[node_id].title.lower(),
+                node_id,
+            ),
         )
         final_communities[community_id] = sorted_node_ids
         for node_id in sorted_node_ids:
@@ -302,7 +375,9 @@ def parse_roam_refs(raw_value: str) -> list[str]:
     return [token.strip() for token in value.split() if token.strip()]
 
 
-def parse_file_note_metadata(path: Path) -> tuple[str, str, list[str], list[str], list[str]]:
+def parse_file_note_metadata(
+    path: Path,
+) -> tuple[str, str, list[str], list[str], list[str]]:
     node_id = ""
     title = ""
     tags: list[str] = []
@@ -320,18 +395,24 @@ def parse_file_note_metadata(path: Path) -> tuple[str, str, list[str], list[str]
                 in_properties = False
                 continue
             if line.startswith(":ID:"):
-                node_id = line[len(":ID:"):].strip()
+                node_id = line[len(":ID:") :].strip()
             elif line.startswith(":ROAM_ALIASES:"):
-                aliases = parse_roam_aliases(line[len(":ROAM_ALIASES:"):].strip())
+                aliases = parse_roam_aliases(
+                    line[len(":ROAM_ALIASES:") :].strip()
+                )
             elif line.startswith(":ROAM_REFS:"):
-                refs = parse_roam_refs(line[len(":ROAM_REFS:"):].strip())
+                refs = parse_roam_refs(line[len(":ROAM_REFS:") :].strip())
             continue
 
         if raw_line.startswith("#+title:"):
-            title = raw_line[len("#+title:"):].strip()
+            title = raw_line[len("#+title:") :].strip()
             continue
         if raw_line.startswith("#+filetags:"):
-            tags = [tag for tag in raw_line[len("#+filetags:"):].strip().split(":") if tag]
+            tags = [
+                tag
+                for tag in raw_line[len("#+filetags:") :].strip().split(":")
+                if tag
+            ]
             continue
 
         if node_id and title:
@@ -340,7 +421,9 @@ def parse_file_note_metadata(path: Path) -> tuple[str, str, list[str], list[str]
     return node_id, title, tags, aliases, refs
 
 
-def load_notes(db_path: Path, src_dir: Path) -> tuple[dict[str, Note], list[tuple[str, str]]]:
+def load_notes(
+    db_path: Path, src_dir: Path
+) -> tuple[dict[str, Note], list[tuple[str, str]]]:
     connection = sqlite3.connect(db_path)
     connection.row_factory = sqlite3.Row
 
@@ -351,7 +434,9 @@ def load_notes(db_path: Path, src_dir: Path) -> tuple[dict[str, Note], list[tupl
     file_aliases: dict[str, list[str]] = {}
     file_refs: dict[str, list[str]] = {}
 
-    for row in connection.execute("SELECT id, file, COALESCE(title, '') AS title FROM nodes"):
+    for row in connection.execute(
+        "SELECT id, file, COALESCE(title, '') AS title FROM nodes"
+    ):
         node_id = clean_db_text(row["id"])
         note_path = resolve_note_path(clean_db_text(row["file"]), src_dir)
         if not note_path.exists():
@@ -362,7 +447,13 @@ def load_notes(db_path: Path, src_dir: Path) -> tuple[dict[str, Note], list[tupl
     for note_path in sorted(src_dir.glob("*.org")):
         if note_path.name.startswith(".#"):
             continue
-        node_id, title, parsed_tags, parsed_aliases, parsed_refs = parse_file_note_metadata(note_path)
+        (
+            node_id,
+            title,
+            parsed_tags,
+            parsed_aliases,
+            parsed_refs,
+        ) = parse_file_note_metadata(note_path)
         if not node_id:
             continue
         file_tags[node_id] = parsed_tags
@@ -378,12 +469,16 @@ def load_notes(db_path: Path, src_dir: Path) -> tuple[dict[str, Note], list[tupl
             file=note_path,
         )
 
-    for row in connection.execute("SELECT node_id, tag FROM tags WHERE tag IS NOT NULL AND tag != ''"):
+    for row in connection.execute(
+        "SELECT node_id, tag FROM tags WHERE tag IS NOT NULL AND tag != ''"
+    ):
         node_id = clean_db_text(row["node_id"])
         if node_id in notes:
             tags[node_id].append(clean_db_text(row["tag"]))
 
-    for row in connection.execute("SELECT node_id, alias FROM aliases WHERE alias IS NOT NULL AND alias != ''"):
+    for row in connection.execute(
+        "SELECT node_id, alias FROM aliases WHERE alias IS NOT NULL AND alias != ''"
+    ):
         node_id = clean_db_text(row["node_id"])
         if node_id in notes:
             aliases[node_id].append(clean_db_text(row["alias"]))
@@ -392,7 +487,11 @@ def load_notes(db_path: Path, src_dir: Path) -> tuple[dict[str, Note], list[tupl
     link_pairs: set[tuple[str, str]] = set()
 
     def add_link(source: str, dest: str) -> None:
-        if source not in notes or dest not in notes or (source, dest) in link_pairs:
+        if (
+            source not in notes
+            or dest not in notes
+            or (source, dest) in link_pairs
+        ):
             return
         link_pairs.add((source, dest))
         links.append((source, dest))
@@ -412,14 +511,18 @@ def load_notes(db_path: Path, src_dir: Path) -> tuple[dict[str, Note], list[tupl
         # the org-roam DB only for files without a #+filetags line.
         file_tag_values = file_tags.get(node_id, [])
         note.tags = sorted(dict.fromkeys(file_tag_values or tags[node_id]))
-        note.aliases = sorted(dict.fromkeys(aliases[node_id] or file_aliases.get(node_id, [])))
+        note.aliases = sorted(
+            dict.fromkeys(aliases[node_id] or file_aliases.get(node_id, []))
+        )
         note.refs = list(dict.fromkeys(file_refs.get(node_id, [])))
 
     connection.close()
     return notes, links
 
 
-def assign_positions(notes: dict[str, Note], communities: dict[str, list[str]]) -> None:
+def assign_positions(
+    notes: dict[str, Note], communities: dict[str, list[str]]
+) -> None:
     groups = sorted({choose_group(note.tags) for note in notes.values()})
     for note in notes.values():
         note.group = choose_group(note.tags)
@@ -428,16 +531,30 @@ def assign_positions(notes: dict[str, Note], communities: dict[str, list[str]]) 
     ordered_communities = list(communities.items())
     community_radius = max(900.0, len(ordered_communities) * 95.0)
 
-    for community_index, (community_id, node_ids) in enumerate(ordered_communities):
-        angle = community_index * (2 * math.pi / max(1, len(ordered_communities)))
+    for community_index, (community_id, node_ids) in enumerate(
+        ordered_communities
+    ):
+        angle = community_index * (
+            2 * math.pi / max(1, len(ordered_communities))
+        )
         center_x = math.cos(angle) * community_radius
         center_y = math.sin(angle) * community_radius
-        dominant_groups = Counter(notes[node_id].group for node_id in node_ids if notes[node_id].group)
-        dominant_group = dominant_groups.most_common(1)[0][0] if dominant_groups else "misc"
+        dominant_groups = Counter(
+            notes[node_id].group
+            for node_id in node_ids
+            if notes[node_id].group
+        )
+        dominant_group = (
+            dominant_groups.most_common(1)[0][0] if dominant_groups else "misc"
+        )
 
         sorted_node_ids = sorted(
             node_ids,
-            key=lambda node_id: (-notes[node_id].degree, notes[node_id].title.lower(), node_id),
+            key=lambda node_id: (
+                -notes[node_id].degree,
+                notes[node_id].title.lower(),
+                node_id,
+            ),
         )
         for node_index, node_id in enumerate(sorted_node_ids):
             note = notes[node_id]
@@ -479,6 +596,10 @@ def is_image_target(target: str) -> bool:
     return Path(normalize_file_target(target)).suffix.lower() in IMAGE_SUFFIXES
 
 
+def is_audio_target(target: str) -> bool:
+    return Path(normalize_file_target(target)).suffix.lower() in AUDIO_SUFFIXES
+
+
 def link_text(target: str, label: str | None) -> str:
     if label:
         return label
@@ -501,17 +622,31 @@ def render_org_link(target: str, label: str | None) -> str:
         href = html.escape(normalize_file_target(target), quote=True)
         if is_image_target(target):
             return f'<img class="note-inline-image" src="{href}" alt="{html.escape(text)}" loading="lazy" />'
+        if is_audio_target(target):
+            escaped_text = html.escape(text)
+            return (
+                f'<figure class="note-inline-audio">'
+                f"<figcaption>{escaped_text}</figcaption>"
+                f'<audio controls preload="metadata" src="{href}">'
+                f'<a href="{href}" target="_blank" rel="noreferrer">{escaped_text}</a>'
+                f"</audio>"
+                f"</figure>"
+            )
         return f'<a href="{href}" target="_blank" rel="noreferrer">{html.escape(text)}</a>'
     href = html.escape(target, quote=True)
     return f'<a href="{href}">{html.escape(text)}</a>'
 
 
 def convert_org_links(text: str) -> str:
-    return ORG_LINK_RE.sub(lambda match: render_org_link(match.group(1), match.group(2)), text)
+    return ORG_LINK_RE.sub(
+        lambda match: render_org_link(match.group(1), match.group(2)), text
+    )
 
 
 def strip_org_markup(text: str) -> str:
-    text = ORG_LINK_RE.sub(lambda match: link_text(match.group(1), match.group(2)), text)
+    text = ORG_LINK_RE.sub(
+        lambda match: link_text(match.group(1), match.group(2)), text
+    )
     text = re.sub(r"(^|[\s(])\*([^*]+)\*([\s).,;:!?]|$)", r"\1\2\3", text)
     text = re.sub(r"(^|[\s(])/([^/]+)/([\s).,;:!?]|$)", r"\1\2\3", text)
     text = re.sub(r"[=~]([^=~]+)[=~]", r"\1", text)
@@ -527,8 +662,14 @@ def apply_inline_markup(text: str) -> str:
 
     text = ORG_LINK_RE.sub(stash_link, text)
     escaped = html.escape(text)
-    escaped = re.sub(r"(^|[\s(])\*([^*]+)\*([\s).,;:!?]|$)", r"\1<strong>\2</strong>\3", escaped)
-    escaped = re.sub(r"(^|[\s(])/([^/]+)/([\s).,;:!?]|$)", r"\1<em>\2</em>\3", escaped)
+    escaped = re.sub(
+        r"(^|[\s(])\*([^*]+)\*([\s).,;:!?]|$)",
+        r"\1<strong>\2</strong>\3",
+        escaped,
+    )
+    escaped = re.sub(
+        r"(^|[\s(])/([^/]+)/([\s).,;:!?]|$)", r"\1<em>\2</em>\3", escaped
+    )
     escaped = re.sub(r"=([^=]+)=", r"<code>\1</code>", escaped)
     escaped = re.sub(r"~([^~]+)~", r"<code>\1</code>", escaped)
     for index, link_html in enumerate(placeholders):
@@ -540,7 +681,9 @@ def headings_match_title(heading_text: str, title: str) -> bool:
     return normalize(strip_org_markup(heading_text)) == normalize(title)
 
 
-def render_list_block(entries: list[tuple[int, str, str]]) -> tuple[str, list[str]]:
+def render_list_block(
+    entries: list[tuple[int, str, str]]
+) -> tuple[str, list[str]]:
     plain_text_items: list[str] = []
 
     def list_tag(marker: str) -> str:
@@ -589,10 +732,14 @@ def render_quote_block(lines: list[str]) -> tuple[str, list[str]]:
         nonlocal paragraph_lines
         if not paragraph_lines:
             return
-        text = " ".join(part.strip() for part in paragraph_lines if part.strip())
+        text = " ".join(
+            part.strip() for part in paragraph_lines if part.strip()
+        )
         if text:
             plain_text_blocks.append(strip_org_markup(text))
-            blocks.append(f'<p class="note-quote-paragraph">{apply_inline_markup(text)}</p>')
+            blocks.append(
+                f'<p class="note-quote-paragraph">{apply_inline_markup(text)}</p>'
+            )
         paragraph_lines = []
 
     for line in lines:
@@ -604,7 +751,10 @@ def render_quote_block(lines: list[str]) -> tuple[str, list[str]]:
     flush_quote_paragraph()
     if not blocks:
         return "", []
-    return '<blockquote class="note-quote">' + "".join(blocks) + "</blockquote>", plain_text_blocks
+    return (
+        '<blockquote class="note-quote">' + "".join(blocks) + "</blockquote>",
+        plain_text_blocks,
+    )
 
 
 def reference_source_label(url: str) -> str:
@@ -641,7 +791,11 @@ def render_reference_links(refs: list[str]) -> str:
     for ref in refs:
         label = reference_source_label(ref)
         seen_labels[label] += 1
-        display = label if seen_labels[label] == 1 else f"{label} {seen_labels[label]}"
+        display = (
+            label
+            if seen_labels[label] == 1
+            else f"{label} {seen_labels[label]}"
+        )
         links.append(
             f'<a class="reference-link" href="{html.escape(ref, quote=True)}" target="_blank" rel="noopener noreferrer">'
             f"{html.escape(display)}</a>"
@@ -649,9 +803,7 @@ def render_reference_links(refs: list[str]) -> str:
     return (
         '<div class="note-references">'
         '<span class="meta-label">References</span>'
-        '<div class="note-reference-list">'
-        + "".join(links)
-        + "</div></div>"
+        '<div class="note-reference-list">' + "".join(links) + "</div></div>"
     )
 
 
@@ -677,11 +829,19 @@ def render_org_note(note: Note) -> str:
         nonlocal paragraph_lines
         if not paragraph_lines:
             return
-        text = " ".join(part.strip() for part in paragraph_lines if part.strip())
+        text = " ".join(
+            part.strip() for part in paragraph_lines if part.strip()
+        )
         if text:
             plain_text_lines.append(strip_org_markup(text))
-            css_class = "note-date" if re.fullmatch(r"/[^/]+/", text) else "note-paragraph"
-            blocks.append(f'<p class="{css_class}">{apply_inline_markup(text)}</p>')
+            css_class = (
+                "note-date"
+                if re.fullmatch(r"/[^/]+/", text)
+                else "note-paragraph"
+            )
+            blocks.append(
+                f'<p class="{css_class}">{apply_inline_markup(text)}</p>'
+            )
         paragraph_lines = []
 
     def flush_list() -> None:
@@ -734,14 +894,18 @@ def render_org_note(note: Note) -> str:
                 continue
             level = min(len(heading_match.group(1)) + 1, 6)
             plain_text_lines.append(strip_org_markup(heading_text))
-            blocks.append(f"<h{level}>{apply_inline_markup(heading_text)}</h{level}>")
+            blocks.append(
+                f"<h{level}>{apply_inline_markup(heading_text)}</h{level}>"
+            )
             continue
 
         list_match = LIST_ITEM_RE.match(line)
         if list_match:
             flush_paragraph()
             indent = len(list_match.group(1).expandtabs(4))
-            list_entries.append((indent, list_match.group(2), list_match.group(3).strip()))
+            list_entries.append(
+                (indent, list_match.group(2), list_match.group(3).strip())
+            )
             continue
 
         paragraph_lines.append(line)
@@ -758,7 +922,10 @@ def render_org_note(note: Note) -> str:
     if note.aliases:
         alias_html = (
             '<div class="note-aliases"><span class="meta-label">Aliases</span>'
-            + "".join(f'<span class="tag alias">{html.escape(alias)}</span>' for alias in note.aliases)
+            + "".join(
+                f'<span class="tag alias">{html.escape(alias)}</span>'
+                for alias in note.aliases
+            )
             + "</div>"
         )
     refs_html = render_reference_links(note.refs)
@@ -783,7 +950,9 @@ def write_json(path: Path, payload: object) -> None:
     temp_path.replace(path)
 
 
-def compact_rows(rows: list[dict[str, object]], fields: list[str]) -> list[list[object]]:
+def compact_rows(
+    rows: list[dict[str, object]], fields: list[str]
+) -> list[list[object]]:
     return [[row.get(field) for field in fields] for row in rows]
 
 
@@ -794,12 +963,18 @@ def write_text_atomic(path: Path, content: str) -> None:
     temp_path.replace(path)
 
 
-def build_site(db_path: Path, src_dir: Path, site_dir: Path, out_dir: Path) -> None:
+def build_site(
+    db_path: Path, src_dir: Path, site_dir: Path, out_dir: Path
+) -> None:
     out_dir.mkdir(parents=True, exist_ok=True)
     shutil.copytree(site_dir, out_dir, dirs_exist_ok=True)
-    image_dir = src_dir / "img"
-    if image_dir.exists():
-        shutil.copytree(image_dir, out_dir / "img", dirs_exist_ok=True)
+    # Copy note-local media directories referenced by org file links.
+    for media_dir_name in ("img", "audio"):
+        media_dir = src_dir / media_dir_name
+        if media_dir.exists():
+            shutil.copytree(
+                media_dir, out_dir / media_dir_name, dirs_exist_ok=True
+            )
 
     notes, links = load_notes(db_path, src_dir)
     communities = detect_communities(notes, links)
@@ -855,38 +1030,62 @@ def build_site(db_path: Path, src_dir: Path, site_dir: Path, out_dir: Path) -> N
             }
         )
 
-    edge_payload = [{"source": source, "target": dest} for source, dest in links]
+    edge_payload = [
+        {"source": source, "target": dest} for source, dest in links
+    ]
     community_edges = Counter()
 
     for source, dest in links:
         source_community = notes[source].community
         dest_community = notes[dest].community
-        if not source_community or not dest_community or source_community == dest_community:
+        if (
+            not source_community
+            or not dest_community
+            or source_community == dest_community
+        ):
             continue
         left, right = sorted((source_community, dest_community))
         community_edges[(left, right)] += 1
 
-    community_groups = sorted({choose_group(note.tags) for note in notes.values()})
+    community_groups = sorted(
+        {choose_group(note.tags) for note in notes.values()}
+    )
     ordered_communities = list(communities.items())
     community_radius = max(620.0, len(ordered_communities) * 48.0)
 
-    for community_index, (community_id, node_ids) in enumerate(ordered_communities):
+    for community_index, (community_id, node_ids) in enumerate(
+        ordered_communities
+    ):
         community_notes = [notes[node_id] for node_id in node_ids]
-        hub = max(community_notes, key=lambda note: (note.degree, note.title.lower(), note.node_id))
-        community_group_counter = Counter(note.group for note in community_notes if note.group)
-        dominant_group = community_group_counter.most_common(1)[0][0] if community_group_counter else "misc"
-        angle = community_index * (2 * math.pi / max(1, len(ordered_communities)))
+        hub = max(
+            community_notes,
+            key=lambda note: (note.degree, note.title.lower(), note.node_id),
+        )
+        community_group_counter = Counter(
+            note.group for note in community_notes if note.group
+        )
+        dominant_group = (
+            community_group_counter.most_common(1)[0][0]
+            if community_group_counter
+            else "misc"
+        )
+        angle = community_index * (
+            2 * math.pi / max(1, len(ordered_communities))
+        )
         x = round(math.cos(angle) * community_radius, 2)
         y = round(math.sin(angle) * community_radius, 2)
         internal_edge_count = sum(
             1
             for source, dest in links
-            if notes[source].community == community_id and notes[dest].community == community_id
+            if notes[source].community == community_id
+            and notes[dest].community == community_id
         )
         community_payload.append(
             {
                 "id": community_id,
-                "title": f"{dominant_group} · {hub.title}" if dominant_group != "misc" else hub.title,
+                "title": f"{dominant_group} · {hub.title}"
+                if dominant_group != "misc"
+                else hub.title,
                 "x": x,
                 "y": y,
                 "size": round(14.0 + math.sqrt(len(node_ids)) * 3.6, 2),
@@ -905,7 +1104,10 @@ def build_site(db_path: Path, src_dir: Path, site_dir: Path, out_dir: Path) -> N
             "target": target,
             "weight": weight,
         }
-        for (source, target), weight in sorted(community_edges.items(), key=lambda item: (-item[1], item[0][0], item[0][1]))
+        for (source, target), weight in sorted(
+            community_edges.items(),
+            key=lambda item: (-item[1], item[0][0], item[0][1]),
+        )
     ]
 
     meta_payload = {
@@ -947,7 +1149,9 @@ def build_site(db_path: Path, src_dir: Path, site_dir: Path, out_dir: Path) -> N
     community_edge_fields = ["source", "target", "weight"]
     search_doc_fields = ["id", "snippet"]
     search_content_fields = ["id", "content"]
-    node_index_by_id = {node["id"]: index for index, node in enumerate(node_payload)}
+    node_index_by_id = {
+        node["id"]: index for index, node in enumerate(node_payload)
+    }
 
     write_json(
         out_dir / "data" / "graph.json",
@@ -957,11 +1161,18 @@ def build_site(db_path: Path, src_dir: Path, site_dir: Path, out_dir: Path) -> N
             "nodes": compact_rows(node_payload, node_fields),
             "edgeFields": ["source", "target"],
             "edgeNodeIndexes": True,
-            "edges": [[node_index_by_id[source], node_index_by_id[dest]] for source, dest in links],
+            "edges": [
+                [node_index_by_id[source], node_index_by_id[dest]]
+                for source, dest in links
+            ],
             "communityNodeFields": community_node_fields,
-            "communityNodes": compact_rows(community_payload, community_node_fields),
+            "communityNodes": compact_rows(
+                community_payload, community_node_fields
+            ),
             "communityEdgeFields": community_edge_fields,
-            "communityEdges": compact_rows(community_edge_payload, community_edge_fields),
+            "communityEdges": compact_rows(
+                community_edge_payload, community_edge_fields
+            ),
             "meta": meta_payload,
         },
     )
@@ -978,7 +1189,9 @@ def build_site(db_path: Path, src_dir: Path, site_dir: Path, out_dir: Path) -> N
         {
             "schema": "compact-search-content-docs-v1",
             "docFields": search_content_fields,
-            "docs": compact_rows(search_content_payload, search_content_fields),
+            "docs": compact_rows(
+                search_content_payload, search_content_fields
+            ),
         },
     )
     write_json(out_dir / "data" / "meta.json", meta_payload)
