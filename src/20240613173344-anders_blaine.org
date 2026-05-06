@@ -2,5 +2,10 @@
 :ID:       e9679720-e0c1-449e-86a6-a5b3de3613f5
 :END:
 #+title: Anders Blaine
-#+filetags: :Individual:
+#+filetags: :Individual:3283:3310:Empire:
 
+Senator of [[id:73e31493-0c88-4fd7-9f49-9f3f1c92db41][Facece]] and Chancellor of the Imperial Senate. Appointed by Emperor [[id:3cb0755e-4deb-442b-898b-3f0c6651636e][Hengist Duval]] in 3283.
+
+Led the investigation into Hengist's assassination and announced [[id:34f3cfdd-0536-40a9-8732-13bf3a5e4a70][Arissa Lavigny-Duval]]'s ascension. Survived scandal when Princess [[id:b402bbe3-5119-4d94-87ee-0ba279658383][Aisling Duval]] linked his advisors to Emperor's Dawn — denied knowledge.
+
+Represented the Empire at the Galactic Summit. Considering retirement as of 3310, with [[id:d8e3667c-3ba1-43aa-bc90-dac719c6d5e7][Zemina Torval]] speculated as successor.
