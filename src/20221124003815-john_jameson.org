@@ -2,7 +2,7 @@
 :ID:       0be96028-d995-4b52-8bb0-34f21e080bce
 :END:
 #+title: John Jameson
-#+filetags: :Thargoid:
+#+filetags: :Individual:Thargoid:
 * Family
   - [[id:cc697ecd-bd30-4319-b7f0-5e659a6e5b44][Jameson]]
   - [[id:1950129f-ad8e-453a-94ac-8bb0813e2e28][Lori Jameson]]

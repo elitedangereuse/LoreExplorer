@@ -1557,6 +1557,31 @@ function applyGraphTagFilters(visibleIds) {
   return filteredIds;
 }
 
+function includeConnectedCustomNodes(visibleIds) {
+  if (!visibleIds || !state.detectiveMode) {
+    return visibleIds;
+  }
+  const nextVisibleIds = new Set(visibleIds);
+  for (const edge of state.edges) {
+    if (!edge?.layerId || !isRuntimeEdgeVisible(edge)) {
+      continue;
+    }
+    const sourceVisible = nextVisibleIds.has(edge.source);
+    const targetVisible = nextVisibleIds.has(edge.target);
+    if (sourceVisible === targetVisible) {
+      continue;
+    }
+    const sourceNode = state.nodeById.get(edge.source);
+    const targetNode = state.nodeById.get(edge.target);
+    if (sourceVisible && targetNode?.isCustom) {
+      nextVisibleIds.add(targetNode.id);
+    } else if (targetVisible && sourceNode?.isCustom) {
+      nextVisibleIds.add(sourceNode.id);
+    }
+  }
+  return nextVisibleIds;
+}
+
 function getBaseVisibleNodeIds() {
   if (!state.canonLayerVisible && state.detectiveMode) {
     const overlayData = getLayerOverlayData();
@@ -1621,13 +1646,7 @@ function getBaseVisibleNodeIds() {
       }
     }
   }
-
-  const visibleCustomIds = state.nodes
-    .filter((node) => node.isCustom && isRuntimeNodeVisible(node))
-    .map((node) => node.id);
-  if (visibleIds && visibleCustomIds.length) {
-    visibleCustomIds.forEach((nodeId) => visibleIds.add(nodeId));
-  }
+  visibleIds = includeConnectedCustomNodes(visibleIds);
 
   if (visibleIds) {
     for (const nodeId of [...visibleIds]) {
