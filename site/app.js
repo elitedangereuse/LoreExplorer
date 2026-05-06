@@ -21,6 +21,7 @@ const toolbarOptionsButton = document.getElementById("toolbar-options-button");
 const toolbarOptionsPanel = document.getElementById("toolbar-options-panel");
 const colorModeSelect = document.getElementById("color-mode");
 const shapeModeSelect = document.getElementById("shape-mode");
+const highlightModeSelect = document.getElementById("highlight-mode");
 const dynamicGraphThresholdInput = document.getElementById("dynamic-graph-threshold");
 const graphFilterToolbar = document.getElementById("graph-filter-toolbar");
 const graphStatsBadge = document.getElementById("graph-stats-badge");
@@ -67,6 +68,7 @@ const state = {
   searchMode: "title",
   colorMode: "backlinks",
   shapeMode: "semantic",
+  highlightMode: "none",
   dynamicGraphThreshold: 100,
   camera: { x: 0, y: 0, zoom: 1 },
   bounds: { minX: 0, maxX: 1, minY: 0, maxY: 1 },
@@ -94,6 +96,7 @@ const state = {
   tagDisplayByKey: new Map(),
   primaryTagById: new Map(),
   metricExtents: new Map(),
+  structuralMetricsById: new Map(),
   activeTagFilter: null,
   graphTagFilters: {
     requireAll: [],
@@ -161,6 +164,7 @@ const INVESTIGATION_EXPORT_TYPE = "org-roam-investigation-layer";
 const INVESTIGATION_SCHEMA_VERSION = 1;
 const COLOR_MODES = new Set(["group", "links", "backlinks", "primary-tag"]);
 const SHAPE_MODES = new Set(["none", "semantic"]);
+const HIGHLIGHT_MODES = new Set(["none", "bridges", "outliers", "all"]);
 const INVESTIGATION_LINK_RE = /\[\[((?:node|id):([^[\]]+))(?:\]\[([^\]]+))?\]\]/g;
 const CUSTOM_NODE_STATE_META = {
   evidence: { label: "Evidence", color: "#7ce38b" },
@@ -168,10 +172,20 @@ const CUSTOM_NODE_STATE_META = {
   question: { label: "Question", color: "#ffd46b" },
   contradiction: { label: "Contradiction", color: "#ff8c6b" },
 };
+const STRUCTURAL_HIGHLIGHT_META = {
+  bridge: { label: "Bridge", color: "#63d8ea" },
+  outlier: { label: "Outlier", color: "#ff8c6b" },
+};
 const PATH_MODE_META = {
   shortest: { label: "Shortest" },
   interesting: { label: "Interesting" },
   chronological: { label: "Chronological" },
+};
+const HIGHLIGHT_MODE_META = {
+  none: { label: "None" },
+  bridges: { label: "Bridges" },
+  outliers: { label: "Outliers" },
+  all: { label: "Bridges + Outliers" },
 };
 const LAYER_COLOR_PALETTE = [
   "#ffd46b",
@@ -592,6 +606,17 @@ function normalizePathMode(value) {
 
 function getPathModeMeta(pathMode) {
   return PATH_MODE_META[normalizePathMode(pathMode)];
+}
+
+function normalizeHighlightMode(value) {
+  if (typeof value !== "string") {
+    return "none";
+  }
+  return HIGHLIGHT_MODES.has(value) ? value : "none";
+}
+
+function getHighlightModeMeta(highlightMode) {
+  return HIGHLIGHT_MODE_META[normalizeHighlightMode(highlightMode)];
 }
 
 function buildEmptyLayer(name = `Investigation ${state.investigationLayers.length + 1}`) {
@@ -1168,6 +1193,27 @@ function loadInvestigationState() {
   }
 }
 
+function getMedian(values) {
+  if (!values.length) {
+    return 0;
+  }
+  const sorted = [...values].sort((left, right) => left - right);
+  const middle = Math.floor(sorted.length / 2);
+  if (sorted.length % 2 === 1) {
+    return sorted[middle];
+  }
+  return (sorted[middle - 1] + sorted[middle]) / 2;
+}
+
+function getPercentile(values, percentile) {
+  if (!values.length) {
+    return 0;
+  }
+  const sorted = [...values].sort((left, right) => left - right);
+  const index = clamp(Math.floor((sorted.length - 1) * percentile), 0, sorted.length - 1);
+  return sorted[index];
+}
+
 function normalizeDynamicGraphThreshold(value) {
   const numeric = Number(value);
   if (!Number.isFinite(numeric)) {
@@ -1186,6 +1232,7 @@ function saveDisplaySettings() {
     JSON.stringify({
       colorMode: state.colorMode,
       shapeMode: state.shapeMode,
+      highlightMode: state.highlightMode,
       dynamicGraphThreshold: state.dynamicGraphThreshold,
     }),
   );
@@ -1208,6 +1255,7 @@ function loadDisplaySettings() {
     if (SHAPE_MODES.has(parsed.shapeMode)) {
       state.shapeMode = parsed.shapeMode;
     }
+    state.highlightMode = normalizeHighlightMode(parsed.highlightMode);
     state.dynamicGraphThreshold = normalizeDynamicGraphThreshold(parsed.dynamicGraphThreshold);
   } catch {
     storage.removeItem(DISPLAY_SETTINGS_STORAGE_KEY);
@@ -1551,6 +1599,119 @@ function buildAppearanceData() {
       }];
     }),
   );
+
+  const nodesByPrimaryTag = new Map();
+  for (const node of state.nodes) {
+    const primaryTag = primaryTags.get(node.id) || node.group || "misc";
+    if (!nodesByPrimaryTag.has(primaryTag)) {
+      nodesByPrimaryTag.set(primaryTag, []);
+    }
+    nodesByPrimaryTag.get(primaryTag).push(node);
+  }
+
+  const globalDegreeMedian = getMedian(state.nodes.map((node) => node.degree || 0));
+  const globalBacklinkMedian = getMedian(state.nodes.map((node) => node.inbound || 0));
+  const peerStatsByTag = new Map(
+    [...nodesByPrimaryTag.entries()].map(([primaryTag, nodes]) => [primaryTag, {
+      size: nodes.length,
+      degreeMedian: getMedian(nodes.map((node) => node.degree || 0)),
+      backlinkMedian: getMedian(nodes.map((node) => node.inbound || 0)),
+    }]),
+  );
+
+  const structuralMetricsById = new Map();
+  const bridgeScores = [];
+  const outlierScores = [];
+
+  for (const node of state.nodes) {
+    const primaryTag = primaryTags.get(node.id) || node.group || "misc";
+    const peerStats = peerStatsByTag.get(primaryTag) || {
+      size: state.nodes.length,
+      degreeMedian: globalDegreeMedian,
+      backlinkMedian: globalBacklinkMedian,
+    };
+    const peerDegreeMedian = peerStats.size >= 5 ? peerStats.degreeMedian : globalDegreeMedian;
+    const peerBacklinkMedian = peerStats.size >= 5 ? peerStats.backlinkMedian : globalBacklinkMedian;
+    const degreeRatio = (node.degree + 1.5) / Math.max(2.5, peerDegreeMedian + 1.5);
+    const backlinkRatio = (node.inbound + 1.5) / Math.max(2.5, peerBacklinkMedian + 1.5);
+    const outlierScore = Math.max(degreeRatio, backlinkRatio);
+
+    const neighbors = [...(state.adjacency.get(node.id) || new Set())];
+    const neighborPrimaryTags = new Set();
+    const neighborGroups = new Set();
+    for (const neighborId of neighbors) {
+      const neighborNode = state.nodeById.get(neighborId);
+      if (!neighborNode) {
+        continue;
+      }
+      const neighborPrimaryTag = primaryTags.get(neighborId) || neighborNode.group || "misc";
+      if (neighborPrimaryTag !== primaryTag) {
+        neighborPrimaryTags.add(neighborPrimaryTag);
+      }
+      if (neighborNode.group && neighborNode.group !== node.group) {
+        neighborGroups.add(neighborNode.group);
+      }
+    }
+
+    let linkedNeighborPairs = 0;
+    const possibleNeighborPairs = neighbors.length > 1 ? (neighbors.length * (neighbors.length - 1)) / 2 : 0;
+    if (possibleNeighborPairs) {
+      for (let leftIndex = 0; leftIndex < neighbors.length; leftIndex += 1) {
+        const leftNeighbors = state.adjacency.get(neighbors[leftIndex]) || new Set();
+        for (let rightIndex = leftIndex + 1; rightIndex < neighbors.length; rightIndex += 1) {
+          if (leftNeighbors.has(neighbors[rightIndex])) {
+            linkedNeighborPairs += 1;
+          }
+        }
+      }
+    }
+    const clustering = possibleNeighborPairs ? (linkedNeighborPairs / possibleNeighborPairs) : 1;
+    const bridgeDiversity = neighborPrimaryTags.size + (neighborGroups.size * 0.45);
+    const bridgeScore = neighbors.length >= 3
+      ? Math.log1p(neighbors.length) * bridgeDiversity * (1.18 - clustering)
+      : 0;
+
+    if (neighbors.length >= 4 && neighborPrimaryTags.size >= 2 && bridgeScore > 0) {
+      bridgeScores.push(bridgeScore);
+    }
+    if (Math.max(node.degree || 0, node.inbound || 0) >= 5) {
+      outlierScores.push(outlierScore);
+    }
+
+    structuralMetricsById.set(node.id, {
+      primaryTag,
+      peerDegreeMedian,
+      peerBacklinkMedian,
+      peerSize: peerStats.size,
+      degreeRatio,
+      backlinkRatio,
+      outlierScore,
+      neighborCount: neighbors.length,
+      bridgeTagDiversity: neighborPrimaryTags.size,
+      bridgeGroupDiversity: neighborGroups.size,
+      bridgeClustering: clustering,
+      bridgeScore,
+      isBridge: false,
+      isOutlier: false,
+    });
+  }
+
+  const bridgeThreshold = Math.max(3.2, getPercentile(bridgeScores, 0.9));
+  const outlierThreshold = Math.max(2.1, getPercentile(outlierScores, 0.9));
+
+  for (const [nodeId, metricsForNode] of structuralMetricsById.entries()) {
+    metricsForNode.isBridge = (
+      metricsForNode.neighborCount >= 4
+      && metricsForNode.bridgeTagDiversity >= 2
+      && metricsForNode.bridgeScore >= bridgeThreshold
+    );
+    metricsForNode.isOutlier = (
+      Math.max(state.nodeById.get(nodeId)?.degree || 0, state.nodeById.get(nodeId)?.inbound || 0) >= 5
+      && metricsForNode.outlierScore >= outlierThreshold
+    );
+  }
+
+  state.structuralMetricsById = structuralMetricsById;
 }
 
 function logNormalize(value, min, max) {
@@ -1597,6 +1758,53 @@ function getNodeMetricValue(node, mode) {
     return node.inbound || 0;
   }
   return 0;
+}
+
+function getStructuralMetrics(nodeId) {
+  return state.structuralMetricsById.get(nodeId) || null;
+}
+
+function getNodeStructuralHighlights(node, highlightMode = state.highlightMode) {
+  if (!node) {
+    return [];
+  }
+  const metricsForNode = getStructuralMetrics(node.id);
+  if (!metricsForNode) {
+    return [];
+  }
+  const normalizedMode = normalizeHighlightMode(highlightMode);
+  const highlights = [];
+  if ((normalizedMode === "bridges" || normalizedMode === "all") && metricsForNode.isBridge) {
+    highlights.push(STRUCTURAL_HIGHLIGHT_META.bridge);
+  }
+  if ((normalizedMode === "outliers" || normalizedMode === "all") && metricsForNode.isOutlier) {
+    highlights.push(STRUCTURAL_HIGHLIGHT_META.outlier);
+  }
+  return highlights;
+}
+
+function getNodeStructuralFacts(node) {
+  const metricsForNode = getStructuralMetrics(node?.id);
+  if (!node || !metricsForNode) {
+    return [];
+  }
+  const facts = [];
+  if (metricsForNode.isBridge) {
+    facts.push({
+      kind: "bridge",
+      label: "Bridge",
+      detail: `Links ${metricsForNode.bridgeTagDiversity} tag families with ${Math.round(metricsForNode.bridgeClustering * 100)}% local overlap`,
+    });
+  }
+  if (metricsForNode.isOutlier) {
+    const peerLabel = state.tagDisplayByKey.get(canonicalizeTag(metricsForNode.primaryTag)) || metricsForNode.primaryTag;
+    facts.push({
+      kind: "outlier",
+      label: "Outlier",
+      detail: `${node.inbound || 0} backlinks and ${node.degree || 0} links vs ${Math.round(metricsForNode.peerBacklinkMedian)} / ${Math.round(metricsForNode.peerDegreeMedian)} median for ${peerLabel}`,
+    });
+  }
+  return facts;
 }
 
 function hasActiveGraphTagFilters() {
@@ -2638,6 +2846,7 @@ function render() {
     const radius = Math.max(1.6, node.size * state.camera.zoom * 0.42);
     const shape = getNodeShape(node);
     const fillColor = getNodeColor(node);
+    const structuralHighlights = getNodeStructuralHighlights(node);
     const isHoveredNode = node.id === hoveredNodeId;
     const isHoveredNeighbor = Boolean(hoveredNeighborIds?.has(node.id));
     const isActivePathNode = hasPath && isPathNode(node.id);
@@ -2661,6 +2870,17 @@ function render() {
         nodeAlpha *= 0.26;
       }
     }
+    if (
+      state.highlightMode !== "none"
+      && !structuralHighlights.length
+      && !isHoveredNode
+      && !isHoveredNeighbor
+      && !isActivePathNode
+      && node.id !== state.graphRootNodeId
+      && node.id !== state.inspectNodeId
+    ) {
+      nodeAlpha *= 0.44;
+    }
     traceNodeShape(context, shape, point.x, point.y, radius);
     context.fillStyle = fillColor;
     context.globalAlpha = nodeAlpha;
@@ -2679,6 +2899,9 @@ function render() {
       const stateMeta = getCustomNodeStateMeta(node.customState);
       strokeNodeHalo(shape, point.x, point.y, radius, 2, stateMeta.color, 1.8, 0.9);
     }
+    structuralHighlights.forEach((highlight, index) => {
+      strokeNodeHalo(shape, point.x, point.y, radius, 4 + (index * 2.8), highlight.color, 1.8, 0.96);
+    });
     if (isBookmarked(node.id)) {
       strokeNodeHalo(shape, point.x, point.y, radius, 4.5, "rgba(255, 212, 107, 0.92)", 1.8, 0.92);
     }
@@ -2911,6 +3134,7 @@ function buildNodeTooltipMarkup(nodeId) {
   }
   const tags = (node.tags || []).slice(0, 3).join(", ");
   const layerDetails = getNodeLayerDetails(nodeId);
+  const structuralFacts = getNodeStructuralFacts(node);
   return `
     <div class="app-tooltip-card">
       <div class="app-tooltip-title">${escapeHtml(node.title)}</div>
@@ -2918,6 +3142,23 @@ function buildNodeTooltipMarkup(nodeId) {
         ${escapeHtml(node.group || "node")}
         ${tags ? `<span> · ${escapeHtml(tags)}</span>` : ""}
       </div>
+      ${structuralFacts.length ? `
+        <div class="app-tooltip-section-title">Structure</div>
+        <div class="app-tooltip-layer-list">
+          ${structuralFacts.map((fact) => `
+            <div class="app-tooltip-layer-row">
+              <span
+                class="app-tooltip-layer-swatch"
+                style="--tooltip-layer-color: ${escapeHtml(STRUCTURAL_HIGHLIGHT_META[fact.kind].color)};"
+              ></span>
+              <span class="app-tooltip-layer-copy">
+                <strong>${escapeHtml(fact.label)}</strong>
+                <small>${escapeHtml(fact.detail)}</small>
+              </span>
+            </div>
+          `).join("")}
+        </div>
+      ` : ""}
       <div class="app-tooltip-section-title">Layers</div>
       <div class="app-tooltip-layer-list">
         ${layerDetails.map((layer) => `
@@ -6360,6 +6601,11 @@ function bindEvents() {
     saveDisplaySettings();
     render();
   });
+  highlightModeSelect?.addEventListener("change", (event) => {
+    state.highlightMode = normalizeHighlightMode(event.target.value);
+    saveDisplaySettings();
+    render();
+  });
   dynamicGraphThresholdInput?.addEventListener("change", (event) => {
     state.dynamicGraphThreshold = normalizeDynamicGraphThreshold(event.target.value);
     dynamicGraphThresholdInput.value = String(state.dynamicGraphThreshold);
@@ -7476,6 +7722,9 @@ async function bootstrap() {
   applyPanelWidths(state.panelWidth, state.detectivePanelWidth, "detective");
   colorModeSelect.value = state.colorMode;
   shapeModeSelect.value = state.shapeMode;
+  if (highlightModeSelect) {
+    highlightModeSelect.value = state.highlightMode;
+  }
   if (dynamicGraphThresholdInput) {
     dynamicGraphThresholdInput.value = String(state.dynamicGraphThreshold);
   }
