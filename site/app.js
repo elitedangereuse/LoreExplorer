@@ -2722,6 +2722,17 @@ function colorForLayer(index) {
   return LAYER_COLOR_PALETTE[index % LAYER_COLOR_PALETTE.length];
 }
 
+function normalizeLayerColorHex(value, fallback = "#63d8ea") {
+  const normalized = typeof value === "string" ? value.trim().replace(/^#/, "") : "";
+  const expanded = normalized.length === 3
+    ? normalized.split("").map((part) => `${part}${part}`).join("")
+    : normalized;
+  if (!/^[0-9a-f]{6}$/i.test(expanded)) {
+    return fallback;
+  }
+  return `#${expanded.toLowerCase()}`;
+}
+
 function rgbaFromHex(hex, alpha = 1) {
   const normalized = typeof hex === "string" ? hex.trim().replace(/^#/, "") : "";
   const expanded = normalized.length === 3
@@ -3413,6 +3424,38 @@ function renameLayer(layerId, name) {
   renderInvestigatorTools();
 }
 
+function setLayerColor(layerId, color) {
+  if (!layerId) {
+    return;
+  }
+  const targetLayer = state.investigationLayers.find((layer) => layer.id === layerId);
+  if (!targetLayer) {
+    return;
+  }
+  const nextColor = normalizeLayerColorHex(color, targetLayer.color || colorForLayer(0));
+  if (nextColor === targetLayer.color) {
+    return;
+  }
+  state.investigationLayers = state.investigationLayers.map((layer) => (
+    layer.id === layerId
+      ? { ...layer, color: nextColor, updatedAt: timestamp() }
+      : layer
+  ));
+  saveInvestigationState({ syncLayer: false });
+  rebuildRuntimeGraphData();
+  const focusNodeId = currentNodeId();
+  if (focusNodeId && state.nodeById.has(focusNodeId)) {
+    loadNote(focusNodeId);
+  }
+  renderInvestigatorTools();
+  if (state.view === "explorer") {
+    syncLayout(true);
+    fitGraph();
+    return;
+  }
+  render();
+}
+
 function promptRenameLayer(layerId) {
   const targetLayer = state.investigationLayers.find((layer) => layer.id === layerId);
   if (!targetLayer) {
@@ -3603,6 +3646,19 @@ function renderInvestigatorTools() {
               >
                 <span class="layer-name">${escapeHtml(layer.name)}</span>
               </button>
+              <label
+                class="layer-color-picker"
+                aria-label="Choose color for ${escapeHtml(layer.name)}"
+                data-tooltip="Choose color for ${escapeHtml(layer.name)}"
+              >
+                <input
+                  type="color"
+                  class="layer-color-picker-input"
+                  value="${escapeHtml(normalizeLayerColorHex(layer.color, colorForLayer(0)))}"
+                  data-layer-color="${layer.id}"
+                  aria-label="Choose color for ${escapeHtml(layer.name)}"
+                />
+              </label>
               <button
                 type="button"
                 class="layer-action-button"
@@ -6778,6 +6834,14 @@ function bindEvents() {
       confirmDeleteCustomNode(deleteCustomNodeButton.dataset.deleteCustomNode);
       return;
     }
+  });
+
+  investigatorTools.addEventListener("input", (event) => {
+    const layerColorInput = event.target.closest("[data-layer-color]");
+    if (!layerColorInput) {
+      return;
+    }
+    setLayerColor(layerColorInput.dataset.layerColor, layerColorInput.value);
   });
 
   investigatorTools.addEventListener("contextmenu", (event) => {
