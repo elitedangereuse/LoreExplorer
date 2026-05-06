@@ -22,6 +22,7 @@ const toolbarOptionsPanel = document.getElementById("toolbar-options-panel");
 const colorModeSelect = document.getElementById("color-mode");
 const shapeModeSelect = document.getElementById("shape-mode");
 const highlightModeSelect = document.getElementById("highlight-mode");
+const hoverLabelRadiusInput = document.getElementById("hover-label-radius");
 const dynamicGraphThresholdInput = document.getElementById("dynamic-graph-threshold");
 const graphFilterToolbar = document.getElementById("graph-filter-toolbar");
 const graphStatsBadge = document.getElementById("graph-stats-badge");
@@ -69,6 +70,7 @@ const state = {
   colorMode: "backlinks",
   shapeMode: "semantic",
   highlightMode: "none",
+  hoverLabelRadius: 160,
   dynamicGraphThreshold: 100,
   camera: { x: 0, y: 0, zoom: 1 },
   bounds: { minX: 0, maxX: 1, minY: 0, maxY: 1 },
@@ -160,6 +162,7 @@ const state = {
 const INVESTIGATION_STORAGE_KEY = "org-roam-investigator-v1";
 const DISPLAY_SETTINGS_STORAGE_KEY = "org-roam-display-settings-v1";
 const DEFAULT_DYNAMIC_GRAPH_THRESHOLD = 100;
+const DEFAULT_HOVER_LABEL_RADIUS = 160;
 const INVESTIGATION_EXPORT_TYPE = "org-roam-investigation-layer";
 const INVESTIGATION_SCHEMA_VERSION = 1;
 const COLOR_MODES = new Set(["group", "links", "backlinks", "primary-tag"]);
@@ -1222,6 +1225,14 @@ function normalizeDynamicGraphThreshold(value) {
   return Math.max(0, Math.min(500, Math.round(numeric)));
 }
 
+function normalizeHoverLabelRadius(value) {
+  const numeric = Number(value);
+  if (!Number.isFinite(numeric)) {
+    return DEFAULT_HOVER_LABEL_RADIUS;
+  }
+  return Math.max(40, Math.min(420, Math.round(numeric)));
+}
+
 function saveDisplaySettings() {
   const storage = getStorage();
   if (!storage) {
@@ -1233,6 +1244,7 @@ function saveDisplaySettings() {
       colorMode: state.colorMode,
       shapeMode: state.shapeMode,
       highlightMode: state.highlightMode,
+      hoverLabelRadius: state.hoverLabelRadius,
       dynamicGraphThreshold: state.dynamicGraphThreshold,
     }),
   );
@@ -1256,6 +1268,7 @@ function loadDisplaySettings() {
       state.shapeMode = parsed.shapeMode;
     }
     state.highlightMode = normalizeHighlightMode(parsed.highlightMode);
+    state.hoverLabelRadius = normalizeHoverLabelRadius(parsed.hoverLabelRadius);
     state.dynamicGraphThreshold = normalizeDynamicGraphThreshold(parsed.dynamicGraphThreshold);
   } catch {
     storage.removeItem(DISPLAY_SETTINGS_STORAGE_KEY);
@@ -2414,7 +2427,9 @@ function getLabelNodes(nodes) {
     return labelNodes;
   }
 
-  const radius = state.neighborMode && rootId ? 220 : 160;
+  const radius = state.neighborMode && rootId
+    ? Math.round(state.hoverLabelRadius * 1.375)
+    : state.hoverLabelRadius;
   const radiusSq = radius * radius;
   const nearbyNodes = [];
 
@@ -3298,19 +3313,132 @@ function reconstructPathFromParents(parentById, endId) {
   return pathNodeIds;
 }
 
-function getInterestingTransitionWeight(currentNode, neighborNode) {
-  if (!neighborNode) {
-    return 1.3;
+function buildDistanceMapFromTarget(targetId) {
+  const distanceById = new Map();
+  if (!targetId || !state.nodeById.has(targetId)) {
+    return distanceById;
   }
-  const structuralScore = (
-    (neighborNode.degree || 0) * 0.72
-    + (neighborNode.inbound || 0) * 0.95
-    + (neighborNode.outbound || 0) * 0.48
-  );
-  const normalizedStructure = clamp(structuralScore / 26, 0, 1);
-  const bridgeBonus = neighborNode.group !== currentNode?.group ? 0.08 : 0;
-  const customPenalty = neighborNode.isCustom ? 0.1 : 0;
-  return clamp(1.24 - (normalizedStructure * 0.28) - bridgeBonus + customPenalty, 0.84, 1.26);
+  const queue = [targetId];
+  distanceById.set(targetId, 0);
+
+  while (queue.length) {
+    const currentId = queue.shift();
+    const currentDistance = distanceById.get(currentId) || 0;
+    const neighbors = state.adjacency.get(currentId) || new Set();
+    for (const neighborId of neighbors) {
+      if (distanceById.has(neighborId)) {
+        continue;
+      }
+      distanceById.set(neighborId, currentDistance + 1);
+      queue.push(neighborId);
+    }
+  }
+
+  return distanceById;
+}
+
+function isBroadIndexNode(node) {
+  const title = normalize(node?.title || "");
+  return [
+    "individuals",
+    "corporations",
+    "commodities",
+    "rare commodities",
+    "goods",
+    "components",
+    "materials",
+    "data",
+    "species",
+    "star systems with in game descriptions",
+  ].includes(title);
+}
+
+function collectPathCandidates(startId, endId, shortestPathNodeIds, {
+  maxExtraEdges = 2,
+  maxCandidates = 120,
+} = {}) {
+  if (!shortestPathNodeIds.length) {
+    return [];
+  }
+  if (shortestPathNodeIds.length <= 2) {
+    return [shortestPathNodeIds.slice()];
+  }
+
+  const shortestEdgeCount = Math.max(0, shortestPathNodeIds.length - 1);
+  const maxEdgeCount = shortestEdgeCount + maxExtraEdges;
+  const distanceToTarget = buildDistanceMapFromTarget(endId);
+  const candidates = [];
+  const signatures = new Set();
+
+  const visit = (currentId, pathNodeIds, visitedNodeIds) => {
+    if (candidates.length >= maxCandidates) {
+      return;
+    }
+    const usedEdgeCount = pathNodeIds.length - 1;
+    const remainingEdgeCount = distanceToTarget.get(currentId);
+    if (remainingEdgeCount === undefined || (usedEdgeCount + remainingEdgeCount) > maxEdgeCount) {
+      return;
+    }
+    if (currentId === endId) {
+      const signature = pathNodeIds.join("|");
+      if (!signatures.has(signature)) {
+        signatures.add(signature);
+        candidates.push(pathNodeIds.slice());
+      }
+      return;
+    }
+
+    const neighborIds = [...(state.adjacency.get(currentId) || new Set())]
+      .filter((neighborId) => !visitedNodeIds.has(neighborId) && distanceToTarget.has(neighborId))
+      .sort((leftId, rightId) => (
+        (distanceToTarget.get(leftId) - distanceToTarget.get(rightId))
+        || ((state.nodeById.get(rightId)?.degree || 0) - (state.nodeById.get(leftId)?.degree || 0))
+        || ((state.nodeById.get(leftId)?.title || "").localeCompare(state.nodeById.get(rightId)?.title || ""))
+      ));
+
+    for (const neighborId of neighborIds) {
+      if (candidates.length >= maxCandidates) {
+        break;
+      }
+      visitedNodeIds.add(neighborId);
+      pathNodeIds.push(neighborId);
+      visit(neighborId, pathNodeIds, visitedNodeIds);
+      pathNodeIds.pop();
+      visitedNodeIds.delete(neighborId);
+    }
+  };
+
+  visit(startId, [startId], new Set([startId]));
+  if (!candidates.length) {
+    return [shortestPathNodeIds.slice()];
+  }
+  return candidates;
+}
+
+function scoreInterestingPath(pathNodeIds, shortestEdgeCount) {
+  let score = (pathNodeIds.length - 1 - shortestEdgeCount) * 0.9;
+  for (let index = 1; index < pathNodeIds.length - 1; index += 1) {
+    const node = state.nodeById.get(pathNodeIds[index]);
+    const metrics = getStructuralMetrics(pathNodeIds[index]);
+    if (!node || !metrics) {
+      score += 0.45;
+      continue;
+    }
+    if (isBroadIndexNode(node)) {
+      score += 1.45;
+    }
+    if (metrics.isBridge) {
+      score -= 1.15;
+    }
+    if (metrics.isOutlier) {
+      score -= 0.55;
+    }
+    score -= Math.min(0.55, metrics.bridgeTagDiversity * 0.13);
+    if ((node.degree || 0) <= 1) {
+      score += 0.25;
+    }
+  }
+  return score;
 }
 
 function getYearRangeDistance(leftRange, rightRange) {
@@ -3326,82 +3454,75 @@ function getYearRangeDistance(leftRange, rightRange) {
   return 0;
 }
 
-function getChronologicalTransitionWeight(currentNode, neighborNode, targetNode, direction) {
-  const currentRange = getNodeYearRange(currentNode);
-  const neighborRange = getNodeYearRange(neighborNode);
-  const targetRange = getNodeYearRange(targetNode);
-  let penalty = 0;
+function scoreChronologicalPath(pathNodeIds, shortestEdgeCount, direction) {
+  let score = (pathNodeIds.length - 1 - shortestEdgeCount) * 0.72;
+  let datedNodeCount = 0;
 
-  if (!neighborRange) {
-    penalty += 0.24;
-  }
-  if (currentRange && neighborRange) {
-    const gap = getYearRangeDistance(currentRange, neighborRange) || 0;
-    penalty += Math.min(0.72, gap / 22);
-
-    if (direction > 0 && neighborRange.center < currentRange.center - 2) {
-      penalty += 0.92;
-    } else if (direction < 0 && neighborRange.center > currentRange.center + 2) {
-      penalty += 0.92;
+  for (let index = 0; index < pathNodeIds.length; index += 1) {
+    const node = state.nodeById.get(pathNodeIds[index]);
+    const range = getNodeYearRange(node);
+    if (range) {
+      datedNodeCount += 1;
+      if (index > 0 && index < pathNodeIds.length - 1) {
+        score -= 0.18;
+      }
     }
-  } else if (!currentRange || !neighborRange) {
-    penalty += 0.16;
-  }
-
-  if (targetRange && neighborRange) {
-    const targetGap = getYearRangeDistance(neighborRange, targetRange) || 0;
-    const currentGap = currentRange ? (getYearRangeDistance(currentRange, targetRange) || 0) : null;
-    if (currentGap !== null && targetGap > currentGap + 6) {
-      penalty += 0.58;
-    } else {
-      penalty += Math.min(0.36, targetGap / 52);
+    if (node && isBroadIndexNode(node)) {
+      score += 0.4;
     }
   }
 
-  return 1 + penalty;
-}
-
-function findWeightedPath(startId, endId, weightForStep) {
-  if (!startId || !endId || startId === endId) {
-    return startId && endId ? [startId] : [];
-  }
-
-  const frontier = [{ nodeId: startId, score: 0 }];
-  const scoreById = new Map([[startId, 0]]);
-  const parentById = new Map([[startId, null]]);
-
-  while (frontier.length) {
-    frontier.sort((left, right) => left.score - right.score);
-    const current = frontier.shift();
-    if (!current) {
-      break;
-    }
-    if (current.score > (scoreById.get(current.nodeId) ?? Infinity)) {
+  for (let index = 1; index < pathNodeIds.length; index += 1) {
+    const previousNode = state.nodeById.get(pathNodeIds[index - 1]);
+    const currentNode = state.nodeById.get(pathNodeIds[index]);
+    const previousRange = getNodeYearRange(previousNode);
+    const currentRange = getNodeYearRange(currentNode);
+    if (!previousRange && !currentRange) {
+      score += 0.6;
       continue;
     }
-    if (current.nodeId === endId) {
-      return reconstructPathFromParents(parentById, endId);
+    if (!previousRange || !currentRange) {
+      score += 0.34;
+      continue;
     }
-    const currentNode = state.nodeById.get(current.nodeId);
-    const neighbors = state.adjacency.get(current.nodeId) || new Set();
-    for (const neighborId of neighbors) {
-      const neighborNode = state.nodeById.get(neighborId);
-      const nextScore = current.score + weightForStep(currentNode, neighborNode);
-      if (nextScore >= (scoreById.get(neighborId) ?? Infinity)) {
-        continue;
-      }
-      scoreById.set(neighborId, nextScore);
-      parentById.set(neighborId, current.nodeId);
-      frontier.push({ nodeId: neighborId, score: nextScore });
+    const gap = getYearRangeDistance(previousRange, currentRange) || 0;
+    score += Math.min(1.45, gap / 8);
+    if (direction > 0 && currentRange.center < previousRange.center - 2) {
+      score += 2.25;
+    } else if (direction < 0 && currentRange.center > previousRange.center + 2) {
+      score += 2.25;
     }
   }
 
-  return [];
+  if (datedNodeCount < 2) {
+    score += 1.4;
+  } else if (datedNodeCount >= 3) {
+    score -= 0.32;
+  }
+
+  return score;
+}
+
+function selectBestRankedPath(pathCandidates, scorePath) {
+  return [...pathCandidates].sort((leftPath, rightPath) => (
+    scorePath(leftPath) - scorePath(rightPath)
+    || leftPath.length - rightPath.length
+    || leftPath.join("|").localeCompare(rightPath.join("|"))
+  ))[0] || [];
 }
 
 function findInterestingPath(startId, endId) {
-  return findWeightedPath(startId, endId, (currentNode, neighborNode) => (
-    getInterestingTransitionWeight(currentNode, neighborNode)
+  const shortestPathNodeIds = findShortestPath(startId, endId);
+  if (!shortestPathNodeIds.length) {
+    return [];
+  }
+  const shortestEdgeCount = Math.max(0, shortestPathNodeIds.length - 1);
+  const pathCandidates = collectPathCandidates(startId, endId, shortestPathNodeIds, {
+    maxExtraEdges: shortestEdgeCount <= 3 ? 3 : 2,
+    maxCandidates: 160,
+  });
+  return selectBestRankedPath(pathCandidates, (pathNodeIds) => (
+    scoreInterestingPath(pathNodeIds, shortestEdgeCount)
   ));
 }
 
@@ -3410,11 +3531,20 @@ function findChronologicalPath(startId, endId) {
   const endNode = state.nodeById.get(endId);
   const startRange = getNodeYearRange(startNode);
   const endRange = getNodeYearRange(endNode);
+  const shortestPathNodeIds = findShortestPath(startId, endId);
+  if (!shortestPathNodeIds.length) {
+    return [];
+  }
   const direction = startRange && endRange && endRange.center !== startRange.center
     ? Math.sign(endRange.center - startRange.center)
     : 0;
-  return findWeightedPath(startId, endId, (currentNode, neighborNode) => (
-    getChronologicalTransitionWeight(currentNode, neighborNode, endNode, direction)
+  const shortestEdgeCount = Math.max(0, shortestPathNodeIds.length - 1);
+  const pathCandidates = collectPathCandidates(startId, endId, shortestPathNodeIds, {
+    maxExtraEdges: shortestEdgeCount <= 3 ? 3 : 2,
+    maxCandidates: 160,
+  });
+  return selectBestRankedPath(pathCandidates, (pathNodeIds) => (
+    scoreChronologicalPath(pathNodeIds, shortestEdgeCount, direction)
   ));
 }
 
@@ -6606,6 +6736,12 @@ function bindEvents() {
     saveDisplaySettings();
     render();
   });
+  hoverLabelRadiusInput?.addEventListener("change", (event) => {
+    state.hoverLabelRadius = normalizeHoverLabelRadius(event.target.value);
+    hoverLabelRadiusInput.value = String(state.hoverLabelRadius);
+    saveDisplaySettings();
+    render();
+  });
   dynamicGraphThresholdInput?.addEventListener("change", (event) => {
     state.dynamicGraphThreshold = normalizeDynamicGraphThreshold(event.target.value);
     dynamicGraphThresholdInput.value = String(state.dynamicGraphThreshold);
@@ -7724,6 +7860,9 @@ async function bootstrap() {
   shapeModeSelect.value = state.shapeMode;
   if (highlightModeSelect) {
     highlightModeSelect.value = state.highlightMode;
+  }
+  if (hoverLabelRadiusInput) {
+    hoverLabelRadiusInput.value = String(state.hoverLabelRadius);
   }
   if (dynamicGraphThresholdInput) {
     dynamicGraphThresholdInput.value = String(state.dynamicGraphThreshold);
