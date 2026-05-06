@@ -3338,13 +3338,26 @@ function confirmDeleteCustomNode(nodeId) {
   deleteCustomNode(nodeId);
 }
 
+function refreshCurrentGraphViewAfterVisibilityChange() {
+  const focusNodeId = currentNodeId();
+  if (focusNodeId && state.nodeById.has(focusNodeId)) {
+    loadNote(focusNodeId);
+  }
+  renderInvestigatorTools();
+  if (state.view === "explorer") {
+    syncLayout(true);
+    fitGraph();
+    return;
+  }
+  render();
+}
+
 function toggleCanonLayerVisibility() {
   state.canonLayerVisible = !state.canonLayerVisible;
   saveInvestigationState({ syncLayer: false });
   buildAdjacency();
   refreshSearchWorkerIndex();
-  renderInvestigatorTools();
-  render();
+  refreshCurrentGraphViewAfterVisibilityChange();
 }
 
 function toggleLayerVisibility(layerId) {
@@ -3356,8 +3369,7 @@ function toggleLayerVisibility(layerId) {
   saveInvestigationState({ syncLayer: false });
   buildAdjacency();
   refreshSearchWorkerIndex();
-  renderInvestigatorTools();
-  render();
+  refreshCurrentGraphViewAfterVisibilityChange();
 }
 
 function deleteLayer(layerId = state.activeLayerId) {
