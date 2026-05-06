@@ -149,6 +149,7 @@ const state = {
   sharedNeighborRightId: null,
   detectiveSearchQuery: "",
   detectiveSearchTarget: null, // 'pathFrom' | 'pathTo' | 'sharedLeft' | 'sharedRight'
+  pathMode: "shortest",
   investigationNoteView: "preview",
   noteEditorAutoFocus: false,
 };
@@ -166,6 +167,11 @@ const CUSTOM_NODE_STATE_META = {
   hypothesis: { label: "Hypothesis", color: "#63d8ea" },
   question: { label: "Question", color: "#ffd46b" },
   contradiction: { label: "Contradiction", color: "#ff8c6b" },
+};
+const PATH_MODE_META = {
+  shortest: { label: "Shortest" },
+  interesting: { label: "Interesting" },
+  chronological: { label: "Chronological" },
 };
 const LAYER_COLOR_PALETTE = [
   "#ffd46b",
@@ -577,6 +583,17 @@ function getBookmarkedNodes() {
     .filter(Boolean);
 }
 
+function normalizePathMode(value) {
+  if (typeof value !== "string") {
+    return "shortest";
+  }
+  return Object.hasOwn(PATH_MODE_META, value) ? value : "shortest";
+}
+
+function getPathModeMeta(pathMode) {
+  return PATH_MODE_META[normalizePathMode(pathMode)];
+}
+
 function buildEmptyLayer(name = `Investigation ${state.investigationLayers.length + 1}`) {
   return {
     id: generateId("layer"),
@@ -591,6 +608,7 @@ function buildEmptyLayer(name = `Investigation ${state.investigationLayers.lengt
     nodeNotes: {},
     customNodes: [],
     pathTargetNodeId: null,
+    pathMode: "shortest",
     activePathNodeIds: [],
     pathFocus: false,
     createdAt: timestamp(),
@@ -615,6 +633,7 @@ function sanitizeSavedPath(raw, index = 0) {
     name: typeof raw.name === "string" && raw.name.trim() ? raw.name.trim() : `Saved Path ${index + 1}`,
     fromId: typeof raw.fromId === "string" ? raw.fromId : (nodeIds[0] || null),
     toId: typeof raw.toId === "string" ? raw.toId : (nodeIds[nodeIds.length - 1] || null),
+    mode: normalizePathMode(raw.mode),
     nodeIds,
     createdAt: typeof raw.createdAt === "string" ? raw.createdAt : timestamp(),
   };
@@ -716,6 +735,7 @@ function sanitizeLayer(raw, index = 0) {
   layer.customNodes = (Array.isArray(raw.customNodes) ? raw.customNodes : [])
     .map((item, itemIndex) => sanitizeCustomNode(item, itemIndex));
   layer.pathTargetNodeId = typeof raw.pathTargetNodeId === "string" ? raw.pathTargetNodeId : null;
+  layer.pathMode = normalizePathMode(raw.pathMode);
   layer.activePathNodeIds = sanitizeStringList(raw.activePathNodeIds);
   layer.pathFocus = Boolean(raw.pathFocus);
   layer.createdAt = typeof raw.createdAt === "string" ? raw.createdAt : layer.createdAt;
@@ -731,6 +751,7 @@ function applyLayerToState(layer) {
     state.nodeNotes = {};
     state.customNodes = [];
     state.pathTargetNodeId = null;
+    state.pathMode = "shortest";
     state.activePathNodeIds = [];
     state.pathFocus = false;
     state.activePathEdgeKeys = new Set();
@@ -742,6 +763,7 @@ function applyLayerToState(layer) {
   state.nodeNotes = { ...(layer.nodeNotes || {}) };
   state.customNodes = Array.isArray(layer.customNodes) ? layer.customNodes.map((node) => ({ ...node, tags: node.tags.slice(), aliases: node.aliases.slice() })) : [];
   state.pathTargetNodeId = layer.pathTargetNodeId;
+  state.pathMode = normalizePathMode(layer.pathMode);
   state.activePathNodeIds = layer.activePathNodeIds.slice();
   state.pathFocus = Boolean(layer.pathFocus && layer.activePathNodeIds.length);
   state.activePathEdgeKeys = new Set();
@@ -763,6 +785,7 @@ function snapshotActiveLayer() {
     nodeNotes: { ...state.nodeNotes },
     customNodes: state.customNodes.map((node) => ({ ...node, tags: node.tags.slice(), aliases: node.aliases.slice() })),
     pathTargetNodeId: state.pathTargetNodeId,
+    pathMode: normalizePathMode(state.pathMode),
     activePathNodeIds: state.activePathNodeIds.slice(),
     pathFocus: state.pathFocus,
     updatedAt: timestamp(),
@@ -1258,6 +1281,30 @@ function validateInvestigationLayersAgainstGraph() {
 
 function isYearTag(tag) {
   return /^\d{4}$/.test(tag);
+}
+
+function extractNodeYears(node) {
+  if (!node?.tags?.length) {
+    return [];
+  }
+  return [...new Set(
+    node.tags
+      .filter((tag) => isYearTag(tag))
+      .map((tag) => Number.parseInt(tag, 10))
+      .filter(Number.isFinite),
+  )].sort((left, right) => left - right);
+}
+
+function getNodeYearRange(node) {
+  const years = extractNodeYears(node);
+  if (!years.length) {
+    return null;
+  }
+  return {
+    min: years[0],
+    max: years[years.length - 1],
+    center: (years[0] + years[years.length - 1]) / 2,
+  };
 }
 
 function pickPrimaryTag(node) {
@@ -2996,6 +3043,151 @@ function findShortestPath(startId, endId) {
   return pathNodeIds;
 }
 
+function reconstructPathFromParents(parentById, endId) {
+  if (!parentById.has(endId)) {
+    return [];
+  }
+  const pathNodeIds = [];
+  let currentId = endId;
+  while (currentId) {
+    pathNodeIds.push(currentId);
+    currentId = parentById.get(currentId) || null;
+  }
+  pathNodeIds.reverse();
+  return pathNodeIds;
+}
+
+function getInterestingTransitionWeight(currentNode, neighborNode) {
+  if (!neighborNode) {
+    return 1.3;
+  }
+  const structuralScore = (
+    (neighborNode.degree || 0) * 0.72
+    + (neighborNode.inbound || 0) * 0.95
+    + (neighborNode.outbound || 0) * 0.48
+  );
+  const normalizedStructure = clamp(structuralScore / 26, 0, 1);
+  const bridgeBonus = neighborNode.group !== currentNode?.group ? 0.08 : 0;
+  const customPenalty = neighborNode.isCustom ? 0.1 : 0;
+  return clamp(1.24 - (normalizedStructure * 0.28) - bridgeBonus + customPenalty, 0.84, 1.26);
+}
+
+function getYearRangeDistance(leftRange, rightRange) {
+  if (!leftRange || !rightRange) {
+    return null;
+  }
+  if (leftRange.max < rightRange.min) {
+    return rightRange.min - leftRange.max;
+  }
+  if (rightRange.max < leftRange.min) {
+    return leftRange.min - rightRange.max;
+  }
+  return 0;
+}
+
+function getChronologicalTransitionWeight(currentNode, neighborNode, targetNode, direction) {
+  const currentRange = getNodeYearRange(currentNode);
+  const neighborRange = getNodeYearRange(neighborNode);
+  const targetRange = getNodeYearRange(targetNode);
+  let penalty = 0;
+
+  if (!neighborRange) {
+    penalty += 0.24;
+  }
+  if (currentRange && neighborRange) {
+    const gap = getYearRangeDistance(currentRange, neighborRange) || 0;
+    penalty += Math.min(0.72, gap / 22);
+
+    if (direction > 0 && neighborRange.center < currentRange.center - 2) {
+      penalty += 0.92;
+    } else if (direction < 0 && neighborRange.center > currentRange.center + 2) {
+      penalty += 0.92;
+    }
+  } else if (!currentRange || !neighborRange) {
+    penalty += 0.16;
+  }
+
+  if (targetRange && neighborRange) {
+    const targetGap = getYearRangeDistance(neighborRange, targetRange) || 0;
+    const currentGap = currentRange ? (getYearRangeDistance(currentRange, targetRange) || 0) : null;
+    if (currentGap !== null && targetGap > currentGap + 6) {
+      penalty += 0.58;
+    } else {
+      penalty += Math.min(0.36, targetGap / 52);
+    }
+  }
+
+  return 1 + penalty;
+}
+
+function findWeightedPath(startId, endId, weightForStep) {
+  if (!startId || !endId || startId === endId) {
+    return startId && endId ? [startId] : [];
+  }
+
+  const frontier = [{ nodeId: startId, score: 0 }];
+  const scoreById = new Map([[startId, 0]]);
+  const parentById = new Map([[startId, null]]);
+
+  while (frontier.length) {
+    frontier.sort((left, right) => left.score - right.score);
+    const current = frontier.shift();
+    if (!current) {
+      break;
+    }
+    if (current.score > (scoreById.get(current.nodeId) ?? Infinity)) {
+      continue;
+    }
+    if (current.nodeId === endId) {
+      return reconstructPathFromParents(parentById, endId);
+    }
+    const currentNode = state.nodeById.get(current.nodeId);
+    const neighbors = state.adjacency.get(current.nodeId) || new Set();
+    for (const neighborId of neighbors) {
+      const neighborNode = state.nodeById.get(neighborId);
+      const nextScore = current.score + weightForStep(currentNode, neighborNode);
+      if (nextScore >= (scoreById.get(neighborId) ?? Infinity)) {
+        continue;
+      }
+      scoreById.set(neighborId, nextScore);
+      parentById.set(neighborId, current.nodeId);
+      frontier.push({ nodeId: neighborId, score: nextScore });
+    }
+  }
+
+  return [];
+}
+
+function findInterestingPath(startId, endId) {
+  return findWeightedPath(startId, endId, (currentNode, neighborNode) => (
+    getInterestingTransitionWeight(currentNode, neighborNode)
+  ));
+}
+
+function findChronologicalPath(startId, endId) {
+  const startNode = state.nodeById.get(startId);
+  const endNode = state.nodeById.get(endId);
+  const startRange = getNodeYearRange(startNode);
+  const endRange = getNodeYearRange(endNode);
+  const direction = startRange && endRange && endRange.center !== startRange.center
+    ? Math.sign(endRange.center - startRange.center)
+    : 0;
+  return findWeightedPath(startId, endId, (currentNode, neighborNode) => (
+    getChronologicalTransitionWeight(currentNode, neighborNode, endNode, direction)
+  ));
+}
+
+function findPath(startId, endId, pathMode = state.pathMode) {
+  const normalizedMode = normalizePathMode(pathMode);
+  if (normalizedMode === "interesting") {
+    return findInterestingPath(startId, endId);
+  }
+  if (normalizedMode === "chronological") {
+    return findChronologicalPath(startId, endId);
+  }
+  return findShortestPath(startId, endId);
+}
+
 function getSharedNeighbors(leftId, rightId) {
   if (!leftId || !rightId) {
     return [];
@@ -3049,7 +3241,7 @@ function tracePathToTarget(targetNodeId = state.pathTargetNodeId) {
     render();
     return;
   }
-  const pathNodeIds = findShortestPath(startId, targetNodeId);
+  const pathNodeIds = findPath(startId, targetNodeId, state.pathMode);
   if (!pathNodeIds.length) {
     state.activePathNodeIds = [];
     state.activePathEdgeKeys = new Set();
@@ -3061,6 +3253,37 @@ function tracePathToTarget(targetNodeId = state.pathTargetNodeId) {
     return;
   }
   applyPath(pathNodeIds, targetNodeId, { shouldFit: true, preserveFocus: state.pathFocus });
+}
+
+function traceSelectedPath({ shouldFit = true } = {}) {
+  const fromId = state.pathFromNodeId;
+  const toId = state.pathToNodeId;
+  if (!fromId || !toId) {
+    setToolStatusMessage("Select both From and To nodes.");
+    return false;
+  }
+  const path = findPath(fromId, toId, state.pathMode);
+  if (!path.length) {
+    setToolStatusMessage(`No ${getPathModeMeta(state.pathMode).label.toLowerCase()} path found between those nodes.`);
+    return false;
+  }
+  applyPath(path, toId, { shouldFit, preserveFocus: state.pathFocus });
+  setToolStatusMessage(`${getPathModeMeta(state.pathMode).label} path: ${describePath(path)}`);
+  return true;
+}
+
+function setPathMode(pathMode, { retrace = true } = {}) {
+  const nextMode = normalizePathMode(pathMode);
+  if (state.pathMode === nextMode) {
+    return;
+  }
+  state.pathMode = nextMode;
+  saveInvestigationState();
+  if (retrace && state.activePathNodeIds.length && state.pathFromNodeId && state.pathToNodeId) {
+    traceSelectedPath({ shouldFit: true });
+    return;
+  }
+  renderInvestigatorTools();
 }
 
 function toggleBookmark(nodeId) {
@@ -3093,6 +3316,7 @@ function saveCurrentPath() {
     name: describePath(state.activePathNodeIds),
     fromId: state.activePathNodeIds[0],
     toId: state.activePathNodeIds[state.activePathNodeIds.length - 1],
+    mode: normalizePathMode(state.pathMode),
     nodeIds: state.activePathNodeIds.slice(),
     createdAt: timestamp(),
   };
@@ -3109,8 +3333,9 @@ function openSavedPath(pathId) {
   if (!savedPath) {
     return;
   }
+  state.pathMode = normalizePathMode(savedPath.mode);
   applyPath(savedPath.nodeIds, savedPath.toId, { shouldFit: true, preserveFocus: state.pathFocus });
-  setToolStatusMessage(`Opened saved path: ${savedPath.name}`);
+  setToolStatusMessage(`Opened ${getPathModeMeta(state.pathMode).label.toLowerCase()} path: ${savedPath.name}`);
 }
 
 function removeSavedPath(pathId) {
@@ -3859,12 +4084,17 @@ function renderInvestigatorTools() {
       <details class="tool-section tool-section-path" ${pathToolOpen ? "open" : ""}>
         <summary>
           <span>Path tracer</span>
-          <small>${hasActivePath ? `${state.activePathNodeIds.length} nodes` : "find route"}</small>
+          <small>${hasActivePath ? `${getPathModeMeta(state.pathMode).label} · ${state.activePathNodeIds.length} nodes` : "find route"}</small>
         </summary>
         <div class="tool-section-body">
         ${renderNodeSearchInput("path-from", state.pathFromNodeId, "Search from node...", "From")}
         ${renderNodeSearchInput("path-to", state.pathToNodeId, "Search to node...", "To")}
         <div class="path-controls">
+          <select id="path-mode-select" class="path-mode-select" aria-label="Path mode">
+            ${Object.entries(PATH_MODE_META).map(([modeKey, meta]) => `
+              <option value="${escapeHtml(modeKey)}" ${state.pathMode === modeKey ? "selected" : ""}>${escapeHtml(meta.label)}</option>
+            `).join("")}
+          </select>
           <button type="button" class="mini-button" id="trace-path-button">Trace</button>
           <button
             type="button"
@@ -3875,7 +4105,7 @@ function renderInvestigatorTools() {
           <button type="button" class="mini-button" id="save-path-button" ${hasActivePath ? "" : "disabled"}>Save</button>
         </div>
         <div class="path-summary" id="path-summary-text">
-          ${hasActivePath ? `${state.activePathNodeIds.length} nodes · ${describePath(state.activePathNodeIds)}` : "No active path"}
+          ${hasActivePath ? `${getPathModeMeta(state.pathMode).label} · ${state.activePathNodeIds.length} nodes · ${describePath(state.activePathNodeIds)}` : "No active path"}
         </div>
         </div>
       </details>
@@ -3892,7 +4122,7 @@ function renderInvestigatorTools() {
             <div class="saved-item">
               <button type="button" class="saved-item-open" data-open-saved-path="${escapeHtml(path.id)}">
                 <strong>${escapeHtml(path.name)}</strong>
-                <small>${escapeHtml(describePath(path.nodeIds))} · ${path.nodeIds.length} nodes</small>
+                <small>${escapeHtml(getPathModeMeta(path.mode).label)} · ${describePath(path.nodeIds)} · ${path.nodeIds.length} nodes</small>
               </button>
               <button type="button" class="mini-button" data-remove-saved-path="${escapeHtml(path.id)}">Remove</button>
             </div>
@@ -6805,6 +7035,10 @@ function bindEvents() {
   });
 
   investigatorTools.addEventListener("input", (event) => {
+    if (event.target.id === "path-mode-select") {
+      setPathMode(event.target.value, { retrace: true });
+      return;
+    }
     if (event.target.id === "layer-notes-editor") {
       state.investigationNotes = event.target.value;
       debouncedSaveInvestigationState();
@@ -6935,19 +7169,7 @@ function bindEvents() {
     }
 
     if (event.target.closest("#trace-path-button")) {
-      const fromId = state.pathFromNodeId;
-      const toId = state.pathToNodeId;
-      if (!fromId || !toId) {
-        setToolStatusMessage("Select both From and To nodes.");
-        return;
-      }
-      const path = findShortestPath(fromId, toId);
-      if (!path.length) {
-        setToolStatusMessage("No path found between those nodes.");
-        return;
-      }
-      applyPath(path, toId);
-      setToolStatusMessage(`Traced path: ${describePath(path)}`);
+      traceSelectedPath({ shouldFit: true });
       return;
     }
 

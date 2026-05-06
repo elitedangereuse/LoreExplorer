@@ -1308,9 +1308,24 @@ code {
 
 .path-controls {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) auto auto;
+  grid-template-columns: minmax(0, 1fr) auto auto auto;
   gap: 8px;
   align-items: center;
+}
+
+.path-mode-select {
+  min-width: 0;
+  padding: 8px 10px;
+  border-radius: 12px;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  background: rgba(3, 11, 18, 0.82);
+  color: var(--text);
+}
+
+.path-mode-select:focus {
+  outline: none;
+  border-color: rgba(99, 216, 234, 0.5);
+  box-shadow: 0 0 0 4px rgba(99, 216, 234, 0.12);
 }
 
 .path-focus-toggle {
