@@ -1,12 +1,28 @@
 :PROPERTIES:
 :ID:       315a2182-7266-45f9-ac87-5f0f42c5cf12
+:ROAM_ALIASES: Nexus
 :END:
 #+title: Riri McAllister
 #+filetags: :Individual:
 
-Associated to [[id:f5c4ef7c-7a40-4d9f-87e1-904f11efda2f][League of Reparation]].
-Shot by [[id:27665eca-5d5f-4a1d-970d-fb83ce673269][Polly Cartesius]].
-Later listed as missing after the disappearance of her medical
-transport.
+Officer in the [[id:17d9294e-7759-4cf4-9a67-5f12b5704f51][Alliance Defence Force]] from
+[[id:ff595332-6a13-4f69-ae2f-cc0a0df8e741][Lave]]. She was appointed to the
+[[id:b0b347ac-10b8-4190-8787-1557f7d4a6da][Council of Admirals]] and promoted
+to rear admiral, with [[id:c51f8115-13d1-4d47-a88a-a126cd66d194][George Varma]]
+publicly backing her promotion.
+
+Riri McAllister was later exposed as Nexus, central coordinator and
+original architect of the [[id:f5c4ef7c-7a40-4d9f-87e1-904f11efda2f][League of Reparation]]. She framed [[id:c51f8115-13d1-4d47-a88a-a126cd66d194][George
+Varma]], was prosecuted by [[id:2569323a-d569-4399-8cda-ae371000dc8b][Mara Klatt]] of [[id:415ecd29-3cf3-4f3c-ab29-a7debb4b56de][Alliance Interpol]], and was shot
+by [[id:27665eca-5d5f-4a1d-970d-fb83ce673269][Polly Cartesius]] during her trial on [[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]].
+
+Afterwards, McAllister vanished while being transported aboard a
+medical ship and was listed as missing rather than confirmed dead.
+
+McAllister claimed to be a direct descendant of
+[[id:0be96028-d995-4b52-8bb0-34f21e080bce][John Jameson]], but
+[[id:415ecd29-3cf3-4f3c-ab29-a7debb4b56de][Alliance Interpol]] said the claim
+could not be verified and that she was registered as an orphan of
+unknown lineage.
 
 See also [[id:1bb79f2f-7263-4d34-94e7-497e2047efdc][Disappearance of Riri McAllister]].
