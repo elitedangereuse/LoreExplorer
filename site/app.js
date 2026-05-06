@@ -158,7 +158,7 @@ const INVESTIGATION_EXPORT_TYPE = "org-roam-investigation-layer";
 const INVESTIGATION_SCHEMA_VERSION = 1;
 const COLOR_MODES = new Set(["group", "links", "backlinks", "primary-tag"]);
 const SHAPE_MODES = new Set(["none", "semantic"]);
-const INVESTIGATION_LINK_RE = /\[\[((?:node|id):([^[\]]+))\](?:\[([^\]]+)\])?\]\]/g;
+const INVESTIGATION_LINK_RE = /\[\[((?:node|id):([^[\]]+))(?:\]\[([^\]]+))?\]\]/g;
 const LAYER_COLOR_PALETTE = [
   "#ffd46b",
   "#63d8ea",
@@ -5603,6 +5603,7 @@ function resetSelection() {
 function buildSimulationData() {
   state.edgeRefs = state.edges
     .map((edge) => ({
+      ...edge,
       source: state.nodeById.get(edge.source),
       target: state.nodeById.get(edge.target),
     }))
