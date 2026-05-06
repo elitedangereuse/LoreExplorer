@@ -7,6 +7,7 @@
     "name": "Duval succession crisis",
     "visible": true,
     "color": "#7aa8ff",
+    "defaultFocusNodeId": "sample-duval-succession-fault-line",
     "notes": "Sample investigation layer focused on the Imperial succession crisis following Hengist Duval's death. Try opening the local graph of Arissa Lavigny-Duval, Aisling Duval, Denton Patreus, the Imperial Senate, or Treaty of Cartoi.",
     "bookmarks": [
       "3cb0755e-4deb-442b-898b-3f0c6651636e",

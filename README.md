@@ -10,7 +10,7 @@ Detective mode supports importing and exporting investigation layers as JSON fil
 
 - [Duval succession crisis](site/data/investigation-samples/duval_succession_crisis.json)
 
-In the website, open detective mode and use the import-layer button to load it.
+In the website, open detective mode and use the import-layer button to load it. The sample defines a default start node, so it should open directly on its investigation overview.
 
 ## Org-roam
 

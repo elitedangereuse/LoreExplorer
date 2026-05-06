@@ -575,6 +575,7 @@ function buildEmptyLayer(name = `Investigation ${state.investigationLayers.lengt
     name,
     visible: true,
     color: colorForLayer(state.investigationLayers.length),
+    defaultFocusNodeId: null,
     notes: "",
     bookmarks: [],
     savedPaths: [],
@@ -672,6 +673,7 @@ function sanitizeLayer(raw, index = 0) {
   layer.name = typeof raw.name === "string" && raw.name.trim() ? raw.name.trim() : layer.name;
   layer.visible = raw.visible !== undefined ? Boolean(raw.visible) : true;
   layer.color = typeof raw.color === "string" && raw.color ? raw.color : colorForLayer(index);
+  layer.defaultFocusNodeId = typeof raw.defaultFocusNodeId === "string" ? raw.defaultFocusNodeId : null;
   layer.notes = typeof raw.notes === "string" ? raw.notes : "";
   layer.bookmarks = sanitizeStringList(raw.bookmarks);
   layer.savedPaths = (Array.isArray(raw.savedPaths) ? raw.savedPaths : [])
@@ -1210,6 +1212,7 @@ function validateInvestigationLayersAgainstGraph() {
     nextLayer.customNodes = nextLayer.customNodes
       .map((customNode, customIndex) => sanitizeCustomNode(customNode, customIndex))
       .filter((customNode) => validNodeIds.has(customNode.id));
+    nextLayer.defaultFocusNodeId = validNodeIds.has(nextLayer.defaultFocusNodeId) ? nextLayer.defaultFocusNodeId : null;
     nextLayer.pathTargetNodeId = validNodeIds.has(nextLayer.pathTargetNodeId) ? nextLayer.pathTargetNodeId : null;
     nextLayer.activePathNodeIds = nextLayer.activePathNodeIds.filter((nodeId) => validNodeIds.has(nodeId));
     nextLayer.pathFocus = nextLayer.pathFocus && nextLayer.activePathNodeIds.length >= 2;
@@ -3352,6 +3355,16 @@ function refreshCurrentGraphViewAfterVisibilityChange() {
   render();
 }
 
+function openLayerDefaultFocus(layerId = state.activeLayerId, updateUrl = true) {
+  const layer = state.investigationLayers.find((entry) => entry.id === layerId);
+  const focusNodeId = layer?.defaultFocusNodeId;
+  if (!focusNodeId || !state.nodeById.has(focusNodeId)) {
+    return false;
+  }
+  selectNode(focusNodeId, true, updateUrl, false);
+  return true;
+}
+
 function toggleCanonLayerVisibility() {
   state.canonLayerVisible = !state.canonLayerVisible;
   saveInvestigationState({ syncLayer: false });
@@ -3488,6 +3501,27 @@ function renameActiveLayer(name) {
   renameLayer(activeLayer.id, name);
 }
 
+function setLayerDefaultFocus(layerId, nodeId) {
+  if (!layerId) {
+    return;
+  }
+  const targetLayer = state.investigationLayers.find((layer) => layer.id === layerId);
+  if (!targetLayer) {
+    return;
+  }
+  const nextFocusNodeId = nodeId && state.nodeById.has(nodeId) ? nodeId : null;
+  if (targetLayer.defaultFocusNodeId === nextFocusNodeId) {
+    return;
+  }
+  state.investigationLayers = state.investigationLayers.map((layer) => (
+    layer.id === layerId
+      ? { ...layer, defaultFocusNodeId: nextFocusNodeId, updatedAt: timestamp() }
+      : layer
+  ));
+  saveInvestigationState({ syncLayer: false });
+  renderInvestigatorTools();
+}
+
 function downloadFile(filename, content, mimeType) {
   const blob = new Blob([content], { type: mimeType });
   const url = URL.createObjectURL(blob);
@@ -3554,7 +3588,7 @@ function importInvestigationLayers(serialized) {
   applyLayerToState(nextLayers[0]);
   saveInvestigationState({ syncLayer: false });
   rebuildRuntimeGraphData();
-  if (currentNodeId() && state.nodeById.has(currentNodeId())) {
+  if (!openLayerDefaultFocus(nextLayers[0].id, false) && currentNodeId() && state.nodeById.has(currentNodeId())) {
     loadNote(currentNodeId());
   }
   setToolStatusMessage(`Imported ${nextLayers.length} layer${nextLayers.length > 1 ? "s" : ""}.`);
@@ -3612,6 +3646,9 @@ function renderInvestigatorTools() {
   const hasActivePath = state.activePathNodeIds.length > 1;
   const pathToolOpen = hasActivePath || state.pathFromNodeId || state.pathToNodeId;
   const layerNotesOpen = Boolean((activeLayer?.notes || "").trim());
+  const layerDefaultFocusNode = activeLayer?.defaultFocusNodeId ? state.nodeById.get(activeLayer.defaultFocusNodeId) : null;
+  const currentFocusNodeId = currentNodeId();
+  const canSetLayerDefaultFocus = Boolean(activeLayer && currentFocusNodeId && state.nodeById.has(currentFocusNodeId));
 
   investigatorTools.innerHTML = `
     <div class="tool-card">
@@ -3619,6 +3656,34 @@ function renderInvestigatorTools() {
         <div>
           <div class="tool-kicker">Active layer</div>
           <div class="detective-layer-title">${escapeHtml(activeLayer?.name || "No investigation layer")}</div>
+        </div>
+        <div class="detective-layer-start">
+          <div class="tool-kicker">Start here</div>
+          <div class="detective-layer-start-row">
+            <div class="detective-layer-start-copy">
+              ${layerDefaultFocusNode ? escapeHtml(layerDefaultFocusNode.title) : "No default start node"}
+            </div>
+            <div class="tool-inline-group detective-layer-start-actions">
+              <button
+                type="button"
+                class="mini-button"
+                data-open-layer-start="true"
+                ${layerDefaultFocusNode ? "" : "disabled"}
+              >Open start</button>
+              <button
+                type="button"
+                class="mini-button"
+                data-set-layer-start="true"
+                ${canSetLayerDefaultFocus ? "" : "disabled"}
+              >Set current</button>
+              <button
+                type="button"
+                class="mini-button"
+                data-clear-layer-start="true"
+                ${layerDefaultFocusNode ? "" : "disabled"}
+              >Clear</button>
+            </div>
+          </div>
         </div>
         <div class="tool-status">${escapeHtml(state.toolStatusMessage || "Ready")}</div>
       </section>
@@ -6740,6 +6805,26 @@ function bindEvents() {
 
     if (event.target.closest("[data-create-layer]")) {
       createLayer();
+      return;
+    }
+
+    if (event.target.closest("[data-open-layer-start]")) {
+      openLayerDefaultFocus();
+      return;
+    }
+
+    if (event.target.closest("[data-set-layer-start]")) {
+      const focusNodeId = currentNodeId();
+      if (state.activeLayerId && focusNodeId && state.nodeById.has(focusNodeId)) {
+        setLayerDefaultFocus(state.activeLayerId, focusNodeId);
+      }
+      return;
+    }
+
+    if (event.target.closest("[data-clear-layer-start]")) {
+      if (state.activeLayerId) {
+        setLayerDefaultFocus(state.activeLayerId, null);
+      }
       return;
     }
 
