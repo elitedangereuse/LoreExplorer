@@ -30,6 +30,7 @@ function findExcerpt(text, terms) {
 
 function scoreDoc(doc, terms, rawQuery, mode) {
   let score = 0;
+  let hasMatch = false;
   let matchType = "";
   const titleTokens = doc.titleNorm.split(" ");
   const aliasTokens = doc.aliasNorms.flatMap((alias) => alias.split(" "));
@@ -38,14 +39,17 @@ function scoreDoc(doc, terms, rawQuery, mode) {
 
   if (doc.titleNorm === rawQuery) {
     score += 140;
+    hasMatch = true;
     matchType = "title";
   }
   if (doc.aliasNorms.includes(rawQuery)) {
     score += 110;
+    hasMatch = true;
     matchType = matchType || "alias";
   }
   if (doc.titleNorm.startsWith(rawQuery)) {
     score += 85;
+    hasMatch = true;
     matchType = matchType || "title";
   }
 
@@ -54,31 +58,38 @@ function scoreDoc(doc, terms, rawQuery, mode) {
     if (!term) continue;
     if (tokenStartsWith(titleTokens, term)) {
       score += 40;
+      hasMatch = true;
       matchType = matchType || "title";
     } else if (doc.titleNorm.includes(term)) {
       score += 24;
+      hasMatch = true;
       matchType = matchType || "title";
     }
 
     if (aliasTokens.some((token) => token.startsWith(term))) {
       score += 32;
+      hasMatch = true;
       matchType = matchType || "alias";
     } else if (doc.aliasNorms.some((alias) => alias.includes(term))) {
       score += 18;
+      hasMatch = true;
       matchType = matchType || "alias";
     }
 
     if (tagTokens.some((tag) => tag === term)) {
       score += 22;
+      hasMatch = true;
       matchType = matchType || "tag";
     } else if (tagTokens.some((tag) => tag.startsWith(term))) {
       score += 12;
+      hasMatch = true;
       matchType = matchType || "tag";
     }
 
     if (mode === "content" && contentNorm.includes(term)) {
       contentHits += 1;
       score += 10;
+      hasMatch = true;
       if (!matchType || matchType === "tag") {
         matchType = "content";
       }
@@ -87,9 +98,19 @@ function scoreDoc(doc, terms, rawQuery, mode) {
 
   if (terms.length > 1 && terms.every((term) => doc.titleNorm.includes(term))) {
     score += 30;
+    hasMatch = true;
   }
   if (mode === "content" && terms.length > 1 && contentHits === terms.length) {
     score += 28;
+    hasMatch = true;
+  }
+
+  if (!hasMatch) {
+    return {
+      score: 0,
+      matchType: "",
+      excerpt: "",
+    };
   }
 
   score += Math.min(doc.degree || 0, 30) * 0.4;
