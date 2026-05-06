@@ -4,6 +4,14 @@ Discover the [Elite Dangerous Lore Explorer](https://elitedangereuse.github.io/L
 
 This uses the [Zettelkasten method](https://www.orgroam.com/manual.html#A-Brief-Introduction-to-the-Zettelkasten-Method) and org-roam to create a new approach to the official Elite Dangerous lore.
 
+## Sample Investigation Layer
+
+Detective mode supports importing and exporting investigation layers as JSON files. A ready-to-import sample layer is available here:
+
+- [Duval succession crisis](site/data/investigation-samples/duval_succession_crisis.json)
+
+In the website, open detective mode and use the import-layer button to load it.
+
 ## Org-roam
 
 Org-roam is a mode for Emacs that allows to create 

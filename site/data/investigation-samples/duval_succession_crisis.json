@@ -1,0 +1,109 @@
+{
+  "type": "org-roam-investigation-layer",
+  "schemaVersion": 1,
+  "exportedAt": "2026-05-06T14:20:00.000Z",
+  "layer": {
+    "id": "sample-layer-duval-succession-crisis",
+    "name": "Duval succession crisis",
+    "visible": true,
+    "color": "#7aa8ff",
+    "notes": "Sample investigation layer focused on the Imperial succession crisis following Hengist Duval's death. Try opening the local graph of Arissa Lavigny-Duval, Aisling Duval, Denton Patreus, the Imperial Senate, or Treaty of Cartoi.",
+    "bookmarks": [
+      "3cb0755e-4deb-442b-898b-3f0c6651636e",
+      "6b07ceac-7fe6-43c0-98c9-460049eb1d7c",
+      "34f3cfdd-0536-40a9-8732-13bf3a5e4a70",
+      "b402bbe3-5119-4d94-87ee-0ba279658383",
+      "75daea85-5e9f-4f6f-a102-1a5edea0283c",
+      "e9679720-e0c1-449e-86a6-a5b3de3613f5",
+      "6b539fa1-7ebe-44d3-874b-41a3bd400af9",
+      "ff4e4a1a-1643-4da5-94f4-2592750f9ec2",
+      "3f567b7e-8f20-480b-b485-20b59de6191e",
+      "sample-duval-questions-to-test"
+    ],
+    "savedPaths": [],
+    "savedFilters": [],
+    "nodeNotes": {
+      "sample-duval-succession-fault-line": "The succession crisis begins with [[id:6b07ceac-7fe6-43c0-98c9-460049eb1d7c][Death of Hengist Duval]] and is processed through the [[id:6b539fa1-7ebe-44d3-874b-41a3bd400af9][Imperial Senate]]. The rival poles are [[id:34f3cfdd-0536-40a9-8732-13bf3a5e4a70][Arissa Lavigny-Duval]] and [[id:b402bbe3-5119-4d94-87ee-0ba279658383][Aisling Duval]], while [[id:75daea85-5e9f-4f6f-a102-1a5edea0283c][Denton Patreus]] and [[id:e9679720-e0c1-449e-86a6-a5b3de3613f5][Anders Blaine]] influence the outcome.",
+      "sample-duval-legitimacy-through-marriage": "The interrupted marriage between [[id:3cb0755e-4deb-442b-898b-3f0c6651636e][Hengist Duval]] and [[id:33f63de9-fd79-4790-a1a5-ebd87aaeea2d][Florence Lavigny]] would have strengthened [[id:34f3cfdd-0536-40a9-8732-13bf3a5e4a70][Arissa Lavigny-Duval]]'s legal position. This makes the wedding attack a constitutional turning point. See [[node:sample-duval-succession-fault-line][Succession fault line]].",
+      "sample-duval-patreus-calculus": "Was [[id:75daea85-5e9f-4f6f-a102-1a5edea0283c][Denton Patreus]] trying to use a deadlocked [[id:6b539fa1-7ebe-44d3-874b-41a3bd400af9][Imperial Senate]] to increase his leverage over both [[id:b402bbe3-5119-4d94-87ee-0ba279658383][Aisling Duval]] and [[id:34f3cfdd-0536-40a9-8732-13bf3a5e4a70][Arissa Lavigny-Duval]]? Compare this line of inquiry with [[node:sample-duval-succession-fault-line][Succession fault line]] and [[id:3f567b7e-8f20-480b-b485-20b59de6191e][Imperial Succession Vote in Senate Today]].",
+      "sample-duval-cartoi-pressure-valve": "[[id:ff4e4a1a-1643-4da5-94f4-2592750f9ec2][Treaty of Cartoi]] suggests that supporters of [[id:34f3cfdd-0536-40a9-8732-13bf3a5e4a70][Arissa Lavigny-Duval]] and [[id:b402bbe3-5119-4d94-87ee-0ba279658383][Aisling Duval]] could still de-escalate locally after [[id:6b07ceac-7fe6-43c0-98c9-460049eb1d7c][Hengist's death]]. This may be evidence that the crisis was real but still containable. Compare with [[node:sample-duval-succession-fault-line][Succession fault line]].",
+      "sample-duval-questions-to-test": "- Did [[id:3f567b7e-8f20-480b-b485-20b59de6191e][Imperial Succession Vote in Senate Today]] reflect a real deadlock or political theatre?\n- Does [[node:sample-duval-patreus-calculus][Patreus calculus]] explain later alignments?\n- Is [[node:sample-duval-legitimacy-through-marriage][Legitimacy through marriage]] the cleanest explanation for [[id:34f3cfdd-0536-40a9-8732-13bf3a5e4a70][Arissa Lavigny-Duval]]'s rise?\n- Is [[node:sample-duval-cartoi-pressure-valve][Cartoi as pressure valve]] the best evidence that the succession crisis stopped short of civil war?",
+      "3cb0755e-4deb-442b-898b-3f0c6651636e": "Investigation focus: the death of [[id:3cb0755e-4deb-442b-898b-3f0c6651636e][Hengist Duval]] triggers [[node:sample-duval-succession-fault-line][Succession fault line]] and [[node:sample-duval-legitimacy-through-marriage][Legitimacy through marriage]].",
+      "6b07ceac-7fe6-43c0-98c9-460049eb1d7c": "Investigation focus: treat [[id:6b07ceac-7fe6-43c0-98c9-460049eb1d7c][Death of Hengist Duval]] as the event anchor for [[node:sample-duval-succession-fault-line][Succession fault line]].",
+      "34f3cfdd-0536-40a9-8732-13bf3a5e4a70": "Investigation focus: compare [[id:34f3cfdd-0536-40a9-8732-13bf3a5e4a70][Arissa Lavigny-Duval]]'s claim with [[node:sample-duval-legitimacy-through-marriage][Legitimacy through marriage]] and [[node:sample-duval-succession-fault-line][Succession fault line]].",
+      "b402bbe3-5119-4d94-87ee-0ba279658383": "Investigation focus: [[id:b402bbe3-5119-4d94-87ee-0ba279658383][Aisling Duval]] is central to [[node:sample-duval-succession-fault-line][Succession fault line]] and to [[node:sample-duval-cartoi-pressure-valve][Cartoi as pressure valve]].",
+      "75daea85-5e9f-4f6f-a102-1a5edea0283c": "Investigation focus: test the kingmaker angle in [[node:sample-duval-patreus-calculus][Patreus calculus]].",
+      "e9679720-e0c1-449e-86a6-a5b3de3613f5": "Investigation focus: [[id:e9679720-e0c1-449e-86a6-a5b3de3613f5][Anders Blaine]] may function as the procedural gatekeeper inside the [[id:6b539fa1-7ebe-44d3-874b-41a3bd400af9][Imperial Senate]]. See [[node:sample-duval-succession-fault-line][Succession fault line]].",
+      "6b539fa1-7ebe-44d3-874b-41a3bd400af9": "Investigation focus: the [[id:6b539fa1-7ebe-44d3-874b-41a3bd400af9][Imperial Senate]] is the arena for [[node:sample-duval-succession-fault-line][Succession fault line]] and [[node:sample-duval-patreus-calculus][Patreus calculus]].",
+      "ff4e4a1a-1643-4da5-94f4-2592750f9ec2": "Investigation focus: use [[id:ff4e4a1a-1643-4da5-94f4-2592750f9ec2][Treaty of Cartoi]] as evidence in [[node:sample-duval-cartoi-pressure-valve][Cartoi as pressure valve]].",
+      "3f567b7e-8f20-480b-b485-20b59de6191e": "Investigation focus: treat [[id:3f567b7e-8f20-480b-b485-20b59de6191e][Imperial Succession Vote in Senate Today]] as a checkpoint for [[node:sample-duval-questions-to-test][Questions to test]]."
+    },
+    "customNodes": [
+      {
+        "id": "sample-duval-succession-fault-line",
+        "title": "Succession fault line",
+        "tags": [
+          "Lead"
+        ],
+        "aliases": [],
+        "x": -180,
+        "y": -90,
+        "createdAt": "2026-05-06T14:20:00.000Z",
+        "updatedAt": "2026-05-06T14:20:00.000Z"
+      },
+      {
+        "id": "sample-duval-legitimacy-through-marriage",
+        "title": "Legitimacy through marriage",
+        "tags": [
+          "Hypothesis"
+        ],
+        "aliases": [],
+        "x": 10,
+        "y": -110,
+        "createdAt": "2026-05-06T14:20:00.000Z",
+        "updatedAt": "2026-05-06T14:20:00.000Z"
+      },
+      {
+        "id": "sample-duval-patreus-calculus",
+        "title": "Patreus calculus",
+        "tags": [
+          "Hypothesis"
+        ],
+        "aliases": [],
+        "x": 190,
+        "y": -20,
+        "createdAt": "2026-05-06T14:20:00.000Z",
+        "updatedAt": "2026-05-06T14:20:00.000Z"
+      },
+      {
+        "id": "sample-duval-cartoi-pressure-valve",
+        "title": "Cartoi as pressure valve",
+        "tags": [
+          "Lead"
+        ],
+        "aliases": [],
+        "x": -40,
+        "y": 80,
+        "createdAt": "2026-05-06T14:20:00.000Z",
+        "updatedAt": "2026-05-06T14:20:00.000Z"
+      },
+      {
+        "id": "sample-duval-questions-to-test",
+        "title": "Questions to test",
+        "tags": [
+          "Checklist"
+        ],
+        "aliases": [],
+        "x": 130,
+        "y": 150,
+        "createdAt": "2026-05-06T14:20:00.000Z",
+        "updatedAt": "2026-05-06T14:20:00.000Z"
+      }
+    ],
+    "pathTargetNodeId": null,
+    "activePathNodeIds": [],
+    "pathFocus": false,
+    "createdAt": "2026-05-06T14:20:00.000Z",
+    "updatedAt": "2026-05-06T14:20:00.000Z"
+  }
+}
