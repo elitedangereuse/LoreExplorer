@@ -6,7 +6,11 @@
 * Family
   - [[id:cc697ecd-bd30-4319-b7f0-5e659a6e5b44][Jameson]]
   - [[id:1950129f-ad8e-453a-94ac-8bb0813e2e28][Lori Jameson]]
-  - [[id:315a2182-7266-45f9-ac87-5f0f42c5cf12][Riri McAllister]]
+* Claims
+  - [[id:315a2182-7266-45f9-ac87-5f0f42c5cf12][Riri McAllister]] claimed to be a
+    direct descendant of John Jameson, but
+    [[id:415ecd29-3cf3-4f3c-ab29-a7debb4b56de][Alliance Interpol]] said the
+    claim could not be verified.
 * Job
   - Thargoids
   - [[id:39a31dd8-3750-4507-90b7-b649d0eeecef][INRA]]
