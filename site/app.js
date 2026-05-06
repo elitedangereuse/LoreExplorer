@@ -21,6 +21,7 @@ const toolbarOptionsButton = document.getElementById("toolbar-options-button");
 const toolbarOptionsPanel = document.getElementById("toolbar-options-panel");
 const colorModeSelect = document.getElementById("color-mode");
 const shapeModeSelect = document.getElementById("shape-mode");
+const dynamicGraphThresholdInput = document.getElementById("dynamic-graph-threshold");
 const graphFilterToolbar = document.getElementById("graph-filter-toolbar");
 const graphStatsBadge = document.getElementById("graph-stats-badge");
 const noteContent = document.getElementById("note-content");
@@ -66,6 +67,7 @@ const state = {
   searchMode: "title",
   colorMode: "backlinks",
   shapeMode: "semantic",
+  dynamicGraphThreshold: 100,
   camera: { x: 0, y: 0, zoom: 1 },
   bounds: { minX: 0, maxX: 1, minY: 0, maxY: 1 },
   visibleBounds: { minX: 0, maxX: 1, minY: 0, maxY: 1 },
@@ -86,6 +88,8 @@ const state = {
   inboundAdjacency: new Map(),
   expandedNodeIds: new Set(),
   edgeRefs: [],
+  dynamicGraphFrame: 0,
+  dynamicGraphLastTs: 0,
   tagIndex: new Map(),
   tagDisplayByKey: new Map(),
   primaryTagById: new Map(),
@@ -149,6 +153,7 @@ const state = {
 
 const INVESTIGATION_STORAGE_KEY = "org-roam-investigator-v1";
 const DISPLAY_SETTINGS_STORAGE_KEY = "org-roam-display-settings-v1";
+const DEFAULT_DYNAMIC_GRAPH_THRESHOLD = 100;
 const INVESTIGATION_EXPORT_TYPE = "org-roam-investigation-layer";
 const INVESTIGATION_SCHEMA_VERSION = 1;
 const COLOR_MODES = new Set(["group", "links", "backlinks", "primary-tag"]);
@@ -1107,6 +1112,14 @@ function loadInvestigationState() {
   }
 }
 
+function normalizeDynamicGraphThreshold(value) {
+  const numeric = Number(value);
+  if (!Number.isFinite(numeric)) {
+    return DEFAULT_DYNAMIC_GRAPH_THRESHOLD;
+  }
+  return Math.max(0, Math.min(500, Math.round(numeric)));
+}
+
 function saveDisplaySettings() {
   const storage = getStorage();
   if (!storage) {
@@ -1117,6 +1130,7 @@ function saveDisplaySettings() {
     JSON.stringify({
       colorMode: state.colorMode,
       shapeMode: state.shapeMode,
+      dynamicGraphThreshold: state.dynamicGraphThreshold,
     }),
   );
 }
@@ -1138,6 +1152,7 @@ function loadDisplaySettings() {
     if (SHAPE_MODES.has(parsed.shapeMode)) {
       state.shapeMode = parsed.shapeMode;
     }
+    state.dynamicGraphThreshold = normalizeDynamicGraphThreshold(parsed.dynamicGraphThreshold);
   } catch {
     storage.removeItem(DISPLAY_SETTINGS_STORAGE_KEY);
   }
@@ -1905,6 +1920,138 @@ function fitGraph() {
   fitNodes(isClusterLandingView() ? state.baseCommunityNodes : getVisibleNodes());
 }
 
+function shouldRunDynamicGraph() {
+  if (isClusterLandingView() || state.dragging || state.pinching) {
+    return false;
+  }
+  if (state.detectiveMode && state.pathFocus) {
+    return false;
+  }
+  const visibleNodes = getVisibleNodes();
+  return visibleNodes.length > 1 && visibleNodes.length <= state.dynamicGraphThreshold;
+}
+
+function cancelDynamicGraphFrame() {
+  if (state.dynamicGraphFrame) {
+    cancelAnimationFrame(state.dynamicGraphFrame);
+    state.dynamicGraphFrame = 0;
+  }
+  state.dynamicGraphLastTs = 0;
+}
+
+function stepDynamicGraphSimulation(dtSeconds) {
+  const visibleNodes = getVisibleNodes();
+  if (visibleNodes.length <= 1 || visibleNodes.length > state.dynamicGraphThreshold) {
+    return false;
+  }
+  const visibleNodeIds = new Set(visibleNodes.map((node) => node.id));
+  const visibleEdges = getVisibleEdgeRefs().filter((edge) => (
+    visibleNodeIds.has(edge.source.id) && visibleNodeIds.has(edge.target.id)
+  ));
+  const forces = new Map(visibleNodes.map((node) => [node.id, { x: 0, y: 0 }]));
+  const anchorStrength = 9.5;
+  const linkStrength = 3.6;
+  const repulsionStrength = 30000;
+  const collisionStrength = 22;
+  const damping = 0.82;
+  let totalMotion = 0;
+
+  for (const node of visibleNodes) {
+    const force = forces.get(node.id);
+    force.x += (node.anchorX - node.x) * anchorStrength;
+    force.y += (node.anchorY - node.y) * anchorStrength;
+  }
+
+  for (let index = 0; index < visibleNodes.length; index += 1) {
+    const left = visibleNodes[index];
+    const leftForce = forces.get(left.id);
+    for (let inner = index + 1; inner < visibleNodes.length; inner += 1) {
+      const right = visibleNodes[inner];
+      const rightForce = forces.get(right.id);
+      let dx = right.x - left.x;
+      let dy = right.y - left.y;
+      let distanceSq = dx * dx + dy * dy;
+      if (distanceSq < 1) {
+        dx = 1;
+        dy = 0;
+        distanceSq = 1;
+      }
+      const distance = Math.sqrt(distanceSq);
+      const minDistance = 34 + (left.size + right.size) * 2.2;
+      const repel = repulsionStrength / (distanceSq + 200);
+      const overlap = Math.max(0, minDistance - distance);
+      const separation = repel + overlap * collisionStrength;
+      const offsetX = (dx / distance) * separation;
+      const offsetY = (dy / distance) * separation;
+      leftForce.x -= offsetX;
+      leftForce.y -= offsetY;
+      rightForce.x += offsetX;
+      rightForce.y += offsetY;
+    }
+  }
+
+  for (const edge of visibleEdges) {
+    let dx = edge.target.x - edge.source.x;
+    let dy = edge.target.y - edge.source.y;
+    let distanceSq = dx * dx + dy * dy;
+    if (distanceSq < 1) {
+      dx = 1;
+      dy = 0;
+      distanceSq = 1;
+    }
+    const distance = Math.sqrt(distanceSq);
+    const desiredDistance = 56 + ((edge.source.size + edge.target.size) * 3.2);
+    const stretch = distance - desiredDistance;
+    const springForce = stretch * linkStrength;
+    const offsetX = (dx / distance) * springForce;
+    const offsetY = (dy / distance) * springForce;
+    forces.get(edge.source.id).x += offsetX;
+    forces.get(edge.source.id).y += offsetY;
+    forces.get(edge.target.id).x -= offsetX;
+    forces.get(edge.target.id).y -= offsetY;
+  }
+
+  for (const node of visibleNodes) {
+    const force = forces.get(node.id);
+    node.vx = (node.vx + force.x * dtSeconds) * damping;
+    node.vy = (node.vy + force.y * dtSeconds) * damping;
+    const speed = Math.hypot(node.vx, node.vy);
+    if (speed > 220) {
+      const scale = 220 / speed;
+      node.vx *= scale;
+      node.vy *= scale;
+    }
+    node.x += node.vx * dtSeconds;
+    node.y += node.vy * dtSeconds;
+    totalMotion += Math.abs(node.vx) + Math.abs(node.vy);
+  }
+
+  return totalMotion > 0.02;
+}
+
+function runDynamicGraphFrame(timestamp) {
+  state.dynamicGraphFrame = 0;
+  if (!shouldRunDynamicGraph()) {
+    state.dynamicGraphLastTs = 0;
+    return;
+  }
+  const previousTs = state.dynamicGraphLastTs || timestamp;
+  const dtSeconds = Math.min(0.032, Math.max(0.012, (timestamp - previousTs) / 1000));
+  state.dynamicGraphLastTs = timestamp;
+  stepDynamicGraphSimulation(dtSeconds);
+  render();
+}
+
+function ensureDynamicGraphFrame() {
+  if (!shouldRunDynamicGraph()) {
+    cancelDynamicGraphFrame();
+    return;
+  }
+  if (!state.dynamicGraphFrame) {
+    state.dynamicGraphFrame = requestAnimationFrame(runDynamicGraphFrame);
+  }
+}
+
 function scheduleLandingFit() {
   if (!isClusterLandingView()) {
     return;
@@ -2247,6 +2394,7 @@ function renderLandingGraph(rect) {
   renderBookmarksPanel();
   updateDetectiveToolbarActions();
   updateToolbarNodeActions();
+  cancelDynamicGraphFrame();
 }
 
 function render() {
@@ -2449,6 +2597,7 @@ function render() {
   if (state.tooltip.sourceType === "node") {
     refreshNodeTooltip();
   }
+  ensureDynamicGraphFrame();
 }
 
 function getBacklinks(nodeId) {
@@ -5745,6 +5894,12 @@ function bindEvents() {
     saveDisplaySettings();
     render();
   });
+  dynamicGraphThresholdInput?.addEventListener("change", (event) => {
+    state.dynamicGraphThreshold = normalizeDynamicGraphThreshold(event.target.value);
+    dynamicGraphThresholdInput.value = String(state.dynamicGraphThreshold);
+    saveDisplaySettings();
+    render();
+  });
   contextOpenLocalGraphButton.addEventListener("click", () => {
     if (!state.contextMenu.nodeId) {
       return;
@@ -6813,6 +6968,9 @@ async function bootstrap() {
   applyPanelWidths(state.panelWidth, state.detectivePanelWidth, "detective");
   colorModeSelect.value = state.colorMode;
   shapeModeSelect.value = state.shapeMode;
+  if (dynamicGraphThresholdInput) {
+    dynamicGraphThresholdInput.value = String(state.dynamicGraphThreshold);
+  }
 
   state.hasFitted = false;
   state.fittedSize = { width: 0, height: 0 };

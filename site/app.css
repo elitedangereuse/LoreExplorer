@@ -434,6 +434,35 @@ code {
   color: var(--text);
 }
 
+.toolbar-number-input-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.toolbar-number-input {
+  padding: 10px 12px;
+  border-radius: 12px;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  background: rgba(255, 255, 255, 0.05);
+  color: var(--text);
+  width: 100%;
+  min-width: 0;
+}
+
+.toolbar-number-input:focus {
+  outline: none;
+  border-color: rgba(99, 216, 234, 0.5);
+  box-shadow: 0 0 0 4px rgba(99, 216, 234, 0.12);
+}
+
+.toolbar-input-suffix {
+  color: var(--text-dim);
+  font-size: 0.82rem;
+  white-space: nowrap;
+  flex: 0 0 auto;
+}
+
 .graph-stage {
   position: relative;
   flex: 1 1 auto;
