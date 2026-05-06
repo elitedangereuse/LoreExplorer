@@ -2987,6 +2987,16 @@ function bookmarkIconMarkup(bookmarked, wrapperClass = "toolbar-icon") {
   `;
 }
 
+function contextMenuActionMarkup(label, iconName, options = {}) {
+  const {
+    bookmarked = false,
+  } = options;
+  const icon = iconName === "bookmark"
+    ? bookmarkIconMarkup(bookmarked)
+    : iconMarkup(iconName);
+  return `${icon}<span class="context-menu-label">${escapeHtml(label)}</span>`;
+}
+
 function renderSharedToolbarIcons() {
   toolbarBackButton.innerHTML = iconMarkup("back");
   toolbarLocalGraphButton.innerHTML = iconMarkup("localGraph");
@@ -5860,7 +5870,7 @@ function showContextMenu(clientX, clientY, nodeId) {
   const node = state.nodeById.get(nodeId);
   const isCustomNode = Boolean(node?.isCustom);
   const menuWidth = 210;
-  const menuHeight = isCustomNode ? 148 : 110;
+  const menuHeight = 148;
   const left = Math.min(
     Math.max(8, clientX - rect.left),
     Math.max(8, rect.width - menuWidth - 8),
@@ -5880,8 +5890,16 @@ function showContextMenu(clientX, clientY, nodeId) {
     || nodeId === state.graphRootNodeId
     || state.expandedNodeIds.has(nodeId)
   );
-  contextToggleBookmarkButton.textContent = isBookmarked(nodeId) ? "Remove Bookmark" : "Bookmark Node";
-  contextDeleteCustomNodeButton.hidden = !isCustomNode;
+  contextOpenLocalGraphButton.innerHTML = contextMenuActionMarkup("Open Local Graph", "localGraph");
+  contextExpandNodeButton.innerHTML = contextMenuActionMarkup("Expand Neighbors", "expand");
+  contextToggleBookmarkButton.innerHTML = contextMenuActionMarkup(
+    isBookmarked(nodeId) ? "Remove Bookmark" : "Bookmark Node",
+    "bookmark",
+    { bookmarked: isBookmarked(nodeId) },
+  );
+  contextDeleteCustomNodeButton.innerHTML = contextMenuActionMarkup("Delete Custom Node", "trash");
+  contextDeleteCustomNodeButton.disabled = !isCustomNode;
+  contextDeleteCustomNodeButton.hidden = false;
   graphContextMenu.hidden = false;
   updateToolbarNodeActions();
 }
