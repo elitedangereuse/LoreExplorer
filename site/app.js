@@ -2701,6 +2701,9 @@ function clearActivePath(shouldRender = true) {
   saveInvestigationState();
   renderInvestigatorTools();
   if (shouldRender) {
+    if (wasPathFocus) {
+      syncLayout(true);
+    }
     if (wasPathFocus && state.graphRootNodeId) {
       fitGraph();
     } else {
@@ -2720,6 +2723,7 @@ function setPathFocus(enabled, shouldFit = true) {
   state.pathFocus = enabled && state.activePathNodeIds.length > 0;
   saveInvestigationState();
   renderInvestigatorTools();
+  syncLayout(true);
   if (shouldFit) {
     fitGraph();
   } else {
@@ -2802,6 +2806,7 @@ function applyPath(pathNodeIds, targetNodeId = null, { shouldFit = true, preserv
   saveInvestigationState();
   renderInvestigatorTools();
   setActiveView("explorer"); // Switch to explorer view to show the path
+  syncLayout(true);
   if (shouldFit) {
     fitGraph();
   } else {
@@ -5241,7 +5246,68 @@ function applyNeighborLayout(nodeId, resetPositions = true) {
   applyRadialNeighborLayout(layoutState, resetPositions);
 }
 
+function centerAnchoredNodes(nodes, resetPositions = true) {
+  if (!nodes.length) {
+    return;
+  }
+  const bounds = {
+    minX: Math.min(...nodes.map((node) => node.anchorX)),
+    maxX: Math.max(...nodes.map((node) => node.anchorX)),
+    minY: Math.min(...nodes.map((node) => node.anchorY)),
+    maxY: Math.max(...nodes.map((node) => node.anchorY)),
+  };
+  const centerX = (bounds.minX + bounds.maxX) / 2;
+  const centerY = (bounds.minY + bounds.maxY) / 2;
+  nodes.forEach((node) => {
+    setNodeAnchor(node, node.anchorX - centerX, node.anchorY - centerY, resetPositions);
+  });
+}
+
+function applyPathLayout(resetPositions = true) {
+  restoreGlobalLayout(false);
+  const pathNodes = state.activePathNodeIds
+    .map((nodeId) => state.nodeById.get(nodeId))
+    .filter(Boolean);
+  if (!pathNodes.length) {
+    return;
+  }
+  if (pathNodes.length === 1) {
+    setNodeAnchor(pathNodes[0], 0, 0, resetPositions);
+    return;
+  }
+
+  const rect = graphStage.getBoundingClientRect();
+  const aspectRatio = rect.width && rect.height ? rect.width / rect.height : 1.6;
+  const idealColumns = Math.ceil(Math.sqrt(pathNodes.length * Math.max(0.9, aspectRatio)));
+  const columnCount = pathNodes.length <= 6
+    ? pathNodes.length
+    : Math.max(4, Math.min(7, idealColumns));
+  const rowCount = Math.ceil(pathNodes.length / columnCount);
+  const columnSpacing = pathNodes.length <= 4 ? 164 : 142;
+  const rowSpacing = 126;
+
+  pathNodes.forEach((node, index) => {
+    const row = Math.floor(index / columnCount);
+    const rowStart = row * columnCount;
+    const rowLength = Math.min(columnCount, pathNodes.length - rowStart);
+    const indexInRow = index - rowStart;
+    const column = row % 2 === 0 ? indexInRow : rowLength - 1 - indexInRow;
+    const progress = rowLength > 1 ? indexInRow / (rowLength - 1) : 0.5;
+    const rowArc = rowCount === 1 ? Math.sin(progress * Math.PI) * 28 : 0;
+    const waveOffset = rowCount > 1 ? ((indexInRow % 2 === 0 ? -1 : 1) * 10) : 0;
+    const x = column * columnSpacing;
+    const y = row * rowSpacing + rowArc + waveOffset;
+    setNodeAnchor(node, x, y, resetPositions);
+  });
+
+  centerAnchoredNodes(pathNodes, resetPositions);
+}
+
 function syncLayout(resetPositions = true) {
+  if (state.detectiveMode && state.pathFocus && state.activePathNodeIds.length > 1) {
+    applyPathLayout(resetPositions);
+    return;
+  }
   if (state.neighborMode && state.graphRootNodeId) {
     applyNeighborLayout(state.graphRootNodeId, resetPositions);
     return;
