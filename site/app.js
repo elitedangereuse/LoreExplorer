@@ -169,12 +169,6 @@ const COLOR_MODES = new Set(["group", "links", "backlinks", "primary-tag"]);
 const SHAPE_MODES = new Set(["none", "semantic"]);
 const HIGHLIGHT_MODES = new Set(["none", "bridges", "outliers", "all"]);
 const INVESTIGATION_LINK_RE = /\[\[((?:node|id):([^[\]]+))(?:\]\[([^\]]+))?\]\]/g;
-const CUSTOM_NODE_STATE_META = {
-  evidence: { label: "Evidence", color: "#7ce38b" },
-  hypothesis: { label: "Hypothesis", color: "#63d8ea" },
-  question: { label: "Question", color: "#ffd46b" },
-  contradiction: { label: "Contradiction", color: "#ff8c6b" },
-};
 const STRUCTURAL_HIGHLIGHT_META = {
   bridge: { label: "Bridge", color: "#63d8ea" },
   outlier: { label: "Outlier", color: "#ff8c6b" },
@@ -700,27 +694,6 @@ function scoreNodeSize(degree = 0) {
   return Math.max(5.4, Math.min(13.5, 5 + (Math.log2((degree || 0) + 2) * 1.9)));
 }
 
-function normalizeCustomNodeState(value) {
-  if (typeof value !== "string") {
-    return "question";
-  }
-  return Object.hasOwn(CUSTOM_NODE_STATE_META, value) ? value : "question";
-}
-
-function getCustomNodeStateMeta(stateKey) {
-  return CUSTOM_NODE_STATE_META[normalizeCustomNodeState(stateKey)];
-}
-
-function renderCustomNodeStateBadge(stateKey) {
-  const meta = getCustomNodeStateMeta(stateKey);
-  return `
-    <span
-      class="note-meta-badge note-meta-badge-state"
-      style="--badge-color: ${escapeHtml(meta.color)}; --badge-color-soft: ${escapeHtml(rgbaFromHex(meta.color, 0.18))};"
-    >${escapeHtml(meta.label)}</span>
-  `;
-}
-
 function sanitizeCustomNode(raw, index = 0) {
   const id = typeof raw?.id === "string" && raw.id ? raw.id : generateId("custom-node");
   const title = typeof raw?.title === "string" && raw.title.trim() ? raw.title.trim() : `Untitled Lead ${index + 1}`;
@@ -733,7 +706,6 @@ function sanitizeCustomNode(raw, index = 0) {
     title,
     tags: tags.length ? tags : ["Investigation"],
     aliases,
-    state: normalizeCustomNodeState(raw?.state),
     x,
     y,
     createdAt: typeof raw?.createdAt === "string" ? raw.createdAt : timestamp(),
@@ -1006,7 +978,6 @@ function rebuildRuntimeGraphData() {
         outbound: 0,
         tags: customNode.tags || ["Investigation"],
         aliases: customNode.aliases || [],
-        customState: normalizeCustomNodeState(customNode.state),
         isCustom: true,
         layerId: layer.id,
       };
@@ -2910,10 +2881,6 @@ function render() {
     if (state.expandedNodeIds.has(node.id)) {
       strokeNodeHalo(shape, point.x, point.y, radius, 3, "#4dd0e1", 1.5, 0.95);
     }
-    if (node.isCustom) {
-      const stateMeta = getCustomNodeStateMeta(node.customState);
-      strokeNodeHalo(shape, point.x, point.y, radius, 2, stateMeta.color, 1.8, 0.9);
-    }
     structuralHighlights.forEach((highlight, index) => {
       strokeNodeHalo(shape, point.x, point.y, radius, 4 + (index * 2.8), highlight.color, 1.8, 0.96);
     });
@@ -3804,7 +3771,6 @@ function createCustomNodeRecord(title = "Untitled Lead") {
     title,
     tags: ["Investigation"],
     aliases: [],
-    state: "question",
     x: anchor.x + 48 + ((index % 4) * 18),
     y: anchor.y + 28 + ((index % 3) * 14),
     createdAt: timestamp(),
@@ -4440,10 +4406,7 @@ function renderInvestigatorTools() {
               <div class="saved-item">
                 <button type="button" class="saved-item-open" data-select-node="${escapeHtml(customNode.id)}">
                   <strong>${escapeHtml(customNode.title)}</strong>
-                  <small>${escapeHtml([
-                    getCustomNodeStateMeta(customNode.state).label,
-                    (customNode.tags || []).join(", "),
-                  ].filter(Boolean).join(" · "))}</small>
+                  <small>${escapeHtml((customNode.tags || []).join(", "))}</small>
                 </button>
                 <button type="button" class="mini-button is-danger" data-delete-custom-node="${escapeHtml(customNode.id)}">Delete</button>
               </div>
@@ -4866,14 +4829,12 @@ function renderNoteMetaPanel(node) {
   const layerBadge = node.isCustom
     ? `<span class="note-meta-badge">Layer Node · ${escapeHtml(getLayerById(node.layerId)?.name || "Investigation")}</span>`
     : '<span class="note-meta-badge">Canon Lore</span>';
-  const customStateBadge = node.isCustom ? renderCustomNodeStateBadge(node.customState) : "";
   return `
     <div class="note-meta-stack">
       ${renderSearchCompletionsPanel()}
       <div class="note-tag-list">${renderTagButtons(node)}</div>
       <div class="note-inline-meta">
         ${layerBadge}
-        ${customStateBadge}
         <span class="note-meta-badge">${escapeHtml(node.group || "node")}</span>
       </div>
     </div>
@@ -5075,14 +5036,6 @@ function renderCustomNodeEditor(node) {
           <input id="custom-node-title-input" type="text" value="${escapeHtml(customNode.title)}" />
         </label>
         <div class="custom-node-field-grid">
-          <label class="custom-node-field">
-            <span>State</span>
-            <select id="custom-node-state-input">
-              ${Object.entries(CUSTOM_NODE_STATE_META).map(([stateKey, meta]) => `
-                <option value="${escapeHtml(stateKey)}" ${customNode.state === stateKey ? "selected" : ""}>${escapeHtml(meta.label)}</option>
-              `).join("")}
-            </select>
-          </label>
           <label class="custom-node-field">
             <span>Tags</span>
             <input id="custom-node-tags-input" type="text" value="${escapeHtml((customNode.tags || []).join(", "))}" placeholder="tag, another tag" />
@@ -7351,15 +7304,6 @@ function bindEvents() {
       render();
       return;
     }
-    if (event.target.id === "custom-node-state-input" && currentId) {
-      updateCustomNode(currentId, {
-        state: normalizeCustomNodeState(event.target.value),
-      });
-      updateCurrentNoteMeta();
-      renderInvestigatorTools();
-      render();
-      return;
-    }
     if (event.target.id === "custom-node-aliases-input" && currentId) {
       updateCustomNode(currentId, {
         aliases: sanitizeStringList(event.target.value.split(",").map((value) => value.trim())),
@@ -7380,12 +7324,6 @@ function bindEvents() {
       return;
     }
     if (event.target.id === "custom-node-tags-input") {
-      loadNote(currentId);
-      renderInvestigatorTools();
-      render();
-      return;
-    }
-    if (event.target.id === "custom-node-state-input") {
       loadNote(currentId);
       renderInvestigatorTools();
       render();

@@ -1992,12 +1992,11 @@ code {
 
 .custom-node-field-grid {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 10px;
 }
 
 .custom-node-field input,
-.custom-node-field select,
 .investigation-note-editor {
   width: 100%;
   padding: 10px 12px;
@@ -2008,17 +2007,10 @@ code {
 }
 
 .custom-node-field input:focus,
-.custom-node-field select:focus,
 .investigation-note-editor:focus {
   outline: none;
   border-color: rgba(99, 216, 234, 0.5);
   box-shadow: 0 0 0 4px rgba(99, 216, 234, 0.12);
-}
-
-.note-meta-badge-state {
-  border-color: var(--badge-color);
-  background: var(--badge-color-soft);
-  color: var(--badge-color);
 }
 
 .investigation-note-editor {
