@@ -4819,9 +4819,6 @@ function updateUrlState() {
   if (state.inspectNodeId && state.inspectNodeId !== state.graphRootNodeId) {
     hash.set("inspect", state.inspectNodeId);
   }
-  if (state.neighborMode) {
-    hash.set("view", "neighbors");
-  }
   if (state.activeTagFilter) {
     hash.set("tag", state.activeTagFilter);
   }
