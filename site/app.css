@@ -1954,6 +1954,7 @@ code {
 .investigation-note-actions {
   align-items: center;
   flex-wrap: wrap;
+  justify-content: flex-end;
 }
 
 .custom-node-card {

@@ -149,6 +149,8 @@ const state = {
   sharedNeighborRightId: null,
   detectiveSearchQuery: "",
   detectiveSearchTarget: null, // 'pathFrom' | 'pathTo' | 'sharedLeft' | 'sharedRight'
+  investigationNoteView: "preview",
+  noteEditorAutoFocus: false,
 };
 
 const INVESTIGATION_STORAGE_KEY = "org-roam-investigator-v1";
@@ -4452,24 +4454,33 @@ function renderInvestigationNoteEditor(node) {
     return "";
   }
   const noteText = state.nodeNotes[node.id] || "";
+  const isEditMode = state.investigationNoteView === "edit";
   return `
     <section class="investigation-note-card">
       <div class="investigation-note-card-header">
         <div class="tool-card-title">Notes</div>
         <div class="investigation-note-actions">
-          <button type="button" class="mini-button" data-open-note-link-picker="${escapeHtml(node.id)}">Link selected text</button>
-          ${state.noteLinkPickerNodeId === node.id ? '<button type="button" class="mini-button" data-close-note-link-picker="true">Close linker</button>' : ""}
+          ${isEditMode ? `<button type="button" class="mini-button" data-open-note-link-picker="${escapeHtml(node.id)}">Link selected text</button>` : ""}
+          ${isEditMode && state.noteLinkPickerNodeId === node.id ? '<button type="button" class="mini-button" data-close-note-link-picker="true">Close linker</button>' : ""}
+          <button
+            type="button"
+            class="mini-button"
+            data-toggle-note-view="true"
+          >${isEditMode ? "Preview" : "Edit"}</button>
         </div>
       </div>
-      <textarea
-        id="node-note-editor"
-        class="investigation-note-editor"
-        placeholder="Write investigation notes. Select text, then link it to another node."
-      >${escapeHtml(noteText)}</textarea>
-      <div id="note-link-picker-container">${renderNoteLinkPicker(node.id)}</div>
-      <div class="investigation-note-preview">
-        ${noteText.trim() ? renderInvestigationNoteHtml(noteText) : '<div class="tool-empty">No investigation note yet.</div>'}
-      </div>
+      ${isEditMode ? `
+        <textarea
+          id="node-note-editor"
+          class="investigation-note-editor"
+          placeholder="Write investigation notes. Select text, then link it to another node."
+        >${escapeHtml(noteText)}</textarea>
+        <div id="note-link-picker-container">${renderNoteLinkPicker(node.id)}</div>
+      ` : `
+        <div class="investigation-note-preview">
+          ${noteText.trim() ? renderInvestigationNoteHtml(noteText) : '<div class="tool-empty">No investigation note yet.</div>'}
+        </div>
+      `}
     </section>
   `;
 }
@@ -4591,13 +4602,17 @@ function renderNoteSurface(node, baseMarkup) {
   decorateNoteTitle(node);
   noteMeta.innerHTML = renderNoteMetaPanel(node);
   requestAnimationFrame(() => {
-    if (state.noteCursorNodeId === node.id) {
-      const textarea = document.getElementById("node-note-editor");
-      if (textarea) {
+    const textarea = document.getElementById("node-note-editor");
+    if (state.noteCursorNodeId === node.id && textarea) {
         const end = Math.min(state.noteCursorEnd, textarea.value.length);
         const start = Math.min(state.noteCursorStart, end);
         textarea.setSelectionRange(start, end);
-      }
+    }
+    if (state.noteEditorAutoFocus && textarea) {
+      textarea.focus();
+      state.noteEditorAutoFocus = false;
+    } else {
+      state.noteEditorAutoFocus = false;
     }
     if (state.noteLinkPickerNodeId === node.id) {
       document.getElementById("note-link-query-input")?.focus();
@@ -4661,6 +4676,22 @@ function closeNoteLinkPicker() {
   state.noteLinkQuery = "";
   state.noteLinkSelectionText = "";
   refreshNoteLinkPickerUI();
+}
+
+function setInvestigationNoteView(view, { focusEditor = false } = {}) {
+  const nextView = view === "edit" ? "edit" : "preview";
+  if (state.investigationNoteView === nextView && (!focusEditor || nextView !== "edit")) {
+    return;
+  }
+  state.investigationNoteView = nextView;
+  if (nextView !== "edit") {
+    closeNoteLinkPicker();
+  }
+  state.noteEditorAutoFocus = focusEditor && nextView === "edit";
+  const nodeId = currentNodeId();
+  if (nodeId && state.nodeById.has(nodeId)) {
+    loadNote(nodeId);
+  }
 }
 
 function openNoteLinkPicker(nodeId) {
@@ -6509,6 +6540,13 @@ function bindEvents() {
     if (deleteCustomNodeButton) {
       event.preventDefault();
       confirmDeleteCustomNode(deleteCustomNodeButton.dataset.deleteCustomNode);
+      return;
+    }
+    const noteViewButton = event.target.closest("[data-toggle-note-view]");
+    if (noteViewButton) {
+      event.preventDefault();
+      const nextView = state.investigationNoteView === "edit" ? "preview" : "edit";
+      setInvestigationNoteView(nextView, { focusEditor: nextView === "edit" });
       return;
     }
     const openLinkPickerButton = event.target.closest("[data-open-note-link-picker]");
