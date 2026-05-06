@@ -1944,32 +1944,62 @@ function stepDynamicGraphSimulation(dtSeconds) {
   if (visibleNodes.length <= 1 || visibleNodes.length > state.dynamicGraphThreshold) {
     return false;
   }
+  const nodeCount = visibleNodes.length;
   const visibleNodeIds = new Set(visibleNodes.map((node) => node.id));
   const visibleEdges = getVisibleEdgeRefs().filter((edge) => (
     visibleNodeIds.has(edge.source.id) && visibleNodeIds.has(edge.target.id)
   ));
-  const forces = new Map(visibleNodes.map((node) => [node.id, { x: 0, y: 0 }]));
-  const anchorStrength = 9.5;
-  const linkStrength = 3.6;
-  const repulsionStrength = 30000;
-  const collisionStrength = 22;
-  const damping = 0.82;
+  const densityFactor = clamp((nodeCount - 36) / 64, 0, 1);
+  const anchorStrength = 9.5 + (densityFactor * 4.8);
+  const linkStrength = 3.6 + (densityFactor * 1.5);
+  const repulsionStrength = 30000 - (densityFactor * 7000);
+  const collisionStrength = 22 + (densityFactor * 6);
+  const damping = 0.82 - (densityFactor * 0.08);
+  const maxSpeed = 220 + (densityFactor * 80);
+  const substeps = nodeCount >= 72 ? 2 : 1;
+  const stepDt = dtSeconds / substeps;
   let totalMotion = 0;
 
-  for (const node of visibleNodes) {
-    const force = forces.get(node.id);
-    force.x += (node.anchorX - node.x) * anchorStrength;
-    force.y += (node.anchorY - node.y) * anchorStrength;
-  }
+  for (let substep = 0; substep < substeps; substep += 1) {
+    const forces = new Map(visibleNodes.map((node) => [node.id, { x: 0, y: 0 }]));
 
-  for (let index = 0; index < visibleNodes.length; index += 1) {
-    const left = visibleNodes[index];
-    const leftForce = forces.get(left.id);
-    for (let inner = index + 1; inner < visibleNodes.length; inner += 1) {
-      const right = visibleNodes[inner];
-      const rightForce = forces.get(right.id);
-      let dx = right.x - left.x;
-      let dy = right.y - left.y;
+    for (const node of visibleNodes) {
+      const force = forces.get(node.id);
+      force.x += (node.anchorX - node.x) * anchorStrength;
+      force.y += (node.anchorY - node.y) * anchorStrength;
+    }
+
+    for (let index = 0; index < visibleNodes.length; index += 1) {
+      const left = visibleNodes[index];
+      const leftForce = forces.get(left.id);
+      for (let inner = index + 1; inner < visibleNodes.length; inner += 1) {
+        const right = visibleNodes[inner];
+        const rightForce = forces.get(right.id);
+        let dx = right.x - left.x;
+        let dy = right.y - left.y;
+        let distanceSq = dx * dx + dy * dy;
+        if (distanceSq < 1) {
+          dx = 1;
+          dy = 0;
+          distanceSq = 1;
+        }
+        const distance = Math.sqrt(distanceSq);
+        const minDistance = 34 + (left.size + right.size) * 2.2;
+        const repel = repulsionStrength / (distanceSq + 200);
+        const overlap = Math.max(0, minDistance - distance);
+        const separation = repel + overlap * collisionStrength;
+        const offsetX = (dx / distance) * separation;
+        const offsetY = (dy / distance) * separation;
+        leftForce.x -= offsetX;
+        leftForce.y -= offsetY;
+        rightForce.x += offsetX;
+        rightForce.y += offsetY;
+      }
+    }
+
+    for (const edge of visibleEdges) {
+      let dx = edge.target.x - edge.source.x;
+      let dy = edge.target.y - edge.source.y;
       let distanceSq = dx * dx + dy * dy;
       if (distanceSq < 1) {
         dx = 1;
@@ -1977,53 +2007,31 @@ function stepDynamicGraphSimulation(dtSeconds) {
         distanceSq = 1;
       }
       const distance = Math.sqrt(distanceSq);
-      const minDistance = 34 + (left.size + right.size) * 2.2;
-      const repel = repulsionStrength / (distanceSq + 200);
-      const overlap = Math.max(0, minDistance - distance);
-      const separation = repel + overlap * collisionStrength;
-      const offsetX = (dx / distance) * separation;
-      const offsetY = (dy / distance) * separation;
-      leftForce.x -= offsetX;
-      leftForce.y -= offsetY;
-      rightForce.x += offsetX;
-      rightForce.y += offsetY;
+      const desiredDistance = 56 + ((edge.source.size + edge.target.size) * 3.2);
+      const stretch = distance - desiredDistance;
+      const springForce = stretch * linkStrength;
+      const offsetX = (dx / distance) * springForce;
+      const offsetY = (dy / distance) * springForce;
+      forces.get(edge.source.id).x += offsetX;
+      forces.get(edge.source.id).y += offsetY;
+      forces.get(edge.target.id).x -= offsetX;
+      forces.get(edge.target.id).y -= offsetY;
     }
-  }
 
-  for (const edge of visibleEdges) {
-    let dx = edge.target.x - edge.source.x;
-    let dy = edge.target.y - edge.source.y;
-    let distanceSq = dx * dx + dy * dy;
-    if (distanceSq < 1) {
-      dx = 1;
-      dy = 0;
-      distanceSq = 1;
+    for (const node of visibleNodes) {
+      const force = forces.get(node.id);
+      node.vx = (node.vx + force.x * stepDt) * damping;
+      node.vy = (node.vy + force.y * stepDt) * damping;
+      const speed = Math.hypot(node.vx, node.vy);
+      if (speed > maxSpeed) {
+        const scale = maxSpeed / speed;
+        node.vx *= scale;
+        node.vy *= scale;
+      }
+      node.x += node.vx * stepDt;
+      node.y += node.vy * stepDt;
+      totalMotion += Math.abs(node.vx) + Math.abs(node.vy);
     }
-    const distance = Math.sqrt(distanceSq);
-    const desiredDistance = 56 + ((edge.source.size + edge.target.size) * 3.2);
-    const stretch = distance - desiredDistance;
-    const springForce = stretch * linkStrength;
-    const offsetX = (dx / distance) * springForce;
-    const offsetY = (dy / distance) * springForce;
-    forces.get(edge.source.id).x += offsetX;
-    forces.get(edge.source.id).y += offsetY;
-    forces.get(edge.target.id).x -= offsetX;
-    forces.get(edge.target.id).y -= offsetY;
-  }
-
-  for (const node of visibleNodes) {
-    const force = forces.get(node.id);
-    node.vx = (node.vx + force.x * dtSeconds) * damping;
-    node.vy = (node.vy + force.y * dtSeconds) * damping;
-    const speed = Math.hypot(node.vx, node.vy);
-    if (speed > 220) {
-      const scale = 220 / speed;
-      node.vx *= scale;
-      node.vy *= scale;
-    }
-    node.x += node.vx * dtSeconds;
-    node.y += node.vy * dtSeconds;
-    totalMotion += Math.abs(node.vx) + Math.abs(node.vy);
   }
 
   return totalMotion > 0.02;
