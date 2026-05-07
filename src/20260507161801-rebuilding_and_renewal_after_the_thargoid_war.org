@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       58eef643-dfbc-40a1-8c26-749090d96e92
+:END:
+#+title: Rebuilding and Renewal After the Thargoid War
+#+filetags: :3311:galnet:
+
+* Rebuilding and Renewal After the Thargoid War
+
+/18 Jun 3311/
+
+Six months have passed since the [[id:287f5f56-820c-4802-8af0-fee7573203ca][Battle for Sol]] culminated in the destruction of Titan [[id:fbe81b20-15a4-466e-85a6-50816c6e2a99][Cocijo]]. With the alien threat repelled, communities across the core systems are beginning to rebuild economies, infrastructure - and hope.
+
+Stations which suffered caustic devastation have long since restored full services. Local economies have bounced back and, in some cases, flourished thanks to the recent wave of new [[id:d1f19609-fdb7-4991-bcb2-e93435f013d0][colonisation]] efforts.
+
+Across the bubble both small ceremonies and large public events have taken place. Memorials for the dead, celebrations of brave pilots who engaged the alien threat, and spiritual guidance in the aftermath are common occasions. A memorial beacon deployed near the remains of the Titan wreckage in [[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]] draws visitors from across the bubble, the site representing both a crucial victory and a tragic loss of life.
+
+Sociologists note a wave of emigration from systems heavily affected by the war. Many displaced by the loss of homes and industries have chosen to begin anew, joining [[id:d1f19609-fdb7-4991-bcb2-e93435f013d0][colonisation]] efforts in uninhabited systems. "There’s pain in starting over," said one settler interviewed at [[id:1f2443b6-a2eb-4230-9df4-a5da0d0cbe91][the Senenmut]], an Orbis station recently commissioned by CMDR [[id:98306270-77b9-4380-95b4-28663b07fe9f][StellarCartographer]] in the [[id:75735ac0-bd39-4d84-9d5a-13bd3d768fb0][HIP 18085]] system. “But there's pride too. We’ve survived. We’re building something better."
+
+While [[id:85d9e888-3f5b-40ed-b8af-2eb87e42b0d0][Aegis]] and the superpowers continue to monitor for new Thargoid signals, humanity’s victory in the [[id:9a246121-0c2e-4f21-9877-ee333d6b0d6c][Second Thargoid War]] showed a rare sense of unity against a common enemy. Commodore [[id:85193a1a-3701-4548-984a-4e3b9cf56599][Morayo Orina]] of the [[id:3d268496-1d95-49bc-aca6-49d16a4337c8][Federal Navy]] summed up the mood at a [[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]] memorial service:
+
+"The fight for survival revealed our flaws, but also our strength. We honour those we lost by choosing to live boldly.”

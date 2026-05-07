@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       75735ac0-bd39-4d84-9d5a-13bd3d768fb0
+:END:
+#+title: HIP 18085
+#+filetags: :System:
+
+System hosting [[id:1f2443b6-a2eb-4230-9df4-a5da0d0cbe91][the Senenmut]].
