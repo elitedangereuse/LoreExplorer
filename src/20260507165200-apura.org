@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       08b61168-83c6-4ef7-a9fc-9d6ccdbf9a3a
+:END:
+#+title: Apura
+#+filetags: :System:
+
+Alliance system hosting [[id:7742cf0e-a818-4fb6-a4f8-9f9622d8efd8][Fuca
+Dock]].
