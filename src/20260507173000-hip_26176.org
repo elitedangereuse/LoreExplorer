@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       4a4f0979-0aca-4c6f-b0cb-953124684485
+:END:
+#+title: HIP 26176
+#+filetags: :System:
+
+System containing [[id:586aa56a-86e4-49f1-a2f7-b49367083b1e][Oaken Point]], one of the known [[id:4668be49-dfb5-4946-ac42-e74530553fd9][Project Seraph]] sites tied to [[id:6bcd90ab-54f2-4d9a-9eeb-92815cc7766e][Subject D-2]].
