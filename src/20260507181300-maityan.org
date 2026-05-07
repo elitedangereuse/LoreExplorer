@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       9b335ec8-ee70-4ef4-9138-283bbe285f0d
+:END:
+#+title: Maityan
+#+filetags: :System:
+
+System hosting [[id:854f6830-7579-4ff0-b49c-9b7f12cf7938][Maughmer Ring]].
