@@ -3,7 +3,7 @@
 :ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Tiana_Fortune
 :END:
 #+title: Tiana Fortune
-#+filetags: :Empire:Individual:Permit:engineer:
+#+filetags: :Individual:engineer:
 
 #+begin_quote
 Tiana Fortune is an electronic-engineering genius who is rumoured to
