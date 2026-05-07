@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       e6801f23-b419-47e6-abcc-6089d12ea4c1
+:END:
+#+title: Panther Clipper
+#+filetags: :3311:ship:
+
+Ship by [[id:d24ee8f5-e2ec-4c71-b5fa-afc2d9710141][Zorgon Peterson]] released in 3311
+
+[[file:img/ships/forc_fdev_v_panther_mkii_bundle_001-03.jpg]]
