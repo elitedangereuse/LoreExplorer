@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       f8afd957-7349-4913-8777-7d5d90c6f297
+:END:
+#+title: Klikis
+#+filetags: :System:
+
+System hosting the Trailblazer Promise megaship of [[id:d9459015-dae3-4233-9eb7-a2fb11344097][Brewer Corporation]] in 3311.

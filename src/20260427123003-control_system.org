@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       1aaf6f29-ef6a-430c-b4e4-f40cf903a7a9
+:ROAM_REFS: https://hosting.zaonce.net/elite/website/assets/English-PlayersGuide-Latest.pdf
 :ROAM_ALIASES: Control Systems
 :END:
 #+title: Control System
@@ -16,4 +17,3 @@ A control system automatically draws CC income from nearby
 through [[id:4bd5f9da-c3b3-4f5f-b4de-bd668b992a63][Fortification]], while opponents can increase its cost through
 [[id:f504ce39-d67a-4b06-93d1-3c82afa83e10][Undermining]]. When upkeep becomes unsustainable, a control system
 can enter [[id:77774790-2861-4ffe-b8b9-6e75effa38a8][Turmoil]].
-

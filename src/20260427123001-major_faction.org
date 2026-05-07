@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       ecd67dbd-9790-48f2-bfa3-710dde96c2d3
+:ROAM_REFS: https://hosting.zaonce.net/elite/website/assets/English-PlayersGuide-Latest.pdf
 :ROAM_ALIASES: Superpower
 :END:
 #+title: Major Faction
@@ -14,4 +15,3 @@ Many [[id:43c9c067-4718-4d81-99eb-d73467c36937][Minor Faction]]s align themselve
 its laws and customs. In [[id:4ed9ac75-9ddc-4533-bc21-00a775fbc0ee][Powerplay]], powers sit between major and
 minor factions: often aligned with a superpower, but still acting as
 independent strategic actors.
-

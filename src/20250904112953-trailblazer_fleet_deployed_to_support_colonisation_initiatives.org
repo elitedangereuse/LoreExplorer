@@ -26,14 +26,14 @@ The Trailblazer fleet has been deployed to the following star systems:
 
 Trailblazer Dream - [[id:0a9dd112-c2a6-47d8-9056-a334912820bf][HIP 90578]]
 
-Trailblazer Song - Orgen
+Trailblazer Song - [[id:d86f4f46-ea24-4af9-8cd4-a6cdb5fc9a00][Orgen]]
 
-Trailblazer Wish - Bletii
+Trailblazer Wish - [[id:1ea66555-c397-4a1a-a2ab-04bf7ea9cf0a][Bletii]]
 
-Trailblazer Star - 34 Omicron Cephei
+Trailblazer Star - [[id:65ec1f32-a0b2-4818-8cf4-c9fdd6c6afeb][34 Omicron Cephei]]
 
-Trailblazer Promise - Klikis
+Trailblazer Promise - [[id:f8afd957-7349-4913-8777-7d5d90c6f297][Klikis]]
 
-Trailblazer Faith - Ngobe
+Trailblazer Faith - [[id:cc2c0eca-7b63-4ae5-bd9d-e7480c183d4d][Ngobe]]
 
 [[id:454c41b7-95ca-4e7e-94d4-c8a3f9d61d0e][Trailblazer Echo]] has returned to the Minerva system.

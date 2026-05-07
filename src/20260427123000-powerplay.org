@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       4ed9ac75-9ddc-4533-bc21-00a775fbc0ee
+:ROAM_REFS: https://hosting.zaonce.net/elite/website/assets/English-PlayersGuide-Latest.pdf
 :END:
 #+title: Powerplay
 #+filetags: :manual:Federation:Empire:Alliance:
@@ -15,4 +16,3 @@ A power expands by establishing [[id:1aaf6f29-ef6a-430c-b4e4-f40cf903a7a9][Contr
 position through [[id:4bd5f9da-c3b3-4f5f-b4de-bd668b992a63][Fortification]] while resisting
 [[id:f504ce39-d67a-4b06-93d1-3c82afa83e10][Undermining]]. If a power cannot cover its upkeep costs, its
 territory can fall into [[id:77774790-2861-4ffe-b8b9-6e75effa38a8][Turmoil]] and eventually revolt.
-
