@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       4bd5f9da-c3b3-4f5f-b4de-bd668b992a63
+:ROAM_REFS: https://hosting.zaonce.net/elite/website/assets/English-PlayersGuide-Latest.pdf
 :END:
 #+title: Fortification
 #+filetags: :manual:Federation:Empire:Alliance:
@@ -11,4 +12,3 @@ burden and strengthen the power's position.
 
 Fortification resets when the next Powerplay cycle begins, so it must
 be renewed each week.
-

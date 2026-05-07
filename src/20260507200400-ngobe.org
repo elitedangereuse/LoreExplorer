@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       cc2c0eca-7b63-4ae5-bd9d-e7480c183d4d
+:END:
+#+title: Ngobe
+#+filetags: :System:
+
+System hosting the Trailblazer Faith megaship of [[id:d9459015-dae3-4233-9eb7-a2fb11344097][Brewer Corporation]] in 3311.

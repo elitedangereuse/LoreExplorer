@@ -4,6 +4,24 @@ Discover the [Elite Dangerous Lore Explorer](https://elitedangereuse.github.io/L
 
 This uses the [Zettelkasten method](https://www.orgroam.com/manual.html#A-Brief-Introduction-to-the-Zettelkasten-Method) and org-roam to create a new approach to the official Elite Dangerous lore.
 
+## Lore Explorer Features
+
+The Lore Explorer currently provides:
+
+- Home view clustering now groups the full corpus into large thematic communities instead of dropping you into a raw hairball.
+- Detective mode adds custom investigation layers, layer export/import as JSON, and ready-to-share sample investigations.
+- Path tracing can now highlight routes through the lore graph and present them in a dedicated readable layout.
+- Bookmarks, shareable node links, and shareable tag-filter URLs make it easier to return to or share a specific slice of the graph.
+- Search is more capable, with title search staying fast and an optional full-content search mode for note bodies.
+- The graph UI now includes a number of usability upgrades such as dynamic layouts for smaller views, better mobile interaction, persistent display settings, and visible node/link counts.
+
+Rough current scale:
+
+- `6,953` notes
+- `17,383` graph links
+- `39` top-level groups
+- `14` clustered home-view communities
+
 ## Sample Investigation Layer
 
 Detective mode supports importing and exporting investigation layers as JSON files. A ready-to-import sample layer is available here:

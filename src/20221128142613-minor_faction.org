@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       43c9c067-4718-4d81-99eb-d73467c36937
+:ROAM_REFS: https://hosting.zaonce.net/elite/website/assets/English-PlayersGuide-Latest.pdf
 :END:
 #+title: Minor Faction
 #+filetags: :manual:Federation:Empire:Alliance:
@@ -12,4 +13,3 @@ system. The players guides distinguish minor factions from
 Many minor factions align themselves with one of the major factions and
 adopt its laws and customs, but they retain their own local
 jurisdictions and reputations.
-
