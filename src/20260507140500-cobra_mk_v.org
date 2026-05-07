@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       6de994cc-c0c9-4d5d-bc14-0b0a202e624a
+:END:
+#+title: Cobra Mk V
+#+filetags: :ship:
+
+Multipurpose ship manufactured by
+[[id:273d7834-fe3f-4b12-b045-d5d8a62e719a][Faulcon DeLacy]]. Released more
+widely in 3311 after an earlier limited release.
+
+The Cobra Mk V is presented as the latest evolution of the Cobra line,
+with improved handling, modularity, and enhanced compatibility with
+[[id:bb129165-335b-4dc9-9cf0-ee6640728a92][SCO]]-enabled
+[[id:46a9c980-af48-4e43-a820-9971d7c76c34][frame shift drives]]. It follows
+earlier Cobra designs such as the [[id:83299a14-b6b0-4670-ba39-2914e05ed2f5][Cobra Mk III]].
+
+[[file:img/ships/forc_fdev_v_cobramkv_bundle_001-base.jpg]]
