@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       3e5807d5-1896-49ee-ba1f-6dff0875148f
+:END:
+#+title: Battle at Beta-3 Tucani Ends, Empire Declares Victory
+#+filetags: :3311:galnet:
+
+* Battle at Beta-3 Tucani Ends, Empire Declares Victory
+
+/26 Jun 3311/
+
+The conflict between Imperial forces and [[id:7aae0550-b8ba-42cf-b52b-e7040461c96f][Archon Delaine]] in the [[id:defa824f-5321-427d-9a8c-48519f68d2be][Beta-3 Tucani]] system has concluded, with analysts confirming a clear victory for the [[id:77cf2f14-105e-4041-af04-1213f3e7383c][Empire]].
+
+The system became a flashpoint after [[id:45d78e5d-27b7-48cb-97b2-012934be3180][Imperial Intelligence]] launched an operation aimed at weakening Delaine’s influence and driving [[id:c3e37a62-0f8f-4c17-ae77-9b10642c4a06][the Mictlan]] megaship from the region. Both sides called upon independent pilots to support their efforts, resulting in widespread clashes across the system.
+
+Supporters of the [[id:77cf2f14-105e-4041-af04-1213f3e7383c][Empire]] successfully repelled Delaine’s forces and dealt a severe blow to pirate operations in the system. [[id:45d78e5d-27b7-48cb-97b2-012934be3180][Imperial Intelligence]] claimed success in its objective to force [[id:c3e37a62-0f8f-4c17-ae77-9b10642c4a06][the Mictlan]] into retreat, though [[id:7aae0550-b8ba-42cf-b52b-e7040461c96f][Delaine]] appears to have survived the assault.
+
+A spokesperson for Emperor [[id:34f3cfdd-0536-40a9-8732-13bf3a5e4a70][Arissa Lavigny-Duval]] praised the outcome:
+
+“Every Commander who fought under an Imperial banner has helped deliver a sharp message to any would-be aggressor against the [[id:77cf2f14-105e-4041-af04-1213f3e7383c][Empire]]. Emperor Arissa’s will has been realised in this system.”
+
+To add further insult, it was revealed that an Imperial agent had managed to infiltrate [[id:c3e37a62-0f8f-4c17-ae77-9b10642c4a06][the Mictlan]] and hack the internal holoscreens to display Imperial propaganda prior to departure.
