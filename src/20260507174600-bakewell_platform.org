@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       c4a2bd6d-61b2-462c-92a5-f33a199a84b4
+:END:
+#+title: Bakewell Platform
+
+Station in [[id:defa824f-5321-427d-9a8c-48519f68d2be][Beta-3 Tucani]].
