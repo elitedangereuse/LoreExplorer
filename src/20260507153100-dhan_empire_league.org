@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       8fa8ad64-7ea9-4d02-aab1-5afb95c5ca53
+:END:
+#+title: Dhan Empire League
+
+Local faction in [[id:a21cd831-8c85-4efe-8ee0-e3e4d4d8eb9f][Dhan]] involved in
+the system's anti-piracy response.
