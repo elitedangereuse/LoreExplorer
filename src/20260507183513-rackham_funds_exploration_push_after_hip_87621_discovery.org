@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       45154157-39a6-4f43-a137-904a42af201f
+:END:
+#+title: Rackham Funds Exploration Push After HIP 87621 Discovery
+#+filetags: :3311:galnet:
+
+* Rackham Funds Exploration Push After HIP 87621 Discovery
+
+/08 Sep 3311/
+
+The mystery surrounding the permit-locked [[id:64e3ad83-30b5-41fc-bde5-8eb63c38ab83][HIP 87621]] system continues, with claims of unusual planetary signatures detected via long-range scan.
+
+Many independent pilots have also reported that all [[id:d1f19609-fdb7-4991-bcb2-e93435f013d0][colonisation]] has been blocked within a 37ly radius, fuelling speculation further.
+
+While authorities remain tight-lipped, multiple independent analysts claim that at least one world within the system is exhibiting anomalous exobiological readings. These findings have prompted the galaxy’s wealthiest citizen, [[id:e26683e6-6b19-4671-8676-f333bd5e8ff7][Zachary Rackham]], to offer a lucrative incentive for explorers willing to examine the puzzle via cross-reference.
+
+Rackham, speaking from his villa on Lake Rackham on [[id:e6301a0e-09a7-4828-b5fb-1f6f7c998786][Homeland]], said:
+
+“Whatever’s in HIP 87621 is strange enough to have the boffins scratching their heads. Therefore, I propose scouring every corner of the galaxy for similar planets. With enough data, maybe our top scientists will be able to confirm that these anomalous readings are indeed unique to this mysteriously locked system!”
+
+“Of course, I will be funding this initiative personally. No expense spared for our brave heroes in the science and research fields!”
+
+ Independent pilots are being asked to locate and conduct full scans of Rocky and High Metal Content worlds, the same classifications as those of interest within the system. The resulting data will be collated and analysed by scientific experts sponsored by [[id:83c8d091-0fde-4836-b6bc-668b9a221207][Rackham Capital Investments]], with results expected to be shared publicly at a later date.
