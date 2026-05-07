@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       1f2443b6-a2eb-4230-9df4-a5da0d0cbe91
+:END:
+#+title: The Senenmut
+#+filetags: :Station:
+
+Orbis station in [[id:75735ac0-bd39-4d84-9d5a-13bd3d768fb0][HIP 18085]], commissioned by CMDR [[id:98306270-77b9-4380-95b4-28663b07fe9f][StellarCartographer]].
