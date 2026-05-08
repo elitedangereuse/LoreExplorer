@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       9f7c6b8e-e18d-47fe-a3b9-96f9f3bc3218
+:END:
+#+title: Squadron Mining Perk
+#+filetags: :Concept:
+
+One of the available [[id:43cb9d18-91f3-4534-9fbf-967aa3d74fc4][Squadron Perks]]. In 3311, GalNet noted a permanent boost to this perk alongside the successful trials of the [[id:63529529-bb50-4c71-9fd8-cbc7ed723347][Type-11 Prospector]].
