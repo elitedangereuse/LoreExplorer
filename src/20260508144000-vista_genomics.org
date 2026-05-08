@@ -4,4 +4,8 @@
 #+title: Vista Genomics
 #+filetags: :Corporation:
 
-Exobiology company that purchases and analyses genetic data collected by independent pilots.
+Exobiology company that purchases and analyses genetic data collected by independent pilots. Its services support [[id:639e4adf-a977-44b2-ad57-dbc51fe83e36][exobiology]] by buying completed [[id:70557ed0-463a-4cb3-99a8-379ab456e61a][Biological Sample]] data gathered with the [[id:cacdbf9c-073f-4a50-ba65-4ab16938c6a4][Genetic Sampler]].
+
+Vista Genomics vendors can operate on ports, megaships and [[id:28dcc8eb-311b-416d-af66-5b9922625d6d][fleet carriers]]. In 3308 the company increased payouts for biodata and offered its genetic database to ongoing research into the approaching rogue signal sources and wider [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] threat.
+
+Its services were later added across the [[id:97a8c7e5-9399-4ebe-9457-8029ce809303][Colonia Bridge]] starports, and in 3311 it accepted survey data from [[id:64e3ad83-30b5-41fc-bde5-8eb63c38ab83][HIP 87621]] at [[id:c3b39668-e5bc-48d7-ab11-fc031e720fd2][Exogene Sciences]].

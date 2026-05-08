@@ -10,14 +10,14 @@
 
 *Pilots’ Federation ALERT* 
 
-The exobiology company Vista Genomics has increased payments for genetic data collected by independent pilots. 
+The exobiology company [[id:58a7f8bd-897e-47a3-bc42-1456d15dce3e][Vista Genomics]] has increased payments for genetic data collected by independent pilots.
 
-Dr Klaus-Peter Sonnek , one of the corporation’s research directors, outlined the changes in a press release: 
+Dr [[id:1d91c64b-9150-4789-a3ac-523369367c44][Klaus-Peter Sonnek]], one of the corporation’s research directors, outlined the changes in a press release:
 
 “Public and corporate interest in xenology-related fields remains high, but recent Thargoid aggression has increased the risk in collecting of such data. Vista Genomics is well-placed to incentivise the continued collection of samples. Therefore, we can officially confirm that substantially improved financial rewards will be offered for all genetic data submitted via our outlets.” 
 
 “We are also aware of many civil and military projects focusing on the Thargoids, a species that makes extensive use of biomechanical technology. There is enormous value in gathering as much exobiology data as possible to provide comparative baselines for anti-xeno research efforts.” 
 
-Commanders can use the Genetic Sampler tool to acquire genetic data from various species of alien flora found on planetary surfaces. This can be sold on the concourses of ports, megaships and fleet carriers which have an active Vista Genomics vendor. 
+Commanders can use the [[id:cacdbf9c-073f-4a50-ba65-4ab16938c6a4][Genetic Sampler]] tool to acquire genetic data from various species of alien flora found on planetary surfaces. This can be sold on the concourses of ports, megaships and [[id:28dcc8eb-311b-416d-af66-5b9922625d6d][fleet carriers]] which have an active [[id:58a7f8bd-897e-47a3-bc42-1456d15dce3e][Vista Genomics]] vendor.
 
 In other news, [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]] has announced that its popular modified heatsinks and anti-xeno missile rack have been made available to pilots via its company tech brokers. Active [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corp.]]ration megaships – Chariot of [[id:6da9023a-ccb6-444a-be77-626dfb552eb1][Rhea]], El Centinela Cadejo, Kumiho Sky, Spirit of Laelaps and The Witness Odysseus – now host Sirius tech brokers on board.
