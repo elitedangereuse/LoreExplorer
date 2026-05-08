@@ -14,12 +14,12 @@
 #+end_quote
 
 [[id:6da1c424-2b8f-4612-9c68-415c9ce6aed7][Faulcon Manspace]], originally a small military supply company,
-experienced an overnight reversal of fortune when it released the [[id:369150fa-848e-401e-9ce6-373f1453e405][Viper]]
+experienced an overnight reversal of fortune when it released the [[id:5e485fd6-f859-4b8d-8b2b-c529c915795c][Viper]]
 fighter, which proved popular with governments and private citizens
 alike. Indeed, demand was so high that [[id:6da1c424-2b8f-4612-9c68-415c9ce6aed7][Faulcon Manspace]] had to farm out
-[[id:369150fa-848e-401e-9ce6-373f1453e405][Viper]] production to other companies under licence.
+[[id:5e485fd6-f859-4b8d-8b2b-c529c915795c][Viper]] production to other companies under licence.
 
-With wealth came innovation and a range of new designs. Like the [[id:369150fa-848e-401e-9ce6-373f1453e405][Viper]],
+With wealth came innovation and a range of new designs. Like the [[id:5e485fd6-f859-4b8d-8b2b-c529c915795c][Viper]],
 these new ships were named after dangerous snakes: the Cobra marked the
 company's entry into the trader market, while the lightweight, versatile
 [[id:0127a175-4bb8-4bf7-924c-37273661a623][Sidewinder]] was designed principally as a reconnaissance craft.

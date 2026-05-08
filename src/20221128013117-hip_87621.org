@@ -8,4 +8,6 @@
 Requires permit to [[id:29b5bb44-c0cd-4f69-88af-a75407b6f40b][HIP 48762]], which is not earnable as far
 as anyone knows.
 
+On 13 Nov 3311, access to the system was granted to licensed [[id:131aabdf-0ed8-4ce2-beec-94c77a8c41d2][Pilots' Federation]] members, as described in [[id:af40c040-ed0a-4d5d-8e0c-291552e7c2dc][Pilots’ Federation Members Enter HIP 87621]]. Civilian, corporate and government traffic remained restricted, and [[id:28dcc8eb-311b-416d-af66-5b9922625d6d][fleet carriers]] were still excluded.
+
 HIP 48762 is not permit locked.

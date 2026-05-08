@@ -1,6 +1,23 @@
 :PROPERTIES:
 :ID:       e7e28c28-b97c-4106-9b04-8932279e267f
+:ROAM_REFS: https://www.elitedangerous.com/equipment/starships/corsair
+:ROAM_ALIASES: "Imperial Corsair"
 :END:
-#+title: Imperial Corsair
+#+title: Corsair
 #+filetags: :3311:ship:
+
 Ship released by [[id:aa5d0177-2807-4e3d-b0d0-1a40b3203598][Gutamaya]] in 3311
+
+* Shipyard Stats
+- Fighter bay: No
+- Multicrew: +1
+- Landing pad size: MED
+- Speeds: 288 m/s top, 366 m/s boost
+- Maneuverability: 4
+- Jump range: 12.04 ly laden, 13.58 ly unladen
+- Durability: 264 shields, 486 armour
+- Hull mass: 265 t
+- Cargo capacity: 48 t
+- Dimensions: 16 m high, 86.8 m long, 69.4 m wide
+
+[[file:img/ships/forc_fdev_v_corsair_bundle_001-thumb.jpg]]

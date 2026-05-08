@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       9f40c2fe-0a15-456b-8c71-155c8c97e782
+:ROAM_REFS: https://www.elitedangerous.com/equipment/starships/beluga-liner
+:END:
+#+title: Beluga Liner
+#+filetags: :ship:
+
+* Shipyard Stats
+- Fighter bay: Yes
+- Multicrew: +3
+- Landing pad size: LRG
+- Speeds: 197 m/s top, 276 m/s boost
+- Maneuverability: 2
+- Jump range: 9.59 ly laden, 10.62 ly unladen
+- Durability: 110 shields, 504 armour
+- Hull mass: 950 t
+- Cargo capacity: 44 t
+- Dimensions: 38.6 m high, 209.1 m long, 131.6 m wide
+
+[[file:img/ships/forc_fdev_v_beluga_bundle_001-thumb.jpg]]

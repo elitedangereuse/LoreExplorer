@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       e35de559-cc45-49a3-85e5-5df889acecda
+:ROAM_REFS: https://www.elitedangerous.com/equipment/starships/imperial-clipper
+:END:
+#+title: Imperial Clipper
+#+filetags: :ship:
+
+* Shipyard Stats
+- Fighter bay: No
+- Multicrew: +1
+- Landing pad size: LRG
+- Speeds: 306 m/s top, 388 m/s boost
+- Maneuverability: 5
+- Jump range: 8.05 ly laden, 9.16 ly unladen
+- Durability: 186 shields, 486 armour
+- Hull mass: 400 t
+- Cargo capacity: 74 t
+- Dimensions: 24.8 m high, 106.7 m long, 103.7 m wide
+
+[[file:img/ships/forc_fdev_v_clipper_1137-base.jpg]]

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       63529529-bb50-4c71-9fd8-cbc7ed723347
+:ROAM_REFS: https://www.elitedangerous.com/equipment/starships/type-11-prospector
 :END:
 #+title: Type-11 Prospector
 #+filetags: :3311:ship:
@@ -7,3 +8,15 @@
 Mining vessel by [[id:906c77b7-7fe4-48c1-ace5-1265023c2ebf][Lakon Spaceways]] released in 3311.
 
 [[file:img/ships/forc_fdev_v_lakon_miner_bundle_001-base.jpg]]
+
+* Shipyard Stats
+- Fighter bay: Yes
+- Multicrew: +2
+- Landing pad size: MED
+- Speeds: 271 m/s top, 351 m/s boost
+- Maneuverability: 2
+- Jump range: 13.41 ly laden, 15.81 ly unladen
+- Durability: 271 shields, 630 armour
+- Hull mass: 320 t
+- Cargo capacity: 64 t
+- Dimensions: 28.7 m high, 78.6 m long, 78.3 m wide

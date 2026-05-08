@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       639e4adf-a977-44b2-ad57-dbc51fe83e36
+:END:
+#+title: Exobiology
+#+filetags: :Odyssey:Concept:
+
+The study and sampling of alien organisms on planetary surfaces, especially Odyssey-era flora species. Independent pilots collect exobiology data using the [[id:cacdbf9c-073f-4a50-ba65-4ab16938c6a4][Genetic Sampler]] and can sell completed results through [[id:58a7f8bd-897e-47a3-bc42-1456d15dce3e][Vista Genomics]].

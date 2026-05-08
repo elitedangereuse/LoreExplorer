@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       1c95eb36-42c6-4e5b-b46b-4a693c435e93
+:ROAM_REFS: https://www.elitedangerous.com/equipment/starships/type-10-defender
+:END:
+#+title: Type-10 Defender
+#+filetags: :ship:
+
+* Shipyard Stats
+- Fighter bay: Yes
+- Multicrew: +3
+- Landing pad size: LRG
+- Speeds: 179 m/s top, 219 m/s boost
+- Maneuverability: 0
+- Jump range: 5.88 ly laden, 6.98 ly unladen
+- Durability: 99 shields, 1044 armour
+- Hull mass: 1200 t
+- Cargo capacity: 220 t
+- Dimensions: 39.3 m high, 118.4 m long, 135.1 m wide
+
+[[file:img/ships/FORC_FDEV_V_MAMMOTH_1101-1-ILLe2q8Z.jpg]]

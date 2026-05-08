@@ -1,7 +1,22 @@
 :PROPERTIES:
 :ID:       9b662825-bc4f-4099-8d43-8e601aae8ace
+:ROAM_REFS: https://www.elitedangerous.com/equipment/starships/fer-de-lance
 :END:
 #+title: Fer-de-Lance
 #+filetags: :ship:
 
 Ship made by [[id:d24ee8f5-e2ec-4c71-b5fa-afc2d9710141][Zorgon Peterson]]
+
+* Shipyard Stats
+- Fighter bay: No
+- Multicrew: +1
+- Landing pad size: MED
+- Speeds: 265 m/s top, 357 m/s boost
+- Maneuverability: 4
+- Jump range: 6.31 ly laden, 6.79 ly unladen
+- Durability: 271 shields, 405 armour
+- Hull mass: 250 t
+- Cargo capacity: 24 t
+- Dimensions: 15.4 m high, 73.6 m long, 51.6 m wide
+
+[[file:img/ships/FORC_FDEV_V_FERDELANCE_1065-wide-aisJ0FxV.jpg]]

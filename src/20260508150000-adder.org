@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       9b3845a6-9d88-4250-84f1-be457d6a9587
+:ROAM_REFS: https://www.elitedangerous.com/equipment/starships/adder
+:END:
+#+title: Adder
+#+filetags: :ship:
+
+* Shipyard Stats
+- Fighter bay: No
+- Multicrew: +1
+- Landing pad size: SML
+- Speeds: 221 m/s top, 321 m/s boost
+- Maneuverability: 4
+- Jump range: 8.67 ly laden, 10.28 ly unladen
+- Durability: 78 shields, 162 armour
+- Hull mass: 35 t
+- Cargo capacity: 6 t
+- Dimensions: 9.6 m high, 31.5 m long, 27.4 m wide
+
+[[file:img/ships/PaintJob_Adder_Pulse_04_RedGiant_1920.jpg]]

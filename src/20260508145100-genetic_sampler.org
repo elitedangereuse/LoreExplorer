@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       cacdbf9c-073f-4a50-ba65-4ab16938c6a4
+:END:
+#+title: Genetic Sampler
+#+filetags: :Odyssey:Tool:
+
+Tool used by Commanders to collect [[id:639e4adf-a977-44b2-ad57-dbc51fe83e36][exobiology]] data from alien flora on planetary surfaces for sale through [[id:58a7f8bd-897e-47a3-bc42-1456d15dce3e][Vista Genomics]].
+
+[[file:img/onfoot/genetic_sampler.png]]
