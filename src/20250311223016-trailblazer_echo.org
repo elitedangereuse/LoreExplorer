@@ -2,6 +2,6 @@
 :ID:       454c41b7-95ca-4e7e-94d4-c8a3f9d61d0e
 :END:
 #+title: Trailblazer Echo
-#+filetags: :ship:
+#+filetags: :Megaship:
 
-[[id:33517223-1f8d-4588-be65-6c10edc9118f][Megaship]] of [[id:d9459015-dae3-4233-9eb7-a2fb11344097][Brewer Corporation]]
+[[id:33517223-1f8d-4588-be65-6c10edc9118f][Megaship]] of [[id:d9459015-dae3-4233-9eb7-a2fb11344097][Brewer Corporation]] and member of the [[id:e7d242a0-17ef-409e-a4b1-0ba261932ed9][Trailblazer Fleet]]. It was deployed to [[id:0a9dd112-c2a6-47d8-9056-a334912820bf][HIP 90578]] during early 3311 colonisation initiatives before later returning to [[id:33b581d0-b31c-4177-9e70-9b478ad70e34][Minerva]].
