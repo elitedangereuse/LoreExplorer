@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       63529529-bb50-4c71-9fd8-cbc7ed723347
+:END:
+#+title: Type-11 Prospector
+#+filetags: :3311:ship:
+
+Mining vessel by [[id:906c77b7-7fe4-48c1-ace5-1265023c2ebf][Lakon Spaceways]] released in 3311.
+
+[[file:img/ships/forc_fdev_v_lakon_miner_bundle_001-base.jpg]]
