@@ -8,7 +8,7 @@
 
 /21 Aug 3311/
 
-[[id:d9459015-dae3-4233-9eb7-a2fb11344097][Brewer Corporation]] has confirmed the overwhelming success of its latest initiative to restock [[id:454c41b7-95ca-4e7e-94d4-c8a3f9d61d0e][Trailblazer]] megaships, citing it as the largest single delivery effort in its history with independent pilots transporting more than 1,200,000,000 tonnes of materials.
+[[id:d9459015-dae3-4233-9eb7-a2fb11344097][Brewer Corporation]] has confirmed the overwhelming success of its latest initiative to restock [[id:e7d242a0-17ef-409e-a4b1-0ba261932ed9][Trailblazer]] megaships, citing it as the largest single delivery effort in its history with independent pilots transporting more than 1,200,000,000 tonnes of materials.
 
 The campaign followed closely on the heels of two community-led operations that saw the [[id:e6801f23-b419-47e6-abcc-6089d12ea4c1][Panther Clipper]] Mk II heavy freighter enter full-scale production.
 
@@ -18,14 +18,14 @@ Brewer COO [[id:9b2b1a6d-3645-4776-aeee-4e2db897b988][Mark Rennik]] stated “Ne
 
 The Trailblazer colonisation supply ships, which had suffered significant stock shortages, have now been replenished and are once again ready to supply humanity’s continued expansion outwards. Brewer Corporation has confirmed that ships will remain in their original strategic positions, as follows:
 
-Trailblazer Dream - [[id:0a9dd112-c2a6-47d8-9056-a334912820bf][HIP 90578]]
+[[id:93d0c0ce-c07e-49b0-80e5-cb929d125a50][Trailblazer Dream]] - [[id:0a9dd112-c2a6-47d8-9056-a334912820bf][HIP 90578]]
 
-Trailblazer Song - [[id:d86f4f46-ea24-4af9-8cd4-a6cdb5fc9a00][Orgen]]
+[[id:cfb4d3c8-1223-41b8-b8de-53bcae9acab6][Trailblazer Song]] - [[id:d86f4f46-ea24-4af9-8cd4-a6cdb5fc9a00][Orgen]]
 
-Trailblazer Wish - [[id:1ea66555-c397-4a1a-a2ab-04bf7ea9cf0a][Bletii]]
+[[id:d89eef03-642b-4f67-9dee-56c07d368efa][Trailblazer Wish]] - [[id:1ea66555-c397-4a1a-a2ab-04bf7ea9cf0a][Bletii]]
 
-Trailblazer Star - [[id:65ec1f32-a0b2-4818-8cf4-c9fdd6c6afeb][34 Omicron Cephei]]
+[[id:bc903b8e-d8d6-4a68-ab63-5de75c248bd2][Trailblazer Star]] - [[id:65ec1f32-a0b2-4818-8cf4-c9fdd6c6afeb][34 Omicron Cephei]]
 
-Trailblazer Promise - [[id:f8afd957-7349-4913-8777-7d5d90c6f297][Klikis]]
+[[id:f39dc1f7-76f5-40dd-8c63-fc78d83a65cb][Trailblazer Promise]] - [[id:f8afd957-7349-4913-8777-7d5d90c6f297][Klikis]]
 
-Trailblazer Faith - [[id:cc2c0eca-7b63-4ae5-bd9d-e7480c183d4d][Ngobe]]
+[[id:e69cf73f-bc21-42c9-9f80-0ed321a457bd][Trailblazer Faith]] - [[id:cc2c0eca-7b63-4ae5-bd9d-e7480c183d4d][Ngobe]]

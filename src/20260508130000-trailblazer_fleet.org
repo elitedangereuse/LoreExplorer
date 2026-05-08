@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       e7d242a0-17ef-409e-a4b1-0ba261932ed9
+:END:
+#+title: Trailblazer Fleet
+#+filetags: :Megaship:
+
+[[id:d9459015-dae3-4233-9eb7-a2fb11344097][Brewer Corporation]] fleet of colonisation support megaships deployed in 3311 to assist independent [[id:d1f19609-fdb7-4991-bcb2-e93435f013d0][colonisation]] initiatives. It included [[id:454c41b7-95ca-4e7e-94d4-c8a3f9d61d0e][Trailblazer Echo]], [[id:93d0c0ce-c07e-49b0-80e5-cb929d125a50][Trailblazer Dream]], [[id:cfb4d3c8-1223-41b8-b8de-53bcae9acab6][Trailblazer Song]], [[id:d89eef03-642b-4f67-9dee-56c07d368efa][Trailblazer Wish]], [[id:bc903b8e-d8d6-4a68-ab63-5de75c248bd2][Trailblazer Star]], [[id:f39dc1f7-76f5-40dd-8c63-fc78d83a65cb][Trailblazer Promise]] and [[id:e69cf73f-bc21-42c9-9f80-0ed321a457bd][Trailblazer Faith]].

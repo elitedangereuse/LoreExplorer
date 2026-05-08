@@ -3,3 +3,5 @@
 :END:
 #+title: HIP 90578
 #+filetags: :System:
+
+System that hosted [[id:454c41b7-95ca-4e7e-94d4-c8a3f9d61d0e][Trailblazer Echo]] during Brewer Corporation's early 3311 survey initiative and later [[id:93d0c0ce-c07e-49b0-80e5-cb929d125a50][Trailblazer Dream]] as part of the [[id:e7d242a0-17ef-409e-a4b1-0ba261932ed9][Trailblazer Fleet]].
