@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       f31d2ad2-b82c-4d54-adea-ac5600aa67d6
+:ROAM_REFS: https://www.elitedangerous.com/equipment/starships/orca
+:END:
+#+title: Orca
+#+filetags: :ship:
+
+* Shipyard Stats
+- Fighter bay: No
+- Multicrew: +1
+- Landing pad size: LRG
+- Speeds: 308 m/s top, 390 m/s boost
+- Maneuverability: 1
+- Jump range: 10.08 ly laden, 11.1 ly unladen
+- Durability: 233 shields, 396 armour
+- Hull mass: 290 t
+- Cargo capacity: 24 t
+- Dimensions: 22.7 m high, 130.4 m long, 50.8 m wide
+
+[[file:img/ships/PaintJob_Orca_Expressway_06_Full_1920.jpg]]

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       6de994cc-c0c9-4d5d-bc14-0b0a202e624a
+:ROAM_REFS: https://www.elitedangerous.com/equipment/starships/cobra-mk-v
 :END:
 #+title: Cobra Mk V
 #+filetags: :3311:ship:
@@ -15,3 +16,15 @@ with improved handling, modularity, and enhanced compatibility with
 earlier Cobra designs such as the [[id:83299a14-b6b0-4670-ba39-2914e05ed2f5][Cobra Mk III]].
 
 [[file:img/ships/forc_fdev_v_cobramkv_bundle_001-base.jpg]]
+
+* Shipyard Stats
+- Fighter bay: No
+- Multicrew: +2
+- Landing pad size: SML
+- Speeds: 294 m/s top, 415 m/s boost
+- Maneuverability: 6
+- Jump range: 15.95 ly laden, 17.87 ly unladen
+- Durability: 233 shields, 324 armour
+- Hull mass: 150 t
+- Cargo capacity: 12 t
+- Dimensions: 9.47 m high, 41.2 m long, 55.1 m wide

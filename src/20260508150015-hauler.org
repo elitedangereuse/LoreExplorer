@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       cfc237ec-900c-4e8b-858a-2bd480a9dbfa
+:ROAM_REFS: https://www.elitedangerous.com/equipment/starships/hauler
+:END:
+#+title: Hauler
+#+filetags: :ship:
+
+* Shipyard Stats
+- Fighter bay: No
+- Multicrew: -
+- Landing pad size: SML
+- Speeds: 204 m/s top, 306 m/s boost
+- Maneuverability: 4
+- Jump range: 8.46 ly laden, 11.62 ly unladen
+- Durability: 65 shields, 180 armour
+- Hull mass: 14 t
+- Cargo capacity: 8 t
+- Dimensions: 10.4 m high, 28.6 m long, 26.2 m wide
+
+[[file:img/ships/FORC_FDEV_V_HAULER_1055-wide-TX33muY2.jpg]]

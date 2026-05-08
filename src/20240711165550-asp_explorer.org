@@ -1,6 +1,20 @@
 :PROPERTIES:
 :ID:       3d31c3df-d02f-409a-a8b7-4faf403fa68c
+:ROAM_REFS: https://www.elitedangerous.com/equipment/starships/asp-explorer
 :END:
 #+title: Asp Explorer
 #+filetags: :ship:
 
+* Shipyard Stats
+- Fighter bay: No
+- Multicrew: +1
+- Landing pad size: MED
+- Speeds: 254 m/s top, 345 m/s boost
+- Maneuverability: 4
+- Jump range: 12.12 ly laden, 14.1 ly unladen
+- Durability: 152 shields, 378 armour
+- Hull mass: 280 t
+- Cargo capacity: 38 t
+- Dimensions: 19.7 m high, 56.4 m long, 51.3 m wide
+
+[[file:img/ships/forc_fdev_v_asp_bundle_001-thumb.jpeg]]

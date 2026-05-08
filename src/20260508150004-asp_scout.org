@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       2ce7159e-9c7b-4e16-b2f3-ed9a4fda994f
+:ROAM_REFS: https://www.elitedangerous.com/equipment/starships/asp-scout
+:END:
+#+title: Asp Scout
+#+filetags: :ship:
+
+* Shipyard Stats
+- Fighter bay: No
+- Multicrew: +1
+- Landing pad size: MED
+- Speeds: 223 m/s top, 304 m/s boost
+- Maneuverability: 5
+- Jump range: 10.93 ly laden, 12.45 ly unladen
+- Durability: 105 shields, 324 armour
+- Hull mass: 150 t
+- Cargo capacity: 16 t
+- Dimensions: 17 m high, 54.8 m long, 59.4 m wide
+
+[[file:img/ships/FORC_FDEV_V_ASP_SCOUT_1014-wide-f4VDrBSX.jpg]]

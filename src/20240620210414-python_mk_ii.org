@@ -1,5 +1,20 @@
 :PROPERTIES:
 :ID:       462821c7-39f9-43bb-8d70-2dedb90f52f3
+:ROAM_REFS: https://www.elitedangerous.com/equipment/starships/python-mk-ii
 :END:
 #+title: Python Mk II
+#+filetags: :ship:
 
+* Shipyard Stats
+- Fighter bay: No
+- Multicrew: +1
+- Landing pad size: MED
+- Speeds: 261 m/s top, 352 m/s boost
+- Maneuverability: 4
+- Jump range: 11.26 ly laden, 11.64 ly unladen
+- Durability: 316 shields, 504 armour
+- Hull mass: 450 t
+- Cargo capacity: 96 t
+- Dimensions: 17.5 m high, 67.5 m long, 88.3 m wide
+
+[[file:img/ships/ed-python-ii-base_01.jpg]]

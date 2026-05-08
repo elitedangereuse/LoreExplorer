@@ -1,6 +1,20 @@
 :PROPERTIES:
 :ID:       ab621e71-06dd-443a-a038-6e84e1c9e04e
+:ROAM_REFS: https://www.elitedangerous.com/equipment/starships/imperial-cutter
 :END:
 #+title: Imperial Cutter
 #+filetags: :Empire:ship:
 
+* Shipyard Stats
+- Fighter bay: Yes
+- Multicrew: +3
+- Landing pad size: LRG
+- Speeds: 202 m/s top, 323 m/s boost
+- Maneuverability: 0
+- Jump range: 7.58 ly laden, 8.45 ly unladen
+- Durability: 703 shields, 720 armour
+- Hull mass: 1100 t
+- Cargo capacity: 164 t
+- Dimensions: 33.4 m high, 192.6 m long, 111.1 m wide
+
+[[file:img/ships/forc_fdev_v_imperial_cutter_1180-base.jpg]]

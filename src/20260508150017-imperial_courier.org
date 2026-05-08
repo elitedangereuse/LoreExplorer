@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       fd9625cc-fc11-4551-9772-769de7ed9a78
+:ROAM_REFS: https://www.elitedangerous.com/equipment/starships/imperial-courier
+:END:
+#+title: Imperial Courier
+#+filetags: :ship:
+
+* Shipyard Stats
+- Fighter bay: No
+- Multicrew: -
+- Landing pad size: SML
+- Speeds: 280 m/s top, 381 m/s boost
+- Maneuverability: 4
+- Jump range: 7.86 ly laden, 9.92 ly unladen
+- Durability: 230 shields, 144 armour
+- Hull mass: 35 t
+- Cargo capacity: 12 t
+- Dimensions: 7.1 m high, 42.1 m long, 27.4 m wide
+
+[[file:img/ships/forc_fdev_v_imperial_courier_1095-base.jpg]]

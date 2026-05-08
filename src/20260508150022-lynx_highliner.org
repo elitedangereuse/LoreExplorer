@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       62d79c16-d03f-4f38-82bc-796a0d32ff67
+:ROAM_REFS: https://www.elitedangerous.com/equipment/starships/lynx-highliner
+:END:
+#+title: Lynx Highliner
+#+filetags: :ship:
+
+* Shipyard Stats
+- Fighter bay: No
+- Multicrew: +1
+- Landing pad size: MED
+- Speeds: 293 m/s top, 360 m/s boost
+- Maneuverability: 3
+- Jump range: 15.7 ly laden, 16.61 ly unladen
+- Durability: 228 shields, 630 armour
+- Hull mass: 260 t
+- Cargo capacity: 32 t
+- Dimensions: 18.8 m high, 89.3 m long, 45.2 m wide
+
+[[file:img/ships/lynx_highliner_standard-base.jpg]]
