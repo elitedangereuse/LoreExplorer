@@ -1204,11 +1204,26 @@ function normalizeHoverLabelRadius(value) {
   return Math.max(40, Math.min(420, Math.round(numeric)));
 }
 
+function normalizePanelWidthRatio(value) {
+  const numeric = Number(value);
+  if (!Number.isFinite(numeric)) {
+    return null;
+  }
+  return Math.max(0.12, Math.min(0.78, numeric));
+}
+
 function saveDisplaySettings() {
   const storage = getStorage();
   if (!storage) {
     return;
   }
+  const shellWidth = explorerShell.getBoundingClientRect().width;
+  const notePanelWidthRatio = shellWidth > 0
+    ? normalizePanelWidthRatio(state.panelWidth / shellWidth)
+    : null;
+  const detectivePanelWidthRatio = shellWidth > 0
+    ? normalizePanelWidthRatio(state.detectivePanelWidth / shellWidth)
+    : null;
   storage.setItem(
     DISPLAY_SETTINGS_STORAGE_KEY,
     JSON.stringify({
@@ -1217,6 +1232,8 @@ function saveDisplaySettings() {
       highlightMode: state.highlightMode,
       hoverLabelRadius: state.hoverLabelRadius,
       dynamicGraphThreshold: state.dynamicGraphThreshold,
+      notePanelWidthRatio,
+      detectivePanelWidthRatio,
     }),
   );
 }
@@ -1241,6 +1258,17 @@ function loadDisplaySettings() {
     state.highlightMode = normalizeHighlightMode(parsed.highlightMode);
     state.hoverLabelRadius = normalizeHoverLabelRadius(parsed.hoverLabelRadius);
     state.dynamicGraphThreshold = normalizeDynamicGraphThreshold(parsed.dynamicGraphThreshold);
+    const shellWidth = explorerShell.getBoundingClientRect().width;
+    if (shellWidth > 0) {
+      const notePanelWidthRatio = normalizePanelWidthRatio(parsed.notePanelWidthRatio);
+      const detectivePanelWidthRatio = normalizePanelWidthRatio(parsed.detectivePanelWidthRatio);
+      if (notePanelWidthRatio !== null) {
+        state.panelWidth = Math.round(shellWidth * notePanelWidthRatio);
+      }
+      if (detectivePanelWidthRatio !== null) {
+        state.detectivePanelWidth = Math.round(shellWidth * detectivePanelWidthRatio);
+      }
+    }
   } catch {
     storage.removeItem(DISPLAY_SETTINGS_STORAGE_KEY);
   }
@@ -6786,6 +6814,7 @@ function bindEvents() {
       panelResizer.classList.remove("is-dragging");
       window.removeEventListener("mousemove", onMouseMove);
       window.removeEventListener("mouseup", onMouseUp);
+      saveDisplaySettings();
     };
 
     applyPanelWidths(Math.min(startWidth, shellRect.width - 280), state.detectivePanelWidth, "note");
@@ -6801,6 +6830,7 @@ function bindEvents() {
     const delta = event.key === "ArrowLeft" ? 24 : -24;
     applyPanelWidths(state.panelWidth + delta, state.detectivePanelWidth, "note");
     resizeCanvas();
+    saveDisplaySettings();
   });
 
   detectivePanelResizer.addEventListener("mousedown", (event) => {
@@ -6824,6 +6854,7 @@ function bindEvents() {
       detectivePanelResizer.classList.remove("is-dragging");
       window.removeEventListener("mousemove", onMouseMove);
       window.removeEventListener("mouseup", onMouseUp);
+      saveDisplaySettings();
     };
 
     applyPanelWidths(state.panelWidth, Math.min(startWidth, shellRect.width - 280), "detective");
@@ -6839,6 +6870,7 @@ function bindEvents() {
     const delta = event.key === "ArrowLeft" ? 24 : -24;
     applyPanelWidths(state.panelWidth, state.detectivePanelWidth + delta, "detective");
     resizeCanvas();
+    saveDisplaySettings();
   });
 
   const updateActivePointer = (event) => {
