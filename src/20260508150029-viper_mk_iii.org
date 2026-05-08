@@ -1,9 +1,13 @@
 :PROPERTIES:
 :ID:       5e485fd6-f859-4b8d-8b2b-c529c915795c
 :ROAM_REFS: https://www.elitedangerous.com/equipment/starships/viper-mk-iii
+:ROAM_ALIASES: Viper
 :END:
 #+title: Viper Mk III
 #+filetags: :ship:
+
+Faulcon DeLacy light fighter. Older sources and historical notes often
+refer to this ship family simply as the Viper.
 
 * Shipyard Stats
 - Fighter bay: No

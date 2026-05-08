@@ -59,7 +59,7 @@ which is being orchestrated from Crimson Exchange.
 Should the initiative reach Tier 1, the following paint jobs will be
 made available to qualifying contributors:
 
-Top 75% - [[id:369150fa-848e-401e-9ce6-373f1453e405][Viper]] Mk III [[id:6c5d5774-5308-4b6f-a575-5ce96cf440db][Pirate]] Faction Orange
+Top 75% - [[id:5e485fd6-f859-4b8d-8b2b-c529c915795c][Viper Mk III]] [[id:6c5d5774-5308-4b6f-a575-5ce96cf440db][Pirate]] Faction Orange
 Top 50% - Vulture [[id:6c5d5774-5308-4b6f-a575-5ce96cf440db][Pirate]] Faction Purple
 Top 25% - [[id:9b662825-bc4f-4099-8d43-8e601aae8ace][Fer-de-Lance]] [[id:6c5d5774-5308-4b6f-a575-5ce96cf440db][Pirate]] Faction Red
 
