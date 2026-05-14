@@ -10,6 +10,6 @@ The corpus currently preserves conflicting dates for [[id:3cb0755e-4deb-442b-898
 
 - [[id:dc08846c-3427-4879-b556-ae3442c4ebba][Birth of Hengist Duval]] and the [[id:3cb0755e-4deb-442b-898b-3f0c6651636e][Hengist Duval]] codex entry give his lifespan as 3164-3301.
 - [[id:d577bc0f-4fa1-4761-be27-7803508c1ffe][The Reign of Emperor Hengist Duval]] states that he was born in 3163.
-- [[id:98b44118-c603-4868-ad86-a65c188f589d][The Line of the Duvals]] lists him as 3233-3301, which appears to reflect his accession year rather than a birth year.
+- [[id:98b44118-c603-4868-ad86-a65c188f589d][The Line of the Duvals]] lists him as 3233-3301, which reflects his reign rather than his birth and death.
 
-This note documents the discrepancy without altering the protected text of the beacon, GalNet and Knowledge Base nodes that carry the conflicting dates.
+This note documents the birth-year discrepancy without altering the protected text of the beacon, GalNet and Knowledge Base nodes that carry the conflicting dates.
