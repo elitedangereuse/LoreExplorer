@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       67e7d6ef-9eaa-4736-a9c5-a4a1fee4b100
+:END:
+#+title: The Prospect
+#+filetags: :Station:
+
+Research outpost established by [[id:60dabc80-ace0-4061-b21b-70ccfe37de12][Zende Partners]] in [[id:43fc3b33-8928-48f1-be55-165e53b3b105][Synuefe EN-H d11-96]] as the termination point of its Guardian-space ferry service and later the site of Guardian technology trade and manufacturing.

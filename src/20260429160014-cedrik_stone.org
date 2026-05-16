@@ -4,6 +4,6 @@
 :ID:       b0fad285-85fd-425b-a832-59c2d7781f0a
 :END:
 
-Cedrik Stone was CEO of rival arms manufacturer Segnen Exchange during the Zende Partners conflict over Guardian space access.
+Cedrik Stone was CEO of rival arms manufacturer [[id:509c2dd7-f45e-4d6d-aa33-4ea3ca780652][Segnen Exchange]] during the [[id:60dabc80-ace0-4061-b21b-70ccfe37de12][Zende Partners]] conflict over [[id:f57cff55-3348-45ea-b76f-d0eaa3c68165][Guardian]] space access.
 
 Key mentions include [[id:701ff369-4602-43b0-a85c-56b2d3e31c85][Zende Partners Transport Service Operational]] and [[id:cd8cabff-85e9-444f-b877-3f3a0cf28fa5][Segnen Exchange Announces Outpost]].

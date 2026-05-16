@@ -8,14 +8,14 @@
 
 /09 May 3305/
 
-A megaship service offering transport to Guardian space from Zende is now in operation.
+A [[id:751c84bc-ea85-495d-923c-7776da57803a][megaship]] service offering [[id:017cc8d7-ba23-46a8-aee3-60a9b75f1cce][transport]] to [[id:f57cff55-3348-45ea-b76f-d0eaa3c68165][Guardian]] space from [[id:9af7972f-92eb-48e0-ac95-ab7a39c0ffb8][Zende]] is now in operation.
 
-The CEO of Zende Partners, Freya Taine, announced:
+The CEO of [[id:60dabc80-ace0-4061-b21b-70ccfe37de12][Zende Partners]], [[id:73e00d0c-7646-4862-81d8-b045287f3f09][Freya Taine]], announced:
 
-“Following the recommendation of the galactic community, my company has established an outpost in Synuefe EN-H d11-96 that will serve as the termination point for this new ferry service. Our two megaships, Sadler’s Song and The Conduit, will make weekly trips to the selected location.”
+“Following the recommendation of the galactic community, my company has established an outpost in [[id:43fc3b33-8928-48f1-be55-165e53b3b105][Synuefe EN-H d11-96]] that will serve as the termination point for this new ferry service. Our two megaships, [[id:6a899a57-20ac-4701-8a43-fc36df209acb][Sadler’s Song]] and [[id:c0ff5631-f42e-4054-b962-62ebd976efa0][The Conduit]], will make weekly trips to the selected location.”
 
-“This first step of our initiative should encourage activity at nearby Guardian ruins. In addition, we have now finalised the design of an advanced military module based on Guardian technology, and we hope to begin manufacture of this design very soon.”
+“This first step of our initiative should encourage activity at nearby [[id:800d1802-bb46-4f17-a686-bfffce6a549f][Guardian Ruins]]. In addition, we have now finalised the design of an advanced military module based on Guardian technology, and we hope to begin manufacture of this design very soon.”
 
-Among the feedback from the technology industry was a statement by [[id:b0fad285-85fd-425b-a832-59c2d7781f0a][Cedrik Stone]], CEO of rival arms manufacturer Segnen Exchange:
+Among the feedback from the technology industry was a statement by [[id:b0fad285-85fd-425b-a832-59c2d7781f0a][Cedrik Stone]], CEO of rival arms manufacturer [[id:509c2dd7-f45e-4d6d-aa33-4ea3ca780652][Segnen Exchange]]:
 
 “While Zende Partners’ recent efforts to promote Guardian-human research are admirable, I would like to remind Ms. Taine that she does not hold a monopoly on Guardian artefacts from that region of space. Segnen Exchange has a proven track record in this field, and we hope that Zende Partners are able to secure the acquisition of Guardian commodities for the benefit of all.”
