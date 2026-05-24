@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       502035d6-3656-4be4-8e4c-a4977fc99562
+:END:
+#+title: Interstellar Association for Agriculture
+#+filetags: :Organisation:
+
+Interstellar agricultural body active in 3305 during the crop [[id:1cffca4e-480b-46bf-b6c5-0af48c7292d3][blight]] crisis. It coordinated analysis, treatment rollout, and food-security responses across affected systems.

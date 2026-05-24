@@ -4,20 +4,20 @@
 #+title: The Lessons of the Blight
 #+filetags: :3305:galnet:
 
-* The Lessons of the [[id:1cffca4e-480b-46bf-b6c5-0af48c7292d3][Blight]]
+* The Lessons of the Blight
 
 /02 Nov 3305/
 
-The blight that laid waste to vast areas of cropland over the past month has now officially been contained.
+The [[id:1cffca4e-480b-46bf-b6c5-0af48c7292d3][blight]] that laid waste to vast areas of cropland over the past month has now officially been contained.
 
-Reports from the Interstellar Association for Agriculture confirm that the blight has been eliminated from all affected systems. The new agronomic treatment has rejuvenated emaciated fields, with the remaining harvests once again viable.
+Reports from the [[id:502035d6-3656-4be4-8e4c-a4977fc99562][Interstellar Association for Agriculture]] confirm that the blight has been eliminated from all affected systems. The new agronomic treatment has rejuvenated emaciated fields, with the remaining harvests once again viable.
 
 Journalist [[id:e31873d0-3bf1-4162-ad26-8d354ad10552][Adalyn Cross]] published a review of recent events on [[id:4ab0f53c-0b85-43a3-83ca-b9e88c0db30e][Vox Galactica]]:
 
-“As the availability of staple foodstuffs begins to return to something like a normal level, many pundits are asking what lessons can be learned from this catastrophe. The IAA has pledged to intensify screening regulations for agricultural commodities. The speed with which the blight spread caught many by surprise, and it is vital that this does not happen again.”
+“As the availability of staple foodstuffs begins to return to something like a normal level, many pundits are asking what lessons can be learned from this catastrophe. The [[id:502035d6-3656-4be4-8e4c-a4977fc99562][IAA]] has pledged to intensify screening regulations for agricultural commodities. The speed with which the blight spread caught many by surprise, and it is vital that this does not happen again.”
 
-“Intelligence agencies have pledged to review their strategies for tackling interstellar terrorism. The Scythe of Panem extremists who engineered the blight have been dealt with, but who else might be planning a biochemical attack?”
+“Intelligence agencies have pledged to review their strategies for tackling interstellar terrorism. The [[id:68b1a897-0d05-44aa-a533-8d322f5c25a0][Scythe of Panem]] extremists who engineered the blight have been dealt with, but who else might be planning a biochemical attack?”
 
-Meanwhile, the [[id:a7056ff8-e67d-4ca9-baf1-7e5df3efa677][Rockforth Corporation]]’s PR department is working hard to reassure customers and shareholders. Critics have underscored the role of the EX7 fertiliser as a primary delivery system for the pathogen, but a Rockforth source argued that the product’s sabotage by Scythe of Panem agents could not have been anticipated.
+Meanwhile, the [[id:a7056ff8-e67d-4ca9-baf1-7e5df3efa677][Rockforth Corporation]]’s PR department is working hard to reassure customers and shareholders. Critics have underscored the role of the [[id:72234b97-524e-4266-9dda-13d0632d73de][EX7 fertiliser]] as a primary delivery system for the pathogen, but a Rockforth source argued that the product’s sabotage by [[id:68b1a897-0d05-44aa-a533-8d322f5c25a0][Scythe of Panem]] agents could not have been anticipated.
 
 Nevertheless, the company’s haste to increase profits has been highlighted as a contributing factor in the blight’s impact. Rockforth is expected to release a statement in the next few days, pending an internal review.

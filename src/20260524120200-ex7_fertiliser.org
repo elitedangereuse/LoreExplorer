@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       72234b97-524e-4266-9dda-13d0632d73de
+:END:
+#+title: EX7 fertiliser
+#+filetags: :Commodity:
+
+Agricultural product released by [[id:a7056ff8-e67d-4ca9-baf1-7e5df3efa677][Rockforth Corporation]] in 3305. It became the primary delivery vector for the crop [[id:1cffca4e-480b-46bf-b6c5-0af48c7292d3][blight]] pathogen after deliberate contamination.
