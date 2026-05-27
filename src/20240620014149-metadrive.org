@@ -2,6 +2,6 @@
 :ID:       f778f4fa-9cd0-4e2c-b3f4-6ee7adac4d03
 :END:
 #+title: MetaDrive
-Company where [[id:4ab3e632-de21-44bc-a834-83b808a737ec][Raan Corsen]] has worked.
+Hyperdrive-research company based in [[id:2a4e7539-b87c-4ce9-8012-b2690fa3b618][Chi Orionis]] where [[id:4ab3e632-de21-44bc-a834-83b808a737ec][Raan Corsen]] worked and chaired by [[id:9752d776-cd68-44a0-84fe-18132d8b5e74][Femi Dakarai]].
 
-Audited by [[id:68956273-c433-4aac-aac3-1ebe826337e5][BigSix]] in 3302.
+Audited by [[id:68956273-c433-4aac-aac3-1ebe826337e5][BigSix]] in 3302 and later acquired by [[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]].
