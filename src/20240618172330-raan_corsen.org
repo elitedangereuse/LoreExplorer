@@ -1,10 +1,14 @@
 :PROPERTIES:
 :ID:       4ab3e632-de21-44bc-a834-83b808a737ec
+:ROAM_REFS: Elite Dangerous: Premonition
 :END:
 #+title: Raan Corsen
 #+filetags: :Individual:
 
 Former [[id:f778f4fa-9cd0-4e2c-b3f4-6ee7adac4d03][MetaDrive]] employee linked to the 3302 audit controversy.
+
+In /Elite Dangerous: Premonition/, he is explicitly identified as using
+the callsign [[id:892f47f8-e388-4f74-be0c-00058cde19dd][Falchion]] in CQC.
 
 Reported to have fled toward [[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]] during the case.
 
