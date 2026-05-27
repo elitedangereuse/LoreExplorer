@@ -2,4 +2,6 @@
 :ID:       f778f4fa-9cd0-4e2c-b3f4-6ee7adac4d03
 :END:
 #+title: MetaDrive
-Company where [[id:4ab3e632-de21-44bc-a834-83b808a737ec][Raan Corsen]] has worked
+Company where [[id:4ab3e632-de21-44bc-a834-83b808a737ec][Raan Corsen]] has worked.
+
+Audited by [[id:68956273-c433-4aac-aac3-1ebe826337e5][BigSix]] in 3302.

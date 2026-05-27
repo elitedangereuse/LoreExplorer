@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       68956273-c433-4aac-aac3-1ebe826337e5
+:END:
+#+title: BigSix
+#+filetags: :Corporation:
+
+Independent auditing firm referenced in [[id:8c1a515a-798b-4b0b-aa14-5d81d8786e99][Galactic News: Problems at MetaDrive?]] and [[id:2ae91734-a01e-4bdd-8054-d54bb9f80b56][Galactic News: MetaDrive Audit Complete]].
+
+BigSix audited [[id:f778f4fa-9cd0-4e2c-b3f4-6ee7adac4d03][MetaDrive]] in 3302 and issued official statements regarding missing records and insurance claims linked to the company.
