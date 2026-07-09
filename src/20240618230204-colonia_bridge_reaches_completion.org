@@ -4,7 +4,7 @@
 #+title: Colonia Bridge Reaches Completion
 #+filetags: :3308:Federation:galnet:
 
-* [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] Bridge Reaches Completion
+* [[id:97a8c7e5-9399-4ebe-9457-8029ce809303][Colonia Bridge]] Reaches Completion
 
 /10 Mar 3308/
 
@@ -40,6 +40,6 @@ Newsfeeds were expecting one final press release from [[id:d9459015-dae3-4233-9e
 
 “It gives me enormous pleasure to announce a triumphant end for this historic undertaking. I want to thank every single person whose hard work made this dream of mine a reality. The names of those pilots most dedicated to the project will soon be recorded on commemorative beacons in the [[id:eb11ab9d-aab7-4d9b-aeaf-a228ef33d4da][Alcor]] and [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] systems.”
 
-“All of us at [[id:d9459015-dae3-4233-9eb7-a2fb11344097][Brewer Corporation]] feel a real sense of pride in the [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] Bridge. For decades to come, these six starports and 56 megaships will boost trade, support exploration and serve as way-stations for travellers. They represent what can be achieved when so many of us share the same vision and work together in harmony.”
+“All of us at [[id:d9459015-dae3-4233-9eb7-a2fb11344097][Brewer Corporation]] feel a real sense of pride in the [[id:97a8c7e5-9399-4ebe-9457-8029ce809303][Colonia Bridge]]. For decades to come, these six starports and 56 megaships will boost trade, support exploration and serve as way-stations for travellers. They represent what can be achieved when so many of us share the same vision and work together in harmony.”
 
 Pilots who delivered materials can now collect payment from Macdonald Settlement in the [[id:eb11ab9d-aab7-4d9b-aeaf-a228ef33d4da][Alcor]] system and [[id:f37f17f1-8eb3-4598-93f7-190fe97438a1][Jaques]] Station in the [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] system. The top 75% of contributors for the past week can also collect their pre-engineered overcharged power plant modules on the 11th of March.

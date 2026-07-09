@@ -4,7 +4,7 @@
 #+title: New Starports Created for Colonia Bridge
 #+filetags: :3308:Federation:galnet:
 
-* New Starports Created for [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] Bridge
+* New Starports Created for [[id:97a8c7e5-9399-4ebe-9457-8029ce809303][Colonia Bridge]]
 
 /28 Jan 3308/
 
@@ -28,6 +28,6 @@ Promium Relay in the Eoch Flyuae QK-E d12-2118 system
 
 At present the starports are not fully operational and only provide rearm, refuel and repair services. Basic commodity trading has also been established to accommodate pilots selling construction materials and to supply tritium fuel.
 
-A fourth phase of the [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] Bridge project is scheduled to begin on the 10th of February, which will aim to complete construction and add a broader range of facilities.
+A fourth phase of the [[id:97a8c7e5-9399-4ebe-9457-8029ce809303][Colonia Bridge]] project is scheduled to begin on the 10th of February, which will aim to complete construction and add a broader range of facilities.
 
 [[id:d9459015-dae3-4233-9eb7-a2fb11344097][Brewer Corporation]] was able to meet all of its targets for phase three due to the considerable amount of raw materials delivered by the galactic community. The names of the new starports were selected by those pilots who made the greatest contributions to the initiative.

@@ -4,7 +4,7 @@
 #+title: Initial Stage of Colonia Bridge Operational
 #+filetags: :3307:Federation:galnet:
 
-* Initial Stage of [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] Bridge Operational
+* Initial Stage of [[id:97a8c7e5-9399-4ebe-9457-8029ce809303][Colonia Bridge]] Operational
 
 /29 Oct 3307/
 
@@ -16,6 +16,6 @@ Twenty-five dockable megaships were sent out from the [[id:eb11ab9d-aab7-4d9b-ae
 
 Each vessel serves as a permanent way station for travellers and businesses, designed to improve the journey to and from [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]]. A variety of services are provided, including tritium refuelling for Drake-class fleet carriers.
 
-The [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] Bridge is the product of [[id:d9459015-dae3-4233-9eb7-a2fb11344097][Brewer Corporation]], which ran a highly successful deliveries campaign to collect resources. The megacorp has confirmed that phase two of this project will commence next week.
+The [[id:97a8c7e5-9399-4ebe-9457-8029ce809303][Colonia Bridge]] is the product of [[id:d9459015-dae3-4233-9eb7-a2fb11344097][Brewer Corporation]], which ran a highly successful deliveries campaign to collect resources. The megacorp has confirmed that phase two of this project will commence next week.
 
-During the creation of the [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] Bridge, the crew aboard the stationary megaship Memories of Oresrati in the Snake Sector OD-S b4-2 system reported an unusual incident. A distorted transmission that could have been an SOS was detected on long-range sensors. Although they were unable to triangulate its source, the signal strength suggested a point of origin within 50 light years.
+During the creation of the [[id:97a8c7e5-9399-4ebe-9457-8029ce809303][Colonia Bridge]], the crew aboard the stationary megaship Memories of Oresrati in the Snake Sector OD-S b4-2 system reported an unusual incident. A distorted transmission that could have been an SOS was detected on long-range sensors. Although they were unable to triangulate its source, the signal strength suggested a point of origin within 50 light years.

@@ -4,7 +4,7 @@
 #+title: Twin Initiatives for Colonia Bridge Project
 #+filetags: :3307:Federation:galnet:
 
-* Twin Initiatives for [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] Bridge Project
+* Twin Initiatives for [[id:97a8c7e5-9399-4ebe-9457-8029ce809303][Colonia Bridge]] Project
 
 /07 Oct 3307/
 
@@ -12,7 +12,7 @@
 
 Delivery campaigns in the [[id:eb11ab9d-aab7-4d9b-aeaf-a228ef33d4da][Alcor]] and [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] systems aim to improve journeys to the distant colonies.
 
-The [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] Bridge project is being funded by [[id:d9459015-dae3-4233-9eb7-a2fb11344097][Brewer Corporation]], which outlined the details in a press release:
+The [[id:97a8c7e5-9399-4ebe-9457-8029ce809303][Colonia Bridge]] project is being funded by [[id:d9459015-dae3-4233-9eb7-a2fb11344097][Brewer Corporation]], which outlined the details in a press release:
 
 “The [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] region has great potential for businesses and travellers, but the long voyage can be prohibitive. [[id:d9459015-dae3-4233-9eb7-a2fb11344097][Brewer Corporation]] is investing in the transportation infrastructure between the core systems and Colonia, to make crossing those thousands of light years easier.”
 

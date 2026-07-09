@@ -4,7 +4,7 @@
 #+title: Colonia Bridge Project Enters Phase Two
 #+filetags: :3307:Federation:galnet:
 
-* [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] Bridge Project Enters Phase Two
+* [[id:97a8c7e5-9399-4ebe-9457-8029ce809303][Colonia Bridge]] Project Enters Phase Two
 
 /04 Nov 3307/
 
@@ -16,8 +16,8 @@ A successful initiative in October resulted in the placement of 30 dockable mega
 
 A press release from [[id:d9459015-dae3-4233-9eb7-a2fb11344097][Brewer Corporation]] stated:
 
-“We are now ready to continue work on the [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] Bridge, by constructing additional megaships to fill the middle of the planned route. As before, we require shipments of ceramic composites, computer components and thermal cooling units at Macdonald Settlement in the [[id:eb11ab9d-aab7-4d9b-aeaf-a228ef33d4da][Alcor]] system or [[id:f37f17f1-8eb3-4598-93f7-190fe97438a1][Jaques]] Station in the Colonia system.”
+“We are now ready to continue work on the [[id:97a8c7e5-9399-4ebe-9457-8029ce809303][Colonia Bridge]], by constructing additional megaships to fill the middle of the planned route. As before, we require shipments of ceramic composites, computer components and thermal cooling units at Macdonald Settlement in the [[id:eb11ab9d-aab7-4d9b-aeaf-a228ef33d4da][Alcor]] system or [[id:f37f17f1-8eb3-4598-93f7-190fe97438a1][Jaques]] Station in the Colonia system.”
 
-“Should deliveries reach sufficient levels, the top 75% of contributors will be awarded an engineered frame shift drive with increased range and faster boot sequence. Our hope is that this encourages deep space explorers and long-distance haulers to take part in the [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] Bridge project.”
+“Should deliveries reach sufficient levels, the top 75% of contributors will be awarded an engineered frame shift drive with increased range and faster boot sequence. Our hope is that this encourages deep space explorers and long-distance haulers to take part in the [[id:97a8c7e5-9399-4ebe-9457-8029ce809303][Colonia Bridge]] project.”
 
 As an additional reward, the top ten contributors at [[id:eb11ab9d-aab7-4d9b-aeaf-a228ef33d4da][Alcor]] and [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] will be invited to submit naming suggestions for the new megaships. Submissions will be subject to review by the [[id:d9459015-dae3-4233-9eb7-a2fb11344097][Brewer Corporation]] board of directors. To ensure a variety of choice, only pilots who have not yet submitted names for the Colonia Bridge megaships will be eligible.
