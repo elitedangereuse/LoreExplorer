@@ -14,7 +14,7 @@
 
 The final batch of service installations wraps up construction work on the six starports. The following services will be available at Canonn Complex, Helgrind [[id:e179ecca-9ab3-4184-b05e-107b2e6932c2][Gateway]], Venatores Hub, Vladmir McDoogle's Triumph and Zerreiss Station:
 
-[[id:2fb00d7f-7234-45fa-8e3c-af685aa8f0d8][Universal Cartographics]] \ [[id:58a7f8bd-897e-47a3-bc42-1456d15dce3e][Vista Genomics]]
+[[id:2fb00d7f-7234-45fa-8e3c-af685aa8f0d8][Universal Cartographics]] \ [[id:91b3e6e1-62aa-4d85-a93a-1d64765a8729][Vista Genomics]]
 
 Pioneer Supplies \ Bartender
 
@@ -26,7 +26,7 @@ Outfitting \ Shipyard
 
 The following services will be available at Promium Relay:
 
-[[id:2fb00d7f-7234-45fa-8e3c-af685aa8f0d8][Universal Cartographics]] \ [[id:58a7f8bd-897e-47a3-bc42-1456d15dce3e][Vista Genomics]]
+[[id:2fb00d7f-7234-45fa-8e3c-af685aa8f0d8][Universal Cartographics]] \ [[id:91b3e6e1-62aa-4d85-a93a-1d64765a8729][Vista Genomics]]
 
 Pioneer Supplies \ Bartender
 
