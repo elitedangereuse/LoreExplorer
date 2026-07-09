@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       91b3e6e1-62aa-4d85-a93a-1d64765a8729
+:END:
+#+title: Vista Genomics
+#+filetags: :Corporation:Exobiology:
+
+Vista Genomics is an exobiology company that purchases and analyses genetic data collected by independent pilots. Its services support [[id:639e4adf-a977-44b2-ad57-dbc51fe83e36][exobiology]] by buying completed [[id:70557ed0-463a-4cb3-99a8-379ab456e61a][Biological Sample]] data gathered with the [[id:cacdbf9c-073f-4a50-ba65-4ab16938c6a4][Genetic Sampler]]. [[id:965028b5-8dce-4fa9-a9b7-517d24942432][Vista Genomics Boosts Biodata Payouts]]
+
+Vista Genomics vendors can operate on ports, megaships and [[id:28dcc8eb-311b-416d-af66-5b9922625d6d][fleet carriers]]. [[id:965028b5-8dce-4fa9-a9b7-517d24942432][Vista Genomics Boosts Biodata Payouts]]
+
+Vista Genomics services were added to all six [[id:ba6c6359-137b-4f86-ad93-f8ae56b0ad34][Colonia]] Bridge starports during phase four of the project in 3308. [[id:6e96009c-51e7-4bd1-9310-180b5a97f383][Colonia Bridge Project Enters Final Phase]] [[id:0d0c6d33-5ce9-4787-90bc-0538c7388da7][Additional Services Planned for Colonia Bridge]]
+
+In 3308 the company increased payouts for biodata and reportedly offered to share its genetic database with the team working alongside [[id:8f63442a-1f38-457d-857a-38297d732a90][Professor Ishmael Palin]] during the approach of the Thargoid anomalies and the wider [[id:09343513-2893-458e-a689-5865fdc32e0a][Thargoid]] threat. [[id:965028b5-8dce-4fa9-a9b7-517d24942432][Vista Genomics Boosts Biodata Payouts]] [[id:55980165-99c6-416f-a9cd-fd71c805a53d][Public Unnerved by Palin Announcement]]
+
+In 3311, Vista Genomics services accepted survey data from [[id:64e3ad83-30b5-41fc-bde5-8eb63c38ab83][HIP 87621]] at [[id:c3b39668-e5bc-48d7-ab11-fc031e720fd2][Exogene Sciences]]. [[id:bd9aa0ad-cce3-4bb3-8f2f-bfc3ea4d7df9][Pilots' Federation Members Enter HIP 87621]]
