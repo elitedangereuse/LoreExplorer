@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       837102ca-adeb-4675-a8b0-106aded4de82
+:END:
+#+title: Project Equinox
+#+filetags: :Project:
+
+Project associated with [[id:3b1d78d9-62af-4251-b831-9833d5309d2f][GCS Sarasvati]] and anti-Thargoid monitoring after the [[id:c6674165-eb13-47d3-ad54-796aab951892][First Thargoid War]].
+
+Recovered material is tied to [[id:1f7952b5-0eab-4dd0-b07d-b7fb9e5603fa][Cassandra Lockhart]] and references research by [[id:48661881-ac53-4970-aa8c-ae4141da4d16][Dr. Calvin]].
+
+Source: [[https://elite-dangerous.fandom.com/wiki/GCS_Sarasvati][Elite Dangerous Wiki: GCS Sarasvati]]

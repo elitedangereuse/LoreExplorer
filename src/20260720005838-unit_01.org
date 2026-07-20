@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6846558e-0af5-49fe-b8fb-46d630466f8e
+:END:
+#+title: Unit 01
+#+filetags: :Individual:
+
+Designation identified by the [[id:4df4a36a-20bf-43ca-9bf1-2324f832ab81][listening post]] orbiting [[id:e34a4215-b545-4987-aedc-99d5fea6a006][Jotunheim]] 7 a as "Project [[id:0f8ca155-6d9d-4eaf-b609-0d3bb456a0a4][Thunderchild]] Unit 01".
+
+The transmission led pilots toward [[id:3b1d78d9-62af-4251-b831-9833d5309d2f][GCS Sarasvati]] in [[id:729cea6c-7c2e-4fb9-b1ac-bfb07c2df0e9][Sheron]].
+
+Sources: [[https://canonn.science/codex/gcs-sarasvati/][Canonn: GCS Sarasvati]]; [[https://elite-dangerous.fandom.com/wiki/Unit_01][Elite Dangerous Wiki: Unit 01]]

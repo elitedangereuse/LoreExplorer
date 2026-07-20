@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       e34a4215-b545-4987-aedc-99d5fea6a006
+:END:
+#+title: Jotunheim
+#+filetags: :System:
+
+System containing a listening post in orbit of 7 a that helped reveal the location of [[id:3b1d78d9-62af-4251-b831-9833d5309d2f][GCS Sarasvati]].
+
+It was also the site of the 3303 conflict described in [[id:50ad3377-d30c-4ee5-9226-a0e86b4a4676][Community Goal: The Battle for Jotunheim]] and [[id:dd81dcf2-fa40-458e-a84f-dce571738c8c][Galactic News: Conflict in Jotunheim Draws to a Close]].

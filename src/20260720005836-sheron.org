@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       729cea6c-7c2e-4fb9-b1ac-bfb07c2df0e9
+:END:
+#+title: Sheron
+#+filetags: :System:
+
+System formerly designated IC 4604 Sector FB-X c1-16.
+
+The abandoned [[id:3b1d78d9-62af-4251-b831-9833d5309d2f][GCS Sarasvati]] can be found in orbit of Sheron A 1 a.
+
+Sources: [[https://canonn.science/codex/gcs-sarasvati/][Canonn: GCS Sarasvati]]; [[https://elite-dangerous.fandom.com/wiki/GCS_Sarasvati][Elite Dangerous Wiki: GCS Sarasvati]]
