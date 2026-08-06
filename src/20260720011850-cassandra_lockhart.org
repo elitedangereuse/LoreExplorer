@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       1f7952b5-0eab-4dd0-b07d-b7fb9e5603fa
+:END:
+#+title: Cassandra Lockhart
+#+filetags: :Individual:
+
+Project lead for [[id:837102ca-adeb-4675-a8b0-106aded4de82][Project Equinox]] associated with the recovered logs aboard [[id:3b1d78d9-62af-4251-b831-9833d5309d2f][GCS Sarasvati]].
+
+Source: [[https://elite-dangerous.fandom.com/wiki/GCS_Sarasvati][Elite Dangerous Wiki: GCS Sarasvati]]

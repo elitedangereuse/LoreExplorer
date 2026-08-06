@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d55211e6-b32e-424e-b21c-3cb1fdd9f676
+:END:
+#+title: Julian Lyons
+#+filetags: :Individual:
+
+Member of the [[id:0f8ca155-6d9d-4eaf-b609-0d3bb456a0a4][Project Thunderchild]] team associated with an encoded transmission recovered through the [[id:3b1d78d9-62af-4251-b831-9833d5309d2f][GCS Sarasvati]] mystery.
+
+The message appears to have been intended for [[id:6846558e-0af5-49fe-b8fb-46d630466f8e][Unit 01]].
+
+Source: [[https://elite-dangerous.fandom.com/wiki/GCS_Sarasvati][Elite Dangerous Wiki: GCS Sarasvati]]
