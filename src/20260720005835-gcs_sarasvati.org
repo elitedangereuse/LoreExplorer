@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       3b1d78d9-62af-4251-b831-9833d5309d2f
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/GCS_Sarasvati https://canonn.science/codex/gcs-sarasvati/
 :END:
 #+title: GCS Sarasvati
 #+filetags: :ship:
@@ -12,12 +13,11 @@ The Sarasvati is associated with [[id:837102ca-adeb-4675-a8b0-106aded4de82][Proj
 
 Recovered logs include material from [[id:1f7952b5-0eab-4dd0-b07d-b7fb9e5603fa][Cassandra Lockhart]] and an encoded transmission from [[id:d55211e6-b32e-424e-b21c-3cb1fdd9f676][Julian Lyons]].
 
-Sources: [[https://canonn.science/codex/gcs-sarasvati/][Canonn: GCS Sarasvati]]; [[https://elite-dangerous.fandom.com/wiki/GCS_Sarasvati][Elite Dangerous Wiki: GCS Sarasvati]]
-
 * Recovered Logs
 
 #+begin_quote
 GCMW ARCHIVAL REEL #0503 – WATCH THE SKIES
+
 The Galactic Cooperative of Worlds presents: Watch the Skies!
 
 Although the war against the Thargoids has ended in victory for humanity and the Galactic Cooperative, the Octagonal Menace is still not something we can take lightly! As the vanguard of civilized space, it is the duty of all GalCop pilots to remain ever vigilant against this continued existential threat to the galaxy.
@@ -29,6 +29,7 @@ Remember these words of wisdom: ask not what your galaxy can do for you, but wha
 
 #+begin_quote
 PROJECT EQUINOX MONITORING LOG 3155.12.27
+
 It’s been nearly five years since the end of the war, and there’s still so many questions that haven’t been answered about the Thargoids. But first and foremost on my mind at least is:
 
 Where did they go?
@@ -42,6 +43,7 @@ I think the others are starting to ask the same questions too, whether or not Eq
 
 #+begin_quote
 PROJECT EQUINOX MONITORING LOG – 3172.08.16
+
 They’re shutting us down. After all this time we finally have a breakthrough, and they’ re shutting us down. How in the hell can the Federation and Empire be so shortsighted?
 
 Iit was literally under our noses the entire time, the Thargoids didn’t leave. Not all of them, at least. If we had more time we might’ve been able to run a more detailed analysis but the data we have right now already paints a pretty grim picture as is: the Thargoids are sowing the seeds for their return. We couldn’t detect them before because the traces were so miniscule, but it’s clear that these new self-repairing alloys that are starting to pop up in labs everywhere share an alarming amount of physical characteristics with Thargoid bio-alloys pulled from their ships during the war.
@@ -55,6 +57,7 @@ We’re almost out of time.
 
 #+begin_quote
 …ENCODED TRANSMISSION DETECTED…
+
 Unit 01, if you’re receiving this, then I’ve got good news and bad news. The good news is the contingency worked.
 
 The bad news is the contingency was necessary.
