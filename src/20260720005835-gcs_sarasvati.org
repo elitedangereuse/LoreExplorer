@@ -27,6 +27,9 @@ Even now, GalCop’s scientists are hard at work developing newer, more advanced
 Remember these words of wisdom: ask not what your galaxy can do for you, but what you can do for your galaxy. Find your local GalCop recruiter today!
 #+end_quote
 
+[[file:img/logs/gcs sarasvati/watch the skies 1.png]]
+[[file:img/logs/gcs sarasvati/watch the skies 2.png]]
+
 #+begin_quote
 PROJECT EQUINOX MONITORING LOG 3155.12.27
 
@@ -41,6 +44,9 @@ I think the others are starting to ask the same questions too, whether or not Eq
 -Cassandra Lockhart
 #+end_quote
 
+[[file:img/logs/gcs sarasvati/project equinox monitoring log 3155 1.png]]
+[[file:img/logs/gcs sarasvati/project equinox monitoring log 3155 2.png]]
+
 #+begin_quote
 PROJECT EQUINOX MONITORING LOG – 3172.08.16
 
@@ -54,6 +60,9 @@ We’re almost out of time.
 
 -Cassandra Lockhart
 #+end_quote
+
+[[file:img/logs/gcs sarasvati/project equinox monitoring log 3172 1.png]]
+[[file:img/logs/gcs sarasvati/project equinox monitoring log 3172 2.png]]
 
 #+begin_quote
 …ENCODED TRANSMISSION DETECTED…
@@ -70,3 +79,6 @@ Whatever else happens, I’m proud of you. We all are.
 
 -Julian Lyons
 #+end_quote
+
+[[file:img/logs/gcs sarasvati/encoded transmission detected 1.png]]
+[[file:img/logs/gcs sarasvati/encoded transmission detected 2.png]]
