@@ -5,6 +5,8 @@
 #+title: Penal Colony BV-2259
 #+filetags: :Thargoid:Settlement:
 
+[[file:img/settlements/Penal_Colony_BV-2259_v2.webp]]
+
 Penal Colony BV-2259 is an abandoned penal colony that has been
 attacked by Thargoids in the [[id:6792df45-d11b-47aa-b3a5-814875cbc05c][HIP 16217]] system on body [[https://edgis.elitedangereuse.fr/static/sysmap.html?system=HIP+16217&body_id=18][AB 1 a]].
 
