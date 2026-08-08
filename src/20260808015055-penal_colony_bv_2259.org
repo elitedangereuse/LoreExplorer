@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       e121d10f-8ea7-4842-8988-4b3aec463ebf
+:ROAM_REFS: https://canonn.science/codex/penal-colony-bv-2259/
+:END:
+#+title: Penal Colony BV-2259
+#+filetags: :Thargoid:Settlement:
+
+Penal Colony BV-2259 is an abandoned penal colony that has been
+attacked by Thargoids in the [[id:6792df45-d11b-47aa-b3a5-814875cbc05c][HIP 16217]] system on body [[https://edgis.elitedangereuse.fr/static/sysmap.html?system=HIP+16217&body_id=18][AB 1 a]].
+
+Colony automated defence is still online. If you visit during a
+Thargoid attack, the defences may be seen firing back. Some commanders
+have also reported being fired upon when landed on the colony landing
+pad. This in inevitably fatal.
+
+The location of this site can be found by following the three nearby listening posts located in:
+[[id:8e9b5a29-b9a6-4987-8fcd-91234a4a0acd][Electra]] / [[id:7778d101-a0ed-4943-b9a7-b93aded323d9][Pleiades Sector PD-S b4-0]] / [[id:287ae6a7-95e6-4a7a-9108-01f8995753fc][Pleiades Sector KC-V c2-4]]

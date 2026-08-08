@@ -4,6 +4,4 @@
 #+title: Dr. Calvin
 #+filetags: :Individual:
 
-Researcher referenced in the [[id:0f8ca155-6d9d-4eaf-b609-0d3bb456a0a4][Project Thunderchild]] listening-post transcript as part of [[id:837102ca-adeb-4675-a8b0-106aded4de82][Project Equinox]].
-
-Source: [[https://canonn.science/codex/gcs-sarasvati/][Canonn: GCS Sarasvati]]
+Researcher referenced in the [[id:0f8ca155-6d9d-4eaf-b609-0d3bb456a0a4][Project Thunderchild]] listening post transcript as part of [[id:837102ca-adeb-4675-a8b0-106aded4de82][Project Equinox]].

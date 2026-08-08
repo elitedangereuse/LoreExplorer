@@ -2,12 +2,12 @@
 :ID:       8eafbb1f-b1ca-4a6e-a864-2d53083506d7
 :END:
 #+title: Alvin Deefer
-#+filetags: :Individual:
+#+filetags: :ListeningPost:Individual:
 
 * Alpha Centauri B 1
 
 #+begin_quote
-…[[id:4df4a36a-20bf-43ca-9bf1-2324f832ab81][LISTENING POST]] SIGNAL DATA…
+…LISTENING POST SIGNAL DATA…
 ***Unregistered transmission detected***
 
 Signal matches at listening post :George Pantazis
@@ -22,7 +22,7 @@ People have been taking too many liberties and it’s time to make them understa
 * George Pantazis A 12 (Anew)
 
 #+begin_quote
-…[[id:4df4a36a-20bf-43ca-9bf1-2324f832ab81][LISTENING POST]] SIGNAL DATA…
+…LISTENING POST SIGNAL DATA…
 ***Unregistered transmission detected***
 
 Signal matches at listening post :Alpha Centauri

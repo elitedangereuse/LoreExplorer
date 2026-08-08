@@ -5,7 +5,3 @@
 #+title: Listening Post
 
 Listening posts are automated beacons or relay stations that can broadcast encoded messages or coordinates when scanned.
-
-One known example orbits [[id:e34a4215-b545-4987-aedc-99d5fea6a006][Jotunheim]] 7 a. That listening post identified [[id:6846558e-0af5-49fe-b8fb-46d630466f8e][Unit 01]] as "Project [[id:0f8ca155-6d9d-4eaf-b609-0d3bb456a0a4][Thunderchild]] Unit 01" and pointed pilots 591.10 light-years toward [[id:3b1d78d9-62af-4251-b831-9833d5309d2f][GCS Sarasvati]], an abandoned [[id:751c84bc-ea85-495d-923c-7776da57803a][megaship]] in orbit of [[id:729cea6c-7c2e-4fb9-b1ac-bfb07c2df0e9][Sheron]] A 1 a.
-
-Source: [[https://canonn.science/codex/gcs-sarasvati/][Canonn: GCS Sarasvati]]

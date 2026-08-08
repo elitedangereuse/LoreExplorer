@@ -3,7 +3,7 @@
 :ROAM_REFS: https://elite-dangerous.fandom.com/wiki/GCS_Sarasvati https://canonn.science/codex/gcs-sarasvati/
 :END:
 #+title: GCS Sarasvati
-#+filetags: :ship:
+#+filetags: :Megaship:3151:3169:3172:3155:ship:
 
 Abandoned [[id:751c84bc-ea85-495d-923c-7776da57803a][megaship]] in orbit of [[id:729cea6c-7c2e-4fb9-b1ac-bfb07c2df0e9][Sheron]] A 1 a.
 
@@ -22,7 +22,7 @@ The Galactic Cooperative of Worlds presents: Watch the Skies!
 
 Although the war against the Thargoids has ended in victory for humanity and the Galactic Cooperative, the Octagonal Menace is still not something we can take lightly! As the vanguard of civilized space, it is the duty of all GalCop pilots to remain ever vigilant against this continued existential threat to the galaxy.
 
-Even now, GalCop’s scientists are hard at work developing newer, more advanced technology to monitor threats and keep us safe from this extra-terrestrial menace, and the ranks of our space forces are growing every day to meet any enemy that may cast a shadow across civilized space. But we still need heroes, pilot; heroes like you! Only by banding together as a unified front can we continue to ensure a brighter future for everyone in the galaxy.
+Even now, [[id:c71d963e-1933-4701-bb5a-d2a4332125c5][GalCop]]’s scientists are hard at work developing newer, more advanced technology to monitor threats and keep us safe from this extra-terrestrial menace, and the ranks of our space forces are growing every day to meet any enemy that may cast a shadow across civilized space. But we still need heroes, pilot; heroes like you! Only by banding together as a unified front can we continue to ensure a brighter future for everyone in the galaxy.
 
 Remember these words of wisdom: ask not what your galaxy can do for you, but what you can do for your galaxy. Find your local GalCop recruiter today!
 #+end_quote
@@ -54,7 +54,7 @@ They’re shutting us down. After all this time we finally have a breakthrough, 
 
 Iit was literally under our noses the entire time, the Thargoids didn’t leave. Not all of them, at least. If we had more time we might’ve been able to run a more detailed analysis but the data we have right now already paints a pretty grim picture as is: the Thargoids are sowing the seeds for their return. We couldn’t detect them before because the traces were so miniscule, but it’s clear that these new self-repairing alloys that are starting to pop up in labs everywhere share an alarming amount of physical characteristics with Thargoid bio-alloys pulled from their ships during the war.
 
-This is the smoking gun, and no one is willing or able to do anything about it anymore; the Federation won’t listen, Duval won’t listen, and GalCop has fractured to the point where even the Old Worlds probably won’t listen. Maybe Thunderchild could’ve done something, but they went dark in ’69.
+This is the smoking gun, and no one is willing or able to do anything about it anymore; the Federation won’t listen, [[id:f89dda0b-2c78-414c-9567-8a79beab46a7][Duval]] won’t listen, and GalCop has fractured to the point where even the Old Worlds probably won’t listen. Maybe Thunderchild could’ve done something, but they went dark in ’69.
 
 We’re almost out of time.
 
@@ -71,7 +71,7 @@ Unit 01, if you’re receiving this, then I’ve got good news and bad news. The
 
 The bad news is the contingency was necessary.
 
-Before everything ended, Dr, Lockhart from Project Equinox managed to track me down; all the data in this archive, all their findings… you’re going to need it for what comes ahead. The whole Galaxy is going to need it. In all likelihood, by the time you’ve gotten this message, me, Izzy, and the rest of the Thunderchild team will be long gone. And I’m sorry, I truly am. We’ve given you an enormous responsibility, one you never asked for.
+Before everything ended, Dr, [[id:1f7952b5-0eab-4dd0-b07d-b7fb9e5603fa][Lockhart]] from [[id:837102ca-adeb-4675-a8b0-106aded4de82][Project Equinox]] managed to track me down; all the data in this archive, all their findings… you’re going to need it for what comes ahead. The whole Galaxy is going to need it. In all likelihood, by the time you’ve gotten this message, me, [[id:14821546-884c-4105-865c-177d931bf1e4][Izzy]], and the rest of the [[id:0f8ca155-6d9d-4eaf-b609-0d3bb456a0a4][Thunderchild]] team will be long gone. And I’m sorry, I truly am. We’ve given you an enormous responsibility, one you never asked for.
 
 Listen, we all made mistakes. I’m not going to pretend that the Cooperative didn’t collapse for a reason. We watched the hopes and dreams of generations before us crumble in the face of political infighting in the decades following the war. But out of everything we got wrong, out of all our failures, you weren’t one of them.
 

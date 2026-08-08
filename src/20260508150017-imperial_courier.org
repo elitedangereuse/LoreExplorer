@@ -3,7 +3,7 @@
 :ROAM_REFS: https://www.elitedangerous.com/equipment/starships/imperial-courier
 :END:
 #+title: Imperial Courier
-#+filetags: :ship:
+#+filetags: :3145:ship:
 
 * Shipyard Stats
 - Fighter bay: No
@@ -16,5 +16,8 @@
 - Hull mass: 35 t
 - Cargo capacity: 12 t
 - Dimensions: 7.1 m high, 42.1 m long, 27.4 m wide
+
+* History
+Developed during [[id:f89dda0b-2c78-414c-9567-8a79beab46a7][Hender Saik Duval]]'s reign in 3145.
 
 [[file:img/ships/forc_fdev_v_imperial_courier_1095-base.jpg]]

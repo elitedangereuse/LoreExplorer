@@ -8,8 +8,6 @@ Project identified by the [[id:4df4a36a-20bf-43ca-9bf1-2324f832ab81][listening p
 
 The transmission references research by [[id:48661881-ac53-4970-aa8c-ae4141da4d16][Dr. Calvin]] linked to [[id:837102ca-adeb-4675-a8b0-106aded4de82][Project Equinox]].
 
-Source: [[https://canonn.science/codex/gcs-sarasvati/][Canonn: GCS Sarasvati]]
-
 * Listening Post Transcript
 
 #+begin_quote
@@ -26,7 +24,7 @@ I’ve detected a encoded transmission emitted from a location 591.10ly from thi
 93::M-AB-HMC,R-HMC-I-I-I-I:M-HMC-I-I-I::
 145221121::Null-Null,Null-NH3-Ar-Ar-N-Ne:Null-Null-Null-He::DF0D::Ship name::62-24 3A-P:
 
-In the up-coming struggle Dr Calvin’s data may be critical. Calling all Galcop personnel, we must find Calvin’s Archive and retrieve the data at all costs.
+In the up-coming struggle Dr Calvin’s data may be critical. Calling all [[id:c71d963e-1933-4701-bb5a-d2a4332125c5][Galcop]] personnel, we must find Calvin’s Archive and retrieve the data at all costs.
 
 …End of Transmission…
 #+end_quote

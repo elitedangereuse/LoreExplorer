@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       ef56313c-66b2-4a2e-bfbd-9a1316101e95
+:END:
+#+title: Nav Beacon
+
+Nav Beacons are devices placed in orbit around the primary stars of
+inhabited systems that provide local navigation data for pilots. Data
+can be downloaded from a Nav Beacon by targeting and scanning it.
+
+[[file:img/beacons/Navigation_Beacon.webp]]
+
+[[file:img/beacons/crashed nav beacon.jpg]]

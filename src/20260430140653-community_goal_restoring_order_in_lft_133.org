@@ -60,7 +60,7 @@ and could prevent the initiative from running smoothly.
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Bounty Hunting Locations:
-Nav Beacon
+[[id:ef56313c-66b2-4a2e-bfbd-9a1316101e95][Nav Beacon]]
 LFT 133 5 - 1xLow Res
 LFT 133 2 - 1xHigh Res, 1xHaz Res
 LFT 133 3 - 1xHaz Res

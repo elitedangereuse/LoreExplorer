@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       8e9b5a29-b9a6-4987-8fcd-91234a4a0acd
+:ROAM_REFS: https://canonn.science/codex/penal-colony-bv-2259/
+:END:
+#+title: Electra 3
+#+filetags: :ListeningPost:
+
+A listening post related to the abandoned [[id:e121d10f-8ea7-4842-8988-4b3aec463ebf][Penal Colony BV-2259]] can be found near [[https://edgis.elitedangereuse.fr/static/sysmap.html?system=Electra&body_id=4][Electra 3]].
+
+#+begin_quote
+…LISTENING POST SIGNAL DATA…
+
+…Corrupted Transponder Signal WKD-184-A Detected…
+
+Matching Signals Detected: (Pleiades Sector PD-S B4-0, Pleiades Sector KC-V C2-4)
+
+Approximate Signal Range: 36-37 LY
+
+…emergency situation…been a breakout…more wrong…didn’t catch a thing…long:-30.6102…shut down…pulse…Life…fried…lockdown…hailing…no luck…out…hope…
+
+…Signal Blocked at Source…
+#+end_quote

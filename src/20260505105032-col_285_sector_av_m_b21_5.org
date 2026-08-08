@@ -2,9 +2,9 @@
 :ID:       1e5f2eeb-0139-464a-abe0-d80d5c5d2a14
 :END:
 #+title: Col 285 Sector AV-M b21-5
-#+filetags: :System:
+#+filetags: :ListeningPost:System:
 
-Presence of a [[id:4df4a36a-20bf-43ca-9bf1-2324f832ab81][Listening Post]]
+Presence of a Listening Post
 #+begin_quote
 DATA OF UNKNOWN HUMAN ORIGIN
 ...Transponder Signal PHO-265-A Detected...

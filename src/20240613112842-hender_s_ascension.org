@@ -2,7 +2,7 @@
 :ID:       e964a0ac-a328-49f9-aeb4-48dc15db9103
 :END:
 #+title: Hender's Ascension
-#+filetags: :Tourist:History:beacon:Empire:
+#+filetags: :3145:Tourist:History:beacon:Empire:
 * 0150 Hender's Ascension
 [[id:73e31493-0c88-4fd7-9f49-9f3f1c92db41][Facece]]
 
@@ -10,11 +10,11 @@
 twenty two, he was the youngest to attain the throne.
 
 The new Emperor was a cautious man and his initial action on the
-political stage reflected this. The development of the Imperial
-Courier in 3145, the first Imperially funded ship design (designed
-without to much regard to cost) to appear in several hundred years
+political stage reflected this. The development of the [[id:fd9625cc-fc11-4551-9772-769de7ed9a78][Imperial
+Courier]] in 3145, the first Imperially funded ship design (designed
+without too much regard to cost) to appear in several hundred years
 prompted a large scale effort of renewal that had started with the
-establishment of the [[id:73e31493-0c88-4fd7-9f49-9f3f1c92db41][Facece]] Military Academy in 3104. Ship trials the
+establishment of the [[id:efeee2bb-07f8-4e37-a932-de282588cb6e][Facece Military Academy]] in 3104. Ship trials the
 previous year had suggested the Courier would exceed expectations and
 so further finance was ploughed into the area of spaceship design.
 
