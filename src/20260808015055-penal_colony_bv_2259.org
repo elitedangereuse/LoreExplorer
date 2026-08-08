@@ -13,7 +13,7 @@ Thargoid attack, the defences may be seen firing back. Some commanders
 have also reported being fired upon when landed on the colony landing
 pad. This in inevitably fatal.
 
-The location of this site can be found by following the three nearby listening posts located in:
+The location of this site can be found by following the three nearby [[id:4df4a36a-20bf-43ca-9bf1-2324f832ab81][listening posts]] located in:
 [[id:8e9b5a29-b9a6-4987-8fcd-91234a4a0acd][Electra]] / [[id:7778d101-a0ed-4943-b9a7-b93aded323d9][Pleiades Sector PD-S b4-0]] / [[id:287ae6a7-95e6-4a7a-9108-01f8995753fc][Pleiades Sector KC-V c2-4]]
 
 * Logs
@@ -21,7 +21,7 @@ The location of this site can be found by following the three nearby listening p
 #+begin_quote
 IN THE COOLER 1/4
 
-Chief Warden Halil – Penal Colony Report N67P-23
+[[id:cda46b82-514a-438c-9aa7-54c6b57a4216][Chief Warden Halil]] – Penal Colony Report N67P-23
 
 As if running this facility wasn’t challenging enough, now we’re
 having problems with transit. I suppose that’s what we get for using
@@ -41,7 +41,7 @@ union-approved contractors from now on.
 #+begin_quote
 IN THE COOLER 2/4
 
-Chief Warden Halil – Penal Colony Report N67P-24
+[[id:cda46b82-514a-438c-9aa7-54c6b57a4216][Chief Warden Halil]] – Penal Colony Report N67P-24
 
 We have an emergency Situation. At first I thought there’d been a
 breakout. I couldn’t have been more wrong. They jumped in right on top
@@ -63,7 +63,7 @@ far no luck. We’ll just have to wait this out and hope for the best.
 #+begin_quote
 IN THE COOLER 3/4
 
-Chief Warden Halil – Penal Colony Report N67P-25
+[[id:cda46b82-514a-438c-9aa7-54c6b57a4216][Chief Warden Halil]] – Penal Colony Report N67P-25
 
 Someone has to come soon. We lost contact with Central two days
 ago. Surely the alarm will have been raised by now? I’m trying to
@@ -78,7 +78,7 @@ everything is fine. So why is it so cold in here?
 #+begin_quote
 IN THE COOLER 4/4
 
-Chief Warden Halil – Penal Colony Report N67P-26
+[[id:cda46b82-514a-438c-9aa7-54c6b57a4216][Chief Warden Halil]] – Penal Colony Report N67P-26
 
 It’s got to be at least twenty below in here. My hands are numb. Gotta be honest, I’ve had better days.
 
