@@ -1,0 +1,131 @@
+:PROPERTIES:
+:ID:       7e2f9cde-69fc-4351-b35e-236365ff178c
+:ROAM_REFS: https://canonn.science/codex/botanical-research-station-fna-559/
+:END:
+#+title: Botanical Research Station FNA-559
+#+filetags: :Settlement:
+
+Botanial Research Station FNA-559 is an abandoned settlement in the [[id:2fcc19a4-cada-4881-978f-5f3839dbac73][Col 285 Sector MZ-N c7-13]] system on body [[https://edgis.elitedangereuse.fr/static/sysmap.html?system=Col+285+Sector+MZ-N+c7-13&body_id=7][AB 1]].
+
+The location of this site can be found by following the three nearby listening posts located in:
+[[id:cc12380d-420f-4b8a-a003-9159201e7d0e][Col 285 Sector EC-U d3-59]] / [[id:ae89b47a-35ff-4bd6-bb68-475c5583bb71][Col 285 Sector EF-A b16-1]] / [[id:d5940bf3-1569-43f5-a3c5-c7a4d7083a85][Col 285 Sector LO-P c6-1]]
+
+* Logs
+
+Around the settlement are five Settlement Comms Uplink
+points. Scanning them will give some clues on the fate of the group of
+xenobiologists studying alien fauna.
+
+#+begin_quote
+ALLERGIES ARE ONE THING 1/5
+
+Personal Log:
+
+The discovery of this new flora is going to be a real game
+changer. Discovering life that can somehow survive all the way out
+here in the harshest conditions. No sign of water, massive temperature
+fluctuations and almost no atmosphere. I could only have dreamt of
+this kind of assignment. As a xenobiologist this is a very exciting
+time.
+
+We’ve collected samples, catalogues and stored them for return to the
+corporate labs back home. And that’s all fine, but the real exciting
+stuff is the work on cross-pollination with other plant life.
+
+The applications are endless. Imagine if we can create crops that can
+survive in 0 atmosphere, or make them resistant to disease? We could
+end famine in our lifetime. We could create new foods to further
+exploration. Terraforming could be made so much quicker if we can
+create planets (misspelling in log, should be plants) that expel CO2
+without requiring oxygen.
+
+I know some out there would see this as playing god, but this is
+cutting edge science, and I for one am really excited to see what we
+can do.
+#+end_quote
+
+#+begin_quote
+ALLERGIES ARE ONE THING 2/5
+
+Personal Log:
+
+These plants are incredible. We naively thought that the part we could
+see was the whole plant, but it is just the tip. Our assumption is
+that these outer casings sprout up above ground to collect sunlight,
+while the main plant goes on for hundreds of meters deep underground.
+
+[[id:f8f1a06f-3bba-4169-99a7-92c5475d4c87][Layland]] almost choked on his coffee when the ground scan came
+back. Our little camp is sitting right on top of one of these things,
+covering at least 3 km.
+
+We’re going to do a little digging and see if we can get a sample of
+the main plant. This is so exciting.
+#+end_quote
+
+#+begin_quote
+ALLERGIES ARE ONE THING 3/5
+
+Personal Log:
+
+The last few days have been really tense after the accident in the
+lab.
+
+It happened so quick. We were on our way out and [[id:12416525-4dc6-4f40-b768-ff4afeff630b][McCreedy]] bumped into
+one of the specimens, knocking it onto the floor. The casing spit open
+and released some kind of spores. Everything would have been fine
+except that the fool had already started taking his suit off and got a
+face full of the stuff.
+
+Thankfully, there doesn’t seem to be any long-term damage of sign of
+contagion. But it has triggered some kind of allergic reaction in
+him. The poor guy puffed up like a blotchy balloon, spewing mucus
+everywhere. Lucky for him the company doctors were quick and dosed him
+up.
+
+He spent a few very uncomfortable days in the infirmary, but lived to
+tell the tale. I guess he won’t be so quick to get out of his suit on
+his next shift.
+#+end_quote
+
+#+begin_quote
+ALLERGIES ARE ONE THING 4/5
+
+Corporate Communications:
+
+Site FNA-559 request immediate evacuation of all remaining expedition
+members and emergency medical teams on site. Contagion released into
+habitation from local plant life while under study. Quarantine
+measures failed. 6 crew dead, 3 infected. All non-infected crew
+confined to Hab 3.
+
+Bodies have been incinerated as per Article 30, but air supply
+compromised.
+
+Repeat. Immediate Evacuation and EM Teams requested.
+#+end_quote
+
+#+begin_quote
+ALLERGIES ARE ONE THING 5/5
+
+Personal Log:
+
+[[id:f8f1a06f-3bba-4169-99a7-92c5475d4c87][Layland]] sent the word to Corporate.
+
+Allergies are one thing, this is something else. The spores… they ate
+[[id:12416525-4dc6-4f40-b768-ff4afeff630b][McCreedy]] from the inside out. They didn’t show up on any of the bio
+scanners or contamination tests. They must have been in some kind of
+dormant state. Three days later when he didn’t show up for his shift
+we knew something was wrong, but by then it was too late.
+
+They had grown out of him. released more sports into the air
+system. The air was thick with them. It was too late for the team that
+found him and everyone in Hab 2. They were all exposed without knowing
+it.
+
+Corporate are sending an evac squad. The ships should be here any day
+now.
+
+I was so full of excitement and hope when this started, and now I wish
+I had never set eyes on those things. .They are too dangerous, we need
+to warn others to stay clear of them.
+#+end_quote

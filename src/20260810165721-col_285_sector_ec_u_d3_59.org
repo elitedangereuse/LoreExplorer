@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       cc12380d-420f-4b8a-a003-9159201e7d0e
+:END:
+#+title: Col 285 Sector EC-U d3-59
+#+filetags: :ListeningPost:System:
+
+* Col 285 Sector EC-U d3-59 A Listening Post
+
+#+begin_quote
+LISTENING POST SIGNAL DATA
+
+…Corporate Data Packet NJC-443-A Detected…
+
+Matches signal detected at listening posts: ([[id:ae89b47a-35ff-4bd6-bb68-475c5583bb71][col 285 sector ef-a b16-1]], [[id:d5940bf3-1569-43f5-a3c5-c7a4d7083a85][col 285 sector lo-p c6-1]])
+
+Approximate Signal Range: 43-45 LY
+
+…the ground scan came back…… long:26.82223 ………….sitting right on top of one of these things…….
+
+…Signal Lost…
+#+end_quote

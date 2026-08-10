@@ -11,7 +11,7 @@
 
 …Corporate Data Packet RVH-113-B Detected…
 
-Matching Signals Detected: (Pleione, HIP 19072)
+Matching Signals Detected: ([[id:6c4bc464-be90-4f7e-aa47-a86200f183a6][Pleione]], [[id:7cb40dd8-9f5b-4b57-829d-91d53c96091f][HIP 19072]])
 
 Approximate Signal Range: 54-56 LY
 

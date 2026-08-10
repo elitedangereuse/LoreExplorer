@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       d5940bf3-1569-43f5-a3c5-c7a4d7083a85
+:END:
+#+title: Col 285 Sector LO-P c6-1
+#+filetags: :ListeningPost:System:
+
+* Col 285 Sector LO-P c6-1 A Listening Post
+
+#+begin_quote
+LISTENING POST SIGNAL DATA
+
+…Corporate Data Packet NJC-443-B Detected…
+
+Matches signal detected at listening posts: ([[id:ef8fe3f8-1b59-4c58-84ec-d738b992267a][col 285 sector ec-u d3-56]], [[id:ae89b47a-35ff-4bd6-bb68-475c5583bb71][col 285 sector ef-a b16-1]])
+
+Approximate Signal Range: 38-41 LY
+
+…the ground scan came back…… lat:51.0872 ………….sitting right on top of one of these things…….
+
+…Signal Corrupted…
+#+end_quote
