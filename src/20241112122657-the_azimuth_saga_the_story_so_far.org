@@ -650,7 +650,7 @@ this dangerous organisation before more lives are lost.
 #+end_quote
 
 FEB, 3308 - Shutdown procedures for Aegis go ahead despite the
-organisation warning that Azimuth has returned. Conrad Sterling reported
+organisation warning that Azimuth has returned. [[id:8a3f6489-2b06-4494-89ce-5094392c7a99][Conrad Sterling]] reported
 on the situation for Vox Galactica:
 
 #+begin_quote
@@ -751,7 +751,7 @@ revealed
 Claims that Salvation was once a senior member of Azimuth Biochemicals
 who worked for INRA have led to a public outcry.
 
-Political journalist Conrad Sterling reported on these developments for
+Political journalist [[id:8a3f6489-2b06-4494-89ce-5094392c7a99][Conrad Sterling]] reported on these developments for
 Vox Galactica:
 
 #+begin_quote
