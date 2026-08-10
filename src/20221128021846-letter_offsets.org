@@ -3,7 +3,8 @@
 :END:
 #+title: Letter offsets
 
-
 9 14 18 1 are the letter offsets for [[id:39a31dd8-3750-4507-90b7-b649d0eeecef][INRA]]
 
 RAXXLA: 18 1 24 24 12 1
+
+Several [[id:1fd01d13-7a2c-402e-bb92-1b4edadd78c2][Unregistered Comms Beacons]] uses letter positions as a [[id:d4041b1f-0788-4db1-b21d-4a58e5d96965][puzzle]] to solve.

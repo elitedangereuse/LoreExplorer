@@ -1,4 +1,79 @@
 :PROPERTIES:
 :ID:       2e60a0f2-62a2-49c4-8a3f-45a0669f11fe
+:ROAM_REFS: https://canonn.science/codex/taylor-keep/
 :END:
 #+title: Taylor Keep
+#+filetags: :DataPoint:Empire:Federation:Thargoid:Settlement:
+
+Taylor Keep is an abandoned settlement in the [[id:d15fc8ec-7e9e-41c5-b75c-4c3ce89fd6c2][12 Trianguli]] system, on body [[https://edgis.elitedangereuse.fr/static/sysmap.html?system=12+Trianguli&body_id=5][A 1]].
+
+The location of this facility was given by an [[id:1fd01d13-7a2c-402e-bb92-1b4edadd78c2][Unregistered Comms Beacon]] that can be found in the [[id:d114c07a-da76-4bcd-a3c5-152e2a08e528][Ain]] system.
+
+Taylor Keep was operated by the [[id:39a31dd8-3750-4507-90b7-b649d0eeecef][Intergalactic Naval Reserve Arm]] (INRA), a co-operative between the Federation and Empire that operated during the [[id:c6674165-eb13-47d3-ad54-796aab951892][First Thargoid War]]. This facility appears to have had connections to the project that created the [[id:0ffe3814-d246-41f3-8f82-4bb9ca062dea][mycoid]] used against the Thargoids, operating as a launch point for the delivery of [[id:6023377d-7271-49d1-80ec-ffab82dc8c29][weaponised]] mycoid to a [[id:cf8efef4-6db7-4780-9b79-6321b738adfc][Thargoid hive ship]] by [[id:0be96028-d995-4b52-8bb0-34f21e080bce][Commander John Jameson]].
+
+The facility contains a number of habitation modules, hangar or barracks buildings, it is surrounded by defence turrets. A major feature is the ship landing pad and control tower. There are collectable materials scattered around the site.
+
+Within the facility there are four Data Points which may be scanned for an Intel Package, and for Engineer Data. There is a time limit to scanning the Data Points. The Data Point also will give you the waypoint for the site in the Navigation Panel.
+
+* Logs
+
+Around the facility there are three Settlement Comms Log Uplink
+points, scanning them gives some of the history of the INRA
+experiments:
+
+#+begin_quote
+ALL OUR HOPES 1/3
+
+…Bypassing security protocols…
+…Secure connection established…
+…Communications record 1/3…
+
+I’ll admit I had my reservations about this [[id:0be96028-d995-4b52-8bb0-34f21e080bce][Commander Jameson]]. I looked into his background and apparently he climbed the ranks of the [[id:131aabdf-0ed8-4ce2-beec-94c77a8c41d2][Pilots Federation]] with unprecedented speed. He’s revered by other pilots. But that doesn’t mean he’s suited to the task.
+
+But then it struck me - all we need is someone who can get the payload where it needs to go. The hard work - the development of the [[id:0ffe3814-d246-41f3-8f82-4bb9ca062dea][mycoid]] - has already been done. All [[id:0be96028-d995-4b52-8bb0-34f21e080bce][Jameson]] has to do is push a button.
+
+The important thing is to play up the whole ‘saving humanity’ angle. Make him feel like a hero. That should stop him asking too many questions.
+
+And if everything goes wrong, we can just pin the blame on him.
+#+end_quote
+
+[[file:audio/Settlements/Taylor Keep/All-Our-Hopes-1-3.ogg]]
+
+#+begin_quote
+ALL OUR HOPES 2/3
+
+…Bypassing security protocols…
+…Secure connection established…
+…Communications record 2/3…
+
+Having received the payload from the [[id:2f5ce846-c16b-428d-b3cb-b5e31d298f48][Alnath]] system we’ve prepared a number of medium-range missiles loaded with the weaponised version of the [[id:0ffe3814-d246-41f3-8f82-4bb9ca062dea][mycoid]].
+
+[[id:0be96028-d995-4b52-8bb0-34f21e080bce][Jameson]] will be here in three days to prep for the mission, which should give us more than enough time to fit his vessel. Apparently he insisted on using his own ship. I’ve also ordered that some special modifications be made to his craft.
+
+He’ll have to get close to launch the missiles, so it’s unlikely he’ll be coming back. But if he does survive, there are contingencies in place.
+#+end_quote
+
+[[file:audio/Settlements/Taylor Keep/All-Our-Hopes-2-3.ogg]]
+
+#+begin_quote
+ALL OUR HOPES 3/3
+
+…Bypassing security protocols…
+…Secure connection established…
+…Communications record 3/3…
+
+To: [[id:0be96028-d995-4b52-8bb0-34f21e080bce][Commander Jameson]]
+From: [[id:ff6c20db-2077-427a-9457-72cb71f7e4f9][Amaro Hem]], Programme Coordinator
+
+Welcome, Commander Jameson. Your reputation precedes you. We are extremely grateful you chose to accept this mission.
+
+I understand that the purpose of the assignment has been explained to you, but allow me to reiterate: this mission, if executed successfully, could mean the end of our war with the Thargoids. Its importance cannot be overstated.
+
+The consignment has been loaded onto your ship. We have made some minor modification to your vessel, but it should not affect the performance or functionality in any way.
+
+This is an extremely dangerous mission, Commander. You will be heading deep into enemy territory. If anything goes wrong, you’re on your own.
+
+Good luck, Commander. The future of the [[id:4dfd1a40-8f9b-4f66-9c90-971e253a3fe1][human]] race is in your hands. All our hopes and prayers go with you.
+#+end_quote
+
+[[file:audio/Settlements/Taylor Keep/All-Our-Hopes-3-3.ogg]]

@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       d15fc8ec-7e9e-41c5-b75c-4c3ce89fd6c2
+:END:
+#+title: 12 Trianguli
+#+filetags: :System:
+
+Contains [[id:15da35fa-17e8-4b9c-ade9-3127fffbab88][12 Trianguli A 1]], the body of [[id:2e60a0f2-62a2-49c4-8a3f-45a0669f11fe][Taylor Keep]].

@@ -17,4 +17,4 @@ SECURE 9 14 18 1 [[id:aa565d6b-9317-4775-8435-9cf9636c72fc][HIP 7158]] DELIVERY 
 
 [[file:audio/Unregistered Comms Beacons/HIP 8887/UCB-HIP-8887-A-1-2024-03-30.ogg]]
 
-The numerical sequence decodes by letter positions to [[id:39a31dd8-3750-4507-90b7-b649d0eeecef][INRA]].
+The numerical sequence decodes by [[id:d81dd848-0189-46bd-b5e3-c6dd5cc75fa7][letter positions]] to [[id:39a31dd8-3750-4507-90b7-b649d0eeecef][INRA]].
