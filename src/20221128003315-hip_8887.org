@@ -2,19 +2,19 @@
 :ID:       e91a5ba1-4334-4672-ab8a-f55377d9f739
 :END:
 #+title: HIP 8887
-#+filetags: :System:
-[[id:1fd01d13-7a2c-402e-bb92-1b4edadd78c2][Unregistered Comms Beacons]]
+#+filetags: :UnregisteredCommsBeacons:System:
 
-* Message
-At 0 past the hour
+Contains an [[id:1fd01d13-7a2c-402e-bb92-1b4edadd78c2][Unregistered Comms Beacons]] orbiting body A 1.
+
+The beacon transmits the following message, every hour, on the hour :
 https://www.youtube.com/watch?v=N28GzsC8Wcw
 
-: SECURE 9 14 18 1
-: [[id:aa565d6b-9317-4775-8435-9cf9636c72fc][HIP 7158]] DELIVERY RECIEVED [[id:46f37359-c143-448a-b02d-7468ac7d685d][HIP 12099]] 1 A
-: SECURE
+#+begin_quote
+Unregistered Comms Beacon
 
-* Links
-  [[id:aa565d6b-9317-4775-8435-9cf9636c72fc][HIP 7158]]
-  [[id:46f37359-c143-448a-b02d-7468ac7d685d][HIP 12099]]
-  [[id:69566395-22b3-4970-b5a1-7d86f8836a72][HIP 12099 1 A]]
-  [[id:39a31dd8-3750-4507-90b7-b649d0eeecef][INRA]] (9 14 18 1)
+SECURE 9 14 18 1 [[id:aa565d6b-9317-4775-8435-9cf9636c72fc][HIP 7158]] DELIVERY RECEIVED [[id:46f37359-c143-448a-b02d-7468ac7d685d][HIP 12099]] 1A SECURE
+#+end_quote
+
+[[file:audio/Unregistered Comms Beacons/HIP 8887/UCB-HIP-8887-A-1-2024-03-30.ogg]]
+
+The numerical sequence decodes by letter positions to [[id:39a31dd8-3750-4507-90b7-b649d0eeecef][INRA]].

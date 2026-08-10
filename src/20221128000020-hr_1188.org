@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       bb75c7f8-328e-4b3c-b6a4-16da9c75dfc0
+:END:
+#+title: HR 1188
+#+filetags: :System:UnregisteredCommsBeacons:
+
+Contains an [[id:1fd01d13-7a2c-402e-bb92-1b4edadd78c2][Unregistered Comms Beacons]] orbiting body A 2.
+
+The beacon transmits the following message, every hour, on the hour :
+
+#+begin_quote
+Unregistered Comms Beacon
+
+SECURE 9 14 18 1 BAIT DEPLOYED CONTACT CONFIRMED HIP 16824 A 2 F SECURE
+#+end_quote
+
+[[file:audio/Unregistered Comms Beacons/HR 1188/UCB-HR-1188-A-2-2024-03-21.ogg]]
+
+The numerical sequence decodes by letter positions to [[id:39a31dd8-3750-4507-90b7-b649d0eeecef][INRA]].

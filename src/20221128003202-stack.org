@@ -6,8 +6,83 @@
 #+filetags: :Abandoned:Settlement:
 [[id:39a31dd8-3750-4507-90b7-b649d0eeecef][INRA]] [[id:f2fac611-d042-4abf-80f9-e5e0b5c9f4b8][Research Base]]
 
-Stack is an Abandoned Settlement on [[id:46f37359-c143-448a-b02d-7468ac7d685d][HIP 12099]] 1 a at -72.6561, -67.3629.
+Stack is an abandoned settlement in the [[id:46f37359-c143-448a-b02d-7468ac7d685d][HIP 12099]] system, on body 1 a.
 
-The location of this facility was given by an Unregistered Comms
-Beacon in [[id:e91a5ba1-4334-4672-ab8a-f55377d9f739][HIP 8887]]. The comms beacon transmits a message in phonetic
-alphabet.
+The location of this facility was given by an [[id:1fd01d13-7a2c-402e-bb92-1b4edadd78c2][Unregistered Comms Beacon]] that can be found in the [[id:e91a5ba1-4334-4672-ab8a-f55377d9f739][HIP 8887]] system.
+
+Stack was operated by the [[id:39a31dd8-3750-4507-90b7-b649d0eeecef][Intergalactic Naval Reserve Arm]] (INRA), a co-operative between the Federation and Empire that operated during the [[id:c6674165-eb13-47d3-ad54-796aab951892][First Thargoid War]]. This facility appears to have had connections to the project that created the [[id:0ffe3814-d246-41f3-8f82-4bb9ca062dea][mycoid]] used against the Thargoids, operating as a thargoid live experimentation laboratory.
+
+The facility contains a number of habitation modules, hangar or barracks buildings, and large tanks marked with the symbol for the [[id:0ffe3814-d246-41f3-8f82-4bb9ca062dea][mycoid]] [[id:6023377d-7271-49d1-80ec-ffab82dc8c29][weapon]]; the ground is stained in a manner consistent with leakage of the agent. A major feature is the experimentation pit (reached through a raised roadway) which seems to contains parts of Thargoids that have been experimented upon. There are collectable materials scattered around the site.
+
+Within the facility there is a Data Point which may be scanned for an Intel Package, and for Engineer Data. The Data Point also will give you the waypoint for the site in the Navigation Panel.
+
+* Logs
+
+Around the facility there are four Settlement Comms Log Uplink points, scanning them gives some of the history of the INRA experiments:
+
+#+begin_quote
+LIVING SPECIMEN 1/4
+
+…Bypassing security protocols…
+…Secure connection established…
+…Personal log 1/4…
+
+Complex molecular chains detected
+Bonds weakened by corrosive agent
+Unable to identify agent
+Structural analysis complete
+
+Organic material analysed
+Possible contaminant identified
+Composition scan complete
+
+Always the same results. I keep telling them: there’s only so much we can do with the samples we’ve been given. We need a living specimen.
+#+end_quote
+
+[[file:audio/Settlements/Stack/Living-Specimen-1-4.ogg]]
+
+#+begin_quote
+LIVING SPECIMEN 2/4
+
+…Bypassing security protocols…
+…Secure connection established…
+…Personal log 2/4…
+
+Apparently they listened to me. We’ve been asked to build some testing apparatus and a secure enclosure. I drew up a preliminary specification but was told that the enclosure needed to be more robust.
+
+These creatures must be tremendously strong.
+#+end_quote
+
+[[file:audio/Settlements/Stack/Living-Specimen-2-4.ogg]]
+
+#+begin_quote
+LIVING SPECIMEN 3/4
+
+…Bypassing security protocols…
+…Secure connection established…
+…Personal log 3/4…
+
+The specimen arrived today. The security reports indicate that it made several escape attempts, the most recent of which results in a number of deaths. We must take every precaution.
+
+The specimen appears to be in poor physical health, but it’s undoubtedly alive, and it will certainly serve our purposes.
+#+end_quote
+
+[[file:audio/Settlements/Stack/Living-Specimen-3-4.ogg]]
+
+#+begin_quote
+LIVING SPECIMEN 4/4
+
+…Bypassing security protocols…
+…Secure connection established…
+…Personal log 4/4…
+
+The specimen is highly resilient and seems to be able to withstand severe physical trauma, even to the point of losing limbs. I am reminded of pulling the legs off spiders as a child. Fortunately, testing on a nonhuman means no legal red tape to slow things down.
+
+Tomorrow we will begin experimenting with chemical and biological weapons. These creatures may be tough, but we will find their weakness.
+#+end_quote
+
+[[file:audio/Settlements/Stack/Living-Specimen-4-4.ogg]]
+
+The HIP 12099 system is also notable as containing the crash site of [[id:0be96028-d995-4b52-8bb0-34f21e080bce][John Jameson]]'s [[id:83299a14-b6b0-4670-ba39-2914e05ed2f5][Cobra Mk III]], which is on body 1 b.
+
+The INRA base found after Stack was [[id:2e60a0f2-62a2-49c4-8a3f-45a0669f11fe][Taylor Keep]].
