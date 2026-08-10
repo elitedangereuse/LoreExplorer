@@ -1,7 +1,136 @@
 :PROPERTIES:
 :ID:       5caecb15-c8eb-4f3e-8856-db3dd116c017
+:ROAM_REFS: https://canonn.science/codex/almeida-landing/
 :END:
 #+title: Almeida Landing
-#+filetags: :Settlement:Abandoned:
-[[id:39a31dd8-3750-4507-90b7-b649d0eeecef][INRA]]
-Links to [[id:9ffffc4a-224c-42cb-b853-fd08d5c67e1b][Carmichael Point]]
+#+filetags: :DataPoint:Thargoid:Empire:Federation:Settlement:Abandoned:
+
+Almeida Landing is an abandoned settlement in the [[id:52ce1ef8-7242-47fe-9735-68237061cb03][Conn]] system, on body [[https://edgis.elitedangereuse.fr/static/sysmap.html?system=Conn&body_id=7][A 3 a]].
+
+The location of this facility was given by an [[id:1fd01d13-7a2c-402e-bb92-1b4edadd78c2][Unregistered Comms
+Beacon]] that can be found in the [[id:ed9aa777-0465-41a3-a3db-c31549e55569][Teegarden's Star]] system.
+
+The facility was operated by the [[id:39a31dd8-3750-4507-90b7-b649d0eeecef][Intergalactic Naval Reserve Arm]]
+(INRA), a co-operative between the Federation and Empire that operated
+during the last war with the Thargoids. This facility appears to have
+been used to reverse-engineer [[id:46a9c980-af48-4e43-a820-9971d7c76c34][Thargoid drive technology]].
+
+The facility contains a number of agricultural tents, habitation
+modules, and two communications towers. A couple of small tanks are
+present, and while they are not marked with the symbol for the [[id:0ffe3814-d246-41f3-8f82-4bb9ca062dea][mycoid]]
+[[id:6023377d-7271-49d1-80ec-ffab82dc8c29][weapon]], the ground is stained in a manner consistent with leakage of
+the agent as seen at other sites.
+
+* Related INRA Site
+
+[[id:9ffffc4a-224c-42cb-b853-fd08d5c67e1b][Carmichael Point]] was the next INRA site in the discovery trail. Its
+logs record an anti-xeno weapons test and indicate connections to
+[[id:0ffe3814-d246-41f3-8f82-4bb9ca062dea][Mycoid]], but do not establish a direct link to Almeida Landing's
+hybrid-drive research.
+
+There are Engineer Materials scattered around the ground, and within
+the facility there are two Data Points which may be scanned for an
+Intel Package, and for Engineer Data; both need to be scanned within
+30s.
+
+* Logs
+
+Around the facility there are six Settlement Comms Log Uplink points,
+scanning them gives some of the history of the INRA:
+
+#+begin_quote
+REVERSE-ENGINEERED 1/6
+
+…Bypassing security protocols…
+…Secure connection established…
+Personal Log: [[id:d15bc771-25ff-4d76-a48b-d0044ad94e25][Effie Ratling]], Engineer
+
+They told me not to ask where it came from, just to reverse-engineer
+whatever I can. Weapons, shields, power management - anything I can
+figure out. It's… it's like giving a rocket to a Neanderthal and
+expecting them to fix it. I mean, where do I even start?
+
+At least they' re paying me well. That's something.
+#+end_quote
+
+[[file:audio/Settlements/Almeida Landing/Reverse-Engineered-1-6.ogg]]
+
+#+begin_quote
+REVERSE-ENGINEERED 2/6
+
+…Bypassing Security Protocols…
+…Secure Connection Established…
+Personal Log: [[id:d15bc771-25ff-4d76-a48b-d0044ad94e25][Effie Ratling]], Engineer
+
+I haven't slept for days. I always did find it hard to switch off, you know, even when I wasn't trying to reverse-engineer an alien starship.
+
+I've made a small amount of progress, but it's always two steps forward, three steps back. The guys in charge are getting impatient, but what did they expect? It's not like this thing came with a manual.
+#+end_quote
+
+[[file:audio/Settlements/Almeida Landing/Reverse-Engineered-2-6.ogg]]
+
+#+begin_quote
+REVERSE-ENGINEERED 3/6
+
+…Bypassing security protocols…
+…Secure connection established…
+Personal Log: [[id:d15bc771-25ff-4d76-a48b-d0044ad94e25][Effie Ratling]], Engineer
+
+I've finally made some progress with the drive technology, which is just as well, since I was running out of options.
+
+Thargoid drive tech differs radically from our own. Rather than shift space around the ship, it appears to create this stable [[id:a1376710-92d7-4eee-9c26-b36bac8bbf33][wormhole]] for the ship to travel through. It sounds crazy, but the maths don't lie. And if my calculations are right, I might even be able to replicate it.
+
+I want to get a prototype up and running as soon as possible. Something tells me the bigwigs are about to step in. I've seen this all before – you get hired by a big company, and once you've gone and done the hard work they swoop in and take all the glory. Well, I'm not going to let that happen, I want to be credited with creating the first [[id:4893bb15-53b4-42b5-8f27-e3f6f5d7f165][hybrid drive]].
+#+end_quote
+
+[[file:audio/Settlements/Almeida Landing/Reverse-Engineered-3-6.ogg]]
+
+#+begin_quote
+REVERSE-ENGINEERED 4/6
+
+…Bypassing security protocols…
+…Secure connection established…
+Personal Log: [[id:d15bc771-25ff-4d76-a48b-d0044ad94e25][Effie Ratling]], Engineer
+
+I knew it. The minute I handed in my report, the company took over. They've retained me as a ‘consultant' – whatever that means – but they're basically ignoring everything I say.
+
+They've made some modifications to my prototype, but it was a bit of a rush job. Must be in a hell of a hurry to get to the test-flight stage. I told them it was too soon, that we needed more tests, but once again, I got stonewalled.
+
+Granted, the [[id:a1376710-92d7-4eee-9c26-b36bac8bbf33][wormhole]] is stable, but we have no idea what will happen when you send a human being through it.
+#+end_quote
+
+[[file:audio/Settlements/Almeida Landing/Reverse-Engineered-4-6.ogg]]
+
+#+begin_quote
+REVERSE-ENGINEERED 5/6
+
+…Bypassing security protocols…
+…Secure connection established…
+Personal Log: [[id:d15bc771-25ff-4d76-a48b-d0044ad94e25][Effie Ratling]], Engineer
+
+So, they decided to push ahead with the test flight, despite my warnings. Some hotshot young pilot, full of spit and vinegar, as my old man would say. And not a single brain cell between his ears.
+
+The wormhole was stable, but that was never a concern. The question is what will happen to the pilot.
+#+end_quote
+
+[[file:audio/Settlements/Almeida Landing/Reverse-Engineered-5-6.ogg]]
+
+#+begin_quote
+REVERSE-ENGINEERED 6/6
+
+…Bypassing security protocols…
+…Secure connection established…
+Personal Log: [[id:d15bc771-25ff-4d76-a48b-d0044ad94e25][Effie Ratling]], Engineer
+
+The ship didn't reappear for almost an hour. When it did, it just drifted lifelessly. The pilot didn't respond to our hails.
+
+We recovered the vessel and pulled open the cockpit. What I saw in there will stay with me for the rest of my life. The pilot looked like he'd been turned inside out. That cocky young kid who thought he ruled the sky.
+
+I have to say, my sympathy didn't last long when I found out they're going to pin it on me. They've cancelled the project and launched an investigation, but that's just window dressing. There's no doubt in my mind they'll carry on testing in secret. Meanwhile, I'm the one who' s going to take the fall.
+
+There is a chance I might be able to make it out of this. Apparently they've developed some kind of Thargoid-killing super weapon, and they don't want so much as a whisper In the public domain. So this is the choice I'm going to give them: Let me walk, and I say nothing. Set me up, and everyone discovers that the INRA is in the genocide business.
+
+It's a risky move, but what other choice do I have?
+#+end_quote
+
+[[file:audio/Settlements/Almeida Landing/Reverse-Engineered-6-6.ogg]]

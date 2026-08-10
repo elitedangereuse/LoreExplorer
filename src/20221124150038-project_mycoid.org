@@ -3,7 +3,8 @@
 :END:
 #+title: Mycoid
 #+filetags: :Thargoid:
-[[id:c6674165-eb13-47d3-ad54-796aab951892][First Thargoid War]]
+[[id:39a31dd8-3750-4507-90b7-b649d0eeecef][INRA]] developed the mycoid weapon during the [[id:c6674165-eb13-47d3-ad54-796aab951892][First Thargoid War]].
+
 [[id:dd5abb31-73fb-4390-82ad-33030cb49d38][Virus]]
 [[id:32267587-a5db-456f-8a09-439ed0309638][Weapons]]
 

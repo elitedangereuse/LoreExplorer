@@ -4,6 +4,8 @@
 #+title: Frame Shift Drive
 #+filetags: :Thargoid:
 
-It was introduced to the market in 3297
+[[id:aae70cda-c437-4ffa-ac0a-39703b6aa15a][Sirius Corporation]] introduced the Frame Shift Drive to the market in 3297.
 
-Potentiellement lié aux Thargoids
+A possible connection to Thargoid technology remains unconfirmed.
+
+The earlier [[id:4893bb15-53b4-42b5-8f27-e3f6f5d7f165][Hybrid Drive]] research at [[id:5caecb15-c8eb-4f3e-8856-db3dd116c017][Almeida Landing]] is a potential lead, but no established source confirms a connection.

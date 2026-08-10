@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       ed9aa777-0465-41a3-a3db-c31549e55569
+:END:
+#+title: Teegarden's Star
+#+filetags: :UnregisteredCommsBeacons:System:
+
+Contains an [[id:1fd01d13-7a2c-402e-bb92-1b4edadd78c2][Unregistered Comms Beacons]] orbiting body 2
+
+The beacon transmits the following message, every hour, on the hour :
+
+#+begin_quote
+Unregistered Comms Beacon
+
+SECURE 9 14 18 1 RISKY MOVE DRIVE TECH WHAT CHOICE IGNORING EVERYTHING CONN A 3 A SECURE
+#+end_quote
+
+[[file:audio/Unregistered Comms Beacons/Teegarden's Star/UCB-Teegardens-Star-2-2024-03-21.ogg]]
+
+The numerical sequence decodes by letter positions to [[id:39a31dd8-3750-4507-90b7-b649d0eeecef][INRA]].

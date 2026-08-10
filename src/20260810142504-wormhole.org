@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       a1376710-92d7-4eee-9c26-b36bac8bbf33
+:ROAM_REFS: https://canonn.science/codex/almeida-landing/
+:END:
+#+title: Wormhole
+#+filetags: :Thargoid:
+
+At [[id:5caecb15-c8eb-4f3e-8856-db3dd116c017][Almeida Landing]], [[id:d15bc771-25ff-4d76-a48b-d0044ad94e25][Effie Ratling]] concluded that Thargoid drive technology creates a stable wormhole for a ship to travel through. Her research led to a prototype [[id:4893bb15-53b4-42b5-8f27-e3f6f5d7f165][Hybrid Drive]].
