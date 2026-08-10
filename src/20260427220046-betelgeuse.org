@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       9913c99f-46cf-4616-909b-8352e635f443
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Betelgeuse
 :END:
 #+title: Betelgeuse
 #+filetags: :System:

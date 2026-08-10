@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       034e3049-e26d-41c6-af83-d04206577ab2
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Medb
 :END:
 #+title: Medb
 #+filetags: :System:

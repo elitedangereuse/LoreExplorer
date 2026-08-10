@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       d3daf803-d239-4314-81cd-22cbb7db8424
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Luchtaine
 :END:
 #+title: Luchtaine
 #+filetags: :System:
-

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       8bb09322-6b6f-4bae-b866-932c6ae3dcb3
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=36+Ophiuchi
 :END:
 #+title: 36 Ophiuchi
 #+filetags: :System:

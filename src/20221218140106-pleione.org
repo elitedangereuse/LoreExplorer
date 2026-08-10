@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       51916839-dfae-46ab-874f-46ded08bc880
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Pleione
 :END:
 #+title: Pleione
 #+filetags: :System:ListeningPost:

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       7fa315a0-9eb3-4132-817f-dbd40f40b71d
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Meenates
 :END:
 #+title: Meenates
 #+filetags: :System:

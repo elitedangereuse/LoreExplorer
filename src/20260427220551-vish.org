@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       46f2ab5f-3ff3-41ef-9de5-cb9076af83db
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Vish
 :END:
 #+title: Vish
 #+filetags: :System:

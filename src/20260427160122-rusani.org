@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       d53ac355-d1f1-4c2b-94cd-f9a01344a045
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Rusani
 :END:
 #+title: Rusani
 #+filetags: :System:

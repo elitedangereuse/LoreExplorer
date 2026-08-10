@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       990e981e-568f-45a4-bc0e-ea93f3990ba7
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Gliese+105.2
 :END:
 #+title: Gliese 105.2
 #+filetags: :System:

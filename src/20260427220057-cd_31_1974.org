@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       d8dcbde9-b082-446f-9ce5-d8772ae149e8
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=CD-31+1974
 :END:
 #+title: CD-31 1974
 #+filetags: :System:

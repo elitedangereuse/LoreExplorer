@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       52256583-89e6-473b-891f-2fb79d90276d
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Nuekea+RP-M+d8-161
 :END:
 #+title: Nuekea RP-M d8-161
 #+filetags: :System:

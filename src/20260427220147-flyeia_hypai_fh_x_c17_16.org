@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       aa583ea1-0bcc-4672-825e-2e6e3ed7be2d
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Flyeia+Hypai+FH-X+C17-16
 :END:
 #+title: Flyeia Hypai FH-X C17-16
 #+filetags: :System:

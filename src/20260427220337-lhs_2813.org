@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       fe41e2cd-eb3c-4f77-bddc-4074b953735a
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=LHS+2813
 :END:
 #+title: LHS 2813
 #+filetags: :System:

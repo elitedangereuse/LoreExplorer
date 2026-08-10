@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       ef3a7ec6-a9b4-453e-9f29-322547c57659
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Byaa+Theia+FL-P+e5-9
 :END:
 #+title: Byaa Theia FL-P e5-9
 #+filetags: :System:

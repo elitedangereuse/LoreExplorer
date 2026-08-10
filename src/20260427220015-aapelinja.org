@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       1449b732-c420-4e32-b7e8-d74819383db7
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Aapelinja
 :END:
 #+title: Aapelinja
 #+filetags: :System:

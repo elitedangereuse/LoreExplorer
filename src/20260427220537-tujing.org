@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       bc3e70c7-37d1-4e96-91ad-d084f4966efa
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Tujing
 :END:
 #+title: Tujing
 #+filetags: :System:

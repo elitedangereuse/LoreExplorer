@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       5e30ea06-0016-47e8-8b8b-86dc22c150a6
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=HIP+5623
 :END:
 #+title: HIP 5623
 #+filetags: :System:

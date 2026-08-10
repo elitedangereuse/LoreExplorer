@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a775dfc5-e008-45d6-8b87-2e33224be63a
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Hez+Ur
 :END:
 #+title: Hez Ur
 #+filetags: :System:
-

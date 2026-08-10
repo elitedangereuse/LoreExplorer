@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       f2d135ff-4663-4a0f-b546-5b5a52f611de
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Bellica
 :END:
 #+title: Bellica
 #+filetags: :Permit:System:Locked:
 [[file:img/permit.png]]
-

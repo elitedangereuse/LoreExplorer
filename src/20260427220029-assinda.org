@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       2e44765c-c9a2-40f2-8d11-31b80a5144eb
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Assinda
 :END:
 #+title: Assinda
 #+filetags: :System:

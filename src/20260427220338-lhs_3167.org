@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       b1f25a87-b3a1-4bd9-a508-bd9ee4fa7ad9
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=LHS+3167
 :END:
 #+title: LHS 3167
 #+filetags: :System:

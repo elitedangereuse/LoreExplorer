@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       1993910f-6b3c-4c42-adcb-bf7b15664789
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=EOR+AUG+EW-W+F1-228
 :END:
 #+title: EOR AUG EW-W F1-228
 #+filetags: :System:

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       5ce91c57-c6a0-45b7-807b-e15799f71046
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=DRYOI+PRI+GG-Y+E5156
 :END:
 #+title: DRYOI PRI GG-Y E5156
 #+filetags: :System:

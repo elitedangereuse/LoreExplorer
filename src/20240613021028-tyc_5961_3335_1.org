@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       04331ffd-5fc0-4703-ac64-76ccfd158a41
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=TYC+5961-3335-1
 :END:
 #+title: TYC 5961-3335-1
 

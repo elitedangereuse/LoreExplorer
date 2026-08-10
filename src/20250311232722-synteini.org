@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       7f858bcd-508e-4afc-a00a-ee4dfa85015d
-:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Synteini
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Synteini https://edgis.elitedangereuse.fr/static/sysmap.html?system=Synteini
 :END:
 #+title: Synteini
 #+filetags: :System:

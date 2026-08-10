@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       06aad28b-9645-4672-aa78-c4d0a23d5f55
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Moanza
 :END:
 #+title: Moanza
 #+filetags: :System:

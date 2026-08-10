@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       6115e516-d029-4945-a1cd-86b01b6731ae
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Mintaka
 :END:
 #+title: Mintaka
 #+filetags: :System:

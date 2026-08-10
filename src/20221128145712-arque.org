@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       d4b595af-536d-4575-af11-f07f3ac3ff40
-:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Arque
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Arque https://edgis.elitedangereuse.fr/static/sysmap.html?system=Arque
 :END:
 #+title: Arque
 #+filetags: :Alliance:System:

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       641d5a2f-9417-469c-a004-c9588ca558e8
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Ochoeng
 :END:
 #+title: Ochoeng
 #+filetags: :System:

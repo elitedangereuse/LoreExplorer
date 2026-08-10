@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       0ee60994-364c-41b9-98ca-993d041cea72
-:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Maia
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Maia https://edgis.elitedangereuse.fr/static/sysmap.html?system=Maia
 :END:
 #+title: Maia
 #+filetags: :System:

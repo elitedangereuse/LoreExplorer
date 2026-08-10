@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       68f0a3c5-6a04-4c58-b203-367faee850cc
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=GCRV+4981
 :END:
 #+title: GCRV 4981
 #+filetags: :System:
-

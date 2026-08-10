@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       3ea0a57b-8e74-4642-bb38-5152ddba646d
-:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Peregrina
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Peregrina https://edgis.elitedangereuse.fr/static/sysmap.html?system=Peregrina
 :END:
 #+title: Peregrina
 #+filetags: :Reputation:System:Permit:

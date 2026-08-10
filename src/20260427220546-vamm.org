@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       967d16ad-1456-4aa6-a0a5-e3104faeddf8
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Vamm
 :END:
 #+title: Vamm
 #+filetags: :System:

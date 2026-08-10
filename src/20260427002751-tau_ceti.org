@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       000181d2-87fb-4eac-9c05-378082def97f
-:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Tau_Ceti
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Tau_Ceti https://edgis.elitedangereuse.fr/static/sysmap.html?system=Tau+Ceti
 :END:
 #+title: Tau Ceti
 #+filetags: :System:

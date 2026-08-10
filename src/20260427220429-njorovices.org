@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       859a57fe-f113-4001-9fe5-0059a060f385
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Njorovices
 :END:
 #+title: Njorovices
 #+filetags: :System:

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       9c168248-43e4-4d5e-9cf6-db3a5248fa5d
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=i+Bootis
 :END:
 #+title: i Bootis
 #+filetags: :System:

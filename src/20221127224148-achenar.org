@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       bed8c27f-3cbe-49ad-b86f-7d87eacf804a
-:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Achenar
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Achenar https://edgis.elitedangereuse.fr/static/sysmap.html?system=Achenar
 :END:
 #+title: Achenar
 #+filetags: :Empire:Permit:Rank:System:

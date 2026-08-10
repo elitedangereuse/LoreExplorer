@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       c6f2df05-7f29-4557-bcf1-a71e342fd306
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Holiacan
 :END:
 #+title: Holiacan
 #+filetags: :System:

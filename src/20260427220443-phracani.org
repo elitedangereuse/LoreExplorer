@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       148edd2e-946f-48bd-870c-f91ea1048c5d
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Phracani
 :END:
 #+title: Phracani
 #+filetags: :System:

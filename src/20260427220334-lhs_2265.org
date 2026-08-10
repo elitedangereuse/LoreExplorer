@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       6eb5c393-5e10-4945-bb9b-4295256515b0
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=LHS+2265
 :END:
 #+title: LHS 2265
 #+filetags: :System:

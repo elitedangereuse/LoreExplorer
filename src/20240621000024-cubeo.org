@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       1cfcec06-5ac3-40b6-b08a-13086eb88466
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Cubeo
 :END:
 #+title: Cubeo
 #+filetags: :System:

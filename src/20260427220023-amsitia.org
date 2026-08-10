@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       0f6b25de-5d07-4451-bacd-691f41379cec
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Amsitia
 :END:
 #+title: Amsitia
 #+filetags: :System:

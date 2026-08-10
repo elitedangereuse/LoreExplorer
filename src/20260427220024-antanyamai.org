@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       dda6ee48-0eff-4f49-a41b-099c5748c0a8
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Antanyamai
 :END:
 #+title: Antanyamai
 #+filetags: :System:

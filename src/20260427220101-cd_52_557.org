@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       a4353b6f-58d2-4cac-b366-c72630d4b205
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=CD-52+557
 :END:
 #+title: CD-52 557
 #+filetags: :System:

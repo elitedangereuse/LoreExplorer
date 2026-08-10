@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       d6633647-5867-4a35-ab57-77b303e2160f
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Wepae+AA-A+h22
 :END:
 #+title: Wepae AA-A h22
 #+filetags: :System:

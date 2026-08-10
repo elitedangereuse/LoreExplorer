@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       722d3296-5999-497f-af42-3de9cf9319e7
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Aurgel
 :END:
 #+title: Aurgel
 #+filetags: :System:

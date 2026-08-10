@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       df9d2f50-8822-4ae2-a33b-3af4ccc9747c
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=R+CrA+Sector+AF-A+d42
 :END:
 #+title: R CrA Sector AF-A d42
 #+filetags: :System:
-

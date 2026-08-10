@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       2ab7ef41-deb5-4b1f-a132-cedeaa63a2b9
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Dryaa+Pri+XA-D+D13-470
 :END:
 #+title: Dryaa Pri XA-D D13-470
 #+filetags: :System:

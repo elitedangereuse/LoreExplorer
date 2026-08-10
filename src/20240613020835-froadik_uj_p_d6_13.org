@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       6cde796f-abb5-45a6-8649-9868a4b90dcc
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Froadik+UJ-P+d6-13
 :END:
 #+title: Froadik UJ-P d6-13
 

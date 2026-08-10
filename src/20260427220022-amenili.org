@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       19561fbb-7ca2-42e3-9f6d-beef53ca0507
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Amenili
 :END:
 #+title: Amenili
 #+filetags: :System:

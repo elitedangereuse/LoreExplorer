@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       b27836fd-91c9-4c59-b558-cdba4f1fa998
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Vanayequi
 :END:
 #+title: Vanayequi
 #+filetags: :System:

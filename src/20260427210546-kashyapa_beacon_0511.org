@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       e7f137dc-c403-4df7-ae33-831e5e268873
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Kashyapa
 :END:
 #+title: Kashyapa
 #+filetags: :System:Tourist:beacon:

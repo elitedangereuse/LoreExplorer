@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       ff8a1b96-fb1d-4305-be72-603006de7f1b
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=DUNEE+EH-U+E3-714
 :END:
 #+title: DUNEE EH-U E3-714
 #+filetags: :System:

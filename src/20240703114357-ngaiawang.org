@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       36dc081e-5308-4677-978e-cd9eee894d1b
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Ngaiawang
 :END:
 #+title: Ngaiawang
 #+filetags: :System:
-

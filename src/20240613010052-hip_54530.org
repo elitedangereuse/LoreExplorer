@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       e1b0c446-0ced-475c-9031-a57e5e3c414f
-:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/HIP_54530
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/HIP_54530 https://edgis.elitedangereuse.fr/static/sysmap.html?system=HIP+54530
 :END:
 #+title: HIP 54530
 #+filetags: :Federation:Rank:Permit:System:

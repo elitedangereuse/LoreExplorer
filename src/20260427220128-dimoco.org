@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       452a75f5-3404-43c5-91dc-e68506799f53
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Dimoco
 :END:
 #+title: Dimoco
 #+filetags: :System:

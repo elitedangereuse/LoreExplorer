@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       4f330417-6f02-4720-bf88-46e91736d2e7
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Sali%27naman
 :END:
 #+title: Sali'naman
 #+filetags: :System:

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       d1bba344-07ca-41d9-b03a-5981d697033a
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Vesper-M4
 :END:
 #+title: Vesper-M4
 #+filetags: :System:
-

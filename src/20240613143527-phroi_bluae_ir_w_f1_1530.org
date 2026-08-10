@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       df8f9af7-7b3b-4a2f-bd33-f9403ce53596
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Phroi+Bluae+IR-W+f1-1530
 :END:
 #+title: Phroi Bluae IR-W f1-1530
 #+filetags: :System:
-

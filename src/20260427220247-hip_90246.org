@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       6cb8a771-8d1e-4f6f-a114-1b1c44e18e36
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=HIP+90246
 :END:
 #+title: HIP 90246
 #+filetags: :System:

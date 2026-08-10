@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       73823700-53f1-4ae2-bfd4-334f2dee64a9
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Kongga
 :END:
 #+title: Kongga
 #+filetags: :System:

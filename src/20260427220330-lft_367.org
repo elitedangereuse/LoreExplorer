@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       ffe38a8a-1a75-4303-bc1a-91cfed242868
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=LFT+367
 :END:
 #+title: LFT 367
 #+filetags: :System:

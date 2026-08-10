@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       07d49413-cc32-4ebd-a434-cb4da447fbbd
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=LTT+8517
 :END:
 #+title: LTT 8517
 #+filetags: :System:

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       93410322-85eb-4d58-ae0e-c99b5faf3e02
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=HIP+17692
 :END:
 #+title: HIP 17692
 #+filetags: :System:

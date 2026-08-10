@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       3e79dbaa-6cde-4ed6-ab47-00447187ae4d
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Vidavanta
 :END:
 #+title: Vidavanta
 #+filetags: :System:

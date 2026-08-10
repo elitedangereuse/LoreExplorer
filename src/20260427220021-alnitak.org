@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       62776541-85bc-4816-9299-b9b278aaf5af
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Alnitak
 :END:
 #+title: Alnitak
 #+filetags: :System:

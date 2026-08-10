@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       fd4456a5-20f9-45dc-9d7e-84114b4c251f
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Synuefai+EB-R+c7-5
 :END:
 #+title: Synuefai EB-R c7-5
 #+filetags: :System:

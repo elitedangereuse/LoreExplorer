@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       f3b0971a-400b-4d28-9543-801e8483af55
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Fortuna
 :END:
 #+title: Fortuna
 #+filetags: :System:

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       4c0321d0-3025-4eb0-880d-8b1750ee9485
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Sigma+Canis+Majoris
 :END:
 #+title: Sigma Canis Majoris
 

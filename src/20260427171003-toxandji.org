@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       2ba6f216-ed6d-4b05-9b5f-ab42c938df0d
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Toxandji
 :END:
 #+title: Toxandji
 #+filetags: :System:

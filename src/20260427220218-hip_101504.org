@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       af79108b-f74b-4054-a97f-455291ac7615
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=HIP+101504
 :END:
 #+title: HIP 101504
 #+filetags: :System:

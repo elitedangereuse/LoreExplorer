@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       f38a87e0-5902-4cea-89a5-751192d7e04f
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Exbeur
 :END:
 #+title: Exbeur
 #+filetags: :Federation:Rank:Permit:System:

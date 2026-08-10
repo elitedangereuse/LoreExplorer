@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       3bef07b8-ab39-4bf2-adc4-bf572c64684b
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Mechucos
 :END:
 #+title: Mechucos
 #+filetags: :System:

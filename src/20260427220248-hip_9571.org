@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       81f5d50c-92e0-47e8-9491-b5dd5bfd7477
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=HIP+9571
 :END:
 #+title: HIP 9571
 #+filetags: :System:

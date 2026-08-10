@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       61a74587-978a-4a97-97cd-a9151a82a34f
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Anima
 :END:
 #+title: Anima
 #+filetags: :System:

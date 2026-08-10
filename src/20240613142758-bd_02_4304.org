@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       994a3f4f-a3dd-4cc2-9730-fdd2799aff55
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=BD-02+4304
 :END:
 #+title: BD-02 4304
 #+filetags: :System:
-

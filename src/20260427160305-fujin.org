@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       935d144b-20f6-4a2e-b9b2-210639266a6e
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Fujin
 :END:
 #+title: Fujin
 #+filetags: :System:

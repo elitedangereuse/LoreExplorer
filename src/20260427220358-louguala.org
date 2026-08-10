@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       bfee3354-1095-4e5f-9bf4-9156ea5cd8c6
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Louguala
 :END:
 #+title: Louguala
 #+filetags: :System:

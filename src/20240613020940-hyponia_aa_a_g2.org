@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       78a804a1-2eae-4304-9cb7-0adf5a2fea5a
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Hyponia+AA-A+g2
 :END:
 #+title: Hyponia AA-A g2
 

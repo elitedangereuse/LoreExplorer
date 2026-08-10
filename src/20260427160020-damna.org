@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       46acf772-cf18-443f-b005-b507b6c44dc3
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Damna
 :END:
 #+title: Damna
 #+filetags: :System:

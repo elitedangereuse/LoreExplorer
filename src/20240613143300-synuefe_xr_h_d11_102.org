@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       bfba5e37-ad9f-4fbb-a19c-5156313c79a4
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Synuefe+XR-H+d11-102
 :END:
 #+title: Synuefe XR-H d11-102
 #+filetags: :System:
-

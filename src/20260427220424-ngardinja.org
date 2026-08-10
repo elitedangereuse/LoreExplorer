@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       2718fa1f-e472-4648-bed4-9b5da9c76e22
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Ngardinja
 :END:
 #+title: Ngardinja
 #+filetags: :System:

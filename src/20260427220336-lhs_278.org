@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       4ece96fd-0d39-43c0-9441-918fc9709a02
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=LHS+278
 :END:
 #+title: LHS 278
 #+filetags: :System:

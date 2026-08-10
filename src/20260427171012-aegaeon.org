@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       be7ec7d4-ee3e-4dc0-a302-95669fa775b2
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Aegaeon
 :END:
 #+title: Aegaeon
 #+filetags: :System:

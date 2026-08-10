@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       ee9891ae-dd67-417e-a19c-b64c12cc427c
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Vishtha
 :END:
 #+title: Vishtha
 #+filetags: :System:

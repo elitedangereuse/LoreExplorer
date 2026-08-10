@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       6c262b45-0286-4263-ab8c-b1e00d79d75c
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Punuri
 :END:
 #+title: Punuri
 #+filetags: :System:

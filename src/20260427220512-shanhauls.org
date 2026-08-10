@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       4730b731-2aa6-4edd-aeef-316c33368270
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Shanhauls
 :END:
 #+title: Shanhauls
 #+filetags: :System:

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       2b0d47ca-6ec1-42fd-b405-a58f94921d86
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=WASP-64
 :END:
 #+title: WASP-64
 

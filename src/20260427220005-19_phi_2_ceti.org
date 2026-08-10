@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       08f5d6ba-05d5-4b00-8e53-5ce42102c02b
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=19+Phi-2+Ceti
 :END:
 #+title: 19 Phi-2 Ceti
 #+filetags: :System:

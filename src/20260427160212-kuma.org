@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       3b541e0f-dc88-4bf7-abc5-4b8f2b54c6d3
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Kuma
 :END:
 #+title: Kuma
 #+filetags: :System:

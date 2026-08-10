@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       eafe7f9b-2eb9-4441-958d-9c2d5f67900f
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Tiegfries
 :END:
 #+title: Tiegfries
 #+filetags: :System:

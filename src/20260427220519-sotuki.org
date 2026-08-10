@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       1ebb0e5b-09f9-4d77-af58-68b785bbee37
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Sotuki
 :END:
 #+title: Sotuki
 #+filetags: :System:

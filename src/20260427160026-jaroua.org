@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       9db35fb1-9348-4aef-9299-35329ee625db
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Jaroua
 :END:
 #+title: Jaroua
 #+filetags: :System:

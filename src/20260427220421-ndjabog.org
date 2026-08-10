@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       8ae83ff1-9b74-40b5-ae57-2e3d817d5152
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Ndjabog
 :END:
 #+title: Ndjabog
 #+filetags: :System:

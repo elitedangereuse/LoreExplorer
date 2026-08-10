@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       b2996321-dff6-4aeb-8e10-7ce34fd990d9
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Wise+1506%2B7027
 :END:
 #+title: Wise 1506+7027
 #+filetags: :System:
-

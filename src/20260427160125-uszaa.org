@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       33bd5592-aab7-4736-87b7-a8e38c34026e
-:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Uszaa
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Uszaa https://edgis.elitedangereuse.fr/static/sysmap.html?system=Uszaa
 :END:
 #+title: Uszaa
 #+filetags: :System:

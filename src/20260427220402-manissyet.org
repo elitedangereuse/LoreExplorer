@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       22783a3f-4cb0-4d83-9a03-6f72a985754c
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Manissyet
 :END:
 #+title: Manissyet
 #+filetags: :System:

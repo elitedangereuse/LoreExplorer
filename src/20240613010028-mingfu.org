@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       660323d5-fd78-48be-9ca7-d12cdc94ad5a
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Mingfu
 :END:
 #+title: Mingfu
 #+filetags: :Federation:Rank:Permit:System:

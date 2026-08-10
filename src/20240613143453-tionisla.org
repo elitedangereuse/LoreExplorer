@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       0b991a8e-234a-4888-8c0a-b3c64498f217
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Tionisla
 :END:
 #+title: Tionisla
 #+filetags: :System:
-

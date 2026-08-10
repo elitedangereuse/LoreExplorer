@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       dd41c94e-a4e8-4761-94e7-46f16360676e
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Wabayo
 :END:
 #+title: Wabayo
 #+filetags: :System:

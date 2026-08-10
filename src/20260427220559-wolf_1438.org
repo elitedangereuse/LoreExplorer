@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       f0b7d23c-2618-452b-864c-6cb842ebd62b
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Wolf+1438
 :END:
 #+title: Wolf 1438
 #+filetags: :System:

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       665be9bf-a510-45bb-9543-39df02ffcceb
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Aucoks+OH-D+B18-3
 :END:
 #+title: Aucoks OH-D B18-3
 #+filetags: :System:

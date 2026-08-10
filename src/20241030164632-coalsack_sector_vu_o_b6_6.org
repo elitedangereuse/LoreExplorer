@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       b5271357-9a6f-47cf-ba21-25681a51f4a9
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Coalsack+Sector+Vu-O+B6-6
 :END:
 #+title: Coalsack Sector Vu-O B6-6
 #+filetags: :System:
-

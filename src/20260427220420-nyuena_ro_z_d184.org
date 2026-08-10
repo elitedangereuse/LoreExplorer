@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       6b1a9fbe-afe2-45b2-866b-8b445db9f2de
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=NYUENA+RO-Z+D184
 :END:
 #+title: NYUENA RO-Z D184
 #+filetags: :System:

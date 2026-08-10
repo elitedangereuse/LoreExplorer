@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       e104f5cb-3a01-4dd2-a21a-c4eb0e691724
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Grabrigpa
 :END:
 #+title: Grabrigpa
 #+filetags: :System:

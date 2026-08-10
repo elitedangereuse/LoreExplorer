@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       29ca1ae7-df37-4bc2-aa8a-43ba902443b1
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Plaa+Scraa+EA-A+E114
 :END:
 #+title: Plaa Scraa EA-A E114
 #+filetags: :System:
-

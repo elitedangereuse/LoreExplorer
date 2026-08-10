@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       eaa3c589-9d3f-4f1c-b6cb-a2262863b6f4
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=DG+Canum+Venaticorum
 :END:
 #+title: DG Canum Venaticorum
 #+filetags: :System:
-

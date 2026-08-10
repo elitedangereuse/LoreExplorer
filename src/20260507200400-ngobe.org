@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       cc2c0eca-7b63-4ae5-bd9d-e7480c183d4d
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Ngobe
 :END:
 #+title: Ngobe
 #+filetags: :System:

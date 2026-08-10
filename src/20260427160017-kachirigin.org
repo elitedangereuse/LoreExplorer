@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       2e2a8064-6ebf-4e7e-ba74-c5193a163fff
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Kachirigin
 :END:
 #+title: Kachirigin
 #+filetags: :System:

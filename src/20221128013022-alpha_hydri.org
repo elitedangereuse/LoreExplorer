@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       0949776d-7611-4736-8520-ab8919804e2b
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Alpha+Hydri
 :END:
 #+title: Alpha Hydri
 #+filetags: :Permit:System:Locked:
 [[file:img/permit.png]]
-

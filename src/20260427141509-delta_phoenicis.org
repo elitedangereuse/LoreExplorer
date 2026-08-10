@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       3ce92806-7e34-49f1-9dd0-a0ab2eb7277c
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Delta+Phoenicis
 :END:
 #+title: Delta Phoenicis
 #+filetags: :System:

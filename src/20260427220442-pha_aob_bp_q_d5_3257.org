@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       9a1386bf-a8c3-4fd5-befb-0426cc19d007
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Pha+Aob+BP-Q+d5-3257
 :END:
 #+title: Pha Aob BP-Q d5-3257
 #+filetags: :System:

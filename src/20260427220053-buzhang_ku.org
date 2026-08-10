@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       a6692ffe-dfc9-4bb2-8739-89b6d8691651
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Buzhang+Ku
 :END:
 #+title: Buzhang Ku
 #+filetags: :System:

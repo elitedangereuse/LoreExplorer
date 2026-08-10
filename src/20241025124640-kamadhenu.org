@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       6762f716-7e24-4a03-af96-2af0fd55f8c7
-:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Kamadhenu
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Kamadhenu https://edgis.elitedangereuse.fr/static/sysmap.html?system=Kamadhenu
 :END:
 #+title: Kamadhenu
 #+filetags: :Empire:System:

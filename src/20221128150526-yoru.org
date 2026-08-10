@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       aed62d3e-1569-4c72-80f5-d1b334b70fef
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Yoru
 :END:
 #+title: Yoru
 #+filetags: :System:
-

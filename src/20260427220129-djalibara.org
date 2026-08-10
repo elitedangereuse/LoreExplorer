@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       7c1e4772-0443-4e9d-a253-2dbf0930f956
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Djalibara
 :END:
 #+title: Djalibara
 #+filetags: :System:

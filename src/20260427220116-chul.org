@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       8a79d1f2-94aa-43fa-8c8e-630b0fe34e55
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Chul
 :END:
 #+title: Chul
 #+filetags: :System:

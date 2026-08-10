@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       904e09fa-f2a2-4420-a80c-695eebebb61e
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Wolf+397
 :END:
 #+title: Wolf 397
 #+filetags: :System:

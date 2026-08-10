@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       0396f7cb-e9de-41d0-ae1d-424d6d86f965
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Agastani
 :END:
 #+title: Agastani
 #+filetags: :System:

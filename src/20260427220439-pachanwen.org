@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       a2bf3552-b226-4168-8ba0-95486f12beab
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Pachanwen
 :END:
 #+title: Pachanwen
 #+filetags: :System:

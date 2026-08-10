@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       5817a2f2-d8af-4c78-9401-490abe32564b
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Luyten%27s+Star
 :END:
 #+title: Luyten's Star
 #+filetags: :System:
-

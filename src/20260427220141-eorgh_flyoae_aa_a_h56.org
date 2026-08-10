@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       74403471-0947-4d79-882b-83931558d202
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Eorgh+Flyoae+AA-A+H56
 :END:
 #+title: Eorgh Flyoae AA-A H56
 #+filetags: :System:

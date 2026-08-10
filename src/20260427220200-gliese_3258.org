@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       7175fe10-f24b-4c20-ae3f-3422a3951e7a
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Gliese+3258
 :END:
 #+title: Gliese 3258
 #+filetags: :System:

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       ce5fac16-080d-4c9f-9aad-c88a929bb23b
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Santy
 :END:
 #+title: Santy
 #+filetags: :System:

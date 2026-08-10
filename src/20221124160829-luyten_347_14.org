@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       0bd08f19-0e96-4cdf-9819-8237f11bbb5d
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Luyten+347-14
 :END:
 #+title: Luyten 347-14
 #+filetags: :Reputation:System:Permit:

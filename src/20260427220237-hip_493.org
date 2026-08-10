@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       44041591-c17d-40ee-8787-0c0765030224
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=HIP+493
 :END:
 #+title: HIP 493
 #+filetags: :System:

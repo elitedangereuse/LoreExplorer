@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       4df1e11d-a7d6-4cb9-921b-ad82427bc07d
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Ilya+Nigh
 :END:
 #+title: Ilya Nigh
 #+filetags: :System:

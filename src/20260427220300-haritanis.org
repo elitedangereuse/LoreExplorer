@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       611cb297-f9e7-4491-9e50-65c6af6280ed
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Haritanis
 :END:
 #+title: Haritanis
 #+filetags: :System:

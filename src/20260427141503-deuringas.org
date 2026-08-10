@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       5b3c04bb-5fb0-4b19-a560-35860fe5c464
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Deuringas
 :END:
 #+title: Deuringas
 #+filetags: :System:

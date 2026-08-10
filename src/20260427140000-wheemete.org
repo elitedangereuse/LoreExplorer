@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       db00479a-8c83-426b-ba81-efd430faf23c
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Wheemete
 :END:
 #+title: Wheemete
 #+filetags: :System:

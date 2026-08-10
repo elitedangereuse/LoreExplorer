@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       276b6dc0-6554-4a86-828a-255ef3b8c7b1
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Quechua
 :END:
 #+title: Quechua
 #+filetags: :System:

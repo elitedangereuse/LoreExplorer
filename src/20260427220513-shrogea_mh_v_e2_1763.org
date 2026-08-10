@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       af88c332-e4b6-4268-b6f5-61b4efcd7261
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Shrogea+MH-V+E2-1763
 :END:
 #+title: Shrogea MH-V E2-1763
 #+filetags: :System:

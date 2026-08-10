@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       aef1be97-50a7-438b-bb7d-07ac8710774a
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Thraikoo+FL-P+d5-97+ABCD+1
 :END:
 #+title: Thraikoo FL-P d5-97 ABCD 1
 #+filetags: :System:

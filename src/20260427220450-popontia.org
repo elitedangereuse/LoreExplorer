@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       f21c69b0-fc77-43fa-b3d3-55c5da8daf22
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Popontia
 :END:
 #+title: Popontia
 #+filetags: :System:

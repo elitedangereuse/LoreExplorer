@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       a1a95018-50f7-4017-936f-273f4c2ae58e
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Ienpalang
 :END:
 #+title: Ienpalang
 #+filetags: :System:

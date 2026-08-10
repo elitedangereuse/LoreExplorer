@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       ebd338c4-ddea-47e9-9251-d0abd37a1f1f
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Gamma+Velorum
 :END:
 #+title: Gamma Velorum
 

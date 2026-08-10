@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       016b9ea8-2a11-4a3c-8c33-472f156b99a1
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=SMOJUE+PY-I+D9-4
 :END:
 #+title: SMOJUE PY-I D9-4
 #+filetags: :System:

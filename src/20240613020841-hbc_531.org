@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       8880ab8e-41ff-4fa7-8316-4219fcbb44ec
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=HBC+531
 :END:
 #+title: HBC 531
 

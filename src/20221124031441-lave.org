@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       ff595332-6a13-4f69-ae2f-cc0a0df8e741
-:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Lave
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Lave https://edgis.elitedangereuse.fr/static/sysmap.html?system=Lave
 :END:
 #+title: Lave
 #+filetags: :System:

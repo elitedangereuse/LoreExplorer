@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       21ed3b88-92b2-42d8-acae-79903d4a57cd
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Havasupai
 :END:
 #+title: Havasupai
 #+filetags: :System:

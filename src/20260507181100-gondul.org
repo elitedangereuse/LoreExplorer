@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       4980dd0b-c01c-40ad-bed0-379bd09e9b5a
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Gondul
 :END:
 #+title: Gondul
 #+filetags: :System:

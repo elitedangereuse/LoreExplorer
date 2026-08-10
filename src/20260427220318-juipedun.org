@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       238b0c9c-763f-4a4b-b66b-69f4f783bc3b
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Juipedun
 :END:
 #+title: Juipedun
 #+filetags: :System:

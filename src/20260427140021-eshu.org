@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       871445d7-f035-4ebc-bac2-d87c56147312
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Eshu
 :END:
 #+title: Eshu
 #+filetags: :System:

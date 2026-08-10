@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       4a969d51-8e07-46dc-b0bc-19e007d21c9d
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Omega+Sector+VE-Q+B5-15
 :END:
 #+title: Omega Sector VE-Q B5-15
 #+filetags: :System:
-

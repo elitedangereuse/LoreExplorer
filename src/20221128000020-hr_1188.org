@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       bb75c7f8-328e-4b3c-b6a4-16da9c75dfc0
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=HR+1188
 :END:
 #+title: HR 1188
 #+filetags: :System:UnregisteredCommsBeacons:

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       19d3d839-897e-4f03-8c9d-d2d99d633546
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=18+Mu+Canis+Majoris
 :END:
 #+title: 18 Mu Canis Majoris
 

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       1c48b668-227f-4973-a6a9-7638e35c02c2
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Harma
 :END:
 #+title: Harma
 #+filetags: :System:

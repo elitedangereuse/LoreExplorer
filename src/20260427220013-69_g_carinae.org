@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       cbc697a7-9ebb-450b-b3b4-e21af84b20b3
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=69+G.+Carinae
 :END:
 #+title: 69 G. Carinae
 #+filetags: :System:

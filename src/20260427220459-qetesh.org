@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       9dc7dc3d-20cf-40fa-a5e3-408ac4b4c1e4
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Qetesh
 :END:
 #+title: Qetesh
 #+filetags: :System:

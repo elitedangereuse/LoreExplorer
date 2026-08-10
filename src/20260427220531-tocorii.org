@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       daeb44a5-db09-42eb-a529-3b7bcd79a1fb
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Tocorii
 :END:
 #+title: Tocorii
 #+filetags: :System:

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       ac3282a4-c6d5-415c-887d-b4a064e60672
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Sifi+GA-A+D18
 :END:
 #+title: Sifi GA-A D18
 #+filetags: :System:

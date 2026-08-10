@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       72ccd36e-5d65-43e9-873b-80558735d911
-:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Hodack
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Hodack https://edgis.elitedangereuse.fr/static/sysmap.html?system=Hodack
 :END:
 #+title: Hodack
 #+filetags: :Reputation:System:Permit:

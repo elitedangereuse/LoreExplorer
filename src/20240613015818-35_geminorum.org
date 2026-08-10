@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       6a2f3df2-3cd9-4c10-a029-4f2151102f45
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=35+Geminorum
 :END:
 #+title: 35 Geminorum
 

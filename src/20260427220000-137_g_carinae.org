@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       f5abbe52-3cb8-41ce-949f-5487ae96ebee
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=137+G.+Carinae
 :END:
 #+title: 137 G. Carinae
 #+filetags: :System:

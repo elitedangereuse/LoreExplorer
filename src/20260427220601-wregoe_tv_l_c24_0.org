@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       4255fcbc-404a-421c-b8f3-d33489879e2f
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Wregoe+TV-L+c24-0
 :END:
 #+title: Wregoe TV-L c24-0
 #+filetags: :System:

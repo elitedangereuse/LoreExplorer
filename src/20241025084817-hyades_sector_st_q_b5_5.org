@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a70a48d8-984d-487c-a93b-297908264b5e
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Hyades+Sector+ST-Q+B5-5
 :END:
 #+title: Hyades Sector ST-Q B5-5
 #+filetags: :System:
-

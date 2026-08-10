@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       8482a81b-bc45-4f54-9d89-fbc761892bca
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=HR+4413
 :END:
 #+title: HR 4413
 #+filetags: :Permit:System:Locked:
 [[file:img/permit.png]]
-

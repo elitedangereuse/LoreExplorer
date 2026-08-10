@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       f3546609-82e9-4787-99fc-3046be66f273
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=HIP+39425
 :END:
 #+title: HIP 39425
 #+filetags: :Permit:System:Locked:
 [[file:img/permit.png]]
-

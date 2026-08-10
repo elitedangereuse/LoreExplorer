@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a6410be1-99d2-4e1f-924b-4ec4dca8dfe9
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Bastes
 :END:
 #+title: Bastes
 #+filetags: :System:
-

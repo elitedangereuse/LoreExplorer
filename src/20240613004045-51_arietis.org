@@ -1,8 +1,8 @@
 :PROPERTIES:
 :ID:       8a43e015-4c66-47d9-adac-cb5b956450f1
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=51+Arietis
 :END:
 #+title: 51 Arietis
 #+filetags: :System:
 
 No permit required, but system description says one is required.
-

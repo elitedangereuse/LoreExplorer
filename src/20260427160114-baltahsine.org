@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       e99db58f-3cfe-4548-b7da-284176167527
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Baltah%27Sine
 :END:
 #+title: Baltah'Sine
 #+filetags: :System:

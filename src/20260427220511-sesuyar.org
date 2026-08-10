@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       cf53ffe5-073c-494f-8de0-ea2bd09dd140
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Sesuyar
 :END:
 #+title: Sesuyar
 #+filetags: :System:

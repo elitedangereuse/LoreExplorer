@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       10d30257-ac1d-45df-8ae6-f544f1f98ac1
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=VY+Canis+Majoris
 :END:
 #+title: VY Canis Majoris
 #+filetags: :System:

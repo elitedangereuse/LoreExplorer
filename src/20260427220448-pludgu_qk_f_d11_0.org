@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       0d9a13d7-5a20-42ae-ae90-34930b963627
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Pludgu+QK-F+d11-0
 :END:
 #+title: Pludgu QK-F d11-0
 #+filetags: :System:

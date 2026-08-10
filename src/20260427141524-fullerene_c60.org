@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       00a53feb-95fc-4c72-84dd-ba5967c46d41
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Fullerene+C60
 :END:
 #+title: Fullerene C60
 #+filetags: :System:

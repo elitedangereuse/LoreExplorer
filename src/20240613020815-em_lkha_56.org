@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       3530c9f3-03f0-4d41-9c8d-76da53374bcd
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=EM%2A+LkHA+56
 :END:
 #+title: EM* LkHA 56
 

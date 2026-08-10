@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       fb3c8beb-2697-42c0-8476-588d747ff061
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Gandharvi
 :END:
 #+title: Gandharvi
 #+filetags: :System:Tourist:beacon:

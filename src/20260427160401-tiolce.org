@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       d023a45a-1b43-411c-a2d5-378d4b7c0a88
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Tiolce
 :END:
 #+title: Tiolce
 #+filetags: :System:

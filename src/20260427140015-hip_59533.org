@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       0aa9e721-b00b-4be6-b08f-45c88ef5e00e
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=HIP+59533
 :END:
 #+title: HIP 59533
 #+filetags: :System:

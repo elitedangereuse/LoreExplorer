@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       39a3befe-923d-4b8c-9604-c8e0fd360384
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Kuwemaki
 :END:
 #+title: Kuwemaki
 #+filetags: :System:
-

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       493fce18-e3bd-4b1d-8efe-2e6a19946e36
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Cheng+Den
 :END:
 #+title: Cheng Den
 #+filetags: :System:

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       6bd6fa99-8a42-4441-98fe-1bb6c28b2cfd
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=HR+7451
 :END:
 #+title: HR 7451
 #+filetags: :System:

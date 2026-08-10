@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       867ef9a7-e1b0-4b85-b0b4-3036c0cb8e48
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Liaedin
 :END:
 #+title: Liaedin
 #+filetags: :System:
-

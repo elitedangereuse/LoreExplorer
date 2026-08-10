@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       5a87c905-ce2c-492e-8d5d-ce7e1de7f47a
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Goman
 :END:
 #+title: Goman
 #+filetags: :System:

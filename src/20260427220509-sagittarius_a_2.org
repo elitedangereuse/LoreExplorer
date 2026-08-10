@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       79eced12-4b6a-4f24-8673-fa0d509a452e
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Sagittarius+A%2A
 :END:
 #+title: Sagittarius A*
 #+filetags: :System:

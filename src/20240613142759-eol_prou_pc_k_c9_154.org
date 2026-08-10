@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       b50e4d30-4e47-4d98-93b5-284ac4914930
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Eol+Prou+PC-K+c9-154
 :END:
 #+title: Eol Prou PC-K c9-154
 #+filetags: :System:
-

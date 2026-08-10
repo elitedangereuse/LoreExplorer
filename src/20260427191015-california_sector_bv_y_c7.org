@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       cba54e17-62e5-4dc8-be29-a425cd07e6cf
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=California+Sector+BV-Y+c7
 :END:
 #+title: California Sector BV-Y c7
 #+filetags: :System:

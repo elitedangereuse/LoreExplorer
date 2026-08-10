@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       2f5ce846-c16b-428d-b3cb-b5e31d298f48
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Alnath
 :END:
 #+title: Alnath
 #+filetags: :System:

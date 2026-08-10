@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       ddeb9f7c-5c97-4306-824e-159b1b117948
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=HR+4062
 :END:
 #+title: HR 4062
 #+filetags: :System:

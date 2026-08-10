@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       c130b1f6-362a-4b93-bdd8-8ddcf817d5d2
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=HIP+6978
 :END:
 #+title: HIP 6978
 #+filetags: :System:

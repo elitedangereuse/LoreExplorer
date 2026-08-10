@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       e9378879-bda2-42d5-8708-c7eb3635f4c4
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Ngadandari
 :END:
 #+title: Ngadandari
 #+filetags: :System:

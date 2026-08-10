@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       c7115ab3-8575-4f93-a741-a243961b0765
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Pyroifeia+KE-E+d13-35
 :END:
 #+title: Pyroifeia KE-E d13-35
 #+filetags: :System:

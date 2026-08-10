@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       51ee0837-cac7-466c-a019-4743b891c1c8
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Eeshorks+BA-A+G2179
 :END:
 #+title: Eeshorks BA-A G2179
 #+filetags: :System:
-

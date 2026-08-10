@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       c1b3ef31-f69a-4c84-a3a8-aedd3cf2f49c
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Soontill
 :END:
 #+title: Soontill
 #+filetags: :System:
-

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       fd0080bf-b88e-45af-8ddb-74fd91617641
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Ladabalbasa
 :END:
 #+title: Ladabalbasa
 #+filetags: :System:

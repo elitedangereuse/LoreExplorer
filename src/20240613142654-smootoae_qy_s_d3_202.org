@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       8bafd5bc-a8ae-4d53-893a-687a46e7706e
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Smootoae+QY-S+d3-202
 :END:
 #+title: Smootoae QY-S d3-202
 #+filetags: :System:
-

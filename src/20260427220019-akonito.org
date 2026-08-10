@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       b3e87a74-f1c4-4c62-b8eb-6b100f29e1e7
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Akonito
 :END:
 #+title: Akonito
 #+filetags: :System:

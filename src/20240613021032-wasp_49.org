@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       3e0d1586-3bff-4cf3-91d0-8401983d0921
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=WASP-49
 :END:
 #+title: WASP-49
 

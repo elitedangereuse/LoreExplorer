@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       bacd80ef-8bd3-415e-98b0-7fa0c0a5a1f3
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Pyraleau+AA-A+H39
 :END:
 #+title: Pyraleau AA-A H39
 #+filetags: :System:

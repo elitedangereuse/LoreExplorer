@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       4522063c-2237-44d8-9fca-e1e114cddba9
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Plaa+Eurk+IA-H+b52-0
 :END:
 #+title: Plaa Eurk IA-H b52-0
 #+filetags: :System:

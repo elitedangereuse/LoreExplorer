@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       0a9dd112-c2a6-47d8-9056-a334912820bf
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=HIP+90578
 :END:
 #+title: HIP 90578
 #+filetags: :System:

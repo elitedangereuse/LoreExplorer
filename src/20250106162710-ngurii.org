@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       c5a59d3f-3c81-49d0-975a-3517cae28c5c
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Ngurii
 :END:
 #+title: Ngurii
 #+filetags: :System:
-

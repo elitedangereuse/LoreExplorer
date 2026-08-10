@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       102883f4-66e4-4689-8e67-6524005307c6
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=HIP+88617
 :END:
 #+title: HIP 88617
 #+filetags: :System:

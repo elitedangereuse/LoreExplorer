@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       9d76d041-64c5-4edb-9fe4-5f91ad70fbcf
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=LHS+3091
 :END:
 #+title: LHS 3091
 #+filetags: :Permit:System:Locked:
 [[file:img/permit.png]]
-

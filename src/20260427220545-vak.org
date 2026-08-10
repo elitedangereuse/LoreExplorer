@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       3c258ff0-3bde-4d26-b185-1fc3de2efc61
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Vak
 :END:
 #+title: Vak
 #+filetags: :System:

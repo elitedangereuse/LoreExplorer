@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       b1d1914b-ab24-4f8d-b44b-32fabf3ac2ab
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=LP+542-33
 :END:
 #+title: LP 542-33
 #+filetags: :System:

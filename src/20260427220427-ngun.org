@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       9d25bbb2-a7b4-46da-8b63-a0f7686e5c52
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Ngun
 :END:
 #+title: Ngun
 #+filetags: :System:

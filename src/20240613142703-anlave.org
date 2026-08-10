@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       f0fea079-ca2f-420e-8dce-e69ca46ae126
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Anlave
 :END:
 #+title: Anlave
 #+filetags: :System:
-

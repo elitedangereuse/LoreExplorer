@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       0dbd55a5-68d9-45c4-9a80-b2e41f79554c
-:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Eurybia
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Eurybia https://edgis.elitedangereuse.fr/static/sysmap.html?system=Eurybia
 :END:
 #+title: Eurybia
 #+filetags: :System:

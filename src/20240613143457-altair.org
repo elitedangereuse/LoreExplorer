@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       144149ef-21cd-4e52-afea-dcf379d12d18
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Altair
 :END:
 #+title: Altair
 #+filetags: :System:

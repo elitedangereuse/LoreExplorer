@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       71373989-4797-42fa-b1d1-758e41e48177
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Eleu
 :END:
 #+title: Eleu
 #+filetags: :System:

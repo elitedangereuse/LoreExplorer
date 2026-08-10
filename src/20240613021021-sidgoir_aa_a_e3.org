@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       d36afc94-345d-4abe-b098-5628cee86dcf
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Sidgoir+AA-A+e3
 :END:
 #+title: Sidgoir AA-A e3
 

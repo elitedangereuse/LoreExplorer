@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       48f9c4bf-b2ad-44e9-9130-d0ee33856ed2
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Geras
 :END:
 #+title: Geras
 #+filetags: :System:

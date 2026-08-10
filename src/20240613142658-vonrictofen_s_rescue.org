@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       dcdf2405-21e7-4a78-b4ba-da4e6b806aac
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Vonrictofen%27s+Rescue
 :END:
 #+title: Vonrictofen's Rescue
 #+filetags: :System:
-

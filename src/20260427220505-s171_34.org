@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       182672af-8d65-4d9e-b55f-76dacf81531c
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=S171+34
 :END:
 #+title: S171 34
 #+filetags: :System:

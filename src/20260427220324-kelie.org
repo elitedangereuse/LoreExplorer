@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       a01d266b-0c80-46ff-b277-88d4f5ca431f
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Kelie
 :END:
 #+title: Kelie
 #+filetags: :System:

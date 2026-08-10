@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       d7fab9bb-976b-4012-a181-af389e9a2396
-:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Ross_128
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Ross_128 https://edgis.elitedangereuse.fr/static/sysmap.html?system=Ross+128
 :END:
 #+title: Ross 128
 #+filetags: :Federation:Rank:Permit:System:

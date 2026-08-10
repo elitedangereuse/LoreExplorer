@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       420de9d4-776e-4835-a388-43792ddc5dd4
-:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Quator
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Quator https://edgis.elitedangereuse.fr/static/sysmap.html?system=Quator
 :END:
 #+title: Quator
 #+filetags: :System:

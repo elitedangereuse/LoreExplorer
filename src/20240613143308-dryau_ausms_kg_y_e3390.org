@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       71dc38a7-e715-4f89-bfff-bbaf3faba7b7
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Dryau+Ausms+KG-Y+e3390
 :END:
 #+title: Dryau Ausms KG-Y e3390
 #+filetags: :System:
-

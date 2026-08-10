@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       28a393c4-c823-4e34-84be-3ed2964c2048
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=HR+7925
 :END:
 #+title: HR 7925
 #+filetags: :System:

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       05cd22e1-82de-4fd6-b102-3d8013c9e0fb
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=LTT+9164
 :END:
 #+title: LTT 9164
 #+filetags: :System:

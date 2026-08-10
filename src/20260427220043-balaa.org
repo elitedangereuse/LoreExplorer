@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       f8737d58-4faf-4b88-9825-55b5ddd78f17
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Balaa
 :END:
 #+title: Balaa
 #+filetags: :System:

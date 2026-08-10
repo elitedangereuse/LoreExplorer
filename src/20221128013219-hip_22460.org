@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       55088d83-4221-44fa-a9d5-6ebb0866c722
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=HIP+22460
 :END:
 #+title: HIP 22460
 #+filetags: :Thargoid:Permit:System:

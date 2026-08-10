@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       2437a94e-3728-40bd-84d5-541be4c73854
-:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Van_Maanen's_Star
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Van_Maanen's_Star https://edgis.elitedangereuse.fr/static/sysmap.html?system=Van+Maanen%27s+Star
 :END:
 #+title: Van Maanen's Star
 #+filetags: :Reputation:System:Permit:

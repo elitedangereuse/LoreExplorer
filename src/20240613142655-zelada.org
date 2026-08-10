@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       113500ff-cc01-4fe3-a0f4-87d92e2c2d31
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Zelada
 :END:
 #+title: Zelada
 #+filetags: :System:
-

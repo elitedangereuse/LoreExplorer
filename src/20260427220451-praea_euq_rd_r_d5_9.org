@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       b0277f42-9d4f-4690-bf08-cbb2d36dd7d7
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Praea+Euq+RD-R+D5-9
 :END:
 #+title: Praea Euq RD-R D5-9
 #+filetags: :System:

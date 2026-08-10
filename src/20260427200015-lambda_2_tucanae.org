@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       83c5b09c-39e6-43b2-bd44-6d088c28ccff
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Lambda-2+Tucanae
 :END:
 #+title: Lambda-2 Tucanae
 #+filetags: :System:
@@ -9,4 +10,3 @@
 Lambda-2 Tucanae received
 [[id:3fb773e2-eb26-497b-bad7-4e4774def2b2][McQuarrie Landing]] through the 3306
 starport-conversion initiative.
-

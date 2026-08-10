@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       e91a5ba1-4334-4672-ab8a-f55377d9f739
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=HIP+8887
 :END:
 #+title: HIP 8887
 #+filetags: :UnregisteredCommsBeacons:System:

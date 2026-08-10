@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       18bc9154-ae12-4c43-a445-9089fecffda2
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=CD-39+4830
 :END:
 #+title: CD-39 4830
 #+filetags: :System:

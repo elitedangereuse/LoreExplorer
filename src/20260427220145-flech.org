@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       0119eaa6-896e-4424-a8fa-b77cb7d8377c
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Flech
 :END:
 #+title: Flech
 #+filetags: :System:

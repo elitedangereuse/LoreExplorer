@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       da2629ec-5b2b-450f-aab4-6db773822425
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=LTT+18046
 :END:
 #+title: LTT 18046
 #+filetags: :System:

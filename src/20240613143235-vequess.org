@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       33f1322e-3ff8-4b62-8b13-17f62dcf377f
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Vequess
 :END:
 #+title: Vequess
 #+filetags: :System:
-

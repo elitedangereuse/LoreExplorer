@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       a36be18b-42c7-4302-a6ad-73cf185276e8
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=V1090+Herculis
 :END:
 #+title: V1090 Herculis
 #+filetags: :System:

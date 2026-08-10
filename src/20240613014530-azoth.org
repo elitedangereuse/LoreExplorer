@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       842f3fae-e167-4fb6-b0b5-4a1ed5dd8469
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Azoth
 :END:
 #+title: Azoth
 

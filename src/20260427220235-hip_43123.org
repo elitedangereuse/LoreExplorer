@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       3b6edb9c-274a-490e-9406-408edfdae4bb
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=HIP+43123
 :END:
 #+title: HIP 43123
 #+filetags: :System:

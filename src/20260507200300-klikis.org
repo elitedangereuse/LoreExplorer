@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       f8afd957-7349-4913-8777-7d5d90c6f297
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Klikis
 :END:
 #+title: Klikis
 #+filetags: :System:

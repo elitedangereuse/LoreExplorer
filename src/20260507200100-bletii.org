@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       1ea66555-c397-4a1a-a2ab-04bf7ea9cf0a
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Bletii
 :END:
 #+title: Bletii
 #+filetags: :System:

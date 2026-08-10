@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       4e1af868-e653-4eff-91c8-f958b08c93cd
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Xuanebuth
 :END:
 #+title: Xuanebuth
 #+filetags: :System:

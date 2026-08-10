@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       bb9435b7-f21d-4afc-8ca6-a57d0fd51065
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Mudhrid
 :END:
 #+title: Mudhrid
 #+filetags: :System:

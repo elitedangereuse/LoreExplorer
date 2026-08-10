@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       219a6cbb-d511-48bc-be31-ede2c9af4576
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=HIP+7158&body_id=14
 :END:
 #+title: HIP 7158 A 2 D
 #+filetags: :System:

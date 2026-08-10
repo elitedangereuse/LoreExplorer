@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       44b99d90-8587-491e-babf-46b08bbffa77
-:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Orerve
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Orerve https://edgis.elitedangereuse.fr/static/sysmap.html?system=Orerve
 :END:
 #+title: Orerve
 #+filetags: :System:

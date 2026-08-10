@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       39a2fd31-1598-4304-8125-1fbf02407b33
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Xbalamana
 :END:
 #+title: Xbalamana
 #+filetags: :System:

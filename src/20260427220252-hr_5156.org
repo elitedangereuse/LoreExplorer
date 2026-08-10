@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       816189af-b710-4864-90ca-bf28224c036d
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=HR+5156
 :END:
 #+title: HR 5156
 #+filetags: :System:

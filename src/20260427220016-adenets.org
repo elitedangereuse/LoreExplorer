@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       7ee5896b-1917-4d20-9536-1989e804148a
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Adenets
 :END:
 #+title: Adenets
 #+filetags: :System:

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       2b5c428c-a888-4f93-8505-8f17f99ee2e9
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Mulachi
 :END:
 #+title: Mulachi
 #+filetags: :System:

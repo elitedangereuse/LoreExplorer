@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       c634d7d7-80d2-4573-a8af-839ca2ecb0c8
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Cofan
 :END:
 #+title: Cofan
 #+filetags: :System:

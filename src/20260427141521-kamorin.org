@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       e342b5c4-181b-407d-8169-e953193f325a
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Kamorin
 :END:
 #+title: Kamorin
 #+filetags: :System:

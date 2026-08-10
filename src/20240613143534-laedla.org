@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       735abc3e-2370-4fd4-a38c-3796f0dfd536
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Laedla
 :END:
 #+title: Laedla
 #+filetags: :System:
-

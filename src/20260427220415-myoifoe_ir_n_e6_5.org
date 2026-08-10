@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       619cdca2-17eb-44ae-a911-ba9e4fbb1912
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Myoifoe+IR-N+e6-5
 :END:
 #+title: Myoifoe IR-N e6-5
 #+filetags: :System:

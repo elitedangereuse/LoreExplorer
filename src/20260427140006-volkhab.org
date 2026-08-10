@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       e2408ae8-86cc-47df-a589-f8d880f5f2e4
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Volkhab
 :END:
 #+title: Volkhab
 #+filetags: :System:

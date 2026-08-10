@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       46373314-b3b4-4dd1-9bfa-3df61b656830
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Kathans
 :END:
 #+title: Kathans
 #+filetags: :System:

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       c72ce3b7-f19e-4034-9df5-554bcddfaa4f
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Mictlan
 :END:
 #+title: Mictlan
 #+filetags: :System:

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       c0ca77c2-1994-4f1c-9f14-b839171da15a
-:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Durius
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Durius https://edgis.elitedangereuse.fr/static/sysmap.html?system=Durius
 :END:
 #+title: Durius
 #+filetags: :System:

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       ba152f8a-d8af-4611-b8ac-0b32f3258dd0
-:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Summerland
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Summerland https://edgis.elitedangereuse.fr/static/sysmap.html?system=Summerland
 :END:
 #+title: Summerland
 #+filetags: :Rank:Permit:System:

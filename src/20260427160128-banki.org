@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       73ee5f36-58a2-4d34-ac47-ee4f3bfdb479
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Banki
 :END:
 #+title: Banki
 #+filetags: :System:

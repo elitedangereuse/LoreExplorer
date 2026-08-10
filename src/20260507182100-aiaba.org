@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       4dbd6ca9-5a8c-426c-85a1-2cd4d0594fd0
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Aiaba
 :END:
 #+title: Aiaba
 #+filetags: :System:

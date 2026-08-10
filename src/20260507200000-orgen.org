@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       d86f4f46-ea24-4af9-8cd4-a6cdb5fc9a00
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Orgen
 :END:
 #+title: Orgen
 #+filetags: :System:

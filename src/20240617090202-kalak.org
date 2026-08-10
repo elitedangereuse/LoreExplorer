@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       82004cc8-48f5-4990-916d-43d91b757921
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Kalak
 :END:
 #+title: Kalak
 #+filetags: :System:

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       ba8d8d1f-93b8-44c5-9ec3-a7998cbcf43c
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Coquim
 :END:
 #+title: Coquim
 #+filetags: :System:

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       e284035f-c592-4db7-94ba-fe57a972f610
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Prooe+Drye+PU-B+c2-5
 :END:
 #+title: Prooe Drye PU-B c2-5
 #+filetags: :System:

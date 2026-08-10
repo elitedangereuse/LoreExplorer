@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       fb2896d7-8b96-4313-bf3d-70b8402ecd5f
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Hau+Ku
 :END:
 #+title: Hau Ku
 #+filetags: :System:

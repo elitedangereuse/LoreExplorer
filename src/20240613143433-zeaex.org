@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       dfbc8f06-6724-4a34-a908-f90a2fe3ba43
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Zeaex
 :END:
 #+title: Zeaex
 #+filetags: :System:
-

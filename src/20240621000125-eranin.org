@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       f38c2905-34c5-45c1-a2f5-2ec352b6630f
-:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Eranin
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Eranin https://edgis.elitedangereuse.fr/static/sysmap.html?system=Eranin
 :END:
 #+title: Eranin
 #+filetags: :System:

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       f99cc815-f736-48e1-863d-7e50b14b7273
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Nastrond
 :END:
 #+title: Nastrond
 #+filetags: :Reputation:System:Permit:

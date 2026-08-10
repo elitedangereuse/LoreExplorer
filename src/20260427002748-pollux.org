@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       c98904e6-fe29-4bed-bd9f-39ca5908fa93
-:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Pollux
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Pollux https://edgis.elitedangereuse.fr/static/sysmap.html?system=Pollux
 :END:
 #+title: Pollux
 #+filetags: :System:

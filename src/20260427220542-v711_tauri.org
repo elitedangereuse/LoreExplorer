@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       65b3b6fb-498d-46b8-bc24-72f32e07477f
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=V711+Tauri
 :END:
 #+title: V711 Tauri
 #+filetags: :System:

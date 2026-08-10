@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       dd2c18ab-d140-4959-8b69-c4f0ea841fad
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=NLTT+6667
 :END:
 #+title: NLTT 6667
 #+filetags: :System:

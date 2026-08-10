@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       f1d087a2-33cf-4d0c-9395-a159365cdde0
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=George+Pantazis
 :END:
 #+title: George Pantazis
 #+filetags: :System:

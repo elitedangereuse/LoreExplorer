@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       1927ccd6-1674-488f-aa56-fe929fdba5cd
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=T+TAURI
 :END:
 #+title: T TAURI
 #+filetags: :System:

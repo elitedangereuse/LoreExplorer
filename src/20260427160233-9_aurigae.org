@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       1289c5ec-5610-4d65-8e62-b2a526a8ff67
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=9+Aurigae
 :END:
 #+title: 9 Aurigae
 #+filetags: :System:

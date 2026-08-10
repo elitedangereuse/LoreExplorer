@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       3efd571e-0167-4167-bf6c-67b4650259ce
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Nahuaru
 :END:
 #+title: Nahuaru
 #+filetags: :System:
-

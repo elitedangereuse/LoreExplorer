@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       7aef4ac7-3408-4a89-930f-ecd1c4c9ced1
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Kambila
 :END:
 #+title: Kambila
 #+filetags: :System:

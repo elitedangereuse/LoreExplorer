@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       05001997-689c-4688-94cd-f1184176e74b
-:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Pi_Mensae
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Pi_Mensae https://edgis.elitedangereuse.fr/static/sysmap.html?system=Pi+Mensae
 :END:
 #+title: Pi Mensae
 #+filetags: :Reputation:System:Permit:

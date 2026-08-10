@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       584124ce-e6b8-459c-a56a-42c60128ebd2
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=SKAUDE+AA-A+H294
 :END:
 #+title: SKAUDE AA-A H294
 #+filetags: :System:

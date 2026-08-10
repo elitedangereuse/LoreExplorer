@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       0a64d5ad-8198-427c-b059-84a18e468c53
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Morrina
 :END:
 #+title: Morrina
 #+filetags: :System:

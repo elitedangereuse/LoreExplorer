@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       47120ce9-05fa-4997-89d7-189e95c9e991
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=38+Lyncis
 :END:
 #+title: 38 Lyncis
 #+filetags: :System:

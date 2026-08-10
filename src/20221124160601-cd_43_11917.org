@@ -1,9 +1,9 @@
 :PROPERTIES:
 :ID:       4f15243b-1b75-47be-8504-e79947d89fd6
-:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/CD-43_11917
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/CD-43_11917 https://edgis.elitedangereuse.fr/static/sysmap.html?system=CD-43+11917
 :END:
 #+title: CD-43 11917
-#+filetags: :Rank:System:Permit:
+#+filetags: :3302:Rank:System:Permit:
 
 #+begin_quote
 Atlas was established in 3302 and has since had all records

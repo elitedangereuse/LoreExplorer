@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       d2a6459b-0e92-4f1a-a7de-3bd6d5d307d5
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Millcayac
 :END:
 #+title: Millcayac
 #+filetags: :System:

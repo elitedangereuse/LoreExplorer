@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       e3844feb-e1b8-4fb3-abb9-3b2e9282ce62
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Tupa
 :END:
 #+title: Tupa
 #+filetags: :System:

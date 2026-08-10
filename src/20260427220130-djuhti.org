@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       6fe52ef7-63d2-439f-bdb7-d9bf5fb273b1
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Djuhti
 :END:
 #+title: Djuhti
 #+filetags: :System:

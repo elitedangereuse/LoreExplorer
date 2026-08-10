@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       a0af7285-2782-4097-8a1a-f1792f28534e
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=EEMBAISK+NS-R+D5-2857
 :END:
 #+title: EEMBAISK NS-R D5-2857
 #+filetags: :System:

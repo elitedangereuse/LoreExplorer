@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       4fe4d02b-59e4-4c96-b8e6-f7bb9e777aa8
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Wat+Yu
 :END:
 #+title: Wat Yu
 #+filetags: :System:

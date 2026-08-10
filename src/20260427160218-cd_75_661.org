@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       642f772b-c257-4616-b31a-a2b17a58f068
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=CD-75+661
 :END:
 #+title: CD-75 661
 #+filetags: :System:

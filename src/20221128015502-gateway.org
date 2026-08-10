@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       e179ecca-9ab3-4184-b05e-107b2e6932c2
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Gateway
 :END:
 #+title: Gateway
 #+filetags: :System:Tourist:History:beacon:Alliance:Federation:

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       6531f861-c1e4-4283-8532-8e8d5bedc03d
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Kyloarph+RT-R+d4-3469
 :END:
 #+title: Kyloarph RT-R d4-3469
 #+filetags: :System:beacon:
-

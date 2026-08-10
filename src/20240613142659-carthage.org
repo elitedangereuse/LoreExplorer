@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       29b87d21-95e3-41c2-b43c-e5777025efa9
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Carthage
 :END:
 #+title: Carthage
 #+filetags: :System:
-

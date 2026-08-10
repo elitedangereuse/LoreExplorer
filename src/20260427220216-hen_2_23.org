@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       43b51c7c-b801-43a4-9f6a-b10b9ac6d927
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=HEN+2-23
 :END:
 #+title: HEN 2-23
 #+filetags: :System:

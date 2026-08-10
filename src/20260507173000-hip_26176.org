@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       4a4f0979-0aca-4c6f-b0cb-953124684485
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=HIP+26176
 :END:
 #+title: HIP 26176
 #+filetags: :System:

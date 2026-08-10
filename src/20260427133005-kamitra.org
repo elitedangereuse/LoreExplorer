@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       5201be15-41e2-427b-b5de-d2d32d5ec78d
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Kamitra
 :END:
 #+title: Kamitra
 #+filetags: :System:

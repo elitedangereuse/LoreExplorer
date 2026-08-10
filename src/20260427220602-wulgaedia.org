@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       a6ffa5f0-a670-497b-bfe9-0c9ca50ed12d
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Wulgaedia
 :END:
 #+title: Wulgaedia
 #+filetags: :System:

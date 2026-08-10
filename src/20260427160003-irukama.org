@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       76048bd8-7a18-4d77-bf77-ae23a5268d20
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Irukama
 :END:
 #+title: Irukama
 #+filetags: :System:

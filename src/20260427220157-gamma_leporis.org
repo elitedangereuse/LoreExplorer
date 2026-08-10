@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       d5b8f6d3-f130-49e1-8dd0-f82df8339982
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Gamma+Leporis
 :END:
 #+title: Gamma Leporis
 #+filetags: :System:

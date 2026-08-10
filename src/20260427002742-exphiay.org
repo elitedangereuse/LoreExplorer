@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       735218d7-87f7-4570-8585-9c5ab0288c1d
-:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Exphiay
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Exphiay https://edgis.elitedangereuse.fr/static/sysmap.html?system=Exphiay
 :END:
 #+title: Exphiay
 #+filetags: :System:

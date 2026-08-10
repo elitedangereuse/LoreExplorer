@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       3825941b-11a5-487b-aa46-492a864a4e3d
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Virudnir
 :END:
 #+title: Virudnir
 #+filetags: :System:
-

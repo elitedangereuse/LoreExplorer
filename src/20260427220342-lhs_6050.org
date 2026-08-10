@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       e0b84e51-39c4-491d-a331-f0433d329e42
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=LHS+6050
 :END:
 #+title: LHS 6050
 #+filetags: :System:

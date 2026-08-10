@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       ef9a493c-efa5-4692-8e0e-ad50a0830c4b
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=CD-26+1339
 :END:
 #+title: CD-26 1339
 #+filetags: :System:

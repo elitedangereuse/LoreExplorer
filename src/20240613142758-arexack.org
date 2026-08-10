@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       6935cefb-7739-4ac2-91a0-de4a984feae1
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Arexack
 :END:
 #+title: Arexack
 #+filetags: :System:
-

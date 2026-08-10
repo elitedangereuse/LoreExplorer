@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       b15dad66-edf2-4c19-b7bf-987470cf62c5
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Bard
 :END:
 #+title: Bard
 #+filetags: :System:
-

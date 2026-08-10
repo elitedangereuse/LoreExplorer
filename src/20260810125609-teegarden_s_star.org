@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       ed9aa777-0465-41a3-a3db-c31549e55569
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Teegarden%27s+Star
 :END:
 #+title: Teegarden's Star
 #+filetags: :UnregisteredCommsBeacons:System:

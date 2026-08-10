@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       13360354-85b1-481c-b475-2a8b9e07e222
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=HIP+57822
 :END:
 #+title: HIP 57822
 #+filetags: :System:

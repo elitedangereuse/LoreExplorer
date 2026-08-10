@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       57be49b9-040e-4157-8647-d73985c4095f
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Jupanisage
 :END:
 #+title: Jupanisage
 #+filetags: :System:

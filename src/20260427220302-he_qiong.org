@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       c5e836ae-1893-4516-9eb5-b2f4c2b7e03d
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=He+Qiong
 :END:
 #+title: He Qiong
 #+filetags: :System:

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       25537b36-1d83-4354-afeb-482bf891d85d
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Di+Jian
 :END:
 #+title: Di Jian
 #+filetags: :System:
-

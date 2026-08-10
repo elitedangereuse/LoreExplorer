@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       39487080-204a-4080-be3f-e8a83bd0fb89
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Tyet
 :END:
 #+title: Tyet
 

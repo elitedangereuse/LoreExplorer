@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       f8206341-9656-42ba-ad26-a42c7e6e219c
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Lia+Fail
 :END:
 #+title: Lia Fail
 

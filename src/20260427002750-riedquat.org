@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       633a799b-8c05-4136-8f94-cf169eab515f
-:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Riedquat
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Riedquat https://edgis.elitedangereuse.fr/static/sysmap.html?system=Riedquat
 :END:
 #+title: Riedquat
 #+filetags: :System:

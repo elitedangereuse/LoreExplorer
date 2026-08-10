@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       b337ed38-0ac3-4e76-9502-e978f3073c67
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Niju
 :END:
 #+title: Niju
 #+filetags: :System:

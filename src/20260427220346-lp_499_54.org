@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       6170a1c4-061a-415d-91bc-8b08ef8a375a
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=LP+499-54
 :END:
 #+title: LP 499-54
 #+filetags: :System:

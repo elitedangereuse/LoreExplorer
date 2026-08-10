@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       6b1e42b0-4cc8-4376-ac40-f5855c7800dc
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Alacarakmo
 :END:
 #+title: Alacarakmo
 #+filetags: :System:
-

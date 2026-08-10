@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       7267fbb9-4ced-43b4-adc4-9d9667be3310
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Yaque
 :END:
 #+title: Yaque
 #+filetags: :System:

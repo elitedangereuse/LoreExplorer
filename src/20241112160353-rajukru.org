@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       d93fc596-b8cd-47a1-a30b-729d657c1167
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Rajukru
 :END:
 #+title: Rajukru
 #+filetags: :System:
-

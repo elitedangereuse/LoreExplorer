@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       0832275e-2524-496f-90a0-b2807b9211a0
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Sleguae+HH-C+d67
 :END:
 #+title: Sleguae HH-C d67
 #+filetags: :System:

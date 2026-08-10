@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       64fab6f7-893e-436c-80f4-b42cde130147
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Karsuki+Ti
 :END:
 #+title: Karsuki Ti
 #+filetags: :System:

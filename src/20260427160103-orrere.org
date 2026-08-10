@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       c4c312cb-b838-47aa-8067-18710bbba82b
-:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Orrere
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Orrere https://edgis.elitedangereuse.fr/static/sysmap.html?system=Orrere
 :END:
 #+title: Orrere
 #+filetags: :System:

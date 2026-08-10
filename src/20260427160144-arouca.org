@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       e5b3e7dc-262b-4a7b-a0de-d4662d26a612
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Arouca
 :END:
 #+title: Arouca
 #+filetags: :System:

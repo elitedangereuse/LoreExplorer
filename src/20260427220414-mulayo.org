@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       7995fb07-237b-412b-8dfe-14c9d75c381a
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Mulayo
 :END:
 #+title: Mulayo
 #+filetags: :System:

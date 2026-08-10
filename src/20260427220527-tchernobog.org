@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       a1dbb237-b1be-45cd-aef7-8c0f56cbf7fd
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Tchernobog
 :END:
 #+title: Tchernobog
 #+filetags: :System:

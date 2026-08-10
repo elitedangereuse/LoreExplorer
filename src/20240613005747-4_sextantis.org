@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       7402292c-3306-47d7-880a-06304f229379
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=4+Sextantis
 :END:
 #+title: 4 Sextantis
 #+filetags: :Federation:Rank:Permit:System:

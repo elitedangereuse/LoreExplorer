@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       92430fae-eab3-4d8c-bc07-d35f43e684f6
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Helvetitj
 :END:
 #+title: Helvetitj
 #+filetags: :System:

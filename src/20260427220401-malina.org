@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       1b67624a-22ed-456c-9cee-d9d4dccb0294
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Malina
 :END:
 #+title: Malina
 #+filetags: :System:

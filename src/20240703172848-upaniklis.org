@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       361a46f2-79c4-40bf-9781-4066763914f3
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Upaniklis
 :END:
 #+title: Upaniklis
 #+filetags: :System:
-

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       7c1917fb-e203-4625-9797-9b63804f56e3
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=K%27uanele
 :END:
 #+title: K'uanele
 #+filetags: :System:

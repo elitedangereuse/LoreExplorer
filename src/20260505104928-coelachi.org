@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       043d80b9-4bb0-4ce2-9655-a6687ac4a5e9
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Coelachi
 :END:
 #+title: Coelachi
 #+filetags: :System:

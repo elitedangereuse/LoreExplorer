@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       d7080f85-2d4f-43e7-8a23-c8b086f59a63
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Eafots+BP-I+D9-35
 :END:
 #+title: Eafots BP-I D9-35
 #+filetags: :System:
-

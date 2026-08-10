@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       d4fcac0d-4f0d-4f69-bb6b-cac75727a53e
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=36+Andromedae
 :END:
 #+title: 36 Andromedae
 #+filetags: :System:

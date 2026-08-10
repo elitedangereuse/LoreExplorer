@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       947cab99-f59e-4ed3-bd40-b63632d4eaf0
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Viracocha
 :END:
 #+title: Viracocha
 #+filetags: :System:

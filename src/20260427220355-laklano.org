@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       98a5de61-ba27-4e13-ace9-9739dd218b94
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Laklano
 :END:
 #+title: Laklano
 #+filetags: :System:

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       94cdc954-724e-4a76-9a30-8af131802ab6
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Ikpenones
 :END:
 #+title: Ikpenones
 #+filetags: :System:

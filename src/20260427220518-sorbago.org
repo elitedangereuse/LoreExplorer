@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       6dec0302-6b62-4a55-b7e2-fc6cf3a65fe1
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Sorbago
 :END:
 #+title: Sorbago
 #+filetags: :System:

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       39dc61d6-e82b-421d-8110-cf5882f647c6
-:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/LP_98-132
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/LP_98-132 https://edgis.elitedangereuse.fr/static/sysmap.html?system=LP+98-132
 :END:
 #+title: LP 98-132
 #+filetags: :System:

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       3a795795-040a-49d0-998c-75892cb69197
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Greae+Hypai+WP-G+D10-14
 :END:
 #+title: Greae Hypai WP-G D10-14
 #+filetags: :System:

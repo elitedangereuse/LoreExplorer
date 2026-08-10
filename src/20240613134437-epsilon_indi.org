@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       d40886f3-bc59-4f0d-8926-b125ee01c9bb
-:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Epsilon_Indi
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Epsilon_Indi https://edgis.elitedangereuse.fr/static/sysmap.html?system=Epsilon+Indi
 :END:
 #+title: Epsilon Indi
 #+filetags: :System:

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       bbc27688-3250-4515-893b-209e0fcde8de
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Pyroifoea+CP-X+c2-4
 :END:
 #+title: Pyroifoea CP-X c2-4
 #+filetags: :System:

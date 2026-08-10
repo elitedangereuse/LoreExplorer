@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       bb2b96a9-f27a-4530-a8f5-2a65a422146a
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Frenis
 :END:
 #+title: Frenis
 #+filetags: :System:
-

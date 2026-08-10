@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       cad4f6ee-c7e6-4f44-8a55-c663df83941e
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=LFT+1421
 :END:
 #+title: LFT 1421
 #+filetags: :System:

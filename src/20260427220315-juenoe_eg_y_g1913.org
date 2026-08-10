@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       6da0e8a6-d83b-49af-be63-e32ef53790ee
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=JUENOE+EG-Y+G1913
 :END:
 #+title: JUENOE EG-Y G1913
 #+filetags: :System:

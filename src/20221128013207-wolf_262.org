@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       5ee8ebfe-79fe-413b-96fc-45636d3823ba
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Wolf+262
 :END:
 #+title: Wolf 262
 #+filetags: :Permit:System:Locked:
 [[file:img/permit.png]]
-

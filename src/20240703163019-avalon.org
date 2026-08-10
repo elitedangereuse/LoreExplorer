@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       55628bb2-5f97-4086-b281-170acff0bf9b
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Avalon
 :END:
 #+title: Avalon
 #+filetags: :System:
-

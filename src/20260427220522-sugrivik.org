@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       042e26d9-6503-4784-a6d0-4acbb720a9dd
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Sugrivik
 :END:
 #+title: Sugrivik
 #+filetags: :System:

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       c94f20d6-d058-4349-b7fc-c933a52da31d
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Ogairy+FG-Y+g2279
 :END:
 #+title: Ogairy FG-Y g2279
 #+filetags: :System:

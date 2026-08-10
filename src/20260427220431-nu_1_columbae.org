@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       8065f45e-feb6-41d1-8099-59cf6d08df14
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Nu-1+Columbae
 :END:
 #+title: Nu-1 Columbae
 #+filetags: :System:

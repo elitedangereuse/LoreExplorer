@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       99de693f-ba34-4c2f-a3ab-1d4fe4ea2fe4
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=HR+5529
 :END:
 #+title: HR 5529
 #+filetags: :System:

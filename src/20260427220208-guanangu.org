@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       30b3e250-410e-4d95-a9dc-bd5122ec18fb
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Guanangu
 :END:
 #+title: Guanangu
 #+filetags: :System:

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       cb2dde00-e60e-49f5-a446-395268cc626c
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Irandan
 :END:
 #+title: Irandan
 #+filetags: :System:

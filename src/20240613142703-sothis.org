@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       aa43803c-e60c-45bf-ab48-49a139931c68
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Sothis
 :END:
 #+title: Sothis
 #+filetags: :System:
-

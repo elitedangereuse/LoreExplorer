@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       9445759e-8ea4-497d-9d36-140bb7680f9a
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Byao+Ain+GG-Y+E7
 :END:
 #+title: Byao Ain GG-Y E7
 #+filetags: :System:

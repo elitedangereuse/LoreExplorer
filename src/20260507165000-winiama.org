@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       b9e28958-51d6-4c64-a112-3e84b8fdaf72
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Winiama
 :END:
 #+title: Winiama
 #+filetags: :System:

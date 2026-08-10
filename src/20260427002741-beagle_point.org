@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       da49a702-3bb4-4dd7-9adf-29188adb2801
-:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Beagle_Point
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Beagle_Point https://edgis.elitedangereuse.fr/static/sysmap.html?system=Beagle+Point
 :END:
 #+title: Beagle Point
 #+filetags: :System:

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       e21b1576-3ab2-4c58-9f31-2578b84dd7dc
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Pangluya
 :END:
 #+title: Pangluya
 #+filetags: :System:

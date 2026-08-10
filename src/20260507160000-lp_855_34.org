@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       cf096cc3-59af-46ca-a0ea-a57c4c30c90e
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=LP+855-34
 :END:
 #+title: LP 855-34
 #+filetags: :System:

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       47e37909-21f0-47b3-9a6d-fd364d944b39
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Gui+Xian
 :END:
 #+title: Gui Xian
 #+filetags: :System:

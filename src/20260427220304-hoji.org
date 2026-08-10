@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       fd81df36-281d-435e-a6b5-9dc544ae1b12
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Hoji
 :END:
 #+title: Hoji
 #+filetags: :System:

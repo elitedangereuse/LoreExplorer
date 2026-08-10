@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       aba4ed81-6ceb-47e1-91de-9bdc241ec481
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Hariates
 :END:
 #+title: Hariates
 #+filetags: :System:

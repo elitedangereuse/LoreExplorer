@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       0396fd76-8179-4742-9608-04cb61cac811
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=LHS+3931
 :END:
 #+title: LHS 3931
 #+filetags: :System:

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       25af0ff4-3852-4601-bb83-bea6ea61af5f
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=17+Beta+Piscis+Austrini
 :END:
 #+title: 17 Beta Piscis Austrini
 #+filetags: :System:

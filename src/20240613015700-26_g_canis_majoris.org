@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       a32c9a22-86e2-401b-a22d-943c3c93fa63
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=26+G.+Canis+Majoris
 :END:
 #+title: 26 G. Canis Majoris
 

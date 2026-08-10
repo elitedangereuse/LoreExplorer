@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       e74005db-60de-4b65-8517-d75a5d97484a
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Mokusa
 :END:
 #+title: Mokusa
 #+filetags: :System:

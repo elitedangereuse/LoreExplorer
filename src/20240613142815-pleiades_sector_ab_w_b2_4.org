@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       c32901ed-73d1-4ca6-aeb8-5bcd795d1036
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Pleiades+Sector+AB-W+B2-4
 :END:
 #+title: Pleiades Sector AB-W B2-4
 #+filetags: :System:
-

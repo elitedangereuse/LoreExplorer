@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       756e8d26-c4ef-41d9-8ac0-16a0368d2bb9
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Col+285+Sector+RF-C+B14-7
 :END:
 #+title: Col 285 Sector RF-C B14-7
 #+filetags: :System:

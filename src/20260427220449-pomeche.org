@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       239f9433-d111-4c01-a33d-bccdec5003ff
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Pomeche
 :END:
 #+title: Pomeche
 #+filetags: :System:

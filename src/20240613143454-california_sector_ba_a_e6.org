@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       d4edf856-0f0e-4942-959b-311d310cbc82
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=California+Sector+BA-A+E6
 :END:
 #+title: California Sector BA-A E6
 #+filetags: :System:
-

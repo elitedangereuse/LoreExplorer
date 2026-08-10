@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       d31d3dd1-f63a-4ff2-9fa5-5031c4b7bf6c
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Furbaide
 :END:
 #+title: Furbaide
 #+filetags: :System:
-

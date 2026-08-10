@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       5f3c361b-30be-4912-8341-f6f3c1336028
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Eol+Prou+RS-T+d3-94
 :END:
 #+title: Eol Prou RS-T d3-94
 #+filetags: :System:

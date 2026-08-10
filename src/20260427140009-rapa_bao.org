@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       eea05b31-de72-43b5-839a-fee530eab347
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Rapa+Bao
 :END:
 #+title: Rapa Bao
 #+filetags: :System:

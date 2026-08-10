@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       1a0c6110-1407-4392-aa00-e9998c0ff97b
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Brulenjan
 :END:
 #+title: Brulenjan
 #+filetags: :System:

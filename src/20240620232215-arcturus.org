@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       74133f32-c175-450f-bd54-8ecbc8041696
-:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Arcturus
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Arcturus https://edgis.elitedangereuse.fr/static/sysmap.html?system=Arcturus
 :END:
 #+title: Arcturus
 #+filetags: :System:

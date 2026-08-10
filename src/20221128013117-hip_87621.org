@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       64e3ad83-30b5-41fc-bde5-8eb63c38ab83
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=HIP+87621
 :END:
 #+title: HIP 87621
 #+filetags: :Permit:System:Locked:

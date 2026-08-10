@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       81c8f117-d5c4-47d1-a139-0d47b0549076
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Dassareti
 :END:
 #+title: Dassareti
 #+filetags: :System:

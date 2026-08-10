@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       7d85f714-9307-46c7-898e-b991ab51c9ba
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Orna
 :END:
 #+title: Orna
 

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       7815976c-fd70-4496-9a17-23d392a95014
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Wolf+1301
 :END:
 #+title: Wolf 1301
 #+filetags: :System:

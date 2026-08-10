@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       3e0f2d75-e43d-48f5-bc74-70068bfd9a95
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Siris
 :END:
 #+title: Siris
 #+filetags: :System:
-

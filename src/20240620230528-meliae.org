@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       aa33caca-c071-4708-bb06-98fa8557e01d
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Meliae
 :END:
 #+title: Meliae
 #+filetags: :System:

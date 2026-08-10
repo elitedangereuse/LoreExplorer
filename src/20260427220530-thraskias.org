@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       f34d7bdc-c601-419a-8d02-8f82e7071d60
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Thraskias
 :END:
 #+title: Thraskias
 #+filetags: :System:

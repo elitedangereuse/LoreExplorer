@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       eb11ab9d-aab7-4d9b-aeaf-a228ef33d4da
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Alcor
 :END:
 #+title: Alcor
 #+filetags: :System:
-

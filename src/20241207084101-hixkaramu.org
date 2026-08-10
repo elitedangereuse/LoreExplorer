@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       8438458c-148f-468d-b994-8f5c5d155a3d
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Hixkaramu
 :END:
 #+title: Hixkaramu
 #+filetags: :System:
-

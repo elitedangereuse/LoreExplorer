@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       1e57d524-9270-4ccd-8a37-28a56367d76b
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=18+Camelopardalis
 :END:
 #+title: 18 Camelopardalis
 #+filetags: :System:

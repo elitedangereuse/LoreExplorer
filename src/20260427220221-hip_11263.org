@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       fc7ec729-0571-497e-87ab-9dd788675cb9
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=HIP+11263
 :END:
 #+title: HIP 11263
 #+filetags: :System:

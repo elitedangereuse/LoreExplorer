@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       70fa34ea-bc98-40ff-97f0-e4f4538387a6
-:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Merope
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Merope https://edgis.elitedangereuse.fr/static/sysmap.html?system=Merope
 :END:
 #+title: Merope
 #+filetags: :System:

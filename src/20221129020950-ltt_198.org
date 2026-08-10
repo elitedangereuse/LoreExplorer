@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       843517ac-e27b-46a3-84ff-700f94a0ba67
-:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/LTT_198
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/LTT_198 https://edgis.elitedangereuse.fr/static/sysmap.html?system=LTT+198
 :END:
 #+title: LTT 198
 #+filetags: :Permit:System:

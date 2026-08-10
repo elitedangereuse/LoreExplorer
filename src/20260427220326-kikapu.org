@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       b1b4bdf1-48ea-48fb-8f8c-05dc77f685e0
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Kikapu
 :END:
 #+title: Kikapu
 #+filetags: :System:

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       fb62cb94-7aa7-4dae-a18c-c653e2fa73de
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Gally+Bese
 :END:
 #+title: Gally Bese
 #+filetags: :System:
@@ -9,4 +10,3 @@
 Gally Bese received
 [[id:f53ae23e-cfbb-45d2-8ad9-e2532e12bf78][Nagata Vision]] through the 3306
 starport-conversion initiative.
-

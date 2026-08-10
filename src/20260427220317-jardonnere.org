@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       64dca1e9-82ce-41c3-a9ce-be8ce7848b40
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Jardonnere
 :END:
 #+title: Jardonnere
 #+filetags: :System:

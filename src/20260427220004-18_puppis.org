@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       75cd2e7c-40c4-42cb-8bda-26b02e2ae211
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=18+Puppis
 :END:
 #+title: 18 Puppis
 #+filetags: :System:

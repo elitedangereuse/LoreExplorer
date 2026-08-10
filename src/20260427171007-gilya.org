@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       09c5d0b8-f01e-446f-9be8-cec059e00cce
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Gilya
 :END:
 #+title: Gilya
 #+filetags: :System:

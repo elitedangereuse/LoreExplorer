@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       acad8f30-08ee-4ab1-a95a-dc196502550c
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Tauni
 :END:
 #+title: Tauni
 #+filetags: :System:

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       48e6169f-7078-4a26-a8e8-e2e688238e55
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Heike
 :END:
 #+title: Heike
 #+filetags: :System:

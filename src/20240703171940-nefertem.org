@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       c10cdc5b-aafe-4233-9191-baea2e058697
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Nefertem
 :END:
 #+title: Nefertem
 #+filetags: :System:
-

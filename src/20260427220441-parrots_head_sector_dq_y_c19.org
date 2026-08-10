@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       ccf0cfbe-7e16-4150-b9b9-75d934177417
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Parrot%27s+Head+Sector+DQ-Y+C19
 :END:
 #+title: Parrot's Head Sector DQ-Y C19
 #+filetags: :System:

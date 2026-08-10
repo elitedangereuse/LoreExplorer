@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       f6b945b6-1541-4754-a217-00c7d782f9ee
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=NSV+3128
 :END:
 #+title: NSV 3128
 

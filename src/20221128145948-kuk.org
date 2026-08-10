@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       d4f2b36b-70c4-4943-b901-496229734121
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Kuk
 :END:
 #+title: Kuk
 #+filetags: :System:
-

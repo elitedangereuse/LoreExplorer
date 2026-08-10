@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       65ec1f32-a0b2-4818-8cf4-c9fdd6c6afeb
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=34+Omicron+Cephei
 :END:
 #+title: 34 Omicron Cephei
 #+filetags: :System:

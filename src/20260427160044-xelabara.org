@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       8ef8f119-116b-4f07-924f-b51838b0d3b1
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Xelabara
 :END:
 #+title: Xelabara
 #+filetags: :System:

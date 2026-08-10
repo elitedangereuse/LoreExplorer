@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       43fc3b33-8928-48f1-be55-165e53b3b105
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Synuefe+EN-H+d11-96
 :END:
 #+title: Synuefe EN-H d11-96
 #+filetags: :System:

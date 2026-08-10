@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       3428b6d6-e9e6-40fc-9a6d-22eef6f08a45
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Traikoa+FL-P+E5-4
 :END:
 #+title: Traikoa FL-P E5-4
 #+filetags: :System:

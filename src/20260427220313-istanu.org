@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       4e8dc07b-c689-4eab-9005-177b869eaefd
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Istanu
 :END:
 #+title: Istanu
 #+filetags: :System:

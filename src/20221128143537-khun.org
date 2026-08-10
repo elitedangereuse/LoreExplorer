@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       27afafa1-f476-4854-b1f8-fe0e14933646
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Khun
 :END:
 #+title: Khun
 #+filetags: :System:
-

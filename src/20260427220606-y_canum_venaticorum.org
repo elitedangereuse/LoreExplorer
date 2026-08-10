@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       5def66d8-0bc3-4857-964b-5288fb106972
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Y+Canum+Venaticorum
 :END:
 #+title: Y Canum Venaticorum
 #+filetags: :System:

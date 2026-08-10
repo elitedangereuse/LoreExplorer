@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       fc07b091-17fe-4d42-be4a-7c1020b7052d
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=California+Sector+JH-V+c2-12
 :END:
 #+title: California Sector JH-V c2-12
 #+filetags: :System:
@@ -7,4 +8,3 @@
 California Sector JH-V c2-12 was reported as the site of planned
 Alliance scientific and extraction expansion in the
 [[id:6fee136e-381f-47a2-ba13-6d74c8798803][California Nebula]].
-

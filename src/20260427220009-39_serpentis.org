@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       89345301-71a2-4ae4-84c8-6ea85f6e70a4
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=39+Serpentis
 :END:
 #+title: 39 Serpentis
 #+filetags: :System:

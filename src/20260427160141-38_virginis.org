@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       421e1c3e-156e-490a-a048-34e3fe694c19
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=38+Virginis
 :END:
 #+title: 38 Virginis
 #+filetags: :System:

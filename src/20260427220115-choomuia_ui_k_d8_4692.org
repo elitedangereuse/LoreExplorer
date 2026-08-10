@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       17ed0f9d-2075-43e6-ae9a-1b81832827a1
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Choomuia+UI-K+D8-4692
 :END:
 #+title: Choomuia UI-K D8-4692
 #+filetags: :System:

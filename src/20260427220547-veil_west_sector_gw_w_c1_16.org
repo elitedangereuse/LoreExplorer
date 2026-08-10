@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       561207d1-b339-4e7e-9014-b35a32ecab04
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Veil+West+Sector+GW-W+C1-16
 :END:
 #+title: Veil West Sector GW-W C1-16
 #+filetags: :System:

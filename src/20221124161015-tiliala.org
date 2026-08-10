@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       35ef7825-95ca-418d-9cc2-9e7934b351c9
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Tiliala
 :END:
 #+title: Tiliala
 #+filetags: :Reputation:System:Permit:

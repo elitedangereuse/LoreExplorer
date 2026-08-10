@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       9c78e040-d2f0-4c22-a771-961afa7c64f7
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Kinago
 :END:
 #+title: Kinago
 #+filetags: :System:

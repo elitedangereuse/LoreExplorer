@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       db34b758-4c1c-4226-8e81-8d383fa3e8d7
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Jaradharre
 :END:
 #+title: Jaradharre
 #+filetags: :System:

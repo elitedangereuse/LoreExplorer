@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       5292d8c1-fa6e-4352-a03f-ef984f706203
-:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Reorte
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Reorte https://edgis.elitedangereuse.fr/static/sysmap.html?system=Reorte
 :END:
 #+title: Reorte
 #+filetags: :System:

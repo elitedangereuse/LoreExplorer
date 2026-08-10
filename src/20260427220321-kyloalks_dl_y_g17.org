@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       77cc95cc-e1d8-438e-8865-1066dbb192bd
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=KYLOALKS+DL-Y+G17
 :END:
 #+title: KYLOALKS DL-Y G17
 #+filetags: :System:

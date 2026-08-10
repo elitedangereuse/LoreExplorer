@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       afc58615-aa93-4f8c-8422-fd9a60ba94b6
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Njangari
 :END:
 #+title: Njangari
 #+filetags: :System:

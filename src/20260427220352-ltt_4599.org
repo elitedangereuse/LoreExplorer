@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       0a09a3af-3f40-48cb-8254-1248a8b42060
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=LTT+4599
 :END:
 #+title: LTT 4599
 #+filetags: :System:

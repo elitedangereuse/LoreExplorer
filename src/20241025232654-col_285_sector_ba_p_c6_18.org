@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       32ec7520-f039-43f6-b66b-ed6f57ec9b89
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Col+285+Sector+BA-P+c6-18
 :END:
 #+title: Col 285 Sector BA-P c6-18
 #+filetags: :System:
-

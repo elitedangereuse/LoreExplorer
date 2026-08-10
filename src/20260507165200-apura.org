@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       08b61168-83c6-4ef7-a9fc-9d6ccdbf9a3a
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Apura
 :END:
 #+title: Apura
 #+filetags: :System:

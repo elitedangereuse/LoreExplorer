@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       e44531b6-547a-4669-9ced-a0f995346bed
-:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Mikunn
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Mikunn https://edgis.elitedangereuse.fr/static/sysmap.html?system=Mikunn
 :END:
 #+title: Mikunn
 #+filetags: :System:

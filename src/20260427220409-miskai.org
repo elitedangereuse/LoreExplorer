@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       ded0618f-8d5a-41a9-acd1-e8760a995230
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Miskai
 :END:
 #+title: Miskai
 #+filetags: :System:

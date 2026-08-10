@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       35fe6a51-9492-44a7-9dc5-4a5395ae732f
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Stuemeae+FG-Y+d7561
 :END:
 #+title: Stuemeae FG-Y d7561
 #+filetags: :System:
-

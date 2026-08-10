@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       ba5b223e-8eec-4487-9582-e8e67e556604
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Cheae+Euq+ER-L+c21-0
 :END:
 #+title: Cheae Euq ER-L c21-0
 #+filetags: :System:

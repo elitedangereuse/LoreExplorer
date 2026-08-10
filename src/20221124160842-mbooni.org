@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       a5427e6e-e2f5-4c09-b595-97bbc14894ee
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Mbooni
 :END:
 #+title: Mbooni
 #+filetags: :Reputation:System:Permit:

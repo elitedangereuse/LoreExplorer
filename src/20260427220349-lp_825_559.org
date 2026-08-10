@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       6b099646-b134-4cb4-a549-09b1d2a11c6d
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=LP+825-559
 :END:
 #+title: LP 825-559
 #+filetags: :System:

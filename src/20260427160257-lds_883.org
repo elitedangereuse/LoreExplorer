@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       a0b96dfb-d301-4b19-a401-26e0b53450d2
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=LDS+883
 :END:
 #+title: LDS 883
 #+filetags: :System:

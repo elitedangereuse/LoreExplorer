@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       3191200d-c04a-4932-be06-990ad826bee1
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Caleta
 :END:
 #+title: Caleta
 #+filetags: :System:

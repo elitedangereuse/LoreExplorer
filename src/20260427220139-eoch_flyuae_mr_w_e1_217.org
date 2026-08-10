@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       5ce07d65-7f09-4e12-bfa5-746787c3b0b5
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Eoch+Flyuae+MR-W+E1-217
 :END:
 #+title: Eoch Flyuae MR-W E1-217
 #+filetags: :System:

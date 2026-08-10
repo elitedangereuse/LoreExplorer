@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       a8d94f5a-1946-46e2-8755-9508d270886f
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Hofada
 :END:
 #+title: Hofada
 #+filetags: :System:

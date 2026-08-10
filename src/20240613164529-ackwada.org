@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       77a7a843-4242-4da8-a764-c1525e6ceefe
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Ackwada
 :END:
 #+title: Ackwada
 #+filetags: :System:

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       691bf5bf-06fe-4bd1-8f8c-9c47c293528c
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=CD-61+1439
 :END:
 #+title: CD-61 1439
 #+filetags: :System:

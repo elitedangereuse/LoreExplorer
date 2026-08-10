@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       ac80dfeb-9389-4baa-b508-1ae2e4afdd0f
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Zeessze
 :END:
 #+title: Zeessze
 #+filetags: :System:

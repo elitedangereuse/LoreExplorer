@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       1ceadac1-7178-432e-8eb2-c65998133960
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Col+285+Sector+VU-M+c8-1
 :END:
 #+title: Col 285 Sector VU-M c8-1
 #+filetags: :System:

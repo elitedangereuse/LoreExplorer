@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       f8a6996d-921e-430a-84d0-9c819ff4c5ff
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Geawen
 :END:
 #+title: Geawen
 #+filetags: :System:

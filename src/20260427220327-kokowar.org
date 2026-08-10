@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       ac0463e2-0862-40d1-ad0d-886e6bcf22a8
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Kokowar
 :END:
 #+title: Kokowar
 #+filetags: :System:

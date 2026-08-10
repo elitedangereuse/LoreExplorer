@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       52da4826-1be5-4ee5-8e98-f6be683d7ca7
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Zvoruna
 :END:
 #+title: Zvoruna
 #+filetags: :System:

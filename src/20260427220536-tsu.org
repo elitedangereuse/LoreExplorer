@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       4e04c739-9af1-449f-8a8b-c2d254aecf55
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Tsu
 :END:
 #+title: Tsu
 #+filetags: :System:

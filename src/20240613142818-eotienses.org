@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       9fa174ce-7273-40ba-a0e6-1225bcda40b6
-:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Eotienses
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Eotienses https://edgis.elitedangereuse.fr/static/sysmap.html?system=Eotienses
 :END:
 #+title: Eotienses
 #+filetags: :System:

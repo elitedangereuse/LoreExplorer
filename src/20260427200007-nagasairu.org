@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       443b4ffb-1082-4c42-8766-c9450ab8c3c5
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Nagasairu
 :END:
 #+title: Nagasairu
 #+filetags: :System:
@@ -8,4 +9,3 @@
 
 Nagasairu was the base for the 3306 Coriolis starport-conversion
 campaign led by [[id:a0de9a01-d94e-43bd-8bd4-4c607c6c21e0][Steel Castle Inc]].
-

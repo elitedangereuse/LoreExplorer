@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       ddc2b56c-e2dc-4782-8c5b-6df2bc664757
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=HR+1597
 :END:
 #+title: HR 1597
 #+filetags: :System:

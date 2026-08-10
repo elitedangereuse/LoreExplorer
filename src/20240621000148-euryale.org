@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       6cf2c98a-fa94-4982-a055-6bb2a507921c
-:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Euryale
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Euryale https://edgis.elitedangereuse.fr/static/sysmap.html?system=Euryale
 :END:
 #+title: Euryale
 #+filetags: :System:

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       0e048b32-60d7-46d6-a686-d421b1aa97b7
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=LAWD+26
 :END:
 #+title: LAWD 26
 #+filetags: :System:

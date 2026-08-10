@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       5325c8f5-1988-420f-88b8-b82c7f29456b
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=LFT+601
 :END:
 #+title: LFT 601
 #+filetags: :System:

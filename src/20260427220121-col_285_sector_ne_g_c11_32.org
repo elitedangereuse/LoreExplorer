@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       7c7933be-38eb-4bf7-a7ef-8cf68d5aae16
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Col+285+Sector+NE-G+C11-32
 :END:
 #+title: Col 285 Sector NE-G C11-32
 #+filetags: :System:

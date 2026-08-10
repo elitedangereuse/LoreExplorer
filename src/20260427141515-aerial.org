@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       20e0bd61-00d4-4492-a53c-44e7ffc054e0
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Aerial
 :END:
 #+title: Aerial
 #+filetags: :System:

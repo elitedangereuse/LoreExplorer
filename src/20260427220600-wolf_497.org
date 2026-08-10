@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       486877ca-b394-47d0-a0d1-eab4647844f6
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Wolf+497
 :END:
 #+title: Wolf 497
 #+filetags: :System:

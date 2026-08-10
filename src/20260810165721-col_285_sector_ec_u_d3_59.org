@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       cc12380d-420f-4b8a-a003-9159201e7d0e
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Col+285+Sector+EC-U+d3-59
 :END:
 #+title: Col 285 Sector EC-U d3-59
 #+filetags: :ListeningPost:System:

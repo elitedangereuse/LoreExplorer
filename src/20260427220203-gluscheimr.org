@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       049a4615-acdf-4690-bc34-763d19230aea
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Gluscheimr
 :END:
 #+title: Gluscheimr
 #+filetags: :System:

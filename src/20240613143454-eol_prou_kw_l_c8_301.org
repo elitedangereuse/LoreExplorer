@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       3956310b-9a4e-44e4-b293-e8c7d273c664
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Eol+Prou+KW-L+c8-301
 :END:
 #+title: Eol Prou KW-L c8-301
 #+filetags: :System:
-

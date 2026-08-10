@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       d766cd00-a475-4e5e-b2be-216148dcfa5d
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Voqooe+JC-K+D9-95
 :END:
 #+title: Voqooe JC-K D9-95
 #+filetags: :System:

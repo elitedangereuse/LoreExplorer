@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       cd4e8fa9-166e-4d54-a44a-61907b1bf368
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Ejagham
 :END:
 #+title: Ejagham
 #+filetags: :System:

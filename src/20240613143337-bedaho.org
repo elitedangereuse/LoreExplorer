@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       4ee2a5f7-7b84-4261-aeb9-ebcddc41ad7c
-:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Bedaho
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Bedaho https://edgis.elitedangereuse.fr/static/sysmap.html?system=Bedaho
 :END:
 #+title: Bedaho
 #+filetags: :System:

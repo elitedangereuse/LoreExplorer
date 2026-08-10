@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       1533c003-108d-4495-b399-5f9dafcbd562
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=CN+Bootis
 :END:
 #+title: CN Bootis
 #+filetags: :System:

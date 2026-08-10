@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       2de1afc0-4c9d-4e31-bc15-ba9961087ddd
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Latugara
 :END:
 #+title: Latugara
 #+filetags: :System:
-

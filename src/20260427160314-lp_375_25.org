@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       37bd5518-9ee4-4192-aa05-200b9970e650
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=LP+375-25
 :END:
 #+title: LP 375-25
 #+filetags: :System:

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       9e030191-aec4-472a-9c91-d7ecb57f6703
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Smethells+173
 :END:
 #+title: Smethells 173
 #+filetags: :System:

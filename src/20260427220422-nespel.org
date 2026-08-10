@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       f325634b-50bf-494e-b255-f93cabb78b1c
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Nespel
 :END:
 #+title: Nespel
 #+filetags: :System:

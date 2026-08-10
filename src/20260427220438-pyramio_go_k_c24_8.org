@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       74019885-c98a-47ed-b597-134725593dee
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=PYRAMIO+GO-K+C24-8
 :END:
 #+title: PYRAMIO GO-K C24-8
 #+filetags: :System:

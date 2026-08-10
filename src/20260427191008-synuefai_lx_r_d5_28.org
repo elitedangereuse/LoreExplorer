@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       a77e0244-1410-4740-907a-c49f0b8f083f
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Synuefai+LX-R+d5-28
 :END:
 #+title: Synuefai LX-R d5-28
 #+filetags: :System:

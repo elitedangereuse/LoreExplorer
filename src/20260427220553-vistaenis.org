@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       9d017590-3b88-41d4-be50-c15545e9de02
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Vistaenis
 :END:
 #+title: Vistaenis
 #+filetags: :System:

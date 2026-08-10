@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       f527d32f-003e-4cc0-bf63-2f22aecd0d4d
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Olgrea
 :END:
 #+title: Olgrea
 #+filetags: :System:Tourist:History:beacon:Alliance:Federation:

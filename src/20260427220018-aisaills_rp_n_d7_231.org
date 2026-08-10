@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       0c0f1f38-b56c-45c2-bf6c-7e217e1e3b0c
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Aisaills+RP-N+D7-231
 :END:
 #+title: Aisaills RP-N D7-231
 #+filetags: :System:

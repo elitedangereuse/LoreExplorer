@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       5fddf317-26ea-40ba-af38-86c29b47d533
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=BLAE+EAEC+PM-W+E1-205
 :END:
 #+title: BLAE EAEC PM-W E1-205
 #+filetags: :System:

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       95e35a89-96f8-4e4a-aa0c-776e8164b3f4
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Ngbatobii
 :END:
 #+title: Ngbatobii
 #+filetags: :System:

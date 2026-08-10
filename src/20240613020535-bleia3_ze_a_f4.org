@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       a09945a2-d251-4563-8255-19628867d10e
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Bleia3+ZE-A+f4
 :END:
 #+title: Bleia3 ZE-A f4
 

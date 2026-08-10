@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       35900507-bc1d-4030-a8ee-39b439bba2ed
-:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Canopus
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Canopus https://edgis.elitedangereuse.fr/static/sysmap.html?system=Canopus
 :END:
 #+title: Canopus
 #+filetags: :System:

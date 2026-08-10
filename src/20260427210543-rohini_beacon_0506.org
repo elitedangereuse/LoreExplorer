@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       33e95a65-9dcc-46b3-9de6-6dd16e0e6e9c
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Rohini
 :END:
 #+title: Rohini
 #+filetags: :System:Tourist:beacon:

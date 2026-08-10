@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       61687e51-580b-43d7-993e-0dd100f82804
-:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Quince
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Quince https://edgis.elitedangereuse.fr/static/sysmap.html?system=Quince
 :END:
 #+title: Quince
 #+filetags: :System:

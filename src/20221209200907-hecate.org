@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       b3da0f0d-5c36-4fa0-8678-8c5ded220d61
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Hecate
 :END:
 #+title: Hecate
 #+filetags: :System:

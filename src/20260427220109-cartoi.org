@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       69c76cdc-f1e2-4399-96ce-4e050d4d425e
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Cartoi
 :END:
 #+title: Cartoi
 #+filetags: :System:

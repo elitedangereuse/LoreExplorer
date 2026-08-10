@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       b21e7cf9-145c-4546-8305-8dc866024f3c
 :ROAM_ALIASES: "23 Theta Bootis"
-:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Asellus_Primus
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Asellus_Primus https://edgis.elitedangereuse.fr/static/sysmap.html?system=Asellus+Primus
 :END:
 #+title: Asellus Primus
 #+filetags: :System:

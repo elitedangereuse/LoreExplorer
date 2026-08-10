@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       0d9b9e2e-df60-4958-9ad9-1f84adc07c5a
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Mukusubii
 :END:
 #+title: Mukusubii
 #+filetags: :System:

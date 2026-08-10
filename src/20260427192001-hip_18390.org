@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       e8341944-ebda-4a16-9ad2-0b6e9405d8b7
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=HIP+18390
 :END:
 #+title: HIP 18390
 #+filetags: :System:

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       a92ad24c-625e-4024-9e5a-542b56780383
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=HR+6164
 :END:
 #+title: HR 6164
 #+filetags: :System:

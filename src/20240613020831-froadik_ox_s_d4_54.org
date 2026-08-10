@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       7f4a8747-4fc9-487c-80e9-61257eeb6b5b
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Froadik+OX-S+d4-54
 :END:
 #+title: Froadik OX-S d4-54
 

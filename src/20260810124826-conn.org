@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       52ce1ef8-7242-47fe-9735-68237061cb03
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Conn
 :END:
 #+title: Conn
 #+filetags: :System:

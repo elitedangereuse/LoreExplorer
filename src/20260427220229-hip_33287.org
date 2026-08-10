@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       fb1e0f91-1bca-4e93-a9c5-1249b637a011
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=HIP+33287
 :END:
 #+title: HIP 33287
 #+filetags: :System:

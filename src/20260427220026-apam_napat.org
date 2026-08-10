@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       d777668c-0ff3-473d-ba4a-f9a1deb79737
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Apam+Napat
 :END:
 #+title: Apam Napat
 #+filetags: :System:

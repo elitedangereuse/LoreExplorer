@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       7357e9ae-dc1a-41eb-a371-cb6fbeb2cf35
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=CD-33+8748
 :END:
 #+title: CD-33 8748
 #+filetags: :System:

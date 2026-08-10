@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       5fd7652a-e258-4537-9ee9-4f38bfbbfcc6
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Miromi
 :END:
 #+title: Miromi
 #+filetags: :System:

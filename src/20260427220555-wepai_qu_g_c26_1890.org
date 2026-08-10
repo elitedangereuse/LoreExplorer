@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       5412f20e-e1b1-4044-ab4c-c9b37dd55d3b
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=WEPAI+QU-G+C26-1890
 :END:
 #+title: WEPAI QU-G C26-1890
 #+filetags: :System:

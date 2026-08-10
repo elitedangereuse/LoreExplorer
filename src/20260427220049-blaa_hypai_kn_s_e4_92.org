@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       cd1c6cee-8ff7-4440-91e7-6d5cec7059c5
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Blaa+Hypai+KN-S+E4-92
 :END:
 #+title: Blaa Hypai KN-S E4-92
 #+filetags: :System:

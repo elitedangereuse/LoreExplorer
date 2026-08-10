@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       12db1b22-8d5c-482f-a91b-00021258a388
-:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Vega
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Vega https://edgis.elitedangereuse.fr/static/sysmap.html?system=Vega
 :END:
 #+title: Vega
 #+filetags: :Federation:Rank:System:Permit:

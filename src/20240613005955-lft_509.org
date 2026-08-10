@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       7713183f-9efe-48e7-8c2d-f5000ed82101
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=LFT+509
 :END:
 #+title: LFT 509
 #+filetags: :Federation:Rank:Permit:System:

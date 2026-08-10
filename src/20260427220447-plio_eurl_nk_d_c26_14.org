@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       976c987b-6a46-4f9f-902e-73eb2a3437f5
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Plio+Eurl+NK-D+c26-14
 :END:
 #+title: Plio Eurl NK-D c26-14
 #+filetags: :System:

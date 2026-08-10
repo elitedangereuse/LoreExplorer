@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       71449d69-09e8-4683-b508-e6383b9f92be
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=HIP+80243
 :END:
 #+title: HIP 80243
 #+filetags: :System:

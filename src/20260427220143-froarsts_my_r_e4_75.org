@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       6b33c2c9-ada6-423c-a1ab-372906e9be56
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=FROARSTS+MY-R+E4-75
 :END:
 #+title: FROARSTS MY-R E4-75
 #+filetags: :System:

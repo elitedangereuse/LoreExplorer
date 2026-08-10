@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       717039fc-5639-4d30-a0fb-b374dcef1a8b
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=V380+Orionis
 :END:
 #+title: V380 Orionis
 #+filetags: :System:

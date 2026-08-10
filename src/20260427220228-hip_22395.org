@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       cc6ec891-3136-41c7-9876-da787c832a79
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=HIP+22395
 :END:
 #+title: HIP 22395
 #+filetags: :System:

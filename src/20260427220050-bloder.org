@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       d4afe93d-a892-4f1a-8ca0-7e5d55206a8c
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Bloder
 :END:
 #+title: Bloder
 #+filetags: :System:

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       416ea729-8244-4ebe-80e4-e96cdbfbbd86
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=LHS+3781
 :END:
 #+title: LHS 3781
 #+filetags: :System:

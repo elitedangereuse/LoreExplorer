@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       be135070-8034-4468-a3a4-27973ff9da34
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Yalura
 :END:
 #+title: Yalura
 #+filetags: :System:

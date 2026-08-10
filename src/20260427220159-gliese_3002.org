@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       6be7dd8c-5597-4a89-8fd0-6406b6d2d4d6
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Gliese+3002
 :END:
 #+title: Gliese 3002
 #+filetags: :System:

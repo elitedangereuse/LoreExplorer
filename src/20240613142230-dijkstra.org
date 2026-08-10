@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       292ba81d-9b8a-4146-bb41-59930893d01a
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Dijkstra
 :END:
 #+title: Dijkstra
 #+filetags: :System:
-

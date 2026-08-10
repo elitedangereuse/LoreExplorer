@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       1e1afcbb-15d7-430e-b057-91843a93f981
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=CD-44+1695
 :END:
 #+title: CD-44 1695
 #+filetags: :Federation:Rank:Permit:System:

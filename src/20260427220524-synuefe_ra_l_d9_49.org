@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       0039ebdf-5ab2-4f82-9956-9a6e833ac2a6
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Synuefe+RA-L+d9-49
 :END:
 #+title: Synuefe RA-L d9-49
 #+filetags: :System:

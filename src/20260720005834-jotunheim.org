@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       e34a4215-b545-4987-aedc-99d5fea6a006
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Jotunheim
 :END:
 #+title: Jotunheim
 #+filetags: :System:

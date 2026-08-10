@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       22050854-65c7-4958-bd8f-e2160a548b92
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=GCRV+3204
 :END:
 #+title: GCRV 3204
 #+filetags: :System:

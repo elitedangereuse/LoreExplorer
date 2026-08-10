@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       7d8e43f2-8fd0-4801-ac2a-62f364dda2cb
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Bunuson
 :END:
 #+title: Bunuson
 #+filetags: :System:

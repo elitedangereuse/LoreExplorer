@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       ba2bee0a-527d-4867-8f23-ef72ec6e02c2
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Dryoea+Pra+HR-W+F1-593
 :END:
 #+title: Dryoea Pra HR-W F1-593
 #+filetags: :System:

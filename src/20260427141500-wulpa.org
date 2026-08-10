@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       5fe633c8-3bc0-4739-a60a-f9eb5d8b15ab
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Wulpa
 :END:
 #+title: Wulpa
 #+filetags: :System:

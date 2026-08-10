@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       34b63905-e16f-419c-bde4-984b7b5b8204
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=HD+148937
 :END:
 #+title: HD 148937
 #+filetags: :System:

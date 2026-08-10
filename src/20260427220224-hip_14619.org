@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       ad51dc0e-b263-4032-898b-86d8ae2247bc
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=HIP+14619
 :END:
 #+title: HIP 14619
 #+filetags: :System:

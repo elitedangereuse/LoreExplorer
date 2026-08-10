@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       9b68a575-95d4-4edd-a282-0f45c1efb820
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=BD%2B74+526
 :END:
 #+title: BD+74 526
 #+filetags: :System:

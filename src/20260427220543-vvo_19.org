@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       1d17edc6-3828-4cee-8624-15e1ba4a98a8
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=VVO+19
 :END:
 #+title: VVO 19
 #+filetags: :System:

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       bb84e100-cdad-4e4f-8e08-02974d97544d
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Korro+Kung
 :END:
 #+title: Korro Kung
 #+filetags: :System:

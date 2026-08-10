@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       87114875-7bb2-43a3-96dd-5730a44362ae
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Belalans
 :END:
 #+title: Belalans
 #+filetags: :System:

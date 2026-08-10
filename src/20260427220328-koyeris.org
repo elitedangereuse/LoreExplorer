@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       88437f1c-792e-428a-80c1-ec8b86f11bc3
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Koyeris
 :END:
 #+title: Koyeris
 #+filetags: :System:

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       175434c4-4a17-4ad1-8a95-f4bb8c54214a
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Bleia5+AV-Y+e551
 :END:
 #+title: Bleia5 AV-Y e551
 

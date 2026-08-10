@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       9d3bce6e-2bfe-453b-8c78-d5cad997d999
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Zenus
 :END:
 #+title: Zenus
 #+filetags: :System:

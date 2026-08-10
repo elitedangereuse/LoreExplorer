@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       d3a0a0f0-3068-4dba-93d0-9e052490bde9
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Clayakarma
 :END:
 #+title: Clayakarma
 #+filetags: :System:

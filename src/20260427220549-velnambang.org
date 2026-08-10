@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       74d000bd-e48e-48c5-97a9-bc34b1b8c72d
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Velnambang
 :END:
 #+title: Velnambang
 #+filetags: :System:

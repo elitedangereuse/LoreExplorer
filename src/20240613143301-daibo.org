@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a1924eb2-1f4d-4a20-9249-3891bd420b7a
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Daibo
 :END:
 #+title: Daibo
 #+filetags: :System:
-

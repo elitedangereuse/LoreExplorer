@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       0f5e989e-4bb9-4aeb-be57-9e965c66a60c
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Eactaify+ES-B+D13-3
 :END:
 #+title: Eactaify ES-B D13-3
 #+filetags: :System:

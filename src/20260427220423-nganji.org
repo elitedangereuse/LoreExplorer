@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       7add3518-a625-4de5-a12a-e115da9f268d
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Nganji
 :END:
 #+title: Nganji
 #+filetags: :System:

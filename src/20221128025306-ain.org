@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       d114c07a-da76-4bcd-a3c5-152e2a08e528
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Ain
 :END:
 #+title: Ain
 #+filetags: :UnregisteredCommsBeacons:System:

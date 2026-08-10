@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       01ac502b-e6f9-4d5f-8822-83ec35559294
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Tpheirset
 :END:
 #+title: Tpheirset
 #+filetags: :System:

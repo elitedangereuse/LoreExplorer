@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       77f6018d-79f1-4561-a607-39476d33670e
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Flyai+Gruia+RN-K+c11-7
 :END:
 #+title: Flyai Gruia RN-K c11-7
 #+filetags: :System:

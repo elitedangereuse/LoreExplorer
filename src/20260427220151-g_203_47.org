@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       10fba3cc-65ef-41e5-8af4-19ff9ef24777
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=G+203-47
 :END:
 #+title: G 203-47
 #+filetags: :System:

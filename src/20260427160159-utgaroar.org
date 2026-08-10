@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       579b9b19-fb16-494c-9f37-8ce2810df7eb
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Utgaroar
 :END:
 #+title: Utgaroar
 #+filetags: :System:

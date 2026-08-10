@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       756fb621-66c7-4a09-b658-5cd77e7601b4
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Ethgreze
 :END:
 #+title: Ethgreze
 #+filetags: :System:

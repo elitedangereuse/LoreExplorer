@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       ca9e3a47-cd31-4ece-b50d-a5cfdef57ea0
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=NLTT+46621
 :END:
 #+title: NLTT 46621
 #+filetags: :System:

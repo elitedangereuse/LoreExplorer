@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       9368cc59-3e4d-4693-b5a7-e28b72c03da7
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Anduliga
 :END:
 #+title: Anduliga
 #+filetags: :System:

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       6559bb6d-5d0b-41da-963e-d3400f7a22e4
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Procyon
 :END:
 #+title: Procyon
 #+filetags: :System:

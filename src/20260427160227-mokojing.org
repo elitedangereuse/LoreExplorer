@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       fe122d7a-2474-4edd-bcc4-2024f46c6277
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Mokojing
 :END:
 #+title: Mokojing
 #+filetags: :System:

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       a1157490-748a-4056-b8b3-cc14166484c1
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Temba
 :END:
 #+title: Temba
 #+filetags: :System:

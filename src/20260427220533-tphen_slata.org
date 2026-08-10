@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       f76d2761-0bd1-41b2-b286-3931ebfca027
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Tphen+Slata
 :END:
 #+title: Tphen Slata
 #+filetags: :System:

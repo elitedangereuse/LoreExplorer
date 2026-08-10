@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       64dc2ba5-e6a1-4770-ac40-b188d597233c
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=hip+17403&body_id=7
 :END:
 #+title: HIP 17403 A4A
 #+filetags: :System:

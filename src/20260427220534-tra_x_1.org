@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       3b8593e4-0f1a-459b-8da7-74284a57ba05
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=TrA+X-1
 :END:
 #+title: TrA X-1
 #+filetags: :System:

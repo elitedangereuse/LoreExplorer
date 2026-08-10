@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       0f9c860b-a64b-491f-9363-2aca946ef5b6
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Greae+Dryoae+VM-F+b14-1
 :END:
 #+title: Greae Dryoae VM-F b14-1
 #+filetags: :System:

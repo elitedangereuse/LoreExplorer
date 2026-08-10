@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       9d7b13cf-b84c-480e-81a3-c6a0f9ee9792
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=LP+102-320
 :END:
 #+title: LP 102-320
 #+filetags: :System:

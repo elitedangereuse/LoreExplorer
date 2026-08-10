@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       b186a227-a79d-4cb0-9755-b506d2bf6622
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Baukoa+WX-O+C20-1519
 :END:
 #+title: Baukoa WX-O C20-1519
 #+filetags: :System:

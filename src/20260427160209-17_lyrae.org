@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       0a7c7a83-1e6e-445a-ae97-a7da62116f02
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=17+Lyrae
 :END:
 #+title: 17 Lyrae
 #+filetags: :System:

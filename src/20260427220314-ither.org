@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       bd92893f-3ece-472a-97ce-f56bfb543a9d
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Ither
 :END:
 #+title: Ither
 #+filetags: :System:

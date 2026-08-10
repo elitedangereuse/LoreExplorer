@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       b38c4ed0-3aaa-4a86-8acd-a241164d680f
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Novas
 :END:
 #+title: Novas
 #+filetags: :System:
-

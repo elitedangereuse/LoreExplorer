@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       671c9cf9-72a2-4eca-909d-419fa35c8970
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=STKM+1-1341
 :END:
 #+title: STKM 1-1341
 #+filetags: :System:

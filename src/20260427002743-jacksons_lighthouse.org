@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       ce356e04-fc18-48a8-8167-913a4e6ab00e
-:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Jackson's_Lighthouse
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Jackson's_Lighthouse https://edgis.elitedangereuse.fr/static/sysmap.html?system=Jackson%27s+Lighthouse
 :END:
 #+title: Jackson's Lighthouse
 #+filetags: :System:

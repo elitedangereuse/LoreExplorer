@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       23bedb5d-fbce-46f1-916a-5ed6e7146409
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Beditjari
 :END:
 #+title: Beditjari
 #+filetags: :System:

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       38937025-8378-424f-980e-67f1cf93aa69
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=HIP+95944
 :END:
 #+title: HIP 95944
 #+filetags: :System:

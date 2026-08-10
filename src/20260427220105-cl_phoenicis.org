@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       d5f60355-f22b-4680-bab9-ee0e613a2a3a
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=CL+Phoenicis
 :END:
 #+title: CL Phoenicis
 #+filetags: :System:

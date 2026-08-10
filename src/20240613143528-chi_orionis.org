@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       2a4e7539-b87c-4ce9-8012-b2690fa3b618
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Chi+Orionis
 :END:
 #+title: Chi Orionis
 #+filetags: :System:
-

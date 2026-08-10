@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       f31b17e4-bb04-4147-b795-f3072329cee7
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Ross+1057
 :END:
 #+title: Ross 1057
 #+filetags: :System:

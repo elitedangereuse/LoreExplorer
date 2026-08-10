@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       3c840745-956e-458e-90a9-4e1096425a0f
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Thrutis
 :END:
 #+title: Thrutis
 #+filetags: :System:

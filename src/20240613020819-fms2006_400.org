@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       a005cca9-981e-4fe8-ad6a-198e974da54d
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=FMS2006+400
 :END:
 #+title: FMS2006 400
 

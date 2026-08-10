@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       0f55dfa6-dc77-4f76-a34e-43d28b39ad90
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=BLUA+HYPUE+QI-Z+D1-4516
 :END:
 #+title: BLUA HYPUE QI-Z D1-4516
 #+filetags: :System:

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       f43b52e2-aaf6-4830-8498-6ebf7fa9f84d
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=IC+289+Sector+DL-Y+D17
 :END:
 #+title: IC 289 Sector DL-Y D17
 #+filetags: :System:

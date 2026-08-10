@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       1079ac33-c041-4b61-a4f1-06eb2cf793ff
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Otegine
 :END:
 #+title: Otegine
 

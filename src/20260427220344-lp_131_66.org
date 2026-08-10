@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       ed1aa7c1-77bd-43c0-b729-8dccea74a66e
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=LP+131-66
 :END:
 #+title: LP 131-66
 #+filetags: :System:

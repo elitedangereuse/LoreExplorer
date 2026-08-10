@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       38ded32e-9640-49d8-b9f9-60c3ff30eeef
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=NLTT+21088
 :END:
 #+title: NLTT 21088
 #+filetags: :System:

@@ -1,5 +1,6 @@
-%:PROPERTIES:
+:PROPERTIES:
 :ID:       d6a6dbed-c45d-4c9f-b41a-799e69dd1bbe
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Terra+Mater
 :END:
 #+title: Terra Mater
 #+filetags: :Reputation:System:Permit:

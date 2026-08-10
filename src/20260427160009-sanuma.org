@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       e287d9e5-f8ce-41a3-918a-42698aa7d871
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Sanuma
 :END:
 #+title: Sanuma
 #+filetags: :System:

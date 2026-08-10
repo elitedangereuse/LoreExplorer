@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       d5617f40-30d6-4605-aa9a-d6c8906cd416
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Borasetani
 :END:
 #+title: Borasetani
 #+filetags: :System:

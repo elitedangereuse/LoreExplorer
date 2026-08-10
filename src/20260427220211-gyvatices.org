@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       00c264cc-3e6a-4823-b20e-1e1beafb1ed6
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Gyvatices
 :END:
 #+title: Gyvatices
 #+filetags: :System:

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       3e30b52d-bff9-404c-86d1-814a4d259bd9
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Kharpulo
 :END:
 #+title: Kharpulo
 #+filetags: :System:

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       2b45941c-711b-4b24-b53d-0ba2af8af3bd
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Sharur
 :END:
 #+title: Sharur
 #+filetags: :System:Permit:

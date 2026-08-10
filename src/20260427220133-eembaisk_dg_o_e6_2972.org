@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       d88ad70b-939c-4833-94fe-f4cf0d52eb15
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=EEMBAISK+DG-O+E6-2972
 :END:
 #+title: EEMBAISK DG-O E6-2972
 #+filetags: :System:

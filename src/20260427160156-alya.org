@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       0aee88d5-d87b-4793-89e0-c9a7e4dbed51
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Alya
 :END:
 #+title: Alya
 #+filetags: :System:

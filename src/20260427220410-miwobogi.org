@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       6313562e-4aa0-4981-b079-af4475b6fe65
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Miwobogi
 :END:
 #+title: Miwobogi
 #+filetags: :System:

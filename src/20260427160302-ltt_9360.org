@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       99cc45a8-6c57-4155-b50f-2deb8383eb51
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=LTT+9360
 :END:
 #+title: LTT 9360
 #+filetags: :System:

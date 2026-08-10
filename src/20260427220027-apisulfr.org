@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       1fc0f31a-6caa-4b7e-b694-94ed372f694e
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Apisulfr
 :END:
 #+title: Apisulfr
 #+filetags: :System:

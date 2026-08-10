@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       b9d0f695-af2a-43e3-9b76-e0ecf7d5bd28
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Obambivas
 :END:
 #+title: Obambivas
 #+filetags: :System:

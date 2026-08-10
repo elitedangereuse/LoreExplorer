@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       a552f88a-c3be-4676-9c8a-e08958003839
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=17+Cygni
 :END:
 #+title: 17 Cygni
 #+filetags: :System:

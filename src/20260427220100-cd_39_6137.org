@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       82e5a99c-b2cd-444e-919f-81ae50af1825
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=CD-39+6137
 :END:
 #+title: CD-39 6137
 #+filetags: :System:

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       6393a57f-64e5-4be1-be69-cbb10862e5dd
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=V492+Lyrae
 :END:
 #+title: V492 Lyrae
 #+filetags: :System:

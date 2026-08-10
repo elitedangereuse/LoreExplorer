@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       3713134a-83b2-4225-a2cb-3cc63f421a58
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Kholhou
 :END:
 #+title: Kholhou
 #+filetags: :System:

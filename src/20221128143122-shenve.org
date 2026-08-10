@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       9eb04a19-52b5-4650-8d44-a5497225789e
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Shenve
 :END:
 #+title: Shenve
 #+filetags: :System:
-

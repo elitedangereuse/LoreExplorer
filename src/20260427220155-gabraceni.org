@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       96fb53c5-4908-4466-8292-f27c26be9567
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Gabraceni
 :END:
 #+title: Gabraceni
 #+filetags: :System:

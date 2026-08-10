@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       ea2fac41-61c6-415f-83bc-b587c73c02ac
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Makum
 :END:
 #+title: Makum
 #+filetags: :System:

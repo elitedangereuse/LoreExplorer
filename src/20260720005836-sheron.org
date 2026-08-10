@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       729cea6c-7c2e-4fb9-b1ac-bfb07c2df0e9
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Sheron
 :END:
 #+title: Sheron
 #+filetags: :System:

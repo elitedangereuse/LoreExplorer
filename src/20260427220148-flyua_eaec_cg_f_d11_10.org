@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       eac40044-960c-4e07-9197-8d6a0fa8d877
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Flyua+Eaec+CG-F+d11-10
 :END:
 #+title: Flyua Eaec CG-F d11-10
 #+filetags: :System:

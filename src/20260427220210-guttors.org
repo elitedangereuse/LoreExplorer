@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       edb1444e-bbc4-4ed7-bec4-9d034a5d5889
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Guttors
 :END:
 #+title: Guttors
 #+filetags: :System:

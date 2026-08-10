@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       2bbe1ae9-4356-49c6-87e7-539048c71b5c
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Oppidavasti
 :END:
 #+title: Oppidavasti
 #+filetags: :System:

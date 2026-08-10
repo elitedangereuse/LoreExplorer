@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       cf315c8c-f057-4b55-aac2-db40b3326bf0
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Daikulcandi
 :END:
 #+title: Daikulcandi
 #+filetags: :System:

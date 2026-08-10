@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       f751a9a1-ede7-4c54-9b7c-c58404a0e0d2
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=LHS+2405
 :END:
 #+title: LHS 2405
 #+filetags: :System:

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       b25ce664-fae7-485b-b5bf-f75c836d7172
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Siksikas
 :END:
 #+title: Siksikas
 #+filetags: :System:

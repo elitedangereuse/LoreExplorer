@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       d15fc8ec-7e9e-41c5-b75c-4c3ce89fd6c2
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=12+Trianguli
 :END:
 #+title: 12 Trianguli
 #+filetags: :System:

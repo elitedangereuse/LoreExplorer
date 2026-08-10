@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       403703df-4fa7-43b8-9161-98e710a40c1a
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Holva
 :END:
 #+title: Holva
 #+filetags: :System:

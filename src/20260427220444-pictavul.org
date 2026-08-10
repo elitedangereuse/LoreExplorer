@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       cc7105f6-e672-4af0-bb45-787f8c3ca210
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Pictavul
 :END:
 #+title: Pictavul
 #+filetags: :System:

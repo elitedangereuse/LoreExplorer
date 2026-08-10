@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       421fa2af-e1ea-4fb5-b545-7841801e9ed8
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=XEEHAEI+BE-E+D13-7
 :END:
 #+title: XEEHAEI BE-E D13-7
 #+filetags: :System:

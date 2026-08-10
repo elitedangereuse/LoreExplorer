@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       156a9f70-7bbc-4477-8604-ecce1eb30106
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Fawaol
 :END:
 #+title: Fawaol
 #+filetags: :System:
-

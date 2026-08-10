@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       9af7972f-92eb-48e0-ac95-ab7a39c0ffb8
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Zende
 :END:
 #+title: Zende
 #+filetags: :System:

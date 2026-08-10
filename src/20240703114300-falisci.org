@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       80569507-5192-4d10-a072-7ddc2b0e5bac
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Falisci
 :END:
 #+title: Falisci
 #+filetags: :System:
-

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       8081eda0-d00d-4560-acba-426296444465
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Coelatuvean
 :END:
 #+title: Coelatuvean
 #+filetags: :System:

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       dcf26964-3213-4cf6-87ea-85340360c6b2
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Hypoe+Bluae+VP-O+e6-8688
 :END:
 #+title: Hypoe Bluae VP-O e6-8688
 #+filetags: :System:
-

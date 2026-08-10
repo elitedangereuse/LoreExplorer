@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       8b05f189-7249-4950-afc4-eed73a8a68e1
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Bento
 :END:
 #+title: Bento
 #+filetags: :System:

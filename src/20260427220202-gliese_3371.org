@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       171495fd-c6f2-4c34-b569-8cf2d70c56f7
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Gliese+3371
 :END:
 #+title: Gliese 3371
 #+filetags: :System:

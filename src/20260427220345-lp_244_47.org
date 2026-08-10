@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       e627c711-9e5a-462e-889b-d6ae873cc380
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=LP+244-47
 :END:
 #+title: LP 244-47
 #+filetags: :System:

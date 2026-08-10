@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       5a007482-56ef-4f60-83e7-58b4089a0020
-:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Lugh
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Lugh https://edgis.elitedangereuse.fr/static/sysmap.html?system=Lugh
 :END:
 #+title: Lugh
 #+filetags: :System:

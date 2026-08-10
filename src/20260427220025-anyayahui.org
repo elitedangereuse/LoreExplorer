@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       b29d8532-df44-41ac-88a4-2609898607f5
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Anyayahui
 :END:
 #+title: Anyayahui
 #+filetags: :System:

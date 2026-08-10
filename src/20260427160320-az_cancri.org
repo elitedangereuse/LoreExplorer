@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       eff0be28-0f0a-448f-850a-98dcfe9522c1
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=AZ+Cancri
 :END:
 #+title: AZ Cancri
 #+filetags: :System:

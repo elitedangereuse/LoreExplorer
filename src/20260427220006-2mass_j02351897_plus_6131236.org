@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       ff3f28ea-67e5-4c3c-a1a0-48459b9de982
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=2MASS+J02351897%2B6131236
 :END:
 #+title: 2MASS J02351897+6131236
 #+filetags: :System:

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       0248cd9f-f21f-45df-8ede-0a751659af71
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=HIP+10332
 :END:
 #+title: HIP 10332
 #+filetags: :Permit:System:Locked:
 [[file:img/permit.png]]
-

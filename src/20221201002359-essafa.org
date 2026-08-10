@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       bb5887ea-0ed7-4410-9a7e-814107ea29eb
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Essafa
 :END:
 #+title: Essafa
 #+filetags: :System:

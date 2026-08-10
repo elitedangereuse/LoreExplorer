@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       4983f623-41ab-4914-b516-4f8752d07b53
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Esuseku
 :END:
 #+title: Esuseku
 #+filetags: :System:

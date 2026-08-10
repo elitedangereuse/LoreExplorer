@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       87d19c07-687e-4bf1-b53e-90231a285fd2
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=CD-58+4207
 :END:
 #+title: CD-58 4207
 #+filetags: :System:

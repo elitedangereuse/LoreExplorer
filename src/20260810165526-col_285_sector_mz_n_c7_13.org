@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       2fcc19a4-cada-4881-978f-5f3839dbac73
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Col+285+Sector+MZ-N+c7-13
 :END:
 #+title: Col 285 Sector MZ-N c7-13
 #+filetags: :System:

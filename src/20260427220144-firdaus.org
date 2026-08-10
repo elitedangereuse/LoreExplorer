@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       33d76ce7-98b7-4828-b305-93a82bd487b9
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Firdaus
 :END:
 #+title: Firdaus
 #+filetags: :System:

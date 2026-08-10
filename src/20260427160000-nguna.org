@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       550ac925-f70b-414d-b1fb-9daa7875225b
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Nguna
 :END:
 #+title: Nguna
 #+filetags: :System:

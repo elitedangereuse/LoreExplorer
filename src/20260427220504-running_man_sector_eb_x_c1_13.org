@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       e71c7d59-10b0-4c1e-a5e7-34fe19572201
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Running+Man+Sector+EB-X+c1-13
 :END:
 #+title: Running Man Sector EB-X c1-13
 #+filetags: :System:

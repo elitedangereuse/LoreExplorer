@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       360ae21e-63f2-43ba-a2fd-a47e5e49951e
-:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Cemiess
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Cemiess https://edgis.elitedangereuse.fr/static/sysmap.html?system=Cemiess
 :END:
 #+title: Cemiess
 #+filetags: :System:

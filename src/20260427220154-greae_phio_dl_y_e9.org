@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       df8eaeae-64a5-4d29-b23c-0ed5443bf756
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=GREAE+PHIO+DL-Y+E9
 :END:
 #+title: GREAE PHIO DL-Y E9
 #+filetags: :System:

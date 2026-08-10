@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       16094c93-3c39-40b8-ac98-4eed58a54398
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Leamuae+SI-T+E3-4236
 :END:
 #+title: Leamuae SI-T E3-4236
 #+filetags: :System:

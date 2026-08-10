@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       c6681040-98ae-4046-888c-a6d3d2f50963
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Indaol
 :END:
 #+title: Indaol
 #+filetags: :System:Tourist:History:beacon:Alliance:

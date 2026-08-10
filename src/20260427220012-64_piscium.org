@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       23771e94-2519-4687-8d88-eae02d2bc46f
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=64+Piscium
 :END:
 #+title: 64 Piscium
 #+filetags: :System:

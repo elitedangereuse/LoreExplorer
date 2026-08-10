@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       55218ecb-9923-4de3-8518-8abdad2ff0ae
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Straneou+RI-T+E3-1149
 :END:
 #+title: Straneou RI-T E3-1149
 #+filetags: :System:

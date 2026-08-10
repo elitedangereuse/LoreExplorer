@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       4687b538-dd60-4686-994d-4fe3407c1383
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=LHS+1944
 :END:
 #+title: LHS 1944
 #+filetags: :System:

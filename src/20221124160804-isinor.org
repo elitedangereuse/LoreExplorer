@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       c904fbfa-0462-46ca-ba62-47c827a7331f
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Isinor
 :END:
 #+title: Isinor
 #+filetags: :Federation:Reputation:System:Permit:

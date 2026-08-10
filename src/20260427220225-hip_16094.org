@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       fcf1cadf-5240-4b17-ba12-9a891ba2b983
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=HIP+16094
 :END:
 #+title: HIP 16094
 #+filetags: :System:

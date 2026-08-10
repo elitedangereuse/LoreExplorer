@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       700bb597-7bee-49ad-bb07-946f1a52bd76
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=HD+76133
 :END:
 #+title: HD 76133
 #+filetags: :System:
-

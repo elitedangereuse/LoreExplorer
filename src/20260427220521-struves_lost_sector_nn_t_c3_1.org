@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       f8044b3d-67ae-45ca-9531-6a41706548e9
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Struve%27s+Lost+Sector+NN-T+c3-1
 :END:
 #+title: Struve's Lost Sector NN-T c3-1
 #+filetags: :System:

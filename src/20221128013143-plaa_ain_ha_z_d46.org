@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       8cb34246-bcaf-4669-8964-d43f54401c38
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Plaa+Ain+HA-Z+d46
 :END:
 #+title: Plaa Ain HA-Z d46
 #+filetags: :Permit:System:Locked:

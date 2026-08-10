@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       91e91d72-1573-4b6d-b376-daf2c4e7b090
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Mu+Horologii
 :END:
 #+title: Mu Horologii
 #+filetags: :System:

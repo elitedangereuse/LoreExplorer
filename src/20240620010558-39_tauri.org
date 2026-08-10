@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       7a442368-d9e1-420b-a2c4-a8900a94227d
-:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/39_Tauri
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/39_Tauri https://edgis.elitedangereuse.fr/static/sysmap.html?system=39+Tauri
 :END:
 #+title: 39 Tauri
 #+filetags: :System:

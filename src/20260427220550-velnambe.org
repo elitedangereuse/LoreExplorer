@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       28b8f169-f61c-462b-931d-1a44eb81b353
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Velnambe
 :END:
 #+title: Velnambe
 #+filetags: :System:

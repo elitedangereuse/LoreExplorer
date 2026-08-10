@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       846bfbc7-75e7-4d8d-8716-7fe0346026f4
 :ROAM_ALIASES: "Pleiades Sector IR-W d1-55"
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Delphi
 :END:
 #+title: Delphi
 #+filetags: :Federation:Empire:Alliance:Thargoid:Guardian:System:

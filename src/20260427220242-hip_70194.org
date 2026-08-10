@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       5f11d3fe-cb2a-42c2-b919-c3ff95036cdd
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=HIP+70194
 :END:
 #+title: HIP 70194
 #+filetags: :System:

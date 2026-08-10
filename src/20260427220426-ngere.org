@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       8203f201-0f1a-4cf0-a0ea-0f74923751b7
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Ngere
 :END:
 #+title: Ngere
 #+filetags: :System:

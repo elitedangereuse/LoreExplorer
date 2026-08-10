@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       c0793dd9-0af0-4c44-b009-df540829ffbd
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Upsilon+Phoenicis
 :END:
 #+title: Upsilon Phoenicis
 #+filetags: :System:

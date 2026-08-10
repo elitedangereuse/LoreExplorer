@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       19ea7ce6-f3ad-48e6-b8bb-c9be9e074b20
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Nortes
 :END:
 #+title: Nortes
 #+filetags: :System:

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       d539926e-04c6-4506-b48c-54394197be8a
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=PHROEA+PLOE+SO-Z+E5374
 :END:
 #+title: PHROEA PLOE SO-Z E5374
 #+filetags: :System:

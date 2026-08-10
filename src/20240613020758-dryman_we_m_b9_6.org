@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       f080c909-b25f-45b9-ac0a-bcf89608ebc2
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Dryman+WE-M+b9-6
 :END:
 #+title: Dryman WE-M b9-6
 

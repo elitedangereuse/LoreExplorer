@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       1e5f2eeb-0139-464a-abe0-d80d5c5d2a14
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Col+285+Sector+AV-M+b21-5
 :END:
 #+title: Col 285 Sector AV-M b21-5
 #+filetags: :ListeningPost:System:

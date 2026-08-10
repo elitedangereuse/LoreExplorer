@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       6c8f0af8-6526-4a9a-8a3d-63a1ebff9eb0
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Marki
 :END:
 #+title: Marki
 #+filetags: :System:

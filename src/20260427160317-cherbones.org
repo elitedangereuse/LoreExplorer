@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       2286edb5-7735-4283-bfee-0c8731d70f8f
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Cherbones
 :END:
 #+title: Cherbones
 #+filetags: :System:

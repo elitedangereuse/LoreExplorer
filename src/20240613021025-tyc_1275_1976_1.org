@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       83c462bf-fc10-4c2e-8779-e43dc172c93c
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=TYC+1275-1976-1
 :END:
 #+title: TYC 1275-1976-1
 

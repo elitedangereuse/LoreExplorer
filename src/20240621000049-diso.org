@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       4aedfccd-a366-4b25-a5e2-538bb29a35cb
-:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Diso
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Diso https://edgis.elitedangereuse.fr/static/sysmap.html?system=Diso
 :END:
 #+title: Diso
 #+filetags: :System:

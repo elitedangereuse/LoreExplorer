@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       00d0792d-a370-42ac-9afd-a83716c1449e
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=DRYUAE+AOSCS+IR-W+E1-3926
 :END:
 #+title: DRYUAE AOSCS IR-W E1-3926
 #+filetags: :System:

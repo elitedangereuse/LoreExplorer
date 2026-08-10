@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       ae89b47a-35ff-4bd6-bb68-475c5583bb71
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Col+285+Sector+EF-A+b16-1
 :END:
 #+title: Col 285 Sector EF-A b16-1
 #+filetags: :System:ListeningPost:

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       e10f7c24-fdd6-4062-be9c-68268072a3e3
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Bleia4+AA-A+h35
 :END:
 #+title: Bleia4 AA-A h35
 

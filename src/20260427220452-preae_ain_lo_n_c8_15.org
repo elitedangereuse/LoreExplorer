@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       aab887b6-c498-4781-ae00-8ae74768677e
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Preae+Ain+LO-N+C8-15
 :END:
 #+title: Preae Ain LO-N C8-15
 #+filetags: :System:

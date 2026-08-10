@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       390b6967-1e7c-46f2-9c2d-7f64d9da1e71
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Uzumoku
 :END:
 #+title: Uzumoku
 #+filetags: :System:

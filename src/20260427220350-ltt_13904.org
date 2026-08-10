@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       d52690aa-bf7c-4800-a9d6-94896bdb9af9
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=LTT+13904
 :END:
 #+title: LTT 13904
 #+filetags: :System:

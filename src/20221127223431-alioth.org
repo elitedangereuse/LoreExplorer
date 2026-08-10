@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       5c4e0227-24c0-4696-b2e1-5ba9fe0308f5
 :ROAM_ALIASES: "Epsilon Ursae Majoris"
-:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Alioth
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Alioth https://edgis.elitedangereuse.fr/static/sysmap.html?system=Alioth
 :END:
 #+title: Alioth
 #+filetags: :Empire:Federation:Alliance:beacon:Reputation:Permit:System:

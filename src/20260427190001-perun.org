@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       7e922795-c49d-463d-a1fa-07292fe6f772
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Perun
 :END:
 #+title: Perun
 #+filetags: :System:

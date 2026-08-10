@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       67458ff5-c3f7-4b51-b39f-ac55a4efe9db
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=G+123-16
 :END:
 #+title: G 123-16
 #+filetags: :System:

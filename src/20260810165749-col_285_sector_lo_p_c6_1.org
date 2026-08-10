@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       d5940bf3-1569-43f5-a3c5-c7a4d7083a85
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Col+285+Sector+LO-P+c6-1
 :END:
 #+title: Col 285 Sector LO-P c6-1
 #+filetags: :ListeningPost:System:

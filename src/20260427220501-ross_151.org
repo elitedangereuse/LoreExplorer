@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       8aa8437c-6814-4378-b47f-778523e639d9
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Ross+151
 :END:
 #+title: Ross 151
 #+filetags: :System:

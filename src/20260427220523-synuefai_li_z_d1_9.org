@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       a7a7a03e-9029-440f-9134-a36dea7a360a
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Synuefai+LI-Z+D1-9
 :END:
 #+title: Synuefai LI-Z D1-9
 #+filetags: :System:

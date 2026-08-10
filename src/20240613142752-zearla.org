@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       bb8ac014-a3ac-4564-9c3a-7aaff6536d59
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Zearla
 :END:
 #+title: Zearla
 #+filetags: :System:
-
