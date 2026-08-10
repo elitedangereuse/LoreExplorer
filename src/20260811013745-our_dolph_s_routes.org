@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       34a5f8b8-1741-48e8-9ff4-2303074cdcdd
+:ROAM_ALIASES: "Dolph’s Routes"
+:END:
+#+title: Our Dolph’s Routes
+#+filetags: :3311:Thargoid:Corporation:
+
+Transport fleet partnered with [[id:40f307c4-5447-493c-bc3a-2b8ad20a595e][Sandra’s Workshop]]. It was diverted to refugee evacuation during the [[id:9a246121-0c2e-4f21-9877-ee333d6b0d6c][Second Thargoid War]] and its delivery-location data was hacked in 3311.
