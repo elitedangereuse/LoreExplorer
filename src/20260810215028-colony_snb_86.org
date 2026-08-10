@@ -1,0 +1,91 @@
+:PROPERTIES:
+:ID:       e33cb5f2-3cec-4a53-a4ac-863a0d203148
+:END:
+#+title: Colony SNB-86
+#+filetags: :DataPoint:Settlement:
+
+Colony SNB-86 is an abandoned settlement in the [[id:a25e0462-42fb-48d1-8668-2f9e72994de3][Wredguia JC-K c22-8]] system on body [[https://edgis.elitedangereuse.fr/static/sysmap.html?system=Wredguia+JC-K+c22-8&body_id=12][6 a]].
+
+The location of this site can be found by following the three nearby listening posts located in:
+[[id:b955540a-f26b-4b18-8d51-d2cfcea8ba11][Wredguia EB-M c21-11]] / [[id:9069b199-a0c7-49dc-946e-4148ff66ac6d][Wredguia KC-K c22-1]] / [[id:ef5b6a44-acb5-4ddb-ad9c-1547df67d9f7][Wredguia EB-F d11-37]]
+
+* Logs
+
+There are Engineer Materials scattered around the ground, and within the settlement there is a Data Point which may be scanned for an Intel Package, and for Engineer Data.
+
+Around the settlement there are five Settlement Comms Log Uplink points, scanning them gives background to the reason for its abandonment:
+
+#+begin_quote
+SYSTEM MALFUNCTION 1/5
+
+Maintenance Log:
+
+To site maintenance office.
+There seems to be something wrong with the atmospherics in Habitat 2. We’ve been seeing fluctuations in temperature and airflow down here for the last couple of weeks. We need a maintenance crew over here to sort this out immediately. I don’t need to tell you that if the air shuts off it will be a disaster.
+
+Habitat 2 Operations Officer.
+
+[[id:d3063800-6430-46d0-901f-1e6b8f3bb05e][Megan Riley]].
+#+end_quote
+
+#+begin_quote
+SYSTEM MALFUNCTION 2/5
+
+Communication Log:
+
+Kelly, are you reading me?
+
+I’m getting reports about systems all over the settlement changing settings by remote.
+What are you guys down in maintenance playing at? You can’t just play around with the habitats like this.
+Our experiments are very sensitive and your tech crews messing with our equipment will not be tolerated.
+
+I see no other course of action than to log this with control.
+#+end_quote
+
+#+begin_quote
+SYSTEM MALFUNCTION 3/5
+
+Personal Log:
+
+I could have sworn I set an my alarm for this morning and what is going on with the atmospherics? It’s like an oven in here. [[id:bc6a5865-f7b5-4780-9948-f5bb8ce52e2a][Commander Allen]] is at the end of his wits, he and Kelly keep fighting, accusing each other of causing the weird mechanical failures over the last few weeks.
+
+All I know is my work is being ruined when the equipment suddenly decides to change operational settings, seemingly by itself. When tech come to fix the issue they say nothing is wrong and it must be user error.
+
+I know how to do my job. It’s not user error. This is something else, and with Kelly’s help I intend to find out who is doing this.
+#+end_quote
+
+#+begin_quote
+SYSTEM MALFUNCTION 4/5
+
+Personal Log:
+
+This can’t be right! According to our computer logs no one is adjusting the habitat systems and there is no sign of sabotage. The only thing we can do is a full reset of the settlement control computer to see if we can purge the problem.
+
+[[id:bc6a5865-f7b5-4780-9948-f5bb8ce52e2a][Allen]] has agreed for it to go ahead. So at 06:00 hrs Kelly and l are going to purge the master computer and hopefully eradicate whatever is causing the systems malfunctions.
+#+end_quote
+
+#+begin_quote
+SYSTEM MALFUNCTION 5/5
+
+Comms Log:
+
+I’m almost in. I should be able to initiate a full purge in a few minutes. Then we can reset the computer.
+
+Unauthorised access detected in system protocols. Initiate purge of facility.
+
+What did you do?
+
+I didn’t do anything. I haven’t even started the… What the hell!
+
+What is it?
+
+Full facility purge in T minus 10 seconds.
+
+The computer it’s locked me out. It’s locked me out of everything. I can’t access any of the settlement’s systems.
+
+Purge in T minus 5 seconds
+
+I can’t… It won’t… not like this.
+
+Purging facility in 3… 2… 1
+#+end_quote

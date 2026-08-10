@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       bc6a5865-f7b5-4780-9948-f5bb8ce52e2a
+:END:
+#+title: Commander Allen
+#+filetags: :Individual:
+
+Commander at [[id:e33cb5f2-3cec-4a53-a4ac-863a0d203148][Colony SNB-86]] during the settlement-control malfunction. He authorised a full reset of the master computer shortly before it initiated an automated purge.

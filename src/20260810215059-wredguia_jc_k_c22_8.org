@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       a25e0462-42fb-48d1-8668-2f9e72994de3
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Wredguia+JC-K+c22-8
+:END:
+#+title: Wredguia JC-K c22-8
+#+filetags: :System:
+
+Contains [[id:e33cb5f2-3cec-4a53-a4ac-863a0d203148][Colony SNB-86]] on body 6 a.

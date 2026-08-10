@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       ef5b6a44-acb5-4ddb-ad9c-1547df67d9f7
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Wredguia+EB-F+d11-37
+:END:
+#+title: Wredguia EB-F d11-37
+#+filetags: :ListeningPost:System:
+
+* Listening Post
+
+#+begin_quote
+SIGNAL DATA RECOVERED
+
+…Corrupted Transmission AEE-846-C Detected…
+
+Matches signal detected at listening posts: ([[id:b955540a-f26b-4b18-8d51-d2cfcea8ba11][wredguia eb-m c21-11]], [[id:9069b199-a0c7-49dc-946e-4148ff66ac6d][wredguia kc-k c22-1]])
+
+Approximate Signal Range: 29-31 LY
+
+…something wrong with the atmospherics… 6 a …need a maintenance crew………if the air shuts off…..
+
+…Message Corrupted…
+#+end_quote
+
+This listening post provides one of the three signal fragments used to locate [[id:e33cb5f2-3cec-4a53-a4ac-863a0d203148][Colony SNB-86]].
