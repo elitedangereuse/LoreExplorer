@@ -3,13 +3,25 @@
 :ROAM_REFS: https://canonn.science/codex/carmichael-point/
 :END:
 #+title: Carmichael Point
-#+filetags: :Thargoid:Abandoned:Settlement:
+#+filetags: :Empire:Federation:Thargoid:Abandoned:Settlement:
 [[id:39a31dd8-3750-4507-90b7-b649d0eeecef][INRA]] [[id:f2fac611-d042-4abf-80f9-e5e0b5c9f4b8][Research Base]]
-Carmichael Point is an Abandoned Settlement on [[id:8a943d55-9718-41d2-993f-0a27958c34cd][HIP 16824]] A 2 f at 73.8762, 61.8761.
+Carmichael Point is an abandoned settlement in the [[id:8a943d55-9718-41d2-993f-0a27958c34cd][HIP 16824]] system, on body [[, at 4.6625, -27.0334 (in Live/4.0) or at 73.8769, 61.8776 (in Legacy/3.8).][A 2 f]].
 
-The location of this facility was given by an Unregistered Comms
-Beacon at [[id:bb75c7f8-328e-4b3c-b6a4-16da9c75dfc0][HR 1188 A 2]]. The comms beacon transmits a message in
-phonetic alphabet on the hour.
+The location of this facility was given by an [[id:1fd01d13-7a2c-402e-bb92-1b4edadd78c2][Unregistered Comms
+Beacon]] that can be found in the [[id:bb75c7f8-328e-4b3c-b6a4-16da9c75dfc0][HR 1188]] system.
 
-The facility has served as a Thargoid bait.
-The facility was lost
+Carmichael Point was operated by the [[id:39a31dd8-3750-4507-90b7-b649d0eeecef][Intergalactic Naval Reserve Arm]]
+(INRA), a co-operative between the Federation and Empire that operated
+during the last [[id:c6674165-eb13-47d3-ad54-796aab951892][war with the Thargoids]]. This facility appears to have
+had connections to the project that created the [[id:0ffe3814-d246-41f3-8f82-4bb9ca062dea][mycoid]] used against
+the Thargoids, it was used to lure a Thargoid ship in order to attack
+it. The attack failed, so happened presumably before the attack made
+by Commander [[id:0be96028-d995-4b52-8bb0-34f21e080bce][Jameson]].
+
+The facility contains a number of habitation modules, hangar or
+barracks buildings, and has two large mycoid storage tanks. There are
+collectable materials scattered around the site.
+
+Within the facility there is a Data Point which may be scanned for an
+Intel Package, and for Engineer Data. The Data Point also will give
+you the waypoint for the site in the Navigation Panel.
