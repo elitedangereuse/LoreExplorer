@@ -2,4 +2,20 @@
 :ID:       203e2365-af25-465d-89f5-8ac3df7b9d3e
 :END:
 #+title: HIP 17892
-#+filetags: :System:
+#+filetags: :ListeningPost:System:
+
+* HIP 17892 2 a Listening Post
+
+#+begin_quote
+…LISTENING POST SIGNAL DATA…
+
+…Corporate Data Packet RVH-113-B Detected…
+
+Matching Signals Detected: (Pleione, HIP 19072)
+
+Approximate Signal Range: 54-56 LY
+
+…too late…too late…my fault…attack before…Distress…lat:3.2781…no idea…receive them…Things…call them…destroyed…gathered…survivors…a chance…whole fleet.
+
+…Signal Lost…
+#+end_quote

@@ -4,4 +4,5 @@
 :END:
 #+title: Listening Post
 
-Listening posts are automated beacons or relay stations that can broadcast encoded messages or coordinates when scanned.
+Listening posts are automated beacons or relay stations that can
+broadcast encoded messages or coordinates when scanned.

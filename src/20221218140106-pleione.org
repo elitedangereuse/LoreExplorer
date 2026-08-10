@@ -2,20 +2,22 @@
 :ID:       51916839-dfae-46ab-874f-46ded08bc880
 :END:
 #+title: Pleione
-- Economy:Extraction / Agriculture
-- Government:Patronage
-- Allegiance:Independent
-- Population:29,459
-- Controlling faction:Anti Xeno Initiative
-- Traffic:25+ commanders
-- Security level:Low
-- State:Normal
-- Star type:Class B star Scoopable
-- Permit required:No
-- Distance:295.00 Ly from HR 913
-- Powerplay:
-- Headquarters:Stargazer Pioneer Corps
-- Info updated:18 Dec 2022, 6:12am
-- Factions updated:18 Dec 2022, 6:12am
+#+filetags: :System:ListeningPost:
 
 [[id:1fc2d714-88be-4142-96aa-e93fce6e9528][Stargazer]]
+
+* Pleione 6 Listening Post
+
+#+begin_quote
+…LISTENING POST SIGNAL DATA…
+
+…Corporate Data Packet RVH-113-A Detected…
+
+Matching Signals Detected: (HIP 17892, HIP 19072)
+
+Approximate Signal Range: 44-46 LY
+
+…too late…too late…my fault…attack before…Distress…long:-121.2588…no idea…receive them…Things…call them…destroyed…gathered…survivors…a chance…whole fleet.
+
+…Signal Lost…
+#+end_quote
