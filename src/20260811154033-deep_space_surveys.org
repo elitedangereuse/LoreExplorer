@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       51896752-85c1-4c4c-8fc0-814386d4447d
+:ROAM_ALIASES: "DSS"
+:END:
+#+title: Deep Space Surveys
+#+filetags: :Organization:
+
+Organisation supporting [[id:dbb9956e-5ae2-4c27-94f7-670f0a4719f9][Distant Worlds]] expeditions and the construction of [[id:1c6bdbbd-527a-4533-abac-81eade19c059][Explorer’s Anchorage]].

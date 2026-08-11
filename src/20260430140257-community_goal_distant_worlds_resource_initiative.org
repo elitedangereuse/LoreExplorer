@@ -39,11 +39,11 @@ materials for two construction projects in the Galactic [[id:9059253d-2c36-4289-
 The exploration fleet aims to build a megaship and installation in the
 [[id:35fe6a51-9492-44a7-9dc5-4a5395ae732f][Stuemeae FG-Y d7561]] system.
 
-Dr Kaii, Fleet Liaison for Deep Space Surveys, explained:
+Dr Kaii, Fleet Liaison for [[id:51896752-85c1-4c4c-8fc0-814386d4447d][Deep Space Surveys]], explained:
 
 "This installation will be a place for scientists to study the
 supermassive black hole at Sagittarius A\*. Future explorers visiting
-the station will be well looked after by Deep Space Surveys, to whom we
+the station will be well looked after by [[id:51896752-85c1-4c4c-8fc0-814386d4447d][Deep Space Surveys]], to whom we
 will hand the keys before continuing to Beagle Point."
 
 [[id:510c3ff3-837b-4653-84d9-f184547d7c48][Bauxite]], [[id:6a0424e6-c3dd-486d-a6cb-5db4902ee9a8][Water]] and Liquid Oxygen should be delivered to Explorer's

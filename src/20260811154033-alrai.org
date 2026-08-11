@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       8c06b988-9dc6-471b-9e10-42068f677353
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Alrai
+:END:
+#+title: Alrai
+#+filetags: :3312:System:
+
+Registration system for the [[id:b1b57ce2-5c91-46b6-87aa-c3f1fa29838c][Third Distant Worlds Expedition]] in 3312.
