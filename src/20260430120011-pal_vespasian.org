@@ -2,6 +2,6 @@
 :ID:       6b095eae-4ed9-4156-9723-2f8326b55206
 :END:
 #+title: Pal Vespasian
-#+filetags: :3304:3305:Individual:
+#+filetags: :3304:3305:Empire:Individual:
 
-Pal Vespasian was an Imperial senator associated with [[id:64e89e89-f7fe-4f90-bc29-1cd90497e1f1][Nova Imperium]] debates, Aisling Duval’s public support, and later criticism of Imperial policy.
+Pal Vespasian was an Imperial senator associated with [[id:64e89e89-f7fe-4f90-bc29-1cd90497e1f1][Nova Imperium]] debates, [[id:b402bbe3-5119-4d94-87ee-0ba279658383][Aisling Duval]]’s public support, and later criticism of Imperial policy.
