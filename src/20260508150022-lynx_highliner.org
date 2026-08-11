@@ -5,6 +5,14 @@
 #+title: Lynx Highliner
 #+filetags: :ship:
 
+Expanding into the passenger liner market, [[id:d24ee8f5-e2ec-4c71-b5fa-afc2d9710141][Zorgon Peterson]] presents
+the Lynx Highliner. This medium-sized vessel has considerable
+passenger cabin capacity potential, a notable jump range and good
+straight-line speed. The Lynx Highliner is also surprisingly robust,
+with solid defences offering protection from external threats.
+
+The Lynx Highliner has been designed for medium-size landing pads.
+
 * Shipyard Stats
 - Fighter bay: No
 - Multicrew: +1
