@@ -4,4 +4,4 @@
 #+title: Third Distant Worlds Expedition
 #+filetags: :3312:Expedition:
 
-Expedition announced by the [[id:dbb9956e-5ae2-4c27-94f7-670f0a4719f9][Distant Worlds working group]] to develop a remote deep-space facility. Registration opened at [[id:8be92ba6-94e2-4dfa-a6f8-7af69c0da9f3][Surveyor’s Reach]] in [[id:8c06b988-9dc6-471b-9e10-42068f677353][Alrai]] in 3312.
+Expedition announced by the [[id:dbb9956e-5ae2-4c27-94f7-670f0a4719f9][Distant Worlds working group]] to develop a remote deep-space facility. Registration opened at [[id:8be92ba6-94e2-4dfa-a6f8-7af69c0da9f3][Surveyor’s Reach]] in [[id:8c06b988-9dc6-471b-9e10-42068f677353][Alrai]] in 3312. It was scheduled to depart from [[id:cc382abe-7274-49e9-a224-01da1d18b613][NGC 1981 Sector ZU-Y d27]] on 18 January 3312.

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       cc382abe-7274-49e9-a224-01da1d18b613
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=NGC+1981+Sector+ZU-Y+d27
+:END:
+#+title: NGC 1981 Sector ZU-Y d27
+#+filetags: :3312:System:
+
+Departure system for the [[id:b1b57ce2-5c91-46b6-87aa-c3f1fa29838c][Third Distant Worlds Expedition]] in 3312.
