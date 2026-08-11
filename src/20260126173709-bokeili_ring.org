@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ca01e44b-f77e-46b4-8801-2feed13560ae
+:END:
+#+title: Bokeili Ring
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040418-Starport_Status_Update.org][33040418-Starport_Status_Update.org]]

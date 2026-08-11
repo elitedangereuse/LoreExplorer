@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0cd47320-c4d7-4936-8556-d5a5b795c5c7
+:END:
+#+title: Rory Webster
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070111-Date_Set_for_Trial_of_Fleet_Admiral_Vincent.org][33070111-Date_Set_for_Trial_of_Fleet_Admiral_Vincent.org]]

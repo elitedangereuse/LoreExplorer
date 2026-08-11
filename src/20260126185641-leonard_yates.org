@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       aefeff4f-2dd4-429a-bea9-0a3ad2367d88
+:END:
+#+title: Leonard Yates
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070729-Far_God_Megaship_Initiative_Concludes.org][33070729-Far_God_Megaship_Initiative_Concludes.org]]

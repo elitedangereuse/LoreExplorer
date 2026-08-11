@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e5f33309-9cd4-4702-bcd5-181ecf27abbf
+:END:
+#+title: That Lavigny
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010815-Aisling_Duval_Reviews_her_Security.org][33010815-Aisling_Duval_Reviews_her_Security.org]]

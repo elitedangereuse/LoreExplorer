@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ad734b19-8f44-4d03-8320-330a4ffb00f1
+:END:
+#+title: Orrerian Vicious Brew
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33031117-Community_Goal__Breakfast_at_Tranquillity.org][33031117-Community_Goal__Breakfast_at_Tranquillity.org]]

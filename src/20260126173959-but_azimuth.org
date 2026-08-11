@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e659f913-661a-4b98-85ad-799ee249adc6
+:END:
+#+title: But Azimuth
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33091124-Azimuth_Biotech__‘We_Can_Serve_Alliance’.org][33091124-Azimuth_Biotech__‘We_Can_Serve_Alliance’.org]]

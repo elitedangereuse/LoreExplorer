@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       53f3c1cd-0a75-4856-b546-65b718564511
+:END:
+#+title: Commander Na
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010715-Origins_of_the_Velites_Squadron.org][33010715-Origins_of_the_Velites_Squadron.org]]

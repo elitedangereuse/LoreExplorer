@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f0dc15f6-41b9-4346-93f5-b2c67c9621b6
+:END:
+#+title: Law Fawaol Patrons
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021229-Galactic_News__Weekly_Democracy_Report.org][33021229-Galactic_News__Weekly_Democracy_Report.org]]

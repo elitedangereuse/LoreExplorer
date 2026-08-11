@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       793a2b7b-eca1-4270-96e4-8853aa5b2453
+:END:
+#+title: Commander Raf
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010814-Imperial_Inquisition_and_Emperor's_Grace_to_Hold_Meeting.org][33010814-Imperial_Inquisition_and_Emperor's_Grace_to_Hold_Meeting.org]]

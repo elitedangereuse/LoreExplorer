@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       09af67b2-f9ea-4cce-ae2e-bcf212107d02
+:END:
+#+title: Defense League Lords
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020926-Galactic_News__Weekly_Economic_Report.org][33020926-Galactic_News__Weekly_Economic_Report.org]]

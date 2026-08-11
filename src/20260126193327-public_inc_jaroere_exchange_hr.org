@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       26e6e5a4-4d8d-40c1-9793-29cc6bf26d1a
+:END:
+#+title: Public Inc Jaroere Exchange HR
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020402-Galactic_News__Weekly_Expansion_Report.org][33020402-Galactic_News__Weekly_Expansion_Report.org]]

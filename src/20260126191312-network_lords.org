@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a62aca82-ea27-4834-a57f-bb32cdcaab61
+:END:
+#+title: Network Lords
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020916-Galactic_News__Weekly_Conflict_Report.org][33020916-Galactic_News__Weekly_Conflict_Report.org]]

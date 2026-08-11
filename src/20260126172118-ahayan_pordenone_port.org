@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c1ee4b20-8366-42a7-8830-bf73776971ee
+:END:
+#+title: Ahayan Pordenone Port
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040808-Starport_Status_Update.org][33040808-Starport_Status_Update.org]]

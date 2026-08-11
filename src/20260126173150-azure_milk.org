@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ed49f70c-fc20-4e08-8b1d-bbfcc1f5c232
+:END:
+#+title: Azure Milk
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33031117-Community_Goal__Breakfast_at_Tranquillity.org][33031117-Community_Goal__Breakfast_at_Tranquillity.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6c3caac5-a26a-417d-ad22-e78af9e06d56
+:END:
+#+title: Galactic Summit
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070101-Utopia_Invites_Superpowers_to_Galactic_Summit.org][33070101-Utopia_Invites_Superpowers_to_Galactic_Summit.org]]

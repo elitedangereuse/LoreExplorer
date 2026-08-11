@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       abf26693-06fb-40bf-8e6c-35d902a826dc
+:END:
+#+title: Professor Yaro Kenyatta
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33081104-Destination__Humanity.org][33081104-Destination__Humanity.org]]

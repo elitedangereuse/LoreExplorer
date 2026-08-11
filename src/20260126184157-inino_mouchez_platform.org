@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b4c65f1f-55fd-414d-a759-ecc22df12f41
+:END:
+#+title: Inino Mouchez Platform
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040925-Starport_Status_Update.org][33040925-Starport_Status_Update.org]]

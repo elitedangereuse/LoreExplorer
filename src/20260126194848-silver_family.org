@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       090320b1-eb7a-48b1-954c-589210cdba23
+:END:
+#+title: Silver Family
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030123-Galactic_News__Weekly_Economic_Report.org][33030123-Galactic_News__Weekly_Economic_Report.org]]

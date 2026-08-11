@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1509c8e6-4ec4-471f-b684-7aad5b4093ae
+:END:
+#+title: Kulici Schwann Port
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040613-Starport_Status_Update.org][33040613-Starport_Status_Update.org]]

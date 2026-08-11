@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bfb1928f-3ae3-4cb7-b3f4-f98aa14c2384
+:END:
+#+title: Narri Hind Mine
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040510-Starport_Status_Update.org][33040510-Starport_Status_Update.org]]

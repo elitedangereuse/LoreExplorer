@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2c1fd7f3-2a89-4a6d-90b6-01a6500f0c7a
+:END:
+#+title: Central Services Kruger
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011221-GalNet_Weekly_Economic_Report.org][33011221-GalNet_Weekly_Economic_Report.org]]

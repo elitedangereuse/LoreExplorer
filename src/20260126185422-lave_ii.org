@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7bddc4ae-0fbe-4b50-bb50-57dc8ea30e78
+:END:
+#+title: Lave II
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010810-Where's_Walden_Now_.org][33010810-Where's_Walden_Now_.org]]

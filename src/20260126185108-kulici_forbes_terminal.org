@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       24f21397-6ee5-4c46-b805-6f2160af1320
+:END:
+#+title: Kulici Forbes Terminal
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040606-Starport_Status_Update.org][33040606-Starport_Status_Update.org]]

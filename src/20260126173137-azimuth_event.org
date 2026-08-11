@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       84cdbdf8-70d3-411f-90a3-3725ca4d3f04
+:END:
+#+title: Azimuth Event
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090713-Deliver_Rarities_for_Azimuth_Event.org][33090713-Deliver_Rarities_for_Azimuth_Event.org]]

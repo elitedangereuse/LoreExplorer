@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9d174f7e-4803-49a3-9c8b-70aeb18b2b45
+:END:
+#+title: Commander Nicholas Powell
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020607-Freelance_Report__Fresh_Fruit_Meets_Bitter_Harvest.org][33020607-Freelance_Report__Fresh_Fruit_Meets_Bitter_Harvest.org]]

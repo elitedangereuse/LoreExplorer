@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       22ebe582-c0fc-4557-b558-c9af90f4a7d6
+:END:
+#+title: The True Chapters
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080929-Federal_Forces_Target_the_True_Chapters.org][33080929-Federal_Forces_Target_the_True_Chapters.org]]

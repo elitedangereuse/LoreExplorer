@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0b0378eb-a3ec-4e9b-84d5-afc198832b27
+:END:
+#+title: Recent Controversy
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010902-Core_Dynamics_Issues_Statement_Regarding_Recent_Controversy.org][33010902-Core_Dynamics_Issues_Statement_Regarding_Recent_Controversy.org]]

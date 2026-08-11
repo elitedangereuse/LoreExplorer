@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d810564a-bd68-4770-a956-85203e21e1d4
+:END:
+#+title: Betancourt Base
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33061126-Alliance_Consolidates_Presence_in_Coalsack_Nebula.org][33061126-Alliance_Consolidates_Presence_in_Coalsack_Nebula.org]]

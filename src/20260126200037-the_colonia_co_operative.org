@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       254a3772-c318-4bc8-966e-baad72118de1
+:END:
+#+title: The Colonia Co-operative
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030421-Galactic_News__Colonia_Resource_Drive_Concludes.org][33030421-Galactic_News__Colonia_Resource_Drive_Concludes.org]]

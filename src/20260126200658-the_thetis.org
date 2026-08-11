@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       58e03334-ae2a-4b1f-8548-a77b35a83f24
+:END:
+#+title: The Thetis
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33091101-Grey_Swan_Fleet_Destroyed_in_Shamash.org][33091101-Grey_Swan_Fleet_Destroyed_in_Shamash.org]]

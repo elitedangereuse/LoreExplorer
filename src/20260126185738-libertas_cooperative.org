@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       26f8e6a8-b086-4eea-9039-5dff7efdf7aa
+:END:
+#+title: Libertas Cooperative
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010919-Local_Faction_Helps_Ready_Munshin.org][33010919-Local_Faction_Helps_Ready_Munshin.org]]

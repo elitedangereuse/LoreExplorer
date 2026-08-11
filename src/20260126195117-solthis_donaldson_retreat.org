@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9412c516-0e51-4cc8-9fe2-1bd5c36cb3f6
+:END:
+#+title: Solthis Donaldson Retreat
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020908-Galactic_News__Starport_Status_Update.org][33020908-Galactic_News__Starport_Status_Update.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       10862e37-3798-4ca5-90a3-2ab954f1e105
+:END:
+#+title: Independents The
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020304-Powerplay__Weekly_Report.org][33020304-Powerplay__Weekly_Report.org]]

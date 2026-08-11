@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5125f816-af4c-4173-8257-1450ce25c89b
+:END:
+#+title: Type-10 Defenders
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33061222-Investors_Take_Control_of_Lakon_Spaceways.org][33061222-Investors_Take_Control_of_Lakon_Spaceways.org]]

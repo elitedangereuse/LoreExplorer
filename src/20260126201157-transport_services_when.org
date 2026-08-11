@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bccdb189-85d5-4a97-93c0-1db4af8f515c
+:END:
+#+title: Transport Services When
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020531-Galactic_News__Weekly_Security_Report.org][33020531-Galactic_News__Weekly_Security_Report.org]]

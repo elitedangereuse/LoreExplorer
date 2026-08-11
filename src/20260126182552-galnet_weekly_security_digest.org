@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b1f7fa36-ad18-4d06-b9a4-efdce965c611
+:END:
+#+title: GalNet Weekly Security Digest
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010630-GalNet_Weekly_Security_Digest.org][33010630-GalNet_Weekly_Security_Digest.org]]

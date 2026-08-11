@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3238ee07-f798-4950-ae5d-a9a76f8b1457
+:END:
+#+title: Millions Pay Respects Millions
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010808-Millions_Pay_Respects.org][33010808-Millions_Pay_Respects.org]]

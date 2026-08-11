@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3a04db1e-b572-48ad-9a0a-2cec7d46c97a
+:END:
+#+title: Fort Xeno
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070430-Kumo_Crew_Starports_Open_for_Business.org][33070430-Kumo_Crew_Starports_Open_for_Business.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3bb603b6-5dbe-497f-aaca-f778e1a6f916
+:END:
+#+title: The Nevermore Not Ready
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010319-The_Nevermore_Not_Ready_for_Duty.org][33010319-The_Nevermore_Not_Ready_for_Duty.org]]

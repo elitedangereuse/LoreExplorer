@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9565980b-42a3-480b-a14d-b6e58ab9c813
+:END:
+#+title: Commander Jarvis
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020303-Community_Goal__Lave_Radio_Appeals_for_Blood_Crystals.org][33020303-Community_Goal__Lave_Radio_Appeals_for_Blood_Crystals.org]]

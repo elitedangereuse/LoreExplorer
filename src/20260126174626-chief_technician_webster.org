@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ea5d6946-5f3c-43a1-8025-443dd75dc693
+:END:
+#+title: Chief Technician Webster
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33060928-Starship_One_Trial_Begins.org][33060928-Starship_One_Trial_Begins.org]]

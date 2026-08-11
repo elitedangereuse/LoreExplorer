@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c4cbbfed-1924-4f79-8125-404be5e23ba0
+:END:
+#+title: Hit Squad Targets Cartel Leader
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050705-Hit_Squad_Targets_Cartel_Leader.org][33050705-Hit_Squad_Targets_Cartel_Leader.org]]

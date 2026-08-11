@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6a9c5481-d1ac-4f96-9c87-e301ca67896c
+:END:
+#+title: Although Torval Mining Ltd
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33071008-Corporate_Split_between_Mastopolos_and_Torval.org][33071008-Corporate_Split_between_Mastopolos_and_Torval.org]]

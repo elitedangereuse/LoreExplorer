@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a6d47155-1c3e-483d-9ef1-e5b6bc088fdf
+:END:
+#+title: Commander Stateira
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010724-Operation_Davy_Jones_-_Frontline_report.org][33010724-Operation_Davy_Jones_-_Frontline_report.org]]

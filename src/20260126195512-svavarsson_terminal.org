@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       44ac132a-c379-4a0f-882f-f4e318643e95
+:END:
+#+title: Svavarsson Terminal
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010812-Apalar_System_Calls_for_Aid.org][33010812-Apalar_System_Calls_for_Aid.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9e9b9208-e9ec-446b-8727-fbbcee013a69
+:END:
+#+title: Co LP
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020607-Galactic_News__Weekly_Security_Report.org][33020607-Galactic_News__Weekly_Security_Report.org]]

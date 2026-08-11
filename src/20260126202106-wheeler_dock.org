@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b781f44b-df5c-428e-be1a-607888de2325
+:END:
+#+title: Wheeler Dock
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050228-Conflict_in_Drevlyada_Resolved.org][33050228-Conflict_in_Drevlyada_Resolved.org]]

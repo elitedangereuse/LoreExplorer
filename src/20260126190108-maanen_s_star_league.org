@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ca65aeea-0d1c-4617-b7d1-dbce495a2440
+:END:
+#+title: Maanen's Star League
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020107-GalNet_Focus_on_Democracy.org][33020107-GalNet_Focus_on_Democracy.org]]

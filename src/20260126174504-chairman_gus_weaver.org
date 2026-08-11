@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       92fd1caa-52ab-4a6a-9619-3946d7ce7191
+:END:
+#+title: Chairman Gus Weaver
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33041129-Achilles_Corp_Initiative.org][33041129-Achilles_Corp_Initiative.org]]

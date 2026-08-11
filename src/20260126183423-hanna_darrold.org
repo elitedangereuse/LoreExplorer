@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0c43afc1-feef-4e91-8cb0-b3b7971a0939
+:END:
+#+title: Hanna Darrold
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050816-Fiction_Fans_Gather_for_Literary_Event.org][33050816-Fiction_Fans_Gather_for_Literary_Event.org]]

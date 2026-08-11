@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       87c92c0d-5a58-45b8-8346-71196249f9c8
+:END:
+#+title: Star Systems
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010705-The_Founding_of_the_Federation.org][33010705-The_Founding_of_the_Federation.org]]

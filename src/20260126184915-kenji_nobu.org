@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a128a264-6c90-41d5-825d-be5ed711830f
+:END:
+#+title: Kenji Nobu
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010826-Heike_Starport_Security_under_Strain.org][33010826-Heike_Starport_Security_under_Strain.org]]

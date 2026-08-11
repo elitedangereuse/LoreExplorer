@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       fee1695c-6d91-44f0-a662-d73d226d8d71
+:END:
+#+title: Winters Claims Civilian Surveillance
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070423-Winters_Claims_Civilian_Surveillance_is_Illegal.org][33070423-Winters_Claims_Civilian_Surveillance_is_Illegal.org]]

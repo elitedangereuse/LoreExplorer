@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       cc95a988-b32f-4761-ad9c-a74fce16cafd
+:END:
+#+title: Central Commodities Shu Babassi
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020823-Galactic_News__Weekly_Security_Report.org][33020823-Galactic_News__Weekly_Security_Report.org]]

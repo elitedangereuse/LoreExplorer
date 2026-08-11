@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6b184af2-bcb6-499d-b697-933069fa6490
+:END:
+#+title: Mercenary Incursion
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33041107-Mercenary_Incursion_in_Meene.org][33041107-Mercenary_Incursion_in_Meene.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5c86158e-b1ca-4b2f-a57a-5559dee1bc0a
+:END:
+#+title: Unity Although
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010718-The_Emperor_Speaks_out_for_Unity.org][33010718-The_Emperor_Speaks_out_for_Unity.org]]

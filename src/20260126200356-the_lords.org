@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       da78679b-f462-4175-af22-349ceb1af74d
+:END:
+#+title: The Lords
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080221-Further_Omega_Grid_Secrets_Revealed.org][33080221-Further_Omega_Grid_Secrets_Revealed.org]]

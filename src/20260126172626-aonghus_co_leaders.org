@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       78e53975-22a3-433c-b51b-2b9317ec8fc9
+:END:
+#+title: Aonghus Co Leaders
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021102-Galactic_News__Weekly_Health_Report.org][33021102-Galactic_News__Weekly_Health_Report.org]]

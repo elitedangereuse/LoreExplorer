@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       650bc70d-943f-481c-ada9-c3b051d3281d
+:END:
+#+title: Terrorism Spreads
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33061106-Terrorism_Spreads_as_Superpower_Conflicts_Increase.org][33061106-Terrorism_Spreads_as_Superpower_Conflicts_Increase.org]]

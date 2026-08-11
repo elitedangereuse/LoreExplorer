@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       af77d6a6-defc-4670-899a-56bceaab2db4
+:END:
+#+title: Market Equality
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33061124-Core_Dynamics_Bids_to_Purchase_Lakon_Spaceways.org][33061124-Core_Dynamics_Bids_to_Purchase_Lakon_Spaceways.org]]

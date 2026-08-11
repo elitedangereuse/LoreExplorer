@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a3c52d5c-16ae-4262-8796-9d4210a285ad
+:END:
+#+title: Gould Ring
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010415-East_India_Company_Announces_Galactic_Silk_Road.org][33010415-East_India_Company_Announces_Galactic_Silk_Road.org]]

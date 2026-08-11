@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       fd194f32-4ecb-45c9-a998-9c97287eef6e
+:END:
+#+title: Prince Harold Duval
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33060914-Prince_Harold_Duval_Assassinated.org][33060914-Prince_Harold_Duval_Assassinated.org]]

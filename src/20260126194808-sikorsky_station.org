@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0a6bb2a2-a59e-46c6-a6b9-d20f1f4798bd
+:END:
+#+title: Sikorsky Station
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040427-The_Biggest_Party_of_3304.org][33040427-The_Biggest_Party_of_3304.org]]

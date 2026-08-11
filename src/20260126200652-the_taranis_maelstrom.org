@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       cbaeb09e-c192-433c-94ed-7512e624d7f9
+:END:
+#+title: The Taranis Maelstrom
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33081130-Havoc_as_Thargoids_Overrun_Multiple_Systems.org][33081130-Havoc_as_Thargoids_Overrun_Multiple_Systems.org]]

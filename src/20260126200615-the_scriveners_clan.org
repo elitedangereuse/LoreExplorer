@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       50e930ac-7404-456c-a54c-c099988652be
+:END:
+#+title: The Scriveners Clan
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070427-Galactic_Mysteries__The_Hesperus.org][33070427-Galactic_Mysteries__The_Hesperus.org]]

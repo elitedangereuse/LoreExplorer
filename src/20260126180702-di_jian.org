@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       87b2f8ef-1851-47d3-ac78-e8d3cb94b3a0
+:END:
+#+title: Di Jian
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080208-Concerns_Raised_over_Alliance-Sirius_Pact.org][33080208-Concerns_Raised_over_Alliance-Sirius_Pact.org]]

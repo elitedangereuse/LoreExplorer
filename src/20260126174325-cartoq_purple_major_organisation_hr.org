@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a799fdb3-433a-4020-a7d7-b6f249c5cb31
+:END:
+#+title: Cartoq Purple Major Organisation HR
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011020-GalNet_Weekly_Security_Digest.org][33011020-GalNet_Weekly_Security_Digest.org]]

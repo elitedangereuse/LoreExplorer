@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f4cfb09c-6041-4058-9d41-bb237f2cd6e2
+:END:
+#+title: Councillor Ainsley Niven
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080127-Conflict_Erupts_in_the_Reorte_System.org][33080127-Conflict_Erupts_in_the_Reorte_System.org]]

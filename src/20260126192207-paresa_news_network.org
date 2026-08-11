@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       309d9854-a976-4d42-9e8d-eb6cc69eb58b
+:END:
+#+title: Paresa News Network
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070405-The_Wedding_of_Hadrian_Duval.org][33070405-The_Wedding_of_Hadrian_Duval.org]]

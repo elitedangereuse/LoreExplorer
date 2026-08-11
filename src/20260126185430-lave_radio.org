@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8b0a2577-5669-4e99-af8a-16cfc0a5ed9a
+:END:
+#+title: Lave Radio
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040608-Conflict_in_Lave.org][33040608-Conflict_in_Lave.org]]

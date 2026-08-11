@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5afcb232-bdf6-417a-948b-1e57695fff78
+:END:
+#+title: The Fourth Superpower
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070615-Sirius_Corporation__The_Fourth_Superpower_.org][33070615-Sirius_Corporation__The_Fourth_Superpower_.org]]

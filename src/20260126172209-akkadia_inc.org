@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       66da485f-7daa-44c8-a1c8-883dc140e786
+:END:
+#+title: Akkadia Inc
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010610-Getting_Serious_About_Tascheter.org][33010610-Getting_Serious_About_Tascheter.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b045121f-dbd5-4655-9246-9f5f72f0c025
+:END:
+#+title: Majestic-class Interdictors
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020721-Community_Goal__A_Majestic_Development.org][33020721-Community_Goal__A_Majestic_Development.org]]

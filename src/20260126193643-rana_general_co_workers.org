@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ec28a80d-6188-44a7-b7c8-a52c68355eaa
+:END:
+#+title: Rana General Co Workers
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010701-GalNet_Weekly_Health_Hotspots.org][33010701-GalNet_Weekly_Health_Hotspots.org]]

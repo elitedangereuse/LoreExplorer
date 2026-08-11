@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ca293bcf-315d-47a0-9d1d-7a284199e0d0
+:END:
+#+title: The Pioneers Cooperative
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020331-Galactic_News__Meta-Alloys_Appeal_Comes_to_an_End.org][33020331-Galactic_News__Meta-Alloys_Appeal_Comes_to_an_End.org]]

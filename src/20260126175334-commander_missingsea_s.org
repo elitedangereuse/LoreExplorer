@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       27ab17b8-5a4e-4fe2-ae89-a23e3a340b15
+:END:
+#+title: Commander MissingSea's
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021209-Freelance_Report__Pilot_Completes_Extensive_Survey.org][33021209-Freelance_Report__Pilot_Completes_Extensive_Survey.org]]

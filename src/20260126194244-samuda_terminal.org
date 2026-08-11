@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       25f49214-9214-43fe-83a4-02f884dfee97
+:END:
+#+title: Samuda Terminal
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080912-Thargoids_Turn_Attention_to_Inhabited_Systems.org][33080912-Thargoids_Turn_Attention_to_Inhabited_Systems.org]]

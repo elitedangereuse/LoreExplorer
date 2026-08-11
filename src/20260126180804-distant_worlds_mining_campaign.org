@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7cc47cbb-135b-446a-b848-6b831b9d5b80
+:END:
+#+title: Distant Worlds Mining Campaign
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050307-Distant_Worlds_Mining_Campaign.org][33050307-Distant_Worlds_Mining_Campaign.org]]

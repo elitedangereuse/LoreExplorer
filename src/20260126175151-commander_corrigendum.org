@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       856ca3c8-220d-4003-b764-1f4233093306
+:END:
+#+title: Commander Corrigendum
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010724-Operation_Davy_Jones_-_Frontline_report.org][33010724-Operation_Davy_Jones_-_Frontline_report.org]]

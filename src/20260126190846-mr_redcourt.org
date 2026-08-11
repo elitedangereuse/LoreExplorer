@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       beeca808-8f98-4435-a7f1-891e575aa1db
+:END:
+#+title: Mr Redcourt
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040705-Author_Begins_Interstellar_Book_Tour.org][33040705-Author_Begins_Interstellar_Book_Tour.org]]

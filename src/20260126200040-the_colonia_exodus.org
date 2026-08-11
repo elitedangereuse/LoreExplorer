@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8a5f1f03-d4f8-4f1c-b2fd-6beac10f7c79
+:END:
+#+title: The Colonia Exodus
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33031208-Community_Goal__The_Colonia_Exodus.org][33031208-Community_Goal__The_Colonia_Exodus.org]]

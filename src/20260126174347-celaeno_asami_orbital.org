@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2ad8d4b2-05eb-407e-ab82-69cfe2d986bf
+:END:
+#+title: Celaeno Asami Orbital
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33031202-Galactic_News__New_Aegis_Initiative.org][33031202-Galactic_News__New_Aegis_Initiative.org]]

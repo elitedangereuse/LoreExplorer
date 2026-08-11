@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9a76bd53-f38e-48f1-8f80-647254898c1e
+:END:
+#+title: Confederation BD
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020823-Galactic_News__Weekly_Security_Report.org][33020823-Galactic_News__Weekly_Security_Report.org]]

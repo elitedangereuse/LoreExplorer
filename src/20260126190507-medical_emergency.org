@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f33c35b6-9da1-482e-9326-7e41a12e7b77
+:END:
+#+title: Medical Emergency
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090703-Imperial_Mother_in_Medical_Emergency.org][33090703-Imperial_Mother_in_Medical_Emergency.org]]

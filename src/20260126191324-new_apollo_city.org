@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       792bd42d-941c-4922-aede-dd5d624b6c2f
+:END:
+#+title: New Apollo City
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080928-Tesreau_Announces_Bid_to_Reform_Aegis.org][33080928-Tesreau_Announces_Bid_to_Reform_Aegis.org]]

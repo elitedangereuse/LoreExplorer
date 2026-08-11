@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       264b0203-fc69-4653-a3c4-b1f655bd45b0
+:END:
+#+title: Slough Orbital
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010826-Athena_System_Hosts_‘XYZ_Fight_Club’.org][33010826-Athena_System_Hosts_‘XYZ_Fight_Club’.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c5d4b342-36bf-4938-83e4-5bdbcdf4f2bc
+:END:
+#+title: Enterprise In
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010722-Cerberus_Plague_Shuts_Down_Station_Services.org][33010722-Cerberus_Plague_Shuts_Down_Station_Services.org]]

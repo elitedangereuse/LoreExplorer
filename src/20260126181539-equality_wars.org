@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ce1fdbc4-13ab-4ae8-9a69-068a04eec587
+:END:
+#+title: Equality Wars
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010911-GalNet_Weekly_Conflict_Report.org][33010911-GalNet_Weekly_Conflict_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5cce7298-92d5-4812-b016-f2557cc943c1
+:END:
+#+title: Lieutenant Barringer
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010530-Malfunction_or_Malice_.org][33010530-Malfunction_or_Malice_.org]]

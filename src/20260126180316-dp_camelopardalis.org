@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2b3c9b8e-68bd-40bf-a08f-88e155e8b1ed
+:END:
+#+title: DP Camelopardalis
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011106-A_Week_in_Powerplay.org][33011106-A_Week_in_Powerplay.org]]

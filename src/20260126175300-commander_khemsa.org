@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2a7cb999-0e97-45e4-b2e5-0a31f3143d82
+:END:
+#+title: Commander Khemsa
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020317-Galactic_News__New_Farragut_Battle_Cruiser_Complete.org][33020317-Galactic_News__New_Farragut_Battle_Cruiser_Complete.org]]

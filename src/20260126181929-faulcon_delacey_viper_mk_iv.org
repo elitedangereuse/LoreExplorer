@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       db1de81f-5a9f-4a41-b5fc-59755d51cd83
+:END:
+#+title: Faulcon DeLacey Viper Mk IV
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020104-Diamond_Frogs_Contribute_to_Christmas_Initiative.org][33020104-Diamond_Frogs_Contribute_to_Christmas_Initiative.org]]

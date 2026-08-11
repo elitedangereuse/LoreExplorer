@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9191681d-3fc1-4869-88ac-9ee671a56cf4
+:END:
+#+title: Holdings Independents
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021220-Galactic_News__Weekly_Security_Report.org][33021220-Galactic_News__Weekly_Security_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b37c6a48-a041-417f-9640-8915321cf298
+:END:
+#+title: Jangore Power Systems FF Andromedae
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020531-Galactic_News__Weekly_Security_Report.org][33020531-Galactic_News__Weekly_Security_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9c193392-07ac-4524-a004-a7a038254592
+:END:
+#+title: Dawn Issues Request
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010911-Emperor’s_Dawn_Issues_Request_for_Supplies.org][33010911-Emperor’s_Dawn_Issues_Request_for_Supplies.org]]

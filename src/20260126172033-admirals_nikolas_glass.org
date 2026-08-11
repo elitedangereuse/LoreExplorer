@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       da965aec-eec2-4c2e-a65b-ad212a5bb4e8
+:END:
+#+title: Admirals Nikolas Glass
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33081101-Council_of_Admirals_Divided_Over_Unified_Fleet.org][33081101-Council_of_Admirals_Divided_Over_Unified_Fleet.org]]

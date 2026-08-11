@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       29c0c022-f332-4a4b-b7fc-d769e536ec89
+:END:
+#+title: The Earth Expeditionary Fleet
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021014-Freelance_Report__The_Cassiopeia_Expedition.org][33021014-Freelance_Report__The_Cassiopeia_Expedition.org]]

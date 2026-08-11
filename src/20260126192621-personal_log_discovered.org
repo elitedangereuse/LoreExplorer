@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       12e9d079-93e8-4abc-b88c-426718a1029c
+:END:
+#+title: Personal Log Discovered
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050517-Ship_Thief’s_Personal_Log_Discovered.org][33050517-Ship_Thief’s_Personal_Log_Discovered.org]]

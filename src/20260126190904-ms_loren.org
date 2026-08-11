@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3f919a5e-4d46-445b-8ba9-4a92625d98d2
+:END:
+#+title: Ms Loren
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021028-Galactic_News__Kahina_Loren_Found_Guilty.org][33021028-Galactic_News__Kahina_Loren_Found_Guilty.org]]

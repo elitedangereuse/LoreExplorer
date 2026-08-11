@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       526a76a0-83d8-423f-aa23-823f7decb966
+:END:
+#+title: The Amphion
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080430-The_Sanderlyn_Interviews_(Part_Two).org][33080430-The_Sanderlyn_Interviews_(Part_Two).org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a4243c9b-5b27-48cd-bf8d-1cc8f07fd7b4
+:END:
+#+title: Commander Wizzard
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010504-Scientists_Baffled_by_Mysterious_Artefacts.org][33010504-Scientists_Baffled_by_Mysterious_Artefacts.org]]

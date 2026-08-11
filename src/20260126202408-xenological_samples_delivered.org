@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       452db895-2248-4db5-983d-eb74713062e5
+:END:
+#+title: Xenological Samples Delivered
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070114-Xenological_Samples_Delivered_to_Colonia.org][33070114-Xenological_Samples_Delivered_to_Colonia.org]]

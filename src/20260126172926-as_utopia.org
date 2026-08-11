@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       54f260da-5110-4790-8321-20a94e47176c
+:END:
+#+title: As Utopia
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020715-Freelance_Report__The_Silent_Arbiter.org][33020715-Freelance_Report__The_Silent_Arbiter.org]]

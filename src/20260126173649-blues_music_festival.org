@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8eadc0c8-8563-438d-856e-c543a18fbdaf
+:END:
+#+title: Blues Music Festival
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040525-Los_Chupacabras_Campaign.org][33040525-Los_Chupacabras_Campaign.org]]

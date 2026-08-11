@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       90ed4ddf-0d7a-43b5-853b-c3cd302ae503
+:END:
+#+title: Resurrecting Proteus Wave
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33091124-Azimuth_Biotech__‘We_Can_Serve_Alliance’.org][33091124-Azimuth_Biotech__‘We_Can_Serve_Alliance’.org]]

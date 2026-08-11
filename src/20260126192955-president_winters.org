@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7c78130e-45eb-486d-ba57-914a0c8ec9aa
+:END:
+#+title: President Winters
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33091016-Felicia_Winters_Elected_as_Federal_President.org][33091016-Felicia_Winters_Elected_as_Federal_President.org]]

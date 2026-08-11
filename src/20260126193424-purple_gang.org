@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       94da8f93-410d-4919-9c0c-09faf00601f2
+:END:
+#+title: Purple Gang
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010304-Falisci_in_Flames.org][33010304-Falisci_in_Flames.org]]

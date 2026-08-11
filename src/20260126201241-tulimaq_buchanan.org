@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7d007ff0-45de-4ce3-8eef-b1063af60c6c
+:END:
+#+title: Tulimaq Buchanan
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040527-Week_in_Review.org][33040527-Week_in_Review.org]]

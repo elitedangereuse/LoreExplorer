@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       cd424b14-f209-47ec-a400-9eafc7d7c9ad
+:END:
+#+title: Elite Travel Writers' Cooperative
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021126-Freelance_Report__Record-Breaking_Tourist_Trip.org][33021126-Freelance_Report__Record-Breaking_Tourist_Trip.org]]

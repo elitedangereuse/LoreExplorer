@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       21fbe3f4-fcbd-46b1-9498-6a353870ee05
+:END:
+#+title: Capitol Space Control
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010413-Patreus_and_the_Princess_Share_Food_for_Thought.org][33010413-Patreus_and_the_Princess_Share_Food_for_Thought.org]]

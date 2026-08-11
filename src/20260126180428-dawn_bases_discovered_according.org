@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1d44cb14-b72b-44b1-9c19-a898cb34e82f
+:END:
+#+title: Dawn Bases Discovered According
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010911-Emperor’s_Dawn_Bases_Discovered.org][33010911-Emperor’s_Dawn_Bases_Discovered.org]]

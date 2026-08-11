@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       486fbd17-3f8b-4c56-a5c4-8e27c9ddbe15
+:END:
+#+title: Sir Randolph Plaskett
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070813-Onionhead_Legality_Sparks_Debate.org][33070813-Onionhead_Legality_Sparks_Debate.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3b07a165-2b0b-44bf-8f79-5c61e4dfd465
+:END:
+#+title: Devane Patrons
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020331-Galactic_News__Weekly_Democracy_Report.org][33020331-Galactic_News__Weekly_Democracy_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5f65e048-7af7-4d64-bbdf-a86029e3450c
+:END:
+#+title: Commander Gan
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010922-Shelter_from_the_Storm.org][33010922-Shelter_from_the_Storm.org]]

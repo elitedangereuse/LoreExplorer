@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1c44462a-aead-40d5-a0bb-bb229b2e77b6
+:END:
+#+title: Krylov Ring
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070318-Medical_Supplies_Needed_for_Starport_Bombing_Survivors.org][33070318-Medical_Supplies_Needed_for_Starport_Bombing_Survivors.org]]

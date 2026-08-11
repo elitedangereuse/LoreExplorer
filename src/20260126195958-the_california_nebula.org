@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c7c63845-dc76-44d9-a273-2692570b9d5a
+:END:
+#+title: The California Nebula
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090127-Delaine_Vows_to_Defend_California_Nebula.org][33090127-Delaine_Vows_to_Defend_California_Nebula.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2e6e68b4-e446-4552-b212-30f85311874e
+:END:
+#+title: The Princess
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010410-The_Low_Cost_of_Lives.org][33010410-The_Low_Cost_of_Lives.org]]

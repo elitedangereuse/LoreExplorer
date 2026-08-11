@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       fb0741cd-806b-4a81-9913-fa3adf10dd59
+:END:
+#+title: Commander Jack Hilding
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011109-Frontline_Report__Cayutorme.org][33011109-Frontline_Report__Cayutorme.org]]

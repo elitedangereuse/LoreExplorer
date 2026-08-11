@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c8ad5419-e342-44f8-9810-3190bc8fc020
+:END:
+#+title: General Hollis
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040824-The_Battle_for_Betel.org][33040824-The_Battle_for_Betel.org]]

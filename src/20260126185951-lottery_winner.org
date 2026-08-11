@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       fd483154-e4b9-47dd-b35c-461ae152871b
+:END:
+#+title: Lottery Winner
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040714-Search_for_Lottery_Winner.org][33040714-Search_for_Lottery_Winner.org]]

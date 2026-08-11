@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2fa5976a-6e1a-477a-94a3-513364f5308e
+:END:
+#+title: State Company Nationalists
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021101-Galactic_News__Weekly_Security_Report.org][33021101-Galactic_News__Weekly_Security_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       18cafc9d-32b2-453b-8379-9492e89e3ccb
+:END:
+#+title: Electronics Hldgs When
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030817-Galactic_News__Weekly_Health_Report.org][33030817-Galactic_News__Weekly_Health_Report.org]]

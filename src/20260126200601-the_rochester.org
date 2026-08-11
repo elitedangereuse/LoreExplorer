@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2c027056-69ae-4efd-b9aa-3af4f8a175a7
+:END:
+#+title: The Rochester
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040707-A_Profile_of_Jordan_Rochester.org][33040707-A_Profile_of_Jordan_Rochester.org]]

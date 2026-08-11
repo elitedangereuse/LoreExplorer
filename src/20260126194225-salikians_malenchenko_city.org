@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       45bee919-9841-4fb0-8cd5-1d38a632dd25
+:END:
+#+title: Salikians Malenchenko City
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040406-Starport_Status_Update.org][33040406-Starport_Status_Update.org]]

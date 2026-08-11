@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ae30f6b6-1060-48fc-84e1-1015aff34307
+:END:
+#+title: Commander Mad Billy
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020617-Freelance_Report__Searching_for_Jaques.org][33020617-Freelance_Report__Searching_for_Jaques.org]]

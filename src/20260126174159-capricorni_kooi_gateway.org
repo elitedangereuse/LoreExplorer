@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6989c0e7-aa9b-4385-8cc3-76cc244b9d13
+:END:
+#+title: Capricorni Kooi Gateway
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020520-Galactic_News__Malfunctioning_Starports_Restored_with_Meta-Alloys.org][33020520-Galactic_News__Malfunctioning_Starports_Restored_with_Meta-Alloys.org]]

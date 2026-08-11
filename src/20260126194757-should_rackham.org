@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c19e9015-4f0b-4057-bc1a-eca2497a366e
+:END:
+#+title: Should Rackham
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080512-Supply_Rare_Goods_for_Rackham_Celebration.org][33080512-Supply_Rare_Goods_for_Rackham_Celebration.org]]

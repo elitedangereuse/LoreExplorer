@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       54d5f157-6bc7-41f4-b053-33ba00957f3e
+:END:
+#+title: Affiliated Counter-Terrorism
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070317-Anti-NMLA_Intelligence_Unit_Formed.org][33070317-Anti-NMLA_Intelligence_Unit_Formed.org]]

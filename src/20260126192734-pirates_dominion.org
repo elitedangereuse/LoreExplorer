@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       cc232cc5-87d4-4241-b2c7-b2d6080d4a46
+:END:
+#+title: Pirates Dominion
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020726-Galactic_News__Weekly_Security_Report.org][33020726-Galactic_News__Weekly_Security_Report.org]]

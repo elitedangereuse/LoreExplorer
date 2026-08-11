@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       af1b9c19-d2a9-46f6-a217-594e3a045cfe
+:END:
+#+title: Comms Organisation
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010810-GalNet_Weekly_Economic_Report.org][33010810-GalNet_Weekly_Economic_Report.org]]

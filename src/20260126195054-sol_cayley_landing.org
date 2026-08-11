@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       236ccb55-5fd4-4c7a-8774-3a3123c7154b
+:END:
+#+title: Sol Cayley Landing
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021122-Galactic_News__Starport_Status_Update.org][33021122-Galactic_News__Starport_Status_Update.org]]

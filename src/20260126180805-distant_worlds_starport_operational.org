@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1b65b8c4-f20c-4196-98a9-cb8a046ce810
+:END:
+#+title: Distant Worlds Starport Operational
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050321-Distant_Worlds_Starport_Operational.org][33050321-Distant_Worlds_Starport_Operational.org]]

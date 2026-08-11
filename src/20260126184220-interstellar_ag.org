@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       19fbb744-61d8-4d93-b229-b89e3be15569
+:END:
+#+title: Interstellar AG
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030715-Galactic_News__Weekly_Conflict_Report.org][33030715-Galactic_News__Weekly_Conflict_Report.org]]

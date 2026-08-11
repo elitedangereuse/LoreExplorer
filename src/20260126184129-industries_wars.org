@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c20e3498-2981-431c-b582-d0c99829e192
+:END:
+#+title: Industries Wars
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011211-GalNet_Weekly_Conflict_Report.org][33011211-GalNet_Weekly_Conflict_Report.org]]

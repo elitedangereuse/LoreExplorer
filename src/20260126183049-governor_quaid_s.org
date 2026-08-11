@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d90dac82-99b9-47a1-b251-6091a5f4eed7
+:END:
+#+title: Governor Quaid's
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011026-Federation_Scientist_Initiates_Independent_Research_Programme.org][33011026-Federation_Scientist_Initiates_Independent_Research_Programme.org]]

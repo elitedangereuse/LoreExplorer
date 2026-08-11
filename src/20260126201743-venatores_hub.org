@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a0d494f4-c83c-4f73-9a36-0b83137ab7f4
+:END:
+#+title: Venatores Hub
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080128-New_Starports_Created_for_Colonia_Bridge.org][33080128-New_Starports_Created_for_Colonia_Bridge.org]]

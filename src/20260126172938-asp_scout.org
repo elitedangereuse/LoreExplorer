@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       06eb58d0-7790-4748-aa30-cd6fc1957c5f
+:END:
+#+title: Asp Scout
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021105-Freelance_Report__Hapless_Explorer_Returns_Home.org][33021105-Freelance_Report__Hapless_Explorer_Returns_Home.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3af0413d-4169-4ce4-9071-32258fde1628
+:END:
+#+title: Solar System
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010719-A_Clash_of_Titans.org][33010719-A_Clash_of_Titans.org]]

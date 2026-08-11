@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0947a37d-2b32-4277-812f-d7ac921d0911
+:END:
+#+title: Cornengu Mars High
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040925-Starport_Status_Update.org][33040925-Starport_Status_Update.org]]

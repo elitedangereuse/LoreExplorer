@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1ef500c6-b9b1-4e80-b6b6-e76d49b2ddf8
+:END:
+#+title: Mudrama Kaze Crown Terminal
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040823-Starport_Status_Update.org][33040823-Starport_Status_Update.org]]

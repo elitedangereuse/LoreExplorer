@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8a7587c6-82c0-44fd-b799-fae92db91b2c
+:END:
+#+title: Simguru Offers
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010614-Simguru_Offers_to_Share_Tomorrow_Today.org][33010614-Simguru_Offers_to_Share_Tomorrow_Today.org]]

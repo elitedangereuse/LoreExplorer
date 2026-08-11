@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b74b0999-ae05-442a-9dea-703ecb24d6af
+:END:
+#+title: Kumo Crew Initiative
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070708-Kumo_Crew_Initiative_to_Produce_New_Commodity.org][33070708-Kumo_Crew_Initiative_to_Produce_New_Commodity.org]]

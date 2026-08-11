@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e93cad36-cf02-403b-a7e1-684a2611c413
+:END:
+#+title: Class Battlecruisers
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010311-Core_Dynamics_Completes_Work_on_New_Capital_Ship.org][33010311-Core_Dynamics_Completes_Work_on_New_Capital_Ship.org]]

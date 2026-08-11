@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ab6a583d-57ec-448e-87aa-cd7ce8fba2da
+:END:
+#+title: Progressive Party
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010706-GalNet_Weekly_Economic_Report.org][33010706-GalNet_Weekly_Economic_Report.org]]

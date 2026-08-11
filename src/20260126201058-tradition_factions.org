@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a580ca7e-dea0-4e14-8865-e9bfdc5ac420
+:END:
+#+title: Tradition Factions
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021022-Galactic_News__Weekly_Expansion_Report.org][33021022-Galactic_News__Weekly_Expansion_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       05e1b85c-630f-4a84-94f9-cf5d762bd78a
+:END:
+#+title: Crew Missing
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050110-Crew_Missing_from_Celebrity’s_Starship.org][33050110-Crew_Missing_from_Celebrity’s_Starship.org]]

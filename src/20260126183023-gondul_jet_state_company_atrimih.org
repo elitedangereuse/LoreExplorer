@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8bd25f40-1358-4050-87d1-379dca442280
+:END:
+#+title: Gondul Jet State Company Atrimih
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020719-Galactic_News__Weekly_Security_Report.org][33020719-Galactic_News__Weekly_Security_Report.org]]

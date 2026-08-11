@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e5573dd5-ff08-4611-a4a5-1e60c2e34679
+:END:
+#+title: Deciat System
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040629-Thargoid_Assault_on_the_Deciat_System.org][33040629-Thargoid_Assault_on_the_Deciat_System.org]]

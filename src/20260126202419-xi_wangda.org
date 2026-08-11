@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       87ad4a7a-678b-43f3-a441-2a9b55994c22
+:END:
+#+title: Xi Wangda
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090713-Deliver_Rarities_for_Azimuth_Event.org][33090713-Deliver_Rarities_for_Azimuth_Event.org]]

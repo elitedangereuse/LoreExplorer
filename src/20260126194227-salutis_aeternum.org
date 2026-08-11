@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b0a7d8b7-7da6-4263-9553-c018c722a984
+:END:
+#+title: Salutis Aeternum
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080616-Alliance-Sirius_Military_Pact_to_be_Decided.org][33080616-Alliance-Sirius_Military_Pact_to_be_Decided.org]]

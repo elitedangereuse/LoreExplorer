@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       68d775db-faf5-4639-9d5a-0b6cf6b2f2a9
+:END:
+#+title: Ms Law
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040621-League_of_Reparation_Agents_Apprehended.org][33040621-League_of_Reparation_Agents_Apprehended.org]]

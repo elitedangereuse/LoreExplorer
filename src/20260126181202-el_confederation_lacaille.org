@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8fda0e7a-d750-4b29-b34c-7a7db8ec5361
+:END:
+#+title: El Confederation Lacaille
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020813-Galactic_News__Weekly_Expansion_Report.org][33020813-Galactic_News__Weekly_Expansion_Report.org]]

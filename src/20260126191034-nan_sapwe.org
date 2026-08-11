@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b7c2c038-1da0-45ea-846a-055c7d10c66d
+:END:
+#+title: Nan Sapwe
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040328-Starport_Status_Update.org][33040328-Starport_Status_Update.org]]

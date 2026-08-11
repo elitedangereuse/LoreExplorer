@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2b9bd4b7-8d5a-4a04-922a-494db50b15e0
+:END:
+#+title: Ethgreze Zaragas Energy Corp
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030520-Galactic_News__Weekly_Conflict_Report.org][33030520-Galactic_News__Weekly_Conflict_Report.org]]

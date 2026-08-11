@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4613211f-6e09-4dcd-88c4-399b5410d41e
+:END:
+#+title: Heikegani Dogmma
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021114-Galactic_News__Starport_Status_Update.org][33021114-Galactic_News__Starport_Status_Update.org]]

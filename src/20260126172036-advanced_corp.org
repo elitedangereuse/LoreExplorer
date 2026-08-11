@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ddbf8a06-8b8e-49f0-8732-ec949d21695e
+:END:
+#+title: Advanced Corp
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020307-Galactic_News__Weekly_Economic_Report.org][33020307-Galactic_News__Weekly_Economic_Report.org]]

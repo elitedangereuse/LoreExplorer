@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       03b34fe4-9e41-44b0-91df-d57b3b937a2d
+:END:
+#+title: Democracy Denied
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010327-Falisci__Democracy_Denied.org][33010327-Falisci__Democracy_Denied.org]]

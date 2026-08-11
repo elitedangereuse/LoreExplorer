@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e4c93adb-abf3-4fb6-ae7a-4d953dafa8ba
+:END:
+#+title: Cornelius-Lasky Convention
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070303-Superpowers_Make_Progress_at_the_Galactic_Summit.org][33070303-Superpowers_Make_Progress_at_the_Galactic_Summit.org]]

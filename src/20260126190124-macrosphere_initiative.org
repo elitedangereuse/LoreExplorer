@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ccbcc42f-09ee-4388-a24e-7984b20cc3f8
+:END:
+#+title: Macrosphere Initiative
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050228-Macrosphere_Initiative.org][33050228-Macrosphere_Initiative.org]]

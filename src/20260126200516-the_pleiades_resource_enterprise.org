@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2f8f468d-7afc-40f3-8d46-f916863d6176
+:END:
+#+title: The Pleiades Resource Enterprise
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020811-Community_Goal__The_Fight_for_Pleiades_Sector_IH-V_C2-16.org][33020811-Community_Goal__The_Fight_for_Pleiades_Sector_IH-V_C2-16.org]]

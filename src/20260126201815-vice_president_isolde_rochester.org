@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       dd656dd8-b052-400a-9e23-a9843311a0f9
+:END:
+#+title: Vice President Isolde Rochester
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3310/33101031-President_Winters_Assumes_Office.org][33101031-President_Winters_Assumes_Office.org]]

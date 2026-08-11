@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d440a819-9e77-4d39-8e2f-6f114f7f66fd
+:END:
+#+title: Blue Public Partners Arque Blue
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020809-Galactic_News__Weekly_Security_Report.org][33020809-Galactic_News__Weekly_Security_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c3325527-9ff5-4092-b0a8-bc26da879793
+:END:
+#+title: Commander DP Sayre
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030106-Galactic_News__Thargoids_Sighted_.org][33030106-Galactic_News__Thargoids_Sighted_.org]]

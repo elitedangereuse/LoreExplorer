@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b2f406bc-7dde-4610-b2d6-9dbd5a70090d
+:END:
+#+title: Rock Rats
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050314-Distant_Worlds_Campaign_Concludes.org][33050314-Distant_Worlds_Campaign_Concludes.org]]

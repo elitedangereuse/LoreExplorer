@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       30583eb3-3cef-4018-9539-1a6ffb61c4e8
+:END:
+#+title: Commander Hyford
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070831-Hyford’s_Cache_Reveals_Mysterious_Project.org][33070831-Hyford’s_Cache_Reveals_Mysterious_Project.org]]

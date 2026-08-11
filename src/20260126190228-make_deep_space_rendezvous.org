@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b1292437-f034-4ad9-ba35-e49c2753ffe6
+:END:
+#+title: Make Deep-Space Rendezvous
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020419-Freelance_Report__Canonn_to_Make_Deep-Space_Rendezvous.org][33020419-Freelance_Report__Canonn_to_Make_Deep-Space_Rendezvous.org]]

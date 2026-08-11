@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7e6ae569-65ca-4f30-ac81-8e389a8dd7e2
+:END:
+#+title: Senator Petra Torval
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090605-The_Emperor’s_Ire.org][33090605-The_Emperor’s_Ire.org]]

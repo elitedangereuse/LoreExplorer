@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       56f69b48-4b9a-4826-80c5-695080c8d354
+:END:
+#+title: Blue Viper Club
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070702-Dredger_Clan_Arrives_at_Kumo_City.org][33070702-Dredger_Clan_Arrives_at_Kumo_City.org]]

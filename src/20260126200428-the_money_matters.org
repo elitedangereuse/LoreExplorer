@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       879cda19-55e3-4f0c-a43b-4faa39b34b09
+:END:
+#+title: The Money Matters
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011116-Market_Value_of_Unknown_Artefacts_Increases.org][33011116-Market_Value_of_Unknown_Artefacts_Increases.org]]

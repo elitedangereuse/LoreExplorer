@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9c1ecb16-dfa0-4544-b0a9-30107de2feb9
+:END:
+#+title: Theta Piscium Civil
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020308-Galactic_News__Weekly_Security_Digest.org][33020308-Galactic_News__Weekly_Security_Digest.org]]

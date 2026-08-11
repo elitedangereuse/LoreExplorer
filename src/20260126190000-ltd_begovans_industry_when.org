@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5677e9e3-88d4-49cd-9f2b-50fbbcb654fb
+:END:
+#+title: Ltd Begovans Industry When
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030412-Galactic_News__Weekly_Security_Report.org][33030412-Galactic_News__Weekly_Security_Report.org]]

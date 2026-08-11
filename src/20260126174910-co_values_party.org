@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       da128e06-a303-467b-97ec-e4f9190023b1
+:END:
+#+title: Co Values Party
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010919-GalNet_Weekly_Expansion_List.org][33010919-GalNet_Weekly_Expansion_List.org]]

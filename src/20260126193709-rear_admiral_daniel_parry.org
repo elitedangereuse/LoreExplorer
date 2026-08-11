@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b2c357aa-e572-469b-a2a1-9345603fff82
+:END:
+#+title: Rear Admiral Daniel Parry
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090210-Federation_Pledges_Resources_to_Aegis.org][33090210-Federation_Pledges_Resources_to_Aegis.org]]

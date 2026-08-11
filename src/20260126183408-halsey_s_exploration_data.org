@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       109255f1-f44d-4e92-9d6c-dbefa8514fe0
+:END:
+#+title: Halsey's Exploration Data
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020521-Freelance_Report__Growing_Demand_for_Halsey's_Exploration_Data.org][33020521-Freelance_Report__Growing_Demand_for_Halsey's_Exploration_Data.org]]

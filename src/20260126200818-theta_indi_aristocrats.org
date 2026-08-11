@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d96382ee-1ba5-4810-919e-8c0a533c4802
+:END:
+#+title: Theta Indi Aristocrats
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021206-Galactic_News__Weekly_Security_Report.org][33021206-Galactic_News__Weekly_Security_Report.org]]

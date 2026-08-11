@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7a257e6e-6ff3-4ad4-8162-b1df73fa57aa
+:END:
+#+title: Hach Resistance Brazilian League
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020101-GalNet_Weekly_Conflict_Report.org][33020101-GalNet_Weekly_Conflict_Report.org]]

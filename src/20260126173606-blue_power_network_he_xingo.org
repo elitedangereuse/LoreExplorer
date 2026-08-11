@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       92926ba9-ea37-4d41-84e4-36b692b0ae2a
+:END:
+#+title: Blue Power Network He Xingo
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011016-GalNet_Weekly_Conflict_Report.org][33011016-GalNet_Weekly_Conflict_Report.org]]

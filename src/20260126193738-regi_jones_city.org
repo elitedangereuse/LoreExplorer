@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       16d6e1cb-51d9-41f2-8556-f8781e846c85
+:END:
+#+title: Regi Jones City
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33031206-Galactic_News__Starport_Status_Update.org][33031206-Galactic_News__Starport_Status_Update.org]]

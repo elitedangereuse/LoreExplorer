@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9ccae6cc-2508-4f36-b29d-ebe4f8e8bcfd
+:END:
+#+title: Laphria Shipyard
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010811-Two_Dead_in_Tragic_Accident.org][33010811-Two_Dead_in_Tragic_Accident.org]]

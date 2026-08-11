@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       57f54121-56eb-4eb6-94de-4dd0bd00aece
+:END:
+#+title: Warkushanui System
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011016-Technical_Trouble_in_the_Warkushanui_System.org][33011016-Technical_Trouble_in_the_Warkushanui_System.org]]

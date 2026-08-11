@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       17d2cfc6-c4d1-40fa-964a-1822ec6086ce
+:END:
+#+title: McMullen Ring
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050606-Sagittarius_Eye_Appeal.org][33050606-Sagittarius_Eye_Appeal.org]]

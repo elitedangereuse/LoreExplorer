@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8d6de869-fc1c-496a-9de3-9b8bfd6f452e
+:END:
+#+title: While Zende Partners
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050509-Zende_Partners_Transport_Service_Operational.org][33050509-Zende_Partners_Transport_Service_Operational.org]]

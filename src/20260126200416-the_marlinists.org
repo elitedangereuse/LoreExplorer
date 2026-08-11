@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0dec62b9-df39-4f29-b1cd-1c762bb8cc6f
+:END:
+#+title: The Marlinists
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33060930-Imperial_Crackdown_on_Marlinists.org][33060930-Imperial_Crackdown_on_Marlinists.org]]

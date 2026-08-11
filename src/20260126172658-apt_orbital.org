@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       af33d472-47ce-4a0a-8c37-580b9a6913f0
+:END:
+#+title: Apt Orbital
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030221-Galactic_News__Starport_Status_Update.org][33030221-Galactic_News__Starport_Status_Update.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       28c7448f-289c-40a5-afa4-3453da79760b
+:END:
+#+title: Power Network When
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020419-Galactic_News__Weekly_Security_Report.org][33020419-Galactic_News__Weekly_Security_Report.org]]

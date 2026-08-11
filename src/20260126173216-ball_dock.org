@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e5c1653f-dc61-4f9e-8940-02a404fe934d
+:END:
+#+title: Ball Dock
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020314-Freelance_Report__Midweek_Buckyball_Madness.org][33020314-Freelance_Report__Midweek_Buckyball_Madness.org]]

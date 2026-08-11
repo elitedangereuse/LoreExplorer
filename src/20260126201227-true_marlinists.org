@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0fcfcbe1-5d0e-45e1-b566-4e6ca0051b70
+:END:
+#+title: True Marlinists
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070729-NMLA_Attacks_Marlinist_Starports.org][33070729-NMLA_Attacks_Marlinist_Starports.org]]

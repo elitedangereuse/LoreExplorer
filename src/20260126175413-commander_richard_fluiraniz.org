@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b60b4386-e7dd-4da6-bd13-9d378f4f84dc
+:END:
+#+title: Commander Richard Fluiraniz
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080902-Remarkable_‘Lost_Planet’_Rediscovered.org][33080902-Remarkable_‘Lost_Planet’_Rediscovered.org]]

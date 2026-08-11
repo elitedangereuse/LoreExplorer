@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       df9055a7-43e3-43a5-8cdd-0e1bb9129015
+:END:
+#+title: Boys Mongatha Domain Dukes
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010911-GalNet_Weekly_Conflict_Report.org][33010911-GalNet_Weekly_Conflict_Report.org]]

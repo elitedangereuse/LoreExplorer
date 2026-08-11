@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       619dafb5-a82f-424f-b7fa-570d5e10502b
+:END:
+#+title: The Witch Head
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33060114-Witch_Head_System_Designations_Updated.org][33060114-Witch_Head_System_Designations_Updated.org]]

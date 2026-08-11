@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e7439f90-88d7-49c2-8943-66229c22e0f9
+:END:
+#+title: Swift Arrow
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010327-Unknown_Explorer_Returns_From_NGC_3199_Nebula.org][33010327-Unknown_Explorer_Returns_From_NGC_3199_Nebula.org]]

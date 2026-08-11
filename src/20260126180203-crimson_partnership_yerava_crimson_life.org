@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c21cbe42-8569-4815-a4b5-7b03c86554f4
+:END:
+#+title: Crimson Partnership Yerava Crimson Life
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011110-GalNet_Weekly_Security_Digest.org][33011110-GalNet_Weekly_Security_Digest.org]]

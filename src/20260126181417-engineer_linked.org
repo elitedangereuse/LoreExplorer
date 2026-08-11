@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       68d71d91-391e-4c38-81c3-695cd0819abd
+:END:
+#+title: Engineer Linked
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33061001-Engineer_Linked_to_Terrorist_Weapons.org][33061001-Engineer_Linked_to_Terrorist_Weapons.org]]

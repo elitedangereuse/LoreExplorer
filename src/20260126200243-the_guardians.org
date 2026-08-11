@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a8e4cc6f-4b09-4882-a0e8-5d5b1a89fa86
+:END:
+#+title: The Guardians
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030210-Galactic_News__Intriguing_Expedition_Record_Surfaces.org][33030210-Galactic_News__Intriguing_Expedition_Record_Surfaces.org]]

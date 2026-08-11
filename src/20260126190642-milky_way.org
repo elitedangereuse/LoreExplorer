@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e4d13084-185d-4086-a9ea-bc0edbef0fca
+:END:
+#+title: Milky Way
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010318-The_True_North_Star.org][33010318-The_True_North_Star.org]]

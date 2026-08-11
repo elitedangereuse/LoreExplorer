@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f9719468-ed9e-473e-b523-e3ae0574facd
+:END:
+#+title: Warkushanui Haack Gateway
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021129-Galactic_News__Starport_Status_Update.org][33021129-Galactic_News__Starport_Status_Update.org]]

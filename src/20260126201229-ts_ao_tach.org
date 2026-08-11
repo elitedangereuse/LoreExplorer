@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3a6e209c-60b8-4900-9e2b-043cd4acecd7
+:END:
+#+title: Ts'ao Tach
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070218-Victory_for_Federal_Forces_Against_Jupiter_Division.org][33070218-Victory_for_Federal_Forces_Against_Jupiter_Division.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       cc658af7-9083-4581-a1a8-ece1fc829039
+:END:
+#+title: Mech Scanner
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050228-Macrosphere_Initiative.org][33050228-Macrosphere_Initiative.org]]

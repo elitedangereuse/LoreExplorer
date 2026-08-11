@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       69d25797-dc49-4c6d-b90c-7ac196fb2187
+:END:
+#+title: De Lay Survey
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040712-Starport_Status_Update.org][33040712-Starport_Status_Update.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4aae7f4f-0f79-4116-a4d2-ec02f3307ae6
+:END:
+#+title: Crew League
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030427-Galactic_News__Weekly_Health_Report.org][33030427-Galactic_News__Weekly_Health_Report.org]]

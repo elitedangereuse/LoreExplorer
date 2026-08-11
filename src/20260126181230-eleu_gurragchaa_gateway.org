@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f122fee9-64e3-4952-98ac-0a99de767fdd
+:END:
+#+title: Eleu Gurragchaa Gateway
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021129-Galactic_News__Starport_Status_Update.org][33021129-Galactic_News__Starport_Status_Update.org]]

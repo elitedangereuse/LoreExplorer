@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e185fce6-ea18-4edd-9319-988c404c8dad
+:END:
+#+title: Advanced Network Partnership
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030729-Galactic_News__Weekly_Conflict_Report.org][33030729-Galactic_News__Weekly_Conflict_Report.org]]

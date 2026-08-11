@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a425b2cb-6963-4a9a-bb95-7fc46699d0d3
+:END:
+#+title: Festive Gift Couriers
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3310/33101220-Sandra’s_Workshop_Asks_for_Festive_Gift_Couriers.org][33101220-Sandra’s_Workshop_Asks_for_Festive_Gift_Couriers.org]]

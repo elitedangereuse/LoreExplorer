@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       dd781451-e59e-4e75-aeba-002d45bb61ad
+:END:
+#+title: Jaques Station Found
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020629-Galactic_News__Jaques_Station_Found!.org][33020629-Galactic_News__Jaques_Station_Found!.org]]

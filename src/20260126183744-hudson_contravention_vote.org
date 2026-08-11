@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       03742696-b7f7-4a29-9762-56390f1efd25
+:END:
+#+title: Hudson Contravention Vote
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080401-Hudson_Contravention_Vote_is_Suspended.org][33080401-Hudson_Contravention_Vote_is_Suspended.org]]

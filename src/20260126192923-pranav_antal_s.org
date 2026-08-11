@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c41fb410-a37d-4401-b11a-e55e9ac46a95
+:END:
+#+title: Pranav Antal's
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010731-A_Week_in_Powerplay.org][33010731-A_Week_in_Powerplay.org]]

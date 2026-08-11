@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       98637a91-83ba-4cfb-942b-856e8cb3d711
+:END:
+#+title: The Winking Cat
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050831-The_Winking_Cat’s_Return.org][33050831-The_Winking_Cat’s_Return.org]]

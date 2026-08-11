@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       05225038-e271-42d3-af91-eeebebcebc12
+:END:
+#+title: Body Found
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030127-Galactic_News__Body_Found_at_Wreaken_Construction_Site.org][33030127-Galactic_News__Body_Found_at_Wreaken_Construction_Site.org]]

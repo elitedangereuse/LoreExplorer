@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9c442202-09e4-4f51-bf08-634746f7235f
+:END:
+#+title: President Hudson's
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011009-A_Week_in_Powerplay.org][33011009-A_Week_in_Powerplay.org]]

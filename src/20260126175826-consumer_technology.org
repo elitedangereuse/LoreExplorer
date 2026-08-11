@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f87e70bd-5798-4f6e-ae58-dc46c0ec5bfd
+:END:
+#+title: Consumer Technology
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040920-Appeal_for_Computing_Commodities.org][33040920-Appeal_for_Computing_Commodities.org]]

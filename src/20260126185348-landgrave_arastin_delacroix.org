@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       28b0e597-fd20-4d70-a633-46fab83f4ae2
+:END:
+#+title: Landgrave Arastin Delacroix
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070401-Empire_Attacks_Neo-Marlinist_Faction.org][33070401-Empire_Attacks_Neo-Marlinist_Faction.org]]

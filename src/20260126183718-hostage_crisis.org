@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9d729b7a-471f-45d0-8b5e-8862b429015e
+:END:
+#+title: Hostage Crisis
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010503-Hostage_Crisis_in_Eotienses_Turns_Bloody.org][33010503-Hostage_Crisis_in_Eotienses_Turns_Bloody.org]]

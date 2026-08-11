@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       223b7fb6-dc20-448d-98ea-9de76f20c5d5
+:END:
+#+title: Har Itariu
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020318-Powerplay__Weekly_Report.org][33020318-Powerplay__Weekly_Report.org]]

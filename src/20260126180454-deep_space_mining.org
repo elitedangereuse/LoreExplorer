@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       31648f54-962f-427f-876b-6307cde94654
+:END:
+#+title: Deep Space Mining
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33071014-Orion_University_Searches_for_Dredger.org][33071014-Orion_University_Searches_for_Dredger.org]]

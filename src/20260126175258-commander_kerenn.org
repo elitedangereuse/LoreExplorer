@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2816bb19-22ef-4db6-b0d2-db1c99d603e8
+:END:
+#+title: Commander Kerenn
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020418-Freelance_Report__Fuel_Rats_Reach_Milestone.org][33020418-Freelance_Report__Fuel_Rats_Reach_Milestone.org]]

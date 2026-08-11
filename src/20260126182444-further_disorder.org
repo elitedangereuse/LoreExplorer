@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       75faf920-ec37-4cf8-b240-9c2cefe6d922
+:END:
+#+title: Further Disorder
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050706-Further_Disorder_at_Port_Isabelle.org][33050706-Further_Disorder_at_Port_Isabelle.org]]

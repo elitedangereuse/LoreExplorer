@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       999529ec-33d5-421e-be76-1225bff3a8ca
+:END:
+#+title: The Green Party
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020121-Galactic_News__Faction's_Appeal_Successful.org][33020121-Galactic_News__Faction's_Appeal_Successful.org]]

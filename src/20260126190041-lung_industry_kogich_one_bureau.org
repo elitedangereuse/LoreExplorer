@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e93a9f60-7d8f-400a-9a17-751d63d764d9
+:END:
+#+title: Lung Industry Kogich One Bureau
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011113-GalNet_Weekly_Conflict_Report.org][33011113-GalNet_Weekly_Conflict_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a25f1933-5158-4856-b9b6-fda5d78ba7c0
+:END:
+#+title: Arawere Liwei Gateway
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021129-Galactic_News__Starport_Status_Update.org][33021129-Galactic_News__Starport_Status_Update.org]]

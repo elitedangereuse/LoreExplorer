@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8a6d33d5-3fea-4ea2-b0ab-a739dc1e11a0
+:END:
+#+title: Kipling Orbital
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33031202-Galactic_News__New_Aegis_Initiative.org][33031202-Galactic_News__New_Aegis_Initiative.org]]

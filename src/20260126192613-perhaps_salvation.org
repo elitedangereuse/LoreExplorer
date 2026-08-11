@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       76f974e0-3f47-44ad-b2d8-424074d6bdc0
+:END:
+#+title: Perhaps Salvation
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080913-Patreus_Highlights_Thargoid_Tactics.org][33080913-Patreus_Highlights_Thargoid_Tactics.org]]

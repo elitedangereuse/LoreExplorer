@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8e131261-2071-47fc-8629-904e4d12753d
+:END:
+#+title: Survivor Found
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050323-Survivor_Found_at_Far_God_Outpost.org][33050323-Survivor_Found_at_Far_God_Outpost.org]]

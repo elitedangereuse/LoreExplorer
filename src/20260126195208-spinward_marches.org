@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3b910d5d-5fa8-4441-82cb-20188344eeb5
+:END:
+#+title: Spinward Marches
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33031110-Community_Goal__Feeding_California.org][33031110-Community_Goal__Feeding_California.org]]

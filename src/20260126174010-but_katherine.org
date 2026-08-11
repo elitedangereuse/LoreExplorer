@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1a1e236b-2a5b-4892-b583-692d7c509a27
+:END:
+#+title: But Katherine
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010819-A_Brief_Look_Back.org][33010819-A_Brief_Look_Back.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2b779a9c-634b-4afc-a56e-d5e9841572b7
+:END:
+#+title: Capricorni Trevithick Orbital
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33031004-Galactic_News__Starport_Status_Update.org][33031004-Galactic_News__Starport_Status_Update.org]]

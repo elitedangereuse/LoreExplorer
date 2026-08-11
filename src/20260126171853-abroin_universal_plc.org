@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8490c7a1-ab6d-4ae0-9012-409519fe485b
+:END:
+#+title: Abroin Universal Plc
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030721-Community_Goal__Pleiades_Research_Outpost.org][33030721-Community_Goal__Pleiades_Research_Outpost.org]]

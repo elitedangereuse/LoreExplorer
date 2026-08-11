@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       70dc7631-3788-4182-afa9-d6673072df09
+:END:
+#+title: Veroklist The
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040720-Starport_Status_Update.org][33040720-Starport_Status_Update.org]]

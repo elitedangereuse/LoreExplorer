@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2648cfd4-ffd7-4c95-a2c4-01db2c917ce4
+:END:
+#+title: The Aegis-owned
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070524-Federation_Refuses_Entry_to_‘Plague_Ship’.org][33070524-Federation_Refuses_Entry_to_‘Plague_Ship’.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5f041d69-e4ae-41ff-9084-1ccd5290eef0
+:END:
+#+title: Lasswitz Terminal
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011223-Treasure_Hunt_Comes_to_an_End.org][33011223-Treasure_Hunt_Comes_to_an_End.org]]

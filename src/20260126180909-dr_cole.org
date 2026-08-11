@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       fc184ddf-69e9-477b-a6f1-7c375eda13fc
+:END:
+#+title: Dr Cole
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021117-Galactic_News__Appeal_for_Resources_Ends.org][33021117-Galactic_News__Appeal_for_Resources_Ends.org]]

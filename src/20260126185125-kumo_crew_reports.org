@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       39a52ba4-a0c8-4532-950e-b306b62e69cc
+:END:
+#+title: Kumo Crew Reports
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010813-Rescued_from_the_Kumo_Crew.org][33010813-Rescued_from_the_Kumo_Crew.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f01d8518-012d-499b-a3c4-9c7b7535df37
+:END:
+#+title: The Libertas Cooperative
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040913-Manatee_Megaship_Initiative.org][33040913-Manatee_Megaship_Initiative.org]]

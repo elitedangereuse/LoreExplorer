@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8d316148-8783-485a-b7de-80a01715c755
+:END:
+#+title: Lyncis Sector
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020218-Community_Goal__The_Search_for_Survivors.org][33020218-Community_Goal__The_Search_for_Survivors.org]]

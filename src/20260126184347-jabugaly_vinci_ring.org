@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1cfe2f5c-83b8-40a7-b2b0-ec3c68ce7de7
+:END:
+#+title: Jabugaly Vinci Ring
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040802-Starport_Status_Update.org][33040802-Starport_Status_Update.org]]

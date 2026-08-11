@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f3be464f-b3fe-4f6c-81c1-8ad9fd00b853
+:END:
+#+title: Cosa City
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020121-Galactic_News__Faction's_Appeal_Successful.org][33020121-Galactic_News__Faction's_Appeal_Successful.org]]

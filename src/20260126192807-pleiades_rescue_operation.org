@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4da100d8-13a7-4a7b-a34a-87a8b4df30d1
+:END:
+#+title: Pleiades Rescue Operation
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040810-Pleiades_Rescue_Operation.org][33040810-Pleiades_Rescue_Operation.org]]

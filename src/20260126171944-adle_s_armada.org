@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       fe9c0d5f-23b1-4a2c-aead-f9b425a60b49
+:END:
+#+title: Adle's Armada
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010403-Operation_Tomahawk_Aims_to_Rid_Lave_of_CODE_Threat.org][33010403-Operation_Tomahawk_Aims_to_Rid_Lave_of_CODE_Threat.org]]

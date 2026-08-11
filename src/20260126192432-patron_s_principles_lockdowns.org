@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       40bc01c6-92e8-4a37-99fa-5c179378f35c
+:END:
+#+title: Patron's Principles Lockdowns
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020126-Galactic_News__Weekly_Security_Digest.org][33020126-Galactic_News__Weekly_Security_Digest.org]]

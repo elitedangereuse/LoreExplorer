@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d80aee64-a1d5-4711-b8e9-ed244be55944
+:END:
+#+title: Xeno Scanner Upgrade
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090127-Xeno_Scanner_Upgrade.org][33090127-Xeno_Scanner_Upgrade.org]]

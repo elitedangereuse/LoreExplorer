@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       334a46f4-a821-4520-905f-185e81a57dad
+:END:
+#+title: Financial Impact
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3310/33100709-Superpowers_Talk_on_the_Financial_Impact_of_War.org][33100709-Superpowers_Talk_on_the_Financial_Impact_of_War.org]]

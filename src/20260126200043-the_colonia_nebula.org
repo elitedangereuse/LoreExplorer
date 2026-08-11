@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       58fd815c-33df-484c-a1e5-878fdb6f2c20
+:END:
+#+title: The Colonia Nebula
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020818-Community_Goal__The_Colonia_Initiative.org][33020818-Community_Goal__The_Colonia_Initiative.org]]

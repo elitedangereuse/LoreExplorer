@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       45edd540-54cd-47ad-8623-a9dc55682a4c
+:END:
+#+title: President Vondell
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010320-The_Union_of_Eta_Draconis_Falls_to_Force.org][33010320-The_Union_of_Eta_Draconis_Falls_to_Force.org]]

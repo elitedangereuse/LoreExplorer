@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ef939e95-2c9d-48ba-93e6-67004f37ba99
+:END:
+#+title: Lambda-2 Phoenicis Principles Nu Kuni
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010925-GalNet_Weekly_Conflict_Report.org][33010925-GalNet_Weekly_Conflict_Report.org]]

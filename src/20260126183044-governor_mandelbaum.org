@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a878cbef-3c72-4c4d-80dc-7c1980b4bcc4
+:END:
+#+title: Governor Mandelbaum
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030630-Community_Goal__A_Safe_Haven.org][33030630-Community_Goal__A_Safe_Haven.org]]

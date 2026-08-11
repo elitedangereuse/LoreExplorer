@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2a9b1116-f1fe-4f4c-b500-2ff868e211b7
+:END:
+#+title: New Meliae Flag
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020222-Galactic_News__Weekly_Economic_Report.org][33020222-Galactic_News__Weekly_Economic_Report.org]]

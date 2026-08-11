@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2a4acce0-2ae4-4535-9475-41d364952b77
+:END:
+#+title: New Rossyth
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040628-Alliance_Inspector_Killed_by_the_League_of_Reparation.org][33040628-Alliance_Inspector_Killed_by_the_League_of_Reparation.org]]

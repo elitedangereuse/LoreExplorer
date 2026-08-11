@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       55ba7d0f-0ed0-456f-b873-20e7c6aaedb9
+:END:
+#+title: Bacon Port
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080317-Bounties_Placed_on_Criminal_Faction.org][33080317-Bounties_Placed_on_Criminal_Faction.org]]

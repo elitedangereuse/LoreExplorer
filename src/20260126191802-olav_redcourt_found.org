@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       da87385c-99c0-4e2d-9321-9b39e5e7c103
+:END:
+#+title: Olav Redcourt Found
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33041117-Olav_Redcourt_Found.org][33041117-Olav_Redcourt_Found.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7b4765a1-21e4-4953-8535-1d158f093a46
+:END:
+#+title: Sun Wen
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3310/33101206-Rescue_Megaships_Decimated_by_Thargoid_Fleet.org][33101206-Rescue_Megaships_Decimated_by_Thargoid_Fleet.org]]

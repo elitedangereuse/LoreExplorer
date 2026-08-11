@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       13f09c83-f95c-48fe-b3ba-a49b19e125b9
+:END:
+#+title: Crimson Universal Ex Gliese
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010813-GalNet_Focus_on_Democracy.org][33010813-GalNet_Focus_on_Democracy.org]]

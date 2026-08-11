@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d796f6df-af81-4308-a8b6-183497eeb75a
+:END:
+#+title: Treasure Hunt
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33071223-The_Winking_Cat’s_Treasure_Hunt.org][33071223-The_Winking_Cat’s_Treasure_Hunt.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5c789edb-dac9-42ae-b444-6c35d87b16a2
+:END:
+#+title: Station Operational
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050703-Distant_Worlds_Megaship_and_Station_Operational.org][33050703-Distant_Worlds_Megaship_and_Station_Operational.org]]

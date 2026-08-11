@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c480f32a-806b-4529-91b1-80eb478c18ae
+:END:
+#+title: Los Chupacabras Campaign
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040525-Los_Chupacabras_Campaign.org][33040525-Los_Chupacabras_Campaign.org]]

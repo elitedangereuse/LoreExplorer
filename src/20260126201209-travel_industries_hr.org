@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       03d6bb69-ce84-4926-a121-6e1bf49b4fd2
+:END:
+#+title: Travel Industries HR
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030604-Galactic_News__Weekly_Expansion_Report.org][33030604-Galactic_News__Weekly_Expansion_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5331f4a3-b573-4e68-ab41-6bcdef1103cc
+:END:
+#+title: Duke Kaeso Mordanticus
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33041114-Report_on_Nova_Imperium_Leaked.org][33041114-Report_on_Nova_Imperium_Leaked.org]]

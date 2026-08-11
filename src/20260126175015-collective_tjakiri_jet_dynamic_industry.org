@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7580c4e9-e165-4509-9175-16c5a6745826
+:END:
+#+title: Collective Tjakiri Jet Dynamic Industry
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010901-GalNet_Weekly_Security_Digest.org][33010901-GalNet_Weekly_Security_Digest.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e2153acf-78ba-4f4e-9fc9-9eaa7af88c22
+:END:
+#+title: The Dangerous Games
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020602-Community_Goal__The_Dangerous_Games_Begin.org][33020602-Community_Goal__The_Dangerous_Games_Begin.org]]

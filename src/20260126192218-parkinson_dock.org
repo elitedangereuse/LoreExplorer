@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d499d314-77e8-4e2c-aa28-6573ba299f40
+:END:
+#+title: Parkinson Dock
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010421-Eotienses_Rejuvenation_Project_Unveiled.org][33010421-Eotienses_Rejuvenation_Project_Unveiled.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1e4e837d-24bb-42d9-9c73-87568a9b481d
+:END:
+#+title: Jet Legal Systems Wolf
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030311-Galactic_News__Weekly_Expansion_Report.org][33030311-Galactic_News__Weekly_Expansion_Report.org]]

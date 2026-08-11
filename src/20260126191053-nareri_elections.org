@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       88f38cff-59ad-4ff7-9b30-94be2bd4396e
+:END:
+#+title: Nareri Elections
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020107-GalNet_Focus_on_Democracy.org][33020107-GalNet_Focus_on_Democracy.org]]

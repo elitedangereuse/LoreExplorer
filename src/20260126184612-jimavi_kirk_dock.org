@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4c76803c-c4bb-4b07-a8fb-a031fa98b917
+:END:
+#+title: Jimavi Kirk Dock
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040518-Starport_Status_Update.org][33040518-Starport_Status_Update.org]]

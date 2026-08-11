@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b4532ee6-d3d2-41f5-aa58-58b3da945949
+:END:
+#+title: Walden Day
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010810-Where's_Walden_Now_.org][33010810-Where's_Walden_Now_.org]]

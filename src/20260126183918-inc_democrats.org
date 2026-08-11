@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bb14a73d-c7d6-4aed-970a-d5adf74ef681
+:END:
+#+title: Inc Democrats
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030627-Galactic_News__Weekly_Economic_Report.org][33030627-Galactic_News__Weekly_Economic_Report.org]]

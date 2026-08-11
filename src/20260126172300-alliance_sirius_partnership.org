@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7eac260a-6f24-4958-be9b-5c9dda6e7143
+:END:
+#+title: Alliance-Sirius Partnership
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33071222-New_Phase_for_Alliance-Sirius_Partnership.org][33071222-New_Phase_for_Alliance-Sirius_Partnership.org]]

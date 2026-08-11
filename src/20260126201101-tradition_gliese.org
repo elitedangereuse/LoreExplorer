@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       fa779778-d93b-474d-9e98-f9e9f22430d8
+:END:
+#+title: Tradition Gliese
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021126-Galactic_News__Weekly_Expansion_Report.org][33021126-Galactic_News__Weekly_Expansion_Report.org]]

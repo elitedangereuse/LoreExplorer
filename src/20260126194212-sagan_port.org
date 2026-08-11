@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       baa9e73c-862f-4ddf-88b1-901d51718ddd
+:END:
+#+title: Sagan Port
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020421-Community_Goal__Expanding_the_Imperial_Fleet.org][33020421-Community_Goal__Expanding_the_Imperial_Fleet.org]]

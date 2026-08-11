@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3329155f-c0c3-4398-b6fb-aac43caf47ad
+:END:
+#+title: Allied System Receives Vital Resources
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080505-Allied_System_Receives_Vital_Resources.org][33080505-Allied_System_Receives_Vital_Resources.org]]

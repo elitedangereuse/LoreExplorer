@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d29c20ba-e353-495a-a155-c9248db7bffe
+:END:
+#+title: Ngaliba Quator Ring Bodb Den
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030412-Galactic_News__Weekly_Security_Report.org][33030412-Galactic_News__Weekly_Security_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d771ab9d-4533-460b-bb65-b98d6fe3b6c6
+:END:
+#+title: Ienpalang Corporation
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040720-Hunt_the_League_of_Reparation.org][33040720-Hunt_the_League_of_Reparation.org]]

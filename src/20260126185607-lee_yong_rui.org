@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       31eeb76f-8c4d-4bf5-90a9-56712d074a41
+:END:
+#+title: Lee Yong-Rui
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010918-A_Week_in_Powerplay.org][33010918-A_Week_in_Powerplay.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9bd1ab48-e4cf-44ba-96b0-130510f4d494
+:END:
+#+title: Hudson Lays Groundwork
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33091106-Hudson_Lays_Groundwork_for_Political_Successors.org][33091106-Hudson_Lays_Groundwork_for_Political_Successors.org]]

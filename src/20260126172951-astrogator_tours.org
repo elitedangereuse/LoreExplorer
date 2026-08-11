@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f3d9070b-1be9-4d4d-855d-280b58e87b57
+:END:
+#+title: Astrogator Tours
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050124-Commercial_Travel_Impacted_by_Hyperspace_Fears.org][33050124-Commercial_Travel_Impacted_by_Hyperspace_Fears.org]]

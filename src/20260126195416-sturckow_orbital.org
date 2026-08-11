@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       cb93282a-22dd-480e-ae06-ab2234c4ad99
+:END:
+#+title: Sturckow Orbital
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080428-Superpowers_Employ_Pilots_to_Hunt_Thargoids.org][33080428-Superpowers_Employ_Pilots_to_Hunt_Thargoids.org]]

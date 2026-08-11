@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5c161b5a-54ab-40de-80a4-31bede82f433
+:END:
+#+title: Wreaken Corporation
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070903-Torval_Orbital_Established.org][33070903-Torval_Orbital_Established.org]]

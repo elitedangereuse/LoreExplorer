@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3755bb32-d89b-47e6-a049-bbc7ab9b2e85
+:END:
+#+title: The War
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010307-The_War_for_Falisci.org][33010307-The_War_for_Falisci.org]]

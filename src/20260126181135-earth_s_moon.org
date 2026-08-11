@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       91dcbe33-4e63-46b7-ac0f-b7331142e5b5
+:END:
+#+title: Earth's Moon
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020718-Freelance_Report__Moon-Landing_Anniversary_Race.org][33020718-Freelance_Report__Moon-Landing_Anniversary_Race.org]]

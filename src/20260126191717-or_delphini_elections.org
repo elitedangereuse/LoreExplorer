@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       69cc1c11-38db-448a-bae8-e7095ea62c96
+:END:
+#+title: OR Delphini Elections
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011112-GalNet_Focus_on_Democracy.org][33011112-GalNet_Focus_on_Democracy.org]]

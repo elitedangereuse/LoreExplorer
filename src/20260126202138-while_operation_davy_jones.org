@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       acd1a2b7-0a74-4256-b3fb-b81cfda99f95
+:END:
+#+title: While Operation Davy Jones
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010731-A_Week_in_Powerplay.org][33010731-A_Week_in_Powerplay.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       559941ec-a0b8-4ef4-8b27-317d32659311
+:END:
+#+title: Commander Louise
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010826-Athena_System_Hosts_‘XYZ_Fight_Club’.org][33010826-Athena_System_Hosts_‘XYZ_Fight_Club’.org]]

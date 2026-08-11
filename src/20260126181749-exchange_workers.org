@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       fd73f82c-8ed8-41d0-8936-81ab71895875
+:END:
+#+title: Exchange Workers
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030130-Galactic_News__Weekly_Economic_Report.org][33030130-Galactic_News__Weekly_Economic_Report.org]]

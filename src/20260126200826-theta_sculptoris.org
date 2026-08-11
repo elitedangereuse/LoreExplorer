@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2153cb58-9398-4c27-a50c-6857985187fd
+:END:
+#+title: Theta Sculptoris
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33031122-Galactic_News__Starport_Status_Update.org][33031122-Galactic_News__Starport_Status_Update.org]]

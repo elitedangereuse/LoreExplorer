@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       18bc19c5-47e2-4304-bc43-687bd207965f
+:END:
+#+title: Somehow Seo
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090105-Subject_D-2_Departs_on_Lone_Mission.org][33090105-Subject_D-2_Departs_on_Lone_Mission.org]]

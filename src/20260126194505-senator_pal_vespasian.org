@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       fad813bd-a1aa-4e3b-b69b-e88d4ca7916e
+:END:
+#+title: Senator Pal Vespasian
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040428-Senator’s_Death_Raises_Questions_about_INRA.org][33040428-Senator’s_Death_Raises_Questions_about_INRA.org]]

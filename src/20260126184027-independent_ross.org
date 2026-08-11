@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d0a1c9bb-9be8-4730-819a-ad4313ad60d0
+:END:
+#+title: Independent Ross
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020908-Galactic_News__Weekly_Democracy_Report.org][33020908-Galactic_News__Weekly_Democracy_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1334f394-881b-4c24-8b83-1ac18fd734bf
+:END:
+#+title: Election Begins
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33091012-Sol_Celebrations_End_as_Election_Begins.org][33091012-Sol_Celebrations_End_as_Election_Begins.org]]

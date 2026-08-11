@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       991ef88a-a043-44ac-abf9-9630e43290b5
+:END:
+#+title: One Capitol
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010911-The_People’s_Princess_Speaks.org][33010911-The_People’s_Princess_Speaks.org]]

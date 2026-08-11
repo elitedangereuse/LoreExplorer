@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c50c01da-0097-43f9-b7e6-a6446f00fbca
+:END:
+#+title: Wabayo Silver Power Industry Order
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020118-GalNet_Weekly_Economic_Report.org][33020118-GalNet_Weekly_Economic_Report.org]]

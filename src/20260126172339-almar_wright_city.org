@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       08195ece-848a-4a5c-b34e-d1a45d79ade1
+:END:
+#+title: Almar Wright City
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021129-Galactic_News__Starport_Status_Update.org][33021129-Galactic_News__Starport_Status_Update.org]]

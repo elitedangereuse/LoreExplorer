@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1ff7375e-cb52-4fe4-ba14-6e02dd32e43b
+:END:
+#+title: Victoria Wolf VI
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010723-Victoria_Wolf_VI_and_Commodore_Stone_launch_Operation_Augeas.org][33010723-Victoria_Wolf_VI_and_Commodore_Stone_launch_Operation_Augeas.org]]

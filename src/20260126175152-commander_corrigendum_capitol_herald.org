@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f48dacb0-c39c-4530-8645-793e6deab08a
+:END:
+#+title: Commander Corrigendum Capitol Herald
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010914-Imperial_Slave_Regulations_Proposed.org][33010914-Imperial_Slave_Regulations_Proposed.org]]

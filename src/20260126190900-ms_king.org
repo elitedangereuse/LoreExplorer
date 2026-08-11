@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a901b2b3-416f-4d0f-bc15-12e2fda2e17c
+:END:
+#+title: Ms King
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050221-Defence_Contractor_Denies_Safety_Violations.org][33050221-Defence_Contractor_Denies_Safety_Violations.org]]

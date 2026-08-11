@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       31e84966-03a9-49bc-93c6-172e68ee8d2b
+:END:
+#+title: Justice Party LP
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020816-Galactic_News__Weekly_Security_Report.org][33020816-Galactic_News__Weekly_Security_Report.org]]

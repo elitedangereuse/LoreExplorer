@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d3bf6e4c-87da-4488-97fa-5de2efd78cf2
+:END:
+#+title: The Conduit
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050509-Zende_Partners_Transport_Service_Operational.org][33050509-Zende_Partners_Transport_Service_Operational.org]]

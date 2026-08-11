@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       16f3cfd5-3778-4ac1-8c87-f6b4ea3e690d
+:END:
+#+title: Campaign Trail
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040927-Presidential_Candidates_on_the_Campaign_Trail.org][33040927-Presidential_Candidates_on_the_Campaign_Trail.org]]

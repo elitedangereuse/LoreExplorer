@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b0d22c5c-b9cf-4677-aadf-be46ad65103f
+:END:
+#+title: Lemovi Coalition
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011024-GalNet_Weekly_Expansion_List.org][33011024-GalNet_Weekly_Expansion_List.org]]

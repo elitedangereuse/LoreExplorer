@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       12f82fa0-18ed-40fa-aa93-e0960f7ab6ae
+:END:
+#+title: Christian Dock
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011026-Federation_Scientist_Initiates_Independent_Research_Programme.org][33011026-Federation_Scientist_Initiates_Independent_Research_Programme.org]]

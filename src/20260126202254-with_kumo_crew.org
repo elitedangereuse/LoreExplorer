@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       db5920aa-c9dc-416f-af6b-c1c0a2000c1a
+:END:
+#+title: With Kumo Crew
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010917-Kumo_Operation_to_Hit_Aisling_Duval.org][33010917-Kumo_Operation_to_Hit_Aisling_Duval.org]]

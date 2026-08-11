@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4a314ac6-7ce0-447e-8b7b-a27bef4ed183
+:END:
+#+title: Codorain Network Elections
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030728-Galactic_News__Weekly_Democracy_Report.org][33030728-Galactic_News__Weekly_Democracy_Report.org]]

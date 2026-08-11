@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f8e9da6e-cd6f-4bcf-aa4e-ad3a6580e078
+:END:
+#+title: Frontier Systems Set
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010506-Tour_of_Frontier_Systems_Set_to_Begin_Shortly.org][33010506-Tour_of_Frontier_Systems_Set_to_Begin_Shortly.org]]

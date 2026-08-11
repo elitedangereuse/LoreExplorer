@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       db1302e8-b050-4b1f-82b1-09f89c3337a1
+:END:
+#+title: Further Migration
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33031230-Galactic_News__Further_Migration_to_Colonia.org][33031230-Galactic_News__Further_Migration_to_Colonia.org]]

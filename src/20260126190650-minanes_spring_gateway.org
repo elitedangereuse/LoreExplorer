@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       21e8c13d-e164-4c11-ace8-b6a2405006fb
+:END:
+#+title: Minanes Spring Gateway
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021026-Galactic_News__Starport_Status_Update.org][33021026-Galactic_News__Starport_Status_Update.org]]

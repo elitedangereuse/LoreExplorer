@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e3fa7642-ff15-447c-a5e4-969b7bbcb46f
+:END:
+#+title: Coalition Luyten
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020930-Galactic_News__Weekly_Conflict_Report.org][33020930-Galactic_News__Weekly_Conflict_Report.org]]

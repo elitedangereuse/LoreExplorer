@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c1e3eac2-70eb-4428-953c-e484e499d6b2
+:END:
+#+title: Onnes Gateway
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020204-Community_Goal__Former_Slaves_in_Need.org][33020204-Community_Goal__Former_Slaves_in_Need.org]]

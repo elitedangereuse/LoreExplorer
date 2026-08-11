@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       66fe68d5-35a5-415c-9e62-29dbf9462475
+:END:
+#+title: Crimson Electronics Noblemen
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020810-Galactic_News__Weekly_Health_Report.org][33020810-Galactic_News__Weekly_Health_Report.org]]

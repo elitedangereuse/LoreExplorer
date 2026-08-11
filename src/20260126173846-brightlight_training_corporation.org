@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       727315e6-d902-4d60-bd9f-59a9248043f9
+:END:
+#+title: Brightlight Training Corporation
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010407-Hudson_Takes_Tour_of_Brightlight_Facilities_in_Hors.org][33010407-Hudson_Takes_Tour_of_Brightlight_Facilities_in_Hors.org]]

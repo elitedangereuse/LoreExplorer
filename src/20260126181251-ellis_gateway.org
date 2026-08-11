@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       eec2e837-3ca7-43e5-b108-3fa705fa76f8
+:END:
+#+title: Ellis Gateway
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33061210-Sirius_Corporation_Campaign_to_Establish_Marlinist_Colonies.org][33061210-Sirius_Corporation_Campaign_to_Establish_Marlinist_Colonies.org]]

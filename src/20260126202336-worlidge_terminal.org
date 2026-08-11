@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       78ec9a07-4cbd-44c8-a315-9a71366953f3
+:END:
+#+title: Worlidge Terminal
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020225-Community_Goal__Campaign_to_Construct_New_Starport_in_LHS_3447.org][33020225-Community_Goal__Campaign_to_Construct_New_Starport_in_LHS_3447.org]]

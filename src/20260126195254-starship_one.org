@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2782ed6d-4d87-45ea-994d-0ab3eb342cac
+:END:
+#+title: Starship One
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010527-Federal_Search_Efforts_Continue.org][33010527-Federal_Search_Efforts_Continue.org]]

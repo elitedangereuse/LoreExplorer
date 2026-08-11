@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       76d95129-4efb-43c1-a239-fd37af4544fa
+:END:
+#+title: Ishtar LP
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011225-GalNet_Weekly_Conflict_Report.org][33011225-GalNet_Weekly_Conflict_Report.org]]

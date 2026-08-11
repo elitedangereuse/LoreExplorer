@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       01d06fdc-39b1-4229-b6a5-45bc95f7c9cd
+:END:
+#+title: Opila Ltd Luyten's Star Co
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020905-Galactic_News__Weekly_Economic_Report.org][33020905-Galactic_News__Weekly_Economic_Report.org]]

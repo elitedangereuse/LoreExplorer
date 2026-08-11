@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f84a572b-c849-45b7-8143-41dea0ac8bcf
+:END:
+#+title: An Undercover Report
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33071005-An_Undercover_Report_on_Jokers’_Deck.org][33071005-An_Undercover_Report_on_Jokers’_Deck.org]]

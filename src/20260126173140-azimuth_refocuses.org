@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5d6e61b0-c90e-44f4-b79e-31770df727b2
+:END:
+#+title: Azimuth Refocuses
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090609-Azimuth_Refocuses_on_Titan_Research.org][33090609-Azimuth_Refocuses_on_Titan_Research.org]]

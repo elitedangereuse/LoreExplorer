@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d5eaa64b-30eb-48e9-a284-8f452cc4b96a
+:END:
+#+title: Mahimata Fomovithi Corp
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020315-Galactic_News__Weekly_Security_Digest.org][33020315-Galactic_News__Weekly_Security_Digest.org]]

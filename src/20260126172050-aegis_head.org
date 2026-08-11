@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b9c42647-50ef-4abc-bc74-af9147728074
+:END:
+#+title: Aegis' Head
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33031006-Community_Goal__Third_Aegis_Initiative.org][33031006-Community_Goal__Third_Aegis_Initiative.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3f1faabf-b2f1-49d2-b057-6f057bdf880b
+:END:
+#+title: Aid Complete
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33041101-Appeal_for_Aid_Complete.org][33041101-Appeal_for_Aid_Complete.org]]

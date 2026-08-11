@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       96e11550-9b8a-4ee2-bf4a-a5ab8a31c1a1
+:END:
+#+title: Kui Xing
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011106-A_Week_in_Powerplay.org][33011106-A_Week_in_Powerplay.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       65397080-a723-4870-bf7d-48cb7c297a59
+:END:
+#+title: Elion Dock
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050124-Vitadyne_Nanomeds_Campaign.org][33050124-Vitadyne_Nanomeds_Campaign.org]]

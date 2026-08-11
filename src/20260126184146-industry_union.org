@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e2f56138-4a60-47b7-86cc-e9b1d1881d31
+:END:
+#+title: Industry Union
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020126-Galactic_News__Weekly_Security_Digest.org][33020126-Galactic_News__Weekly_Security_Digest.org]]

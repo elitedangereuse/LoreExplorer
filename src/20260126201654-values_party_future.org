@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       da3fe2d0-c895-47f4-a600-1ccb85dc0716
+:END:
+#+title: Values Party Future
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020914-Galactic_News__Weekly_Health_Report.org][33020914-Galactic_News__Weekly_Health_Report.org]]

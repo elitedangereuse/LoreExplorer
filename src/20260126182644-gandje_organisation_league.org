@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       aa47fe10-c76c-4445-affc-ef8ce2073129
+:END:
+#+title: Gandje Organisation League
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020422-Galactic_News__Weekly_Conflict_Report.org][33020422-Galactic_News__Weekly_Conflict_Report.org]]

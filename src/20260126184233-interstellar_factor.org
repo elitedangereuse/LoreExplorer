@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       25f74286-b030-4f27-af78-850946499bc5
+:END:
+#+title: Interstellar Factor
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33061130-Bounty_Voucher_Boost_to_Increase_Local_Security.org][33061130-Bounty_Voucher_Boost_to_Increase_Local_Security.org]]

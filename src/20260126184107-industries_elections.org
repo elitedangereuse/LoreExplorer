@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       65acdad5-3c08-431f-a6bb-13fc95590a36
+:END:
+#+title: Industries Elections
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020204-Galactic_News__Focus_on_Democracy.org][33020204-Galactic_News__Focus_on_Democracy.org]]

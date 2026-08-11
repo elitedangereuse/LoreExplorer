@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d6352d72-78cc-4ad6-8823-510d07fc29be
+:END:
+#+title: Opala Group Civil
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021011-Galactic_News__Weekly_Security_Report.org][33021011-Galactic_News__Weekly_Security_Report.org]]

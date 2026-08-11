@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ae4e2f8b-b8ac-4e1b-be3d-4727b4dc465b
+:END:
+#+title: Comandante Doumaz_B
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020206-Noticias_de_la_comunidad__Nuevos_avistamientos_de_la_Diamondback.org][33020206-Noticias_de_la_comunidad__Nuevos_avistamientos_de_la_Diamondback.org]]

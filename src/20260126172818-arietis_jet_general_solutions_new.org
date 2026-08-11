@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bb5b7908-6195-4fa4-95f1-73bf06a36441
+:END:
+#+title: Arietis Jet General Solutions New
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030726-Galactic_News__Weekly_Security_Report.org][33030726-Galactic_News__Weekly_Security_Report.org]]

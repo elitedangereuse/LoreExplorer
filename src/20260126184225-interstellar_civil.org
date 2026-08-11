@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6f94d900-9d26-42f1-b2da-f721febabae5
+:END:
+#+title: Interstellar Civil
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021111-Galactic_News__Weekly_Conflict_Report.org][33021111-Galactic_News__Weekly_Conflict_Report.org]]

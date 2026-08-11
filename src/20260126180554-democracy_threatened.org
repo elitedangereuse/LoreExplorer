@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2d4130f6-d1dc-40a2-8c65-fb27a7601fcf
+:END:
+#+title: Democracy Threatened
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010820-Democracy_Threatened_in_Old_Worlds.org][33010820-Democracy_Threatened_in_Old_Worlds.org]]

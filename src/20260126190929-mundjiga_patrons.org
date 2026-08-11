@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b743ae5b-4994-45d4-b8b0-4c67340da795
+:END:
+#+title: Mundjiga Patrons
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020421-Community_Goal__Expanding_the_Imperial_Fleet.org][33020421-Community_Goal__Expanding_the_Imperial_Fleet.org]]

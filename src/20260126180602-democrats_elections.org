@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       975e42c9-8d50-42a4-a2c4-d768b98b0f95
+:END:
+#+title: Democrats Elections
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020630-Galactic_News__Weekly_Democracy_Report.org][33020630-Galactic_News__Weekly_Democracy_Report.org]]

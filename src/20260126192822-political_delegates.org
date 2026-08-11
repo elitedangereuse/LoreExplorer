@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ede98ec5-7e88-4227-903a-73380333cf9f
+:END:
+#+title: Political Delegates
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070225-Rare_Goods_Received_for_Political_Delegates.org][33070225-Rare_Goods_Received_for_Political_Delegates.org]]

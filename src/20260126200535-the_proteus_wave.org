@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1564aa4b-7a9e-4a9e-8fdf-67fddcccc7af
+:END:
+#+title: The Proteus Wave
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080630-Urgent_Request_for_Supplies_in_HIP_22460.org][33080630-Urgent_Request_for_Supplies_in_HIP_22460.org]]

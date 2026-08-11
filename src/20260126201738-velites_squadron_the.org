@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       672a5537-e67a-406b-bb80-195c9359b3b8
+:END:
+#+title: Velites Squadron The
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010715-Origins_of_the_Velites_Squadron.org][33010715-Origins_of_the_Velites_Squadron.org]]

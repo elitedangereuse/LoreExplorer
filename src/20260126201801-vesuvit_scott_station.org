@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b13c9963-89e9-4a9d-9c06-9386510a4685
+:END:
+#+title: Vesuvit Scott Station
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040815-Starport_Status_Update.org][33040815-Starport_Status_Update.org]]

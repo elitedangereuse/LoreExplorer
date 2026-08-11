@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9b2b30b0-ff3c-410f-ac33-932e5216d19e
+:END:
+#+title: Kawarawana Gold General Systems Priva
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010804-GalNet_Weekly_Security_Digest.org][33010804-GalNet_Weekly_Security_Digest.org]]

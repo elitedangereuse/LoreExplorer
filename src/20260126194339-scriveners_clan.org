@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       936847f5-92d2-409c-bf1f-237fd906b55d
+:END:
+#+title: Scriveners Clan
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070611-The_Legacy_of_the_Hesperus.org][33070611-The_Legacy_of_the_Hesperus.org]]

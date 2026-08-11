@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d44f75e7-aee2-4a18-a1b2-6bd45c5cc868
+:END:
+#+title: Captain De Luca
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070203-Empire_Denies_Existence_of_Secret_Prison.org][33070203-Empire_Denies_Existence_of_Secret_Prison.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e28d0aaa-6e4a-4d99-bc61-7e5830c9bf15
+:END:
+#+title: Xi Ursae Majoris Energy Network
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020920-Galactic_News__Weekly_Security_Report.org][33020920-Galactic_News__Weekly_Security_Report.org]]

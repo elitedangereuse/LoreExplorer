@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a3c89435-e434-4862-a2ec-7b4116703090
+:END:
+#+title: Naval Expansion
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020429-Freelance_Report__Keeping_an_Eye_on_Naval_Expansion.org][33020429-Freelance_Report__Keeping_an_Eye_on_Naval_Expansion.org]]

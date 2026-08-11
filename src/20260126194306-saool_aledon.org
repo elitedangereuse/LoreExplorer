@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a96a8d99-9f51-435f-8b47-52482af6d991
+:END:
+#+title: Saool Aledon
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33031110-Community_Goal__Feeding_California.org][33031110-Community_Goal__Feeding_California.org]]

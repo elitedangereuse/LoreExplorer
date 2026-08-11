@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       98d050b7-0513-42d0-ad5b-e36ae500bcc7
+:END:
+#+title: Wedding Even
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010805-Morning_of_the_Wedding.org][33010805-Morning_of_the_Wedding.org]]

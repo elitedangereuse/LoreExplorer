@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       da9ce3e7-0337-4edb-974b-a1e6e1efde6a
+:END:
+#+title: While Torval
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010807-A_Week_in_Powerplay.org][33010807-A_Week_in_Powerplay.org]]

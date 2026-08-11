@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       95e2f2d4-636d-4994-8b62-fda4cf2f872b
+:END:
+#+title: Dr Rameer
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040414-Pirates_vs_Thargoids_.org][33040414-Pirates_vs_Thargoids_.org]]

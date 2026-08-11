@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       deff5c71-05ff-466b-9979-e4dd59e80f59
+:END:
+#+title: Chu City
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050613-Evangeline’s_Elite_Expeditionary_Force_Appeal.org][33050613-Evangeline’s_Elite_Expeditionary_Force_Appeal.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0c27f942-265f-44d7-b091-59cd7b9c5c81
+:END:
+#+title: Cerberus Plague
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010714-Reports_of_the_Cerberus_Plague_beyond_BD-02_4304.org][33010714-Reports_of_the_Cerberus_Plague_beyond_BD-02_4304.org]]

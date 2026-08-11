@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       cfcdbd0f-1649-4e9a-865f-e009153f39ff
+:END:
+#+title: Masans Leaders
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030313-Galactic_News__Weekly_Economic_Report.org][33030313-Galactic_News__Weekly_Economic_Report.org]]

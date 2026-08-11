@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a8c4e109-fdb5-47a8-aee4-fc9e6500c61f
+:END:
+#+title: The Case Against
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090822-The_Case_Against_‘Calico_Zack’.org][33090822-The_Case_Against_‘Calico_Zack’.org]]

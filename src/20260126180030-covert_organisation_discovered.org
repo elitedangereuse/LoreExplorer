@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       007b6e0e-7cbe-4389-9642-7eea9d2e4488
+:END:
+#+title: Covert Organisation Discovered
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040505-Covert_Organisation_Discovered.org][33040505-Covert_Organisation_Discovered.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e86fb8ec-8cb2-4743-a1f3-978a4188595a
+:END:
+#+title: Nu Tauri Porges Horizons
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040823-Starport_Status_Update.org][33040823-Starport_Status_Update.org]]

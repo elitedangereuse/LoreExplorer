@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       46efd187-9b0f-4d35-9e13-6a5c33b2bea8
+:END:
+#+title: Human Rights
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010702-Mahon_speaks_out_on_Alliance_Values.org][33010702-Mahon_speaks_out_on_Alliance_Values.org]]

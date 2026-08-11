@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       02cfdcd8-a56f-4dc2-b3c4-8670f3bddbc8
+:END:
+#+title: Hutner Rescue Ship Seacole Rescue
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090907-Rescue_Megaships_Scheduled_to_Redeploy.org][33090907-Rescue_Megaships_Scheduled_to_Redeploy.org]]

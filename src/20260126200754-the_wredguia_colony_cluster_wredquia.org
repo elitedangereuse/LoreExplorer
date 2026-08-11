@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       134c82b6-208f-4a95-80b3-ec58f5d653cd
+:END:
+#+title: The Wredguia Colony Cluster Wredquia
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010312-Launching_the_Colonies.org][33010312-Launching_the_Colonies.org]]

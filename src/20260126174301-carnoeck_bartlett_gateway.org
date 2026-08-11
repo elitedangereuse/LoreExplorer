@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3561a2ca-dc05-4c6a-826a-394bf147ec07
+:END:
+#+title: Carnoeck Bartlett Gateway
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030214-Galactic_News__Starport_Status_Update.org][33030214-Galactic_News__Starport_Status_Update.org]]

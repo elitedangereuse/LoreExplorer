@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       066707ff-f3d3-411b-aa44-8bb5694614df
+:END:
+#+title: Mars High Astrocartography
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021007-Galactic_News__Exploration_or_Surveillance_.org][33021007-Galactic_News__Exploration_or_Surveillance_.org]]

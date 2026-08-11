@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       44de5b8b-0a3e-4cbb-b3de-a8d345a22356
+:END:
+#+title: Leading Scientist Expresses Doubts
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020122-Freelance_Report__Leading_Scientist_Expresses_Doubts.org][33020122-Freelance_Report__Leading_Scientist_Expresses_Doubts.org]]

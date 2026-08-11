@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2cec4b27-22a2-4cbc-b5e4-594aa2330757
+:END:
+#+title: Chancellor Anders Blaine's
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011002-Scandal_Rocks_Chancellor_Anders_Blaine.org][33011002-Scandal_Rocks_Chancellor_Anders_Blaine.org]]

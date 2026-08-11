@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8b165c50-9665-4933-b843-b83ce1af2dd2
+:END:
+#+title: Orishpucho Lalande
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020726-Galactic_News__Weekly_Security_Report.org][33020726-Galactic_News__Weekly_Security_Report.org]]

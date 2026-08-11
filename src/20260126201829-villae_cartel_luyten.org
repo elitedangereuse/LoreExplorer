@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b7ac7295-b493-4540-984f-4eafde85285f
+:END:
+#+title: Villae Cartel Luyten
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030708-Galactic_News__Weekly_Conflict_Report.org][33030708-Galactic_News__Weekly_Conflict_Report.org]]

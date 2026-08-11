@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e90ed2fa-93b7-4a3c-b676-514e8b5c9639
+:END:
+#+title: Alexandria Dock
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040712-Starport_Status_Update.org][33040712-Starport_Status_Update.org]]

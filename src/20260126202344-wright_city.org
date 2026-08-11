@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       94036a3e-4f19-43c2-835f-5fce26b05837
+:END:
+#+title: Wright City
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021110-Galactic_News__Anarchist_Organisation_Closes_Starport.org][33021110-Galactic_News__Anarchist_Organisation_Closes_Starport.org]]

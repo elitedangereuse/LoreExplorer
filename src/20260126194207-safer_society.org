@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       cb733b3a-dc56-42bd-a44a-e9fedecf0574
+:END:
+#+title: Safer Society
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010623-The_Science_of_a_Safer_Society.org][33010623-The_Science_of_a_Safer_Society.org]]

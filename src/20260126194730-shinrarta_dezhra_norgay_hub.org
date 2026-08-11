@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9d69d0f4-50f6-4ccc-a03a-263b237542c1
+:END:
+#+title: Shinrarta Dezhra Norgay Hub
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040712-Starport_Status_Update.org][33040712-Starport_Status_Update.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b99eaeb3-e545-4039-b8de-3457ae8245f5
+:END:
+#+title: Inc Kipgensi Industries Civil
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020105-GalNet_Weekly_Security_Digest.org][33020105-GalNet_Weekly_Security_Digest.org]]

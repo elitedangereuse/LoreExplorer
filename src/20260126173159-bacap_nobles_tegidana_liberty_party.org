@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       89647c24-b7f8-43e3-b2e1-72f3241ddf95
+:END:
+#+title: Bacap Nobles Tegidana Liberty Party
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011117-GalNet_Weekly_Security_Digest.org][33011117-GalNet_Weekly_Security_Digest.org]]

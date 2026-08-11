@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       75867f7c-eadc-4ae3-8a39-cae452017312
+:END:
+#+title: When Salvation
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080211-New_Thargoid_Assaults_in_Three_Systems.org][33080211-New_Thargoid_Assaults_in_Three_Systems.org]]

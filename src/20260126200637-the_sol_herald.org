@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       86dc8a81-2f93-4137-a4a3-7fe863d47233
+:END:
+#+title: The Sol Herald
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010402-Prism_Senator_Returns_to_Empire.org][33010402-Prism_Senator_Returns_to_Empire.org]]

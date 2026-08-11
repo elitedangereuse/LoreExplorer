@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6c0bb26a-e87e-434d-a168-ac544bb3e41d
+:END:
+#+title: Elder Works
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030221-Galactic_News__Starport_Status_Update.org][33030221-Galactic_News__Starport_Status_Update.org]]

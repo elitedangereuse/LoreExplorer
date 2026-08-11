@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f26b38ff-70e9-46a3-8943-f8636c4e75f9
+:END:
+#+title: Group CT Tucanae Boys Rata
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010714-GalNet_Weekly_Security_Digest.org][33010714-GalNet_Weekly_Security_Digest.org]]

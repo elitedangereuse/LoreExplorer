@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       fe07e75f-84d3-4fd3-b84c-5043aef395b4
+:END:
+#+title: Nourse Orbital
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010223-Lambda_Andromedae__Bringing_Data_Home.org][33010223-Lambda_Andromedae__Bringing_Data_Home.org]]

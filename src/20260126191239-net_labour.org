@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3884a82e-ca83-497e-88f1-646b1044ecbe
+:END:
+#+title: Net Labour
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020725-Galactic_News__Weekly_Economic_Report.org][33020725-Galactic_News__Weekly_Economic_Report.org]]

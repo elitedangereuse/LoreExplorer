@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7cf6c680-346e-4f1d-90d2-ed61fac3ca8e
+:END:
+#+title: Dr Casimir
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/Week in Review/33050210-Week_in_Review.org][33050210-Week_in_Review.org]]

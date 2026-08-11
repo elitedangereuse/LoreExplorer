@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c4874fd3-9911-4da7-a444-2efa748fa215
+:END:
+#+title: The Xenological Science Symposium
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3310/33101016-Thargoid_Titan_Wreckage_‘Could_Accelerate_Multiple_Scientific_Fields’.org][33101016-Thargoid_Titan_Wreckage_‘Could_Accelerate_Multiple_Scientific_Fields’.org]]

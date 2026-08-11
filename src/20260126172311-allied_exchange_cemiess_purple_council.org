@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       cb47e66f-3d53-49d6-a1a7-ec011905ec4b
+:END:
+#+title: Allied Exchange Cemiess Purple Council
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011222-GalNet_Weekly_Security_Digest.org][33011222-GalNet_Weekly_Security_Digest.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2fb7897c-394d-48bc-b381-e36b231f7eb0
+:END:
+#+title: Ax Yac Baru
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010717-A_Week_in_Powerplay.org][33010717-A_Week_in_Powerplay.org]]

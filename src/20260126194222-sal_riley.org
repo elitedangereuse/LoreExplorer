@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bb0d02f3-285b-45b9-a131-ef48172a8990
+:END:
+#+title: Sal Riley
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030818-Community_Goal__The_Sigma_Summit.org][33030818-Community_Goal__The_Sigma_Summit.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       677c2361-4ec6-458e-a10e-57076f3c5fff
+:END:
+#+title: Jet Legal Systems Pi Pavonis
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030817-Galactic_News__Weekly_Health_Report.org][33030817-Galactic_News__Weekly_Health_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2594ea33-d63a-47c7-948e-9f4a202a80e6
+:END:
+#+title: The Leesti
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050803-Controversy_at_Film_Festival.org][33050803-Controversy_at_Film_Festival.org]]

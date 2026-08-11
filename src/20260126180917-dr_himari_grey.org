@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       276e605b-9a3d-48e2-aa86-a165b4f9d9ce
+:END:
+#+title: Dr Himari Grey
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33041214-Positive_Response_to_Vitadyne_Nanomeds.org][33041214-Positive_Response_to_Vitadyne_Nanomeds.org]]

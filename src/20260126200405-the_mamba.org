@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6c095b7e-dff4-4248-a5f6-b213cdc87083
+:END:
+#+title: The Mamba
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33041214-Week_in_Review.org][33041214-Week_in_Review.org]]

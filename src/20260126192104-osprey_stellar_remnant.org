@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bc6ef9d0-7238-49f3-bc16-12c61883e28c
+:END:
+#+title: Osprey Stellar Remnant
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030303-Freelance_Report__The_Mercury_Seven_Expedition.org][33030303-Freelance_Report__The_Mercury_Seven_Expedition.org]]

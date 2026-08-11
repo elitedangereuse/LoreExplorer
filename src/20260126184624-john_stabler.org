@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       00fbf2c3-8013-40f0-a79f-df3b64f0a99d
+:END:
+#+title: John Stabler
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020303-Community_Goal__Lave_Radio_Appeals_for_Blood_Crystals.org][33020303-Community_Goal__Lave_Radio_Appeals_for_Blood_Crystals.org]]

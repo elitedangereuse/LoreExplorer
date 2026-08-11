@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ddac869d-1383-4aa4-942c-a04924434c71
+:END:
+#+title: Naval Infantry
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010805-Morning_of_the_Wedding.org][33010805-Morning_of_the_Wedding.org]]

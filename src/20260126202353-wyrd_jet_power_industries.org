@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5caf4842-1f1d-4bd8-bf7e-323dfd2cf4f3
+:END:
+#+title: Wyrd Jet Power Industries
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33031006-Community_Goal__Third_Aegis_Initiative.org][33031006-Community_Goal__Third_Aegis_Initiative.org]]

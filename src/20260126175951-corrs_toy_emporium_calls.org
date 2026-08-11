@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       301c2a1c-dfbf-429e-8df8-31a4b17e9edf
+:END:
+#+title: Corrs Toy Emporium Calls
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33081215-Corrs_Toy_Emporium_Calls_for_Help.org][33081215-Corrs_Toy_Emporium_Calls_for_Help.org]]

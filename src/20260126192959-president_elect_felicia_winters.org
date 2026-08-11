@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       dc68de27-7327-4eb9-b6b1-0db0bb083001
+:END:
+#+title: President-Elect Felicia Winters
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3310/33100711-Deliver_Critical_Aid_for_the_Rhea_Disaster.org][33100711-Deliver_Critical_Aid_for_the_Rhea_Disaster.org]]

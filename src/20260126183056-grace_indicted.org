@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c2cb2548-f115-478d-a633-fe2db93fc633
+:END:
+#+title: Grace Indicted
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010427-Emperor’s_Grace_Indicted_in_Attack_on_Emperor.org][33010427-Emperor’s_Grace_Indicted_in_Attack_on_Emperor.org]]

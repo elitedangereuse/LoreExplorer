@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       863c9b23-85d0-4b04-bbe7-b2aed7d98739
+:END:
+#+title: Commander Cadoc
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010724-Operation_Davy_Jones_-_Frontline_report.org][33010724-Operation_Davy_Jones_-_Frontline_report.org]]

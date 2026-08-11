@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c84e8bf3-4ba9-49b8-b09c-d2dcf60e3166
+:END:
+#+title: Biatae Syndicate Wars
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011002-GalNet_Weekly_Conflict_Report.org][33011002-GalNet_Weekly_Conflict_Report.org]]

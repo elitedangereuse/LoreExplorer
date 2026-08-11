@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       03352f4b-1750-416d-b860-a41ec4505ff4
+:END:
+#+title: Commander TheHairyMob
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010826-Fuel_Rats_Complete_1,000th_Rescue.org][33010826-Fuel_Rats_Complete_1,000th_Rescue.org]]

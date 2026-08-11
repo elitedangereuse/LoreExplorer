@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       656bae0f-fa3e-40c1-9717-594b5f9e1830
+:END:
+#+title: Nathaniel Lopez
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33051011-Food_Shortages_Spark_Civil_Unrest.org][33051011-Food_Shortages_Spark_Civil_Unrest.org]]

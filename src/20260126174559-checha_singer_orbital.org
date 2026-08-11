@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e5e28b81-569c-4439-b69e-2cd2a56d5658
+:END:
+#+title: Checha Singer Orbital
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040720-Starport_Status_Update.org][33040720-Starport_Status_Update.org]]

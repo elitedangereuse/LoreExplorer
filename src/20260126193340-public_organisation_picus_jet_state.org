@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e295a41f-7e43-4397-8511-cff1935cd78f
+:END:
+#+title: Public Organisation Picus Jet State
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030903-Galactic_News__Weekly_Expansion_Report.org][33030903-Galactic_News__Weekly_Expansion_Report.org]]

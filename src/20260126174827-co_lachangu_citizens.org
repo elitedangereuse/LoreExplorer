@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3e062713-c1d9-4859-a2ef-d219a0f2e5ef
+:END:
+#+title: Co Lachangu Citizens
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030426-Galactic_News__Weekly_Security_Report.org][33030426-Galactic_News__Weekly_Security_Report.org]]

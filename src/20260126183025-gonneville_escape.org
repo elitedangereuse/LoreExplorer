@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d005cac7-9500-4e5e-ac19-49f2a2ec569f
+:END:
+#+title: Gonneville Escape
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040321-Starport_Status_Update.org][33040321-Starport_Status_Update.org]]

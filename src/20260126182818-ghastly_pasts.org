@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a25c2f8b-13c5-4727-ab57-ab09a64d4328
+:END:
+#+title: Ghastly Pasts
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33081102-Peace_with_the_Thargoids_.org][33081102-Peace_with_the_Thargoids_.org]]

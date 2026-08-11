@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ef9ec447-ecdb-440b-8b9c-7c287f939666
+:END:
+#+title: Dr Maximo Fonseca
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090206-Mahon__‘Alliance_Will_Support_Aegis’.org][33090206-Mahon__‘Alliance_Will_Support_Aegis’.org]]

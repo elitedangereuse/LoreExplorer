@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       52ba682e-454f-4d19-a59f-3e81319686a0
+:END:
+#+title: Moore Hub
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070722-Initiative_to_Outfit_Far_God_Megaships.org][33070722-Initiative_to_Outfit_Far_God_Megaships.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bece9d50-0fee-44e6-99a1-bf3ef69ab076
+:END:
+#+title: Bodedi Factions
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030702-Galactic_News__Weekly_Expansion_Report.org][33030702-Galactic_News__Weekly_Expansion_Report.org]]

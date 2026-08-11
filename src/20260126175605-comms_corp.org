@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9ba1e9e9-fecd-4d46-88a1-c6170f0dd5b7
+:END:
+#+title: Comms Corp
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021021-Galactic_News__Weekly_Conflict_Report.org][33021021-Galactic_News__Weekly_Conflict_Report.org]]

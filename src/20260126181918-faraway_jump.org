@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8e2acd6b-b0e6-4023-9f58-ba462ab12e01
+:END:
+#+title: Faraway Jump
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030107-Galactic_News__Hyperspace.org][33030107-Galactic_News__Hyperspace.org]]

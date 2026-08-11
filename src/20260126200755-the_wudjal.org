@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       353356bc-4c37-46eb-998d-d9e8b865dc82
+:END:
+#+title: The Wudjal
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010727-Federation_Secession_Crisis.org][33010727-Federation_Secession_Crisis.org]]

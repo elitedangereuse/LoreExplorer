@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       88b0b2dc-7786-4329-9589-c2186a7fbdf3
+:END:
+#+title: The Witch
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080603-Aegis__‘Arrest_Salvation_for_Murder’.org][33080603-Aegis__‘Arrest_Salvation_for_Murder’.org]]

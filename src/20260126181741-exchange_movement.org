@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       146816c3-0be3-4f0d-92ad-f2e440fcc96a
+:END:
+#+title: Exchange Movement
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021031-Galactic_News__Weekly_Economic_Report.org][33021031-Galactic_News__Weekly_Economic_Report.org]]

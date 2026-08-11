@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       20d5b5a8-8f59-462e-bbe0-e39e01b20b12
+:END:
+#+title: Veroklist Walker Port
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040523-Starport_Status_Update.org][33040523-Starport_Status_Update.org]]

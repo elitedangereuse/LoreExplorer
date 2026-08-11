@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2b6d18ac-1b39-4e1c-ba16-a0dd458b1195
+:END:
+#+title: Grand Slave Sale
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010716-Grand_Slave_Sale_in_Carns_Ends.org][33010716-Grand_Slave_Sale_in_Carns_Ends.org]]

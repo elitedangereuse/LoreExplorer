@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4a53fed3-a957-4b13-b9d5-d71c1e324f03
+:END:
+#+title: Eskridge Mine
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040425-Starport_Status_Update.org][33040425-Starport_Status_Update.org]]

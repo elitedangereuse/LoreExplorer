@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1e534521-da63-4759-be12-46b9c3eb3e64
+:END:
+#+title: Atroan Gabriel Enterprise
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030314-Galactic_News__Starport_Status_Update.org][33030314-Galactic_News__Starport_Status_Update.org]]

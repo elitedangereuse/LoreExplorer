@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4b76c181-d859-473a-ab52-d8334202d3bb
+:END:
+#+title: Dr Lorax Speaks
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020225-Freelance_Report__Dr_Lorax_Speaks_for_the_Barnacles.org][33020225-Freelance_Report__Dr_Lorax_Speaks_for_the_Barnacles.org]]

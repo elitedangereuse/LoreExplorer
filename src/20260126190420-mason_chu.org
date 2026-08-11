@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4ebdf6b3-939e-4db1-a613-889b3660eeff
+:END:
+#+title: Mason Chu
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33051026-In_the_Shadow_of_the_Blight.org][33051026-In_the_Shadow_of_the_Blight.org]]

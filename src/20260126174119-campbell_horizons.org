@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d6164c8f-cf92-43be-a98e-8428a975199d
+:END:
+#+title: Campbell Horizons
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030721-Community_Goal__Pleiades_Research_Outpost.org][33030721-Community_Goal__Pleiades_Research_Outpost.org]]

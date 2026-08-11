@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ec4e2435-5815-47c7-a3d0-9d4fdba0eb03
+:END:
+#+title: Tatters Legate Andariel
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010803-A_Treaty_in_Tatters.org][33010803-A_Treaty_in_Tatters.org]]

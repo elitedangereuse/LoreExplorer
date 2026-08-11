@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c72c83c5-7045-4fb3-a64a-f8fcc270e3c1
+:END:
+#+title: Nican The
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030221-Galactic_News__Starport_Status_Update.org][33030221-Galactic_News__Starport_Status_Update.org]]

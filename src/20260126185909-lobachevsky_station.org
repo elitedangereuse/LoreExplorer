@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       44c6a4cb-2131-47b0-b16d-2e415cb4503e
+:END:
+#+title: Lobachevsky Station
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010606-A_Vision_of_the_Future.org][33010606-A_Vision_of_the_Future.org]]

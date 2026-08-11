@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       54bf4299-a30c-4db6-bf11-979ee13ca35d
+:END:
+#+title: Second Wildcard Event
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020616-Galactic_News__EG_Pilots_Triumph_in_Second_Wildcard_Event.org][33020616-Galactic_News__EG_Pilots_Triumph_in_Second_Wildcard_Event.org]]

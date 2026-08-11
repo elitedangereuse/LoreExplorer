@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b5af56bf-b64f-4731-8a77-6c7f7a6c1b26
+:END:
+#+title: Group Mariyacoch
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010911-GalNet_Weekly_Conflict_Report.org][33010911-GalNet_Weekly_Conflict_Report.org]]

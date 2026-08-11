@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       84e42762-b3e9-462e-ae2c-712736242800
+:END:
+#+title: GalNet News Correspondent
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010522-Pilot_Breaks_Galactic_Record_Twice.org][33010522-Pilot_Breaks_Galactic_Record_Twice.org]]

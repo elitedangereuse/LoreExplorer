@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9aed6be0-226c-45c8-9206-15e2cb46f013
+:END:
+#+title: Commander Gan Utopian News Network
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020715-Freelance_Report__The_Silent_Arbiter.org][33020715-Freelance_Report__The_Silent_Arbiter.org]]

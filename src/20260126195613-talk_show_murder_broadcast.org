@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ccb1eacb-9cf4-4a65-ba6e-8b2d8f0d3648
+:END:
+#+title: Talk Show Murder Broadcast
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33081020-Talk_Show_Murder_Broadcast.org][33081020-Talk_Show_Murder_Broadcast.org]]

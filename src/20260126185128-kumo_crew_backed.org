@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       28a187b5-e65f-48a7-8bb7-a29247b0d867
+:END:
+#+title: Kumo Crew-backed
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011016-A_Week_in_Powerplay.org][33011016-A_Week_in_Powerplay.org]]

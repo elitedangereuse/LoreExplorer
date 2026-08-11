@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5cec064b-7b31-42fd-bdc0-6d9903aeb7a2
+:END:
+#+title: Jadlillke Civil
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011013-GalNet_Weekly_Security_Digest.org][33011013-GalNet_Weekly_Security_Digest.org]]

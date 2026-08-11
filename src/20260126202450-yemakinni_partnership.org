@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e12f7d61-351b-41b7-ad68-3531b6c4d9c9
+:END:
+#+title: Yemakinni Partnership
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030507-Galactic_News__Weekly_Expansion_Report.org][33030507-Galactic_News__Weekly_Expansion_Report.org]]

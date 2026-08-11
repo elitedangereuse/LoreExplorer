@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       cf30b182-ae4e-4553-a65d-819b9da70813
+:END:
+#+title: Caustic Sink Launcher Aids Maelstrom
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090302-Caustic_Sink_Launcher_Aids_Maelstrom_Exploration.org][33090302-Caustic_Sink_Launcher_Aids_Maelstrom_Exploration.org]]

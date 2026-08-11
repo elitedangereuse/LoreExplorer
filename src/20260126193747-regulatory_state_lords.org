@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       02c4e3be-5d69-4483-89fe-a9e326ab0d54
+:END:
+#+title: Regulatory State Lords
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020129-Galactic_News__Weekly_Conflict_Report.org][33020129-Galactic_News__Weekly_Conflict_Report.org]]

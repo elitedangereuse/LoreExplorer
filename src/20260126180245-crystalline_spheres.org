@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1c006e17-5762-4217-91e7-dab9620415e0
+:END:
+#+title: Crystalline Spheres
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011217-Faction_Issues_Festive_Request.org][33011217-Faction_Issues_Festive_Request.org]]

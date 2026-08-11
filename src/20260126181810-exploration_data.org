@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c69a3b80-086c-4a76-bdc9-e872ef90a02f
+:END:
+#+title: Exploration Data
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010828-Imperial_Internal_Security_Service_Requests_Exploration_Data.org][33010828-Imperial_Internal_Security_Service_Requests_Exploration_Data.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b809301f-0944-47e6-9c4b-ed746ff3ae83
+:END:
+#+title: Farragut-class Battlecruisers
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020711-Galactic_News__Federal_Campaign_Resumes.org][33020711-Galactic_News__Federal_Campaign_Resumes.org]]

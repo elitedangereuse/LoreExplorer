@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       db325f89-8384-48b7-b717-a44ca3eb071e
+:END:
+#+title: Admiral Lucius Lavigny
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011105-Duelling_Narratives_in_Cayutorme_Conflict.org][33011105-Duelling_Narratives_in_Cayutorme_Conflict.org]]

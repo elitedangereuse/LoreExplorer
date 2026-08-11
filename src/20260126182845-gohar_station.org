@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2936e2ac-ddd7-4b79-ab23-39746db3539b
+:END:
+#+title: Gohar Station
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020630-Community_Goal__The_Rise_to_Power_Begins.org][33020630-Community_Goal__The_Rise_to_Power_Begins.org]]

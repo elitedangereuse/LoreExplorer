@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       57a3e73a-dcf1-43b8-9e1c-bfff606acca5
+:END:
+#+title: Naval Academy Graduates
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010711-Naval_Academy_Graduates_join__Operation_Davy_Jones__in_the_Pegasi_Sector.org][33010711-Naval_Academy_Graduates_join__Operation_Davy_Jones__in_the_Pegasi_Sector.org]]

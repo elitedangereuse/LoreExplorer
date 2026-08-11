@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       102fc0bb-11a0-400a-bb69-7545be9cb58f
+:END:
+#+title: Councillor Nakato Kaine
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33061224-Alliance_Shelters_New_Marlinist_Refugees.org][33061224-Alliance_Shelters_New_Marlinist_Refugees.org]]

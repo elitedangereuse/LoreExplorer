@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       efdc51ba-af44-4918-ab41-025981b61987
+:END:
+#+title: Industrial Materials
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010421-Eotienses_Rejuvenation_Project_Unveiled.org][33010421-Eotienses_Rejuvenation_Project_Unveiled.org]]

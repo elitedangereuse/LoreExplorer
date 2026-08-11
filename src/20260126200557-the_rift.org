@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       979b41ad-4c61-4e1d-a2b5-105d01da0a1b
+:END:
+#+title: The Rift
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020823-Freelance_Report__Commander_Salomé_Hijacked_in_Cemiess.org][33020823-Freelance_Report__Commander_Salomé_Hijacked_in_Cemiess.org]]

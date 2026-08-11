@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0a35c1a5-be6b-4dbb-81bf-27b0fbc9f99d
+:END:
+#+title: Limited Confederation
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011114-GalNet_Weekly_Expansion_List.org][33011114-GalNet_Weekly_Expansion_List.org]]

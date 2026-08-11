@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3c29045a-2c2a-4a5e-b139-05f01bd1765e
+:END:
+#+title: New Pathogen
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33051023-Blight_Mutates_into_New_Pathogen.org][33051023-Blight_Mutates_into_New_Pathogen.org]]

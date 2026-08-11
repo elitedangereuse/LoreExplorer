@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       cf015e0e-998c-40f9-b353-68fb111530d7
+:END:
+#+title: Bosch Station
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080714-Support_Federal_Strike_Against_Crime_Syndicate.org][33080714-Support_Federal_Strike_Against_Crime_Syndicate.org]]

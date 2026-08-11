@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       913fe72d-c975-412e-8eb2-64917f6d5874
+:END:
+#+title: Green Party HR
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010731-GalNet_Weekly_Conflict_Report.org][33010731-GalNet_Weekly_Conflict_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       395484e5-9da8-4800-8f67-2f4450c6926f
+:END:
+#+title: Co Elections
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020324-Galactic_News__Weekly_Democracy_Report.org][33020324-Galactic_News__Weekly_Democracy_Report.org]]

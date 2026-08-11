@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       08281a0a-70a4-43af-8e3b-e4bdc8653945
+:END:
+#+title: Abres The
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010706-Open_Osmium_Contract_in_Abres.org][33010706-Open_Osmium_Contract_in_Abres.org]]

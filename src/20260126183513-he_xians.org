@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5a1afa7e-d413-4662-b748-1873115d7caa
+:END:
+#+title: He Xians
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010724-A_Week_in_Powerplay.org][33010724-A_Week_in_Powerplay.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a11b9b07-fb7c-47c8-8a0d-3a36548bf485
+:END:
+#+title: The Golconda Resurrection
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080531-The_Golconda_Resurrection.org][33080531-The_Golconda_Resurrection.org]]

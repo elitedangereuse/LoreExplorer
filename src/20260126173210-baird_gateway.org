@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8dacb2f2-e403-4a9e-9458-f1ba913ccfb0
+:END:
+#+title: Baird Gateway
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080609-Thargoid_Research_Project_Phase_Two_Begins.org][33080609-Thargoid_Research_Project_Phase_Two_Begins.org]]

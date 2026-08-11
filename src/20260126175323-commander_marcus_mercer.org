@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       247ef768-862c-4e05-89ff-9f7890c63a2d
+:END:
+#+title: Commander Marcus Mercer
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080815-Rumours_Arise_of_New_Alien_Artefacts.org][33080815-Rumours_Arise_of_New_Alien_Artefacts.org]]

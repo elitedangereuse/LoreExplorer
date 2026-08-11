@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6b47473f-e5e4-4f35-968b-811b7cc28dc7
+:END:
+#+title: Bauschinger City
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020714-Community_Goal__Searching_for_Barnacles.org][33020714-Community_Goal__Searching_for_Barnacles.org]]

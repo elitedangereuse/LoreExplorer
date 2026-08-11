@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       76b3091e-67ab-447f-8832-779ecb79fb8e
+:END:
+#+title: Agent Ramirez
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040608-INRA_Descendant_Murdered.org][33040608-INRA_Descendant_Murdered.org]]

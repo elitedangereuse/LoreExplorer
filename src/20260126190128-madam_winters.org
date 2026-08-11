@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       854f18c6-ea15-4137-bfa1-780dd12b8b56
+:END:
+#+title: Madam Winters
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010513-President_Halsey_Sets_Out_from_Sol.org][33010513-President_Halsey_Sets_Out_from_Sol.org]]

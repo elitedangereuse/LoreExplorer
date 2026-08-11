@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       972f0a05-a6ae-4936-831c-1f1a66c180b3
+:END:
+#+title: Military Strike Against Marlinist Faction
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33061008-Military_Strike_Against_Marlinist_Faction.org][33061008-Military_Strike_Against_Marlinist_Faction.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       73f7e7d3-2615-48ba-9cae-393cc9146c7e
+:END:
+#+title: Rind Wollheim Vision
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040418-Starport_Status_Update.org][33040418-Starport_Status_Update.org]]

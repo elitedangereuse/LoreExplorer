@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7c0bfc76-05a8-47f6-a754-db5cbd800065
+:END:
+#+title: Ambassador Delphine Dumont
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070917-Delta_Pavonis_Hosts_Political_Conference.org][33070917-Delta_Pavonis_Hosts_Political_Conference.org]]

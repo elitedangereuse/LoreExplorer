@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7213b43b-8f7a-4be2-83a3-c1c93c38573e
+:END:
+#+title: Cartier City
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090713-Deliver_Rarities_for_Azimuth_Event.org][33090713-Deliver_Rarities_for_Azimuth_Event.org]]

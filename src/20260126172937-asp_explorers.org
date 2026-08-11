@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bbbf8c0b-5be1-4d57-961e-75ed857fee5b
+:END:
+#+title: Asp Explorers
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020701-Freelance_Report__The_Jaques_Rescue_Mission.org][33020701-Freelance_Report__The_Jaques_Rescue_Mission.org]]

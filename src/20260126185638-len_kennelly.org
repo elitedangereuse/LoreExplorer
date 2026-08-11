@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3d2d52a6-3cc7-48a4-acf1-38f69d5287f5
+:END:
+#+title: Len Kennelly
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3310/33100213-Catastrophic_Earthquakes_Strike_Rhea_3.org][33100213-Catastrophic_Earthquakes_Strike_Rhea_3.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1f433d77-2503-43d7-adf8-9773d4f0eff2
+:END:
+#+title: The Alliance's
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020422-Powerplay__Weekly_Report.org][33020422-Powerplay__Weekly_Report.org]]

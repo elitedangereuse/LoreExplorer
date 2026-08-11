@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c8207ebc-6d7d-4151-85dc-57806c540a3d
+:END:
+#+title: Gryph Jones
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010317-Rebels_Declare_War_on_the_Federation_in_78_Ursae_Majoris.org][33010317-Rebels_Declare_War_on_the_Federation_in_78_Ursae_Majoris.org]]

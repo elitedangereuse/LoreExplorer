@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       62bd386c-f128-4c24-b2d1-7420493f628a
+:END:
+#+title: Energy Systems Workers
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010910-GalNet_Focus_on_Democracy.org][33010910-GalNet_Focus_on_Democracy.org]]

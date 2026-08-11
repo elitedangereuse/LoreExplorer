@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7ac10258-1b7e-4c86-bad0-23c7f565d69c
+:END:
+#+title: Zeessze Boom
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021121-Galactic_News__Weekly_Economic_Report.org][33021121-Galactic_News__Weekly_Economic_Report.org]]

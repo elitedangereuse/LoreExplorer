@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       857f909c-4a7d-401b-966d-1a733842e73f
+:END:
+#+title: Nantariates When
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030706-Galactic_News__Weekly_Health_Report.org][33030706-Galactic_News__Weekly_Health_Report.org]]

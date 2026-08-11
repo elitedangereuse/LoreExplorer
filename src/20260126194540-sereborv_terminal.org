@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       319b50bf-d9db-4f8b-b0f1-9f95c69c66db
+:END:
+#+title: Sereborv Terminal
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021201-Galactic_News__Exploration_Data_Appeals_Conclude.org][33021201-Galactic_News__Exploration_Data_Appeals_Conclude.org]]

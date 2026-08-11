@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8fc2eebe-e76c-4d62-bbc9-b27c49e274ab
+:END:
+#+title: Vox Galactica
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040912-The_XG_Project.org][33040912-The_XG_Project.org]]

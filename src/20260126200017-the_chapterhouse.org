@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       865be89a-3234-49a6-8d13-382107501765
+:END:
+#+title: The Chapterhouse
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030825-Community_Goal__The_Path_to_Colonia.org][33030825-Community_Goal__The_Path_to_Colonia.org]]

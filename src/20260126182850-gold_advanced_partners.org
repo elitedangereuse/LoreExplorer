@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       76baedb5-9fe5-4e4d-8ab3-311aaf179bc2
+:END:
+#+title: Gold Advanced Partners
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010309-The_Scars_of_War_in_Banki.org][33010309-The_Scars_of_War_in_Banki.org]]

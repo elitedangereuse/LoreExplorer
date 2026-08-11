@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       06988946-177e-420d-819f-4a6fa22e49d6
+:END:
+#+title: Vaucouleurs Vision
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040511-New_Prisoner_Facilities_in_Veroklist.org][33040511-New_Prisoner_Facilities_in_Veroklist.org]]

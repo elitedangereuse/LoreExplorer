@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c4e37eaa-b665-45a8-9066-30c40b8bb908
+:END:
+#+title: Commander Egg90
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010503-Hostage_Crisis_in_Eotienses_Turns_Bloody.org][33010503-Hostage_Crisis_in_Eotienses_Turns_Bloody.org]]

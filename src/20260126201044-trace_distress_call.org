@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ffda39a2-764c-4604-88d4-4a72e035dee2
+:END:
+#+title: Trace Distress Call
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070128-Request_for_Pilots_to_Trace_Distress_Call.org][33070128-Request_for_Pilots_to_Trace_Distress_Call.org]]

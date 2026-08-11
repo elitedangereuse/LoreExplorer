@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a03be330-d880-405f-8946-212f340d297b
+:END:
+#+title: The Biggest Party
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040427-The_Biggest_Party_of_3304.org][33040427-The_Biggest_Party_of_3304.org]]

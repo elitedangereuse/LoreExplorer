@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       08f8bd03-947e-44bd-9129-48a4112f432f
+:END:
+#+title: Dynasty Project
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030203-Galactic_News__Children_of_Raxxla_Release_Report.org][33030203-Galactic_News__Children_of_Raxxla_Release_Report.org]]

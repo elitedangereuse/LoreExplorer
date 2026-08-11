@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8823706a-609a-4cad-a4c1-60c5af2ec3ad
+:END:
+#+title: Gilya Collins Station
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040118-Starport_Status_Update.org][33040118-Starport_Status_Update.org]]

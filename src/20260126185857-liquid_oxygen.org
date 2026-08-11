@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5fbb2d7c-5b65-4da3-95f0-1c44a1610931
+:END:
+#+title: Liquid Oxygen
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080210-Colonia_Bridge_Project_Enters_Final_Phase.org][33080210-Colonia_Bridge_Project_Enters_Final_Phase.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e312cd61-7d99-4779-851e-3e56bf51ec91
+:END:
+#+title: Bonespire Publishing
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040705-Author_Begins_Interstellar_Book_Tour.org][33040705-Author_Begins_Interstellar_Book_Tour.org]]

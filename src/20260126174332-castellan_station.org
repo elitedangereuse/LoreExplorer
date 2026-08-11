@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6e441180-dcb8-4d7e-ade1-7387ec42aa91
+:END:
+#+title: Castellan Station
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33081115-Public_Unnerved_by_Palin_Announcement.org][33081115-Public_Unnerved_by_Palin_Announcement.org]]

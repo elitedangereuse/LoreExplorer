@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       053f8580-914d-4962-a9fb-9f480fbc99ee
+:END:
+#+title: Azimuth Initiative
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080701-Leaders_Respond_to_Azimuth_Initiative.org][33080701-Leaders_Respond_to_Azimuth_Initiative.org]]

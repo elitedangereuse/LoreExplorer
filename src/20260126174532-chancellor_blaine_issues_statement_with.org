@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       aa1e20d7-7bd2-432d-b1d1-24bc5687fd54
+:END:
+#+title: Chancellor Blaine Issues Statement With
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010807-Chancellor_Blaine_Issues_Statement.org][33010807-Chancellor_Blaine_Issues_Statement.org]]

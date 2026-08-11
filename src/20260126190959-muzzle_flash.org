@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d93ffde0-61ef-44c1-a9d5-69fda1a218d9
+:END:
+#+title: Muzzle Flash
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33091207-Spire_Shutdown_Confirms_Thargoid_Vulnerability.org][33091207-Spire_Shutdown_Confirms_Thargoid_Vulnerability.org]]

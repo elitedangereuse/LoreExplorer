@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       95bbbae4-eee8-4815-a779-de8ac21f9ad1
+:END:
+#+title: Pirigen Brotherhood
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030521-Galactic_News__Weekly_Expansion_Report.org][33030521-Galactic_News__Weekly_Expansion_Report.org]]

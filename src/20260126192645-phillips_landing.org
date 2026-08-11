@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       503f3034-1ab8-4d37-88c5-ffc3e5452b70
+:END:
+#+title: Phillips Landing
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010307-The_War_for_Falisci.org][33010307-The_War_for_Falisci.org]]

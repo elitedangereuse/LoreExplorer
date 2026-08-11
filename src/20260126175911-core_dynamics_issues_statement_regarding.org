@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bd65ad1d-7459-4056-a577-49776341e694
+:END:
+#+title: Core Dynamics Issues Statement Regarding
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010902-Core_Dynamics_Issues_Statement_Regarding_Recent_Controversy.org][33010902-Core_Dynamics_Issues_Statement_Regarding_Recent_Controversy.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       86f3085f-50e5-496a-8d2f-7eaa16db3ba4
+:END:
+#+title: New Appointment
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33041121-New_Appointment_to_Council_of_Admirals.org][33041121-New_Appointment_to_Council_of_Admirals.org]]

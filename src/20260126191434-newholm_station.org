@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f8740e77-eee0-4a75-a0d2-d56b1f782c94
+:END:
+#+title: Newholm Station
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010925-Sothis_Crystalline_Gold.org][33010925-Sothis_Crystalline_Gold.org]]

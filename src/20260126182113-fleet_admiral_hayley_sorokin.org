@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       dd98b2b0-5ed8-4dd1-8e2b-c035919da14e
+:END:
+#+title: Fleet Admiral Hayley Sorokin
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33041121-New_Appointment_to_Council_of_Admirals.org][33041121-New_Appointment_to_Council_of_Admirals.org]]

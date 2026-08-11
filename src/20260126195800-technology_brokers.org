@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       60a4826d-d87a-4ef8-923e-6c2d68c96494
+:END:
+#+title: Technology Brokers
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040407-New_Designs_from_Technology_Brokers.org][33040407-New_Designs_from_Technology_Brokers.org]]

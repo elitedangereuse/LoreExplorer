@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       911b44f6-d230-4b74-8f55-0e06bb0af394
+:END:
+#+title: Power Generators
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010508-Old_World_Resurgence_in_Diso.org][33010508-Old_World_Resurgence_in_Diso.org]]

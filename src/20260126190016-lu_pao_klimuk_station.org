@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7bb17b32-b9d6-41f7-b31f-88545713b782
+:END:
+#+title: Lu Pao Klimuk Station
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040620-Starport_Status_Update.org][33040620-Starport_Status_Update.org]]

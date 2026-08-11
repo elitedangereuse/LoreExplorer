@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c428c61b-748b-419a-8cd7-25d4856a32d1
+:END:
+#+title: The Azaleach Partnership
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020428-Community_Goal__Jasmina_Halsey_Appeals_for_Exploration_Data.org][33020428-Community_Goal__Jasmina_Halsey_Appeals_for_Exploration_Data.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7a0af4a8-519d-4273-8f88-31f9bfb56f7f
+:END:
+#+title: Purple Power Interstellar
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010327-Explorers_Needed_for_Alliance_Colonisation_Programme.org][33010327-Explorers_Needed_for_Alliance_Colonisation_Programme.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3f24fe9a-9018-450b-bc1b-b2313d6fe2fe
+:END:
+#+title: Watha Asgaa Svent
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010810-Pirates_Defeated_in_Bast.org][33010810-Pirates_Defeated_in_Bast.org]]

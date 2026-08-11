@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8f124a00-ad62-4cab-9f58-8e53890d3d83
+:END:
+#+title: The Orden
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010608-Orden_de_Comandantes_Imperiales_Capture_Kamocan_for_Princess.org][33010608-Orden_de_Comandantes_Imperiales_Capture_Kamocan_for_Princess.org]]

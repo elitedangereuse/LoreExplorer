@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       05b9b4fd-58d0-4aaf-9465-f07b1615a08e
+:END:
+#+title: Boe Orbital
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040321-Starport_Status_Update.org][33040321-Starport_Status_Update.org]]

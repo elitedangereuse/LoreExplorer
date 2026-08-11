@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7221f740-4460-42b5-a0cf-aef07461daf5
+:END:
+#+title: Lillith League Kokowar Group Timbarichs
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011020-GalNet_Weekly_Security_Digest.org][33011020-GalNet_Weekly_Security_Digest.org]]

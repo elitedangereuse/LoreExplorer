@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       74d9bc2f-19df-48e1-a965-1367d70300f8
+:END:
+#+title: Fleet Liaison
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050307-Distant_Worlds_Mining_Campaign.org][33050307-Distant_Worlds_Mining_Campaign.org]]

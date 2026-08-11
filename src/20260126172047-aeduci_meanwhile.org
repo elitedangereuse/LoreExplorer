@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a5873e8a-680a-451b-86c4-68b3b32ed4f4
+:END:
+#+title: Aeduci Meanwhile
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021114-Galactic_News__Starport_Status_Update.org][33021114-Galactic_News__Starport_Status_Update.org]]

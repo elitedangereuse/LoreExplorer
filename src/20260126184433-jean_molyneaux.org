@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       06d75ced-7591-478f-a670-e7be7338820e
+:END:
+#+title: Jean Molyneaux
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010518-Soontill_Relics_Test_Results_Queried.org][33010518-Soontill_Relics_Test_Results_Queried.org]]

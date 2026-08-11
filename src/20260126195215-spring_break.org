@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c7fb0c91-16a9-438c-bd26-407b3b8f067e
+:END:
+#+title: Spring Break
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020215-Freelance_Report__Buckyball_Racers_to_Chauffeur_Students.org][33020215-Freelance_Report__Buckyball_Racers_to_Chauffeur_Students.org]]

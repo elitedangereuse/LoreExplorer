@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       98cfb8a1-cc98-407d-89ed-99e68eb57067
+:END:
+#+title: His Grace
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010620-Blaine_Address_State_of_the_Emperor.org][33010620-Blaine_Address_State_of_the_Emperor.org]]

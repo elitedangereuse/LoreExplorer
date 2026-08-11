@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3f60dddc-fb0e-45d3-b840-6baf5ce53153
+:END:
+#+title: Admiral Henry Paul Atherton
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080429-The_Sanderlyn_Interviews_(Part_One).org][33080429-The_Sanderlyn_Interviews_(Part_One).org]]

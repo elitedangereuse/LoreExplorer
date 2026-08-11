@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6495c045-cc8b-4eca-8042-b9758ba4632a
+:END:
+#+title: Gutamaya Shipyards
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010806-Gutamaya_Shipyards_Reinstates_Restrictions.org][33010806-Gutamaya_Shipyards_Reinstates_Restrictions.org]]

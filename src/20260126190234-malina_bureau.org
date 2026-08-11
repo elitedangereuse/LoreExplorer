@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6e16dda0-691c-46dc-9f96-a0f5a2b609c9
+:END:
+#+title: Malina Bureau
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020823-Galactic_News__Weekly_Security_Report.org][33020823-Galactic_News__Weekly_Security_Report.org]]

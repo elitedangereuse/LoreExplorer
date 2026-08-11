@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       afab5750-f5cf-4b82-9f62-3b5ffeb3399a
+:END:
+#+title: Crimson Rats Civil
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011215-GalNet_Weekly_Security_Digest.org][33011215-GalNet_Weekly_Security_Digest.org]]

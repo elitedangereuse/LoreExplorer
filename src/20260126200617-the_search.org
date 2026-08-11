@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8b48b7c4-04f6-4f22-8e88-0051d64c15a0
+:END:
+#+title: The Search
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011222-The_Search_for_the_Antares.org][33011222-The_Search_for_the_Antares.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       872170f8-f9fa-42e8-a68b-bcf0f7e8d28a
+:END:
+#+title: Synthetic Fabrics
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040615-Refugee_Centre_Initiative.org][33040615-Refugee_Centre_Initiative.org]]

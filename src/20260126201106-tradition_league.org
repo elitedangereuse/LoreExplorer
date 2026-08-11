@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b0439358-1b94-4468-9d7b-7b4c958b37f9
+:END:
+#+title: Tradition League
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030426-Galactic_News__Weekly_Security_Report.org][33030426-Galactic_News__Weekly_Security_Report.org]]

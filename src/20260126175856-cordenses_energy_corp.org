@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       74babb30-1670-493e-b13b-90fd5a26c8cd
+:END:
+#+title: Cordenses Energy Corp
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020412-Galactic_News__Weekly_Security_Report.org][33020412-Galactic_News__Weekly_Security_Report.org]]

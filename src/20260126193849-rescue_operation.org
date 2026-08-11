@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3ba45de8-41ff-45cb-bd54-37875ee1fd2f
+:END:
+#+title: Rescue Operation
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33031103-Community_Goal__Rescue_Operation_in_the_Pleiades.org][33031103-Community_Goal__Rescue_Operation_in_the_Pleiades.org]]

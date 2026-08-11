@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e964140e-110f-4226-b441-4756b2bb842c
+:END:
+#+title: Type-10 Defender
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33031217-Galactic_News__Lakon_Announces_New_Ship.org][33031217-Galactic_News__Lakon_Announces_New_Ship.org]]

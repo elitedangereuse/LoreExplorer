@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       10a3c0bc-7296-496c-848d-1f8da9b3828b
+:END:
+#+title: The Alioth-based
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3310/33100620-Achilles_Aerospace_facility_targeted_by_malicious_agents.org][33100620-Achilles_Aerospace_facility_targeted_by_malicious_agents.org]]

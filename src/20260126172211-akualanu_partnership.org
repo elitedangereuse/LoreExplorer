@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4f6b7768-0878-4d41-a01a-ee2c2b30697f
+:END:
+#+title: Akualanu Partnership
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020301-Galactic_News__Weekly_Security_Digest.org][33020301-Galactic_News__Weekly_Security_Digest.org]]

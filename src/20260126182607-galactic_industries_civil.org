@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3d0a9bac-60ac-4f96-9aa9-38b00b03ddd2
+:END:
+#+title: Galactic Industries Civil
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021025-Galactic_News__Weekly_Security_Report.org][33021025-Galactic_News__Weekly_Security_Report.org]]

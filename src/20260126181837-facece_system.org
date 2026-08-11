@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6f3b22a0-e2d0-4116-8417-4124478a2891
+:END:
+#+title: Facece System
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020120-Empire_Ousted_from_Facece_System.org][33020120-Empire_Ousted_from_Facece_System.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4c09e495-4157-4d2a-b1c9-2d6f4010ae7f
+:END:
+#+title: Golden Stag
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33061021-Thargoid_Incursion_Repelled_in_Witch_Head_Enclave.org][33061021-Thargoid_Incursion_Repelled_in_Witch_Head_Enclave.org]]

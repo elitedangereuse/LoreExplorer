@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       be23b7df-d133-42c3-b6a1-f1dc654e8cf0
+:END:
+#+title: Advanced Dumbfire Launcher
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050523-Corporations_Clash_in_Guardian_Space.org][33050523-Corporations_Clash_in_Guardian_Space.org]]

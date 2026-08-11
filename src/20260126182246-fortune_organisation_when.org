@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e24c2305-e31d-471b-9946-74cc428b6988
+:END:
+#+title: Fortune Organisation When
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020725-Galactic_News__Weekly_Economic_Report.org][33020725-Galactic_News__Weekly_Economic_Report.org]]

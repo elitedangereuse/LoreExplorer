@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0ae2a31f-56f3-4235-a035-009f748aa57c
+:END:
+#+title: Walter Waldo
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021020-Community_Goal__The_Walter_Waldo_Appeal.org][33021020-Community_Goal__The_Walter_Waldo_Appeal.org]]

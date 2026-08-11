@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a3e15e75-71aa-4533-9d15-f80528cd5062
+:END:
+#+title: Energy Corp
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020104-GalNet_Weekly_Economic_Report.org][33020104-GalNet_Weekly_Economic_Report.org]]

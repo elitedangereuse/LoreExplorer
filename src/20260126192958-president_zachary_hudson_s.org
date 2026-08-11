@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ccfa716e-49dd-4737-b825-c19ae2fa2ec2
+:END:
+#+title: President Zachary Hudson's
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020513-Powerplay__Weekly_Report.org][33020513-Powerplay__Weekly_Report.org]]

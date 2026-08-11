@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       96584200-8a65-4d57-9d1e-deaee4c9b8a0
+:END:
+#+title: Houtman City
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021208-Restoring_Order_in_Aeternitas.org][33021208-Restoring_Order_in_Aeternitas.org]]

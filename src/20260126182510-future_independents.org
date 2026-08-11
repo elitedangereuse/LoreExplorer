@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4f0f8e3d-a7cf-4269-804c-1b4ebc71b1fe
+:END:
+#+title: Future Independents
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030716-Galactic_News__Weekly_Expansion_Report.org][33030716-Galactic_News__Weekly_Expansion_Report.org]]

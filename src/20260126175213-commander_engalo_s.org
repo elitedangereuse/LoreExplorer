@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       da87d31c-a06e-496c-998d-10d88232f834
+:END:
+#+title: Commander Engalo's
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020404-Freelance_Report__Firefly_Fandango_Theory_Disproven.org][33020404-Freelance_Report__Firefly_Fandango_Theory_Disproven.org]]

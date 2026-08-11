@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9662e9d9-70bc-409b-80d0-54b422d40ceb
+:END:
+#+title: Shield Sale
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010531-78_Ursae_Majoris_Celebrates_Security_with_Shield_Sale.org][33010531-78_Ursae_Majoris_Celebrates_Security_with_Shield_Sale.org]]

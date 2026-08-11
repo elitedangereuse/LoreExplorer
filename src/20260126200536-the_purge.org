@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       eac44035-0b83-443d-b2fa-7f77b3ded202
+:END:
+#+title: The Purge
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040316-The_Purge_of_Socho.org][33040316-The_Purge_of_Socho.org]]

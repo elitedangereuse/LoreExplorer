@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d3c902ca-c0e9-4e23-966b-57088a5dd94e
+:END:
+#+title: Gold Family HR
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010803-GalNet_Weekly_Economic_Report.org][33010803-GalNet_Weekly_Economic_Report.org]]

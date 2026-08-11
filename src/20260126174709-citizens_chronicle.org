@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       50a8e6bd-0c49-44ba-a12c-19ca788cdd46
+:END:
+#+title: Citizens Chronicle
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33091114-Concerns_Raised_over_Titan_Returnees.org][33091114-Concerns_Raised_over_Titan_Returnees.org]]

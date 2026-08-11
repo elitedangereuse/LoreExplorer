@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6a3c59b8-3ed8-4484-98f0-8835ba9bf079
+:END:
+#+title: Network Aulin Silver United Company
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020802-Galactic_News__Weekly_Security_Report.org][33020802-Galactic_News__Weekly_Security_Report.org]]

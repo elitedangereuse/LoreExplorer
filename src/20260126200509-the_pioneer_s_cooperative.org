@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       663607bf-7b76-4618-95d8-47cb632c64f8
+:END:
+#+title: The Pioneer's Cooperative
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020324-Community_Goal__Neutralising_the_Unknown_Artefact_Threat.org][33020324-Community_Goal__Neutralising_the_Unknown_Artefact_Threat.org]]

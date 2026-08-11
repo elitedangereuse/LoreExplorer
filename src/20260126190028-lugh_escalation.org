@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       964ad7cd-76a2-40de-878d-42c811158b1a
+:END:
+#+title: Lugh Escalation
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010324-Late_Night_Session_Held_Over_Lugh_Escalation.org][33010324-Late_Night_Session_Held_Over_Lugh_Escalation.org]]

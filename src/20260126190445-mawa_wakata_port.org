@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       11735312-00f6-4d55-bf0f-9d7d9331b3b8
+:END:
+#+title: Mawa Wakata Port
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040815-Starport_Status_Update.org][33040815-Starport_Status_Update.org]]

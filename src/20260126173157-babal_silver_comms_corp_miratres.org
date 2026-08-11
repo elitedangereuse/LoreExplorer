@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8fb8c342-7a6a-4117-8c9f-37ae338508b6
+:END:
+#+title: Babal Silver Comms Corp Miratres
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011211-GalNet_Weekly_Conflict_Report.org][33011211-GalNet_Weekly_Conflict_Report.org]]

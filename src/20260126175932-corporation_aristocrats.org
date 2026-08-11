@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a3c0ffa3-2fc5-4f9b-9939-9774212a7b8c
+:END:
+#+title: Corporation Aristocrats
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020307-Galactic_News__Weekly_Economic_Report.org][33020307-Galactic_News__Weekly_Economic_Report.org]]

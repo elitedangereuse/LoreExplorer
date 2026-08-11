@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9bb6b734-48c4-4825-bcfe-82748559c2e4
+:END:
+#+title: Saga Republic Party
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010526-President_Misses_Meeting.org][33010526-President_Misses_Meeting.org]]

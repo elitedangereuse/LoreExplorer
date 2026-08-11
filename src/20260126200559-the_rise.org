@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bc329b0d-f2fb-4e8e-be99-0f71313a8a17
+:END:
+#+title: The Rise
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020630-Community_Goal__The_Rise_to_Power_Begins.org][33020630-Community_Goal__The_Rise_to_Power_Begins.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       167eb7d4-adbe-4edd-8540-021205952ca8
+:END:
+#+title: Tax Reduction
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010311-Federal_Military_Lobby_for_Tax_Reduction_on_Private_Pilots.org][33010311-Federal_Military_Lobby_for_Tax_Reduction_on_Private_Pilots.org]]

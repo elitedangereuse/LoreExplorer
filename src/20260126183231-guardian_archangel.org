@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       09be1d27-b414-4050-87ec-f30b230ad7e8
+:END:
+#+title: Guardian Archangel
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021126-Freelance_Report__Guardian_Archangel.org][33021126-Freelance_Report__Guardian_Archangel.org]]

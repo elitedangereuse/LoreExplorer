@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a84cb2d4-c4ac-4aa8-9635-f548bae34585
+:END:
+#+title: Acheron Interface
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3310/33100815-Pranav_Antal_Announces_Successful_Research_Campaign.org][33100815-Pranav_Antal_Announces_Successful_Research_Campaign.org]]

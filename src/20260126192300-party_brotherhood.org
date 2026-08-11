@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       41053ad0-cd60-4714-8af2-3c3758212059
+:END:
+#+title: Party Brotherhood
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011023-GalNet_Weekly_Conflict_Report.org][33011023-GalNet_Weekly_Conflict_Report.org]]

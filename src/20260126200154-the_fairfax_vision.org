@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       55bf6326-d71d-43c0-94b0-3419e1532e2f
+:END:
+#+title: The Fairfax Vision
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33071216-NMLA_Megaship_Becomes_Marlinist_Flagship.org][33071216-NMLA_Megaship_Becomes_Marlinist_Flagship.org]]

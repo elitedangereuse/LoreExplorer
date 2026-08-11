@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       15d7411c-0f07-40c2-8ab2-aeaefb1f1423
+:END:
+#+title: The Last Mothership
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3310/33101025-Thargoid_War_Bulletin__The_Last_Mothership.org][33101025-Thargoid_War_Bulletin__The_Last_Mothership.org]]

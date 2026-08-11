@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5ae2b919-c43f-468d-979b-724fb3e752b3
+:END:
+#+title: Ban Far God Book
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33041219-Call_to_Ban_Far_God_Book.org][33041219-Call_to_Ban_Far_God_Book.org]]

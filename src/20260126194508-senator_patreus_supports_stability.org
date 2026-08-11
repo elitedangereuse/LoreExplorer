@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1cf45cdf-14e8-4932-905c-992936e63c8d
+:END:
+#+title: Senator Patreus Supports Stability
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010730-Senator_Patreus_Supports_Stability.org][33010730-Senator_Patreus_Supports_Stability.org]]

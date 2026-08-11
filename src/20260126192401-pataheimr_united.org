@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8eee004d-fa34-4cd9-b99f-1648da15555f
+:END:
+#+title: Pataheimr United
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020625-Galactic_News__Weekly_Expansion_Report.org][33020625-Galactic_News__Weekly_Expansion_Report.org]]

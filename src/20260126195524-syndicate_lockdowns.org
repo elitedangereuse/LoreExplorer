@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       376a6306-d547-420f-9ecb-164823cb4138
+:END:
+#+title: Syndicate Lockdowns
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020119-GalNet_Weekly_Security_Digest.org][33020119-GalNet_Weekly_Security_Digest.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       490e5764-3add-42ef-8227-5e94412ffd67
+:END:
+#+title: Basuki An Spring Gateway
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021020-Galactic_News__Starport_Status_Update.org][33021020-Galactic_News__Starport_Status_Update.org]]

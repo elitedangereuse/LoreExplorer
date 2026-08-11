@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       04766eba-4d7a-4707-9c5d-998d77322670
+:END:
+#+title: Services Workers
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021007-Galactic_News__Weekly_Conflict_Report.org][33021007-Galactic_News__Weekly_Conflict_Report.org]]

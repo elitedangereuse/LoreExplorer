@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c1c92a65-7b57-407b-8f69-e8380d93711d
+:END:
+#+title: The Sim-Archive
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010801-The_Sim-Archive_of_Antal_Opens_to_Visitors.org][33010801-The_Sim-Archive_of_Antal_Opens_to_Visitors.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       491434b8-0dd1-45ff-8ad7-a5f8abd5c475
+:END:
+#+title: Dionysus-class Agricultural Vessel
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33031215-Community_Goal__Panum_Pisciumque.org][33031215-Community_Goal__Panum_Pisciumque.org]]

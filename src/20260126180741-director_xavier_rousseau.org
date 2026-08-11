@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       45e0136b-04cf-4f18-aaaf-dc1ae67e8c63
+:END:
+#+title: Director Xavier Rousseau
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090609-Azimuth_Refocuses_on_Titan_Research.org][33090609-Azimuth_Refocuses_on_Titan_Research.org]]

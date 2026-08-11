@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a90ec9af-c483-4307-a6e4-d441658f07a4
+:END:
+#+title: The Admiral
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010215-Banki_and_BD+03_2338_-_Over_by_Breakfast!.org][33010215-Banki_and_BD+03_2338_-_Over_by_Breakfast!.org]]

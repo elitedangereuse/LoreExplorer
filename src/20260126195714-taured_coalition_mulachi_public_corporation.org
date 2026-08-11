@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3bc3e698-0a8f-4757-b6c8-fae2d0bd84ac
+:END:
+#+title: Taured Coalition Mulachi Public Corporation
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020119-GalNet_Weekly_Security_Digest.org][33020119-GalNet_Weekly_Security_Digest.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c593773a-49df-4248-95e8-4433eb2034dd
+:END:
+#+title: Computing Commodities
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040920-Appeal_for_Computing_Commodities.org][33040920-Appeal_for_Computing_Commodities.org]]

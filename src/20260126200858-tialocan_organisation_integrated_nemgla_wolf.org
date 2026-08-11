@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       37a47917-99f3-4c6b-a3c0-1b8ba345c90f
+:END:
+#+title: Tialocan Organisation Integrated Nemgla Wolf
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020712-Galactic_News__Weekly_Security_Report.org][33020712-Galactic_News__Weekly_Security_Report.org]]

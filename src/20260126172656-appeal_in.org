@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b4e9f7c6-1e12-476c-b7c5-69cc6d6fbcba
+:END:
+#+title: Appeal In
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010918-Imperial_Internal_Security_Service_Issues_another_Appeal.org][33010918-Imperial_Internal_Security_Service_Issues_another_Appeal.org]]

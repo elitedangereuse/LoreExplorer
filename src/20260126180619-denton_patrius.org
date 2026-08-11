@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0bec5868-5f51-4e23-8db0-beebca58871e
+:END:
+#+title: Denton Patrius
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010812-Apalar_System_Calls_for_Aid.org][33010812-Apalar_System_Calls_for_Aid.org]]

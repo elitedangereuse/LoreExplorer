@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2c4c319e-4e75-40fa-bcd7-ad15c659e37a
+:END:
+#+title: Operation Davy Jones The Stratis
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010825-Report_Raises_Concerns_about_Operation_Davy_Jones.org][33010825-Report_Raises_Concerns_about_Operation_Davy_Jones.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c68e87a2-fea7-4854-9a54-49839d795262
+:END:
+#+title: Bogatiku Hernandez Dock
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33031122-Galactic_News__Starport_Status_Update.org][33031122-Galactic_News__Starport_Status_Update.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c11d393d-10ec-4cfc-a335-3d948dfb94a7
+:END:
+#+title: Emerald Security
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010221-Crackdown_in_Cemiess.org][33010221-Crackdown_in_Cemiess.org]]

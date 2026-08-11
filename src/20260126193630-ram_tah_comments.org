@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       80a026e7-1f72-436c-8270-df032263777c
+:END:
+#+title: Ram Tah Comments
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030206-Galactic_News__Ram_Tah_Comments_on_New_Discoveries.org][33030206-Galactic_News__Ram_Tah_Comments_on_New_Discoveries.org]]

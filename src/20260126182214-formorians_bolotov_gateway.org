@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       868610f3-e8cd-4240-98f2-3ec99048c970
+:END:
+#+title: Formorians Bolotov Gateway
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030524-Galactic_News__Starport_Status_Update.org][33030524-Galactic_News__Starport_Status_Update.org]]

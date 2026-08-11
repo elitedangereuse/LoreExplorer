@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bdc7922f-3f3c-424a-bab3-1520ff532849
+:END:
+#+title: Kabiku Kubasov Station
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040815-Starport_Status_Update.org][33040815-Starport_Status_Update.org]]

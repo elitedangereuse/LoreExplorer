@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4d48d533-a716-4182-a1c5-b9fad8e4e666
+:END:
+#+title: Doctor Hans Walden
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010810-Where's_Walden_Now_.org][33010810-Where's_Walden_Now_.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bbb7e5f2-409d-4a0a-89c6-10eb8db8a753
+:END:
+#+title: Banki Gold Gang
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010309-The_Scars_of_War_in_Banki.org][33010309-The_Scars_of_War_in_Banki.org]]

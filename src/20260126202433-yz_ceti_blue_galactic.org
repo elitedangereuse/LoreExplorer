@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       94d2791d-1a90-4aa6-b919-6c7fb1f89745
+:END:
+#+title: YZ Ceti Blue Galactic
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3310/33100215-Guardian_Nanite_Torpedoes_Enter_Production.org][33100215-Guardian_Nanite_Torpedoes_Enter_Production.org]]

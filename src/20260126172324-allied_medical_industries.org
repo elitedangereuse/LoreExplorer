@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c1b6d23c-f9ca-4e15-996a-33f931c4d4d0
+:END:
+#+title: Allied Medical Industries
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33041205-Merger_Creates_Mega-Corporation.org][33041205-Merger_Creates_Mega-Corporation.org]]

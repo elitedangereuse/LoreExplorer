@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3f6c8c8d-e6a7-428e-b6d1-da2026a839c4
+:END:
+#+title: Mineral Extractors
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010228-GalNet_Galactic_Trade-Labour_Report.org][33010228-GalNet_Galactic_Trade-Labour_Report.org]]

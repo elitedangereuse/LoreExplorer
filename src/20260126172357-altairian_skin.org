@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       cf48e9b7-87aa-45dc-842a-5fcec4752b9b
+:END:
+#+title: Altairian Skin
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080519-Rackham’s_Lavish_Celebration_Concludes.org][33080519-Rackham’s_Lavish_Celebration_Concludes.org]]

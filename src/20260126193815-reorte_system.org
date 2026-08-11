@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       55579d62-b719-4b6e-9760-db35eca39977
+:END:
+#+title: Reorte System
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080127-Conflict_Erupts_in_the_Reorte_System.org][33080127-Conflict_Erupts_in_the_Reorte_System.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       43b7c20b-38d6-43ec-b07b-536971cf7924
+:END:
+#+title: Nagii The
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021122-Galactic_News__Starport_Status_Update.org][33021122-Galactic_News__Starport_Status_Update.org]]

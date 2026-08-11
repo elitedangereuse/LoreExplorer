@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b9806ea4-1c2f-4964-9841-2c70959eae03
+:END:
+#+title: Interstellar Common Experience
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080815-Rumours_Arise_of_New_Alien_Artefacts.org][33080815-Rumours_Arise_of_New_Alien_Artefacts.org]]

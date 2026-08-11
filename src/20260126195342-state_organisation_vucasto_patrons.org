@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0f71c938-d70a-444a-add5-597fff3bae0a
+:END:
+#+title: State Organisation Vucasto Patrons
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020930-Galactic_News__Weekly_Conflict_Report.org][33020930-Galactic_News__Weekly_Conflict_Report.org]]

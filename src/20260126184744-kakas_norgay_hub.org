@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6856f21c-4f81-4b22-adf3-9d5ba35c80b0
+:END:
+#+title: Kakas Norgay Hub
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040706-Starport_Status_Update.org][33040706-Starport_Status_Update.org]]

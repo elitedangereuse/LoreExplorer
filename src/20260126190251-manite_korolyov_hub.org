@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f21a89ef-c640-4bc4-a55a-efef3aced154
+:END:
+#+title: Manite Korolyov Hub
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021129-Galactic_News__Starport_Status_Update.org][33021129-Galactic_News__Starport_Status_Update.org]]

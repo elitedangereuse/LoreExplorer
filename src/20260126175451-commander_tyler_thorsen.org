@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       70985008-64eb-4cb5-8df0-2459cfc5d010
+:END:
+#+title: Commander Tyler Thorsen
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070611-The_Legacy_of_the_Hesperus.org][33070611-The_Legacy_of_the_Hesperus.org]]

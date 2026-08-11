@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6f4ba769-948a-41b2-9088-ba15a933d4a3
+:END:
+#+title: That Zachary
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33071225--33-104.org][33071225--33-104.org]]

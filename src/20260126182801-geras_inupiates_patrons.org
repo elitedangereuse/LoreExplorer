@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       926b60f6-da43-4d17-946a-fd1e5d746115
+:END:
+#+title: Geras Inupiates Patrons
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030218-Galactic_News__Weekly_Expansion_Report.org][33030218-Galactic_News__Weekly_Expansion_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7b34555e-800a-4d05-b03c-dc830995bef5
+:END:
+#+title: Bruthanvan Co
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33051022-Militant_Group_Responsible_for_Blight.org][33051022-Militant_Group_Responsible_for_Blight.org]]

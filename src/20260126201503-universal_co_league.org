@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       31707f5d-f176-4172-983c-4c9fb4eb28b3
+:END:
+#+title: Universal Co League
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030618-Galactic_News__Weekly_Expansion_Report.org][33030618-Galactic_News__Weekly_Expansion_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c305e679-f594-4b87-946e-66c9ba810f62
+:END:
+#+title: Polevnic When
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020509-Galactic_News__Weekly_Economic_Report.org][33020509-Galactic_News__Weekly_Economic_Report.org]]

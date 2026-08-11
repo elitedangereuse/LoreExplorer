@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2f15b01e-a8e5-468c-ab65-b6c8564abd83
+:END:
+#+title: Independents Violent
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020513-Powerplay__Weekly_Report.org][33020513-Powerplay__Weekly_Report.org]]

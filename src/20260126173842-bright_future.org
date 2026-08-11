@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a5ed31f7-513b-4cd7-b069-ca4fe1868ab3
+:END:
+#+title: Bright Future
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021124-Galactic_News__A_Bright_Future_for_D'Arrest_Station.org][33021124-Galactic_News__A_Bright_Future_for_D'Arrest_Station.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       96d844ed-95ac-46ea-bc16-6c3913c61612
+:END:
+#+title: Holdings Mob
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030228-Galactic_News__Weekly_Security_Report.org][33030228-Galactic_News__Weekly_Security_Report.org]]

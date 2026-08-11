@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8746ab23-bff7-4e97-a15b-6d12b89206c1
+:END:
+#+title: Warm Trail Early
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010830-Cold_Ice,_Warm_Trail.org][33010830-Cold_Ice,_Warm_Trail.org]]

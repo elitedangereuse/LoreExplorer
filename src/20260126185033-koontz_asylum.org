@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b5d18ba1-1c7c-4d2d-a700-0561372abc86
+:END:
+#+title: Koontz Asylum
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021028-Galactic_News__Kahina_Loren_Found_Guilty.org][33021028-Galactic_News__Kahina_Loren_Found_Guilty.org]]

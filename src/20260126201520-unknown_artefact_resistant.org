@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bd10c4c2-3e88-4348-b288-88f46dbd6498
+:END:
+#+title: Unknown Artefact-resistant
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020401-Galactic_News__Concern_over_New_Ship_Modules.org][33020401-Galactic_News__Concern_over_New_Ship_Modules.org]]

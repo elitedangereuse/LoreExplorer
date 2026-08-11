@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0b081976-4468-4466-a995-0370081cd6f1
+:END:
+#+title: Electoral Reform Proposed
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070616-Electoral_Reform_Proposed_for_the_Alliance.org][33070616-Electoral_Reform_Proposed_for_the_Alliance.org]]

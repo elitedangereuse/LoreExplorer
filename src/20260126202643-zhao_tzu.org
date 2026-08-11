@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8d3bd3b1-9cc7-412e-b9c1-8adc39885423
+:END:
+#+title: Zhao Tzu
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020129-Powerplay__Weekly_Report.org][33020129-Powerplay__Weekly_Report.org]]

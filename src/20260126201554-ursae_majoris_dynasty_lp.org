@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3bbd93af-8b73-43c8-ae8e-07178fb4950f
+:END:
+#+title: Ursae Majoris Dynasty LP
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020308-Galactic_News__Weekly_Security_Digest.org][33020308-Galactic_News__Weekly_Security_Digest.org]]

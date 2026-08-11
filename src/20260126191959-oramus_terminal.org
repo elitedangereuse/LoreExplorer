@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d76d6d36-289c-4f4f-9a50-d934b5ddf731
+:END:
+#+title: Oramus Terminal
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33071118-Dredger_Deadlock_Inspires_Competing_Campaigns.org][33071118-Dredger_Deadlock_Inspires_Competing_Campaigns.org]]

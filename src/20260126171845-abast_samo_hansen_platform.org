@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a1cc7dbf-a3c7-45f0-afc4-261d1db2179d
+:END:
+#+title: Abast Samo Hansen Platform
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040523-Starport_Status_Update.org][33040523-Starport_Status_Update.org]]

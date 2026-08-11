@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a0efffdc-478e-4456-b165-14b5e7122f62
+:END:
+#+title: Bolotov Gateway
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030314-Galactic_News__Starport_Status_Update.org][33030314-Galactic_News__Starport_Status_Update.org]]

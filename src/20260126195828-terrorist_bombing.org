@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4988eccf-8b5a-4dc8-a79c-6393aaccf364
+:END:
+#+title: Terrorist Bombing
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33061119-Terrorist_Bombing_at_Federal_Starport.org][33061119-Terrorist_Bombing_at_Federal_Starport.org]]

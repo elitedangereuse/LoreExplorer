@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       88fb3071-926c-45b5-9f97-bb83d6088c20
+:END:
+#+title: Amber Somerset Station
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040925-Starport_Status_Update.org][33040925-Starport_Status_Update.org]]

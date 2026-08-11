@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b102fa58-49f1-495f-894b-42b23bd6e571
+:END:
+#+title: Rear Admiral
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040525-Commodore_McAllister_Appointed_to_Council_of_Admirals.org][33040525-Commodore_McAllister_Appointed_to_Council_of_Admirals.org]]

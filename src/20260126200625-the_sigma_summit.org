@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       003a15e7-4dd1-4991-8c58-9ada84f59690
+:END:
+#+title: The Sigma Summit
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030818-Community_Goal__The_Sigma_Summit.org][33030818-Community_Goal__The_Sigma_Summit.org]]

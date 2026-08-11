@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bcb6d3bb-2e3a-425e-adea-589d91ef1aa1
+:END:
+#+title: Epsilon Herculis Industry Vendelia Coalition
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011017-GalNet_Weekly_Expansion_List.org][33011017-GalNet_Weekly_Expansion_List.org]]

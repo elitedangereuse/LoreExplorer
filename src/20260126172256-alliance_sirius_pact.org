@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0db9617c-444e-41cd-bb1b-a8dc4a36ada8
+:END:
+#+title: Alliance-Sirius Pact
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080208-Concerns_Raised_over_Alliance-Sirius_Pact.org][33080208-Concerns_Raised_over_Alliance-Sirius_Pact.org]]

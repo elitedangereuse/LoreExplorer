@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       42dbe537-c602-4e37-aca0-141149074436
+:END:
+#+title: Pegasi Sector
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010514-Unrest_on_the_Frontier.org][33010514-Unrest_on_the_Frontier.org]]

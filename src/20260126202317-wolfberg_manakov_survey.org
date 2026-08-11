@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8f37ecd8-1b72-42ac-8ff6-265d2d145b72
+:END:
+#+title: Wolfberg Manakov Survey
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021114-Galactic_News__Starport_Status_Update.org][33021114-Galactic_News__Starport_Status_Update.org]]

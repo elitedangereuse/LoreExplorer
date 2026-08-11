@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1a7d6651-d600-4e88-b8bb-6f3efc96e312
+:END:
+#+title: Gotham Park
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020920-Galactic_News__Halsey_Shares_Her_Vision.org][33020920-Galactic_News__Halsey_Shares_Her_Vision.org]]

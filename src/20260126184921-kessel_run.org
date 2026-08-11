@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       70787f9a-9ca9-4ca5-8fc0-1eff352e3660
+:END:
+#+title: Kessel Run
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011026-Commemorative_Space_Race.org][33011026-Commemorative_Space_Race.org]]

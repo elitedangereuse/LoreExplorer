@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b056642d-2258-49eb-8dfe-2f58ea8d8c29
+:END:
+#+title: Market Value
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011116-Market_Value_of_Unknown_Artefacts_Increases.org][33011116-Market_Value_of_Unknown_Artefacts_Increases.org]]

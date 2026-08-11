@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9436a444-792b-403e-97de-2199a17fbc92
+:END:
+#+title: Thompson Dock
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011126-CIRG_Sends_Scientists_to_Bond_Hub.org][33011126-CIRG_Sends_Scientists_to_Bond_Hub.org]]

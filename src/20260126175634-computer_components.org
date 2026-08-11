@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7c9f0cdf-eefa-4444-9efe-70ee98a2dd9d
+:END:
+#+title: Computer Components
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011112-Starport_Project_Enters_Final_Phase.org][33011112-Starport_Project_Enters_Final_Phase.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9fbf2d8a-5f7c-4a8a-a558-5e2ee185f287
+:END:
+#+title: Algreit Future
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030521-Galactic_News__Weekly_Expansion_Report.org][33030521-Galactic_News__Weekly_Expansion_Report.org]]

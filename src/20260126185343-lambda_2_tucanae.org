@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0170b245-a888-4722-a660-cc31685a5912
+:END:
+#+title: Lambda-2 Tucanae
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33060917-Community_Support_Required_for_Starport_Conversions.org][33060917-Community_Support_Required_for_Starport_Conversions.org]]

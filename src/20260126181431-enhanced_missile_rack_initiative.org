@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d420c67e-b1d4-49a0-a297-cae700267631
+:END:
+#+title: Enhanced Missile Rack Initiative
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070204-Engineer’s_Enhanced_Missile_Rack_Initiative.org][33070204-Engineer’s_Enhanced_Missile_Rack_Initiative.org]]

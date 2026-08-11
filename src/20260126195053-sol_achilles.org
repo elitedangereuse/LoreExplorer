@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d6f86da9-d7f2-4dd4-af9f-7c346626388d
+:END:
+#+title: Sol Achilles
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030417-Galactic_News__Curious_Message_Discovered.org][33030417-Galactic_News__Curious_Message_Discovered.org]]

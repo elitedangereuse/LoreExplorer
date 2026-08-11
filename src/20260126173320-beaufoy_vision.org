@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bbf38483-fcd3-4d74-98d8-152e7da1543c
+:END:
+#+title: Beaufoy Vision
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33031202-Galactic_News__New_Aegis_Initiative.org][33031202-Galactic_News__New_Aegis_Initiative.org]]

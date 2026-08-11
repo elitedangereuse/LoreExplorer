@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bd2c4e16-ac33-4aeb-8f9b-c9557d2844c9
+:END:
+#+title: Commander Hector Jansen
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33061027-Terrorist_Hit_Squad_Targets_Hadrian_Duval.org][33061027-Terrorist_Hit_Squad_Targets_Hadrian_Duval.org]]

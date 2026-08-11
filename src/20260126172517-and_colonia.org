@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0767605e-ed08-43e6-99ed-d79d1113f58d
+:END:
+#+title: And Colonia
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040620-Investor_Funds_Colonia_Shipyards.org][33040620-Investor_Funds_Colonia_Shipyards.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       49379db2-bfb3-4ae6-91a1-d1b5426b7857
+:END:
+#+title: Inc Monarchy
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030709-Galactic_News__Weekly_Expansion_Report.org][33030709-Galactic_News__Weekly_Expansion_Report.org]]

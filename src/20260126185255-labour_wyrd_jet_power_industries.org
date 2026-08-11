@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       cb3f1f89-35a1-4154-830e-c407b2f49e5a
+:END:
+#+title: Labour Wyrd Jet Power Industries
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020607-Galactic_News__Weekly_Security_Report.org][33020607-Galactic_News__Weekly_Security_Report.org]]

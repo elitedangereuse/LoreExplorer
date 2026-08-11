@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       cee73f7d-3f94-4211-b589-4fdd189f7701
+:END:
+#+title: Andrew Bailey
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010509-78_Ursae_Majoris_Reacts_to_President’s_Intended_Visit.org][33010509-78_Ursae_Majoris_Reacts_to_President’s_Intended_Visit.org]]

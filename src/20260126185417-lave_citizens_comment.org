@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c6701d7a-662e-402a-aad1-b6b7f7782fe4
+:END:
+#+title: Lave Citizens Comment
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050802-Lave_Citizens_Comment_on_Festival.org][33050802-Lave_Citizens_Comment_on_Festival.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3f9f3a56-5858-4eea-a06c-cd52c55ed176
+:END:
+#+title: Comandantes Imperiales
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010608-Orden_de_Comandantes_Imperiales_Capture_Kamocan_for_Princess.org][33010608-Orden_de_Comandantes_Imperiales_Capture_Kamocan_for_Princess.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5e8c5f3c-037b-452b-9231-524b4a229eb1
+:END:
+#+title: Anayali Crimson United Corp
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010821-GalNet_Weekly_Conflict_Report.org][33010821-GalNet_Weekly_Conflict_Report.org]]

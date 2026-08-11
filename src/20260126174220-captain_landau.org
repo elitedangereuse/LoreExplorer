@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7bc01571-a1a7-42ba-bfa4-84662b4ed6af
+:END:
+#+title: Captain Landau
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080107-Imperial_Intelligence_Denies_NMLA_Connection.org][33080107-Imperial_Intelligence_Denies_NMLA_Connection.org]]

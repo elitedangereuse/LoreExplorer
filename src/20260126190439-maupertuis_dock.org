@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       63213bb8-2946-4f66-a8b0-b1db737d7bcf
+:END:
+#+title: Maupertuis Dock
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030810-Galactic_News__Starport_Status_Update.org][33030810-Galactic_News__Starport_Status_Update.org]]

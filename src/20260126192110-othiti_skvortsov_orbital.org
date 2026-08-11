@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       317b9593-7378-4dbb-93d9-17eb7ddba775
+:END:
+#+title: Othiti Skvortsov Orbital
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33031011-Galactic_News__Starport_Status_Update.org][33031011-Galactic_News__Starport_Status_Update.org]]

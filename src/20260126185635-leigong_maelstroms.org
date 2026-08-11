@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       cdf73c4f-5f79-46df-91d4-e0aa7465caf3
+:END:
+#+title: Leigong Maelstroms
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33081208-Carnage_Wrought_by_Further_Maelstroms.org][33081208-Carnage_Wrought_by_Further_Maelstroms.org]]

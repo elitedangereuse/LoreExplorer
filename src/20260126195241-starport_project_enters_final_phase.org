@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       47a1990f-1129-421f-8973-bc463479722a
+:END:
+#+title: Starport Project Enters Final Phase
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011112-Starport_Project_Enters_Final_Phase.org][33011112-Starport_Project_Enters_Final_Phase.org]]

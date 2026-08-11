@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d74a592b-fb00-4ed7-bd88-66231ce8e110
+:END:
+#+title: Gresley Dock
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070429-Federal_Leaders_Launch_Rival_Data_Requests.org][33070429-Federal_Leaders_Launch_Rival_Data_Requests.org]]

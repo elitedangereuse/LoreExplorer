@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d19bc70a-4dad-4180-9e2f-787cb291f9ea
+:END:
+#+title: Director Colombera
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33091114-Concerns_Raised_over_Titan_Returnees.org][33091114-Concerns_Raised_over_Titan_Returnees.org]]

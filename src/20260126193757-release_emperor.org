@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       03398b0c-7ca6-4bd2-97cf-42b6ba9ce973
+:END:
+#+title: Release Emperor
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010312-Patreus_Calls_on_Blaine_to_Release_Emperor’s_Medical_Records.org][33010312-Patreus_Calls_on_Blaine_to_Release_Emperor’s_Medical_Records.org]]

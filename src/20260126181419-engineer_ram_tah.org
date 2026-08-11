@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9dccdb73-1262-4f06-952f-f263d057555b
+:END:
+#+title: Engineer Ram Tah
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021110-Galactic_News__Appeal_for_Ancient_Data_Concludes.org][33021110-Galactic_News__Appeal_for_Ancient_Data_Concludes.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       eb40a4a9-4427-4052-9a02-bf6b4195f399
+:END:
+#+title: Buckey Ring
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020314-Freelance_Report__Midweek_Buckyball_Madness.org][33020314-Freelance_Report__Midweek_Buckyball_Madness.org]]

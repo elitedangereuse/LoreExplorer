@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       eae337d5-2e65-49dd-adf9-a2b4bcf8e587
+:END:
+#+title: Professor Shamus Madigan
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080905-Experts_Speculate_on_Thargoid_Behaviour.org][33080905-Experts_Speculate_on_Thargoid_Behaviour.org]]

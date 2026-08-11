@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       13c11766-6a1b-46ec-a1e9-0e21030a2861
+:END:
+#+title: Operation Tri-hammer
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33071214-Thargoids_Repulsed_from_Three_Systems.org][33071214-Thargoids_Repulsed_from_Three_Systems.org]]

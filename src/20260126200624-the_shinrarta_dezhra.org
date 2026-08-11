@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b06fb9e2-643e-45ec-be1d-17583ccb9314
+:END:
+#+title: The Shinrarta Dezhra
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3310/33101002-Jameson_Memorial_Starport_Operational.org][33101002-Jameson_Memorial_Starport_Operational.org]]

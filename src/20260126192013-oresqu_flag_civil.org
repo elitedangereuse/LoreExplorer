@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       99e5f8ab-b0dc-48c0-9db4-769c357a29b3
+:END:
+#+title: Oresqu Flag Civil
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020809-Galactic_News__Weekly_Security_Report.org][33020809-Galactic_News__Weekly_Security_Report.org]]

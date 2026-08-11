@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       100ade16-7f5e-4ed8-859e-bd66302e29be
+:END:
+#+title: Tau Ceti Crimson Legal Solutions
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010710-GalNet_Weekly_Conflict_Report.org][33010710-GalNet_Weekly_Conflict_Report.org]]

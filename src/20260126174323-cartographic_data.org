@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7dd091ad-70e4-4064-af31-9f9cacba7f0c
+:END:
+#+title: Cartographic Data
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020229-Community_Goal__Conspiracy_Theorist_Appeals_for_Cartographic_Data.org][33020229-Community_Goal__Conspiracy_Theorist_Appeals_for_Cartographic_Data.org]]

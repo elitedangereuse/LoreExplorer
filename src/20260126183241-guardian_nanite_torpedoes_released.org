@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1e28a8f6-9e3c-4a02-986b-0d1aa2db88c1
+:END:
+#+title: Guardian Nanite Torpedoes Released
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3310/33100226-Target_the_Titans_–_Guardian_Nanite_Torpedoes_Released.org][33100226-Target_the_Titans_–_Guardian_Nanite_Torpedoes_Released.org]]

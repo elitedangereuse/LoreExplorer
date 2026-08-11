@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       cc462d4f-3d51-4f4a-8c64-d12ea0b49b64
+:END:
+#+title: Iron Wings
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070218-Victory_for_Federal_Forces_Against_Jupiter_Division.org][33070218-Victory_for_Federal_Forces_Against_Jupiter_Division.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       925db104-d328-4d24-b726-587be30aa533
+:END:
+#+title: Independent Explorers Association
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080902-Remarkable_‘Lost_Planet’_Rediscovered.org][33080902-Remarkable_‘Lost_Planet’_Rediscovered.org]]

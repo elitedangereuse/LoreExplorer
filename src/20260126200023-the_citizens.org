@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       74908a45-8ebd-41d1-a14d-040f33cfbfe2
+:END:
+#+title: The Citizens
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080922-Aisling_Requests_Rare_Items_to_Fund_Charity.org][33080922-Aisling_Requests_Rare_Items_to_Fund_Charity.org]]

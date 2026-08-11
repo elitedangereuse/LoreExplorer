@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1b05a828-ba0e-4568-9777-497984b9d1b8
+:END:
+#+title: Commander Therion Cygni
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33071116-Theta_Seven_Traced_to_Panjabell_System.org][33071116-Theta_Seven_Traced_to_Panjabell_System.org]]

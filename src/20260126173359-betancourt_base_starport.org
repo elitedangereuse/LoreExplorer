@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c64d1bfe-e35f-4398-bdfe-98abe954a3b2
+:END:
+#+title: Betancourt Base Starport
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33061117-Coalsack_Nebula_Campaign_Completes_Initial_Stages.org][33061117-Coalsack_Nebula_Campaign_Completes_Initial_Stages.org]]

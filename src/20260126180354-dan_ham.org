@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a5b90d5e-0bb8-4b92-ba32-4bd0fbc3ef3f
+:END:
+#+title: Dan Ham
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33051016-Initiative_to_Eradicate_Rockforth_Fertiliser.org][33051016-Initiative_to_Eradicate_Rockforth_Fertiliser.org]]

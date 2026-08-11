@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       46b312a9-7410-49fe-a440-22ada7db57bd
+:END:
+#+title: The Awakening
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070408-The_Awakening_of_the_Adamastor.org][33070408-The_Awakening_of_the_Adamastor.org]]

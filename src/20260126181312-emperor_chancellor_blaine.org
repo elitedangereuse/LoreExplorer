@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bf8151e3-cd55-4e69-b5dc-1016a4c92f90
+:END:
+#+title: Emperor Chancellor Blaine
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010620-Blaine_Address_State_of_the_Emperor.org][33010620-Blaine_Address_State_of_the_Emperor.org]]

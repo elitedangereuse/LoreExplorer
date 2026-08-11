@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5bad7799-8c70-4ccc-b792-8008bf22370c
+:END:
+#+title: Jet Netcoms Systems Blatuntino Party
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010703-GalNet_Weekly_Conflict_Report.org][33010703-GalNet_Weekly_Conflict_Report.org]]

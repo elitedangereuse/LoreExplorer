@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0a7b51c2-f249-47a9-813e-0d50af5a9ac3
+:END:
+#+title: Chancellor Arias
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020421-Community_Goal__Upgrading_Greeboski's_Outpost.org][33020421-Community_Goal__Upgrading_Greeboski's_Outpost.org]]

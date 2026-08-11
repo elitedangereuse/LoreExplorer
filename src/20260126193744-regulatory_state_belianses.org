@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a2bef3e6-266f-40f2-b877-386737ec7358
+:END:
+#+title: Regulatory State Belianses
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020204-Galactic_News__Focus_on_Democracy.org][33020204-Galactic_News__Focus_on_Democracy.org]]

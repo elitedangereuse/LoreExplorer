@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       619cbad9-d40d-4bc2-8e89-854967ad63c4
+:END:
+#+title: Part One
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33071228-A_Retrospective_of_3307_(Part_One).org][33071228-A_Retrospective_of_3307_(Part_One).org]]

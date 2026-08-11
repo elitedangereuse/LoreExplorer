@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4d5710f7-cdd0-40bf-9852-6a83abe37949
+:END:
+#+title: Dr Jin Rameer
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040414-Pirates_vs_Thargoids_.org][33040414-Pirates_vs_Thargoids_.org]]

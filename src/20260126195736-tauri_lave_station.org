@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       38354389-698b-4fa7-bf7e-c1f8a8b5afaf
+:END:
+#+title: Tauri Lave Station
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040823-Starport_Status_Update.org][33040823-Starport_Status_Update.org]]

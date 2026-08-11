@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b8683ae3-f550-452f-b52e-832e19cfa1f0
+:END:
+#+title: The Glaive
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090518-Thargoid_‘Hunter’_Vessel_Class_Confirmed.org][33090518-Thargoid_‘Hunter’_Vessel_Class_Confirmed.org]]

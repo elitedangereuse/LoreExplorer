@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5a1a4aba-8976-4e13-855c-d131886c8f5c
+:END:
+#+title: The Tau Ceti Journal
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070413-Federal_Reactions_to_Communications_Surveillance_Programme.org][33070413-Federal_Reactions_to_Communications_Surveillance_Programme.org]]

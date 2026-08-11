@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       715f4a46-e77a-42c6-91f5-47d9ea692572
+:END:
+#+title: Sylvia Rockforth
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33051105-Rockforth_Corporation_Releases_Apology.org][33051105-Rockforth_Corporation_Releases_Apology.org]]

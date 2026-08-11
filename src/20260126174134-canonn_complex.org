@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       37bda9a7-13ee-4543-a1bb-b0c0c79d29e2
+:END:
+#+title: Canonn Complex
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080128-New_Starports_Created_for_Colonia_Bridge.org][33080128-New_Starports_Created_for_Colonia_Bridge.org]]

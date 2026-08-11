@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       de0b036b-c6a5-4ea9-94b8-21c182c2a992
+:END:
+#+title: Ms Seo
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33081007-Azimuth__‘We_Can_Help_D-2’.org][33081007-Azimuth__‘We_Can_Help_D-2’.org]]

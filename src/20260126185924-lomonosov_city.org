@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d56de555-3efe-4129-b7ca-22b729b1479d
+:END:
+#+title: Lomonosov City
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33031013-Galactic_News__Kuun-Lan_Campaign_Concludes.org][33031013-Galactic_News__Kuun-Lan_Campaign_Concludes.org]]

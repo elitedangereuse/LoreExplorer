@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3aa04741-2322-4ef6-af68-78b43d59d595
+:END:
+#+title: Pacap Limited
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011022-From_Dreams_to_Reality.org][33011022-From_Dreams_to_Reality.org]]

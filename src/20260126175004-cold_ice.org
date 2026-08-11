@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f51a8f52-6e8e-4c09-ac33-33baadee21e6
+:END:
+#+title: Cold Ice
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010830-Cold_Ice,_Warm_Trail.org][33010830-Cold_Ice,_Warm_Trail.org]]

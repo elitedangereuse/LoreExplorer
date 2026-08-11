@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8938149e-723d-4f68-9c8c-be6c14698dfe
+:END:
+#+title: Dr Kane
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33051105-Rockforth_Corporation_Releases_Apology.org][33051105-Rockforth_Corporation_Releases_Apology.org]]

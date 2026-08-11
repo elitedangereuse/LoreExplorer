@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8cdd8171-e143-42c0-906f-8ca01dd7ed3b
+:END:
+#+title: Seddon Gateway
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010509-78_Ursae_Majoris_Reacts_to_President’s_Intended_Visit.org][33010509-78_Ursae_Majoris_Reacts_to_President’s_Intended_Visit.org]]

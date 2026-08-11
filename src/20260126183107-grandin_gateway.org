@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       14bf9834-5ef3-491a-9943-de4db5d1483b
+:END:
+#+title: Grandin Gateway
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020331-Community_Goal__The_Onionhead_Clash.org][33020331-Community_Goal__The_Onionhead_Clash.org]]

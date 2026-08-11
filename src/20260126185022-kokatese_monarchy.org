@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b4bfa725-eb2c-4cae-9dcb-e516397ed506
+:END:
+#+title: Kokatese Monarchy
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020928-Galactic_News__Weekly_Health_Report.org][33020928-Galactic_News__Weekly_Health_Report.org]]

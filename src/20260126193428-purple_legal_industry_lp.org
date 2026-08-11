@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4e7db82c-7ea4-4b24-b345-6d85145d56de
+:END:
+#+title: Purple Legal Industry LP
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020314-Galactic_News__Weekly_Economic_Report.org][33020314-Galactic_News__Weekly_Economic_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ca7eb6f2-ba8d-40e1-9c5d-ab7dfa529d56
+:END:
+#+title: Hez Ur
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070402-Galactic_Mysteries__Generation_Ships.org][33070402-Galactic_Mysteries__Generation_Ships.org]]

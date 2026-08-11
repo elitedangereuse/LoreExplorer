@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       71a4ebba-cf82-4fcd-a2b6-1527bcc90286
+:END:
+#+title: Labour Coalition
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030116-Galactic_News__Weekly_Economic_Report.org][33030116-Galactic_News__Weekly_Economic_Report.org]]

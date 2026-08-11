@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c2766c46-4a05-425b-9350-a5513d2fa7a4
+:END:
+#+title: Akba Atacab Virtanen Gateway
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33031122-Galactic_News__Starport_Status_Update.org][33031122-Galactic_News__Starport_Status_Update.org]]

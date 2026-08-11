@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ae37e516-e430-41d0-a7e3-c18dce3f8eff
+:END:
+#+title: Conflict-Strewn Pegasi Sector
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010731-Smuggling_on_the_Rise_in_Conflict-Strewn_Pegasi_Sector.org][33010731-Smuggling_on_the_Rise_in_Conflict-Strewn_Pegasi_Sector.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       eb83efa7-a258-4368-ba95-823abec1c2f6
+:END:
+#+title: Humason Orbital
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010708-Ambitious_Plans_for_Carns.org][33010708-Ambitious_Plans_for_Carns.org]]

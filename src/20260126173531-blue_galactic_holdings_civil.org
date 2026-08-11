@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7bd2d99e-cfce-4c00-b4c9-c11756cc7369
+:END:
+#+title: Blue Galactic Holdings Civil
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010922-GalNet_Weekly_Security_Digest.org][33010922-GalNet_Weekly_Security_Digest.org]]

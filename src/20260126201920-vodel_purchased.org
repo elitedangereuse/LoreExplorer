@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       80367f60-fe09-4d80-b564-a35fc9a43f92
+:END:
+#+title: Vodel Purchased
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050419-Vodel_Purchased_by_Core_Dynamics.org][33050419-Vodel_Purchased_by_Core_Dynamics.org]]

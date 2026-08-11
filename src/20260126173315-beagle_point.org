@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8dd0f3a2-d569-4621-900d-1f44320b4b4f
+:END:
+#+title: Beagle Point
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020329-Freelance_Report__Distant_Worlds_Expedition_Reaches_Beagle_Point.org][33020329-Freelance_Report__Distant_Worlds_Expedition_Reaches_Beagle_Point.org]]

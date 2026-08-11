@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       706d1d2e-9fc7-4ada-892f-4f72cfd4d9b9
+:END:
+#+title: Ghost Ship
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33061029-‘Ghost_Ship’_Arrives_in_Chukchan_System.org][33061029-‘Ghost_Ship’_Arrives_in_Chukchan_System.org]]

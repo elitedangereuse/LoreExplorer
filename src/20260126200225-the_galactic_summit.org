@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3437e716-3843-4c0c-a48b-9b917dfa4e29
+:END:
+#+title: The Galactic Summit
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070212-Empire_and_Marlinists_Prepare_for_Galactic_Summit.org][33070212-Empire_and_Marlinists_Prepare_for_Galactic_Summit.org]]

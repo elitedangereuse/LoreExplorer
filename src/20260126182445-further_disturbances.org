@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       fbde6bff-9779-420d-9afe-481c934e3ad5
+:END:
+#+title: Further Disturbances
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010817-Further_Disturbances_in_Mourners'_Line.org][33010817-Further_Disturbances_in_Mourners'_Line.org]]

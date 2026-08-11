@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d31636eb-7287-4151-9666-81e17df30748
+:END:
+#+title: Admiral Yorke
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020526-Galactic_News__Federation_Assumes_Control_of_Neits.org][33020526-Galactic_News__Federation_Assumes_Control_of_Neits.org]]

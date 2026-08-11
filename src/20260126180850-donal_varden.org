@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       998789e9-e22f-41a7-b98a-48a10503b1e0
+:END:
+#+title: Donal Varden
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33041101-Conflict_in_Geras.org][33041101-Conflict_in_Geras.org]]

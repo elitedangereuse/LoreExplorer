@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a1c91fd3-910a-4643-822f-e2385be59226
+:END:
+#+title: Party Kaura Ltd People's Liaedin
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020802-Galactic_News__Weekly_Security_Report.org][33020802-Galactic_News__Weekly_Security_Report.org]]

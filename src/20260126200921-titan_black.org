@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       43641516-f7c3-44c4-8a5e-5e3eb905c1a0
+:END:
+#+title: Titan Black
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010327-NVIDIA_GeForce_GTX_Titan_Black_Prototypes_Revealed.org][33010327-NVIDIA_GeForce_GTX_Titan_Black_Prototypes_Revealed.org]]

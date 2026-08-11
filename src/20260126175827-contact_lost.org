@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c343df79-640a-4d85-a6a0-bc18700646f2
+:END:
+#+title: Contact Lost
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080809-Contact_Lost_after_Proteus_Wave_Fired.org][33080809-Contact_Lost_after_Proteus_Wave_Fired.org]]

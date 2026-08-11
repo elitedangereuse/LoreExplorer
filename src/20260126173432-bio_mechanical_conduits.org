@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       471b2501-a2a8-4eb7-afc7-eb45dd5d147c
+:END:
+#+title: Bio-Mechanical Conduits
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040316-The_Purge_of_Socho.org][33040316-The_Purge_of_Socho.org]]

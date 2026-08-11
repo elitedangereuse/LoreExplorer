@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f73d1460-20a6-47f1-a0d8-5339b7ceb9a7
+:END:
+#+title: Angel Station
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33091215-Help_Harksing’s_Gifts_Reach_Recipients.org][33091215-Help_Harksing’s_Gifts_Reach_Recipients.org]]

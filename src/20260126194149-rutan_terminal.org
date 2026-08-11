@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       91bda84f-5e89-4eaa-a87e-cff731b7ccf8
+:END:
+#+title: Rutan Terminal
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020630-Galactic_News__Starport_Status_Update.org][33020630-Galactic_News__Starport_Status_Update.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4a2e4c30-d7f3-45fe-adb9-20b34e2e7aa6
+:END:
+#+title: Haisheng Orbital
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030214-Galactic_News__Starport_Status_Update.org][33030214-Galactic_News__Starport_Status_Update.org]]

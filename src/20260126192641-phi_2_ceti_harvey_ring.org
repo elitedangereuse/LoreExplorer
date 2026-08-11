@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       489c56f7-b4ff-4bc1-8697-312fb9ed2759
+:END:
+#+title: Phi-2 Ceti Harvey Ring
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040412-Starport_Status_Update.org][33040412-Starport_Status_Update.org]]

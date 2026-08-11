@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d28792ad-d0d4-4c46-af31-c28a38ed2cde
+:END:
+#+title: Devata Baru
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020115-A_Week_in_Powerplay.org][33020115-A_Week_in_Powerplay.org]]

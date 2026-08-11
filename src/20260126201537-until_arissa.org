@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       60c57b11-9f2a-47ab-af08-75a3c2ae7c87
+:END:
+#+title: Until Arissa
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080120-The_Missing_Emperor_.org][33080120-The_Missing_Emperor_.org]]

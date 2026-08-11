@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1ca3a30e-e33b-477b-8da9-945eec6563b8
+:END:
+#+title: Luyten's Star Co Workers
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020613-Galactic_News__Weekly_Economic_Report.org][33020613-Galactic_News__Weekly_Economic_Report.org]]

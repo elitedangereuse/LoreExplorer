@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f7efd67f-f064-42cd-99ae-37d137c3107a
+:END:
+#+title: Beltrami's Claim
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021129-Galactic_News__Starport_Status_Update.org][33021129-Galactic_News__Starport_Status_Update.org]]

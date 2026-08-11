@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       60a9e97d-8120-474b-8f1f-a9c0e63edfc4
+:END:
+#+title: Carinae Napier Station
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040829-Starport_Status_Update.org][33040829-Starport_Status_Update.org]]

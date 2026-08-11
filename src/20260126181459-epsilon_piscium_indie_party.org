@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       48dc1b38-4263-4f49-84da-373c3016d294
+:END:
+#+title: Epsilon Piscium Indie Party
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020212-Galactic_News__Weekly_Conflict_Report.org][33020212-Galactic_News__Weekly_Conflict_Report.org]]

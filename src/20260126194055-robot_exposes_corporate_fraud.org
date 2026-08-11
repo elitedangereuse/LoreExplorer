@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0f412545-3040-4665-bacf-4b14054c8175
+:END:
+#+title: Robot Exposes Corporate Fraud
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040920-Robot_Exposes_Corporate_Fraud.org][33040920-Robot_Exposes_Corporate_Fraud.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d9482f94-5d4d-4738-84ef-462239f898a8
+:END:
+#+title: Awanti Leaders
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011016-GalNet_Weekly_Conflict_Report.org][33011016-GalNet_Weekly_Conflict_Report.org]]

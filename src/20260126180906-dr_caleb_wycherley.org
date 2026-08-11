@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4c3c1fb9-2d8a-453c-ab29-43613513325c
+:END:
+#+title: Dr Caleb Wycherley
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080603-Aegis__‘Arrest_Salvation_for_Murder’.org][33080603-Aegis__‘Arrest_Salvation_for_Murder’.org]]

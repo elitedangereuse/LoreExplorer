@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       90f25ea4-3801-42b5-890d-aa4e30be1a6c
+:END:
+#+title: Novitski Horizons
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040207-Starport_Status_Update.org][33040207-Starport_Status_Update.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       41fcca68-5284-471f-86cb-658d1edbde56
+:END:
+#+title: Nueva Vista
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090405-Archer_Launches_Presidential_Campaign.org][33090405-Archer_Launches_Presidential_Campaign.org]]

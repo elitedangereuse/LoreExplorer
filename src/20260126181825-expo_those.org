@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1cd1fb51-c945-4432-9dc5-7b237f0ea38b
+:END:
+#+title: Expo Those
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33071225--33-104.org][33071225--33-104.org]]

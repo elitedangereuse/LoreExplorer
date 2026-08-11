@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       fa44b19c-4afa-4ac5-82ae-5e7ed3ade0bd
+:END:
+#+title: Rose Trebek
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020225-Community_Goal__Clean_up_Orulas.org][33020225-Community_Goal__Clean_up_Orulas.org]]

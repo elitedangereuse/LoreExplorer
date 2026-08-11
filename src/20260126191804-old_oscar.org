@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b0eff61d-bc53-4bde-9309-3735d54f459e
+:END:
+#+title: Old Oscar
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33071224--66-95.org][33071224--66-95.org]]

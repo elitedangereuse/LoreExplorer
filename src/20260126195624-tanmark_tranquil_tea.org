@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       baf85476-3444-4640-8718-5d9c18e0a877
+:END:
+#+title: Tanmark Tranquil Tea
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021013-Community_Goal__The_Gathering.org][33021013-Community_Goal__The_Gathering.org]]

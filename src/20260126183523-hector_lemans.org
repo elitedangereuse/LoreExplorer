@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c321c1a6-2b30-44fe-9ad0-8a79e82a1b50
+:END:
+#+title: Hector LeMans
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020122-Freelance_Report__Officials_Deny_Funding_'Turbo_Hour'_Endurance_Race.org][33020122-Freelance_Report__Officials_Deny_Funding_'Turbo_Hour'_Endurance_Race.org]]

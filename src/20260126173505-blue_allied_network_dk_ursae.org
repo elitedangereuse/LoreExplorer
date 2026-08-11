@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2f37370e-ee82-4502-8f91-924047cf629a
+:END:
+#+title: Blue Allied Network DK Ursae
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020112-GalNet_Weekly_Security_Digest.org][33020112-GalNet_Weekly_Security_Digest.org]]

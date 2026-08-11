@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       53e02224-9cc9-44b5-8756-59660550304c
+:END:
+#+title: Lieutenant Commander Page Patterson
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040720-Unexploded_Nuclear_Missile_Discovered.org][33040720-Unexploded_Nuclear_Missile_Discovered.org]]

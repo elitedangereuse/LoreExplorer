@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9bb5175b-7692-4908-bcf5-ee10606abe89
+:END:
+#+title: Electronics Co Kwatyriel
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030604-Galactic_News__Weekly_Expansion_Report.org][33030604-Galactic_News__Weekly_Expansion_Report.org]]

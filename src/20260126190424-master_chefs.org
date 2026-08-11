@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b6876a7c-092a-47c2-9194-3ad0d489fd94
+:END:
+#+title: Master Chefs
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011008-The_Master_Chefs_–_Truth_or_Hoax_.org][33011008-The_Master_Chefs_–_Truth_or_Hoax_.org]]

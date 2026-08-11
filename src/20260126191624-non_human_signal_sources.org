@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9173441e-2c0b-4f20-9dd1-ca13ee84d9a9
+:END:
+#+title: Non Human Signal Sources
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040317-Non_Human_Signal_Sources_in_Huveang_De.org][33040317-Non_Human_Signal_Sources_in_Huveang_De.org]]

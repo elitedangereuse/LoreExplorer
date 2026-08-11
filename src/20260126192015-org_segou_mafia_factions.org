@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f52eceba-f848-49b0-9054-6936cc60e275
+:END:
+#+title: Org Segou Mafia Factions
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020806-Galactic_News__Weekly_Expansion_Report.org][33020806-Galactic_News__Weekly_Expansion_Report.org]]

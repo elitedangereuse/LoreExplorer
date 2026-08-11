@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       355a0b39-6ba9-442f-95eb-3c4ca02b95cd
+:END:
+#+title: Vaughan Niven
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33041004-Bishop’s_Congressional_Bid_Collapses.org][33041004-Bishop’s_Congressional_Bid_Collapses.org]]

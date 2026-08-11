@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d08eefee-11bf-4eaa-be6c-dec71add49ee
+:END:
+#+title: Azimuth Resurgent
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080620-Azimuth_Resurgent.org][33080620-Azimuth_Resurgent.org]]

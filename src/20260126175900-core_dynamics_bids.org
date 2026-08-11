@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9b6ba283-7542-4b78-b861-4b1ec4ad8778
+:END:
+#+title: Core Dynamics Bids
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33061124-Core_Dynamics_Bids_to_Purchase_Lakon_Spaceways.org][33061124-Core_Dynamics_Bids_to_Purchase_Lakon_Spaceways.org]]

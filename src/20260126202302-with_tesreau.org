@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9d1b76d7-b08f-494f-b694-c32163d6f614
+:END:
+#+title: With Tesreau
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090102-A_Retrospective_of_3308_(Part_Three).org][33090102-A_Retrospective_of_3308_(Part_Three).org]]

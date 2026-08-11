@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       605b3ed7-9f3e-4ca0-9811-57f38d879835
+:END:
+#+title: Loperada Skvortsov Orbital
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020224-Galactic_News__Technological_Plague_Continues_to_Threaten_Starports.org][33020224-Galactic_News__Technological_Plague_Continues_to_Threaten_Starports.org]]

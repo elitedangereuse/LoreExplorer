@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       76bd634f-679b-4e3a-a912-3b5eafaf027c
+:END:
+#+title: Weekly Expansion Report
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020319-Galactic_News__Weekly_Expansion_Report.org][33020319-Galactic_News__Weekly_Expansion_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c51919ab-ee78-4d74-bf1f-d4927814584a
+:END:
+#+title: Inc Co-op
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020908-Galactic_News__Weekly_Democracy_Report.org][33020908-Galactic_News__Weekly_Democracy_Report.org]]

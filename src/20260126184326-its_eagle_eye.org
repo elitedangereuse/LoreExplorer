@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e4e226fc-ce65-4eff-86c1-883dc32ce7a2
+:END:
+#+title: Its Eagle Eye
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080624-Azimuth__A_Historical_Perspective_(Part_Two).org][33080624-Azimuth__A_Historical_Perspective_(Part_Two).org]]

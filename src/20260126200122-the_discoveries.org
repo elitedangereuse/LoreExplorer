@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       db9f1b42-61f6-4624-95c3-e8c1e2a1a98b
+:END:
+#+title: The Discoveries
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33041211-Introducing_the_Codex.org][33041211-Introducing_the_Codex.org]]

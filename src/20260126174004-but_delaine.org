@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6caab039-b35d-42b1-9114-6315874a5b8f
+:END:
+#+title: But Delaine
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080426-Kumo_Crew_Appoints_New_Council_Leader.org][33080426-Kumo_Crew_Appoints_New_Council_Leader.org]]

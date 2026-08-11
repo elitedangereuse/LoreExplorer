@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5e75241a-1c71-4e9d-9be2-c3a3b6454fa0
+:END:
+#+title: Crimson State Limited
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33051010-Initiative_to_Counter_Poor_Harvests.org][33051010-Initiative_to_Counter_Poor_Harvests.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4321af28-cc5c-4631-93e0-1b33cd749691
+:END:
+#+title: Interceptor Medusa
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33031215-Galactic_News__Starports_Attacked_by_Thargoids.org][33031215-Galactic_News__Starports_Attacked_by_Thargoids.org]]

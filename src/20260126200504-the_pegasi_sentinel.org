@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d5702125-61b8-45f6-98af-a4136b3b3374
+:END:
+#+title: The Pegasi Sentinel
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070415-Archon_Delaine_Campaign_to_Build_New_Starports.org][33070415-Archon_Delaine_Campaign_to_Build_New_Starports.org]]

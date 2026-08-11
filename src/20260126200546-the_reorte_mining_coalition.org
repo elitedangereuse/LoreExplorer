@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       222b8340-2b2c-4b85-aff5-2f5068b12232
+:END:
+#+title: The Reorte Mining Coalition
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33051212-Year’s_End_Festivities_in_Reorte.org][33051212-Year’s_End_Festivities_in_Reorte.org]]

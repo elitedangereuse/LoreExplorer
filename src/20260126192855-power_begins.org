@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       20d0ecc9-5cf9-4029-842c-9a09ac53477f
+:END:
+#+title: Power Begins
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020630-Community_Goal__The_Rise_to_Power_Begins.org][33020630-Community_Goal__The_Rise_to_Power_Begins.org]]

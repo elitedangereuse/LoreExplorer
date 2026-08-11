@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a5858a76-7eef-434e-921f-9d7b03af6902
+:END:
+#+title: Colony Independents
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030715-Galactic_News__Weekly_Conflict_Report.org][33030715-Galactic_News__Weekly_Conflict_Report.org]]

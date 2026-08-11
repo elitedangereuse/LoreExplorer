@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4ebb28a6-578b-4aaf-9925-53dee52c77f9
+:END:
+#+title: Co Traditional LP
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020209-Galactic_News__Weekly_Security_Digest.org][33020209-Galactic_News__Weekly_Security_Digest.org]]

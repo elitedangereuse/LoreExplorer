@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       865ea0bd-486c-4ec3-b850-d49ebdcf2aac
+:END:
+#+title: Drevlyada League
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050221-Rivalry_Triggers_Conflict_in_Drevlyada.org][33050221-Rivalry_Triggers_Conflict_in_Drevlyada.org]]

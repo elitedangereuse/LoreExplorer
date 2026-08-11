@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       87157fdf-2cd1-415f-bc17-0c236dc98011
+:END:
+#+title: Kakmbutan Schilling Dock
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030328-Galactic_News__Starport_Status_Update.org][33030328-Galactic_News__Starport_Status_Update.org]]

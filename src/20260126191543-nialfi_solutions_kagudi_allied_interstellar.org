@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d06cefa2-4e37-4296-92d0-4afd8a3d79c7
+:END:
+#+title: Nialfi Solutions Kagudi Allied Interstellar
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030906-Galactic_News__Weekly_Security_Report.org][33030906-Galactic_News__Weekly_Security_Report.org]]

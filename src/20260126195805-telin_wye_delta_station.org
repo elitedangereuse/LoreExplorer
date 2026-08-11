@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3fb02f17-7539-4813-b5ef-be57d84aac6a
+:END:
+#+title: Telin Wye-Delta Station
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040418-Starport_Status_Update.org][33040418-Starport_Status_Update.org]]

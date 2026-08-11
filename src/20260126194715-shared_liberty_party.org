@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       067edee5-5a67-4ddd-b124-1160984775c9
+:END:
+#+title: Shared Liberty Party
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030106-Galactic_News__Weekly_Conflict_Report.org][33030106-Galactic_News__Weekly_Conflict_Report.org]]

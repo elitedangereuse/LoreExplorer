@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       445c2eb7-05fd-4997-98cf-061cd1b23b39
+:END:
+#+title: Singing Geysers
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080504-An_Interview_with_Zachary_Rackham.org][33080504-An_Interview_with_Zachary_Rackham.org]]

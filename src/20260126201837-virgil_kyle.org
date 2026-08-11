@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f3dbca6e-b567-4a03-a5c7-46775c0c3021
+:END:
+#+title: Virgil Kyle
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010318-The_True_North_Star.org][33010318-The_True_North_Star.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       30883c56-d313-4be0-968a-d1bf6c3ba57c
+:END:
+#+title: Special Gifts
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011222-Clauss_Incorporated_Issues_Appeal.org][33011222-Clauss_Incorporated_Issues_Appeal.org]]

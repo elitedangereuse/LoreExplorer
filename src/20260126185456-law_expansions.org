@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       405eda71-34aa-4d4c-945c-18655cc8588f
+:END:
+#+title: Law Expansions
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030114-Galactic_News__Weekly_Expansion_Report.org][33030114-Galactic_News__Weekly_Expansion_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       90fede11-f99c-4d94-92c3-505cf2c5d4f6
+:END:
+#+title: Mr Hurd
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040901-Computer_Designers’_Rivalry_Escalates.org][33040901-Computer_Designers’_Rivalry_Escalates.org]]

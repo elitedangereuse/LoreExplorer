@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       37f593da-39a2-42dd-805f-3b11bdee0fb4
+:END:
+#+title: Tilman Point
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070715-Data_Required_for_Marlinist_Election.org][33070715-Data_Required_for_Marlinist_Election.org]]

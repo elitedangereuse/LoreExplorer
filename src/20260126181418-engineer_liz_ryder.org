@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       73d575e6-6f79-4577-b33f-8006bd32747c
+:END:
+#+title: Engineer Liz Ryder
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33061008-Eurybia_Blue_Mafia_Resists_Imperial_Forces.org][33061008-Eurybia_Blue_Mafia_Resists_Imperial_Forces.org]]

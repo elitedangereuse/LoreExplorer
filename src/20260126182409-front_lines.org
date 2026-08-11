@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c5184e00-8f4d-4f4d-a419-02922763aa79
+:END:
+#+title: Front Lines
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030930-Galactic_News__Report_from_the_Front_Lines.org][33030930-Galactic_News__Report_from_the_Front_Lines.org]]

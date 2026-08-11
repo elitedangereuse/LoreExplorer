@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1217962c-6a21-4cbe-ba20-38eb2336666b
+:END:
+#+title: Commander Devenish
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011019-Pilots_Call_for_Starship_Lighting_Enquiry.org][33011019-Pilots_Call_for_Starship_Lighting_Enquiry.org]]

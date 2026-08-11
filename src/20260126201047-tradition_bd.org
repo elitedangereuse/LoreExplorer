@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7fb71749-e990-4fcb-b2dc-4fd16de475a5
+:END:
+#+title: Tradition BD
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011031-GalNet_Weekly_Expansion_List.org][33011031-GalNet_Weekly_Expansion_List.org]]

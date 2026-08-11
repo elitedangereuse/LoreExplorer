@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4da66479-614c-4679-8f54-5152ffb90ee0
+:END:
+#+title: Heike Security Forces
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010826-Heike_Starport_Security_under_Strain.org][33010826-Heike_Starport_Security_under_Strain.org]]

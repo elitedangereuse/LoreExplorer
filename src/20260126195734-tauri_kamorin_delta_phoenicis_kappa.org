@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ae4f5f7f-b0af-4d96-ab36-df2fe1a28530
+:END:
+#+title: Tauri Kamorin Delta Phoenicis Kappa
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010806-Further_Outbreaks_of_Cerberus_Plague.org][33010806-Further_Outbreaks_of_Cerberus_Plague.org]]

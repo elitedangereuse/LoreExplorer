@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       76b3a9af-b914-41c8-9007-36fd87bb7c26
+:END:
+#+title: Jet Netcoms Industry Civil
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030517-Galactic_News__Weekly_Security_Report.org][33030517-Galactic_News__Weekly_Security_Report.org]]

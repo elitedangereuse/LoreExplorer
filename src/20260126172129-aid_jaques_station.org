@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c6210adc-19d0-4296-a3cf-3816684eeff6
+:END:
+#+title: Aid Jaques Station
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020723-Freelance_Report__GalCop_Mobilizes_to_Aid_Jaques_Station.org][33020723-Freelance_Report__GalCop_Mobilizes_to_Aid_Jaques_Station.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       52dfb7e4-d098-4334-84e7-6d3c94aea7da
+:END:
+#+title: People's Ross
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021011-Galactic_News__Weekly_Security_Report.org][33021011-Galactic_News__Weekly_Security_Report.org]]

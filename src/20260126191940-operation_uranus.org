@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f5da7057-3f22-4997-841f-78d29b918b75
+:END:
+#+title: Operation Uranus
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010822-'Operation_Uranus’_Successful.org][33010822-'Operation_Uranus’_Successful.org]]

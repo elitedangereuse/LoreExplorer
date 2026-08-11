@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e3772de6-0a92-4a25-b361-0a207e23f856
+:END:
+#+title: Corsair King
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040705-Author_Begins_Interstellar_Book_Tour.org][33040705-Author_Begins_Interstellar_Book_Tour.org]]

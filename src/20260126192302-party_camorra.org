@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       206bc574-cbef-4d38-80d0-3d0d36eb571d
+:END:
+#+title: Party Camorra
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020111-GalNet_Weekly_Economic_Report.org][33020111-GalNet_Weekly_Economic_Report.org]]

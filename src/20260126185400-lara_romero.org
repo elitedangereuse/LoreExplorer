@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       609fa702-fdcc-4b43-b104-23deb8ca6b50
+:END:
+#+title: Lara Romero
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/Week in Review/33050512-Week_in_Review.org][33050512-Week_in_Review.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d4217c2e-a209-4fa2-b691-d328ccf01278
+:END:
+#+title: Supplies As
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010911-Emperor’s_Dawn_Issues_Request_for_Supplies.org][33010911-Emperor’s_Dawn_Issues_Request_for_Supplies.org]]

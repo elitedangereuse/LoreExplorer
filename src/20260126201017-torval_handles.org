@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6c086c11-e0c6-4c56-9b09-27fb2b65dfa1
+:END:
+#+title: Torval Handles
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010305-Torval_Handles_the_Help_in_Synteini.org][33010305-Torval_Handles_the_Help_in_Synteini.org]]

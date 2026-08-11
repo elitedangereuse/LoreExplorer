@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6bf6c8c4-12ba-44a5-9bdd-62982beb1e46
+:END:
+#+title: Professor Ishmael Palin's
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011102-Armed_Intruders_Apprehended_at_Christian_Dock.org][33011102-Armed_Intruders_Apprehended_at_Christian_Dock.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       059621ee-daae-4304-b45d-eb3be3c502a3
+:END:
+#+title: Aulin Enterprise
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010610-Federation_Goes_All_In.org][33010610-Federation_Goes_All_In.org]]

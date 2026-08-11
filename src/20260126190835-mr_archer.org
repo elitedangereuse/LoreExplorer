@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d655a734-b3c5-43c6-844e-1bd2ab7f9810
+:END:
+#+title: Mr Archer
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090717-Presidential_Candidates_Outline_Manifestos.org][33090717-Presidential_Candidates_Outline_Manifestos.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ac39679e-1a34-4465-9ef7-d945d39e0f9c
+:END:
+#+title: Nixon Enterprise
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020317-Community_Goal__Terraforming_Vennik_1.org][33020317-Community_Goal__Terraforming_Vennik_1.org]]

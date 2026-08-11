@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ca882782-ae41-41f2-be17-a6d58fa214dd
+:END:
+#+title: Union Civil
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020708-Galactic_News__Weekly_Conflict_Report.org][33020708-Galactic_News__Weekly_Conflict_Report.org]]

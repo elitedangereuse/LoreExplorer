@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       28bc1f27-9fd4-4875-932e-8e451da6acfb
+:END:
+#+title: Post Captain
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040707-A_Profile_of_Jordan_Rochester.org][33040707-A_Profile_of_Jordan_Rochester.org]]

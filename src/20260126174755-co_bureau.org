@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       42ae1d96-687b-4d75-b9e8-43f606022dfd
+:END:
+#+title: Co Bureau
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020216-Galactic_News__Weekly_Security_Digest.org][33020216-Galactic_News__Weekly_Security_Digest.org]]

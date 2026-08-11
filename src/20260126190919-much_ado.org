@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ad606e80-28c4-45c3-80d2-264f29bb3705
+:END:
+#+title: Much Ado
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020906-Freelance_Report__Much_Ado_about_Nothing_.org][33020906-Freelance_Report__Much_Ado_about_Nothing_.org]]

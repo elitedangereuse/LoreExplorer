@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       531092b8-845a-4c4c-8a3b-8638eca0111f
+:END:
+#+title: Li Chotep
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070805-Federal_Forces_Combat_New_Rebellion.org][33070805-Federal_Forces_Combat_New_Rebellion.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4edb81ea-85cf-4a86-a55c-3fe5acd91c8d
+:END:
+#+title: Independent Leesti
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33031117-Community_Goal__Breakfast_at_Tranquillity.org][33031117-Community_Goal__Breakfast_at_Tranquillity.org]]

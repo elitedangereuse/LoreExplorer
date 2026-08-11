@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       362d69da-d5c1-4a2b-8cc2-bf95316cef8a
+:END:
+#+title: Kumiho Sky
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080616-Alliance-Sirius_Military_Pact_to_be_Decided.org][33080616-Alliance-Sirius_Military_Pact_to_be_Decided.org]]

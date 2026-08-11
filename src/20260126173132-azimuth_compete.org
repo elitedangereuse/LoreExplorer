@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b9465b52-f37d-45cd-9035-88cba1b5ee59
+:END:
+#+title: Azimuth Compete
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090615-Aegis_and_Azimuth_Compete_for_Titan_Samples.org][33090615-Aegis_and_Azimuth_Compete_for_Titan_Samples.org]]

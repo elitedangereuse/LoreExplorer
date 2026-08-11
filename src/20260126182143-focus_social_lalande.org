@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c337bc12-2af2-4c6d-b73d-a2bdfe3beeab
+:END:
+#+title: Focus Social Lalande
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021004-Galactic_News__Weekly_Security_Report.org][33021004-Galactic_News__Weekly_Security_Report.org]]

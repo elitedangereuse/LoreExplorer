@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2677fb2a-55a1-4978-a75c-e98250e99c3f
+:END:
+#+title: Admiral Price
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020625-Galactic_News__Federation_Issues_Rebuttal.org][33020625-Galactic_News__Federation_Issues_Rebuttal.org]]

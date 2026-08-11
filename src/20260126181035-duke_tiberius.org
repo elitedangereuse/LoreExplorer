@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a37f36bf-00c9-43fc-adb6-78c838f4c1a8
+:END:
+#+title: Duke Tiberius
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020707-Freelance_Report__Border_Coalition_Backs_SEPP.org][33020707-Freelance_Report__Border_Coalition_Backs_SEPP.org]]

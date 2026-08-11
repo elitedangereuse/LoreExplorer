@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f1257b10-35e4-45c5-a87b-c08758dffbe0
+:END:
+#+title: Attilius Orbital
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3310/33100919-Thargoid_Fleet_Invades_Shinrarta_Dezhra.org][33100919-Thargoid_Fleet_Invades_Shinrarta_Dezhra.org]]

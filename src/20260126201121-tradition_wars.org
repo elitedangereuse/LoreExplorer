@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       944dcd94-701e-499b-875b-57e6855199b8
+:END:
+#+title: Tradition Wars
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011106-GalNet_Weekly_Conflict_Report.org][33011106-GalNet_Weekly_Conflict_Report.org]]

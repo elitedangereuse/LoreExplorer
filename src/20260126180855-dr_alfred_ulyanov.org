@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       86d2800f-cce8-4682-90ae-34f413f38d61
+:END:
+#+title: Dr Alfred Ulyanov
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040616-Worshipping_the_Thargoids.org][33040616-Worshipping_the_Thargoids.org]]

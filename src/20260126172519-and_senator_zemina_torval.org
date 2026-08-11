@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f041c6e0-571b-4acd-b5b1-4438c7d8f20d
+:END:
+#+title: And Senator Zemina Torval
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3310/33101107-A_New_Dawn_for_Humanity_.org][33101107-A_New_Dawn_for_Humanity_.org]]

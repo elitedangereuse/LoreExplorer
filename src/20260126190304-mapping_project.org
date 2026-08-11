@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d8a0c180-41e4-4260-94c4-e8e3f618e941
+:END:
+#+title: Mapping Project
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020424-Freelance_Report__Explorers_Contribute_to_Mapping_Project.org][33020424-Freelance_Report__Explorers_Contribute_to_Mapping_Project.org]]

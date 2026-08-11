@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b06ac9f5-0cd7-41b3-87cb-fae396a07ef5
+:END:
+#+title: Electra Cleaver Prospect
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33031202-Galactic_News__New_Aegis_Initiative.org][33031202-Galactic_News__New_Aegis_Initiative.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b556ca24-6afe-493d-bf50-f4fc2eae8da2
+:END:
+#+title: Kokoller Mining Initiative Concludes
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090706-Kokoller_Mining_Initiative_Concludes.org][33090706-Kokoller_Mining_Initiative_Concludes.org]]

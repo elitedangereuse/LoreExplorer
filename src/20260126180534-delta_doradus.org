@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3878a447-543b-45ed-8a31-924a2bb3b7c6
+:END:
+#+title: Delta Doradus
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011029-Garrison_Supplies_Found_in_Criminal_Hands.org][33011029-Garrison_Supplies_Found_in_Criminal_Hands.org]]

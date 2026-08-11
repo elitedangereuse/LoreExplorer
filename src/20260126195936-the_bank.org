@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1ebc30f3-ce24-4529-9947-cb33a338bf90
+:END:
+#+title: The Bank
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050510-President_Kincaid_Denies_Corruption.org][33050510-President_Kincaid_Denies_Corruption.org]]

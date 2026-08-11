@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0cd95fd6-3651-4a22-b3fc-4aca282bde16
+:END:
+#+title: Malina Confederacy Stein
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020308-Galactic_News__Weekly_Security_Digest.org][33020308-Galactic_News__Weekly_Security_Digest.org]]

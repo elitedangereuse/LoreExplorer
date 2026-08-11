@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2d7e1421-86e2-4eea-9a79-2e53e1dc2ad1
+:END:
+#+title: Admiral Buchanan
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040706-Major_Victories_against_the_League_of_Reparation.org][33040706-Major_Victories_against_the_League_of_Reparation.org]]

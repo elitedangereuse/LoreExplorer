@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b5e05a5e-6675-46f6-aa59-e8e5ae9f2ca6
+:END:
+#+title: Auto Loader
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090713-Deliver_Rarities_for_Azimuth_Event.org][33090713-Deliver_Rarities_for_Azimuth_Event.org]]

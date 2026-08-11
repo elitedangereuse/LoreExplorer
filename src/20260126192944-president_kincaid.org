@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a9bcb99a-3eee-48f1-bddc-34e4609c8517
+:END:
+#+title: President Kincaid
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040901-Alliance_President_Proposes_Changes.org][33040901-Alliance_President_Proposes_Changes.org]]

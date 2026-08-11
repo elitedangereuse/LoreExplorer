@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4c116c4e-5fc7-4990-9986-e2b0243d723f
+:END:
+#+title: MetaDrive Inc
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020812-Galactic_News__Economic_Turmoil_Ahead_.org][33020812-Galactic_News__Economic_Turmoil_Ahead_.org]]

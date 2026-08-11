@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       972892f9-ca86-4389-99e1-7cbfaac7cae5
+:END:
+#+title: Blue United Group Wolf
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020726-Galactic_News__Weekly_Security_Report.org][33020726-Galactic_News__Weekly_Security_Report.org]]

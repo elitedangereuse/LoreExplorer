@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4e9589c9-7426-40dc-82d4-6433e65df2d5
+:END:
+#+title: Azimuth Conducts AX Weapons Research
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090103-Azimuth_Conducts_AX_Weapons_Research.org][33090103-Azimuth_Conducts_AX_Weapons_Research.org]]

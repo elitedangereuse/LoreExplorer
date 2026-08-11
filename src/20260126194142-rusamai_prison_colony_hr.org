@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7da1a85e-4b3d-4928-a075-a909f781099c
+:END:
+#+title: Rusamai Prison Colony HR
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010815-GalNet_Weekly_Expansion_List.org][33010815-GalNet_Weekly_Expansion_List.org]]

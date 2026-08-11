@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6b079dd4-e231-459b-a5b3-7d2dcb1acfda
+:END:
+#+title: The Voices
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010729-Operation_Davy_Jones_-_The_Voices_of_Dissent.org][33010729-Operation_Davy_Jones_-_The_Voices_of_Dissent.org]]

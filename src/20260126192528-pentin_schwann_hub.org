@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       985d790c-46f5-4704-b259-c3b3cb2650af
+:END:
+#+title: Pentin Schwann Hub
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030314-Galactic_News__Starport_Status_Update.org][33030314-Galactic_News__Starport_Status_Update.org]]

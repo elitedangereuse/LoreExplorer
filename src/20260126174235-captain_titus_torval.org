@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5ac8a138-dae0-4253-a8d1-9cdf2c13fe72
+:END:
+#+title: Captain Titus Torval
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090413-Torval_Mining_Victorious_in_Corporate_Conflict.org][33090413-Torval_Mining_Victorious_in_Corporate_Conflict.org]]

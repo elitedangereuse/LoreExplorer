@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       251676c6-1ada-4a61-9c2e-f32340b7c82f
+:END:
+#+title: Presidential Candidates Outline Manifestos
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090717-Presidential_Candidates_Outline_Manifestos.org][33090717-Presidential_Candidates_Outline_Manifestos.org]]

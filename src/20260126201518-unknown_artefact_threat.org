@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       471de5c4-c9cd-49f7-8f6e-e3949c4348a2
+:END:
+#+title: Unknown Artefact Threat
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020324-Community_Goal__Neutralising_the_Unknown_Artefact_Threat.org][33020324-Community_Goal__Neutralising_the_Unknown_Artefact_Threat.org]]

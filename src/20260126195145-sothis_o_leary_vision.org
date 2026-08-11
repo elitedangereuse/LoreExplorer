@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7ca31dc5-025f-47e3-aa97-85481142ea78
+:END:
+#+title: Sothis O'Leary Vision
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040712-Starport_Status_Update.org][33040712-Starport_Status_Update.org]]

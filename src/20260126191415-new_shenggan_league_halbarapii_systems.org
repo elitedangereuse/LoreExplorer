@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       47bc357b-c31c-405a-90f1-6b28196c2375
+:END:
+#+title: New Shenggan League Halbarapii Systems
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030705-Galactic_News__Weekly_Security_Report.org][33030705-Galactic_News__Weekly_Security_Report.org]]

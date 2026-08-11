@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       489a04e5-9c4e-4e36-8e7e-b509f6eae35a
+:END:
+#+title: Aparctias Future
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021226-Galactic_News__Weekly_Economic_Report.org][33021226-Galactic_News__Weekly_Economic_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5eecde0d-3b1a-492e-8fc8-a2a7c80cc057
+:END:
+#+title: Sagittarius-Carina Mission
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020424-Freelance_Report__Explorers_Contribute_to_Mapping_Project.org][33020424-Freelance_Report__Explorers_Contribute_to_Mapping_Project.org]]

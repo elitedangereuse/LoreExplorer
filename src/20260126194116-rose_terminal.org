@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       601c9cb1-ad43-4bad-a46f-a9ac34e62ba9
+:END:
+#+title: Rose Terminal
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030209-Community_Goal__Valentine's_Day_Appeal.org][33030209-Community_Goal__Valentine's_Day_Appeal.org]]

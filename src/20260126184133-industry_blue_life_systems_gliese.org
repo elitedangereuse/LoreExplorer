@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       38ad7ab9-3dcb-41c1-bfde-b2a57b157786
+:END:
+#+title: Industry Blue Life Systems Gliese
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020324-Galactic_News__Weekly_Democracy_Report.org][33020324-Galactic_News__Weekly_Democracy_Report.org]]

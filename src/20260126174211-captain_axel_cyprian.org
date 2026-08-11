@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a2210c7d-7bce-4c09-a780-7f8dbf833a6b
+:END:
+#+title: Captain Axel Cyprian
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33061105-Federal_and_Imperial_Forces_Engage_in_Battle.org][33061105-Federal_and_Imperial_Forces_Engage_in_Battle.org]]

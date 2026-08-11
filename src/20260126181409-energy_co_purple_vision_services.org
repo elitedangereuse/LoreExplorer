@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9c9bffa7-3550-4a64-af96-6ea495254221
+:END:
+#+title: Energy Co Purple Vision Services
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020614-Galactic_News__Weekly_Security_Report.org][33020614-Galactic_News__Weekly_Security_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1c1aae3d-8665-48a7-883f-41f388bb2e7d
+:END:
+#+title: Given Bold New Livery
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011129-Rescue_Ships_to_be_Given_Bold_New_Livery.org][33011129-Rescue_Ships_to_be_Given_Bold_New_Livery.org]]

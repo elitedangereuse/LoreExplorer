@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b34afead-3ef6-445a-afb1-6e0e181f2cf7
+:END:
+#+title: Join Research Group
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010927-Palin_Invited_to_Join_Research_Group.org][33010927-Palin_Invited_to_Join_Research_Group.org]]

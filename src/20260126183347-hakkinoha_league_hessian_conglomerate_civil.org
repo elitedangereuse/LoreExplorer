@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b395733a-8f0b-4c36-9ae4-4be09b7156bc
+:END:
+#+title: Hakkinoha League Hessian Conglomerate Civil
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020426-Galactic_News__Weekly_Security_Report.org][33020426-Galactic_News__Weekly_Security_Report.org]]

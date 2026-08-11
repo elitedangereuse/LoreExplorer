@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       51b2f87d-9575-4769-b5cb-108cd68819e5
+:END:
+#+title: Second Titan Defeated
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3310/33100318-Thargoid_War_Bulletin__Second_Titan_Defeated.org][33100318-Thargoid_War_Bulletin__Second_Titan_Defeated.org]]

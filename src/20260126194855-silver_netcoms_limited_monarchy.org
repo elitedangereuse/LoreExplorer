@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       44e03e5c-06d4-4e31-81eb-5282d4c7d836
+:END:
+#+title: Silver Netcoms Limited Monarchy
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030705-Galactic_News__Weekly_Security_Report.org][33030705-Galactic_News__Weekly_Security_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       da281ae7-d4ca-4155-9656-dd0bdc8c5c0d
+:END:
+#+title: Nyberg Vision Station
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020110-Galactic_Base-Jumping_Open_Begins.org][33020110-Galactic_Base-Jumping_Open_Begins.org]]

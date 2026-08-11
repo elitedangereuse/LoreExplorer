@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       18fb2d91-71a6-49ee-b416-dc8c4ccfee67
+:END:
+#+title: Tanmark United Systems Clan
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010901-GalNet_Weekly_Security_Digest.org][33010901-GalNet_Weekly_Security_Digest.org]]

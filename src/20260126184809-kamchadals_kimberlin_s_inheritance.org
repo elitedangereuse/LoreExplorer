@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       98def9a7-3038-4d9a-a047-8b0e360770a6
+:END:
+#+title: Kamchadals Kimberlin's Inheritance
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040425-Starport_Status_Update.org][33040425-Starport_Status_Update.org]]

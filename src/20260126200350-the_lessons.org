@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bf2c178f-9eb3-4729-a027-252a7c756533
+:END:
+#+title: The Lessons
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33051102-The_Lessons_of_the_Blight.org][33051102-The_Lessons_of_the_Blight.org]]

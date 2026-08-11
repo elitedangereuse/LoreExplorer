@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       cbf56f3e-f318-447d-b991-89e99ce2ecec
+:END:
+#+title: The Mars Tribune
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040824-Congressman’s_Criminal_Ties_Exposed.org][33040824-Congressman’s_Criminal_Ties_Exposed.org]]

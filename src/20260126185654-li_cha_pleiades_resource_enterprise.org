@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       79d97fdf-241e-4aad-b50a-eb8863b9f360
+:END:
+#+title: Li Cha Pleiades Resource Enterprise
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021007-Galactic_News__Weekly_Conflict_Report.org][33021007-Galactic_News__Weekly_Conflict_Report.org]]

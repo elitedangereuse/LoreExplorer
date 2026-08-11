@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ccb98562-b9cd-4ee8-9fff-154df6263f7a
+:END:
+#+title: Governor Albrecht
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011006-Remembering_the_Victims_of_the_Cerberus_Plague.org][33011006-Remembering_the_Victims_of_the_Cerberus_Plague.org]]

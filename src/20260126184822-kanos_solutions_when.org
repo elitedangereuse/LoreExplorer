@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       76347c75-d24b-4750-b473-c24df3a8edee
+:END:
+#+title: Kanos Solutions When
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021018-Galactic_News__Weekly_Security_Report.org][33021018-Galactic_News__Weekly_Security_Report.org]]

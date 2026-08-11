@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3a8b9ce7-8845-456e-8cff-2d95ee57d6ec
+:END:
+#+title: Moni's Hub
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030526-Community_Goal__Superpower_Expansion.org][33030526-Community_Goal__Superpower_Expansion.org]]

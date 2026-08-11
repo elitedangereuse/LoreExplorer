@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9cf8f8ef-c146-413a-8a2b-eee40a56127a
+:END:
+#+title: Holloway Biology Centre
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33051211-Holloway_Biology_Centre_Opens.org][33051211-Holloway_Biology_Centre_Opens.org]]

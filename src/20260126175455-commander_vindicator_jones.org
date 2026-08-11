@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       72694ee0-85ae-4a24-97b1-52b35ec58eb4
+:END:
+#+title: Commander Vindicator Jones
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020902-Freelance_Report__We_Should_Have_Listened_to_Dr_Lorax.org][33020902-Freelance_Report__We_Should_Have_Listened_to_Dr_Lorax.org]]

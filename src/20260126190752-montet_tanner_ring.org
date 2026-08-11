@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ca7e36f3-9886-4e3e-af2a-d979c1a8d875
+:END:
+#+title: Montet Tanner Ring
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040823-Starport_Status_Update.org][33040823-Starport_Status_Update.org]]

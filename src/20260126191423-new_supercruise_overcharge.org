@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c8a03ade-f562-46e9-8917-02d44613e65b
+:END:
+#+title: New Supercruise Overcharge
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3310/33100410-New_Supercruise_Overcharge_module_enters_the_market,_a_“turning_point_for_humanity”.org][33100410-New_Supercruise_Overcharge_module_enters_the_market,_a_“turning_point_for_humanity”.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b1c17674-4af6-4035-9843-65ca7d0562d9
+:END:
+#+title: London Treaty
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020812-Galactic_News__Economic_Turmoil_Ahead_.org][33020812-Galactic_News__Economic_Turmoil_Ahead_.org]]

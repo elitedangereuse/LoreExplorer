@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c30b43da-aa0f-40fa-b788-4fce056559d6
+:END:
+#+title: Rare Goods Delivered
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33061001-Rare_Goods_Delivered_for_Harold_Duval’s_Memorial_Ceremony.org][33061001-Rare_Goods_Delivered_for_Harold_Duval’s_Memorial_Ceremony.org]]

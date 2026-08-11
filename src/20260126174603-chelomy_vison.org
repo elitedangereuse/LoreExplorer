@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e0601a29-cd57-4024-afe2-3b642a721714
+:END:
+#+title: Chelomy Vison
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010208-Underground_Racers_Spotted_In_and_Around_Sol.org][33010208-Underground_Racers_Spotted_In_and_Around_Sol.org]]

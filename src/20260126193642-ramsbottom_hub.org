@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6740ae68-b1fd-41f8-8b3a-6da4e923db18
+:END:
+#+title: Ramsbottom Hub
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020707-Community_Goal__Federal_Expansion_Campaign_Begins.org][33020707-Community_Goal__Federal_Expansion_Campaign_Begins.org]]

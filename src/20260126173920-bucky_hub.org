@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       52c254d2-0987-42a9-85a1-607ec9b6c558
+:END:
+#+title: Bucky Hub
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020107-Firework_Appeal_Comes_to_an_End.org][33020107-Firework_Appeal_Comes_to_an_End.org]]

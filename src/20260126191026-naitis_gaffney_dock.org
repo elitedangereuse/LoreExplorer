@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4aecd595-0929-49ec-bd5c-cd43e9f1063c
+:END:
+#+title: Naitis Gaffney Dock
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030321-Galactic_News__Starport_Status_Update.org][33030321-Galactic_News__Starport_Status_Update.org]]

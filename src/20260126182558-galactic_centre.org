@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d8df12fc-7000-4743-bc42-ecf2ab007027
+:END:
+#+title: Galactic Centre
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050117-Distant_Worlds_Initiative.org][33050117-Distant_Worlds_Initiative.org]]

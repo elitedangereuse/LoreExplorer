@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e59c1f11-e4b2-49ac-8024-95bb8b56947a
+:END:
+#+title: Kraken Shield Specialists
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040829-Engineers_Established_in_Colonia.org][33040829-Engineers_Established_in_Colonia.org]]

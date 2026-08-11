@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6c27a05e-65a1-4cb3-8772-d08ad3e58185
+:END:
+#+title: Party When
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030130-Galactic_News__Weekly_Economic_Report.org][33030130-Galactic_News__Weekly_Economic_Report.org]]

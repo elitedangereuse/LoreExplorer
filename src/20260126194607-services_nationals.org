@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bc5ab005-50b9-4648-a564-e5305251b922
+:END:
+#+title: Services Nationals
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020308-Galactic_News__Weekly_Security_Digest.org][33020308-Galactic_News__Weekly_Security_Digest.org]]

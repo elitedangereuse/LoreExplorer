@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9747b22d-73bd-4f44-8876-65538faae939
+:END:
+#+title: Socho Gold Raiders
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040531-Anarchy_in_Socho.org][33040531-Anarchy_in_Socho.org]]

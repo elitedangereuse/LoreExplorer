@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       acaffd40-55ff-44a8-bb8c-f63fbbaacc4a
+:END:
+#+title: Checha Gentle Survey
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040629-Starport_Status_Update.org][33040629-Starport_Status_Update.org]]

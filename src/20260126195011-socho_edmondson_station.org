@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       84e9790c-2fdf-4442-a784-0ad7ed0f705b
+:END:
+#+title: Socho Edmondson Station
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040510-Starport_Status_Update.org][33040510-Starport_Status_Update.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bcc0f481-46c7-4e47-abcb-5881cc81a442
+:END:
+#+title: Loren's Legion Issues Request
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030302-Community_Goal__Loren's_Legion_Issues_Request.org][33030302-Community_Goal__Loren's_Legion_Issues_Request.org]]

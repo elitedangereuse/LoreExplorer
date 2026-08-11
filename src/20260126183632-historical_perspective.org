@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       aadf77c0-b53c-4ceb-a3ef-cf56a26365cd
+:END:
+#+title: Historical Perspective
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080623-Azimuth__A_Historical_Perspective_(Part_One).org][33080623-Azimuth__A_Historical_Perspective_(Part_One).org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8ef303c5-14c7-4033-a38e-9d12198a6210
+:END:
+#+title: Orbis Starport
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020617-Freelance_Report__Searching_for_Jaques.org][33020617-Freelance_Report__Searching_for_Jaques.org]]

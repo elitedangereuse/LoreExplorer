@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e28bae47-c8ad-4d74-a4e8-bf0ea1dbd22c
+:END:
+#+title: Silver Universal Plc
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010424-Justice_Isn’t_Always_Blind.org][33010424-Justice_Isn’t_Always_Blind.org]]

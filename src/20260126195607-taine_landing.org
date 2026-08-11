@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       afa78de2-0743-408d-837b-bbbbdde96eb1
+:END:
+#+title: Taine Landing
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040215-Starport_Status_Update.org][33040215-Starport_Status_Update.org]]

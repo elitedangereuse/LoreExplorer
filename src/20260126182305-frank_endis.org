@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       caaac95c-8f93-4288-ad63-e1cd91e792f7
+:END:
+#+title: Frank Endis
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33071209-Vodel_Releases_Scorpion_SRV.org][33071209-Vodel_Releases_Scorpion_SRV.org]]

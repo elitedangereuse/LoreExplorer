@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       cc3a5749-96d3-4658-8a5c-d3a61f082b22
+:END:
+#+title: Legion Bureau
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020227-Galactic_News__Weekly_Expansion_List.org][33020227-Galactic_News__Weekly_Expansion_List.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8519764b-d0de-4ce4-b6c8-f7b59d8c8626
+:END:
+#+title: He Bo
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010504-Scientists_Baffled_by_Mysterious_Artefacts.org][33010504-Scientists_Baffled_by_Mysterious_Artefacts.org]]

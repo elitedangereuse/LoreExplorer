@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7be4a8a9-0ac2-42c1-84b9-141f62e44cdc
+:END:
+#+title: Colonel Ernest Harris
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33061105-Federal_and_Imperial_Forces_Engage_in_Battle.org][33061105-Federal_and_Imperial_Forces_Engage_in_Battle.org]]

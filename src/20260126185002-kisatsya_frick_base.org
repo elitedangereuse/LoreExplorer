@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e13b7134-3f8c-45e9-9c9f-bc1acf47c0b7
+:END:
+#+title: Kisatsya Frick Base
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030103-Galactic_News__Starport_Status_Update.org][33030103-Galactic_News__Starport_Status_Update.org]]

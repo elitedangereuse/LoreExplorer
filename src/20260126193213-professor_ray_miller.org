@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6df86b74-90d5-4101-9212-b61bd9787da2
+:END:
+#+title: Professor Ray Miller
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020901-Galactic_News__United_Research_Council_Announces_New_Programme.org][33020901-Galactic_News__United_Research_Council_Announces_New_Programme.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d5f40054-d93d-440f-81f6-87c33cb8408c
+:END:
+#+title: EQ Pegasi Ithaca One Uszaa
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020823-Galactic_News__Weekly_Security_Report.org][33020823-Galactic_News__Weekly_Security_Report.org]]
