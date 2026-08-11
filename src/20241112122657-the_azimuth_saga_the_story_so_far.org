@@ -512,7 +512,7 @@ system.
 A long-lost research facility was discovered in the Snake Sector GW-W
 c1-1 system following a distress signal picked up by a megaship forming
 the Colonia Bridge. The source was later identified as Holloway
-Bioscience Facility 15 on moon 5 b. The Holloway Bioscience Institute
+Bioscience Facility 15 on moon 5 b. The [[id:3d9b071c-c232-431f-8f63-5c3a594b9909][Holloway Bioscience Institute]]
 refused to comment on rumours that the facility's original crew
 encountered a previously unidentified life form.
 
