@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       6933205d-0497-4eb8-a263-3f627a176b25
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Lhou+Mans
+:END:
+#+title: Lhou Mans
+#+filetags: :3312:System:
+
+Starport facilities in Lhou Mans were attacked in 3312. Data-malware packages bearing [[id:073c8f57-9187-4884-91d7-51f584d7209a][twin axe motifs]] were reported across its networks.
