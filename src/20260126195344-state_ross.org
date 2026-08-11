@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       92be27ab-31da-4a18-b5ab-7f44b12fdaff
+:END:
+#+title: State Ross
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021209-Galactic_News__Weekly_Conflict_Report.org][33021209-Galactic_News__Weekly_Conflict_Report.org]]

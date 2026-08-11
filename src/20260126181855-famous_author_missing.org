@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c591c1d4-08b9-4a73-8612-403f2f558f9c
+:END:
+#+title: Famous Author Missing
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33041111-Famous_Author_Missing.org][33041111-Famous_Author_Missing.org]]

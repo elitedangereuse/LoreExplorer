@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       98efba18-bfb7-4f8e-a2da-ffe95bac94be
+:END:
+#+title: Gutamaya Corporation
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010411-Imperial_Citizens_are_Meant_to_Fly.org][33010411-Imperial_Citizens_are_Meant_to_Fly.org]]

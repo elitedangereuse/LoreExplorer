@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       61150d61-dbef-416e-95d2-32aef9ac6372
+:END:
+#+title: Aepyornis Eggs
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33031117-Community_Goal__Lunch_in_Leesti.org][33031117-Community_Goal__Lunch_in_Leesti.org]]

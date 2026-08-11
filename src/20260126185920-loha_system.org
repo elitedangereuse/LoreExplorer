@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a21ac20c-62ce-451d-aa37-8acdb45e46d4
+:END:
+#+title: Loha System
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33041122-Hostilities_Erupt_in_Loha_System.org][33041122-Hostilities_Erupt_in_Loha_System.org]]

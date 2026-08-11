@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0042c0bb-df8b-4f04-8226-63647fc03080
+:END:
+#+title: Zugen Incorporated
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030109-Galactic_News__Weekly_Economic_Report.org][33030109-Galactic_News__Weekly_Economic_Report.org]]

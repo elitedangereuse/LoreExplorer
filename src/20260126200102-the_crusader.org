@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f37f4e90-5025-4944-b380-9ed4400ee2e6
+:END:
+#+title: The Crusader
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040825-Lakon_Releases_Alliance_Crusader.org][33040825-Lakon_Releases_Alliance_Crusader.org]]

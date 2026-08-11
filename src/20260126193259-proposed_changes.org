@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5a53528d-4237-4f30-aa50-d5e56d916309
+:END:
+#+title: Proposed Changes
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040907-Assembly_to_Vote_on_Proposed_Changes.org][33040907-Assembly_to_Vote_on_Proposed_Changes.org]]

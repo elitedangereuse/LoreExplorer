@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d8c91ecf-d91f-41cb-85ce-bf18118f5ed9
+:END:
+#+title: Professor Raddix
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3311/33110902-Mystery_Of_Missing_Exobiology_Protégé_Deepens.org][33110902-Mystery_Of_Missing_Exobiology_Protégé_Deepens.org]]

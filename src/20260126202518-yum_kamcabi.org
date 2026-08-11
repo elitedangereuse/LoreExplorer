@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c85cfed0-b9a3-4c9c-8269-c51de239baed
+:END:
+#+title: Yum Kamcabi
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030202-Community_Goal__Halsey_to_Build_Refugee_Centre.org][33030202-Community_Goal__Halsey_to_Build_Refugee_Centre.org]]

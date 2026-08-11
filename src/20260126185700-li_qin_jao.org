@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       feb4ef36-d172-492c-ad94-a8f89b6bc5e9
+:END:
+#+title: Li Qin Jao
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010705-The_Founding_of_the_Federation.org][33010705-The_Founding_of_the_Federation.org]]

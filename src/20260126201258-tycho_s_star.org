@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9bbd86db-f73a-488d-bed2-a49c84d38309
+:END:
+#+title: Tycho's Star
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021014-Freelance_Report__The_Cassiopeia_Expedition.org][33021014-Freelance_Report__The_Cassiopeia_Expedition.org]]

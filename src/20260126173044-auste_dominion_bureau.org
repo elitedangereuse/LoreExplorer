@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0b00b14a-7ccd-439c-942d-b28ba9982912
+:END:
+#+title: Auste Dominion Bureau
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030624-Galactic_News__Weekly_Conflict_Report.org][33030624-Galactic_News__Weekly_Conflict_Report.org]]

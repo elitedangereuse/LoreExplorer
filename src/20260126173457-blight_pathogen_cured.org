@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ee11c698-6e3f-4f3b-bdcd-b75ae01eef66
+:END:
+#+title: Blight Pathogen Cured
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33051031-Blight_Pathogen_Cured.org][33051031-Blight_Pathogen_Cured.org]]

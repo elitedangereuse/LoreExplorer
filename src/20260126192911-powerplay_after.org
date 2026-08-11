@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f679a75b-b84a-4a78-bd9b-37dbe24a8af3
+:END:
+#+title: Powerplay After
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010807-A_Week_in_Powerplay.org][33010807-A_Week_in_Powerplay.org]]

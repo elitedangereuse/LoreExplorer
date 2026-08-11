@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       dc753d16-d5ff-4acb-8b9d-5935f9dc4511
+:END:
+#+title: Columbae Boys
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020425-Galactic_News__Weekly_Economic_Report.org][33020425-Galactic_News__Weekly_Economic_Report.org]]

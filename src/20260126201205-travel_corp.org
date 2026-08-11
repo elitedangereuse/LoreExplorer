@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       084e011a-a36b-44e9-8776-ed52cfa66d34
+:END:
+#+title: Travel Corp
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021228-Galactic_News__Weekly_Health_Report.org][33021228-Galactic_News__Weekly_Health_Report.org]]

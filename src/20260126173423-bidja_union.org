@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4e9d3913-9c2b-4f34-a65f-3b8f437fca28
+:END:
+#+title: Bidja Union
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011024-GalNet_Weekly_Expansion_List.org][33011024-GalNet_Weekly_Expansion_List.org]]

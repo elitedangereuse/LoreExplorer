@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       59e2c513-87ac-45c2-9dfe-5bbe3f50cc83
+:END:
+#+title: The Bright Sentinel
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080713-The_Battle_of_HIP_22460.org][33080713-The_Battle_of_HIP_22460.org]]

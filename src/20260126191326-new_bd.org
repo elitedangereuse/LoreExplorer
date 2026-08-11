@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0559f300-3cb8-4eeb-82af-1990d4737ea7
+:END:
+#+title: New BD
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020211-Galactic_News__Focus_on_Democracy.org][33020211-Galactic_News__Focus_on_Democracy.org]]

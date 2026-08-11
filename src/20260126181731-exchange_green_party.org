@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       845aadb9-6517-4d64-b558-f7c9574a043d
+:END:
+#+title: Exchange Green Party
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021109-Galactic_News__Weekly_Health_Report.org][33021109-Galactic_News__Weekly_Health_Report.org]]

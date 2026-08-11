@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a6f8f18b-f47a-4ea0-b971-e7001fc35dac
+:END:
+#+title: Galactic Summit Proposal
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070118-Galactic_Summit_Proposal_from_Sirius_Corporation.org][33070118-Galactic_Summit_Proposal_from_Sirius_Corporation.org]]

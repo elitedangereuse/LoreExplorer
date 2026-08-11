@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c59699ea-8638-42ba-b62e-a7f2bbe5f325
+:END:
+#+title: Fort Harrison
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010920-Federal_Research_Programme_Terminated.org][33010920-Federal_Research_Programme_Terminated.org]]

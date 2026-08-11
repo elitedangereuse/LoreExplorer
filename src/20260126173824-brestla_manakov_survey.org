@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       47624e16-ad74-4038-afeb-bbeee60a7db6
+:END:
+#+title: Brestla Manakov Survey
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021020-Galactic_News__Starport_Status_Update.org][33021020-Galactic_News__Starport_Status_Update.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d06a9d9f-a3a5-4e09-a166-4c6215de8549
+:END:
+#+title: Farmers Union
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010224-Lucan_Onionhead_Lives_On_in_Tanmark.org][33010224-Lucan_Onionhead_Lives_On_in_Tanmark.org]]

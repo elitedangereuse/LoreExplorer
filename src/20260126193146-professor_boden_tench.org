@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e8419565-e2c0-4bb3-aa5a-960f7336b2eb
+:END:
+#+title: Professor Boden Tench
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33031208-Galactic_News__Aegis_Initiative_off_to_a_Promising_Start.org][33031208-Galactic_News__Aegis_Initiative_off_to_a_Promising_Start.org]]

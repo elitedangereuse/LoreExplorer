@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       635f645d-a002-46d0-bb08-b89a728445eb
+:END:
+#+title: Commander Shole
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010227-The_Fight_Against_Falisci.org][33010227-The_Fight_Against_Falisci.org]]

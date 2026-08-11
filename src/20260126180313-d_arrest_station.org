@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f37f129a-9f4c-47b6-8ac6-7e69d9a909b0
+:END:
+#+title: D'Arrest Station
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020218-Community_Goal__Free_the_Slaves.org][33020218-Community_Goal__Free_the_Slaves.org]]

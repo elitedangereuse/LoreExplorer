@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7e3235bf-34b7-46ea-81fb-75c6624013f7
+:END:
+#+title: The Simbad Regime
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040119-Simbad_Regime_Campaign.org][33040119-Simbad_Regime_Campaign.org]]

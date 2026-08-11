@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bb5355e0-34da-4208-829f-91b791ba6791
+:END:
+#+title: Leaders Respond
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080701-Leaders_Respond_to_Azimuth_Initiative.org][33080701-Leaders_Respond_to_Azimuth_Initiative.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c4347e54-2e89-4ff9-8e5a-96f6349f9c3a
+:END:
+#+title: Ms Ryder
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070204-Engineer’s_Enhanced_Missile_Rack_Initiative.org][33070204-Engineer’s_Enhanced_Missile_Rack_Initiative.org]]

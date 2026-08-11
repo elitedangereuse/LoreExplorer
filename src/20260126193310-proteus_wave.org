@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       429e365f-372e-4431-bbbd-1ac9a164a58e
+:END:
+#+title: Proteus Wave
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080630-Salvation_Prepares_‘Final_Thargoid_Battlefield’.org][33080630-Salvation_Prepares_‘Final_Thargoid_Battlefield’.org]]

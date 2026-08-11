@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5225d139-7e43-42c1-837e-39b6d3937326
+:END:
+#+title: Obotrima Organisation
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020915-Community_Goal__The_Fight_for_Thoreau_Orbital.org][33020915-Community_Goal__The_Fight_for_Thoreau_Orbital.org]]

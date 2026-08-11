@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1b84b4df-2fad-427a-8a65-2e6d8b66eda9
+:END:
+#+title: Thief Strikes Again
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050214-Thief_Strikes_Again.org][33050214-Thief_Strikes_Again.org]]

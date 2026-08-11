@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       396655d6-cc6a-45c2-ac3f-473f217c4dc3
+:END:
+#+title: Rackham Capital Investments
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040620-Investor_Funds_Colonia_Shipyards.org][33040620-Investor_Funds_Colonia_Shipyards.org]]

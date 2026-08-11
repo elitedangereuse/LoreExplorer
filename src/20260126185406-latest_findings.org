@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2de4c354-1add-4e08-9d9e-be3f97c89b31
+:END:
+#+title: Latest Findings
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030706-Galactic_News__Specialists_Respond_to_Latest_Findings.org][33030706-Galactic_News__Specialists_Respond_to_Latest_Findings.org]]

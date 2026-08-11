@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       23fa693b-62c5-4261-8f5c-33a36dc3f2cc
+:END:
+#+title: Law Party
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010608-The_Dukes_of_Mikunn_Unveil_Mercenary’s_Respite.org][33010608-The_Dukes_of_Mikunn_Unveil_Mercenary’s_Respite.org]]

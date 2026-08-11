@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1f11392a-7324-491c-b554-f07f21aecc79
+:END:
+#+title: Defence Force Union
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020426-Galactic_News__Weekly_Security_Report.org][33020426-Galactic_News__Weekly_Security_Report.org]]

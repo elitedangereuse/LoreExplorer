@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       50eaa639-c65f-4fae-b117-a8cd4d4a03ef
+:END:
+#+title: The Institute
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33041020-Week_in_Review.org][33041020-Week_in_Review.org]]

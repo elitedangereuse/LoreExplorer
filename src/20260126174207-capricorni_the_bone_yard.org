@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3ff67d4b-95a4-4d3f-8803-d20be9a3c22f
+:END:
+#+title: Capricorni The Bone Yard
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030524-Galactic_News__Starport_Status_Update.org][33030524-Galactic_News__Starport_Status_Update.org]]

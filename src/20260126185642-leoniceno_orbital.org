@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2b3b614c-a472-4ca3-ae66-450c052cedb9
+:END:
+#+title: Leoniceno Orbital
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010527-Federal_Search_Efforts_Continue.org][33010527-Federal_Search_Efforts_Continue.org]]

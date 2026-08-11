@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       73b2d8a1-cb5d-439a-811a-8f83f6c306c2
+:END:
+#+title: Betseoltana Future Expansion
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011226-GalNet_Weekly_Expansion_List.org][33011226-GalNet_Weekly_Expansion_List.org]]

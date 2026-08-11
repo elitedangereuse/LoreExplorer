@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       fc33bbe5-bc4b-4554-b1dc-728daf8ff46f
+:END:
+#+title: Her Highness
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040413-Support_for_Aisling_Duval.org][33040413-Support_for_Aisling_Duval.org]]

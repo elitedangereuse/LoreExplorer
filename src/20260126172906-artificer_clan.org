@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6db430e4-5cfd-4a1c-95de-25ae3f819ad9
+:END:
+#+title: Artificer Clan
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080520-Mystery_in_Upaniklis.org][33080520-Mystery_in_Upaniklis.org]]

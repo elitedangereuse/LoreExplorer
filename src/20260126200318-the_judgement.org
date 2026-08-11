@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       fcaeb304-7da5-45b7-8342-b653fa684bf0
+:END:
+#+title: The Judgement
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080916-The_Judgement_of_Admiral_Tanner.org][33080916-The_Judgement_of_Admiral_Tanner.org]]

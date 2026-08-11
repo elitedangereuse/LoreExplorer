@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e34cc524-d3d5-4aff-978c-d8673f8a7318
+:END:
+#+title: Address Unknown-Artefact Issue
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030119-Community_Goal__Sirius_Corp._to_Address_Unknown-Artefact_Issue.org][33030119-Community_Goal__Sirius_Corp._to_Address_Unknown-Artefact_Issue.org]]

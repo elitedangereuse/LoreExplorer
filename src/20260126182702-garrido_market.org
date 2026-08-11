@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b6a2897d-dfdf-43fb-92fd-f7fb5020dc3d
+:END:
+#+title: Garrido Market
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33060910-Terrorist_Attacks_on_Imperial_Starports.org][33060910-Terrorist_Attacks_on_Imperial_Starports.org]]

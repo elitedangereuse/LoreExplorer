@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       dc14c6af-7b9d-4c03-98b9-f6788eda0a47
+:END:
+#+title: Zhao Gehry Gateway
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030810-Galactic_News__Starport_Status_Update.org][33030810-Galactic_News__Starport_Status_Update.org]]

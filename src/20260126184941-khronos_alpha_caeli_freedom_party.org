@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0f509044-7ea7-4ed4-9994-54c6e9fdb58f
+:END:
+#+title: Khronos Alpha Caeli Freedom Party
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030404-Galactic_News__Weekly_Security_Report.org][33030404-Galactic_News__Weekly_Security_Report.org]]

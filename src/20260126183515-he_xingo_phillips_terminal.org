@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       af1f7c4f-7008-479b-9c57-4d84b8d4d366
+:END:
+#+title: He Xingo Phillips Terminal
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030511-Galactic_News__Starport_Status_Update.org][33030511-Galactic_News__Starport_Status_Update.org]]

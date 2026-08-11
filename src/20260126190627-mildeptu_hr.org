@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       104a5621-acb8-4584-80f1-703fa1f549dc
+:END:
+#+title: Mildeptu HR
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030217-Galactic_News__Weekly_Conflict_Report.org][33030217-Galactic_News__Weekly_Conflict_Report.org]]

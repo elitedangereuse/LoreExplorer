@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ccbb7787-3445-4d56-b26c-1418bbeb31a9
+:END:
+#+title: Lost Planet
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080902-Remarkable_‘Lost_Planet’_Rediscovered.org][33080902-Remarkable_‘Lost_Planet’_Rediscovered.org]]

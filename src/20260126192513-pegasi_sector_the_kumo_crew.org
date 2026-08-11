@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4c5cfb42-1969-4d31-93cc-5623302f7193
+:END:
+#+title: Pegasi Sector The Kumo Crew
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010719-The_Unfettering_of_the_Pegasi_Sector.org][33010719-The_Unfettering_of_the_Pegasi_Sector.org]]

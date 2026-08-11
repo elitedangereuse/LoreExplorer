@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2464341a-176c-4a18-80e1-9d1cf3229d47
+:END:
+#+title: Co Dominion
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020920-Galactic_News__Weekly_Security_Report.org][33020920-Galactic_News__Weekly_Security_Report.org]]

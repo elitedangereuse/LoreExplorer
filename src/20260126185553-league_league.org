@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f7a225a9-1ce2-4caf-952d-bdcca886c295
+:END:
+#+title: League League
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011224-GalNet_Focus_on_Democracy.org][33011224-GalNet_Focus_on_Democracy.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5f8a9270-bd36-49d9-ae16-885dd4e8be7f
+:END:
+#+title: Network GD
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020202-Galactic_News__Weekly_Security_Digest.org][33020202-Galactic_News__Weekly_Security_Digest.org]]

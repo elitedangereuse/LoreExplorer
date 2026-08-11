@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       86e25dab-817e-4cfa-87d0-70ec3036273c
+:END:
+#+title: Noti Dock
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020421-Galactic_News__Alliance_Initiative_Successful.org][33020421-Galactic_News__Alliance_Initiative_Successful.org]]

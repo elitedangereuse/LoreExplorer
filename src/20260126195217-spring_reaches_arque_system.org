@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5f650095-7dd3-497a-9935-57e0f626f349
+:END:
+#+title: Spring Reaches Arque System
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050722-Carson’s_Spring_Reaches_Arque_System.org][33050722-Carson’s_Spring_Reaches_Arque_System.org]]

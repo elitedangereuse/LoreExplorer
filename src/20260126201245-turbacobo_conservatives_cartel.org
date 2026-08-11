@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       730ab271-be0b-46ff-90d7-af4a13ea452c
+:END:
+#+title: Turbacobo Conservatives Cartel
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011117-GalNet_Weekly_Security_Digest.org][33011117-GalNet_Weekly_Security_Digest.org]]

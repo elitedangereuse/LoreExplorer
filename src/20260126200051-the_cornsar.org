@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       046a5090-f00c-48b3-ab1b-13b5a3064750
+:END:
+#+title: The Cornsar
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070916-Thargoid_Strike_Follows_Salvation’s_Prediction.org][33070916-Thargoid_Strike_Follows_Salvation’s_Prediction.org]]

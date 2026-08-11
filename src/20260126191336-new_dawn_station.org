@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4e50b5e1-11bc-4b4b-8666-1805d5f0c53d
+:END:
+#+title: New Dawn Station
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020830-Galactic_News__Prospects_for_Malfunctioning_Starports_Improving.org][33020830-Galactic_News__Prospects_for_Malfunctioning_Starports_Improving.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ccd763df-7b06-420c-bfd4-088ed3ac3d02
+:END:
+#+title: State Interstellar AG
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021123-Galactic_News__Weekly_Health_Report.org][33021123-Galactic_News__Weekly_Health_Report.org]]

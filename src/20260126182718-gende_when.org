@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8fe8fe1e-85c9-4231-9891-04415ad2599d
+:END:
+#+title: Gende When
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020606-Galactic_News__Weekly_Economic_Report.org][33020606-Galactic_News__Weekly_Economic_Report.org]]

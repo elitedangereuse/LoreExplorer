@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3514ac20-5cec-4bae-a792-738ed3f93579
+:END:
+#+title: Frobisher Terminal
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021206-Galactic_News__Starport_Status_Update.org][33021206-Galactic_News__Starport_Status_Update.org]]

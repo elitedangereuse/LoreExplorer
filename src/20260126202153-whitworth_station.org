@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f8353af4-43c3-4d56-a781-0e5800af7634
+:END:
+#+title: Whitworth Station
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33041129-Hostilities_in_Loha_Conclude.org][33041129-Hostilities_in_Loha_Conclude.org]]

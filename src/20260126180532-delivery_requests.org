@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       fe14a9ca-6675-4952-b4c9-98dd57e99a60
+:END:
+#+title: Delivery Requests
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070304-Defence_and_Delivery_Requests_for_the_Sirius_System.org][33070304-Defence_and_Delivery_Requests_for_the_Sirius_System.org]]

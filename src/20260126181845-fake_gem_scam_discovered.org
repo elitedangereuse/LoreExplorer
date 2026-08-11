@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6efefca1-d0f8-447d-84f1-424268dec0b1
+:END:
+#+title: Fake Gem Scam Discovered
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011217-Fake_Gem_Scam_Discovered.org][33011217-Fake_Gem_Scam_Discovered.org]]

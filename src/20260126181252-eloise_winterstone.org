@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5d663b4e-ab65-4a80-ba5a-16dceaf33124
+:END:
+#+title: Eloise Winterstone
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050125-Blood_on_the_Senate_Floor.org][33050125-Blood_on_the_Senate_Floor.org]]

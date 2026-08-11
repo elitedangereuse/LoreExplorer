@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       51b66e54-b51d-4900-823c-065699c26152
+:END:
+#+title: Achilles Corporation
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040928-Robot_Surveillance_Program_Discovered.org][33040928-Robot_Surveillance_Program_Discovered.org]]

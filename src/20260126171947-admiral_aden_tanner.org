@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0b2cd705-b9ec-4608-a067-373e78df8b2e
+:END:
+#+title: Admiral Aden Tanner
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030407-Galactic_News__Alien_Tsar_Makes_Statement.org][33030407-Galactic_News__Alien_Tsar_Makes_Statement.org]]

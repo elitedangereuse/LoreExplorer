@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0f00b5ad-da77-4375-89bd-780ce1c65f88
+:END:
+#+title: Blue Dynamic Comms Values Party
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010706-GalNet_Weekly_Economic_Report.org][33010706-GalNet_Weekly_Economic_Report.org]]

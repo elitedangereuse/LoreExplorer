@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e79cfca6-7222-473a-82d4-48e06dab521a
+:END:
+#+title: Party The Gathering League
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020123-Galactic_News__Weekly_Expansion_List.org][33020123-Galactic_News__Weekly_Expansion_List.org]]

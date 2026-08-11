@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       19ae5e9d-fc43-4b82-844a-5e76cf836166
+:END:
+#+title: The Caustic Sink Launcher
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3310/33100229-The_Assault_on_Taranis.org][33100229-The_Assault_on_Taranis.org]]

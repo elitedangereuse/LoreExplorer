@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a3cf1de4-2622-435a-b292-9668d2162816
+:END:
+#+title: Distant Worlds Admins
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020112-The_Worlds_Beyond.org][33020112-The_Worlds_Beyond.org]]

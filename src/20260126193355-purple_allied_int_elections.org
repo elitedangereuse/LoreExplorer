@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5f3cd2e8-6299-4d09-b049-e874be73b6ff
+:END:
+#+title: Purple Allied Int Elections
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021020-Galactic_News__Weekly_Democracy_Report.org][33021020-Galactic_News__Weekly_Democracy_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       62045b90-956c-4f2a-b9ef-22d039b77b12
+:END:
+#+title: Silver Cartel Beta Comae Berenices
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011109-GalNet_Weekly_Economic_Report.org][33011109-GalNet_Weekly_Economic_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ad795fd4-57d9-4852-9523-7f8542f9be0d
+:END:
+#+title: Lal Candromir
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040920-Historical_Sculptures_Stolen.org][33040920-Historical_Sculptures_Stolen.org]]

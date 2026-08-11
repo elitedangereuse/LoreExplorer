@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7080b08f-1c46-4469-9cbb-74ed6dae26b6
+:END:
+#+title: Guroji HR
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020226-Galactic_News__Weekly_Conflict_Report.org][33020226-Galactic_News__Weekly_Conflict_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0014c043-aa58-4e82-ad70-e56d1d09645a
+:END:
+#+title: Akba Atacab Filippenko Dock
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33031206-Galactic_News__Starport_Status_Update.org][33031206-Galactic_News__Starport_Status_Update.org]]

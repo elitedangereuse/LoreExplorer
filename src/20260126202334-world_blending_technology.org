@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       50436b5d-0d84-443c-8dcd-050c4563d65d
+:END:
+#+title: World Blending Technology
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010303-Alliance_Terraforming_Initiative_Set_to_Enter_Final_Stage.org][33010303-Alliance_Terraforming_Initiative_Set_to_Enter_Final_Stage.org]]

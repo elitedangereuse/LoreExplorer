@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9ddf3a4d-237a-43d9-af82-112bbbf2ed3c
+:END:
+#+title: Dr Jeong-Hui Shin
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080905-Experts_Speculate_on_Thargoid_Behaviour.org][33080905-Experts_Speculate_on_Thargoid_Behaviour.org]]

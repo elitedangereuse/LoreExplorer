@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       394726b6-d471-42dd-a924-c95ae521f7ad
+:END:
+#+title: Hudson Takes Tour
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010407-Hudson_Takes_Tour_of_Brightlight_Facilities_in_Hors.org][33010407-Hudson_Takes_Tour_of_Brightlight_Facilities_in_Hors.org]]

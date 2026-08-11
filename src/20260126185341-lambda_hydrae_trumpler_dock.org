@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2e906e81-e904-4ad9-80c7-4bc4d00bf5fc
+:END:
+#+title: Lambda Hydrae Trumpler Dock
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040221-Starport_Status_Update.org][33040221-Starport_Status_Update.org]]

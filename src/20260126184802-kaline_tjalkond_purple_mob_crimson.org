@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       de803547-a66b-4dba-98a7-10f1f35fc2c4
+:END:
+#+title: Kaline Tjalkond Purple Mob Crimson
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020112-GalNet_Weekly_Security_Digest.org][33020112-GalNet_Weekly_Security_Digest.org]]

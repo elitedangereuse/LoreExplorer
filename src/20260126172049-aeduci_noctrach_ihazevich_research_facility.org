@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4cafdda0-bcdf-4fc3-9e2f-eea0c23eee37
+:END:
+#+title: Aeduci Noctrach-Ihazevich Research Facility
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021114-Galactic_News__Starport_Status_Update.org][33021114-Galactic_News__Starport_Status_Update.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1c962d8b-b6b1-405c-906a-7c8278152182
+:END:
+#+title: Social LP
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020426-Galactic_News__Weekly_Security_Report.org][33020426-Galactic_News__Weekly_Security_Report.org]]

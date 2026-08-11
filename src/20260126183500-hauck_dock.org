@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a2489ab2-808f-4a6f-93d2-e95c6e5aa379
+:END:
+#+title: Hauck Dock
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33031122-Galactic_News__Starport_Status_Update.org][33031122-Galactic_News__Starport_Status_Update.org]]

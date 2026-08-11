@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       cad2ab59-8bd5-448f-80ca-3f2321d12523
+:END:
+#+title: Augustus Sym
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020831-Galactic_News__Mysterious_Wreckage_Discovered.org][33020831-Galactic_News__Mysterious_Wreckage_Discovered.org]]

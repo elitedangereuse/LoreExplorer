@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b6aacfee-6dc7-4475-9fa7-46024c1036be
+:END:
+#+title: Mu Cassiopeia
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070402-Galactic_Mysteries__Generation_Ships.org][33070402-Galactic_Mysteries__Generation_Ships.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c3722524-65f8-4094-9dfa-d7abba66960d
+:END:
+#+title: Captain Danvers
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020623-Community_Goal__The_Battle_of_Daramo.org][33020623-Community_Goal__The_Battle_of_Daramo.org]]

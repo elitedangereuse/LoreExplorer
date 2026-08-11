@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7122255d-851d-4bcb-97b5-9567bfd760ca
+:END:
+#+title: Carlisle Station
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030323-Community_Goal__Restoring_Order_in_Lidpar.org][33030323-Community_Goal__Restoring_Order_in_Lidpar.org]]

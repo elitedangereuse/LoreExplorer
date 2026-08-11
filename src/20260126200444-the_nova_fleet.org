@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c88bea8e-f1a5-46e4-a5d3-b0e6f901885c
+:END:
+#+title: The Nova Fleet
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010714-Rise_of_the_Nova_Fleet_on_the_Frontier.org][33010714-Rise_of_the_Nova_Fleet_on_the_Frontier.org]]

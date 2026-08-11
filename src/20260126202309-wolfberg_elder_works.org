@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       107add04-8629-4404-adc4-7dc39f5b7274
+:END:
+#+title: Wolfberg Elder Works
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030202-Galactic_News__Starport_Status_Update.org][33030202-Galactic_News__Starport_Status_Update.org]]

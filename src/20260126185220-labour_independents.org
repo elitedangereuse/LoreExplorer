@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       78c1d499-592e-486c-bb22-85002749ec0a
+:END:
+#+title: Labour Independents
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021209-Galactic_News__Weekly_Conflict_Report.org][33021209-Galactic_News__Weekly_Conflict_Report.org]]

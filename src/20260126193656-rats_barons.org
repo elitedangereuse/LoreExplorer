@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       58a92c2c-3734-4197-a59e-64033f992c4a
+:END:
+#+title: Rats Barons
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030831-Galactic_News__Weekly_Security_Report.org][33030831-Galactic_News__Weekly_Security_Report.org]]

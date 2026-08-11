@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       01649bed-f487-4df8-bc3d-99a74148f5e2
+:END:
+#+title: Wandrama Purple Council
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33081103-Azimuth_to_Expand_Operational_Assets.org][33081103-Azimuth_to_Expand_Operational_Assets.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0da06e27-4064-43a3-83ec-f0ecfd01e395
+:END:
+#+title: Orisala Co-operative AG
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020517-Galactic_News__Weekly_Security_Report.org][33020517-Galactic_News__Weekly_Security_Report.org]]

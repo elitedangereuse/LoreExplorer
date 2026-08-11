@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ad713070-b4f5-455f-8010-f324d9556c61
+:END:
+#+title: Alternative Source
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050711-Alternative_Source_of_Meta-Alloys_Identified.org][33050711-Alternative_Source_of_Meta-Alloys_Identified.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2869f9e6-2c70-4821-8fc7-9a5423426ea5
+:END:
+#+title: Sap Core Legion Commodity Drive
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050829-Sap_Core_Legion_Commodity_Drive.org][33050829-Sap_Core_Legion_Commodity_Drive.org]]

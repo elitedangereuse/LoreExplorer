@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2d30b963-5578-416b-8c1f-e9ac04955467
+:END:
+#+title: Dr Carpenter
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080328-Taurus_Prepares_Mining_Operation.org][33080328-Taurus_Prepares_Mining_Operation.org]]

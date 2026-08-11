@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d91f973e-7f25-4bca-a36f-06862e69f829
+:END:
+#+title: Terrorist Bombs
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33061012-Engineer_Reveals_Link_to_Terrorist_Bombs.org][33061012-Engineer_Reveals_Link_to_Terrorist_Bombs.org]]

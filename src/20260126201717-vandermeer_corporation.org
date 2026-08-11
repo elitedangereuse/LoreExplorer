@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a4f35b62-3c5d-40f8-b2cc-d98b1e1befae
+:END:
+#+title: Vandermeer Corporation
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33041205-Merger_Creates_Mega-Corporation.org][33041205-Merger_Creates_Mega-Corporation.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4b733ea8-9b8d-401b-9c40-73bf6d851ac9
+:END:
+#+title: Bridge Systems When
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030726-Galactic_News__Weekly_Security_Report.org][33030726-Galactic_News__Weekly_Security_Report.org]]

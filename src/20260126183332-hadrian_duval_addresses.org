@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0e601d36-b17f-4b1e-aeb8-3f1f8ca52a9d
+:END:
+#+title: Hadrian Duval Addresses
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33041213-Hadrian_Duval_Addresses_the_Empire.org][33041213-Hadrian_Duval_Addresses_the_Empire.org]]

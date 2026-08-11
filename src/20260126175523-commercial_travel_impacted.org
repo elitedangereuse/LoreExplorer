@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a7a55218-526c-4bbb-9010-b38f32aaae95
+:END:
+#+title: Commercial Travel Impacted
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050124-Commercial_Travel_Impacted_by_Hyperspace_Fears.org][33050124-Commercial_Travel_Impacted_by_Hyperspace_Fears.org]]

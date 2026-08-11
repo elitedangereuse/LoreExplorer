@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9a56c840-01cd-4d32-9eb7-9157fcbf8208
+:END:
+#+title: Harma Gurragchaa Gateway
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020120-More_Starports_Fall_Victim_to_Technological_Plague.org][33020120-More_Starports_Fall_Victim_to_Technological_Plague.org]]

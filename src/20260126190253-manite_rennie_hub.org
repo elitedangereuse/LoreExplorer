@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       aa35673e-378b-478a-819a-e253b255d367
+:END:
+#+title: Manite Rennie Hub
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040720-Starport_Status_Update.org][33040720-Starport_Status_Update.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1332f07e-c87c-493c-a31f-9e3431463664
+:END:
+#+title: My Asp
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020129-Freelance_Report__Conflict_Erupts_at_Obsidian_Orbital.org][33020129-Freelance_Report__Conflict_Erupts_at_Obsidian_Orbital.org]]

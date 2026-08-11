@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       fe1f218d-1ac8-47b0-993e-eada248301ea
+:END:
+#+title: Allied Incorporated Independents
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020823-Galactic_News__Weekly_Security_Report.org][33020823-Galactic_News__Weekly_Security_Report.org]]

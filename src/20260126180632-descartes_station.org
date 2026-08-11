@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1332bd2b-ff27-4481-b7e1-c53813970fce
+:END:
+#+title: Descartes Station
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030110-Galactic_News__Starport_Status_Update.org][33030110-Galactic_News__Starport_Status_Update.org]]

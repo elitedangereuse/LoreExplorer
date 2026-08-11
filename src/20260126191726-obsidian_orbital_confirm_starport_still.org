@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4f4cf99b-9bd9-4ed2-baf2-b43e13e7cfab
+:END:
+#+title: Obsidian Orbital Confirm Starport Still
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020107-Personnel_at_Obsidian_Orbital_Confirm_Starport_Still_Operational.org][33020107-Personnel_at_Obsidian_Orbital_Confirm_Starport_Still_Operational.org]]

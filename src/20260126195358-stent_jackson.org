@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3821066a-8aee-4d82-b97a-2b362a33d0b1
+:END:
+#+title: Stent Jackson
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3310/33100503-Ship_manufacturers_must_“rise_to_the_challenge”_of_Supercruise_Overcharge.org][33100503-Ship_manufacturers_must_“rise_to_the_challenge”_of_Supercruise_Overcharge.org]]

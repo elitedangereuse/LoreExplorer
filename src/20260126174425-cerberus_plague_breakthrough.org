@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       93fe3384-5eee-4d90-8043-1ccddecd70e2
+:END:
+#+title: Cerberus Plague Breakthrough
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010729-Cerberus_Plague_Breakthrough.org][33010729-Cerberus_Plague_Breakthrough.org]]

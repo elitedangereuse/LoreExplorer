@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d0d9b68e-4405-43d5-9a57-1edcf93b7105
+:END:
+#+title: General Company Komovoy Crimson Posse
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011009-GalNet_Weekly_Conflict_Report.org][33011009-GalNet_Weekly_Conflict_Report.org]]

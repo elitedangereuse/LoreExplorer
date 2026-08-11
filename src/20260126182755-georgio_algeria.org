@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6f1546d2-0592-4c4e-add5-8725f7a4576d
+:END:
+#+title: Georgio Algeria
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010319-Onionhead_Returns_to_Kappa_Fornacis.org][33010319-Onionhead_Returns_to_Kappa_Fornacis.org]]

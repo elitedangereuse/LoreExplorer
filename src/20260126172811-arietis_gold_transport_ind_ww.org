@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0b3d896f-d527-4c2b-b717-4f1acd866f27
+:END:
+#+title: Arietis Gold Transport Ind WW
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010919-GalNet_Weekly_Expansion_List.org][33010919-GalNet_Weekly_Expansion_List.org]]

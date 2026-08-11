@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3167a338-2092-4357-9c78-0dbc67923a1d
+:END:
+#+title: Dale Torrance
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010706-Open_Osmium_Contract_in_Abres.org][33010706-Open_Osmium_Contract_in_Abres.org]]

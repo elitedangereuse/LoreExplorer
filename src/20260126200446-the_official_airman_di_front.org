@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a48647ae-598d-47c3-ad11-34fd3eecca0c
+:END:
+#+title: The Official Airman Di Front
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040209-Preserving_the_Sim-Archive.org][33040209-Preserving_the_Sim-Archive.org]]

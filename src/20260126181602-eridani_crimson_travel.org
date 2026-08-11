@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       486aa4c6-7152-42fa-ad20-a310117349ba
+:END:
+#+title: Eridani Crimson Travel
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021112-Galactic_News__Weekly_Expansion_Report.org][33021112-Galactic_News__Weekly_Expansion_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       650fe074-9029-4cca-9cbc-98468336c37e
+:END:
+#+title: Mining Contract
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080113-Corporations_Compete_for_Mining_Contract.org][33080113-Corporations_Compete_for_Mining_Contract.org]]

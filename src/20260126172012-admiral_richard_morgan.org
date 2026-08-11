@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0ba77074-6c4d-4bd5-922e-581873d660b9
+:END:
+#+title: Admiral Richard Morgan
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010719-A_Clash_of_Titans.org][33010719-A_Clash_of_Titans.org]]

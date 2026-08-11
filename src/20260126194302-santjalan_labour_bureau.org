@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5132e7cc-f4e9-407e-874f-8a572bef599e
+:END:
+#+title: Santjalan Labour Bureau
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020104-GalNet_Weekly_Economic_Report.org][33020104-GalNet_Weekly_Economic_Report.org]]

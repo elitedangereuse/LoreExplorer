@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       98f6ab4c-b11f-4ffe-9ea3-c4f6cc7f8d02
+:END:
+#+title: Antares Incident Links
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010828-Antares_Incident_Links_to_VP’s_Death_.org][33010828-Antares_Incident_Links_to_VP’s_Death_.org]]

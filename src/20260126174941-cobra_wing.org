@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9ef9254b-5dc8-4334-b77c-7f3bca949dda
+:END:
+#+title: Cobra Wing
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040713-Ebor_Research_Outpost.org][33040713-Ebor_Research_Outpost.org]]

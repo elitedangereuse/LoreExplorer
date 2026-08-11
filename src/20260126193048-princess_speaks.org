@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       aad9a6e0-9504-4e86-a1b3-1f1f153a6395
+:END:
+#+title: Princess Speaks
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010911-The_People’s_Princess_Speaks.org][33010911-The_People’s_Princess_Speaks.org]]

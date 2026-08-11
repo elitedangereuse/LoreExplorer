@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       fddf8ba2-1cec-4cf5-9fc1-a2395843b1fb
+:END:
+#+title: Blackshadow Productions
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040728-Classic_Children’s_Show_Returns.org][33040728-Classic_Children’s_Show_Returns.org]]

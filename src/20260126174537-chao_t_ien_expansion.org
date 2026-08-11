@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2d45a489-8306-4f36-9db7-d2a3725551fb
+:END:
+#+title: Chao T'ien Expansion
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010731-GalNet_Weekly_Expansion_List.org][33010731-GalNet_Weekly_Expansion_List.org]]

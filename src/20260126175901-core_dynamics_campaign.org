@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       767a33bf-6383-429f-81d6-b52161cecc26
+:END:
+#+title: Core Dynamics Campaign
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33031222-Community_Goal__Core_Dynamics_Campaign.org][33031222-Community_Goal__Core_Dynamics_Campaign.org]]

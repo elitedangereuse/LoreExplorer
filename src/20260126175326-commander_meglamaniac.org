@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c02a9c68-555f-4eee-98c7-b9b22ab7a5bc
+:END:
+#+title: Commander MeglaManiac
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020110-Galactic_Base-Jumping_Open_Begins.org][33020110-Galactic_Base-Jumping_Open_Begins.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ab08dac3-cdea-4c77-9524-59bc1232f908
+:END:
+#+title: Kulici Thornycroft Settlement
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040606-Starport_Status_Update.org][33040606-Starport_Status_Update.org]]

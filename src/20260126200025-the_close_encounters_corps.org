@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a4fbce7e-8e03-4fe1-95f6-f151100a9c47
+:END:
+#+title: The Close Encounters Corps
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33041011-Close_Encounters_Corps_Initiative.org][33041011-Close_Encounters_Corps_Initiative.org]]

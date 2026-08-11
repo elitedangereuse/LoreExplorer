@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8c3b7eee-9e5d-4e6b-b277-27ad1f14e4eb
+:END:
+#+title: Crippen Port
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070902-Pharma_Giant_Begins_Onionhead_Project.org][33070902-Pharma_Giant_Begins_Onionhead_Project.org]]

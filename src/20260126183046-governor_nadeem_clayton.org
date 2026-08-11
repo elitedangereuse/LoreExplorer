@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ddb1324b-a7ff-4a58-85c5-e31379a01912
+:END:
+#+title: Governor Nadeem Clayton
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33051006-Common_Symptoms_Among_Damaged_Crops.org][33051006-Common_Symptoms_Among_Damaged_Crops.org]]

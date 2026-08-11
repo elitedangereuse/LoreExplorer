@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       60c75e53-e57b-454a-9824-f259fbde06b3
+:END:
+#+title: Bunda Fisher's Rest
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030428-Galactic_News__Starport_Status_Update.org][33030428-Galactic_News__Starport_Status_Update.org]]

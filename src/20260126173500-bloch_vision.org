@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3dd9c439-a343-4f06-a491-99ad703782b9
+:END:
+#+title: Bloch Vision
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020418-Galactic_News__Services_Suspended_at_Fozard_Dock.org][33020418-Galactic_News__Services_Suspended_at_Fozard_Dock.org]]

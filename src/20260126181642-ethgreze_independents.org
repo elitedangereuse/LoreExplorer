@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d5f808c2-46a3-4dc6-8211-2419fe811e3b
+:END:
+#+title: Ethgreze Independents
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021119-Galactic_News__Weekly_Expansion_Report.org][33021119-Galactic_News__Weekly_Expansion_Report.org]]

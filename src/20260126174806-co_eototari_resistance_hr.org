@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c9b78775-3760-4c30-b026-92b1c6ce8bb7
+:END:
+#+title: Co Eototari Resistance HR
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020730-Galactic_News__Weekly_Expansion_Report.org][33020730-Galactic_News__Weekly_Expansion_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9bbf6d9d-4e87-4019-a687-9a465c45748a
+:END:
+#+title: Tau Ceti Kooi Gateway
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021129-Galactic_News__Starport_Status_Update.org][33021129-Galactic_News__Starport_Status_Update.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ec3f763d-8b57-402a-8d55-a177757b7e6f
+:END:
+#+title: Aksyonov Hub
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020915-Galactic_News__Imperial_Operation_Succeeds.org][33020915-Galactic_News__Imperial_Operation_Succeeds.org]]

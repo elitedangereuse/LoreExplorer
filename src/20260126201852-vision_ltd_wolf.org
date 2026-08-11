@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       50b884b1-2b03-43b1-916b-1626c7ab7204
+:END:
+#+title: Vision Ltd Wolf
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021217-Galactic_News__Weekly_Expansion_Report.org][33021217-Galactic_News__Weekly_Expansion_Report.org]]

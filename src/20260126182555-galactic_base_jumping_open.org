@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4e428015-cf6d-4c3e-add3-1d3e81b4f408
+:END:
+#+title: Galactic Base-Jumping Open
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020110-Galactic_Base-Jumping_Open_Begins.org][33020110-Galactic_Base-Jumping_Open_Begins.org]]

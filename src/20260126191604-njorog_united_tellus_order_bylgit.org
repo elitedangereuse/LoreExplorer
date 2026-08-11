@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5deb280a-006e-4443-a46a-e42171d4f04f
+:END:
+#+title: Njorog United Tellus Order Bylgit
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011228-GalNet_Weekly_Economic_Report.org][33011228-GalNet_Weekly_Economic_Report.org]]

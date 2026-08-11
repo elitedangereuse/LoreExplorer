@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4e561756-5afd-4258-a8ba-bee5e2ac2039
+:END:
+#+title: Independent Factions
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070812-Victory_Against_Federation_for_Independent_Factions.org][33070812-Victory_Against_Federation_for_Independent_Factions.org]]

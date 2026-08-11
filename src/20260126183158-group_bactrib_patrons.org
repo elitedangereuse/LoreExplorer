@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       fe15aad5-7103-4976-80dc-3197117d8042
+:END:
+#+title: Group Bactrib Patrons
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020613-Galactic_News__Weekly_Economic_Report.org][33020613-Galactic_News__Weekly_Economic_Report.org]]

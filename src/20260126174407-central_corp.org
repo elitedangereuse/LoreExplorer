@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ef775b82-8fdd-42ff-83ac-d95f283a51e1
+:END:
+#+title: Central Corp
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021125-Galactic_News__Weekly_Conflict_Report.org][33021125-Galactic_News__Weekly_Conflict_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3e1d3d9b-6504-4a3a-93b9-f4383ae7e420
+:END:
+#+title: Utopian Project
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010606-A_Vision_of_the_Future.org][33010606-A_Vision_of_the_Future.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6284dbf2-c6d1-4e14-a893-a378bc7e85d1
+:END:
+#+title: Rhibo Purple Syndicate Grabrigpa Industry
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011215-GalNet_Weekly_Security_Digest.org][33011215-GalNet_Weekly_Security_Digest.org]]

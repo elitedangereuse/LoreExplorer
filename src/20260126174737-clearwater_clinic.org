@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a227b41b-db7e-4c30-a1a5-5dd0a412c7e1
+:END:
+#+title: Clearwater Clinic
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020513-Galactic_News__Bentonio's_Request_Rebuffed.org][33020513-Galactic_News__Bentonio's_Request_Rebuffed.org]]

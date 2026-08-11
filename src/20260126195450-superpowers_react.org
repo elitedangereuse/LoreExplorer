@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6cac090c-8087-4c84-93c5-f42ce8e8b3e3
+:END:
+#+title: Superpowers React
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33061120-Superpowers_React_to_Latest_NMLA_Strike.org][33061120-Superpowers_React_to_Latest_NMLA_Strike.org]]

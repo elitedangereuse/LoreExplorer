@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       67050006-ae48-4623-94e2-86b416427f76
+:END:
+#+title: Xeno-Peace Convoy
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33081020-Materials_Required_for_Xeno-Peace_Convoy.org][33081020-Materials_Required_for_Xeno-Peace_Convoy.org]]

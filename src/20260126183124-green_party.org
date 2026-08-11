@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3b4b27c8-3856-41b4-972a-bd77cc399f40
+:END:
+#+title: Green Party
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010508-Old_World_Resurgence_in_Diso.org][33010508-Old_World_Resurgence_in_Diso.org]]

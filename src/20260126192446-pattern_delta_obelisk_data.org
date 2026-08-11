@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       62edece8-6bfe-4acb-b4a0-318bb9db8db7
+:END:
+#+title: Pattern Delta Obelisk Data
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021103-Community_Goal__Appeal_for_Ancient_Data.org][33021103-Community_Goal__Appeal_for_Ancient_Data.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       024bf133-3e64-4eff-9aa1-61b4fe33f609
+:END:
+#+title: Guardian Nanite Torpedoes Enter Production
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3310/33100215-Guardian_Nanite_Torpedoes_Enter_Production.org][33100215-Guardian_Nanite_Torpedoes_Enter_Production.org]]

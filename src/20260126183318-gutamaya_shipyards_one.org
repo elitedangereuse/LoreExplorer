@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       81fcf61d-7513-45b2-88c1-b150ed5c98d0
+:END:
+#+title: Gutamaya Shipyards One
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010910-New_Combat_Fighter_from_Gutamaya_Shipyards.org][33010910-New_Combat_Fighter_from_Gutamaya_Shipyards.org]]

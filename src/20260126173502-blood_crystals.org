@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ebb10c81-b889-4fff-a5e4-00ac2febb097
+:END:
+#+title: Blood Crystals
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020303-Community_Goal__Lave_Radio_Appeals_for_Blood_Crystals.org][33020303-Community_Goal__Lave_Radio_Appeals_for_Blood_Crystals.org]]

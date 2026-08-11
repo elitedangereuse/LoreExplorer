@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       30dcb8f3-7b83-4b63-835c-49766f384dc4
+:END:
+#+title: Purple Travel Solutions Order
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021107-Galactic_News__Weekly_Economic_Report.org][33021107-Galactic_News__Weekly_Economic_Report.org]]

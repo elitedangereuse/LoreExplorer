@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f73114d6-076a-4905-878e-3a86dc146614
+:END:
+#+title: Silver Central Org Ba Xian
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011222-GalNet_Weekly_Security_Digest.org][33011222-GalNet_Weekly_Security_Digest.org]]

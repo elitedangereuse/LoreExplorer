@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       fae8c401-2246-41aa-9406-5dce1e1ea55e
+:END:
+#+title: Future Expansions
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020723-Galactic_News__Weekly_Expansion_Report.org][33020723-Galactic_News__Weekly_Expansion_Report.org]]

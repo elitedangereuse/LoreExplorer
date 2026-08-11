@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8fb9c5c0-0985-4f75-928b-1473379bfdd7
+:END:
+#+title: Woolley Orbital
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040518-Starport_Status_Update.org][33040518-Starport_Status_Update.org]]

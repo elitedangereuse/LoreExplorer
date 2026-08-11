@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6db7b294-621f-407a-a52d-6f4193c7c6a4
+:END:
+#+title: Battle Royale
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020519-Community_Goal__Battle_Royale.org][33020519-Community_Goal__Battle_Royale.org]]

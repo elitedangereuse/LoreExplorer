@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       96540cb2-2400-41c9-b4d6-c77aff0718a7
+:END:
+#+title: Allied Limited
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020125-Galactic_News__Weekly_Economic_Report.org][33020125-Galactic_News__Weekly_Economic_Report.org]]

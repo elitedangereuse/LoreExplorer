@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e50f9ba3-0cd2-4c8c-b813-d874c494d6f5
+:END:
+#+title: Chase Fulbright
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010918-Hutton_Mug_Appeal_Successful.org][33010918-Hutton_Mug_Appeal_Successful.org]]

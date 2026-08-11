@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1448935f-2f99-4233-aab2-8f3530482deb
+:END:
+#+title: Admiral Lavigny
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011111-Order_Restored_to_Cayutorme.org][33011111-Order_Restored_to_Cayutorme.org]]

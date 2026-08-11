@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a2241b55-2f88-4e05-af6c-4bd219a419c8
+:END:
+#+title: Interstellar Health Organisation
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33041205-Merger_Creates_Mega-Corporation.org][33041205-Merger_Creates_Mega-Corporation.org]]

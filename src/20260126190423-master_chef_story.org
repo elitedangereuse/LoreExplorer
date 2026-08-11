@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bf2064f9-0bd7-4224-b372-e6870df2f022
+:END:
+#+title: Master Chef' Story
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011008-Federal_Times_Reporter_Lends_Weight_to_'Master_Chef'_Story.org][33011008-Federal_Times_Reporter_Lends_Weight_to_'Master_Chef'_Story.org]]

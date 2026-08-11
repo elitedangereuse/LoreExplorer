@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a7524d63-91b8-4944-9257-7a0f27267b0b
+:END:
+#+title: Jafenhar Nobles
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011003-GalNet_Weekly_Expansion_List.org][33011003-GalNet_Weekly_Expansion_List.org]]

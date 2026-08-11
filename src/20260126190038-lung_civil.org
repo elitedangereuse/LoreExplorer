@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6d8e83a0-913c-4b14-ae95-a23cae3e38f4
+:END:
+#+title: Lung Civil
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030124-Galactic_News__Weekly_Security_Report.org][33030124-Galactic_News__Weekly_Security_Report.org]]

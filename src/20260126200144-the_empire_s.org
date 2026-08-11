@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c4510f6b-c667-4fc6-b57e-41a16b7536fc
+:END:
+#+title: The Empire's
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010413-Patreus_and_the_Princess_Share_Food_for_Thought.org][33010413-Patreus_and_the_Princess_Share_Food_for_Thought.org]]

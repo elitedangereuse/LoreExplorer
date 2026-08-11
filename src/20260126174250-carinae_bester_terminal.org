@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       37428be4-4081-4cae-ad36-58c7b89e4f1c
+:END:
+#+title: Carinae Bester Terminal
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040919-Starport_Status_Update.org][33040919-Starport_Status_Update.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b0a55f7d-b81f-4441-a6cd-f643afb0de31
+:END:
+#+title: Salvation Warns
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070914-Salvation_Warns_of_Thargoid_Strike.org][33070914-Salvation_Warns_of_Thargoid_Strike.org]]

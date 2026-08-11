@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7efa4bcb-369d-40a8-b8f3-0563cd73c19b
+:END:
+#+title: Samontundji Lichtenberg Dock
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040829-Starport_Status_Update.org][33040829-Starport_Status_Update.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7b6b9a4a-9d68-4851-8302-b6758c922452
+:END:
+#+title: Torval Mining Challenges Caine-Massey
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080111-Torval_Mining_Challenges_Caine-Massey.org][33080111-Torval_Mining_Challenges_Caine-Massey.org]]

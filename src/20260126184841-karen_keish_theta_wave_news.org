@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       11e97d8b-0eeb-4fb1-9295-84a04aa07636
+:END:
+#+title: Karen Keish Theta Wave News
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020222-Freelance_Report__CIMA_Launches_Initiative.org][33020222-Freelance_Report__CIMA_Launches_Initiative.org]]

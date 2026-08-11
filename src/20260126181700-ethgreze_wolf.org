@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       eeda4dba-ca50-4e69-800f-9f4678d40e1f
+:END:
+#+title: Ethgreze Wolf
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021110-Galactic_News__Weekly_Democracy_Report.org][33021110-Galactic_News__Weekly_Democracy_Report.org]]

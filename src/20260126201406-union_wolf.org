@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a005e2c4-bea2-4f29-92de-4a9e20f237cd
+:END:
+#+title: Union Wolf
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021219-Galactic_News__Weekly_Economic_Report.org][33021219-Galactic_News__Weekly_Economic_Report.org]]

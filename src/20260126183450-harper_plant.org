@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8c87059e-21d1-4cc1-8c23-4e4ed0708b4b
+:END:
+#+title: Harper Plant
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33061001-New_Starports_Become_Operational.org][33061001-New_Starports_Become_Operational.org]]

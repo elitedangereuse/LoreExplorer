@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d031f126-aac1-45ed-84fd-51d0c0cd7397
+:END:
+#+title: Nuenets Corp
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030701-Galactic_News__Weekly_Conflict_Report.org][33030701-Galactic_News__Weekly_Conflict_Report.org]]

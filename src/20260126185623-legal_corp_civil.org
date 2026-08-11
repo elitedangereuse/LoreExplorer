@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8b356a4b-9394-4506-b442-c22bcbc38952
+:END:
+#+title: Legal Corp Civil
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011218-GalNet_Weekly_Conflict_Report.org][33011218-GalNet_Weekly_Conflict_Report.org]]

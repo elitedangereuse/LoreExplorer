@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       cde2443d-2fac-4328-93cd-eb53184a1562
+:END:
+#+title: Congressman Tom Gillespie
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090210-Federation_Pledges_Resources_to_Aegis.org][33090210-Federation_Pledges_Resources_to_Aegis.org]]

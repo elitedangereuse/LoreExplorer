@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       84709b1a-05e4-4b1f-aae9-27dba091e914
+:END:
+#+title: Society Epsilon Eridani Future Crimson
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020823-Galactic_News__Weekly_Security_Report.org][33020823-Galactic_News__Weekly_Security_Report.org]]

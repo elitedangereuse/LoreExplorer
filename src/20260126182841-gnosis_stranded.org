@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       864839b9-9a2c-4961-a9c3-c97b7ed4c20a
+:END:
+#+title: Gnosis Stranded
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040907-Gnosis_Stranded.org][33040907-Gnosis_Stranded.org]]

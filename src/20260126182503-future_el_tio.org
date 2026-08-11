@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       693f8d17-5548-4186-92e3-a57702fcec2e
+:END:
+#+title: Future El Tio
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020426-Galactic_News__Weekly_Security_Report.org][33020426-Galactic_News__Weekly_Security_Report.org]]

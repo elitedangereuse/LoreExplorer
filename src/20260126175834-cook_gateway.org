@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b5701a3c-2b47-4c17-ba07-8ca1f74e1c69
+:END:
+#+title: Cook Gateway
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020907-Freelance_Report__Buckyball_Presents_Heavy_Metal_Megadeth.org][33020907-Freelance_Report__Buckyball_Presents_Heavy_Metal_Megadeth.org]]

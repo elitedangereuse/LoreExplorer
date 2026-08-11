@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       11bfbcf3-ba0e-4267-a267-ce1c23ebb507
+:END:
+#+title: Upgraded Xeno Scanner Requires Resources
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090907-Upgraded_Xeno_Scanner_Requires_Resources.org][33090907-Upgraded_Xeno_Scanner_Requires_Resources.org]]

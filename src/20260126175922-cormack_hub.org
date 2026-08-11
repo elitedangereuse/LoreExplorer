@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d3949b15-f9cd-4eb6-988a-7ca2c6d1aff4
+:END:
+#+title: Cormack Hub
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030119-Community_Goal__Sirius_Corp._to_Address_Unknown-Artefact_Issue.org][33030119-Community_Goal__Sirius_Corp._to_Address_Unknown-Artefact_Issue.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2a01800c-2256-4016-a5cd-48950e12ff7c
+:END:
+#+title: Wagar's Reach
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030303-Freelance_Report__The_Mercury_Seven_Expedition.org][33030303-Freelance_Report__The_Mercury_Seven_Expedition.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       39e5a29e-c977-4351-bda8-6f86bf19aa58
+:END:
+#+title: Aulin Monarchy
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030712-Galactic_News__Weekly_Security_Report.org][33030712-Galactic_News__Weekly_Security_Report.org]]

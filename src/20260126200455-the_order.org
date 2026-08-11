@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4776c9eb-19b7-4bae-a836-282d33e0afac
+:END:
+#+title: The Order
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080920-Far_God_Cult_Under_Federal_Scrutiny.org][33080920-Far_God_Cult_Under_Federal_Scrutiny.org]]

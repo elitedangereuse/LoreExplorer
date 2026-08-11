@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7e2f1bd4-317b-4b43-93b1-77b4a6208cf0
+:END:
+#+title: Locate Missing Agent
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070325-ACT_Requests_Help_to_Locate_Missing_Agent.org][33070325-ACT_Requests_Help_to_Locate_Missing_Agent.org]]

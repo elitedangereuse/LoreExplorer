@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a6e2f298-fec2-42a3-8eeb-97efe06e0bbc
+:END:
+#+title: Galactic Treasure Hunt Alfred Jeffress
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010922-A_Galactic_Treasure_Hunt.org][33010922-A_Galactic_Treasure_Hunt.org]]

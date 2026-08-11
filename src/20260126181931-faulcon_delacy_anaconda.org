@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0709ea1f-e71b-4798-b473-337306184f77
+:END:
+#+title: Faulcon DeLacy Anaconda
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010423-Race_to_Center_of_Galaxy_Starts_in_Sol.org][33010423-Race_to_Center_of_Galaxy_Starts_in_Sol.org]]

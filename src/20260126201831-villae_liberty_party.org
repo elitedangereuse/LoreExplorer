@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c0435591-ec72-4d1b-92f5-acc619f96cf9
+:END:
+#+title: Villae Liberty Party
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030308-Galactic_News__Weekly_Health_Report.org][33030308-Galactic_News__Weekly_Health_Report.org]]

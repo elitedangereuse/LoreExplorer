@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c00acf75-87aa-4515-9f8b-2c1f3fb61837
+:END:
+#+title: Bootis Democrats
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030228-Galactic_News__Weekly_Security_Report.org][33030228-Galactic_News__Weekly_Security_Report.org]]

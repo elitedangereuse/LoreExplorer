@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f2c725da-3ba0-44c3-943f-da8f1be4951f
+:END:
+#+title: Bartlett Gateway
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030207-Galactic_News__Starport_Status_Update.org][33030207-Galactic_News__Starport_Status_Update.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7152ff8a-aad6-4407-9646-14743aaf4b41
+:END:
+#+title: Senators Torval
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010403-A_Light_in_the_Dark.org][33010403-A_Light_in_the_Dark.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6d1fb1fa-f2a8-470a-84b8-e7fa68df119e
+:END:
+#+title: Earl Rednam
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010410-The_Low_Cost_of_Lives.org][33010410-The_Low_Cost_of_Lives.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       dff8cb99-7e5a-482e-96f9-e4238324e7a9
+:END:
+#+title: Weekly Conflict Report
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020122-Galactic_News__Weekly_Conflict_Report.org][33020122-Galactic_News__Weekly_Conflict_Report.org]]

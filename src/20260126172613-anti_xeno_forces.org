@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1b29339d-c7af-47f9-be44-85582ce56b01
+:END:
+#+title: Anti-Xeno Forces
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3310/33101125-Aegis_Urges_High_Alert_for_Anti-Xeno_Forces.org][33101125-Aegis_Urges_High_Alert_for_Anti-Xeno_Forces.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e0639d87-c6b1-4d3d-938e-2a5bb08f9605
+:END:
+#+title: Chief Technician Rory Webster
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33060918-Arrest_Made_in_Starship_One_Criminal_Case.org][33060918-Arrest_Made_in_Starship_One_Criminal_Case.org]]

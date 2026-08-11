@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a0c3b5eb-fc42-41ed-a658-0fd392081d43
+:END:
+#+title: Goulart City
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020804-Community_Goal__Ambika_in_Need.org][33020804-Community_Goal__Ambika_in_Need.org]]

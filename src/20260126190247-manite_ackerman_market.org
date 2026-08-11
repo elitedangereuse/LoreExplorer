@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d1cd0b4f-a85e-4933-8db4-0f1b05d8ed9b
+:END:
+#+title: Manite Ackerman Market
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020418-Galactic_News__Services_Suspended_at_Fozard_Dock.org][33020418-Galactic_News__Services_Suspended_at_Fozard_Dock.org]]

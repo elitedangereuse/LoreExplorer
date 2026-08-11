@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       61af4eae-6e27-415e-ae3d-3530f69cdff3
+:END:
+#+title: Altair Purple Mob
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020331-Community_Goal__The_Onionhead_Clash.org][33020331-Community_Goal__The_Onionhead_Clash.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9e287c4a-945a-4ee0-b8b5-161e3a024058
+:END:
+#+title: Angel Rose's Viper
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010826-Athena_System_Hosts_‘XYZ_Fight_Club’.org][33010826-Athena_System_Hosts_‘XYZ_Fight_Club’.org]]

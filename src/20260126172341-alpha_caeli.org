@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1896b7cf-8635-442f-8c99-31d6c81f0cdf
+:END:
+#+title: Alpha Caeli
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090425-The_Mystery_of_the_Mars_Assassin.org][33090425-The_Mystery_of_the_Mars_Assassin.org]]

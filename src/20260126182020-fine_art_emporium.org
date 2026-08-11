@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       05765ff0-f0c6-4eef-9494-b818aefbb5f6
+:END:
+#+title: Fine Art Emporium
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050727-Alliance_Festival_of_Culture_Begins.org][33050727-Alliance_Festival_of_Culture_Begins.org]]

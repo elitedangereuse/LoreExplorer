@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       84bfca52-7535-49f1-b84c-e5e00971cdf0
+:END:
+#+title: As Azaladshu Free
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070701-Federation_Battles_Independents_in_the_Azaladshu_System.org][33070701-Federation_Battles_Independents_in_the_Azaladshu_System.org]]

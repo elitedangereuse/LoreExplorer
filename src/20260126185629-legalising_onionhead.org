@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d548cb09-6e34-4db3-a243-eb776b0fd2be
+:END:
+#+title: Legalising Onionhead
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020331-Community_Goal__The_Onionhead_Clash.org][33020331-Community_Goal__The_Onionhead_Clash.org]]

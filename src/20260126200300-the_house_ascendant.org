@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0bb4475e-3904-474a-8ae5-7c777c6190a2
+:END:
+#+title: The House Ascendant
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33071028-Resources_Boost_for_Torval_Mining_Ltd.org][33071028-Resources_Boost_for_Torval_Mining_Ltd.org]]

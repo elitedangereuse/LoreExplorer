@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e31d76c4-62c4-4c2b-a219-2c4ee681d8b6
+:END:
+#+title: Principles LP
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020108-GalNet_Weekly_Conflict_Report.org][33020108-GalNet_Weekly_Conflict_Report.org]]

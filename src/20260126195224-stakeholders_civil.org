@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       fe0fb09a-0e3f-4c74-b6eb-2049fc35327a
+:END:
+#+title: Stakeholders Civil
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030802-Galactic_News__Weekly_Security_Report.org][33030802-Galactic_News__Weekly_Security_Report.org]]

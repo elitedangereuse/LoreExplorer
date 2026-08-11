@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4c4878aa-a010-43f4-94da-865f4d577c7a
+:END:
+#+title: Proctor Ulrich
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020112-The_Achenar_Challenge.org][33020112-The_Achenar_Challenge.org]]

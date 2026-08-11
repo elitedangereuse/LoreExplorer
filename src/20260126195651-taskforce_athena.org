@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bf99d85b-d8bb-491a-8c09-6575a366e7ce
+:END:
+#+title: Taskforce Athena
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020711-Freelance_Report__Taskforce_Athena_Locks_Down_Segovan.org][33020711-Freelance_Report__Taskforce_Athena_Locks_Down_Segovan.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       86b68dc3-eecb-44b9-839f-634c490cfdcd
+:END:
+#+title: Mycologist Dr James Morel
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021101-Freelance_Report__Fungi_Discovered_on_Airless_Worlds.org][33021101-Freelance_Report__Fungi_Discovered_on_Airless_Worlds.org]]

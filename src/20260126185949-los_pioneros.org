@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d29cce45-f843-4850-af46-9079ebfd9675
+:END:
+#+title: Los Pioneros
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080415-Rackham_for_President_.org][33080415-Rackham_for_President_.org]]

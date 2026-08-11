@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       fa0a434d-5381-41e2-b2b1-e24a81fedf46
+:END:
+#+title: Zeus Bureau Appeal
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030519-Community_Goal__Zeus_Bureau_Appeal.org][33030519-Community_Goal__Zeus_Bureau_Appeal.org]]

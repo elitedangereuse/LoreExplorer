@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       fc2dc8dd-3676-49ee-8a62-1bccdd89c67b
+:END:
+#+title: Pacific Ocean
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040720-Unexploded_Nuclear_Missile_Discovered.org][33040720-Unexploded_Nuclear_Missile_Discovered.org]]

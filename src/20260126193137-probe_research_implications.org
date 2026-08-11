@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0fb1ab61-eab7-4028-9d62-8ae5fb873034
+:END:
+#+title: Probe Research Implications
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020721-Freelance_Report__Probe_Research_Implications.org][33020721-Freelance_Report__Probe_Research_Implications.org]]

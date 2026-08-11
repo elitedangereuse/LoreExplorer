@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3d403c23-e2ab-48d9-beee-c25c264deea1
+:END:
+#+title: Gold Mob Civil
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021018-Galactic_News__Weekly_Security_Report.org][33021018-Galactic_News__Weekly_Security_Report.org]]

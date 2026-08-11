@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7752efdd-7ebc-495a-8dd9-a09d1bf5954b
+:END:
+#+title: Collective Wars
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010626-GalNet_Weekly_Conflict_Report.org][33010626-GalNet_Weekly_Conflict_Report.org]]

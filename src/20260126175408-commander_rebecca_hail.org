@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b62b6473-c309-4c3d-af69-49a08fe9bdb9
+:END:
+#+title: Commander Rebecca Hail
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020805-Freelance_Report__Fuel_Rats_Announce_Plans_for_New_Outpost.org][33020805-Freelance_Report__Fuel_Rats_Announce_Plans_for_New_Outpost.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b56ac5ff-1543-4487-8d69-27ea373f1ddb
+:END:
+#+title: Nourse City
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33051024-Anti-Blight_Treatment_Discovered.org][33051024-Anti-Blight_Treatment_Discovered.org]]

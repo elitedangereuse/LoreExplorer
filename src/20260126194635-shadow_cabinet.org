@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5285450f-1172-47cd-b8e7-c6a2a953051b
+:END:
+#+title: Shadow Cabinet
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010602-Zachary_Hudson_Becomes_the_New_President_of_the_Federation.org][33010602-Zachary_Hudson_Becomes_the_New_President_of_the_Federation.org]]

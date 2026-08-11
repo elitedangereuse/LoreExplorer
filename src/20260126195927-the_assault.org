@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       abd2944c-36d5-42b7-917a-20719560354a
+:END:
+#+title: The Assault
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3310/33100229-The_Assault_on_Taranis.org][33100229-The_Assault_on_Taranis.org]]

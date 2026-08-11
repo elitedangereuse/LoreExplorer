@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       25a711b4-2d40-4e76-9ef7-ad335d292b90
+:END:
+#+title: Galactic Games
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011106-Mavia_Kain_Announces_Galactic_Games.org][33011106-Mavia_Kain_Announces_Galactic_Games.org]]

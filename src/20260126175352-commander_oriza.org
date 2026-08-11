@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7cb951f3-8449-4aff-a4dd-f7d375f8f6b2
+:END:
+#+title: Commander Oriza
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020329-Galactic_News__Treasure_Hunt_Comes_to_an_End.org][33020329-Galactic_News__Treasure_Hunt_Comes_to_an_End.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7fa90a11-f553-43fe-a19a-416784f5cc75
+:END:
+#+title: Kumo Crew Leading
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010618-Chaos_in_the_Kumo_Crew.org][33010618-Chaos_in_the_Kumo_Crew.org]]

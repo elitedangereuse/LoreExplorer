@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bcff7192-2e13-4fb2-9b8d-5c36eff86a7f
+:END:
+#+title: If Nova Imperium
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33041229-Alliance_and_Federation_React_to_Nova_Imperium.org][33041229-Alliance_and_Federation_React_to_Nova_Imperium.org]]

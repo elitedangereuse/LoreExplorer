@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5582d26e-c626-4b9b-92eb-9e329b606e10
+:END:
+#+title: Sirsir Co
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050103-Supplies_for_Federal_and_Imperial_Navies.org][33050103-Supplies_for_Federal_and_Imperial_Navies.org]]

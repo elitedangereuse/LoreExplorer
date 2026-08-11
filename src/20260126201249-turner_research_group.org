@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b9a2169e-e8c1-48ff-a256-d1981fff5847
+:END:
+#+title: Turner Research Group
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33031110-Community_Goal__Feeding_California.org][33031110-Community_Goal__Feeding_California.org]]

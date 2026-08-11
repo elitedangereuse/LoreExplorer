@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7ec8731b-21f3-4286-a43d-b7552ced4a99
+:END:
+#+title: Build Marlinist Colonies
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33061217-Commodities_Delivered_to_Build_Marlinist_Colonies.org][33061217-Commodities_Delivered_to_Build_Marlinist_Colonies.org]]

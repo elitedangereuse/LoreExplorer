@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2ef38e74-a3b3-4649-9b95-07ffcd95519d
+:END:
+#+title: Free LP
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020707-Galactic_News__Weekly_Democracy_Report.org][33020707-Galactic_News__Weekly_Democracy_Report.org]]

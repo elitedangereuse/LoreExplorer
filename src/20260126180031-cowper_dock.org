@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       18132859-78e4-4411-9278-99d42fbd11dc
+:END:
+#+title: Cowper Dock
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040920-Appeal_for_Computing_Commodities.org][33040920-Appeal_for_Computing_Commodities.org]]

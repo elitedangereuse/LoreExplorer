@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       48391218-6b33-4a00-9707-9b9c53d5b3ae
+:END:
+#+title: Jameson Memorial Starport Operational
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3310/33101002-Jameson_Memorial_Starport_Operational.org][33101002-Jameson_Memorial_Starport_Operational.org]]

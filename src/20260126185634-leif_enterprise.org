@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d1c3d17f-069b-42e0-ba1c-840b0b2b9d71
+:END:
+#+title: Leif Enterprise
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33031201-Community_Goal__Rogue_Runners_Appeal.org][33031201-Community_Goal__Rogue_Runners_Appeal.org]]

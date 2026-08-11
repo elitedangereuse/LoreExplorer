@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0682cfe3-2555-4f24-8b9c-f3e0298809b8
+:END:
+#+title: Commemorative Space Race
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011026-Commemorative_Space_Race.org][33011026-Commemorative_Space_Race.org]]

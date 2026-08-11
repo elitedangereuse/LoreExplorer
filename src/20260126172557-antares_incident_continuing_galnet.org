@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       83afdeaf-f895-44c3-9dd0-b0112b3e6a06
+:END:
+#+title: Antares Incident Continuing GalNet
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010802-Remembering_the_Antares_Incident.org][33010802-Remembering_the_Antares_Incident.org]]

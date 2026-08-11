@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b604e62c-88ae-45e7-9a0e-2f700815395a
+:END:
+#+title: The Titans
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090615-Aegis_and_Azimuth_Compete_for_Titan_Samples.org][33090615-Aegis_and_Azimuth_Compete_for_Titan_Samples.org]]

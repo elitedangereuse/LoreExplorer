@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9be47c3d-6f70-4440-8803-736457b509c3
+:END:
+#+title: Congressman Chase
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33081107-Xeno-Peace_Champion_Elected_to_Congress.org][33081107-Xeno-Peace_Champion_Elected_to_Congress.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8d60618a-9be8-4f03-ab51-1c63aebf2ba4
+:END:
+#+title: Lake Rackham
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080504-An_Interview_with_Zachary_Rackham.org][33080504-An_Interview_with_Zachary_Rackham.org]]

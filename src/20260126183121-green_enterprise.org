@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       102f6c94-0e88-430b-b6f9-92d97c917e8a
+:END:
+#+title: Green Enterprise
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040105-Community_Goal__Dionysus_Rising.org][33040105-Community_Goal__Dionysus_Rising.org]]

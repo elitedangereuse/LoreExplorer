@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       cf8b23a0-37df-47f2-bc19-f7edd95095b8
+:END:
+#+title: Azrael Charlois Enterprise
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040620-Starport_Status_Update.org][33040620-Starport_Status_Update.org]]

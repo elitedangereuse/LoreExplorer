@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       cdb653e3-c457-4f70-97c9-09853cd56ebe
+:END:
+#+title: Off Switch
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090609-Azimuth_Refocuses_on_Titan_Research.org][33090609-Azimuth_Refocuses_on_Titan_Research.org]]

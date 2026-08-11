@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6b6b7ccd-663e-4bc7-94a4-b5e0badd340b
+:END:
+#+title: Out There
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010528-The_Truth_is_Out_There.org][33010528-The_Truth_is_Out_There.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3810601a-fe83-40e3-8e2c-593a4ce16684
+:END:
+#+title: With Dantec Enterprise
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040817-Eagle_Eye_Installations_Offline.org][33040817-Eagle_Eye_Installations_Offline.org]]

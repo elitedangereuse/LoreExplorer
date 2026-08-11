@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       27cca443-6b27-4c3a-832d-29929ad83bd0
+:END:
+#+title: Defence Request
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070225-Galactic_Summit_Begins_with_Defence_Request.org][33070225-Galactic_Summit_Begins_with_Defence_Request.org]]

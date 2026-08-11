@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       af3cd3f9-d4c5-4daf-9451-770a43079bfc
+:END:
+#+title: Senator Lorcan Scordato
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070329-Demands_for_Empire_to_Solve_Terrorist_Problem.org][33070329-Demands_for_Empire_to_Solve_Terrorist_Problem.org]]

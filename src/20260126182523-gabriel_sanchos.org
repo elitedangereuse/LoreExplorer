@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d145a0ea-7eb8-4503-bd49-e602ecff1e86
+:END:
+#+title: Gabriel Sanchos
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050420-Pilots’_Federation_Establishes_Regulated_Zone.org][33050420-Pilots’_Federation_Establishes_Regulated_Zone.org]]

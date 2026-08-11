@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       76428a34-d423-46e9-9629-c72887882adb
+:END:
+#+title: Amateurs Partially Decrypt Signal
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021202-Galactic_News__Amateurs_Partially_Decrypt_Signal.org][33021202-Galactic_News__Amateurs_Partially_Decrypt_Signal.org]]

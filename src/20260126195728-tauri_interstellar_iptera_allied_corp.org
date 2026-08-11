@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b09ed0af-0e1d-491f-ac03-09d769cb3a3d
+:END:
+#+title: Tauri Interstellar Iptera Allied Corp
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021202-Galactic_News__Weekly_Conflict_Report.org][33021202-Galactic_News__Weekly_Conflict_Report.org]]

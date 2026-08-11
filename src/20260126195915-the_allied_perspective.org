@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7dbeb220-ce8d-40a1-9910-82ec80079955
+:END:
+#+title: The Allied Perspective
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33091013-Federal_Election__The_Allied_Perspective.org][33091013-Federal_Election__The_Allied_Perspective.org]]

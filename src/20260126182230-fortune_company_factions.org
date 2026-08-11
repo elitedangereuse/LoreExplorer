@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1c982336-cbd1-4e5c-b622-0bd800b7e31f
+:END:
+#+title: Fortune Company Factions
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030311-Galactic_News__Weekly_Expansion_Report.org][33030311-Galactic_News__Weekly_Expansion_Report.org]]

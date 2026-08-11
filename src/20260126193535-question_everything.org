@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       424a0a84-7fc2-4218-ba6b-63e41f7ad0d3
+:END:
+#+title: Question Everything
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010415-The_Talons_of_Justice.org][33010415-The_Talons_of_Justice.org]]

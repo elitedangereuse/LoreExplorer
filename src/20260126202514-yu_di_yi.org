@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       dc3f71a0-b696-4865-9814-14267a53e480
+:END:
+#+title: Yu Di Yi
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011113-A_Week_in_Powerplay.org][33011113-A_Week_in_Powerplay.org]]

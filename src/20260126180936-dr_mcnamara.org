@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0640e0e7-fbf8-4091-8582-9d8c61cf3a2b
+:END:
+#+title: Dr McNamara
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010903-Utopia__More_Than_a_Cult_.org][33010903-Utopia__More_Than_a_Cult_.org]]

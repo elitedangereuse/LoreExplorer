@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e2f89b58-83d8-4646-892f-6e41853789f3
+:END:
+#+title: Levi Montalcini Dock
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040316-Coalition_of_Othime_Campaign_Concludes.org][33040316-Coalition_of_Othime_Campaign_Concludes.org]]

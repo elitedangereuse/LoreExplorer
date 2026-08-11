@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       41a3cf27-7c1d-4eff-9244-9ac61bc57009
+:END:
+#+title: The Central Command
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33031110-Community_Goal__Wolves_of_Jonai_Appeal.org][33031110-Community_Goal__Wolves_of_Jonai_Appeal.org]]

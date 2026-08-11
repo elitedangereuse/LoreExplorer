@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       15188709-5025-4c35-8d3c-d1a96647117f
+:END:
+#+title: Tauri System
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33071118-Salvation’s_Allies_Triumph_in_T_Tauri_System.org][33071118-Salvation’s_Allies_Triumph_in_T_Tauri_System.org]]

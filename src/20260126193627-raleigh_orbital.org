@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       fd22fa84-50ca-48b4-8ae4-9380f3908716
+:END:
+#+title: Raleigh Orbital
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020314-Freelance_Report__Midweek_Buckyball_Madness.org][33020314-Freelance_Report__Midweek_Buckyball_Madness.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f2ec005f-ba63-41a0-b3e8-34140f7bbab8
+:END:
+#+title: Urgent Request
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080630-Urgent_Request_for_Supplies_in_HIP_22460.org][33080630-Urgent_Request_for_Supplies_in_HIP_22460.org]]

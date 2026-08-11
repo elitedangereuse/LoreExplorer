@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e248d05c-53a1-4ba7-bdd3-7c3c645cda36
+:END:
+#+title: Bets Civil
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010626-GalNet_Weekly_Conflict_Report.org][33010626-GalNet_Weekly_Conflict_Report.org]]

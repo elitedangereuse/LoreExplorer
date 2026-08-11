@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d42885b4-1188-4266-98ad-69dc27b31429
+:END:
+#+title: The Marines
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010424-Merchant_Marines_Launch_Operation_Papercut.org][33010424-Merchant_Marines_Launch_Operation_Papercut.org]]

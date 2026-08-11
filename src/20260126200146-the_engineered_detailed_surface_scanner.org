@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3294925e-bc17-4b62-90ce-02704077a422
+:END:
+#+title: The Engineered Detailed Surface Scanner
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070617-Materials_Needed_for_Enhanced_Ship_Module.org][33070617-Materials_Needed_for_Enhanced_Ship_Module.org]]

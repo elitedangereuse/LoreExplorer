@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e4f3d086-9cbf-4d1d-bc31-17412a7bcb72
+:END:
+#+title: Mildeptu Workers
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020411-Galactic_News__Weekly_Economic_Report.org][33020411-Galactic_News__Weekly_Economic_Report.org]]

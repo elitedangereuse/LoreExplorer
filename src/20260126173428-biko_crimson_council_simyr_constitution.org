@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d38206a2-5078-4daa-a4ca-77de754911fa
+:END:
+#+title: Biko Crimson Council Simyr Constitution
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010630-GalNet_Weekly_Security_Digest.org][33010630-GalNet_Weekly_Security_Digest.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       69b1c490-1064-46ec-8a52-5bef81204ad8
+:END:
+#+title: Utopixx Entertainment
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010516-Sol_Unplugged_.org][33010516-Sol_Unplugged_.org]]

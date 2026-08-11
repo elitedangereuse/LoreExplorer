@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1044effc-8102-4bca-af13-ee7d4ed86920
+:END:
+#+title: Witch Head Enclave
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33060113-Thargoid_Incursions_in_Witch_Head_Enclave.org][33060113-Thargoid_Incursions_in_Witch_Head_Enclave.org]]

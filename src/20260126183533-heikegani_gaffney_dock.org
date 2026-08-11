@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       050705d0-28c1-4564-a916-5ddc76ac882c
+:END:
+#+title: Heikegani Gaffney Dock
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030207-Galactic_News__Starport_Status_Update.org][33030207-Galactic_News__Starport_Status_Update.org]]

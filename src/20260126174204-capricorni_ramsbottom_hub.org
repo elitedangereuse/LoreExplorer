@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       768af686-e947-46c9-9810-aaa5e633b013
+:END:
+#+title: Capricorni Ramsbottom Hub
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020803-Galactic_News__Starport_Status_Update.org][33020803-Galactic_News__Starport_Status_Update.org]]

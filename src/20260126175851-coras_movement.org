@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5610691c-3f48-4ae6-becc-93f424991da9
+:END:
+#+title: Coras Movement
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020831-Galactic_News__Weekly_Health_Report.org][33020831-Galactic_News__Weekly_Health_Report.org]]

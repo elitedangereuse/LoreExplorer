@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       348df91a-4297-40b5-8be2-f3e61d103247
+:END:
+#+title: Society Wolf
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020216-Galactic_News__Weekly_Security_Digest.org][33020216-Galactic_News__Weekly_Security_Digest.org]]

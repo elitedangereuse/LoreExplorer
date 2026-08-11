@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8590011a-5d62-4f50-8472-dc33619d374a
+:END:
+#+title: Orchestral Falcon
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090406-Corporate_Battle_Erupts_in_Tavgi_System.org][33090406-Corporate_Battle_Erupts_in_Tavgi_System.org]]

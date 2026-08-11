@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5e95fca3-1216-4459-b101-91c792ec578c
+:END:
+#+title: Gold Allied Industry Muth Exchange
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011204-GalNet_Weekly_Conflict_Report.org][33011204-GalNet_Weekly_Conflict_Report.org]]

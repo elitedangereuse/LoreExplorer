@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6bffe722-7b0a-4970-9bea-ce7454836a47
+:END:
+#+title: Front Nuenets Corp
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030811-Galactic_News__Weekly_Democracy_Report.org][33030811-Galactic_News__Weekly_Democracy_Report.org]]

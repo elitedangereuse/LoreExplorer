@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       54eb359a-52f1-4f7b-827a-56dd62f392c8
+:END:
+#+title: The Face
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020906-Freelance_Report__Much_Ado_about_Nothing_.org][33020906-Freelance_Report__Much_Ado_about_Nothing_.org]]

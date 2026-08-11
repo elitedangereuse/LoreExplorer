@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8eab5d9c-7047-430e-a387-6e18c16a5ee3
+:END:
+#+title: Freelance Report
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020122-Freelance_Report__Leading_Scientist_Expresses_Doubts.org][33020122-Freelance_Report__Leading_Scientist_Expresses_Doubts.org]]

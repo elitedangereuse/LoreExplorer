@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7daa24fd-d90c-4dc5-9677-8af3a8277af3
+:END:
+#+title: The Union Party
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020811-Galactic_News__Ambika_Campaign_Concludes.org][33020811-Galactic_News__Ambika_Campaign_Concludes.org]]

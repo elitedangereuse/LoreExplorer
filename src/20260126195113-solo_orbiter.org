@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       48d71652-4b6f-49b5-b021-bd6efaf7d1fe
+:END:
+#+title: Solo Orbiter
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020425-Freelance_Report__Kessel_Run_Episode_II.org][33020425-Freelance_Report__Kessel_Run_Episode_II.org]]

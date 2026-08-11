@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       152be0fe-90be-45b2-97b8-bb66e9c84444
+:END:
+#+title: Ex Luna Scientia
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020718-Freelance_Report__Moon-Landing_Anniversary_Race.org][33020718-Freelance_Report__Moon-Landing_Anniversary_Race.org]]

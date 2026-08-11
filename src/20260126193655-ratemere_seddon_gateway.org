@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9a63762d-7724-4319-9e0f-2329785d7556
+:END:
+#+title: Ratemere Seddon Gateway
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040823-Starport_Status_Update.org][33040823-Starport_Status_Update.org]]

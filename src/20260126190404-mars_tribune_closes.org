@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       51b880fc-8f87-445d-b56c-1546a4ce79a9
+:END:
+#+title: Mars Tribune Closes
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33041122-Mars_Tribune_Closes.org][33041122-Mars_Tribune_Closes.org]]

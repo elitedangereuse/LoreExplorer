@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0d16e5bb-d15a-44de-97b3-91b4d920f1fa
+:END:
+#+title: Rackham Consolidates
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080422-Rackham_Consolidates_in_Beta_Hydri.org][33080422-Rackham_Consolidates_in_Beta_Hydri.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a9624191-8492-4cec-b801-1c5ad4f7a270
+:END:
+#+title: Inc Movement
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030726-Galactic_News__Weekly_Security_Report.org][33030726-Galactic_News__Weekly_Security_Report.org]]

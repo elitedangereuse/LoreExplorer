@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0bdf4779-da15-4c1a-877e-203a43aaa5b3
+:END:
+#+title: Patron's Principles
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010327-Unknown_Explorer_Returns_From_NGC_3199_Nebula.org][33010327-Unknown_Explorer_Returns_From_NGC_3199_Nebula.org]]

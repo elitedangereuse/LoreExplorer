@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       500d5728-1458-493b-afd9-fe99ad0d83aa
+:END:
+#+title: Omega Mining Corporation
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050117-Distant_Worlds_Initiative.org][33050117-Distant_Worlds_Initiative.org]]

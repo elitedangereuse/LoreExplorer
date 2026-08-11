@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       564606e0-e188-4951-ad2a-7a164dacd027
+:END:
+#+title: Lyncis Comms Network Sif League
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030905-Galactic_News__Weekly_Economic_Report.org][33030905-Galactic_News__Weekly_Economic_Report.org]]

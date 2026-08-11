@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3bbafc24-cb82-45ef-ab9e-d273c8efa8db
+:END:
+#+title: Group Elections
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020707-Galactic_News__Weekly_Democracy_Report.org][33020707-Galactic_News__Weekly_Democracy_Report.org]]

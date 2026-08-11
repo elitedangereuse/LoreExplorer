@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       da1c735d-dca0-4494-a001-91ebc43b43c2
+:END:
+#+title: League Purple Electronics Inc Brigid
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020325-Galactic_News__Weekly_Conflict_Report.org][33020325-Galactic_News__Weekly_Conflict_Report.org]]

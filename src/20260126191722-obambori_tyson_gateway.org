@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       56969c83-069b-43b5-9163-a01198b6c2e9
+:END:
+#+title: Obambori Tyson Gateway
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030608-Galactic_News__Starport_Status_Update.org][33030608-Galactic_News__Starport_Status_Update.org]]

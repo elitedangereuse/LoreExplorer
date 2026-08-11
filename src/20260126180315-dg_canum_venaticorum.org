@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       281ffbf3-0abc-4623-bdd6-bf5d8e3ddfe5
+:END:
+#+title: DG Canum Venaticorum
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080530-New_Discovery_Links_Azimuth_to_INRA.org][33080530-New_Discovery_Links_Azimuth_to_INRA.org]]

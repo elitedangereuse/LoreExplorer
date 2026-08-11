@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a991045e-d330-45f3-b9b6-89ddd20cea61
+:END:
+#+title: The Fuel Rat
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010707-Fuel_Rat_Rescue_Operation_Saves_Millions_of_Credits.org][33010707-Fuel_Rat_Rescue_Operation_Saves_Millions_of_Credits.org]]

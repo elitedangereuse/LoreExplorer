@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3fc8644d-4318-47c9-a22e-300450feb794
+:END:
+#+title: Adley King
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050221-Defence_Contractor_Denies_Safety_Violations.org][33050221-Defence_Contractor_Denies_Safety_Violations.org]]

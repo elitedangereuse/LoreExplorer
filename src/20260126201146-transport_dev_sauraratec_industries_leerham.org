@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a5e92073-f126-43cf-a197-e35cf578b162
+:END:
+#+title: Transport Dev Sauraratec Industries Leerham
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020114-GalNet_Focus_on_Democracy.org][33020114-GalNet_Focus_on_Democracy.org]]

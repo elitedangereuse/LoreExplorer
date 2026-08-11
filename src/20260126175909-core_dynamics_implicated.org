@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       cdda3255-2b38-4d7c-8e0f-594fcf0ad28e
+:END:
+#+title: Core Dynamics Implicated
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070202-Core_Dynamics_Implicated_in_Starship_One_Sabotage.org][33070202-Core_Dynamics_Implicated_in_Starship_One_Sabotage.org]]

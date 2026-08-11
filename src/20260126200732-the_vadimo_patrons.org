@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a0d2b94c-e3ec-43d7-944c-217dde857dec
+:END:
+#+title: The Vadimo Patrons
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040427-The_Biggest_Party_of_3304.org][33040427-The_Biggest_Party_of_3304.org]]

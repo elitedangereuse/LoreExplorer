@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       62423dae-ddab-423b-af54-8b42212d1291
+:END:
+#+title: Townsend Hub
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010515-78_Ursae_Majoris_Increases_Security_Ahead_of_Presidential_Visit.org][33010515-78_Ursae_Majoris_Increases_Security_Ahead_of_Presidential_Visit.org]]

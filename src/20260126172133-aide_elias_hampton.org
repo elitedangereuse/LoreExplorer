@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       28d0835f-ade0-49d5-896c-3ec3c4374fcb
+:END:
+#+title: Aide Elias Hampton
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33031117-Community_Goal__Lunch_in_Leesti.org][33031117-Community_Goal__Lunch_in_Leesti.org]]

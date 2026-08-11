@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a95a35fb-b215-415a-a97c-9b6efdedd978
+:END:
+#+title: Industries Confederation
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011024-GalNet_Weekly_Expansion_List.org][33011024-GalNet_Weekly_Expansion_List.org]]

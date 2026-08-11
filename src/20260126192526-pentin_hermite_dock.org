@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5a28d56a-5c43-48f2-83c7-f48781bcfd09
+:END:
+#+title: Pentin Hermite Dock
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030328-Galactic_News__Starport_Status_Update.org][33030328-Galactic_News__Starport_Status_Update.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e3c24a17-23f0-487b-8e8e-8e916492686f
+:END:
+#+title: Yab Yum Inc BD
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020218-Galactic_News__Focus_on_Democracy.org][33020218-Galactic_News__Focus_on_Democracy.org]]

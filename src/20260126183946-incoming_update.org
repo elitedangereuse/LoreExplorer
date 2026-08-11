@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       52f9601f-8d30-4191-b86c-260a13105c06
+:END:
+#+title: Incoming Update
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020323-Powerplay__Incoming_Update.org][33020323-Powerplay__Incoming_Update.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7e409f49-2423-4d9e-a5b8-d147a50b5cf1
+:END:
+#+title: While Mahon
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010709-Latest_Powerplay_Column.org][33010709-Latest_Powerplay_Column.org]]

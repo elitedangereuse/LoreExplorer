@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bff12e01-4d25-40ed-ac07-df927b7531d8
+:END:
+#+title: The League
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040517-Alliance_Admiral_Murdered_by_League_of_Reparation.org][33040517-Alliance_Admiral_Murdered_by_League_of_Reparation.org]]

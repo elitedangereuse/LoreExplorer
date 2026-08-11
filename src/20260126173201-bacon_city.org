@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e3db2200-6ff2-4b5a-b7ed-9a3af725a16e
+:END:
+#+title: Bacon City
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011008-The_Bacon_City_Hangover.org][33011008-The_Bacon_City_Hangover.org]]

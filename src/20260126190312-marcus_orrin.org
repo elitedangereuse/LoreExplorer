@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d2bf9062-b164-4523-8d00-bf859b9eabc7
+:END:
+#+title: Marcus Orrin
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010825-Report_Raises_Concerns_about_Operation_Davy_Jones.org][33010825-Report_Raises_Concerns_about_Operation_Davy_Jones.org]]

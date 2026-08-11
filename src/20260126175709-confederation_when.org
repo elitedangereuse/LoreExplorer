@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       429c8fa3-9fac-4c5d-8097-f94db94ed5da
+:END:
+#+title: Confederation When
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020426-Galactic_News__Weekly_Security_Report.org][33020426-Galactic_News__Weekly_Security_Report.org]]

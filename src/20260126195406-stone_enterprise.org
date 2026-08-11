@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ca93a964-eb5f-4af9-afd5-1f03a459836f
+:END:
+#+title: Stone Enterprise
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030630-Community_Goal__People’s_Rakapila_Progressive_Party_Issues_Request.org][33030630-Community_Goal__People’s_Rakapila_Progressive_Party_Issues_Request.org]]

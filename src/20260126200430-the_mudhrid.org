@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       75f08edb-292c-4b03-b2c4-c157f2401ba5
+:END:
+#+title: The Mudhrid
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070408-Neo-Marlinist_Faction_Defeated_in_Battle.org][33070408-Neo-Marlinist_Faction_Defeated_in_Battle.org]]

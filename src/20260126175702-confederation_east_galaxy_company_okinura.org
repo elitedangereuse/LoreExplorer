@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4cca28d8-44c9-4e1f-87d5-2326e35e1180
+:END:
+#+title: Confederation East Galaxy Company Okinura
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020503-Galactic_News__Weekly_Security_Report.org][33020503-Galactic_News__Weekly_Security_Report.org]]

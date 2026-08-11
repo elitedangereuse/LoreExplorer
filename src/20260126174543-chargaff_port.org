@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e663c5d8-1aad-4df7-8f5d-a8e5aae4371b
+:END:
+#+title: Chargaff Port
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020926-Galactic_News__Starport_Status_Update.org][33020926-Galactic_News__Starport_Status_Update.org]]

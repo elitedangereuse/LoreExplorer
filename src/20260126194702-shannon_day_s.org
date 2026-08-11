@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bdf5f872-33f0-4ae9-95cb-92caba381a4e
+:END:
+#+title: Shannon Day's
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020419-Freelance_Report__Canonn_to_Make_Deep-Space_Rendezvous.org][33020419-Freelance_Report__Canonn_to_Make_Deep-Space_Rendezvous.org]]

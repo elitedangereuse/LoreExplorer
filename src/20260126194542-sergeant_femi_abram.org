@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e8c7f064-8f33-436e-a585-8aad038c7cd4
+:END:
+#+title: Sergeant Femi Abram
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040609-Theft_Baffles_Security_Experts.org][33040609-Theft_Baffles_Security_Experts.org]]

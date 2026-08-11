@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ddeeed8d-d902-4cf0-a44e-1a3e1af2bacd
+:END:
+#+title: Only Hadrian Duval
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080311-Imperial_Guard_Defends_Duvals.org][33080311-Imperial_Guard_Defends_Duvals.org]]

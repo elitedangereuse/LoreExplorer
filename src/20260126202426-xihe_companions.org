@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       540630c8-e0c6-4e8a-89dc-2497f1cdac47
+:END:
+#+title: Xihe Companions
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011126-Master_Chefs_Coming_to_Market.org][33011126-Master_Chefs_Coming_to_Market.org]]

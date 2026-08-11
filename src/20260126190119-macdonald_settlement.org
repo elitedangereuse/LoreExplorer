@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ea166ab1-90f1-4040-8186-94d75618bf33
+:END:
+#+title: Macdonald Settlement
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33071007-Twin_Initiatives_for_Colonia_Bridge_Project.org][33071007-Twin_Initiatives_for_Colonia_Bridge_Project.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f5fdc2bd-6403-4e89-bdf7-396810f604fd
+:END:
+#+title: Governor Jordan
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010812-Apalar_System_Calls_for_Aid.org][33010812-Apalar_System_Calls_for_Aid.org]]

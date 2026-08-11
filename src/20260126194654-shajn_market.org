@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d69306c2-dbbf-4825-9b95-bc0df2b0d324
+:END:
+#+title: Shajn Market
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030825-Community_Goal__The_Path_to_Colonia.org][33030825-Community_Goal__The_Path_to_Colonia.org]]

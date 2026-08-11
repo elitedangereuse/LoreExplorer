@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bff9d3e9-eb6b-4f14-aa1a-92f60a84314a
+:END:
+#+title: Lucifer Device
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050216-Nuclear_Weapon_Stolen.org][33050216-Nuclear_Weapon_Stolen.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2cf4e56d-2e62-462f-8273-b59fb77fd5fa
+:END:
+#+title: The Republican
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090626-Presidential_Candidates_Hold_Live_Debate.org][33090626-Presidential_Candidates_Hold_Live_Debate.org]]

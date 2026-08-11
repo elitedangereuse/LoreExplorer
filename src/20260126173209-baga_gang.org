@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3534a3a3-7c32-4d7e-861e-9e99c74b18ad
+:END:
+#+title: Baga Gang
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030802-Galactic_News__Weekly_Security_Report.org][33030802-Galactic_News__Weekly_Security_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f725f96b-764a-463f-8fe3-3df2c075792f
+:END:
+#+title: Co When
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010817-GalNet_Weekly_Economic_Report.org][33010817-GalNet_Weekly_Economic_Report.org]]

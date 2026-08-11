@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7bae4760-296e-49b5-a6d8-2438ecc3cdf8
+:END:
+#+title: Abast Samo Harvey Ring
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040406-Starport_Status_Update.org][33040406-Starport_Status_Update.org]]

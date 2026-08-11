@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       135feaf4-7d38-4829-a008-2e9f32a92429
+:END:
+#+title: Deep Recon
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021209-Freelance_Report__Pilot_Completes_Extensive_Survey.org][33021209-Freelance_Report__Pilot_Completes_Extensive_Survey.org]]

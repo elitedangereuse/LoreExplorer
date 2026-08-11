@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7beeacb8-fff7-4c47-bdcf-c422ee0634fd
+:END:
+#+title: Kupol Bumba Wingqvist Terminal
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040919-Starport_Status_Update.org][33040919-Starport_Status_Update.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8414ce04-3966-4002-a6f7-530cb90ed7ba
+:END:
+#+title: Manite Bloch Vision
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020224-Galactic_News__Technological_Plague_Continues_to_Threaten_Starports.org][33020224-Galactic_News__Technological_Plague_Continues_to_Threaten_Starports.org]]

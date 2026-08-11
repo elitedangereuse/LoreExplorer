@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c10307c1-2696-4983-a8b2-ad5d8be8fe78
+:END:
+#+title: Brewer Corporation Trailblazer Fleet Upgraded
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3311/33110306-Brewer_Corporation_Trailblazer_Fleet_Upgraded.org][33110306-Brewer_Corporation_Trailblazer_Fleet_Upgraded.org]]

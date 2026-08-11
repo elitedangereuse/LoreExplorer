@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       17a3fc8c-889c-4d4d-b37a-8d5fdd911968
+:END:
+#+title: McDivitt Port
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040412-Starport_Status_Update.org][33040412-Starport_Status_Update.org]]

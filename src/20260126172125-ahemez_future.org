@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9219b0b8-788d-4b5e-b1b0-f245b7bd6a7c
+:END:
+#+title: Ahemez Future
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011106-GalNet_Weekly_Conflict_Report.org][33011106-GalNet_Weekly_Conflict_Report.org]]

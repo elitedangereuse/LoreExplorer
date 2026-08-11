@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       71d65a0a-e026-4c32-8b26-e5190d7efa87
+:END:
+#+title: Doctor Elana Lorax
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020225-Freelance_Report__Dr_Lorax_Speaks_for_the_Barnacles.org][33020225-Freelance_Report__Dr_Lorax_Speaks_for_the_Barnacles.org]]

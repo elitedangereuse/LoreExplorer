@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       98438133-0ada-4a33-8b13-45ed612c1576
+:END:
+#+title: Mouchez Platform
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040919-Starport_Status_Update.org][33040919-Starport_Status_Update.org]]

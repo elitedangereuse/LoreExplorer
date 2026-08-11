@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       cd26e9f5-151f-411c-bb11-ec957c3bae5a
+:END:
+#+title: Coalsack Nebulas
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33071028-Thargoid_Fleets_Invade_Nebula_Systems.org][33071028-Thargoid_Fleets_Invade_Nebula_Systems.org]]

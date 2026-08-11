@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0382f987-1435-4edd-91f1-d9a5cf06be99
+:END:
+#+title: The Sap Core Legion
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050829-Sap_Core_Legion_Commodity_Drive.org][33050829-Sap_Core_Legion_Commodity_Drive.org]]

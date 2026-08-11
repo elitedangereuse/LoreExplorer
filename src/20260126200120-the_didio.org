@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4edb9599-fd8e-41ad-aca0-4ffc40de40be
+:END:
+#+title: The Didio
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080425-Sirius_Vows_to_Defend_Alliance.org][33080425-Sirius_Vows_to_Defend_Alliance.org]]

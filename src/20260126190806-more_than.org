@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       069fd4c7-224e-454f-b226-fe6047587bca
+:END:
+#+title: More Than
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010903-Utopia__More_Than_a_Cult_.org][33010903-Utopia__More_Than_a_Cult_.org]]

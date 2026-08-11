@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2f498807-5075-4515-b203-fcdc96f8cff2
+:END:
+#+title: Resistance Civil
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020301-Galactic_News__Weekly_Security_Digest.org][33020301-Galactic_News__Weekly_Security_Digest.org]]

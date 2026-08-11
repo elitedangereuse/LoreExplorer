@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       fb68e0d9-9f53-4da5-b2a4-ee18938aff5f
+:END:
+#+title: Ace Rimzy
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010826-Athena_System_Hosts_‘XYZ_Fight_Club’.org][33010826-Athena_System_Hosts_‘XYZ_Fight_Club’.org]]

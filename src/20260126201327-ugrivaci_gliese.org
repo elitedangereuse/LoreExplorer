@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       11da7aac-52b8-4b32-9902-1a0fda19606a
+:END:
+#+title: Ugrivaci Gliese
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030507-Galactic_News__Weekly_Expansion_Report.org][33030507-Galactic_News__Weekly_Expansion_Report.org]]

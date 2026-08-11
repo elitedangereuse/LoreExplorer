@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ce60215a-3cf1-4321-bc62-03f386e43006
+:END:
+#+title: Jitabos Ford Dock
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030308-Galactic_News__Starport_Status_Update.org][33030308-Galactic_News__Starport_Status_Update.org]]

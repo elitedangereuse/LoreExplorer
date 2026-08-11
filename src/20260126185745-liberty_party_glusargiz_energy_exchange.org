@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ff167bf1-cf7c-42f3-9728-9b7d71d94f2f
+:END:
+#+title: Liberty Party Glusargiz Energy Exchange
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020104-GalNet_Weekly_Economic_Report.org][33020104-GalNet_Weekly_Economic_Report.org]]

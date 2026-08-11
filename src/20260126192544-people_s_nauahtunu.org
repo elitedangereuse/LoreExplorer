@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f5a0a4c9-f838-4bab-b851-394f560768cb
+:END:
+#+title: People's Nauahtunu
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011211-GalNet_Weekly_Conflict_Report.org][33011211-GalNet_Weekly_Conflict_Report.org]]

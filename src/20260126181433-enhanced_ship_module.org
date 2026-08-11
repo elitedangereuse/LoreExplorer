@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e7504df4-11dc-44e0-a802-27d560ddcdcf
+:END:
+#+title: Enhanced Ship Module
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070617-Materials_Needed_for_Enhanced_Ship_Module.org][33070617-Materials_Needed_for_Enhanced_Ship_Module.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       cf7be00f-a612-4bd7-9bc8-82171e823183
+:END:
+#+title: Will Halsey
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010402-Hudson_Swears_to_Succeed_Where_Halsey_Failed!.org][33010402-Hudson_Swears_to_Succeed_Where_Halsey_Failed!.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2b8abb88-dd0b-4e27-8b1d-3ab03f50cc3a
+:END:
+#+title: Rackham Under Investigation
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050404-Rackham_Under_Investigation.org][33050404-Rackham_Under_Investigation.org]]

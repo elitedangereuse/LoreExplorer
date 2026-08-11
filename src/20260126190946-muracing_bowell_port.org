@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d11b80df-3938-43ad-b891-400a88e47715
+:END:
+#+title: Muracing Bowell Port
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030314-Galactic_News__Starport_Status_Update.org][33030314-Galactic_News__Starport_Status_Update.org]]

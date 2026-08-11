@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       278f0071-dedc-4705-b6fa-5f26f9b562e3
+:END:
+#+title: Socha Korbemile
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020108-The_Canonn_Searching_for_Barnacles_in_the_Pleiades.org][33020108-The_Canonn_Searching_for_Barnacles_in_the_Pleiades.org]]

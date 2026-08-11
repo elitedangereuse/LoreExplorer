@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1cb8c12b-41c6-499b-9c22-02f3e4e29cff
+:END:
+#+title: Equality Civil
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020513-Galactic_News__Weekly_Conflict_Report.org][33020513-Galactic_News__Weekly_Conflict_Report.org]]

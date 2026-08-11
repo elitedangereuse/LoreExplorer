@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6dd854c2-3953-4801-9f57-e916d34c184c
+:END:
+#+title: Upaniklis Vision Incorporated
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33051108-Inhabited_Generation_Ship_Discovered.org][33051108-Inhabited_Generation_Ship_Discovered.org]]

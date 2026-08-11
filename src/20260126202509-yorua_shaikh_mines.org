@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ca2b5160-07b5-43c7-9339-2b12bc3e9a27
+:END:
+#+title: Yorua Shaikh Mines
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040510-Starport_Status_Update.org][33040510-Starport_Status_Update.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c625963f-ee9f-4a81-9ce0-7b5399e424dd
+:END:
+#+title: New Xeno-Research Centre
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050207-Campaign_for_New_Xeno-Research_Centre.org][33050207-Campaign_for_New_Xeno-Research_Centre.org]]

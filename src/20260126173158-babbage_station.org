@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9ac939f1-9304-4279-9560-377c42a79899
+:END:
+#+title: Babbage Station
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010612-Only_The_Strong_Survive_The_Frontier.org][33010612-Only_The_Strong_Survive_The_Frontier.org]]

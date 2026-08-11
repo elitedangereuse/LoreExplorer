@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ac21b644-be83-4e1d-af2a-97206c97cd09
+:END:
+#+title: Turot Creative Industries Potriti Public
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021004-Galactic_News__Weekly_Security_Report.org][33021004-Galactic_News__Weekly_Security_Report.org]]

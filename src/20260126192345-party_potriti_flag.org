@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9cd15245-b7cb-46e0-a36b-8f6769618fd0
+:END:
+#+title: Party Potriti Flag
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020906-Galactic_News__Weekly_Security_Report.org][33020906-Galactic_News__Weekly_Security_Report.org]]

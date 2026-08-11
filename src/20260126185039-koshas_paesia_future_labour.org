@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8473d665-7e2f-4f9c-8cdc-c831838f5f89
+:END:
+#+title: Koshas Paesia Future Labour
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011027-GalNet_Weekly_Security_Digest.org][33011027-GalNet_Weekly_Security_Digest.org]]

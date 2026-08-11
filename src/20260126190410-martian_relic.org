@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       446239a0-a06e-46a1-a216-c0a497fe1cba
+:END:
+#+title: Martian Relic
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020930-Galactic_News__The_Martian_Relic.org][33020930-Galactic_News__The_Martian_Relic.org]]

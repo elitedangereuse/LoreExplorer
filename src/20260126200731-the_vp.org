@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7b6e1480-dab6-4c33-84a3-9a0401c6ae17
+:END:
+#+title: The VP
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070312-Starport_Bombing_Casualties_Include_Federal_Vice_President.org][33070312-Starport_Bombing_Casualties_Include_Federal_Vice_President.org]]

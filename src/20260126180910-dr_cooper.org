@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4022ee17-c966-4930-ba25-058fde04451e
+:END:
+#+title: Dr Cooper
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090417-Aegis_Reports_on_Utopia’s_Sim-Archive.org][33090417-Aegis_Reports_on_Utopia’s_Sim-Archive.org]]

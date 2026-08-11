@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c0b10129-6635-4093-9938-b8840a1c213c
+:END:
+#+title: Peregrina Aachen Town
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030928-Galactic_News__Starport_Status_Update.org][33030928-Galactic_News__Starport_Status_Update.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       116dd825-32ad-4b22-97d0-446abb21472c
+:END:
+#+title: Retain Hudson
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080222-Hudson_Contravention_Sparks_Federal_Protests.org][33080222-Hudson_Contravention_Sparks_Federal_Protests.org]]

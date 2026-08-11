@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f3df499c-4bd5-494c-a6bc-f5d94cf6b746
+:END:
+#+title: Worker's Party
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010828-GalNet_Weekly_Conflict_Report.org][33010828-GalNet_Weekly_Conflict_Report.org]]

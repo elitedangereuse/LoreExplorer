@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8cda7314-6365-4471-8ba0-9179232384bd
+:END:
+#+title: Presidential Candidates
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040927-Presidential_Candidates_on_the_Campaign_Trail.org][33040927-Presidential_Candidates_on_the_Campaign_Trail.org]]

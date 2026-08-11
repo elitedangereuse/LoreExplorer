@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       44afb45c-3f8c-4af2-b643-71c5d7c7e626
+:END:
+#+title: Cayutorme Citizens
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020913-Galactic_News__Weekly_Security_Report.org][33020913-Galactic_News__Weekly_Security_Report.org]]

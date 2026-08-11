@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a32cf060-ce19-4b5f-ba98-0a7ce8cd792a
+:END:
+#+title: Exchange Independents
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030625-Galactic_News__Weekly_Expansion_Report.org][33030625-Galactic_News__Weekly_Expansion_Report.org]]

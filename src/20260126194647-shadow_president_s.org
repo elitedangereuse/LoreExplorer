@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a7bf490c-dcb2-4d9d-a555-1cdef2226bda
+:END:
+#+title: Shadow President's
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010731-A_Week_in_Powerplay.org][33010731-A_Week_in_Powerplay.org]]

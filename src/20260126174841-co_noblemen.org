@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e3ba5a9a-d15e-4e2c-a2f3-ab6acb7c6226
+:END:
+#+title: Co Noblemen
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020725-Galactic_News__Weekly_Economic_Report.org][33020725-Galactic_News__Weekly_Economic_Report.org]]

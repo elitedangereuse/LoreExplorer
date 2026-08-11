@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0f4a780e-0ae1-4b74-bb5b-ddadd3b0f470
+:END:
+#+title: Diamond Frogs
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020104-Diamond_Frogs_Contribute_to_Christmas_Initiative.org][33020104-Diamond_Frogs_Contribute_to_Christmas_Initiative.org]]

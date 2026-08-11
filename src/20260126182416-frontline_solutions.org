@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ea8f0b6a-9e51-4c33-a57f-c531ff2d299a
+:END:
+#+title: Frontline Solutions
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33071226-2-37.org][33071226-2-37.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bab74b52-af60-41b5-b2be-9e47dba4af78
+:END:
+#+title: Valentine's Day Regatta
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010213-The_St._Valentine's_Day_Regatta.org][33010213-The_St._Valentine's_Day_Regatta.org]]

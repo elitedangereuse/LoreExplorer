@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ea906cd4-4e77-48d3-988f-f5e16e977360
+:END:
+#+title: Dr Cordelius Swainn
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030623-Community_Goal__Renowned_Chef_Issues_Appeal.org][33030623-Community_Goal__Renowned_Chef_Issues_Appeal.org]]

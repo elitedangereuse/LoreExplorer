@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       09e9d761-be5c-4eb0-981c-e1aef114db82
+:END:
+#+title: Jaques Labour
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030107-Galactic_News__Weekly_Expansion_Report.org][33030107-Galactic_News__Weekly_Expansion_Report.org]]

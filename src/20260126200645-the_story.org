@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1f5725a6-a8a6-4888-a19d-f2e1923da82b
+:END:
+#+title: The Story
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070712-The_Story_of_Onionhead.org][33070712-The_Story_of_Onionhead.org]]

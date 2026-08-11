@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       11d1a933-f4f9-4f90-a04a-800bb072cf91
+:END:
+#+title: Senator Leatrix
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33041220-Supplies_Needed_for_Imperial_Festivities.org][33041220-Supplies_Needed_for_Imperial_Festivities.org]]

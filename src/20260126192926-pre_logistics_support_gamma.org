@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3b7fe330-40a8-42b3-a915-e28152059f38
+:END:
+#+title: Pre Logistics Support Gamma
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020922-Community_Goal__Federation_Appeals_for_Exploration_Data.org][33020922-Community_Goal__Federation_Appeals_for_Exploration_Data.org]]

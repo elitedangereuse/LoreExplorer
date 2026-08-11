@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d68b10e0-2254-443f-be42-c078fd9a6b18
+:END:
+#+title: Commander Lone WolfPack
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090316-Ammonia_World_Survey_Concludes.org][33090316-Ammonia_World_Survey_Concludes.org]]

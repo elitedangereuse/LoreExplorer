@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7b29c5ac-59eb-42c6-a909-00904c61b8d2
+:END:
+#+title: Jeffress's New Treasure Hunt
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020324-Community_Goal__Jeffress's_New_Treasure_Hunt.org][33020324-Community_Goal__Jeffress's_New_Treasure_Hunt.org]]

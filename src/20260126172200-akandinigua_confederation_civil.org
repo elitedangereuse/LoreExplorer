@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bfd30185-e0c6-4883-abfc-b3fd27c2bb47
+:END:
+#+title: Akandinigua Confederation Civil
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010811-GalNet_Weekly_Security_Digest.org][33010811-GalNet_Weekly_Security_Digest.org]]

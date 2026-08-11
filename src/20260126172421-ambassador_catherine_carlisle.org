@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       dab35edc-8b08-4325-9bf9-3a4aced829ca
+:END:
+#+title: Ambassador Catherine Carlisle
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070513-Nova_Imperium_Triumphs_Over_Federation.org][33070513-Nova_Imperium_Triumphs_Over_Federation.org]]

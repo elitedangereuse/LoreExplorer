@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       45e55c0a-e0ff-41b2-9a47-0d52b6b694f4
+:END:
+#+title: Orcus Crag
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040302-Federal-Imperial_Operation_Concludes.org][33040302-Federal-Imperial_Operation_Concludes.org]]

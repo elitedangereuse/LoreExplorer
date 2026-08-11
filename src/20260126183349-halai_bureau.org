@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       fc2d399f-aa75-4e97-9c02-132bad94574d
+:END:
+#+title: Halai Bureau
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010710-GalNet_Weekly_Conflict_Report.org][33010710-GalNet_Weekly_Conflict_Report.org]]

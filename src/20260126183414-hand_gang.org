@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       45d6f022-216e-4c91-b638-0148e66c3d47
+:END:
+#+title: Hand Gang
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010605-Kumo_Crew_-_Uniting_the_Pegasi_Pirates.org][33010605-Kumo_Crew_-_Uniting_the_Pegasi_Pirates.org]]

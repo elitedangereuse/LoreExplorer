@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       351455be-9bf7-49c7-8969-46127061b06f
+:END:
+#+title: The Coming
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33081121-The_Coming_of_Taranis.org][33081121-The_Coming_of_Taranis.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bd7385ed-cc6b-4762-aea6-ab71297ef1ce
+:END:
+#+title: Logan Khol
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020831-Galactic_News__Mysterious_Wreckage_Discovered.org][33020831-Galactic_News__Mysterious_Wreckage_Discovered.org]]

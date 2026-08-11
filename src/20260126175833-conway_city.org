@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7a373fc7-6a96-490b-93c4-7bb5c98a3181
+:END:
+#+title: Conway City
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030714-Community_Goal__NULL_Campaign_Begins.org][33030714-Community_Goal__NULL_Campaign_Begins.org]]

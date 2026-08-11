@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       94d17d32-1a8b-4805-a0d0-3ac390a494f5
+:END:
+#+title: Transport Group Regulatory State
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021217-Galactic_News__Weekly_Expansion_Report.org][33021217-Galactic_News__Weekly_Expansion_Report.org]]

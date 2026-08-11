@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       cef9b27e-1cad-444e-9d63-a843d823c6c7
+:END:
+#+title: Credit Crops
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010611-Controlling_the_Credit_Crops.org][33010611-Controlling_the_Credit_Crops.org]]

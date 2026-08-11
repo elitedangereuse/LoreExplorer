@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6434f332-ced2-44be-9675-53424261044e
+:END:
+#+title: Fears Rise
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080827-Fears_Rise_of_Thargoid_Expansion.org][33080827-Fears_Rise_of_Thargoid_Expansion.org]]

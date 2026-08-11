@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       22340af9-20d6-4811-a4f7-d69caf6d4266
+:END:
+#+title: Commander Lewis's
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021105-Freelance_Report__Hapless_Explorer_Returns_Home.org][33021105-Freelance_Report__Hapless_Explorer_Returns_Home.org]]

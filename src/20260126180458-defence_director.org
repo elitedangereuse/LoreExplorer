@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       10b5958f-1081-49eb-9292-b0ab8957409a
+:END:
+#+title: Defence Director
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050221-Merope_Defence_Initiative_Concludes.org][33050221-Merope_Defence_Initiative_Concludes.org]]

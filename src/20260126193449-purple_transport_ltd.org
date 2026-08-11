@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       768c07e6-c21f-43cb-aa75-49cc7326fe91
+:END:
+#+title: Purple Transport Ltd
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030707-Galactic_News__Weekly_Democracy_Report.org][33030707-Galactic_News__Weekly_Democracy_Report.org]]

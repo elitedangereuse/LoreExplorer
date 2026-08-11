@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       157941d5-c27e-413c-81ce-44db70c1d600
+:END:
+#+title: Enhanced AX Multi-cannon
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33081215-Enhanced_AX_Weapon_Update.org][33081215-Enhanced_AX_Weapon_Update.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9ba1434d-3a21-470a-8ba9-dd163234631e
+:END:
+#+title: Wing Commander Mackenzie Coates
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33091027-Eliminate_Threat_of_Grey_Swan_Fleet.org][33091027-Eliminate_Threat_of_Grey_Swan_Fleet.org]]

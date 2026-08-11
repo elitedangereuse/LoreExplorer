@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4bb24b2c-80fc-40d9-861c-703a74078ed1
+:END:
+#+title: The Nameless
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33031020-Community_Goal__Conflict_in_Colonia.org][33031020-Community_Goal__Conflict_in_Colonia.org]]

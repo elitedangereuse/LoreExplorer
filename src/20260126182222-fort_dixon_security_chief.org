@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       217727e5-ceaf-4e9e-a981-2c539f7d72b5
+:END:
+#+title: Fort Dixon Security Chief
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050503-Docked_Ship_Thief_Identified.org][33050503-Docked_Ship_Thief_Identified.org]]

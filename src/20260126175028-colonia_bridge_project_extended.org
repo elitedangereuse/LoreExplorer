@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ff0a623e-405d-4fe0-98ab-24597f81a981
+:END:
+#+title: Colonia Bridge Project Extended
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33071126-Colonia_Bridge_Project_Extended_to_3308.org][33071126-Colonia_Bridge_Project_Extended_to_3308.org]]

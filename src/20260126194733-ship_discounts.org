@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       113ecf37-2e3c-4ac7-8d2d-87a84f5c012f
+:END:
+#+title: Ship Discounts
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33061214-Core_Dynamics_Funds_Takeover_with_Ship_Discounts.org][33061214-Core_Dynamics_Funds_Takeover_with_Ship_Discounts.org]]

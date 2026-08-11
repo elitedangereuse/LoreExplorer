@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e68df3e9-2211-4b1e-b951-fdb4dbb6ad38
+:END:
+#+title: Dr Arcanonn's
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010710-Breakthrough_in_Artefact_Research_.org][33010710-Breakthrough_in_Artefact_Research_.org]]

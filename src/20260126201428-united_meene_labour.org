@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0b2eb1e1-9332-4796-a010-3aee3ebb9f98
+:END:
+#+title: United Meene Labour
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021103-Community_Goal__Appeal_for_Ancient_Data.org][33021103-Community_Goal__Appeal_for_Ancient_Data.org]]

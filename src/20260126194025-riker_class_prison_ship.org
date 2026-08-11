@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       eea2286c-db8e-4568-b6a7-83d43e4a6b75
+:END:
+#+title: Riker-Class Prison Ship
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040511-New_Prisoner_Facilities_in_Veroklist.org][33040511-New_Prisoner_Facilities_in_Veroklist.org]]

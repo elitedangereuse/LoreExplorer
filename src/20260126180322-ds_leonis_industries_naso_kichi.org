@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2b91915b-b1b6-4aca-a7db-249d4e5efb50
+:END:
+#+title: DS Leonis Industries Naso Kichi
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010926-GalNet_Weekly_Expansion_List.org][33010926-GalNet_Weekly_Expansion_List.org]]

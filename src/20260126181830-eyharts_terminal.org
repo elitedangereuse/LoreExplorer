@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e0449cb3-ecdf-470c-b675-c3c44e38e4ff
+:END:
+#+title: Eyharts Terminal
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33031004-Galactic_News__Starport_Status_Update.org][33031004-Galactic_News__Starport_Status_Update.org]]

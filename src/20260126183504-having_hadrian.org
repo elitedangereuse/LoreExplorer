@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f8442a5e-b0ac-447d-96fa-c2082328b0df
+:END:
+#+title: Having Hadrian
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33041207-Nova_Imperium_Unveils_Figurehead.org][33041207-Nova_Imperium_Unveils_Figurehead.org]]

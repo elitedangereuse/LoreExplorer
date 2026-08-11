@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bd4b4c4d-5b17-4852-b5f7-75362f0424b1
+:END:
+#+title: Khonsu Gleam
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33091026-Mysterious_Phenomenon_Triggers_Violent_Attacks.org][33091026-Mysterious_Phenomenon_Triggers_Violent_Attacks.org]]

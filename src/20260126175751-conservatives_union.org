@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       81f3ce4a-0c89-4471-8d96-91b0c5257c53
+:END:
+#+title: Conservatives Union
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020111-GalNet_Weekly_Economic_Report.org][33020111-GalNet_Weekly_Economic_Report.org]]

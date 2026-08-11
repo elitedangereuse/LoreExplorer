@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       470a162c-dbc0-4a69-88d9-b324c62755f3
+:END:
+#+title: Aisling Requests Rare Items
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080922-Aisling_Requests_Rare_Items_to_Fund_Charity.org][33080922-Aisling_Requests_Rare_Items_to_Fund_Charity.org]]

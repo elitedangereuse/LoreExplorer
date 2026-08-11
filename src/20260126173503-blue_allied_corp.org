@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9c4955cb-43a1-4af2-bb1f-d48d13f9104e
+:END:
+#+title: Blue Allied Corp
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020118-GalNet_Weekly_Economic_Report.org][33020118-GalNet_Weekly_Economic_Report.org]]

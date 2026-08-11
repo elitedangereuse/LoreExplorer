@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       28dac7f0-2257-401a-8ffa-7a5fb0ac4994
+:END:
+#+title: Dr Leigh Constantinides
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040504-Defending_the_Sim-Archive.org][33040504-Defending_the_Sim-Archive.org]]

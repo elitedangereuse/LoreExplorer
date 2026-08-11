@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c0d2fe4b-8a19-4011-9479-2975e998b883
+:END:
+#+title: Party Chin Purple Life Ltd
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020105-GalNet_Weekly_Security_Digest.org][33020105-GalNet_Weekly_Security_Digest.org]]

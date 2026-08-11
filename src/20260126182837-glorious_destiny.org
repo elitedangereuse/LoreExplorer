@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b5e12c68-5fcb-4ef4-aacc-8ec08bad44ff
+:END:
+#+title: Glorious Destiny
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33061014-Marlinist_Faction_Blockaded_by_Empire.org][33061014-Marlinist_Faction_Blockaded_by_Empire.org]]

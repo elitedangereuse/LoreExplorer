@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       786cce5b-7909-485a-bf2f-0d2b51e59d1c
+:END:
+#+title: Purple Electronics Serv Kareco Crimson
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011117-GalNet_Weekly_Security_Digest.org][33011117-GalNet_Weekly_Security_Digest.org]]

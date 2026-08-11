@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6e1cfa90-d411-4cc6-bcf1-30fdf8625806
+:END:
+#+title: Netcoms Partners Simarasir Dynamic Solutions
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020726-Galactic_News__Weekly_Security_Report.org][33020726-Galactic_News__Weekly_Security_Report.org]]

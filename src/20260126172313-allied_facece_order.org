@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e7b595f5-1299-4db7-a4e4-6dcbf11b7e0b
+:END:
+#+title: Allied Facece Order
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020120-Empire_Ousted_from_Facece_System.org][33020120-Empire_Ousted_from_Facece_System.org]]

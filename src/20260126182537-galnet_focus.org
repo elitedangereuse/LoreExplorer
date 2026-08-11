@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       34e3ca11-4e0e-4c7f-9b11-0a0ae4df7993
+:END:
+#+title: GalNet Focus
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010702-GalNet_Focus_on_Democracy.org][33010702-GalNet_Focus_on_Democracy.org]]

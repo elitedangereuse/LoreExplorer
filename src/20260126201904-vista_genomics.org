@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7be53c8f-70ed-4755-a8f1-c9ea33cd2eea
+:END:
+#+title: Vista Genomics
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080210-Colonia_Bridge_Project_Enters_Final_Phase.org][33080210-Colonia_Bridge_Project_Enters_Final_Phase.org]]

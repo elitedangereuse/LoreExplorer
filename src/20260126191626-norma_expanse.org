@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f9dc8f7e-2034-4333-beb7-17e38226f51d
+:END:
+#+title: Norma Expanse
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020408-Galactic_News__Congratulations_to_Distant_Worlds_Explorers.org][33020408-Galactic_News__Congratulations_to_Distant_Worlds_Explorers.org]]

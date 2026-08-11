@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5fe1e775-f32d-48b0-9872-7dd2c1c90e91
+:END:
+#+title: Increased Fear
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33041011-Increased_Fear_of_Spy_Robots.org][33041011-Increased_Fear_of_Spy_Robots.org]]

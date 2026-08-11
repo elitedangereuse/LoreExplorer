@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       da335d4d-0dd9-4ef4-9604-9a557d7e16e1
+:END:
+#+title: Carson's Spring
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050718-Thargoids_Return_to_Pleiades_Nebula.org][33050718-Thargoids_Return_to_Pleiades_Nebula.org]]

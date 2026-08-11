@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b1e0c49a-e31f-469d-95a8-8429ba3a69a7
+:END:
+#+title: Repel Pirates
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3310/33100606-Repel_Pirates_and_Provide_Aid_to_De_Caminha_Station.org][33100606-Repel_Pirates_and_Provide_Aid_to_De_Caminha_Station.org]]

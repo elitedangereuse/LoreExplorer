@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3967352c-184b-4195-b0da-773426a93661
+:END:
+#+title: Security Support Needed For Cerberus
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010716-Security_Support_Needed_For_Cerberus_Plague_Intervention.org][33010716-Security_Support_Needed_For_Cerberus_Plague_Intervention.org]]

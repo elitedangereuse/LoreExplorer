@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       211624f8-5249-48ea-9009-34c62b8d4c88
+:END:
+#+title: Corporate Split
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33071008-Corporate_Split_between_Mastopolos_and_Torval.org][33071008-Corporate_Split_between_Mastopolos_and_Torval.org]]

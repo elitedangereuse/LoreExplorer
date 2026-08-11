@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       10b0774a-80b8-483a-af56-f6a1fe4417a6
+:END:
+#+title: Fuelum Young Station
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040418-Starport_Status_Update.org][33040418-Starport_Status_Update.org]]

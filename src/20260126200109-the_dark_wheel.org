@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1b86cd1c-0860-4838-9d52-1a47056e006e
+:END:
+#+title: The Dark Wheel
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010721-Prism_Senator_Missing.org][33010721-Prism_Senator_Missing.org]]

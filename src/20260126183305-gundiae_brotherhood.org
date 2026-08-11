@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9ceb61f6-2ed4-42c1-8ca4-843602e11b56
+:END:
+#+title: Gundiae Brotherhood
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020208-Galactic_News__Weekly_Economic_Report.org][33020208-Galactic_News__Weekly_Economic_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       cd1c8cfb-4799-4b6e-95d9-e3251b2f5112
+:END:
+#+title: Dean Bradigan
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33060917-Community_Support_Required_for_Starport_Conversions.org][33060917-Community_Support_Required_for_Starport_Conversions.org]]

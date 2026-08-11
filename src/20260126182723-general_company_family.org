@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8e1d0ebb-20d9-4aad-bcc8-10602254ade8
+:END:
+#+title: General Company Family
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020122-Galactic_News__Weekly_Conflict_Report.org][33020122-Galactic_News__Weekly_Conflict_Report.org]]

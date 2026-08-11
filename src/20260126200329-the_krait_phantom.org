@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       31b5eb7e-4a8a-40b4-a968-fec8e839b85a
+:END:
+#+title: The Krait Phantom
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33041211-Mamba_and_Krait_Phantom_Released.org][33041211-Mamba_and_Krait_Phantom_Released.org]]

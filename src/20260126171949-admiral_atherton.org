@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       931e59d9-2ad9-4dfa-8509-bfd09cd7378c
+:END:
+#+title: Admiral Atherton
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080714-Pilots_Urged_to_Defend_Proteus_Wave_Project.org][33080714-Pilots_Urged_to_Defend_Proteus_Wave_Project.org]]

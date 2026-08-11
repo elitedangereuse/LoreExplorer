@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       35a18c69-814f-4fc7-96b7-8215d30c2721
+:END:
+#+title: Ethgreze Liberty Party
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030313-Galactic_News__Weekly_Economic_Report.org][33030313-Galactic_News__Weekly_Economic_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d81f8a3b-1ca5-474b-97ac-5ee9bd0ce8b8
+:END:
+#+title: Captain Millington
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010213-The_St._Valentine's_Day_Regatta.org][33010213-The_St._Valentine's_Day_Regatta.org]]

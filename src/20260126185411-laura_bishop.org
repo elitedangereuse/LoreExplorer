@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       83023054-f8b4-44c3-a36c-ca71d8776dfd
+:END:
+#+title: Laura Bishop
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011029-Technical_Issues_in_64_Arietis.org][33011029-Technical_Issues_in_64_Arietis.org]]

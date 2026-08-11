@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       62e9d133-885d-49bf-9127-53b20d3b89c2
+:END:
+#+title: Building Fabricators
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030505-Community_Goal__Alliance_Outpost_Campaign.org][33030505-Community_Goal__Alliance_Outpost_Campaign.org]]

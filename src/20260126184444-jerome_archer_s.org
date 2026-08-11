@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2fa6eaaf-7979-4e83-a0d7-98df1fd29aa1
+:END:
+#+title: Jerome Archer's
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33091113-Winters_Resists_Hudson’s_Legacy_Projects.org][33091113-Winters_Resists_Hudson’s_Legacy_Projects.org]]

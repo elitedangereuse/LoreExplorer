@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6a5c79ff-2580-4018-b5f5-760f15c9cd82
+:END:
+#+title: But Allied
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080622-Superpowers_Stand_with_Azimuth.org][33080622-Superpowers_Stand_with_Azimuth.org]]

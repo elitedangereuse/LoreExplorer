@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6bee1e30-4657-487c-8a73-19008647ea5a
+:END:
+#+title: Fugin Tea
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020616-Galactic_News__Engineers_Reduce_Requirements.org][33020616-Galactic_News__Engineers_Reduce_Requirements.org]]

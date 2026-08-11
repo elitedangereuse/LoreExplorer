@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       878e572d-e433-4b70-95a4-0687a448a526
+:END:
+#+title: Zugen Incorporated Delta Pavonis Vision
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030524-Galactic_News__Weekly_Security_Report.org][33030524-Galactic_News__Weekly_Security_Report.org]]

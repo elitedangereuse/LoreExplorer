@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9e91bd64-fb9f-4312-bd67-07fa0374156b
+:END:
+#+title: Bounties Placed
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080317-Bounties_Placed_on_Criminal_Faction.org][33080317-Bounties_Placed_on_Criminal_Faction.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6cc00608-37d7-4bb3-8f0a-390eed15fec1
+:END:
+#+title: Torval Mining
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080111-Torval_Mining_Challenges_Caine-Massey.org][33080111-Torval_Mining_Challenges_Caine-Massey.org]]

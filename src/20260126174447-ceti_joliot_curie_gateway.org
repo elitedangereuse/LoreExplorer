@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7c09e348-5d52-4272-bf0f-e2e1bb74a411
+:END:
+#+title: Ceti Joliot-Curie Gateway
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33031011-Galactic_News__Starport_Status_Update.org][33031011-Galactic_News__Starport_Status_Update.org]]

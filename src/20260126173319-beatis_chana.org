@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1a046457-ba32-404d-95ca-798312d87943
+:END:
+#+title: Beatis Chana
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33060930-Imperial_Crackdown_on_Marlinists.org][33060930-Imperial_Crackdown_on_Marlinists.org]]

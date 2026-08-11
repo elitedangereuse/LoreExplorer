@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7d130acf-54f6-46d6-b67c-bcfbeae8e871
+:END:
+#+title: Walter Dock
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021020-Community_Goal__The_Walter_Waldo_Appeal.org][33021020-Community_Goal__The_Walter_Waldo_Appeal.org]]

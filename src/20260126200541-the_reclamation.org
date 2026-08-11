@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       43dccd67-2789-4a08-bebc-183a07f126f7
+:END:
+#+title: The Reclamation
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020702-Freelance_Report__The_Reclamation_of_Facece.org][33020702-Freelance_Report__The_Reclamation_of_Facece.org]]

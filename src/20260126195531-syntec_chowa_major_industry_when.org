@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       af6fd793-94ff-4103-b33b-2c18a45ec17b
+:END:
+#+title: Syntec Chowa Major Industry When
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020913-Galactic_News__Weekly_Security_Report.org][33020913-Galactic_News__Weekly_Security_Report.org]]

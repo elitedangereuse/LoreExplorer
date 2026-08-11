@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6bc34b0f-586f-4f9b-9e1f-dd1ab9a38f8f
+:END:
+#+title: Emmerich Koenig
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070819-LTT_198_Hosts_Competing_Mining_Campaigns.org][33070819-LTT_198_Hosts_Competing_Mining_Campaigns.org]]

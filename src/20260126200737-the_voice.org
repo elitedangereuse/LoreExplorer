@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0c3fbe6d-12b9-492c-8770-fc9b63788851
+:END:
+#+title: The Voice
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010927-Palin_Invited_to_Join_Research_Group.org][33010927-Palin_Invited_to_Join_Research_Group.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9d83930d-650c-4566-8098-44e0ba8db70a
+:END:
+#+title: Star Wars
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011026-Commemorative_Space_Race.org][33011026-Commemorative_Space_Race.org]]

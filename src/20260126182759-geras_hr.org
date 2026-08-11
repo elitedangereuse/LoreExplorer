@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a35f26f4-5257-47e1-a28b-c9f15bd658c9
+:END:
+#+title: Geras HR
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030416-Galactic_News__Weekly_Expansion_Report.org][33030416-Galactic_News__Weekly_Expansion_Report.org]]

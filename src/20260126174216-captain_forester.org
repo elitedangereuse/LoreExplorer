@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6d9c57a9-7d6c-4367-aa57-db60f107bd15
+:END:
+#+title: Captain Forester
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33051124-Federation_Delivers_Golconda’s_New_Home.org][33051124-Federation_Delivers_Golconda’s_New_Home.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c48220c7-15bf-4a44-aa6d-360fc5c88a16
+:END:
+#+title: Sol Today
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33061026-Congress_Votes_to_Accept_Marlinist_Immigrants.org][33061026-Congress_Votes_to_Accept_Marlinist_Immigrants.org]]

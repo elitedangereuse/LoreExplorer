@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a4fc9d68-3877-4ec8-98c1-1b27f6b8be1d
+:END:
+#+title: Future Coalition
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030325-Galactic_News__Weekly_Expansion_Report.org][33030325-Galactic_News__Weekly_Expansion_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bd35c5c5-7656-447f-a4cc-1309af003038
+:END:
+#+title: Ltd League
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020805-Galactic_News__Weekly_Conflict_Report.org][33020805-Galactic_News__Weekly_Conflict_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e9f62d43-2c40-48d6-90d6-c89c30524458
+:END:
+#+title: Congressional Bid Collapses
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33041004-Bishop’s_Congressional_Bid_Collapses.org][33041004-Bishop’s_Congressional_Bid_Collapses.org]]

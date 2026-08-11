@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7dc215ff-43ba-4216-9489-d617f8201678
+:END:
+#+title: Dr Ivan Johansen
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33051114-Golconda_Receives_Vital_Aid.org][33051114-Golconda_Receives_Vital_Aid.org]]

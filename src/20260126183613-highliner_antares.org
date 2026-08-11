@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       963a3c59-02bd-4a71-b895-46d51ab06258
+:END:
+#+title: Highliner Antares
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010527-Shades_of_the_Antares_Incident.org][33010527-Shades_of_the_Antares_Incident.org]]

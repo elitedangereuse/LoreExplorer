@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f6434f7d-d905-40ad-a431-c8c16268ee66
+:END:
+#+title: Explore Maelstroms
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090424-Aegis_Trials_Tech_to_Explore_Maelstroms.org][33090424-Aegis_Trials_Tech_to_Explore_Maelstroms.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a4e36c79-846c-43a5-b30c-7e9322f4b997
+:END:
+#+title: Prime Minister Mahon
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010621-Prime_Minister_Mahon_Announces_Open_Trade_Agreement_in_Old_World_Cluster.org][33010621-Prime_Minister_Mahon_Announces_Open_Trade_Agreement_in_Old_World_Cluster.org]]

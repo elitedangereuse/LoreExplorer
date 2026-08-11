@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2e58c47f-980c-4eab-a69f-28ef824c8017
+:END:
+#+title: Garay Terminal
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040629-Thargoid_Assault_on_the_Deciat_System.org][33040629-Thargoid_Assault_on_the_Deciat_System.org]]

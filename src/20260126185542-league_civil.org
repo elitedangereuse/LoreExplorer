@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       af46c979-a330-413d-8813-412d4626414c
+:END:
+#+title: League Civil
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030603-Galactic_News__Weekly_Conflict_Report.org][33030603-Galactic_News__Weekly_Conflict_Report.org]]

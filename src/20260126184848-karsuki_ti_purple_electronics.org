@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3ad5a27d-be28-4144-9722-02d809e4d4d8
+:END:
+#+title: Karsuki Ti Purple Electronics
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011005-GalNet_Weekly_Economic_Report.org][33011005-GalNet_Weekly_Economic_Report.org]]

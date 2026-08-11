@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       33099bfa-f217-4862-85dc-fe7f4d8e81bf
+:END:
+#+title: Lutni Patrons
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020723-Galactic_News__Weekly_Expansion_Report.org][33020723-Galactic_News__Weekly_Expansion_Report.org]]

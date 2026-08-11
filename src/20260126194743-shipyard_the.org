@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       253b56f9-2493-45a9-aed2-19017d8b6445
+:END:
+#+title: Shipyard The
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080310-Colonia_Bridge_Reaches_Completion.org][33080310-Colonia_Bridge_Reaches_Completion.org]]

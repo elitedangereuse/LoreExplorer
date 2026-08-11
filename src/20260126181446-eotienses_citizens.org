@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       95c0293b-2747-435e-84eb-cd1fbba0cf53
+:END:
+#+title: Eotienses Citizens
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010516-Upgrade_of_Parkinson_Dock_Complete.org][33010516-Upgrade_of_Parkinson_Dock_Complete.org]]

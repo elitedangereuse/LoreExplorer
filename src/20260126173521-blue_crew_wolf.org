@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8a50a8b5-d6d0-4014-8e5e-81a146e463fa
+:END:
+#+title: Blue Crew Wolf
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020628-Galactic_News__Weekly_Security_Report.org][33020628-Galactic_News__Weekly_Security_Report.org]]

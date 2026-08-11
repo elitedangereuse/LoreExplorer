@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6ea9b221-9269-4668-b050-4a4596f4060f
+:END:
+#+title: Jet Legal Systems Gitxsan Limited
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030820-Galactic_News__Weekly_Expansion_Report.org][33030820-Galactic_News__Weekly_Expansion_Report.org]]

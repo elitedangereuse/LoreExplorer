@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       410020e5-5a12-4405-8960-9f0dcb83a091
+:END:
+#+title: Focus Coalition
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020521-Galactic_News__Weekly_Expansion_Report.org][33020521-Galactic_News__Weekly_Expansion_Report.org]]

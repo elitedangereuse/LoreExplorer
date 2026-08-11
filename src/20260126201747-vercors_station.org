@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7194a1e9-a2f8-41f2-b259-fb642bcfbceb
+:END:
+#+title: Vercors Station
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030818-Community_Goal__Restoring_Order_in_Kaal.org][33030818-Community_Goal__Restoring_Order_in_Kaal.org]]

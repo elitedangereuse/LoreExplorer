@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       927fb96e-88ef-40f5-bdc4-5670770255db
+:END:
+#+title: The Mercury Seven Expedition
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030303-Freelance_Report__The_Mercury_Seven_Expedition.org][33030303-Freelance_Report__The_Mercury_Seven_Expedition.org]]

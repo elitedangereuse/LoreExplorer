@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e9c77914-4216-422f-b76e-02f164e1bccc
+:END:
+#+title: Silver State Corp Blue Transport
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021014-Galactic_News__Weekly_Conflict_Report.org][33021014-Galactic_News__Weekly_Conflict_Report.org]]

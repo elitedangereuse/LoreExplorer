@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6ced996c-a6bf-490c-b2f9-11b1379f50ce
+:END:
+#+title: Abukunin Natural LP
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020627-Galactic_News__Weekly_Economic_Report.org][33020627-Galactic_News__Weekly_Economic_Report.org]]

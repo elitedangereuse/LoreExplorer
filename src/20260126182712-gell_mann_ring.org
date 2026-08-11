@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e8019e09-212a-4416-84e3-928f30349272
+:END:
+#+title: Gell-Mann Ring
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050822-Starship_Enterprises_Launches_Mining_Campaign.org][33050822-Starship_Enterprises_Launches_Mining_Campaign.org]]

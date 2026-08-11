@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       96ef527b-4cfa-40f3-97be-a7f749f8e64d
+:END:
+#+title: State Services Sagi Life Network
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010815-GalNet_Weekly_Expansion_List.org][33010815-GalNet_Weekly_Expansion_List.org]]

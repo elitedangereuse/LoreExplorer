@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6f5471be-ba70-4111-b8c7-10852a22abba
+:END:
+#+title: Ophiuchi Carter Port
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020926-Galactic_News__Starport_Status_Update.org][33020926-Galactic_News__Starport_Status_Update.org]]

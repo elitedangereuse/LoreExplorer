@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       35b85ed2-a31a-4fcb-bdde-eb065b0dfcce
+:END:
+#+title: Kamahu Corte-Real Terminal
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040321-Starport_Status_Update.org][33040321-Starport_Status_Update.org]]

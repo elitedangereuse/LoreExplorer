@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       57f53fcd-eef9-494a-8e80-0f9f98a714c9
+:END:
+#+title: Commander Paramemetic
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020512-Community_Goal__Skvortsov_Orbital_Explorers'_Gala.org][33020512-Community_Goal__Skvortsov_Orbital_Explorers'_Gala.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a9c98adb-9003-48e2-950a-d13b1784d829
+:END:
+#+title: Vice Admiral
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040707-A_Profile_of_Jordan_Rochester.org][33040707-A_Profile_of_Jordan_Rochester.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8bc72752-2707-4b00-9e85-8e2d8104acbb
+:END:
+#+title: Shirley Platform
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030328-Galactic_News__Starport_Status_Update.org][33030328-Galactic_News__Starport_Status_Update.org]]

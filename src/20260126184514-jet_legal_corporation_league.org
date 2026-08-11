@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8e770ed1-f315-45cb-a570-a7e7201ec70e
+:END:
+#+title: Jet Legal Corporation League
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011225-GalNet_Weekly_Conflict_Report.org][33011225-GalNet_Weekly_Conflict_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       64acc164-ba93-47a9-afc2-4a6d54e29e4c
+:END:
+#+title: New Farragut Battle Cruiser Complete
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020317-Galactic_News__New_Farragut_Battle_Cruiser_Complete.org][33020317-Galactic_News__New_Farragut_Battle_Cruiser_Complete.org]]

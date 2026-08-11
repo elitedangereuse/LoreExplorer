@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c1d10f8e-9bdc-40d2-bd84-3a959333ff98
+:END:
+#+title: Corp Almar Emperor's Grace The
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020118-GalNet_Weekly_Economic_Report.org][33020118-GalNet_Weekly_Economic_Report.org]]

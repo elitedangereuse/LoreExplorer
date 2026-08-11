@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c17870b8-4b00-4693-a78c-a83b852248f4
+:END:
+#+title: Type-9 Heavy
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33031222-Galactic_News__Type-10_Defender_Now_Available.org][33031222-Galactic_News__Type-10_Defender_Now_Available.org]]

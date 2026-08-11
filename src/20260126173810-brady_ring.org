@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5b7bb78e-9da2-4e2d-8faa-90b3514a5954
+:END:
+#+title: Brady Ring
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040523-Starport_Status_Update.org][33040523-Starport_Status_Update.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       29a71286-6ba7-4fce-ab05-3d60c4ac441d
+:END:
+#+title: Captain Maxim Lagunov
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080804-Resources_Supplied_to_Xeno-Retrieval_Programme.org][33080804-Resources_Supplied_to_Xeno-Retrieval_Programme.org]]

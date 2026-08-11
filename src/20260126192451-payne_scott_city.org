@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       cf944aa6-e333-4d68-b360-027ec4c58f98
+:END:
+#+title: Payne-Scott City
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070408-Neo-Marlinist_Faction_Defeated_in_Battle.org][33070408-Neo-Marlinist_Faction_Defeated_in_Battle.org]]

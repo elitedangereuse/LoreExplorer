@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       040b4945-b6ab-44d1-bd55-de7b79d694ba
+:END:
+#+title: Nemesis The
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030417-Galactic_News__Curious_Message_Discovered.org][33030417-Galactic_News__Curious_Message_Discovered.org]]

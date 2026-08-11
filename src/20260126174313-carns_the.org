@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c2444b14-db6d-4896-b49a-ed4ad6614e55
+:END:
+#+title: Carns The
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010708-Ambitious_Plans_for_Carns.org][33010708-Ambitious_Plans_for_Carns.org]]

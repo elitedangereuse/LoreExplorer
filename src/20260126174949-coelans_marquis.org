@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8b721771-a507-4eab-a747-e68b086cd5bf
+:END:
+#+title: Coelans Marquis
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021022-Galactic_News__Weekly_Expansion_Report.org][33021022-Galactic_News__Weekly_Expansion_Report.org]]

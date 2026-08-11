@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bcb387b3-ea58-45d4-86df-d89c7d58e75e
+:END:
+#+title: President Zachary Hudson
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010609-The_Federation_Unites_in_the_Face_of_Tragedy.org][33010609-The_Federation_Unites_in_the_Face_of_Tragedy.org]]

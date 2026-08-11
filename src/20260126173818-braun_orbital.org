@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7065c975-e03c-43f3-b285-c27334a2c11c
+:END:
+#+title: Braun Orbital
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33031206-Galactic_News__Starport_Status_Update.org][33031206-Galactic_News__Starport_Status_Update.org]]

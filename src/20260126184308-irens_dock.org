@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       877aeec3-2fc9-47f5-bf5e-87084ffe1ced
+:END:
+#+title: Irens Dock
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020224-Galactic_News__Technological_Plague_Continues_to_Threaten_Starports.org][33020224-Galactic_News__Technological_Plague_Continues_to_Threaten_Starports.org]]

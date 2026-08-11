@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d12cbe26-3967-473f-86d1-10a216ad519e
+:END:
+#+title: Unknown Artefact
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010504-Scientists_Baffled_by_Mysterious_Artefacts.org][33010504-Scientists_Baffled_by_Mysterious_Artefacts.org]]

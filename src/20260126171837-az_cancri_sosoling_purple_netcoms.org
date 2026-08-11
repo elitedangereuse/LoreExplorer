@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f1db37f1-fa2e-41a5-a676-f140b84335f6
+:END:
+#+title: AZ Cancri Sosoling Purple Netcoms
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010810-GalNet_Weekly_Economic_Report.org][33010810-GalNet_Weekly_Economic_Report.org]]

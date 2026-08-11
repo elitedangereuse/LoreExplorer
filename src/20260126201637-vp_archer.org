@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0879dc1e-135d-4a24-8c12-467a4c38537c
+:END:
+#+title: VP Archer
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070330-Federal_Congress_Grants_Emergency_Surveillance_Powers.org][33070330-Federal_Congress_Grants_Emergency_Surveillance_Powers.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e6c7163b-49f0-44a2-9951-daf350e03969
+:END:
+#+title: Rescue Ships
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011129-Rescue_Ships_to_be_Given_Bold_New_Livery.org][33011129-Rescue_Ships_to_be_Given_Bold_New_Livery.org]]

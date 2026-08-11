@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3cc11bb7-fa93-4005-87b8-6d2e94d6d0c9
+:END:
+#+title: Ceti Kooi Gateway
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021206-Galactic_News__Starport_Status_Update.org][33021206-Galactic_News__Starport_Status_Update.org]]

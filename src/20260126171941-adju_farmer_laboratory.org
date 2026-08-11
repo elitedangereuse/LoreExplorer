@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       41c42566-36e5-410f-9364-51803ec2c8ea
+:END:
+#+title: Adju Farmer Laboratory
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040720-Starport_Status_Update.org][33040720-Starport_Status_Update.org]]

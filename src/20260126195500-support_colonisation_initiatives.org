@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f30044d0-9ced-4141-8eae-514f5e658209
+:END:
+#+title: Support Colonisation Initiatives
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3311/33110319-Trailblazer_Fleet_Deployed_to_Support_Colonisation_Initiatives.org][33110319-Trailblazer_Fleet_Deployed_to_Support_Colonisation_Initiatives.org]]

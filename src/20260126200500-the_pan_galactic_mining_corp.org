@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       13b4f18c-b18f-4cd8-a4b8-4bc7819fdccd
+:END:
+#+title: The Pan Galactic Mining Corp
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020314-Freelance_Report__Eating_Your_Words.org][33020314-Freelance_Report__Eating_Your_Words.org]]

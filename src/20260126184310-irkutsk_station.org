@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       596dbdc7-834f-4a31-a031-9c59555d5103
+:END:
+#+title: Irkutsk Station
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020322-Freelance_Report__Diplomatic_Summit_in_Alioth.org][33020322-Freelance_Report__Diplomatic_Summit_in_Alioth.org]]

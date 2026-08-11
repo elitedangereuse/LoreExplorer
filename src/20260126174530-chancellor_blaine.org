@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       602dbd36-c94c-4b71-9499-989d89e06fd2
+:END:
+#+title: Chancellor Blaine
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010305-Torval_Handles_the_Help_in_Synteini.org][33010305-Torval_Handles_the_Help_in_Synteini.org]]

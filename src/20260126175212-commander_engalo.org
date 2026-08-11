@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2ad6bd23-a0d5-494f-8b14-1438acd8e43a
+:END:
+#+title: Commander Engalo
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020315-Freelance_Report__Canonn_Scientist_Observes_Firefly_Fandango.org][33020315-Freelance_Report__Canonn_Scientist_Observes_Firefly_Fandango.org]]

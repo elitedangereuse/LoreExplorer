@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f40a9580-ceea-4aea-b034-5ad469ed7899
+:END:
+#+title: Cartel Clan
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020815-Galactic_News__Weekly_Economic_Report.org][33020815-Galactic_News__Weekly_Economic_Report.org]]

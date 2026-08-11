@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       22525f96-c51a-4a9a-9fb4-c4ecdccb0c7b
+:END:
+#+title: Trailblazer Dream
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3311/33110319-Trailblazer_Fleet_Deployed_to_Support_Colonisation_Initiatives.org][33110319-Trailblazer_Fleet_Deployed_to_Support_Colonisation_Initiatives.org]]

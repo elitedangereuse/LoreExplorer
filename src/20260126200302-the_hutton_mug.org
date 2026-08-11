@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f1deed54-a511-414e-8585-a5fd046d1c1f
+:END:
+#+title: The Hutton Mug
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010903-The_Hutton_Mug.org][33010903-The_Hutton_Mug.org]]

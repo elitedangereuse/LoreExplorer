@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       25d8edfc-36c5-4225-baae-b2a71a389cf4
+:END:
+#+title: The Kingfisher
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33081114-Xeno-Peacers_Reject_Prediction_of_War.org][33081114-Xeno-Peacers_Reject_Prediction_of_War.org]]

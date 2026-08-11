@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f4a7950f-ea79-49b8-a1ed-6fc373e7d74e
+:END:
+#+title: DR Crucis
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020304-Powerplay__Weekly_Report.org][33020304-Powerplay__Weekly_Report.org]]

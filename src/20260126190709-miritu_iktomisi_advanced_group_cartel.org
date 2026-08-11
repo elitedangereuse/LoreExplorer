@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       fbe9db2b-992b-4e84-901d-0d6142b9ae0c
+:END:
+#+title: Miritu Iktomisi Advanced Group Cartel
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020104-GalNet_Weekly_Economic_Report.org][33020104-GalNet_Weekly_Economic_Report.org]]

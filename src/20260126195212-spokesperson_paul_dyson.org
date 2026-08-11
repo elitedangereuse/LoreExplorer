@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       02552ee5-57fc-4380-a755-be38ac7631c7
+:END:
+#+title: Spokesperson Paul Dyson
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090629-Mining_Initiative_Begins_in_Kokoller.org][33090629-Mining_Initiative_Begins_in_Kokoller.org]]

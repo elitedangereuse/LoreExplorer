@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c357d749-8299-4904-9a21-56d2b2ad59b4
+:END:
+#+title: Elbiones When
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021122-Galactic_News__Weekly_Security_Report.org][33021122-Galactic_News__Weekly_Security_Report.org]]

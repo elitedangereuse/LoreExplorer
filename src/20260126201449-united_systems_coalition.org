@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d0ffdb7a-3f93-47b7-a601-01fba233ddcd
+:END:
+#+title: United Systems Coalition
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030716-Galactic_News__Weekly_Expansion_Report.org][33030716-Galactic_News__Weekly_Expansion_Report.org]]

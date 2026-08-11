@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       661cd4c0-653c-4f1b-8289-37a8ddaea8fb
+:END:
+#+title: Hsuan Zu Earls
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030802-Galactic_News__Weekly_Security_Report.org][33030802-Galactic_News__Weekly_Security_Report.org]]

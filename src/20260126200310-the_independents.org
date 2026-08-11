@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       42521e15-e5e7-4325-999a-121ed787c157
+:END:
+#+title: The Independents
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020623-Community_Goal__The_Battle_of_Daramo.org][33020623-Community_Goal__The_Battle_of_Daramo.org]]

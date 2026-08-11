@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5b232f4a-10a2-433b-b925-0e6dda3f4883
+:END:
+#+title: The Duradrive
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040817-New_Computer_Designs_Announced.org][33040817-New_Computer_Designs_Announced.org]]

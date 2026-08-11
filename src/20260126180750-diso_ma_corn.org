@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       672d5e21-a42e-49cb-9391-5d49e938282c
+:END:
+#+title: Diso Ma Corn
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010508-Old_World_Resurgence_in_Diso.org][33010508-Old_World_Resurgence_in_Diso.org]]

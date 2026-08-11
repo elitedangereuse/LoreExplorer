@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1869bba0-6ae8-400a-92f9-313778e05c5a
+:END:
+#+title: Dawes Hub
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011022-Emperor_Arissa_Lavigny-Duval_Expresses_Gratitude.org][33011022-Emperor_Arissa_Lavigny-Duval_Expresses_Gratitude.org]]

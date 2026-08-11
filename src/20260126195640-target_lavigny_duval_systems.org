@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       91a4c61a-a68b-491a-a568-23f6e7edbce6
+:END:
+#+title: Target Lavigny-Duval Systems
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010911-Kumo_Crew_to_Target_Lavigny-Duval.org][33010911-Kumo_Crew_to_Target_Lavigny-Duval.org]]

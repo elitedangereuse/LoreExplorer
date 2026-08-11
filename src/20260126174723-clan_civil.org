@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       527e1f1b-fed9-43d3-a37e-3515b62fc829
+:END:
+#+title: Clan Civil
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030607-Galactic_News__Weekly_Security_Report.org][33030607-Galactic_News__Weekly_Security_Report.org]]

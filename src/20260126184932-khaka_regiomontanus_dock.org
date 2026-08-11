@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1d85c36a-f69b-42e3-b2a2-87ab0162c7dd
+:END:
+#+title: Khaka Regiomontanus Dock
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040518-Starport_Status_Update.org][33040518-Starport_Status_Update.org]]

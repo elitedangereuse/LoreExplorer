@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d7064577-7fe8-4223-926b-d23fa6fb5354
+:END:
+#+title: Ensoreus Baird Gateway
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33051016-Initiative_to_Eradicate_Rockforth_Fertiliser.org][33051016-Initiative_to_Eradicate_Rockforth_Fertiliser.org]]

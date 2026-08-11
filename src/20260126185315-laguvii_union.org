@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7ae7d3c9-801b-45f8-aa3e-29dbc6f379dd
+:END:
+#+title: Laguvii Union
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030430-Galactic_News__Weekly_Expansion_Report.org][33030430-Galactic_News__Weekly_Expansion_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ac47ac4b-8f53-4bcf-8e96-92a4ba31763c
+:END:
+#+title: First When
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030125-Galactic_News__Weekly_Health_Report.org][33030125-Galactic_News__Weekly_Health_Report.org]]

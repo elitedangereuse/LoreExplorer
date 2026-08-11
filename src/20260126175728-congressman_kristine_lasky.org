@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3e3b557e-ad9a-4a4c-ab33-0a9910edd7b4
+:END:
+#+title: Congressman Kristine Lasky
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3310/33100122-Winters_Appoints_Future_Cabinet_Members.org][33100122-Winters_Appoints_Future_Cabinet_Members.org]]

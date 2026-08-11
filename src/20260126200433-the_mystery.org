@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bfa5a3f4-72e5-4815-8af3-fec991cfec77
+:END:
+#+title: The Mystery
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33051014-The_Mystery_of_the_Blight.org][33051014-The_Mystery_of_the_Blight.org]]

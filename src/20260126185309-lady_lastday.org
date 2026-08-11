@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bdbc3e7b-2af9-40e7-a419-adf9d8c938d6
+:END:
+#+title: Lady Lastday
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040705-Author_Begins_Interstellar_Book_Tour.org][33040705-Author_Begins_Interstellar_Book_Tour.org]]

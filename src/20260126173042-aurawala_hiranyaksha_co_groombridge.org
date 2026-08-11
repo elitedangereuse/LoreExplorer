@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0d889adc-1cbc-465d-803b-eee6dbc7dc0d
+:END:
+#+title: Aurawala Hiranyaksha Co Groombridge
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010825-GalNet_Weekly_Security_Digest.org][33010825-GalNet_Weekly_Security_Digest.org]]

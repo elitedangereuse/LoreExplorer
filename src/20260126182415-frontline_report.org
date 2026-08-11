@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ca2f913a-6b35-4ac3-812f-18ae1060b33c
+:END:
+#+title: Frontline Report
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010917-Frontline_Report__The_War_against_Emperor’s_Dawn.org][33010917-Frontline_Report__The_War_against_Emperor’s_Dawn.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       063ea49f-229f-4831-9083-32328e4123b0
+:END:
+#+title: Princess The
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010608-Orden_de_Comandantes_Imperiales_Capture_Kamocan_for_Princess.org][33010608-Orden_de_Comandantes_Imperiales_Capture_Kamocan_for_Princess.org]]

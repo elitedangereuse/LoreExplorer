@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       38a63e3c-d415-4c8a-8693-bb04e0d7396b
+:END:
+#+title: Zugen Incorporated Ross
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030311-Galactic_News__Weekly_Expansion_Report.org][33030311-Galactic_News__Weekly_Expansion_Report.org]]

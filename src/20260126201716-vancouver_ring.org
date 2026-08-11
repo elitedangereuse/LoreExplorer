@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ce8cbbd1-a493-4afc-9a40-dbd153e50649
+:END:
+#+title: Vancouver Ring
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021124-Community_Goal__Sale_of_the_Century.org][33021124-Community_Goal__Sale_of_the_Century.org]]

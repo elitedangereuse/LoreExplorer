@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ce184a67-14d4-4624-8608-892f5847438a
+:END:
+#+title: Halley Gateway
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030803-Galactic_News__Starport_Status_Update.org][33030803-Galactic_News__Starport_Status_Update.org]]

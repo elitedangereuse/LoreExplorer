@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       54f715a4-ca62-41b3-9f65-df0e7367dfd6
+:END:
+#+title: The Majestic-class Interdictor
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021104-Galactic_News__Patreus's_Flagship_Attacked.org][33021104-Galactic_News__Patreus's_Flagship_Attacked.org]]

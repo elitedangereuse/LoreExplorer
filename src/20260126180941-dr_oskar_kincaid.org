@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       58bd8bad-5320-46f3-8a9d-f249bb541393
+:END:
+#+title: Dr Oskar Kincaid
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040428-Senator’s_Death_Raises_Questions_about_INRA.org][33040428-Senator’s_Death_Raises_Questions_about_INRA.org]]

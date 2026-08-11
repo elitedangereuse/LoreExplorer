@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       50bacf6f-baa6-4246-99da-fb4accd8ad5c
+:END:
+#+title: Quivira Feels
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010501-Quivira_Feels_the_Wrath_of_Patreus.org][33010501-Quivira_Feels_the_Wrath_of_Patreus.org]]

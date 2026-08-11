@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6bbd4f48-5908-405f-bf68-011683d42ec4
+:END:
+#+title: Bartender Material Trader
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080310-Colonia_Bridge_Reaches_Completion.org][33080310-Colonia_Bridge_Reaches_Completion.org]]

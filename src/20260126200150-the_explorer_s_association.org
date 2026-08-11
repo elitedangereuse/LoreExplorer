@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8a275bee-69e1-42bd-82ac-83c13e2af720
+:END:
+#+title: The Explorer's Association
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011211-Explorer's_Association__Delighted__with_Response_to_Appeal.org][33011211-Explorer's_Association__Delighted__with_Response_to_Appeal.org]]

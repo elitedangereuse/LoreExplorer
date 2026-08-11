@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9dae6a89-e330-41fb-8c60-9823aa60eed9
+:END:
+#+title: Tchernobog Free
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021124-Community_Goal__Sale_of_the_Century.org][33021124-Community_Goal__Sale_of_the_Century.org]]

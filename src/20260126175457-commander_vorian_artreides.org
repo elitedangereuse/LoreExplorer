@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7b2d3aa7-03bc-4326-bb7a-eec257ba9de4
+:END:
+#+title: Commander Vorian Artreides
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010320-Halsey_Honours_Heroes.org][33010320-Halsey_Honours_Heroes.org]]

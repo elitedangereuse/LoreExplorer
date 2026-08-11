@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bbd6ec72-0345-4452-b132-1b63d845360c
+:END:
+#+title: With Herculean Machines
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040914-Investors_Abandon_Herculean_Machines.org][33040914-Investors_Abandon_Herculean_Machines.org]]

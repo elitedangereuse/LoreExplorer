@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4520398b-2523-49ca-a6fb-9f7af52ccd90
+:END:
+#+title: Othiti Behnisch Terminal
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33031004-Galactic_News__Starport_Status_Update.org][33031004-Galactic_News__Starport_Status_Update.org]]

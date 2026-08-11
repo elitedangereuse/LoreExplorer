@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       639b8f26-0c73-4423-895e-14f82455c9cb
+:END:
+#+title: Senator Nestor Cartesius
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040505-Covert_Organisation_Discovered.org][33040505-Covert_Organisation_Discovered.org]]

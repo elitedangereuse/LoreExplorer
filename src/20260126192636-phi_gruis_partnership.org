@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5cd119c2-6520-495f-a47b-640f5e4ea8a9
+:END:
+#+title: Phi Gruis Partnership
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030225-Galactic_News__Weekly_Expansion_Report.org][33030225-Galactic_News__Weekly_Expansion_Report.org]]

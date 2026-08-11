@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       102cf510-af20-4a7b-96dd-9794d5784f2e
+:END:
+#+title: Proteus Wave Fired
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080809-Contact_Lost_after_Proteus_Wave_Fired.org][33080809-Contact_Lost_after_Proteus_Wave_Fired.org]]

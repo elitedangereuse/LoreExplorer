@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       db665ac6-78ef-43ea-b9cb-e0d83b255b78
+:END:
+#+title: Zeessze AG
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021202-Galactic_News__Weekly_Conflict_Report.org][33021202-Galactic_News__Weekly_Conflict_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c275333a-30f0-4284-9a44-d7d7d50cc16e
+:END:
+#+title: The Gnosis
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040907-Gnosis_Stranded.org][33040907-Gnosis_Stranded.org]]

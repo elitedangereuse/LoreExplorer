@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       cce2cfc9-984d-4d6d-ac9f-247b114dc2fd
+:END:
+#+title: Free Gladutjin
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011121-GalNet_Weekly_Expansion_List.org][33011121-GalNet_Weekly_Expansion_List.org]]

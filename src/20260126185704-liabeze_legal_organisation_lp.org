@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6c7ac952-656f-4a56-9ae4-ea7b5daf4ccd
+:END:
+#+title: Liabeze Legal Organisation LP
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010706-GalNet_Weekly_Economic_Report.org][33010706-GalNet_Weekly_Economic_Report.org]]

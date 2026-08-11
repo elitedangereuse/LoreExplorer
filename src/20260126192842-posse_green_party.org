@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4f14ef10-1eb9-4482-929b-6aad157d1d1e
+:END:
+#+title: Posse Green Party
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020809-Galactic_News__Weekly_Security_Report.org][33020809-Galactic_News__Weekly_Security_Report.org]]

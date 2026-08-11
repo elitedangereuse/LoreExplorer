@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       674db777-1ed0-47c4-a20f-1b5178906636
+:END:
+#+title: Special Agent Rochelle Karim
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/Week in Review/33050407-Week_in_Review.org][33050407-Week_in_Review.org]]

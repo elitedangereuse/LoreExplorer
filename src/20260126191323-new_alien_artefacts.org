@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2a84a195-601c-486f-a099-75dc3c7a43a2
+:END:
+#+title: New Alien Artefacts
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080815-Rumours_Arise_of_New_Alien_Artefacts.org][33080815-Rumours_Arise_of_New_Alien_Artefacts.org]]

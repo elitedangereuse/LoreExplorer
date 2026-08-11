@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0441c7c8-f566-4bac-a3f5-fc0a474bcd99
+:END:
+#+title: Type-7 Transporter Type-10 Defender The
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33061207-Lakon_Spaceways_Discounts_Selected_Ships.org][33061207-Lakon_Spaceways_Discounts_Selected_Ships.org]]

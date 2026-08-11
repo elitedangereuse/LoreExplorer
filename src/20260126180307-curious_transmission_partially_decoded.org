@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c26132cd-1c86-4d02-8eba-2a785602b15e
+:END:
+#+title: Curious Transmission Partially Decoded
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021001-Galactic_News__Curious_Transmission_Partially_Decoded.org][33021001-Galactic_News__Curious_Transmission_Partially_Decoded.org]]

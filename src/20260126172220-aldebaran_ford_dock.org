@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6878f0fa-977d-44ce-9373-0f92a379ef62
+:END:
+#+title: Aldebaran Ford Dock
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030511-Galactic_News__Starport_Status_Update.org][33030511-Galactic_News__Starport_Status_Update.org]]

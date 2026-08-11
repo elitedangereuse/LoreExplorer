@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f5377411-f9ad-440c-ae49-85fd90769a2b
+:END:
+#+title: Sol Manakov Survey
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021129-Galactic_News__Starport_Status_Update.org][33021129-Galactic_News__Starport_Status_Update.org]]

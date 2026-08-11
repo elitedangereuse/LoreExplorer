@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a0a465e0-2c15-4f77-8586-3d3eaa4958ca
+:END:
+#+title: Law People's Epsilon Scorpii Resistance
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010915-GalNet_Weekly_Security_Digest.org][33010915-GalNet_Weekly_Security_Digest.org]]

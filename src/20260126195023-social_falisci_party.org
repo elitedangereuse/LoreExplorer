@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       634a07a7-4d08-4d74-827d-f5dfdbc111e6
+:END:
+#+title: Social Falisci Party
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010327-Falisci__Democracy_Denied.org][33010327-Falisci__Democracy_Denied.org]]

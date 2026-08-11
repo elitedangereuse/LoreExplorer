@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f0d43d43-3865-4d5b-8eac-715d1498177b
+:END:
+#+title: Chorathia Independents
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020725-Galactic_News__Weekly_Economic_Report.org][33020725-Galactic_News__Weekly_Economic_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9c312138-2f59-4562-9559-877140126b7f
+:END:
+#+title: Bielonti Allied Company GD
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020701-Galactic_News__Weekly_Conflict_Report.org][33020701-Galactic_News__Weekly_Conflict_Report.org]]

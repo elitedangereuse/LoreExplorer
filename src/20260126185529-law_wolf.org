@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       49f1ff49-29fd-47f4-97aa-afa5f6df004d
+:END:
+#+title: Law Wolf
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020331-Galactic_News__Weekly_Democracy_Report.org][33020331-Galactic_News__Weekly_Democracy_Report.org]]

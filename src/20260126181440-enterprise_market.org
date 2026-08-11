@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       645ca979-1ecf-494e-948c-1cb977a9eca4
+:END:
+#+title: Enterprise Market
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070625-New_Alliance_Starports_Become_Operational.org][33070625-New_Alliance_Starports_Become_Operational.org]]

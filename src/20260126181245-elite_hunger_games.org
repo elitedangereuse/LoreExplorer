@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6d1637b7-f730-47c9-b93f-a236878c861d
+:END:
+#+title: Elite Hunger Games
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011106-Mavia_Kain_Announces_Galactic_Games.org][33011106-Mavia_Kain_Announces_Galactic_Games.org]]

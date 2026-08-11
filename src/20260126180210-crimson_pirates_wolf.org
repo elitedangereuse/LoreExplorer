@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e26645a9-bd11-4348-83d4-a04d9e6cb451
+:END:
+#+title: Crimson Pirates Wolf
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030913-Galactic_News__Weekly_Security_Report.org][33030913-Galactic_News__Weekly_Security_Report.org]]

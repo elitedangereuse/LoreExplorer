@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ba160bff-d982-4c74-8bdb-304c3609f5dc
+:END:
+#+title: Benjamin Gorrister
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020222-Freelance_Report__CIMA_Launches_Initiative.org][33020222-Freelance_Report__CIMA_Launches_Initiative.org]]

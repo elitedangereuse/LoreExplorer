@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       72b37ea8-07bd-464d-99d2-971b0d578f08
+:END:
+#+title: Congressman Dalton Chase
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33081114-Xeno-Peacers_Reject_Prediction_of_War.org][33081114-Xeno-Peacers_Reject_Prediction_of_War.org]]

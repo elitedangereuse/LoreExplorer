@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       69e37ba1-1dc2-4652-b1a4-ff3db1cb2d31
+:END:
+#+title: Vernon Trask
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020718-Freelance_Report__Meta-Alloy_Rush.org][33020718-Freelance_Report__Meta-Alloy_Rush.org]]

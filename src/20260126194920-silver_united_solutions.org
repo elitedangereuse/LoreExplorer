@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0b0cd7a5-9d06-4825-8cb0-7cc1d35e4937
+:END:
+#+title: Silver United Solutions
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010502-Securing_the_Old_Worlds.org][33010502-Securing_the_Old_Worlds.org]]

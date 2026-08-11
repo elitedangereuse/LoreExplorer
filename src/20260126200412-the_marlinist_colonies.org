@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       16d452a3-2bdc-49a4-a98c-d48beed66c1b
+:END:
+#+title: The Marlinist Colonies
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070212-Empire_and_Marlinists_Prepare_for_Galactic_Summit.org][33070212-Empire_and_Marlinists_Prepare_for_Galactic_Summit.org]]

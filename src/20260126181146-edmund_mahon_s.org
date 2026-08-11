@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ad8d8f0b-a77b-458c-9c10-828b5fb24f00
+:END:
+#+title: Edmund Mahon's
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010709-Latest_Powerplay_Column.org][33010709-Latest_Powerplay_Column.org]]

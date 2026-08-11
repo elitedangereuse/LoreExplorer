@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       71a0ba53-1124-46c9-aae6-01fc62078eae
+:END:
+#+title: Type-8 Released
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3310/33100807-Type-8_Released__Lakon_Spaceways_Offer_SCO_Optimised_Freighter.org][33100807-Type-8_Released__Lakon_Spaceways_Offer_SCO_Optimised_Freighter.org]]

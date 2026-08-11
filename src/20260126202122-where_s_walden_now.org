@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7ed91f39-0e42-4b5f-9ba3-1c59c7da836e
+:END:
+#+title: Where's Walden Now
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010810-Where's_Walden_Now_.org][33010810-Where's_Walden_Now_.org]]

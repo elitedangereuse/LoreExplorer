@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ef2abefc-0842-4e50-bbba-b80485893e34
+:END:
+#+title: Hutton Orbital
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010903-The_Hutton_Mug.org][33010903-The_Hutton_Mug.org]]

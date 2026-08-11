@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       fb52ccb1-c230-4374-adfc-a855ddcb4bc7
+:END:
+#+title: Payson Hub
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050103-Supplies_for_Federal_and_Imperial_Navies.org][33050103-Supplies_for_Federal_and_Imperial_Navies.org]]

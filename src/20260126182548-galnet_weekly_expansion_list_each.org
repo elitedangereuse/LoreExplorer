@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0c7c904a-bcf2-4035-b494-25d657542e4e
+:END:
+#+title: GalNet Weekly Expansion List Each
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010627-GalNet_Weekly_Expansion_List.org][33010627-GalNet_Weekly_Expansion_List.org]]

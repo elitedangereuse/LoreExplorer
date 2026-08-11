@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b737aab5-7e8e-43e5-bd7c-a0b3d7a795f1
+:END:
+#+title: Ahemaker Kube-McDowell Enterprise
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040706-Starport_Status_Update.org][33040706-Starport_Status_Update.org]]

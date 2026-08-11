@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       435c035c-8669-47f1-82a1-c351e200da2c
+:END:
+#+title: Munfayl Finney Ring
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021004-Galactic_News__Starport_Status_Update.org][33021004-Galactic_News__Starport_Status_Update.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3815d637-25cc-470b-b34d-a856b698f4e4
+:END:
+#+title: Always Blind
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010424-Justice_Isn’t_Always_Blind.org][33010424-Justice_Isn’t_Always_Blind.org]]

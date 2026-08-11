@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       05e5e39d-95bd-4e49-a74f-907685100ed3
+:END:
+#+title: Naitis Frick Base
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030314-Galactic_News__Starport_Status_Update.org][33030314-Galactic_News__Starport_Status_Update.org]]

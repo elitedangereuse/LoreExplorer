@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b2e0ba8d-fe9c-4328-8c9c-208e56c9baa6
+:END:
+#+title: Order Restored
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011111-Order_Restored_to_Cayutorme.org][33011111-Order_Restored_to_Cayutorme.org]]

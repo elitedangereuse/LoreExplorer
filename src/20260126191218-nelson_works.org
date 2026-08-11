@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       40f4149b-d123-4c0c-8ee1-adb938b692b7
+:END:
+#+title: Nelson Works
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011221-The_Canonn_Supports_Palin's_Effort.org][33011221-The_Canonn_Supports_Palin's_Effort.org]]

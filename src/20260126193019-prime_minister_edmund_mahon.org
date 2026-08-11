@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9ff3e4b9-a03e-4ffa-845b-0911505eb122
+:END:
+#+title: Prime Minister Edmund Mahon
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010311-Alioth_Warns_Lugh_They_Stand_Alone.org][33010311-Alioth_Warns_Lugh_They_Stand_Alone.org]]

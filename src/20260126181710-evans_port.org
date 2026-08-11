@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       66ebe487-394f-43dc-b3ca-a50525e5b8a0
+:END:
+#+title: Evans Port
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030223-Freelance_Report__Buckyball_Racing_Club_has_Tunnel_Vision.org][33030223-Freelance_Report__Buckyball_Racing_Club_has_Tunnel_Vision.org]]

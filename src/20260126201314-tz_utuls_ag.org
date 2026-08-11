@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ba008a93-03af-4d1a-94a7-75d3416e94b2
+:END:
+#+title: Tz'utuls AG
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020524-Galactic_News__Weekly_Security_Report.org][33020524-Galactic_News__Weekly_Security_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f61fcf01-c6d0-4beb-ad8a-5827dec0edc7
+:END:
+#+title: Archambault Terminal
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050322-Cultist_Occupation_of_Starport_Continues.org][33050322-Cultist_Occupation_of_Starport_Continues.org]]

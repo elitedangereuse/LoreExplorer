@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e505fcfd-2faf-4c77-8fea-4cfc5cedcbbc
+:END:
+#+title: The Distant Worlds
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050117-Distant_Worlds_Initiative.org][33050117-Distant_Worlds_Initiative.org]]

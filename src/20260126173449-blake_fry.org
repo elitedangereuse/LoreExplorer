@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6dff04d4-a221-481d-9b6f-318145cc0e5a
+:END:
+#+title: Blake Fry
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011023-Technical_Trouble_in_49_Arietis.org][33011023-Technical_Trouble_in_49_Arietis.org]]

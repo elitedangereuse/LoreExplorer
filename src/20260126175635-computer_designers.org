@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       33381fa9-4b23-48eb-9ff8-c7da39491b3e
+:END:
+#+title: Computer Designers
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040901-Computer_Designers’_Rivalry_Escalates.org][33040901-Computer_Designers’_Rivalry_Escalates.org]]

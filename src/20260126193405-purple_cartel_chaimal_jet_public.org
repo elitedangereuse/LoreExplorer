@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       23a9512f-fbe1-4dd4-a49a-2383f0d63259
+:END:
+#+title: Purple Cartel Chaimal Jet Public
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030831-Galactic_News__Weekly_Security_Report.org][33030831-Galactic_News__Weekly_Security_Report.org]]

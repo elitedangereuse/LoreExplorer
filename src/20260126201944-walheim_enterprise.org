@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b06a3c00-d9dc-4e96-9d26-e3cae14a090d
+:END:
+#+title: Walheim Enterprise
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020609-Community_Goal__Narcotics_for_the_Crom_Silver_Boys.org][33020609-Community_Goal__Narcotics_for_the_Crom_Silver_Boys.org]]

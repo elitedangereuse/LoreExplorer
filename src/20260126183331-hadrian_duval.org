@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       af5dbe6b-d24b-4e80-a644-740015371732
+:END:
+#+title: Hadrian Duval
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33041207-Nova_Imperium_Unveils_Figurehead.org][33041207-Nova_Imperium_Unveils_Figurehead.org]]

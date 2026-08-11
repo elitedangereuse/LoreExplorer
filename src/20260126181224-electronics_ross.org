@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       10229edb-8cda-468a-baa2-1fc07da9e3fd
+:END:
+#+title: Electronics Ross
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020524-Galactic_News__Weekly_Security_Report.org][33020524-Galactic_News__Weekly_Security_Report.org]]

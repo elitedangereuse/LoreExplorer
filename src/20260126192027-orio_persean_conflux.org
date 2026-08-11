@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       aa58463a-295d-4593-af50-35c92c600548
+:END:
+#+title: Orio-Persean Conflux
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030303-Freelance_Report__The_Mercury_Seven_Expedition.org][33030303-Freelance_Report__The_Mercury_Seven_Expedition.org]]

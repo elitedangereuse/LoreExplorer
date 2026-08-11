@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c891c71e-dd85-48ea-a67c-da18919a636e
+:END:
+#+title: Order GQ Virginis General Corporation
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011015-GalNet_Focus_on_Democracy.org][33011015-GalNet_Focus_on_Democracy.org]]

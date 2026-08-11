@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       98f82aa6-10d1-453c-85da-19df42c4fe6f
+:END:
+#+title: Blue Electronics Wars
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020101-GalNet_Weekly_Conflict_Report.org][33020101-GalNet_Weekly_Conflict_Report.org]]

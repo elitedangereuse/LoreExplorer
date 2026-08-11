@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       03ec83ba-b5b8-4d98-83fd-9d1518750c62
+:END:
+#+title: Overcharged Gimballed AX Multi-Cannon
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090713-Deliver_Rarities_for_Azimuth_Event.org][33090713-Deliver_Rarities_for_Azimuth_Event.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       da39b979-335d-4dd7-98dd-44d439385987
+:END:
+#+title: Ziemkiewicz Ring
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010327-Explorers_Needed_for_Alliance_Colonisation_Programme.org][33010327-Explorers_Needed_for_Alliance_Colonisation_Programme.org]]

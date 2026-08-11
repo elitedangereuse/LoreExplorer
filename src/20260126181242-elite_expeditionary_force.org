@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8875db66-980b-4e7a-a6ee-ae90fa4b27f0
+:END:
+#+title: Elite Expeditionary Force
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050613-Evangeline’s_Elite_Expeditionary_Force_Appeal.org][33050613-Evangeline’s_Elite_Expeditionary_Force_Appeal.org]]

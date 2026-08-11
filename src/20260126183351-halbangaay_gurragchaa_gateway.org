@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       306bd609-3b97-498f-86c8-ddacd29f9884
+:END:
+#+title: Halbangaay Gurragchaa Gateway
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020520-Galactic_News__Malfunctioning_Starports_Restored_with_Meta-Alloys.org][33020520-Galactic_News__Malfunctioning_Starports_Restored_with_Meta-Alloys.org]]

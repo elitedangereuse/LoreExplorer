@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d678f094-cc36-48f2-a176-6c0e76560ab4
+:END:
+#+title: United Interstellar Civil
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010818-GalNet_Weekly_Security_Digest.org][33010818-GalNet_Weekly_Security_Digest.org]]

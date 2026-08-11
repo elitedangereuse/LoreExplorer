@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       239103b2-66ff-4eb6-8675-9f34f02d61dd
+:END:
+#+title: Lieutenant Kael
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030922-Galactic_News__Federation_Addresses_Rumours.org][33030922-Galactic_News__Federation_Addresses_Rumours.org]]

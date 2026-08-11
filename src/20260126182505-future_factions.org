@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       03e7d9e3-4b61-485a-82ac-97751b8546a6
+:END:
+#+title: Future Factions
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030422-Galactic_News__Weekly_Expansion_Report.org][33030422-Galactic_News__Weekly_Expansion_Report.org]]

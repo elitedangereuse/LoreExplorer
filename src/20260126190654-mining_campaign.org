@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8daaa5f5-26c8-42cb-8272-fd548e307a93
+:END:
+#+title: Mining Campaign
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33091123-Mining_Campaign_in_LHS_3872_Concludes.org][33091123-Mining_Campaign_in_LHS_3872_Concludes.org]]

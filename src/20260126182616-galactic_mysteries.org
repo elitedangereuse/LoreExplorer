@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e900d154-371b-42a3-8abf-39a354472775
+:END:
+#+title: Galactic Mysteries
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070310-Galactic_Mysteries__The_Adamastor.org][33070310-Galactic_Mysteries__The_Adamastor.org]]

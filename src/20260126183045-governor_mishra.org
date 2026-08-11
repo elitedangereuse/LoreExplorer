@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1a4b6593-4d96-43cd-a04b-b9875d391f4c
+:END:
+#+title: Governor Mishra
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070730-Rebellion_Spreads_Across_Federal_Systems.org][33070730-Rebellion_Spreads_Across_Federal_Systems.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       72d6e6ab-fe80-4615-83f2-30b55c1f5d3a
+:END:
+#+title: YZ Ceti
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090502-Resources_Needed_for_Thargoid_Pulse_Neutraliser.org][33090502-Resources_Needed_for_Thargoid_Pulse_Neutraliser.org]]

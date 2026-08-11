@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e82bf18f-4206-4c76-9030-c6049867fa3a
+:END:
+#+title: Narcotics Appeal
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020616-Galactic_News__Narcotics_Appeal_comes_to_an_End.org][33020616-Galactic_News__Narcotics_Appeal_comes_to_an_End.org]]

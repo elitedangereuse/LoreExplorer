@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b420f2e7-07ea-4ab4-b63a-7d74c6f787cf
+:END:
+#+title: Coalsack Nebula Project Gathers Ammonia
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33061210-Coalsack_Nebula_Project_Gathers_Ammonia_Worlds_Data.org][33061210-Coalsack_Nebula_Project_Gathers_Ammonia_Worlds_Data.org]]

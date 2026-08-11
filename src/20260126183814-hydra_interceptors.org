@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       527a2d65-939a-4fd6-aadc-d766959f1975
+:END:
+#+title: Hydra Interceptors
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040830-New_Thargoid_Interceptor_Encountered.org][33040830-New_Thargoid_Interceptor_Encountered.org]]

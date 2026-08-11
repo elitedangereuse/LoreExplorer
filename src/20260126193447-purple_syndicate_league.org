@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c5fe6118-0460-4b66-9215-8614b50ab666
+:END:
+#+title: Purple Syndicate League
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020129-Galactic_News__Weekly_Conflict_Report.org][33020129-Galactic_News__Weekly_Conflict_Report.org]]

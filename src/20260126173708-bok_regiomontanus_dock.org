@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4014dc11-fb5d-42ec-98b1-82793efe7752
+:END:
+#+title: Bok Regiomontanus Dock
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040510-Starport_Status_Update.org][33040510-Starport_Status_Update.org]]

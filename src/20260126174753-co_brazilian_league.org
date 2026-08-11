@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ac8d9c41-522c-4664-a0fa-c5df31ac18a3
+:END:
+#+title: Co Brazilian League
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020618-Galactic_News__Weekly_Expansion_Report.org][33020618-Galactic_News__Weekly_Expansion_Report.org]]

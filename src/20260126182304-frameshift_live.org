@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0f5e98c8-2d81-4557-9449-1183d6768d58
+:END:
+#+title: Frameshift Live
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33091026-Mysterious_Phenomenon_Triggers_Violent_Attacks.org][33091026-Mysterious_Phenomenon_Triggers_Violent_Attacks.org]]

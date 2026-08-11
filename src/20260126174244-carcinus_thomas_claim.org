@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e4a2f8a4-057a-4102-b8cd-34e0a5ee8abb
+:END:
+#+title: Carcinus Thomas' Claim
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040425-Starport_Status_Update.org][33040425-Starport_Status_Update.org]]

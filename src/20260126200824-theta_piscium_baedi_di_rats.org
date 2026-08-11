@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b41566fd-efd6-4bdf-9193-fc07108c8099
+:END:
+#+title: Theta Piscium Baedi Di Rats
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030913-Galactic_News__Weekly_Security_Report.org][33030913-Galactic_News__Weekly_Security_Report.org]]

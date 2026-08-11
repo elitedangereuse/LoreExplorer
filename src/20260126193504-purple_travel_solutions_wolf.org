@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       722832c1-d3ea-4d1f-b636-358c609b2cc0
+:END:
+#+title: Purple Travel Solutions Wolf
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030701-Galactic_News__Weekly_Conflict_Report.org][33030701-Galactic_News__Weekly_Conflict_Report.org]]

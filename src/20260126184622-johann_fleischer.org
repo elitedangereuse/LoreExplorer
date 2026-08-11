@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       155ccda3-bf77-471d-8638-3af66bc5673e
+:END:
+#+title: Johann Fleischer
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080111-Torval_Mining_Challenges_Caine-Massey.org][33080111-Torval_Mining_Challenges_Caine-Massey.org]]

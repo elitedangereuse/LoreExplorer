@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9f826e73-1a5f-46f0-a1ea-d215a9cc8891
+:END:
+#+title: Any Na General Group Independents
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011017-GalNet_Weekly_Expansion_List.org][33011017-GalNet_Weekly_Expansion_List.org]]

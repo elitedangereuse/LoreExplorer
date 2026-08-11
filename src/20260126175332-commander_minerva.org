@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8f91ff37-f82f-4689-8ede-3639afe902d8
+:END:
+#+title: Commander Minerva
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070405-The_Wedding_of_Hadrian_Duval.org][33070405-The_Wedding_of_Hadrian_Duval.org]]

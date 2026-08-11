@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       59930d76-e60d-4894-8156-bdb3c00c8f42
+:END:
+#+title: Jenson Zanetti
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011019-Pilots_Call_for_Starship_Lighting_Enquiry.org][33011019-Pilots_Call_for_Starship_Lighting_Enquiry.org]]

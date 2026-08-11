@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       af663b0a-eeb3-4e5c-88c5-daff20c2b9cb
+:END:
+#+title: Ms Landseer
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33061201-Lakon_Spaceways_Rejects_Core_Dynamics_Bid.org][33061201-Lakon_Spaceways_Rejects_Core_Dynamics_Bid.org]]

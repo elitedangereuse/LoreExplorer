@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2945588e-e5eb-4b5c-98eb-6789e6722b88
+:END:
+#+title: Tauri Interstellar Bodb Den Advanced
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030624-Galactic_News__Weekly_Conflict_Report.org][33030624-Galactic_News__Weekly_Conflict_Report.org]]

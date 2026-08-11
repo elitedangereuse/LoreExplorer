@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ba32f514-a53b-4517-88d7-3e8a2a826404
+:END:
+#+title: Balandin Gateway
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010313-The_War_for_Lugh.org][33010313-The_War_for_Lugh.org]]

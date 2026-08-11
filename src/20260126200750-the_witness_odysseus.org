@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       01772d4b-9830-4a1c-b39b-ecd74fde37ec
+:END:
+#+title: The Witness Odysseus
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33081129-Vista_Genomics_Boosts_Biodata_Payouts.org][33081129-Vista_Genomics_Boosts_Biodata_Payouts.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c273f15e-dd81-4430-a36d-4de9751f28c4
+:END:
+#+title: Plastic Fantastic
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010928-Plastic_Fantastic.org][33010928-Plastic_Fantastic.org]]

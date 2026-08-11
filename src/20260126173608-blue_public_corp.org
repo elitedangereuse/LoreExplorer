@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a5a6cdc4-bd5e-4e67-a2aa-d0a1e6e2aa82
+:END:
+#+title: Blue Public Corp
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020509-Galactic_News__Weekly_Economic_Report.org][33020509-Galactic_News__Weekly_Economic_Report.org]]

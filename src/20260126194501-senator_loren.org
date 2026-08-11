@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1c9dba4b-4552-4c0b-976d-2cd2fd673efa
+:END:
+#+title: Senator Loren
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010502-Prism_Senator_Planning_New_Voyage_.org][33010502-Prism_Senator_Planning_New_Voyage_.org]]

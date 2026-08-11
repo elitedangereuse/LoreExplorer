@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5eb45482-194a-4903-aaaf-a1a02e1e65ad
+:END:
+#+title: Delta Pavonis Warakmbut Inc Warakmbut
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030705-Galactic_News__Weekly_Security_Report.org][33030705-Galactic_News__Weekly_Security_Report.org]]

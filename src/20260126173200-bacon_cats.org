@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6ddad4c4-fa8a-4ae6-b616-512e5b43a26d
+:END:
+#+title: Bacon Cats
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011002-Preparation_for_'Bacon_Protests'_Anniversary_Underway.org][33011002-Preparation_for_'Bacon_Protests'_Anniversary_Underway.org]]

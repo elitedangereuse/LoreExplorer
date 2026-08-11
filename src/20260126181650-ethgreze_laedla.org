@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6e599419-f414-4476-86a8-3c6733ab30b5
+:END:
+#+title: Ethgreze Laedla
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021103-Galactic_News__Weekly_Democracy_Report.org][33021103-Galactic_News__Weekly_Democracy_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b7c4f0d8-0bb3-461f-b289-a9481143d305
+:END:
+#+title: The Interstellar Health Organisation
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33041208-Week_in_Review.org][33041208-Week_in_Review.org]]

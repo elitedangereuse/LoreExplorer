@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1d9c07f9-0432-4995-a06c-d0b20fedca0d
+:END:
+#+title: Labour EP Eridani United Corp
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020930-Galactic_News__Weekly_Conflict_Report.org][33020930-Galactic_News__Weekly_Conflict_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e6c96f06-1487-481f-8a0e-7f33a2526a44
+:END:
+#+title: Utley Hub
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090629-Mining_Initiative_Begins_in_Kokoller.org][33090629-Mining_Initiative_Begins_in_Kokoller.org]]

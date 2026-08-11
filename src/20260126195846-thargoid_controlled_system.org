@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       73582837-00d4-4031-bf8d-cd4c202aa468
+:END:
+#+title: Thargoid-Controlled System
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080812-Fleets_Withdraw_from_Thargoid-Controlled_System.org][33080812-Fleets_Withdraw_from_Thargoid-Controlled_System.org]]

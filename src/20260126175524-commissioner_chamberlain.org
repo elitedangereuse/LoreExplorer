@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4b7f0f87-6f12-4bb7-b0f2-f7669d9963f5
+:END:
+#+title: Commissioner Chamberlain
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010221-Crackdown_in_Cemiess.org][33010221-Crackdown_in_Cemiess.org]]

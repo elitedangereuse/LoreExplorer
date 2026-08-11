@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0ea5809d-06a1-45d7-b79c-0d54cfed1adc
+:END:
+#+title: Dawn As
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010910-The_Truth_about_Emperor’s_Dawn.org][33010910-The_Truth_about_Emperor’s_Dawn.org]]

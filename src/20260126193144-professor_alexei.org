@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0d4fcbf2-5b9c-460b-90d8-fdabad026b02
+:END:
+#+title: Professor Alexei
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040518-Colonia_Project_Requests_Microresources.org][33040518-Colonia_Project_Requests_Microresources.org]]

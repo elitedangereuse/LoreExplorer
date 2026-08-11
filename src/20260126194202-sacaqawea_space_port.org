@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       926f9656-0991-4daf-90df-c121489d0b48
+:END:
+#+title: Sacaqawea Space Port
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021014-Galactic_News__Location_of_Colonia_Outposts_Announced.org][33021014-Galactic_News__Location_of_Colonia_Outposts_Announced.org]]

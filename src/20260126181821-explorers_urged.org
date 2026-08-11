@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1e59c393-f320-41cb-8478-ede3f9f582e4
+:END:
+#+title: Explorers Urged
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020826-Galactic_News__Explorers_Urged_to_be_Cautious.org][33020826-Galactic_News__Explorers_Urged_to_be_Cautious.org]]

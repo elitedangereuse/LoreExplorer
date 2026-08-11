@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ffb3a77e-e819-40c0-88fe-24f0fd8fe136
+:END:
+#+title: Councillor Kaine
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070104-Countdown_to_Alliance_Election_Begins.org][33070104-Countdown_to_Alliance_Election_Begins.org]]

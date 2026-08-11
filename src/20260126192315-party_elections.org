@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       70ada4ca-8e84-481d-9955-9f11af29639f
+:END:
+#+title: Party Elections
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020211-Galactic_News__Focus_on_Democracy.org][33020211-Galactic_News__Focus_on_Democracy.org]]

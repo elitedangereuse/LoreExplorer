@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0cb069d0-89a3-444a-b9ee-da8440d232c3
+:END:
+#+title: Merchant Marines
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010415-East_India_Company_Announces_Galactic_Silk_Road.org][33010415-East_India_Company_Announces_Galactic_Silk_Road.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4d9ee5c7-7255-4366-a018-60a87d8f5298
+:END:
+#+title: Angrbonii Canary Mining Corporation Monarchy
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020305-Galactic_News__Weekly_Expansion_List.org][33020305-Galactic_News__Weekly_Expansion_List.org]]

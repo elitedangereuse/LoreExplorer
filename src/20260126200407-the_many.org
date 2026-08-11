@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4f8b4ff7-561a-4618-972e-b67b9542d26d
+:END:
+#+title: The Many
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010731-A_Week_in_Powerplay.org][33010731-A_Week_in_Powerplay.org]]

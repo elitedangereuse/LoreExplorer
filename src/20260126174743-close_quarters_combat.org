@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4fa468a7-b762-44de-8935-48f5b84e6463
+:END:
+#+title: Close Quarters Combat
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020729-Galactic_News__The_Origin_of_the_Pilots_Federation.org][33020729-Galactic_News__The_Origin_of_the_Pilots_Federation.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       556eef81-df4a-408c-993e-31438d8ce5d9
+:END:
+#+title: Librae HR
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020723-Galactic_News__Weekly_Expansion_Report.org][33020723-Galactic_News__Weekly_Expansion_Report.org]]

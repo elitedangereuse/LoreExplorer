@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       419e368a-160d-4ebb-9a68-94e2b21695c8
+:END:
+#+title: Valentina Tereshkova
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020707-Freelance_Report__Border_Coalition_Backs_SEPP.org][33020707-Freelance_Report__Border_Coalition_Backs_SEPP.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0d94c2d6-cd71-42f2-8ac9-3a2dbba31a5c
+:END:
+#+title: Moon-Landing Anniversary Race
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020718-Freelance_Report__Moon-Landing_Anniversary_Race.org][33020718-Freelance_Report__Moon-Landing_Anniversary_Race.org]]

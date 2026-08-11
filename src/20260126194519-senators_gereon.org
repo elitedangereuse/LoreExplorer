@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       18fd68fb-189c-43a1-b9a5-d1e21784b708
+:END:
+#+title: Senators Gereon
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080214-ACT_Exposes_the_Lords_of_Restoration.org][33080214-ACT_Exposes_the_Lords_of_Restoration.org]]

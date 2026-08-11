@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8f887d5c-a320-43c7-b36d-530677232af7
+:END:
+#+title: Gendalla Advanced Exchange Altair Regulatory
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020816-Galactic_News__Weekly_Security_Report.org][33020816-Galactic_News__Weekly_Security_Report.org]]

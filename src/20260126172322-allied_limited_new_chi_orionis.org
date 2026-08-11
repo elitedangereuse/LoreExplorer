@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       153d7de9-e17f-4d23-abfc-512164d6a884
+:END:
+#+title: Allied Limited New Chi Orionis
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020510-Galactic_News__Weekly_Security_Report.org][33020510-Galactic_News__Weekly_Security_Report.org]]

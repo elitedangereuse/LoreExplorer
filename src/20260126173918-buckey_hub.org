@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       cc36448b-5e16-4b93-9e6b-ab8a00555f94
+:END:
+#+title: Buckey Hub
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011230-Faction_Appeals_for_Fireworks.org][33011230-Faction_Appeals_for_Fireworks.org]]

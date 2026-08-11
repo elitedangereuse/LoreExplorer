@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9f965934-42fe-4f7e-ab2a-b41df109176b
+:END:
+#+title: Materials Received
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090901-Materials_Received_to_Construct_Duval_Statues.org][33090901-Materials_Received_to_Construct_Duval_Statues.org]]

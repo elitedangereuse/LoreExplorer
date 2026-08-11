@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4f292fe2-4fa5-4ca2-831a-cf946041e5e0
+:END:
+#+title: San Muss
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010624-Terror_in_the_Pegasi_Sector.org][33010624-Terror_in_the_Pegasi_Sector.org]]

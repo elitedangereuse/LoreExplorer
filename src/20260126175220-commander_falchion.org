@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5cb3a4f5-0444-4633-a382-116dc36c1abc
+:END:
+#+title: Commander Falchion
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020909-Galactic_News__We_Have_a_Winner!.org][33020909-Galactic_News__We_Have_a_Winner!.org]]

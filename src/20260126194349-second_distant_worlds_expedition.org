@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       189cb445-bd08-4095-b0c0-393e196a9513
+:END:
+#+title: Second Distant Worlds Expedition
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050104-Countdown_to_Second_Distant_Worlds_Expedition.org][33050104-Countdown_to_Second_Distant_Worlds_Expedition.org]]

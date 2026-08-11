@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       11856011-0ff2-42ea-ac12-d16634495713
+:END:
+#+title: Karakasis Patrons
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010901-GalNet_Weekly_Security_Digest.org][33010901-GalNet_Weekly_Security_Digest.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bc31e867-0dea-45af-9739-a0ffa296b0cd
+:END:
+#+title: Commanders Salomé
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030408-Galactic_News__Message_Received_from_Col_70_Sector.org][33030408-Galactic_News__Message_Received_from_Col_70_Sector.org]]

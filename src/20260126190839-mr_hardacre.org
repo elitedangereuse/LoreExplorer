@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7a8704d1-3378-4751-9843-7fd246e6ee2b
+:END:
+#+title: Mr Hardacre
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040920-Robot_Exposes_Corporate_Fraud.org][33040920-Robot_Exposes_Corporate_Fraud.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1d328f28-9b28-4a98-9e98-a59332345b7d
+:END:
+#+title: Most Allied
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33091013-Federal_Election__The_Allied_Perspective.org][33091013-Federal_Election__The_Allied_Perspective.org]]

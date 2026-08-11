@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d2e3689d-9fba-4197-ad6f-99fd9555c087
+:END:
+#+title: Itzamnets Frick Base
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030308-Galactic_News__Starport_Status_Update.org][33030308-Galactic_News__Starport_Status_Update.org]]

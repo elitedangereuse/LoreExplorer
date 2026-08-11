@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       859939dd-85d3-47e7-a06f-849e4fdc42e5
+:END:
+#+title: Tavgi System
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090406-Corporate_Battle_Erupts_in_Tavgi_System.org][33090406-Corporate_Battle_Erupts_in_Tavgi_System.org]]

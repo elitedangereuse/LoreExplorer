@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4a65a52a-674b-455d-be3f-de025c09ac4c
+:END:
+#+title: Admiral Brice
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010506-Prism_Senator_Summoned_to_Achenar.org][33010506-Prism_Senator_Summoned_to_Achenar.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       de1e5e22-1a25-464a-97b4-87d150344b45
+:END:
+#+title: Ngaliba Lords
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021128-Galactic_News__Weekly_Economic_Report.org][33021128-Galactic_News__Weekly_Economic_Report.org]]

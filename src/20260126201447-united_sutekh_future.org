@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e92bc03d-3830-4bd4-8d27-fa0ad2611e0e
+:END:
+#+title: United Sutekh Future
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030223-Galactic_News__United_Sutekh_Future_Operation_Succeeds.org][33030223-Galactic_News__United_Sutekh_Future_Operation_Succeeds.org]]

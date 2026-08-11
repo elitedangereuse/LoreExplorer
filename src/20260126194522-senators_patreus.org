@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f44179b8-298e-4bf3-80ac-60ca90d7377c
+:END:
+#+title: Senators Patreus
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010708-United_Imperial_Offensive_into_Pegasi_Sector.org][33010708-United_Imperial_Offensive_into_Pegasi_Sector.org]]

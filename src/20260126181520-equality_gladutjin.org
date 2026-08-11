@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       252e04e9-4971-489f-ab2d-a79313f8c302
+:END:
+#+title: Equality Gladutjin
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010718-GalNet_Weekly_Expansion_List.org][33010718-GalNet_Weekly_Expansion_List.org]]

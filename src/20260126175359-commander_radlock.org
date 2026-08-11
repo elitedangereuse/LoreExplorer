@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       de3018f8-0a1d-4948-976c-293845f0fb4b
+:END:
+#+title: Commander Radlock
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011005-Fuel_Rats_Complete_2,000th_Rescue.org][33011005-Fuel_Rats_Complete_2,000th_Rescue.org]]

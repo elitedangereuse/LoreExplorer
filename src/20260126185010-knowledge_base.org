@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d0093460-f4ea-4662-a9d3-38ed59b31d70
+:END:
+#+title: Knowledge Base
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33041211-Introducing_the_Codex.org][33041211-Introducing_the_Codex.org]]

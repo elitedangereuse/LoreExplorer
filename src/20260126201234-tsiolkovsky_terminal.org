@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c94b58dd-e6e6-4a28-92b4-3d512e5c7c34
+:END:
+#+title: Tsiolkovsky Terminal
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33060910-Terrorist_Attacks_on_Imperial_Starports.org][33060910-Terrorist_Attacks_on_Imperial_Starports.org]]

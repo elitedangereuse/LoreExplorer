@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ecdd6dae-e835-45cb-9c77-484456767537
+:END:
+#+title: Values Party Expansions
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020326-Galactic_News__Weekly_Expansion_Report.org][33020326-Galactic_News__Weekly_Expansion_Report.org]]

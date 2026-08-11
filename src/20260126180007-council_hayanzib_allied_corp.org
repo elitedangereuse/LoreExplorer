@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6e5d29e7-f915-4537-b3f0-43b74ae91319
+:END:
+#+title: Council Hayanzib Allied Corp
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020122-Galactic_News__Weekly_Conflict_Report.org][33020122-Galactic_News__Weekly_Conflict_Report.org]]

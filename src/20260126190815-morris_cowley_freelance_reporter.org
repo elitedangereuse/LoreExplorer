@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       39e5774d-4594-455b-a51d-1cd24ca295ef
+:END:
+#+title: Morris Cowley Freelance Reporter
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021126-Freelance_Report__Record-Breaking_Tourist_Trip.org][33021126-Freelance_Report__Record-Breaking_Tourist_Trip.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       81a1ed07-b495-4f46-beea-0b29316a2643
+:END:
+#+title: Tchernobog The
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040523-Starport_Status_Update.org][33040523-Starport_Status_Update.org]]

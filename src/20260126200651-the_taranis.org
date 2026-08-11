@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9c478ac8-8688-4b82-81f7-6ba07d2938fe
+:END:
+#+title: The Taranis
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33081129-Taranis_Unleashes_Thargoid_Invasion_Fleets.org][33081129-Taranis_Unleashes_Thargoid_Invasion_Fleets.org]]

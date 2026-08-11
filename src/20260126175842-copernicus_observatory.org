@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4e2aaf9a-e450-4857-8133-2cfa45a95b53
+:END:
+#+title: Copernicus Observatory
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33031202-Galactic_News__New_Aegis_Initiative.org][33031202-Galactic_News__New_Aegis_Initiative.org]]

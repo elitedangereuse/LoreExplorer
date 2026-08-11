@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7ceb16b9-c16a-422c-bfcb-64eff0393f2c
+:END:
+#+title: Callavs Inc Sigma-2 Ursae Majoris
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010807-GalNet_Weekly_Conflict_Report.org][33010807-GalNet_Weekly_Conflict_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2879d99e-ef69-4c12-91f4-12f2819ddb19
+:END:
+#+title: Kamov Survey
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33031202-Galactic_News__New_Aegis_Initiative.org][33031202-Galactic_News__New_Aegis_Initiative.org]]

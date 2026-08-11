@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7d23b6a0-bec4-4dcf-b86e-1969d63bc4b0
+:END:
+#+title: Commander Sid Solo
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020618-Freelance_Report__Project_Endurance.org][33020618-Freelance_Report__Project_Endurance.org]]

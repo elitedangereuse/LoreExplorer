@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5c7d81af-673d-48f4-8f95-9225b5c91b7c
+:END:
+#+title: Alioth Independents
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010327-Unknown_Explorer_Returns_From_NGC_3199_Nebula.org][33010327-Unknown_Explorer_Returns_From_NGC_3199_Nebula.org]]

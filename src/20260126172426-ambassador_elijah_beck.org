@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0025ea5d-80f8-411c-8be1-65b6dd8bed23
+:END:
+#+title: Ambassador Elijah Beck
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33071026-Alliance_and_Marlinists_Address_Refugee_Crisis.org][33071026-Alliance_and_Marlinists_Address_Refugee_Crisis.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       446943f2-cf63-4bd4-90ef-2c6e9130e5ea
+:END:
+#+title: Deep Space
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080905-Unexplained_‘Flare’_Detected_in_Deep_Space.org][33080905-Unexplained_‘Flare’_Detected_in_Deep_Space.org]]

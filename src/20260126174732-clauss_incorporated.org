@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5441cb8f-7bdb-4e49-a70a-7e0e9bdddb18
+:END:
+#+title: Clauss Incorporated
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011222-Clauss_Incorporated_Issues_Appeal.org][33011222-Clauss_Incorporated_Issues_Appeal.org]]

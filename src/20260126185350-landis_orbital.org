@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d682b2df-1d20-458e-8dfa-ab17acbf2b26
+:END:
+#+title: Landis Orbital
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040606-Starport_Status_Update.org][33040606-Starport_Status_Update.org]]

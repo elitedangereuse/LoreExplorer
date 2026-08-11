@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       fa76c7b6-1d88-4275-b5c5-444d89572f3f
+:END:
+#+title: Theta Indi
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33061203-Capital_Ship_Construction_Initiatives_Conclude.org][33061203-Capital_Ship_Construction_Initiatives_Conclude.org]]

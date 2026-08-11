@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7b5389dc-3bb0-40e4-8a70-a00df78d72ce
+:END:
+#+title: Anti-Thargoid Operation
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040223-Anti-Thargoid_Operation.org][33040223-Anti-Thargoid_Operation.org]]

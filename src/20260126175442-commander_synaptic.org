@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ca0b793c-da05-4154-ba62-44f3988b9504
+:END:
+#+title: Commander Synaptic
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010826-Athena_System_Hosts_‘XYZ_Fight_Club’.org][33010826-Athena_System_Hosts_‘XYZ_Fight_Club’.org]]

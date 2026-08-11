@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       13d59ec1-68d3-4004-bc51-09eff6282694
+:END:
+#+title: Public Polled
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010412-Public_Polled_on_President.org][33010412-Public_Polled_on_President.org]]

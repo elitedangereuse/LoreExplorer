@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       69dc30dc-d407-4b0f-bf0f-d14b3e6472ee
+:END:
+#+title: Fuel Rat
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010721-Fuel_Rat_Deep_Space_Relay_Rescue.org][33010721-Fuel_Rat_Deep_Space_Relay_Rescue.org]]

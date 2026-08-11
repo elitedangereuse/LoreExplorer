@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d2543ad6-7549-4ae2-a22d-935e577d5621
+:END:
+#+title: Zeta Fornacis When
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030125-Galactic_News__Weekly_Health_Report.org][33030125-Galactic_News__Weekly_Health_Report.org]]

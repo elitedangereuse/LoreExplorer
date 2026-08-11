@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ce76c104-40fd-4320-821c-7ab6d5d28501
+:END:
+#+title: The Future
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010308-Anti-Slavery_Support_Grows_in_Synteini_System.org][33010308-Anti-Slavery_Support_Grows_in_Synteini_System.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a5cdd857-2eb5-4320-8eb4-58e1158c7908
+:END:
+#+title: Heikegani Priest Survey
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030202-Galactic_News__Starport_Status_Update.org][33030202-Galactic_News__Starport_Status_Update.org]]

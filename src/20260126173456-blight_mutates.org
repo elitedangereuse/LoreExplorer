@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       cce7f2c3-7911-4d4c-8797-72ddf039abdb
+:END:
+#+title: Blight Mutates
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33051023-Blight_Mutates_into_New_Pathogen.org][33051023-Blight_Mutates_into_New_Pathogen.org]]

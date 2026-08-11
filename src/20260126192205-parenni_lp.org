@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6f3706bd-3e3b-42fe-8219-521be3eda4fc
+:END:
+#+title: Parenni LP
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020227-Galactic_News__Weekly_Expansion_List.org][33020227-Galactic_News__Weekly_Expansion_List.org]]

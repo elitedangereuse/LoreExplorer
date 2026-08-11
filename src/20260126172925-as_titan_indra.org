@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       dc6194af-eb0c-4703-838f-5146e6b563e7
+:END:
+#+title: As Titan Indra
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3310/33100710-Thargoid_War_Bulletin__Slaying_the_Dragon.org][33100710-Thargoid_War_Bulletin__Slaying_the_Dragon.org]]

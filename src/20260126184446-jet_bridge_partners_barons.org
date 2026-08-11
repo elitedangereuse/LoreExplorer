@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       fee1e475-ecc0-4c92-8985-d5dbafcade9e
+:END:
+#+title: Jet Bridge Partners Barons
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011222-GalNet_Weekly_Security_Digest.org][33011222-GalNet_Weekly_Security_Digest.org]]

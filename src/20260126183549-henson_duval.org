@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       33a53498-9c5b-494e-8c0a-b38346fa8f3b
+:END:
+#+title: Henson Duval
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010712-The_Birth_of_an_Empire.org][33010712-The_Birth_of_an_Empire.org]]

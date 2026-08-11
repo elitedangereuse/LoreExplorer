@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5c5462f4-3f45-44bd-8cb0-894ae2f88e04
+:END:
+#+title: Edward Bores
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020331-Community_Goal__The_Onionhead_Clash.org][33020331-Community_Goal__The_Onionhead_Clash.org]]

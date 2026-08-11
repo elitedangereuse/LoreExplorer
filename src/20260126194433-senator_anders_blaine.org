@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       974172d3-bc0e-4dad-8b15-039f73a83bc4
+:END:
+#+title: Senator Anders Blaine
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010714-Long_Live_the_Emperor!.org][33010714-Long_Live_the_Emperor!.org]]

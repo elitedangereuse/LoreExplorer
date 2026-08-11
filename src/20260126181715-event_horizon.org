@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0095c9c8-71de-4cf4-beb3-3d7cfd49a05b
+:END:
+#+title: Event Horizon
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050703-Distant_Worlds_Megaship_and_Station_Operational.org][33050703-Distant_Worlds_Megaship_and_Station_Operational.org]]

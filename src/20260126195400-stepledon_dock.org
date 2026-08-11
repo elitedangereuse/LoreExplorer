@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       622485a5-bdc9-41ee-9556-810cb64bdf2e
+:END:
+#+title: Stepledon Dock
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010501-Quivira_Feels_the_Wrath_of_Patreus.org][33010501-Quivira_Feels_the_Wrath_of_Patreus.org]]

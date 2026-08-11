@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2e358d3d-4004-44b2-a19d-7e345a0fb068
+:END:
+#+title: Emperor Arissa
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040830-The_Silence_of_Aisling_Duval.org][33040830-The_Silence_of_Aisling_Duval.org]]

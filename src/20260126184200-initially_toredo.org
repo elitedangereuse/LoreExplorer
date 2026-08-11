@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       772186a3-819e-45c1-a61e-93c915272a9a
+:END:
+#+title: Initially Toredo
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040818-Aisling_Duval’s_Secret_Relationship_Revealed.org][33040818-Aisling_Duval’s_Secret_Relationship_Revealed.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8dcec523-9798-41a1-afa4-edf48254864e
+:END:
+#+title: Commander Parabolus
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021021-Freelance_Report__The_SHEPARD_Mission.org][33021021-Freelance_Report__The_SHEPARD_Mission.org]]

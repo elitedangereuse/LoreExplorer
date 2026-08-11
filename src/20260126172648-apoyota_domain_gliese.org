@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       49145b5c-0b4a-4bd7-bdb8-7ed83bd9f2b5
+:END:
+#+title: Apoyota Domain Gliese
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030314-Galactic_News__Weekly_Security_Report.org][33030314-Galactic_News__Weekly_Security_Report.org]]

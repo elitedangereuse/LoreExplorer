@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       02dd56ba-55e0-4548-8c6d-5d1225e918af
+:END:
+#+title: Another Jeffress Treasure Hunt
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011217-Another_Jeffress_Treasure_Hunt.org][33011217-Another_Jeffress_Treasure_Hunt.org]]

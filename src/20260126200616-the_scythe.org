@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       63f50787-f288-4363-8d28-98b3bd044831
+:END:
+#+title: The Scythe
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33051102-The_Lessons_of_the_Blight.org][33051102-The_Lessons_of_the_Blight.org]]

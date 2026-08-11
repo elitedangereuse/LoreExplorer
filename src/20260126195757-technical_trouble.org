@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       07356b13-4f14-4fc1-972b-446791e0750d
+:END:
+#+title: Technical Trouble
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011016-Technical_Trouble_in_the_Warkushanui_System.org][33011016-Technical_Trouble_in_the_Warkushanui_System.org]]

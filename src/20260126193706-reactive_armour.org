@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c60198a0-288d-49ba-a668-4ba436a9527e
+:END:
+#+title: Reactive Armour
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030330-Galactic_News__Order_Restored_in_Lidpar.org][33030330-Galactic_News__Order_Restored_in_Lidpar.org]]

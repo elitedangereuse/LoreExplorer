@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6a54ea84-6d30-4735-bbef-f91b715616ff
+:END:
+#+title: Blue Star Line
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030825-Community_Goal__The_Path_to_Colonia.org][33030825-Community_Goal__The_Path_to_Colonia.org]]

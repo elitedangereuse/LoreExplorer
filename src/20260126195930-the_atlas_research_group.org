@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8d03d656-d45b-447d-86a2-ad796f10b0ae
+:END:
+#+title: The Atlas Research Group
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050214-Merope_Defence_Initiative.org][33050214-Merope_Defence_Initiative.org]]

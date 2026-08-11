@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1e6706c7-e78f-49ba-aaf2-76b6b7e40bc9
+:END:
+#+title: These Guardian-human
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040407-New_Designs_from_Technology_Brokers.org][33040407-New_Designs_from_Technology_Brokers.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7a3eb1b0-646c-4679-a3b6-56485f6b95b1
+:END:
+#+title: Ms Silva
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040927-Presidential_Candidates_on_the_Campaign_Trail.org][33040927-Presidential_Candidates_on_the_Campaign_Trail.org]]

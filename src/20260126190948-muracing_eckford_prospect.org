@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2e31c026-d82c-4a8a-8d6c-f49e8e73794a
+:END:
+#+title: Muracing Eckford Prospect
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030308-Galactic_News__Starport_Status_Update.org][33030308-Galactic_News__Starport_Status_Update.org]]

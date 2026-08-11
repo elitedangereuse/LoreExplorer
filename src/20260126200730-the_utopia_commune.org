@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       72bb38a5-4840-487b-9a64-dc3446e717c4
+:END:
+#+title: The Utopia Commune
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030414-Community_Goal__Utopia_Research_Appeal.org][33030414-Community_Goal__Utopia_Research_Appeal.org]]

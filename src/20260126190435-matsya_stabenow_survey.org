@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7c5ea310-3b5a-4eee-bced-6c6c646b237d
+:END:
+#+title: Matsya Stabenow Survey
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040629-Starport_Status_Update.org][33040629-Starport_Status_Update.org]]

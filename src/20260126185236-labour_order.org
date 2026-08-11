@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       00563e88-564d-4d3f-b65e-665c4daaa78a
+:END:
+#+title: Labour Order
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030508-Galactic_News__Weekly_Economic_Report.org][33030508-Galactic_News__Weekly_Economic_Report.org]]

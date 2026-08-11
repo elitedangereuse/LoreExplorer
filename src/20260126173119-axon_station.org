@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       dd23efd4-94da-49fb-964d-fe900146f8f8
+:END:
+#+title: Axon Station
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020728-Community_Goal__Empire_Appeals_for_Meta-Alloys.org][33020728-Community_Goal__Empire_Appeals_for_Meta-Alloys.org]]

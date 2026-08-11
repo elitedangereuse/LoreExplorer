@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ac937a33-8e83-41f1-9490-c8fc5cf1edd8
+:END:
+#+title: Xi Wang Mu
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011016-A_Week_in_Powerplay.org][33011016-A_Week_in_Powerplay.org]]

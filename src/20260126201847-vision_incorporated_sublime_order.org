@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8741e7b5-1b19-4af6-b27e-fa600db5d789
+:END:
+#+title: Vision Incorporated Sublime Order
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020107-GalNet_Focus_on_Democracy.org][33020107-GalNet_Focus_on_Democracy.org]]

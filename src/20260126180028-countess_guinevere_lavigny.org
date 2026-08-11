@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1df52cbf-42e9-4269-91d6-8c530291fd90
+:END:
+#+title: Countess Guinevere Lavigny
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080311-Imperial_Guard_Defends_Duvals.org][33080311-Imperial_Guard_Defends_Duvals.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a5f41986-4800-4d16-8acc-766fc5b95011
+:END:
+#+title: Deep Space Surveys
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050307-Distant_Worlds_Mining_Campaign.org][33050307-Distant_Worlds_Mining_Campaign.org]]

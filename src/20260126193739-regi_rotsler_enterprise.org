@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a08a9ca6-99b1-4829-b444-ed2e3b6a7cd9
+:END:
+#+title: Regi Rotsler Enterprise
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33031122-Galactic_News__Starport_Status_Update.org][33031122-Galactic_News__Starport_Status_Update.org]]

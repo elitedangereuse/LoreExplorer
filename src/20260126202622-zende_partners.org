@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       38b86914-a3a9-49e6-9fcf-c589302de4f6
+:END:
+#+title: Zende Partners
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050429-Zende_Partners_Announces_Transport_Service.org][33050429-Zende_Partners_Announces_Transport_Service.org]]

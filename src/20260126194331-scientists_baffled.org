@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       15b0f1fd-3038-4f3d-b8eb-d7049ad4b40a
+:END:
+#+title: Scientists Baffled
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010504-Scientists_Baffled_by_Mysterious_Artefacts.org][33010504-Scientists_Baffled_by_Mysterious_Artefacts.org]]

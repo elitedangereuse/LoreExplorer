@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f557fd5b-8c41-4864-91f9-79aab1841dc9
+:END:
+#+title: Azrael Gaiman Beacon
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040425-Starport_Status_Update.org][33040425-Starport_Status_Update.org]]

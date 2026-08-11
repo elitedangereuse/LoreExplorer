@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       65c23f3f-7359-45fb-b470-ac2262515170
+:END:
+#+title: Yimakuapa Maia Point
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030103-Galactic_News__Starport_Status_Update.org][33030103-Galactic_News__Starport_Status_Update.org]]

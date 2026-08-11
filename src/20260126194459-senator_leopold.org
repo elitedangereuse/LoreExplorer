@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9b983e41-ea21-4cec-9119-4f174660fc14
+:END:
+#+title: Senator Leopold
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040615-Refugee_Centre_Initiative.org][33040615-Refugee_Centre_Initiative.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f575d28a-f726-4f0f-bc59-2aff141416a3
+:END:
+#+title: T'ien Hughes Port
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040620-Starport_Status_Update.org][33040620-Starport_Status_Update.org]]

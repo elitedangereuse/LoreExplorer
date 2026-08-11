@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       71570d86-f6cb-483a-aa0d-4941bb3b27af
+:END:
+#+title: The Unknown Artefacts
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021031-Galactic_News__Ancient_Ruins_Discovered.org][33021031-Galactic_News__Ancient_Ruins_Discovered.org]]

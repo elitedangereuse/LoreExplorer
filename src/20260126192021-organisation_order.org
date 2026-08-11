@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       09511bea-b7b9-4a9e-8859-9180a780d8db
+:END:
+#+title: Organisation Order
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020325-Galactic_News__Weekly_Conflict_Report.org][33020325-Galactic_News__Weekly_Conflict_Report.org]]

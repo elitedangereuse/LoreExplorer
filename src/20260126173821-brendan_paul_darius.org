@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       aac275d0-cc31-481d-aa7a-e44110c17b50
+:END:
+#+title: Brendan Paul Darius
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010807-Chancellor_Blaine_Issues_Statement.org][33010807-Chancellor_Blaine_Issues_Statement.org]]

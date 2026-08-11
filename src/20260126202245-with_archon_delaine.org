@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d94b0337-3a89-43b2-a0d7-49b04d9bd735
+:END:
+#+title: With Archon Delaine
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010724-Operation_Davy_Jones_-_Frontline_report.org][33010724-Operation_Davy_Jones_-_Frontline_report.org]]

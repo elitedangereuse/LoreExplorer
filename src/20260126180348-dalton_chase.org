@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       574eff50-ecf3-449d-9d2b-c2b4c4f5b2bc
+:END:
+#+title: Dalton Chase
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080823-‘Thargoid_Roar’_Claim_Draws_Speculation.org][33080823-‘Thargoid_Roar’_Claim_Draws_Speculation.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       87aaa429-50d9-42b2-a3dd-de4bf04a0a1e
+:END:
+#+title: The Li
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010801-Meet_the_Powers_–_Li_Yong-Rui.org][33010801-Meet_the_Powers_–_Li_Yong-Rui.org]]

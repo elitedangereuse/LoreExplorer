@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       98b52db9-db60-4400-9055-b7fa77092861
+:END:
+#+title: The Golconda
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33051122-A_Gift_from_the_Golconda.org][33051122-A_Gift_from_the_Golconda.org]]

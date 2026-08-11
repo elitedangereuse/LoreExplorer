@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       772c7d80-f0d6-42c5-b78b-e9c80b3cc9c1
+:END:
+#+title: Segon Schmitt Platform
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040802-Starport_Status_Update.org][33040802-Starport_Status_Update.org]]

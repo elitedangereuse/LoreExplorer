@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       df02e36c-8f0a-4314-9766-953325fb0114
+:END:
+#+title: Lea Tantaga
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020315-Galactic_News__Breakthrough_in_the_Fight_against_Technological_Plague.org][33020315-Galactic_News__Breakthrough_in_the_Fight_against_Technological_Plague.org]]

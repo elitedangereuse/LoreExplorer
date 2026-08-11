@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8c2453f6-6a7e-4c47-891c-cd6cab9568f6
+:END:
+#+title: Shorodo Baudin Landing
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021129-Galactic_News__Starport_Status_Update.org][33021129-Galactic_News__Starport_Status_Update.org]]

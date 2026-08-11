@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       aa9e131f-c3cf-4d6e-863a-3934f6d57d57
+:END:
+#+title: First Kholevi Labour New Kholevi
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010724-GalNet_Weekly_Conflict_Report.org][33010724-GalNet_Weekly_Conflict_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7b31b6db-517a-4719-8d0e-028e1ec15117
+:END:
+#+title: The Titan
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3310/33100404-Titan_Oya_deploys_a_surprise_fleet_of_Orthrus_vessels.org][33100404-Titan_Oya_deploys_a_surprise_fleet_of_Orthrus_vessels.org]]

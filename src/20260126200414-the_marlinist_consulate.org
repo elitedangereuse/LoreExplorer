@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       41867f9d-5143-4aef-a4a7-032b6e091471
+:END:
+#+title: The Marlinist Consulate
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070713-Marlinist_Colonies_Face_Political_Division.org][33070713-Marlinist_Colonies_Face_Political_Division.org]]

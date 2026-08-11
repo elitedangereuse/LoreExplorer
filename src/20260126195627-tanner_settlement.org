@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       aa342e9c-0959-4e67-b280-37022c00e99e
+:END:
+#+title: Tanner Settlement
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010612-Winters_Sends_Envoys_to_Utopia_.org][33010612-Winters_Sends_Envoys_to_Utopia_.org]]

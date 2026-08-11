@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a191ac00-4992-4902-a0f4-421f4212546f
+:END:
+#+title: Commander Nyluss
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010824-Federal_and_Imperial_Diplomats_Discuss_the_Pegasi_Sector.org][33010824-Federal_and_Imperial_Diplomats_Discuss_the_Pegasi_Sector.org]]

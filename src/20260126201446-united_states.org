@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7d61b5e3-3911-4e32-877c-00b8621c0ff9
+:END:
+#+title: United States
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040720-Unexploded_Nuclear_Missile_Discovered.org][33040720-Unexploded_Nuclear_Missile_Discovered.org]]

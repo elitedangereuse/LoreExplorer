@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1f05ac81-7b0f-4273-8185-97afba5aec87
+:END:
+#+title: Tesreau Announces Bid
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080928-Tesreau_Announces_Bid_to_Reform_Aegis.org][33080928-Tesreau_Announces_Bid_to_Reform_Aegis.org]]

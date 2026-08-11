@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       10885b23-b363-4607-8135-88d8b83bcc7c
+:END:
+#+title: Alessandra Koa
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33041004-Broadcast_Cobra_Initiative.org][33041004-Broadcast_Cobra_Initiative.org]]

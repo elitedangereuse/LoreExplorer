@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6670cfd9-dc62-4c18-85bd-58901cd5b1bc
+:END:
+#+title: Vernadsky Port
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020526-Community_Goal__Bringing_Peace_to_Ngolibardu.org][33020526-Community_Goal__Bringing_Peace_to_Ngolibardu.org]]

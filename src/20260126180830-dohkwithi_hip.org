@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6f4d4aab-5c8c-42ed-b606-700f3904517b
+:END:
+#+title: Dohkwithi Hip
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010303-Alliance_Terraforming_Initiative_Set_to_Enter_Final_Stage.org][33010303-Alliance_Terraforming_Initiative_Set_to_Enter_Final_Stage.org]]

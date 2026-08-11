@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2de5c3ed-fcca-4557-9925-bdd64bd59303
+:END:
+#+title: Professor Luffy
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020422-Freelance_Report__Bond_Hub_Out_of_the_Woods.org][33020422-Freelance_Report__Bond_Hub_Out_of_the_Woods.org]]

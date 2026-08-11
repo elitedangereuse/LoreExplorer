@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b59c4ff5-7898-4c1b-ac5b-da04922c603f
+:END:
+#+title: Magister Julius Halstrom
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070503-Nova_Imperium_Targeted_by_Superpowers.org][33070503-Nova_Imperium_Targeted_by_Superpowers.org]]

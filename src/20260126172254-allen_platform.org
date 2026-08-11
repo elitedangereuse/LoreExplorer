@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b78d98a7-773b-426c-b301-0bfe4535370c
+:END:
+#+title: Allen Platform
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020618-Freelance_Report__Project_Endurance.org][33020618-Freelance_Report__Project_Endurance.org]]

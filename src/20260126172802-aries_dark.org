@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f4025236-cb1e-434d-9531-663bed67b44c
+:END:
+#+title: Aries Dark
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011013-Canonn_Interstellar_Research_Group_Announces_Breakthrough.org][33011013-Canonn_Interstellar_Research_Group_Announces_Breakthrough.org]]

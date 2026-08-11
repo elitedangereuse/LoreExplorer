@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f392528e-1e89-4d5d-b276-15da1232082f
+:END:
+#+title: Ind Society
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020527-Galactic_News__Weekly_Conflict_Report.org][33020527-Galactic_News__Weekly_Conflict_Report.org]]

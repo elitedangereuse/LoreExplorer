@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       141b12c5-2756-4306-b5f6-b2176bbe9f34
+:END:
+#+title: Mayor Bailey
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010531-78_Ursae_Majoris_Celebrates_Security_with_Shield_Sale.org][33010531-78_Ursae_Majoris_Celebrates_Security_with_Shield_Sale.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bc0713af-78be-436e-b53e-eec1da461873
+:END:
+#+title: Curious Message Discovered
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030417-Galactic_News__Curious_Message_Discovered.org][33030417-Galactic_News__Curious_Message_Discovered.org]]

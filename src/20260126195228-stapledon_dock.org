@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c5d54d8c-cdc2-4c0a-8a4a-38036c68cb39
+:END:
+#+title: Stapledon Dock
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010505-Eyes_on_Quivira.org][33010505-Eyes_on_Quivira.org]]

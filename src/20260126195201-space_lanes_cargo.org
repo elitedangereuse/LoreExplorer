@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       97f9f4b9-5e3f-4543-b722-794053267029
+:END:
+#+title: Space Lanes Cargo
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090710-Azimuth_Plans_Corporate_Convention.org][33090710-Azimuth_Plans_Corporate_Convention.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f7eaf73a-3701-42f1-b5de-c596d460de66
+:END:
+#+title: Princess Lavigny
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010620-Blaine_Address_State_of_the_Emperor.org][33010620-Blaine_Address_State_of_the_Emperor.org]]

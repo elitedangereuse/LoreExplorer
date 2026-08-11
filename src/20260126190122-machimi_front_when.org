@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e0c49eb3-2b6d-456e-8547-7c18d1b3254c
+:END:
+#+title: Machimi Front When
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030405-Galactic_News__Weekly_Health_Report.org][33030405-Galactic_News__Weekly_Health_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       27fc4636-efb6-4566-b063-084809caf20f
+:END:
+#+title: Taurus Mining Ventures
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070507-The_Voice_of_‘Salvation’.org][33070507-The_Voice_of_‘Salvation’.org]]

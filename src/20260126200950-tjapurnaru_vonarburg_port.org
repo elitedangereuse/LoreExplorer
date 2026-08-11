@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       664a80f1-7aea-4402-8f9d-0ca9d237558a
+:END:
+#+title: Tjapurnaru Vonarburg Port
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040131-Starport_Status_Update.org][33040131-Starport_Status_Update.org]]

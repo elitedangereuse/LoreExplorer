@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e625493b-0685-4cc6-8416-059c40497940
+:END:
+#+title: Yiman When
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030504-Galactic_News__Weekly_Health_Report.org][33030504-Galactic_News__Weekly_Health_Report.org]]

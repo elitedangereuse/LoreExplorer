@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       40f09f37-ee86-470b-a30b-cbe1911d2d71
+:END:
+#+title: Antal Opens
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010801-The_Sim-Archive_of_Antal_Opens_to_Visitors.org][33010801-The_Sim-Archive_of_Antal_Opens_to_Visitors.org]]

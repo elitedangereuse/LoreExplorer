@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       dedd7bb1-28f0-4331-9bd3-30ba283d06ef
+:END:
+#+title: Jen Elabog Civil
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020621-Galactic_News__Weekly_Security_Report.org][33020621-Galactic_News__Weekly_Security_Report.org]]

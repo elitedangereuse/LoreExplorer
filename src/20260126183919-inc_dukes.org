@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6935fdea-f490-47dc-b029-72d9f5cdcfc9
+:END:
+#+title: Inc Dukes
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33010626-GalNet_Weekly_Conflict_Report.org][33010626-GalNet_Weekly_Conflict_Report.org]]

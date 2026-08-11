@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f07eafb5-9c1a-4bc5-b620-faedf1a69118
+:END:
+#+title: Mam Factions
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030709-Galactic_News__Weekly_Expansion_Report.org][33030709-Galactic_News__Weekly_Expansion_Report.org]]

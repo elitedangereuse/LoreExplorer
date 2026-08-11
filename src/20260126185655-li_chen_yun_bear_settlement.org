@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3e355833-02fd-49bc-8e13-26452576ce35
+:END:
+#+title: Li Chen Yun Bear Settlement
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040425-Starport_Status_Update.org][33040425-Starport_Status_Update.org]]

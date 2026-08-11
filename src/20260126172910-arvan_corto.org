@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       076de8b4-4f7c-4cd7-9b81-627d4cb6ea13
+:END:
+#+title: Arvan Corto
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020812-Galactic_News__The_Thargoids.org][33020812-Galactic_News__The_Thargoids.org]]

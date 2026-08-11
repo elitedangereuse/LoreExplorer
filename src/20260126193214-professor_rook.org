@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       781e87aa-75b4-44f1-8eaf-da191e81d3cc
+:END:
+#+title: Professor Rook
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33041228-Antal_Levels_Accusation_at_Vitadyne.org][33041228-Antal_Levels_Accusation_at_Vitadyne.org]]

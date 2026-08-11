@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d8320300-da7f-4be9-9b31-099edece4cc7
+:END:
+#+title: Roddenberry Gateway
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010723-Cerberus_Plague_Spreads_to_the_Bastes,_Maheou_Ti_and_Ochoeng_Systems.org][33010723-Cerberus_Plague_Spreads_to_the_Bastes,_Maheou_Ti_and_Ochoeng_Systems.org]]

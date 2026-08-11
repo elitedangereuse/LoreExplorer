@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bc03b1c8-110f-4427-b7a9-1b988969860a
+:END:
+#+title: Grace Mayweather
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020805-Galactic_News__Curious_Developments_in_Tionisla.org][33020805-Galactic_News__Curious_Developments_in_Tionisla.org]]

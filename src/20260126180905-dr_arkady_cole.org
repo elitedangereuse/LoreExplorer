@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5f2d6ba7-6657-4139-9fe8-77c3df16b2f5
+:END:
+#+title: Dr Arkady Cole
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021110-Zosi_Major_Corporation_Issues_Request.org][33021110-Zosi_Major_Corporation_Issues_Request.org]]

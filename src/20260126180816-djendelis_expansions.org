@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       701b320a-b240-4e39-8431-1ebc4e6e3bbb
+:END:
+#+title: Djendelis Expansions
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020521-Galactic_News__Weekly_Expansion_Report.org][33020521-Galactic_News__Weekly_Expansion_Report.org]]

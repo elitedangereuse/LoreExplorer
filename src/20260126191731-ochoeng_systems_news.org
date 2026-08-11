@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       710cdb75-214d-40c0-959f-f2674c59686e
+:END:
+#+title: Ochoeng Systems News
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010723-Cerberus_Plague_Spreads_to_the_Bastes,_Maheou_Ti_and_Ochoeng_Systems.org][33010723-Cerberus_Plague_Spreads_to_the_Bastes,_Maheou_Ti_and_Ochoeng_Systems.org]]

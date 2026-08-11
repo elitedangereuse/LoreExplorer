@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0764fd72-06c0-4c95-94d2-ba4926f8280a
+:END:
+#+title: The Children
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33021104-Galactic_News__Patreus's_Flagship_Attacked.org][33021104-Galactic_News__Patreus's_Flagship_Attacked.org]]

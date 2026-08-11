@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5a6590d6-e1e7-487e-9764-c1ded44f4284
+:END:
+#+title: Principles Civil
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021104-Galactic_News__Weekly_Conflict_Report.org][33021104-Galactic_News__Weekly_Conflict_Report.org]]

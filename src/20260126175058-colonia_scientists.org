@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       948f602b-a6eb-42fb-8454-52dbeaa3591b
+:END:
+#+title: Colonia Scientists
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070107-Xenological_Samples_Required_by_Colonia_Scientists.org][33070107-Xenological_Samples_Required_by_Colonia_Scientists.org]]

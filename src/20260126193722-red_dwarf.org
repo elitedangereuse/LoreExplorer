@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9d6d509e-46a0-4c88-9d72-a2e140f4e7d7
+:END:
+#+title: Red Dwarf
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010707-Fuel_Rat_Rescue_Operation_Saves_Millions_of_Credits.org][33010707-Fuel_Rat_Rescue_Operation_Saves_Millions_of_Credits.org]]

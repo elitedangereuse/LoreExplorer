@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5ff05fa3-d8ed-4380-a0aa-3e9b12d13631
+:END:
+#+title: The Triumph
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33071215-The_Triumph_of_Salvation.org][33071215-The_Triumph_of_Salvation.org]]

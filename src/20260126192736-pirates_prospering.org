@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f6cff42c-9479-4f10-a478-879f8cc2fda5
+:END:
+#+title: Pirates Prospering
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010306-Pirates_Prospering_in_Tanmark.org][33010306-Pirates_Prospering_in_Tanmark.org]]

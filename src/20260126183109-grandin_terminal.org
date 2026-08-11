@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       43c423d1-d7fd-491b-b30b-57924a799bbb
+:END:
+#+title: Grandin Terminal
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050228-Macrosphere_Initiative.org][33050228-Macrosphere_Initiative.org]]

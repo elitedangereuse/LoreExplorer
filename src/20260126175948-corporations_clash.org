@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d84e31a9-9d46-4da6-a7d3-30f0e8aaed88
+:END:
+#+title: Corporations Clash
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050523-Corporations_Clash_in_Guardian_Space.org][33050523-Corporations_Clash_in_Guardian_Space.org]]

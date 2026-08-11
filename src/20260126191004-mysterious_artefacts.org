@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b80b0880-773e-4009-8d8c-50d7fa7d733a
+:END:
+#+title: Mysterious Artefacts
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010504-Scientists_Baffled_by_Mysterious_Artefacts.org][33010504-Scientists_Baffled_by_Mysterious_Artefacts.org]]

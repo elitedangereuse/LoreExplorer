@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       080e3393-903c-4126-b11f-b9074a48a406
+:END:
+#+title: Energy Systems BD
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020711-Galactic_News__Weekly_Economic_Report.org][33020711-Galactic_News__Weekly_Economic_Report.org]]

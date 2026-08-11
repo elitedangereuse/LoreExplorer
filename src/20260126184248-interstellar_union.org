@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ca7b91a5-2560-4ccc-ad40-7b0960178779
+:END:
+#+title: Interstellar Union
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030410-Galactic_News__Weekly_Economic_Report.org][33030410-Galactic_News__Weekly_Economic_Report.org]]

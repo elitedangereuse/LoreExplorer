@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       934dffbb-c504-4f90-adb7-38b0f181ecb0
+:END:
+#+title: Engineers Uma Laszlo
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080616-Alliance-Sirius_Military_Pact_to_be_Decided.org][33080616-Alliance-Sirius_Military_Pact_to_be_Decided.org]]

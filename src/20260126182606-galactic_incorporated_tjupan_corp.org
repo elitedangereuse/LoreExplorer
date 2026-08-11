@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ba121ed0-11d9-46c2-aee9-0a16667b1b1b
+:END:
+#+title: Galactic Incorporated Tjupan Corp
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011001-GalNet_Focus_on_Democracy.org][33011001-GalNet_Focus_on_Democracy.org]]

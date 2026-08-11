@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       77952992-3ff8-4bcd-9991-2e77c5d4f3ce
+:END:
+#+title: Services New
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021209-Galactic_News__Weekly_Conflict_Report.org][33021209-Galactic_News__Weekly_Conflict_Report.org]]

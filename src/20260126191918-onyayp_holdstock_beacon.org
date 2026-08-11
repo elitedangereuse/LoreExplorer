@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b331c011-1b7d-4e0f-95fc-4197ba095601
+:END:
+#+title: Onyayp Holdstock Beacon
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040425-Starport_Status_Update.org][33040425-Starport_Status_Update.org]]

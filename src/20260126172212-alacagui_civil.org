@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f9f4ceb3-7407-47dd-a911-f921e202d958
+:END:
+#+title: Alacagui Civil
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011117-GalNet_Weekly_Security_Digest.org][33011117-GalNet_Weekly_Security_Digest.org]]

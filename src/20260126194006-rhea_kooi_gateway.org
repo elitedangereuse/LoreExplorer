@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       122faa9c-1f85-49e3-8fdc-7952a228a7a5
+:END:
+#+title: Rhea Kooi Gateway
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020630-Galactic_News__Starport_Status_Update.org][33020630-Galactic_News__Starport_Status_Update.org]]

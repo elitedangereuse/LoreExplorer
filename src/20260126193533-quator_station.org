@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6101f1f1-542c-4d0c-92be-83d90186134a
+:END:
+#+title: Quator Station
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33051028-Scythe_of_Panem_Militants_Defeated.org][33051028-Scythe_of_Panem_Militants_Defeated.org]]

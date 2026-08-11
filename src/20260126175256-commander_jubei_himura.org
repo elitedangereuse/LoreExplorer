@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       20560ebb-0045-418c-8f22-11a1f494a315
+:END:
+#+title: Commander Jubei Himura
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030110-Freelance_Report__Imperial_Factions_React_to_Discovery.org][33030110-Freelance_Report__Imperial_Factions_React_to_Discovery.org]]

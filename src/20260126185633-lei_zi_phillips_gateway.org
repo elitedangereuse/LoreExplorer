@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       19da1c75-5790-43ba-ad8a-8f8c0668f7ac
+:END:
+#+title: Lei Zi Phillips Gateway
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33051016-Initiative_to_Eradicate_Rockforth_Fertiliser.org][33051016-Initiative_to_Eradicate_Rockforth_Fertiliser.org]]

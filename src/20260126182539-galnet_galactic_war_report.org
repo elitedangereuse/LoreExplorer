@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0eedbd80-a083-4d75-88d0-294564b579a3
+:END:
+#+title: GalNet Galactic War Report
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010228-GalNet_Galactic_War_Report.org][33010228-GalNet_Galactic_War_Report.org]]

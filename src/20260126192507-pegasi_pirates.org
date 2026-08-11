@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       105c9338-5637-4267-bae3-502cd1242e4c
+:END:
+#+title: Pegasi Pirates
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010605-Kumo_Crew_-_Uniting_the_Pegasi_Pirates.org][33010605-Kumo_Crew_-_Uniting_the_Pegasi_Pirates.org]]

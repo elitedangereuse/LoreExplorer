@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       366feeb2-be9a-489e-9040-065a59e17249
+:END:
+#+title: The Adamastor Enigma
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070419-The_Adamastor_Enigma.org][33070419-The_Adamastor_Enigma.org]]

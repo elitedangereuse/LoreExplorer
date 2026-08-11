@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       378e1bed-4544-4d4a-b0e2-6740c8b926a6
+:END:
+#+title: Fozard Port
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33051108-Inhabited_Generation_Ship_Discovered.org][33051108-Inhabited_Generation_Ship_Discovered.org]]

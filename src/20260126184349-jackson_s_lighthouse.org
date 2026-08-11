@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ed5ded14-8500-4780-a0a5-db82a62dbcd6
+:END:
+#+title: Jackson's Lighthouse
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010810-Portrait_of_a_Bounty_Hunter.org][33010810-Portrait_of_a_Bounty_Hunter.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ca1bb2da-077e-4621-80d4-b21649499cbe
+:END:
+#+title: Deliveries Requested
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090825-Deliveries_Requested_to_Commemorate_Duval_Family.org][33090825-Deliveries_Requested_to_Commemorate_Duval_Family.org]]

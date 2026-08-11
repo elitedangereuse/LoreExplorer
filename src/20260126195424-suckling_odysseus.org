@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       08e850af-65c0-4a3b-87a2-dff7a4b6d56b
+:END:
+#+title: Suckling Odysseus
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33030417-Galactic_News__Curious_Message_Discovered.org][33030417-Galactic_News__Curious_Message_Discovered.org]]

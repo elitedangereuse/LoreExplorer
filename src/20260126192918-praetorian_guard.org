@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       fa838218-f186-403f-801c-cb3d8b13856a
+:END:
+#+title: Praetorian Guard
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3306/33061027-Terrorist_Hit_Squad_Targets_Hadrian_Duval.org][33061027-Terrorist_Hit_Squad_Targets_Hadrian_Duval.org]]

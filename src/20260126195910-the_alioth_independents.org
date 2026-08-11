@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       489d5338-1563-4d8e-a1d1-12213cb368de
+:END:
+#+title: The Alioth Independents
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040907-Alliance_Presidential_Gala.org][33040907-Alliance_Presidential_Gala.org]]

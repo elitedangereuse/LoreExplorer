@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2c66b8f1-ce29-4791-9c59-23c83b32839a
+:END:
+#+title: Jet Allied Co Blue Major
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011228-GalNet_Weekly_Economic_Report.org][33011228-GalNet_Weekly_Economic_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6d430d96-5284-4bee-ac4f-cd66edcc1e82
+:END:
+#+title: Saffron Defence Force
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33021206-Galactic_News__Weekly_Security_Report.org][33021206-Galactic_News__Weekly_Security_Report.org]]

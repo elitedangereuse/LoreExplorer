@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6e80fb95-4378-4a00-a2cb-4244e42ffebe
+:END:
+#+title: Alpha Centauri The Order
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030830-Galactic_News__Weekly_Economic_Report.org][33030830-Galactic_News__Weekly_Economic_Report.org]]

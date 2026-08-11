@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       82d2a314-1f9d-4746-93ba-98fa43b6270b
+:END:
+#+title: Armstrong Enterprise
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/33031202-Galactic_News__New_Aegis_Initiative.org][33031202-Galactic_News__New_Aegis_Initiative.org]]

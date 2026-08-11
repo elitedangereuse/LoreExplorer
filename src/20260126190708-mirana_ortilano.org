@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f4b1f596-9ff0-44df-aa02-0f34379381ed
+:END:
+#+title: Mirana Ortilano
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010423-Race_to_Center_of_Galaxy_Starts_in_Sol.org][33010423-Race_to_Center_of_Galaxy_Starts_in_Sol.org]]

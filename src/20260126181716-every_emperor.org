@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       66ce22ad-0482-41e1-b394-5d9481ed0e05
+:END:
+#+title: Every Emperor
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33091002-The_Future_of_the_Throne.org][33091002-The_Future_of_the_Throne.org]]

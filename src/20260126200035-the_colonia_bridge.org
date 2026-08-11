@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3441eafe-e228-41dc-95d6-6fa99cb20451
+:END:
+#+title: The Colonia Bridge
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33071007-Twin_Initiatives_for_Colonia_Bridge_Project.org][33071007-Twin_Initiatives_for_Colonia_Bridge_Project.org]]

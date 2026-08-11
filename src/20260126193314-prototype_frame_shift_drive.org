@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4fd2cf84-37ed-4020-8fb3-fa373b765e22
+:END:
+#+title: Prototype Frame Shift Drive
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3310/33100404-Prototype_Frame_Shift_Drive_almost_production_ready,_competitor_sceptical.org][33100404-Prototype_Frame_Shift_Drive_almost_production_ready,_competitor_sceptical.org]]

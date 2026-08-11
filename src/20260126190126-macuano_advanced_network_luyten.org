@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1425a7e5-2c73-4212-893b-c2d5b0c45195
+:END:
+#+title: Macuano Advanced Network Luyten
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/Weekly Reports and Updates/33011020-GalNet_Weekly_Security_Digest.org][33011020-GalNet_Weekly_Security_Digest.org]]

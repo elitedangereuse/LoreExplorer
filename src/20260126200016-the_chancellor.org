@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       499cf53f-9b22-46ce-b239-7477fc5a3fcd
+:END:
+#+title: The Chancellor
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010402-Investigation_into_Assassination_Attempt_Ongoing.org][33010402-Investigation_into_Assassination_Attempt_Ongoing.org]]

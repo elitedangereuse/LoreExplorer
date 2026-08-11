@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       02a5ed62-9a0f-4d2e-8842-b4b25ba9842f
+:END:
+#+title: Diaguandri Vizcaino Enterprise
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020120-More_Starports_Fall_Victim_to_Technological_Plague.org][33020120-More_Starports_Fall_Victim_to_Technological_Plague.org]]

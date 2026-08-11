@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       591d35d4-9ad2-4f7b-b708-54db0d441b3f
+:END:
+#+title: Scirtoq Liwei Gateway
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020707-Galactic_News__Starport_Status_Update.org][33020707-Galactic_News__Starport_Status_Update.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7be5cff0-f208-48d6-aec5-e64f9ae7e514
+:END:
+#+title: No Confidence
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010529-Hudson_Calls_for_Vote_of_No_Confidence.org][33010529-Hudson_Calls_for_Vote_of_No_Confidence.org]]

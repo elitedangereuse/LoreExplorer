@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b33e995b-91fd-46f2-8204-5ab44ca7173e
+:END:
+#+title: The Landgrave
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070416-Neo-Marlinists_Seek_Sanctuary_at_Marlinist_Colonies.org][33070416-Neo-Marlinists_Seek_Sanctuary_at_Marlinist_Colonies.org]]

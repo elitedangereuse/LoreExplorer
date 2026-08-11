@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1e3810c5-45e9-4164-b0f2-92a4ccf3ae36
+:END:
+#+title: Reed Dock
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040412-Starport_Status_Update.org][33040412-Starport_Status_Update.org]]

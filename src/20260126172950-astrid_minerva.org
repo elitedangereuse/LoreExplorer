@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       06885da0-febc-4434-b24b-6c25d4cbab4b
+:END:
+#+title: Astrid Minerva
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070405-The_Wedding_of_Hadrian_Duval.org][33070405-The_Wedding_of_Hadrian_Duval.org]]

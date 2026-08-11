@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       583da692-fb12-49e9-b816-270c1095dbdd
+:END:
+#+title: Draconis When
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020810-Galactic_News__Weekly_Health_Report.org][33020810-Galactic_News__Weekly_Health_Report.org]]

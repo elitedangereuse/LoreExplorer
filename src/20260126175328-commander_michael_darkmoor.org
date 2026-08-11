@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3ae42a75-d292-4fda-9829-00a8626dad07
+:END:
+#+title: Commander Michael Darkmoor
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050314-Distant_Worlds_Campaign_Concludes.org][33050314-Distant_Worlds_Campaign_Concludes.org]]

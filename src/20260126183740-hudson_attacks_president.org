@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4ccfe227-36f0-42a3-b74d-c7ca816e2b53
+:END:
+#+title: Hudson Attacks President
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010330-Hudson_Attacks_President’s_History.org][33010330-Hudson_Attacks_President’s_History.org]]

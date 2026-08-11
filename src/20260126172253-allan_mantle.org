@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       de3f13a4-6e36-48cc-aa37-78deb113392a
+:END:
+#+title: Allan Mantle
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33081004-Gatecrash_Drama_at_Aegis_Event.org][33081004-Gatecrash_Drama_at_Aegis_Event.org]]

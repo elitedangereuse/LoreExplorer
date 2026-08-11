@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       fd625cc9-1ffa-46e6-8106-b2c0e5ceb399
+:END:
+#+title: Alliance-Sirius Pact Accelerated
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080815-Alliance-Sirius_Pact_Accelerated.org][33080815-Alliance-Sirius_Pact_Accelerated.org]]

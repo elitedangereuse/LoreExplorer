@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       152287eb-abea-4450-adac-8404833d9187
+:END:
+#+title: Buckyball Racing Club
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011026-Commemorative_Space_Race.org][33011026-Commemorative_Space_Race.org]]

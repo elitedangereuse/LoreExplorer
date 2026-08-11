@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a6a32d18-ca09-4e67-95b1-5d8a026d7bab
+:END:
+#+title: Journalist Vanya Driscoll
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3305/33050518-Kincaid_Granted_Command_of_Zaonce_Fleet.org][33050518-Kincaid_Granted_Command_of_Zaonce_Fleet.org]]

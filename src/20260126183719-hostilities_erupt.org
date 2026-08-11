@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       508d35d5-ab28-4ed0-8a23-d43097ebbc28
+:END:
+#+title: Hostilities Erupt
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33041122-Hostilities_Erupt_in_Loha_System.org][33041122-Hostilities_Erupt_in_Loha_System.org]]

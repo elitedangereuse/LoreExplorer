@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d52a9151-cef4-4713-9f30-bda9bb0aa102
+:END:
+#+title: Endr Dominion LP
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/Weekly Reports and Updates/33020421-Galactic_News__Weekly_Democracy_Report.org][33020421-Galactic_News__Weekly_Democracy_Report.org]]

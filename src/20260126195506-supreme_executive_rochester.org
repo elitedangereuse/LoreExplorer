@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bfe0a364-59d2-47ee-823c-501dcd9ff552
+:END:
+#+title: Supreme Executive Rochester
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3307/33070209-Jupiter_Rochester_Goes_Rogue_from_Core_Dynamics.org][33070209-Jupiter_Rochester_Goes_Rogue_from_Core_Dynamics.org]]

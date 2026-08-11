@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       774a4571-5433-4217-993a-51c1a8c18b21
+:END:
+#+title: Silver Allied Network
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010420-Silver_Allied_Network_Implicated_in_Attack_on_Emperor!.org][33010420-Silver_Allied_Network_Implicated_in_Attack_on_Emperor!.org]]

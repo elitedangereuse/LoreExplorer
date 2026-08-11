@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d6757a8d-4fba-46a3-a746-2cf602da089d
+:END:
+#+title: Tionisla Materials Campaign Fails
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33091207-Tionisla_Materials_Campaign_Fails.org][33091207-Tionisla_Materials_Campaign_Fails.org]]

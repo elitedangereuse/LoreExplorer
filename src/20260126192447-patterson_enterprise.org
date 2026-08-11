@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9e3d425e-18d6-4060-afc2-c61d5b593eaa
+:END:
+#+title: Patterson Enterprise
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010804-Five_Killed_in_Shuttle_Accident.org][33010804-Five_Killed_in_Shuttle_Accident.org]]

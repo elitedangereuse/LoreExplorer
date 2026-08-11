@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       33e1600b-b42f-4b9b-9dd8-322dc62300c6
+:END:
+#+title: Exioce Fox Base
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/Weekly Reports and Updates/33040823-Starport_Status_Update.org][33040823-Starport_Status_Update.org]]

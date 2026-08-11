@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1b7c8a12-f36f-49cb-90ec-21e812adcec3
+:END:
+#+title: An Interview
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040719-An_Interview_with_Aisling_Duval.org][33040719-An_Interview_with_Aisling_Duval.org]]

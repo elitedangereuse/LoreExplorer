@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       41654111-3897-4e6f-aae2-f1ebacc9bc5b
+:END:
+#+title: The Duvals
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3309/33090703-Imperial_Mother_in_Medical_Emergency.org][33090703-Imperial_Mother_in_Medical_Emergency.org]]

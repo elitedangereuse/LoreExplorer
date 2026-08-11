@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a86161c1-0d8f-4129-be82-dd68e381042f
+:END:
+#+title: Republican Party
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010610-Federation_Goes_All_In.org][33010610-Federation_Goes_All_In.org]]

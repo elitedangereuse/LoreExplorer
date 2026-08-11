@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       89f76c7f-9428-4b3c-bf6a-6a3be1dfdb04
+:END:
+#+title: The Emperor
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33010620-Blaine_Address_State_of_the_Emperor.org][33010620-Blaine_Address_State_of_the_Emperor.org]]

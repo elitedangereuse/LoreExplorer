@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       cf2719d8-8f34-4fbc-ab0c-c7d15aa5ef57
+:END:
+#+title: Halbangaay Gabriel Enterprise
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020120-More_Starports_Fall_Victim_to_Technological_Plague.org][33020120-More_Starports_Fall_Victim_to_Technological_Plague.org]]

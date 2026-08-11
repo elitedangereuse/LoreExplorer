@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1783b405-295c-4870-b22d-cf47461a0136
+:END:
+#+title: Admiral Varma
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3304/33040713-Alliance_Admiral_Detained.org][33040713-Alliance_Admiral_Detained.org]]

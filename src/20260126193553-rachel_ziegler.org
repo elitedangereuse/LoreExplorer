@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       dbd6550f-be30-43be-9a17-62acd64d4617
+:END:
+#+title: Rachel Ziegler
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080421-Superpower_Systems_Overrun_by_Thargoids.org][33080421-Superpower_Systems_Overrun_by_Thargoids.org]]

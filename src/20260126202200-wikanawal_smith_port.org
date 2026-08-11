@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c7160e35-c311-4f03-b5d7-ae0315792f50
+:END:
+#+title: Wikanawal Smith Port
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030321-Galactic_News__Starport_Status_Update.org][33030321-Galactic_News__Starport_Status_Update.org]]

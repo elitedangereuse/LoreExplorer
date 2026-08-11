@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       35489994-9665-4c9e-ac18-ce96057f1298
+:END:
+#+title: Weird Science
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020907-Freelance_Report__Weird_Science.org][33020907-Freelance_Report__Weird_Science.org]]

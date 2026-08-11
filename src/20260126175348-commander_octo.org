@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       47f1ee78-6d50-42ee-b160-7b97749b6e9f
+:END:
+#+title: Commander Octo
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3302/33020115-Alien_'Barnacles'_Discovered_in_the_Pleiades.org][33020115-Alien_'Barnacles'_Discovered_in_the_Pleiades.org]]

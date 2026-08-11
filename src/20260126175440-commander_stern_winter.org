@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       27d500e8-92a1-4c6c-827f-54a66279de57
+:END:
+#+title: Commander Stern Winter
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3301/33011026-Commemorative_Space_Race.org][33011026-Commemorative_Space_Race.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e7f3d8bb-a71b-426d-9238-e319332642a6
+:END:
+#+title: Exchange Order
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3303/Weekly Reports and Updates/33030520-Galactic_News__Weekly_Conflict_Report.org][33030520-Galactic_News__Weekly_Conflict_Report.org]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d37394d0-f230-424e-8335-264ad4e1e252
+:END:
+#+title: The Workers
+#+filetags: :Individual:
+
+* Summary
+- Stub created from Galnet reference.
+
+* References
+- [[file:../references/Galnet/3308/33080929-Federal_Forces_Target_the_True_Chapters.org][33080929-Federal_Forces_Target_the_True_Chapters.org]]
