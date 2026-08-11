@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       906c77b7-7fe4-48c1-ace5-1265023c2ebf
+:ROAM_ALIASES: "Lakon"
 :END:
 #+title: Lakon Spaceways
 #+filetags: :3304:3303:Alliance:Thargoid:Corporation:
@@ -33,4 +34,3 @@ unpretentious, functional design, which is informed more by practical
 concerns than aesthetic considerations. Those who champion the chunky
 look of Lakon craft typically say that they prefer their ships to look
 like ships, not abstract sculptures.
-

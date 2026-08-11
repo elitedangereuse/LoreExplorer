@@ -10,14 +10,14 @@
 
 *Pilots Federation ALERT*
 
-The capital system of the Alliance now hosts Lakon’s administrative
+The capital system of the Alliance now hosts [[id:906c77b7-7fe4-48c1-ace5-1265023c2ebf][Lakon]]’s administrative
 hub and offers a 5% discount on its ships.
 
 The company’s main offices have been relocated to the [[id:906c77b7-7fe4-48c1-ace5-1265023c2ebf][Lakon Spaceways]]
 Central planetary port on [[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]] 1 a.
 
 All shipyards within the [[id:5c4e0227-24c0-4696-b2e1-5ba9fe0308f5][Alioth]] system are offering a permanent 5%
-discount on sales of vessels manufactured by Lakon. Pilots will need
+discount on sales of vessels manufactured by [[id:906c77b7-7fe4-48c1-ace5-1265023c2ebf][Lakon]]. Pilots will need
 to obtain a permit for Alioth to take advantage of this reduction.
 
 Both the move and the discount reflect the Alliance’s recent purchase
@@ -27,7 +27,7 @@ it as a key defence contractor for the [[id:17d9294e-7759-4cf4-9a67-5f12b5704f51
 [[id:321b3694-38ea-481e-9899-77b5cb951f14][Naomi Landseer]], chairperson of the board of directors, announced:
 
 “We are extremely pleased to be partnered with the Alliance,
-especially after recent tumultuous events. Lakon’s highly regarded
+especially after recent tumultuous events. [[id:906c77b7-7fe4-48c1-ace5-1265023c2ebf][Lakon]]’s highly regarded
 ships will remain available across the galaxy.”
 
 The attempted takeover of [[id:906c77b7-7fe4-48c1-ace5-1265023c2ebf][Lakon Spaceways]] by [[id:4a28463f-cbed-493b-9466-70cbc6e19662][Core Dynamics]] was revoked
