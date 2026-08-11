@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       d9b0de9c-3b2c-41dc-91e8-a936b7fa963b
+:END:
+#+title: Distant Worlds Expedition Preparations Conclude Successfully
+#+filetags: :3312:galnet:
+
+* Distant Worlds Expedition Preparations Conclude Successfully
+
+/17 Jan 3312/
+
+The [[id:dbb9956e-5ae2-4c27-94f7-670f0a4719f9][Distant Worlds]] appeal for construction materials has concluded, with the initial infrastructure requested now fully delivered.
+
+Organisers confirmed that target quotas for [[id:34acf2f1-676d-4e52-86f4-80dc606e435c][power generators]], [[id:f612d3ed-5cd5-44af-a3a3-c3b5da79a362][bertrandite]] and [[id:3392ce5d-db80-4085-8821-57b2ec3ddf36][thermal cooling units]] were met ahead of schedule, with surplus supplies allocated for follow-on works.
+
+[[id:f1e8e9e3-3fcb-403f-ad6c-7c92d236d9ec][Hermine Delarue]], Executive Operative of [[id:51896752-85c1-4c4c-8fc0-814386d4447d][Deep Space Surveys]], issued the following statement:
+
+“Commanders have once again demonstrated that the exploration community can build as well as discover. The core requisition targets are complete, the site has been fully surveyed, and our teams can now begin calibrating deep-range survey systems.”
+
+“These foundations will support exploration efforts well beyond established scouting routes, with [[id:51896752-85c1-4c4c-8fc0-814386d4447d][Deep Space Surveys]] continuing its work at the frontier.”
+
+[[id:8f462e69-bbdc-479f-95f6-4e2794069d6a][Timotheus Haddard]], quartermaster for the [[id:dbb9956e-5ae2-4c27-94f7-670f0a4719f9][Distant Worlds]] support carrier, also commented on the outcome:
+
+“The logistical demands were significant and timelines were tight, but the response from independent pilots exceeded expectations. Material convoys arrived on schedule, and coordination between haulers and escort wings ensured steady delivery throughout the campaign.”
+
+Contributing pilots can now collect their rewards at [[id:8be92ba6-94e2-4dfa-a6f8-7af69c0da9f3][Surveyor’s Reach]] in [[id:8c06b988-9dc6-471b-9e10-42068f677353][Alrai]].
+
+A technical briefing on the completed works will be released once the new station has been deployed, which due to its deep space location, is estimated for March 3312.
+
+Meanwhile, the [[id:b1b57ce2-5c91-46b6-87aa-c3f1fa29838c][Distant Worlds III expedition]] is set to begin tomorrow, departing from the [[id:cc382abe-7274-49e9-a224-01da1d18b613][NGC 1981 Sector ZU-Y d27]] system. All Commanders wishing to participate have been invited to join the expedition.
