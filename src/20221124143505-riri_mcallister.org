@@ -3,7 +3,7 @@
 :ROAM_ALIASES: Nexus
 :END:
 #+title: Riri McAllister
-#+filetags: :Individual:
+#+filetags: :3304:Individual:
 
 Officer in the [[id:17d9294e-7759-4cf4-9a67-5f12b5704f51][Alliance Defence Force]] from
 [[id:ff595332-6a13-4f69-ae2f-cc0a0df8e741][Lave]]. She was appointed to the
