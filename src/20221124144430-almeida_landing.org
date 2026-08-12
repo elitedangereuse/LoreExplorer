@@ -55,6 +55,8 @@ At least they' re paying me well. That's something.
 
 [[file:audio/Settlements/Almeida Landing/Reverse-Engineered-1-6.ogg]]
 
+[[file:img/settlements/Almeida Landing/reverse-engineered-1-6.png]]
+
 #+begin_quote
 REVERSE-ENGINEERED 2/6
 
@@ -68,6 +70,8 @@ I've made a small amount of progress, but it's always two steps forward, three s
 #+end_quote
 
 [[file:audio/Settlements/Almeida Landing/Reverse-Engineered-2-6.ogg]]
+
+[[file:img/settlements/Almeida Landing/reverse-engineered-2-6.png]]
 
 #+begin_quote
 REVERSE-ENGINEERED 3/6
@@ -85,6 +89,9 @@ I want to get a prototype up and running as soon as possible. Something tells me
 
 [[file:audio/Settlements/Almeida Landing/Reverse-Engineered-3-6.ogg]]
 
+[[file:img/settlements/Almeida Landing/reverse-engineered-3-6a.png]]
+[[file:img/settlements/Almeida Landing/reverse-engineered-3-6b.png]]
+
 #+begin_quote
 REVERSE-ENGINEERED 4/6
 
@@ -101,6 +108,9 @@ Granted, the [[id:a1376710-92d7-4eee-9c26-b36bac8bbf33][wormhole]] is stable, bu
 
 [[file:audio/Settlements/Almeida Landing/Reverse-Engineered-4-6.ogg]]
 
+[[file:img/settlements/Almeida Landing/reverse-engineered-4-6a.png]]
+[[file:img/settlements/Almeida Landing/reverse-engineered-4-6b.png]]
+
 #+begin_quote
 REVERSE-ENGINEERED 5/6
 
@@ -114,6 +124,8 @@ The wormhole was stable, but that was never a concern. The question is what will
 #+end_quote
 
 [[file:audio/Settlements/Almeida Landing/Reverse-Engineered-5-6.ogg]]
+
+[[file:img/settlements/Almeida Landing/reverse-engineered-5-6.png]]
 
 #+begin_quote
 REVERSE-ENGINEERED 6/6
@@ -134,3 +146,6 @@ It's a risky move, but what other choice do I have?
 #+end_quote
 
 [[file:audio/Settlements/Almeida Landing/Reverse-Engineered-6-6.ogg]]
+
+[[file:img/settlements/Almeida Landing/reverse-engineered-6-6a.png]]
+[[file:img/settlements/Almeida Landing/reverse-engineered-6-6b.png]]
