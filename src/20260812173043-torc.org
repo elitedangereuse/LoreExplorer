@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       831b1d7f-2742-414a-9cbf-3fca5afb3ce0
+:END:
+#+title: Torc
+#+filetags: :3305:3312:Product:
+
+Computing system produced by [[id:3e9f43fb-038f-46a6-be53-3c9af1bad474][Supratech]]. Poor sales in 3305 contributed to the company’s financial crisis before [[id:1133e15f-59dd-42b3-aaa9-12a0bf3a3287][October Consortium]] rescued it.

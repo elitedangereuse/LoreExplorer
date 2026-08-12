@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       b33acaa9-26f0-4e25-bad8-d202e113fb75
+:END:
+#+title: Artemis Exploration Suit
+#+filetags: :3305:3312:Product:
+
+Exploration suit manufactured by [[id:3e9f43fb-038f-46a6-be53-3c9af1bad474][Supratech]]. Its development continued after the company was rescued by [[id:1133e15f-59dd-42b3-aaa9-12a0bf3a3287][October Consortium]] in 3305.

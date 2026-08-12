@@ -2,7 +2,7 @@
 :ID:       3e9f43fb-038f-46a6-be53-3c9af1bad474
 :END:
 #+title: Supratech
-#+filetags: :Corporation:
+#+filetags: :3305:3312:Corporation:
 
 * Supratech
 
@@ -50,3 +50,5 @@ failing start-ups, October had already rescued several corporations that
 had gone on to enjoy significant success. Her interest in Supratech
 heartened fellow investors, allowing the corporation not only to remain
 in business, but to diversify into other areas of tech.
+
+The investment followed poor sales of Supratech’s [[id:831b1d7f-2742-414a-9cbf-3fca5afb3ce0][Torc]] computing system and enabled further development of products including the [[id:b33acaa9-26f0-4e25-bad8-d202e113fb75][Artemis exploration suit]].
