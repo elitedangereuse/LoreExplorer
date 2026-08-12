@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       f9d68265-463c-48dc-8b88-9ed1dd4989c7
+:END:
+#+title: Mk II Plasma Shock Accelerator
+#+filetags: :3312:Weapon:
+
+New combat hardpoint weapon that can be fitted to the [[id:e8a1cc47-c48a-4269-8ee1-726757a9547e][Kestrel]], announced by [[id:4a28463f-cbed-493b-9466-70cbc6e19662][Core Dynamics]] in 3312.
