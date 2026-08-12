@@ -3,4 +3,6 @@
 :ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Duamta
 :END:
 #+title: Duamta
-#+filetags: :System:
+#+filetags: :3312:System:
+
+[[id:77d1e47c-b2b7-4475-b075-7e2cbf079f07][Polyakov Station]] hosted registration for [[id:4a28463f-cbed-493b-9466-70cbc6e19662][Core Dynamics]]’ 3312 [[id:e8a1cc47-c48a-4269-8ee1-726757a9547e][Kestrel]] combat-capability tests.
