@@ -2,5 +2,6 @@
 :ID:       b9519a7c-f00b-4a57-9bcf-964258bdd2d8
 :END:
 #+title: Winking Cat
-#+filetags: :Individual:
+#+filetags: :3307:3312:Individual:
 
+Master thief who stole a priceless artefact during a [[id:63f2962b-371f-4475-bbd1-0314201d15c0][Lexi October]]-hosted [[id:d6578a29-4aa4-47d9-b3b2-22d0bc6c2234][Jokers’ Deck]] gathering in 3307.

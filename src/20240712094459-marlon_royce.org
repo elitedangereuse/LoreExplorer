@@ -2,5 +2,6 @@
 :ID:       d4e49144-20cb-468e-b3ce-f594c2b5bf13
 :END:
 #+title: Marlon Royce
-#+filetags: :Individual:
-Business analyst
+#+filetags: :3312:Individual:
+
+Business analyst for [[id:4ab0f53c-0b85-43a3-83ca-b9e88c0db30e][Vox Galactica]]. In 3312, Royce profiled [[id:63f2962b-371f-4475-bbd1-0314201d15c0][Lexi October]] and the influence of [[id:1133e15f-59dd-42b3-aaa9-12a0bf3a3287][October Consortium]].
