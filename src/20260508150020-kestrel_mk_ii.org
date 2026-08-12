@@ -1,9 +1,10 @@
 :PROPERTIES:
 :ID:       e8a1cc47-c48a-4269-8ee1-726757a9547e
 :ROAM_REFS: https://www.elitedangerous.com/equipment/starships/kestrel-mk-ii
+:ROAM_ALIASES: "Kestrel"
 :END:
 #+title: Kestrel MK II
-#+filetags: :ship:
+#+filetags: :3312:ship:
 
 * Shipyard Stats
 - Fighter bay: No
@@ -18,3 +19,5 @@
 - Dimensions: 9.07 m high, 49.4 m long, 40.01 m wide
 
 [[file:img/ships/forc_fdev_v_smallcombat01_nx_bundle_001-base.jpeg]]
+
+[[id:4a28463f-cbed-493b-9466-70cbc6e19662][Core Dynamics]] announced the Kestrel’s limited release in 3312 as a small combat ship whose stated specifications include supercharged [[id:46a9c980-af48-4e43-a820-9971d7c76c34][Frame Shift Drives]] and compatibility with the [[id:f9d68265-463c-48dc-8b88-9ed1dd4989c7][Mk II Plasma Shock Accelerator]].

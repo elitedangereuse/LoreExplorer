@@ -2,7 +2,7 @@
 :ID:       4a28463f-cbed-493b-9466-70cbc6e19662
 :END:
 #+title: Core Dynamics
-#+filetags: :Federation:Corporation:
+#+filetags: :3312:Federation:Corporation:
 
 * [[id:4a28463f-cbed-493b-9466-70cbc6e19662][Core Dynamics]]
 
@@ -31,3 +31,4 @@ its research-and-development branch. In the ongoing quest for more
 robust and effective ship designs, there is no substitute for data
 gleaned from genuine combat encounters.
 
+In 3312, Core Dynamics announced the limited release of the [[id:e8a1cc47-c48a-4269-8ee1-726757a9547e][Kestrel]] combat ship, whose stated specifications include supercharged [[id:46a9c980-af48-4e43-a820-9971d7c76c34][Frame Shift Drives]] and compatibility with the [[id:f9d68265-463c-48dc-8b88-9ed1dd4989c7][Mk II Plasma Shock Accelerator]].
