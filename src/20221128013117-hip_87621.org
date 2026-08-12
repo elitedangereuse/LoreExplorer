@@ -14,3 +14,5 @@ On 13 Nov 3311, access to the system was granted to licensed [[id:131aabdf-0ed8-
 [[id:64e3ad83-30b5-41fc-bde5-8eb63c38ab83][HIP 87621]] remains permit locked, but the permit is now granted to licensed [[id:131aabdf-0ed8-4ce2-beec-94c77a8c41d2][Pilots' Federation]] members.
 
 In 3312, forces aligned with several Imperial and Alliance leaders announced the informal [[id:6fc24809-0ded-4f15-bfd1-c1042b2fd523][HIP 87621 Non-Aggression Pact]] to reduce hostilities across the enclave.
+
+Later in 3312, the [[id:cf1770d3-2354-433b-83a6-dc384ea84bfd][October Accords]] ended large-scale hostilities in the [[id:d4bc10a0-a815-4bb8-8ce4-badb75a95540][HIP 87621 Enclave Conflict]] and placed the system under the custodianship of [[id:1133e15f-59dd-42b3-aaa9-12a0bf3a3287][October Consortium]].

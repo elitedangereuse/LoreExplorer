@@ -3,3 +3,6 @@
 :ROAM_ALIASES: "Holloway Institute"
 :END:
 #+title: Holloway Bioscience Institute
+#+filetags: :3312:Organisation:
+
+Research institute employing [[id:d5ca99a6-ded7-43fb-bc1e-83a622b49c50][Roy Casimir]]. Its promising 3312 genetic findings on [[id:2025d30d-570c-4b01-bde9-116e0f1e4080][Radicoida unica]] informed scientific-access discussions during the [[id:cf1770d3-2354-433b-83a6-dc384ea84bfd][October Accords]].

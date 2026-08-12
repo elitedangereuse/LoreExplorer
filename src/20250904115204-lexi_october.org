@@ -2,6 +2,8 @@
 :ID:       63f2962b-371f-4475-bbd1-0314201d15c0
 :END:
 #+title: Lexi October
-#+filetags: :Individual:
+#+filetags: :3312:Individual:
 
 Multi-billionaire investor and head of the [[id:1133e15f-59dd-42b3-aaa9-12a0bf3a3287][October Consortium]]. She is also known for rescuing [[id:3e9f43fb-038f-46a6-be53-3c9af1bad474][Supratech]] from bankruptcy.
+
+Her influence and the Consortium’s role in the [[id:cf1770d3-2354-433b-83a6-dc384ea84bfd][October Accords]] became a subject of interest to [[id:4ab0f53c-0b85-43a3-83ca-b9e88c0db30e][Vox Galactica]] in 3312.
