@@ -2,3 +2,6 @@
 :ID:       1133e15f-59dd-42b3-aaa9-12a0bf3a3287
 :END:
 #+title: October Consortium
+#+filetags: :3312:Organisation:
+
+Corporation led by [[id:63f2962b-371f-4475-bbd1-0314201d15c0][Lexi October]]. In 3312, the [[id:cf1770d3-2354-433b-83a6-dc384ea84bfd][October Accords]] placed [[id:64e3ad83-30b5-41fc-bde5-8eb63c38ab83][HIP 87621]] under its custodianship, with responsibility for system security and commercial rights.

@@ -2,8 +2,10 @@
 :ID:       ae881c45-0bcf-4bf5-ae1c-21bb3ad22b29
 :END:
 #+title: Radicoida unica
-#+filetags: :3311:Exobiology:Species:
+#+filetags: :3311:3312:Exobiology:Species:
 
 Radicoida unica is an exobiological species associated with the 49-system enclave surrounding [[id:64e3ad83-30b5-41fc-bde5-8eb63c38ab83][HIP 87621]]. During the conflict over the enclave in December 3311, [[id:4ab0f53c-0b85-43a3-83ca-b9e88c0db30e][Vox Galactica]] reported that [[id:91b3e6e1-62aa-4d85-a93a-1d64765a8729][Vista Genomics]] had confirmed it to be a wholly unique species. [[id:a1e4051c-860d-4e63-9053-07da0efe9e3b][Battle Rages On Across HIP 87621 Enclave]]
 
 That same report stated that early genetic indicators suggested potential advancements once the species is fully understood, but offered no further public detail. [[id:a1e4051c-860d-4e63-9053-07da0efe9e3b][Battle Rages On Across HIP 87621 Enclave]]
+
+In 3312, access to the species became a subject of the [[id:cf1770d3-2354-433b-83a6-dc384ea84bfd][October Accords]], which followed promising genetic findings by [[id:d5ca99a6-ded7-43fb-bc1e-83a622b49c50][Roy Casimir]] of the [[id:3d9b071c-c232-431f-8f63-5c3a594b9909][Holloway Bioscience Institute]].

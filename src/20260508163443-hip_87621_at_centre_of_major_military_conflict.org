@@ -2,7 +2,7 @@
 :ID:       b94c65f6-e1a1-4173-9778-7521b548f954
 :END:
 #+title: HIP 87621 At Centre of Major Military Conflict
-#+filetags: :3311:galnet:
+#+filetags: :3311:Alliance:Empire:Federation:galnet:
 
 * HIP 87621 At Centre of Major Military Conflict
 
@@ -10,7 +10,7 @@
 
 [[id:639e4adf-a977-44b2-ad57-dbc51fe83e36][Exobiological]] data delivered to [[id:c3b39668-e5bc-48d7-ab11-fc031e720fd2][Exogene Sciences]] in [[id:64e3ad83-30b5-41fc-bde5-8eb63c38ab83][HIP 87621]] have confirmed that a new species of flora with unique properties has been discovered on several bodies.
 
-[[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][Allied]], [[id:77cf2f14-105e-4041-af04-1213f3e7383c][Imperial]], [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][Federal]] and [[id:e0a6f2e0-36a9-4c35-b837-4ac3c6fc67a9][Independent]] Powers have now deployed fleets to secure control of the enclave surrounding [[id:64e3ad83-30b5-41fc-bde5-8eb63c38ab83][HIP 87621]] following the discovery of [[id:2025d30d-570c-4b01-bde9-116e0f1e4080][Radicoida unica]], with reports of the rival powers clashing in open combat across the region.
+[[id:1d726aa0-3e07-43b4-9b72-074046d25c3c][Allied]], [[id:77cf2f14-105e-4041-af04-1213f3e7383c][Imperial]], [[id:d56d0a6d-142a-4110-9c9a-235df02a99e0][Federal]] and [[id:e0a6f2e0-36a9-4c35-b837-4ac3c6fc67a9][Independent]] Powers have now deployed fleets to secure control of the enclave surrounding [[id:64e3ad83-30b5-41fc-bde5-8eb63c38ab83][HIP 87621]] following the discovery of [[id:2025d30d-570c-4b01-bde9-116e0f1e4080][Radicoida unica]], with reports of the rival powers clashing in the [[id:d4bc10a0-a815-4bb8-8ce4-badb75a95540][HIP 87621 Enclave Conflict]].
 
 Speculation has ignited over why this flora, which has rumoured to exhibit unique bio-chemical properties during analysis, has inspired such aggressive action by all Powers. Political analysts have noted that this is the most significant military mobilisation since the [[id:9a246121-0c2e-4f21-9877-ee333d6b0d6c][Second Thargoid War]].
 
