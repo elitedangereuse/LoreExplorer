@@ -1,8 +1,7 @@
 :PROPERTIES:
 :ID:       0a5d1273-0610-43a3-ac86-5d4adce021a7
 :END:
-#+title:
-Xiona
+#+title: Xiona
 #+filetags: :Individual:
 
 Singer-songwriter
