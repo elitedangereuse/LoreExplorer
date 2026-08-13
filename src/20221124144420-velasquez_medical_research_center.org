@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       9bf3bf04-3f84-4959-afb4-a3a692cd597b
+:ROAM_REFS: https://canonn.science/codex/velasquez-medical-research-centre/
 :END:
 #+title: Velasquez Medical Research Center
 #+filetags: :Thargoid:Abandoned:
@@ -8,14 +9,11 @@
 LP 389-95 7
 [[id:f2fac611-d042-4abf-80f9-e5e0b5c9f4b8][Research Base]]
 
-The location of this facility was given in the logs found at [[id:9da44cc8-2978-4b10-ad1d-4a1a16025e0c][Hogan Depot]].¹
+The location of this facility was given in the logs found at [[id:9da44cc8-2978-4b10-ad1d-4a1a16025e0c][Hogan Depot]].
 [[id:39a31dd8-3750-4507-90b7-b649d0eeecef][INRA]]
 Thargoids
 [[id:0ffe3814-d246-41f3-8f82-4bb9ca062dea][Project Mycoid]]
 The [[id:9d2a350d-0846-46a6-8e11-e428f1a11b36][vaccine]] for the [[id:0ffe3814-d246-41f3-8f82-4bb9ca062dea][mycoid]] agent was developed here.
-
-
-¹: https://canonn.science/codex/velasquez-medical-research-centre/
 
 * People
   - [[id:fa04bdc7-94fb-442e-ba31-b7afb1b46a0f][Kiona Li]]
