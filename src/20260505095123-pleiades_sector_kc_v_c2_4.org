@@ -12,7 +12,7 @@ A listening post related to the abandoned [[id:e121d10f-8ea7-4842-8988-4b3aec463
 
 …Corrupted Transponder Signal WKD-184-C Detected…
 
-Matching Signals Detected: (Electra, Pleiades Sector PD-S 84-0)
+Matching Signals Detected: ([[id:8e9b5a29-b9a6-4987-8fcd-91234a4a0acd][Electra]], [[id:7778d101-a0ed-4943-b9a7-b93aded323d9][Pleiades Sector PD-S B4-0]])
 
 Approximate Signal Range: 23-24 LY
 

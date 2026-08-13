@@ -18,6 +18,12 @@ pad. This in inevitably fatal.
 The location of this site can be found by following the three nearby [[id:4df4a36a-20bf-43ca-9bf1-2324f832ab81][listening posts]] located in:
 [[id:8e9b5a29-b9a6-4987-8fcd-91234a4a0acd][Electra]] / [[id:7778d101-a0ed-4943-b9a7-b93aded323d9][Pleiades Sector PD-S b4-0]] / [[id:287ae6a7-95e6-4a7a-9108-01f8995753fc][Pleiades Sector KC-V c2-4]]
 
+* Trilateration results
+
+[[https://elitedangereuse.fr/outils/trilateration.php?sys1=Electra&sys2=Pleiades+Sector+PD-S+B4-0&sys3=Pleiades+Sector+KC-V+c2-4&d1=37&d2=28&d3=24&sphs=1&sphsol=1&hud=1][Trilateration of the location]]
+
+[[file:img/trilateration/trilateration_penal_colony_by_2259.png]]
+
 * Logs
 
 #+begin_quote
