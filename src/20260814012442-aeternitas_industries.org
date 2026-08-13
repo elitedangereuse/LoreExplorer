@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       e751e6ab-6ad9-473e-8c59-597412ea57ba
+:END:
+#+title: Aeternitas Industries
+#+filetags: :3302:Corporation:
+
+Organisation that offered rewards at [[id:c6e835f7-0645-4987-9fb6-5650617a5b1b][Houtman City]] for bounty vouchers during a 3302 campaign to clear [[id:8caa6742-32fd-41b6-972c-e5c7db882785][Aeternitas]] of criminals.

@@ -3,15 +3,15 @@
 :ROAM_REFS: file:../references/Community%20Goals/Restoring_Order_in_Aeternitas.md
 :END:
 #+title: Community Goal: Restoring Order in Aeternitas
-#+filetags: :CommunityGoal:3302:
+#+filetags: :CommunityGoal:2016:3302:
 
 * Location
 
-Houtman City | Aeternitas
+[[id:c6e835f7-0645-4987-9fb6-5650617a5b1b][Houtman City]] | [[id:8caa6742-32fd-41b6-972c-e5c7db882785][Aeternitas]]
 
 * Objective
 
-Hand in [[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]] at Houtman City
+Hand in [[id:5402969f-345d-420c-9025-3a0a89929d11][Bounty Vouchers]] at [[id:c6e835f7-0645-4987-9fb6-5650617a5b1b][Houtman City]]
 
 * Progress
 
@@ -33,14 +33,14 @@ Tier 7/8
 
 Finished
 
-Authorities in the Aeternitas system have reported a sharp increase in
+Authorities in the [[id:8caa6742-32fd-41b6-972c-e5c7db882785][Aeternitas]] system have reported a sharp increase in
 the number of criminals operating in the area. Reports indicate that the
 agitators are attacking pilots travelling in the system, disrupting
 trade and generally causing discord.
 
-To counter this threat, the Aeternitas Industries has placed a kill
-order on all wanted ships operating in the Aeternitas system, and has
-promised to reward pilots who deliver bounty vouchers to Houtman City.
+To counter this threat, the [[id:e751e6ab-6ad9-473e-8c59-597412ea57ba][Aeternitas Industries]] has placed a kill
+order on all wanted ships operating in the [[id:8caa6742-32fd-41b6-972c-e5c7db882785][Aeternitas]] system, and has
+promised to reward pilots who deliver bounty vouchers to [[id:c6e835f7-0645-4987-9fb6-5650617a5b1b][Houtman City]].
 
 The campaign begins on the 8th of December 3302 and will run for one
 week. If the final target is met earlier than planned, the campaign will
