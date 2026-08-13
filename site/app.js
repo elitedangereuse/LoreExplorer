@@ -3199,6 +3199,10 @@ function buildNodeTooltipMarkup(nodeId) {
 }
 
 function showNodeTooltip(nodeId, clientX, clientY) {
+  if (state.contextMenu.open) {
+    hideTooltip("node");
+    return;
+  }
   const markup = buildNodeTooltipMarkup(nodeId);
   if (!markup) {
     hideTooltip("node");
@@ -3214,7 +3218,7 @@ function showNodeTooltip(nodeId, clientX, clientY) {
 }
 
 function refreshNodeTooltip() {
-  if (!state.hoverNodeId || !state.pointer.active || state.dragging) {
+  if (!state.hoverNodeId || !state.pointer.active || state.dragging || state.contextMenu.open) {
     hideTooltip("node");
     return;
   }
@@ -5894,6 +5898,7 @@ function hideContextMenu() {
 }
 
 function showContextMenu(clientX, clientY, nodeId) {
+  hideTooltip();
   const rect = graphStage.getBoundingClientRect();
   const node = state.nodeById.get(nodeId);
   const isCustomNode = Boolean(node?.isCustom);
