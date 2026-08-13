@@ -15,3 +15,11 @@ intend to attack.
 - Eagle Eye Four: [[id:acffcea9-44ae-4689-8bc9-74f65c75e0ae][HIP 17225]] A 5
 - Eagle Eye Five: [[id:287ae6a7-95e6-4a7a-9108-01f8995753fc][Pleiades Sector KC-V c2-4]]
 - Eagle Eye Six: [[id:846bfbc7-75e7-4d8d-8716-7fe0346026f4][Pleiades Sector IR-W d1-55]] 2
+
+* Eagle Eye One
+* Eagle Eye Two
+* Eagle Eye Three
+* Eagle Eye Four
+* Eagle Eye Five
+[[file:img/installations/eagle_eye/eagle_eye_5.webp]]
+* Eagle Eye Six
