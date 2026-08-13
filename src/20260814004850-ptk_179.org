@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       a3d0103d-8d79-49be-89ef-4226ac090584
+:END:
+#+title: PTK-179
+#+filetags: :Megaship:
+
+[[id:22d1335b-3c08-4c0e-a313-6b4dd89b61b2][Hogan Class Bulk Cargo Ship]] located in the [[id:9cdea6e2-2abe-43ef-b874-44c09310f310][Electra]] system.
+
+[[file:img/ships/megaship_hogan_class_bulk_cargo/megaship_hogan_class_bulk_cargo.webp]]
