@@ -5,7 +5,7 @@
 #+title: Electra 3
 #+filetags: :ListeningPost:
 
-A listening post related to the abandoned [[id:e121d10f-8ea7-4842-8988-4b3aec463ebf][Penal Colony BV-2259]] can be found near [[https://edgis.elitedangereuse.fr/static/sysmap.html?system=Electra&body_id=4][Electra 3]].
+A listening post related to the abandoned [[id:e121d10f-8ea7-4842-8988-4b3aec463ebf][Penal Colony BV-2259]] can be found near [[https://edgis.elitedangereuse.fr/static/sysmap.html?system=Electra&body_id=4][Electra 3]] in the [[id:9cdea6e2-2abe-43ef-b874-44c09310f310][Electra]] system.
 
 #+begin_quote
 …LISTENING POST SIGNAL DATA…
