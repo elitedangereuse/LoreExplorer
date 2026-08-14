@@ -46,6 +46,8 @@ union-approved contractors from now on.
 
 [[file:audio/Settlements/Penal Colony BV 2259/In-The-Cooler-1-4.ogg]]
 
+[[file:img/settlements/Penal_Colony_BV-2259/in the cooler 1-4.webp]]
+
 #+begin_quote
 IN THE COOLER 2/4
 
@@ -67,6 +69,8 @@ far no luck. We’ll just have to wait this out and hope for the best.
 
 [[file:audio/Settlements/Penal Colony BV 2259/In-The-Cooler-2-4.ogg]]
 
+[[file:img/settlements/Penal_Colony_BV-2259/in the cooler 2-4a.webp]]
+[[file:img/settlements/Penal_Colony_BV-2259/in the cooler 2-4b.webp]]
 
 #+begin_quote
 IN THE COOLER 3/4
@@ -83,6 +87,8 @@ everything is fine. So why is it so cold in here?
 
 [[file:audio/Settlements/Penal Colony BV 2259/In-The-Cooler-3-4.ogg]]
 
+[[file:img/settlements/Penal_Colony_BV-2259/in the cooler 3-4.webp]]
+
 #+begin_quote
 IN THE COOLER 4/4
 
@@ -98,3 +104,6 @@ I don’t know, but I do know I’m freezing to death. I can’t decide what’s
 #+end_quote
 
 [[file:audio/Settlements/Penal Colony BV 2259/In-The-Cooler-4-4.ogg]]
+
+[[file:img/settlements/Penal_Colony_BV-2259/in the cooler 4-4a.webp]]
+[[file:img/settlements/Penal_Colony_BV-2259/in the cooler 4-4b.webp]]
