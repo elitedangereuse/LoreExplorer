@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       5c83393b-2d33-40db-bea2-991686af5656
+:END:
+#+title: Achlys Generation Ship
+#+filetags: :ship:
+
+[[id:951f3d20-c3aa-41cc-ba58-cc7d3a5a1d07][Generation Ships]]
+
+* Logs
+[[file:audio/GenerationShips/Achlys/Achlys-001.mp3]]
+[[file:audio/GenerationShips/Achlys/Achlys-002.mp3]]
+[[file:audio/GenerationShips/Achlys/Achlys-003.mp3]]
+[[file:audio/GenerationShips/Achlys/Achlys-004.mp3]]

@@ -7,3 +7,9 @@
 The Pleione was a [[id:951f3d20-c3aa-41cc-ba58-cc7d3a5a1d07][generation ship]] in the [[id:a775dfc5-e008-45d6-8b87-2e33224be63a][Hez Ur]] system.
 
 Its population only produced [[id:c314374f-62bf-4c29-9aed-70406006489b][male]] babies.
+
+* Logs
+[[file:audio/GenerationShips/Pleione/pleione_1of4.mp3]]
+[[file:audio/GenerationShips/Pleione/pleione_2of4.mp3]]
+[[file:audio/GenerationShips/Pleione/pleione_3of4.mp3]]
+[[file:audio/GenerationShips/Pleione/pleione_4of4.mp3]]

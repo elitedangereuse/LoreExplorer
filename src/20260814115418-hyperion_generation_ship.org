@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       e813919a-aedf-44ae-983d-bcc2450f9b3b
+:END:
+#+title: Hyperion Generation Ship
+#+filetags: :ship:
+
+[[id:951f3d20-c3aa-41cc-ba58-cc7d3a5a1d07][Generation Ships]]
+
+* Logs
+[[file:audio/GenerationShips/Hyperion/hyperion_1of5.mp3]]
+[[file:audio/GenerationShips/Hyperion/hyperion_2of5.mp3]]
+[[file:audio/GenerationShips/Hyperion/hyperion_3of5.mp3]]
+[[file:audio/GenerationShips/Hyperion/hyperion_4of5.mp3]]
+[[file:audio/GenerationShips/Hyperion/hyperion_5of5.mp3]]

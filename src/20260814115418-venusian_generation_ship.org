@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       7373589f-b9a3-4554-81ba-095266ef0459
+:END:
+#+title: Venusian Generation Ship
+#+filetags: :ship:
+
+[[id:951f3d20-c3aa-41cc-ba58-cc7d3a5a1d07][Generation Ships]]
+
+* Logs
+[[file:audio/GenerationShips/Venusian/venusian_1of4.mp3]]
+[[file:audio/GenerationShips/Venusian/venusian_2of4.mp3]]
+[[file:audio/GenerationShips/Venusian/venusian_3of4.mp3]]
+[[file:audio/GenerationShips/Venusian/venusian_4of4.mp3]]

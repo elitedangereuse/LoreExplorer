@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       9911948a-9a9b-4cf2-bc88-4ae2dc0c35c8
+:END:
+#+title: Odysseus Generation Ship
+#+filetags: :ship:
+
+[[id:951f3d20-c3aa-41cc-ba58-cc7d3a5a1d07][Generation Ships]]
+
+* Logs
+[[file:audio/GenerationShips/Odysseus/odysseus_1of5.mp3]]
+[[file:audio/GenerationShips/Odysseus/odysseus_2of5.mp3]]
+[[file:audio/GenerationShips/Odysseus/odysseus_3of5.mp3]]
+[[file:audio/GenerationShips/Odysseus/odysseus_4of5.mp3]]
+[[file:audio/GenerationShips/Odysseus/odysseus_5of5.mp3]]

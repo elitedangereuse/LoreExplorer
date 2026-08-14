@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       c6d6440e-321b-4b77-a1aa-85215c7a7ad3
+:END:
+#+title: Epimetheus Generation Ship
+#+filetags: :ship:
+
+[[id:951f3d20-c3aa-41cc-ba58-cc7d3a5a1d07][Generation Ships]]
+
+* Logs
+[[file:audio/GenerationShips/Epimetheus/Epimetheus-001.mp3]]
+[[file:audio/GenerationShips/Epimetheus/Epimetheus-002.mp3]]
+[[file:audio/GenerationShips/Epimetheus/Epimetheus-003.mp3]]
+[[file:audio/GenerationShips/Epimetheus/Epimetheus-004.mp3]]

@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       76f7ffdb-fcd7-4dce-9df5-55341f943489
+:END:
+#+title: Phanes Generation Ship
+#+filetags: :ship:
+
+[[id:951f3d20-c3aa-41cc-ba58-cc7d3a5a1d07][Generation Ships]]
+
+* Logs
+[[file:audio/GenerationShips/Phanes/Phanes-001.mp3]]
+[[file:audio/GenerationShips/Phanes/Phanes-002.mp3]]
+[[file:audio/GenerationShips/Phanes/Phanes-003.mp3]]
+[[file:audio/GenerationShips/Phanes/Phanes-004.mp3]]

@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       4e6d763d-5869-40e8-bd69-0e4a27a8767b
+:END:
+#+title: Atlas Generation Ship
+#+filetags: :ship:
+
+[[id:951f3d20-c3aa-41cc-ba58-cc7d3a5a1d07][Generation Ships]]
+
+* Logs
+[[file:audio/GenerationShips/Atlas/atlas_1of5.mp3]]
+[[file:audio/GenerationShips/Atlas/atlas_2of5.mp3]]
+[[file:audio/GenerationShips/Atlas/atlas_3of5.mp3]]
+[[file:audio/GenerationShips/Atlas/atlas_4of5.mp3]]
+[[file:audio/GenerationShips/Atlas/atlas_5of5.mp3]]

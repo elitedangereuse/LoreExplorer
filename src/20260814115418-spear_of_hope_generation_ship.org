@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       0c3d6049-ec89-4c00-bf62-ac827238ac5c
+:END:
+#+title: Spear of Hope Generation Ship
+#+filetags: :ship:
+
+[[id:951f3d20-c3aa-41cc-ba58-cc7d3a5a1d07][Generation Ships]]
+
+* Logs
+[[file:audio/GenerationShips/Spear of Hope/Spear of Hope-001.mp3]]
+[[file:audio/GenerationShips/Spear of Hope/Spear of Hope-002.mp3]]
+[[file:audio/GenerationShips/Spear of Hope/Spear of Hope-003.mp3]]
+[[file:audio/GenerationShips/Spear of Hope/Spear of Hope-004.mp3]]
