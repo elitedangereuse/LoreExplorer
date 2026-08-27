@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       05ab22a7-9952-49a3-bdc0-45094cdaff6a
+:ROAM_ALIASES: Simguru
 :END:
 #+title: Pranav Antal
 #+filetags: :KnowledgeBase:Individual:
