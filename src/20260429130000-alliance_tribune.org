@@ -1,0 +1,12 @@
+#+title: Alliance Tribune
+#+filetags: :Corporation:Alliance:
+:PROPERTIES:
+:ID:       3b7e0864-70cd-44a6-9536-64f7c32e4458
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Alliance_Tribune
+:END:
+
+* Fandom list entry
+- Sector (GICS): Consumer Discretionary
+- Allegiance: Alliance
+
+The primary newsfeed of the Alliance.
