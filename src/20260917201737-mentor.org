@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       64096003-ca4b-493c-9900-cf695c791f71
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Mentor
+:END:
+#+title: Mentor
+#+filetags: :3301:System:
+
+[[id:48834867-813c-4d74-b45d-4371fae425b2][Lasswitz Terminal]] is in this system.
