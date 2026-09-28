@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       3754a854-6f4b-4bde-9002-0b333b408d87
+:END:
+#+title: Pirate Base Installation
+#+filetags: :Station:
+
+* Visual variants
+
+#+caption: apate
+[[file:img/stations/apate.webp]]
+
+#+caption: laverna
+[[file:img/stations/laverna.webp]]

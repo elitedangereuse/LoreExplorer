@@ -6,7 +6,6 @@
 
 [[id:f7819579-c6c1-4134-89c1-469ac0aa28c5][Chakpa]]
 
-Chargaff Installation is a Coriolis starport built by
+Chargaff Installation is a [[id:dfcd3273-3589-4725-a75f-5f1a08adc662][Coriolis starport]] built by
 [[id:a0de9a01-d94e-43bd-8bd4-4c607c6c21e0][Steel Castle Inc]] during the 3306
 fleet-carrier support initiative.
-

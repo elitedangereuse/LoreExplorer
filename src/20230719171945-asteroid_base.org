@@ -1,4 +1,12 @@
 :PROPERTIES:
 :ID:       6bad119c-8741-4fa1-b202-b64d615f59ef
 :END:
-#+title: Asteroid Base
+#+title: Asteroid Starport
+#+filetags: :Station:
+
+Type of starport.
+
+* Visual variants
+
+#+caption: asteroid
+[[file:img/stations/asteroid.webp]]

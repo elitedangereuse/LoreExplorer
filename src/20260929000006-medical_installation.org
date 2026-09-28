@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       84ee4b9d-08c0-4725-9bbf-a6e38386ab07
+:END:
+#+title: Medical Installation
+#+filetags: :Station:
+
+* Visual variants
+
+#+caption: asclepius
+[[file:img/stations/asclepius.webp]]
+
+#+caption: eupraxia
+[[file:img/stations/eupraxia.webp]]

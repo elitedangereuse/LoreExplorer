@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       26a2bd7d-8ce3-4a08-9ad5-224f944877a2
+:END:
+#+title: Mining/Industrial Installation
+#+filetags: :Station:
+
+* Visual variants
+
+#+caption: euthenia
+[[file:img/stations/euthenia.webp]]
+
+#+caption: phorcys
+[[file:img/stations/phorcys.webp]]

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       1db95e34-1c27-4c92-af18-eca96a37a4da
+:END:
+#+title: Tourist Installation
+#+filetags: :Station:
+
+* Visual variants
+
+#+caption: hedone
+[[file:img/stations/hedone.webp]]
+
+#+caption: opora
+[[file:img/stations/opora.webp]]
+
+#+caption: pasithea
+[[file:img/stations/pasithea.webp]]

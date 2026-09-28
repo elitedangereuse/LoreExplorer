@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       d262e482-1a57-4eaa-a3dc-5d9ca91b1b88
+:END:
+#+title: Communication Installation
+#+filetags: :Station:
+
+* Visual variants
+
+#+caption: aletheia
+[[file:img/stations/aletheia.webp]]
+
+#+caption: pistis
+[[file:img/stations/pistis.webp]]
+
+#+caption: soter
+[[file:img/stations/soter.webp]]

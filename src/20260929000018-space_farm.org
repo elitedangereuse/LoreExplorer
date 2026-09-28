@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       1c28fa68-9e99-4d79-bc64-38038b1838da
+:END:
+#+title: Space Farm
+#+filetags: :Station:
+
+* Visual variants
+
+#+caption: demeter
+[[file:img/stations/demeter.webp]]

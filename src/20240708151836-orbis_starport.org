@@ -6,4 +6,10 @@
 
 Type of starport.
 
-[[file:img/stations/orbis.png]]
+* Visual variants
+
+#+caption: apollo
+[[file:img/stations/apollo.webp]]
+
+#+caption: artemis
+[[file:img/stations/artemis.webp]]

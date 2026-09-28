@@ -12,7 +12,7 @@ reached its final destination of [[id:80ea667a-62b4-4082-bed0-ce253d76869b][Beag
 of the expedition was to unravel the mysteries of the galaxy, and to
 construct a starport at [[id:84d9b01d-a9d6-47d9-b9f9-f6154233e585][Sagittarius A*]]. During their journey, the
 [[id:dbb9956e-5ae2-4c27-94f7-670f0a4719f9][Distant Worlds]] fleet constructed the Explorer's Anchorage starport to
-serve as a scientific research installation and a safe haven for
+serve as a scientific [[id:96d6c67a-4d8e-402e-9b03-69541e0fbab0][research installation]] and a safe haven for
 explorers.
 
 [[file:img/beacons/ER08.PNG]]

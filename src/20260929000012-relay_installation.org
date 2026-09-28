@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       161f2e90-62d8-4945-8637-44ae854384ee
+:END:
+#+title: Relay Installation
+#+filetags: :Station:
+
+* Visual variants
+
+#+caption: enodia
+[[file:img/stations/enodia.webp]]
+
+#+caption: ichnaea
+[[file:img/stations/ichnaea.webp]]

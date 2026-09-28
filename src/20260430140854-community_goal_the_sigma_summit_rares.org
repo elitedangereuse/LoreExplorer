@@ -65,7 +65,7 @@ prevent the initiative from running smoothly.
 [Notes:\\\\](Notes:\\) Source systems:
 •[[id:f055b562-88b2-4eab-b160-18ac63d812a6][Master Chefs]]: Weber Gateway in [[id:d8f9e754-4f57-4123-b488-118f0755df72][Noti]] ([[id:dfcd3273-3589-4725-a75f-5f1a08adc662][Coriolis]] starport, S/M/L pads, 74
 Ls, 89.6 Ly from [[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]]) - max allocation 13t
-•[[id:fad057f3-a5e3-4dad-a5ab-f2b471a14862][Kamitra Cigars]]: [[id:dd7725b4-1f2a-4796-a30f-530deb3c89e2][Hammel Terminal]] in [[id:5201be15-41e2-427b-b5de-d2d32d5ec78d][Kamitra]] (Orbis starport, S/M/L pads,
+•[[id:fad057f3-a5e3-4dad-a5ab-f2b471a14862][Kamitra Cigars]]: [[id:dd7725b4-1f2a-4796-a30f-530deb3c89e2][Hammel Terminal]] in [[id:5201be15-41e2-427b-b5de-d2d32d5ec78d][Kamitra]] ([[id:d5cc8c3e-9887-4c30-9a1d-08008ab36675][Orbis starport]], S/M/L pads,
 84 Ls, 194.28 Ly from [[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]]) - max allocation 33t
 •[[id:fab50169-a9a4-47f2-ad9b-5b8370f53041][Sanuma Decorative Meat]]: [[id:37409f97-18ba-412c-b245-379368fe4e71][Dunyach Gateway]] in [[id:e287d9e5-f8ce-41a3-918a-42698aa7d871][Sanuma]] ([[id:dfcd3273-3589-4725-a75f-5f1a08adc662][Coriolis]] starport,
 pads, 5,521 Ls, 183.2 Ly from [[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]]) - max allocation 24t

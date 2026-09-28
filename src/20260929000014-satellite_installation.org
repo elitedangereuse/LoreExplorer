@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       1178c19f-2dd2-4d9e-9d9a-29c79bf82c3c
+:END:
+#+title: Satellite Installation
+#+filetags: :Station:
+
+* Visual variants
+
+#+caption: angelia
+[[file:img/stations/angelia.webp]]
+
+#+caption: eirene
+[[file:img/stations/eirene.webp]]
+
+#+caption: hermes
+[[file:img/stations/hermes.webp]]

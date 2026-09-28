@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       688abb27-60b0-4c35-840b-784c32abd7f6
+:END:
+#+title: Security Installation
+#+filetags: :Station:
+
+* Visual variants
+
+#+caption: dicaeosyne
+[[file:img/stations/dicaeosyne.webp]]
+
+#+caption: eunomia
+[[file:img/stations/eunomia.webp]]
+
+#+caption: nomos
+[[file:img/stations/nomos.webp]]
+
+#+caption: poena
+[[file:img/stations/poena.webp]]

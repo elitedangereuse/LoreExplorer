@@ -59,7 +59,7 @@ Be aware that faction-state changes, UA bombing and other disruptive
 events can negatively impact markets and station services, and could
 prevent the initiative from running smoothly.
 
-[Notes:\\\\](Notes:\\) [[id:0ee60994-364c-41b9-98ca-993d041cea72][Maia]] \[[[id:91d67012-ad47-4b75-aac1-dba7c70e671c][Moni's Hub]]\] (Industrial Outpost, no
+[Notes:\\\\](Notes:\\) [[id:0ee60994-364c-41b9-98ca-993d041cea72][Maia]] \[[[id:91d67012-ad47-4b75-aac1-dba7c70e671c][Moni's Hub]]\] ([[id:f3ce55c0-897c-4964-a936-c337501ee5d8][Industrial Outpost]], no
 large pads available) --- station is OPEN again !!!
 
 Current Participation Rewards:

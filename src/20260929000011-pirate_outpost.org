@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       c373f6a6-f8d3-4d79-ab41-ea1657daa4f5
+:END:
+#+title: Pirate Outpost
+#+filetags: :Station:
+
+* Visual variants
+
+#+caption: dysnomia
+[[file:img/stations/dysnomia.webp]]

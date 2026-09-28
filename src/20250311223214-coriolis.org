@@ -1,8 +1,18 @@
 :PROPERTIES:
 :ID:       dfcd3273-3589-4725-a75f-5f1a08adc662
 :END:
-#+title: Coriolis
+#+title: Coriolis Starport
+#+filetags: :Station:
 
 Type of starport.
 
-[[file:img/stations/coriolis.png]]
+* Visual variants
+
+#+caption: no truss
+[[file:img/stations/no_truss.webp]]
+
+#+caption: dual truss
+[[file:img/stations/dual_truss.webp]]
+
+#+caption: quad truss
+[[file:img/stations/quad_truss.webp]]

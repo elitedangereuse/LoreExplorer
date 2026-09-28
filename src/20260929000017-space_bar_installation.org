@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       77ce2c0f-ddd0-4b41-bfde-8129bd44bf34
+:END:
+#+title: Space Bar Installation
+#+filetags: :Station:
+
+* Visual variants
+
+#+caption: bacchus
+[[file:img/stations/bacchus.webp]]
+
+#+caption: dionysus
+[[file:img/stations/dionysus.webp]]

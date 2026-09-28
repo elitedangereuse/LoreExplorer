@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       f3ce55c0-897c-4964-a936-c337501ee5d8
+:END:
+#+title: Industrial Outpost
+#+filetags: :Station:
+
+* Visual variants
+
+#+caption: vulcan
+[[file:img/stations/vulcan.webp]]

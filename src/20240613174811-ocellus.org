@@ -1,5 +1,12 @@
 :PROPERTIES:
 :ID:       5700c476-8bf4-4710-90d9-1e5988bf6048
 :END:
-#+title: Ocellus
+#+title: Ocellus Starport
+#+filetags: :Station:
 
+Type of starport.
+
+* Visual variants
+
+#+caption: ocellus
+[[file:img/stations/ocellus.webp]]

@@ -4,4 +4,4 @@
 #+title: The Sentinel
 #+filetags: :Settlement:
 
-Military installation of [[id:85d9e888-3f5b-40ed-b8af-2eb87e42b0d0][Aegis]]
+[[id:bc7e81d2-d06e-4649-aa32-caa07f2438bf][Military installation]] of [[id:85d9e888-3f5b-40ed-b8af-2eb87e42b0d0][Aegis]]

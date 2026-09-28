@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       6e528375-295f-4b7d-808e-d4c107518c37
+:END:
+#+title: Government Installation
+#+filetags: :Station:
+
+* Visual variants
+
+#+caption: harmonia
+[[file:img/stations/harmonia.webp]]

@@ -4,5 +4,4 @@
 #+title: Timothy Brewer
 #+filetags: :Individual:
 
-Timothy Brewer designed the first Coriolis starport for [[id:d9459015-dae3-4233-9eb7-a2fb11344097][Brewer Corporation]].
-
+Timothy Brewer designed the first [[id:dfcd3273-3589-4725-a75f-5f1a08adc662][Coriolis starport]] for [[id:d9459015-dae3-4233-9eb7-a2fb11344097][Brewer Corporation]].

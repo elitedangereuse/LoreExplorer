@@ -5,5 +5,5 @@
 #+title: MEL 22 Sector GM-V c2-8
 #+filetags: :System:
 
-The planned site of an Ocellus starport intended to support travel to
+The planned site of an [[id:5700c476-8bf4-4710-90d9-1e5988bf6048][Ocellus starport]] intended to support travel to
 the [[id:6fee136e-381f-47a2-ba13-6d74c8798803][California Nebula]].

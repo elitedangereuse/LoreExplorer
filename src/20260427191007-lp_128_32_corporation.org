@@ -5,5 +5,4 @@
 #+filetags: :Alliance:Corporation:
 
 The LP 128-32 Corporation oversaw an Alliance initiative to construct
-an Orbis starport in [[id:fd4456a5-20f9-45dc-9d7e-84114b4c251f][Synuefai EB-R c7-5]].
-
+an [[id:d5cc8c3e-9887-4c30-9a1d-08008ab36675][Orbis starport]] in [[id:fd4456a5-20f9-45dc-9d7e-84114b4c251f][Synuefai EB-R c7-5]].

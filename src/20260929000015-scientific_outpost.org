@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       f0c54b33-309d-4ae1-8c97-5510c7bda95a
+:END:
+#+title: Scientific Outpost
+#+filetags: :Station:
+
+* Visual variants
+
+#+caption: prometheus
+[[file:img/stations/prometheus.webp]]

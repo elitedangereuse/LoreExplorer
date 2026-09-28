@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       76893707-f088-4ae3-b414-f15552abf407
+:END:
+#+title: Military Outpost
+#+filetags: :Station:
+
+* Visual variants
+
+#+caption: nemesis
+[[file:img/stations/nemesis.webp]]

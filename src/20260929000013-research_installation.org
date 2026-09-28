@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       96d6c67a-4d8e-402e-9b03-69541e0fbab0
+:END:
+#+title: Research Installation
+#+filetags: :Station:
+
+* Visual variants
+
+#+caption: astraeus
+[[file:img/stations/astraeus.webp]]
+
+#+caption: coeus
+[[file:img/stations/coeus.webp]]
+
+#+caption: dione
+[[file:img/stations/dione.webp]]
+
+#+caption: dodona
+[[file:img/stations/dodona.webp]]

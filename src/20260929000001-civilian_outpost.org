@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       d5368d83-f8ee-427c-b7df-399bcf0443eb
+:END:
+#+title: Civilian Outpost
+#+filetags: :Station:
+
+* Visual variants
+
+#+caption: vesta
+[[file:img/stations/vesta.webp]]

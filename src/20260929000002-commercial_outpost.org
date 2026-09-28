@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       57d37e1f-3493-479b-b67d-f91ae1611c48
+:END:
+#+title: Commercial Outpost
+#+filetags: :Station:
+
+* Visual variants
+
+#+caption: plutus
+[[file:img/stations/plutus.webp]]

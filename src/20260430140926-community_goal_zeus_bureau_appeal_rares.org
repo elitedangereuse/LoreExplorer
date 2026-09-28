@@ -74,8 +74,8 @@ Top 75%: 6,772,147CR
 Top 100%: 800,000 CR
 
 [Notes:\\\\](Notes:\\) Source systems: Zeus - KatherineB { 145 ls }
-•[[id:e6a70682-d2bd-48e3-aec8-b3c1066cdf30][Giant Irukama Snails]]: { 157 ly } [[id:76048bd8-7a18-4d77-bf77-ae23a5268d20][Irukama]] - [[id:0f682543-78e3-4181-bbb9-46b085deb122][Blaauw City]] (Orbis starport,
+•[[id:e6a70682-d2bd-48e3-aec8-b3c1066cdf30][Giant Irukama Snails]]: { 157 ly } [[id:76048bd8-7a18-4d77-bf77-ae23a5268d20][Irukama]] - [[id:0f682543-78e3-4181-bbb9-46b085deb122][Blaauw City]] ([[id:d5cc8c3e-9887-4c30-9a1d-08008ab36675][Orbis starport]],
 large pads, 325 Ls,) - max allocation 16t
-•[[id:fad057f3-a5e3-4dad-a5ab-f2b471a14862][Kamitra Cigars]]: { 159 ly } [[id:5201be15-41e2-427b-b5de-d2d32d5ec78d][Kamitra]] - [[id:dd7725b4-1f2a-4796-a30f-530deb3c89e2][Hammel Terminal]] (Orbis starport,
+•[[id:fad057f3-a5e3-4dad-a5ab-f2b471a14862][Kamitra Cigars]]: { 159 ly } [[id:5201be15-41e2-427b-b5de-d2d32d5ec78d][Kamitra]] - [[id:dd7725b4-1f2a-4796-a30f-530deb3c89e2][Hammel Terminal]] ([[id:d5cc8c3e-9887-4c30-9a1d-08008ab36675][Orbis starport]],
 large pads, 83 Ls) - max allocation 33t
 •[[id:5efc49f5-465f-4dd8-afaa-b6bb3595a58c][Lavian Brandy]]: { 150 ly } - [[id:10b9df10-b4c7-449a-9c50-4ad011256417][Lave Station]] ([[id:dfcd3273-3589-4725-a75f-5f1a08adc662][Coriolis]] starport, large

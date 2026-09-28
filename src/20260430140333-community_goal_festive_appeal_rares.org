@@ -59,7 +59,7 @@ prevent the initiative from running smoothly.
 
 [Notes:\\\\](Notes:\\) Supply system:
 [[id:aea6f093-b65a-4a23-b818-4cabf62b555d][Frost Dock]] in the [[id:11660275-7ed5-48c1-b23f-3b09f280c61e][Njambalba]] system
-- Industrial Outpost, no large pads available, no shipyard, 32,306 Ls
+- [[id:f3ce55c0-897c-4964-a936-c337501ee5d8][Industrial Outpost]], no large pads available, no shipyard, 32,306 Ls
 from main star, 156.02 Ly from [[id:6ace5ab9-af2a-4ad7-bb52-6059c0d3ab4a][Sol]]
 - Distance from source to destination: 224.82 Ly
 

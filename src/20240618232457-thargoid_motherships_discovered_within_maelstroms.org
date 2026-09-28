@@ -18,7 +18,7 @@ Exploration of the inner regions of the Maelstroms has revealed the existence of
 
 “Once past the energy wave, the initial hazard is an asteroid field that must be navigated. We cannot theorise an obvious reason why the asteroids have been gathered here. Thargoid vessels also patrol this region. Some reports indicate a previously unencountered class of Thargoid combat vessel accompanying interceptors and scouts.”
 
-“Beyond these, at the centre of each Maelstrom, is a gargantuan Thargoid structure. They dwarf any singular man-made creation, even Coriolis starports. I’ve reviewed footage provided by our pilots, and I will admit that the architecture is unsettling. Finding a way to defeat them will be our greatest challenge to date.”
+“Beyond these, at the centre of each Maelstrom, is a gargantuan Thargoid structure. They dwarf any singular man-made creation, even [[id:dfcd3273-3589-4725-a75f-5f1a08adc662][Coriolis starport]]s. I’ve reviewed footage provided by our pilots, and I will admit that the architecture is unsettling. Finding a way to defeat them will be our greatest challenge to date.”
 
 Professor [[id:3af8bb5f-63d0-4a98-b172-dcbcb70b5a4f][Shamus Madigan]] of [[id:b0f0e40a-14e9-422d-aa9d-5ff6296f3421][Orion University]], one of [[id:85d9e888-3f5b-40ed-b8af-2eb87e42b0d0][Aegis]]’s xenology specialists, added:
 

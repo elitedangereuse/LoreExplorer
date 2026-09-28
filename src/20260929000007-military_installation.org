@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       bc7e81d2-d06e-4649-aa32-caa07f2438bf
+:END:
+#+title: Military Installation
+#+filetags: :Station:
+
+* Visual variants
+
+#+caption: alastor
+[[file:img/stations/alastor.webp]]
+
+#+caption: vacuna
+[[file:img/stations/vacuna.webp]]
