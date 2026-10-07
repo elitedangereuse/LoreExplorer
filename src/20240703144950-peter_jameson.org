@@ -13,8 +13,14 @@ Piloting a [[id:83299a14-b6b0-4670-ba39-2914e05ed2f5][Cobra Mk III]]
 
 The wreckage of Jameson's ship was found in the [[id:633a799b-8c05-4136-8f94-cf169eab515f][Riedquat]] system on 11 November 3199. He was presumed killed in combat after a "misunderstanding" over stolen goods.
 
-The *Frontier: Elite II* manual misspells the system as "Reidquat"; the canonical system name is Riedquat.
+The *Frontier: Elite II* manual misspells the system as “Reidquat”; the canonical system name is Riedquat.
 
 [[file:img/logs/peter jameson/peter jameson death elite frontier.webp]]
 
 [[file:img/logs/peter jameson/peter jameson testament elite frontier.webp]]
+
+* Family
+
+The notice was addressed to [[id:8123c0fb-6b91-4dc4-8162-23a31fc31db5][J. Jameson Jnr]] and describes Peter as his grandfather. It records J. Jameson Jnr’s address as 51a South Dormitory, Fish Processing Plant 3142, Sirocco, [[id:5692fd3a-d777-457a-8d85-98649367783c][Merlin]], [[id:0f69d749-deff-4dcb-a4d5-d76707113087][Ross 154]].
+
+Peter’s 3199 death therefore postdates Commander [[id:0be96028-d995-4b52-8bb0-34f21e080bce][John Jameson]]’s death in 3151.

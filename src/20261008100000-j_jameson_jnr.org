@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       8123c0fb-6b91-4dc4-8162-23a31fc31db5
+:ROAM_ALIASES: "J. Jameson Jr."
+:ROAM_REFS: https://archive.org/details/frontier-manual/page/n1/mode/2up
+:END:
+#+title: J. Jameson Jnr
+#+filetags: :Individual:3199:
+
+The grandson of [[id:af79e12c-6bc7-42ef-ade4-688b6454308a][Peter Jameson]]. A notice dated 31 December 3199 was addressed to him at 51a South Dormitory, Fish Processing Plant 3142, Sirocco, [[id:5692fd3a-d777-457a-8d85-98649367783c][Merlin]], [[id:0f69d749-deff-4dcb-a4d5-d76707113087][Ross 154]]. He is distinct from Commander [[id:0be96028-d995-4b52-8bb0-34f21e080bce][John Jameson]], who died in 3151.

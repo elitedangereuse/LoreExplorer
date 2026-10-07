@@ -1,8 +1,14 @@
 :PROPERTIES:
 :ID:       0be96028-d995-4b52-8bb0-34f21e080bce
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/First_Thargoid_War https://elite-dangerous.fandom.com/wiki/John_Jameson
 :END:
 #+title: John Jameson
-#+filetags: :Individual:Thargoid:
+#+filetags: :Individual:Thargoid:3151:
+
+* Death
+
+At the end of the [[id:c6674165-eb13-47d3-ad54-796aab951892][First Thargoid War]] in 3151, Commander Jameson delivered the INRA mycoid weapon to a Thargoid hive ship and did not return. He is distinct from [[id:8123c0fb-6b91-4dc4-8162-23a31fc31db5][J. Jameson Jnr]], who received notice of [[id:af79e12c-6bc7-42ef-ade4-688b6454308a][Peter Jameson]]’s death in 3199.
+
 * Family
   - [[id:cc697ecd-bd30-4319-b7f0-5e659a6e5b44][Jameson]]
   - [[id:1950129f-ad8e-453a-94ac-8bb0813e2e28][Lori Jameson]]
