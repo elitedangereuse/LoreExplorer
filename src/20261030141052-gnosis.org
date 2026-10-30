@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       208d2e0e-2bea-4687-a672-59ba9d3bdc42
+:END:
+#+title: Gnosis
+#+filetags: :Megaship:Thargoid:3302:3303:3304:
+
+Deep-space scientific-research megaship and flagship of the [[id:2c8da7ca-a8b5-4ea1-bd52-e38ae83a9654][Canonn Interstellar Research]] Group. Funded by a community goal that gathered indium, computer components and tea at Zoline Port in LTT 377, it was the first player-faction-owned megaship. The Gnosis made its maiden voyage in 3303, taking up position in orbit around Varati A6.
+
+In 3304, while attempting a jump into the permit-locked [[id:52b032fa-2ac9-49fe-9240-49b9bf2ab3d1][Cone Sector]] FN-J B9-0 system, the Gnosis was hyperdicted by [[id:eba875cc-2486-46c4-8cea-7c6ff08f2386][Hydra]] Interceptors and left stranded near the eighth planet of the Outotz ST-I d9-6 system, surviving only because accompanying Commanders lured the Thargoids away with ejected [[id:da2f167d-0157-4deb-afb2-98bf6518cf01][Meta-Alloys]]. Its command crew was led by Captain [[id:ddd8a5bd-c70b-4239-b117-012617df1f03][Mathius Leander]].
+
+Sources: [[id:8866c63d-c9ed-46e5-9576-df2a60d0f02f][Community Goal: Canonn Launches Gnosis Campaign (Trade)]], [[id:39db78ba-6ba2-48dc-bb34-7c1ab2692ff9][Galactic News: The Gnosis Takes Flight]], [[id:acca0b9c-8c18-4277-9990-2a695bc7ad30][Gnosis Stranded]].

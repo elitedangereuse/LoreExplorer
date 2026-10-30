@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       ddd8a5bd-c70b-4239-b117-012617df1f03
+:END:
+#+title: Mathius Leander
+#+filetags: :Individual:3304:
+
+Captain of the command crew of the [[id:208d2e0e-2bea-4687-a672-59ba9d3bdc42][Gnosis]]. In 3304 he issued the distress message reporting that the vessel had been hyperdicted by Thargoids and left stranded near the eighth planet of the Outotz ST-I d9-6 system following severe damage to its frame shift drive.
+
+Sources: [[id:acca0b9c-8c18-4277-9990-2a695bc7ad30][Gnosis Stranded]].

@@ -10,10 +10,10 @@
 
 A scientific-research vessel has been left stranded following a Thargoid attack.
 
-The Gnosis, flagship of the Canonn Interstellar Research Group, recently made a hyperspace jump towards the [[id:52b032fa-2ac9-49fe-9240-49b9bf2ab3d1][Cone Sector]] FN-J B9-0 system. A short time later, the following message was received from Captain Mathius Leander of the Gnosis command crew:
+The [[id:208d2e0e-2bea-4687-a672-59ba9d3bdc42][Gnosis]], flagship of the [[id:2c8da7ca-a8b5-4ea1-bd52-e38ae83a9654][Canonn Interstellar Research]] Group, recently made a hyperspace jump towards the [[id:52b032fa-2ac9-49fe-9240-49b9bf2ab3d1][Cone Sector]] FN-J B9-0 system. A short time later, the following message was received from Captain [[id:ddd8a5bd-c70b-4239-b117-012617df1f03][Mathius Leander]] of the Gnosis command crew:
 
 “We were a short way into our journey when the Gnosis was hyperdicted by a group of Thargoid vessels. The wrench back into real space caused severe internal damage to multiple systems, including the frame shift drive.”
 
-“There’s no doubt that we would have been destroyed if not for some of the Commanders travelling with us. They lured the Thargoids away while ejecting meta-alloys from their holds. The aliens were more interested in scooping up the meta-alloys than attacking us. The Commanders later reported that the Thargoid vessels were the recently identified Hydra Interceptors.”
+“There’s no doubt that we would have been destroyed if not for some of the Commanders travelling with us. They lured the Thargoids away while ejecting [[id:da2f167d-0157-4deb-afb2-98bf6518cf01][meta-alloys]] from their holds. The aliens were more interested in scooping up the meta-alloys than attacking us. The Commanders later reported that the Thargoid vessels were the recently identified [[id:eba875cc-2486-46c4-8cea-7c6ff08f2386][Hydra]] Interceptors.”
 
 “The Gnosis is currently adrift close to the eighth planet of the Outotz ST-I d9-6 system. We have begun essential repairs, but there is a risk that the Thargoids may return before we can escape the system.”
