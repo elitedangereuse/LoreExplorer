@@ -6,7 +6,7 @@
 #+filetags: :System:
 
 #+begin_quote
-The vast financial holdings of Gallant Investment Brokers has helped
+The vast financial holdings of [[id:6bbd1e56-519f-43ad-97fa-44a7e0a09311][Gallant Investment Brokers]] has helped
 the rapid growth of this system.'Finding the perfect investment.'
 #+end_quote
 
