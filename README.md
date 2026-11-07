@@ -94,15 +94,18 @@ We encourage and welcome contributions to this project! Whether you're submittin
    - **File Structure**: Organize your notes in a way that makes logical sense and facilitates easy navigation within the org-roam system.
    - **Graph Visualization**: Think about how your note will connect with others in the org-roam graph, ensuring it adds meaningful links and relationships.
    - **Tags vs Links**: Use tags for broad topical umbrellas that would otherwise become noisy hub nodes in the graph, such as `Empire`, `Federation`, `Alliance`, `Thargoid`, or adjective variants like `Imperial` and `Federal`. Use links when a note is substantively about a specific concept, person, place, event, or artifact and the target note adds real navigational value. A broad concept may still have its own note, but not every casual mention should link to it.
-   - **Source Provenance**: Tags are useful for source families, but they are not enough on their own. When a note is based on a canon source, add an explicit source-family tag such as `:galnet:`, `:beacon:`, `:KnowledgeBase:`, `:CommunityGoal:`, or `:manual:` when applicable. For non-pristine summary nodes, also add a `Sources:` line pointing to the exact note, article, PDF or reference file used.
+   - **Source Provenance**: Tags are useful for source families, but they are not enough on their own. When a note is based on a canon source, add an explicit source-family tag such as `:galnet:`, `:beacon:`, `:KnowledgeBase:`, `:CommunityGoal:`, or `:manual:` when applicable. Record the exact source (a URL, PDF, or `references/` file) in a `:ROAM_REFS:` property rather than a prose `Sources:` line. When the source is another note already in the graph, just link it inline: org-roam backlinks record that relationship both ways, so a separate `Sources:` line would be a redundant duplicate edge.
 
 ### Example Submission in org-roam Format
 
 ```org
-#+TITLE: The Empire
-#+ROAM_ALIASES: Empire of Achenar, Imperial
-#+ROAM_TAGS: faction, empire, elite-dangerous, lore
-#+DATE: [2024-06-11 Tue]
+:PROPERTIES:
+:ID:       5c28146b-b9dc-4797-bd1f-08498d19abd2
+:ROAM_REFS: https://elite-dangerous.fandom.com/wiki/Empire_(Major_Power) https://elite-dangerous.fandom.com/wiki/Arissa_Lavigny-Duval https://community.elitedangerous.com/galnet
+:ROAM_ALIASES: "Empire of Achenar" Imperial
+:END:
+#+title: The Empire
+#+filetags: :Empire:
 
 * The Empire
 
@@ -120,10 +123,5 @@ The Empire is governed by an Emperor and a system of nobility. Loyalty and honor
 ** Military
 The Imperial Navy is a formidable force, instrumental in both defending the Empire's interests and in its expansionist policies.
 
-*References*:
-- [[https://elite-dangerous.fandom.com/wiki/Empire_(Major_Power)][Elite Dangerous Codex - The Empire]]
-- [[https://elite-dangerous.fandom.com/wiki/Arissa_Lavigny-Duval][Elite Dangerous Codex - Arissa Lavigny-Duval]]
-- [[https://community.elitedangerous.com/galnet][Galnet Articles on the Empire]]
-
-For more detailed information, see the [[https://elite-dangerous.fandom.com/wiki/Empire_(Major_Power)][Empire entry on the Elite Dangerous Wiki]].
+The canon sources for this note live in the `:ROAM_REFS:` property above, not in a prose references list; the explorer surfaces them as clickable links, and keeping them there avoids cluttering the graph with external-link nodes.
 ```
