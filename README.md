@@ -90,7 +90,7 @@ We encourage and welcome contributions to this project! Whether you're submittin
    - Use **org-roam** format for documentation.
    - **Headings**: Use the `*`, `**`, `***`, etc., hierarchy to structure your content clearly.
    - **Links**: Use org-mode links (`[[link][description]]`) to reference other notes and external resources.
-   - **Properties**: Include properties and metadata relevant to your notes, such as `:ROAM_ALIASES:` for alternative titles and `:ROAM_TAGS:` for categorization.
+   - **Properties**: Give every node a unique `:ID:` in its `:PROPERTIES:` drawer, plus `:ROAM_ALIASES:` for alternative titles and `:ROAM_REFS:` for source URLs or files where relevant. Categorise with a `#+filetags` line (for example `:Empire:Individual:3301:`); the older `:ROAM_TAGS:` property is not used in this repo.
    - **File Structure**: Organize your notes in a way that makes logical sense and facilitates easy navigation within the org-roam system.
    - **Graph Visualization**: Think about how your note will connect with others in the org-roam graph, ensuring it adds meaningful links and relationships.
    - **Tags vs Links**: Use tags for broad topical umbrellas that would otherwise become noisy hub nodes in the graph, such as `Empire`, `Federation`, `Alliance`, `Thargoid`, or adjective variants like `Imperial` and `Federal`. Use links when a note is substantively about a specific concept, person, place, event, or artifact and the target note adds real navigational value. A broad concept may still have its own note, but not every casual mention should link to it.
