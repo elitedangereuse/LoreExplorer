@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       60d845c7-52f7-4185-9a7e-b0845126492e
+:END:
+#+title: Distant Worlds 3 Fleet Departs Beagle Point to Continue Deep Space Survey
+#+filetags: :3312:galnet:
+
+* Distant Worlds 3 Fleet Departs Beagle Point to Continue Deep Space Survey
+
+/19 Mar 3312/
+
+The [[id:b1b57ce2-5c91-46b6-87aa-c3f1fa29838c][Distant Worlds 3]] expedition has confirmed that the main flotilla has successfully departed [[id:da49a702-3bb4-4dd7-9adf-29188adb2801][Beagle Point]], the historic destination that marked the terminus of the original [[id:dbb9956e-5ae2-4c27-94f7-670f0a4719f9][Distant Worlds]] journey.
+
+Having reached this milestone, the expedition has now begun the next phase of its scientific programme across some of the least explored areas of the Milky Way: the Abyss, Acheron and Veils regions.
+
+Chief expedition astronomer [[id:4a50f9ad-ecba-4b01-8952-84a8cb50db5a][Lynda Amanda ter Holt]] is coordinating the effort in collaboration with expedition command teams across the fleet. Ter Holt explained:
+
+“Beagle Point was never the final objective of this journey. Our goal is to collect high-resolution stellar data across regions that remain sparsely catalogued. Large numbers of expedition pilots can analyse stellar density and spectral distributions on a scale that would normally take decades. We continue to encourage our intrepid explorers to report any unusual phenomena, and we are cataloguing everything to establish possible correlations and inform future mission priorities.”
+
+The scientific work is being supported by an extensive logistics network of fleet carriers. Quartermaster [[id:8f462e69-bbdc-479f-95f6-4e2794069d6a][Timotheus Haddard]] praised the effort of independent pilots who have sustained the fleet’s significant fuel requirements:
+
+“The carrier fleet's [[id:419361cc-b4ff-4dba-8740-c879ca68c088][tritium]] stocks have been replenished multiple times by dedicated miners operating in extremely remote systems. Without such a superb level of cooperation, an operation this large simply wouldn’t function.”
+
+With the survey programme progressing ahead of schedule, the DW3 flotilla plans to continue its route deeper into the galactic northeast. Further updates will be issued as new discoveries are confirmed.
