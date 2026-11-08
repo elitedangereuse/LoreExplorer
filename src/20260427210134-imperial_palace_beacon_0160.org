@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       905c6013-0368-4eb2-b531-0bae8cad5f89
 :END:
-#+title: Imperial Palace
+#+title: 0160 Imperial Palace
 #+filetags: :Tourist:History:beacon:
 * 0160 Imperial Palace
 [[id:bed8c27f-3cbe-49ad-b86f-7d87eacf804a][Achenar]]
