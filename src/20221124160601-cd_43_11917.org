@@ -12,6 +12,6 @@ this system can be obtained by attaining prestige in CQC.
 #+end_quote
 
 [[file:img/permit.png]]
-[[id:ea0def0d-d18c-453c-ae1a-dddd5e894d60][CQC Holdings]]
+[[id:e72b141a-7b9c-4c18-abda-6e28e2ddc2e1][CQC Holdings]]
 Attaining prestige in CQC
 [[file:img/systems/cd-43 11917.png]]

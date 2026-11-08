@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       e72b141a-7b9c-4c18-abda-6e28e2ddc2e1
+:ROAM_REFS: https://inara.cz/elite/minorfaction-assets/33388/
 :END:
 #+title: CQC Holdings
 #+filetags: :Corporation:
