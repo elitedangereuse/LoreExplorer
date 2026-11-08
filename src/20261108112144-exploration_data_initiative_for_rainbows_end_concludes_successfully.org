@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       024470c2-8cca-429a-810e-6f5c289c1afc
+:END:
+#+title: Exploration Data Initiative for Rainbow’s End Concludes Successfully
+#+filetags: :3312:galnet:
+
+* Exploration Data Initiative for Rainbow’s End Concludes Successfully
+
+/27 Mar 3312/
+
+The exploration initiative supporting the new [[id:fd467c68-1adb-4502-8d24-1a0fef7893aa][Rainbow’s End]] deep-space port has concluded, with commanders delivering a substantial volume of exploration data to the facility.
+
+Organisers confirmed that the target for stellar survey submissions was exceeded well ahead of expectations, allowing scientific teams to begin large-scale modelling of galactic regions around the starport’s home system of Roefoo ZE-H d10-0.
+
+[[id:51896752-85c1-4c4c-8fc0-814386d4447d][Deep Space Surveys]] Operations Executive [[id:f1e8e9e3-3fcb-403f-ad6c-7c92d236d9ec][Hermine Delarue]] released a statement following the conclusion of the initiative:
+
+“The response from the exploration community has been exceptional. Databanks at Rainbow’s End are now filled with quality survey data gathered from some of the most remote areas of the galaxy. Our modelling teams can begin analysing the information to produce new stellar maps of this region. We will issue further mission priorities to our explorers via our internal communications channels once analysis is completed.”
+
+Delarue expressed her thanks to all participating commanders on behalf of the [[id:b1b57ce2-5c91-46b6-87aa-c3f1fa29838c][Distant Worlds 3]] expedition command team and wished the new port luck as a hub for deep-space research.
+
+Rainbow’s End is now fully operational and open to pilots exploring the Mare Somnium frontier.
