@@ -4,4 +4,4 @@
 #+title: Vista Genomics
 #+filetags: :3311:Corporation:
 
-Exobiology company that analyses genetic data. In 3311, it confirmed [[id:e77720ef-95cb-445c-8b48-0c7ddf11e9eb][Radicoida unica]] as a wholly unique species.
+Exobiology company that analyses genetic data. In 3311, it confirmed [[id:2025d30d-570c-4b01-bde9-116e0f1e4080][Radicoida unica]] as a wholly unique species.
