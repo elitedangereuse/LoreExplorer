@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       f2dee97c-7a34-42e9-bd7c-51935963ed4b
+:END:
+#+title: Odysseus
+#+filetags: :ship:3312:
+
+Flag carrier of the [[id:b1b57ce2-5c91-46b6-87aa-c3f1fa29838c][Third Distant Worlds Expedition]]. In 3312, during the expedition's passage toward Waypoint 13 in the [[id:edf930ec-8736-45c9-907b-4512626640a8][Empyrean Straits]], Odysseus was to install a commemorative beacon that would register the callsigns of scanning Commanders.
