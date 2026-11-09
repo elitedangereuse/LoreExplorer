@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       1f552f3e-0cd9-4160-beff-22b15d7eebcd
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Eorl+Auwsy+AA-A+H72
+:END:
+#+title: Eorl Auwsy AA-A H72
+#+filetags: :System:3312:
+
+System in the [[id:f8c7f778-5ad7-478f-9e4b-17c83a7ce2bf][Teal Nebula]], within the [[id:edf930ec-8736-45c9-907b-4512626640a8][Empyrean Straits]], holding remote [[id:f57cff55-3348-45ea-b76f-d0eaa3c68165][Guardian]] ruins that the [[id:b1b57ce2-5c91-46b6-87aa-c3f1fa29838c][Third Distant Worlds Expedition]] planned to visit in 3312.
