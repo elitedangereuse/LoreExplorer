@@ -4,4 +4,4 @@
 #+title: Rainbow’s End
 #+filetags: :Station:3312:
 
-Deep-space outpost built by the [[id:b1b57ce2-5c91-46b6-87aa-c3f1fa29838c][Third Distant Worlds Expedition]] logistics fleet in the Roefoo ZE-H d10-0 system, at the edge of the [[id:677eb0f1-2d22-4200-aa61-0b3f374aa6a3][Mare Somnium]] region. Established in 3312 as a remote research hub to support long-range exploration and stellar cartography across the sparsely charted galactic northeast.
+Deep-space outpost built by the [[id:b1b57ce2-5c91-46b6-87aa-c3f1fa29838c][Third Distant Worlds Expedition]] logistics fleet in the [[id:0b4f7327-38c8-4e8c-b370-522722c0fae4][Roefoo ZE-H d10-0]] system, at the edge of the [[id:677eb0f1-2d22-4200-aa61-0b3f374aa6a3][Mare Somnium]] region. Established in 3312 as a remote research hub to support long-range exploration and stellar cartography across the sparsely charted galactic northeast.

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       0b4f7327-38c8-4e8c-b370-522722c0fae4
+:ROAM_REFS: https://edgis.elitedangereuse.fr/static/sysmap.html?system=Roefoo+ZE-H+d10-0
+:END:
+#+title: Roefoo ZE-H d10-0
+#+filetags: :System:3312:
+
+Deep-space system at the edge of the [[id:677eb0f1-2d22-4200-aa61-0b3f374aa6a3][Mare Somnium]] region, in the sparsely charted galactic northeast. In 3312 the [[id:b1b57ce2-5c91-46b6-87aa-c3f1fa29838c][Third Distant Worlds Expedition]] built the deep-space port [[id:fd467c68-1adb-4502-8d24-1a0fef7893aa][Rainbow’s End]] here as a remote research hub.

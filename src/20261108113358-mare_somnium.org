@@ -4,4 +4,4 @@
 #+title: Mare Somnium
 #+filetags: :Region:3312:
 
-A sparsely charted region of the galaxy toward the galactic northeast. In 3312 the [[id:b1b57ce2-5c91-46b6-87aa-c3f1fa29838c][Third Distant Worlds Expedition]] established the deep-space port [[id:fd467c68-1adb-4502-8d24-1a0fef7893aa][Rainbow’s End]] at its edge, in the Roefoo ZE-H d10-0 system, as a hub for surveying the region.
+A sparsely charted region of the galaxy toward the galactic northeast. In 3312 the [[id:b1b57ce2-5c91-46b6-87aa-c3f1fa29838c][Third Distant Worlds Expedition]] established the deep-space port [[id:fd467c68-1adb-4502-8d24-1a0fef7893aa][Rainbow’s End]] at its edge, in the [[id:0b4f7327-38c8-4e8c-b370-522722c0fae4][Roefoo ZE-H d10-0]] system, as a hub for surveying the region.
