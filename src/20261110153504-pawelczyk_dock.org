@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       52388f12-1931-499f-88a4-8cf8b2122de7
+:END:
+#+title: Pawelczyk Dock
+#+filetags: :Station:3312:
+
+Station in the [[id:fe44b247-698a-4f33-97be-2fd2e512b527][HIP 58412]] system, used as the registration point for the 3312 [[id:8ac13408-b8f6-492d-be5e-846c37510750][Frontline Solutions]] campaign to build its fleet of Runners.
