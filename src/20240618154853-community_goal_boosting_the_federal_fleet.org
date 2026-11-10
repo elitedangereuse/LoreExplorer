@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       9a81ddad-4e95-48a5-a254-06695a006da7
+:ROAM_REFS: file:../references/Community%20Goals/BOOSTING_THE_FEDERAL_FLEET.md
 :END:
 #+title: Community Goal: Boosting the Federal Fleet
 #+filetags: :Empire:Federation:Alliance:CommunityGoal:3302:galnet:

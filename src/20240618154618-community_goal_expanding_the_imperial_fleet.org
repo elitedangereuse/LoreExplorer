@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       5b5e3c5b-37fe-47c5-b7ed-0e4619c840bd
+:ROAM_REFS: file:../references/Community%20Goals/Expanding_the_Imperial_Fleet_.md
 :END:
 #+title: Community Goal: Expanding the Imperial Fleet
 #+filetags: :Empire:CommunityGoal:3302:galnet:

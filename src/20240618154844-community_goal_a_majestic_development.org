@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       fc091f95-d2e3-4670-855e-70bfe78c557f
+:ROAM_REFS: file:../references/Community%20Goals/A_Majestic_Development.md
 :END:
 #+title: Community Goal: A Majestic Development
 #+filetags: :Empire:Federation:CommunityGoal:3302:galnet:

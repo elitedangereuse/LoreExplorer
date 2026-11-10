@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       5a5a2c71-1b2f-4197-930c-a10eae11d336
+:ROAM_REFS: file:../references/Community%20Goals/Federal_Expansion_Campaign_Begins.md
 :END:
 #+title: Community Goal: Federal Expansion Campaign Begins
 #+filetags: :Federation:CommunityGoal:3302:galnet:

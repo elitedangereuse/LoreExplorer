@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       a6bce3e0-1a41-440c-b140-58861e466c43
+:ROAM_REFS: file:../references/Community%20Goals/Diamond_Frogs_Campaign.md
 :END:
 #+title: Community Goal: Diamond Frogs Campaign
 #+filetags: :CommunityGoal:3303:galnet:

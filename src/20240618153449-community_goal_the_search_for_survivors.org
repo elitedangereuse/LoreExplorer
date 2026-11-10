@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       bdb7b744-44d1-46ad-84bd-899554bf4775
+:ROAM_REFS: file:../references/Community%20Goals/The_Search_For_Survivors.md
 :END:
 #+title: Community Goal: The Search for Survivors
 #+filetags: :Federation:CommunityGoal:3302:galnet:

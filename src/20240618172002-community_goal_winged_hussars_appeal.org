@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       75ce2511-88ef-4ee3-8dc2-f9d804514545
+:ROAM_REFS: file:../references/Community%20Goals/Winged_Hussars_Appeal.md
 :END:
 #+title: Community Goal: Winged Hussars Appeal
 #+filetags: :CommunityGoal:3303:galnet:

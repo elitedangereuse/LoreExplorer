@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       a172c8b5-7c87-4877-ba91-cf06b965dc1f
+:ROAM_REFS: file:../references/Community%20Goals/Canonn_Launches_Outpost_Campaign.md
 :END:
 #+title: Community Goal: Canonn Launches Outpost Campaign
 #+filetags: :CommunityGoal:3302:galnet:

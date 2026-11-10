@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       922e9bb7-48e4-411c-b8de-de25ac922279
+:ROAM_REFS: file:../references/Community%20Goals/The_Colonia_Initiative.md
 :END:
 #+title: Community Goal: The Colonia Initiative
 #+filetags: :Federation:Empire:CommunityGoal:3302:galnet:

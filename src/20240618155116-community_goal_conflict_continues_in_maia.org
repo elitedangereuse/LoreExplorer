@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       5ef13a2d-e8e0-4c6d-8217-34a63f4692ec
+:ROAM_REFS: file:../references/Community%20Goals/Conflict_Continues_in_Maia__Bounty_Hunting_.md
 :END:
 #+title: Community Goal: Conflict Continues in Maia
 #+filetags: :CommunityGoal:3302:galnet:

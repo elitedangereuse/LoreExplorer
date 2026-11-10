@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       feb0cfd6-fda3-48a9-a777-0c4ae1e55c1f
+:ROAM_REFS: file:../references/Community%20Goals/Restoring_Order_in_Slink_s_Eye.md
 :END:
 #+title: Community Goal: Restoring Order in Slink's Eye
 #+filetags: :CommunityGoal:3302:galnet:

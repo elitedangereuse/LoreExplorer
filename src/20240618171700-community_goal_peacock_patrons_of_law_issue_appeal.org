@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       6c410d26-ce74-4842-b5ad-4652cbe782f4
+:ROAM_REFS: file:../references/Community%20Goals/Peacock_Patrons_of_Law_Issue_Appeal__Trade_.md
 :END:
 #+title: Community Goal: Peacock Patrons of Law Issue Appeal
 #+filetags: :CommunityGoal:3303:galnet:

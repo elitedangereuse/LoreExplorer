@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       77827066-3a73-4478-aee3-0f6dd2a6ff5c
+:ROAM_REFS: file:../references/Community%20Goals/The_Skvortsov_Orbital_Hangover.md
 :END:
 #+title: Community Goal: The Skvortsov Orbital Hangover
 #+filetags: :CommunityGoal:3302:galnet:

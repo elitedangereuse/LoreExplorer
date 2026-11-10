@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       e7ae050c-0888-4e49-8ccd-c8943225e7c7
+:ROAM_REFS: file:../references/Community%20Goals/Restoring_Order_in_Lidpar__Bounty_Hunting_.md
 :END:
 #+title: Community Goal: Restoring Order in Lidpar
 #+filetags: :CommunityGoal:3303:galnet:

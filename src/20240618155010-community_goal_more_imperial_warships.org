@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       1bf59259-e0ab-4993-a428-1b49e4f011af
+:ROAM_REFS: file:../references/Community%20Goals/More_Imperial_Warships.md
 :END:
 #+title: Community Goal: More Imperial Warships
 #+filetags: :Empire:Federation:CommunityGoal:3302:galnet:

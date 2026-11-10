@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       6f614552-deeb-423a-bdee-dc1d0dc80967
+:ROAM_REFS: file:../references/Community%20Goals/Expanding_the_Federal_Fleet.md
 :END:
 #+title: Community Goal: Expanding the Federal Fleet
 #+filetags: :Federation:CommunityGoal:3302:galnet:

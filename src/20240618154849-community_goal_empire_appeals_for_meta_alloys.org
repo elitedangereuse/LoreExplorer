@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       d236a0cf-b80e-4594-9658-0744c7cbb620
+:ROAM_REFS: file:../references/Community%20Goals/Empire_Appeals_for_Meta_Alloys.md
 :END:
 #+title: Community Goal: Empire Appeals for Meta-Alloys
 #+filetags: :Empire:Federation:CommunityGoal:3302:galnet:

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       e4984520-13a2-4fb9-a1a9-3d14afa3f6b5
+:ROAM_REFS: file:../references/Community%20Goals/Wilkes_Orbital_in_Need.md
 :END:
 #+title: Community Goal: Wilkes Orbital in Need
 #+filetags: :CommunityGoal:3302:galnet:

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       cef58d92-b5f4-4aae-8518-a1aa78047c54
+:ROAM_REFS: file:../references/Community%20Goals/Operation_Andronicus.md
 :END:
 #+title: Community Goal: Operation Andronicus
 #+filetags: :Federation:Thargoid:CommunityGoal:3303:galnet:

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       cfe58593-0e9b-42b4-b563-7e52a8fa22ad
+:ROAM_REFS: file:../references/Community%20Goals/Wolves_of_Jonai_Appeal.md
 :END:
 #+title: Community Goal: Wolves of Jonai Appeal
 #+filetags: :CommunityGoal:3303:galnet:

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       f51a748b-b761-4fa6-8591-258cbf9ebe50
+:ROAM_REFS: file:../references/Community%20Goals/Alliance_Outpost_Campaign__Trade_.md
 :END:
 #+title: Community Goal: Alliance Outpost Campaign
 #+filetags: :Federation:Empire:Alliance:CommunityGoal:3303:galnet:

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       2561c526-01bd-49fe-ae3a-e8202eb8d825
+:ROAM_REFS: file:../references/Community%20Goals/Skvortsov_Orbital_Explorers__Gala.md
 :END:
 #+title: Community Goal: Skvortsov Orbital Explorers' Gala
 #+filetags: :Federation:CommunityGoal:3302:galnet:

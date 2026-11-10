@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       b29a9b3f-2ff7-4c9b-86a3-f32a130f1284
+:ROAM_REFS: file:../references/Community%20Goals/Clean_up_Orulas.md
 :END:
 #+title: Community Goal: Clean up Orulas
 #+filetags: :CommunityGoal:3302:galnet:

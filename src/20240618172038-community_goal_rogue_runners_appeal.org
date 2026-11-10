@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       3fb046ba-6612-432a-90e2-983f69d7368e
+:ROAM_REFS: file:../references/Community%20Goals/Rogue_Runners_Appeal.md
 :END:
 #+title: Community Goal: Rogue Runners Appeal
 #+filetags: :Thargoid:CommunityGoal:3303:galnet:

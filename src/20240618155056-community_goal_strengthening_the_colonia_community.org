@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       ea1269d5-0bec-42fa-b16a-6e1ef7d61c2c
+:ROAM_REFS: file:../references/Community%20Goals/Strengthening_the_Colonia_Community.md
 :END:
 #+title: Community Goal: Strengthening the Colonia Community
 #+filetags: :CommunityGoal:3302:galnet:

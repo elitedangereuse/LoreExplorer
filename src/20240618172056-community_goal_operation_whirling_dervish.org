@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       08203cb5-ee1d-4bd3-92d8-16962f3e8df6
+:ROAM_REFS: file:../references/Community%20Goals/Operation_Whirling_Dervish.md
 :END:
 #+title: Community Goal: Operation Whirling Dervish
 #+filetags: :CommunityGoal:3303:galnet:

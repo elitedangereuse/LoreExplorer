@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       5ecbb8f3-0b1f-4382-97e4-9358132c4b81
+:ROAM_REFS: file:../references/Community%20Goals/Feeding_California.md
 :END:
 #+title: Community Goal: Feeding California
 #+filetags: :Alliance:CommunityGoal:3303:galnet:

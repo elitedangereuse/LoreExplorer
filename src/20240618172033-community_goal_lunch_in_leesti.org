@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       d3af901f-bab0-42c2-85b0-060793fbd56c
+:ROAM_REFS: file:../references/Community%20Goals/Lunch_in_Leesti.md
 :END:
 #+title: Community Goal: Lunch in Leesti
 #+filetags: :CommunityGoal:3303:galnet:

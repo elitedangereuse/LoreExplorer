@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       2edc9733-2eb0-4a58-896a-b26c89f2e508
+:ROAM_REFS: file:../references/Community%20Goals/Ishmael_Palin_Launches_Appeal.md
 :END:
 #+title: Community Goal: Ishmael Palin Launches Appeal
 #+filetags: :3301:CommunityGoal:3302:galnet:

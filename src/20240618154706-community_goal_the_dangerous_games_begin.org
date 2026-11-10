@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       8b1b6774-272c-46cd-9bdc-c9a4b9ac5bc7
+:ROAM_REFS: file:../references/Community%20Goals/The_Dangerous_Games_Begin.md
 :END:
 #+title: Community Goal: The Dangerous Games Begin
 #+filetags: :Alliance:CommunityGoal:3302:galnet:

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       638984f7-03b0-4d78-81ba-ceec3004a2a1
+:ROAM_REFS: file:../references/Community%20Goals/Rescue_Operation_in_the_California_Nebula.md
 :END:
 #+title: Community Goal: Rescue Operation in the California Nebula
 #+filetags: :Alliance:CommunityGoal:3303:galnet:

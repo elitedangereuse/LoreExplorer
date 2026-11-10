@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       8a250256-3a81-42b3-9370-63ac9c805670
+:ROAM_REFS: file:../references/Community%20Goals/Remembrance_Week.md
 :END:
 #+title: Community Goal: Remembrance Week
 #+filetags: :CommunityGoal:3303:galnet:
