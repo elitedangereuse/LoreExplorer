@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       626f47ed-5ebd-4407-ac41-e8a87088faf9
+:END:
+#+title: The Runner
+#+filetags: :ship:3312:
+
+Vessel launched by [[id:8ac13408-b8f6-492d-be5e-846c37510750][Frontline Solutions]] in 3312, designed to rapidly transport mercenary squads and ships to operational locations. Frontline builds its Runners in-house to retain control of its logistics.
