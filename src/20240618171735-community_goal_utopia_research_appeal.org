@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       b6903271-a5cb-492c-87ed-ae6c7d862249
+:ROAM_REFS: file:../references/Community%20Goals/Utopia_Research_Appeal__Materials_donation_.md
 :END:
 #+title: Community Goal: Utopia Research Appeal
 #+filetags: :CommunityGoal:3303:galnet:

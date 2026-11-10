@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       77fe4f9f-a892-4430-9812-7948fe992072
+:ROAM_REFS: file:../references/Community%20Goals/Zeus_Bureau_Appeal__Rares_.md
 :END:
 #+title: Community Goal: Zeus Bureau Appeal
 #+filetags: :CommunityGoal:3303:galnet:

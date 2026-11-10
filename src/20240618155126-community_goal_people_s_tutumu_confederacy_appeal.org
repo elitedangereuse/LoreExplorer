@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       4a5dfbb1-4801-4def-aff8-3803e4655ff0
+:ROAM_REFS: file:../references/Community%20Goals/People_s_Tutumu_Confederacy_Appeal__Trade__with_prizes_.md
 :END:
 #+title: Community Goal: People's Tutumu Confederacy Appeal
 #+filetags: :CommunityGoal:3302:galnet:

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       bc7be49c-7508-4444-b870-9be9dfb94e10
+:ROAM_REFS: file:../references/Community%20Goals/Festive_Appeal__Rares_.md
 :END:
 #+title: Community Goal: Festive Appeal
 #+filetags: :CommunityGoal:3302:galnet:

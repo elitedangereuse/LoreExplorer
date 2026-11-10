@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       7eb30501-2c0b-4ee1-9472-9f3c5c0be05a
+:ROAM_REFS: file:../references/Community%20Goals/Valentine_s_Day_Appeal__Rares_.md
 :END:
 #+title: Community Goal: Valentine's Day Appeal
 #+filetags: :CommunityGoal:3303:galnet:

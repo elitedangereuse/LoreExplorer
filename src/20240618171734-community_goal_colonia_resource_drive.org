@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       26a533e6-0957-4c64-a364-d47c89897770
+:ROAM_REFS: file:../references/Community%20Goals/Colonia_Resource_Drive__Trade_Mining_.md
 :END:
 #+title: Community Goal: Colonia Resource Drive
 #+filetags: :CommunityGoal:3303:galnet:

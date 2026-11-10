@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       8ce15aa4-79fc-42d8-83f1-a2f8c09dc56c
+:ROAM_REFS: file:../references/Community%20Goals/Total_Eclipse__Special_CG_.md
 :END:
 #+title: Community Goal: Total Eclipse
 #+filetags: :Empire:Thargoid:CommunityGoal:3303:galnet:

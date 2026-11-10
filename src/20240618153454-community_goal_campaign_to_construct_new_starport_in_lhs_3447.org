@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       9f8ab85c-ec86-4d02-91b7-94201b3d3e86
+:ROAM_REFS: file:../references/Community%20Goals/Campaign_to_Construct_New_Starport_in_LHS_3447.md
 :END:
 #+title: Community Goal: Campaign to Construct New Starport in LHS 3447
 #+filetags: :Federation:CommunityGoal:3302:galnet:
